@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213122316id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbtv.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615045434id_/http%3A//www.wsbtv.com/station/1869260/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WSB-TV News Story - WSB Atlanta
-
-Effective date: 1/7/03
 
 WSB-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Georgia Television Company, d/b/a WSB-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: [talk2us@wsbtv.com](mailto:talk2us@wsbtv.com)
 
