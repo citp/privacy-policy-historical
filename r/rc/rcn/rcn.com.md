@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615150230id_/http%3A//www.rcn.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615194026id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
 
-# RCN Legal - Privacy Policy
+# RCN | Policies & Disclaimers | Privacy Policy
 
-| 
+### RCN Privacy Policy
 
-**RCN Privacy Policy**   
   
 RCN understands how important personal privacy is to you and we are committed to fully protect your rights. We want our customers to be aware of what information RCN collects and how it is handled. This statement discloses RCN's privacy practices, including an explanation of which personal information about RCN's customers is collected, how the information is used, with whom the information may be shared, how the customer can correct any inaccuracies in the information, and your rights and our responsibilities under applicable privacy laws.
 
@@ -182,7 +181,7 @@ RCN also may disclose to third parties information logged by the RCN network and
 
   * to comply with applicable law or valid legal process, such as in the event RCN is served with a Subpoena, Court Order or other legal mandate, requiring the production of such records
   * in emergencies when a person’s physical safety is at issue
-  * 
+
 
 
 In addition, RCN reserves the right to disclose the identity of a subscriber, whether or not in conjunction with other information, to third parties as required to comply with applicable law, or valid legal process, or law enforcement request. 
