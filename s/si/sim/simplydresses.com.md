@@ -1,61 +1,49 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012242id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041508id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses Homecoming Dresses Prom Gowns Shoes Special Occasion Dresses and Accessories from Simplydresses.com
 
-[**Return and Exchange Policy**](http://www.simplydresses.com/info/policies.cfm#return)  
-[**Telephone Orders**](http://www.simplydresses.com/info/policies.cfm#telephone)  
-[**Fax Orders**](http://www.simplydresses.com/info/policies.cfm#fax)  
-[**Money Orders**](http://www.simplydresses.com/info/policies.cfm#mo)  
-[**Delivery Times**](http://www.simplydresses.com/info/policies.cfm#delivery)  
-[**Shipping**](http://www.simplydresses.com/info/policies.cfm#shipping)  
-[**Low Price Guarantee**](http://www.simplydresses.com/info/policies.cfm#lowpriceguarantee)  
-[**Payment Methods**](http://www.simplydresses.com/info/policies.cfm#payment)  
-[**Security**](http://www.simplydresses.com/info/policies.cfm#security)  
-[**Privacy policy**](http://www.simplydresses.com/info/policies.cfm#privacypolicy)  
-[**Cookies**](http://www.simplydresses.com/info/policies.cfm#cookies)  
+[**Return and Exchange Policy**](http://www.simplydresses.com/info/policies#return)  
+[ **Telephone Orders**](http://www.simplydresses.com/info/policies#telephone)  
+[ **Fax Orders**](http://www.simplydresses.com/info/policies#fax)  
+[ **Money Orders**](http://www.simplydresses.com/info/policies#mo)  
+[ **Delivery Times**](http://www.simplydresses.com/info/policies#delivery)  
+[ **Shipping**](http://www.simplydresses.com/info/policies#shipping)  
+[ **Low Price Guarantee**](http://www.simplydresses.com/info/policies#lowpriceguarantee)  
+[ **Payment Methods**](http://www.simplydresses.com/info/policies#payment)  
+[ **Security**](http://www.simplydresses.com/info/policies#security)  
+[ **Privacy policy**](http://www.simplydresses.com/info/policies#privacypolicy)  
+[ **Cookies**](http://www.simplydresses.com/info/policies#cookies)  
 
 
 **Return and Exchange policy**
 
-If for any reason you are not completely satisfied with your purchase you may return your merchandise for STORE CREDIT LESS SHIPPING FEES AND APPROPRIATE RESTOCKING FEES. Store credit cannot be used towards shipping costs. You must contact us within 5 days of receiving your order for a return authorization number. Merchandise must be postmarked within 5 days of receiving a return authorization number from us. Merchandise returned without authorization or returned late will be refused. All original tags must be in place to receive credit for the return. All merchandise is carefully inspected before accepted by our return department. Any items returned to us that appear to have been worn will not receive credit in any form. Customer is responsible for return shipping fees via their carrier of choice, provided they receive a valid tracking number for proof of return. 
+Please [click here to see our full return policy](http://www.simplydresses.com/info/returns). 
 
-Exceptions:  
-Final Sale – No Returns: There are no returns, exchanges or cancellations on any sale merchandise. 
+For a return authorization, [please click here](http://www.promgirl.com/returns).
 
-Important note: There are no returns, exchanges or cancellations on custom made, final sales, or sale merchandise. Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
-Please Note: Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense. The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached and in original packaging. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee. Store credit is valid for one year after issue date and cannot be used towards shipping costs.
-
-There is a 10% restocking fee for all single dress returns and exchanges. Returns of two or more dresses have restocking fees as follow: Two dresses or more- 20%. There is a 20% restocking fee on all non-dress returns and exchanges (shoes, jewelry etc.) 
-
-There is a 20% restocking fee for all non dress returns and exchanges. 
-
-For questions, please email us at [returns@simplydresses.com](mailto:returns@simplydresses.com), do not call for a return authorization. All requests must be done by emailing [returns@simplydresses.com](mailto:returns@simplydresses.com)
-
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
-
-  
 **Telephone Orders**
 
-For customers not wishing to place their order online you may email your phone number to [Support@Simplydresses.com.](mailto:support@Simplydresses.com) Please include an appropriate time to contact you and your time zone or state where you are calling from. One of our service representatives will contact you to take your order information within 24 hours. Or you can call us at our toll free number 1-302-449-1500 between 10 AM and 5 PM EST Monday through Friday.
+For customers not wishing to place their order online you may email your phone number to [Support@Simplydresses.com.](mailto:support@Simplydresses.com) Please include an appropriate time to contact you and your time zone or state where you are calling from. One of our service representatives will contact you to take your order information within 24 hours. Or you can call us at our toll free number 1-888-THE PROM (843-7766) or our direct/international number 1-302-279-1052 between 10 AM and 5 PM EST Monday through Friday.
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Fax orders**
 
 Customers may fax their order information by printing the [form linked here](http://simplydresses.com/pdfs/fax_form.pdf) and faxing to 302-279-1075. We will enter your information and you will receive an email confirmation of your order. 
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Money Orders**
 
-Customers using money orders must fill out this [form linked here](http://simplydresses.com/pdfs/mo_form.pdf) and mail it with their money order. Before mailing the form, call us at 302-449-1500 for a final price quote and stock availability. Please mail all money orders to...
+Customers using money orders must fill out this [form linked here](http://simplydresses.com/pdfs/mo_form.pdf) and mail it with their money order. Before mailing the form, call us at 302-279-1052 for a final price quote and stock availability. Please mail all money orders to...
 
 Simply Dresses  
 7 Crenshaw Ct.  
 Middletown DE 19709
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Delivery Times**
 
@@ -65,7 +53,7 @@ All orders of in stock merchandise placed before 9 AM EST will be shipped the sa
 
 Please allow 6 additional weeks for customized dresses, and 5 days for dying handbags and shoes.
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Shipping**
 
@@ -76,34 +64,35 @@ Orders of in stock merchandise placed before 9 AM EST will be shipped the same b
 UPS Ground - 3-7 Business Days $8.75  
 UPS 3 Day - 3 Business Days $17  
 UPS 2 Day - 2 Business Days $22  
-Overnight - 1 Business Day $30 
+Overnight - 1 Business Day $30  
+
 
 APO/FPO and P.O. Boxes  
 Priority Mail - 5-7 Days $15
 
-Canada**  
-Standard UPS - 3-7 Days $30  
-Expedited - 2-5 Days $60>
+Canada  
+Standard Landed UPS - 5-9 Days $50**  
+Expedited - 2-5 Days $60***
 
 International***  
 Expedited - 2-5 Days $70  
 Shipping prices are per item.
 
-* Business Days are Monday through Friday (non Holiday).  
-**CANADA CUSTOMERS ONLY - You are paying everything up front, also called a "Landed Cost." You are being charged the total cost of your entire order before it leaves the US. This total "Shipping Cost" for Canadian orders only includes the shipping cost, the brokerage fee, the customs duty, and the GST. Your order will be delivered to your door and you owe nothing else.  
-***All international shipments are subject to duties and taxes.
+* Business Days are Monday through Friday (non Holiday).
 
-Custom and import charges are not included in our shipping charges. 
+**CANADA STANDARD LANDED CUSTOMERS ONLY - You are paying everything up front, also called a "Landed Cost." You are being charged the total cost of your entire order before it leaves the US. This total "Shipping Cost" for Canadian orders includes the shipping cost, the brokerage fee, the customs duty, and the GST. Your order will be delivered to your door and you owe nothing more.
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+***All international shipments are subject to duties and taxes.  Custom and import charges are not included in our shipping charges. 
+
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Low Price Guarantee**
 
 If you find a lower price on any item we carry online, we will beat it +2%. If you have already purchased the item, and find a lower price in the next 15 days, we will refund the difference plus 2%
 
-Exceptions: Advertised price must be online and we must be able to see it! This does not apply to any item marked ‘sale’ (clearance, special, etc), or auctions. 
+Exceptions: Advertised price must be online and visible! Product must be available for immediate shipment in size and color ordered. This does not apply to any dress marked sale, clearance, special auction, etc. Cannot be combined with any other discount, coupon or special offer.
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Payment Methods**
 
@@ -115,7 +104,7 @@ Middletown DE 19709
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Security**
 
@@ -125,9 +114,7 @@ Prom Girl guarantees that your shopping experience will be safe. Under the Fair 
 
 In the unlikely event of fraudulent use, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-Tax Information Applicable state and local sales tax will be added to all orders shipped to New York addresses. Sales tax will not be charged on shipments to recipients outside New York. 
-
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **PRIVACY POLICY**
 
@@ -151,7 +138,7 @@ Some versions of firewalls don't permit communication through secure servers. In
 
 If you cannot access a secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. 
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 **Cookies, what are they? How and why we use them.**
 
@@ -161,8 +148,11 @@ Simplydresses.com uses cookies to identify returning registrants to the site so 
 
 Although most browsers automatically accept cookies, you can usually change your browser to prevent cookies or notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept it. 
 
-[\- top of page -](http://www.simplydresses.com/info/policies.cfm#top)
+[\- top of page -](http://www.simplydresses.com/info/policies#top)
 
 ******************
 
 Our Web site uses a reputable third party to serve the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm).
+
+  
+
