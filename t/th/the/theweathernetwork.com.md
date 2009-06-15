@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011509id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615181202id_/http%3A//www.theweathernetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy - The Weather Network
 
