@@ -1,32 +1,81 @@
-> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211023056id_/http%3A//www.nvidia.co.uk/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615181723id_/http%3A//nvidia.co.uk/object/privacy_policy.html) for the most accurate reproduction.*
 
-# NVIDIA Privacy Notice
+# NVIDIA Privacy Policy
 
-NVIDIA gathers certain information from and about visitors to our website.  We pay close attention to how information about our visitors is used and shared, and we use that information carefully and sensibly.  This notice describes our privacy policy.  **By visiting NVIDIA's website, you are accepting the practices described in this Privacy Notice.**
+This policy was last updated on February 25, 2008.
 
-**Information Gathered by NVIDIA**  
-The information we gather from visitors to our website helps us learn about end-users and potential end-users of our products so that we can better tailor product features, performance and support, and offer additional information and opportunities. 
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.com, www.slizone.com and www.nzone.com.
 
-We collect information you enter on our website, such as when you search for products or participate in a contest or questionnaire.  We may also  collect information you provide to us in other ways, such as when you communicate with us by telephone or e-mail.  Information collected may include your name, address, phone number, details of purchases, personal preferences, financial information, and other descriptive information. 
+[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] for NVIDIA's Kids Privacy Policy.
 
-We may also gather certain information automatically whenever you interact with our website.  Like many websites, we may use "cookies" (alphanumeric files transferred to your computer hard drive that enable our computers to recognize your computer) that allow us to obtain certain types of information when your web browser accesses our website.  Information collected may include the Internet Protocol address used to connect you to the Internet, computer information such as browser type and operating system, the Uniform Resource Locators (URL) to, through, and from our website, date and time of your visit, products and information you viewed or searched for, phone numbers used to call us, and confirmation of when you open e-mail from us.
+  1. Introduction
+  2. What Information We May Collect
+  3. Why We Collect Personal Information
+  4. Your Choices Regarding Your Personal Information
+  5. Kids Privacy Policy
+  6. Links to Other Sites
+  7. Security
+  8. How to Contact Us
+  9. Online Privacy Policy Updates
+  10. Your Consent
 
-To help improve our products and to provide services such as product recommendations and special offers, we may also receive information about you from other sources and add it to information we have collected.
 
-**Use of Information**  
-We use the information that you provide to improve our products, respond to your requests, deliver product information (such as notification of product releases and the availability of updated software drivers and technical information), and make you aware of special offers. 
 
-We are not in the business of selling information about our customers or visitors to our website.  We may, however, share information with select partners working with us to deliver better graphics and multimedia capabilities.  We work with other companies throughout the design, manufacturing, integration, delivery, support, and servicing process, and may provide information we have collected to them to assist in improving their processes and so that they too can offer you useful information and special offers. 
+________________________________________________________________________ 
 
-NVIDIA may sell or buy assets from or to other companies.  Customer information may be one of the transferred business assets, and would likely be one of the transferred assets in the unlikely event that NVIDIA or substantially all of its assets were acquired.
+  1. #### Introduction
 
-We may release information on customers and visitors to our website when we believe release is appropriate to comply with laws, to enforce or apply our terms of use or terms of agreements we have entered into, or to protect our rights and property. 
+NVIDIA® is committed to implementing appropriate protections for any Personal Information that our users share with us. 
 
-**Conditions of Use and Revisions**   
-If you choose to visit NVIDIA’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of California.  This Privacy Notice may change periodically, and use of information that we have gathered is subject to the Privacy Notice in effect at the time of use.  You should check our website frequently to see recent changes. 
+NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies and procedures regarding our collection, use, and/or sharing of your Personal Information.
 
-* * *
+  2. #### What Information We May Collect
 
+When users visit our website, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is also treated as Personal Information.
+
+[CLICK HERE] to learn more about how Personal Information is collected.
+
+  3. #### Why We Collect Personal Information
+
+The Personal Information we collect helps us process transactions, respond to requests, and importantly, to learn about our users' interests in terms of the features, performance and support of our products, and our users' website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
+
+We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, or consulting partners in an effort to better serve you. For example, when you register for a marketing event or contest on our website, we may share your Personal Information with the business partners that help us run the event or contest.
+
+[CLICK HERE] to learn more how we may share your Personal Information with our business partners. 
+
+  4. #### Your Choices Regarding Your Personal Information
+
+NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.
+
+    * If you choose _not_ to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.
+    * If you choose to provide NVIDIA with your Personal Information, you can " **opt-in** " to also receive additional communications from NVIDIA, our affiliates or our business partners, such as newsletters, promotional materials, special offers, etc. 
+    * You can " **opt-out** " of receiving further communications at any time by unsubscribing at **<http://www.nvidia.com/nvregister/frmOptOut.asp>** , or by following the unsubscribe instructions at the bottom of any e-mail you receive. We will alert our e-mail marketing partners to stop sending you any further NVIDIA-related communications. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us. 
   
-  
+
+  5. #### Kids Privacy Policy
+
+We take care to protect the privacy of children under the age of 13 who visit our website.   
+[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] to access NVIDIA's **Kids Privacy Policy**. 
+
+  6. #### Links to Other Sites
+
+We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator. 
+
+  7. #### Security
+
+We will take all reasonable and appropriate measures to protect the personal information you share with us from unauthorized access or disclosure.
+
+  8. #### How to Contact Us
+
+If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to [privacy@nvidia.com](mailto:privacy@nvidia.com) or write to us at: NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, CA 95050.
+
+  9. #### Online Privacy Policy Updates
+
+We may makes changes to our Online Privacy Policy from time to time. Please review our policies regularly as updated policies will apply to your future visits to our website.
+
+  10. #### Your Consent
+
+By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA's collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
+
+
 
