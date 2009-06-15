@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapmuse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012334id_/http%3A//find.mapmuse.com/re1/mmPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmuse.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163154id_/http%3A//find.mapmuse.com/re1/mmPrivacy.htm) for the most accurate reproduction.*
 
-# MapMuse.com - Redefining Internet Mapping Services for Real Estate and More
+# MapMuse - Privacy Policy
 
 MapMuse, Inc recognizes the importance of protecting the information collected from Users in the operation of this Web site, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to MapMuse you consent to the practices described herein.
 
@@ -13,5 +13,7 @@ MapMuse may disclose to carefully chosen third parties navigational and transact
 Links may be provided from this Web site to other third party Web sites. In using such links, Users should be aware that each third party Web site will vary in terms of its privacy and data protection policies, and MapMuse does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate.
 
 You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that are accessible to other Users (e.g. reviews, content submitted) could be collected and disclosed by others. MapMuse cannot take any responsibility for such collection and disclosure.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Please note that MapMuse's Privacy and Data Protection Policy is reviewed periodically. MapMuse reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our Contact Us page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either select the Contact Us page as set forth above, or make in a written request to MapMuse, Inc., 1326 14th St NW, Washington DC 20005 . 
