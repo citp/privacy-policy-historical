@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imagechunk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012807id_/http%3A//www.imagechunk.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagechunk.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164713id_/http%3A//imagechunk.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Image Chunk - Hosting Big Chunk of Images
 
-When you sign up for an account with Image Chunk, we collect personal information from you including your e-mail address, and a password. 
+[](http://www.mate1.com/rd/856/362443/?AFFID=8417) When you sign up for an account with Image Chunk, we collect personal information from you including your e-mail address, and a password. 
 
 We may also collect the URL from which you linked into our site, your IP address, and your browser type and version, all of which are collected in an anonymous manner without being linked to any of your personal information. 
 
