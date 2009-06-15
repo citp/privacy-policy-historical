@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familycircle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011724id_/http%3A//www.parents.com/parents/file.jsp%3Fitem%3Dlegal/privacy%26temp%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familycircle.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041543id_/http%3A//www.parents.com/parents/file.jsp%3Fitem%3Dlegal/privacy%26temp%3Dno) for the most accurate reproduction.*
 
 # 
 
