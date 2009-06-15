@@ -1,923 +1,530 @@
-<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216015018id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
-
-<html><head>
-
-<title>mtvU.com</title>
-<meta name="description" content="mtvU">
-<meta name="keywords" content="mtvU, mtvu">
-<meta name="URL" content="www.mtvu.com">
-<meta name="author" content="mtvU / www.mtvu.com">
-<meta name="copyright" content="Copyright (c) 2008 MTV Networks On Campus Inc."> 
-<meta name="robots" content="index,follow">
-<meta name="revisit-after" content="2 days">
-<meta name="distribution" content="global">
-<!-- END SEO Tags -->
-
-<script language="JavaScript" src="/sitewide/scripts/detect_flash.js"></script>
-
-<script language="JavaScript">var sections="&gateway=about&section_1=privacy_policy";</script>
-
-<!-- <setvalue bean="/mtvi/ads/AdPlacer.defaultKeyValues" value="test=test">
-<droplet bean="/mtvi/ads/AdPlacer"><param name="size" value="default"></droplet> -->
-
-<script language="JavaScript">
-var if_clientCode = "Not-Signed-In";
-var if_nt_userName ="";
-var if_nt_login = "";
-var if_nt_span = "";
-var if_nt_zyg = "";
-</script>
-
-<!-- droplet src="/sitewide/includes/droplets/site_uncache_if_loggedin.jhtml" / -->
-
-<script language="JavaScript">
-var azName = "";
-var flipName = "";
-if(document.azName){azName = "&artist_rollup=" + document.azName;}
-if(document.flipName){flipName = "&artist_rollup=" + document.flipName;}
-var siteHost = document.location.hostname.toString();
-var dynSite = siteHost=="www.mtvu.com"?"mtvu":"mtvu-d";
-var if_nt_Screen_Attr = screen.height + "x" + screen.width + "x" + screen.colorDepth;
-var if_nt_Flash = actualVersion;
-var docURL = document.location + "";
-var partsParts = (docURL.split("//"))[1].split(".com")[1].split("?")[0];
-var if_nt_url= escape(partsParts);
-var pageName = "";
-var if_nt_Screen_Attr = screen.height + "x" + screen.width + "x" + screen.colorDepth;
-var mep1 = sections + "&pageName=index.jhtml" + azName + flipName + "&if_nt_Screen_Attr=" + if_nt_Screen_Attr + "&if_nt_Flash=" + if_nt_Flash + "&if_clientCode=" + if_clientCode + "&if_nt_userName=" + if_nt_userName + "&if_nt_zyg=" + if_nt_zyg + "&if_nt_span=" + if_nt_span;
-var bc="&if_nt_Browser_Combination=" + escape(window.navigator.userAgent);
-var Site=dynSite; var if_SiteID="15";
-//	var Site="ctn"; var if_SiteID="15";
-//	var Site="mtvu"; var if_SiteID="15";
-
-</script>
-
-<script language="JavaScript">
-var repValS = "";
-repValS = repValS.replace(/ /g, "");
-mep1 += repValS;
-</script>
-
-<script language="JavaScript" src="/sitewide/scripts/rep.js"></script>
-
-<script type="text/JavaScript" src="/global/reporting/scripts/rep_object.js"></script>
-
-<script type="text/JavaScript" language="JavaScript">
-var omniCall = new ReportingCall(defaultCall);
-
-function parseDynCharts(){
-var prefix = "if_nt_dynCharts_";
-var charts = ["albums","artistsBrds","artists","news","photoArtists","photoShows","shows","tours","videos"];
-var chartsCall = "";
-for(i in charts){
-if(omniCall[(prefix + charts[i])]){
-chartsCall += charts[i] + "_" + omniCall[(prefix + charts[i])] + "|";
-omniCall.deleteRepProps(prefix + charts[i]);
-}
-}
-chartsCall = chartsCall.substring(0, chartsCall.length-1);
-if(chartsCall != "")
-omniCall.dynCharts = chartsCall;
-}
-parseDynCharts();
-
-var ocp = omniCall.pageName?omniCall.pageName:"";
-var ogt = omniCall.gateway?omniCall.gateway:"";
-
-if ( (ogt == "uber") && (ocp == "index.jhtml")){
-omniCall.channel = null; 
-}
-
-if ( (ogt == "uber") && (ocp == "player.jhtml")){
-omniCall.channel = null; 
-}
-
-</script>	
-<script language="JavaScript" src="/sitewide/scripts/omni_config.js"></script>
-<script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
-
-<!--- flash write files --->
-<script language="javascript" src="/shared/scripts/flash_detect.js"></script>
-<script language="javascript" src="/shared/scripts/Media.js"></script>
-<!-- flash write files -->
-
-<script>window.name="mtvu";</script>
-<script type="text/javascript" src="/sitewide/scripts/gen.js"></script>
-<script type="text/javascript" src="/sitewide/scripts/genoutsourcedev.js"></script>
-
-<script language="javascript">
-var additionalVals="";
-
-function launchVideo(clipy) {
-
-clipyNew = clipy
-
-clipy = clipyNew
-
-if(clipyNew.indexOf('channelID=')<0 && window.channelID)
-clipy = clipy + "&" + "channelID=" + channelID
-if(clipyNew.indexOf('orgID=')<0 && window.orgID)
-clipy = clipy + "&" + "orgID=" + orgID	
-if(clipyNew.indexOf('gateway=')<0 && window.gateway)
-clipy = clipy + "&" + "gateway=" + gateway 
-if(clipyNew.indexOf('paid=')<0 && window.paid)
-clipy = clipy + "&" + "paid=" + paid
-if(clipyNew.indexOf('seriesID=')<0 && window.seriesID)
-clipy = clipy + "&" + "seriesID=" + seriesID
-if(clipyNew.indexOf('episodeID=')<0 && window.episodeID)
-clipy = clipy + "&" + "episodeID=" + episodeID
-if(clipyNew.indexOf('albumid=')<0 && window.albumid)
-clipy = clipy + "&" + "albumid=" + albumid
-
-ap = "&adPth=" + escape("");
-
-ap = ap + "&adPN=" + escape("");
-s1 = escape("");
-s2 = escape("");
-orgID = escape("");
-ss = "&s1=" + s1 + "&s2=" + orgID + "&orgID=" + orgID;
-
-clipy = clipy.replace(/'/g,'\\\'');
-
-var url = '/sitewide/apps/mediaplayer/index.jhtml?' + clipy + ss + ap + additionalVals;
-objWin = this.window.open(url,'mtvUmediaplayer','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=720,height=540,left=25,top=25');
-objWin.focus();
-}
-</script>
-<link rel="stylesheet" href="/sitewide/styles/site.css" type="text/css">
-<link rel="stylesheet" href="/sitewide/styles/new_site.css" type="text/css"> 
-<script src="/sitewide/scripts/common.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript" src="/sitewide/scripts/broadband_detect_config.js"></script>
-<script type="text/javascript" language="javascript" src="/global/apps/broadband/scripts/broadband_detect.js"></script>
-
-<script type="text/javascript" language="javascript">
-
-function broadbandWindowPopped(win, path) {
-try {
-win.focus();
-} catch (e) {
-window.location.replace(path);
-}
-}
-
-</script>
-
-<script language="javascript" src="/global/apps/mediaplayer/scripts/os_detect.js"></script> 
-<script language="javascript" src="/shared/scripts/flash_detect.js"></script>
-<script type="text/JavaScript" src="/sitewide/scripts/gen.js"></script>
-
-</head>
-
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#291929" onload="MM_preloadImages('/navbar_woodies_global/nav_home.gif','/navbar_woodies_global/nav_home-hover.gif','/navbar_woodies_global/nav_videos.gif','/navbar_woodies_global/nav_videos-hover.gif','/navbar_woodies_global/nav_music.gif','/navbar_woodies_global/nav_music-hover.gif','/navbar_woodies_global/nav_shows.gif','/navbar_woodies_global/nav_shows-hover.gif','/navbar_woodies_global/mtvu_nav_b9_over.gif','/navbar_woodies_global/mtvu_nav_b10_over.gif','/navbar_woodies_global/mtvu_nav_b11_over.gif')">
-
-<!-- body_element.jhtml -->
-
-<!-- Omniture Call -->
-<div style="display:none;">
-
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/G.7-PD-R/s71174010678580?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A3%3A2%205%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20081216015018id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;cc=USD&amp;c4=not_logged_in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-
-</div>	
-
-<!-- /body_element.jhtml -->
-
-<div style="text-align:center">
-
-<!--<setvalue param="surveyPath" value="http://www.insightexpress.com/s/mtvU112735">-->
-<script language="javascript" src="http://invite.insightexpress.com/InviteServer/2/Invite.aspx?surveyID=114481"></script>
-
-<style>
-#navHolder {position:relative;z-index:100; width:770px; top:116px; text-align:left; margin: 0px auto 0px auto;}
-#nav2Holder { position:absolute; width:770px; margin:0px auto 0px auto; text-align:left; z-index:125; background:url(/music/woodie_awards/2008/images/search-back-woodies-watchnow.jpg) top center no-repeat;}
-.logo {padding:3px;}
-</style> 
-
-<div id="navHolder">
-<div id="nav2Holder">
-<table width="770" align="left" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-<td valign="top" colspan="2">
-
-<img src="/sitewide/images/spacer.gif" width="766" height="105" border="0">
-
-<div style="position:absolute;left:10px;top:2px;height:90px;width:111px;z-index:100;">
-
-<script language="javascript">
-var if_nt_userName_flash = "null";
-</script>
-
-<script language="javascript">
-if(typeof Media == "undefined"){
-document.write("useSetup");
-}
-else{	
-m = new Media("swf");
-m.movieLoc = "/music/woodie_awards/2007/images/topLogo_white2.swf";
-m.name = "false";
-m.width = 120;
-m.height = 101;
-m.bgcolor = "nobg";
-m.minVersion = 7;
-m.wmode = "transparent";
-// this parameter only embeds wmode for Flash plug-in 7 and up to avoid CSS Flash 6 conflicts
-m.wmode7 = false;
-m.altImage = "/music/woodie_awards/2008/images/120X101_back-logo.gif";
-m.altHref = "javascript:alert(altText)";
-m.altText = "Flash Required to View this page.";
-m.altPage = "";
-m.usemap = "false";
-m.vars = "isIE="+isIE+"&"+"config=/home/includes/news_switcher.jhtml&styleLoc=/home/includes/news_styles.css&logo=/sitewide/templates/nav_and_menus/topLogo_yellow.swf";
-m.userName = if_nt_userName_flash;
-m.isLayer = false;
-m.ieOnlyDhtml = false;
-m.textAlt = false;
-m.menu = false;
-m.useAdvals = false;
-m.useCustom = false;
-m.usePopup = false;
-m.showMedia();
-
-}
-</script><a href="javascript:alert(altText)"><img src="/music/woodie_awards/2008/images/120X101_back-logo.gif" width="120" height="101" border="0"></a>
-
-</div>
-
-<style>
-a#woodieLogo { 
-display: block; 
-height: 100px; 
-width: 145px; 
-position: absolute; 
-left: 620px;
-z-index: 100;
-top: 0px; 
-text-decoration: none;
-background-color: transparent;
-background-image: url(/music/woodie_awards/2007/images/tx_1x1.gif); 
-background-repeat: repeat; 
-}
-
-#searchbox {
-position: absolute;
-left: 223px;
-top: 30px;
-height: 40px;
-width: 335px;
-z-index: 100;
-}
-
-#searchSelect {
-font: 11px arial, Helvetica, sans-serif;
-padding: 0 0 5px 0;
-}
-
-#searchSelect a {
-cursor: pointer;
-color: black;
-}
-
-#searchMTVU { font-weight: bold; }
-#searchWeb { font-weight: normal; }
-
-#searchContainer input {
-float: left;
-}
-
-#searchContainer .formInputSearch {
-border: solid black 1px; 
-background-color: white;
-height: 24px;
-width: 250px;
-padding: 4px 0px 0px 6px;
-color: #333333;
-font: 12px Arial, Helvetica, sans-serif;
-margin: 0 5px 0 0;
-}
-
-#searchContainer .fromSearch {
-padding: 0;
-margin: 0;
-}
-</style>
-<div id="searchbox">
-<script language="javascript">
-function setSearch(type) {
-var mtvu = document.getElementById("searchMTVU");
-var web = document.getElementById("searchWeb");
-var store = document.getElementById("searchForm");
-
-if (type === "mtvu") {
-mtvu.style.fontWeight = "bold";
-web.style.fontWeight = "normal";
-store.mode.value = "mtvu";
-}
-if (type === "web") {
-mtvu.style.fontWeight = "normal";
-web.style.fontWeight = "bold";
-store.mode.value = "web";
-}
-}
-
-function handleSearch () {
-var store = document.getElementById("searchForm");
-
-if (store.searchterm.value === "Search for music videos, artists and shows" || store.searchterm.value === "") {
-return false;
-}
-if (store.mode.value === "web") {
-window.open('http://search.live.com/results.aspx?q=' + store.searchterm.value + '&mkt=en-us&FORM=VCM006');
-return false;
-}
-return true;
-}
-</script>
-<div id="searchSelect">
-<a id="searchMTVU" onclick="setSearch('mtvu');">mtvU</a> | <a id="searchWeb" onclick="setSearch('web');">web</a>
-</div>
-<div id="searchContainer">
-<form method="get" id="searchForm" action="/searchResults/" onsubmit="return handleSearch();">
-<input name="searchterm" class="formInputSearch" type="text" tabindex="1" value="Search for music videos, artists and shows" onfocus="if(this.value=='Search for music videos, artists and shows'){this.value='';this.style.color='black'}">
-<input type="hidden" name="searchtype" value="site">
-<input type="hidden" name="pagesize" value="20">
-<input type="hidden" name="mode" value="mtvu">
-<input type="image" value="Search" src="/navbar_global/btn-search.gif" alt="Search" class="fromSearch" border="0">
-</form>
-</div>
-</div>
-
-<a href="http://woodies.mtvu.com" title="2008 mtvU Woodie Awards" id="woodieLogo">&nbsp;</a>
-
-</td>
-</tr>
-<tr>
-<td align="left">
-<div style="padding-left:2px;">
-<script src="/navbar_global/SpryAssets/SpryMenuBar.js" type="text/javascript"></script> <link href="/navbar_global/SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css"> <script type="text/javascript">
-<!--
-function MM_preloadImages() { //v3.0
-var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}} }
-
-function MM_swapImgRestore() { //v3.0
-var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc; }
-
-function MM_findObj(n, d) { //v4.01
-var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-if(!x && d.getElementById) x=d.getElementById(n); return x; }
-
-function MM_swapImage() { //v3.0
-var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];} } //--> </script> 
-
-
-
-<ul id="MenuBarHome" class="MenuBarHorizontal">
-<li><a href="/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_home.gif" alt="HOME" name="navhome" width="72" height="32" border="0" id="navhome" onmouseover="MM_swapImage('navhome','','/navbar_woodies_global/nav_home-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a> </li> </ul>
-
-<ul id="MenuBar1" class="MenuBarHorizontal">
-<li><a href="/video/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_videos.gif" alt="VIDEO" name="nav1" width="77" height="32" border="0" id="nav1" onmouseover="MM_swapImage('nav1','','/navbar_woodies_global/nav_videos-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a> </li> </ul>
-
-<!--//Music Nav//-->
-<ul id="MenuBar2" class="MenuBarHorizontal">
-<li><a href="/music/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_music.gif" alt="MUSIC" name="nav2" width="73" height="32" border="0" id="nav2" onmouseover="MM_swapImage('nav2','','/navbar_woodies_global/nav_music-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/music/" style="padding:5px; color:#FFFFFF; ">Music Main</a></li>
-<li><a href="/music/playlist/" style="padding:5px; color:#FFFFFF; ">Music Videos</a></li>
-<li><a href="http://www.woodies.mtvu.com" style="padding:5px; color:#FFFFFF; ">mtvU Woodie Awards</a></li>
-<li><a href="/music/video_premiere/a_pinks/" style="padding:5px; color:#FFFFFF; ">Video Premiere: A. Pinks</a></li>
-<li><a href="/music/video_premiere/charles_hamilton/" style="padding:5px; color:#FFFFFF; ">Video Premiere: Charles Hamilton</a></li>
-<li><a href="/music/ahead_of_the_curve/" style="padding:5px; color:#FFFFFF; ">Ahead of the Curve</a></li>
-<li><a href="/music/backstage_pass/" style="padding:5px; color:#FFFFFF; ">Backstage Pass</a></li>
-<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
-<li><a href="/uconnect/campus_invasion_tour/2008/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2008</a></li>
-<li><a href="/music/radio/" style="padding:5px; color:#FFFFFF; ">College Radio</a></li>
-<li><a href="/music/deans_list/" style="padding:5px; color:#FFFFFF; ">Dean's List</a></li>
-<li><a href="/music/discover_and_download/" style="padding:5px; color:#FFFFFF; ">Discover &amp; Download</a></li>
-<li><a href="http://freshmen.mtvu.com/up_and_coming" style="padding:5px; color:#FFFFFF; ">Freshmen Five</a></li>
-<li><a href="http://freshmen.mtvu.com/" style="padding:5px; color:#FFFFFF; ">The Freshmen Blog</a></li>
-<li><a href="/music/the_hot_seat/" style="padding:5px; color:#FFFFFF; ">The Hot Seat</a></li>
-<li><a href="/music/house_band/" style="padding:5px; color:#FFFFFF; ">House Band</a></li>
-<li><a href="/music/six_flags/2008/" style="padding:5px; color:#FFFFFF; ">mtvU VMA Tour at Six Flags</a></li>
-</ul>
-</li>
-</ul>
-
-<!--Shows Nav//-->
-<ul id="MenuBar3" class="MenuBarHorizontal">
-<li><a href="/on_mtvu/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_shows.gif" alt="SHOWS" name="nav3" width="78" height="32" border="0" id="nav3" onmouseover="MM_swapImage('nav3','','/navbar_woodies_global/nav_shows-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/on_mtvu/" style="padding:5px; color:#FFFFFF; ">Shows Main</a></li>
-<li><a href="/music/backstage_pass/" style="padding:5px; color:#FFFFFF; ">Backstage Pass</a></li>
-<li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
-<li><a href="/video/?id=1600872&amp;vid=324406" style="padding:5px; color:#FFFFFF; ">Better Living Through Video Games</a></li>
-<li><a href="/on_mtvu/casting_call/" style="padding:5px; color:#FFFFFF; ">Casting Call</a></li> 
-<li><a href="/on_mtvu/casting_call/" style="padding:5px; color:#FFFFFF; ">Casting Call</a></li> 
-<li><a href="http://college500.mtvu.com/" style="padding:5px; color:#FFFFFF; ">College 500</a></li>
-<li><a href="/on_mtvu/college_television_awards/" style="padding:5px; color:#FFFFFF; ">College Television Awards</a></li>
-<li><a href="/music/deans_list/" style="padding:5px; color:#FFFFFF; ">Dean's List</a></li>	
-<li><a href="/on_mtvu/editorial_board/" style="padding:5px; color:#FFFFFF; ">Editorial Board</a></li>
-<li><a href="http://mtvengineroom.com/" style="padding:5px; color:#FFFFFF; ">Engine Room</a></li>
-<li><a href="http://freshmen.mtvu.com/" style="padding:5px; color:#FFFFFF; ">The Freshmen</a></li>
-<li><a href="/on_mtvu/fresh_produce/archive.jhtml" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
-<li><a href="/on_mtvu/hispanic_heritage_month/" style="padding:5px; color:#FFFFFF; ">Hispanic Heritage Month</a></li>
-<li><a href="/on_mtvu/howdoisaythis/" style="padding:5px; color:#FFFFFF; ">How Do I Say This?</a></li>
-<li><a href="/uconnect/lessonslearned/" style="padding:5px; color:#FFFFFF; ">Lessons Learned</a></li>
-<li><a href="http://www.meetordelete.com/" style="padding:5px; color:#FFFFFF; ">Meet or Delete</a></li>
-<li><a href="/on_mtvu/ashbery/" style="padding:5px; color:#FFFFFF; ">mtvU Poet Laureate John Ashbery</a></li>
-<li><a href="/promos/" style="padding:5px; color:#FFFFFF; ">mtvU Promos</a></li>
-<li><a href="/on_mtvu/my_shot/" style="padding:5px; color:#FFFFFF; ">My Shot With...</a></li> 
-<li><a href="/video/?id=1593601&amp;vid=269681" style="padding:5px; color:#FFFFFF; ">My Summer Break</a></li>
-<li><a href="http://professorsstrikeback.mtvu.com" style="padding:5px; color:#FFFFFF; ">Professors Strike Back</a></li> 
-<li><a href="/on_mtvu/spring_break/2009/" style="padding:5px; color:#FFFFFF; ">Spring Break 2009</a></li>
-<li><a href="/on_mtvu/stand_in/" style="padding:5px; color:#FFFFFF; ">Stand In</a></li>
-<li><a href="/on_mtvu/student_bodies/2008/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>
-<li><a href="/on_mtvu/the_feed/" style="padding:5px; color:#FFFFFF; ">The Feed</a></li>	
-<li><a href="/on_mtvu/schedule/" style="padding:5px; color:#FFFFFF; ">TV Schedule</a></li>
-<li><a href="/on_mtvu/vjs/" style="padding:5px; color:#FFFFFF; ">VJs</a></li>
-</ul>
-</li>
-</ul>
-
-<!--On Campus Nav//-->
-<ul id="MenuBar4" class="MenuBarHorizontal">
-<li><a href="/uconnect/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_on-campus.gif" alt="ON CAMPUS" name="nav4" width="108" height="32" border="0" id="nav4" onmouseover="MM_swapImage('nav4','','/navbar_woodies_global/nav_on-campus-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/uconnect/" style="padding:5px; color:#FFFFFF; ">On Campus Main</a></li>
-<li><a href="http://www.halfofus.com/" style="padding:5px; color:#FFFFFF; ">Half of Us</a></li>
-<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
-<li><a href="/on_mtvu/road_trip/2008/" style="padding:5px; color:#FFFFFF; ">mtvU's Road Trip</a></li>
-<li><a href="/uconnect/campus_invasion_tour/2008/" style="padding:5px; color:#FFFFFF; ">Campus Invasion Tour 2008</a></li>
-<li><a href="http://citicards.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Citi mtvU Card for College Students</a></li> <!--<li><a href="/uconnect/darfur_now/" style="padding:5px; color:#FFFFFF; ">Darfur Now Screenings</a></li>//-->
-<!--<li><a href="/uconnect/devilcameonhorseback/" style="padding:5px; color:#FFFFFF; ">The Devil Came on Horseback Screenings</a></li>//-->
-<!--<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>//-->
-<li><a href="/uconnect/request_mtvu/" style="padding:5px; color:#FFFFFF; ">Get mtvU on Campus</a></li>
-<!--<li><a href="/uconnect/goodluckchuck/" style="padding:5px; color:#FFFFFF; ">Good Luck Chuck Screenings</a></li>//-->
-<!--<li><a href="/studentloan/" style="padding:5px; color:#FFFFFF; ">HigherEdLoans with mtvU Rewards</a></li>//-->
-<li><a href="http://ebm.cheetahmail.com/r/regf2?aid=768004404&amp;n=1&amp;a=0" style="padding:5px; color:#FFFFFF; ">Procastinator Newsletter</a></li>
-<li><a href="http://professorsstrikeback.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Professors Strike Back</a></li>	
-<li><a href="http://fulbright.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Fulbright mtvU Blog</a></li>	
-<!--<li><a href="/uconnect/roadtrip/" style="padding:5px; color:#FFFFFF; ">mtvU's Road Trip</a></li>	//-->
-<!--<li><a href="/on_mtvu/student_bodies/" style="padding:5px; color:#FFFFFF; ">Student Bodies</a></li>	//-->
-<li><a href="/uconnect/what_is_mtvu/" style="padding:5px; color:#FFFFFF; ">What is mtvU?</a></li>	
-<li><a href="/uconnect/where_to_watch/" style="padding:5px; color:#FFFFFF; ">Where To Watch</a></li>	
-</ul>
-</li>
-</ul>
-
-<!--Win Nav//-->
-<ul id="MenuBar5" class="MenuBarHorizontal">
-<li><a href="/contests/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_win.gif" alt="WIN" name="nav5" width="54" height="32" border="0" id="nav5" onmouseover="MM_swapImage('nav5','','/navbar_woodies_global/nav_win-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/contests/" style="padding:5px; color:#FFFFFF; ">Win Main</a></li>
-<li><a href="http://indebted.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Indebted Competition</a></li>
-<!-- <li><a href="/contests/study_break/beck/" style="padding:5px; color:#FFFFFF; ">Study Break with Beck</a></li>-->
-<li><a href="http://woodies.mtvu.com/xbox360" style="padding:5px; color:#FFFFFF; ">Rock Out With Xbox 360 Sweepstakes</a></li>
-<li><a href="http://www.funniestcollegeessays.com/" style="padding:5px; color:#FFFFFF; ">The Funniest College Essays Ever</a></li>
-<li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
-<!--<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>//-->
-<li><a href="/contests/spring_break/2009/" style="padding:5px; color:#FFFFFF; ">Spring Break Sweepstakes</a></li>
-<li><a href="/contests/contest_winners/" style="padding:5px; color:#FFFFFF; ">Contest Winners</a></li>
-<!--<li><a href="http://www.digitalincubator.net" style="padding:5px; color:#FFFFFF; ">Digital Incubator</a></li>/--> <li><a href="/on_mtvu/fresh_produce/" target="new" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
-<!--<li><a href="/uconnect/fulbright/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>//-->
-<li><a href="/contests/mtvu_grants/" style="padding:5px; color:#FFFFFF; ">mtvU Grants</a></li>
-</ul>
-</li>
-</ul>
-
-<!--Submit Nav//-->
-<ul id="MenuBar6" class="MenuBarHorizontal">
-<li><a href="/on_mtvu/video_submissions/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_submit.gif" alt="SUBMIT" name="nav6" width="79" height="32" border="0" id="nav6" onmouseover="MM_swapImage('nav6','','/navbar_woodies_global/nav_submit-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/on_mtvu/video_submissions/" style="padding:5px; color:#FFFFFF; ">Submit Main</a></li>
-<!--ASK THE BAND REMOVED WHEN NO BANDS ARE POSTED
-<li><a href="/music/backstage_pass/questions.jhtml" style="padding:5px; color:#FFFFFF; ">Ask The Band</a></li>
-//-->
-<li><a href="http://www.bestfilmoncampus.com" style="padding:5px; color:#FFFFFF; ">Best Film on Campus</a></li>
-<li><a href="http://www.bestmusiconcampus.com/" style="padding:5px; color:#FFFFFF; ">Best Music On Campus</a></li>
-<li><a href="http://indebted.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Indebted Competition</a></li>
-<li><a href="/on_mtvu/casting_call/" style="padding:5px; color:#FFFFFF; ">Casting Calls</a></li>
-<li><a href="/on_mtvu/fresh_produce/" style="padding:5px; color:#FFFFFF; ">Fresh Produce</a></li>
-<li><a href="/uconnect/what_is_mtvu/" style="padding:5px; color:#FFFFFF; ">Feedback</a></li>
-</ul>
-</li>
-</ul>
-
-<!--Activism Nav//-->
-<ul id="MenuBar7" class="MenuBarHorizontal">
-<li><a href="/on_mtvu/activism/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_activism.gif" alt="ACTIVISM" name="nav7" width="92" height="32" border="0" id="nav7" onmouseover="MM_swapImage('nav7','','/navbar_woodies_global/nav_activism-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="/on_mtvu/activism/" style="padding:5px; color:#FFFFFF; ">Activism Main</a></li>
-<li><a href="http://www.posornot.com" style="padding:5px; color:#FFFFFF; ">Pos or Not</a></li>
-<li><a href="http://indebted.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Indebted Competition</a></li>
-<li><a href="http://ecocollegechallenge.com/" target="new" style="padding:5px; color:#FFFFFF; ">Ecomagination Challenge</a></li>
-<li><a href="http://fulbright.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Fulbright-mtvU Fellowships</a></li>
-<li><a href="/music/instant_karma/" style="padding:5px; color:#FFFFFF; ">Instant Karma</a></li>
-<li><a href="/contests/mtvu_grants/" style="padding:5px; color:#FFFFFF; ">mtvU Grants</a></li>
-<li><a href="/video/?id=1593585&amp;vid=269509" style="padding:5px; color:#FFFFFF; ">One Vote, One World</a></li>
-<li><a href="/on_mtvu/activism/sexual_health/" style="padding:5px; color:#FFFFFF; ">Sexual Health Resources</a></li>
-<li><a href="http://www.darfurisdying.com/" target="new" style="padding:5px; color:#FFFFFF; ">Sudan: Darfur Is Dying</a></li>
-<li><a href="/on_mtvu/activism/sudan.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Background</a></li>	
-<li><a href="/on_mtvu/activism/take_action.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Take Action</a></li>
-<li><a href="/on_mtvu/activism/divestment.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Divestment</a></li>
-<li><a href="/on_mtvu/activism/stand/search.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: <i>Translating Genocide</i></a></li>	
-<li><a href="/on_mtvu/activism/resources.jhtml" style="padding:5px; color:#FFFFFF; ">Sudan: Resources</a></li>
-<!-- <li><a href="/on_mtvu/activism/nick_kristof/2007/" style="padding:5px; color:#FFFFFF; ">Win a Trip with Nick Kristof</a></li>	/-->
-</ul>
-</li>
-</ul>
-
-<!--Jobs Nav//-->
-<ul id="MenuBar8" class="MenuBarHorizontal">
-<li><a href="http://jobs.mtvu.com/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_jobs.gif" alt="JOBS" name="nav8" width="64" height="32" border="0" id="nav8" onmouseover="MM_swapImage('nav8','','/navbar_woodies_global/nav_jobs-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a>
-<ul>
-<li><a href="http://jobs.mtvu.com/" style="padding:5px; color:#FFFFFF; ">Jobs Main</a></li>
-<li><a href="/jobs/campus_reps/" style="padding:5px; color:#FFFFFF; ">Campus Reps</a></li>
-<li><a href="/uconnect/work_at_mtvu/" style="padding:5px; color:#FFFFFF; ">mtvU Internships</a></li>
-<li><a href="/uconnect/work_at_mtvu/" style="padding:5px; color:#FFFFFF; ">Work at mtvU</a></li>
-</ul>
-</li>
-</ul>
-
-<!--News Link//-->
-<ul id="MenuBar11" class="MenuBarHorizontal">
-<li><a href="/news/" class="MenuBarItemSubmenu"><img src="/navbar_woodies_global/nav_news.gif" alt="NEWS" name="nav11" width="70" height="32" border="0" id="nav11" onmouseover="MM_swapImage('nav11','','/navbar_woodies_global/nav_news-hover.gif',1)" onmouseout="MM_swapImgRestore()"></a></li> 
-
-</ul>
-
+<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615163940id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="webkit safari linux js"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvU</title>
+<meta name="generator" content="WordPress 2.7">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<link rel="stylesheet" href="http://www.mtvu.com/wp-content/themes/spring/style.css" type="text/css" media="screen">
+
+<!-- Omniture call -->
+<script type="text/javascript" src="/js/mtvu_ad_reporting.js"></script></head><body class="" id="homeSkin"><div style="position:absolute; visibility:hidden; width:1px; height:1px; border:0px; top:-100px; left:-100px" id="urchin"></div><div style="display:none;" id="s_code"><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/H.1-pdv-2/s73757344785807?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A3%3A3%205%200&amp;pageName=https%3A//web.archive.org/web/20090615163940id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;g=https%3A//web.archive.org/web/20090615163940id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;ch=about&amp;h2=about/privacy_policy&amp;c41=New&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></div>
+
+<!-- ad display -->
+<script src="/js/adSegmentation.js" type="text/javascript"></script>
+
+<!-- Flux config starts -->
+<script src="http://widgetsak-mtv.flux.com/-/Runtime.js" type="text/javascript"></script>
+<script src="http://widgets.flux.com/-/Context.js?communityUcid=9AF6FFFF0099CB200002FFFFF69A&amp;disableCommunityCommonCss=on" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="/js/context_mtvu.js"></script>
 <script type="text/javascript">
-<!--
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/navbar_woodies_global/mtvu_videos.gif", imgRight:"/navbar_woodies_global/mtvu_videos-hover.gif"});
-var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-
-var MenuBar3 = new Spry.Widget.MenuBar("MenuBar3", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar4 = new Spry.Widget.MenuBar("MenuBar4", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-
-var MenuBar5 = new Spry.Widget.MenuBar("MenuBar5", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar6 = new Spry.Widget.MenuBar("MenuBar6", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-
-var MenuBar7 = new Spry.Widget.MenuBar("MenuBar7", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar8 = new Spry.Widget.MenuBar("MenuBar8", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-
-var MenuBar9 = new Spry.Widget.MenuBar("MenuBar9", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-var MenuBar10 = new Spry.Widget.MenuBar("MenuBar10", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-
-var MenuBar11 = new Spry.Widget.MenuBar("MenuBar11", {imgDown:"/navbar_woodies_global/SpryAssets/SpryMenuBarDownHover.gif", imgRight:"/navbar_woodies_global/SpryAssets/SpryMenuBarRightHover.gif"});
-//-->
+Flux.Utils.WidgetsLoader._widgetUrlTemplate.classic = Flux.Utils.WidgetsLoader._widgetUrlTemplate.classic.replace('http://widgets.flux.com/', 'http://widgetsak-mtv.flux.com/');
+Flux.Utils.WidgetsLoader._widgetUrlTemplate.pbt = Flux.Utils.WidgetsLoader._widgetUrlTemplate.pbt.replace('http://widgets.flux.com/', 'http://widgetsak-mtv.flux.com/');
 </script>
+<!-- Flux config ends -->   
+
+<link rel="alternate" type="application/rss+xml" title="mtvU RSS Feed" href="http://www.mtvu.com/feed/">
+<link rel="pingback" href="http://www.mtvu.com/xmlrpc.php">
+<link href="favicon.ico" rel="icon" type="image/x-icon">
+<script src="/wp-includes/js/css_browser_selector.js" type="text/javascript"></script>
+
+<!-- for gallery stuff -->
+<script type="text/javascript" src="/wp-content/plugins/content-gallery/scripts/mootools.v1.11.js"></script>
+<script type="text/javascript" src="/wp-content/plugins/content-gallery/scripts/jd.gallery.js"></script>
 
 
-</div>
-</td>
-</tr>
+<!-- <body id="">
+//-->
 
-</tbody></table>
 
-</div>
-
-</div>
-
-</div>
-
-<div style="position:absolute; top:1px; width:100%;">
-<table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
-
-<tbody><tr>
-<td width="16" height="1" valign="top" align="left"></td>
-<td width="161" height="1" valign="top" align="left"></td>
-<td width="15" height="1" valign="top" align="left"></td>
-<td width="384" height="1" valign="top" align="left"></td>
-<td width="15" height="1" valign="top" align="left"></td>	
-<td width="161" height="1" valign="top" align="left"></td>	
-<td width="16" height="1" valign="top" align="left"></td>	
-</tr>
-
-<tr>
-<td valign="top" align="center" colspan="7"><br>
-<div id="headerHolder">
-<div id="headerAd">
-
+<div id="page">
+<div id="header">
 <div id="topad">
-<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;u=|page-home|dcopt-ist|!category-video|homepage-takeover;sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
-document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;dcopt=ist;!category=video;homepage=takeover;u=|page-home|dcopt-ist|!category-video|homepage-takeover;sz=728x90;tile=1;ord=734597253333907000?"></script>
+<script type="text/javascript">document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/ctn.mtvi\/atf_j_s" + sectionParam + ";" + sectionParamAndValue + "pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist"+ excategory +";u=pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist" + excategoryval + ";ord=" + ordJS + ";'type='text\/javascript'><\/script>");</script>
+</div><!-- closes top ad -->
+
+<div id="headerimg">
+<h1><span><a href="http://www.mtvu.com/" alt="mtvU Music Blog Home" title="mtvU Music Blog Home">mtvU</a></span></h1>
+<div class="description"></div>
+</div> <!-- closes headerimg -->
+</div> <!-- closes header -->
+
+
+
+<div id="fluxLogin">
+<script type="text/javascript">
+Flux.Utils.WidgetsLoader.createWidget(
+'QuickMenu2',{accessKey: '3f37ac52-654f-4ab9-b8fc-21e034d70dc8', customize: {markupUrl: 'http://www.mtvu.com/wp-content/themes/spring/flux-menu-widget.html'}});
+</script>
+<div id="staticLinks"><a href="http://twitter.com/mtvu" target="_blank" id="linkb">Follow us on Twitter</a><a href="/mtvu-on-air" id="linka">WATCH mtvU</a></div>
 </div>
 
-</div>
-</div>
-<img src="/images/spacer.gif" width="1" height="147" alt="" border="0">	
+<div id="nav">
+<ul>
+<li id="navhome"><a href="/" class="prime">HOME</a></li>
+<li id="navmusic" class="expand"><a href="/category/music" class="prime">MUSIC</a>
+<ul class="subMenu">
+<li class="b"><a href="/category/music">Music Main</a></li>
+<li class="a"><a href="/category/music/deans-list/">Top Music Videos</a></li>
+<li class="b"><a href="/category/music/video-premiere/">Video Premieres</a></li>
+<li class="a"><a href="/tag/photo-gallery/">Photo Galleries</a></li>
+<li class="b"><a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=A&amp;userSelection=artist">Browse Artist A - Z</a></li>
+<li class="a"><a href="http://search.mtvu.com/widgets/mtv_search.jsp">Search Music Videos</a></li>
 
-</td>
-</tr>
+<li class="navSection"><strong>New and Featured Artists</strong></li>
+<li class="b"><a href="/category/music/music-blog/">The Music Blog</a></li>
+<li class="a"><a href="/category/music/the-freshmen/">The Freshmen</a></li>
+<li class="b"><a href="/category/music/ahead-of-the-curve/">Ahead of the Curve</a></li>
+<li class="a"><a href="/category/music/freshmen-5/">Up and Coming</a></li>
 
-<tr>
-<td colspan="7" bgcolor="#ffffff" valign="middle"><div class="pageTitle">About mtvU</div></td>
-</tr>	
+<li class="navSection"><strong>Artist Interviews</strong></li>
+<li class="b"><a href="/category/music/hot-seat/">Hot Seat</a></li>
+<li class="a"><a href="/category/music/backstage-pass/">Backstage Pass</a></li>
 
-<tr>
-<td colspan="7" background="/images/dotted3F2F1F.gif" bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="1"></td>
-</tr>	
-<tr>
-<td colspan="7" bgcolor="#ffffff">&nbsp;</td>
-</tr>
 
-<tr>
-<td colspan="7" bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="1" border="0"></td>
-</tr>	
+<li class="navSection"><strong>Live Music &amp; Tours</strong></li>
+<li class="b"><a href="/category/music/movies-and-music-festival/">Movies &amp; Music Festival</a></li>
+<li class="a"><a href="/category/music/sunblock-music-festival-music/">Sunblock Music Festival</a></li>
+<li class="b"><a href="/category/music/tours/">All Tours</a></li>
+<li class="a none"><a href="#">&nbsp;</a></li>
 
-<tr>
-<!-- left column //-->
-<td valign="top" align="left" colspan="2" bgcolor="#ffffff">
-<div id="leftColumn">
-<div class="sideNav">
-<img src="/images/spacer.gif" width="1" height="10" align="right" border="0">
 
-<!--googleoff: index-->
+</ul></li>
+<li id="navshows" class="expand"><a href="/category/shows" class="prime">SHOWS</a>
+<ul class="subMenu">
+<li class="b"><a href="/category/shows">Shows Main</a></li>
+<li class="a"><a href="/mtvu-on-air/">WATCH mtvU</a></li>
+<li class="b"><a href="/category/shows">Browse Shows A - Z</a></li>
+<li class="a"><a href="/category/music/deans-list/">Top Music Videos</a></li>
 
-<style>
-.sep {height:1px; padding:0px; background-color: #ffffff; width:112}
-</style>
+<li class="navSection"><strong>Events</strong></li>
+<li class="b"><a href="/category/shows/spring-break/">Spring Break 2009</a></li>
+<li class="a"><a href="http://woodies.mtvu.com">Woodie Awards 2008</a></li>
 
-<img src="/images/arrow.gif" alt="" border="0" class="arrow"><a href="/about/">About mtvU</a>
-<img src="/images/spacer.gif" alt="" border="0" class="sep">
-<img src="/images/arrow.gif" alt="" border="0" class="arrow"><a href="/about/terms_of_use/">Terms of Use</a>
-<img src="/images/spacer.gif" alt="" border="0" class="sep">
-<img src="/images/arrow.gif" alt="" border="0" class="arrow"><a href="/about/privacy_policy/">Privacy Policy</a>
-<img src="/images/spacer.gif" alt="" border="0" class="sep">
-<img src="/images/arrow.gif" alt="" border="0" class="arrow"><a href="/about/copyright/">Copyright Compliance Policy</a>
-<!--googleon: index-->
+<li class="navSection"><strong>Archives</strong></li>
+<li class="b"><a href="/category/shows/casting-call/">Casting Call</a></li>
+<li class="a"><a href="/category/shows/professors-strike-back/">Professors Strike Back</a></li>
+<li class="b"><a href="/category/shows/my-shot-with/">My Shot With...</a></li>
+<li class="a"><a href="/category/shows/stand-in/">Stand In</a></li>
+<li class="b"><a href="/category/shows/sex-cred-dr-ruth/">Sex Cred with Dr. Ruth</a></li>
+<li class="b"><a href="/category/shows/sucks-less-kevin-smith/">Sucks Less w. Kevin Smith </a></li>
+</ul>
 
-</div><br clear="all">
+</li><li id="navcampus" class="expand"><a href="/category/on-campus" class="prime">ON CAMPUS</a>
+<ul class="subMenu">
+<li class="b"><a href="/category/on-campus">On Campus Main</a></li>
+<li class="a none"><a href="/category/on-campus">&nbsp;</a></li>
 
-<a href="http://www.bestmusiconcampus.com"><img src="/sitewide/promoimages/home/bmoc_2006_join.gif" width="176" height="271" alt="" border="0"></a>
-<!--<a href="http://woodies.mtvu.com/"><img src="/music/woodie_awards/2008/images/vote_bubble.gif" width="176" height="271" alt="" border="0"></a>//-->
-</div>
-<br>&nbsp;	
-</td>
-<td width="15" valign="top" bgcolor="#ffffff"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0">
-</td>	
-<!-- center column //-->
-<td width="384" valign="top" bgcolor="#ffffff">
+<li class="navSection"><strong>Student Generated Content</strong></li>
+<li class="b"><a href="/category/on-campus/film-of-the-week/">Film of the Week</a></li>
+<li class="a"><a href="/category/on-campus/student-videos/">Student Videos</a></li>
+<li class="b"><a href="http://www.bestfilmoncampus.com">Best Film on Campus</a></li>
+<li class="a"><a href="http://www.bestmusiconcampus.com">Best Music on Campus</a></li>
 
-<div class="itemFFFFFF">
-<div class="title" style="padding:10px 15px 0px 15px; margin-bottom:0px;">PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS<br>
-</div>
+<li class="navSection"><strong>Contests</strong></li>
+<li class="b"><a href="/category/on-campus/contests-sweepstakes/">Latest Contests</a></li>
+<li class="a"><a href="/category/on-campus/contests-sweepstakes/oscars/">Oscars Correspondent</a></li>
+
+<li class="navSection"><strong>More On Campus</strong></li>
+<li class="b"><a href="http://www.campusdailyguide.com">Campus Daily Guide</a></li>
+<li class="a"><a href="http://www.ratemyprofessors.com">Rate My Professors</a></li>
+</ul>
+
+
+</li><li id="navactivism" class="expand"><a href="/category/activism" class="prime">ACTIVISM</a>
+<ul class="subMenu">
+<li class="b"><a href="/category/activism">Activism Main</a></li>
+<li class="a none"><a>&nbsp;</a></li>
+
+<li class="navSection"><strong>Activism Topics</strong></li>
+<li class="b"><a href="/category/activism/culture/">Culture</a></li>
+<li class="a"><a href="/category/activism/economy/">Economy</a></li>
+<li class="b"><a href="/category/activism/environment/">Environment</a></li>
+<li class="a"><a href="/category/activism/grants/">Grants</a></li>
+<li class="b"><a href="/category/activism/health/">Health</a></li>
+<li class="a"><a href="/category/activism/politics-activism/">Politics</a></li>
+
+</ul></li>
+<li id="navcommunity"><a href="http://community.mtvu.com" class="prime">COMMUNITY</a></li>
+<li id="search">
+<form id="searchform" action="/" method="get"><input id="s" type="text" name="s" value=""><input id="searchsubmit" type="submit" value="Search">
+<input id="websearchsubmit" type="button" value="Web" onclick="javascript: document.location = 'http://search.live.com/results.aspx?q=' + document.getElementById('s').value + '&amp;mkt=en-US&amp;FORM=VCM018'">
+</form>
+</li>
+</ul>
+</div> <!-- closes nav -->
+
+<img style="display:none;" id="ThumbnailImage" src="/wp-content/uploads/2008/12/campusreps_140x105.jpg">
+
+<div id="contentwrapper">
+<div id="content" class="widecolumn">
+  
+<div id="breadCrumb"><p id="breadcrumbs"><a href="http://www.mtvu.com">Home</a> » <a href="http://www.mtvu.com/category/about/" title="View all posts in About">About</a> » <strong>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</strong></p></div>
+
+<div class="post singlePost" id="post-2935">
+<h2>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</h2>
+<span class="postdate"> Posted
+February 1st, 2007by
+mtvU</span>
+
+<div class="entry">
 <p>
 Last Updated: March 1, 2007
 </p>
-<br>
-<div class="sepDot3F2F1F" style="margin-bottom:1px;"><img src="/images/spacer.gif" width="1" height="1"></div>
-
-<p>This is the official privacy policy ("Privacy Policy") for www.mtvU.com ("Site," "we," "us," or "our"), an Internet website offered in cooperation with the MTVU Television channel ("MTVU Channel"). The MTVU Channel and the Site (together, "MTVU") are provided by MTV Networks On Campus Inc., ("MTVN"), a subsidiary of Viacom International Inc. (together with MTVN, and MTV Networks, a division of Viacom International Inc., the "Parent Companies"). This Privacy Policy governs only the personally identifiable information ("Personal Information") collected by this Site and does not cover any such information collected in any other manner or for any other purpose, any other MTVN programming channel, by the Parent Companies and any subsidiaries and affiliates of MTV and the Parent Companies (collectively, "Affiliates"), or any other company, unless specifically stated.</p>
-
-<p><strong>Overview: This Privacy Policy is intended to explain our privacy practices and inform you as to:</strong></p> 
-
-<p>The kinds of Personal Information we collect from users of the Site and how that information is collected; 
-How we use your Personal Information; 
-The circumstances under which we disclose Personal Information to third parties; 
-How you can access, update or delete any Personal Information collected about you by us; and
+<p>This is the official privacy policy (”<u>Privacy Policy</u>“) for www.mtvU.com (”<u>Site</u>,” “<u>we</u>,” “<u>us</u>,” or “<u>our</u>“), an Internet website offered in cooperation with the MTVU Television channel (”<u>MTVU Channel</u>“).  The MTVU Channel and the Site (together, “MTVU”) are provided by MTV Networks On Campus Inc., (”MTVN”), a subsidiary of Viacom International Inc. (together with MTVN, and MTV Networks, a division of Viacom International Inc., the “<u>Parent Companies</u>“).  This Privacy Policy governs only the personally identifiable information (”<u>Personal Information</u>“) collected by this Site and does not cover any such information collected in any other manner or for any other purpose, any other MTVN programming channel, by the Parent Companies and any subsidiaries and affiliates of MTV and the Parent Companies (collectively, “<u>Affiliates</u>“), or any other company, unless specifically stated.</p>
+<p><strong>Overview:  This Privacy Policy is intended to explain our privacy practices and inform you as to:</strong></p>
+<p>The kinds of Personal Information we collect from users of the Site and how that information is collected;<br>
+How we use your Personal Information;<br>
+The circumstances under which we disclose Personal Information to third parties;<br>
+How you can access, update or delete any Personal Information collected about you by us; and<br>
 The mechanisms we have implemented to protect your Personal Information. </p>
-
-<p>This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions ("U.S."). <strong>If you are not yet 16 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</strong> This Privacy Policy is a part of the terms and conditions which are set forth in our <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> ("Agreement"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement. Both the Privacy Policy and Agreement are legally binding on all users. </p>
-
-<p>We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site's homepage. However, we encourage you to check this Privacy Policy and <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> often for updates. We may also e-mail you, at our discretion, about these changes.</p>
-
-<p>We are committed to protecting our users' privacy. Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. 
+<p>This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (”<u>U.S.</u>“).  <strong>If you are not yet 16 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</strong>  This Privacy Policy is a part of the terms and conditions which are set forth in our <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> (”<u>Agreement</u>“). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement.  Both the Privacy Policy and Agreement are legally binding on all users.  </p>
+<p>We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you.  Such revisions shall be effective to you immediately upon posting.  Notice of material changes to either document will be posted on the Site’s homepage.  However, we encourage you to check this Privacy Policy and <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> often for updates.  We may also e-mail you, at our discretion, about these changes.</p>
+<p>We are committed to protecting our users’ privacy.  Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us.  We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.
 </p>
-
 <p><strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong></p>
-
-<p>If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. </p>
-
-<p>MTV qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. </p>
-
+<p>If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as “<u>unsubscribe</u>“) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. </p>
+<p>MTV qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes.  Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. </p>
 <p>If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at <strong>mtvi-admin@mtvn.com</strong>, or you may contact us via regular mail at: </p>
-
 <p><strong>mtvU<br>
 www.mtvU.com<br>
 1515 Broadway<br>
 NY, NY 10036<br>
 Attn: Your California Privacy Rights<br>
 c/o Privacy Administrator</strong></p>
-
-<p><strong>All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</strong> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) <strong>We will not accept requests via the telephone or by facsimile.</strong> We are not responsible for notices that are not labeled or sent properly, or do not have complete information. </p>
-
-<p>To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <strong>mtvi-admin@mtvn.com</strong> or: </p>
-
+<p><strong>All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.</strong> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.)  <strong>We will not accept requests via the telephone or by facsimile.</strong> We are not responsible for notices that are not labeled or sent properly, or do not have complete information. </p>
+<p>To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at  <strong>mtvi-admin@mtvn.com</strong> or: </p>
 <p><strong>mtvU<br>
 www.mtvU.com<br>
 1515 Broadway<br>
 NY, NY 10036<br>
 c/o Privacy Administrator</strong></p>
-
 <p><strong>GENERAL PRIVACY INFORMATION</strong></p>
-
-<p>This Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 16 years of age and a resident of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information you provide to us or we obtain as a result of your use on this Site will be transferred to the U.S and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy. 
-Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason. </p>
-
-<p><strong>1.	Collection and Use of Personal Information:</strong>
+<p>This Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 16 years of age and a resident of the U.S.  If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information you provide to us or we obtain as a result of your use on this Site will be transferred to the U.S and subject to U.S. law.  By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area.  Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.  All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.<br>
+Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below.  We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format.  We may also combine Personal Information we collect online with information available from other sources, including information received from our Affiliates, marketing companies, or Advertisers (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>).  This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site even if your use of or participation in any particular service, feature, function or promotional activity terminates, expires, ceases, is suspended or deactivated for any reason.  </p>
+<p><strong>1.	Collection and Use of Personal Information:</strong><br>
 <br>
-When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the MTVN family of companies. For example, to the extent we offer such services, if you order any of our various Products (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>), in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is classified as Sensitive Personal Information and is collected via a secure transmission.</p>
-
-<p>We collect Personal Information about you when you visit the Site and input information, whether you are registering to use any services, features or functions of the Site, participating in Promotions (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>), ordering or purchasing Products or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including Personal Information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences.</p>
-
-<p>It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date. <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.</strong></p> 
-
-<p><strong>a. Collection of Personal Information For Profiles.</strong><br>
-To create a profile required to provide other Personal Information, such as your email address, first and last name, and date of birth. Additional Personal Information may be requested during the registration process (but not required), such as cable/satellite provider, ethnic information, and annual income. Once you create a profile you will not be able to change that profile or any Personal Information you provide in connection with that profile.</p>
-
-<p>All member benefits are free. We may also provide you with certain options to subscribe to a selection of free email newsletters and other periodic information. You may select such options by opting-in at the time of registration or by responding to an offer or invitation at a later date. You will also have the right to opt-out (unsubscribe) or change your preferences at any time by responding to that email and using the "unsubscribe" or opt-out procedure included in that communication.</p> 
-
+When we use the term “<u>Personal Information</u>” we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you.  Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the MTVN family of companies.  For example, to the extent we offer such services, if you order any of our various Products (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>), in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer’s internet address and website which may have referred or directed you to the Site (e.g., the referring URL).  Your credit card or debit card number is classified as Sensitive Personal Information and is collected via a secure transmission.</p>
+<p>We collect Personal Information about you when you visit the Site and input information, whether you are registering to use any services, features or functions of the Site, participating in Promotions (as defined in the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a>), ordering or purchasing Products or in the course of any other exchanges of information, transactions and activities.  We may use the information we obtain from you, including Personal Information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences.</p>
+<p>It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date.  <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.</strong></p>
+<p><strong>a.  Collection of Personal Information For Profiles.</strong><br>
+To create a profile required to provide other Personal Information, such as your email address, first and last name, and date of birth.  Additional Personal Information may be requested during the registration process (but not required), such as cable/satellite provider, ethnic information, and annual income.  Once you create a profile you will not be able to change that profile or any Personal Information you provide in connection with that profile.</p>
+<p>All member benefits are free.  We may also provide you with certain options to subscribe to a selection of free email newsletters and other periodic information.  You may select such options by opting-in at the time of registration or by responding to an offer or invitation at a later date.  You will also have the right to opt-out (unsubscribe) or change your preferences at any time by responding to that email and using the “unsubscribe” or opt-out procedure included in that communication.</p>
 <p>If you have a profile, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities, your use of the Site in connection with your registration. You also agree to this Privacy Policy and Agreement with you.</p>
-
-<p><strong>b. Collection of Personal Information In Connection with Certain Features and Functions.</strong>
+<p><strong>b. Collection of Personal Information In Connection with Certain Features and Functions.</strong><br>
 <br>
-At certain times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages.</p> 
-
-<p><strong>c . Collection of Personal Information in Connection with Promotions such as Contests and Sweepstakes:</strong>
+At certain times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions that we may offer on the Site, such as chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages.</p>
+<p><strong>c . Collection of Personal Information in Connection with Promotions such as Contests and Sweepstakes:</strong><br>
 <br>
-Having a profile on the Site is not always required to enter Promotions such as contests and sweepstakes. There may be a separate registration process which will require the submission of your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Personal Information may be requested depending on the specific Promotion, but submission of such information may be optional. The Promotion's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to special Promotions or offers from our Advertisers in connection with many of these types of Promotions.</p>
-
-<p><strong>d. Use of Personal Information in Connection with Promotions and Offers; Opt-out Procedures.</strong>
+Having a profile on the Site is not always required to enter Promotions such as contests and sweepstakes.  There may be a separate registration process which will require the submission of your first and last name, street address, city, state and zip code, email address, telephone number and date of birth.  Additional Personal Information may be requested depending on the specific Promotion, but submission of such information may be optional.  The Promotion’s entry page and/or Rules will provide the specific requirements.  You may also have the opportunity to opt-in to special Promotions or offers from our Advertisers in connection with many of these types of Promotions.</p>
+<p><strong>d. Use of Personal Information in Connection with Promotions and Offers; Opt-out Procedures.</strong><br>
 <br>
-We, or our Affiliates, may contact the Site's registered users or other users that have registered for or participated in various Site events, Promotions, or transactions, or we may send offers for the purchase of goods and/or services that may of interest to users.</p> 
-
-<p>You may "opt out" of receiving marketing and promotional e-mails or text messages from us at any time by Using the opt out mechanism that is contained in an email, newsletter or text message. However, we, or our Affiliates, may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, goods and/or services you have ordered, or other transactions you have undertaken with the Site. 
-In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 16 years) who has registered with the Site in violation of the Site's Agreement, the child or the child's parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the child's registration and status as a registered user with the Site. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 years old, or the age of majority in your state). Please see the "Update, or Delete Your Personal Information" Section for details.</p> 
-
-<p><strong>e. Sharing of Aggregate Information with Third Parties.</strong>
-<br>Some of the aggregate customer data we collect may be shared with Advertisers, our Affiliates, and other business partners of the Site, its Parent Companies, and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies.</p>
-
-<p><strong>f. Use of Communities.</strong>
+We, or our Affiliates, may contact the Site’s registered users or other users that have registered for or participated in various Site events, Promotions, or transactions, or we may send offers for the purchase of goods and/or services that may of interest to users.</p>
+<p>You may “opt out” of receiving marketing and promotional e-mails or text messages from us at any time by Using the opt out mechanism that is contained in an email, newsletter or text message.  However, we, or our Affiliates, may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, goods and/or services you have ordered, or other transactions you have undertaken with the Site.<br>
+In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 16 years) who has registered with the Site in violation of the Site’s Agreement, the child or the child’s parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the child’s registration and status as a registered user with the Site.  The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 years old, or the age of majority in your state).  Please see the “Update, or Delete Your Personal Information” Section for details.</p>
+<p><strong>e. Sharing of Aggregate Information with Third Parties.</strong><br>
+<br>Some of the aggregate customer data we collect may be shared with Advertisers, our Affiliates, and other business partners of the Site, its Parent Companies, and/or its Affiliates, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy.  Use of their tracking technology is subject to their own privacy policies.</p>
+<p><strong>f. Use of Communities.</strong><br>
 <br>
-If you use any of the Communities' features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. MTVU is in no way responsible for the accuracy, use, or misuse of any information that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.</p>
-
-<p><strong>2.	Wireless Marketing Services and Promotional Opportunities:</strong> MTVU may provide its website users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from MTVU, either by registering on this Site or via their wireless device. Such services and promotional opportunities are provided by Affiliates for MTVU. The information requested as part of the online registration process ma include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Optional information may be requested for specific Promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the Promotion, we may also collect an Internet email address or other information and, depending on the information collected, the user may also be required to confirm his or her agreement to the Site's Privacy Policy and Agreement.</p> 
-
-<p>We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party's interception of messages or a user's Personal Information when using a wireless communications device.</p>
-
-<p>Users that register for MTVU's wireless marketing services acknowledge, understand and agree that they will be charged by the user's wireless carrier for all messages sent to the user from MTVU. Standard messaging rates will apply, unless noted otherwise. <strong>Under no circumstances will the Site, MTVU, its Parent Companies, or Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user's wireless device, telephone number, or email address.</strong></p> 
-
-<p><strong>a. Registration</strong><br>
-To the extent we provide wireless marketing services, there are two registration methods provided for MTVU's wireless marketing services. Standard rate Promotions will be subject to either the "single opt-in" or the "double-opt-in (Site/SMS)" method, at the discretion of MTVU depending on the type of Promotion. Premium rate services will require the "double opt-in" (Site/SMS or SMS/SMS) method.</p>
-
-<p><strong>Single Opt-in Method:</strong> In response to a print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to MTVU will mean that the user has freely and affirmatively granted permission to MTVU to send text messages to him or her. MTVU will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from MTVU or by sending a text message to MTVU that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT".</p> 
-
-<p><strong>Double Opt-in (Site/SMS) Method:</strong> In response to a print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to MTVU's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by MTVU) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and Agreement before the online registration process is completed. MTVU will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from MTVU to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of MTVU's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that MTVU may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while MTVU continues to offer the specific wireless marketing service.</p>
-
-<p><strong>Double Opt-in (SMS/SMS) Method:</strong> In response to a print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. MTVU will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from MTVU to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of MTVU's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that MTVU may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while MTVU continues to offer the specific wireless marketing service.</p> 
-
-<p><strong>b. Termination of Wireless Services by User</strong><br>
-Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTVU by the following procedure:</p> 
-
-<p>A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by MTVU at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". MTVU will terminate the user's registration for the most recent wireless service sent to the user. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with MTVU. If the user unsubscribes from one or all of MTVU service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user's previous opt-in.</p>
-
-<p><strong>c. Termination of Wireless Services by MTVU</strong><br>
-A user understands, acknowledges and agrees that MTVU may, at its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. MTVU may provide notice of terminations or changes in services on this Site.</p>
-
-<p><strong>d. Use of Information</strong><br>
-MTVU will not use a wireless telephone number, wireless or conventional Internet email address, or other information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share this Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share this information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates.</p> 
-
-<p><strong>3.	Accuracy and Confidentiality:</strong> It is your responsibility to give us current, complete, truthful and accurate information and to keep the Personal Information that you provide to us up to date. <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.</strong></p> 
-
-<p>You are solely responsible for maintaining the strict confidentiality of your user name and password, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the Site and for any use of the Site or any other activity or conduct in connection with the Site, by any others who use your user name or password, unless and until you notify us that your user name or password may have been compromised, misappropriated or improperly taken or used by another party.</p> 
-
+If you use any of the Communities’ features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public. You should exercise caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes.  MTVU is in no way responsible for the accuracy, use, or misuse of any information that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.</p>
+<p><strong>2.	Wireless Marketing Services and Promotional Opportunities:</strong> MTVU may provide its website users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from MTVU, either by registering on this Site or via their wireless device.  Such services and promotional opportunities are provided by Affiliates for MTVU.  The information requested as part of the online registration process ma include a user’s telephone number or a wireless email address, but only if specifically requested, and the carrier’s name.  Optional information may be requested for specific Promotions, such as a user’s preferences regarding goods or services, choices of music or artists, or other similar survey information.  Depending on the Promotion, we may also collect an Internet email address or other information and, depending on the information collected, the user may also be required to confirm his or her agreement to the Site’s Privacy Policy and Agreement.</p>
+<p>We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party’s interception of messages or a user’s Personal Information when using a wireless communications device.</p>
+<p>Users that register for MTVU’s wireless marketing services acknowledge, understand and agree that they will be charged by the user’s wireless carrier for all messages sent to the user from MTVU.  Standard messaging rates will apply, unless noted otherwise.  <strong>Under no circumstances will the Site, MTVU, its Parent Companies, or Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user’s wireless device, telephone number, or email address.</strong></p>
+<p><strong>a.  Registration</strong><br>
+To the extent we provide wireless marketing services, there are two registration methods provided for MTVU’s wireless marketing services.     Standard rate Promotions will be subject to either the “single opt-in” or the “double-opt-in (Site/SMS)” method, at the discretion of MTVU depending on the type of Promotion.  Premium rate services will require the “double opt-in” (Site/SMS or SMS/SMS) method.</p>
+<p><strong>Single Opt-in Method:</strong>  In response to a print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted.  The user’s voluntary submission of the designated word or code to MTVU will mean that the user has freely and affirmatively granted permission to MTVU to send text messages to him or her. MTVU will thank the user for his or her registration by sending a “Thank you” message.  The user may terminate the service at any time by using the unsubscribe command in any text message from MTVU or by sending a text message to MTVU that says “STOP”, “END”, “CANCEL”, “REMOVE”, “UNSUBSCRIBE” or “QUIT”.</p>
+<p><strong>Double Opt-in (Site/SMS) Method:</strong>  In response to a print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process.  The user must affirmatively consent to MTVU’s sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by MTVU) and by clicking the consent statement on the Site’s registration page.  The user must also agree to the Site’s Privacy Policy and Agreement before the online registration process is completed. MTVU will then send a “Confirmation” message to the user’s designated wireless device and will request that the user confirm that he or she has agreed to receive messages from MTVU to that particular telephone number (or wireless domain name when appropriate). The user must respond to the “Confirmation” message with a text message that states “YES” or “Y” that will indicate the user’s acceptance of MTVU’s wireless marketing service.  Until the user responds to the “Confirmation” message, the user is not registered for the specific wireless marketing service subject to the Promotion.  A user may respond to the “Confirmation” message at any time provided that MTVU may choose to terminate offering wireless marketing service at any time and the user’s response to the “Confirmation” is only valid if the response is received while MTVU continues to offer the specific wireless marketing service.</p>
+<p><strong>Double Opt-in (SMS/SMS) Method:</strong>  In response to a print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted.  MTVU will then send a “Confirmation” message to the user’s designated wireless device and will request that the user confirm that he or she has agreed to receive messages from MTVU to that particular telephone number (or wireless domain name when appropriate). The user must respond to the “Confirmation” message with a text message that states “YES” or “Y” that will indicate the user’s acceptance of MTVU’s wireless marketing service.  Until the user responds to the “Confirmation” message, the user is not registered for the specific wireless marketing service subject to the Promotion.  A user may respond to the “Confirmation” message at any time provided that MTVU may choose to terminate offering wireless marketing service at any time and the user’s response to the “Confirmation” is only valid if the response is received while MTVU continues to offer the specific wireless marketing service.</p>
+<p><strong>b.  Termination of Wireless Services by User</strong><br>
+Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from MTVU by the following procedure:</p>
+<p>A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by MTVU at the time the message is sent, or by sending a text message that says “STOP”, “END”, “CANCEL”, “REMOVE”, “UNSUBSCRIBE” or “QUIT”.  MTVU will terminate the user’s registration for the most recent wireless service sent to the user.  Any of these words followed by the word “ALL” in the user’s termination request will cancel all of the user’s registered wireless services with MTVU.  If the user unsubscribes from one or all of MTVU service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user’s previous opt-in.</p>
+<p><strong>c.  Termination of Wireless Services by MTVU</strong><br>
+A user understands, acknowledges and agrees that MTVU may, at its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice.  MTVU may provide notice of terminations or changes in services on this Site.</p>
+<p><strong>d.  Use of Information</strong><br><br>
+MTVU will not use a wireless telephone number, wireless or conventional Internet email address, or other information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use.  We will not share this Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure.  We will share this information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates.</p>
+<p><strong>3.	Accuracy and Confidentiality:</strong>  It is your responsibility to give us current, complete, truthful and accurate information and to keep the Personal Information that you provide to us up to date.  <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.</strong></p>
+<p>You are solely responsible for maintaining the strict confidentiality of your user name and password, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the Site and for any use of the Site or any other activity or conduct in connection with the Site, by any others who use your user name or password, unless and until you notify us that your user name or password may have been compromised, misappropriated or improperly taken or used by another party.</p>
 <p>Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features or functions of the Site.</p>
-
-<p><strong>4.	Cookies and Other Aggregate Data:</strong>
+<p><strong>4.	Cookies and Other Aggregate Data:</strong><br>
 <br>
-We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:</p> 
-
-<p>Keeping count of your return visits to the Site or our Parent Companies', Affiliates', Advertisers' or partners' sites; 
-Accumulating and reporting aggregate, statistical information in connection with the Site; 
-Determining which features users like best; and 
-Saving your user name, your password or other information so you don't have to re-enter it each time you visit the Site.</p> 
-
-<p>This Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. <strong>This Privacy Policy does not cover any use of Personal Information that a third party Advertiser or ad server may collect from you.</strong> We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers' tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad-serving cookie, please <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/" target="new"><strong>click here</strong></a>. 
-Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at the Site that make your Internet experience more efficient and enjoyable - like the features mentioned above - and some of our other services will not function properly.</p>
-
-<p><strong>5.	Privacy of Your Postings:</strong>
+We use ‘cookie’ technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:</p>
+<p>Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers’ or partners’ sites;<br>
+Accumulating and reporting aggregate, statistical information in connection with the Site;<br>
+Determining which features users like best; and<br>
+Saving your user name, your password or other information so you don’t have to re-enter it each time you visit the Site.</p>
+<p>This Site may contain advertisements, references and links to other websites and organizations.  We may also use third parties to display or serve advertising on the Site and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness.  You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet.  The use of such technology by these third parties is within their control and not ours.  Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information.  <strong>This Privacy Policy does not cover any use of Personal Information that a third party Advertiser or ad server may collect from you.</strong>  We encourage you to investigate and ask questions directly of them in this regard.  Use of Advertisers’ tracking technology is subject to their own privacy policies.  For more information about these third party servers and how to “opt out” of the ad-serving cookie, please <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.doubleclick.com/us/about_doubleclick/privacy/');" href="http://www.doubleclick.com/us/about_doubleclick/privacy/" target="new"><strong>click here</strong></a>.<br>
+Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, Personal Information is not extracted in this process.  We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information.  You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices.  This is done through your browser.  If you turn cookies off, you may not have access to many features at the Site that make your Internet experience more efficient and enjoyable - like the features mentioned above - and some of our other services will not function properly.</p>
+<p><strong>5.	Privacy of Your Postings:</strong><br>
 <br>
-We respect the privacy of the contents of any Personal Information related to or contained in a Posting, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called "Confidential Personal Information"). However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the other terms of the Agreement, or to protect the interests of our users, Advertisers, Parent Companies, Affiliates, suppliers, operational service providers, and others. Please see the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> for details regarding Postings.</p>
-
-<p><strong>6.	Disclosure to Third Parties:</strong>
+We respect the privacy of the contents of any Personal Information related to or contained in a Posting, unless the information is intended to be disclosed (such Personal Information, except as intended to be disclosed, is called “<u>Confidential Personal Information</u>“).  However, we reserve the right to monitor, edit, and disclose your use of the Site or Confidential Personal Information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the other terms of the Agreement, or to protect the interests of our users, Advertisers, Parent Companies, Affiliates, suppliers, operational service providers, and others.  Please see the <a href="/about/terms_of_use/"><strong>Terms of Use Agreement</strong></a> for details regarding Postings.</p>
+<p><strong>6.	Disclosure to Third Parties:</strong><br>
 <br>
-We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. As stated above, we will disclose Personal Information related to or contained in a Posting in connection with the display of and other services relating to such Posting as such Personal Information is intended to be disclosed. When we plan to disclose your Personal Information to Advertisers, we ask for you to opt in to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. We may disclose Personal Information to Affiliates for marketing and/or administrative purposes and you will have the right to opt-out of such disclosure for marketing purpose. (For opt-out procedures, please see the section of this Privacy Policy above entitled "Use of Personal Information in Connection with Promotions and Offers; Opt-Out Procedures"). </p>
-
-<p><strong>a. Co-Branded Services and Features.</strong> The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Affiliates ("Co-Branded Partner"). Such services and features may be hosted on the Site and/or our Co-Branded Partner's website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect and use your Personal Information provided during the registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. Registered or other users that participate in certain services relating to Postings, such as user video uploads, agree to have certain Personal Information posted on the Site or Platforms (as defined in the Video Submission Agreement that relates to user video uploads) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded partner's website in connection with the display of the uploaded video and posted on any platform that the uploaded video may be posted. Registered or other users that upload videos may also be required to submit additional Personal Information.</p>
-
-<p><strong>b. Operational Service Providers.</strong> We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as "operational service providers". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with this Site or the MTVU Channel. Additionally, such providers are not permitted to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes.</p>
-
-<p><strong>c. Other Non-Affiliated Third Parties.</strong> We will make your Personal Information and Sensitive Personal Information available to non-affiliated third parties in the following limited circumstances:</p>
-
-<p>When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); 
-If we believe your actions violate any law, regulation, <a href="/about/terms_of_use/"><strong>this Agreement</strong></a>, including, without limitation, this Privacy Policy, or any of our other terms and conditions, Rules, offerings or any other services, features or functions of the Site, or if you threaten the rights, property or safety of the Site, the MTVU Channel, the Parent Companies, the Affiliates, or any of its or their operational service providers, suppliers, Advertisers, customers or registered users, or any other party; 
-If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or 
-In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates.</p> 
-
-<p><strong>7.	Security &amp; Protection of Personal Information:</strong>
+We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below.  As stated above, we will disclose Personal Information related to or contained in a Posting in connection with the display of and other services relating to such Posting as such Personal Information is intended to be disclosed.  When we plan to disclose your Personal Information to Advertisers, we ask for you to opt in to do so, in which case their use of your information is subject to the Advertisers’ own privacy policies.  We may disclose Personal Information to Affiliates for marketing and/or administrative purposes and you will have the right to opt-out of such disclosure for marketing purpose.  (For opt-out procedures, please see the section of this Privacy Policy above entitled “Use of Personal Information in Connection with Promotions and Offers; Opt-Out Procedures”). </p>
+<p><strong>a.  Co-Branded Services and Features.</strong>  The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Affiliates (”<u>Co-Branded Partner</u>“).  Such services and features may be hosted on the Site and/or our Co-Branded Partner’s website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect and use your Personal Information provided during the registration process and/or in connection with the specific co-branded feature or service for the fulfillment of the feature or service and for marketing or administrative purposes.  If you wish to opt-out of a Co-Branded Partner’s future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly.  The Co-Branded Partner will be identified on the co-branded feature or service.   Registered or other users that participate in certain services relating to Postings, such as user video uploads, agree to have certain Personal Information posted on the Site or Platforms (as defined in the Video Submission Agreement that relates to user video uploads) or, if such feature is offered in connection with a Co-Branded Partner, on our Co-Branded partner’s website in connection with the display of the uploaded video and posted on any platform that the uploaded video may be posted.  Registered or other users that upload videos may also be required to submit additional Personal Information.</p>
+<p><strong>b.  Operational Service Providers.</strong> We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining the Site’s services, features, functions and operations.  We will refer to these third parties as “<u>operational service providers</u>“.  We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring  you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with this Site or the MTVU Channel.  Additionally, such providers are not permitted to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes.</p>
+<p><strong>c.  Other Non-Affiliated Third Parties.</strong> We will make your Personal Information and Sensitive Personal Information available to non-affiliated third parties in the following limited circumstances:</p>
+<p>When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);<br>
+If we believe your actions violate any law, regulation,  <a href="/about/terms_of_use/"><strong>this Agreement</strong></a>, including, without limitation, this Privacy Policy, or any of our other terms and conditions, Rules, offerings or any other services, features or functions of the Site, or if you threaten the rights, property or safety of the Site, the MTVU Channel, the Parent Companies, the Affiliates, or any of its or their operational service providers, suppliers, Advertisers,  customers or registered users, or any other party;<br>
+If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or<br>
+In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Parent Companies or Affiliates.</p>
+<p><strong>7.	Security &amp; Protection of Personal Information:</strong><br>
 <br>
-We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy.</p> 
-
-<p><strong>8.	Phishing:</strong>
+We maintain reasonable standards of security and confidentiality.  However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.  We conduct financial transactions via secured transmissions but may not always secure other parts of the site.  We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.  We request that our operational service providers follow the same policy.</p>
+<p><strong>8.	Phishing:</strong><br>
 <br>
-Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account usernames, passwords, and social security numbers. <strong>WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!</strong> If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at <strong>mtvi-admin@mtvn.com</strong>, and then immediately delete the fraudulent email from your computer.</p>
-
-<p><strong>9.	Update or Delete Your Personal Information:</strong>
+Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ’spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Sensitive Personal Information such as credit card numbers, account usernames, passwords, and social security numbers.  <strong>WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!</strong>  If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at <strong>mtvi-admin@mtvn.com</strong>, and then immediately delete the fraudulent email from your computer.</p>
+<p><strong>9.	Update or Delete Your Personal Information:</strong><br>
 <br>
-You are not permitted to change any Personal Information we collect when you sign up for a profile. You may deactivate your account (i.e., your profile) on the Site, at any time and for any reason, by referring back to your verification email received when joining this Site. As explained therein, you may deactivate your account by replying to the verification email. 
-If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the Site's Privacy Administrator via email with a request at <strong>mtvi-admin@mtvn.com</strong> and be prepared to provide verification of your identity. Personal Information collected for certain entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 16 years old.</p> 
-
-<p>Children under the age of 13 that are unknowingly registered on the Site are in violation of this Agreement. Parents (including legal guardians) of children that registered on the Site in violation of the Agreement who wish to terminate their child's membership must refer back to their child's verification email received when joining this Site. As explained therein, you may deactivate your account by replying to the verification email. If a parent does not have his or her child's verification email, the parent will be required to send an email to the Privacy Administrator that includes the parent's name, address, telephone and email address, in addition to the child's name and email address as registered on the Site, plus the child's date of birth. The parent must also provide verifiable identification that they are the parent of the ineligible child. MTVU will send a confirming email to the parent via the email address provided to verify that the parent wishes to terminate his or her child's account and registration. The parent must then confirm by sending a reply email to the designated return address. MTVU will then terminate the child's account but will notify the child of the termination request via email and will identify the name, address and email address of the person making the request.</p> 
-
-<p>We reserve the right to deny access, use and registration privileges to any user, including with limitation a registered user of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries.</p> 
-
-<p><strong>10.	Questions:</strong>
+You are not permitted to change any Personal Information we collect when you sign up for a profile.  You may deactivate your account (i.e., your profile) on the Site, at any time and for any reason, by referring back to your verification email received when joining this Site.  As explained therein, you may deactivate your account by replying to the verification email.<br>
+  If you wish to review Personal Information collected for Promotions such as contests and sweepstakes, you will need to contact the Site’s Privacy Administrator via email with a request at <strong>mtvi-admin@mtvn.com</strong> and be prepared to provide verification of your identity.  Personal Information collected for certain entries are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user’s request, unless the entrant is a child under the age of 16 years old.</p>
+<p>Children under the age of 13 that are unknowingly registered on the Site are in violation of this Agreement.  Parents (including legal guardians) of children that registered on the Site in violation of the Agreement who wish to terminate their child’s membership must refer back to their child’s verification email received when joining this Site.  As explained therein, you may deactivate your account by replying to the verification email.  If a parent does not have his or her child’s verification email, the parent will be required to send an email to the Privacy Administrator that includes the parent’s name, address, telephone and email address, in addition to the child’s name and email address as registered on the Site, plus the child’s date of birth.  The parent must also provide verifiable identification that they are the parent of the ineligible child. MTVU will send a confirming email to the parent via the email address provided to verify that the parent wishes to terminate his or her child’s account and registration.  The parent must then confirm by sending a reply email to the designated return address.  MTVU will then terminate the child’s account but will notify the child of the termination request via email and will identify the name, address and email address of the person making the request.</p>
+<p>We reserve the right to deny access, use and registration privileges to any user, including with limitation a registered user of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions.  And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information.  In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries.</p>
+<p><strong>10.	Questions:</strong><br>
 <br>
-If you have questions about our Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your personally identifiable information, you may contact us directly by <a href="#" onclick="window.open('http://www.mtv.com/sitewide/mtvinfo/feedback.jhtml','win','width=605,height=400,resizable,scrollbars');"><b>clicking here</b></a>.</p> 
-
-<p><strong>11.	Sole Statement:</strong>
+If you have questions about our Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your personally identifiable information, you may contact us directly by <a href="#" onclick="window.open('http://www.mtv.com/sitewide/mtvinfo/feedback.jhtml','win','width=605,height=400,resizable,scrollbars');"><b>clicking here</b></a>.</p>
+<p><strong>11.	Sole Statement:</strong><br>
 <br>
-This document is the sole statement of the Site's Privacy Policy with respect to this Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
-
+This document is the sole statement of the Site’s Privacy Policy with respect to this Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
 <p>This Privacy Policy was last modified on March 1, 2007 and is effective immediately.</p>
+<p>Copyright © 2007 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. - All Rights Reserved.</p>
 
-<p>Copyright © 2007 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. - All Rights Reserved.</p> 
+<div class="metaData">
+<div id="fluxShare">
+            <script type="text/javascript">
+						Flux.Utils.WidgetsLoader.createWidget(
+						'ContentAction2',
+		{accessKey: '3f37ac52-654f-4ab9-b8fc-21e034d70dc8',uri: 'http://www.mtvu.com/about/privacy_policy/',showAddToMyProfileButton: true,showCommentCount: true,hideCommentText: false,showRating: true,showFlagging: false,showPermalink: false,showShareButton: true, customize: {markupUrl: 'http://www.mtvu.com/wp-content/themes/spring/flux-share-widget.html'}});
+</script>
+          </div>
+          <div class="postedIn">
+                      </div>
+          <!--YARPP TEST:  AND yarpp.score > 1 and yarpp.reference_ID = 2935 AND wpflux_posts.post_type = 'post'--><div id="relatedPosts">
+<h3>You May Also Like...</h3>
 
-<br><br>
 
-<div class="sepDot3F2F1F" style="margin-bottom:1px;"><img src="/images/spacer.gif" width="1" height="1"></div>
+<p>No related posts.</p>
 
-<br>&nbsp;
-</div></td>
-<td width="10" valign="top" align="center" bgcolor="#ffffff"><img src="/images/spacer.gif" width="10" height="1" alt="" border="0">
-</td>	
-<!-- right column //-->
-<td valign="top" align="left" colspan="2" bgcolor="#ffffff">
-<!-- sponsored links //-->
-<a href="http://citicards.mtvu.com/" target="new"><img src="/sitewide/promoimages/credit_card/citi/2008/v2/citibanners160x100z6.jpg" width="160" height="100" border="0" alt="Get the card that gets you VIP at Spring Break"></a><br><br>
-
-<!--<a href="http://www.studentcity.com/promos_events/citi_card_offer.php" target="new"><img src="/sitewide/promoimages/credit_card/citi/2008/v2/citibanners160x100z2.jpg" width="160" height="100" border="0" alt="Click here to recieve $150 off your next trip!"></a><br><br>//-->
-
-<!-- ad banner //-->
-
-<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;u=|page-home|!category-video|homepage-takeover;sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
-document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;u=|page-home|!category-video|homepage-takeover;sz=160x600;tile=2;ord=734597253333907000?"></script>
-
-<br>&nbsp;
-</td>	
-</tr>
-<tr>
-<td valign="top" align="center" bgcolor="#ffffff" colspan="2">&nbsp;</td>
-<td valign="top" align="center" bgcolor="#ffffff" colspan="5">
-
-</td>
-</tr> 
-<tr>
-<td valign="top" align="center" colspan="7">
-
-<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=1x2;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
-document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/home;page=home;!category=video;homepage=takeover;node=survey;u=|page-home|!category-video|homepage-takeover|node-survey;sz=1x2;tile=3;ord=734597253333907000?"></script>
-
-<div class="footer">
-<table align="left" width="100%" cellpadding="0" cellspacing="0" border="0" valign="top">
-<tbody><tr bgcolor="#ffffff">
-<td valign="top" width="628" style="padding-left:10px; padding-top:4px; padding-bottom:7px; ">
-<a href="/about/">About mtvU</a>&nbsp;&nbsp;
-<a href="/about/terms_of_use/">Terms of Use</a>&nbsp;&nbsp;
-<a href="/about/privacy_policy/"><strong>Privacy Policy/Your CA Privacy Policy</strong></a>&nbsp;&nbsp;
-<a href="/about/copyright/">Copyright Compliance Policy</a>
-<br>© 2008 MTV Networks On Campus Inc.
-</td>
-<td valign="top" width="138" align="right" style="padding-right:7px; padding-top:4px; padding-bottom:7px; "><img src="/images/logo_mtvn_white.gif" width="131" height="26"></td>
-</tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td align="center" colspan="2">
-
-<div id="topad">
-<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;pos=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm|pos-btm;sz=728x90;tile=4;ord=' + ord + '?"><\/SCR' + 'IPT>';
-document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/btm_banner;page=home;!category=video;homepage=takeover;node=survey;!category=btm;pos=btm;u=|page-home|!category-video|homepage-takeover|node-survey|!category-btm|pos-btm;sz=728x90;tile=4;ord=734597253333907000?"></script>
+</div>          
+         
+          <!--
+          You can follow any responses to this entry through the
+          <a href='http://www.mtvu.com/about/privacy_policy/feed/'>RSS 2.0</a>          feed.
+                    You can <a href="#respond">leave a response</a>, or <a href="http://www.mtvu.com/about/privacy_policy/trackback/" rel="trackback">trackback</a> from your own site.
+                    -->
+        </div>
+      </div>
+      <div class="fluxCommenting">
+        <script type="text/javascript">
+	Flux.Utils.WidgetsLoader.createWidget(
+		'Comments3',
+		{accessKey: '3f37ac52-654f-4ab9-b8fc-21e034d70dc8',uri: 'http://www.mtvu.com/about/privacy_policy/',contentType:'Video', itemsCount: 50, viewMode: 'flat'}
+	);	
+</script>
+      </div>
+    </div>
+      </div>
+  <div id="sidebar">
+    <div id="sidead">
+    <script language="JavaScript">
+	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/ctn.mtvi\/atf_j_s" + sectionParam + ";" + sectionParamAndValue + "pos=atf;tag=adj;mtype=standard;sz=300x250;tile=3"+ excategory +";u=pos-atf|tag-adj|mtype-standard|sz-300x250|tile-3" + excategoryval + ";ord=" + ordJS + ";'type='text\/javascript'><\/script>");
+</script>
 </div>
 
-</td>
-</tr>
-</tbody></table>
+    <div id="musicSearch">
+      <div class="searchWrapper">
+        <div class="left">
+               <h3 class="musicvideos">Music Video Search</h3>
+          <form id="searchvideo" method="post" action="http://search.mtvu.com/widgets/mtv_search.jsp" onsubmit="document.getElementById('sv').value=Trim(document.getElementById('sv').value);">
+            <input id="sv" type="text" maxlength="25" name="videoSought">
+            <input id="searchvideosubmit" type="submit" value="Activate Search">
+            <input type="hidden" value="street" name="userSelection">
+            <input type="hidden" value="videoName" name="srchType">
+           </form>
+        </div>
+        <div class="right"> <span>Browse Artist</span>
+          <div id="artistDir"> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=A&amp;userSelection=artist">A</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=B&amp;userSelection=artist">B</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=C&amp;userSelection=artist">C</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=D&amp;userSelection=artist">D</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=E&amp;userSelection=artist">E</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=F&amp;userSelection=artist">F</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=G&amp;userSelection=artist">G</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=H&amp;userSelection=artist">H</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=I&amp;userSelection=artist">I</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=J&amp;userSelection=artist">J</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=K&amp;userSelection=artist">K</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=L&amp;userSelection=artist">L</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=M&amp;userSelection=artist">M</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=N&amp;userSelection=artist">N</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=O&amp;userSelection=artist">O</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=P&amp;userSelection=artist">P</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=Q&amp;userSelection=artist">Q</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=R&amp;userSelection=artist">R</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=S&amp;userSelection=artist">S</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=T&amp;userSelection=artist">T</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=U&amp;userSelection=artist">U</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=V&amp;userSelection=artist">V</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=W&amp;userSelection=artist">W</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=X&amp;userSelection=artist">X</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=Y&amp;userSelection=artist">Y</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=Z&amp;userSelection=artist">Z</a> <a href="http://search.mtvu.com/widgets/mtv_search.jsp?letter=-&amp;userSelection=artist">#</a><a>&nbsp;</a>
+          
+          </div>
+        </div>
+      </div>
+    </div>  <h3 class="recentposts">Top 5 Videos</h3>
+<div class="nationalDeansList">
+<div class="dlVideo">
+<a href="http://www.mtvu.com/video/?vid=395350"><img src="http://www.mtvu.com/shared/promoimages/bands/m/major_lazer/hold_the_line/70x53.jpg"></a>
 
-<!-- google analytics //-->
+<span><a href="http://www.mtvu.com/video/?vid=395350">Major Lazer
+
+Hold The Line</a></span></div>
+<div class="dlVideo">
+<a href="http://www.mtvu.com/video/?vid=397885"><img src="http://www.mtvu.com/shared/promoimages/bands/p/providence_this/let_down/70x53.jpg"></a>
+
+<span><a href="http://www.mtvu.com/video/?vid=397885">This Providence
+
+Letdown</a></span></div>
+<div class="dlVideo">
+<a href="http://www.mtvu.com/video/?vid=381495"><img src="http://www.mtvu.com/shared/promoimages/bands/c/cage/i_never_knew_you/70x53.jpg"></a>
+
+<span><a href="http://www.mtvu.com/video/?vid=381495">Cage (Rap)
+
+I Never Knew You</a></span></div>
+<div class="dlVideo">
+<a href="http://www.mtvu.com/video/?vid=381439"><img src="http://www.mtvu.com/shared/promoimages/bands/p/phoenix/1901/70x53.jpg"></a>
+
+<span><a href="http://www.mtvu.com/video/?vid=381439">Phoenix
+
+1901</a></span></div>
+<div class="dlVideo">
+<a href="http://www.mtvu.com/video/?vid=391560"><img src="http://www.mtvu.com/shared/promoimages/bands/b/bambu/crooks_and_rocks/70x53.jpg"></a>
+
+<span><a href="http://www.mtvu.com/video/?vid=391560">Bambu
+
+Crooks and Rooks</a></span></div>
+</div><!-- closes video list -->   
+
+    
+
+		<ul>
+					<li id="text-305569141" class="widget widget_text">			<h2 class="widgettitle">mtvU Community Members</h2>			<div class="textwidget"><script src="http://widgetsll.flux.com/Runtime.js" type="text/javascript"></script>
+<script src="http://widgets.flux.com/Context.js?communityUcid=9AF6FFFF0099CB200002FFFFF69A&amp;disableCommunityCommonCss=on" type="text/javascript"></script>
+<script type="text/javascript">
+	Flux.Utils.WidgetsLoader.createWidget(
+		'CommunityMembers',
+		{accessKey: '3f37ac52-654f-4ab9-b8fc-21e034d70dc8',title: '',viewMode: 'icons',count: 8,imageSize: Flux.API.ImageSize.Small,width: '300px'}
+	);
+</script></div>
+		</li>		</ul>
+	
+
+    
+  </div>
+</div>
+</div>
+<div id="footer">
+  <div id="footerInner">
+    <!-- mtvU<a href="http://www.mtvu.com/feed/">Entries (RSS)</a> -->
+    <!-- 25 queries. 0.372 seconds. -->
+    <div id="footerlinks">
+      <ul class="mainBrand">
+        <li><a href="http://www.mtv.com" target="_blank">MTV</a></li>
+        <li><a href="http://www.mtv2.com" target="_blank">MTV2</a></li>
+        <li><a href="http://www.mtvtr3s.com/" target="_blank">MTVTr3s</a></li>
+        <li><a href="http://www.mtvu.com/">mtvU</a></li>
+        <li><a href="http://www.mtvmusic.com/" target="_blank">MTV Music</a></li>
+        <li><a href="http://think.mtv.com/" target="_blank">Think</a></li>
+        <li><a href="http://www.mtv.com/sites/" target="_blank">Directory of MTV sites</a></li>
+      </ul>
+      <ul class="channelLinks">
+        <li>
+          <h3><a href="/category/music/">Music</a></h3>
+        </li>
+        	<li class="cat-item cat-item-13"><a href="http://www.mtvu.com/category/music/backstage-pass/" title="Get a closer, more personal look at artists as mtvU breaks down the wall between artists and college students.">Backstage Pass</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.mtvu.com/category/music/deans-list/" title="View all posts filed under Dean's List">Dean's List</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.mtvu.com/category/music/mtvu-house-band/" title="mtvU spotlights an artist for a week, featuring behind the scenes access, performances, video premieres and more.">House Band</a>
+</li>
+	<li class="cat-item cat-item-931"><a href="http://www.mtvu.com/category/music/the-freshmen/" title="View all posts filed under The Freshmen">The Freshmen</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.mtvu.com/category/music/music-blog/" title="The mtvU music blog">The Music Blog</a>
+</li>
+	<li class="cat-item cat-item-536"><a href="http://www.mtvu.com/category/music/video-premiere/" title="View all posts filed under Video Premiere">Video Premiere</a>
+</li>
+      </ul>
+      <ul class="channelLinks">
+        <li>
+          <h3><a href="/category/shows/">Shows</a></h3>
+        </li>
+        	<li class="cat-item cat-item-1087"><a href="http://www.mtvu.com/category/shows/casting-call/" title="View all posts filed under Casting Call">Casting Call</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.mtvu.com/category/shows/my-shot-with/" title="mtvU gives you a chance to chill more intimately with the artists and celebs you love">My Shot With…</a>
+</li>
+	<li class="cat-item cat-item-701"><a href="http://www.mtvu.com/category/shows/professors-strike-back/" title="Your professors have been reading the comments on RateMyProfessors.com. Now it's their turn on mtvU.">Professors Strike Back</a>
+</li>
+	<li class="cat-item cat-item-551"><a href="http://www.mtvu.com/category/shows/spring-break/" title="Hit the beach, and spend your Spring Break with mtvU.">Spring Break</a>
+</li>
+	<li class="cat-item cat-item-410"><a href="http://www.mtvu.com/category/shows/student-bodies/" title="When it comes to getting and staying in shape, everyone could use a little outside motivation. mtvU's Student Bodies hooks up two teams of two students with ROTC personal trainers and faces them off in a little friendly competition to see who can best improve their physical fitness. ">Student Bodies</a>
+</li>
+      </ul>
+      <ul class="channelLinks">
+        <li>
+          <h3><a href="/category/on-campus/">On Campus</a></h3>
+        </li>
+                <li><a href="http://www.bestfilmoncampus.com" target="_blank">Best Film on Campus</a></li>
+        <li><a href="http://www.bestmusiconcampus.com" target="_blank">Best Music on Campus</a></li>
+        	<li class="cat-item cat-item-1041"><a href="http://www.mtvu.com/category/on-campus/f-minus/" title="View all posts filed under F Minus">F Minus</a>
+</li>
+	<li class="cat-item cat-item-969"><a href="http://www.mtvu.com/category/on-campus/film-of-the-week/" title="View all posts filed under Film of the Week">Film of the Week</a>
+</li>
+	<li class="cat-item cat-item-1305"><a href="http://www.mtvu.com/category/on-campus/the-feed/" title="View all posts filed under The Feed">The Feed</a>
+</li>
+	<li class="cat-item cat-item-455"><a href="http://www.mtvu.com/category/on-campus/u-connect/" title="View all posts filed under UConnect">UConnect</a>
+</li>
+	<li class="cat-item cat-item-1028"><a href="http://www.mtvu.com/category/on-campus/contests-sweepstakes/" title="See all of our current Contests and Contest Winners">Win</a>
+</li>
+
+      </ul>
+      <ul class="channelLinks">
+        <li>
+          <h3><a href="/category/activism/">Activism</a></h3>
+        </li>
+        	<li class="cat-item cat-item-1052"><a href="http://www.mtvu.com/category/activism/culture/" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-919"><a href="http://www.mtvu.com/category/activism/economy/" title="View all posts filed under Economy">Economy</a>
+</li>
+	<li class="cat-item cat-item-920"><a href="http://www.mtvu.com/category/activism/environment/" title="View all posts filed under Environment">Environment</a>
+</li>
+	<li class="cat-item cat-item-922"><a href="http://www.mtvu.com/category/activism/grants/" title="View all posts filed under Grants">Grants</a>
+</li>
+	<li class="cat-item cat-item-921"><a href="http://www.mtvu.com/category/activism/health/" title="View all posts filed under Health">Health</a>
+</li>
+	<li class="cat-item cat-item-918"><a href="http://www.mtvu.com/category/activism/politics-activism/" title="View all posts filed under Politics">Politics</a>
+</li>
+      </ul>
+      <ul class="socialLinks">
+        <li id="twitter"><a href="http://twitter.com/mtvu" target="_blank">Follow us on Twitter</a></li>
+        <li id="rss"><a href="http://feeds2.feedburner.com/mtvu">Subscribe to RSS</a></li>
+        <li id="flux"><a href="http://join.mtvu.com">Join the mtvU community</a></li>
+      </ul>
+      <ul class="legalLinks">
+        <li><a href="/about/mtvu/">About Us</a></li>
+        <li><a href="/about/privacy_policy/">Privacy Policy</a></li>
+        <li><a href="/about/terms_of_use/">Terms of Use</a></li>
+        <li><a href="/about/copyright/">Copyright Policy</a></li>
+        <li><a href="/contact_support/">Contact Support</a></li>
+        <li>© 2008 MTV Networks On Campus Inc. </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Start Quantcast By WP-Plugin: Quantcast-Quantifier -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qoptions = { labels:"Viacom Domestic,MTVN Digital,MTVN Music and Logo,MTVN Music Group,mtvU Online" }; _qacct="p-94wNw88f65Rhk";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-94wNw88f65Rhk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=Viacom%20Domestic%2CMTVN%20Digital%2CMTVN%20Music%20and%20Logo%2CMTVN%20Music%20Group%2CmtvU%20Online" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<script type="text/javascript">
+<!--
+try
+{
+	var parent_location = new String(parent.location);
+	var top_location = new String(top.location);
+	var cur_location = new String(document.location);
+	parent_location = parent_location.toLowerCase();
+	top_location = top_location.toLowerCase();
+	cur_location = cur_location.toLowerCase();
+
+	if ( ( top_location != cur_location ) && parent_location.indexOf('http://www.mtvu.com') != 0 )
+	{
+		top.location.href = document.location.href;
+	}
+}
+catch ( err )
+{
+	top.location.href = document.location.href;
+}
+//-->
+</script>
+<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -927,38 +534,13 @@ var pageTracker = _gat._getTracker("UA-1064236-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qoptions = { labels:"Viacom Domestic,MTVN Digital,MTVN Music and Logo,MTVN Music Group,mtvU Online" }; _qacct="p-94wNw88f65Rhk";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-94wNw88f65Rhk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=Viacom%20Domestic%2CMTVN%20Digital%2CMTVN%20Music%20and%20Logo%2CMTVN%20Music%20Group%2CmtvU%20Online" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-
-</div>
-
-<script language="javascript">
-var orgID="5"
-var gateway="about"
-
+<script src="http://stats.wordpress.com/e-200925.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'5643604',v:'ext',post:'2935'});
+var load_cmc = function(){linktracker_init(5643604,2935,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
 </script>
-
-</td>
-</tr>	
-
-<tr width="766px">
-<td valign="top" align="left"></td>
-<td colspan="5" align="center" valign="middle">&nbsp;</td>
-<td valign="top" align="left"></td>	
-</tr>	
-
-</tbody></table>
-
-&nbsp;<br>&nbsp;<br>&nbsp;
-
 </div>
-
-
-
+<iframe id="ieBugFix" src="http://www.mtvu.com" height="3" width="3" frameborder="0"></iframe>
 </body></html>
