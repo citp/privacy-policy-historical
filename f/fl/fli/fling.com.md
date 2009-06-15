@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012146id_/http%3A//www.fling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615115310id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Fling.com - World's Best Personals
 
-[](https://web.archive.org/?pg=1) |   | 
-
-[ ](https://web.archive.org/main.php?a=user.register&pg=1)
-
-### Photo Verified Profiles
-
-#### **Hook up** with real people!  
-  
----|---|---  
-  
 FLING.COM PRIVACY POLICY   
 ---  
 | THIS POLICY WAS LAST UPDATED ON May 9, 2006  |    
@@ -58,7 +48,7 @@ Please read the information below under the heading "Special Cases in which we S
   
 **How We Use Public Information and Other Demographic Information**
 
-We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Service and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers' goods and services will appeal to Fling.com's users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Fling.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our[Terms of Use](https://web.archive.org/terms.html?prg=1&id=noadvert).  
+We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Service and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers' goods and services will appeal to Fling.com's users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Fling.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our[Terms of Use](https://web.archive.org/terms.html?).  
   
 **Changing our Privacy Policy for Previously Gathered Information**
 
@@ -68,7 +58,7 @@ If at any point we decide to use particular personally identifiable information 
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your Fling.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from Fling.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Fling.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@fling.com](mailto:support@fling.com). You can also send us mail to: Privacy Officer,  Incorporated, 705 Washington Ave 2nd Floor Miami Beach, FL. 33139.  
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com). You can also send us mail to: Privacy Officer,  Incorporated, 705 Washington Ave 2nd Floor Miami Beach, FL. 33139.  
   
    
   |  
