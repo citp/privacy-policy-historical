@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160544id_/http%3A//www.mcclatchydc.com/187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615080407id_/http%3A//www.mcclatchydc.com/187) for the most accurate reproduction.*
 
-# McClatchy Washington Bureau | Privacy policy
+# McClatchy | Privacy policy
 
 www.mcclatchydc.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by www.mcclatchydc.com and does not apply to information obtained or used by McClatchy Washington Bureau or its affiliates through other means.
 
@@ -15,6 +15,8 @@ Access to the majority of content, services and features on www.mcclatchydc.com 
 You may also be asked to create a separate registration account with some of the services provided by partners and other providers on www.mcclatchydc.com. Examples include the Personals, the StribMail e-mail service, MyCast personalized weather service, and Golden Gavel Auction events. Be aware that the information collected by these providers may be subject to the privacy policy and terms of use of that provider, and we recommend reviewing these prior to submitting your registration.
 
 If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service.
+
+We use third-party advertising technology vendors to collect, via includes, cookies and Web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
 **Passive Data Collection and Use**
 
