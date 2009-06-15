@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004422id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615202112id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -10,24 +10,11 @@ alight.com does not share, sell or rent customer information (including e-mail 
 
 We restrict access to your information to those individuals who need it to provide you with products or services available from alight.com. Any third-party companies we use to provide you with products or services are required to keep your information secure and confidential.
 
+**Use of Information**
+
+We may use the information we collect from you for purposes including but not limited to the following: (1) to fulfill your requests for certain products and services; (2) to provide you with targeted offers based on your specific requests or your stated preference to receive certain categories of offers; (3) to send you information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers, and other third parties; (4) to deliver targeted display advertisements and offers (by matching criteria provided by our advertisers with information collected from our visitors); (5) to enable our marketing partners, advertisers, and other third parties to communicate with individuals; (6) to contact visitors of our Website when necessary; (7) to help address questions and problems with our Website or services; (8) to administer our Website; (9) to conduct internal reviews of our Website (for example, to determine the number of visitors to specific pages within the Website); (10) to help us better understand visitors' use of our Website; and (11) to protect the security or integrity of our Website.
+
  ****
-
-**What personally identifiable information is collected and how is it used?**   
-  
-When you make a purchase, you are required to provide your shipping and billing address, phone number and credit card information. This information is stored in a secured database, only accessible to employees with access rights to this information. alight.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. 
-
-Additionally, alight.com logs your Internet Protocol Address (IP). An IP address is a number that is automatically assigned to your computer every time you browse the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is kept private. IP addresses are not linked to any personally identifiable information, meaning that although the user session is tracked, the user is anonymous. 
-
-****
-
-**  
-Does alight.com share user information with third parties?**   
-  
-We do not currently share or have any plans to share user information with third parties. We may, in the future, share user information with selected partners if we feel they offer a valuable service or product for our users. 
-
-In the event that alight.com is merged with or acquired by a third party, we retain the right to transfer all personal (consumer) information databases to successors in business or purchasers of the site and its assets. 
-
-****
 
 **  
 How to unsubscribe from alight.com's mailing list**   
@@ -40,7 +27,7 @@ Secure Shopping**
 
 Your information is secure with alight.com! ****
 
-We use secure servers to protect your personal information, including your name, address, and credit card information. We use the Stronghold secure server, currently the second best-selling secure server software, and in our opinion, the best product technically. It supports industry-standard 128-bit SSL encryption.  
+We use secure servers to protect your personal information, including your name, address, and credit card information. We use the Linus Security Suite, currently the best-selling secure server software, and in our opinion, the best product technically. It supports industry-standard 128-bit SSL encryption.  
 
 
 When you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it reaches us. 
