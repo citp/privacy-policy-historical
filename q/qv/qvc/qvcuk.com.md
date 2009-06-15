@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010952id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DCS-_-PrivacyStatement-_-PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615080506id_/http%3A//www.qvcuk.com/ukqic/qvcapp.aspx/app.html/params.file.%257CPrivacystate%2Chtml/walk.html.%257CCor_uk_PrivStat%2Chtml%3Fcm_re%3DFooter-_-Footer-_-Privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,7 @@ Credit card transactions are subject to routine searches from time to time. QVC 
 
 When you order from QVC, you can pay by cheque if you wish. Cheque payments to QVC are processed using Transax, a payment clearance system that operates without the need for a cheque guarantee card. Your order is released and delivered to you when payment has cleared.
 
-From time to time, we may write or telephone in order to update your account, or to give you information that we hope might interest you or gather feedback in order to help us improve customer service. If you don't want us to get in touch, simply tell a Customer Service Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7CCor_uk_PrivStat,html), to have your name removed from our contact list.
+From time to time, we may write or telephone in order to update your account, or to give you information that we hope might interest you or gather feedback in order to help us improve customer service. If you don't want us to get in touch, simply tell a Customer Care Representative, or contact us at [**webmaster**](https://web.archive.org/ukqic/qvcapp.aspx/app.html/params.file.%7CCus_Webmaster,html/walk.html.%7CCor_uk_PrivStat,html), to have your name removed from our contact list.
 
 go to top
 
@@ -58,7 +58,7 @@ go to top
 
 When ordering on QVCUK.com, you can select **Custom Check-Out** to give us a different Ship-To Address or change your method of payment.
 
-You can also call Customer Service free on **0800 51 41 31** to change your address, telephone number or credit card account information.
+You can also call Customer Care free on **0800 51 41 31** to change your address, telephone number or credit card account information.
 
 go to top
 
