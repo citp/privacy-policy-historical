@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yaymicro.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605064004id_/http%3A//yaymicro.com/view.action%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaymicro.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163112id_/http%3A//yaymicro.com/view.action%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# YAY Micro | News
+# 
 
 ### Privacy Policy
 
