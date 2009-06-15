@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012328id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162549id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.*
 
 # VOIP with Vonage Canada
 
