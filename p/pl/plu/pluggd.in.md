@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the pluggd.in privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231001013id_/http%3A//www.pluggd.in/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluggd.in privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615192906id_/http%3A//www.pluggd.in/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Startups, Business and Technology
 
-  * Monday, March 10, 2008, 11:58
-  * 7 views
-
-
+## [Privacy Policy](http://www.pluggd.in/about/privacy-policy/ "Privacy Policy")
 
 The privacy of our visitors to Pluggd.in is important to us.At Pluggd.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Pluggd.in, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -17,10 +14,10 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on Pluggd.in to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Hey dude! If you are new here, check out the [hot posts](http://www.pluggd.in/tag/hot). If you like the stuff, subscribe to [RSS feed](http://www.pluggd.in/feed/). See you again!
-
-#### About the Author
-
-## Write a Comment
