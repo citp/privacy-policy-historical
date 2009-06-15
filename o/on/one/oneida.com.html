@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oneida.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216041417id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oneida.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615164628id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		
@@ -99,6 +99,58 @@
 			</div>
 			<!-- SLI End Header -->
 			<!-- SLI Begin Top Nav -->
+			<script type="text/javascript">
+				function f_clientWidth() {
+					return f_filterResults (
+						window.innerWidth ? window.innerWidth : 0,
+						document.documentElement ? document.documentElement.clientWidth : 0,
+						document.body ? document.body.clientWidth : 0
+					);
+				}
+				function f_clientHeight() {
+					return f_filterResults (
+						window.innerHeight ? window.innerHeight : 0,
+						document.documentElement ? document.documentElement.clientHeight : 0,
+						document.body ? document.body.clientHeight : 0
+					);
+				}
+				function f_scrollLeft() {
+					return f_filterResults (
+						window.pageXOffset ? window.pageXOffset : 0,
+						document.documentElement ? document.documentElement.scrollLeft : 0,
+						document.body ? document.body.scrollLeft : 0
+					);
+				}
+				function f_scrollTop() {
+					return f_filterResults (
+						window.pageYOffset ? window.pageYOffset : 0,
+						document.documentElement ? document.documentElement.scrollTop : 0,
+						document.body ? document.body.scrollTop : 0
+					);
+				}
+				function f_filterResults(n_win, n_docel, n_body) {
+					var n_result = n_win ? n_win : 0;
+					if (n_docel && (!n_result || (n_result > n_docel)))
+						n_result = n_docel;
+					return n_body && (!n_result || (n_result > n_body)) ? n_body : n_result;
+				}
+				var foodserviceWarning = function(){
+					var myDiv = document.getElementById("foodservicePopup");
+					var overlay = document.getElementById("modalMaskLayer");
+					myDiv.style.top = ''+(f_scrollTop()+(f_clientHeight()/2)-(342/2))+'px';
+					myDiv.style.left = ''+(f_scrollLeft()+(f_clientWidth()/2)-(438/2))+'px';
+					overlay.style.display = 'block';
+					myDiv.style.display = 'block';
+					
+					return false;	
+				}
+				var foodserviceClose = function(){
+					var myDiv = document.getElementById("foodservicePopup");
+					var overlay = document.getElementById("modalMaskLayer");
+					myDiv.style.display = 'none';
+					overlay.style.display = 'none';
+				}
+			</script>
 			<div id="primaryNav-container">
 				<ul class="navigation-horizontal navigation-ir navigation">
 					
@@ -115,7 +167,7 @@
 			</li>
 		
 			<li class="navigation-item-59e9b9de-ea06-4a93-b0cc-de44340c7a1a">
-				<a class="navigation-link-59e9b9de-ea06-4a93-b0cc-de44340c7a1a" href="/index.cfm/fuseaction/product.browse/_/Child-and-Baby/categoryID/59e9b9de-ea06-4a93-b0cc-de44340c7a1a/" title="Category: Child and Baby"> Child and Baby</a> 
+				<a class="navigation-link-59e9b9de-ea06-4a93-b0cc-de44340c7a1a" href="/child-and-baby/" title="Category: Child and Baby"> Child and Baby</a> 
 			</li>
 		
 			<li class="navigation-item-95ddcff2-f619-49ca-ab01-8ef4a94508f0">
@@ -130,8 +182,31 @@
 				<a class="navigation-link-4870cb12-36bc-4220-9211-f4fa8ad8f4a2" href="/sale/" title="Category: Sale"> Sale</a> 
 			</li>
 		
-					
+					<li class="navigation-item-forYourBusiness">
+						<a class="navigation-link-forYourBusiness" href="#" title="Oneida - Food Service" onclick="foodserviceWarning();return false;">Foodservice</a>
+					</li>
 				</ul>
+			</div>
+			<div id="modalMaskLayer" style="display:none;"></div>
+			<div id="foodservicePopup" style="display:none;">
+				<div class="foodserviceTop">
+					<a href="#" id="foodserviceCloseBtn" onclick="foodserviceClose();return false;">Close</a>
+				</div>
+				<div class="foodserviceText">
+					<p>
+						<strong>You are about to enter the Oneida Foodservice website.</strong><br>
+						This website is for businesses only and Oneida's foodservice products can only be purchased through your local foodservice distributor.
+					    Oneida products can only be purchased on our consumer website.
+					</p>
+					<p>
+						<em>Click ENTER WEBSITE to continue to the Oneida Foodservice Website.<br>
+						Click CANCEL to remain on the Oneida Consumer Website.</em>
+					</p>
+				</div>
+				<div id="foodserviceActions">
+					<a id="foodserviceCancelBtn" href="#" onclick="foodserviceClose();return false;">Cancel</a>
+					<a id="foodserviceContinueBtn" href="http://foodservice.oneida.com">Continue</a>
+				</div>
 			</div>
 			<!-- SLI End Top Nav -->
 			<!-- SLI Begin Utility Links -->
@@ -238,14 +313,8 @@
 			<a href="/outlet-stores/" title="Outlet Stores"> Outlet Stores
 		</a>
 	
-			<ul>
-		
-		<li class="navigation-item-381d9dd8-89ee-49f3-a04a-daf6a71425a3">
-			<a href="/outlet-stores_outlet-store-coupon/" title="Outlet Store Coupon"> Outlet Store Coupon
-		</a>
-	
 			</li>
-		</ul></li> 
+		
 		<li class="navigation-item-b44150b7-0cc6-45cd-84e5-30e90802789b active">
 			<a href="/customer-service/" title="Customer Service"> Customer Service
 		</a>
@@ -301,7 +370,7 @@
 			</li>
 		
 		<li class="navigation-item-d1db0515-0c9f-4a45-816a-c591e80f13ed">
-			<a href="/customer-service_flatware-bakeware-kitchenware-warranties/" title="Flatware, Bakeware, Kitchenware Warranties"> Flatware, Bakeware, Kitchenware Warranties
+			<a href="/warranty/" title="Flatware, Bakeware, Kitchenware Warranties"> Flatware, Bakeware, Kitchenware Warranties
 		</a>
 	
 			</li>
@@ -319,7 +388,7 @@
 			</li>
 		</ul></li> 
 		<li class="navigation-item-7c5abf4b-e971-4b7f-80b8-26345149b7de">
-			<a href="/patterns-for-lifetime/" title="Patterns for Lifetime"> Patterns for Lifetime
+			<a href="/patterns-forever/" title="Patterns Forever"> Patterns Forever
 		</a>
 	
 			<ul>
@@ -340,88 +409,10 @@
 			<a href="/use-and-care/" title="Use and Care"> Use and Care
 		</a>
 	
-			</li>
-		
-		<li class="navigation-item-8a94e41b-ac50-45c2-a3ef-a0e14dbe7336">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/8a94e41b-ac50-45c2-a3ef-a0e14dbe7336/" title="Oneida Bridal"> Oneida Bridal
-		</a>
-	
 			<ul>
 		
-		<li class="navigation-item-b3a323d8-d9c3-4db4-bcda-5df835897ce9">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/b3a323d8-d9c3-4db4-bcda-5df835897ce9/" title="Why Buy Oneida?"> Why Buy Oneida?
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-83353b25-50ca-4e3f-ba40-3b5d6fe6fc3f">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/83353b25-50ca-4e3f-ba40-3b5d6fe6fc3f/" title="Patterns for a Lifetime"> Patterns for a Lifetime
-		</a>
-	
-			<ul>
-		
-		<li class="navigation-item-6d26589c-1d7a-4290-bdf7-ef0f2dd9a94f">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/6d26589c-1d7a-4290-bdf7-ef0f2dd9a94f/" title="Details of Program"> Details of Program
-		</a>
-	
-			</li>
-		</ul></li> 
-		<li class="navigation-item-5f9d748a-62a5-4dee-91d1-26b22036207b">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/5f9d748a-62a5-4dee-91d1-26b22036207b/" title="Selecting a Pattern"> Selecting a Pattern
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-e987d678-7041-4a38-b5a3-c67bcc28d281">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/e987d678-7041-4a38-b5a3-c67bcc28d281/" title="Use and Care"> Use and Care
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-cb1cbf2d-db40-47fd-9924-2c6a0fc9f429">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/cb1cbf2d-db40-47fd-9924-2c6a0fc9f429/" title="Articles"> Articles
-		</a>
-	
-			<ul>
-		
-		<li class="navigation-item-14ffb2ac-62da-44b1-868d-e14ba17fe21d">
-			<a href="/the-present-situation/" title="Gift Advice"> Gift Advice
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-2481df5d-bf75-4b16-b9a1-347a0429d5b4">
-			<a href="/the-ultimate-dinner-party/" title="Dinner Party"> Dinner Party
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-978e7613-28d5-4c1e-a517-24da768163ea">
-			<a href="/a-family-affair/" title="A Family Affair"> A Family Affair
-		</a>
-	
-			</li>
-		</ul></li> 
-		<li class="navigation-item-56732d8d-b876-4159-84d7-fb27be2f0e4b">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/56732d8d-b876-4159-84d7-fb27be2f0e4b/" title="Glossary of Terms"> Glossary of Terms
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-589eca55-6444-48ea-b16d-6dced1e21f99">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/589eca55-6444-48ea-b16d-6dced1e21f99/" title="Warranties"> Warranties
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-47ab0bad-c2bc-4b69-9aa4-265d88fe1b58">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/47ab0bad-c2bc-4b69-9aa4-265d88fe1b58/" title="Tablesetting Guide"> Tablesetting Guide
-		</a>
-	
-			</li>
-		
-		<li class="navigation-item-4921c3cd-85d0-4e3c-8e6e-8f666845fd42">
-			<a href="/index.cfm/fuseaction/content.page/nodeID/4921c3cd-85d0-4e3c-8e6e-8f666845fd42/" title="FAQ"> FAQ
+		<li class="navigation-item-a655f41a-cef9-4c97-925f-d7361f223836">
+			<a href="/index.cfm/fuseaction/content.page/nodeID/a655f41a-cef9-4c97-925f-d7361f223836/" title="Cutlery Use &amp; Care"> Cutlery Use &amp; Care
 		</a>
 	
 			</li>
@@ -498,7 +489,7 @@
 <p><strong>Collection of personally identifying information:<br></strong>When you place an order at Oneida.com, all personally identifying information (Name, Email Address, Address, Credit Card Number) is submitted via secured connection, and stored in a controlled, limited access environment. The information that we collect in this manner is required to fill your order.</p>
 <p><strong>Oneida will also ask for information in site surveys to assist in market research, product development and site design:</strong> <br>This information is analyzed in aggregate to determine consumer trends and to obtain feedback on the functionality and appeal of our web site. </p>
 <p><strong>The Oneida Patterns for a Lifetime enrollment form:<br></strong>This form&nbsp;requires basic personally identifying information, which enables us to contact you about your Patterns for a Lifetime pattern. </p>
-<p><strong>How we use information we collect:</strong><br>For the most part information that is collected from Oneida.com, whether anonymous or identifiable, is used solely by Oneida to enhance our product selection, pricing and overall web experience. We do not share, sell or rent any information collected from Oneida.com to any third party with the exception of Patterns for a Lifetime enrollment information. There are two opt-in check boxes in the Patterns for a Lifetime form which you may mark to receive additional offers from Oneida <br>and/or our marketing partners.</p>
+<p><strong>How we use information we collect:</strong><br>If you supply us with your postal address, you may receive catalog mailings from Oneida, Ltd. regarding new products and services. If you do not wish to receive these mailings, please let us know by clicking here to complete the "<a class="" href="/index.cfm/fuseaction/dynamicForm.respond/formID/c4be14a0-273f-4810-b5c0-6096c12f8deb"><strong>Do Not Mail</strong></a>" form or by calling us at 888-263-7195<br><br>Occasionally, we may establish a relationship with certain companies that perform consumer networking functions on our behalf. This would enable these reputable companies to communicate with you for promotional purposes that may be of interest to you and your needs. These companies have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using this data for other purposes, and in any way other than to provide the requested services to Oneida, and may not alter or resell the data.</p>
 <p><strong>Checkout</strong>:<br>Although our checkout procedure requires you to provide an email address in order to process your order, you may opt out of receiving future emails from Oneida by un-marking the opt-in box located below the email address section during checkout. </p>
 <p><strong>User submitted content:</strong><br>Oneida Ltd. reserves the right to edit “Gift Message” comments for form and content. </p>
 <p><strong>Questions and comments:<br></strong>See the Contact Us section if you have any additional comments or questions. We are always happy to answer your questions and listen to your thoughts and suggestions. </p>
@@ -631,7 +622,7 @@
 					</ul>
 				</div>
 				<div id="footer-copyright-container">
-					© 2008 by Oneida. All rights reserved. All pattern names are trademarks of Oneida, its subsidiaries or affiliates.
+					© 2009 by Oneida. All rights reserved. All pattern names are trademarks of Oneida, its subsidiaries or affiliates.
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -646,6 +637,17 @@
 			_uacct = "UA-338011-1";
 			urchinTracker();
 		</script>
+		
+			<!-- Tracking LXR100 Start -->
+			<script src="https://www.adelixir.com/WebPages/scripts/Ne_ROI_Tracking.js" type="text/javascript"></script>
+			<script type="text/javascript">
+				busassid = '784';
+			 	pageTracker(); 
+			</script>
+			<noscript>
+				<img height='1' width='1' border='0' src='http://www.adelixir.com/NeROITrack/784/?busassid=784'>
+			</noscript>
+			<!-- Tracking LXR100 End -->
 		
 		
 		
@@ -678,8 +680,8 @@
 		<noscript>
 		<img src="http://keywordmax.com/tracking/log.php?id=787651473&loc=Content Pages" border="0" width="1" height="1" alt="KeywordMax"/>
 		</noscript>
-	<!-- {ts '2008-12-15 23:14:11'} -->
+	<!-- {ts '2009-06-15 12:46:34'} -->
 		
 		<script language="javascript" src="https://oneida.resultspage.com/autosuggest/searchbox_suggest_v1.js" type="text/javascript"></script>
 	
- <!-- 266 --> </body></html>
+ <!-- 156 --> </body></html>
