@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004422id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615122511id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
