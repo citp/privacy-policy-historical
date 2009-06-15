@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032930id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041237id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
 
 # ShutterPoint Photography - Privacy Policy
 
