@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084014id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615045030id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy statement - ThinkHost
 
