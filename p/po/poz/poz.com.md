@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022224id_/http%3A//www.poz.com/your_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162605id_/http%3A//www.poz.com/your_privacy.shtml) for the most accurate reproduction.*
 
 # POZ - POZ Magazine - POZ.com - HIV - AIDS - HIV AIDS
 
@@ -21,8 +21,10 @@ POZ does not knowingly collect personally identifiable information from a child 
 
 POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ's sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ's terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person. 
 
-POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the Users preferences. 
+POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the User's preferences. 
 
 If you have questions about this Privacy Policy you can contact us at [personals@poz.com](mailto:personals@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy). 
+
+Effective: March 19, 2008 
 
 [Click here to see the POZ.com Terms of Use](https://web.archive.org/termsofuse.shtml)
