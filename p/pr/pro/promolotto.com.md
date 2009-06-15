@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promolotto.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051107id_/http%3A//www.promolotto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promolotto.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163212id_/http%3A//www.promolotto.com/privacy.php) for the most accurate reproduction.*
 
-# Promo Lotto - Free Manual Traffic Exchange, website promotion, list building and more!
+# Free Manual Traffic Exchange, website promotion, list building and more! - Promo Lotto
 
 ###  **Privacy Policy**
 
