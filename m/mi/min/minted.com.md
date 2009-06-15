@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030145id_/http%3A//www.minted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041131id_/http%3A//www.minted.com/privacy) for the most accurate reproduction.*
 
 # Wedding Invitations, Letterpress Invitations, Save-the-Date Cards, Thank You Cards - The Best Independent Stationery Brands, all at Minted.com
 
