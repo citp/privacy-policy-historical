@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153719id_/http%3A//www.toolbarn.com/cgi-bin/support.cgi/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615053824id_/http%3A//www.toolbarn.com/cgi-bin/support.cgi/82) for the most accurate reproduction.*
 
 # Support at ToolBarn.com - ToolBarn.com
 
