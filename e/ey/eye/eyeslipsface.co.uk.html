@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the eyeslipsface.co.uk privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217183042id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eyeslipsface.co.uk privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615061718id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head onsubmit="WAValidateRQ(document.searchFRM.searchStr,'- Company is required',document.searchFRM.searchStr,0,false,'text');WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- First name is required',true,true,false,true,'',document.searchFRM.searchStr,0,true);WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- Last name is required',true,true,false,true,'',document.searchFRM.searchStr,0,true);WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- Telephone is required',false,false,true,true,'()-',document.searchFRM.searchStr,0,true);WAAlertErrors('The following errors were found','Correct invalid entries to continue',true,false);return document.MM_returnValue">
 	<!-- InstanceBeginEditable name="Head" -->
 	<title>ELF Cosmetics UK -  Eyes Lips Face</title>
 	<meta name="Description" content="Elf cosmetics prescribes a luxurious line of problem-solution cosmetics for the treatment of challenged skin.  At e.l.f cosmetics we understand that women should be able to play in innovation without sacrificing their budget, therefore all our products are Value priced cosmetics that sell for $1.00. E.l.f cosmetics lip gloss is first to combining SPF skin care with micro-mirror technology.">
 	<meta name="owner" content="Copyright © ELF Cosmetics">
 	<meta name="Keywords" content="ELF cosmetics, lip stick, lip gloss, eyes, lips, face, make up, makeup, cosmetics, Eye liner, Eye shadow, Bronzer, Lip gloss, SPF 15, Pressed powder, tinted moisturiser, moisturiser, lip balm, chap stick, Facial whip, Stila cosmetics, Mac cosmetics, Mary Kay cosmetics, neutrogena, cheap makeup, value makeup, value priced cosmetics, cheap cosmetics">
 	<!-- InstanceEndEditable -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="object" content="Document, homepage">
 	<meta name="abstract" content="Cosmetics">
@@ -175,6 +176,123 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 	  document.WAFV_InvalidArray = false;
   }
 }
+function WAtrimIt(theString,leaveLeft,leaveRight)  {
+  if (!leaveLeft)  {
+    while (theString.charAt(0) == " ")
+      theString = theString.substring(1);
+  }
+  if (!leaveRight)  {
+    while (theString.charAt(theString.length-1) == " ")
+      theString = theString.substring(0,theString.length-1);
+  }
+  return theString;
+}
+
+function WAFV_GetValueFromInputType(formElement,inputType,trimWhite) {
+  var value="";
+  if (inputType == "select")  {
+    if (formElement.selectedIndex != -1 && formElement.options[formElement.selectedIndex].value && formElement.options[formElement.selectedIndex].value != "") {
+      value = formElement.options[formElement.selectedIndex].value;
+    }
+  }
+  else if (inputType == "checkbox")  {
+    if (formElement.length)  {
+      for (var x=0; x<formElement.length ; x++)  {
+        if (formElement[x].checked && formElement[x].value!="")  {
+          value = formElement[x].value;
+          break;
+        }
+      }
+    }
+    else if (formElement.checked)
+      value = formElement.value;
+  }
+  else if (inputType == "radio")  {
+    if (formElement.length)  {
+      for (var x=0; x<formElement.length; x++)  {
+        if (formElement[x].checked && formElement[x].value!="")  {
+          value = formElement[x].value;
+          break;
+        }
+      }
+    }
+    else if (formElement.checked)
+      value = formElement.value;
+  }
+  else if (inputType == "radiogroup")  {
+    for (var x=0; x<formElement.length; x++)  {
+      if (formElement[x].checked && formElement[x].value!="")  {
+        value = formElement[x].value;
+        break;
+      }
+    }
+  }
+  else  {
+    var value = formElement.value;
+  }
+  if (trimWhite)  {
+    value = WAtrimIt(value);
+  }
+  return value;
+}
+
+function WAValidateRQ(formElement,errorMsg,focusIt,stopIt,trimWhite,inputType)  {
+  var isValid = true;
+  if (!document.WAFV_Stop && !formElement.WAFV_Stop)  {
+    var value=WAFV_GetValueFromInputType(formElement,inputType,trimWhite);
+    if (value == "")  {
+	    isValid = false;
+    }
+  }
+  if (!isValid)  {
+    WAAddError(formElement,errorMsg,focusIt,stopIt);
+  }
+}
+function WAValidateAN(formElement,value,errorMsg,allowUpper,allowLower,allowNumbers,allowSpace,extraChars,focusIt,stopIt,required)  {
+  var isValid = true;
+  extraChars = extraChars.replace(/&quot;/g,'"');
+  if ((!document.WAFV_Stop && !formElement.WAFV_Stop) || formElement.WAFV_Continue)  {
+    for (var x=0; x<value.length; x++)  {
+	  var charGood = false;
+	  var nextChar = value.charAt(x);
+	  var charCode = value.charCodeAt(x);
+	  if (allowLower)  {
+	    if (charCode >= 97 && charCode <= 122)  {
+		  charGood = true;
+		}
+	  }
+	  if (allowUpper)  {
+	    if (charCode >= 65 && charCode <= 90)  {
+		  charGood = true;
+		}
+	  }
+	  if (allowNumbers)  {
+	    if (charCode >= 48 && charCode <= 57)  {
+		  charGood = true;
+		}
+	  }
+	  if (allowSpace)  {
+	    if (nextChar == " ")  {
+		  charGood = true;
+		}
+	  }
+	  if (extraChars)  {
+	    if (unescape(extraChars).indexOf(nextChar) >= 0)  {
+		  charGood = true;
+		}
+	  }
+	  if (!charGood)  {
+	    isValid = false;
+		x = value.length;
+	  }
+	}
+	if (required && value=="")
+	  isValid = false;
+  }
+  if (!isValid)  {
+    WAAddError(formElement,errorMsg,focusIt,stopIt);
+  }
+}
 //-->
 </script>
 <script src="AC_RunActiveContent.js" language="javascript" type="text/javascript"></script>
@@ -207,7 +325,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
             
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="customerservices.htm">customer services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-              <img src="main_images/nav_shoppingbag.gif" alt="Shopping bag" width="19" height="18" align="absbottom">&nbsp;&nbsp;<a href="cart.htm">shopping bag</a>&nbsp;:&nbsp;(0) items; value SEK&nbsp;0.00            </div>
+              <img src="main_images/nav_shoppingbag.gif" alt="Shopping bag" width="19" height="18" align="absbottom">&nbsp;&nbsp;<a href="cart.htm">shopping bag</a>&nbsp;:&nbsp;(0) items; value £0.00            </div>
     
             <div class="search" style="width:690px;">
               <form action="searchresults.asp" method="post" name="searchFRM" id="searchFRM">
@@ -260,7 +378,9 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 				
                 <li><a href="product~prodID~16.htm">all over color stick</a></li>
 				
-                <li><a href="product~prodID~15.htm" class="last">custom eyes</a></li>
+                <li><a href="product~prodID~15.htm">custom eyes</a></li>
+				
+                <li><a href="product~prodID~101.htm" class="last">waterproof eyeliner pen</a></li>
 				
               </ul>
             <!--[if lte IE 6]>
@@ -283,7 +403,9 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 			<![endif]-->
               <ul>
 			    
-				<li><a href="product~prodID~72.htm" class="first">shimmering facial whip</a></li>
+				<li><a href="product~prodID~102.htm" class="first">candy shop lip tins</a></li>
+				
+                <li><a href="product~prodID~72.htm">shimmering facial whip</a></li>
 				
                 <li><a href="product~prodID~17.htm">hypershine mini mobile lip gloss charms</a></li>
 				
@@ -371,7 +493,9 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 				
                 <li><a href="product~prodID~64.htm">nail file set</a></li>
 				
-                <li><a href="product~prodID~65.htm" class="last">toe separators</a></li>
+                <li><a href="product~prodID~65.htm">toe separators</a></li>
+				
+                <li><a href="product~prodID~108.htm" class="last">nourishing cuticle pen</a></li>
 				
               </ul>
             <!--[if lte IE 6]>
@@ -414,7 +538,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 				
                 <li><a href="product~prodID~47.htm">lip defining brush</a></li>
 				
-                <li><a href="product~prodID~48.htm">smudge eye brush</a></li>
+                <li><a href="product~prodID~48.htm">smudge eye sponge</a></li>
 				
                 <li><a href="product~prodID~49.htm">brow comb and brush</a></li>
 				
@@ -433,7 +557,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 			<![endif]-->
           </li>
         
-          <li><a href="category~catID~9.htm"> <!--<b>&#187;</b>--><img src="/main_images/ribbon.gif" border="0" valign="absmiddle">&nbsp;kits&nbsp;and&nbsp;gifts
+          <li><a href="category~catID~9.htm"> <!--<b>&#187;</b>--><img src="/main_images/ribbon.gif" border="0">&nbsp;kits&nbsp;and&nbsp;gifts
                 <!--[if IE 7]>
 			<!-->
             </a>
@@ -447,7 +571,7 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 			    
 				<li><a href="product~prodID~75.htm" class="first">get the look</a></li>
 				
-                <li><a href="product~prodID~77.htm">lip cases</a></li>
+                <li><a href="product~prodID~109.htm">luxury gift sets</a></li>
 				
                 <li><a href="product~prodID~92.htm">e.l.f. professional travel kit</a></li>
 				
@@ -462,6 +586,8 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
                 <li><a href="product~prodID~93.htm">e.l.f. professional 5 pc. brush collection</a></li>
 				
                 <li><a href="product~prodID~94.htm">e.l.f. professional 9 pc. master set</a></li>
+				
+                <li><a href="product~prodID~77.htm">lip cases</a></li>
 				
                 <li><a href="product~prodID~97.htm">mineral glow kit</a></li>
 				
@@ -549,6 +675,37 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 			<![endif]-->
           </li>
         
+          <li><a href="category~catID~12.htm"> <!--<b>&#187;</b>-->cases
+                <!--[if IE 7]>
+			<!-->
+            </a>
+              <!--<![endif]-->
+              <!--[if lte IE 6]>
+			<table>
+			<tr>
+			<td>
+			<![endif]-->
+              <ul>
+			    
+				<li><a href="product~prodID~103.htm" class="first">train case</a></li>
+				
+                <li><a href="product~prodID~104.htm">dump bag</a></li>
+				
+                <li><a href="product~prodID~105.htm">organiser</a></li>
+				
+                <li><a href="product~prodID~106.htm">signature</a></li>
+				
+                <li><a href="product~prodID~107.htm" class="last">wristlets</a></li>
+				
+              </ul>
+            <!--[if lte IE 6]>
+			</td>
+			</tr>
+			</table>
+			</a>
+			<![endif]-->
+          </li>
+        
           <li><a href="category~catID~10.htm"> <!--<b>&#187;</b>-->mineral
                 <!--[if IE 7]>
 			<!-->
@@ -593,6 +750,26 @@ function WAAlertErrors(errorHead,errorFoot,setFocus,submitForm)  {
 			</a>
 			<![endif]-->
           </li>
+        
+                <!--[if IE 7]>
+			<!-->
+            
+              <!--<![endif]-->
+              <!--[if lte IE 6]>
+			<table>
+			<tr>
+			<td>
+			<![endif]-->
+              <ul>
+			    
+              </ul>
+            <!--[if lte IE 6]>
+			</td>
+			</tr>
+			</table>
+			</a>
+			<![endif]-->
+          
         
         </ul>
     </div>
@@ -657,7 +834,7 @@ You have the right under the Data Protection Act 1998 to request a copy of the p
 If you have any questions, comments or requests regarding this privacy policy, please feel free to Contact Us.<br>
 <br>
 <strong> UPDATES</strong><br>
-We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in November 2007.</p>
+We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in January 2009.</p>
         </div>
 		<!-- InstanceEndEditable -->
 		</div>
@@ -693,12 +870,12 @@ We may amend this privacy policy from time to time by changing it on the Site. I
 				<a href="faq.htm">FAQs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                 <a href="wholesaleaccounts.htm">TRADE</a>
 			</div>
-			<div class="copyright">
-				Copyright © 2007 ELF Cosmetics UK. Powered by <a href="http://www.onestepdesign.co.uk" target="_blank" title="[new window]">OSDuk</a>
+			<div class="copyright" onsubmit="WAValidateRQ(document.searchFRM.searchStr,'- Company is required',document.searchFRM.searchStr,0,false,'text');WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- First name is required',true,true,false,true,'',document.searchFRM.searchStr,0,true);WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- Last name is required',true,true,false,true,'',document.searchFRM.searchStr,0,true);WAValidateAN(document.searchFRM.searchStr,document.searchFRM.searchStr.value,'- Telephone is required',false,false,true,true,'()-',document.searchFRM.searchStr,0,true);WAAlertErrors('The following errors were found','Correct invalid entries to continue',true,false);return document.MM_returnValue">
+				Copyright © 2007-2009 ELF Cosmetics UK. Powered by <a href="http://www.onestepdesign.co.uk" target="_blank" title="[new window]">OSDuk</a>
 			</div>
 		</div>
-		<div id="bottomSpace"></div>
-	</div>
+		<div id="bottomSpace"><!-- InstanceBeginEditable name="Home" --><!-- InstanceEndEditable --></div>
+</div>
     <!-- Google Analytics Code Start -->
 	<script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
