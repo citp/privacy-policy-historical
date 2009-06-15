@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015321id_/http%3A//www.successdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615170319id_/http%3A//www.successdoctor.com/privacy) for the most accurate reproduction.*
 
 # Privacy And Disclosure Policies | The Success Doctor
 
@@ -33,7 +33,7 @@ Users are provided with the opportunity to easily opt-out of receiving future co
 
 We do not knowingly collect personal information from children under the age of 13. If we learn at any time that we have personal information on a child under the age of 13, we will delete that information from our systems and databases.
 
-_The Success Doctor_ encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer (you can also [check out the FTC's website](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html "FTC's guidelines on kids' only privacy") for more tips on protecting children's privacy online):
+_The Success Doctor_ encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer (you can also [check out the FTC's website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm "FTC's guidelines on kids' only privacy") for more tips on protecting children's privacy online):
 
   * Teach kids never to give personal information, unless supervised by a parent or adult guardian (includes name, address, phone, school, etc).
   * Know the sites your kids are visiting and which sites are appropriate.
