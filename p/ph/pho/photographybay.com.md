@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographybay.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043645id_/http%3A//www.photographybay.com/2006/12/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographybay.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163101id_/http%3A//www.photographybay.com/2006/12/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Photography Bay | Digital Camera Reviews, News and Resources
 
