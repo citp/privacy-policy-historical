@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lexisnexis.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216063050id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexisnexis.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615042025id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,10 +9,10 @@
 <title>LexisNexis</title>
 
 
-<meta description="Please read the LexisNexis Privacy Statement; your privacy is important to us.">
+<meta name="description" content="Please read the LexisNexis Privacy Statement; your privacy is important to us.">
 
 
-<meta keywords="Lexis nexis, lexisnexis, data security">
+<meta name="keywords" content="Lexis nexis, lexisnexis, data security">
 
 
 
@@ -22,32 +22,42 @@
 
 <body>
 <form name="ctl00" method="post" action="statement.aspx" id="ctl00">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAzMTMyMDUzOA9kFgICAQ9kFgICAw9kFgICAg8WAh4EVGV4dAWHATx1bD48bGk+PGEgaHJlZj0iLyI+SG9tZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0iL3ByaXZhY3kvIj5Qcml2YWN5PC9hPjwvbGk+CjxsaT5TdGF0ZW1lbnQ8L2xpPgo8ZGl2IGNsYXNzPSJjbGVhckZsb2F0Ij4mbmJzcDs8L2Rpdj48L3VsPmRk7Hn8AzX0c9oZNe/xHQrjzaSTlT0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxOTk1MzIxD2QWAgIBD2QWAgIDD2QWAgICDxYCHgRUZXh0BYcBPHVsPjxsaT48YSBocmVmPSIvIj5Ib21lPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvcHJpdmFjeS8iPlByaXZhY3k8L2E+PC9saT4KPGxpPlN0YXRlbWVudDwvbGk+CjxkaXYgY2xhc3M9ImNsZWFyRmxvYXQiPiZuYnNwOzwvZGl2PjwvdWw+ZGQa48BBO3xjqHS3PquN6ZRyFkUD6Q==">
 
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="esnnjfeejBqS3kprk0_syJ5APYar8bQ22eNJaoiEA6o1">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK47sbjAgKV1dSxCALTlrHmCgKj76v7B3OjjMd5v5pXK8ACq+uQ7v9N7QSz">
 
 <!--Container start here-->
 	<div id="mainCtr">
 		<!--Header container start here-->
 			<!--[if IE]>  <div id="IEroot">  <![endif]-->
-<!--[if gte IE 7]>  <div id="IEroot7">  <![endif]-->
+<!--[if IE 7]>  <div id="IEroot7">  <![endif]-->
 <!--[if IE 6]>  <div id="IEroot6">  <![endif]-->
 
-		<script language="JavaScript" type="text/javascript">
-		function pressentersite2()
+<script type="text/javascript" language="javascript">
+	
+
+		function pressentersite2(e)
 		{
-    		if(window.event.keyCode == 13)
-	    	{
-		        gotosearchsite2();
-		    }
-		    else
-		    {
-		        return false;
-		    }
+		var code;
+		if (e.keyCode) code = e.keyCode;
+		else if (e.which) code = e.which;
+		
+		  //var intKey = (window.Event) ? e.which : e.keyCode;
+		//var keychar = String.fromCharCode(intKey);
+		
+	            if (code == 13) { //enter key
+				
+	                gotosearchsite2();
+	                return false;
+	            }
+	            return true;
 		}
 		function gotosearchsite2()
 		{
-		    //onclick="location.href='/search.aspx?query='+txt1.value; return false;" 
-		    window.location = "/search.aspx?query=" + window.document.forms[0].s2.value;
+		var loc="/search.aspx?query=" + window.document.forms[0].s2.value;
+				    //onclick="location.href='/search.aspx?query='+txt1.value; return false;" 
+		    window.location = loc;
 		}
 		function resetkeywordssite2()
 		{
@@ -64,7 +74,7 @@
 				<!--Country start here-->
 					<div class="countryName leftFloat">
                     <div id="country-title">
-						<h1><a href="http://www.lexisnexis.com/">United States</a></h1>
+						<span class="countryNameText"><a href="http://www.lexisnexis.com/">United States</a></span>
                     </div>
 					</div>
 				<!--Country end here-->
@@ -74,8 +84,8 @@
 							<li><a href="/worldwide.aspx"><img src="/images/world_map.gif" alt="world map" title="world map">Worldwide</a></li>
 							<li><a href="/contact-us/">Contact Us</a></li>
 							<li><div id="search-box">
-							  <input type="text" id="s2" name="s2" value="Site Search" onfocus="resetkeywordssite2();return false;" onkeydown="pressentersite2();">
-							  <input onclick="gotosearchsite2();return false;" type="button" value="Go" class="searchBtn">
+							    <input type="text" id="s2" name="s2" value="Site Search" onfocus="resetkeywordssite2();return false;" onkeydown="return pressentersite2(event)">
+<button onclick="gotosearchsite2();return false;"> Go</button>
                               </div>
                               </li>
 						</ul>
@@ -123,6 +133,11 @@
         <!--[if lte IE 6]></td></tr></table></a><![endif]-->
       </li>
       <li class="no-image"><a href="/careers/" title="Careers">Careers
+        <!--[if IE 7]><!--></a><!--<![endif]-->
+        <!--[if lte IE 6]><table><tr><td><![endif]-->
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+      </li>
+       <li class="no-image"><a href="/communities/" title="Communities">Communities
         <!--[if IE 7]><!--></a><!--<![endif]-->
         <!--[if lte IE 6]><table><tr><td><![endif]-->
         <!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -227,7 +242,7 @@ function signonredirect3() {
   <option value="http://web.lexis-nexis.com/universe/">Academic</option>
   <option value="http://www.accurint.com">Accurint</option>
   <option value="http://www3.lexis.com/analyzer">Analyzer</option>
-  <option value="http://www.nexis.com/aml">Anti-Money Laundering Solutions</option>
+  <option value="https://r3.lexis.com/amlsolutions">Anti-Money Laundering Solutions</option>
   <option value="https://atvantage.lexisnexis.com/">atVantage</option>
   <option value="http://www.lexisone.com/lfsub/lfsub?action=login">Automated Forms</option>
   <option value="http://www.nexis.com/collectionsolutions">Collection Solutions</option>
@@ -283,7 +298,7 @@ function signonredirect3() {
 </select>
 <!-- <br />
                     <button onclick="signonredirect3(); return false;">Sign On &raquo;</button>
-<input type="button"  value="Sign On Â»" onClick="return lValidator(form1)">-->
+<input type="button"  value="Sign On »" onClick="return lValidator(form1)">-->
             </div>
           </li>
         </ul>
@@ -314,10 +329,10 @@ function signonredirect3() {
         <ul>
             <li>&nbsp;</li>
 <input type="hidden" name="Emailpagectrl1$uxhfdURL" id="Emailpagectrl1_uxhfdURL" value="http://www.lexisnexis.com/privacy/statement.aspx">
-<li><a id="Emailpagectrl1_uxlbtEmailThisPage" class="linkButton" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("Emailpagectrl1$uxlbtEmailThisPage", "", false, "", "../emailthispage/emailthispage.aspx", false, true))'>Email This Page</a></li>
+<li><a id="Emailpagectrl1_uxlbtEmailThisPage" class="linkButton" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("Emailpagectrl1$uxlbtEmailThisPage", "", false, "", "../emailthispage/emailthispage.aspx", false, true))'><img src="/images/email_icon.gif" alt="email this page" title="email this page">E-mail This Page</a></li>
 
 
-<li><a href="javascript:PrintThis()"><img src="/images/print_icon.gif" alt="print page" title="print page">Print Page</a></li>
+<li><a href="javascript:PrintThis()"><img src="/images/print_icon.gif" alt="print this page" title="print this page">Print This Page</a></li>
 
 <script language="JavaScript">
 <!--
@@ -351,7 +366,7 @@ function PrintThis()
 <p>(March changes added the following Web sites to this policy: accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com)</p>
 <h2>Commitment To Privacy</h2>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on <a title="LexisNexis home page" href="/default.aspx">LexisNexis home page</a> and at every point where personally identifiable information may be requested.</p>
-<p>This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which means lexisnexis.com, lexis.com<sup>®</sup>, nexis.comSM, lexisONE.com<sup>®</sup>, martindale.comSM, lawyers.comSM, accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com. Other LNG Web sites may operate under their own privacy notices.</p>
+<p>This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which means lexisnexis.com, lexis.com<sup>®</sup>, nexis.com<sup>SM</sup>, lexisONE.com<sup>®</sup>, martindale.com<sup>SM</sup>, lawyers.com<sup>SM</sup>, accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com. Other LNG Web sites may operate under their own privacy notices.</p>
 <p>Our Web site contains links to other Web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those Web sites.</p>
 <h2>Application of This Notice</h2>
 <p>This Notice applies only to the information collected by LNG from the users of our Web site. It does not apply to information collected by LNG in any other way, including offline.</p>
@@ -385,7 +400,7 @@ function PrintThis()
 <p>If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:</p>
 <p>Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or call us at 1-800-831-2578.</p>
 <br><br><h2>Learn More&nbsp;</h2>
-<a href="/privacy/for-consumers/opt-out-of-lexisnexis.aspx">Requesting Opt-Out</a>&nbsp;<br><a href="/privacy/for-consumers/request-personal-information.aspx">Obtain Copies of Information about Yourself</a>&nbsp;<br><a href="/privacy/data-privacy-policy.aspx">Read Our Data Privacy Policy</a><p></p>
+<a href="/privacy/for-consumers/opt-out-of-lexisnexis.aspx">Requesting Opt-Out</a>&nbsp;<br><a href="/privacy/for-consumers/request-personal-information.aspx">Obtain Copies of Information about Yourself</a>&nbsp;<br><a title="Read Our Data Privacy Principles" href="/privacy/data-privacy-principles.aspx">Read Our Data Privacy Principles</a><p></p>
 
 
 
@@ -417,19 +432,24 @@ function PrintThis()
 		<li class="noBorder"><a href="/contact-us/">Contact Us</a></li>
 	</ul>
 	<div class="clearFloat">&nbsp;</div>
-	<p></p><div id="credits"><a href="/terms/copyright.aspx" title="Copyright © 2008 LexisNexis">Copyright © 2008 LexisNexis</a>, a division of Reed Elsevier Inc. All rights reserved.</div><p></p>
+	<p></p><div id="credits"><a href="/terms/copyright.aspx">Copyright © <script language="JavaScript" type="text/javascript">
+var time=new Date();
+    var year=time.getYear();
+    if (year < 2000)
+    year = year + 1900;
+    document.write(" " + year + " ");
+</script> 2020  LexisNexis</a>, a division of Reed Elsevier Inc. All rights reserved.</div><p></p>
 </div>
 <script language="JavaScript" type="text/javascript" src="/js/webtrends.js"></script>
 <noscript>
 <img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs375hcwoifwzzshyym5x58f_1i9u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2" />
 </noscript>
+
 <!--[if IE]>  </div>  <![endif]-->
 		<!--Footer end-->
 </div>
 <!--Container end-->
-
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="esnnjfeejBqS3kprk0_syJ5APYar8bQ22eNJaoiEA6o1">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKUo/v3DwKV1dSxCALTlrHmCgKj76v7B07JIVdUPYTJWmBK4IRxvofc8jyz"></form>
+</form>
 
 
 
