@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003042id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615180427id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Folksy :: Knit, sculpt, sew, mould, cut, sketch, go!
+# Welcome to Folksy :: Sew, sketch, cut, mould, carve, cast, go!
 
 ## Privacy Policy
 
@@ -26,7 +26,21 @@ Our website uses "cookies" to track use and allow customers to purchase from our
 
 We've tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please email us at get@folksy.co.uk
 
+#### Featured Seller: [treaclezoo](https://web.archive.org/users/treaclezoo)
+
+[](https://web.archive.org/shops/treaclezoo)
+
+Plushes that look good enough to eat ! Whether it's a biscuit box or an ice lolly that you need, treaclezoo has the plush for you. [[more]](https://web.archive.org/users/treaclezoo)
+
+##### Rated **positive** by **29** out of **29** people
+
+[Visit Treaclezoo.](https://web.archive.org/shops/treaclezoo)
+
 #### Your Basket
 
 You have **0 items** in your basket, totalling **£0.00**.   
 [Checkout Now →](https://web.archive.org/cart)
+
+### Recently viewed items
+
+No items viewed
