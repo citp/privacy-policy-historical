@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipsosloyalty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216074204id_/http%3A//www.ipsos-na.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsosloyalty.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615060426id_/http%3A//www.ipsos-na.com/privacy.cfm) for the most accurate reproduction.*
 
 # IPSOS-NA - Privacy Policy
 
