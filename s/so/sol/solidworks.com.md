@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225012321id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615180641id_/http%3A//www.solidworks.com/sw/privacypolicy.htm) for the most accurate reproduction.*
 
 # SolidWorks :: Privacy Policy
 
@@ -73,6 +73,10 @@ The _**Contents**_ of this statement are organized as follows:
 > DS SolidWorks stores the personal data of web site visitors and customers indefinitely and may maintain and process such information directly or indirectly in one or more databases in the United States and elsewhere. We may hire other companies to provide services on our behalf that may involve the storage and use of your personal information, such as for delivering mailings or emails. Any such company or third party is required to maintain the confidentiality of that information and is prohibited from using that information for any purpose other than as authorized by us. If you provide personal information to DS SolidWorks, you agree and consent to the storage and usage of this information anywhere that DS SolidWorks and its affiliates maintain offices (around the world), for a variety of purposes, including those described above. 
 > 
 > DS SolidWorks may also disclose such personal information if required by law or if DS SolidWorks believes in good faith that such disclosure is reasonably necessary to comply with legal process (for example, a warrant or subpoena or other court order) or protect the rights, property or personal safety of SolidWorks, our customers or the public.
+> 
+> **Web Site Analysis**
+> 
+> DS SolidWorks uses the services of a third party vendor to help us measure and analyze the effectiveness of our web pages and how visitors use SolidWorks.com. To do this, we may use web beacons and cookies provided by this third party vendor. The type of information we collect includes the pages visited and navigation patterns, which helps us learn how visitors use our site, what information is of most interest to our customers and to visitors to our web site. Although the third party vendor logs the information coming from our site on our behalf, DS SolidWorks controls how that data may and may not be used. If you do not want to assist SolidWorks in improving our web site, products, services, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by changing your communication preferences at: <http://www.omniture.com/en/privacy/policy#optout>
 > 
 > **3D ContentCentral ® and 3D PartStream.NET® services and Other Services Requiring Registration**
 > 
