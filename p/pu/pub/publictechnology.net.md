@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011243id_/http%3A//www.publictechnology.net/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615183419id_/http%3A//www.publictechnology.net/modules.php%3Fop%3Dmodload%26name%3Dlegal%26file%3Dprivacy) for the most accurate reproduction.*
 
 # e-Government & public sector IT news + job vacancies: PublicTechnology.net
 
@@ -7,9 +7,6 @@
 |   
   
 ---|---  
-  
-[](http://www.publictechnology.net/modules.php?op=modload&name=News&file=article&sid=17895)
-
 | | 
 
 **  
@@ -34,6 +31,13 @@ Where requested please therefore check the relevant box marked:
 ** Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings which you may not be aware of. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.You can click here to find out more information about this practice and to find out about your options including from the following companies that may serve advertising on our site:  
 [AffiliateShop ] [AssociatePrograms.com ] [Be Free ] [ Click Trade ] [ Commission Junction ] [ DoubleClick ] [ Linkshare ]  
 If you do not wish for us to use cookie when you use the Sites please adjust your internet browser settings to not accept cookies. Please note, this may affect your ability to use the Sites and their services.  
+
+
+  * The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google on Public Technology Ltd website pages displaying AdSense for content ads. When users visit an website containing a Google AdSense advertisement and either view or click an ad, a cookie may be dropped on that end user's browser. 
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to this and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+  * Public Technology Ltd uses third-party advertising companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, please see the additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). 
+
 **  
 5\. Children.  
 ** We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact our webmaster.  
@@ -60,4 +64,6 @@ You are entitled to be informed of the personally identifiable information PT ho
   
   
 ---|---  
-| | 
+| |   
+  
+
