@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226031240id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615222948id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
