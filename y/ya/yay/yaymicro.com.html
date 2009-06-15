@@ -1,21 +1,45 @@
-<!--The following is the downloaded HTML source of the yaymicro.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605064004id_/http%3A//yaymicro.com/view.action%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yaymicro.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615163112id_/http%3A//yaymicro.com/view.action%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
-	<link href="/xcv_1651/css/main.css" rel="stylesheet" type="text/css" media="screen,projection,tv">
+	<link rel="stylesheet" type="text/css" href="../css/selectbox.css">
+	<link href="/xcv_2572/css/main.css" rel="stylesheet" type="text/css" media="screen,projection,tv">
 	<link href="/xcv_852/css/print.css" rel="stylesheet" type="text/css" media="print">
 	<link href="/xcv_852/css/mobile.css" rel="stylesheet" type="text/css" media="handheld">
 	<!--[if IE 6]>
 	<link href="/xcv_852/css/ie.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
-	<title>YAY Micro | News</title>
 	<script type="text/javascript" src="/xcv_776/js/jquery.js"></script>
-	<script type="text/javascript" src="/xcv_1398/js/common.js"></script>
+	<script type="text/javascript" src="/xcv_2443/js/common.js"></script>
+	<script type="text/javascript" src="/xcv_1972/js/rollovers.js"></script>
+	<script type="text/javascript" src="/xcv_2030/js/jquery-select.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('#myselectbox').selectbox();
+
+	
+		var contactLink = "contact_information_press_american";
+		var priceLink = "prices_images_subscriptions_american";
+		var faqLink = "faq_images_american";
+		var photoLink = "how_to_sell_images_photos_online_american";
+		var termsLink = "terms_and_privacy_international";
+		var aboutLink = "contact_information_press_american";
+
+		$("#contactLink").attr("href", "/view.action?page=" + contactLink);
+		$("#priceLink").attr("href", "/view.action?page=" + priceLink);
+		$("#faqLink").attr("href", "/view.action?page=" + faqLink);
+		$("#photoLink").attr("href", "/view.action?page=" + photoLink);
+		$("#termsLink").attr("href", "/view.action?page=" + termsLink);
+		$("#aboutLink").attr("href", "/view.action?page=" + aboutLink);
+		
+	});
+	</script>
+	
 	<link rel="shortcut icon" href="/favicon.ico">
-</head>
+</head>	
 <body>
 <div id="wrap1">
 	<div id="wrap2">
@@ -25,62 +49,42 @@
 			<div id="topbox">
 				<div id="toplogo1"><a href="/">YAY micro</a></div>
 				<div id="topservicelinks">
-				
-				Welcome!
-				&nbsp;|&nbsp;
+				<!-- Welcome!
+				&nbsp;|&nbsp;-->
 				<a href="/login.action">Log in</a>
 				&nbsp;|&nbsp;
 				<a href="/register.action">Sign up</a>
 				&nbsp;|&nbsp;
-				<span id="shopping_cart_servicelinks">
-				<a href="/cart.action" rel="nofollow">Shopping Cart</a></span>
-				&nbsp;|&nbsp;
-				<a href="/view.action?page=prices">Buy Credits</a>
-				&nbsp;|&nbsp;
-				<a href="/view.action?page=faq">Help</a>
 				
+				<span id="shopping_cart_servicelinks">
+					<a href="/cart.action" rel="nofollow" onmouseover="hover(true)" onmouseout="hover(false)">Shopping Cart<img src="../images/cart-empty.gif" style="vertical-align:middle; margin: -5px 0px 0px 6px"></a>
+	</span>
+			
 				</div>
-				<div class="cl"></div>
 			</div><!-- topbox1 -->
 		</div><!-- cbox -->
 
-		<div id="tabbox">
-			<div class="cbox">
-				<div id="toplogo2">&nbsp;</div>
-				
-				<div class="tab" id="tab_search">
-					<b><a href="/search.action">Browse</a></b></div>
-				<div class="tab_selected" id="tab_news">
-					<b><a href="/view.action">News</a></b></div>
-				<div class="tab" id="tab_forum"><b>
-				<a href="http://forum.yaymicro.com">Forum</a></b></div>
-				<div class="tab" id="tab_blog"><b>
-				<a href="http://blog.yaymicro.com">Blog</a></b></div>
-				<div class="tab" id="tab_myaccount">
-					<b><a href="/profile.action">My Account</a></b></div>
-				
-				<div class="cl"></div>
-			</div><!-- cbox -->
-		</div><!-- tabbox -->
-		
 		<div class="topgradient">
-		
-			<form action="/search.action" method="get"><div id="secondarynavbox">
-					<div class="cbox">
-						
-						<div id="secondarynav">
-							</div><!-- secondarynav -->
-						<div id="searchbox">
-							
-								<input id="searchbox" name="search.search" value="" class="txt" type="text"><input type="hidden" name="search.first" value="true">
-								<input type="image" src="images/b_search.gif" id="searchbutton" alt="Search" width="35" height="20">
-								</div><!-- searchbox -->
-						<div class="cl"></div>
-						 
-					</div><!-- cbox -->
-				</div><!-- secondarynavbox -->
+			<form action="/search.action" method="get" onsubmit="return validateForm(true);"><div id="secondarynavbox">
+		<div class="cbox">
+			<div id="secondarynav">
+				&nbsp;
+			</div><!-- secondarynav -->
+			
+			<div id="searchbox" style="float: right;">
+					<input id="searchboxInput" name="search.search" value="" class="txt" type="text"><input type="hidden" name="search.first" value="true">
+					<input type="image" src="images/b_search.gif" id="searchbutton" alt="Search" width="35" height="20">
+					
+					</div>
 				
-				<div style="display: none;"><input type="hidden" name="_sourcePage" value="PKha-FfwFdb7dIEP1rK4vfxx0nI0ML7PZp9S8TFXdrc="><input type="hidden" name="__fp" value="UT_xQ_vOaqw="></div></form><div class="cbox ">
+				<div style="float: right;">
+					<input id="myselectbox_input" type="text" class="selectbox" autocomplete="off" readonly=""><div id="myselectbox_container" class="selectbox-wrapper" style="display: none; width: 169px;"><ul><li id="myselectbox_input_English" class="selected">English</li><li id="myselectbox_input_中文">中文</li><li id="myselectbox_input_Dansk">Dansk</li><li id="myselectbox_input_Deutsch">Deutsch</li><li id="myselectbox_input_Español">Español</li><li id="myselectbox_input_Français">Français</li><li id="myselectbox_input_日本語">日本語</li><li id="myselectbox_input_Norsk">Norsk</li><li id="myselectbox_input_Svenska">Svenska</li></ul></div><select id="myselectbox" style="display: none;" name="search.searchLanguage"><option selected="selected" value="English">English</option><option value="中文">中文</option><option value="Dansk">Dansk</option><option value="Deutsch">Deutsch</option><option value="Español">Español</option><option value="Français">Français</option><option value="日本語">日本語</option><option value="Norsk">Norsk</option><option value="Svenska">Svenska</option></select></div>
+				
+			</div><!-- cbox -->
+	</div><!-- secondarynavbox -->
+	
+	<div>&nbsp;</div>
+	<div style="display: none;"><input type="hidden" name="_sourcePage" value="yDe_f3FmKj83_MaKTLRqeVsfsjGhBmfRxFN4HhozlSc="><input type="hidden" name="__fp" value="ipiaeJzfoMVxpjZl51tf-IDg5iWBR4eW_w5xfc__lGY="></div></form><div class="cbox ">
 				<div class="last widecolumn">
 
 	<h3>Privacy Policy</h3>
@@ -120,27 +124,25 @@
 </div><!-- wrap1 -->
 
 <div id="footer">
-<div id="copyright">Copyright (C) 2008 YAY Media. All Rights Reserved.</div>
+<div id="copyright"><img src="/images/payment_logos_small.png"></div>
 
-<a href="/view.action?page=about">About us</a>
+<a id="contactLink" href="/view.action?page=contact_information_press_american">Contact</a>
 |
-<a href="/view.action?page=faq">FAQ</a>
+<a id="priceLink" href="/view.action?page=prices_images_subscriptions_american">Prices</a> 
 |
-<a href="/view.action?page=terms">Terms</a>
+<a id="faqLink" href="/view.action?page=faq_images_american">FAQ / Help</a>
 |
-<a href="/view.action?page=privacy">Privacy</a>
+<a id="photoLink" href="/view.action?page=how_to_sell_images_photos_online_american">Photographer</a>
 |
-<a href="/view.action?page=press">Press</a>
+<a id="termsLink" href="/view.action?page=terms_and_privacy_international">Terms</a>
+| 
+<a href="http://blog.yaymicro.com">Blog</a>
 |
-<a href="/view.action?page=contribute">Contribute</a>
+<a href="http://forum.yaymicro.com">Forum</a>
 |
-<a href="/view.action?page=customer">Customer guide</a>
-|
-<a href="/view.action?page=contact">Contact us</a>
-|
-<a href="/view.action?page=prices">Prices</a>
-
-</div>
+<a id="aboutLink" href="/view.action?page=contact_information_press_american">About YAY</a>
+| ©2009
+</div>	
 <script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
