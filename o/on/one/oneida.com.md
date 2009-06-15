@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041417id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneida.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164628id_/http%3A//www.oneida.com/index.cfm/fuseaction/content.page/nodeID/0b64fe42-c403-4a70-a6ea-293c3dfd7ead) for the most accurate reproduction.*
 
 # Oneida Customer Service Privacy Policy
 
@@ -29,8 +29,9 @@ This information is analyzed in aggregate to determine consumer trends and to ob
 ** This form requires basic personally identifying information, which enables us to contact you about your Patterns for a Lifetime pattern. 
 
 **How we use information we collect:**  
-For the most part information that is collected from Oneida.com, whether anonymous or identifiable, is used solely by Oneida to enhance our product selection, pricing and overall web experience. We do not share, sell or rent any information collected from Oneida.com to any third party with the exception of Patterns for a Lifetime enrollment information. There are two opt-in check boxes in the Patterns for a Lifetime form which you may mark to receive additional offers from Oneida   
-and/or our marketing partners.
+If you supply us with your postal address, you may receive catalog mailings from Oneida, Ltd. regarding new products and services. If you do not wish to receive these mailings, please let us know by clicking here to complete the "[ **Do Not Mail**](https://web.archive.org/index.cfm/fuseaction/dynamicForm.respond/formID/c4be14a0-273f-4810-b5c0-6096c12f8deb)" form or by calling us at 888-263-7195
+
+Occasionally, we may establish a relationship with certain companies that perform consumer networking functions on our behalf. This would enable these reputable companies to communicate with you for promotional purposes that may be of interest to you and your needs. These companies have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using this data for other purposes, and in any way other than to provide the requested services to Oneida, and may not alter or resell the data.
 
 **Checkout** :  
 Although our checkout procedure requires you to provide an email address in order to process your order, you may opt out of receiving future emails from Oneida by un-marking the opt-in box located below the email address section during checkout. 
