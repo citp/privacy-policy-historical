@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feelgr8.co.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224050306id_/http%3A//www.feelgr8.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelgr8.co.uk privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615084526id_/http%3A//www.feelgr8.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Feelgr8.co.uk | Free article submission to our article database of over 25,000 articles!
+# Feelgr8.co.uk | Free article submission to our article database of over 32,800 articles!
 
 Feelgr8.co.uk is brought to you by Spruzz Ltd.
 
