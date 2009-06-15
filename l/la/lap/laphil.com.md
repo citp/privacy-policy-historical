@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laphil.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219150556id_/http%3A//www.laphil.com/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laphil.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162616id_/http%3A//www.laphil.com/about/privacy_policy.cfm) for the most accurate reproduction.*
 
-# LA Phil Presents | Privacy Policy
+# Privacy Policy | LA Phil
 
 THE LOS ANGELES PHILHARMONIC ASSOCIATION (the "ASSOCIATION") knows that you care how personal information you provide to us is used and shared. The ASSOCIATION adopted this Privacy Policy to inform users of how the Association's websites collect, store, and use personal information submitted via the sites owned and operated by the ASSOCIATION. By interacting with the ASSOCIATION websites, you agree to and accept the practices described in this privacy notice.
 
