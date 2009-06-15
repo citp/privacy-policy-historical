@@ -1,8 +1,36 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910052811id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php) for the most accurate reproduction.*
 
-# Sitemap - The Museum of Broadcast Communications
+# - The Museum of Broadcast Communications
 
+|  |   
+---  
   
+[About Us](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=60)  
+  
+[Hours of Operation](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=500)  
+  
+[The New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=3)  
+  
+[Images](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=491)  
+  
+[Green Design](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=11)  
+  
+[Support The New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=15)  
+  
+[Tour the New MBC](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=451)  
+  
+[The Team](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=12)  
+  
+[Contact Us](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=104)  
+  
+[Historic Photo Gallery](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/privacy.php?page=462)  
+  
+[](http://www.tvondvdshop.com/stores/mbc/)
+
+[](https://web.archive.org/web/20090615204635id_/http%3A//www.museum.tv/exhibitionssection.php?page=481)
+
+Privacy Policy
+
 Your privacy is very important to The Museum of Broadcast Communications (MBC), and we are committed to respecting your privacy on museum.tv. We have put this policy together to provide you with information that addresses your privacy concerns, such as how we gather and use the information that we collect from the visitors to our website. We will provide you with appropriate notice regarding any changes to this policy. Questions regarding this policy should be directed to the MBC by sending an [e-mail](mailto:info@museum.tv) and writing "Privacy Policy" in the subject line. 
 
 **The Information We Collect and How We Collect It**  
@@ -37,3 +65,24 @@ You can review and modify (or remove) the personally identifiable information yo
 
 **How You Can Opt Out**  
 Your registration in an area of interest on our website will constitute your consent to receive notices and other communications from the MBC. In the event you no longer wish to receive notices or other communications from the MBC, you may opt-out by replying to "unsubscribe" in the subject line in any e-mail correspondence we send you or by [emailing](mailto:info@museum.tv) us. 
+
+|  | Help build the new MBC  
+---  
+  
+Join our efforts to build a new world-class museum in Chicago.  
+ **[Click here to donate now.](http://www.tvondvdshop.com/rel/v2_home.php?storenr=193&deptnr=1101)**  
+  
+Search our Archives  
+  
+More than 7,000 digitized TV and radio programs are available once again for public viewing in the MBC archives.  
+ **[Search the archives!](http://archives.museum.tv/)**  
+  
+Buy DVDs in our store  
+  
+Starting or adding to your TV on DVD collection is the best way to enjoy your favorite shows. Choose from over 5,000 TV on DVD series, seasons, episodes and soundtracks.  
+ **[Visit the MBC store now!](http://www.tvondvdshop.com/stores/mbc/)**  
+  
+Encyclopedia of TV  
+  
+Own the most extensive look at the history of television. Relive great moments and learn about the people and shows that made television what is today.  
+ **[Purchase the 2nd edition now!](http://www.tvondvdshop.com/rel/v2_viewupc.php?storenr=193&upc=MBC00019)**
