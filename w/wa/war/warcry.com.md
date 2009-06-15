@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154513id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615205101id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
 
 # Themis Media : Privacy Policy
 
