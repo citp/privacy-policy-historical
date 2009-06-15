@@ -1,19 +1,27 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612061157id_/http%3A//bluetooth.com/Bluetooth/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615052231id_/http%3A//www.bluetooth.com/Bluetooth/Privacy.html) for the most accurate reproduction.*
 
 # Bluetooth.com | Privacy
 
-Bluetooth SIG, Inc. is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us contact information, we will treat it according to this policy.
+## **Privacy Policy**
 
-This policy covers the Bluetooth SIG, Inc. ([www.bluetooth.com](http://www.bluetooth.com/)) web site.
+**Bluetooth SIG** is committed to user privacy in our products and services. This policy outlines our personal information-handling practices. Any contact information provided to us will be handled in accordance with this policy.
 
-Bluetooth SIG, Inc. encourages you to read this privacy policy and those of all web sites you visit. 
+This policy covers the **Bluetooth SIG** individual website.
 
-**Linked Web Sites**  
-We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
+**Bluetooth SIG** encourages you to read this privacy policy and those of all websites you visit. 
 
- **Cookies**  
-The Bluetooth SIG, Inc. Web site may use cookies. Cookies help us provide a better user experience by measuring which Web site areas are of greatest interest. Bluetooth SIG, Inc. also uses cookies when you register for one of our Web programs. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Bluetooth SIG, Inc. can only read cookies from the member web site.
+**Use of Personal Information**
 
-If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled.
+**Bluetooth SIG** continually strives to protect the information you share with us. Access to personal member information is limited to specific individuals, employees, and agents of **Bluetooth SIG.**   **Bluetooth SIG** will not sell or rent your personal information to third parties.  **Bluetooth SIG** may disclose personal information to third parties to complete a transaction you have requested, as part of the terms and conditions for a particular service, or when we otherwise have your consent to do so. 
 
-We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
+**Linked Websites**
+
+**Bluetooth SIG** provides links to third party sites. Since **Bluetooth SIG** does not control these websites, we encourage you to review the privacy policies posted on these (and all) third party sites.
+
+**Cookies**
+
+The **Bluetooth SIG** website uses cookies. Cookies help provide a better user experience by measuring which website areas are of greatest interest. **Bluetooth SIG** also uses cookies when an individual registers for a web application. In this situation, a cookie stores useful information that enables the website to remember that individual user. **Bluetooth SIG** can only access cookies from the websites it controls.
+
+If you choose to disable cookies in your browser, you can still access most of our websites. Please be aware, however, that some websites will not allow you to complete certain activities if cookies are disabled.
+
+The **Bluetooth SIG** website may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from website visitors. Advertisers use this information to target the ads and measure their impact. ****
