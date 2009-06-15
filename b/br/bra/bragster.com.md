@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the bragster.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065605id_/http%3A//www.bragster.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragster.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616012223id_/http%3A//www.bragster.com/main/privacy) for the most accurate reproduction.*
 
 # bragster - Dare your friends and brag about it. Victory is sweet
 
-Latest update: 12th February, 2008
+Latest update: 17th February, 2009
 
 ### We take your privacy very seriously!
 
-Welcome to bragster.com, the destination for friends to create fun bets. It is a fun place where you can create or participate in not-too-serious challenges with your friends (or the general public), meet new people and brag a little bit (' **Bragster Service** '). The Bragster Service is operated by Wannabet Ltd. (‘ **WAB** ’). WAB aims to offer its member community an automated and self-regulating platform (‘ **Platform** ’) that allows members to interact with each other by replicating small bets, dares, guesses and challenges (‘ **Bets** ’) that they would do in real life, with the convenience of the internet and/or mobile technology. The stakes in these Bets can be the bragster.com currency which is equivalent to points (' **BragBucks** '), or a prize of your choosing (' **Prize** '). 
+Welcome to bragster.com, the destination to dare your friends and brag about your achievements. It is a fun place where you can create or participate in not-too-serious challenges with your friends (or the general public), meet new people and brag a little bit (' **Bragster Service** '). The Bragster Service is operated by Wannabet Ltd. (‘ **WAB** ’). WAB aims to offer its member community an automated and self-regulating platform (‘ **Platform** ’) that allows members to interact by daring each other (‘ **Dares** ’) or uploading videos or pictures (‘ **Brags** ’) with the convenience of the internet and/or mobile technology. 
 
 Your privacy matters to us and we wanted to reassure you that we will do the right thing with any Personal Information you share with us. This Privacy Policy is part of our [T&Cs](https://web.archive.org/main/terms), and is intended to give you relevant information while writing it in plain English rather some sort of “arggh, all this legalese stuff again”. 
 
 The _key points_ are:
 
   * We treat your privacy very seriously, and want to foster a transparent environment throughout the website so that you know who you are playing with (including their personal ratings). 
-  * You can cancel your membership at any time (as long as you are not committed to any Bets at that time).
+  * You can cancel your membership at any time.
   * We will never disclose your Personal Information to any third party for marketing or other purposes unless we receive your permission.
-  * We hate spam, so you have the option to select which messages you like to receive (eg: you could easily decide to only receive the emails that are critical for the good proceeding of your Bets).
+  * We hate spam, so you have the option to select which messages you like to receive (eg: you could easily decide to only receive the emails that are critical for the good proceeding of your Dares).
   * We are partnering with reputable hosting providers to keep your details secure.
 
 
@@ -26,15 +26,15 @@ From time to time we may update this Privacy Policy and will post a notice of an
 
 ### INFORMATION COLLECTED BY WANNABET LTD
 
-We collect different types of information that we use in different ways, as explained below. Throughout our Privacy Policy we will use the term ' **Personal Information** '. This is information about you that identifies you as an individual. For example, when you register for the Bragster Service, you submit information such as your name, email address, country of residence, gender and age. As part of your personal profile, you may also choose to submit additional information such as interests, photos, personal blog or website addresses, etc. You may also submit Personal Information when you use the Bragster Service (e.g. by participating in Bets or communicating with other Members), if you make an enquiry or complaint to us, or in other ways. 
+We collect different types of information that we use in different ways, as explained below. Throughout our Privacy Policy we will use the term ' **Personal Information** '. This is information about you that identifies you as an individual. For example, when you register for the Bragster Service, you submit information such as your name, email address, country of residence, gender and age. As part of your personal profile, you may also choose to submit additional information such as interests, photos, personal blog or website addresses, etc. You may also submit Personal Information when you use the Bragster Service (e.g. by daring or communicating with other Members), if you make an enquiry or complaint to us, or in other ways. 
 
-We also collect **Anonymous Information** without connecting it to any name, address or other Personal Information. This data provides us with Anonymous Information about how people use our site and demographic information about our users, but does not identify you. For example, Anonymous Information may tell us how many people have participated in a particular (type of) Bet.
+We also collect **Anonymous Information** without connecting it to any name, address or other Personal Information. This data provides us with Anonymous Information about how people use our site and demographic information about our users, but does not identify you. For example, Anonymous Information may tell us how many people have participated in a particular Dare.
 
 ### USE OF INFORMATION
 
-We will display your Personal Information on your public profile, according to the preferences you set in your Account. We will use your name so that we can personalise your experience. We will use your email address to contact you from time to time. You can control the types and, over time, the frequencies of certain emails you receive. We may also use your Personal Information to process any applications for membership, Bets you make, for security reasons to confirm that you are who you say you are, to confirm and investigate any transactions in respect of your use of the Bragster Service, to provide the Bragster Service to you, to process and deal with any queries or complaints you make, to monitor and investigate any suspected breach of our T&Cs or any laws and, where you have given your consent, to send you offers or promotions from WAB or carefully selected third parties. 
+We will display your Personal Information on your public profile, according to the preferences you set in your Account. We will use your name so that we can personalize your experience. We will use your email address to contact you from time to time. You can control the types and, over time, the frequencies of certain emails you receive. We may also use your Personal Information to process any applications for membership, Dares you create, for security reasons to confirm that you are who you say you are, to confirm and investigate any transactions in respect of your use of the Bragster Service, to provide the Bragster Service to you, to process and deal with any queries or complaints you make, to monitor and investigate any suspected breach of our T&Cs or any laws and, where you have given your consent, to send you offers or promotions from WAB or carefully selected third parties. 
 
-You must also be aware that visitors and other members can see which Bets you are involved in. If you wish to create a Bet that is not visible to the public other than those members that are invited to the Bet, you can select this option in the Bet Creation Process. **Please note that you cannot hide your participation from the public if the person who created the Bet has not selected this private option.**
+You must also be aware that visitors and other members can see which Dares you are involved in. If you wish to upload a Brag that is not visible to the public other than your friends, you can select this option in the Brag upload process.
 
 We may use the Anonymous Information to statistically analyze site usage and to customize our site's content, layout and services, or for marketing purposes. The resulting information will allow us to improve our site and better understand and serve our users.
 
@@ -42,7 +42,7 @@ We may disclose your Personal Information to our employees, agents, partners and
 
 ### REVIEWING AND CHANGING YOUR PROFILE
 
-You can review and revise your personal public profile, and decide not to disclose certain facts to the public. Also, you can choose not to disclose your real name or age to the public. You can however not hide from the public your trust rating or comments that have been posted about you by people who participated in bets you created or for which you acted as referee as those are a crucial parameter for other members to interact with you. If you decide to cancel your membership altogether, we will remove your profile and it will not be visible to others anymore. The bets in which you got involved or comments you posted however will remain visible as they are an integral part of those events. Your picture will be removed from those.
+You can review and revise your personal public profile, and decide not to disclose certain facts to the public. Also, you can choose not to disclose your real name or age to the public. You can however not hide from the public your trust rating or comments that have been posted about you by people who participated in Dares you created. If you decide to cancel your membership altogether, we will remove your profile and it will not be visible to others anymore. The Dares in which you got involved or comments you posted however will remain visible as they are an integral part of those events. Your picture will be removed from those.
 
 ### INTERNET AWARENESS
 
@@ -78,10 +78,4 @@ This Privacy Policy statement is effective as of 13th December 2006.
 
 ### CONTACT
 
-If you have any questions about this Privacy Policy, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/contact_us) page, or by writing to:
-
-Customer Support  
-Wannabet Ltd.  
-4 Elder Street  
-E1 6BT  
-London, UK 
+If you have any questions about this Privacy Policy, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/contact) page. 
