@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616055454id_/http%3A//www.propertyguru.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615230933id_/http%3A//www.propertyguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - PropertyGuru.com.sg - Singapore's Property Expert
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
@@ -34,7 +34,7 @@ We may use your personal information to:
 (c) enable your use of the services available on the website  
 (d) send you general (non-marketing) commercial communications  
 (e) send you email notifications which you have specifically requested  
-(f) provide third parties with statistical information about our users - but this information will not be used to identify any individual user  
+(f) provide third parties with statistical information about our users \- but this information will not be used to identify any individual user  
 (g) deal with enquiries and complaints made by or about you relating to the website 
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
