@@ -1,49 +1,44 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040455id_/http%3A//www.humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615020221id_/http%3A//www.humana.com/about/privacy/internet_privacy_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Statement | Humana
 
-| 
+At Humana, we're very aware of the privacy concerns of our members, customers, and others who visit this Website. We do not sell, license, or transmit your personal information outside of Humana Inc. for any reason, unless you authorize us to do so.
 
-|  |  At Humana, we're very aware of the privacy concerns of our members, customers, and others who visit this Website. We do not sell, license, or transmit your personal information outside of Humana Inc. for any reason, unless you authorize us to do so.  
----|---  
-  
 ## Internet Privacy Details
 
 Relationships are built on trust. One of the most important elements of trust is respect for an individual's privacy. Humana values our relationship with you, and we take your personal privacy seriously.
 
 ### TRUSTe
 
-Humana Inc. is a licensee of the TRUSTe Privacy Program. This Internet privacy statement applies only to information on Humana.com. 
+Humana Inc. is a licensee of the TRUSTe Privacy Program. This Internet privacy statement applies only to information on Humana.com.
 
-[](http://www.truste.org/consumers/watchdog_complaint.php)
+[](http://www.truste.org/consumers/watchdog_complaint.php "TRUSTe")
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Humana wants to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this Website has agreed to notify you of:
 
-1\. What personally identifiable information of yours or third-party personal identification is collected from you through the Website
+  1. What personally identifiable information of yours or third-party personal identification is collected from you through the Website
+  2. The organization collecting the information
+  3. How the information is used
+  4. With whom the information may be shared
+  5. What choices are available to you for collection, use, and distribution of the information
+  6. The kind of security procedures in place to protect the loss, misuse, or alteration of information under Humana Inc. control
+  7. How you can correct any inaccuracies in the information
 
-2\. The organization collecting the information
 
-3\. How the information is used
-
-4\. With whom the information may be shared
-
-5\. What choices are available to you for collection, use, and distribution of the information
-
-6\. The kind of security procedures in place to protect the loss, misuse, or alteration of information under Humana Inc. control
-
-7\. How you can correct any inaccuracies in the information
 
 If you have questions or concerns about this Internet Privacy Statement, you should first contact the Humana Privacy Office:
 
 **Mailing Address**  
 Humana Privacy Office  
 PO Box 1438  
-Louisville, KY 40202
+Louisville, KY 40202  
+
 
 **E-mail Address**  
-[privacyoffice@humana.com](mailto:privacyoffice@humana.com)
+[privacyoffice@humana.com](mailto:privacyoffice@humana.com "privacyoffice@humana.com")
 
-If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then contact [TRUSTe.](http://www.truste.org/consumers/watchdog_complaint.php)  
+If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then contact [TRUSTe.](http://www.truste.org/consumers/watchdog_complaint.php "TRUSTe.")
+
 TRUSTe will then serve as a liaison with the Website to resolve your concerns.
 
 ### Commitment to Confidentiality
@@ -82,9 +77,8 @@ Information that you share with us is kept strictly confidential and fully secur
 
 If you send questions, comments, and a job inquiry to an e-mail address on this Website, we will share your correspondence with a Customer Care representative or the associate most capable of addressing your questions and concerns. We will retain your communication until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it. We will not keep your e-mail address for secondary purposes.
 
-All information and correspondence you share with us will be handled in the strictest confidence. 
+All information and correspondence you share with us will be handled in the strictest confidence.
 
-  
 Please note that the e-mail addresses on the unsecured areas of our Website – meaning areas that don't require a password – do not provide the same level of security as secured e-mail. For that reason, please do not use unsecured e-mail to communicate information to us that you consider to be confidential. Secured messaging is available in the password-protected areas of our Website, including _My_ Humana. Once you log in, you can use this feature to communicate confidential or private information to us.
 
 ### Internet Privacy Statement Changes
