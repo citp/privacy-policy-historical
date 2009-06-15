@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040021id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615024240id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
 
 # About Us - Information - Privacy Policy - Digital Spy
 
@@ -18,4 +18,8 @@ You may notify Digital Spy of any updates, amendments and corrections to previou
 
 Digital Spy reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
-Our web site uses third party advert servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+ **DoubleClick Opt-out**  
+Our web site uses third party advert servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).
+
+ **NAI Opt-out**  
+To opt-out of a Network Advertising Initiative member's behavioural advertising programme, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
