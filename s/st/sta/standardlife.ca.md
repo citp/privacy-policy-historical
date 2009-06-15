@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040733id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615221309id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
 
 # Standard Life Canada
 
@@ -93,7 +93,7 @@ You also have the right to request the correction of inaccurate, incomplete or o
 Any request to access or correct information held in our records should be made in writing to:   
 
 
-> Manager, Customer Relations and Ombudsman   
+> Ombudsman and Privacy Officer  
 >  1245 Sherbrooke Street West   
 >  Montréal, Québec H3G 1G3
 
@@ -102,7 +102,7 @@ If you are not satisfied as to how we have handled your personal information…
 You may register a Privacy related complaint by contacting  
 
 
-> Manager, Customer Relations and Ombudsman   
+> Ombudsman and Privacy Officer  
 >  1245 Sherbrooke Street West   
 >  Montréal, Québec H3G 1G3
 
