@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231053432id_/http%3A//www.html.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.net privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615172248id_/http%3A//www.html.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy statement | HTML.net
 
