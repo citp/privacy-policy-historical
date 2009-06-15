@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219035806id_/http%3A//www.worldsciencefestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615083927id_/http%3A//www.worldsciencefestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — World Science Festival
+# Privacy Policy | World Science Festival
 
-## PRIVACY POLICY
+## **PRIVACY POLICY**
 
 The World Science Festival (“WSF”) is owned and organized by the Science Festival Foundation, a 501(c)(3) non-profit organization. For the purposes of this privacy policy, the term "WSF" shall refer to both the Science Festival Foundation and the World Science Festival.
 
@@ -12,11 +12,11 @@ By their nature, electronic communication protocols require our servers and your
 
 We do not systematically collect names, addresses, phone numbers, e-mail addresses or other personally identifying information (“Personal Information”) of Site users, unless you voluntarily send it to us by subscribing to our newsletter, requesting additional information about our WSF programs or signing up to comment on our blog.
 
-When you sign up to be on the WSF email or mailing list or otherwise voluntarily provide us with Personal Information in order to receive information about WSF, the Personal Information you provide is passed on to Vertical Response, which serves as the email service provider for WSF.  The information stored at Vertical Response is governed by the [privacy policy](http://www.verticalresponse.com/about/privacy_tos.html) of Vertical Response.
+When you sign up to be on the WSF email or mailing list or otherwise voluntarily provide us with Personal Information in order to receive information about WSF, the Personal Information you provide is passed on to Vertical Response, which serves as the email service provider for WSF.  The information stored at Vertical Response is governed by the [privacy policy of Vertical Response](http://www.verticalresponse.com/about/privacy_tos.html).
 
 WSF may sell tickets on our Site through third party ticketing agents. When you purchase tickets via the Site, WSF and its third party ticketing agent will request information necessary to process your ticket purchase, which will include Personal Information. In order to complete the purchase, you will be transferred to the ticketing agent’s website and you will be governed by their own independent Privacy Policy.
 
-WSF also collects donations via the Site through a third party non-proft, _Network for Good._ When you make an online donation to WSF, you will be directed to the _Network for Good_ website and you will be asked to provide Personal Information to complete the transaction. At this point, you will be governed by _Network for Good_ ’s [privacy policies](http://support.networkforgood.org/Default.asp?c=11).
+WSF also collects donations via the Site through a third party non-proft, _Network for Good._ When you make an online donation to WSF, you will be directed to the _Network for Good_ website and you will be asked to provide Personal Information to complete the transaction. At this point, you will be governed by [_Network for Good_ ’s privacy policies](http://support.networkforgood.org/Default.asp?c=11).
 
 WSF may have access to any Personal Information you provide to our third party vendors as described above. Our third party vendors will never share your credit card information with us. We do not sell, rent or otherwise distribute the Personal Information we do collect, but we might share it with trusted organizations we work with in producing the Festival. For example, if we hire a third party to market the Festival, we might share our email list with them. Under all circumstances, however, these third parties would be required to maintain the confidentiality and security of any Personal Information provided to them in the course of their performing services for WSF.
 
@@ -33,5 +33,3 @@ If you have any concerns or questions about how information gathered on our webs
 This Privacy Policy may be modified without notice from time to time. The effective date of each version will be noted at the bottom of this page.
 
 **EFFECTIVE DATE:** October 29, 2008
-
- 
