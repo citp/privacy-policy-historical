@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217183042id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615061718id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # ELF Cosmetics UK - Eyes Lips Face
 
@@ -51,4 +51,4 @@ You have the right under the Data Protection Act 1998 to request a copy of the p
 If you have any questions, comments or requests regarding this privacy policy, please feel free to Contact Us.
 
 **UPDATES**  
-We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in November 2007.
+We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email. This privacy policy was last updated in January 2009.
