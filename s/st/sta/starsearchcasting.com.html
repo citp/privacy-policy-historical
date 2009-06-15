@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the starsearchcasting.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217032711id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starsearchcasting.com privacy policy that was archived on 2009-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615042638id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<title>Disney Auditions, American Idol Auditions, Acting Casting Calls, Model Casting Calls</title>
-<meta name="description" content="We scour the Web &amp; bring you the best Casting Calls &amp; Auditions that have been posted by countless Casting Casting Directors all over the world!">
+<title>Casting Call | Shows, Series &amp; Video Casting Submissions</title>
+<meta name="description" content="Open Casting Calls for Casting Calls Auditions, Disney, Acting &amp; Open Calls for models. Search Thousands of Open Casting Calls &amp; submit yourself! TV Casting Calls &amp; Commercial Auditions.">
 <meta name="keywords" content="StarSearchCasting.com, Disney auditions, Disney casting calls, child acting, child modeling, baby modeling, Hannah Montana auditions, teen auditions, teen casting calls, acting auditions, modeling auditions, tv auditions, acting casting calls, modeling casting, calls, tv casting calls, commercial auditions, commercial casting calls, baby modeling auditions, baby casting calls, child auditions, child casting calls, movie casting calls, movie auditions, modeling jobs, acting jobs">
 
 <meta name="msnbot" content="StarSearchCasting.com is the premier social networking site for the Entertainment Business. SSC offers a talent database, used by Casting Directors &amp; Agents">
@@ -28,22 +28,20 @@
 <link rel="alternate" type="application/rss+xml" title="SSC New Members" href="http://starsearchcasting.com/members.latest.rss.php">
 <link rel="alternate" type="application/rss+xml" title="SSC Members Online Now" href="http://starsearchcasting.com/members.online.rss.php">
 <link rel="alternate" type="application/rss+xml" title="Random Actors, Models, Talent, &amp; Entertainers on SSC" href="http://starsearchcasting.com/members.random.rss.php">
-<link rel="alternate" type="application/rss+xml" title="SSC Sitemaps" href="http://starsearchcasting.com/ssc-sitemap_index.xml">
-<link rel="stylesheet" href="http://starsearchcasting.com/styles.php?styles_tpl=styles" type="text/css">
 
-<script type="text/javascript" src="http://starsearchcasting.com/includes/jquery.js"></script>
-<script type="text/javascript" src="http://starsearchcasting.com/jscripts/jCache.js"></script>
-<script type="text/javascript" src="http://starsearchcasting.com/includes/JsHttpRequest/Js.js"></script>
-<script type="text/javascript" src="http://starsearchcasting.com/includes/bookmarks.js"></script>
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="SSC Sitemaps" href="http://starsearchcasting.com/ssc-sitemap_index.xml">
+<link rel="stylesheet" href="http://starsearchcasting.com/min/g=css" type="text/css">
+
+<script type="text/javascript" src="http://starsearchcasting.com/min/g=js"></script>
 <script type="text/javascript">
 $.jCache.maxSize=20
 window.i=0
-var timer1
-
-function miniprofile_fade_out()
-{
-	$('#miniprofile').fadeOut("slow")
-}
 
 function miniprofile_show_data(data)
 {
@@ -53,22 +51,10 @@ function miniprofile_show_data(data)
 	$('#miniprofile_loading').hide("slow")
 	$('#miniprofile_data').show("slow", function () {
 
-		$('#miniprofile').bind("mouseout",
+		$('#miniprofile').bind("mouseleave",
 		function ()
 		{
-			//i++
-			//$('#miniprofile').fadeOut("slow")
-			timer1=setTimeout("miniprofile_fade_out()", 3000)
-			//console.log("out " + i)
-		}
-		);
-
-		$('#miniprofile').bind("mouseover",
-		function ()
-		{
-			//i++
-			clearTimeout(timer1)
-			//console.log("over " + i)
+			$('#miniprofile').fadeOut("slow")
 		}
 		);
 
@@ -111,7 +97,7 @@ function miniprofile_show(talentID, snap_to)
 		$('#miniprofile_data').hide()
 		$('#miniprofile_loading').show()
 	}
-	flush_left('miniprofile', snap_to, 0, 0)
+	flush_left('miniprofile', snap_to, 10, 10)
 
 	var m_left=parseInt($('#miniprofile').css('left'))
 	var m_width=parseInt($('#miniprofile').width())
@@ -136,6 +122,12 @@ function miniprofile_show(talentID, snap_to)
 
 
 <script type="text/javascript">
+var players = new Array()
+function playerReady(thePlayer)
+{
+	players[thePlayer.id.substring(6)] = window.document[thePlayer.id];
+}
+
 var fm_reloaded=0;
 var star_reloaded=0;
 var storage_fmpic, storage_starpic
@@ -159,7 +151,7 @@ function ReloadFM()
 			window.storage_fmname=json.fname
 		},
 		type: 'GET',
-		url: "http://starsearchcasting.com/ajax.fm.php"
+		url: "/ajax.fm.php"
 	}
 	)
 
@@ -188,7 +180,7 @@ function ReloadStar()
 			window.storage_starname=json.fname
 		},
 		type: 'GET',
-		url: "http://starsearchcasting.com/ajax.star.php"
+		url: "/ajax.star.php"
 	}
 	)
 
@@ -235,25 +227,25 @@ $(function ()
 	cross_scroller=$('#iescroller_stories')
 	if (cross_scroller.length>0)
 	{
-		actualheight=200
+		actualheight=cross_scroller.height()
 	}	
 
 	cross_scroller2=$('#iescroller_news')
 	if (cross_scroller.length>0)
 	{
-		actualheight2=200
+		actualheight2=cross_scroller2.height()
 	}	
 	
 	cross_scroller5=$('#iescroller_benefits')
 	if (cross_scroller5.length>0)
 	{
-		actualheight5=200
+		actualheight5=cross_scroller5.height()
 	}
 
 	cross_scroller_updates=$('#iescroller_updates')
 	if (cross_scroller_updates.length>0)
 	{
-		actualheight_updates=120
+		actualheight_updates=cross_scroller_updates.height()
 	}
 
 	
@@ -305,10 +297,14 @@ function scrollscroller()
 	{
 		topupx=cross_scroller_updates.css("top")
 		topu=parseInt(topupx.substring(0,topupx.indexOf("px")))
+		
 		if (topu>(actualheight_updates*(-1)+8))
 		cross_scroller_updates.css('top',(topu-copyspeed)+"px")
 		else
-		cross_scroller_updates.css('top',(120+8)+"px")
+		{
+			cross_scroller_updates.css('top',(120+8)+"px")
+		}
+		
 	}
 	
 }
@@ -370,7 +366,7 @@ span#inbox_icons
 <![endif]-->
 
 <span id="inbox_icons" style="display:none;">
-<img alt="You have a new message!" title="You have a new message!" src="http://starsearchcasting.com/img/icon_messages_anim.gif" width="16" height="16" style="cursor:pointer;" onclick="$('#get-myassistant').show();">
+<img alt="You have a new message!" title="You have a new message!" src="http://starsearchcasting.com/img/icon_messages_anim.gif" width="16" height="16" style="cursor:pointer;" onclick="$('#myassistant').dialog('open');">
 </span>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
@@ -473,7 +469,7 @@ span#inbox_icons
 <td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/yellow/tl.gif') no-repeat;">
 </td><td style="padding-top:3px; background: url('http://starsearchcasting.com/img/design/yellow/t.gif') repeat-x;" align="center" valign="top" nowrap="">
 <span class="framehead">
-<a href="/testimonials.php">Member Success Stories</a>
+<a href="/testimonials.php">Member Success Stories</a> <a href="/testimonials.rss.php"><img src="/img/rss_icon_16x_16.png" width="13" height="13" border="0" alt="StarSearchCasting.com Member Success Stories"></a>
 </span>
 </td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/yellow/tr.gif') no-repeat;">
 
@@ -491,60 +487,57 @@ span#inbox_icons
 <div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://MelissaRingrose.starsearchcasting.com">
-<img id="tstm246" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_MelissaRingrose2326732_00_jpg.jpg" border="0" title="Click to view Melissa's profile on www.StarSearchCasting.com" alt="Click to view Melissa's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(2326732, 'tstm246');"></a>
-“I love this site!! It is amazing and has helped me achieve my dreams. I wouldn’t know what to do without SSC!”
+
+
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Melissa<br>Glens Falls, New York</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://IvanaLee.starsearchcasting.com">
-<img id="tstm770" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_7404731_060613_00_jpg.jpg" border="0" title="Click to view ivana's profile on www.StarSearchCasting.com" alt="Click to view ivana's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(7404731, 'tstm770');"></a>
-"Thanks SSC!!! I just got a call from a casting director and he wants me to audition for a modeling job in Boston!!!! Thank u soo much!! I hope i get even more calls!"
+<a target="_blank" href="http://JessicaSchneider1.starsearchcasting.com">
+<img id="tstm762" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_8128705_200647_00.20schneider200700_jpg.jpg" border="0" title="Click to view Jessica's profile on www.StarSearchCasting.com" alt="Click to view Jessica's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(8128705, 'tstm762');"></a>
+"Thanx so much SSC! I have been on this site for a couple of months as a bronze member, then I updated to a gold last month. Then a talent promotional company contacted me and they want me to go out to Cali for an interview! I'm so happy! Thanx SSC! "
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>ivana<br>marshfield, Massachusetts</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Jessica<br>Las Vegas, Nevada</i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://RachaelStewart.starsearchcasting.com">
-<img id="tstm642" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_6826088_164702_00_jpg.jpg" border="0" title="Click to view rachael's profile on www.StarSearchCasting.com" alt="Click to view rachael's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(6826088, 'tstm642');"></a>
-"Wow! SSC is great! Even if you don't get loads of casting calls you can still talk with other people sharing the same dream!! Now I'm getting in contact with an Agency so I can start modeling soon!!"
+<a target="_blank" href="http://CarolineCianci.starsearchcasting.com">
+<img id="tstm558" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_6835138_181311_00_jpg.jpg" border="0" title="Click to view caroline's profile on www.StarSearchCasting.com" alt="Click to view caroline's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(6835138, 'tstm558');"></a>
+“I just LOVE SSC!!! I have tried other sites but they never worked! I already got contacted by a casting director about singing and I am so excited!! Thanks so much SSC, my career is starting!”
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>rachael<br>Lurgan area (Moira), Northern Ireland</i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://SamanthaSpoll.starsearchcasting.com">
-<img id="tstm713" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_3938675_162817_00_jpg.jpg" border="0" title="Click to view Samantha's profile on www.StarSearchCasting.com" alt="Click to view Samantha's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(3938675, 'tstm713');"></a>
-"I LOVE SSC! I have been on this site for a while, but just started becoming more active. I still am a bronze member, but I just got contacted for a modeling job!  I hope to get more auditions and opportunities like this."
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Samantha<br>dresher, Pennsylvania</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>caroline<br>avon, Connecticut</i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
 <a target="_blank" href="http://Alexandra.starsearchcasting.com">
-<img id="tstm335" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_7505109_204444_00_jpg.jpg" border="0" title="Click to view Alexandra's profile on www.StarSearchCasting.com" alt="Click to view Alexandra's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(7505109, 'tstm335');"></a>
-“SSC You are awesome! Two more offers today! I can't tell you how many have come through your site. Keep up the great work!”
+<img id="tstm88" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_7505109_204444_00_jpg.jpg" border="0" title="Click to view Alexandra's profile on www.StarSearchCasting.com" alt="Click to view Alexandra's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(7505109, 'tstm88');"></a>
+"Thanks to Star Search Casting I have been cast for a role in Vooshaday by Shooting Starz Productions!!!"
 
 <div style="height:5px"></div>
 <div align="right"><font face="arial" style="font-size:11px;"><i>Alexandra<br>New York Area, New York</i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://Sacreeta.starsearchcasting.com">
-<img id="tstm132" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_Sacreeta_Veneficus_4744629_203833_00_jpg.jpg" border="0" title="Click to view Sacreeta's profile on www.StarSearchCasting.com" alt="Click to view Sacreeta's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(4744629, 'tstm132');"></a>
-“Thanks for the wonderful opportunity to be listed on your site! I have fabulous news, to share with EVERYONE! I am now a Senior Staff writer for the Hottest Acting School in the Bronx, New York! The RKA Cinema Society! Thanks Star Search Casting for givi...
+
+
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Sacreeta<br>NY, Bronx, Ny</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://Leannehochberg.starsearchcasting.com">
-<img id="tstm81" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_Leanne_Hochberg_9293915_082341_00_jpg.jpg" border="0" title="Click to view Leanne's profile on www.StarSearchCasting.com" alt="Click to view Leanne's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(9293915, 'tstm81');"></a>
-"After 1 month on Star Search Casting, I auditioned for a Prepaid Master Card Ad Campaign and I became the "Face of the Company". I will be on their site (www.payoneer.com) within a few weeks. Check it out!  Hopefully there will be many more photo shoots ...
+
+"SSC OMG I got like so many calls from agents I just wanna scream omg!!!! this is so cool! THANKS SSC!"
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Leanne<br>broomall, Pennsylvania</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>lola<br>lehi, Utah</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://CarolineCianci.starsearchcasting.com">
+<img id="tstm789" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_6835138_181311_00_jpg.jpg" border="0" title="Click to view caroline's profile on www.StarSearchCasting.com" alt="Click to view caroline's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(6835138, 'tstm789');"></a>
+"SSC is awesome!! oOther sites I have tried you have to pay for everything... but this site is awesome for a great price! I have met tons of friends on here and I've gotten lots of great opportunities! I reccomend this site for all people who want to get ...
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>caroline<br>avon, Connecticut</i></font></div>
 </div>
 
 	</div>
@@ -568,7 +561,7 @@ span#inbox_icons
 <td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/green2/tl.gif') no-repeat;">
 </td><td style="padding-top:3px; background: url('http://starsearchcasting.com/img/design/green2/t.gif') repeat-x;" align="center" valign="top" nowrap="">
 <span class="framehead">
-Featured Talent: <span id="fmname"><a target="_blank" href="http://KaydynCoolbaugh.starsearchcasting.com">Kaydyn</a></span>
+Featured Talent: <span id="fmname"><a target="_blank" href="http://DemiLovato.starsearchcasting.com">Demi</a></span>
 </span>
 </td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/green2/tr.gif') no-repeat;">
 
@@ -576,8 +569,8 @@ Featured Talent: <span id="fmname"><a target="_blank" href="http://KaydynCoolbau
 <td width="21" style="background: url('http://starsearchcasting.com/img/design/green2/l.gif') repeat-y;">
 </td><td bgcolor="#f0f9e7" align="center">
 <div style="text-align:center; height:240px;">
-<div id="fmpic" style="height: 220px;"><a target="_blank" href="http://KaydynCoolbaugh.starsearchcasting.com">
-<img id="fmpic_8945243" border="0" width="140" height="106" title="Click to view Kaydyn's profile on www.StarSearchCasting.com" alt="Click to view Kaydyn's profile on www.StarSearchCasting.com" src="/Images_thumbnails/140x210_8945243_005733_00_jpg.jpg" hspace="0" vspace="0" style="margin-top:57;" onmouseover="miniprofile_show(8945243, 'fmpic_8945243');"></a>
+<div id="fmpic" style="height: 220px;"><a target="_blank" href="http://DemiLovato.starsearchcasting.com">
+<img id="fmpic_6498142" border="0" width="140" height="185" title="Click to view Demi's profile on www.StarSearchCasting.com" alt="Click to view Demi's profile on www.StarSearchCasting.com" src="/Images_thumbnails/140x210_6498142_051803_00_jpg.jpg" hspace="0" vspace="0" style="margin-top:17.5;" onmouseover="miniprofile_show(6498142, 'fmpic_6498142');"></a>
 </div>
 <div style="height:3px;"></div><a href="http://starsearchcasting.com/html/featured_talent.php">See YOUR Photo Here!</a>
 </div>
@@ -606,7 +599,7 @@ Featured Talent: <span id="fmname"><a target="_blank" href="http://KaydynCoolbau
 </td><td bgcolor="#f1f1f1" align="center">
 <div id="news_wrapper" class="scroller_wrapper" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=scrollerspeed">
 	<div id="iescroller_news" class="scroller">
-	<li>'Marley &amp; Me' Stars Jennifer Aniston And Owen Wilson Talk Working With Dogs -- And Each Other... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241033">read more</a><br><br></li><li>Golden Globe Predictions: Will Heath Ledger, Beyonce And Brangelina Get Nods?... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241034">read more</a><br><br></li><li>'Terminator Salvation' Set Visit: Sequel Set In Harsh, Post-Apocalyptic World... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241035">read more</a><br><br></li><li>Heath Ledger's Family Say His Golden Globe Nomination Is 'Deeply Appreciated'... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241036">read more</a><br><br></li><li>'SNL' Star Andy Samberg Recruits T-Pain, Justin Timberlake, Norah Jones For New Album... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241023">read more</a><br><br></li><li>Britney Spears Thanks Fans -- And Sean Preston Burps -- In Online Holiday Video... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241024">read more</a><br><br></li><li>'Twilight' Director Catherine Hardwicke Reveals DVD Details... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241025">read more</a><br><br></li><li>Miley Cyrus Is 'Stoked' About Her Golden Globe Best Song Nomination... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241026">read more</a><br><br></li><li>Usher Welcomes His Second Son... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241027">read more</a><br><br></li><li>Biggie Biopic 'Notorious': Check Out An Exclusive Behind-The-Scenes Clip Right Here!... <a href="http://starsearchcasting.com/forums/index.php?showtopic=241028">read more</a><br><br>
+	<li>Flag Day Celebration Extended This Year - Rochester R News... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283818">read more</a><br><br></li><li>Adam Lambert's glitter and glam, and maybe kissing a girl or two VIDEO - Monsters and Critics.com... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283819">read more</a><br><br></li><li>Hundreds Attend LA Funeral for David Carradine - Los Angeles Times... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283820">read more</a><br><br></li><li>DC Gays Celebrate Progress, Demand Equal Rights - Voice of America... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283821">read more</a><br><br></li><li>Bonnaroo '09 Saturday: Bruuuuuuuuuuuuuuce! - Entertainment Weekly... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283822">read more</a><br><br></li><li>Paris Hilton: A Boyfriend Retrospective... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283825">read more</a><br><br></li><li>Pixie Lott tops singles chart with "Mama Do"... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283782">read more</a><br><br></li><li>'Hangover' gives Murphy a headache at box office - Reuters... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283823">read more</a><br><br></li><li>There's No Beating This Hangover... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283833">read more</a><br><br></li><li>Laughs, emotion color WIF awards... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283860">read more</a><br><br>
 	</li></div>
 </div>
 
@@ -670,18 +663,18 @@ img.onerror = cantload;
 </script>
 <br>
 <img src="/ecnew/imgs/guests.gif"> Members<br>
-<nobr>Online Now: <object type="application/x-shockwave-flash" data="/img/counter3.swf?value=575" width="45" height="15" title="575" alt="575" style="display: inline;">
-<param name="movie" value="/img/counter3.swf?value=575">
+<nobr>Online Now: <object type="application/x-shockwave-flash" data="/img/counter5.swf?value=1,451" width="75" height="15" title="1,451" alt="1,451" style="display: inline;">
+<param name="movie" value="/img/counter5.swf?value=1,451">
 <param name="quality" value="high">
 <param name="bgcolor" value="#FFFFFF">
 <param name="menu" value="false">
 <param name="wmode" value="transparent">
-<param name="width" value="45">
+<param name="width" value="75">
 <param name="height" value="15">
 </object></nobr>
 <br>
-<nobr>Total: <object type="application/x-shockwave-flash" data="/img/counter7.swf?value=271,331" width="105" height="15" title="271,331" alt="271,331" style="display: inline;">
-<param name="movie" value="/img/counter7.swf?value=271,331">
+<nobr>Total: <object type="application/x-shockwave-flash" data="/img/counter7.swf?value=284,641" width="105" height="15" title="284,641" alt="284,641" style="display: inline;">
+<param name="movie" value="/img/counter7.swf?value=284,641">
 <param name="quality" value="high">
 <param name="bgcolor" value="#FFFFFF">
 <param name="menu" value="false">
@@ -701,7 +694,7 @@ img.onerror = cantload;
 </td></tr></tbody></table>
 		</td>										
 
-		<td valign="top" colspan="3" style="padding-left:5px;" width="100%">
+		<td valign="top" colspan="3" style="padding-left:5px; padding-right:5px;" width="100%">
 <div style="padding-bottom:3px;">
 		
 </div>		
@@ -725,42 +718,79 @@ google_color_url = "003366";
 </script>
 </div>
 <p align="justify"><b>Effective January 1, 2008:</b></p>
-<p align="justify">Star Search Casting, Inc. ("Star Search Casting", "SSC", or "we") operates StarSearchCasting.com. This Privacy Policy describes Star Search Casting’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Star Search Casting when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Star Search Casting, including any Star Search Casting-branded URL (the “Star Search Casting Website”), the Star Search Casting instant messaging service, the Star Search Casting application developer service and other features (for example, music and video embedded players), Star Search Casting mobile services, and any other features, content, or applications offered from time to time by Star Search Casting in connection with the Star Search Casting Website (collectively, the “SSC services”). The SSC services are hosted in the United States.</p>
-<p align="justify">The Star Search Casting Website is a general audience site and does not knowingly collect PII from children under 13 years of age.</p>
-<p align="justify">From time to time Star Search Casting may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the SSC services, or technology, and such modifications shall be effective upon posting by Star Search Casting on the Star Search Casting Website. Your continued use of the SSC services after Star Search Casting posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If Star Search Casting materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.</p>
+<p align="justify">Star Search Casting, LLC ("Star Search Casting", "SSC", "Us", or "We") operates StarSearchCasting.com. This Privacy Policy describes Star Search Casting’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Star Search Casting when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Star Search Casting, including any Star Search Casting-branded URL (the “Star Search Casting Website”), the Star Search Casting instant messaging service, the Star Search Casting application developer service and other features (for example, music and video embedded players), Star Search Casting mobile services, and any other features, content, or applications offered from time to time by Star Search Casting in connection with the Star Search Casting Website (collectively, the “SSC services”). The SSC services are hosted in the United States.
+</p>
+<p align="justify">The Star Search Casting Website is a general audience site and does not knowingly collect PII from children under 13 years of age.
+</p>
 <p align="justify"><b>COLLECTION AND SUBMISSION OF PII AND NON-PII ON STAR SEARCH CASTING</b></p>
-<p align="justify">General. When Star Search Casting collects PII from you it is because you are voluntarily submitting Registration PII to us in order to register as a Member of Star Search Casting. Star Search Casting may also collect PII from you if you choose to participate in SSC services activities like sweepstakes, contests, scholarships, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Star Search Casting for review.</p>
-<p align="justify">In addition, Star Search Casting collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the SSC services, track usage, and for security purposes.</p> 
-<p align="justify">Star Search Casting Members may also choose to provide or store non-PII information in their profiles, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion.</p>
-<p align="justify">Star Search Casting Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and Star Search Casting communicate with them by controlling their "<a href="http://www.starsearchcasting.com/user.settings.php">Account Settings</a>". portion of their Star Search Casting profile.</p>
-<p align="justify">Cookies. Cookies are small bits of information that Star Search Casting places on your computer. Star Search Casting uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the SSC services. Data in cookies may be read to authenticate user sessions or provide services.</p>
-<p align="justify">Third party advertisements displayed on SSC services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). Star Search Casting does not control these third party cookies and Users of the SSC services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. Star Search Casting may allow third party pixel tags to be present on SSC services for purposes of advertising, providing services or data and statistics collection.</p>
-<p align="justify">You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the SSC services.</p>
+<p align="justify">General. When Star Search Casting collects PII from you it is because you are voluntarily submitting Registration PII to us in order to register as a Member of Star Search Casting. Star Search Casting may also collect PII from you if you choose to participate in SSC services activities like sweepstakes, contests, scholarships, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Star Search Casting for review.  If you do not wish to receive promotional communications you may opt-out by going to the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area in your account.
+</p>
+<p align="justify">In addition, Star Search Casting collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the SSC services, track usage, and for security purposes.
+</p> 
+<p align="justify">Star Search Casting Members may also choose to provide or store non-PII information in their profiles, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion.
+</p>
+<p align="justify">Star Search Casting Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and Star Search Casting communicate with them by controlling their "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>". portion of their Star Search Casting profile.
+</p>
+<p align="justify">Cookies. Cookies are small bits of information that Star Search Casting places on your computer. Star Search Casting uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the SSC services. Data in cookies may be read to authenticate user sessions or provide services.
+</p>
+<p align="justify">Third party advertisements displayed on SSC services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). Star Search Casting does not control these third party cookies and Users of the SSC services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. Star Search Casting may allow third party pixel tags to be present on SSC services for purposes of advertising, providing services or data and statistics collection.
+</p>
+<p align="justify">You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features and SSC services.
+</p>
+<p align="justify"><b>TESTIMONIALS</b></p>
+We post member success stories and testimonials on our web site which may contain personally identifiable information such as the member's name. Prior to showing a testimonial we do obtain the member's consent to post their name, picture, and profile link along with their testimonial.  If you want to remove your personal information that is being displayed on publically accessible pages on our web site or delete your account you may do that by going to the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area in your account.
+<p></p>
+<p align="justify"><b>BLOGS, COMMINITY FORUMS, CHAT, AND COMMENTS</b></p>
+<p align="justify">You post User Content (as defined in the Star Search Casting Terms of Use) on the Site at your own risk. This includes information you post on your profile, resume, community forums, blogs, profile comments, instant messaging, photo galleries, chat rooms, etc.  Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  Therefore, we cannot and do not guarantee or take responsibility for any User Content, including personally identifiable information, that you choose to submit in these forums that may be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+</p>
 <p align="justify"><b>NOTICE: STAR SEARCH CASTING WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES</b></p>
-<p align="justify">When you voluntarily provide PII to Star Search Casting, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Star Search Casting will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.</p>
-<p align="justify">At the time you provide your PII, Star Search Casting will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, Star Search Casting will not share your PII with third parties unless you have given Star Search Casting permission to do so (See “Use” below).</p>
-<p align="justify">SSC services may be linked to Internet sites operated by other companies. SSC services may also carry advertisements from other companies. Star Search Casting is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the SSC services or for the privacy practices of third party Internet advertising companies. Once you leave SSC services via such a link, access a third party application (such as widgets or gadgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.</p>
-<p align="justify">SSC services may also be linked to sites operated by companies affiliated with Star Search Casting. Although all Affiliated Companies adhere to the Star Search Casting corporate Privacy Principles, Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.</p>
-<p align="justify">Star Search Casting may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions, information you add to open-ended profile fields and questions (essay questions like “About Me,” “Interests” and “Biography”) (“Non-Structured Profile Information”) and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your interests we might display an advertisement to make sure you are advised when a photographer is offering cetain discounts. The information used for this feature does not provide your PII or identify you as an individual to third parties.</p>
-<p align="justify">Some of the advertisements that appear on SSC services may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of SSC services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit <a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative</a>.</p> 
-<p align="justify">Third party applications (such as widgets or gadgets) created by third party developers may also be available on the SSC services. Third party applications are small bits of software, often with interactivity, that can be installed into Members’ profiles or shared with other Users. However, Star Search Casting does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with Star Search Casting. Star Search Casting encourages Members not to provide PII to the third party’s application unless the Member knows the party with whom it is interacting.</p> 
+<p align="justify">When you voluntarily provide PII to Star Search Casting, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Star Search Casting will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
+</p>
+<p align="justify">At the time you provide your PII, Star Search Casting will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, Star Search Casting will not share your PII with third parties unless you have given Star Search Casting permission to do so (See “Use” below).
+</p>
+<p align="justify">SSC services may be linked to Internet sites operated by other companies. SSC services may also carry advertisements from other companies. Star Search Casting is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the SSC services or for the privacy practices of third party Internet advertising companies. Once you leave SSC services via such a link, access a third party application (such as widgets or gadgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
+</p>
+<p align="justify">SSC services may also be linked to sites operated by companies affiliated with Star Search Casting. Although all Affiliated Companies adhere to the Star Search Casting corporate Privacy Principles, Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
+</p>
+<p align="justify">Star Search Casting may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions, information you add to open-ended profile fields and questions (essay questions like “About Me,” “Interests” and “Biography”) (“Non-Structured Profile Information”) and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your interests we might display an advertisement to make sure you are advised when a photographer is offering cetain discounts. The information used for this feature does not provide your PII or identify you as an individual to third parties.
+</p>
+<p align="justify">Some of the advertisements that appear on SSC services may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of SSC services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit <a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative</a>.
+</p> 
+<p align="justify">Third party applications (such as widgets or gadgets) created by third party developers may also be available on the SSC services. Third party applications are small bits of software, often with interactivity, that can be installed into Members’ profiles or shared with other Users. However, Star Search Casting does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with Star Search Casting. Star Search Casting encourages Members not to provide PII to the third party’s application unless the Member knows the party with whom it is interacting.
+</p> 
 <p align="justify"><b>CHOICE: STAR SEARCH CASTING WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</b></p>
-<p align="justify">Except as described in this Privacy Policy, Star Search Casting will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Star Search Casting.</p>
+<p align="justify">Except as described in this Privacy Policy, Star Search Casting will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Star Search Casting.  We will do this by providing you with an opt-in form if you wish to share additinal informatioin with other parties. 
+</p>
 <p align="justify"><b>USE: STAR SEARCH CASTING'S USE OF PII</b></p>
-<p align="justify">Star Search Casting will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Star Search Casting obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.</p>
-<p align="justify">In order to locate other Star Search Casting Members that you may already know in the physical world, Star Search Casting allows Users to search for Members using Registration PII (i.e., name or personal description). Star Search Casting also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools and/or companies where Users may have attended or worked). Star Search Casting may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Account Settings.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed.</p>  
-<p align="justify">If you have consented to receive promotional materials (e.g., newsletters) or notifications from Star Search Casting, Star Search Casting may periodically use your email address to send you such materials related to the SSC services, as applicable. If you want to stop receiving such materials from Star Search Casting, you can change your profile settings under “Account Settings,” or follow the unsubscribe instructions at the bottom of each email.</p> 
-<p align="justify">Star Search Casting employees, agents and contractors must have a business reason to obtain access to your PII. Star Search Casting may share your PII with those who help us manage or provide SSC services’ information activities (for example, message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions, scholarships, and sweepstakes.</p>
-<p align="justify">These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide Star Search Casting with a specific service and not for any other purpose. Star Search Casting may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. Star Search Casting also may share your PII with Affiliated Companies if it has a business reason to do so.</p>
-<p align="justify">As described in “Notice” above, Star Search Casting may customize the advertising and marketing messages you receive on the Star Search Casting Website, or may work with outside companies to do so. Your non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. Star Search Casting prohibits these companies from sharing your non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Star Search Casting’s advertisers and business partners.</p>
-<p align="justify">There may be instances when Star Search Casting may access or disclose PII, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of Star Search Casting, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the SSC services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if Star Search Casting sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Star Search Casting may transfer your PII to the party or parties involved in the transaction as part of that transaction.</p>
+<p align="justify">Star Search Casting will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Star Search Casting obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
+</p>
+<p align="justify">In order to locate other Star Search Casting Members that you may already know in the physical world, Star Search Casting allows Users to search for Members using Registration PII (i.e., name or personal description). Star Search Casting also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools and/or companies where Users may have attended or worked). Star Search Casting may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Account Settings.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed.
+</p>  
+<p align="justify">If you have consented to receive promotional materials (e.g., newsletters) or notifications from Star Search Casting, Star Search Casting may periodically use your email address to send you such materials related to the SSC services, as applicable. If you want to stop receiving such materials from Star Search Casting, you can change your profile settings under “Account Settings,” or follow the unsubscribe instructions at the bottom of each email.
+</p> 
+<p align="justify">Star Search Casting employees, agents, and contractors must have a business reason to obtain access to your PII. Star Search Casting may share your PII with third party service providers who assist us in managing or providing SSC services’ information activities (for example, message board moderators and administration, order fulfillment, credit card processing, statistical analyses, data processing), or with outside contractors, agents, or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions, scholarships, and sweepstakes.
+</p>
+<p align="justify">These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide Star Search Casting with a specific service and not for any other purpose. Star Search Casting may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. Star Search Casting also may share your PII with Affiliated Companies if it has a business reason to do so.
+</p>
+<p align="justify">As described in “Notice” above, Star Search Casting may customize the advertising and marketing messages you receive on the Star Search Casting Website, or may work with outside companies to do so. Your non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. Star Search Casting prohibits these companies from sharing your non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Star Search Casting’s advertisers and business partners.
+</p>
+<p align="justify">There may be instances when Star Search Casting may access or disclose PII, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of Star Search Casting, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the SSC services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law, legal process, warrant, subpoena, or court order. In addition, if Star Search Casting sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Star Search Casting may transfer your PII to the party or parties involved in the transaction as part of that transaction.
+</p>
 <p align="justify">When a Member who is located in the European Union chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. Star Search Casting is not responsible under the EU local data protection laws for Member-posted information.</p>
-<p align="justify"><b>SECURITY:  STAR SEARCH CASTING PROTECTS THE SECURITY OF PII</b></p>
-<p align="justify">Star Search Casting uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Star Search Casting uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.</p>
-<p align="justify"><b>ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT STAR SEARCH CASTING ABOUT PRIVACY CONCERNS</b></p>
-<p align="justify">Whenever possible, Star Search Casting Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Profile” and “Account Settings.”</p>
-<p align="justify">If you ask Star Search Casting to stop using your PII, Star Search Casting will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.</p>
-<p align="justify">I HAVE READ AND UNDERSTAND THE FOREGOING AGREEMENT AND UNDERSTAND THAT USE OF THIS SITE SIGNIFIES MY AGREEMENT TO BE BOUND BY ALL OF ITS TERMS AS WELL AS THE <a href="http://www.starsearchcasting.com/terms_of_use.php">TERMS OF USE</a>.</p>					
+<p align="justify"><b>SECURITY:  STAR SEARCH CASTING PROTECTS THE SECURITY OF PII</b>
+</p>
+<p align="justify">Star Search Casting uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Star Search Casting uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. All credit card transactions or other pages that collect sensitive information are also SSL encrypted.
+</p>
+<p align="justify"><b>ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT STAR SEARCH CASTING ABOUT PRIVACY CONCERNS</b>
+</p>
+<p align="justify">Whenever possible, Star Search Casting Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Profile” and “Account Settings.”  If you have any questions about this privacy policy, please <a href="http://starsearchcasting.com/html/contact_us.php">contact us</a>. You may also contact us by mail at 5153 Hwy 554, Loris, SC 29569.
+</p>
+<p align="justify">If you ask Star Search Casting to stop using your PII, Star Search Casting will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
+</p>
+<p align="justify"><b>TERMS OF USE NOTICES AND REVISONS</b></p>
+<p align="justify">Your use of Star Search Casting, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.  From time to time Star Search Casting may modify this Privacy Policy and our Terms of Use to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the SSC services, or technology, and such modifications shall be effective upon posting by Star Search Casting on the Star Search Casting Website.  Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.  Your continued use of the SSC services after Star Search Casting posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If Star Search Casting materially changes its practices regarding collection or use of your PII, your PII will be governed by the revised Policy.
+</p>
+<p align="justify">I HAVE READ AND UNDERSTAND THE FOREGOING AGREEMENT AND UNDERSTAND THAT USE OF THIS SITE SIGNIFIES MY AGREEMENT TO BE BOUND BY ALL OF ITS TERMS AS WELL AS THE <a href="http://starsearchcasting.com/terms_of_use.php">TERMS OF USE</a>.</p>					
 		</td>
 	</tr>
 </tbody></table>
@@ -782,7 +812,6 @@ google_color_url = "003366";
 <a href="http://forums.starsearchcasting.com">Community Forums</a> ::
 <a href="http://starsearchcasting.com/talent_resources.php">Talent Resources</a> ::
 <a href="http://starsearchcasting.com/voting.php">Rate Talent</a> ::
-<a href="http://email.starsearchcasting.com">Email</a> ::
 <a href="http://starsearchcasting.com/html/talents_q___a.php">Help</a> ::
 <a href="http://starsearchcasting.com/forums/index.php?autocom=gallery&amp;req=sc&amp;cat=1">Photo Gallery</a> ::
 <a href="http://auditions.starsearchcasting.com">Casting Calls</a>
@@ -815,40 +844,30 @@ dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
 dc.write('/w/pop.cgi?sid=18275&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
 date_ob.setTime(date_ob.getTime()+43200000);
 dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
-</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=18275&amp;m=2&amp;tp=2&amp;v=1.8&amp;c=34"></script></center><div id="beacon_15" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://starsearchcasting.com/openx/www/delivery/lg.php?bannerid=15&amp;campaignid=1&amp;zoneid=1&amp;channel_ids=,&amp;OABLOCK=3600&amp;OASCAP=2&amp;loc=http%3A%2F%2Fstarsearchcasting.com%2Fprivacy_policy.php&amp;cb=17162c247c" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+</script></center>
+
+
 <p>
-</p><div id="copyright" class="smalltext">Copyright © 1998-2008 Star Search Casting, LLC.® All rights reserved.</div>
+</p><div id="copyright" class="smalltext">Copyright © 1998-2009 Star Search Casting, LLC.® All rights reserved.</div>
 <p></p>
 
-<script type="text/javascript" src="http://starsearchcasting.com/bak2top_new.js"></script>
-
 <script type="text/javascript">
-<!--
-if (document.getElementById && document.createTextNode)
-{
-	var tables=document.getElementsByTagName('table');
-	for (var i=0;i<tables.length;i++)
-	{
-		if(tables[i].className=='list')
-		{
-			var trs=tables[i].getElementsByTagName('tr');
-			for(var j=0,k=0;j<trs.length;j++)
-			{
-				if(trs[j].parentNode.parentNode.className=='list')
-				// ONLY TOP-LEVEL ROWS IN 'LIST'
-				{
-					if (k % 2 == 0)
-					{
-						trs[j].className='even';
-					}
-					k++;
-				}
-			}
-		}
-	}
-}
--->
+$(function() {
+	$('.ads a').attr('target','_blank');
+});
+
+$('table.list tbody tr').hover(
+  function () {
+    $(this).css('background-color','#FFFFFF');
+  }, 
+  function () {
+    $(this).css('background-color','');
+  }
+);
+
+$('table.list tr:even').attr('class','even');
 </script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -903,5 +922,8 @@ function ()
 	$('#starpic').fadeIn("slow")
 });
 </script>
+
+
+<script src="https://seal.buysafe.com/private/rollover/rollover.js"></script><span id="BuySafeSealSpan"><script type="text/javascript">WriteBuySafeSeal('BuySafeSealSpan', 'PersistentSeal', 'HASH=A%2bl32fSfMNsCgW5v1vxq%2btcJoggl0yxc8NdIdSFy5klazC%2bpEfnw%2bC4WQGPD8BjpfXa1RsdDKeaAoWBiOmizEg%3d%3d');</script></span>
 
 </div></body></html>
