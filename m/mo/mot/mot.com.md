@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614045622id_/http%3A//www.motorola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164039id_/http%3A//www.motorola.com/privacy) for the most accurate reproduction.*
 
 # Motorola Privacy Practices
 
 |   
 ---  
 This statement applies to the online collection of personal information via web sites operated by Motorola, Inc. and its worldwide affiliated companies and subsidiaries (See [About Motorola](http://www.motorola.com/about.jsp)). Highlights of Motorola's Online Privacy Statement follow immediately below, or read the full text.  
- What Personal Information Is Collected?| See more details   
+ What Personal Information Is Collected? | See more details   
   
-  * We collect personal information you voluntarily choose to provide such as your name, address, email address, phone numbers and/or other categories of personal information.
+  * We collect personal information you voluntarily choose to provide such as your name, address, email address, phone numbers and/or other categories of personal information, such as payment card information.
   * Our web server logs may collect additional information, such as the domain names of visitors to our web sites, in order to measure the use of our web sites and to improve content.
   * We may use cookies to manage areas of our web site and to deliver a better web site experience to our users. You have choices with respect to cookies.
 
   
- How Is My Personal Information Used?| See more details   
+ How Is My Personal Information Used? | See more details   
   
   * We may use personal information to facilitate order processing; to contact you if a problem arises with your order; to facilitate the employment application process; or for other uses consistent with this statement.
   * Except as outlined in this statement or on our web sites, we do not provide your personal information to third parties without your consent.
@@ -21,33 +21,34 @@ This statement applies to the online collection of personal information via web 
   * In addition, we may disclose personal information in special cases, such as when we believe in good faith that the law requires it.
 
   
- What Choices Do I Have?| See more details   
+ What Choices Do I Have? | See more details   
   
   * If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s).
   * You have the right to access (review, correct, amend or delete) your personal information by contacting Motorola.
   * If you have established a "user profile" on a Motorola web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.
 
   
- What About Information Security?| See more details   
+ What About Information Security? | See more details   
   
   * When you place an order or provide personal information, we employ certain security measures, such as encryption where appropriate.
   * The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country.
   * Regardless of where these activities occur, we take appropriate steps to ensure that your information is treated securely.
 
   
- What About My Child's Privacy?| See more details   
+ What About My Child's Privacy? | See more details   
   
   * Our web sites are intended for use only by persons over the age of 13. Persons under the age of 13 should not submit personal information to Motorola.
 
   
- How Do I Contact Motorola?|   
+ How Do I Contact Motorola? |   
   
   * Please direct any questions concerning Motorola’s privacy practices to [privacy@motorola.com](mailto:privacy@motorola.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola may also be directed to [privacy@motorola.com](mailto:privacy@motorola.com). Or, mail your inquiry/request to:
 
 Motorola, Inc.  
-Data Protection Office  
-1303 East Algonquin Road; Floor 4  
-Schaumburg, Illinois 60146  
+Attention: Privacy Compliance Program  
+600 North U.S. Highway 45  
+Mailstop: W4-35M  
+Libertyville, Illinois 60048  
 USA
 
 
@@ -65,7 +66,7 @@ _**This statement of privacy practices discloses the privacy policy for Motorola
 
 What personal information is collected?
 
-**When a visitor places an order with us, Motorola may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as drivers license numbers, social security numbers (or equivalent national identification numbers) and date of birth. In addition to ordering and registration, we may ask you for and collect personal information at other times, including when you enter a sweepstakes or contest; participate in a promotion or marketing campaign sponsored by Motorola or one of its business partners; when you want to find out about service offered in your area; when you complete surveys or other questionnaires; when you participate in a user forum or blog hosted by Motorola or one of its business partners; when you send an email to Motorola; when you express interest in employment with Motorola; or when you engage in other activities on the sites.
+**When a visitor places an order with us, Motorola may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as payment card information, drivers license numbers, social security numbers (or equivalent national identification numbers) and date of birth. In addition to ordering and registration, we may ask you for and collect personal information at other times, including when you enter a sweepstakes or contest; participate in a promotion or marketing campaign sponsored by Motorola or one of its business partners; when you want to find out about service offered in your area; when you complete surveys or other questionnaires; when you participate in a user forum or blog hosted by Motorola or one of its business partners; when you send an email to Motorola; when you express interest in employment with Motorola; or when you engage in other activities on the sites.
 
 In addition, our web server logs collect the domain names of visitors to our web sites. This information is aggregated to measure number of visits, average time spent on a Motorola web site, pages viewed and web site usage information. We use this information to measure the use of our sites and to improve the content of our sites. Aggregated information is not used in such a form that would enable direct connection of any personal information to our visitors.
 
@@ -127,9 +128,10 @@ If you have established a "user profile" on a Motorola web site, you may change 
 Please direct any questions concerning Motorola's privacy practices to [privacy@motorola.com](mailto:privacy@motorola.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola may also be sent to [privacy@motorola.com](mailto:privacy@motorola.com). Inquiries or requests may be mailed to:
 
 Motorola, Inc.  
-Data Protection Office  
-1303 East Algonquin Road; Floor 4  
-Schaumburg, Illinois 60146  
+Attention: Privacy Compliance Program  
+600 North U.S. Highway 45  
+Mailstop: W4-35M  
+Libertyville, Illinois 60048  
 USA
 
 **
@@ -152,22 +154,5 @@ What about my child's privacy?
 
 * * *
 
-_Revision History_   
-_The last update occcurred January 2, 2007, when the format of the statement was revised. A "Highlights" section was added at the top of the page while the format of the full text version of the statement was adjusted to correspond to this new section. Additionally, the following sections of the statement have been updated and clarified:_
-
-  * _The types of personal information collected and circumstances in which personal information may be collected on a Motorola web site._
-
-  * _Motorola's relationship with its third party business partners and its “Powered-by” or “Provided-By” relationships._
-
-  * _Motorola's use of Internet "cookies" and "clickstreams."_
-
-  * _Motorola's uses for the information it collects._
-
-  * _Available choices regarding the collection, use and distribution of a site user's personal information._
-
-  * _Motorola's information security measures._
-
-  * _Motorola's practices concerning collection of personal information from children._
-
-
-
+  
+_The last update occcurred April 18, 2008, when the types of personal information collected were clarified._
