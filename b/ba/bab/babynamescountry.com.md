@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022338id_/http%3A//www.babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615044751id_/http%3A//www.babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BabyNamesCountry.com
 
@@ -28,4 +28,4 @@ Cookies are pieces of information that a website transfers to your computer's ha
 We use cookies to make your visit to our web site easier. Cookies also allow us to count the number of unique and return visitors who use our site. Most browsers are initially set up to accept cookies. You are always free to instruct your web browser to decline our cookies if it has the capability to do so, but some parts of our Site (Favorite Names Section) may not work properly if you do.
 
 **Contact Us**  
-If you have any questions and comments about this privacy statement, feel free to contact us: [info@babynamescountry.com](mailto:info@babynamescountry.com)
+If you have any questions and comments about this privacy statement, feel free to [Contact Us](http://www.babynamescountry.com/contact_us.html).
