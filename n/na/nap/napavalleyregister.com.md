@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025157id_/http%3A//www.napavalleyregister.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164141id_/http%3A//www.napavalleyregister.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Napa Valley Register
 
