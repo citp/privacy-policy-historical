@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingrating.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218230301id_/http%3A//webhostingrating.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingrating.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615231459id_/http%3A//webhostingrating.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Web Hosting Rating - Privacy Policy
 
