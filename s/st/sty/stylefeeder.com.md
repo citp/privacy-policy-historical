@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160254id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylefeeder.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615140915id_/http%3A//www.stylefeeder.com/info/privacy.html) for the most accurate reproduction.*
 
-# Information - StyleFeeder.com
+# StyleFeeder Privacy Policy - StyleFeeder.com
 
 ### Effective April 18th, 2007 
 
