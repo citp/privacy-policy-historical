@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030237id_/http%3A//pajamasmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180454id_/http%3A//pajamasmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Pajamas Media » Privacy Policy
-
-Support Pajamas Media; Visit Our Advertisers
 
 ## Privacy Policy
 
 **Overview**
 
-PAJAMAS MEDIA is committed to protecting the privacy of [Internet users](https://web.archive.org/web/20081217030237id_/http://pajamasmedia.com/privacy-policy/void\(0\)). Our readers’ privacy and confidentiality is of the [utmost importance](https://web.archive.org/web/20081217030237id_/http://pajamasmedia.com/privacy-policy/void\(0\)) to us, our Contributors and our advertiser clients. Our reputation and integrity is directly related to how we serve you, our readers, and protect your privacy. At the end of this policy we have provided contact information, should you have any additional questions.
+PAJAMAS MEDIA is committed to protecting the privacy of [Internet users](https://web.archive.org/web/20090616180454id_/http://pajamasmedia.com/privacy-policy/void\(0\)). Our readers’ privacy and confidentiality is of the [utmost importance](https://web.archive.org/web/20090616180454id_/http://pajamasmedia.com/privacy-policy/void\(0\)) to us, our Contributors and our advertiser clients. Our reputation and integrity is directly related to how we serve you, our readers, and protect your privacy. At the end of this policy we have provided contact information, should you have any additional questions.
 
 **Applicability of Policy**
 
@@ -17,7 +15,7 @@ This privacy policy applies only to advertising-related information that is coll
 
 **Information Collected**
 
-PJM does not obtain any personally identifiable information about you, such as your name, address, phone number, or email address, when you visit a blog within the network and the PJM portal site. PJM may, however, automatically collect non-personally identifiable information about you which is specific to how you use the Internet, such as the [IP address](https://web.archive.org/web/20081217030237id_/http://pajamasmedia.com/privacy-policy/void\(0\)) of the server your computer is logged into, your browser type, your screen resolution setting, the Web pages you visited, which ads have been displayed and whether you responded to any ads delivered by PJM. This non-personally identifiable information collected by PJM is used for the purpose of determining which ads to deliver and for measuring aggregate advertising display and response for client and network reporting.
+PJM does not obtain any personally identifiable information about you, such as your name, address, phone number, or email address, when you visit a blog within the network and the PJM portal site. PJM may, however, automatically collect non-personally identifiable information about you which is specific to how you use the Internet, such as the [IP address](https://web.archive.org/web/20090616180454id_/http://pajamasmedia.com/privacy-policy/void\(0\)) of the server your computer is logged into, your browser type, your screen resolution setting, the Web pages you visited, which ads have been displayed and whether you responded to any ads delivered by PJM. This non-personally identifiable information collected by PJM is used for the purpose of determining which ads to deliver and for measuring aggregate advertising display and response for client and network reporting.
 
 Also, as a result of your visit to our site and to our participating blogs, PJM’s ad server and web analytics partners, may collect non-personally identifiable information such as your domain type, your IP address, your ad display history,your clickstream information. For further information, consult the privacy policies of:
 
@@ -33,7 +31,7 @@ Information collected by Pajamas Media about individual visitors that is stored 
 
 **Cookies**
 
-PJM and its advertising partners use browser cookies to enable advertising. Cookies are small files that your Web browser places on your computer’s hard drive to record information about your visit. The PJM cookie cannot be associated with any [personal information](https://web.archive.org/web/20081217030237id_/http://pajamasmedia.com/privacy-policy/void\(0\)) about you and PJM is not be able to identify you personally when you visit any blog. PJM cookies do not damage your system or files in any way. Most web browsers automatically accept cookies but you can change your browser settings to prevent the acceptance of cookies if you desire.
+PJM and its advertising partners use browser cookies to enable advertising. Cookies are small files that your Web browser places on your computer’s hard drive to record information about your visit. The PJM cookie cannot be associated with any [personal information](https://web.archive.org/web/20090616180454id_/http://pajamasmedia.com/privacy-policy/void\(0\)) about you and PJM is not be able to identify you personally when you visit any blog. PJM cookies do not damage your system or files in any way. Most web browsers automatically accept cookies but you can change your browser settings to prevent the acceptance of cookies if you desire.
 
 Third party advertisers or third party ad servers that place and present advertising on the PJM site or participating blogs also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party’s privacy policy and is not covered by PJM’s privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from PJM’s privacy policy.All third party cookies that are used to track or manage user experience are set outside of the PJM or blog domains.
 
@@ -43,7 +41,7 @@ PJM openly volunteers its practices of collecting information, its targeting cap
 
 **INFORMATION SENT TO US VIA EMAIL**
 
-When you send us a comment via links on our site, we use that information internally to track comments, suggestions, and problems. We do not create [mailing lists](https://web.archive.org/web/20081217030237id_/http://pajamasmedia.com/privacy-policy/void\(0\)) from the email addresses we receive, and we certainly don’t sell the email addresses of those who do use our feedback links. We do not retain personally identifiable information when you send a message to us unless you request us to do so.
+When you send us a comment via links on our site, we use that information internally to track comments, suggestions, and problems. We do not create [mailing lists](https://web.archive.org/web/20090616180454id_/http://pajamasmedia.com/privacy-policy/void\(0\)) from the email addresses we receive, and we certainly don’t sell the email addresses of those who do use our feedback links. We do not retain personally identifiable information when you send a message to us unless you request us to do so.
 
 **Notification of Changes to Privacy Policy**
 
