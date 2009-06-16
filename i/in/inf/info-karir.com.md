@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the info-karir.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216093109id_/http%3A//www.info-karir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the info-karir.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184033id_/http%3A//www.info-karir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Info Lowongan Kerja & Karir
 
@@ -16,6 +16,8 @@ Like many other Web sites, www.info-karir.com makes use of log files. The inform
 **Cookies and Web Beacons**  
 www.info-karir.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense .
+
+Info-Karir utilizes certain services from Google for ad serving and web traffic analysis. Please review Google’s [privacy policy](http://www.google.com/privacy.html) for more information on how Google AdSense and Google Analytics stores your personal information. These Google services may place and read cookies on your browser, or use web beacons to collect information, in the course of ads being served on the Info-Karir website. Additionally, Google uses the DART cookie to enables it to serve ads to based on your visits to Info-Karir and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.info-karir.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
