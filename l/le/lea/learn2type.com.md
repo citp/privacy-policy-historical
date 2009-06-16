@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219233950id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616205641id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
@@ -42,14 +42,14 @@ If you have any questions about this privacy statement, the practices of this si
 
 _Webmaster  
 Learn2Type.com, Inc.   
-2381 Hylan Boulevard, Suite 12-I   
-Staten Island, NY 10306_   
+PO Box 61569   
+Staten Island, NY 10306-7569_   
 718-233-4296   
 privacyX@XLearn2Type.com 
 
 |   
 
-Content and materials on this website are Copyright ©1999-2008 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2009 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
