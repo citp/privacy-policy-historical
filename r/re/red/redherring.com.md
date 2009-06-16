@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152511id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redherring.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071830id_/http%3A//www.redherring.com/Home/pages/page/%3Fpgid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
