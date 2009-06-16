@@ -1,64 +1,27 @@
-> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111045id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616055621id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
 
-# Memory improvement, Improve your Memory, Memory development, Mnemonics, Memorization techniques, Memory improvement, Memory skills, Memory strategies, Brain power, Memory Loss
+# Memorization techniques, Memory improvement, Memory strategies, Memory development, Memory skills, Brain power, Mnemonics, Improve your Memory, Memory Loss
 
 What information does School Of Phenomenal Memory collect from our users and how do we collect it?
 
-School Of Phenomenal Memory only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. School Of Phenomenal Memory collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, location, age and phone number when purchasing one of our products. All of this information is provided to us by you.
+School Of Phenomenal Memory only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. School Of Phenomenal Memory collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, location, age and phone number when purchasing one of our products. All of this information is provided to us by you. 
 
 **We do NOT collect or have access to your credit card or any other financial information.** All transactions are handled by PayPal, the global leader in online payment solutions with 100 million account members worldwide. Available in 190 countries and regions around the world, buyers and sellers on eBay, online retailers, online businesses, as well as traditional offline businesses are transacting with PayPal.
 
 **How do we use this information?**
 
-This information is used for internal marketing purposes only. School Of Phenomenal Memory does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes. 
+This information is used for internal marketing purposes only. School Of Phenomenal Memory does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
 **What are cookies and how do we use them?**
 
-Cookies help track a person's "session" while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. 
+Cookies help track a person's "session" while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
 
 **How do we store your information?**
 
-Your information is stored at the list server (Aweber.com) that delivers School Of Phenomenal Memory newsletters, if you become a customer your contact information will be securely stored locally in our database. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive School Of Phenomenal Memory newsletters. 
+Your information is stored at the list server (Aweber.com) that delivers School Of Phenomenal Memory newsletters, if you become a customer your contact information will be securely stored locally in our database. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive School Of Phenomenal Memory newsletters.
 
-All of the newsletters that are sent to you by School Of Phenomenal Memory include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us [HERE](https://web.archive.org/contacts/) to change your information at any time. Disclaimer this policy may be changed at any time at School Of Phenomenal Memory discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 1, 2008. 
+All of the newsletters that are sent to you by School Of Phenomenal Memory include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us [HERE](http://pmemory.com/contacts/) to change your information at any time. Disclaimer this policy may be changed at any time at School Of Phenomenal Memory discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 1, 2008.
 
-If you have any questions or concerns regarding our privacy policy please direct them [HERE](https://web.archive.org/contacts/). 
+If you have any questions or concerns regarding our privacy policy please direct them [HERE](http://pmemory.com/contacts/).
 
-You may also contact us [HERE](https://web.archive.org/contacts/).
-
-| 
-
-### [Testimonials](http://www.pmemory.com/testimonials/)
-
-_"This course is indeed phenomenal"_
-
-This course is indeed phenomenal or perhaps I should use a more effective word, but I don't know one.
-
-There is nothing like this anywhere else even to say ''this is better than that'' and still this would be the best. If some one is interested in taking their memories to great levels, this course has to be taken without second thought.   
-
-
-Ravi Kiran, 28, UK
-
-* * *
-
-_"This course has changed my life!"_
-
-All I can say is, this class is everything I expected and more. I was a little skeptical when I signed up, but I have been blown away by the extensive amount of information I've learn so far. I'm completely amazed.
-
-This course has changed my life. I recommend this class to anybody and everybody who wants to improve their memory.   
-
-
-Amanda K, 24, RN, LA, USA   
-
-
-* * *
-
-_"I'm just blown away by this course!_
-
-Well, I'm just blown away by this course! Let me tell you this: Pmemory is a GODSEND for humanity, the Holy Grail, the Magic Bullet that we, lovers of knowledge, have always waited for...   
-
-
-No, I'm not exaggerating, I'm giving Pmemory their due for having developed such a complete and serious system, that absolutely pulverize every other course out there from the start.
-
-Francesco Flavio Gioia, 22, student, Italy   
-
+You may also contact us [HERE](http://pmemory.com/contacts/).
