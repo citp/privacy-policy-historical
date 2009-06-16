@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalcupid.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219201542id_/http%3A//www.internationalcupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalcupid.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180546id_/http%3A//www.internationalcupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # InternationalCupid.com | Privacy Policy
 
