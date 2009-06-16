@@ -1,26 +1,10 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165616id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616075722id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Privacy Policy
 
+[News](https://web.archive.org/archive.html)[Reviews](https://web.archive.org/reviews.html)[Pictures](https://web.archive.org/pics.html)[Release Dates](https://web.archive.org/releasedates.html)[Soundtracks](https://web.archive.org/soundtracks1.html)[Editorials](https://web.archive.org/editorials2.html)[Forums](http://www.rpgfan.com/boards/index.php)[Features](https://web.archive.org/features.html)[Staff](https://web.archive.org/staff.html)  
   
-[News](https://web.archive.org/archive.html)  
-[Reviews](https://web.archive.org/reviews.html)  
-[Previews](https://web.archive.org/previews.html)  
-[Pictures](https://web.archive.org/pics.html)  
-[Release Dates](https://web.archive.org/releasedates.html)  
-  
-[Message Boards](http://www.rpgfan.com/boards/index.php)  
-  
-[Soundtracks](https://web.archive.org/soundtracks1.html)  
-  
-[Editorials](https://web.archive.org/editorials2.html)  
-[Features](https://web.archive.org/features.html)  
-[Staff](https://web.archive.org/staff.html)  
-[Contact Us](https://web.archive.org/contactus.html)
-
-[](https://web.archive.org/donations/index.html)
-
-|  | Privacy Policy  
+| Privacy Policy  
 ---  
   
 By using this site, you agree to the Privacy Policy of RPGFan. If you do not agree to the Policy, please do not use this site. RPGFan reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please e-mail us at [webmaster@rpgfan.com](mailto:webmaster@rpgfan.com).
@@ -57,7 +41,4 @@ RPGFan maintains appropriate safeguards to ensure the security, integrity and pr
   
 Cookies  
   
-Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by RPGFan, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. RPGFan does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.  
-  
-|   
-© 1999-2008 RPGFan - [Legal](https://web.archive.org/legal.html) \- [Privacy Policy](https://web.archive.org/privacy.html) \- [Advertising Info](https://web.archive.org/adinfo.html) | 
+Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by RPGFan, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. RPGFan does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
