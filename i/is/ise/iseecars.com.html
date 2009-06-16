@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iseecars.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216123149id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iseecars.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616131052id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -23,25 +23,100 @@
 				sync :true
 			});
 		}
+	}
+
+	function reportInaccurateListing(divId, id, page, url, auth) {
+		var userActionAjax = new sack();
+		userActionAjax.method = 'GET';
+		userActionAjax.setVar("listingId", id);
+		userActionAjax.setVar("auth", auth);
+		userActionAjax.setVar("reason", "Inaccurate");
+		userActionAjax.requestFile = '/report/';
+		userActionAjax.runAJAX('');
+	
+		track('/tracking/' + page + '/report inaccurate listing/' + url);
+		var e = document.getElementById(divId);
+		if (e != null) {
+			e.style.display = 'inline';
+		}
+	}
+
+	function reportUnavailableListing(divId, id, page, url, auth) {
+		var userActionAjax = new sack();
+		userActionAjax.method = 'GET';
+		userActionAjax.setVar("listingId", id);
+		userActionAjax.setVar("auth", auth);
+		userActionAjax.setVar("reason", "Unavailable");
+		userActionAjax.requestFile = '/report/';
+		userActionAjax.runAJAX('');
+	
+		track('/tracking/' + page + '/report unavailable listing/' + url);
+		var e = document.getElementById(divId);
+		if (e != null) {
+			e.style.display = 'inline';
+		}
+	}
+
+	function trackResultClick(action, sort, position) {
+		if (pageTracker) {
+			pageTracker._trackEvent("Result click", action, sort, position);
+		}
+	}
+</script>
+
+<link href="/css/style.css?12" rel="styleSheet" type="text/css">
+<link href="/css/autocomplete.css" rel="styleSheet" type="text/css">
+<!--Start Kampyle Exit-Popup Code--> 
+<script type="text/javascript">
+var k_push_vars = {
+	"view_percentage": 20,
+	"popup_font_color": "#000000",
+	"popup_background": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Would you be willing to give us a short (1 minute) feedback?",
+	"footer": "Thank you for helping us improve our website",
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "http://cf.kampyle.com/",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 8204092
 }
 </script>
-<link href="/css/style.css?3" rel="styleSheet" type="text/css">
-<link href="/css/autocomplete.css" rel="styleSheet" type="text/css">
+<script type="text/javascript" src="http://cf.kampyle.com/k_push.js"></script>
+<!--End Kampyle Exit-Popup Code-->
+
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->
 </head>
-<body onload="fadeMessageBox()">
-<script language="javascript" type="text/javascript" src="/app-js.jsp.sscache?1.65"></script>
+<body>
+<script language="javascript" type="text/javascript" src="/js/prototype.js"></script>
+<script language="javascript" type="text/javascript" src="/js/dynamic/app2.js"></script>
+<!--Start Kampyle Feedback Form Button-->
+<div id="k_close_button" class="k_float kc_top kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=8204092&amp;form_id=9105&amp;lang=en" target="kampyleWindow" id="kampylink" class="k_float k_top k_right" onclick="javascript:pageTracker._trackPageview('/tracking/kampyle feedback');k_button.open_ff();return false;"><img src="http://cf.kampyle.com/en-orange-band-up-right.gif" alt="Feedback Form"></a></div>
+<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button-->
 <!-- google analytics -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-285655-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-pageTracker._addIgnoredOrganic("iseecars");
-pageTracker._addIgnoredOrganic("iseecars.com");
-pageTracker._addIgnoredOrganic("www.iseecars.com");
+try {
+ var pageTracker = _gat._getTracker("UA-285655-1");
+ pageTracker._addIgnoredOrganic("iseecars");
+ pageTracker._addIgnoredOrganic("iseecars.com");
+ pageTracker._addIgnoredOrganic("www.iseecars.com");
+ pageTracker._trackPageview();
+} catch(err) {}
+
+function track(url) {
+	if (pageTracker) {
+		pageTracker._trackPageview(url);
+	}
+}
 </script>
 <!-- end google analytics -->
 <div id="page">
@@ -54,17 +129,20 @@ pageTracker._addIgnoredOrganic("www.iseecars.com");
 
 
 
-<div style="text-align: left;"><a style="font-weight: bold; text-decoration: none;" href="http://www.iseecars.com/Used_Cars"> <img alt="iSeeCars" src="/images/iseecars.gif" border="0">
+<div style="text-align: left;"><a style="font-weight: bold; text-decoration: none;" href="http://www.iseecars.com/Used_Cars"> <img alt="iSeeCars - used cars search engine" src="/images/iseecars.gif" border="0">
 </a></div></td>
-		
+		<td style="text-align: right;" valign="bottom"></td>
 	</tr>
 	<tr>
 		<td>
-		<div id="site-title">Search 1.8 million
-		used cars for sale across 3000+ websites</div>
+		<div id="site-title">Search 2.6 million
+		used cars for sale across 12000+
+		websites</div>
 		</td>
-		<td style="text-align: right;">Check out <a href="http://forum.iseecars.com/">iSeeCars Forum</a> For Tips and
-		Advice</td>
+		<td style="text-align: right;">
+<div>
+<span onclick="javascript: pageTracker._trackPageview('/tracking/header/promo/sharethis');"><script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=e7200349-c810-4f07-8261-545d69672759"></script>with friends on Facebook, del.ici.ous and more...</span> 
+</div></td>
 	</tr>
 </tbody></table>
 <div class="orange-line"></div>
@@ -129,33 +207,29 @@ privacy@iseecars.com
 
 
 
+
 <br>
 
 <!-- page -->
-<div id="footer">©2007-2008 iSeeCars (v1.16)
-<img alt="About Us" width="2" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/aboutUs.jsp">About Us</a> <img width="2" alt="Blog" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="http://forum.iseecars.com/">Forum</a> <img width="2" alt="Blog" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="http://blog.iseecars.com">Blog</a> <img width="2" alt="Help" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/help.jsp">Help</a> <img width="2" alt="Feedback" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/feedback.jsp">Feedback</a> <img width="2" alt="Partnership" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/partnership.jsp">Partnership</a> <img alt="Terms of Service" width="2" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/Terms.jsp">Terms of Service</a> <img alt="Privacy Policy" width="2" height="2" src="/images/bullet.gif" border="0" style="vertical-align: middle; padding-right: 2px; padding-left: 2px;">&nbsp;
-<a href="/Privacy.jsp">Privacy Policy</a></div>
+<div id="footer">©2007-2009 <a style="color: #333333; text-decoration: none;" href="/">iSeeCars</a> (v1.25)
+· &nbsp; <a rel="nofollow" href="/aboutUs.jsp">About Us</a>
+·&nbsp; <a rel="nofollow" href="/faq.jsp">FAQ</a> ·&nbsp; <a href="http://forum.iseecars.com/">Forum</a> · &nbsp; <a href="http://blog.iseecars.com">Blog</a> · &nbsp; <a rel="nofollow" href="/help.jsp">Help</a>
+· &nbsp; <a rel="nofollow" href="/feedback.jsp">Feedback</a> ·
+&nbsp; <a rel="nofollow" href="/partnership.jsp">Partnership</a>
+· &nbsp; <a rel="nofollow" href="/Terms.jsp">Terms of Service</a>
+· &nbsp; <a rel="nofollow" href="/Privacy.jsp">Privacy Policy</a></div>
 </div>
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-	_qacct = "p-28nYJ4IuIzUqA";
-	quantserve();
-</script>
-<noscript><a href="http://www.quantcast.com/p-28nYJ4IuIzUqA"
-	target="_blank"><img
-	src="http://pixel.quantserve.com/pixel/p-28nYJ4IuIzUqA.gif"
-	style="display: none;" border="0" height="1" width="1" alt="Quantcast" /></a>
-</noscript>
-<!-- End Quantcast tag -->
 
-<script src="/js/astracker.js?1" type="text/javascript"></script>
+
+
+
+
+<!-- performance tracking -->
+<script type="text/javascript">
+	pageTracker._trackEvent("Response time", "page", "/Privacy.jsp",
+			66);
+</script>
+
+
 
 </body></html>
