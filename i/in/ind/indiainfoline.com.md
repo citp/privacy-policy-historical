@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070911id_/http%3A//www.indiainfoline.com/footer/privacy.asp%3Flmn%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151647id_/http%3A//www.indiainfoline.com/footer/privacy.asp%3Flmn%3D0) for the most accurate reproduction.*
 
 # Indiainfoline.com
 
