@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051834id_/http%3A//www.hawaiiantel.com/CustomerService_PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190956id_/http%3A//www.hawaiiantel.com/CustomerService_PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Hawaiian Telcom: local - long distance - internet - wireless - yellow pages
 
