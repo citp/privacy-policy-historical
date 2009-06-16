@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030132id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fugly.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061523id_/http%3A//www.fugly.com/privacy) for the most accurate reproduction.*
 
 # Fugly.com Privacy Policy
 
-**Privacy and You at Fugly**  
+**  
+**  
+Updated April 8, 2009   
   
 ---  
   
@@ -15,11 +17,8 @@
   
 **Cookies **  
   
-> Additonally, **Fugly** uses an outside ad company to display ads. These ads may also contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-> 
-> **Fugly** uses cookies to make sure you don't see the same ad repeatedly.Cookies placed on your system from **Fugly** are never used to gather any information. They are only used to make your visit to **Fugly** faster and easier. Choosing to disable cookies in your browser will have no affect on your ability to visit **Fugly**.
-> 
 >   
+>  Fugly uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
 >   
   
 **External Links**  
