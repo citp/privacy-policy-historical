@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ridersreviews.com privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906181635id_/http%3A//www.ridersreviews.com/contact/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridersreviews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202841id_/http%3A//www.ridersreviews.com/contact/privacy-policy-disclaimer) for the most accurate reproduction.*
 
-# Riders Reviews - Motorcycle reviews from those who ride » Privacy Policy - Disclaimer
+# Riders Reviews - Motorcycle reviews. » Privacy Policy - Disclaimer
 
 Disclaimer: The articles posted here are based on personal opinions from personal experiences. Consult a professional if you need advice on motorcycle related information and learning to ride, such as a motorcycle rider training facility.
 
