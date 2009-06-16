@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sears.ca privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217040539id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sears.ca privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616225112id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   
@@ -367,6 +367,7 @@ h2  {margin: 0.6em 0 0em 0; font-size: 1.3em; font-weight: bold;}
 h3  {margin: 0.3em 0 0.2em 0; font-size: 1.2em; font-weight: bold;}
 h4  {margin: 0 0 0.1em 0; font-size: 1em; font-weight: bold;}
 h5  {font-weight: bold; font-size: 11px; }
+h1.mainTitle{padding: 0; margin: 0; line-height: 1em;}
 /* forms */
 form                    {display: block; margin: 0; padding: 0;}
 select, input, textarea {font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #666666;}
@@ -396,6 +397,7 @@ table#logoStrip {margin-bottom: 2px;}
 #rMenu {width:146px; _width:160px; left:0; padding: 6px; padding-top: 0; margin: 0; border-left: solid 1px #AFC3D8;}
 #lMenu {width:146px; _width:160px; border-right: solid 1px #AFC3D8; padding:6px; padding-top: 0;}
 #breadcrumbs {margin:auto; padding:7px 7px; border: solid 1px #AFC3D8; border-bottom: none 0px}
+#breadcrumbs strong.mainTitle{font-size: 11px; font-weight: normal; color: #CC9900; vertical-align: middle;}
 #copyright   {text-align:center;}
 #footer         {margin:auto auto 10px auto !important; clear:both; border: solid 1px #AFC3D8 !important;}
 #footer table   {width:758px; margin:auto !important; border-collapse:collapse}
@@ -1123,6 +1125,14 @@ ul#topNav li#seeMore ul li#bottomRow {
   width: 100%;
   border: none;
 }
+/** Making the heights of some of the last elements in see more columns twice as big to make it look good **/
+ul#topNav li#seeMore ul li.column0 ul li.bottom,
+ul#topNav li#seeMore ul li.column0 ul li.bottom a,
+ul#topNav li#seeMore ul li.column1 ul li.bottom,
+ul#topNav li#seeMore ul li.column1 ul li.bottom a {
+  height: 44px;
+}
+                                                                                                                                                             
 /**Making the first column of the top nav wider to fit in a large french string **/
 /** New Search Bar and Search Stripe - Sears Site Refresh **/
 div#searchStrip {
@@ -1373,6 +1383,7 @@ hr.solid {border: none 0 #FFFFFF !important; border-top: solid 1px #AFC3D8 !impo
 .greyText { color: #666666;}
 .resultsCenter  { font-weight: bold; font-size: 12px; color: #CC9900; text-align: center; border: 1px;}
 .w44 { width: 44%; }
+.w42 { width :42%;}
 .w85 { width:85%; }
 .w150px { width:150px; }
 div#toplogo_basket { height: 18px;}
@@ -1416,7 +1427,7 @@ div.pTitle  {margin:0.3em 0 0.4em 0;}
 .dropdraw  { padding-left:4px;padding-top:8px;}
 .itemDescription  { text-align: left; font-size: 11px; color: #666666;}
 .itemDescriptionBold  { text-align: left; font-size: 11px; color: #666666; font-weight: bold;}
-.mainTitle  { font-size:15px; font-weight: bold; color:#999999; text-align:left}
+.mainTitle  { font-size:15px; font-weight: bold; color:#999999; text-align:left;}
 .messagesNotice {width: 85%; border: solid 1px #AAAAAA;background-color: #FEF7EF; margin:1em auto; padding:10px 10px 10px 25px;}
 .dpMoreProducts  { padding-top:8px}
 .dpMoreProducts  li {list-style-type: disc; list-style-image:url(http://g-ecx.images-amazon.com/images/G/01/Sears/en_CA/core/common/bullet._V45421748_.gif);}
@@ -1472,6 +1483,14 @@ table.maGeneralFeatures td, table.maGeneralFeatures th {border: solid 1px #CCCCC
 .hideGlossaryPopOver { visibility: hidden; position: absolute;}
 .glossaryDetailPopOver { border: 1px solid #aca976; padding: 8px 8px 8px 8px; width: 250px; background-color: #ffffff; text-align: left;}
 .rightMiddle  {text-align:right; vertical-align:middle !important;}
+/* --- CSS for Bazaar Voice UI --- */
+.bvTabsPosition { margin-bottom:-3px; position:relative;width:283px;}
+.bvTabsHeader { clear:both;padding-top:30px; }
+.bvTabsContent { clear:both;background:#F4F7FC;border:1px solid #d2dcef;width:564px;}
+.bvDisplayBlock { display: block; padding-top:4px;}
+.bvDisplayNone { display: none; padding-top: 4px;}
+.averageRatingOuterIframe {clear:both; width:250px;height:70px;border:none;}
+.answerAreaOuterFrame {clear:both;width:250px;height:70px;border:none;}
 /* --------- search pages ---------*/
 a.pagination:link  { color: #597DB5; text-decoration: underline;}
 a.pagination  { color: #597DB5;}
@@ -2219,9 +2238,9 @@ div.shortPromotions ul li {
         <li class="column0">
           <ul>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/276068011?ie=UTF8&amp;searsBrand=core">wish shop</a></li>
+<a href="http://www.sears.ca/gp/node/n/396427011?ie=UTF8&amp;searsBrand=core">swimwear</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396768011?ie=UTF8&amp;searsBrand=core">holiday décor &amp; trees</a></li>
+<a href="http://www.sears.ca/gp/node/n/396473011?ie=UTF8&amp;searsBrand=core">home décor</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/689953011?ie=UTF8&amp;searsBrand=core">specialty size headquarters</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
@@ -2229,7 +2248,7 @@ div.shortPromotions ul li {
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/396450011?ie=UTF8&amp;searsBrand=core">babies</a></li>
             <li class="bottom"><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396433011?ie=UTF8&amp;searsBrand=core">women's jewellery</a></li>
+<a href="http://www.sears.ca/gp/node/n/396536011?ie=UTF8&amp;searsBrand=core">fitness</a></li>
           </ul>
         </li>
         <li class="column1">
@@ -2239,29 +2258,27 @@ div.shortPromotions ul li {
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/396533011?ie=UTF8&amp;searsBrand=core">music</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396455011?ie=UTF8&amp;searsBrand=core">toys</a></li>
+<a href="http://www.sears.ca/gp/node/n/396505011?ie=UTF8&amp;searsBrand=core">small kitchen appliances</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/396483011?ie=UTF8&amp;searsBrand=core">pet accessories</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/396471011?ie=UTF8&amp;searsBrand=core">window coverings</a></li>
             <li class="bottom"><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396424011?ie=UTF8&amp;searsBrand=core">dresses</a></li>
+<a href="http://www.sears.ca/gp/node/n/667614011?ie=UTF8&amp;searsBrand=core">bridal</a></li>
           </ul>
         </li>
         <li class="rightColumn column2">
           <ul>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396784011?ie=UTF8&amp;searsBrand=core">snowblowers</a></li>
+<a href="http://www.sears.ca/gp/node/n/401147011?ie=UTF8&amp;searsBrand=core">children's bedding coordinates</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/396482011?ie=UTF8&amp;searsBrand=core">luggage</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
 <a href="http://www.sears.ca/gp/node/n/397179011?ie=UTF8&amp;searsBrand=core">gps</a></li>
             <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/398152011?ie=UTF8&amp;searsBrand=core">fireplaces &amp; heaters</a></li>
-            <li><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/598407011?ie=UTF8&amp;searsBrand=core">EuroStyle shop</a></li>
+<a href="http://www.sears.ca/gp/node/n/396430011?ie=UTF8&amp;searsBrand=core">maternity</a></li>
             <li class="bottom"><!--[if lte IE 6.5]><iframe style="width: 168px; height: 47px; z-index: -1; filter:mask(); top: 0; left: 0px; position: absolute;"></iframe><![endif]-->
-<a href="http://www.sears.ca/gp/node/n/396534011?ie=UTF8&amp;searsBrand=core">dvd &amp; videos</a></li>
+<a href="http://www.sears.ca/gp/node/n/396478011?ie=UTF8&amp;searsBrand=core">storage</a></li>
           </ul>
         </li>
       </ul>
@@ -2311,9 +2328,9 @@ div.shortPromotions ul li {
     </ol>
   </form>
   <div id="searchStripImage">
-<div id="flash315390450_0"><map name="311726890"><area shape="rect" coords="1,6,367,27" href="/gp/browse.html?ie=UTF8&amp;node=1253595011&amp;searsBrand=core">
+<div id="flash479010430_0"><map name="479010370"><area shape="rect" coords="0,6,368,28" href="http://www.sears.ca/gp/search/?index=marketplace&amp;page=1&amp;sn=1&amp;size=12&amp;searsBrand=core&amp;field-keywords=calvin+klein&amp;url=node=APS&amp;Go.x=0&amp;Go.y=0">
 </map>
-<img src="http://g-ecx.images-amazon.com/images/G/01/00/00/03/11/72/68/311726890._V239851528_.jpg" width="370" alt="" usemap="#311726890" height="30" border="0"></div>
+<img src="http://g-ecx.images-amazon.com/images/G/01/00/00/04/79/01/03/479010370._V222526677_.jpg" width="370" alt="" usemap="#479010370" height="30" border="0"></div>
 <script language="Javascript">
 <!--
 var flash_majorVersion;
@@ -2390,9 +2407,9 @@ function load0() {
          }
        }
      }
-     var destination = document.getElementById('flash315390450_0');
+     var destination = document.getElementById('flash479010430_0');
      if ( destination ) {
-        write_flash(destination,'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000','dec8StartDate_marquee','370','30','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab','True','http://g-ecx.images-amazon.com/images/G/01/00/00/03/15/39/04/315390450._V238252654_.swf','TRUE','High','FALSE','opaque','','False','Showall','','','FFFFFF','','dec8StartDate_marquee','http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash');
+        write_flash(destination,'clsid:D27CDB6E-AE6D-11cf-96B8-444553540000','maywk4_marquee','370','30','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab','True','http://g-ecx.images-amazon.com/images/G/01/00/00/04/79/01/04/479010430._V222526676_.swf','TRUE','High','FALSE','opaque','','False','Showall','','','FFFFFF','','maywk4_marquee','http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash');
      }
 }
 load0();
@@ -2401,6 +2418,12 @@ load0();
   <div style="clear:both;"></div>
 </div>
 <div style="clear:both;"></div>
+<script type="text/javascript">
+  var searchBox = document.getElementById("keywordID");
+  if (searchBox) {
+   searchBox.focus();
+  }
+</script>  
 <div id="main">
 <table class="layout2" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -2425,7 +2448,7 @@ load0();
 <h3 class=" scHeaderClass "> helpful resources</h3>
 <ul>
 <li><a href="/gp/browse.html?ie=UTF8&amp;node=16397021&amp;no=16397281&amp;searsBrand=core&amp;me=A10FHFRJZ0GJG3">contact us</a></li>
-<li><a href="https://www.sears.ca:443/gp/redirect.html?%5Fencoding=UTF8&amp;location=https%3A%2F%2Fwww4.registration.stage.sears.ca%2Fwebapp%2FCCRWebApp%2FJSP%2FSearsCCRWebSite%2FSigninPage.jsp%3FsearsBrand%3Dcore&amp;token=574D39FDE570D634EF5CD400F2C061A19A429878">my account</a></li>
+<li><a href="https://www4.registration.stage.sears.ca/webapp/CCRWebApp/JSP/SearsCCRWebSite/SigninPage.jsp"> my account </a></li>
 <li><a href="/gp/browse.html?ie=UTF8&amp;node=16397031&amp;no=16397281&amp;searsBrand=core&amp;me=A10FHFRJZ0GJG3">common questions</a></li>
 <li><a href="/gp/browse.html?ie=UTF8&amp;node=16396981&amp;no=16397281&amp;searsBrand=core&amp;me=A10FHFRJZ0GJG3">new visitors to sears.ca</a></li>
 <li><a href="/gp/browse.html?ie=UTF8&amp;node=16396991&amp;no=16397281&amp;searsBrand=core&amp;me=A10FHFRJZ0GJG3">pricing &amp; ordering</a></li>
@@ -2451,7 +2474,7 @@ load0();
 </li><li><strong>Limiting Collection:</strong> Our collection of Personal Information is limited to what is reasonable under the circumstances and your information will be used only for the purpose for which it is collected. 
 </li><li><strong>Security:</strong> Your Personal Information is kept confidential and secure and is not disclosed to anyone outside our group of companies and our selected third party service providers/business partners &nbsp;without your consent, unless required by law. 
 </li><li><strong>Access:</strong> You have the right to access your own Personal Information, and to correct any inaccuracies. </li></ul></span></td></tr></tbody></table></td></tr></tbody></table></div></div><br>
-<a name="center-2"></a><div class="scCenterWidgetSpacing"><div class="scEditorialWidget"><table border="0"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="0" width="100%"><tbody><tr><td><span>Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in September 2007.</span></td></tr></tbody></table></td></tr></tbody></table></div></div><br>
+<a name="center-2"></a><div class="scCenterWidgetSpacing"><div class="scEditorialWidget"><table border="0"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="0" width="100%"><tbody><tr><td><span>Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in March 2009.</span></td></tr></tbody></table></td></tr></tbody></table></div></div><br>
 </td><!-- td content end -->
 </tr>
 </tbody></table>
@@ -2524,14 +2547,14 @@ load0();
   </li>
 </ul>
 <p class="small">
-  Copyright © 2008, Sears Canada Inc. All rights reserved. Powered by Amazon Services Canada, Inc.
+  Copyright © 2009, Sears Canada Inc. All rights reserved. Powered by Amazon Services Canada, Inc.
 </p>
 <!-- SiteCatalyst code version: H.0.
 Copyright 1997-2005 Omniture, Inc.
 More info available at http://www.omniture.com -->
 <script language="JavaScript"><!--
 var s_account="amznsearscaprod"//--></script>
-<script language="Javascript" src="/omniture/sears/s_code.js"></script><img name="s_i_amznsearscaprod" height="1" width="1" border="0" alt="" src="https://amazonsearsca.122.2O7.net/b/ss/amznsearscaprod/1/H.1-pdv-2/s67643481619715?[AQB]&amp;ndh=1&amp;t=1/1/2020%206%3A56%3A59%206%200&amp;ns=amazonsearsca&amp;pageName=Browse%3Acustomer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;g=https%3A//web.archive.org/web/20081217040539id_/http%253A//www.sears.ca/gp/node/n/16397281%253Fie%253DUTF8%2526searsBrand%253Dcore&amp;cc=CAD&amp;ch=Catalog&amp;c1=Catalog%3Aprivacy%20and%20security&amp;h1=customer%20service%7Cprivacy%20and%20security%7Cyour%20privacy&amp;c4=customer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;v5=customer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;c6=core&amp;c11=English&amp;v14=Browse&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="Javascript" src="/omniture/sears/s_code.js"></script><img name="s_i_amznsearscaprod" height="1" width="1" border="0" alt="" src="https://amazonsearsca.122.2O7.net/b/ss/amznsearscaprod/1/H.1-pdv-2/s63142713874506?[AQB]&amp;ndh=1&amp;t=1/1/2020%206%3A57%3A0%206%200&amp;ns=amazonsearsca&amp;pageName=Browse%3Acustomer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;g=https%3A//web.archive.org/web/20090616225112id_/http%253A//www.sears.ca/gp/node/n/16397281%253Fie%253DUTF8%2526searsBrand%253Dcore&amp;cc=CAD&amp;ch=Catalog&amp;c1=Catalog%3Aprivacy%20and%20security&amp;h1=customer%20service%7Cprivacy%20and%20security%7Cyour%20privacy&amp;c4=customer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;v5=customer%20service%3Eprivacy%20and%20security%3Eyour%20privacy&amp;c6=core&amp;c11=English&amp;v14=Browse&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" src="/omniture/sears/s_config_searsca.js"></script>
 <script language="Javascript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
@@ -2586,6 +2609,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-5194236-1");
+pageTracker._setDomainName("sears.ca");
 pageTracker._trackPageview();
 </script>
 </div>
