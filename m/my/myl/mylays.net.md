@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mylays.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060601id_/http%3A//www.mylays.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylays.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180755id_/http%3A//www.mylays.net/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Mylays.net
+# Untitled Document
 
 **About Mylays.net**
 
-mylays.net is an online website that allows the users of MySpace.com to customize their profiles
+mylays.net is an online website that allows the users of MySpace.com to customize their profiles 
 
 **Information Collection and Use by Mylays.net**  
-mylays.net logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+mylays.net logs non-personally-identifiable information including IP address, demographic data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. 
 
 **Links**
 
