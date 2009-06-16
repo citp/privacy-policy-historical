@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615130151id_/http%3A//www.itwire.com/content/view/1945/893) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183938id_/http%3A//www.itwire.com/content/view/1945/893) for the most accurate reproduction.*
 
 # iTWire - PRIVACY
+
+[](http://www.addthis.com/bookmark.php)
 
 [ SECURITY & PRIVACY POLICY](http://www.itwire.com.au/privacy/)
 
@@ -53,11 +55,11 @@ Disclaimer
 This Disclaimer and Exclusion of Liability applies to ITWire Pty.Ltd (CAN 115579069), this web site, newsletters or and any other site or publication containing ITWire name. 
 
 ITWire encourages any party viewing this web site or newsletter to exercise discretion while browsing the Internet. ITWire does not represent, warrant, or endorse the accuracy, reliability, copyright compliance, completeness or timeliness of any of the information, content, views, opinions, representations or advertisements contained on, distributed, linked, downloaded or accessed from any of the services contained on this web site or on ITWire newsletters. ITWire accepts no responsibility for the comments, views and opinions of others who may, from to time, have those comments, views and opinions carried on the ITWire site or in the ITWire Update newsletter.  
-Your use of this Website is at your own risk. ITWire does not warrant that the site is free of viruses or other components that may infect, harm or cause damage to your computer equipment or any other property when you access, browse, download from or otherwise use this website. Under no circumstances, including but not limited to ITWires ' own negligence, shall ITWire be liable for any consequential, direct, incidental, indirect, or other special damages related to the use or the inability to use all errors or omissions in the contents and functioning of this website. ITWire and our website may contain links to sites and resources that are maintained by third parties. If you choose to visit these, please note that ITWire is not responsible for the privacy practices, content or availability of such sites or resources. ITWire does not endorse or is liable for any content, advertising, products, or other information, comment or opinions available from third-parties, their sites or resources. ITWire is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use or reliance on any such content or services available on these sites or resources, or in the comments and opinions of these third-parties.
+Your use of this Website is at your own risk. ITWire does not warrant that the site is free of viruses or other components that may infect, harm or cause damage to your computer equipment or any other property when you access, browse, download from or otherwise use this website. Under no circumstances, including but not limited to ITWire’s ' own negligence, shall ITWire be liable for any consequential, direct, incidental, indirect, or other special damages related to the use or the inability to use all errors or omissions in the contents and functioning of this website. ITWire and our website may contain links to sites and resources that are maintained by third parties. If you choose to visit these, please note that ITWire is not responsible for the privacy practices, content or availability of such sites or resources. ITWire does not endorse or is liable for any content, advertising, products, or other information, comment or opinions available from third-parties, their sites or resources. ITWire is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use or reliance on any such content or services available on these sites or resources, or in the comments and opinions of these third-parties.
 
 TERMS OF USE
 
-Your use of our internet site or daily newsletter, or any of the products or services offered on the site or newsletter (collectively the ғservices) is subject to these Terms of Use (these ԓTerms). We may modify these terms at any time without notice to you by posting revised Terms on our site. Your use of our site or newsletter constitutes your binding acceptance of these terms, including any modifications that we make.
+Your use of our internet site or daily newsletter, or any of the products or services offered on the site or newsletter (collectively the “services”) is subject to these Terms of Use (these “Terms”). We may modify these terms at any time without notice to you by posting revised Terms on our site. Your use of our site or newsletter constitutes your binding acceptance of these terms, including any modifications that we make.
 
 We have the right, but not the obligation, to take any of the following actions in our sole discretion at any time and for any reason without giving you any prior notice:
 
@@ -78,7 +80,7 @@ You may contact ITWire by sending an email to [editor@iTWire.com.au](mailto:edit
 
 TERMS OF USE
 
-Your use of our internet site or daily newsletter, or any of the products or services offered on the site or newsletter (collectively the ԓservices) is subject to these Terms of Use (these ԓTerms). We may modify these terms at any time without notice to you by posting revised Terms on our site. Your use of our site or newsletter constitutes your binding acceptance of these terms, including any modifications that we make.
+Your use of our internet site or daily newsletter, or any of the products or services offered on the site or newsletter (collectively the “services”) is subject to these Terms of Use (these “Terms”). We may modify these terms at any time without notice to you by posting revised Terms on our site. Your use of our site or newsletter constitutes your binding acceptance of these terms, including any modifications that we make.
 
 We have the right, but not the obligation, to take any of the following actions in our sole discretion at any time and for any reason without giving you any prior notice:
 
