@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010517id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winonadailynews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071929id_/http%3A//www.winonadailynews.com/privacy) for the most accurate reproduction.*
 
 # [component:headline] : Winona Daily News
 
