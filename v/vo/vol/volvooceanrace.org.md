@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609182413id_/http%3A//www.volvooceanrace.org/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanrace.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616210326id_/http%3A//www.volvooceanrace.org/privacy-policy) for the most accurate reproduction.*
 
-# Volvo Ocean Race 2008 - 2009
+# Volvo Ocean Race 2008/2009
 
-### Data Protection Policy & Terms & Conditions  
-
-
-**Volvo Event Management (UK) Limited ("VEMUK"), organiser of the Volvo Ocean Race, has created this statement in order to demonstrate our firm commitment to your privacy and security. The following discloses the information gathering and dissemination practices for Web sites operated by VEMUK. References in this policy to "Volvo Ocean Race" are references to VEMUK, acting in connection with the operation and hosting of the Volvo Ocean Race Web sites.**
+### ****
 
 ### Data Protection Compliance – our commitment to you
 
@@ -17,7 +14,7 @@ In order to protect your privacy, VEMUK is registered in accordance with and see
 
 **_Volvo Group_** means the subsidiary companies of VCC and ABV, namely Volvo Cars, Volvo Trucks, Volvo Buses, Volvo Construction Equipment, Volvo Penta, Volvo Aero, Volvo Financial Services
 
-**_Race Partners_** means Volvo Car Corporation and AB Volvo Group; race sponsors Schenker, Wallenius Wilhelmsen, Thrane & Thrane, France Telecom, Inmarsat and Gant; race syndicate sponsors ABN AMRO, Ericsson, Disney, VIVO, Motorola, QUALCOMM, ThyssenKrupp, NIVEA Sun, Agora Senior Corretora de Valores, APEX Brazil, Varig, ING Real Estate Finance, Telefonica; race suppliers Silva, ACR Electronics, Musto, Waterford, Virtual Spectator, Volvo Penta, Volvo IT. This is not an exclusive list of the Volvo Ocean Race Partners – VEMUK reserves the right to add other sponsors and suppliers to this list at any time
+**_Race Partners_** means Volvo Car Corporation and AB Volvo Group; race sponsors Schenker, Wallenius Wilhelmsen, Thrane &amp; Thrane, France Telecom, Inmarsat and Gant; race syndicate sponsors ABN AMRO, Ericsson, Disney, VIVO, Motorola, QUALCOMM, ThyssenKrupp, NIVEA Sun, Agora Senior Corretora de Valores, APEX Brazil, Varig, ING Real Estate Finance, Telefonica; race suppliers Silva, ACR Electronics, Musto, Waterford, Virtual Spectator, Volvo Penta, Volvo IT. This is not an exclusive list of the Volvo Ocean Race Partners – VEMUK reserves the right to add other sponsors and suppliers to this list at any time
 
 ### When do we collect information and how do we process it?
 
@@ -34,7 +31,7 @@ Also, we may transfer your personal information to purchasers or subsidiaries (a
 Your data will be used to facilitate a number of different services which have been mentioned above.. In all cases, all data capture points will clearly detail what types of information we are collecting about you, as well as the uses the Volvo Ocean Race intends to make of this information, most of which have been set out in this privacy policy.
 
 ### Registration Page  
- 
+
 
 ### \- Volvo Opt-In
 
