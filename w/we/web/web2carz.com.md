@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053955id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154445id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Used Car Search, New Car Search, Auto Finance Advice and Loans, Car Shopping Tips...
 
 Web2Carz PRIVACY STATEMENT
 
-_Last Updated: Jan 14, 2008_
+_Last Updated: March 13, 2009_
 
 Web2Carz recognizes the importance of protecting the privacy of all information provided by users of our web sites and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by Web2Carz. 
 
@@ -24,7 +24,11 @@ Our web sites, newsletters and, from time to time, certain other products and se
 
 For example, we may use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters. 
 
-In addition, some of our business affiliates use cookies on our web sites and in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for Web2Carz products and services when you visit certain Web2Carz Web sites. This technology uses information about your visits to, and search terms used at this and other sites (not including your name, address, or other personal information), to serve ads to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>). In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partners, to help manage our online advertising for Web2Carz products and services. These web beacons enable an ad server to recognize a browser's cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable. 
+In addition, some of our business affiliates use cookies on our web sites and in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for Web2Carz products and services when you visit certain Web2Carz Web sites. This technology uses information about your visits to, and search terms used at this and other sites (not including your name, address, or other personal information), to serve ads to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>). 
+
+Google, as a third party vendor, uses cookies to serve ads on Web2Carz. Google's use of the DART cookie enables it to serve ads to our users based on their visit to Web2Carz and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partners, to help manage our online advertising for Web2Carz products and services. These web beacons enable an ad server to recognize a browser's cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable. 
 
 We also may use an email delivery and marketing company to send emails (including newsletters) for which you have registered (or otherwise agreed to receive). Web beacons and cookies may be used in such email messages to help us measure the effectiveness of our advertising and how customers use our web site and other products and services. 
 
@@ -34,7 +38,7 @@ We may combine demographic information supplied by a customer at registration wi
 
 **WITH WHOM YOUR INFORMATION IS SHARED**
 
-Access to the information we obtain about you resulting from loan application submission is restricted to only those service providers who need to know that information for the purpose of purchasing an automobile or obtaining credit. When you leave the box checked stating "Yes, I want to receive information and offers from email-web2carz.com & Web2Carz" - you explicitly authorize us to share your information with Datran Media and other Web2Carz partners to contact you via email. 
+Access to the information we obtain about you resulting from loan application submission is restricted to only those service providers who need to know that information for the purpose of purchasing an automobile or obtaining credit. When you leave the box checked stating "Yes, I want to receive information and offers from email-web2carz.com & Web2Carz" - you explicitly authorize us to share your information with Datran Media and other Web2Carz 3rd party marketing partners to contact you via email. 
 
 Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. 
 
