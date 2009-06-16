@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042831id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616155606id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
 
 # Noozhawk.com - local news and information for Santa Barbara County
 
