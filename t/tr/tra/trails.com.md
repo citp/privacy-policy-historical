@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821131749id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616141418id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
 
 Trails is a trademark or registered trademark of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2008. Demand Media, Inc.
+Copyright © 2009. Demand Media, Inc.
