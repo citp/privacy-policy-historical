@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturemade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031049id_/http%3A//www.naturemade.com/UserAccount/uar_policies.asp%3Ftab%3DAboutUs%26section%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturemade.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064138id_/http%3A//www.naturemade.com/UserAccount/uar_policies.asp%3Ftab%3DAboutUs%26section%3D2) for the most accurate reproduction.*
 
 # NatureMade Wellness Advisor
 
