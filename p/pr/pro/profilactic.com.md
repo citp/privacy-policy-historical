@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilactic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052501id_/http%3A//profilactic.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilactic.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050704id_/http%3A//www.profilactic.com/privacy.jsp) for the most accurate reproduction.*
 
 # Profilactic.com - Privacy Policy
 
