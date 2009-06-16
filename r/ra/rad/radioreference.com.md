@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050650id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175944id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
 
-# RadioReference.com - Privacy Policy
-
-| 
-
-Site Navigation
-
- **General**
-
-* * *
-
-**Radio Features**
-
-* * *
-
-**Other Content**
-
-* * *
-
-**Wiki Categories**
-
-* * *
-
-**Contact/Misc**
-
-Sponsor Links
-
-|   | 
-
-RadioReference.com Privacy Policy
+# Privacy Policy
 
 **Policy**
 
@@ -50,7 +22,7 @@ RadioReference.com uses this cookie to identify you with your registration detai
 
 RadioReference.com works with some third party agencies that serve ads to this site. 
 
-_Last Updated: 2007-12-09 15:54:48_  
+Last Updated: 2007-12-09 15:54:48
+
   
-  
----|---|---
+
