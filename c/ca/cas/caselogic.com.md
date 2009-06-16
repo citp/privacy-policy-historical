@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001933id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062621id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # CD Cases, DVD Cases, MP3 Cases, Laptop Cases, Camera Cases, CD Wallets, DVD Wallets, iPod Cases, Laptop Sleeves - Case Logic
 
@@ -29,7 +29,7 @@ Our goal is to provide you with a safe and enjoyable shopping experience. When W
 We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address.
 
 **What about Cookies?**  
-"Cookies" are small pieces of information that a web site will store on your computer’s hard drive. Case Logic will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1.888.666.5780 
+"Cookies" are small pieces of information that a web site will store on your computerï¿½s hard drive. Case Logic will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1.888.666.5780 
 
 **Personally Identifiable Information**  
 This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, as applicable. Where possible, We indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature.
@@ -42,7 +42,7 @@ We use the information We collect from you to improve our products and services 
 When you enter a contest or other promotion, We may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. As a condition of receiving any prize, you will be required to complete, execute and return an Affidavit of Eligibility, a Liability Release, and where lawful, a Publicity Release, for us to ensure that you are eligible to receive the prize according to the Contest Rules. In cases where the sweepstakes or promotional offer is co-branded with or sponsored by another party, We may share your information to that party. Your consent to such promotional use and disclosure of this information is a condition of your participation.
 
 **E-mails**  
-It is possible to register as a Case Logic email subscriber directly from our site or through another source, such as a Case Logic sweepstakes hosted on another site or the co-registration network™. Upon registering, We will periodically send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. If you make a purchase on our site We will send you an order and shipping confirmation email. If you are a subscribed member, We will also send you emails to collect ratings and testimonials feedback related to your purchase. If you'd rather not receive emails, please visit the Your Account page to change your preferences.
+It is possible to register as a Case Logic email subscriber directly from our site or through another source, such as a Case Logic sweepstakes hosted on another site or the co-registration networkï¿½. Upon registering, We will periodically send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. If you make a purchase on our site We will send you an order and shipping confirmation email. If you are a subscribed member, We will also send you emails to collect ratings and testimonials feedback related to your purchase. If you'd rather not receive emails, please visit the Your Account page to change your preferences.
 
 **Fulfillment**  
 During the purchase process, We will share your information with certain intermediaries (e.g. UPS, or Cybercash) strictly to process and ship your order.
@@ -95,7 +95,8 @@ Need more help? You can refer to our Help Center or email one of our friendly Cu
 You may also write to us at:  
 Privacy Manager  
 Case Logic, Inc.  
-6060 Greenwood Plaza Blvd.  
+5500 Greenwood Plaza Blvd.  
+Suite 160  
 Greenwood Village, CO 80111
 
 We always enjoy hearing from you and appreciate your business.
