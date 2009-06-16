@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919075143id_/http%3A//www.vanetworking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616033226id_/http%3A//www.vanetworking.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Virtual Assistant Networking Association (VANA)
 
-Virtual Business Solutions (VBS) wants its members and customers to be happy with their purchases. If, for any reason, you are unhappy with your purchase, please contact VBS at 604-542-9664 for a RA (Return Authorization) number to start the return process if eligible.
+**Refund and Return Policy Plus Shipping/Handling Information**
 
-VBS will grant full refunds (less shipping and handling), for certain products returned to VBS in resalable condition within 30 days of the invoice date. All returns are subject to a 10 percent restocking fee. Return requests must be in writing and obtain an RA. Sale items and VAinsider Club Memberships are final sales and non-refundable.
+Virtual Business Solutions (VBS) wants its members and customers to be happy with their purchases. If you are unhappy with your purchase, please contact us at 604-542-9664 for a RA number (Return Authorization) number to start the return process if eligible.
 
-You may be subject to import duties and taxes, which are levied once the package reaches your country. Additional charges for customs clearance must be borne by you; we have no control over these charges and cannot predict what they may be. Customs policies vary widely from country to country; you should contact your local customs office for further information. Additionally, when ordering from VBS, you are considered the importer of record and must comply with all laws and regulations of the country in which you are receiving the goods.
+VBS will grant refunds (less shipping and handling), for our own products (exluding *) returned to VBS in resalable condition and original packaging within 15 days of the invoice date.  The Virtual Business Startup System (VBSS) has a return date exception of of 45 days from date of invoice.. All returns are subject to a 10% restocking fee which covers restocking administrative costs. Return requests must be in writing and be accompanied by a RA.number. There are no price guarantees on any products.and some discounts are limited-time offers only. VBS may offer a 7 day price guarantee against sale items if purchaser contacts VBS during sale period. All exchanges or returns must follow the above RA process. 
 
-> **Shipping & Handing Info:   
->  ** $0 - $45.00 = $5.00  
->  $45.01 - $100.00 = $8.00  
->  $100.01 - $320.00 = $12.00  
->  $320.01 - $500 = $20.00  
->  $500.00+ Please contact for quote
+*Sale items, downloaded products like ebooks and VAinsider Track Memberships are final sales and are non-refundable. Refunds from products from third party affiliate programs are dealt with directly by the third party themselves and VBS is not responsible for contact with third party nor refunds.
+
+You may be subject to import duties and taxes, which are levied once the package reaches your country. Additional charges for customs clearance must be borne by you; we have no control over these charges and cannot predict what they may be. Customs policies vary widely from country to country; you should contact your local customs office for further information. Additionally, when ordering from VBS, you are considered the importer of record and must comply with all laws and regulations of the country in which you are receiving the goods. 
+
+To prevent fraudlent acts, refunds are only issued back through the same payment process as the payment was made through and no substitutions are allowed.  ie) If you paid by your Visa card then the refund can only be issued back to the same Visa card number you paid with and not a different credit card/cash/cheque/etc.
 
 Most orders will be mailed within 5 days of receipt and be sent by Expedited Parcel or Express Post with delivery approximately 8 to 14 days later anywhere in North America. International orders, please email for shipping and handling pricing.
 
