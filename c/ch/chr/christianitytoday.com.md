@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031722id_/http%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154052id_/http%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
@@ -86,7 +86,7 @@ CTI's Internet sites are general audience sites, and CTI does not knowingly coll
 How to Update Your Information
 
 E-mail Newsletters  
-You may subscribe and unsubscribe to our newsletters by going to [www.ChristianityToday.com/go/nltool](http://www.christianitytoday.com/go/nltool). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
+You may subscribe and unsubscribe to our newsletters by going to [http://myaccount.christianitytoday.com/](https://secure2.christianitytoday.com/myaccount/?page=newsletters). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
 Magazines, Products or Services  
 Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:
