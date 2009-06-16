@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talash.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050203id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talash.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180827id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.*
 
 # Send Flowers, Cakes, Sweets, Salwar Kameez, Sarees, Gifts to India
 
