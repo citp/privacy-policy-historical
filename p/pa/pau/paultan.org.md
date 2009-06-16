@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015548id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154641id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,8 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 
 paultan.org respects your privacy. paultan.org’s web server gather standard information that the common web statistics programs like AWStats and Webalizer uses. This includes IP address, referring web site, and any search engine keywords. These reporting features are included in our web hosting package and are provided to paultan.org by our web host. paultan.org may feature affiliate advertising that may gather information and data through the use of browser cookies. These cookies are beyond the control of paultan.org.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click [here](http://www.google.co.uk/privacy_ads.html).
 
 We never sell or share your personal information with another party.
 
