@@ -1,21 +1,26 @@
-<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216105813id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vacationoutlet.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616172801id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
-<meta name="Description" content="Find the best cruise and vacation deals on the Internet, make cruise and hotel and reservations online, and research vacation destinations online at Vacation Outlet ">
+
+			<meta name="Description" content="Find the best cruise and vacation deals on the Internet, make cruise and hotel and reservations online, and research vacation destinations online at Vacation Outlet ">
 			<meta name="keywords" content="Cruise, Cruises, Luxury Cruises, All-Inclusive Cruises, Mediterrean Cruise, Panama Cruise, Hawaiian Cruise, Alaska Cruise, Disney Cruise, European Cruise, Cruise Vacation, Norwegian Cruise Line, Royal Carribean, Carnival, Celebrity Cruises">
+
+
 			<meta name="ROBOTS" content="ALL,NOODP">
 			<meta name="GOOGLEBOT" content="INDEX,FOLLOW">
 			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 			<meta http-equiv="Content-Language" content="en-us">
-			<meta name="copyright" content="©Copyright 2006 World Travel Holdings, Inc. Vacation Outlet  and the respective authors">
+			<meta name="copyright" content="Â©Copyright 2006 World Travel Holdings, Inc. Vacation Outlet  and the respective authors">
 			<meta http-equiv="imagetoolbar" content="no">
 			<meta name="MSSmartTagsPreventParsing" content="true">
 			<meta name="Rating" content="General">
 			<meta name="revisit-after" content="1 Day">
 			<meta name="doc-class" content="Living Document">
 			<meta name="Distribution" content="Global">
+
+ 
 
 
 
@@ -27,22 +32,271 @@
 
 
 
-	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-	</script>
+
+
+
+
+
+
+
+
+
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
 	<script type="text/javascript">
-		var _uacct="UA-30167-1"; // set up the Urchin Account Number
-		urchinTracker();
+		var pageTracker = _gat._getTracker("UA-30167-1");
+		pageTracker._trackPageview();
 	</script>
+	<script language="JavaScript">
+   
+    function CallUrchin(event_name)
+    {
+    		pageTracker._trackPageview(event_name);
+			//alert(event_name);
+		return true;
+    }
+    
+// this function gets the destination name the user changes to in the widget on the results page and sends it to GA
+function getValueDropdown(formName)
+{
 	
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.places.options[formDOM.places.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Destination/" + dropValue);
+	
+}
+
+
+// this function gets the amount of days out the user chooses in the main widget on the results page and sends it to GA
+function getValueDropdown2(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.month.options[formDOM.month.selectedIndex].value;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+	
+var day1, day2;
+var month1, month2;
+var year1, year2;
+var value1, value2;
+var date1, date2;
+var firstDate, secondDate;
+var msPerDay, dbd;
+
+value1 = dropValue;
+value2 = new Date();
+
+day1 = value1.substring (0, value1.indexOf ("/"));
+month1 = value1.substring (value1.indexOf ("/")+1, value1.lastIndexOf ("/"));
+year1 = value1.substring (value1.lastIndexOf ("/")+1, value1.length);
+
+day2 = value2.getUTCDate();
+month2 = value2.getUTCMonth() + 1;
+year2 = value2.getUTCFullYear();
+
+date1 = year1+"/"+day1+"/"+month1;
+date2 = year2+"/"+month2+"/"+day2;
+
+firstDate = Date.parse(date1);
+secondDate= Date.parse(date2);
+
+msPerDay = 24 * 60 * 60 * 1000;
+dbd = Math.round((firstDate.valueOf()-secondDate.valueOf())/ msPerDay);
+
+CallUrchin("/UserEvents/SearchResults/" + refineName + "/DepartureWindowDays/" + dbd);
+
+}
+
+// this function gets the cruiseline the user chooses in the main widget on the results page and sends it to GA
+function getValueDropdown3(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.c.options[formDOM.c.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/SearchResults/" + refineName + "/CruiseLine/" + dropValue);
+}
+
+// this function gets the vessel the user chooses in the main widget on the results page and sends it to GA
+function getValueDropdown4(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.v.options[formDOM.v.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Vessel/" + dropValue);
+}
+
+// this function gets the cruise length the user chooses in the main widget on the results page and sends it to GA
+function getValueDropdown5(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.days.options[formDOM.days.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/SearchResults/" + refineName + "/Length/" + dropValue);
+}
+
+
+// this function gets the port the user free types in the chaser widget on the results page and sends it to GA
+
+function getValueDropdown6(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.port.value;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Port/" + dropValue);
+}
+
+// this function gets the senior choice the user chooses in the chaser widget on the results page and sends it to GA
+
+function getValueDropdown7(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.IncludeSeniorRates.options[formDOM.IncludeSeniorRates.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Senior/" + dropValue);
+}
+
+// this function gets the alumni choice (yes or no, not the values) the user chooses in the chaser widget on the results page and sends it to GA
+
+function getValueDropdown8(formName)
+{
+	var dropValue;
+	var formDOM;
+	var refineName;
+	formDOM = document.getElementById(formName);
+	dropValue = formDOM.IncludeAlumniRates.options[formDOM.IncludeAlumniRates.selectedIndex].text;
+	if (formName = "AdvancedForm")
+	{
+	refineName = "Refine";
+	}
+	else
+	{
+	refineName = "Chaser_Refine";
+	}
+
+	CallUrchin("/UserEvents/Chaser_SearchResults/" + refineName + "/Alumni/" + dropValue);
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+
+
+
+        
+             
+
+
+
+
+
+
+
+
+
+
 
 	
 </head>
 
-<body bgcolor="" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="" class="bodymain" id="">
+<body bgcolor="" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="" class="bodymain" id="bodymain">
 
 
 <!--
-	server and timestamp info:blweb15:Tue Dec 16 00:28:11 EST 2008
+	server and timestamp info:blweb16:Tue Jun 16 13:20:20 EDT 2009
   -->
 	
 
@@ -57,178 +311,33 @@
 img{border: 0;}
 </style>
 
-
-
-<div id="pagebody">
-	        <div id="header">
-		        <a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/home/logo.gif" id="logo" width="238" height="37"></a>
-		        <span class="navButtonoff"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/home/tab_home_off.gif" width="49" height="24"></a></span>
-		        <span class="navButtonoff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/home/tab_vac_off.gif" width="94" height="24"></a></span>
-		        <span class="navButtonon"><a href="http://www.vacationoutlet.com/cruises/default.asp"><img src="/images_unique/vo/home/tab_cru_on.gif" width="84" height="24"></a></span>
-		        <span class="navButtonoff"><a href="http://www.vacationoutlet.com/car/default.asp"><img src="/images_unique/vo/home/tab_car_off.gif" width="79" height="24"></a></span>
-		        <span class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/lm/default.asp"><img src="/images_unique/vo/home/tab_lm_off.gif" width="79" height="24"></a></span>
-	        </div>
-	        <div id="subnavleft">
-	        
-	        <img src="/images_unique/vo/home/nav_icon_phone.gif" align="absmiddle" width="230" height="14"> &nbsp;&nbsp;
-	        
-	        </div>
-	        
-	        
-	        
-	         <div id="subnavright">
-		        
-		        <img src="/images_unique/blank.gif" border="0" width="1" height="1">
-		        
-	        </div>
-	       
-	        <div class="clear-both"> </div>
-	       
-	  <script type="text/javascript" src="/lib/javascript/general/addEvent.js"></script>
-	  <script type="text/javascript">
-	  function setCookie(c_name,value,expires) {
-	        var path = "/";
-	        var expires_date=new Date();expires_date.setDate(expires_date.getDate()+expires);
-	        document.cookie=c_name+ "=" +escape(value)+
-	        (( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + ( ( path ) ? ";path=" + path : "" );
-	        }
-	  function getCookie(c_name)
-		{
-			if (document.cookie.length>0)
-  			{
-  			c_start=document.cookie.indexOf(c_name + "=");
-  				if (c_start!=-1)
-    				{ 
-    				c_start=c_start + c_name.length+1; 
-    				c_end=document.cookie.indexOf(";",c_start);
-    				if (c_end==-1) c_end=document.cookie.length;
-    				return unescape(document.cookie.substring(c_start,c_end));
-    				} 
-  			}
-			return "";
-		}
-		function voEmailClose()
-			{
-			setCookie('voEmail','yes',30);				
-			document.getElementById('divEmail2').style.display = "none";
-			}
-		function emailSignupValidate2(url){
-				    		if (document.EmailForm2.email.value == ""){
-				    			alert ("Your email address is a required field.");
-				    			document.EmailForm2.email.focus();
-				                return false;
-				    		}else if (!ValidEmail(document.EmailForm2.email)){
-				    			alert ("Please enter a Valid Email Address.\r(e.g., yourname@provider.com)")
-				    			document.EmailForm.email.select();		
-				                return false;
-				            }else if (document.EmailForm2.zip.value == ""){
-				    			alert ("Your zip code is a required field.")
-				    			document.EmailForm2.zip.select();	
-				                return false;
-				            }else if (parseFloat(document.EmailForm2.zip.value)<=0 || isNaN(document.EmailForm2.zip.value)  || (document.EmailForm2.zip.value.indexOf('.') !== -1) || (trim(document.EmailForm2.zip.value).length >= 1 && trim(document.EmailForm2.zip.value).length < 5)){
-				    			alert ("Please enter your 5 digit zip code.")
-				    			document.EmailForm2.zip.select();	
-				                return false;
-				    		}else{
-				    		
-				   			document.EmailForm.submit();
-				   			
-				    		}		 
-				    	} 	
-		function getQueryVariable(variable) { 
-			  var query = window.location.search.substring(1); 
-			  var vars = query.split("&"); 
-			  for (var i=0;i<vars.length;i++) { 
-			    var pair = vars[i].split("="); 
-			    if (pair[0] == variable) { 
-			      return pair[1]; 
-			    } 
-			  } 
-			 } 
+	<div class="clear"></div>
+	<center>
+	<div align="center" style="width:780px;">
 			
-		var VoEmailCookie;
-		VoEmailCookie = getCookie("voEmail");
-		if (VoEmailCookie.length > 0)
-		{
-		
-		}
-		else if (getQueryVariable("signup")=="yes" && VoEmailCookie.length == 0) {			
-	        setCookie('voEmail','yes',30);
-	        
-				}
-		else if (getQueryVariable("signup")=="yes" && VoEmailCookie.length > 0) {
-		
-		}
-		else if (getQueryVariable("msg") != null && VoEmailCookie.length == 0) {
-		setCookie('voEmail','yes',30);
-		
-		}
-		else if (getQueryVariable("msg")!= null && VoEmailCookie.length > 0) {
-		
-		}
-		else {
-		
-				    if (!document.WTH) { 
-				        document.WTH = new Object();
-				    }
-				    function openEmailWin()
-				    {
-				     
-				   	var redirParam;
-				    var redirQuery;
-				    redirParam = window.location.search;
-				    var redirLength;
-				    redirLength = redirParam.length;
-				    if (redirLength == 0) {
-				    	redirQuery = window.location + "?";
-				    	}
-				   	else
-				    	{				    
-				   		redirQuery = window.location;
-				    	}
-				   
-				    
-				    var innerH = "<a onclick=voEmailClose();><div id='voEmailPopClose'></div></a><div id='emailformPop'><form method='post' action='/promotion/vo/email/process_email2.asp?redirect=home' name='EmailForm2' id='EmailForm2'>" +
-				                "<input type='hidden' name='lid' value='815' /><input type='hidden' name='redir' value='" + redirQuery + "' /><input type='hidden' name='elid' value='XWeZ' /><input type='hidden' name='nfields' value='9' /><input type='hidden' name='a' value='Subscribe' /><input type='hidden' name='sfids[3]' value='525' />" +
-				                "<div class='clear'></div>" +
-				                "<strong>Enter your email address:</strong><br /><input size='14' type='text' name='email' style='width:160px;'/>" +
-				                "<br /><br /><strong>Enter your zip code:</strong><br /><input type='text' name='zip' size='6' maxlength='5' style='width:75px;' /><br >" +
-				                "<input style='margin-top:10px;' type='image' value='Subscribe' border='0' src='/promotion/vo/email/VO-EmailPopUp_SignUp.gif' OnClick=setCookie('voEmail','yes',30);emailSignupValidate2(); id=image1 name=image1>" +
-				                "</form>"
-				     
-				
-				    document.getElementById('divEmail2').innerHTML = innerH;
-				   
-				    document.getElementById('divEmail2').style.display = "block";
-				    window.scroll(0,0);
-				    }
-				
-				    try {
-				         
-				          document.WTH.showEmailPop = function() {
-				          
-				          openEmailWin();
-				          
-				         
-				        }
-				        addEvent(window, "load", document.WTH.showEmailPop);
-				         
-				    }
-				    catch(e) {} 
-				    
-				    }
-				</script>
-				
-				<style>
-				#divEmail2 {background: url('/promotion/vo/email/VO-EmailPopUp_BG.gif') no-repeat top;filter:alpha(opacity=100); position:absolute; top:210px; left:400px; z-index:110; padding:0px; background-color:#FFFFFF; display:none; width:345px; height:329px; text-align:left;}
-				#voEmailPopClose {width:62px; height:21px; background: url('/promotion/vo/email/VO-EmailPopUp_Close.gif') no-repeat top; float:right;}
-				#emailformPop {width:200px; margin:170px 0px 0px 20px; text-align:left; font-weight:bold; color:#1e2ea3; font-family:arial; font-size:13px;}
-				#emailMessageContainer {width:200px; margin:170px 0px 0px 20px; text-align:left; font-weight:normal; color:#000000; font-family:arial; font-size:12px;}
-				</style>
-				<div id="divEmail2" style="display: block;"><a onclick="voEmailClose();"><div id="voEmailPopClose"></div></a><div id="emailformPop"><form method="post" action="/promotion/vo/email/process_email2.asp?redirect=home" name="EmailForm2" id="EmailForm2"><input type="hidden" name="lid" value="815"><input type="hidden" name="redir" value="https://web.archive.org/web/20081216053630id_/http://www.vacationoutlet.com/privacy.do?"><input type="hidden" name="elid" value="XWeZ"><input type="hidden" name="nfields" value="9"><input type="hidden" name="a" value="Subscribe"><input type="hidden" name="sfids[3]" value="525"><div class="clear"></div><strong>Enter your email address:</strong><br><input size="14" type="text" name="email" style="width:160px;"><br><br><strong>Enter your zip code:</strong><br><input type="text" name="zip" size="6" maxlength="5" style="width:75px;"><br><input style="margin-top:10px;" type="image" value="Subscribe" border="0" src="/promotion/vo/email/VO-EmailPopUp_SignUp.gif" onclick="setCookie('voEmail','yes',30);emailSignupValidate2();" id="image1" name="image1"></form></div></div>      
-				
+		<div id="VO_header_container">
+				<div id="vo_header_top">
+					<div id="vo_header_logo"><a href="http://www.vacationoutlet.com" target="_self"><img src="/images_unique/vo/header/logo_cruise.gif" width="240" height="45" border="0" alt="Vacation Outlet Cruises"></a></div>
+									
+						<div id="vo_header_phone"><img src="/images_unique/vo/header/header_phone.gif" border="0" alt="Vacation Outlet 1-800-TAKE-OFF" width="237" height="37"><br>
+							<div class="vo_header_ph_links"><a href="/cs/default.asp" class="whitelink">Make a Payment</a> | <a href="/cs/default.asp" class="whitelink">Customer Service</a> | <a href="/vo-sitemap.asp" class="whitelink">Sitemap</a></div>
+						</div>
+			
+				</div>
 
-
+				<div style="clear:both"></div>
+				<div id="VO_header_bottom">
+					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/"><img src="/images_unique/vo/header/tab_home-off.gif" border="0" alt="Vacation Outlet Home"></a></div>
+					<div class="navButtonon"><a href="http://www.vacationoutlet.com/cruises/default.asp"><img src="/images_unique/vo/header/tab_cruise-on.gif" border="0" alt="Vacation Outlet Cruises"></a></div>
+					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/packages/default.asp"><img src="/images_unique/vo/header/tab_vaca-off.gif" border="0" alt="Vacation Outlet Vacation Packages"></a></div>
+					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/default.asp"><img src="/images_unique/vo/header/tab_boston-off.gif" width="217" height="41" border="0" alt="Vacation Outlet Boston Vacations"></a></div>
+					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/carrental/default.asp"><img src="/images_unique/vo/header/tab_car-off.gif" border="0" alt="Vacation Outlet Car Rentals"></a></div>
+					<div class="navButtonoff"><a href="http://www.vacationoutlet.com/promotion/vo/lm/default.asp"><img src="/images_unique/vo/header/tab_lm-off.gif" border="0" alt="Vacation Outlet Last Minute Deals"></a></div>
+				</div>	
+				<div class="clear-both"></div>
+		</div> 
+		<div class="clear"></div>
+		<div style="background-color:#ffffff;">	     
 
 
 
@@ -287,11 +396,11 @@ img{border: 0;}
 						<td><img width="1" height="1" border="0" src="/images_unique/blank.gif"></td>
 					</tr>
 					<tr>
-						<td colspan="2" rowspan="2"><img width="6" height="6" border="0" src="/images_unique/crn_bodyL_j.gif"></td>
+						<td colspan="2" rowspan="2"><img width="6" height="6" border="0" src="/images_unique/crn_bodyL_v.gif"></td>
 						<td class="linecolor"><img width="1" height="1" border="0" src="/images_unique/blank.gif"></td>
 						<td class="linecolor"><img width="1" height="1" border="0" src="/images_unique/blank.gif"></td>
 						<td class="linecolor"><img width="1" height="1" border="0" src="/images_unique/blank.gif"></td>
-						<td colspan="2" rowspan="2"><img width="6" height="6" border="0" src="/images_unique/crn_bodyR_j.gif"></td>
+						<td colspan="2" rowspan="2"><img width="6" height="6" border="0" src="/images_unique/crn_bodyR_v.gif"></td>
 					</tr>
 					<tr>
 						<td bgcolor="#ffffff" colspan="3"><img width="1" height="5" border="0" src="/images_unique/blank.gif"></td>
@@ -354,9 +463,6 @@ img{border: 0;}
 								</tr>
 
 
-								<tr>
-									<td><img width="1" height="20" src="/images_unique/blank.gif"></td>
-								</tr>
 								
 								
 
@@ -400,6 +506,7 @@ img{border: 0;}
 	</tbody>
 </table>
 </div>
+</div>
 <div class="clearfloats">
 
 
@@ -410,24 +517,69 @@ img{border: 0;}
 
 
 
-<div class="clear"></div>
-		<div id="footerCap" style="margin-top: 2px;">
-		<img src="/images_unique/vo/home/footer_cap.gif" width="780" height="17">
-		</div>
-	<link rel="stylesheet" type="text/css" href="/vomaps/footer.css">
-	<div id="footerNav">
-		<a href="http://www.vacationoutlet.com/cs/default.asp" class="footerlinks">Customer Service</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/aboutus.asp" class="footerlinks">About Us</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/contact/default.asp" class="footerlinks">Contact Us</a>&nbsp;|&nbsp; <a href="/privacy.do" class="footerlinks">Privacy Policy</a>
+</div>
+</div>
+<center>
+	<link rel="stylesheet" type="text/css" href="/vomaps/footer.css">	
+	<div id="crosslinks"> 
+		<a href="http://www.vacationoutlet.com/promotion/vo/aruba/default.asp" class="footerlinks">Aruba Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/florida/default.asp" class="footerlinks">Florida Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/jamaica/default.asp" class="footerlinks">Jamaica Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/last_minute_vac/default.asp" class="footerlinks">Last-Minute Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/mexico/default.asp" class="footerlinks">Mexico Vacations</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/vegas/default.asp" class="footerlinks">Las Vegas Vacations</a><br><br>
+		
+		<a href="http://www.vacationoutlet.com/c/cruisemain.asp" class="footerlinks">Cruise Lines</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/aza_ten/default.asp" class="footerlinks">Azamara Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/ccl_ten/default.asp" class="footerlinks">Carnival Cruise Line</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/cha_ten/default.asp" class="footerlinks">Celebrity Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/cos_ten/default.asp" class="footerlinks">Costa Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=17" class="footerlinks">Crystal Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=18" class="footerlinks">Cunard Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=20" class="smlink">Disney Cruises</a><br>
+		<a href="http://www.vacationoutlet.com/promotion/vo/hal_ten/default.asp" class="footerlinks">Holland America Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/msc_ten/default.asp" class="footerlinks">MSC Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/ncl_ten/default.asp" class="footerlinks">Norwegian Cruise Line</a> | 
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=67" class="smlink">Oceania Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=40" class="smlink">Princess Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=41" class="smlink">Regent Cruises</a> |
+		<a href="http://www.vacationoutlet.com/promotion/vo/rci_ten/default.asp" class="footerlinks">Royal Caribbean</a><br>
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=48" class="smlink">Seabourn Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=50" class="smlink">Silversea Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=66" class="smlink">Uniworld Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=78" class="smlink">Viking River Cruises</a> |
+		<a href="http://www.vacationoutlet.com/c/cruiseline.asp?lineid=64" class="smlink">Windstar Cruises</a><br>
+
+		<a href="http://www.vacationoutlet.com/promotion/vo/alaska/default.asp" class="footerlinks">Alaska Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/bahamas/bahamas-cruises.asp" class="footerlinks">Bahamas Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/bermuda/default.asp" class="footerlinks">Bermuda Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/caribbean/default.asp" class="footerlinks">Caribbean Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/home2/default.asp" class="footerlinks">Close to Home Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/bostonbest/cdefault.asp" class="footerlinks">Cruise from Boston</a> | 
+		<a href="http://www.vacationoutlet.com/p/c/cruisefromNY" class="footerlinks">Cruise from NY</a><br> 
+		<a href="http://www.vacationoutlet.com/promotion/vo/disney/cruises.asp" class="footerlinks">Disney Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/europe/default.asp" class="footerlinks">Europe Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/groups/default.asp" class="footerlinks">Group Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/vo/holiday/default.asp" class="footerlinks">Holiday Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/promotion/lastminute/default.asp" class="footerlinks">Last-Minute Cruises</a> | 
+		<a href="http://www.vacationoutlet.com/shoretours/default.asp" class="footerlinks">Shore Excursions</a>
 	</div>
-	<div class="clear"></div>
+	
+	<div id="footerNav">
+		
+			<a href="http://www.vacationoutlet.com/cs/default.asp" class="footerlinks">Customer Service</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/aboutus.asp" class="footerlinks">About Us</a>&nbsp;|&nbsp;<a href="http://www.vacationoutlet.com/contact/default.asp" class="footerlinks">Contact Us</a>&nbsp;|&nbsp; <a href="http://www.vacationoutlet.com/privacy_policy.asp" class="footerlinks">Privacy Policy</a>
+		
+	</div>
+	
 	<div id="footerCopy">
 		Vacation Outlet is your premier online destination for dream vacations and cruise getaways.<br>
 		Choose your trip from thousands of discount travel packages and last-minute deals from the world's best
 		resorts, hotels, and cruise lines.<br>
-		Select from discount vacations in the Caribbean, Las Vegas, Mexico, Florida, Disney, and more.<br>
-		
-		© 2008 Vacation Outlet is a registered trademark of WTH/NLG.  All rights reserved.  <a href="http://www.vacationoutlet.com/cs/sellerinfo.asp" class="smlink">Seller of Travel Info</a>
-	</div>
-
+		© 2009 Vacation Outlet is a registered trademark of WTH/NLG.  All rights 
+		reserved.  <a href="http://www.vacationoutlet.com/cs/sellerinfo.asp" class="footerlinks">Seller of Travel Info</a><br><br>
+	</div>	
+	
+	</center>
 
 
 
@@ -452,6 +604,7 @@ img{border: 0;}
 </div>
 
 
+<iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
 <div style="visibility:hidden">
 <table>
@@ -465,4 +618,4 @@ img{border: 0;}
 
 
 
-</div></div></body></html>
+</center></body></html>
