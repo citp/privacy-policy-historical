@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217103707id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616214447id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Privacy - Centerd.com (first draft)</title>
@@ -23,12 +23,50 @@
 	
 	<link rel="shortcut icon" href="http://www.centerd.com/favicon.ico" type="image/x-icon">
 	
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	
+	<script type="text/javascript">
+    function OpenBusinessReferralLinks(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn)
+    {
+        trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn);
+    }
     </script>
+
     <script type="text/javascript">
-    _uacct = "UA-1109899-5";
-    urchinTracker();
+    function trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn)
+    {
+    	
+            pageTracker._trackEvent(Category, Action, Label, Value);
+        
+        if(url)
+        {
+            if(isHeaderShowModalDialog)
+            {
+                headerShowModalDialog(url, h, w, scrollOn);
+            }
+            else
+            {
+                window.open (url, 'newwindow');
+            }
+        }
+    }
     </script>
+
+	
+	
+
+    <!-- Start GA Tracking -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-1109899-5");
+            pageTracker._trackPageview();
+        }
+        catch(err) {}
+    </script>
+    <!-- End GA Tracking -->
 
     <!-- Start Quantcast tag -->
     <script type="text/javascript">
@@ -36,7 +74,7 @@
     qacct:"p-a1tbEksLnF53-"
     };
     </script>
-    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    <script defer="defer" type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
     <noscript>
     <img src="http://pixel.quantserve.com/pixel/p-a1tbEksLnF53-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
     </noscript>
@@ -67,39 +105,36 @@
 			form#editProfile .long-input,
 			form#editProfile .medium-input { margin-left: 0; }
 			form#editProfile fieldset div input.button { margin: 9px 0 0 100px;  }
+
+
+            #header #nav-bar-wrap{position:relative}
+
+            #nav-main{position:absolute;top:5px;}
+
+            #nav-bar form{right:0;position:absolute}
+
+                              
 		</style>
 	<![endif]-->
 	
-	<!--[if IE 6]>
-		
-	<![endif]-->
+	<!--[if lt IE 7]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
+    <![endif]-->
 
 
-	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=12152008.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=12152008.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=12152008.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=06122009.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=06122009.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=06122009.01"></script>
 	
-
+    
 	<div class="container" id="container2"> <!-- Container END is in the footer -->
 		<a name="#top"></a>
-
+    
 		<div id="header">
-		
-			<ul id="nav-sec">
-			    
-				<li id="account"><span id="ctl00_accountUserName">Welcome back, please <a href="http://www.centerd.com/auth/?redirectUrl=../my">sign in</a>...</span>&nbsp;<span id="ctl00_signlink"></span></li>
-				<li id="inbox"><a href="http://www.centerd.com/messaging">Messages</a></li>
-				<li id="settings"><a href="http://www.centerd.com/my/account.aspx">Settings</a></li>
-				
-				<li id="help"><a href="http://www.centerd.com/content/faq.aspx">Help</a></li>
-				
-			</ul>
-			<br class="clear">
-			
 			
 			<div id="brand">
 				
-				<a href="http://www.centerd.com/my" title="Back to the Center'd homepage">
+				<a href="http://www.centerd.com/" title="Center'd homepage">
 				
 				<div class="centerd-image"></div>
 				</a>
@@ -115,66 +150,103 @@
 			            <li id="searchFor" onmouseover="$(this).addClassName('hover'); $('searchForList').style.display = '';" onmouseout="if(hideSearch){$(this).removeClassName('hover');$('searchForList').style.display = 'none'};">
 							<span class="nav-item">
 			                <a title="Local Search" onclick="headerSubmitSearch('p');return false;" href="javascript:void(0);">Search</a>
-								<img id="searchCarrot" class="nav-carrot" src="http://www.centerd.com/images/carrot.gif" onclick="if(hideSearch){hideSearch=false;$('searchForList').style.display='';}else{hideSearch = true;$('searchForList').style.display='none';}" alt="View more link options" onmouseup="javascript:swapImage(1,'searchCarrot')" onmouseover="javascript:swapImage(0,'searchCarrot')" onmouseout="if(hideSearch){javascript:swapImage(2,'searchCarrot')}">
+								
 			                </span>
 					
 				            <ul class="submenu" id="searchForList" style="display: none;">
-						        <li onclick="headerSubmitSearch('p');"><a>Places</a></li>
-						        <li onclick="headerSubmitSearch('e');"><a>Events</a></li>
-						        <li onclick="headerSubmitSearch('u');"><a>People</a></li>							
+								<div class="submenu-wrap">
+							        <li onclick="headerSubmitSearch('p');"><a>Places</a></li>
+							        <li onclick="headerSubmitSearch('e');"><a>Events</a></li>
+							        <li onclick="headerSubmitSearch('u');"><a>People</a></li>		
+								</div>					
 					        </ul>
 				        </li>
 			        </ul>
 			    
-			    	<span class="fields"><input class="input-text" onkeydown="submitOnEnter(event);" onfocus="autoSetup();" id="sq" type="text" size="8" maxlength="200" value=""> 
+			    	<span class="fields"><input class="input-text" onkeydown="return submitOnEnter(event);" onfocus="autoSetup();" id="sq" type="text" size="8" maxlength="200" value=""> 
 			    	<span class="search-in">in</span> 
-			    	<input class="input-text" id="sl" type="text" onkeydown="submitOnEnter(event);" size="8" maxlength="200" value="Address or City, State"></span>
+			    	<input class="input-text" id="sl" type="text" onkeydown="return submitOnEnter(event);" size="8" maxlength="200" value="Address or City, State"></span>
 			    </div>
 			</form>
 			<ul id="nav-main">
+				<li class="topLI" id="accLI" onmouseover="hideSearch = true; showDropDown = true;showDropdowns('nav-acc', 'accLI');$(this).addClassName('hover');currentHoverClass= 'accLI';" onmouseout="showDropDown = false;showDropdowns('nav-acc', 'accLI');if($('nav-acc').style.display =='none' &amp;&amp; carrotClickedClass!='nav-acc'){currentHoverClass = '';$(this).removeClassName('hover');}">
+					<div class="li-menu">
+						<span class="nav-item">
+							
+							<a href="http://www.centerd.com/my/profiles.aspx" title="">My Account</a>
+						</span>
+						<ul class="submenu" id="nav-acc" style="display: none;">
+							<div class="submenu-wrap">
+								<li id="inbox"><a rel="nofollow" href="http://www.centerd.com/messaging">Messages</a></li>
+								<li id="settings"><a rel="nofollow" href="http://www.centerd.com/my/account.aspx">Settings</a></li>
+							</div>
+						</ul>
+					</div>
+				</li>
 				
 				<li class="topLI" id="myLI" onmouseover="hideSearch = true;$(this).addClassName('hover'); currentHoverClass= 'myLI';showDropDown = true; showDropdowns('nav-mycenter', 'myLI');" onmouseout="showDropDown=false;showDropdowns('nav-mycenter', 'myLI');if($('nav-mycenter').style.display =='none'){currentHoverClass = '';$(this).removeClassName('hover');}">
+					<div class="li-menu">
 					<span class="nav-item">
 					 <a id="mycenter" title="View your dashboard" href="http://www.centerd.com/my/" accesskey="f"><span>My Center</span></a>
-						<img id="myCarrot" class="nav-carrot" src="http://www.centerd.com/images/carrot.gif" onclick="clickedOnCarrot = true;if(carrotClickedClass=='nav-mycenter'){carrotClickedClass = '';}else{carrotClickedClass = 'nav-mycenter';}showDropdowns('nav-mycenter', 'myLI',true);" alt="View more link options" onmouseup="javascript:swapImage(1,'myCarrot')" onmouseover="javascript:swapImage(0,'myCarrot');" onmouseout="javascript:swapImage(2,'myCarrot');">
 					</span>
 					<ul class="submenu" id="nav-mycenter" style="display: none;">
-						<li><a href="http://www.centerd.com/my/" title="Go Home">Home</a></li>
-						<li><a href="http://www.centerd.com/people/profile/?id=" title="My Profile">My Profile</a></li>
-						<li><a href="http://www.centerd.com/my/people/" title="My People">My People</a></li>
-						<li><a href="http://www.centerd.com//my/places/" title="My Places">My Places</a></li>
-						<li><a href="http://www.centerd.com/my/events/" title="My Plans">My Plans</a></li>
+						<div class="submenu-wrap">
+							<li><a rel="nofollow" href="http://www.centerd.com/my/" title="Go Home">Home</a></li>
+							<li><a rel="nofollow" href="http://www.centerd.com/people/profile/?id=" title="My Profile">My Profile</a></li>
+							<li><a rel="nofollow" href="http://www.centerd.com/my/people/" title="My People">My People</a></li>
+							<li><a rel="nofollow" href="http://www.centerd.com//my/places/" title="My Places">My Places</a></li>
+							<li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="My Plans">My Plans</a></li>
+						</div>
 					</ul>
+					</div>
 				</li>
 				
 				<li class="topLI" id="exploreLI" onmouseover="hideSearch = true; showDropDown = true;showDropdowns('nav-explore', 'exploreLI');$(this).addClassName('hover');currentHoverClass= 'exploreLI';" onmouseout="showDropDown = false;showDropdowns('nav-explore', 'exploreLI');if($('nav-explore').style.display =='none' &amp;&amp; carrotClickedClass!='nav-explore'){currentHoverClass = '';$(this).removeClassName('hover');}">
-					<span class="nav-item">
-					 <a id="explore" title="Explore places, people, and events" href="http://www.centerd.com/explore/" accesskey="e"><span>Explore</span></a>
-						<img id="exploreCarrot" class="nav-carrot" src="http://www.centerd.com/images/carrot.gif" onclick="clickedOnCarrot = true;if(carrotClickedClass=='nav-explore'){carrotClickedClass = '';}else{carrotClickedClass = 'nav-explore';}showDropdowns('nav-explore', 'exploreLI', true);" alt="View more link options" onmouseup="javascript:swapImage(1,'exploreCarrot')" onmouseover="javascript:swapImage(0,'exploreCarrot')" onmouseout="javascript:swapImage(2,'exploreCarrot')">
-					</span>
-					<ul class="submenu" id="nav-explore" style="display: none;">
-						<li><a href="http://www.centerd.com/explore/San Francisco, CA/places/" title="Explore places">Places</a></li>
-						<li><a href="http://www.centerd.com/explore/San Francisco, CA/events" title="Explore events">Events</a></li>
-					</ul>
+					<div class="li-menu">
+						<span class="nav-item">
+							 <a id="explore" title="Explore places, people, and events" href="http://www.centerd.com/explore/" accesskey="e"><span>Explore</span></a>
+						</span>
+						<ul class="submenu" id="nav-explore" style="display: none;">
+							<div class="submenu-wrap">
+								<li><a rel="nofollow" href="http://www.centerd.com/explore/San Francisco, CA" title="Explore places">Places</a></li>
+							    <li><a rel="nofollow" href="http://www.centerd.com/places/" title="Explore cities">Cities</a></li>								
+								<li><a rel="nofollow" href="http://www.centerd.com/explore/San Francisco, CA/events" title="Explore events">Events</a></li>
+							</div>
+						</ul>
+					</div>
 				</li>
+				
 				<li class="topLI" id="planLI" onmouseover="hideSearch = true;showDropDown = true;showDropdowns('nav-plan','plansLI');$(this).addClassName('hover');currentHoverClass= 'planLI';" onmouseout="showDropDown = false;showDropdowns('nav-plan','plansLI');if($('nav-plan').style.display =='none'){currentHoverClass = '';$(this).removeClassName('hover');}">
+					<div class="li-menu">
 					<span class="nav-item">
 					 <a id="plans" title="Make plans" href="http://www.centerd.com/plans/" accesskey="p"><span>Plans</span></a>
-						<img id="planCarrot" class="nav-carrot" src="http://www.centerd.com/images/carrot.gif" onclick="clickedOnCarrot = true;if(carrotClickedClass=='nav-plan'){carrotClickedClass = '';}else{carrotClickedClass = 'nav-plan';}showDropdowns('nav-plan','plansLI',true);" alt="View more link options" onmouseup="javascript:swapImage(1,'planCarrot')" onmouseover="javascript:swapImage(0,'planCarrot')" onmouseout="javascript:swapImage(2,'planCarrot')">
+						
 					</span>
 					<ul class="submenu" id="nav-plan" style="display: none;">
-						<li class="create-new"><a href="http://www.centerd.com/plans" title="Make plans">Make Plans</a></li>
-					    <li><a href="http://www.centerd.com/calendars/" title="Create a calendar">Create a calendar</a></li>
+						<div class="submenu-wrap">
+							<li rel="nofollow" class="create-new"><a href="http://www.centerd.com/plans/" title="Make plans">Make Plans</a></li>
+						    <li><a rel="nofollow" href="http://www.centerd.com/calendars/" title="Create a calendar">Create <br>a calendar</a></li>
+						</div>
 					</ul>
+					</div>
 				</li>
-				
 			</ul>
 		    
-				
 				</div> <!-- Header Bar -->
 			</div> <!-- Header Bar Wrap -->
-			<br class="clear">
+			
+			    <ul id="nav-sec">
+			        
+				    <li id="account"><span id="ctl00_accountUserName">Welcome back, please <a href="http://www.centerd.com/auth/?redirectUrl=../my">sign in</a>...</span>&nbsp;<span id="ctl00_signlink"></span></li>
+    				
+				    
+				    <li id="help"><a href="http://www.centerd.com/content/faq.aspx">Help</a></li>
+				    
+			    </ul>
+			    <br class="clear">
+			
 		</div> <!-- Close Header -->
+		
 		<script type="text/javascript">
 			//Do not move this script / depended on 'errorMessage' div
 			window.onscroll = onScrollHeaderElementPosition; 
@@ -191,7 +263,10 @@
 					return;
 				if(!pxPos)
 					pxPos = 98;
-				if(document.documentElement.scrollTop > pxPos){
+				
+				var scrollTop = document.documentElement.scrollTop;
+				if(Prototype.Browser.WebKit){scrollTop=window.pageYOffset}
+				if(scrollTop > pxPos){
 					if(document.all){
 						$(elID).style.position = "absolute";
 						if($(elID).id =="errorMessage"){
@@ -209,11 +284,13 @@
 						if($(elID) && $(elID).style)
 						{
 						     $(elID).style.position = 'absolute';
+						     
+						     
 						     if($(elID).id =="errorMessage"){
-						        $(elID).style.top = document.documentElement.scrollTop + "px";
+						        $(elID).style.top = scrollTop + "px";
 						    }
 						     else{
-						        $(elID).style.top = document.documentElement.scrollTop + "px";
+						        $(elID).style.top = scrollTop + "px";
 						     }
 						}
 					}
@@ -262,6 +339,7 @@
 						return;
 					}
 					headerSubmitSearch('p');
+					return false;
 				} 
 				 else 
 					return true;
@@ -282,7 +360,7 @@
 		</div>
 		<div id="autoCompleteDiv" class="autocomplete" style="z-Index:5000;display: none;" name="autoCompleteDiv"></div>	
 		<form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDk1MjM2MDAyD2QWAmYPZBYKZg8PFgIeBFRleHQFXFdlbGNvbWUgYmFjaywgcGxlYXNlIDxhIGhyZWY9Imh0dHA6Ly93d3cuY2VudGVyZC5jb20vYXV0aC8/cmVkaXJlY3RVcmw9Li4vbXkiPnNpZ24gaW48L2E+Li4uZGQCAg8PFgIfAAVfPGEgaWQ9J2xvZ28nIGhyZWY9J2h0dHA6Ly93d3cuY2VudGVyZC5jb20vbXkvJyB0aXRsZT0nVmlzaXQgdGhlIENlbnRlcidkIEhvbWVwYWdlJz5jZW50ZXInZDwvYT5kZAIDDxYCHwAFeCA8YSBpZD0ibXljZW50ZXIiIHRpdGxlPSJWaWV3IHlvdXIgZGFzaGJvYXJkIiBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL215LyIgYWNjZXNza2V5PSJmIj48c3Bhbj5NeSBDZW50ZXI8L3NwYW4+PC9hPmQCBA8WAh8ABYkBIDxhIGlkPSJleHBsb3JlIiB0aXRsZT0iRXhwbG9yZSBwbGFjZXMsIHBlb3BsZSwgYW5kIGV2ZW50cyIgaHJlZj0iaHR0cDovL3d3dy5jZW50ZXJkLmNvbS9leHBsb3JlLyIgYWNjZXNza2V5PSJlIj48c3Bhbj5FeHBsb3JlPC9zcGFuPjwvYT5kAgUPFgIfAAVrIDxhIGlkPSJwbGFucyIgdGl0bGU9Ik1ha2UgcGxhbnMiIGhyZWY9Imh0dHA6Ly93d3cuY2VudGVyZC5jb20vcGxhbnMvIiBhY2Nlc3NrZXk9InAiPjxzcGFuPlBsYW5zPC9zcGFuPjwvYT5kZAuMRR4JZjpZ9g80YZ9nJW1jgRjB">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDk1MjM2MDAyD2QWAmYPZBYKZg8PFgIeBFRleHQFXzxhIGlkPSdsb2dvJyBocmVmPSdodHRwOi8vd3d3LmNlbnRlcmQuY29tL215LycgdGl0bGU9J1Zpc2l0IHRoZSBDZW50ZXInZCBIb21lcGFnZSc+Y2VudGVyJ2Q8L2E+ZGQCAg8WAh8ABXggPGEgaWQ9Im15Y2VudGVyIiB0aXRsZT0iVmlldyB5b3VyIGRhc2hib2FyZCIgaHJlZj0iaHR0cDovL3d3dy5jZW50ZXJkLmNvbS9teS8iIGFjY2Vzc2tleT0iZiI+PHNwYW4+TXkgQ2VudGVyPC9zcGFuPjwvYT5kAgMPFgIfAAWJASA8YSBpZD0iZXhwbG9yZSIgdGl0bGU9IkV4cGxvcmUgcGxhY2VzLCBwZW9wbGUsIGFuZCBldmVudHMiIGhyZWY9Imh0dHA6Ly93d3cuY2VudGVyZC5jb20vZXhwbG9yZS8iIGFjY2Vzc2tleT0iZSI+PHNwYW4+RXhwbG9yZTwvc3Bhbj48L2E+ZAIEDxYCHwAFayA8YSBpZD0icGxhbnMiIHRpdGxlPSJNYWtlIHBsYW5zIiBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL3BsYW5zLyIgYWNjZXNza2V5PSJwIj48c3Bhbj5QbGFuczwvc3Bhbj48L2E+ZAIFDw8WAh8ABVxXZWxjb21lIGJhY2ssIHBsZWFzZSA8YSBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL2F1dGgvP3JlZGlyZWN0VXJsPS4uL215Ij5zaWduIGluPC9hPi4uLmRkZCJ5hiiY0P+b2uXsRKDAMKzLPuXA">
 
 <script type="text/javascript">function __getQueryContext(){var __cxt = new Object();return __cxt;}</script>								
 			<!-- Content -->
@@ -424,15 +502,17 @@
 			<!-- End Content -->									
 		</form>
 		
+
 <div id="footer">				
+    
     
     
 	<ul>
 		<li>
 			<h5>Explore</h5>
 			<ul>
-				<li><a href="http://www.centerd.com/explore/" title="">Places</a></li>
-				<li><a href="http://www.centerd.com/explore/" title="">Events</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/explore/" title="">Places</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/explore/?etype=events" title="">Events</a></li>
 			</ul>
 		</li>
 		
@@ -443,9 +523,9 @@
 			<h5>Plans</h5>
 			<ul>
 
-				<li><a href="http://www.centerd.com/plans/" title="">Make Plans</a></li>
-				<li><a href="http://www.centerd.com/calendars/" title="">Create a Calendar</a></li>
-				<li><a href="http://www.centerd.com/my/events/" title="">View My Plans</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/plans/" title="">Make Plans</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/calendars/" title="">Create a Calendar</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="">View My Plans</a></li>
 			</ul>
 		</li>
 	
@@ -455,9 +535,9 @@
 	    <li>
 			<h5>My Center</h5>
 			<ul>
-	            <li><a href="http://www.centerd.com/my/people/" title="">My People</a></li>
-				<li><a href="http://www.centerd.com/my/places/" title="">My Places</a></li>
-				<li><a href="http://www.centerd.com/my/events/" title="">My Plans</a></li>
+	            <li><a rel="nofollow" href="http://www.centerd.com/my/people/" title="">My People</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/my/places/" title="">My Places</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="">My Plans</a></li>
 	        </ul>
 		</li>
 	</ul>
@@ -467,9 +547,9 @@
 	    <li>
 			<h5>Help &amp; Support</h5>
 			<ul>
-				<li><a href="http://www.centerd.com/content/contact.aspx" title="Contact Center'd">Contact Us</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/contact.aspx" title="Contact Center'd">Contact Us</a></li>
 
-				<li><a href="http://www.centerd.com/content/faq.aspx" title="FAQ"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/faq.aspx" title="FAQ"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
 			</ul>
 		</li>
 	
@@ -479,9 +559,10 @@
 	    <li>
 			<h5>Resources</h5>
 			<ul>
-			    <li><a href="http://www.centerd.com/plans/static/2008/holiday/" title="Holiday planning center"><strong>Holiday center</strong></a></li>
-			    <li><a href="http://www.centerd.com/plans/static/2008/thanksgiving/main/" title="Thanksgiving planning center"><strong>Thanksgiving center</strong></a></li>
-				<li><a href="http://www.centerd.com/backtoschool" title="Tips and resources on back to school!"><strong>Back to school</strong></a></li>
+			    <li><a href="http://www.centerd.com/plans/s/school-events" title="School events"><strong>School Events</strong></a></li>
+			    <li><a href="http://www.centerd.com/places" title="Holiday planning center"><strong>City Guides</strong></a></li>
+			    <li><a href="http://blogs.centerd.com" title="Thanksgiving planning center"><strong>Things to do Blog</strong></a></li>
+				
 			</ul>
 		</li>
 	
@@ -492,8 +573,8 @@
 			<h5>Center'd</h5>
 			<ul>
 				<li><a href="http://www.centerd.com/content/about.aspx" title="About Center'd">About Us</a></li>
-				<li><a href="http://www.centerd.com/content/terms.aspx" title="Our Terms">Terms</a></li>
-				<li><a href="http://www.centerd.com/content/privacy.aspx" title="Our Privacy Policy">Privacy Policy</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/terms.aspx" title="Our Terms">Terms</a></li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/privacy.aspx" title="Our Privacy Policy">Privacy Policy</a></li>
 		    </ul>
 		</li>
 		
@@ -502,17 +583,16 @@
 	    <li>
 	        <h5>&nbsp;</h5>
 	        <ul>
-	            <li><a href="http://www.28dots.com" title="">Our Blog</a></li>
+	            <li><a href="http://www.28dots.com" title="">Company Blog</a></li>
 	            <li><a href="http://www.centerd.com/content/team.aspx">Our Team</a></li>
-	            <li><a href="http://www.centerd.com/content/jobs.aspx">Join Our Team</a></li>
+	            <li><a rel="nofollow" href="http://www.centerd.com/content/jobs.aspx">Join Our Team</a></li>
 	        </ul>
 	    </li>
 	</ul>
 	
     
     
-    
-	<p><span class="right"><a href="#" title="Go back to the top of this page">Back to top</a></span>© 2008 Center'd, Corporation.  All rights reserved.</p>
+	<p><span class="right"><a rel="nofollow" href="#" title="Go back to the top of this page">Back to top</a></span>© 2008 Center'd, Corporation.  All rights reserved.</p>
 	
 
 </div> <!-- Close Footer -->
