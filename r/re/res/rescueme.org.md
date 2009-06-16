@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160426id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616172512id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - World Environmental Organization - World.Org
 
@@ -42,3 +42,5 @@ World Environmental Organization
 Washington, DC 20006
 
 Last revised: August 1, 2007
+
+This website is monitored by Service Uptime: [Free website monitoring service](http://www.serviceuptime.com/ "ServiceUptime.com - website monitoring service")
