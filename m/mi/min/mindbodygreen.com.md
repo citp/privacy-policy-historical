@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003846id_/http%3A//www.mindbodygreen.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodygreen.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174456id_/http%3A//www.mindbodygreen.com/privacy.jsp) for the most accurate reproduction.*
 
 # MindBodyGreen - Share & Discover Better, Healthier, Greener Living
 
@@ -10,7 +10,7 @@
 
 #### Please read this Privacy Policy carefully. You can access the Privacy Policy any time. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-#### In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/web/20081216003846id_/http%3A//www.mindbodygreen.com/termsofuse.jsp). Your use of the Website constitutes agreement to its terms and conditions as well.
+#### In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/web/20090616174456id_/http%3A//www.mindbodygreen.com/termsofuse.jsp). Your use of the Website constitutes agreement to its terms and conditions as well.
 
 #### This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
