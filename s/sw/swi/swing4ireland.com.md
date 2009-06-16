@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171307id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swing4ireland.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616205640id_/http%3A//www.swing4ireland.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Irish swinging site, meet swingers today!
 
@@ -20,4 +20,4 @@ We have in place physical, electronic and managerial procedures to protect the i
 
 swing4ireland.com places a "cookie" on the browser of a user's computer in order to keep you logged in to the site. This is strictly for authentication purposes only, and contains no personally identifiable information.
 
-[home](https://web.archive.org/web/20081216171307id_/http%3A//www.swing4ireland.com/index.html)
+[home](https://web.archive.org/web/20090616205640id_/http%3A//www.swing4ireland.com/index.html)
