@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216135412id_/http%3A//psd2cssonline.com/node/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2cssonline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152001id_/http%3A//www.psd2cssonline.com/node/13) for the most accurate reproduction.*
 
 # Privacy Policy | psd 2 CSS Online
 
