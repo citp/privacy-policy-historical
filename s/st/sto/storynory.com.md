@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094504id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616191630id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Free Audio Stories For Kids @ Storynory
+# Privacy | Free Audio Story
 
 We try to make our site as safe and enjoyable for you and your children as possible. To give you the best possible service, it is necessary for us to collect certain information about you. This policy tells you how we collect information about you and how we protect it.
 
@@ -44,7 +44,7 @@ We do not knowingly collect personally identifiable information from children un
 
 **User Generated Content** We encourage users to send us children’s content including pictures, jokes and stories.
 
-If you send us a child’s picture or story or other content, all we need to know is the following: child’s first name, age, M or F, country. This is the information that we will publish along side the content. Please send the content to us from an adult’s email address - and NOT from an email address belonging to a child under 13 years of age.
+If you send us a child’s picture or story or other content, all we need to know is the following: child’s first name, age, M or F, country. This is the information that we will publish along side the content. Please send the content to us from an adult’s email address – and NOT from an email address belonging to a child under 13 years of age.
 
 Your email will be retained ONLY as long as it is needed to post the content to the site (see above notice concerning email). We will NOT collect and store any information from your email (such as your email address and your family name) which might be used to personally identify the child. This information will be deleted.
 
