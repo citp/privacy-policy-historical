@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bulkregister.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216062015id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bulkregister.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616190153id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<!-- WEB4-SJL -->
+<!-- WEB3-SJL -->
 
 
 	<meta name="description" content="BulkRegister, the 2nd largest registrar, ICANN accredited - Domain name registration, Web Site Hosting, Email Services, NameJet and Web Site Monitor.">
@@ -14,7 +14,6 @@
 	
 
 	<link rel="STYLESHEET" type="text/css" href="/css/bulk-style.css">
-	<link rel="STYLESHEET" type="text/css" href="/css/e3style-ext.css">
 	<link rel="STYLESHEET" type="text/css" href="/css/print.css" media="print">
 
 
@@ -29,7 +28,7 @@
         <script type="text/javascript" src="/js/jquery-activation.js"></script>
         <script type="text/javascript" src="/js/SearchBalloon.js"></script>
 	    <script type="text/javascript" src="/js/openWin.js"></script>
-	    
+	    <script type="text/javascript" src="/js/thickbox.js"></script>
 	    <script language="JavaScript">
 		    function popHelp () {
 			    window.location = "/help/default.asp"
@@ -70,7 +69,7 @@
 
 
 
-<script type="text/javascript">
+<script type="text/javascript">  
     function openVideoWindow(url) 
     {
         leftVal = (screen.width - 800) / 2;
@@ -81,18 +80,19 @@
 
 
 
+
 	    
 	        <div class="nav_aux_1">
 	            <div>
 		            <p class="sub_3">
 		             
-		                Register a domain. Get great features! <a href="/domains/">Learn More</a> 
+		                Register a domain. Get great features! <span class="attn_1"><a href="/domains/">Learn More</a></span> 
 		            
 		            </p>
 		            
 		            <p class="sub_2">
 		             
-		                <a href="/bulk/signup.asp">Become A Member Today!</a> |
+		                <span class="attn_1" style="font-weight:bold"><a href="/bulk/bulk_signup/step1.aspx">Become A Member Today!</a></span> |
 		             
 		                <a href="/Login.asp">Log-in</a> | 
 		                <a href="/help/">Help</a>
@@ -106,7 +106,7 @@
             <div class="branding_sub">
                 <div class="logo">
                  
-                    <a href="/" class="bulkregister"><img src="/images/shell/02/logo_bulkregister_1.gif"></a>
+                    <a href="/" class="bulkregister"><img src="/images/shell/02/logo_bulkregister_2.gif"></a>
                 
                 </div>
 
@@ -118,7 +118,7 @@
                            <a href="#" id="" class="whois_balloon">Whois</a>
                            
                         </div>
-                        <div class="opt_2"><input type="text" id="txtSearch" class="input" value="Register A Domain"></div>
+                        <div class="opt_2"><input type="text" id="txtSearch" class="input" value="Register A Domain" maxlength="65"></div>
                         <div class="opt_3"><input type="submit" class="button" value=""></div>
                         <input type="hidden" id="hdnSearch" class="search_type" value="type_register">
                     </form>
@@ -128,35 +128,75 @@
             </div>
         </div>
 
-        <div class="nav_aux_2">
-            
-                
-            
-                <a href="/help/"><img src="/images/shell/01/ico_help_1.gif"></a>
-        </div>
-
-
     
-        <div class="nav_main"><div>
-		<ul id="newnav">
-            <li><a href="http://www.bulkregister.com/domains/default.asp">Domains</a><ul><li><a href="http://www.bulkregister.com/domains/default.asp">Register A Domain</a></li><li><a href="http://www.bulkregister.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">My Domains</a></li><li><a href="http://www.bulkregister.com/domains/Transfers.asp" class="sub">Transfers</a><ul><li><a href="http://www.bulkregister.com/domains/Transfers.asp" class="locked" title="log-in required">Transfer A Domain</a></li><li><a href="http://www.bulkregister.com/domains/transferstatus.asp" class="locked" title="log-in required">My Transfers</a></li><li><a href="http://www.bulkregister.com/help/transfers/transfer-domain-names.asp">Help</a></li></ul></li>
+        <div class="nav_main">
+            <div class="nav_main_sub">
+                <!-- START: minicart -->
+                <div class="minicart">
+                    
+                        <a href="/cart/default.aspx" class="mc_btn_1">My Cart</a>
+                    
+                    <div class="mc_drop">
+                        <div class="mc_box">
+                            <div class="mc_box_top">
+                                <div class="mc_sub">
+                                    <table width="365" cellspacing="0" border="0" class="mc_cnt">
+                                        
+                                            <tbody><tr>
+                                                <td>
+                                                    <p style="margin:10px 10px 2px 10px">Your cart is currently empty. <a href="/domains/default.asp">Search for a domain?</a></p>
+                                                </td>
+                                            </tr>
+                                        
+                                    </tbody></table>
+                                    <table width="365" cellspacing="0" border="0">   
+                                        
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="mc_box_btm"></div>
+                        </div> 
+                    </div>
+                </div>
+                <!-- END: minicart -->
+		        <ul id="newnav">
+                    <li><a href="http://www.bulkregister.com/domains/default.asp">Domains</a><ul><li><a href="http://www.bulkregister.com/domains/default.asp">Register A Domain</a></li><li><a href="http://www.bulkregister.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">My Domains</a></li><li><a href="http://www.bulkregister.com/domains/Transfers.asp" class="sub">Transfers</a><ul><li><a href="http://www.bulkregister.com/domains/Transfers.asp" class="locked" title="log-in required">Transfer A Domain</a></li><li><a href="http://www.bulkregister.com/domains/transferstatus.asp" class="locked" title="log-in required">My Transfers</a></li><li><a href="http://www.bulkregister.com/help/transfers/transfer-domain-names.asp">Help</a></li></ul></li>
 <li><a href="http://www.bulkregister.com/domains/faq_tlds.asp" class="sub">Domain Extension (TLDs)</a><ul><li><a href="http://www.bulkregister.com/domains/faq_tlds.asp">TLD Overview</a></li><li><a href="http://www.bulkregister.com/tlds/default.asp">New TLDs (.ME)</a></li><li><a href="http://www.bulkregister.com/domains/idn.asp">International Domains (IDNs)</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/domains/listcheck.asp" class="sub">Bulk Tools</a><ul><li><a href="http://www.bulkregister.com/domains/listcheck.asp" class="locked" title="log-in required">Bulk Check</a></li><li><a href="http://www.bulkregister.com/domains/listregister.asp" class="locked" title="log-in required">Bulk Register</a></li><li><a href="http://www.bulkregister.com/domains/listrenew.asp" class="locked" title="log-in required">Bulk Renew</a></li><li><a href="http://www.bulkregister.com/domains/transfers.asp" class="locked" title="log-in required">Bulk Transfer</a></li><li><a href="http://www.bulkregister.com/domains/pushlist.asp" class="locked" title="log-in required">Bulk Push</a></li><li><a href="http://www.bulkregister.com/domains/listidprotect.asp" class="locked" title="log-in required">Bulk Add ID Protect</a></li><li><a href="http://www.bulkregister.com/domains/listdnsservice.asp" class="locked" title="log-in required">Bulk Add DNS Service</a></li><li><a href="http://www.bulkregister.com/domains/listwbl.asp" class="locked" title="log-in required">Bulk Add Business Listing</a></li><li><a href="http://www.bulkregister.com/domains/globaledit.asp" class="locked" title="log-in required">Global Edit</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/domains/push.asp" class="sub">Advanced Tools</a><ul><li><a href="http://www.bulkregister.com/domains/push.asp" class="locked" title="log-in required">Push a Domain</a></li><li><a href="http://www.bulkregister.com/domains/RegNameServer.asp" class="locked" title="log-in required">Register a Name Server</a></li><li><a href="http://www.bulkregister.com/domains/Domain-Manager.aspx?tab=search" class="locked" title="log-in required">Search for Domains</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/bulk/bulktools.aspx">Bulk Tools</a></li><li><a href="http://www.bulkregister.com/domains/push.asp" class="sub">Advanced Tools</a><ul><li><a href="http://www.bulkregister.com/domains/push.asp" class="locked" title="log-in required">Push a Domain</a></li><li><a href="http://www.bulkregister.com/domains/RegNameServer.asp" class="locked" title="log-in required">Register a Name Server</a></li><li><a href="http://www.bulkregister.com/domains/Domain-Manager.aspx?tab=search" class="locked" title="log-in required">Search for Domains</a></li></ul></li>
 </ul></li>
-<li><a href="http://www.bulkregister.com/wsg/default.asp">Hosting</a><ul><li><a href="http://www.bulkregister.com/wsg/default.asp">Overview</a></li><li><a href="http://www.bulkregister.com/wsg/hosting_features.asp">Features</a></li><li><a href="http://www.bulkregister.com/wsg/packagemanager.asp" class="locked" title="log-in required">Manage</a></li><li><a href="http://www.bulkregister.com/wsg/hostinghelp.asp?hosthelp=1">Help</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/pop-email/default.asp">Email</a><ul><li><a href="http://www.bulkregister.com/pop-email/default.asp" class="sub">POP Email</a><ul><li><a href="http://www.bulkregister.com/pop-email/default.asp">Overview</a></li><li><a href="http://www.bulkregister.com/pop-email/manage-email.asp" class="locked" title="log-in required">Manage</a></li><li><a href="http://www.bulkregister.com/pop-email/faq_email.asp?help=3">FAQ</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/wsg/default.aspx">Hosting</a><ul><li><a href="http://www.bulkregister.com/wsg/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/wsg/linux.aspx">Linux Web Hosting</a></li><li><a href="http://www.bulkregister.com/wsg/windows.aspx">Windows Web Hosting</a></li><li><a href="http://www.bulkregister.com/wsg/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/pop-email/default.aspx">Email</a><ul><li><a href="http://www.bulkregister.com/pop-email/default.aspx" class="sub">POP Email</a><ul><li><a href="http://www.bulkregister.com/pop-email/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/pop-email/manage-email.asp" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.bulkregister.com/HostedExchange/default.asp" class="sub">Hosted Exchange</a><ul><li><a href="http://www.bulkregister.com/HostedExchange/default.asp">Overview</a></li><li><a href="http://www.bulkregister.com/HostedExchange/manage.asp" class="locked" title="log-in required">Manage</a></li></ul></li>
 </ul></li>
-<li><a href="http://www.bulkregister.com/secure/default.asp">SSL Certificates</a><ul><li><a href="http://www.bulkregister.com/secure/default.asp">Overview</a></li><li><a href="http://www.bulkregister.com/secure/MyCerts.asp" class="locked" title="log-in required">Manage</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/privacy-protection/domain-name-whois-privacy.asp">ID Protect</a><ul><li><a href="http://www.bulkregister.com/privacy-protection/domain-name-whois-privacy.asp">Overview</a></li><li><a href="http://www.bulkregister.com/privacy-protection/faq_idprotect.asp">FAQ</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/web-tools/monitor-analyze-protect.asp">More Products</a><ul><li class="new_prod_1"><a href="http://www.bulkregister.com/business-listing/whois-business-listing.asp" class="sub new_prod_1">Business Listing</a><ul><li><a href="http://www.bulkregister.com/business-listing/whois-business-listing.asp">Overview</a></li><li><a href="http://www.bulkregister.com/business-listing/manager.aspx" class="locked" title="log-in required">Manage</a></li><li><a href="http://www.bulkregister.com/business-listing/whois-business-listing-faq.asp">FAQ</a></li></ul></li>
-<li><a href="http://www.bulkregister.com/websitecreator/websitecreator.asp" class="sub">Web Site Creator</a><ul><li><a href="http://www.bulkregister.com/websitecreator/websitecreator.asp">Overview</a></li><li><a href="http://www.bulkregister.com/websitecreator/websitecreator_manage.asp" class="locked" title="log-in required">Manage</a></li><li><a href="http://www.bulkregister.com/websitecreator/faq_websitecreator.asp">FAQ</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/secure/default.aspx">SSL Certificates</a><ul><li><a href="http://www.bulkregister.com/secure/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/secure/verisign-ssl-certificates.aspx">VeriSign Certificates</a></li><li><a href="http://www.bulkregister.com/secure/geotrust-ssl-certificates.aspx">GeoTrust Certificates</a></li><li><a href="http://www.bulkregister.com/secure/sbs-ssl-certificates.aspx">SBS Certificates</a></li><li><a href="http://www.bulkregister.com/secure/manage-ssl-certificates.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/services.asp">More Products</a><ul><li class="new_prod_1"><a href="http://www.bulkregister.com/ratepoint/default.aspx" class="sub new_prod_1">RatePoint</a><ul><li><a href="http://www.bulkregister.com/ratepoint/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/ratepoint/packagemanager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/business-listing/default.aspx" class="sub">Business Listing</a><ul><li><a href="http://www.bulkregister.com/business-listing/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/business-listing/manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/instant-mobilizer/imobilizer.aspx" class="sub">Instant Mobilizer</a><ul><li><a href="http://www.bulkregister.com/instant-mobilizer/imobilizer.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/instant-mobilizer/imobilizer-purchase.aspx">Purchase</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/privacy-protection/default.aspx" class="sub">ID Protect</a><ul><li><a href="http://www.bulkregister.com/privacy-protection/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/domains/Domain-Manager.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
+<li><a href="http://www.bulkregister.com/websitecreator/default.aspx" class="sub">Web Site Creator</a><ul><li><a href="http://www.bulkregister.com/websitecreator/default.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/websitecreator/manage.aspx" class="locked" title="log-in required">Manage</a></li></ul></li>
 <li><a href="http://www.bulkregister.com/web-tools/hosted-dns-service.asp">DNS Service</a></li></ul></li>
-<li class="link-get-started"><a href="http://www.bulkregister.com/bulk/signup.asp">Get Started</a><ul></ul></li>
+<li><a href="http://www.bulkregister.com/bulk/bulktools.aspx">Bulk Tools</a><ul><li><a href="http://www.bulkregister.com/bulk/bulktools.aspx">Overview</a></li><li><a href="http://www.bulkregister.com/bulk/listregister.asp" class="locked" title="log-in required">Register domains</a></li><li><a href="http://www.bulkregister.com/bulk/transfers.asp" class="locked" title="log-in required">Transfer domains</a></li><li><a href="http://www.bulkregister.com/bulk/listrenew.asp" class="locked" title="log-in required">Renew domains</a></li><li><a href="http://www.bulkregister.com/bulk/listcheck.asp" class="locked" title="log-in required">Check domains</a></li><li><a href="http://www.bulkregister.com/bulk/pushlist.asp" class="locked" title="log-in required">Push domains</a></li><li><a href="http://www.bulkregister.com/bulk/listidprotect.asp" class="locked" title="log-in required">Add ID Protect</a></li><li><a href="http://www.bulkregister.com/bulk/listwbl.asp" class="locked" title="log-in required">Add Business Listing</a></li><li><a href="http://www.bulkregister.com/bulk/listdnsservice.asp" class="locked" title="log-in required">Add DNS Service</a></li><li><a href="http://www.bulkregister.com/bulk/listMobilizer.asp" class="locked" title="log-in required">Add Instant Mobilizer</a></li><li><a href="http://www.bulkregister.com/bulk/globaledit.asp" class="locked" title="log-in required">Global Edit</a></li></ul></li>
+<li class="link-get-started"><a href="http://www.bulkregister.com/bulk/bulk_signup/step1.aspx">Join Today!</a><ul></ul></li>
 
-	    </ul>
-	    </div></div>
+	            </ul>
+	        </div>
+	    </div>
+	    
+	    
+	    <div class="nav_aux_2">
+	        <div>
+                <p class="crumbar"><a href="/">Home</a>&nbsp;<span>»</span>&nbsp;<a href="/terms/default.asp">terms and conditions</a>&nbsp;<span>»</span>&nbsp;<span>privacy policy</span></p> 
+                <p class="helpvids">
+                    
+                        <a href="/help/help-video-sitemap.aspx">View our help video library</a>
+                    
+                </p>
+            </div>
+        </div>
+        
+
+	    	
+
 
 
 
@@ -164,9 +204,9 @@
 		    <div id="content_wrap_1">
 		    <div id="content_wrap_2">
 		    
+
 		    
-                <p id="crumbar"><a href="/">Home</a>&nbsp;<span>»</span>&nbsp;<a href="/terms/default.asp">terms and conditions</a>&nbsp;<span>»</span>&nbsp;<span>privacy policy</span></p>
-            
+		    
 
 <!-- Page Content Begin -->
 
@@ -247,12 +287,12 @@
     <div class="row_1">
         <p class="info_links">
             <a href="/aboutus.asp">About Us</a> | 
+            <a href="/aboutus.asp#contactus">Contact Us</a> |
             <a href="/help/">Help</a> | 
-            
+            <a href="/domains/default.asp">Register A Domain</a> |
             <a href="/services.asp">Services</a> |
             <a href="/news.asp">News</a> |
             <a href="/pricing.asp">Pricing</a> | 
-            
             <a href="/registrynews.asp">Maintenance</a> |
             
             <a href="/whois/whois.aspx">Whois</a> | 
@@ -287,8 +327,10 @@
     </div>
 
     <div class="row_3">
-        <p class="legal_info">Copyright © 1999-2008 BulkRegister Inc. All rights reserved. <a href="/terms/default.asp">Terms &amp; Conditions</a> | <a href="/terms/privacy.asp">Privacy Policy</a></p>
-        <p class="demand_logo"><a href="http://www.demandmedia.com/" target="_blank"><img src="/images/shell/01/bnr_demand_media_1.gif" width="135" height="24"></a></p>
+        <p class="legal_info">Copyright © 1999-2009 BulkRegister Inc. All rights reserved. <a href="/terms/default.asp">Terms &amp; Conditions</a> | <a href="/terms/privacy.asp">Privacy Policy</a></p>
+        <p class="demand_logo"><a href="http://www.demandmedia.com/" target="_blank" alt="Demand Media Services 
+SJL01wenomWeb03" title="Demand Media Services 
+SJL01wenomWeb03"><img src="/images/shell/01/bnr_demand_media_1.gif" width="135" height="24"></a></p>
     </div>
 </div>
 <script language="JavaScript" type="text/JavaScript">
@@ -349,8 +391,8 @@
             <a href="/help/faq_tlds.asp"><img src="/images/banners/dotnet_logo.gif" width="49" height="19" alt=".net"/></a>
 
             
-		            <a href="/help/faq_tlds.asp"><img src="/images/banners/dotcc_logo.gif" alt=".cc" width="38" height="20" /></a>
-            
+		            <a href="/help/faq_tlds.asp"><img src="/images/banners/dotbiz_logo.gif" alt=".biz" width="29" height="30" /></a>
+	            
 
             <img src="/images/e3/e3_logo_footer_icann_logo.gif" alt="ICANN Accredited" width="30" height="30" />
 
