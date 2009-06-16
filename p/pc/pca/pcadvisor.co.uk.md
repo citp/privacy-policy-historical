@@ -1,119 +1,96 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165305id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135907id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Site Policy - PC Advisor
 
-This web site ("Site") is owned and operated by IDG Communications Ltd, 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG"). 
+## Introduction – who we are
 
-IDG is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information and the choices you have about how we use your information.
+This website is owned and operated by IDG Communications Limited of 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG UK").  IDG UK has notified as a data controller under the UK Data Protection Act 1998.
 
-  
+IDG UK is the owner and operator of PC Advisor ([www.pcadvisor.co.uk](http://www.pcadvisor.co.uk/)), Macworld ([www.macworld.co.uk](http://www.macworld.co.uk/)), MacVideo ([www.macvideo.tv](http://www.macvideo.tv/)) and Digital Arts Online ([www.digitalartsonline.co.uk](http://www.digitalartsonline.co.uk/)) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.
 
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including Connect.com, connect.co.uk, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, infoworld.com, idgconnect.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
-## Collection of Information Through Use of Cookies
+## The Purpose of this Policy - Your Consent
 
-This Site collects information regarding your use of the Site through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the Site. 
+Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to IDG UK. The purpose of this Privacy Policy (the “Policy”) is to ensure that we interact with all of our customers in line with current legislation (such as the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003) and in accordance with their wishes.  This Policy sets out below what types of personal data may be collected about you, how we may process and use it, and who we may share it with.
 
-We use "session" cookies to collect information about your use of the Site and so that you may view articles, post in the forums and browse from page to page. These cookies are temporary and are deleted when you leave the Site. We use "persistent" cookies to allow for automatic login, give you a more personalised browsing experience, and help you navigate the Site more efficiently. 
+By using this Website and/ or submitting your personal data, you agree to the transfer, storing and processing activities described in this Policy. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy.
 
-We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and improving the Site. 
+## Personal Details
 
-You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register, login to the Site with a personal User Name and Password, or make use of the advanced personalisation features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use. 
+IDG UK and its suppliers may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. IDG UK may employ trusted third party specialists to process your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
-  
+This personal data is stored on IDG UK computers in the UK, and, because IDG UK is part of the IDG Publishing Network, may be transferred to, stored and processed, inside the UK and/or outside of the European Economic Area (“EEA”) by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG UK who will send the third party offerings.  Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations.  Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of the EEA. In all cases, we will only transfer your data outside the EEA to those countries that ensure at least adequate levels of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
+From time to time IDG UK and/or the IDG Publishing Network may invite you to register in order to receive such offerings as magazines, email newsletters, enter competitions, and receive goods or services from IDG UK and/or the IDG Publishing Network websites. This may require you to confirm personal data such as your name, email address, and mailing address postcodes. This information is mandatory and is required by IDG UK for security purposes, and enables IDG UK to supply a reasonable level of services to users and our advertisers.  We may also ask for information such as job function, job title, industry sector, company/ name and country. During registration, you will also be asked to choose a user name and password for future access to the relevant Website(s).
 
-## Collection and Registration of Personal Information
+In order to provide you with free resources such as white papers and expert analysis, we may share your personal data and/or business information with third party organisations we partner with and whose content and/or other offerings you choose to view via an email offer we may send to you via Connect.com and/or connect.co.uk, and/or download from the PC Advisor Website or other IDG Publishing Network sites.
 
-We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user's name, e-mail address, and postal address. 
+Because IDG UK is part of the IDG Publishing Network, you may receive offers that IDG UK believes will be of interest to you from any of the IDG Publishing Network sites.  However, IDG UK offers you the chance to opt out of receiving additional information from the IDG Publishing Network and our Group. You have the absolute right to ask us not to process your personal data for marketing purposes. Whilst we give details in this Policy in relation to opting out, we want to make clear that you can at any time exercise this right by contacting us by post or email at the address set out at the foot of this Policy.
 
-In order to access certain content and to make use of the full functionality and advanced personalisation features of the Site such as newsletters and to postin the forums, we ask you to register and obtain a personal User Name and Password. You may be prompted to register when you: 
+## Opting in/ Opting out
 
-  1. Choose the "Register" link from the home page or login screens
-  2. Post on one of the forums
-  3. Enter a competition
-  4. Subscribe to one of the site newsletters
+IDG offers you the opportunity to opt in to receive marketing information from carefully selected third party organisations. IDG UK will ensure that the contact you receive will be from reputable organisations. You may opt out at any time from receiving further such information by notifying us by post. IDG UK offers you the opportunity to opt out of receiving information from IDG UK about other products/services that IDG UK and our Group offer.
 
+IDG cannot accept any responsibility for use by third parties of data that you have consented to being passed on.
 
+## Disclosure of Information
 
-The information collected from the registration form that is presented to users when they choose to register may include contact information, such as the user's name, e-mail address, postal address, country, telephone number and work setting ("Registration Information"). The Registration Information is linked directly to a personal User Name and Password chosen by the user and can only be retrieved by supplying the correct User Name and Password that is linked to that profile. 
+If the business of operating this Website is sold, the relevant customer lists and other personal data of our subscribers and users will be transferred to the new owner. This will be done in accordance with current legislation.
 
-  
+We may disclose your personal data if we are under a duty to disclose your personal data as a result of a court order or any other legal obligation, any subpoena or legal process or as otherwise required by law, or if we believe it necessary to prevent or take action regarding illegal activities or violations of our policies.
 
+## Changing your details and unsubscribing
 
-## How Personal Information Is Used
+At all times as a recipient of an IDG UK product and/or service or an IDG Publishing Network product and/or service you will have the opportunity to amend your contact details and/or to modify your opt-in/opt-out choices. We will not actually delete your record from the applicable database(s) as we would no longer be able to identify you, which could lead to you receiving information from us in the future.
 
-We use the personal information that you provide for such purposes as: 
+To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.   
+If you submit your email address to sign up for any of our online offerings including our newsletter(s) on the website, then you can unsubscribe at any time by either contacting, as applicable, IDG UK and/or the IDG Publishing Network directly or via the unsubscribe facility included in communications sent to you.
 
-  1. Completion and support of the activity for which the information was provided, such as allowing access to one of the Site services, processing or fulfilling a competition entry, or responding to your requests or enquiries;
-  2. Web site and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents;
-  3. Tailoring or customising content or design of the Site during a single visit to the Site and individualised personalisation of the Site on repeat visits;
-  4. Research and development to enhance, evaluate and improve the Site and our services;
-  5. Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and
-  6. Communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys.
+## Access to Information
 
-  
+You have the right to be told what personal data we hold about you on our databases. You should write to Ms Alex Lincoln, IDG Communications Ltd, 101 Euston Rd, London, NW1 2RA, United Kingdom. In your letter please state your full name, your address and all publications and/or services from IDG UK to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.  
 
+## Anonymous information about your use of the Website
 
-## Disclosure of Personal Information to Third Parties
+In order that we can monitor and improve the Website, we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version, cookie details (see below) and the website that you visited prior to our Website. IDG UK may make anonymous use of this information to help diagnose faults, manage our systems and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally.   
 
-Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing operations, for the purposes set forth above. Your personal information may be transferred to countries outside of the European Economic Area ("EEA"), including to the United States, for processing. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you access the Site while you are outside of the EEA, your information may be transferred outside of the EEA in order to provide you with such access. 
+## Other Links
 
-With your consent, we also may share your personal information with non-affiliated third parties located inside and outside of the EEA who wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to such third parties, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the registration "Update your details" link at any time. 
+Please be aware that our Website may link to other web sites which may be accessed through our Website. This statement does not extend to sites that are linked to IDG UK sites. You should refer to those sites for further details about their use of your personal information. We are not responsible for the data policies, content or security of these linked web sites.
 
-We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and if we are acquired by or merged with another company. 
+## Cookies
 
-  
+We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose personal data obtained by the use of cookies to third parties.
 
+Most web browsers automatically accept cookies, though you do not have to. The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-## Access and Changes to Your Registration Information and Preferences
+When you request a page from the Website's web server, the server automatically collects some information about your system, including your IP address. IDG UK collects the minimum information necessary to make the service work efficiently.
 
-Registered users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking on the registration "Update your details" link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
+## Third-Party Advertisement Servers
 
-If you wish to receive alerts, newsletters, special offers or promotions from us, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the registration "Profile" link at any time. If you wish to cease receiving any of this information, amend your preferences either by logging in and clicking on the registration "Update your details" link, or by using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary. 
+In the UK, we use ADTECH’s industry leading technology to serve advertisements on the www.pcadvisor.co.uk website. You are able to opt out of the ADTECH ad-serving cookie via the ADTECH privacy policy which can be viewed [here](http://www.adtech.info/cookie_opt-out/).
 
-  
+Furthermore, some advertisers may use third-party companies to track advertisements on our Website. Except as described above, we will not pass any personal data to them. Unless you visit the website of these companies and provide them with this information, those advertisers will not be able to identify who you are. This use of tracking technology by our advertisers is subject to their own privacy policies. IDG UK does not have control over the collection of information for advertising purposes.
 
+## Changes to the Policy
 
-## Retention of Personal Information
+IDG UK reviews its privacy and data protection policy periodically. We reserve the right to modify our privacy and data protection policy at any time without notice. Any changes to the policy will be posted on this page.
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting us at the address or telephone number detailed below. 
+## To update your details for this Website
 
-  
+If your personal data changes you can update your profile for this Website when logged in to www.pcadvisor.co.uk.  To Login to the site, please visit our [Account Login Page](https://web.archive.org/account/login).
 
+## Contact Us
 
-## Our Commitment to Data Security
+If you have any comments or queries in connection with our privacy policy, please [Contact Us](mailto:Alex_lincoln@idg.co.uk).
 
-We recognise that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of personal information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorised access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties' use or misuse of personal information. 
-
-  
-
-
-## About This Privacy Policy
-
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights. 
-
-This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). 
-
-This Site may contain links to other web sites that are beyond our control. Other web sites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each web site you visit before submitting any information to them.
-
-  
-
-
-## Questions, Complaints, and Dispute Resolution
-
-If you have any questions or comments regarding this privacy policy, please contact our Customer Service Department at: 
-
-PC Advisor Website Customer Services  
+We can be contacted at:   
+IDG Communications Ltd  
 101 Euston Road  
 London  
 NW1 2RA  
-UK  
-Tel +44 (0) 20 7756 2800  
-E-mail: webmaster@pcadvisor.co.uk
-
-If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact us on at the details above. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem. 
-
-**Last revised: 07 October 2005**
-
-  
-
+United Kingdom  
+**Phone:** +44 (0) 20 7756 2800  
+**Email:**[webmaster@pcadvisor.co.uk](mailto:webmaster@pcadvisor.co.uk)   
+Last updated: May 09
