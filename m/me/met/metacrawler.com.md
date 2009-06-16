@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030417id_/http%3A//www.metacrawler.com/metacrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061637id_/http%3A//www.metacrawler.com/metacrawler/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - MetaCrawler
 
@@ -44,6 +44,6 @@ InfoSpace, Inc.
 Bellevue, Washington 98004 USA   
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax   
-E-mail:[Contact Us](http://www.metacrawler.com/metacrawler/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)
+E-mail: [Contact Us](http://www.metacrawler.com/metacrawler/ws/ContactUs/_iceUrlFlag=11?_IceUrl=true)
 
-Policy effective Oct 11, 2007
+Policy effective Oct 11, 2007 
