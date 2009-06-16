@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035131id_/http%3A//www.mcvuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcvuk.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616060513id_/http%3A//www.mcvuk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MCV
 
 The purpose of this page is to inform you on every aspect of our Privacy Policy with respect to our data gathering.
 
