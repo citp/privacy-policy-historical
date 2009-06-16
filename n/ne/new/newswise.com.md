@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163205id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132029id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
 
 # Newswise
 
@@ -25,9 +25,9 @@ Newswise was the first online news service for universities and research institu
 
 Newswise is the most innovative service of its kind. It introduced the online research-news service concept and first implemented a central resource for high-caliber news, plus provided access to a one-stop, searchable news archive. Newswise was the first to provide reports to its clients on the activity of its releases. It introduced the concepts of Breaking News, Meetings Advance, and other tools for journalists and public information professionals to improve their delivery and management of information. 
 
-Newswise expanded to the web in 1996. It is the most comprehensive site for research, or knowledge-based news, with more than 400 leading research institutions participating. 
+Newswise expanded to the web in 1996. It is the most comprehensive site for research, or knowledge-based news, with more than 500 leading research institutions participating. 
 
-Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland, and Athens, Greece. 
+Newswise moved to Charlottesville, Virginia, in 2001. 
 
 [](http://www.newswise.com/about/policy/#top)
 
@@ -37,7 +37,7 @@ The Newswise vision is to improve the relationship between journalists and publi
 
 Newswise maintains a comprehensive online database of knowledge-based news. It is a one-stop site for reporters to manage information within focused domains. Newswise currently comprises scientific, medical, liberal arts, and business research news, with plans to grow in additional sectors. 
 
-Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 70,000 high-caliber news stories, and each is full-text searchable. 
+Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 75,000 high-caliber news stories, and each is full-text searchable. 
 
 Newswise also maintains a complement of other tools for journalists, including online calendars of science and medical meetings, and a database of awards, grants, and fellowships. We also broker and amplify reporters' searches for experts with an Expert Query service; this allows journalists to access experts in science, medicine, liberal arts, and business in a simple way. A variety of new online tools will continue to be added to this kit. 
 
@@ -91,7 +91,7 @@ We require certain information in order to credential users as members of the ne
 
 If you have registered through our online registration system and have subscribed to one or more of Newswise's email wires but do not want to continue receiving such email wire(s) or wish to suspend delivery during a vacation break, you may revise your digest preferences online. After logging in, choose "Edit My Preferences" at the top left of the navigation column, and visit the "Digest Subscriptions" section, where you may make the appropriate selection(s). Press "Submit" to store your changes. 
 
-If at any time you wish to delete your Newswise registration and discontinue receiving services from us, please send an email to [info@newswise.com](mailto:info@newswise.com). 
+If at any time you wish to delete your Newswise registration and discontinue receiving services from us, please send an email to [info@newswise.com](mailto:info@newswise.com?subject=Request%20Unsubscribe). 
 
 Newswise employs "cookies" for your convenience and security when logging into our site. A cookie is a small data file that contains a session identification number stored in your browser. This number enables our server to verify that you are an authenticated user and allows you to visit various members-only parts of our site. It also remembers your preferences from page to page, to ensure you the most efficient browsing experience. Cookies do not store any personal data about you and are deleted at the end of each session. 
 
