@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052648id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180006id_/http%3A//www.pianoworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Piano World
 
@@ -26,7 +26,7 @@ Privacy Policy - Piano World
 >   * If you **place an ad** with us, we may additionally ask for your phone number, however you will have the option of requesting that we do not post your phone number in your ad. We do not recommend posting your address unless it is a business ad. 
 >   * When you **place an order** , we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order. Any credit card or check information is strictly for the use of the processing companies that handle this part of the transactions for us. We do not keep any credit card or check data on our own computers and we never share this information with anyone else. 
 >   * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable. We will not abuse this privilege. These announcements currently only go out about 2 or 3 times a year. If you never want to receive any announcements or special offers from us, send a e-mail message to [webmaster@pianoworld.com](mailto:webmaster@pianoworld.com?Subject=No%20Emails%20from%20Piano%20World) . (If you use more than one e-mail account with Piano World, send this message from each e-mail account you use.) 
->   * If you would like to keep up with what is happening in the piano industry and on the Piano World Web sites... **To receive our FREE Piano Newsletters** Join our world famous [Piano Forums](http://www.pianoworld.com/ubb/ubb/ultimatebb.php) today (they are free too) and automatically receive our free newsletters too. 
+>   * If you would like to keep up with what is happening in the piano industry and on the Piano World Web sites... **To receive our FREE Piano Newsletters** Join our world famous [Piano Forums](http://www.pianoworld.com/forum) today (they are free too) and automatically receive our free newsletters too. 
 > 
 
 > 
@@ -52,7 +52,7 @@ Privacy Policy - Piano World
 > 
 > Questions or comments? 
 > 
-> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20081217052648id_/http%3A//www.pianoworld.com/contact.htm) us. 
+> If you have any questions or comments about our policies, please feel free to [Contact](https://web.archive.org/web/20090616180006id_/http%3A//www.pianoworld.com/contact.htm) us. 
 > 
 > Purchase Policy 
 > 
