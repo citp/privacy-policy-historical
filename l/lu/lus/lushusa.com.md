@@ -1,86 +1,83 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225071659id_/http%3A//www2.lush.com/terms/longprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202434id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
 
-# 
+# LUSH Cosmetics: Customer Care > Privacy Policy
 
-**Privacy Policy**
+This statement discloses the privacy practices and policies for LUSH’s website. If you have any questions about these practices and policies, please email us at **info@lush.com**.
 
-We believe that your personal information deserves protection. While you can visit lush.com (the "website") without registering or providingany personal information, you will need to register if you want to make apurchase. The personal information requested is necessary to process yourorder. (As noted in the Legal Statement on the website, except where stated otherwise, the term "LUSH" used on this website shall be deemed to include lushcanada.com, lush.com, Lush Broadway Holdings LTD, Lush Manufacturing Ltd., Lush Internet, Inc. and their respective affiliates, subsidiaries, successors, assigns, directors, officers and employees.
+LUSH respects your personal privacy. We believe ensuring the security of your personal information is an important part of our job, and we strive to protect any personal information you may provide us. If we ask you to provide any personal information, we will tell you the purposes for which we intend to use that information. Your personal information is not lent or sold to anyone for any purpose.
 
-**What does LUSH use your personal information for?**
+## Additional Information
 
-\- To build your account with LUSH
+For additional information on privacy, security, and use of information at LUSH please view the following information:
 
-\- To process your orders
+[Read the Website Terms of Use](https://web.archive.org/terms/)
 
-\- To personalize the delivery of content to you
+## Information Collection, Use, and Disclosure
 
-\- Mail/Email company information 
+Information gathered on **lushusa.com** falls under the following categories:
 
-We also require some information (your name and e-mail address) when you submit a Reader Review. These reviews are accessible to all site visitors -- if you don't want your comments to be viewed by all visitors, please don't submit them. LUSH reserves the right to edit or remove any Reader Reviews that is deemed, atour sole discretion, to be offensive, illegal or inappropriate in any way for the website. LUSH also reserves the right to remove any submissions that it deems to be off-topic. 
+  * Aggregate Site Use Information
+  * Online Order Information and Security
+  * E-news Sign-up and Online Customer Forum
 
-LUSH may also use personal account information and data collected through yourpersonal identification to generate statistics and aggregate reports forinternal use and for sharing with affiliates, subsidiaries, licensees,successors and advertisers. These statistics and aggregate reports will not contain any personally identifiable information. Your identity is kept anonymous. 
 
-**The Information We Collect:**
 
-This notice applies to all information collected or submitted on the lush.com website. On some pages, you can order products,make request, and register to receive materials. The types of personal information collected at these pages are:
+## Aggregate Site Use Information
 
-Name
+We record information about the pages viewed by all of our website visitors. This data includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, connection speed, read time, display time, and number of clicks.
 
-Address
+We use this data, in aggregate form, to compile statistics and reports for LUSH's use, and improve the online experience for all visitors.
 
-Email Address
+We may, on occasion, provide portions of this aggregate information to vendors, consultants, potential advertisers, or news agencies. Typical uses of the data in this fashion would be to gauge the amount of interest in our site and/or to plan for site infrastructure improvements.
 
-Phone Number
+### Cookie Use
 
-Credit/Debit Card Information
+A cookie is a small text file stored on a user's hard drive. When you visit our site we use cookies. **Cookies are required to shop on our site**. We also use cookies to assist with anonymous site traffic analysis, which includes tracking the time/date of visits, pages viewed, and referring URLs.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want to sent directly torecipient, you will need to submit the recipients address. In this circumstance, the types of personal information collected are:
+## Online Order Information and Security
 
-Name
+If you place an order online, we only request the information needed to complete the processing of your orders and billing. We also share our users' personal information with outside shipping companies and credit card processing companies in order to bill and ship your order, but we do not provide any more information than necessary for these purposes. We may also use the information to contact you regarding your order.
 
-Address
+### Our Site Security
 
-Phone Number 
+We use appropriate security safeguards to protect your personal information against loss, theft, and unauthorized access. Any personal information you provide to LUSH is exchanged on a secure server. We use an advanced security system, the Secure Sockets Layer (SSL) protocol, to encrypt, or encode, information you send to us in the order process. The encryption process protects information, such as your credit card number, and billing and shipping information by scrambling it before it is sent from your computer. Only once we receive your information is it decoded, and we make all reasonable efforts to ensure its security on our own systems.
 
-(etc.)
+### Warning:
 
-**How does LUSH protect your personal information?**
+Email is not a secure means to send personal information, as it is not encrypted. We strongly encourage you to use our secure ordering process when ordering online. For general correspondence we also have our secure Contact Us page.
 
-When you provideus with personal information or place an order, it's done through a secureserver. One of today's most advanced security systems -- Secure Socket Layers(SSL) -- encrypts all information you provide before sending it to our own server. Only when it reaches the LUSH servers is your information decrypted. As a protection for you, you will be required to enter your credit-card information to complete each purchase. Shipped packages do not contain receipts with your full payment information on them.
+## E-news Sign-up and Online Customer Forum
 
-**Does LUSH use "Cookies"?**
+Visitors to our site may choose to opt in to receive LUSH email. They may also choose to use our free online customer forum. 
 
-Depending on how you have configured your browser, when you shop at lush.com, a small file -- a "cookie" -- is stored on yourcomputer. The cookie contains a unique personal identification code and is usedto: 
+### Customer Forum
 
--Save your Shopping Bag and retrieve it thenext time you visit the site.
+Visitors choosing to use our free online customer forum are bound by the user-provided content guidelines set out in our Terms of Use. 
 
--Personalize your experience by alertingyou to features and information we think would interest you.
+### E-news Sign-up
 
--Help us improve our site's functionalityfor our customers.
+LUSH e-news is sent only to users who choose to provide us with their email address. Our subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving e-news, can use our online subscriber services in My Account.
 
-If you arrive on lush.com with your cookies turned off, you won't be identified until you register and sign-in. 
+We collect aggregate information regarding open rates, page views, and generated sales from our HTML emails. Aggregate information does not personally identify individuals. Subscribers concerned about collection of aggregate information may unsubscribe in My Account.
 
-  
-**Does LUSH disclose personal customer information to anyone other than LUSH?**
+## Fraud Prevention
 
-A) LUSH contracts with certain trusted companies to act on our behalf by performing such functions as fulfilling orders and delivering packages. Those entities are provided with only the information needed to perform theirspecific function and may not use such information for other purposes. Those entities are bound by a contractual agreement not to use your information for any other purposes. 
+LUSH reserves the right to co-operate with local, national, or international law enforcement or other authorities in the investigation of improper or unlawful activities and this may require the disclosure of personal information. If such an investigation requires disclosure of personal information kept in our records, we may be required by law to cooperate. We also reserve the right to report improper or unlawful user activities on our site, which may require the disclosure of personal information relating to those individuals conducting such improper or unlawful activities.
 
-B) Users non-aggregated specific personal information is not currently sold, rented or made available to anyone other than LUSH as described in (A) above, but we may decide to do so in the future. If this were to happen, LUSH would announce such a plan and ask you to "opt in". By default, we'd assumethat you don't want in -- if you wanted to share your personal information, you would have to respond. In the absence of such a response, your information would not be shared with anyone other than LUSH. 
+## Links
 
-LUSH reserves the right to co-operate with local, provincial and nationalofficials in any investigation requiring either personal information --including any personal information provided online through lush.com -- or reports about lawful or unlawful user activities on the Web Site. 
+This web site contains links to other sites and advertisements. This privacy statement only applies to information collected by our web site. We are not responsible for the privacy practices and policies of these third parties.
 
-LUSH reserves the right to change this Privacy Policy at any time. We alsoreserve the right at any time to disclose any information in an individual'saccount: 
+## Accuracy of Information
 
-i. to satisfy any law, regulation or government request; 
+We strive to ensure that any personal information we retain and use is as accurate, complete and up-to-date as necessary for the purposes for which we will use it. We do not routinely update personal information unless necessary for these purposes. Nonetheless, if our records regarding your personal information are inaccurate or incomplete, we will amend that information at your request.
 
-ii. if such disclosure is necessary orappropriate to site operation; or 
+## Access to Information
 
-iii. to protect the rights or property of lush.com and its users, sponsors, providers, licensors or merchants. 
+At your request, we will provide to you a statement explaining the extent to which we hold personal information about you, and we will explain how that information has been used or disclosed by us.
 
-**Our Commitment to Children's Privacy**
+This page will be updated if information about the collection and use of your personal data changes.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+## Changes to this Privacy Policy
 
-**Contacting us Regarding Privacy**
-
-Should you have any concerns regarding privacy on our site or should you wishto have your personal information deleted, please send a detailed description to info@lush.com so we may address your concerns. If you wish to update your personal information, please visit the Account Maintenance page in the My Account tab on our main navigational toolbar on our website to make such changes online. 
+LUSH may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. All changes will remain in compliance with federal and provincial privacy legislation.
