@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216094120id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065104id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technotraits.com
 
@@ -15,7 +15,7 @@ The type of personal information we collect are:
   * Email address (Comments)
   * Google AdSense that stores tracking cookies on your computer
   * 3rd party advertisements that may store tracking cookies on your computer to recognize repeated visits (only)
-  * Tracking cookies by Google Analytics for statistical purposes - this data is not traceable back to you except for your IP address
+  * Tracking cookies by Google Analytics for statistical purposes – this data is not traceable back to you except for your IP address
 
 
 
@@ -26,6 +26,8 @@ A cookie is a small file which asks permission to be placed on your computer’s
 Technotraits.com may use cookies to keep some information that are placed by a Web site in a storage place on your own computer. We use cookies to track usage patterns on the site. Our cookies do not contain personally identifiable information and such cookies are not shared with any third party.
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
