@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024759id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171543id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
 
 # Jaunted Privacy Policy || Jaunted
 
-Last Revised April 24, 2008 
+Last Revised March 9, 2009 
 
 Kids and parents click here! 
 
@@ -45,6 +45,7 @@ VI. PRIVACY POLICY COORDINATOR
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
 
 Privacy Policy Coordinator  
-CondeNet  
-1166 Sixth Avenue 15th Floor  
-New York, NY 10036 
+The Condé Nast Publications  
+1313 Market Street  
+Wilmington, DE 19801  
+Privacy_administration@condenast.com 
