@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the petedge.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011148id_/http%3A//www.petedge.com/custserv/custserv.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petedge.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616063602id_/http%3A//www.petedge.com/custserv/custserv.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <link href="/css/screen.css" rel="stylesheet" title="PetEdge Screen Styles">
 <link href="/assets/images/petedge_favicon.ico" rel="icon">
-<script src="/js/utility_javascript.jsp" language="JavaScript" type="text/javascript"></script>
+<script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/lib.js" type="text/javascript"></script>
+<script src="/js/widget-qv-uc.jsp" type="text/javascript"></script>
+<script src="/js/utility_javascript.jsp" language="JavaScript"></script>
 <title>PetEdge: Privacy &amp; Security</title>
 
 
@@ -20,6 +23,7 @@
 	<div id="pe_wrapper_inner">
 		<!-- Global Header [ Begin ] -->
 		
+
 
 
 
@@ -52,9 +56,9 @@
 				<a class="white_underline" href="http://www.petedge.com/custserv/aboutus.jsp">About PetEdge</a>&nbsp;&nbsp;
 				<a class="white_underline" href="http://www.petedge.com/library/library.jsp">Library</a>
 				<a href="http://www.petedge.com/checkout/basket.jsp"><img style="margin: 0 3px 0 17px;" src="/assets/images/global/icon_cart.gif" width="16" height="13" border="0" alt="Shopping Cart"></a>
-				<a class="shopping_cart" href="http://www.petedge.com/checkout/basket.jsp">Shopping Cart:</a>&nbsp;
+				<span class="cart-button button" id="widget-but-ucart"><a class="shopping_cart" id="widget-ucart-but" href="http://www.petedge.com/checkout/basket.jsp">Shopping Cart:</a>&nbsp;
                 
-                <span style="color: white;">$0.00</span>
+                <span style="color: white;" id="widget-ucart-item-count">$0.00</span></span>
 				<div id="header_search">
 					<form action="/" method="get" name="endecaSearchForm" onsubmit="return search(this)"><input type="hidden" name="form_state" value="endecaSearchForm">
 						<span style="color: white;"><b><label for="search_box">SEARCH</label>:</b></span>
@@ -64,6 +68,7 @@
 					</form>
 				</div>
 			</div>
+			<div class="fclear"><!-- --></div>
 		</div>
 		<!-- My Account Info [ Begin ] -->
 		<div id="pe_my_account">
@@ -104,7 +109,15 @@
 						
 						<li>
 						
-							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=1087">Holiday Headquarters</a>
+							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=239">Clearance</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=1244">Package Deals</a>
 						
 						
 						</li>
@@ -120,7 +133,15 @@
 						
 						<li>
 						
-							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=239">Clearance</a>
+							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=895">New Products</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=1222">$5.99 Value Mart</a>
 						
 						
 						</li>
@@ -136,8 +157,16 @@
 						
 						<li>
 						
+							<a href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=1240">Weekly Specials</a>
 						
-							<a style="border-bottom: 0;" href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=895">New Products</a>
+						
+						</li>
+					
+						
+						<li>
+						
+						
+							<a style="border-bottom: 0;" href="/catalog/category.jsp?parentCategoryId=197&amp;categoryId=1243">Top Tens</a>
 						
 						</li>
 					
@@ -155,14 +184,6 @@
 						
 						<li>
 						
-							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=882">Gifts for Pet Lovers</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
 							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=198">Pet Apparel</a>
 						
 						
@@ -171,7 +192,7 @@
 						
 						<li>
 						
-							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=199">Pet Carriers</a>
+							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=201">Pet Jewelry &amp; Hair Accessories</a>
 						
 						
 						</li>
@@ -187,7 +208,15 @@
 						
 						<li>
 						
-							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=201">Pet Jewelry &amp; Hair Accessories</a>
+							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=882">Gifts for Pet Lovers</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="http://apparelandaccessories.petedge.com/catalog/category.jsp?parentCategoryId=189&amp;categoryId=199">Pet Carriers</a>
 						
 						
 						</li>
@@ -230,7 +259,7 @@
 						
 						<li>
 						
-							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=212">Grooming Apparel</a>
+							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=214">Grooming Tools</a>
 						
 						
 						</li>
@@ -238,7 +267,7 @@
 						
 						<li>
 						
-							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=214">Grooming Tools</a>
+							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=820">Retail Displays &amp; Fixtures</a>
 						
 						
 						</li>
@@ -254,14 +283,6 @@
 						
 						<li>
 						
-							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=215">Business Aids</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
 							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=213">Grooming Supplies</a>
 						
 						
@@ -270,7 +291,15 @@
 						
 						<li>
 						
-							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=1018">Groomer Stylist Best Buys</a>
+							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=212">Grooming Apparel</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=215">Business Aids</a>
 						
 						
 						</li>
@@ -279,7 +308,7 @@
 						<li>
 						
 						
-							<a style="border-bottom: 0;" href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=820">Retail Displays &amp; Fixtures</a>
+							<a style="border-bottom: 0;" href="http://grooming.petedge.com/catalog/category.jsp?parentCategoryId=190&amp;categoryId=1018">Groomer Stylist Best Buys</a>
 						
 						</li>
 					
@@ -305,6 +334,22 @@
 						
 						<li>
 						
+							<a href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=221">Medical &amp; Nutrition</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=307">Dental</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
 							<a href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=308">Eye &amp; Ear Care</a>
 						
 						
@@ -321,24 +366,8 @@
 						
 						<li>
 						
-							<a href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=307">Dental</a>
 						
-						
-						</li>
-					
-						
-						<li>
-						
-							<a href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=221">Medical &amp; Nutrition</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
-						
-							<a style="border-bottom: 0;" href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=216">Breeding</a>
+							<a style="border-bottom: 0;" href="http://health.petedge.com/catalog/category.jsp?parentCategoryId=193&amp;categoryId=216">Breeding and Whelping</a>
 						
 						</li>
 					
@@ -356,14 +385,6 @@
 						
 						<li>
 						
-							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=222">Beds &amp; Furniture</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
 							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=310">Cages &amp; Crates Accessories</a>
 						
 						
@@ -372,7 +393,7 @@
 						
 						<li>
 						
-							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=224">Car &amp; Travel</a>
+							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=222">Beds &amp; Furniture</a>
 						
 						
 						</li>
@@ -380,7 +401,7 @@
 						
 						<li>
 						
-							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=225">Cleanup</a>
+							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=224">Car &amp; Travel</a>
 						
 						
 						</li>
@@ -397,6 +418,14 @@
 						<li>
 						
 							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=227">Outdoor Products</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="http://homeandkennel.petedge.com/catalog/category.jsp?parentCategoryId=194&amp;categoryId=225">Cleanup</a>
 						
 						
 						</li>
@@ -423,14 +452,6 @@
 						
 						<li>
 						
-							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=231">Dog Treats</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
 							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=230">Dog Toys</a>
 						
 						
@@ -439,7 +460,7 @@
 						
 						<li>
 						
-							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=229">Dental Chews</a>
+							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=231">Dog Treats</a>
 						
 						
 						</li>
@@ -448,6 +469,14 @@
 						<li>
 						
 							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=228">Cat Toys &amp; Treats</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
+							<a href="http://toysandtreats.petedge.com/catalog/category.jsp?parentCategoryId=195&amp;categoryId=229">Dental Chews</a>
 						
 						
 						</li>
@@ -474,23 +503,15 @@
 						
 						<li>
 						
+							<a href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=237">Pet Training Aids</a>
+						
+						
+						</li>
+					
+						
+						<li>
+						
 							<a href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=305">Collars &amp; Restraints</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
-							<a href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=234">Dog Show Products</a>
-						
-						
-						</li>
-					
-						
-						<li>
-						
-							<a href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=235">Doors &amp; Gates</a>
 						
 						
 						</li>
@@ -506,8 +527,16 @@
 						
 						<li>
 						
+							<a href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=235">Doors &amp; Gates</a>
 						
-							<a style="border-bottom: 0;" href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=237">Training Aids</a>
+						
+						</li>
+					
+						
+						<li>
+						
+						
+							<a style="border-bottom: 0;" href="http://trainingandcontrol.petedge.com/catalog/category.jsp?parentCategoryId=196&amp;categoryId=234">Dog Show Products</a>
 						
 						</li>
 					
@@ -521,6 +550,33 @@
 
 
 
+
+
+	<script type="text/javascript">
+
+		function openBasketPage()
+		{
+			window.location = '/checkout/basket.jsp';
+		}
+
+   	$(function(){
+			$("#widget-but-ucart").click(function(){
+			  openBasketPage();
+			});
+		});
+		
+
+		$(function(){
+		   var ucartTimer;
+
+		   $("#widget-but-ucart").hover(function(){
+		      ucartTimer = setTimeout(function() { showBasket('show',''); }, 500);
+		   },function(ev) {
+		      if( typeof ucartTimer != undefined ) { clearTimeout(ucartTimer); }
+		   });
+		});
+		
+		</script>
 
 <!-- this code creates the endeca search query string -->
 <script src="/js/endeca_util.jsp" language="JavaScript"></script>
@@ -561,6 +617,7 @@
   
   <div id="widget_sub_nav_cats">
     <ul>
+    <li><a href="/custserv/custserv.jsp?pageName=penopricedownload">Catalog Download Center</a></li>
     <li><a href="/custserv/custserv.jsp?pageName=satisfaction_guarantee">Satisfaction Guarantee</a> </li>
     <li><a href="/custserv/custserv.jsp?pageName=order info">Ordering Information</a></li>
     <li><a href="/custserv/custserv.jsp?pageName=changing in process order">Changing an In-Process Order<br>
