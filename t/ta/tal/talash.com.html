@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the talash.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217050203id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talash.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616180827id_/http%3A//eshop.talash.com/index.php%3Ffile%3Dst-static%26tpl%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head><base href="http://eshop.talash.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><base href="http://eshop.talash.com/">
+
+<script type="text/javascript">
+    var GB_ROOT_DIR = "http://eshop.talash.com/javascripts/greybox/";
+</script>
+<script type="text/javascript" src="javascripts/greybox/AJS.js"></script>
+<script type="text/javascript" src="javascripts/greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="javascripts/greybox/gb_scripts.js"></script>
+<link href="javascripts/greybox/gb_styles.css" rel="stylesheet" type="text/css">
 
 <title>Send Flowers, Cakes, Sweets, Salwar Kameez, Sarees, Gifts to India</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,43 +17,19 @@
 <meta name="keywords" content="Cake, Cakes, Shape Cakes, Birthday Cake, Wedding Cake, Chocolates, Flowers, Fresh Flowers, Wedding Flowers, Florist, Apparels, Salwar Kameez, Salwar Suit, Choli, Cholies, Short Tops, Long Kurtas, ladies suit, ladies salwar suit, stitch and unstitch salwar kameez, Sweets, Indian Sweets, Gujarati Sweets, Ice creams, Handicrafts Items, Sarees, Bandhni Sarees, mobile phones, Holi Gifts, Kitchen Appliances, Leather Bags, Pendants, Cameras, Kids Watches, Gents watches, Ladies Watches, Titan Watches, Colonge, Perfumes, enamelware, Dinner Sets, Gift Vouchers, Dinner Gifts, Showpieces, Fruits, Cosmetics, Soft Toys, Kids Store, Barbie accessories, Bedlines, Camcorder, Crockery, Gujarat Handicrafts, jewellery, jewelry">
 <meta name="robots" content="index,follow">
 <meta name="revisit-after" content="2 days">
-	</head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><include filename="lib/includecss.html">
+	<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=16411207"></script></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><include filename="lib/includecss.html">
 
 <link href="css/defaultstyle.css" rel="stylesheet" type="text/css">
+<link href="http://eshop.talash.com/css/style2008-topmenu.css" rel="stylesheet" type="text/css">
 
-<table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
+<table width="990" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr> 
     <td> <!-- Start of Stuffed Tracker 3.0.3 code for http://talash.com -->
+<link href="css/menu_08.css" rel="stylesheet" type="text/css">
+<link href="css/style2008-topmenu.css" rel="stylesheet" type="text/css">
 <link href="css/defaultstyle.css" rel="stylesheet" type="text/css">
-<link href="css/style2008.css" rel="stylesheet" type="text/css">
-
-<!--Tab Effect-->
-<link rel="stylesheet" type="text/css" href="ajaxtabs/ajaxtabs.css">
-<script language="javascript" type="text/javascript" src="ajaxtabs/ajaxtabs.js"></script>
-<script language="javascript" type="text/javascript" src="ajaxtabs/ajax.js"></script>
-
-<!--end-->
-
-<script type="text/javascript">
-var nsSiteId=1;
-var nsTrackPath='http://talash.com/stuffed_tracker/track/default.html?';
-var nsTrackMode='default';
-var nsCode=1;
-</script>
-<script type="text/javascript" src="http://talash.com/stuffed_tracker/track.js"></script><noscript>
-<p style="display:none"><img src="http://talash.com/stuffed_tracker/track/default.html?st=1" width="1" height="1" alt="" style="display:none"/></p>
-</noscript>
-<!-- End of Stuffed Tracker code -->
-
-<script language="javascript" type="text/javascript" src="javascripts/js/topmenu.js"></script>
-<script language="javascript" type="text/javascript" src="javascripts/js/mm_menu.js"></script>
-<!-- End of new talash menu -->
-
-
-<script language="JavaScript1.2">
-var url = "eshop.talash.com";
-mmLoadMenus(url);
-</script>
+<script type="text/javascript" language="JavaScript" src="javascripts/mootools.js"></script>
+<script type="text/javascript" language="JavaScript" src="javascripts/menu.js"></script>
 
 
 <script language="javascript">
@@ -58,107 +42,595 @@ function checksearch(formobj)
 		return false;
 	}
 }
+function checksearchdata(){
+	if(document.getElementById('keyword').value==''){
+		alert("Please enter search keyword.");
+		document.getElementById('keyword').focus();
+		return false;
+	}	
+}
+
 </script>
 
-<table width="800" border="0" cellspacing="0" cellpadding="0">
 
+
+<script language="javascript" type="text/javascript">
+flag=false;
+var cnt=-1;
+var prev='';
+var total_cnt;
+function checksearch(formobj)
+{
+	if(formobj.keyword.value == "")
+	{
+		alert("Please Enter the Search keyword");
+		formobj.keyword.focus();
+		return false;
+	}
+}
+function call(e){
+	document.getElementById('keyword').focus();
+	var keynum;
+	var keychar;
+	var numcheck;
+	
+	if(window.event) // IE
+	  {
+	  keynum = e.keyCode;
+	  }
+	else if(e.which) // Netscape/Firefox/Opera
+	  {
+	  keynum = e.which;
+	  }
+	  //alert(keynum)
+	keychar = String.fromCharCode(keynum);
+	numcheck = /\d\w/;
+
+	if((keynum>64 && keynum<91) || (keynum>96 && keynum<123) || (keynum>47 && keynum<58) || keynum==32 || keynum==8){
+		if(flag==false){
+			flag=true;
+			setTimeout("ajaxFunction()", 800);
+		}
+		return !numcheck.test(keychar);
+	}else if(keynum==40){
+		//alert(cnt+'<'+(total_cnt-1))
+		if(cnt<(total_cnt-1)){
+			cnt = cnt+1;
+			document.getElementById('td_'+cnt).bgColor="#DCE6EF";
+			document.getElementById('keyword').value = document.getElementById('hidden_'+cnt).value;
+		}else{
+			cnt=0;
+			document.getElementById('td_'+cnt).bgColor="#DCE6EF";
+			document.getElementById('keyword').value = document.getElementById('hidden_'+cnt).value;
+		}
+		if(prev>='0'){
+			document.getElementById('td_'+prev).bgColor="#FFFFFF";
+		}
+		prev=cnt;		
+	}else if(keynum==38){
+		if(cnt>0){
+			cnt = cnt-1;
+			document.getElementById('td_'+cnt).bgColor="#DCE6EF";
+			document.getElementById('keyword').value = document.getElementById('hidden_'+cnt).value;
+		}else{
+			cnt=(total_cnt-1);
+			//prev=-1;
+			document.getElementById('td_'+cnt).bgColor="#DCE6EF";
+			document.getElementById('keyword').value = document.getElementById('hidden_'+cnt).value;
+		}
+		if(prev>='0'){
+			document.getElementById('td_'+prev).bgColor="#FFFFFF";
+		}
+		prev=cnt;
+	}else if(keynum==27){
+		document.getElementById('keywordupdate').style.display='none';
+	}else{
+		return;
+	}
+}
+
+function ajaxFunction()
+{
+flag=false;
+var xmlHttp;
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+	  	cnt=-1;
+		prev='';
+	  	document.getElementById('keywordupdate').style.display="block";
+		if(xmlHttp.responseText!=''){
+	      	document.getElementById('keywordupdate').innerHTML=xmlHttp.responseText;
+		}
+		total_cnt = document.getElementById('total_cnt').value;
+		
+      }else{
+		document.getElementById('keywordupdate').style.display="block";
+		if(document.getElementById('keywordupdate').innerHTML==''){
+			document.getElementById('keywordupdate').innerHTML="<b>Processing...</b>";
+		}
+	  }
+    }
+  val = document.getElementById('keyword').value;
+  xmlHttp.open("GET","/index.php?file=c-search&val="+val,true);
+  xmlHttp.send(null);
+  setTimeout("set_cnt()", 5000);
+  
+  }
+  
+  function set_cnt(){
+  	total_cnt=document.getElementsByName('search_result').length;	
+  }
+  
+  function select_value(val){
+  	document.getElementById('keyword').value=val;
+//	alert(val+":"+document.getElementById('keyword').value)
+	document.getElementById('keywordupdate').style.display="none";
+  }
+  
+document.onclick=function(e){
+	temp = new Array();
+	value = e.target;
+	temp = (value.id).split('_');
+	if(temp[0]!='td'){
+		document.getElementById('keywordupdate').style.display='none';
+	}
+}
+</script>
+
+
+
+
+
+
+<table width="990" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td colspan="2" valign="bottom" style=" background:url(http://eshop.talash.com/gifs/newhome-page/images/background-image.jpg) repeat-x;">
-      <div align="left">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td rowspan="2"><a href="http://eshop.talash.com" title="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts"><img src="http://eshop.talash.com/gifs/newhome-page/images/talash-logo.jpg" alt="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts" width="130" height="38" border="0"></a></td>
-            <td colspan="2" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <td width="50%" height="30" align="right" nowrap="nowrap">&nbsp;</td>
+            <td width="50%" align="right"><table width="100%" border="0" cellspacing="1" cellpadding="1">
                 <tbody><tr>
-                  <td width="7" height="25" align="left" valign="top"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-blue-left-curve.jpg" width="7" height="25" alt="Img"></td>
-                  <td class="top-mid-bg"><table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td align="center" valign="middle" class="top-nav"><a href="#" class="top-nav">
-                          <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
-                          <!--                    <script language="JavaScript"  src="http://niclive.indianic.com/js/status_image.php?base_url=http://niclive.indianic.com&amp;l=admin&amp;x=1&amp;deptid=5&amp;text=Live+Support" type="text/javascript" ></script>-->
-                          <!-- END PHP Live! code : (c) OSI Codes Inc. -->
-                        </a></td>
-						  <td align="center" valign="middle" class="top-nav"><a href="http://talash.com" class="top-nav">Home</a></td>
-                        <td align="center" valign="middle" class="top-nav"><a href="http://eshop.talash.com/index.php?file=s-specialitemrequest" class="top-nav">Special Item Request</a></td>
-						<td align="center" valign="middle" class="top-nav"><a href="http://eshop.talash.com/index.php?file=c-cart_address&amp;user=direct" class="top-nav">Login</a></td>
-                        <td align="center" valign="middle" class="top-nav"><a href="http://eshop.talash.com/index.php?file=s-specialitemrequest" class="top-nav">Request Shopping</a></td>
-                        <td align="center" valign="middle" class="top-nav"><a href="http://eshop.talash.com/index.php?file=u-ordertrack" class="top-nav">Order Tracking </a></td>
-                      </tr>
-                  </tbody></table></td>
-                  <td width="7" height="25" align="right" valign="top"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-blue-right-curve.jpg" width="7" height="25" alt="Img"></td>
+                  <td width="10%" align="center" nowrap="nowrap"><a href="http://talash.com" class="top-nav">Home</a></td>
+                  <td width="0%" align="center" nowrap="nowrap">|</td>
+                  <td width="23%" align="center" nowrap="nowrap"><a href="index.php?file=s-specialitemrequest" class="top-nav">Special Item Request</a></td>
+                  <td width="1%" align="center" nowrap="nowrap">|</td>
+                  <td width="15%" align="center" nowrap="nowrap"><!-- BEGIN LivePerson Button Code -->
+                      <a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat16411207" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16411207/?cmd=file&amp;file=visitorWantsToChat&amp;site=16411207&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat16411207','width=475,height=400,resizable=yes');return false;"><span style="font:normal 11px Verdana, Arial, Helvetica, sans-serif; color:#00709B">Live Chat </span></a>
+                    <!-- END LivePerson Button code --></td>
+                  <td width="1%" align="center" nowrap="nowrap">|</td>
+                  <td width="16%" align="center" nowrap="nowrap"><a href="index.php?file=u-userarea" class="top-nav">My Account</a></td>
+                  <td width="1%" align="center" nowrap="nowrap">|</td>
+                  <td width="17%" align="center" nowrap="nowrap"><a href="index.php?file=u-ordertrack" class="top-nav">Order Tracking</a></td>
+                  <td width="1%" align="center" nowrap="nowrap">|</td>
+                  <td width="15%" align="center" nowrap="nowrap"><span class="top-nav"><a href="index.php?file=c-cart_address&amp;user=direct" class="signin">SignIn</a></span></td>
                 </tr>
             </tbody></table></td>
           </tr>
-          <tr>
-            <td><table width="100%" border="0" cellpadding="2" cellspacing="2">
-                <form action="http://eshop.talash.com/index.php?file=s-search" method="post" name="search" id="search" onsubmit="return checksearch(this);"></form>
-                  <input type="hidden" name="categoryid" value="All">
-                  <input type="hidden" name="pricelisttop" value="0">
-                  <tbody><tr>
-                    <td width="12%" align="left" valign="middle"><span class="search">Search:</span></td>
-                    <td width="245" align="left" valign="middle"><input name="keyword" type="text" class="input-text" size="50"></td>
-                    <td align="left" valign="middle"><input name="image" type="image" class="go-btn" value="Go" src="http://eshop.talash.com/gifs/newhome-page/images/go_btn.gif" alt="Go"></td>
-                  </tr>
-                
-            </tbody></table></td>
-            <td><!--<div align="right">
-                AddThis Button BEGIN 
-                <script type="text/javascript">addthis_pub  = 'talash';</script>
-                <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout=		"addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
-                <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-                 AddThis Button END 
-            </div>--><div align="right"><a href="index.php?file=s-cartbox"><strong><br>
-                        <img src="gifs/bag.gif" alt="" width="17" height="18" border="0" align="absmiddle"></strong>Items <strong>(0)</strong>&nbsp;<br>
-                        <strong>Total :</strong> $ <strong>0.00</strong> <br>
-            </a></div></td>
-          </tr>
-        </tbody></table>
-      </div></td>
-  </tr>
-  <tr>
-    <td height="9" colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="9" height="27"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-left-curve.jpg" alt="Img" width="9" height="27"></td>
-        <td class="top-nav-bg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="5" align="left" valign="top"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td height="27" align="center" valign="middle" class="topsub-nav"><a href="http://www.talash.com/" class="topsub-nav">Home</a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0806144818_0,-98,20,null,'image3')" onmouseout="MM_startTimeout();">My Shopping <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image3" width="10" height="10" border="0" id="image3" alt="Img"></a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0801120453_0,-84,20,null,'image1')" onmouseout="MM_startTimeout();">Occasions <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image1" width="10" height="10" border="0" id="image1" alt="Img"></a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0806151439_0,-125,20,null,'image2')" onmouseout="MM_startTimeout();">Express Delivery <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image2" width="10" height="10" border="0" id="image2" alt="Img"></a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0806151703_0,-70,20,null,'image4')" onmouseout="MM_startTimeout();">Gift Shop <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image4" width="10" height="10" border="0" id="image4" alt="Img"></a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0806151932_0,-88,20,null,'image5')" onmouseout="MM_startTimeout();">Cds &amp; more  <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image5" width="10" height="10" border="0" id="image5" alt="Img"></a></td>
-            <td align="center" valign="middle"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-line.jpg" width="2" height="20" alt="Img"></td>
-            <td align="center" valign="middle" class="topsub-nav"><a href="#" class="topsub-nav" onmouseover="MM_showMenu(window.mm_menu_0806152113_0,-94,20,null,'image6')" onmouseout="MM_startTimeout();">Global Store <img src="http://eshop.talash.com/gifs/newhome-page/images/down-arrow.jpg" name="image6" width="10" height="10" border="0" id="image6" alt="Img"></a></td>
+            <td width="13%" align="left" valign="top"><a href="http://eshop.talash.com" title="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts"><img src="gifs/newhome-page/images/talash-logo.gif" alt="Gifts to India, Flowers India, Send Gifts to India, Buy Online Gifts" width="130" height="40" border="0"></a></td>
+            <td width="1%" align="left" valign="top">&nbsp;</td>
+            <td width="86%" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="15" align="left" valign="top"><img src="gifs/newhome-page/images/search_round_left.gif" width="15" height="40"></td>
+                <td width="821" align="left" valign="top" style=" background:#146EB4;">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="435" align="left" valign="top" style="padding-top:7px;"><form action="index.php" method="get" name="search" id="search"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="11%" align="center" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif); font:bold 12px 'Tahoma'; color:#FFFFFF; ">Search</td>
+                        <td width="31%" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif)">
+						<select name="pricelisttop" style="height:20px; width:130px;">
+           			<option value="0">Any Range</option>
+
+						<option value="1">Below US $10</option>
+
+						<option value="2">Us $10 to Us $25</option>
+
+						<option value="3">Us $25 to Us $50</option>
+
+						<option value="4">Us $50 to Us $100</option>
+
+						<option value="5">Above Us $100</option>
+                        </select>
+                        </td>
+                        <td width="47%" align="left" style="background:url(http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif)"><input id="keyword" name="Query" type="text" autocomplete="off" class="input-text" size="50" onkeyup="return call(event)" style="height:20px; padding-top:3px; width:200px; display:block;">
+                        <div id="keywordupdate" style="margin-top:1px; display:none; border:1px solid #999999; background-color:white; z-index:1005; position:absolute; overflow:auto; height:auto; width:250px;" onkeyup="return call(event)" align="left"></div>
+						</td>
+                        <td width="10%"><input name="image" type="image" class="go-btn" value="Go" src="gifs/newhome-page/images/circle_go.gif" alt="Go" style="width:44px; height:33px; border:none;" onclick="return checksearchdata()"></td>
+                        <td width="1%">&nbsp;</td>
+                      </tr>
+                    </tbody></table>
+				<input type="hidden" name="categoryid" value="All">
+				<input type="hidden" name="file" value="s-keyword_search">
+					</form></td>
+                    <td width="160" align="left" valign="top" style="padding-top:7px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="6%"><img src="gifs/newhome-page/images/search_round_left1.gif" width="10" height="33"></td>
+                        <td width="91%" align="center" background="http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif" style="color:#FFFFFF; font:bold 11px 'Tahoma'; text-transform:uppercase;">Free Shipping to India </td>
+                        <td width="3%"><img src="gifs/newhome-page/images/search_round_right1.gif" width="10" height="33"></td>
+                      </tr>
+                    </tbody></table></td>
+                    <td width="4" align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top" style="padding-top:7px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="10"><img src="gifs/newhome-page/images/search_round_left1.gif" width="10" height="33"></td>
+                        <td width="250" background="http://eshop.talash.com/gifs/newhome-page/images/top_btn_repeat.gif"><div align="center"><a href="index.php?file=s-cartbox" style="color:#FFFFFF;"><img src="gifs/newhome-page/images/cart_icon.gif" alt="" width="26" height="29" border="0" align="absmiddle"> Items (0)&nbsp;Total : $ 0.00</a></div></td>
+                        </tr>
+                    </tbody></table></td>
+                  </tr>
+                </tbody></table></td>
+                <td width="15" align="left" valign="top"><img src="gifs/newhome-page/images/search_round_right.gif" width="15" height="40"></td>
+              </tr>
+            </tbody></table></td>
           </tr>
         </tbody></table></td>
-        <td width="9" height="27"><img src="http://eshop.talash.com/gifs/newhome-page/images/top-nav-right-curve.jpg" alt="Img" width="9" height="27"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="8" align="left" valign="top"><img src="gifs/newhome-page/images/nav_left_round.gif" width="8" height="37"></td>
+            <td width="975" align="left" valign="top" bgcolor="#146EB4" style="padding-top:9px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="99%" align="left" valign="top" class="navlinks">
+		<div id="navlinks">
+        <ul>
+          <li><a href="#" title="Gift Shop">Gift Shop</a></li>
+          <li><a href="index.php?file=st-express&amp;tpl=express" title="Express Delivery">Express Delivery</a></li>
+          <li><a href="#" title="Electronics">Electronics</a></li>
+          <li><a href="#" title="Fashion">Fashion</a></li>
+          <li><a href="#" title="Books &amp; CDs">Books &amp; CDs</a></li>
+          <li><a href="#" title="Home Decor">Home Decor</a></li>
+          <li><a href="#" title="Global">Global</a></li>
+          <li><a href="#" title="All Categories">All Categories</a></li>
+        </ul>
+    </div>
+        <div id="gift_shop" class="sn">
+          <div class="snleft"><a href="shop/category/food_&amp;_beverages"><span class="snhdr">Food &amp; Beverages</span></a>
+    <ul>
+      <li><a href="shop/category/food_&amp;_beverages/cakes_&amp;_chocolates" title="Cakes &amp; Chocolates">Cakes &amp; Chocolates</a></li>
+      <li><a href="shop/category/indian_sweets" title="Indian Sweets">Indian Sweets</a></li>
+      <li><a href="shop/category/food_&amp;_beverages/instant_food" title="Instant Food">Instant Food</a></li>
+      <li><a href="shop/category/Food_&amp;_Beverages/Tea_&amp;_Coffee" title="Tea &amp; Coffee">Tea &amp; Coffee</a></li>
+    </ul>
+  <a href="shop/category/personal_care_&amp;_beauty" title="Health &amp; Beauty"><span class="snhdr">Health &amp; Beauty</span></a>
+    <ul>
+      <li><a href="shop/category/personal_care_&amp;_beauty" title="Personal Care">Personal Care</a></li>
+      <li><a href="shop/category/personal_care_&amp;_beauty/hampers/hampers_for_women" title="Cosmetics">Cosmetics</a></li>
+      <li><a href="shop/category/personal_care_&amp;_beauty/perfumes" title="Perfumes">Perfumes</a></li>
+      <li><a href="shop/category/personal_care_&amp;_beauty/deodorants" title="Deo">Deo</a></li>
+	  <li><a href="shop/category/health_products/" title="Health Products">Health Products</a></li>
+    </ul>
+  <a href="shop/category/health_products" title="Sports &amp; Fitness"><span class="snhdr">Sports &amp; Fitness</span></a>
+    <ul>
+      <li><a href="shop/category/health_products/health_equipments" title="Exercise Fitness">Exercise Fitness</a></li>
+      <li><a href="shop/category/sporting_goods" title="Sports Goods">Sports Goods</a></li>
+    </ul>
+</div>
+          <div class="snmidle"><span class="snhdr">Special Gifts</span>
+              <ul>
+                <li><a href="shop/category/gift_certificates" title="Gift Certificates">Gift Certificates</a></li>
+                <li><a href="shop/category/personalized_gifts" title="Personalize gift">Personalized gift</a></li>
+                <li><a href="shop/category/combo_gift_hampers" title="Combo Gift">Combo Gift</a></li>
+                <li><a href="shop/category/unique_gifts" title="Unique Gift">Unique Gift</a></li>
+              </ul>
+            <a href="shop/category/astrology" title="Astrology"><span class="snhdr">Astrology</span></a>
+              <ul>
+			  	<li><a href="shop/category/astrology/good_luck_stones" title="Good Luck Stones">Good Luck Stones</a></li>
+                <li><a href="shop/category/astrology/rudraksha" title="Rudraksha &amp; Pendants">Rudraksha &amp; Pendants</a></li>
+                <li><a href="shop/category/astrology/planetary_gems" title="Planetary Gems">Planetary Gems</a></li>
+                <li><a href="shop/category/astrology/yantras" title="Yantras &amp; Mala">Yantras &amp; Mala</a></li>
+                <li><a href="shop/category/astrology/fengshui" title="Fengshui">Fengshui</a></li>
+              </ul>
+			   <a href="shop/category/kids_store" title="Kids Store"><span class="snhdr">Kids Store</span></a>
+			  <a href="shop/category/leather_gift_items" title="Leather Products"><span class="snhdr">Leather Products</span></a>          </div>
+          <div class="snright"><span class="snhdr">Accessories</span>
+              <ul>
+                <li><a href="shop/category/pooja_accessories" title="Pooja">Pooja</a></li>
+
+                <li><a href="shop/category/electronics/car_tape_&amp;_accessories" title="Car">Car</a></li>
+                <li><a href="shop/category/travel_accessories" title="Travel">Travel</a></li>
+                <li><a href="shop/category/Office_Supplies" title="Office">Office</a></li>
+              </ul>
+              <span class="snhdr">Occassions</span>
+              <ul>
+                <li><a href="shop/category/anniversary_gifts" title="Anniversary Gifts">Anniversary Gifts</a></li>
+                <li><a href="shop/category/birthday_gifts" title="Birthday Gifts">Birthday Gifts</a></li>
+                <li><a href="shop/category/congratulation_gifts" title="Congratulation Gifts">Congratulation Gifts</a></li>
+                <li><a href="shop/category/wedding_gifts" title="Wedding Gifts">Wedding Gifts</a></li>
+              </ul>
+			   <a href="shop/category/baby_care" title="Baby Care"><span class="snhdr">Baby Care</span></a>
+			   <a href="shop/category/gifts_for_ahmedabad" title="Gifts for Ahmedabad"><span class="snhdr">Gifts for Ahmedabad</span></a></div>
+          <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+          </div>
+        </div>
+      <div id="express" class="sn">
+          <div class="snleft"><span class="snhdr"><a href="index.php?file=st-express&amp;tpl=express" title="Express Categories">Express Categories</a></span>
+              <ul>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=90" title="Cakes">Cakes</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=408" title="Combo Gifts">Combo Gifts</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=1093" title="Flower Vase">Flower Vase</a></li>
+				<li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=632" title="Flower Basket">Flower Basket</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=633" title="Bunches &amp; Bouquets">Bunches &amp; Bouquets</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=634" title="Life Size Bouquet">Life Size Bouquet</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=791" title="Flowers Every Hour &amp; Day">Flowers Every Hour &amp; Day</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=408&amp;iCategoryId=427" title="Fresh Fruits">Fresh Fruits</a></li>
+                <li><a href="index.php?file=s-productlist_express&amp;pid=2&amp;iCategoryId=635" title="Midnight Deliveries">Midnight Deliveries</a></li>
+				<li><a href="shop/category/global_flower_shop" title="Global Flower Shop">Global Flower Shop</a></li>
+              </ul>
+          </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      <div id="electronics" class="sn">
+          <div class="snleft"><a href="shop/category/electronics"><span class="snhdr">Electronics</span></a>
+              <ul>
+                <li><a href="shop/category/electronics/camera" title="Camera">Camera</a></li>
+                <li><a href="shop/category/electronics/car_tape_&amp;_accessories" title="Car tape &amp; Accessories">Car tape &amp; Accessories</a></li>
+                <li><a href="shop/category/electronics/computer_peripherals" title="Computer Peripherals">Computer Peripherals</a></li>
+                <li><a href="shop/category/electronics/dvd_players" title="DVD Players">DVD Players</a></li>
+                <li><a href="shop/category/electronics/home_appliances/Air_Conditioners" title="Air Conditioners">Air Conditioners</a></li>
+                <li><a href="shop/category/electronics/home_appliances/Refrigerators" title="Refrigerators">Refrigerators</a></li>
+                <li><a href="shop/category/electronics/home_appliances" title="Home Appliances">Home Appliances</a></li>
+                <li><a href="shop/category/electronics/home_theater_&amp;_music_systems" title="Home Theater &amp; Music Systems">Home Theater &amp; Music Sys.</a></li>
+                <li><a href="shop/category/electronics/ipods" title="Ipods">Ipods</a></li>
+                <li><a href="shop/category/electronics/irons" title="Irons">Irons</a></li>
+                <li><a href="shop/category/electronics/mobile_phones" title="Mobile Phones">Mobile Phones</a></li>
+                <li><a href="shop/category/electronics/phones" title="Phones">Phones</a></li>
+                <li><a href="shop/category/electronics/portable" title="Portable Players">Portable Players</a></li>
+                <li><a href="shop/category/electronics/home_appliances/Televisions" title="Televisions">Televisions</a></li>
+                <li><a href="shop/category/electronics/others" title="Others">Others</a></li>
+              </ul>
+          </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      <div id="fashion" class="sn">
+          <div class="snleft"><a href="shop/category/apparels_&amp;_accessories/mens_wear"><span class="snhdr">Men's Wear</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/mens_kurta" title="Mens Kurta">Mens Kurta</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/shirts" title="Shirts">Shirts</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/sports_wear" title="Sports Wear">Sports Wear</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
+              </ul>
+            <a href="shop/category/apparels_&amp;_accessories/Mens_Accessories" title="Men's Accessories"><span class="snhdr">Men's Accessories</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/Eye_Wear" title="Eye Wear">Eye Wear</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/Leather_Items" title="Leather Items">Leather Items</a></li>
+                <li><a href="shop/category/watches/Gents_Watches" title="Watches">Watches</a></li>
+				<li><a href="shop/category/apparels_&amp;_accessories/Mens_Accessories/jewelry" title="Jewelry">Jewelry</a></li>
+              </ul>
+            <a href="shop/category/apparels_&amp;_accessories/Womens_Accessories" title="Womens' Accessories"><span class="snhdr">Womens' Accessories</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/Womens_Accessories/Purses_&amp;_Handbags" title="Purses &amp; Handbags">Purses &amp; Handbags</a></li>
+                <li><a href="shop/category/watches/Ladies_Watches" title="Watches">Watches</a></li>
+                <li><a href="shop/category/jewelry" title="Jewelry">Jewelry</a></li>
+			  </ul>
+          </div>
+        <div class="snright"><a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Wear"><span class="snhdr">Women's Wear</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/chaniya_cholis" title="Chaniya Cholis">Chaniya Cholis</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/churidar_kameez" title="Churidar Kameez">Churidar Kameez</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/kurtis" title="Kurtis">Kurtis</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/ladies_kurtas" title="Ladies Kurtas">Ladies Kurtas</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/nightwear" title="Night Wear">Night Wear</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/salwar_kameez" title="Salwar Kameez">Salwar Kameez</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/sarees" title="Sarees">Sarees</a></li>
+                <li><a href="shop/category/Apparels_&amp;_Accessories/womens_wear/winter_wear/Shawls" title="Shawls">Shawls</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/short_tops" title="Short Tops">Short Tops</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/spagetti" title="Spaghetti">Spaghetti</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
+              </ul>
+          <a href="shop/category/apparels_&amp;_accessories/kids_wear/" title="Kids Wear"><span class="snhdr">Kids Wear</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/kids_wear/t-shirts" title="T-Shirts">T-Shirts</a></li>
+              </ul>
+        </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      <div id="books" class="sn">
+          <div class="snleft">
+            <ul>
+              <a href="shop/category/books_&amp;_magazines"><span class="snhdr">Books</span></a>
+              <li><a href="shop/category/books_&amp;_magazines/Gujarati" title="Gujarati Books">Gujarati Books</a></li>
+			  <li><a href="shop/category/books_&amp;_magazines/arts-_music-theatre" title="Art - Music - Theatre">Art - Music - Theatre</a></li>
+              <li><a href="shop/category/books_&amp;_magazines/business_books" title="Business Books">Business Books</a></li>
+              <li><a href="shop/category/books_&amp;_magazines/dictionary-encyclopedia" title="Dictionary - Encyclopedia">Dictionary - Encyclopedia</a></li>
+              <li><a href="shop/category/books_&amp;_magazines/historical_books" title="Historical Books">Historical Books</a></li>
+              <li><a href="shop/category/books_&amp;_magazines" title="View More Books...">View More Books...</a></li>
+            </ul>
+          </div>
+        <div class="snright"> <a href="shop/category/cds_&amp;_dvds"><span class="snhdr">CDs</span></a>
+              <ul>
+                <li><a href="shop/category/cds_&amp;_dvds/audio_cds" title="Audio CDs">Audio CDs</a></li>
+                <li><a href="shop/category/cds_&amp;_dvds/games_cds_&amp;_dvds" title="Games CDs &amp; DVDs">Games CDs &amp; DVDs</a></li>
+                <li><a href="shop/category/cds_&amp;_dvds/movie_cds_&amp;_dvds" title="Movie CDs &amp; DVDs">Movie CDs &amp; DVDs</a></li>
+                <li><a href="shop/category/cds_&amp;_dvds" title="View more CD's">View more CD's</a></li>
+              </ul>
+        </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      <div id="home_decor" class="sn">
+          <div class="snleft">
+            <ul>
+              <a href="shop/category/home_decor"><span class="snhdr">Home Decor</span></a>
+              <li><a href="shop/category/home_decor/24_carat_gold_photoframes" title="24 Carat Gold frames">24 Carat Gold Frames</a></li>
+              <li><a href="shop/category/home_decor/Comforters_&amp;_Quilts" title="Comforters &amp; Quilts">Comforters &amp; Quilts</a></li>
+              <li><a href="shop/category/home_decor/crockery_&amp;_cookware" title="Crockery &amp; Cookware">Crockery &amp; Cookware</a></li>
+              <li><a href="shop/category/home_decor/decoratives" title="Decoratives">Decoratives</a></li>
+              <li><a href="shop/category/home_decor/handicrafts" title="Handicrafts">Handicrafts</a></li>
+              <li><a href="shop/category/home_decor/house_hold_items" title="House hold Items">House hold Items</a></li>
+              <li><a href="shop/category/home_decor/kitchen" title="Kitchen Appliances">Kitchen Appliances</a></li>
+              <li><a href="shop/category/home_decor/lights_&amp;_lamps" title="Lights &amp; Lamps">Lights &amp; Lamps</a></li>
+              <li><a href="shop/category/home_decor/paintings" title="Paintings">Paintings</a></li>
+            </ul>
+          </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      <div id="global" class="sn">
+          <div class="snleft"><a href="shop/category/global_gifts"><span class="snhdr">Worldwide</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories" title="Apparels &amp; Accessories">Apparels &amp; Accessories</a></li>
+                <li><a href="shop/category/global_gifts/jewelry" title="Jewelery">Jewelery</a></li>
+                <li><a href="shop/category/home_decor/handicrafts" title="Handicrafts">Handicrafts</a></li>
+                <li><a href="shop/category/global_gifts/sweets_to_USA" title="Sweets (For USA Only)">Sweets (For USA Only)</a></li>
+              </ul>
+            <a href="shop/category/apparels_&amp;_accessories" title="Apparels"><span class="snhdr">Apparels</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/Mens_Wear" title="Men's Apparels">Men's Apparels</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear" title="Women's Apparels">Women's Apparels</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/kids_wear" title="Kid's Apparels">Kid's Apparels</a></li>
+              </ul>
+              <span class="snhdr">Handicrafts</span>
+              <ul>
+                <li><a href="shop/category/global_gifts/brass_&amp;_metal_items" title="Brass &amp; Metal items">Brass &amp; Metal items</a></li>
+                <li><a href="shop/category/global_gifts/door_garlands" title="Door Garlands">Door Garlands</a></li>
+                <li><a href="shop/category/global_gifts/wall_hangings" title="Wall Hangings">Wall Hangings</a></li>
+               </ul>
+          </div>
+        <div class="snright"><a href="shop/category/apparels_&amp;_accessories" title="Apparels &amp; Accessories"><span class="snhdr">Apparels &amp; Accessories</span></a>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/mens_kurta" title="Mens kurta">Mens Kurta</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/mens_wear/t-shirts" title="Mens T-Shirts">Mens T-Shirts</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/sarees" title="Sarees">Sarees</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/womens_wear/salwar_kameez" title="Salwar Kameez">Salwar Kameez</a></li>
+                <li><a href="shop/category/apparels_&amp;_accessories/kids_wear" title="Kids T-shirts">Kids T-shirts</a></li>
+              </ul>
+          <a href="shop/category/global_gifts/jewelry" title="Jewelry"><span class="snhdr">Jewelry</span></a>
+              <ul>
+                <li><a href="shop/category/global_gifts/jewelry/paging/0" title="Womens Jewelry">Womens Jewelry</a></li>
+              </ul>
+			  <a href="shop/category/global_flower_shop" title="Global Flower Shop"><span class="snhdr">Global Flower Shop</span></a>        </div>
+        <div class="snbtm">
+            <ul>
+              <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			  <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      
+		<div id="All" class="sn">
+          <div class="snleft">
+  	   		<span class="snhdr">All</span>
+              <ul>
+                <li><a href="shop/category/apparels_&amp;_accessories" title="Apparels &amp; Accessories">Apparels &amp; Accessories</a></li>
+                <li><a href="shop/category/baby_care" title="Baby Care">Baby Care</a></li>
+                <li><a href="shop/category/books_&amp;_magazines" title="Books &amp; Magazines">Books &amp; Magazines</a></li>
+                <li><a href="shop/category/cds_&amp;_dvds" title="CDs &amp; DVDs">CDs &amp; DVDs</a></li>
+				<li><a href="shop/category/cakes_&amp;_chocolates/chocolates" title="Delicious Chocolates">Delicious Chocolates</a></li>
+				<li><a href="shop/category/electronics" title="Electronics">Electronics</a></li>
+				<li><a href="shop/category/combo_gifts" title="Combo Gifts">Combo Gifts</a></li>
+				<li><a href="shop/category/fresh_flowers" title="Fresh Flowers">Fresh Flowers</a></li>
+				<li><a href="shop/category/gift_certificates" title="Gift Certificates">Gift Certificates</a></li>
+				<li><a href="shop/category/combo_gift_hampers" title="Gift Hampers">Gift Hampers</a></li>
+              </ul>
+          </div>
+        <div class="snright"><a href="#"><span class="snhdr">&nbsp;</span></a>
+          <ul>
+
+            <li><a href="shop/category/global_gifts" title="Global Store">Global Store</a></li>
+		    <li><a href="shop/category/home_decor/handicrafts" title="Handicrafts">Handicrafts</a></li>
+			<li><a href="shop/category/home_decor" title="Home Decor">Home Decor</a></li>
+			<li><a href="shop/category/indian_sweets" title="Indian Sweets">Indian Sweets</a></li>
+			<li><a href="shop/category/kids_store" title="Kids Store">Kids Store</a></li>
+			<li><a href="shop/category/Office_Supplies" title="Office Supplies">Office Supplies</a></li>
+			<li><a href="shop/category/personal_care_&amp;_beauty" title="Personal Care &amp; Beauty">Personal Care &amp; Beauty</a></li>
+			<li><a href="shop/category/personalized_gifts" title="Personalized Gifts">Personalized Gifts</a></li>
+			<li><a href="shop/category/unique_gifts" title="Unique Gifts">Unique Gifts</a></li>
+          </ul>
+        </div>
+        <div class="snbtm">
+            <ul>
+             <li><a href="shop/category/summer_collection" title="Summer Collections">Summer Collections</a></li>
+			 <li><a href="shop/category/fathers_day_gifts" title="Father's Day Gifts">Father's Day Gifts</a></li>
+            </ul>
+        </div>
+      </div>
+      			</td>
+              </tr>
+            </tbody></table></td>
+            <td width="6" align="right" valign="top" bgcolor="#146EB4"><img src="gifs/newhome-page/images/nav_right_round.gif" width="8" height="37"></td>
+            </tr>
+        </tbody></table></td>
       </tr>
     </tbody></table></td>
   </tr>
   <tr>
-    <td height="5"></td>
+    <td height="4"></td>
   </tr>
-  <!--<tr >
-    <td class="footer-text">Talash.com - <a href="http://talash.com" class="footer-text" title="Gifts to India"><strong>Gifts to India</strong></a>, Buy Online Gifts, <a href="http://eshop.talash.com" class="footer-text" title="Send Gifts to India"><strong>Send Gifts to India</strong></a>, Gifts idea more  than 50000+ online unique gifts. Send express <a href="http://eshop.talash.com/shop/category/cakes_&amp;_chocolates/cakes_for_all_india" class="footer-text" title="gift to India"><strong>gift to India</strong></a>, Online  gift to India within 24 hours on festival in India, <a href="http://eshop.talash.com/shop/category/combo_gifts/midnight_deliveries" class="footer-text" title="Send gifts"><strong>Send gifts</strong></a> to  India, Gifts  to us.| <a href="http://eshop.talash.com/shop/category/birthday_gifts" class="footer-text" title="Birthday Gifts to India"><strong>Birthday Gifts to India</strong></a> |<a href="http://eshop.talash.com/shop/category/combo_gifts/flowers_&amp;_gift_items" class="footer-text" title="Gifts"> <strong>Gifts</strong></a>.</td>
-  </tr>-->
-  <tr>
-    <td height="7"></td>
-  </tr>
-</tbody></table>
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td> </td>
-  </tr>
-</tbody></table>
+    	<tr>
+    	<td align="left" valign="top"></td>
+  	</tr>
+  </tbody></table>
+
+<script>
+document.getElementById('keyword').focus();
+</script>
  </td>
   </tr>
   <tr> 
-    <td width="780" height="335" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td width="990" height="335" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td valign="top"><br>
 <table width="90%" border="0" align="center">
@@ -211,116 +683,147 @@ function checksearch(formobj)
     </td>
   </tr>
 <tr> 
-    <td colspan="3" class="topline" height="4" align="left"> <table align="center" width="800" border="0" cellspacing="3" cellpadding="0" class="intend">
+    <td colspan="3" class="topline" height="4" align="left"> <table width="990" border="0" align="left" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td height="20" colspan="5" valign="middle" bgcolor="#EEEEEE"><font color="#CC3300"><b>Payment Options : Credit Card / Net Banking</b></font></td>
-  </tr>
-  <tr>
-    <td height="20" colspan="5" valign="middle"><table width="100%" border="0">
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="18%"><strong>Credit Card : </strong></td>
-        <td width="82%">Visa | Master Card | Visa Purchasing | Visa Delta | American Express | Diners Club Card | Citibank E-card</td>
+        <td class="footer_main_title">Payment Options : Credit Card / Net Banking / ATM-CUM-DEBIT Card / Mobile Payment / ITZ CASH Cards </td>
       </tr>
       <tr>
-        <td><strong>Net Banking :</strong></td>
-        <td>ICICI Bank | HDFC Bank | IDBI Bank | State Bank of India | Axis Bank |  Citi Bank |&nbsp; Centurian Bank | Kotak Mahindra Bank | Federal Bank | Bank  of Punjab | Oriental Bank of Commerce |&nbsp; Union Bank of India</td>
-      </tr>
-  <!--    <tr>
-        <td align="left" valign="middle"><strong>ATM / Cheque / DD :  </strong></td>
-        <td height="26" align="left" valign="middle"><strong><img src="http://eshop.talash.com/images/featureimg/new-btns.gif" width="27" height="14"/></strong></td>
+        <td align="left" valign="top" class="footer_bg"><table width="100%" border="0" cellspacing="4" cellpadding="2">
+          <tbody><tr>
+            <td width="11%" align="left" valign="top" class="footer_title">Credit Card :</td>
+            <td width="89%" align="left" valign="top">Visa | Master Card | Visa Purchasing | Visa Delta | American Express | Diners Club Card | Citibank E-card</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="footer_title">Net Banking :</td>
+            <td align="left" valign="top">ICICI Bank | HDFC Bank | IDBI Bank | State Bank of India | Axis Bank |  Citi Bank |&nbsp; Centurian Bank | Kotak Mahindra Bank | Federal Bank | Bank  of Punjab | Oriental Bank of Commerce |&nbsp; Union Bank of India</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="footer_title">&nbsp;</td>
+            <td align="left" valign="top"><table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td valign="middle" width="9%" align="left"><img src="gifs/paypal.gif" alt="paypal" title="paypal" width="76" height="23"></td>
+                  <td valign="middle" width="14%" align="center"><img src="gifs/net-bank.gif" alt="net-banking" title="net-banking" width="93" height="23"></td>
+                  <td valign="middle" width="10%" align="center"><img src="gifs/visa1.gif" alt="visa" title="visa" width="57" height="21"></td>
+                  <td valign="middle" width="10%" align="center"><img src="gifs/master1.gif" alt="master card" title="master card" width="55" height="36"></td>
+                  <td valign="middle" width="11%" align="center"><img src="gifs/secure_payment.gif" alt="Secure Payment Gateway" title="Secure Payment Gateway" width="79" height="35"></td>
+                  <td valign="middle" width="18%" align="center"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">All Payment Gateways are </span></td>
+                  <td valign="middle" width="10%" align="center"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; "><img src="gifs/verisign.gif" alt="VeriSign" title="VeriSign" width="76" height="26"></span></td>
+                  <td valign="middle" width="18%" align="left"><span style="font:normal 12px Arial, Helvetica, sans-serif; color:#990000; ">Certified</span></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+        </tbody></table></td>
       </tr>
       <tr>
-        <td align="left" valign="middle"><strong>Paypal :  </strong></td>
-        <td height="26" align="left" valign="middle"><strong><img src="http://eshop.talash.com/images/featureimg/new-btns.gif" width="27" height="14"/></strong></td>
-      </tr>-->
-    </tbody></table></td>
-  </tr>
-  
-
-  <tr bgcolor="#EEEEEE">
-    <td height="20" colspan="5" valign="middle"><font color="#CC3300"><b>Customer Help Desk</b></font></td>
-  </tr>
-  <tr>
-    <td width="19%" height="69" valign="TOP" bgcolor="#f6f6f6"><table width="100%" height="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td height="21"><strong>My Account</strong></td>
-        </tr>
-        <tr>
-          <td height="10%">•&nbsp;<a class="smalllink" href="index.php?file=u-userprofile">Edit Profile</a> <br>
-•&nbsp;<a class="smalllink" href="index.php?file=u-ch_pwd">Change Password</a> <br>
-• <a class="smalllink" href="index.php?file=u-wishlist">My Wish List</a> <br>
-•&nbsp;<a class="smalllink" href="index.php?file=u-disp_add_book">Address Book</a> <br>
-•&nbsp;<a class="smalllink" href="index.php?file=u-orderhistory">Order History</a> <br>
-•&nbsp;<a class="smalllink" href="index.php?file=u-ordertrack">Track My Order </a> </td>
-        </tr>
-    </tbody></table></td>
-    <td width="21%" valign="TOP" bgcolor="#f6f6f6"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="TOP" bgcolor="#f6f6f6"><table width="100%" height="0" cellpadding="0" cellspacing="0">
+        <td class="footer_main_title">Customer Help Desk</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" class="footer_bg">
+			<table width="100%" border="0" cellspacing="4" cellpadding="2">
+              
               <tbody><tr>
-                <td height="21"><strong><b>Terms &amp; Policy</b></strong></td>
+                <td width="17%" align="left" valign="top" class="footer_title">My Account </td>
+                <td width="17%" align="left" valign="top" class="footer_title">Terms &amp; Policy</td>
+                <td width="17%" align="left" valign="top" class="footer_title">Inquiry</td>
+                <td width="17%" align="left" valign="top" class="footer_title">Others</td>
+                <td width="15%" align="left" valign="top" class="footer_title">&nbsp;</td>
+                <td width="17%" align="left" valign="top">&nbsp;</td>
               </tr>
               <tr>
-                <td height="10%" valign="top"><p>•&nbsp;<a href="index.php?file=st-static&amp;tpl=refund" class="smalllink">Terms &amp; Conditions</a><br>
-•&nbsp;<a href="index.php?file=st-static&amp;tpl=privacy" class="smalllink">Privacy Policy</a><br>
-•&nbsp;<a href="index.php?file=st-static&amp;tpl=shipping_details" class="smalllink">Shipping Charges</a><br>
-•&nbsp;<a href="index.php?file=st-static&amp;tpl=zone" class="smalllink">Delivery Zones</a><br>
-                    </p>
-                </td>
+                <td align="left" valign="top" class="footer_title">
+				<div id="footer_links">
+				<ul>
+					<li><a href="index.php?file=u-userprofile">•&nbsp;Edit Profile</a></li>
+					<li><a href="index.php?file=u-ch_pwd">•&nbsp;Change Password</a></li>
+					<li><a href="index.php?file=u-wishlist">•&nbsp;My Wish List</a></li>
+					<li><a href="index.php?file=u-disp_add_book">•&nbsp;Address Book</a></li>
+					<li><a href="index.php?file=u-orderhistory">•&nbsp;Order History</a></li>
+					<li><a href="index.php?file=u-ordertrack">•&nbsp;Track My Order</a></li>
+				</ul>
+			</div></td>
+                <td align="left" valign="top">
+				<div id="footer_links">
+				<ul>
+					<li><a href="index.php?file=st-static&amp;tpl=refund">•&nbsp;Terms &amp; Conditions</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=privacy">•&nbsp;Privacy Policy</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=shipping_details">•&nbsp;Shipping Charges</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=zone">•&nbsp;Delivery Zones</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=return">•&nbsp;Return Policy</a></li>
+				</ul>
+			</div></td>
+                <td align="left" valign="top">
+				<div id="footer_links">
+				<ul>
+					<li><a href="index.php?file=st-static&amp;tpl=contactus">•&nbsp;Contact Us</a></li>
+					<li><a href="index.php?file=s-feedback">•&nbsp;Customer Service</a></li>
+					<li><a href="index.php?file=s-specialitemrequest">•&nbsp;Special Item Request</a></li>
+					<li><a href="index.php?file=s-clubinquiry">•&nbsp;Bulk Order Inquiry</a></li>
+					<li><a href="http://www.evyapar.com/vendor.htm">•&nbsp;Become a Vendor</a></li>
+				</ul>
+			</div>				</td>
+                <td align="left" valign="top">
+				<div id="footer_links">
+				<ul>
+					<li><a href="index.php?file=st-static&amp;tpl=aboutus">•&nbsp;About us</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=help">•&nbsp;Frequently Asked Questions</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=secure">•&nbsp;Secure Shopping</a></li>
+					<li><a href="index.php?file=st-static&amp;tpl=occasion">•&nbsp;Festivals &amp; Occasions</a></li>
+					<li><a href="index.php?file=s-sitemap">•&nbsp;Sitemap</a></li>
+					<li><a href="http://eshop.talash.com" title="Gifts to India">•&nbsp;Gifts to India</a></li>
+				</ul>
+			</div>				</td>
+                <td align="center" valign="middle"><a href="http://evyapar.com/"><img src="http://eshop.talash.com/gifs/poweredby.gif" alt="Talash.com Evyapar Services" width="82" height="23" border="0" title="Talash.com Evyapar Services"></a></td>
+                <td align="left" valign="bottom"><table width="100%" border="0" cellspacing="4" cellpadding="2">
+                  
+                  <tbody><tr>
+                    <td colspan="5" align="left" valign="top">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5" align="left" valign="top"><div align="right">
+                        <script type="text/javascript">addthis_pub  = 'talash';</script>
+                        <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt=""></a>
+                        <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+                    </div></td>
+                  </tr>
+                  <tr>
+                    <td colspan="5" align="left" valign="top">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td width="19" align="left" valign="top">&nbsp;</td>
+                    <td width="50" align="left" valign="top">Resources</td>
+                    <td width="17" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources1.html">1</a></td>
+                    <td width="17" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources2.html">2</a></td>
+                    <td width="18" align="left" valign="top" class="resource_btn"><a href="http://talash.com/resources3.html">3</a></td>
+                  </tr>
+                </tbody></table></td>
               </tr>
-          </tbody></table></td>
-        </tr>
+            </tbody></table></td>
+      </tr>
+      
+      <tr>
+        <td height="19" class="copyright">All Rights Reserved by <a href="http://www.talash.com/">Talash.com</a> </td>
+      </tr>
     </tbody></table></td>
-    <td width="21%" height="69" valign="TOP" bgcolor="#f6f6f6"><table width="100%" height="0%" border="0" cellpadding="2" cellspacing="0">
-        <tbody><tr>
-          <td height="0"><strong><b>Inquiry</b></strong></td>
-        </tr>
-        <tr>
-          <td height="0">•&nbsp;<a href="index.php?file=st-static&amp;tpl=contactus" class="smalllink">Contact Us</a><br>
-•&nbsp;<a class="smalllink" href="index.php?file=s-feedback">Customer Service</a><br>
-•&nbsp;<a class="smalllink" href="index.php?file=s-specialitemrequest">Special Item Request </a><br>
-•&nbsp;<a class="smalllink" href="index.php?file=s-clubinquiry">Bulk Order Inquiry </a><br>•&nbsp;<a href="http://www.evyapar.com/vendor.htm" target="_blank" class="smalllink">Become a Vendor </a></td>
-        </tr>
-    </tbody></table></td>
-    <td width="22%" valign="TOP" bgcolor="#F6f6f6"><table width="100%" height="0%" border="0" cellpadding="2" cellspacing="0">
-        <tbody><tr>
-          <td height="0"><strong>Others</strong></td>
-        </tr>
-        <tr>
-          <td height="0" valign="top">
-            <p>•&nbsp;<a class="smalllink" href="index.php?file=st-static&amp;tpl=aboutus">About us<br> 
-              </a>•&nbsp;<a class="smalllink" href="index.php?file=st-static&amp;tpl=help">Frequently Asked Questions</a><br>
-•&nbsp;<a href="index.php?file=st-static&amp;tpl=secure" class="smalllink">Secure Shopping</a> <br>
-
-•&nbsp;<a class="smalllink" href="index.php?file=st-static&amp;tpl=occasion">Festivals &amp; Occasions<br>
-</a><a class="smalllink" href="index.php?file=st-static&amp;tpl=occasion">
-</a>•&nbsp;<a href="index.php?file=s-sitemap" class="smalllink">Sitemap</a><br>
-          </p>          </td>
-        </tr>
-    </tbody></table></td>
-    <td width="17%" valign="middle" bgcolor="#F6f6f6"><div align="center"><a href="http://evyapar.com"><img src="gifs/poweredby.gif" width="82" height="23" border="0"><br>
-      </a></div></td>
   </tr>
-  <tr>
-    <td colspan="5" valign="middle"><div align="center">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td><div align="center">
-                <p><font class="fontsmall">All Rights Reserved by <a href="http://eshop.talash.com" class="whitelink">Talash.com</a></font><font class="fontsmall"><strong><br>
-                </strong></font></p>
-              </div>            </td>
-          </tr>
-        </tbody></table>
-    </div></td>
-  </tr>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+</tbody></table>
 <script type="text/javascript">
-_uacct = "UA-117797-2";
-_udn="talash.com";
-urchinTracker();
-</script>
-</tbody></table> </td>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-117797-2");
+pageTracker._setDomainName(".eshop.talash.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "16411207",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
+ </td>
   </tr></tbody></table>
 
 
