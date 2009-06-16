@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beliscity.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216054952id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beliscity.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616184744id_/http%3A//www.beliscity.com/pg5/privacy_policy/pages.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 
@@ -17,17 +17,43 @@
 <link rel="stylesheet" type="text/css" href="templates/Original_B2B/stylesheet.css">
 <script type="text/javascript" src="templates/Original_B2B/menu.js"></script>
 <script type="text/javascript" src="templates/Original_B2B/jquery.js"></script>
-<script type="text/javascript" src="templates/Original_B2B/leftmenu.js"></script>
-<script type="text/javascript" src="templates/Original_B2B/modal/modalfiles/modal.js"></script>
-<script type="text/javascript" src="templates/Original_B2B/modal/windowfiles/dhtmlwindow.js"></script>
-<link href="templates/Original_B2B/modal/windowfiles/dhtmlwindow.css" rel="stylesheet" type="text/css">
-<link href="templates/Original_B2B/modal/modalfiles/modal.css" rel="stylesheet" type="text/css">
+
+
 <link href="templates/Original_B2B/leftmenu.css" rel="stylesheet" type="text/css">
 <link href="templates/Original_B2B/belis_front.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
+
+
 		<!--[if IE]>
 			<link href="templates/Original_B2B/leftmenuhack.css" rel="stylesheet" type="text/css">
 			<link href="templates/Original_B2B/stylesheet-ie.css" rel="stylesheet" type="text/css">
 		<![endif]-->
+
+<script type="text/javascript">
+startList = function() {
+
+	// code for IE
+	if(!document.body.currentStyle) return;
+	var subs = document.getElementsByName('submenu');
+	for(var i=0; i<subs.length; i++) {
+		var li = subs[i].parentNode;
+		if(li && li.lastChild.style) {
+			li.onmouseover = function() {
+				this.lastChild.style.visibility = 'visible';
+			}
+			li.onmouseout = function() {
+				this.lastChild.style.visibility = 'hidden';
+			}
+		}
+	}
+}
+window.onload=startList;
+</script>
+
 
 
 
@@ -71,7 +97,7 @@ For full source code, installation instructions,
 ///////////////////////////////////////////////////////////////////
 
 </script>
-
+<!-- 
 <script type="text/javascript">
 
 	$(document).ready(function(){
@@ -91,7 +117,7 @@ For full source code, installation instructions,
 	});
 
 </script>
-
+-->
 <!-- Main Table -->
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -103,232 +129,69 @@ For full source code, installation instructions,
 	<td background="templates/Original_B2B/images/bg_top.gif">
 
 		<!-- main col start -->
-
-	<table width="770" border="0" cellpadding="0" cellspacing="0" align="center">
-
-     
-
-      <tbody><tr>
-
-        <td colspan="2" style="height:5px;"></td>
-      </tr>
-
-      <tr>
-
-
-
-        <td colspan="2"><table width="700" border="0" align="right" cellpadding="0" cellspacing="0">
-
+		<table width="770" border="0" cellpadding="0" cellspacing="0" align="center">
           <tbody><tr>
-
-            <td align="right" valign="middle" class="headlink">
-            
-            <script type="text/javascript">
-
-function undefinedfix(){
-	emailwindow=dhtmlmodal.open('EmailBox', 'iframe', 'contactform/index.php', 'Quick Contact', 'width=450px,height=400px,center=1,resize=0,scrolling=1')
-
-emailwindow.onclose=function(){ 
-	var theform=this.contentDoc.forms[0] 
-	var theemail=this.contentDoc.getElementById("emailfield") 
-	if (theemail.value.indexOf("@")==-1){ 
-		alert("Please enter a valid email address")
-		return false 
-	}
-	else{ 
-		document.getElementById("youremail").innerHTML=theemail.value 
-		return true 
-	}
-}
-} 
-
-</script>
-            
-            <a href="javascript:;" class="GreyFont" onclick="undefinedfix(); return false">Quick Contact</a>&nbsp; |&nbsp;<a href="http://www.beliscity.com/pg14/tell_a_friend/pages.html" class="GreyFont">Tell Friends</a>&nbsp; |&nbsp;<a href="http://www.beliscity.com/pg1/about_us/pages.html" class="GreyFont">About&nbsp;us</a>&nbsp; |&nbsp;            
-
-            <a href="https://www.beliscity.com/shopping_cart.php" class="GreyFont"></a><a href="http://www.beliscity.com/account.php" class="GreyFont">My&nbsp;Account</a> &nbsp;| &nbsp;<a href="http://www.beliscity.com/pg2/contact_us/pages.html" class="GreyFont">Contact&nbsp;Us</a> &nbsp;| &nbsp;<a href="http://www.beliscity.com/faq.html" class="GreyFont">Customer&nbsp;Services</a>&nbsp; | &nbsp;<a href="https://www.beliscity.com/shopping_cart.php" class="GreyFont">Shopping&nbsp;Cart <i>(0 Items)</i></a></td>
-            </tr>
-
-        </tbody></table></td>
-        </tr>
-
-      <tr>
-
-        <td width="28%" rowspan="2" align="center" valign="middle">
-        <a href="http://www.beliscity.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Logo_Beliscity_Pakistan','','templates/Original_B2B/images/logo_ICC_o.gif',1)"><img src="templates/Original_B2B/images/logo_ICC.gif" alt="Beliscity.com - Online Shopping Pakistan" name="Logo_Beliscity_Pakistan" width="250" height="76" border="0"></a> </td>
-
-
-
-        <td align="left" valign="bottom"> </td>
-      </tr>
-
-      <tr>
-
-        <td align="left" valign="middle">
-
-		<table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
-
-          <tbody><tr>
-
-            <td width="23%" align="right" valign="middle"><img src="templates/Original_B2B/images/icon_4ways.gif" alt="Online Shopping Pakistan - Lahore, Karachi, Islamabad" width="87" height="37"></td>
-
-            <td width="16%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#online"><img src="templates/Original_B2B/images/icon_online.gif" alt="Online shop in Lahore, Karachi, Islamabad and all over Pakistan" width="70" height="33" border="0"></a></td>
-
-            <td width="22%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#phone"><img src="templates/Original_B2B/images/icon_byphone.gif" alt="By phone in Lahore, Karachi, Islamabad and all over Pakistan" border="0"></a></td>
-
-            <td width="19%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#sms"><img src="templates/Original_B2B/images/icon_bysms.gif" alt="By SMS in Lahore, Karachi, Islamabad and all over Pakistan" width="82" height="33" border="0"></a></td>
-
-
-
-            <td width="20%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#store"><img src="templates/Original_B2B/images/icon_instore.gif" alt="By Store in Karachi" width="97" height="33" border="0"></a></td>
+            <td colspan="2" style="height:5px;"></td>
           </tr>
-        </tbody></table></td>
-      </tr>
-
-      <tr>
-
-        <td colspan="2" valign="bottom" style="vertical-align:bottom;">
-
-        
-
-        <table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
-
-          <tbody><tr valign="bottom">
-
-            <td width="1" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-            <td width="1" align="left" valign="bottom"><a href="http://www.beliscity.com/"><img src="templates/Original_B2B/images/tab_home_on.gif" alt="Home" border="0"></a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Online Shop for Desktops - Desktop Memory - Head phones - and more in Pakistan" href="http://www.beliscity.com/computers/c4/index.html" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_4_off.gif" alt="Online Shopping for Computers in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Laptops and Notebooks Online in Karachi - Lahore - Pakistan" href="http://www.beliscity.com/laptops/c15/index.html" onmouseover="dropdownmenu(this, event, menu15, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_15_off.gif" alt="Online Shopping for Laptops in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Electronics online in Pakistan - Home Kitchen Appliance - Home Stereo - And" href="http://www.beliscity.com/electronics/c5/index.html" onmouseover="dropdownmenu(this, event, menu5, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_5_off.gif" alt="Online Shopping for Electronics in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Mobile Phone online in Pakistan - Karachi - Lahore" href="http://www.beliscity.com/cellular_mobile_phones/c6/index.html" onmouseover="dropdownmenu(this, event, menu6, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_6_off.gif" alt="Online Shopping for Cellular / Mobile Phones in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Car Audio Systems, Head phones, Ipod Accessories, Ipod Skins , Microphones ," href="http://www.beliscity.com/music/c9/index.html" onmouseover="dropdownmenu(this, event, menu9, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_9_off.gif" alt="Online Shopping for Music in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Modems, Routers, Switches, Wireless in Pakistan" href="http://www.beliscity.com/networking/c10/index.html" onmouseover="dropdownmenu(this, event, menu10, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_10_off.gif" alt="Online Shopping for Networking in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="" href="http://www.beliscity.com/usb_devices/c16/index.html" onmouseover="dropdownmenu(this, event, menu16, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_16_off.gif" alt="Online Shopping for USB Devices in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Send Gifts to Pakistan, Karachi, Lahore and all major cities in Pakistan" href="http://www.beliscity.com/gifts_to_pakistan/c22/index.html" onmouseover="dropdownmenu(this, event, menu22, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_22_off.gif" alt="Online Shopping for Gifts to Pakistan in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="" href="http://www.beliscity.com/toys_games/c17/index.html" onmouseover="dropdownmenu(this, event, menu17, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_17_off.gif" alt="Online Shopping for Toys &amp; Games in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Buy Fax Machines, Printers, Scanners in Karachi,Lahore,Pakistan" href="http://www.beliscity.com/office_products/c12/index.html" onmouseover="dropdownmenu(this, event, menu12, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_12_off.gif" alt="Online Shopping for Office Products in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="" href="http://www.beliscity.com/beauty_fragrance/c19/index.html" onmouseover="dropdownmenu(this, event, menu19, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_19_off.gif" alt="Online Shopping for Beauty &amp; Fragrance in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Cuban Cigars - Mini Cubanos Cigars - Lighters - Tobacco" href="http://www.beliscity.com/lighters_tobacco/c20/index.html" onmouseover="dropdownmenu(this, event, menu20, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_20_off.gif" alt="Online Shopping for Lighters &amp; Tobacco in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="" href="http://www.beliscity.com/jewelry_watches/c18/index.html" onmouseover="dropdownmenu(this, event, menu18, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_18_off.gif" alt="Online Shopping for Jewelry &amp; Watches in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-            <td width="1" align="left" valign="bottom">
-
-				<a alt="Car Audio, Video" href="http://www.beliscity.com/cars_accessories/c21/index.html" onmouseover="dropdownmenu(this, event, menu21, '150px')" onmouseout="delayhidemenu()">
-
-				<img src="templates/Original_B2B/images/tab_21_off.gif" alt="Online Shopping for Cars &amp; Accessories in Pakistan" border="0" style="vertical-align:bottom;">				</a></td>
-
-            <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
-
-			
-        <script type="text/javascript">
+          <tr>
+            <td colspan="2"><table width="700" border="0" align="right" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td align="right" valign="middle" class="headlink">
+				  
+				  <a href="http://www.beliscity.com/pg14/tell_a_friend/pages.html" class="GreyFont">Tell Friends</a>&nbsp; |&nbsp;<a href="http://www.beliscity.com/pg1/about_us/pages.html" class="GreyFont">About&nbsp;us</a>&nbsp; |&nbsp; <a href="https://www.beliscity.com/shopping_cart.php" class="GreyFont"></a><a href="http://www.beliscity.com/account.php" class="GreyFont">My&nbsp;Account</a> &nbsp;| &nbsp;<a href="http://www.beliscity.com/pg2/contact_us/pages.html" class="GreyFont">Contact&nbsp;Us</a> &nbsp;| &nbsp;<a href="http://www.beliscity.com/faq.html" class="GreyFont">Customer&nbsp;Services</a>&nbsp; | &nbsp;<a href="https://www.beliscity.com/shopping_cart.php" class="GreyFont">Shopping&nbsp;Cart <i>(0 Items)</i></a></td>
+                </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td width="28%" rowspan="2" align="center" valign="middle"><a href="http://www.beliscity.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Logo_Beliscity_Pakistan','','templates/Original_B2B/images/logo_ICC_o.gif',1)"><img src="templates/Original_B2B/images/logo_ICC.gif" alt="Beliscity.com - Online Shopping Pakistan" name="Logo_Beliscity_Pakistan" width="250" height="76" border="0"></a> </td>
+            <td align="left" valign="bottom"></td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td width="23%" align="right" valign="middle"><img src="templates/Original_B2B/images/icon_4ways.gif" alt="Online Shopping Pakistan - Lahore, Karachi, Islamabad" width="87" height="37"></td>
+                  <td width="16%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#online"><img src="templates/Original_B2B/images/icon_online.gif" alt="Online shop in Lahore, Karachi, Islamabad and all over Pakistan" width="70" height="33" border="0"></a></td>
+                  <td width="22%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#phone"><img src="templates/Original_B2B/images/icon_byphone.gif" alt="By phone in Lahore, Karachi, Islamabad and all over Pakistan" border="0"></a></td>
+                  <td width="19%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#sms"><img src="templates/Original_B2B/images/icon_bysms.gif" alt="By SMS in Lahore, Karachi, Islamabad and all over Pakistan" width="82" height="33" border="0"></a></td>
+                  <td width="20%" align="center" valign="middle"><a href="http://www.beliscity.com/pg7/4_ways_to_shop/pages.html#store"><img src="templates/Original_B2B/images/icon_instore.gif" alt="By Store in Karachi" width="97" height="33" border="0"></a></td>
+                </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td colspan="2" valign="bottom" style="vertical-align:bottom;"><table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody><tr valign="bottom">
+                  <td width="1" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                  <td width="1" align="left" valign="bottom"><a href="http://www.beliscity.com/"><img src="templates/Original_B2B/images/tab_home_on.gif" alt="Home" border="0"></a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Online Shop for Desktops - Desktop Memory - Head phones - and more in Pakistan" href="http://www.beliscity.com/computers/c4/index.html" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_4_off.gif" alt="Online Shopping for Computers in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Laptops and Notebooks Online in Karachi - Lahore - Pakistan" href="http://www.beliscity.com/laptops/c15/index.html" onmouseover="dropdownmenu(this, event, menu15, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_15_off.gif" alt="Online Shopping for Laptops in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Electronics online in Pakistan - Home Kitchen Appliance - Home Stereo - And" href="http://www.beliscity.com/electronics/c5/index.html" onmouseover="dropdownmenu(this, event, menu5, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_5_off.gif" alt="Online Shopping for Electronics in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Mobile Phone online in Pakistan - Karachi - Lahore" href="http://www.beliscity.com/cellular_mobile_phones/c6/index.html" onmouseover="dropdownmenu(this, event, menu6, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_6_off.gif" alt="Online Shopping for Cellular / Mobile Phones in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Car Audio Systems, Head phones, Ipod Accessories, Ipod Skins , Microphones ," href="http://www.beliscity.com/music/c9/index.html" onmouseover="dropdownmenu(this, event, menu9, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_9_off.gif" alt="Online Shopping for Music in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Modems, Routers, Switches, Wireless in Pakistan" href="http://www.beliscity.com/networking/c10/index.html" onmouseover="dropdownmenu(this, event, menu10, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_10_off.gif" alt="Online Shopping for Networking in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="" href="http://www.beliscity.com/usb_devices/c16/index.html" onmouseover="dropdownmenu(this, event, menu16, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_16_off.gif" alt="Online Shopping for USB Devices in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Send Gifts to Pakistan, Karachi, Lahore and all major cities in Pakistan" href="http://www.beliscity.com/gifts_to_pakistan/c22/index.html" onmouseover="dropdownmenu(this, event, menu22, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_22_off.gif" alt="Online Shopping for Gifts to Pakistan in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="" href="http://www.beliscity.com/toys_games/c17/index.html" onmouseover="dropdownmenu(this, event, menu17, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_17_off.gif" alt="Online Shopping for Toys &amp; Games in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Buy Fax Machines, Printers, Scanners in Karachi,Lahore,Pakistan" href="http://www.beliscity.com/office_products/c12/index.html" onmouseover="dropdownmenu(this, event, menu12, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_12_off.gif" alt="Online Shopping for Office Products in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="" href="http://www.beliscity.com/beauty_fragrance/c19/index.html" onmouseover="dropdownmenu(this, event, menu19, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_19_off.gif" alt="Online Shopping for Beauty &amp; Fragrance in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Cuban Cigars - Mini Cubanos Cigars - Lighters - Tobacco" href="http://www.beliscity.com/lighters_tobacco/c20/index.html" onmouseover="dropdownmenu(this, event, menu20, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_20_off.gif" alt="Online Shopping for Lighters &amp; Tobacco in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="" href="http://www.beliscity.com/jewelry_watches/c18/index.html" onmouseover="dropdownmenu(this, event, menu18, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_18_off.gif" alt="Online Shopping for Jewelry &amp; Watches in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <td width="1" align="left" valign="bottom"><a alt="Car Audio, Video" href="http://www.beliscity.com/cars_accessories/c21/index.html" onmouseover="dropdownmenu(this, event, menu21, '150px')" onmouseout="delayhidemenu()"> <img src="templates/Original_B2B/images/tab_21_off.gif" alt="Online Shopping for Cars &amp; Accessories in Pakistan" border="0" style="vertical-align:bottom;"> </a></td>
+                  <td width="1" align="left" valign="bottom"><img src="templates/Original_B2B/images/seprator_nav_header.gif" width="1" height="38"></td>
+                                    <script type="text/javascript">
 
         var menu4=new Array();
 menu4[0]='<a href="http://www.beliscity.com/computers_apple_mac/c4_65/index.html">Apple / Mac</a>';
@@ -350,11 +213,12 @@ menu4[15]='<a href="http://www.beliscity.com/computers_servers/c4_114/index.html
 menu4[16]='<a href="http://www.beliscity.com/computers_softwares/c4_62/index.html">Softwares</a>';
 var menu15=new Array();
 menu15[0]='<a href="http://www.beliscity.com/laptops_laptop_carry_cases/c15_149/index.html">Laptop Carry Cases</a>';
-menu15[1]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_brand/c15_129/index.html">Browse Laptops By Brand</a>';
-menu15[2]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_screen_size/c15_125/index.html">Browse Laptops By Screen Size</a>';
-menu15[3]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_cpu_type/c15_122/index.html">Browse Laptops By CPU Type</a>';
-menu15[4]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_weight/c15_124/index.html">Browse Laptops By Weight</a>';
-menu15[5]='<a href="http://www.beliscity.com/laptops_laptop_accessories/c15_113/index.html">Laptop Accessories</a>';
+menu15[1]='<a href="http://www.beliscity.com/laptops_netbooks/c15_1800/index.html">Netbooks</a>';
+menu15[2]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_brand/c15_129/index.html">Browse Laptops By Brand</a>';
+menu15[3]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_screen_size/c15_125/index.html">Browse Laptops By Screen Size</a>';
+menu15[4]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_cpu_type/c15_122/index.html">Browse Laptops By CPU Type</a>';
+menu15[5]='<a href="http://www.beliscity.com/laptops_browse_laptops_by_weight/c15_124/index.html">Browse Laptops By Weight</a>';
+menu15[6]='<a href="http://www.beliscity.com/laptops_laptop_accessories/c15_113/index.html">Laptop Accessories</a>';
 var menu5=new Array();
 menu5[0]='<a href="http://www.beliscity.com/electronics_home_audio_theatre/c5_1594/index.html">Home Audio & Theatre</a>';
 menu5[1]='<a href="http://www.beliscity.com/electronics_islamic_store/c5_182/index.html">Islamic Store</a>';
@@ -376,62 +240,73 @@ menu6[3]='<a href="http://www.beliscity.com/cellular_mobile_phones_mobile_access
 var menu9=new Array();
 menu9[0]='<a href="http://www.beliscity.com/music_browse_mp3s_by_size/c9_143/index.html">Browse MP3s By Size</a>';
 menu9[1]='<a href="http://www.beliscity.com/music_car_audio_systems/c9_154/index.html">Car Audio Systems</a>';
-menu9[2]='<a href="http://www.beliscity.com/music_head_phones/c9_153/index.html">Head phones</a>';
-menu9[3]='<a href="http://www.beliscity.com/music_ipod_skins_accessories/c9_160/index.html">iPod Skins & Accessories</a>';
-menu9[4]='<a href="http://www.beliscity.com/music_ipods/c9_1545/index.html">iPods</a>';
-menu9[5]='<a href="http://www.beliscity.com/music_microphones/c9_159/index.html">Microphones</a>';
-menu9[6]='<a href="http://www.beliscity.com/music_mp3_players/c9_132/index.html">MP3 Players</a>';
-menu9[7]='<a href="http://www.beliscity.com/music_speakers/c9_145/index.html">Speakers</a>';
+menu9[2]='<a href="http://www.beliscity.com/music_cd_radio_players/c9_1773/index.html">CD Radio Players</a>';
+menu9[3]='<a href="http://www.beliscity.com/music_head_phones/c9_153/index.html">Head phones</a>';
+menu9[4]='<a href="http://www.beliscity.com/music_ipod_skins_accessories/c9_160/index.html">iPod Skins & Accessories</a>';
+menu9[5]='<a href="http://www.beliscity.com/music_ipods/c9_1545/index.html">iPods</a>';
+menu9[6]='<a href="http://www.beliscity.com/music_microphones/c9_159/index.html">Microphones</a>';
+menu9[7]='<a href="http://www.beliscity.com/music_mp3_players/c9_132/index.html">MP3 Players</a>';
+menu9[8]='<a href="http://www.beliscity.com/music_mp4_players/c9_1799/index.html">MP4 Players</a>';
+menu9[9]='<a href="http://www.beliscity.com/music_speakers/c9_145/index.html">Speakers</a>';
 var menu10=new Array();
 menu10[0]='<a href="http://www.beliscity.com/networking_cables_accessories/c10_1606/index.html">Cables & Accessories</a>';
-menu10[1]='<a href="http://www.beliscity.com/networking_hubs_switches/c10_1617/index.html">Hubs & Switches</a>';
-menu10[2]='<a href="http://www.beliscity.com/networking_kvm_switches/c10_1635/index.html">KVM Switches</a>';
-menu10[3]='<a href="http://www.beliscity.com/networking_modems/c10_1630/index.html">Modems</a>';
-menu10[4]='<a href="http://www.beliscity.com/networking_network_adapters/c10_1613/index.html">Network Adapters</a>';
-menu10[5]='<a href="http://www.beliscity.com/networking_network_storage/c10_1632/index.html">Network Storage</a>';
-menu10[6]='<a href="http://www.beliscity.com/networking_routers/c10_1631/index.html">Routers</a>';
-menu10[7]='<a href="http://www.beliscity.com/networking_voip_devices/c10_1626/index.html">VoIP Devices</a>';
-menu10[8]='<a href="http://www.beliscity.com/networking_vpn_firewalls/c10_1622/index.html">VPN & Firewalls</a>';
-menu10[9]='<a href="http://www.beliscity.com/networking_wireless_networking/c10_1621/index.html">Wireless Networking</a>';
+menu10[1]='<a href="http://www.beliscity.com/networking_digital_video_recorder/c10_1791/index.html">Digital Video Recorder</a>';
+menu10[2]='<a href="http://www.beliscity.com/networking_hubs_switches/c10_1617/index.html">Hubs & Switches</a>';
+menu10[3]='<a href="http://www.beliscity.com/networking_ip_camera/c10_1774/index.html">IP Camera</a>';
+menu10[4]='<a href="http://www.beliscity.com/networking_kvm_switches/c10_1635/index.html">KVM Switches</a>';
+menu10[5]='<a href="http://www.beliscity.com/networking_modems/c10_1630/index.html">Modems</a>';
+menu10[6]='<a href="http://www.beliscity.com/networking_network_adapters/c10_1613/index.html">Network Adapters</a>';
+menu10[7]='<a href="http://www.beliscity.com/networking_network_storage/c10_1632/index.html">Network Storage</a>';
+menu10[8]='<a href="http://www.beliscity.com/networking_racks/c10_1764/index.html">Racks</a>';
+menu10[9]='<a href="http://www.beliscity.com/networking_routers/c10_1631/index.html">Routers</a>';
+menu10[10]='<a href="http://www.beliscity.com/networking_voip_devices/c10_1626/index.html">VoIP Devices</a>';
+menu10[11]='<a href="http://www.beliscity.com/networking_vpn_firewalls/c10_1622/index.html">VPN & Firewalls</a>';
+menu10[12]='<a href="http://www.beliscity.com/networking_wireless_networking/c10_1621/index.html">Wireless Networking</a>';
 var menu16=new Array();
 menu16[0]='<a href="http://www.beliscity.com/usb_devices_adapters/c16_179/index.html">Adapters</a>';
-menu16[1]='<a href="http://www.beliscity.com/usb_devices_external_hard_drives/c16_164/index.html">External Hard Drives</a>';
-menu16[2]='<a href="http://www.beliscity.com/usb_devices_flash_drives/c16_163/index.html">Flash Drives</a>';
-menu16[3]='<a href="http://www.beliscity.com/usb_devices_hubs/c16_166/index.html">Hubs</a>';
-menu16[4]='<a href="http://www.beliscity.com/usb_devices_mouse,_keywords_more/c16_165/index.html">Mouse, Keywords & more</a>';
-menu16[5]='<a href="http://www.beliscity.com/usb_devices_scanners/c16_178/index.html">Scanners</a>';
-menu16[6]='<a href="http://www.beliscity.com/usb_devices_touch_screen_light_pens/c16_180/index.html">Touch Screen & Light Pens</a>';
+menu16[1]='<a href="http://www.beliscity.com/usb_devices_cool_gadgets/c16_1778/index.html">Cool Gadgets</a>';
+menu16[2]='<a href="http://www.beliscity.com/usb_devices_external_hard_drives/c16_164/index.html">External Hard Drives</a>';
+menu16[3]='<a href="http://www.beliscity.com/usb_devices_flash_drives/c16_163/index.html">Flash Drives</a>';
+menu16[4]='<a href="http://www.beliscity.com/usb_devices_hubs/c16_166/index.html">Hubs</a>';
+menu16[5]='<a href="http://www.beliscity.com/usb_devices_mouse,_keywords_more/c16_165/index.html">Mouse, Keywords & more</a>';
+menu16[6]='<a href="http://www.beliscity.com/usb_devices_scanners/c16_178/index.html">Scanners</a>';
+menu16[7]='<a href="http://www.beliscity.com/usb_devices_touch_screen_light_pens/c16_180/index.html">Touch Screen & Light Pens</a>';
 var menu22=new Array();
-menu22[0]='<a href="http://www.beliscity.com/gifts_to_pakistan_cakes,_sweets_and_fruits/c22_1649/index.html">Cakes, Sweets and Fruits</a>';
-menu22[1]='<a href="http://www.beliscity.com/gifts_to_pakistan_food_delivery/c22_1652/index.html">Food Delivery</a>';
-menu22[2]='<a href="http://www.beliscity.com/gifts_to_pakistan_fresh_flowers/c22_1651/index.html">Fresh Flowers</a>';
-menu22[3]='<a href="http://www.beliscity.com/gifts_to_pakistan_gift_baskets/c22_1674/index.html">Gift Baskets</a>';
-menu22[4]='<a href="http://www.beliscity.com/gifts_to_pakistan_gift_certificates/c22_1684/index.html">Gift Certificates</a>';
-menu22[5]='<a href="http://www.beliscity.com/gifts_to_pakistan_leather_gifts/c22_1685/index.html">Leather Gifts</a>';
-menu22[6]='<a href="http://www.beliscity.com/gifts_to_pakistan_prepaid_scratch_cards/c22_1653/index.html">Prepaid Scratch Cards</a>';
-menu22[7]='<a href="http://www.beliscity.com/gifts_to_pakistan_soft_toys/c22_1650/index.html">Soft Toys</a>';
+menu22[0]='<a href="http://www.beliscity.com/gifts_to_pakistan_artificial_jewellery/c22_1794/index.html">Artificial Jewellery</a>';
+menu22[1]='<a href="http://www.beliscity.com/gifts_to_pakistan_bangleschorian/c22_1795/index.html">Bangles-Chorian</a>';
+menu22[2]='<a href="http://www.beliscity.com/gifts_to_pakistan_cakes,_sweets_and_fruits/c22_1649/index.html">Cakes, Sweets and Fruits</a>';
+menu22[3]='<a href="http://www.beliscity.com/gifts_to_pakistan_food_delivery/c22_1652/index.html">Food Delivery</a>';
+menu22[4]='<a href="http://www.beliscity.com/gifts_to_pakistan_fresh_flowers/c22_1651/index.html">Fresh Flowers</a>';
+menu22[5]='<a href="http://www.beliscity.com/gifts_to_pakistan_gift_baskets/c22_1674/index.html">Gift Baskets</a>';
+menu22[6]='<a href="http://www.beliscity.com/gifts_to_pakistan_gift_certificates/c22_1684/index.html">Gift Certificates</a>';
+menu22[7]='<a href="http://www.beliscity.com/gifts_to_pakistan_leather_gifts_purses/c22_1685/index.html">Leather Gifts/ Purses</a>';
+menu22[8]='<a href="http://www.beliscity.com/gifts_to_pakistan_monitoring_devices/c22_1797/index.html">Monitoring Devices</a>';
+menu22[9]='<a href="http://www.beliscity.com/gifts_to_pakistan_mothers_day/c22_1798/index.html">Mothers Day</a>';
+menu22[10]='<a href="http://www.beliscity.com/gifts_to_pakistan_prepaid_scratch_cards/c22_1653/index.html">Prepaid Scratch Cards</a>';
+menu22[11]='<a href="http://www.beliscity.com/gifts_to_pakistan_soft_toys/c22_1650/index.html">Soft Toys</a>';
+menu22[12]='<a href="http://www.beliscity.com/gifts_to_pakistan_stylish_pen_set/c22_1796/index.html">Stylish Pen Set</a>';
 var menu17=new Array();
-menu17[0]='<a href="http://www.beliscity.com/toys_games_gaming_accessories/c17_174/index.html">Gaming Accessories</a>';
-menu17[1]='<a href="http://www.beliscity.com/toys_games_gaming_console/c17_171/index.html">Gaming Console</a>';
-menu17[2]='<a href="http://www.beliscity.com/toys_games_gaming_graphics_cards/c17_334/index.html">Gaming Graphics Cards</a>';
-menu17[3]='<a href="http://www.beliscity.com/toys_games_gaming_pcs/c17_173/index.html">Gaming PC&#39;s</a>';
-menu17[4]='<a href="http://www.beliscity.com/toys_games_haba_toys/c17_241/index.html">HABA TOYS</a>';
-menu17[5]='<a href="http://www.beliscity.com/toys_games_spielstabil/c17_244/index.html">Spielstabil</a>';
-menu17[6]='<a href="http://www.beliscity.com/toys_games_toys_by_age/c17_169/index.html">Toys by Age</a>';
+menu17[0]='<a href="http://www.beliscity.com/toys_games_bikes_skates/c17_1779/index.html">Bikes & Skates</a>';
+menu17[1]='<a href="http://www.beliscity.com/toys_games_gaming_accessories/c17_174/index.html">Gaming Accessories</a>';
+menu17[2]='<a href="http://www.beliscity.com/toys_games_gaming_console/c17_171/index.html">Gaming Console</a>';
+menu17[3]='<a href="http://www.beliscity.com/toys_games_gaming_graphics_cards/c17_334/index.html">Gaming Graphics Cards</a>';
+menu17[4]='<a href="http://www.beliscity.com/toys_games_gaming_pcs/c17_173/index.html">Gaming PC&#39;s</a>';
+menu17[5]='<a href="http://www.beliscity.com/toys_games_toys_by_age/c17_169/index.html">Toys by Age</a>';
 var menu12=new Array();
 menu12[0]='<a href="http://www.beliscity.com/office_products_browse_carry_cases/c12_150/index.html">Browse Carry Cases</a>';
-menu12[1]='<a href="http://www.beliscity.com/office_products_dictionaries/c12_194/index.html">Dictionaries</a>';
-menu12[2]='<a href="http://www.beliscity.com/office_products_employee_attendance/c12_1728/index.html">Employee Attendance</a>';
-menu12[3]='<a href="http://www.beliscity.com/office_products_fax_machines/c12_204/index.html">Fax Machines</a>';
-menu12[4]='<a href="http://www.beliscity.com/office_products_printer_cartridges/c12_140/index.html">Printer Cartridges</a>';
-menu12[5]='<a href="http://www.beliscity.com/office_products_retail_shops/c12_1725/index.html">Retail Shops</a>';
-menu12[6]='<a href="http://www.beliscity.com/office_products_security_products/c12_147/index.html">Security Products</a>';
-menu12[7]='<a href="http://www.beliscity.com/office_products_supplies_utilities/c12_1548/index.html">Supplies & Utilities</a>';
-menu12[8]='<a href="http://www.beliscity.com/office_products_paper_shredders/c12_127/index.html">Paper Shredders</a>';
-menu12[9]='<a href="http://www.beliscity.com/office_products_printers/c12_106/index.html">Printers</a>';
-menu12[10]='<a href="http://www.beliscity.com/office_products_projectors/c12_110/index.html">Projectors</a>';
-menu12[11]='<a href="http://www.beliscity.com/office_products_scanners/c12_109/index.html">Scanners</a>';
-menu12[12]='<a href="http://www.beliscity.com/office_products_softwares/c12_112/index.html">Softwares</a>';
+menu12[1]='<a href="http://www.beliscity.com/office_products_currency_counting/c12_1755/index.html">Currency Counting</a>';
+menu12[2]='<a href="http://www.beliscity.com/office_products_dictionaries/c12_194/index.html">Dictionaries</a>';
+menu12[3]='<a href="http://www.beliscity.com/office_products_employee_attendance/c12_1728/index.html">Employee Attendance</a>';
+menu12[4]='<a href="http://www.beliscity.com/office_products_fax_machines/c12_204/index.html">Fax Machines</a>';
+menu12[5]='<a href="http://www.beliscity.com/office_products_printer_cartridges/c12_140/index.html">Printer Cartridges</a>';
+menu12[6]='<a href="http://www.beliscity.com/office_products_retail_shops/c12_1725/index.html">Retail Shops</a>';
+menu12[7]='<a href="http://www.beliscity.com/office_products_security_products/c12_147/index.html">Security Products</a>';
+menu12[8]='<a href="http://www.beliscity.com/office_products_supplies_utilities/c12_1548/index.html">Supplies & Utilities</a>';
+menu12[9]='<a href="http://www.beliscity.com/office_products_paper_shredders/c12_127/index.html">Paper Shredders</a>';
+menu12[10]='<a href="http://www.beliscity.com/office_products_printers/c12_106/index.html">Printers</a>';
+menu12[11]='<a href="http://www.beliscity.com/office_products_projectors/c12_110/index.html">Projectors</a>';
+menu12[12]='<a href="http://www.beliscity.com/office_products_scanners/c12_109/index.html">Scanners</a>';
+menu12[13]='<a href="http://www.beliscity.com/office_products_softwares/c12_112/index.html">Softwares</a>';
 var menu19=new Array();
 menu19[0]='<a href="http://www.beliscity.com/beauty_fragrance_cosmetics/c19_1753/index.html">Cosmetics</a>';
 menu19[1]='<a href="http://www.beliscity.com/beauty_fragrance_deodorants/c19_1692/index.html">Deodorants</a>';
@@ -450,16 +325,16 @@ menu18[4]='<a href="http://www.beliscity.com/jewelry_watches_pendants_necklaces/
 menu18[5]='<a href="http://www.beliscity.com/jewelry_watches_rings/c18_1675/index.html">Rings</a>';
 menu18[6]='<a href="http://www.beliscity.com/jewelry_watches_stones/c18_1679/index.html">Stones</a>';
 var menu21=new Array();
-menu21[0]='<a href="http://www.beliscity.com/cars_accessories_car_chargers/c21_355/index.html">Car Chargers</a>';
-menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c21_191/index.html">Cars Audio Video</a>';
+menu21[0]='<a href="http://www.beliscity.com/cars_accessories_car_care/c21_1780/index.html">Car Care</a>';
+menu21[1]='<a href="http://www.beliscity.com/cars_accessories_car_chargers/c21_355/index.html">Car Chargers</a>';
+menu21[2]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c21_191/index.html">Cars Audio Video</a>';
 
-        </script>       
+        </script>
+                </tr>
+            </tbody></table></td>
           </tr>
-        </tbody></table> </td>
-      </tr>
-    </tbody></table>
-
-	<!-- main col end -->	</td>
+        </tbody></table>
+		<!-- main col end -->	</td>
 
 	<td background="templates/Original_B2B/images/bg_top.gif" width="33%">
 
@@ -583,7 +458,7 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 
     <td valign="top" background="templates/Original_B2B/images/caption-bg.png">&nbsp;</td>
 
-    <td align="center" background="templates/Original_B2B/images/caption-bg.png" valign="middle"><h1 style="color:#333333; font-size:14px; font-family:Verdana, Arial, Helvetica, sans-serif; padding-top:8px;">Online Shopping in Pakistan with free shipping!</h1>
+    <td align="center" background="templates/Original_B2B/images/caption-bg.png" valign="middle"><h1 style="color:#333333; font-size:14px; font-family:Verdana, Arial, Helvetica, sans-serif; padding-top:8px;">Online Shopping with free shipping in Pakistan! Now shipping worldwide!</h1>
 	                </td>
 
     <td valign="top" background="templates/Original_B2B/images/caption-bg.png">&nbsp;</td>
@@ -607,6 +482,7 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
   		</tr>
 
   		
+
   		<tr>
 
   			<td width="160" valign="top">
@@ -648,13 +524,15 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 
 	<td>
 
-<div class="mlmenu vertical bluewhite delay blink">
-<ul>
+
+
+<div id="menu">
+	<ul id="menuList">
 
 		  	
-		 	<li><a href="http://www.beliscity.com/computers/c4/index.html">Computers</a>
+		 	<li><a href="http://www.beliscity.com/computers/c4/index.html" name="submenu" class="submenu">Computers</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/computers_apple_mac/c4_65/index.html">Apple / Mac</a></li> 
@@ -712,12 +590,15 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/laptops/c15/index.html">Laptops</a>
+		 	<li><a href="http://www.beliscity.com/laptops/c15/index.html" name="submenu" class="submenu">Laptops</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/laptops_laptop_carry_cases/c15_149/index.html">Laptop Carry Cases</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/laptops_netbooks/c15_1800/index.html">Netbooks</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/laptops_browse_laptops_by_brand/c15_129/index.html">Browse Laptops By Brand</a></li> 
@@ -739,9 +620,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/electronics/c5/index.html">Electronics</a>
+		 	<li><a href="http://www.beliscity.com/electronics/c5/index.html" name="submenu" class="submenu">Electronics</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/electronics_home_audio_theatre/c5_1594/index.html">Home Audio &amp; Theatre</a></li> 
@@ -784,9 +665,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/cellular_mobile_phones/c6/index.html">Cellular / Mobile Phones</a>
+		 	<li><a href="http://www.beliscity.com/cellular_mobile_phones/c6/index.html" name="submenu" class="submenu">Cellular / Mobile Phones</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/cellular_mobile_phones_memory/c6_192/index.html">Memory</a></li> 
@@ -805,15 +686,18 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/music/c9/index.html">Music</a>
+		 	<li><a href="http://www.beliscity.com/music/c9/index.html" name="submenu" class="submenu">Music</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/music_browse_mp3s_by_size/c9_143/index.html">Browse MP3s By Size</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/music_car_audio_systems/c9_154/index.html">Car Audio Systems</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/music_cd_radio_players/c9_1773/index.html">CD Radio Players</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/music_head_phones/c9_153/index.html">Head phones</a></li> 
@@ -831,6 +715,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 				<li><a class="TitleCase" href="http://www.beliscity.com/music_mp3_players/c9_132/index.html">MP3 Players</a></li> 
 
 					
+				<li><a class="TitleCase" href="http://www.beliscity.com/music_mp4_players/c9_1799/index.html">MP4 Players</a></li> 
+
+					
 				<li><a class="TitleCase" href="http://www.beliscity.com/music_speakers/c9_145/index.html">Speakers</a></li> 
 
 					
@@ -838,15 +725,21 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/networking/c10/index.html">Networking</a>
+		 	<li><a href="http://www.beliscity.com/networking/c10/index.html" name="submenu" class="submenu">Networking</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/networking_cables_accessories/c10_1606/index.html">Cables &amp; Accessories</a></li> 
 
 					
+				<li><a class="TitleCase" href="http://www.beliscity.com/networking_digital_video_recorder/c10_1791/index.html">Digital Video Recorder</a></li> 
+
+					
 				<li><a class="TitleCase" href="http://www.beliscity.com/networking_hubs_switches/c10_1617/index.html">Hubs &amp; Switches</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/networking_ip_camera/c10_1774/index.html">IP Camera</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/networking_kvm_switches/c10_1635/index.html">KVM Switches</a></li> 
@@ -859,6 +752,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/networking_network_storage/c10_1632/index.html">Network Storage</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/networking_racks/c10_1764/index.html">Racks</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/networking_routers/c10_1631/index.html">Routers</a></li> 
@@ -877,12 +773,15 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/usb_devices/c16/index.html">USB Devices</a>
+		 	<li><a href="http://www.beliscity.com/usb_devices/c16/index.html" name="submenu" class="submenu">USB Devices</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/usb_devices_adapters/c16_179/index.html">Adapters</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/usb_devices_cool_gadgets/c16_1778/index.html">Cool Gadgets</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/usb_devices_external_hard_drives/c16_164/index.html">External Hard Drives</a></li> 
@@ -907,11 +806,17 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/gifts_to_pakistan/c22/index.html">Gifts to Pakistan</a>
+		 	<li><a href="http://www.beliscity.com/gifts_to_pakistan/c22/index.html" name="submenu" class="submenu">Gifts to Pakistan</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_artificial_jewellery/c22_1794/index.html">Artificial Jewellery</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_bangleschorian/c22_1795/index.html">Bangles-Chorian</a></li> 
+
+					
 				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_cakes,_sweets_and_fruits/c22_1649/index.html">Cakes, Sweets and Fruits</a></li> 
 
 					
@@ -927,7 +832,13 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_gift_certificates/c22_1684/index.html">Gift Certificates</a></li> 
 
 					
-				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_leather_gifts/c22_1685/index.html">Leather Gifts</a></li> 
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_leather_gifts_purses/c22_1685/index.html">Leather Gifts/ Purses</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_monitoring_devices/c22_1797/index.html">Monitoring Devices</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_mothers_day/c22_1798/index.html">Mothers Day</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_prepaid_scratch_cards/c22_1653/index.html">Prepaid Scratch Cards</a></li> 
@@ -936,15 +847,21 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_soft_toys/c22_1650/index.html">Soft Toys</a></li> 
 
 					
+				<li><a class="TitleCase" href="http://www.beliscity.com/gifts_to_pakistan_stylish_pen_set/c22_1796/index.html">Stylish Pen Set</a></li> 
+
+					
 			 	</ul>
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/toys_games/c17/index.html">Toys &amp; Games</a>
+		 	<li><a href="http://www.beliscity.com/toys_games/c17/index.html" name="submenu" class="submenu">Toys &amp; Games</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
+				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_bikes_skates/c17_1779/index.html">Bikes &amp; Skates</a></li> 
+
+					
 				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_gaming_accessories/c17_174/index.html">Gaming Accessories</a></li> 
 
 					
@@ -957,12 +874,6 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_gaming_pcs/c17_173/index.html">Gaming PC's</a></li> 
 
 					
-				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_haba_toys/c17_241/index.html">HABA TOYS</a></li> 
-
-					
-				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_spielstabil/c17_244/index.html">Spielstabil</a></li> 
-
-					
 				<li><a class="TitleCase" href="http://www.beliscity.com/toys_games_toys_by_age/c17_169/index.html">Toys by Age</a></li> 
 
 					
@@ -970,12 +881,15 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/office_products/c12/index.html">Office Products</a>
+		 	<li><a href="http://www.beliscity.com/office_products/c12/index.html" name="submenu" class="submenu">Office Products</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/office_products_browse_carry_cases/c12_150/index.html">Browse Carry Cases</a></li> 
+
+					
+				<li><a class="TitleCase" href="http://www.beliscity.com/office_products_currency_counting/c12_1755/index.html">Currency Counting</a></li> 
 
 					
 				<li><a class="TitleCase" href="http://www.beliscity.com/office_products_dictionaries/c12_194/index.html">Dictionaries</a></li> 
@@ -1018,9 +932,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/beauty_fragrance/c19/index.html">Beauty &amp; Fragrance</a>
+		 	<li><a href="http://www.beliscity.com/beauty_fragrance/c19/index.html" name="submenu" class="submenu">Beauty &amp; Fragrance</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/beauty_fragrance_cosmetics/c19_1753/index.html">Cosmetics</a></li> 
@@ -1042,9 +956,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/lighters_tobacco/c20/index.html">Lighters &amp; Tobacco</a>
+		 	<li><a href="http://www.beliscity.com/lighters_tobacco/c20/index.html" name="submenu" class="submenu">Lighters &amp; Tobacco</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/lighters_tobacco_cigars/c20_1700/index.html">Cigars</a></li> 
@@ -1057,9 +971,9 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/jewelry_watches/c18/index.html">Jewelry &amp; Watches</a>
+		 	<li><a href="http://www.beliscity.com/jewelry_watches/c18/index.html" name="submenu" class="submenu">Jewelry &amp; Watches</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
 				<li><a class="TitleCase" href="http://www.beliscity.com/jewelry_watches_bracelets/c18_1678/index.html">Bracelets</a></li> 
@@ -1087,11 +1001,14 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 </li>
 
 			
-		 	<li><a href="http://www.beliscity.com/cars_accessories/c21/index.html">Cars &amp; Accessories</a>
+		 	<li><a href="http://www.beliscity.com/cars_accessories/c21/index.html" name="submenu" class="submenu">Cars &amp; Accessories</a>
 
-			  <ul style="display:none;">	
+<ul>
 
 			  	
+				<li><a class="TitleCase" href="http://www.beliscity.com/cars_accessories_car_care/c21_1780/index.html">Car Care</a></li> 
+
+					
 				<li><a class="TitleCase" href="http://www.beliscity.com/cars_accessories_car_chargers/c21_355/index.html">Car Chargers</a></li> 
 
 					
@@ -1190,8 +1107,23 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
  
 
 
- 
+ <p></p><div align="center" class="DisplayBox">
 
+<script type="text/javascript"><!--
+google_ad_client = "pub-2296932576528537";
+/* 120x240, created 3/17/09 */
+google_ad_slot = "2087723940";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<br>
+
+<a href="http://www.etoro.com/B94_A4641_TClick.aspx" target="_Top"><img border="0" src="http://www.etoro.com/B94_A4641_TGet.aspx" alt="" width="150" height="30"></a>
+<p></p>
 
 <p></p><div align="center">
 
@@ -1225,7 +1157,8 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
      <td class="main">Our Internet Superstore allows you to buy products and services, receive special discounts, fill out surveys and polls, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. <br>                                         <br>                                         <strong>WE DON'T SELL OR SHARE YOUR INFORMATION WITH OTHERS! </strong><br>                                       <br> Beliscity.com takes your private information very seriously. We think of your information as ours and fully understand how frustrating it can get when receiving unsolicited email from other companies. We store your information on our secure servers and in any case we will not sell or disclose your information to other companies.<br>                                       <br> This Policy may change from time to time, so please check back periodically. We reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired.</td>
   </tr>
 </tbody></table>
-            </td>
+
+ </td>
 
 			  		</tr>
   	</tbody></table>	</td>
@@ -1292,7 +1225,7 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 
 		<tr>
 
-			<td align="center" valign="middle"><span class="micro">Copyright © 1998-2008		    eTech Pakistan, Karachi - Lahore. All rights reserved.</span></td>
+			<td align="center" valign="middle"><span class="micro">Copyright © 1998-2009		    eTech Pakistan, Karachi - Lahore. All rights reserved.</span></td>
 		</tr>
 		
 
@@ -1311,7 +1244,7 @@ menu21[1]='<a href="http://www.beliscity.com/cars_accessories_cars_audio_video/c
 
 
 		<tr>
-		  <td align="center" valign="middle" class="micro"><a href="http://www.beliscity.com/computers/c4/index.html" class="micro">Computers</a> | <a href="http://www.beliscity.com/laptops/c15/index.html" class="micro">Laptops</a> | <a href="http://www.beliscity.com/electronics/c5/index.html" class="micro">Electronics</a> | <a href="http://www.beliscity.com/cellulars/c6/index.html" class="micro">Cellulars</a> | <a href="http://www.beliscity.com/music/c9/index.html" class="micro">Music</a> | <a href="http://www.beliscity.com/networking/c10/index.html" class="micro">Networking</a> | <a href="http://www.beliscity.com/usb_devices/c16/index.html" class="micro">USB Devices</a> | <a href="http://www.beliscity.com/toys_games/c17/index.html" class="micro">Toys &amp; Games</a> | <a href="http://www.beliscity.com/office_products/c12/index.html" class="micro">Office Products</a> | <a href="http://www.beliscity.com/beauty_fragrance/c19/index.html" class="micro">Beauty &amp; Fragrance</a> | <a href="http://www.beliscity.com/tools_hardware/c20/index.html" class="micro">Tools &amp; Hardware</a> | <a href="http://www.beliscity.com/cars_accessories/c21/index.html" class="micro">Cars &amp; Accessories</a> | <a href="http://www.beliscity.com/jewelry_watches/c18/index.html" class="micro">Jewelry &amp; Watches</a></td>
+		  <td align="center" valign="middle" class="micro"><a href="http://www.beliscity.com/computers/c4/index.html" class="micro">Computers</a> | <a href="http://www.beliscity.com/laptops/c15/index.html" class="micro">Laptops</a> | <a href="http://www.beliscity.com/electronics/c5/index.html" class="micro">Electronics</a> | <a href="http://www.beliscity.com/cellulars/c6/index.html" class="micro">Cellulars</a> | <a href="http://www.beliscity.com/music/c9/index.html" class="micro">Music</a> | <a href="http://www.beliscity.com/networking/c10/index.html" class="micro">Networking</a> | <a href="http://www.beliscity.com/usb_devices/c16/index.html" class="micro">USB Devices</a> | <a href="http://www.beliscity.com/toys_games/c17/index.html" class="micro">Toys &amp; Games</a> | <a href="http://www.beliscity.com/office_products/c12/index.html" class="micro">Office Products</a> | <a href="http://www.beliscity.com/beauty_fragrance/c19/index.html" class="micro">Beauty &amp; Fragrance</a> | <a href="http://www.beliscity.com/tools_hardware/c20/index.html" class="micro">Tools &amp; Hardware</a> | <a href="http://www.beliscity.com/cars_accessories/c21/index.html" class="micro">Cars &amp; Accessories</a> | <a href="http://www.beliscity.com/jewelry_watches/c18/index.html" class="micro">Jewelry &amp; Watches</a> | <a href="http://www.beliscity.com/pg17/link_exchange/pages.html" class="micro">Link Exchange</a></td>
 		  </tr>
 		<tr>
 		  <td align="center" valign="middle" class="micro">&nbsp;</td>
@@ -1326,9 +1259,7 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
 
 var pageTracker = _gat._getTracker("UA-375764-2");
 
@@ -1337,9 +1268,5 @@ pageTracker._initData();
 pageTracker._trackPageview();
 
 </script>
-
-
-
-
 
 </body></html>
