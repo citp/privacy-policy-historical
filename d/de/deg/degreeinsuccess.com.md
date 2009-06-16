@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreeinsuccess.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217043129id_/http%3A//www.degreeinsuccess.com/privacy_%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeinsuccess.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174048id_/http%3A//www.degreeinsuccess.com/privacy_%2520policy.html) for the most accurate reproduction.*
 
 # Search for College Programs by Zipcode
 
