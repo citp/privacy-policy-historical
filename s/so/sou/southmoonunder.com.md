@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605010420id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063135id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
 
 # Privacy
 
-**Privacy & Security**Thank you for visiting South Moon Under online.  This privacy policy tells you how we use personal information collected at this site.  Please read this privacy policy before using the site or submitting any personal information.  By using the site you are accepting the practices described in this privacy policy.  These practices may be changed, but any changes will be posted and changes will not apply to activities and information on a going forward, not retroactive basis.  
+****Thank you for visiting South Moon Under online.   This privacy policy tells you how we use personal information collected at this site.  Please read this privacy policy before using the site or submitting any personal information.  By using the site you are accepting the practices described in this privacy policy.  These practices may be changed, but any changes will be posted and changes will not apply to activities and information on a going forward, not retroactive basis.  
 
 Note the privacy practices set forth in this privacy policy are for this web site only.  If you link to other web sites please review the privacy policies posted at those sites.
 
 **_Collection of Information_**
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.  The information you provide is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.  The information you provide is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. We will not sell or spam your email address.
 
 **_Cookie/Tracking Technology_**
 
