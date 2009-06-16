@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155313id_/http%3A//www.smythstoys.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythstoys.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616113219id_/http%3A//www.smythstoys.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
@@ -20,6 +20,10 @@ We use the information that you provide for such purposes as responding to your 
 Where you voluntarily provide personal information, the information may be used for analysis, research or customer service purposes only. We will use your data for the purpose for which it was originally provided and will not be disclosed in any manner which is incompatible with the purpose for which it was obtained. 
 
 We will only disclose your data to third parties who are our employees and for purposes in relation to the services we provide to you. In certain cases we share your information with carefully selected third parties who provide services to you on our behalf. In these cases we will ensure such third parties only use your data in accordance with our instructions and that adequate safeguards are in place to protect your data. 
+
+**Protecting Your Security**
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 **Other web websites**
 
