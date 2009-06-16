@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthesetimes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050153id_/http%3A//www.inthesetimes.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthesetimes.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170013id_/http%3A//www.inthesetimes.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- In These Times
 
@@ -10,7 +10,7 @@ We offer free memberships at _In These Times_ to participate in discussion forum
 
 ###### eNewsletters
 
-_In These Times_ publishes an email newsletter and invites all readers to opt-in for a free subscription to this publication. We allow all e-mail newsletter recipients to opt-out of their subscription at any time from links included in each message. Our email newsletter averages 1-2 messages per week.
+_In These Times_ publishes an email newsletter and invites all readers to opt-in for a free subscription to this publication. We allow all e-mail newsletter recipients to opt-out of their subscription at any time from links included in each message. Our email newsletter is sent once per week.
 
 ###### Subscriptions
 
@@ -29,6 +29,6 @@ In These Times
 2040 N. Milwaukee Ave.  
 Chicago, IL 60647  
 jeremy@inthesetimes.com  
-(773) 772-0100 x236 
+(773) 772-0100 x242 
 
-**Updated May 25, 2008**
+**Updated May 18, 2009**
