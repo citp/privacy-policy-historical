@@ -1,28 +1,90 @@
-<!--The following is the downloaded HTML source of the compete.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217050607id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compete.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616190446id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-	<meta name="Keywords" content="compete, toolbar, snapshot, search, community, metrics, site traffic, analytics, deals, coupons, promotional codes, trust scores">
-	<meta name="Description" content="Compete helps you benefit from click-sharing by providing free services that create a more trusted, transparent, and valuable Internet.">
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta http-equiv="Content-Language" content="en-us">
-	<meta name="verify-v1" content="1SEgftBJ60iNZhorYRVZbR6jMpnPLnvGieoQ6+HGGl8=">
-	
-		<script type="text/javascript" src="http://media.compete.com/site_media/js/util.js"></script>
-		<link title="Compete Search" rel="search" type="application/opensearchdescription+xml" href="http://media.compete.com/site_media/other/opensearch.xml">
-	
-	
-	<title>Compete: Privacy</title>
-	
-	
-	<link rel="stylesheet" href="http://media.compete.com/site_media/css/commoncss/reset.css" type="text/css">
-	<link rel="stylesheet" href="http://media.compete.com/site_media/css/base.css" type="text/css">
-	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Compete helps you benefit from click-sharing by providing free services that create a more trusted, transparent, and valuable Internet.">
+  <meta name="keywords" content="compete, toolbar, snapshot, search, community, metrics, site traffic, engagement, attention, rank, analytics, deals, coupons, promotional codes, trust scores">
+  <meta name="verify-v1" content="1SEgftBJ60iNZhorYRVZbR6jMpnPLnvGieoQ6+HGGl8=">
+  
+
+  
+    <script type="text/javascript" src="http://media.compete.com/site_media/js/util.js"></script>
+    <link title="Compete Search" rel="search" type="application/opensearchdescription+xml" href="http://media.compete.com/site_media/other/opensearch.xml">
+  
+
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/prototype/prototype-1.5.0-compressed.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/jquery-1.3.1.min.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/jquery/jquery-ui-compete-1.6rc6.min.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/jquery/supersleight.plugin.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/jquery/jquery.bgiframe.js"></script>
+
+  <script type="text/javascript">
+    // must be included before jquery
+    var $j = jQuery.noConflict();
+
+    // compete.com urls
+    var media_host = 'http://media.compete.com';
+    // subdomains
+    var snapshot_site = 'http://siteanalytics.compete.com'
+    var main_site = 'http://www.compete.com'
+    var member_site = 'https://my.compete.com'
+    var reftools_site = 'http://referralanalytics.compete.com'
+    var searchtools_site = 'http://searchanalytics.compete.com'
+    var toolbar_site = 'http://tools.compete.com'
+  </script>
+
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/util.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/util_format.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/dropdown.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/master.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/popup_help.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/jquery.autocomplete.pack.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/seaeagle/main_nav.js"></script>
+
+  <script type="text/javascript">
+    // ! TODO: add try_catch block *INSIDE* function() {}
+    $j(document).ready(function() {
+      // site search
+      generate_search_dropdown("site_profiles");
+      update_login_logout_link();
+      master_load();
+
+      // Apply transparency effect to PNGs for IE6
+      $j('body').supersleight({ shim: '/site_media/images/transparent.gif' });
+    });
+  </script>
+
+
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/css/seaeagle/site.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/css/seaeagle/master.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/css/seaeagle/dropdown.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/css/seaeagle/popup_help.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/css/seaeagle/jquery.autocomplete.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://media.compete.com/site_media/js/jquery/theme/ui.all.css" media="all">
+
+  <style type="text/css">
+  div.ui-dialog div.popup-help-dialog span.definition {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333333;
+  }
+</style>
+
+  
+
 	<link rel="stylesheet" href="http://media.compete.com/site_media/css/sub_base.css" type="text/css">
 
-	<!--[if IE 6]><link rel="stylesheet" href="http://media.compete.com/site_media/css/ie6.css" type="text/css"/><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" href="http://media.compete.com/site_media/css/ie7.css" type="text/css"/><![endif]-->
+
+  <!--[if IE 6]><link rel="stylesheet" href="http://media.compete.com/site_media/css/ie6.css" type="text/css"/><![endif]-->
+  <!--[if IE 6]><link rel="stylesheet" href="http://media.compete.com/site_media/css/seaeagle/ie6_override.css" type="text/css"/><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="http://media.compete.com/site_media/css/ie7.css" type="text/css"/><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="http://media.compete.com/site_media/css/seaeagle/ie_override.css" type="text/css"/><![endif]-->
+
+  <title>Compete: Privacy | Compete</title>
+
+  
 	<script type="text/javascript">
 	//<!--
 		
@@ -32,50 +94,96 @@
 		#body{_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.compete.com/site_media/images/bg_body.png',sizingMethod='scale');}
 		
 	</style>
+    
+
 
 </head>
-<body>
-	
-	<div id="wrap">
-		<div id="pagetop"></div>
-		<div id="body">
-			
-			<div id="account">
-			
-				<a id="mycompete_signup_link" href="https://my.compete.com/login/?origin=http%3A//www.compete.com/privacy" target="_parent">Sign in to MyCompete</a> | <a class="pro_prompt" href="https://my.compete.com/plans/" target="_parent">Don't have an Account?</a> |
-			
-			<a href="http://www.compete.com/help" target="_parent">Help/FAQs</a>
-			
-			
-			
-			
-			</div>
-			
-			
-	 	    <div id="header">
-		    	<h1>compete</h1>
-		    	<a id="logo" name="top" href="http://www.compete.com"><img src="http://media.compete.com/site_media/images/logo.gif" alt="Compete" title="Compete"></a>
-			</div>
-			
-			
-	  		<div id="nav">
-				<ul>
-					<li><a class="site" href="http://siteanalytics.compete.com">&nbsp;</a></li>
-					<li><a class="search" href="http://searchanalytics.compete.com">&nbsp;</a></li>
-					<li><a class="referrals" href="http://referralanalytics.compete.com">&nbsp;</a></li>
-					<li><a class="lists" href="http://lists.compete.com">&nbsp;</a></li>
-					<li><a class="blog" href="http://blog.compete.com">&nbsp;</a></li>
-					<li><a class="tools" href="http://tools.compete.com">&nbsp;</a></li>
-					<li><a class="special" href="http://www.compete.com/pro/specialoffer">&nbsp;</a></li>
-				</ul>
-			</div>
-			
-			
-			<div id="subnav">
-				<h2>Privacy Policy</h2>
-			</div>
-			
-	  		
+
+<body id="_default" class="">
+
+  <div id="main-wrap">
+    <div id="header">
+        <div id="htrlinks-container">
+            <ul id="htrlinks">
+
+                
+                
+                    <li class="green-badge"><a href="https://my.compete.com/plans/">register</a><div class="htrdivider"></div></li>
+                
+
+                
+                
+
+                
+                
+
+                
+                
+                
+                <li><a target="_parent" href="http://www.compete.com/help/">help</a><div class="htrdivider"></div></li>
+                
+                    <li><a id="mycompete_signup_link" href="https://my.compete.com/login/?origin=http://www.compete.com/privacy/">login</a></li>
+                
+
+            </ul>
+        </div>
+        <div style="clear:right;">
+            <a href="http://www.compete.com/"><img id="logo" src="http://media.compete.com/site_media/images/logo.gif" alt="compete.com logo"></a>
+            
+        </div>
+    </div>
+
+    
+    <div id="nav">
+      <ul id="topnav">
+        <li id="nav-profiles" class="topnav-item">
+        	<a class="topnav-href">Profiles</a>
+		      <!-- subnav for ul#topnav li#profiles -->
+		      <ul id="subnav-profiles" class="subnav">
+		        <li id="subnav-site-profile"><a href="http://siteanalytics.compete.com/">Site Profile</a></li>
+		        <li id="subnav-tag-profile"><a href="http://www.compete.com/s/tags/a/1/">Tag Profile</a></li>
+		        <li id="subnav-site-compare"><a href="http://siteanalytics.compete.com/?tab=comparison">Compare</a></li>
+		      </ul>
+        </li>
+        <li id="nav-analytics-tools" class="topnav-item">
+        	<a class="topnav-href">Analytics Tools</a>
+		      <!-- subnav for ul#topnav li#analytics-tools -->
+		      <ul id="subnav-analytics-tools" class="subnav">
+		        <li id="subnav-search-analytics"><a href="http://searchanalytics.compete.com/">Search Analytics</a></li>
+		        <li id="subnav-referral-analytics"><a href="http://referralanalytics.compete.com/">Referral Analytics</a></li>
+		        <li id="subnav-ranked-lists"><a href="http://lists.compete.com/">Ranked Lists</a></li>
+		      </ul>
+        </li>
+        <li id="nav-client-solutions" class="topnav-item">
+        	<a href="http://www.compete.com/m/client_solutions/" class="topnav-href">Client Solutions</a>
+		      <!-- subnav for ul#topnav li#client-solutions -->
+		      <ul id="subnav-client-solutions" class="subnav">
+		        <li></li>
+		      </ul>
+        </li>
+        <li id="nav-resources" class="topnav-item">
+        	<a class="topnav-href">Resources</a>
+		      <!-- subnav for ul#topnav li#resources -->
+		      <ul id="subnav-resources" class="subnav">
+		        <li id="subnav-help"><a href="http://www.compete.com/help/">Help</a></li>
+		        <li id="subnav-blog"><a href="http://blog.compete.com/">Blog</a></li>
+		        <li id="subnav-contact"><a href="http://www.compete.com/contact/">Contact</a></li>
+		        <li id="subnav-about"><a href="http://www.compete.com/about/">About</a></li>
+		        <li id="subnav-toolbar"><a href="http://tools.compete.com/">Toolbar</a></li>
+		        <li id="subnav-methodology"><a href="http://www.compete.com/resources/methodology/">Methodology</a></li>
+		      </ul>
+        </li>
+        <li id="nav-my-compete" class="topnav-item"><a href="https://my.compete.com/" id="my-compete-href">My Compete</a></li>
+      </ul>
+    </div>
+    
+     
+
+    <div id="content-wrap">
+      
+      
+    <div id="wrap">
+	   
 <div id="sub_contents">
 	
 	<br><br>
@@ -103,7 +211,7 @@
 	  <p>Compete processes personal information only for the purposes for which it was collected and in accordance with this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
 
 	  <p><b>Information we collect and how we use it:</b></p>
-	  <p>We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Compete Site Analytics. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:</p>
+	  <p>We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Compete Site Profiles and Comparison. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:</p>
 	  <ul>
 	  	<li>
 	  		<p>&nbsp;<b>Information you provide</b></p>
@@ -167,49 +275,64 @@
 
 </div>
 
-	  		
-		  	<div id="footer">
-				
-				<ul>
-					<li><a href="http://www.compete.com/api">Developers</a></li>
-					<li><a href="http://www.compete.com/testimonials">Buzz &amp; Press</a></li>
-					<li><a href="http://www.compete.com/about">About</a></li>
-					<li><a href="http://www.compete.com/contact">Contact Us</a></li>
-					
-					<li><a class="footer_link_end" href="http://www.competeinc.com" target="blank">Compete, Inc.</a></li>
-				</ul>
-				<p class="copyright">© 2000-2008 <a href="http://www.competeinc.com" target="blank">Compete™, Inc.</a> - <a href="http://www.compete.com/terms">Terms of Service</a> - <a href="http://www.compete.com/privacy">Privacy Policy</a></p>
-	  			
-	  		</div>
-  		</div>
-  		<div id="pagebottom"></div>
 	</div>
 
-	<script type="text/javascript">
-		function onLoadActions(evt) {
-			evt = (evt) ? evt : ((window.event) ? window.event : "");
-			// evt is now a pointer to the event object that you may use
+    </div>
 
-			
-		}
-		onloadEvent(onLoadActions);
-	</script>
-	<!-- IndexTools Customization Code -->
-	<!-- Remove leading // to activate custom variables -->
-	<script type="text/javascript">
-		var DOCUMENTGROUP='Compete Home';
-		var DOCUMENTNAME='Privacy Statement';
-		var ACTION=null;
-		var DOMAINS='*.compete.com';
-	</script>
-	<!-- End of Customization Code -->
-	<!-- IndexTools Code v4.00 - All rights reserved -->
-	
-	<script type="text/javascript" src="http://media.compete.com/site_media/js/indextools.js"></script><noscript>
-	<div><img src="http://stats.indextools.com/p.pl?a=1000167764791&amp;js=no" width="1" height="1" alt=""/></div></noscript><!--//-->
-	<!-- End of IndexTools Code -->
-	
-	
+    <div id="footer">
+      <div id="footer-top-wrap">
+        <ul id="ftlinks">
+          <li><a href="http://www.compete.com/api/">Developers</a></li>
+          <li><a href="http://www.compete.com/testimonials/">Buzz &amp; Press</a></li>
+          <li><a href="http://www.compete.com/about/">About</a></li>
+          <li><a href="http://www.compete.com/contact/">Contact Us</a></li>
+          <li><a href="https://my.compete.com/referral/">Tell a Friend</a></li>
+          <li class="no-border"><a href="http://www.competeinc.com" target="_blank">Compete, Inc</a></li>
+        </ul>
+      </div>
+
+      <div id="footer-bottom-wrap">
+        <ul id="fblinks">
+          <li>© 2000 - 2009</li>
+          <li><a href="http://www.competeinc.com" target="_blank">Compete, Inc</a></li>
+          <li>-</li>
+          <li><a href="http://www.compete.com/terms/">Terms of Service</a></li>
+          <li>-</li>
+          <li><a href="http://www.compete.com/privacy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="clear"></div>
+  </div> <!-- /main-wrap -->
+
+  <div id="dialog"></div>
+
+  <script type="text/javascript">
+    function onLoadActions(evt) {
+	  evt = (evt) ? evt : ((window.event) ? window.event : "");
+      // evt is now a pointer to the event object that you may use
+
+      
+    }
+    onloadEvent(onLoadActions);
+  </script>
+  <!-- IndexTools Customization Code -->
+  <!-- Remove leading // to activate custom variables -->
+  <script type="text/javascript">
+    var DOCUMENTGROUP='Compete Home';
+    var DOCUMENTNAME='Privacy Statement';
+    var ACTION=null;
+    var DOMAINS='*.compete.com';
+  </script>
+  <!-- End of Customization Code -->
+  <!-- IndexTools Code v4.00 - All rights reserved -->
+  
+  <script type="text/javascript" src="http://media.compete.com/site_media/js/indextools.js"></script><noscript>
+  <div><img src="http://stats.indextools.com/p.pl?a=1000167764791&amp;js=no" width="1" height="1" alt=""/></div></noscript><!--//-->
+  <!-- End of IndexTools Code -->
+  
+
   <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -219,9 +342,12 @@
       var pageTracker = _gat._getTracker("UA-6320717-1");
       pageTracker._setDomainName(".compete.com")
       pageTracker._trackPageview();
-    } 
+    }
     catch(err) {}
   </script>
-	
+  
+      
+  
+
 
 </body></html>
