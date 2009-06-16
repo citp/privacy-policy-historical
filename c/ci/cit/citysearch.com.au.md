@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013720id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616142128id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
 Privacy Collection Statement
 
   
-Updated June 2008 
+Updated June 2009 
 
 Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
 
 Set out below is information that Sensis is required to communicate to our customers. We recommend that you keep this information for future reference. This information does not restrict Sensis' rights under the Privacy Act in any way. 
 
 Sensis   
-Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for Yellow™, White Pages® directories, Trading Post classifieds directory and related print, voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services. 
+Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for Yellow Pages™ and White Pages® directories and voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services. 
 
 Your personal information   
 Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, preferences for using our websites, web log, computer and connection information, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
@@ -89,7 +89,7 @@ Sensis may share your personal information with the Related Companies to assist 
 Sensis' websites  
 Sensis provides products and services via our various websites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. 
 
-Sensis may use 'cookies' on various websites. Cookies are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences. As such, cookies are designed to improve your experience of our websites. 
+Sensis may use 'cookies' on various websites. Cookies are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for websites to remember your preferences. As such, cookies are designed to improve your experience of the websites you visit. 
 
 In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer. 
 
