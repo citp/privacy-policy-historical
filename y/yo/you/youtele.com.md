@@ -1,31 +1,28 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611053938id_/http%3A//www.youtele.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151708id_/http%3A//www.youtele.com/youtele08/html/policy.php) for the most accurate reproduction.*
 
-# Broadband from YOU Telecom: Leading Hi Speed Broadband Internet Service provider in India.Super Fast Connection.
+# Broadband from YOU Telecom: Leading Hi Speed Broadband Internet Service provider in India.uper Fast Connection.
 
-|   |  |  | [Home](http://www.youtele.com/) |  | Privacy Policy |    
----|---|---|---|---  
-  |  | Homeuser  
----  
-[Tariff Plans](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/homeuser_plans.php)  
-[My Account](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/myaccount.php)  
-[Find a Dealer ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/find_dealer.php)  
-[New Connection Via SMS](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/newsms.php)  
-[Apply For New Connection](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/form.php)  
-[Locate Your Drop Box](http://www.skyfin.com/Boxloc.aspx)  
-[YOU Call ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/youcallplans.php)  
-[Fair Access Policy](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/benchmark.php)  
-[ Check Availiablity ](https://web.archive.org/web/20080611053938id_/http://www.youtele.com/new_html1/html/homeuser/feasiblity1.php)  
-[Explanation of Bill](http://www.youtele.com/webhelp/explan_bill.htm)  
-   
-   
-  | 
+  * YOU Play
+    * Premium Games
+      * [Games on Demand](http://you.indiagames.com/premium/index.jsp)
+    * Free Games
+      * [Kreeda Games](http://kreeda.youtele.com/)
+      * [Supreme Destiny](http://supremedestiny.youtele.com/supreme.php)
+      * [Level Up Games](http://www.youtele.com/youtele08/html/yourspace/levelupgames.php)
+      * [Games2win](http://www.youtele.com/youtele08/html/yourspace/games2win.php)
+      * [Flash Games](http://www.youtele.com/youtele08/html/yourspace/funzone/funzone.php)
+  * [YOU Shop](http://www.youshop.in/)
+  * YOU Learn
+    * [24x7 Guru](http://itapps.youtele.com:8100/default/24x7guru/html/index.jsp)
+  * [Greeting Cards](http://www.youtele.com/youtele08/html/greetings.php)
+  * Matrimonial
+    * [Shaadi.com](http://www.shaadi.com/ptnr.php?ptnr=tj5te)
 
-|   
----  
-Privacy  
   
-**What This Privacy Policy Covers**
-
+| Privacy  
+---  
+**What This Privacy Policy Covers**  
+  
   * This policy covers how YOU Telecom India Pvt Ltd ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
 
@@ -54,6 +51,4 @@ Privacy
 
 
 **Changes to this Privacy Policy**  
-The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.  
-  
-  |  
+The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
