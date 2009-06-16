@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912075908id_/http%3A//www.neowin.net/index.php%3Fact%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061517id_/http%3A//www.neowin.net/news/privacy) for the most accurate reproduction.*
 
 # Neowin.net - Where unprofessional journalism looks better
-
-Shift Linux is the Neowin community's very own Linux Distro. Based on Ubuntu, it is available in KDE, Gnome and Lite flavours.
-
-[Official Website](http://www.shiftlinux.net/) [Download Shift](http://www.shiftlinux.net/download) [Forums](http://www.neowin.net/forum/index.php?showforum=182) Current Version: 0.6.5
-
-### Privacy Statement
 
   1. #### Visitor Notice
 
@@ -43,6 +37,4 @@ Changes to this document may be made any time without warning. neowin.net may or
 
 
 
-##### Notice to Parents
-
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
+**Notice to Parents or Guardians:** We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
