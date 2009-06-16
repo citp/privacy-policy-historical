@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mibba.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014019id_/http%3A//www.mibba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mibba.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151951id_/http%3A//www.mibba.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mibba.com
 
@@ -41,6 +41,8 @@ We do not share personal information we collect with other companies or individu
 Every time you visit our website your browser stores a small amount of data sent from our server on your computer. We use that data to identify you (your computer) next time you visit our website.
 
 We use third party advertisements to support our site. Some of these advertisers may store cookies on your computer and use information about you and your computer they can collect (IP address, computer/monitor settings). Please review their [Privacy Policy](http://www.google.com/privacy_ads.html) for more information.
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to this site users based on the visit to this sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can disable cookies in your browser or firewall settings. However, you won't be able to log into your account and use advanced features of the site.
 
