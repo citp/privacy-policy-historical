@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainableindustries.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163038id_/http%3A//www.sustainableindustries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainableindustries.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616083303id_/http%3A//www.sustainableindustries.com/privacy) for the most accurate reproduction.*
 
 # Sustainable Industries | Privacy Policy
 
