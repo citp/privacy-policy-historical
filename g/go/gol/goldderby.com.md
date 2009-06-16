@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151554id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081103id_/http%3A//theenvelope.latimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Envelope - LA Times
 
