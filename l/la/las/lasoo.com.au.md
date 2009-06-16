@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060143id_/http%3A//lasoo.com.au/portal/homepage%3Ffooter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616173538id_/http%3A//www.lasoo.com.au/portal%3Ffooter%3Dprivacy) for the most accurate reproduction.*
 
 # Lasoo.com.au - Search offers and catalogues from your local retail stores
 
@@ -32,7 +32,11 @@ We take appropriate security measures to protect against unauthorised access to 
 
 We restrict access to personal information to Lasoo employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-  * Cookies are data that the Website transfers to your hard drive for record-keeping purposes. Cookies can facilitate your ongoing access to and use of the Website. They allow us to customise the Website to your needs, such as welcoming you back to the Website and remembering your preferences. If you do not want information collected through the use of Cookies, you can set your browser to disable acceptance of cookies. However, doing so will reduce the ability of Lasoo to provide its full range of services. It is recommended that you set your computer to allow our Cookies. Cookies do not provide Lasoo with any personally identifiable information. 
+  * Cookies are data that the Website transfers to your hard drive for record-keeping purposes. Cookies can facilitate your ongoing access to and use of the Website. They allow us to customise the Website to your needs, such as welcoming you back to the Website and remembering your preferences. If you do not want information collected through the use of Cookies, you can set your browser to disable acceptance of cookies. However, doing so will reduce the ability of Lasoo to provide its full range of services. It is recommended that you set your computer to allow our Cookies. Cookies do not provide Lasoo with any personally identifiable information.
+
+In some instances, u.lasoo.com.au uses third-party advertising companies to serve ads when you visit u.lasoo.com.au. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
+
+u.lasoo.com.au allows users to enable Google, as a third party vendor. As such, Google uses cookies to serve ads on u.lasoo.com.au. Google's use of the DART cookie enables it to serve ads to u.lasoo.com.au users based on their visit to u.lasoo.com.au sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
   * We will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Except in relation to emergencies or law enforcement matters, we will also provide you with access to your personal information that we hold. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected. 
 
@@ -46,25 +50,3 @@ Changes to this policy Please note that this Privacy Policy may change from time
 
 
 
-
-**If you have any questions regarding the Privacy Statement - please[email us](https://web.archive.org/web/20081217060143id_/http%3A//lasoo.com.au/portal/homepage?footer=contact%20us)**
-
-###  Your Locations 
-
-###  Retailers 
-
-###  Lasoo Newsletters 
-
-Subscribe to Lasoo Pre-Shop News for the latest catalogues and bargains, as well as exclusive competitions.
-
-You can view the latest edition of Lasoo Pre-Shop News [here](https://web.archive.org/newsletters/current.html).
-
-###  Tell Your Friends 
-
-###  Lasoo Community 
-
-### Lasoo.com.au in the News
-
-"Lasoo.com.au - one of the most popular pre-shop websites..."
-
-### Pre-Shop 2 Win
