@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionism.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011256id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionism.ca privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063819id_/http%3A//privacy.sympatico.msn.ca) for the most accurate reproduction.*
 
 # Sympatico / MSN - Privacy Statement
 
