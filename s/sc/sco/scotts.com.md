@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152152id_/http%3A//www.scotts.com/smg/privacy.jsp%3FnavId%3Dpage900105%26parentId%3D500006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063542id_/http%3A//www.scotts.com./smg/privacy.jsp%3FnavId%3Dpage900105%26parentId%3D500006) for the most accurate reproduction.*
 
-# Privacy Page : The Scotts Miracle-Gro Company :
+# Privacy Policy - Scotts Miracle-Gro
 
 The Scotts Miracle-Gro Company and its affiliated companies and brands, including Miracle-Gro, Miracle-Gro Nursery Select, Ortho, Roundup, Osmocote and Whitney Farms ("Scotts Miracle-Gro") gather certain types of information from visitors to our website. We are providing this privacy policy to help you understand the types of information we gather, how it is used and shared, and how you can update or modify user profile or registration information you have provided to us online. This policy applies only to information collected online at scotts.com (the "Scotts Miracle-Gro Website"). 
 
