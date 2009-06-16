@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051332id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061644id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
-
-Privacy Policy Overview (Effective Date: 01/12/2006)  MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
-
-Information Collection and Use ** **
 
 MexGrocer.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MexGrocer.com collects information from our users at several different points on our website.
 
@@ -12,7 +8,7 @@ Order ** **
 
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
 
-MexGrocer does not process credit card transactions directly; this site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us) for more information about how Yahoo! uses this information.
+MexGrocer does not process credit card transactions directly; this site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
 
 Corrections/Updating Personal Information
 
@@ -24,7 +20,7 @@ MexGrocer will store a persistent cookie so that you may retrieve the products i
 
 Affiliate Programs
 
-We use Commission Junction to run our affiliate program ~~s~~ for advertising purposes to increase MexGrocer’s brand awareness and the store’s existence to larger communities of websites. When a company signs up for an Affiliate Program (apply ONLY to corporations) within the MexGrocer website, the information is collected and stored by Commission Junction. The usage of this cookie is in no way linked to any personally identifiable information. Even though the page has the look and the feel of the mexgrocer website.
+he usage of this cookie is in no way linked to any personally identifiable information. Even though the page has the look and the feel of the mexgrocer website.
 
 Log Files ** **
 
@@ -32,7 +28,11 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 Sharing 
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. MexGrocer will share with Univision Online some or all of the personal data collected (i.e. name, email, order information, etc.) from this site ONLY for end-users accessing this site through the [www.Univision.com](http://www.univision.com/) portal, to be used in accordance with Univision's [privacy policy](http://www.univision.com/content/content.jhtml?cid=72057).
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact them directly. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
 
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
@@ -82,7 +82,7 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 Your **** Feedback
 
-At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](http://store.yahoo.com/mexgrocer/contact-us.html) and let us know or write us by mail at: 
+At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](https://web.archive.org/web/20090616061644id_/http%3A//www.mexgrocer.com/contact.html) and let us know or write us by mail at: 
 
 MexGrocer.com LLC  
 4060 Morena Blvd. Suite C  
