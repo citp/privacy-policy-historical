@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165057id_/http%3A//minekey.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minekey.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616075422id_/http%3A//minekey.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy : Minekey
 
-|  |   
----|---  
-|   
----  
-  
+| 
+
 Effective July 31st, 2008
 
 By using the Minekey Application or Site you are consenting to our Processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information all of which will take place in the United States. If you reside outside the U.S., your personally identifiable information will be transferred to the U.S. and processed and stored there under U.S. privacy standards. By visiting our Application or Site and providing information to us, you consent to such transfer to and processing in the U.S. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [privacy@minekey.com](mailto:privacy@minekey.com). 
@@ -25,12 +22,15 @@ Minekey is very concerned about safeguarding the confidentiality of your persona
 
 #### Links to Other Sites
 
-The Minekey Application or Site may contain links to other websites. The fact that Minekey links to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses the use and disclosure of information that we collect from you through this Site. Other sites, including other websites that may use Minekey services, follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.   
-  
+The Minekey Application or Site may contain links to other websites. The fact that Minekey links to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This Privacy Policy addresses the use and disclosure of information that we collect from you through this Site. Other sites, including other websites that may use Minekey services, follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+|   
+---|---  
 |   quick links  
 ---  
 [followers](http://minekey.com/myopinion/followers)  
 [opinions](http://minekey.com/myopinion/list?acttype=rcvd)  
 [comments](http://minekey.com/myopinion/list?acttype=commentsonmyop)  
 [notes received](http://minekey.com/myopinion/notes)  
-[replies](http://minekey.com/myopinion/list?acttype=commented)
+[replies](http://minekey.com/myopinion/list?acttype=ronmycom)  
+[ratings](http://minekey.com/myopinion/rating?acttype=myratings)
