@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912170049id_/http%3A//www.byo.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153858id_/http%3A//www.byo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Brew Your Own (BYO), the How-To Homebrew Beer Magazine
-
-**Privacy Statement**
+# Brew Your Own: The How-To Homebrew Beer Magazine - Privacy Policy
 
 Battenkill Communications is committed to maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the internet or otherwise.
 
@@ -18,19 +16,13 @@ If you subscribe to one or more of our magazines, you will also receive a notice
 
 At the time you volunteer personally identifiable information and at anytime thereafter, you can direct us not to use this information for promotional or informational mailings. At your option, you may also elect to suppress the mailing of renewal notices for any of our magazines. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request, and you will be excluded from the related Battenkill mailings. You can also elect separately to be excluded from mailings by any third party to whom your address might otherwise be provided. You can, at any time, send such directions to the appropriate Customer Service Department at Battenkill Communications:
 
-Brew Your Own Customer Service Department  
-P.O. Box 469121  
-Escondido, CA 92046
+Brew Your Own Customer Service Department P.O. Box 469121 Escondido, CA 92046
 
-Or contact us by e-mail:  
-[byo@pcspublink.com](mailto:byo@pcspublink.com)
+Or contact us by e-mail: [byo@pcspublink.com](mailto:byo@pcspublink.com)
 
-WineMaker Customer Service Department  
-P.O. Box 469118  
-Escondido, CA 92046
+WineMaker Customer Service Department P.O. Box 469118 Escondido, CA 92046
 
-Or contact us by e-mail:  
-[winemaker@pcspublink.com](mailto:winemaker@pcspublink.com)
+Or contact us by e-mail: [winemaker@pcspublink.com](mailto:winemaker@pcspublink.com)
 
 Customer Service for both magazines can also be reached by calling toll-free, 800-900-7594, 8:30am - 5:00pm Pacific Time, Monday - Friday.
 
@@ -42,11 +34,8 @@ Battenkill Communications does not directly market to children or other minors.
 
 We maintain our corporate offices in a separate location from our customer service operations. To contact us about non-customer service related items:
 
-Battenkill Communications  
-5053 Main St., Suite A  
-Manchester Center, VT 05255
+Battenkill Communications 5053 Main St., Suite A Manchester Center, VT 05255
 
 [byo@byo.com](mailto:byo@byo.com)
 
-802-362-3981  
-802-362-2377 (fax)
+802-362-3981 802-362-2377 (fax)
