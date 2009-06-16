@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165336id_/http%3A//www.webwizguide.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152004id_/http%3A//www.webwizguide.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
