@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015141id_/http%3A//whathifi.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151606id_/http%3A//whathifi.com/Privacy-Policy) for the most accurate reproduction.*
 
-# The world’s No.1 home cinema, hi-fi and TV buying guide – whathifi.com
+# The world’s No.1 home cinema, hi-fi and TV buying guide – from the experts at whathifi.com
 
 Haymarket Media Group ( "Haymarket") is committed to protecting and respecting your privacy.
 
