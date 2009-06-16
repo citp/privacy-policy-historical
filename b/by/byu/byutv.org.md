@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630213720id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190313id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Website Privacy Policy
 
@@ -23,6 +23,14 @@ We do log IP addresses for use in our own internal evaluation of the website, to
 What about links to other Web sites?
 
 You should be aware that there are links to other Web sites from byutv.org. When you link to other Web sites from us, please be aware that these Web sites are beyond our control. We cannot guarantee that these websites maintain a privacy policy like ours. As always, we recommend that you read the privacy policy of the Web site you are linking to.
+
+Information for Security for Employees and Contractors
+
+We carefully train and supervise all employees who deal with credit card transactions. Credit Card information is never written down expect in extreme cases, after which the information is immediately shredded.
+
+Return/Refund Policy
+
+BYUB will refund a transaction within 90 days of the original transaction date. If a gift is received in return for the donation, the gift must be returned to BYUB before the 90 day limit and refunds will not be issued until gift is returned.
 
 What if I have a question or complaint?
 
