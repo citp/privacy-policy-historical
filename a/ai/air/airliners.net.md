@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229185218id_/http%3A//www.airliners.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616235442id_/http%3A//www.airliners.net/privacypolicy) for the most accurate reproduction.*
 
 # Airliners.net Privacy and Information Security Policy
 
-**Airliners.net Privacy and Information Security Policy**  
----  
-  
 **Effective Date: March 5, 2008**
 
 Your privacy is important to Airliners.net (“Airliners.net”, “we” or “us”). This Privacy and Information Security Policy ("the Policy") discusses the personally identifying information (“PII”) that we collect about you when you use our website [http://www.Airliners.net](http://www.airliners.net/) (the “Site”) and the other services we provide on or through the Site (together with the Site, the “Service”). This Policy is part of and incorporated into the Airliners.net Terms of Use <http://www.airliners.net/termsofuse/> (collectively, the “Terms”).   
