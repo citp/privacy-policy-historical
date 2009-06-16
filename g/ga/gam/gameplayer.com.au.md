@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gameplayer.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012941id_/http%3A//www.gameplayer.com.au/CMSTemplates/GamePlayerASPX/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplayer.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063658id_/http%3A//www.gameplayer.com.au/CMSTemplates/GamePlayerASPX/privacy.aspx) for the most accurate reproduction.*
 
 # GamePlayer - Privacy Statement
 
 [
 
-](http://www.cogsdigital.com.au/link/?sid=295&lid=11)
+](https://web.archive.org/web/20090616063658id_/http%3A//www.gameplayer.com.au/CMSTemplates/GamePlayerASPX/~/cdwow.aspx)
 
 **Quick Jump**
 
