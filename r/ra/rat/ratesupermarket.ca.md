@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061119id_/http%3A//www.ratesupermarket.ca/mortgage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153840id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
-# Ratesupermarket.ca Privacy Policy - Mortgage Rates Canada - Compare Mortgage Rates
+# Ratesupermarket.ca Privacy Policy
 
 RateSupermarket.ca ("We") believe that your personal information deserves protection and we subscribe to the privacy principles set out in the [ Government of Canada's Personal Information Protection and Electronic Documents Act](http://www.privcom.gc.ca/legislation/02_06_01_e.asp). This privacy policy describes our practices regarding the collection, use and sharing of your personal information. By using our website you consent and agree to the collection, use and disclosure of personal information and to the privacy practices set out in this policy. RateSupermarket.ca expressly reserves the right to change this privacy policy at any time. 
 
@@ -60,5 +60,3 @@ RateSupermarket.ca Inc.
 Burlington, Ontario, Canada  
 L7M 3A4  
 kelvin@RateSupermarket.ca 
-
-**PLEASE NOTE:** RateSupermarket.ca is an independent, impartial information only website that is not, and does not claim to be, a mortgage broker or mortgage lender. RateSupermarket.ca does not take any responsibility for the rates, products and their features displayed on the website, as these are subject to change without notice at any time, and are for informational purposes only. Please contact the lender or broker directly for more details.
