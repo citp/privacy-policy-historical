@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131137id_/http%3A//www.vacu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616230640id_/http%3A//www.vacu.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Virginia Credit Union
 
@@ -33,7 +33,7 @@ We restrict access to nonpublic personal information about you to those employee
 Online communication   
 To protect the information you provide us online, we use multiple levels of security. Applications and forms you submit to us are secured using industry standard encryption.
 
-You may communicate with us using the secure Contact Us form on our web site or Secure Mail within Home Banking. Regular e-mails you may send to us are not secure against interception by unauthorized individuals. Therefore, we ask that you not send nonpublic personal information, especially Social Security or account numbers, through regular e-mail. However, you may want to call us or write to us via U.S. mail anytime it is necessary to provide sensitive or personal information. Likewise, we will not transmit through regular e-mail sensitive or nonpublic personal information that can compromise or violate a user’s privacy.
+You may communicate with us using the secure Contact Us form on our web site, Secure Mail within Home Banking, or Secure E-mail Encryption Service. Regular e-mails you may send to us are not secure against interception by unauthorized individuals. Therefore, we ask that you not send nonpublic personal information, especially Social Security or account numbers, through regular e-mail. However, you may want to call us or write to us via U.S. mail anytime it is necessary to provide sensitive or personal information. Likewise, we will not transmit through regular e-mail sensitive or nonpublic personal information that can compromise or violate a user’s privacy.
 
 We may periodically send educational and informational e-mails about our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive these e-mails have the opportunity to opt out of this service at any time by simply clicking an unsubscribe link in the message. Members may also opt out by contacting us by e-mail, phone, fax or U.S. mail.
 
@@ -54,5 +54,5 @@ Privacy statement inquiries
 Please _contact us_ if you have any questions about this statement or if we can help you in any way.
 
   
-June 2008  
+June 2009  
 
