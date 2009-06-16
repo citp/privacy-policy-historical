@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035753id_/http%3A//www.moleskineus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616051556id_/http%3A//www.moleskineus.com/privacy.html) for the most accurate reproduction.*
 
 # Moleskine US Privacy Policy, MoleskineUS
 
@@ -46,5 +46,6 @@ You may not know that your credit card provides 100% fraud protection for on-lin
   
 **Still don't want to use your credit card on the Internet?**  
 If you're uncomfortable ordering on-line, feel free to call us at 1-888-822-1036 to place your order. Our friendly and knowledgeable staff is available to help you shop with us.  
-If you have any questions please contact [ info@moleskineus.com](mailto:info@moleskineus.com).  
+If you have any questions please contact [ info@moleskineus.com](mailto:info@moleskineus.com).
 
+**Third-Party Web Beacons** **»**  We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
