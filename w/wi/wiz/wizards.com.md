@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224023819id_/http%3A//www.wizards.com/default.asp%3Fx%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175824id_/http%3A//www.wizards.com/default.asp%3Fx%3Dprivacystatement) for the most accurate reproduction.*
 
 # Wizards of the Coast
 
 ### WIZARDS WEB SITE PRIVACY STATEMENT
 
-_Last modified October 15, 2008._
+_Last modified January 15, 2009._
+
+[](http://www.esrb.org/confirm/wizards-confirmation.jsp)  
+
 
 Table of Contents
 
+  
 Welcome  
 What does the Privacy Policy apply to?  
 What information does Wizards collect?  
@@ -63,7 +67,7 @@ Whenever you visit a web site that displays the ESRB Privacy Online certificatio
 
 
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact the Privacy Policy Administrator at webregistration@wizards.com. For complaints, you can also contact ESRB Privacy Online directly through their [consumer hotline](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.esrb.org/privacy/contact.jsp), by phone at (212) 759-0700 or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017.
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact the Privacy Policy Administrator at webregistration@wizards.com. For complaints, you can also contact ESRB Privacy Online directly through their [consumer hotline](http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.esrb.org/privacy/contact.jsp), or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017.
 
   
 Back to top
@@ -310,7 +314,6 @@ ESRB
 Attn.: Director, Privacy Online  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-212-759-0700  
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
   
