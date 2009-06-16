@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalcameratracker.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025801id_/http%3A//www.digitalcameratracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcameratracker.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181714id_/http%3A//www.digitalcameratracker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Digital Camera Reviews & Photography Tips
 
 **We are committed to safeguarding visitors’ privacy. We operate under the following strict privacy policy:**
 
@@ -14,7 +14,7 @@ Keep in mind that many sites do attempt to capture visitor information when you 
 
 We provide our visitors with the ability to comment on our articles. To protect your privacy when posting or replying to comments, your personal information and email is not revealed.
 
-However, remember that any information you disclose in the comment areas can be read by all other visitors, so exercise caution when deciding to disclose your personal information.
+However, remember that any information you disclose in the comment areas can be read by all other visitors, so exercise caution when deciding to disclose your personal information. 
 
 **Choice/Opt-In**
 
