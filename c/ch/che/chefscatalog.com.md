@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020746id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153113id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
 
-# CHEFS: Cookware, bakeware, cutlery, small appliances, kitchen utensils for the cooking enthusiast and home chef
+# CHEFS: The Best Kitchen Starts Here -- Shop cookware, cutlery, kitchen electrics and tools for the cooking enthusiast and home chef
 
 **Secure ordering**  
 Your online credit card transactions are secure with chefscatalog.com. We use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures safe Internet transmission of your personal information. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
 
-Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1-800-338-3232 - 5:00 AM - 11:00 PM Mountain Time, seven days a week. One of our customer service associates will gladly take your order.
+Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling [customer service](http://www.chefscatalog.com/service/customer-service.aspx).
 
 **Privacy policy**  
 To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.
