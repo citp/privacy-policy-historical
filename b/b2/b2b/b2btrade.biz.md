@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170711id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175708id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
-# Asia B2B trade Portal for Import Export Business focus on Asia
+# Privacy Policy of B2btrade.biz - Asia B2B trade Portal for Import Export Business focus on Asia
 
  
 
 **Privacy Policy for B2btrade.biz**
 
 Amended & Restated  
-Last Updated: Feb 28, 2008
+Last Updated: 03/04/2009
 
 **What this Privacy Policy Covers**
 
@@ -39,8 +39,19 @@ B2Btrade.biz will not provide your personally identifiable information to other 
 
 Your Internet browser has a feature called "cookies" which may store small amounts of data on your computer about your visit to our site. B2Btrade.biz may set and access b2btrade.biz cookies on your computer. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information.
 
-B2Btrade.biz uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  
+B2Btrade.biz uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
 B2Btrade.biz uses web beacons to access our cookies within our network of web sites and in connection with b2btrade.biz services. 
+
+**DoubleClick DART Cookie:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to this sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 **Security**
 
