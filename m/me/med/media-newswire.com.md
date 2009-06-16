@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032327id_/http%3A//media-newswire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-newswire.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152722id_/http%3A//media-newswire.com/privacy.html) for the most accurate reproduction.*
 
 # Media-Newswire.com - Press Release Distribution - PR Agency
 
@@ -34,3 +34,5 @@ By using our website, you consent to the collection and use of this information 
 
 **Cookies/Third Party Cookies**  
 Please be aware that by using this website, any third parties may be placing and reading cookies on your user's browser, or using web beacons to collect information, in the course of ads being served on your website including but not limited to Google Adsense cookies. You can adjust these settings by going into your web browser and changing the cookies settings. In Internet Explorer this is under Tools, Internet Options, Privacy, Advanced and in Mozilla Firefox, it is located in Tools, Options, Privacy, Cookies. 
+
+Added April 1, 2009 * Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy - http://www.google.com/privacy_ads.html 
