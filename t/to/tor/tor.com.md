@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152019id_/http%3A//tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616080952id_/http%3A//www.tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
 
 # Tor.com / Science fiction and fantasy / Privacy Notice
 
@@ -149,7 +149,7 @@ If you would like to review the Personal Information that we have collected from
 By using the Site and any related interactive services you signify your agreement to this Privacy Notice. This Privacy Notice may change from time to time. Changes to this Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the services and the Site subsequent to any changes to this Privacy Notice constitutes your acceptance of the changes. Please review this Notice periodically to ensure continuing familiarity with its most current provisions. We indicate above the effective date of the Notice.
 
 **_How to Contact Us and Update Information_**   
-If you would like to update or correct your personal information, please send an email to [Editor@Tor.com](mailto:Editor@Tor.com).
+If you would like to update or correct your personal information, please send an email to [questions@tor.com](mailto:questions@tor.com).
 
 If you have any questions about our information practices or our products, services or promotions, please contact us by:
 
