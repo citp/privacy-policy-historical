@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163148id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616130046id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Cell Phone Accessories, Discount Bluetooth Headsets: Nokia Motorola LG Samsung Mobile Phone Headsets, Holsters & Chargers, Faceplates, Batteries
 
@@ -61,7 +61,7 @@ Fullerton, CA 92835
 ---|---|---|---|---  
   
 **[Home](http://www.wirelessemporium.com/index.asp "Home") | [About Us](http://www.wirelessemporium.com/aboutus.asp "About Us") | [Press](http://www.wirelessemporium.com/press.asp "Press") | [FAQs](http://www.wirelessemporium.com/faq.asp "FAQs") | [Order Status](http://www.wirelessemporium.com/orderstatus.asp "Order Status") | [Store/Return Policy](http://www.wirelessemporium.com/store.asp "Store/Return Policy") | [Shipping Information](http://www.wirelessemporium.com/shipping.asp "Shipping Information") | [Affiliate Program](http://www.wirelessemporium.com/affiliate.asp "Affiliate Program")   
-[Site Map](http://www.wirelessemporium.com/sitemap.asp "Site Map") | [Links](http://www.wirelessemporium.com/links.asp "Links") | [Contact Us](http://www.wirelessemporium.com/contactus.asp "Contact Us") | [External Directory](http://www.wirelessemporium.com/directory.html "External Directory") | [Cell Phone Accessories References](http://www.wirelessemporium.com/cell-phone-accessories-references.html "Cell Phone Accessories References") | [Privacy Policy](http://www.wirelessemporium.com/privacy.asp "Privacy Policy") **  
+[Site Map](http://www.wirelessemporium.com/sitemap.asp "Site Map") | [Links](http://www.wirelessemporium.com/links.asp "Links") | [Contact Us](http://www.wirelessemporium.com/contactus.asp "Contact Us") | [External Directory](http://www.wirelessemporium.com/directory.html "External Directory") | [iPhone Accessories](http://www.wirelessemporium.com/iPhoneSuperstore.asp "iPhone Accessories") | [Cell Phone Accessories References](http://www.wirelessemporium.com/cell-phone-accessories-references.html "Cell Phone Accessories References") | [Privacy Policy](http://www.wirelessemporium.com/privacy.asp "Privacy Policy") **  
   
 ®™ Registered Trade Marks/Trade Marks shown here are owned by or licensed to Wireless Emporium Inc.  
-All contents ©2002-2008 Wireless Emporium Inc. All rights reserved.
+All contents ©2002-2009 Wireless Emporium Inc. All rights reserved.
