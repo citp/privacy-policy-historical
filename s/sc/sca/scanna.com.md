@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924065127id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616140218id_/http%3A//www.scanna.com/index/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Scanna - easy way to meet Russian brides - Privacy Policy
 
