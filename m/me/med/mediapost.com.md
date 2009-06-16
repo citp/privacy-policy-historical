@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021709id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081948id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -92,10 +92,10 @@ Director, Events Sales
 (212) 204-2025  
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
-**Megan Knapp**  
-Events Director  
-(212) 204-2020  
-[megan@mediapost.com](mailto:megan@mediapost.com)
+**Elaine Wong**  
+Senior Manager, Conferences & Events  
+(212) 204-2035  
+[elaine@mediapost.com](mailto:elaine@mediapost.com)
 
 **Jonathan McEwan**  
 Creative Director  
