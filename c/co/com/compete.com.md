@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050607id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190446id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
 
-# Compete: Privacy
+# Compete: Privacy | Compete
 
 Effective on: August 20, 2007   
  
@@ -32,7 +32,7 @@ Compete processes personal information only for the purposes for which it was co
 
 **Information we collect and how we use it:**
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Compete Site Analytics. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Compete Site Profiles and Comparison. However, some of our Services will require the provision of certain personal information. In order to provide our full range of services, we may collect the following types of information:
 
   *   **Information you provide**
 
