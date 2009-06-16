@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the verticalmeasures.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121073835id_/http%3A//verticalmeasures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalmeasures.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133028id_/http%3A//www.verticalmeasures.com/privacy-policy) for the most accurate reproduction.*
 
-# Link Building | Search Engine Marketing | Higher Search Engine Rankings | Search Engine Optimization Company
+# Privacy Policy | Vertical Measures
 
-Introduction
+Introduction 
 
 Vertical Measures LLC respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Vertical Measures LLC’s Web site. 
 
@@ -39,3 +39,11 @@ If problems arise, users may contact Vertical Measures LLC by calling 602-476-18
 Data Storage and Security
 
 Vertical Measures LLC protects user information through security measures commonly-accepted as adequate.
+
+[](http://www.verticalmeasures.com/vertical-measures-video/)
+
+## SEO Videos
+
+[](http://www.verticalmeasures.com/resources/seo-tutorial-video/)
+
+Our short [SEO Videos](http://www.verticalmeasures.com/resources/seo-tutorial-video/) discuss a number of onsite SEO tips and techniques to improve your search engine ranking. These SEO videos offer a hands-on approach, so that immediately following the video, you can look at your website and determine if it is properly optimized. If not, making the fix may require html coding knowledge or the assistance of your webmaster. 
