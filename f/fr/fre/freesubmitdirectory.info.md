@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesubmitdirectory.info privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032232id_/http%3A//www.freesubmitdirectory.info/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesubmitdirectory.info privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182424id_/http%3A//freesubmitdirectory.info/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
