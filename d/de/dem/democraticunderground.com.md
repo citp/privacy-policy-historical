@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012801id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182417id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
 
 # Democratic Underground Privacy Policy
 
@@ -44,6 +44,8 @@ The Democratic Underground Site may include features, such as discussion forums,
 
 This Democratic Underground Privacy Policy applies only to information collected by the Democratic Underground Site. The Democratic Underground Site may contain links to other third party web sites that are not owned or controlled by Democratic Underground, including, but not limited to, third party advertisers. These sites control their own privacy practices and are not bound by this Democratic Underground Privacy Policy. Democratic Underground is not responsible for the information or services provided on third party sites provide, nor is it responsible for the privacy practices or content of their sites.
 
+Google, as a third party vendor, uses cookies to serve ads on the Democratic Underground site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 **Cookies**
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  Democratic Underground may use both “session ID cookies” and “persistent cookies.” Democratic Underground uses cookies to deliver content specific to your interests, provide convenience features and for other purposes.
@@ -66,7 +68,7 @@ Democratic Underground users may request that their personal information be dele
 
 **Changes to this Privacy Policy**
 
-Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on December 13, 2008.
+Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on April 9, 2009.
 
 **Contact Information**
 
