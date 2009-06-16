@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613044138id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616041325id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
-# Yahoo! Privacy and Cookie Policy
-
-Yahoo! Privacy and Cookie Policy 
+# Yahoo! Privacy Centre
 
 Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy and cookie policy.  
 | [](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101)  
@@ -14,6 +12,7 @@ What this Privacy and Cookie Policy Covers
   * The policy also gives information about cookies; Yahoo! and third parties' use of cookies; and how you may disable such cookies. 
   * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. 
   * This privacy policy incorporates, where applicable, any additional guidance about our privacy practices relating to particular products or services that can be found under the section "More about Yahoo! Privacy" on the top left of this page. 
+  * Yahoo!” means Yahoo! SARL (based in Switzerland), except where the relevant service is provided by another Yahoo! group company, in which case references to Yahoo! shall, in respect of those services, be references to that Yahoo! Group company.
   * Find out more information about Yahoo! [data storage](http://privacy.yahoo.com/privacy/uk/archives/details.html) and [data transfer ](http://privacy.yahoo.com/privacy/uk/access/details.html) .
 
 
@@ -25,7 +24,7 @@ General
   * Yahoo! collects personally identifying information when you register for a Yahoo! account, when you use certain Yahoo! products or services, when you enter promotions or sweepstakes and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. 
   * When you register with Yahoo!, we ask for your name, email address, birth date, gender, post code, occupation, industry, and personal interests. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
   * Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://info.yahoo.com/privacy/uk/yahoo/ip), Yahoo! [cookie](http://info.yahoo.com/privacy/uk/yahoo/cookies) information and the page you requested. 
-  * Yahoo! uses information for the following general purposes: to personalise the advertising and content you see, based on the details given by you at registration and your activity at Yahoo!, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+  * Yahoo! uses information for the following general purposes: to personalise the advertising and content you see, based on the details given by you at registration and your activity at Yahoo!, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. You agree that Yahoo! may transfer your personally identifying information for the general purposes set out above to any Yahoo! group company worldwide.
 
 Should you not wish to receive personalised advertisements while on the Yahoo network and/or on the Yahoo distribution network through which we distribute ads, you may need to disable cookies and/or opt out of off-network targeting. Please see section on Cookies below for more information. Please note, it is not possible to disable the cookie which is associated with your Yahoo account therefore, if you choose to log-in you may still see personalised ads. 
 
@@ -37,7 +36,9 @@ Information Sharing and Disclosure
   * Yahoo! will not sell or rent your personally identifiable information to anyone. 
   * Yahoo! may send personally identifiable information about you to other companies or people when: 
     * We have your consent to share the information; 
+    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information.
     * We need to share your information to provide the product or service you have requested; 
+    * This is within the Yahoo! group, for the purposes described under “Information Collection&Use” above (for example, various companies in the Yahoo! group are responsible for storing and processing your information in order to deliver content to you);
     * We need to assist merchants on Yahoo! Shopping/Kelkoo to track visits to and business at their stores; 
     * We need to send the information to companies who work on behalf of Yahoo! to provide a product or service to you; (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); or 
     * We respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which we must comply. 
@@ -90,6 +91,6 @@ Changes to this Privacy Policy
 Questions or Suggestions
 
   * If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
-  * [Yahoo! is TRUSTe-certified.](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101) This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [ TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. 
+  * [Yahoo! is TRUSTe-certified.](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101) This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [ TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organisation 
 
 
