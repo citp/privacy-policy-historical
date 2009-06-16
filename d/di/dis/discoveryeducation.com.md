@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061647id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617011537id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Discovery Education Privacy Policy
 
