@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023401id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190212id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # All Property Management - Your Guide to Property Management Companies
 
@@ -125,14 +125,16 @@ All Property Management, LLC tries to provide content that is true and accurate 
 
 The information at allpropertymanagement.com does not in any way constitute legal or professional advice and is not intended to take the place of either the written law or regulations. All Property Management, LLC, its owners, directors and other representatives cannot be held liable for actions and will not be liable for damages or losses arising from the use of such information.
 
+All Property Management does not advocate or endorse the engagement or use of any particular property management company. Selection and arrangements with any given company are the responsibility of the service user.
+
 All Property Management, LLC  
 104 Riverside Avenue  
 Winthrop, WA 98862
 
 **Privacy Policy Effective date - 6.10.2008**
 
-Copyright © 2004-2007, [All Property Management](http://www.allpropertymanagement.com/ "AllPropertyMangement.com Home Page"), LLC, All Rights Reserved.  
-[Terms of Service/Privacy/Disclaimer](http://www.allpropertymanagement.com/terms/ "Terms of Service/Privacy/Disclaimer"). 
+Copyright © 2004-2009, [All Property Management](http://www.allpropertymanagement.com/ "AllPropertyMangement.com Home Page"), LLC, All Rights Reserved.  
+[Terms of Service/Privacy/Disclaimer](http://www.allpropertymanagement.com/terms/ "Terms of Service/Privacy/Disclaimer").  [](http://www.truste.org/ivalidate.php?url=www.allpropertymanagement.com&sealid=101 "AllPropertyMangement.com TRUSTe Verification")
 
   
 
