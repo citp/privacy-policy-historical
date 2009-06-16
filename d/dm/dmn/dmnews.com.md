@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmnews.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062246id_/http%3A//www.dmnews.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmnews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170224id_/http%3A//www.dmnews.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - DMNews
 
