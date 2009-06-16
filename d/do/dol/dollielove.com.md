@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the dollielove.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115357id_/http%3A//www.dollielove.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollielove.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616114102id_/http%3A//www.dollielove.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Myspace Layouts, Skinny Layouts, Myspace Contact Buttons, Myspace Scroll Boxes
+# 
 
-  
+[](http://www.addthis.com/bookmark.php)
+
 **Dollielove.com Privacy Policy**   
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -13,6 +14,8 @@ We do not collect any information about our visitor's email or referring domain.
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site. 
 
 With respect to cookies: We do not set any cookies. However, third parties may be placing and reading cookies on browsers, or using web beacons to collect information, in the course of ads being served on Dollielove.com. 
+
+Google, as a third party vendor, uses cookies to serve ads on Dollielove.com. Google's use of the DART cookie enables it to serve ads to you based on your visit to Dollielove.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some some features and services may not function properly if your cookies are disabled. 
 
