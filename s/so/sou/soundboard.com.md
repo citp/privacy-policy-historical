@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005035233id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Soundboard.com
+
+**site** highlights
+
+**board** categories
+
+**build** your **own** board
+
+Create your own playlist...free  
+Now you can build your very own soundboard - you don't even need audio! Create, customize and manage your own soundboard using our simple tools - no HTML or Flash skills needed and it's 100% free. 
+
+Take advantage of millions of soundboard.com visitors. [Open your free account](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/register.aspx), start building right now. Be heard! Or we can [build a sound board](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/building-service.aspx) for you!  
+[**Learn More »**](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/about.aspx)     [ **Start Now »**](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/register.aspx)
+
+[](https://web.archive.org/web/20090616171633id_/http%3A//www.soundboard.com/feeds/mostvoted.xml) **top** vote **getters**
+
+[](http://www.facebook.com/pages/Soundboardcom/7065163506)  
+[](http://www.twitter.com/soundboards) | 
 
   
 Privacy Policy 
@@ -12,16 +29,3 @@ We collect a lot of information in order to try to make your experience better.�
 Other things we track are click paths in order to try to make our site more efficient.  We also use cookies at times and sections of this site will not work if you have cookies disabled.
 
 This site does not review everything immediately and the material is posted by third parties, so we cannot guarantee that any soundboard is acceptable for a child 13 years or under.  However we do endeavor to make the site acceptable to 13 year olds. 
-
-| 
-
-Become a Facebook Fan
-
-[Soundboard on Facebook](http://www.new.facebook.com/pages/Soundboardcom/7065163506)  
-Become a Soundboard.com fan on Facebook and get the latest info and updates. Plus be the first to use our new Facebook app, currently in testing, which lets you add any soundboard to your profile. 
-
-Categories
-
-[](https://web.archive.org/web/20081005035233id_/http%3A//www.soundboard.com/feeds/mostvoted.xml) Vote For It! 
-
-Vote for any board by clicking the 'Vote' icon - no registration required.
