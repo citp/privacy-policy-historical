@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162447id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616110002id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy: Gardener's Supply
 
@@ -13,7 +13,7 @@ Gardener’s Supply strives to provide our customers with quality goods and exce
 
 ## What information do we gather?
 
-When you order from gardeners.com, we collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), products purchased, any relevant promotion code and information (gift certificate redemption code, for example) and, if relevant, the recipient's name, address and telephone number. Information you enter is collected even if you cancel or do not complete an order. 
+When you order from gardeners.com, we collect the following information: your name, telephone number, e-mail address, billing information (credit card number, expiration date and billing address), products purchased, any relevant promotion code and information (gift certificate redemption code, for example) and, if relevant, the recipient's name, address and telephone number. Information you enter is collected even if you cancel or do not complete an order. 
 
 ## How do we use "cookies"?
 
@@ -38,9 +38,9 @@ Gardener's Supply Company has contracted with Demandware Inc. ("Demandware"), to
 ##   
 How do we use the information we collect about you?
 
-We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from Gardener’s Supply. In addition, we periodically make such information, including aggregated information, available to selected third parties.
+We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from Gardener’s Supply. Gardener's Supply shares its customer information with its vendor partners and with members of the America's Gardening Resource (AGR) family of wholly-owned affiliates, including Dutch Gardens and Flower Power Fundraising. When you subscribe to Gardener's Supply e-mail, you may also receive occasional e-mails from other members of the AGR family of wholly-owned affiliates. In addition, we periodically make such information, including aggregated information, available to selected third parties.
 
- Gardener’s Supply uses an e-mail service provider to send targeted promotional e-mails and our Gardener’s News e-mail newsletter to our subscriber list. We share with our provider usage information about visitors to our site who have received these e-mails. This service provider does not sell this information. This information is used to help deliver and target future e-mail campaigns and upgrade visitor information used in reporting statistics. To collect usage information, we note some of the pages you visit on our web site through pixel tags (also called clear gifs). The information collected through the use of these pixel tags is personally identifiable. For more information about our third-party advertising company, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&). If you would like to be removed from our e-mail list, please follow the instructions at the bottom of each promotional e-mail, or just [Email Us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b) with your request. 
+Gardener’s Supply uses an e-mail service provider to send targeted promotional e-mails and our Gardener’s News e-mail newsletter to our subscriber list. We share with our provider usage information about visitors to our site who have received these e-mails. This service provider does not sell this information. This information is used to help deliver and target future e-mail campaigns and upgrade visitor information used in reporting statistics. To collect usage information, we note some of the pages you visit on our web site through pixel tags (also called clear gifs). The information collected through the use of these pixel tags is personally identifiable. For more information about our third-party advertising company, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&). If you would like to be removed from our e-mail list, please follow the instructions at the bottom of each promotional e-mail, or just [e-mail us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b) with your request. 
 
 Gardener’s Supply Company does not sell, trade or rent your e-mail address. We occasionally send offers to our customers on behalf of other trusted businesses, but we do not give those businesses your personal information. 
 
@@ -48,13 +48,9 @@ In the event of a merger, consolidation, or sale or transfer of all or substanti
 
 We may disclose any information you provide to Gardener’s Supply when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site; or (iii) to protect the rights or property of Gardener’s Supply Company, its users, Sponsors, Providers, Licensors, or Merchants. 
 
-## AOL Certified Merchant
-
-As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, just [Email Us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b) or call us at 1-888-235-6739. 
-
 ## Links
 
-Gardener’s Supply wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. 
+Gardener’s Supply wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other website. 
 
 ## Your Security
 
@@ -69,4 +65,4 @@ Subject to the above provisions, by using our web site, you consent to the colle
 ##   
 Your Comments
 
-We welcome feedback concerning this Privacy Policy and Security Statement. To send your comments and questions just [Email Us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b).
+We welcome feedback concerning this Privacy Policy and Security Statement. To send your comments and questions just [e-mail us](http://www.gardeners.com/on/demandware.store/Sites-Gardeners-Site/default/Link-Contactus?a=b).
