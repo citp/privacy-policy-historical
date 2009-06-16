@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koinup.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011037id_/http%3A//www.koinup.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koinup.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616165847id_/http%3A//www.koinup.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Koinup
 
@@ -40,16 +40,13 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
-##  Third-party Advertisers, Links to Other Sites 
+## Advertising on Koinup
 
-Koinup allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Koinup Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Koinup Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.   
-Koinup does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Koinup to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Koinup Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.   
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Koinup's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-Currently, Koinup has relationships with the following third-party ad servers or ad networks:
-
-  * Google, Inc.  
-<http://www.google.com/privacypolicy.html>
+  * Koinup strives to provide you with relevant and useful advertising and we use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx), as well as other third party ad serving systems, to do so. We may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Koinup Account, we may also show you advertising based on the information you have provided to us in your Koinup Account.
+  * We use the [DoubleClick cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on Koinup to help advertisers and publishers serve and manage ads on this site and other Google and AdSense partner websites. Advertisers may serve ads based on interests associated with non-personally identifiable online activity, such as videos viewed, frequency of uploading or activity on other AdSense partner sites. Advertisers may also serve ads to you based on previous activity on that advertiser's website. This non-personally identifiable information is held separately from your Koinup Account data, or other personally identifying information in our possession.
+  * You may view, edit and add to the categories used to provide you with interest-based advertising in the [Ads Preferences Manager](http://www.google.com/ads/preferences?hl=en-US) for the DoubleClick cookie. Your ads preferences will be respected across Koinup, AdSense partner sites and Google sites using the DoubleClick cookie to serve such ads. For more information about interest-based advertising and the Ads Preference Manager [see FAQ](http://www.google.com/privacy_faq.html).
+  * You also may choose to [opt out of the DoubleClick cookie](http://optout.doubleclick.com/cgi-bin/optoutgoogle.pl) at any time. If you select the DoubleClick opt-out cookie, ads delivered to your browser by our ad-serving technology will not be served based on the DoubleClick cookie. Find more information [here](http://www.google.com/privacy_faq.html) about opting out of the DoubleClick cookie.
+  * Other third-party ad serving companies or networks may display ads on Koinup. Koinup does not provide any personal information to these third-party ad servers or ad networks without your consent. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. Koinup's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with Koinup is maintained and dealt with by Koinup in accordance with this privacy policy. 
 
 
 
@@ -85,3 +82,5 @@ Koinup uses commercially reasonable physical, managerial, and technical safeguar
 If Koinup learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Koinup may post a notice on the Koinup Sites if a security breach occurs. 
 
 We reserve the right to change this Privacy Policy when it will be necessary. Take care to check periodically this Privacy Policy to see if any updates will be featured. 
+
+Last modified: March 13, 2009 
