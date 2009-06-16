@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-football-online.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125340id_/http%3A//watch-football-online.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-football-online.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616230742id_/http%3A//www.watch-football-online.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # online-soccer.tv - Watch Live Soccer directly on your PC
 
@@ -57,4 +57,4 @@ This Site is not directed to children under 18. If a parent or guardian becomes 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20081217125340id_/http%3A//watch-football-online.co.uk/support.asp)
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20090616230742id_/http%3A//www.watch-football-online.co.uk/support.asp)
