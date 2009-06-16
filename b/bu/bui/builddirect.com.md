@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114611id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201330id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BuildDirect - Privacy Policy
 
@@ -111,6 +111,10 @@ Like most other commercial websites, our website may monitor traffic patterns, s
 
 **Cookies**   
 We are committed to providing personalized products and services to you. In order to do so, BuildDirect uses cookies to store information about your web site visit. A cookie is a small amount of text that is sent to your browser from a web server and stored on your computer's hard drive. We ask permission to place the cookie on your computer's hard drive. If you agree by configuring your browser to accept cookies, then your browser adds the text in a small file. 
+
+**Fetchback Retargeted Ads**
+
+We work with Fetchback to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect non-personally identifiable information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected during this process. To read Fetchback’s privacy policy,[ click here](http://www.fetchback.com/privacy.html). If you do not want Fetchback to collect this information, you may opt out of their service. Opting out will not effect your use of our site. To opt-out of Fetchback Retargeting, please [click here](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives opt-out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **IS YOUR PERSONAL INFORMATION SECURE?**
 
