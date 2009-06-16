@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035158id_/http%3A//oss.dos.state.fl.us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbiz.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175804id_/http%3A//oss.dos.state.fl.us/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy » Florida Department of State
 
