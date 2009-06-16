@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025548id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616203924id_/http%3A//www.spss.com/privacy.htm%3Fsource%3Dhomepage%26hpzone%3Dfooter) for the most accurate reproduction.*
 
 # SPSS Inc. - Privacy Policy
 
@@ -49,7 +49,7 @@ As described under #1 above, SPSS sends electronic newsletters to Web registrant
 You can opt out of all unsolicited electronic correspondence in any of three ways:
 
   1. You can follow the instructions embedded in the particular types of correspondence you have received that indicate how to opt out of receiving unsolicited correspondence in the future; some types of correspondence we send will allow you to specify whether you wish to opt out of that particular type of message or all unsolicited messages from SPSS;
-  2. You can register at the SPSS Web site (see question #3 above) and deselect the checkbox item for "e-mail" under "Communication Methods"; or
+  2. You can visit the [communication preferences](https://web.archive.org/opt/optprefs.cfm) section of this web site and opt-out of receiving unsolicited correspondence.
   3. You can send an e-mail note with your opt-out request to [dbupdate@spss.com](mailto:dbupdate@spss.com) or a letter to DB Update, SPSS Inc., 233 South Wacker Drive, 11th Floor, Chicago, IL, 60606, USA; when contacting us in this way, please be sure to specify which e-mail addresses you wish to be removed from our mailing list.
 
 
@@ -61,7 +61,7 @@ Regardless of whether you have opted out of receiving unsolicited electronic cor
 **SPSS takes a variety of measures to secure your information from unwarranted access and accidental loss.**
 
 
-SPSS takes reasonable industry-standard measures to ensure that information you provide to us is protected from corruption and from unlawful access, including training employees to follow this Privacy Policy and taking appropriate disciplinary measures if employees fail to follow this Privacy Policy. In addition to Secure Socket Layer (SSL) technology, SPSS uses intrusion-detection technologies as well as data encryption technologies that help to render your information inaccessible to anyone but the SPSS employees directly involved in the activities described above.
+SPSS takes reasonable precautions based on industry standards and best practices to protect the information that you provide to us from corruption, unlawful access and accidental loss. We employ a number of technical safeguards to protect the transmission, processing and storage of your information including the deployment of network access controls, message and file encryption, and logging technologies. We also implement operational safeguards to ensure that your information is handled or viewed only by SPSS-authorized personnel directly involved in the activities described above, including training personnel to follow SPSS' Information Protection Policy and taking appropriate disciplinary measures if they fail to do so.
 
 ## 6\. How will I know if the SPSS Privacy Policy changes?
 
