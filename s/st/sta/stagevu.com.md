@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagevu.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064527id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagevu.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617002157id_/http%3A//stagevu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stagevu: Your View
 
@@ -31,7 +31,7 @@ The following information is optional:
 
 These pieces of optional information will only be displayed on your **profile page ([sample](http://stagevu.com/user/phsource))**.
 
-Stagevu also runs **3rd-party advertisements** and **statistics software**. The information collected by these programs may include your IP address and various other non-personal information such as the city of your Internet Service Provider. This information will not be used to identify you personally.
+Stagevu also runs **3rd-party advertisements** and **statistics software**. The information collected by these programs may include your IP address and various other non-personal information such as the city of your Internet Service Provider. In addition, your response to certain advertisements (e.g. by clicking on them) may cause the advertiser to profile you in a certain demographic. Rest assured that no personally-identifying information will be given to thrid-party ad servers.
 
 If you decide to to contact us, your email and name will remain confidential and be used solely for communicating with you regarding the subject of the contact.
 
