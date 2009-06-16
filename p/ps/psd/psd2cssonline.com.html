@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psd2cssonline.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216135412id_/http%3A//psd2cssonline.com/node/13) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psd2cssonline.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616152001id_/http%3A//www.psd2cssonline.com/node/13) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -214,6 +214,7 @@ body{
  * further customization are included in comments.  */
 /* a:link { color: #CCF; }
 a:visited { color: #CCF; } */
+a { cursor: pointer; }
 a:link { color: #a0a0ae; }
 a:visited { color: #a0a0ae; }
 a:hover {
@@ -223,10 +224,27 @@ a:hover {
   /* font-weight: bold; */
 }
 
+
 .form-item label {
   color: #CCF;
 }
 
+#ohoh {
+    padding: 5px;
+    color: #000;
+    background-color: #F88;
+    width: 600px;
+}
+#ohoh a:link { color: #666; }
+#ohoh a:visited { color: #666; }
+#ohoh a:hover { color: #666; text-decoration: underline; }
+.finished a:link{ color: #CCC; }
+.finished a:visited{ color: #CCC; }
+.finished a:hover{ color: #FFF; }
+.finished { 
+    color: #CCC; 
+    font-weight: bold;
+}
 
 -->
 </style>
@@ -240,6 +258,11 @@ Get more information and documentation at http://jquery.com -->
 //<!--
 var timerId;
 $(document).ready(function(){
+
+  var tmpalt;
+  $("img").hover( 
+    function(){ tmpalt = $(this).attr( "alt" ); $(this).attr( "alt", "" ); },
+	function(){ $(this).attr( "alt", tmpalt ); });
 
   $("img[@src$=png]").pngfix();
 
@@ -275,7 +298,7 @@ $(document).ready(function(){
 
   <!-- This is 'b_jpg' -->
   <div id="Layer-2">
-    <img src="/themes/dblue1/Layer-2.jpg" alt="b_jpg">
+    <img src="/themes/dblue1/Layer-2.jpg" alt="">
 
     <!-- This is 'Dynamic Web Pages from your Ph' -->
     <div id="Layer-17">
@@ -293,16 +316,12 @@ $(document).ready(function(){
     <!-- This is 'app' -->
     <div id="Layer-15">
       <!-- <img src="/themes/dblue1/Layer-15.png" alt="app" /> -->
-	  
+      
 <style type="text/css"> 
 <!--
 
 #loading { 
-  color: #FFF;
-  display: none; 
-}
-#loadingIE7 { 
-  color: #FFF;
+  color: #DDD;
   display: none; 
 }
 
@@ -313,61 +332,47 @@ $(document).ready(function(){
 </style>
 
 <script type="text/javascript">
+
+function ShowLoadingIcon()
+{
+  document.getElementById('loading').style.display = 'inline';
+  document.getElementById('submit').style.display = 'none';
+}
+
 function ShowLoadingSubmit( f )
 {
-	var thisext = f.uploadedfile.value.substr( f.uploadedfile.value.lastIndexOf( '.' ) );
-	if( thisext.toLowerCase() != '.psd' )
-	{
-		alert( "Oops! - you must upload a PSD file - it will have the .psd extension" );
-		return false;
-	}
+  var thisext = f.uploadedfile.value.substr( f.uploadedfile.value.lastIndexOf( '.' ) );
+  if( thisext.toLowerCase() != '.psd' )
+  {
+    alert( "Oops! - you must upload a PSD file - it will have the .psd extension" );
+    return false;
+  }
 
-	if( navigator.appName == "Microsoft Internet Explorer" )
-		document.getElementById('loadingIE7').style.display = 'inline';
-	else
-		document.getElementById('loading').style.display = 'inline';
-	document.getElementById('submit').style.display = 'none';
-	return true;
+  setTimeout( ShowLoadingIcon, 200 );
+
+  return true;
 }
 </script>
 
-<form enctype="multipart/form-data" action="" method="post" onsubmit="return ShowLoadingSubmit( this )">
-<input type="hidden" name="MAX_FILE_SIZE" value="8388608">
+<form id="appForm" enctype="multipart/form-data" action="http://ec2-75-101-227-98.compute-1.amazonaws.com/app/app.php" method="post" onsubmit="return ShowLoadingSubmit( this )">
+  <input type="hidden" name="MAX_FILE_SIZE" value="4194304">
+  <input type="hidden" name="timestamp" value="1245165600">
+  <input type="hidden" name="session" value="41c27b385b7cfe6800c466b2b3f574c8">
+  <input type="hidden" name="user" value="0">
 
-<div class="upload">
-<input name="uploadedfile" type="file"><br>
-<!-- <p style="color:#FFF">We're sorry, but we are currently undergoing some quick maintainance.<br />  Be back in a few minutes...</p> -->
-<div id="submit">
-	<input type="submit" name="submit" value="Upload File">
-</div>
-<div id="loading">
-	<p>&nbsp;</p>
-	<p><img src="/files/loading.gif"> Please wait - we are now uploading and 
-	converting your file...</p>
-	<p>&nbsp;</p>
-</div>
-<div id="loadingIE7">
-	<p>&nbsp;</p>
-	<p>Please wait - we are now uploading and converting your file...</p>
-	<p>&nbsp;</p>
-</div>
-</div>
+  <div class="upload">
+    <input name="uploadedfile" type="file"><br>
+    <div id="submit">
+      <input type="submit" name="submit" value="Upload File">
+    </div>
+    <div id="loading">
+      <p>&nbsp;</p>
+      <p><img src="/files/loading.gif"> Please wait - we are now uploading and 
+      converting your file...</p>
+      <p>&nbsp;</p>
+    </div>
+  </div>
 </form>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<!--
-<div id="floatr"><img src="/images/FlowSmall.png"></div>
-<p>psd2css Online is Software as a Service that converts your fantastic,
-creative, artistic, no holds barred web page designs into dynamic XHTML and CSS
-web pages automatically.  Use Photoshop or The Gimp to express yourself and
-create the most professional, aesthetically perfect, dynamic and functional
-designs you can think of.  CSS stands for Cascading Style Sheets and is
-technically the best way to build your web pages.</p>
-
-<p>Upload your Photoshop design, download your HTML file and images.  It's that simple.</p>
--->
 
 
 
@@ -511,13 +516,22 @@ Consumers can have this information corrected by sending us e-mail at the above 
  </div>
   <div class="block block-block" id="block-block-2">
     <h2 class="title">Blogroll</h2>
-    <div class="content"><p><a href="http://crunchies2008.techcrunch.com/nominations/?nominee=psd2cssonline.com&amp;category=2"><img src="http://crunchies2008.techcrunch.com/wp-content/themes/crunchies/images/badges/2.png"></a><br>
-<br></p>
+    <div class="content"><p><!--<br />
 <h3>Partners</h3>
-<p><a href="http://psdspace.com">PSDSpace.com</a></p>
+<p><a href="http://psdspace.com">PSDSpace.com</a> --></p>
 <h3>Friends</h3>
-<p><a href="http://www.sociosophy.com/blog/" target="_blank">Sociosophy</a><br>
+<p><a href="http://www.livetotry.com/2009/05/16/psd-to-drupal-high-design-in-seconds/" target="_blank">Live To Try</a><br>
+<a href="http://www.cssjuice.com/css-tools-to-make-design-easier/" target="_blank">CSS Juice</a><br>
+<a href="http://www.developerfox.com/top-5-css-tools-that-designers-should-add-to-their-arsenal/1164" target="_blank">Developer Fox</a><br>
+<a href="http://www.layoutspack.com/" target="_blank"> Web Templates Packages at Layouts Pack</a><br>
+<a href="http://www.cssdrive.com/index.php/news/item/psd2css_online/" target="_blank">CSSDrive</a><br>
+<a href="http://www.tripwiremagazine.com/Tutorials/Photoshop-Tutorials/20-psd-to-html-tutorials-35-conversion-services.html" target="_blank">Tripwire Magazine</a><br>
+<a href="http://cssorgy.com/10-great-tools-for-working-with-html-css-750" target="_blank">CSSOrgy</a><br>
+<a href="http://nemelazim.net/2009/01/25/photoshop-veya-gimpten-csse/" target="_blank">Nemelazim.net</a><br>
+<a href="http://gbdesigninc.com" target="_blank">GBDesignInc.com</a><br>
+<a href="http://www.sociosophy.com/blog/" target="_blank">Sociosophy</a><br>
 <a href="http://www.startupsd.net/" target="_blank">StartupSD</a><br>
+<a href="http://www.austin360.com/blogs/content/shared-gen/blogs/austin/digitalsavant/index.html" target="_blank">Omar Gallaga</a><br>
 <a href="http://www.smashingapps.com/2008/10/30/17-wonderful-free-tools-to-make-designers-lives-easier.html" target="_blank">Smashing Apps</a><br>
 <a href="http://www.smartcomputing.com/editorial/article.asp?article=articles%2f2008%2fs1908%2f13s08%2f13s08.asp&amp;articleid=49205&amp;guid=2EF125289D7F4B76AD9AAF312D57656C" target="_blank">Smart Computing</a><br>
 <a href="http://techforward.entrepreneur.com/2008/11/11/psd-to-css-conversion/" target="_blank">Tech Forward Entrepreneur.com</a><br>
@@ -571,7 +585,7 @@ google_color_text = "000000";
     <div class="content"><p></p><center>
 <p><font size="1">Need help or have a question?<br><a href="mailto:support@psd2cssonline.com">support@psd2cssonline.com</a>
 </font></p><p><font size="1">| <a href="/node/13">Privacy</a> | <a href="/node/14">Terms of Use</a> |
-</font></p><p><font size="1">copyright (c) 2008 <a href="http://newfind.net">Newfind.net, Inc.</a><br>Patent Pending</font></p></center><p></p>
+</font></p><p><font size="1">copyright (c) 2008, 2009 <a href="http://newfind.net">Newfind.net, Inc.</a><br>Patent Pending</font></p></center><p></p>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script><script type="text/javascript">
 _uacct = "UA-1445928-5";
