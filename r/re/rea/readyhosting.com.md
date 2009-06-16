@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615141804id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180050id_/http%3A//www.readyhosting.com/about/privacy.bml) for the most accurate reproduction.*
 
 # ReadyHosting's Privacy Policy
 
@@ -13,6 +13,8 @@
 |     [Civil Subpoena Policy](https://web.archive.org/legal/legal_subpoena.bml)  
 |     [Digital Millennium Copyright Act](https://web.archive.org/legal/legal_dmca.bml)  
 |     [Unavailability of Current Registrant Form](https://web.archive.org/legal/pdf/UnavailabilityofRegistrant_31.pdf)  
+|     [Web Site Development Agreement](https://web.archive.org/legal/legal_website_agree.bml)  
+|     [SEO Agreement](https://web.archive.org/legal/legal_seoagreement.bml)  
 |     [Affiliate Agreement](https://web.archive.org/affiliate/affiliateagreement.bml)  
 |     [Referral Program Agreement](https://web.archive.org/referral/referral_tos.bml)  
   
@@ -63,7 +65,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   13. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
   
 
-  14. **ReadyHosting's Commitment to Data Security.** Services and Web sites we sponsor have security measures in place to protect against the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+  14. **ReadyHosting's Commitment to Data Security.** Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts.
   
 
   15. **How to Access or Modify Your Information.** To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact ReadyHosting Support by phone or through our online support form.
@@ -109,5 +111,5 @@ Please note: ReadyHosting reserves the right to send e-mail communications relat
   20. **Revisions to This Policy.** ReadyHosting reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: October 2007   
+Revised: January 2020   
 
