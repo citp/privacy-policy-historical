@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907095606id_/http%3A//www.jawbone.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616111149id_/http%3A//us.jawbone.com/privacy.aspx) for the most accurate reproduction.*
 
 # The New Jawbone: The Best Bluetooth Headset Just Got Better
 
@@ -94,3 +94,5 @@ Should You have any questions or concerns regarding this Privacy Policy, please 
 
 **Privacy Policy Updates**  
 This Privacy Policy is subject to revision at any time in Our sole discretion. We will notify You of material changes to this Privacy Policy via the email address You provide Us, and will post on this Site any changes to this Privacy Policy. We do, however, recommend that you read this Privacy Policy each time you use our website in case you missed our notice of changes to the Privacy Policy. If You object to any such changes, You must cease using the Site immediately. Continued use of the Site following notice of any such changes shall indicate Your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+
+Sign up for new arrivals and early order advantage
