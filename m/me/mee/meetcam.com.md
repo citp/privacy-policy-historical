@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050701id_/http%3A//www.meetcam.com/docs.php%3Fp%3DPrivacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180520id_/http%3A//www.meetcam.com/docs.php%3Fp%3DPrivacy%2520Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy :: Docs
+# Privacy Policy
 
-#### Privacy Policy
-
-This privacy statement explains data collection and use practices of the [http://MeetCam.com](http://meetcam.com/) site (the "Site") owned by MeetCam.   
-By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+This privacy statement explains data collection and use practices of the [http://MeetCam.com](https://web.archive.org/) site (the "Site") owned by MeetCam.   
+By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
 Collecting Your Personal Information: We will collect personal information if you choose to register on the Site. The personal information we collect includes your email address, address and other personal information which you filled in Registration page. 
 
@@ -13,11 +11,10 @@ You are requested to create a user name to participate in MeetCam, which is the 
 
 The Site may collect certain anonymous information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. None of this information is personally-identifiable. This anonymous information is used to help improve the Site, analyze trends, and administer the Site. 
 
-Use of your Personal Information: The personal information MeetCam collects will be used to provide the service(s) or carry out the transaction(s) you have requested or authorized. This may include using the personal information to
+Use of your Personal Information: The personal information MeetCam collects will be used to provide the service(s) or carry out the transaction(s) you have requested or authorized. This may include using the personal information to 
 
-  
--To understand feature requirements for our services.   
--To send updates about our services.
+\- Understand feature requirements for our services.  
+\- Send updates about our services. 
 
 MeetCam may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served to MeetCam, or the Site; (b) protect and defend the rights or property of MeetCam and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of MeetCam employees, users of MeetCam products or services, or members of the public. 
 
@@ -41,5 +38,4 @@ Links to Other Web Sites: This Site may contain links to other Web sites. Please
 
 Changes to This Privacy Statement: We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-Contact Information: MeetCam welcomes your comments regarding this privacy statement. If you believe that MeetCam has not adhered to this privacy statement, please contact us by e-mail at [help@MeetCam.com](mailto:help@MeetCam.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
-
+Contact Information: MeetCam welcomes your comments regarding this privacy statement. If you believe that MeetCam has not adhered to this privacy statement, please contact us by e-mail at [help@MeetCam.com](mailto:help@MeetCam.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
