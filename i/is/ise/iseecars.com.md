@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216123149id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616131052id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Search used cars for sale - iSeeCars
 
