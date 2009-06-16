@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233144id_/http%3A//www.lookery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180454id_/http%3A//www.lookery.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Lookery
 
+## Privacy at Lookery
+
 **Lookery’s Privacy Policy**  
-**Last updated October 08, 2007**
+**Last updated May 12, 2009**
 
-**Lookery, LLC** (“Lookery”) is a provider of targeted marketing technology and services to websites and online marketers, and considers the protection of your privacy to be of paramount importance. We operate demographic marketing services both on and more recently off Facebook. This Privacy Policy was prepared to describe how we use and collect consumer data in providing these services.
-
-Lookery as a technology provider
+**Lookery, Inc** (“Lookery”) is a provider of targeted marketing technology and services to websites and online marketers, and considers the protection of your privacy to be of paramount importance. We operate demographic marketing services both on and more recently off Facebook. This Privacy Policy was prepared to describe how we use and collect consumer data in providing these services.
 
 Lookery helps websites collect consumer demographics and target advertisements on their websites or groups of websites. The information Lookery processes on such websites’ behalf belongs to those websites and is not further used by Lookery.
-
-Lookery as an advertising network - Lookery is a collection of websites that have joined in an effort to improve ad delivery while maintaining stringent standards on the usage of user data. The network matches ads to visitors’ anonymous demographic profiles; however, Lookery does not own or share any visitor data.
-
-Data Collection and Usage
 
 **Personal Information (Not collected)**
 
@@ -27,19 +23,11 @@ When you are on one of the websites (using Lookery products and services), the w
 
 **Registration Data**
 
-Some of the websites collect additional information about you through registration, for activities such as access to premium content, entering sweepstakes, or for fulfilling offers like email newsletter subscriptions. This information sometimes includes personal information such as your address or phone number which we never collect, and non-personal demographic information such as age, gender and zip code, which is the basis of our sytem. To refine the targeting of ads that are most appropriate for you, Lookery may access the non-personal information that may have been collected in a registration environment. Personal information such as name, address and phone number is never accessed.
+Some of the websites collect additional information about you through registration, for activities such as access to premium content, entering sweepstakes, or for fulfilling offers like email newsletter subscriptions. This information sometimes includes personal information such as your address or phone number which we never collect, and non-personal demographic information such as birth year, gender and metropolitan region, which is the basis of our system. Lookery may access the non-personal information that may have been collected in a registration environment. Personal information such as name, postal address, email address, and phone number is never accessed.
 
 **Customer Information**
 
 Prospective customers (websites and online marketers) can go to the www.Lookery.com site and provide their contact information to find out more and to be contacted by a Lookery representative. Lookery or its service providers reserve the right to use this information for business purposes such as marketing and research. Lookery and its service providers are prohibited from using this information for other purposes or from sharing this information with other companies. This information is not used for purposes other than responding to the request.
-
-**Temporary Use and Disbursement of Non-Personal Information**
-
-In order to serve visitors appropriate ads, Lookery will temporarily assemble non-personal, demographic, behavioral and technical information to create very large audience segments. These segments represent data that has been aggregated into large anonymous groupings. After the ad or ads have been served, only aggregate segment level data is retained by Lookery.
-
-Lookery does not provide any personal information to marketers when you interact with or view a targeted ad.
-
-To make certain that ads served by Lookery are targeted correctly, partner websites in the network place Lookery data tags on their sites. These tags are not personally identifiable nor do they collect personal information. They are used to match visitor-browsing behavior to a segment profile designated for targeting ads to visitors.
 
 **Cookies**
 
@@ -47,7 +35,7 @@ Nearly all websites, including those using Lookery services, use a feature of yo
 
 You are always free to decline cookies, but by doing so you may not be able to use certain features on the websites or take full advantage of all the website offerings and targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the ”Help” menu of your browser to learn how to change your cookie preferences.)
 
-Alternatively, shortly you will be able to click here to opt-out of data collection and targeting cookies from Lookery. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
+You can click here to opt-out of data collection and targeting cookies from Lookery. Be advised that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
 
 **Disclosure of Information**
 
@@ -65,13 +53,11 @@ As we continue to develop our business, we or our affiliates may sell or buy oth
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places where we believe you will see it, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page and/or blog. This notification regarding the blanket right to change the policy is effectively a US legal requirement and not one that we can safely tone down.  
-**  
-Opt-out of Lookery’s network**
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page and/or blog. This notification regarding the blanket right to change the policy is effectively a US legal requirement and not one that we can safely tone down.
 
-Darn it, we’re too early to make this work right yet. It’ll happen in weeks, not in days or months.
+**Opt-out of Lookery’s network**
 
-To learn more about Lookery’s advertising, click here for Frequently Asked Questions.
+Opt out functionality is coming soon
 
 To contact us with your questions, concerns, or suggestions, please email our [privacy@lookery.com](mailto:privacy@lookery.com).
 
