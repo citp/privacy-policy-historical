@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runwayhandbags.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163839id_/http%3A//www.runwayhandbags.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runwayhandbags.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132716id_/http%3A//www.runwayhandbags.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Runwayhandbags.net
+# Privacy - LV Louis Vuitton Replica Handbags, Designer Handbags, Replica Handbags
 
 RunwayHandbags.net has posted this privacy statement in order to demonstrate its firm commitment to privacy. Also, we agree to disclose our information and practices and notify you of:
 
@@ -25,3 +25,5 @@ We take every precaution to protect our users’ information. When you submit se
 When our registration form asks you to enter sensitive information such as credit card info, that information is encrypted and protected with state of the art encryption software, Secure Socket Layers (SSLs). While on a secure page, such as your order form and during the checkout process, a lock icon appears on the bottom of your web browser. When you are not on a secure page no lock icon will appear.
 
 While we use SSL encryption to protect sensitive information (like your credit card information) online, We also do everything in our power to protect our users information off-line. All of our users information and not just the information noted above is restricted in our offices. Only our employees who need the information to perform a specific job are granted access to some personally identifiable information as your shipping address for shipping purposes… All employees are fully informed about our security and privacy practices and updated as new policies are added or revised. Finally, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
+
+In essence, it's all safe and secure when you shop for quality [replica handbags](http://www.runwayhandbags.net/) from Runway Handbags. Whether you buy LV [Louis Vuitton Replica Handbags](http://www.runwayhandbags.net/lv.html) or Chanel Replicas or other authentic designer handbags; we keep your information and relevant details confidential.
