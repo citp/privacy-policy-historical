@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062015id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190153id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # BulkRegister - domain name, web site hosting, email, registration - PRIVACY POLICY
 
