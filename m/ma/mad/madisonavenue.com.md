@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madisonavenue.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055807id_/http%3A//www.madisonavenue.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonavenue.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174632id_/http%3A//www.madisonavenue.com/advertiserRegistration.do%3Faction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # MadisonAvenue.com | PRIVACY POLICY | Advanced Traffic Acquisition Platform
 
