@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054200id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063538id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # NYSED::Privacy Policy
 
@@ -193,7 +193,7 @@ The SED does not solicit information from children under the age of thirteen. If
 
 The Children's Online Privacy Protection Act of 1998 ("COPPA") imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the SED Website, the SED practices are consistent with its mandates. If you would like more information about COPPA, please visit the FTC's official COPPA page at:
 
-[http://www.coppa.org/](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm)
+<http://www.ftc.gov/bcp/conline/edcams/coppa/>
 
 ## SED CONTACT INFORMATION
 
