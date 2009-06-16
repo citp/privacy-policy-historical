@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100038id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616085859id_/http%3A//www.psychologicalscience.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Association for Psychological Science: About APS
 
