@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012036id_/http%3A//collagevideo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170146id_/http%3A//www.collagevideo.com/privacy.aspx) for the most accurate reproduction.*
 
 # Collage Video - Privacy Statement
 
@@ -36,4 +36,4 @@ You can call the following telephone number: 1-800-433-6769. Outside the US and 
 
 * * *
 
-©2007 Collage Video ● Exercise Video Specialists ● Fitness Videos and Workout Videos ● 1-800-433-6769/763-571-5840 ● [Collage@CollageVideo.com](mailto:collage@collagevideo.com) [Sitemap](https://web.archive.org/sitemap)
+©2009 Collage Video ● Exercise Video Specialists ● Fitness Videos and Workout Videos ● 1-800-819-7111/763-571-5840 ● [Collage@CollageVideo.com](mailto:collage@collagevideo.com) [Sitemap](https://web.archive.org/sitemap)
