@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054801id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e4s.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183938id_/http%3A//www.e4s.co.uk/docs/privacy.htm) for the most accurate reproduction.*
 
 # E4S privacy policy | Part-time Jobs, Summer Jobs, Christmas Jobs and other Temporary work
 
