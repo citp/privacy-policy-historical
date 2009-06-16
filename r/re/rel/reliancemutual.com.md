@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044406id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx%3FReportID%3DC70F72F6-296C-46FF-858D-4B6AAB3E832B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202958id_/http%3A//reliancemutual.com/PrivacyPolicy.aspx%3FReportID%3DC70F72F6-296C-46FF-858D-4B6AAB3E832B) for the most accurate reproduction.*
 
-# Reliance Mutual Fund
+# Reliance Mutual Fund - Privacy Policy
 
 |  Site Search:   
 ---  
@@ -52,4 +52,4 @@ Third Parties :
 For your convenience, this page may contain certain hyperlinks to other Reliance pages as well as to websites outside Reliance Mutual Fund. In addition, you may have linked to our website from another website. We are not responsible for the privacy policies and practices of other websites, even if you access them using links from our website. We make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by Reliance Mutual Fund. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions.
 
 Contacting us :  
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at [customer_care@reliancemutual.com ](mailto:customer_care@reliancemutual.com)
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at [mailto:customer_care@reliancemutual.com](mailto:customer_care@reliancemutual.com)
