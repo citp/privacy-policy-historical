@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgreleases.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155807id_/http%3A//www.vgreleases.com/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgreleases.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063255id_/http%3A//www.vgreleases.com/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # VGReleases.com : Privacy Statement
 
@@ -19,7 +19,7 @@ VGReleases.com does not reveal any personal information that users provide to us
 **Contests**  
 By entering VGReleases.com contests, users consent to the use of their name in the announcement of the winners on the VGReleases.com site and/or Newsletter, and use of their name and likeness for advertising and/or promotional and/or marketing purposes. Users' contact information may also be used by VGReleases.com to notify the user they have won and to confirm their mailing address. 
 
-**Advertising**  
-VGReleases.com may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. VGReleases.com may use cookies to help in tracking these patterns but does not store or collect an personal data in combination with user supplied information. 
+**Cookies and Advertising**  
+VGReleases.com may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. VGReleases.com may use cookies to help in tracking these patterns but does not store or collect any personal data in combination with user supplied information. Cookies are small text files that contain a string of alphanumeric characters. You can remove cookies by following directions provided in your Internet browser’s “help” file. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
 
-VGReleases.com uses additional third-party advertising companies to serve ads when you visit our Web site. You may determine the origin of a given advertisement from the URL. 
+VGReleases.com uses additional third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this Web site, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. [LINK TO NAI OPT-OUT at <http://www.networkadvertising.org/consumer/opt_out.asp>] 
