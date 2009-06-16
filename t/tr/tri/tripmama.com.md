@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105127id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192954id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
 
 # TripMama Privacy Policy
 
@@ -10,9 +10,9 @@
 top  
 |   
 ---  
-| Access to Personally Identifiable Information   
+| Access to Personally Identifiable Information  
 ---  
-If your personally identifiable information changes or if you no longer desire to use our website, you may correct, update, deactivate or delete the account by making the change on the Edit Profile page. You can also email our Customer Support at [feedback@tipmama.com](mailto:feedback@tipmama.com) or call us by telephone or postal mail at the contact information below. You should be aware that any personally identifiable information you submit in the online blogs and forums can be read, collected or used by other users of these forums and blogs and can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you chose to submit in these forums. To keep you informed about our latest services, we may notify you via email newsletter of any changes or new additions to our site. You may unsubscribe from our email newsletter by following the unsubscribe instructions in any email you receive from us. Other sites accessible through our web site have their own privacy policies and data collection practices. Please consult each site's privacy policy. TripMama.com is not responsible for the actions of third parties.  
+If your personally identifiable information changes or if you no longer desire to use our website, you may correct, update, deactivate or delete the account by making the change on the Edit Profile page. You can also email our Customer Support at [feedback@tripmama.com](mailto:feedback@tripmama.com) or call us by telephone or postal mail at the contact information below. You should be aware that any personally identifiable information you submit in the online blogs and forums can be read, collected or used by other users of these forums and blogs and can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you chose to submit in these forums. To keep you informed about our latest services, we may notify you via email newsletter of any changes or new additions to our site. You may unsubscribe from our email newsletter by following the unsubscribe instructions in any email you receive from us. Other sites accessible through our web site have their own privacy policies and data collection practices. Please consult each site's privacy policy. TripMama.com is not responsible for the actions of third parties.  
 top  
 |   
 ---  
