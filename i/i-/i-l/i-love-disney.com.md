@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021414id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616075124id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # I-Love-Disney.com Privacy Policy
 
@@ -41,3 +41,9 @@ Users of our site are always notified when their information is being collected 
 ## Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20090616075124id_/http%3A//i-love-disney.com/info/function.include)]: URL file-access is disabled in the server configuration in **/home/idiscom2/public_html/info/ibnav.php** on line **1**
+
+**Warning** : include(http://i-love-disney.com/ibot5.php) [[function.include](https://web.archive.org/web/20090616075124id_/http%3A//i-love-disney.com/info/function.include)]: failed to open stream: no suitable wrapper could be found in **/home/idiscom2/public_html/info/ibnav.php** on line **1**
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20090616075124id_/http%3A//i-love-disney.com/info/function.include)]: Failed opening 'http://i-love-disney.com/ibot5.php' for inclusion (include_path='.:') in **/home/idiscom2/public_html/info/ibnav.php** on line **1**
