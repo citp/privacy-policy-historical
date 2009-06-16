@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151523id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2list.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616082429id_/http%3A//web2list.com/privacy.php) for the most accurate reproduction.*
 
 # Web 2.0, Web 2.0 News, Web 2.0 Sites, Web 2.0 Lists
 
