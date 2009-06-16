@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123exp-biographies.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014718id_/http%3A//www.123explore.com/123privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123exp-biographies.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182907id_/http%3A//www.123explore.com/123privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 123explore!
 
@@ -27,6 +27,10 @@ If you register for or enroll in a program or service through our web site, resp
 **LINKS TO THIRD-PARTY WEB SITES**
 
 Through our web pages, you may connect to third parties' web sites via hyperlinks, and the connections may or may not be obvious. We are not responsible for the collection, use, maintenance, sharing, or disclosure of information by such third parties. We encourage our users to be aware of the varied privacy policies of web sites that they visit.
+
+**THIRD-PARTY ADVERTISING COMPANIES**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **CORRESPONDENCE**
 
