@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2008-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080707023259id_/http%3A//www.businessworld.in/content/view/2922/3002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181658id_/http%3A//www.businessworld.in/content/view/2922/3002) for the most accurate reproduction.*
 
 # Businessworld - Privacy Policy
 
