@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iras.gov.sg privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030352id_/http%3A//www.iras.gov.sg/irasHome/page.aspx%3Fid%3D716) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iras.gov.sg privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053735id_/http%3A//www.iras.gov.sg/irasHome/page.aspx%3Fid%3D716) for the most accurate reproduction.*
 
 # IRAS: Privacy Policy
 
