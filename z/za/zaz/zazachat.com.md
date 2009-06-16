@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163629id_/http%3A//zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616213719id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Live Chat Software, Live Support, ZaZaCHAT - Privacy policy
 
-|  | 
-
-**Individually Identifiable Information**  
+|  |  |  **Individually Identifiable Information**  
 ZaZa Network, Inc recognizes that the growth of online services, including Internet services, has created many privacy concerns, particularly for consumers.   
+| [ ](https://www.securitymetrics.com/site_certificate.adp?s=74%2e205%2e101%2e28&i=292265)  
+---|---  
+  
 These concerns focus on protecting "individually identifiable" information that an individual or customer reasonably expects to be kept private. As the term suggests, individually identifiable information is information that can be associated with a specific individual or entity, such as name, address, telephone number, e-mail address and/or information about online activities directly linked to them.   
 It is common practice and often a necessity for companies, governments or other organizations to collect individually identifiable information in order to conduct business and offer services. For example, a telecommunications provider may collect individually identifiable information in the course of billing and providing telephone service to a customer.   
 Some activities on the Internet follow very familiar patterns. Consumers signing up for an Internet access service are usually asked to provide information that is typical when the consumer orders a product or service. Similarly, business Web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements.   
@@ -19,14 +20,14 @@ Disclosure. ZaZa Network, Inc will not sell, trade or disclose to third parties 
 Collection and Use. ZaZa Network, Inc will collect and use individually identifiable information for billing purposes, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that ZaZa Network, Inc may use your individually identifiable information to market new services to you that we think will be of interest to you, but we will not disclose your individually identifiable information to third parties who want to market products to you. 
 
 Customer Choice. A customer may choose not to receive direct marketing communications from ZaZa Network, Inc in connection with ZaZa Network, Inc online services. Upon such choice, ZaZa Network, Inc (a) will not contact that customer directly with marketing messages about ZaZa Network, Inc online services, and (b) will not use individually identifiable information obtained from that customer's registration for use of an online service to contact that customer with marketing messages about any ZaZa Network, Inc products or services. A customer may choose not to receive such messages by e-mail, by mail or by telephone.   
-For information and instructions about how to make this choice please call 877-570-2328   
+For information and instructions about how to make this choice please call 866-567-9292   
 Individually identifiable information that a visitor volunteers at one of the ZaZa Network, Inc Web sites to order ZaZa Network, Inc services other than online services will be protected just as if the information had been provided under more traditional ways of ordering that service.   
 Collection of usage data. ZaZa Network, Inc servers automatically gather information about which sites customers visit on the Internet and which pages are visited within a ZaZa Network, Inc Web site. The company does not use that information except in the aggregate.   
 Security. ZaZa Network, Inc has implemented technology and security features and strict policy guidelines to safeguard the privacy of your individually identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.   
 E-mail Contents. The company will not read or disclose to third parties private e-mail communications that are transmitted using ZaZa Network, Inc services except as required to operate the service or as otherwise authorized by law.   
 Improper Conduct. ZaZa Network, Inc may use individually identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the customer agreement for that service.   
 Account Information. ZaZa Network, Inc honors requests from customers for account information, such as name, address, or billing information, and will correct any such information that is inaccurate. Customers may verify that appropriate corrections have been made.   
-Customer Concerns. If you are a consumer with concerns about the ZaZa Network, Inc online privacy policy or its implementation, you may contact us at 877-570-2328.   
+Customer Concerns. If you are a consumer with concerns about the ZaZa Network, Inc online privacy policy or its implementation, you may contact us at 866-567-9292.   
 Changes in Practices. ZaZa Network, Inc will keep this policy current and will inform you of any changes that we make. 
 
 **Additional Privacy Protections for Children Using the Internet**  
@@ -34,6 +35,4 @@ ZaZa Network, Inc joins the industry in recognizing that children, including you
 Accordingly, ZaZa Network, Inc does not target children or teenagers (younger than 18) for collection of information online. ZaZa Network, Inc does not solicit or collect individually identifiable information targeted at children and teenagers under 18 and does not allow anyone else to do so on a ZaZa Network, Inc Web site. In addition, the editorial content of ZaZa Network, Inc Web sites designed for children will not knowingly promote or link to any third-party Web site that collects individually identifiable information unless that site publishes an easily accessible privacy policy.   
 In addition, on all of its online services and ZaZa Network, Inc Web sites, ZaZa Network, Inc will encourage children to seek the consent of their parents before providing any information about themselves or their households to anyone on the Internet.   
 Finally, ZaZa Network, Inc encourages parents to take an active role to protect the privacy and security of their children and to prevent the inappropriate use of information about their children. ZaZa Network, Inc supports the development of technologies that help parents control the collection and use of personal information from children who use online services in their households.  
-  
-  
----|---
+
