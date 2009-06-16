@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162414id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616130608id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # Security & Privacy Statement - ZDNet Australia
 
@@ -49,6 +49,8 @@ ZDNet Australia uses the DoubleClick DART technology for serving advertisements 
 Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 ZDNet Australia allows a trusted 3rd party utilising anonymous and aggregated data collection. Cookies may be used by this 3rd party to gather statistical information that will assist us in understanding what uses find interesting and useful on our website. These cookies are known as your "Unique Visitor Cookie", a small piece of data, identifying you only by a random number (eg # 12489). No personal information can be identified about the users through cookies.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **3\. How does ZDNET Australia use the information?**
 
