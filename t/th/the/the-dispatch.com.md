@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2008-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081122055316id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132321id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | The Dispatch | Davidson County's News Source
+# PRIVACYPOLICY | The-Dispatch.com | The Dispatch | Lexington, NC
 
-This Privacy Policy discloses the privacy practices for Lexington Dispatch newspaper and The-Dispatch.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “Lexington Dispatch” include The-Dispatch.com and Lexington Dispatch newspaper. Lexington Dispatch is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
+This Privacy Policy discloses the privacy practices for The Dispatch | Lexington, NC newspaper and The-Dispatch.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Dispatch | Lexington, NC” include The-Dispatch.com and The Dispatch | Lexington, NC newspaper. The Dispatch | Lexington, NC is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
 Third party sites that The-Dispatch.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
@@ -35,29 +35,29 @@ The-Dispatch.com requires that you supply a unique e-mail address and demographi
 
 ### Contests, Sweepstakes and Special Offers
 
-On occasion, Lexington Dispatch collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than Lexington Dispatch, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer. 
+On occasion, The Dispatch | Lexington, NC collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than The Dispatch | Lexington, NC, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer. 
 
 ### Reader Surveys, Reader Panels and Market Research
 
-Lexington Dispatch may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+The Dispatch | Lexington, NC may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
 ### Mobile Messaging Service
 
 We may elect to offer certain text messaging services (the “SMS Service”). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
 
-Lexington Dispatch collects the mobile phone number you use to send us a text message and the content of the messages sent between you and Lexington Dispatch. When you send a text message to Lexington Dispatch or via Lexington Dispatch, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. Lexington Dispatch uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
+The Dispatch | Lexington, NC collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Dispatch | Lexington, NC. When you send a text message to The Dispatch | Lexington, NC or via The Dispatch | Lexington, NC, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Dispatch | Lexington, NC uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
 #### Aggregate Information Collected Through Technology
 
 ### Cookies and Other Technologies
 
-As is standard practice on many Web sites, Lexington Dispatch uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "The-Dispatch.com" cannot access most areas of our sites.
+As is standard practice on many Web sites, The Dispatch | Lexington, NC uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "The-Dispatch.com" cannot access most areas of our sites.
 
-We reserve the right to place a Lexington Dispatch Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
+We reserve the right to place a The Dispatch | Lexington, NC Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
 For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
 
-NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of The-Dispatch.com is owned and used by Lexington Dispatch or NYTRMG. Lexington Dispatch reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
+NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of The-Dispatch.com is owned and used by The Dispatch | Lexington, NC or NYTRMG. The Dispatch | Lexington, NC reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
 
 We reserve the right to change the vendors who provide us with usage data.
 
@@ -67,7 +67,7 @@ Advertisers on The-Dispatch.com may elect to use third party advertising compani
 
 ### IP Addresses
 
-Lexington Dispatch logs IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our site.
+The Dispatch | Lexington, NC logs IP (Internet Protocol) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use the IP address log in an aggregate fashion to track access to our site.
 
 ### Log Files
 
@@ -77,11 +77,11 @@ Log data is only used in aggregate to analyze usage of our Web.
 
 ### Statistical Analysis
 
-Lexington Dispatch may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. Lexington Dispatch may share personal information with NYTRMG for analysis purposes, including analysis to improve customer relationships.
+The Dispatch | Lexington, NC may perform statistical, demographic and marketing analyses of subscribers, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. The Dispatch | Lexington, NC may share personal information with NYTRMG for analysis purposes, including analysis to improve customer relationships.
 
-### Products and Service Message from Lexington Dispatch
+### Products and Service Message from The Dispatch | Lexington, NC
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by Lexington Dispatch, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by The Dispatch | Lexington, NC, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/DIS_DNM.html).
 
 ### Banner Advertising
 
@@ -89,19 +89,19 @@ We may use behavioral, demographic and preference information to allow advertisi
 
 ### User Generated Content (Message Boards, Forums, Reader Reviews and Chats)
 
-We offer message boards for readers in a number of areas throughout our Web sites. The message boards are currently hosted and managed by Grouppee, a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by Lexington Dispatch for online and offline promotional or commercial uses in any and all media. Chats are also currently hosted by Grouppee, and any posting to a chat becomes public as soon as they are published online. For more information, see the Terms of Service.
+We offer message boards for readers in a number of areas throughout our Web sites. The message boards are currently hosted and managed by Grouppee, a third party vendor. Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by The Dispatch | Lexington, NC for online and offline promotional or commercial uses in any and all media. Chats are also currently hosted by Grouppee, and any posting to a chat becomes public as soon as they are published online. For more information, see the Terms of Service.
 
 ### E-Mail Newsletters
 
-If you choose to receive them, Lexington Dispatch will periodically send you e-mail newsletters or promotional e-mail about services offered by Lexington Dispatch and its advertisers. For details about Lexington Dispatch e-mail, please see the next section, “What Is Our E-mail Policy?”.
+If you choose to receive them, The Dispatch | Lexington, NC will periodically send you e-mail newsletters or promotional e-mail about services offered by The Dispatch | Lexington, NC and its advertisers. For details about The Dispatch | Lexington, NC e-mail, please see the next section, “What Is Our E-mail Policy?”.
 
 ## What is our e-mail policy?
 
-Lexington Dispatch complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@The-Dispatch.com](mailto:online@The-Dispatch.com). 
+The Dispatch | Lexington, NC complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@The-Dispatch.com](mailto:online@The-Dispatch.com). 
 
 ### Account and Service-Related E-mail:
 
-Lexington Dispatch reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the Site and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
+The Dispatch | Lexington, NC reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the Site and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
 ### E-mail Newsletters:
 
@@ -111,7 +111,7 @@ We offer e-mail newsletters. If you no longer wish to receive a specific newslet
 
 If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
-From time to time, Lexington Dispatch may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
+From time to time, The Dispatch | Lexington, NC may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
 
 ### Survey E-mail:
 
@@ -127,13 +127,13 @@ The-Dispatch.com readers may use this feature to send links to articles to other
 
 ## With whom do we share the information that we gather?
 
-If you have registered to one of our sites, Lexington Dispatch will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
+If you have registered to one of our sites, The Dispatch | Lexington, NC will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
 
-If you are a print subscriber to Lexington Dispatch and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/section/manage/).
+If you are a print subscriber to The Dispatch | Lexington, NC and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/section/manage/).
 
 ### Service Providers
 
-We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for Lexington Dispatch, and they may not share or resell this data.
+We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for The Dispatch | Lexington, NC, and they may not share or resell this data.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
 
@@ -163,7 +163,7 @@ We may disclose personal information if we are required to do so by law or we in
 
 ### COPPA Compliance:
 
-In accordance with the Children's Online Privacy Protection Act (COPPA), Lexington Dispatch does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
+In accordance with the Children's Online Privacy Protection Act (COPPA), The Dispatch | Lexington, NC does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
 
 ## Other Information: Changes to This Policy
 
