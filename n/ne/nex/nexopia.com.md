@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160752id_/http%3A//www.nexopia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616140319id_/http%3A//www.nexopia.com/privacy.php) for the most accurate reproduction.*
 
-# Nexopia
+# 
 
   
 _Last updated July 15, 2008._
@@ -117,4 +117,5 @@ To guard against fraudulent requests for access, Nexopia will require sufficient
 
 ### How to Contact Us
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at: [privacy@nexopia.com](mailto:privacy@nexopia.com), or by mail at: PO Box 47177, 62 Edmonton City Centre RPO, Edmonton, Alberta, T5J 4N1. 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at: [privacy@nexopia.com](mailto:privacy@nexopia.com), or by mail at: PO Box 47177, 62 Edmonton City Centre RPO, Edmonton, Alberta, T5J 4N1. |   
+---|---
