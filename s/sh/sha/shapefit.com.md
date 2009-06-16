@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165521id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053725id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
@@ -7,7 +7,8 @@
 [  
 ](http://www.shapefit.com/)[  
 ](http://fittracker.shapefit.com/)[  
-](http://www.shapefit.com/shapefit-fitness-products.html)[  
+](http://www.shapefit.com/calculators.html)[  
+](http://www.shapefit.com/shapefit-assist.html)[  
 ](http://www.shapefit.com/exercise.html)[  
 ](http://www.shapefit.com/nutrition.html)[](http://www.shapefit.com/cardio.html)[  
 ](http://fittracker.shapefit.com/)[  
@@ -15,6 +16,7 @@
 [](http://www.shapefit.com/latest-articles.html)  
 [  
 ](http://www.shapefit.com/fitness-questions-answers.html)[](http://www.shapefit.com/best-snacks.html)  
+[](http://www.shapefit.com/fastfood.html)  
 [](http://www.shapefit.com/exercise-videos.html)  
 [](http://www.shapefit.com/fitness-games.html)  
 [](http://www.shapefit.com/weight-loss-recipes.html)  
@@ -24,15 +26,17 @@
 [  
 ](http://www.shapefit.com/newsletter.html)[  
 ](http://www.shapefit.com/fitness-extras.html)[  
-](http://www.shapefit.com/tellafriend.html)[  
-](http://www.shapefit.com/testimonials.html)[  
-](http://www.shapefit.com/support-our-site.html) [](http://www.addthis.com/bookmark.php)
+](http://www.shapefit.com/tellafriend.html)[](http://www.shapefit.com/testimonials.html)[  
+](http://www.shapefit.com/support-our-site.html)[  
+](http://www.shapefit.com/advertise.html) [](http://www.addthis.com/bookmark.php)
 
-[](http://www.shapefit.com/shapefit-assist.html)
+Our **FREE** weekly fitness newsletter is packed with the latest diet & exercise articles, weight loss success stories and healthy recipes to help you lose fat and build muscle. **Join now!**
 
-[](http://www.shapefit.com/exercise-bands.html)
+***Latest Workouts!**
 
-[](http://fittracker.shapefit.com/users/foxeg15/)
+***Weight Loss Tips!**
+
+***Weekly Recipes!**
 
 | 
 
@@ -73,8 +77,6 @@ We use industry-standard measures to protect the Personal Information you share 
 We may make changes to the Privacy Policy from time to time in our sole discretion. We will post any such changes on the Website along with a notice on the Website that such changes have been made. Your continued use of the Web Site following the posting of such changes constitutes your acceptance of any such changes. If you do not agree with this Privacy Policy, or any revised versions thereof, you may not use the Website. 
 
 **Queries**   
-If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).
-
-[](http://fittracker.shapefit.com/)  
+If you have a question or comment about the ShapeFit site or a request to correct or delete your Personal Information, please contact us at info@shapefit.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, please be aware that even if ShapeFit deletes such Personal Information from its ‘live’ databases, such information may still be stored on other databases (including those kept for archival purposes).  
   
 ---|---
