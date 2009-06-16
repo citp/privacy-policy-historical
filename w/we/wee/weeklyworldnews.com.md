@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111813id_/http%3A//www.weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064632id_/http%3A//www.weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Weekly World News | Privacy Policy
-
-## Privacy Policy
 
 GENERAL
 
@@ -22,7 +20,7 @@ Personally identifiable information will be used by WeeklyWorldNews.com (A) to p
 Personally identifiable information will be shared with third parties to further any and all purposes for which you provide such information or when WeeklyWorldNews.com believes in its sole discretion that the law or regulatory obligations requires it, or to protect the rights of WeeklyWorldNews.com or its parent companies. In addition, WeeklyWorldNews.com reserves the right to transfer such information to a third party in the event of corporate restructuring.
 
 INFORMATION GATHERING BY THIRD PARTY-SITES  
-WeeklyWorldNews.com advertisers or sites that have links on our site may collect personally identifiable information about you. The information practices of those sites linked to WeeklyWorldNews.com are not covered by this Privacy Policy, and we have no control over those sites’ use of such information. 
+WeeklyWorldNews.com advertisers or sites that have links on our site may collect personally identifiable information about you. The information practices of those sites linked to WeeklyWorldNews.com are not covered by this Privacy Policy, and we have no control over those sites’ use of such information.
 
 SECURITY  
 No data transmitted over the Internet can be ensured to be 100% secure. While WeeklyWorldNews.com will use reasonable efforts to protect your personal information, personal information submitted to WeeklyWorldNews.com is done so at your own risk.
