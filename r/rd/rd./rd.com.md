@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015114id_/http%3A//www.rd.com/content/10660) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rd.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151309id_/http%3A//www.rd.com/content/10660) for the most accurate reproduction.*
 
-# privacy-policy | Privacy | Reader's Digest
+# privacy-policy | Word Games | Reader's Digest
 
 The policies below are applicable to readersdigest.com (rd.com) and other Web sites on the World Wide Web originating in the United States and owned and operated by The Reader's Digest Association, Inc. (collectively "RD sites") unless otherwise indicated. Our Privacy Policy will tell you what information we collect when you visit RD sites, how we protect it and what choices you have about how that information is used. We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
