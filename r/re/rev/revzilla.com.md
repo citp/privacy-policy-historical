@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216104819id_/http%3A//www.revzilla.com/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152354id_/http%3A//www.revzilla.com/customer-service-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RevZilla Motorsports
 
