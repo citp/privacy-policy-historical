@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020526id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065426id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
@@ -14,7 +14,9 @@ Our site uses an order form for customers to request information and services. W
 
 ## Third Party Cookies
 
-Third party advertisers and Web analytics software on this site may use cookies and/or Web beacons in order to collect information and serve advertisements to you. IP addresses and tracking cookies are not linked to personally identifiable information. You can set your browser to reject cookies, or to notify you when a cookie is being sent by a third party. This shouldn't affect your browsing experience of our website.
+Third party advertisers and Web analytics software on this site may use cookies and/or Web beacons in order to collect information and serve advertisements to you. IP addresses and tracking cookies are not linked to personally identifiable information.
+
+Advertisers may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). You can also set your browser to reject cookies, or to notify you when a cookie is being sent by a third party. This shouldn't affect your browsing experience of our website.
 
 ## Public Forums
 
