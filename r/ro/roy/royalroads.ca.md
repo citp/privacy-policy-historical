@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041628id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050801id_/http%3A//www.royalroads.ca/about-rru/governance/foipop.htm) for the most accurate reproduction.*
 
 # Royal Roads University - Freedom of Information and Protection of Privacy
 
