@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161706id_/http%3A//safestyle-windows.co.uk/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184957id_/http%3A//www.safestyle-windows.co.uk/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ We reserve the right to change this policy from time to time at our sole discret
 
 By uploading text or images to our [Customer Review](http://customer-reviews.safestyle-windows.co.uk/) section you affirm that we may use both the text and images as part of our Customer Review section of this website.
 
-For full usage and removal information, please [click here](https://web.archive.org/web/20081216161706id_/http%3A//safestyle-windows.co.uk/privacy/reviewterms.html)
+For full usage and removal information, please [click here](https://web.archive.org/web/20090616184957id_/http%3A//www.safestyle-windows.co.uk/privacy/reviewterms.html)
 
 **Security**
 
@@ -89,9 +89,11 @@ Take a look at our fantastic offer
 
 See what our customers are saying
 
-[](https://web.archive.org/customercare/customerservice_testimonials.htm)
+[](http://customer-reviews.safestyle-windows.co.uk/)
 
-[](http://www.safestyle-windows.co.uk/aboutus/aboutus_standards.htm) [](https://web.archive.org/aboutus/aboutus_trustmark.htm) [](https://web.archive.org/aboutus/aboutus_fensa.htm) [](https://web.archive.org/aboutus/aboutus_ggf.htm)
+[](http://www.safestyle-windows.co.uk/aboutus/aboutus_standards.htm) [](https://web.archive.org/aboutus/aboutus_trustmark.htm) [](https://web.archive.org/aboutus/aboutus_fensa.htm)[](https://web.archive.org/aboutus/aboutus_ggf.htm)
+
+[](http://www.safestyle-windows.co.uk/act-on-co2.htm)
 
 [](http://www.controlscan.com/seal/verify2.php?subid=3690&id=94)  
   
