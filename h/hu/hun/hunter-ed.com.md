@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022816id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616072618id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Today's Hunter Safety Course Privacy Policy - Online Hunting Education
 
