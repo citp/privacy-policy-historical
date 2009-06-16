@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022847id_/http%3A//www.gabrielash.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201918id_/http%3A//www.gabrielash.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Gabriel Ash Privacy Statement
 
