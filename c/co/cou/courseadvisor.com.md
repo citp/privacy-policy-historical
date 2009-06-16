@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195654id_/http%3A//www.courseadvisor.com/resources/privacy-policy%3Fref_content_type%3Dsite_page%26ref_content_id%3D3%26ref_pg_type%3Dwelcome%26ref_link_type%3Dpage_footer%26ref_text%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201540id_/http%3A//www.courseadvisor.com/resources/privacy-policy%3Fref_link_type%3Dpage_footer%26ref_text%3DPrivacy%252BPolicy%26ref_content_type%3Dsite_page%26ref_content_id%3D3%26ref_pg_type%3Dwelcome) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **COURSEADVISOR PRIVACY POLICY**
 
- **Effective Date: February 5, 2007**
+ **Effective Date: June 9, 2009**
 
 CourseAdvisor Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.courseadvisor.com. Because CourseAdvisor wants to demonstrate its commitment to users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -24,10 +24,10 @@ In order for you to take full advantage of the Site, we encourage you to provide
 If you do not input any of your personally identifiable Information, then the Information we collect from you is limited. For example, we log your IP address in order to help us to diagnose problems with our server, administer the Site and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access the Site through an always-on type of Internet connection (such as cable or DSL), or through a dial-up connection. Either way, it would be very difficult for us to personally identify you through your IP address. If you reached the Site by clicking on a link or ad from another web site, then we may also log that Information. This helps us to maximize our Internet exposure and to understand the interests of our Users. All of this Information is collected and used only in aggregated form; that is, it is entered into our database, where we can use it to generate overall anonymous reports on our Users.
 
 **Cookies**  
-We may place a small file known as a “cookie” on your computer’s hard drive. A cookie may contain information that allows us to track your path through the Site and to determine whether you have visited us before. The cookie itself never contains your personally identifiable Information. However, if you provide us with personally identifiable Information, the cookie may allow us to personally identify you if you return to the site again. Our cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. We use cookies in this manner to help us understand how Users use the Site, and to help us to improve the Site. You may refuse to accept a cookie from us by following the procedures for rejecting cookies specific to your web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only the Site, but other web sites as well.
+We may place a small file known as a “cookie” on your computer’s hard drive. A cookie may contain information that allows us to track your path through the Site and to determine whether you have visited us before. The cookie itself never contains your personally identifiable Information. However, if you provide us with personally identifiable Information, the cookie may allow us to personally identify you if you return to the site again. Our cookies cannot be used to read data from your hard drive and cannot retrieve information from any other cookies created by other websites. We use cookies in this manner to help us understand how Users use the Site, and to help us to improve the Site. From time to time, we may place cookies in connection with third party advertisements. You may refuse to accept a cookie from us by following the procedures for rejecting cookies specific to your web browser. Although you may do so, you may find that your browser reacts strangely when visiting not only the Site, but other web sites as well.
 
 **Clear Gifs**  
-We also employ a software technology called “clear gifs,” which helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web sites and are about the size of the period at the end of this sentence. We do not tie the Information gathered by clear gifs to Users’ personally identifiable Information.
+We also employ a software technology called “clear gifs,” which helps us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web sites and are about the size of the period at the end of this sentence. We do not tie the Information gathered by clear gifs to Users’ personally identifiable Information. Clear gifs may also be used by our third party advertisers.
 
 In addition to the Information that you provide to Us or that We obtain about you from your use of our Site, We may also augment the data We have collected with other aggregate information from other online or offline sources.
 
@@ -36,24 +36,30 @@ If you visit this Site by “clicking through” from another web site, and you 
 **CourseAdvisor Policy Regarding Children Under the Age of 13**  
 The Site is not intended for children under the age of 13, and CourseAdvisor does not knowingly collect or use personally identifiable Information from children under the age of 13.
 
-**How We Use the Information We Collect**  
-We use the Information you provide to us to help both of us! We may use the Information we collect to:
+**How We Use the Information We Collect**
 
-  * Share your Information with educational institutions you select in order for the school(s) to contact you
-  * Make your next visit to the Site more personalized
-  * Contact you regarding administrative issues such as questions about your specific request
-  * Compile anonymous statistical information for analysis
-  * Provide aggregated anonymous information to third parties
-  * Make telephone calls to you with information and offers
-  * Mail information and offers to you
+Information collected from you helps both of us! Either us or third party providers we contract may use the Information we collect to:
+
+  * Share your Information with educational institutions you select in order for the school(s) to contact you 
+  * Make your next visit to the Site more personalized 
+  * Contact you regarding administrative issues such as questions about your specific request 
+  * Compile anonymous statistical information for analysis 
+  * Provide aggregated anonymous information to third parties 
+  * Make telephone calls to you with information and offers 
+  * Mail information and offers to you 
   * Email information and offers to you
+  * Present relevant advertisements
 
 
-
-CourseAdvisor does not sell or rent any personally identifiable information to any third party other than our learning institution affiliates or any acquirer, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a way that will allow any third party to identify you personally.
 
 **Consent to the Use of Third Party Providers**  
-Please understand that CourseAdvisor may contract with other third parties to provide various services to CourseAdvisor relating to the Site on an outsourced basis rather than performing the services itself. For example, we may contract with an email provider to handle the distribution of email messages to Users of the Site. Likewise, we may contract with a web site hosting provider to host the Site for us. By visiting the Site, all Users consent to CourseAdvisor providing all Information (whether or not personally identifiable) received or collected from those Users to such third party providers for the purpose of enabling the third party provider to provide these outsourced services to us. In addition, all Users consent to the collection, maintenance, and processing of their Information (whether or not personally identifiable) by CourseAdvisor and these third party providers. Third parties will protect your information as CourseAdvisor would under the terms of this policy.
+Please understand that CourseAdvisor may contract with other third parties to provide various services to CourseAdvisor relating to the Site on an outsourced basis rather than performing the services itself. For example, we may contract with an email provider to handle the distribution of email messages to Users of the Site. Likewise, we may contract with a web site hosting provider to host the Site for us. By visiting the Site, all Users consent to CourseAdvisor providing all Information (whether or not personally identifiable) received or collected from those Users to such third party providers for the purpose of enabling the third party provider to provide these outsourced services to us.
+
+On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. We may permit a third-party to use non-personally identifiable information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you through the use of cookies, web beacons, clear GIF, pixel tags web bugs, action tags, or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness.
+
+In addition, all Users consent to the collection, maintenance, and processing of their Information (whether or not personally identifiable) by CourseAdvisor and these third party providers. Third parties will protect your information as CourseAdvisor would under the terms of this policy.
+
+CourseAdvisor Inc. may also share personally identifiable information with third party providers for the purpose of direct marketing, including email marketing. All third parties are bound by applicable laws including, but not limited to the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations.
 
 **Opting Out**  
 This privacy statement describes CourseAdvisor’s potential uses of your information. If you do not agree to our potential uses of your personally identifiable information as we have described for you, you are not required to provide that information to us. In addition, you may opt out of receiving advertising and promotional emails from us simply by responding to the opt-out email link provided on all email communications from CourseAdvisor. You are not able to opt out of receiving administrative emails from us.
@@ -75,7 +81,7 @@ If and when such a merger or acquisition takes place, we will notify you by publ
 
 Of course, CourseAdvisor will take reasonable measures to secure the Information Users provide to us, using industry-standard methods. All Information is protected by password and accessible only to authorized CourseAdvisor personnel. However, there is a remote possibility that Internet transmissions containing a User’s personally identifiable Information may be intercepted by others. There is no way for us to ensure the privacy of User Information before it arrives at the Site or after it leaves the Site.
 
-This privacy policy is effective February 5, 2007. If we change this Policy, we will post the amended Policy on the Site so that you are aware of what Information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Policy at any time, so please review the Site frequently for any changes. Amendments to this Policy will be posted on the Site and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by your continued use of our services or the Site. If we make material changes to this policy, we will notify you here, or by email or by notice posted on our website.
+This privacy policy is effective June 9, 2009. If we change this Policy, we will post the amended Policy on the Site so that you are aware of what Information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Policy at any time, so please review the Site frequently for any changes. Amendments to this Policy will be posted on the Site and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by your continued use of our services or the Site. If we make material changes to this policy, we will notify you here, or by email or by notice posted on our website.
 
 If you have questions specifically about this Policy, or to legal issues pertaining to the practices of the Site or your use of the Site, please contact us.
 
@@ -84,19 +90,18 @@ Due to the high volume of inquiries we receive, we regret that we cannot respond
 CONTACT INFORMATION
 
 **Electronic:**  
-To opt out of e-mail communications: complete the form at <http://www.courseadvisor.com/page/unsubscribe>.
+To opt out of e-mail communications: complete the form at http://www.courseadvisor.com/page/unsubscribe.
 
-To cancel or correct your personal information: send an email with your User Name and the notice “My Information” in the subject line to [myinfo@courseadvisor.com](mailto:%20myinfo@courseadvisor.com).
+To cancel or correct your personal information: send an email with your User Name and the notice “My Information” in the subject line to myinfo@courseadvisor.com.
 
-To express or ask questions regarding privacy concerns: send an email to [privacy@courseadvisor.com](mailto:privacy@courseadvisor.com).
+To express or ask questions regarding privacy concerns: send an email to privacy@courseadvisor.com.
 
-**Phone**  
-781.683.3300
+**Phone:** 781.683.3300
 
-**Mailing address**  
+**Mailing address:**  
 CourseAdvisor Inc.  
 100 Quannapowitt Parkway  
 Suite 102  
 Wakefield, MA 01880
 
-If you do not receive acknowledgment of your inquiry from us, or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you do not receive acknowledgment of your inquiry from us, or if your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
