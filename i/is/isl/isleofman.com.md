@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the isleofman.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209033420id_/http%3A//www.isleofman.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isleofman.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204313id_/http%3A//isleofman.com/Community/About_us/Privacy.aspx) for the most accurate reproduction.*
 
-# Isle of Man - Privacy Policy
+# isleofman.com - About Us -
 
-This is our privacy policy and aims to explain what information we collect and what it is used for. If you have any questions or concerns regarding this statement please email us at [information@isleofman.com](mailto:information@isleofman.com)
+## Privacy Policy
 
-We use the personal data you may provide solely for the reason that caused you to do so. For example, if you requested a brochure and submitted your name and address we will use that data for that purpose only and no other. We do not sell or pass that information on to further parties. 
+This is our privacy policy and aims to explain what information we collect and what it is used for.  If you have any questions or concerns regarding this statement please email us at [information@isleofman.com](mailto:information@isleofman.com?subject=Enquiry%20from%20isleofman.com/finance)
 
-We also use cookies to provide us with visitor and user statistics but that does not identify you as a person. 
+We use the personal data you may provide solely for the reason that caused you to do so.  We do not sell or pass that information on to further parties.   
 
-_isleofman.com_ is registered with the [Office of the Data Protection Registrar](http://www.gov.im/odpr/). 
+
+Sometimes we may be working with other partners and information provided by you may be shared.  Whenever this happens, you will be made clearly aware of this arrangement. 
+
+In addition, we also use cookies to provide us with visitor and user statistics but that does not identify you as a person.
+
+_[](http://www.gov.im/odps/)   
+isleofman.com_ is registered with the [Office of the Data Protection Supervisor.](http://www.gov.im/odps/)
