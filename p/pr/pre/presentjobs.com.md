@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031633id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063212id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Present Jobs - Jobs for Freshers and Professionals
 
@@ -18,6 +18,12 @@ As part of our services, Presentjobs.com sends daily job emails to our users reg
 **Cookies and Web beacons**
 
 We may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. However we use this information only for the purpose of improving our services.
+
+**IMP Note :**  
+\- Google, as a third party vendor, uses cookies to serve ads on our website.  
+\- Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).  
+\- You can [ Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie 
 
 **Third Party Advertisements**
 
