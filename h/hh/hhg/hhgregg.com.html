@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the hhgregg.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020242id_/http%3A//www.hhgregg.com/privacyPolicy.asp%3FSID%3Dn) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hhgregg.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617002331id_/http%3A//www.hhgregg.com/privacyPolicy.asp%3FSID%3Dn) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>
 Privacy Policy
 </title>
-<!--nf-w32-->
-<meta name="description" content="hhgregg's online source for electronics, televisions,  plasma, lcd, dlp, appliances, refrigerators, washers, dryers, dishwashers, ranges, DVD players, home audio, car audio, laptops, computers,  digital cameras , mp3 players, small home appliances,  digital camcorders and more. Research, compare and buy securely online; pick it up in a store."><meta name="keywords" content="hhgregg, appliances, electronics, consumer electronics, televisions, tvs, plasma, lcd, dlp, refrigerators, washers, dryers, dishwashers, ranges, ovens, cooktops, DVD players, home audio, car audio, laptops, computers,  digital cameras , mp3 players, small home appliances, digital camcorders, printers, home office, indiana, ohio, kentucky, tennessee, north carolina, alabama, georgia, south carolina">
+<!--nf-w32--><meta name="description" content="hhgregg's online source for electronics, televisions,  plasma, lcd, dlp, appliances, refrigerators, washers, dryers, dishwashers, ranges, DVD players, home audio, car audio, laptops, computers,  digital cameras , mp3 players, small home appliances,  digital camcorders and more. Research, compare and buy securely online; pick it up in a store."><meta name="keywords" content="hhgregg, appliances, electronics, consumer electronics, televisions, tvs, plasma, lcd, dlp, refrigerators, washers, dryers, dishwashers, ranges, ovens, cooktops, DVD players, home audio, car audio, laptops, computers,  digital cameras , mp3 players, small home appliances, digital camcorders, printers, home office, indiana, ohio, kentucky, tennessee, north carolina, alabama, georgia, south carolina">
 
 <link rel="stylesheet" type="text/css" href="css/hhgregg.css">
 
@@ -18,6 +17,7 @@ Privacy Policy
 <script language="javascript" src="javascript/menu/menu.js"></script>
 <script language="javascript" src="javascript/hhgreggCore.js"></script>
 <script language="javascript" src="javascript/hhgreggCommons.js"></script>
+<script language="javascript" src="javascript/jquery.js"></script>
 </head>
 
 
@@ -25,14 +25,7 @@ Privacy Policy
   
 
 
-
-
-
-
-
-
 <!--DIVS-->
-
 
 <div class="hhgreggLogo"><a href="index.asp?SID=n" title="Link to www.hhgregg.com"><img alt="Link to www.hhgregg.com" src="Version6LayoutImages/headerImages/hhgreggLogo.jpg" width="231px" height="74px"></a></div>
  
@@ -72,7 +65,7 @@ Privacy Policy
 		<span></span>
 	</div>
 	<div class="shoppingCartLink">
-		<a class="shoppingCart" href="shoppingCart.asp?SID=n">Shopping Cart</a>
+		<a class="shoppingCart" rel="nofollow" href="shoppingCart.asp?SID=n">Shopping Cart</a>
 		<span>
 			0 items in cart
 		</span>
@@ -84,45 +77,38 @@ Privacy Policy
   <div id="menuBar" class="menuBar" onmouseout="settime('menuBar');"> 
     <div id="Bar1" class="Bar" menu="video295"> 
       <a href="Catalog.asp?SID=n&amp;CatalogID=295&amp;CatalogName=TV+%26+Video">TV &amp; Video</a></div>
-    <div id="Bar2" class="Bar" menu="homeAudio327"> 
+    <div id="Bar2" class="Bar" menu="appliances435"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=435&amp;CatalogName=Appliances">Appliances</a></div>
+    <div id="Bar3" class="Bar" menu="computers48"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=48&amp;CatalogName=Computers">Computers
+     </a></div>
+    <div id="Bar4" class="Bar" menu="homeAudio327"> 
       <a href="Catalog.asp?SID=n&amp;CatalogID=327&amp;CatalogName=Home+Audio">Home 
       Audio</a></div>
-    <div id="Bar3" class="Bar" menu="personalElectronics363"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=363&amp;CatalogName=personalElectronics">Personal 
-      Electronics</a></div>
-    <div id="Bar4" class="Bar" menu="camerasCamcorders390"> 
+    <div id="Bar5" class="Bar" menu="camerasCamcorders390"> 
       <a href="Catalog.asp?SID=n&amp;CatalogID=390&amp;CatalogName=camerasCamcorders">Cameras
       &amp; Camcorders</a></div>
-    <div id="Bar5" class="Bar" menu="appliances435"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=435&amp;CatalogName=Appliances">Appliances</a></div>
-    <div id="Bar6" class="Bar" menu="smallAppliances517"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=517&amp;CatalogName=Small+Appliance">Small
-      Appliances</a></div>
+    <div id="Bar6" class="Bar" menu="personalElectronics363"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=363&amp;CatalogName=personalElectronics">Portable 
+      Electronics</a></div>
     <div id="Bar7" class="Bar" menu="carAudio532"> 
       <a href="Catalog.asp?SID=n&amp;CatalogID=532&amp;CatalogName=Car+Audio+%26+Video">Car 
       Audio</a></div>
     <div id="Bar8" class="Bar" menu="phoneOffice409"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=409&amp;CatalogName=Telephone+%26+Home+Office">Phones 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=409&amp;CatalogName=Telephone+%26+Home+Office">Home 
 	  &amp; Office</a></div>
-    <div id="Bar9" class="Bar" menu="furniture358"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=358&amp;CatalogName=Furniture">Home Goods</a></div>
-    <div id="Bar10" class="Bar" menu="computers48"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=48&amp;CatalogName=Computers">Computers
-     </a></div>
+    <div id="Bar9" class="Bar" menu="videoGames749"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=749">Video Gaming</a></div>
+    <div id="Bar10" class="Bar" menu="mattresses677"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=677">Mattresses</a></div>
   </div>
   <div id="video295" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
     <div id="video_1" title="Digital Television"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=648">Digital Television</a> 
     </div>
-    <!--div id="video_2" title="Television"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=296">Television</a> 
-    </div-->
     <div id="video_3" title="Home Theatre Systems"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=315">Home Theatre 
       Systems</a> </div>
-    <div id="video_11" title="Video Gaming"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=749">Video Gaming</a> 
-    </div>
     <div id="video_4" title="DVD Players"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=304">DVD Players</a> 
     </div>
@@ -144,120 +130,6 @@ Privacy Policy
       <a href="BrandStore.asp?SID=n&amp;CatalogID=295&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
     </div>
   </div>
-    
-  <div id="homeAudio327" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-    <div id="homeAudio_2" title="Speakers"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=350">Speakers</a> 
-    </div>
-    <div id="homeAudio_1" title="Receivers"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=328">Receivers</a> 
-    </div>
-    <div id="homeAudio_3" title=">Home Theatre Systems"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=315">Home Theatre 
-      Systems</a> </div>
-    <div id="homeAudio_8" title="Compact Systems"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=344">Compact Systems</a> 
-    </div>
-    <div id="homeAudio_4" title="CD Players"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=330">CD Players</a> 
-    </div>
-    <div id="homeAudio_5" title="Cassette Decks"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=338">Cassette Decks</a> 
-    </div>
-    <div id="homeAudio_7" title="Turntables"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=340">Turntables</a> 
-    </div>
-    <!--div id="homeAudio_6" title="CD Recorders"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=332">CD Recorders</a> 
-    </div-->
-    <div id="homeAudio_10" title="Audio Installation"> 
-      <a href="avInstall.asp?SID=n&amp;CatalogID=616">Audio Installation</a> 
-    </div>
-    <div id="homeAudio_9" title="Audio Accessories"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=506">Audio Accessories</a> 
-    </div>
-    <div id="homeAudio_11" title="Sony Store"> 
-      <a href="BrandStore.asp?SID=n&amp;CatalogID=327&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
-    </div>
-  </div>
-  
-  <div id="personalElectronics363" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-    <div id="personalElectronics_1" title="Portable MP3"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=378">Portable MP3</a> 
-    </div>
-    <div id="video_11" title="Video Gaming"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=749">Video Gaming</a> 
-    </div>
-    <div id="personalElectronics_3" title="Boomboxes"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=364">Boomboxes</a> 
-    </div>
-    <div id="personalElectronics_8" title="Headphones"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=386">Headphones</a> 
-    </div>
-    <div id="personalElectronics_5" title="Portable CD Players"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=366">Portable CD 
-      Players</a> </div>
-    <!--div id="personalElectronics_4" title="Digital Audio Recorders"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=582">Digital Audio 
-      Recorders</a></div-->
-    <div id="personalElectronics_7" title="Portable Radio Players"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=370">Portable Radio 
-      Players</a> </div>
-    <div id="personalElectronics_9" title="Radios/Clock Radios"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=372">Radios/Clock 
-      Radios</a> </div>
-    <div id="personalElectronics_13" title="Powered Speakers"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=384">Powered Speakers</a> 
-    </div>
-    <!--div id="personalElectronics_6" title="Headset Radios"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=374">Headset Radios</a> 
-    </div-->
-    <div id="personalElectronics_12" title="2-Way Radios"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=618">2-Way Radios</a> 
-    </div>
-    <!--div id="personalElectronics_11" title="Portable Cassette Players"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=368">Portable Cassette 
-      Players</a> </div-->
-    <div id="personalElectronics_2" title="Compact Systems"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=380">Compact Systems</a> 
-    </div>
-    <div id="personalElectronics_10" title="GPS/Navigation"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=640">GPS/Navigation</a> 
-    </div>
-    <div id="personalElectronics_14" title="Personal Audio Accessories"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=506">Personal Audio 
-      Accessories</a> </div>
-    <div id="personalElectronics_15" title="Sony Store"> 
-      <a href="BrandStore.asp?SID=n&amp;CatalogID=363&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
-    </div>
-  </div>
-  
-  
-  <div id="camerasCamcorders390" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-    <div id="camerasCamcorders_1" title="Digital Cameras"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=391">Digital Cameras</a> 
-    </div>
-    <div id="camerasCamcorders_2" title="Camcorders"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=395">Camcorders</a> 
-    </div>
-    <div id="camerasCamcorders_3" title="Digital Media"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=394">Digital Media</a> 
-    </div>
-    <div id="camerasCamcorders_6" title="Digital Picture Frames"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=684">Digital Picture Frames</a>
-    </div>
-    <div id="camerasCamcorders_4" title="Printers"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=400">Printers</a> 
-    </div>
-    <div id="camerasCamcorders_5" title="Photo &amp; Imaging Accessories"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=102">Photo &amp; Imaging 
-      Accessories</a> </div>
-    <div id="camerasCamcorders_7" title="Sony Store"> 
-      <a href="BrandStore.asp?SID=n&amp;CatalogID=390&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
-    </div>
-  </div>
-  
-  
   <div id="appliances435" class="menu" width="5" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
     <div id="appliances_1" title="Refrigerators"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=436">Refrigerators</a> 
@@ -305,53 +177,146 @@ Privacy Policy
     <div id="appliances_6" title="Small Home Appliances"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=482">Small Home 
       Appliances</a> </div>
-    <!--div id="appliances_10" title="Garage Organization"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=669">Garage Organization</a> 
-    </div-->
     <div id="appliances_14" title="Appliance Installation"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=571">Appliance Installation</a> 
     </div>
     <div id="appliances_18" title="Appliance Accessories18"> 
-      <a href="ProductListing.asp?SID=n&amp;CategoryID=499&amp;CategoryName=Appliance+Accessories&amp;SubCategoryName=All+Appliance+Accessories">Appliance Accessories</a> </div>
-  </div>
-  
-  <div id="smallAppliances517" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-    <div id="smallAppliances_7" title="Air Conditioners"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=470">Air Conditioners</a> 
-    </div>
-    <div id="smallAppliances_2" title="Carpet Care"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=477">Carpet Care</a> 
-    </div>
-    <div id="smallAppliances_3" title="Fans &amp; Heaters"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=593">Fans &amp; Heaters</a> 
-    </div>
-    <div id="smallAppliances_4" title="Gas Grills"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=496">Gas Grills</a> 
-    </div>
-    <div id="smallAppliances_5" title="Humidifiers/ Dehumidifiers"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=522">Humidifiers/Dehumidifiers</a> 
-    </div>
-    <div id="smallAppliances_98" title="Humidifiers/ Dehumidifiers"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryID=499&amp;CategoryName=Appliance+Accessories&amp;SubCategoryName=All+Appliance+Accessories">Appliance Accessories</a> 		</div>
+	<div id="appliances_19" title="Miscellaneous and Gadgets"> 
       <a href="ProductListing.asp?SID=n&amp;CategoryID=596&amp;CategoryName=Small+Home+Appliances&amp;SubCategoryName=Miscellaneous+%26+Gadgets">Miscellaneous &amp; Gadgets</a> 
     </div> 
-    <div id="smallAppliances_1" title="Small Home Appliances"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=482">Small Home Appliances</a>
-    </div>
-    <div id="smallAppliances_99" title="Humidifiers/ Dehumidifiers"> 
-      <a href="ProductListing.asp?SID=n&amp;CategoryID=526&amp;CategoryName=Small+Home+Appliances&amp;SubCategoryName=Specialty+Items">Specialty Items</a> 
-    </div>
-    <div id="smallAppliances_6" title="Small Appliance Accessories"> 
-      <a href="Catalog.asp?SID=n&amp;CatalogID=602">Small Appliance 
-      Accessories</a> </div>
+	<div id="appliances_19" title="Small Appliance Accessories"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=602">Small Appliance Accessories</a>
+	</div>
   </div>
   
+  <div id="computers48" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
+    <div id="computers_1" title="Laptops"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=679">Laptops</a>
+    </div>
+    <div id="computers_2" title="Computer Accessories"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=689">Computer Accessories</a>
+    </div>
+    <div id="computers_3" title="Digital Media"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=394">Digital Media</a> 
+    </div>
+  </div>
+  
+  <div id="homeAudio327" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
+    <div id="homeAudio_2" title="Speakers"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=350">Speakers</a> 
+    </div>
+    <div id="homeAudio_1" title="Receivers"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=328">Receivers</a> 
+    </div>
+    <div id="homeAudio_3" title=">Home Theatre Systems"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=315">Home Theatre 
+      Systems</a> </div>
+    <div id="homeAudio_8" title="Compact Systems"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=344">Compact Systems</a> 
+    </div>
+    <div id="homeAudio_4" title="CD Players"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=330">CD Players</a> 
+    </div>
+    <div id="homeAudio_10" title="Audio Installation"> 
+      <a href="avInstall.asp?SID=n&amp;CatalogID=616">Audio Installation</a> 
+    </div>
+    <div id="homeAudio_9" title="Audio Accessories"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=506">Audio Accessories</a> 
+    </div>
+    <div id="homeAudio_11" title="Sony Store"> 
+      <a href="BrandStore.asp?SID=n&amp;CatalogID=327&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
+    </div>
+  </div>
+
+  <div id="camerasCamcorders390" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
+    <div id="camerasCamcorders_1" title="Digital Cameras"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=391">Digital Cameras</a> 
+    </div>
+    <div id="camerasCamcorders_2" title="Camcorders"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=395">Camcorders</a> 
+    </div>
+    <div id="camerasCamcorders_3" title="Digital Media"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=394">Digital Media</a> 
+    </div>
+    <div id="camerasCamcorders_6" title="Digital Picture Frames"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=684">Digital Picture Frames</a>
+    </div>
+    <div id="camerasCamcorders_4" title="Printers"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=400">Printers</a> 
+    </div>
+    <div id="camerasCamcorders_5" title="Photo &amp; Imaging Accessories"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=102">Photo &amp; Imaging 
+      Accessories</a> </div>
+    <div id="camerasCamcorders_7" title="Sony Store"> 
+      <a href="BrandStore.asp?SID=n&amp;CatalogID=390&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
+    </div>
+  </div>
+  
+  <div id="personalElectronics363" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
+    <div id="personalElectronics_1" title="Portable MP3"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=378">Portable MP3</a> 
+    </div>
+    <div id="personalElectronics_3" title="Boomboxes"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=364">Boomboxes</a> 
+    </div>
+    <div id="personalElectronics_8" title="Headphones"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=386">Headphones</a> 
+    </div>
+    <div id="personalElectronics_5" title="Portable CD Players"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=366">Portable CD 
+      Players</a> </div>
+    <!--div id="personalElectronics_4" title="Digital Audio Recorders"> 
+      <a href="SubCatalog.asp?SID=n&CatalogID=582">Digital Audio 
+      Recorders</a></div-->
+    <div id="personalElectronics_15" title="Video Games"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=749">Video Gaming</a> 
+    </div>	
+    <div id="personalElectronics_7" title="Portable Radio Players"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=370">Portable Radio 
+      Players</a> </div>
+    <div id="personalElectronics_9" title="Radios/Clock Radios"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=372">Radios/Clock 
+      Radios</a> </div>
+    <div id="personalElectronics_13" title="Powered Speakers"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=384">Powered Speakers</a> 
+    </div>
+    <!--div id="personalElectronics_6" title="Headset Radios"> 
+      <a href="SubCatalog.asp?SID=n&CatalogID=374">Headset Radios</a> 
+    </div-->
+    <div id="personalElectronics_12" title="2-Way Radios"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=618">2-Way Radios</a> 
+    </div>
+    <!--div id="personalElectronics_11" title="Portable Cassette Players"> 
+      <a href="SubCatalog.asp?SID=n&CatalogID=368">Portable Cassette 
+      Players</a> </div-->
+    <div id="personalElectronics_2" title="Compact Systems"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=380">Compact Systems</a> 
+    </div>
+    <div id="personalElectronics_10" title="GPS/Navigation"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=640">GPS/Navigation</a> 
+    </div>
+    <div id="personalElectronics_14" title="Personal Audio Accessories"> 
+      <a href="Catalog.asp?SID=n&amp;CatalogID=506">Personal Audio 
+      Accessories</a> </div>
+    <div id="personalElectronics_15" title="Specialty Items"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryID=526&amp;CategoryName=Specialty Items&amp;SubCategoryName=Specialty+Items">Specialty Items</a> 
+    </div>	  
+    <div id="personalElectronics_16" title="Sony Store"> 
+      <a href="BrandStore.asp?SID=n&amp;CatalogID=363&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
+    </div>
+  </div>
+  
+   
   <div id="carAudio532" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
     <div id="carAudio_1" title="Car Audio"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=533">Car Audio</a> 
     </div>
+	<!--
     <div id="carAudio_4" title="Car Video"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=538">Car Video</a> 
+      <a href="SubCatalog.asp?SID=n&CatalogID=538">Car Video</a> 
     </div>
+	-->
     <div id="carAudio_9" title="Car Speakers"> 
       <!--a href="SubCatalog.asp?SID=n&CatalogID=691">Car Speakers</a-->
       <a href="ProductListing.asp?SID=n&amp;CategoryID=691&amp;CategoryName=Car%20Audio&amp;SubCategoryName=Car%20Speakers">Car Speakers</a>  
@@ -365,15 +330,6 @@ Privacy Policy
     <div id="carAudio_6" title="Satellite Radio"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=541">Satellite Radio</a> 
     </div>
-    <!--div id="carAudio_5" title="Remote Start Packages"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=544">Remote Start 
-      Packages</a></div-->
-    <!--div id="carAudio_7" title="Security Systems"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=583">Security Systems</a> 
-    </div-->
-    <!--div id="carAudio_8" title="Car Installation"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=546">Car Installation</a> 
-    </div-->
     <div id="carAudio_10" title="Sony Store"> 
       <a href="BrandStore.asp?SID=n&amp;CatalogID=532&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
     </div>
@@ -392,41 +348,37 @@ Privacy Policy
     <div id="phoneOffice_3" title="Printers"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=400">Printers</a> 
     </div>
-    <!--div id="phoneOffice_4" title="Home Office Accessories"> 
-      <a href="SubCatalog.asp?SID=n&CatalogID=97">Home Office 
-      Accessories</a></div-->
-      <div id="phoneOffice_7" title="Laptops"> 
+      <div id="phoneOffice_6" title="Laptops"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=679">Laptops</a>
     </div>
-    <div id="phoneOffice_6" title="Computer Accessories"> 
+    <div id="phoneOffice_7" title="Computer Accessories"> 
       <a href="SubCatalog.asp?SID=n&amp;CatalogID=689">Computer Accessories</a>
     </div>
-    <div id="phoneOffice_8" title="Sony Store"> 
+    <div id="phoneOffice_9" title="Specialty Items"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryID=526&amp;CategoryName=Specialty Items&amp;SubCategoryName=Specialty+Items">Specialty Items</a> 
+    </div>
+    <div id="furniture_4" title="Audio/Video Furniture"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=323">Audio/Video 
+      Furniture</a> </div>
+	<div id="phoneOffice_8" title="Luggage"> 
+      <a href="SubCatalog.asp?SID=n&amp;CatalogID=740">Luggage</a>
+	</div>
+    <div id="phoneOffice_10" title="Sony Store"> 
       <a href="BrandStore.asp?SID=n&amp;CatalogID=409&amp;CatalogName=Sony Store&amp;BrandStore=Sony">Sony Store</a>
     </div>
   </div>
+  <div id="videoGames749" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
+    <div id="videoGames_1" title="Phones"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryId=750&amp;CategoryName=Video%20Gaming&amp;SubCategoryName=Bundles&amp;BrandStore=All">Bundles</a> 
+    </div>
+    <div id="videoGames_5" title="Cell Phones"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryId=751&amp;CategoryName=Video%20Gaming&amp;SubCategoryName=Games&amp;BrandStore=All">Games</a>
+    </div>
+    <div id="videoGames_2" title="Shredders"> 
+      <a href="ProductListing.asp?SID=n&amp;CategoryId=752&amp;CategoryName=Video%20Gaming&amp;SubCategoryName=Gaming%20Accessories&amp;BrandStore=All">Gaming Accessories</a> 
+    </div>
+  </div> 
   
-  <div id="furniture358" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-	<div id="furniture_1" title="Luggage">  
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=740">Luggage</a></div>
-    <div id="furniture_2" title="Audio/Video Furniture"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=323">Audio/Video 
-      Furniture</a></div>
-    <div id="furniture_3" title="Bedding">  
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=677">Bedding</a></div>
-  </div>
-
-  <div id="computers48" class="menu" onmouseout="settime('menuBar');" onmouseover="cleartime();"> 
-    <div id="computers_1" title="Laptops"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=679">Laptops</a>
-    </div>
-    <div id="computers_2" title="Computer Accessories"> 
-      <a href="SubCatalog.asp?SID=n&amp;CatalogID=689">Computer Accessories</a>
-    </div>
-    <!--div id="computers_3" title="Sony Store"> 
-      <a href="BrandStore.asp?SID=n&CatalogID=48&CatalogName=Sony Store&BrandStore=Sony">Sony Store</a>
-    </div-->
-  </div>
 </div>
  
 <script>InitMenu()</script>
@@ -471,17 +423,7 @@ Buy online or by phone: 1-866-WSGREGG
 </div>
 
 
-
-
-
-<div class="breadCrumb">
-  <a href="index.asp?SID=n">Home</a> 
-  |
-Privacy Policy
-</div>
- 
- <!--DIVS-->
-<div id="377" class="standardDivPopUp" style="width:522px;"><div onmousedown="ActiveDiv('377')" id="titleBar"> 
+<!-- Cache Last Updated 6/16/2009 8:19:00 PM--><div id="377" class="standardDivPopUp" style="width:522px;"><div onmousedown="ActiveDiv('377')" id="titleBar"> 
     <span class="divPopUpHeader">
     <span>hhgregg</span> HELP CENTER
     </span>
@@ -548,7 +490,61 @@ Indianapolis, IN 46240</span><br>
     </div>
   </div></div><div id="587" class="hackerSafeLogo"><!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.hhgregg.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.hhgregg.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-<!-- END SCANALERT CODE --></div><div id="36" class="standardDivPopUp"><div onmousedown="ActiveDiv('36')" id="titleBar"> 
+<!-- END SCANALERT CODE --></div><!-- Cache Last Updated 6/16/2009 8:23:28 PM--><!-- Cache Last Updated 6/16/2009 8:19:00 PM--><div id="2" class="standardDivPopUp"><div onmousedown="ActiveDiv('2')" id="titleBar"> 
+    <span class="divPopUpHeader">
+    <span>hhgregg</span> FREE SHIPPING </span>
+
+     <span class="divPopUpCloseButton">
+        <a href="#script" onclick="ActivateDiv('2','D','D','none')"><img src="images/but_closeX2.jpg" width="24" height="22" alt="Close Window"></a> 
+    </span> 
+    <div class="divPopUpHeaderLine"> </div>
+</div>
+  <div class="divPopUpContent" onmousedown="ActiveDiv('2')"> 
+  
+<b><img src="images/deal_shipping2004.gif" align="left" vspace="5" hspace="5">Free 
+              UPS (Ground) Shipping on all shipping eligible products $99 and up - Product ships from hhgregg in 1-2 business 
+              days, UPS will deliver 3-8 days later.<br>
+              </b><br>
+              Free shipping (UPS Ground) is available for a limited time on selected 
+              items. These items are clearly marked as "Free Shipping." 
+              Our Free Shipping Offer may be retracted or discontinued at any 
+              time. Because of size and weight constraints, some of the items 
+              offered through hhgregg.com are not available to be shipped, such 
+              as big-screen televisions and large appliances. You'll need to indicate 
+              your preferred shipping method when you've completed shopping online. 
+              We also offer additional shipping options at a charge such as 2nd 
+              Day and Next Day shipping.<br>
+            <ol>
+              <li>Applies only to shipments to the continental United States.</li>
+              <li>Excludes any item which ships by freight carrier. </li>
+              <li>Excludes any purchase in our retail stores. </li>
+              <li>If you choose an enhanced shipping option such as next-day air 
+                delivery you will be charged for the cost of the upgraded service. 
+              </li>
+              <li>This is a limited time offer. hhgregg reserves the right to 
+                end or change this offer at any time without prior notice. </li>
+<li>All items shipped require an adult signature.</li>
+            </ol>
+            <br>
+              <br>
+
+
+
+		  
+    <div> 
+        <a href="#script" class="commandLink" onclick="ActivateDiv('2','D','D','none')">Close Window</a>
+    </div>
+  </div></div>
+
+
+<div class="breadCrumb">
+  <a href="index.asp?SID=n">Home</a> 
+  |
+Privacy Policy
+</div>
+ 
+ <!--DIVS-->
+<div id="36" class="standardDivPopUp"><div onmousedown="ActiveDiv('36')" id="titleBar"> 
     <span class="divPopUpHeader">
     <span>hhgregg</span> Legal Notice </span>
 
@@ -613,50 +609,6 @@ Indianapolis, IN 46240</span><br>
 		  
     <div> 
         <a href="#script" class="commandLink" onclick="ActivateDiv('36','D','D','none')">Close Window</a>
-    </div>
-  </div></div><div id="2" class="standardDivPopUp"><div onmousedown="ActiveDiv('2')" id="titleBar"> 
-    <span class="divPopUpHeader">
-    <span>hhgregg</span> FREE SHIPPING </span>
-
-     <span class="divPopUpCloseButton">
-        <a href="#script" onclick="ActivateDiv('2','D','D','none')"><img src="images/but_closeX2.jpg" width="24" height="22" alt="Close Window"></a> 
-    </span> 
-    <div class="divPopUpHeaderLine"> </div>
-</div>
-  <div class="divPopUpContent" onmousedown="ActiveDiv('2')"> 
-  
-<b><img src="images/deal_shipping2004.gif" align="left" vspace="5" hspace="5">Free 
-              UPS (Ground) Shipping on all shipping eligible products $99 and up - Product ships from hhgregg in 1-2 business 
-              days, UPS will deliver 3-8 days later.<br>
-              </b><br>
-              Free shipping (UPS Ground) is available for a limited time on selected 
-              items. These items are clearly marked as "Free Shipping." 
-              Our Free Shipping Offer may be retracted or discontinued at any 
-              time. Because of size and weight constraints, some of the items 
-              offered through hhgregg.com are not available to be shipped, such 
-              as big-screen televisions and large appliances. You'll need to indicate 
-              your preferred shipping method when you've completed shopping online. 
-              We also offer additional shipping options at a charge such as 2nd 
-              Day and Next Day shipping.<br>
-            <ol>
-              <li>Applies only to shipments to the continental United States.</li>
-              <li>Excludes any item which ships by freight carrier. </li>
-              <li>Excludes any purchase in our retail stores. </li>
-              <li>If you choose an enhanced shipping option such as next-day air 
-                delivery you will be charged for the cost of the upgraded service. 
-              </li>
-              <li>This is a limited time offer. hhgregg reserves the right to 
-                end or change this offer at any time without prior notice. </li>
-<li>All items shipped require an adult signature.</li>
-            </ol>
-            <br>
-              <br>
-
-
-
-		  
-    <div> 
-        <a href="#script" class="commandLink" onclick="ActivateDiv('2','D','D','none')">Close Window</a>
     </div>
   </div></div>
  
@@ -801,38 +753,61 @@ Indianapolis, IN 46240</span><br>
   
 
 <br>
-<!--privacyPolicy--><div class="footerBar"> 
+<!--privacyPolicy-->
+		<div class="footerTop footerTopMain">
+			<div id="a"><a href="contactUs.asp?SID=n"><span>contact</span></a></div>
+			<div id="b"><a href="http://www.hhgregglearningcenter.com"><span>learning center</span></a></div>
+			<div id="c"><a href="rebate.asp?SID=n"><span>rebate center</span></a></div>
+			<div id="d"><a href="orderStatus.asp?SID=n"><span>order tracking</span></a></div>
+		</div>
+<div class="footerBar"> 
 
-	<form id="emailSubscribe" method="post" action="emailerSubscribe.asp?SID=n">
-		<input type="hidden" name="action" value="subscribeEmail">
-		<span id="emailSubscribeHeader">Sign up for savings</span>
-		<label id="emailFieldLabel">Email</label>
-		<input type="text" name="email" id="emailField" size="20">
-		<input type="submit" id="emailSubmit" value="Submit">
-	</form>
-	<a id="aboutLink" href="aboutHHG.asp?SID=n">About hhgregg</a>
-	<a id="fineLinesLink" href="http://www.hhgreggFinelines.com" onclick="window.open(this.href,'FineLines'); return false;">Fine Lines</a>
-	<a id="partSearchLink" href="http://hhgregg.partsearch.com" onclick="window.open(this.href,'BuyParts'); return false;">Buy Parts</a>
-	<a id="buyingGuidesLink" href="dynamic.asp?SID=n&amp;did=965">Learning Center</a>
-	<a id="brandListLink" href="BrandList.asp?SID=n">Brand List</a>
-	<a id="careersLink" href="http://careers.hhgregg.com/" onclick="window.open(this.href,'Careers'); return false;">Careers</a> 
-	<a id="informationCenterLink" href="infoCenter.asp?SID=n">Information Center</a> 
-	<a id="legalNoticeLink" href="attorneyTerms.asp?SID=n">Legal Notice</a>
-	<a id="privacyPolicyLink" href="privacyPolicy.asp?SID=n">Privacy Policy</a>
-	<a id="commercialDivisionLink" href="http://www.hhgregg.com/commercialDivision" onclick="window.open(this.href,'Commercial'); return false;">Commercial Division</a> 
-	<a id="investorRelationsLink" href="http://ir.hhgregg.com">Investor Relations</a> 
-	<a id="contactLink" href="contactUs.asp?SID=n">Contact/Help center</a> 
-	<a id="storeLocatorLink" href="storeLocator.asp?SID=n">Store Directory</a> 
-	<a id="orderTrackingLink" href="orderStatus.asp?SID=n">Order Tracking</a> 
-	<a id="rebatesLink" href="rebate.asp?SID=n">Rebates(mail in)</a> 
-	<a id="promoEventsLink" href="promosEvents.asp?SID=n">Promos &amp; Events</a> 
-	<a id="giftCenterLink" href="ProductBrandList.asp?SID=n&amp;brandid=1&amp;promoid=1134">Gift Center</a> 
-	<a id="giftCardsLink" href="giftCards.asp?SID=n">Gift Cards</a> 
-	<a id="siteMapLink" href="siteMap.asp?SID=n">Site Map</a> 
+	<div style="float:left;width:444px;height:117px;">
+		<iframe src="http://info.hhgregg.com/SignUp.aspx" frameborder="0" height="117" width="444" scrolling="no"></iframe>
+	</div>
+
+	<div class="footerLinks">
+		<!--
+		Unused links
+		<a id="contactLink" href="contactUs.asp?SID=n">Contact/Help center</a>
+		<a id="rebatesLink" rel="nofollow" href="rebate.asp?SID=n">Rebates(mail in)</a> 
+		<a id="orderTrackingLink" rel="nofollow" href="orderStatus.asp?SID=n">Order Tracking</a>
+		-->
+		<div class="footerFirstRow">
+			<a id="giftCenterLink" href="dynamic.asp?SID=n&amp;did=485">Gift Center</a>
+			<a id="giftCardsLink" href="giftCards.asp?SID=n">Gift Cards</a>
+			<a id="partSearchLink" href="http://hhgregg.partsearch.com" onclick="window.open(this.href,'BuyParts'); return false;">Buy Parts</a>
+			<a id="promoEventsLink" href="promosEvents.asp?SID=n">Promos &amp; Events</a>
+		</div>
+		<div class="footerSecondRow">
+			<a id="careersLink" href="http://careers.hhgregg.com/" onclick="window.open(this.href,'Careers'); return false;">Careers</a> 
+			<a id="aboutLink" rel="nofollow" href="aboutHHG.asp?SID=n">About hhgregg</a>
+			<a id="informationCenterLink" href="infoCenter.asp?SID=n">Information Center</a>
+			<a id="buyingGuidesLink" href="http://www.hhgregglearningcenter.com/">Learning Center</a>
+		</div>
+		<div class="footerThirdRow">
+			<a id="legalNoticeLink" rel="nofollow" href="attorneyTerms.asp?SID=n">Legal Notice</a>
+			<a id="privacyPolicyLink" rel="nofollow" href="privacyPolicy.asp?SID=n">Privacy Policy</a>
+			<a id="brandListLink" href="BrandList.asp?SID=n">Brand List</a>
+			<a id="siteMapLink" href="siteMap.asp?SID=n">Site Map</a> 
+		</div>
+		<div class="footerFourthRow">
+			<a id="hhgreggBlogLink" href="http://blog.hhgregg.com/">hhgregg Blog</a>
+			<a id="fineLinesLink" href="http://www.hhgreggFinelines.com" onclick="window.open(this.href,'FineLines'); return false;">Fine Lines</a>
+			<a id="finelinesBlogLink" href="http://www.finelinesblog.com/">Fine Lines Blog</a>
+			<a id="hhgreenLink" href="http://www.hhgreen.org/" target="_blank">hhgreen</a>
+			<a id="commercialDivisionLink" href="http://www.hhgregg.com/commercialDivision" onclick="window.open(this.href,'Commercial'); return false;">
+				Commercial Division
+			</a>
+			<a id="investorRelationsLink" href="http://ir.hhgregg.com">Investor Relations</a>
+			<a id="pressLink" href="http://press.hhgregg.com/" target="_blank">Press Releases</a>		
+		</div>
+	</div>
 </div>
+ 
 
 <div class="footnotes"> 
-	<div id="copyright">Copyright © 2008 hhgregg. All rights reserved.</div>
+	<div id="copyright">Copyright © 2009 hhgregg. All rights reserved.</div>
 	<div id="verisign">
 		<script src="https://seal.verisign.com/getseal?host_name=www.hhgregg.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 		<a href="BrandStore.asp?SID=n&amp;CatalogName=Sony%20Store&amp;BrandStore=Sony"><img src="images/saidm_s1.gif"></a>
@@ -860,12 +835,47 @@ Indianapolis, IN 46240</span><br>
 
 
 
+<script>
+	var modelsOnThePage =""
+	var first = true;
+	$("img").each(function(i){
+		if(this.src.indexOf("images/Product/t") >= 0 || this.src.indexOf("images/product/t") >= 0){
+			foundModelNumber = this.src.match("[_].*[.]jpg")[0].replace("_","").replace(".jpg","")
+			if (first == true){
+				modelsOnThePage = foundModelNumber
+				first = false;
+			}
+			else{
+				modelsOnThePage = modelsOnThePage + "|" + foundModelNumber
+			}
+		}
+		})
+</script>
 
+<div id="igdRTA">
+	<script type="text/javascript" src="http://collect.igodigital.com/igdrta.js"></script>
+	<script type="text/javascript">
+	// iGoDigital RTA Initialization
+	var rtaTags = "";
+	var rtaProductSKU = modelsOnThePage;
+	var rtaSort = "";
+	var rtaFilters = "";
+	var rtaCartAddSKU = "";
+	var rtaCart = "";
+	var rtaEmail = "";
+	var rtaConvertCart = "";
+	var rtaClearCart = "";
+	addLoadEvent(function() {callRTA();});
+	</script>
+</div>
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-	_uacct = "UA-270600-1";
-	urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-270600-1");
+pageTracker._trackPageview();
 </script>
 
 
