@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161345id_/http%3A//nashvillescene.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616134805id_/http%3A//www.nashvillescene.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Nashville Privacy Policy
+
+[](https://web.archive.org/)
+
+Privacy Policy
+
+[](http://www.nashvillescene.com/microsites/bar-wars)
 
 ## Village Voice Media
 
