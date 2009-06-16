@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sjm.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216082744id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sjm.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616070602id_/http%3A//www.sjm.com/legal/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Privacy Policy : Information Collection, Information Use, Children's Privacy, Communications from the Site, Sharing Information, Links to Other Web Sites, Surveys &amp; Contests, Security, Updating Personal Information, Notification of Changes, Contact Information : St. Jude Medical</title>
@@ -58,6 +58,25 @@
 		pageTracker._initData();
 		pageTracker._trackPageview();
 	</script>
+	
+	<!------------------------------------------------------------------------------------------------------------>
+	<!--                                                                                                        -->
+	<!-- Top navigation to Medical Professionals                                                                -->
+	<!--      Two Options:  Links or Tabs to medical professionals  (one chosen dynamically on page load)       -->
+	<!--                                                                                                        -->
+	<!-- Deploy chrome_header_prod1.htm to prod1.sjm.com and chrome_header_prod2.htm to prod2.sjm.com           -->
+	<!--                                                                                                        -->
+	<!------------------------------------------------------------------------------------------------------------>
+	    <!-- Option One:  Tabs:  On prod1.sjm.com -->
+	    <div id="top_nav_prod1" class="top_nav">
+	        <!-- Google analytics tracking the links vs tabs options -->
+	        <a href="http://www.sjmprofessional.com" onclick="javascript:pageTracker._trackPageview('/www.sjmprofessional.com/topnav/tab');" onmouseover="document.TabsProfessionals.src='/assets/chrome/hp_top_tabbedro.gif'" onmouseout="document.TabsProfessionals.src='/assets/chrome/hp_top_tabbed.gif'" target="_blank">
+	           <img name="TabsProfessionals" src="/assets/chrome/hp_top_tabbed.gif" border="0">
+	        </a>	
+	    </div>
+	    
+	<!--------------------------------------------- End Top Navigation Options --------------------------------->
+	
 	<div id="header">
     <div id="logoarea">
 		<div id="logo"><a href="/"><img src="/assets/chrome/logo.gif" alt="SJM Logo - Click to return to home page." width="241" height="44" border="0"></a></div>
@@ -74,38 +93,6 @@
 				<input name="Search" value="Search" class="search_btn" id="Button1" type="submit">
 			</div>
 			
-			<style>
-			    <!-- Move to common.css after we tweak the style -->
-			    .NewsroomNav
-			    {
-			        text-align:right;
-			        font-size:12px;
-			        color:#006C56;
-			        padding-top:2px;
-			        clear:both;
-			        display:none;
-			    }
-			    .NewsroomNav a
-			    {
-			        text-align:right;
-			        font-size:12px;
-			        color:#006C56;
-			        padding-top:2px;
-			    }
-			    .NewsroomNav a:visited
-			    {
-			        color:#006C56;
-			    }
-			    .NewsroomNav a:hover
-			    {
-			        color:#006C56;
-			    }
-			   
-			</style>
-			<!-- turning off with display none above for now -->
-			<div class="NewsroomNav">	    
-			   <a href="/companyinformation/newsroom.aspx">Newsroom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=73836&amp;p=irol-irhome">Investor Relations</a>
-			</div>
 		</form>
 	</div>
 
@@ -123,7 +110,8 @@
       <li><a href="/resources/resourceindex.aspx">Resources</a></li>
       <li><a href="/companyinformation/companyinformationindex.aspx">Our Company</a></li>
       <li><a href="/careers/careerindex.aspx">Careers</a></li>
-      <li><a href="/neuromodulation/SJMProRedirect.aspx" target="_blank">Medical Professionals</a></li>
+      <!-- <li><a href="/neuromodulation/SJMProRedirect.aspx" target=_blank >Medical Professionals</a></li> -->
+      <li><a href="/mediaroom/mediaroomindex.aspx">Media Room</a></li>
     </ul>
   </div>
 		
@@ -411,8 +399,8 @@ St. Jude Medical is committed to reducing risk and improving patient outcomes by
 	<div class="clearfloat">&nbsp;</div>
 </div> <!-- container -->
 <div id="footer">
-	<div id="copyright">© 2008 St. Jude Medical, Inc.</div>
-	<div id="footer_links"><a href="/globals/contactus.aspx">Contact Us</a> | <a href="/companyinformation/aboutus.aspx?section=Locations">Locations</a> | <a href="/globals/sitemap.aspx">Site Map</a> | <a href="/globals/glossary.aspx">Glossary</a> | <a href="/legal/privacypolicy.aspx">Privacy Policy</a> | <a href="/legal/legalterms.aspx">Legal Terms</a> | <a href="http://connect.sjm.com/">SJM Connect</a></div>
+	<div id="copyright">© <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 St. Jude Medical, Inc.</div>
+	<div id="footer_links"><a href="/globals/contactus.aspx">Contact Us</a> | <a href="/companyinformation/aboutus.aspx?section=Locations">Locations</a> | <a href="/globals/sitemap.aspx">Site Map</a> | <a href="/globals/glossary.aspx">Glossary</a> | <a href="/legal/privacypolicy.aspx">Privacy Policy</a> | <a href="/companyinformation/aboutus.aspx?section=SafeHarborPolicy ">Safe Harbor Policy</a> | <a href="/legal/legalterms.aspx">Legal Terms</a> | <a href="http://connect.sjm.com/">SJM Connect</a></div>
 </div>
 
 
