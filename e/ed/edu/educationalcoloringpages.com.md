@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011842id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065652id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy Educational Coloring Pages
+# Educational coloring pages privacy policy
 
 **1\. Consent for Collection, Use and Disclosure**
 
 Your use of this site and/or your registration for products and services constitute your consent to the terms of this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not use the site. 
 
-This Privacy Policy may be updated from time to time.  When this happens the “last update” date at the top of this Privacy Policy will be amended.  In addition we will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. **  ** We will notify customers by email **** of changes to this policy that will affect information collected from them in the future.  In certain circumstances, however, we will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order. 
+This Privacy Policy may be updated from time to time.  When this happens the “last update” date at the top of this Privacy Policy will be amended.  In addition we will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. **  ** We will notify customers by email of changes to this policy that will affect information collected from them in the future.  In certain circumstances, however, we will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order. 
 
 A customer may withdraw his or her consent for collection, use and disclosure at any time although this may result in suspension of the provision of products and or services to you.  If you unsubscribe within the guarantee period for any product and you request a refund the guarantee will be honored. 
 
@@ -47,7 +47,7 @@ A cookie is a small amount of information sent from a Web server to your compute
 This site does not sell, rent or disclose your personal information to anyone else, except:   
 to ’s employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on ’s behalf for any of the following identified purposes:
 
-As necessary if there is reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with ’s rights or property, other users of ’s web site, products or services, or anyone else that could be harmed by such activities; and ****
+As necessary if there is reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with ’s rights or property, other users of ’s web site, products or services, or anyone else that could be harmed by such activities; and 
 
 To respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. 
 
@@ -63,7 +63,7 @@ We have implemented technology and security features, as well as strict internal
 
 Furthermore we will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose. 
 
-We will use reasonable efforts to protect customers’ personal information. ****
+We will use reasonable efforts to protect customers’ personal information. 
 
 **7.Access to Personal Information**
 
