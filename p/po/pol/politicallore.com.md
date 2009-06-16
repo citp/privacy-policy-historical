@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003415id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617010908id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Political Lore .com
 
@@ -12,14 +12,20 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
 
-With respect to cookies: We do not set any cookies.
+With respect to cookies: We do not personally set any cookies… but our advertisers might.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-AdToll
+Adsdaq
 
-Phpadsnew
+Ad.com
 
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Burst Media
 
-[](http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Slashdot It!") [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Digg This Story") [](http://reddit.com/submit?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Reddit") [](http://del.icio.us/post?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Save to del.icio.us") [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy "Share on Facebook") [](http://technorati.com/faves?add=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy "Add to my Technorati Favorites") [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Save to Google Bookmarks") [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.politicallore.com%2Fprivacy-policy&title=Privacy+Policy "Stumble it!")
+Cj.com
