@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitokyo.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151507id_/http%3A//support.minitokyo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitokyo.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065232id_/http%3A//support.minitokyo.net/privacy) for the most accurate reproduction.*
 
 # Minitokyo Privacy Policy - Minitokyo
 
@@ -27,7 +27,7 @@ The purpose for this information is actually two-fold. One, Minitokyo has found 
 
 Cookies are small pieces of data that are transferred to your computer's hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The Minitokyo website utilizes cookies as a means of providing personalization features to our visitors. For example, we utilize cookies to remember settings (background music selections, wallpapers preferences, etc.) that you may have made at our website. 
 
-You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser\'s help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
+You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser's help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
 
 ### What other information does Minitokyo request?
 
@@ -50,11 +50,17 @@ Minitokyo uses reasonable precautions to keep the information disclosed to us se
 
 ### Third Party Advertising
 
-We use CPX Interactive INC, BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use Valueclick Media and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 ### Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. 
 
