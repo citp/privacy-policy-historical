@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042209id_/http%3A//www.paytrust.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202246id_/http%3A//www.paytrust.com/privacy.shtml) for the most accurate reproduction.*
 
 # Paytrust : Paytrust Privacy and Security Guarantee
 
