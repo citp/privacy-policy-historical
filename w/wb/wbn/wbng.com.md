@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164157id_/http%3A//www.wbng.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135547id_/http%3A//www.wbng.com/inside/privacy) for the most accurate reproduction.*
 
 # WBNG-TV Binghamton, NY | WBNG Privacy Policy
 
