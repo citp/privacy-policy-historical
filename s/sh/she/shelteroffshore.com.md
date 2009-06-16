@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shelteroffshore.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617214004id_/http%3A//www.shelteroffshore.com/index.php/shelter/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelteroffshore.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133609id_/http%3A//www.shelteroffshore.com/index.php/shelter/privacy-policy) for the most accurate reproduction.*
 
-# Shelter Offshore Privacy Policy
-
-This privacy policy sets out how Shelter Offshore uses and protects any information that you give Shelter Offshore when you use our website.
+# Shelter Offshore: Privacy Policy
 
 Shelter Offshore is committed to ensuring that your privacy is fully protected at all times. Should we ever need to ask you to provide certain information by which you can be identified when using our website, then you can be assured that it will only be used in accordance with this privacy statement.
 
