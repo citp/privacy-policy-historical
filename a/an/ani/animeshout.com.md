@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081741id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174925id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
 
-# Watch Privacy Policy English Subtitles/Subbed/Dubbed/Dub | Watch Privacy Policy Free Anime Show Online »
+# Privacy Policy »
 
 [ ](http://www.animeshout.com/privacy-policy "Permanent Link to Privacy Policy")
-
-## **Privacy Policy**
 
 AnimeShout understands the importance of privacy and respects each and every visitor’s rights, that’s why this privacy policy was adapted. This Privacy Policy lets you know how your personal information is processed and used.
 
