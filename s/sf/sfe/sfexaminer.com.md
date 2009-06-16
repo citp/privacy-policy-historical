@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164507id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfexaminer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135841id_/http%3A//www.sfexaminer.com/info/privacy) for the most accurate reproduction.*
 
-# www.sfexaminer.com >> Privacy Policy
+# SFEXAMINER.COM PRIVACY POLICY | San Francisco Examiner
 
 **SCOPE OF THIS PRIVACY POLICY**
 
@@ -65,3 +65,6 @@ We respect your right to make choices about the ways we collect, use and disclos
 **EFFECTIVE DATE OF THIS PRIVACY POLICY**
 
 This Privacy Policy is effective as of August 15, 2008.
+
+  
+
