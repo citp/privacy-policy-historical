@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilityboardsupply.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160145id_/http%3A//www.utilityboardsupply.com/page_221.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilityboardsupply.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174414id_/http%3A//www.utilityboardsupply.com/page_221.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Largest skateboard mailorder Shop online. Utility Board Supply carries a huge selection from top brand such as: DVS Shoes, Adio Shoes, Es Shoes, Emerica and more. at Utility Board Supply
 
