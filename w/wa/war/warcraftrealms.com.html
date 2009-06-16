@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the warcraftrealms.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216153536id_/http%3A//www.warcraftrealms.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the warcraftrealms.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616180438id_/http%3A//www.warcraftrealms.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -15,7 +15,7 @@
 </style>
 <!-- all code to make the dropdowns work -->
 <script type="text/javascript" src="/js/dhtml.js"></script>
-<script type="text/javascript" src="http://adv.cooperhosting.net/delivery/spcjs.php?id=2"></script>
+<script type="text/javascript" src="http://d1.openx.org/spcjs.php?id=4150&amp;target=_blank"></script>
 
 
 <!-- Begin Tribal Fusion Text Links -->
@@ -27,6 +27,7 @@
                                     </script>
                                         <script src="http://ctxt.tribalfusion.com/ctxt/textlinks.js" type="text/javascript"></script>
                                         <!-- _End_ Tribal -->
+
 </head>
 <body onresize="LoadMenus();"><a name="top" id="top"></a>
 <div id="EchoTopic">
@@ -81,6 +82,13 @@
 <!-- page content area -->
 
       <div id="content-container">
+      
+<div id="throbber" style="display:none;">
+        <h1>Translating...</h1>
+        <p>We are translating the content for you.  Content will be translated
+        bit by bit and this message will disappear once translation has comnpleted!</p>
+</div>
+      
 
         <table cellspacing="0" cellpadding="0" border="0" style="width: 100%; _width: auto;">
         <tbody><tr>
@@ -140,7 +148,7 @@
             <a href="privacy.php">Privacy Policy</a>&nbsp;|&nbsp;
             <a href="conduct.php">Conduct</a>&nbsp;|&nbsp;
             <a href="advertising.php">Advertise</a>&nbsp;|&nbsp;
-            <a href="copyright.php">© 2004-07 WarcraftRealms.com</a>
+            <a href="copyright.php">© 2004-2009 WarcraftRealms.com</a>
         </div>
       </div>
     </div>
@@ -152,10 +160,13 @@
 
 <!-- dynamic dropdown menu (builds the layers with the dropdown menu) -->
 <div id="menu0Div" class="dropdown" onmouseover="StopTimer();" onmouseout="StartTimer('Hide(0)');">
-  <div class="menu-active"><a href="#">English</a></div>
-  <div class="menu-active"><a href="#">French</a></div>
-  <div class="menu-active"><a href="#">German</a></div>
-  <div class="menu-active"><a href="#">Spanish</a></div>
+        <div class="menu-active"><a href="#" onclick="startTranslation('en');return false;">English</a></div>
+        <div class="menu-active"><a href="#" onclick="startTranslation('fr');return false;">French</a></div>
+
+        <div class="menu-active"><a href="#" onclick="startTranslation('de');return false;">German</a></div>
+        <div class="menu-active"><a href="#" onclick="startTranslation('es');return false;">Spanish</a></div>
+        <div class="menu-active"><a href="#" onclick="startTranslation('ru');return false;">Russian</a></div>
+        </div>
 </div>
 <div id="menubg0Div" class="dropdown-shadow"></div>
 
@@ -258,7 +269,7 @@
 <!-- end dynamic menu -->
 
     
-    </div>
+    
     <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
     <script type="text/javascript">
         _uacct = "UA-131639-1";
