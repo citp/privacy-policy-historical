@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421165433id_/http%3A//www.motorbase.com/content/Motorbase/About%2520Us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbase.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133620id_/http%3A//www.motorbase.com/content/Motorbase/About%2520Us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Motorbase
 
