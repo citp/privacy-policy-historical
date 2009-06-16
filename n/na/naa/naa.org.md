@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090241id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171912id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Newspaper Association of America: Advancing Newspaper Media for the 21st Century
 
+Join your industry colleagues and NAA experts in the new NAA Community, a tool that allows you and your colleagues the opportunity to share best practices, resources and success stories and to stay on top of the important industry issues that matter to you. Read the [NAA Community FAQs](http://www.naa.org/Resources/Articles/NAA-Community-FAQs.aspx) to learn more.
+
+Already participating in NAA Community? [Sign in](http://community.naa.org/) now.     |    
+
+Ready to join the Community? [Get started](http://community.naa.org/) today!
+
+| 
+
 ### Privacy Policy
+
+  
+
 
 This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [feedback@naa.org](mailto:feedback@naa.org) and by telephone at (571) 366-1000. 
 
@@ -27,3 +38,6 @@ Prior parental consent is not required for NAA to accept personal information fr
 NAA's Web site contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites. 
 
 Questions or concerns regarding what is done with information provided via this site should be directed to [feedback@naa.org](mailto:feedback@naa.org) before any information is submitted. 
+
+|   
+---|---|---
