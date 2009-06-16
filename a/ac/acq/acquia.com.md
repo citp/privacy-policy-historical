@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034628id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617014318id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acquia
 
@@ -17,7 +17,7 @@ We may use your personally identifiable information to register you to use our s
 
 If you install and use the “Acquia agent” and “Acquia site information” modules within the Acquia Drupal software and connect your installation of Acquia Drupal to our Acquia Network service, these modules will report to us, and we will collect, your IP address, operating system type and version, web server type and version, php version, database type and version, version of the services, modifications to the Drupal code, information regarding the availability of your website (e.g. if your website is live or down), website user statistics such as the number of nodes, number of users and number of comments. The foregoing information will be linked to your personally identifiable information and user accounts and we may use the foregoing information to better provide technical support to you and our customers and to improve our services.
 
-If you install and use the Mollom spam blocking module within Acquia Drupal and connect your installation of Acquia Drupal to Mollom service delivered through the Acquia Network service, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and your site visitors and content submitted by your site visitiors for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
+If you install and use the Mollom spam blocking module within Acquia Drupal and connect your installation of Acquia Drupal to Mollom service delivered through the Acquia Network service, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and your site visitors and content submitted by your site visitors for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
 
 If you submit information to our web site, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
 
