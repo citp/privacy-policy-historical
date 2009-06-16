@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asq.org privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216035148id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asq.org privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616181943id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- #BeginTemplate "/templates/generic_blue.dwt" --><!-- DW6 --><head>
 <!-- #BeginEditable "doctitle" --> 
@@ -47,18 +47,27 @@
 </div>
 
 
-
 <!--// This can only be seen on pages witin the /members directory //-->
  <div class="myASQblockPeek" id="myMenu">
+
+<!--// UPDATED SUB-MENU BASED ON MEMBER LEVEL LOGIN 
+<div id="snippet3"></div>
+//-->
+
+<!--// ORIGINAL SUB-MENU  //--> 
 <h2><a href="/members/index.html"><img class="qualityBy" src="/img/templates/shared/my-member-site.jpg" alt="My ASQ" width="160" height="29" border="0"></a></h2>
+
 <ul class="blue">
 <li><a href="/members/certification/index.html">My Certifications</a></li>
+<!-- li><a href="/learninginstitute/mylearning.html">My Learning</a></li -->
 <li><a href="/members/news/index.html">My News</a></li>
 <li><a href="/perl/members/bookmarks.pl?action=viewbookmarks&amp;ctx=myasq">My Saved Articles</a></li>
 <li><a href="/members/communities/index.html">My Communities</a></li>
 <li><a href="/members/account/manage-account.html">My Account</a></li>
-<script>if (this.isLeader) { document.write('<li><a href="/members/leaders/overview.html">Member Leader Area</a></li>') }</script>
-</ul>  
+</ul>
+
+<script>if (this.isLeader) { document.write('<h2><a href="/member-leader-community/index.html"><img class="qualityBy" src="/img/templates/shared/my-member-leader.jpg" alt="My ASQ" width="160" height="29" border="0" /></a></h2>') }</script>
+
 </div>  
 <!--// END members only menu //-->
 
@@ -87,9 +96,11 @@
       <li><a href="/2008-futures-study/index.html">The Future of Quality</a></li>
       <li><a href="/global-issues/index.html">Global Issues</a></li>
       <li><a href="/knowledge-center/iso-9001/index.html">ISO 9001:2008</a></li>
-	  <li><a href="/making-the-case/index.html">Making the Case for Quality</a></li>
-	  <li><a href="/six-sigma/index.html">Six Sigma</a></li>
+	  <li><a href="/six-sigma/index.html">Lean Six Sigma</a></li>
+      <li><a href="/making-the-case/index.html">Making the Case for Quality</a></li>
+      <li><a href="/knowledge-center/pharmaceutical-gmp-professional-certification/index.html">Pharmaceutical GMP<br>Professional Certification</a></li>
 	  <li><a href="/social_responsibility/index.html">Social Responsibility</a></li>
+	  <li><a href="/knowledge-center/economy/index.html">Surviving the<br>Economic Crisis</a></li>
   </ul>
 	   </li>
 	   <li class="contracted" classname="contracted">
@@ -161,7 +172,11 @@
 
       </td>
       <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
-          
+          <script type="text/javascript">
+getCookie("SpecialMessage");
+specialMessage();
+</script>
+
 <tbody><tr>
   <td id="loginarea"><a href="/members/"><span class="bluebold">Members Log In to My ASQ</span></a> <img src="/img/templates/nonmember/header-member-login.gif" alt="Members Log In">&nbsp;&nbsp;
   <a href="https://secure.asq.org/perl/scart/catalog.cgi?cart=view">View Shopping Cart</a> <img src="/img/templates/nonmember/header-shopping-cart.gif" alt="Shopping Cart">&nbsp;&nbsp;
@@ -439,11 +454,17 @@
     <br><a href="/site-map.html">
   Site Map</a> | <a href="/links/">Links</a></p>
 </div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-411753-1";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+_udn = ".asq.org"; 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-411753-1");
+pageTracker._setDomainName(".asq.org");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 <script src="/includes/scripts/webtrends/wtid.js" type="text/javascript"></script><script type="text/javascript" src="https://sdc.asq.org/dcshc0ot110000wgq4570kp3a_6h6i/wtid.js"></script>
 <script src="/includes/scripts/webtrends/wtbasetag.js" type="text/javascript"></script>
 <noscript>
@@ -456,6 +477,10 @@ urchinTracker();
 <!--// end special message  //-->
 
 <script type="text/javascript" language="JavaScript" src="/includes/toggle.js"></script>
+
+
+
+
 
 <!--//********** scripting for first visit cookie and subsequent pop-up **********//-->
 <!--//****************************************************************************//-->
