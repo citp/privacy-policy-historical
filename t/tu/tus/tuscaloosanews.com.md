@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuscaloosanews.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015122731id_/http%3A//www.tuscaloosanews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscaloosanews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065309id_/http%3A//www.tuscaloosanews.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | TuscaloosaNews.com | The Tuscaloosa News | Tuscaloosa, AL
+# PRIVACYPOLICY | TuscaloosaNews.com | Tuscaloosa News
 
 This Privacy Policy discloses the privacy practices for Tuscaloosa News newspaper and TuscaloosaNews.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “Tuscaloosa News” include TuscaloosaNews.com and Tuscaloosa News newspaper. Tuscaloosa News is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
@@ -81,7 +81,7 @@ Tuscaloosa News may perform statistical, demographic and marketing analyses of s
 
 ### Products and Service Message from Tuscaloosa News
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by Tuscaloosa News, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by Tuscaloosa News, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/TNEW_DNM.html).
 
 ### Banner Advertising
 
