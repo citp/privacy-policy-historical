@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the cheapair.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216015807id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapair.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616193000id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy - CheapAir.com</title><meta name="description" content="Privacy policy for CheapAir.com"><meta name="keywords" content="privacy policy, cheap airfares, cheap, Low fare, Fares, Lowfare, cheep tickets, Airfare, air fare, cheap Flights, cheap airfare, cheap airline tickets, airline tickets, cheap plane tickets, discount airlines, flight search, discount internet air fares, international flights, flights, low cost airline, low cost air fare, flight fares, discount airfare"><meta name="verify-v1" content="4GuTl3SwWLKqbaLfxy0DCuQ215BfP/yy4mGy5Ag0sm0="><meta name="verify-v1" content="G7i65cqO/6Kwc8BN7h/BQt1cJc226sxOMahI4lrcKUQ="><link type="text/css" rel="stylesheet" href="/css2/all.atsx"><link type="text/css" rel="stylesheet" href="/css2/add/print.atsx" media="print">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy - CheapAir.com</title><meta name="description" content="Privacy policy for CheapAir.com"><meta name="keywords" content="privacy policy, cheap airfares, cheap, Low fare, Fares, Lowfare, cheep tickets, Airfare, air fare, cheap Flights, cheap airfare, cheap airline tickets, airline tickets, cheap plane tickets, discount airlines, flight search, discount internet air fares, international flights, flights, low cost airline, low cost air fare, flight fares, discount airfare"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link type="text/css" rel="stylesheet" href="/css2/all.atsx"><link type="text/css" rel="stylesheet" href="/css2/add/print.atsx" media="print">
 	<script language="javascript" type="text/javascript" src="/js2/all.atsx"></script>
 	<link rel="shortcut icon" href="/favicon.atsx"></head>
-<body onload="if(JsForm.loaded)return;JsForm.loaded=true;if(window.pgLoad)pgLoad();if(window.JsForm)JsForm.ft=false;" onpageshow="this.onload();if(window.JsForm)JsForm.mzLoad();">
+<body onload="if(JsForm.loaded)return;JsForm.loaded=true;if(window.pgLoad)pgLoad();if(window.highlightFirst)highlightFirst();" onpageshow="this.onload();if(window.JsForm)JsForm.mzLoad();">
 <div id="container">
 <div id="content" class="full">
 	<div id="bodyTop" class="full"></div>
@@ -72,27 +72,40 @@
 	<div id="navMini">
 		<ul>
 <script language="javascript" type="text/javascript">
-if(ckGet("ul")=='')document.write('<li><a href="https://www.cheapair.com/login.aspx?url=https%3a%2f%2fwww.cheapair.com%2fprivacy.aspx%3f08_%3dyhll2u552fiaph553her3cyp">Log in</a></li><li><a href="/register.htm">Register</a></li>');
+if(ckGet("ul")=='')document.write('<li><a href="https://www.cheapair.com/login.aspx?url=https%3a%2f%2fwww.cheapair.com%2fprivacy.aspx%3f08_%3dalyebg55p2g4mybygdd34tbw">Log in</a></li><li><a href="/register.htm">Register</a></li>');
 else document.write('<li><a href="/logout.htm">Log out</a></li>');
-</script><li><a href="https://www.cheapair.com/login.aspx?url=https%3a%2f%2fwww.cheapair.com%2fprivacy.aspx%3f08_%3dyhll2u552fiaph553her3cyp">Log in</a></li><li><a href="/register.htm">Register</a></li>
+</script><li><a href="https://www.cheapair.com/login.aspx?url=https%3a%2f%2fwww.cheapair.com%2fprivacy.aspx%3f08_%3dalyebg55p2g4mybygdd34tbw">Log in</a></li><li><a href="/register.htm">Register</a></li>
 			<li><a href="/help/">Help!</a></li>
 		</ul>
 	</div>
-	<div id="navContact"></div>
+	<div id="navContact"><div id="navContact-flash"></div></div>
 	<script language="javascript" type="text/javascript">
+	
+				/*
 	    		var so = new SWFObject("/images/contact.atsx","contact", "116", "21", "9", "#FFFFFF");
-				so.addParam("wmode","transparent");
-				so.addParam("menu","false");
-				so.addParam("allowScriptAccess", "always");
-				so.write("navContact");
+					so.addParam("wmode","transparent");
+					so.addParam("menu","false");
+					so.addParam("allowScriptAccess", "always");
+					so.write("navContact");
+				*/
+				var params = {
+					bgcolor:'#fff',
+					menu:'false',
+					wmode:'transparent',
+					allowscriptaccess:'always'
+				}
+				var flashvars = {}
+				var attributes = {
+					id:'contact',
+					name:'contact'
+				}
 				if(Page.isIE)
 				{
-					run=function(){so.write("navContact");}
+					run=function(){swfobject.embedSWF("/images/contact.atsx","navContact-flash","116","21","9.0.0",false,flashvars,params,attributes);}//run=function(){so.write("navContact");}
 					setTimeout("run()", 1);
 				}
 				else
-					so.write("navContact");
-				
+					swfobject.embedSWF("/images/contact.atsx","navContact-flash","116","21","9.0.0",false,flashvars,params,attributes);
 	</script>
 </div>
 <div id="footer" class="full">
@@ -120,7 +133,7 @@ else document.write('<li><a href="/logout.htm">Log out</a></li>');
 		<li><a href="http://www.cheapair.com/flights/Colorado/Denver">Denver flights</a></li>
 		<li><a href="http://www.cheapair.com/flights/Florida/Ft._Lauderdale">Fort Lauderdale flights</a></li>
 		<li><a href="http://www.cheapair.com/flights/Hawaii/Honolulu">Honolulu flights</a></li>
-		<li><a href="http://www.cheapair.com/flights/Texas/Houston">Huston flights</a></li>
+		<li><a href="http://www.cheapair.com/flights/Texas/Houston">Houston flights</a></li>
 		<li><a href="http://www.cheapair.com/flights/Indiana/Indianapolis">Indianapolis flights</a></li>
 		<li><a href="http://www.cheapair.com/flights/Nevada/Las_Vegas">Las Vegas flights</a></li>
 		<li><a href="http://www.cheapair.com/flights/California/Los_Angeles">Los Angeles flights</a></li>
@@ -168,7 +181,7 @@ else document.write('<li><a href="/logout.htm">Log out</a></li>');
 </div>
 
 
-<p id="copyrt">Copyright © 2002-2008 CheapAir.com. All rights reserved. CST 1015001-10.</p>
+<p id="copyrt">Copyright © 2002-2009 CheapAir.com. All rights reserved. CST 1015001-10.</p>
 <script language="javascript" type="text/javascript">var Support={mail:function(){document.location.href='http://www.cheapair.com/support.htm';}}</script>
 
 
