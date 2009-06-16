@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043852id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175020id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20081216043852id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20090616175020id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -49,37 +49,14 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:info@i-tech.com.au) to contact us. 
 
-|  |  | 
-
-| Shopping Cart  
----  
-  
-[](http://www.i-tech.com.au/Christmas.aspx)
-
-[](http://www.i-tech.com.au/Adsltpg.aspx)
-
-[ ](http://www.i-tech.com.au/Flexirent.aspx)  
-  
-| Recent Purchases  
----  
-| [ PQI i231 4GB USB2.0 Flash Drive. Clip-On Lid, Slick Black Colour, LED Indicators ](http://www.i-tech.com.au/products/31511_PQI_i231_4GB_USB2_0_Flash_Drive__Clip.aspx)  
----  
-$16.00   
-[ ViewSonic VX2835WM 27.5"W, 2ms, 1920x1200, 500nits, 800:1, VGA, HDMI, SVIDEO, SPKS ](http://www.i-tech.com.au/products/19206_ViewSonic_VX2835WM_27_5_W__2ms__1920x1200.aspx)  
-$959.00   
-[ Altusen 8 Port Serial Over The Net ](http://www.i-tech.com.au/products/16828_Altusen_8_Port_Serial_Over_The_Net.aspx)  
-$1,099.00   
-[ SANDISK MICRO SDHC 16G SDSDQ-016G-P36M ](http://www.i-tech.com.au/products/32555_SANDISK_MICRO_SDHC_16G_SDSDQ_016G.aspx)  
-$120.00   
-[ HP BRIGHT WHITE INKJET PAPER 300(90GSM 300FT 36"ROLL) ](http://www.i-tech.com.au/products/15342_HP_BRIGHT_WHITE_INKJET_PAPER_300_90GSM.aspx)  
-$79.00   
-   
+|  |   
+---|---|---|---|---  
   
   
 ---  
   
 Best view in 1024 x 768 screen resolution 
 
-[[ www.i-tech.com.au ]](http://www.i-tech.com.au/)   -  [[ www.abit.com.au ]](http://www.abit.com.au/)   -  [[ www.ibuy.com.au ]](http://www.ibuy.com.au/)
+[[ www.spotit.com.au ]](http://www.spotit.com.au/)   -  [[ www.abit.com.au ]](http://www.abit.com.au/)   -  [[ www.ibuy.com.au ]](http://www.ibuy.com.au/)
 
 We ship to all states within Australia: New South Wales (NSW), Victoria (VIC), Australian Capital Territory (ACT), Queensland (QLD), South Australia (SA), Tasmania (TAS), Western Australia (WA), Norther Territory (NT). Major areas covered include: Adelaide, Albany, Alice Springs, Armidale, Balladonia, Brisbane, Carnarvon, Broome, Bundaberg, Byron Bay, Cairns, Canberra, Carnarvon, Central Cost, Coffs Harbour, Cooktown, Darwin, Derby, Geraldton, Georgetown, Gladstone, Gold Coast, Groken Hill, Hobart, Kalgoorlie, Karumba, Katherine, Larrimah, Launceston, Lismore, Mackay, Melbourne, Minilya, Moree, Newcastle, Noosa, Northam, Perth, Port Hedland, Portland, Port Lincoln, Port Macquarie, Rockhampton, Sunshine Coast, Southern Cross, Sydney, Townsville, Wollongong, Tweed Head.
