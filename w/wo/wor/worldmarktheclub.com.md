@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055905id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185009id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -9,9 +9,6 @@ Resort Gallery
 Advanced Search  
 Accessibility Guides  
 Inventory Specials  
-Travel For Credits  
-Last Minute Travel  
-Other Specials  
 WorldMark Travel  
 Vacation Forum  
 Owner Education  
