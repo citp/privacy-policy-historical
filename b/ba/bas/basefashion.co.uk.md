@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basefashion.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055740id_/http%3A//www.basefashion.co.uk/shop/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basefashion.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617000419id_/http%3A//www.basefashion.co.uk/shop/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Boys Base
 
