@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyshow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023842id_/http%3A//www.moneyshow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyshow.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061529id_/http%3A//moneyshow.com/privacy.asp) for the most accurate reproduction.*
 
 # MoneyShow.com Privacy Page
 
@@ -27,7 +27,7 @@ With your permission (through our “opt-in” messages on registration or speci
 
 CHANGES TO THIS POLICY: If our policy changes, we will post the new policy on the Web site and changes will be made applicable within 24 hours. Please check back often to review the latest changes.
 
-How to contact us about privacy issues: by mail, send correspondence to: Customer Service, MoneyShow.com or InterShow, 1258 North Palm Avenue, Sarasota, FL 34236. By e-mail send inquiries to: [content@InterShow.com](mailto:content@InterShow.com).   
+How to contact us about privacy issues: by mail, send correspondence to: Customer Service, MoneyShow.com or InterShow, 1258 North Palm Avenue, Sarasota, FL 34236. By e-mail send inquiries to: [content@moneyshow.com](mailto:content@moneyshow.com).   
 
 
 Last updated: June 9, 2008—#699120.1
