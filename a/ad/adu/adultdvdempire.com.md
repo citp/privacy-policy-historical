@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003527id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133128id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
@@ -96,7 +96,7 @@ The only email messages you will receive from dvdempire.com when you elect not t
 
 The security of your personal information is very important to us. In our efforts to protect your online transactions, we use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your personal information will be automatically encrypted, or encoded, before it is sent over the Internet. 
 
-DVD Empire has also obtained a digital certificate from _Verisign, Inc._ , a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to a dvdempire.com Web server, not to some unknown or unauthorized server. 
+DVD Empire has also obtained a digital certificate from _DigiCert_ , a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to a dvdempire.com Web server, not to some unknown or unauthorized server. 
 
 Ultimately, your personal information is protected by the password you created when you registered for an account at dvdempire.com (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](http://www.dvdempire.com/exec/cust_service/accounts/index.asp?userid=-1&site=1). Log in with your username and password, then click "Change Password" and enter a new password. 
 
