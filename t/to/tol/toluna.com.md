@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toluna.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152333id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toluna.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184958id_/http%3A//www.toluna.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy, Toluna.com
+# Privacy Policy | Toluna
 
 ## MEMBER PRIVACY POLICY
 
@@ -62,7 +62,8 @@ Panel Manager, Toluna
 14 Place Marie-Jeanne Bassot  
 92300 Levallois-Perret  
 t: +33 (0)1 40 89 71 00  
-f: +33 (0)1 40 89 71 01 
+f: +33 (0)1 40 89 71 01  
+
 
 ## Definitions: 
 
