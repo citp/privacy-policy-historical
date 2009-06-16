@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154943id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksinthemail.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616194435id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
 # Checks In The Mail - Online Privacy Policy
 
