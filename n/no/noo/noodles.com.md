@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055300id_/http%3A//www.noodles.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616085420id_/http%3A//www.noodles.com/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Noodles & Company - Privacy Policy
 
@@ -14,4 +14,4 @@ Children. We love children. Many of us at Noodles & Company have lots of them an
 
 Links To Other Sites. We may have links to other sites. We are not aware of, nor do we monitor, other sites' privacy policies or how well they comply with their policies. We accept no responsibility for such sites' policies, terms and conditions, or the content on those sites. We encourage you to review and understand their privacy policies before providing them with private information. 
 
-Changes To Your Account, Opt-Out Of Promotions, and Questions. If you would like to change any information on your account or if you do not want to receive any electronic promotional information from us, please email [GuestRelationsSupport@fishbowl.com](mailto:GuestRelationsSupport@fishbowl.com). We may nonetheless contact you from time to time to provide services or products you request, for customer service matters, and to provide you notice of any changes to our policies or existing services.
+Changes To Your Account, Opt-Out Of Promotions, and Questions. If you would like to change any information on your account or if you do not want to receive any electronic promotional information from us, please email [NoodleseClubSupport@f](mailto:NoodleseClubSupport@fishbowl.com?subject=Noodlegrams)ishbowl.com. We may nonetheless contact you from time to time to provide services or products you request, for customer service matters, and to provide you notice of any changes to our policies or existing services.
