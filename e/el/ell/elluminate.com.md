@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003212753id_/http%3A//elluminate.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071557id_/http%3A//www.elluminate.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Elluminate | Privacy Policy
+# elearning Privacy Policy | Elluminate Inc.
 
 |  |   
 ---|---  
   
-[](https://web.archive.org/about.jsp)
+[](https://web.archive.org/company/about-us.jsp)
 
-[](https://web.archive.org/products.jsp)
+[](https://web.archive.org/products/index.jsp)
 
 [](https://web.archive.org/accessibility.jsp)
 
@@ -17,11 +17,11 @@
 
 [](https://web.archive.org/support/training/index.jsp)
 
-[](https://web.archive.org/partners/)
+[](https://web.archive.org/partner-info/index.jsp)
 
 [](https://web.archive.org/info_form.jsp)
 
-[](https://web.archive.org/buy_now.jsp)
+[](https://web.archive.org/products/vspaces/index.jsp)
 
 [](https://web.archive.org/community/index.jsp)  
   
@@ -122,4 +122,4 @@ This Privacy Policy does not create or confer upon any individual any rights, or
 
 DMSLegal\052523\00001\ 2759402v2 
 
-Copyright ©2001-2008 Elluminate, Inc. All Rights Reserved.(103) 
+Copyright ©2001-2009 Elluminate, Inc. All Rights Reserved.(103) 
