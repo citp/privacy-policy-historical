@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044135id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202835id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Travelguru - Privacy Policy
 
@@ -59,13 +59,13 @@ Travelguru frequently sponsors promotions and sweepstakes to give Travelguru.com
 top  
 |  | _With whom (if anyone) will my personal information be shared?_  
 ---|---  
-  | When you reserve or purchase travel services through Travelguru, we must provide some of your personal information to the airline, hotel, car-rental agency, travel agency or other involved third party to enable the successful fulfillment of your travel arrangements. However, we do not sell or rent individual customer names or other personal information to third parties.
+  | When you reserve or purchase travel services through Travelguru, we must provide some of your personal information to the airline, hotel, car-rental agency, travel agency or other involved third party to enable the successful fulfillment of your travel arrangements.
 
 From time to time, we may disclose your Personal Information as follows: 
 
   * To those travel service providers with which you make arrangements through our Site, for example, airlines, car rental, hotel, ground transportation, theater, attraction, or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation.
   * To organizations that perform services for or on behalf of Travelguru, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a visitor, or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Travelguru, and under the instructions of Travelguru, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
-  * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles, and promotions. We will share Personal Information that is necessary for these other companies to provide the products or services that you have requested.
+  * Occasionally, we may collaborate with reputable, carefully-screened partners or other companies for the purpose of providing you with additional Products, Services, Information or Promotional opportunities. We will share your Personal Information that is necessary for these other companies to contact you for providing their products or services. We make no warranty, express, implied, or otherwise as to the privacy and data security practices of these other companies referenced in this paragraph.
 
 This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services. 
   * We may also disclose your information to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such information to send you information about their products, services, other information, and materials that may be of interest to you.
