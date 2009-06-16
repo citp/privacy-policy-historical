@@ -1,69 +1,117 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616115021id_/http%3A//www.ryanseacrest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174147id_/http%3A//www.ryanseacrest.com/privacypolicy) for the most accurate reproduction.*
 
-# RYAN SEACREST - OFFICIAL SITE
+# Official Web Site for Ryan Seacrest
 
-|   | 
+### This Privacy Policy was last updated on October 13, 2008
 
-**  
-****R** **** **YAN SEACREST PRODUCTIONS, INC. ONLINE PRIVACY POLICY**
+**Introduction:** These websites which are located at the domain [ryanseacrest.com](http://www.ryanseacrest.com/) (the "Site") are operated by Ryan Seacrest Productions. ("Ryan Seacrest Productions" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at or at the address at the end of this policy. 
 
-Welcome to THE OFFICIAL RYAN SEACREST WEBSITE, operated by RYAN SEACREST PRODUCTIONS, INC. (“RSP”). Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want you to fully understand our privacy practices, therefore please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. 
+### PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
-**  
-About Children's Privacy**
+  1. Types of Information Collected
+    * Personal Data
+    * Aggregate and Anonymous Data
+  2. Use of Cookies and Other Technologies
+  3. Our Use of Your Information
+  4. Disclosure of Personal Data to Third Parties
+    * Disclosure to Affiliates
+    * Disclosure to Third Parties
+    * Disclosure to Others
+  5. Third Party Advertising and Links to Other Sites
+  6. Your Choice
+  7. Access and Correction
+  8. Children and Privacy
+  9. Message Boards, Chat Rooms, Blogs and Other User Forums
+  10. Data Security
+  11. Exclusions
+  12. Other Terms and Conditions
+  13. Site Location
+  14. Changes to this Privacy Policy
+  15. Contacting Ryan Seacrest Productions Regarding Your Privacy
 
-This is the place in cyberspace where fans of Ryan Seacrest can come to find out more about Ryan. In compliance with the Children’s Online Privacy Protection Act (COPPA), we do not knowingly collect from children under age 13 personally identifiable information (information that would allow anyone to locate children under age 13 online or offline, such as full name, email address, home address, telephone number, etc.). Therefore, children under age 13 may not provide any personally identifiable information on this site. However, they can still enjoy our site by viewing the photo galleries, reading about Ryan and other performers, listening to music and participating in other activities that do not require the disclosure of personally identifiable information.
 
-**  
-1\. Collection of Personal Identifiable Information (“PII”)**
 
- _1.1. General._ RSP collects personal identifiable information (“PII”) such as your full name, email address, mailing address and telephone number only in order to create or enhance our relationship with you. When we collect PII, it is because you are voluntarily submitting this information to us in order to participate in activities such as sweepstakes, contests, games, surveys, forums, subscription registrations, chats or bulletin boards; make comments or suggestions; or request us to furnish you with products, services or information. Where possible, we try to indicate which fields of information are required and which are optional. You always have the option to not provide information by choosing not to use a particular service or feature. On those occasions when we obtain PII from a third party, we only use reputable sources of information. **** _1.2. Cookies._ Cookies are data collection devices in the form of small files that RSP-operated internet sites place on your computer’s hard drive to assist us in providing our services to you. ****
+### 1\. Types of Information Collected:
 
-a. Cookies remember information about your activities on our website and help RSP make your visits to our website more enjoyable. For example, cookies can: store a password for easy log-in during subsequent visits to the site; save your preferences for a personalized home page; or track items placed in a shopping cart. Importantly, the cookie itself does not contain PII and RSP does not combine cookies with PII. RSP may use cookies to relate your use of our website to PII obtained from you or a reputable third party. For example, if you request us to send you information about certain products or promotions, cookies and/or other information about your prior online activities and preferences may enable RSP to limit the materials we send you to only those items we know you will find interesting. However, if RSP wishes to coordinate your personal and website activity in this manner, we will obtain your express written consent.
+####  **Personal Data:** Personally Identifiable Information ("Personal Data") is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cell phone or other wireless devices ("Other Services"). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies. 
 
-b. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the site.
+####  **Aggregate and Anonymous Data:** Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site ("AA Data"). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page. 
 
-c. Please be advised that third party advertisements displayed on an RSP site may also contain cookies. RSP does not control the use of cookies by third parties. Therefore, visitors to our site should check the privacy policies of these third parties to see whether and how they use cookies.
+### 2\. Use of Cookies and Similar Technologies:
 
-**  
-2\. Notice **
+####  Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit "member only" portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order ("Clickstream Data") that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so. 
 
-2.1. Whenever RSP collects PII from you, we will ensure that you are informed about who is collecting the information, how and why the information is being collected, and how RSP intends to use the information.
+####  In addition, we may use a service that collects data remotely by using so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") embedded in the Site's content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. This information is AA data. 
 
-**  
-3\. Choice**
+### 3\. Our Use of Your Data:
 
-RSP uses your PII in a manner consistent with this Privacy Policy and only for the purpose for which you submitted it. At the time your PII is collected, RSP will provide you with the opportunity to choose whether your PII may be used for purposes differenced from the purposes for which it was submitted. You will also be able to choose whether your PII may be shared with outside companies.
+####  **Personal Data:** We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted. 
 
-**  
-4\. Use of PII**
+####  Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data. 
 
- _4.1. General._ RSP may use PII in aggregate, anonymous form for research purposes. In most cases, RSP will delete PII from its records as soon as possible. _4.2. Employees, Agents, Contractors and Affiliates._ RSP employees, agents, contractors and affiliates must have a legitimate business reasons to obtain access to your PII. Outside contractors or agents who help us manage our information activities may only use your PII to provide RSP with a specific services, and not for any other purpose. _4.3. PII Obtained From Third Parties._ If RSP obtains PII from an outside company, our use of that information is governed by this Privacy Policy. _4.4. Compliance With Legal Requirements._ RSP cooperates with law enforcement inquiries as well as other third parties to enforce laws such as intellectual property rights, in order to help protect you and the online community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you hereby authorize us to) disclose your name, city, state, telephone number, email address and online history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the online community free from bad actors, RSP will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except if RSP believes in good faith that the disclosure of PII is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
+####  **AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, Ryan Seacrest Productions often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. Ryan Seacrest Productions may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners. 
 
-4.5. Due to the existing regulatory environment, we cannot guarantee that all of your PII will never be disclosed in ways not described in this Privacy Policy. By way of example, RSP may be forced to disclose personal information to the government or third parties under certain circumstances and third parties may unlawfully intercept or access transmissions or private communications. Therefore, RSP does not promise, and you should not expect, that your PII will always remain private. **  
-**
+####  We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose. 
 
-**  
-5\. Security**
+### 4\. Disclosure of Personal Data:
 
-RSP treats your PII as an asset to be protected. RSP uses reasonable administrative, technical, personnel and physical measures to safeguard PII in our possession against theft, loss and unauthorized use, disclosure or modification. In addition, RSP uses reasonable methods to ensure that your PII is accurate, up-to-date and appropriately complete. However, please be advised that “perfect security” does not exist on the internet.
+####  **Disclosure to Affiliates:** We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at (see "Your Choices" below). 
 
-**  
-6\. Access, Review and Revise Your PII**
+####  **Disclosure to Third Parties:** NBCU, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see "Your Choices" below). In the event you have elected to "unsubscribe" from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. 
 
-_6.1. Access and Review of PII._ Wherever possible, you may review the PII we maintain about you in our databases. To review your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Please be advised that RSP will not be able to provide you with access to PII that we plan to delete from our records as soon as permitted by law. Upon receiving notification from you, RSP will take reasonable steps to correct any PII that you inform us is incorrect. _6.2. Deletion of PII._ To delete your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Upon your request, RSP will delete your PII from our database as soon as reasonably possible in accordance with applicable law. Please be advised that there may be residual information that will remain in RSP’s databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.
+####  **Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of Ryan Seacrest Productions or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process. 
 
-**  
-7\. Amendments to this Privacy Policy**
+####  If Ryan Seacrest Productions sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data. 
 
-From time to time, RSP may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. All amended terms shall be automatically effective thirty (30) days after they are initially posted on the site. Therefore, you should review this Privacy Policy periodically to ensure that you are up-to-date on our most current policies and practices.
+### 5\. Third-Party Advertising and Links to Other Sites:
 
-**  
-8\. Questions, Concerns or Complaints**
+####  This Site may include third-party advertising. These third parties' websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit http://doubleclick.net/privacy_policy or http://networkadvertising.org/optout_nonppii.asp. 
 
-If you have any privacy issues or complaints with respect to RSP’s website and/or this Privacy Policy, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com).
+####  Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site. For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site. Links to other sites may use our Site logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data. 
 
-  
-  
-  
----|---
+### 6\. Your Choices:
+
+####  You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features. If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, visiting the Unsubscribe section of the Site or contacting us at: . You may opt-out of receiving offers from us by adjusting your Site preferences at our Unsubscribe link on this page. If you ask that we stop using your Personal Data, we will honor that request. However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law. 
+
+Unsubscribe 
+
+### 7\. Access and Correction:
+
+####  If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the Unsubscribe section of the Site and follow the appropriate instructions or contact us at . We will take reasonable steps to update or correct Personal Data in our possession. 
+
+### 8\. Children and Privacy:
+
+####  We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. At various places on the Site or Other Services, we may ask users for their age. By using the Site or Other Services you agree to respond truthfully and accurately about your age. Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services. 
+
+### 9\. Message Boards, Chat Rooms, Blogs and Other User Forums:
+
+####  Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public. Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services. 
+
+### 10\. Data Security Disclaimer:
+
+####  Ryan Seacrest Productions takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Ryan Seacrest Productions to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at . 
+
+### 11\. Exclusions:
+
+####  This Privacy Policy shall not apply to any unsolicited information you provide to Ryan Seacrest Productions on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and Ryan Seacrest Productions shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution. 
+
+### 12\. Other Terms and Conditions:
+
+####  Your access to and use of this Site or Other Services is subject to the Terms of Service. 
+
+### 13\. Applicable Law:
+
+####  We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations. 
+
+### 14\. Changes to this Privacy Policy:
+
+####  From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. 
+
+### 15\. Contacting Ryan Seacrest Productions Regarding Your Privacy:
+
+####  If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at , or at the address listed below. 
+
+####  RYANSEACREST.COM FEEDBACK  
+Ryan Seacrest Productions  
+5750 Wilshire Blvd.  
+Los Angeles, CA 90036 
