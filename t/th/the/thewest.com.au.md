@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewest.com.au privacy policy that was archived on 2008-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080627222509id_/http%3A//www.thewest.com.au/default.aspx%3FContentID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewest.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063519id_/http%3A//www.thewest.com.au/default.aspx%3FContentID%3D2) for the most accurate reproduction.*
 
-# Privacy Policy : thewest.com.au
+# 
 
 ## National Privacy Principles
 
@@ -143,6 +143,7 @@ Group Publications adhering to the Australian Press Council Privacy Standards
 West Australian Newspapers Limited | The West Australian  
 Countryman  
 Tabform  
+Quokka  
 Albany Advertiser Pty Ltd | Albany Advertiser  
 Albany Advertiser Extra  
 Broome Advertiser  
