@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061556id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190159id_/http%3A//www.greenhousemegastore.com/privacy.asp) for the most accurate reproduction.*
 
-# International Greenhouse Company Greenhouse Mega Store has everything you need to build, equip, and maintain a commercial, hobby, school or institutional greenhouse.
+# -Greenhouse Megastore has everything you need to build, equip, and maintain a commercial, hobby, school or institutional greenhouse.
 
 Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/)
 
