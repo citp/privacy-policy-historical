@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044305id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwasp.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181653id_/http%3A//www.blackwasp.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: BlackWasp Software Development
 
@@ -20,7 +20,13 @@ The BlackWasp web site contains links to other web sites. The privacy policy of 
 
 ## Advertising
 
-This web site is funded by advertising placements. The advertisement code may create cookies on your browser and read the contents of these cookies. The advertisements may also use web beacons to collect browsing information. This information is not retained by BlackWasp.
+This web site is funded by advertising placements. The advertisement code may create cookies on your browser and read the contents of these cookies. The advertisements may also use web beacons to collect browsing information. This information is not retained by BlackWasp. Some advertising on the BlackWasp web site is provided by the Google Adsense programme. This includes interest-based avertising. The following information relates to Google's system:
+
+  * Google, as a third-party vendor, uses cookies to serve ads on the web site.
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to this web site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+
+
 
 ## Policy Changes
 
