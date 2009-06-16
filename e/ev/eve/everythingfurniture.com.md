@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003758id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616024030id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Everything Furniture Privacy Policy
 
@@ -18,4 +18,4 @@ Information obtained at our site is encrypted to ensure your security. Our Yahoo
 
 Because we value you as a customer we will not rent, sell, or make available in any other way e-mail addresses outside of Everything Furniture. As a valued customer we will use e-mail from time to time to notify you of specials and closeouts, follow-up information on your order, etc.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
