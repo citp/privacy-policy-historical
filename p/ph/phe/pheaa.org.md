@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040811id_/http%3A//www.pheaa.org/about/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061546id_/http%3A//www.pheaa.org/about/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # PHEAA - Privacy Policy
 
