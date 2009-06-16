@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075855id_/http%3A//www.wfaa.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfaa.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616210202id_/http%3A//www.wfaa.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WFAA.com
 
@@ -10,26 +10,25 @@ www.wfaa.com respects the privacy of visitors to our site. This Privacy Policy g
 
 This Privacy Policy explains the following: 
 
-  * [What types of information we collect](https://web.archive.org/registration/privacy/#infotypes)
-  * [What cookies and beacons are and why we use them](https://web.archive.org/registration/privacy/#cookies)
-  * [How we use your personal information](https://web.archive.org/registration/privacy/#personal)
-  * [With whom we share your personal information](https://web.archive.org/registration/privacy/#share)
-  * [Who is the party collecting your personal information](https://web.archive.org/registration/privacy/#collecting)
-  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/registration/privacy/#optout)
-  * [How you can update your personal information or registration information](https://web.archive.org/registration/privacy/#update)
-  * [What safeguards we put in place to protect your personal information](https://web.archive.org/registration/privacy/#safeguards)
-  * [What you need to know about third-party sites and advertising](https://web.archive.org/registration/privacy/#advertising)
-  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/registration/privacy/#children)
-  * [How you can contact us](https://web.archive.org/registration/privacy/#contact)
-  * [What you should know about "phishing"](https://web.archive.org/registration/privacy/#phishing)
-  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/registration/privacy/#changes)
+  * [What types of information we collect](https://web.archive.org/registration/privacy.html#infotypes)
+  * [What cookies and beacons are and why we use them](https://web.archive.org/registration/privacy.html#cookies)
+  * [How we use your personal information](https://web.archive.org/registration/privacy.html#personal)
+  * [With whom we share your personal information](https://web.archive.org/registration/privacy.html#share)
+  * [Who is the party collecting your personal information](https://web.archive.org/registration/privacy.html#collecting)
+  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/registration/privacy.html#optout)
+  * [How you can update your personal information or registration information](https://web.archive.org/registration/privacy.html#update)
+  * [What safeguards we put in place to protect your personal information](https://web.archive.org/registration/privacy.html#safeguards)
+  * [What you need to know about third-party sites and advertising](https://web.archive.org/registration/privacy.html#advertising)
+  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/registration/privacy.html#children)
+  * [How you can contact us](https://web.archive.org/registration/privacy.html#contact)
+  * [What you should know about "phishing"](https://web.archive.org/registration/privacy.html#phishing)
+  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/registration/privacy.html#changes)
 
 
 
 ### What Types of Information Do We Collect?
 
-  
-The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters. In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information. 
+The information we gather falls into two categories: (1) information (for example, your name, email address and mailing address) that you voluntarily supply when you register or initiate transactions on the Site, and (2) information gathered on usage patterns and preferences as you navigate through our Site, use our services, or read our email newsletters. In some cases, it is an agent or vendor of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Site may be gathering the same kinds of information.
 
 **Registration Information**   
 While visiting the Site, we may ask you to register and/or provide information that personally identifies you ("Personal Information"). Such Personal Information may include, but is not limited to, your name, phone number, mailing address, and e-mail address. On any page that collects Personal Information, we will describe what information is required to provide you with the product or service you request or to respond to your inquiry or comment.
