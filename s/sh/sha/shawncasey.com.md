@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawncasey.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160333id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawncasey.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616191632id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
 
 # Shawn Casey | Internet Marketing - Shawn Casey’s Internet Marketing Blog » Privacy Policy
 
