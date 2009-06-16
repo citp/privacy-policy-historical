@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scrapetv.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216102157id_/http%3A//scrapetv.com/Home%2520Page/privacy%2520policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scrapetv.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616050832id_/http%3A//scrapetv.com/Home%2520Page/privacy%2520policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Scrape news 1.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,37 +23,75 @@ body  {
 2. Sizing of divs in this layout are based on the 100% font size in the body element. If you decrease the text size overall by using a font-size: 80% on the body element or the #container, remember that the entire layout will downsize proportionately. You may want to increase the widths of the various divs to compensate for this.
 3. If font sizing is changed in differing amounts on each div instead of on the overall design (ie: #sidebar1 is given a 70% font size and #mainContent is given an 85% font size), this will proportionately change each of the divs overall size. You may want to adjust based on your final font sizing.
 */
-.twoColElsLtHdr #container {
-	width: 51em;  /* this width will create a container that will fit in an 800px browser window if text is left at browser default font sizes */
+.thrColElsHdr #container {
+	width: 63em;  /* this width will create a container that will fit in an 800px browser window if text is left at browser default font sizes */
 	background: #FFFFFF; /* the auto margins (in conjunction with a width) center the page */
-	border: 1px solid #000000;
+	border: 0px solid #CCCCCC;
 	text-align: left; /* this overrides the text-align: center on the body element. */
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
 	margin-left: auto;
 } 
-.twoColElsLtHdr #header {
+.thrColElsHdr #header {
 	padding: 0;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
 	background-color: #FFFFFF;
 } 
-.twoColElsLtHdr #header h1 {
+.thrColElsHdr #header h1 {
 	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
 	padding: 0px; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
+	background-color: #FFFFFF;
 }
 
 /* Tips for sidebar1:
 1. Be aware that if you set a font-size value on this div, the overall width of the div will be adjusted accordingly.
 2. Since we are working in ems, it's best not to use padding on the sidebar itself. It will be added to the width for standards compliant browsers creating an unknown actual width. 
-3. Space between the side of the div and the elements within it can be created by placing a left and right margin on those elements as seen in the ".twoColElsLtHdr #sidebar1 p" rule.
+3. Space between the side of the div and the elements within it can be created by placing a left and right margin on those elements as seen in the ".thrColElsHdr #sidebar1 p" rule.
 */
-.twoColElsLtHdr #sidebar1 {
+.thrColElsHdr #sidebar1 {
 	float: left;
-	width: 12em; /* the background color will be displayed for the length of the content in the column, but no further */
-	padding: 0px; /* top and bottom padding create visual space within this div */
-	background-color: #330033;
+	width: 11em; /* top and bottom padding create visual space within this div */
+	background-color: #FFFFFF;
+	padding: 0px;
+	margin-right: 15px;
+	margin-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
 }
-.twoColElsLtHdr #sidebar1 h3, .twoColElsLtHdr #sidebar1 p {
+.thrColElsHdr #sidebar2 {
+	float: right;
+	width: 11em; /* top and bottom padding create visual space within this div */
+	background-color: #FFFFFF;
+	margin-right: 0px;
+	margin-left: 15px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.thrColElsHdr #sidebar1 h3, .thrColElsHdr #sidebar1 p, .thrColElsHdr #sidebar2 p, .thrColElsHdr #sidebar2 h3 {
 	margin-left: 10px; /* the left and right margin should be given to every element that will be placed in the side columns */
 	margin-right: 10px;
 }
@@ -64,14 +102,14 @@ body  {
 3. To avoid float drop, you may need to test to determine the approximate maximum image/element size since this layout is based on the user's font sizing combined with the values you set. However, if the user has their browser font size set lower than normal, less space will be available in the #mainContent div than you may see on testing.
 4. In the Internet Explorer Conditional Comment below, the zoom property is used to give the mainContent "hasLayout." This avoids several IE-specific bugs that may occur.
 */
-.twoColElsLtHdr #mainContent {
-	margin: 0 1.5em 0 13em; /* the right margin can be given in ems or pixels. It creates the space down the right side of the page. */
+.thrColElsHdr #mainContent {
+ 	margin: 0 12em 0 12em; /* the right margin can be given in ems or pixels. It creates the space down the right side of the page. */
 } 
-.twoColElsLtHdr #footer {
+.thrColElsHdr #footer {
 	padding: 0 10px;
-	background-color: #330033;
+	background-color: #006666;
 } 
-.twoColElsLtHdr #footer p {
+.thrColElsHdr #footer p {
 	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
 	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
 }
@@ -91,109 +129,238 @@ body  {
     font-size: 1px;
     line-height: 0px;
 }
+.style1 {
+	color: #FFFFFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.style2 {
+	font-family: "Kozuka Gothic Pro H";
+	font-size: 75%;
+}
+.style4 {color: #FFFFFF}
 .style3 {font-size: 80%;
 	font-weight: bold;
 	color: #FFFFFF;
 }
 .style7 {color: #FF00FF}
 .style8 {color: #000000}
---> 
-</style><!--[if IE]>
-<style type="text/css"> 
-/* place css fixes for all versions of IE in this conditional comment */
-.twoColElsLtHdr #sidebar1 { padding-top: 30px; }
-.twoColElsLtHdr #mainContent { zoom: 1; padding-top: 15px; }
-/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
-</style>
-<![endif]-->
-<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<script src="../SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
-<link href="../SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
 a:link {
 	text-decoration: none;
+	color: #0000CC;
 }
 a:visited {
 	text-decoration: none;
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 a:active {
 	text-decoration: none;
 }
+.style9 {
+	color: #006666;
+	font-size: 16px;
+	font-family: "Kozuka Gothic Pro H";
+}
+.style14 {font-size: 20px}
+.style15 {color: #FF0000}
+.style16 {color: #006666}
+.style21 {font-size: 13px}
+.style22 {font-size: 11px}
+.style23 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style24 {font-family: "Kozuka Gothic Pro H"}
+.style25 {font-size: 20px; font-family: "Kozuka Gothic Pro H"; }
+.style27 {font-family: Georgia, "Times New Roman", Times, serif}
+.style28 {
+	color: #000000;
+	font-size: 16px;
+	font-family: "Kozuka Gothic Pro H";
+}
+.style29 {color: #FFFFFF; font-size: 80%;}
+.style31 {
+	font-size: 16px;
+	font-family: "Kozuka Gothic Pro H";
+}
+.style33 {color: #0000CC; font-size: 16px; font-family: "Kozuka Gothic Pro H"; }
+--> 
+</style>
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColElsHdr #sidebar1, .thrColElsHdr #sidebar2 { padding-top: 30px; }
+.thrColElsHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style17 {
+	font-family: "Kozuka Gothic Pro H";
+	font-weight: bold;
+}
 -->
-</style></head>
+</style>
+<!-- InstanceEndEditable -->
+</head>
 
-<body class="twoColElsLtHdr">
+<body class="thrColElsHdr">
 
 <div id="container">
-  <h1 align="center"><a href="../index.html"><font color="white"><img src="../News/Headers/news header 2.jpg" width="250" height="99" border="0"></font></a><a href="http://townoflarue.com/"><font color="white"><img src="../News/Headers/Larue header.jpg" width="555" height="99" border="0"></font></a></h1>
-  <div id="TabbedPanels1" class="TabbedPanels">
-    <ul class="TabbedPanelsTabGroup">
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../index.html">HOME</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Politics.html">POLITICS</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/USA.html">U.S.A.</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/EVERYONE ELSE.html">EVERYONE ELSE</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Health.html">HEALTH</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Science Main.html">SCIENCE</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Business News.html">BUSINESS</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Technology-Main-Page-Scrape-TV-The-World-on-your-side.html">TECHNOLOGY</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Sports.html">SPORTS</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Video Games home page.html">VIDEOGAMES</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/main pages/Entertainment home page.html">ENTERTAINMENT</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/Archives/News-archive.html">NEWS ARCHIVE</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../The Visual/The Visual Home page.html">HUMOUR</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../On Air/On Air Pages/General/Show main page.html">ON THE AIR</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/Horoscopes/Horoscope Pages/Weekly Horoscope.html">HOROSCOPES</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/Classified/Classified pages/Classified ads main page.html">CLASSFIEDS</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/Advice column/Advice column pages/Advice main page.html">ADVICE</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/News Pages/Epinion/pages/Epinion home.html">EPINION</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../Scrape cares/scrape cares home page.html">SCRAPE CARES</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="../News/Larue local/pages/LaRue Local Home.html">LARUE LOCAL</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="http://scrapetv.com/wiki/index.php5?title=Welcome_to_Scrapeipedia">SCRAPEPEDIA</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="http://townoflarue.com/">LARUE</a></li>
-      <li class="TabbedPanelsTab" tabindex="0"><a href="Blogs.html">COMMUNITY</a></li>
-    </ul>
-
-  </div>
-
-  <div class="style64" id="TICKER" style="overflow:hidden; width:813px" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false">
-    <p><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><strong><span class="style68"><a href="../News/News Pages/Business/Pages/China-offers-to-buy-half-of-United-States-in-wake-of-economic-turmoil-Scrape-TV-The-World-on-your-side.html">CHINA OFFERS TO BUY HALF OF UNITED STATES IN WAKE OF ECONOMIC TURMOIL</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"> <a href="../News/News Pages/Entertainment/pages/Blink-182-drummer-barker-survives-plane-crash-fails-in-immortality-attempt-Scrape-TV-The-World-on-your-side.html">BLINK 182 DRUMMER BARKER SURVIVES PLANE CRASH, FAILS IN IMMORTALITY ATTEMPT</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Politics/pages/Unveiled-Secret-White-House-plan-to-lock-up-televsions-computers-Scrape-TV-The-World-on-your-side.html">UNVEILED: SECRET WHITE HOUSE PLAN TO LOCK UP TELEVISIONS, COMPUTERS</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Entertainment/pages/Oprah-Winfrey-trolls-entire-internet-with-over-9000-comment-Scrape-TV-The-World-on-your-side.html">OPRAH WINFREY TROLLS ENTIRE INTERNET WITH OVER 9000 COMMEN</a>T  <img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Everyone Else/pages/Kim-Jong-il -dead-Replaced-by-Puppet-Scrape-TV-The-World-on-your-side.html">KIM JONG-IL DEAD? REPLACED BY PUPPET</a>? <img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Business/Pages/Mortgage-lenders-looking-for-new-vendors-Scrape-TV-The-World-on-your-side.html">MORTGAGE LENDERS LOOKING FOR NEW VENDORS</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Business/Pages/Vivienne-Westwood-Stella-McCartney-among-designers-seeking-end-to-homemade-clothes-Scrape-TV-The-World-on-your-side.html">VIVIENNE WESTWOOD, STELLA MCCARTNEY AMONG DESIGNERS SEEKING END TO HOMEMADE CLOTHES</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><a href="../News/News Pages/Technology/pages/New-Facebook-causing-users-to-waste-even-more-time-Scrape-TV-The-World-on-your-side.html">NEW FACEBOOK CAUSING USERS TO WASTE EVEN MORE TIME</a><span class="style64" style="overflow:hidden; width:813px"><strong><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"></strong></span><a href="../News/News Pages/Politics/pages/John-McCain-confused-over-Sarah-Palin-email-hacking-Watergate-conspirators-jealous-Scrape-TV-The-World-on-your-side.html">JOHN MCCAIN CONFUSED OVER SARAH PALIN EMAIL HACKING, WATERGATE CONSPIRATORS JEALOUS</a><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><span class="style67"><a href="../News/News Pages/usa/pages/Holocaust-believer-denied-membership-in-Neo-Nazi-group-sues-Scrape-TV-The-World-on-your-side.html">HOLOCAUST BELIEVER DENIED MEMBERSHIP IN NEO NAZI GROUP,  SUES</a></span></span></strong></p>
-  </div>
-  <span class="style64">
-  <script type="text/javascript" src="webticker_lib.js" language="javascript"></script>
-  <p></p>
-  </span>   
-  
-    <h1 align="center"><!-- begin ZEDO for channel:  scrapetv728 , publisher: scrapetv , Ad Dimension: Super Banner - 728 x 90 -->
+  <div id="header">
+        <div align="left" class="style18 style2"><strong><span class="style17"> <a href="../index.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0" align="absmiddle"> <font color="black">Scrape TV Home</font></a> <a href="http://scrapetv.com/wiki/index.php5?title=Welcome_to_Scrapeipedia"><img src="../News/Headers/scrape-logo-mini.jpg" alt=" " width="20" height="20" border="0" align="absmiddle"> <font color="black">Scrapeipedia</font></a> <a href="http://townoflarue.com/"> <img src="../News/Headers/scrape-logo-mini.jpg" alt=" " width="20" height="20" border="0" align="absmiddle"> <font color="black"> The Town of LaRue</font></a> <a href="http://scrapetv.com/Home Page/Blogs.html" target="0"><img src="../News/Headers/scrape-logo-mini.jpg" alt=" " width="20" height="20" border="0" align="absmiddle"> <font color="black"> Community </font></a></span></strong><span class="style17"><a href="http://scrapetv.com/News/phpBB3/index.php"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0" align="absmiddle"></a><strong><a href="http://scrapetv.com/News/phpBB3/index.php"><font color="black"> Forum</font><span class="style15"> (new) </span></a></strong></span> <a href="../Scrape-store/pages/The-Scrape-Store-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/mini-logos/scrape-store-mini.jpg" alt="" width="20" height="20" border="0" align="absmiddle"><span class="style24"> <font color="black">Scrape Store</font></span></a><span class="style24"> <span class="style15">(coming soon)</span></span></div>
+    <table border="0" width="1006">
+  <tbody><tr>
+   <td width="270">
+    <table border="0" width="270">
+     <tbody><tr>
+      <td width="260"><div align="center"><a href="../News/News Pages/main pages/Scrape-TV-News-Home-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/news header 2.jpg" width="250" height="99" border="0"></a></div></td>
+     </tr>
+    </tbody></table>   </td>
+   <td width="720">
+    <table border="0">
+     <tbody><tr>
+      <td width="737">
+           <h1 align="right"><!-- begin ZEDO for channel:  scrapetv728 , publisher: scrapetv , Ad Dimension: Super Banner - 728 x 90 -->
 <script language="JavaScript">
 var zflag_nid="708"; var zflag_cid="677/675"; var zflag_sid="128"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14"; 
 </script>
 <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel:  scrapetv728 , publisher: scrapetv , Ad Dimension: Super Banner - 728 x 90 -->
- </h1>
-  <div id="sidebar1">
- <p align="center">&nbsp;</p>
-  <p align="center"><img src="../Site link images/This site.jpg" width="150" height="25"></p>
+<!-- end ZEDO for channel:  scrapetv728 , publisher: scrapetv , Ad Dimension: Super Banner - 728 x 90 --></h1></td>
+     </tr>
+    </tbody></table>   </td>
+  </tr>
+</tbody></table>
 
-  <p align="center"><a href="http://thevirtualunion.com/"><img src="../Site link images/vu logo 1.jpg" width="150" height="50" border="0"></a></p> 
-  <p align="center">&nbsp;</p>
-   <p align="center"><!-- begin ZEDO for channel:  scrapetv160 , publisher: scrapetv , Ad Dimension: Wide Skyscraper - 160 x 600 -->
-<script language="JavaScript">
+    <!-- end #header -->
+    <table border="0" width="1006">
+  <tbody><tr>
+   <td width="346" class="style10">
+    <table width="348" border="0" bgcolor="#006666">
+     <tbody><tr>
+      <td width="342"><div align="center" class="style4 style14 style24"><strong><a href="../The Visual/Humour-home-page-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"></a></strong><a href="../The Visual/Humour-home-page-Scrape-TV-The-World-on-your-side.html"><span class="style17 "><font color="white"> Scrape TV Humour</font></span></a></div></td>
+     </tr>
+    </tbody></table>   </td>
+   <td width="340" class="style10">
+    <table width="343" border="0" bgcolor="#006666">
+     <tbody><tr>
+      <td width="337"><div align="center" class="style14"><strong><a href="../News/News Pages/main pages/Scrape-TV-News-Home-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"> <span class="style17 style4 style24">Scrape TV News</span></a><span class="style17 style4 style24"></span></strong></div></td>
+     </tr>
+    </tbody></table>  
+      </td><td width="306" class="style10">
+    <table width="317" border="0" bgcolor="#006666">
+     <tbody><tr>
+      <td width="311"><div align="center" class="style25"><a href="../On Air/On Air Pages/General/Show main page.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"> <span class="style17 style4 "><strong>Scrape TV On the Air</strong></span></a><span class="style17 style4 "><strong></strong></span></div></td>
+     </tr>
+    </tbody></table>   </td>   
+  </tr>
+</tbody></table>
+    <div align="center"><a href="../News/News Pages/Specials/Swine-flu-2009/Pages/Swine-Flu-special-2009-Scrape-TV-The-World-on-your-side.html"><br>
+        <span class="style24"><img src="../News/News Pages/Specials/Swine-flu-2009/misc/Pig.jpg" width="57" height="45" border="0" align="middle"> SCRAPE TV SWINE FLU 2009 SPECIAL!</span> <span class="style24">YOUR BEST SOURCE FOR ALL SWINE DEVELOPMENTS.</span><br>  
+      <br>
+    </a></div>
+  </div>
+  
+  <div align="center" class="style23"></div>
+  <div id="sidebar1"> 
+    <p align="left" class="style3"><span class="style16 style3 style1"><strong><span class="style9 style8"><span class="style16">
+      <a href="../News/News Pages/main pages/Headlines/Politics-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/politics-logo.jpg" width="20" height="20" border="0"> </a></span></span></strong></span><span class="style16 style1 style29"><span class="style9 style8"><span class="style16"><a href="../News/News Pages/main pages/Headlines/Politics-Headlines-Scrape-TV-The-World-on-your-side.html">Politics</a></span></span></span><span class="style16 style3 style1"><strong><span class="style9 style8"><span class="style16"><br>
+      <a href="../News/News Pages/main pages/Headlines/USA-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/usa-logo.jpg" width="20" height="20" border="0"> U.S.A.</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Everyone-Else-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/everyone-else-logo.jpg" width="20" height="20" border="0"> Everyone Else</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Health-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/health-logo.jpg" width="20" height="20" border="0"> Health</a><br>
+         <a href="../News/News Pages/main pages/Headlines/Science-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/science-logo.jpg" width="20" height="20" border="0"> Science</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Business-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/business-logo.jpg" width="20" height="20" border="0"> Business</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Technology-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/technology-logo.jpg" width="20" height="20" border="0"> Technology</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Sports-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/sports-logo.jpg" width="20" height="20" border="0"> Sports</a><br>
+      <a href="../News/News Pages/main pages/Headlines/Videogames-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/videogames-logo.jpg" width="20" height="20" border="0"> Video Games</a><br>
+         <a href="../News/News Pages/main pages/Headlines/Entertainment-Headlines-Scrape-TV-The-World-on-your-side.html"> <img src="../News/Headers/mini-logos/entertainment-logo.jpg" width="20" height="20" border="0"> Entertainment</a><br>
+         </span></span></strong></span><span class="style16 style3  style27"><strong><span class="style28"><a href="../News/News Pages/main pages/Headlines/Future-Headlines-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/mini-logos/future-logo-mini.jpg" width="20" height="20" border="0"> Future</a></span></strong></span><span class="style16 style3 style1"><strong><span class="style9 style8"><span class="style16"><span class="style8"><br>
+         <span class="style28"><img src="../News/Headers/mini-logos/retractions-logo.jpg" width="20" height="20" border="0"></span></span></span></span></strong><a href="../News/News Pages/main pages/Headlines/Retractions-Headlines-Scrape-TV-The-World-on-your-side.html"><span class="style33"> Retractions</span></a><span class="style31"><br>
+         <img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20"><span class="style8"> Great Moments in<br>
+         <img src="../News/Headers/mini-logos/profiles-mini-logo.jpg" width="20" height="20"> Profiles</span></span></span><span class="style31"><br>
+         <strong><a href="../News/News Pages/main pages/Scrape-TV-News-Home-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"> News Home</a></strong><br>
+         <a href="../News/News Pages/Archives/News-archive.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"> News Archive</a><br>
+         <a href="../News/News Pages/main pages/Scrape-TV-News-Other-Scrape-TV-The-World-on-your-side.html"><img src="../News/Headers/scrape-logo-mini.jpg" width="20" height="20" border="0"> Other</a></span></p>
+ <p align="center" class="style3"><a href="../Companies/pages/Rascals-Fine-Family-Dining-main-page.html"><img src="../Companies/pieces/Rascals/images/Rascals-ad.jpg" width="150" height="450" border="0"></a></p>
+ <p align="center" class="style3"><a href="http://townoflarue.com/"><img src="../Companies/pieces/LaRue/LaRue-ad-1.jpg" alt="The Town of LaRue " width="150" height="213" border="0"></a></p>
+ <p align="center"><!-- begin ZEDO for channel:  scrapetv160 , publisher: scrapetv , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+  <script language="JavaScript">
 var zflag_nid="708"; var zflag_cid="676/675"; var zflag_sid="128"; var zflag_width="160"; var zflag_height="600"; var zflag_sz="7"; 
 </script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel:  scrapetv160 , publisher: scrapetv , Ad Dimension: Wide Skyscraper - 160 x 600 -->
-</p>
-
+  <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+  <!-- end ZEDO for channel:  scrapetv160 , publisher: scrapetv , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+  </p>
+  
  
-   <p align="center"><a href="../On Air/Companies/pages/Rascals-Fine-Family-Dining-main-page.html"><img src="../On Air/Companies/Rascals/images/rascals-logo-small.jpg" width="150" height="150" border="0"></a></p>
-   <p align="center"><a href="../On Air/Companies/pages/Cows-A-History-main-page-Able-Brothers-Publishing.html"><img src="../On Air/Companies/publishing/cows-a-history-small.jpg" width="150" height="213" border="0"></a></p>
-   <p align="center">&nbsp;</p>
-   <p align="center">&nbsp;</p>
-<!-- Begin: AdBrite, Generated: 2008-10-06 23:34:08  -->
+     <p align="center"><a href="../Rad/Rad page 1.html"><img src="../Site link images/Rad Badge.jpg" width="125" height="125" border="0"></a></p>
+     <p align="center"><a href="../On Air/On Air Pages/Advertisers/at ads/at ads home page.html"><img src="../Companies/pieces/at-ads/at-ads-logo.jpg" width="150" height="150" border="0"></a></p>
+    <p align="center"><a href="../On Air/On Air Pages/Advertisers/Bee/Bee homepage.html"><img src="../Companies/pieces/bee/bee-logo-small.jpg" width="150" height="75" border="0"></a></p>
+    <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+    <p>&nbsp; </p>
+  
+  <!-- end #sidebar1 -->
+<!-- end #sidebar1 --></div><div id="sidebar2">
+      <p align="left" class="style21"><strong><span class="style22">SCRAPE TV NEWS STAFF</span><br>
+      Editor-in-Chief <br> 
+        </strong>Dave Dalkin<strong><br>
+        Business<br>
+        </strong>William Ashford<strong><br>
+        Health<br>
+        </strong>Lauren Hebert<strong><br>
+        U.S.A.<br>
+        </strong>Mike Michaels<strong><br>
+        Everyone Else<br>
+        </strong>Emil Uliya<strong><br>
+        Science<br>
+        </strong>Anna Phillips<strong><br>
+        Sports<br>
+        </strong>Alexi Orton<strong><br>
+        Videogames<br>
+        </strong>Douglas Havermore<strong><br>
+Politics<br>
+        </strong>Edward Bastil<strong><br>
+Entertainment<br>
+        </strong>Samantha Dryden<strong><br>
+Technology<br>
+        </strong>Martin Philton<br>
+      <span class="style22"><strong><a href="Pages/Community-Scrape-TV-The-World-on-your-side.html">CONTACT</a></strong></span></p>
+
+  <!-- Begin: AdBrite, Generated: 2008-10-06 23:34:08  -->
 <script type="text/javascript">
 var AdBrite_Title_Color = '66B5FF';
 var AdBrite_Text_Color = 'FFFFFF';
@@ -202,36 +369,41 @@ var AdBrite_Border_Color = 'FFFFFF';
 var AdBrite_URL_Color = '66B5FF';
 try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
 </script>
-<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=847714&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=847714&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081216102157id_%2Fhttp%253A%2F%2Fscrapetv.com%2FHome%252520Page%2Fprivacy%252520policy.html" type="text/javascript"></script>
+<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=847714&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=847714&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090616050832id_%2Fhttp%253A%2F%2Fscrapetv.com%2FHome%252520Page%2Fprivacy%252520policy.html" type="text/javascript"></script>
 <div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=847714&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
 <!-- End: AdBrite -->
 <p align="center">&nbsp;</p>
-   
-    <p align="center"> <!-- AddThis Bookmark Button BEGIN -->
-     <script type="text/javascript">
-  addthis_url    = location.href;   
-  addthis_title  = document.title;  
-  addthis_pub    = 'blowed';     
-     </script>
-     <script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
-     <!-- AddThis Bookmark Button END -->
-   </p>
-   <p align="center">&nbsp;</p>
-    <p align="center">&nbsp;</p>
+    <p align="center"><span class="style3"><a href="../Companies/pages/Cows-A-History-main-page-Able-Brothers-Publishing.html"><img src="../Companies/pieces/publishing/cows-a-history-small.jpg" width="150" height="213" border="0"></a></span></p>
+    <p align="center"><img src="../Companies/pieces/Vision-Tech/Obliterator-II-ad.jpg" alt="Obliterator 2" width="155" height="350"></p>
+    <p align="center"><a href="Jobs-Scrape-TV-The-World-on-your-side.html"><img src="now-hiring-sign.jpg" alt="Now Hiring" width="125" height="125" border="0"></a></p>
+    <p align="center"><img src="../Site link images/This site.jpg" width="150" height="25"></p>
+    <p align="center"><a href="http://thevirtualunion.com/"><img src="../Site link images/vu logo 1.jpg" width="150" height="50" border="0"></a></p>
     <p align="center"><a href="http://www.adbrite.com/mb/landing_both.php?spid=89773&amp;afb=120x60-1-white"><img src="http://files.adbrite.com/mb/images/120x60-1-white.gif" border="0"></a></p>
-    <p align="center">&nbsp;</p>
-    <p align="center">&nbsp;</p>
     <p align="center"><a href="http://www.site5.com/in.php?id=49458-38"><img alt="120x60" border="0" src="http://www.site5.com/creative/2008/1/120x60.gif"></a></p>
-    <p>&nbsp; </p>
-      
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-    <!-- end #sidebar1 --></div>
-  <div id="mainContent"><!-- InstanceBeginEditable name="Main Text" -->
-    <h1 align="center"><strong>PRIVACY POLICY    </strong></h1>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  <!-- end #sidebar2 --></div>
+  <!-- InstanceBeginEditable name="Main Text" -->
+    <h1 align="center" class="style17">PRIVACY POLICY    </h1>
     <h4 align="left">Effective February 4, 2008</h4>
     <h4 align="left">The Virtual Union and it's affiliate websites and companies have adopted the following privacy policies.</h4>
     <h4 align="left">1.We will never collect your personal information for sale to a third party. Any personal information submitted to any websites owned by The Virtual Union will be used only as deemed appropriate by you, the user. </h4>
@@ -240,29 +412,21 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
     <h4 align="left">4. No personal information will ever be used to promote a third party resource or website unless written permission is submitted to The Virtual Union.</h4>
     <h4 align="left">5. Any questions regarding this privacy policy should be directed to <a href="mailto:admin@thevirtualunion.com">admin@thevirtualunion.com</a></h4>
   <!-- InstanceEndEditable -->
-  <!-- end #mainContent --></div>
-  <p align="center"><!-- begin ZEDO for channel:  scrapetv300 , publisher: scrapetv , Ad Dimension: Medium Rectangle - 300 x 250 -->
-<script language="JavaScript">
-var zflag_nid="708"; var zflag_cid="678/675"; var zflag_sid="128"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9"; 
-</script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel:  scrapetv300 , publisher: scrapetv , Ad Dimension: Medium Rectangle - 300 x 250 -->
-</p>
-  <p align="center"><img src="now-hiring-sign.jpg" width="125" height="125" align="left"><strong>ScrapeTV is looking for correspondents. if you are interested in writing for us, please drop us a line. <a href="Jobs-Scrape-TV-The-World-on-your-side.html">See here for details.</a></strong><br class="clearfloat">
-  </p>
+  <div align="center">
+
+<p></p>
+    <p>
+      <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+      <br class="clearfloat">
+    </p>
+  </div>
   <div id="footer">
-    <p><a href="http://feeds.feedburner.com/TheVirtualUnion" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="vertical-align:middle;border:0"></a><span class="style3"><span class="style7"><a href="contact us.html">Contact</a> - <a href="contact us.html">Advertise</a> - <a href="Staff-Scrape-TV-The-World-on-your-side.html">Staff</a></span> - <a href="privacy policy.html">Privacy Policy</a>All original content Copyright ©2008 <a href="http://thevirtualunion.com/">The Virtual Union</a>. All Rights Reserved. All images Copyright © original owners. All content herein should be considered rumour or truth based solely on your perspective.<span class="style8">
+    <p align="center"><span class="style3"><span class="style7"><a href="Pages/Community-Scrape-TV-The-World-on-your-side.html">Contact</a> - <a href="Pages/Community-Scrape-TV-The-World-on-your-side.html">Advertise</a> -</span><a href="privacy policy.html">Privacy Policy </a>All original content Copyright ©2008-2009 <a href="http://thevirtualunion.com/">The Virtual Union</a>. All Rights Reserved. All images Copyright © original owners. All content herein should be considered rumour or truth based solely on your perspective.<span class="style8">
     <!-- google_ad_section_end -->
-    </span></span>
-      <!-- end #footer -->
-</p>
+    </span></span></p>
   <!-- end #footer --></div>
 <!-- end #container --></div>
-<script type="text/javascript">
-<!--
-var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
-//-->
-</script>
+
 
 <!-- InstanceEnd -->
 </body></html>
