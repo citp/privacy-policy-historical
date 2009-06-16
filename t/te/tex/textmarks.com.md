@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025028id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070434id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
 
 # TextMarks - Privacy Policy - Make information accessible from any cell phone - via text messages. Coordinate Activities. Express Yourself!
 
