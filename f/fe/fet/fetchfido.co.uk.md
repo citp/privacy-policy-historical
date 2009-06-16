@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2008-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081116193853id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183301id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # Privicy Policy
 
@@ -9,7 +9,9 @@ This Policy relates only to Fetchfido's online information collection and use pr
 In short, we do the following  
 We only collect personally identifiable information that you voluntarily and knowingly provide us. We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent. We do not share any information you provide us with anyone outside of Fetchfido. 
 
-We use outside ad companies to display ads on our site. These ads may contain cookies but they cannot connect or identify a specific person with the content of a cookie. They do not build profiles, the cookies are completely anonymous. Fetchfido has no access to information collected in this way.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Fetchfido has no access to information collected in this way.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 The site fully agrees and complies to [COPPA](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm) rules.  
 
