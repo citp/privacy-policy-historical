@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160335id_/http%3A//www.primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaryads.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132822id_/http%3A//www.primaryads.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PrimaryAds - Privacy Policy
 
@@ -36,15 +36,15 @@ You will only receive communications from Kowabunga!
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send email to Tanya.Boggs@kowabunga.com  
+You can send email to Aleks.Jagiella@kowabunga.com  
   
 **Contacting the Web Site**  
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-Tanya Boggs  
+Aleks Jagiella  
 Kowabunga!  
 15550 Lightwave Drive  
 Suite 300  
 Clearwater, FL 33760  
-Tanya.Boggs@kowabunga.com
+Aleks.Jagiella@kowabunga.com
