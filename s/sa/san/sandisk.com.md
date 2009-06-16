@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201143641id_/http%3A//www.sandisk.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065145id_/http%3A//www.sandisk.com/PrivacyPolicy/Default.asp) for the most accurate reproduction.*
 
 # SanDisk | Corporate | About SanDisk Corporation | Privacy Policy
 
