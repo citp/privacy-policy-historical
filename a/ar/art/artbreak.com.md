@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artbreak.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013030id_/http%3A//www.artbreak.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbreak.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182333id_/http%3A//www.artbreak.com/about/privacy) for the most accurate reproduction.*
 
 # Artbreak: Privacy Policy
 
@@ -64,9 +64,3 @@ The security of your personal information is important to us. When you enter sen
 ## Changes to this Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
-
-## Questions
-
-If you have questions or suggestions you can contact us at:  
-Artbreak Customer Care - Privacy Policy  
-260 Perkins St #3E, Oakland, CA 94610 - (510) 393-5057 
