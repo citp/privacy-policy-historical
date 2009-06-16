@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085048id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616122121id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
@@ -103,4 +103,4 @@ Email: [support@quickquid.co.uk](mailto:support@quickquid.co.uk)
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
-Privacy Policy last amended 20 June, 2007
+Privacy Policy last amended 06 November, 2008
