@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021442id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081031id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Glassdoor.com - Privacy Policy
+
+**About Glassdoor**
+
+Glassdoor is your free inside look at more than 26000 companies. Salary details, company reviews, and interview questions — all posted anonymously by employees and job seekers.
 
 This Privacy Policy was last updated in August 2008.
 
