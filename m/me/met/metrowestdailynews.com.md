@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrowestdailynews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122001id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrowestdailynews.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061715id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
 
 # GateHouse Media, Inc. - Privacy Policy
 
