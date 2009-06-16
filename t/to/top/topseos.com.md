@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023902id_/http%3A//www.topseos.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151949id_/http%3A//www.topseos.com/privacy_policy) for the most accurate reproduction.*
 
-# Search Engine Optimization - Organic SEO, PPC, SEM and Internet Marketing Companies Ranked.
+# Rankings of Best SEO, PPC, Web Design and Development, Hosting, Local Search, Reputation Management Companies, Firms, Agencies, Firm, Company.
 
 ### Privacy Policy
 
