@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041133id_/http%3A//www.astro.com.my/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174201id_/http%3A//astro.com.my/privacy_policy.asp) for the most accurate reproduction.*
 
 # Astro :: Making Your Life Richer
 
@@ -9,7 +9,7 @@ This Privacy Policy was last updated on 1st September 2004
 
 1.1 The following statement explains Astro’s Privacy Policy (“this Policy”) regarding the personal information collected by Astro about you. Upon registration and from time to time, you will be asked to submit personal information about yourself (eg name and email address etc.) in order to use the Astro Service on Astro Website. By providing Astro with your details in the fields requested, you enable Astro to provide you with the Astro Service. We will treat such personal information in accordance with this Policy. This privacy policy covers Astro and its website **http://www.astro.com.my**.
 
-1.2 The Astro Service is provided to you subject to the Astro [Website Terms of Use & Notices](https://web.archive.org/web/20081217041133id_/http%3A//www.astro.com.my/terms.asp) and in accordance with the laws of Malaysia. Astro will act in accordance with current Malaysian legislation on personal information protection in this Policy and as far as practicable, aim to meet current Internet best practice. 
+1.2 The Astro Service is provided to you subject to the Astro [Website Terms of Use & Notices](https://web.archive.org/web/20090616174201id_/http%3A//astro.com.my/terms.asp) and in accordance with the laws of Malaysia. Astro will act in accordance with current Malaysian legislation on personal information protection in this Policy and as far as practicable, aim to meet current Internet best practice. 
 
 1.3 The term Authorised Third Parties describes the contractors, agents and third party suppliers with whom Astro or other members of the Astro Group enter into agreements from time to time and persons with whom they may contract in order to provide the Astro Services. 
 
@@ -19,7 +19,7 @@ By submitting your information, you consent to the use of your personal informat
 
 **2\. CHANGES TO THIS POLICY**
 
-2.1 Astro may revise and update this Policy at any time by posting such revised Policy at [http://www.astro.com.my/privacy_policy.asp](https://web.archive.org/web/20081217041133id_/http%3A//www.astro.com.my/privacy_policy.asp). When Astro posts changes to this Privacy Policy, you will see the word "updated" next to the Privacy Policy link on the Home page of the Astro Website. You should periodically review this Policy for changes. Your continued use and access of the Astro Service and Website will mean you accept those changes.
+2.1 Astro may revise and update this Policy at any time by posting such revised Policy at [http://www.astro.com.my/privacy_policy.asp](https://web.archive.org/web/20090616174201id_/http%3A//astro.com.my/privacy_policy.asp). When Astro posts changes to this Privacy Policy, you will see the word "updated" next to the Privacy Policy link on the Home page of the Astro Website. You should periodically review this Policy for changes. Your continued use and access of the Astro Service and Website will mean you accept those changes.
 
 **3\. USERS UNDER 18**
 
@@ -124,7 +124,7 @@ Please quote your name, address, user ID and Astro Account/Astro Passport Accoun
 
 **11\. SECURITY**
 
-11.1 The Internet is not a secure medium, and communications over the Internet may be subject to third-party interception. Astro cannot accept responsibility for any unauthorised access or loss of personal information, save in accordance with the Astro [Website Terms of Use & Notices](https://web.archive.org/web/20081217041133id_/http%3A//www.astro.com.my/terms.asp).
+11.1 The Internet is not a secure medium, and communications over the Internet may be subject to third-party interception. Astro cannot accept responsibility for any unauthorised access or loss of personal information, save in accordance with the Astro [Website Terms of Use & Notices](https://web.archive.org/web/20090616174201id_/http%3A//astro.com.my/terms.asp).
 
 11.2 Astro has implemented security policies, rules and technical measures to protect your Astro Passport Account information from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All our employees and data processors, who have access to and are associated with the processing of personal information, are obliged to respect the confidentiality of your Astro Passport Account information.
 
@@ -143,4 +143,4 @@ It may be necessary to transfer your personal information to other group compani
 13.1 If you have any questions about this Policy or your dealings with the Astro Web site, please write to:   
 [Webmaster Account](mailto:webmaster@astro.com.my)  
 or send an email through our Customer Care section:  
-[http://www.astro.com.my/customer/contact.asp](https://web.archive.org/web/20081217041133id_/http%3A//www.astro.com.my/service/contactus/default.asp)
+[http://www.astro.com.my/customer/contact.asp](https://web.archive.org/web/20090616174201id_/http%3A//astro.com.my/service/contactus/default.asp)
