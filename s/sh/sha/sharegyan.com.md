@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163151id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616141422id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
-**Highlights:1.** Market to remain volatile. Execute order with strict stoploss. 2. Follow market trend!!
+Get exclusive research reports based on technical analysis for free.  
+[View Research Reports!](http://www.sharegyan.com/research-reports/)
 
 **Yahoo! ID - sharegyan**  
-(Add Now)
+(For Paid Subscribers)
 
 ## Guests
 
