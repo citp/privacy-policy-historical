@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170329id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldisround.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616073524id_/http%3A//www.worldisround.com/privacy.html%3Ff) for the most accurate reproduction.*
 
 # Privacy Policy on Worldisround
 
@@ -60,6 +60,8 @@ Changes to This Policy
      Worldisround may revise, modify or update this policy at any time. We will notify Worldisround users of any significant revisions by sending out an announcement e-mail (if e-mail is being accepted) and/or placing a prominent notice on the web site. 
 Cookies
      We use 'cookies' on certain pages of our site. Cookies are bits of data saved by and used specifically for a Web site. Our site only uses cookies that it originated, usually to keep track of a 'user session' that makes logging into the site and writing articles possible. 
+Third-Party Advertising
+     We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 Web Site Activity
      We may track information about your Web site activity including what URL you came from (identifying search engines, partner/linking sites, etc.), what browser you are using, and how you navigate the site. This information can help us determine which parts of the site are popular or where navigation may be confusing, and help us improve the site by looking at individual cases. 
 
@@ -70,4 +72,4 @@ We may use your e-mail address to contact you for administrative purposes or to 
 Exception
      One exception to this policy is that we will release specific information about you or your account to comply with any reasonable, valid legal process such as a search warrant, subpoena, statute or court order. 
 Ask us Questions
-     In writing this policy we are trying to be honest, straightforward, complete, and legal all at the same time. If any of these items seems vague or worrisome, please e-mail us at for clarification. 
+     In writing this policy we are trying to be honest, straightforward, complete, and legal all at the same time. If any of these items seems vague or worrisome, please e-mail us at [_info@_ _worldisround.com_](mailto:info@worldisround.com) for clarification. 
