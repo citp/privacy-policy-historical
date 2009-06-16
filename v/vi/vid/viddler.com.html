@@ -1,132 +1,126 @@
-<!--The following is the downloaded HTML source of the viddler.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218022911id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viddler.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616132824id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Viddler.com - Privacy Policy</title>
 <link rel="pingback" href="http://www.viddler.com/xmlrpc">
-<link href="http://www.viddler.com/favicon.ico" rel="SHORTCUT ICON">
+<link href="http://www.viddler.com/favicon.ico?v=245" rel="SHORTCUT ICON">
 
 
 
 
-<link rel="stylesheet" type="text/css" href="http://cdn-ll-static.viddler.com/css/style.css?timestamp=1227001604000">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://cdn-static.viddler.com/css/style2009060303.css">
 <script type="text/javascript">var loggedIn=false;var loggedUsername='';</script>
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">if (document.referrer.toString().indexOf( 'dev0.viddler.com' ) ==-1) { var pageTracker = _gat._getTracker("UA-971344-2"); pageTracker._trackPageview(); } </script>
-<script type="text/javascript" src="http://cdn-ll-static.viddler.com/js/script.js?timestamp=1222339324000"></script>
+<script type="text/javascript" src="http://cdn-static.viddler.com/js/script200906080102.js"></script>
 
 </head>
 
+
+
+
 <body>
-<script type="text/javascript">Event.observe(window, 'load', function() { makeLinks(document); }, false);</script>
+<script type="text/javascript">J(document).ready(function(){ makeLinks(document); });</script>
 <div id="container">
  
 
+<div id="header">
+  <h1 id="viddler-logo"><a title="Viddler - Home" href="/">Viddler</a></h1>
+  <ul id="nav">
 
 
+    
+    <li class="nomenu"><a class="navTopLevel" href="/learn-more/">Learn More</a></li>
+    
 
-  	
-<script type="text/javascript">
-function newSearch() {	
-  if ($F('search')=='' || $F('search').strip().length<=2) {
-    alert('Please add any search term longer then 2 chars');
-    return false;
-  } 
-  return true;
-}
+    
+    <li id="navPeople"><a class="navTopLevel" href="/explore/active-people/">People</a>
+      <ul>
+      
+          <!--<li><a href="/explore/new-people/">New people</a></li> -->
+          <li><a href="/explore/active-people/">Active people</a></li>
+          <li><a href="/explore/people-tags/">People tags</a></li>
+      
+      </ul>
+    </li>
+    
 
-function search() {
- if (newSearch()) {
-   $('searchbox').submit();
- }
-}
+    
+    <li id="navGroups"><a class="navTopLevel" href="/groups/">Groups</a>
+      <ul>
+        
+        <li><a href="/groups/">Browse groups</a></li>
+        
+        <li><a href="/groups/new-groups/">New groups</a></li>
+        <li><a href="/groups/tags/">Group tags</a></li>
+        
+      </ul>
+    </li>
+    
 
-function searchYours() {
- $('searchbox').action=Get_Cookie("thumbnailSearchResult")==1?'/search/yours_videos/': '/search_detailed/yours_videos/'
- search();
-}
+    
+    <li id="navExplore"><a class="navTopLevel" href="/explore/">Explore</a>
+      <ul>
+        <li class="default"><a href="/explore/">Explore page</a></li>
+        <li><a href="/explore/featured/">Featured</a></li>
+        <li><a href="/explore/most-popular/">Most popular</a></li>
+        <li><a href="/explore/most-favorited/">Most favorited</a></li>
+        <li><a href="/explore/most-discussed/">Most discussed</a></li>
+        <li><a href="/explore/recently-uploaded/">Recently uploaded</a></li>
+        <li><a href="/explore/tags/">Tags</a></li>
+      </ul>
+    </li>
+    
 
-function searchPeople() {
- $('searchbox').action='/search/people/'
- search();
-}
-
-function searchGroups() {
- $('searchbox').action='/search/groups/'
- search();
-}
-
-function searchForums() {
- $('searchbox').action='/search/forums/'
- search();
-}
-
-function searchMenu() {
-	var searchWrap = $('searchWrap');
-	
-	if (searchWrap.className == 'menuOff') {
-		searchWrap.className = 'menuOn';
-	} else {
-		searchWrap.className = 'menuOff';
-	}
-}
-
-var orgSearchString="";
-
-function resetSearch() {
-  $('search').value=orgSearchString;
-}
-
-</script>
-
-<div id="logosearch" class="topfloat">
-	<h1 id="viddler_logo"><a href="/">Viddler</a></h1>
-	<form id="searchbox" method="get" action="#" onsubmit="return newSearch()">
-		<input id="search" name="searchString" type="text" size="20">
-		<div id="searchWrap" class="menuOff">
-			<a href="javascript:search()" id="searchButton">Search</a>
-			<div id="searchMenu">
-				<a href="javascript:searchMenu();" id="searchOptionsButton">Options</a>
-				<ul id="searchMenuList">
-					<li><a href="javascript:search()" onclick="searchMenu();">All Videos</a></li>
-					
-					<li><a href="javascript:searchPeople()" onclick="searchMenu();">People</a></li>
-					<li><a href="javascript:searchGroups()" onclick="searchMenu();">Groups</a></li>						
-					<li class="lastItem"><a href="javascript:searchForums()" onclick="searchMenu();">Forums</a></li>
-				</ul>
-			</div>
-		  </div>
-  </form>	
-</div>
-
-<script type="text/javascript">
- $('searchbox').action=Get_Cookie("thumbnailSearchResult")==1?'/search/': '/search_detailed/'
-</script>
-	
- 
- 
+    
+  </ul>
 
 
+  
+  <a href="/signup/" class="headerButton" id="headerSignup">Sign up</a>
+  <a href="#" class="headerButton" id="headerLogin">Login</a>
 
+  <form action="/j_security_check" method="post" id="login" style="display: none;">
+    <input type="text" name="j_username" id="login-username" size="10" class="dim">
+    <input type="text" class="dim" value="password" id="login-password-show"><input type="password" name="j_password" id="login-password" size="10" style="display: none;">
+    <a id="headerLoginSubmit" class="headerButton" href="#">Login</a>
+    <div id="loginExtra">
+      <input type="checkbox" id="loginRemember" name="j_remember_me" checked="checked">
+      <label for="loginRemember">Remember me</label>
+      <a href="/lost_password!input.action">Forgot password?</a>
+      
+    </div>
+  </form>
 
-<form id="loginbox" class="topfloat" action="/j_security_check" method="post">
-	<div id="login-checkbox-cont"><input type="checkbox" id="login-checkbox" value="true" name="j_remember_me" checked="checeked"> <label for="login-checkbox">Remember me</label></div>				
-	   
-	<div id="login-username-cont"><label for="login-username">Username</label><br>
-	  <input id="login-username" name="j_username" type="text" size="16"></div>
-	<div id="login-password-cont"><label for="login-password">Password</label><br>
-		<input id="login-password" name="j_password" type="password" size="16"> <input id="login-submit" type="submit" value="Login"><br>
-		<a id="lost" href="/lost_password!input.action">Lost your password?</a></div> 
+  
+
+  
+
+<form id="search" method="get" action="#" onsubmit="return false;">
+  <input id="searchQuery" name="searchString" type="text" size="15">
+  <div id="searchWrap" class="menuOff">
+    <div id="searchMenu">
+      <a href="#" id="searchButton">Search</a>
+      <a href="#" id="searchOptionsButton">Options</a>
+      <ul id="searchMenuList">
+        <li><a href="#">All Videos</a></li>
+        
+        <li><a href="#">People</a></li>
+        <li><a href="#">Groups</a></li>
+        <li><a href="#">Forums</a></li>
+      </ul>
+    </div>
+    </div>
 </form>
-  	
-<ul id="nav">
-  <li><a href="/signup/step1/">Sign Up</a></li>
-  <li><a href="/learn-more/">Learn More</a></li>
-  <li><a href="/explore/">Explore</a></li>
-</ul>
+<script type="text/javascript">$('search').action=Get_Cookie("thumbnailSearchResult")==1?'/search/': '/search_detailed/';</script>
 
- 
+</div>
  <div class="pagetitles2">
 		<h2>Privacy Policy</h2>
 	</div>
@@ -508,16 +502,15 @@ Bethlehem, PA 18015</p>
 
 
 
-
-
 <div id="footer"><div id="footerContent">
 <ul>
   <li><h4>About Us</h4></li>
+  <li><a href="/learn-more/">Learn More</a></li>
   <li><a href="/about/">About &amp; Contact</a> </li>
   <li><a href="http://blog.viddler.com/">Viddler Blog</a></li>
   <li><a href="/terms-of-use/">Terms of Use</a>,
-    <a href="/privacy-policy/" class="current">Privacy</a> 
-  </li>  
+    <a href="/privacy-policy/" class="current">Privacy</a>
+  </li>
 </ul>
 <ul>
   <li><h4>Services</h4></li>
@@ -528,15 +521,18 @@ Bethlehem, PA 18015</p>
 </ul>
 <ul>
   <li><h4>Need Help?</h4></li>
+  
   <li><a href="/help/faq/">FAQ</a></li>
   <li><a href="/forums/">Forums</a></li>
   <li><a href="/about/contact/">Submit a Bug</a></li>
   <li><a href="/rss/">RSS Feeds</a></li>
 </ul>
 
+
+<div class="clearboth"></div>
 </div></div>
 
-<p id="copyright">© 2008 Viddler, Inc. All rights reserved</p>
+<p id="copyright">© 2009 Viddler, Inc. All rights reserved</p>
 
 
 <!-- Start Quantcast tag -->
@@ -544,6 +540,7 @@ Bethlehem, PA 18015</p>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript><a href="http://www.quantcast.com/p-3ea1dOmGdnYEs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3ea1dOmGdnYEs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <!-- End Quantcast tag -->
+
 
 
 </body></html>
