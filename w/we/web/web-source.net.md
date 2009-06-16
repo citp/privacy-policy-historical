@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218044102id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190315id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
 
 # Web-Source.net Privacy Policy
 
