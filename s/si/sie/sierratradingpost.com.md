@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160200id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053942id_/http%3A//www.sierratradingpost.com/lp2/privacy.html) for the most accurate reproduction.*
 
-# Sierra Trading Post: privacy
+# Privacy Policy | Sierra Trading Post
 
 **Sierra Trading Post Privacy Policy effective 9/26/07.**
 
@@ -38,11 +38,9 @@ Phone: 1-800-713-4534
 Mon-Fri 5am-10pm MST.  
 Saturday 7am-10pm MST.
 
-**Email** :[CustomerService@SierraTradingPost.com.](mailto:CustomerService@SierraTradingPost.com)
+**Email** :[CustomerService@SierraTradingPost.com](mailto:CustomerService@SierraTradingPost.com)
 
 **Fax: 1-800-378-8946**
 
 Live Chat  
-Mon-Fri 5am-10pm MST.  
-Saturday 7am-4pm MST.  
-Sunday 8am-4pm MST.
+Now Open **24/7**
