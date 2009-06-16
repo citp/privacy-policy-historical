@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161515id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616081906id_/http%3A//sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Sadoun.com Privacy Policy Statement
 
