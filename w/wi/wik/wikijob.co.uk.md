@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikijob.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152458id_/http%3A//www.wikijob.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikijob.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181121id_/http%3A//www.wikijob.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | WikiJob
 
