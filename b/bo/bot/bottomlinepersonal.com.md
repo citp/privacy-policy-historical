@@ -1,29 +1,53 @@
-> *The following text is extracted and transformed from the bottomlinepersonal.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050811id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinepersonal.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175526id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
-  *   *   *   *     * [Bottom Line Secrets](http://www.bottomlinesecrets.com/el/bls_signup.html)
+  * [Books &  
+Publications](http://www.bottomlinesecrets.com/store/index.html)
+  * [Perfect Gift](http://www.bottomlinesecrets.com/gift/index.html)
+  * [Bottom Line  
+Experts](http://www.bottomlinesecrets.com/experts/expert_ads.html)
+  * [Hot Topics](http://www.bottomlinesecrets.com/hot_topics_index.html)
+  * [Free E-letters](http://www.bottomlinesecrets.com/el/eletters.html)
+    * [Bottom Line Secrets](http://www.bottomlinesecrets.com/el/bls_signup.html)
     * [Daily Health News](http://www.bottomlinesecrets.com/el/dhn_signup.html)
     * [Update Your E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
-  *   *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
+  * [BOTTOM LINE/  
+Personal](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=blp)
-  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blh.html)
+  * [Bottom Line/  
+HEALTH](http://www.bottomlinesecrets.com/store/pubs/sub_blh.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blh.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=blh)
-  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
+  * [Bottom Line/  
+NATURAL HEALING](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
     * [Meet Dr. Stengler](http://www.bottomlinesecrets.com/experts/mstengler.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=nah)
-  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
+  * [Bottom Line/  
+WOMEN'S HEALTH](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
-  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blr.html)
+  * [Bottom Line/  
+RETIREMENT](http://www.bottomlinesecrets.com/store/pubs/sub_blr.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blr.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=tomm)
-  *     * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blw.html)
+  * [Bottom Line/  
+WEALTH](http://www.bottomlinesecrets.com/store/pubs/sub_blw.html)
+    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_blw.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=taxl)
-  *     * [E-mail Preferences](http://www.bottomlinesecrets.com/cs/index.html)
+  * [Daily Health  
+News Archive](http://www.bottomlinesecrets.com/index/article_subjects_dhn.html)
+  * [Customer Service](http://www.bottomlinesecrets.com/cs/index.html)
+    * [E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
     * [Subscriptions](http://www.bottomlinesecrets.com/cs/subscription.html)
-    * [Books & Merchandise](http://www.bottomlinesecrets.com/cs/contact.html)
+    * [Books & Merchandise](http://www.bottomlinesecrets.com/cs/book_dept.html)
     * [Editorial](http://www.bottomlinesecrets.com/cs/editorial.html)
     * [Contact Us](http://www.bottomlinesecrets.com/cs/contact.html)
-  *   * 
+  * [Contact Us](http://www.bottomlinesecrets.com/cs/contact.html)
+  * [About Us](http://www.bottomlinesecrets.com/article.html?article_id=16350)
+  * 
 | 
 
 BottomLineSecrets.com Web site Privacy Policy
@@ -59,7 +83,7 @@ If for some reason you would prefer not to take advantage of the benefits made p
 
 Bottom Line Secrets Newsletters
 
-For those who [specifically request it](http://store.bottomlinesecrets.com/cust_service/email.html), we send an E-mail letter at least three times each week with specially selected tips of the week and information about what's new on the Web sites and in the pages of our publications. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product or a third party product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
+For those who [specifically request it](http://www.bottomlinesecrets.com/el/bls_signup.html), we send an E-mail letter at least three times each week with specially selected tips of the week and information about what's new on the Web sites and in the pages of our publications. Additionally, one time each week we send an email that gives readers the opportunity to preview a specific Boardroom product or a third party product that helps people enrich the quality of their lives. We also send occasional e-mail letters for special events, such as holidays, to those who have requested our e-mail letter. If you do not want to receive this E-mail in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/el/bls_unsub.html). Please understand that processing this request may take a few days and you may receive newsletters during this time. We appreciate your understanding during this process.
 
 Daily Health News Newsletters
 
@@ -67,11 +91,11 @@ For those who [specifically request it](http://www.bottomlinesecrets.com/e2/e2_s
 
 Boardroom Special Offers
 
-For those who [specifically request it](http://www.bottomlinesecrets.com/cust_service/email_prefs.html), we occasionally e-mail special offers from Boardroom and from third parties. If you do not want to receive these special offers by e-mail from Boardroom in the future, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/email_prefs.html). Please understand that processing this request may take a few days and you may receive offers during this time. We appreciate your understanding during this process.
+For those who [specifically request it](http://www.bottomlinesecrets.com/cust_service/email_prefs.html), we occasionally e-mail special offers from Boardroom and from third parties. If you do not want to receive these special offers by e-mail from Boardroom in the future, please let us know by filling out [this form](http://www.bottomlinesecrets.com/cust_service/email_prefs.html). Please understand that processing this request may take a few days and you may receive offers during this time. We appreciate your understanding during this process.
 
-If you supply us with your postal address on-line, or if you are a print subscriber, you may receive periodic postal mailings from us with information about new products and services or upcoming events. If you do not wish to receive such postal mailings, please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/privacy_form.html?nomail). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
+If you supply us with your postal address on-line, or if you are a print subscriber, you may receive periodic postal mailings from us with information about new products and services or upcoming events. If you do not wish to receive such postal mailings, please let us know by filling out [this form](http://www.bottomlinesecrets.com/cust_service/privacy_form.html?nomail). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
 
-You may also receive postal mailings from other companies that Boardroom believes might interest you. If you do not wish to receive such postal mailings please let us know by filling out [this form](http://store.bottomlinesecrets.com/cust_service/privacy_form.html?noshare). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
+You may also receive postal mailings from other companies that Boardroom believes might interest you. If you do not wish to receive such postal mailings please let us know by filling out [this form](http://www.bottomlinesecrets.com/cust_service/privacy_form.html?noshare). Please understand that processing this request may take a few days and you may receive postal mailings during this time. We appreciate your understanding during this process.
 
 If you would like to reduce the amount of unsolicited postal mail you receive, you can have your name and address added to the Direct Marketing Association's Mail Preference Service. To add your name, just write to the following address or visit their Web site at [www.the-dma.org](http://www.the-dma.org/) (search for Mail Preference Service in their Consumer section). Be sure to include any different spellings or arrangements your name and address might have taken in the mailings you've received.
 
@@ -86,7 +110,7 @@ Boardroom may combine information provided by customers with information obtaine
 
 Change of Address
 
-If you want to review, correct, or change your postal address, [click here](http://store.bottomlinesecrets.com/cust_service/acct_mgmt.cfm). If you want to review, correct or change your e-mail address, [click here.](http://store.bottomlinesecrets.com/cust_service/email_prefs.html)
+If you want to review, correct, or change your postal address, [click here](http://www.bottomlinesecrets.com/cust_service/acct_mgmt.cfm). If you want to review, correct or change your e-mail address, [click here.](http://www.bottomlinesecrets.com/cust_service/email_prefs.html)
 
 Links from the Site
 
@@ -108,8 +132,7 @@ Transfer of Information in Business Transactions
 
 As Boardroom continues to explore new business opportunities, it may need to, and reserves the right to, transfer and assign customer contact and Site usage information collected on the Site to one or more affiliated and unaffiliated entities as part of a business transaction.
 
-  
-
+* * *
 
 ID=16004  
 
