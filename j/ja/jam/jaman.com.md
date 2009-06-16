@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021400id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaman.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064238id_/http%3A//www.jaman.com/privacy-policy) for the most accurate reproduction.*
 
 # Jaman - Jaman Privacy Policy
 
@@ -7,7 +7,7 @@
 Please note that any video, image, or other content posted at the direction of Members onto the Jaman Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
 **Newsletters and Mailing Lists**  
-When you sign up for the Jaman service, you are automatically signed up for Jaman's newsletters and special offers targeted for your interests from Jaman.com, . If you wish to be excluded from these promotional mailings from Jaman.com, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please email [support@jaman.com](mailto:support@jaman.com)
+When you sign up for the Jaman service, you are automatically signed up for Jaman's newsletters and special offers targeted for your interests from Jaman.com, . If you wish to be excluded from these promotional mailings from Jaman.com, go to your account page and turn off email notifications. You will be excluded from future mailings. If you have questions about your subscription to the mailing list, please fill out our [Customer Service Form](https://web.archive.org/feedback)
 
 **The Information Jaman Collects** **  
 **_Account Information:_ You provide certain personally identifiable information (such as your name, email address, credit card information –including billing address--, and age) to Jaman in order to participate in various activities on the Jaman Site such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or receiving newsletters or other mailing lists.
@@ -66,11 +66,11 @@ Jaman stores information about which films you preview in streaming flash format
 
 
 **Your Choices** **  
-** You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also request that your personal information be updated or deleted at any time by e-mailing support@jaman.com. Updates, inaccuracies, and requests for deletion will be responded to within 72 hours. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use. 
+** You may, of course, decline to submit personally identifiable information through the Jaman Site, in which case Jaman may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. You can also request that your personal information be updated or deleted at any time through our [Customer Service Form](https://web.archive.org/feedback/). Updates, inaccuracies, and requests for deletion will be responded to within 72 hours. Please note that media files uploaded by Members to the Jaman Site may not be able to be removed and remain subject to our Terms of Use. 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
-Please contact Jaman with any questions or comments about this Privacy Notice, your personal information, your consent, or if you need help with your opt-in or opt-out choices (provided on the website) by emailing [support@jaman.com](mailto:support@jaman.com). 
+Please contact Jaman with any questions or comments about this Privacy Notice, your personal information, your consent, or if you need help with your opt-in or opt-out choices (provided on the website) by filling out our [Customer Service Form](https://web.archive.org/feedback/). 
 
 **Third-party Companies** **  
 **
@@ -87,7 +87,7 @@ Jaman uses ExactTarget to collect and store data for the purpose of mailing list
 **Tell-A-Friend** **  
 ** If you choose to use our referral service to tell a friend about our site (or the referral service of ExactTarget, our mailing list provider), we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Jaman stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@jaman.com](mailto:support@jaman.com) to request that we remove this information from our database.
+Your friend may contact us through our [Customer Service Form](https://web.archive.org/feedback/) to request that we remove this information from our database.
 
 **Agents**    
 We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
@@ -95,7 +95,7 @@ We use an outside shipping company to fulfill orders, and a credit card processi
 **Our Commitment To Data Security**  
 Jaman uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Jaman and you do so at your own risk. Once we receive your transmission of information, Jaman makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Jaman learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Jaman may post a notice on the Jaman Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by emailing [support@jaman.com](mailto:support@jaman.com).
+If Jaman learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Jaman may post a notice on the Jaman Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by filling out our [Customer Service Form](https://web.archive.org/feedback/).
 
 The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
@@ -119,14 +119,13 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **About TRUSTe Verification**  
 Jaman is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site http://www.jaman.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Jaman Support at support@jaman.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Jaman Support by filling out our customer service form.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
 **Date Last Modified:** This Privacy Notice was last modified December 3, 2007.
 
 **Contact Information:**  
-Email: [support@jaman.com](mailto:support@jaman.com)  
 Address: 2955 Campus Dr, Suite 250, San Mateo, CA 94403  
 Phone: (650) 525-3500
 
