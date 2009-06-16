@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatgamesexperiment.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012032id_/http%3A//www.greatgamesexperiment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatgamesexperiment.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185601id_/http%3A//www.greatgamesexperiment.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Great Games Experiment
 
@@ -6,7 +6,7 @@
 
 ### About this Privacy Policy
 
-Great Games Experiment and GarageGames both greatly value the privacy of customers, visitors, and users to and of this web site.  This document covers the types of personal information that is collected as a participator on this web site and the manner in which it is used.  GarageGames considers personal information to be all information that renders you, the participator, identifiable -- including name, email address, or any other information that is not made publicly available by the user.
+Great Games Experiment and PushButton Labs both greatly value the privacy of customers, visitors, and users to and of this web site.  This document covers the types of personal information that is collected as a participator on this web site and the manner in which it is used.  PushButton Labs considers personal information to be all information that renders you, the participator, identifiable -- including name, email address, or any other information that is not made publicly available by the user.
 
 This policy is part of and subject to the Terms of Service.  Through your use of this web site, you are consenting that you agree with terms outlined in both the Terms of Service and this Privacy Policy.
 
@@ -23,7 +23,7 @@ As a participator on this web site, there are several types of information that 
 ### How We Use Information
 
   * Information you submit, including opinions and comments, is used by the Great Games Experiment to provide to visitors of the site features and functionality.
-  * Personally identifiable information is used by GarageGames and GarageGames alone to evaluate and implement better design practices and site processes.
+  * Personally identifiable information is used by PushButton Labs and PushButton Labs alone to evaluate and implement better design practices and site processes.
   * Cookies are used to provide convenience to site visitors, enabling "remember me" functionality on logins and user profile specific site participation.
   * Your name and email address will not be disclosed or used for any third-party commercial or marketing campaigns without provided consent from individuals registering an account under that corresponding name and email address.
 
