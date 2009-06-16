@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609113559id_/http%3A//www.sockdreams.com/_shop/edit/default_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockdreams.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064002id_/http%3A//www.sockdreams.com/_shop/edit/default_privacy.php) for the most accurate reproduction.*
 
 # Sock Dreams ~ Privacy Policy
 
@@ -42,8 +42,8 @@ The servers that we store personally identifiable information on are kept in a s
 
 If you have any questions about the security of our check out system, you can send an email to [virtualsupport@sagepayments.com](mailto:virtualsupport@sagepayments.com).
 
-If you have any questions about the security at our website, you can [send us an email](https://web.archive.org/web/20080609113559id_/http%3A//www.sockdreams.com/_shop/edit/contact.php). 
+If you have any questions about the security at our website, you can [send us an email](https://web.archive.org/web/20090616064002id_/http%3A//www.sockdreams.com/_shop/edit/contact.php). 
 
 ### How to contact us
 
-Should you have other questions or concerns about these privacy policies, please [send us an email](https://web.archive.org/web/20080609113559id_/http%3A//www.sockdreams.com/_shop/edit/contact.php).
+Should you have other questions or concerns about these privacy policies, please [send us an email](https://web.archive.org/web/20090616064002id_/http%3A//www.sockdreams.com/_shop/edit/contact.php).
