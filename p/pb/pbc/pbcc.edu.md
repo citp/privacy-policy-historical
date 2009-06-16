@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbcc.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161928id_/http%3A//www.pbcc.edu/x7109.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbcc.edu privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132507id_/http%3A//www.pbcc.edu/x7109.xml) for the most accurate reproduction.*
 
 # PBCC - PBCC Internet Privacy Statement
 
