@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the retaggr.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153047id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retaggr.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062946id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.*
 
-# Retaggr - your online presence everywhere
-
-Last updated on 05 June 2008 
+# Retaggr - The Definitive Online Profile
 
 Retaggr.com collects your email address as part of the retaggr service. We will never rent or sell your email address. We hate spam as much as you do.
 
