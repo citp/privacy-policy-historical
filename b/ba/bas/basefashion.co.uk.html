@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the basefashion.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216055740id_/http%3A//www.basefashion.co.uk/shop/information/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basefashion.co.uk privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617000419id_/http%3A//www.basefashion.co.uk/shop/information/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>
@@ -9,9 +9,10 @@ Privacy Policy - Boys Base</title>
 <meta name="description" content="Privacy Policy">
 
 <meta name="robots" content="index,follow,noodp">
+
 <link rel="stylesheet" type="text/css" href="/universal/css/ishop.css" title="style">
 <!-- global.css_link ============================================================BEGIN -->
-<link rel="stylesheet" type="text/css" href="/css/ishop_xmas08.css" title="style">
+<link rel="stylesheet" type="text/css" href="/css/ishop.css" title="style">
 <!-- global.css_link ==========================================END -->
 
 
@@ -34,6 +35,23 @@ function openSearchMain(){
 // ===========
 // JAVASCRIPT
 // ===========
+
+
+
+// global.javascript_inline ===============================BEGIN 
+
+function nav_top_sub_menu(state,menu_id,no_menus){
+	//first, make sure all menus are closed, regardless of state
+	for(i=0; i<=no_menus; i++){
+		document.getElementById('nav_block_subs_'+i).style.display = 'none';
+	}
+	//if we are to open an menu, open it
+	if(state == 'open'){
+		document.getElementById(menu_id).style.display = 'block';
+	}
+}
+
+// global.javascript_inline ===============================END 
 
 
 
@@ -103,8 +121,8 @@ function ishop_change_location(url)
 
 function clPredictorText(predictor_text)
 {
-	document.search.search_string.value = predictor_text;
-	document.search.search_submit.click();
+	document.searchbox.search_string.value = predictor_text;
+	try {document.searchbox.submit.click();}catch (e) {document.searchbox.submit();}
 }
 
 function kdsearch_string(event,search_field)
@@ -120,15 +138,13 @@ function kdsearch_string(event,search_field)
 		{
 			while (pt = document.getElementById('predictor_text'+i))
 			{
-				if (pt.style.backgroundColor=="blue")
+				if (pt.className=="selected")
 				{
-					pt.style.backgroundColor="#ffffee";
-					pt.style.color="black";
+					pt.className="";
 					wasset = true;
 					if (pt = document.getElementById('predictor_text'+(1+i)))
 					{
-						pt.style.backgroundColor="blue";
-						pt.style.color="white";
+						pt.className="selected";
 						++i;
 					} 
 				}
@@ -137,8 +153,7 @@ function kdsearch_string(event,search_field)
 			if (!wasset)
 			{
 				pt = document.getElementById('predictor_text0');
-				pt.style.backgroundColor="blue";
-				pt.style.color="white";				
+				pt.className= "selected";		
 			}
 		} 
 		return false;
@@ -151,15 +166,13 @@ function kdsearch_string(event,search_field)
 		{
 			while (pt = document.getElementById('predictor_text'+i))
 			{
-				if (pt.style.backgroundColor=="blue")
+				if (pt.className=="selected")
 				{
-					pt.style.backgroundColor="#ffffee";
-					pt.style.color="black";
+					pt.className="";
 					wasset = true;
 					if (pt = document.getElementById('predictor_text'+(i-1)))
 					{
-						pt.style.backgroundColor="blue";
-						pt.style.color="white";
+						pt.className="selected";
 					} 
 				}
 				++i;
@@ -167,25 +180,24 @@ function kdsearch_string(event,search_field)
 			if (!wasset)
 			{
 				pt = document.getElementById('predictor_text'+(i-1));
-				pt.style.backgroundColor="blue";
-				pt.style.color="white";				
+				pt.className="selected";			
 			}
 		}
 		return false;
 	}
 
-	if (event.keyCode == 13)
+	if (event.keyCode == 13 || event.keyCode == 9)
 	{
-// Enter Key
+// Enter/Tab Key
 		i = 0;
 		if (document.getElementById('predictor_text0'))
 		{
 			while (pt = document.getElementById('predictor_text'+i))
 			{
-				if (pt.style.backgroundColor=="blue")
+				if (pt.className=="selected")
 				{
-					document.search.search_string.value = pt.innerHTML;
-					document.search.search_submit.click();
+					document.searchbox.search_string.value = pt.innerHTML.replace(/(<([^>]+)>)/ig,"");
+try { document.searchbox.submit();} catch(e) { document.searchbox.submit.click();}
 					return false;
 				}
 				++i;
@@ -245,13 +257,18 @@ if (xmlhttp.readyState==4)
   if (xmlhttp.status==200)
     {// 200 = "OK"
     document.getElementById('searchbox_predictor').innerHTML=xmlhttp.responseText;
-    }
-  else
+    if (xmlhttp.responseText != '')
     {
-    alert("Problem retrieving data:" + xmlhttp.statusText);
+	document.getElementById('searchbox_predictor').style.display = 'block';
+    } else {
+	document.getElementById('searchbox_predictor').style.display = 'none';
+    }
+  } else {
+//    alert("Problem retrieving data:" + ":" + xmlhttp.statusText);
     }
   }
 }
+
 // ishop/common/standard.js ===============================END 
 
 
@@ -267,16 +284,17 @@ if (xmlhttp.readyState==4)
 
 //-->
 </style>
-
+<meta name="revisit-after" content="30 Days">
 </head>
 
 <body>
 
+
 <!-- 1152/navigation/navigation_3column.html ================BEGIN -->
 
-             <div class="body_table">
-						 <!-- nav banner begin -->
-			           
+<div class="body_table">
+<!-- nav banner begin -->
+
 <!-- 1152/common/banner.html ======================BEGIN -->
 
 <div id="banner">
@@ -296,28 +314,20 @@ var sc_security="48c393ec";
 class="statcounter"><a href="http://www.statcounter.com/" target="_blank"><img
 class="statcounter" src="http://c.statcounter.com/3821136/0/48c393ec/1/"
 alt="counter create hit" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-
-
-
-<div class="xmas_flash">
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="984" height="135" id="banner_xmas" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="/flash/banner_xmas.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="/flash/banner_xmas.swf" quality="high" bgcolor="#ffffff" width="984" height="135" name="banner_xmas" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
-</div><!-- global.banner_inline - end -->
+<!-- End of StatCounter Code --><!-- global.banner_inline - end -->
 
 
 </div>
 <!-- 1152/common/banner.html ======================END -->
 
-			        <!-- nav banner begin -->
-							</div>
-							<table id="body_table_contain" width="990" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-             <td class="body_table" valign="top">
-                <div id="banner_line">
-								                
+<!-- nav banner begin -->
+</div>
+<table id="body_table_contain" width="990" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td class="body_table" valign="top">
+
+<div id="banner_line">
+
 <!-- 1152/common/crumbtrail.html ==================BEGIN -->
 
 <div style="margin-left:5px;">
@@ -331,26 +341,30 @@ Where Was I?</a>
 
 <!-- 1152/common/crumbtrail.html ==================END -->
 
-                
-                
-<!-- 1152/common/searchbox.html ===================BEGIN -->
+
+
+<!-- ishop/common/searchbox.html ==================BEGIN -->
 
 <div id="searchbox">
   <div class="searchbox_top"><span>Search</span></div>
   <div class="searchbox_middle">
   
-	<form action="/shop/search" method="post" id="form_contain">
-	<input class="searchbox_textarea" type="text" value="Enter Here..." onclick="this.value='';" name="search_string">
-	<input type="submit" name="submit" value="Go" class="searchbox_submit">
+	<form name="searchbox" action="/shop/attributesearch" method="post">
+<input type="text" value="Search" onfocus="if (this.value=='Search'){this.value='';};" name="search_string" size="14" class="searchbox_string" onkeyup="return kusearch_string(event,this);" onkeydown="return kdsearch_string(event,this);" autocomplete="off">
+        <input type="submit" name="submit" value="Go" class="searchbox_submit">
+
+<div style="clear: both; position: relative;">
+<div id="searchbox_predictor"></div>
+</div>
 	</form>
 
   </div>
   <div class="searchbox_bottom"></div>
 </div>
 
-<!-- 1152/common/searchbox.html ===================END -->
+<!-- ishop/common/searchbox.html ==================END -->
 
-                
+
 <!-- ishop/common/basketbox.html ==================BEGIN -->
 
 <div id="basketbox">
@@ -365,69 +379,212 @@ Where Was I?</a>
 
 <!-- ishop/common/basketbox.html ==================END -->
 
-                
-                </div>
-					 </td>
-				</tr>
-				
-				<tr>
-    <td class="body_table" valign="top">
-      <div class="columns">
-      
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-          <td class="empty"></td>
-	      <td class="page" rowspan="2" valign="top" width="100%">
-	      
-	     <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-			<tbody><tr>
-             <td class="body_table" valign="top">
-					    <!-- nav banner begin -->
-			           
+
+</div>
+
+
+<!-- 1152/common/nav_top.html =====================BEGIN -->
+
+<div id="nav_top">
+<div class="nav_block nav_block_first" onmouseover="nav_top_sub_menu('open','nav_block_subs_0','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_0','3');">
+<a class="nav_top_lvl1  first  nav_top_boys_2_8" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
+<span>Boys 2-8</span>
+</a>
+
+
+
+<div id="nav_block_subs_0" class="nav_block_subs">
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shirts.html">
+<span>Shirts</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/sweaters-jumpers.html">
+<span>Tops</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jeans.html">
+<span>Jeans</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shorts.html">
+<span>Shorts</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shoes.html">
+<span>Shoes</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/accessories.html">
+<span>Accessories</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/underwear.html">
+<span>Underwear</span>
+</a>
+<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jackets.html">
+<span>Jackets</span>
+</a>
+</div>
+
+
+</div>
+<div class="nav_block " onmouseover="nav_top_sub_menu('open','nav_block_subs_1','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_1','3');">
+<a class="nav_top_lvl1    nav_top_boys_10_16" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
+<span>Boys 10-16</span>
+</a>
+
+
+
+<div id="nav_block_subs_1" class="nav_block_subs">
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shirts.html">
+<span>Shirts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/sweaters-jumpers.html">
+<span>Tops</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jeans.html">
+<span>Jeans</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shorts.html">
+<span>Shorts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shoes.html">
+<span>Shoes</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/accessories.html">
+<span>Accessories</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/underwear.html">
+<span>Underwear</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jackets.html">
+<span>Jackets</span>
+</a>
+</div>
+
+
+</div>
+<div class="nav_block " onmouseover="nav_top_sub_menu('open','nav_block_subs_2','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_2','3');">
+<a class="nav_top_lvl1    nav_top_girls" href="http://www.basefashion.co.uk/shop/girls.html">
+<span>Girls</span>
+</a>
+
+
+
+<div id="nav_block_subs_2" class="nav_block_subs">
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/tops.html">
+<span>Tops</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/dresses.html">
+<span>Dresses</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/jeans-bottoms.html">
+<span>Jeans &amp; Bottoms</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/skirts.html">
+<span>Skirts</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/shorts.html">
+<span>Shorts</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/shoes.html">
+<span>Shoes</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/girls/girls-summer-sale.html">
+<span>Girls Summer Sale</span>
+</a>
+</div>
+
+
+</div>
+<div class="nav_block " onmouseover="nav_top_sub_menu('open','nav_block_subs_3','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_3','3');">
+<a class="nav_top_lvl1   last nav_top_mens" href="http://www.basefashion.co.uk/shop/mens.html">
+<span>Mens</span>
+</a>
+
+
+
+<div id="nav_block_subs_3" class="nav_block_subs">
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/shirts.html">
+<span>Shirts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/t-shirts.html">
+<span>T-Shirts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/sweaters-jumpers.html">
+<span>Tops</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/jeans.html">
+<span>Jeans</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/shoes.html">
+<span>Shoes</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/mens/shorts.html">
+<span>Shorts</span>
+</a>
+<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/underwear.html">
+<span>Underwear</span>
+</a>
+<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/mens/watches.html">
+<span>Watches</span>
+</a>
+</div>
+
+
+</div>
+</div>
+<!-- 1152/common/nav_top.html =====================END -->
+
+
+</td>
+</tr>
+
+<tr>
+<td class="body_table" valign="top">
+<div class="columns">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+<td class="empty"></td>
+<td class="page" rowspan="2" valign="top" width="100%">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+<tbody><tr>
+<td class="body_table" valign="top">
+<!-- nav banner begin -->
+
 <!-- 1152/common/nav_banner.html ==================BEGIN -->
 
-<div id="nav_banner">
-<div style="margin-left:2px;">
-<a class="nav_banner_lvl1
-nav_banner_first" href="http://www.basefashion.co.uk/shop/company.html">
-<span>Company</span></a>
-<a class="nav_banner_lvl1
-" href="http://www.basefashion.co.uk/shop/news.html">
-<span>News</span></a>
-<a class="nav_banner_lvl1
-" href="http://www.basefashion.co.uk/shop/stores.html">
-<span>Stores</span></a>
-<a class="nav_banner_lvl1
-" href="http://www.basefashion.co.uk/shop/information.html">
-<span>Information</span></a>
-</div>
-</div>
 
 <!-- 1152/common/nav_banner.html ==================END -->
 
-                 <div class="spacer"></div>
-			        <!-- nav banner begin -->
-					 </td>
-				</tr>
-				
-			<!-- header section - begin -->
-			<tr>
-			<td class="sectionheader">
-				
-														
-					<h1>					Privacy Policy					</h1>					
-												</td>
-			</tr>
-			<!-- header section - end -->
-			
-			<!-- promotions - begin -->
-						<!-- promotions - end -->
-			
-			<!-- page.upper_content - begin -->
-						  <tr>
-			    <td class="uppercontent">
-				  				  
-				  <p class="content_title">We Respect Your Privacy</p>
+<div class="spacer"></div>
+<!-- nav banner begin -->
+</td>
+</tr>
+
+<!-- header section - begin -->
+<tr>
+<td class="sectionheader">
+
+
+<h1>Privacy Policy</h1>
+</td>
+</tr>
+<!-- header section - end -->
+
+<!-- promotions - begin -->
+<!-- promotions - end -->
+
+<!-- page.upper_content - begin -->
+<tr>
+<td class="uppercontent">
+
+<p class="content_title">We Respect Your Privacy</p>
 
 <p>It is important to us at BASE that we protect your privacy when you shop
 online with us. The following information lets you know what data we collect and
@@ -498,35 +655,35 @@ Unit 2 Woodford Trading Estate
 
 
 
-			
-				  				</td>
-			  </tr>
-						<!-- page.upper_content - end -->
-			
-			<!-- subsection thumbs - begin -->
-						<!-- subsection thumbs - end -->
-			
-			<!-- product thumbs - begin -->
-						<!-- product thumbs - end -->
-			
-			<!-- page.lower_content - begin -->
-						<!-- page.lower_content - end -->
-			
-			<!-- product strip - begin -->
-			<tr>
-			  <td>
-			    			  </td>
-			</tr>
-			<!-- product strip - end -->
 
-			</tbody></table>
-			
-		  </td>
-	      <td class="empty"></td>
-	    </tr>
-	    <tr>
-	      <td class="column_left" valign="top">
-		    
+</td>
+</tr>
+<!-- page.upper_content - end -->
+
+<!-- subsection thumbs - begin -->
+<!-- subsection thumbs - end -->
+
+<!-- product thumbs - begin -->
+<!-- product thumbs - end -->
+
+<!-- page.lower_content - begin -->
+<!-- page.lower_content - end -->
+
+<!-- product strip - begin -->
+<tr>
+<td>
+</td>
+</tr>
+<!-- product strip - end -->
+
+</tbody></table>
+
+</td>
+<td class="empty"></td>
+</tr>
+<tr>
+<td class="column_left" valign="top">
+
 <!-- 1152/common/column_left.html =================BEGIN -->
 
 <div id="column_left">
@@ -534,43 +691,17 @@ Unit 2 Woodford Trading Estate
 
 <!-- 1152/common/nav_left.html ==========BEGIN -->
 
-<div id="nav_left">
-<div class="nav_left_top"><span>BROWSE our stock!</span></div>
-<div class="nav_left_middle">
+<div id="nav_left_test">
+<div class="nav_left_test_top"><span>BROWSE our stock!</span></div>
+<div class="nav_left_test_middle">
 
  
-<a class="nav_left_lvl1  " href="http://www.basefashion.co.uk/shop/home.html">
-<span>
-Home</span>
-</a>
-
-
  
-<a class="nav_left_lvl1  " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
-<span>
-Boys Clothing 10-16 Years</span>
-</a>
-
-
  
-<a class="nav_left_lvl1  " href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
-<span>
-Kids Clothing 2-8 Years</span>
-</a>
-
-
  
-<a class="nav_left_lvl1  " href="http://www.basefashion.co.uk/shop/sale.html">
-<span>
-SALE</span>
-</a>
-
-
-
 </div>
-<div class="nav_left_bottom"></div>
+<div class="nav_left_test_bottom"></div>
 </div>
-
 <!-- 1152/common/nav_left.html ==========END -->
 
 
@@ -580,65 +711,15 @@ SALE</span>
 <!-- 1152/common/nav_extra.html =========BEGIN -->
 
 
-
-<div id="nav_extra">
-<div class="nav_extra_top"><span>BRANDS</span></div>
-<div class="nav_extra_middle">
-<a class="" href="http://www.basefashion.co.uk/shop/moschino-clothing.html">
-	<img src="/images/page/moschino.jpg" alt="Moschino" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/diesel-clothing.html">
-	<img src="/images/page/diesel.jpg" alt="Diesel" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/jimmy-bee-clothing.html">
-	<img src="/images/page/jimmy_bee.gif" alt="Jimmy Bee" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/voi-jeans.html">
-	<img src="/images/page/voi.gif" alt="Voi Jeans" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/dkny-clothing.html">
-	<img src="/images/page/dkny.jpg" alt="DKNY" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/polo-ralph-lauren-clothing.html">
-	<img src="/images/page/polo-ralph-lauren.jpg" alt="Polo Ralph Lauren" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/ted-baker-clothing.html">
-	<img src="/images/page/ted-baker.jpg" alt="Ted Baker" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/timberland-clothing.html">
-	<img src="/images/page/timberland.jpg" alt="Timberland" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/kickers-clothing.html">
-	<img src="/images/page/kickers.gif" alt="Kickers" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/stone-island.html">
-	<img src="/images/page/stone_island.gif" alt="Stone Island" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/armani-jr-clothing.html">
-	<img src="/images/page/armani_jr.gif" alt="Armani Jr" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/tommy-hilfiger-clothing.html">
-	<img src="/images/page/tommy_hilfiger.gif" alt="Tommy Hilfiger" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/bench.html">
-	<img src="/images/page/bench.gif" alt="Bench" class="nav_extra_img">
-</a>
-<a class="" href="http://www.basefashion.co.uk/shop/lacoste-clothing.html">
-	<img src="/images/page/lacoste.jpg" alt="Lacoste" class="nav_extra_img">
-</a>
-</div>
-<div class="nav_extra_bottom"></div>
-</div>
-
 <!-- 1152/common/nav_extra.html =========END -->
 
 
 </div>
 <!-- 1152/common/column_left.html =================END -->
 
-		  </td>
-	      <td class="column_right" valign="top">
-		    
+</td>
+<td class="column_right" valign="top">
+
 <!-- 1152/common/column_right.html ================BEGIN -->
 
 <div id="column_right">
@@ -654,73 +735,29 @@ SALE</span>
 
 <!-- 1152/common/column_right.html ================END -->
 
-		  </td>
-	    </tr>
-	  </tbody></table>
-	  </div>
-    </td>
-  </tr>
-  <tr>
-	<td class="body_table" valign="top">
-		
+</td>
+</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="body_table" valign="top">
+
 <!-- 1152/common/footer.html ======================BEGIN -->
 
 <div id="nav_footer">
  
 <div class="row">
-<a class="nav_footer_lvl1  " href="http://www.basefashion.co.uk/shop/home.html">
+<a class="nav_footer_lvl1  nav_top_boys_2_8" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
 <span>
-Home</span>
+Boys 2-8</span>
 </a>
 
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/seasonal-savers.html">
-<span>
-Sale - up to 50% Off</span>
-</a>
-</div>
- 
-<div class="row">
-<a class="nav_footer_lvl1  " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
-<span>
-Boys Clothing 10-16 Years</span>
-</a>
-
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shirts.html">
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shirts.html">
 <span>
 Shirts</span>
 </a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/t-shirts.html">
-<span>
-T-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/sweaters-jumpers.html">
-<span>
-Tops</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jeans.html">
-<span>
-Jeans</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shoes.html">
-<span>
-Shoes</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/underwear.html">
-<span>
-Underwear</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jackets.html">
-<span>
-Jackets</span>
-</a>
-</div>
- 
-<div class="row">
-<a class="nav_footer_lvl1  " href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
-<span>
-Kids Clothing 2-8 Years</span>
-</a>
-
 <a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/t-shirts.html">
 <span>
 T-Shirts</span>
@@ -732,6 +769,10 @@ Tops</span>
 <a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jeans.html">
 <span>
 Jeans</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shorts.html">
+<span>
+Shorts</span>
 </a>
 <a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shoes.html">
 <span>
@@ -752,11 +793,127 @@ Jackets</span>
 </div>
  
 <div class="row">
-<a class="nav_footer_lvl1  " href="http://www.basefashion.co.uk/shop/sale.html">
+<a class="nav_footer_lvl1  nav_top_boys_10_16" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
 <span>
-SALE</span>
+Boys 10-16</span>
 </a>
 
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shirts.html">
+<span>
+Shirts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/t-shirts.html">
+<span>
+T-Shirts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/sweaters-jumpers.html">
+<span>
+Tops</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jeans.html">
+<span>
+Jeans</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shorts.html">
+<span>
+Shorts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shoes.html">
+<span>
+Shoes</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/accessories.html">
+<span>
+Accessories</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/underwear.html">
+<span>
+Underwear</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jackets.html">
+<span>
+Jackets</span>
+</a>
+</div>
+ 
+<div class="row">
+<a class="nav_footer_lvl1  nav_top_girls" href="http://www.basefashion.co.uk/shop/girls.html">
+<span>
+Girls</span>
+</a>
+
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/t-shirts.html">
+<span>
+T-Shirts</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/tops.html">
+<span>
+Tops</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/dresses.html">
+<span>
+Dresses</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/jeans-bottoms.html">
+<span>
+Jeans &amp; Bottoms</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/skirts.html">
+<span>
+Skirts</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/shorts.html">
+<span>
+Shorts</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/shoes.html">
+<span>
+Shoes</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/girls/girls-summer-sale.html">
+<span>
+Girls Summer Sale</span>
+</a>
+</div>
+ 
+<div class="row">
+<a class="nav_footer_lvl1  nav_top_mens" href="http://www.basefashion.co.uk/shop/mens.html">
+<span>
+Mens</span>
+</a>
+
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/shirts.html">
+<span>
+Shirts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/t-shirts.html">
+<span>
+T-Shirts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/sweaters-jumpers.html">
+<span>
+Tops</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/jeans.html">
+<span>
+Jeans</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/shoes.html">
+<span>
+Shoes</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/mens/shorts.html">
+<span>
+Shorts</span>
+</a>
+<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/underwear.html">
+<span>
+Underwear</span>
+</a>
+<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/mens/watches.html">
+<span>
+Watches</span>
+</a>
 </div>
 
 </div>
@@ -776,16 +933,17 @@ SALE</span>
 <!-- global.footer_inline - begin -->
 <a href="/shop/information/contact-us.html"> Contact Us - </a>
 <a href="/shop/information/about-us.html"> About Us - </a>
-<a href="/shop/information/privacy-policy.html"> Privacy Policy - </a>
+<a href="/shop/information/returns-refunds.html"> Returns Policy - </a>
 <a href="/shop/information/delivery-information.html"> Delivery Info - </a>
+<a href="/shop/information/privacy-policy.html"> Privacy Policy - </a>
 <a href="/shop/information/terms-conditions.html"> Terms &amp; Conditions - </a>
-<a href="/shop/information/history.html" class="footer_last">History</a><!-- global.footer_inline - end -->
+<a href="/shop/stores.html" class="footer_last">Stores</a><!-- global.footer_inline - end -->
 </div>
 
 <!-- 1152/common/footer.html ======================END -->
 
-	</td>
-  </tr>
+</td>
+</tr>
 </tbody></table>
 
 <a href="http://www.ishop-solutions.co.uk" class="copyright">Designed &amp; Powered by Ishop ltd</a>
@@ -793,4 +951,7 @@ SALE</span>
 
 
 
-<!-- Time = 89ms.--></body></html>
+<!--
+
+       0ts        0ts end
+--></body></html>
