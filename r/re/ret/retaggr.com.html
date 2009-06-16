@@ -1,18 +1,60 @@
-<!--The following is the downloaded HTML source of the retaggr.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216153047id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the retaggr.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616062946id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=7"><title>
-	Retaggr - your online presence everywhere
-</title><link rel="shortcut icon" href="/favicon.ico"><link href="/Content/Site.css?css0.765" rel="stylesheet" type="text/css"><!--[if lt IE 7]><link href="/Content/SiteIE.css?css0.765" rel="stylesheet" type="text/css" /><![endif]-->
-    <script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.all.js?20081027"></script>
+	Retaggr - The Definitive Online Profile
+</title><link rel="shortcut icon" href="/favicon.ico"><link href="/Content/Site.css?css0.778" rel="stylesheet" type="text/css"><!--[if lt IE 7]><link href="/Content/SiteIE.css?css0.778" rel="stylesheet" type="text/css" /><![endif]-->
+    <script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.all.js?20090103"></script>
 	
-	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/com.js?js0.362"></script>
+	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/com.js?js0.365"></script>
 	
-	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.effects.js?ver=20080716"></script>
-	<link href="http://blog.retaggr.com/?feed=rss2" title="RSS 2.0" type="application/rss+xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=rss" title="RSS .92" type="text/xml" rel="alternate"><link href="http://blog.retaggr.com/?feed=atom" title="Atom 0.3" type="application/atom+xml" rel="alternate">
+	<script language="javascript" type="text/javascript" src="http://script.retaggr.com/Script/jquery.effects.js?ver=20081217"></script>
+	
+
+
+<style type="text/css">
+img.menuPremiumIndicator{
+	position:absolute;
+	left:-1px;
+	top:5px;
+}
+
+</style>
+
+<!--[if lte IE 6]>
+<style type="text/css">
+
+img.menuPremiumIndicator{
+	display:none;
+}
+
+</style>
+<![endif]-->
+
+
 <script type="text/javascript" language="javascript">
 
 $j(document).ready( function(){
+
+	 $j(".nav ul li").hover(
+		 function () {
+			var it = $j(this);
+			it.addClass("hovering");
+			if (it.hasClass("hovering") ){
+				var dropdown_width = it.width();
+				//		 var paddingright = $j(this).css("padding-right");
+				//		 var paddingleft = $j(this).css("padding-left");
+				it.find(".dropdown_menu").css("min-width",dropdown_width);
+				//if(_isIE6) it.find(".dropdown_menu").css("width",dropdown_width);
+				/*$j(this).find(".dropdown_menu").hide();*/
+				it.find(".dropdown_menu").queue("fx",[]);
+				it.find(".dropdown_menu").show();
+			}
+		},
+		function () {
+			 $j(this).find(".dropdown_menu").hide();
+			 $j(this).removeClass("hovering");
+		});
 	
 	
 	
@@ -104,30 +146,32 @@ $j(document).ready( function(){
 			<form action="/Security/Authenticate" method="post" id="frmMasterLogin">
 				<table class="loginTable">
 				<tbody><tr>
-					<td><label for="userName">Email:</label></td>
+					<td class="labelCol"><label for="userName">Email</label></td>
 					<td>
 						<input type="text" name="email" style="width:150px">
 					</td>
-					</tr>
-					<tr>
-						<td><label for="password" style="text-align:right">Password:</label> </td>
-						<td>
-						<input type="password" name="password" style="width:150px">
-						</td>
-					</tr>
-					<tr>
-						<td>Remember Me:</td>
-						<td align="right">
-							
-							<div style="float:left">
-								<input type="checkbox" name="rememberMe" value="true" style="margin-top:0.5em">
-							</div>
-							<button type="submit" name="cmdSubmit" id="cmdSubmit">Login</button>
-							<img id="imgLoginWait" style="display:none;margin-right:20px;margin-top:5px" src="/Content/images/fetching.gif" title="Please wait">
-							<a href="/Login?error=FORGOTPASSWORD">Forgot Password?</a>
-						</td>
-					</tr>
-	
+					<td>
+						<a href="/register">Sign Up</a>
+					</td>
+				</tr>
+				<tr>
+					<td class="labelCol"><label for="password">Password</label> </td>
+					<td>
+					<input type="password" name="password" style="width:150px">
+					</td>
+					<td>
+					<a href="/Login?error=FORGOTPASSWORD">Forgot?</a>
+					</td>
+				</tr>
+				<tr>
+					<td valign="middle" class="labelCol"><label for="rememberMe">Remember</label> </td>
+					<td valign="middle">
+						<input type="checkbox" name="rememberMe" value="true" class="flush" style="border:0;vertical-align:baseline">
+						<button type="submit" name="cmdSubmit" id="cmdSubmit" style="border:0px;margin:0px 0px 0px 1em;padding:2px;font-weight:bold">Login »</button>
+						<img id="imgLoginWait" style="display:none;vertical-align:top;margin-left:1em" src="/Content/images/ajaxLoadBlueBar.gif" title="Please wait...">
+					</td>
+					<td></td>
+				</tr>
 				</tbody></table>
 			</form>			
 		</div>
@@ -140,43 +184,31 @@ $j(document).ready( function(){
 
 
 	
-	<div id="masterMenu">
-		<div style="float:left">
+	
 			<div class="nav">
-				<ul>
-					<li><a href="/Home">Home</a></li>
+					<ul>
+					
 					
 						<li>
-							<b><a href="/register">Sign up</a></b>
+							<b><a href="/register">Sign Up</a></b>
 						</li>
 						
 						<li>
 							<a href="/Home/Demo">Demo</a>
 						</li>
-						<li>
-							<a href="/Home/Tour">Tour</a>
-						</li>
-						
-						<li>
-							<a href="/Partners">Partners</a>
-						</li>
+							<li><a href="/FAQ">FAQ</a> </li>
 						
 					
-					
-					
-					
-					<li>
-						<a href="/FAQ">FAQ</a>
-					</li>
 					
 				</ul>
-			</div>	
-		</div>	
-	</div>
+			</div>
+
 	
 </div>
 
-<div style="clear:both;height:3px"></div>
+
+<div style="clear:both;"></div>
+
 
 <div id="body">
 	<div class="fullStrip clearfix" id="fullStrip">
@@ -189,7 +221,7 @@ $j(document).ready( function(){
 		</div>
 	</div>
 
-	<div class="middle clearfix">
+	<div class="middle clearfix" id="pageContent">
 		<div id="pageErrorMessage">
 			<div class="message"></div>
 			<button style="width:50px;margin-top:10px">OK</button>
@@ -338,26 +370,15 @@ you have any questions regarding our policy, email us at <a href="mailto:privacy
 	
 
 
-<script language="javascript" type="text/javascript">
-var addthis_pub = 'niksmit';
-var addthis_url = 'http://www.retaggr.com';
-var addthis_title = 'retaggr - your online presence everywhere';
 
-function addthis_click(obj, str){
-var aturl = 'http://www.addthis.com/bookmark.php';
-aturl += '?v=10';
-aturl += '&pub='+addthis_pub;
-aturl += '&url='+encodeURIComponent(addthis_url);
-aturl += '&title='+encodeURIComponent(addthis_title);
+<a class="a2a_dd" href="http://www.addtoany.com/share_save?linkname=Retaggr&amp;linkurl=www.retaggr.com">
+<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark"></a>
 
-window.open(aturl,'addthis','scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');
+<script type="text/javascript">a2a_linkname="Retaggr - The Definitive Online Profile";a2a_linkurl="www.retaggr.com";a2a_onclick=1;a2a_show_title=1;a2a_num_services=22;</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
 
-return false;
-}
-</script>
-	
-<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url  = 'http://www.retaggr.com'; addthis_title = 'retaggr'; addthis_logo  = 'http://www.retaggr.com/Content/images/retaggrLogo.png'; return addthis_click(this);" target="_blank">
-<img src="http://content.retaggr.com/static/button1-share.gif" width="125" height="16" border="0" alt="Bookmark and Share" style="vertical-align:baseline"></a> 
+
+
 
 
 
@@ -376,11 +397,13 @@ return false;
 <b><a href="http://www.retaggr.com/Home/Press">press</a></b>
 |
 
-<a href="http://www.retaggr.com/Contact">contact</a>
+<a href="http://www.retaggr.com/Contact">contact us</a>
 |
 <a href="http://www.retaggr.com/FAQ">faq</a>
 |
 <a href="http://www.retaggr.com/Home/UserTools">user tools</a>
+|
+<a href="http://www.retaggr.com/Home/Credits">credits</a>
 |
 <a href="http://www.retaggr.com/Home/Terms">terms and conditions</a>
 |
@@ -388,15 +411,14 @@ return false;
 
 <br>
 <br>
-Version 1.0.0.34017
-|
-copyright © 2008 Retaggr | thumbnail images copyright their respective owners
+
+copyright © 2009 Retaggr | thumbnail images copyright their respective owners
 </div>
 
 <div style="display:none">
-	<img src="/Content/images/btn-bg2.gif">
-	<img src="/Content/images/btn-bgG2.gif">
-	</div>
+	<img src="/Script/RenderImage.ashx?type=gradient&amp;w=2&amp;h=26&amp;c=444444&amp;l=60&amp;tb=0">
+	<img src="/Script/RenderImage.ashx?type=gradient&amp;w=2&amp;h=30&amp;c=009900&amp;l=60&amp;tb=0">
+</div>
 
 </div>
 
@@ -411,6 +433,6 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-<!-- web02,12/16/2008 3:31:04 PM -->
+<!-- web02,6/16/2009 6:29:48 AM -->
 
 </body></html>
