@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021403id_/http%3A//www.moneyfacts.co.uk/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153051id_/http%3A//www.moneyfacts.co.uk/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy policy details how we ensure personal information about you is kept
 
 Please read this policy carefully as once you use this site and/or any of our services or products you will be regarded as having accepted this privacy policy. 
 
-Moneyfacts Group plc (company number 4063110) is the data controller. Our registered office is Moneyfacts House, 66 – 70 Thorpe Road, Norwich NR1 1BJ. If you have any queries relating to data protection issues please contact the Data Unit at the above address. 
+Moneyfacts.co.uk Limited (company number 6615303) is the data controller. Our registered office is Moneyfacts House, 66 – 70 Thorpe Road, Norwich NR1 1BJ. If you have any queries relating to data protection issues please contact the Data Unit at the above address. 
 
 If you do not accept this privacy policy do not use this site. 
 
@@ -24,7 +24,7 @@ The Data Protection Act puts obligations on users of personal information and la
 
 ## The information we hold: 
 
-Moneyfacts Group respects the privacy of people using this site. The Moneyfacts site (‘the site’) is not strictly designed to capture or store personal information but to provide information and to search for different products and services. We do, however, monitor usage of the service by tracking a users IP Address and record automatically their activity around the site on the Web Server. Moneyfacts Group may share this information with advertisers, business partners, sponsors and other third parties. However, (unless otherwise required by law) only aggregate information is disclosed about a user that does not identify or disclose information about any individual. For example it may be disclosed how frequently the average user visits the site. 
+Moneyfacts respects the privacy of people using this site. The Moneyfacts site (‘the site’) is not strictly designed to capture or store personal information but to provide information and to search for different products and services. We do, however, monitor usage of the service by tracking a users IP Address and record automatically their activity around the site on the Web Server. Moneyfacts may share this information with advertisers, business partners, sponsors and other third parties. However, (unless otherwise required by law) only aggregate information is disclosed about a user that does not identify or disclose information about any individual. For example it may be disclosed how frequently the average user visits the site. 
 
 The site uses cookies for collecting the information detailed above about the use of this site. Again, this information does not identify or disclose any personal details other than your IP address. If you do not wish to receive cookies then you will be unable to use the website. 
 
