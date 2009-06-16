@@ -1,31 +1,36 @@
-> *The following text is extracted and transformed from the ea.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229043738id_/http%3A//www.ea.com/global/legal/privacy_enus.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ea.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065510id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
-# EA Online Privacy Policy
+# 
 
-California Residents: Click for Your California Privacy Rights
+**EA ONLINE PRIVACY POLICY**
 
-Last Update: October 30, 2007
+**LAST UPDATED** :  October 30, 2007[](http://www.truste.org/ivalidate.php?companyName=Electronic%20Arts&sealid=101) 
 
-[](http://www.truste.org/ivalidate.php?companyName=Electronic%20Arts&sealid=101)
+EA and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online. This policy applies to TRUSTe certified EA sites.   To view a complete list of these Validated EA Web Sites, please click on the TRUSTe seal.  
 
-By registering, you will open an account with Electronic Arts (EA) in the United States. Your data will be stored in the USA. Though EA may share your data with EA affiliates in countries with varying personal data protection laws, your data is always protected by our Privacy Policy. EA and EA affiliates use your data to administer your account, provide information of interest to you, and to communicate with you. You may opt out of receiving marketing materials by changing your account preferences. More information about how EA uses your data and your related rights can be found in our Privacy Policy below. By registering, you agree that EA may process your data in accordance with the following Privacy Policy and that you will abide by Terms & Conditions below. 
+In addition, Electronic Arts owns several other domain names that resolve to the web sites listed above. We may also add new sites that are subject to this privacy policy and we may update this list to include those. Please note that this policy applies only to sites maintained by Electronic Arts and its subsidiaries, and not to web sites maintained by other companies or organizations to which we link. 
 
-**EA ONLINE PRIVACY POLICY** EA and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online. This policy applies to TRUSTe certified EA sites. To view a complete list of these Validated EA Web Sites, please click on the TRUSTe seal. In addition, Electronic Arts owns several other domain names that resolve to the web sites listed above. We may also add new sites that are subject to this privacy policy and we may update this list to include those. Please note that this policy applies only to sites maintained by Electronic Arts and its subsidiaries, and not to web sites maintained by other companies or organizations to which we link. 
+EA complies with the EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union consistent with the European Commission’s Directive on Data Protection that went into effect in October, 1998. 
 
-EA complies with the EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union consistent with the European Commission’s Directive on Data Protection that went into effect in October, 1998. EA is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, EA has agreed to notify its site users of: 
+EA is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, EA has agreed to notify its site users of:
 
-  1. What personally identifiable information we collect. 
-  2. What personally identifiable information third parties collect through our sites. 
-  3. What organization collects the information. 
-  4. How we use the information. 
-  5. With whom we may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What measures we take to protect the information under our control. 
-  8. How users can correct any inaccuracies in the information. 
+1.      What personally identifiable information we collect.
 
+2.      What personally identifiable information third parties collect through our sites.
 
+3.      What organization collects the information. 
 
-If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at privacyadmin.ea.com. If your country is not listed, please contact the United States’ Privacy Policy Administrator. If your inquiry is not satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site. 
+4.      How we use the information.
+
+5.      With whom we may share user information. 
+
+6.      What choices are available to users regarding collection, use and distribution of the information. 
+
+7.      What measures we take to protect the information under our control.
+
+8.      How users can correct any inaccuracies in the information. 
+
+If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at privacyadmin.ea.com. If your country is not listed, please contact the United States’ Privacy Policy Administrator.  If your inquiry is not satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).   TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
 **Third Party Sites.**   
 If you click on a link to a third party site, including on an advertisement, you will leave the EA site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as EA. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to an EA site, you should consult that site’s privacy policy before providing any personal information. 
@@ -63,10 +68,10 @@ When you play our games on your PC or console, we may retrieve information about
 **In-Game Advertising**   
 Our games may incorporate dynamic advertisement serving technology offered by Massive Inc. or IGA Worldwide Inc. (“Ad Providers”), which enables advertising to be temporarily uploaded into the game on your PC or console, and replaced while you play online. Ad Providers only log information that is needed to measure presentation of, and serve advertising to the appropriate geographic region, and to the right location within the game. Logged data may include Internet Protocol Address or player’s user name, in game location, length of time an advertisement was visible, size of the advertisements, and angle of view. Your game may be assigned an id number, which is stored on your PC or console, and used by Ad Providers to calculate the number of unique and repeat views of dynamic in game advertising. The id number is not associated with any personal data. No logged information is used to personally identify you. The servers used by the Ad Providers may be located outside your country of residence. If you reside in a Member State of the European Union, the servers may be located outside of the European Union. This ad serving technology is integrated into the game; if you do not want to use this technology, do not play the game while connected to the Internet. For more information concerning Massive Incorporated, please visit http://www.massiveincorporated.com. For more information concerning IGA Worldwide Inc., please visit www.igaworldwide.com. 
 
-P **ublic Data**   
+**Public Data**   
 Your participation in tournaments or other online game events, is conditional upon you agreeing to us collecting, using, storing, transmitting and publicly displaying statistical data (such as your scores, rankings and achievements) generated through your participation. 
 
-**A Special Note about Children**   
+**A Special Note about Children**  
 EA does not knowingly collect data from anyone under the age of 13. 
 
 **What about cookies and other technologies?**   
@@ -93,7 +98,7 @@ We may use third party contractors, such as credit agencies or market research f
 
 When our third-party contractors collect and/or have access to the personal information you provide to Electronic Arts, Electronic Arts requires that they adhere to our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by Electronic Arts. These third parties are prohibited from using your personally identifiable information for any other purpose without your specific consent. 
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. If you do share your information, to opt-out from receiving further communications from any third party that is not our agent/service provider, please contact that marketing partner or affiliate directly. To enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, we may also disclose personal information to law enforcement, or the appropriate civil authorities when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. ****
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. If you do share your information, to opt-out from receiving further communications from any third party that is not our agent/service provider, please contact that marketing partner or affiliate directly. To enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, we may also disclose personal information to law enforcement, or the appropriate civil authorities when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. 
 
 **Products Offered in Partnership with Third-Party(s)**   
 Members may register for other services from our site(s). Certain products and/or services available on our site are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services. 
@@ -101,7 +106,7 @@ Members may register for other services from our site(s). Certain products and/o
 **Where is the information held?**   
 Electronic Arts is a global organization and many of the computer systems on which Electronic Arts collects, stores, and uses the information it collects or receives are based in Australia, Europe, the United States and elsewhere. Your personal information may be transferred to, used, processed or held by Electronic Arts in the United States and in other countries, including countries both in and outside the European Union, and used for the purposes set out in this Privacy Policy. 
 
-**Choice and Opt-out**   
+**Choice and Opt-out**  
 When we first collect information about you, we will offer you the opportunity to opt-out of having your personal information shared with parties outside of Electronic Arts or its subsidiaries (except to the extent required by law, court order, or as requested by other government or law enforcement authority). In addition, if you do not want Electronic Arts to send you e-mail or postal mail about our products and services, you can opt out at the time of registration or information collection. If, at a later date, you no longer wish to receive our newsletter and marketing communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, visiting the site in which you provided your information and changing your preferences, or by contacting the Privacy Policy Administrator in your country listed on our site at privacyadmin.ea.com, or if your country is not listed, by contacting the Privacy Policy Administrator in the United States. 
 
 **Safeguarding Your Personal Information**   
@@ -110,11 +115,10 @@ The security of your personal information is important to us. We follow generall
 **Review, Correction of Your Information and Requesting Removal from Mailing Lists and Deactivating Your Account**   
 You can correct or update your account information at any time by logging on our site and navigating to “My Account.” Should you be unable to log in or wish to have your account(s) deactivated contact the Privacy Policy Administrator in your country as listed on our site at privacyadmin.ea.com, or if your country is not listed, by contacting the Privacy Policy Administrator in the United States. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites. 
 
+Some EA sites or services may collect personal information that is not accessible via our site. However, in such cases, you may be able to access that information through alternative means of access described by the service or by writing your local privacy policy administrator at privacyadmin.ea.com and you will be contacted within 30 days regarding your request. 
+
 By using this site, you signify your assent to the Electronic Arts Online Privacy Policy. If you do not agree to this policy, please do not use any Electronic Arts site. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you choose to opt-out of our changed practice, our e-mail will contain instructions on how to opt-out. Your continued use of our site will signify your acceptance of the changes to our Online Privacy Policy. 
 
 For more information and updates to our Online Privacy Policy, visit privacy.ea.com. 
 
-Version 38550_4 
-
-**California Residents: Your California Privacy Rights**  
-Under California law, California Residents who have an established business relationship with Electronic Arts (EA) or one of its subsidiaries may choose to opt out of EA disclosure of personal information about them to third parties for direct marketing purposes. As detailed below, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email privacy_policy@ea.com or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Pkwy, Redwood City, CA 94065.
+38550_5
