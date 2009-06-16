@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012635id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616051546id_/http%3A//printfree.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Privacy Policy   ** We at Printfree.com respect your right to privacy.
+We at Printfree.com respect your right to privacy.
 
   We do not collect and sell your personal information   
 to marketers, or anyone else.
@@ -38,4 +38,5 @@ Under browsing history click delete. This will open a dialogue that will enable
 you to delete Temporary Internet files, cookies, history, form data and more.   
 For more detailed instructions, use the help section for your web browser. 
 
-Thank you for visiting, now you can relax and enjoy this site as it was intended!
+ Addition 03-20-2009 as per Google Adsense program.   
+ Your posted privacy policy should include the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
