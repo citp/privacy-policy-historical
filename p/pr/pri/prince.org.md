@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015429id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prince.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180759id_/http%3A//prince.org/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
 ## What this Privacy Policy Covers
 
-This Privacy Policy covers prince.org's treatment of personally identifiable information that prince.org collects when you are on the prince.org site, and when you use prince.org's services. This policy does not apply to the practices of companies that prince.org does not own or control, or to people that prince.org does not employ or manage. 
+This Privacy Policy covers prince.org's treatment of personally identifiable information that prince.org collects when you are on the prince.org site, and when you use prince.org's services. 
+
+This policy does not apply to the practices of companies that prince.org does not own or control, or to people that prince.org does not employ or manage. 
 
 ## Information Collection and Use
 
@@ -29,6 +31,10 @@ Your prince.org Account Information is password-protected for your privacy and s
 ## Changes to this Privacy Policy
 
 prince.org may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages, and at our discretion, optionally e-mailing all users. 
+
+## Copyright
+
+See the [terms of service](https://web.archive.org/web/20090616180759id_/http%3A//prince.org/$SITEMAP\[agreement\]) for more information about copyright and other intellectual property. 
 
 ## Questions or Suggestions
 
