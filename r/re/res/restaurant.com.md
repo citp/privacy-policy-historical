@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015146id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185744id_/http%3A//www.restaurant.com/privacy.asp%3Fpgn%3Dx) for the most accurate reproduction.*
 
 # Restaurant.com - Find deals on neighborhood restaurants. $25 Restaurant Certificates for only $10!
 
