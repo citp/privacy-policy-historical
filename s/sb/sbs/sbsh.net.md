@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912093033id_/http%3A//www.sbsh.net/corporate.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbsh.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180331id_/http%3A//www.sbsh.net/corporate/privacy_policy) for the most accurate reproduction.*
 
-# SBSH Mobile Software - Innovative applications for a mobile world!
+# Corporate Information: Private Policy - SBSH Mobile Software
 
   
 This Privacy Policy explains how SBSH.net may collect, use and aggregate personal information about you on www.sbsh.net. SBSH.net respects your personal privacy and is committed to protecting it.
@@ -34,7 +34,7 @@ This site has security measures in place to protect against the loss, misuse and
 **Newsletters**  
 
 
-SBSH.net offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information regarding their name and e-mail address. You always may opt-out of receiving future mailings from SBSH.net. To unsubscribe from our newsletters, go to http://www.SBSH.net/press/index.php?page=pr_mailing. To remove your personally identifiable information from our databases, send e-mail to support@SBSH.net explaining your request.
+SBSH.net offers a variety of opt-in e-mail newsletters. When subscribing, visitors are asked to submit information regarding their name and e-mail address. You always may opt-out of receiving future mailings from SBSH.net. To unsubscribe from our newsletters, go to http://www.SBSH.net/newsletter/unsubscribe. To remove your personally identifiable information from our databases, send e-mail to support@SBSH.net explaining your request.
 
 **Your role in protecting your privacy**  
 
