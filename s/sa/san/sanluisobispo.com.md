@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2008-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080606045148id_/http%3A//www.sanluisobispo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050602id_/http%3A//www.sanluisobispo.com/privacy_policy) for the most accurate reproduction.*
 
-# San Luis Obispo County’s website | Privacy Policy & Terms of Use
+# Privacy Policy | San Luis Obispo
 
 ##### Effective Date: April 12, 2007.
 
@@ -21,6 +21,8 @@ If you wish to forward an article to a friend, we will ask that you provide your
 ## Passive Data Collection and Use
 
 Like most Web sites, SanLuisObispo.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on SanLuisObispo.com, search queries, your click-stream data, the location that referred you to SanLuisObispo.com and the average number of pages viewed. If you visit another website prior to browsing SanLuisObispo.com, that website might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider. In order to better provide our services to you and to develop member profiles that enable us to focus our site, services and advertisements on your interests, we may correlate this log information with other information about you, such as your registration information or newspaper subscription records.
+
+We use third-party advertising technology vendors to collect, via includes, cookies and web beacons (1x1 pixels), non-personally identifiable data when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
 ## Use of Cookies
 
