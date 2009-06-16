@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011515id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050802id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
 
-# Love Spells black magic spell white magick powerful voodoo wiccan money witchcraft wicca free spells
+# Love Spells black magic spell white magick powerful voodoo wiccan wicca free easy spells
 
 **www.spells4free.com  
 **
