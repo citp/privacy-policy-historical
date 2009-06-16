@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216151700id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salon.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616183920id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Salon: Salon Policy</title>
@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/base.css?updated=20080225-2">
 	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/premium_ads.css">
 	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/advertisements.css?updated=20080504">
-	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/article.css?updated=20080924">
+	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/article.css?updated=20081217">
 	<link rel="stylesheet" type="text/css" media="all" href="http://images.salon.com/lib/styles/990.css">
 	<link rel="alternate stylesheet" type="text/css" title="S++" media="all" href="http://images.salon.com/lib/styles/article_xlarge.css">
 	<link rel="alternate stylesheet" type="text/css" title="S+" media="all" href="http://images.salon.com/lib/styles/article_large.css">
@@ -52,7 +52,7 @@
 			+ OAS_location + 'adstream_jx.ads/' + OAS_sitepage 
 			+ '/1' + OAS_rns + '@TopLeft"><\/SCRIPT>');
 	//-->
-	</script><script type="text/javascript" language="JavaScript" src="http://judo.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/cover.html/1712406795@TopLeft"></script>
+	</script><script type="text/javascript" language="JavaScript" src="http://judo.salon.com/RealMedia/ads/adstream_jx.ads/www.salonmagazine.com/cover.html/1157265602@TopLeft"></script>
 	<script type="text/javascript">
 	<!--
 		document.write('</div>');
@@ -79,7 +79,7 @@
 				+ OAS_location + 'adstream_mjx.ads/' + OAS_sitepage 
 				+ '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 	//-->
-	</script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/cover.html/1712406795@Top,Frame2,x10,x15,x45,x50,x80,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2?"></script>
+	</script><script language="JavaScript1.1" src="http://judo.salon.com/RealMedia/ads/adstream_mjx.ads/www.salonmagazine.com/cover.html/1157265602@Top,Frame2,x10,x15,x45,x50,x80,Right,Right1,Right2,Right3,Bottom,Bottom1,Bottom2?"></script>
 
 	<script type="text/javascript">
 	<!--
@@ -532,7 +532,7 @@ OAS_AD('x35');
                         <li><a name="&amp;lid=footer&amp;lpos=text" href="/about/policy/" rel="nofollow">Privacy Policy</a></li>
                         <li class="last"><a name="&amp;lid=footer&amp;lpos=text" href="/about/tos/" rel="nofollow">Terms of Service</a></li>
 		</ul>
-		<p id="copyright">Copyright ©2008 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited. SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</p>
+		<p id="copyright">Copyright ©2009 Salon Media Group, Inc.  Reproduction of material from any Salon pages without written permission is strictly prohibited. SALON® is registered in the U.S. Patent and Trademark Office as a trademark of Salon Media Group Inc.</p>
 
 	</div>
 </div>
@@ -680,10 +680,12 @@ hbx.media="video_player";
 			for (var n = 0; n < h1s.length; n++) {
 				if (h1s[n].innerHTML != '') {
 					omni.title = h1s[n].innerHTML; 
-					if (/<img.+alt=/i.test(omni.title)) { 
-						omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/, "$2$3"); 
+					if (/<img.+alt=/mi.test(omni.title)) { 
+						omni.title = omni.title.replace(/^.+alt=('(.+?)'|"(.+?)").+$/m, "$2$3"); 
 					} 
 					omni.title = omni.title.replace(/<.*?>/g, ''); 
+					omni.title = omni.title.replace(/\s/mg, ' '); 
+					omni.title = omni.title.replace(/(^\s+|\s+$)/, ''); 
 				}
 			}
 		} else {
@@ -721,7 +723,7 @@ hbx.media="video_player";
 <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://images.salon.com/js/omniture.js?updated=20081127"></script>
+<script language="JavaScript" type="text/javascript" src="http://images.salon.com/js/omniture.js?updated=20090126"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -786,6 +788,16 @@ if (omni.queryString.show_omniture_vars) {
 _uacct = "UA-1232497-1";
 urchinTracker();
 </script>
+
+
+<!-- Start Quantcast tag --> 
+<script type="text/javascript">  
+	_qoptions={ qacct:"p-88O9JRUYuy_46" };  
+</script> 
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>  
+<noscript><img src="http://pixel.quantserve.com/pixel/p-88O9JRUYuy_46.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>  
+<!-- End Quantcast tag -->
+
 
 
 
