@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenlesbianland.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152047id_/http%3A//www.teenlesbianland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenlesbianland.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062943id_/http%3A//www.teenlesbianland.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Lesbian Land - Hot Teen Girls, Teen Pussy, Young Lesbians Kissing
 
