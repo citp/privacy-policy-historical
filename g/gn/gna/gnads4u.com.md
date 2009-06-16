@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035218id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180521id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
 
 # GNAds4U.com - Privacy policy
 
@@ -6,7 +6,7 @@
 
 Join gnads4u.com NOW for FREE. You will be able to save your search queries and get free email alerts whenever new ads matching your requirements become available. 
 
-[ ](https://web.archive.org/web/20081217035218id_/http%3A//www.gnads4u.com/personal.html "go")
+[ ](https://web.archive.org/web/20090616180521id_/http%3A//www.gnads4u.com/personal.html "go")
 
 ## 
 
