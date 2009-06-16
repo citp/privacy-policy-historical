@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044820id_/http%3A//www.mrqe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061529id_/http%3A//www.mrqe.com/privacy) for the most accurate reproduction.*
 
 # MRQE – Privacy Policy - Movie Review Query Engine
-
-Titles Available: 72,698 | Articles Available: 728,202 
-
-## MRQE PRIVACY POLICY
 
 MRQE is committed to protecting your privacy and wants you to be familiar with how it collects, uses and shares your information. MRQE collects information that can identify individuals. This is information such as your name, mailing address, and email address, and it is usually collected when you sign up for or use a service of MRQE. MRQE also collects personally identifiable information that you may voluntarily provide when you use MRQE, that you may post in a public forum or that you may include when you communicate with MRQE. 
 
