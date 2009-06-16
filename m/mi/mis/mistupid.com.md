@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032048id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mistupid.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616211046id_/http%3A//mistupid.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ We collect the e-mail addresses of those who post messages to our discussion boa
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site. E-mail addresses are not shared with other organizations.
 
-Send to Friend   [Printable Page](https://web.archive.org/web/20081216032048id_/http%3A//mistupid.com/phprint.php)   [Register for Updates](http://newsletter.mistupid.com/?p=subscribe&id=1)  [](http://www.addthis.com/bookmark.php)
+Send to Friend   [Printable Page](https://web.archive.org/web/20090616211046id_/http%3A//mistupid.com/phprint.php)   [Register for Updates](http://newsletter.mistupid.com/?p=subscribe&id=1)  [](http://www.addthis.com/bookmark.php)
 
 Other Links:   
-[Contact](https://web.archive.org/web/20081216032048id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20081216032048id_/http%3A//mistupid.com/about.htm)
+[Contact](https://web.archive.org/web/20090616211046id_/http%3A//mistupid.com/utils/contact.htm), [About](https://web.archive.org/web/20090616211046id_/http%3A//mistupid.com/about.htm)
