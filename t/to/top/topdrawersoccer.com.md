@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160540id_/http%3A//www.topdrawersoccer.com/component/option%2Ccom_topdrawer/Itemid%2C251/nid%2C2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616131638id_/http%3A//www.topdrawersoccer.com/component/option%2Ccom_topdrawer/Itemid%2C251/nid%2C2835) for the most accurate reproduction.*
 
 # TopDrawerSoccer.com, Articles
 
@@ -18,7 +18,7 @@ This document was last updated on 12.05.2008.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
   
 
@@ -84,7 +84,7 @@ We will provide you with the means to ensure that personally identifiable inform
 
   6. **CHANGES TO THIS STATEMENT**
 
-TopDrawerSoccer.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+TopDrawerSoccer.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
   7. **CONTACTING US**
 
