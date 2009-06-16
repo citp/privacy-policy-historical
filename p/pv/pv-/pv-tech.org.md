@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114247id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063657id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Photovoltaics International
 
