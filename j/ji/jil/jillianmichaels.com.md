@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040352id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/tospp_58.aspx%3Ftab%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jillianmichaels.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616203924id_/http%3A//www.jillianmichaels.com/netregistration/TOSPrivacy/tospp_58.aspx%3Ftab%3D3) for the most accurate reproduction.*
 
 # Waterfront Media Privacy Policy
 
