@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222105417id_/http%3A//www.tek.com/Measurement/privacy/privacy_truste.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616195746id_/http%3A//www.tek.com/Measurement/privacy/privacy_truste.html) for the most accurate reproduction.*
 
 # Tektronix: Privacy > Privacy Statement
 
-| 
+[](http://www.truste.org/ivalidate.php?url=www.tek.com&sealid=101)Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern. 
 
-Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern. 
-
-| [](http://www.truste.org/ivalidate.php?url=www.tek.com&sealid=101)  
----|---  
-  
 To reinforce our commitment, we are a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. We have agreed to disclose our privacy practices and have them reviewed for compliance with TRUSTe. The TRUSTe program covers only information that is collected through the tek.com web site, and does not cover information that may be collected through software downloaded from the site. Questions regarding this statement should first be directed to [privacy@tektronix.com](mailto:privacy@tektronix.com). If you are not satisfied with our response, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
 
 When you visit any Tektronix, Inc. Web site, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet sites.
@@ -109,6 +104,8 @@ Tektronix, Inc.
 P.O. Box 500, M-S 50-237  
 14200 S. W. Karl Braun Drive  
 Beaverton, Oregon 97077  
+
+
 
 Back to top
 
