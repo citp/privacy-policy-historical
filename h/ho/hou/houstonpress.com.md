@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216083437id_/http%3A//www.houstonpress.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpress.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182521id_/http%3A//www.houstonpress.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Houston Press
+# Houston Privacy Policy
+
+[](https://web.archive.org/)
+
+Privacy Policy
 
 ## Village Voice Media
 
