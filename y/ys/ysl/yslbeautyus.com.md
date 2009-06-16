@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082945id_/http%3A//www.yslbeautyus.com/i3//information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617015202id_/http%3A//www.yslbeautyus.com/i3/privacy-policy/information.html) for the most accurate reproduction.*
 
 # YSL Beauty US Official Online Store
 
