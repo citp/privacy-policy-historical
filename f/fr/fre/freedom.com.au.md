@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020312id_/http%3A//freedom.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171508id_/http%3A//www.freedom.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # Freedom privacy policy
 
@@ -73,7 +73,7 @@ Links to third party web sites on www.freedom.com.au are provided solely as a co
 
 ## Opt out
 
-At Freedom we only want to communicate with you if you want to hear from us. In the case of direct marketing you are able to "opt out" at any time, for any reason. Opting out means that you would like to be removed from all of our mailing lists. You can do so, [online](https://web.archive.org/web/20081216020312id_/http%3A//freedom.com.au/optout.html) or by contacting our Privacy Officer on the details below.
+At Freedom we only want to communicate with you if you want to hear from us. In the case of direct marketing you are able to "opt out" at any time, for any reason. Opting out means that you would like to be removed from all of our mailing lists. You can do so, [online](https://web.archive.org/web/20090616171508id_/http%3A//www.freedom.com.au/optout.html) or by contacting our Privacy Officer on the details below.
 
 ## Security
 
@@ -81,7 +81,7 @@ Freedom is committed to ensuring the security of your personal information and w
 
 ## Changes to this statement
 
-Freedom may make changes to this Privacy Policy from time to time for any reason. We will publish those changes on our website at [www.freedom.com.au/legal/privacy.](https://web.archive.org/web/20081216020312id_/http%3A//freedom.com.au/legal/privacy.html)
+Freedom may make changes to this Privacy Policy from time to time for any reason. We will publish those changes on our website at [www.freedom.com.au/legal/privacy.](https://web.archive.org/web/20090616171508id_/http%3A//www.freedom.com.au/legal/privacy.html)
 
 ## Contact
 
