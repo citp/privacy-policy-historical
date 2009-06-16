@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042022id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616220207id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,3 +37,5 @@ The following third parties are supported:
   * InsightExpress ([www.insightexpress.com](http://www.google.com/url?q=http%3A%2F%2Fwww.insightexpress.com/))
 
 
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
