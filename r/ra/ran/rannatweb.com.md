@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rannatweb.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427062618id_/http%3A//www.rannatweb.com/poly/%3Fgoto%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rannatweb.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616072401id_/http%3A//www.rannatweb.com/poly/%3Fgoto%3Dpolicy) for the most accurate reproduction.*
 
 # ثيمات موبايل - برامج موبايل - ثيمات نوكيا - ألعاب موبايل - افلام بلوتوث - mp3 نغمات جوال - رنات موبايل - رنات
 
@@ -34,5 +34,7 @@ Consumers can access this information by e-mail us at the above address. Consume
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+* * *
 
 This website provides free arabic and english mobile ringtones, realsounds, mobile themes, games, software, mobile videos 3gp and wallpapers.The supported cell phones are Nokia - Sony Ericsson - Motorola - Pocket PC - Java-based Cellphones- iMate - Symbian, UIQ, and more! We have the best ring tones, themes, and games, download for free! 
