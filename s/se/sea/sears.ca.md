@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040539id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616225112id_/http%3A//www.sears.ca/gp/node/n/16397281%3Fie%3DUTF8%26searsBrand%3Dcore) for the most accurate reproduction.*
 
 # your privacy - privacy and security : Sears Canada
 
@@ -21,7 +21,7 @@
 ###  helpful resources
 
   * [contact us](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397021&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
-  * [my account](https://www.sears.ca/gp/redirect.html?%5Fencoding=UTF8&location=https%3A%2F%2Fwww4.registration.stage.sears.ca%2Fwebapp%2FCCRWebApp%2FJSP%2FSearsCCRWebSite%2FSigninPage.jsp%3FsearsBrand%3Dcore&token=574D39FDE570D634EF5CD400F2C061A19A429878)
+  * [ my account ](https://www4.registration.stage.sears.ca/webapp/CCRWebApp/JSP/SearsCCRWebSite/SigninPage.jsp)
   * [common questions](https://web.archive.org/gp/browse.html?ie=UTF8&node=16397031&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
   * [new visitors to sears.ca](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396981&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
   * [pricing & ordering](https://web.archive.org/gp/browse.html?ie=UTF8&node=16396991&no=16397281&searsBrand=core&me=A10FHFRJZ0GJG3)
@@ -51,7 +51,7 @@ The following outlines our pledge to you:
   
 
 
-Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in September 2007.
+Please review this privacy policy periodically as we may update it from time to time. This policy was last revised in March 2009.
 
   
   
