@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001619id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062922id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
 
 # Steve Madden - Privacy Policy
 
