@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the relenta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011749id_/http%3A//www.relenta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relenta.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152640id_/http%3A//www.relenta.com/privacy.html) for the most accurate reproduction.*
 
 # Relenta CRM privacy policy
+
+[](http://www.addthis.com/bookmark.php)
 
 ### 1\. INTRODUCTION
 
@@ -22,7 +24,7 @@ Relenta maintains and processes your account and its Contents to provide and imp
 
 Relenta's computers process the information in your messages for various purposes, including formatting and displaying the information to you, sorting and organizing email messages for you, preventing unsolicited bulk email (spam), creating backups of your email messages and other account Content, and other purposes relating to offering you the Service.
 
-As a customer of the Service, you will be using the Site to store data and information ("Data"). Relenta will not review, share, distribute, print, or reference any such Data except as provided in our [Terms of Service](https://web.archive.org/web/20081216011749id_/http%3A//www.relenta.com/%3C?=_SITE?%3Etos.html), or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Terms of Service, or as may be required by law. You are responsible for maintaining the confidentiality and security of your user account login and password.
+As a customer of the Service, you will be using the Site to store data and information ("Data"). Relenta will not review, share, distribute, print, or reference any such Data except as provided in our [Terms of Service](https://web.archive.org/web/20090616152640id_/http%3A//www.relenta.com/%3C?=_SITE?%3Etos.html), or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Terms of Service, or as may be required by law. You are responsible for maintaining the confidentiality and security of your user account login and password.
 
 RELENTA MAY SEND YOU MANDATORY ANNOUNCEMENTS RELATED TO YOUR USE OF THE SERVICE.
 
@@ -39,3 +41,5 @@ You may change your Relenta account settings through your account management int
 You may organize, sort, or delete your messages or terminate your account through your account management interface. Such deletions or terminations will take immediate effect in your account view. Residual copies of deleted messages and accounts may take up to 90 days to be deleted from our servers and may remain in our backup systems.
 
 Rev. 10/02/2006
+
+[](http://www.addthis.com/bookmark.php)
