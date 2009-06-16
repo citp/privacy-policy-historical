@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212185705id_/http%3A//www.play22.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play22.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132340id_/http%3A//www.play22.com/support/privacy_policy_US.jsp) for the most accurate reproduction.*
 
 # Jouez en ligne gratuitement avec King.com
 
