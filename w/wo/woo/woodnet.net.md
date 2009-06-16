@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213228id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodnet.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616192403id_/http%3A//www.woodnet.net/privacy) for the most accurate reproduction.*
 
 # WoodNet.net - The Woodworker's Online Resource - Privacy Policy
 
@@ -33,8 +33,6 @@ Anytime you receive an e-mail offering a product or service from August Home and
 Toll-Free E-mail Customer Service Line: 1-866-553-7514 August Home Publishing Company Customer Service 2200 Grand Avenue Des Moines, IA 50312 E-mail: [orders@augusthome.com](mailto:orders@augusthome.com)
 
 You may call the Toll-Free E-mail Customer Service Line to discuss with a representative which types of e-mails you are currently receiving from August Home and specify which e-mail list(s) you would like to remain on and which you would like to be removed from. 
-
-When subscribing to a magazine online, you may select the “Do Not Contact” button on the subscription order web page if you do not want August Home to contact you regarding renewal of your magazine, to receive August Home products or services or to be contacted by a third party. 
 
 ### 3\. How does August Home collect and use telephone numbers and street addresses?
 
