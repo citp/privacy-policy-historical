@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035538id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132711id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH Associates: Disclaimers and our Privacy Policy
 
@@ -36,4 +36,4 @@ If you ever have any concerns or questions about our privacy policy, please [sen
 **HSH® Associates, Financial Publishers  
 237 West Parkway   
 Pompton Plains NJ 07444   
-800-873-2837 | 973-617-6700 | [E-mail](http://www.hsh.com/bnbform.html)**
+800-873-2837 | 973-617-8700 | [E-mail](http://www.hsh.com/bnbform.html)**
