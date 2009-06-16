@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627151549id_/http%3A//www.123greetings.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123greetings.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070608id_/http%3A//www.123greetings.com/privacy_policy) for the most accurate reproduction.*
 
 # 123Greetings.com - Privacy Policy
 
@@ -75,10 +75,10 @@ You have the option of unsubscribing from these offers. You can do so by visitin
 If you do not want to receive such offers & promotions, please either unsubscribe yourself at the address given above or do not enter your e-mail address & other information while creating one of our ecards.
 
 **Questions and Comments**  
-If you have any questions, comments or suggestions regarding our website's privacy policy, or regarding any other aspects of our website, please write to us at [privacy_policy@123greetings.com](mailto:privacy_policy@123greetings.com).
+If you have any questions, comments or suggestions regarding our website's privacy policy, or regarding any other aspects of our website, [please write to us](https://web.archive.org/cgi-bin/fbform.pl?subject=Privacy+Policy).
 
 You can also post your views to our office at:  
 1674 Broadway, Suite 403, New York, NY 10019.
 
 **Notification of Changes**  
-If we decide to change the Privacy Policy, the changes will be posted at [http://www.123greetings.com/privacy_policy/index.html](https://web.archive.org/privacy_policy/)
+Please note that any changes in the Privacy Policy will be posted here. 
