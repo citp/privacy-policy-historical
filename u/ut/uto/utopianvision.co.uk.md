@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utopianvision.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153821id_/http%3A//utopianvision.co.uk/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopianvision.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065231id_/http%3A//utopianvision.co.uk/home/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,3 +23,7 @@ Throughout our site we may have external links that take you to sites that are n
 ## Contacting Us
 
 If you have any questions regarding this statement or anything else regarding this site please use our [Contact Us Form](https://web.archive.org/home/contact-us/)
+
+## Sites linking to this page
+
+Want to see your website here? Simply link to this page from your website and shortly after someone uses that link, a link back will automatically appear here. The more traffic you send, the higher in the list your link will appear. If you need help, [contact us](https://web.archive.org/home/contact-us/?type=link-exchange).
