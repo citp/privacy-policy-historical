@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216083406id_/http%3A//www.designersguild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersguild.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182357id_/http%3A//www.designersguild.com/privacy-policy) for the most accurate reproduction.*
 
 # Designers Guild - Fabrics & Wallpaper Collections, Furniture, Bed and Bath, Paint, and Luxury Home Accessories
 
