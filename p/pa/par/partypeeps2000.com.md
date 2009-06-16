@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partypeeps2000.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211134027id_/http%3A//www.partypeeps2000.com/info/cmsi/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypeeps2000.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616174309id_/http%3A//www.partypeeps2000.com/info/cmsi/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Info | Privacy Statement
 
