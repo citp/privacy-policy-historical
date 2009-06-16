@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the drivingsales.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216062740id_/http%3A//www.drivingsales.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drivingsales.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616182645id_/http%3A//www.drivingsales.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <title>Automotive Industry Social Networking and Best Practices and Vendor Ratings - DrivingSales.com | Car Dealer Social Network | Digital Marketing Best Practices | Automotive Vendor Ratings | Best Practices Forum | Automotive Blogs</title>
 <!-- leave this for stats -->
 <script type="text/javascript" language="JavaScript1.2" src="http://www.drivingsales.com/stm31.js"></script>
 <script type="text/javascript" language="JavaScript1.2" src="http://www.drivingsales.com/js/function.js"></script>
 <script type="text/javascript" language="JavaScript1.2" src="http://www.drivingsales.com/js/mandatory.js"></script>
 <script type="text/javascript" src="http://www.drivingsales.com/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.drivingsales.com/js/query.rating.js"></script>
-<link rel="icon" href="http://www.drivingsales.com/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript" src="http://www.drivingsales.com/js/roster.js"></script>
 <style>input.red {background-color: #FFFFFF; font-weight: bold; font-size: 12px; color: #666666;border-color:#00CCFF;}</style>
 <link rel="stylesheet" href="http://www.drivingsales.com/style.css" type="text/css" media="screen">
 <link rel="stylesheet" type="text/css" href="http://www.drivingsales.com/rating.css">
-
+<link rel="icon" href="http://www.drivingsales.com/favicon.ico" type="image/x-icon">
 <script language="JavaScript">
 <!-- This script and many more are available free online at -->
 <!-- The JavaScript Source!! http://javascript.internet.com -->
@@ -24,12 +25,19 @@ document[img_name].src=img_src;
 }
 // End -->
 </script>
-
+<script type="text/javascript" src="http://www.drivingsales.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.drivingsales.com/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.drivingsales.com/js/lightview.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.drivingsales.com/js/lightview.css">
 <script type="text/javascript">
 // this is for half star rating
-$(document).ready(function() {
-	$('#rate1').rating('index.php', {maxvalue:5,increment:.5});
-});
+function globalCompanyRoster(value,field,key,width)
+{
+	if(document.getElementById('searchfield').value=='company')
+	{
+		companyRoster(value,field,key,width)
+	}
+}
 </script>
 	<script type="text/javascript">
 var xajaxRequestUri="http://www.drivingsales.com/includes/serverinc.php";
@@ -58,7 +66,21 @@ function xajax_changeStateForCompany(){return xajax.call("changeStateForCompany"
 function xajax_ShowConnectType(){return xajax.call("ShowConnectType", arguments, 1);}
 function xajax_GetFilteredData(){return xajax.call("GetFilteredData", arguments, 1);}
 function xajax_CompanyRoster(){return xajax.call("CompanyRoster", arguments, 1);}
+function xajax_GlobalCompanyRoster(){return xajax.call("GlobalCompanyRoster", arguments, 1);}
 function xajax_RelatedUserVideos(){return xajax.call("RelatedUserVideos", arguments, 1);}
+function xajax_networkUpdateComments(){return xajax.call("networkUpdateComments", arguments, 1);}
+function xajax_ClearNetworkStatus(){return xajax.call("ClearNetworkStatus", arguments, 1);}
+function xajax_ClearNetworkMemberStatus(){return xajax.call("ClearNetworkMemberStatus", arguments, 1);}
+function xajax_SaveUserStatus(){return xajax.call("SaveUserStatus", arguments, 1);}
+function xajax_SaveUserStatusComment(){return xajax.call("SaveUserStatusComment", arguments, 1);}
+function xajax_ProductReviewComments(){return xajax.call("ProductReviewComments", arguments, 1);}
+function xajax_GetDynamicReviewsComments(){return xajax.call("GetDynamicReviewsComments", arguments, 1);}
+function xajax_ClearMyNetworkStatusClear(){return xajax.call("ClearMyNetworkStatusClear", arguments, 1);}
+function xajax_ClearMyNetworkMemberStatusClear(){return xajax.call("ClearMyNetworkMemberStatusClear", arguments, 1);}
+function xajax_netMemberListMessage(){return xajax.call("netMemberListMessage", arguments, 1);}
+function xajax_AllMemberListMessage(){return xajax.call("AllMemberListMessage", arguments, 1);}
+function xajax_DeleteBillboard(){return xajax.call("DeleteBillboard", arguments, 1);}
+function xajax_DeleteSkycraper(){return xajax.call("DeleteSkycraper", arguments, 1);}
 	</script>
 	<script type="text/javascript" src="http://www.drivingsales.com/includes/xajax/xajax.js"></script>
 
@@ -72,13 +94,13 @@ function xajax_RelatedUserVideos(){return xajax.call("RelatedUserVideos", argume
   <tbody><tr> 
     <td width="276" height="85"><a href="http://www.drivingsales.com"><img src="http://www.drivingsales.com/images/ds_logo.jpg" width="276" height="85" alt="DrivingSales.com"></a></td>
     <td width="481" valign="bottom" align="right" style="padding-bottom: 12px;">
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="600" height="85" id="MenuV8" align="middle">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="600" height="85" id="MenuV9" align="middle">
 	<param name="allowScriptAccess" value="sameDomain">
-	<param name="movie" value="http://www.drivingsales.com/menu_v8.swf">
+	<param name="movie" value="http://www.drivingsales.com/menu_v9.swf">
 	<param name="quality" value="high">
 	<param name="bgcolor" value="#ffffff">
 	<param name="FlashVars" value="domain=http://www.drivingsales.com">
-	<embed src="http://www.drivingsales.com/menu_v8.swf" quality="high" bgcolor="#ffffff" width="580" height="85" name="MenuV8" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+	<embed src="http://www.drivingsales.com/menu_v9.swf" quality="high" bgcolor="#ffffff" width="580" height="85" name="MenuV9" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 	</object>
     </td>
   </tr>
@@ -95,20 +117,24 @@ function xajax_RelatedUserVideos(){return xajax.call("RelatedUserVideos", argume
   <tbody><tr>
     <td>
       <label><span style="color:#FFFFFF">SEARCH:</span>
-        <input name="fieldvalue" type="text" size="50" height="27" id="fieldvalue">
+        <input name="fieldvalue" type="text" size="50" height="27" id="fieldvalue" onkeyup="globalCompanyRoster(this.value,this,event.keyCode,'322px');">
         </label>
       <label>
       			<select name="searchfield" class="width_100">
-					<option value="fname">First Name</option>
+						<option value="keyword">Keyword</option>
+					s<option value="fname">First Name</option>
 					<option value="lname">Last Name</option>
 					<option value="company">Company</option>
 					<option value="job">Job</option>
+					<option value="email">Email</option>
 														
 				</select>
       </label>
       <label>
-      <input type="submit" name="widesearch" value="  Find  " id="Submit" onclick="return CheckFind(document.searchfrm.fieldvalue)">
+      <input type="submit" name="widesearch" value="  Find  " id="Submit">
       </label>
+	  <div id="div_GlobalCompanyRoster" onclick="this.innerHTML=''" style="position:fixed;z-index:9999;"></div>
+		<input type="hidden" name="show_roster_flag" id="show_roster_flag" value="1">	
      </td>
     <td>&nbsp;</td>
     <td><div align="right"><a href="http://www.drivingsales.com/networking/index.php" class="style2">SIGN IN</a> | <a href="http://www.drivingsales.com/aboutus.php" class="style2">ABOUT US</a> | <a href="http://www.drivingsales.com/contact.php" class="style2">CONTACT US</a> | <a href="http://www.drivingsales.com/faq.php" class="style2">FAQ</a> </div></td>
@@ -197,8 +223,8 @@ Sandy, UT 84093</p>
 	</div>
 	<div class="cssbox_body" style="overflow: hidden;">
 		<form name="loginfrm" method="post" enctype="multipart/form-data" action="http://www.drivingsales.com/networking/index.php">
-		<label><span class="style5">Username</span><br><input type="text" name="user" id="user" size="15" maxlength="15"></label><br>
-		<label><span class="style5">Password</span><br><input type="password" id="pass" name="pass" size="15" maxlength="15"></label>
+		<label><span class="style5">Username</span><br><input type="text" name="user" id="user" size="15" maxlength="30"></label><br>
+		<label><span class="style5">Password</span><br><input type="password" id="pass" name="pass" size="15" maxlength="30"></label>
 		<p>
 			<label for="submitform"><input type="submit" name="login" id="login" value="Go"></label>
 		</p>
