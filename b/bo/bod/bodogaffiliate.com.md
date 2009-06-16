@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2007-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070823183501id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170208id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Poker, Sportsbook, Casino Affiliate Programs - Bodog Affiliate
 
 Any private information received by Bodog Sportsbook, Casino and Poker Room WILL NOT be given out to anyone or any organization; it WILL NEVER be sold or distributed in any form, or for any purpose unless approved by the account holder. Therefore, client information collected by Bodog Sportsbook, Casino and Poker Room is the property of Bodog Sportsbook, Casino and Poker Room and is not shared with any third party, including merchants. 
 
-Bodog Sportsbook, Casino and Poker Room is dedicated to providing useful, relevant and valuable information to our customers and subscribers. To do this, we offer an assortment of ongoing, daily, weekly and monthly publications. By opting to receive email from Bodog.com a client is automatically subscribed to the following publications:
+Bodog Sportsbook, Casino and Poker Room is dedicated to providing useful, relevant and valuable information to our customers and subscribers. To do this, we offer an assortment of ongoing, daily, weekly and monthly publications. By opting to receive email from Bodog a client is automatically subscribed to the following publications:
 
 BodogNation - Monthly   
 BodogNation is a resource for the online gambling industry, providing humorous, informative and opinionated news about the happenings in the worlds of sports, poker, casino and entertainment. BodogNation also provides readers with monthly pictorials featuring Bodog Girls and the opportunity to contribute to The Nation Mailbag. BodogNation is THE destination for the entire Bodog community. 
@@ -20,7 +20,7 @@ Receive all the latest breaking news and expert analysis of popular games and in
 
 To assure the quality of client communications, Bodog Sportsbook, Casino and Poker Room provides clients with the opportunity to view or modify their subscription preferences at any time simply by logging into their account and selecting "Manage Subscriptions" from the "Manage Account" screen. 
 
-It is possible for a client to opt-out of receiving email from Bodog.com; however, there is a minimum level of communication needed for a client to play effectively, so everyone with a Bodog account will receive a "Welcome" email, containing valuable account information, along with "Service Announcements". 
+It is possible for a client to opt-out of receiving email from Bodog; however, there is a minimum level of communication needed for a client to play effectively, so everyone with a Bodog account will receive a "Welcome" email, containing valuable account information, along with "Service Announcements". 
 
 If at any time a client indicates that he or she no longer wants to receive communications from Bodog, or if he or she wishes to change or correct any previously provided information, the client may send an email outlining the request to [service@bodog.com](mailto:service@bodog.com) or call the customer service center toll-free at 1-888-263-0000.
 
