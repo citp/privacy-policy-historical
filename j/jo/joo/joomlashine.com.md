@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233016id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180259id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D24) for the most accurate reproduction.*
 
 # Joomla Templates and Joomla 1.5 Templates - Privacy Policy
 
