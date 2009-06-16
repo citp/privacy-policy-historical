@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217013553id_/http%3A//www.postchronicle.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postchronicle.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616205504id_/http%3A//www.postchronicle.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Post Chronicle - Privacy Policy
 
@@ -15,6 +15,16 @@ The Post Chronicle does, however, collect information which is specific to how y
 **The Cookie Principle**
 
 Post Chronicle may use cookies to improve your web browsing experience. When you first visit Post Chronicle, Post Chronicle may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to understand the way a user responds to the services we deliver. For example, this number lets us keep track of how many times you visit...thus enhancing your online web viewing experience. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
+
+DoubleClick DART cookie:
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+Interest-Based Advertising
+
+Interest-based advertising by Google will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, Google will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, we will add them to the "sports enthusiast" interest category. 
 
 **For Web Publisher Members of Post Chronicle**
 
