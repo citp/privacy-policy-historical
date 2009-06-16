@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515203842id_/http%3A//www.hot97.com/info/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot97.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204133id_/http%3A//www.hot97.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Hot97: Legal Info
+# HOT 97 IS HIP HOP AND R&B - Privacy Policy
 
-Privacy Policy General WQHT-FM and its affiliates respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information. This Privacy Policy supplements our general Terms of Use, which we also urge you to read. By using our Web site (the "Site"), you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately. 
+**Privacy Policy**
+
+General WQHT-FM and its affiliates respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information. This Privacy Policy supplements our general Terms of Use, which we also urge you to read. By using our Web site (the "Site"), you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately. 
 
 **Privacy of Children**  
 WQHT-FM encourages parents and guardians to be aware of and participate in their children's online activities. We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly register or otherwise collect personally identifiable information from any child under the age of 13 without the prior verifiable consent of that person's parent or guardian. 
@@ -43,7 +45,7 @@ Our site offers "auto login" which allows users to enter member areas of our sit
 **How Information Can Be Accessed or Modified**  
 If you have any concerns about privacy procedures at our Web site or wish to access or modify your personally identifiable information collect at the site write us at:
 
-Attn: Privacy/hot97.com  
+Attn: Privacy/HOT97.com  
 HOT 97  
 395 Hudson St. 7th Fl.  
 New York, NY 10014  
