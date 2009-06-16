@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2008-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080521192204id_/http%3A//eat24hours.com/index.php%3FSCR%3Ds_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064818id_/http%3A//eat24hours.com/index.php%3FSCR%3Ds_privacy) for the most accurate reproduction.*
 
-# The Food Delivery Network - Eat24Hours.com - Online Restaurant Delivery ordering system. Order Online from your Local Favorite Restaurants.
+# Food Delivery | Restaurant Delivery | Restaurant Food Online | Eat24Hours.com
 
 **_Our Privacy Statement  _**
 
