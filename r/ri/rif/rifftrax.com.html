@@ -1,114 +1,105 @@
-<!--The following is the downloaded HTML source of the rifftrax.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217065553id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rifftrax.com privacy policy that was archived on 2009-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616202402id_/http%3A//www.rifftrax.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>RiffTrax Privacy Policy | RiffTrax</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="/themes/zen/RiffZen2/print.css" type="text/css" media="print">
 
 <link rel="shortcut icon" href="/files/RiffZen2_favicon.ico" type="image/x-icon">
   <meta name="description" content="RiffTrax Privacy Policy | RiffTrax">
-  <style type="text/css" media="all">@import "/files/css/83945d1d2d854ddefcefb870135ab092.css";</style>
+  <style type="text/css" media="all">@import "/files/css/4cd3f980157cb133dc6c7ab88298d740.css";</style>
   <!--[if IE]>
           <link rel="stylesheet" href="/themes/zen/RiffZen2/ie.css" type="text/css">
       <![endif]-->
   <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
-<script type="text/javascript" src="/sites/all/modules/hovertip/hovertip.js"></script>
-<script type="text/javascript" src="/sites/all/modules/jquery_update/compat-1.0.js"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js"></script>
 <script type="text/javascript" src="/misc/productdata.js"></script>
 <script type="text/javascript" src="/sites/all/modules/rifftrax_search/js/jquery.bgiframe.min.js"></script>
 <script type="text/javascript" src="/sites/all/modules/rifftrax_search/js/jquery.dimensions.js"></script>
 <script type="text/javascript" src="/sites/all/modules/rifftrax_search/js/jquery.ajaxQueue.js"></script>
 <script type="text/javascript" src="/sites/all/modules/rifftrax_search/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_update/compat.js"></script>
 <script type="text/javascript" src="/sites/all/modules/thickbox/thickbox.js"></script>
 <script type="text/javascript" src="/sites/all/modules/panels/js/panels.js"></script>
-<script type="text/javascript" src="/sites/all/modules/jquery_update/collapse-fix.js"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 1 }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "base_path": "/" } });</script>
-<script type="text/javascript">    // initialize tooltips in a seperate thread
-    $(document).ready(function() {
-      window.setTimeout(hovertipInit, 0);
-    });
-</script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "base_path": "/" } });</script>
 <script type="text/javascript">$().ready(function() {
 
-  $("#riffsearch").val("Search for a movie title!");
+    $("#riffsearch").val("Search for a movie title!");
 
-  $("#riffsearch").focus(function() {
-    if ($(this).val() == "Search for a movie title!") {
-      $(this).val("");
-    }}
-  );
+    $("#riffsearch").focus(function() {
+      if ($(this).val() == "Search for a movie title!") {
+        $(this).val("");
+      }}
+    );
 
-  $("#riffsearch").blur(function() {
-    if ($(this).val() == "") {
-      $(this).val("Search for a movie title!");
-    }}
-  );
+    $("#riffsearch").blur(function() {
+      if ($(this).val() == "") {
+        $(this).val("Search for a movie title!");
+      }}
+    );
 
-  function findValueCallback(event, data, formatted) {
-    formatted = formatted.substring(formatted.search("&&&")+3);
-    location.href = "/" + formatted;
-  }
-  function formatItem(row) {
-    return row[0] + " (<strong>id: " + row[1] + "</strong>)";
-  }
-  function formatResult(row) {
-    return row[0].replace(/(<.+?>)/gi, "");
-  }
-
-  $("#riffsearch").autocomplete(titles, {
-    minChars: 1,
-    width: 229,
-    height:499,
-    matchContains: true,
-    multiple: false,
-    autoFill: false,
-    max:5,
-    selectFirst: false,
-    formatItem: function(row) {
-      return row.title;
-    },
-    formatResult: function(row) {
-      return row.title;
-    },
-    formatMatch: function(row) {
-      if(row.title === undefined) {
-        row.title = "";
-      }
-      return row.title + "&&&" + row.url;
+    function findValueCallback(event, data, formatted) {
+      formatted = formatted.substring(formatted.search("&&&")+3);
+      location.href = "/" + formatted;
+    }
+    function formatItem(row) {
+      return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+    }
+    function formatResult(row) {
+      return row[0].replace(/(<.+?>)/gi, "");
     }
 
-  });
+    $("#riffsearch").autocomplete(titles, {
+      minChars: 1,
+      width: 229,
+      height:499,
+      matchContains: true,
+      multiple: false,
+      autoFill: false,
+      max:5,
+      selectFirst: false,
+      formatItem: function(row) {
+        return row.title;
+      },
+      formatResult: function(row) {
+        return row.title;
+      },
+      formatMatch: function(row) {
+        if(row.title === undefined) {
+          row.title = "";
+        }
+        return row.title + "&&&" + row.url;
+      }
 
-  $(":text, textarea").result(findValueCallback).next().click(function() {
-    $(this).prev().search();
-  });
+    });
 
-  $("#clear").click(function() {
-    $(":input").unautocomplete();
+    $(":text, textarea").result(findValueCallback).next().click(function() {
+      $(this).prev().search();
+    });
+
+    $("#clear").click(function() {
+      $(":input").unautocomplete();
+    });
   });
-});
-</script>
+  </script>
   <script src="/misc/AC_RunActiveContent.js" language="javascript"></script>
   <script language="JavaScript" type="text/javascript">
   var requiredMajorVersion = 9;
   var requiredMinorVersion = 0;
   var requiredRevision = 45;
   </script>
-
 </head>
 
 <body class="not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: auto; left: 0px; top: 0px;"></div>
 <script type="text/javascript" src="/scripts/tooltip/wz_tooltip.js"></script>
-
-
 <div id="page">
-  <div id="top-navigation">
-    <div id="top-navigation-inner">
 
-  </div>
-</div> <!-- /headernav -->
+  <div id="top-navigation">
+    <div id="top-navigation-inner"></div>
+  </div> <!-- /headernav -->
     <div id="page-inner">
 
     <div id="header">
@@ -116,14 +107,13 @@
       <div id="header-inner" class="clear-block">
         <div id="logo-title">
         <div id="mike-bobble">
-       <img src="/files/NewPotterAzkabanBobble.png">
-       </div>
+                       <a href="/rifftrax/voodoo-man"><img src="/files/VoodooManBobble.png"></a>       </div>
 
           <div id="logo"><a href="/" title="Home" rel="home"><img src="/themes/zen/images/logo.png"></a></div>
-          <div id="penguin-search" style="background:url(/files/stars-mst3k-penguin.png);">
+                    <div id="penguin-search" style="background:url(/files/stars-mst3k-penguin.png);">
             <div id="search-box">
               <form action="/privacy" accept-charset="UTF-8" method="post" id="rifftrax-search-form">
-<div><div class="form-item">
+<div><div class="form-item" id="riffsearch-wrapper">
  <input type="text" maxlength="128" name="riffsearch" id="riffsearch" size="31" value="Search for a product" class="form-text">
 </div>
 <input type="submit" name="op" id="riffsearch-submit" value="Go" class="form-submit">
@@ -133,8 +123,6 @@
             </div> <!-- /#search-box -->
           </div>
         </div> <!-- /#logo-title -->
-
-
       
     </div></div> <!-- /#header-inner, /#header -->
 
@@ -146,9 +134,10 @@
   <!--
   if (AC_FL_RunContent == 0 || DetectFlashVer == 0) {
     alert("This page requires AC_RunActiveContent.js.");
-  } else {
+  } 
+	else {
     var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
-    if(hasRightVersion) {  // if weve detected an acceptable version
+    if (hasRightVersion) {  // if weve detected an acceptable version
       // embed the flash movie
       AC_FL_RunContent(
         "width", "827",
@@ -160,9 +149,9 @@
         "loop", "true",
         "scale", "showall",
         "devicefont", "false",
-        "id", "RiffTraxDIY",
+        "id", "V3Navigation",
         "bgcolor", "#ffffff",
-        "name", "RiffTraxDIY",
+        "name", "V3Navigation",
         "wmode", "opaque",
         "menu", "false",
         "flashvars", "",
@@ -193,12 +182,11 @@
         
         
                   <div id="content-header">
-                                                                      </div> <!-- /#content-header -->
+                                                                                  </div> <!-- /#content-header -->
         
         <div id="content-area">
-            <div id="left-sidebar-container" style="float:left; width:186px; margin-right:6px;">
-                                          </div>
-          <div class="node node-type-page" id="node-145"><div class="node-inner">
+
+                     <div class="node node-type-page" id="node-145"><div class="node-inner">
 
   
   
@@ -211,36 +199,42 @@
   
 </div></div> <!-- /node-inner, /node -->
 
-        </div>
+                    </div>
 
               </div></div> <!-- /#content-inner, /#content -->
 
-      
     </div></div> <!-- /#main-inner, /#main -->
 
     <div id="footer"><div id="footer-inner">
-      <div id="footer-message">Copyright 2008 RiffTrax and Legend Films
+      <div id="footer-message"><p>Copyright © 2009 RiffTrax and Legend Films</p>
 </div>
     </div></div> <!-- /#footer-inner, /#footer -->
 
     
     <script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/urchin.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-355721-2";urchinTracker();</script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-355721-2");pageTracker._trackPageview();} catch(err) {}</script>
 
   </div></div> <!-- /#page-inner, /#page -->
-  <div id="dropdown-container">
+
+    <div id="dropdown-container">
     <div id="dropdown-inner">
       <ul id="navigation-1">
       
-          <li>Cart: 0 Items ($0.00)</li>
-          <li><a href="/user?destination=node%2F145">Login / Register</a></li>      </ul>
+          <li><a href="/cart">Cart: 0 Items ($0.00)</a></li>
+          <li><a href="/rifftrax/register?destination=node%2F145">Login or Register</a></li>      </ul>
     </div>
+
   </div>
 
+
+
   <div style="text-align:center; width:auto; padding:10px;">
-<a href="http://www.rifftrax.com/rifftones"><img src="/files/rifftones/Ringtones728x90B.jpg"></a>
-<p align="center"><span class="loggedInfo"><a href="/affiliates">Affiliate Program</a> | <a href="mailto:support@rifftrax.com">Support</a>  | <a href="/terms">Terms of Use</a> | <a href="/privacy">Privacy Policy</a><br>
-</span></p></div>
+    <a href="/ringtones?sort=desc&amp;order=Rating"><img src="/files/images/Ringtones485x90.jpg"></a>
+    <a href="/wallpapers?sort=desc&amp;order=Rating"><img src="/files/images/Wallpaper485x90.jpg"></a>
+    <p align="center"><span class="loggedInfo"><a href="http://rifftrax.list-manage.com/subscribe?u=267a37e356d577244d7d56991&amp;id=cfaeaa5a37" target="_blank">Mailing List</a>
+| <a href="/affiliates">Affiliate Program</a> | <a href="mailto:support@rifftrax.com">Support</a>  | <a href="/terms">Terms of Use</a> | <a href="/privacy">Privacy Policy</a><br>
+    </span></p>
+  </div>
 
 </body></html>
