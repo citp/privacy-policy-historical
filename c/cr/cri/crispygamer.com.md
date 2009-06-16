@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014100id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153048id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
 
-# Crispy Gamer - Privacy Policy
-
-## Crispy Gamer, Inc. Network Privacy Policy
+# Crispy Gamer | Privacy Policy
 
 Last updated January 1, 2008 
 
