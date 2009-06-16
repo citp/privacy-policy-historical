@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064717id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151903id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
 
 # LayItLow.com Privacy Statement
 
@@ -34,6 +34,8 @@ We will always give you the opportunity to "opt out" of receiving direct marketi
 ##### Cookies and Tracking Technology
 
 A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of LayItLow.com use cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+
+Google, as a third party vendor, uses cookies to serve ads on LayItLow.com. Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of LayItLow.com if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our website. You do not need to have cookies turned on, however, to use/navigate through many parts of our website, except access to some parts of LayItLow.com may require a login and password.
 
@@ -73,4 +75,4 @@ LayItLow.com will amend this policy from time to time. If we make any substantia
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [support@layitlow.com](mailto:support@layitlow.com).
 
-This document was last updated May 21, 2008
+This document was last updated March 12, 2009
