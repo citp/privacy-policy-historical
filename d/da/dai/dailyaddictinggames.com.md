@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyaddictinggames.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926135427id_/http%3A//dailyaddictinggames.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyaddictinggames.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063634id_/http%3A//www.dailyaddictinggames.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Daily Addicting Games - Privacy Policy
 
@@ -15,13 +15,9 @@ Web Entertainment Productions, Inc. we appreciates our relationship with you, re
 If you have any questions, we can be reached via  
 (contact at webentertainmentproductions dot com)
 
-�
-
 ** We generally do not collect any information.**
 
 For each visitor to our Site, our web server does not recognize any **** information regarding the visitor�s domain or e-mail address. We only collect information that you voluntarily provide to us.
-
-�
 
 ** We do not use Cookies but our third party advertisers might use Cookies.**
 
@@ -32,8 +28,6 @@ A cookie is a small amount of data that is sent to your computer�s hard drive 
 ** We collect certain information if you request our Newsletter.**
 
 We collect electronic mail information only if it is volunteered by you, such as your specific request to be added to our Newsletter mailing list. The information we collect from you if you subscribe to our Newsletter is used only to email the Newsletter to you.
-
-�
 
 ** We may amend this Privacy Policy.**
 
