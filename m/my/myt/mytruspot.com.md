@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216125244id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064819id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Tru Spot! - The African Social Music Network
+# Tru Spot! - The African Social Music Network | Free African Streaming Music , Find African music videos, African internet radio, African music downloads and all the latest African music news and information on Tru Spot!
 
 ## Privacy Policy
 
