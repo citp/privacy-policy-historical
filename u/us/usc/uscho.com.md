@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085252id_/http%3A//www.uscho.com/FAQs/%3Fdata%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617012945id_/http%3A//www.uscho.com/FAQs/%3Fdata%3Dprivacy) for the most accurate reproduction.*
 
 # USCHO.com :: U.S. College Hockey Online :: Frequently Asked Questions — USCHO Privacy Policy
 
@@ -38,7 +38,9 @@ A cookie is information a web site asks your browser to store on your hard drive
 
 USCHO.com uses cookies in the Fan Forum so that registered users don't have to enter their user names each time they visit.
 
-The advertisers who help pay to keep USCHO.com going also may use cookies for their advertising tracking software.
+#### Advertisers use of Cookies
+
+The advertisers who help pay to keep USCHO.com going also may use cookies for their advertising tracking software. We use third-party advertising companies to serve ads when you visit our website. These companies may use your clicking behavior on this and other sites in order to provide advertisements about goods and services of interest to you. Your name address, email address, or telephone number are not shared with any site.
 
 #### Our Commitment To Data Security
 
