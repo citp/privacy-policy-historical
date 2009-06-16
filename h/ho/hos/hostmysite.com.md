@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021454id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153518id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
 
 # Business Website Hosting, ASP, Budget, Affordable, FrontPage, Server Hosting
 
