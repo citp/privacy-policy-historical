@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011025id_/http%3A//boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616165916id_/http%3A//www.boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Box Office Mojo Privacy Policy
 
@@ -42,7 +42,9 @@ In the event case of any conflict between the terms of this policy and the terms
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, write to [mail@boxofficemojo.com](mailto:mail@boxofficemojo.com). 
 
 **_RELATED LINK_**  
-• **[_Box Office Mojo_ Terms of Use](http://www.boxofficemojo.com/about/termsofuse.htm)**  
+• **[_Box Office Mojo_ Terms of Use](http://www.boxofficemojo.com/about/termsofuse.htm)**
+
+undefined   
   
-Copyright © 1998–2008 IMDb.com, Inc. - [Terms of Use](https://web.archive.org/about/termsofuse.htm) and [Privacy Policy](https://web.archive.org/about/privacy.htm) under which this service is provided to you.  
+© IMDb.com, Inc. or its affiliates. All rights reserved. Box Office Mojo and IMDb are trademarks or registered trademarks of IMDb.com, Inc. or its affiliates. [Terms of Use](https://web.archive.org/about/termsofuse.htm) and [Privacy Policy](https://web.archive.org/about/privacy.htm) under which this service is provided to you.  
 Charts and data cannot be published or posted elsewhere without the expressed permission of Box Office Mojo. To publish or use the stats for professional purposes, please inquire at [mail@boxofficemojo.com](mailto:mail@boxofficemojo.com).
