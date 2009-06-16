@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020601id_/http%3A//www.lyrster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616073137id_/http%3A//www.lyrster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Lyrster - Privacy Policy
 
-[](http://www.lyrster.com/ "Lyrics Search")
+[](https://web.archive.org/ "Lyrics Search")
 
 This is the web site of Lyrster.com.
 
@@ -38,4 +38,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-_Updated: 2007-12-12._
+_Updated: 2009-01-12._
