@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2008-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080905190307id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201416id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Photodoto | Privacy Policy
 
@@ -46,7 +46,9 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * Display the most appropriate advertising banners, based on your interests and activity.
     * Estimate and report our total audience size and traffic.
     * Conduct research to improve our content and services.
-  * We let other companies (such as Google) set and access their cookies on your computer. Other entities’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to our cookies.
+  * We let other companies (such as Google) set and access their cookies on your computer. Other entities’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to our cookies. 
+    * Google’s use of the DART cookie enables it to serve ads to you based on your visits to this site and other sites on the Internet.
+    * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
@@ -63,4 +65,4 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will place a prominent notice on our site.
 
-Effective Date: February 2008
+Effective Date: April 6, 2009
