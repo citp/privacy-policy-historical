@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeupalley.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160306id_/http%3A//www.makeupalley.com/content/content.asp/s%3D0/c%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupalley.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132240id_/http%3A//www.makeupalley.com/content/content.asp/s%3D0/c%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Makeupalley Privacy Policy
 
