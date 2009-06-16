@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155509id_/http%3A//www.versus.com/article/view/731/%3Ftf%3DfooterArticles.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071626id_/http%3A//www.versus.com/article/view/731/%3Ftf%3DfooterArticles.tpl) for the most accurate reproduction.*
 
 # Versus Privacy Policy
 
