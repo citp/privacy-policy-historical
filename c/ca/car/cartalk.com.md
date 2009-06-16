@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034825id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616144807id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Car Talk
 
-**Revised January, 2004**
+**Revised March, 2009**
 
 Thank you for visiting the cartalk.com Web site. 
 
 "Car Talk" is a registered service mark of Tom and Ray Magliozzi. "cartalk.com" is a production of Dewey, Cheetham and Howe. Contents 2007, Dewey, Cheetham and Howe. 
 
-Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/web/20081216034825id_/http%3A//www.cartalk.com/menus/email/email.html). 
+Our postal address is P.O. Box 3500, Car Talk Plaza, Harvard Square, Cambridge, MA 02238. You may also contact us via [email](https://web.archive.org/ct/3500.jsp). 
 
 **cartalk.com's Privacy Policy**  
 Your privacy on the Internet is important to us. As part of the operations of cartalk.com, we gather certain types of information about cartalk.com users. This Privacy Policy explains the types of information we gather and what we do with it. 
@@ -49,6 +49,8 @@ Occasionally, we may post the name of a user (for example, a puzzler winner or l
 
 cartalk.com uses a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address, or telephone number) about your visits to our site and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our Web site and other Web sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this Web site, our third-party advertising company may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company, [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). 
 
+Google, as a third party vendor, uses cookies to serve ads on cartalk.com. Google's use of the DART cookie enables it to serve ads based on your visit to cartalk.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+
 **Electronic Newsletters**  
 cartalk.com offers free, electronic newsletters as a service to our users. You will only receive a newsletter if you agree to receive it directly from our newsletter sign-up form. cartalk.com reserves the right to include advertising messages in these electronic newsletters; however, we will not divulge our newsletter mailing lists to any third parties, including advertisers or partners. 
 
@@ -71,6 +73,6 @@ We believe that it is especially important to protect children's privacy online.
 **Additional Information**  
 No transmission of data over the Internet is guaranteed to be completely secured. It may be possible for third parties not under the control of cartalk.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, cartalk.com cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk. 
 
-cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. [Email us](https://web.archive.org/email/email.html) with any questions. 
+cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. [Email us](https://web.archive.org/ct/3500.jsp) with any questions. 
 
 | 
