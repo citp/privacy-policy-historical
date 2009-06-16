@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080046id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181638id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electricpig
+# Privacy Policy | ElectricPig.co.uk
 
 If you’d like to know our policy on all things related to Privacy, you’d better take a look. It makes for right tasty reading!
 
@@ -9,7 +9,7 @@ If you’d like to know our policy on all things related to Privacy, you’d bet
 **Information about our Organisation and Web site**
 
 Modern information and communication technologies play a fundamental role in the activities of an organisation like Republic Publishing Ltd . We are based in UK and our principal activity is online publishing. Our privacy policy covers Republic Publishing Ltd and its Web sites:  
-www.ElectricPig.tv  
+www.ElectricPig.co.uk  
 www.republicpublishing.co.uk  
 Controller: James Beechinor-Collins
 
@@ -22,6 +22,8 @@ You can access our Web sites home page and browse our sites without disclosing y
 Our Web sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data.
 
 Our Web sites do not include links to third party Web service providers.
+
+Our Web sites contain advertising and some contextual affiliate marketing links.
 
 **Cookies**
 
