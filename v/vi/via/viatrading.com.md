@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072436id_/http%3A//www.viatrading.com/category.jhtm%3Fcid%3D333) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616221813id_/http%3A//www.viatrading.com/category.jhtm%3Fcid%3D333) for the most accurate reproduction.*
 
 # Your One Stop Shop for Customer Returns and Closeouts !!
 
