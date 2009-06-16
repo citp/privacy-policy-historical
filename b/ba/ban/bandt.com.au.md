@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216104240id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandt.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182219id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # B&T : Privacy Policy
 
