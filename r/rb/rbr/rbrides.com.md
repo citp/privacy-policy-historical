@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rbrides.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012444id_/http%3A//www.rbrides.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbrides.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070629id_/http%3A//www.rbrides.com/pp.html) for the most accurate reproduction.*
 
-# Russian Brides.
+# RBrides.com Privacy Policy
 
-**Privacy Policy.**
+**RBrides.com Privacy Policy.**
 
 Our Commitment To Privacy. 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-The Information We Collect: Your Name, E-mail, City and Country. 
+_The Information We Collect: Your Name, E-mail, City and Country._
 
-This notice applies to all information collected or submitted on rBrides.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on RBrides.com website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name:  
 Address:  
@@ -23,7 +23,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 How You Can Access Or Correct Your Information: 
 
-You can access all your personally identifiable information that we collect online and maintain by your virtual office. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by your account's page. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -31,4 +31,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at +7 9047 632045 or send us an email at support@rBrides.com 
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.rbrides.com/1/form.html)
