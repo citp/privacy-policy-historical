@@ -1,77 +1,55 @@
-> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2008-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081019061406id_/http%3A//wik.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175530id_/http%3A//www.mindtouch.com/Privacy_Policy) for the most accurate reproduction.*
 
-# MindTouch Wik.is: Free MindTouch Deki Hosting
+# Privacy Policy - Open Source Collaborative Networks for Intranets and Extranets
 
-## Short version
+## Privacy Policy
 
-**NO.** We will **not** share your information with third parties. Nobody wants it, anyway. **Get over yourself**!
+This web site (the "Web Site") provides a variety of information and services, for investors, customers, prospective customers, resellers and others. Because the success of this Web Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to protect the privacy of those using our website and services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
-## Long version we're required to have because we live in an overly litigious society
+Although we respect the privacy of all those who visit the Web Site and use our online services, we do collect information from our Web Site's members and visitors. This Privacy Policy governs your interaction with the Web Site, and your registration for and use of this Web Site's online services where available. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web Site's visitors without their permission.
 
-At MindTouch, we are committed to ensuring the privacy of our users. This privacy policy explains MindTouch's privacy practices for this Web site ("Site") and any MindTouch-powered Web site ("Sites"), for users of our services. By using the Site, you consent to the terms of this privacy policy.
+Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web Site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web Site's Privacy Policy, or to raise any other issue regarding the Web Site, please email us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
-## What is Personal Information?
+### The information we gather
 
-Personal information is information that specifically identifies an individual, such as a user name, address, telephone number, e-mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information are linked to other personal information that identifies you.
+We gather two types of information about this Web Site's users:
 
-## Personal Information We Collect
+(1) Non-personally identifiable information: When visitors come to the Web Site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web Site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
 
-You may provide personal information to us in a number of ways when you visit:
+The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web Site, identify the most popular areas of the Web Site, and determine the effectiveness of our promotional activities.
 
-  * Register as a member and set up an account; 
-  * Subscribe to email notification of certain changes in Site functionality or content; or 
-  * Contact us by email for any reason (such as to request customer service or provide us with your comments/feedback). We collect your name and email address in this manner.
+For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web Site, and your usage of our services offered via the Web Site.
 
+Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web Site. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
+(2) Personally identifiable information: In certain areas of the Web Site, the Web Site may require---that you provide personally identifiable information (including, for example, zip code, age, income, and email address). In addition, when registering to set up an account to use certain services of the Web Site such as e-commerce services, email, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide both your name and your current, valid email address.
 
-Please note that we are not responsible for any personal information that you voluntarily provide as part of any edits or similar submissions to the Sites, including your user name or user profile. We discourage you from including personal information in any such edits or submissions as such information may be publicly available.
+We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web Site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
 
-We may, in accordance with our Sites' [Terms of Use](https://web.archive.org/tos/), try to prevent minors from accessing Sites that display adult content or certain other types of content for which we have received user complaints or which we believe is objectionable.
+We do not control the acts of this Web Site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guest book, or other forum, the information may be collected and used by others to send that person unsolicited email from other parties. In the event that you encounter any user on this Web Site who is improperly collecting or using information about you or other users, please contact [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
-When you visit our Sites, some information are also automatically collected, such as your computer's Internet Protocol (IP) address and operating system, the browser type, the address of a referring web site, and the time and date of your visit and Site pages visited. This information is collected through the use of "cookies." Cookies are small files that are stored on your computer to give you a unique identification. We use cookies on our Sites to help optimize your online experience. For example, we use cookies to track your editing of, and submissions to, our Sites. We treat this information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
+### How we use (and do not use) the information we gather
 
-MindTouch does not require that you accept cookies, but some functionality on our Sites may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it.
+Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved to adhere to our policies regarding the privacy of this Web Site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com"); we will be happy to forward your message to the third party.
 
-## How We Use Personal Information
+(1) How we use (and do not use) non-personally identifiable information: We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web Site's visitors, and by measuring demographics and interests regarding specific areas of the Web Site.
 
-In general, we may use personal information to process your requests or transactions and provide you with high-quality services or to inform you about other products or services we think will be of interest. For example, we use your information to provide online editing and publishing services to you, and to display customized content and advertising. We may also use personal information for certain auditing, research and analysis to operate and improve MindTouch technologies and services. Your personal information may also be used to set up or contact you regarding your account. When we use your personal information, it may be processed on our servers in the United States of America or in other countries.
+The Web Site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
 
-When we use personal information in our internal marketing efforts, we provide you with choices (see Choice) and do not disclose the information to third parties except as described in this privacy policy.
+(2) How we use (and do not use) personally identifiable information: We provide notice to potential registrants of this Web Site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. Although you may not "opt out" of the registration process if you wish to have access to Services, you may choose to "opt out" of receiving promotional materials from us and/or our other business partners. If you do not "opt out" of receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
-We may receive information from third parties with whom we have business relationships, and will combine this information with the other personal information we maintain about you. In such cases, this privacy policy governs this information.
+We limit our own email contact and solicitations to those users who have not "opted out" of receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the email and provide the user with a method of "opting out" of receiving future communications of a similar nature.
 
-## Use of Aggregate Information
+Finally, we may use individual members' data to "pre-populate" forms which are displayed for the purpose of collecting individual data by us. In no case does pre-populating a form transfer any data to any third party. Only if the user voluntarily requests that such data be transferred will any transfer take place---for example, if/when a user clicks a "submit form" button or other button.
 
-Personal information does not include aggregate information. Aggregate information is data we collect about a group or category of services or users, from which individual identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends and customer needs so that we can better consider new services and tailor existing services to customer desires. We may share aggregated non-personal information with third parties.
+We reserve the right to release any and all information contained within our access logs concerning any visitor when that visitor is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
 
-## Sharing of Personal Information
+If and when we sponsor promotions, we will post relevant privacy information in the official rules and/or registration area for the promotion. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion.
 
-We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
+### Security
 
-We also reserve the right to disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to prevent or protect our users from fraudulent, abusive, or unlawful use of our Sites; to ensure the security of our network and services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+All information gathered on the Web Site is stored within a controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com").
 
-In addition, information about our users, including personally identifiable information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.
+### Changing/deleting personal information
 
-## Links to Other Web Sites
-
-Our Sites contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from Sites to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
-
-## Use of the Sites by Children
-
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 13 years of age. If you are under 13, you may not register for our service and you should not provide information on our Sites.
-
-## Security
-
-We have put into place reasonable security measures in an effort to protect personal information while it is under our control. For example, your account information is accessible online only through the use of a password. To protect the confidentiality of personal information on such sites, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. Please contact us immediately if you believe your password has been misused.
-
-## Choice
-
-To opt-out of receiving communications from us or to request that we correct or delete your personal information, please contact us, or edit your online profile settings on this website.
-
-## Policy Changes
-
-We will modify this privacy policy from time to time as our privacy practices keep up to date with technology and legal developments. We will notify you of the changes by posting the new policy on our Sites and indicating at the top of the privacy policy the date it was last updated. We encourage you to review our privacy policy each time you visit our Sites to see if it has been updated since your last visit and to make sure you understand how the information that you provide will be used.
-
-## Your Comments or Concerns
-
-We welcome your feedback. If you have any comments or concerns about this privacy policy, please contact us.
+If you would like to have your personally identifiable information changed or removed from our database, please contact us at [webmaster@mindtouch.com](mailto:webmaster@mindtouch.com "mailto:webmaster@mindtouch.com"), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to re-contact former customers or users of this Web Site.
