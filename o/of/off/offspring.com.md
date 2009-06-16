@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065006id_/http%3A//www.offspring.com/cgi-bin/WebObjects/Offspring.woa/wa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180206id_/http%3A//www.offspring.com/cgi-bin/WebObjects/Offspring.woa/wa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: The Offspring
 
