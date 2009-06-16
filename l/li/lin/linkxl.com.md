@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040446id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204158id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LinkXL Contextual Text Link Ads
 
@@ -55,7 +55,7 @@ You can request us to provide you with access to the personal information we hol
 If you wish to make a complaint about any breach or potential breach of this privacy policy or the National Privacy Principles, you can contact us.
 
   
-InConTXT LLC  
+LinkXL.com, LLC  
 Attn: Privacy Officer  
 316-1/2 South Main St.  
 Suite 204  
@@ -70,8 +70,12 @@ Though we make every effort to preserve your privacy, we may need to disclose pe
 
 If you have any questions about our security & privacy policies, the practices of this site, or your dealings with LinkXL™, please contact: 
 
-InConTXT LLC  
+LinkXL.com, LLC  
 Attn: Privacy Officer  
 316-1/2 South Main St.  
 Suite 204  
-Royal Oak, MI 48067
+Royal Oak, MI 48067  
+  
+Copyright © 2009 LinkXL, LLC - All Rights Reserved. Patent Pending. 
+
+_Server time: 06/16/2009 12:42_
