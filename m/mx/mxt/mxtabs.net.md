@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023854id_/http%3A//www.mxtabs.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151304id_/http%3A//www.mxtabs.net/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MXTabs.net - Free, Legal Tablature
+# Privacy Policy | MXTabs.net
 
 **Layman Terms**  
 We are not going to sell your personal information to anyone! No If's, And's or But's!!! We will only provide your information under the order of a recognized court providing a search warrant for such information! Or in an emergency situation, in our best judgment, may provide information to recognized law enforcement agencies... now to the legal section. 
