@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084952id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153109id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | thecontaminated.com
+# Privacy Policy | Cool Pictures, Weird Pictures, Funny Pictures
 
 thecontaminated.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
