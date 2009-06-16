@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160354id_/http%3A//www.sundaymail.co.uk/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymail.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616065132id_/http%3A//www.sundaymail.co.uk/priv_statement) for the most accurate reproduction.*
 
 # Privacy policy - Liverpool Echo
 
