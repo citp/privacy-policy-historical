@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151547id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616072049id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
 
 # The Blemish Privacy Policy - The Blemish
 
@@ -18,7 +18,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about user’s visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To “opt-out,” please click here. http://www.doubleclick.com/privacy/index.aspx.
 
 **Log Files**
 
