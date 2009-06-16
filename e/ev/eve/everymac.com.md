@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the everymac.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021629id_/http%3A//www.everymac.com/articles/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymac.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616050538id_/http%3A//www.everymac.com/articles/admin/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ EveryMac.com
 
-### Privacy Policy @ EveryMac.com
+### Privacy Policy @ EveryMac.com & EveryiPod.com 
 
-Please read and understand the following privacy statement before using any information or services provided by EveryMac.com.
+Please read and understand the following privacy statement before using any information or services provided by [EveryMac.com](http://www.everymac.com/) and [EveryiPod.com](http://www.everyipod.com/) (hereinafter referred to as "EveryMac.com").
 
 ###  Privacy Statement
 
-EveryMac.com, and the principal author thereof, believes that your privacy on the Internet, and elsewhere, is of great importance. Because EveryMac.com gathers information about its users, it is important for you, as a user of EveryMac.com, to fully understand the terms and conditions regarding the collection and use of that information. This privacy policy discloses what information is gathered, how it is used, and how you can correct, change, or update this information.
+EveryMac.com believes that your privacy on the Internet, and elsewhere, is of great importance. Because EveryMac.com gathers information about its users, it is important for you, as a user of EveryMac.com, to fully understand the terms and conditions regarding the collection and use of that information. This privacy policy discloses what information is gathered, how it is used, and how you can correct, change, or update this information.
 
 This privacy policy will answer the following questions:
 
@@ -41,7 +41,7 @@ EveryMac.com, and the principal author thereof, is the sole owner of all informa
 
 **Contest Winners:** In the event that you win a prize from EveryMac.com, you will be notified of winning, and permission will be requested to provide your name, e-mail address, and postal mailing address to the sponsoring company, so they can ship your prize to you. Obviously, if your postal mailing address is not shared, you will not be able to receive your prize, as it has to be shipped to you. Nevertheless, you will be given the option of declining your prize. If you do not win a prize in an EveryMac.com contest, your information will not be shared. However, aggregate member demographic information is shared with contest sponsors.
 
-**Legal:** In the event that you are allegedly involved in any type of criminal activity using the EveryMac.com website or services, and EveryMac.com is subpoenaed to release your membership information, EveryMac.com is required by law to comply with the subpoena. EveryMac.com also reserves the right to disclose membership information in special cases when releasing the information is necessary to identify, contact, or bring legal action against any individual who has blatantly or repeatedly violated the [Terms of Use](https://web.archive.org/web/20081216021629id_/http%3A//www.everymac.com/articles/admin/termsofuse.html) and/or [Rules and Recommendations](http://members.everymac.com/component/option,com_joomlaboard/Itemid,27/func,rules/) agreements.
+**Legal:** In the event that you are allegedly involved in any type of criminal activity using the EveryMac.com website or services, and EveryMac.com is subpoenaed to release your membership information, EveryMac.com is required by law to comply with the subpoena. EveryMac.com also reserves the right to disclose membership information in special cases when releasing the information is necessary to identify, contact, or bring legal action against any individual who has blatantly or repeatedly violated the [Terms of Use](https://web.archive.org/web/20090616050538id_/http%3A//www.everymac.com/articles/admin/termsofuse.html) and/or [Rules and Recommendations](http://members.everymac.com/component/option,com_joomlaboard/Itemid,27/func,rules/) agreements.
 
 EveryMac.com does not sell or rent information about individual users to anyone for any reason. However, EveryMac.com does share aggregate demographic information with advertisers, sponsors, and business partners, but this information is not linked to any personal information that could identify any individual person. However, in the event that EveryMac.com or substantially all of its assets are acquired, member information will be one of the transferred assets.
 
