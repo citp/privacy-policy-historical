@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001549id_/http%3A//www.adtoll.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616054459id_/http%3A//www.adtoll.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Online Advertising, Pay Per Click Advertising, Banner Advertising, Video Advertising, Text Advertising, Peel Away Advertising, Affiliate Program @ AdToll - Your Tollgate to Web Traffic
 
