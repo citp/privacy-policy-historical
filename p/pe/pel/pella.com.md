@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516223543id_/http%3A//web.pella.com/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pella.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616100426id_/http%3A//web.pella.com/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pella® Windows and Doors - Pella Corporation Web site - Privacy Policy
 
 Pella Corporation ("Pella," "we," "us," and "our") owns and operates this website (this "Site"). This Online Privacy Policy (this "Policy") describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
 
