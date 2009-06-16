@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclibrary.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216042846id_/http%3A//dc.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclibrary.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616144309id_/http%3A//dc.gov/privacy.asp) for the most accurate reproduction.*
 
 # District of Columbia: Privacy and Security
 
@@ -24,4 +24,4 @@ Other Sites
 
 The District of Columbia's privacy policy extends to District government websites only. If you access another organization's website through the www.dc.gov website, you should read that organization's privacy policy to determine its website practices. 
 
-[<< Back to Home](https://web.archive.org/web/20081216042846id_/http%3A//dc.gov/index.asp "back to home")
+[<< Back to Home](https://web.archive.org/web/20090616144309id_/http%3A//dc.gov/index.asp "back to home")
