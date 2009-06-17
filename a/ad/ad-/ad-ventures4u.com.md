@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ad-ventures4u.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011420id_/http%3A//ad-ventures4u.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-ventures4u.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064702id_/http%3A//www.ad-ventures4u.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# best online advertising www.ad-ventures4u.com
+# best online advertising
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR ad-ventures4u.com**
 
