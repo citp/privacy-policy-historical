@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmanews.com privacy policy that was archived on 2007-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070209124951id_/http%3A//www.mmanews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmanews.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060239id_/http%3A//www.mmanews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# MMANEWS.COM
+# MMANews.com
 
 **MMA News Privacy Policy **
 * **Does MMANews.com collect information about me?**  
@@ -26,5 +26,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 
 
-|    
-
+|  [**Privacy Policy**](http://www.mmanews.com/page.php?page=privacy)
