@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendfinder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011918id_/http%3A//friendfinder.com/go/page/privacy.html%3Fsite%3Dff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendfinder.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617055601id_/http%3A//friendfinder.com/go/page/privacy.html%3Fsite%3Dff) for the most accurate reproduction.*
 
 # FriendFinder PRIVACY POLICY
 
