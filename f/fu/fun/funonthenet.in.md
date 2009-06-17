@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061027id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funonthenet.in privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617032100id_/http%3A//www.funonthenet.in/content/view/394) for the most accurate reproduction.*
 
 # Privacy Policy - FunOnTheNet
 
-**Publication Date: 30th August 2007**
+###  Subscribe to Feed 
+
+[](http://feeds.feedburner.com/fotn "Subscribe to my feed")
+
+[](http://www.funonthenet.in/articles/toolbar.html)
+
+| 
+
+|  Privacy Policy  |  [ ](http://www.funonthenet.in/index2.php?option=com_content&task=emailform&id=394&itemid=99999999 "E-mail")  
+---|---  
+  
+**Publication Date: 07th May 2009**
 
 FunOnTheNet has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.FunOnTheNet.in
 
@@ -23,6 +34,8 @@ FunOnTheNet uses browser cookies to facilitate your experience with our services
 
  **Information on Advertisers/Sponsors**  
 We display unobtrusive ads or buttons on our site from outside advertising companies. These ads or buttons may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) .
 
  **External Links**  
 This site contains links to other sites. FunOnTheNet is not responsible for the privacy practices or the content of such Web sites.
