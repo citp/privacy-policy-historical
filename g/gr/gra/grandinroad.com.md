@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170508id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172602id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
 
 # Privacy & Security - Grandin Road
 
@@ -6,7 +6,7 @@
 
 Your Privacy Rights
 
-Grandin Road respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [_www.dmaconsumers.org_](http://www.dmaconsumers.org/).
+Grandin Road respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [_www.dmachoice.org_](http://www.dmachoice.org/).
 
 Consumer Privacy at Grandin Road, an HSNi Company.
 
