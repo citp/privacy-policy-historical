@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102955id_/http%3A//www.cfnews13.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170621id_/http%3A//www.cfnews13.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Central Florida News 13 - All Local, All The Time.
+# Central Florida News 13 -
+
+Looking for a job? We can help. We have tips for finding a job online, building a killer resume and nailing that interview. Visit [News 13's Your Job](http://www.cfnews13.com/Business/MoneyReport/YourJob/Default.aspx) section to start your search. 
 
 In addition to reviewing this privacy policy, please read our [User Agreement](http://www.cfnews13.com/cfnews13useragreement.aspx "User Agreement"). Your use of BayNews9.com constitutes agreement to its terms and conditions.
 
@@ -51,7 +53,3 @@ Webmaster
 **CFNews13.com**   
 20 N. Orange Ave. Suite 13  
 Orlando, Florida 32801
-
-SEARCH        
-
-Watch exclusive News 13 videos
