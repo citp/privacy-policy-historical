@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184502id_/http%3A//sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171744id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
@@ -77,7 +77,7 @@ SAE may be required to provide information about its customers or prospective cu
 **Comments and Questions**  
 If you have comments or questions about this Policy, please contact us at: 
 
-> Email: PrivacyPolicy@sae.org  
+> Email: [CustomerService@sae.org](mailto:CustomerService@sae.org)  
 >  Phone: +1 877 606 7323 
 
 | 
