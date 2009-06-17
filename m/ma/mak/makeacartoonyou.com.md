@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeacartoonyou.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064618id_/http%3A//makeacartoonyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeacartoonyou.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060735id_/http%3A//makeacartoonyou.com/privacy) for the most accurate reproduction.*
 
 # MakeACartoonYou.com Privacy Policy | Make A Cartoon
 
