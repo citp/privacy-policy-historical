@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024707id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071343id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,5 +27,3 @@ The portions of our web site that collect any personal information - including t
 ## Credit Card Information
 
 Some electronic commerce sites save your credit card information so that you can order again without having to provide the same information each time. We do not do this, however, for reasons of security. Soon after your order completes, regardless of whether it succeeds or fails, the credit card information is deleted from our system. 
-
-___
