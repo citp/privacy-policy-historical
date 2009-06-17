@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172022id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065820id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Boatsales Privacy Policy - boatsales.com.au
 
@@ -102,7 +102,7 @@ Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122
 Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click here](http://www.carsales.com.au/carsales-info/contact-carsales.aspx) to contact us by email  
+Email: | Click here to contact us by email  
   
   
 **How this policy changes**  
