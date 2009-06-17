@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031000id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181536id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade : Privacy Policy
 
@@ -15,6 +15,8 @@ When you use **Checkatrade** you may need to provide us with personal informatio
 ### Your Information
 
 Unless we specifically notify you otherwise or you have elected otherwise, any information you provide to **Checkatrade** will only be used within **Checkatrade** and for the delivery of **Checkatrade** ’s services to you and/or your nominated acquaintances. **Checkatrade** will use the information for administration purposes and for the provision to you of any information and services that you have requested. We will only disclose your personal information without notice to you when we believe such disclosure to be required by law or regulation, or to be necessary to protect or defend the rights or property of **Checkatrade** or the safety of the public. 
+
+Members of the public submitting feedback about Checkatrade members will not have their details made public. However, the respective Checkatrade members will be made aware of the details privately where appropriate. 
 
 We will only keep a record of your information for as long as is necessary for the purposes it was provided: for example, we will only hold your personal information on our systems for as long as you use the service that you have requested. We will ensure that all personal information supplied is held securely. 
 
