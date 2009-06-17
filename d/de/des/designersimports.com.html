@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the designersimports.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217080403id_/http%3A//designersimports.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designersimports.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617172713id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 
@@ -18,10 +18,184 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <script language="JavaScript" src="scripts.js"></script>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="../../style.css">
 
-</head>
-<body bgcolor="#f5f7f4" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border:1px solid #999999;
+border-bottom-width: 0;
+xfont:normal 12px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #999999;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #FFFFFF;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="http://www.designersimports.com/designer-wrist%20rockbands.htm" class="black">Rockbands</a>'
+menu1[1]='<a href="http://www.designersimports.com/designer-eyewear.htm" class="black">Eyewear</a>'
+menu1[2]='<a href="http://www.designersimports.com/designer-luggage.htm" class="black">Luggage</a>'
+menu1[3]='<a href="http://www.designersimports.com/designer-shoes.htm" class="black">Shoes</a>'
+
+//Contents for menu 2, and so on
+//var menu2=new Array()
+//menu2[0]='<a href="http://cnn.com">CNN</a>'
+//menu2[1]='<a href="http://msnbc.com">MSNBC</a>'
+//menu2[2]='<a href="http://news.bbc.co.uk">BBC News</a>'
+		
+var menuwidth='75px' //default menu width
+var menubgcolor='#EEEEEE'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body bgcolor="#f5f7f4" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><div id="dropmenudiv" style="visibility:hidden;width:75px;background-color:#EEEEEE" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>  
+
+
 		<table width="100%" border="0" cellspacing="2" cellpadding="0" height="642">
 			<tbody><tr>
 				<td align="center" width="100%">
@@ -52,7 +226,7 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 																<td align="center" bgcolor="white" width="1" height="20"><img src="images/liteORNGdot.gif" alt="" height="20" width="1" border="0"></td>
 																<td align="center" bgcolor="white" width="120" height="20"><a href="custserv.asp"><span class="toptxt">CUSTOMER SERVICE</span></a></td>
 																<td align="center" bgcolor="white" width="1" height="20"><img src="images/liteORNGdot.gif" alt="" height="20" width="1" border="0"></td>
-																<form accept-charset="UTF-8" name="IBNSubscribe0" action="http://clicks.skem1.com/signup/" method="POST"></form><input type="hidden" name="c" value="537"><td align="center" bgcolor="white" width="136" height="20"><a href="javascript:document.IBNSubscribe0.submit();"><span class="toptxt">JOIN OUR MAILING LIST</span></a></td>
+																<form accept-charset="UTF-8" name="IBNSubscribe0" action="http://clicks.skem1.com/signup/" method="POST"></form><input type="hidden" name="c" value="537"><input type="hidden" name="lid" value="10"><td align="center" bgcolor="white" width="136" height="20"><a href="javascript:document.IBNSubscribe0.submit();"><span class="toptxt">JOIN OUR MAILING LIST</span></a></td>
 																<td align="center" bgcolor="white" width="1" height="20"><img src="images/liteORNGdot.gif" alt="" height="20" width="1" border="0"></td>
 																<td align="center" bgcolor="white" width="58" height="20"><span class="toptxt">SITE MAP</span></td>
 															</tr>
@@ -73,16 +247,7 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 																	<table width="304" border="0" cellspacing="1" cellpadding="1" height="57">
 																		<tbody><tr>
 																			<td align="center" bgcolor="white"><span class="darktop">All items are guaranteed authentic</span><br>
-																				<span class="regtxt">100% Money Back Satisfaction Guarantee<br>
-																				<b>
-                                                                            <a href="javascript:popwin3('http://www.designersimports.com/HolidayShipping1.html');" style="text-decoration: none">Guaranteed 
-                                                                            Holiday 
-                                                                            Delivery</a></b>*<b><br>
-                                                                            <a href="javascript:popwin1('http://www.designersimports.com/holidayreturns.html');" style="text-decoration: none">
-                                                                            Extended&nbsp; 
-                                                                            Holiday 
-                                                                            Return 
-                                                                            Policy</a></b></span></td>
+																				<span class="regtxt">100% Money Back Satisfaction Guarantee</span></td>
 																		</tr>
 																	</tbody></table>
 																</td>
@@ -119,8 +284,8 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 										<td align="center" width="83" height="35" background="images/MT_bg.jpg"><a href="designer-sunglasses.htm"><span class="black">Sunglasses</span></a></td>
 										<td align="center" width="64" height="35" background="images/MT_bg.jpg"><a href="designer-apparel.htm"><span class="black">Apparel</span></a></td>
 										<td align="center" width="86" height="35" background="images/MT_bg.jpg"><a href="designer-accessories.htm"><span class="black">Accessories</span></a></td>
-										<td align="center" width="86" height="35" background="images/MT_bg.jpg"><a href="designer-wrist%20rockbands.htm"><span class="black">Rockbands</span></a></td>
-										<td align="center" width="49" height="35" background="images/MT_bg.jpg"><a href="designer-belts.htm"><span class="black">Belts</span></a></td>
+										<td align="center" width="86" height="35" background="images/MT_bg.jpg"><a href="designer-belts.htm"><span class="black">Belts</span></a></td>
+										<td align="center" width="49" height="35" background="images/MT_bg.jpg"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '80px')" onmouseout="delayhidemenu()"><span class="black">More &gt;</span></a><!--<a href="designer-belts.htm"><span class="black">Belts</span></a>--></td>
 										<td align="center" width="209" height="35" background="images/bag_bg.jpg">
 											<table width="193" border="0" cellspacing="0" cellpadding="0">
 												<tbody><tr>
@@ -134,9 +299,10 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 										</td>
 									</tr>
 								</tbody></table>
-								<table width="878" border="0" cellspacing="0" cellpadding="0" height="23">
+								<table width="878" border="0" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td align="center" width="878"><span class="highlight">Free UPS Ground Shipping  with Discount Code "HOLIDAY08WB"   * US Only</span></td>
+										<td align="center" width="878"><span class="highlight">
+                                        Get 4% Off with Discount Code "SPRING09"</span></td>
 									</tr>
 								</tbody></table>
 								
@@ -154,22 +320,42 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 			
 			<tbody><tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-bulga.htm">Bulga (13)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-bcbg.htm">BCBG (24)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-burberry.htm">Burberry (32)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-bcbgeneration.htm">BCBGeneration (32)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-bvlgari.htm">Bvlgari (13)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-bcbgmaxazria.htm">BCBGMaxAzria (17)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-celine.htm">Celine (5)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-bulga.htm">Bulga (8)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-burberry.htm">Burberry (9)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-bvlgari.htm">Bvlgari (9)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-carlos_falchi.htm">Carlos Falchi (27)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-celine.htm">Celine (3)</a></span></td>
 			</tr>
 			
 			<tr>
@@ -179,52 +365,62 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-christian_dior.htm">Christian Dior (41)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-chris_audigier.htm">Chris Audigier (15)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-coach.htm">Coach (101)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-christian_dior.htm">Christian Dior (28)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-cochni.htm">Cochni (8)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-coach.htm">Coach (189)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-designers_outlet.htm">Designers Outlet (18)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-cochni.htm">Cochni (14)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-dolce___gabana.htm">Dolce &amp; Gabana (25)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-designers_outlet.htm">Designers Outlet (14)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-dooney___bourke.htm">Dooney &amp; Bourke (41)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-dolce___gabbana.htm">Dolce &amp; Gabbana (17)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-emilio_pucci.htm">Emilio Pucci (9)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-dooney___bourke.htm">Dooney &amp; Bourke (36)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-fendi.htm">Fendi (236)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-ed_hardy.htm">Ed Hardy (421)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-ferragamo.htm">Ferragamo (21)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-emilio_pucci.htm">Emilio Pucci (8)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-ferre.htm">Ferre (1)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-fendi.htm">Fendi (194)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-ferragamo.htm">Ferragamo (19)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-ferre.htm">Ferre (10)</a></span></td>
 			</tr>
 			
 			<tr>
@@ -234,32 +430,42 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-jessica_simpson.htm">Jessica Simpson (119)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-jessica_mcclintock.htm">Jessica McClintock (20)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-leonard.htm">Leonard (11)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-jessica_simpson.htm">Jessica Simpson (328)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-lilia_vanini.htm">Lilia Vanini (15)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-la_tour_eiffel.htm">La Tour Eiffel (74)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-loro_piana.htm">Loro Piana (9)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-leonard.htm">Leonard (10)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-marc_jacobs.htm">Marc Jacobs (12)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-lilia_vanini.htm">Lilia Vanini (12)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-maxmara.htm">MaxMara (10)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-loro_piana.htm">Loro Piana (10)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-marc_jacobs.htm">Marc Jacobs (10)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-maxmara.htm">MaxMara (9)</a></span></td>
 			</tr>
 			
 			<tr>
@@ -269,12 +475,12 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-prada.htm">Prada (221)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-prada.htm">Prada (188)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-ray_ban.htm">Ray-Ban (3)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-ray_ban.htm">Ray-Ban (1)</a></span></td>
 			</tr>
 			
 			<tr>
@@ -284,22 +490,27 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-scottish_classic.htm">Scottish Classic (3)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-scottish_classic.htm">Scottish Classic (4)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-steve_madden.htm">Steve Madden (8)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-steve_madden.htm">Steve Madden (21)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-tod_s.htm">Tod's (35)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-tod_s.htm">Tod's (34)</a></span></td>
 			</tr>
 			
 			<tr>
 				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
-			    <td width="140"><span class="txt_nav"><a href="cat-versace.htm">Versace (15)</a></span></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-valentino.htm">Valentino (1)</a></span></td>
+			</tr>
+			
+			<tr>
+				<td width="12"><img src="images/bullet.gif" alt="" height="9" width="10" border="0"></td>
+			    <td width="140"><span class="txt_nav"><a href="cat-versace.htm">Versace (18)</a></span></td>
 			</tr>
 				
 			</tbody></table>
@@ -587,6 +798,7 @@ function popwin3(url) { window.open(url,'1','width=475,height=475,screenX=0,scre
 													    <table width="441" border="0" cellspacing="0" cellpadding="0">
 															<form accept-charset="UTF-8" name="IBNSubscribe" action="http://clicks.skem1.com/signup/" method="POST"></form>
 															<input type="hidden" name="c" value="537">
+															<input type="hidden" name="lid" value="10">
 															<tbody><tr>
 																<td align="left" width="6"><br>
 																</td>
