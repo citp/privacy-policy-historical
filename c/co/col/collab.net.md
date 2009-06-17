@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723103508id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175600id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - CollabNet
 
@@ -69,9 +69,9 @@ Unless you assent, CollabNet will never share the personal information you provi
 
 CollabNet may disclose your personal information to third parties under any of the following circumstances:
 
-  * As may be required to fulfill orders, to conduct billing/credit card processing, and to provide services (as a consequence of uses already described in this Privacy Policy).
-  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud).
-  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction).
+  * As may be required to fulfill orders, to conduct billing/credit card processing, and to provide services (as a consequence of uses already described in this Privacy Policy). 
+  * As required by law (such as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud). 
+  * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture (pursuant to a pledge of confidentiality under which the recipient agrees to use the information for no purpose other than carrying out the transaction). 
 
 
 
@@ -114,3 +114,5 @@ CollabNet, Inc.
 Legal Department  
 8000 Marina Boulevard, Suite 600  
 Brisbane, California 94005
+
+The Terms were last amended on September 15, 2008.
