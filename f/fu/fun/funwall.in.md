@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funwall.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161906id_/http%3A//www.funwall.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funwall.in privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175615id_/http%3A//www.funwall.in/privacy) for the most accurate reproduction.*
 
 # Funwall.in :: Stick Your Favorites
 
