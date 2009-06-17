@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055121id_/http%3A//www.loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060903id_/http%3A//www.loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
 
 # Loot.com - Classified Ads. Buy, rent or place a free ad to sell anything.
 
@@ -148,9 +148,9 @@
     *     * , [Marketing](http://loot.jobex.co.uk/cgi-bin/advsearch?search_emp_mkt_cd=MK "Click here to search for Marketing Jobs")
     * …
     * [](http://loot.jobex.co.uk/ "Loot Jobs powered by Jobsite")
-  * ### [Games & Competitions](http://www.loot.com/games "Play Games Such as Deal or No Deal, Bingo or Enter Loots Competitions For A Chance To Win Some Great Prizes.")
+  * ### [Competitions](http://competitions.loot.com/ "Start Winning Prizes Now!")
 
-    * [](http://www.loot.com/games "Loot Games powered by King.com")
+    * [](http://competitions.loot.com/ "Loot Competitions")
   * ### [Astrology](http://loot.forturi.com/app/page/homepage)
 
     * [](http://loot.forturi.com/app/page/homepage "Loot Astrology powered by Forturi")
