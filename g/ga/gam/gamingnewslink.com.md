@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216075253id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617094521id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaming News Link
 
@@ -27,15 +27,17 @@ We use outside ad companies to display ads on our site. These ads may contain co
 Contact Information  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: god(at)mapuaownage.com
 
-[ ](http://del.icio.us/post?url=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F&title=Privacy+Policy "Save to del.icio.us") [ ](http://reddit.com/submit?url=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F&title=Privacy+Policy "Save to Reddit") [ ](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F&title=Privacy+Policy "Digg This Post!") [ ](http://technorati.com/faves?add=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F "Add to my Technorati Favorites!") [ ](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F&title=Privacy+Policy "Stumble it!") [ ](http://www.bookmark.it/bookmark.php?url=http%3A%2F%2Fwww.gamingnewslink.com%2Fprivacy-policy%2F "Bookmark.it!")
-
 Related posts: 
 
   1. [Glinkster website facelift](http://www.gamingnewslink.com/2008/07/14/glinkster-website-facelift/ "Permanent Link: Glinkster website facelift") Whenever i publish a new article here in Gamingnewslink, I...
-  2. [4chan’s Moot acquires 7chan](http://www.gamingnewslink.com/2007/12/10/4chans-moot-acquires-7chan/ "Permanent Link: 4chan’s Moot acquires 7chan") as quoted from moot on 7chan.org As you may have...
 
-Gamingnewslink [](http://www.gamingnewslink.com/).
+Related posts brought to you by [Yet Another Related Posts Plugin](http://mitcho.com/code/yarpp/).
 
+
+  
+
+
+\-->
 
   
 
