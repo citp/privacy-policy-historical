@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170024id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040652id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
 
-# SVB Financial Group :: Legal Notices
+# SVB Financial Group :: Privacy Policy
 
 | 
 
