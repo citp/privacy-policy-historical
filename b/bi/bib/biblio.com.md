@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118204254id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174825id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy and Security
-
-[](http://www.addthis.com/bookmark.php)
-
-[](http://www.truste.org/ivalidate.php?url=www.biblio.com&sealid=101)
+# Privacy and Security at Biblio.com
 
 Biblio Inc., including its partners and affiliates, is dedicated to protecting the privacy of its Web site visitors. In order to show this commitment, Biblio Inc. follows certain procedures designed to safeguard the information you entrust to it. These procedures are set forth in the following paragraphs. 
 
@@ -70,9 +66,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Biblio, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.biblio.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Biblio Customer Service at [support@biblio.com](mailto:support@biblio.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should contact Biblio Customer Service at [support@biblio.com](mailto:support@biblio.com). 
 
 **Contact Information:**  
 **Mailing address:**  
@@ -85,4 +79,4 @@ Asheville, NC 28804
 
 **Telephone:** 800-813-9432
 
-Last Updated on 1/5/2007
+Last Updated on 12/10/2008
