@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145222id_/http%3A//www.ptk.org/society/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171800id_/http%3A//www.ptk.org/society/privacy.htm) for the most accurate reproduction.*
 
 # Phi Theta Kappa - International Honor Society of the Two Year College
 
@@ -14,6 +14,6 @@ Phi Theta Kappa International Honor Society
 P.O. Box 13729  
 Jackson, MS  
 39236-3729  
-[membership.services@ptk.org](mailto:membership.services@ptk.org)
+[key.services@ptk.org](mailto:key.services@ptk.org)
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
