@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooks.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020415id_/http%3A//smallbusiness.intuit.com/small-business/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooks.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044251id_/http%3A//smallbusiness.intuit.com/small-business/privacy/index.jsp) for the most accurate reproduction.*
 
 # Intuit Small Business Privacy Statement
 
@@ -15,7 +15,7 @@ At Intuit, we value our relationship with you and place the highest importance o
 
 
 
-We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. Click here for more information. 
+Intuit works to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable law and federal standards. We use both internal and external resources to review our security procedures. Whenever we prompt you to transmit sensitive information, such credit card information, we support the encryption of your information as it is transmitted to us. Our employees are trained and required to safeguard your information. Click here for more information. 
 
 Click here for more information. 
 
@@ -61,6 +61,10 @@ We work year-round to improve our products and services. From time to time, we p
 
 Our professional accounting products may offer the ability to electronically file tax returns to the IRS and state governments. Some of our professional accounting products require you to obtain authorization to process different types of tax returns. We will collect information to identify unique returns to ensure proper billing. In addition, you may be able to download financial information directly into some of our professional products, which may require you or your client to provide authentication information such as a client's user name, account number or password. As an approved transmitter of electronically filed federal income tax returns, we follow stringent security guidelines to help protect your data. Electronically filed tax returns are encrypted during transmission to us. We use secure connections to transmit your clients' tax returns to the IRS and to state tax filing agencies. We maintain copies of electronically filed returns in case we need to retransmit them to the appropriate service centers or to resolve technical support issues, billing, and for internal administrative purposes. 
 
+Disclosing Your Data
+
+Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. BY SUPPLYING PERSONAL DATA TO INTUIT, YOU CONSENT TO ANY SUCH TRANSFER.
+
 Intuit Payroll Services
 
 Intuit provides several ways to prepare your company's payroll. When you sign up for these services, we may ask for your company's federal Employer Identification Number to pre-populate tax forms that you'll print and send to tax agencies If you use direct deposit, we may use this information to authenticate that you are a business with a tax ID number on file with the IRS. If you use our Assisted Payroll service, we also use your EIN and state identification numbers to enroll your company with the Electronic Federal Tax Payment System and state-specific systems so that we can make payroll tax payments on your behalf. 
@@ -71,11 +75,13 @@ If you sign up for Direct Deposit or Assisted Payroll, we will ask you to provid
 
 Whether you use an online or desktop payroll solution, we may offer you the ability to view your payroll tax forms online. To access your payroll tax forms or services online, we'll ask you to provide authentication information. The "We Protect Your Information" section of this statement details the security safeguards we use to protect your and your employee's information. 
 
-Intuit Merchant Services
+Intuit Merchant Services and Intuit Payment Solutions 
 
 The products and services offered by Innovative Merchant Solutions and Electronic Clearing House, Inc., both divisions of Intuit, enable you to accept check and credit card payments from your customers by phone, fax, mail, in-person, or online. To use these services your company must apply for a merchant account. To apply for a merchant service, we'll ask you to provide business and personal information, including: your business name, Electronic Identification number, the business owner's name, addresses, phone numbers and Social Security numbers. We use this information to make a credit decision on your application. 
 
-We transmit, store, protect and access all cardholder information in compliance with the Payment Card Industry's Data Security Standards. Your customers' cardholder and check data, including account numbers, financial institutions, expiration dates, transaction amounts and service codes, may be stored and retained by Innovative Merchant Solutions and Electronic Clearing House to provide the product and service that you have requested. 
+We transmit, store, protect and access all cardholder information in compliance with the Payment Card Industry's Data Security Standards.We transmit, store, protect and access all checkwriter information in compliance with National Automated Clearing House (NACHA) regulations. Check payment transactions are verified against, and are added to, National Check Network's check verification and credit reporting database. Your customers' cardholder and check data, including account numbers, financial institutions, expiration dates, transaction amounts and service codes, may be stored and retained by Innovative Merchant Solutions and Electronic Clearing House to provide the product and service that you have requested. 
+
+Some products and services offered by Innovative Merchant Solutions and Electronic Clearing House, Inc. provide you with the opportunity to create permissions and user accounts for your employees. When we do, we may request and store your employees personal information such as their name, email address, username password, and security challenge questions and answers. The "Information Security" section of the privacy statement details the safeguards we use to protect your an your employee's information. 
 
 Intuit Connected Services
 
@@ -121,9 +127,9 @@ We may use advertising networks to display ads in our products and services or a
 
 Information Security
 
-We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.
+We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. We maintain physical, electronic and procedural safeguards that comply with applicable law and federal standards. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.
 
-We train and require our employees to safeguard your information. We also use physical, electronic and procedural safeguards to restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures
+We train and require our employees to safeguard your information. We also use physical, electronic and procedural safeguards to restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
 How to Protect Your Personal Information
 
@@ -141,8 +147,6 @@ Here are ways to protect your personal information when using the Internet and o
   * Read privacy statements to learn how your information will be collected and used. 
 
 
-
-See <http://www.staysafeonline.info/basics/consumers.html> for more information. 
 
 At Intuit, safeguarding your personal information is a top priority. Part of that commitment is making you aware of popular identity theft and fraud scams and providing you with information to protect yourself. 
 
@@ -176,7 +180,7 @@ If we make material changes to any of our privacy policies or practices regardin
 
 Your Choices:
 
-You may change your account and contact information for Intuit Small Business any time by clicking [here](http://support.quickbooks.intuit.com/support/Pages/KnowledgeBaseArticle/1008066). 
+If you are in the United States, you may change your account and contact information for Intuit Small Business any time by clicking [here](http://support.quickbooks.intuit.com/support/Pages/KnowledgeBaseArticle/1008066). If you are outside of the United States, you may change your contact preferences here at [https://privacy.intuit.com/cpi/do/email](https://privacy.intuit.com/cpi/do/email.). 
 
 You may change your contact preferences for Intuit Small Business Products [here](https://privacy.intuit.com/cpi/do/preferences?dialog=1&p_sourceid=210&hidenav=1). 
 
@@ -185,3 +189,5 @@ If you are a member of the [Intuit Developer Network](http://member.developer.in
 If you are a QuickBase user, you can send an email to [privacy@quickbase.com](mailto:privacy@quickbase.com) to change your contact preferences. You can manage your contact or account information by accessing your QuickBase account. 
 
 You may unsubscribe from our newsletters by using the unsubscribe link provided in the newsletter sent to you. 
+
+Last Updated: 03/02/2009. 
