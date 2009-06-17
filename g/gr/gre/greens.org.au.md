@@ -1,15 +1,43 @@
-> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013085436id_/http%3A//www.greens.org.au/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617211012id_/http%3A//greens.org.au/website_privacy_policy) for the most accurate reproduction.*
 
-# The Australian Greens
+# Privacy Policy | The Australian Greens
 
-**Your privacy is important to us**
+**Privacy Policy.**
 
-When you ask to be involved in our campaign, you need to provide some personal information including contact details. 
+The Commonwealth Privacy Act 1988 [exempts](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/s7c.html) the political activities of political parties and representatives, however The Australian Greens values protecting your privacy and in doing so follows current Australian best practice guidelines and the spirit and intent of the [Privacy Act](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) to ensure your privacy is protected. Whilst all reasonable measures have been taken to ensure your safety and privacy, users are advised that there are inherent risks in transmitting information across the internet.
 
-If you provide your email address in order to 'Join the Campaign' then you will receive emails pertaining to the Australian Greens' campaign for the 2004 federal election. Your email address will not be used for any other purpose and will not be disclosed to a third party. At any time you may request to be removed from our list by contacting us. 
+**Personal Information**
 
-If you complete the online form to volunteer for the Australian Greens, then you will need to provide additional personal information. We need this information so that we can determine where you live and in what capacity you are best able to assist us. We will contact you in order to organise your contribution to the campaign. We will not use your personal information for any other purpose, nor disclose it to a third party. 
+Personal information provided to the Australian Greens and information collected through this website will not be disclosed to any third party outside the Australian Greens or its State affiliates unless one of the following applies:
 
-In the case of online donations, we are required by law to collect certain personal information. If your donation is $1,500 or higher, or multiple donations you make total $1,500 or more, then we are required by law to disclose your donation, your name and your address to the Australian Electoral Commission. The Australian Electoral Commission will then make this information public via its website or physical inspection of its records.
+  * the individual has consented 
+  * the individual would reasonably expect, or has been told, that information of that kind is usually passed to those individuals, bodies or agencies 
+  * it is required or authorised by law 
+  * it will prevent or lessen a serious and imminent threat to somebody's life or health 
+  * the disclosure is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of public revenue. 
 
-Any information you provide when you make an online donation will not be disclosed to a third party or used for any other purpose other than as required by law. 
+
+
+**Statistical Data**
+
+When an individual browses our website, our systems make a record of the individual’s visit and logs the following information for statistical purposes:
+
+  * the individual’s server address 
+  * the individual’s top level domain name (for example .com, .gov, .org, .au, etc) 
+  * the pages the individual accessed and documents downloaded 
+  * the previous site the individual visited and 
+  * the type of browser being used. 
+
+
+
+We do not identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the internet service provider's server logs.
+
+**Mailing Lists**
+
+Individuals joining our email lists will have their contact details stored on password protected databases. Staff members have access to our website’s backend system which is password protected. Our website server, hosted by our internet service provider, is also password protected.
+
+**Cookies**
+
+Our website uses session cookies during a search query of the website and when an individual accesses various sections of this website. When an individual closes their browser the session cookie set by our website is destroyed and no personal information is maintained which might identify an individual should they visit our website at a later date.
+
+**Whilst every attempt has been made to protect visitors’ privacy, The Australian Greens accept no fault if these systems result in a breach of privacy.**
