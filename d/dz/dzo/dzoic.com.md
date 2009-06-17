@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040551id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzoic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070350id_/http%3A//www.dzoic.com/privacy.php) for the most accurate reproduction.*
 
 # DZOIC :: Video Sharing Script and Social Networking Script - Youtube Clone - Myspace Clone - Youtube Script - Myspace Script
 
@@ -24,4 +24,4 @@ Privacy Policy
 [Products](http://www.dzoic.com/products.php) | [Services](http://www.dzoic.com/services.php) | [System Requirements](http://www.dzoic.com/requirements.php) | [Order](http://www.dzoic.com/order.php) | [Hosting](http://www.dzoic.com/hosting.php) | [Forum](http://forums.dzoic.com/) | [Jobs](http://www.dzoic.com/jobs.php) | [Contact](http://www.dzoic.com/contact.php) | [License](http://www.dzoic.com/license.php) | [Privacy](http://www.dzoic.com/privacy.php)  
 | [DZOIC|Shop](http://shop.dzoic.com/) |  | [DZOIC|Development](http://dev.dzoic.com/) |  | [DZOIC|Affiliates](http://affiliates.dzoic.com/)  
 ---|---|---|---|---  
-Copyright © DZOIC Limited, 2005-2008. All Rights Reserved. 
+Copyright © DZOIC Limited, 2005-2009. All Rights Reserved. 
