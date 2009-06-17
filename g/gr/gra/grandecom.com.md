@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050424id_/http%3A//www.grandecom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181721id_/http%3A//www.grandecom.com/privacy.php) for the most accurate reproduction.*
 
 # Grande Communications - Privacy Policy
 
@@ -46,8 +46,6 @@ Unless addressed to us, we do not read email messages, instant messages, online 
 
 As with any other business, it is possible that Grande Communications in the future could merge with another company or Grande Communications or its assets or one or more of its business lines could be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Grande Communications, including customer account information, but would continue to be bound by this Privacy Statement unless and until it is amended as described below. 
 
-We may partner with third parties to deliver or facilitate delivery of advertisements to subscribers of our internet services while they are surfing the web. These advertisements will be based on those users' anonymous surfing behavior while they are online. This anonymous information will not include our subscribers' name, email address, telephone number, or any other personally identifiable information. By opting out of receiving directed advertisements, an internet services subscriber will continue to receive advertisements through websites they visit as normal; except these advertisements will be less likely to be related to the information the user is seeking on the internet. If you would like to opt out of facilitated ad delivery, [click here](http://www.networkadvertising.org/). To opt out of the tailored delivery of advertisements, you must accept cookies. 
-
 Grande Communications will not sell or rent any of your personally identifiable information to third parties. Grande Communications will share your personally identifiable information with third parties that are its suppliers, affiliates or business partners of Grande Communications in order to provide Grande Communications services to you or to provide you with notification of those services. These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared. Grande Communications will not share any of your personally identifiable information with third parties other than its suppliers, affiliates, or business partners except with your express permission. 
 
 #### California Privacy Rights
@@ -83,8 +81,6 @@ Our Site provides you the opportunity to opt-out of receiving communications fro
 #### You can visit the Contact Us section on our Site. 
 
 You can call the following telephone number and ask to be removed from future mailings: 512.878.4600. 
-
-Additionally, you can opt out of the tailoring of advertisements based on your anonymous surfing behavior (as described above under the heading "How And When We Collect Information") by [clicking here](http://www.nebuad.com/privacy/optout.php). 
 
 By following the above outlined cost-free procedure, you may prevent certain disclosures of personal information.
 
