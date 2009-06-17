@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216170036id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617032002id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>IronPlanet - Privacy Statement</title>
@@ -29,107 +29,11 @@ var maxNbOfTrialItems = 0;
 <div style="width:765px" id="bigboy">
 <!-- Begin /jsp/realm/1/nav_bar.jsp -->
 
+
+<script language="JavaScript" src="/js/ipnavbar.js"></script>
 <script>
 <!--
-// ========== Menu Scripts  ============================= 
-// Menu Variables
-var mm = 'm1'; // 
-var timeOn;
-var startTime;
-var hide_this; // Used to define whether to hide form elements below pull down menus.
-
-function show_menu(mx) {
-	clearTimeout(timeOn);
-	var exp = "menuOn('" + mx + "')";
-  	startTime = setTimeout(exp, 300); // 200ms delay before firing menubars
-}
-
-function menuOn(mx) {
-	if (document.getElementById) {
-		if (mx != mm) document.getElementById([mm]).style.visibility = "hidden";
-		mm = mx;
-		if (document.forms[0]) {  // This hides form elements in the page
-			for (var j=0; j < document.forms.length; j++) {  // iterate through form elements
-				hide_this = document.forms[j];
-				if (hide_this.className!="lh_form") {   // unless I flagged this form as lh and ok, hide the elements
-		 			for (var i=0; i < hide_this.elements.length; i++) {
-		 				if (hide_this.elements[i].nodeName == 'SELECT') hide_this.elements[i].style.visibility="hidden"; // Only hide select elements... the ones that overlap in IE
-					}
-				}
-			}
-		}
-		document.getElementById([mm]).style.visibility = "visible";
-	}
-}
-
-function hide_menu(mx) {
-	clearTimeout(startTime);
-  	timeOn = setTimeout("menuOut()", 200);
-}
-
-function do_lang_change(pg) {
-	var switcherFrame = document.createElement('iframe');
-	switcherFrame.setAttribute("src",pg);
-	switcherFrame.setAttribute("width", "0");
-	switcherFrame.setAttribute("height", "0");
-	switcherFrame.setAttribute("border", "0");
-	switcherFrame.setAttribute("frameborder", "0");
-	document.body.appendChild(switcherFrame);
-}
-
-function menuOut() {
-	if (document.getElementById) document.getElementById([mm]).style.visibility = "hidden";	
-	if (document.forms[0]) {  // This reshows form elements in the page
-		for (var j=0; j < document.forms.length; j++) {  // iterate through form elements
-			hide_this = document.forms[j];
-			for (var i=0; i < hide_this.elements.length; i++) {
-				hide_this.elements[i].style.visibility="visible";
-			}
-		}
-	}
-}
-// ========== End Menu Scripts ==============================
-
-// ========== Login Tracking ================================
-function getCookie(name) {
-  var dc = document.cookie;
-  var prefix = name + "=";
-  var begin = dc.indexOf("; " + prefix);
-  if (begin == -1) {
-    begin = dc.indexOf(prefix);
-    if (begin != 0) return null;
-  } else
-    begin += 2;
-  var end = document.cookie.indexOf(";", begin);
-  if (end == -1)
-    end = dc.length;
-  return unescape(dc.substring(begin + prefix.length, end));
-}
-function decodeUTF8(utftext) {
-  var string = "";
-  var i = 0;
-  var c = c1 = c2 = 0;
-  while (i < utftext.length) {
-    c = utftext.charCodeAt(i);
-    if (c < 128){
-      string += String.fromCharCode(c);
-      i++;
-    }
-    else if ((c > 191) && (c < 224)) {
-      c2 = utftext.charCodeAt(i+1);
-      string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
-      i += 2;
-    }
-    else {
-      c2 = utftext.charCodeAt(i+1);
-      c3 = utftext.charCodeAt(i+2);
-      string+=String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
-      i += 3;
-      }
-  }
-  return string;
-}
-
+// ============ Login Tracking ===============
 var loggedIn = getCookie("loggedin");
 var loginName = getCookie("login");
 var acsLevel = getCookie("reglevel");
@@ -199,7 +103,7 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 					  if (loggedIn && loginName != "")  {
 					  document.write("Logged in as: <nobr>"+decodeUTF8(loginName)+"</nobr> | <a href=/jsp/logout_nd.jsp><b>"+"Logout"+"</b></a>");
 					  } else {
-					  document.write("<a href='/jsp/acct/my-account.jsp'>"+"Login"+"</a> | "+"<a href='/jsp/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
+					  document.write("<a href=/jsp/acct/my-account.jsp >"+"Login"+"</a> | "+"<a href='/jsp/acct/register.jsp'>Register Now...</a> it's quick, easy, and FREE!");
 					}
 					// -->
 					</script><a href="/jsp/acct/my-account.jsp">Login</a> | <a href="/jsp/acct/register.jsp">Register Now...</a> it's quick, easy, and FREE!
@@ -221,7 +125,6 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 	<td>
 		<table style="width:100%; max-width:800px; width:expression(document.getElementById('yogurt').offsetWidth > 1000 ? '800px': '100%');" cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr>		
-			<!-- <td><a class="menu_item" href="/index.jsp" id="menu5">HOME</a></td> -->
 			<td class="menu_root" onmouseover="show_menu('m1')" onmouseout="hide_menu('m1')" id="menu1"><a class="menu_item" style="text-align:left; padding-left:10px;" href="/jsp/equip/index.jsp">EQUIPMENT <img src="/k_images/down_arrow.gif" border="0"></a>
 		   		<div class="sub_menu" id="m1">
 		   			
@@ -232,41 +135,45 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 
 
-	<a href="/jsp/find/searchresults.jsp?category=1198&amp;command=NewSearch&amp;h=400" style="display:block">Aerial Work Platforms</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1198&amp;command=NewSearch&amp;h=400" style="display:block">Aerial Work Platforms</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=8&amp;command=NewSearch&amp;h=400" style="display:block">Aggregate</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=8&amp;command=NewSearch&amp;h=400" style="display:block">Aggregate</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt/Paving/Concrete</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=12&amp;command=NewSearch&amp;h=400" style="display:block">Asphalt/Paving/Concrete</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=21&amp;command=NewSearch&amp;h=400" style="display:block">Backhoes</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=21&amp;command=NewSearch&amp;h=400" style="display:block">Backhoes</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=9&amp;command=NewSearch&amp;h=400" style="display:block">Compactors</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=9&amp;command=NewSearch&amp;h=400" style="display:block">Compactors</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=1&amp;command=NewSearch&amp;h=400" style="display:block">Dozers</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=17&amp;command=NewSearch&amp;h=400" style="display:block">Cranes</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=3&amp;command=NewSearch&amp;h=400" style="display:block">Excavators</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1&amp;command=NewSearch&amp;h=400" style="display:block">Dozers</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=10&amp;command=NewSearch&amp;h=400" style="display:block">Farm Equipment</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=3&amp;command=NewSearch&amp;h=400" style="display:block">Excavators</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=18&amp;command=NewSearch&amp;h=400" style="display:block">Forestry</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=10&amp;command=NewSearch&amp;h=400" style="display:block">Farm Equipment</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=1197&amp;command=NewSearch&amp;h=400" style="display:block">Forklifts</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=18&amp;command=NewSearch&amp;h=400" style="display:block">Forestry</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=7&amp;command=NewSearch&amp;h=400" style="display:block">Graders</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1197&amp;command=NewSearch&amp;h=400" style="display:block">Forklifts</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=1564&amp;command=NewSearch&amp;h=400" style="display:block">Landscaping</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=7&amp;command=NewSearch&amp;h=400" style="display:block">Graders</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=4&amp;command=NewSearch&amp;h=400" style="display:block">Loaders</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1564&amp;command=NewSearch&amp;h=400" style="display:block">Landscaping</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=1340&amp;command=NewSearch&amp;h=400" style="display:block">Motorcycles</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=4&amp;command=NewSearch&amp;h=400" style="display:block">Loaders</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=5&amp;command=NewSearch&amp;h=400" style="display:block">Scrapers</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1380&amp;command=NewSearch&amp;h=400" style="display:block">Recreational Vehicles</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=29&amp;command=NewSearch&amp;h=400" style="display:block">Skid-Steers</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=5&amp;command=NewSearch&amp;h=400" style="display:block">Scrapers</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=11&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - Off-Road</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=29&amp;command=NewSearch&amp;h=400" style="display:block">Skid-Steers</a>
 	
-	<a href="/jsp/find/searchresults.jsp?category=1201&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - On-Road</a>
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=11&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - Off-Road</a>
+	
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1201&amp;command=NewSearch&amp;h=400" style="display:block">Trucks - On-Road</a>
+	
+	<a href="http://www.ironplanet.com/jsp/find/searchresults.jsp?category=1764&amp;command=NewSearch&amp;h=400" style="display:block">Water Related Equipment</a>
 	
 
 
@@ -274,7 +181,7 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 				
 				<a href="/jsp/equip/index.jsp">MORE CATEGORIES &gt;&gt;</a>
-				<a href="/jsp/equip/index.jsp">&nbsp;</a>
+				<a href="#">&nbsp;</a>
 				<a href="/jsp/equip/index.jsp?page=byLocation">SEARCH BY LOCATION </a>
 				<a href="/jsp/equip/index.jsp?page=byMake">SEARCH BY MAKE </a>
 
@@ -287,11 +194,11 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 
 
 
-			<a href="/jsp/equip/auction.jsp?groupId=2175" style="display:block">Thu Dec 18</a>
+			<a href="http://www.ironplanet.com/jsp/equip/auction.jsp?groupId=2590" style="display:block">Thu Jun 18</a>
 			
-			<a href="/jsp/listing/listing_form.jsp" style="display:block">Thu Jan 8</a>
+			<a href="http://www.ironplanet.com/jsp/equip/auction.jsp?groupId=2570" style="display:block">Thu Jun 25</a>
 			
-			<a href="/jsp/listing/listing_form.jsp" style="display:block">Thu Jan 15</a>
+			<a href="http://www.ironplanet.com/jsp/listing/listing_form.jsp" style="display:block">Thu Jul 9</a>
 			
 
 
@@ -305,9 +212,10 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 		   		</div>
 			</td>
 			<td><a class="menu_item" href="/jsp/s/howto/howtoBuy.html" id="menu3">HOW TO BUY</a></td>
-			<td><a class="menu_item" href="/jsp/s/howto/howtoSell.html" id="menu4">HOW TO SELL</a></td>
-			<td><a class="menu_item" href="/jsp/acct/my-account.jsp" id="menu5">MY ACCOUNT</a></td>
-			<td><a class="menu_item" href="/jsp/equip/index.jsp" id="menu6" style="text-align:right; padding-right:8px;">SEARCH</a></td>
+<td><a class="menu_item" href="/jsp/s/howto/howtoSell.html" id="menu4">HOW TO SELL</a></td>
+<td><a class="menu_item" href="/jsp/acct/my-account.jsp" id="menu5">MY ACCOUNT</a></td>
+<td><a class="menu_item" href="/jsp/equip/index.jsp" id="menu6" style="text-align:right; padding-right:8px;">SEARCH</a></td>
+
 		</tr>
 		</tbody></table>
 	</td>
@@ -437,6 +345,8 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 </tbody></table>
 
 
+
+
 <table cellspacing="0" cellpadding="0" border="0" style="width:100%">
 <tbody><tr><td colspan="2">&nbsp;</td></tr>
 <tr>
@@ -450,12 +360,12 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 	</td>
 </tr>
 
-<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2008 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.jsp" onclick="popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
+<tr><td colspan="2" class="sub_footer" style="text-align:right; color:#666; font-size:10px; padding-top:5px;">IronPlanet, Inc. © 2009 All Rights Reserved &nbsp;&nbsp; <a href="/pop/short_terms.jsp" onclick="popUp('/pop/short_terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a><br>&nbsp;
+
 	<div class="WL">
-	
-		<a class="WL" href="/heavy_equipment.jsp">I</a><a class="WL" href="/construction_equipment_auction.html">r</a><a class="WL" href="/heavy_equipment_auction.html">o</a><a class="WL" href="/heavy_equipment_for_sale.html">n</a><a class="WL" href="/used_backhoes.html">P</a><a class="WL" href="/used_dozers.html">l</a><a class="WL" href="/used_caterpillar_equipment.html">a</a><a class="WL" href="/used_construction_equipment.html">n</a><a class="WL" href="/used_heavy_equipment.html">e</a><a class="WL" href="/used_farm_tractors.html">t</a><a class="WL" href="/used_farm_tractors_for_sale.html">&nbsp;I</a><a class="WL" href="/used_case_equipment.html">n</a><a class="WL" href="/used_caterpillar_equipment.html">c</a><a class="WL" href="/used_bulldozers.html">.</a>
-	
-	</div>
+<a class="WL" href="/heavy_equipment.jsp">I</a><a class="WL" href="/construction_equipment_auction.html">r</a><a class="WL" href="/heavy_equipment_auction.html">o</a><a class="WL" href="/heavy_equipment_for_sale.html">n</a><a class="WL" href="/used_backhoes.html">P</a><a class="WL" href="/used_dozers.html">l</a><a class="WL" href="/used_caterpillar_equipment.html">a</a><a class="WL" href="/used_construction_equipment.html">n</a><a class="WL" href="/used_heavy_equipment.html">e</a><a class="WL" href="/used_farm_tractors.html">t</a><a class="WL" href="/used_farm_tractors_for_sale.html">&nbsp;I</a><a class="WL" href="/used_case_equipment.html">n</a><a class="WL" href="/used_caterpillar_equipment.html">c</a><a class="WL" href="/used_bulldozers.html">.</a>
+</div>
+
 </td></tr>
 </tbody></table>
 <script type="text/javascript">
