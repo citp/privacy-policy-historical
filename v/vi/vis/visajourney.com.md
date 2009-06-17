@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161211id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617033031id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
 
 # VisaJourney.com -> Privacy Policy
 
@@ -23,7 +23,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on VisaJourney.com. The information is highly summarized and is in no way linked to individual visitors. 
 
 **Advertising**  
-We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. 
+We use third party advertising companies to serve banners and text ads. Please be aware that we are not responsible for the privacy practices of these companies. We currently use [Google.com](http://www.google.com/) for limited advertising. You are encouraged to read their privacy policies by following their respective links. Google, as a third party vendor, uses cookies to serve its ads on VisaJourney.com. Google's use of the DART cookie enables it to serve ads based on users visiting VisaJourney.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by VisaJourney.com. 
@@ -43,6 +43,6 @@ Your personally identifiable information is always accessible by you and can be 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, VisaJourney.com can not be held responsible for notifying you of any changes made to this policy.
 
- _last updated: 2/29/04_ ****  
+ _last updated: March 12, 2009_ ****  
   
-Custom Pages v2.0.0 © Copyright 2008 Michael Corcoran.
+Custom Pages v2.0.0 © Copyright 2009 Michael Corcoran.
