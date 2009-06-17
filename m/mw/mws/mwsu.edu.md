@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153401id_/http%3A//www.mwsu.edu/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174023id_/http%3A//www.mwsu.edu/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Midwestern State University
 
+  
 Midwestern State University (MSU) maintains this Web site (www.mwsu.edu) as a public service. This policy describes the university’s privacy practices regarding information collected from visitors to the site. It contains information about what information is collected and how that information is used. **Please note** that all information collected or maintained by MSU is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code).
 
 If you have questions or comments about the agency’s privacy policy, please send e-mail to [Janus Buss](mailto:fbussj@nexus.mwsu.edu), Director -- Public Information or call the MSU Office of Public Information at 940-397-4353.
