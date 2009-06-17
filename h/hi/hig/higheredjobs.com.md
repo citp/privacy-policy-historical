@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041224id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064543id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs.com
 
@@ -23,7 +23,7 @@ We post customer testimonials on our web site which may contain personally ident
 C. Resume Center. If you register for a personal My HigherEdJobs account, you will have the option of posting a form of your resume on the Restricted Site. We request certain personal information in order for you to post your resume, such as your name and address, e-mail address and experience working in higher education. We include this information, when and only if you so elect, in a database for institutional and other paying subscribers to search for potential candidates online.  In addition, you have the ability to draft a personal resume and cover letter in the resume textbox. There are two primary ways you can use the Resume Center:
 
   1. You can create and store your resume on our database, but _not_ allow it to be searched by any institutions of higher education or other employer-subscribers. Not allowing your resume to be searchable means that you can use it to apply for a position online, but it will _not_ be searchable through our resume database.
-  2. You can store your resume in our database and allow it to be searched by universities and employers that subscribe for access to our resume database. You may elect to have your personal contact information disclosed to universities and employers searching our database, or limit the personal contact information displayed to your e-mail address only. You may remove your resume from our searchable database at any time. However, university and other subscribers who have paid for access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes, nor any information disclosed on your resume or cover letter posted on our Web Site. Please note that once you create a resume online and permit it to be searched, all information contained in your resume and cover letter can be collected and used by our paying subscribers. This may result in unsolicited messages from third parties, for which Internet Employment Linkage, Inc. is not responsible.
+  2. You can store your resume in our database and allow it to be searched by universities and employers that subscribe for access to our resume database. You may elect to have your personal contact information disclosed to universities and employers searching our database, or not have any personal contact information disclosed. You may remove your resume from our searchable database at any time. However, university and other subscribers who have paid for access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes, nor any information disclosed on your resume or cover letter posted on our Web Site. Please note that once you create a resume online and permit it to be searched, all information contained in your resume and cover letter can be collected and used by our paying subscribers. This may result in unsolicited messages from third parties, for which Internet Employment Linkage, Inc. is not responsible.
 
 
 
@@ -69,4 +69,4 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 12/11/2007
+Last Updated: 5/01/2009
