@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502203025id_/http%3A//www.myccpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070740id_/http%3A//www.myccpay.com/privacy.html) for the most accurate reproduction.*
 
 # Total Card, Inc.
 
@@ -81,6 +81,7 @@ Mail this form to:
 
 Correspondence Department  
 PO Box 89940  
-Sioux Falls, SD 57109
+Sioux Falls, SD 57109  
+or call 800-536-6020
 
 Privacy Policy Effective 02/08/2007.
