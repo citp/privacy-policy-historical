@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010449id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193152id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+|  |  |  |  |   
+---|---|---  
+| 
 
 ### Our Commitment To Privacy
 
@@ -28,6 +33,21 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 
 
+### 3rd Party Partners
+
+  * Google, as a third party vendor, uses cookies to serve ads on anvari.org.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+
+
 ### Your Choices
 
 You may, of course, decline to submit personally identifiable information, in which case Anvari.org may not be able to provide certain services to you. Please contact Anvari.org with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact](https://web.archive.org/contact/) form. 
+
+  
+|   
+|  |   
+  
+[](http://www.addthis.com/bookmark.php?v=250)
