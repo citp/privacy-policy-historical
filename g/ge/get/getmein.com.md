@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216022309id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmein.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052833id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
@@ -63,7 +63,7 @@ From time to time we may add or enhance services available on the site. To the e
 
 At any time, you can unsubscribe from our GET ME IN! newsletter or similar services through the provided link, accessible through the newsletter or by emailing [unsubscribe@getmein.com](mailto:unsubscribe@getmein.com).
 
-ly receive e-mail updates from us about ticket sales in your area, special offers, new services, and other noteworthy items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, please click on the "unsubscribe" link or follow the instructions in each e-mail message. GET ME IN! reserves the right to limit membership to those who will accept e-mails. Clients will be notified via e-mail prior to any actions taken.
+You only receive e-mail updates from us about ticket sales in your area, special offers, new services, and other noteworthy items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, please click on the "unsubscribe" link or follow the instructions in each e-mail message. GET ME IN! reserves the right to limit membership to those who will accept e-mails. Clients will be notified via e-mail prior to any actions taken.
 
 **What safeguards are in place to protect the loss, misuse or alteration of my personal information?**
 
