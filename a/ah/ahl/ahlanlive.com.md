@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054726id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070501id_/http%3A//www.ahlanlive.com/index.php%3Foption%3Dcom_advertise%26view%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Ahlan! Live - The Middle East's Glamour & Fashion Magazine, Celebrity News & Events
 
