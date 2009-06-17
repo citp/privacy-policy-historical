@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112428id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617220313id_/http%3A//www.frontlinesourcegroup.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
 # Staffing Agency-Privacy Policy Dallas Texas-Frontline Source Group
 
@@ -50,12 +50,12 @@ frontline source group may amend this policy from time to time. If we make any s
 
 **Contact information**
 
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Email [Company Contact](http://www.frontlinesourcegroup.com/contact_info.htm)
+
+Frontline Source Group™  
+Corporate Address: 311 N. Market Street, Suite 200, Dallas, TX 75202  
+Web Address [http://www.frontlinesourcegroup.com](http://www.frontlinesourcegroup.com/)
+
 [ ](http://www.frontlinesourcegroup.com/)  Click to Return to the home page
-
-[IT Technology Accounting Finance Staffing Agency Austin Dallas Fort Worth Houston Texas](http://www.frontlinesourcegroup.com/)
-
-**[Temporary Agency](http://www.frontlinesourcegroup.com/blog/blog.html) [Staffing Site Map](http://www.frontlinesourcegroup.com/sitemap.htm)**
-
-#### **[Staffing Temp Agencies](http://www.nounemployment.com/)** **Dallas** \- **Fort Worth** [**Texas**](http://www.staffingtexas.net/)
-
-**_[ The Dallas West End Historic District](http://www.dallaswestend.org/)_**
