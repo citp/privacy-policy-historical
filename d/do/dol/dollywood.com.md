@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032822id_/http%3A//www.dollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617184920id_/http%3A//www.dollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Dollywood
 
@@ -55,10 +55,10 @@ Most browsers are initially set up to accept cookies; however, you can reset you
 
 The Dollywood Company   
 Attn: Marketing  
-1020 Dollywood Lane  
+2700 Dollywood Parks Blvd.  
 Pigeon Forge, Tennessee, 37863
 
-We can be reached by telephone at 1-800-428-9488 or online through our [Guest Services form](https://www.dollywood.com/plan-your-visit/guest-services/Default.aspx).
+We can be reached by telephone at 1-865-428-9488 or online through our [Guest Services form](https://www.dollywood.com/plan-your-visit/guest-services/Default.aspx).
 
 **Privacy Policy Effective:** October 1, 2007  
 
