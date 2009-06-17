@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144044id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200546id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
-
-|  | My Favorites  
----  
-|  ·  | Visited Games: [Help](https://web.archive.org/backdoors/help.asp#lastvisited)   
-[Yahoo Pool](https://web.archive.org/yahoo/pool/)  
-[Pogo Pool](https://web.archive.org/pogo/pool/)  
-[Yahoo Backgammon](https://web.archive.org/yahoo/backgammon/)  
-[Yahoo Chess](https://web.archive.org/yahoo/chess/)  
-[Yahoo France](https://web.archive.org/yahoo/france/)  
----|---  
-Gaming Leagues  
-|  ·  | My Favorite League:   
----|---  
-  |  [Select it here...](https://web.archive.org/backdoors/league-favorite.asp?backurl=/backdoors/privacy.asp)  
- · | [Leagues List](https://web.archive.org/backdoors/leagues.asp)  
- · | [Add your League](https://web.archive.org/backdoors/league-affiliate.asp)  
- · | [ **Eliters.com**](http://www.eliters.com/)  
-Game Resources  
-|  · | [Game Jargon](https://web.archive.org/backdoors/jargon.asp)  
----|---  
-  
-Planning your holiday?  
-[ **Visit Cyprus  
-Island of Sun & Beauty**](http://www.cypruslinks.com/)
 
 | 
 
@@ -32,7 +8,7 @@ Island of Sun & Beauty**](http://www.cypruslinks.com/)
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20081217144044id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20090617200546id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
@@ -81,7 +57,16 @@ Backdoors.To only shares personal information with other companies or individual
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-However, these third parties may place and read cookies on your browser, or may use web beacons to collect information, in the course of displaying certain parts of Backdoors.To pages, such as advertisements served by the third party.
+However, these third parties may place and read cookies on your browser, or may use web beacons to collect information, in the course of displaying certain parts of Backdoors.To pages.
+
+We use third-party advertising companies to serve ads when you visit Backdoors.To. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this website and to other websites in order to provide advertisements about goods and services of interest to you.
+
+Google, as a third party advertising vendor, uses cookies to serve ads on our website. In this respect, please note the following:
+
+  * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our website users based on their visit to our website and other websites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 **Information security**
 
@@ -101,4 +86,23 @@ Backdoors.To regularly reviews its compliance with this Policy. Please feel free
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
 
-| 
+  
+| |  | My Favorites  
+---  
+|  ·  | Visited Games: [Help](https://web.archive.org/backdoors/help.asp#lastvisited)   
+[Yahoo Pool](https://web.archive.org/yahoo/pool/)  
+[Pogo Pool](https://web.archive.org/pogo/pool/)  
+[Yahoo Backgammon](https://web.archive.org/yahoo/backgammon/)  
+[Yahoo Chess](https://web.archive.org/yahoo/chess/)  
+[Yahoo France](https://web.archive.org/yahoo/france/)  
+---|---  
+Gaming Leagues  
+|  ·  |  Favorite League [[select](https://web.archive.org/backdoors/league-favorite.asp?backurl=/backdoors/privacy.asp)]  
+---|---  
+ · | [Leagues List](https://web.archive.org/backdoors/leagues.asp)  
+ · | [Submit your League](https://web.archive.org/backdoors/league-affiliate.asp)  
+ · | [Create a League](http://www.leaga.com/)  
+ · | [Eliters.com](http://www.eliters.com/)  
+Game Resources  
+|  · | [Game Jargon](https://web.archive.org/backdoors/jargon.asp)  
+---|---
