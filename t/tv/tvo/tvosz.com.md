@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvosz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051736id_/http%3A//www.tvosz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvosz.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171007id_/http%3A//www.tvosz.com/privacy.php) for the most accurate reproduction.*
 
 # Tvosz.com | A GREAT WEB EXPERIENCE
 
