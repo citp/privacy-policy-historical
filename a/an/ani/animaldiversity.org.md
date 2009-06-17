@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaldiversity.org privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224001204id_/http%3A//animaldiversity.ummz.umich.edu/site/about/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaldiversity.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617043431id_/http%3A//animaldiversity.ummz.umich.edu/site/about/privacyPolicy.html) for the most accurate reproduction.*
 
 # ADW: Privacy Policy
 
@@ -28,4 +28,4 @@ We maintain an archive of all questions submitted to us. We intend to analyze th
 
 We never share your personal information with any other party.
 
-Our feedback system is in compliance with the [Children's Online Privacy Protection Act of 1999](http://animaldiversity.ummz.umich.edu/local/redirect.php/http://www.ftc.gov/privacy/privacyinitiatives/childrens.html). We respond to the feedback question and then delete personal information from the stored record. In other words, we save the question and answer but delete any personally identifying information (name, email address, and age.)
+Our feedback system is in compliance with the [Children's Online Privacy Protection Act of 1999](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html). We respond to the feedback question and then delete personal information from the stored record. In other words, we save the question and answer but delete any personally identifying information (name, email address, and age.)
