@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020315id_/http%3A//www.indian-magic.com/privacy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064913id_/http%3A//www.indian-magic.com/privacy1.htm) for the most accurate reproduction.*
 
 # IndianMagic - Privacy Statement
 
@@ -27,4 +27,4 @@ This site contains links to other sites. **IndianMagic** is not responsible for 
 
 ### Advertisements at IndianMagic
 
-IndianMagic works with third parties, that serve ads to this site. Their individual privacy statement can be seen at their respective sites. IndianMagic has no control over data collected by these sites. 
+IndianMagic works with third parties, that serve ads to this site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. Their individual privacy statement can be seen at their respective sites. IndianMagic has no control over data collected by these sites. 
