@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maemo.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611074932id_/http%3A//maemo.org/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maemo.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042916id_/http%3A//maemo.org/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # maemo.org - Privacy Policy: Privacy Policy of maemo.org
 
