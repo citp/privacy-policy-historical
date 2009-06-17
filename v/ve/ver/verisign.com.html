@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verisign.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221105556id_/https%3A//www.verisign.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verisign.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617165053id_/https%3A//www.verisign.com/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -36,7 +36,7 @@
 	addthis_offset_top      = 5;
 	addthis_offset_left     = -146;
 	addthis_brand           = 'VeriSign';
-	addthis_options         = 'digg, myweb, delicious, newsvine, stumbleupon, myspace, furl, facebook, technorati, google, live, more';
+	addthis_options         = 'digg, twitter, delicious, newsvine, stumbleupon, myspace, buzz, facebook, technorati, google, live, more';
 </script>
 
 <script type="text/javascript">
@@ -80,6 +80,7 @@ text-decoration:none;
 #header .headlinks a:hover, #header .headlinks a:active {
 text-decoration:underline;
 }
+#contactus ul li p{padding-left:0px;}
 </style>
 <div id="header">
 <a href="/index.html">
@@ -89,11 +90,15 @@ text-decoration:underline;
 		<a href="/index.html">US Home</a> | <a href="/verisign-worldwide/index.html"><img src="/h07/i/globe.gif" alt="Worldwide Sites">&nbsp;Worldwide Sites</a> | <a href="/contact-information/index.html">Contact Us</a> | 
 <a href="/site-map/index.html">Site Map</a>
 	</div>
-	<form id="search" method="get" accept-charset="iso-8859-1" action="http://search.verisign.com/query.html">
-	<fieldset>
-		<input id="searchtext" name="qt" type="text">
-		<input type="image" id="searchbutton" alt="Search VeriSign" src="//www.verisign.com/stellent/groups/public/documents/image/www_header_searchgo.gif">
+	<form id="search" method="GET" action="//query.verisign.com/search">
+		<fieldset>
+			<input type="text" name="q" id="searchtext" maxlength="256" value="">
+			<input type="image" id="searchbutton" name="btnG" alt="Search VeriSign" src="//www.verisign.com/stellent/groups/public/documents/image/www_header_searchgo.gif">
 		</fieldset>
+			<input type="hidden" name="site" value="vrsn">
+			<input type="hidden" name="client" value="vrsn_frontend">
+			<input type="hidden" name="output" value="xml_no_dtd">
+			<input type="hidden" name="proxystylesheet" value="vrsn_frontend"> 
 	</form>
 	<div id="nav">
 		<img id="le" src="//www.verisign.com/h07/i/lend.gif" alt="">
@@ -252,11 +257,12 @@ Digital IDs, keys, and related subjects, click here <a href="//www.verisign.com/
   VeriSign may also disclose EU Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected customers in  accordance with the procedure for changing this Privacy Statement as   noted above. In situations where VeriSign discloses EU Personal Data   to any third parties acting as "agents"on behalf of VeriSign, VeriSign   will require the recipient to protect the data in accordance with the relevant principles in the EU Safe Harbor, or otherwise take steps to ensure that the EU Personal Data is appropriately protected.&nbsp; VeriSign may also disclose EU Personal Data where required or permitted by law, where VeriSign believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by the EU Safe   Harbor, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply VeriSign's agreements.</p>
   <p><span style=" font-weight: bold;">Questions</span><br>
   If you have any questions about this EU Safe   Harbor Privacy Statement, or if you would like to request access to EU Personal Data that VeriSign may maintain about you, please contact us as follows:</p>
-  <p style=" margin-top: 12pt;">Rebecca Matthias&nbsp;<br>
-  Director, Legal&nbsp;<br>
+  <p style=" margin-top: 12pt;">Daniel Blaettler&nbsp;<br>
+  Vice President and Associate General Counsel, Legal Department &nbsp;<br>
   VeriSign, Inc.&nbsp;<br>
-  487 East Middlefield Road&nbsp;<br>
-  Mountain View, California 94043&nbsp;<br>
+  8, Chemin de Blandonnet&nbsp;<br>
+  Vernier-Geneva CH-1214&nbsp;<br>
+  Switzerland&nbsp;<br>
   Email:&nbsp; <a href="mailto:EUsafeharbor@verisign.com"> EUsafeharbor@verisign.com</a>&nbsp;<br>
   Telephone:&nbsp; 1-650-426-5555 (specify Safe Harbor)</p>
   <p style="margin-bottom:0px;">Any questions regarding VeriSign's EU Safe Harbor Participation should first be directed to the VeriSign contact above. If you do not receive acknowledgment of your inquiry or your   inquiry has not been satisfactorily addressed, you may then contact <a target="_blank" href="//www.truste.org/consumers/watchdog_complaint.php"> TRUSTe</a>   for further information.
@@ -280,13 +286,7 @@ Digital IDs, keys, and related subjects, click here <a href="//www.verisign.com/
 			</div>
 			<br clear="both">
 			<div class="printFriendly">
-				<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-295855-1";
-urchinTracker();
-</script>
-
+				
 	<div id="footer">
 		<img src="/stellent/groups/public/documents/image/dev041496.gif" id="fle">
 		<div class="footerbar">
@@ -299,7 +299,16 @@ urchinTracker();
 	linkPop();
 </script>	
 
-<script type="text/javascript" src="https://secure.addthis.com/js/152/addthis_widget.js"></script>
+<script language="JavaScript1.2">
+if (document.location.protocol) {
+	if (document.location.protocol == "https:") {
+		document.write('<scr'+'ipt type="text/javascript" src="https://secure.addthis.com/js/200/addthis_widget.js"></scr'+'ipt>');
+	}
+	else {
+		document.write('<scr'+'ipt type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></scr'+'ipt>');
+	}
+}
+</script><script type="text/javascript" src="https://secure.addthis.com/js/200/addthis_widget.js"></script>
 
 <!-- FORESEE SURVEY -->
 <script type="text/javascript" src="//www.verisign.com/foresee/foresee-trigger.js"></script>
