@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2007-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070108231810id_/http%3A//www.miamiandbeaches.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063759id_/http%3A//www.miamiandbeaches.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# Greater Miami Convention & Visitors Bureau
+# 
 
   
 I. Policy Statement Overview
