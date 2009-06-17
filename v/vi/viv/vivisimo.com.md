@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100404id_/http%3A//vivisimo.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035651id_/http%3A//vivisimo.com/contact/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vivisimo, Inc.
-
-Privacy Policy
 
 At Vivisimo, Inc. (" **Vivisimo** "), we recognize that privacy is important. The Vivisimo Privacy Policy (" **Policy** ") document outlines information collection and use practices for Vivisimo's web search services offered on Clusty.com and Vivisimo.com which are owned and operated by Vivisimo (" **Vivisimo Web Search Services** ").
 
@@ -38,8 +36,8 @@ Vivisimo constantly strives to provide the best service. As new products and cha
 
 ### Questions
 
-If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20081217100404id_/http%3A//vivisimo.com/contact/contact).
+If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20090617035651id_/http%3A//vivisimo.com/contact/contact).
 
 ### Copyright and Trademark
 
-All contents of this Web site are: Copyright © Vivisimo, Inc. All rights reserved. The Vivisimo and Clusty marks that appear throughout the Vivisimo Web Search Services belong to Vivisimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivisimo marks, please [contact us](https://web.archive.org/web/20081217100404id_/http%3A//vivisimo.com/contact/contact).
+All contents of this Web site are: Copyright © Vivisimo, Inc. All rights reserved. The Vivisimo and Clusty marks that appear throughout the Vivisimo Web Search Services belong to Vivisimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivisimo marks, please [contact us](https://web.archive.org/web/20090617035651id_/http%3A//vivisimo.com/contact/contact).
