@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityserver.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072124id_/http%3A//communityserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityserver.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193131id_/http%3A//communityserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement : Community Server
 
