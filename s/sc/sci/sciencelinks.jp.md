@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencelinks.jp privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160240id_/http%3A//sciencelinks.jp/forms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencelinks.jp privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617183152id_/http%3A//sciencelinks.jp/forms/privacypolicy.html) for the most accurate reproduction.*
 
 # Science Links Japan (Gateway to Japanese Sci-Tech Info) - Privacy and Security Policy
 
