@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanart-central.net privacy policy that was archived on 2008-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080304112201id_/http%3A//www.fanart-central.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanart-central.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051509id_/http%3A//www.fanart-central.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
