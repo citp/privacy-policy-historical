@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610173419id_/http%3A//www.vldpersonals.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071852id_/http%3A//www.vldpersonals.com/legal/privacy) for the most accurate reproduction.*
 
-# vldPersonals - Online Dating Software - Legal - Privacy policy
+# Legal - Privacy policy - vldPersonals
 
 This Privacy Policy governs the manner in which VLD Interactive collects, uses, maintains and discloses information collected from users of the www.vldpersonals.com Web Site (a "User").
 
