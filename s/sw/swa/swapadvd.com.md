@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527223219id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617201556id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # SwapaDVD :: Privacy Policy
 
@@ -7,11 +7,14 @@ This page describes how **SwapaDVD** handles information that we learn about con
 **Information Sharing and Disclosure**   
 **SwapaDVD** does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  1. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  1. We respond to subpoenas, court orders, or legal process, requests by law enforcement, or to establish or exercise our legal rights or defend against legal claims;
   2. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SwapaDVD's Terms of Use, or as otherwise required by law.
   3. We may transfer information about you if SwapaDVD is acquired by or merged with another company.
 
 
+
+**Posted Communications**   
+We may make available to users of the Site, message boards, opinion forums, bulletin board services or other interactive communication facilities. Posted communications are publicly viewable and searchable through Google or other search engines. We cannot review all communications made on or through the Site. **SwapaDVD** reserves the right use posted materials for its own purposes for marketing, communication, advertising, or any other purpose at the sole discretion of **SwapaDVD**.
 
 **If you visit our Web sites to browse, read, or download information:**   
 We may collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use; your operating system and other information about the computer and programs that you use to access our site; the date and time you access our sites; the pages within our site that you visit; and the Internet address of the site from which you linked directly to our sites. 
