@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082733id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617041057id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of Mukamo Philippines.
 
-We can be reached via e-mail at dioxins { at } gmail [dot] com
+We can be reached via e-mail at admin@mukamo.com
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor’s IP address.
 
@@ -16,6 +16,8 @@ With respect to cookies: We use cookies to store visitors preferences, record pa
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/support/adsense/bin/answer.py?answer=94149). 
 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
@@ -23,15 +25,15 @@ From time to time, we may use customer information for new, unanticipated uses n
 **Related Entries:**
 
 [Yahoo! steps up anti-phishing Campaign](http://www.mukamo.com/yahoo-steps-up-anti-phishing-campaign/ "Permanent Link: Yahoo! steps up anti-phishing Campaign")  
-[Metrobank’s Official Anti-Phishing Guide](http://www.mukamo.com/metrobanks-official-anti-phishing-guide/ "Permanent Link: Metrobank’s Official Anti-Phishing Guide")  
-[Metrobank Warns Clients of Phishing Attack](http://www.mukamo.com/metrobank-warns-clients-of-phishing/ "Permanent Link: Metrobank Warns Clients of Phishing Attack")  
-[Stormpay: Paypal Alternative](http://www.mukamo.com/stormpay-paypal-alternative/ "Permanent Link: Stormpay: Paypal Alternative")  
 [SSS Online Inquiry System is always down](http://www.mukamo.com/sss-online-inquiry-system-is-always-down/ "Permanent Link: SSS Online Inquiry System is always down")  
-[US Visa Application](http://www.mukamo.com/us-visa-application/ "Permanent Link: US Visa Application")  
-[Andi Manzano cries foul over mail-order bride web site](http://www.mukamo.com/andi-manzano-cries-foul-over-mail-order-bride-web-site/ "Permanent Link: Andi Manzano cries foul over mail-order bride web site")  
+[Stormpay: Paypal Alternative](http://www.mukamo.com/stormpay-paypal-alternative/ "Permanent Link: Stormpay: Paypal Alternative")  
+[Sony PS3 Update 1.93 and PSP Update 3.71](http://www.mukamo.com/sony-ps3-update-193-and-psp-update-371/ "Permanent Link: Sony PS3 Update 1.93 and PSP Update 3.71")  
 [US Gov’t launches Web site for new immigrants](http://www.mukamo.com/us-govt-launches-web-site-for-new-immigrants/ "Permanent Link: US Gov’t launches Web site for new immigrants")  
-[Swedish Embassy in Manila set to close](http://www.mukamo.com/swedish-embassy-in-manila-set-to-close/ "Permanent Link: Swedish Embassy in Manila set to close")  
-[Gmail enables IMAP](http://www.mukamo.com/gmail-enables-imap/ "Permanent Link: Gmail enables IMAP")
+[MSN dot PH Launches Yello](http://www.mukamo.com/msn-dot-ph-launches-yello/ "Permanent Link: MSN dot PH Launches Yello")  
+[Metrobank Warns Clients of Phishing Attack](http://www.mukamo.com/metrobank-warns-clients-of-phishing/ "Permanent Link: Metrobank Warns Clients of Phishing Attack")  
+[Western Union Philippines enforces “One ID Policy”](http://www.mukamo.com/western-union-philippines-enforces-one-id-policy/ "Permanent Link: Western Union Philippines enforces “One ID Policy”")  
+[MyDeathSpace.com - Are you Dead?](http://www.mukamo.com/mydeathspacecom-are-you-dead/ "Permanent Link: MyDeathSpace.com - Are you Dead?")  
+[ThePinoyTUBE: Pinoy Adult Version of YouTube](http://www.mukamo.com/thepinoytube-pinoy-adult-version-of-youtube/ "Permanent Link: ThePinoyTUBE: Pinoy Adult Version of YouTube")
 
   
 
