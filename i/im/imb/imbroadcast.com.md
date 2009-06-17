@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imbroadcast.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217193123id_/http%3A//www.imbroadcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbroadcast.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194946id_/http%3A//www.imbroadcast.com/privacy) for the most accurate reproduction.*
 
-# IM Broadcast : Internet Marketing Videos
+# Internet Marketing Videos | Online Marketing Videos - IMBroadcast.com
 
 IMBroadcast.com, in the operation of our web site, does collect information about you during registration. These terms explain what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
@@ -56,4 +56,4 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 Questions about this policy should be emailed to info@imbroadcast.com. 
 
-Copyright (c) 2008-2009 IM Broadcast : Internet Marketing Videos. All rights reserved. 
+Copyright (c) 2008-2009 Internet Marketing Videos | Online Marketing Videos - IMBroadcast.com. All rights reserved. 
