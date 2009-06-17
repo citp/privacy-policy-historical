@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the roberthalftechnology.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313190447id_/http%3A//www.roberthalftechnology.com/PrivacyPolicy%3FinTrack%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalftechnology.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193931id_/http%3A//www.roberthalftechnology.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Robert Half Technology - Privacy Policy
 
+Robert Half Technology Website Privacy Policy  
+---  
+  
 Welcome to **www.roberthalftechnology.com** (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
 **Collections and Uses of Personal Information**  
@@ -10,16 +13,18 @@ When you use or register with the Site, we may ask for certain Personal Informat
 We use Personal Information and other data collected through the Site to register you with the Site, to provide you with information regarding employment opportunities and career-related information, and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services, including employment information. You may opt out of receiving such marketing email messages by sending a message to the email address below.
 
 **Disclosures of Personal Information**  
-As described in Section 4 of the [Terms of Use](http://www.roberthalftechnology.com/PrivacyStatement?inTrack=termsOfUse), RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
-  1. We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
-  2. We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
-  3. We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
+
+As described in Section 4 of the Terms of Use, RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+
+  * We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
+  * We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
+  * We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
 
 
 
 **Revisions to the Policy**  
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at **www.roberthalftechnology.com** with a link back to this page. 
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at **www.roberthalftechnology.com** with a link back to this page.
 
 This Policy is effective as of July 1, 2004. If you have any questions about our website privacy policies, please contact us at:
 
@@ -31,5 +36,3 @@ Menlo Park, California 94025
 
 **Email Address**  
 [webmaster@roberthalftechnology.com](mailto:webmaster@roberthalftechnology.com)
-
-© 2006 Robert Half International Inc. All rights reserved. Equal Opportunity Employer.
