@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164710id_/http%3A//whitney.org/www/information/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitney.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617210334id_/http%3A//whitney.org/www/information/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Whitney Museum of American Art
 
@@ -40,7 +40,7 @@ If you are concerned about the use of cookies, the Museum suggests that you expl
 Any personal information provided to the Museum is maintained and accessible only by the Museum unless the Museum explicitly states otherwise . 
 
 **Marketing and Promotion**  
-If you give us permission, we may use any Personal Data you submit for Museum marketing and promotional purposes. For example, on occasion the Museum sends email to inform users of new exhibitions or other events we think might be of interest to them. You will not receive such communications unless you have knowingly provided the personal information required. In some cases, you will be required to opt-in by joining a newsgroup or mailing list. If you do opt-in, you will always have the option to opt-out at any time by unsubscribing to that particular list or following the opt-out instructions included within the body of the email message.
+If you give us permission, we may use any Personal Data you submit for Museum marketing and promotional purposes. For example, on occasion the Museum sends email to inform users of new exhibitions or other events we think might be of interest to them. If you provide us with your e-mail address, this will be deemed permission for us to e-mail you information about our exhibition, events and other programs and activities, as well as for any marketing or promotional purposes.  However, you may withdraw this permission using our opt-out procedure. You will not receive such communications unless you have knowingly provided the personal information required. In some cases, you will be required to opt-in by joining a newsgroup or mailing list. If you do opt-in, you will always have the option to opt-out at any time by unsubscribing to that particular list or following the opt-out instructions included within the body of the email message.
 
 **Membership**  
 If you sign up for a membership online, your Personal Data will be entered into the Museum’s membership database.  As a Museum member, the Museum may share your Personal Data with other reputable organizations, such as other nonprofits, art institutions, and companies.  If you do not wish to receive information from other organizations, please call the membership department at (212) 570-3641 
