@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080403id_/http%3A//designersimports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172713id_/http%3A//www.designersimports.com/privacy.asp) for the most accurate reproduction.*
 
 # Designer Handbags, Wallets, Clothes and Designer Scarves Source - Shop Burberry Fendi, Prada, Chloe Handbags, and shoes at discounted prices - www.designersimports.com
 
