@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100748id_/http%3A//www.komplett.ie/k/k.aspx%3Faction%3Dcustserv%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komplett.ie privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191142id_/http%3A//www.komplett.ie/k/k.aspx%3Faction%3Dcustserv%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # Komplett.ie
 
 [](https://web.archive.org/k/k.asp?action=custserv)  
-**About us** | [Shopping](https://web.archive.org/k/k.asp?action=custserv&topic=howto) | [Payment](https://web.archive.org/k/k.asp?action=custserv&topic=payment) | [Delivery](https://web.archive.org/k/k.asp?action=custserv&topic=shipping) | [Support & returns](https://web.archive.org/k/k.asp?action=custserv&topic=rma) | [What do we offer?](https://web.archive.org/k/k.asp?action=custserv&topic=offer)
+**About us** | [Shopping](https://web.archive.org/k/k.asp?action=custserv&topic=howto) | [Payment](https://web.archive.org/k/k.asp?action=custserv&topic=payment) | [Delivery](https://web.archive.org/k/k.asp?action=custserv&topic=shipping) | [Support & returns](https://web.archive.org/k/k.asp?action=custserv&topic=rma) | [What do we offer?](https://web.archive.org/k/k.asp?action=custserv&topic=offer) | [Komplett Business](https://web.archive.org/k/k.asp?action=custserv&topic=business) | 
 
 * * *
 
