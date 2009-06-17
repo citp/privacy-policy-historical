@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050532id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Ccs%257Cfaq_privacy%2Chtml/left.html.file.%257Ccs%257Cfaq_nav%2Chtml/%23privacy2%3Frewrite%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172252id_/http%3A//www.qvc.com/qic/qvcapp.aspx/main.html.file.%257Ccs%257Cfaq_privacy%2Chtml/left.html.file.%257Ccs%257Cfaq_nav%2Chtml/%23privacy2%3Frewrite%3Dno) for the most accurate reproduction.*
 
 # The QVC Privacy Statement
 
