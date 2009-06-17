@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616002304id_/http%3A//www.japancentre.com%3Fcmd%3Dhlp%26page%3Dpri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175030id_/http%3A//www.japancentre.com%3Fcmd%3Dhlp%26page%3Dpri) for the most accurate reproduction.*
 
 # Japanese food | Japan Centre: Privacy information
 
