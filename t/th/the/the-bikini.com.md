@@ -1,21 +1,7 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004339id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175333id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Extreme bikinis for sexy women. The- bikini .com Micro bikinis
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
 
@@ -24,13 +10,35 @@ Intimate Shaver
 
 The ultimate pubic area shaving tool!  
   
-[ ](http://www.personalshavers-affiliates.com/b.asp?id=1005&img=hk.gif&p=bodybare)  
 
 
-The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005) will shave your pubic area closer, easier and most importantly safer than anything else on the market...period! .
+The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "get a perfect shave now") will shave your pubic area closer, easier and most importantly safer than anything else on the market...period! .
 
 It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOMEN or MEN'S razor in the world!   
-[ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005)
+[ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "perfect intimate shave")
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+Our Group at
+
+[ ](http://www.facebook.com/group.php?gid=49149592191#)  
+
 
   
 
@@ -42,15 +50,7 @@ If you have a website, you can sell our bikinis. Sign up on our affiliate sales 
 [Log In!](http://www.the-bikini.com/cmd.php?cmd=login)
 
   
-
-
-Paypal
-
 |   
----  
-  
-  
-  
 
 
 P R I V A C Y   S T A T E M E N T
@@ -108,4 +108,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20081218004339id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20090617175333id_/http%3A//www.the-bikini.com/contact/). 
