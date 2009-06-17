@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135248id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progarchives.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172935id_/http%3A//www.progarchives.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Progarchives.com Privacy Policy
 
@@ -33,7 +33,19 @@ The use of cookies is standard on the Internet, and you will find they are curre
 
 “Clear GIFs” are very small image files that we sometimes place on Web pages and within Web-based email newsletters or other communication we send. Together with cookies, Clear GIFs let us accurately count the number of unique users who have visited specific pages and the number of times those pages are accessed. Clear GIFs also let us know how many people opened a Web-based email newsletter. This information is only collected in aggregate form, and Progarchives.com does not link this information to any personally identifiable information you provide us. 
 
-**Third party advertiser cookies** We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and Clear GIFs to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our sites and other Web sites. This information can include: date and time of ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes. Progarchives.com does not use or have access to this information. 
+**Third party advertiser cookies** We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and Clear GIFs to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our sites and other Web sites. This information can include: date and time of ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes. 
+
+Progarchives.com also use the DoubleClick DART cookie: The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+
+So by accepting this site policy you also accept that: 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
+
+Progarchives.com does not use or have access to this information. 
 
 In order to make Progarchives.com a more valuable site for our Registered Members and visitors, Progarchives.com also collects and analyze statistical information. From time to time, we will share this information in aggregate with third parties. This data is reported only in aggregate and reveals no personal details about individual visitors to our site. 
 
@@ -70,8 +82,8 @@ Progarchives.com will occasionally update this Privacy Policy in response to cha
 
 _**CONTACT US**_
 
-Progarchives.com welcomes your questions and comments regarding our privacy and security practices. You can reach by visiting the Contact Us page, or by mail:Progarchives.com  
+Progarchives.com welcomes your questions and comments regarding our privacy and security practices. You can reach by visiting the Contact Us page, or by mail: _Progarchives.com  
 460, 29e rue  
 Ville de Saint-Georges  
 Québec, Canada  
-G5Y 4H6
+G5Y 4H6_
