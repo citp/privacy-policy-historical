@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110703id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192657id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -24,13 +24,13 @@ LCCC is committed to this Act in its entirety. [Procedural guidelines are availa
 **Disclosure of education records  
 ** LCCC will disclose information from a student’s educational records only with the written consent of the student, except:
 
-  * To school officials who have a legitimate educational interest in the records
-  * To certain officials of the U.S. Department of Education, the comptroller general, and state and local educational authorities, in connection with certain state or federally supported education programs
-  * In connection with a student’s request for or receipt of financial aid, as necessary to determine the eligibility, amount or conditions of the financial aid, or to enforce the terms and conditions of the aid
-  * If required by a state law requiring disclosure that was adopted before November 19, 1974
-  * To organizations conducting certain studies for or on behalf of the College
-  * To accrediting organizations to carry out their functions
-  * To comply with a judicial order or a lawfully issued subpoena
+  * To school officials who have a legitimate educational interest in the records 
+  * To certain officials of the U.S. Department of Education, the comptroller general, and state and local educational authorities, in connection with certain state or federally supported education programs 
+  * In connection with a student’s request for or receipt of financial aid, as necessary to determine the eligibility, amount or conditions of the financial aid, or to enforce the terms and conditions of the aid 
+  * If required by a state law requiring disclosure that was adopted before November 19, 1974 
+  * To organizations conducting certain studies for or on behalf of the College 
+  * To accrediting organizations to carry out their functions 
+  * To comply with a judicial order or a lawfully issued subpoena 
   * To appropriate parties in a health or safety emergency
 
 
