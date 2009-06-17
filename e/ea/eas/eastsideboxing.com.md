@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021951id_/http%3A//www.eastsideboxing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171810id_/http%3A//www.eastsideboxing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,36 +9,29 @@ Your privacy on the Internet is of the utmost importance to us. At East Side Box
 
 **INFORMATION EAST SIDE BOXING GATHERS AND TRACKS  
 **  
-East Side Boxing.com gathers two types of information about users:  
-
+East Side Boxing.com gathers two types of information about users:
 
 · Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
 
-· Information EastSide Boxing.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because East Side Boxing.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does East Side Boxing.com divulge any information about an individual user to a third party.  
+· Information EastSide Boxing.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because East Side Boxing.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does East Side Boxing.com divulge any information about an individual user to a third party.
 
-
-East Side Boxing.com Gathers User Information In The Following Processes:  
-
+East Side Boxing.com Gathers User Information In The Following Processes:
 
 **Optional Voluntary Information**
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
 1\. Electronic newsletters (Dispatches)  
-We will offer a free electronic newsletter to users. East Side Boxing.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.  
-
+We will offer a free electronic newsletter to users. East Side Boxing.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
 
 2\. Message boards/forums  
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.  
-
+Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
 3\. "E-mail this to a friend" Service  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.  
-
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 4\. Polling  
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. East Side Boxing.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.  
-
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. East Side Boxing.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
 5\. Surveys  
 East Side Boxing.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.  
@@ -55,7 +48,16 @@ East Side Boxing.com sometimes tracks and catalogs the search terms that users e
 
 **Cookies**
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. East Side Boxing.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+\- Google:
+
+  * Google, as a third party vendor, uses cookies to serve ads on eastsideboxing.com. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to eastsideboxing.com and other sites on the Internet. 
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+
+
+  
+\- We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. East Side Boxing.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.  
 
