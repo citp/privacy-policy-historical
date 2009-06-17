@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171716id_/http%3A//www.propertyworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060523id_/http%3A//propertyworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyWorld.com
 
@@ -16,6 +16,10 @@ When you register with PropertyWorld either as a user or a contributor the infor
 **General Information**
 
 The information with which users or contributors provide us, such as which areas are visited most frequently and which services users or contributors access the most is used in analysing the needs of Site visitors in general. This information helps us determine what is most beneficial for our users or contributors and how we can continue to create a better overall user experience. We may share this information with our partners so that they too may understand how PropertyWorld users and contributors use our site.
+
+**Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Personal Information**
 
@@ -46,12 +50,12 @@ Excepting the aforementioned provisions PropertyWorld will not disclose informat
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website you can contact us by e-mail via the feedback section on our site, or at the following address:
 
 PropertyWorld.com Ltd  
-P.O. Box 412a  
+P.O. Box 412  
 Surbiton  
 Surrey  
-KT5 8ZD  
+KT6 7WZ  
 England
 
-Customer Service +44(0)20 8339 9223 (between 9.00 AM and 5.30 PM GMT) [enquiries@propertyworld.com](mailto:enquiries@propertyworld.com)
+Customer Service +44(0)1372 27 60 45 (between 9.00 AM and 5.30 PM GMT) [enquiries@propertyworld.com](mailto:enquiries@propertyworld.com)
 
 Thank you for using PropertyWorld. 
