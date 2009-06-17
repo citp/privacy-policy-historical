@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142620id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617031700id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
@@ -47,7 +47,7 @@ Our site provides links to other Web sites where you can find out more about our
 
 ### Children online
 
-Protecting the privacy of the very young is especially important. For that reason, we adhere to the Federal Trade Commission’s 1998 [Children’s Online Privacy Protection Act ](http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.shtm)(COPPA). Whenever we collect or maintain information at our Web site from those we actually know are under 13, we obtain parental consent before any personally identifiable information is collected, used or disclosed. We also follow strict rules when sending email; and we provide parents reasonable access to information collected from their children, and the ability to correct or remove that information.
+Protecting the privacy of the very young is especially important. For that reason, we adhere to the Federal Trade Commission’s 1998 [Children’s Online Privacy Protection Act ](http://www.onguardonline.gov/topics/kids-privacy.aspx)(COPPA). Whenever we collect or maintain information at our Web site from those we actually know are under 13, we obtain parental consent before any personally identifiable information is collected, used or disclosed. We also follow strict rules when sending email; and we provide parents reasonable access to information collected from their children, and the ability to correct or remove that information.
 
 ### Security
 
