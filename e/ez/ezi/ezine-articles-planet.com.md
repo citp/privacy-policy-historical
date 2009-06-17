@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezine-articles-planet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092254id_/http%3A//www.ezine-articles-planet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezine-articles-planet.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192617id_/http%3A//www.ezine-articles-planet.com/privacy.php) for the most accurate reproduction.*
 
 # ezine-articles-planet.com
 
