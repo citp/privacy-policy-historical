@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152926id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193419id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MHVillage.com - Privacy Policy
 
@@ -27,7 +27,7 @@ We provide the information to trusted partners who work on behalf of or with MHV
 
 We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MHVillage.com's terms of use, or as otherwise required by law. 
 
-We transfer information about you if MHVillage.com is acquired by or merged with another company. In this event, MHVillage.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+We transfer information about you if MHVillage.com is acquired by or merged with another company.
 
 MHVillage.com may display targeted advertisements based on personal information. MHVillage.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. MHVillage.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
