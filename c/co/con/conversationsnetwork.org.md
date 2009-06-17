@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172400id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070102id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Conversations Network
 
@@ -14,7 +14,9 @@ In the process of delivering web pages and email, The Conversations Network reco
 
 ### Cookies
 
-A cookie is a small amount of data, optionally stored on a visitor's hard drive, containing information that is placed there by a website. This information is often used to identify successive visits by the same web browser to the same site, or to remember information between sessions on the website. The Conversations Network uses two types of cookies: First, if you check the Remember Me box on the Register or Login pages we will save an encrypted version of your login information as a cookie on your computer. This will allow you or anyone using your computer to bypass the login process on subsequent visits. Second, we will use a temporary cookie (one that will disappear as soon as you close your browser) to make our site easier to use by remembering your preferences from one page to another. Some of our advertisers also use cookies and may track your usage patterns in ways beyond our control.
+A cookie is a small amount of data, optionally stored on a visitor's hard drive, containing information that is placed there by a website. This information is often used to identify successive visits by the same web browser to the same site, or to remember information between sessions on the website. The Conversations Network uses two types of cookies: First, if you check the Remember Me box on the Register or Login pages we will save an encrypted version of your login information as a cookie on your computer. This will allow you or anyone using your computer to bypass the login process on subsequent visits. Second, we will use a temporary cookie (one that will disappear as soon as you close your browser) to make our site easier to use by remembering your preferences from one page to another.
+
+Some of our advertisers also use cookies and may track your usage patterns in ways beyond our control. For example, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. One such cookie is the [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx) from Google. You can opt-out from the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ### Log Files
 
