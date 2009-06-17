@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashiontrendsetter.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064215id_/http%3A//www.fashiontrendsetter.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiontrendsetter.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063436id_/http%3A//www.fashiontrendsetter.com/content/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | 2008 | Fashion Trendsetter
+# Privacy Policy | Fashion Trendsetter
 
 #### Fashion Trendsetter respects the privacy of our readers. Since we request personal information for some of our online features, this policy summarizes the types of information we will collect and how it will be used. 
 
@@ -17,4 +17,4 @@ Fashion Trendsetter may provide links or ads to other websites. We do not endors
 
 Fashion Trendsetter reserves the right to modify this policy at any time. Thank you for your cooperation.
 
-This privacy policy was put in effect on October 14, 2008.
+This privacy policy was put in effect on April 8, 2009.
