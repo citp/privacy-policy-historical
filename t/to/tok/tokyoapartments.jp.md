@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoapartments.jp privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217210032id_/http%3A//www.tokyoapartments.jp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoapartments.jp privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617043715id_/http%3A//www.tokyoapartments.jp/privacy_policy.html) for the most accurate reproduction.*
 
 # Tokyo Apartments | Privacy Policy
 
@@ -43,4 +43,4 @@ to protect ourselves and our customers.
 We strive to comply with all applicable laws and regulations, including the Personal Information   
 Protection Law of Japan. 
 
-Enplus Inc. March 2008
+Enplus Inc. January 2009 
