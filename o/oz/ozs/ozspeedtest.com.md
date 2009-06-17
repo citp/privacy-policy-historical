@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060941id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozspeedtest.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042817id_/http%3A//www.ozspeedtest.com/privacy) for the most accurate reproduction.*
 
-# Oz Broadband Speed Test - Privacy Policy
+# Privacy Policy - Oz Broadband Speed Test
 
-## 11th February 2008
+### 11th February 2008
 
 We understand that your privacy is important. As a result we feel it is in our best interests to be forward with users about what information we collect about you, and what we do with this information. We hope this makes you more comfortable in using our site.
 
-## Personal Information
+### Personal Information
 
   * We only collect personal information when you register at our site.
   * We only use cookies to store your personal preferences.
@@ -14,7 +14,7 @@ We understand that your privacy is important. As a result we feel it is in our b
 
 
 
-## Information Use
+### Information Use
 
   * We may use personal your information to improve the content on our site.
   * We use your personal information to customise the content and/or layout of each page.
@@ -23,10 +23,15 @@ We understand that your privacy is important. As a result we feel it is in our b
 
 
 
-## Site Ads
+### Site Ads
 
 We try and bring you advertisements that are of interest to you. We have a relationship with [Google](http://www.google.com/) that allows us to place ads on our site. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information. For further information please consult Google's [privacy policy](http://www.google.com/privacy.html).
 
-## Further Information
+### Further Information
 
 For further information, or if you feel that we are not following our privacy policy, please feel free to [contact us](https://web.archive.org/contact/) at any time.
+
+## Site Stats
+
+**Total Users:** 5,095  
+**Tests Run:** 8,187,418 
