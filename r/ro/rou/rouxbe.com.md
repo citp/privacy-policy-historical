@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rouxbe.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064321id_/http%3A//rouxbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rouxbe.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061559id_/http%3A//rouxbe.com/privacy) for the most accurate reproduction.*
 
 # Rouxbe — The Recipe to Better Cooking
 
@@ -106,14 +106,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@rouxbe.com](mailto:privacy@rouxbe.com), or you may contact us at:
-
-Privacy Policy Coordinator:   
-Rouxbe.com  
-269 East 45th Avenue  
-Vancouver, BC  
-Canada V5W 1X2  
-(604) 677-6000
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@rouxbe.com](mailto:privacy@rouxbe.com).
 
 #### Log Files
 
@@ -153,7 +146,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Site, you can send email us at privacy@rouxbe.com.
+If you have any questions about security on our Site, you can email us at privacy@rouxbe.com.
 
 #### Business Transitions
 
@@ -169,13 +162,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Privacy Policy Coordinator  
-Rouxbe.com  
-269 East 45th Avenue   
-Vancouver, BC   
-Canada V5W 1X2
-
-[privacy@rouxbe.com](mailto:privacy@rouxbe.com)
+[Privacy Policy Coordinator](mailto:privacy@rouxbe.com)
 
 #### CHILDREN AND PARENTS
 
@@ -185,10 +172,4 @@ If your children disclose information about themselves in publicly accessible ar
 
 If you are worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [privacy@rouxbe.com](mailto:privacy@rouxbe.com).
 
-If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator at privacy@rouxbe.com. We welcome your feedback. You can also send us regular mail at the following address:
-
-Privacy Policy Coordinator  
-Rouxbe.com  
-269 East 45th Avenue   
-Vancouver, BC   
-Canada V5W 1X2
+If you have other concerns or questions about any aspect of this policy, you may also e-mail our [Privacy Policy Coordinator](mailto:privacy@rouxbe.com). We welcome your feedback.
