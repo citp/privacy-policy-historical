@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603032807id_/http%3A//www.mtv.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040133id_/http%3A//www.mtv.tv/privacy_policy.htm) for the most accurate reproduction.*
 
-# mtv.tv: Privacy Policy
+# MTV European: Privacy Policy
 
 The privacy policy sets out how we use any personal information that you give to us, such as your name, address, telephone number or email address.
 
