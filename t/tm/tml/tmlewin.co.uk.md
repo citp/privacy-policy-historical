@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151623id_/http%3A//www.tmlewin.co.uk/Content.aspx%3Fcontent%3DSecurityAndPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051333id_/http%3A//www.tmlewin.co.uk/Content.aspx%3Fcontent%3DSecurityAndPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Security and Privacy Policy - T.M.Lewin
 
