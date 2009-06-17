@@ -1,29 +1,36 @@
-<!--The following is the downloaded HTML source of the sundaymercury.net privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218003339id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sundaymercury.net privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617170517id_/http%3A//www.sundaymercury.net/priv_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		
+
 		
 		<script type="text/javascript">var startLoadTime = (new Date()).getTime();</script>
-		
+
 		<base href="http://www.sundaymercury.net/priv_statement/">
 		<meta http-equiv="Content-Type" content="text/html; CHARSET=UTF-8">
 		<title>Privacy statement - SundayMercury.net</title>
 	
-			<link rel="STYLESHEET" type="text/css" href="http://images.icnetwork.co.uk/css/R2Design/structure.css">
+			
+
+
+
+
+	
+		<link rel="stylesheet" type="text/css" href="http://images.icnetwork.co.uk/css/R2Design/structure.css">
+	
+
+
+
 		
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/r2/preDisplay.js"></script>
-		
-		<script src="http://images.icnetwork.co.uk/js/sifr/sifr.js" type="text/javascript"></script>
-		<script src="http://images.icnetwork.co.uk/js/sifr/sifr-addons.js" type="text/javascript"></script>
-
+	
 		<script type="text/javascript" language="javascript" src="http://images.icnetwork.co.uk/js/xmlHttp.js"></script>
 
 	    <link rel="stylesheet" href="http://images.icnetwork.co.uk/css/dhtmlwindow.css" type="text/css">
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/dhtmlwindow.js"></script>
-
+	
 		<script type="text/javascript" src="http://images.icnetwork.co.uk/js/googleLogo.js"></script>
-	<link rel="stylesheet" type="text/css" href="http://images.icnetwork.co.uk/css/sundaymercury/styles.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="http://images.icnetwork.co.uk/css/sundaymercury/styles.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="http://images.icnetwork.co.uk/css/sundaymercury/forumandregistration.css" media="screen">
 
 			<meta name="Keywords" content="Privacy Statement">
@@ -43,20 +50,6 @@
 
 		<script type="text/javascript">
 		//<![CDATA[
-			var geoMap = null;
-			function geoInitialize() {
-				if ((typeof GBrowserIsCompatible) != 'undefined' && (typeof onGEOInitialize )!= 'undefined' && GBrowserIsCompatible()) {
-					geoMap = new GMap2(document.getElementById("geo_map_canvas"));
-					onGEOInitialize();
-				}
-			}
-
-			function geoUnload() {
-				if ( (typeof GUnload) != 'undefined' ) {
-					GUnload();
-				}
-			}
-			
 			var useGoogleJSLogo = true; //displayhandler may override this value
 			function setGoogleLogoIfNeeded() {
 				if (useGoogleJSLogo) {
@@ -70,7 +63,10 @@
 		
 		</head>
 
-		<body onload="updateClock(''); setInterval('updateClock(\'\')', 60000 ); geoInitialize(); setGoogleLogoIfNeeded(); " onunload="geoUnload()">
+		<body onload="tm.updateClock(''); 
+				setInterval('tm.updateClock(\'\')', 60000 ); 
+				if ( (typeof geoInitialize) != 'undefined' ){ geoInitialize(); } 
+				setGoogleLogoIfNeeded(); " onunload="if((typeof geoUnload) != 'undefined') geoUnload();">
 	<div id="wrap">
 	<div id="header-wrap">
 	<!--This div contains toplinks-->
@@ -81,7 +77,7 @@
 			
 				<span id="clock">
 						
-						18 December 2008: 12:33am
+						17 June 2009: 1:33pm
 					
 				</span>
 			
@@ -107,7 +103,13 @@ function writeAuthHeaderLoggedIn(mailAddress, accountURL, logoutURL)
 	document.write(mailAddress + ' | <a href="' + accountURL + '">Your account</a> | <a href="' + logoutURL + '">Log out</a>');
 }
 
-writeAuthHeader(183, true, 'http://www.sundaymercury.net/registration/index.cfm', null, false);
+writeAuthHeader(183,
+				true,
+				'http://www.sundaymercury.net/registration/index.cfm',
+				null,
+				false,
+				''
+				);
 
 	//]]>
 	</script>
@@ -123,6 +125,7 @@ writeAuthHeader(183, true, 'http://www.sundaymercury.net/registration/index.cfm'
 					<option value="http://www.birminghampost.net">Birmingham Post</option>
 					<option value="http://www.birminghammail.net">Birmingham Mail</option>
 					<option value="http://www.coventrytelegraph.net">Coventry Telegraph</option>
+					<option value="http://www.localmole.co.uk/?referer=http://www.sundaymercury.net">LocalMole - Find Local Businesses</option>
 					</select>&nbsp;
 				<input type="submit" value="Go!" onclick="document.forms.header_dropdown.action = document.forms.header_dropdown.destination.value">		
 			</p>
@@ -139,6 +142,7 @@ writeAuthHeader(183, true, 'http://www.sundaymercury.net/registration/index.cfm'
 				linkTargets[5] = 'http://www.birminghampost.net';
 				linkTargets[6] = 'http://www.birminghammail.net';
 				linkTargets[7] = 'http://www.coventrytelegraph.net';
+				linkTargets[8] = 'http://www.localmole.co.uk/?referer=http://www.sundaymercury.net';
 				
 			document.getElementById('nav-other-sites').style.display = 'block';
 			
@@ -162,7 +166,7 @@ writeAuthHeader(183, true, 'http://www.sundaymercury.net/registration/index.cfm'
 		<!--This div contains the your site links-->
 		<div id="header-content">			
 		<!-- xc:header-right dirpath=/src/webroot/sundaymercury/index.cfm -->
-		<div id="header-right"><!-- container object :21203705 (noformat)  --><div class="block-one">
+	<div id="header-right"><!--[if !IE]> container object 66331:21203705 (noformat)  <![endif]--><div class="block-one">
 <h2>Get involved...</h2> 
  <ul class="menu1">
  <li><a href="http://www.sundaymercury.net/news/send-us-your-story/">Send your stories</a></li>
@@ -172,13 +176,13 @@ writeAuthHeader(183, true, 'http://www.sundaymercury.net/registration/index.cfm'
  <li><a href="http://www.sundaymercury.net/video-pics/send-your-pictures/">Send your pics</a></li>
  <li><a href="http://forums.sundaymercury.net/">Join a forum</a></li>
  </ul>
-</div><!-- end of container object --></div>
+</div><!--[if !IE]> end of container object <![endif]--></div>
 		</div>
 		
 	</div><!--This div contains the main site navigation-->
 			<div id="main-nav"> 
 				<ul>
-<li><a id="main-nav-selected" href="http://www.sundaymercury.net/">Home</a></li><li><a href="http://www.sundaymercury.net/news/">News</a></li><li><a href="http://www.sundaymercury.net/midlands-sport/">Midlands Sport</a></li><li><a href="http://www.sundaymercury.net/video-pics/">Videos &amp; Pics</a></li><li><a href="http://www.sundaymercury.net/birmingham-blogs-comment/">Blogs &amp; Comment</a></li><li><a href="http://www.sundaymercury.net/fun-games-online/">Fun</a></li><li><a href="http://www.sundaymercury.net/entertainment-news/">Entertainment</a></li><li><a href="http://www.sundaymercury.net/lifestyle-news/">Lifestyle</a></li><li><a href="http://www.sundaymercury.net/travel/">Travel</a></li><li><a href="http://www.sundaymercury.net/sitemap/">Site Map</a></li><li><a href="http://www.sundaymercury.net/weather/">Weather</a></li>
+<li><a id="main-nav-selected" href="http://www.sundaymercury.net/">Home</a></li><li><a href="http://www.sundaymercury.net/news/">News</a></li><li><a href="http://www.sundaymercury.net/midlands-sport/">Midlands Sport</a></li><li><a href="http://www.sundaymercury.net/video-pics/">Videos &amp; Pics</a></li><li><a href="http://www.sundaymercury.net/roywoodcampaign/">Roy Wood Campaign</a></li><li><a href="http://www.sundaymercury.net/birmingham-blogs-comment/">Blogs &amp; Forum</a></li><li><a href="http://www.sundaymercury.net/fun-games-online/">Fun</a></li><li><a href="http://www.sundaymercury.net/entertainment-news/">Entertainment</a></li><li><a href="http://www.sundaymercury.net/lifestyle-news/">Lifestyle</a></li><li><a href="http://www.sundaymercury.net/travel/">Travel</a></li><li><a href="http://www.sundaymercury.net/sitemap/">Site Map</a></li>
 		        </ul>
 			</div> <!-- End main-nav --><script language="javascript">
 			//<![CDATA[
@@ -213,11 +217,11 @@ document.write('<scr' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;dcopt=ist;tile=1;ord=4839192814588103000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;dcopt=ist;tile=1;ord=163782180176099680?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=657751392?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=783701670?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=657751392?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=top%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;extra=first%5Fbanner;oid=0;sz=468x60,728x90;tile=1;ord=783701670?"
 					
 						width="468"
 						height="60"
@@ -272,7 +276,7 @@ document.write('<scr' +
 				</h3>
 		<!-- xc:main-col-intro dirpath=/src/webroot/sundaymercury/priv_statement/index.cfm --><div id="three-col-wrapper">
 	<!-- xc:centre dirpath=/src/webroot/sundaymercury/priv_statement/index.cfm -->
-		<!-- container object :20965544 (noformat)  --><div id="termsandconditionscontainer" class="arbitaryhtml-article">
+	<!--[if !IE]> container object 66331:20965544 (noformat)  <![endif]--><div id="termsandconditionscontainer" class="arbitaryhtml-article">
 	<h2>PRIVACY POLICY IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED ON THIS WEB SITE</h2>
 	<p>We are committed to:</p>
  <ul>
@@ -316,10 +320,10 @@ need to know basis including, for example, in relation to the fulfilment of any 
 	<p>Trinity Mirror Midlands Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Trinity Mirror Midlands Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Trinity Mirror Midlands Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Trinity Mirror Midlands Limited may be reassociated by Trinity Mirror Midlands Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
 </p>
 	<p>Further information regarding Omniture's privacy statement can be found by <a href="http://www.omniture.com/privacy/product" target="_blank" title="Omniture">clicking here</a>.</p>	
-</div><!-- end of container object -->
+</div><!--[if !IE]> end of container object <![endif]-->
 		</div><div id="one-col-wrapper">
 	<!-- xc:right-content-col dirpath=/src/webroot/sundaymercury/priv_statement/index.cfm -->
-		<!-- container object :21056448 (r2_default_colour1)  --><div class="containerobj"><div class="one-col">
+	<!--[if !IE]> container object 66331:21056448 (r2_default_colour1)  <![endif]--><div class="containerobj"><div class="one-col">
 	<h4 class="list-head-colour1">Lorne Jackson</h4>
 	<div class="puffs">
 	
@@ -340,13 +344,13 @@ need to know basis including, for example, in relation to the fulfilment of any 
 	</div>
 	
 	<div class="verticalalign">
-	<!--fix for equal height, explained in the css, do not remove-->
+	
 
 	<p></p>
-	<!--These paras need to be here they can contain images do not remove-->
+	
 	</div>
 	
-	</div></div><!-- end of container object --><!-- container object :20965076 (noformat)  --><div class="one-col-highlight">
+	</div></div><!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 66331:20965076 (noformat)  <![endif]--><div class="one-col-highlight">
 <h4 class="list-head-colour1"><span class="branding-text">Get Involved</span></h4>
 <div class="your-site">
 <p>We want your local stories, videos &amp; pics.</p>
@@ -358,66 +362,207 @@ need to know basis including, for example, in relation to the fulfilment of any 
  <li><a class="sendvideo" href="/video-pics/send-us-your-videos/">Send your videos</a></li>	
  </ul> 
 	</div> 
-</div><!-- end of container object --><!-- container object :20961795 (javascript_default)  --><div class="containerobj"><script type="text/javascript" src="http://www.sundaymercury.net/ranking/tm_datasource=sundaymercury%26method=javascript_default%26mode=browse%26objectid=20961795%26jsrc=1-name_page.js"></script></div><!-- end of container object -->
+</div><!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 66331:20961795 (javascript_default)  <![endif]--><div class="containerobj"><script type="text/javascript" src="http://www.sundaymercury.net/ranking/tm_datasource=sundaymercury%26method=javascript_default%26mode=browse%26objectid=20961795%26jsrc=1-name_page.js"></script></div><!--[if !IE]> end of container object <![endif]-->
 		</div></div><!-- close content-channel --><!--This div contains site ads, classifieds-->	
 		 		<div id="sidebar">
 	<div id="classified-col">
 	<!-- xc:classified-col dirpath=/src/webroot/sundaymercury/priv_statement/index.cfm -->
-		<!-- container object :21161331 (blank)  --><div class="containerobj"><div class="classified-quicklinks">
+	<!--[if !IE]> container object 66331:21161331 (blank)  <![endif]--><div class="containerobj"><div class="classified-quicklinks">
 <h4 class="list-head-colour1">Classifieds</h4>
 <ul>
 <li class="jobs"><a href="http://www.jobs-midlands.com/">Jobs Midlands</a></li>
 <li class="motors"><a href="http://www.motors-midlands.com/">Cars Midlands</a></li>	
 <li class="homes"><a href="http://www.homes-midlands.com/birminghamproperty/">Homes Midlands</a></li>
-<li class="ads4u"><a href="http://birmingham.bookanad.com/">Ads 4 U</a></li>
-<li class="family"><a href="http://www.bmdsonline.co.uk/?keywords=&amp;type=all_notices&amp;date_limit=&amp;region=tmmi&amp;source=tmmi_bmem&amp;_fstatus=search">Family Notices</a></li>
-<li class="dating"><a href="http://icbirmingham.datingdirect.com/">Dating</a></li>
+<li class="ads4u"><a href="http://birmingham.bookanad.com/">Book An Ad</a></li>
+<li class="family"><a href="http://www.bmdsonline.co.uk/?keywords=&amp;type=all_notices&amp;date_limit=&amp;region=tmmi&amp;source=tmmi_bmsm&amp;_fstatus=search">Family Notices</a></li>
+<li class="localmole"><a href="http://www.localmole.co.uk/?referer=http://www.sundaymercury.net/">LocalMole</a></li>
+<li class="ads4u"><a href="http://www.mercurycashback.com/">Cashback</a></li>
+<li class="family"><a href="http://3400.e-printphoto.co.uk/bpm/index.cfm?z=z&amp;action=home&amp;sessionout=1">Photosales</a></li>
+<li class="jobs"><a href="http://www.holidays-midlands.com/">Reader Travel</a></li>
 </ul>
-</div></div><!-- end of container object --><!-- container object :21161542 (noformat)  --><script language="JavaScript" src="http://www.icnetwork.co.uk/js/fish4_searchbox_script.js"></script>
-<div class="classified-jobs">
-	<form name="homessearchform" action="http://www.jobs-midlands.com/jobsearch/page.cfm?location_id=10320&amp;industry_sector_ids=-1&amp;text=&amp;searchtype=Advanced&amp;searchLangCode=en&amp;search=search&amp;objectid=15818103&amp;siteid=67910&amp;method=default&amp;tab=quick&amp;cfnocache=true&amp;searchResultsPage=true&amp;x=34&amp;y=8" method="get" onsubmit="setDefaultSearchLocation(this, 'Midlands');">
-<input type="hidden" name="x" value="34"><input type="hidden" name="y" value="8"><input type="hidden" name="cfnocache" value="true"><input type="hidden" name="tab" value="quick"><input type="hidden" name="method" value="default"><input type="hidden" name="search" value="search"><input type="hidden" name="searchLangCode" value="en"><input type="hidden" name="objectid" value="15818103"><input type="hidden" name="searchtype" value="Advanced"><input type="hidden" name="searchResultsPage" value="true"><input type="hidden" name="siteid" value="67910">
-	<h4 class="list-head-colour1"><span class="jobs">
-	<a href="http://www.jobs-midlands.com">Jobs</a>
-	</span></h4>	
-	<p><strong>Find your new job:</strong></p>	
-	<p>Job Title<input class="tab_textbox" size="1" style="width:130px;" type="text" name="text" value=""></p>
- 	<p>e.g. secretary</p>
-<p>Industry
-	<select name="industry_sector_ids" class="tab_textbox" size="1" style="width:130px; ">
-	<option value="-1">All industries</option>	<option value="1">Accountancy</option><option value="2">Agriculture &amp; Environment</option><option value="28">Architectural/Design</option><option value="29">Automotive</option><option value="3">Banking, Finance &amp; Insurance</option><option value="4">Catering</option><option value="5">Construction, Property &amp; Trades</option><option value="6">Customer Service &amp; Call Centre</option><option value="7">Distribution &amp; Warehouse</option><option value="8">Domestic</option><option value="9">Driving &amp; Transport</option><option value="10">Education</option><option value="34">Emergency Services/Armed Forces</option><option value="11">Engineering &amp; Technical</option><option value="33">Executive/Management</option><option value="32">Graduate/Trainees</option><option value="14">HR, Recruitment &amp; Training</option><option value="12">Health &amp; Caring</option><option value="13">Hospitality, Travel &amp; Leisure</option><option value="15">IT</option><option value="16">Legal</option><option value="300">Libraries and Museums</option><option value="17">Manufacturing</option><option value="18">Marketing, PR &amp; Advertising</option><option value="19">Media/New Media</option><option value="20">Miscellaneous</option><option value="30">Oil/Gas/Utilities</option><option value="31">Procurement/Supply Chain</option><option value="21">Public Sector &amp; Charity</option><option value="301">Regional Assembly Bodies</option><option value="22">Retail</option><option value="23">Sales</option><option value="24">Scientific &amp; Pharmaceutical</option><option value="25">Secretarial &amp; Administration</option><option value="26">Security &amp; Defence</option><option value="27">Telecommunications</option>
-	</select>
-	</p>
-	<p>Location 
-	<select class="tab_textbox" name="location_id" size="1" style="width:130px;">
-	<option value="10320">All Midlands</option>
-	<option value="10244">Birmingham</option>
-	<option value="10245">Burton-On-Trent</option>
-	<option value="10246">Cannock</option>
-	<option value="10247">Coventry</option>
-	<option value="10248">Derby</option>
-	<option value="10249">Dudley</option>
-	<option value="10250">Gloucester</option>
-	<option value="10251">Leicester</option>
-	<option value="10252">Loughborough</option>
-	<option value="10253">Northampton</option>
-	<option value="10254">Nottingham</option>
-	<option value="10255">Nuneaton</option>
-	<option value="10256">Oxford</option>
-	<option value="10257">Peterborough</option>
-	<option value="10258">Solihull</option>
-	<option value="10259">Stafford</option>
-	<option value="10300">Stoke-On-Trent</option>
-	<option value="10301">Sutton Coldfield</option>
-	<option value="10520">Tamworth</option>
-	<option value="10302">Telford</option>
-	<option value="10303">Walsall</option>
-	<option value="10304">Wolverhampton</option>
-	<option value="10305">Worcester</option>
-	</select></p>	
-	<p><input type="submit" value="Search"></p>
-	</form>
-</div><!-- end of container object --><!-- container object 67910:20261860 (r2_default_javascript_randomise)  --><div class="containerobj"><script type="text/javascript" src="http://www.sundaymercury.net/tm_datasource=jobsmidlands%26method=r2_default_javascript_randomise%26mode=browse%26objectid=20261860%26jsrc=1-name_page.js"></script></div><!-- end of container object -->
+</div></div><!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 97319:22428872 (noformat)  <![endif]-->
+	<div class="madgex-jobs">
+		<form name="searchNav" action="http://www.jobs-midlands.com/advancedsearch" method="get">
+		<h4 class="list-head-colour1"><span class="jobs">Jobs</span></h4>	
+		<p><strong>Find your new job:</strong></p>	
+		<p>Job Title<input class="tab_textbox" type="text" name="keyword" id="keyword" value=""></p>
+		<p>e.g. secretary</p>
+		<p>Industry
+		<select name="IndustrySector" class="tab_textbox" size="1">
+			<option value="">All industries</option>
+			
+				<option value="1">Admin &amp; Secretarial</option>
+			
+				<option value="2">Agriculture, Animals &amp; Environment</option>
+			
+				<option value="3">Call Centre &amp; Customer Service</option>
+			
+				<option value="4">Catering &amp; Hospitality</option>
+			
+				<option value="5">Accountancy</option>
+			
+				<option value="6">Construction, Surveying &amp; Trades</option>
+			
+				<option value="7">Banking, Finance &amp; Insurance</option>
+			
+				<option value="8">Distribution &amp; Warehouse</option>
+			
+				<option value="9">Domestic</option>
+			
+				<option value="10">Education</option>
+			
+				<option value="11">Emergency Services / Armed Forces</option>
+			
+				<option value="12">Engineering</option>
+			
+				<option value="13">Manufacturing</option>
+			
+				<option value="14">Graduate &amp; Trainee</option>
+			
+				<option value="15">Health, Caring &amp; Medical</option>
+			
+				<option value="16">HR, Recruitment &amp; Training</option>
+			
+				<option value="17">IT &amp; Telecoms</option>
+			
+				<option value="18">Legal</option>
+			
+				<option value="19">Travel, Leisure &amp; Beauty</option>
+			
+				<option value="20">Libraries &amp; Museums</option>
+			
+				<option value="21">Management / Executive</option>
+			
+				<option value="22">Marketing, PR &amp; Advertising</option>
+			
+				<option value="23">Media &amp; New Media</option>
+			
+				<option value="24">Miscellaneous / Other</option>
+			
+				<option value="25">Oil, Gas &amp; Utilities</option>
+			
+				<option value="26">Procurement &amp; Supply Chain</option>
+			
+				<option value="27">Public Sector, Social Care &amp; Charity</option>
+			
+				<option value="29">Retail</option>
+			
+				<option value="30">Sales</option>
+			
+				<option value="31">Scientific &amp; Pharmaceutical</option>
+			
+				<option value="32">Security &amp; Defence</option>
+			
+				<option value="34">Driving &amp; Transport</option>
+			
+				<option value="120">Health &amp; Safety</option>
+			
+				<option value="121">Process Sector</option>
+				
+		</select>
+		</p>
+		<p>Location  
+		<select class="tab_textbox" name="Location" size="1">
+			<option value="">All Jobs Midlands</option>	
+						
+				<option value="28">Hinckley</option>			
+						
+				<option value="33">Leamington Spa</option>			
+						
+				<option value="41">Warwick</option>			
+						
+				<option value="42">West Bromwich</option>			
+						
+				<option value="43">Sandwell</option>			
+						
+				<option value="44">Bromsgrove</option>			
+						
+				<option value="45">Redditch</option>			
+						
+				<option value="46">Stourbridge</option>			
+						
+				<option value="47">Lichfield</option>			
+						
+				<option value="48">Halesowen</option>			
+						
+				<option value="484">Tamworth</option>			
+						
+				<option value="485">Burton On Trent</option>			
+						
+				<option value="486">Stafford</option>			
+						
+				<option value="487">Solihull</option>			
+						
+				<option value="488">Walsall</option>			
+						
+				<option value="489">Oxford</option>			
+						
+				<option value="490">Loughborough</option>			
+						
+				<option value="491">Cannock</option>			
+						
+				<option value="492">Sutton Coldfield</option>			
+						
+				<option value="493">Nuneaton</option>			
+						
+				<option value="494">Worcester</option>			
+						
+				<option value="495">Peterborough</option>			
+						
+				<option value="496">Stoke On Trent</option>			
+						
+				<option value="497">Telford</option>			
+						
+				<option value="498">Wolverhampton</option>			
+						
+				<option value="499">Derby</option>			
+						
+				<option value="500">Dudley</option>			
+						
+				<option value="501">Coventry</option>			
+						
+				<option value="502">Nottingham</option>			
+						
+				<option value="503">Leicester</option>			
+						
+				<option value="504">Northampton</option>			
+						
+				<option value="505">Gloucester</option>			
+						
+				<option value="506">Birmingham</option>			
+				
+		</select></p>
+		<p><input type="submit" value="Search"></p>
+		</form>
+	</div>
+<!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 97319:22286050 (r2_default_javascript_randomise)  <![endif]--><div class="containerobj"><script type="text/javascript" src="http://www.sundaymercury.net/tm_datasource=birmmail%26method=r2_default_javascript_randomise%26mode=browse%26objectid=22286050%26jsrc=1-name_page.js"></script></div><!--[if !IE]> end of container object <![endif]--><div class="widget_one_col">
+	<script type="text/javascript">//<![CDATA[
+
+if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
+
+document.write('<scr' +
+	'ipt type="text/javascript" ' +
+ 'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
+ 'priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155'  +
+ ';tile=2' +
+ ';ord=' +
+ dartOrd +
+ '?"><\/scr' +
+ 'ipt>');
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=163782180176099680?"></script>
+			<noscript>
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=783701670?" target="_blank">
+				<img
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=widget%5Fone%5Fcol;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x155;tile=2;ord=783701670?"
+					
+						width="160"
+						height="155"
+					
+					border="0"
+					alt="widget_one_colAdvertisement" />
+				</a>
+			</noscript>
+		</div>
 		</div><div id="ad-col">
 	<!-- xc:ad-col dirpath=/src/webroot/sundaymercury/priv_statement/index.cfm --><script type="text/javascript">//<![CDATA[
 
@@ -431,7 +576,7 @@ document.write('<scr' +
  dartOrdT160x60 +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=6018385997680746000?"></script><script type="text/javascript">//<![CDATA[
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=3;to=v;tr=1;te=2;slot=right%5Ftable1;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=8469229252248987000?"></script><script type="text/javascript">//<![CDATA[
 
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 
@@ -439,16 +584,16 @@ document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
  'priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600'  +
- ';tile=2' +
+ ';tile=3' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=2;ord=4839192814588103000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=163782180176099680?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=2;ord=657751392?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=783701670?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=2;ord=657751392?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=right%5Fsky;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=120x600,160x600;tile=3;ord=783701670?"
 					
 						width="120"
 						height="600"
@@ -468,7 +613,7 @@ document.write('<scr' +
  dartOrdT160x60 +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=6018385997680746000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;tp=1;tn=2;to=v;tr=1;te=2;slot=right%5Ftable2;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=160x60,160x120;ord=8469229252248987000?"></script>
 		</div>				
 				<!--end div sidebar-->		
 				</div><div id="footer">
@@ -486,16 +631,16 @@ document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
  'priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60'  +
- ';tile=3' +
+ ';tile=4' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=3;ord=4839192814588103000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=163782180176099680?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=3;ord=657751392?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=783701670?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=3;ord=657751392?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fbanner;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=468x60,460x60;tile=4;ord=783701670?"
 					
 						width="468"
 						height="60"
@@ -504,10 +649,10 @@ document.write('<scr' +
 					alt="bottom_bannerAdvertisement" />
 				</a>
 			</noscript>
-					<p><strong>Copyright and Trade Mark Notice</strong> © 2008 owned by or licensed to Trinity Mirror Midlands Limited. Sunday Mercury™ is a trade mark of Trinity Mirror Midlands Limited. Please read our <a href="http://www.sundaymercury.net/terms_conditions/">Terms and Conditions</a> and <a href="http://www.sundaymercury.net/priv_statement/">Privacy Statement</a> before using this site.</p> 
+					<p><strong>Copyright and Trade Mark Notice</strong> © 2009 owned by or licensed to Trinity Mirror Midlands Limited. Sunday Mercury™ is a trade mark of Trinity Mirror Midlands Limited. Please read our <a href="http://www.sundaymercury.net/terms_conditions/">Terms and Conditions</a> and <a href="http://www.sundaymercury.net/priv_statement/">Privacy Statement</a> before using this site.</p> 
 			  	</div>
 			</div>	<!--end div footer-ad-slot-copyright --><!-- xc:footer-links dirpath=/src/webroot/sundaymercury/index.cfm -->
-		<!-- container object :20992669 (noformat)  --><!--This div contains our site section links-->	 	
+	<!--[if !IE]> container object 66331:20992669 (noformat)  <![endif]--><!--This div contains our site section links-->	 	
 	<div id="footer-links">
 	<ul>
 <li><strong>Site sections: </strong></li>
@@ -520,12 +665,14 @@ document.write('<scr' +
 <li><a href="/lifestyle-news/">Lifestyle</a></li>
 <li><a href="/travel/">Travel</a></li>	 
 <li><a href="/authors/">Journalist Directory</a></li>	
+<li><a href="http://www.mercurycashback.com">Cashback</a></li>	
+<li><a href="http://www.sundaymercuryoffers.co.uk">Reader offers</a></li>	
 <li><a href="http://www.trinitymirrormidlands.co.uk">Advertising information</a></li>	
 <li><a href="/sitemap/accessibility/">Accessibility</a></li>	 
 <li><a href="/priv_statement/">Privacy Policy</a></li>	 
 <li><a href="/sitemap/">Site Map</a></li>	 
 <li><a href="/terms_conditions/">Terms &amp; Conditions</a></li>	 
-</ul></div><!-- end of container object --><!-- container object :20992668 (noformat)  --><!--This div contains our other sites links-->	 
+</ul></div><!--[if !IE]> end of container object <![endif]--><!--[if !IE]> container object 66331:20992668 (noformat)  <![endif]--><!--This div contains our other sites links-->	 
 	<div id="footer-links-sites">
 	<ul>
 	<li><strong>Our sites: </strong></li>
@@ -533,12 +680,14 @@ document.write('<scr' +
 <li><a href="http://www.holidays-midlands.com/">Holidays Midlands</a></li>
 <li><a href="http://icmidlands.icnetwork.co.uk/motors/">Motors Midlands</a></li>
 <li><a href="http://icmidlands.icnetwork.co.uk/homes/">Homes Midlands</a></li>
-<li><a href="http://3400.e-printphoto.co.uk/bpm/">Photosales</a></li>
+<li><a href="http://www.localmole.co.uk/?referer=http://www.sundaymercury.net">LocalMole - Find Local Businesses</a></li>
 <li><a href="http://www.birminghampost.net/">Birmingham Post</a></li>
 <li><a href="http://www.birminghammail.net/">Birmingham Mail</a></li>
+<li><a href="http://3400.e-printphoto.co.uk/bpm/">Photosales</a></li>
 <li><a href="http://www.coventrytelegraph.net">Coventry Telegraph</a></li>
+<li><a href="http://www.zoomf.co.uk/">Property Search UK</a></li>
 </ul>
-</div><!-- end of container object --><!--This div contains our seo text and ads-->	  
+</div><!--[if !IE]> end of container object <![endif]--><!--This div contains our seo text and ads-->	  
 			<div id="footer-ad-slot-seotext">
 				<div class="clearfix">
 <script type="text/javascript">//<![CDATA[
@@ -549,16 +698,16 @@ document.write('<scr' +
 	'ipt type="text/javascript" ' +
  'src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/' +
  'priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90'  +
- ';tile=4' +
+ ';tile=5' +
  ';ord=' +
  dartOrd +
  '?"><\/scr' +
  'ipt>');
-				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=4;ord=4839192814588103000?"></script>
+				//]]></script><script type="text/javascript" src="http://ad.uk.doubleclick.net/adj/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=163782180176099680?"></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=4;ord=657751392?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=783701670?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=4;ord=657751392?"
+					src="http://ad.uk.doubleclick.net/ad/sundaymercury.5293/priv_statement;slot=bottom%5Fleaderboard;sect=null;templ=index;cat=Admin%20Pages;reg=MID;st=r2;oid=0;sz=728x90;tile=5;ord=783701670?"
 					
 						width="728"
 						height="90"
@@ -571,9 +720,11 @@ document.write('<scr' +
 					
 			  	</div>
 			</div>			
-		</div> <!--end div footer--><!-- SiteCatalyst code version: H.7.
-Copyright 1997-2006 Omniture, Inc. More info available at
+		</div> <!--end div footer--><!-- SiteCatalyst code version: H.17.
+Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
+
+
 <script type="text/javascript"><!--
 // Function to read URL variables
 function GetURLVars()
@@ -621,7 +772,7 @@ var s_account="mgntrinitymirroraggregate,tmrsundaymercury";
 var pageName = "sundaymercury/Privacy Statement/home"
 
 // Calculate page load time from clients perspective
-if (typeof startLoadTime != 'undefined') { 
+if (typeof startLoadTime != 'undefined') {
 	var endLoadTime = (new Date()).getTime();
 	var totalLoadTime = Math.round((endLoadTime - startLoadTime) / 100) /10;
 }
@@ -631,7 +782,6 @@ else {
 
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-
 s.channel="Privacy Statement";
 s.pageType="";
 s.prop1="";
@@ -656,10 +806,13 @@ s.prop13=""
 s.prop14=GetCampaign();
 s.prop16="MID"
 s.prop18="Admin Pages"
+s.prop19=""
 s.prop21="MID-GB"
 s.prop24=""
+s.prop27 = totalLoadTime
 s.prop30="channel"
 s.hier1="sundaymercury|Privacy Statement"
+
 /* E-commerce Variables */
 s.campaign=s.prop14
 s.state=""
@@ -671,9 +824,9 @@ var eVar2Val=""
 var eVar3Val=""
 var eVar4Val=""
 var eventsList=""
-s.prop22=s.prop23=""
-s.prop27 = totalLoadTime
+
 s.prop15=""
+s.prop22=s.prop23=""
 if (typeof(statsPageProps)!='undefined'){
 	if (typeof(statsPageProps.productCode)!='undefined')s.products=';'+statsPageProps.productCode
 	if (typeof(statsPageProps.jobSearchLocation)!='undefined')eVar3Val=statsPageProps.jobSearchLocation
@@ -683,13 +836,35 @@ if (typeof(statsPageProps)!='undefined'){
 		eVar2Val=s.prop23=statsPageProps.videoTitle;
 	s.prop15=''
 	}
+	/* override s.prop5, s.prop16, s.prop21 if defined from header var statsPageProps */ 
+	if (typeof(statsPageProps.siteName) != 'undefined') {
+			s.prop5 = statsPageProps.siteName;
+	}
+	if (typeof(statsPageProps.region) != 'undefined') {
+		s.prop16 = statsPageProps.region;
+	}
+	if (typeof(statsPageProps.publishingGroup) != 'undefined') {
+		s.prop21 = statsPageProps.publishingGroup;
+	}
+	if (typeof(statsPageProps.classifiedCategory) != 'undefined') {
+		statsClassifiedCategory = statsPageProps.classifiedCategory;
+	}
+	if (typeof(statsPageProps.contentCategory) != 'undefined') {
+		statsContentCategory = statsPageProps.contentCategory;
+	}
 }
+
+
+
+ 
+
 s.events=eventsList
-s.eVar1=eVar1Val
-s.eVar2=eVar2Val
+//s.eVar1=eVar1Val
+//s.eVar2=eVar2Val
 s.eVar3=eVar3Val
 s.eVar4=eVar4Val
 s.eVar5=""
+
 /*** set page name ***/
 s.pageName = setOmniturePageName(pageName);
 if (typeof(statsPageProps)!='undefined' && typeof(statsPageProps.pageNameSuffix)!='undefined') {
@@ -703,6 +878,10 @@ if (typeof(statsClassifiedCategory) != "undefined") {
 	
 	s.prop18 = s.prop18 || statsClassifiedCategory;
 }
+if (typeof(statsContentCategory) != "undefined") {
+	s.prop18 = statsContentCategory;
+}
+
 if (s.prop4 != "" && s.prop5 != "") s.prop12 = s.prop5 + "_" + s.prop4;
 if (s.prop4 != "" && s.prop16 != "") s.prop17 = s.prop16 + "_" + s.prop4;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -710,14 +889,18 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.8. -->
+<!-- End SiteCatalyst code version: H.17. -->
 		</div><script type="text/javascript">
 		//<![CDATA[
-	if (typeof displayTopAds == 'function') {displayTopAds();}
+	
+	if (typeof displayTopAds == 'function') {displayTopAds();} 
+	
+	if (tm.defer) {tm.defer.renderDeferred();}
 		//]]>
 		</script>
 		</div>
 				<br clear="all">
-
 			
-		</body></html>
+			
+		
+</body></html>
