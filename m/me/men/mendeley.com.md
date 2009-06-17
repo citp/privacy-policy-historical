@@ -1,23 +1,172 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219172309id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045351id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
-# Mendeley - Privacy
+# Privacy | Mendeley
 
-Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
+* TOP
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
+### MENDELEY PRINCIPLES
 
-Handshakes is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
+Our mission is to help you manage and share your research data. Besides the data which you openly disclose on our website (e.g. public profile information, comments in public discussions), you can also back up your research library to your individual account on Mendeley Web. When you do so, this means that information about the articles on your computer will be stored on our servers. We understand that this data contains private and confidential information, and we will do everything to preserve this privacy.
 
-Handshakes collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
+In treating your data, Mendeley follows three core principles:
 
-Like many other Web sites, Handshakes uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Handshakes. Members who disable cookies will not be able to use Handshakes. 
+**1\. No data is uploaded without your knowledge.**  
+Data is only uploaded to your account when you explicitly choose to do so after being asked by the Mendeley Desktop software. 
 
-Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their handshakes list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Handshakes members are never displayed to other users on the system. Users within a Personal Network communicate on Handshakes with each other through the Handshakes service without disclosing their email addresses.
+**2\. You decide which data to share, and with whom.**  
+Mendeley will never publish private or personally identifiable data. No one will ever see the contents of your research library, and no one will ever know what you are currently researching or reading, unless you explicitly decide to share this data with other researchers. In addition, it is your decision whether to share this data with selected colleagues only, or with the entire Mendeley community. 
 
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+**3\. Your data and your content is owned by you.**  
+Whatever data and content you upload to your Mendeley account is owned by you. We do not claim any ownership rights. Of course, you can delete your data at any time. 
 
-If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. Handshakes does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Handshakes stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
+From all the users' individual accounts, we _anonymously_ aggregate metadata and statistics, some of which will be made available to the Mendeley community. Nothing about you personally can be inferred from the aggregated statistics. One example: The Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers.
 
-The Handshakes site may contain links to other Web sites. Please be aware that Handshakes is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Handshakes, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
+We believe that aggregating the data in this way benefits both you and the community at large, because it
 
-Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
+  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Metadata Extraction](http://www.mendeley.com/faq/#automatic-metadata-extraction "Automatic Metadata Extraction")),
+  * allows you unprecedented insights into the statistics and research trends of your academic discipline,
+  * allows you unprecedented insights into the statistics and research trends of your academic discipline,
+  * gives you a better understanding of your own research habits and document collection,
+  * lays the data foundation for a sophisticated research paper recommendation engine,
+  * lets you evaluate your impact on the research community,
+  * enables you to discover the most interesting people in your academic discipline,
+  * helps to create the world's largest academic database, open and accessible to everyone.
+
+
+
+We hope you find these principles useful, understandable, and acceptable. For the full-length "legal language" version, please have a look at our Privacy Policy below. If you have questions, ideas, or concerns, please send them to . 
+
+* TOP
+
+### PRIVACY POLICY
+
+Mendeley Limited is committed to protecting and respecting your privacy.
+
+This policy (together with our [Terms of Use](http://www.mendeley.com/terms "Terms of Use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Mendeley Limited of Second Floor, Cardiff House, Tilling Road, London NW2 1LJ ("we", "us" or "our"). We are registered under the Act under number Z1344315. 
+
+* TOP
+
+### OUR SOFTWARE
+
+If you choose to download the Mendeley software ("our software"), it will monitor (even if you are not online) the articles and papers you catalogue, access, read and manage using our software. If you give your explicit consent, the information concerning your reading actions is sent to our servers for the purpose of:
+
+  * generating recommendations for you including articles that you may be interested in reading and these recommendations are displayed in your private account;
+  * preparing individualized statistical information which will only be made available to you via your private account; and
+  * generating anonymous aggregate statistical information regarding all users' interests, habits and reading patterns. This statistical data does not contain any personally identifiable information and is made available to registered users and other interested third parties (such as publishers) on an anonymous and aggregated basis. For example, it is possible for us to know which articles are read by users and for how long. We do not store this information in a way that links it to a particular individual. So we do not know that Mr Smith spent 3 hours reading an article concerning stem cell research by Dr Jones. We only know that a researcher based in London spent 3 hours reading that article.
+
+
+* TOP
+
+### INFORMATION WE MAY COLLECT FROM YOU
+
+As a general principle, you provide us with two types of information: personal information you knowingly disclose which is collected by us, and information collected by us about how you use our software and how you use and interact with the Site.
+
+We may collect and process the following data about you:
+
+  * information that you provide to us by filling in forms on our website www.mendeley.com (our "Site") or uploading information about yourself to the Site. This may include any information provided at the time of registering to use our Site, contacting us for any reason, posting and uploading content and material (including your personal profile and any forums in which you participate), communicating with other users through our Site or requesting further services or information;
+  * if you contact us, we may keep a record of that correspondence and your contact details. We may also ask you for information if you complain or report a problem with our Site;
+  * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
+  * details and information in the way that you use the Site including the pages you download and the time you spend at our Site;
+  * details and information in the way that you use our software to access and manage your library including the articles you read, access and download and how long you read them;
+  * details about your computer (including where available your IP address, operating system and browser type) and your visits to our Site (including, but not limited to, traffic data and other communication data);
+
+
+* TOP
+
+### COOKIES
+
+We may obtain information about your general internet usage by using a cookie. A cookie is a small text file that is stored on your computer and contains text information. Cookies are used to support a number of functions that are available on the Site. Please note that we do not save any personal information via such cookies. Information about you as a user can not be traced by us via such cookies.
+
+Cookies help us to improve our Site and to deliver a better and more personalised service. They enable us:
+
+  * to estimate our audience size and usage pattern;
+  * to store information about your preferences, and so allow us to customise our Site according to your individual interests;
+  * to speed up your searches;
+  * to recognise you when you return to our Site.
+
+
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Site or your user experience will be affected. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Site.
+
+Please note that our advertisers may also use cookies, over which we have no control.
+
+* TOP
+
+### WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you is stored on information technology systems located in the EEA which are operated by us. Some data processing in relation to the service is carried out on our behalf by our third party suppliers who may be located outside the EEA. These countries may not have similar data protection laws to the EEA although though we will take steps to ensure that your privacy rights are continued to be protected.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+* TOP
+
+### USES MADE OF THE INFORMATION
+
+We use information held about you in the following ways:
+
+  * to provide our service to you including allowing you to: 
+    * participate in interactive and social networking features of our service, when you choose to do so;
+    * manage, catalogue and share your academic papers;
+  * to ensure that content from our Site is presented in the most effective manner for you and for your computer;
+  * to recommend articles that you may be interested in reading and to prepare individualized statistical information;
+  * to deal with any queries, complaints or questions you ask us;
+  * to notify you about changes to our service and provide you with information about our service;
+  * for research and development to evaluate and enhance the Site and the services we offer; 
+  * for pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and
+  * for the Site and system administration, such as for technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site and verification of Site activity by the Site;
+
+
+
+We may use aggregate statistical data to help advertisers reach the kind of audience they want to target (for example, persons located in central London). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience. We do not pass any personally identifiable information to our advertisers only anonymised aggregate statistical data about our users' browsing actions and patterns.
+
+We may also use aggregate statistical information regarding users' interests, habits and reading patterns. This statistical data does not contain any personally identifiable information and is made available to registered users and other interested third parties (such as publishers) on an anonymous and aggregated basis.
+
+* TOP
+
+### DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+
+We may disclose your personal information to third parties:
+
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.mendeley.com/terms "Terms of Use") and other agreements; or 
+  * to protect our rights, property, or safety, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+* TOP
+
+### EDITING AND DELETION OF DATA
+
+Generally, you can edit and delete any personal data you upload to Site. If you wish to deactivate your account you may do so through the My Account page. Removed information may persist in backup copies for a reasonable period of time and as necessary to comply with our legal obligations. However, please note that this information will not be generally available to other users or registered members.
+
+Where you make use of the interactive features of the service to share information with other users and registered members (e.g. sending a personal message to another user) you may not be able to remove such communications.
+
+* TOP
+
+### YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by contacting us at .
+
+Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+* TOP
+
+### ACCESS TO INFORMATION
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us at .
+
+* TOP
+
+### CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+* TOP
+
+### CONTACT
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to .
+
+This Privacy Policy was last updated on 23 May 2008.
