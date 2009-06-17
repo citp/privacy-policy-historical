@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217181558id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195152id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
 
 # GLL.org
 
@@ -19,10 +19,3 @@ We offer links to other Web sites. Please note: When you click on links to other
 If our policy on information collection or uses changes, will amend this privacy policy.
 
 If problems arise, users may contact GLL. We are committed to resolving disputes as soon as is possible.
-
-Due to a staff annual training day, all GLL leisure centres will be closed on Monday 22 December. 
-
-NEW APPRENTICE SCHEMES STARTING 2009   
-For more information view Current Permanent Vacancies on the Careers page. 
-
-Or enter your postcode
