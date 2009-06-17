@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216103413id_/http%3A//sls.live.mediaspanonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044944id_/http%3A//sls.live.mediaspanonline.com/privacy) for the most accurate reproduction.*
 
 # SalisburyPost.com
 
