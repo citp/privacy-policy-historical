@@ -1,84 +1,77 @@
-> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013135id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apture.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061411id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Apture.com
 
-Please note that by using this website (the "Site") or the services provided by Apture, Inc. ("Apture"), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or Apture's services.
+Please note that by using this website (the “Site”) or the services provided by Apture, Inc. (“Apture”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or Apture’s services.
 
-**What is the purpose of this Privacy Policy?**
+## What is the purpose of this Privacy Policy?
 
 This Privacy Policy discloses our personal information gathering and dissemination practices with respect to the Site and our services. Please read this Privacy Policy carefully.
 
-We have also created this Privacy Policy to demonstrate our commitment to privacy. We recognize that when you provide us with information about yourself that you trust us to act in a responsible manner with that information, and we're committed to making sure we earn that trust.
+We have also created this Privacy Policy to demonstrate our commitment to privacy. We recognize that when you provide us with information about yourself that you trust us to act in a responsible manner with that information, and we’re committed to making sure we earn that trust.
 
-**What information do we collect from users and how is it used?**
+## What information do we collect from users and how is it used?
 
 The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
 
-**Registration** Before you can utilize certain services that we offer on the Site or otherwise, we may ask that you register with Apture and provide us with your email address, a password, your first and last name and other contact information and personal details. We request this information for identification purposes, to communicate with you regarding your account, and to facilitate the functioning of certain services. We may keep this information indefinitely.
+Registration
+    Before you can utilize certain services that we offer on the Site or otherwise, we may ask that you register with Apture and provide us with your email address, a password, your first and last name and other contact information and personal details. We request this information for identification purposes, to communicate with you regarding your account, and to facilitate the functioning of certain services. We may keep this information indefinitely.
+Correspondence
+    If you correspond with us via email, we may gather in a file specific to you the information that you submit. We may keep this information indefinitely.
+URL and IP address
+    Like many other websites, Apture collects information about users’ utilization and navigation of our Site. This information helps us to design our Site to better suit our users’ needs. For example, our Site will track the URL that you visited before you came to our Site, the URL to which you next go and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer our Site. Your IP address also is used to help identify you and to gather broad demographic information.
+Information Collected With Cookies
+    Like most major websites, Apture uses cookies on certain pages of our Site. Cookies make using the Internet easier by, among other things, saving your preferences for you. For example, a cookie lets the Site remember that you’ve registered, which allows us to speed up your future activities at our Site, and which allows you to enter your registration information less frequently while visiting our Site. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of our Site to personally identifying information that you previously submitted, such as calling you by name when you return to our Site. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of the Site may not be as efficient or as enjoyable as it would be if the cookie were enabled. The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings and to customize our Site’s content, layout and services. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you.
 
-**Correspondence** If you correspond with us via email, we may gather in a file specific to you the information that you submit. We may keep this information indefinitely.
-
-**URL and IP address** Like many other websites, Apture collects information about users' utilization and navigation of our Site. This information helps us to design our Site to better suit our users' needs. For example, our Site will track the URL that you visited before you came to our Site, the URL to which you next go and your Internet Protocol (IP) address. We use your IP address to help diagnose problems with our server and to administer our Site. Your IP address also is used to help identify you and to gather broad demographic information.
-
-**Information Collected With Cookies** Like most major websites, Apture uses cookies on certain pages of our Site. Cookies make using the Internet easier by, among other things, saving your preferences for you. For example, a cookie lets the Site remember that you've registered, which allows us to speed up your future activities at our Site, and which allows you to enter your registration information less frequently while visiting our Site. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of our Site to personally identifying information that you previously submitted, such as calling you by name when you return to our Site. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of the Site may not be as efficient or as enjoyable as it would be if the cookie were enabled. The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze Site usage, to improve our content and product offerings and to customize our Site's content, layout and services. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you.
-
-**To whom does Apture disclose information about you that we collect?**
+## To whom does Apture disclose information about you that we collect?
 
 Apture will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:
 
   * We may disclose information that we collect about you to our third-party contractors who perform services for Apture in order to provide certain services or to complete or confirm a transaction that you conduct with us.
-  
-
-  * We may disclose the results of aggregated data about you for marketing or promotional purposes (for instance, that a certain percentage of out Site's users are living in the United States). In these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, is not disclosed to marketing advertisers at all, even in aggregate form.
-  
-
+  * We may disclose the results of aggregated data about you for marketing or promotional purposes (for instance, that a certain percentage of out Site’s users are living in the United States). In these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, is not disclosed to marketing advertisers at all, even in aggregate form.
   * Apture may disclose information about you as part of a merger, acquisition or other sale or transfer of its assets or business. Apture does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
-  
-
   * Moreover, we may be legally obligated to disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on our Site or to respond to a subpoena, court order or other legal process. Apture reserves the right to release information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.
 
 
 
 If you use our Site or services outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. By allowing Apture to collect information about you, you consent to such transfer and processing of your data.
 
-**What security measures does the Site employ?**
+## What security measures does the Site employ?
 
 To help protect the privacy of data you transmit through this Site, where personally identifiable information is requested, Apture uses technology designed to encrypt the information that you input before it is sent to us. In addition, Apture takes steps to protect the user data we collect against unauthorized access. However, you should keep in mind that this Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.
 
 Please also be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the Internet or encryption method can be guaranteed to be 100% secure.
 
-**How can you correct or update information that we collect about you?**
+## How can you correct or update information that we collect about you?
 
 You may correct or update information collected about you by managing your account profile or by contacting Apture at the email or mailing address noted below. We will use reasonable efforts to update our records. For our records, we may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting and agreement enforcement.
 
-**What are the policies of linked Sites and other third parties?**
+## What are the policies of linked Sites and other third parties?
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you. You should be aware that when you are on the Site, you can be directed to other websites that are beyond our control, and Apture is not responsible for the privacy practices of third parties or the content of linked websites. We encourage you to read the posted privacy policy whenever interacting with any website.
 
-**How will I know about changes in the Privacy Policy?**
+## How will I know about changes in the Privacy Policy?
 
 Apture reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes.
 
-**What is our policy on children users of our Site?**
+## What is our policy on children users of our Site?
 
-We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SITE AT ANY TIME OR IN ANY MANNER. If Apture learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then Apture will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Apture account, then you may alert Apture at the address below and request that we delete that child's personal information from our systems.
+We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SITE AT ANY TIME OR IN ANY MANNER. If Apture learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then Apture will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Apture account, then you may alert Apture at the address below and request that we delete that child’s personal information from our systems.
 
-**Will my employer have access to information that we collect about you?**
+## Will my employer have access to information that we collect about you?
 
 If you access our Site as a representative of a third party, such as your employer, that party may review and modify your personal information, ask us to delete your personal information, or request that we cease collecting your personal information. If such a third party asks us to delete your personal information or cease collecting your personal information, we may terminate your right to access our Site.
 
-**What law governs my use of the Site and Apture's services?**
+## What law governs my use of the Site and Apture’s services?
 
 By choosing to visit this Site, use our services, or otherwise provide information to Apture, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the State of California. You also agree to abide by any limitation on damages contained in our Terms of Service or other agreement that we have with you.
 
-**How to contact us?**
+## How to contact us?
 
-If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [contact@apture.com](mailto:contact@apture.com), or by mail at: 
-    
-    
-    				Apture, Inc.
-    				217 S. B St, Suite #1
-    				San Mateo, CA 94401
-    			
+If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [contact@apture.com](mailto:contact@apture.com), or by mail at:
+
+Apture, Inc.  
+217 S. B St, Suite #1  
+San Mateo, CA 94401 
 
 _Last Updated: June 17, 2008_
