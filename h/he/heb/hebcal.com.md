@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104323id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171928id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
 
 # hebcal.com Privacy Policy
 
@@ -113,5 +113,5 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-Copyright © 2007 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [News](http://www.hebcal.com/news/) \- [Donate](http://www.hebcal.com/donations/)   
-Last modified: Sun May 20 19:26:02 PDT 2007  ($Revision: 2761 $) 
+Copyright © 2009 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [News](http://www.hebcal.com/news/) \- [Donate](http://www.hebcal.com/donations/)   
+Last modified: Sun May 20 19:26:02 PDT 2007  ($Revision: 2803 $) 
