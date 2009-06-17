@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172155id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193558id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SILive.com
 
@@ -71,7 +71,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
 Privacy Policy Coordinator  
 **Staten Island Live LLC.**  
 **30 Journal Square**  
-**5th Floor** >  
+**5th Fl.**  
 **Jersey City, NJ 07306**  
 **[Contact Us](https://web.archive.org/contactus)**  
 
