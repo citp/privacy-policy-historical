@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152008id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171937id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@
 
 
 
-Effective date: June 2002, Last updated: 25 June 2008 
+Effective date: June 2002, Last updated: 13 March 2009 
 
 ##  TNS Online Data Protection Notice 
 
@@ -66,6 +66,6 @@ TNS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-p
 
 TNS also complies with the EU Safe Harbour framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-If you have questions or concerns regarding this statement or our compliance with the EU Safe Harbour framework, you should first contact the TNS Privacy Officer as noted above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/>
+If you have questions or concerns regarding this statement or our compliance with the EU Safe Harbour framework, you should first contact the TNS Privacy Officer as noted above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>
 
-We are Taylor Nelson Sofres plc, and our registered address is TNS House, Westgate, London W5 1AU (company number 912624). 
+We are Taylor Nelson Sofres, A Kantar Group Company, and our registered address is TNS House, Westgate, London W5 1AU (company number 912624). 
