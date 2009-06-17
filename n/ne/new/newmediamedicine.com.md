@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the newmediamedicine.com privacy policy that was archived on 2007-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070205210131id_/http%3A//www.newmediamedicine.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediamedicine.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045021id_/http%3A//www.newmediamedicine.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# NMM - UK Medical School Forums
 
-**IP Addresses**
+  * New Media Medicine recognizes that you care about the personal information that is held about you and how that is used.
+  * This privacy policy applies to all personal data, submitted by you, to the New Media Medicine web site.
+  * By registering to New Media Medicine you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
+  * New Media Medicine also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as New Media Medicine. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
+  * New Media Medicine will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant United States legislation.
+  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
+  * You have a legal right for the personal information held at New Media Medicine to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
+  * New Media Medicine will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
+  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on New Media Medicine
+  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](http://www.newmediamedicine.com/sendmessage.php)
 
-Posts made by users on the discussion forum have their associated IP address logged for administrative purposes. We may use IP addresses to identify users violating our Terms of Use to prevent them using the site.
 
-**Cookies**
 
-Cookies are used for logging in and out users and to enable users to differentiate between new and already seen content. Cookies may also be used by our advertising systems to prevent the same ads being repeatedly shown to the same users. External advertising companies may use cookies to track users who have clicked through on advertisement shown on New Media Medicine.
+All times are GMT +5. The time now is 09:50 AM.
 
-**Registration and Email Addresses**
+  
 
-Personal information collected via registration forms and surveys used on the site is used for administrative purposes. Email addresses are only used by New Media Medicine to contact our users and are not rented out to external companies. Any mailing lists or newsletters will have clearly identified opt-out options for users who do not wish to participate. Our software sends out automated messages to users via email to alert them to repsonses to posts and other relevant information. Again, users may opt out of this system using their 'Control Panel'.
-
-**Contact Us**
-
-If you have any questions about our privacy policy or data collected by New Media Medicine, please use the 'Contact Us' form to get in touch. We take our users privacy seriously and are happy to hear from anyone with questions or concerns.
