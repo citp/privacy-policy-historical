@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033319id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063800id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security
 
@@ -18,8 +18,7 @@ Read our [Privacy Policy](https://web.archive.org/privacy/policy.html) to learn 
 
 ## Search our site:
 
-## 170 locations.  
-Zero worries.
+## Earn reward points  
+every time you shop.
 
-## Take flight with Visa® Bankmiles.  
-No blackout dates. No hassles.
+## Is an IRA part of your retirement plan?
