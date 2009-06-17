@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danstube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114037id_/http%3A//www.danstube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danstube.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171746id_/http%3A//www.danstube.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Your Amateur Free Porn Tube Movies and World Sex Video Sharing Community.
+# Privacy Policy - Free Porn Movies and Sex Videos!!!
 
 **Information We Collect:**  
 **User Provided Information:** You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to Danstube.com when choosing to participate in various activities on the Danstube.com Sites such as uploading videos, posting messages in our forums or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
