@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141427id_/http%3A//www.imperfectparent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectparent.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172012id_/http%3A//www.imperfectparent.com/privacy) for the most accurate reproduction.*
 
 # The Imperfect Parent || Privacy Policy
-
-| 
 
 ## Privacy Policy
 
@@ -24,6 +22,3 @@ If you have any questions about our privacy policy, please write to [prescott@im
 
 
 _Last updated 08/17/07_
-
-|   
----|---
