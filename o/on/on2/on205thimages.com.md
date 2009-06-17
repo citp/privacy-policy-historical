@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on205thimages.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135447id_/http%3A//on205thimages.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on205thimages.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171831id_/http%3A//on205thimages.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # on 205th Images » More Information » Privacy Policy
 
