@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012220id_/http%3A//divinecosmos.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D38%26Itemid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070715id_/http%3A//divinecosmos.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D38%26Itemid%3D32) for the most accurate reproduction.*
 
 # Divine Cosmos - Privacy Policy
 
