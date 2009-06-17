@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayarticles.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517041839id_/http%3A//www.everydayarticles.com/example-subpage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayarticles.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193248id_/http%3A//www.everydayarticles.com/example-subpage.html) for the most accurate reproduction.*
 
 # Privacy Policy - Everydayarticles.com- Free articles for reprint, web site, newsletters and everything else...
 
