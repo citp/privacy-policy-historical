@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216093529id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045028id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Holistic Health Blog
 
@@ -23,5 +23,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to support@natural-holistic-health.com for further clarification.
-
-**Email, Print or Share This:**
