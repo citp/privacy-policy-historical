@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081853id_/http%3A//www.smartertravel.com/us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617235340id_/http%3A//www.smartertravel.com/us/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SmarterTravel.com
 
@@ -101,7 +101,7 @@ SmarterTravel.com subscribers may opt out of receiving future SmarterTravel.com 
   * Website: [http://www.smartertravel.com/sub/changesubscriptions.php](https://web.archive.org/sub/changesubscriptions.php).
   * Email: [unsubscribe@smartertravel.com](mailto:unsubscribe@smartertravel.com) or [fraud@smartertravel.com](mailto:fraud@smartertravel.com).
   * Fax: 617-886-5501
-  * Mail: Smarter Travel Media LLC, 465 Medford Street, Suite 400, Boston, MA 02129 attn: SmarterTravel.com Customer Service
+  * Mail: Smarter Travel Media LLC, 500 Rutherford Avenue, Charlestown, MA 02129 attn: SmarterTravel.com Customer Service
 
 
 
@@ -121,9 +121,8 @@ If you have any questions about this Privacy Policy or your dealings with Smarte
 
 Smarter Travel Media LLC  
 Attn: SmarterTravel.com  
-465 Medford Street   
-Suite 400   
-Charlestown, MA 02129   
+500 Rutherford Avenue  
+Charlestown, MA 02129  
 617-886-5555  
 617-886-5501 (fax)  
 [privacy@smartertravel.com](mailto:privacy@smartertravel.com)
