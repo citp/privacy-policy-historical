@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172718id_/http%3A//www.lydiasuniforms.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200403id_/http%3A//www.lydiasuniforms.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
+# Privacy Policy : Nurse Uniforms : Wholesale Scrub : LydiasUniforms.com
 
 [Privacy Policy](https://web.archive.org/privacy_policy.htm#PRIVACY%20POLICY)  
 [Security Statement](https://web.archive.org/privacy_policy.htm#SECURITY%20STATEMENT)  
@@ -63,11 +63,3 @@ You can refuse cookies by turning them off in your browser. If you turn off cook
 
 **LINKS   
 **For your convenience, our website may contain links to other sites. LydiasUniforms.com is not responsible for the privacy practices or the content of such Web sites. ****
-
-**What our customers are saying about us:**   
-
-
-"Very fast service. Good email communication about order confirmation. Product was exactly as advertised."
-
-  
-
