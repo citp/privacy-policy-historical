@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021955id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065326id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
-# Chicago Business News, Analysis & Articles | Privacy Policy | Crain's
+# Privacy Policy | Crain's Chicago Business
 
 **Privacy Policy**
 
