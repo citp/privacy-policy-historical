@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060406id_/http%3A//www.articlebase.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebase.info privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195227id_/http%3A//articlebase.info/privacy.php) for the most accurate reproduction.*
 
 # ArticleBase.Info
 
@@ -66,4 +66,8 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
+[](http://www.senuke.com/membership/?special-offer=3883)
+
 [ ](http://www.blogmatrixpro.com/?aff_id=21004)
+
+[](http://www.senuke.com/membership/?special-offer=3883)
