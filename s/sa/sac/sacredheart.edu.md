@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114051id_/http%3A//www.sacredheart.edu/pages/2025_privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171018id_/http%3A//www.sacredheart.edu/pages/2025_privacy_statement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Sacred Heart University
 
