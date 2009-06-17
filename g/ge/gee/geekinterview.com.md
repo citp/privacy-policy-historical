@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042956id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192646id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
 
 # GeekInterview.com - Privacy Policy
 
@@ -37,6 +37,22 @@ We may also use cookies to help us determine how long users view particular cont
 Though browsers are initially set up to accept cookies, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. 
 
 If cookies are refused or disabled, some of our website’s features and services may not function properly.
+
+**Google Advertising**
+
+**DoubleClick DART cookie**
+
+The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+Click [here](http://www.doubleclick.com/privacy/faq.aspx) to know more information about [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx).
 
 **RSS Feeds**
 
