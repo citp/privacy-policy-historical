@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071241id_/http%3A//www.vidmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071901id_/http%3A//www.vidmax.com/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Crazy Videos, Video Clips :: Vidmax.com
 
