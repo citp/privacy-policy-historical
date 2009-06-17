@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the hesaidmag.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617095412id_/http%3A//www.hesaidmag.com/privacy_policy) for the most accurate reproduction.*
+
+# 
+
+He Said will never sell our integrity. Just as importantly, He Said will never rent, share, or sell our subscriber list. Not even for really hot sex. We appreciate you letting us into your email, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy. The policy below describes how we treat the information we collect when you visit our site and/or register for He Said. Please read this carefully. There will not be a test, but it’s still important.
+
+For more information about the terms and conditions of using this site please see our Terms & Condtions
+
+ **Your Information**  
+We’re not interested in obtaining a list of your past indiscretions, drinking habits, or what you snagged from the office supply room. All we need is your email address. He Said doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent.
+
+ **Other Information**  
+In order to make our site better, we may also request other information from you. Just generic stuff—like income level or age, that will help us tailor the site to your needs. We may also share this information with third parties, but only in aggregate, anonymous form. 
+
+**Usage Information**  
+It is important for us to gather information on how our site is used: How much time do users spend on our site? What sites did they come from? What sites do they go to once they’ve had just about enough of our smartass attitude? All of this information is collected in aggregate form. None of it is personally identifiable. This information will not make it possible for us to corner the market on, say, frozen concentrated orange juice. It’s collected only to help us to, among other things, handle traffic on He Said, and to make sure that our service reaches you in the most efficient manner possible.
+
+ **How to Unsubscribe**  
+You can unsubscribe from receiving He Said emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any He Said email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the He Said homepage and following the instructions.  
+ **  
+Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by a third party advertising partner (think DoubleClick), our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to “opt-out”, please click here.
+
+Occasionally, you’ll get an email marked “HeSaid Exclusive” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and only reflect the fact that our editorial staff has to put food on the table just like everybody else. Some of this money might also go towards alcohol, but we’re not saying how much.
+
+You can unsubscribe from receiving Allied Info emails. However, if you do so, you will no longer receive He Said emails either. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any He Said email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the He Said homepage and following the instructions.
+
+ **Cookies**  
+If you’re not an Internet junkie, you might not know exactly what a cookie is, well it’s a small text files placed on your computer, in order to help websites like ours retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. He Said will never use cookies to obtain any information from your computer not related to our site. 
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Links to Other Sites**  
+He Said loves using links. Partly because they allow us to introduce you to valuable products and services. However, we know that there are a lot of whack-jobs out there and we are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies. 
+
+**Security**  
+All of the information described above is recorded on a far away server and buried deep in a far off desert.
