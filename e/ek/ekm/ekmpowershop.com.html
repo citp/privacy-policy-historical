@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ekmpowershop.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216052047id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ekmpowershop.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617043443id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>   
 						<title>ekmpowershop - Privacy Policy</title>
@@ -172,7 +172,90 @@
 							{
 								display:none;
 							}
-									
+								
+								
+							/* 
+								For the price
+							*/
+								
+							#container {
+								width: 180px;
+								height: 50px;
+								position: relative;
+								margin: 10 0 50 0;
+							}
+							#everything {
+								font-family: "Arial Narrow";
+								font-style: italic;
+								color: #0C3295;
+								font-weight: bold;
+								font-size: 13px;
+								position: absolute;
+								top: 0px;
+								left: 5px;
+							}
+							#currency {
+								font-family: Arial, Helvetica, sans-serif;
+								font-size: 30px;
+								position: absolute;
+								color: #0C3295;
+								top: 43px;
+								left: 0px;
+								font-weight: bold;
+								font-style: italic;
+							}
+							#tens {
+								font-family: "Arial Black";
+								font-size: 70px;
+								font-weight: bold;
+								color: #FFA601;
+								font-style: italic;
+								letter-spacing: -12px;
+								top: 8px;
+								position: absolute;
+								left: 15px;
+								line-height: 70px;
+								z-index:2
+							}
+							#digits {
+								font-family: "Arial Black";
+								font-size: 40px;
+								font-weight: bold;
+								color: #FFA601;
+								font-style: italic;
+								letter-spacing: -3px;
+								top: 18px;
+								position: absolute;
+								left: 102px;
+								line-height: 30px;
+								z-index:1
+							}
+							#permonth {
+								font-family: "Arial Black";
+								font-size: 18px;
+								font-weight: bold;
+								color: #0C3295;
+								font-style: italic;
+								letter-spacing: -2px;
+								top: 43px;
+								position: absolute;
+								left: 95px;
+								line-height: 30px;
+								z-index:1
+							}		
+							
+							#bluebox {
+								position:relative;
+							}
+							
+							#moneyback {
+								z-index:1;
+								top: 5px;
+								left: 215px;
+								position:absolute;
+							}
+							
+							
 								
 								
 								
@@ -220,8 +303,10 @@
 							function HideDisplay(id) {
 								if (document.getElementById(id).style.display == 'none') {
 									document.getElementById(id).style.display = '';
+									document.getElementById("moneyback").style.display = 'none';
 								}else{
 									document.getElementById(id).style.display = 'none';
+									document.getElementById("moneyback").style.display = '';
 								}
 							}						
 							
@@ -444,7 +529,7 @@
 															<table border="0">
 																<tbody><tr><td height="3"></td></tr>
 																<tr>
-																	<td><a href="http://www.ekmpowershop1.com/ekmps/signup.asp?link=" class="topnavigation" title="Sign Up">Sign Up</a></td>
+																	<td><a href="http://www.ekmpowershop1.com/ekmps/signup.asp?link=&amp;cur=GBP" class="topnavigation" title="Sign Up">Sign Up</a></td>
 																</tr>
 															</tbody></table>
 															
@@ -604,17 +689,18 @@
 																<td>
 																	<center>
 																		<br>
-																		<script language="Javascript" type="text/javascript" src="/whoson_ekmpowershop.js"></script>
+                                                                        <!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
+																		<script type="text/javascript" src="http://85.159.56.102:8080/include.js?domain=www.ekmpowershop.com"></script>
+                                                                        <script type="text/javascript">
+                                                                        if(typeof sWOTrackPage=='function')sWOTrackPage();
+                                                                        </script>
+                                                                        <!-- End of embedded WhosOn -->
 																		<br><br>
 																	</center>
 																</td>
 															</tr>													
-														
-										
-										
-										
-										
-																														
+															
+                                    											
 									</tbody></table>
 								</td>
 								<td width="1" bgcolor="#999999"><img src="./images/clear.gif" width="1" height="1"></td>
