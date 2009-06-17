@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622015300id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034531id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
 
 # Replyme.com
 
@@ -17,51 +17,31 @@ We hate spam as much as you do. So, we will NEVER send you any unsolicited e-mai
 
 **Replyme** is not responsible for the content of sites which are linked into the search results; however we try to monitor all the links and remove links to sites which we deem inappropriate or harmful at our sole discretion.
 
-Our commitment to the privacy protection of our clients, both online and offline is top priority. 
+Our commitment to the privacy protection of our clients, both online and offline is top priority. Please feel free to visit our company website if you have any questions or concerns about our policies and procedures - [contact us.](https://web.archive.org/contact.php)
 
 | 
 
 ## [Holiday Out](https://web.archive.org/search.php?q=Holiday%20out)
 
-[Health](https://web.archive.org/search.php?q=health), [Tools](https://web.archive.org/search.php?q=tools), [Vehicles](https://web.archive.org/search.php?q=vehicles), [Weddings](https://web.archive.org/search.php?q=weddings), [Home And Garden](https://web.archive.org/search.php?q=home%20and%20garden)  
+[Directories](https://web.archive.org/search.php?q=directories), [Clothing](https://web.archive.org/search.php?q=clothing), [Ethnic And Regional](https://web.archive.org/search.php?q=ethnic%20and%20regional), [Publications](https://web.archive.org/search.php?q=publications), [Vehicles](https://web.archive.org/search.php?q=vehicles)...   
 
 
 ## [New Types Of Art](https://web.archive.org/search.php?q=New%20types%20of%20Art)
 
-[Architecture](https://web.archive.org/search.php?q=architecture), [Television](https://web.archive.org/search.php?q=television), [Costumes](https://web.archive.org/search.php?q=costumes), [Photography](https://web.archive.org/search.php?q=photography), [Chats And Forums](https://web.archive.org/search.php?q=chats%20and%20forums)  
+[People](https://web.archive.org/search.php?q=people), [Awards](https://web.archive.org/search.php?q=awards), [Online Writing](https://web.archive.org/search.php?q=online%20writing), [Organizations](https://web.archive.org/search.php?q=organizations), [Writers Resources](https://web.archive.org/search.php?q=writers%20resources)...   
 
 
 ## [Latest Inventions](https://web.archive.org/search.php?q=Latest%20Inventions)
 
-[Shopping](https://web.archive.org/search.php?q=shopping), [Artificial Intelligence](https://web.archive.org/search.php?q=artificial%20intelligence), [Security](https://web.archive.org/search.php?q=security)  
+[Artificial Life](https://web.archive.org/search.php?q=artificial%20life), [Desktop Publishing](https://web.archive.org/search.php?q=desktop%20publishing), [Parallel Computing](https://web.archive.org/search.php?q=parallel%20computing)...   
 
 
 ## [World Trading](https://web.archive.org/search.php?q=World%20Trading)
 
-[Telecommunications](https://web.archive.org/search.php?q=telecommunications), [Industrial Goods And Services](https://web.archive.org/search.php?q=industrial%20goods%20and%20services), [Aerospace And Defense](https://web.archive.org/search.php?q=aerospace%20and%20defense)  
+[Healthcare](https://web.archive.org/search.php?q=healthcare), [Opportunities](https://web.archive.org/search.php?q=opportunities), [Automotive](https://web.archive.org/search.php?q=automotive), [Human Resources](https://web.archive.org/search.php?q=human%20resources), [Arts And Entertainment](https://web.archive.org/search.php?q=arts%20and%20entertainment)...   
 
 
 ## [Active Life](https://web.archive.org/search.php?q=Active%20life)
 
-[Products And Shopping](https://web.archive.org/search.php?q=products%20and%20shopping), [Search Engines](https://web.archive.org/search.php?q=search%20engines), [Organizations](https://web.archive.org/search.php?q=organizations), [Medicine](https://web.archive.org/search.php?q=medicine), [Aging](https://web.archive.org/search.php?q=aging), [Teen Health](https://web.archive.org/search.php?q=teen%20health)  
-
-
-## [Gadgets](https://web.archive.org/search.php?q=Gadgets)
-
-[Human-Computer Interaction](https://web.archive.org/search.php?q=human-computer%20interaction), [Graphics](https://web.archive.org/search.php?q=graphics), [Organizations](https://web.archive.org/search.php?q=organizations)  
-
-
-## [Medicin & Health](https://web.archive.org/search.php?q=Medicin%20&%20Health)
-
-[Medicine](https://web.archive.org/search.php?q=medicine), [Services](https://web.archive.org/search.php?q=services), [Teen Health](https://web.archive.org/search.php?q=teen%20health), [Search Engines](https://web.archive.org/search.php?q=search%20engines), [Beauty](https://web.archive.org/search.php?q=beauty), [Womens Health](https://web.archive.org/search.php?q=womens%20health)  
-
-
-## [Entertainment & Art](https://web.archive.org/search.php?q=Entertainment%20&%20Art)
-
-[Bodyart](https://web.archive.org/search.php?q=bodyart), [Movies](https://web.archive.org/search.php?q=movies), [Illustration](https://web.archive.org/search.php?q=illustration), [Video](https://web.archive.org/search.php?q=video), [Education](https://web.archive.org/search.php?q=education)  
-
-
-## [World Stocks](https://web.archive.org/search.php?q=World%20Stocks)
-
-[Management](https://web.archive.org/search.php?q=management), [Consumer Goods And Services](https://web.archive.org/search.php?q=consumer%20goods%20and%20services), [Regional](https://web.archive.org/search.php?q=regional)  
+[Senior Health](https://web.archive.org/search.php?q=senior%20health), [Services](https://web.archive.org/search.php?q=services), [Animal](https://web.archive.org/search.php?q=animal), [Pharmacy](https://web.archive.org/search.php?q=pharmacy), [Teen Health](https://web.archive.org/search.php?q=teen%20health), [Support Groups](https://web.archive.org/search.php?q=support%20groups)...   
 
