@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515232159id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070824id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # GulfTalent.com Privacy Policy
 
@@ -47,4 +47,4 @@ In addition, GulfTalent distinguishes between ‘Employers’ and ‘Recruitment
   
 **Changes To The Privacy Policy**  
 GulfTalent reserves the right to modify or amend the Privacy Policy at any time and for any reason. Please check back to this Privacy Policy from time to time to stay informed.  
-Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information contact us
+Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information contact us.
