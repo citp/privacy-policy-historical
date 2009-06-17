@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011357id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174623id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
-# Cooks Recipes | Privacy Policy for CooksRecipes.com
+# Privacy Policy for CooksRecipes.com
 
 This is the website of CooksRecipes.com.
 
@@ -20,7 +20,7 @@ Persons who supply CooksRecipes.com with their telephone numbers on-line will on
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. You may choose to opt out from the collection of information from certain network advertisers via <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 For further information, please consult the privacy policies of:
 
@@ -32,4 +32,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20081216011357id_/http%3A//www.cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20090617174623id_/http%3A//www.cooksrecipes.com/contact.htm)
