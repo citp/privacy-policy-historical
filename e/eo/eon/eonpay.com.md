@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the eonpay.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php%3Fread%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eonpay.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php%3Fread%3Dprivacy.html) for the most accurate reproduction.*
 
-# EonPay - Send or Receive Money Via E-Mail Anywhere In The World!
+# EonPay - Your Online World Payment Partner!
 
-|  | [HOME](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?a=home)  
+|  | [HOME](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?a=home)  
 ---  
-[**SIGN  UP**](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?a=signup)  
-[ABOUT US](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?read=aboutus.html)  
-[FEES](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?read=fees.html)  
-[LINK CODES](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?read=linkcodes.html)  
-[SHOP](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?a=browse)  
-[AFFILIATE PROGRAM](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?read=referrals.html)  
-[FAQs](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/faq.php)  
-[CONTACT US](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/contact.php)  
-[USER AGREEMENT](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/index.php?read=terms.html)  
-[PSX Forum](http://www.compumatrix.biz/forum)  
-[PSX PORTAL](http://www.pointsharextreme.com/)  
+[**SIGN  UP**](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?a=signup)  
+[ABOUT US](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?read=aboutus.html)  
+[FEES](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?read=fees.html)  
+[LINK CODES](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?read=linkcodes.html)  
+[SHOP](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?a=browse)  
+[AFFILIATE PROGRAM](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?read=referrals.html)  
+[FAQs](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/faq.php)  
+[CONTACT US](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/contact.php)  
+[USER AGREEMENT](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/index.php?read=terms.html)  
  |  | **PRIVACY POLICY**  
 ---  
   
@@ -137,7 +135,7 @@ The Privacy Policy below governs your EonPay account and any information you pro
 
 **_E. Accessing and Changing Your Information_**
 
-> You can review the personal information you provided us and make any desired changes to such information, or to the settings for your [ http://www.eonpay.com ](http://www.eonpay.com/) account, at any time by logging in to your account on the [ http://www.eonpay.com ](https://web.archive.org/web/20081217034015id_/http%3A//www.eonpay.com/%3Ca%20class=href%20href=)">[ http://www.eonpay.com ](http://www.eonpay.com/) website and changing your user preferences. You can also close your account through the [ http://www.eonpay.com ](http://www.eonpay.com/) website. If you close your [ http://www.eonpay.com ](http://www.eonpay.com/) account, we will mark your account in our database as “Closed,” but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law. 
+> You can review the personal information you provided us and make any desired changes to such information, or to the settings for your [ http://www.eonpay.com ](http://www.eonpay.com/) account, at any time by logging in to your account on the [ http://www.eonpay.com ](https://web.archive.org/web/20090617185829id_/http%3A//www.eonpay.com/%3Ca%20class=href%20href=)">[ http://www.eonpay.com ](http://www.eonpay.com/) website and changing your user preferences. You can also close your account through the [ http://www.eonpay.com ](http://www.eonpay.com/) website. If you close your [ http://www.eonpay.com ](http://www.eonpay.com/) account, we will mark your account in our database as “Closed,” but will keep your account information in our database. This is necessary in order to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally identifiable information will not be used by us for any further purposes, nor sold or shared with third parties, except as necessary to prevent fraud and assist law enforcement, or as required by law. 
 
 **_F. Contacting Us_**
 
