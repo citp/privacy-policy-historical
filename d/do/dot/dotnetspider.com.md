@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224094150id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051333id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # dotnetspider privacy policy
-
-[](https://web.archive.org/communities/) New Feature: [Community Sites](https://web.archive.org/communities/): Create your own .NET community website and start earning from Google AdSense ! It's Free !
 
 At dotnetspider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting dotnetspider.com, you are accepting this privacy policy and our terms & conditions.
 
