@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050226id_/http%3A//www.instantfundas.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071311id_/http%3A//www.instantfundas.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - instant fundas
 
