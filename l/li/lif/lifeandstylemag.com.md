@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeandstylemag.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820045116id_/http%3A//www.lifeandstylemag.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandstylemag.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061423id_/http%3A//www.lifeandstylemag.com/privacy) for the most accurate reproduction.*
 
-# Life&Style Weekly
+# Privacy Policy - Life and Style
 
 We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read Life & Style's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [contactus@lifeandstylemag.com](mailto:contactus@lifeandstylemag.com). Remember, if you sign up for any of Life & Style's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy. 
 
