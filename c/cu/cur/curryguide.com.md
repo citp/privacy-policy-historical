@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209092116id_/http%3A//www.curryguide.com/curryguide_files/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617023819id_/http%3A//www.curryguide.com%3Fsttname%3Dprivacy_policy) for the most accurate reproduction.*
 
-# CurryGuide: Conditions of Use
+# CurryGuide - Privacy Policy
 
-[Back to **Home**](https://web.archive.org/) | [Help](https://web.archive.org/curryguide_files/the_guide/help/) | [Add a site](https://web.archive.org/curryguide_files/the_guide/help/addlink.html) | [Webmasters](https://web.archive.org/curryguide_files/the_guide/help/webmasters.html) | [CG Circle](https://web.archive.org/curryguide_files/the_guide/help/link.html) | [Our Services](http://services.curryguide.com/)
+| 
 
-**Curry** ** _Guide_** : Our Privacy Policy
+Our Privacy Policy
 
-As a global metasearch engine and web service provider CurryGuide always respects the privacy of all visitors. By using this site you are assumed to be fully agreed to the following conditions:
+CurryGuide is committed to protecting your online privacy while providing you with the most useful and enjoyable web experience possible. You should be able to use our services without giving us any specific information about yourself. When we do need your personal information to provide additional and/or optional services that you request, this policy describes how we collect and use your personal information. CurryGuide firmly respects your right to personal privacy, and we will collect and use information through our web site only in the ways disclosed in this statement. 
 
-**Disclaimer:**
+**Part I: General Overview on Information Collection**
 
-> CurryGuide metasearch and all other services are provided as-is and that accuracy, reliability and timeliness of served materials cannot be guaranteed. 
-> 
->   In no event shall CurryGuide be responsible for any direct or indirect or incidental or punitive damages of any kind resulting from the use of the services provided. You agree to use the service solely at your own risk. 
-> 
->   Sites submitted to CurryGuide are scanned by a automated robot and usually not reviewed by human personnel and therefore CurryGuide shall not be responsible for any errors or omissions or misinterpretations. CurryGuide reserves the Sole Right to modify or delete any such entries without notice.
+For the most part, you will not need to provide any private, personally identifiable information to use CurryGuide. 
 
-**Feedback:**
+In the course of normal operation CurryGuide, like many other popular sites, collect and process a large number of not personally identifiable, information such as traffic patterns, click stream logs, IP addresses, browser type, browser language, and the date and time of your visits. However, we do not correlate this information with data about individual users. This information is used primarily to operate our service, and at times, to monitor, develop and improve our services further. 
 
-> Any personal information submitted to CurryGuide are used for internal purposes ONLY. UNDER NO CIRCUMSTANCES any such information is made public or openly distributed or passed on to a third-party or used for bulk mailing.
+We do track and catalog the search terms that users enter in our Search function, but this tracking is usually not associated with individual users. We use this tracking information to determine and continuously refine the accuracy and relevance of our services as well as to analyze which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you. 
 
-**Promotion and Marketing:**
+**Customer and Visitor Inquiries and Emails**
 
-> Some services may generate promotional banners as part of the served content. During the process of delivering an ad to you, CurryGuide (or an authorized agency/advertiser) **DOES NOT** collect any personally identifiable information about you such as name, address, phone number, or e-mail address. 
-> 
->   CurryGuide or an authorized agency/advertiser may obtain some types of NON-PERSONALLY IDENTIFIABLE information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers ONLY. 
-> 
->   CurryGuide works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+CurryGuide treats any information received through inquiries regarding our products, services or any other matter is treated as confidential and they are strictly used to analyze, understand and act upon it and where appropriate to prepare and send a reply. Under no circumstances CurryGuide discloses this information to any other party with out a genuine and justifiable reason or required to do so by law. 
 
-For further queries about our services, please contact: **service@curryguide.com**
+**Use of Cookies**
 
-**Curry** ** _Guide_** **: Next Generation Metasearch !**
+CurryGuide may set and whenever necessary access its cookies in your computer. CurryGuide may also allow certain third-party, partner sites and advertisers to set cookies as part of the service and analyze traffic and usage patterns to help serve relevant advertisements and similar promotional services. Use of cookies by a third-party service is subject to the privacy policy of the third-party service provider. CurryGuide uses cookies as the basis for a number of personalized and customized features. 
+
+**Use of Beacons**
+
+CurryGuide may use beacons on our web site to analyze our traffic pattern, usefulness and popularity of certain parts of the site. CurryGuide may also use beacons in promotional email messages to determine whether the message was opened and acted on. We may use this information on email response to develop future promotions you may enjoy. 
+
+**Part II: Information Security**
+
+CurryGuide always makes its best efforts to protect any user information with appropriate measures in order to prevent unauthorized access to or unauthorized alteration, disclosure or destruction of data. User information may be used in a strictly limited manner in order to operate, improve or develop our products or services. 
+
+**Part III: Third Party Sites**
+
+We offer links to other Web sites. Please note that third party sites may have privacy standards that differ from ours. We do not control the content on any third party site, and we encourage you to read the privacy policies on third party sites when you click on their links. These other sites may place their own cookies on your computer and/or collect personally identifiable information. 
+
+**Part IV: Changes to this Privacy Policy**
+
+CurryGuide may change or modify its privacy policy from time to time. Any changes or updates to our privacy policy will be posted in this site where they will be clearly stated as such. 
+
+| 
