@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025013id_/http%3A//www.hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191215id_/http%3A//www.hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
 
 # Hosting Controller - Server Control panel - Dedicated Server Control Panel - Hosting Management Solution - Windows Automation tool
 
@@ -18,7 +18,7 @@ Our corporate postal address is:
 >  8721 Santa Monica Boulevard, # 252  
 >  Los Angeles CA 90069-4507  
 >  USA  
->  Our offices can be reached via e-mail at [sales@hostingcontroller.com](mailto:sales@hostingcontroller.com) or via telephone at +1 (213) 341 1419.  
+>  Our offices can be reached via e-mail at [sales@hostingcontroller.com](mailto:sales@hostingcontroller.com) or via telephone at +1 (213) 995-3037.  
   
    
 |  |   
@@ -44,6 +44,6 @@ Persons who supply us with their telephone numbers online may receive telephone 
    
 |  |   
   
-|  [Home](https://web.archive.org/english/index.html) | [HC7 Overview](https://web.archive.org/english/products/Hc7/hosting-panel-overview.html) | [HC7 MS Exchange](https://web.archive.org/english/products/Hc7/Microsoft-Exchange-Mail-Server.html) | [HC7 Features](https://web.archive.org/english/products/Hc7/Features-WebHostDreams.html) | [Privacy Policy](https://web.archive.org/english/abouthc/privacy.html) | [License Agreement](https://web.archive.org/english/AboutHc/EULA.html) | [Site Map](https://web.archive.org/english/control-panel-sitemap.html) | © Hosting Controller 1998 - 2008  
+|  [Home](https://web.archive.org/english/index.html) | [HC8 Overview](https://web.archive.org/english/products/Hc8/web-hosting-control-panel-overview.html) | [HC Enterprise Modules](https://web.archive.org/english/products/Ms-Exchange-Server/Overview-Ms-Exchange-Server-Control-Panel.html) | [HC8 Features](https://web.archive.org/english/products/Hc8/Features-Web-Hosting-Control-Panel.html) | [Privacy Policy](https://web.archive.org/english/abouthc/privacy.html) | [License Agreement](https://web.archive.org/english/AboutHc/EULA.html) | [Site Map](https://web.archive.org/english/control-panel-sitemap.html) | © Hosting Controller 1998 - 2009  
 ---|---  
 Hosting Controller is a product of Advanced Communications - a well known firm that conceives, creates, matures and launches high tech start ups having its head office in Los Angeles, CA, USA. Hosting Controller development was started in 1997. Over ten years of development experience and innovation delivers unmatched functionality, flexible features and robustness user-interface.
