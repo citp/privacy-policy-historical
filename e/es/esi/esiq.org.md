@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esiq.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070256id_/http%3A//www.esiq.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esiq.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193031id_/http%3A//www.esiq.org/privacy.php) for the most accurate reproduction.*
 
 # eSiq Directory- Privacy Policy
 
