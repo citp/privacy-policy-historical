@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122221id_/http%3A//www.thedailymash.co.uk/weekend/ironicbbq/privacy-policy-20070607197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymash.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193436id_/http%3A//www.thedailymash.co.uk/weekend/ironicbbq/privacy-policy-20070607197) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Mash
 
@@ -6,13 +6,13 @@ This is the Privacy Policy which you agree to by using thedailymash.co.uk.
 
 At thedailymash.co.uk we use information collected online to develop and enhance the services we offer to you. We take privacy issues seriously and are open about the way data is collected and used. Please read this policy which outlines the principles we follow. 
 
-We are committed to:
+We are committed to:  
+\- protecting the personal information you give us  
+\- telling you how we use the information we gather from you  
+\- getting your consent to our disclosure of your personal information 
 
-> protecting the personal information you give us
-> 
-> telling you how we use the information we gather from you
-> 
-> getting your consent to our disclosure of your personal information 
+  *   
+
 
 **Why we collect information about you**
 
@@ -69,6 +69,12 @@ thedailymash.co.uk reserves the right to change this Privacy Policy and continue
 **Tell us what you think**
 
 If you have any comments or questions or wish to withdraw your consent please contact us at editor (at) thedailymash.co.uk. 
+
+* * *
+
+  
+  
+
 
 * * *
 
