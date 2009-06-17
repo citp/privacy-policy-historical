@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellmemore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115013id_/http%3A//www.tellmemore.com/about/aboutus/mentions_legales) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellmemore.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040434id_/http%3A//www.tellmemore.com/about/aboutus/mentions_legales) for the most accurate reproduction.*
 
 # Language Learning software - Auralog. The award-winning method to learn and to speak a foreign language. Learn a language with TeLL me More language software
 
