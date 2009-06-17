@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225134431id_/http%3A//www.rohmhaas.com/wcm/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042948id_/http%3A//www.rohmhaas.com/wcm/privacy.page) for the most accurate reproduction.*
 
 # Rohm and Haas Privacy Statement
 
-Rohm and Haas Company Privacy Statement
+Privacy Statement
 
 Rohm and Haas respects the privacy of visitors to our websites.  In order for you to feel comfortable that your privacy will be maintained throughout your visit to our website, and as you do business with our Company on-line, we have organized our sites so that you will not be required to identify yourself or reveal any personal information in order to view our websites.  At times, we may ask you to provide information about yourself or your company in order to better serve you.  If you choose to provide this personally identifiable information, we will use it in accordance with this Statement.  We provide this Privacy Statement to answer some of the questions you may have about the types of information we may collect from our websites and what we may do with that information.  By entering this website, you are consenting to the terms of this Privacy Statement.
 
