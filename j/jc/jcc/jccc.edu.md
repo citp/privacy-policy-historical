@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102639id_/http%3A//www.jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jccc.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193224id_/http%3A//jccc.edu/home/depts/003100/site/website/tocindex/siteprivacy) for the most accurate reproduction.*
 
 # JCCC::Web Site Privacy Policy
 
