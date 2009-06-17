@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171612id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065635id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy : ENN -- Know Your Environment
+# Privacy Policy :
 
 ### Sign Up for Free NewsLetter
 
@@ -18,7 +18,23 @@ ENN uses cookies to help subscribers move faster through the site. Cookies are p
 
 As an example, when a poll is submitted at ENN, a cookie is placed in the client cookie file that says that computer has already taken the poll. If the poll opinion is submitted more than once, the poll software will notice the cookie on the client machine and disregard the second attempt. These cookies expire once the poll has run its course or are no longer needed. 
 
-Additionally: � Cookies are not related to any personal information and are not used to retrieve information from a computer that was not originally contained in a cookie. � Cookies cannot get information from a hard drive against the will of the user, destroy files, send viruses, etc. and cookies can only contain as much information as disclosed to the site that sent it to you. � Some of our cookies are long-term, like those with the ability to remember your username and password, but most of them do expire after a short period of time. � Remember that cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns. � The user can remove any and all cookies from the hard drive any time they wish by searching the system for any files named "cookie.txt" or similar and can be deleted at the users discretion. � Users are advised that if they disable the cookies feature on their computer they may experience trouble navigating through the ENN site. For questions concerning the third party groups used on the ENN site go to: Double Click: http://www.doubleclick.com/us/corporate/privacy/ Entango: http://www.entango.com/about/privacy.html Anyday: http://www.anyday.com/Corporate/privacy_policy.jsp (These third party groups do use cookies, for more information regarding their individual privacy policies please click on the links above.) 
+Additionally:   
+
+
+  * Cookies are not related to any personal information and are not used to retrieve information from a computer that was not originally contained in a cookie.
+  * Cookies cannot get information from a hard drive against the will of the user, destroy files, send viruses, etc. and cookies can only contain as much information as disclosed to the site that sent it to you.
+  * Some of our cookies are long-term, like those with the ability to remember your username and password, but most of them do expire after a short period of time.
+  * Remember that cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns.
+  * The user can remove any and all cookies from the hard drive any time they wish by searching the system for any files named "cookie.txt" or similar and can be deleted at the users discretion.
+  * Users are advised that if they disable the cookies feature on their computer they may experience trouble navigating through the ENN site.
+
+
+
+For questions concerning the third party groups used on the ENN site go to:   
+Double Click: http://www.doubleclick.com/us/corporate/privacy/   
+Entango: http://www.entango.com/about/privacy.html   
+Anyday: http://www.anyday.com/Corporate/privacy_policy.jsp   
+(These third party groups do use cookies, for more information regarding their individual privacy policies please click on the links above.) 
 
 The information given to ENN.com, including, but not limited to, all posted information, all user information submitted to ENN.com, and all user information collected by cookies for the purposes of counting and personalization, remains confidential and password protected in a secure environment. Employees of ENN have individual passwords but not all employees have access to the secure server in which the user information is stored. 
 
