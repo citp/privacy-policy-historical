@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061735id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617185948id_/http%3A//www.endicia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Endicia Privacy Policy
 
@@ -78,6 +78,15 @@ When you provide us with information to access the Endicia Label Server API, we 
     * Your mailing address
     * Various facts about your current needs and solutions.
 The information is used to electronically enter into a Non-Disclosure Agreement between you and Endicia. It is also collected to identify you as an integrator and may be stored to contact you and provide support to your integration. 
+  9. **When You Provide Us with Information on your USPS Rep Portal Account:**
+
+When you provide us with information on your USPS Rep Portal Account, we collect the following information: 
+
+    * Your name 
+    * Your organization name, job title, phone number, and fax number 
+    * Your mailing address
+    * Your physical address
+This information is used to contact you and ship marketing items ordered through this portal. It is also collected to identify you as a United States Postal Service Representative. 
 
 
 
@@ -93,7 +102,7 @@ As a service provider to the US Postal Service, we follow the privacy requiremen
 
 We do not rent, sell, or swap your personal information with anyone for marketing purposes. We only share your information with third parties as follows: 
 
-  1. We share certain information about you with the United States Postal Service in compliance with their regulatory oversight of our postage service. For more information on the USPS privacy policy, please see the [USPS Privacy Policy](http://www.usps.com/ibip/html/privacy.html). 
+  1. We share certain information about you with the United States Postal Service in compliance with their regulatory oversight of our postage service. For more information on the USPS privacy policy, please see the [USPS Privacy Policy](http://www.usps.com/privacyoffice/privacypolicyhighlights.htm). 
   2. We may share your information if it is subpoenaed in legal proceedings, if it is requested by a government agency, if it is needed in an investigation, to protect our rights, property, or safety or the rights, property, or safety of our users or others (e.g., to a consumer reporting agency for fraud protection, etc.), or as required by law. 
   3. We may share part of your information with our affiliates if you signed up with Endicia using one of their affiliate links, or with other Endicia customers if you identified them as a referrer to our service. We will not share any of your personal information with the referrer or affiliate. 
   4. We may provide information to trusted partners or contractors working on our behalf subject to confidentiality agreements that bar their use of this information for their own purposes. 
@@ -130,4 +139,4 @@ Palo Alto, CA 94301-1099
 
 We may, from time to time, update our privacy policy. If we make changes to our privacy policy, the new privacy policy and new effective date will be posted on this Web site. 
 
-(c) 2008 Endicia, A Newell Rubbermaid Company. All rights reserved.
+(c) 2009 Endicia, A Newell Rubbermaid Company. All rights reserved.
