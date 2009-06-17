@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170942id_/http%3A//www.cypress.com/go/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617074746id_/http%3A//www.cypress.com/go/footer/privacypolicy) for the most accurate reproduction.*
 
-# Cypress Home
+# Privacy Policy - Privacy Policy - Cypress Semiconductor
 
-| Cypress Semiconductor Online Privacy Policy  
----  
+   
 Your right to privacy is very important. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information. Below is a summary of Cypress's online privacy policy.  
-  
+   
    
 Personal information we collect  
 In general, when you visit our web sites and access information you remain anonymous. We do require some personal information to enable you to access specialized areas of our site. However, we will not provide any of your personal information to other companies or individuals without your permission. Typically, all that's requested is your name, e-mail address and some basic information about you, such as job function and contact information. There are occasions where we will ask for additional information. We do this to be able to better understand your needs and provide you with services that we believe may be valuable to you. We also give you the opportunity to elect not to receive materials from us. If you sign up for a Cypress electronic newsletter or e-mail list, each message will include instructions on how to "unsubscribe" from that list.  
@@ -25,7 +24,7 @@ Children's privacy
 Cypress does not knowingly collect personally identifiable information from children. If we discover that a child has provided us with any personally identifiable information, we will delete that information from our systems.  
    
 Update the personal information you have provided  
-You can help Cypress maintain the accuracy of your information by notifying us of any changes to your address, title, phone number or e-mail address. You may update your personal registration information [here](http://www.cypress.com/support/mysupport.cfm).  
+You can help Cypress maintain the accuracy of your information by notifying us of any changes to your address, title, phone number or e-mail address. You may update your personal registration information [here](http://www.cypress.com/myaccount/index.cfm?id=9).  
    
 Please be advised  
 We provide links to third party sites. Since we do not control those web sites we are not responsible for the information you might find on them or submit to them. We encourage you to review the privacy policies posted on these third party sites. Please keep in mind that information posted to a Cypress newsgroup / forum / message board is public.  
@@ -33,6 +32,6 @@ We provide links to third party sites. Since we do not control those web sites w
 Questions  
 Cypress welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. 
 
-Questions regarding this statement should be directed to [webmaster@cypress.com](mailto:webmaster@cypress.com?subject=Website%20feeback:%20Privacy).  
-  
- 
+Questions regarding this statement should be directed to 
+
+[Web Customer Care](http://www.cypress.com/webmaster).
