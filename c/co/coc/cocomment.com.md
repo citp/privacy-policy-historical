@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocomment.com privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607141657id_/http%3A//www.cocomment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocomment.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181917id_/http%3A//www.cocomment.com/privacy) for the most accurate reproduction.*
 
 # coComment - Privacy Policy
 
