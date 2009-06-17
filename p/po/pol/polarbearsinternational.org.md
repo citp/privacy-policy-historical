@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217143640id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035113id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
 
 # Polar Bears International - Privacy Policy
 
@@ -7,8 +7,8 @@ Polar Bears International respects your privacy. We do not knowingly or willingl
 Questions and comments regarding site contents may be directed to:
 
 Polar Bears International  
-P.O. Box 66142  
-Baton Rouge, LA 70896
+105 Morris Street, Suite 188  
+Sebastopol, CA 95472
 
 We may be reached via our [contact form](https://web.archive.org/contact/) or by telephone at (225) 923-3114.
 
