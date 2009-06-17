@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101502id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064109id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.*
 
 # Massey University - Privacy Statement
 
@@ -49,14 +49,8 @@ Personal information held by the University is not disclosed to third parties wi
 
 ## Page information
 
-URL:  
-Location:  
-Page authorised by:   
-Last updated:  
-Copyright: 
-
-http://www.massey.ac.nz/?paff85634t  
-Home > About Massey  
-Web Content Manager  
-Thursday 14 Feb 2008  
-Massey University © 1998-2008 
+URL: http://www.massey.ac.nz/?paff85634t  
+Location: Home > About Massey  
+Page authorised by:  Web Content Manager  
+Last updated: Thursday 14 Feb 2008  
+Copyright: Massey University © 1998-2009 
