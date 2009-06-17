@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063508id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617202302id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
 
 # Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!
 
