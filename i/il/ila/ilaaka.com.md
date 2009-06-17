@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilaaka.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217121816id_/http%3A//ilaaka.com/page/59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilaaka.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061427id_/http%3A//ilaaka.com/page/59) for the most accurate reproduction.*
 
 # Privacy Policy | ilaaka.com
 
