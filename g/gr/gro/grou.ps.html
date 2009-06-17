@@ -1,0 +1,1452 @@
+<!--The following is the downloaded HTML source of the grou.ps privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617064036id_/http%3A//company.grou.ps/wiki/21329) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11"><base href="http://grou.ps/">
+<title>GROU.PS - behind the scenes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Free Web Site,Free Forum,Wiki,Online Community,Phpbb,Collectivex,Ning,Free Ning,Kickapps,Grou.ps,">
+<meta name="Description" content="\" ..="" i="" will="" run="" grou.ps="" to="" support="" my="" real="" group="" of="" patients="" and="" doctors="" who="" live="" in="" thessaloniki,="" greece.="" we="" are="" intend="" use="" the="" platform="" while="" four="" our="" start="" insulin="" pump.="" they="" pumping="" tomorrow="" their="" first="" days="" via="" sweet="" edition.\"="" nikos="" filippou="" that\'s="" what="" keep="" us="" running.="" communities="" better="" off="" with="" platform.="" believe,="" now="" it\'s="" time="" for="" social="" leverage="" full="" power="" internet."="">
+<link rel="SHORTCUT ICON" href="images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="templates/tpl/groups2/groups2.css?v1">
+<link rel="stylesheet" type="text/css" href="templates/tpl/popup.css?48">
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> <!-- this should be removed from here -->
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://grou.ps/rss/groudotps/wiki">
+
+<script type="text/javascript" src="http://grou.ps/includes/xm.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/generals.js?14"></script>
+<script type="text/javascript" src="http://grou.ps/includes/groupmode.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/blendtrans.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/ajaxpopup.js?4"></script>
+<script type="text/javascript" src="http://grou.ps/includes/title2note.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/jsval/jsval.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/facebookconnect_g.js?5"></script>
+<script type="text/javascript" src="http://grou.ps/includes/js_lib/scriptaculous-js-1.8.1/lib/prototype.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/js_lib/scriptaculous-js-1.8.1/src/scriptaculous.js?load=effects,dragdrop"></script>
+<!--
+<script type="text/javascript" src="http://grou.ps/includes/scriptaculous/lib/prototype.js"></script>
+<script type="text/javascript" src="http://grou.ps/includes/scriptaculous/src/scriptaculous.js?load=effects,dragdrop"></script>
+--><script language="javascript">
+		// remote scripting library
+		// (c) copyright 2005 modernmethod, inc
+		var sajax_debug_mode = false;
+		var sajax_request_type = "POST";
+		var sajax_target_id = "";
+		window.sajax_debug=function(text) {
+			if (sajax_debug_mode)
+				alert("RSD: " + text)
+		}
+ 		window.sajax_init_object=function() {
+ 			sajax_debug("sajax_init_object() called..")
+ 			var A=null;
+			if(navigator.userAgent.indexOf('IE')>-1 && navigator.userAgent.indexOf('Opera')==-1){
+				try {
+					A=new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (e) {
+					try {
+						A=new ActiveXObject("Microsoft.XMLHTTP");
+					} catch (oc) {
+						XMLHttpRequest=function(){
+							var i=0;
+							var url='';
+							var responseText='';
+							var iframe='';
+							this.onreadystatechange=function(){
+								return false;
+							}
+							this.open=function(method,url){
+								//TODO: POST methods
+								this.i=++kXHR_instances; // id number of this request
+								this.url=url;
+								document.body.appendChild(document.createElement('<iframe id="kXHR_iframe_'+this.i+'" style="display:none" src="/"></iframe>'));
+							}
+							this.send=function(postdata){
+								//TODO: use the postdata
+								document.getElementById('kXHR_iframe_'+this.i).src=this.url;
+								kXHR_objs[this.i]=this;
+								setTimeout('XMLHttpRequest_checkState('+this.i+',2)',2);
+							}
+							return true;
+						}
+						XMLHttpRequest_checkState=function(inst,delay){
+							var el=document.getElementById('kXHR_iframe_'+inst);
+							if(el.readyState=='complete'){
+								var responseText=document.frames['kXHR_iframe_'+inst].document.body.innerText;
+								kXHR_objs[inst].responseText=responseText;
+								kXHR_objs[inst].readyState=4;
+								kXHR_objs[inst].status=200;
+								kXHR_objs[inst].onreadystatechange();
+								el.parentNode.removeChild(el);
+							}else{
+								delay*=1.5;
+								setTimeout('XMLHttpRequest_checkState('+inst+','+delay+')',delay);
+							}
+						}
+					}
+				}
+			}
+			if(!A && typeof XMLHttpRequest != "undefined")
+				A = new XMLHttpRequest();
+			if (!A)
+				sajax_debug("Could not create connection object.");
+			return A;
+		}
+		window.sajax_do_call=function(func_name, args) {
+			var i, x, n;
+			var uri;
+			var post_data;
+			var target_id;
+			
+			sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
+			target_id = sajax_target_id;
+			if (sajax_request_type == "") 
+				sajax_request_type = "GET";
+			
+			uri = function_urls[func_name];
+
+			if (sajax_request_type == "GET") {
+			
+				if (uri.indexOf("?") == -1) 
+					uri += "?rs=" + escape(func_name);
+				else
+					uri += "&rs=" + escape(func_name);
+				uri += "&rst=" + escape(sajax_target_id);
+				uri += "&rsrnd=" + new Date().getTime();
+				
+                var tmpstring = "";
+				for (i = 0; i < args.length-1; i++)  {
+                    tmpstring = new String(args[i]);
+                    // TODO: implement &
+                    //tmpstring = tmpstring.replace(/&/g,"and");
+					uri += "&rsargs[]=" + encodeURIComponent(tmpstring);
+                }
+
+				post_data = null;
+			} 
+			else if (sajax_request_type == "POST") {
+				post_data = "rs=" + escape(func_name);
+				post_data += "&rst=" + escape(sajax_target_id);
+				post_data += "&rsrnd=" + new Date().getTime();
+				
+                var tmpstring = "";
+				for (i = 0; i < args.length-1; i++) {
+                    tmpstring = new String(args[i]);
+                    //tmpstring = tmpstring.replace(/&/g,"and");
+					post_data = post_data + "&rsargs[]=" + encodeURIComponent(tmpstring);
+                }
+			}
+			else {
+				alert("Illegal request type: " + sajax_request_type);
+			}
+			
+			x = sajax_init_object();
+			x.open(sajax_request_type, uri, true);
+			
+			if (sajax_request_type == "POST") {
+				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+			}
+			
+			x.onreadystatechange = function() {
+				if (x.readyState != 4) 
+					return;
+
+				sajax_debug("received " + x.responseText);
+				
+				var status;
+				var data;
+				status = x.responseText.charAt(0);
+				data = x.responseText.substring(2);
+				if (status == "-") 
+					alert("Error: " + data);
+				else {
+					if (target_id != "") 
+						document.getElementById(target_id).innerHTML = eval(data);
+					else {
+						// args[args.length-1](eval(data));
+						try {
+                            var callback;
+                            var extra_data = false;
+                            if (typeof args[args.length-1] == "object") {
+                                callback = args[args.length-1].callback;
+                                extra_data = args[args.length-1].extra_data;
+                            } else {
+                                callback = args[args.length-1];
+                            }
+                            callback(eval(data), extra_data);
+						} catch (e) {
+                            // soyle donduruyor: :var res='1';res;
+                            // iki nokta fazla
+                            data = x.responseText.substring(3);
+			    var tmp__data = data.substring(0,3);
+			    if(tmp__data=='ar ')
+				    data = x.responseText.substring(2);
+                            if(tmp__data==':va')
+                                data = x.responseText.substring(4);
+                            args[args.length-1](eval(data));
+								//sajax_debug("Caught error " + e + ": Could not eval " + data );
+                        }
+                    }
+				}
+				if(!(--active_sajax_requests))window.status='';
+			}
+			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+			window.status='Retrieving data from server : '+uri;
+			active_sajax_requests++;
+			x.send(post_data);
+			sajax_debug(func_name + " waiting..");
+			delete x;
+			return true;
+		}
+		
+	try{
+		if(function_urls)window.blah=1/0;
+	}catch(e){
+		window.function_urls=[];
+		window.kXHR_instances=0;
+		window.kXHR_objs=[];
+		window.active_sajax_requests=0;
+	} 
+		function x_wikiGetContent(){sajax_do_call("wikiGetContent",x_wikiGetContent.arguments);}
+function_urls['wikiGetContent']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiGetDefaultContent(){sajax_do_call("wikiGetDefaultContent",x_wikiGetDefaultContent.arguments);}
+function_urls['wikiGetDefaultContent']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiGetOperations(){sajax_do_call("wikiGetOperations",x_wikiGetOperations.arguments);}
+function_urls['wikiGetOperations']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiGetWikiIndex(){sajax_do_call("wikiGetWikiIndex",x_wikiGetWikiIndex.arguments);}
+function_urls['wikiGetWikiIndex']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiCreatePage(){sajax_do_call("wikiCreatePage",x_wikiCreatePage.arguments);}
+function_urls['wikiCreatePage']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiEditPage(){sajax_do_call("wikiEditPage",x_wikiEditPage.arguments);}
+function_urls['wikiEditPage']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiLockPage(){sajax_do_call("wikiLockPage",x_wikiLockPage.arguments);}
+function_urls['wikiLockPage']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiUnlockPage(){sajax_do_call("wikiUnlockPage",x_wikiUnlockPage.arguments);}
+function_urls['wikiUnlockPage']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiDeletePage(){sajax_do_call("wikiDeletePage",x_wikiDeletePage.arguments);}
+function_urls['wikiDeletePage']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiShowPageRevisions(){sajax_do_call("wikiShowPageRevisions",x_wikiShowPageRevisions.arguments);}
+function_urls['wikiShowPageRevisions']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiRecoverRevision(){sajax_do_call("wikiRecoverRevision",x_wikiRecoverRevision.arguments);}
+function_urls['wikiRecoverRevision']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiSetHome(){sajax_do_call("wikiSetHome",x_wikiSetHome.arguments);}
+function_urls['wikiSetHome']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiSelectTags(){sajax_do_call("wikiSelectTags",x_wikiSelectTags.arguments);}
+function_urls['wikiSelectTags']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiCompare(){sajax_do_call("wikiCompare",x_wikiCompare.arguments);}
+function_urls['wikiCompare']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiAddComment(){sajax_do_call("wikiAddComment",x_wikiAddComment.arguments);}
+function_urls['wikiAddComment']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wikiDeleteComment(){sajax_do_call("wikiDeleteComment",x_wikiDeleteComment.arguments);}
+function_urls['wikiDeleteComment']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_addBlock(){sajax_do_call("wiki_addBlock",x_wiki_addBlock.arguments);}
+function_urls['wiki_addBlock']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_removeBlock(){sajax_do_call("wiki_removeBlock",x_wiki_removeBlock.arguments);}
+function_urls['wiki_removeBlock']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_moveBlockUp(){sajax_do_call("wiki_moveBlockUp",x_wiki_moveBlockUp.arguments);}
+function_urls['wiki_moveBlockUp']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_moveBlockDown(){sajax_do_call("wiki_moveBlockDown",x_wiki_moveBlockDown.arguments);}
+function_urls['wiki_moveBlockDown']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_selectBlock(){sajax_do_call("wiki_selectBlock",x_wiki_selectBlock.arguments);}
+function_urls['wiki_selectBlock']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_editBlock(){sajax_do_call("wiki_editBlock",x_wiki_editBlock.arguments);}
+function_urls['wiki_editBlock']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_addCategory(){sajax_do_call("wiki_addCategory",x_wiki_addCategory.arguments);}
+function_urls['wiki_addCategory']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_selectCategory(){sajax_do_call("wiki_selectCategory",x_wiki_selectCategory.arguments);}
+function_urls['wiki_selectCategory']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_renameCategory(){sajax_do_call("wiki_renameCategory",x_wiki_renameCategory.arguments);}
+function_urls['wiki_renameCategory']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_wiki_deleteCategory(){sajax_do_call("wiki_deleteCategory",x_wiki_deleteCategory.arguments);}
+function_urls['wiki_deleteCategory']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_reportIssue(){sajax_do_call("reportIssue",x_reportIssue.arguments);}
+function_urls['reportIssue']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_deleteAction(){sajax_do_call("deleteAction",x_deleteAction.arguments);}
+function_urls['deleteAction']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_facebookconnect_attach(){sajax_do_call("facebookconnect_attach",x_facebookconnect_attach.arguments);}
+function_urls['facebookconnect_attach']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_facebookconnect_askedEmail(){sajax_do_call("facebookconnect_askedEmail",x_facebookconnect_askedEmail.arguments);}
+function_urls['facebookconnect_askedEmail']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_facebookconnect_asked(){sajax_do_call("facebookconnect_asked",x_facebookconnect_asked.arguments);}
+function_urls['facebookconnect_asked']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_facebookconnect_askedInvitation(){sajax_do_call("facebookconnect_askedInvitation",x_facebookconnect_askedInvitation.arguments);}
+function_urls['facebookconnect_askedInvitation']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_facebookconnect_signup(){sajax_do_call("facebookconnect_signup",x_facebookconnect_signup.arguments);}
+function_urls['facebookconnect_signup']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;function x_pollVote(){sajax_do_call("pollVote",x_pollVote.arguments);}
+function_urls['pollVote']='/groudotps/wiki/21329/';
+sajax_is_loaded=1;
+        
+        
+        function setLinksStyle(ii) {
+         
+            var i = 0;
+            
+            
+            while(xGetElementById('uniqqq_'+i)) {
+             
+                xGetElementById('uniqqq_'+i).style.fontWeight = 'normal';
+                    
+                i++;
+                
+            }
+            
+            if(ii!=-1&&xGetElementById('uniqqq_'+ii))
+                xGetElementById('uniqqq_'+ii).style.fontWeight = 'bold';
+            
+        }
+        
+        
+        // we start by a global variable
+var current_page_id = 28172; // it is always so for index pages
+var im_ok = 0; // keeps track of page decorations
+function redecorate_content(res) {
+	 var success_msg = '';
+	 var s = res.split("<!--split_title-->");
+	 var title = s[0];
+	 var c = s[1];
+	 xGetElementById('block_title_no_2').innerHTML = '<a href="http://grou.ps/groudotps/wiki/'+redecorate_page_id+'">'+title+'</a>';
+	 xGetElementById('block_no_2').innerHTML = c;
+	 im_ok++;
+	 if(im_ok==3) {
+		 close_ajax_popup();
+		 xWinScrollTo(window);
+	 }
+	 else if(im_ok==0) {
+		 success_msg = 'The page has been deleted successfully!';
+		 success_msg += '<br />You are redirected to main page. <a href="javascript:void(close_ajax_popup())">Click</a> to continue.';
+		 xWinScrollTo(window);
+		 popup_ajax(success_msg);
+	 }
+}
+function redecorate_operations(res) {
+	 var success_msg = '';
+	 xGetElementById('block_no_3').innerHTML = res;
+	 if(res=='') xDisplay('top_block_no_3','none'); else xDisplay('top_block_no_3','block');
+	 im_ok++;
+	 if(im_ok==3) {
+		 close_ajax_popup();
+		 xWinScrollTo(window);
+	 }
+	 else if(im_ok==0) {
+		 success_msg = 'The page has been deleted successfully!';
+		 success_msg += '<br />You are redirected to main page. <a href="javascript:void(close_ajax_popup())">Click</a> to continue.';
+		 xWinScrollTo(window);
+		 popup_ajax(success_msg);
+	 }
+}
+var setlinksstyleid = -1;
+function redecorate_wikiIndex(res) {
+	 var success_msg = '';
+	xGetElementById('block_no_1').innerHTML = res;
+	im_ok++;
+	if(im_ok==3) {
+		 close_ajax_popup();
+		 xWinScrollTo(window);
+	 }
+	else if(im_ok==0) {
+		success_msg = 'The page has been deleted successfully!';
+		success_msg += '<br />You are redirected to main page. <a href="javascript:void(close_ajax_popup())">Click</a> to continue.';
+		 xWinScrollTo(window);
+		popup_ajax(success_msg);
+	}
+	 setLinksStyle(setlinksstyleid);
+}
+    	
+        var redecorate_page_id = -1;    
+        function wiki_gopage(id) {
+	 redecorate_page_id = id;
+	im_ok=0;
+	make_busy();
+	x_wikiGetContent(id,redecorate_content);
+	x_wikiGetOperations(id,redecorate_operations);
+	x_wikiGetWikiIndex(id,redecorate_wikiIndex);
+	current_page_id = id;
+	xDisplay('hidden_block_4','none');
+	xDisplay('top_block_no_3','block');
+	xGetElementById('subtitle_info_block_no_2').innerHTML = 'http://grou.ps/groudotps/wiki/'+id;}
+function wiki_godefaultpage() {
+	 setlinksstyleid = -1;
+	im_ok=-3; // clever, right? to prevent unwanted ajax_popup manipulations 
+	x_wikiGetDefaultContent(redecorate_content);
+	x_wikiGetOperations(-1,redecorate_operations); // NO ID
+	x_wikiGetWikiIndex(redecorate_wikiIndex);
+	current_page_id = id;
+	xDisplay('hidden_block_4','none');
+	xDisplay('top_block_no_3','block');
+}
+function redecorate_created_or_edited_page(res) {
+	 var failure_msg = '';
+	 var failure = '';
+	 if(res.substring(0,9)!='failure: ') {
+		 wiki_gopage(/*-1,*/res);
+	  }
+	 else {
+		 failure = res.substring(9);
+		 failure_msg = failure;
+		 failure_msg += '<br /><a href="javascript:void(close_ajax_popup())">Click</a> to try again.';
+		 popup_ajax(failure_msg);
+	 }
+}
+var redecorate_un_locked_page__id;
+function redecorate_un_locked_page(res) {
+	 var failure_msg = '';
+	if(res=='1') { // success
+		x_wikiGetOperations(redecorate_un_locked_page__id,redecorate_operations);
+		close_ajax_popup();
+	}
+	else { //failure
+		failure_msg = res;
+		failure_msg += '<br /><a href="javascript:void(close_ajax_popup())">Click</a> to try again.';
+		popup_ajax(failure_msg);
+	}
+}
+function redecorate_deleted_page(res) {
+	 var failure_msg = '';
+	if(res=='1') {
+		xDisplay('hidden_block_4','none');wiki_godefaultpage();
+	}
+	else {
+		failure_msg = 'An error occured while deleting the page';
+		failure_msg += '<br /><a href="javascript:void(close_ajax_popup())">Click</a> to try again.';
+		popup_ajax(failure_msg);
+	}
+}
+function redecorate_revisions(res) {
+	if(res.substring(0,9)!='failure: ') {
+		 var curcon = xGetElementById('block_no_3').innerHTML;
+		 var curcons = curcon.split('<!--splitme-->');
+		 var pritext = curcons[0];
+		 var newcontent = pritext + res;
+		redecorate_operations(newcontent);
+		close_ajax_popup();
+	}
+	else {
+		var failure = res.substring(9);
+		var failure_msg = failure;
+		failure_msg += '<br /><a href="javascript:void(close_ajax_popup())">Click</a> to try again.';
+		popup_ajax(failure_msg);
+	}
+}
+function redecorate_recovered_revision(res) {
+	if(res!=0) {
+		wiki_gopage(/*-1,*/res);
+	}
+	else {
+		var failure_msg = 'Error';
+		failure_msg += '<br /><a href="javascript:void(close_ajax_popup())">Click</a> to try again.';
+		popup_ajax(failure_msg);
+	}
+}
+function wiki_gocreate() {
+	make_busy();
+	 var title = xGetElementById('wiki_create_title').value;
+	 xGetElementById('wiki_create_title').value = '';
+	 if(title=='') { alert('Title cannot be left empty'); xGetElementById('wiki_create_title').focus(); close_ajax_popup(); return false; }
+	 // safari compatibility
+		 var content =  tinyMCE.activeEditor.getContent();
+		 content = content.replace(/'/g,"\\'");
+		 xGetElementById('wiki_edit_content').value='';
+		 tinyMCE.activeEditor.setContent('');
+	 var tags = xGetElementById('wiki_tags').value;
+	x_wikiCreatePage(title,content,tags,redecorate_created_or_edited_page);
+}
+function wiki_goedit() {
+	make_busy();
+	 // safari compatibility
+		 var content =  tinyMCE.activeEditor.getContent();
+		 content = content.replace(/'/g,"\\'");
+		 var newTags =  xGetElementById('wiki_tags').value;
+	x_wikiEditPage(current_page_id,content,oldTags,newTags,redecorate_created_or_edited_page);
+}
+
+        function wiki_goeditcreate() {
+            var n = xGetElementById('wiki_edit_area_operations_type').value;
+            if(n=='edit')
+                wiki_goedit();
+            else
+                wiki_gocreate();
+        }
+        function wiki_create() {
+	var curcon = xGetElementById('block_no_3').innerHTML;
+	var curcons = curcon.split('<!--splitme-->');
+	var pritext = curcons[0];
+	xGetElementById('wiki_edit_area_operations').innerHTML = pritext;
+	xGetElementById('wiki_edit_area_operations_title').innerHTML = 'Create New Page';
+	xDisplay('wiki_edit_area_operations_title_edit','block');
+	xGetElementById('wiki_edit_area_operations_type').value = 'create';
+	xDisplay('top_block_no_3','none');
+	xDisplay('hidden_block_4','block');
+	 xGetElementById('wiki_create_title').value = '';
+	 xGetElementById('wiki_edit_content').value='';
+	 tinyMCE.activeEditor.setContent('');
+	 tinyMCE.execInstanceCommand('wiki_edit_content','mceFocus'); 
+}
+		
+function wiki_edit2(res) {
+	var id = res[0];
+	var tags = res[1];
+	var curcon = xGetElementById('block_no_3').innerHTML;
+	var curcons = curcon.split('<!--splitme-->');
+	var pritext = curcons[0];
+	var current_text = xGetElementById("wiki_edit_page_content").value;
+	xGetElementById('wiki_edit_area_operations').innerHTML = pritext;
+	xGetElementById('wiki_edit_area_operations_title').innerHTML = 'Edit This Page';
+	xDisplay('wiki_edit_area_operations_title_edit','none');
+	xGetElementById('wiki_edit_area_operations_type').value = 'edit';
+	xGetElementById('wiki_tags').value = tags;
+	oldTags = tags;
+	xDisplay('top_block_no_3','none');
+	xDisplay('hidden_block_4','block');
+	 xGetElementById('wiki_edit_content').value= current_text;
+	 tinyMCE.getInstanceById('wiki_edit_content').setContent(xGetElementById('wiki_edit_content').value);
+	 tinyMCE.execInstanceCommand('wiki_edit_content','mceFocus'); 
+	 close_ajax_popup(); 
+}
+function wiki_lock(id) {
+	make_busy();
+	xDisplay('hidden_block_4','none');
+	xDisplay('top_block_no_3','block');
+	redecorate_un_locked_page__id = id;
+	x_wikiLockPage(id,redecorate_un_locked_page);
+}
+function wiki_unlock(id) {
+	make_busy();
+	xDisplay('hidden_block_4','none');
+	xDisplay('top_block_no_3','block');
+	redecorate_un_locked_page__id = id;
+	x_wikiUnlockPage(id,redecorate_un_locked_page);
+}
+function wiki_delete_forsure(id) {
+	make_busy();
+	x_wikiDeletePage(id,deletePageResult);
+}
+function wiki_delete(id) {
+	 var txt = 'Do you really want to delete this page (with all its revisions)?';
+    		if(confirm(txt)) {
+    		wiki_delete_forsure(id);
+    		}
+        }    function wiki_showrevisions(id) {
+	make_busy();
+	xDisplay('hidden_block_4','none');
+	xDisplay('top_block_no_3','block');
+	x_wikiShowPageRevisions(id,redecorate_revisions);
+}
+    function permalink(id) {
+    	var txt = "<p>Permanent URL of this page is:</p>";    
+    	txt += "<p><a href=\"http://grou.ps/groudotps/wiki/"+id+"\">http://grou.ps/groudotps/wiki/"+id+"</a></p>";   
+    	txt += "<p>will always link to the latest version of this page</p>";   
+    	popup_ajax(txt);
+    }
+    
+    function setHome(id) {
+    	make_busy();
+    	x_wikiSetHome(id,updateOperationsBlock);
+    }
+    
+    function setHomeResult(res) {
+    	if(!res)
+    		popup_ajax('Failure! <a href="javascript:window.location.href=\'http://grou.ps/groudotps/wiki\';">Please try again later...</a>');
+    	else {
+    		xGetElementById('block_no_1').innerHTML = res;
+    	}
+    }
+
+    function showCreatePanel(cat) {
+    	xDisplay('hidden_block_2','block');
+    	xDisplay('top_block_no_1','none');
+    	xDisplay('top_block_no_3','none');
+    	xDisplay('hidden_block_4','none');
+    	xDisplay('hidden_block_5','none');
+    	xDisplay('hidden_block_6','none');
+		
+    	if(cat!=undefined) {
+    		xGetElementById('wiki_cat_option_'+cat).selected = 'selected';
+		}    	
+    }
+    
+    function createNewPage() {
+    	make_busy();
+    	var title = xGetElementById('wiki_create_title').value;
+
+    	if(title=='') {
+    		xGetElementById('title_error').innerHTML = 'Please fill the title field.';
+    		xGetElementById('wiki_create_title').focus();
+    		close_ajax_popup();
+    		return false;
+    	}
+    	
+    	var category = xGetElementById('wiki_create_cat').value;
+    	
+    	var content = '';
+    	content = nicEditors.findEditor('wiki_create_text').getContent();
+    	
+    	if(content=='') {
+    		alert("Empty Content!");
+    		close_ajax_popup();
+    		return false;
+    	}
+
+    	var tags = xGetElementById('wiki_create_tags').value;
+    	
+    	var cnotify = '0';
+    	if(document.getElementById('cnotify')!=undefined&&document.getElementById('cnotify').checked)
+    		cnotify = '1';
+    		
+    	var captcha = xGetElementById('wiki_create_captcha').value;
+    	
+    	x_wikiCreatePage(title,category,content,tags,cnotify,captcha,createNewPageResult);   	
+    }
+    
+    function createNewPageResult(res) {
+    	if(!res[0]) {
+    		xGetElementById('wiki_create_error').innerHTML = '<strong>'+res[1]+'</strong><br /><br />';
+    		close_ajax_popup();
+    	} else {
+    		window.location.href = res[1];
+    	}
+    }
+    
+    var oldTags = '';
+    var currentID = '';
+    
+    function showEditPanel(id) {
+    	currentID = id;
+    	var title = xGetElementById('wiki_edit_page_title').innerHTML;
+    	xGetElementById('wiki_edit_title').value = title;
+   		var content = xGetElementById('wiki_edit_page_content').innerHTML;
+   		nicEditors.findEditor('wiki_edit_text').setContent(content);
+
+    	oldTags = xGetElementById('wiki_edit_page_tags').value;
+    	xGetElementById('wiki_edit_tags').value = oldTags;
+
+    	xDisplay('hidden_block_4','block');
+    	xDisplay('top_block_no_1','none');
+    	xDisplay('top_block_no_3','none');
+    	xDisplay('hidden_block_2','none');
+    	xDisplay('hidden_block_5','none');
+    	xDisplay('hidden_block_6','none');
+    }   
+    
+    function hideEditPanel(id) {
+    	xDisplay('hidden_block_4','none');
+    	xDisplay('top_block_no_1','block');
+    	xDisplay('top_block_no_3','block');
+    	xDisplay('hidden_block_2','none');
+    	xDisplay('hidden_block_5','none');
+    	xDisplay('hidden_block_6','none');
+    }
+    
+    function editPage() {
+    	make_busy();
+    	
+    	var content = '';
+		content = nicEditors.findEditor('wiki_edit_text').getContent();    	
+    	if(content=='') {
+    		alert("Empty Content!");
+    		close_ajax_popup();
+    		return false;
+    	}
+    	
+		var category = xGetElementById('wiki_edit_cat').value;
+		
+		var title = xGetElementById('wiki_edit_title').value;
+    	
+    	var changelog = xGetElementById('wiki_changelog').value;
+    	
+    	var newTags = xGetElementById('wiki_edit_tags').value;
+    	
+    	var enotify = '0';
+    	if(document.getElementById('enotify')!=undefined&&document.getElementById('enotify').checked)
+    		enotify = '1';
+    		
+    	var captcha = xGetElementById('wiki_edit_captcha').value;
+    	
+		x_wikiEditPage(currentID,category,content,changelog,oldTags,newTags,enotify,captcha,title,editPageResult);
+    }
+    
+    function editPageResult(res) {
+    	if(!res[0]) {
+    		alert('An error occured, please try again');
+    		window.location.href = 'http://grou.ps/groudotps/wiki';    		
+    	} else {
+    		window.location.href = res[1];   	
+    	}    		
+    }
+    
+    function lockPage(id) {
+    	make_busy();
+    	x_wikiLockPage(id,updateOperationsBlock2);
+    }
+
+    function unlockPage(id) {
+    	make_busy();
+    	x_wikiUnlockPage(id,updateOperationsBlock);    
+    }
+    
+    function updateOperationsBlock(res) {
+    	if(!res[0]) {
+    		alert('Failure: '+res[1]);
+    	} else {
+    		xGetElementById('block_title_no_1').innerHTML = res[1];
+    		xDisplay('hidden_block_2','none');
+        	xDisplay('hidden_block_4','none');
+	      	xDisplay('top_block_no_1','block');
+	    	xDisplay('top_block_no_3','block');
+    	}
+    	close_ajax_popup();
+    }
+    
+	function updateOperationsBlock2(res) {
+    	if(!res[0]) {
+    		alert('Failure: '+res[1]);
+    	} else {
+    		xGetElementById('block_title_no_1').innerHTML = res[1];
+    		xDisplay('hidden_block_2','none');
+        	xDisplay('hidden_block_4','none');
+	      	xDisplay('top_block_no_1','block');
+	    	xDisplay('top_block_no_3','block');
+    	}
+    	close_ajax_popup();
+    }
+    
+    function getRevisions(id) {
+    	make_busy();
+    	x_wikiShowPageRevisions(id,showRevisions);
+    }
+    
+    function showRevisions(res) {
+    	if(!res[0]) {
+    		alert(res[1]);
+    	} else {
+    		xGetElementById('block_no_5').innerHTML = res[1];
+    		xDisplay('hidden_block_2','none');
+	    	xDisplay('hidden_block_4','none'); 
+    		xDisplay('hidden_block_5','block');
+    		xDisplay('hidden_block_6','none');
+	     	xDisplay('top_block_no_1','none');
+	     	xDisplay('top_block_no_3','none'); 		
+    	}
+    	close_ajax_popup();
+    }
+    
+    function showChangeLogInput() {
+    	xGetElementById('changelog_msg').innerHTML = '';    
+    	xDisplay('changelog_input','block');    
+    }
+    
+    function showCompareBox(id) {
+    	if(xDisplay('wiki_compare_'+id)=='none')
+    		xDisplay('wiki_compare_'+id,'block');
+    	else
+    		xDisplay('wiki_compare_'+id,'none');	
+    }
+    
+    function compare(first,second) {
+    	make_busy();
+    	x_wikiCompare(first,second,compareResult);
+    }
+    
+    function compareResult(res) {
+    	xGetElementById('block_no_6').innerHTML = res; 
+    	xDisplay('hidden_block_6','block');
+    	xDisplay('hidden_block_5','none');
+    	xDisplay('top_block_no_3','none');
+	    xDisplay('hidden_block_4','none');    	
+	    xDisplay('top_block_no_1','none');
+	    xDisplay('hidden_block_2','none');
+    	close_ajax_popup();
+    }
+    
+	function recoverRevision(id) {
+	    make_busy();
+	    x_wikiRecoverRevision(id,recoverRevisionResult);
+    }
+    
+    function recoverRevisionResult(res) {
+    	if(!res) {
+    		alert('Failure! Please try again later...');
+    	} else {
+    		getRevisions(res); 
+    	}
+    }
+    
+	var initial_comment_value = 1;
+    function empty_comment(obj) {
+       	if(initial_comment_value==1) {
+       		obj.value="";
+       		initial_comment_value = 0;	
+	  	}
+    }
+    
+    function addWikiComment(id,formobj) {
+ 		if(!validateCompleteForm(formobj,'error')) return false;
+		var comment = xGetElementById('wiki_comment').value; 
+		if(comment==""||comment==xGetElementById('wiki_comment').defaultValue) {
+			// don't do anything, like facebook
+			// alert("Empty Comment");
+		}
+		else {
+			make_busy();
+			xGetElementById('wiki_comment_submit').disabled = true;
+			x_wikiAddComment(id,comment,addWikiCommentResult);  
+		}
+    }
+    
+    function addWikiCommentResult(res) {
+    	if(!res[0]) {
+    		alert('Failure: '+res[1]);
+    		xGetElementById('wiki_comment_submit').disabled = false;
+    		close_ajax_popup();
+    	} else {
+    		window.location.href = res[1];
+    	}
+    }
+    
+    function deleteWikiComment(id,page_id) {
+		var confirmDelete = confirm('Are you sure you want to delete the comment?');
+		if(confirmDelete) {
+			make_busy();
+			x_wikiDeleteComment(id,page_id,deleteWikiCommentResult);
+		}
+    }
+    
+    function deleteWikiCommentResult(res) {
+    	if(!res[0]) {
+    		alert('Failure: '+res[1]);
+    		close_ajax_popup();
+    	} else {
+    		window.location.href = res[1];
+    	}
+    }
+    
+    function deletePageResult(res) {
+    	if(!res)
+    		alert('Failure! Please try again later.');
+    	window.location.href = 'http://grou.ps/groudotps/wiki';
+    		
+    }
+    
+    
+</script>
+<script type="text/javascript">
+        var GROUPS_XHOST = "http://grou.ps/includes/nicedit/";
+        var GROUPS_GROUPNAME = "groudotps";
+        </script><script src="http://grou.ps/includes/nicedit/nicEdit.js?1" type="text/javascript"></script><link rel="alternate" type="application/rss+xml" title="Grou.p Wiki" href="http://grou.ps/rss/groudotps/wiki">
+</head>
+<body>
+
+
+<div id="bg_differentiation"></div>
+<div id="theCrop"></div>
+<div id="ajax_popup">
+  <div> <b class="popupRounded"> <b class="popupRounded1"><b></b></b> <b class="popupRounded2"><b></b></b> <b class="popupRounded3"></b> <b class="popupRounded4"></b> <b class="popupRounded5"></b></b>
+    <div class="popupRoundedfg"> <a href="javascript:void(close_ajax_popup())" class="closeButton"></a><br>
+      <div id="ajax_popup_content"></div>
+    </div>
+    <b class="popupRounded"> <b class="popupRounded5"></b> <b class="popupRounded4"></b> <b class="popupRounded3"></b> <b class="popupRounded2"><b></b></b> <b class="popupRounded1"><b></b></b></b> </div>
+</div>
+<div id="busy_popup"></div>
+<div id="loader" style="position: fixed; top: 0; right:0; padding: 5px; padding-left:12px; margin: 0; background-color: #FFFF99; display: block;text-align: center; font-weight: bold; font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; visibility:hidden;"><blink>Loading...</blink></div>
+
+
+
+	<table width="100%" style="height: 100%;" cellpedding="0" cellspacing="0" border="0">
+<tbody><tr><td style="height: 100%;" valign="top">
+
+<div id="layout">
+  <div id="header">
+    <div id="infoBar">
+      <div id="myAccount"><a href="http://grou.ps/groudotps/signin">Sign In</a> or <a href="http://grou.ps/groudotps/join">Join</a></div>
+      <div id="topSearch">
+        <div><style type="text/css">
+@media screen and (-webkit-min-device-pixel-ratio:0)
+{
+#topSearch .search_list { margin-top: 1px; }
+}
+</style>
+<!--[if IE]>
+<style type="text/css">
+#topSearch .search_button { margin-top: 1px; border: 0; }
+#topSearch .search_list { vertical-align: top; margin-top: 1px; }
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style type="text/css">
+#topSearch .search_text { height: 20px; }
+</style>
+<![endif]-->
+<script type="text/javascript">
+function entsub(myform) {
+  if (window.event && window.event.keyCode == 13)
+   document.getElementById('search_submit').click();
+  }
+function changeForm(value) {
+    $('search_form_chat').hide();
+    $('search_form_talks').hide();
+    $('search_form_people').hide();
+    $('search_form_blogs').hide();
+     $('search_form_wiki').hide();
+     $('search_form_messages').hide();
+    if($('search_form_select')){
+    	$('search_form_select').hide();
+    }
+    
+    $('search_form_' + value).style.display = "inline";
+
+	document.getElementById('talks_search').value = document.getElementById('srchdhck').value;
+	document.getElementById('psq').value = document.getElementById('srchdhck').value;    
+	document.getElementById('bsq').value = document.getElementById('srchdhck').value;
+	document.getElementById('q').value = document.getElementById('srchdhck').value;
+    document.getElementById('wiki_q').value = document.getElementById('srchdhck').value;
+    document.getElementById('messages_q').value = document.getElementById('srchdhck').value;
+}
+function searchSubmit() {
+	var category = document.search_form.search_where.value;
+	var returnval;
+	if (category != 'select') 
+   		returnval = true;
+	else {
+   		alert("Please select a category to search in");
+   		returnval = false;
+   }
+return returnval;
+}
+</script>
+<form style="display: none;" onsubmit="return searchSubmit()" name="search_form_talks" id="search_form_talks" action="http://grou.ps/groudotps/talks/search" method="POST">
+ <input onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="talks_search" name="talks_search" class="search_text" tabindex="1000">
+ <input type="checkbox" name="talks_search_title" checked="checked" style="display:none;">
+ <input type="checkbox" name="talks_search_text" checked="checked" style="display:none;">
+ <input type="checkbox" name="talks_search_author" checked="checked" style="display:none;">
+    <input type="submit" class="search_button" id="search_submit" name="search_submit" value="search" tabindex="1010">
+</form><form style="display: none;" onsubmit="return searchSubmit()" name="search_form_blogs" id="search_form_blogs" action="http://grou.ps/groudotps/blogs/search" method="POST">
+<input tabindex="1040" onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="bsq" name="bsq" class="search_text">
+    <input tabindex="1050" type="submit" class="search_button" id="search_submit" name="search_submit" value="search">
+</form><form style="display: none;" onsubmit="return searchSubmit()" name="search_form_people" id="search_form_people" action="http://grou.ps/groudotps/people/search" method="POST">
+<input onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="psq" name="psq" class="search_text" tabindex="1020">
+    <input type="submit" tabindex="1030" class="search_button" id="search_submit" name="search_submit" value="search">
+    <input required="0" type="checkbox" id="talks_search_title" name="talks_search_title" style="display: none;" checked="">
+    <input required="0" type="checkbox" id="talks_search_text" name="talks_search_text" checked="" style="display: none;">
+    <input required="0" type="checkbox" id="talks_search_author" name="talks_search_author" checked="" style="display: none;">
+</form><form style="display: none;" onsubmit="return searchSubmit()" name="search_form_chat" id="search_form_chat" action="http://grou.ps/groudotps/chat/search" method="POST">
+<input tabindex="1060" onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="q" name="q" class="search_text">
+    <input tabindex="1070" type="submit" class="search_button" id="search_submit" name="search_submit" value="search">
+</form><form style="display: inline;" onsubmit="return searchSubmit()" name="search_form_wiki" id="search_form_wiki" action="http://grou.ps/groudotps/wiki/search" method="POST">
+<input tabindex="1074" onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="wiki_q" name="q" class="search_text">
+    <input tabindex="1078" type="submit" class="search_button" id="search_submit" name="search_submit" value="search">
+</form><form style="display: none;" onsubmit="return searchSubmit()" name="search_form_messages" id="search_form_messages" action="http://grou.ps/groudotps/settings/search_messages" method="POST">
+<input tabindex="1074" onkeyup="document.getElementById('srchdhck').value = this.value;" onkeypress="entsub()" type="text" id="messages_q" name="q" class="search_text">
+    <input tabindex="1078" type="submit" class="search_button" id="search_submit" name="search_submit" value="search">
+</form><select id="search_where" class="search_list" onchange="changeForm(this.options[this.selectedIndex].value)"><option disabled="disabled" value="select">Select</option><option value="talks">Forums</option><option value="people">Members</option><option value="blogs">Blogs</option><option selected="true" value="wiki">Wiki</option>    <option value="messages">Priv Messages</option>
+        	</select>
+    <input type="hidden" id="srchdhck" name="srchdhck" value=""></div>
+      </div>
+    </div>
+    <div id="h1"> <a href="http://grou.ps/">GROU.PS - behind the scenes</a></div>
+    <div id="h1_sub"><a href="http://grou.ps/">GROU.PS - behind the scenes</a></div>
+        
+    	<div id="menu">
+		<ul id="nav">
+																									<li><a href="http://grou.ps/groudotps/home" thehelp=""><span>Home</span></a></li>
+																																	<li><a href="http://grou.ps/groudotps/join" thehelp="" z=""><span>My Page</span></a></li>
+																																		<li><a href="http://grou.ps/groudotps/blogs" thehelp=""><span>News</span></a></li>
+																																	<li><a href="http://grou.ps/groudotps/talks/c0" thehelp="" z=""><span>Support</span></a></li>
+																																		<li><a href="http://grou.ps/groudotps/people" thehelp=""><span>People</span></a></li>
+																																								<li class="selected"><a href="http://grou.ps/groudotps/wiki" thehelp=""><span>Wiki</span></a></li>
+																																								<li><a href="http://grou.ps/groudotps/files" thehelp=""><span>Files</span></a></li>
+																																	<li><a href="http://grou.ps/groudotps/wiki/20466" thehelp="" z=""><span>Team</span></a></li>
+																											<li><a href="http://grou.ps/groudotps/wiki/20430" thehelp="" z=""><span>Jobs</span></a></li>
+																											<li><a href="http://grou.ps/groudotps/talks/c30722" thehelp="" z=""><span>Destek</span></a></li>
+														</ul><div style="clear:both;"></div>
+	</div>
+     </div>
+  <div style="clear: both;"></div>
+  <div id="content">
+    <div style="clear: both;"></div>
+    <div id="contentCont"> <div class="col_menu">
+<div id="top_block_no_7" thehelp=""><div class="box_mid_ops"><div class="content" id="block_no_7"><div class="menu_list"><a style="background-image: url(http://grou.ps/images/famfamfam/page_white_stack.png)" href="javascript:void(getRevisions(22133))">Show Revisions</a></div></div></div><div class="box_bottom_ops"> </div></div><div id="top_block_no_8" thehelp=""><div class="box"><div class="box_top" id="block_title_no_8">Wiki Index<br></div><div class="box_mid"><div class="content" id="block_no_8"><img src="http://grou.ps/images/famfamfam/folder.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/category/22" title="Legal Stuff"><strong>Legal Stuff</strong></a><br><span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21330">DMCA</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/22133"><b>Privacy Policy</b></a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/119528">Terms of Service</a></span><br>
+<img src="http://grou.ps/images/famfamfam/folder.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/category/23" title="About The Company"><strong>About The Company</strong></a><br><span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21334">Advisors</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/56348">Grou.ps Team</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21343">Innovation</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/22611">Investors</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/22966">Jobs</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21333">Media Kit</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/37437">Network Status</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/23184">Open Source</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/124888">Pics from our Office</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/130398">Pricing</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21342">Sponsorships</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/86183">Technology</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/28172">What is Grou.ps?</a></span><br>
+<img src="http://grou.ps/images/famfamfam/folder.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/category/24" title="Community"><strong>Community</strong></a><br><span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/25447">Changelog</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/120263">Copycat</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/22417">DNS Masking How-to</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/78578">Edit the page in talk module</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/99278">FAQ</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21769">FAQ Photo Guides</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/94128">Feature Requests</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/50363">Known Issues</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/82873">MY dream Features</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/71308">New Features</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21344">Using Google Ads on your Group</a></span><br>
+<img src="http://grou.ps/images/famfamfam/folder.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/category/25" title="Obsolete"><strong>Obsolete</strong></a><br><span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/21345">About Us_Long v</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/69498">File Module Feature Request</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/71298">notify all group members check box in wikis</a></span><br>
+<img src="http://grou.ps/images/famfamfam/folder.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/category/6058" title="Help guides"><strong>Help guides</strong></a><br><span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/83948">Adding a playlist to your grou.ps</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/99268">BBCode Tags</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/83953">Creating a custom theme on your grou.ps site</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/99273">Getting started with HTML</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/98113">How can i add a slideshare presentation and other widgets within the wiki, forum and blog post?</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/86193">How to add photo comments to members pages</a></span><br>
+<span style="padding-left:16px;"><img src="http://grou.ps/images/famfamfam/bullet_orange.png" align="absbottom" width="16" height="16"> <a href="http://grou.ps/groudotps/wiki/86188">Script to put mp3 player in a box</a></span><br>
+</div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="top_block_no_8" thehelp=""><div class="box"><div class="box_top" id="block_title_no_8">Sponsors<br></div><div class="box_mid"><div class="content" id="block_no_8"></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+</div>
+<div class="col_main_in_withmenubar">
+<div id="top_block_no_1" thehelp=""><div class="box"><div class="box_top" id="block_title_no_1">Privacy Policy<br></div><div class="box_mid"><div class="content userdependent" id="block_no_1"><div style="display:none;"><div id="wiki_edit_page_title">Privacy Policy</div><div id="wiki_edit_page_content"><p><strong>Personally
+Identifiable User Information</strong></p>
+<p>Once you register
+with GROU.PS and sign in to the GROU.PS Platform, you are not anonymous to GROU.PS.</p>
+<p>When registering
+on GROU.PS, you provide Personal Data, which includes a GROU.PS ID, a User-
+chosen password, and optionally an email address and a photo. To combat online
+fraud, GROU.PS may also record your IP address when submitting information. In
+addition, if you choose to purchase premium services on GROU.PS, you provide
+necessary information to process your credit card payment, including your
+billing address. When you use the GROU.PS Address Book service, you also
+provide contact information of other people (“Address Book”).</p>
+<p>In an effort to
+support group-specific as well as location-based Social Networks, Networks can
+validate the domain from which your email address originates (e.g., gmail.com
+or hotmail.com).</p>
+<p>To protect your GROU.PS
+ID account information, please keep your password secure.</p>
+<p>You can decline
+to share such Personal Data with us by not registering on GROU.PS. Further, you
+may opt to remove any Personal Data from our active database by contacting GROU.PS
+and canceling your GROU.PS User account.</p>
+<p>GROU.PS does not
+intentionally gather Personal Data about visitors who are under the age of 13.</p>
+<p><strong>Cookies and
+Passive Data Collection</strong></p>
+<p>GROU.PS
+automatically receives and records information on our server logs from your
+browser, including your IP address, GROU.PS cookie information, and the page
+you request.</p>
+<p>Users should be
+aware that other websites visited before entering GROU.PS might place
+personally identifiable information within a User's URL during a visit to their
+website, and GROU.PS has no control over such websites. Accordingly, some of
+this information may be logged by a subsequent website that collects URL
+information.</p>
+<p><strong>Content and Use
+of Networks</strong></p>
+<p>When you post
+Content (or send messages) in any Social Network(s) on the GROU.PS Platform
+that enable direct sharing of information with other Users and visitors, other
+Users and visitors will have access to any Personal%Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Data in such Content. The GROU.PS
+Platform keeps track of Content that you have uploaded to a Social Network on GROU.PS
+as well as the top Users for a Network. Such information, displayed with your GROU.PS
+ID and photo, if you uploaded one, is available to Users and visitors of the GROU.PS
+Platform. In addition, the GROU.PS Platform enables other Users to invite you
+to use Social Networks on GROU.PS.</p>
+<p>Because you may
+voluntarily disclose any Personal Data in these public areas, you should be
+careful about the information you choose to disclose. GROU.PS does not control
+that disclosure, and is not liable in any way for anyone's use or misuse of the
+information in the disclosure. In other words, use caution and judgment here.</p>
+<p><strong>Personally
+Identifiable Information</strong></p>
+<p>We will send you administrative
+messages, and email updates regarding your account, your Social Networks, or
+the GROU.PS Platform. We may also send you notices of new Content that has been
+added to Networks in which you may be interested when you have subscribed to
+such notices. In some cases, we may also send you primarily promotional
+messages. In your account's preferences section, you can choose to opt out of promotional messages
+and new Content notices. You may opt out of receiving administrative messages
+by canceling your GROU.PS User account. We will not use your Address Book
+information for our own purposes.</p>
+<p><strong>Cookies and
+Passive Data Collection</strong></p>
+<p>GROU.PS uses
+cookie, IP address, and URL information to improve the content of the GROU.PS bar,
+the quality of GROU.PS servers, and to provide enhanced features to Users,
+where available. GROU.PS uses cookies to save Users' GROU.PS IDs, session
+validators, and on Users' browsers and hard drives, and may use them to provide
+tailored products and services to those Users, as they become available.</p>
+<p>IP Addresses also
+help us to diagnose problems with our server, to administer the GROU.PS
+Platform, and to otherwise provide the GROU.PS service to its users. IP
+addresses may be disclosed to a third party if we believe in good faith that
+the law or legal process requires it, or to protect the rights or property of GROU.PS,
+its Users or the general public.</p>
+<p><strong>GROU.PS Service
+Providers</strong></p>
+<p>GROU.PS may need
+to provide your Personal Data to third parties to deliver specific services to
+you (such as hosting services, support services, or credit card payment processing).
+These third parties are required not to disclose your Personal Data and not to
+use your Personal Data other than to provide the services requested by GROU.PS.</p>
+<p><strong>Law Enforcement</strong></p>
+<p>GROU.PS may
+disclose Personal Data if required by a subpoena or other judicial or
+administrative order, where required by law, or, at our sole discretion, where
+we deem necessary to protect the safety of any individual or the general public
+or to prevent violation of our Terms of Service or the rights of GROU.PS or any
+third party.</p>
+<p><strong>GROU.PS
+Affiliates</strong></p>
+<p>Although GROU.PS
+currently does not have a parent company, any subsidiaries, joint ventures, or
+other companies under a common control (collectively, “affiliates”), it may in
+the future. GROU.PS may share some of all of your Personal Data with these
+affiliates, in which case we will seek to require our affiliates to honor this
+Privacy Policy.</p>
+<p><strong>Change of
+Ownership</strong></p>
+<p>In the event of a
+change in ownership, or a merger with, acquisition by, or sale of assets to,
+another entity, we reserve the right to transfer all of GROU.PS's User
+information, including email addresses, to a separate entity. GROU.PS will
+notify Users (via a posting on this site or email (in GROU.PS's discretion) of
+such a transfer, and Users may choose to modify their registration information
+at that time. This means if you are concerned about your Personal Data
+migrating to a new owner, you can deactivate your account.</p>
+<p><strong>Security</strong></p>
+<p>GROU.PS uses
+industry standard security measures to protect the loss, misuse and alteration
+of the information under our control. Although we make good faith efforts to
+store the information collected by GROU.PS and Social Networks running on the GROU.PS
+Platform in a secure operating environment that is not available to the public,
+GROU.PS cannot guarantee complete security. Further, while we work hard to
+ensure the integrity and security of our network and systems, we cannot
+guarantee that our security measures will prevent third-party
+"hackers" from illegally obtaining this information. GROU.PS does not
+assume any liability to third parties whose information may be included in your
+Address Book.</p>
+<p><strong>Updating or
+Removing User Information</strong></p>
+<p>Users may, at any
+time, choose to correct or update the information they have submitted to GROU.PS,
+by going to their account. Users may remove their User information from GROU.PS's
+live database by canceling their account. Even if you update or remove your
+information from our live database, however, your Personal Data may be retained
+in our backup files and archives.</p>
+<p>Registered Users
+may remove their User information from GROU.PS by canceling their account.</p>
+<p><strong>No Spam Policy</strong></p>
+<p>Our No Spam
+Policy and Terms of Service prohibit all Users from engaging in any activity
+involving the sending of email in violation of applicable law. Violations of
+these policies may result in immediate termination of service and legal action
+against any spammers.</p>
+<p>Any unauthorized
+use of GROU.PS computer systems is a violation of the Terms of Service and
+certain federal and state laws, including without limitation the Computer Fraud
+and Abuse Act (18 U.S.C. section 1030 et seq.), Section 502 of the California
+Penal Code and Section 17538.45 of the California Business and Professions
+Code. Such violations may subject the sender and his or her agents to civil and
+criminal penalties.</p>
+<p>GROU.PS offers
+email masking and relay when Users choose to communicate with other Users on
+Networks running on the GROU.PS Platform to reduce third party email harvesting
+and spam. We also encourage Users to choose an email address where they will be
+comfortable receiving email responses from other GROU.PS Users if they choose,
+at their sole discretion, to upload a profile or classifieds listings on any
+Social Network running on the GROU.PS Platform.</p>
+<p><strong>International
+Users</strong></p>
+<p>By visiting GROU.PS
+and Social Networks running on the GROU.PS Platform and providing GROU.PS with
+data, you acknowledge and agree that due to the international dimension of GROU.PS
+we may use the data collected in the course of our relationship for the
+purposes identified in this Privacy Policy or in our other communications with
+you, including the transmission of information outside your resident
+jurisdiction. In addition, please understand that such data may be stored on
+servers located in the United States where laws protecting Personal Data may
+not be as stringent as the laws in your jurisdiction. By providing us with your
+data, you consent to the transfer of such data.</p>
+<p><strong>Revisions to This
+Policy</strong></p>
+<p>GROU.PS reserves
+the right to revise, amend, or modify this policy and our other policies and
+agreements at any time and in any manner. Notice of any revision, amendment, or
+modification will be posted on GROU.PS, and a User's continued use of GROU.PS
+will signify agreement to such changes.</p></div><input id="wiki_edit_page_tags" type="hidden" value=""></div><p><strong>Personally
+Identifiable User Information</strong></p>
+<p>Once you register
+with GROU.PS and sign in to the GROU.PS Platform, you are not anonymous to GROU.PS.</p>
+<p>When registering
+on GROU.PS, you provide Personal Data, which includes a GROU.PS ID, a User-
+chosen password, and optionally an email address and a photo. To combat online
+fraud, GROU.PS may also record your IP address when submitting information. In
+addition, if you choose to purchase premium services on GROU.PS, you provide
+necessary information to process your credit card payment, including your
+billing address. When you use the GROU.PS Address Book service, you also
+provide contact information of other people (“Address Book”).</p>
+<p>In an effort to
+support group-specific as well as location-based Social Networks, Networks can
+validate the domain from which your email address originates (e.g., gmail.com
+or hotmail.com).</p>
+<p>To protect your GROU.PS
+ID account information, please keep your password secure.</p>
+<p>You can decline
+to share such Personal Data with us by not registering on GROU.PS. Further, you
+may opt to remove any Personal Data from our active database by contacting GROU.PS
+and canceling your GROU.PS User account.</p>
+<p>GROU.PS does not
+intentionally gather Personal Data about visitors who are under the age of 13.</p>
+<p><strong>Cookies and
+Passive Data Collection</strong></p>
+<p>GROU.PS
+automatically receives and records information on our server logs from your
+browser, including your IP address, GROU.PS cookie information, and the page
+you request.</p>
+<p>Users should be
+aware that other websites visited before entering GROU.PS might place
+personally identifiable information within a User's URL during a visit to their
+website, and GROU.PS has no control over such websites. Accordingly, some of
+this information may be logged by a subsequent website that collects URL
+information.</p>
+<p><strong>Content and Use
+of Networks</strong></p>
+<p>When you post
+Content (or send messages) in any Social Network(s) on the GROU.PS Platform
+that enable direct sharing of information with other Users and visitors, other
+Users and visitors will have access to any Personal%Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Data in such Content. The GROU.PS
+Platform keeps track of Content that you have uploaded to a Social Network on GROU.PS
+as well as the top Users for a Network. Such information, displayed with your GROU.PS
+ID and photo, if you uploaded one, is available to Users and visitors of the GROU.PS
+Platform. In addition, the GROU.PS Platform enables other Users to invite you
+to use Social Networks on GROU.PS.</p>
+<p>Because you may
+voluntarily disclose any Personal Data in these public areas, you should be
+careful about the information you choose to disclose. GROU.PS does not control
+that disclosure, and is not liable in any way for anyone's use or misuse of the
+information in the disclosure. In other words, use caution and judgment here.</p>
+<p><strong>Personally
+Identifiable Information</strong></p>
+<p>We will send you administrative
+messages, and email updates regarding your account, your Social Networks, or
+the GROU.PS Platform. We may also send you notices of new Content that has been
+added to Networks in which you may be interested when you have subscribed to
+such notices. In some cases, we may also send you primarily promotional
+messages. In your account's preferences section, you can choose to opt out of promotional messages
+and new Content notices. You may opt out of receiving administrative messages
+by canceling your GROU.PS User account. We will not use your Address Book
+information for our own purposes.</p>
+<p><strong>Cookies and
+Passive Data Collection</strong></p>
+<p>GROU.PS uses
+cookie, IP address, and URL information to improve the content of the GROU.PS bar,
+the quality of GROU.PS servers, and to provide enhanced features to Users,
+where available. GROU.PS uses cookies to save Users' GROU.PS IDs, session
+validators, and on Users' browsers and hard drives, and may use them to provide
+tailored products and services to those Users, as they become available.</p>
+<p>IP Addresses also
+help us to diagnose problems with our server, to administer the GROU.PS
+Platform, and to otherwise provide the GROU.PS service to its users. IP
+addresses may be disclosed to a third party if we believe in good faith that
+the law or legal process requires it, or to protect the rights or property of GROU.PS,
+its Users or the general public.</p>
+<p><strong>GROU.PS Service
+Providers</strong></p>
+<p>GROU.PS may need
+to provide your Personal Data to third parties to deliver specific services to
+you (such as hosting services, support services, or credit card payment processing).
+These third parties are required not to disclose your Personal Data and not to
+use your Personal Data other than to provide the services requested by GROU.PS.</p>
+<p><strong>Law Enforcement</strong></p>
+<p>GROU.PS may
+disclose Personal Data if required by a subpoena or other judicial or
+administrative order, where required by law, or, at our sole discretion, where
+we deem necessary to protect the safety of any individual or the general public
+or to prevent violation of our Terms of Service or the rights of GROU.PS or any
+third party.</p>
+<p><strong>GROU.PS
+Affiliates</strong></p>
+<p>Although GROU.PS
+currently does not have a parent company, any subsidiaries, joint ventures, or
+other companies under a common control (collectively, “affiliates”), it may in
+the future. GROU.PS may share some of all of your Personal Data with these
+affiliates, in which case we will seek to require our affiliates to honor this
+Privacy Policy.</p>
+<p><strong>Change of
+Ownership</strong></p>
+<p>In the event of a
+change in ownership, or a merger with, acquisition by, or sale of assets to,
+another entity, we reserve the right to transfer all of GROU.PS's User
+information, including email addresses, to a separate entity. GROU.PS will
+notify Users (via a posting on this site or email (in GROU.PS's discretion) of
+such a transfer, and Users may choose to modify their registration information
+at that time. This means if you are concerned about your Personal Data
+migrating to a new owner, you can deactivate your account.</p>
+<p><strong>Security</strong></p>
+<p>GROU.PS uses
+industry standard security measures to protect the loss, misuse and alteration
+of the information under our control. Although we make good faith efforts to
+store the information collected by GROU.PS and Social Networks running on the GROU.PS
+Platform in a secure operating environment that is not available to the public,
+GROU.PS cannot guarantee complete security. Further, while we work hard to
+ensure the integrity and security of our network and systems, we cannot
+guarantee that our security measures will prevent third-party
+"hackers" from illegally obtaining this information. GROU.PS does not
+assume any liability to third parties whose information may be included in your
+Address Book.</p>
+<p><strong>Updating or
+Removing User Information</strong></p>
+<p>Users may, at any
+time, choose to correct or update the information they have submitted to GROU.PS,
+by going to their account. Users may remove their User information from GROU.PS's
+live database by canceling their account. Even if you update or remove your
+information from our live database, however, your Personal Data may be retained
+in our backup files and archives.</p>
+<p>Registered Users
+may remove their User information from GROU.PS by canceling their account.</p>
+<p><strong>No Spam Policy</strong></p>
+<p>Our No Spam
+Policy and Terms of Service prohibit all Users from engaging in any activity
+involving the sending of email in violation of applicable law. Violations of
+these policies may result in immediate termination of service and legal action
+against any spammers.</p>
+<p>Any unauthorized
+use of GROU.PS computer systems is a violation of the Terms of Service and
+certain federal and state laws, including without limitation the Computer Fraud
+and Abuse Act (18 U.S.C. section 1030 et seq.), Section 502 of the California
+Penal Code and Section 17538.45 of the California Business and Professions
+Code. Such violations may subject the sender and his or her agents to civil and
+criminal penalties.</p>
+<p>GROU.PS offers
+email masking and relay when Users choose to communicate with other Users on
+Networks running on the GROU.PS Platform to reduce third party email harvesting
+and spam. We also encourage Users to choose an email address where they will be
+comfortable receiving email responses from other GROU.PS Users if they choose,
+at their sole discretion, to upload a profile or classifieds listings on any
+Social Network running on the GROU.PS Platform.</p>
+<p><strong>International
+Users</strong></p>
+<p>By visiting GROU.PS
+and Social Networks running on the GROU.PS Platform and providing GROU.PS with
+data, you acknowledge and agree that due to the international dimension of GROU.PS
+we may use the data collected in the course of our relationship for the
+purposes identified in this Privacy Policy or in our other communications with
+you, including the transmission of information outside your resident
+jurisdiction. In addition, please understand that such data may be stored on
+servers located in the United States where laws protecting Personal Data may
+not be as stringent as the laws in your jurisdiction. By providing us with your
+data, you consent to the transfer of such data.</p>
+<p><strong>Revisions to This
+Policy</strong></p>
+<p>GROU.PS reserves
+the right to revise, amend, or modify this policy and our other policies and
+agreements at any time and in any manner. Notice of any revision, amendment, or
+modification will be posted on GROU.PS, and a User's continued use of GROU.PS
+will signify agreement to such changes.</p><div style="float:right;width:20%"><!-- AddThis Button BEGIN --><script type="text/javascript">var addthis_pub="49f3d81d45d671bb";</script><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END --></div><br></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="hidden_block_2" style="display:none" thehelp=""><div class="box"><div class="box_top" id="block_title_no_2">Create New Page<br></div><div class="box_mid"><div class="content" id="block_no_2">		<script type="text/javascript">
+		bkLib.onDomLoaded(function() {
+        new nicEditor().panelInstance('wiki_create_text');
+        });
+		</script>    	<form onsubmit="return false;">
+    	<span id="wiki_create_error" style="color: #FF0000;"></span>
+    	<table cellpadding="3" cellspacing="0" border="0" width="98%">
+    	<tbody><tr><td width="40">
+      	<strong>Title:</strong></td><td><input type="text" id="wiki_create_title" maxlength="100" style="width:355px;" onchange="xGetElementById('title_error').innerHTML = ''; return false;"> <small>(max 100 characters)</small> <span id="title_error" style="color: #FF0000;"></span></td></tr>
+		<tr><td colspan="2"><textarea id="wiki_create_text" name="wiki_create_text" style="width: 725px; height: 300px;"></textarea></td></tr>
+		<tr><td width="40"><strong>Category:</strong></td><td><select id="wiki_create_cat"></select></td></tr><tr><td width="80">    	<strong>Tags:</strong></td><td><input type="text" id="wiki_create_tags" style="width:355px;"> <small>(separate by comma, good for search engine optimization)</small></td></tr>
+    	<tr><td colspan="2"><input type="checkbox" id="cnotify" value="1" checked=""> Notify Group Members?</td></tr>
+    	<input type="hidden" id="wiki_create_captcha" size="10" maxlength="6">
+    	<tr><td colspan="2"><input type="button" onclick="createNewPage()" value="Finish!"> <input type="button" onclick="hideEditPanel(-1)" value="Cancel"></td></tr></tbody></table>
+    	</form></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="hidden_block_3" style="display:none" thehelp=""><div class="box"><div class="box_top" id="block_title_no_3">Discussion<br></div><div class="box_mid"><div class="content" id="block_no_3">
+    		<div id="wiki_comment_area" style="text-align:center;">
+			<form style="margin:0">
+			<textarea class="mceNoEditor" required="1" style="width:95%;height:100px;" realname="Comment" onfocus="empty_comment(this)" id="wiki_comment">Be the first to write something about this page...</textarea>
+	        <br><input type="button" id="wiki_comment_submit" value="Post" style="width:95%" onclick="addWikiComment(22133,this.form)">
+	        </form>
+	        </div></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="hidden_block_4" style="display:none" thehelp=""><div class="box"><div class="box_top" id="block_title_no_4">Edit Page<br></div><div class="box_mid"><div class="content" id="block_no_4">		<script type="text/javascript">
+		bkLib.onDomLoaded(function() {
+        new nicEditor().panelInstance('wiki_edit_text');
+        });
+		</script>    	<form onsubmit="return false;">
+    	<span id="wiki_edit_error" style="color: #FF0000;"></span><strong>Category:</strong> &nbsp; <select id="wiki_edit_cat"></select><br><br><input type="hidden" id="wiki_edit_title" value="">      	<textarea id="wiki_edit_text" name="wiki_edit_text" style="width: 725px; height: 320px;"></textarea><br>
+    	<strong>Tags:</strong> &nbsp; <input type="text" id="wiki_edit_tags" style="width:555px;"> <small>(separate each tag with a comma)</small><br><br>
+    	<div id="changelog_msg"><a href="javascript:showChangeLogInput()">Do you want to add a note about your changes?</a></div>
+    	<div id="changelog_input" style="display:none;"><strong>Changes:</strong> &nbsp; <input type="text" id="wiki_changelog" maxlength="140" style="width:400px;"></div><br>
+    	<input type="checkbox" id="enotify" value="1" checked=""> <label for="enotify">Notify Group Members?</label>
+    	<input type="hidden" id="wiki_edit_captcha" size="10" maxlength="6">
+    	<br><br><input type="button" onclick="editPage()" value="Finish!">
+    	<input type="button" onclick="hideEditPanel(22133)" value="Cancel">
+    	</form></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="hidden_block_5" style="display:none" thehelp=""><div class="box"><div class="box_top" id="block_title_no_5">Revisions<br></div><div class="box_mid"><div class="content" id="block_no_5"></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+<div id="hidden_block_6" style="display:none" thehelp=""><div class="box"><div class="box_top" id="block_title_no_6">Compare Result<br></div><div class="box_mid"><div class="content" id="block_no_6"></div></div></div><div class="box_bottom"><span class="box_bottom_right"></span><span class="box_bottom_left"></span></div></div>
+</div>
+
+      <div style="clear:
+both;"></div>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div align="center" style="margin-top: -2px"><img src="http://grou.ps/images/bodybgbottomqd1.gif"></div>
+
+
+</div>
+</td><td></td></tr>
+<tr><td>
+			<div id="footer">
+			   <div class="inner">
+			       <div class="c1">
+			           <ul>
+			               <li><a href="http://grou.ps/groudotps/wiki/20473">About GROU.PS</a></li>
+			               <li><a href="http://grou.ps/groudotps/home">Community</a></li>
+       			           <li><a href="http://grou.ps/groudotps/wiki/20430">Jobs</a></li>
+			               <li><a href="http://grou.ps/create_group_wizard_new.php?step1=custom">Create a group</a></li>
+			           </ul>
+			       </div>
+			   <div class="c2">
+			       <ul>
+			           <li><a href="http://grou.ps/groudotps/talks">Support</a></li>
+			           <li><a href="http://grou.ps/groudotps/wiki/20476">Open Source</a></li>
+			           <li><a href="http://www.openid.org/">OpenID</a></li>
+			           <li><a href="http://www.microformats.org/">Microformats</a></li>
+			       </ul>
+			   </div>
+			   <div class="c3">
+			       <h1>Do something for your community: GROU.PS</h1>
+			       <p>© 2006-2009 All rights reserved.<br><a href="http://grou.ps/groudotps/wiki/21327">Terms of Service</a> - <a href="http://grou.ps/groudotps/wiki/21329">Privacy Policy</a></p>
+			   </div>
+			   <div style="clear: both;"></div>
+			   </div>
+			</div>
+</td><td></td></tr>
+</tbody></table>
+
+
+
+
+
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var firstTracker = _gat._getTracker("UA-3121632-1");
+firstTracker._trackPageview();
+</script>
+
+<script type="text/javascript">
+
+</script>
+</body></html>
