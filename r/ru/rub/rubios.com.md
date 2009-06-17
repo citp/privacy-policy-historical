@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140732id_/http%3A//www.rubios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubios.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181412id_/http%3A//www.rubios.com/privacy) for the most accurate reproduction.*
 
 # Mexican Restaurant | Rubio's | Privacy Policy
 
