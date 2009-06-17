@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missminabbw.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217144446id_/http%3A//www.missminabbw.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missminabbw.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194313id_/http%3A//www.missminabbw.com/privacy.htm) for the most accurate reproduction.*
 
 # MissMinaBBW.com Privacy Policy
 
