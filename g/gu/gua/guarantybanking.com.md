@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094426id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617214104id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
 
 # GuarantyBank | Privacy Policy
 
