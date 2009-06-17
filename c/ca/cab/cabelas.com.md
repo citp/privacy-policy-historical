@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053023id_/http%3A//www.cabelas.com/community-customerservice-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193316id_/http%3A//www.cabelas.com/community-customerservice-privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
@@ -17,16 +17,16 @@ Welcome to the Cabela's Online Store. In order to make you feel comfortable and 
 
 Cabela's privacy/security policy will inform you about:
 
-  * [What personally identifiable information is being collected?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#collect)
-  * [How is the information being used?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#used)
-  * [With whom do we share your information?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#shared)
-  * [How do I access, update, or delete my personally identifiable information?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#changes)
-  * [Information about the CLUB Visa Program](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#club)
-  * [What information will be disclosed if required by law?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#info)
-  * [What personal information is collected in Cabela's Talk Forums and Trophy Rooms?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#community)
-  * [What are cookies and how do we use them?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#cookies)
-  * [What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#choices)
-  * [What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?](http://www.cabelas.com/cabelas/en/templates/community/customerservice/privacy.jsp#secure)
+  * [What personally identifiable information is being collected?](http://www.cabelas.com/#collect)
+  * [How is the information being used?](http://www.cabelas.com/#used)
+  * [With whom do we share your information?](http://www.cabelas.com/#shared)
+  * [How do I access, update, or delete my personally identifiable information?](http://www.cabelas.com/#changes)
+  * [Information about the CLUB Visa Program](http://www.cabelas.com/#club)
+  * [What information will be disclosed if required by law?](http://www.cabelas.com/#info)
+  * [What personal information is collected in Cabela's Talk Forums and Trophy Rooms?](http://www.cabelas.com/#community)
+  * [What are cookies and how do we use them?](http://www.cabelas.com/#cookies)
+  * [What choices are available to you regarding the collection, use and distribution of the information and how you can correct any inaccuracies in information?](http://www.cabelas.com/#choices)
+  * [What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control?](http://www.cabelas.com/#secure)
 
 Privacy
 
