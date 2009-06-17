@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912164417id_/http%3A//www.surfcanyon.com/search/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617221410id_/http%3A//www.surfcanyon.com/privacy.jsp) for the most accurate reproduction.*
 
 # Surf Canyon
 
@@ -24,11 +24,11 @@ Surf Canyon is not directed towards children 13 years of age or under and we do 
 
 ### 1.3 Uses of Information
 
-Surf Canyon uses information for the following general purposes: to customize the search results and sponsored results on selected search engines (currently Google, Yahoo!, MSN and Craigslist), improve our services, and provide anonymous reporting for internal and external clients.
+Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Google, Yahoo!, Bing, Lexis Web and Craigslist), to customize sponsored results (which are always clearly labeled as such) on selected search engines (currently Google and Yahoo!), to improve our services, and to provide anonymous reporting for internal and external clients.
 
 ### 1.4 Profile
 
-We store information that we collect through client-side cookies and server-sode log files to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile in order to provide tailored search results and sponsored results for you. We share your profile with other third parties in aggregate form only.
+We store information that we collect through client-side cookies and server-side log files to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile in order to provide tailored search results and sponsored results for you. We share your profile with other third parties in aggregate form only.
 
 ## 2\. Information Sharing and Disclosure
 
@@ -56,7 +56,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 ### 3.3 Third Party Search Engines
 
-When you execute a query on selected search engines (currently Google, Yahoo and MSN), the Surf Canyon browser extension makes additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
+When you execute a query on selected search engines (currently Google, Yahoo, Bing, Craigslist and Lexis Web), the Surf Canyon browser extension makes additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
 
 ### 3.4 Third Party Advertisers
 
@@ -68,7 +68,7 @@ The security of your personal information is important to us. We follow generall
 
 ### 4.1 Business Transitions
 
-In the event Surf Canyon goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
+In the event Surf Canyon goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 ### 4.2 Changes in this Privacy Statement
 
