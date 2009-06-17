@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumwarz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055350id_/http%3A//forumwarz.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumwarz.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617202227id_/http%3A//www.forumwarz.com/about/privacy) for the most accurate reproduction.*
 
 # Forumwarz- About - Privacy
 
