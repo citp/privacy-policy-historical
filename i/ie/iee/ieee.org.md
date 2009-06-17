@@ -1,6 +1,81 @@
-> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611010123id_/http%3A//www.ieee.org/web/publications/rights/privacy.html%3FWT.mc_id%3Dft_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171744id_/http%3A//www.ieee.org/web/publications/rights/privacy.html%3FWT.mc_id%3Dft_privacy) for the most accurate reproduction.*
 
 # IEEE - About your Security and Privacy
+
+|  | 
+
+[](https://web.archive.org/portal/site/iportals)
+
+The world's leading professional association  
+for the advancement of technology   
+  
+---  
+| 
+
+| 
+
+IEEE Publications Menu  
+  
+---  
+| | 
+
+Publication Types
+
+|   
+---|---|---  
+| | 
+
+Publishing Tools & Services
+
+|   
+---|---|---  
+| | 
+
+Reprints, Rights & Permissions
+
+|   
+---|---|---  
+| | 
+
+Publications Board 
+
+|   
+---|---|---  
+  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+## www.ieee.org Privacy Policy
+
+This security and privacy policy ("Privacy Policy") constitutes a part of the [Terms & Conditions](https://web.archive.org/web/publications/rights/legal.html) ("Terms and Conditions") of the IEEE Web Site, which governs your use of this Site.The Terms and Conditions, including this Privacy Policy, may be amended by the IEEE at any time by posting the amended Terms and Conditions on this Site.The Terms and Conditions were last amended on 21 December 2001. 
+
+In addition to this Privacy Policy, certain IEEE services on or accessible from this Site have Supplemental Terms that will govern your use of such services. These also form a part of the Terms and Conditions and govern your use of such services.  
+
+
+  
+
+
+## Credit Card Transactions
+
+For your protection, we have taken a number of steps to maximize the security of financial transactions that are accepted on the IEEE Web Site. Credit Card processing is accomplished using secure processing services. Your entry of credit card information is encrypted when transmitted in secure mode. If you are behind a firewall, the Secure Socket Layer (SSL) feature of your browser and the processing of the credit card may be blocked. In this case, you have the option of credit card processing without SSL by selecting the "Non-Secure" feature on the screen -- the choice is up to you. 
+
+If for any reason, you still feel uncomfortable submitting your credit card over the Internet, you can mail your form to us.  
+
+
+  
+
+
+## Using Encryption
 
 In certain transactions you are given the option of running in a secure (SSL) mode or unsecure mode. In cases where a firewall is causing a situation that cannot be corrected, the use of the unsecure mode is given. The unsecure mode is used by you at your own risk.
 
@@ -25,3 +100,62 @@ Security identifiers are not disclosed to third parties or affiliated persons or
 
 All IEEE Financial Advantage Program services, except for IEEE Travel Services, are provided by third parties and not by the IEEE. When you provide information about yourself in connection with these services and products, you are providing this information to third party service providers and not to the IEEE.The terms of those products and services and the use of all information provided by you to them in connection with such products and services are governed by the privacy policies and practices of such third party service providers.Information you provide to IEEE Travel Services is provided to travel carriers and service providers in order to fulfill your travel-related requests.Their use of that information is governed by their privacy policies, not the IEEE's.  
 
+
+  
+
+
+## Use of "Cookies"
+
+Cookies are implemented in various parts of the IEEE Site, such as the Electronic Catalog. In most instances, the use of Cookies is discretionary by you, and declining Cookies will usually result only in loss of certain conveniences such as session continuity and re-authentication during current or future sessions. Various types of Persistent and Per-Session (Transient) Cookies may be used with any one service, and their implementations, behaviors, and effects will vary. Most IEEE sites using Cookies have specific statements on their use as part of their Frequently Asked Questions ("FAQ") section. It is the policy of the IEEE that Cookies do not carry any of your personal information (name, email address, credit card, etc.) nor identification/password-type data that allows access to such personal information on IEEE servers. All personal, transaction, and security rights are housed on secure IEEE servers, and follow the policy described in the "Information We Collect From You and How We Use the Information" section above. 
+
+  
+
+
+## General IEEE Web Server Security
+
+All of the IEEE Web servers throughout the main network are registered through Verisign as secure servers using industry-standard certificate techniques. This enables all communication between our servers to be verified when services are requested between our computers. 
+
+All of the personal information collected from you on the Site, including names, addresses, are stored behind a "firewall," and defenses have been erected to seek to enhance the protection of your information from outside attack by hackers and curious visitors.
+
+  
+
+
+## Personal Protection of Your Access Rights and Authentication
+
+There is a common registration process that allows you to receive your "IEEE Web Account." The registration involves the use of your membership number, a registration PIN number, and your subsequent choice of a unique user name and password. See the [IEEE Web Account Site](https://web.archive.org/web/web/accounts/index.html) for more information on this service. 
+
+The user name and password will be used to authenticate you when you enter privileged services that are offered by the IEEE. After authentication, the service being requested will be allowed based on your current status in the IEEE, Societies, or specific electronic services for which you have signed-up.  
+
+
+  
+
+
+## Links to Third Parties
+
+This Site contains links to other sites. The IEEE is not responsible for the terms or privacy practices of such other sites and you should read their terms and privacy policy carefully before using them. 
+
+  
+
+
+## Legal Requests
+
+The IEEE cooperates with law enforcement inquiries, as well as other third parties, to enforce laws. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us, service or content providers we work with, or you to possible legal liability.  
+
+
+  
+
+
+## Questions
+
+|   
+|  |   
+---  
+| 
+
+© Copyright 2009 IEEE – All Rights Reserved.  
+Use of this website signifies your agreement to the Terms of Use.  
+For questions or comments, please contact the [IEEE Webmaster](https://web.archive.org/web/services/general/webmaster.html?WT.mc_id=ft_webmaster).  
+  
+| 
+
+[](https://web.archive.org/portal/site/iportals?WT.mc_id=ft_home)
