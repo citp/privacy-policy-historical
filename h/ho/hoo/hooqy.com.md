@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075518id_/http%3A//www.hooqy.com/online_advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195301id_/http%3A//www.hooqy.com/online_advertising/privacy-policy) for the most accurate reproduction.*
 
 # Online Vertical Marketing Advertising Media - Privacy Policy
 
