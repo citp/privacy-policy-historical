@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224020001id_/http%3A//allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617030212id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,13 +13,13 @@
 We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. These include online ordering, insurance forms, and most contest forms. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of Microsoft Internet Explorer or Firefox or Netscape Communicator. 
 
 **We respect your privacy.**   
-Rest assured, Allegro will never sell any of your personal information to 3rd party marketing organizations. This is true with the information we gather from our web site as well as through confidential medical and insurance records. The information we gather from the e-mail you send us is filed and used for enhancing the features and content of our site, it is not used or shared in any other way. 
+Rest assured, Allegro will never sell any of your personal information to 3rd party marketing organizations. This is true with the information we gather from our web site as well as through confidential medical and insurance records. 
 
 **We use, not abuse, cookies.**   
 AllegroMedical.com uses cookies to enhance your shopping and browsing experience. The text in an Allegro cookie, by itself, only tells us that you have visited our site before. It does not store any personal information such as your e-mail address, street address or phone number. 
 
-**Important Message to All Our Customers effective April 14, 2003**   
-**PRIVACY NOTICE Version 1.0 - April 14, 2003**   
+**Important Message to All Our Customers effective April 2, 2009**   
+**PRIVACY NOTICE Version 1.1 - April 2, 2009**   
 Keeping your personal information confidential is a top priority for all Allegro Medical employees. This Notice, which is required by state and federal law, explains our Privacy Policy. 
 
   1. We will safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers or representatives of our customers share with us. "Nonpublic, personal information," for example, would include such information as your name, address, telephone number, social security number, date of birth, Website usage either online or on applications and other forms, and medical information. We will maintain safeguards, physical and electronic, to protect that information. We will conduct our business in a manner that keeps personal customer information secure. 
@@ -31,9 +31,10 @@ Keeping your personal information confidential is a top priority for all Allegro
   3. It is our policy that only authorized Allegro Medical employees who need to know your personal information will access and use it. Allegro Medical may contact you regarding fund solicitation, sales, or product deliveries. Allegro Medical workers who violate our Privacy Policies are subject to the disciplinary process. 
   4. It is our policy that we will not share personal customer information (either current or former customers), outside Allegro Medical for any purpose other than to facilitate payment for services rendered either to the customers' insurance companies or to collection agencies, unless the disclosure has been authorized by the customer or is permitted or required by law. 
   5. Whenever we retain other organizations to provide support services on behalf of Allegro Medical, we will require them to protect customers' personal information. 
-  6. To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information. 
-  7. When necessary, we will review and revise our Privacy Policies to protect customer information. 
-  8. You can decide if you want to limit how we share personal information about you with unaffiliated third parties. If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211, or 480-990-8881 if you are located in the Phoenix Metro Area. 
-  9. If you feel your privacy rights have been violated, call 1-866-282-0659. 
+  6. All unsolicited suggestions, ideas, information or other submissions that are disclosed or communicated to Allegro Medical through the web site or via email shall become and remain the exclusive property of Allegro Medical.
+  7. To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information. 
+  8. When necessary, we will review and revise our Privacy Policies to protect customer information. 
+  9. You can decide if you want to limit how we share personal information about you with unaffiliated third parties. If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211 , or 480-990-8881 if you are located in the Phoenix Metro Area. 
+  10. If you feel your privacy rights have been violated, call 1-866-282-0659.
 
 
