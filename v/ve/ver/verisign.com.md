@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221105556id_/https%3A//www.verisign.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617165053id_/https%3A//www.verisign.com/privacy/index.html) for the most accurate reproduction.*
 
 # About VeriSign - Privacy Statement from VeriSign, Inc.
 
@@ -145,11 +145,12 @@ VeriSign may also disclose EU Personal Data as necessary in connection with the 
 Questions  
 If you have any questions about this EU Safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that VeriSign may maintain about you, please contact us as follows:
 
-Rebecca Matthias   
-Director, Legal   
+Daniel Blaettler   
+Vice President and Associate General Counsel, Legal Department    
 VeriSign, Inc.   
-487 East Middlefield Road   
-Mountain View, California 94043   
+8, Chemin de Blandonnet   
+Vernier-Geneva CH-1214   
+Switzerland   
 Email:  [ EUsafeharbor@verisign.com](mailto:EUsafeharbor@verisign.com)   
 Telephone:  1-650-426-5555 (specify Safe Harbor)
 
