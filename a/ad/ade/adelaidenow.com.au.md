@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidenow.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611082850id_/http%3A//www.news.com.au/adelaidenow/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidenow.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060250id_/http%3A//www.news.com.au/adelaidenow/privacy) for the most accurate reproduction.*
 
 # AdelaideNow... Privacy Policy
 
