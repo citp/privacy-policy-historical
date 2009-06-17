@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the motorcyclespecs.co.za privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216075647id_/http%3A//www.motorcyclespecs.co.za/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclespecs.co.za privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071449id_/http%3A//www.motorcyclespecs.co.za/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**  Privacy Policy**
-
-Privacy Policy for www.motorcyclespecs.co.za
+**Privacy Policy for www.motorcyclespecs.co.za**
 
 The privacy of our visitors to www.motorcyclespecs.co.za is important to us. 
 
@@ -20,4 +18,8 @@ We also use third party advertisements on  www.motorcyclespecs.co.za to support
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-AdSense Privacy Policy Provided by <a href=”http://www.JenSense.com”>JenSense</a>
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the  [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+
+
