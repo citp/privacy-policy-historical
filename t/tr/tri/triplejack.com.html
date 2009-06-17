@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217132322id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the triplejack.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617173319id_/http%3A//www.triplejack.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<meta name="keywords" content="play poker,online poker,poker,texas hold 'em,texas poker,world series of poker,wsop,play poker online,triplejack,triplejack.com,poker online,play poker for fun, win prizes, tournaments, freeroll, free roll, play for prizes, holdem, omaha, win, prize, cash prize, poker for prizes">
-<meta name="description" content="Play poker, win prizes and have fun at Triplejack. Triplejack is an online poker community with more fun and interactive features than any other poker site. Throw pies at your opponents! Play for free or become a Power Player and get additional features and win great prizes.">
+<meta name="keywords" content="free poker,play poker,online poker,poker,texas hold 'em,texas poker,flash poker game,play poker online,triplejack,triplejack.com,poker online,play poker for fun, win prizes,tournaments,freeroll,free roll,play for prizes,holdem,omaha,win,prize,cash prize,poker for prizes">
+<meta name="description" content="Triplejack is a social, online free poker game community with fun features and a casual gaming atmosphere. Earn achievement medals, join poker clans and create a social network profile! Play for free or get more features and win real prizes as a Power Player.">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="STYLESHEET" type="text/css" href="tj.css">
 <title>Triplejack Poker</title>
@@ -140,59 +140,65 @@ function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
 </script>
 <!--/\-- FLASH PLAYER DETECTION FUNCTIONS -->
 <script type="text/javascript" language="JavaScript" src="http://eas.apm.emediate.eu/EAS_tag.1.0.js"></script>
-<script language="JavaScript1.1" src="tj.js?r=1228777518"></script>
+<script language="JavaScript1.1" src="/tj.js?r=1238990852"></script>
 <script language="JavaScript1.1">
 <!--
 
 
-//--\/-- recent_posts_complete AJAX --
-var http_recent_posts_complete = getHTTPObject();
-function delay_recent_posts_complete(){
-      setTimeout("request_recent_posts_complete()", 309000);
+//--\/-- recent_posts AJAX --
+var http_recent_posts = getHTTPObject();
+function delay_recent_posts(login){
+      setTimeout("request_recent_posts('"+login+"')", 309000);
 }
-function request_recent_posts_complete(){
-      http_recent_posts_complete.open('get', '/recent_posts_complete.php?network_id=1&link_target=');
-      http_recent_posts_complete.onreadystatechange = handle_recent_posts_complete;
-      http_recent_posts_complete.send(null);
-      delay_recent_posts_complete();
+function request_recent_posts(login){
+	if (login==null) login='';
+	var url = 'ajax_recent_posts.php?login='+login+'&link_target=';
+      http_recent_posts.open('get', url);
+      http_recent_posts.onreadystatechange = handle_recent_posts;
+      http_recent_posts.send(null);
+      delay_recent_posts(login);
 }
-function handle_recent_posts_complete(){
-      if(http_recent_posts_complete.readyState == 4){
-            document.getElementById('recent_posts_complete').innerHTML = http_recent_posts_complete.responseText;
+function handle_recent_posts(){
+      if(http_recent_posts.readyState == 4){
+            document.getElementById('recent_posts').innerHTML = http_recent_posts.responseText;
       }
 }
-//--/\-- recent_posts_complete AJAX --
+//--/\-- recent_posts AJAX --
 
 
-//--\/-- high_scores_complete AJAX --
-var http_high_scores_complete = getHTTPObject();
-function delay_high_scores_complete(){
-      setTimeout("request_high_scores_complete()", 300000);
+//--\/-- high_scores AJAX --
+var http_high_scores = getHTTPObject();
+function delay_high_scores(login){
+      setTimeout("request_high_scores('"+login+"')", 300000);
 }
-function request_high_scores_complete(){
-      http_high_scores_complete.open('get', '/high_scores_complete.php?network_id=1&link_target=');
-      http_high_scores_complete.onreadystatechange = handle_high_scores_complete;
-      http_high_scores_complete.send(null);
-      delay_high_scores_complete();
+function request_high_scores(login){
+	if (login==null) login='';
+	var url = 'ajax_high_scores.php?login='+login+'&link_target=';
+      http_high_scores.open('get', url);
+      http_high_scores.onreadystatechange = handle_high_scores;
+      http_high_scores.send(null);
+      delay_high_scores(login);
 }
-function handle_high_scores_complete(){
-      if(http_high_scores_complete.readyState == 4){
-            document.getElementById('high_scores_complete').innerHTML = http_high_scores_complete.responseText;
+function handle_high_scores(){
+      if(http_high_scores.readyState == 4){
+            document.getElementById('high_scores').innerHTML = http_high_scores.responseText;
       }
 }
-//--/\-- high_scores_complete AJAX --
+//--/\-- high_scores AJAX --
 
 
 //--\/-- prizes_won AJAX --
 var http_prizes_won = getHTTPObject();
-function delay_prizes_won(){
-      setTimeout("request_prizes_won()", 604000);
+function delay_prizes_won(login){
+      setTimeout("request_prizes_won('"+login+"')", 604000);
 }
-function request_prizes_won(){
-      http_prizes_won.open('get', '/prizes_won.php?network_id=1&link_target=');
+function request_prizes_won(login){
+	if (login==null) login='';
+	var url = 'ajax_prizes_won.php?login='+login+'&link_target=';
+      http_prizes_won.open('get', url);
       http_prizes_won.onreadystatechange = handle_prizes_won;
       http_prizes_won.send(null);
-      delay_prizes_won();
+      delay_prizes_won(login);
 }
 function handle_prizes_won(){
       if(http_prizes_won.readyState == 4){
@@ -204,14 +210,16 @@ function handle_prizes_won(){
 
 //--\/-- prizes_to_win AJAX --
 var http_prizes_to_win = getHTTPObject();
-function delay_prizes_to_win(){
-      setTimeout("request_prizes_to_win()", 1201000);
+function delay_prizes_to_win(login){
+      setTimeout("request_prizes_to_win('"+login+"')", 1201000);
 }
-function request_prizes_to_win(){
-      http_prizes_to_win.open('get', '/prizes_to_win.php?network_id=1&link_target=');
+function request_prizes_to_win(login){
+	if (login==null) login='';
+	var url = 'ajax_prizes_to_win.php?login='+login+'&link_target=';
+      http_prizes_to_win.open('get', url);
       http_prizes_to_win.onreadystatechange = handle_prizes_to_win;
       http_prizes_to_win.send(null);
-      delay_prizes_to_win();
+      delay_prizes_to_win(login);
 }
 function handle_prizes_to_win(){
       if(http_prizes_to_win.readyState == 4){
@@ -223,14 +231,16 @@ function handle_prizes_to_win(){
 
 //--\/-- server_status AJAX --
 var http_server_status = getHTTPObject();
-function delay_server_status(){
-      setTimeout("request_server_status()", 30000);
+function delay_server_status(login){
+      setTimeout("request_server_status('"+login+"')", 30000);
 }
-function request_server_status(){
-      http_server_status.open('get', '/server_status.php?network_id=1&link_target=');
+function request_server_status(login){
+	if (login==null) login='';
+	var url = 'ajax_server_status.php?login='+login+'&link_target=';
+      http_server_status.open('get', url);
       http_server_status.onreadystatechange = handle_server_status;
       http_server_status.send(null);
-      delay_server_status();
+      delay_server_status(login);
 }
 function handle_server_status(){
       if(http_server_status.readyState == 4){
@@ -242,14 +252,16 @@ function handle_server_status(){
 
 //--\/-- auto_mtts AJAX --
 var http_auto_mtts = getHTTPObject();
-function delay_auto_mtts(){
-      setTimeout("request_auto_mtts()", 245000);
+function delay_auto_mtts(login){
+      setTimeout("request_auto_mtts('"+login+"')", 245000);
 }
-function request_auto_mtts(){
-      http_auto_mtts.open('get', '/auto_mtts.php?network_id=1&link_target=');
+function request_auto_mtts(login){
+	if (login==null) login='';
+	var url = 'ajax_auto_mtts.php?login='+login+'&link_target=';
+      http_auto_mtts.open('get', url);
       http_auto_mtts.onreadystatechange = handle_auto_mtts;
       http_auto_mtts.send(null);
-      delay_auto_mtts();
+      delay_auto_mtts(login);
 }
 function handle_auto_mtts(){
       if(http_auto_mtts.readyState == 4){
@@ -261,14 +273,16 @@ function handle_auto_mtts(){
 
 //--\/-- next_mtt AJAX --
 var http_next_mtt = getHTTPObject();
-function delay_next_mtt(){
-      setTimeout("request_next_mtt()", 245000);
+function delay_next_mtt(login){
+      setTimeout("request_next_mtt('"+login+"')", 245000);
 }
-function request_next_mtt(){
-      http_next_mtt.open('get', '/next_mtt.php?network_id=1&link_target=');
+function request_next_mtt(login){
+	if (login==null) login='';
+	var url = 'ajax_next_mtt.php?login='+login+'&link_target=';
+      http_next_mtt.open('get', url);
       http_next_mtt.onreadystatechange = handle_next_mtt;
       http_next_mtt.send(null);
-      delay_next_mtt();
+      delay_next_mtt(login);
 }
 function handle_next_mtt(){
       if(http_next_mtt.readyState == 4){
@@ -276,27 +290,51 @@ function handle_next_mtt(){
       }
 }
 //--/\-- next_mtt AJAX --
-function start_ajax(){
-      if (document.getElementById('recent_posts_complete')){
-            delay_recent_posts_complete();
+
+
+//--\/-- admin_actions AJAX --
+var http_admin_actions = getHTTPObject();
+function delay_admin_actions(login){
+      setTimeout("request_admin_actions('"+login+"')", 300000);
+}
+function request_admin_actions(login){
+	if (login==null) login='';
+	var url = 'ajax_admin_actions.php?login='+login+'&link_target=';
+      http_admin_actions.open('get', url);
+      http_admin_actions.onreadystatechange = handle_admin_actions;
+      http_admin_actions.send(null);
+      delay_admin_actions(login);
+}
+function handle_admin_actions(){
+      if(http_admin_actions.readyState == 4){
+            document.getElementById('admin_actions').innerHTML = http_admin_actions.responseText;
       }
-      if (document.getElementById('high_scores_complete')){
-            delay_high_scores_complete();
+}
+//--/\-- admin_actions AJAX --
+function start_ajax(){
+      if (document.getElementById('recent_posts')){
+            delay_recent_posts('');
+      }
+      if (document.getElementById('high_scores')){
+            delay_high_scores('');
       }
       if (document.getElementById('prizes_won')){
-            delay_prizes_won();
+            delay_prizes_won('');
       }
       if (document.getElementById('prizes_to_win')){
-            delay_prizes_to_win();
+            delay_prizes_to_win('');
       }
       if (document.getElementById('server_status')){
-            request_server_status();
+            request_server_status('');
       }
       if (document.getElementById('auto_mtts')){
-            delay_auto_mtts();
+            delay_auto_mtts('');
       }
       if (document.getElementById('next_mtt')){
-            delay_next_mtt();
+            delay_next_mtt('');
+      }
+      if (document.getElementById('admin_actions')){
+            delay_admin_actions('');
       }
 }
 //-->
@@ -312,9 +350,20 @@ function start_ajax(){
 
 <table bgcolor="#224466" width="750" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
 
-<table bgcolor="#224466" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td rowspan="2"><a href="./" target="_self"><img width="144" height="48" src="tjtop2-home.gif" border="0" alt="triplejack poker home"></a></td><td><a href="/info/" target="_self"><img width="103" height="24" src="tjtop2-info.gif" border="0" alt="poker info"></a></td><td><a href="register.php" target="_self"><img width="103" height="24" src="tjtop2-register.gif" border="0" alt="register for free"></a></td><td><a href="prizes.php" target="_self"><img width="103" height="24" src="tjtop2-prizes.gif" border="0" alt="poker prizes"></a></td><td background="tjtop2-blank.gif"></td><td rowspan="2"><img width="234" height="48" src="tj-tons-of-fun.gif" alt="No Deposit. No Entry Fees. Just Tons of Fun!"></td></tr><tr><td><a href="/forum/" target="_blank"><img width="103" height="24" src="tjtop2-forum.gif" border="0" alt="poker forum"></a></td><td><a href="/profile.php" target="_self"><img width="103" height="24" src="tjtop2-players.gif" border="0" alt="poker player profiles"></a></td><td><a href="lounges.php" target="_self"><img width="103" height="24" src="tjtop2-lounges.gif" border="0" alt="poker private games"></a></td><td background="tjtop2-blank.gif"></td><td></td></tr></tbody></table>
+<center>
+<style type="text/css">
+a.reflect{
+	font-size:11px;
+}
+</style>
+<table bgcolor="#224466" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a href="./"><img border="0" alt="Triplejack Poker" src="tjtop3-title.gif"></a></td></tr><tr><td align="center" style="background-image:url(tjtop3-reflect.jpg); background-repeat:no-repeat; background-position:top center;"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img class="pngfix" src="/tjtop3-menuleft.png"></td><td valign="middle" align="center" class="pngfix" style="font-size:11px; background-image:url(/tjtop3-menubg.png); background-repeat:repeat-x; white-space:nowrap;"><a class="reflect" href="./">Home</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/info/">Game Info</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="register.php">Register Free</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="/forum/">Forum</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="profile.php">Community</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="prizes.php">Prizes</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a class="reflect" href="contact.php">Contact</a></td><td valign="top"><img class="pngfix" src="/tjtop3-menuright.png"></td></tr></tbody></table></td></tr></tbody></table>
+
+
+</center>
+
+
 </td></tr>
-<tr><td><img width="750" height="1" src="blank.gif"></td></tr></tbody></table>
+</tbody></table>
 
 </td></tr></tbody></table>
 
@@ -341,6 +390,7 @@ function start_ajax(){
 <td><img width="2" height="1" src="tj-blank.gif"></td><td>
 <!--/\-- client-specific -->
 <h1>&nbsp;&nbsp;&nbsp; Triplejack Privacy Policy</h1><hr><!-----\/----- INSERT PAGE CONTENT HERE ----->
+
 
 <table cellpadding="8" class="bodytext"><tbody><tr><td>
 <div class="Section1">
@@ -441,7 +491,7 @@ what circumstances we disclose it.</span> </p>
 <tbody><tr><td align="right"><span class="sm"><font color="#99CCFF">
 <span class="taillink"><a href="terms.php" target="_self">Terms &amp; Conditions</a></span>&nbsp;&nbsp;&nbsp;
 <span class="taillink"><a href="privacy.php" target="_self">Privacy Policy</a></span>&nbsp;&nbsp;&nbsp;
-©2008 Triplejack, LLC. All Rights Reserved.</font></span>
+©2009 Triplejack, LLC. All Rights Reserved.</font></span>
 </td></tr></tbody></table>
 
 </center></td></tr></tbody></table>
