@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015532id_/http%3A//www.globalshareware.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045426id_/http%3A//www.globalshareware.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # GlobalShareware.com - Privacy Policy
 
