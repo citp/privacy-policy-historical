@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094011id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617220706id_/http%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - track-trace
 
@@ -10,7 +10,9 @@ Webfokus is the sole owner of the information collected on this site. We will no
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies are used to store information entered by the users so that they do not have to reenter this information on their next visit. Cookies can be disabled in most browsers preferences. If a user rejects the cookie our site may still be used, the drawback to this is that the user will have to retype information on every visit to our site.
 
-Some of our business partners use cookies on our site (for example, advertisers), however we have no access to or control over these cookies. For more information read the privacy statement of our main advertisers [Google](http://www.google.com/privacy_ads.html), [contextWeb](http://www.contextweb.com/ppolicy.html), [ValueClick Media](http://valueclickmedia.com/webuser_privacy.shtml) and [Advertising.com](http://www.advertising.com/privacy_policy.php).
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, read the privacy policies of [Google](http://www.google.com/privacy_ads.html), [ContextWeb](http://www.contextweb.com/ppolicy.html), [ValueClick Media](http://valueclickmedia.com/webuser_privacy.shtml) and [Redux media](http://www.reduxmedia.com/comp_privacy.htm).
 
 **Log files**
 
