@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaica-gleaner.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217014949id_/http%3A//www.jamaica-gleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaica-gleaner.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045304id_/http%3A//www.jamaica-gleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
 
 # Jamaica Gleaner
 
