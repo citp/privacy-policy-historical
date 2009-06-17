@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the animeseed.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217070813id_/http%3A//animeseed.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animeseed.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617191449id_/http%3A//animeseed.com/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 	<title>Privacy Policy | AnimeSeed.Com</title>
@@ -15,6 +15,8 @@
 	<script type="text/javascript" src="http://animeseed.com/lib/jquery.js"></script>
 	<script type="text/javascript" src="http://animeseed.com/lib/jqueryui.js"></script>
 	<script type="text/javascript" src="http://animeseed.com/lib/menu.js"></script>
+	<script type="text/javascript" src="http://animeseed.com/lib/autosuggest.js"></script>
+	<script type="text/javascript" src="http://animeseed.com/lib/Roar.js"></script>
 	<script type="text/javascript">
 		window.addEvent('domready', function(){
 			/* Tips 1 */
@@ -24,19 +26,6 @@
 
 		title = "AnimeSeed - The Seed of Anime Streaming";
 		url = "http://animeseed.com";
-		function bookmark(){
-			if (window.sidebar)
-				window.sidebar.addPanel(title, url, "");
-			else if(window.opera && window.print){
-				var elem = document.createElement('a');
-				elem.setAttribute('href',url);
-				elem.setAttribute('title',title);
-				elem.setAttribute('rel','sidebar');
-				elem.click();
-			}
-			else if(document.all)// ie
-				window.external.AddFavorite(url, title);
-		}
 
 		function clickclear(thisfield, defaulttext) {
 			if (thisfield.value == defaulttext) {
@@ -85,7 +74,7 @@
 <div id="outer">
 
 <div id="head">
-	<form id="searchform" name="g_search" method="GET" action="http://animeseed.com/index.php/search-results/" onsubmit="if(document.g_search.s_text.value.length >= 3){ return true; }else{ alert('Sorry, search string must be at least 3 characters long.'); return false; };">
+	<form id="searchform" name="g_search" method="get" action="http://animeseed.com/index.php/search-results/" onsubmit="if(document.g_search.s_text.value.length >= 3){ return true; }else{ alert('Sorry, search string must be at least 3 characters long.'); return false; };">
 <input type="text" name="s_text" id="search" size="20" value="Search..." onclick="clickclear(this,'Search...')" onblur="clickrecall(this,'Search...')">
 <input type="hidden" name="global_search" value="Search">
 <input type="image" src="http://animeseed.com/images/blank.gif" id="find" value="Search">
@@ -110,12 +99,17 @@
 
 
 
-		<form action="http://forums.animeseed.com/login2/" method="post" accept-charset="UTF-8">
-					<input type="text" id="username" name="user" size="9" value="Username" onclick="clickclear(this,'Username')" onblur="clickrecall(this,'Username')">
-					<input type="password" name="passwrd" id="password" size="9" value="Password" onclick="clickclear(this,'Password')" onblur="clickrecall(this,'Password')">
-					<input type="hidden" name="cookielength" value="-1"><input type="hidden" name="redirect" value="http://animeseed.com/index.php/privacy-policy">
+		<form action="http://forums.animeseed.com/login.php" method="post" onsubmit="md5hash(vb_login_password,vb_login_md5password,vb_login_md5password_utf)">
+					<script type="text/javascript" src="http://forums.animeseed.com/clientscript/vbulletin_md5.js"></script>
+					<input type="text" id="username" name="vb_login_username" size="9" value="Username" onfocus="clickclear(this,'Username')" onblur="clickrecall(this,'Username')">
+					<input type="password" name="vb_login_password" id="password" size="9" value="Password" onfocus="clickclear(this,'Password')" onblur="clickrecall(this,'Password')">
+					<input type="hidden" name="cookieuser" value="1">
+					<input type="hidden" name="s" value="">
+					<input type="hidden" name="do" value="login">
+					<input type="hidden" name="vb_login_md5password">
+					<input type="hidden" name="vb_login_md5password_utf">
 					<input type="image" src="http://animeseed.com/images/blank.gif" value="login" id="login">
-					<input type="image" src="http://animeseed.com/images/blank.gif" value="register" id="register" onclick="window.location = 'http://forums.animeseed.com/register/'; return false;">
+					<input type="image" src="http://animeseed.com/images/blank.gif" value="register" id="register" onclick="window.location = 'http://forums.animeseed.com/register.php'; return false;">
 		</form></div>
 
 <div id="main">
@@ -126,14 +120,15 @@
 
 <ul style="display: block; visibility: hidden; z-index: 1000;">
 
-<li class="item"><a href="http://animeseed.com/index.php/about">About</a></li>
-<li class="item"><a href="http://animeseed.com/index.php/anime-radio-playlist">Radio</a></li>
+<li class="item"><a href="http://forums.animeseed.com/f11/animeseed-open-recruitment-t1622/">Apply!</a></li>
+<li class="item"><a href="http://animeseed.com/index.php/about">About Us</a></li>
+<li class="item"><a href="http://radio.animeseed.com/">Radio</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/anime-stats">Stats</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/irc-chat">IRC Chat</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/donations">Donations</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/link-to-us">Link to Us</a></li>
 <li class="item"><a href="http://steamcommunity.com/groups/animeseed" target="_BLANK">Join Steam Group!</a></li>
-<li class="item"><a href="http://forums.animeseed.com/animeseed-news/ventrilo-server" target="_BLANK">Voice Chat</a></li>
+<li class="item"><a href="http://forums.animeseed.com/f11/animeseed-toolbar-and-updates-t1689/" target="_BLANK">Toolbar</a></li>
 
 </ul>
 </li>
@@ -151,6 +146,7 @@
 <li class="item"><a href="http://otaku.animeseed.com/" target="_BLANK" style="font-weight: bold;">Reviews</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/anime-glossary">Glossary</a></li>
 <li class="item"><a href="http://animeseed.com/index.php/favorites">Favorites</a></li>
+<li class="item"><a href="http://animeseed.com/index.php/top-rated-anime">Top 50</a></li>
 
 </ul>
 </li>
@@ -170,17 +166,16 @@
 <ul style="display: block; visibility: hidden;">
 
 <li class="item"><a href="http://forums.animeseed.com/">Home</a></li>
-<li class="item"><a href="http://forums.animeseed.com/register/">Register</a></li><li class="item"><a href="http://forums.animeseed.com/login/">Login</a></li><li class="item"><a href="http://forums.animeseed.com/shop/">Shop</a></li>
-
+<li class="item"><a href="http://forums.animeseed.com/register.php">Register</a></li><li class="item"><a href="http://animeseed.com/forums/index.php">Login</a></li>
 </ul>
 </li>
 
-<li class="link5"><a href="http://animeseed.com/index.php/gallery?nsb=1"><img src="http://animeseed.com/images/blank.gif" width="74" height="24" border="0" alt=""></a>
+<li class="link5"><a href="http://forums.animeseed.com/gallery/index.php"><img src="http://animeseed.com/images/blank.gif" width="74" height="24" border="0" alt=""></a>
 
 <ul style="display: block; visibility: hidden;">
 
-<li class="item"><a href="http://animeseed.com/index.php/gallery?nsb=1">Home</a></li>
-<li class="item"><a href="http://animeseed.com/index.php/gallery?nsb=1&amp;cat=10">Wallpapers</a></li>
+<li class="item"><a href="http://forums.animeseed.com/gallery/index.php">Home</a></li>
+<li class="item"><a href="http://forums.animeseed.com/gallery/index.php?c=9">Wallpapers</a></li>
 
 </ul>
 
@@ -231,52 +226,20 @@
 
 	<div id="sidebar">
 
-
-
-<div class="news-container">
-	
-				<div class="news-title">1 Year Anniversary and new design
-				<span class="news-sub">December 05, 2008, 06:09 pm by <a href="http://forums.animeseed.com/profile/Riotblade/">Riotblade</a></span></div>
-
-				<div class="news-content">Tomorrow is going to be AnimeSeed's official 1 year anniversary.&nbsp; It's hard to imagine that it has already been one year since yC and I were busy with our noggins trying to figure out what type of site AnimeSeed would be.&nbsp; One year later and we've grown into a fairly large community with many helpfu...</div>
-				<table width="100%" border="0">
-				<tbody><tr><td width="70%" align="left"><a href="http://forums.animeseed.com/animeseed-news/1-year-anniversary-and-new-design/">(Click here to read more)</a></td><td width="30%" align="right"><a href="http://forums.animeseed.com/animeseed-news/1-year-anniversary-and-new-design/">26 comments</a></td></tr>
-				</tbody></table>	<div class="ranking-title"><center>Previous Headlines</center></div>
-	
-		<table border="0" class="ssi_table">
-			<tbody><tr>
-				<td valign="top" class="sidebar-sub" width="80%">
-					<div class="ranking-sub-a">
-					<a class="Tips1" title="1 Year Anniversary and ne...::Tomorrow is going to be AnimeSeed's official 1 year anniversary.&nbsp; It's hard to imagine that it has already been one year since y..." href="http://forums.animeseed.com/animeseed-news/1-year-anniversary-and-new-design/msg21414/?topicseen#new">1 Year Anniversary and new design</a>
-					</div>
-				</td>
-				<td valign="top" class="ranking-sub" width="20%">
-				<a href="http://forums.animeseed.com/profile/Riotblade/">Riotblade</a>
-				</td>
-			</tr>
-			<tr>
-				<td valign="top" class="sidebar-sub" width="80%">
-					<div class="ranking-sub-a">
-					<a class="Tips1" title="AnimeSeed wants you!::Thanks to all those who've applied!Applications are now closed.&nbsp; The AS staff will carefully go over each one and let the public..." href="http://forums.animeseed.com/animeseed-news/animeseed-wants-you!/msg20147/?topicseen#new">AnimeSeed wants you!</a>
-					</div>
-				</td>
-				<td valign="top" class="ranking-sub" width="20%">
-				<a href="http://forums.animeseed.com/profile/Riotblade/">Riotblade</a>
-				</td>
-			</tr>
-			<tr>
-				<td valign="top" class="sidebar-sub" width="80%">
-					<div class="ranking-sub-a">
-					<a class="Tips1" title="Minor Updates and Fixes::I would like to take this moment to give various updates regarding this site:As you know, many of our videos are hosted on Megav..." href="http://forums.animeseed.com/animeseed-news/minor-updates-and-fixes/msg19353/?topicseen#new">Minor Updates and Fixes</a>
-					</div>
-				</td>
-				<td valign="top" class="ranking-sub" width="20%">
-				<a href="http://forums.animeseed.com/profile/Riotblade/">Riotblade</a>
-				</td>
-			</tr>
-		</tbody></table></div>
+<table border="0" width="100%">
+<tbody><tr>
+<td class="ranking-title" colspan="2">Latest Anime Added</td>
+</tr>
+<tr>
+<td class="ranking" colspan="2">
+<table border="0" width="100%"><tbody><tr><td width="70%" class="ranking-sub"><div class="ranking-sub-a"><a href="http://animeseed.com/index.php/site-content/anime-pages/detective-conan/?p=240" title="watch streaming of Detective Conan">Detective Conan</a> (539)</div></td><td width="30%" align="right" class="ranking-sub">2009-06-16</td></tr><tr><td width="70%" class="ranking-sub"><div class="ranking-sub-a"><a href="http://animeseed.com/index.php/site-content/anime-pages/fuyu-no-semi/?p=824" title="watch streaming of Fuyu no Semi">Fuyu no Semi</a> (3)</div></td><td width="30%" align="right" class="ranking-sub">2009-06-13</td></tr><tr><td width="70%" class="ranking-sub"><div class="ranking-sub-a"><a href="http://animeseed.com/index.php/site-content/anime-pages/wicked-city/?p=823" title="watch streaming of Wicked City">Wicked City</a> (1)</div></td><td width="30%" align="right" class="ranking-sub">2009-06-13</td></tr><tr><td width="70%" class="ranking-sub"><div class="ranking-sub-a"><a href="http://animeseed.com/index.php/site-content/anime-pages/new-fist-of-the-north-star/?p=822" title="watch streaming of New Fist of the North Star">New Fist of the North Star</a> (3)</div></td><td width="30%" align="right" class="ranking-sub">2009-06-12</td></tr><tr><td width="70%" class="ranking-sub"><div class="ranking-sub-a"><a href="http://animeseed.com/index.php/site-content/anime-pages/fist-of-the-north-star-2/?p=821" title="watch streaming of Fist of the North Star 2">Fist of the North Star 2</a> (43)</div></td><td width="30%" align="right" class="ranking-sub">2009-06-12</td></tr></tbody></table></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="ranking"><object width="308" height="330" id="obj_1241226233877"><param name="movie" value="http://animeseed.chatango.com/group"><param name="wmode" value="transparent"><param name="AllowScriptAccess" value="always"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="true"><param name="flashvars" value="cid=1241226233877&amp;b=60&amp;f=50&amp;l=999999&amp;q=999999&amp;r=100&amp;s=1&amp;t=0&amp;v=0"><embed id="emb_1241226233877" src="http://animeseed.chatango.com/group" width="308" height="330" wmode="transparent" allowscriptaccess="always" allownetworking="all" type="application/x-shockwave-flash" allowfullscreen="true" flashvars="cid=1241226233877&amp;b=60&amp;f=50&amp;l=999999&amp;q=999999&amp;r=100&amp;s=1&amp;t=0&amp;v=0"></object></td>
+</tr>
+</tbody></table>
 <br>
-
 <table width="100%">
 <tbody><tr>
 <td class="ranking-title">Active Topics</td>
@@ -284,57 +247,30 @@
 <tr>
 <td class="ranking">
 <div class="sidebar-sub">
-		Total Members: <a href="http://forums.animeseed.com/mlist/">4468</a><br>
-		Total Posts: 21595<br>
-		Total Topics: 1529<br>
-		Latest Member: <a href="http://forums.animeseed.com/profile/AnimeLoverQueen/">AnimeLoverQueen</a></div>
-		<table border="0" class="ssi_table">
-			<tbody><tr>
-				<td valign="top" width="310" class="sidebar-sub">
-					<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="What music do you listen ...::I listen to mainly the radio but sometimes look some songs up on youtube and play em' over and over again. Lol." href="http://forums.animeseed.com/manga-chat/what-music-do-you-listen-to-while-reading-manga/msg21998/?topicseen#new">What music do you listen to while reading Manga?</a></font></div>
-				</td>
+		Total Members: <a href="http://forums.animeseed.com/memberlist.php">10302</a><br>
+		Total Posts: 37,098<br>
+		Total Topics: 2,256<br>
+		Latest Member: <a href="http://forums.animeseed.com/members.php?u=10303">anggay</a></div>
+			<table border="0" class="ssi_table">
+				<tbody><tr>
+					<td valign="top" width="310" class="sidebar-sub">
+						<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="Count to 1,000,000::2564" href="http://forums.animeseed.com/showthread.php?t=216&amp;goto=newpost">Count to 1,000,000</a></font></div>
+					</td>
 
-			</tr>
-			<tr>
-				<td valign="top" width="310" class="sidebar-sub">
-					<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="Kenshin: God or Overrated...::Quote from: iluvbacon610 on August 08, 2008, 12:27 amI think he is beastly. What do you think?Fo sure' hes the beastliest of the..." href="http://forums.animeseed.com/anime-chat/kenshin-god-or-overrated/msg21997/?topicseen#new">Kenshin: God or Overrated?</a></font></div>
-				</td>
+				</tr>
+				<tr>
+					<td valign="top" width="310" class="sidebar-sub">
+						<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="How to Draw &quot;Anime s::sweet, ive been looking at quite a lot of these kinds of guides lately. thanks for posting this =)" href="http://forums.animeseed.com/showthread.php?t=2285&amp;goto=newpost">How to Draw "Anime style" Characters</a></font></div>
+					</td>
 
-			</tr>
-			<tr>
-				<td valign="top" width="310" class="sidebar-sub">
-					<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="What anime got you into w...::Dragonball Z Cheeyeahh... Lol" href="http://forums.animeseed.com/anime-chat/what-anime-got-you-into-watching-anime/msg21996/?topicseen#new">What anime got you into watching anime?</a></font></div>
-				</td>
+				</tr>
+				<tr>
+					<td valign="top" width="310" class="sidebar-sub">
+						<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="Count to 1,000,000::2563" href="http://forums.animeseed.com/showthread.php?t=216&amp;goto=newpost">Count to 1,000,000</a></font></div>
+					</td>
 
-			</tr>
-			<tr>
-				<td valign="top" width="310" class="sidebar-sub">
-					<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="Things You Do While Watch...::Umm, chatting I guess.." href="http://forums.animeseed.com/anime-chat/things-you-do-while-watching-anime/msg21995/?topicseen#new">Things You Do While Watching Anime</a></font></div>
-				</td>
-
-			</tr>
-			<tr>
-				<td valign="top" width="310" class="sidebar-sub">
-					<div class="ranking-sub-a"><font size="1"><a class="Tips1" title="What would be the best wa...::Quote from: SinX on December 01, 2008, 03:39 amU could always either use Paint or Photoshop or GIMPU can always erase pixel by p..." href="http://forums.animeseed.com/graphics/what-would-be-the-best-way-to-color-this/msg21994/?topicseen#new">What would be the best way to color this?</a></font></div>
-				</td>
-
-			</tr>
-		</tbody></table></td>
-</tr>
-<tr><td>&nbsp;</td></tr>
-<tr>
-<td class="ranking-title">Radio</td>
-</tr>
-<tr>
-<td class="ranking"><div id="radios"></div></td>
-</tr>
-<tr><td>&nbsp;</td></tr>
-<tr>
-<td class="ranking-title">Chatango <a href="" onclick="switchMenu('chatango','chatbutton'); return false;" border="0"><img src="http://animeseed.com/animeseed/images/collapse.gif" id="chatbutton" border="0" style="position: relative; top: 3px;"></a></td>
-</tr>
-<tr>
-<td><div id="chatango">
-<object width="322" height="360" id="obj_1229137422185"><param name="movie" value="http://animeseed.chatango.com/group"><param name="wmode" value="transparent"><param name="AllowScriptAccess" value="always"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="true"><param name="flashvars" value="cid=1229137422185&amp;a=E6E6E6&amp;b=51&amp;f=98&amp;c=D81531&amp;d=D81531&amp;h=F5F5F5&amp;k=000000&amp;l=2A2A2A&amp;n=D81531&amp;q=D0D0D0&amp;r=100&amp;s=1&amp;t=0&amp;v=0"><embed id="emb_1229137422185" src="http://animeseed.chatango.com/group" width="322" height="360" wmode="transparent" allowscriptaccess="always" allownetworking="all" type="application/x-shockwave-flash" allowfullscreen="true" flashvars="cid=1229137422185&amp;a=E6E6E6&amp;b=100&amp;c=D81531&amp;d=D81531&amp;f=68&amp;h=F5F5F5&amp;k=000000&amp;l=2A2A2A&amp;n=D81531&amp;q=D0D0D0&amp;r=100&amp;s=1&amp;t=0&amp;v=0"></object></div></td>
+				</tr>
+			</tbody></table></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
@@ -343,8 +279,13 @@
 <tr>
 <td>
 <center>
+
 <!-- BEGIN TAG - 300x250 - animeseed.com - DO NOT MODIFY -->
 <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://optimizedby.rmxads.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=289455"></iframe>
+<!-- END TAG -->
+<br>
+<!-- BEGIN STANDARD TAG - 300 x 250 - AnimeSeed: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://ad.reduxmedia.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=592218"></iframe>
 <!-- END TAG -->
 </center>
 </td>
@@ -356,23 +297,43 @@
 <tr>
 <td>
 <center>
+<marquee>
 <!-- Topsite Buttons Start-->
 <a href="http://www.anachrony.net/"><img src="http://www.anachrony.net/button.php?u=ASeed" alt="Anachrony :: Top Anime Sites" border="0" width="81" height="31"></a>
 <a href="http://www.animetoplist.org/" target="_blank"><img src="http://www.animetoplist.org/button.php?u=ASeed" alt="" border="0"></a>
-<a href="http://anime.itopsites.com/" target="_blank"><img src="http://anime.itopsites.com/button.php?id=131883" alt="The Anime Toplist - The anime Topsite" border="0" width="81" height="31"></a>
-<a href="http://www.anime100.com/cgi-bin/rank/rankem.cgi?id=ASeed" target="_blank"><img src="http://www.animeseed.com/images/topsites/anime100.gif" border="0" width="81" height="31"></a>
-<a href="http://www.animerankings.com/"><img src="http://www.animerankings.com/button.php?u=aseed" alt="Anime Rankings Topsite - Best Anime Sites" border="0" width="81" height="31"></a><br>
+<a href="http://www.animerankings.com/"><img src="http://www.animerankings.com/button.php?u=aseed" alt="Anime Rankings Topsite - Best Anime Sites" border="0" width="81" height="31"></a>
+<a href="http://tikis.dtiltas.lt/topsite/index.php?id=5677" target="_blank"><img src="http://tikis.dtiltas.lt/topsite/img.php?id=5677" border="0" width="81" height="31"></a>
+<a href="http://acidpixels.com/top/"><img src="http://i199.photobucket.com/albums/aa271/aetopsite/kh.gif" alt="Anime Extra Topsites" border="0" width="81" height="31"></a>
+<a href="http://www.anime100.eu/"><img src="http://www.anime100.eu/button.php?u=aseed2008" alt="Anime100.eu - European Topsite Ranking" border="0" width="81" height="31"></a>
 <!-- Topsite Buttons END -->
+</marquee>
+<br>
 </center>
 </td>
 </tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="ranking-title">Affiliates</td>
+</tr>
+<tr><td><center>
+<marquee>
+<a href="http://animerender.com" target="_BLANK"><img src="http://animeseed.com/images/aff/animerender.gif" border="0"></a>&nbsp;
+<a href="http://ftp-anime.com" target="_BLANK"><img src="http://animeseed.com/images/aff/ftpanime.jpg" border="0"></a>&nbsp;
+<a href="http://baka-images.com" target="_BLANK"><img src="http://animeseed.com/images/aff/baka-images.png" border="0" width="90" height="35"></a>
+<a href="http://animecomments.net" target="_BLANK"><img src="http://animeseed.com/images/aff/animecomment.gif" border="0"></a>
+<a href="http://ratemyserver.net" target="_BLANK"><img src="http://animeseed.com/images/aff/ratemyserver.jpg" border="0" width="90" height="35"></a>
+<a href="http://myanigamer.com" target="_BLANK"><img src="http://animeseed.com/images/aff/myanigamer.jpg" border="0"></a>
+<a href="http://www.say-anime.com/" target="_BLANK"><img src="http://animeseed.com/images/aff/sayanime.jpg" border="0" width="90" height="35"></a>
+<a href="http://www.konoha-village.com/" target="_BLANK"><img src="http://animeseed.com/images/aff/konoha.gif" border="0" width="90" height="35" alt="Konoha Village"></a>
+<br>
+</marquee></center></td></tr>
+
+
 </tbody></table>
 
 </div>
 </div> <!-- End content-container -->
 <div id="foot">
-
-<div id="copy"><a href="http://bytira.net" target="_blank"><img src="images/blank.gif" width="117" height="57" border="0" alt=""></a></div>
 
 <div id="foot-content">
 
@@ -380,7 +341,7 @@
 
 <br>
 
-AnimeSeed ©2007-2008 All images used on the site are property of the original authors.
+AnimeSeed ©2007-2009 All images used on the site are property of the original authors.
 
 </div>
 
@@ -396,6 +357,15 @@ AnimeSeed ©2007-2008 All images used on the site are property of the original a
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">_uacct = "UA-259609-16"; urchinTracker();</script>
+
+<script type="text/javascript">
+		/*Auto Suggest*/
+		var options = {
+			script: "http://animeseed.com/autosuggest.php?",
+			varname: "input",
+		};
+		var as = new bsn.AutoSuggest('search', options);
+</script>
 
 
 </body></html>
