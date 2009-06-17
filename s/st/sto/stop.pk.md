@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217233757id_/http%3A//stop.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stop.pk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194140id_/http%3A//stop.pk/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY » Extremely Addictive Internet Lifestyle for Pakistanis
 
@@ -40,6 +40,3 @@ Any unauthorized modification, tampering or change of any information, or any in
 We reserve the right to modify the content of this website in any way, at any time, and for any reason without prior notification, and will not be liable in any way for possible consequences of such changes.
 
 Stop.pk reserves all legal rights and remedies available.
-
-  
-
