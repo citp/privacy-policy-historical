@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notepad.in privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050828id_/http%3A//www.notepad.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notepad.in privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060737id_/http%3A//www.notepad.in/privacy.php) for the most accurate reproduction.*
 
 # Notepad-Article Directory
 
