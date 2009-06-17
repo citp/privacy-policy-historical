@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205555id_/http%3A//national.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061339id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
 
 # NAB - National Australia Bank Privacy Policy
 
@@ -40,7 +40,7 @@ In line with modern business practices common to many financial institutions and
 
 ### The relevant organisations are those
 
-  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders [mortgage](https://web.archive.org/wps/wcm/connect/nab/nab/home/about_us/10/1/) insurers and our advisers
+  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders [mortgage](https://web.archive.org/wps/wcm/connect/nab/nab/home/about_us/10/1) insurers and our advisers
   * which are Group organisations who wish to tell you about their products or services that might better serve your financial, e-commerce and lifestyle needs or promotions or other opportunities, and their related service providers, except where you tell us not to
   * who are your financial advisers and their service providers
   * involved in maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems
@@ -157,7 +157,7 @@ If I start but do not submit an on-line application, the Bank may contact me/us 
 
 For more information about our Privacy Policy, please call 13 22 65 and select the option to speak to a Customer Service Representative.
 
-Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/wps/wcm/connect/cb8566804bc60d03978f972345045098/Personal_Information_Request_For_Access.pdf?MOD=AJPERES&CACHEID=cb8566804bc60d03978f972345045098 "request for access – personal information form \(PDF, 229K, opens in new window\)").
+Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/wps/wcm/connect/cb8566804bc60d03978f972345045098/Personal_Information_Request_for_Access.pdf?MOD=AJPERES&CACHEID=cb8566804bc60d03978f972345045098 "request for access – personal information form \(PDF, 229K, opens in new window\)").
 
 Hearing impaired customers with telephone typewriters can contact us on 13 36 77
 
