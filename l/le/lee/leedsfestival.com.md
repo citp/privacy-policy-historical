@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164151id_/http%3A//leedsfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171922id_/http%3A//www.leedsfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Leeds Festival :: Privacy Policy
+# Leeds 2009 Festival :: Privacy Policy
+
+## Privacy
 
 The websites [www.leedsfestival.com](http://www.leedsfestival.com/) (“the Website”) are owned and operated by Festival Republic Music Group Ltd ("we"/"us"/"our"), company number 02948536.  
 **  
