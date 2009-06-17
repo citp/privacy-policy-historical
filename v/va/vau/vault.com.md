@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132645id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617025113id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Vault, Inc: Privacy Policy
 
