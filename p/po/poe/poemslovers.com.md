@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064603id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060714id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PoemsLovers.com
 
@@ -32,4 +32,4 @@ This web site contains links to other sites. Please be aware that we are not res
 If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: [info@poemslovers.com](mailto:info@poemslovers.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: [Contact Us](http://www.poemslovers.com/contact_us.html)
