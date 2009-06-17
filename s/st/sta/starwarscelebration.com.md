@@ -1,142 +1,197 @@
-> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621161834id_/http%3A//www.wizards.com/company/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034441id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
 
-# WIZARDS WEB SITE PRIVACY STATEMENT
+# StarWars.com | Privacy Policy
 
-_Last modified June 30, 2002_
+**Lucas Online** **WELCOME!**
 
-### WELCOME! 
+We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. 
 
-The Wizards of the Coast Web site brings you the coolest information about the world of Wizards and provides a first hand look at our games. If you are a parent or guardian and are interested in knowing more about Wizard’s policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below. 
+KIDS: Please check with your parents before entering any information on this or any other Web site. See our **"SPECIAL NOTE TO KIDS"** below. 
 
-Wizards respects the privacy rights of its online visitors and is committed to providing you with a secure online environment. We have adopted an Online Privacy Policy ("Privacy Policy") that guides how we collect, store and use the information you provide us online. 
+**PARENTS:**
 
-### What information does Wizards collect? 
+We are committed to protecting children's privacy. We developed this Web site to be an enjoyable experience for customers of all ages, including kids under 13. We recognize that some younger children may not understand some of the information contained on this Web site or how this Web site operates. PLEASE BE SURE TO CAUTION YOUR CHILD UNDER 13 AGAINST PROVIDING PERSONALLY IDENTIFIABLE INFORMATION ONLINE PRIOR TO THE WEB SITE OPERATOR OBTAINING YOUR CONSENT. It is our policy not to knowingly collect personally identifiable information from children under 13 without a parent's or guardian's permission. See our "SPECIAL NOTE TO PARENTS OF KIDS UNDER 13" below. 
 
-Wizards wants to give you the most exciting Internet experience possible. To help us figure out what you like and don't like about our sites, we may ask for your opinion from time to time. Wizards may request and/or collect information from you on a voluntary basis when you:
+Please discuss this Privacy Policy with your children so that they will better understand how to use this Web site and the information they may be asked to provide. We strongly believe that providing our visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the Web site, as well as protecting our users' privacy. 
 
-  * sign up for Wizards.Community
-  * shop at one of our affiliate online stores 
-  * participate in contests, events or promotions
-  * send questions or comments via e-mail to Wizards customer support
-  * submit your resume to us online
-  * fill out online surveys
+**WHAT INFORMATION DO WE COLLECT?**
 
+Generally, we limit the collection of information to what is known as non-personally identifiable information (e.g., first name, age, state or country). We also collect certain types of personal information such as an email address. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], saving game designs and scores, participating in our question polls). 
 
+We have many Web sites that contain different activities for you and your family. Some sites are informational only and some collect your personally identifiable information so that you may participate in different activities. The following sites allow children to register following the receipt of parental consent: www.starwars.com and lucasarts.com. 
 
-The requested information may include personal information such as your name, e-mail address, telephone number, and home address. In addition, we may request demographic information such as your age, the gender and birth dates of children in your household, and toy and game ownership and preferences.
+In addition, our www.starwars.com site includes a paid membership section, Hyperspace membership, which collects additional personally identifiable information which is not collected for free memberships. Free membership registration requires only the collection of your full name, e-mail address and the creation of a screen name. Hyperspace membership requires the collection of your mailing address and credit/debit card information required for purchasing the membership. Hyperspace members have the ability to participate in activities which free members cannot access, such as special forum participation. 
 
-If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities. Kids, if you are ever unsure about anything you are seeing on this site, ask your parent or guardian for help. See Note To Parents below for more information. 
+In some areas on our Web sites additional personally identifiable information is asked for and collected (for example, full name, mailing address and phone number). This collection is necessary so that our visitors can participate in certain activities, such as online sweepstakes or online promotions. You may not be able to access those areas or participate in such activities without being registered or giving us the necessary personally identifiable information. Whenever we request that you submit such personally identifiable information, we will notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT WE ARE PROHIBITED FROM CONDITIONING A CHILD'S PARTICIPATION IN AN ACTIVITY ON THE CHILD'S DISCLOSING MORE PERSONAL INFORMATION THAN IS REASONABLY NECESSARY TO PARTICIPATE IN THAT ACTIVITY. YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE TO PROVIDE PERSONAL INFORMATION THAT IS REASONABLY NECESSARY TO PARTICIPATE IN CERTAIN ACTIVITIES, YOU MAY NOT BE ABLE TO PARTICIPATE IN THOSE ACTIVITIES AT THIS WEB SITE. 
 
-  * **WIZARDS.COMmunity Chat, Bulletin Boards, and Mailing Lists**  
-Since Wizards' free interactive community activities are moderated, registered members under 13 years of age may participate in such activities upon registration, unless their parent or guardian asks that their registration be disallowed. Personal information of registered users is not accessible by the public unless the member adds it to his or her User Information or is disclosed by the user themselves in a public post. 
-  * **Online Stores**  
-Visitors purchasing goods and services through one of our affiliate online store will need to provide a valid credit card number and expiration date, in addition to name, mailing address,phone number and e-mail address. 
-  * **Promotions  
-** To participate in some of our promotions, you may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. Please do not use your real name for these promotions. For other Wizards promotions, we may request your name and home address in order to send you products or information by regular mail.
-  * **E-mail**  
-By allowing you to send e-mail to us, we are not attempting to collect any personal information about you. We will only use personal information (such as name, mailing address and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your e-mail for a period of time, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.  
-By allowing you to send postcards or pages to friends, we are not attempting to collect any personal information about you or the person you are e-mailing. We will use the personal information supplied (such as name and e-mail address) only to send the postcard or page as you request and allow the recipient to respond to you. 
-  * **Resumes**  
-Some of our sites allow for the online submission of resumes. Personal information collected from resumes will be used solely for the purpose of accepting and evaluating candidate submissions for job postings. This information may be shared within Wizards.
-  * **Online Surveys**  
-In order to improve the user experience at our Web sites, we may employ online surveys for visitors to volunteer anonymous demographic information about themselves and provide us feedback about why they visit our sites and what we can do to make them better. Information collected through these surveys is anonymous; we cannot identify who is submitting the information or tie it to other personally identifiable information a user may have provided us through another means.
+The types of information collected at this Web site may include: 
+
+  * Contact information, such as full name, e-mail address and mailing address. 
+  * Financial information and/or Credit/Debit Card data (for, by way of example, online store purchase information or for Hyperspace membership). Personal identifiers, such as screen names and passwords. 
+  * Demographic information, such as date of birth, age, aggregate information, gender, state and country. 
+  * Internet Protocol (IP) Information, such as your IP address and browser type. 
+  * Information collected by or held in "cookies" or collected by Web beacons. 
 
 
 
-Whatever the activity may be, we will only collect information to the extent deemed reasonably necessary to fulfill your requests and our legitimate business objectives. If you do not want to submit personal information when requested, you will not be able to access certain areas on our site. However, you do not need to provide personal information to Wizards in order to use our Web sites.
+**HOW DO WE USE INFORMATION?:**
 
-### Who is collecting my information and how will it be used?
+ **Registration:**
 
-Wizards collects the personal information you provide on our sites. We may use the information you submit to our Web sites to send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest. We may also use your personal information for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you and can better meet your needs. 
+Our Web site's registration form requires users to give us contact information, unique identifiers, and demographic information. All registration information is submitted to us on a voluntary basis. We may also ask registered members to tell us how they found out about us. Once you register, we use customer contact information from the registration form to contact you, to send you information about our company and/or to give you updates on products and/or services. You may register on our Web site and choose not to receive information and updates by unchecking the relevant box on the registration form. KIDS, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU REGISTER OR PROVIDE ANY INFORMATION. 
 
-The demographic information (e.g., age and gender) you provide us is collected by Wizards and may be disclosed in aggregate to third parties. This aggregate demographic information cannot be used to personally identify you or your computer. 
+**Product Support for LucasArts visitors:**
 
-### With whom does Wizards share my personal information?
+To send an email to LucasArts Entertainment Company LLC's ("LucasArts") Technical Support team regarding a problem you encounter with a LucasArts product, we may ask you to provide our first name and email address in addition to information about the product you are having trouble with. The email you provide to LucasArts for this purpose is used only to respond to the sender's problem and is deleted as soon as the problem has been resolved. 
 
-From time to time, Wizards may employ and share its customers' personal information with entities who use it solely to provide support for the internal operations of the Wizards website (e.g., online product fulfillment, email services, or technical support). These entities will not use your personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+**Tell a Friend Feature:**
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
+Some of our sites provide you with the opportunity to email a web page to another person, whether it is a friend, family member or relative. For this feature of our site to work, we may need to collect your email address and the email address(es) of those to whom you send the Web page. The user inputted email addresses in this context are not stored or used for any other purpose other than to send your initial request. 
 
-Wizards, as a subsidiary of Hasbro, Inc. does not sell, rent, or otherwise disclose personal information collected from and about its users (including children under 13) to third parties. However, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Wizard’s customer information may be transferred to Wizard’s successor or assign, if permitted by and done in accordance with applicable law.
+**Résumés:**
 
-### Cookies and IP Addresses
+Some of our sites allow for the online submission of résumés. Personal information collected from résumés is not generally subject to this Privacy Policy; however, the information submitted will be used solely lawfully and in accordance with disclosures agreed to by candidates at the time of submission. If you have previously submitted a résumé and would like to update your personal information please [click here](https://jobs.lucasfilm.com/). If you would like to remove yourself from consideration as a candidate please email us the request at [unconsider@lucasfilm.com](mailto:unconsider@lucasfilm.com). 
 
-Wizards uses "cookies" to enhance your experience at our Web sites. Cookies are pieces of information that we place on your computer to help us accurately understand how many consumers are visiting a particular site, how often they visit that site and what content they are most interested in viewing. For example, a cookie will allow us to remember certain things based on your Internet Protocol or "IP" address (an IP address is the string of numbers that identifies each sender or receiver of information that is sent across the Internet), such as the time and duration of your visits, how you navigated through our content and where you exited a particular site. 
+**Online Promotions:**
 
-Wizards' website collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When visitors request pages on Wizards' website, our servers log the visitors' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our community rules [[Code of Conduct](https://web.archive.org/community/main.asp?x=onlineconduct)] or posted [Legal Notice](https://web.archive.org/company/WebSiteLegalNotice.asp), or to protect our service, site, customers, or others. 
+We or our advertisers, licensees and/or other business partners may have special online promotions which feature products or services related to our business activities. TO PARTICIPATE IN ANY PROMOTION, YOU MUST BE 13 YEARS OR OLDER (unless otherwise specified by the promotion's rules and regulations). IF YOU ARE UNDER 13 YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. IF YOU ARE 13 OR OLDER BUT NOT AN ADULT YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT TO COLLECT YOUR PRIZE OR RECEIVE YOUR BENEFIT. You may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. For other promotions, we may request your name and home address in order to send you products or information by regular mail. The specific rules and regulations governing the particular promotion will vary and your participation constitutes your agreement to abide by those rules and regulations. 
 
-Some services within Wizards' website, such as certain message boards, may display IP addresses along with the message poster's name, email address, and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing. 
+Certain of these promotions may be co-branded with one of our partners. For example, we may have an online promotion to apply for a credit card offer branded with one of our brands (e.g. Star Wars). In these instances the collection of your personally identifiable information may occur directly by our third party partner on their Web site. The promotion will state the privacy policy or policies governing the collection of such information. 
 
-### Linking to third party sites
+**Online Contests and Sweepstakes:**
 
-To provide relevant information not found on our Web sites and to facilitate online shopping, Wizards may provide links from our Web sites to third party Web sites. Wizards will notify users when they are leaving a Wizards site and we encourage our users to read third party sites' privacy policies before submitting personal information.
+We or our advertisers, licensees and/or other business partners may sponsor contests or sweepstakes which may be entered online. The specific rules and regulations governing the particular contest or sweepstakes, including the applicable privacy policy, will vary and your participation constitutes your agreement to abide by those rules and regulations. 
 
-### Opt-out
+**Collecting and Sharing Data:**
 
-If you do not want Wizards to send you e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Wizard’s e-mailing list, you can do so by using the link included with a Wizards e-mail or by sending an e-mail to webregistration@wizards.com.
+The following outlines the ways we share your information. We do not share your personally identifiable information in ways other than as described in this Privacy Policy. We sometimes collect information to find out how people found our Web site, which pages they visited, and how long they stayed. In addition, we may aggregate demographic and non-personal information you provide and use such aggregate information to better design our Web site and to improve our marketing strategy and our product offerings. If you are 13 or older, we may share this demographic and non-personal information with our advertisers, licensees and/or other business partners. 
 
-### Safeguarding your personal information
+We also use third party service providers to assist in our service offerings. Such providers may include a credit card processing company, an outside shipping agent to fulfill delivery of orders, and an email service provider to facilitate our e-mailings. We will share your personal information with these types of third parties to facilitate functions on our behalf, even if you are under age 13. We require these companies to limit their use of your personally identifiable information to the purpose of fulfilling their services to us. 
 
-Wizards will only collect personal information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will take appropriate steps to ensure the security and integrity of any information you provide to us. Any information provided to us is housed in a secure datacenter, which can only be accessed via SecureID by Wizards personnel.
+In some instances, such as when making a purchase, you may be directed to the service providers Web site to conduct the transaction by entering in your personally identifiable information. Although these pages may have the look and feel of the Lucas Online Web sites, please be aware that you are actually submitting your information directly to that service provider to fulfill your request. 
 
-### Review, update and removal of personal information
+Other than as explained in this policy, we may disclose personal information (including the personal information of those under 13) in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to: comply with legal processes; respond to any claims; or, protect the rights, property or personal safety of Lucasfilm Ltd., its subsidiaries and affiliates, our customers or the public. In addition, information about our customers, including, without limitation personal information regarding customers under 13, may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition. In the instance of a bankruptcy, merger, sale or transfer of company assets we will attempt to notify you. Please see our "CHANGES" section below. 
 
-If you have registered with our site, you may at any time review and/or update the contact information we have for you or inform us that you want us to remove your information from our database by contacting us at webregistration@wizards.com. _Please be sure to include in your message the name of the site at which you registered and the e-mail address you used to register so that we can verify your request_.
+**Opinions:**
 
-### Questions and Complaints
+We may ask for your opinion from time to time. You may send us questions or comments, which may require personal information for a response. However, please note that we have a policy against accepting unsolicited material, so do not submit any unsolicited or unique creative ideas, drawings or other materials, and refer to our policy on unsolicited submissions in our Terms of Use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PROVIDE THIS INFORMATION. 
 
-Any questions or complaints about Wizards or this privacy statement can be addressed by contacting us at webregistration@wizards.com.
+**Mailing lists:**
 
-We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our Web site, please see our [Terms and Conditions](http://www.hasbro.com/home/terms.html) of Use.
+Where appropriate and if you are 13 or older, the option to allow us to share certain information with some of our promotional partners may be provided, or the option for you to elect not to have us share certain information may be provided. If you are under 13, we will not share your personal information with third parties. You always have the right to unsubscribe from any mailing lists we may maintain, or to delete personally identifiable electronic information we have collected online about you by going to the Member Services link and following the procedures described there. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection and use of your child's information at any time by sending us a written request at the Contact Information below. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN THIS ACTIVITY. Please see the "Choice/Opt-In/Opt-Out" section below on how you can choose to opt-out of third party promotional emails if you do not wish to receive them. 
 
-Thanks. Have fun! 
+**E-mail and Newsletters:**
 
-### NOTE TO PARENTS 
+We may offer fully interactive registered email services. We also provide fun and exciting newsletters, such as the Homing Beacon, and the Padawan Post to tell our users about all of our interesting films, licensed products and services. Our newsletters may include links to independently operated Web sites. Although we do not provide any personally identifiable information about kids under 13 to any "independently-operated Web site" (that is, a Web site not owned, controlled and operated by us), such Web Site(s) may solicit personally identifiable information from kids under 13. Please be aware that we don't control and are not responsible for their actions, privacy policy(ies) or terms of use. IF YOU ARE UNDER 13, YOU WILL NEED YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU CAN PARTICIPATE IN EITHER OF THESE ACTIVITIES. 
 
-Wizards has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Wizards recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Wizards strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protect its users' privacy. If you have any questions or comments about our policy, please contact us using the Contact Information provided below. For all other issues, please contact [Customer Service](https://web.archive.org/leaving.asp?url=http://www.hasbro.com/pl/page.customer_care/dn/default.cfm&origin=company_privacystatement).
+**Forums/Blogs/Bulletin Boards/Chat Rooms:**
 
-### Teenagers (Ages 13-17)
+If you use a forum, Blog, bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these activities or forums. 
 
-Wizards may collect personal information from users over 12 and under 18 ("teenager"). When a Web user in this age category submits personal information, Wizards may request a parent or guardian's e-mail address to notify the parent or guardian of the teenager's activity. Personal information collected from these visitors is subject to the policies set forth above.
+**Purchasing Items:**
 
-### Children Under 13
+Purchasing items from various online stores may require the giving of personally identifiable information (such as, name, credit card information). Information collected in this manner will be used consistent with this Privacy Policy. 
 
-**Collection and Use of Children's Personal Information**
+**Information Collected by Cookies and other Automated Processes:**
 
-Wizards may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and with the parent's verifiable consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to our Parental Consent Form. If given verifiable permission from a parent, Wizards may collect and store the following types of personal information about a child under 13: name, email address, mailing address, parent's or guardian's name, and parent's or guardian's email address. Wizards may also collect demographic information about a child such as the child's date of birth, gender, and other preferences; and, combine such information with the child's personal information. Wizards will only collect this information if it is voluntarily submitted to us by the child or parent and provided with the parent's signed permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please see our section on cookies (provided above).
+We use a software technology called "cookies" to collect non-personally identifiable information. Cookies are pieces of information that we may place on your computer to help "personalize" your visit to the Web site and to allow you to enter our Web site without having to remember and enter any special passwords. For example, a "cookie" will allow us to remember certain things about you, such as your screen name, to track visitor scores or to help you keep track of where you left off in a game. "Cookies" may include the type of browser software you use to access the Internet (i.e. Internet Explorer, Netscape 3.0,), type of operating system (i.e. Windows 95, Mac, etc.), and/or the domain name of your Internet service provider. There are two types of cookies that may be used on our Web site: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the "Cookies" folder on your computer and remains in this "Cookies" folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to our Web Site. A session cookie is held temporarily in your computer's memory and disappears after you close your browser or shut off your computer. Our Website may also use Web beacons in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page, (sometimes referred to as "1x1 clear pixel," "Web beacon" or "clear GIF") in the pages of our Web site in order to gather additional statistical site usage information. 
 
-The information that a child provides on his/her registration form may be used to: (a) allow the child to participate in activities on our site (e.g., contests); and, (b) allow us to send the child promotional materials, including information about new products, contests, features and enhancements, special offers, and other events of interest. We may also use the information for our internal marketing and demographic studies, so that we can constantly improve the products and services we provide our visitors and to better meet their needs. 
+Our Web site may use persistent cookies, Web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at our Web site to better understand how our Web Site is used, resolve technical problems, and enhance your experience at this site. Information from our Web site analysis cookies or about our Web site usage is not combined with information from any other Web site cookie. The types of statistical information we may gather include the number of visitors to the Lucas Online Web sites, which pages are visited, duration of page views, advertising click-through metrics, the location of visitors prior to accessing their Web site, and details on browsers (including Internet Protocol 'IP' addresses or browser configurations). We use this information to provide Lucas Online with detailed reports and analyses of the traffic to their Web sites. Except with respect to our e-commerce activities (e.g., on-line purchases), we do not link your non-personally identifiable information in "cookies" with personally identifiable information about you. 
 
-Please note that we are prohibited from conditioning a child's participation in an activity - like contests - on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. To read about the steps Wizards takes to protect the confidentiality, security, and integrity of children's personal information, please see our section on "Safeguarding your personal information" (above). 
+We may use third-party companies to serve ads or analyze behavior patterns when you visit our Web site. These companies may place or provide ads (such as banner ads) on this Web site that might also place cookies. These companies may use information (not including your name, address, email address or telephone number) about your visit to our Web site in order to help us improve our user experience and/or provide advertisements about goods and services that may be of interest to you. In the course of providing these services or placing these ads, these third-party companies may place or recognize a unique "cookie" on your computer and each of these companies uses this cookie information according to their own privacy and security policies. You can find and evaluate these companies at the end of this Privacy Policy as 'Appendix A,' and we will keep this list updated or you can access this information by [clicking here](https://web.archive.org/welcome/about/privacy_policy_a.html). If you would like more information about this practice and to learn your choices about limiting third party access to such information, [click here](https://web.archive.org/webapps/registration/feedback/). 
 
-In some instances, certain portions of our site (e.g., electronic postcards) will allow children under 13 to submit personal information such as their e-mail address without first obtaining their parents' consent. Such portions of our site operate activities or provide services in a way that does not require prior parental consent under the law.
+**Choice/Opt-In/Opt-Out:**
 
-**Wizards Contact Information**
+If you are 13 or older, you could receive communications from us or from third parties. In that case, you may: (1) opt-out of receiving communications from us by selecting or deselecting the optional e-mail from us on the "Your Account" page to control the messages you receive from us; and/or (2) opt-in or opt-out of receiving communications from third-party sponsors or promotional partners at the time of registration. If you elect to receive these communications, we will transmit the information that you provide to this third party. Note, however, that each third party is governed by a different privacy policy and may have a different method than our Web site to opt-out of future communications. 
 
-Any personal information that a child provides to our website(s) for purposes of registration is collected by Wizards. Wizards contact information is as follows:
+**IP Address and Machine Type:**
 
-Wizards of the Coast  
-Attention: Web Registration  
-P.O. Box 707  
-Renton, WA 98057  
-(425) 204-5900
+An IP address is a number automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from our Web site, our servers log your IP address. An IP address does not contain personally identifiable information. Except with respect to our e-commerce activities (e.g., on-line purchases), we do not link IP addresses with personally identifiable information. We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We may also collect information about your browser software and/or machine type (e.g., Windows, Mac, Unix, etc.). 
 
-webregistration@wizards.com
+**Links:**
 
-**Disclosure of Children's Personal Information**
+We do present links to the Web sites of other parties. IF YOU ARE UNDER 13, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE LINKING TO OTHER WEB SITES. Independently operated Web sites are not associated with or authorized by us, even if they have links leading to this Web site. We are not responsible for any content appearing on Web sites linked to or from our Web site, or for any personal information gathered at those independently operated Web sites. 
 
-Please read the section titled "With whom does Wizards share my personal information" (above) for our policy on the disclosure of personal information collected from and about children under 13.
+**Bumper Pages:**
 
-**Parental Access**
+We sometimes provide a "bumper page" when linking from our Web site to an independently-operated Web site, which lets you know you are going to an independently-operated Web site and reminds children not to give out information online without their parent's permission. 
 
-A parent who has already given Wizards permission to collect and use his or her child's personal information can, at any time review, correct, or have deleted the child's personal information or discontinue further collection and use of the child's personal information. To do so, please contact us at webregistration@wizards.com and be sure to include the following:
+**International Visitors and Customers:**
 
-  * your child's name and email address
-  * your name and email address
-  * the name of the site at which your child is registered
+This Web site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to: 
+
+  * the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and 
+  * the transfer of your personal data to the United States as indicated above. 
 
 
 
-We will be happy to honor your request. 
+**Data Integrity and Security:**
 
-Back to start of Wizards Privacy Statement.
+We take reasonable precautions to keep your personal information secure. We have put in place physical, electronic, and managerial procedures to safeguard the confidentiality and integrity of the information we collect. The information is stored on computer servers which are separate from other corporate information and systems. We have and will continue to take reasonable measures to assure the security and accuracy of all information our visitors share with us. Our efforts include procedures designed to avoid any unauthorized access, alteration, misuse or disclosure of personally identifiable information. 
+
+Our Websites which collect sensitive financial information, such as credit/debit card information use (or our third party service providers) SSL encryption in the collection and transfer of such information. 
+
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. We may post a notice on our Web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the starwars.com Web site. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us by [clicking here](https://web.archive.org/webapps/registration/feedback/) to submit your request. 
+
+**CHANGES:**
+
+ **Changes in this Privacy Policy:**  
+If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy here and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. For registered users, if we make material changes to how we use personally identifiable information we will attempt to notify you by email so that you may make a choice to how your information is used. For children who are registered users, if we desire to change our use of personally identifiable information collected from children under age 13, we will obtain parental consent prior to implementing such changes. If we do not receive such consent we will not use the child's personally identifiably information in the new manner. 
+
+**Your changes:**
+
+This Web site gives users options for changing and modifying information previously provided. If you are a registered visitor, you are welcome to view, change or delete your registration information at any time, or to update the contact information we have for you or to inform us that you do not want to receive new product or other information from us. Simply go to the registration page of this Web site. When the welcome screen appears, you can click on "delete or add" or, if available, you can click the "Update Profile" link to update your information. Kids under 13 cannot change registration information, only the parent or guardian can do that. Parents should follow the procedure that they used to enable their child's registration to review, change, or delete any registration information at any time. Parents, you can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below. 
+
+**SPECIAL NOTE TO KIDS:**
+
+If you are under 13 years old, ask your parent or guardian BEFORE giving out any information about yourself, such as your name, age, address or e-mail address. You do not have to give any personal information about yourself. Remember, if you are under 13 you must have your parent or guardian make any changes to information given to us in the past or to update your profile. If you are ever unsure about anything you are seeing on this Web site, ask your parent or guardian for help. If you are 13 years or older, you may have the ability to participate in online contests or sweepstakes, e-mail other users or post messages on portions of this Web site. In the event that you do post messages on this Web site, remember that other users of this Web site may have access to your e-mail address and user name. However, if you participate in online contests, sweepstakes or promotions, you cannot collect any prizes without your parent's or guardian's consent. 
+
+If you are under 13, we may knowingly collect your email address, which is personally identifiable information, with your parent's permission. We currently use your email address information in order to send one or more newsletters to you as approved by your parent(s). In addition, following receipt of your parent's permission we collect your screen name. WE STRONGLY ENCOURAGE YOU TO CREATE A SCREEN NAME WHICH DOES NOT INCLUDE ANY PERSONAL INFORMATION. 
+
+**SPECIAL NOTE TO PARENTS OF KIDS UNDER 13:**
+
+We may collect the online contact information in order to obtain parental consent from parents of kids under 13 and/or to provide parental notice by providing a link to this Privacy Policy wherever we have requested personally identifiable information from kids under 13. If a visitor indicates that he/she is under the age of 13, he/she will be asked to supply a parent's or guardian's e-mail address. In this case, the parent or guardian will receive an e-mail message containing instructions on how to enable the child's registration and until the parent or guardian enables the child's registration, the account is disabled. If we do not receive the parent's or guardian's said consent within a reasonable time, we delete this information from our records. If and when we have obtained consent from a parent, we only ask for and collect from a kid under 13 personally identifiable information that is reasonably necessary for that kid to participate in any given activity online. We also may collect this information to respond to a specific request from a kid under 13. Once we respond to a request from a kid under 13, we may not contact that child again and the information is deleted from our records. We take very seriously the safety of children, especially those under 13 and may also collect this information to protect that safety. If we do collect information to protect the safety of your child, we provide notice to you and we do not use that information for any other purpose. You can always ask us to review or delete any of your child's information and you can refuse to permit further collection or use of your child's information at any time by sending us a written request at the Contact Information below. However, if you ask us to delete your child's information that is necessary to participate in our activities, we may have to ask your child not to participate in our activities. 
+
+We do not currently collect, use or disclose personally identifiable information from kids we know to be under 13 absent parental consent. Prior to permitting an individual to access our message boards, we request his or her age. If an individual identifies himself or herself as being under 13, we do not give him or her ability to publicly post, directly communicate with others, or otherwise distribute, personally identifiable information. 
+
+If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child's information, please contact us at the following address: 
+
+Lucas Online  
+One Letterman Drive  
+P.O. Box 29901  
+San Francisco, CA 94129-0901  
+Attn: Webmaster  
+(415) 623-1113  
+[webmaster@starwars.com](mailto:webmaster@starwars.com)
+
+Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your question or request online. 
+
+We are a licensee of the TRUSTe Web and Children's Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. As a TRUSTe licensee, we have agreed to disclose our information practices at this website and have our privacy practices at this website reviewed for compliance by TRUSTe. Because our Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Our Web site complies with the TRUSTe Children's Privacy Program, which has been approved by the Federal Trade Commission as an authorized safe harbor under the Children's Online Privacy Protection Rule. You can learn more about the TRUSTe Children's Privacy Program by [clicking here](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=105&ctv_group=Children). 
+
+The TRUSTe Children's Online Privacy Seal Program covers only personally identifiable information that is collected through the Web sites listed below, and does not cover Personal Information that may be collected through software downloaded from this Web site. 
+
+**To What Web sites does this Privacy Policy Apply?**
+
+The terms of this Privacy Policy apply to all information submitted on [www.lucasarts.com](http://www.lucasarts.com/) and not to information that may be submitted to us offline. Furthermore, the terms of this Privacy Policy apply to all information submitted to the following Web sites: [www.starwars.com](http://www.starwars.com/), [www.ilm.com](http://www.ilm.com/), [www.lucasfilm.com](http://www.lucasfilm.com/), [www.lucaslearning.com](http://www.lucaslearning.com/) and [www.skywalkersound.com](http://www.skywalkersound.com/). In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities or divisions (such as Lucasfilm Ltd., Lucasfilm Entertainment Company Ltd., Lucas Licensing Ltd., Lucas Online, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
+
+**CONTACT INFORMATION:**
+
+We hope you have a better understanding of our commitment to protect privacy. If you have any questions or comments about anything in this Privacy Policy, please contact us at the following address: If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child's information, please contact us at the following address: 
+
+Lucas Online  
+One Letterman Drive  
+P.O. Box 29901  
+San Francisco, CA 94129-0901  
+Attn: Webmaster  
+(415) 623-1113  
+[webmaster@starwars.com](mailto:webmaster@starwars.com)
+
+Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your questions online. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at: <http://www.truste.org/consumers/watchdog_complaint.php>. 
+
+TRUSTe will serve as a liaison with our Website to resolve your concerns. For additional information about our Web site, please see our [Terms of Use](https://web.archive.org/welcome/about/copyright.html). To see our third party service providers and/or partners or operators who may collect cookies from this website, please view the Privacy Policy: Appendix A, by [clicking here](https://web.archive.org/privacy/index_a.html). Thanks. Have fun! Back to start of Our Privacy Policy. 
+
+© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
+
+Effective Date: 04/10/09
