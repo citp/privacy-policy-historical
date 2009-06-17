@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2008-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081105172849id_/http%3A//www.cashbackforex.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065412id_/http%3A//www.cashbackforex.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CashBackForex > Privacy Policy
 
@@ -45,4 +45,4 @@ CashBackForex will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-CashBackForex welcomes your comments regarding this Statement of Privacy. If you believe that CashBackForex has not adhered to this Statement, please contact CashBackForex at admin@CashBackForex.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+CashBackForex welcomes your comments regarding this Statement of Privacy. If you believe that CashBackForex has not adhered to this Statement, please contact us. We will use commercially reasonable efforts to promptly determine and remedy the problem.
