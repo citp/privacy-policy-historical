@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conventions.net privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913120342id_/http%3A//www.conventions.net/privacy02.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conventions.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192650id_/http%3A//www.conventions.net/privacy.asp) for the most accurate reproduction.*
 
 # Conventions.net Privacy Policy, Conventions, Trade Shows, Meetings
 
-Conventions.net Privacy Policy 
+## Privacy Policy
 
 **Conventions.net  
 ** **Internet Privacy Policy  
@@ -49,7 +49,7 @@ If you elect to provide us personal information, we use it primarily to deliver 
   * CONVENTIONS.NET may use personal information to collected through its website to send out targeted email promotions on behalf of its advertisers and industry partners.
   * CONVENTIONS.NET may combine information about you that we have with information we obtain from business partners or other companies in order to better deliver products and services that may be of interest and benefit to you.
   * CONVENTIONS.NET may use personal information to contact users regarding renewing subscriptions to CONVENTIONS.NET services and products.
-  * CONVENTIONS.NET may use personally identifiable information to send notification of CONVENTIONS. Net’s or, partners’ products and services by such methods as email and/or postal mail.
+  * CONVENTIONS.NET may use personally identifiable information to send notification of CONVENTIONS. Net's or, partners' products and services by such methods as email and/or postal mail.
   * If you provide financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, subscriptions, etc.
   * CONVENTIONS.NET may send product announcements or special edition e-letters to online registrants.
   * If you participate in an CONVENTIONS.NET educational program, seminar, or other time-sensitive program, we may contact you to remind you of upcoming deadlines or additional information concerning these programs.
@@ -124,8 +124,3 @@ California residents who utilize this Site for personal, family, or household pu
 By using our website, you consent to the collection and use of information by CONVENTIONS.NET as specified in this policy. Please also note that your use of the website is governed by the CONVENTIONS.NET Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services. 
 
 Please send any questions about CONVENTIONS. Net’s Privacy Policy to [sales@Conventions.net](https://web.archive.org/mailto:sales@conventions.net).
-
-Conventions - Convention Planning - Trade Shows - Meetings - Conferences
-
-|   
----|---
