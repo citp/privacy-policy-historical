@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the silive.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216172155id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silive.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617193558id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,18 +10,19 @@ Privacy Policy - SILive.com
 </title>
 <link rel="stylesheet" href="/css/impact.css" type="text/css">
 <link rel="stylesheet" href="/css/impact_section.css" type="text/css">
-<link rel="stylesheet" href="/08design/toprail/css/toprail_legacy_patch.css" type="text/css"> <link rel="stylesheet" href="/08design/css/footer.css" type="text/css">
-<script type="text/javascript" src="/08design/js/toprail.js"></script><link rel="stylesheet" type="text/css" href="http://www.silive.com/08design/toprail/css/toprail_mac.css">
-
-<script src="http://blog.nj.com/mt-site.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/css/adminpages.css" type="text/css">
+<script src="http://blog.silive.com/mt-site.js" type="text/javascript"></script>
 <meta name="robots" content="all,index,follow">
 
 
-
-<script language="javascript" src="http://science.silive.com/silive/dhtml/stats/track/vssetup.js"></script>
-<script language="javascript" src="http://geoip.silive.com/media/js/geoip.js"></script>
 </head>
 <body>
+
+<script type="text/javascript" src="http://www.silive.com/08design/js/jquery-1.2.3.js"></script>
+<script type="text/javascript" src="http://www.silive.com/08design/js/toprail.js"></script>
+<script type="text/javascript" src="http://www.silive.com/dhtml/includes/Pop.js"></script>
+<link rel="stylesheet" href="http://www.silive.com/08design/toprail/css/toprail.css" type="text/css">
+<link rel="stylesheet" href="http://www.silive.com/08design/css/footer.css" type="text/css">
 <!--- OAS SETUP start -->
 <script language="JavaScript">
 //configuration
@@ -56,7 +57,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCRIPT LANGUAGE=JavaScript1.1 SR' + 'C="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://ads.silive.com/RealMedia/ads/adstream_mjx.ads/www.silive.com/privacypolicy/index.ssf/1867136720@Leaderboard,SecSponsor,Rectangle,BannerBottom,SiteSponsor,TxtLink1,TxtLink2,TxtLink3,TxtLink4,Feature1,Feature2,Feature3,Feature4,ImpactAd,RectangleBelow?NULL"></script>
+</script><script language="JavaScript1.1" src="http://ads.silive.com/RealMedia/ads/adstream_mjx.ads/www.silive.com/privacypolicy/index.ssf/1482019924@Leaderboard,SecSponsor,Rectangle,BannerBottom,SiteSponsor,TxtLink1,TxtLink2,TxtLink3,TxtLink4,Feature1,Feature2,Feature3,Feature4,ImpactAd,RectangleBelow?NULL"></script>
 <script language="JavaScript">
 <!-- -->
 document.write('');
@@ -72,33 +73,55 @@ function OAS_AD(pos) {
 <div id="Toprail">
 <div id="Masthead">
 <div id="Toprail_Affiliate_Logo"><a href="http://www.silive.com" title="http://www.silive.com"><img src="http://www.silive.com/08design/toprail/images/logo_silive.gif" alt="http://www.silive.com"></a></div>
-<div id="Toprail_Leaderboard"><div class="Leaderboard"><script type="text/javascript">OAS_AD("Leaderboard");</script></div></div>
-<div id="Topsearch">
-<form id="Toprail_Search" method="get" action="http://search.silive.com/sp" onsubmit="return filterSiteSearch('http://www.silive.com',this.Search_Field.value)">
-<label for="Search_Field">Search :</label>
-<input id="Search_Field" type="text" size="27" value="Town, Keyword, Local Businesses, Web ID" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords">
-<input type="hidden" value="100" name="aff">
-<input id="search_button" type="submit" value="" class="imageGo_toprail" title="Go">
-</form>
+<div id="Toprail_Leaderboard">
+<div class="Leaderboard"><script type="text/javascript">OAS_AD("Leaderboard");</script></div>
 </div>
-<div id="Sponsor_Ad"><div class="SiteSponsor"><script type="text/javascript">OAS_AD("SiteSponsor");</script></div>
+<div id="Topsearch">
+<ul id="ToprailSearchTabs">
+<li id="ToprailSearchTab1" class="search_tab_on">
+<div id="ToprailSearchTab1Start" class="tab"></div>
+<div class="text tab">Site Search</div>
+<div id="ToprailSearchTab1End" class="tab"></div>
+</li>
+<li id="ToprailSearchTab2" class="">
+<div id="ToprailSearchTab2Start" class=""></div>
+<div class="text">Search Local Business Listings</div>
+<div id="ToprailSearchTab2End" class=""></div>
+</li>
+</ul>
+<div id="ToprailSearchForms">
+<div class="vertical_line left"></div>
+<form id="Toprail_Search" method="get" action="http://search.silive.com/sp" onsubmit="checkSearchValues(this); return filterSiteSearch('http://www.silive.com',this.Search_Field)">
+<input type="hidden" value="100" name="aff">
+<input id="Search_Field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords" class="site_search_field">
+<input id="Search_Button" type="submit" value="" class="imageGo_toprail" title="Go">
+</form>
+<form id="Toprail_BusinessSearch" method="get" action="http://businessfinder.silive.com/BL/Listings.aspx" onsubmit="return checkSearchValues(this);">
+<input id="Search_Field_Business1" type="text" value="Business name or category" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="s">
+<input id="Search_Field_Business2" type="text" value="City OR zip code" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="locString">
+<input id="Search_Button_Business" type="submit" value="" class="imageGo_toprail" title="Go">
+</form>
+<div class="vertical_line right"><!-- --></div>
+</div>
+</div>
+<div id="Sponsor_Ad">
+<div class="SiteSponsor"><script type="text/javascript">OAS_AD("SiteSponsor");</script></div>
 </div>
 </div>
 <div id="Topnav">
 <table id="Level1"><tbody><tr>
-<td id="First_Cell"><a href="http://www.silive.com">Home</a></td>
-<td><a href="http://www.silive.com/news/">News</a></td>
-<td><a href="http://www.silive.com/weather/">Weather</a></td>
-<td><a href="http://www.silive.com/sports/">Sports</a></td>
-<td><a href="http://www.silive.com/entertainment/">Entertainment</a></td>
-<td><a href="http://www.silive.com/living/">Living</a></td>
-<td><a href="http://www.silive.com/interact/">Interact</a></td>
-<td><a href="http://www.silive.com/jobs/">Jobs</a></td>
-<td><a href="http://www.silive.com/autos/">Autos</a></td>
-<td><a href="http://www.silive.com/realestate/">Real Estate</a></td>
-<td><a href="http://www.silive.com/classifieds/">Classifieds</a></td>
-<td id="Last_Cell"><a href="http://www.silive.com/placead/">Place An Ad</a></td></tr></tbody></table>
-<div class="clear"></div>
+<td id="First_Cell"><a id="Home" href="http://www.silive.com">Home</a></td>
+<td><a id="News" href="http://www.silive.com/news/">News</a></td>
+<td><a id="Weather" href="http://www.silive.com/weather/">Weather</a></td>
+<td><a id="Sports" href="http://www.silive.com/sports/">Sports</a></td>
+<td><a id="Entertainment" href="http://www.silive.com/entertainment/">Entertainment</a></td>
+<td><a id="Living" href="http://www.silive.com/living/">Living</a></td>
+<td><a id="Interact" href="http://www.silive.com/interact/">Interact</a></td>
+<td><a id="Jobs" href="http://www.silive.com/jobs/">Jobs</a></td>
+<td><a id="Autos" href="http://www.silive.com/autos/">Autos</a></td>
+<td><a id="Real Estate" href="http://www.silive.com/realestate/">Real Estate</a></td>
+<td><a id="Classifieds" href="http://www.silive.com/classifieds/">Classifieds</a></td>
+<td id="Last_Cell"><a id="Place An Ad" href="http://www.silive.com/placead/">Place An Ad</a></td></tr></tbody></table>
 <!-- Relative TopRail: http://www.silive.com/ Current Location: http://http://www.silive.com/privacypolicy/index.ssf -->
 </div>
 </div>
@@ -288,21 +311,33 @@ If you're worried about your children's activities or their privacy on our site,
 Privacy Policy Coordinator<br>
 <strong>Staten Island Live LLC.</strong><br>
 <strong>30 Journal Square</strong><br>
-<strong>5th Floor</strong>&gt;<br>
+<strong>5th Fl.</strong><br>
 <strong>Jersey City, NJ 07306</strong><br>
 <strong><a href="/contactus" target="_blank" style="text-decoration: underline;">Contact Us</a></strong><br>
 </p>
+<div style="clear:both;"> </div>
 </div>
+<style type="text/css">
+.post-footer img { margin-top: -10px }
+</style>
 <div class="post-footer">
 <img src="http://blog.nola.com/images/mail.gif" alt="Send To A Friend"> <a href="javascript:OpenWindow('http://impact-parent/sendthispage/sendthispage.ssf?'+location.href,490,510);" class="email_print">Send To A Friend</a> |
 <img src="http://blog.nj.com/images/printer.gif" alt="Print"> <a href="javascript:popPrint(400,640);" class="email_print">Print this</a> | <a href="http://blog.nj.com/admin/2008/08/privacy_policy_1.html">Permalink</a> <br>
-<div style="margin-top: 4px">
+<div style="margin-top: 12px; max-height: 16px">
 <img src="/images/article/reddit_icon.gif" alt="Reddit" vspace="4"> <a href="http://reddit.com/submit?url=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;title=Privacy%20Policy">Reddit</a> &nbsp;
 <img src="/images/article/digg_icon.gif" alt="Digg"> <a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;title=Privacy%20Policy&amp;bodytext=&amp;topic=">Digg</a> &nbsp;
 <img src="/images/article/del.icio.us_icon.gif" alt="del.icio.us"> <a href="http://del.icio.us/post?v=4&amp;url=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;title=Privacy%20Policy">del.icio.us</a> &nbsp;
 <img src="/images/article/google_icon.gif" alt="Google"> <a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;title=Privacy%20Policy">Google</a> &nbsp;
-<img src="/images/article/yahoo_icon.gif" alt="Yahoo"> <a href="http://beta.bookmarks.yahoo.com/toolbar/savebm?t=Privacy%20Policy&amp;u=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;opener=bm&amp;ei=UTF-8">Yahoo</a> &nbsp;
-<img src="/images/article/facebook_icon.gif" alt="Facebook"> <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html">Facebook</a>
+<img src="/images/article/facebook_icon.gif" alt="Facebook"> <a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fblog.nj.com%2Fadmin%2F2008%2F08%2Fprivacy_policy_1.html&amp;t=Privacy%20Policy">Facebook</a> &nbsp;
+<script type="text/javascript">
+	yahooBuzzArticleHeadline = "Privacy Policy";
+	yahooBuzzArticleSummary = "Last Revised December 28, 2007 Kids and parents click here! The following Privacy Policy summarizes the various ways that Staten Island Live LLC (&ldquo;Service Provider,&rdquo; &ldquo;we&rdquo; or &ldquo;our&rdquo;) treats the information you provide while using www.silive.com (&ldquo;Website&rdquo;). It is our...";
+	yahooBuzzArticleCategory = "";
+	yahooBuzzArticleType = "text";
+	yahooBuzzArticleId = window.location.href;
+</script>
+<script type="text/javascript" src="http://d.yimg.com/ds/badge2.js" badgetype="text-votes">
+</script>
 </div>
 </div>
 <div class="postident" id="NJ.com &amp; SILive.com: Admin pages/1264264/Privacy Policy////August 7, 2008 10:47 AM/0"> </div>
@@ -322,6 +357,9 @@ vs_blog_data =vs_blog_category;
 </script>
 <script type="text/javascript">
 var blogs = [];var titles = [];var cats = [];var tags = [];result = [];
+blogs[blogs.length] = "4343"; titles[titles.length] = "Submit an announcement";
+
+
 blogs[blogs.length] = "4343"; titles[titles.length] = "Privacy Policy";
 
 
@@ -395,7 +433,7 @@ addpdata('bpcats', escape(vs_blog_data));
 MOBILE EDITION
  </dt>
  <dd>
-• <a href="/mobile/home.ssf">Get weather, news and more on your mobile device at:</a>
+• <a href="/aboutus/index.ssf?/aboutus/content/mobile.html">Get weather, news and more on your mobile device at:</a>
 	<b>silive.com/mobile</b></dd>
 	
 	</dl>
@@ -432,37 +470,88 @@ CONTACT US
 </div>
 
 
-
 <div id="Footer">
-<div id="FooterLogos"><a href="http://www.advanceinternet.com/" title="Advance Internet"><img src="http://www.silive.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo"></a><a href="http://www.silive.com" title="SILive.com"><img id="AffiliateLogo" src="http://www.silive.com/images/footer/footer_silive_internal2.gif" alt="SILive.com"></a></div>
-<div id="FooterMiniLinks"><a href="/siteindex/" title="Site Map">Site Map</a> | <a href="/rss/" title="RSS">RSS</a> | <a href="/mediakit/" title="Advertise">Advertise</a> | <a href="/contactus/" title="Contact">Contact</a></div>
-<div id="FooterSearch">
-<form id="FooterSearchForm" method="get" action="http://search.silive.com/sp" onsubmit="return filterSiteSearch('[silive.com]',this.search_field.value)">
-<label for="search_field">Search SILive.com:</label>
-<input id="FooterSearchField" type="text" value="Town, Keyword, Local Businesses, Web ID" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords">
-<input type="hidden" name="aff" value="100">
-<input id="FooterSearchButton" type="submit" value="" class="imageGo" title="Go"> </form>
+<div id="FooterLogos"><a href="http://www.advance.net/" title="Advance Internet"><img src="http://www.silive.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo"></a><a href="http://www.silive.com" title="SILive.com"><img id="AffiliateLogo" src="http://www.silive.com/images/footer/footer_silive_internal2.gif" alt="SILive.com"></a></div>
+<div id="Footersearch">
+<ul id="FooterSearchTabs">
+<li id="FooterSearchTab1" class="search_tab_on">
+<div id="FooterSearchTab1Start" class="tab"></div>
+<div class="text tab">Site Search</div>
+<div id="FooterSearchTab1End" class="tab"></div>
+</li>
+<li id="FooterSearchTab2" class="">
+<div id="FooterSearchTab2Start" class=""></div>
+<div class="text">Search Local Business Listings</div>
+<div id="FooterSearchTab2End" class=""></div>
+</li>
+</ul>
+<div id="FooterSearchForms">
+<div class="vertical_line left"></div>
+<form id="Footer_Search" method="get" action="http://search.silive.com/sp" onsubmit="return filterSiteSearch('Silive.com',this.Search_Field)">
+<input type="hidden" value="100" name="aff">
+<input id="Footer_SearchField_Keyword" class="site_search_field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="keywords"> <input id="Footer_SearchButton" type="submit" value="" class="imageGo" title="Go">
+</form>
+<form onsubmit="return checkSearchValues(this);" action="http://businessfinder.silive.com/BL/Listings.aspx" method="get" id="Footer_BusinessSearch"> <input type="text" name="s" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="Business name or category" size="27" class="footer_search_field" id="Footer_SearchField_Name"> <input type="text" name="locString" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="City or zip code" size="27" class="footer_search_field" id="Footer_SearchField_Zip"> <input type="submit" title="Go" class="imageGo" value="" id="Footer_SearchButton2"> </form> <div class="vertical_line right"></div>
 </div>
-<br class="clear"><br>
-<div id="FooterMainLinks"><a href="http://www.silive.com" title="Home">Home</a> | <a href="/news/" title="News">News</a> | <a href="/weather/" title="Weather">Weather</a> | <a href="/sports/" title="Sports">Sports</a> | <a href="/entertainment/" title="Entertainment">Entertainment</a> | <a href="/interact/" title="Interact">Interact</a> | <a href="/jobs/" title="Jobs">Jobs</a> | <a href="http://autos.silive.com" title="Autos">Autos</a> | <a href="http://realestate.silive.com">Real Estate</a> | <a href="/classifieds/">Classifieds</a> | <a href="http://shopping.silive.com/SS/Tiles.aspx">Special Sections</a> | <a href="/placead/">Place an Ad</a></div>
-<div id="FooterSubscribe"><a href="/siadvancesubscribe/" title="Subscribe"><img src="http://www.silive.com/images/footer/siadvance.gif" alt="Subscribe to Staten Island Advance"></a> <span>Subscribe to <strong>Staten Island Advance</strong> today and get incredible savings off home delivery! <a href="/siadvancesubscribe/">Subscribe Now!</a></span></div>
-<div id="Copyright">© 2008 SILive.com. All Rights Reserved. Use of this site constitutes acceptance of our <a href="/useragreement/" title="User Agreement">User Agreement</a>. Please read our <a href="/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br> <a href="/forums/index.ssf?rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="/interactivity/" title="Contact interactivity management">Contact interactivity management</a>.</div>
 </div>
-
-
-<script language="javascript">
-if (_pdata){
-trackpage();
- }
-captureLink();
-</script>
-<noscript> <img src="http://science.silive.com/cgi-bin/stats/rewrite.cgi?Log=1&javascript=false" border="0" width="1" height="1"> </noscript> <script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/12319/slf.js" language="JavaScript"></script>
-<!--- GEOIP -->
+<div id="FooterMiniLinks">
+<div id="MiniLinks_Top"><a href="/siteindex/" title="Site Map">Site Map</a> | <a href="/mediakit/" title="Advertise">Advertise</a> | <a href="/contactus/" title="Contact">Contact</a></div>
+<div id="MiniLinks_Bottom"><img src="http://www.silive.com/08design/images/green_arrow.gif" alt=""> <a href="/aboutus/index.ssf?/aboutus/content/homepage.html" title="Make us your home page">Make us your home page</a></div>
+</div>
+<div class="clear"></div> <div id="FooterMainLinks">
+<a href="/" title="Home">Home</a> | <a href="/news/" title="News">News</a> | <a href="/weather/" title="Weather">Weather</a> | <a href="/sports/" title="Sports">Sports</a> | <a href="/entertainment/" title="Entertainment">Entertainment</a> | <a href="/living/" title="Living">Living</a> | <a href="/interact/" title="Interact">Interact</a> | <a href="/jobs/" title="Jobs">Jobs</a> | <a href="http://autos.silive.com/" title="Autos">Autos</a> | <a href="http://realestate.silive.com/">Real Estate</a> | <a href="/classifieds/">Classifieds</a> | <a href="/placead/">Place an Ad</a> </div> <div id="Footer_Zones">
+<div id="Footer_Zone_A">
+<ul class="footer_zone_columns">
+<li><a href="http://photos.silive.com/photogallery/">Your Photos</a></li>
+<li><a href="http://videos.silive.com/">Your Videos</a></li>
+<li><a href="http://www.silive.com/blogs/">Blogs</a></li>
+<li><a href="http://www.silive.com/forums/">Forums</a></li>
+<li><a href="http://www.silive.com/celebrations/">Celebrations</a></li>
+<li><a href="http://www.silive.com/opinion/">Opinion</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_B">
+<ul class="footer_zone_columns">
+<li><a href="http://www.silive.com/jobs/products/index.ssf">Post a Job</a></li>
+<li><a href="http://www.silive.com/classifieds/free/">Post a Free Classified Ad</a></li>
+<li><a href="http://www.silive.com/placead">Sell Your Car</a></li>
+<li><a href="http://www.silive.com/placead">Sell/Rent Your Home</a></li>
+<li><a href="http://realestate.silive.com/for-rent">Apartments &amp; Rentals</a></li>
+<li><a href="http://mymarketplaceadmin.travidia.com/registration/default.aspx?_act=Display&amp;_con=Claim%20Your%20Listing.html&amp;mp=800118&amp;bl=&amp;src=categories">Claim Your Business<br>&nbsp;&nbsp;&nbsp;Listing for Free</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_C">
+<ul class="footer_zone_columns">
+<li><a href="/northshore/">North Shore</a></li>
+<li><a href="/southshore">South Shore</a></li>
+<li><a href="/eastshore/">East Shore</a></li>
+<li><a href="/westshore/">West Shore</a></li>
+<li><a href="/lottery/">NY Lottery</a></li>
+<li><a href="http://obits.silive.com/obituaries/siadvance/">Obituaries</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_X">
+<div class="bkgd_lightgray">
+<div class="gray_top"><img height="7" width="7" alt="" class="gray_corner" src="http://www.silive.com/08design/images/roundcorner_gray_topleft.gif"></div>
+<div class="gray_body"> <ul class="footer_zone_columns">
+<li><span><img src="http://www.silive.com/08design/images/icon_rss.gif" alt="RSS"></span><a href="/rss/">Subscribe to our content (RSS)</a></li>
+<li><span><img src="http://www.silive.com/08design/images/icon_email.gif" alt="Alerts"></span><a href="http://update.silive.com/adv_silive/newsletters/silive/subscribe.htm">Sign up for newsletters</a></li>
+<li><span><img src="http://www.silive.com/08design/images/icon_twitter.gif" alt="Twitter Feeds"></span><a href="/twitter/">SILive.com Twitter feed</a></li>
+<li><span><img src="http://www.silive.com/08design/images/icon_video_small.gif" alt="Podcasts"></span><a href="http://videos.silive.com/staten-island-advance/">Advance video feed</a></li>
+<li><span><img src="http://www.silive.com/08design/images/icon_mobile.gif" alt="Mobile"></span><a href="/mobile/">SILive.com mobile site</a></li>
+</ul>
+</div>
+<div class="gray_bottom"><img height="7" width="7" alt="" class="gray_corner" src="http://www.silive.com/08design/images/roundcorner_lightgray_bottomleft.gif"></div>
+</div> </div> <div class="clear"></div> </div> <div id="FooterSubscribe"><a href="/siadvancesubscribe/" title="Subscribe"><img src="http://www.silive.com/images/footer/siadvance.gif" alt="Subscribe to Staten Island Advance"></a> <span>Subscribe to <strong>Staten Island Advance</strong> today and get as much as 24% off the newsstand price! <a href="/siadvancesubscribe/">Subscribe Now!</a></span></div>
+<div id="Copyright">© 2009 SILive.com. All Rights Reserved. Use of this site constitutes acceptance of our <a href="/useragreement/" title="User Agreement">User Agreement</a>. Please read our <a href="/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br> <a href="/forums/index.ssf?rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="/interactivity/" title="Contact interactivity management">Contact interactivity management</a>.</div>
+</div>
+<script language="javascript" src="http://geoip.silive.com/media/js/geoip.js"></script>
 <script>
 GeoIP_Cookie();
 </script>
-<!--- GEOIP END -->
+<script language="JavaScript">var tcdacmd="dt";</script>
+<script src="http://an.tacoda.net/an/12319/slf.js" language="JavaScript"></script>
+<img height="1" width="1" src="http://view.atdmt.com/action/MSFT_Advance_AE_ExtData/v3/atc1.SILIVE">
 <script language="JavaScript" type="text/javascript" src="http://www.silive.com/js/sitecatalyst/s_code.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
