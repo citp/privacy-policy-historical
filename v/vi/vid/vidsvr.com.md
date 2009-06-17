@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vidsvr.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624144211id_/http%3A//www.ripetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidsvr.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617081840id_/http%3A//www.ripetv.com/info/privacy) for the most accurate reproduction.*
 
-# :: Privacy Policy
+# Privacy Policy - Ripe TV
+
+### Ripe Digital Entertainment's Privacy Policy
 
 Ripe Digital Entertainment ("Ripe") is committed to respecting the privacy rights of all visitors to its Site (defined below). Ripe recognizes the potential of technology to help you communicate with us via our website and through e-mail and we would like to use this technology over time to develop a relationship with you. The privacy policy below details the measures taken by Ripe to protect your privacy in connection with your use of www.ripe.tv and other sites hereafter owned or operated by Ripe (collectively, "Site"). Please read the following to learn more about Ripe's privacy policy. 
 
