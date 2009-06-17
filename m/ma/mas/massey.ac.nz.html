@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the massey.ac.nz privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217101502id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the massey.ac.nz privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617064109id_/http%3A//privacy.massey.ac.nz) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -33,11 +33,28 @@
 	<input type="hidden" value="007028990505551826392:mqdofac7ule" name="cx">
 	<input type="hidden" value="FORID:9" name="cof">
 	<input type="hidden" value="UTF-8" name="ie">
-	<input type="text" name="q" size="31" onclick="cleartext(this)">
+	<input type="text" name="q" size="31" onclick="clearKeyword(this,'keyword')" id="query">
 	<input type="submit" name="sa" value="Search Massey">
 	</div>
 	</form>
-	<script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+	<script type="text/javascript">
+		//clears keyword from search box if it matches specified word
+		function clearKeyword(obj,word)
+		{
+			if(obj.value == word) obj.value = "";
+		}
+		search_form_query = document.getElementById("query"); //retrieve search string input box
+		search_form_searchkeyword = window.location.search; //retrieve query string from URL, and then get the keyword value out of it
+		if(search_form_searchkeyword.match(/(\?|&)q=/))
+		{
+			search_form_searchkeyword = search_form_searchkeyword.replace(/^.*[/&?]q=/,""); //remove the bit before ...q=
+			search_form_searchkeyword = search_form_searchkeyword.replace(/&.*$/,""); //remove bit after q=...
+			search_form_searchkeyword = search_form_searchkeyword.replace(/\+/g," ") //replace google's space character +
+			search_form_searchkeyword = decodeURIComponent(search_form_searchkeyword); //decode any encoded URL values
+			if(search_form_searchkeyword.length > 0) search_form_query.value = search_form_searchkeyword; //put the keyword in the search box
+			else search_form_query.value = "keyword";
+		} else search_form_query.value = "keyword";
+	</script>
 </div>
 	</div>
 	<div id="mu-brand">
@@ -62,7 +79,7 @@
 				<ul id="mu-top-nav-study-sub" class="SM">
 					<li><a href="http://study.massey.ac.nz/">Course, programme and paper search</a></li>
 					<li><a href="http://exams.massey.ac.nz/">Exams</a></li>
-					<li><a href="http://study.massey.ac.nz/massey/study/learning-management-systems/">Learning management systems</a></li>
+					<li><a href="http://study.massey.ac.nz/massey/study/learning-management-systems/">Online Learning (Stream and WebCT)</a></li>
 					<li><a href="http://study.massey.ac.nz/massey/study/online-learning-resources/">Online learning resources</a></li>
 					<li><a href="http://student-services.massey.ac.nz/">Services for students</a></li>
 					<li><a href="http://study.massey.ac.nz/massey/study/student-associations-and-societies/">Student associations and societies</a></li>
@@ -157,7 +174,7 @@
 							<ul id="mu-top-nav-study-sub-noscript">
 								<li><a href="http://study.massey.ac.nz/">Course, programme and paper search</a></li>
 								<li><a href="http://exams.massey.ac.nz/">Exams</a></li>
-								<li><a href="http://study.massey.ac.nz/massey/study/learning-management-systems/">Learning management systems</a></li>
+								<li><a href="http://study.massey.ac.nz/massey/study/learning-management-systems/">Online Learning (Stream and WebCT)</a></li>
 								<li><a href="http://study.massey.ac.nz/massey/study/online-learning-resources/">Online learning resources</a></li>
 								<li><a href="http://student-services.massey.ac.nz/">Services for students</a></li>
 								<li><a href="http://study.massey.ac.nz/massey/study/student-associations-and-societies/">Student associations and societies</a></li>
@@ -333,18 +350,14 @@
 <div id="page-option-page-info">
 <h2>Page information</h2>
 <div>
-URL:<br>
-Location:<br>		
-Page authorised by:&nbsp;<br> 
-Last updated:<br>
-Copyright:			
+URL: http://www.massey.ac.nz/?paff85634t<br>
+Location: Home&nbsp;&gt;&nbsp;About Massey<br>		
+Page authorised by:&nbsp;
+			Web Content Manager<br> 
+Last updated: Thursday 14 Feb 2008<br>
+Copyright: Massey University © 1998-2009		
 </div>
 <div>
-http://www.massey.ac.nz/?paff85634t<br>
-Home&nbsp;&gt;&nbsp;About Massey<br>
-			Web Content Manager<br>
-Thursday 14 Feb 2008<br>
-Massey University © 1998-2008
 </div>
 </div>
 	</div>
@@ -357,7 +370,7 @@ Massey University © 1998-2008
 		<li class="lilast"><a href="http://privacy.massey.ac.nz/">Privacy Policy</a><br></li>
     	<li>&nbsp;Page authorised by:  Web Content Manager </li>
 		<li id="mu-last-updated">Last updated:  Thursday 14 Feb 2008 </li>
-		<li id="mu-copyright"><a href="http://www.massey.ac.nz/massey/about-us/copyright-notice.cfm">©&nbsp; Massey University 1998-2008</a></li>
+		<li id="mu-copyright"><a href="http://www.massey.ac.nz/massey/about-us/copyright-notice.cfm">©&nbsp; Massey University 1998-2009</a></li>
 </ul>
 			<!-- Footer (contact us, about, last updated) -->
 	</div>
@@ -405,8 +418,8 @@ urchinTracker();
 		 
 
 
-	  <!-- Cached Item Begins: retrievalTime="0" scope="general" lang="en" key="336048AC-96BF-57FE-AFF8-D58A25C606CE" cacheTime="{ts '2008-12-17 21:37:00'}"--><!-- Cached Item Ends -->
-	
+	  
+<!-- Item not found in cache. Caching item: scope="general" lang="en" key="336048AC-96BF-57FE-AFF8-D58A25C606CE" -->
 	  <!-- Cache Type: Complete -->
   
 
@@ -430,4 +443,4 @@ urchinTracker();
 
 
 
-<!-- page execution time: 359 msec --></body></html>
+<!-- page execution time: 2265 msec --></body></html>
