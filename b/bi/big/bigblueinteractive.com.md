@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054055id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193655id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # Big Blue Interactive » BigBlueInteractive.com Privacy Policy
 
@@ -27,10 +27,9 @@ To find out more about how direct advertisers/advertising affiliates/third-party
 
   * [ADSDAQ by ContextWeb](http://www.contextweb.com/ppolicy.html)
   * [TribalFusion](http://www.tribalfusion.com/TribalFusion/privacy.html)
-  * [BurstMedia  
-](http://www.burstmedia.com/isl/privacy.asp)
-  * [Google](http://www.google.com/privacy.html)
-  * [ValueClick](https://www.valueclickmedia.com/privacy.shtml)
+  * [BurstMedia ](http://www.burstmedia.com/isl/privacy.asp)
+  * [Google](http://www.google.com/privacypolicy.html)
+  * [ValueClick](https://www.valueclickmedia.com/webuser_privacy.shtml)
   * [Fox Audience Network](https://publishers.foxaudiencenetwork.com/pnp/static/privacy-policy)
   * [Amazon](http://www.amazon.com/gp/help/customer/display.html/105-0187941-1017254?ie=UTF8&nodeId=468496)
   * [TicketCity](http://www.ticketcity.com/Privacy-Policy.html)
@@ -54,7 +53,9 @@ In addition, users should be aware that when they voluntarily disclose personall
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
-Users should be aware that _BBI_ cannot and does not control the use of cookies or the resulting information by advertisers or third parties hosting data for _BBI_.
+Users should be aware that _BBI_ cannot and does not control the use of cookies or the resulting information by advertisers or third parties hosting data for _BBI_. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For example, Google, as a third-party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Users of this site can opt-out of receiving cookies from third party advertising networks through a link to the [Network Advertising Initiatives cookie opt-out page](http://networkadvertising.org/managing/opt_out.asp).
 
 **Log Files:**
 
@@ -68,6 +69,6 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such.
 
-_This Document Was Last Updated on December 12, 2008_
+_This Document Was Last Updated on March 16, 2009_
 
 [](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
