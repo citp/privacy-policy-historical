@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907161003id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071000id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
 
-# privacypolicy | Gainesville.com | The Gainesville Sun | Gainesville, FL
+# PRIVACYPOLICY | Gainesville.com | The Gainesville Sun
 
 This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gainesville.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Gainesville Sun” include Gainesville.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
@@ -81,7 +81,7 @@ The Gainesville Sun may perform statistical, demographic and marketing analyses 
 
 ### Products and Service Message from The Gainesville Sun
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by The Gainesville Sun, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by The Gainesville Sun, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/GNV_DNM.html).
 
 ### Banner Advertising
 
