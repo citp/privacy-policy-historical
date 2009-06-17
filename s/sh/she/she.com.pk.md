@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054710id_/http%3A//www.she.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044222id_/http%3A//www.she.com.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beauty Tips
+# Privacy Policy
 
 If you need more information about She.com.pk , please Contact Us  
 Any personal information you (”You”/”Member”) give us is treated confidentially and held with care and security.  
