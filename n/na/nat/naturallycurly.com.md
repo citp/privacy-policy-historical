@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturallycurly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140533id_/http%3A//www.naturallycurly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallycurly.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063517id_/http%3A//www.naturallycurly.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy on NaturallyCurly.com
 
