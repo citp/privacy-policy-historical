@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133805id_/http%3A//www.podtech.net/home/privacy_podtech) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172108id_/http%3A//www.podtech.net/home/privacy_podtech) for the most accurate reproduction.*
 
 # Podtech.net Privacy Policy | PodTech.net
 
@@ -72,7 +72,7 @@ This Site is not directed to children under age 18. We do not knowingly collect 
 
 If you have any questions about this Privacy Policy, please contact us at Privacy AT podtech DOT net or at:
 
-1801 Page Mill Rd - Suite 400  
-Palo Alto, CA 94304  
-Tel: 650-543-5200  
+20950A Warner Center Ln.  
+Woodland hills,CA 91367  
+Tel: 818-206-9273  
 
