@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034818id_/http%3A//www.66mobile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181658id_/http%3A//www.66mobile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,8 @@ We do not collect personal information about you on this Site apart from informa
 \- Your name and your email address 
 
 To ensure that users email addresses will not get in any bulk mail lists or newsletters, our sistem modify the addresses so any email collecting scripts will not be able to gather them.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Information obtained from the analysis of server logs (IP address and domain) is used exclusively for statistical purposes and for the purpose of administering the server of 66mobile.com
 
