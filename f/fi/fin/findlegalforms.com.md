@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162917id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618014721id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # - FindLegalForms.com
 
@@ -16,9 +16,9 @@ Our Credit Card and Payment Processors may also collect information from you in 
 
 ## Cookies
 
-Our site, as well as most sites on the Internet, use cookies to enhance your experience on the web. Generally, we cannot use these cookies to personally identify you in any way. The only time we can use cookies to personally identify you is when you choose to enable cookie identification. Basically, we use cookies to allow you to enjoy our site more and to make your visit to our site easier. While we believe that cookies enhance your Internet experience, they are not required to use our site. 
+Our site, as well as most sites on the Internet, use cookies to enhance your experience on the web. Generally, we cannot use these cookies to personally identify you in any way. The only time we can use cookies to personally identify you is when you choose to enable cookie identification. We use cookies to enhance your experience and enjoyment of our site. We also use cookies to allow transactions, such as form purchases, to take place as well as to allow users to login into accounts on the site. While we believe that cookies enhance your Internet experience, they are not required to simply browse our site. 
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+Although we don't recommend doing so on our site, if you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
 ## Platform for Privacy Preferences
 
@@ -28,4 +28,4 @@ FindLegalForms.com supports P3P, the Platform for Privacy Preferences, allowing 
 
 ## Protect your rights. Save time and money.
 
-FindLegalForms.com’s comprehensive library of legal documents, legal papers, and business forms has been prepared by attorneys to provide you with safe, informative, and easy-to-use legal forms. 
+FindLegalForms.com’s comprehensive library of legal documents, legal papers, and business forms has been prepared by attorneys to provide you with safe, informative, and easy-to-use legal forms.
