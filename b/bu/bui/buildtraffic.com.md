@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildtraffic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084729id_/http%3A//buildtraffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildtraffic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181744id_/http%3A//buildtraffic.com/privacy.html) for the most accurate reproduction.*
 
 # BuildTraffic.com - Conversion Tracking and Reporting, Search Engine Submission, Pay Per Click Management, Search Engine Optimization, Guaranteed Website Traffic, and Guaranteed Search Inclusion
 
