@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072955id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617162032id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
 
@@ -60,7 +60,7 @@ If you have questions or suggestions, please contact us at:
 
 RoadsideAmerica.com  
 Customer Care Issues  
-PO Box 429  
-Middletown, NJ 07748-0429
+PO Box 1128  
+Novato, CA 94948
 
-Effective Date: June 18, 2007
+Effective Date: April 7, 2009
