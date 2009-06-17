@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063457id_/http%3A//www.livestation.com/privacy%3Ftracker%3Dfooter_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064019id_/http%3A//www.livestation.com/privacy%3Ftracker%3Dfooter_menu) for the most accurate reproduction.*
 
 # Livestation | Livestation privacy policy | Download the free Livestation player
 
 We respect your right to privacy and it is our policy to comply with all applicable privacy and data protection laws. We are committed to protecting your personal information when using our software or services. 
 
-Livestation is a software product and service provided by Skinkers Limited, a UK Registered Company. In this document "Livestation", "our", "us" or "we" all refer to Skinkers Limited. 
+Livestation is a software product and service provided by Livestation Limited, a UK Registered Company. In this document "Livestation", "our", "us" or "we" all refer to Livestation Limited. 
 
 This privacy policy (the "Policy") describes how we protect your privacy when we collect personal information through your use of the Livestation application (the "Software") or the www.livestation.com web service (the "Website"). In this Policy, the term "Personal Information" means information that identifies you personally, alone or in combination with other information available to us. We also collect information that does not identify you personally. 
 
@@ -90,6 +90,12 @@ We aim to respond to any request for deletion of personal information within sev
 
 You may review, correct and update the personal information that you provide to us by using the feedback mechanisms provided by the Website or by using the contact details listed at the end of this Policy. 
 
+* ## Financial Information
+
+All payments on the Livestation website are managed by Paypal.
+
+Livestation does not store any of your financial information. Livestation merely stores an identification token which is used to link your account to the Paypal gateway.
+
 * ## Contacting you
 
 Livestation may contact you: 
@@ -113,4 +119,4 @@ Except for amendments required by law, the Policy at the date that the personal 
 
 * ## Contact details
 
-If you have any questions about this Policy or our use of your Personal Information, you may contact us either by email to [privacy@livestation.com](mailto:privacy@livestation.com) or by writing to us at: Livestation Privacy Officer, Skinkers Ltd., 28-30 Kirby Street, London, EC1N 8TE, United Kingdom. 
+If you have any questions about this Policy or our use of your Personal Information, you may contact us either by email to [privacy@livestation.com](mailto:privacy@livestation.com) or by writing to us at: Livestation Privacy Officer, Livestation Ltd., 28-30 Kirby Street, London, EC1N 8TE, United Kingdom. 
