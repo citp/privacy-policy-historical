@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Web Marketing Automation and Lead Management by Pardot
-
-  [Home](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/index.html) » [Company](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/company/index.html) » [Legal](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/company/legal/index.html)
+# Privacy Policy - Marketing Automation and Lead Management by Pardot
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -24,7 +22,7 @@ We use cookies on this website. A cookie is a text file sent by a web server to 
 
 We may send a cookie which may be stored on by your browser on your computer's hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website's usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookie by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
 ### (3) Using your personal data
 
@@ -74,4 +72,4 @@ The website contains links to other websites. We are not responsible for the pri
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 2440, Atlanta, GA 30326.
 
-Top of Page | [ < Previous Page](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/company/legal/index.html) | [Next Page > ](https://web.archive.org/web/20081217141834id_/http%3A//www.pardot.com/company/legal/accessibility.html)
+Top of Page | [ < Legal](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/index.html) | [Permission-Based Marketing Policy > ](https://web.archive.org/web/20090617193620id_/http%3A//www.pardot.com/company/legal/permission-based-marketing-policy.html)
