@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011208id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617091554id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - carsales.com.au
 
@@ -80,7 +80,7 @@ carsales may disclose personal information to individuals and organisations othe
 
 
 **How to access your personal information**  
-You generally have a right to access your personal Information. If you wish to access your personal information please [Click here](https://web.archive.org/carsales-info/contact-carsales.aspx) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service.
+You generally have a right to access your personal Information. If you wish to access your personal information please Click here or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service.
 
 **What if you don't provide personal information?**  
 If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
@@ -102,7 +102,7 @@ Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122
 Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click here](https://web.archive.org/carsales-info/contact-carsales.aspx) to contact us by email  
+Email: | Click here to contact us by email  
   
   
 **How this policy changes**  
