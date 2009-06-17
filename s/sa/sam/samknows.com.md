@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103856id_/http%3A//www.samknows.com/broadband/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034151id_/http%3A//samknows.com/broadband/privacy.php) for the most accurate reproduction.*
 
-# Samknows Broadband - Privacy Policy
+# SamKnows Broadband - Privacy Policy
 
 ## Privacy Policy
 
-If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us at [sam@samknows.com](mailto:sam@samknows.com). 
+If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us at [team@samknows.com](mailto:team@samknows.com). 
 
 Please read the Privacy Policy carefully as once you use our website you will be regarded as having read and accepted its terms. 
 
@@ -12,7 +12,7 @@ Please read the Privacy Policy carefully as once you use our website you will be
 
 We may collect personal information about you which you give to us when you use our website, for example, to receive our exchange updates and regular website updates. 
 
-Samknows.com strongly believes in the importance of keeping user's personal information private. It will never use your information for any use beyond that stated or the permissions given to us. 
+SamKnows.com strongly believes in the importance of keeping user's personal information private. It will never use your information for any use beyond that stated or the permissions given to us. 
 
 ### Third parties
 
@@ -30,7 +30,7 @@ Most web browsers automatically accept cookies, but you can alter your browser s
 
 ### Your data
 
-Users of Samknows.com have certain rights under the UK's Data Protection Act. You can, for instance, ask to be told what information we hold about you in our databases. Samknows.com will provide you with all of the details that we hold about you, both online and offline, upon request. In order to request this information, please contact us by sending an email to [sam@samknows.com](mailto:sam@samknows.com). 
+Users of SamKnows.com have certain rights under the UK's Data Protection Act. You can, for instance, ask to be told what information we hold about you in our databases. SamKnows.com will provide you with all of the details that we hold about you, both online and offline, upon request. In order to request this information, please contact us by sending an email to [team@samknows.com](mailto:team@samknows.com). 
 
 ### Changes to this policy
 
