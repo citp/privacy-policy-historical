@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the seoforgoogle.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115309id_/http%3A//www.seoforgoogle.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoforgoogle.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034545id_/http%3A//www.seoforgoogle.com/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - SEOforGoogle
 
+[](http://www.seoforgoogle.com/blog/seo-tools/)  
+[](http://www.seoforgoogle.com/order.cfm)
+
 **SEOforGoogle's Online Privacy Policy**  
+---  
 SEOforGoogle recognizes and shares the privacy concerns of visitors to our Web site. SEOforGoogle's On-Line Privacy Policy informs Web site visitors about 1) what we collect and its security 2) benefits to you of what we collect and how we use the information, and 3) the choice you have about SEOforGoogle’s use of the information.  
 **About Me -**  
 **What personal information does SEOforGoogle collect about me?**  
