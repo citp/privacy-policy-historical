@@ -1,20 +1,18 @@
-<!--The following is the downloaded HTML source of the genome.gov privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217041303id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genome.gov privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617050445id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>genome.gov | Web Site Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<meta name="description" content="Privacy policy for the National Human Genome Research Institute's Web site.">
-
-<meta name="keywords" content="privacy, privacy policy, collected, stored, domain, date, time, personal information, disclosure, visit, user, users, browse, web site, about nhgri, about the national human genome research institute">
-<link rel="stylesheet" href="/Includes/css/small.css" src="/Includes/css/small.css">
-<link rel="stylesheet" href="/Includes/css/image.css" src="/Includes/css/image.css">
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="P3Pv1" href="http://www.genome.gov/w3c/p3p.xml">
-
-
-
+    <title>genome.gov | Web Site Privacy Policy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+        <meta name="description" content="Privacy policy for the National Human Genome Research Institute's Web site.">
+        
+        <meta name="keywords" content="privacy, privacy policy, collected, stored, domain, date, time, personal information, disclosure, visit, user, users, browse, web site, about nhgri, about the national human genome research institute">
+        
+    <link rel="stylesheet" type="text/css" href="/Includes/css/genome.css">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="P3Pv1" href="http://www.genome.gov/w3c/p3p.xml">
+    
 <script language="JavaScript"><!--
 function popUp(strURL,strType,strHeight,strWidth) {
 var strOptions="";
@@ -26,12 +24,10 @@ window.open(strURL, 'newWin', strOptions);
 //--></script>
 
 
-
-<script type="text/javascript" src="/includes/js/embeddedcontent.js" defer="defer"></script>
-
+    <script type="text/javascript" src="/includes/js/embeddedcontent.js" defer="defer"></script>
 </head>
 	
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body>
 
 <a name="top"></a>
 
@@ -50,23 +46,48 @@ window.open(strURL, 'newWin', strOptions);
         <td width="280" height="27" align="center" background="/Images/header/header_rightTop.jpg"> 
         <table cellspacing="0" cellpadding="0" border="0">
           <tbody><tr>
-            <td class="searchtext" nowrap="">
-            
-	            
-				<form action="/search.cfm" method="post" style="margin-top: 0px; margin-bottom: 0px;">
-				<label for="searchbox"><span style="display:none">Enter keyword</span></label><input id="searchbox" size="25" class="searchtext" type="text" name="keyword" maxlength="100" value="" title="Search genome.gov">&nbsp;&nbsp;&nbsp;<input class="searchtext" type="submit" value="Search">
+            <td nowrap="">
+				<form action="/search.cfm" id="google" method="post" style="margin-top: 0px; margin-bottom: 0px;">
+				<label for="searchbox"><span style="display:none">Enter keyword</span></label>
+                <input id="searchbox" size="20" type="text" name="keyword" maxlength="100" value="" title="Search genome.gov" style="background: url(&quot;/images/icons/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">&nbsp; <input class="searchtext" type="submit" value="Search">
 				</form>
-            
             </td>
           </tr>
         </tbody></table>
-</td>
+
+
+<script type="text/javascript">
+(function() {
+var f = document.getElementById('google');
+if (f && f.keyword) {
+var q = f.keyword;
+var n = navigator;
+var l = location;
+if (n.platform == 'Win32') {
+q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;';
+}
+var b = function() {
+if (q.value == '') {
+q.style.background = '#FFFFFF url(/images/icons/google_custom_search_watermark.gif) left no-repeat';
+}
+};
+var f = function() {
+q.style.background = '#ffffff';
+};
+q.onfocus = f;
+q.onblur = b;
+if (!/[&?]q=[^&]/.test(l.search)) {
+b();
+}
+}
+})();
+</script></td>
       </tr>
       <tr>
         <td width="280" height="32"><img src="/Images/header/header_rightMiddle.jpg" width="280" height="32" alt="" border="0"></td>
       </tr>
       <tr>
-        <td width="280" height="28" align="center" class="headernav" background="/Images/header/header_rightBottom.jpg" nowrap=""> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/" style="color: #C6FBFC">Home</a> | <a href="/About/" style="color: #C6FBFC">About NHGRI</a> | <a href="/Media/" style="color: #C6FBFC">Newsroom</a> | <a href="/staffSearch.cfm" style="color: #C6FBFC">Staff</a></td>
+        <td width="280" height="28" align="center" background="/Images/header/header_rightBottom.jpg" nowrap=""> <div id="headernav">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/">Home</a> | <a href="/About/">About NHGRI</a> | <a href="/Media/">Newsroom</a> | <a href="/staffSearch.cfm">Staff</a></div></td>
       </tr>
     </tbody></table>
     </td>
@@ -107,9 +128,9 @@ window.open(strURL, 'newWin', strOptions);
       </tr>
     </tbody></table><br>
 
-  	<br>
-
-
+  	
+    
+    <a name="skip"></a>
     
 	<h3>Web Site Privacy Policy</h3>
 <p>Thank you for visiting the National Human Genome Research Institute (NHGRI) Web site. This site does not collect personal information about users, other than information automatically collected and stored when someone visits our Web site, or you choose to provide that information to us (see below).</p>
@@ -148,7 +169,7 @@ window.open(strURL, 'newWin', strOptions);
   </tr>
 </tbody></table>
 
-
+	
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
   <tbody><tr valign="top">
