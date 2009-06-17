@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002526id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172239id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
