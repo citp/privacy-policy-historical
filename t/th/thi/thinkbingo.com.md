@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061812id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035057id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
 
-# Think Bingo. Join now & get up to £100 FREE at the Bingo Site of the Year 2007
+# Think Bingo. Join now & get up to £100 FREE
 
 ## Privacy Policy
 
@@ -62,15 +62,15 @@ IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SU
 
 6.2 We regularly delete data that is no longer required. For further information on what data is held about you can be obtained by contacting us as follows:-
 
-Address:  
+  Address:  
 Cashcade Limited t/a "thinkbingo.com"  
 10, Valentine Place  
 London  
 SE1 8QH
 
-Telephone Number: UK: 0845 226 8585; Outside UK: +44 845 226 8585 or click Contact Us and fill in the online webform. 
+  Telephone Number: UK: 0845 226 8585; Outside UK: +44 845 226 8585 or click Contact Us and fill in the online webform. 
 
-6.3 You may also "opt-out" of receiving any promotional communications either by choosing to opt-out where such option is made available on this website or by contacting us at the details set out above.
+  6.3 You may also "opt-out" of receiving any promotional communications either by choosing to opt-out where such option is made available on this website or by contacting us at the details set out above.
 
 ### 7\. Cookies
 
@@ -86,7 +86,7 @@ With the exception of your personal details, all other information, including, b
 
 ### 10\. Third-Party Practices
 
-We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from this website or any information collected by any third party administering our affiliate program or any other program, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third partyâ€™s information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and is not responsible for the content or privacy practices of such online sites.
+We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from this website or any information collected by any third party administering our affiliate program or any other program, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If you have questions about a third partyâs information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and is not responsible for the content or privacy practices of such online sites.
 
 ### 11\. Legal Disclaimer
 
