@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114541id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175841id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
 
 # EligibleGreeks.com - Safe Online Dating Site for Greek Men and Women
 
@@ -58,10 +58,9 @@ If at any point World Singles decides to use particular personally identifiable 
 
 World Singles gives you the opportunity to: opt-out of certain communications; modify personal information or demographic information you have provided to World Singles; hide demographic information from, or make demographic information visible to the public users of the Site at anytime. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. Thank you for your patience. Please note that changing or deleting your information through the "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from World singles, will only change or delete the data in the World Singles database for purposes of future activities on the Site and for managing future communications from World Singles. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-**CONTACTING THE WEBSITE**
-
+**CONTACTING THE WEBSITE**  
 If you have any questions about this Privacy Statement, the practices of this site, or your dealings with the EligibleGreeks.com website, you can contact: 
 
-[info@worldsingles.com](mailto:info@worldsingles.com) or call us at +1 949-743-2535.
+[info@worldsingles.com](mailto:info@worldsingles.com) or call us at +1 949-743-2535. 
 
 | 
