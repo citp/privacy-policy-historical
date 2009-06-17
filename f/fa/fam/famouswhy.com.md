@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110248id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192849id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
 
 # FamousWhy: Privacy Policy
 
-08 March, 2007
+2 April, 2009
 
 **Privacy**
 
@@ -102,8 +102,14 @@ Netscape Navigator 4.x
 
 This Web site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of these linked Web sites, as their privacy policies may differ from ours.
 
+**  
+About Google and the DoubleClick DART cookie:** \- Google, as a third party vendor, uses cookies to serve ads on http://www.famouswhy.com  
+\- Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+\- As a user, you may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+
+
 \----------------------------------------
 
 **Notification of Changes**
 
-This privacy statement was last updated on March 08, 2007. 
+This privacy statement was last updated on April 2, 2009. 
