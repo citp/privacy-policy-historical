@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070903id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191947id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,9 +53,9 @@ WorldAPP does not target its web site to children, and we will never knowingly c
 **Access to Your Information**  
 You have the right to access and correct your personal information at any time. To review, update or make changes to your personal information collected during the registration, simply click on My Account/Profile, while in the Member Area of Key Survey.
 
-If for some reason you cannot access your information on the web page, please contact us at [sales@keysurvey.com](mailto:sales@keysurvey.com).
+If for some reason you cannot access your information on the web page, please contact us at [sales@worldapp.com](mailto:sales@worldapp.com).
 
-If for some reason you want to change other information you provided to us, please contact us at [sales@keysurvey.com](mailto:sales@keysurvey.com). 
+If for some reason you want to change other information you provided to us, please contact us at [sales@worldapp.com](mailto:sales@worldapp.com). 
 
 **How We Protect Your Information**  
 Due to specific nature of research data, any information collected and processed with Key Survey is treated with the utmost confidentiality. WorldAPP will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary survey tool. All company-specific information gathered through Key Survey will be the property of the customer. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data such as credit card information. 
