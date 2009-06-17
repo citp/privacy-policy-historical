@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165424id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034214id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
 
-# WeddingsOnline.ie - Weddings in Ireland, Irish Wedding Directory, Wedding Resources » Privacy
-
-## Privacy
+# Privacy
 
 WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, , to understand what types of personal information we collect and how this information is used.
 
