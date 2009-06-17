@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025206id_/http%3A//www.condo.com/SiteTermsConditions.aspx%3FPAGE_ID%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070545id_/http%3A//www.condo.com/SiteTermsConditions.aspx%3FPAGE_ID%3D31) for the most accurate reproduction.*
 
 # Condo.com: New Condos For Sale - Apartments for Rent - Condominiums
 
