@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172139id_/http%3A//calculateforfree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculateforfree.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617201111id_/http%3A//calculateforfree.com/privacy.html) for the most accurate reproduction.*
 
 # Free online calculators for home, work, and school
 
