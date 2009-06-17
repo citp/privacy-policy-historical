@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015300id_/http%3A//cracker.com.au/Help/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181209id_/http%3A//cracker.com.au/Help/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cracker Classifieds - Cracker free ads & forums - find, sell or say anything!
 
