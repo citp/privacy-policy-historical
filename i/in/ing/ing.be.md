@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ing.be privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070606id_/http%3A//www.ing.be/private/showdoc.jsp%3Fdocid%3D028011_EN%26menopt%3Diso%7Clep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.be privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191441id_/http%3A//www.ing.be/private/showdoc.jsp%3Fdocid%3D028011_EN%26menopt%3Diso%7Clep) for the most accurate reproduction.*
 
-# Privacy - ING Belgium - Welcome
+# - ING België - Welkom
 
 ING Belgium respects the privacy of both Internet users and any other individuals concerned, in accordance with the current legislation; in particular the law dated 8 December 1992 relating to the protection of privacy and its execution decrees.
 
 Solely by accessing the website of ING Belgium SA/NV ( www.ing.be), Internet users declare they have read the information below and authorises ING Belgium SA/NV (hereinafter referred to as “ING Belgium”) to process, in accordance with the following provisions, the data of a personal nature communicated through the channel of the website (including via online forms, e-mails sent to ING Belgium e-mails addresses, cookies, environment variables, etc.).
 
-Those resposonible for processing data of a personal nature relating to the individuals in question which is communicated via the ING Belgium website are ING Belgique SA/NV whose registered office is established at 24 avenue Marnix, 1000 Brussels (Belgium), (e-mail: info@ing.be) and, where appropriate, another ING Group company established in a member state of the European Union.
+Those resposonible for processing data of a personal nature relating to the individuals in question which is communicated via the ING Belgium website are ING Belgique SA/NV whose registered office is established at 24 avenue Marnix, 1000 Brussels (Belgium), (e-mail: [info@ing.be](mailto:info@ing.be)) and, where appropriate, another ING Group company established in a member state of the European Union.
 
 Data communicated to other ING Group companies established in a member state of the European Union, on the initiative of individuals, is processed by such companies in accordance with the information on the protection of privacy supplied by such companies.
 
@@ -15,7 +15,7 @@ Data of a personal nature relating to individuals communicated to ING Belgium th
 Such data is not intended to be communicated to third parties other than those persons designated for such purposes by the Internet user, companies whose intervention is necessary to achieve one of the above-mentioned purposes or companies of the ING Group established in a member state of the European Union. It may thus be transferred to a non-EU member state whether or not such state provides an adequate level of personal data protection. ING Belgium will however not transfer data to a non-EU state which does not provide an adequate level of protection except in the cases stipulated by the law of 8 December relating to the protection of privacy, for instance ensuring that data is protected by means of appropriate contractual provisions.
 
 The individuals concerned consent to the exchange of data concerning them between existing or future companies of the banking and insurance group ING established in a member state of the European Union. The ING Group within the European Union is a group of companies with activities in banking, insurance, leasing, asset management (investments) and/or an activity following on from such activities. Such exchange of data is intended to enable participating companies to centralise customer management, to have a global overview of the customer, to carry out studies, statistics and/or marketing campaigns (except spamming and unless the individual in question objects), to offer and/or provide the aforementioned services, and to control the regularity of transactions (including the prevention of irregularities). These companies have given an undertaking to guarantee a high level of protection of any data of a personal nature exchanged and are bound, as far as such data is concerned, by an undertaking of discretion.  
-The updated list companies of the Group ING in Belgium which exchange such data is available on the ING Belgium website (www.ing.be) or from ING Belgium upon request. Any individual may ask ING Belgium for an updated list of the companies of the Group ING established in a member state of the European Union.
+The updated list [companies of the Group ING in Belgium](http://www.ing.be/private/showdoc.jsp?docid=028012_FR&menopt=lep%7Ctou%7Cxxx) which exchange such data is available on the ING Belgium website (www.ing.be) or from ING Belgium upon request. Any individual may ask ING Belgium for an updated list of the companies of the Group ING established in a member state of the European Union.
 
 The legal or administrative authorities of regulatory bodies, whether Belgian or international (e.g. American) may, in certain cases stipulated by law or local regulations (in particular with a view to preventing terrorism) demand from ING Belgium or a company to which data may have been transferred in accordance with the above provisions, communication of all or part of the personal data of private individuals.
 
@@ -33,7 +33,9 @@ Personal data relating to the individual concerned is processed by ING Belgium a
 
 “Cookies” generated by the ING Belgium website enable services to be personalised according to the areas of interest of each User, who can be identified by means of such “cookies”.
 
-Such “cookies” contain data concerning the user such as language or currency selected by the Internet user, which will mean that they do not have to enter such data again each time they visit the website. They record data about the ING Belgium website pages visited by the Internet user and their aim is to provide information sessions, particularly by recording the information that the Internet user provides in successive forms, as well as preventing the Internet user from receiving the same advertisements or other announcements repeatedly.
+Such “cookies” contain data concerning the user such as language or currency selected by the Internet user, which will mean that they do not have to enter such data again each time they visit the website.
+
+They record data about the ING Belgium website pages visited by the Internet user and their aim is to provide information sessions, particularly by recording the information that the Internet user provides in successive forms, as well as preventing the Internet user from receiving the same advertisements or other announcements repeatedly.
 
 User data recorded by the “cookies” is, in addition, processed by ING Belgium to compile statistics or studies for the ING Belgium website and to ensure that the content of said website is improved.
 
