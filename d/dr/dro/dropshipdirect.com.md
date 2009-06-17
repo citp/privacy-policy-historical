@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085359id_/http%3A//dropshipdirect.com/warehouse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060546id_/http%3A//dropshipdirect.com/warehouse/privacy.php) for the most accurate reproduction.*
 
 # Dropship Fulfillment Ctr: DSDI Privacy Notice
 
