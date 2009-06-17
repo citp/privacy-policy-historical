@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217031859id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617185120id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,4 +81,4 @@ All personally identifiable information.
 
 ## Did you know?
 
-**Forrest City** – _Forrest City, AR_ : A wonderful museum with an exceptional Native American exhibit. Highlights farming and noteworthy people important to the area. [Learn More ... ](http://www.arkansas.com/attractions/attr_detail/r/Delta/id/18674/lr/ "Learn more about: St. Francis County Museum")
+**Camden** – _Camden, AR_ : This quaint southern town has Civil War history oozing out of every nook and crany. There are Antebellum homes to see, museums and the great Ouachita River. [Learn More ... ](http://www.arkansas.com/city-listings/city_detail/city/Camden "Learn more about: City of Camden, Arkansas")
