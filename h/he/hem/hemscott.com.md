@@ -1,82 +1,75 @@
-> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051207id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171726id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Hemscott
 
-Hemscott is committed to protecting and respecting your privacy online. This statement sets out our Privacy Policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information. If you have any questions or concerns regarding this statement, you should contact us using the details given at the end of this statement.
+**The Privacy Policy was last updated on 23/12/2008.**
 
-Please note that this Policy applies only to Hemscott-branded websites and not to the web sites of other organisations to which we provide links. We are not responsible for the privacy policies or practices of such third party sites and you should make your own enquiries in respect of them.
+## General
 
-## Consent
+Hemscott.com is not just committed to providing you with independent and unbiased investment information; we're also committed to protecting your privacy. This Privacy Policy outlines the types of information we gather about you, how we use it, the means by which we keep it secure and the choices you have about the information you choose to share with us.
 
-You signify your consent to our collecting and using your personal information in accordance with this Privacy Policy by your use of this website. We shall keep a regular update copy of this Privacy Statement on our website.
+If you have any questions about the privacy practices of Hemscott.com or this Privacy Policy, please e-mail: [support@morningstar.com](mailto:support@morningstar.com).
 
-## What information do we collect about you?
+## What Information Do We Collect and How Do We Use It?
 
-Hemscott requires that customers supply personal information, including name and e-mail address in order for us to perform various services. Some of the information requested is voluntary; compulsory fields are clearly marked on the registration form. On occasions, Hemscott may also collect additional personal information from subscribers in optional competitions or survey and feedback forms.
+When you register on Hemscott.com you will be asked to complete a registration form. This registration form includes certain personal information, such as your name, postcode, e-mail address, and might include other demographic information like age, gender and personal income. On occasions, Hemscott.com may also collect additional personal information from subscribers in optional competitions or survey and feedback forms.
 
-Clearly, the better that we know you, the better that we can tailor our services to meet your needs, but we will limit the collection and use of your information to the minimum required to deliver, develop and improve our services to you, which includes advising you about our products, services and other opportunities and administering our business.
+We may use your name and e-mail address to contact you about Hemscott.com and to send you information about other products/services we think might interest you. If you indicate that you are interested in receiving information about a particular third party's products/services, or you opt to receive certain products or services through Hemscott.com, we may provide your personal information to that third party for purposes of fulfilling your request(s). In either case, Hemscott.com normally limits access to your personal information to those third parties that have agreed to keep it confidential.
 
-## IP addresses and cookies
+During the registration/subscription process (and at any time thereafter), you can decide whether or not you wish to receive this sort of information from Hemscott.com. Details on how to control the use of your information are found below (How to Control or Change Your Profile).
 
-A cookie is a piece of information that is stored on your computer's hard drive by your web browser. When you register for the Hemscott site Hemscott employs a cookie to recognise subscribers and their access privileges on the site. If you choose not to receive cookies, you may not be able to access all of the features on the web site.
+The demographic and personal profile information that we collect during the registration/subscription process, are used only in aggregate. Hemscott.com does not sell or rent your personally identifiable information to anyone. Instead, we use this information to create content and functionality that best serves the needs and interests of our users and to improve the quality of the service we provide you.  
+For purposes of credit administration, verification and risk management, we may exchange information about you with reputable reference sources. We reserve the right to sell the database of our subscribers (including personal data relating to you) to a third party if we sell, assign or transfer assets of our company.  
+Please note that we may need to export personal data outside the European Economic Area, but where we will do this we will ensure that data subjects are offered similar data protection to the regime operating in the United Kingdom.
 
-Hemscott also logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We may log IP addresses to track a user's session. Your browser lets us know the type of computer and operating system being used.
+## How Is Portfolio Information Used and Protected?
+
+We recognize that your portfolio information is potentially very sensitive, and protecting the privacy of this information is a top priority for us. The contents of your portfolio are kept strictly confidential and are not shared with any third parties.
+
+## What About Internet Protocol (IP) Addresses and Cookies?
+
+Hemscott.com logs IP addresses and browser types, but we do not link IP addresses to personally identifiable information. This means that, while a user's session is tracked, the identity of that user remains anonymous. We also use these IP addresses to analyse trends, administer the site and gather broad demographic information for aggregate use.  
+Cookies are used for the same reasons. Cookies are small pieces of information stored on your computer's hard drive that allow us to monitor what sort of content on Hemscott.com you find most interesting. By better understanding how you and our other users are using Hemscott.com, we can develop tools and customize content to personalize and improve everyone's experience. We also use cookies to remember your user-id for you (so that you don't have to keep re-entering your user name each time you come back to the site). Your privacy and security are not compromised when you accept a cookie from Hemscott.com because we do not use cookies to collect personal information. Please note, however, that advertisers on our site may also serve you their own cookies when you click through to their sites. We do not control, nor do we have access to, any of the information that they may collect.
 
 ## Third Party Advertising
 
-The advertisements appearing on this website are delivered to you, on our behalf, by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an advertisement (but not your name, address, or any other personal information), is used to serve ads to you on this site. For more information, see [the DoubleClick privacy policy.](http://www.doubleclick.net/us/corporate/privacy "DoubleClick privacy policy \(opens in a new window\)")
+The advertisements appearing on this website are delivered to you, on our behalf, by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an advertisement (but not your name, address, or any other personal information), is used to serve ads to you on this site. For more information, see [the DoubleClick privacy policy](http://www.doubleclick.net/us/corporate/privacy "opens in a new window").
 
 ## Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize an unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", see [DoubleClick's opt-out instructions.](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp "DoubleClick's opt-out instructions \(opens in a new window\)")
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize an unique cookie on your browser, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", see [DoubleClick's opt-out instructions](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp "opens in a new window").  
+Of course, you can choose not to accept the cookie by adjusting your browser settings but, if you choose to do so, you may not be able to take full advantage of the certain customized content on Hemscott.com.
 
-## How is this information used?
+## Links to Other Sites
 
-We may carry out statistical analysis of user behaviour in order to measure consumer interest in the various areas of the site (for product development purposes) and to inform advertisers as to how many consumers have seen their advertising.
+To provide you with a more complete resource for investment information and services, Hemscott.com contains links to certain other sites. Please note that you may be required to register with a site that links to Hemscott.com in order to take advantage of that site's services.  
+We cannot be responsible for the privacy practices of these sites; you should refer to these sites' privacy policies for details.
 
-For purposes of credit administration, verification and risk management, we may exchange information about you with reputable reference sources.
+## Security
 
-Using the e-mail addresses provided at registration, Hemscott periodically sends promotional e-mail to its users with information about services offered by Hemscott and its advertisers, including third party product and service providers.
+Hemscott.com takes precautions to protect its members' personal information. We use industry-standard on-line security measures, such as authentication, to protect your information. Please note, however, that no transmission over the Internet can be 100% secure.
 
-## Opt Out
-
-When first registering you can opt-in to receiving direct marketing about Hemscott and third party products and services.
-
-If you subsequently decide you do not want your details used for these purposes, please send a blank e-mail to: [No_emails@hemscott.co.uk](mailto:No_emails@hemscott.co.uk) if you do not want Hemscott to e-mail you with details of our other products and services which may be of interest, and [No_emails3@hemscott.co.uk](mailto:No_emails3@hemscott.co.uk) if you do not want Hemscott to email you with details of third party products. If you do not want your postal details used for either of these purposes, e-mail [dataprotection@hemscott.co.uk](mailto:dataprotection@hemscott.co.uk) with your request.
-
-We are only able to unsubscribe you with with reference to the e-mail address you use, not by your name. We do not send out automatic notifications to subscribers confirming that they have been opted out once they have used these opt out e-mail addresses.
-
-Upon request, Hemscott shall remove any subscriber (and related personal information) from our database. This may, however, result in your subscription being cancelled, as we require a minimum amount of information to set up and administer your account.
-
-We reserve the right to contact you via post, e-mail or telephone solely in relation to the administration of your account.
-
-Hemscott reserves the right to access and disclose individually identifiable information to comply with applicable laws, court orders and lawful government and regulatory requests, to operate its systems properly, and/or to protect itself and its users.
-
-We reserve the right to sell the database of our subscribers (including personal data relating to you) to a third party if we sell, assign or transfer assets of our company.
-
-Please note that we may need to export personal data outside the European Economic Area, but where we will do this we will ensure that data subjects are offered similar data protection to the regime operating in the United Kingdom.
-
-## How do we protect your information?
-
-When you register for our services, we offer the use of a secure server. The secure server software encrypts the information (e.g. credit card details) that you input before it is transmitted to us. In addition we have strict security and confidentiality procedures covering the storage and disclosure of your information in order to safeguard it, to prevent unauthorised access and to comply with the UK Data Protection Act 1998. Specifically, we shall permit only authorised employees, who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Policy are subject to our usual disciplinary procedures.
-
-Whenever we hire other organisations to provide support services, as agents or contractors, we shall require them to conform to our privacy standards and to allow us to audit them for compliance.
-
-## What else should you know about your privacy?
-
+Hemscott.com also works to protect user information offline. All of your information is housed in secure, access-restricted areas. Only employees who need the information to perform a specific function are granted access to personally identifiable information.  
 The information that you post on message boards is visible to the public. Please remember that, whenever you disclose personal information publicly, that information can be collected and used by others. If you post personal information online, that is accessible to the public, you may receive unsolicited messages from other parties in return. If you do not want strangers to send you e-mail, do not post your e-mail address on a message board.
 
-Furthermore, while we do our best to protect your personal information, Hemscott cannot ensure or warrant the security of any information that you transmit to us. You are responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
+## How to Control or Change Your Profile Information 
 
-## Contact details
+You can edit any of the personal information you've provided by visiting the Personal Profile section of the Membership area. Because this information is protected, you will be required to enter your user name and password to make changes.
 
-Should you feel that your privacy or security is being compromised, or have any questions on this statement, please contact us using the following details:
+In the Personal Profile section, you can choose to receive e-mail newsletters and other communications about new features and improvements to Hemscott.com and Morningstar companies. We also include instructions on how to opt-out of receiving such e-mails each time we send you a message.
 
-Company Secretary  
-Hemscott Group Limited  
-1st Floor Castle House  
-37 - 45 Paul Street  
-London  
-EC2A 4LS  
-Tel: 020 3194 1075  
-[dataprotection@hemscott.co.uk](mailto:dataprotection@hemscott.co.uk)
+Alternatively, please update your Personal Profile by visiting the [Personal Profile section of the Membership area](https://web.archive.org/view-profile.do) and make certain the appropriate boxes are not checked.
+
+## Your acceptance of these terms
+
+By using this site, you consent to the collection of this information by Hemscott.com and Hemscott.com's privacy policy.
+
+## Your rights
+
+You have a legal right to a copy of all the personal information about you held by us. You also have a right to correct any errors in that information.
+
+## Changes to the Privacy Policy
+
+From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
+
+If you have any questions about Hemscott.com's privacy practices or this Privacy Policy, please e-mail us at [support@morningstar.com](https://web.archive.org/web/20090617171726id_/http%3A//www.hemscott.com/support@morningstar.com).
