@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913055225id_/http%3A//www.3balls.com/file_include-file/privacypolicy%3FFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193101id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.*
 
-# 3balls.com - Your source for golf clubs, golf balls, used clubs, drivers, irons, and wedges.
+# 3balls.com | New and used golf clubs, golf equipment, golf balls, golf shoes, golf bags and golf gifts
 
 **
 
@@ -39,13 +39,13 @@ Like many companies, we automatically track certain information based on your be
 3balls.com strongly encourages parents and guardians to supervise the online activities of their minor children and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the site is not intended for use by minors, 3balls.com respects the privacy of minors who may inadvertently use the Internet.
 
 **Payments**  
-Credit card information on our site is strongly encrypted with SSL (Secure Sockets Layer). SSL is used to communicate with secure browsers such as Internet Explorer and Firefox. This encryption makes it extremely difficult for anyone to access your credit card information while it is being sent from your computer to our server. Once we receive your order, we continue to protect your information and keep it secure in a data warehouse that is protected on our server. If you do not trust sending your credit card information over the Internet, feel free to call us at 508-821-3900 to take your order.
+Credit card information on our site is strongly encrypted with SSL (Secure Sockets Layer). SSL is used to communicate with secure browsers such as Internet Explorer and Firefox. This encryption makes it extremely difficult for anyone to access your credit card information while it is being sent from your computer to our server. Once we receive your order, we continue to protect your information and keep it secure in a data warehouse that is protected on our server. If you do not trust sending your credit card information over the Internet, feel free to call us at 508-580-8770 to take your order.
 
 **Links**  
 The site, www.3balls.com may contain links to other sites. The linked sites are not necessarily under the control of 3balls.com. Please be aware that 3balls.com is not responsible for the privacy practices of such other sites. 3balls.com encourages you to be aware when you leave this site and to read the privacy policies of each and every website that collects personally identifiable information. If you decide to access any of the third-party sites linked to this site, you do this entirely at your own risk. Any links to any partner of the site should be the responsibility of the linking party, and 3balls.com shall not be responsible for notification of any change in name or location of any information on the site.
 
 **Updates to Privacy Policy**  
-The 3balls.com Privacy Policy was last updated in September, 2006. We encourage you to periodically check our Privacy Policy and review so you always understand what information we are collecting from you. For any questions about our Privacy Policy, please feel free to contact us at [talk2us@3balls.com](mailto:talk2us@3balls.com) or call us at 508-821-3900.
+The 3balls.com Privacy Policy was last updated in September, 2006. We encourage you to periodically check our Privacy Policy and review so you always understand what information we are collecting from you. For any questions about our Privacy Policy, please feel free to contact us at [talk2us@3balls.com](mailto:talk2us@3balls.com) or call us at 508-580-8770.
 
 © 3balls.com 2006. All Rights Reserved
 
