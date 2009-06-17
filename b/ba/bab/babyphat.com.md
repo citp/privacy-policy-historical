@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040517id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193821id_/http%3A//babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
 
-# Baby Phat
+# Baby Phat - Where Hip Hop and High Class Fashion merge to bring you the hottest styles in tops, jeans, pants, footwear, dresses, lingerie, accessories and more.
 
 **Baby Phat Privacy Policy**
 
