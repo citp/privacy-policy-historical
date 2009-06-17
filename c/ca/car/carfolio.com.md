@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217165045id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194943id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
 # Carfolio.com Privacy Policy - Carfolio.com car specifications pages
+
+## Porsche's 4 door Panamera specifications revealed
+
+The eagerly-anticipated Porsche Panamera specifications have been released in full. The Panamera range comprises of three models, the [Panamera S](https://web.archive.org/specifications/models/car/?car=197989), [Panamera 4S](https://web.archive.org/specifications/models/car/?car=197956) and [Panamera Turbo](https://web.archive.org/specifications/models/car/?car=198000). 
+
+[More...](https://web.archive.org/article/?id=231 "Porsche's 4 door Panamera specifications revealed")
+
+## Aston Martin V12 Vantage
+
+Aston Martin have announced details of the new [Aston Martin V12 Vantage](http://www.carfolio.com/specifications/models/car/?car=194854). Here follows part of their official press release for it: Agility and outright performance formed the basis of design for the V12 Vantage to produce the most exciting incarnation of the Vantage model line-up to date. 
+
+[More...](https://web.archive.org/article/?id=230 "Aston Martin V12 Vantage")
 
 ## Ferrari Scuderia Spider 16M
 
@@ -37,18 +49,6 @@ In the early seventies, Ferrari, Lancia and Bertone teamed up to create one of t
 Chevrolet have officially announced the specifications of their [2010 Chevrolet Camaro](http://www.carfolio.com/search/results/?terms=2008+chevrolet+camaro) models. Two engines are on offer initially, a 3.6 litre V6 with direct petrol injection and a pushrod overhead valve 6.2 litre V8. 
 
 [More...](https://web.archive.org/article/?id=223 "2010 Chevrolet Camaro details released")
-
-## Hammerzeit - 2008 Mercedes-Benz SL 65 AMG Black Series
-
-The recently facelifted SL range from Mercedes-Benz has been given a new range-topper, in the form of a brutal AMG-tweaked 6.0 litre V12 biturbo _sledgehammer_ , the [2008 Mercedes-Benz SL 65 AMG Black Series](http://www.carfolio.com/specifications/models/car/?car=180268). Starting with the already powerful [2008 Mercedes-Benz SL 65 AMG](http://www.carfolio.com/specifications/models/car/?car=169730), the twin turbochargers were given a new, wider cross-section and optimised wastegate ducts to up power, from 612 PS (450 kW) to a massive 670 PS (493 kW). 
-
-[More...](https://web.archive.org/article/?id=221 "Hammerzeit - 2008 Mercedes-Benz SL 65 AMG Black Series")
-
-## New 5th generation BMW 7 Series launched
-
-BMW have announced the latest iteration of their flagship 7 Series range. This, the [5th 7 Series](http://www.carfolio.com/search/results/?terms=2008&makematch=e&make=bmw&modelmatch=s&model=7&num=10&offset=0) generation, features three engine options and 2 body styles at launch. 
-
-[More...](https://web.archive.org/article/?id=220 "New 5th generation BMW 7 Series launched")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
