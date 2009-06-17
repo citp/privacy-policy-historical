@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045957id_/http%3A//www.greatdaygames.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070815id_/http%3A//www.greatdaygames.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Play Free Online Games on Great Day Games
 
@@ -19,6 +19,8 @@ GreatDayGames.com collects the following types of information:
 3\. Legal and policy compliance information. Beyond the data we collect when you register, we also collect information needed to fulfill prizes and to track and verify compliance with GreatDayGames.com policies and federal, state, and local laws. 3
 
 4\. No information specific to a user's personal identity is ever revealed unless the user “opts-in” to receive other specific information such as partner and advertiser offers. 
+
+5\. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 . The information you supply to us when you are registering and setting up your personal GreatDayGames.com account is used to provide our basic services and awarding prizes. Because we store your personal information, we don't have to ask you to re-register each time you want to play our games. GreatDayGames.com routinely sends all new players a welcoming email to verify their passwords and usernames. 
 
