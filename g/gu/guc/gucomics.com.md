@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217073135id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gucomics.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617182517id_/http%3A//www.gucomics.com/privacy.php) for the most accurate reproduction.*
 
 # GU Comics by: Woody Hearn
 
-GU Comics makes every effort to safeguard the privacy of our users. And only collects information on an opt-in basis. That is to say, we collect information about our users only after they have been informaed as to what information we are collecting, how that information will be used, and they have agreed to submit the information we request. GU then only uses this information in the manner prescribed by the opt-in message. Where we do make every effort to link only those sites with similar privacy policy ideals, we can not control the activities of of sites not owned by GU Comics or it's parent company Two More Minutes, LLC. thus our Privacy Policy does not apply once you've followed a link away from our websites.  
+[](http://www.gucomics.com/afs.php)  
+
+
+GU Comics makes every effort to safeguard the privacy of our users. And only collects information on an opt-in basis. That is to say, we collect information about our users only after they have been informaed as to what information we are collecting, how that information will be used, and they have agreed to submit the information we request. GU then only uses this information in the manner prescribed by the opt-in message. Where we do make every effort to link only those sites with similar privacy policy ideals, we can not control the activities of of sites not owned by GU Comics thus our Privacy Policy does not apply once you've followed a link away from our websites.  
 
 
 **Cookies**  
@@ -18,7 +21,7 @@ The GU main site collects IP addresses on those occassions where the information
 GU and its affiliated sites are considered to be PG-13. And special care is taken to protect those individuals indicating that they are younger than 13 years of age. In most cases users stating that they are not 13 or older are excluded from participating.
 
  **Third Party Access to Personal Information**  
-We only provide personal information to third parties in those cases where we specifically inform users as to how their personal information will be distributed and for what reasons. To date, GU has only given personal information to third parties for the purposes of delivering the winnings/purchases for giveaways and/or merchandise sells. GU does not store this information by any means that are accessible by third party sources not specifically associated with the sell/giveaway. GU can not control the practices of any company not directly controlled by GU or its parent comapany, Two More Minutes, LLC.
+We only provide personal information to third parties in those cases where we specifically inform users as to how their personal information will be distributed and for what reasons. To date, GU has only given personal information to third parties for the purposes of delivering the winnings/purchases for giveaways and/or merchandise sells. GU does not store this information by any means that are accessible by third party sources not specifically associated with the sell/giveaway. GU can not control the practices of any company not directly controlled by GU.
 
  **Further Questions**  
 If you have additional questions about GU's privacy policy or how information is being collected, stored, or used for a specific giveaway, contest, auction, etc. please email:
