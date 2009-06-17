@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vicesisters.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212143835id_/http%3A//www.vicesisters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicesisters.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170558id_/http%3A//www.vicesisters.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free escort listing, ViceSisters
 
