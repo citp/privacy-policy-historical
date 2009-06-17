@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eskill.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051020id_/http%3A//www.eskill.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskill.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617093900id_/http%3A//www.eskill.com/privacy.htm) for the most accurate reproduction.*
 
 # eSkill | Online Typing Test & Timed Keyboard Tests For Businesses
 
@@ -73,4 +73,4 @@ Phone: (866) 537-5455
 Fax: (978) 649-8040  
 Email: [info@eskill.com](mailto:info@eskill.com) **
 
-Watch Demo | [Purchase Info](http://es.eskill.com/es/account_purchase/) | [Sample Test](http://es.eskill.com/es/quiz/?testId=eb2b9cbf0829ffcf&st=t) | [Subject List](http://es.eskill.com/es/Subjects.do) | [Testimonials](https://web.archive.org/web/20081216051020id_/http%3A//www.eskill.com/testimonials.htm) | [Get Consultation](http://es.eskill.com/es/demo_request/)
+Watch Demo | [Purchase Info](http://es.eskill.com/es/account_purchase/) | [Sample Test](http://es.eskill.com/es/quiz/?testId=6526f26df95c341d&st=t) | [Subject List](http://es.eskill.com/es/Subjects.do) | [Our Customers](https://web.archive.org/web/20090617093900id_/http%3A//www.eskill.com/testimonials.htm) | [Get Consultation](http://es.eskill.com/es/demo_request/)
