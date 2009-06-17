@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043447id_/http%3A//www.ip.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063410id_/http%3A//ip.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IP.com Privacy Statement
 
