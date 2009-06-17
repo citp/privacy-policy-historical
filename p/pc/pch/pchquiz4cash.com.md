@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchquiz4cash.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044858id_/http%3A//pchquiz4cash.com/privacy%3Fcm_re%3DPCHQuiz4Cash-_-BotNav-_-June08PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchquiz4cash.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063753id_/http%3A//pchquiz4cash.com/privacy%3Fcm_re%3DPCHQuiz4Cash-_-BotNav-_-June08PrivacyPolicy) for the most accurate reproduction.*
 
 # PickJam Privacy Policy
 
