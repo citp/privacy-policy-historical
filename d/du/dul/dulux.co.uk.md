@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113027id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193741id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy
-
-Privacy policy
 
 ## Choice and consent
 
