@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160254id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034441id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
 
 # StarWars.com | Privacy Policy
 
@@ -20,7 +20,7 @@ Generally, we limit the collection of information to what is known as non-person
 
 We have many Web sites that contain different activities for you and your family. Some sites are informational only and some collect your personally identifiable information so that you may participate in different activities. The following sites allow children to register following the receipt of parental consent: www.starwars.com and lucasarts.com. 
 
-In addition, our www.starwars.com site includes a paid membership section, Hyperspace membership, which collects additional personally identifiable information which is not collected for free memberships. Free membership registration requires only the collection of your full name, e-mail address and the creation of a screen name. Hyperspace membership in addition requires the collection of your mailing address and credit/debit card information required for purchasing the membership. Hyperspace members have the ability to participate in activities which free members cannot access, such as special forum participation. 
+In addition, our www.starwars.com site includes a paid membership section, Hyperspace membership, which collects additional personally identifiable information which is not collected for free memberships. Free membership registration requires only the collection of your full name, e-mail address and the creation of a screen name. Hyperspace membership requires the collection of your mailing address and credit/debit card information required for purchasing the membership. Hyperspace members have the ability to participate in activities which free members cannot access, such as special forum participation. 
 
 In some areas on our Web sites additional personally identifiable information is asked for and collected (for example, full name, mailing address and phone number). This collection is necessary so that our visitors can participate in certain activities, such as online sweepstakes or online promotions. You may not be able to access those areas or participate in such activities without being registered or giving us the necessary personally identifiable information. Whenever we request that you submit such personally identifiable information, we will notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT WE ARE PROHIBITED FROM CONDITIONING A CHILD'S PARTICIPATION IN AN ACTIVITY ON THE CHILD'S DISCLOSING MORE PERSONAL INFORMATION THAN IS REASONABLY NECESSARY TO PARTICIPATE IN THAT ACTIVITY. YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE TO PROVIDE PERSONAL INFORMATION THAT IS REASONABLY NECESSARY TO PARTICIPATE IN CERTAIN ACTIVITIES, YOU MAY NOT BE ABLE TO PARTICIPATE IN THOSE ACTIVITIES AT THIS WEB SITE. 
 
@@ -50,7 +50,7 @@ Some of our sites provide you with the opportunity to email a web page to anothe
 
 **Résumés:**
 
-Some of our sites allow for the online submission of résumés. Personal information collected from résumés is not subject to this Privacy Policy; however, the information submitted will be used solely lawfully, such as for the purpose of accepting and evaluating candidate submissions for job postings or for the purpose of sending candidates who have previously submitted résumés to us information regarding open positions that may fit their submitted information Candidates are able to change or update their information by resubmitting their updated résumés by filling out a new online submission form. 
+Some of our sites allow for the online submission of résumés. Personal information collected from résumés is not generally subject to this Privacy Policy; however, the information submitted will be used solely lawfully and in accordance with disclosures agreed to by candidates at the time of submission. If you have previously submitted a résumé and would like to update your personal information please [click here](https://jobs.lucasfilm.com/). If you would like to remove yourself from consideration as a candidate please email us the request at [unconsider@lucasfilm.com](mailto:unconsider@lucasfilm.com). 
 
 **Online Promotions:**
 
@@ -174,7 +174,7 @@ The TRUSTe Children's Online Privacy Seal Program covers only personally identif
 
 **To What Web sites does this Privacy Policy Apply?**
 
-The terms of this Privacy Policy apply to all information submitted on the following Web sites: www.starwars.com, www.ilm.com, www.lucasfilm.com, www.lucaslearning.com, and www.skysound.com and not to information that may be submitted to us offline. In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities (such as Lucasfilm Ltd., Lucas Licensing Ltd., Lucas Online, Lucas Digital Ltd. LLC, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
+The terms of this Privacy Policy apply to all information submitted on [www.lucasarts.com](http://www.lucasarts.com/) and not to information that may be submitted to us offline. Furthermore, the terms of this Privacy Policy apply to all information submitted to the following Web sites: [www.starwars.com](http://www.starwars.com/), [www.ilm.com](http://www.ilm.com/), [www.lucasfilm.com](http://www.lucasfilm.com/), [www.lucaslearning.com](http://www.lucaslearning.com/) and [www.skywalkersound.com](http://www.skywalkersound.com/). In addition, the terms shall only apply to Web sites owned and operated by Lucasfilm Ltd. or any of its affiliated, subsidiary or related corporate entities or divisions (such as Lucasfilm Ltd., Lucasfilm Entertainment Company Ltd., Lucas Licensing Ltd., Lucas Online, LucasArts, Lucas Learning Ltd., ILM, Skywalker Sound), as well as to some of our selected corporate partners and licensees who have agreed to abide by our Privacy Policy. It does not otherwise apply to any independently operated Web sites, for which separate privacy policies and terms of use shall apply. Finally, since this Privacy Policy is intended to protect individuals. 
 
 **CONTACT INFORMATION:**
 
@@ -194,4 +194,4 @@ TRUSTe will serve as a liaison with our Website to resolve your concerns. For ad
 
 © 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
 
-Effective Date: 03/05/07
+Effective Date: 04/10/09
