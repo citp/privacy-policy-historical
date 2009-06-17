@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060827id_/http%3A//www.iceland.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070918id_/http%3A//www.iceland.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Iceland
 
