@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairemate.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021401id_/http%3A//millionairemate.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairemate.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063928id_/http%3A//millionairemate.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # MillionaireMate PRIVACY POLICY
 
