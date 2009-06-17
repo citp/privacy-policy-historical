@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabrands.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060423id_/http%3A//www.megabrands.com/en/site/privacypolicy.php%3Flevel%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabrands.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051520id_/http%3A//www.megabrands.com/en/site/privacypolicy.php%3Flevel%3D1) for the most accurate reproduction.*
 
 # MEGA Brands | Company | Privacy Policy
 
@@ -6,7 +6,6 @@ Protecting those most vulnerable.
 
 Just how important is your child's online privacy to us? Plenty. In fact, we at MEGA Brands share your concern about protecting an impressionable young audience. This issue is vital to our mission of encouraging safe and healthy learning. It is for this reason that we follow the guidelines established by the Children's Advertising Review Unit [(CARU)](http://www.caru.org/) of the Council of Better Business Bureaus. By promoting a trustful and secure environment, we can offer your child a safe and enjoyable online experience. It's just the right thing to do.
 
-  
   
 MEGA Brands Privacy Policy
 
@@ -17,7 +16,7 @@ Who owns the MEGABrands.COM web site?
 
 The website is owned by MEGA Brands Inc. (“MEGA Brands”) and is operated by MEGA Brands Inc. and/or its affiliated companies (MEGA Brands Inc. and its affiliated companies are collectively referred to as the “MEGA Family”). The companies that are part of the MEGA Family are the owners of the MEGA Brands, ROSEART® and MAGNEXT trademarks and manufacturers of the MEGA Brands toys, activity and stationery items.
 
-The head office of MEGA Brands Inc. is located at 4505 Hickmore, Montreal (QC) Canada, H4T 1K4. For general inquiries or if you have any questions or comments regarding our privacy statement or policies, please contact us by postal mail, at that address, to the attention of "Consumer Service" or by visiting our [consumer service center](https://web.archive.org/web/20081217060423id_/http%3A//www.megabrands.com/en/customerservice/servicecenter.php).
+The head office of MEGA Brands Inc. is located at 4505 Hickmore, Montreal (QC) Canada, H4T 1K4. For general inquiries or if you have any questions or comments regarding our privacy statement or policies, please contact us by postal mail, at that address, to the attention of "Consumer Service" or by visiting our [consumer service center](https://web.archive.org/web/20090617051520id_/http%3A//www.megabrands.com/en/customerservice/servicecenter.php).
 
 Please note that our Privacy Policy applies only to the web sites operated by the MEGA Family and not to other web sites operated by other companies or organizations to which we may link, as we do not control the activities of those sites.
 
@@ -40,14 +39,14 @@ If you feel uncomfortable submitting your credit card information over the Inter
   
 What options do I have in response to a request for personal information?
 
-You can supply the information or you can refuse to supply the information. You can also request the correction or deletion of personal information you have previously supplied to us by contacting us by regular mail to the attention of "Consumer Service" at 4505 Hickmore, Montreal (QC) Canada, H4T 1K4 or by visiting our [consumer service center](https://web.archive.org/web/20081217060423id_/http%3A//www.megabrands.com/en/customerservice/servicecenter.php).
+You can supply the information or you can refuse to supply the information. You can also request the correction or deletion of personal information you have previously supplied to us by contacting us by regular mail to the attention of "Consumer Service" at 4505 Hickmore, Montreal (QC) Canada, H4T 1K4 or by visiting our [consumer service center](https://web.archive.org/web/20090617051520id_/http%3A//www.megabrands.com/en/customerservice/servicecenter.php).
 
   
 What is the policy for posting personal information on your web site?
 
 At present, we do not post any such information. If we were to post personal information in the future, we would only do so upon obtaining verifiable parental consent, or the consent of a child's caregiver, by requesting that our “Parental Consent Form” be sent to our head office address.
 
-[(Click here for Parental Consent Form)](https://web.archive.org/web/20081217060423id_/http%3A//www.megabrands.com/en/media/pdf/parental_consent_form.pdf)
+[(Click here for Parental Consent Form)](https://web.archive.org/web/20090617051520id_/http%3A//www.megabrands.com/en/media/pdf/parental_consent_form.pdf)
 
 . 
 
@@ -60,7 +59,7 @@ Is the submission of personal information ever needed as a condition for partici
 
 Some of our activities, such as story or creation submissions, games, e-cards, newsletters, sweepstakes and contests may require the collection of personally identifiable information. The information collected from participants will also be considered confidential. To enable children under 13 years of age to participate in any such activity, a parent or guardian must print and fill out the
 
-[Parental Consent Form](https://web.archive.org/web/20081217060423id_/http%3A//www.megabrands.com/en/media/pdf/parental_consent_form.pdf)
+[Parental Consent Form](https://web.archive.org/web/20090617051520id_/http%3A//www.megabrands.com/en/media/pdf/parental_consent_form.pdf)
 
 and return it to us by postal mail or by fax. We do not condition participation in any activity upon disclosure of more information than is reasonably necessary to participate in such an activity. You may of course at any time opt out of such activities.
 
