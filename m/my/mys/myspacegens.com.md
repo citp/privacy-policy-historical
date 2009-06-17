@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacegens.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094845id_/http%3A//www.myspacegens.com/handler.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacegens.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193641id_/http%3A//www.myspacegens.com/handler.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # MyspaceGens Privacy Policy
 
@@ -32,9 +32,9 @@ User data
 
 A. Upon request we provide site visitors with access to a description of information that we maintain about them. Visitors can access this information by e-mail us at the above address. 
 
-B. Visitors can have this information corrected, or removed by sending us e-mail at the above address, or by visiting us at [our contact page](https://web.archive.org/web/20081217094845id_/http%3A//www.myspacegens.com/handler.php?page=contact). 
+B. Visitors can have this information corrected, or removed by sending us e-mail at the above address, or by visiting us at [our contact page](https://web.archive.org/web/20090617193641id_/http%3A//www.myspacegens.com/handler.php?page=contact). 
 
-C. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, or by visiting us at [our contact page](https://web.archive.org/web/20081217094845id_/http%3A//www.myspacegens.com/handler.php?page=contact). 
+C. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, or by visiting us at [our contact page](https://web.archive.org/web/20090617193641id_/http%3A//www.myspacegens.com/handler.php?page=contact). 
 
 **5**
 
