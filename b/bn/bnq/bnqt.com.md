@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnqt.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040113id_/http%3A//www.bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnqt.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191050id_/http%3A//www.bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy — BNQT.com — Banquet Action Sports Digital Network
 
