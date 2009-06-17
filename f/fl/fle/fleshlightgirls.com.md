@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430163508id_/http%3A//www.fleshlightgirls.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlightgirls.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617043906id_/http%3A//www.fleshlightgirls.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Fleshlight Girls
+
+|  | 
 
   * Our Guarantee:  
 Maintaining your privacy and providing a hassle-free, enjoyable, and discreet shopping experience is of utmost importance to us.
