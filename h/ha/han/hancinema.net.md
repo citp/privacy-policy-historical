@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131232id_/http%3A//hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancinema.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171837id_/http%3A//www.hancinema.net/hancinema_privacy_policy.php) for the most accurate reproduction.*
 
 # HanCinema Privacy Policy Statement @ HanCinema :: The Korean Movie and Drama Database, discover the South Korean cinema and drama diversity
 
@@ -20,6 +20,8 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences.
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us by clicking here, Contact, and leaving us a message.
+
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
