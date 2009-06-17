@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229044127id_/http%3A//www.memorybits.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194121id_/http%3A//www.memorybits.co.uk/privacy) for the most accurate reproduction.*
 
-# memorybits.co.uk - Terms & Conditions
+# Privacy Policy - Memorybits.co.uk
 
-Memorybits is committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with UK Law). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
+Memorybits is committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with Jersey Law). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
 
-**Your Details**
+ **Your Details**
 
 We will need to collect the following information to process and fulfil your order, and to notify where applicable the status of your order:  
 • Your name,   
@@ -19,8 +19,7 @@ All personal information is held securely in accordance with our internal securi
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" (a small piece of electronic information), which would be stored on your browser. Unless you modify your browser settings, information collected this way can be used to identify you.
 
-We employ other companies & individuals to perform functions on our behalf. Those companies and individuals will have access to personal information needed to perform those functions, but may not use it for any other purposes and are required to process the data in accordance with Data Protection legislation.
+We employ other companies & individuals to perform functions on our behalf. Those companies and individuals will have access to personal information needed to perform those functions, but may not use it for any other purposes and are required to process the data in accordance with Data Protection legislation. **  
+**
 
-**Security**
-
-It is completely safe to order through our website. When you enter your payment details on the site, our secure server software (SSL) encrypts this data before sending it over the Internet. Our secure server uses 128 bit encryption – the highest level of encrypted security available. We take the security of our customers’ personal details very seriously, and will always use the best technology available in order to provide you with the highest degree of protection from unauthorised access.
+This website and its content is copyright of MemoryBits Jersey International Ltd - © MemoryBits Jersey International Ltd 2009. All rights reserved | [Useful Links](http://www.memorybits.co.uk/links/ "Useful Links") | International Sites: [Germany](http://www.zoombits.de/)
