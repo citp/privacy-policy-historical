@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216142346id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063840id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
 
-# Jobs in India, Mumbai jobs, Delhi jobs, Bangalore jobs, Chennai jobs, Hyderabad jobs, Pune jobs - Bixee.com
+# None
 
 This Privacy Policy explains how ibibo Web Private Ltd. ("Company") collects, use, disclose and protect the Personal Information obtained explicitly through the Company.s web site, "www.Bixee.com" .Site. as well as other information collected automatically without direct submission by you. "Personal Information" is information that enables anyone to contact you. Your full name, address, telephone number, or email address are examples of personal information. 
 
@@ -14,3 +14,5 @@ The Company implements standard measures to protect against unauthorized access 
 Questions? If you have questions about this Privacy Policy, please send us an email at **contactus@bixee.com**.
 
 The Company hopes that this policy clarifies the Company.s procedures regarding your Personal Information. The Company may amend this policy at any time by posting the amended policy on the Site. Please see our Terms of Service for further details. 
+
+* * *
