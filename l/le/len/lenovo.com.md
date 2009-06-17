@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612090919id_/http%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenovo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171029id_/http%3A//www.lenovo.com/privacy/us) for the most accurate reproduction.*
 
 # Lenovo Privacy
 
@@ -36,11 +36,10 @@ Your choices
 How to contact us  
 ---  
   
-Questions about this statement or about Lenovo's handling of your information may be sent to: [privcy@us.lenovo.com](mailto:privcy@us.lenovo.com) or
+Questions about this statement or about Lenovo's handling of your information may be sent to: [privcy@lenovo.com](mailto:privcy@lenovo.com%20) or
 
 Lenovo Privacy  
 1009 Think Place  
-Bldg 500 Rm DD313  
 Morrisville, NC 27560  
   
 | 
