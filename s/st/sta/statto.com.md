@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217160205id_/http%3A//www.statto.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170603id_/http%3A//www.statto.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - statto.com
 
@@ -23,6 +23,8 @@ By entering your personal information, you accept that we may retain the informa
 By using our website you consent to the collection and use of your information as described in this policy.
 
 You should be aware that when you use links to other sites from a website operated by third-parties you will be subject to these third-parties’ privacy policies. We cannot be responsible for the actions of third-parties and we would advise that you read the privacy policies of third-party sites when interacting with them.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 The Company may update this policy from time to time and we advise you to check it regularly so that you are aware of any changes.
 
