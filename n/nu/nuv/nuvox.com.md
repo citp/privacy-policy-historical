@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085407id_/http%3A//nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617074254id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
 
 # NuVox :: Legal Notices :: Privacy Policy
 
