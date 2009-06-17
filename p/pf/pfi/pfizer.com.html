@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221100453id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfizer.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617194003id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -105,6 +105,25 @@
 
 </head>
 <body>
+
+<!-- start omniture -->
+<!-- [waa.area.open OmCodeStart]-->
+<!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+
+<!-- Timeparting EST -->
+
+
+<script language="JavaScript">
+var currYear = 2009
+</script>
+
+<script language="JavaScript" src="/include/js/s_code.js"></script>
+
+<!-- [waa.area.close OmCodeStart]-->
+
+ 
+<!-- end omniture -->
+
 <div id="bkgcontainer">
 <div id="maincontainer">
 
@@ -135,22 +154,26 @@
 		<script language="javascript">
 function GoogleSearch()
 {
-	var searchString = document.getElementById('cse-search-box').q.value;
+	var searchString = document.getElementById('cse-search-box').qtemp.value;
 	//searchString = searchString.replace('&','%26');
 	
 	if (searchString == "") {
 		return false;
+	} else {
+		var replaceq = searchString.split(' ').join('+');
+		document.getElementById('cse-search-box').q.value = replaceq;
 	}
 }
 </script>
 
 <div id="searchformcontainer">
-<form action="/general/search_results.jsp" id="cse-search-box" style="margin-bottom:0;">
+<form action="/general/search_results.jsp" id="cse-search-box" style="margin-bottom:0;" onsubmit="return GoogleSearch();">
 <div>
 <input type="hidden" name="cx" value="013769243196555347095:l8x3wfkll-i">
 <input type="hidden" name="cof" value="FORID:9">
 <input type="hidden" name="ie" value="UTF-8">
-<input type="text" name="q" class="searchinput" size="15" onfocus="javascript:this.value='';">
+<input type="hidden" name="q" class="searchinput" size="15">
+<input type="text" name="qtemp" class="searchinput" size="15" onfocus="javascript:this.value='';" value="Site Search">
 <input type="image" src="/img/button.go.gif" name="sa" value="Search" onclick="return GoogleSearch();">
 </div>
 </form>
@@ -171,10 +194,10 @@ function GoogleSearch()
 <div id="cmsContent"><h1>Privacy</h1>
 	<!-- <p>Last updated February 2006</p> -->
 
-    <div><a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101"><img src="/img/clickseal.gif" style="float:right" border="0"></a></div>
+    <div><a href="/general/jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101"><img src="/img/clickseal.gif" style="float:right" border="0"></a></div>
     <h2>Scope</h2>
-     <p>This notice provides  highlights of the full Pfizer Inc privacy statement and applies to TRUSTe certified Pfizer Web sites. Visit the TRUSTe Web site to view a <a href="jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101">complete list of Pfizer Web sites with Validated Privacy  Statements</a>.</p> 
-    <p>View the <a href="privacy_policy.jsp">full Pfizer Privacy Statement</a>.</p>
+     <p>This notice provides  highlights of the full Pfizer Inc privacy statement and applies to TRUSTe certified Pfizer Web sites. Visit the TRUSTe Web site to view a <a href="/general/jump.jsp?url=http://www.truste.org/ivalidate.php?companyName=Pfizer,%20Inc.%26sealid=101">complete list of Pfizer Web sites with Validated Privacy  Statements</a>.</p> 
+    <p>View the <a href="/general/privacy_policy.jsp">full Pfizer Privacy Statement</a>.</p>
     
     <h2>Personal Information</h2>
     <ul class="bulletlist_nomargin">
@@ -183,7 +206,7 @@ function GoogleSearch()
       <li>We may also collect information a visitor voluntarily provides through responses to questionnaires, surveys, search functions and health assessment tools.</li>
       <li>Pfizer sites use cookies and other technologies to identify users as they move through our Web sites. Your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent.</li>
     </ul>
-    <p><a href="privacy_policy.jsp">Additional Information</a></p>
+    <p><a href="/general/privacy_policy.jsp">Additional Information</a></p>
 
     <h2>How to Contact Us</h2>
       <p>With questions about this privacy statement or about Pfizer's handling of your information please contact our <a href="/contact/mail_privacy.jsp">Privacy Officer</a>.</p>
@@ -203,14 +226,14 @@ function GoogleSearch()
       <li>We may personalize our Web sites to provide you with a customized interactive experience, and we may target our marketing and health care messaging on those sites based on information we have about you. </li>
       <li>We do not sell, rent or share your personal information with outside third parties. In order to provide services, we may provide information to other companies who work on our behalf. When we do so, we use our best efforts to assure that they agree in writing to abide by Pfizer privacy policies.</li>
     </ul>
-    <p><a href="privacy_policy.jsp#one">Additional Information</a></p>
+    <p><a href="/general/privacy_policy.jsp#one">Additional Information</a></p>
 
     <h2>Your Rights and Choices</h2>
     <ul class="bulletlist_nomargin">
       <li>You can unsubscribe from communications you no longer wish to receive. We provide unsubscribe (opt-out) instructions in our communications.</li>
       <li>You can also contact us at <a href="mailto:privacy.officer@pfizer.com">Privacy Officer</a> or the postal address above if you want to update your personal information or change your marketing preferences. </li>
     </ul>
-    <p><a href="privacy_policy.jsp#four">Additional Information</a></p>
+    <p><a href="/general/privacy_policy.jsp#four">Additional Information</a></p>
 
     <h2>Important Information</h2>
     <ul class="bulletlist_nomargin">
@@ -228,10 +251,12 @@ function GoogleSearch()
 <!-- NS6 and IE5 fix to stretch container -->
 
 <!-- START FOOTER INCLUDE -->
+
+
 <div id="footer">
 	<p>
         <a href="/home/"><img src="/img/logo.footer.gif" alt="Pfizer, the World's Largest Pharmaceutical Company" width="45" height="23" align="left" border="0"></a>
-        Copyright © 2002-2008 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States.<br>
+        Copyright © 2002-2009 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States.<br>
         <a href="/b2b/index.jsp">Business to Business</a>
         <a href="/careers/">Careers</a>
         <a href="/contact/index.jsp">Contact Us</a>
@@ -243,109 +268,34 @@ function GoogleSearch()
 	</p>
 
 	<p>The product information provided in this site is intended only for residents of the United States.<br>
-		The products discussed herein may have different product labeling in different countries.<img src="/img/general/logo.trust-e.gif" alt="Trust-e" align="right"></p>
+	The products discussed herein may have different product labeling in different countries.<img src="/img/general/logo.trust-e.gif" alt="Trust-e" align="right"></p>
 
 	<p>Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
     
 </div>
+
+
+<script type="text/javascript" src="/include/js/thickbox_jquery.js"></script>
+<script type="text/javascript" src="/include/js/thickbox.js"></script>
+<link rel="stylesheet" href="/include/css/thickbox.css" type="text/css" media="screen">
+<script type="text/javascript" src="/include/js/pfsurvey.js"></script>
 <!-- END FOOTER INCLUDE -->
 
 
 </div>
 <!--END MAINCONTAINER--> </div><!--END BKGCONTAINER-->
 <div id="endbkgcontainer"></div>
-<!-- start hitbox -->
-<script language="javascript" type="text/javascript">
-var acct= "DM5407252GFR";
-</script>
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-function hbxStrip(a) {
-             a = a.split("'").join("");
-             a = a.split("ý").join("");
-             a = a.split("&").join("");
-             a = a.split("|").join("");
-             a = a.split("#").join("");
-             a = a.split("$").join("");
-             a = a.split("%").join("");
-             a = a.split("^").join("");
-             a = a.split("*").join("");
-             a = a.split(":").join("");
-             a = a.split("!").join("");
-             a = a.split("\\").join("");
-             a = a.split("<").join("");
-             a = a.split(">").join("");
-             a = a.split("~").join("");
-             a = a.split(";").join("");
-             a = a.split(" ").join("+");
-		 return a;
-             }
-</script>
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-pfizer.hitbox.com";
 
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-//hbx.acct="DM5407252GFR72EN3";//ACCOUNT NUMBER(S)
-hbx.acct= acct;
-hbx.pn=hbxStrip(document.title);//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+<!-- start omniture -->
+<!-- [waa.area.open OmCodeEnd]-->
+<!-- /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ -->
 
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
+<script language="JavaScript">var s_code=s.t();if(s_code)document.write(s_code)</script>
 
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
+<!-- End SiteCatalyst code version: H.17. -->
 
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
+<!-- [waa.area.close OmCodeEnd]-->
+<!-- end omniture -->
 
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1=hbxStrip(top.location.href);
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-
-//INSERT CUSTOM EVENTS
-
-
-//END EDITABLE SECTION
-
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="/include/js/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
-<!-- end hitbox -->
 
 </body></html>
