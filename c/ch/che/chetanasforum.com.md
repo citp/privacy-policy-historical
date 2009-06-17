@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040635id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetanasforum.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045156id_/http%3A//www.chetanasforum.com/index.php%3Fshowtopic%3D18709) for the most accurate reproduction.*
 
 # ChetanaS - Privacy Policy... - ChetanaSforum
 
@@ -20,11 +20,20 @@ You will receive our email alerts (about new content updates in the website and 
 
 **Cookie Management and Web beacons**
 
-We may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. However we DO NOT sell, rent or share any of these detailed obtained by us.
+We (Or our Advertisers) may access and set cookies using Web beacons, also known as single-pixel GIFs, which are invisible graphical images. These Web beacons tell us useful information regarding our site such as which pages users access. However we DO NOT sell, rent or share any of these detailed obtained by us.
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+ **DoubleClick DART Cookie**
+
+\- Google, as a third party vendor, uses cookies to serve ads on our website.  
+\- Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).   
+\- You can [Check Here](http://www.doubleclick.com/privacy/faq.aspx) to know more details about DoubleClick DART Cookie.
 
  **Third Party Advertisements**
 
-To try and bring you offers that are of interest to you, we have relationships with few third-party companies that we allow to place ads in our web pages. As a result of your visit to our site, third-party ad serving companies (such as Google's AdSense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the Privacy Policy of respective ad serving companies. (For example, [**Privacy Policy of Google (Adsense)**](http://www.google.com/privacy.html))
+To try and bring you offers that are of interest to you, we have relationships with few third-party companies that we allow to place ads in our web pages. As a result of your visit to our site, third-party ad serving companies (such as Google's AdSense) may collect information such as your domain type, your IP address and clickstream information. It could also access and set cookies in your browser, use web beacons as mentioned above. For further information, please consult the Privacy Policy of respective ad serving companies. (For example, [Privacy Policy of Google (Adsense)](http://www.google.com/privacy.html))
 
  **Contact us for more info**
 
@@ -32,4 +41,4 @@ If you have any privacy related issues, you may contact the administrator of thi
 
  **Privacy Policy - subject to change**
 
-If our information practices change at some time in the future, we will post the policy changes at our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically or directly contact us for any clarifications. 
+If our information practices change at some time in the future, we will post the policy changes at our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically or directly [Contact Us](http://www.chetanasforum.com/index.php?&autocom=contactform) for any clarifications. 
