@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100203id_/http%3A//www.home-ec101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045133id_/http%3A//www.home-ec101.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Home Ec 101
+# Privacy Policy | Home Ec 101
 
 _Updated 7-10-2008_
 
