@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jossip.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160525id_/http%3A//www.jossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jossip.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061051id_/http%3A//www.jossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Jossip
 
@@ -6,10 +6,14 @@ Privacy Policy
 
 Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn't be in business. Listen up.
 
-We do not rent or sell your personal information, such as your name, email address, phone number, mailing address, or any other identifiable information. We do not even collect such data without your initiation, such as you emailing Jossip, commenting on an item, or signing up to an email list.
+When visitors come to a Jossip site, we collect standard information such as their IP addresses and referral data. We also collect information visitors voluntarily submit to us, such as their names, email addresses, mailing addresses, phone numbers, interests and preferences about our services, and other personal data. Generally this information is collected when visitors sign up for a user account, comment on our sites, initiative communication with Jossip, or enter a contest or promotion; none are required to visit or use a Jossip site.
 
-We _do_ place cookies on your computer. You know about cookies, those little data files private investigators love finding while snooping around your computer to see if you're downloading porn or cheating on your spouse. Our cookies come may from our publishing system and our advertisers. The cookies from our end are there simply to remember your name or email address if you post a comment to a story or engage in similar activity with Jossip. The cookies placed on your computer from our advertisers cannot be controlled by Jossip, nor do we monitor that data, but we're pretty sure they're only collecting the same data we do, unless you give them permission to do otherwise.
+We do not rent or sell your personal information. There are no "select third-party marketers" we give your information to without your expressed consent.
+
+We do place cookies on your computer. Our cookies come may from our publishing system and our advertisers. Cookies help store your name or email address when commenting or logging in to a Jossip site. Our advertisers and our ad serving technology may place cookies placed on your computer for tracking purposes.
 
 We do collect standard usage and tracking data, including IP addresses, page visits and session activity. This data, however, is not collected in a manner that can uniquely identify you. We collect it on aggregate and sometimes make that aggregate information available to advertisers.
 
-We take your privacy very seriously. If you have any concerns, please write us at [publisher@jossip.com](mailto:publisher@jossip.com).
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+
+If you have any concerns, please write us at [publisher@jossip.com](mailto:publisher@jossip.com).
