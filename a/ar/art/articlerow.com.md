@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044845id_/http%3A//www.articlerow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618005059id_/http%3A//www.articlerow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ArticleRow.com | Article Directory | Submit Articles | Reprint Free Articles
+# Privacy Policy | ArticleRow.com is Article Directory to Submit Articles and Find Free Reprint Articles
+
+Browse >
+
+[Home](http://www.articlerow.com/ "Browse to: Home") / Privacy Policy 
 
 **ArticleRow.com  Privacy Statement**
 
