@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912221313id_/http%3A//www10.sharecg.com/policy/privacy_policy.php%3FPSID%3D2b9c9c40109d9a1358c9407957e71d2a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172055id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # IBSystems, Inc., Privacy Policy
 
@@ -66,4 +66,4 @@ If you have questions or suggestions, please contact us at:
 
 Internet Business Systems, Inc.  
 Privacy Policy Issues  
-Phone: 888-44-WEB-44
+Phone: +1 (408) 850-9201
