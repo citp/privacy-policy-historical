@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530105317id_/http%3A//www.burtsbees.com/webapp/wcs/stores/servlet/UtilityView%3FcontentPageId%3D79%26storeId%3D10001%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193304id_/http%3A//www.burtsbees.com/webapp/wcs/stores/servlet/UtilityView%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D10051%26contentPageId%3D79) for the most accurate reproduction.*
 
 # Privacy & Security - Burt's Bees
 
@@ -8,7 +8,7 @@ Please note that this Privacy Policy governs only information provided by the Si
 
 This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that you may provide via this Site. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. 
 
-## What Customer information does burtsbees.com collect?
+## What Customer information does Burtsbees.com collect?
 
 While maintaining our commitment to your privacy, we do collect personally and non-personally identifiable information about you. A detailed description of the types of information collected is outlined below.
 
@@ -90,9 +90,9 @@ If you have any questions, comments, requests, or concerns related to this Priva
 
 Burt's Bees, Inc.  
 Attn: Consumer Care  
-633 Davis Drive Suite 600  
-Morrisville, NC 27560  
-1-800-849-7112 option 4
+PO Box 13489  
+Durham, NC 27709  
+1.800.849.7112
 
 ## Changes to This Privacy Policy
 
