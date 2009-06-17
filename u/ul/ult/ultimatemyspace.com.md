@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimatemyspace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100824id_/http%3A//ultimatemyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatemyspace.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040204id_/http%3A//www.ultimatemyspace.com/privacy.php) for the most accurate reproduction.*
 
-# How to on MySpace
+# UltimateMyspace Privacy Policy
 
-[How To Contact Us](https://web.archive.org/web/20081217100824id_/http%3A//ultimatemyspace.com/privacy.php#7)
+[How To Contact Us](https://web.archive.org/web/20090617040204id_/http%3A//www.ultimatemyspace.com/privacy.php#7)
 
 **Our Commitment To Privacy**
 
@@ -49,4 +49,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy AT ultimatemyspace.com]. 
+Should you have other questions or concerns about these privacy policies, please send us an email at [[privacy AT ultimatemyspace.com](https://web.archive.org/web/20090617040204id_/http%3A//contact.php)]. 
