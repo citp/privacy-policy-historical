@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216111935id_/http%3A//www.premiumnetwork.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgames.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617093744id_/http%3A//www.premiumnetwork.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
@@ -89,7 +89,7 @@ Phone: 415-575-1444
 Fax: 415-575-144  
 
 
-TM & ©2004 - 2007 PremiumNetwork.com, Inc. and other entities. All Rights Reserved.
+TM & �2004 - 2007 PremiumNetwork.com, Inc. and other entities. All Rights Reserved.
 
 |   
 ---|---
