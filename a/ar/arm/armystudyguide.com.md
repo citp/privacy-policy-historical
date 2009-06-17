@@ -1,26 +1,66 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216134116id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200739id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy (ArmyStudyGuide.com)
 
-ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [ArmyStudyGuide.com](http://www.armystudyguide.com/) .
+Posted Wednesday, March 25, 2009
 
-**Advertisers**  
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the ad companies, and we do not have access to this information.
+We at QuinStreet and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
-**External Links**  
-This site contains links to other sites. ArmyStudyGuide.com is not responsible for the privacy practices or the content of such Web sites.
+QuinStreet has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We go to great lengths to protect personal information used when registering to use our forums. We strongly suggest that you help to protect your information by changing your password often.
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit QuinStreet's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-**Newsletters**  
-ArmyStudyGuide.com makes available to it's users various newsletters. Any user of the site has the option to enter their email address into a form to sign up for one or more of the newsletters and may quickly and easily remove their email address from our database simply by clicking a specific "unsubscribe" link in any one of the newsletters sent out.
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within QuinStreet to third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-ArmyStudyGuide.com uses a professional business corespondence management service to serve the newsletters. They assure us that none of the information that you give up when signing up for any newsletter through our site will be sold or shared with any other party.
+QuinStreet strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, QuinStreet intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 
-**Tracking**  
-Although we do not track individual movements throughout the site, we do closely monitor our server logs and other logs made available to us to better design the site for the benefit of our visitors. The information contained within the logs does not contain any personal information about any specific user.
+### Cookies and Other Tracking Technologies
 
-  
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email us at [webmaster@armystudyguide.com](mailto:webmaster@armystudyguide.com)
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles:
+
+  * Notice
+  * Choice
+  * Security
+  * Access/Accuracy
+
+
+
+Where QuinStreet collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of QuinStreet or those working on QuinStreet's behalf. QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page.
+
+### Choice
+
+You may choose whether or not to provide Personal Information to QuinStreet. The notice we intend to provide where QuinStreet collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of QuinStreet's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+
+If you chose to have a relationship with QuinStreet, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+
+### Security
+
+Wherever your Personal Information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+
+### Access/Accuracy
+
+To the extent that you do provide us with Personal Information, QuinStreet wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+
+### Third Party Services
+
+Third parties may provide certain services available on QuinStreet.com or its affiliate sites on QuinStreet's behalf. QuinStreet may provide information, including Personal Information, that QuinStreet collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. QuinStreet will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on QuinStreet's behalf.
+
+QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Similarly, it is against QuinStreet's policy to sell Personal Information collected online without consent.
+
+### Children's Privacy
+
+QuinStreet.com and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+
+### Commitment
+
+Protecting your privacy online is an evolving area, and QuinStreet's Web sites are constantly evolving to meet these demands.
+
+If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+
+### Your Consent
+
+By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to QuinStreet's processing of Personal Information for the purposes given above as well as those explained where QuinStreet collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
