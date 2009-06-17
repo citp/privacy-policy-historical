@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171033id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193307id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
 
-# Fitness.com - Free Exercises, Fitness Equipment, Customized Workout, Fitness Programs, Fitness Articles, Beauty Fitness, Weight Loss, Weight Training, Diet Plans
+# Fitness: Exercises, Fitness & Nutrition, and Fitness Articles
 
 At Fitness.com, we are very concerned about protecting your privacy. We only gather information about you in order to personalize the experience. We have detailed below exactly what we track and how we use that information, but our basic rule and guiding principle is this:
 
