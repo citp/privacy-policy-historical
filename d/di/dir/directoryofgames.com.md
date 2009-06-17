@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031217id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofgames.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052926id_/http%3A//www.directoryofgames.com/main.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Directory of Games - The most popular games in the world!
+# Directory of Games - Welcome to the greatest MMORPG games online
 
 _Last modified on June 17, 2004_
 
