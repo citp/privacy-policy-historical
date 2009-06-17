@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2008-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080603114220id_/http%3A//www.about-australia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181552id_/http%3A//www.about-australia.com/privacy-policy) for the most accurate reproduction.*
 
 # About Australia - Privacy Policy
 
-About Australia Online Pty. Ltd. ('about-australia.com') manage and maintain an internet web portal which provides information about Australia.
+About Australia Online Pty. Ltd. (referred to as About Australia) manage and maintain an internet web portal which provides information about Australia.
 
-about-australia.com recognises the importance of client privacy and support best practice procedures in the way your personal information is handled. 
+About Australia recognises the importance of client privacy and support best practice procedures in the way your personal information is handled. 
 
 By providing your personal information you agree and consent to the collection, use, disclosure, storage and holding of your personal information in accordance with this privacy policy. 
 
-### PRIVACY COMPLIANCE  
-
+### Privacy Compliance
 
 This privacy policy statement has been made in accordance with amendments to the Federal Government Privacy Amendment (Private Sector) Act 2000 (New Privacy Laws) which took effect from 21 December 2001 as well as the Spam Act 2003 which took effect from 10 April 2004.
 
 The National Privacy Principles can be obtained through the website of the office of the Federal Privacy Commissioner ([http://www.privacy.gov.au](http://www.privacy.gov.au/)).
 
-### INFORMATION COLLECTED BY ABOUT-AUSTRALIA.COM
+### Information collected by about-australia.com
 
-about-australia.com collects information from users, which may include personal Information, at different points on our website as follows: 
+About Australia collects information from users, which may include personal Information, at different points on our website as follows:
 
 When you visit our website, our server makes a record of your visit and logs the following information for statistical purposes: 
 
@@ -26,7 +25,7 @@ When you visit our website, our server makes a record of your visit and logs the
 \- The pages you accessed and the documents downloaded  
 \- The date and time of your visit to the site  
 \- The previous site you have visited   
-\- The type of browser you are using 
+\- The type of browser you are using
 
 From time to time we use third-party advertising companies to serve ads on our website. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you.
 
@@ -38,7 +37,7 @@ We require that cookies be enabled in your Web browser so that we can identify y
 
 ### Personal information
 
-We receive and store information you enter on our website or give us in any other way. When you register for an advertising account, make a booking or enquiry etc. we ask that you provide basic contact information such as your name, phone number, address, and email address so that we can process it. We may also collect additional information at other times, including but not limited to, when you provide feedback, enter a competition, change your content or email preferences, respond to a survey, or communicate with about-australia.com customer support. 
+We receive and store information you enter on our website or give us in any other way. When you register for an advertising account, make a booking or enquiry etc. we ask that you provide basic contact information such as your name, phone number, address, and email address so that we can process it. We may also collect additional information at other times, including but not limited to, when you provide feedback, enter a competition, change your content or email preferences, respond to a survey, or communicate with About Australia customer support. 
 
 Member Profiles are password protected and all the personal information kept on our server can be checked and/or changed at any time by logging in with your Log In code.
 
@@ -50,21 +49,21 @@ Individual profile and company details are not used for any other purpose. Detai
 
 ### Credit card information
 
-Credit card details are only used when placing an order, and are securely stored. They are not used for any other purpose. Details are only supplied to a third party when it is required to provide goods or services which you have purchased. about-australia.com utilises SSL (Secure Sockets Layer) technology including 128bit encryption when collecting credit card information.
+Credit card details are only used when placing an order, and are securely stored. They are not used for any other purpose. Details are only supplied to a third party when it is required to provide goods or services which you have purchased. About Australia utilises SSL (Secure Sockets Layer) technology including 128bit encryption when collecting credit card information.
 
 ### Security
 
-about-australia.com strives to ensure the security, integrity and privacy of personal information submitted to our site, and periodically updates its security measures in light of current technologies.
+About Australia strives to ensure the security, integrity and privacy of personal information submitted to our site, and periodically updates its security measures in light of current technologies.
 
-about-australia.com is committed to the privacy and security of our clients. We will never disclose your personal details to a third party except the necessary information required by providers of products or services you have purchased. 
+About Australia is committed to the privacy and security of our clients. We will never disclose your personal details to a third party except the necessary information required by providers of products or services you have purchased. 
 
 ### Links
 
-This website contains links to other sites, these links are meant for your convenience only. Links to third party sites do not constitute sponsorship or endorsement or approval of these sites. Please be aware that about-australia.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware, when they leave our site, to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
+This website contains links to other sites; these links are meant for your convenience only. Links to third party sites do not constitute sponsorship or endorsement or approval of these sites. Please be aware that about-australia.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware, when they leave our site, to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
 
-### CHANGE IN PRIVACY POLICY
+### Change in Privacy Policy
 
-AS WE PLAN TO ENSURE OUR PRIVACY POLICY REMAINS CURRENT, THIS POLICY IS SUBJECT TO CHANGE. PLEASE RETURN PERIODICALLY TO REVIEW OUR PRIVACY POLICY. 
+As we plan to ensure our privacy policy remains current, this policy is subject to change. Please return periodically to review our privacy policy.
 
 ### How to contact us
 
