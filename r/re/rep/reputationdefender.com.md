@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152522id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617173443id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
 
 # ReputationDefender : Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.reputationdefender.com&sealid=102)
+[ ](https://www.truste.org/ivalidate.php?url=www.reputationdefender.com&sealid=102)
 
 Effective March 4, 2008
 
