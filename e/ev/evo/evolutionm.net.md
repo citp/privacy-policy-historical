@@ -1,54 +1,59 @@
-> *The following text is extracted and transformed from the evolutionm.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509074327id_/http%3A//corp.evolutionm.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionm.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175431id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DEvolutionM.net) for the most accurate reproduction.*
 
-# evolutionm.net | Privacy Policy
+# Site Privacy Policy
 
-**Introduction**  
-This Boost Labs network site respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at this Boost Labs network Web site. 
+EvolutionM.net ("Site")
 
-**Information Collection**  
-This Boost Lab network site collects information through our Web site at several points. We collect the following information about primary visitors: 
+Privacy Statement
 
-  * IP address 
-  * Browser type and version 
-  * Operating System 
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-We may also collect usernames that our users divulge about other people, such as referrals. 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-We have no way of distinguishing the age of individuals who access our Web site. This Boost Labs network site does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. If your child has provided us with personally identifying information without parental consent, the parent should contact us to remove the information and opt out of any promotional materials.
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-We collect demographic data in order to determine our visitor base for marketing purposes only. 
+Browsing the Site
 
-We verify the accuracy of this information by utilizing an email verification system, which requires a new member to verify their email address by clicking a special link.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-We collect this information through registration forms and automatic logging files. Registration forms collect user specific information such as email addresses and usernames, while automatic logging files collect browser type, IP addresses, and operating systems. The information is collected voluntarily. To receive our products and services, registration is mandatory because this prevents visitors from abusing privileges. Other information we request is optional. 
+Information Collected
 
-This Boost Labs network site may also conduct surveys from time to time. These surveys are optional to all members and visitors. The information collected will be used to help improve the site functionality as well as determining our target viewership for advertising purposes. Personal information, such as names/addresses/emails will never be sold or given to any third parties for any reason. 
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable this Boost Labs network site to track usage patterns and deliver customized content to users. Our cookies do have an expiration date. Our cookies do not collect personally identifiable information. 
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-**Information Usage**  
-The information collected by this Boost Labs network site will be used for advertising and marketing purposes. Users who provide information will receive services, email announcements, or advertisements only if they have specifically chosen to do so. 
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-Registered users will receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-The information we collect will not be used to create customer profiles based on browsing or purchasing history. We will not supplement information collected at our Web site with data from other sources. 
+Use of Forums
 
-We offer links to other Web sites. Please note: We are not affiliated with, nor do we endorse these other Web sites. When you click on links to other Web sites you exit our site; therefore, we encourage you to read their privacy policies. Their standards may differ from ours. 
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-Our Web site offers registry, forums, and product reviews. Please be advised that information posted in these venues becomes public knowledge. 
+Cookies
 
-If our policy on information collection or uses changes, will advise members by sending an email. This email will only be sent to members who opt to receive announcements from our staff as well. 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-**Access to Information**  
-Users may access their own personal information by visiting this page: [click here](http://forums.evolutionm.net/usercp.php)
+Security
 
-**Problem Resolution**  
-If problems arise, users may contact this Boost Labs network site by email. We are committed to resolving disputes within 24 hours if possible. 
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Data Storage and Security**  
-This Boost Labs network site protects user information with the following security measures: 
+Third Party Advertising 
 
-  * Hardware Firewall 
-  * Password Encryption 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-By using our Web site, you consent to the collection and use of this information in the manner we describe. 
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
+
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+Contacting the Web Site
+
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
+
+EvolutionM.net
+
+March 24, 2009
