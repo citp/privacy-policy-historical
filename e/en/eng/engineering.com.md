@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113059id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200152id_/http%3A//engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
 
 # ENGINEERING.com | Privacy Policy
 
----  
-  
 Introduction  
 We at ENGINEERING.com, Inc. ("ENGINEERING.com") are committed to respecting your online privacy and recognize your need to protect any personal identification information ("Personal Information") you share with us. Accordingly, ENGINEERING.com has established this Online Privacy Policy. 
 
