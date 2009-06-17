@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171946id_/http%3A//elitemoviepass.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065929id_/http%3A//elitemoviepass.com/info/privacy) for the most accurate reproduction.*
 
 # Elite Movie Pass - 1000's Of High Quality XXX Porn DVD's
 
@@ -29,4 +29,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please call us at [+61 422132100] or send us an email at [[support@elitemoviepass.com](mailto:support@elitemoviepass.com)].
+Should you have other questions or concerns about these privacy policies, please send us an email at [[support@elitemoviepass.com](mailto:support@elitemoviepass.com)].
