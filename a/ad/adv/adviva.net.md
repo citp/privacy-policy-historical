@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adviva.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218054745id_/http%3A//www.specificmedia.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adviva.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617152443id_/http%3A//www.specificmedia.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Specific Media
 
@@ -34,6 +34,17 @@ The IAB (Internet Advertising Bureau), which is a trade association for the inte
 
 Cookies are small text files that are stored within a folder on your computer and are used only by your internet browser. They take up a tiny amount of space on your computer (less than a regular webpage without images does) and can be used to uniquely, but anonymously, identify your computer. Most websites use cookies to identify users and improve the user experience. The cookies Specific Media use are technically the same. The Specific Media cookie does not harm your computer in any way or provide us with any information about your identity. A couple of so called spyware software packages classify the Specific Media cookie as spyware or adware. This is not the case. The general definition of spyware/adware is that of a software package installed on your computer for purposes of monitoring all your internet or general computer activity. We do not now and never have used such methods and the classification is incorrect. We do not install software of any kind on your computer and have no ability to monitor or track your general computer or internet usage.
 
+#### Opting Out
+
+If you prefer not to have online advertising tailored to a behavioural profile, you may opt out at any time by one of the following methods:
+
+  * Disable cookies in your browser (typically under Tools-Options-Privacy, but this varies between browser types and versions). Please note that cookies are used for a variety of reasons, not just targeting advertising so this may adversely impact your online experience.
+  * Opt out of Specific Media behavioural targeting by visiting the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp>. This uses a special kind of cookie which blocks the use of behavioural targeting. Please note that as with any cookie, if you delete your cookies, change browsers, or use a different computer, you will need to opt out again.
+
+
+
+It should also be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online behaviour.
+
 #### Third Party Information Gathering
 
 Our website may contain content and advertisements from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy. Our website may contain links to other websites on the Web. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Specific Media.
@@ -60,4 +71,4 @@ The privacy policy was last revised on June 1, 2008.
 
 #### Questions and Comments
 
-Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1900, Irvine CA 92614.
+Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1500, Irvine CA 92614.
