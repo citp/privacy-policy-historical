@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041235id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050350id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
 
 # CampusBooks Privacy Statement
 
