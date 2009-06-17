@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the defenselink.mil privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217010643id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenselink.mil privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617190759id_/http%3A//www.defenselink.mil/warning/warn-dl.html) for the most accurate reproduction.*
 
-# Privacy Policy - U.S. Department of Defense
-
-## Privacy Policy 
-
-* * *
+# DefenseLink.mil - DefenseLINK Privacy Policy
 
   1. **DefenseLINK** is provided as a public service by the [ **Office of the Assistant Secretary of Defense-Public Affairs**](https://web.archive.org/pubs/almanac/asdpa.html).
 
@@ -20,7 +16,7 @@
 
   7. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-  8. If you have any questions or comments about the information presented here, please forward them to us using the **DefenseLINK[ _Contact Us_](https://web.archive.org/faq/comment.html)** page.
+  8. If you have any questions or comments about the information presented here, please forward them to us using the **DefenseLINK[Contact Us](https://web.archive.org/faq/comment.html)** page.
 
   9. Cookie Disclaimer - DefenseLINK does not use persistent cookies (persistent tokens that pass information back and forth from the client machine to the server). DefenseLINK may use session cookies (tokens that remain active only until you close your browser) in order to make the site easier to use. The Department of Defense DOES NOT keep a database of information obtained from these cookies.
 
