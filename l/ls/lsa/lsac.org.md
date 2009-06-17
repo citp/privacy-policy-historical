@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131029id_/http%3A//www.lsac.org/aboutlsac/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171736id_/http%3A//www.lsac.org/aboutlsac/privacy-policy.asp) for the most accurate reproduction.*
 
 # LSAC.org's PRIVACY POLICY
 
@@ -10,19 +10,19 @@ Two types of personally identifying information are collected from LSAC.org user
 
 Personal Data
 
-Personal data is collected when users voluntarily provide data on LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s [Data Retention and Confidentiality policy](https://web.archive.org/web/20081217131029id_/http%3A//www.lsac.org/aboutlsac/data-retention-policy.asp) is available on this website. 
+Personal data is collected when users voluntarily provide data on LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s [Data Retention and Confidentiality policy](https://web.archive.org/web/20090617171736id_/http%3A//www.lsac.org/aboutlsac/data-retention-policy.asp) is available on this website. 
 
 ## Aggregated Information
 
 When you visit the LSAC.org site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with hundreds of thousands of other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. 
 
-Aggregated information, such as which pages users access or visit, and information volunteered by users, such as survey information and/or site registrations, is also collected through various methods. For example, IP addresses are collected at LSAC.org. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" webpages, automatically identify your computer by its IP address, and when you request a page at LSAC.org, our servers log your IP address. IP addresses are not linked to anything personally identifiable at LSAC.org, so although your session will be logged, you will remain anonymous to us. IP addresses are collected at LSAC.org for the purposes of system administration and to provide aggregate data about the volume of use on LSAC.org. 
+Aggregated information, such as which pages users access or visit, and information volunteered by users, such as survey information and/or site registrations, is also collected through various methods. For example, IP addresses are collected at LSAC.org. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that serve up webpages, automatically identify your computer by its IP address, and when you request a page at LSAC.org, our servers log your IP address. IP addresses are not linked to anything personally identifiable at LSAC.org, so although your session will be logged, you will remain anonymous to us. IP addresses are collected at LSAC.org for the purposes of system administration and to provide aggregate data about the volume of use on LSAC.org. 
 
 Use of Cookies 
 
-"Cookies" are also used at LSAC.org to collect information. A cookie is a small data file that most major websites write to your hard drive for record-keeping purposes when you visit them. Cookies allow activity to be measured on LSAC.org and are also used to improve your user experience; for example, opening special registration sessions within Online Services and LSDAS Electronic Applications for plugins, searches, and data population, thus allowing you to cut steps. Except for personal information voluntarily provided by you (i.e., during registration or use of our online services), information transferred through cookies is not used by LSAC for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
+Cookies are also used at LSAC.org to collect information. A cookie is a small data file that most major websites write to your hard drive for record-keeping purposes when you visit them. Cookies allow activity to be measured on LSAC.org and are also used to improve your user experience; for example, opening special registration sessions within an LSAC.org account and LSAC Electronic Applications for plugins, searches, and data population, thus allowing you to cut steps. Except for personal information voluntarily provided by you (i.e., during registration or use of our online services), information transferred through cookies is not used by LSAC for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.
 
-Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the Online Services or LSAC product areas, will not function properly if you do so. 
+Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as your LSAC.org account or LSAC product areas, will not function properly if you do so. 
 
 Use of Information Collected by Our Traffic Analysis Software 
 
@@ -44,8 +44,8 @@ Your Consent
 
 By using LSAC's website, you consent to the collection and use of this information by LSAC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-LSAC reserves the right to change this privacy policy at any time. You can send e-mail to us with any further questions at [LSACinfo@LSAC.org](mailto:LSACinfo@LSAC.org). 
+LSAC reserves the right to change this privacy policy at any time. You can e-mail us with any further questions at [LSACinfo@LSAC.org](mailto:LSACinfo@LSAC.org). 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE [TERMS AND CONDITIONS OF USE](https://web.archive.org/web/20081217131029id_/http%3A//www.lsac.org/aboutlsac/terms-and-conditions.asp) AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.ORG WEBSITE. 
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE [TERMS AND CONDITIONS OF USE](https://web.archive.org/web/20090617171736id_/http%3A//www.lsac.org/aboutlsac/terms-and-conditions.asp) AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.ORG WEBSITE. 
