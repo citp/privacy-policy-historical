@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033701id_/http%3A//www.jobmarket.com.hk/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193537id_/http%3A//www.jobmarket.com.hk/privacy_statement.jsp) for the most accurate reproduction.*
 
 # JobMarket 求職廣場
 
