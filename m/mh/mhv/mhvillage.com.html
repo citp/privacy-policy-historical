@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217152926id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617193419id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>MHVillage.com - Privacy Policy</title>
@@ -8,12 +8,28 @@
 
     <link href="/css/master.css" rel="stylesheet" type="text/css">
     
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
-        <script src="/js/min.js" type="text/javascript"></script>  </head>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+        <script src="/js/min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/jqModal.js"></script>
+
+    
+    <script type="text/javascript">
+      $(document).ready( function () {
+	  $('#MyVideoPlayer').jqm({toTop: true, ajax: "/Videos/Embed1.php?Video=Overview", overlay: 90});
+	  $('#WatchVideo a').bind("click", function () {
+	      $('#MyVideoPlayer').jqm({ajax: "/Videos/Embed1.php?Video=Overview"}).jqmShow(); 
+	      return (false);
+	  });
+      });
+
+    </script>
+    
+  </head>
 
   <body>
     <div id="body">
-      <div id="MHVillageLogo"><a href="/"><img src="/images/MHVillagecommunity.gif" alt="Mobile Homes For Sale, For Rent, Mobile Home Insurance, Loans, and Financing"></a></div>
+      
+<div id="MHVillageLogo"><a href="/"><img src="/images/MHVillagecommunity.gif" alt="Mobile Homes For Sale, For Rent, Mobile Home Insurance, Loans, and Financing"></a></div>
 
 <ul id="TopMenu">
   <li class="first">
@@ -27,7 +43,7 @@
       <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Mobile Home Book Value Reports</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Get Mobile Home Financing</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Get Mobile Home Insurance</a></h4></li>
-      <li><h4><a href="/store">Mobile Home Books</a></h4></li></ul>
+</ul>
   </li>
   <li>
     <img class="divider" src="/images/TopMenuDivider.gif" alt="">
@@ -38,7 +54,6 @@
       <li><h4><a href="/Leads/ContactMe.php">Have a Broker Contact Me</a></h4></li>
       <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Mobile Home Book Value Reports</a></h4></li>
       <li><h4><a href="http://www.mhsupply.com">Mobile Home Parts</a></h4></li>
-      <li><h4><a href="/store">Mobile Home Books</a></h4></li>
     </ul>
   </li>
   <li class="last">
@@ -105,7 +120,6 @@
 	      <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
 	      <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
 	      <li><h4><a href="/MyAccount/Advertise.php">Advertising</a></h4></li>
-	      <li><h4><a href="/store">Bookstore</a></h4></li>
 	      <li><h4><a href="http://www.mhsupply.com">Mobile Home Parts</a></h4></li>
 	    </ul>
 	  </div>
@@ -135,14 +149,8 @@
     $('#SideMenu')
       .accordion({header: "h3", selectedClass: "active", active: lastOpen})
       .bind("accordionchange", function(event, ui) {
-        $.cookie("SideMenu", $("ul", this).index(ui.newContent), { path: '/' });
-      })
-      .bind("click", function(event) {
-        var jqTarget = $(event.target);
-        if ( jqTarget.parents("li").length > 0 ) {  // make sure it is 2nd level li
-          document.location = jqTarget.find("a")[0].href;
-          return false;
-        }
+        lastOpen = $("div", this).index($("div.active", this));
+        $.cookie("SideMenu", lastOpen, { path: '/' });
       });
     if (( $.browser.msie ) && ( $.browser.version < 7 )) {
       $('#SideMenu h3, #SideMenu li').hover(function(e) {
@@ -157,25 +165,33 @@
   
   </script>
   
-
+  <div id="MyVideoPlayer">
+  </div>
+  
+  <div id="WatchVideo">
+    <a href="http://www.youtube.com/v/YEIyThvyyLw&amp;hl=en"><img src="/images/Video.png" alt="" style="float: left; margin: 10px 0 14px 16px;"></a>
+    <div class="linkHolder"><a href="http://www.youtube.com/v/YEIyThvyyLw&amp;hl=en" style="padding-top: 4px;">Quick<br>How-To<br>Videos</a></div>
+  </div>
+  
+  
   
 	<div id="Testimonies">
 	  <h3>What Others are Saying</h3>
-	  	  <blockquote>This site helped attract potential buyers to my home and led to the eventual sale of my home.&nbsp;&nbsp;</blockquote>
-	  <p>Carrie F.<br>Countryside, IL</p>
+	  	  <blockquote>Your website is the best!  I listed with 3 others--only had 1 call from them, but had lots from your site!  Thanks!&nbsp;&nbsp;</blockquote>
+	  <p>Maxine S.<br>Phoenix, AZ</p>
 	  
 	  <div id="ViewMore"><a class="TLink FancyLink" href="/ListHome/Testimonials.php">View More</a></div>
 
 	</div>
 
 	<div id="BBB">
-	  <div id="Marquee">
-	    <h2>Since Dec 10, 2008<br>762 Mobile Homes Sold Valued at $24,898,035</h2>
+    	  <div id="Marquee">
+	    <h2>Since Jun 10, 2009<br>890 Mobile Homes Sold Valued at $27,924,333</h2>
 	    <h2>Buy or Sell Used Homes by Owner or Dealer</h2>
 	    <h2>Blue Book Prices for Park Sales and Private Land</h2> 
 	  </div>
-	  
-	  <img src="/images/bbbonlinelogo.gif" alt="">
+    	  
+	  <a href="http://www.bbbonline.org/cks.asp?id=104081612174840078" target="_blank"><img src="/images/bbbonlinelogo.gif" alt=""></a>
 	</div>
       </div>
       <div id="Content">
@@ -273,9 +289,7 @@
         potential threats to the physical safety of any person, violations of <span class="mh">MH</span><span class="village">Village.com</span>'s 
 	terms of use, or as otherwise required by law. <br><br>
  
-	We transfer information about you if <span class="mh">MH</span><span class="village">Village.com</span> is acquired by or merged with another company. 
-	In this event, <span class="mh">MH</span><span class="village">Village.com</span> will notify you before information about you is transferred and becomes 
-	subject to a different privacy policy. <br><br>
+	We transfer information about you if <span class="mh">MH</span><span class="village">Village.com</span> is acquired by or merged with another company.<br><br>
 
 	<span class="mh">MH</span><span class="village">Village.com</span> may display targeted advertisements based on personal information. 
 	<span class="mh">MH</span><span class="village">Village.com</span> does not provide any personal information to the advertiser when you interact with 
@@ -328,7 +342,7 @@
   <a href="/Appraisal/AHome.php">Mobile Home Values</a> | 
   <a href="/Resources/PreQualify.php">Mobile Home Loans</a> | 
   <a href="/MobileHomeInsurance">Mobile Home Insurance</a><br>
-  Copyright (c) 2003 - 2008 MHVillage Inc.
+  Copyright (c) 2003 - 2009 MHVillage Inc.
   
   <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -350,7 +364,7 @@
 <div id="LoginContainer">
   <form id="LoginForm" method="post" action="/MyAccount/Login.php">
     <table>
-      <tbody><tr><td>Username</td><td><input id="EmailAddress" type="text" name="EmailAddress" size="10" tabindex="1"></td><td rowspan="2"><input class="Go25" type="image" src="/images/InputImage25.gif" name="Button" value="Log in" tabindex="3"></td></tr>
+      <tbody><tr><td>Email&nbsp;Address</td><td><input id="EmailAddress" type="text" name="EmailAddress" size="10" tabindex="1"></td><td rowspan="2"><input class="Go18" type="image" src="/images/InputImage18.gif" name="Button" value="Log in" tabindex="3"></td></tr>
       <tr><td>Password</td><td><input type="password" name="Password" size="10" tabindex="2"></td></tr>
     </tbody></table>
   </form>
