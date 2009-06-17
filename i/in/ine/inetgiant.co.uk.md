@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetgiant.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216110025id_/http%3A//www.inetgiant.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045020id_/http%3A//www.inetgiant.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# InetGiant Free online classifieds UK & Free online advertising! Free ads & Free Internet advertising. Free classifieds ads & Free classified websites!
+# Free Ads UK: Classifieds | Freeads | Classified Ads | Free Advertising by InetGiant
 
 To protect your privacy, InetGiant.com follows the following principles for customer privacy and data protection: 
 
