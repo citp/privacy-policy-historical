@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the ing.be privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217070606id_/http%3A//www.ing.be/private/showdoc.jsp%3Fdocid%3D028011_EN%26menopt%3Diso%7Clep) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ing.be privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617191441id_/http%3A//www.ing.be/private/showdoc.jsp%3Fdocid%3D028011_EN%26menopt%3Diso%7Clep) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
       
 
 
- <title>Privacy - ING Belgium - Welcome</title>
- <meta name="keywords" lang="EN" content="">
- <meta name="description" lang="EN" content="">
+ <title> - ING België - Welkom</title>
+ <meta name="keywords" lang="NL" content="null">
+ <meta name="description" lang="NL" content="null">
+ 
 <meta name="generator" content="HTML Tidy, see www.w3.org">
-<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<meta name="GENERATOR" content="Stellent Dynamic Converter 6.0">
+<meta name="GENERATOR" content="Stellent Dynamic Converter 10gR3 (10.1.3.3.3)">
+
+
 
 
 <script type="text/javascript">
@@ -37,15 +40,119 @@
 <script type="text/javascript" src="http://www.ing.be/xpedio/common/corp/javascript/common.js">
 </script>
 
-<script type="text/javascript" src="/xpedio/common/corp/javascript/jquery.js">
+<script type="text/javascript" language="JavaScript">
+    
+if (window.addEventListener) {
+    // Mozilla/W3C
+    window.addEventListener('load', ing_table_init, false);
+}
+else if (window.attachEvent) {
+    // IE 
+    window.attachEvent('onload', ing_table_init);
+}
+function ing_table_init() {
+    if (!document.getElementsByTagName) {
+        return;
+    }
+    tables = document.getElementsByTagName('table');
+    for (var i = 0; i < tables.length; ++i) {
+        div_parent = getParent(tables[i], 'div');
+        if (div_parent != null) {
+            if (hasClass(div_parent, 'ingtablecolorful1')) {
+                ing_table_colorful1_init(tables[i]);
+            }
+        }
+        }
+}
+
+function ing_table_colorful1_init(table) {
+    var even = false;
+    // Tables can have more than one tbody element; get all child
+    // tbody tags and interate through them.
+    var tbodies = table.childNodes;
+    for (var j = 0; j < tbodies.length; ++j) {
+        var trs = tbodies[j].childNodes;
+        for (var k = 0; k < trs.length; ++k) {
+            if (trs[k].tagName == 'TR') {
+                if (k==0) {
+                    removeClass(trs[k], 'heading');
+                    addClass(trs[k], 'heading');
+                }
+                else {
+                    removeClass(trs[k], 'even');
+                    removeClass(trs[k], 'odd');
+                    addClass(trs[k], even ? 'even' : 'odd');
+                      
+                    // Flip from odd to even, or vice-versa.
+                    even = !even;
+                    
+                    //First td
+                    var tds = trs[k].childNodes;
+                    if (tds[0].tagName == 'TD') {
+                        removeClass(tds[0], 'left_col');
+                        addClass(tds[0], 'left_col');
+                    }
+                    else if (tds[1].tagName == 'TD') {
+                        removeClass(tds[1], 'left_col');
+                        addClass(tds[1], 'left_col');
+                    }
+                }
+                }
+        }
+    }   
+}
+
+function getParent(el, pTagName)
+{
+    if (el == null) {
+        return null;
+    } else if (pTagName == null) {
+        return el.parentNode;
+    } else if (el.nodeType == 1 && el.tagName.toLowerCase() == pTagName.toLowerCase()) {
+        // Gecko bug, supposed to be uppercase.
+        return el;
+    } else {
+        return getParent(el.parentNode, pTagName);
+    }
+}
+
+function addClass(el, className) {
+    el.className += el.className ? ' ' + className : className;
+}
+
+function removeClass(el, className) {
+    el.className = el.className.replace(new RegExp(' ?' + className + ' ?'), '');
+}
+
+function hasClass(el, className) {
+    return (el.className.indexOf(className) != -1);
+}
+
 </script>
 
-<meta name="DCSext.ch_lang" content="EN">
+<script type="text/javascript" language="JavaScript">
+
+function play_video(v, h, w, a, t, el) {
+    document.body.style.cursor = 'wait';
+    var mult = "<embed src='" + v + "' align='bottom'";
+    if (h >= 0) {
+        mult = mult + " height='" + h + "'";
+    }
+    if (w >=0) {
+        mult = mult + " width='" + w + "'";
+    }
+    mult = mult + "><p class='author'>" + a + "<\/p><p class='title'>" + t + "<\/p>";
+    el.innerHTML = mult;
+    document.body.style.cursor = 'default';
+}
+</script>
+
+<meta name="DCSext.ch_lang" content="NL">
 
 
 <meta name="generator" content="html">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="shortcut icon" type="image/icon" href="images/favicon.ico">
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link rel="Stylesheet" href="stylesheet/internet_default.css" type="text/css" title="Stylesheet" media="screen">
 <link rel="stylesheet" href="stylesheet/internet_style.css" type="text/css">
@@ -100,280 +207,286 @@ function changecolor(){
 }
 
 //-->
-</script> <div id="header"> <a name="TopOfPage"></a>     <div id="logo"><a href="../private/index.jsp"><img src="/xpedio/internet/eip/images/banklogo.gif" border="0" alt=""></a></div> <div id="sitetitle"><a href="index.jsp"></a></div> <div id="topline"><img class="wid" src="images/shim.gif" border="0" alt=""></div> <div id="servicelinks" class="links"> <a class="link" href="index.jsp">Home</a>|<a class="link" href="javascript:openWT('http://www.ing.be/about/index.jsp',1,'WT_ac=AD_HP_toplinks_ingbe',0);">ING in Belgium</a>|<a class="link" href="javascript:openWT('http://www.ing.com',1,'WT_ac=AD_HP_toplinks_ingcom',0);">ING Group</a>|<a class="link" href="http://www.ing.be/about/showdoc.jsp?docid=140868_EN&amp;menopt=iso|prr|wel&amp;lang=EN&amp;WT_ac=AD_HP_toplinks_press">Press</a>|<a class="link" href="javascript:openWT('http://www.ing.jobs/careers/belgium/index.jsp?lang=en',1,'WT_ac=AD_HP_toplinks_jobs',0);">Jobs</a>
-  <span id="langtoggle" class="links"><span class="nolink">EN</span>|<a href="showdoc.jsp?docid=028011_FR&amp;menopt=iso%7Clep&amp;lang=fr">FR</a>|<a href="showdoc.jsp?docid=028011_NL&amp;menopt=iso%7Clep&amp;lang=nl">NL</a> </span>  </div> <div id="searchtoggle" class="links"> <form name="searchform" action="javascript:IPASearch();" method="get"><input type="text" id="searchbox" name="fullText" value="Type keyword" onfocus="changecolor()"><a class="send" href="javascript:document.searchform.submit();">search</a></form> </div>   <div id="hnav" class="links">   <a class="active" href="index.jsp?WT.ac=AD_HP_TAB_PRIV&amp;lang=en">PRIVATE</a><a class="" href="http://www.ing.be/independent/showdoc.jsp?docid=281630_EN&amp;left=false&amp;topmenu=none&amp;lang=en&amp;WT.ac=AD_HP_TAB_PRO">BUSINESS</a>
+</script> <div id="header"> <a name="TopOfPage"></a>     <div id="logo"><a href="../private/index.jsp"><img src="/xpedio/internet/eip/images/banklogo.gif" border="0" alt=""></a></div> <div id="sitetitle"><a href="index.jsp"></a></div> <div id="topline"><img class="wid" src="images/shim.gif" border="0" alt=""></div> <div id="servicelinks" class="links"> <a class="link" href="index.jsp">Home</a>|<a class="link" href="javascript:openWT('http://www.ing.be/about/index.jsp',1,'WT.ac=AD_HP_toplinks_ingbe',0);">ING in België</a>|<a class="link" href="javascript:openWT('http://www.ing.com',1,'WT.ac=AD_HP_toplinks_ingcom',0);">ING Groep</a>|<a class="link" href="http://www.ing.be/about/showdoc.jsp?docid=140868_NL&amp;menopt=iso|prr|wel&amp;lang=NL&amp;WT.ac=AD_HP_toplinks_press">Pers</a>|<a class="link" href="javascript:openWT('http://www.ing.jobs/careers/belgium/index.jsp?lang=nl',1,'WT.ac=AD_HP_toplinks_jobs',0);">Jobs</a>
+  <span id="langtoggle" class="links"><a href="showdoc.jsp?docid=028011_EN&amp;menopt=iso%7Clep&amp;lang=en">EN</a>|<a href="showdoc.jsp?docid=028011_EN&amp;menopt=iso%7Clep&amp;lang=fr">FR</a>|<span class="nolink">NL</span> </span>  </div> <div id="searchtoggle" class="links"> <form name="searchform" action="javascript:IPASearch();" method="get"><input type="text" id="searchbox" name="fullText" value="Type keyword" onfocus="changecolor()"><a class="send" href="javascript:document.searchform.submit();">search</a></form> </div>   <div id="hnav" class="links">   <a class="active" href="index.jsp?WT.ac=AD_HP_TAB_PRIV&amp;lang=nl">PRIVE</a><a class="" href="http://www.ing.be/independent/showdoc.jsp?htmlid=370078&amp;left=false&amp;border=false&amp;lang=NL&amp;WT.ac=AD_HP_TAB_PRO">ZAKELIJK</a>
   </div>       <a name="TopOfMenu"></a>  <div id="pagemenu">   <div id="popupbar">   <div id="hmenu">
 <ul class="menu" id="menu">
 <li id="li0">
-<a href="topics.jsp?topic=ebanking" class="arrow1">Topics</a>
+<a href="topics.jsp?topic=ebanking&amp;WT.ac=MENU_Topic_EB" class="arrow1">Thema's</a>
 <ul class="smenu">
 <li>
-<a href="topics.jsp?topic=ebanking">E-banking</a>
+<a href="topics.jsp?topic=ebanking&amp;WT.ac=MENU_Topic_EB">E-bankieren</a>
 </li>
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=277144_EN&amp;menopt=the|Per">Personal Banking</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=277144_NL&amp;WT.ac=AD_MENU_Topic_PB&amp;menopt=the|Per">Personal Banking</a>
 </li>
 <li>
-<a href="topics.jsp?topic=protect">Properly insured?</a>
+<a href="topics.jsp?topic=protect&amp;WT.ac=MENU_Topic_Protect">Goed verzekerd?</a>
 </li>
 <li>
-<a href="topics.jsp?topic=auto">My car</a>
+<a href="topics.jsp?topic=vehicle&amp;htmlid=353315&amp;left=false&amp;WT.ac=MENU_Topic_Vehicle">Mijn voertuig</a>
 </li>
 <li>
-<a href="topics.jsp?topic=house&amp;WT.ac=MENU_topic_house">My house</a>
+<a href="topics.jsp?topic=house&amp;WT.ac=MENU_topic_house">Mijn huis</a>
 </li>
 <li>
-<a href="topics.jsp?topic=family">My family</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=390275_NL&amp;lang=nl&amp;left=false&amp;WT.ac=MENU_Topic_Family">Mijn gezin</a>
 </li>
 <li>
-<a href="topics.jsp?topic=pension">My retirement</a>
+<a href="topics.jsp?topic=pension&amp;WT.ac=MENU_Topic_Pension">Mijn pensioen</a>
 </li>
 <li>
-<a href="topics.jsp?topic=tax">My taxes</a>
+<a href="topics.jsp?topic=tax&amp;WT.ac=MENU_Topic_Tax">Mijn belastingen</a>
 </li>
 <li>
-<a href="topics.jsp?topic=expats">Expats &amp; Non-residents</a>
+<a href="topics.jsp?topic=expats&amp;WT.ac=MENU_Topic_Expats">Expats &amp; Niet-residenten</a>
 </li>
 <li>
-<a href="topics.jsp?topic=young">Young people</a>
+<a href="topics.jsp?topic=young&amp;WT.ac=MENU_Topic_Young">Jongeren</a>
 </li>
 </ul>
 </li>
 <li id="li11">
-<a href="showdoc.jsp?docid=025608_EN&amp;menopt=pro|pay|tra" class="arrow1">Products</a>
+<a href="showdoc.jsp?docid=025608_NL&amp;WT.ac=MENU_Product_Transfers&amp;menopt=pro|pay|tra" class="arrow1">Producten</a>
 <ul class="smenu">
 <li id="li12">
-<a href="showdoc.jsp?docid=025608_EN&amp;menopt=pro|pay|tra" class="arrow2">Payments</a>
+<a href="showdoc.jsp?docid=025608_NL&amp;WT.ac=MENU_Product_Transfers&amp;menopt=pro|pay|tra" class="arrow2">Betalen</a>
 <ul class="ssmenu">
 <li>
-<a href="showdoc.jsp?docid=025608_EN&amp;menopt=pro|pay|tra">Transfers</a>
+<a href="showdoc.jsp?docid=025608_NL&amp;WT.ac=MENU_Product_Transfers&amp;menopt=pro|pay|tra">Overschrijvingen</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025609_EN&amp;menopt=pro|pay|cur">Current accounts</a>
+<a href="showdoc.jsp?docid=025609_NL&amp;WT.ac=MENU_Product_Accounts&amp;menopt=pro|pay|cur">Zichtrekening</a>
 </li>
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=333743_EN&amp;menopt=pro|pay|ban">Cards</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=025606_NL&amp;menopt=pro|pay|ban&amp;WT.ac=MENU_Product_Cards">Kaarten</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025607_EN&amp;menopt=pro|pay|ele">Electronic banking</a>
+<a href="showdoc.jsp?docid=025607_NL&amp;WT.ac=MENU_Product_EB&amp;menopt=pro|pay|ele">Elektronisch bankieren</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=289492_EN&amp;menopt=pro|pay|">SEPA</a>
+<a href="showdoc.jsp?docid=289492_NL&amp;WT.ac=MENU_Product_pay5&amp;menopt=pro|pay|">SEPA</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=032972_EN&amp;menopt=pro|pay|tar">Tariffs</a>
+<a href="showdoc.jsp?docid=032972_NL&amp;WT.ac=MENU_Product_pay6&amp;menopt=pro|pay|tar">Tarieven</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=339850_NL&amp;WT.ac=MENU_Product_pay7&amp;menopt=pro|pay|zoo">Zoomit</a>
 </li>
 </ul>
 </li>
-<li id="li19">
-<a href="showdoc.jsp?docid=140717_EN&amp;WT.ac=MENU_product_house&amp;menopt=pro|loa|mor" class="arrow2">Loans</a>
+<li id="li20">
+<a href="showdoc.jsp?docid=025511_NL&amp;WT.ac=MENU_Product_Carloan&amp;menopt=pro|loa|car" class="arrow2">Lenen</a>
 <ul class="ssmenu">
 <li>
-<a href="showdoc.jsp?docid=140717_EN&amp;WT.ac=MENU_product_house&amp;menopt=pro|loa|mor">Mortgages</a>
+<a href="showdoc.jsp?docid=025511_NL&amp;WT.ac=MENU_Product_Carloan&amp;menopt=pro|loa|car">Autolening</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025511_EN&amp;menopt=pro|loa|car">Car loan</a>
+<a href="javascript:openWindowC('showdoc.jsp?docid=140717_NL&amp;WT.ac=MENU_product_house&amp;menopt=pro|loa|mor',700,500,1,1,0,1,1,1)">Hypothecair krediet</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025510_EN&amp;menopt=pro|loa|ins">Instalment loan</a>
+<a href="showdoc.jsp?docid=025510_NL&amp;WT.ac=MENU_Product_Instalment&amp;menopt=pro|loa|ins">Lening op afbetaling</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025513_EN&amp;menopt=pro|loa|cas">Cash withdrawal facilities</a>
+<a href="showdoc.jsp?docid=025513_NL&amp;WT.ac=MENU_Product_Cwf&amp;menopt=pro|loa|cas">Kasfaciliteiten</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=307968_EN&amp;menopt=pro|loa|eco">ING Eco Loan</a>
+<a href="javascript:openWindowC('https://promo.ing.be/myhouse/2009/2009.aspx?ID=lHiik7yrSVna+mr5gf+GNpdLXjhRHeNryOOLBe&amp;LANG=NL&amp;utm_source=ingbe&amp;utm_medium=MENU_Product_ecoloan&amp;WT.ac=MENU_Product_ecoloan&amp;menopt=pro|loa|eco',700,500,1,1,0,1,1,1)">ING Ecokrediet</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025580_EN&amp;menopt=pro|loa|">Refurbishment loan</a>
+<a href="showdoc.jsp?docid=025580_NL&amp;WT.ac=MENU_Product_refurbloan&amp;menopt=pro|loa|">renovatielening</a>
 </li>
 </ul>
 </li>
-<li id="li26">
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=316387_EN&amp;menopt=pro|sav|sav" class="arrow2">Savings and investments</a>
+<li id="li27">
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=316387_NL&amp;menopt=pro|sav|sav&amp;WT.ac=MENU_Product_Sav1" class="arrow2">Sparen en beleggen</a>
 <ul class="ssmenu">
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=316387_EN&amp;menopt=pro|sav|sav">Savings accounts and deposits</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=316387_NL&amp;menopt=pro|sav|sav&amp;WT.ac=MENU_Product_Sav1">Spaarboekje en deposito</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=325376_EN&amp;menopt=pro|sav|mut">Funds</a>
+<a href="showdoc.jsp?docid=325376_NL&amp;WT.ac=MENU_Product_Sav2&amp;menopt=pro|sav|mut">Fondsen</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=321832_EN&amp;menopt=pro|sav|bon">Bonds</a>
+<a href="showdoc.jsp?docid=321832_NL&amp;WT.ac=MENU_Product_Sav3&amp;menopt=pro|sav|bon">Obligaties</a>
 </li>
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=321259_EN&amp;menopt=pro|sav|inv">Investment-linked insurance</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=321259_NL&amp;menopt=pro|sav|inv&amp;WT.ac=MENU_Product_Sav4">Beleggingsverzekeringen</a>
 </li>
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=321262_EN&amp;menopt=pro|sav|pen">Savings and pension</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=321262_NL&amp;menopt=pro|sav|pen&amp;WT.ac=MENU_Product_Sav5">Spaarplannen</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=283024_EN&amp;menopt=pro|sav|aan">Shares</a>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=390362_NL&amp;menopt=pro|sav|pen&amp;WT.ac=MENU_Product_Sav11&amp;lang=nl&amp;menopt=pro|sav|pla">Pensioenplannen</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=051271_EN&amp;menopt=pro|sav|tos">Taxation</a>
+<a href="showdoc.jsp?docid=283024_NL&amp;WT.ac=MENU_Product_Sav6&amp;menopt=pro|sav|aan">Aandelen</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=180453_EN&amp;menopt=pro|sav|dma">Dematerialization of securities</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=025540_EN&amp;menopt=pro|sav|ini">Why invest at ING?</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=032655_EN&amp;menopt=pro|sav|tar">Tariffs</a>
-</li>
-<li>
-<a href="javascript:openWindowC('http://www.ing.be/cms/idc_cgi_isapi.dll?IdcService=GET_PDF&amp;dDocName=283740_EN&amp;menopt=pro|sav|mif',700,500,1,1,0,1,1,1)">MiFID</a>
+<a href="showdoc.jsp?docid=051271_NL&amp;WT.ac=MENU_Product_Sav12&amp;menopt=pro|sav|inf">Nuttige informatie</a>
 </li>
 </ul>
 </li>
-<li id="li38">
-<a href="showdoc.jsp?docid=025564_EN&amp;menopt=pro|ins|las" class="arrow2">Insurance</a>
+<li id="li36">
+<a href="showdoc.jsp?docid=025564_NL&amp;WT.ac=MENU_Product_Ins1&amp;menopt=pro|ins|las" class="arrow2">Verzekeren</a>
 <ul class="ssmenu">
 <li>
-<a href="showdoc.jsp?docid=025564_EN&amp;menopt=pro|ins|las">Life assurance</a>
+<a href="showdoc.jsp?docid=025564_NL&amp;WT.ac=MENU_Product_Ins1&amp;menopt=pro|ins|las">Overlijdensverzekering</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025563_EN&amp;menopt=pro|ins|lin">Life insurance</a>
+<a href="showdoc.jsp?docid=025563_NL&amp;WT.ac=MENU_Product_Ins2&amp;menopt=pro|ins|lin">Levensverzekering</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025566_EN&amp;menopt=pro|ins|ill">Illness and invalidity</a>
+<a href="showdoc.jsp?docid=025566_NL&amp;WT.ac=MENU_Product_Ins3&amp;menopt=pro|ins|ill">Ziekte en invaliditeit</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025562_EN&amp;menopt=pro|ins|eme">Emergency assistance</a>
+<a href="showdoc.jsp?docid=025547_NL&amp;WT.ac=MENU_Product_Ins4&amp;menopt=pro|ins|eme">ING Assistance</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=025565_EN&amp;menopt=pro|ins|non">Non-life insurance</a>
+<a href="showdoc.jsp?docid=025565_NL&amp;WT.ac=MENU_Product_Ins5&amp;menopt=pro|ins|non">Schadeverzekeringen</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=025554_NL&amp;WT.ac=MENU_Product_Ins6&amp;menopt=pro|ins|srd">Schuldsaldo verzekering</a>
 </li>
 </ul>
 </li>
 <li>
-<a href="topics.jsp?topic=ebranch&amp;docid=261573_EN&amp;menopt=int|ebr">Apply online</a>
+<a href="topics.jsp?topic=ebranch&amp;docid=261573_NL&amp;menopt=int|ebr&amp;WT.ac=MENU_Product_Apply">Online aanvragen</a>
 </li>
 </ul>
 </li>
+<li id="li44">
+<a href="topics.jsp?topic=ebranch&amp;docid=261573_NL&amp;menopt=int|ebr&amp;WT.ac=MENU_Online_Apply_1" class="arrow1">Online bankieren</a>
+<ul class="smenu">
 <li id="li45">
-<a href="topics.jsp?topic=ebranch&amp;docid=261573_EN&amp;menopt=int|ebr" class="arrow1">Online banking</a>
+<a href="topics.jsp?topic=ebranch&amp;docid=261573_NL&amp;menopt=int|ebr&amp;WT.ac=MENU_Online_Apply_1" class="arrow2">Online aanvragen</a>
+<ul class="ssmenu">
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/lionaccount/?lang=NL&amp;SOURCE=INGBELOKET&amp;utm_source=ingbe&amp;utm_medium=menu_ApplyOnline_LionAccount&amp;menopt=int|ebr|ebr1',700,500,1,1,0,1,1,1)">Gratis online zichtrekening (ING Lion Account)</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/liondeposit.asp?lang=NL&amp;utm_source=ingbe&amp;utm_medium=menu_ApplyOnline_LionDeposit&amp;menopt=int|ebr|',700,500,1,1,0,1,1,1)">Gratis online spaarrekening (ING Lion Deposit)</a>
+</li>
+<li>
+<a href="https://promo.ing.be/ingcard/ingcard.aspx?lang=NL&amp;utm_source=ingbe&amp;utm_medium=menu_applyOnline_INGCard &amp;menopt=int|ebr|ebr2">Kredietkaart (ING Card)</a>
+</li>
+<li>
+<a href="http://www.ing.be/private/showdoc2.jsp?htmlid=302239&amp;lang=nl&amp;menopt=int|ebr|ebr2">Autoverzekering (ING Auto.be)</a>
+</li>
+</ul>
+</li>
+<li id="li50">
+<a href="topics.jsp?topic=ebranch&amp;docid=261577_NL&amp;menopt=int|ebr&amp;WT.ac=MENU_Online_Apply_2" class="arrow2">Online aanvragen - Voor ING-cliënten</a>
+<ul class="ssmenu">
+<li>
+<a href="http://www.ing.be/private/showdoc.jsp?docid=323068_NL&amp;menopt=int|ebr|hob">Home'Bank</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/lionaccount/?lang=NL&amp;SOURCE=INGBELOKET&amp;menopt=int|ebr|ebr5',700,500,1,1,0,1,1,1)">Gratis online zichtrekening (ING Lion Account)</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/liondeposit.asp?lang=nl&amp;utm_source=ingbe&amp;utm_medium=menu_ApplyOnline_LionDeposit_nl&amp;menopt=int|ebr|',700,500,1,1,0,1,1,1)">Gratis online spaarrekening (ING Lion Deposit)</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/LionFidelity.aspx?ID=SaTpuSNe8pmSSSI&amp;lang=NL&amp;SOURCE=INGBELOKETF &amp;menopt=int|ebr|',700,500,1,1,0,1,1,1)">Lion Fidelity Account</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/longterm/messagent.aspx?ID=A2BaoArYlBkAAAQ&amp;lang=NL&amp;utm_source=ingbe&amp;utm_medium=menu_ApplyOnline_LongTermAccount&amp;menopt=int|ebr|ebr7',700,500,1,1,0,1,1,1)">Long Term Account</a>
+</li>
+<li>
+<a href="topics.jsp?topic=ebranch&amp;docid=261613_NL&amp;menopt=int|ebr|ebr4">Zichtrekening</a>
+</li>
+<li>
+<a href="topics.jsp?topic=ebranch&amp;docid=261620_NL&amp;menopt=int|ebr|ebr6">Spaarrekening</a>
+</li>
+<li>
+<a href="javascript:openWindowC('https://promo.ing.be/ingcard/ingcard.aspx?lang=NL&amp;utm_source=ingbe&amp;utm_medium=menu_applyOnline&amp;menopt=int|ebr|ebr8',700,500,1,1,0,1,1,1)">Kredietkaart (ING Card)</a>
+</li>
+<li>
+<a href="http://www.ing.be/private/showdoc.jsp?htmlid=192137&amp;menopt=pro|pay|ban|myc&amp;lang=NL&amp;WT_ac=Ebranch_mycardN&amp;menopt=int|ebr|ebr9">Gepersonaliseerde bankkaart</a>
+</li>
+<li>
+<a href="http://www.ing.be/private/showdoc2.jsp?htmlid=302239&amp;lang=nl&amp;menopt=int|ebr|ebr2">Autoverzekering (ING Auto.be)</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=025535_NL&amp;menopt=int|ebr|ebr10">Pensioenspaarplan</a>
+</li>
+<li>
+<a href="http://www.ing.be/private/showdoc.jsp?docid=025547_NL&amp;menopt=int|ebr|">ING Assistance</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="topics.jsp?topic=ebanking&amp;WT.ac=MENU_Online_3">E-bankieren bij ING</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=144630_NL&amp;WT.ac=MENU_Online_4&amp;menopt=int|pay">Uw bank 24/7 bereikbaar</a>
+</li>
+<li>
+<a href="javascript:openWindowC('http://homebank.ing.be/NL/',700,500,1,1,0,1,1,1)">Toegang tot uw Home'Bank</a>
+</li>
+<li>
+<a href="javascript:openWindowC('http://www.ing.be/private/showdoc2.jsp?docid=077453_NL&amp;WT.ac=MENU_Online_6&amp;menopt=int|hbh',700,500,1,1,0,1,1,1)">Home'Bank Helpdesk</a>
+</li>
+<li>
+<a href="http://www.ing.be/private/showdoc.jsp?docid=323068_NL&amp;WT.ac=MENU_Online_7&amp;menopt=int|sub">Open uw Home'Bank abonnement</a>
+</li>
+<li id="li68">
+<a href="showdoc.jsp?docid=184965_NL&amp;WT.ac=MENU_Online_8&amp;menopt=int|sos" class="arrow2">Veiligheid</a>
+<ul class="ssmenu">
+<li>
+<a href="showdoc.jsp?docid=184957_NL&amp;menopt=int|sos|plu">Plug-ins</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=184958_NL&amp;menopt=int|sos|phi">Phishing</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=184960_NL&amp;menopt=int|sos|com">Hoe communiceert ING?</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=184962_NL&amp;menopt=int|sos|twi">Bij twijfel</a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=187354_NL&amp;menopt=int|sos|tev">Online tevredenheidsstudies </a>
+</li>
+<li>
+<a href="showdoc.jsp?docid=209780_NL&amp;menopt=int|sos|awa">Opslaan van geheime codes</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="li75">
+<a href="searchBranches.jsp?menopt=bra|kan" class="arrow1">Onze kantoren</a>
 <ul class="smenu">
-<li id="li46">
-<a href="topics.jsp?topic=ebranch&amp;docid=261573_EN&amp;menopt=int|ebr" class="arrow2">Apply online</a>
-<ul class="ssmenu">
 <li>
-<a href="javascript:openWindowC('https://promo.ing.be/lionaccount/?lang=EN&amp;SOURCE=INGBELOKET&amp;menopt=int|ebr|ebr1',700,500,1,1,0,1,1,1)">Free e-account (ING Lion Account)</a>
+<a href="searchBranches.jsp?menopt=bra|kan">Zoek een ING-kantoor</a>
 </li>
 <li>
-<a href="javascript:openWindowC('https://promo.ing.be/liondeposit.asp?lang=en&amp;utm_source=ingbe&amp;utm_medium=menu_ApplyOnline_LionDeposit_en&amp;menopt=int|ebr|',700,500,1,1,0,1,1,1)">Free savings account (ING Lion Deposit)</a>
+<a href="http://www.ing.be/private/showdoc.jsp?docid=393832_NL&amp;menopt=bra|map&amp;lang=nl&amp;WT.ac=menu">Maak een afspraak</a>
 </li>
 <li>
-<a href="javascript:openWindowC('https://promo.ing.be/ingcard/ingcard.aspx?lang=EN&amp;utm_source=ingbe&amp;utm_medium=menu_applyOnline&amp;menopt=int|ebr|ebr2',700,500,1,1,0,1,1,1)">Credit Card (ING Card)</a>
+<a href="showdoc.jsp?docid=025624_NL&amp;menopt=bra|ser">Diensten</a>
 </li>
 <li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=302239_en&amp;menopt=the|mca&amp;wt.mc_id=100150&amp;menopt=int|ebr|ebr2">Car insurance (ING Auto.be)</a>
-</li>
-</ul>
-</li>
-<li id="li51">
-<a href="topics.jsp?topic=ebranch&amp;docid=261577_EN&amp;menopt=int|ebr" class="arrow2">Apply online - for ING customers</a>
-<ul class="ssmenu">
-<li>
-<a href="http://www.ing.be/private/showdoc.jsp?docid=323068_EN&amp;menopt=int|ebr|hob">Home'Bank</a>
+<a href="showdoc.jsp?docid=025600_NL&amp;menopt=bra|sel">Self'Bank</a>
 </li>
 <li>
-<a href="topics.jsp?topic=ebranch&amp;docid=261613_EN&amp;menopt=int|ebr|ebr4">Current account</a>
+<a href="searchSelfBanks.jsp?menopt=bra|sea">Zoek een Self'Bank</a>
 </li>
 <li>
-<a href="javascript:openWindowC('https://promo.ing.be/lionaccount/?lang=EN&amp;SOURCE=INGBELOKET&amp;menopt=int|ebr|ebr5',700,500,1,1,0,1,1,1)">E-account</a>
+<a href="showdoc.jsp?docid=025628_NL&amp;menopt=bra|zet">ING Zetels</a>
 </li>
 <li>
-<a href="topics.jsp?topic=ebranch&amp;docid=261620_EN&amp;menopt=int|ebr|ebr6">Savings account</a>
-</li>
-<li>
-<a href="coupon.jsp?cp=CpTerm&amp;menopt=int|ebr|ebr7&amp;lang=EN&amp;menopt=int|ebr|ebr7">Term account</a>
-</li>
-<li>
-<a href="javascript:openWindowC('https://promo.ing.be/ingcard/ingcard.aspx?lang=EN&amp;utm_source=ingbe&amp;utm_medium=menu_applyOnline&amp;menopt=int|ebr|ebr8',700,500,1,1,0,1,1,1)">Credit card</a>
-</li>
-<li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=192137&amp;menopt=pro|pay|ban|myc&amp;lang=EN&amp;WT_ac=Ebranch_mycardE&amp;menopt=int|ebr|ebr9">Customised bank card</a>
-</li>
-<li>
-<a href="http://www.ing.be/private/showdoc.jsp?htmlid=302239_en&amp;menopt=the|mca&amp;wt.mc_id=100150&amp;menopt=int|ebr|ebr2">Car insurance (ING Auto.be)</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=025535_EN&amp;menopt=int|ebr|ebr10">Pension savings plan</a>
+<a href="showdoc.jsp?docid=139431_NL&amp;menopt=bra|jdf">Sluitingsdagen </a>
 </li>
 </ul>
 </li>
 <li>
-<a href="topics.jsp?topic=ebanking">E-banking with ING</a>
+<a href="showdoc.jsp?docid=066685_NL&amp;menopt=con">Contact</a>
 </li>
 <li>
-<a href="showdoc.jsp?docid=144630_EN&amp;menopt=int|pay">Your round-the-clock bank</a>
-</li>
-<li>
-<a href="javascript:openWindowC('http://homebank.ing.be/EN/',700,500,1,1,0,1,1,1)">Access your Home'Bank</a>
-</li>
-<li>
-<a href="javascript:openWindowC('http://www.ing.be/private/showdoc2.jsp?docid=077453_EN&amp;menopt=int|hbh',700,500,1,1,0,1,1,1)">Home'Bank Helpdesk</a>
-</li>
-<li>
-<a href="http://www.ing.be/private/showdoc.jsp?docid=323068_EN&amp;menopt=int|sub">Subscribe to Home'Bank</a>
-</li>
-<li id="li66">
-<a href="showdoc.jsp?docid=184965_EN&amp;menopt=int|sos" class="arrow2">Security</a>
-<ul class="ssmenu">
-<li>
-<a href="showdoc.jsp?docid=184957_EN&amp;menopt=int|sos|plu">Plug-ins</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=184958_EN&amp;menopt=int|sos|phi">Phishing</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=184960_EN&amp;menopt=int|sos|com">How does ING communicate?</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=184962_EN&amp;menopt=int|sos|twi">In case of doubt</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=187354_EN&amp;menopt=int|sos|tev">Satisfaction surveys </a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=209780_EN&amp;menopt=int|sos|awa">Saving passwords option</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li id="li73">
-<a href="searchBranches.jsp?menopt=bra|kan" class="arrow1">Our branches</a>
-<ul class="smenu">
-<li>
-<a href="searchBranches.jsp?menopt=bra|kan">Find your ING branch</a>
-</li>
-<li>
-<a href="coupon.jsp?cp=CpAppointment&amp;menopt=bra|Mak">Make an appointment</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=025624_EN&amp;menopt=bra|ser">Services</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=025600_EN&amp;menopt=bra|sel">Self'Bank</a>
-</li>
-<li>
-<a href="searchSelfBanks.jsp?menopt=bra|sea">Search a Self'Bank</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=025628_EN&amp;menopt=bra|zet">ING Head Offices</a>
-</li>
-<li>
-<a href="showdoc.jsp?docid=139431_EN&amp;menopt=bra|jdf">Branches holidays</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="showdoc.jsp?docid=066685_EN&amp;menopt=con">Contact</a>
-</li>
-<li>
-<a href="http://www.ing.be/about/index.jsp?menopt=new">ING in Belgium</a>
+<a href="http://www.ing.be/about/index.jsp?menopt=new">ING in België</a>
 </li>
 </ul>
 </div><script type="text/javascript">initMenu();</script>
@@ -391,6 +504,7 @@ function changecolor(){
 
 
 
+
 <table id="tcenter" cellpadding="0" cellspacing="0">
  <tbody><tr>
  
@@ -399,28 +513,28 @@ function changecolor(){
     <style type="text/css">@import "stylesheet/internet_leftmenu.css";</style><div style="display:block;" id="leftmenu">
 <ul>
 <li id="lim1">
-<a class="level1" href="showdoc.jsp?docid=028012_EN&amp;menopt=iso|lep|con">Terms of use</a>
+<a class="level1" href="showdoc.jsp?docid=028012_NL&amp;menopt=iso|lep|con">Gebruiksvoorwaarden</a>
 </li>
 <li id="lim2">
-<a class="level1" href="showdoc.jsp?docid=028011_EN&amp;menopt=iso|lep|pri">Privacy</a>
+<a class="level1" href="showdoc.jsp?docid=028011_NL&amp;menopt=iso|lep|pri">Privacy</a>
 </li>
 <li id="lim3">
-<a class="level1" href=""></a>
+<a class="level1" href="javascript:openWindowC('http://www.ing.be/cms/idc_cgi_isapi.dll?IdcService=GET_PDF&amp;dDocName=187909_NL',700,500,1,1,0,1,1,1)">Gedragsregels bankreclame jongeren</a>
 </li>
 <li id="lim4">
-<a class="level1" href="showdoc.jsp?docid=060779_EN&amp;menopt=iso|lep|reg">General Regulations</a>
+<a class="level1" href="showdoc.jsp?docid=060779_NL&amp;menopt=iso|lep|reg">Algemeen reglement</a>
 </li>
 <li id="lim5">
-<a class="level1" href="showdoc.jsp?docid=277129_EN&amp;menopt=iso|lep|mif">Special Regulations for Trading in Financial Instruments</a>
+<a class="level1" href="showdoc.jsp?docid=277129_NL&amp;menopt=iso|lep|mif">Bijzonder Reglement voor Verrichtingen in Financiële Instrumenten</a>
 </li>
 <li id="lim6">
-<a class="level1" href="showdoc.jsp?docid=195441_EN&amp;menopt=iso|lep|car">Rules debit cards</a>
+<a class="level1" href="showdoc.jsp?docid=195441_EN&amp;menopt=iso|lep|car">Reglement debetkaarten</a>
 </li>
 <li id="lim7">
-<a class="level1" href="showdoc.jsp?docid=000121_EN&amp;menopt=iso|lep|ccr">Terms and conditions ING Card (Credit Card)</a>
+<a class="level1" href="showdoc.jsp?docid=000121_EN&amp;menopt=iso|lep|ccr">Algemene voorwaarden ING Card (kredietkaart)</a>
 </li>
 <li id="menulilast">
-<a class="level1" href="showdoc.jsp?docid=288003_EN&amp;menopt=iso|lep|">Febelfin brochures</a>
+<a class="level1" href="showdoc.jsp?docid=288003_NL&amp;menopt=iso|lep|">Febelfin brochures</a>
 </li>
 </ul><img src="images/space.gif" class="width_menu" alt=""></div>
 
@@ -430,7 +544,7 @@ function changecolor(){
  
   
   <td class="middle">
-   <div id="middledoc">
+   <div id="middledoc" class="docborder">
    <table width="100%"><tbody><tr><td class="blocleft2">
     <div id="boxcontent"><div id="top-left"></div><div id="top-right"></div>
      
@@ -453,8 +567,6 @@ function changecolor(){
 <div id="maincontent_div"><a name="TopOfPage"></a> 
 
  
- 
-
 <table id="doctable" cellpadding="0" cellspacing="0">
 <tbody><tr id="ddoctitle">
 <td>ING Privacy Protection Charter</td>
@@ -475,21 +587,23 @@ relating to the protection of privacy and its execution
 decrees.</p>
 
 <p class="normal">Solely by accessing the website of ING Belgium
-SA/NV ( www.ing.be), Internet users declare they have read the
-information below and authorises ING Belgium SA/NV (hereinafter
-referred to as “ING&nbsp;Belgium”) to process, in
-accordance with the following provisions, the data of a personal
-nature communicated through the channel of the website (including
-via online forms, e-mails sent to ING Belgium e-mails addresses,
-cookies, environment variables, etc.).</p>
+SA/NV ( 
+<a href="javascript:openWindowC('http://www.ing.be',700,500,1,1,0,1,1,1)" target="_self">www.ing.be</a>), Internet users declare they have
+read the information below and authorises ING Belgium SA/NV
+(hereinafter referred to as “ING&nbsp;Belgium”) to
+process, in accordance with the following provisions, the data of a
+personal nature communicated through the channel of the website
+(including via online forms, e-mails sent to ING Belgium e-mails
+addresses, cookies, environment variables, etc.).</p>
 
 <p class="normal">Those resposonible for processing data of a
 personal nature relating to the individuals in question which is
 communicated via the ING Belgium website are ING Belgique SA/NV
 whose registered office is established at 24 avenue Marnix, 1000
-Brussels (Belgium), (e-mail: info@ing.be) and, where appropriate,
-another ING Group company established in a member state of the
-European Union.</p>
+Brussels (Belgium), (e-mail: 
+<a href="mailto:info@ing.be" target="_self">info@ing.be</a>) and, where
+appropriate, another ING Group company established in a member
+state of the European Union.</p>
 
 <p class="normal">Data communicated to other ING Group companies
 established in a member state of the European Union, on the
@@ -499,17 +613,17 @@ supplied by such companies.</p>
 
 <p class="normal">Data of a personal nature relating to individuals
 communicated to ING Belgium through the channel of the
-latter’s website ( www.ing.be) and/or in connection with
-services offered on such website, is processed by ING Belgium for
-the purposes of processing requests from Internet users (with
-regard to accounts, payments, loans, asset management
-(investments), brokerage (in particular insurance or leasing),
-advertising aims and/or information on banking services, leasing
-and/or insurance), centralising customer management, marketing
-banking, leasing and/or insurance services (unless the individual
-in question objects), a global overview of the customer,
-controlling the regularity of transactions and preventing
-irregularities.</p>
+latter’s website ( 
+<a href="javascript:openWindowC('http://www.ing.be',700,500,1,1,0,1,1,1)" target="_self">www.ing.be</a>) and/or in connection with services
+offered on such website, is processed by ING Belgium for the
+purposes of processing requests from Internet users (with regard to
+accounts, payments, loans, asset management (investments),
+brokerage (in particular insurance or leasing), advertising aims
+and/or information on banking services, leasing and/or insurance),
+centralising customer management, marketing banking, leasing and/or
+insurance services (unless the individual in question objects), a
+global overview of the customer, controlling the regularity of
+transactions and preventing irregularities.</p>
 
 <p class="normal">Such data is not intended to be communicated to
 third parties other than those persons designated for such purposes
@@ -541,7 +655,8 @@ companies have given an undertaking to guarantee a high level of
 protection of any data of a personal nature exchanged and are
 bound, as far as such data is concerned, by an undertaking of
 discretion.<br>
-The updated list companies of the Group ING in Belgium which
+The updated list 
+<a href="http://www.ing.be/private/showdoc.jsp?docid=028012_FR&amp;menopt=lep%7Ctou%7Cxxx" target="_self">companies of the Group ING in Belgium</a> which
 exchange such data is available on the ING Belgium website
 (www.ing.be) or from ING Belgium upon request. Any individual may
 ask ING Belgium for an updated list of the companies of the Group
@@ -555,7 +670,7 @@ Belgium or a company to which data may have been transferred in
 accordance with the above provisions, communication of all or part
 of the personal data of private individuals.</p>
 
-<p class="normal"><a name="P9_4743"></a>Neither racial or ethnic
+<p class="normal"><a name="P11_4743"></a>Neither racial or ethnic
 data, nor political, philosophical or religious data, nor data
 relating to trade union membership or sexuality, on the sole
 condition of the assumption that this results from data identifying
@@ -625,13 +740,14 @@ such “cookies”.</p>
 <p class="normal">Such “cookies” contain data
 concerning the user such as language or currency selected by the
 Internet user, which will mean that they do not have to enter such
-data again each time they visit the website. They record data about
-the ING Belgium website pages visited by the Internet user and
-their aim is to provide information sessions, particularly by
-recording the information that the Internet user provides in
-successive forms, as well as preventing the Internet user from
-receiving the same advertisements or other announcements
-repeatedly.</p>
+data again each time they visit the website.</p>
+
+<p class="normal">They record data about the ING Belgium website
+pages visited by the Internet user and their aim is to provide
+information sessions, particularly by recording the information
+that the Internet user provides in successive forms, as well as
+preventing the Internet user from receiving the same advertisements
+or other announcements repeatedly.</p>
 
 <p class="normal">User data recorded by the “cookies”
 is, in addition, processed by ING Belgium to compile statistics or
@@ -692,7 +808,7 @@ prior written permission from ING Belgium.</p>
 </tr>
 
 <tr class="stel_footer">
-<td colspan="3">System Administrator - 22/1/08</td>
+<td colspan="3">System Administrator - 22/01/2008</td>
 </tr>
 </tbody></table>
 
@@ -772,7 +888,7 @@ prior written permission from ING Belgium.</p>
     <div class="footer">
  
  
- <a class="link" href="showdoc.jsp?docid=028012_EN&amp;menopt=iso|lep">Legal information</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=028011_EN&amp;menopt=iso|lep">Privacy statement</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=184965_EN&amp;menopt=int|sos">Security</a><span class="text">© 2008 ING Belgium SA/NV, all rights reserved.</span>
+ <a class="link" href="showdoc.jsp?docid=028012_NL&amp;menopt=iso|lep">Legal information</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=028011_NL&amp;menopt=iso|lep">Privacy statement</a><span class="sep">|</span><a class="link" href="showdoc.jsp?docid=184965_NL&amp;menopt=int|sos">Veiligheid</a><span class="sep">|</span><a class="link" href="sitemap.jsp">Sitemap</a><span class="text">© 2009 ING Belgïe nv, alle rechten voorbehouden.</span>
 </div>
 
  
@@ -833,5 +949,5 @@ prior written permission from ING Belgium.</p>
 
 
 
-<!-- Serving time: 312ms -->
+<!-- Serving time: 672ms -->
 </body></html>
