@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217134720id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
-# Privacy policy | Help | TES
+# Privacy policy - Help - TES Connect
 
 #### For tes.co.uk and related sites
 
@@ -10,7 +10,7 @@ We take your privacy seriously and we have notified the Information Commissioner
 
 This Privacy Policy explains what we do with data relating to you. If you have any questions about this or about personal information that we may hold about you please contact us by email at [webmaster@tes.co.uk](mailto:webmaster@tes.co.uk "mailto:webmaster@tes.co.uk")
 
-By submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://web.archive.org/web/20081217134720id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000267).
+By submitting your personal information to the website or by email, you consent to our processing of your personal data in accordance with this [Privacy Policy](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000267).
 
 If you do not accept this privacy policy you should not submit your personal data to us and you may find that you will not be able to make full use of the website.
 
@@ -24,7 +24,7 @@ We may use ’cookies’ to identify you when you visit the tes.co.uk and associ
 
 We collect personal information from you through enquiry and registration forms and every time you email us your details or log on using your user name and password. This data will be used by us to authenticate your identity and to provide you with our services. We may also use this information to personalise aspects of our services, to carry out market research surveys, to contact you about opportunities that we believe may be relevant to you and to provide you with updates about developments on the sites and information about the products and services we offer.
 
-If you do not wish to receive information about our products or services, or the products or services offered jointly with or on behalf of other organisations, please tick the appropriate box on the registration form or email us at [webmaster@tes.co.uk](mailto:webmaster@tes.co.uk "mailto:webmaster@tes.co.uk").
+If you do not wish to receive information about our products or services, or the products or services offered jointly with or on behalf of other organisations, please email us at [webmaster@tes.co.uk](mailto:webmaster@tes.co.uk "mailto:webmaster@tes.co.uk").
 
 We will not disclose any information we keep about you to any third parties, except for other companies in the TSL Education group of companies and any suppliers we engage to provide services which involve processing data on our behalf.
 
@@ -32,7 +32,7 @@ We will not disclose any information we keep about you to any third parties, exc
 
 If you make your personal data available to friends, colleagues and/or any wider TES community then it will be shared within the relevant community. Also, if you post any personal information to any of our forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. In some circumstances we may display some of your personal information (your username for example) when you post material to the website to allow users to identify each other.
 
-If you post any content in breach of our website [terms and conditions](https://web.archive.org/web/20081217134720id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000125) we may inform any relevant third parties such as your employer, school email/Internet provider and law enforcement agencies about the content and your behaviour.
+If you post any content in breach of our website [terms and conditions](https://web.archive.org/web/20090617193129id_/http%3A//www.tes.co.uk/article.aspx?storyCode=6000125) we may inform any relevant third parties such as your employer, school email/Internet provider and law enforcement agencies about the content and your behaviour.
 
 ### Third Party Privacy Policies
 
@@ -51,3 +51,6 @@ Please note that countries outside the EEA may not have the same level of protec
 ### Additional Terms
 
 In some circumstances (for example where you use our Jobs service) it may be necessary for us to use, share or transfer your personal data in other ways and we will let you know about this additional use of your personal data where relevant.
+
+  
+
