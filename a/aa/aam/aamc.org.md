@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011728id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617184255id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
 
 # AAMC: Privacy Notice
 
@@ -73,7 +73,7 @@ Any changes to this privacy notice will be posted on this Web site.  Reviewing 
 
 Certain AAMC services and surveys provide additional detailed information regarding collection and use of your data.  Please follow the links below to learn more about how the specific program may use your data, why they collect your data, and which data are collected. 
 
-[Annual Development Survey](https://web.archive.org/data/developmentsurvey/usersguide06.pdf)  
+[Annual Development Survey](https://web.archive.org/data/developmentsurvey/2008guide.pdf)  
 [AMCAS® (American Medical College Admissions Service)](https://web.archive.org/students/amcas/datacollection.htm)   
 [ERAS® (Electronic Residency Application Service)](https://web.archive.org/students/eras/policies/erasdatapolicy.pdf)  
 [Faculty Roster](https://web.archive.org/data/facultyroster/privacy.htm)  
