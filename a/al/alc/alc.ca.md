@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045905id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194002id_/http%3A//www.alc.ca/English/Legal/%23Privacy) for the most accurate reproduction.*
 
 # ALC: Legal Information
 
@@ -14,7 +14,7 @@ In no event or circumstance is ALC, its officers, employees or agents, liable, w
 Certain names, words, titles, phrases, logos, icons, graphics or designs or other content in the pages of the Site are trade names or trade-marks owned by ALC or trade names or trade-marks licensed to them. Any unauthorized downloading, re-transmission, or other copying or modification of trademarks and/or the contents of the Site may be in violation of any federal or other law that may apply to trade-marks and/or copyrights and could subject the copier to legal action. Unless otherwise specified, no one has permission to copy, redistribute, reproduce, republish, store in any medium, re-transmit, modify or make public or commercial use of, in any form, the Information residing on the Site. 
 
 **Age Restriction**  
-Individuals must be the age of majority to purchase any type of product sold by ALC. 
+Individuals must be 19 years of age or older to purchase any type of product sold by ALC. 
 
 **Sale of Lottery Products**  
 ALC sells lottery products through more than 6,200 retailers, located throughout the four Atlantic provinces and via the internet through our PlaySphere site (www.alc.ca). ALC does not authorize anyone to sell its products on the Internet.
@@ -93,7 +93,7 @@ Survey responses
 **Your e-mail address is used to identify you as an “individual” on the database and is used to distribute e-mail services to which you have subscribed. 
 
 **Name, Address, Phone Number, Credit Card Information (optional) and Date of Birth  
-** This information will be used to identify you on ALC.ca, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are the age of majority in the province in which you reside and/or as contact information if this is required.
+** This information will be used to identify you on ALC.ca, to ensure that you are a resident of either New Brunswick, Nova Scotia, Newfoundland and Labrador or Prince Edward Island and that you are at least 19 years of age or older in the province in which you reside and/or as contact information if this is required. 
 
 **Security Question  
 ** Your security question is used to confirm your identity when communicating with ALC.
@@ -121,14 +121,18 @@ Suppliers who provide specialized services for ALC are given only the informatio
 
 At no time will your personal information be shared or sold to third parties for any purpose other than disclosed to you.
 
-**4\. Cookies and Statistics  
-** Cookies are small text files that identify an individual computer’s browser entering a website. They allow the website to “remember” certain pieces of information as the individual moves through it and enhance the overall experience with the site. Through cookies, a website can facilitate a user’s access to, and use of, the site. ALC uses cookies only for the above-mentioned purposes and will not use them to personally identify users unless consent to do so is specifically obtained. 
+**4\. Google Analytics, Cookies and Statistics  
+**
+
+Google Analytics is a service offered by Google. Google Analytics produces statistics about visitors to the website. Specifically, it tracks the number of visits to the site, visitor trending, traffic sources, content referrals, and eCommerce conversion rates. The statistics are not used to track individual movement. It is used for marketing purposes only.
+
+Cookies are small text files that identify an individual computer’s browser entering a website. They allow the website to “remember” certain pieces of information as the individual moves through it and enhance the overall experience with the site. Through cookies, a website can facilitate a user’s access to, and use of, the site. ALC uses cookies only for the above-mentioned purposes and will not use them to personally identify users unless consent to do so is specifically obtained. 
 
 For certain services to operate, your browser must be set to accept cookies. If you are concerned about having your browser enabled to accept cookies while you are visiting other websites, we recommend that you enable your browser to notify you when it is receiving a cookie. This gives you the ability of accepting or rejecting any cookie presented by the server of the website you are visiting. The site will work if you choose to reject cookies, but some functionality will not be available to you.
 
 When you go to information portions of our website and move from page to page, read pages or download content onto your computer, we learn about which pages are visited and what content is downloaded. However, none of this is associated with you as an individual. It is measured only in aggregate form. 
 
-We use this information to find out how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most useful to you so that we can improve our website and make it easier for you to access information.
+We use the above information to find out how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most useful to you so that we can improve our website and make it easier for you to access information.
 
 **5\. Our Commitment to Security  
 ** Personal information about you will only be accessible to authorized ALC employees and representatives who require access to this information in the performance of their duties. 
@@ -184,7 +188,7 @@ Rules and Regulations of The Atlantic Lottery Corporation
 
 5\. The Corporation may establish discounts or commissions with respect to the sale of tickets to distributors and retailers within the Atlantic region. 
 
-6\. The sale of tickets to individuals under the age of majority in their province of residence and the purchase of tickets by individuals under the applicable age of majority are prohibited, and, subject to clause 15, prizes related to such tickets will not be paid or awarded to anyone. 
+6\. The sale of tickets to individuals under the age of nineteen (19) years and the purchase of tickets by individuals under the age of nineteen (19) years are prohibited, and prizes related to such tickets will not be paid or awarded to anyone. 
 
 **Draw**  
 7\. A draw in a lottery may be made by any method established by the Corporation and may be held at such time and place as the Corporation determines. 
@@ -208,7 +212,7 @@ Rules and Regulations of The Atlantic Lottery Corporation
   1. gives the Corporation the right to publish his/her name, address and/or recent photograph without any claim for broadcasting, printing, royalty, or other rights; 
   2. if requested by the Corporation, gives satisfactory evidence of identification and/or a valid release for the prize and undertakes to indemnify and save the Corporation harmless from any further claims made by either such holder or by any other person regarding such prize; 
   3. endorses the winning ticket or provides the Corporation with a duly attested Power of Attorney allowing another person to endorse the winning ticket on his/her behalf; and 
-  4. upon request, satisfies the Corporation that he/she was the full age of majority, according to the laws of the Province in which he/she resided, at the time the winning ticket was purchased.
+  4. upon request, satisfies the Corporation that he/she was nineteen (19) years of age or older at the time the winning ticket was purchased.
 
 
 
@@ -218,25 +222,23 @@ Rules and Regulations of The Atlantic Lottery Corporation
 
 14\. Except for money prizes, the Corporation may, in its sole discretion, substitute for any prize i) the cash equivalent to the Corporation's cost of such prize or ii) a prize of any equivalent cost to the Corporation. No representation or warranty as to the fitness and serviceability of any merchandise or service prize is given or to be implied. 
 
-15\. An individual under the age of majority, according to the laws of the Province in which he/she resided, may be entitled to a prize where it can be established that the acquisition of the winning ticket did not contravene section 6 above. The Corporation shall transfer or pay the prize to the legal guardian on behalf of the holder of a winning ticket upon receiving a satisfactory order from a Court of competent jurisdiction or, in the case of a prize with a value of less than $1,000, upon receiving a satisfactory release from his/her parent or legal guardian. 
-
 **Claims**  
-16\. No right of action exists against the Corporation with respect to any draw, ticket or prize, unless the claimant: 
+15\. No right of action exists against the Corporation with respect to any draw, ticket or prize, unless the claimant: 
 
   1. satisfies the Corporation that he/she is the holder of a valid ticket and, when he/she claims a prize, that such ticket is a winning ticket, and that the conditions of section 11 have been fulfilled; and 
   2. produces a written claim and such winning ticket to the Corporation prior to the expiry of one (1) year commencing on the date of the draw or within the time limit otherwise specified on the ticket, whichever is earliest
 
 
 
-17\. In the event of any dispute with regard to a prize, the Corporation may in the case of money prize, pay the money into Court or as directed by the Court and, in the case of any other prize, deliver the prize or evidence of entitlement thereto to the Court pending determination of the matter by a Court of competent jurisdiction. 
+16\. In the event of any dispute with regard to a prize, the Corporation may in the case of money prize, pay the money into Court or as directed by the Court and, in the case of any other prize, deliver the prize or evidence of entitlement thereto to the Court pending determination of the matter by a Court of competent jurisdiction. 
 
-18\. A person who makes claim for a prize is conclusively deemed to represent and warrant to the Corporation that he/she is the person or holder lawfully entitled to receive such prize, and such representation and warranty shall survive the awarding of the prize. 
+17\. A person who makes claim for a prize is conclusively deemed to represent and warrant to the Corporation that he/she is the person or holder lawfully entitled to receive such prize, and such representation and warranty shall survive the awarding of the prize. 
 
 **General**  
-19\. These rules and regulations apply to all lotteries conducted and managed under the authority of the Corporation and all tickets issued under such lotteries. The rules and regulations, the conditions and explanations appearing on tickets and such other conditions as are established by the Corporation, including, without restriction the generality of the foregoing, the conditions appearing on selection forms and prize structure statements, constitute the contractual rights and obligations with respect to lotteries. In the event of any discrepancy or inconsistency between these rules and regulations and the conditions and explanations appearing on a ticket or such other conditions as are established by the Corporation, these rules and regulations shall prevail. 
+18\. These rules and regulations apply to all lotteries conducted and managed under the authority of the Corporation and all tickets issued under such lotteries. The rules and regulations, the conditions and explanations appearing on tickets and such other conditions as are established by the Corporation, including, without restriction the generality of the foregoing, the conditions appearing on selection forms and prize structure statements, constitute the contractual rights and obligations with respect to lotteries. In the event of any discrepancy or inconsistency between these rules and regulations and the conditions and explanations appearing on a ticket or such other conditions as are established by the Corporation, these rules and regulations shall prevail. 
 
-20\. The Corporation may from time to time amend these rules and regulations 
+19\. The Corporation may from time to time amend these rules and regulations 
 
-21\. Where the context so requires, in these rules and regulations, the neuter gender shall include the feminine or masculine gender and vice versa, and the singular shall include the plural and vice versa. 
+20\. Where the context so requires, in these rules and regulations, the neuter gender shall include the feminine or masculine gender and vice versa, and the singular shall include the plural and vice versa. 
 
-22\. In the event any provision of these rules and regulations, of the conditions and explanations appearing on a ticket or of such other conditions as are established by the Corporation are determined by a Court of competent jurisdiction to be void or unenforceable, such determination shall solely affect such provision and shall not, in itself, render void or unenforceable the remaining provisions thereof. 
+21\. In the event any provision of these rules and regulations, of the conditions and explanations appearing on a ticket or of such other conditions as are established by the Corporation are determined by a Court of competent jurisdiction to be void or unenforceable, such determination shall solely affect such provision and shall not, in itself, render void or unenforceable the remaining provisions thereof. 
