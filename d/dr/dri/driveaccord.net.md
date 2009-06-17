@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driveaccord.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044926id_/http%3A//www.driveaccord.net/forums/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveaccord.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171659id_/http%3A//www.driveaccord.net/forums/privacy.html) for the most accurate reproduction.*
 
 # Drive Accord Forums Privacy Statement
 
