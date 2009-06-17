@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055935id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavemaker.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617202654id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.*
 
 # WaveMaker Privacy Policy
 
-Your privacy is important to WaveMaker. We are committed to respecting your privacy and the confidentiality of your personal information. Therefore we collect and use information throughout our Web site only as disclosed in this Privacy Policy. This statement applies solely to information collected on this Web site.
+Your privacy is important to WaveMaker. We are committed to respecting your privacy and the confidentiality of your personal information. Therefore we collect and use information throughout our Web sites only as disclosed in this Privacy Policy. This statement applies solely to information collected on the WaveMaker Web sites.
 
-No information regarding the domain or e-mail address of each visitor to our Web site is recognized by our Web server.
+No information regarding the domain or e-mail address of each visitor to our Web sites is recognized by our Web servers.
 
 The information we collect is only used to communicate with our users and is never shared with other organizations for commercial purposes.
 
