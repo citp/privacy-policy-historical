@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161943id_/http%3A//www.sillyjokes.co.uk/essentials/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillyjokes.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194251id_/http%3A//www.sillyjokes.co.uk/essentials/privacy.html) for the most accurate reproduction.*
 
 # SillyJokes.co.uk's Privacy Policy
 
@@ -35,5 +35,5 @@ If you would like to opt-out of any of our mailing lists or you have any other p
 |  |  [](https://www.mcafeesecure.com/RatingVerify?ref=www.sillyjokes.co.uk)  
 ---|---|---  
   
-Copyright © 1999 - 2008 SillyJokes Ltd  
-Last Modified December 2008 
+Copyright © 1999 - 2009 SillyJokes Ltd  
+Last Modified January 2009 
