@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012959id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045312id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Advanced Anime - Privacy Policy
 
-<< [Return to Help](https://web.archive.org/web/20081216012959id_/http%3A//www.advancedanime.com/help.php)
+<< [Return to Help](https://web.archive.org/web/20090617045312id_/http%3A//www.advancedanime.com/help.php)
 
 Advanced Anime is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of Advanced Anime anonymously, you are required to provide personal information to gain access to some of our member-only content and services. 
 
@@ -26,11 +26,13 @@ All personal data you enter on Advanced Anime is stored on our secure server pro
 
 While Advanced Anime does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member. 
 
-Advanced Anime uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called "clear gifs"). If you would like more information about the information collection practices of these third-party advertising companies or would like to know more about your option to not have this information used by these companies, click here:   
-<http://www.google.com/privacy.html>  
+Advanced Anime uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called "clear gifs"). In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. 
+
+If you would like more information about the information collection practices of these third-party advertising companies or would like to know more about your option to not have this information used by these companies or to "opt-out", click here:   
+<http://www.google.com/privacy_ads.html>  
 <http://www.gorillanation.com/privacy/>
 
-This website may also utilize certain services provided by DoubleClick, Inc. (“DoubleClick”). For further information concerning DoubleClick’s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to http://www.doubleclick.com/us/about_doubleclick/privacy/
+This website also utilize certain services provided by DoubleClick, Inc. (“DoubleClick”). These services include the use of DoubleClick's "DART" cookie that enables the serving of ads to you based on visits to this site and other sites on the Internet. For further information concerning DoubleClick’s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/privacy/index.aspx>
 
 **Obtaining your consent**
 
@@ -42,4 +44,6 @@ Any changes to our privacy policy will be posted on this page so that you are al
 
 **Tell us what you think**
 
-Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20081216012959id_/http%3A//www.advancedanime.com/contact.php "Contact") us. Privacy Policy v1.0 
+Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20090617045312id_/http%3A//www.advancedanime.com/contact.php "Contact") us. 
+
+Privacy Policy v1.2 
