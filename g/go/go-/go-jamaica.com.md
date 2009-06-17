@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094847id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-jamaica.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181518id_/http%3A//www.go-jamaica.com/privacyp.html) for the most accurate reproduction.*
 
 # Go-Jamaica :: PRIVACY POLICY
 
-Privacy Policy  
+**Privacy Policy**  
 
 
 * * *
 
 **Third Party Advertising**  
-We use Google, Burstmedia, Kontera, ValueClickMedia, Amazon, Share A Sale, Advertising.com, Tribal Fusion, AdvertisingZ and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you. 
+We use Google, Burstmedia, Kontera, ValueClickMedia, Amazon, Share A Sale, Advertising.com, Tribal Fusion, AdvertisingZ, Creafi.com and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you. 
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the links provided below. 
 
@@ -26,6 +26,15 @@ Should you accept a cookie, each subsequent visit to our site will identify you 
 The data collected by the cookie is compiled and used in the future to market other products and services or advertisements to you, to analyze the usage of our website to provide data on how to improve the website and for feedback generally. No sensitive personal data or personally identifiable data capable of identifying you as a private individual are collected. 
 
 All data are for specific purposes for our private use only and not for use of any other third party unless specifically instructed by us and only for a specific purposes, such as marketing of products and services.
+
+> **Google and the DoubleClick DART cookie:**
+> 
+>   * Google, as a third party vendor, uses cookies to serve ads on your site.
+> 
+>   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+> 
+> 
+
 
 **Your Choices**  
 You do not have to accept cookies and you may block or disable all cookies from your browser at anytime.
