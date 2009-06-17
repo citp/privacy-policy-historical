@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044758id_/http%3A//www.metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045016id_/http%3A//www.metro.net/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # metro.net | Metro Privacy Policy
 
-[About Us](https://web.archive.org/web/20081217044758id_/http%3A//www.metro.net/about_us/default.htm) | Metro Privacy Policy
+[About Us](https://web.archive.org/web/20090617045016id_/http%3A//www.metro.net/about_us/default.htm) | Metro Privacy Policy
 
 The Los Angeles County Metropolitan Transportation Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via Metro.net, and how it is used.
 
@@ -31,4 +31,4 @@ Metroâ€™s web servers track activity and site function on its web site in t
 
 ## Cross Linking
 
-Metro provides links to other government transit related websites as a service to our customers and does not share any personal information with these entities. Note that Metro does not endorse or take responsibility for information contained on those sites.
+Metro provides links to other government transit related websites as a service to our customers and does not share any personal information with these entities. Note that Metro does not endorse or take responsibility for information contained on those sites. 
