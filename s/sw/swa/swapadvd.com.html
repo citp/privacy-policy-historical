@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the swapadvd.com privacy policy that was archived on 2008-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080527223219id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swapadvd.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617201556id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>SwapaDVD :: Privacy Policy</title>
-    <script type="text/javascript" src="/includes/global-24.js"></script>
-<link href="/css/global-8.css" rel="stylesheet" type="text/css">
-<script type="text/javaScript" src="/includes/qm-1.js"></script>
+    <script type="text/javascript" src="/includes/global-40.js"></script>
+<link href="/css/global-18.css" rel="stylesheet" type="text/css">
+<script type="text/javaScript" src="/includes/qm.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="dvd, dvds, music dvds, music dvd, music lover, swap music, swap dvd, swap music dvds">
-<meta name="description" content="Swap your used DVDs with other club members.">
+<meta name="keywords" content=", online movie club, trade dvds, dvd club, used dvd, used dvds, free dvds, free movie dvds, dvd, dvds, DVDS, movie dvd, movie lover, swap movies, swap dvd, exchange dvds, trade movies, exchange movies">
+<meta name="description" content=" Join our Free Online Movie Club and Swap, Trade, or Exchange any Used DVDs with other dvd club members absolutely free. Looking for Free DVDs? You'll find a huge selection of Used dvds to choose from.">
 <script type="text/javascript">
-var statistic_id = 'Rmxnc0JWS3lpUUk9';
+var statistic_id = 'RmN4VDB0VG0zUzg9';
 var server = 'ZEE5U0x1bDFOWUxKS0RwZGF2cGdqUT09';
 var subdomain='www';
 var secure_subdomain='secure';
@@ -18,30 +18,64 @@ var user_logged_in=false;
 </script></head>
 <body>
 	<div id="page_container">
-		<div id="page_header"><a name="top"></a>
+		<div id="page_header">
+<a name="top"></a>
 <div id="header_logo">
-	<div id="header_left" onclick="self.location.href='http://www.swapadvd.com/index.php'"></div>
+	<div id="header_left" onclick="self.location.href='/index.php'"><div id="header_logo_cap"></div></div>
 	<div id="header_right" align="right">
-		<div id="header_site_links"><a href="http://www.paperbackswap.com/index.php?f=dvd" target="_blank"><img src="/images/header/books_l-1.png" border="0"></a><a href="http://www.swapacd.com/index.php?f=dvd" target="_blank"><img src="/images/header/cds_r-1.png" border="0"></a></div>
+		<div id="header_site_links">
+			<a href="http://www.paperbackswap.com/index.php?f=dvd" target="_blank"><img src="/images/header/books_l.png" alt="book club" border="0"></a><a href="http://www.swapacd.com/index.php?f=dvd" target="_blank"><img src="/images/header/cds_r-2.png" alt="music club" border="0"></a>
+		</div>
 		<div id="header_top_links" style="font-size:9pt">
-			<a href="http://www.swapadvd.com/index.php">Home</a> -
-							<a href="https://secure.swapadvd.com/members/login.php">Login</a>
+			<a href="/index.php">Home</a> -
+							<a href="https://secure.swapadvd.com/members/login.php" rel="nofollow">Login</a>
 					</div>
-		<div id="header_stats">
+		<div id="header_stats" style="cursor:pointer;" onclick="self.location.href='/pulse/index.php';" title="The Pulse of SwapaDVD">
 			<div id="header_stats_left">
 				<div id="header_stats_right">
 					<div id="header_stats_text">
-						<span id="site_wide_total_dvds">52,567</span>+ DVDs Available - 200 Members Online
-					</div>
+						<span id="site_wide_total_dvds">
+						Member <span style="color:green;">$</span>avings: <span style="color:green;">$</span><span id="total_money_saved" style="color:green;">911,511.20</span>
+						|
+						DVDs Available: 122,145</span>
+						|
+						Members Online: 263					</div>
 				</div>
 			</div>
 		</div>
+		<script type="text/javascript">
+			function update_member_savings()
+			{
+				savings = document.getElementById('total_money_saved').innerHTML;
+				var hdx = savings.indexOf(',');
+
+		        while (hdx > -1)
+		        {
+		            savings = savings.replace(',', '');
+		            hdx = savings.indexOf(',');
+		        }
+
+                savings = format_currency(parseFloat(savings) + 0.240625);
+                savings += '';
+
+                var rgx = "/(\d+)(\d{3})/";
+                while (rgx.test(savings))
+                {
+                	savings = savings.replace(rgx, '$1' + ',' + '$2');
+                }
+
+                document.getElementById('total_money_saved').innerHTML = savings;
+
+				setTimeout("update_member_savings();", 5000);
+			}
+
+			// update_member_savings();
+		</script>
 		<div id="header_bar">
 			<div id="header_bar_text">
-				You gotta see this!
-			</div>
+				Watch...Swap...Save			</div>
 			<div id="header_bar_search" name="header_bar_search" class="header_bar_search">
-				<form id="header_bar_search_frm" method="get" action="http://www.swapadvd.com/dvd/browse_advanced.php" onsubmit="return submit_header_search()">
+				<form id="header_bar_search_frm" method="get" action="/dvd/browser.php" onsubmit="return submit_header_search()">
 					<div>
 													<input type="text" size="30" value="Title, Actor, Director or Keyword..." style="color:#CCC" onfocus="setup_header_search();" id="header_bar_search_field" name="k">
 						
@@ -61,48 +95,51 @@ var user_logged_in=false;
 
 			<div id="header_navigation_l">
 				<div style="position:relative;z-index:9999999;"><div id="qmcrumbs" class="qm-crumbs-container"></div></div>
-				<div id="qm0" class="qmmc" style="">
-											<a href="http://www.swapadvd.com/help/how_to_swap_dvds.php">How To Swap DVDs?</a>
+				<div id="qm0" class="qmmc" style="zoom: 1; z-index: 11;">
+											<a href="/help/how_to_swap_dvds.php">How To Swap DVDs?</a>
 						<a href="https://secure.swapadvd.com/register/index.php">Sign Up</a>
-										<a href="http://www.swapadvd.com/dvd/search.php">Search <img src="/images/header/submenu_indicator-1.png" align="absmiddle" border="0"></a>
-					<div>
-						<a href="http://www.swapadvd.com/dvd/search.php">All DVDs</a>
-						<a href="http://www.swapadvd.com/dvd/advanced_search.php">Advanced Search</a>
-						<a href="http://www.swapadvd.com/dvd/posted_today.php">DVDs Posted Today</a>
-						<a href="http://www.swapadvd.com/dvd/browse_advanced.php?new_releases=1">New Releases</a>
-						<a href="http://www.swapadvd.com/dvd/wish_list.php">Club Wish List</a>
-						<a href="http://www.swapadvd.com/reviews/index.php">Member DVD Reviews</a>
+										<a href="/dvd/search.php" class="qmparent">Search <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div style="z-index: 21;">
+						<a href="/dvd/search.php">All DVDs</a>
+						<a href="/dvd/browser.php">DVD Browser</a>
+						<a href="/dvd/advanced_search.php">Advanced Search</a>
+						<a href="/dvd/most_traveled.php">Most Traveled Copies</a>
+						<a href="/dvd/posted_today.php">DVDs Posted Today</a>
+						<a href="/dvd/browse_advanced.php?new_releases=1">New Releases</a>
+						<a href="/dvd/wish_list.php">Club Wish List</a>
+						<a href="/reviews/index.php">Member DVD Reviews</a>
 					</div>
-											<a href="https://secure.swapadvd.com/members/login.php">Login</a>
-										<a href="http://www.swapadvd.com/community/index.php">Community <img src="/images/header/submenu_indicator-1.png" align="absmiddle" border="0"></a>
-					<div>
-						<a href="http://www.swapadvd.com/profile/directory.php">Member Directory</a>
-						<a href="http://www.swapadvd.com/forum/index.php">Discussion Forums</a>
-						<a href="http://www.swapadvd.com/map/member_map.php">Maps</a>
-						<a href="http://www.swapadvd.com/map/member_map.php" class="sub_menu_sub">Fun Stuff</a>
-							<div>
-								<a href="http://www.swapadvd.com/fun_stuff/20_questions/index.php">20 Questions</a>
-								<a href="http://www.swapadvd.com/fun_stuff/sudoku/index.php">Sudoku</a>
+											<a href="https://secure.swapadvd.com/members/login.php" rel="nofollow">Login</a>
+										<a href="/community/index.php" class="qmparent">Community <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div style="z-index: 21;">
+						<a href="/profile/directory.php">Member Directory</a>
+						<a href="/forum/index.php">Discussion Forums</a>
+						<a href="/map/member_map.php">Maps</a>
+						<a href="/map/member_map.php" class="sub_menu_sub qmparent">Fun Stuff</a>
+							<div style="z-index: 31;">
+								<a href="/fun_stuff/20_questions/index.php">20 Questions</a>
+								<a href="/fun_stuff/sudoku/index.php">Sudoku</a>
 							</div>
-						<a href="http://www.swapadvd.com/dvd/top_25.php">Top 25s</a>
-						<a href="http://www.swapadvd.com/spread_the_word/index.php">Spread The Word</a>
-						<a href="http://www.swapadvd.com/testimonials/index.php">Member Testimonials</a>
+						<a href="/dvd/top_25.php">Top 25s</a>
+						<a href="/spread_the_word/index.php">Spread The Word</a>
+						<a href="/testimonials/index.php">Member Testimonials</a>
 					</div>
-					<a href="http://www.swapadvd.com/help/help_index.php" style="border:none;padding-right:0px">Help Center <img src="/images/header/submenu_indicator-1.png" align="absmiddle" border="0"></a>
-					<div>
-						<a href="http://www.swapadvd.com/help/help_index.php">Browse Help Docs</a>
-						<a href="http://www.swapadvd.com/help/how_to_wrap.php">How to Wrap</a>
-						<a href="http://www.swapadvd.com/help/contact_us.php">Contact Us</a>
+					<a href="/help/help_index.php" style="border:none;padding-right:0px" class="qmparent">Help Center <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div style="z-index: 21;">
+						<a href="/help/how_to_swap_dvds.php">How To Swap DVDs?</a>
+						<a href="/help/help_index.php">Browse Help Docs</a>
+						<a href="/help/how_to_wrap.php">How to Wrap</a>
+						<a href="/help/contact_us.php">Contact Us</a>
 					</div>
-					<a href="https://secure.swapadvd.com/kiosk/index.php" style="border:none;padding-right:0px">Kiosk <img src="/images/header/submenu_indicator-1.png" align="absmiddle" border="0"></a>
-					<div>
+					<a href="https://secure.swapadvd.com/kiosk/index.php" style="border:none;padding-right:0px" class="qmparent">Kiosk <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div style="z-index: 21;">
 						<a href="https://secure.swapadvd.com/kiosk/index.php">Go Shopping</a>
-						<a href="https://secure.swapadvd.com/kiosk/index.php#act_mny">Buy SwapaDVD Money</a>
-						<a href="https://secure.swapadvd.com/kiosk/index.php#credits">Buy Credits</a>
-						<a href="http://www.swapadvd.com/gift_certificates/index.php">Redeem a Gift Certicate</a>
+						<a href="https://secure.swapadvd.com/kiosk/details.php?type=item&amp;id=6">Buy SwapaDVD Money</a>
+						<a href="https://secure.swapadvd.com/kiosk/details.php?type=item&amp;id=3">Buy Credits</a>
+						<a href="/gift_certificates/index.php">Redeem a Gift Certificate</a>
 						<a href="https://secure.swapadvd.com/members/transfer_credits/index.php">Transfer Credits</a>
 					</div>
-					<img src="/images/header/menu_r-1.png">
+					<img src="/images/header/menu_r.png">
 					<span class="qmclear">&nbsp;</span>
 				</div>
 				<script type="text/javascript">qm_create(0,false,100,500,false)</script>
@@ -117,17 +154,21 @@ var user_logged_in=false;
 		<div id="page_content">
 
 			<h1>Privacy Policy</h1>
-			
-			<div class="stretch_box stretch_box_grey " style="margin-top:10px"><div class="top_grey"><div class="bl"></div><div class="br"></div></div><div class="content_grey"><div class="bl_grey"><div class="data_grey " style=""><div class="margin_fix"></div>				This page describes how <strong>SwapaDVD</strong> handles information that we learn about consumers when consumers visit the www.SwapaDVD.com, or contact us by mail, phone, or email. Any personally identifying information you provide is voluntary. We use it to fulfill a request you make or to assist us in carrying out our mission: facilitating the trading of DVDs, books, music, videogames, or other media between our club members. 
+
+			<div class="stretch_box stretch_box_grey " style="margin-top:10px"><div class="top_grey"><div class="bl"></div><div class="br"></div></div><div class="content_grey"><div class="bl_grey"><div class="data_grey " style=""><div class="margin_fix"></div>				This page describes how <strong>SwapaDVD</strong> handles information that we learn about consumers when consumers visit the www.SwapaDVD.com, or contact us by mail, phone, or email. Any personally identifying information you provide is voluntary. We use it to fulfill a request you make or to assist us in carrying out our mission: facilitating the trading of DVDs, books, music, videogames, or other media between our club members.
 				<br><br>
 				<strong>Information Sharing and Disclosure </strong>
 				<br>
-				<strong>SwapaDVD</strong> does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+				<strong>SwapaDVD</strong> does not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 				<ol>
-					<li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;</li>
+					<li>We respond to subpoenas, court orders, or legal process, requests by law enforcement, or to establish or exercise our legal rights or defend against legal claims;</li>
 					<li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SwapaDVD's Terms of Use, or as otherwise required by law.</li>
 					<li>We may transfer information about you if SwapaDVD is acquired by or merged with another company.</li>
 				</ol>
+				<strong>Posted Communications</strong>
+				<br>
+				We may make available to users of the Site, message boards, opinion forums, bulletin board services or other interactive communication facilities. Posted communications are publicly viewable and searchable through Google or other search engines.  We cannot review all communications made on or through the Site. <strong>SwapaDVD</strong> reserves the right use posted materials for its own purposes for marketing, communication, advertising, or any other purpose at the sole discretion of <strong>SwapaDVD</strong>.<br>
+				<br>
 				<strong>If you visit our Web sites to browse, read, or download information:</strong>
 				<br>
 				We may collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use; your operating system and other information about the computer and programs that you use to access our site; the date and time you access our sites; the pages within our site that you visit; and the Internet address of the site from which you linked directly to our sites.
@@ -150,80 +191,82 @@ var user_logged_in=false;
 				<br><br>
 				<strong>Children </strong>
 				<br>
-				Children under 18 are not permitted to use the <strong>SwapaDVD</strong> service. 
+				Children under 18 are not permitted to use the <strong>SwapaDVD</strong> service.
 				<br><br>
 				<strong>Your Ability to Edit and Delete Your Account Information and Preferences</strong>
 				<br>
 				You can edit your SwapaDVD <a href="http://www.swapadvd.com/members/settings/index.php">Account Information</a> at any time.
-				<br><br>		
+				<br><br>
 				We reserve the right to send you certain communications relating to the <strong>SwapaDVD</strong> service, such as service announcements, administrative messages and the <strong>SwapaDVD</strong> Newsletter, that are considered part of your <strong>SwapaDVD</strong> account, without offering you the opportunity to opt-out of receiving them.
 				<br><br>
 				You can cancel your <strong>SwapaDVD</strong> account at any time. Please read our <a href="http://www.swapadvd.com/help/terms_of_use.php">Terms of Use</a> for information about refunds and other account closing matters.
-				<br><br>				
+				<br><br>
 				<strong>Changes to this Privacy Policy</strong>
 				<br>
 				<strong>SwapaDVD</strong> reserves the right to make changes to this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your <strong>SwapaDVD</strong> account or by placing a prominent notice on our site.
-			<div class="margin_fix"></div></div></div></div><div class="bottom_grey"><div class="bl"></div><div class="br"></div></div></div>		
+			<div class="margin_fix"></div></div></div></div><div class="bottom_grey"><div class="bl"></div><div class="br"></div></div></div>
 		</div>
 		<div id="page_footer"><div align="center" class="footer">
+	<div style="padding:10px;margin-top:15px;">
+		<a href="#top">↑&nbsp;Back to Top&nbsp;↑</a>
+	</div>
+		<a href="/spread_the_word/index.php">Spread The Word</a>
+	|
+	<a href="/press_media/index.php">Press &amp; Media</a>
+	|
+	<a href="/plugins/index.php">Browser Search Plugins</a>
+	|
+	<a href="/dvd/genres.php">Movie Genres</a>
+	|
+	<a href="/feeds/rss/index.php">RSS</a>
+	|
+	<a href="/help/browser_test.php">Browser Test</a>
+	|
+	<a href="/misc/under_the_hood/index.php">Under the Hood</a>
+	|
+	<a href="/careers/index.php">Careers</a>
+	|
+	<a href="/help/contact_us.php">Contact Us</a>
+	|
+	<a href="/help/terms_of_use.php" rel="nofollow">Terms of Use</a>
 	<br>
-	<hr size="1" noshade="noshade" width="90%">
-		<br>
-	<a href="#top">↑&nbsp;Back to Top&nbsp;↑</a>
-	<br><br>
-
-	<a href="http://www.swapadvd.com/spread_the_word/index.php">Spread The Word</a>
+	<a href="/help/privacy_policy.php" rel="nofollow">Privacy Policy</a>
 	|
-	<a href="http://www.swapadvd.com/press_media/index.php">Press &amp; Media</a>
-	|
-	<a href="http://www.swapadvd.com/plugins/index.php">Browser Search Plugins</a>
-	|
-	<a href="http://www.swapadvd.com/dvd/genres.php">Movie Genres</a>
-	|
-	<a href="http://www.swapadvd.com/feeds/rss/index.php">RSS</a>
-	|
-	<a href="http://www.swapadvd.com/help/browser_test.php">Browser Test</a>
-	|
-	<a href="http://www.swapadvd.com/misc/under_the_hood/index.php">Under the Hood</a>
-	|
-	<a href="http://www.swapadvd.com/careers/index.php">Careers</a>
-
-	<br><br>
-
-	<a href="http://www.swapadvd.com/help/contact_us.php">Contact Us</a>
-	|
-	<a href="http://www.swapadvd.com/help/terms_of_use.php">Terms of Use</a>
-	|
-	<a href="http://www.swapadvd.com/help/privacy_policy.php">Privacy Policy</a>
-
-	<br><br>
-
-	<a href="http://www.swapadvd.com/help/index.php">Help</a>
+	<a href="/help/index.php">Help</a>
 	|
 	Patent Pending
 	|
-	© 2008 <a href="http://www.swapadvd.com">SwapaDVD, LLC</a>
+	© 2009 <a href="/">SwapaDVD, LLC</a>
 	|
 	Sister Sites:
 	<a href="http://www.paperbackswap.com/index.php?f=dvd">PaperBackSwap.com</a>
 	-
 	<a href="http://www.swapacd.com/index.php?f=dvd">SwapaCD.com</a>
 	-
-	<a href="http://www.swapagoat.com/index.php?f=dvd">SwapaGoat.com</a>
+	<a href="http://www.swapagoat.com/index.php?f=dvd" rel="nofollow">SwapaGoat.com</a>
 
 	<br><br>
 
-	<span style="font-size:9pt;color:#666"><img src="/images/amg_logo-1.gif" align="absmiddle"> Portions of Content Provided by All Movie Guide © a trademark of All Media Guide, LLC.© 2008 All Media Guide, LLC.</span>
-
+	<span style="font-size:9pt;color:#666"><img src="/images/amg_logo.gif" align="absmiddle"> Portions of Content Provided by All Movie Guide © a trademark of All Media Guide, LLC.© 2009 All Media Guide, LLC.</span>
 	<br>
-	<script type="text/javascript" src="/includes/tooltip-1.js"></script>
+	<script type="text/javascript" src="/includes/tooltip-2.js"></script>
+	<div align="center">
+	<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.SWAPADVD.COM&amp;lang=en" target="_blank" rel="nofollow"><img src="/images/verisign/verisign_small.gif" alt="Verisign Secured" border="0">
+	</a>
+	&nbsp;&nbsp;
+	<a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1081202162220" rel="nofollow">
+	<img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/images/bbb/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a>
+	&nbsp;&nbsp;
+	<a href="https://www.paypal.com/us/verified/pal=sales%40swapadvd%2ecom" target="_blank" rel="nofollow"><img src="/images/paypal/paypal_logo.gif" title="Verified by Paypal." border="0" alt="PayPal Verified"></a>
+	</div>
+
 </div>
 <script type="text/javascript">
 var img = new Image();
 img.src = '/scripts/log_viewed_page.php?stat_id='+statistic_id;
 </script>
-	<span style="behavior:url(#default#clientCaps)" id="browserCaps"></span><script type="text/javascript" src="/includes/client_details-1.js"></script>
-<script type="text/javascript">
+	<span style="behavior:url(#default#clientCaps)" id="browserCaps"></span><script type="text/javascript" src="/includes/client_details-2.js"></script>
+	<script type="text/javascript">
 	if (document.getElementById('header_bar_search_field')) { AutoComplete_Create('header_bar_search_field', 'header_right', '/scripts/search_suggest.php', 'k', 'get', 2, 'header_bar_search_frm'); }
 </script>
 <script type="text/javascript">
@@ -240,7 +283,11 @@ pageTracker._setCampContentKey("v");
 pageTracker._setDomainName("swapadvd.com");
 pageTracker._initData();
 pageTracker._trackPageview();
+</script>
+<script type="text/javascript">
+	var page_loaded=true;
+	addEvent(window, 'load', function () {ajax_call('id='+statistic_id+'&pst=1245269755.97&pbt=0.06&mu=786&z=', '/scripts/page_time.php')});
 </script></div>
 	</div>
 
-</body></html>
+<div style="position: absolute; visibility: hidden; z-index: 1000;"><div></div><div></div></div></body></html>
