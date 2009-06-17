@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165520id_/http%3A//www.dogpile.com/dogpile/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070237id_/http%3A//www.dogpile.com/dogpile/ws/privacy/_iceUrlFlag%3D11%3F_IceUrl%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-InfoSpace, Inc. and its subsidiaries (“we”, “us” or "our") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"), including [www.dogpile.com](http://www.dogpile.com/dogpile/ws/index/_iceUrlFlag=11?_IceUrl=true) (“Dogpile”), and is strongly committed to protecting the privacy of our user community. This privacy policy provides details on our information collection and use practices that are specific to Dogpile. For our general information collection, use and disclosure practices, please review our global privacy policy located [here](http://www.infospaceinc.com/privacy.aspx) on the InfoSpace corporate website. Please note that this policy applies only to us and the Dogpile website, and not to other companies or organizations or their web sites to which we may provide links or to any software that may be downloaded from the InfoSpace Sites. 
+InfoSpace, Inc. and its subsidiaries ("we", "us" or "our") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"), including [www.dogpile.com](http://www.dogpile.com/) ("Dogpile"), and is strongly committed to protecting the privacy of our user community. This privacy policy provides details on our information collection and use practices that are specific to Dogpile. For our general information collection, use and disclosure practices, please review our global company privacy policy located on the InfoSpace corporate website: [InfoSpace Privacy](http://www.infospaceinc.com/privacy.aspx). Please note that this policy only applies to our data collection and use practices for Dogpile and does not apply to the data collection and use practices of other companies or organizations whose products, services or Web sites you may use or gain access to through Dogpile. For information on the data collection and use practices of those third parties, please refer to their respective policies and procedures. 
 
-## Anonymous User Information
+## Types of Information We Collect and Use
 
-We collect anonymous information each time you visit Dogpile, and use this information to provide our services and improve the overall quality of your online experience. Each time you use our search services to submit a query, we collect your IP address, referral data, and browser and platform type. We do not require you to share information that identifies you personally, such as your name or e-mail address, in order to use the search services available on Dogpile. We collect this information by assigning an anonymous ID number to your queries and linking the following additional data to that number: the date and time you visited Dogpile, your search terms, and the links upon which you choose to click. Like most standard website servers, we use log files to collect and store this anonymous user information. 
+**Anonymous User Information.** In general, we collect and use anonymous information and data regarding your access and use of Dogpile. When you visit Dogpile our servers record the information your browser automatically sends whenever visiting or using a Web site, including your web request, the Internet Protocol address and browser configuration of your computer, the date and time of your request, the Uniform Resource Locator (URL) of the referring and exiting Web sites. If you use our search services, we also collect information on the search terms you submit and the links you click upon the results pages. We do not require you to provide us with any information that identifies you personally to visit Dogpile or use our search services. We generally collect this anonymous information in server log files and use this information for a variety of purposes, including providing you with our search services, the administration and operation of our Web sites, identifying and preventing fraud and misuse of our Web sites, and designing and developing new products and services. 
 
-## Individual User Information
-
-From time-to-time we may collect or request information from you that identifies you personally in addition to the anonymous information described above. This information may include your contact information (such as name, e-mail address, shipping address, and zip code) and demographic information (such as age, gender, occupation, and household income). We will not use or disclose any information that identifies you personally except as described in this privacy policy. 
+**Personal User Information.** In addition to the anonymous user information above, we may occasionally request from you or you may otherwise voluntarily provide us information that personally identifies you. We may receive personal information about you from a broad range of activities on Dogpile, including surveys, contests, program registrations, tell-a-friend services and general correspondence. Also, we may receive personal information about you from certain third party distribution partners or service providers as part of providing our search services to such third parties. Depending on the service used, the personal information we collect may include contact information (such as first and last name, mailing address, email address and telephone number), demographic information (such as age, gender, occupation and household income) and location and billing information (shipping and billing address, credit card information). When we request personal information from you, we will inform you of the type of information we need and the purpose of our use. Except as specifically described in this Privacy Policy and our general corporate privacy policy, we will only use your personal information for the purpose it was collected. 
 
 We may collect or request such personal information in the following ways: 
 
@@ -22,71 +20,99 @@ If you contact us, we may keep a record of the contact information you provide u
 
 ## Surveys, Promotions or Contests
 
-From time to time, we may conduct surveys, promotions or contests on Dogpile. Participation in these events is completely voluntary and you will always have a choice whether or not to participate. Any personal information collected as part of the event will only be collected and used for purposes of the event, such as to notify the winners and award prizes for a promotion or contest. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the InfoSpace Sites. 
-
-## Directory Services
-
-We offer certain personalization services within the directory services available on Dogpile (i.e., White Pages and Yellow Pages) that enable you to provide us with your geographic location so we can remember it when you return to use our service. For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience. 
-
-Our Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages business listing, please go to their website located at [www.superpages.com](http://www.superpages.com/) and follow the instructions provided. 
+From time to time, we may conduct surveys, promotions or contests on Dogpile. Participation in these events is completely voluntary and you will always have a choice whether or not to participate. Any personal information collected as part of the event will only be collected and used for purposes of the event, such as to notify the winners and award prizes for a promotion or contest, and as otherwise set forth as part of the survey, promotion or contest. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the InfoSpace Sites. 
 
 ## User Groups
 
-If you register for a user group on Dogpile, we request individual user information. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion. You may opt out of a user group at any time by following the opt out provisions of the user group and your individual user information will be deleted. 
+If you register for a user group or special program on Dogpile, we request individual user information. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion. You may opt out of a user group at any time by following the opt out provisions of the user group. 
 
 ## Tell-A-Friend
 
 If you use our referral services for informing friends or family about any of our services, we may ask you for individual user information and the name and email address of your friend or family member. We will only use the information you provide us to send the person an e-mail inviting them to visit the site or use the service. 
 
-## Third Party Information Gathering
-
-Dogpile contains links to other websites on the Internet. Please be aware that InfoSpace is not responsible for the information collection and use and privacy practices of such other websites and third parties. We encourage our users to be aware when they leave Dogpile and to read the privacy statements of each and every other website that may collect their personally identifiable information. This privacy statement applies solely to information collected by us from the Dogpile website. 
-
-We use third party companies to serve advertisements when you visit Dogpile. These companies may use information about your visits to Dogpile in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to Dogpile, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags. Our privacy policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: <http://www.networkadvertising.org/>. 
-
 ## Cookies
 
-We and our third party advertising partners (as described above) may place and access cookies on your computer when you use our services. A cookie is a small data file sent to your browser and which may then be stored on your computer. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the instructions provided in your Internet browser help file. 
+When you visit Dogpile or use our search services, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer when you visit a Web site or use a service. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit or use. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use information collected from these devices to track which pages our users view, which browsers they use and other information about user activity when visiting Dogpile or using our services. We also use the information collected and stored by cookies to help us provide you with personalized features and preferences when using our search services in a manner that is linked to personal user information you elect to share with us. We use action tags to compile statistics and other data about our users on an aggregate basis. 
 
-We use cookie technology to track which pages you view and which Web browsers you use on Dogpile. We may also use cookies to help us provide personalized features and preferences to you in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site. 
+We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features and services may not function properly without cookies. 
 
-## Sharing
+We also engage third party advertisement networks that may place cookies on your computer when accessing and using our search services on Dogpile that collect anonymous, non-personal information regarding the your access and use. This information may be used by InfoSpace and its third party advertising network partners to identify and target related advertising to the user of such computer, when on Dogpile or Web sites within the third party’s advertising network of sites. Some of these third party advertising networks are members of the Network Advertising Initiative ("NAI") and subject to the NAI Self-Regulatory Principles for Online Preference Marketing by Network Advertisers, available at www.networkadvertising.org (the "NAI Principles"). If you would like to opt-out from these services, you may go to the NAI Non-PII Opt-Out Page, located at <http://www.networkadvertising.org/optout_nonppii.asp>, or the opt-out page of the particular third party advertising network identified in the cookie. 
 
-We may need to disclose the personal information we collect from you when required by law or otherwise necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of our terms of use. 
+## How We Use Your Personal Information and Other Data
 
-To the extent we use third party service providers or have co-sponsors of any survey, promotion or contents, the information we collect from you may be accessed or shared as part of the service or event with any such third party or co-sponsor, provided that any such disclosure will be subject to written agreement with such third party or co-sponsor to only use such information for the purpose of the service or event and to not share or make any other use of the information. 
+In general, we only use your personal information for the purpose it was collected, including internally to serve you the Web sites and services you request, to enhance and extend our relationship with you, and to improve our Web sites and services. We also use personal information for fulfillment and billing purposes, to respond to customer support inquiries, inform you of new Web sites or services and comply with applicable laws. We may access, use, disclose and share any non-personally identifiable information and data we collect for any business purpose and with any third party in our sole discretion. When you conduct a search on Dogpile, we use the search terms you submit along with the information set forth above to provide you with relevant search results, including results tailored to your geographic location based on the Internet Protocol address of your computer. This information is also used to maintain and improve the quality, security and integrity of our services and to detect and protect against security threats such as botnet attacks, click fraud and worms. We do not store and retain the Internet Protocol addresses we collect as part of our search services on Dogpile for longer than six months. 
 
-## Mergers; Business Transitions
+## Inter-Company Transfers
 
-In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets that involve Dogpile, the information we collect from Dogpile will, in most instances, be transferred to the third party as part of the assets. 
+We may internally transfer the information we collect, including your personal information, to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified above, as well as for storage, processing or other business use as permitted under this Privacy Policy. By accessing or using Dogpile or our search services you consent to the transfer of your personal information among these facilities, including those located outside of your country of residence. 
 
-## Choice/Opt-out
+## Sharing Information With Third Parties
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can request to review, correct, change or remove the personal information we collect and store from you at any time by filling out the [contact us](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true) form. 
+In general, we do not sell, rent or otherwise trade your personal information with third parties. However, we may disclose and share your personal information with third parties under the following limited circumstances: 
 
-## Notification of Changes
+Consent. We have received your consent or permission. 
 
-If we change or update our privacy policy, we will post the new policy in this location and provide an updated effective date for the policy so that you are always aware of our information collection and use practices. 
+Transaction Processing. As necessary to complete a requested transaction, such as verification of your credit card information. 
 
-If we change the manner in which we use your personal information from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days. 
+Third Party Service Providers. Occasionally, we engage third parties to provide us with products and services, such as support, consulting, statistical analysis and marketing research that may require access to or use of your personal information. In such event, the third party will be obligated to maintain the privacy of any personal information disclosed or shared as part of its provision to us of the product to service and to only use such information for the limited purpose of providing the product or service. 
 
-## Special Notification with respect to Children's Privacy (Users under the age of 13)
+Business Transfers. Information about our users and the access and use of the InfoSpace Sites and our products and services is one of our most important business assets. As such, information about our users, including personal information, may be disclosed and transferred as part of any merger or acquisition, creation of a separate business to provide InfoSpace products and services, the sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets. 
 
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT: 
+Protection of InfoSpace; Compliance with Law. We will disclose personal information or remove, destroy or alter personal information in our possession or control when we believe it is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers or the public. 
 
-  1. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or
-  2. Knowingly use or share personal information from users under 13 years of age with third parties;
+We may use, disclose and share any anonymous, non-personally identifiable information and data we collect with any third party in our sole discretion. 
 
+## Third Party Information Collection and Use; Links
 
+Dogpile and our search services use and provide access to products, services and content of third parties (collectively, "Third Party Properties"), such as third party search results, yellow and white page directory listings, Web sites, links and advertisements. Please be aware that we do not control and are not responsible for the information collection and use practices and policies of these third parties, and that by accessing or using Third Party Properties they may collect information regarding your use and access. In general, clicking on third party links on Dogpile, whether part of a search result, advertisement or other content, will allow the third party provider of the result, link or content to collect anonymous, non-personally identifiable information about your browser and activity. We encourage you to be aware when you click on a link or visit a Third Party Property or otherwise leave Dogpile to review any such third party's data and information collection and use practices and policies with regard to their Web site, products or services. 
 
-It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers 
+## Information Storage and Security
 
-Questions regarding children's privacy should be directed to:   
+We have implemented and use a variety of industry accepted physical, electronic and managerial policies and procedures to safeguard and secure the information we collect to help prevent unauthorized access, disclosure, alteration or destruction and to maintain its accuracy and correct use. We generally store the information and data we collect on our own servers in a secure environment and restrict access to your personal information to employees and agents who need to know that information in order to provide you with access and use of Dogpile and other InfoSpace Sites and our services, operate and maintain the InfoSpace Sites and as otherwise set forth and in accordance with this Privacy Policy. While we have taken efforts to safeguard and secure your personal information, we cannot guarantee that your information may not be disclosed, altered or destroyed by accidental circumstances or by the unauthorized acts of others. 
+
+## Choice
+
+Typically you will have the choice of whether or not to provide us with personal information. However, you may not be able to access or use some features of Dogpile and some of our other services if you chose not to provide us with the information required for those services. Unless the cost, burden or expense of such access is unwarranted, or the rights of a third party would be violated, we will provide you with the ability to access, correct, update and/or delete the personal information we collect and store from you by written request using the contact information provided below. 
+
+## Special Notification with respect to Children's Privacy (Users under the Age of 13)
+
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT: 
+
+Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 
+
+Knowingly use or share personal information from users under 13 years of age with third parties; It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. 
+
+Questions regarding children's privacy should be directed to us at the contact information provided below. 
+
+## Safe Harbor
+
+We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <http://www.export.gov/safeharbor/>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program. 
+
+**Compliance with Applicable Law.** We may disclose Personal Data to governmental authorities when required or reasonably requested to do so by such governmental authorities. This Privacy Policy does not apply to the extent that it is in conflict with any law that may be applicable to the Personal Data of a Data Subject. 
+
+**Safe Harbor Verification.** InfoSpace verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. InfoSpace further verifies that its privacy policy conforms to the "Safe Harbor Principles" issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations. 
+
+## Enforcement
+
+If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. 
+
+## Changes to Our Privacy Policy
+
+We will change, amend and update this Privacy Policy and the privacy policies of the various InfoSpace Sites from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site or the Web site of the respective product or service and revise the "Last Updated" date of such policy. We reserve the right to change, amend and update this Privacy Policy, including all of our associated privacy policies, at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy and the policies of the InfoSpace Sites you may access or use on a regular basis to ensure you have reviewed and are familiar with the most current policy. 
+
+## Contacting Us
+
+For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please complete the below form. 
+
+**VIA MAIL:**
+
 InfoSpace, Inc.   
+Legal Department, Attn: Privacy Officer   
 601 108th Avenue NE, Suite 1200   
 Bellevue, Washington 98004 USA   
-\+ (1) 425.201.6100 phone   
-\+ (1) 425.201.6150 fax   
-[Contact Us](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true)
 
-Policy effective May 1, 2008 
+
+**VIA EMAIL CONTACT FORM:**  
+
+
+[Email contact form](http://www.dogpile.com/dogpile/ws/contactUs/_iceUrlFlag=11?_IceUrl=true)
