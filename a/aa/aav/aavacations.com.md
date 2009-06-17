@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216092542id_/http%3A//www.aavacations.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065536id_/http%3A//www.aavacations.com/privacy.asp) for the most accurate reproduction.*
 
 # American Airlines Vacations Contact Us, AA Vacations Contact Us, Net SAAver Vacations, Vacation Packages - AAVacations.com
 
