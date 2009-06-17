@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220102906id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200406id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
 
 # Wealth Daily - Subscription Management
 
@@ -6,9 +6,9 @@ Subscription Info and Tools
 
 In order to ensure that you receive each issue of Wealth Daily, please add **wd-eletter@angelnexus.com** to your address book or to your safe-list in your spam filter settings. 
 
-Not currently subscribed? [Click here](http://www.wealthdaily.net/subscribe)! 
+Not currently subscribed? [Click here](http://wealthdaily.net/subscribe)! 
 
-If you have suggestions for improvement, please [let us know](http://www.wealthdaily.net/contact). 
+If you have suggestions for improvement, please [let us know](http://wealthdaily.net/contact). 
 
 * * *
 
@@ -65,7 +65,7 @@ Phoenix, AZ 85071
 Phoenix, AZ 85051 
   
 
-  * Telephone: +1 800.528.0559 or +1 602.252.4477   
+  * Telephone: +1 877.528.2645   
 Facsimile: +1 602.943.2363 
 
 
