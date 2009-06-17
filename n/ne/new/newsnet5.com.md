@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2007-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071204141611id_/http%3A//www.newsnet5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060624id_/http%3A//www.newsnet5.com/privacy) for the most accurate reproduction.*
 
 # NewsNet5.com - Privacy
 
+**Internet Broadcasting Systems Private Policy:**  
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.NewsNet5.com](http://www.newsnet5.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
 
 **Information Collection and Use**  
@@ -47,11 +48,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 Security Administrator  
 Internet Broadcasting Systems  
-1333 Northland Drive  
-Mendota Heights, MN 55120  
+355 Randolph St.  
+Aaint Paul, MN 55102  
 [security@ibsys.com](mailto:security@ibsys.com)
 
  **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-Last Revised 11/03
+Last Revised 02/08
