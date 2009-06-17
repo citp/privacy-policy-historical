@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204834id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174824id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photo Flash Maker values your privacy
 
@@ -14,7 +14,7 @@ We will only collect your personal information for defined purposes. We do not d
 
 We partner with PayPal, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
-Actually, We dose not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
+Actually, We does not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
 
 ## How do 3rd party credit card processors protect your information?
 
@@ -22,7 +22,7 @@ The e-commerce partners we select are the leading companies in software distribu
 
 #### PayPal
 
-PayPal is the safer, easier way to pay and get paid online that has been in operation since 1998. It has become a global leader in online payment solutions with more than 164 million accounts worldwide. We uses Pal pay to provide you with very secure and fast online purchase. [Read the Privacy Policy of PayPal ](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
+PayPal is the safer, easier way to pay and get paid online that has been in operation since 1998. It has become a global leader in online payment solutions with more than 164 million accounts worldwide. We use Pal pay to provide you with very secure and fast online purchase. [Read the Privacy Policy of PayPal ](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
 
 #### RegNow
 
