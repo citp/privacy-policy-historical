@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointheporn.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150341id_/http%3A//www.fullpornpass.com/jb/includes/privacy/privacy.html%3Fsite%3DFull%2520Porn%2520Pass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointheporn.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175033id_/http%3A//www.fullpornpass.com/jb/includes/privacy/privacy.html%3Fsite%3DFull%2520Porn%2520Pass) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Full Porn Pass.com
 
