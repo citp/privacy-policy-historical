@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devasp.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216082722id_/http%3A//www.devasp.net/net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devasp.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064713id_/http%3A//www.devasp.net/net/privacy.asp) for the most accurate reproduction.*
 
 # DevASP.Net Privacy Policy
 
@@ -22,7 +22,7 @@ DevASP.Net will collect personal information if you choose to become a DevASP.Ne
 
 DevASP.Net reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, DevASP.Net will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
 
-If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/net/contact.asp). 
+If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/net/contact.aspx). 
 
   
 Thank you. 
