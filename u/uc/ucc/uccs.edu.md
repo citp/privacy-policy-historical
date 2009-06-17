@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uccs.edu privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704214116id_/http%3A//www.uccs.edu/pages/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uccs.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194302id_/http%3A//www.uccs.edu/pages/privacystatement.html) for the most accurate reproduction.*
 
 # UCCS Privacy Statement
-
-[](http://www.uccs.edu/ "University of Colorado at Colorado Springs")
 
 ## Commitment to Protection of Individual Privacy
 
