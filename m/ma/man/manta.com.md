@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220234242id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617205338id_/http%3A//www.manta.com/coms2/page_privacy) for the most accurate reproduction.*
 
 # Manta: Privacy Policy
 
