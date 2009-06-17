@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoqu.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171753id_/http%3A//www.infoqu.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoqu.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193727id_/http%3A//www.infoqu.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
