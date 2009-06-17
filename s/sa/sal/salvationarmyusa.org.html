@@ -1,0 +1,247 @@
+<!--The following is the downloaded HTML source of the salvationarmyusa.org privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617040852id_/http%3A//www.salvationarmyusa.org/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227%3FOpendocument) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="imagetoolbar" content="no"><link rel="stylesheet" href="/WebManager/themes/20/styles/print.css" type="text/css" media="print" charset="utf-8"><link rel="stylesheet" href="/WebManager/themes/20/styles/print-2col.css" type="text/css" media="print" charset="utf-8"><style type="text/css" media="screen">
+	@import "/WebManager/themes/20/styles/base.css";
+</style><!--[if IE 6]> <link rel="stylesheet" href="/WebManager/themes/20/styles/screen-ie6.css" type="text/css" media="screen" charset="utf-8" /> <![endif]--><!--[if IE 7]> <link rel="stylesheet" href="/WebManager/themes/20/styles/screen-ie7.css" type="text/css" media="screen" charset="utf-8" /> <![endif]--><script src="/WebManager/themes/20/javascript/jquery.js" type="text/javascript" charset="utf-8"></script><script src="/WebManager/themes/20/javascript/application.js" type="text/javascript" charset="utf-8"></script><script src="/WebManager/themes/20/javascript/sifr.js" type="text/javascript" charset="utf-8"></script><title>The Salvation Army: Privacy Policy</title><meta http-equiv="keywords" content="It is The Salvation Army's policy to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how that information is used and kept. Using the Internet should be a safe and enjoyable experience, and we take every precaution to make it so."><meta http-equiv="description" content="It is The Salvation Army's policy to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how that information is used and kept. Using the Internet should be a safe and enjoyable experience, and we take every precaution to make it so."><link media="screen" rel="stylesheet" type="text/css" href="/usn/www_usn_2.nsf/base.css">
+<link media="screen" rel="stylesheet" type="text/css" href="/usn/www_usn_2.nsf/sastyle_20.css">
+<link media="print" rel="stylesheet" type="text/css" href="/usn/www_usn_2.nsf/sastyle_print.css">
+<link rel="stylesheet" type="text/css" href="/usn/www_usn_2.nsf/custom_styles.css">
+<script language="JavaScript" type="text/javascript" src="/usn/www_usn_2.nsf/global_scripts.js?readform"></script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var url="/usn/www_usn_2.nsf/vw-dynamic-index/b5a63f32b3ff9a188525743d004be227?OpenDocument&Click=" + v;
+  if ((o.href != null) && (o.href.value != null))
+    o.href = url;
+  else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return false;
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function getMail(){
+	window.location.href=document.all.mailfile.value;
+}
+
+function Trim(s) 
+		{
+		  // Remove leading spaces and carriage returns
+		  
+		  while ((s.substring(0,1) == ' ') || (s.substring(0,1) == '\n') || (s.substring(0,1) == '\r'))
+		  {
+		    s = s.substring(1,s.length);
+		  }
+
+		  // Remove trailing spaces and carriage returns
+
+		  while ((s.substring(s.length-1,s.length) == ' ') || (s.substring(s.length-1,s.length) == '\n') || (s.substring(s.length-1,s.length) == '\r'))
+		  {
+		    s = s.substring(0,s.length-1);
+		  }
+		  return s;
+		}
+
+		function validatePostCode() {
+			var postcode=document.getElementById("postcode").value;	
+			postcode=Trim(postcode);		
+			var pos=postcode.indexOf(" ");
+			if (pos==-1) {
+				alert("Please supply a valid postcode format and include the SPACE");
+				return false;
+			}
+			var suffix=postcode.substring(pos+1, postcode.length);
+			var prefix=postcode.substring(0, pos);
+			prefix=Trim(prefix);
+			// Format is LD DLL, LLD DLL, LDD DLL, LLDD DLL
+			if (postcode.length > 8) {
+				alert("Postcode length should not exceed 8 alphanumerics.");				
+				return false;
+			}
+			
+			
+			if (suffix.length==3 || suffix.length==4)  {
+				if (prefix.length>=2 && prefix.length<=4)  {
+					return true;
+				} else {
+					alert(prefix.length+" of "+postcode);
+					alert("The Postcode prefix should be alphanumeric between two and four in length");
+					return;
+				}
+				
+			} else {
+				alert("Postcodes should have a suffix with either three or four alpha numerics (Length: "+suffix.length+")");
+				return false;
+			}
+			
+		}
+		
+function postCodeSearch() {
+	
+	var pc=document.getElementById("postcode");
+	if (pc==null) {
+		pc=document.all.postcode;
+	}
+	if (pc!=null) {
+		pc.value=pc.value.toUpperCase();
+		if ( validatePostCode())  {
+			var loc=document.location.href.toLowerCase();
+			var pos=loc.indexOf(".nsf")+4;
+			document.location.href=loc.substring(0,pos)+"/fm-postcode-search?openform&postcode="+pc.value;
+		}
+	}
+	
+}
+
+function zipSearch() {
+	var zc=document.getElementById("zipcode");
+	if (zc!=null) {
+		if (zc!="") {
+			zc=document.all.zipcode;
+			var loc=document.location.href.toLowerCase();
+			var pos=loc.indexOf(".nsf")+4;
+			document.location.href=loc.substring(0,pos)+"/fm-WebPostCode?openform&zipcode="+zc.value;
+		} else {
+			alert("Please make sure you add a valid zip code first !");
+		}
+
+	}
+}
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<form onsubmit="return false;" action=""><input name="pdb" type="hidden" value="usn\www_usn_2.nsf\"><input name="realPath" type="hidden" value="/usn/www_usn_2.nsf/"><input id="eventList" name="eventList" type="hidden" value=""><input id="eventDayList" name="eventDayList" type="hidden" value=""><input id="eventMonthList" name="eventMonthList" type="hidden" value=""><input id="eventYearList" name="eventYearList" type="hidden" value=""><input name="MenuImage" type="hidden" value="ERR_FIELDNOTFOUND">		<div id="skip_links">
+			<ul>
+				<li><a href="#navigation">Skip to the navigation</a></li>
+				<li><a href="#content">Skip to the content</a></li>
+			</ul>
+		</div>
+		<div id="page">
+				<div id="header">
+					<h1><a href="#" title="The Salvation Army: Home" rel="home" class="logo">The Salvation Army</a><span class="divider"> : </span><span class="service_mark">Doing the most good.<small>℠</small></span></h1>
+				
+					<a href="https://secure.salvationarmy.org/donations.nsf/donate?openform&amp;t=US_USC*USE*USS*USW" id="btn_donate">Donate Now</a>
+				
+					<div id="search_form">
+						<fieldset>
+							<label for="q">Search</label>
+							<input type="text" name="q" id="q">
+							<a class="button go" id="q_btn" href="javascript:buildurl(document.forms[0].q.value)">Go</a>
+						</fieldset>
+					</div>
+				
+					<div id="locator_form">
+						<fieldset>
+							<legend><span>Locations</span></legend>
+							<label for="q_zip">Enter Zip</label>
+							<input type="text" name="q_zip" id="q_zip">
+							<a class="button go" onclick="Javascript:postCodeZipSearch(document.getElementById('q_zip').value, 1)" id="q_loc_btn" href="#">Go</a>
+						</fieldset>
+					</div>
+				
+					<div id="nav">
+						<a name="navigation" id="navigation">Site Navigation</a>
+<a href="/usn/www_usn_2.nsf/vw-local/Home" id="cqoqzbwvfwiqmzddkrhjascdmkazcnxvcpkktn" onmouseover="HM_f_PopUp('elMenu1',event);"><img name="1" src="/WebManager/themes/20/menu/menu_01.gif"></a>
+<a href="/usn/www_usn_2.nsf/vw-local/Programs" id="qjnwmkemfcjcdphkmgnbvwygfpzbcytb" onmouseover="HM_f_PopUp('elMenu2',event);"><img name="2" src="/WebManager/themes/20/menu/menu_02.gif"></a>
+<a href="/usn/www_usn_2.nsf/vw-local/Ways-to-give" id="loxyfefdpzbymnttcdbmloblyhamqptlufxqb" onmouseover="HM_f_PopUp('elMenu3',event);"><img name="3" src="/WebManager/themes/20/menu/menu_03.gif"></a>
+<a href="/usn/www_usn_2.nsf/vw-local/News" id="aigqopvngkobefdzkhvcaglacwfqrpoasticmgwou" onmouseover="HM_f_PopUp('elMenu4',event);"><img name="4" src="/WebManager/themes/20/menu/menu_04.gif"></a>
+<a href="/usn/www_usn_2.nsf/vw-local/About-us" id="jcrxgujipvzqzcxzhalnxczudsabliecxmzj" onmouseover="HM_f_PopUp('elMenu5',event);"><img name="5" src="/WebManager/themes/20/menu/menu_05.gif"></a>
+					</div>
+				</div>
+				<div id="body"><div id="shadow_top"></div>
+					<div id="col2">
+						<a name="content" id="content"></a>
+						
+
+<h2>Privacy Policy</h2>
+<p>It is The Salvation Army's policy to respect and protect the privacy of our visitors. This policy statement tells you how we collect information from you and how that information is used and kept. Using the Internet should be a safe and enjoyable experience, and we take every precaution to make it so.</p>
+<p><br>Users can visit our web site without revealing any personal information. If one chooses to provide personal information while on our web site for the purposes of correspondence, processing a request, or registering for an event, then it is our intent to let you know how we will use such information.</p>
+<p><br>If users tell us that they do not wish to have this information used as a basis for further contact, we will respect those wishes. If users wish to review or correct the personal information we have collected, they should contact us to provide updated information. Occasionally, we look at the domains from which people visit us. We utilize this data to help us make improvements to our web site. This data is then properly discarded.</p>
+<p><br>The Salvation Army recognizes the importance of protecting any information we may collect from visitors to our web site. Our policy is to use this collected information for internal purposes only, and we maintain fitting security measures to keep this information private and secure. To prevent unauthorized access, maintain data accuracy, and to ensure the appropriate use of this information, we have put in place integrated physical, electronic, and managerial procedures to safeguard and secure the information we collect. This information will not be disclosed to third parties for commercial purposes as The Salvation Army is committed to protecting our visitors' privacy.</p>
+<p><br>Use of Cookies</p>
+<p><br>Certain sections of The Salvation Army web sites may use "cookies" to store user information. A cookie is a small string of text that a web site can send to your browser that is intended to enhance your visit. A cookie cannot retrieve data from your hard drive, pass on computer viruses, or capture your email address. In general, cookies can securely store a user's ID and password specific to that web site, personalize home pages, identify which parts of a web site have been visited, or keep track of selections in a form or shopping cart.<br>Cookies help us understand which parts of our web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our web site so we can make suitable improvements to our web site and provide you with a better user experience. Our cookies will not provide The Salvation Army with any information not related to our web site. Your browser, however, does automatically tell us the type of computer and operating system you are using.</p>
+<p><br>Restrictions on Use of Materials</p>
+<p><br>This web site is operated by The Salvation Army, USA. No material from this web site or any web site owned, operated, licensed, or controlled by The Salvation Army may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way. All trademarks, service marks, and trade names are proprietary to The Salvation Army.<br>All materials contained on this web site are Copyright ©2008 The Salvation Army or are licensed or otherwise published by The Salvation Army with the permission of the owner of the material. All rights in such materials published with permission of the material's owner are reserved to the respective owners.</p>
+<p>
+
+					</p></div>
+					<div id="col1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div><img src="/images/usn.www_usn_2/sausa_breakdown_map2.jpg" alt=""></div>
+<h3>TERRITORIAL PRESS ROOM CONTACTS:</h3>
+<p><strong>Central Territory</strong></p>
+<p>Central Territory Communications Specialist<br>Evie Polsley<br>Evie_polsley@usc.salvationarmy.org<br>(847) 294-2047 Office Phone</p>
+<p><strong>Eastern Territory</strong></p>
+<p>Eastern Territory Director<br>Trish Raines<br>Patricia_Raines@use.salvationarmy.org<br>(845) 620-7200 Office Phone</p>
+<p><strong>Southern Territory</strong></p>
+<p>Southern Territory Director<br>Chris Priest<br>chris_priest@uss.salvationarmy.org<br>(404) 728-6704 Office Phone<br>(678) 485-4735 Cell Phone</p>
+<p><strong>Western Territory</strong></p>
+<p>Western Territory Director<br>Deborah Stekl Knutson<br>Deborah_Stekl_Knutson@usw.salvationarmy.org<br>(562) 491-8351 Office Phone</p>
+<p>&nbsp;</p>
+					</div>
+					<div class="dr"><hr></div>
+					<div id="col3"><div id="shadow_bottom"></div>
+						<div class="how_you_can_help">
+<h3>How You Can Help</h3>
+<ul>
+<li class="monetary"><a href="/usn/www_usn_2.nsf/vw-dynamic-index/251F59D756CFC754802573250030B4A9?Opendocument" target="_self">Monetary</a></li>
+<li class="volunteer"><a href="/usn/www_usn_2.nsf/vw-dynamic-index/89941F85D7A2ECAC802573250030C4F0?Opendocument" target="_self">Volunteer</a></li>
+<li class="thrift"><a href="/usn/www_usn_2.nsf/vw-dynamic-index/E3610FB5DDD550A1802573250030E32A?Opendocument" target="_self">Thrift Stores</a></li>
+<li class="auto"><a href="#auto">Auto Donations</a></li>
+<li class="miles"><a href="#miles">Miles</a></li>
+</ul>
+</div>
+<table border="0" width="244" align="right">
+<tbody>
+<tr>
+<td width="244" align="center" valign="top">
+<h3>Contact Us<br></h3>
+<ul>
+<li><a href="/usn/www_usn_2.nsf/vw-text-dynamic-arrays/4A2D2520606517C4802573F5005661DB?openDocument" target="_self">Contact</a></li>
+<li><a href="/usn/www_usn_2.nsf/vw-dynamic-index/B5A63F32B3FF9A188525743D004BE227?Opendocument" target="_self">Privacy Policy</a></li>
+</ul>
+Copyright © 2000 to 2008 The Salvation Army</td>
+</tr>
+</tbody>
+</table>
+						<div class="dr"><hr></div>
+					</div>
+				</div>
+				<div id="footer">&nbsp;</div>
+		</div>
+<script language="JavaScript1.2" src="/usn/www_usn_2.nsf/HM_Loader_20.js" type="text/javascript"></script><script language="JavaScript1.2" src="/usn/www_usn_2.nsf/HM_ArrayVars.js" type="text/javascript"></script><script language="JavaScript1.2" src="/usn/www_usn_2.nsf/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/usn/www_usn_2.nsf/HM_ScriptDOM.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3247210-3";
+urchinTracker();
+</script>
+<input type="hidden" name="compath" value="/usn/www_usn_2.nsf/">
+<input type="hidden" name="currentMenuID" id="currentMenuID" value="cqoqzbwvfwiqmzddkrhjascdmkazcnxvcpkktn">
+
+</form>
+
+
+<div id="HM_Menu1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; width: 182px; height: 12px;"><div id="HM_Item1_1" style="position: absolute; visibility: inherit; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 0px;"></div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 198px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 279px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Missing Persons</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Music</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 56px;">Adult Rehabilitation</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 84px;">Christmas Charity</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 112px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 182px;">Disaster Relief</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 140px;">SAWSO</div><div id="HM_Item2_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 168px;">Elderly Services</div><div id="HM_Item2_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 196px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 182px;">Combating Human Trafficking</div><div id="HM_Item2_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 224px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 182px;">Community Care Ministries</div><div id="HM_Item2_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px 22px 6px 6px; font: 9pt Times; left: 0px; width: 170px; top: 252px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 182px;">Recreation</div></div><div id="HM_Menu2_5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 70px;"><div id="HM_Item2_5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Our Role in Disaster Services</div><div id="HM_Item2_5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 28px;">Profile of Response and Recovery Programs</div></div><div id="HM_Menu2_8" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 154px;"><div id="HM_Item2_8_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">NEWS</div><div id="HM_Item2_8_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Why The Salvation Army Fights Human Trafficking</div><div id="HM_Item2_8_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 71px;">What is Human Trafficking?</div><div id="HM_Item2_8_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 99px;">Advocacy</div><div id="HM_Item2_8_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 127px;">Event Calendar</div></div><div id="HM_Menu2_9" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 55px;"><div id="HM_Item2_9_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Veterans Affairs Services</div><div id="HM_Item2_9_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 28px;">Prisoner Rehabilitation</div></div><div id="HM_Menu2_10" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 83px;"><div id="HM_Item2_10_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Kroc Centers</div><div id="HM_Item2_10_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Veterans Camps</div><div id="HM_Item2_10_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 56px;">Youth Camps</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 197px;"><div id="HM_Item3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Airline Miles</div><div id="HM_Item3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Car Donations</div><div id="HM_Item3_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 56px;">Monetarily</div><div id="HM_Item3_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 84px;">Volunteer</div><div id="HM_Item3_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 112px;">Clothing, Furniture and Household Goods</div><div id="HM_Item3_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 155px;">Donation Receipts - Valuation Guide</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 85px;"><div id="HM_Item4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">SALVATION ARMY SETS NEW RED KETTLE RECORD THROUGH RECESSION</div><div id="HM_Item4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 58px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 166px;">Media Room</div></div><div id="HM_Menu4_2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 111px;"><div id="HM_Item4_2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Disaster Services Media Kit</div><div id="HM_Item4_2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Annual Reports</div><div id="HM_Item4_2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 56px;">National Statistics</div><div id="HM_Item4_2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 84px;">P.R. Contacts</div></div><div id="HM_Menu5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 111px;"><div id="HM_Item5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Employment Oppotunities</div><div id="HM_Item5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 166px;">What We Believe</div><div id="HM_Item5_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 56px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 166px;">The People</div><div id="HM_Item5_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 84px;"><img src="/usn/www_usn_2.nsf/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 11px; left: 166px;">History</div></div><div id="HM_Menu5_2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 83px;"><div id="HM_Item5_2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Position Statements</div><div id="HM_Item5_2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Come Join Our Army</div><div id="HM_Item5_2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 56px;">Salvation and Service</div></div><div id="HM_Menu5_3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 111px;"><div id="HM_Item5_3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 0px;">Salvation Army Officers</div><div id="HM_Item5_3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 28px;">Salvation Army Soldiers</div><div id="HM_Item5_3_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; border-bottom: 1px solid rgb(161, 157, 150); left: 0px; width: 170px; top: 56px;">National Commanders</div><div id="HM_Item5_3_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 84px;">Volunteers</div></div><div id="HM_Menu5_4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 182px; border-width: 1px; border-color: rgb(161, 157, 150); border-style: solid; overflow: hidden; cursor: default; height: 27px;"><div id="HM_Item5_4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(201, 196, 187); color: black; padding: 6px; font: 9pt Times; left: 0px; width: 170px; top: 0px;">People</div></div></body></html>
