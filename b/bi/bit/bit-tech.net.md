@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bit-tech.net privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231163233id_/http%3A//www.bit-tech.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bit-tech.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050649id_/http%3A//www.bit-tech.net/privacy) for the most accurate reproduction.*
 
 # bit-tech.net | Privacy
 
@@ -12,7 +12,7 @@ The site uses cookies to help determine which adverts to display. The [_bit-tech
 
 ## Advertising
 
-Advertising on _bit-tech_ is managed by [OpenX](http://www.openx.org/), which can deliver adverts from third-party advertising companies. These companies may use cookies to track you as you browse our site and others. More information can be found on the websites of [DoubleClick](http://www.doubleclick.com/privacy/index.aspx), [Adtech](http://www.adtech.info/privacy/), [Eyeblaster](http://www.eyeblaster.com/privacy.asp) and [Atlas](http://www.atlassolutions.com/privacy.aspx). Many of these companies allow you to opt-out and not receive their cookies.
+Advertising on _bit-tech_ is provided by [DoubleClick](http://www.doubleclick.com/). These companies may use cookies to track you as you browse our site and others. More information can be found on the websites of [DoubleClick](http://www.doubleclick.com/privacy/index.aspx), [Adtech](http://www.adtech.info/privacy/), [Eyeblaster](http://www.eyeblaster.com/privacy.asp) and [Atlas](http://www.atlassolutions.com/privacy.aspx). Many of these companies allow you to opt-out and not receive their cookies.
 
 ## Email Newsletter
 
