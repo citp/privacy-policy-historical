@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiershiplatest.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053253id_/http%3A//www.premiershiplatest.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiplatest.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617041327id_/http%3A//www.premiershiplatest.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Premiership Latest Football News
+# Privacy Policy | Premiership Latest
 
 Members and visitors to this website are protected by the terms set into this policy, which guarantees that their privacy will never be violated. PremiershipLatest.com fully complies with the UK Government's 1998 Data Protection Act and has a keen interest on protecting its members and visitors from prying eyes and malicious advertisers.
 
