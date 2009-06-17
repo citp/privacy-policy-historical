@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172916id_/http%3A//www.realholidays.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dhol%26id%3D1335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193906id_/http%3A//www.realholidays.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dhol%26id%3D1335) for the most accurate reproduction.*
 
 # Holiday rental properties Australia wide - realholidays.com.au
 
-www.realholidays.com.au is a web site of realestate.com.au Ltd ("We", "our" and "us" in this Internet Privacy Policy). By using this site, you agree to the Internet Privacy Policy of our www.realholidays.com.au web site ("the web site"), which is set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
+www.realholidays.com.au is a web site of REA Group Ltd ("We", "our" and "us" in this Internet Privacy Policy). By using this site, you agree to the Internet Privacy Policy of our www.realholidays.com.au web site ("the web site"), which is set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
 We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to our www.realholidays.com.au web site or our other web sites. We do not make any representations about third party web sites that may be linked to the web site. This Internet Privacy Policy is also separate from the Privacy Policy of realestate.com.au Ltd, which is available upon reasonable request to our Privacy Officer.
 
