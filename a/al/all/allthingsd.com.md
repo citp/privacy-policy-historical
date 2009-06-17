@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216235941id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061742id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Use of Information | About | AllThingsD
 
@@ -12,7 +12,7 @@ We may make content or services from other Web sites including our affiliated or
 
 General. When you use certain features of this site, we may collect personally identifiable information from you that may include your name and email address. We do not, however, knowingly collect personal information from children under the age of 13.
 
-Web Site Usage Information. We automatically collect IP addresses and Web site usage information from you when you visit our Web site. This information helps us evaluate how our visitors use and navigate our Web sites on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits.
+Web Site Usage Information. We automatically collect IP addresses and Web site usage information from you when you visit **AllThingsD.com**. This information helps us evaluate how our visitors use and navigate our Web sites on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits.
 
 Surveys. We may conduct occasional surveys and other customer research. These are entirely voluntary and you may decline to participate.
 
@@ -22,17 +22,19 @@ Registration. We require that anyone who wishes to comment about articles featur
 
 We may use information in the following ways:
 
-  * For the purposes for which you specifically provided the information including, for example, to send emails that you have requested and to post your responses to articles.
-  * To send you email notifications about our new or existing products and services, special offers, or to otherwise contact you.
-  * To enhance or develop features, products and services.
-  * To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
+For the purposes for which you specifically provided the information including, for example, to send emails that you have requested and to post your responses to articles.
 
+To send you email notifications about our new or existing products and services, special offers, or to otherwise contact you.
 
+To enhance or develop features, products and services.
 
-We may combine the information that we collect from you on this Web site with information that you provide to us in connection with your use of our other products, services and Web sites.
+To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
 
-We use third-party network advertisers, such as Doubleclick, to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our Web site services, or fulfill your requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
+
+We may combine the information that we collect from you on **AllThingsD.com** with information that you provide to us in connection with your use of our other products, services and Web sites.
+
+We use third-party network advertisers, such as DoubleClick, to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our Web site services, or fulfill your requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
 
 Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of Dow Jones, unless you opt in to having your personally identifiable information shared with a company that is not affiliated with us.
 
@@ -40,7 +42,7 @@ We may disclose and use personally identifiable information to resolve disputes,
 
 **4\. YOUR ABILITY TO CHOOSE**
 
-You can let us know that you do not wish to receive information about new features and special offers from **AllthingsD.com** at the time you sign up for email services. You can also change your email settings by clicking [here](http://allthingsd.com/contact/) or by contacting us at [help@allthingsd.com](mailto:help@allthingsd.com).
+You can let us know that you do not wish to receive information about new features and special offers from **AllThingsD.com** at the time you sign up for email services. You can also change your email settings by clicking [here](http://allthingsd.com/contact/) or by contacting us at [help@AllThingsD.com](mailto:help@allthingsd.com).
 
 **5\. COOKIES**
 
@@ -53,8 +55,7 @@ Some of the advertisers and Web analytics firms used on this site may place “t
 
 If you would like more information about this practice or to opt out of having this information used by third-party ad servers that are part of the Network Advertising Initiative to provide targeted ads, please visit: <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-We’d prefer a totally opt-in system, but, as far as we know, the ad industry doesn’t have a practical one as of now.
-
+We’d prefer a totally opt-in system, but, as far as we know, the ad industry doesn’t have a practical one as of now.  
 If you want to clean out all tracking cookies from all your Web sites, here are links where you can download three programs that can clean out tracking cookies:
 
   * <http://www.lavasoftusa.com/products/ad-aware_se_personal.php>
@@ -73,7 +74,7 @@ The personally identifiable information we collect about you is stored in limite
 
 **7\. REVIEW AND CORRECTION**
 
-If you would like to review, change or delete your email preferences or the name that you provided to us for email services, you can [click here](http://allthingsd.com/contact/) or contact is at [help@allthingsd.com](mailto:help@allthingsd.com).
+If you would like to review, change or delete your email preferences or the name that you provided to us for email services, you can [click here](http://allthingsd.com/contact/) or contact us at [help@AllThingsD.com](mailto:help@AllThingsD.com).
 
 **8\. TRANSFER TO THE U.S. OR OTHER COUNTRIES**
 
@@ -81,6 +82,6 @@ Your information may be stored and processed in the United States or any other c
 
 **9\. POLICY MODIFICATIONS**
 
-When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+When we make any material change to this Privacy Policy, we will inform you by updating the Policy’s date.
 
-This policy was last updated on April 23, 2007.
+This Privacy Policy was last updated on June 15, 2009.
