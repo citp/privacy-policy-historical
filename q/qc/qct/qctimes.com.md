@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151151id_/http%3A//www.qctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171823id_/http%3A//www.qctimes.com/app/privacy) for the most accurate reproduction.*
 
 # QCTimes.com / Terms of Service
 
@@ -24,7 +24,7 @@ If your use of a component of the site requires you to register, a cookie will b
 
 This cookie allows us to maintain information containing the products (like photo reprints) or services (such as placing a classified advertisement or signing up for home delivery) you are purchasing while you are online. To limit unauthorized access, this cookie, also called a session cookie, expires whenever you exit a browser session. 
 
-Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons for auditing purposes and to collect information from the websites of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. **To opt-out of a third parties’ use of web beacons please click here.**
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons for auditing purposes and to collect information from the websites of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. [**To opt-out of a third parties’ use of web beacons please click here.**](http://www.qctimes.com/content/tncms/live/#optout)
 
 ##  Information Gathered by Voluntary Submission 
 
@@ -80,3 +80,5 @@ We are affiliated with other online companies, some of which feature our brandin
 The web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect if we believe that the change in the way we use your personal information is significant or material. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
 
 Last updated on 09/19/07 
+
+﻿ 
