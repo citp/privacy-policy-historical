@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217025914id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkk.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617090401id_/http%3A//home.lkk.com/Statements/Privacy%2520Policy%2520Statement2.htm) for the most accurate reproduction.*
 
 # Lee Kum Kee – Privacy Statement
 
