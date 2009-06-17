@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011506id_/http%3A//www.newseum.org/about/about.aspx%3Fitem%3Dabout_this_website%26style%3Db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseum.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070500id_/http%3A//www.newseum.org/about/about.aspx%3Fitem%3Dabout_this_website%26style%3Db) for the most accurate reproduction.*
 
 # Newseum | About the Newseum
 
