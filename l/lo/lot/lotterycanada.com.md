@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045325id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060819id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement on Lottery Canada
 
@@ -42,5 +42,7 @@ Contact Information
 If you have any questions about this privacy policy, the practices of this site, or your dealings with our Web site, you can contact 
 
 Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com) |  | 
+
+[ ](http://www.jdoqocy.com/click-589657-10602352)
 
 [ ](http://www.pantherassociates.com/cc/click.php?id=9)
