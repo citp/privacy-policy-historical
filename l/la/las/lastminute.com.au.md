@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229092318id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617085226id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Newsletter**
 
   
-lastminute.com.au send each of our subscribers a weekly newsletter which has been requested by them by adding their e-mail address in the subscribe box that appears throughout the lastminute.com.au website. The newsletters contain information and offers as well as some paid advertising material. In addition to the weekly newsletters, lastminute.com.au may occasionally send out a “stop press” or “one-off” emails which are deemed to be valuable to our customers. In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
+lastminute.com.au sends each of our subscribers a weekly newsletter which has been requested by them by adding their e-mail address in the subscribe box that appears throughout the lastminute.com.au website. The newsletters contain information and offers as well as some paid advertising material. In addition to the weekly newsletters, lastminute.com.au may occasionally send out a “stop press” or “one-off” emails which are deemed to be valuable to our customers. In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
 
 • lastminute.com.au does not send unsolicited e-mail messages;
 
@@ -31,14 +31,14 @@ When you look at our website we will collect the following information for stati
 • The previous site you have visited   
 • The type of web browser you are using 
 
-  
-We use third-party advertising companies (such as DoubleClick) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you.   
-To find out more about the use of cookies and the information-gathering practices and opt-out procedures of DoubleClick, please click here: [http://www.doubleclick.net/privacy policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+We use third-party advertising companies (such as Sensis MediaSmart) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. 
+
+To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Sensis MediaSmart, please click here: **[Sensis MediaSmart Privacy Policy](http://www.sensismediasmart.com.au/index.cfm?pid=1&pageid=284)**
 
   
 When you process a booking though us at lastminute.com.au we need to collect information from you in order to fulfil this. All information collected will remain with lastminute.com.au. The only circumstance in which we would pass on information to a third party is for the specific purpose of fulfilment of your order. For example passing on a delivery address to a courier. 
 
-**Why we collect personal profiless**
+**Why we collect personal profiles**
 
   * Convenience and speed 
   * Retaining your account information on our files means that when shop with us again you don't need to re-enter all of your details every time. This makes the entire booking process simpler and faster. 
@@ -61,4 +61,4 @@ Any information shared with us remains completely confidential.
 **This Web site contains links to other sites. Please be aware that lastminute.com.au is not responsible for the privacy practices of other sites. We encourage our users to be aware, when they leave our site, to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
   
-Further information regarding the Australian Privacy policy can be accessed at the Australian privacy commissioners website located at the link below. [http://www.privacy.gov.au](http://privacy.gov.au/)
+Further information regarding the Australian Privacy policy can be accessed at the Australian privacy commissioners website located at <http://privacy.gov.au/business/index.html>
