@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013148id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200046id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -52,8 +52,6 @@ by Octave** ](http://www.octave.com/ "DVD Duplicators by Octave")
 Duplicators** ](http://www.primera.com/)  
 [ **Primera Europe CD / DVD  
 Duplizierer und Drucker** ](http://www.primeraeurope.com/)  
-[ **DVD Duplication  
-DVD Duplicators by MF Digital** ](http://www.mfdigital.com/ "DVD Duplicator, DVD Duplicators, by MF Digital")  
 [ **Microboards  
 Disc Copiers/Printers** ](http://www.microboards.com/ "CD and DVD Copiers and Printers")  
 [ **CD Duplicators DVD  
