@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217024707id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2009-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617071343id_/http%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_masterHeader"><title>
 	Privacy Policy
@@ -19,15 +19,17 @@
         resizeSpecsFloat();
     }
     function resizeSpecsFloat() {}
-    function init() { ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=7", 0); }
+    function init() { ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=3", 0); }
     </script>
+    
     <script type="text/javascript" src="/javascript/site.js"></script>
     <!--[if IE 6]>
     <script type="text/javascript" language="javascript">
         function init() {
             window.onresize = resizeContainingBlock;
             resizeContainingBlock();
-            ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=7", 0);
+            ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=3", 0);
+            fixMenus();
         }
         
         function resizeContainingBlock() {
@@ -46,58 +48,32 @@
         document.getElementById('theShadowContainer').style.pixelWidth = width;
         }
     }
-        </script>
-        <![endif]-->
-        
-        <!--[if IE 7]>
-    <script type="text/javascript">
-        function init() {
-            window.onresize = resizeContainingBlock;
-            resizeContainingBlock();
-            ajaxSightmaxRequest("/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=7", 0);
-        }
-        
-        function resizeContainingBlock() {
-       
-    if (document.getElementById('topShadowBox') != null) {
-        document.getElementById('topShadowBox').style.display = 'none';
-        document.getElementById('topShadowBox').style.display = 'block';
-        
-        document.getElementById('bottomShadowBox').style.display = 'none';
-        document.getElementById('bottomShadowBox').style.display = 'block';
-        
-        document.getElementById('rightShadowBox').style.display = 'none';
-        document.getElementById('rightShadowBox').style.display = 'block';
-        
-        document.getElementById('leftShadowBox').style.display = 'none';
-        document.getElementById('leftShadowBox').style.display = 'block';
-        
-        document.getElementById('topRightShadowCorner').style.display = 'none';
-        document.getElementById('topRightShadowCorner').style.display = 'block';
-        
-        document.getElementById('botRightShadowCorner').style.display = 'none';
-        document.getElementById('botRightShadowCorner').style.display = 'block';
-        
-        document.getElementById('topLeftShadowCorner').style.display = 'none';
-        document.getElementById('topLeftShadowCorner').style.display = 'block';
-        
-        document.getElementById('botLeftShadowCorner').style.display = 'none';
-        document.getElementById('botLeftShadowCorner').style.display = 'block';
-    }
     
-    if (document.getElementById('rightCover') != null) {
-        document.getElementById('rightCover').style.display = 'none';
-        document.getElementById('rightCover').style.display = 'block';
-        
-        document.getElementById('bottomCover').style.display = 'none';
-        document.getElementById('bottomCover').style.display = 'block';
-    }
-}
+    function fixMenus() {
+        if (document.all&&document.getElementById) {
+            navRoot = document.getElementById("menubar");
+            for (i=0; i<navRoot.childNodes.length; i++) {
+                node = navRoot.childNodes[i];
+                if (node.nodeName=="DIV") {
+                    node.onmouseover=function() {
+                        this.childNodes[2].style.display = "block";
+                    }
+                    node.onmouseout=function() {
+                        this.childNodes[2].style.display= "none";
+                    }
+                }
+            }
+        }
+    }    
         </script>
         <![endif]-->
 
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="robots" content="all"><meta name="keywords" content=""><meta name="description" content=""></head>
 <body onload="javascript: init();">
+
+    
+
     <div id="modalBackground" class="modalBackground"></div>
     
     <div id="sightMaxPanel" class="modalPopup" style="width: 400px">
@@ -106,67 +82,62 @@
                 <div id="sightMaxContent"></div>
     </div>
     
-    <div class="absolute" id="shoppingCart">
-        <a href="/cart.aspx"><img src="/siteimages/layout/cart.jpg" alt="" style="vertical-align: middle">
-        <span style="color: gray; font-size: small">Shopping Cart</span>&nbsp;&nbsp;&nbsp;
-        <span style="color: #ffa903">0 Items ($0.00)</span></a>
+    <div class="absolute" id="chatGirl">
+        <a href="javascript: showSightMax()"><img src="/siteimages/layout/chatGirl.jpg" alt=""></a>
     </div>
     
-    <div id="mainContainer">
+    
+    <div class="absolute" id="shoppingCart">
+        <a href="/cart.aspx"><img src="/siteimages/layout/cart.jpg" alt="" style="vertical-align: middle">
+        <span style="color: #666; font-size: 8pt">Shopping Cart</span>&nbsp;&nbsp;&nbsp;
+        <span style="color: #e59f44">0 Items ($0.00)</span></a> | 
+        <a href="/login.aspx">Login</a> | <a href="/support/supportHome.aspx">Support</a>
+    </div>
+    
+    <div id="mainContainer" style="padding-top:155px;">
+
         <div id="centerArea">
-        <div id="categories">
-            <div class="leftBarArea">
-            <div class="categoryHeader"><div id="categoryToggle" class="expandToggle"><a href="javascript: hideCategories()"><img src="/siteimages/layout/ajax/collapse_blue.jpg" alt="Collapse"></a></div>Categories</div><div id="topCategoryExplain" style="display: none; text-align: right"><a href="javascript: showCategories()">Show Categories</a></div><div id="topCategories"><table class="categoryTable" border="0" cellpadding="0" cellspacing="0"><tbody><tr style="height: 5px"><td><!-- --></td></tr><tr><td onclick="javascript: location.href='/AudioVideo'; return false"><a href="/AudioVideo">Audio/Video</a></td></tr><tr><td onclick="javascript: location.href='/BagsandCases'; return false"><a href="/BagsandCases">Bags and Cases</a></td></tr><tr><td onclick="javascript: location.href='/CablesandAdapters'; return false"><a href="/CablesandAdapters">Cables and Adapters</a></td></tr><tr><td onclick="javascript: location.href='/Cameras'; return false"><a href="/Cameras">Cameras</a></td></tr><tr><td onclick="javascript: location.href='/CarElectronics'; return false"><a href="/CarElectronics">Car Electronics</a></td></tr><tr><td onclick="javascript: location.href='/Communication'; return false"><a href="/Communication">Communication</a></td></tr><tr><td onclick="javascript: location.href='/ComponentsPeripherals'; return false"><a href="/ComponentsPeripherals">Components/Peripherals</a></td></tr><tr><td onclick="javascript: location.href='/ComputerSystems'; return false"><a href="/ComputerSystems">Computer Systems</a></td></tr><tr><td onclick="javascript: location.href='/Displays'; return false"><a href="/Displays">Displays</a></td></tr><tr><td onclick="javascript: location.href='/ConsumerElectronics'; return false"><a href="/ConsumerElectronics">Electronics</a></td></tr><tr><td onclick="javascript: location.href='/Networking'; return false"><a href="/Networking">Networking</a></td></tr><tr><td onclick="javascript: location.href='/OfficeMachines'; return false"><a href="/OfficeMachines">Office Machines</a></td></tr><tr><td onclick="javascript: location.href='/PowerDevices'; return false"><a href="/PowerDevices">Power Devices</a></td></tr><tr><td onclick="javascript: location.href='/Software'; return false"><a href="/Software">Software</a></td></tr><tr><td onclick="javascript: location.href='/Storage'; return false"><a href="/Storage">Storage</a></td></tr></tbody></table></div>
-            <img src="/siteimages/layout/topLeftCategoryTable.gif" style="position: absolute; top: -1px; left: -1px" alt="">
-            <img src="/siteimages/layout/bottomLeftCategoryTable.gif" style="position: absolute; bottom: -8px; left: -1px; z-index: 7" alt="">
-            <div class="topCategoryShadow"><img src="/siteimages/layout/topLeftCategoryShadow.gif" alt="" style="position:absolute; top: 0px"></div>
-            <div class="bottomCategoryShadow"><!-- --></div>
-            </div>
-            
-            
-            
-            
-            <div style="float: left; text-align: left; border: solid thin #CCC; font-size: x-small; padding: 5px; margin-top: 30px; width: 135px">
-              <p class="headerText" style="font-size: small; text-align: center">Recent Testimonials</p>
-                <p><span style="color: #0f3e6e; font-size: small; font-weight: bold">Excellent piece</span><br>Pros: <span style="font-style: italic">Simple and efficient device. No need to spend money on expensive...</span><br><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""></p><p><span style="color: #0f3e6e; font-size: small; font-weight: bold">Great service</span><br>Pros: <span style="font-style: italic">Fast service, great product</span><br><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""></p><p><span style="color: #0f3e6e; font-size: small; font-weight: bold">Excellent Service/Product</span><br>Pros: <span style="font-style: italic">High quality product shipped promptly.</span><br><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""><img src="/siteimages/layout/ajax/FilledStar.png" alt=""></p>
-                <a class="blueLink" style="text-decoration: underline" href="/recentReviews.aspx">Read Recent Reviews</a>
-            </div>
-            
-            
-        </div>
+        
          <div id="rightBar">
+            
+            
+            
+            <div id="dailyDeal" style="text-align: left; width: 133px; margin-bottom: 10px">
+                <table cellpadding="0" cellspacing="0" style="width: 133px">
+                <tbody><tr>
+                <td style="background: url('/siteimages/banners/jewel_top.png'); height: 128px; width: 133px">
+                <div style="position: relative; height: 119px; width: 133px">
+                <a href="/Huke-USB-20-MP3-Player-wSD-MMC-Card-Reader-Silver.asp"><img src="/images/products/SW-6774/SW-6774_th.jpg" alt="" style="position: absolute; top: 55px; left: 31px"></a>
+                </div>
+                </td>
+                </tr>
+                <tr>
+                <td class="dailyDealContent"><a style="color: #fff" href="/Huke-USB-20-MP3-Player-wSD-MMC-Card-Reader-Silver.asp">USB 2.0 MP3 Player w/SD-MMC Card Reader</a><br><span class="price" style="color:#81F781"><span class="normalPrice" style="font-weight: bold;color:#E18400">$19.95</span> $11.97</span></td>
+                </tr>
+                <tr>
+                <td style="background: url('/siteimages/banners/jewel_bottom.png'); height: 12px"> </td>
+                </tr>
+                </tbody></table>
+            </div>
+             
             <div id="feedbackArea">
-            <a class="blueLink" href="javascript: ajaxPopup('websiteFeedbackPopup', 'Make a Suggestion', 400, '/ajax/websiteFeedbackForm.aspx?sessionId=15384808&amp;feedbackUrl=/privacy.aspx')" style="vertical-align: middle">
-            Make a Suggestion
-            </a>
-            <br>
-            <br>
+                <a class="blueLink" href="javascript: ajaxPopup('websiteFeedbackPopup', 'Make a Suggestion', 400, '/ajax/websiteFeedbackForm.aspx?sessionId=17294382&amp;feedbackUrl=/privacy.aspx')" style="vertical-align: middle">
+                Make a Suggestion
+                </a>
+                <br>
+                <br>
             </div>
             
-            <img src="/siteimages/layout/csr.jpg" alt=""><br>
-            <!-- Chat tag for Account Sewell Direct (ID: 1), Site Sewell Direct (ID: 1), Queue Support (ID: 3)  -->
-
-<a href="javascript: showSightMax()">
-			<img id="imgLiveSupport" src="/siteimages/layout/supporton.jpg" alt="Click to chat with a Sewell Direct representative" width="125" height="43"></a>
-
-
-	<!-- Monitor tag for Account Sewell Direct (ID: 1), Site Sewell Direct (ID: 1), Queue Support (ID: 3) -->
-<!--	<script type="text/javascript" src="http://sightmax.sewelldirect.com/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=1&amp;queueID=7"></script>  -->
-
-
-
-<!-- uncomment image below when Sightmax is down or Scout is inaccessible -->
-<!--
-	<img src="/siteimages/layout/supportoff.jpg" alt="Live Support Offline" width="125" height="43" />
--->
 <p style="font-size: small">Try our award- winning software <br><a class="blueLink" href="/fastLynx3.aspx">FastLynx 3.3</a></p>
-<p><a href="/whyBuyFromSewell.aspx"><img src="/siteimages/banners/whybuy.jpg" alt="Why buy from Sewell?"></a></p>
 
-        </div>
-         
-         <div id="mainContent">
+
             
-<div class="shadowContainer" id="theShadowContainer"><div class="shadowBox" id="theShadowBox"><div class="shadowHeader"><img src="/siteimages/layout/leftGreyBar.jpg" alt=""><h1 style="position: absolute; top: 10px; left: 5px; margin-top: 0px; font-size: large;">Privacy Policy</h1><img src="/siteimages/layout/rightGreyBar.jpg" alt="" class="shadowHeaderRightImage"></div>
+        </div>
+        
+         
+         <div id="mainContent" style="background-color:white;margin-left: 5px; margin-right: 150px; width: 800px">
+            
+<div class="shadowBox">
 <p>When you leave any personal information on our web site, either by visiting the "Registration" page or by placing an order, you can be assured that our company is the only one who will use it.  We do not rent, sell, or otherwise distribute any information from our customer database, including e-mail addresses.</p>
 
 <h2>E-mail Address Usage</h2>
@@ -185,30 +156,88 @@
 
 <h2>Credit Card Information</h2>
 <p>Some electronic commerce sites save your credit card information so that you can order again without having to provide the same information each time.  We do not do this, however, for reasons of security.  Soon after your order completes, regardless of whether it succeeds or fails, the credit card information is deleted from our system. </p>
-<div id="ieShadowHack">___</div><div class="leftShadowBox" id="leftShadowBox">&nbsp;</div><div class="rightShadowBox" id="rightShadowBox">&nbsp;</div><div class="topShadowBox" id="topShadowBox">&nbsp;</div><div class="shadowCorner" id="topLeftShadowCorner">&nbsp;</div><div class="shadowCorner" id="topRightShadowCorner">&nbsp;</div><div class="bottomShadowBox" id="bottomShadowBox"><div class="shadowCorner" id="botLeftShadowCorner">&nbsp;</div>&nbsp;<div class="shadowCorner" id="botRightShadowCorner">&nbsp;</div></div></div></div><div id="barrier">&nbsp;</div>
+</div>
 
-        </div>
+         </div>
         
         </div>
         
-        <div id="footer">
+        <div id="footer" style="background-color:#F8F8F8;border-top:solid 1px #ddd">
             <div id="mfgCategories">
-                <table cellpadding="2" cellspacing="2" style="margin: 0 auto; margin-bottom: 10px">
-                    <thead>
+                <table cellpadding="0" cellspacing="0">
+                <thead>
                         <tr>
-                            <th colspan="4" style="text-align: center">Featured Manufacturers</th>
+                            <th style="text-align: center; font-size: larger; font-family: Arial; padding-bottom: 10px; padding-top: 5px; border-right: solid 1px #ccc; border-top: solid 1px #ccc; border-left: solid 1px #ccc;">Featured Manufacturers</th>
+                            <th style="background-color: #F8F8F8">&nbsp;</th>
+                            <th style="text-align: center; font-size: larger; font-family: Arial; padding-bottom: 10px; padding-top: 5px; border-right: solid 1px #ccc; border-top: solid 1px #ccc; border-left: solid 1px #ccc;">Featured Products</th>
                         </tr>
-                    </thead>
+                </thead>
+                <tbody>
+                <tr>
+                <td style="vertical-align: top; width: 455px;border-bottom: solid 1px #ccc; border-right: solid 1px #ccc; border-left: solid 1px #ccc;">
+                <table cellpadding="2" cellspacing="2" style="margin: 0 auto">
+                    
                     <tbody style="vertical-align: top">
-                        <tr><td style="width: 160px"><a href="/Accell">Accell</a><br><a href="/Atlona">Atlona</a><br><a href="/CablesUnlimited">Cables Unlimited</a><br><a href="/ChannelMaster">Channel Master</a><br><a href="/Cradlepoint">Cradlepoint</a><br><a href="/DVDO">DVDO</a><br><a href="/EnerTrail">EnerTrail</a><br></td><td style="width: 160px"><a href="/Epiphan">Epiphan</a><br><a href="/Gefen">Gefen</a><br><a href="/HighSierra">High Sierra</a><br><a href="/Intellinet">Intellinet</a><br><a href="/Linkskey">Linkskey</a><br><a href="/LinXcel">LinXcel</a><br><a href="/Manhattan">Manhattan</a><br><a href="/Matrox">Matrox</a><br></td><td style="width: 160px"><a href="/MayFlash">MayFlash</a><br><a href="/OtterBox">OtterBox</a><br><a href="/PlanetWaves">Planet Waves</a><br><a href="/PTC">PTC</a><br><a href="/Quatech">Quatech</a><br><a href="/Spracht">Spracht</a><br><a href="/Synaps">Synaps</a><br><a href="/TopGlobal">Top Global</a><br></td><td style="width: 100px"><a href="/USASpec">USA Spec</a><br><a href="/Vantora">Vantora</a><br><a href="/Vaster">Vaster</a><br><a href="/VR3">VR3</a><br><a href="/VTBook">VTBook</a><br><a href="/zBoost">zBoost</a><br><a href="/Ziotek">Ziotek</a><br><a href="/ZipLinq">Zip-Linq</a><br></td></tr>
+                        <tr><td style="padding-left: 10px; padding-right: 10px"><a href="/Accell" style="color:#333">Accell</a><br><a href="/AITech" style="color:#333">AITech</a><br><a href="/Atlona" style="color:#333">Atlona</a><br><a href="/BlackmagicDesign" style="color:#333">Blackmagic Design</a><br><a href="/CablesUnlimited" style="color:#333">Cables Unlimited</a><br><a href="/ChannelMaster" style="color:#333">Channel Master</a><br><a href="/Clearplay" style="color:#333">Clearplay</a><br><a href="/Cradlepoint" style="color:#333">Cradlepoint</a><br><a href="/DataComm" style="color:#333">DataComm</a><br><a href="/DVDO" style="color:#333">DVDO</a><br><a href="/EarthLED" style="color:#333">EarthLED</a><br><a href="/EnerTrail" style="color:#333">EnerTrail</a><br></td><td style="padding-left: 10px; padding-right: 10px"><a href="/Epiphan" style="color:#333">Epiphan</a><br><a href="/FisherSpacePen" style="color:#333">Fisher Space Pen</a><br><a href="/Gefen" style="color:#333">Gefen</a><br><a href="/HighSierra" style="color:#333">High Sierra</a><br><a href="/Intellinet" style="color:#333">Intellinet</a><br><a href="/Linkskey" style="color:#333">Linkskey</a><br><a href="/LinXcel" style="color:#333">LinXcel</a><br><a href="/Manhattan" style="color:#333">Manhattan</a><br><a href="/Matrox" style="color:#333">Matrox</a><br><a href="/MayFlash" style="color:#333">MayFlash</a><br><a href="/OtterBox" style="color:#333">OtterBox</a><br><a href="/PlanetWaves" style="color:#333">Planet Waves</a><br><a href="/PTC" style="color:#333">PTC</a><br></td><td style="padding-left: 10px; padding-right: 10px"><a href="/Quatech" style="color:#333">Quatech</a><br><a href="/Spracht" style="color:#333">Spracht</a><br><a href="/Synaps" style="color:#333">Synaps</a><br><a href="/TopGlobal" style="color:#333">Top Global</a><br><a href="/USASpec" style="color:#333">USA Spec</a><br><a href="/Vantora" style="color:#333">Vantora</a><br><a href="/Vaster" style="color:#333">Vaster</a><br><a href="/VR3" style="color:#333">VR3</a><br><a href="/VTBook" style="color:#333">VTBook</a><br><a href="/Wilson" style="color:#333">Wilson</a><br><a href="/zBoost" style="color:#333">zBoost</a><br><a href="/Ziotek" style="color:#333">Ziotek</a><br><a href="/ZipLinq" style="color:#333">Zip-Linq</a><br></td></tr>
                         <tr>
-                            <td colspan="4" style="text-align: center"><a href="/brands.aspx">See More</a></td>
+                            <td colspan="3" style="text-align: center"><a href="/brands.aspx" style="color:#333">See More</a></td>
                         </tr>
                     </tbody>
                 </table>
+                </td>
+                <td style="background-color: #F8F8F8">&nbsp;&nbsp;&nbsp;</td>
+                <td style="vertical-align: top; border-left: solid 1px #ccc; border-bottom: solid 1px #ccc; border-right: solid 1px #ccc;">
+                <table cellpadding="2" cellspacing="2" style="vertical-align: top; width: 480px">
+                    <tbody>
+                        <tr>
+<td style="padding-left: 10px; padding-right: 10px">
+<a style="color:#333" href="/HDMI-Cable-v13b-CL3-with-Built-In-Repeater-100-ft.asp">100 Foot HDMI Cable</a><br>
+<a style="color:#333" href="/PTC-Premium-Gold-Series-HDMI-13-CL2-Rated-Cable---50-ft.asp">50 Foot HDMI Cable</a><br>
+<a style="color:#333" href="/HDMICable6Foot.asp">6 Foot HDMI Cable</a><br>
+<a style="color:#333" href="/bulk-cat5e-blue.asp">Bulk Cat5e</a><br>
+<a style="color:#333" href="/RG6-Bulk-Cable.asp">Bulk RG6</a><br>
+<a style="color:#333" href="/Bulk-Speaker-Cable.asp">Bulk Speaker Wire</a><br>
+<a style="color:#333" href="/zBoost-Cell-Phone-Signal-Booster-Dual-Band-All-US-Carriers.asp">Cell Phone Booster</a><br>
+<a style="color:#333" href="/Cradlepoint-Mobile-Broadband-Router-w-80211-n.asp">Cradlepoint MBR1000</a><br>
+<a style="color:#333" href="/Epiphan-DVI-and-VGA-to-USB-Video-Grabber.asp">Epiphan DVI2USB</a><br>
+<a style="color:#333" href="/VGA-to-USB-Video-Grabber.asp">Epiphan VGA2USB</a><br>
+<a style="color:#333" href="/Express-Card-to-PCMCIA-Adapter.asp">Expresscard to PCMCIA</a><br>
+</td><td style="padding-left: 10px; padding-right: 10px">
+<a style="color:#333" href="/firewireextension.asp">Firewire Extension Cable</a><br>
+<a style="color:#333" href="/Prologix-GPIB-to-Ethernet-LAN.asp">GPIB to Ethernet</a><br>
+<a style="color:#333" href="/GPIB-to-USB-Printer.asp">GPIB to USB Printer</a><br>
+<a style="color:#333" href="/IDE-to-SerialATA-Converter.asp">IDE to SATA</a><br>
+<a style="color:#333" href="/iPod-Video-to-RCA-Cable.asp">iPod to TV</a><br>
+<a style="color:#333" href="/Kyocera-KR2-Mobile-Cellular-Router-3G-EVDO-ExpressCards-PCMCIA-and-USB.asp">Kyocera KR2</a><br>
+<a style="color:#333" href="/Mini-DisplayPort-to-HDMI.asp">Mini DisplayPort to HDMI</a><br>
+<a style="color:#333" href="/PC-to-TV-Converter.asp">PC to TV</a><br>
+<a style="color:#333" href="/Cat5e-Bulk-Cable-UTP-Grey-1000-ft-CMR-Riser-Rated.asp">Riser Rated Cat5e</a><br>
+<a style="color:#333" href="/SATA-to-IDE-Converter.asp">SATA to IDE</a><br>
+<a style="color:#333" href="/Cat5e-STP-Bulk-Cable.asp">Shielded Cat5e</a><br>
+</td><td style="padding-left: 10px; padding-right: 10px">
+<a style="color:#333" href="/usb2extensioncable.asp">USB Extension Cable</a><br>
+<a style="color:#333" href="/USB-to-DVI-External-Video-Card-High-Resolution.asp">USB to DVI</a><br>
+<a style="color:#333" href="/Prologix-USB-to-GPIB-Controller.asp">USB to GPIB</a><br>
+<a style="color:#333" href="/usbtoide.asp">USB to IDE</a><br>
+<a style="color:#333" href="/usbtoparallel.asp">USB to Parallel</a><br>	
+<a style="color:#333" href="/U142-USB-to-Cardbus-Adapter-for-3G-High-Speed-Modem-PCMCIA-Cards.asp">USB to PCMCIA</a><br>
+<a style="color:#333" href="/usbtops2.asp">USB to PS2</a><br>
+<a style="color:#333" href="/USB-to-SATA-cable.asp">USB to SATA</a><br>	
+<a style="color:#333" href="/usbtoserial.asp">USB to Serial</a><br>
+<a style="color:#333" href="/Component-VGA-to-HDMI-Scaler-720p.asp">VGA to HDMI</a><br>
+<a style="color:#333" href="/Gefen-Wireless-HDMI-Extender.asp">Wireless HDMI</a>
+</td>
+</tr>
+                    </tbody>
+                </table>
+                </td></tr>
+                </tbody>
+                </table>
             </div>
+            
             <div id="bottomTextNav">
-                <a href="/">Home</a> - <a href="/privacy.aspx">Privacy Policy</a> - <a href="/returns.aspx">Return Policy</a> - <a href="/employment.aspx">Employment</a> - <a href="/aboutus.aspx">About Us</a>  - <a href="/promotions.aspx">Promotions</a> - <a href="/resellerProgram.aspx">Reseller Program</a> - <a href="/contactUs.aspx">Contact Us</a>
+                <a href="/">Home</a> - <a href="/privacy.aspx">Privacy Policy</a> - <a href="/returns.aspx">Return Policy</a> - <a href="/employment.aspx">Employment</a> - <a href="/aboutus.aspx">About Us</a>  - <a href="/promotions.aspx">Promotions</a> - <a href="/resellerProgram.aspx">Reseller Program</a> - <a href="/contactUs.aspx">Contact Us</a><br>
+                <a href="/governmentBuyers.aspx">Government Buyers</a> - <a href="/Clearance">Clearance Store</a> - <a href="/support/supportHome.aspx">Support</a>
             </div><br>
             <div id="logos">
                 
@@ -218,55 +247,766 @@
                 <img src="/siteimages/layout/paymentMethods.gif" alt="We accept Visa, Mastercard, American Express, DiscoverCard, Paypal, and Google Checkout">
             </div>
             <br>
-                <i>Great service, fast delivery, low shipping rates.</i>  Copyright © 2008   Sewell Development Corporation
+                <i>Great service, fast delivery, low shipping rates.</i>  Copyright © 2009   Sewell Development Corporation
         </div>
    </div>
    
    <div class="absolute" id="logo">
-        <a href="/"><img src="/siteimages/layout/logoMain.jpg" alt="Sewell Direct"></a>
-    </div>
+        <a href="/"><img src="/siteimages/layout2/sewellHeaderLogoSimple.gif" alt="Sewell Direct"></a>
+    </div> 
     
-    <div class="absolute" id="logoSec">
-        <img src="/siteimages/layout/logoSec.jpg" alt="">
-    </div>
-    
-    <div class="absolute" id="logoCorner">
-        <img src="/siteimages/layout/logoTer.jpg" alt="">
-    </div>
-    
-    <div class="absolute" id="searchBar"><!-- --></div>
-    
-    <div class="absolute" id="searchForm">
+     <div class="absolute" id="searchForm" style="background: transparent url(/siteimages/layout2/searchContainer.png) no-repeat;width:400px;padding-left:8pt;top:48px;left:270px">
             <form id="Form1" action="/search.aspx" method="get">
-                <table><tbody><tr><td><input style="margin-right: 5px; width: 205px; font-family: Arial; font-size: small; white-space: pre" type="text" id="searchTerm" name="searchTerm" value=""></td><td><input type="image" src="/siteimages/layout/search.jpg" id="SearchSubmit" alt="Search"></td></tr></tbody></table>
+                <table><tbody><tr><td><input style="margin-right: 5px; width: 215px; font-family: Arial; font-size: small; white-space: pre" type="text" id="searchTerm" name="searchTerm" value=""></td><td><input type="image" src="/siteimages/layout2/searchButtonOrangeBack.png" id="SearchSubmit" alt="Search"></td></tr></tbody></table>
             </form>
     </div>
 
-   <div class="absolute" id="topShadow"><!-- --></div>
-   
-   <div class="absolute" id="navigationBar">
-        <div class="absolute" id="navigationTabs">
-            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/support/supportHome.aspx">Support</a>
-            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/contactUs.aspx">Contact Us</a>
-            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage"> <a href="/login.aspx">Login</a>
-            <img src="/siteimages/layout/tabDivider.jpg" alt="" class="dividerImage">
+    
+    
+    <div class="absolute" id="blueBar" style="background-image:url(/siteimages/layout2/subHeaderBlue.gif)">
+    
+    
+    <div id="blueBarFixed">
+    
+
+        <div style="float:left">
+        <h1 id="blueBarTitle" style="font-size: x-large; font-weight: normal; float: left; margin-left: 10px; margin-top: 7px">Privacy Policy</h1></div>
+        <div style="float:right">
+        <a href="javascript: ajaxPopup('acceptPoPopup', 'Sewell Direct Purchase Orders', 400, '/ajax/acceptPos.aspx?sessionId=17294382')"><img src="/siteimages/layout2/weAcceptPurchaseOrders.png" alt="We Accept Purchase Orders" style="margin-top:8px;margin-right:10px;width:203px;height:25px"></a>
         </div>
-        <div class="absolute" id="navigationTabsSecondary">
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/Clearance">Clearance Store</a>
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/WeeklySpecials">Weekly Specials</a>            
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="/governmentBuyers.aspx">Government Buyers</a>
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage"> <a href="javascript: ajaxPopup('acceptPoPopup', 'Sewell Direct Purchase Orders', 400, '/ajax/acceptPos.aspx?sessionId=15384808')" style="vertical-align: middle"><img id="poImage" class="dividerImage" src="/siteimages/acceptPos.gif" alt="We Accept Purchase Orders"></a>
-            <img src="/siteimages/layout/navtabs/tabDividerWhite.jpg" alt="" class="dividerImage">
-        </div>
+
     </div>
     
-    <div class="absolute" id="navigationDivider"><!-- --></div>
+    </div>
+    
+
+  
+    <div id="menubar">
+      <div class="menu">
+    <a href="/AudioVideo" class="menuLink"><span>Audio/Video</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:890px;height:380px; left: 0px">
+    	<div class="subMenuRightSide" style="position: absolute; top: 0px; right: 0px; height: 384px;">
+    	<ul style="float: left">
+            <li>A/V Cables by Interface
+                <ul class="menuColumnSection">
+   		            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-1835mmJack">3.5mm (1/8") Audio Jack</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-1463mmAudioJack">6.3mm (1/4") Audio Jack</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-ADC">ADC</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-BNC">BNC</a></li>
+    		        <li><a href="/CablesandAdapters/Data/-DataInterface-CellPhonePDA">Cell Phone Cables</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-Coax">Coaxial Cable</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-DisplayPort">DisplayPort</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-DVI">DVI</a></li>
+    		        <li><a href="/ConsumerElectronics/Gaming">Gaming</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-HDMI">HDMI</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-DataInterface-iPodDockConnector">iPod Cables</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MIDI">MIDI</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul style="float:left">
+            <li>&amp;nbsp;
+                <ul class="menuColumnSection">
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MiniDisplayPort">Mini Displayport</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MiniDVI">Mini DVI</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCAComponent">RCA (Component)</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCACompositeAudio">RCA (Composite and Audio)</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCADigital">RCA (Digital Audio)</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SCART">SCART</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-HDSDI">SDI/HD-SDI</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SpeakerBanana">Speaker wire and Banana</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SVideo">S-Video</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-FiberInterfaces-TOSlink">Toslink</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-VGA">VGA</a></li>
+                    <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-XLR">XLR</a></li>
+                    <li><a href="/CablesandAdapters/Data/-DataInterface-ZuneConnector">Zune Cables</a></li>
+           	    </ul>
+	        </li>
+        </ul>
+        </div>
+    	
+    	<ul style="float: left">
+            <li>Audio Recorders
+                <ul class="menuColumnSection">
+   		            <li><a href="/Communication/PhoneRecording">Phone Recorders</a></li>
+   		            <li><a href="/AudioVideo/ProAudio/DigitalRecorders">Recorders</a></li>
+           		    <li><a href="/AudioVideo/ProAudio/ComputerAudioInterfaces">USB Recorders</a></li>
+           	    </ul>
+	        </li>
+	        <li>Car
+                <ul class="menuColumnSection">
+   		            <li><a href="/CarElectronics/BackupCameras">Backup Cameras</a></li>
+   		            <li><a href="/CarElectronics/CarAudio">Car Audio</a></li>
+    		        <li><a href="/CarElectronics/CarPowerComponents">Car Chargers</a></li>
+    		        <li><a href="/CarElectronics/CarVideo">Car Video</a></li>
+           	    </ul>
+	        </li>
+	        <li>Computer Audio
+                <ul class="menuColumnSection">
+   		            <li><a href="/AudioVideo/SoundCards">Sound Cards</a></li>
+    		        <li><a href="/AudioVideo/ProAudio/ComputerAudioInterfaces">USB Interfaces</a></li>
+           	    </ul>
+	        </li>
+	        <li>Computer to TV
+                <ul class="menuColumnSection">
+   		            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-VGA-AudioVideoInterface-RCAComponent?sortBy=popularity&amp;sortDirection=desc">PC to HDTV Converters</a></li>
+   		            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCACompositeAudio-AudioVideoInterface-VGA?sortBy=popularity&amp;sortDirection=desc">PC to TV Converters</a></li>
+   		            <li><a href="/AudioVideo/TVTuners">TV Tuners</a></li>
+    		        <li><a href="/AudioVideo/VideoCards">Video Cards</a></li>
+           	    </ul>
+	        </li>
+	    </ul>
+    	<ul style="float: left">
+	        <li>Displays
+                <ul class="menuColumnSection">
+               		<li><a href="/Displays/DigitalPhotoFrames">Digital Photo Frames</a></li>
+               		<li><a href="/Displays/DisplayProtection">Display Protection</a></li>
+               		<li><a href="/Displays/Monitors">Monitors</a></li>
+               		<li><a href="/Displays/Mounts">Mounts</a></li>
+               		<li><a href="/Displays/Projectors">Projectors</a></li>
+            		<li><a href="/Displays/ProjectorScreens">Projector Screens</a></li>
+           		    <li><a href="/Displays/VideoGlasses">Video Glasses</a></li>
+           	    </ul>
+	        </li>
+	        <li>Equipment
+                <ul class="menuColumnSection">
+   		            <li><a href="/AudioVideo/AmplifiersProcessorsScalers/Amplifiers">Amplifiers</a></li>
+   		            <li><a href="/AudioVideo/Antennas">Antennas</a></li>
+   		            <li><a href="/AudioVideo/ExtendersBaluns">Extenders</a></li>
+   		            <li><a href="/AudioVideo/HeadphonesHeadsets">Headphones/Headsets</a></li>
+   		            <li><a href="/AudioVideo/MediaPlayers">Media Players</a></li>
+   		            <li><a href="/AudioVideo/AdaptersConverters/-Interfaces-PALNTSC?sortBy=popularity&amp;sortDirection=desc">PAL/NTSC</a></li>
+   		            <li><a href="/AudioVideo/AmplifiersProcessorsScalers/Processors">Receivers</a></li>
+   		            <li><a href="/AudioVideo/RemotesReceivers">Remotes and Receivers</a></li>
+   		            <li><a href="/AudioVideo/AmplifiersProcessorsScalers/Scalers">Scalers</a></li>
+   		            <li><a href="/AudioVideo/Speakers">Speakers</a></li>
+   		            <li><a href="/AudioVideo/AVSplitters">Splitters</a></li>
+		            <li><a href="/AudioVideo/AVSwitches">Switches</a></li>
+		            <li><a href="/AudioVideo/WirelessAV">Wireless Audio and Video</a></li>
+           	    </ul>
+	        </li>
+        </ul>
+        <ul style="float: left">
+	        <li>iPod Accessories
+                <ul class="menuColumnSection">
+   		            <li><a href="/AudioVideo/iPodAccessories/iPodCablesAdapters">iPod Cables/Adapters</a></li>
+    		        <li><a href="/AudioVideo/iPodAccessories/iPodCarAdapters">iPod Car Adapters</a></li>
+    		        <li><a href="/AudioVideo/iPodAccessories/iPodDocks">iPod Docks</a></li>
+           	    </ul>
+	        </li>
+	        <li>Portable
+                <ul class="menuColumnSection">
+   		            <li><a href="/ConsumerElectronics/DockingStationsMounts">Docking Stations</a></li>
+    		        <li><a href="/ConsumerElectronics/MP3Players">MP3/MP4 Players</a></li>
+   		            <li><a href="/AudioVideo/ProAudio/DigitalRecorders">Portable Recorders</a></li>
+    		        <li><a href="/CablesandAdapters/AudioVideo/-SpecialFeatures-Retractable?sortBy=popularity&amp;sortDirection=desc">Travel Cables</a></li>
+           	    </ul>
+	        </li>
+	        <li>Pro Audio
+                <ul class="menuColumnSection">
+   		            <li><a href="/AudioVideo/ProAudio/BaysStrips">Bays and Strips</a></li>
+   		            <li><a href="/AudioVideo/ProAudio/DigitalRecorders">Digital Recorders</a></li>
+   		            <li><a href="/AudioVideo/ProAudio/ComputerAudioInterfaces">Interfaces</a></li>
+   		            <li><a href="/AudioVideo/Instruments">Instruments</a></li>
+    		        <li><a href="/AudioVideo/Microphones">Microphones</a></li>
+		            <li><a href="/AudioVideo/ProAudio/Mixers">Mixers</a></li>
+		            <li><a href="/AudioVideo/ProAudio/Preamps">Preamps</a></li>
+		            <li><a href="/AudioVideo/ToolsandCalibration">Tools and Calibration</a></li>
+		            <li><a href="/AudioVideo/ProAudio/Turntables">Turntables</a></li>
+           	    </ul>
+	        </li>
+        </ul>
+        
+        <ul style="float: left">
+	        <li>Terminators
+                <ul class="menuColumnSection">
+   		            <li><a href="/AudioVideo/Terminators/TerminatorBlocks">Blocks</a></li>
+    		        <li><a href="/AudioVideo/Couplers">Couplers</a></li>
+    		        <li><a href="/Networking/Terminators/KeystoneJacks">Keystone Jacks</a></li>
+    		        <li><a href="/AudioVideo/WallPlates">Wall Plates</a></li>
+           	    </ul>
+	        </li>
+	        <li>Video Recording and Security
+                <ul class="menuColumnSection">
+   		            <li><a href="/Cameras/Cameras">All Cameras</a></li>
+    		        <li><a href="/Cameras/Cameras/-Interface-USB?sortBy=popularity&amp;sortDirection=desc">Webcams</a></li>
+   		            <li><a href="/Cameras/Cameras/-Interface-IP?sortBy=popularity&amp;sortDirection=desc">IP Cameras</a></li>
+    		        <li><a href="/Cameras/Cameras/-Interface-AV?sortBy=popularity&amp;sortDirection=desc">AV Cameras</a></li>
+   		            <li><a href="/AudioVideo/VideoCapture">USB Video Recorders</a></li>
+    		        <li><a href="/AudioVideo/DVRs">DVRs</a></li>
+           	    </ul>
+	        </li>
+        </ul>
+    </div>
+</div>
+  <div class="menu">
+    <a href="/CablesandAdapters" class="menuLink"><span>Cables &amp; Adapters</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:730px;height:310px;left: 70px">
+    
+    <div class="subMenuRightSide" style="position: absolute; top: 0px; right: 0px; height: 314px;">
+	<ul style="float:left">
+        <li>Data Cables by Interface
+            <ul class="menuColumnSection">
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-ADC">ADC</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-AntennaCable">Antenna Cable</a></li>
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-DisplayPort">DisplayPort</a></li>
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-DVI">DVI</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-EthernetCat5Cat6RJ45">Ethernet</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-EthernetPatchCables">Ethernet Patch Cables</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-Firewire">Firewire</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-GPIB">GPIB</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-IDE">IDE</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-IrDAInfrared">IR</a></li>
+	            <li><a href="/ComponentsPeripherals/KVM/Cables">KVM Cables</a></li>
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MiniDisplayPort">Mini Displayport</a></li>
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MiniDVI">Mini DVI</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-Misc">Misc.</a></li>
+	        </ul>
+        </li>
+    </ul>
+    <ul style="float:left">
+        <li>&amp;nbsp;
+            <ul class="menuColumnSection">
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-ParallelCentronics36">Parallel (Centronics 36)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-ParallelDB25">Parallel (DB-25)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-ParallelMiniCentronics">Parallel (Mini-Centronics)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-PS2">PS2 (Mouse and Keyboard)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-SATA">SATA</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-SCSI">SCSI</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-SDCF">SD/CF</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-SerialDB9">Serial (DB9)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-RJ11RJ12Telephone">Telephone (RJ11, RJ12)</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-USB">USB</a></li>
+	            <li><a href="/CablesandAdapters/Data/-DataInterface-USBMiniMicro">USB (Mini/Micro)</a></li>
+	            <li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-VGA">VGA</a></li>
+       	    </ul>
+        </li>
+    </ul>
+    </div>
+
+<ul style="float: left">
+            <li>Accessories
+            <ul class="menuColumnSection">
+   		<li><a href="/PowerDevices/PowerCables">Power Cables</a></li>
+    		<li><a href="/CablesandAdapters/ToolsandTesters">Tools and Calibration</a></li>
+           		<li><a href="/CablesandAdapters/Organizers">Cable Organizers</a></li>
+           	</ul>
+	</li>
+	<li>Bulk Cable
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/AudioVideo/-SpecialFeatures-Bulk-AudioVideoInterface-Coax?sortBy=popularity&amp;sortDirection=desc">RG6 (Coaxial)</a></li>
+    		<li><a href="/CablesandAdapters/Data/-DataInterface-EthernetCat5Cat6RJ45-SpecialFeatures-Bulk?sortBy=popularity&amp;sortDirection=desc">Cat5e/Cat6</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SpeakerBanana-SpecialFeatures-Bulk?sortBy=popularity&amp;sortDirection=desc">Speaker</a></li>
+		<li><a href="/CablesandAdapters/Data/-DataInterface-FireAlarm-SpecialFeatures-Bulk?sortBy=popularity&amp;sortDirection=desc">Security/Fire Alarm</a></li>
+           	</ul>
+	</li>
+	<li>Fiber Optic Cables
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-FC?sortBy=popularity&amp;sortDirection=desc">FC</a></li>
+    		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-LC?sortBy=popularity&amp;sortDirection=desc">LC</a></li>
+    		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-MTRJ?sortBy=popularity&amp;sortDirection=desc">MTRJ</a></li>
+    		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-SC?sortBy=popularity&amp;sortDirection=desc">USB Interfaces</a></li>
+    		<li><a href="/AudioVideo/ProAudio/ComputerAudioInterfaces">SC</a></li>
+    		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-ST?sortBy=popularity&amp;sortDirection=desc">ST</a></li>
+    		<li><a href="/CablesandAdapters/FiberOptics/-FiberInterfaces-TOSlink?sortBy=popularity&amp;sortDirection=desc">Toslink</a></li>
+           	</ul>
+	</li>
+</ul>
+
+<ul style="float: left">
+	<li>Home Theater
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-1835mmJack?sortBy=popularity&amp;sortDirection=desc">3.5mm (1/8") Audio Jack</a></li>
+    		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-Coax?sortBy=popularity&amp;sortDirection=desc">Coaxial Cable</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-HDMI?sortBy=popularity&amp;sortDirection=desc">HDMI</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-HDMIHDMI?sortBy=popularity&amp;sortDirection=desc">HDMI-HDMI</a></li>
+		<li><a href="/ConsumerElectronics/Gaming?page=2&amp;sortBy=popularity&amp;sortDirection=desc">Gaming</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCAComponent?sortBy=popularity&amp;sortDirection=desc">RCA (Component)</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCACompositeAudio?sortBy=popularity&amp;sortDirection=desc">RCA (Composite and Audio)</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-RCADigital?sortBy=popularity&amp;sortDirection=desc">RCA (Digital Audio)</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SVideo?sortBy=popularity&amp;sortDirection=desc">S-Video</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SCART?sortBy=popularity&amp;sortDirection=desc">SCART</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-SpeakerBanana?sortBy=popularity&amp;sortDirection=desc">Speaker Wire and Banana</a></li>
+		<li><a href="/CablesandAdapters/AudioVideo/-FiberInterfaces-TOSlink?sortBy=popularity&amp;sortDirection=desc">Toslink</a></li>
+		<li><a href="/ConsumerElectronics/Gaming">Gaming Port</a></li>
+           	</ul>
+	</li>
+	<li>Portable Electronics
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/AudioVideo/-DataInterface-iPodDockConnector?sortBy=popularity&amp;sortDirection=desc">iPod Cables</a></li>
+    		<li><a href="/CablesandAdapters/Data/-DataInterface-ZuneConnector?sortBy=popularity&amp;sortDirection=desc">Zune Cables</a></li>
+    		<li><a href="/CablesandAdapters/Data/-DataInterface-CellPhonePDA?sortBy=popularity&amp;sortDirection=desc">Cell Phone Cables</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Pro AV
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-XLR?sortBy=popularity&amp;sortDirection=desc">XLR</a></li>
+    		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-1463mmAudioJack?sortBy=popularity&amp;sortDirection=desc">6.3mm (1/4") Audio Jack</a></li>
+   		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-BNC?sortBy=popularity&amp;sortDirection=desc">BNC</a></li>
+    		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-MIDI?sortBy=popularity&amp;sortDirection=desc">MIDI</a></li>
+    		<li><a href="/CablesandAdapters/AudioVideo/-AudioVideoInterface-HDSDI?sortBy=popularity&amp;sortDirection=desc">SDI-HD-SDI</a></li>
+           	</ul>
+	</li>
+	<li>Terminators
+            <ul class="menuColumnSection">
+   		<li><a href="/Networking/Terminators/HeadsBoots">Heads/Boots</a></li>
+    		<li><a href="/Networking/Terminators/KeystoneJacks">Keystone Jacks</a></li>
+   		<li><a href="/Networking/Terminators/MountBoxes">Mount Boxes</a></li>
+    		<li><a href="/AudioVideo/WallPlates">Wall Plates</a></li>
+    		<li><a href="/Networking/RackShelvesPanelsHardware/PatchPanels">Patch Panel</a></li>
+           	</ul>
+	</li>
+</ul>
+
+</div>
+  </div>
+  <div class="menu">
+    <a href="/ComponentsPeripherals" class="menuLink"><span>Computer Gear</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:660px;height:325px;left: 160px">
+
+<ul style="float: left">
+	<li>Barebones and More
+            <ul class="menuColumnSection">
+   		<li><a href="/ComputerSystems/ComputerCases">Computer Cases</a></li>
+		<li><a href="/PowerDevices/ComputerPowerSupplies">Power Supplies</a></li>
+		<li><a href="/ComponentsPeripherals/CaseMods">Mods</a></li>
+		<li><a href="/ComponentsPeripherals/CoolingDevices">Cooling</a></li>
+		<li><a href="/ComputerSystems/ToolsandCleaners">Tools and Cleaners</a></li>
+           	</ul>
+	</li>
+	<li>Cards and Boards
+            <ul class="menuColumnSection">
+   		<li><a href="/ComponentsPeripherals/AGPCards">AGP</a></li>
+    		<li><a href="/StorageDevices/FlashMemory">Memory/RAM</a></li>
+    		<li><a href="/ComponentsPeripherals/PCICards">PCI</a></li>
+   		<li><a href="/ComponentsPeripherals/PCMCIACards">PCMCIA</a></li>
+    		<li><a href="/ComponentsPeripherals/PCIExpressPCIeCards">PCI Express</a></li>
+    		<li><a href="/ComponentsPeripherals/PXICards">PXI</a></li>
+   		<li><a href="/ComponentsPeripherals/ExpressCard">Expresscard</a></li>
+    		<li><a href="/ComponentsPeripherals/CardReaders">Card Readers</a></li>
+    		<li><a href="/ComponentsPeripherals/USBDonglesPeripherals">USB Dongles</a></li>
+    		<li><a href="/ComponentsPeripherals/SDIOCFIO">SDIO/CFIO</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Data Storage
+            <ul class="menuColumnSection">
+   		<li><a href="/StorageDevices/HardDisks">Hard Disks</a></li>
+    		<li><a href="/StorageDevices/FlashMemory">Flash Memory</a></li>
+   		<li><a href="/StorageDevices/RAID">RAID</a></li>
+    		<li><a href="/StorageDevices/Enclosures">Enclosures</a></li>
+    		<li><a href="/StorageDevices/HDDDockingStations">HDD Docking Stations</a></li>
+   		<li><a href="/StorageDevices/BlankMedia">Blank Media</a></li>
+    		<li><a href="/StorageDevices/CDDVDDuplicators">CD/DVD Duplicators</a></li>
+    		<li><a href="/StorageDevices/Enclosures/-SpecialFeatures-NAS?sortBy=popularity&amp;sortDirection=desc">Network Attached Storage (NAS)</a></li>
+           	</ul>
+	</li>
+	<li>Displays
+            <ul class="menuColumnSection">
+   		<li><a href="/Displays/Projectors">Projectors</a></li>
+    		<li><a href="/Displays/ProjectorScreens">Projector Screens</a></li>
+		<li><a href="/Displays/Monitors">Monitors</a></li>
+		<li><a href="/Displays/DigitalPhotoFrames">Digital Photo Frames</a></li>
+		<li><a href="/Displays/Mounts">Mounts</a></li>
+		<li><a href="/Displays/DisplayProtection">Display Protection</a></li>
+		<li><a href="/Displays/VideoGlasses">Video Glasses</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>KVM
+            <ul class="menuColumnSection">
+   		<li><a href="/ComponentsPeripherals/KVM/Switches">KVM Switches</a></li>
+    		<li><a href="/ComponentsPeripherals/KVM/Cables">KVM Cables</a></li>
+    		<li><a href="/ComponentsPeripherals/KVM/Extenders">KVM Extenders</a></li>
+   		<li><a href="/ComponentsPeripherals/KVM/PCSharing">PC Sharing</a></li>
+           	</ul>
+	</li>
+	<li>Peripherals
+            <ul class="menuColumnSection">
+   		<li><a href="/CablesandAdapters/Data/-DataInterface-Bluetooth">Bluetooth Dongles</a></li>
+   		<li><a href="/ComponentsPeripherals/MicePointingDevices">Mice/Pointing Devices</a></li>
+    		<li><a href="/ComponentsPeripherals/KeyboardsKeypads">Keyboards/Keypads</a></li>
+   		<li><a href="/ComponentsPeripherals/DeviceServers">Device Servers</a></li>
+    		<li><a href="/ComponentsPeripherals/DeviceSwitches">Device Switches</a></li>
+    		<li><a href="/ComponentsPeripherals/DiskDrives">Disk Drives</a></li>
+   		<li><a href="/ComponentsPeripherals/DockingStations">Docking Stations</a></li>
+    		<li><a href="/ComponentsPeripherals/ExtendersBaluns">Extenders</a></li>
+    		<li><a href="/ComponentsPeripherals/Hubs">Hubs</a></li>
+    		<li><a href="/Cameras/Cameras/-Interface-USB?sortBy=popularity&amp;sortDirection=desc">Webcams</a></li>
+    		<li><a href="/ComponentsPeripherals/CDDVDDuplicators">CD/DVD Duplicators</a></li>
+           	</ul>
+	</li>
+</ul>
+
+<ul style="float: left">
+	<li>Power
+            <ul class="menuColumnSection">
+   		<li><a href="/PowerDevices/PowerCables">Power Cables</a></li>
+    		<li><a href="/PowerDevices/Batteries/DeviceSpecific">Device Specific Batteries</a></li>
+		<li><a href="/PowerDevices/Batteries/StandardSizes">Standard Size Batteries</a></li>
+		<li><a href="/PowerDevices/BatteryChargers">Battery Chargers</a></li>
+		<li><a href="/PowerDevices/Batteries/ReplacementUPSBatteries">Replacement UPS Batteries</a></li>
+		<li><a href="/PowerDevices/UPS">UPS</a></li>
+		<li><a href="/PowerDevices/ComputerPowerSupplies">Computer Power Supplies</a></li>
+		<li><a href="/PowerDevices/DeviceChargers">Device Chargers</a></li>
+		<li><a href="/PowerDevices/DevicePowerSupplies">Device Power Supplies</a></li>
+		<li><a href="/PowerDevices/DockingStations">Device Cradles</a></li>
+		<li><a href="/PowerDevices/SurgeProtectors">Power Strips/Surge Protectors</a></li>
+           	</ul>
+	</li>
+	<li>Systems
+            <ul class="menuColumnSection">
+   		<li><a href="/ComputerSystems/DesktopComputers">Desktop Computers</a></li>
+    		<li><a href="/ComputerSystems/Handhelds">Handhelds</a></li>
+           	</ul>
+	</li>
+</ul>
+
+</div>
+
+  </div>
+  <div class="menu">
+    <a href="/Communication" class="menuLink"><span>Phones/Wireless</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:500px;height:300px;left: 300px">
+
+<ul style="float: left">
+	<li>Cell Phone Signal Boosters
+            <ul class="menuColumnSection">
+   		<li><a href="/Communication/CellPhoneSignalBoosters/Amplifiers">Amplifiers</a></li>
+    		<li><a href="/Communication/CellPhoneSignalBoosters/CellBoosterAccessories">Accessories</a></li>
+		<li><a href="/Communication/CellPhoneSignalBoosters/CompleteBoosterKits">Booster Kits</a></li>
+		<li><a href="/Communication/CellPhoneSignalBoosters/InsideAntennas">Inside Antennas</a></li>
+		<li><a href="/Communication/CellPhoneSignalBoosters/OutsideAntennas">Outside Antennas</a></li>
+           	</ul>
+	</li>
+	<li>Landline
+            <ul class="menuColumnSection">
+   		<li><a href="/Communication/Telephones/Telephones">Telephones</a></li>
+    		<li><a href="/Communication/AnsweringMachinesCallerID">Answering Machines and Caller ID</a></li>
+		<li><a href="/Communication/Headsets/-SpecialFeatures-Wired?sortBy=popularity&amp;sortDirection=desc">Headsets</a></li>
+		<li><a href="/Communication/ShoulderRestsAccessories">Phone Accessories</a></li>
+		<li><a href="/Communication/PhoneRecording">Phone Recording</a></li>
+		<li><a href="/Communication/Speakerphones">Speakerphones</a></li>
+		<li><a href="/Communication/Teleconferencing">Teleconferencing</a></li>
+		<li><a href="/Communication/VoIPPhonesProducts">VoIP Phones and Products</a></li>
+		<li><a href="/Communication/Telephones/NoveltyPhones">Novelty Phones</a></li>
+		<li><a href="/OfficeMachines/FaxMachines">Fax Machines</a></li>
+		<li><a href="/Communication/Microphones">Desktop Microphones</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Wireless
+            <ul class="menuColumnSection">
+    		<li><a href="/CablesandAdapters/Data/-DataInterface-CellPhonePDA?sortBy=popularity&amp;sortDirection=desc">Cell Phone Cables</a></li>
+   		<li><a href="/Communication/MobileBroadbandRouters">Mobile Broadband Routers</a></li>
+    		<li><a href="/Communication/CellPhonesPagers">Cell Phones/Pagers</a></li>
+    		<li><a href="/Communication/Headsets/-SpecialFeatures-Wireless?sortBy=popularity&amp;sortDirection=desc">Wireless Headsets</a></li>
+   		<li><a href="/Communication/Speakerphones/-SpecialFeatures-Wireless?sortBy=popularity&amp;sortDirection=desc">Wireless Speakerphones</a></li>
+    		<li><a href="/Communication/TwoWayRadios">Two-Way Radios</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Special Needs
+            <ul class="menuColumnSection">
+   		<li><a href="/ConsumerElectronics/SpecialNeeds/Corded">Corded</a></li>
+    		<li><a href="/ConsumerElectronics/SpecialNeeds/Cordless">Cordless</a></li>
+    		<li><a href="/ConsumerElectronics/SpecialNeeds/TTYTDDVCO">TTY TDD VCO</a></li>
+   		<li><a href="/ConsumerElectronics/SpecialNeeds/Accessories">Accessories</a></li>
+           	</ul>
+	</li>
+</ul>
+
+</div>
+  </div>
+  <div class="menu">
+    <a href="/ConsumerElectronics" class="menuLink"><span>Electronics</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+
+    <div class="subMenu" style="width:570px;height:260px;left: 400px">
+
+<ul style="float: left">
+	<li>Car
+            <ul class="menuColumnSection">
+   		<li><a href="/CarElectronics/BackupCameras">Backup Cameras</a></li>
+    		<li><a href="/ConsumerElectronics/RadarDetectors">Radar Detectors</a></li>
+		<li><a href="/CarElectronics/CarAudio">Car Audio</a></li>
+		<li><a href="/CarElectronics/CarVideo">Car Video</a></li>
+		<li><a href="/CarElectronics/CarPowerComponents">Car Chargers</a></li>
+		<li><a href="/CarElectronics/Safety">Safety</a></li>
+		<li><a href="/CarElectronics/JustforFun">Just for Fun</a></li>
+           	</ul>
+	</li>
+	<li>Data Storage
+            <ul class="menuColumnSection">
+   		<li><a href="/StorageDevices/HardDisks">Hard Disks</a></li>
+    		<li><a href="/StorageDevices/FlashMemory">Flash Memory</a></li>
+    		<li><a href="/StorageDevices/RAID">RAID</a></li>
+   		<li><a href="/StorageDevices/Enclosures">Enclosures</a></li>
+   		<li><a href="/StorageDevices/HDDDockingStations">HDD Docking Stations</a></li>
+   		<li><a href="/StorageDevices/BlankMedia">Blank Media</a></li>
+   		<li><a href="/ComponentsPeripherals/CDDVDDuplicators">CD/DVD Duplicators</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Home
+            <ul class="menuColumnSection">
+   		<li><a href="/ConsumerElectronics/Gaming">Gaming</a></li>
+           	</ul>
+	</li>
+	<li>Lighting
+            <ul class="menuColumnSection">
+   		<li><a href="/ConsumerElectronics/LEDLightBulbs">LED Light Bulbs</a></li>
+   		<li><a href="/ConsumerElectronics/LEDLightStrips">LED Light Strips</a></li>
+           	</ul>
+	</li>
+	<li>Manufacturing
+            <ul class="menuColumnSection">
+   		<li><a href="/ComponentsPeripherals/Manufacturing">Silicon Wafers</a></li>
+   		<li><a href="/CablesandAdapters/Data/-DataInterface-GPIB?sortBy=popularity&amp;sortDirection=desc">GPIB Converters</a></li>
+           	</ul>
+	</li>
+	<li>Novelty
+            <ul class="menuColumnSection">
+   		<li><a href="/ConsumerElectronics/WeatherRadios">Weather Radios</a></li>
+    		<li><a href="/ConsumerElectronics/NoveltyProductsGifts">Gifts</a></li>
+		<li><a href="/Communication/Telephones/NoveltyPhones">Novelty Phones</a></li>
+		<li><a href="/ComponentsPeripherals/JustforFun">Just for Fun</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float: left">
+	<li>Office Machines
+            <ul class="menuColumnSection">
+   		<li><a href="/OfficeMachines/FaxMachines">Fax Machines</a></li>
+    		<li><a href="/OfficeMachines/BarCodeScanners">Bar Code Scanners</a></li>
+    		<li><a href="/OfficeMachines/HomeOffice">Home Office</a></li>
+           	</ul>
+	</li>
+	<li>Portable
+            <ul class="menuColumnSection">
+   		<li><a href="/ConsumerElectronics/MP3Players">MP3/MP4 Players</a></li>
+   		<li><a href="/Communication/CellPhonesPagers">Cell Phones/Pagers</a></li>
+   		<li><a href="/AudioVideo/ProAudio/DigitalRecorders">Portable Recorders</a></li>
+   		<li><a href="/ConsumerElectronics/GPS/GPSReceivers">GPS</a></li>
+           	</ul>
+	</li>
+</ul>
+<ul style="float:left">
+	<li>Power
+            <ul class="menuColumnSection">
+   		<li><a href="/PowerDevices/Batteries/StandardSizes">Standard Batteries</a></li>
+   		<li><a href="/PowerDevices/Batteries/DeviceSpecific">Device Batteries</a></li>
+   		<li><a href="/PowerDevices/Batteries/ReplacementUPSBatteries">UPS Replacement Batteries</a></li>
+   		<li><a href="/PowerDevices/ComputerPowerSupplies">PC Power Supplies</a></li>
+   		<li><a href="/PowerDevices/DevicePowerSupplies">Device Chargers</a></li>
+           	</ul>
+	</li>
+</ul>
+</div>
+  </div>
+  <div class="menu">
+    <a href="/Networking" class="menuLink"><span>Networking</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:775px;height:325px;left: 200px">
+        <ul style="float: left">
+            <li>Cables and Adapters
+            <ul class="menuColumnSection">
+
+                <li><a href="/Networking/CablesAdapters/-Interface-AntennaCable?sortBy=popularity&amp;sortDirection=desc">Antenna Cable</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-Cat5Cat5e?sortBy=popularity&amp;sortDirection=desc">Cat5/Cat5e</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-Cat6?sortBy=popularity&amp;sortDirection=desc">Cat6</a></li>
+                <li><a href="/CablesandAdapters/Data/-DataInterface-EthernetPatchCables?sortBy=popularity&amp;sortDirection=desc">Ethernet Patch Cables</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-FC?sortBy=popularity&amp;sortDirection=desc">FC</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-LC?sortBy=popularity&amp;sortDirection=desc">LC</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-MTRJ?sortBy=popularity&amp;sortDirection=desc">MTRJ</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-RJ11RJ12?sortBy=popularity&amp;sortDirection=desc">RJ11/RJ12</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-SC?sortBy=popularity&amp;sortDirection=desc">SC</a></li>
+                <li><a href="/Networking/CablesAdapters/-Interface-ST?sortBy=popularity&amp;sortDirection=desc">ST</a></li>
+            </ul>
+            </li>
+            <li>Computer Networking Components
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/Routers">All Routers</a></li>
+	    <li><a href="/StorageDevices/Enclosures/-SpecialFeatures-NAS?sortBy=popularity&amp;sortDirection=desc">Network Attached Storage (NAS)</a></li>
+                <li><a href="/Networking/ComputerComponents/PCICards">PCI Cards</a></li>
+                <li><a href="/Networking/ComputerComponents/PCIExpressCardsPCIe">PCI Express Cards</a></li>
+                <li><a href="/Networking/ComputerComponents/PCMCIACardsPCCardbus">PCMCIA Cards</a></li>
+                <li><a href="/Networking/ComputerComponents/USBDongles">USB Dongles</a></li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="float: left">
+
+            <li>Racks
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/RackShelvesPanelsHardware/Brackets">Brackets</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/CableOrganizers">Cable Organizers</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Carts">Carts</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Chassis">Chassis</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/DrawersTrays">Drawers/Trays</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Fans">Fans</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Hardware">Hardware</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Panels">Panels</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/PatchPanels">Patch Panels</a></li>
+                <li><a href="/Networking/RackPowerDevices">Rack Power Devices</a></li>
+                <li><a href="/Networking/RacksandCabinets">Racks and Cabinets</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/RailsBars">Rails/Bars</a></li>
+                <li><a href="/PowerDevices/ServerPowerSupplies">Server Power Suppliers</a></li>
+                <li><a href="/Networking/RackShelvesPanelsHardware/Shelves">Shelves</a></li>
+                <li><a href="/PowerDevices/SurgeProtectors">Surge Protectors</a></li>
+                <li><a href="/PowerDevices/UPS">UPS</a></li>
+                <li><a href="/Networking/WorkBenches">Workbenches</a></li>
+
+            </ul>
+            </li>
+        </ul>
+        <ul style="float: left">
+
+           <li>Security
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/Security/AccessDevices">Access Devices</a></li>
+                <li><a href="/Cameras/Security/SecurityCameras">Cameras</a></li>
+                <li><a href="/AudioVideo/DVRs">DVRs</a></li>
+                <li><a href="/Networking/Security/NetworkSecurityAppliances">Network Security Appliances</a></li>
+                <li><a href="/Cameras/Security/SecurityRecordingDevices">Recording Devices/Cards</a></li>
+                <li><a href="/AudioVideo/VideoCapture">USB Video Recorders</a></li>
+            </ul>
+            </li>
+       
+            <li>Terminators
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/Terminators/HeadsBoots">Heads/Boots</a></li>
+                <li><a href="/Networking/Terminators/KeystoneJacks">Keystone Jacks</a></li>
+                <li><a href="/Networking/Terminators/MountBoxes">Mount Boxes</a></li>
+                <li><a href="/Networking/Terminators/WallPlates">Wallplates</a></li>
+            </ul>
+            </li>
+            <li>Tools and Testing
+            <ul class="menuColumnSection">
+
+                <li><a href="/Networking/ToolsandTesting/Diagnostics">Diagnostics</a></li>
+                <li><a href="/Networking/ToolsandTesting/MaintenanceInstallKits">Maintenance/Install Kits</a></li>
+                <li><a href="/Networking/ToolsandTesting/ProbesFinders">Probes/Finders</a></li>
+                <li><a href="/Networking/ToolsandTesting/TestersCheckers">Testers/Checkers</a></li>
+                <li><a href="/Networking/ToolsandTesting/Tools">Tools</a></li>
+            </ul>
+
+            </li>
+        </ul>
+        <ul style="float: left">
+            <li>Wired Networks
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/ConcentratorsandMultiplexers">Concentrators and Multiplexes</a></li>
+                <li><a href="/Communication/VoIPPhonesProducts?&amp;">Gateways</a></li>
+                <li><a href="/Networking/IOModules">I/O Modules</a></li>
+                <li><a href="/Networking/LoadBalancersAggregators">Load Balancers/Aggregators</a></li>
+                <li><a href="/Networking/MediaConverters">Media Converters</a></li>
+                <li><a href="/Networking/Modems">Modems</a></li>
+                <li><a href="/Networking/PowerOverEthernetPoE">Power Over Ethernet (PoE)</a></li>
+                <li><a href="/Networking/PowerlineEthernet">Powerline Ethernet</a></li>
+                <li><a href="/Networking/SwitchesHubs">Switches and Hubs</a></li>
+                <li><a href="/Networking/Servers">Wired Device/Print Servers</a></li>
+                <li><a href="/Networking/Routers/-RouterType-Wired?sortBy=popularity&amp;sortDirection=desc">Wired Routers</a></li>
+            </ul>
+            </li>
+            <li>Wireless Networks
+            <ul class="menuColumnSection">
+                <li><a href="/Networking/Antennas">Antennas</a></li>
+                <li><a href="/Networking/Wireless/USBWifiDongles">USB Wifi Dongles</a></li>
+                <li><a href="/Networking/Wireless/USBModems">USB Wireless Modems</a></li>
+                <li><a href="/Networking/Wireless/WirelessAccessPointsGateways">Wireless Access Points/Gateways</a></li>
+                <li><a href="/Networking/Wireless/WirelessBoostersBridges">Wireless Boosters/Bridges</a></li>
+                <li><a href="/Networking/Wireless/DevicePrintServers">Wireless Device/Print Servers</a></li>
+                <li><a href="/Networking/Routers/-RouterType-Wireless?&amp;">Wireless Routers</a></li>
+            </ul>
+
+            </li>
+        </ul>
+    </div>
+  </div>
+  <div class="menu">
+    <a href="/BagsAndCases" class="menuLink"><span>Accessories</span><img src="/siteimages/layout2/arrowDownHL.gif" alt=""></a>
+    <div class="subMenu" style="width:500px;height:260px;left: 450px">
+    <ul style="float: left">
+
+        <li>Bags and Cases
+        <ul class="menuColumnSection">
+            <li><a href="/Displays/DisplayProtection">Display Protection</a></li>
+            <li><a href="/BagsandCases/iPodiPhoneProtection">iPod/iPhone Protection</a></li>
+            <li><a href="/BagsandCases/PortKeyboardProtection">Keyboard Port Protection</a></li>
+            <li><a href="/BagsandCases/LaptopProtection">Laptop Cases</a></li>
+            <li><a href="/ComponentsPeripherals/LaptopPads">Laptop Cooling Pads</a></li>
+            <li><a href="/ComponentsPeripherals/Locks">Laptop Locks</a></li>
+            <li><a href="/BagsandCases/LaptopSleeves">Laptop Sleeves</a></li>
+            <li><a href="/BagsandCases/RackmountCases">Rackmount Cases</a></li>
+            <li><a href="/BagsandCases/SmallElectronicsProtection">Small Electronics Protection</a></li>
+            <li><a href="/BagsandCases/StrapsBandsClips">Straps/Bands/Clips</a></li>
+            <li><a href="/ComputerSystems/ToolsandCleaners">Tools and Cleaners</a></li>
+        </ul>
+
+        </li>
+        <li>Cabling Accessories
+        <ul class="menuColumnSection">
+            <li><a href="/CablesandAdapters/Organizers">Cable Organizers</a></li>
+            <li><a href="/CablesandAdapters/ToolsandTesters">Tools and Calibration</a></li>
+        </ul>
+        </li>
+    </ul>
+
+    <ul style="float: left">
+        <li>Car Accessories
+        <ul class="menuColumnSection">
+            <li><a href="/ConsumerElectronics/CarElectronics/CarAudio">Car Audio</a></li>
+            <li><a href="/ConsumerElectronics/CarElectronics/CarPowerComponents">Car Chargers</a></li>
+            <li><a href="/ConsumerElectronics/CarElectronics/CarVideo">Car Video</a></li>
+            <li><a href="/CarElectronics/JustforFun">Just For Fun</a></li>
+            <li><a href="/ConsumerElectronics/LEDLightStrips">LED Light Strips</a></li>
+            <li><a href="/ConsumerElectronics/RadarDetectors">Radar Detectors</a></li>
+            <li><a href="/CarElectronics/Safety">Safety</a></li>
+        </ul>
+        </li>
+        <li>iPod Accessories
+        <ul class="menuColumnSection">
+            <li><a href="/AudioVideo/iPodAccessories/iPodCablesAdapters">iPod Cables/Adapters</a></li>
+            <li><a href="/AudioVideo/iPodAccessories/iPodCarAdapters">iPod Car Adapters</a></li>
+            <li><a href="/AudioVideo/iPodAccessories/iPodDocks">iPod Docks</a></li>
+        </ul>
+        </li>
+        </ul>
+    <ul style="float:left">
+        <li>Novelties/Gifts
+        <ul class="menuColumnSection">
+            <li><a href="/ConsumerElectronics/NoveltyProductsGifts">Novelties/Gifts</a></li>
+            <li><a href="/Communication/Telephones/NoveltyPhones">Novelty Telephones</a></li>
+            <li><a href="/ComponentsPeripherals/JustforFun">Techy Novelties</a></li>
+
+        </ul>
+        </li>
+        <li>Software
+        <ul class="menuColumnSection">
+            <li><a href="/Software/Fastlynx">Fastlynx</a></li>
+            <li><a href="/Software/ModulesPrograms">Modules &amp; Programs</a></li>
+
+        </ul>
+        </li>
+    </ul>
+</div>
+</div>
+
+    </div> 
     
     <div class="absolute" id="phoneNumber">
-        Call us at (801) 356-3823
+        1-801-356-3823
     </div>
     
-    <div class="absolute" id="topAds"><img src="/siteimages/banners/freeShippingBlue.jpg" alt="Free Shipping for all orders over $100!"></div>
+    <div class="absolute" id="liveSupportTop">
+        <a href="javascript: showSightMax()">live chat <span id="liveSupportStatus"></span></a>
+    </div>
     
     <div style="visibility: hidden">
     <span id="ruler" style="visibility: hidden; white-space: pre"></span>
@@ -276,20 +1016,25 @@
     
     
     
-    <script type="text/javascript">
-    var woopra_id = '863366170';
-    </script>
-    <script src="http://static.woopra.com/js/woopra.js" type="text/javascript"></script>
+   <script type="text/javascript" src="http://cetrk.com/pages/scripts/0005/4748.js"> </script>
     
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+	<!-- Monitor tag for Account Sewell Direct (ID: 1), Site SewellDirect.com (ID: 1), Queue Customer Service (ID: 3) -->
+        <script type="text/javascript" language="javascript" src="/SightMaxAgentInterface/Monitor.smjs?accountID=1&amp;siteID=1&amp;queueID=3"></script>
+
     <script type="text/javascript">
-	    _uacct = "UA-163885-3";
-	    urchinTracker();
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-163885-3");
+        pageTracker._trackPageview();
+        } catch(err) {}
     </script>
     <script type="text/javascript">
         fireFoxCursorFix();
     </script>
-    
 
 
 </body></html>
