@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217011749id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174432id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
 
 # Berroco® KnitBits®
 
@@ -29,25 +29,15 @@ If you have other concerns or questions about any aspect of this policy, you may
 
 **To Subscribe:**
 
-Enter your e-mail 
-
-address in the Subscription Box 
-
-at the top of this page. Then click "Subscribe" 
-
-& you may win a 
-
+Enter your e-mail  
+address in the Subscription Box on this page or   
+at the top of any page in our website.   
+Then click "Subscribe"  
+& you may win a  
 Free Sweater kit. 
 
-**To Preview:**  
-See our previously
-
-published issues in our KnitBits Archive 
-
-at left. 
-
-**To Unsubscribe:**
-
+**To Unsubscribe:  
+**  
 Click [here](https://web.archive.org/cancel_knitbits.html). 
 
 [](https://web.archive.org/win.html)
