@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php%3Foption%3Dprivacy) for the most accurate reproduction.*
 
 # Catholic.net - Catholics on the net
 
@@ -8,178 +8,178 @@ Church Teaching Q&A
 
 |   | 
 
-[Bible School](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Bible%20School&id=1&grupo=Church%20Teaching%20Q%20A)  
+[Bible School](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Bible%20School&id=1&grupo=Church%20Teaching%20Q%26A)  
   
 ---|---  
   | 
 
-[Canon Law](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Canon%20Law&id=1&grupo=Church%20Teaching%20Q%20A)  
+[Canon Law](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Canon%20Law&id=1&grupo=Church%20Teaching%20Q%26A)  
   
   | 
 
-[Catholicism 101](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Catholicism%20101&id=1&grupo=Church%20Teaching%20Q%20A)  
+[Catholicism 101](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Catholicism%20101&id=1&grupo=Church%20Teaching%20Q%26A)  
   
   | 
 
-[Church History](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Church%20History&id=1&grupo=Church%20Teaching%20Q%20A)  
+[Church History](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Church%20History&id=1&grupo=Church%20Teaching%20Q%26A)  
   
   | 
 
-[Liturgy Explained](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Liturgy%20Explained&id=1&grupo=Church%20Teaching%20Q%20A)  
+[Liturgy Explained](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Liturgy%20Explained&id=1&grupo=Church%20Teaching%20Q%26A)  
   
 Life & Family
 
 |   | 
 
-[Chastity](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Chastity&id=2&grupo=Life%20Family)  
+[Chastity](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Chastity&id=2&grupo=Life%26Family)  
   
 ---|---  
   | 
 
-[Christian Men](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Christian%20Men&id=2&grupo=Life%20Family)  
+[Christian Men](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Christian%20Men&id=2&grupo=Life%26Family)  
   
   | 
 
-[Christian Women](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Christian%20Women&id=2&grupo=Life%20Family)  
+[Christian Women](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Christian%20Women&id=2&grupo=Life%26Family)  
   
   | 
 
-[Homosexuality](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Homosexuality&id=2&grupo=Life%20Family)  
+[Homosexuality](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Homosexuality&id=2&grupo=Life%26Family)  
   
   | 
 
-[Life & Bioethics](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Life%20and%20Bioethics&id=2&grupo=Life%20Family)  
+[Life & Bioethics](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Life%20and%20Bioethics&id=2&grupo=Life%26Family)  
   
   | 
 
-[Marriage](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Marriage&id=2&grupo=Life%20Family)  
+[Marriage](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Marriage&id=2&grupo=Life%26Family)  
   
   | 
 
-[Parenting](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Parenting&id=2&grupo=Life%20Family)  
+[Parenting](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Parenting&id=2&grupo=Life%26Family)  
   
 Lifestyle
 
 |   | 
 
-[Charity](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Charity&id=4&grupo=Lifestyle)  
+[Charity](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Charity&id=4&grupo=Lifestyle)  
   
 ---|---  
   | 
 
-[Fitness](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Fitness&id=4&grupo=Lifestyle)  
+[Fitness](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Fitness&id=4&grupo=Lifestyle)  
   
   | 
 
-[Pilgrimages](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Pilgrimages&id=4&grupo=Lifestyle)  
+[Pilgrimages](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Pilgrimages&id=4&grupo=Lifestyle)  
   
   | 
 
-[Relationships](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Relationships&id=4&grupo=Lifestyle)  
+[Relationships](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Relationships&id=4&grupo=Lifestyle)  
   
   | 
 
-[Singles](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Singles&id=4&grupo=Lifestyle)  
+[Singles](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Singles&id=4&grupo=Lifestyle)  
   
   | 
 
-[Vocation](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Vocation&id=4&grupo=Lifestyle)  
+[Vocation](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Vocation&id=4&grupo=Lifestyle)  
   
 Scriptures & More
 
 |   | 
 
-[Bible](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Bible&id=3&grupo=Scriptures%20&%20More)  
+[Bible](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Bible&id=3&grupo=Scriptures%20%26%20More)  
   
 ---|---  
   | 
 
-[Catechism](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Catechism&id=3&grupo=Scriptures%20&%20More)  
+[Catechism](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Catechism&id=3&grupo=Scriptures%20%26%20More)  
   
   | 
 
-[Code of Canon Law](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=%20Code%20of%20Canon%20Law&id=3&grupo=Scriptures%20&%20More)  
+[Code of Canon Law](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=%20Code%20of%20Canon%20Law&id=3&grupo=Scriptures%20%26%20More)  
   
   | 
 
-[Papal Encyclicals](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Papal%20Encyclicals&id=3&grupo=Scriptures%20&%20More)  
+[Papal Encyclicals](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Papal%20Encyclicals&id=3&grupo=Scriptures%20%26%20More)  
   
 Prayers & Devotions
 
 |   | 
 
-[Devotionals](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Devotionals&id=5&grupo=Prayers%20&%20Devotions)  
+[Devotionals](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Devotionals&id=5&grupo=Prayers%20%26%20Devotions)  
   
 ---|---  
   | 
 
-[Faith](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Faith&id=5)  
+[Faith](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Faith&id=5&grupo=Prayers%20%26%20Devotions)  
   
   | 
 
-[Mariology](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Mariology&id=5)  
+[Mariology](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Mariology&id=5&grupo=Prayers%20%26%20Devotions)  
   
   | 
 
-[Prayer Group](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=prayergroup)  
+[Prayer Group](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=prayergroup&canal=Prayer%20Group&id=5&grupo=Prayers%20%26%20Devotions)  
   
   | 
 
-[Saints](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=eddies&id=9&grupo=Prayers%20&%20Devotions)  
+[Saints](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=eddies&id=9&grupo=Prayers%20%26%20Devotions)  
   
   | 
 
-[Traditional Prayers](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Traditional%20Prayers&id=5&grupo=Prayers%20&%20Devotions)  
+[Traditional Prayers](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Traditional%20Prayers&id=5&grupo=Prayers%20%26%20Devotions)  
   
   | 
 
-[Testimonies](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=testimonies&grupo=Prayers%20&%20Devotions)  
+[Testimonies](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=testimonies&canal=Testimonies&grupo=Prayers%20%26%20Devotions)  
   
 News & Media
 
 |   | 
 
-[Catholic.net Editor](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Catholic.net%20Editor&id=6&grupo=News%20&%20Media)  
+[Catholic.net Editor](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Catholic.net%20Editor&id=6&grupo=News%20%26%20Media)  
   
 ---|---  
   | 
 
-[Entertainment](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Entertainment&id=6&grupo=News%20&%20Media)  
+[Entertainment](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Entertainment&id=6&grupo=News%20%26%20Media)  
   
   | 
 
-[Events](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=events&grupo=News%20&%20Media)  
+[Events](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=events&canal=Events&grupo=News%20%26%20Media)  
   
   | 
 
-[Media Watch](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Media%20Watch&id=6&grupo=News%20&%20Media)  
+[Media Watch](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Media%20Watch&id=6&grupo=News%20%26%20Media)  
   
   | 
 
-[News](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=News&id=6&grupo=News%20&%20Media)  
+[News](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=News&id=6&grupo=News%20%26%20Media)  
   
   | 
 
-[Newswire](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=newswire&grupo=News%20&%20Media)  
+[Newswire](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=newswire&canal=Newswire&grupo=News%20%26%20Media)  
   
 Faith & Finance
 
 |   | 
 
-[Careers](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=joboport&grupo=Faith%20&%20Finance)  
+[Careers](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=joboport&canal=joboport&grupo=Faith%20%26%20Finance)  
   
 ---|---  
   | 
 
-[Entrepreneurs](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Entrepreneurs&id=7&grupo=Faith%20&%20Finance)  
+[Entrepreneurs](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Entrepreneurs&id=7&grupo=Faith%20%26%20Finance)  
   
   | 
 
-[Moral Investing](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Moral%20Investing&id=7&grupo=Faith%20&%20Finance)  
+[Moral Investing](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Moral%20Investing&id=7&grupo=Faith%20%26%20Finance)  
   
   | 
 
-[Stewardship](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Stewardship&id=7&grupo=Faith%20&%20Finance)  
+[Stewardship](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Stewardship&id=7&grupo=Faith%20%26%20Finance)  
   
   
 
@@ -228,12 +228,12 @@ Podcast & Webcast
 
 |   | 
 
-[Daily Mass](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=Daily0Mass&grupo=Podcast%20&%20Webcast&canal=DailyMass)  
+[Daily Mass](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=Daily0Mass&grupo=Podcast%20%26%20Webcast&canal=DailyMass)  
   
 ---|---  
   | 
 
-[Liturgy](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Liturgy&id=11&grupo=Podcast%20&%20Webcast)  
+[Liturgy](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Liturgy&id=11&grupo=Podcast%20%26%20Webcast)  
   
   | 
 
@@ -241,53 +241,51 @@ Radio
   
   | 
 
-[Rosary](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Rosary&id=11&grupo=Podcast%20&%20Webcast)  
+[Rosary](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Rosary&id=11&grupo=Podcast%20%26%20Webcast)  
   
   | 
 
-[Music](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Music&id=11&grupo=Podcast%20&%20Webcast)  
+[Music](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Music&id=11&grupo=Podcast%20%26%20Webcast)  
   
 Think & Learn
 
 |   | 
 
-[Education](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Education&id=8&grupo=Think%20&%20Learn)  
+[Education](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Education&id=8&grupo=Think%20%26%20Learn)  
   
 ---|---  
   | 
 
-[Environment](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Environment&id=8&grupo=Think%20&%20Learn)  
+[Environment](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Environment&id=8&grupo=Think%20%26%20Learn)  
   
   | 
 
-[Islam Facts](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Islam%20Facts&id=8&grupo=Think%20&%20Learn)  
+[Islam Facts](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Islam%20Facts&id=8&grupo=Think%20%26%20Learn)  
   
   | 
 
-[Pope](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Pope&id=8&grupo=Think%20&%20Learn)  
+[Pope](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Pope&id=8&grupo=Think%20%26%20Learn)  
   
-| [In your life Advent is a time for...](https://web.archive.org/encuestas)  
+| [Do you buy Catholic books?](https://web.archive.org/encuestas)  
 ---  
-Social gatherings, shopping, and rush.  
-Putting up Christmas decoration.  
-Preparing my heart to receive the Child Jesus.  
-What is Advent?  
-Other. Tell us in the forums.  
+Often  
+A few times a year  
+Not really  
   
   
 • See Results  
-[• Poll Archives](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=polls)  
+[• Poll Archives](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=polls)  
   
 Info & Resources
 
 |   | 
 
-[Book Club](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Book%20Club&id=10&grupo=Info%20&%20Resources)  
+[Book Club](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Book%20Club&id=10&grupo=Info%20%26%20Resources)  
   
 ---|---  
   | 
 
-[Catholic Directory](https://web.archive.org/web/20081216132359id_/http%3A//www.catholic.net/index.php?option=channel&canal=Catholic%20Directory&id=10&grupo=Info%20&%20Resources)  
+[Catholic Directory](https://web.archive.org/web/20090618004505id_/http%3A//catholic.net/index.php?option=channel&canal=Catholic%20Directory&id=10&grupo=Info%20%26%20Resources)  
   
   | 
 
