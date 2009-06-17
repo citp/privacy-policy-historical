@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100435id_/http%3A//www.fabaaa.com/conditions.php%3FosCsid%3Da28f1c66564e918e5b61e7fb6e70e81d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617080241id_/http%3A//www.fabaaa.com/conditions.php%3FosCsid%3Da5bdcad75e8e8850c725346563b1f2ec) for the most accurate reproduction.*
 
-# FABAAA- Best source for fabulous AAA designer replica handbags & accessories.
+# FABAAA | Best source for fabulous AAA designer replica handbags & accessories.
 
 Privacy 
 
