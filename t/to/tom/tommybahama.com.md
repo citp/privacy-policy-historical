@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133324id_/http%3A//www.tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193529id_/http%3A//tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Tommy Bahama - Privacy Policy
+# Privacy Policy - TommyBahama.com
 
 **Our Commitment to Privacy**
 
