@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailplaneapp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052417id_/http%3A//mailplaneapp.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailplaneapp.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052726id_/http%3A//mailplaneapp.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mailplane
 
