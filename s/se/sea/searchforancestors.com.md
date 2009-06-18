@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216114002id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191809id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -26,22 +26,27 @@ This site contains links to other sites. **Ancestor Search** is not responsible 
 
 ##  Special Relationships 
 
-Some of the advertisements may contain cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs, deliver viruses to your computer, or deliver e-mail spam. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. Cookies received with banner ads may be collected by the ad company to record the number of times an advertisement was shown.  You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
+Some of the advertisements may contain cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs, deliver viruses to your computer, or deliver e-mail spam. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. Cookies received with banner ads may be collected by the ad company to record the number of times an advertisement was shown. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
 
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[ Ancestor Search ](mailto:webmaster@searchforancestors.com) |    
+[ Ancestor Search ](mailto:webmaster@searchforancestors.com)   
+|    
 |  Freebies at Footnote.com   
 ---  
   
   
 
-*   [Footnote.com](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.700229741&type=10&subid=0&u1=sfaadvanced)   **NEW!**   
+*   [Footnote.com](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.700229741&type=10&subid=0&u1=sfaadvanced)   
 Search all the indexed data of every record for free. 
-*   [Free Databases](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.688600412&type=10&subid=0&u1=sfafreedatabases)   **NEW!**   
+*   [Free Databases](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.688600412&type=10&subid=0&u1=sfafreedatabases)   
 View, download, and print the original record from Footnote's free database collection. 
-*   [Free Trial](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.697388383&type=10&subid=0&u1=sfacolumnft)   **NEW!**   
+*   [Free Trial](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.697388383&type=10&subid=0&u1=sfacolumnft)   
 Access every original record on Footnote.com with a free trial.   
   
 Site Features   
@@ -59,3 +64,5 @@ Genealogy software, forms, charts and templates.
 Free genealogy resources: charts, lessons, software, databases, look ups, relationship charts, form letters, translation services. 
 *   [Genealogy Database Free Trials](http://www.searchforancestors.com/freetrials.html)   
 Free trials to genealogy databases such as Ancestry.com and Footnote.com. Why pay when you can view for free? 
+*   [Ancestry.com Coupons & Deals](http://www.searchforancestors.com/ancestrycoupon.html)   
+Special offers, coupons, coupon codes, discounts, sales & deals 
