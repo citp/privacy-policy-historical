@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007065253id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114352id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
 
-# Download MP3 Hits, Download Free MP3s and Legal MP3 Music, Full MP3 Albums Downloads - mp3ninja.com
+# Buy and Download MP3 Hits, Full MP3 Albums Downloads - mp3ninja.com
 
 **We take your privacy seriously.**
 
