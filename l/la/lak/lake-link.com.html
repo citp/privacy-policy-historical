@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lake-link.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217171525id_/http%3A//www.lake-link.com/info/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lake-link.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618173347id_/http%3A//www.lake-link.com/info/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
 
@@ -9,7 +9,7 @@
 	<meta name="Description" content="Lake-Link is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to lake-link.com."> 
 	<meta name="Keywords" content="fishing,information,news,lakes,reports,tackle,forum,forums,chat,fishing reports,lakes,guide,lake maps,maps,topograhic maps,store,trading post,bass,smallmouth bass,largemouth  bass,equipment,gear,wisconsin,illinois,iowa,north dakota,south dakota,michigan,minnesota,ohio,indiana"> 
 	<meta name="robots" content="index,follow">
-	<link rel="SHORTCUT ICON" href="http://www.lake-link.com/favicon.ico">
+	<link rel="shortcut icon" href="http://www.lake-link.com/favicon.ico">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 		
@@ -43,7 +43,7 @@ function openWindow(url,name) {
 }
 	
 function openPrintWindow() {
-  popupWin = window.open('/info/privacy.cfm?browserformat=False&', 'PrintWindow', 'menubar,toolbar,scrollbars,resizable,width=540,height=480,left=100,top=100');
+  popupWin = window.open('/info/privacy.cfm?browserformat=False&amp;', 'PrintWindow', 'menubar,toolbar,scrollbars,resizable,width=540,height=480,left=100,top=100');
 	}	
 </script>	
 <!-- /JS code for Launch Map Viewer & print window button -->	
@@ -112,16 +112,24 @@ function openPrintWindow() {
         _CF_FirstErrorField = null;
 
         //form element loginUsername required check
-        if( !_CF_hasValue(_CF_this['loginUsername'], "TEXT", false ) )
+        if( _CF_hasValue(_CF_this['loginUsername'], "TEXT", false ) )
         {
-            _CF_onError(_CF_this, "loginUsername", _CF_this['loginUsername'].value, "You must enter your Username.");
+            //form element loginUsername 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['loginUsername'].value, true))
+            {
+                _CF_onError(_CF_this, "loginUsername", _CF_this['loginUsername'].value, "You must enter your Email Address to login.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "loginUsername", _CF_this['loginUsername'].value, "You must enter your Email Address to login.");
             _CF_error_exists = true;
         }
 
         //form element loginPassword required check
         if( !_CF_hasValue(_CF_this['loginPassword'], "PASSWORD", false ) )
         {
-            _CF_onError(_CF_this, "loginPassword", _CF_this['loginPassword'].value, "You must enter your Password.");
+            _CF_onError(_CF_this, "loginPassword", _CF_this['loginPassword'].value, "You must enter your Password to login.");
             _CF_error_exists = true;
         }
 
@@ -206,11 +214,11 @@ function openPrintWindow() {
 <table style="100%;" cellpadding="0" cellspacing="0" align="center" border="0">
 <tbody><tr>
 	<td style="width:1px;"><img src="/images/spacer.gif" alt="" height="103" width="1"></td>
-	<td><a href="/"><img src="/images/logos/LakeLinkv2TMweb.gif" alt="" hspace="10" border="0" width="282" height="67"></a>	</td>
+	<td><a href="/"><img src="/images/logos/LakeLinkv2TMweb.gif" alt="" hspace="10" vspace="0" border="0" width="282" height="67"></a>	</td>
 	<td> 
-<a href="/_redirect/track.cfm?AdID=1211&amp;SiteURL=http://www.wibigfish.com/forum/forumdisplay.php?f=36" title="2009 Ice Fishing School" target="_blank"><img src="/images/ad_banners/ericHaataja2009IceFishingSchool.jpg" alt="2009 Ice Fishing School" border="0" hspace="2" vspace="5"></a>
+<a href="/_redirect/track.cfm?AdID=1387&amp;SiteURL=http://www.theboatdoc.com" title="The Best Service and Pricing GUARANTEED!" target="_blank"><img src="/images/ad_banners/theBoatDoc_spring2009_top.gif" alt="The Best Service and Pricing GUARANTEED!" border="0" hspace="2" vspace="5"></a>
 </td>
-	<td align="center" style="padding-right:10px;width:160px;"><!-- insert sponsor logo --><span style="font-size:9px;color:#ffffff;font-weight:bold;">Brought to you by:</span><br><a href="/_redirect/track.cfm?BusinessID=698&amp;GoToPage=http://www.chevy.com&amp;clickSource=SponsorLogo" target="_blank"><img src="/_assets/display_sponsorlogo.cfm?SponsorID=13&amp;txtSponsorLogoDisplay=SponsorLogo_Chevrolet.gif" border="0" hspace="2" alt="Chevrolet"></a><img src="http://ad.doubleclick.net/ad/N3880.SD132137.3880/B2505217.17;dcove=o;sz=1x1;ord=[timestamp]?" border="0" width="1" height="1" alt="Click Here"></td>
+	<td align="center" style="padding-right:10px;width:160px;"><!-- insert sponsor logo --><span style="font-size:9px;color:#ffffff;font-weight:bold;">Brought to you by:</span><br><a href="/_redirect/track.cfm?BusinessID=698&amp;GoToPage=http://www.chevydealer.com&amp;clickSource=SponsorLogo" target="_blank"><img src="/_assets/display_sponsorlogo.cfm?SponsorID=13&amp;txtSponsorLogoDisplay=SponsorLogo_Chevrolet.gif" border="0" hspace="2" alt="Chevrolet"></a><img src="http://ad.doubleclick.net/ad/N3880.SD132137.3880/B2505217.17;dcove=o;sz=1x1;ord=[timestamp]?" border="0" width="1" height="1" alt="Click Here"></td>
 </tr>
 </tbody></table>
 		
@@ -298,6 +306,8 @@ function openPrintWindow() {
 		<div style="background-color:#484848;color:#ffffff;height:7px;border-bottom:solid 1px #000000;">&nbsp;</div>
 	
 		<a href="/boards/forums/index.cfm?ThreadTypeID=38">General Fishing Discussion</a>
+	
+		<a href="/boards/forums/index.cfm?ThreadTypeID=43">Canadian Reports/Discussion</a>
 	
 		<a href="/boards/forums/index.cfm?ThreadTypeID=7">Fishing Equipment</a>
 	
@@ -495,7 +505,7 @@ function openPrintWindow() {
 		<a href="/contactus/">Contact Lake-Link</a>
 </div>	
 
-		
+
 	
 <script type="text/javascript">
 cssdropdown.startchrome("chromemenu")
@@ -636,7 +646,7 @@ If you have any questions about our Site or this Privacy Policy, please <a href=
 <table cellpadding="0" cellspacing="0" border="0" align="center">
 <form name="login" id="login" action="/info/privacy.cfm?" method="Post" onsubmit="return _CF_checklogin(this)"></form>
 <tbody><tr>
-	<td><span class="Size11">Username:</span></td>
+	<td><span class="Size11">Email Address:</span></td>
 </tr>
 <tr>
 	<td><input name="loginUsername" id="loginUsername" type="text" style="width:140px;"></td>
@@ -651,18 +661,21 @@ If you have any questions about our Site or this Privacy Policy, please <a href=
 	<td colspan="2" valign="top"><input name="ysnRememberMe" id="ysnRememberMe" type="checkbox" value="1"><span class="fs90">&nbsp;Remember me</span></td>
 </tr>
 <tr>
-	<td colspan="2"><input name="submit" id="submit" type="submit" value="LOGIN" style="width:50px;font-size:11px;">&nbsp;<a href="/login/forgot.cfm" class="LoginBoxLinks" style="font-size:11px;">Forgot password?
-</a></td></tr>
+	<td colspan="2"><input name="submit" id="submit" type="submit" value="LOGIN" style="width:50px;font-size:11px;">&nbsp;<a href="/login/forgot.cfm" class="LoginBoxLinks" style="font-size:11px;">Forgot password?</a></td>
+</tr>
 
 
 <tr>
-<form></form>
+<form action="get"></form>
 	<td colspan="2" align="center" style="padding-top:5px;"><span class="fs90">Don't have an account?</span><br><input type="button" value="SET UP ACCOUNT" style="width:140px;font-size:11px;color:#660000;font-weight:bold;" onclick="document.location='/register/';"></td>
 
 </tr>
 </tbody></table>
 
 </div></div>
+		
+		
+
 		
 		
 	
@@ -684,11 +697,11 @@ If you have any questions about our Site or this Privacy Policy, please <a href=
 <span style="font-weight:bold;text-decoration:underline;" class="Size11">OUR SPONSORS</span><br>
 <a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=707&amp;goToPage=http://www.berkley-fishing.com/" target="_blank" title="Berkley">Berkley</a><br>
 <a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=698&amp;goToPage=http://www.chevy.com/" target="_blank" title="Chevrolet">Chevrolet</a><br>
-
+<a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=118" target="_blank" title="Frabill">Frabill</a><br>
 <a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=196" target="_blank" title="Jerry's Sport Service">Jerry's Sport Service</a><br>
 <a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=754" target="_blank" title="Outside Hub">Outside Hub</a><br>
 <a class="RightMenu" name="left-navlist" href="/_redirect/track.cfm?BusinessID=167" target="_blank" title="WI Dept. Of Tourism">WI Dept. Of Tourism</a><br>
-<a class="RightMenu" name="left-navlist" href="/yamaha/" title="yamaha Outboards">Yamaha Outboards</a>			
+			
 </div>	
 	
 
@@ -700,7 +713,7 @@ If you have any questions about our Site or this Privacy Policy, please <a href=
 
 <div align="center" style="padding:15px 0px 15px 0px;border-bottom:solid 1px #b4b4b4;">
 	
-<a href="/_redirect/track.cfm?AdID=1193&amp;SiteURL=http://www.eliasonrealty.com/" title="Northern Wisconsin Lake Homes!" target="_blank"><img src="/images/ad_banners/Eliason_LakeHomes_side2.jpg" alt="Northern Wisconsin Lake Homes!" border="0" hspace="0" vspace="5"></a>
+<a href="/_redirect/track.cfm?AdID=1393&amp;SiteURL=http://www.wiscnorthlandoutdoors.com/sportsmenslodge.htm" title="Sportsmen's Lodge" target="_blank"><img src="/images/ad_banners/SportsmensLodge_side.gif" alt="Sportsmen's Lodge" border="0" hspace="0" vspace="5"></a>
 
 </div>
 
@@ -731,6 +744,8 @@ google_ui_features = "rc:0";
 
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>	
+
+
 
 
 	</td>
@@ -765,7 +780,7 @@ google_ui_features = "rc:0";
 
 <span class="footer">
 
-© Copyright 2008 Lake-Link, Inc. All rights reserved.
+© Copyright 2009 Lake-Link, Inc. All rights reserved.
 
 <br>
 No portion of this website can be used or distributed without prior written consent of Lake-Link, Inc. 
