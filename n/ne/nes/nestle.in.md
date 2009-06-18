@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218055330id_/http%3A//www.nestle.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014906id_/http%3A//www.nestle.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Nestlé : Privacy Policy
 
@@ -24,4 +24,4 @@ This Agreement is governed by the laws of the Republic of India. This Agreement 
 
 Please 
 
-[**click here**](https://web.archive.org/web/20081218055330id_/http%3A//www.nestle.in/copyrights.aspx) for copyright. 
+[**click here**](https://web.archive.org/web/20090619014906id_/http%3A//www.nestle.in/copyrights.aspx) for copyright. 
