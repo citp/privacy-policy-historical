@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the cherryculture.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217175027id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cherryculture.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618143011id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>
-						Help zone
-			 :: 					Cherry Culture :: Makeup Cosmetics
-						</title>
+Security and Privacy :: Cherry Culture :: Makeup Cosmetics
+</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Cherry Culture is the new way to buy makeup. Amuse Cosmetics, Beauty Blender, Bloom Cosmetics, Bratz,  Crazy Rumors , Dianne Brill Lip Lingerie, Eyeko Beauty, Freeze 247, Fresh Scents Terri, Girlactik Beauty, Jelly Pong Pong, Juice Beauty, Kitten Vixen, LA Girl, Lucky Chick, Lulu Beauty, Luscious Cosmetics, Me Bath, MOR  Cosmetics, NYX Cosmetics, Pinkie Swear, Playboy Beauty, Pookie, Principessa, Rosie Jane, Splash Cosmetics, Sugar Cosmetics, Sugar Baby, TINte Cosmetics, Wink Beauty.">
 <meta name="keywords" content="cosmetics, makeup, eyeshadow, lip gloss, mascara, glitter, body shimmer, eyeliner, eyelashes, lipstick, nail polish, organic makeup, organic cosmetics, teen makeup, cute makeup, girl makeup, amuse cosmetics , beauty blender , Bloom Cosmetics , Bratz Cosmetics ,  Crazy Rumors , Dianne Brill Lip Lingerie , Eyeko Beauty , Freeze 247 , Fresh Scents by Terri , Girlactik Beauty , Jelly Pong Pong , Juice Beauty , Kitten Vixen , LA Girl , Lucky Chick , Lulu Beauty , Luscious Cosmetics , Me Bath , MOR">
@@ -119,8 +118,52 @@ var x, rg;
 	return lbl;
 }
 
+function formvalidation(form) {
+	if (form.processedby.selectedIndex==0)
+	{
+		alert("Please select the person processing the order!");
+		form.processedby.focus();
+		return false;
+	}
+	else
+	{
+		form.submit();
+	}
+} 
+
+function checkShippingAndWeight(txShipping, txWeight, txPriority)
+{
+	if ((txWeight.value>13)&&(txWeight.value<16))
+	{
+		txWeight.value=13;
+	}
+	if (txShipping.options[txShipping.selectedIndex].value<4)
+	{
+		if (txPriority.value==0)
+		{
+			if (txWeight.value<=13)
+			{
+				txShipping.selectedIndex=1;
+			}
+			else
+			{
+				if (txWeight.value>=18)
+				{
+					txShipping.selectedIndex=3;
+				}
+				else
+				{
+					txShipping.selectedIndex=2;
+					txWeight.value=16;
+				}
+			}
+		}
+	}
+}
+
 -->
 </script>
+
 <table border="0" cellpadding="0" cellspacing="0" align="center"><tbody><tr><td background="/skin1/images/shadow_left.gif"><img src="/skin1/images/spacer.gif" width="10" height="10"></td>
 <td>
 <table border="0" cellpadding="0" cellspacing="0" bordercolor="#FFC7C7" align="center" class="greytable"><tbody><tr><td>
@@ -233,7 +276,6 @@ function TimedHide()
 <option value="55">Blah Blah</option>
 <option value="35">Bloom Cosmetics</option>
 <option value="4">Bratz</option>
-<option value="56">Cherry Culture</option>
 <option value="43">Crazy Rumors</option>
 <option value="26">Eyeko</option>
 <option value="54">Freeze 24.7</option>
@@ -251,18 +293,13 @@ function TimedHide()
 <option value="25">Lulu Beauty</option>
 <option value="24">Luscious</option>
 <option value="45">Me! Bath</option>
-<option value="9">Mool</option>
 <option value="48">MOR Cosmetics</option>
 <option value="10">NYX Cosmetics</option>
 <option value="22">Pinkie Swear</option>
 <option value="38">Playboy Beauty</option>
 <option value="37">Pookie</option>
 <option value="16">Princessa</option>
-<option value="44">Principessa</option>
-<option value="11">Profound</option>
-<option value="21">Rosie Jane</option>
 <option value="58">Sassi</option>
-<option value="17">Santee</option>
 <option value="62">Sinful Colors</option>
 <option value="18">Splash</option>
 <option value="12">Starry</option>
@@ -271,7 +308,6 @@ function TimedHide()
 <option value="32">Sugar Baby</option>
 <option value="34">TINte</option>
 <option value="59">Wild and Crazy</option>
-<option value="23">Wink Beauty</option>
 <option value="14">Zalan</option>
 		  
 		  </select></td>
@@ -353,14 +389,14 @@ Our business changes constantly, and our Privacy Policy and the Terms of Agreeme
             &nbsp;<a href="#" onclick="frm=MM_findObj('formnews'); if (validateEmail(frm.emailnewslist.value, 1, 1)) { frm.submit(); }" class="VertMenuItems">Join</a></form></td>
         </tr>
 		<tr>
-          <td width="100%" height="20" align="center" valign="middle" class="VertMenuItems"><a href="http://www.cherryculture.com/vendor-relations" class="VertMenuItems">Vendor Relations</a> &nbsp;| &nbsp;<a href="http://www.cherryculture.com/wholesale" class="VertMenuItems">Wholesale Program</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/press-and-media" class="VertMenuItems">Press and Media</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/affiliates" class="VertMenuItems">Affiliates</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/sitemap" class="VertMenuItems">Site Map</a></td>
+          <td width="100%" height="20" align="center" valign="middle" class="VertMenuItems"><a href="http://www.cherryculture.com/vendor-relations" class="VertMenuItems">Vendor Relations</a> &nbsp;| &nbsp;<a href="http://www.cherryculture.com/wholesale_program" class="VertMenuItems">Wholesale Program</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/press-and-media" class="VertMenuItems">Press and Media</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/affiliates" class="VertMenuItems">Affiliates</a> &nbsp;|&nbsp; <a href="http://www.cherryculture.com/sitemap" class="VertMenuItems">Site Map</a></td>
         </tr>
 </tbody></table></td>
   </tr>
 </tbody></table>
 <table width="748" align="center">
   <tbody><tr align="center" valign="bottom">
-    <td height="21" colspan="2" valign="bottom" class="Bottom">Copyright © 2006-2008 Cherry Culture ALL RIGHTS RESERVED
+    <td height="21" colspan="2" valign="bottom" class="Bottom">Copyright © 2006-2009 Cherry Culture ALL RIGHTS RESERVED
 </td>
 </tr></tbody></table>
 
