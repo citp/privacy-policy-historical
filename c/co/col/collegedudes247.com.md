@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegedudes247.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053922id_/http%3A//www.collegedudes247.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedudes247.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183011id_/http%3A//www.collegedudes247.com/privacy.asp) for the most accurate reproduction.*
 
-# Gay Porn Movies Videos Photos Pictures Blogs, Men Jerking Off, Gay Sex, Naked College Men at CollegeDudes247
+# CollegeDudes247: Naked College Men, Amateur Hot Guys, Horny Boys, Big Cock, Hardcore Gay Sex
 
 February 4, 2008
 
