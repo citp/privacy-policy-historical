@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218181955id_/http%3A//www.the-amazing.com/%3Fpage_id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091009id_/http%3A//www.the-amazing.com/%3Fpage_id%3D33) for the most accurate reproduction.*
 
-# The-Amazing.com
+# Privacy Policy | The Amazing
 
 the-amazing.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -20,6 +20,3 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
 
 [_cforms_ contact form by delicious:days](http://www.deliciousdays.com/cforms-plugin)
-
-  
-
