@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072704id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletap.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185435id_/http%3A//www.articletap.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleTap
+# hacked By M0µ34d
+
+H4ck3d By M0µ34d  
+!
 
 ArticleTap.com Privacy Policy
 
@@ -49,3 +52,9 @@ This policy and the use of this Site are governed by Colorado law. If a dispute 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+[](http://blog.sjinks.org.ua/)  
+[](http://suncity.in.ua/)  
+[](http://articledirectory.org.ua/)
+
+Powered by [Article Dashboard](http://www.articledashboard.com/)
