@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216235059id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endless.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191748id_/http%3A//www.endless.com/help/200103540) for the most accurate reproduction.*
 
 # Endless.com: Help
 
@@ -37,7 +37,7 @@ The information we learn from customers helps us personalize and continually imp
 
 ## Does Endless.com Share the Information It Receives?
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls.
 
   * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, we will include offerings directly from those businesses on Endless.com. In other cases, we may include joint offerings from Endless.com and these businesses on Endless.com. You can tell when a third party is involved in the offering, and we share customer information related to those offerings with that business. 
   * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
