@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200231id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140949id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
 
-# Search Marketing Now Privacy Policy
+# Privacy Policy
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
@@ -71,18 +71,20 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact "Contact Us") or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
 
-[](http://searchmarketingnow.com/white-papers/9-tips-for-organizing-your-ppc-campaigns)
+### Search SMN
 
-### SMN News & Notices
+## SMN News & Notices
 
 Be notified of new webcasts when they're available! Enter your email address below:
 
 [](http://feeds.searchmarketingnow.com/smnow)  Or be notified via [RSS](http://feeds.searchmarketingnow.com/smnow)
 
+### Track Us Socially
+
+## Sponsor Opportunities
+
+Interested in sponsoring a webcast or whitepaper? [Contact](https://web.archive.org/sales) Sean Moriarty for details.
+
 ### Search Marketing Resources
 
 [](http://searchmarketingexpo.com/)    [](http://sphinn.com/) [](http://searchengineland.com/)
-
-## Exhibitor & Sponsor Opportunities
-
-Interested in sponsoring a webcast? [Contact](https://web.archive.org/sales) Sean Moriarty for details.
