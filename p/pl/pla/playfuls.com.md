@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfuls.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218030436id_/http%3A//www.playfuls.com/page-pp_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfuls.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152425id_/http%3A//www.playfuls.com/page-pp_en.html) for the most accurate reproduction.*
 
 # Playfuls.com - Play your life! - Privacy Policy
 
