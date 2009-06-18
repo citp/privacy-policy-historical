@@ -1,59 +1,83 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2003-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031118091936id_/http%3A//comicbook.com/0/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182514id_/http%3A//comicbook.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Cinescape - Home - Editorial
+# Privacy Policy : Comicbook.com Blog
 
-Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+**COMICBOOK.COM, LLC** **Website Privacy Statement**
 
-What this Privacy Policy Covers 
+This document was last updated on September 22, 2008.
 
-• This Privacy Policy covers Mania Entertainment`s treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment`s services. This policy also covers Mania Entertainment`s treatment of any personally identifiable information that Mania Entertainment`s business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner`s site. 
+**1\. Acknowledgment and acceptance of terms**
 
-• This policy does not apply to the practices of companies that Mania Entertainment does not own or control, or to people that Mania Entertainment does not employ or manage. 
+Comicbook.com, LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Comicbook.com, LLC/Comicbook.com, you acknowledge and fully understand Comicbook.com, LLC’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-Information Collection and Use 
+**2\. Participating Merchant Policies**
 
-• Mania Entertainment collects personally identifiable information when you register for a Mania Entertainment account, when you use certain Mania Entertainment products and services, when you visit Mania Entertainment pages, and when you enter promotions or sweepstakes. Mania Entertainment may also receive personally identifiable information from our business partners. 
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Comicbook.com, LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
 
-• When you register with Mania Entertainment, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Mania Entertainment and sign in to our services, you are not anonymous to us. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "Google"). 
 
-• Mania Entertainment also automatically receives and records information on our server logs from your browser including your IP address, Mania Entertainment cookie information and the page you requested. 
+* Google, as a third party vendor, uses cookies to serve ads on Comicbook.com.  
+* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to Comicbook.com and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google").  
 
-• Mania Entertainment uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
-Information Sharing and Disclosure 
+**3. Information We Collect and How We Use It**
 
-• Mania Entertainment may send personally identifiable information about you to other companies or people when: 
+Comicbook.com, LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-o We have your consent to share the information; 
+**a. ****Web Server Logs**.
 
-o We need to share your information to provide the product or service you have requested; 
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
 
-o We need to send the information to companies who work on behalf of Mania Entertainment to provide offers on special products or services we consider to be of interest to you; 
+  * Your Internet protocol address. 
+  * The kind of browser or computer you use. 
+  * Number of links you click within the site. 
+  * State or country from which you accessed the site. 
+  * Date and time of your visit. 
+  * Name of your Internet service provider. 
+  * Web page you linked to our site from. 
+  * Pages you viewed on the site.
 
-o We respond to subpoenas, court orders or legal process; or 
 
-o We find that your actions on our web sites violate the Mania Entertainment Terms of Use or any of our usage guidelines for specific products or services. 
 
-Cookies 
+**b. Use of Cookies**
 
-• Mania Entertainment may set and access Mania Entertainment cookies on your computer. 
+Comicbook.com, LLC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
-• Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies` use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment`s cookies. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. Comicbook.com, LLC reserves the right to share aggregated site statistics with partner companies.
 
-• Mania Entertainment uses web beacons to access our cookies within and outside our network of web sites and in connection with Mania Entertainment products and services. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-Your Ability to Edit and Delete Your Account Information and Preferences 
+  1. **Personal Information Users**
 
-• Mania Entertainment gives you the ability to edit your Mania Entertainment Account Information and preferences at any time, including whether you want Mania Entertainment to contact you about specials and new products. You may opt-out of receiving these special offers at www.(fill in url).com. 
 
-• You may request deletion of your Mania Entertainment account by visiting our Account Deletion page, verifying your password once more and confirming your choice to terminate the account. Please click here to read about what information may possibly remain in our archived records after your account has been deleted. 
 
-Security 
+Visitors to our website can register. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-• Your Mania Entertainment Account Information is password-protected for your privacy and security. 
+We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-• In certain areas Mania Entertainment uses industry-standard SSL-encryption to protect data transmissions. 
+§ To fulfill your service requests for services.
 
-Changes to this Privacy Policy 
+§ To protect ourselves from liability,
 
-• Mania Entertainment may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+§ To respond to legal process or comply with law, or
+
+§ In connection with a merger, acquisition, or liquidation of the company.
+
+**4. Use of Web Beacons or GIF files**
+
+Comicbook.com, LLC/Comicbook.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Comicbook.com, LLC to count users who have visited those pages and to deliver co-branded services. Comicbook.com, LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Comicbook.com, LLC prohibits Web beacons from being used to collect or access your personal information.
+
+**5\. Accessing Web Account Information**
+
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant –privacy@comicbook.com.
+
+**6. Changes to this Statement**
+
+Comicbook.com, LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+**7\. Contacting Us**
+
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacy@comicbook.com.
