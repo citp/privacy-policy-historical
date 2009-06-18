@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090336id_/http%3A//www.blueman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062822id_/http%3A//www.blueman.com/privacy) for the most accurate reproduction.*
 
 # Blue Man Group :: Privacy Policy
 
@@ -53,3 +53,5 @@ ATTN: Website Administrator.
 
 **Your Acceptance of These Terms:**  
 By using www.blueman.com, you acknowledge and agree to adhere to Blue Man Group's Website Policy and you give us permission to collect and use the personal information you submit to us as per our guidelines. If you do not agree to these terms, please do not use www.blueman.com. Any changes to our Privacy Policy will be posted under the Privacy Policy page. We encourage you to visit this page regularly to look for any updates or changes.
+
+.
