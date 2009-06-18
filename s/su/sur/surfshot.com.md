@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfshot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216084807id_/http%3A//go.surfshot.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfshot.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072526id_/http%3A//go.surfshot.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # SurfShot Privacy Policy
 
