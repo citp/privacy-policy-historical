@@ -1,42 +1,38 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133223id_/http%3A//members1st.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183023id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Members 1st Privacy Policy
 
-Because information is an important part of our business, we understand the importance of the personal information you entrust to us. The following is the privacy statement of Members 1st Federal Credit Union and its affiliated companies that service or have contact with individual members. 
+Information is an important part of our business, and we understand the importance of the personal information you entrust to us. The following is the privacy statement of Members 1st Federal Credit Union. This includes how we collect, use and safeguard your personal financial information. We are required by law to provide this notice, and we gladly do so.
 
-### Member Privacy Is Important To Us
+The types of nonpublic personal information we collect and share depends on the product or service you have with us. This information can include:
 
-At Members 1st FCU, we are committed to providing members with the finest products backed by consistent top-quality service. And while information is fundamental to our ability to do this, we fully recognize the importance of keeping members' personal and account information secure. 
+  * Social Security number and income
+  * Account balances and payment history
+  * Credit history and credit scores
 
-### Our Commitment to Security
 
-Members 1st recognizes how important it is that sensitive information about our members remains confidential. We go to great lengths to safeguard the personal financial information they entrust to us. 
 
-We protect member information from unauthorized access, by maintaining physical, electronic and procedural safeguards that comply with federal regulations to guard your non-public personal information. We actively seek to verify the identity of our members through the use of Personal Identification Numbers (PINs) or other information before assisting them. 
+There are several ways we collect non-public information about you:
 
-We are vigilant in the use of fraud protection measures (including keeping members' PINs, social security and/or Tax ID numbers in the strictest of confidence) in order to protect our members' privacy. 
+  * Applications or other forms for services you request from us;
+  * Transactions with us or others;
+  * Consumer reporting agency
 
-We permit only authorized employees, who are trained in the proper handling of member information, to have access to that information. Employees who violate our confidentiality policies are subject to strict disciplinary action. 
 
-### The Information We Collect
 
-We collect and use member information obtained from applications and account usage, as well as information derived from other sources. This information is used only to the extent needed to conduct our business and to meet our high quality service standards. We only obtain information in accordance with applicable laws and in response to a member's request for any legitimate business purpose(s). 
+We are permitted by law to share your nonpublic information under the following circumstances:
 
-We make every effort to keep member information files complete, up-to-date, and accurate. We regularly tell our members how and where to access their account information to verify its accuracy. When notified of an error, we promptly make the appropriate correction(s). 
+  1. For our everyday business purposes, with outside companies or non-affiliated third parties that participate with us in supplying products and services to members, such as check printers, with credit bureaus and with government entities in responding to subpoenas and other legal processes;
+  2. You specifically authorize us to share your information;
+  3. To process a transaction you request;
+  4. To prevent actual or potential fraud, unauthorized transactions, claims or other liabilities;
+  5. To protect the integrity and security of your records;
+  6. To comply with federal, state, or local laws, rules, regulations, and other applicable legal requirements;
+  7. For our marketing purposes to offer products and services to you. This includes situations where we have entered into agreements with other companies to perform mailing and distribution services. In these situations we require the companies to agree to treat and maintain the privacy of your information with at least the same degree of confidentiality that we employ; and
+  8. To other companies as joint marketers of financial services that we believe may be of benefit to you. These non-affiliated third party companies are not permitted to use our member information for any purposes other than the services intended. We will share your information with these companies only if they agree to treat it confidentially.
 
-### The Information We Share
 
-We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. 
 
-### We Respect Members' Personal Privacy
+Internally, we restrict access to nonpublic personal information about you to those employees who have specific business purposes for using it. Our employees are trained on the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
 
-Even though **Members 1st Federal Credit Union does not share non-public personal information with non-affiliated companies,** we are providing you with the ability to request that you do not receive certain advertising. Presently, members may receive valuable product and service offers from us and/or our well-established affiliates. We carefully develop these offers to meet our standards and to assure that they reach members most likely to take advantage of the opportunity. To do so, we gather information that may indicate financing and investing preferences to create marketing lists. 
-
-At any time, members can contact us to remove their names from these direct marketing, telemarketing and email marketing lists. Members can mail requests for a non-solicitation form to: 
-
-Members 1st FCU  
-Attention: TeleBranch  
-P.O. Box 40  
-Mechanicsburg, PA 17055 
-
-Or email us at AccountInquiries@members1st.org and include their full name and address. 
+At any time, you can contact us to prevent your information from being shared. You can mail your request for a non-solicitation form to Members 1st FCU, Attention TeleBranch, P. O. Box 40, Mechanicsburg, PA 17055 or email us at AccountInquiries@members1st.org and include your full name and address. Before opting out, please consider that by opting out you may be missing out on a chance to learn about some great opportunities regarding benefits of membership and increasing the value you receive from Members 1st Federal Credit Union.
