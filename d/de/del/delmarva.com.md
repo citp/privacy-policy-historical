@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085731id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarva.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150923id_/http%3A//www.delmarva.com/privacy) for the most accurate reproduction.*
 
 # Delmarva Power - Privacy Policy
-
-## Updated November 1, 2005
 
 ### Table of Contents
 
@@ -83,7 +81,7 @@ When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; an
 
 ### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please call us at 1-800-375-7117 or send us an email at [ccare@delmarva.com](mailto:ccare@delmarva.com). 
+Should you have other questions or concerns about this privacy policy, please call us at 1-800-375-7117 or [click here](http://www.delmarva.com/contact/online/default.aspx) to contact us online. 
 
 ### Modification
 
