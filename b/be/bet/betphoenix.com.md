@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912203652id_/http%3A//www1.betphoenix.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618094259id_/http%3A//www.betphoenix.com/privacypolicy) for the most accurate reproduction.*
 
-# BetPhoenix sportsbook, horse racing, casino and promotions | Privacy Policy
+# Privacy Policy
 
 BetPhoenix is respectful to the privacy of our visitors. By reading this Online Privacy Policy carefully you will be aware of the information we gather through this Web site and understand our privacy practices.
 
