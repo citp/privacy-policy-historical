@@ -1,63 +1,10 @@
-> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426032231id_/http%3A//fuckthebabysitter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenysex.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618074404id_/http%3A//teenysex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Internet Media Productions websites
 
 Privacy Policy for "Internet Media Productions" websites  
 
 
-|  Assplundering.com  
-Bjsandwich.com   
-Brutalblowjobs.com  
-Cumswapsluts.com   
-Fromasstomouth.com  
-Whiteboystomp.com  
-Bangmyhotwife.com  
-Teenslutbus.com  
-Dildobrutality.com  
-Girlsthatgush.com   
-Tokyopickups.com   
-Kneehighsox.com  
-Bottomlickers.com  
-Wehuntmilf.com  
-Bottomlickers.com  
-Shemaleaddicts.com  
-Abuseherass.com  
-Realpornaccess.com |  Gapeherass.com  
-Mefuckyoulongtime.com  
-Plugherholes.com  
-Rectalrampage.com  
-Fuckherthroat.com  
-Semenslurpers.com  
-Glamourbadgirls.com  
-Realbighooters.com   
-Fuckthebabysitter.com   
-Barefootbadgirls.com   
-Fuckingabuse.com  
-Wildpornpass.com  
-Smokingfoxes.com  
-Phatbootyhunter.com  
-Slutsonaleash.com   
-Caughtonspycams.com  
-Heelgrabbers.com  
-Doubleplugged.com |  Swallowthisbitch.com  
-Thebestlatinas.com  
-Thebestpov.com  
-Wildhardcore.com  
-Wrongsideoftown.com  
-18inchesofpain.com  
-Wildpass.com   
-Lickthatass.com  
-Stayafterclass.com   
-Shemaleambush.com   
-Sexyroundasses.com  
-Virtualchicks.com  
-Fuckingabuse.com  
-Doubleanalplugged.com  
-Povhardcore.com  
-Messyholes.com  
-Sexycumswappers.com  
----|---|---  
-  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 The Information We Collect: We collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as there username & password if they signup to one of our sites. We do collect users details on the 2nd joinpage of any of our sites but this data is not stored for future use, the customers details are only stored temporaily for use in cascading billing. Sending the data via server scripts from credit card biller 1-2-3. The data is only stored on a permanenet basis if the customer decides to join one of our sites with there credit card, checking account, web900 or dialer.
@@ -89,5 +36,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at [+61 422132100] or send us an email at [[support@wildpass.com](mailto:matt@wildcash.com)].   
+Should you have other questions or concerns about these privacy policies, please send us an email at [[support@wildpass.com](mailto:matt@wildcash.com)].   
 
