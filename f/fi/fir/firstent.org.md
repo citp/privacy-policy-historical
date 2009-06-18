@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014640id_/http%3A//www.firstent.org/beamember-privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174242id_/http%3A//www.firstent.org/beamember-privacy_policy.shtml) for the most accurate reproduction.*
 
 # First Entertainment CU - Privacy Policy
+
+Effective Date: April 2009 
 
 ## First Entertainment Credit Union and Media Benefits Corporation Privacy Policy
 
@@ -84,4 +86,4 @@ Your opt-out will remain effective until revoked in writing. Please note that ev
 
 ## Opt-Out Form
 
-You can [Opt-Out](https://web.archive.org/web/20081218014640id_/http%3A//www.firstent.org/beamember-opt_out_form.shtml) of further credit union communications here. 
+You can [Opt-Out](https://web.archive.org/web/20090618174242id_/http%3A//www.firstent.org/beamember-opt_out_form.shtml) of further credit union communications here. 
