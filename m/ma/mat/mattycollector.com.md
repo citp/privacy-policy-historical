@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattycollector.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120015912id_/http%3A//www.mattycollector.com/store/matty/ContentTheme/pbPage.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattycollector.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014839id_/http%3A//mattycollector.com/store/matty/ContentTheme/pbPage.PrivacyPolicy) for the most accurate reproduction.*
 
 # MattyCollector.com Online Store
 
