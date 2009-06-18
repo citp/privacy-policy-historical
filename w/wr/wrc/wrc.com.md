@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061222id_/http%3A//www.wrc.com/jsp/index.jsp%3Flnk%3D002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105904id_/http%3A//www.wrc.com/jsp/index.jsp%3Flnk%3D002) for the most accurate reproduction.*
 
 # World Rally Championship -
 
@@ -18,6 +18,6 @@ Any information you provide to [http://www.wrc.com](http://www.wrc.com/) will on
 
 You have the right to access your information held by North One TV and where necessary, to have it amended. For more details, please write to Lucie Rutherford at North One TV, Mayward House, 46-52 Pentonville Road, London, N1 9HF
 
- **5\. Links to other websites**
+ **4\. Links to other websites**
 
 This website may from time-to-time contain links to other unrelated sites. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.
