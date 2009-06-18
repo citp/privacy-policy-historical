@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215653id_/http%3A//www.listsomething.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listsomething.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191823id_/http%3A//www.listsomething.com/site/privacy) for the most accurate reproduction.*
 
 # ListSomething.com
 
@@ -55,7 +55,3 @@
   * By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of ListSomething.com we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. 
 
 
-
-* * *
-
-ListSomething.com - Sell, Buy, Rent, Trade, Announce, or Advertise Something in your Community absolutely free!!
