@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223123248id_/http%3A//www.amourangels.com/privacy_policy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourangels.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152354id_/http%3A//www.amourangels.com/privacy_policy2.html) for the most accurate reproduction.*
 
 # Amour Angels - Exclusive Teen Erotica
 
