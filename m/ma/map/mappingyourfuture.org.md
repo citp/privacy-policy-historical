@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082922id_/http%3A//mappingyourfuture.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072712id_/http%3A//www.mappingyourfuture.org/About/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
