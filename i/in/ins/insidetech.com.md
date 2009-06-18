@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2008-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081110164540id_/http%3A//www.insidetech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081130id_/http%3A//www.insidetech.com/privacy) for the most accurate reproduction.*
 
-# Privacy - InsideTech.com
+# InsideTech.com :
 
 ### Overview
 
@@ -64,7 +64,7 @@ We participate in the Department of Commerce's Safe Harbor Framework arising out
 
 ### Changes to Privacy Statement
 
-If we decide to materially change our Privacy Statement for Monster and InsideTech we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at privacystatement@monster.com or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem. 
+If we decide to materially change our Privacy Statement for Monster and InsideTech we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at info@insidetech.com or call us at 1-800-MONSTER and speak to one of our representatives. We will use commercially reasonable efforts to promptly answer your question or resolve your problem. 
 
 ### Contact Information
 
