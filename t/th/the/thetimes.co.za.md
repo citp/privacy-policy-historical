@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162150id_/http%3A//www.thetimes.co.za/AboutUs/Article.aspx%3Fid%3D483315) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618102647id_/http%3A//www.thetimes.co.za/AboutUs/Article.aspx%3Fid%3D483315) for the most accurate reproduction.*
 
 # The Times - Privacy Policy
 
