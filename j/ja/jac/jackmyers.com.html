@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jackmyers.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218145523id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jackmyers.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618150315id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -27,7 +27,7 @@
 
 
 
-<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=8500371&m=4372&d=228252&p=2152&p=2461&p=3461&p=2802&p=2562&p=2286&p=2811&p=2821&p=2142&p=4639&p=2282&p=2147&p=2167&p=2807&p=2157&p=2162"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.6443619458182686&amp;c=8500371&amp;m=4372&amp;d=228252&amp;p=2152&amp;p=2461&amp;p=3461&amp;p=2802&amp;p=2562&amp;p=2286&amp;p=2811&amp;p=2821&amp;p=2142&amp;p=4639&amp;p=2282&amp;p=2147&amp;p=2167&amp;p=2807&amp;p=2157&amp;p=2162"></script>
+<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=8500371&m=4372&d=228252&p=2152&p=5367&p=5357&p=5362&p=2461&p=5452&p=3461&p=2802&p=2562&p=2286&p=2811&p=2821&p=2142&p=4639&p=2282&p=2147&p=2167&p=2807&p=2157&p=2162"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.8128253069475562&amp;c=8500371&amp;m=4372&amp;d=228252&amp;p=2152&amp;p=5367&amp;p=5357&amp;p=5362&amp;p=2461&amp;p=5452&amp;p=3461&amp;p=2802&amp;p=2562&amp;p=2286&amp;p=2811&amp;p=2821&amp;p=2142&amp;p=4639&amp;p=2282&amp;p=2147&amp;p=2167&amp;p=2807&amp;p=2157&amp;p=2162"></script>
 
 
 	<title>Jack Myers - Privacy Policy</title>
@@ -38,7 +38,7 @@
 	
 	-->
 	</style>
-	 <meta name="Description" content="JackMyers.com was rated number one for value by media, advertising and entertainment professionals. The site features exclusive commentators and analysts, market intelligence, visionary insights, reviews and recommendations, media and advertising trends, economic forecasts, television and video content, photo galleries, and social networking. "> 	  <meta name="Keywords" content="Media Futurist, media, advertising, marketing, trends, new media, media spending forecasts, television, advertising forecasts, virtual worlds, media technology, Jack Myers, television upfront, emotional connections, research, Ed Martin, Shelly Palmer"> 
+	 <meta name="Description" content="JackMyers.com was rated number one for value by media, advertising and entertainment professionals. The site features exclusive commentators and analysts, market intelligence, visionary insights, reviews and recommendations, media and advertising trends, economic forecasts, television and video content, photo galleries, and social networking. "> 	  <meta name="Keywords" content="media blog,  media biz, media, advertising, marketing trends, new media, media spending forecasts, television, media technology, Jack Myers, television upfront, emotional connections, research, Shelly Palmer, Mike Shaw "> 
 <script type="text/javascript" src="/g/js/prototype.js"></script>
 <script type="text/javascript">
 
@@ -67,7 +67,7 @@
             		}    
            
 					var myAjax = new Ajax.Request(servlet,
-    					{method: 'post', parameters: queryString, onComplete: handlerFunction}
+    					{method: 'post', postBody: queryString, onComplete: handlerFunction}
 					);
 				}
             }else{
@@ -137,6 +137,27 @@
 			}
 		}
 	}
+	
+	var Ranking = {
+		insertRanking: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
+		},
+		
+		buildRanking: function(response){
+			if(response.success == true){
+				Ranking.success = true;
+				Ranking.objectId = response.objectId;
+				Ranking.type = response.type;
+				Ranking.ipAddress = response.ipAddress;
+				Ranking.rankDate = response.rankDate;
+				Ranking.upRanking = response.upRanking;
+				Ranking.downRanking = response.downRanking;
+			} else {
+				Ranking.error = response.error;
+			}
+		}
+			
+	}
 			
 	var Rating = {
 		addRating: function(form, isAjax, returnFunction){
@@ -148,6 +169,16 @@
 			}
             CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
         },
+        
+        insertRating: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
         
 		buildRating: function(response){
 			if(response.success == true){
@@ -268,6 +299,7 @@
 			}else{
 				addFieldsToForm(form);
 			}
+			UserContent.messages = null;
 			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
 		},
 		
@@ -287,6 +319,7 @@
 				UserContent.status = response.status;
 			} else {
 				UserContent.error = response.error;
+				UserContent.messages = response.messages;
 			}
 		}
 	}
@@ -334,6 +367,9 @@
 				Comment.isAuthor = response.isAuthor;
 				Comment.flagged = response.flagged;
 				Comment.status = response.status;
+				Comment.rating = response.rating;
+				Comment.ratingType = response.ratingType;
+				Comment.commentType = response.commentType;
 				if(Comment.status == "AUTHOR"){
 					Comment.isAuthor = true;
 				} else if(Comment.status != "APPROVED") {
@@ -523,6 +559,10 @@
 		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
 	}
 	
+	function insertRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
+	}
+	
 	function attachAction(form, isAjax, returnFunction, showError){
 		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
 	}
@@ -531,13 +571,12 @@
 		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
 	}
 	
+	function insertRanking(form, isAjax, returnFunction, showError){
+		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
+	}
+	
 	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
-		try{
-			method(form, isAjax, returnFunction);
-		} catch(e) {
-			if(showError) alert(e);
-			alert(msg);
-		}
+		method(form, isAjax, returnFunction);
 		if(isAjax){
 			return false;
 		} else {
@@ -551,13 +590,13 @@
 </head>
 
 <body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900228252";_q+="&7=228252";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900228252";_qc+="&7=228252";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900228252&7=228252&18=0.9364951982034166">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900228252&7=228252&18=0.41244345428372764">
 </noscript>
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
@@ -580,7 +619,18 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 <tr>
 	<!-- start top nav -->
-	<td colspan="3" width="100%" id="nav"><a href="/feeds"><img src="http://media.jackmyers.com/designimages/nav_rss.gif" alt="rss" width="67" height="29" border="0"></a><a href="/"><img src="http://media.jackmyers.com/designimages/nav_1b.gif" alt="home" width="62" height="29" border="0"></a><a href="/commentary/media-business-bloggers"><img src="http://media.jackmyers.com/designimages/nav_2.gif" alt="MediaBizBloggers.com" height="29" border="0"></a><a href="/commentary/media-business-report"><img src="http://media.jackmyers.com/designimages/nav_2c.gif" alt="media business" width="155" height="29" border="0"></a><a href="https://www.myersreport.com"><img src="http://media.jackmyers.com/designimages/nav_4b.gif" alt="media research" width="151" height="29" border="0"></a><a href="http://www.jackmyers.com/about-us/bios/8550962.html"><img src="http://media.jackmyers.com/designimages/nav_4c.gif" alt="Jack Myers bio" height="29" border="0"></a><a href="/commentary/media-spending-forecasts"><img src="http://media.jackmyers.com/designimages/nav_8c.gif" alt="economic forecasts" height="29" border="0"></a> <a href="http://jackmyers.jobwink.com/"><img src="http://media.jackmyers.com/designimages/nav_7c.gif" alt="media jobs" width="111" height="29" border="0"></a></td>
+<td colspan="3" id="nav" width="100%"> 
+<a href="http://www.jackmyers.com/feeds"><img src="http://media.jackmyers.com/designimages/nav_rss.gif" alt="rss" width="67" border="0" height="29"></a><a href="http://www.jackmyers.com/"><img src="http://media.jackmyers.com/designimages/nav_1b.gif" alt="home" width="58" border="0" height="29"></a> 
+<a href="http://www.jackmyers.com/commentary/media-business-bloggers"><img src="http://media.jackmyers.com/designimages/nav_2.gif" alt="MediaBizBloggers.com" width="173" border="0" height="29"></a> 
+
+<a href="https://www.myersreport.com/"><img src="http://media.jackmyers.com/designimages/nav_4b.gif" alt="subscribe" width="85" border="0" height="29"></a> 
+<a href="http://www.jackmyers.com/about-us/bios/8550962.html"><img src="http://media.jackmyers.com/designimages/nav_4c.gif" alt="Jack Myers bio" width="172" border="0" height="29"></a> 
+<a href="http://www.jackmyers.com/commentary/media-spending-forecasts"><img src="http://media.jackmyers.com/designimages/nav_8c.gif" alt="economic forecasts" width="156" border="0" height="29"></a> 
+
+
+<a href="http://jackmyers.jobwink.com/"><img src="http://media.jackmyers.com/designimages/nav_7c.gif" alt="media jobs" width="95" border="0" height="29"></a> 
+<a href="http://www.jackmyers.com/commentary/media-business-bloggers"><img src="http://media.jackmyers.com/designimages/nav_6.gif" alt="MediaVillage" width="103" border="0" height="29"></a> 
+</td>
 	<!-- end top nav -->
 
 </tr>
@@ -632,7 +682,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		
 		<tr>
 			<td colspan="3" align="center">
-			    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard']){ document.write(plpm['Leaderboard']);} else {  if(self['plurp'] && plurp['2142']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2142&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.8531092108376344&amp;p=2142&amp;c=8500371&amp;m=4372&amp;d=228252"></script>			
+			    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard']){ document.write(plpm['Leaderboard']);} else {  if(self['plurp'] && plurp['2142']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2142&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.5305154267107053&amp;p=2142&amp;c=8500371&amp;m=4372&amp;d=228252"></script>			
 			</td>
 		</tr>
 		
@@ -686,11 +736,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				<td width="16%" id="middle_col">
 
 
-		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Wide Skyscraper']){ document.write(plpm['Wide Skyscraper']);} else {  if(self['plurp'] && plurp['2162']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2162&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.9192198241025644&amp;p=2162&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
-		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Skyscraper']){ document.write(plpm['Skyscraper']);} else {  if(self['plurp'] && plurp['2147']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2147&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.0703462354584643&amp;p=2147&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Wide Skyscraper']){ document.write(plpm['Wide Skyscraper']);} else {  if(self['plurp'] && plurp['2162']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2162&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.746353967417869&amp;p=2162&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Skyscraper']){ document.write(plpm['Skyscraper']);} else {  if(self['plurp'] && plurp['2147']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2147&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7505089572360484&amp;p=2147&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
 	</td>
 
 <td width="32%" id="right_col">
+	<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Box']){ document.write(plpm['Box']);} else {  if(self['plurp'] && plurp['2152']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2152&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.6687875207978689&amp;p=2152&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
+	<br>
 <span style="margin-left: 33px;">
 <script type="text/javascript"><!--
 	google_ad_client = "pub-2233113054804064";
@@ -704,25 +756,24 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 </script>
 </span>
 <br>
-    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Box']){ document.write(plpm['Box']);} else {  if(self['plurp'] && plurp['2152']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2152&c=8500371&m=4372&d=228252"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.2069882113502044&amp;p=2152&amp;c=8500371&amp;m=4372&amp;d=228252"></script>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 <div id="mostpopular">
 					
     <img src="http://media.jackmyers.com/designimages/header_mostpopular.gif" alt="most popular" width="300" height="28" border="0">
     
     <ul type="square">
-                                    <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/20562214.html">"Camp Rock" Takes Kids' Music to New Heights</a></li>
-                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/35537949.html">TNT's "Leverage" is the Most Entertaining New Series of the Year</a></li>
-                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/35599229.html">"Boston Legal" Broadcast Blast: David E. Kelley vs. the Networks</a></li>
-                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/35933659.html">NBC and Jay Leno Put Broadcast Television in Play</a></li>
-                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/34741734.html">"24: Redemption" Brings this Sleepy Season to Life</a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+                                    <li><a href="http://www.jackmyers.com/commentary/upfront-calendar/40800387.html">2009 Network Upfront Event Calendar</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/20562214.html">"Camp Rock" Takes Kids' Music to New Heights</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/media-business-bloggers/45410172.html">Which Media Companies Will Fall? - Charlie Warner - MediaBizBlogger</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/47689217.html">Fearless Emmy Advice!</a></li>
+                                                <li><a href="http://www.jackmyers.com/commentary/ed-martin-watercooler/47235087.html">Neil Patrick Harris Steals the Spotlight at the Tony Awards</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
     
 </div>
 
 	
-	    	<script>			
+			<script>			
 function pollSubPop (url, name, widgets ) 
 {
 	popupWin = window.open(url, name, widgets);
@@ -826,7 +877,7 @@ function openPopup(url,name,width,height){
 <tr>
 
 	<td colspan="3" id="footer">
-		<div id="copyright">Copyright 2007 Jack Myers. All Rights Reserved. Site powered by <a href="http://www.clickability.com"><img src="http://media.jackmyers.com/designimages/logo_clickability.gif" alt="clickability" width="63" height="16" border="0"></a></div>
+		<div id="copyright">Copyright 2009 Jack Myers. All Rights Reserved. Site powered by <a href="http://www.clickability.com"><img src="http://media.jackmyers.com/designimages/logo_clickability.gif" alt="clickability" width="63" height="16" border="0"></a></div>
 		<div id="links"><a href="/about-us" id="links2">about us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/advertise" id="links2">advertise</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contact-us" id="links2">contact us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/site-map" id="links2">site map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy" id="links2">privacy policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms" id="links2">terms of use</a></div>
 	</td>
 
