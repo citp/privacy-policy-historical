@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085034id_/http%3A//www.airfarewatchdog.com/tabid/180/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135746id_/http%3A//www.airfarewatchdog.com/tabid/180/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -105,5 +105,5 @@ If you have questions about this Privacy Policy, please contact us at: [privacy@
 
 Smarter Travel Media LLC  
 Attn: Airfarewatchdog.com  
-465 Medford Street, Suite 400  
+500 Rutherford Avenue  
 Boston, MA 02129 ****
