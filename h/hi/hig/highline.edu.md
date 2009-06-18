@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605233439id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090858id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy-Highline Community College, Des Moines, Washington (Community Colleges)
 
-* Introduction
-* Information collected and how it is used
-* Personal information and choice
-* Public access to information
-* Nondisclosure of certain personal information
-* Credit Card Payment
-* Degree Audit
-* Financial Aid Inquiry
-* Hope and Lifetime Learning Tax Credit
-* Registration
-* Registration Appointment
-* Schedule Planner
-* Student Address Change
-* Student PIN Change
-* Student Schedule
-* Unofficial Transcript
-* Library and Electronic Resources
-* Instructional Activities
-* Review and correction of personally identifiable information
-* Cookies
-* Security
-* Disclaimer
-* Highline Community College contact information
+  * Introduction
+  * Information collected and how it is used
+  * Personal information and choice
+  * Public access to information
+  * Nondisclosure of certain personal information
+
+
+  * Credit Card Payment
+  * Degree Audit
+  * Financial Aid Inquiry
+  * Hope and Lifetime Learning Tax Credit
+  * Registration
+  * Registration Appointment
+  * Schedule Planner
+  * Student Address Change
+  * Student PIN Change
+  * Student Schedule
+  * Unofficial Transcript
+  * Library and Electronic Resources
+  * Instructional Activities
+
+
+  * Review and correction of personally identifiable information
+  * Cookies
+  * Security
+  * Disclaimer
+  * Highline Community College contact information
+
+
 
 * * *
 
@@ -209,12 +215,12 @@ Highline Community College may require you to provide certain personal informati
 
 In addition to the previously identified laws and regulations, the following apply:
 
-  * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user. 
+  * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user.
+  * For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
+  * Highline Community College Library [ Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
+  * 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 
-* For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
-* Highline Community College Library [ Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
-* 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 Top of page
 
