@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150525id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105929id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
 
 # Privacy statement of Open House Spain S.L.
 
@@ -15,7 +15,8 @@ Email:
 Postal Address: Open House Spain, S.L.  
 Roger de Lluria 50, 1  
 08009 Barcelona  
-SPAIN
+SPAIN  
+
 
 If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([ _http://www.truste.org/consumers/watchdog_complaint.php_](http://www.truste.org/consumers/watchdog_complaint.php)).TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
