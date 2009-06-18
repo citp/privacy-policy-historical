@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexonline.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621044820id_/http%3A//www.flexonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexonline.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182951id_/http%3A//www.flexonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Flex Online
 
