@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174450id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogulate.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191851id_/http%3A//blogulate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogulate
 
@@ -10,9 +10,9 @@ All web servers track basic information about their visitors. This information i
 
 ### Cookies and Web Beacons
 
-Where necessary, Blogulate uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Blogulate uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
 ### Controlling Your Privacy
 
@@ -20,4 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to me using the `contact` form for further clarification.
+Concerns or questions about this privacy policy can be directed to me using the [contact  form](http://blogulate.com/contact/ "Contact us @ blogulate") for further clarification.
