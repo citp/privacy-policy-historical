@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014152id_/http%3A//www.dealsonwheels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsonwheels.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140942id_/http%3A//www.dealsonwheels.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -32,6 +32,8 @@ DealsOnWheels.com Email Lists:
     Dealer members receive monthly emails informing them of special promotions and advertising tips. Dealers wishing not to receive the mailer can send a request via email to be removed from the mailing list. Private party members automatically receive an email to confirm their placement on our site and to give them the necessary information to edit and delete their classified ads. Private parties also receive notification of ad renewal opportunities. Cox Auto Trader, Inc. reserves the right to include third party advertisements that provide additional services to members in the confirmation emails.
 Third Party Distribution:
     Private party members may receive information directly from third parties that have related services. Private parties that do not wish to receive the third party information can opt-out of the service at the time they place an ad with DealsOnWheels.com. Third parties receive only the needed personal information in order to effectively target members' needs and interests. Third parties have non-exclusive, limited use of the information provided by Cox Auto Trader, Inc. Any right of the third party to distribute, transfer, transmit, or re-sell Cox Auto Trader, Inc.'s information is prohibited.
+Third-party Advertising
+    We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
   5. Data Security 
 
 Personal Information:
