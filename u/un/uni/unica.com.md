@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195531id_/http%3A//www.unica.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618120437id_/http%3A//www.unica.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Unica - Privacy Policy
 
@@ -24,4 +24,4 @@ Unica reserves the right to modify or supplement this Privacy Policy at any time
 For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact Unica's Chief Privacy Officer at [cpo@unica.com](mailto:cpo@unica.com). 
 
 **Copyright**  
-© 2008 Unica Corporation. All rights reserved. Unica and Affinium are registered trademarks of Unica Corporation with the U.S. Patent and Trademark Office. Affinium Campaign, Affinium Campaign Collaborate, Affinium Campaign eMessage, Affinium Campaign Interact, Affinium Campaign Optimize, Affinium Leads, Affinium Model, Affinium Plan, Affinium Mart, Universal Dynamic Interconnect, Interconnect Modules, Marketic, Powering Marketing Innovation, Powering Marketing Success, Customer Value Maximization, MAP, One-to-One Optimization, and Right-time Marketing are trademarks of Unica Corporation. All other trademarks are the property of their respective owners. 
+© 2009 Unica Corporation. All rights reserved. Unica and Affinium are registered trademarks of Unica Corporation with the U.S. Patent and Trademark Office. Affinium Campaign, Affinium Campaign Collaborate, Affinium Campaign eMessage, Affinium Campaign Interact, Affinium Campaign Optimize, Affinium Leads, Affinium Model, Affinium Plan, Affinium Mart, Universal Dynamic Interconnect, Interconnect Modules, Marketic, Powering Marketing Innovation, Powering Marketing Success, Customer Value Maximization, MAP, One-to-One Optimization, and Right-time Marketing are trademarks of Unica Corporation. All other trademarks are the property of their respective owners. 
