@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621041023id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114120id_/http%3A//www.trumba.com/connect/about/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Trumba Website Calendar Software
+# Trumba Privacy Policy
 
 ###### Last Revised: October 18, 2006
 
@@ -64,6 +64,6 @@ If you have any questions or comments about this Policy or the practices relatin
 
 Trumba Corporation  
 Attn: Privacy Policy  
-1200 Fifth Avenue, Suite 1700  
+1200 Fifth Avenue, Suite 1750  
 Seattle, WA 98101   
 
