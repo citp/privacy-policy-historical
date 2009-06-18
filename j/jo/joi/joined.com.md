@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041854id_/http%3A//joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192522id_/http%3A//www.joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
 
-# Joined
+# Professional Profile, Professional Networking | Joined.com
 
 **Joined Software Solutions Inc.’s Privacy Policy**
 
 The following policy sets forth how Joined Software Solutions Inc., ("JSS ") collects, uses and discloses the information about JSS members and their authorized representatives (“Members”) that JSS collects on this website (“Member Information”). This policy applies to [www.joined.com](http://www.joined.com/) and any websites related to operation of the JSS Services (“JSS Services”). By using or accessing JSS’s website, you are accepting the practices described in this Privacy Policy.
+
+  
+
 
 **Information Collected.**  
 During the Member registration, JSS collects identifiable information, including, but not limited to, name, company name, work address, email address, phone number, your address, your gender, schools attended and any other personal or preference information, JSS reasonably requires in order to provide access to JSS’s software applications and services to its Members. Members who use the JSS Services select or are assigned user names and passwords, all of which are used to identify the Members when they are using JSS Services.
@@ -22,6 +25,9 @@ JSS analyzes these logs monthly to determine the traffic through the server duri
 Members post content on the JSS website(s) at their own risk. JSS cannot control the actions of other Members with whom the Member may choose to share pages and information. Therefore, JSS cannot and does not guarantee that Member’s content posted on the JSS’s website (s) will not be viewed by unauthorized persons. Members acknowledge that, even after removal, copies of Member’s content may remain viewable in cached and archived pages or if other Members have copied or stored the Member’s content.
 
 Any improper collection or misuse of information provided on JJS’s website(s) is a violation of the Terms of Service and should be reported to abuse@joined.com
+
+  
+
 
 **Use of Collected Information.**  
 JSS utilizes the information submitted by prospective Members to authenticate and verify the identity of such prospective Members who may be communicating with JSS. JSS will use the information it collects during the registration process, and other information it collects while authenticating the identity of prospective Members to evaluate the Member's application for use of the JSS Services and to conduct security and monitoring.
@@ -47,6 +53,9 @@ JSS may share aggregated Member Information with any third parties. From time to
 **Cookies.**  
 JSS’s Web site(s) may use cookies to recognize each Member as an authorized user of the JSS Services, and allow JSS to provide customized services and improve the performance and usability of our website(s). JSS may offer certain features that are only available through the use of a "cookie". Member is always free to decline our cookies if its browser permits, although in that case such Member may not be able to use certain features on JSS’s website(s). 
 
+  
+
+
 **Member choices regarding collection, use and distribution of Member Information.**   
 By accepting the terms of the terms of use for the JSS Services and becoming a Member, each Member agrees that JSS may collect certain information (as detailed in this Privacy Policy) from and about the Member to authenticate the Member and enroll the Member as a user of the JSS Services. If a prospective Member does not agree to this Privacy Policy, it may not become a Member. 
 
@@ -54,6 +63,14 @@ JSS may offer a Member during registration or, through a follow-on email, the op
 
 **Member Contact.**  
 JSS reserves the right to contact Members regarding account status and changes to the terms of use for the JSS Services, this Privacy Policy, or any other policies or agreements relevant to Members. 
+
+**Google Ads.**  
+Google, as a third party vendor, uses cookies to serve ads on Joined.  
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_cookies.html).
+
+  
+
 
 **Security Precautions.**  
 JSS takes protective measures related to information security within the JSS Services to ensure the confidentiality of sensitive Member Information while stored or in use within the JSS Services.
