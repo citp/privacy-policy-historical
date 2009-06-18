@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the berkeleycollege.edu privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623234013id_/http%3A//berkeleycollege.edu/Privacy_Policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkeleycollege.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618055722id_/http%3A//www.berkeleycollege.edu/Privacy_Policy/index.htm) for the most accurate reproduction.*
 
-# The Berkeley College Internet Privacy Policy
+# Berkeley College - Internet Privacy Policy
 
 _Berkeley College understands that your privacy is important. Therefore, we want you to know what information is collected when you visit the Berkeley College website, and how that information is used._
 
