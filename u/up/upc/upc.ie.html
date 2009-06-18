@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upc.ie privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217231351id_/http%3A//www.upc.ie/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upc.ie privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618143135id_/http%3A//www.upc.ie/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl"><head>
   <title>UPC Ireland - Footer - Chorus ntl: Privacy Policy</title>
@@ -13,7 +13,28 @@
   <link rel="stylesheet" href="style/upc2.css" type="text/css">
   <link rel="stylesheet" href="style/print.css" type="text/css" media="print">
   <link rel="stylesheet" href="style/sIFR-screen.css" type="text/css" media="screen">
-  <link rel="stylesheet" href="style/cs.css" type="text/css">  <script src="js/sifr.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="style/cs.css" type="text/css"><script language="JavaScript">
+<!--
+var host = top.location.host;
+
+if (host == "upciewip.dev.upc.biz")
+{
+	var protocol = top.location.protocol;
+	window.location = protocol + "//wwwupciewip.dev.upc.biz";
+}
+if (host == "upciewip.test.upc.biz")
+{
+    var protocol = top.location.protocol;
+    window.location = protocol + "//wwwupciewip.test.upc.biz";
+}
+if (host == "upc.ie")
+{
+    var protocol = top.location.protocol;
+    window.location = protocol + "//www.upc.ie";
+}
+//-->
+</script>
+  <script src="js/sifr.js" type="text/javascript"></script>
   <script src="js/sifr-addons.js" type="text/javascript"></script>
   <script src="js/tab.js" type="text/javascript"></script>
   <script src="js/swfobject.js" type="text/javascript"></script>
@@ -52,7 +73,7 @@
 			//alert('ieDom: ' + ieDom);
       document.domain = ieDom;
     //var a = new Image();
-    //a.src = 'images/reportpixel.gif?Virtual=privacypolicy/&amp;SessionID=57035cda7f27516e97c7ceaad4723a62';
+    //a.src = 'images/reportpixel.gif?Virtual=privacypolicy/&amp;SessionID=ab23e235b529efc9206dd9a971652d06';
     var b = new Image();
     b.src = 'setjs.php';
           var WebsiteRoot = '/';
@@ -166,7 +187,7 @@ This personal information must be dealt with properly, irrespective of where it 
         <div id="content_bottom"></div>
         <div id="footer">
           <div id="footer">
-        <a href="privacypolicy/">Privacy policy</a>
+    <a href="privacypolicy/">Privacy policy</a>
     <img src="images/upc/footer_line.gif" alt="" width="19" height="10">
     <a href="termsofuse/">Terms of use</a>
     <img src="images/upc/footer_line.gif" alt="" width="19" height="10">
@@ -174,7 +195,7 @@ This personal information must be dealt with properly, irrespective of where it 
     <img src="images/upc/footer_line.gif" alt="" width="19" height="10">
     <a href="acceptableusagepolicy/">Acceptable usage policy</a>
 	  <img src="images/upc/footer_line.gif" alt="" width="19" height="10">
-    <a href="piracy/">Piracy</a>
+    <a href="piracy/">Anti-Piracy</a>
     <img src="images/upc/footer_line.gif" alt="" width="19" height="10">
     <a href="sitemap/">Sitemap</a>
     <div class="clear"></div>
@@ -227,7 +248,7 @@ This personal information must be dealt with properly, irrespective of where it 
 
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-upcchellomedia.hitbox.com";
 
@@ -285,4 +306,29 @@ hbx.pec="";//ERROR CODES
 </script>
 <script language="javascript1.1" type="text/javascript" src="wss/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
+
+<script>
+/*Facilitate*/
+var fd_ref = unescape(document.referrer + '');
+var fd_loc = unescape(document.location + '');
+
+function fd_fn_Query(myQS)
+{
+try{
+return fd_ref.match(new RegExp("\[?&]"+myQS+"=([^&]*)"))[1];
+}catch(e){return "";}
+}
+zFacImg = new Image();
+if(fd_loc.search(/[?&]ps=paidsearch(&.*)?$/i)==-1){
+if (fd_ref.search(/\/\/([^/]*\.)*google\./i)>-1)
+    zFacImg.src = "http://adsfac.eu/link.asp?cc=UIS001.9047.0&clk=1&creativeID=19222&STT="+fd_fn_Query('q');
+else if (fd_ref.search(/\/\/([^/]*\.)*search\.(msn|live)\./i)>-1)
+    zFacImg.src = "http://adsfac.eu/link.asp?cc=UIS001.14622.0&clk=1&creativeID=19222&STT="+fd_fn_Query('q');
+else if (fd_ref.search(/\/\/([^/]*\.)*search\.yahoo\./i)>-1)
+    zFacImg.src = "http://adsfac.eu/link.asp?cc=UIS001.14621.0&clk=1&creativeID=19222&STT="+fd_fn_Query('p');
+}
+
+</script>
+
+
 </body></html>
