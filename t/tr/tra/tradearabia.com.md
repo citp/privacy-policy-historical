@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Trade Arabia - Online business directory with over 200,000 profiles
 
-|  |  |   
----|---  
-  |   
-  
-|  [ ](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/home.htm) |   
----|---  
-  
-|  | 
+| 
 
 |   
 ---  
@@ -65,11 +58,8 @@ Tradearabia.com welcomes your continuous input regarding our Privacy Policy or o
   
 |   
 ---  
-[ ](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/premium/gulfhome.asp)  
-[ ](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/premium/default.asp)  
+[ ](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/premium/gulfhome.asp)  
+[ ](https://web.archive.org/web/20090618135657id_/http%3A//www.tradearabia.com/premium/default.asp)  
    
    
-   
-  
-[Advertising](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/advertise.asp) | [Contact](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/contact.asp) | [ Feedback](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/feedback.asp) | [Privacy Statement](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/privacystatement.asp) | [ Terms of Service](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/general/serviceterms.asp) | [Web Feeds](https://web.archive.org/web/20081216160547id_/http%3A//www.tradearabia.com/rss)  
-Copyright (c) 2008, Al Hilal Publishing & Marketing Group
+ 
