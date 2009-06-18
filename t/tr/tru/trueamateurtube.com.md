@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueamateurtube.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218111224id_/http%3A//www.trueamateurtube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueamateurtube.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142312id_/http%3A//www.trueamateurtube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - True Amateur Tube
 
