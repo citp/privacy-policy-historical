@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093313id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaholic.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618072745id_/http%3A//www.armaholic.com/page.php%3Fid%3D37) for the most accurate reproduction.*
 
-# Privacy statement - Addons, Mods, Files, Missions, Scripts, Demo's, Patches
+# Privacy Policy - Armaholic.com
 
  
 
-**Privacy Statement**
+**Privacy Policy for Armaholic.com**
 
-**Third Party Sites.**  
-If you click on a link to a third party site, including links to an advertisement or an Ad company, you will leave the Armaholic site and go to the site you selected. Because we cannot control the activities of third parties, including service providers, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Armaholic. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to the Armaholic site, you should consult that site’s privacy policy before providing any personal information.
+The privacy of our visitors to Armaholic.com is important to us. 
 
-**What personal information is collected?**  
-Personal information is information that identifies you and may be used to contact you on-line or off-line. Armaholic only collects personal information from our online visitors on a voluntary basis and only during registration. Information collected may include your name, e-mail address, location and birth date. We do not require personal information to obtain access to any of our sites; however, you will not be able to access areas that require registration.
+At Armaholic.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Armaholic.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-**What happens to the information provided?**  
-Armaholic does not disclose any personal information about users who have registered on any of our websites to third parties, regardless of parental consent, or share or disclose personal information, provided however, that in the event of a merger, acquisition, or the unlikely event of bankruptcy, management of Armaholic customer information may be transferred to its successor or assign.
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-**Safeguarding Your Personal Information.**  
-We will only collect and use personal information in accordance with this privacy policy to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity, accuracy and privacy of the information you have provided. 
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as the forums.
+
+We also use third party advertisements on Armaholic.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into the forums or your account. 
