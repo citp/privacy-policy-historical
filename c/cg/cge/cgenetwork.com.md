@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgenetwork.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023420id_/http%3A//cgenetwork.com/CGE_Network_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgenetwork.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140911id_/http%3A//cgenetwork.com/CGE_Network_Privacy_Policy) for the most accurate reproduction.*
 
 # CGE Network - MMO Gaming Zone - Browser Games - Game Downloads - Free RPG Games | CGE Network Privacy Policy - Central Gaming Empire (CGE Network).
 
