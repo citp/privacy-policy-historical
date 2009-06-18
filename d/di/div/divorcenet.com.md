@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103137id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcenet.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014703id_/http%3A//www.divorcenet.com/privacy) for the most accurate reproduction.*
 
-# DivorceNet - DivorceNet Privacy Statement
-
-  
-
+# DivorceNet Privacy Statement — DivorceNet
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of DivorceNet.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Lawtek Media Group, LLC. This statement does not apply to the offline data collection and use practices of Lawtek Media Group, LLC. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Lawtek in other settings.
