@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banknetindia.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015120id_/http%3A//www.banknetindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banknetindia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080919id_/http%3A//www.banknetindia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,13 @@ Unicast (www.unicast.com)
 Dynamic Logic/Safecount (www.safecount.net)   
 Factor TG (www.factortg.com)   
 IAG (www.iagr.com)   
-InsightExpress (www.insightexpress.com) 
+InsightExpress (www.insightexpress.com)   
+Tyroo (www.tyroo.com)  
+Komli (www.komli.com)
 
 Please note that above may not be complete list. Also at our sole discretion, we reserve the right to change this vendors list at any time. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site.Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Collection and Use of Information**
 
@@ -60,4 +64,4 @@ Banknetindia.com is part of BNet India Pvt. Ltd., a Mumbai, India based private 
 
 Thank you for using Banknetindia.com. 
 
-[Go back to our home page.](https://web.archive.org/web/20081218015120id_/http%3A//www.banknetindia.com/index.htm)
+[Go back to our home page.](https://web.archive.org/web/20090618080919id_/http%3A//www.banknetindia.com/index.htm)
