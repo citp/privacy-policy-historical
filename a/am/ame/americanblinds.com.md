@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002100333id_/http%3A//www.americanblinds.com/help/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618084757id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.*
 
-# Friendly Blinds And Wallpaper Help And Information Guide: Best Prices at AmericanBlinds.com
+# American Blinds Wallpaper and More : Resource Center: American Blinds Wallpaper and More
 
-  |  **Click for contents**  
-| **Privacy and Security** This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://www.americanblinds.com/default.asp). The full text of our privacy policy is stated below[](https://web.archive.org/w3c/p3p.xml). Users may go to [our registration section](https://www.americanblinds.com/register/default.asp) to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+**Privacy and Security** This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://www.americanblinds.com/default.asp). The full text of our privacy policy is stated below. Users may go to [our registration section](https://www.americanblinds.com/register/default.asp) to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
 **American Blinds, Wallpaper & More  
 Att: E-Commerce Dept.  
