@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041344id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185731id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Links
 
@@ -18,7 +18,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 The information we collect is used to improve the content of our web pages. 
 
-**With respect to cookies:** We do not set any cookies. 
+**With respect to cookies:** Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have a relationship with Google that allows them to place ads on our web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information when viewing pages that include their advertisements. For further information, consult the privacy policy of Google here: http://www.google.com/privacypolicy.html 
 
