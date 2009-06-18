@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218145514id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140141id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
 
-# HealthPartners - Broker
+# HealthPartners.com - Our Privacy Policy
 
 If you are a member of a HealthPartners health plan, please consult the [Health Plan Privacy Notice](https://web.archive.org/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If you are a self-insured member (that is, if your employer is self-insured), please check with your employer for more information about your employer's health plans privacy practices. 
 
@@ -53,3 +53,5 @@ HealthPartners
 Bloomington, MN 55425 
 
 GP:2279548v1 
+
+ 
