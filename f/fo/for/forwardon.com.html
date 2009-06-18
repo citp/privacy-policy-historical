@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forwardon.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217091337id_/http%3A//www.forwardon.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forwardon.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618191839id_/http%3A//www.forwardon.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -13,8 +13,12 @@
    <link type="text/css" rel="stylesheet" href="./styles/ajaxtabs.css" media="screen">          
    <script type="text/javascript" src="./scripts/global.js"></script>
    <script type="text/javascript" src="./scripts/ajaxtabs.js"></script>
+   <meta name="medium" content="">
+   <link rel="image_src" href="">   
 </head>
-<body class="forwardon">
+<body class="forwardon" id="forwardon_body">
+
+
    <div id="container">
       <div id="header">
          <div id="logo">     
@@ -29,15 +33,15 @@
                -->
                 
                <span id="user-links" style="display:none;">
-                  <a href="list.php?my=true">My Account</a> | 
-                  <a href="invite.php">Invite friends</a> |
+                  <a href="my_account_edit.php">My account</a> | 
+                  <a href="redeem_option.php">My rewards</a> |
                   <a href="lm.php">How it works?</a> | 
                   <a href="logout.php">Logout</a>
                </span>
 
                <span id="anon-links" style="display:inline;">
                   <a href="user_signup.php">SignUp</a> | 
-                  <a href="invite.php">Invite friends</a> |
+                  <a href="redeem_option.php">My rewards</a> |
                   <a href="lm.php">How it works?</a> | 
                   <a href="faqs.php">FAQs</a> |
                   <a href="login.php?ref=login">Login</a>  
@@ -45,11 +49,10 @@
             </div>
 
             <ul id="main-nav">
-               <li><a href="index.php" title="Home">Home</a></li>
-               <li><a href="list.php" title="All Emails">All Emails</a></li>
-               <li><a href="list.php?cat=Video" title="Video Emails">Videos</a></li>   
-               <li><a href="list.php?cat=Image" title="Image Emails">Images</a></li>   
-               <li><a href="redeem_option.php" title="My Points">Rewards</a></li>                 
+               <li><a href="list.php?type=featured&amp;time=all" title="All Posts">What's Hot</a></li>
+               <li><a href="list.php?type=latest&amp;time=all" title="All Posts">What's New</a></li>   
+               <li><a href="ac.php?type=f&amp;my=true" title="My Page">My Page</a></li>   
+               <li><a href="ac.php?fl=1&amp;my=true" title="My Friends">My Friends</a></li>                
             </ul> 
 
              
@@ -62,10 +65,10 @@
          <div class="clear"></div>            
                        
       </div>
-           
+                                                
       <div id="sub-nav">
          <div id="filter-container">
-
+         
          </div>
 
          <div id="search-container">
@@ -79,7 +82,7 @@
             <script type="text/javascript">
             //<![CDATA[
                var search_word = document.getElementById("search_term");
-               var search_text = "Search for Emails";
+               var search_text = "Search";
                if (!search_word.value)
                   search_word.value = search_text;
 
@@ -214,6 +217,7 @@ Please contact us with any questions regarding our privacy policy by emailing us
 
  
 
+
 <script type="text/javascript"><!--
 google_ad_client = "pub-5855087720717956";
 /* 300x250, created 10/29/08 */
@@ -224,6 +228,7 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>   
+
             
 <div class="side-seperator"></div>
               
