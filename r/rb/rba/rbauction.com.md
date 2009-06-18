@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091913id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618111618id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Ritchie Bros. Auctioneers - Privacy Statement
 
@@ -193,7 +193,7 @@ TOP
 
 We take several precautions to protect our users' personal information. When users submit sensitive information, their information is protected both online and off-line. 
 
-When users are asked to enter sensitive information (such as bidding and consigning information) on our website, that information is encrypted and is protected with industry-standard encryption software. While on a secure page, for example, our rbauctionBid - Proxy 'Confirmation - Terms of Bidding and Sale' page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about the encryption software in use on our website, follow this [link ](http://www.w3.org/Security/Faq/www-security-faq.html). 
+When users are asked to enter sensitive information (such as bidding and consigning information) on our web site that information is encrypted and is protected with industry-standard encryption software. While on a secure page, for example, our rbauctionBid - Proxy 'Confirmation - Terms of Bidding and Sale' page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open, when you are just 'surfing'. To learn more about the encryption software in use on our web site follow this [link ](http://www.w3.org/Security/Faq/www-security-faq.html). 
 
 While we use encryption software to protect sensitive information online, we also protect user-information off-line. Access to all of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are required to strictly observe our security and privacy practices. Finally, the servers and backup tapes on which we store personal information are kept in a secure environment. 
 
