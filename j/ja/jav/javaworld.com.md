@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014636id_/http%3A//www.javaworld.com/info/jw-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javaworld.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618082432id_/http%3A//www.javaworld.com/info/jw-privacy.html) for the most accurate reproduction.*
 
 # JavaWorld.com About Us
 
