@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216104734id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618115903id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
 
 # King County Library System -
 
@@ -17,19 +17,14 @@ Thank you for visiting the King County Library Systems Web site. This Privacy St
 
 In order to improve the usefulness of the KCLS Web site for visitors, **anonymous** statistical information is automatically collected from usage reports that concern network traffic flow and volume. 
 
-The information collected consists of:   
-1\. Domain name and IP address of the visitor--enabling KCLS to  
-   troubleshoot issues with the server.
+The information collected consists of: 
 
-2\. Browser being used--enabling us to better understand local  
-   market penetration so we may better design the KCLS page  
-   to take full advantage of browser capabilities.
+  * Domain name and IP address of the visitor--enabling KCLS to troubleshoot issues with the server.
+  * Browser being used--enabling us to better understand local  market penetration so we may better design the KCLS page to take full advantage of browser capabilities.
+  * Default language set on browsers.
+  * Usage patterns--allowing us to see what options need to  move closer to the top to enable users to get information as quickly as possible. 
 
-3\. Default language set on browsers.
 
-4\. Usage patterns--allowing us to see what options need to  
-   move closer to the top to enable users to get information as  
-  quickly as possible. (The tool used to collect this data is HBX from Websidestory.)
 
 To use KCLS databases **remotely** (from outside the Library), users must type in their KCLS library card number, ensuring that King County taxpayers are the only ones benefiting from this information and service. Database vendors do not have access to any user records or information.
 
@@ -53,7 +48,7 @@ Issaquah, WA 98027
 
 Last Updated: 
 
-July 22, 2007
+January 26, 2009
 
   
 
