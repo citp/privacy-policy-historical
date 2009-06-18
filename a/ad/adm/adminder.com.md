@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061253id_/http%3A//www.adminder.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112250id_/http%3A//www.adminder.com/privacy.shtml) for the most accurate reproduction.*
 
 # AdMinder V3.3 Website Advertising Manager - Automated. Proven. Guaranteed.
 
@@ -32,8 +32,8 @@ This web site has security measures in place to protect against loss, misuse and
 AdMinder.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
 1\. Email: [support@adminder.com](mailto:support@adminder.com)  
-2\. Postal Mail: AdMinder.com  3210 E. Chinden Blvd. Suite #115, #425  Eagle ID  83616  
-3\. Telephone: (208) 248-9632  
+2\. Postal Mail: AdMinder.com  1675 Larimer St, Suite 640, Denver CO 80202 USA  
+3\. Telephone: (303) 534-3333  
 4\. Facsimile: (731) 661-0173
 
 **Contacting AdMinder.com**  
