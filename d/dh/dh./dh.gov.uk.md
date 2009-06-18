@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630045138id_/http%3A//www.dh.gov.uk/prod_consum_dh/idcplg%3FIdcService%3DSS_GET_PAGE%26siteId%3Den%26ssTargetNodeId%3D1%26ssDocName%3DDH_4110944) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133509id_/http%3A//www.dh.gov.uk/en/Privacypolicy/DH_4110944) for the most accurate reproduction.*
 
-# DH home : Department of Health
+# Privacy policy : Department of Health - Privacy policy
+
+## Privacy policy
 
   * **Last modified date:**
 
-8 February 2007
+27 November 2008
 
 
 
@@ -35,11 +37,7 @@ If the privacy policy changes in any way, we will place an updated version on th
 
 ### Contacting us
 
-If you have any questions about this privacy statement or the practices of this site, you can contact us through the link below.
-
-  * [Contact us about the privacy policy (opens new window)](mailto:mb-web-team@doh.gsi.gov.uk)
-
-
+If you have any questions about this privacy statement or the practices of this site, please:
 
 ### Glossary of terms
 
