@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultadworld.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081936id_/http%3A//www.adultadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultadworld.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618172817id_/http%3A//www.adultadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Adult AdWorld : Adult Advertising Network : Privacy Statement
 
@@ -13,7 +13,7 @@ Company uses a feature of Internet browsers called a "cookie". Cookies are files
 Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to control the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement.
 
 There are many misconceptions about cookies and web beacons, some of which we will try to clarify. Cookies and web beacons do not tell us an e-mail address or any other personally identifiable information. Company does not and cannot use cookies or web beacons to retrieve personal information from your computer.   
-Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. Company also provides an opt-out cookie to block Company cookie placement.
+Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this.
 
 **Information Collection and Use**
 
