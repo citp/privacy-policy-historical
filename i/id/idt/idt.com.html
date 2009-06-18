@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216030530id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idt.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618192409id_/http%3A//www.idt.com%3Fid%3D101%26source%3Dfooter) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -76,6 +76,8 @@
             }
             return false;
         }else {
+            // run userdefined onSubmit javascript. 
+            pageTracker._trackPageview('/homepage/header/searchbypartno');
             return true;
         }
     }
@@ -117,6 +119,8 @@
             }
             return false;
         }else {
+            // run userdefined onSubmit javascript. 
+            pageTracker._trackPageview('/homepage/header/searchbykeyword');
             return true;
         }
     }
@@ -125,6 +129,18 @@
 </head>
 
 	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+		
+		
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2739089-1");
+	pageTracker._trackPageview();
+	</script>
+
+	
 
 		<div id="container">
 
@@ -137,37 +153,36 @@
 			<div id="header" style="z-index:8000;">
 				<div style="position:absolute; top:0px; left:20px; "><a href="../?source=header"><img src="/images/head/logo.gif" alt="IDT" width="110" height="53" id="logo"></a></div>
 				
-
-				<div style="position:absolute; top:-2px; left:320px; ">
-					<div class="fL" id="lang_nav"><a href="http://www.idt.com" name="&amp;lid=langeng" id="eng"></a>  <a href="http://www.idt.com/china/" name="&amp;lid=langcna" id="cna"></a>  <a href="http://www.idt.com/japan/" name="&amp;lid=langjpn" id="jpn"></a></div>
-				</div>
+					<div style="position:absolute; top:-2px; left:320px; ">
+						<div class="fL" id="lang_nav"><a href="http://www.idt.com" name="&amp;lid=langeng" id="eng"></a>  <a href="http://www.idt.com/china/" name="&amp;lid=langcna" id="cna"></a>  <a href="http://www.idt.com/japan/" name="&amp;lid=langjpn" id="jpn"></a></div>
+					</div>
 				
-					<script language="javascript">
-						   function mOutTimeout(){
-						   			var objText = document.getElementById("headerPartSearchInput");
-						   			if (objText.value == ''){
-						   				objText.value='Search by Part Number';
-						   				objText.blur(); 									
-						   			}
-						   			 
-								  }
-						   function mOutTimeoutQ ()  {	
-						   			var objTextQ = document.getElementById("q");	
-						   			if (objTextQ.value == ''){				   					   		 
-						   				objTextQ.value='Search by Keyword(s)';
-						   				objTextQ.blur(); 								   			
-						   			}
-						   			 
-						   }
-							function mOut(){
+				<script language="javascript">
+					   function mOutTimeout(){
 								var objText = document.getElementById("headerPartSearchInput");
-								if (objText.value == '') { 	setTimeout("mOutTimeout()",5000); }  
-							}
-							function mOutQ(){
-								var objTextQ = document.getElementById("q");
-								if (objTextQ.value == '') { setTimeout("mOutTimeoutQ()",5000); }
-							}
-						</script>
+								if (objText.value == ''){
+									objText.value='Search by Part Number';
+									objText.blur(); 									
+								}
+
+							  }
+					   function mOutTimeoutQ ()  {	
+								var objTextQ = document.getElementById("q");	
+								if (objTextQ.value == ''){				   					   		 
+									objTextQ.value='Search by Keyword(s)';
+									objTextQ.blur(); 								   			
+								}
+
+					   }
+						function mOut(){
+							var objText = document.getElementById("headerPartSearchInput");
+							if (objText.value == '') { 	setTimeout("mOutTimeout()",5000); }  
+						}
+						function mOutQ(){
+							var objTextQ = document.getElementById("q");
+							if (objTextQ.value == '') { setTimeout("mOutTimeoutQ()",5000); }
+						}
+				</script>
 				<div style="position:absolute; top:9px; right:250px; z-index:8001;">
 					
 					<form name="CFForm_1" id="CFForm_1" action="/index.cfm?id=101&amp;source=footer" method="get" onsubmit="return _CF_checkCFForm_1(this)">
@@ -175,34 +190,33 @@
 							<input type="hidden" name="app" value="search">
 							<input type="hidden" name="searchtype" value="partNumber">
 							<input type="hidden" name="source" value="header_search">
-									<div id="headerPartSearchAutoComplete" style="float:left;" class="yui-ac">
-								 
-							<input name="search" type="text" value="Search by Part Number" class="form yui-ac-input" onmouseout="return mOut();" size="25" id="headerPartSearchInput" onfocus="if (this.value == 'Search by Part Number') { this.value=''; }" onblur="return mOut();" autocomplete="off">
-										<div id="headerPartSearchInputContainer" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
-									</div>
-						<a href="" name="&amp;lid=PartSearchGo"></a><input class="searchspacing" type="image" src="/images/head/button_go.gif" onclick=" var searchVal = document.getElementById('headerPartSearchInput').value; if (!searchVal || (searchVal == 'Search by Part Number')) { return false; }; _hbLink('PartSearchGo');">
+							<div id="headerPartSearchAutoComplete" style="float:left;" class="yui-ac">
+								<input name="search" type="text" value="Search by Part Number" class="form yui-ac-input" onmouseout="return mOut();" size="25" id="headerPartSearchInput" onfocus="if (this.value == 'Search by Part Number') { this.value=''; }" onblur="return mOut();" autocomplete="off">
+								<div id="headerPartSearchInputContainer" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+							</div>
+							<a href="/homepage/header/searchbypartno"></a><input type="image" class="searchspacing" src="/images/head/button_go.gif" onclick="var searchVal = document.getElementById('headerPartSearchInput').value; if (!searchVal || (searchVal == 'Search by Part Number')) { return false; }">
 						
 
-									<script type="text/javascript">
-									 var schema = ['Record', 'Key', 'Value'];
-									 var hdrPartDataSrc = new YAHOO.widget.DS_XHR("/search/partNumber/query/qry_getPartsToSuggest.cfm", schema);
-									 hdrPartDataSrc.responseType = YAHOO.widget.DS_XHR.TYPE_XML;
-									 hdrPartDataSrc.scriptQueryAppend = "hide_invalid=1"
-									 var hdrPartAutoComp = new YAHOO.widget.AutoComplete("headerPartSearchInput","headerPartSearchInputContainer", hdrPartDataSrc);
-									 hdrPartAutoComp.queryDelay = .3;
-									 hdrPartAutoComp.prehighlightClassName = "yui-ac-prehighlight";
-									 hdrPartAutoComp.typeAhead = false;
-									 hdrPartAutoComp.useShadow = true;
-									 hdrPartAutoComp.forceSelection = false;
-									 hdrPartAutoComp.autoHighlight = true; //<--markit
-									 //hdrPartAutoComp.useIFrame = true;
-									 hdrPartAutoComp.formatResult = function(oResultItem, sQuery) {
-									 	var sId = oResultItem[0];
-									 	var sTitle = oResultItem[1];
-									 	
-									 	return sTitle;
-									 }
-									</script>
+						<script type="text/javascript">
+						 var schema = ['Record', 'Key', 'Value'];
+						 var hdrPartDataSrc = new YAHOO.widget.DS_XHR("/search/partNumber/query/qry_getPartsToSuggest.cfm", schema);
+						 hdrPartDataSrc.responseType = YAHOO.widget.DS_XHR.TYPE_XML;
+						 hdrPartDataSrc.scriptQueryAppend = "hide_invalid=1"
+						 var hdrPartAutoComp = new YAHOO.widget.AutoComplete("headerPartSearchInput","headerPartSearchInputContainer", hdrPartDataSrc);
+						 hdrPartAutoComp.queryDelay = .3;
+						 hdrPartAutoComp.prehighlightClassName = "yui-ac-prehighlight";
+						 hdrPartAutoComp.typeAhead = false;
+						 hdrPartAutoComp.useShadow = true;
+						 hdrPartAutoComp.forceSelection = false;
+						 hdrPartAutoComp.autoHighlight = false; //<--markit
+						 //hdrPartAutoComp.useIFrame = true;
+						 hdrPartAutoComp.formatResult = function(oResultItem, sQuery) {
+							var sId = oResultItem[0];
+							var sTitle = oResultItem[1];
+
+							return sTitle;
+						 }
+						</script>
 								
 					</form>
 
@@ -217,7 +231,7 @@
 						<input type="hidden" name="searchType" value="keyword">
 						<input type="hidden" name="search" value="">
 						
-							<input type="hidden" name="userID" value="22664965">
+							<input type="hidden" name="userID" value="">
 							<input type="hidden" name="entqr" value="0">
 							<input type="hidden" name="output" value="xml">
 							<input type="hidden" name="sort" value="date%3AD%3AS%3Ad1">
@@ -227,9 +241,9 @@
 							<input type="hidden" name="ie" value="UTF-8">
 							
 							<input type="hidden" name="site" value="default_collection">
-							<input name="q" type="text" value="Search by Keyword(s)" class="form" onmouseout="return mOutQ();" size="25" id="q" onfocus="this.value='';" onblur="return mOutQ();"> 
-						<a href="" name="&amp;lid=GoogleMiniSearchGo"></a><input type="image" class="searchspacing" src="/images/head/button_go.gif" onclick="_hbLink('GoogleMiniSearchGo')">
-					</form>
+							<input name="q" type="text" value="Search by Keyword(s)" class="form" onmouseout="return mOutQ();" size="25" id="q" onfocus="this.value='';" onblur="return mOutQ();">
+							<a href="/homepage/header/searchbykeyword"></a><input type="image" class="searchspacing" src="/images/head/button_go.gif" onclick="var searchVal = document.getElementById('q').value; if (!searchVal || (searchVal == 'Search by Keyword(s)')) { return false; }">
+						</form>
 
 					
 				</div>
@@ -326,32 +340,13 @@
 	<div class="bars" style="clear:both;">
 		<div id="footer">
 			<div class="foothr"><img src="/images/foot/spacer-hr.gif" width="994" height="1"></div>
-			<div class="footlnk"><a href="/?source=footer">Home</a> &nbsp;|&nbsp; <a href="/?app=siteMap&amp;source=footer">Site Map</a> &nbsp;|&nbsp; <a href="/?id=101&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu7, '150px')" onmouseout="delayhidemenu()">Legal</a> &nbsp;|&nbsp; <a href="/?id=11&amp;source=footer">Careers</a> &nbsp;|&nbsp; <a href="/?id=8&amp;source=footer">Contact Us</a> &nbsp;|&nbsp;   <a href="/?app=register&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu8, '200px')" onmouseout="delayhidemenu()">Quality</a> &nbsp;|&nbsp; <a href="/rss.cfm?id=101" onclick="return show_hide_box(this,180,150,'1px solid');"><img src="/ui/images/rssButton.gif" alt="Click here to receive this page as an RSS feed" border="0"></a> <a href="##" onclick="window.open('/ui/whatIs_RSS.cfm','WhatIs_RSS','width=520,height=350,left=200,top=200,scrollbars=1');">What is this?</a> &nbsp;</div>
-			Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright © 1997-2008 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
+			<div class="footlnk"><a href="/?source=footer">Home</a> &nbsp;|&nbsp; <a href="/?app=siteMap&amp;source=footer">Site Map</a> &nbsp;|&nbsp; <a href="/?id=101&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu7, '150px')" onmouseout="delayhidemenu()">Legal</a> &nbsp;|&nbsp; <a href="/?id=11&amp;source=footer">Careers</a> &nbsp;|&nbsp; <a href="/?id=8&amp;source=footer">Contact Us</a> &nbsp;|&nbsp; <a href="/?app=register&amp;source=footer" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu8, '200px')" onmouseout="delayhidemenu()">Quality</a> &nbsp;</div>
+			Use of this website signifies your agreement to the <a href="/?id=101&amp;source=footer">acceptable use and privacy policy</a>. Copyright © 1997-2009 Integrated Device Technology, Inc. <a href="/?id=7&amp;source=footer">All Rights Reserved.</a>
 		</div>
 		<div class="bars"><img src="/images/foot/corner-l.gif" width="10" height="8"><img src="/images/foot/spacer-g.gif" width="974" height="8"><img src="/images/foot/corner-r.gif" width="10" height="8"></div>
 		<div class="bars"><img src="/images/global/margin.gif" width="994" height="5"></div>
 	</div>
 </div>
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2739089-1");
-pageTracker._trackPageview();
-</script>
-
 
 
 
