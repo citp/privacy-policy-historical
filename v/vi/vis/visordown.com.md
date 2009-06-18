@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180306id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142100id_/http%3A//www.visordown.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Visordown - Privacy Policy
-
-|   
----  
-**Sign up today and you could win a Duke DVD. We've got one to give away every month!**  
-[why join?](https://web.archive.org/members/whyjoin.asp?sp=&v=1)    
-  
-| **1029** Total Reviews  
----|---  
-  
-| **5066671** Total Messages  
----|---  
-  
-"The best features from 7 years of TWO magazine"  
----  
-  
-[](http://www.visordown.com/defaultBIKEREVIEWS.asp?sp=&v=5)   
-Click here for over 450 bike reviews. Add your experiences and upload images of your bike! Woo hoo!
 
 |   
 ---  
@@ -49,6 +32,4 @@ You should be aware that if we are requested by the police or any regulatory or 
 
 In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
   
-[](http://www.visordown.com/two/)
-
-Exclusive Rossi interview, we ride with Prince William & Harry, GS1150 Buyer's Guide, Street Triple R, Win a Ducati 848 
+Shopping Partners Shopping Partners 
