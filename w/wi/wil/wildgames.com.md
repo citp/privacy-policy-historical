@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the wildgames.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315130255id_/http%3A//www.wildtangent.com/default.asp%3FpageID%3Dprivacy_WT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildgames.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062947id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
 
-# WildTangent - Leading Online Game Publishing
+# WildTangent: Privacy Policy
 
-**WILDTANGENT  
-PRIVACY POLICY**
-
-This Privacy Policy applies to the following: The websites [http://www.wildgames.com](http://www.wildgames.com/), [http://forum.wildtangent.com](http://forum.wildtangent.com/), [http://hp.wildgames.com](http://hp.wildgames.com/) and [http://www.wildtangent.com](http://www.wildtangent.com/), the WildGames console product, the WildGame Game Channel product, our games and other content products, and our Web Driver.
-
-**Our Commitment To Privacy**
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, WildGames console, Web Driver, GameChannel and at every point where personally identifiable information may be requested. Please understand that by accessing or using our website(s), WildGames console product, content products, Web Driver (a media player), or GameChannel you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us [here](http://www.wildtangent.com/default.asp?pageID=contactform_privacy).
-
-**The Information We Collect And How It Is Used:**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, WildGames console, Web Driver, GameChannel and at every point where personally identifiable information may be requested. Please understand that by accessing or using our website(s), WildGames console product, content products, Web Driver (a media player), or GameChannel you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us [here](https://web.archive.org/contact/privacyquestions).
 
 **_1) Website(s):_**
 
@@ -21,9 +12,9 @@ On some pages, you can submit information about other people. For example, if yo
 
 We do store your personally identifiable information in a secure manner, and also use Secure Sockets Layer encrypted connections to transmit your payment-related personally identifiable information to further protect its privacy. We may also collect unique usage information, which does NOT include personally identifiable information, to assist us in understanding our customers' use patterns and for use in developing new products and services.
 
-**_2) WildGames Console Product & GameChannel_**
+**_2) WildGames Console Product &GameChannel_**
 
-The following applies to our WildGames console product & GameChannel, which are game download managers and message services that we make available to our customers. They are designed to enable all users to reliably download and play games. Customers may obtain the WildGames console and GameChannel by choosing to download and install it from our website(s). If you elect the option of installing the WildGames console or GameChannel, your computer will automatically connect to our servers (if you are already connected to the Internet) when you launch the program to receive the latest information about games as they become available from WildTangent along with any WildGames console or GameChannel program updates. 
+The following applies to our WildGames console product&GameChannel, which are game download managers and message services that we make available to our customers. They are designed to enable all users to reliably download and play games. Customers may obtain the WildGames console and GameChannel by choosing to download and install it from our website(s). If you elect the option of installing the WildGames console or GameChannel, your computer will automatically connect to our servers (if you are already connected to the Internet) when you launch the program to receive the latest information about games as they become available from WildTangent along with any WildGames console or GameChannel program updates. 
 
 To help ensure that the WildGames console and GameChannel operate error free, they will collect and report anonymous information necessary to ensure reliable delivery of downloaded games and game content. This information may include data about whether or not content download and installation was successful, game session length (for trial versions), and WildGames console session length. 
 
@@ -99,7 +90,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How Do I Learn About Changes To This Privacy Policy?**
 
-We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of our website, WildGames console, GameChannel, content products, or Web Driver will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on <http://www.wildtangent.com/privacy>
+We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of our website, WildGames console, GameChannel, content products, or Web Driver will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on <http://www.wildtangent.com/privacy>.
 
 **Choice:**
 
@@ -113,5 +104,4 @@ While we strive for error free performance, we cannot always catch an unintended
 
 Should a customer ever have a privacy complaint, WildTangent has agreed to participate in the Better Business Bureau's Privacy Dispute Resolution system. More information about this program may be obtained at [http://www.bbbonline.org](http://www.bbbonline.org/). 
 
-Privacy Statement Effective Date: October 4, 2005   
-
+Privacy Statement Effective Date: October 4, 2005 
