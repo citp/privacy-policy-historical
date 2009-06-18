@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024951id_/http%3A//www.alfred.com/alfredweb/front/General.aspx%3Fpageid%3D285) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618051320id_/http%3A//alfred.com/alfredweb/front/General.aspx%3Fpageid%3D285) for the most accurate reproduction.*
 
-# Alfred Publishing | Privacy Policy
+# Alfred Music Publishing | Privacy Policy
 
   
 
