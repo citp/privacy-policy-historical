@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155238id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165212id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Chords Tabs Lyrics | GuitarTutee | Guitar Tutorial Videos, Chords, Tabs, Lyrics. Sing With Us.
 
-## [Privacy Policy](http://www.guitartutee.com/guitartutee/gt-news/privacy-policy/ "Permanent Link to Privacy Policy")
-
-Posted on 12 August 2007 
-
 _information_  
 GuitarTutee is continuously committed to protecting the privacy of it’s visitors. We do not sell, distribute or give out any of our visitors information. The following discloses how information is collected and used on and throughout our web site. Aside from the case where you explicitly give permission to provide your contact information to a third party, any personal information you provide on this site will only be known to yourself and GuitarTutee. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 _personal information and demographics_  
 GuitarTutee does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address, unless you actively provide this by filling out registration forms. 
@@ -24,6 +22,4 @@ _disclaimer_
 This site contains links to other sites and GuitarTutee can not be held responsible for the privacy practices or the content of such sites. 
 
 _further information_  
-If you have additional questions regarding your privacy on GuitarTutee, feel free to contact us by going to the Contact Page.
-
-### Leave a Reply
+If you have additional questions regarding your privacy on GuitarTutee, feel free to contact us by going to the Contact Page. 
