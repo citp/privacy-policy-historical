@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090309id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142323id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | BlueTie, Inc.
 
@@ -82,6 +82,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Policy  
 BlueTie, Inc.  
-1050 Pittsford Victor Road  
-Pittsford, NY 14534  
+220 Kenneth Drive  
+Rochester, NY 14623  
 Or, you may [contact us](http://support.bluetie.com/node/829 "Support Center") by email.
