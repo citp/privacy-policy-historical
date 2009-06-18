@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the writersdigest.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216163822id_/http%3A//www.writersdigest.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the writersdigest.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618114409id_/http%3A//writersdigest.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Writer’s Digest - Privacy Policy</title>
@@ -24,8 +24,8 @@
 <!-- BEGIN ARTISTS NETWORK RICH-MEDIA BURST! CODE -->	
       <script language="JavaScript">
         rnum=Math.round(Math.random() * 100000);
-        document.write('<SCR'+'IPT SRC="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/RS=234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=WDGPrivacy_Policy,NOFORUM/V=3.0R/'+rnum+'/CNW/RETURN-CODE/"></SCR'+'IPT>');
-      </script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/RS=234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=WDGPrivacy_Policy,NOFORUM/V=3.0R/87756/CNW/RETURN-CODE/"></script>					
+        document.write('<SCR'+'IPT SRC="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/RS=1X1A-234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=WDGPrivacy_Policy,NOFORUM/V=3.0R/'+rnum+'/CNW/RETURN-CODE/"></SCR'+'IPT>');
+      </script><script src="http://ads.addesktop.com/cgi-bin/ads/ad12946bc.cgi/RS=1X1A-234X60A-300X250A-300X250B-468X60A;728X90A-468X60B;728X90B-120X240A-120X240B;120X600B;160X600B-125X125A-125X125B-125X125C-125X125D-125X125E/KW=WDGPrivacy_Policy,NOFORUM/V=3.0R/48471/CNW/RETURN-CODE/"></script>					
     <!-- END ARTISTS NETWORK BURST CODE -->
 
 
@@ -56,6 +56,53 @@
         }
         return true; 
       } 
+
+function Set_Cookie( name, value, expires, path, domain, secure ) 
+
+{
+// set time, it's in milliseconds
+var today = new Date();
+today.setTime( today.getTime() );
+
+/*
+if the expires variable is set, make the correct 
+expires time, the current script below will set 
+it for x number of days, to make it for hours, 
+delete * 24, for minutes, delete * 60 * 24
+*/
+
+if ( expires )
+{
+ expires = expires * 1000 * 60 * 60 * 24;
+}
+
+var expires_date = new Date( today.getTime() + (expires) );
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+( ( path ) ? ";path=" + path : "" ) + 
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+
+ 
+// this function gets the cookie, if it exists
+function Get_Cookie( name ) 
+{     
+      var start = document.cookie.indexOf( name + "=" );
+      var len = start + name.length + 1;
+      if ( ( !start ) &&      ( name != document.cookie.substring( 0, name.length ) ) )
+      {
+            return null;
+      }
+      if ( start == -1 ) 
+            return null;
+      var end = document.cookie.indexOf( ";", len );
+      if ( end == -1 ) 
+            end = document.cookie.length;
+      return unescape( document.cookie.substring( len, end ) );   
+}
+
+
     //--></script>
 
     
@@ -147,6 +194,8 @@ draw_468X60A_728X90A();
     <div class="flr"><img src="/upload/images/Header/service_menu_right.gif" alt="." width="6" height="17" border="0"></div>
     <div class="fll"><img src="/upload/images/Header/service_menu_left.gif" alt="." width="8" height="17" border="0"></div>  
 
+    <a href="/WritersMart/">SERVICES FOR WRITERS</a>
+<span>|</span>
     <a href="/OnlineWorkshops/">ONLINE WORKSHOPS</a>
 <span>|</span>
     <a href="/WritersMarket/">WRITER'S MARKET</a>
@@ -165,8 +214,9 @@ draw_468X60A_728X90A();
         <tr><td>
           <div id="Header">
             
-<form method="post" action="/googlesearch/" id="searchForm">
-  <input type="text" size="255" class="input" onfocus="if (this.value == 'Enter keyword(s)') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter keyword(s)'; }" name="SearchString" value="Enter keyword(s)"><input type="submit" value="SEARCH" class="button" style="cursor:pointer;">
+<form method="get" action="/googlesearch/" id="searchForm">
+<input type="text" size="255" class="input" onfocus="if (this.value == 'Enter keyword(s)') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter keyword(s)'; }" name="SearchString" value="Enter keyword(s)">
+<input type="submit" value="SEARCH" class="button" style="cursor:pointer;">
 </form>
 
 	    <div class="Banner">
@@ -188,13 +238,13 @@ draw_234X60A();
 
     <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('3270')" onmouseout="MenuItemOut();" href="/GetPublishedCategory/">Get Published</a></td>
 <td style="color:#FFFFFF;">|</td>
-    <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('3611')" onmouseout="MenuItemOut();" href="/WriteBetterCategory/">Write Better</a></td>
+    <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('14477')" onmouseout="MenuItemOut();" href="/WriteBetterCategory/">Write Better</a></td>
 <td style="color:#FFFFFF;">|</td>
     <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('3617')" onmouseout="MenuItemOut();" href="/GetCreative/">Get Creative</a></td>
 <td style="color:#FFFFFF;">|</td>
     <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('3618')" onmouseout="MenuItemOut();" href="/TipsPrompts/">Tips &amp; Prompts</a></td>
 <td style="color:#FFFFFF;">|</td>
-    <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('6494')" onmouseout="MenuItemOut();" href="/conferencescene/">Conference Scene</a></td>
+    <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('6494')" onmouseout="MenuItemOut();" href="/conferencescene/">Conferences/Events</a></td>
 <td style="color:#FFFFFF;">|</td>
     <td class="Item" style="text-transform:uppercase;"><a onmouseover="MenuItemOver('3619')" onmouseout="MenuItemOut();" href="/Community/">Community</a></td>
 <td style="color:#FFFFFF;">|</td>
@@ -244,7 +294,7 @@ draw_234X60A();
 
 
 
-<div id="submenu_3611" style="display: none;" class="Item">
+<div id="submenu_14477" style="display: none;" class="Item">
 
 <a href="/ArticlesFeatures_WB/">Articles/Features </a>
 
@@ -266,7 +316,7 @@ draw_234X60A();
 
 <div class="separator"><strong>|</strong></div>
 
-<a href="/101BestSites/">101 Best Sites </a>
+<a href="/webinars/">Webinars </a>
 
 </div>
 
@@ -306,7 +356,11 @@ draw_234X60A();
 
 <div class="separator"><strong>|</strong></div>
 
-<a href="/university/">Writer's Digest University </a>
+<a href="/writersdigestconference/">Writer's Digest Conference </a>
+
+<div class="separator"><strong>|</strong></div>
+
+<a href="/events/">Editor Intensives </a>
 
 <div class="separator"><strong>|</strong></div>
 
@@ -314,15 +368,11 @@ draw_234X60A();
 
 <div class="separator"><strong>|</strong></div>
 
-<a href="/bea/">BEA Conference </a>
+<a href="/wd-online-events/">Online Events </a>
 
 <div class="separator"><strong>|</strong></div>
 
 <a href="http://writersmart.writersdigest.com/AS/Advertisers.aspx?advid=800059&amp;catname=Conferences&amp;cat=1441">Conference Directory </a>
-
-<div class="separator"><strong>|</strong></div>
-
-<a href="/videos/">WritersDigest.tv </a>
 
 </div>
 
@@ -378,7 +428,7 @@ draw_234X60A();
 
 <div class="separator"><strong>|</strong></div>
 
-<a href="http://blog.writersdigest.com/writersperspective">Writer's Perspective </a>
+<a href="http://blog.writersdigest.com/norules/">There Are No Rules </a>
 
 <div class="separator"><strong>|</strong></div>
 
@@ -390,19 +440,11 @@ draw_234X60A();
 
 <div class="separator"><strong>|</strong></div>
 
-<a href="http://blog.writersdigest.com/writerslife/">This Writer's Life </a>
-
-<div class="separator"><strong>|</strong></div>
-
-<a href="http://blog.writersdigest.com/norules/">No Rules </a>
+<a href="http://www.cwim.blogspot.com/">Alice's Children's/YA Blog </a>
 
 <div class="separator"><strong>|</strong></div>
 
 <a href="/guidetoliteraryagents/">Guide to Literary Agents </a>
-
-<div class="separator"><strong>|</strong></div>
-
-<a href="http://www.cwim.blogspot.com/">Alice Pope </a>
 
 </div>
 
@@ -451,7 +493,7 @@ draw_234X60A();
           <td class="ServiceBar">
             <!--begin: HeaderServiceBar -->
             
-<div class="CurrentTime">December 16, 2008</div>
+<div class="CurrentTime">June 18, 2009</div>
 
               <select onchange="if(this.value.length>0)document.location.href=this.value;">
                 <option>Browse by Genre...</option>
@@ -479,6 +521,7 @@ draw_234X60A();
                 <option value="http://www.fwbookstore.com/category/writing">Writer's Digest Books</option>
                 <option value="http://www.fwmagazines.com/category/writers-digest">Magazine Back Issues</option>
                 <option value="/ContactUs/">Contact Us</option>
+                <option value="/WritersMartCom_quicklinks/">The Writer's Mart</option>
               </select>
 
 
@@ -599,15 +642,15 @@ draw_234X60A();
    <tbody><tr><td>
     <p>Free E-Newsletter</p>
     <!-- ***** FIELD: [Email] ***** -->
-    Sign up to receive free news, tips and special offers from <strong>Writer's Digest</strong>
+    Register for the <strong>Writer's Digest</strong> e-newsletter &amp; get a FREE 128 page e-book 70 Solutions to Common Writing Mistakes by best-selling novelist Bob Mayer
    </td></tr>
    <tr>
     <td>
-      <input type="text" name="field_email" id="field_email" value="Enter your email" maxlength="255" onfocus="this.value=''" class="input">
+      <input type="text" name="field_email" id="field_email" value="Enter email here" maxlength="255" onfocus="this.value=''" class="input">
       <input type="submit" class="button" name="submit" id="submitForm" value="GO" style="cursor:pointer">
     </td>
   </tr>
-    <input type="hidden" name="field_email_name" value="Sign up to receive free news, tips and special offers from Writer's Digest">
+    <input type="hidden" name="field_email_name" value="Register for the Writer's Digest e-newsletter &amp; get a FREE 128 page e-book 70 Solutions to Common Writing Mistakes by best-selling novelist Bob Mayer">
     <input type="hidden" name="newsletterid" value="19313">
 
     <!-- ***** END OF FIELD: [Email] ***** -->        
@@ -655,7 +698,7 @@ draw_120X240B_120X600B_160X600B();
 
         <!--BEGIN Page Title -->
         
-<div id="PageTitle">Privacy Policy</div>
+<div class="artmCategoryPageTitle" id="PageTitle">Privacy Policy</div>
 
         <!--END Page Title -->
 
@@ -816,6 +859,13 @@ document.write(intYear);
 
       <!--END Page Footer //-->
     </div>
+    
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+draw_1X1A();
+</script>
+<!-- END BURST CODE -->
+
     <!--END PageLayout //-->
 
 
