@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2007-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070726051639id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618071212id_/http%3A//www.paddocktalk.com/news/html/index.php%3Fmodule%3DStatic_Docs%26func%3Dview%26f%3Dprivacy.htm) for the most accurate reproduction.*
 
-# PaddockTalk :: F1, NASCAR, GP2, Champ Car, IndyCar, ALMS and More! If It Goes Fast...We're Talking About It!!
+# PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, ALMS, And More!
 
 What is a Privacy Policy? 
 
@@ -9,6 +9,8 @@ PaddockTalk LLC created a privacy policy to show our dedication and commitment t
 What information do we collect from users and how is it used? 
 
 At PaddockTalk.com we do not collect any personal information whatsoever, unless you choose to share such information. Examples of such information that you might provide us are your name and email address for purposes of our TalkBack(Send & Ask Qs), (ie. Letters to the Editor) 
+
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 Submitting Materials for Publication to PaddockTalk LLC 
 
