@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021404id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191929id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # Health Care: AHRQ Privacy Policy Notice
 
@@ -32,7 +32,7 @@ You do not have to give us personal information to visit our Web site.
 
 If you choose to provide us with additional information about yourself through an E-mail message, form, survey, etc., we use that information only to respond to your message or to fulfill the stated purpose of the communication. The information provided is handled on a confidential basis within the Agency.
 
-However, E-mail is not necessarily secure against interception. If your message is sensitive, you may prefer to send it by postal mail instead. 
+However, E-mail is not necessarily secure against interception. If your message is sensitive, you may prefer to send it by postal mail instead.
 
 All communications to the Web site mailbox and customer feedback form are archived on a monthly basis, and destroyed on an annual basis.
 
