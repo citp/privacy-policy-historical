@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216081607id_/http%3A//www.secureparking.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureparking.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142209id_/http%3A//www.secureparking.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Secure Parking | Privacy Statement
 
