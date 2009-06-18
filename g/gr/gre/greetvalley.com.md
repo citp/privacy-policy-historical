@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045146id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618194842id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Animated free greeting cards, animated free greetings and ecards
 
 | 
 
-|   
+|    
+  
 ---|---  
 |    
-
-
-[ ](http://www.myhpf.co.uk/banner.asp?friend=308057)
-
 |  |  |    
 ---|---  
 |   
@@ -39,9 +36,14 @@ However, we can't control those sites content, therefore we are not responsible 
 
 If you have any questions about this privacy policy, or about anything that related to our site, contact us through this 
 
-[contact form](https://web.archive.org/web/20081217045146id_/http%3A//www.greetvalley.com/contact.php)  
+[contact form](https://web.archive.org/web/20090618194842id_/http%3A//www.greetvalley.com/contact.php)  
   
 |   
-|  [contact us](http://www.greetvalley.com/contact.php) | [Advertise](http://www.greetvalley.com/advertise.php) | [Feedback](http://www.greetvalley.com/feedback.php) | [Privacy Policy](http://www.greetvalley.com/privacy_policy.php) | [link to us](http://www.greetvalley.com/linkus.php) | [link exchange](http://www.greetvalley.com/linkexchange.php) | [links](http://www.greetvalley.com/internet.php)  
+|       [ ](http://greetter.com/)  
+---|---  
+  
+  
+  
+|  [contact us](http://www.greetvalley.com/contact.php) | [Advertise](http://www.greetvalley.com/advertise.php) | [Feedback](http://www.greetvalley.com/feedback.php) | [Privacy Policy](http://www.greetvalley.com/privacy_policy.php) | [link to us](http://www.greetvalley.com/linkus.php) | [link exchange](http://www.greetvalley.com/linkexchange.php) | [links](http://www.greetvalley.com/internet.php) | [](http://feeds2.feedburner.com/Greetvalley) [Subscribe](http://feeds2.feedburner.com/Greetvalley)  
 ---  
 designed and developed by[ imagenestudios.com](http://www.imagenestudios.com/) **all rights reserved greetvalley.com** \-  This site is for free animated greeting cards. People can send free online greeting cards for all occasions. We have a beautiful collection of birthday cards, love cards, friendship cards, miss you cards, everyday cards, greetings for events, greetings for relationships. We specialises in animated greeting cards for all occasions. www.greetvalley.com covers USA, UK, Germany, India, France, Australia, Italy, Mexico, Canada and China. We have the very best animated free greeting cards online, including love and birthday cards and ecards. 
