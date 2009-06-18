@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newson6.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150842id_/http%3A//www.newson6.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newson6.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143344id_/http%3A//www.newson6.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
-# NewsOn6.com - Tulsa, OK - News, Weather, Video and Sports - KOTV.com | This Web Site’s Privacy Policy
+# This Web Site’s Privacy Policy - NewsOn6.com - Tulsa, OK - News, Weather, Video and Sports - KOTV.com |
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
@@ -63,5 +63,3 @@ We use third-party advertising companies to serve ads when you visit this Web si
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
 _Effective date: July 1, 2004_
-
-[](http://www.addthis.com/bookmark.php)
