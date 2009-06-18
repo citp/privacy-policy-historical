@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065307id_/http%3A//www.companies.govt.nz/cms/about-this-site/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193225id_/http%3A//www.companies.govt.nz/cms/about-this-site/privacy-statement) for the most accurate reproduction.*
 
 # Companies Office The Official Site — Privacy statement
 
@@ -55,10 +55,12 @@ When you become a registered user of this website, personal information will be 
 
 
 
-If you do not provide the information requested when you attempt to register, you cannot become a registered user of this website.  You may correct any errors in the information you have provided at any time. 
+If you do not provide the information requested when you attempt to register, you cannot become a registered user of this website.  You may correct any errors in the information you have provided at any time.
+
+## Individuals calling our Contact Centre
+
+The Companies Office records all incoming calls to our Contact Centre for training and quality assurance purposes.  These calls are stored securely for 18 months from the date of the call.  Within that time period, you can request access to your recorded call by phoning 0508 266 726 and asking for the Privacy Officer. 
 
 ## Subscribers to Business Update 
 
 We take your privacy very seriously.  Your contact details, collected during the subscription process, will only be used by us to send you relevant information.  They will not be forwarded to other organisations and you can change your personal details or unsubscribe from [Business Update](http://news.business.govt.nz/ "\[Link to the Business Update newsletter\]. ") at any time. 
-
-Last updated 17 September 2008
