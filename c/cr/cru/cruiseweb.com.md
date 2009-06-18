@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032226id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112255id_/http%3A//www.cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
 
 # Cruises to Caribbean, Bahamas, Bermuda, Mexico, Europe, Alaska, Mediterranean, Hawaii.
 
-[](https://web.archive.org/web/20081217032226id_/http%3A//www.cruiseweb.com/DISCOUNTCRUISES.HTM)
+[](https://web.archive.org/web/20090618112255id_/http%3A//www.cruiseweb.com/DISCOUNTCRUISES.HTM)
 
 | 
 
