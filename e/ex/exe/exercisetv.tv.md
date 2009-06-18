@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercisetv.tv privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053858id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercisetv.tv privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192118id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - About - ExerciseTV
 
