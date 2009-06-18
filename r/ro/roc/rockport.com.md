@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091903id_/http%3A//www.rockport.com/corp/index.jsp%3Fpage%3Dprivacy%26clickId%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618111603id_/http%3A//rockport.com/corp/index.jsp%3Fpage%3Dprivacy%26clickId%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # Careers at Rockport, Inside Rockport & Rockport Customer Care | Rockport
 
