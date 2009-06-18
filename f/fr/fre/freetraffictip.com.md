@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100106id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618100923id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy | Free Traffic Tips |
-
-## [Privacy Policy](http://www.freetraffictip.com/services/privacy-policy "Privacy Policy")
+# Privacy Policy : Free Traffic Tips
 
 ### Privacy
 
-**FreeTrafficTip.com and its affiliated company, Leveraged Word, respects your privacy.**
+**FreeTrafficTip.com and its affiliated company, Leveraged Promotion, LLC, respects your privacy.**
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of FreeTrafficTip.com and its affiliated company, Leveraged Word.
+Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of FreeTrafficTip.com and its affiliated company, Leveraged Promotion LLC.
 
 **External Sites.**
 
@@ -16,12 +14,16 @@ FreeTrafficTip.com and its affiliated company, Leveraged Word is not responsible
 
 **Cookies**
 
-A “cookie” is a small data text file that is placed in your browser and allows FreeTrafficTip.com and its affiliated company, Leveraged Word to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and FreeTrafficTip.com and its affiliated company, Leveraged Word does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+A “cookie” is a small data text file that is placed in your browser and allows FreeTrafficTip.com and its affiliated company, Leveraged Promotion LLC to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and FreeTrafficTip.com and its affiliated company, Leveraged Promotion LLC does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
 **Remember The Risks Whenever You Use The Internet**
 
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to FreeTrafficTip.com and its affiliated company, Leveraged Word and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through FreeTrafficTip.com and its affiliated company, Leveraged Word have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
+While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to FreeTrafficTip.com and its affiliated company, Leveraged Promotion LLC and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through FreeTrafficTip.com and its affiliated company, Leveraged Promotion LLC have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email us at staff @ freetraffictip.com.
+For any other information send any blank email to at staff @ freetraffictip.com for instructions.
+
+How To Get Unstoppable Traffic? [Go Evergreen](http://www.trafficreality.com/evergreen/). Read the true story of how one of the site owners, ill and preparing to retire, created traffic so powerful that she couldn’t turn it off - and how you can do the same for your site.
+
+[convert this post to pdf.](http://www.freetraffictip.com/wp-content/plugins/post2pdf/generate.php?post=1642)
