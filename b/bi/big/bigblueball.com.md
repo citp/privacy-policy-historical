@@ -1,19 +1,23 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043140id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185732id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
 
-# BigBlueBall.com - Anything and Everything About Instant Messaging and Chat
+# BigBlueBall.com Privacy Policy | BigBlueBall
 
-## BigBlueBall
+Browse >
+
+[Home](http://www.bigblueball.com/ "Browse to: Home") / Privacy Policy 
+
+Privacy Policy Statement
 
 This is the web site of **BigBlueBall.com**.
 
-> Our postal address is   
-> **PO BOX 403  
->  Murrieta, CA 92564**
+Our postal address is:
 
-We can be reached via e-mail at [jeff.hester@bigblueball.com](mailto:jeff.hester@bigblueball.com)  
-or you can reach us by telephone at (909) 286-1952
+> PO BOX 6924  
+>  Laguna Niguel, CA 92677
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+We can be reached via e-mail at jeff.hester@bigblueball.com or you can reach us by telephone at (949) 374-3960.
+
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -25,14 +29,10 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-  * [ Google](http://www.google.com/privacy.html)
-
-  * [Fastclick](http://www.fastclick.com/co_privacy.html)
-
-  * [ Amazon](http://www.amazon.com/exec/obidos/tg/browse/-/468496/ref=hp_hp_ct_5_2/102-4549874-9435333)
-
-  * [ Commission Junction](http://www.cj.com/privacy.jsp)
-
+  * [Google](http://www.google.com/privacy.html)
+  * [ValueClick Media](http://www.valueclickmedia.com/webuser_privacy.shtml)
+  * [Amazon](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)
+  * [Commission Junction](http://www.cj.com/privacy_web_user.html)
 
 
 
@@ -44,8 +44,8 @@ Upon request we provide site visitors with access to contact information (e.g., 
 
 Consumers can access this information by e-mail us at the above address, writing to us at the above address.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, or the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, or the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org.
