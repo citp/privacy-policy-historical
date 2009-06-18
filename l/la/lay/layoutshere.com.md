@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layoutshere.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003103id_/http%3A//www.layoutshere.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutshere.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618060913id_/http%3A//www.layoutshere.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ We do not collect any information about our visitor's email or referring domain.
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site. 
 
 With respect to cookies: We do not set any cookies. However, third parties may be placing and reading cookies on browsers, or using web beacons to collect information, in the course of ads being served on LayoutsHere.com. 
+
+Google, as a third party vendor, uses cookies to serve ads on LayoutsHere.com. Google's use of the DART cookie enables it to serve ads to you based on your visit to LayoutsHere.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some some features and services may not function properly if your cookies are disabled. 
 
