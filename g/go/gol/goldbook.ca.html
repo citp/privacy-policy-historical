@@ -1,31 +1,41 @@
-<!--The following is the downloaded HTML source of the goldbook.ca privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217055226id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldbook.ca privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618140710id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<title></title>
 	<meta name="Description" content="">
+	<link rel="stylesheet" type="text/css" href="/css/header_small/style.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="/css/goldbook.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/jquery.autocomplete.css">
+	<link rel="stylesheet" type="text/css" href="/css/popup_style.css">
+	
 	<link rel="stylesheet" type="text/css" href="/css/sddm.css">
-	<!--[if IE 6]>
-		<link rel="stylesheet" type="text/css" href="/css/ieonly.css" />
-	<![endif]-->
 	<!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" href="/css/ie7only.css" />
+        <link rel="stylesheet" type="text/css" href="/css/header_small/style_ie7.css" />
+    <![endif]-->	
+	<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="/css/header_small/style_ie6.css" />
+	<![endif]-->
+	<!--[if gte IE 8]>
+		<link rel="stylesheet" type="text/css" href="/css/header_small/style_ie8.css" />
 	<![endif]-->
 	<link rel="shortcut icon" href="/favicon.ico">
+	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.autocomplete.pack.js"></script>
+	<script type="text/javascript" src="/js/popup.js"></script>
+	<script type="text/javascript" src="/js/header_small/header.js"></script>
 	<script type="text/javascript" src="/video/swfobject.js"></script>
-	<script type="text/javascript" src="/javascript/header/header.js"></script>
-	<script type="text/javascript" src="/javascript/prototype/prototype.js"></script>
-	<script type="text/javascript" src="/javascript/scriptaculous/scriptaculous.js"></script>
 	<script type="text/javascript" src="/javascript/anylink.js"></script>
-	<script type="text/javascript" src="http://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.1"></script>
 	<script type="text/javascript" src="/javascript/vemaps.js"></script>
-
-	</head><body topmargin="0" rightmargin="0" bottommargin="0" leftmargin="0" onload="document.getElementById('searchcat').focus();"><div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+	<script type="text/javascript" language="javascript" charset="utf-8">
+		var arr_cities=[];
+	</script>
+	</head><body><div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 <script type="text/javascript" language="JavaScript" src="/javascript/overlib/overlib.js"></script>
 
 
+	
   <!-- begin change your city script -->
   <script type="text/javascript">//<![CDATA[
 	function openPopup(url, name, options) {
@@ -38,471 +48,191 @@
 <!-- end change your city script -->
 
 
-	
 
-<div id="container">
+
+<div id="doc4">    
 
 	<!-- leaderboard -->
 	<!-- begin leaderboard template -->
-	<!-- end leaderboard template -->	<!-- /leaderboard -->
-	<!-- begin small search header template -->
-<div id="localnewsmenu" class="anylinkcss">
-	<a href="" target="_new" style="border-bottom: 1px solid #eee;"></a>
-	<a href="" target="_new"></a>
-	</div>
-<div class="tooltip" id="advertise_tp" style="display:none;">
-			<div class="bg2">
-			<div class="bg">
-			<div id="advertise_indicator" style="display:none">processing your request....</div>
-			<div id="advertise_succ_msg" style="display:none">
-				<table class="td-center-middle h250 w100pct">
-					<tbody><tr>
-						<td class="td-center-middle">
-							Your message has been sent.
-							<br>
-							<br>
-							<br>
-							<a href='javascript:close_tooltip("advertise_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="advertise_fail_msg" style="display:none">
-
-				<table class="td-center-middle h250">
-					<tbody><tr>
-						<td class="td-center-middle">
-							There was an error while processing your request.
-							<br>
-							Please close this window and try again.
-							<br><br><br>
-							<a href='javascript:close_tooltip("advertise_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="advertise_div" style="display:none">
-
-				<div class="tp_header"><h2>Advertise</h2><hr> <a class="close_button" href="javascript:close_tooltip('advertise_tp');"><img alt="" src="/images/homepage/close_btn.gif"></a></div>
-				<form method="post" action="/mailer.php" id="advertise_cf">
-				<input type="hidden" name="action" value="advertise">
-				<input type="hidden" name="to_name" value="Paul Diez">
-				<input type="hidden" name="from_email" value="Gold@web.701.com">
-				<input type="hidden" name="from_name" value="A message from a visitor visitng Goldbook.ca website.">
-				<input type="hidden" name="subject" value="Customer inquirying about advertising">
-				<table cellpadding="1" cellspacing="0">
-					<tbody><tr>
-						<td>
-							<span class="red"><b>*</b>indicates a required field</span>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="l-name_advertise">
-							* Name
-						</td>
-						<td class="space">
-							<input type="text" name="name_advertise" id="name_advertise">
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="l-busname">
-							Business Name
-						</td>
-						<td class="space">
-							<input name="busname" type="text" class="input-box" id="busname2">
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="l-contactby">
-							Contact me
-						</td>
-						<td class="space">
-							<span class="small_grey">By Email</span>
-							<input type="radio" name="contactby" id="contactbyemail_advertise" value="email_advertise" onchange="subjectchange(this,'advertise')" checked="checked"><span class="small_grey">&nbsp;&nbsp;&nbsp;&nbsp;By Phone</span>
-							<input type="radio" name="contactby" id="contactbyphone_advertise" value="phone_advertise" onchange="subjectchange(this,'advertise')">
-						</td>
-					</tr>
-					<tr class="trphone_advertise" id="trphone_advertise" style="display: none;">
-						<td class="label" id="l-phone_advertise">
-							Phone
-						</td>
-						<td class="space">
-							<input type="text" name="phone_advertise" id="phone_advertise" onclick="subjectchange(this)">
-							<br><div id="advertise_phone_error" style="display:none"><span class="red">*invalid phone number.</span></div>
-						</td>
-					</tr>
-					<tr class="tremail_advertise" id="tremail_advertise" style="display: visible;">
-						<td class="label" id="l-email_advertise">
-							* Email
-						</td>
-						<td class="space">
-							<input type="text" name="email_advertise" id="email_advertise" onclick="subjectchange(this)">
-							<br><div id="advertise_email_error" style="display:none"><span class="red">*invalid email address.</span></div>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="l-question_advertise" valign="top">
-							* Questions or <br>
-							Comments
-						</td>
-						<td class="space">
-							<textarea name="question_advertise" id="question_advertise" cols="20" rows="3"></textarea>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" valign="top">
-						</td>
-						<td class="space">
-							<input type="button" value="Submit" onclick="submit_form('advertise');">
-						</td>
-					</tr>
-				</tbody></table>
-			</form>
-			</div>
-		</div>
-	</div>
-	<!--<div class="arrow2"></div>-->
-</div><div class="tooltip" id="update_listing_tp" style="display:none;">
-
-			<div class="bg2">
-			<div class="bg">
-			<div id="update_listing_indicator" style="display:none">processing your request....</div>
-			<div id="update_listing_succ_msg" style="display:none">
-				<table class="td-center-middle h250">
-					<tbody><tr>
-						<td class="td-center-middle w100pct">
-							Your message has been sent.
-							<br>
-							<br>
-							<br>
-							<a href='javascript:close_tooltip("update_listing_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="update_listing_fail_msg" style="display:none">
-				<table class="td-center-middle h250">
-					<tbody><tr>
-						<td class="td-center-middle">
-							There was an error while processing your request.
-							<br>
-							Please close this window and try again.
-							<br><br><br>
-							<a href='javascript:close_tooltip("update_listing_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="update_listing_div" style="display:none">
-
-				<div class="tp_header"><h2>Update Listing</h2><hr> <a class="close_button" href="javascript:close_tooltip('update_listing_tp');"><img alt="" src="/images/homepage/close_btn.gif"></a></div>
-				<form method="post" action="/mailer.php" id="update_listing_cf">
-				<input type="hidden" name="action" value="update_listing">
-				<input type="hidden" name="to_name" value="Paul Diez">
-				<input type="hidden" name="from_email" value="Gold@web.701.com">
-				<input type="hidden" name="from_name" value="A message from a visitor visitng Goldbook.ca website.">
-				<input type="hidden" name="subject" value="Customer wanting to Update a Listing">
-				<table cellpadding="1" cellspacing="0">
-					<tbody><tr>
-						<td>
-							<span class="red"><b>*</b>indicates a required field</span>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="lname_update_listing">
-							* Name
-						</td>
-						<td class="space">
-							<input type="text" name="name_update_listing" id="name_update_listing">
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="lbusname">
-							Business Name
-						</td>
-						<td class="space">
-							<input name="busname" type="text" class="input-box" id="busname">
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="lcontactby">
-							Contact me
-						</td>
-						<td class="space">
-							<span class="small_grey">By Email</span>
-							<input type="radio" name="contactby" id="contactbyemail_update_listing" value="email_update_listing" onchange="subjectchange(this, 'update_listing')" checked="checked"><span class="small_grey">&nbsp;&nbsp;&nbsp;&nbsp;By Phone</span>
-							<input type="radio" name="contactby" id="contactbyphone_update_listing" value="phone_update_listing" onchange="subjectchange(this, 'update_listing')">
-						</td>
-					</tr>
-					<tr class="trphone_update_listing" id="trphone_update_listing" style="display: none;">
-						<td class="label" id="lphone_update_listing">
-							Phone
-						</td>
-						<td class="space">
-							<input type="text" name="phone_update_listing" id="phone_update_listing">
-							<br><div id="update_listing_phone_error" style="display:none"><span class="red">*invalid phone number.</span></div>
-						</td>
-					</tr>
-					<tr class="tremail_update_listing" id="tremail_update_listing" style="display: visible;">
-						<td class="label" id="lemail_update_listing">
-							* Email
-						</td>
-						<td class="space">
-							<input type="text" name="email_update_listing" id="email_update_listing">
-							<br><div id="update_listing_email_error" style="display:none"><span class="red">*invalid email address.</span></div>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" id="lquestion_update_listing" valign="top">
-							* Questions or <br>
-							Comments
-						</td>
-						<td class="space">
-							<textarea name="question_update_listing" id="question_update_listing" cols="20" rows="3"></textarea>
-						</td>
-					</tr>
-					<tr>
-						<td class="label" valign="top">
-						</td>
-						<td class="space">
-							<input type="button" value="Submit" onclick="submit_form('update_listing');">
-						</td>
-					</tr>
-				</tbody></table>
-			</form>
-			</div>
-		</div>
-	</div>
-	<!--<div class="arrow2"></div>-->
-</div><div class="tooltip" id="need_phone_book_tp" style="display:none;">
-			<div class="bg2">
-			<div class="bg">
-			<div id="need_phone_book_indicator" style="display:none">processing your request....</div>
-			<div id="need_phone_book_succ_msg" style="display:none">
-				<table class="td-center-middle h250 w100pct">
-					<tbody><tr>
-						<td class="td-center-middle">
-							Your message has been sent.
-							<br>
-							<br>
-							<br>
-							<a href='javascript:close_tooltip("need_phone_book_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="need_phone_book_fail_msg" style="display:none">
-				<table class="td-center-middle h250">
-					<tbody><tr>
-						<td class="td-center-middle">
-							There was an error while processing your request.
-							<br>
-							Please close this window and try again.
-							<br><br><br>
-							<a href='javascript:close_tooltip("need_phone_book_tp");'>[close this window]</a>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div id="need_phone_book_div" style="display:none">
-
-				<div class="tp_header"><h2>Need a Gold Book</h2><hr> <a class="close_button" href="javascript:close_tooltip('need_phone_book_tp');"><img alt="" src="/images/homepage/close_btn.gif"></a></div>
-				<form method="post" action="/mailer.php" id="need_phone_book_cf">
-					<input type="hidden" name="action" value="need_phone_book">
-					<input type="hidden" name="to_name" value="Paul Diez">
-					<input type="hidden" name="from_email" value="Gold@web.701.com">
-					<input type="hidden" name="from_name" value="A message from a visitor visitng Goldbook.ca website.">
-					<input type="hidden" name="subject" value="Customer Needs a Gold Book">
-					<table cellpadding="1" cellspacing="0" width="100%">
-						<tbody><tr>
-							<td valign="middle"></td>
-							<td align="right"></td>
-						</tr>
-						<tr>
-							<td colspan="2">
-								<span class="red"><b>*</b>indicates a required field</span>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="label nowrap" id="l1-name">
-								* Name
-							</td>
-							<td class="space">
-								<input type="text" name="name" id="name">
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-busname">
-								Business Name
-							</td>
-							<td class="space">
-								<input name="busname" type="text" class="input-box" id="busname3">
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-region">
-								* Which Region
-							</td>
-							<td class="space">
-								<select name="region" id="region">
-									<option value="Hamilton and area">Hamilton and area</option>
-									<option value="Burlington, Oakville and area">Burlington, Oakville and area</option>
-									<option value="Niagara, St. Catharines, Fort Erie and area">Niagara, St. Catharines, Fort Erie and area</option>
-									<option value="Brantford, Caledonia, Simcoe and area">Brantford, Caledonia, Simcoe and area</option>
-									<option value="Ajax, Pickering, Oshawa and area">Ajax, Pickering, Oshawa and area</option>
-									<option value="Mississauga">Mississauga</option>
-									<option value="Brampton">Brampton</option>
-									<option value="Milton, Georgetown, Acton and area">Milton, Georgetown, Acton and area</option>
-									<option value="Grimsby, Lincoln and area">Grimsby, Lincoln and area</option>
-									<option value="Toronto">Toronto</option>
-									<option value="Guelph, Fergus and area">Guelph, Fergus and area</option>
-									<option value="Kawartha, Peterborough and area">Kawartha, Peterborough and area</option>
-									<option value="Cobourg, Port Hope and area">Cobourg, Port Hope and area</option>
-									<option value="Orangeville and area">Orangeville and area</option>
-									<option value="Kitchener, Waterloo, Cambridge and area">Kitchener, Waterloo, Cambridge and area</option>
-									<option value="Newmarket, Markham, Thornhill, Vaughan and area">Newmarket, Markham, Thornhill, Vaughan and area</option>
-									<option value="Walkerton, Flamborough and area">Walkerton, Flamborough and area</option>
-									<option value="Stratford, Woodstock and area">Stratford, Woodstock and area</option>
-									<option value="Barrie, Collingwood and area">Barrie, Collingwood and area</option>
-									<option value="Owen Sound and area">Owen Sound and area</option>
-									<option value="Muskoka area">Muskoka area</option>
-									<option value="Parry Sound and area">Parry Sound and area</option>
-									<option value="Georgina and area">Georgina and area</option>
-									<option value="Belleville and area">Belleville and area</option>
-									<option value="Uxbridge and area">Uxbridge and area</option>
-								</select>
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-address">
-								* Street Address
-							</td>
-							<td class="space">
-								<input type="text" name="address" id="address">
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-address2">
-								Address 2
-							</td>
-							<td class="space">
-								<input type="text" name="address2" id="address2">
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-city">
-								* City
-							</td>
-							<td class="space">
-								<input type="text" name="city" id="city">
-							</td>
-						</tr>
-						<tr>
-							<td class="label nowrap" id="l1-postal">
-								* Postal Code
-							</td>
-							<td class="space">
-								<input type="text" name="postal" id="postal">
-							</td>
-						</tr>
-						<tr>
-							<td class="label" valign="top">
-							</td>
-							<td class="space">
-								<input type="button" value="Submit" onclick="submit_form('need_phone_book');">
-							</td>
-						</tr>
-					</tbody></table>
-				</form>
-			</div>
-		</div>
-	</div>
-	<!--<div class="arrow2"></div>-->
-</div>
-
-<div class="headerlinks">
-	<a href="" target="_new">Local News &amp; Classifieds</a> ::
-	<a href="javascript:load_tooltip('advertise')">Advertise With Us</a> ::
-	<a href="javascript:load_tooltip('update_listing')">Update My Listing</a> ::
-	<a href="http://corporate.goldbook.ca/contactus.php" target="_blank">Contact Us</a>
-</div>
-<div class="smallroundeddiv">
-<table style="width: 970px; padding: 0px; margin: 0px;" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td valign="middle">
-		<a href="http://www.goldbook.ca/goldbook/"><img src="/images/header/banner_logo.gif" border="0"></a>
-	</td>
-	<td style="text-align: center;" valign="middle">
-		<table border="0" style="height: 125px;">
-			<tbody><tr>
-				<td>
-					<form method="get" action="/goldbook/search.html" name="search_form" onkeydown="return check_return(event);" onsubmit="return false;">
-						<table cellpadding="0" cellspacing="0" width="500px" align="center" border="0">
-							<tbody><tr><td>&nbsp;</td></tr>
-							<tr>
-								<td valign="middle">
-									<br>
-									<img src="/images/header/step1.png">
-								</td>
-								<td valign="middle" style="padding-left: 10px; padding-bottom: 1px; text-align: left;">
-									Category<br>
-									<input type="text" name="searchcat" id="searchcat" style="width: 170px;" value="" onkeydown="clear_searchbus(); return check_tab_cat(event);">
-								</td>
-								<td valign="middle" style="padding-left: 10px; padding-bottom: 1px;">
-									<br>
-									<span id="or">OR</span>
-								</td>
-								<td valign="middle" style="padding-left: 10px; padding-bottom: 1px; text-align: left;">
-									Business Name<br>
-									<input type="text" id="searchbus" name="searchbus" value="" onkeydown="clear_searchcat(); return check_tab_bus(event); return check_shift_tab_bus(event);" style="width: 170px;">
-								</td>
-								<td valign="middle" style="padding-left: 22px;">
-									<br>
-									<img src="/images/header/step2.png">
-								</td>
-								<td valign="middle" style="padding-left: 10px; text-align: left;">
-									<!-- <input type="text" onkeydown="return check_shift_tab_loc(event);" id="location" name="location" class="txt" value="" size="24" autocomplete="off"> -->
-									City<br>
-									<input type="text" style="width: 170px;" name="location" onkeydown="return check_shift_tab_loc(event);" id="location" value="">
-									<div id="ac_loc" class="autocomplete" style="display:none;border:1px solid black;background-color:white;">
-									</div>
-					
-									<script type="text/javascript" language="javascript" charset="utf-8">
+<!-- end leaderboard template -->	<!-- /leaderboard -->
+	<!-- begin small search header template -->                   
+	<div id="hd">
+		<!-- business DIV-->
+		<div id="business_div">
+			<div id="header_wrap" class="business">
+				<div id="left_wrap">
+					<div class="tabs">            
+						<ul>
+							<li class="business_current"><a href="javascript:void(0)" onclick="show_business()" title="Business Search"><span>Business Search</span></a></li>
+							<li class="person"><a href="javascript:void(0)" onclick="show_person()" title="People Search"><span>Find a Person</span></a></li>
+							<li class="reverse"><a href="javascript:void(0)" onclick="show_reverse()" title="Reverse Search"><span>Reverse Lookup</span></a></li>
+							<li class="blank_business">
+								<ul id="links_business">
+									<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Advertise With Us"><span>Advertise With Us</span></a><span class="spacer">::</span></li>
+									<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Update My Listing"><span>Update My Listing</span></a><span class="spacer">::</span></li>
+									<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Add My Listing"><span>Add My Listing</span></a><span class="spacer">::</span></li>
+									<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Contact Us"><span>Contact Us</span></a></li>
+								</ul> 
+							</li>
+						</ul> 
+					</div>
+					<div class="clearall"></div>
+					<div id="box_business">
+						<div id="top_business">
+							<form method="GET" action="/search.html" id="form_business">
+								<div id="left">
+									<label id="category_label"><input type="radio" id="category_radio" checked="checked" name="search_type" value="category">Category</label>
+									<label id="business_label"><input type="radio" id="business_radio" name="search_type" value="business">Business Name</label>
+									<div class="clearall"></div>
+									<label id="search_label"><input type="text" id="search_box" name="searchquery" value=""></label>
+									<label class="eg_label" id="cat_eg">e.g. Pizza, Dentist, Florist</label>
+									<label class="eg_label" id="bus_eg">e.g. Acme Florists, Main Street</label>
+								</div>
+								<div id="center">
+									<label id="city_label">City </label>
+									<label id=""><input type="text" id="city_box" name="location" value="" autocomplete="off" class="ac_input"></label>
+									<span class="eg_label" id="city_eg">e.g. Toronto, Hamilton, Guelph</span>
+                                    <span class="error_label" id="city_error_msg">City does not exist in Coverage Area.</span>
+									<script type="text/javascript">
 										
-										// <![CDATA[
-											new Ajax.Autocompleter('location','ac_loc','/util/util.php/util/get_dropdown/loc', { tokens: new Array(','), minChars: 2});
-										// ]]>
+											$("#city_box").autocomplete(
+											arr_cities,
+											{
+												width: 188,
+												max: 10,
+												highlight: false,
+												multiple: false,
+												multipleSeparator: " ",
+												scroll: true,
+												scrollHeight: 300
+											});
 										
 									</script>
-								</td>
-								<td valign="middle" style="padding-left: 10px; padding-bottom: 2px;">
-									<br>
-									<a href="javascript:;" onclick="javascript: check_fields();"><img alt="" src="/images/header/banner_go_button.png" border="0"></a>
-								</td>
-							</tr>
-						</tbody></table>
+								</div>
+								<div id="right">
+									<input type="hidden" name="formtype" value="business">
+									<input type="image" src="/images/header/search_business_button.gif" alt="Search" id="search_button_business">
+								</div>
+							</form>
+						</div>
+						
+						<div id="logo_business">
+							<img src="/images/header_small/logo_business.gif">
+						</div>
+					</div>              
+				</div>
+			</div>
+		</div>
+		
+		<!-- PERSON DIV-->
+		<div id="person_div" class="hide">
+			<div class="tabs">            
+				<ul>
+					<li class="business"><a href="javascript:void(0)" onclick="show_business()" title="Business Search"><span>Business Search</span></a></li>
+					<li class="person_current"><a href="javascript:void(0)" onclick="show_person()" title="People Search"><span>Find a Person</span></a></li>
+					<li class="reverse"><a href="javascript:void(0)" onclick="show_reverse()" title="Reverse Search"><span>Reverse Lookup</span></a></li>
+					<li class="blank_person">
+						<ul id="links_person" class="person_line">
+							<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Advertise With Us"><span>Advertise With Us</span></a><span class="spacer">::</span></li>
+							<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Update My Listing"><span>Update My Listing</span></a><span class="spacer">::</span></li>
+							<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Add My Listing"><span>Add My Listing</span></a><span class="spacer">::</span></li>
+							<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Contact Us"><span>Contact Us</span></a></li>
+						</ul> 
+					</li>
+				</ul>
+				 
+			</div>
+			<div class="clearall"></div>
+			<div id="box_person">
+				<div id="top_person">
+					<form method="GET" action="/search.html" id="form_person">
+						<label id="begin_first_name_label" for="first_name">
+							<input type="checkbox" id="begin_first_name" name="begin_first_name" value="1">Begin With
+							<input type="text" id="first_name" name="first_name" value="" title="Initial or First Name"> 
+						</label>
+						<label id="begin_last_name_label" for="last_name">
+							<input type="checkbox" id="begin_last_name" name="begin_last_name" value="1">Begin With
+							<input type="text" id="last_name" name="last_name" value="" title="Last Name">
+							<span class="error_label" id="last_name_error_msg">Last Name cannot be empty</span>
+						</label>
+						<label id="surrounding_area_label" for="city_postal">
+							City
+							<input type="text" id="city_postal" name="city_postal" value="" autocomplete="off" class="ac_input">
+							<span class="eg_label" id="city_postal_eg">e.g. Toronto, Hamilton, Guelph</span>
+						</label>
+						<script type="text/javascript">
+							
+								$("#city_postal").autocomplete(
+								
+								
+								[], 
+								
+								{
+									width: 208,
+									max: 10,
+									highlight: false,
+									multiple: false,
+									multipleSeparator: " ",
+									scroll: true,
+									scrollHeight: 300
+								});
+							
+						</script>
+						<input type="hidden" name="formtype" value="residential">
+						<!--<input type="image" src="/images/header/search_person_button.gif" alt="Search" id="search_button_person" />-->
+						<input type="submit" value="" id="person_submit">
 					</form>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<div id="error_msg"></div>
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-</div>
-<!--
-<div>
-<a href="https://goldbook.empirical.com/tenth"><img src="/images/contest/header_banner.jpg" style="padding: 0px; margin: 0px; border: 0px;"></a>
-</div>
---> 
-<!-- end small search header template -->
+				</div>
+				<div id="logo_person">
+					<img src="/images/header_small/logo_person.gif">
+				</div>
+			</div>                  
+		</div>
+		
+		
+		
+		
+		<!-- REVERSE DIV-->
+			<div id="reverse_div" class="hide">
+				<div class="tabs">            
+					<ul>
+						<li class="business"><a href="javascript:void(0)" onclick="show_business()" title="Business Search"><span>Business Search</span></a></li>
+							<li class="person"><a href="javascript:void(0)" onclick="show_person()" title="People Search"><span>Find a Person</span></a></li>
+							<li class="reverse_current"><a href="javascript:void(0)" onclick="show_reverse()" title="Reverse Search"><span>Reverse Lookup</span></a></li>
+						<li class="blank_reverse">
+							<ul id="links_reverse" class="reverse_line">
+								<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Advertise With Us"><span>Advertise With Us</span></a><span class="spacer">::</span></li>
+								<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Update My Listing"><span>Update My Listing</span></a><span class="spacer">::</span></li>
+								<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Add My Listing"><span>Add My Listing</span></a><span class="spacer">::</span></li>
+								<li><a target="_new" href="http://corporate.goldbook.ca/contactus.php" title="Contact Us"><span>Contact Us</span></a></li>
+							</ul> 
+						</li>
+					</ul>
+				</div>
+				<div class="clearall"></div>
+				<div id="box_reverse">
+					<div id="form">
+						<form method="GET" action="/search.html" id="form_reverse">
+							<label id="phone_label">
+								Phone
+								<input type="text" id="phone" name="phone" value=""> 
+								<span class="eg_label" id="phone_eg">Residential Lookup Only</span>
+								<span class="error_label" id="phone_error_msg">The Phone field cannont not empty</span>
+							</label>
+							
+							<input type="hidden" name="formtype" value="reverse">
+							<input type="image" src="/images/header/search_reverse_button.gif" alt="Search" id="search_button_reverse">
+							</form>
+						
+					</div>
+					<div id="logo_reverse">
+						<img src="/images/header_small/logo_reverse_2.gif">
+					</div>
+				</div>              
+			</div>
+	</div>
 	<div class="contentbreadcrumbs" style="margin-top: 6px; margin-bottom: 6px; width: 965px; padding: 0px;">
-	<a href="/goldbook/">Goldbook.ca</a> -&gt;
+	<a href="/">Goldbook.ca</a> -&gt;
 		</div>
 <div class="contentbreadcrumbs">
 	<a href="javascript:history.go(-1);">Go back to previous page</a>
@@ -618,8 +348,8 @@ urchinTracker();
 <!-- SiteCatalyst code version: H.7.
 Copyright 1997-2006 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" src="http://www.goldbook.ca/javascript/omniture/s_code.js"></script>
-<script language="JavaScript"><!--
+<script language="JavaScript" type="text/javascript" src="http://www.goldbook.ca/javascript/omniture/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName=document.title
@@ -645,7 +375,7 @@ s.eVar4=""
 s.eVar5=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
+<script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
 src="http://torontogoldbook.122.2O7.net/b/ss/torontogoldbook/1/H.7--NS/0"
