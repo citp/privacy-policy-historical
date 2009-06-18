@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vzaar.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113024id_/http%3A//www.vzaar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzaar.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140219id_/http%3A//vzaar.com/privacy) for the most accurate reproduction.*
 
-# vzaar :: Privacy
+# vzaar | Privacy
 
 We don’t want to misuse your data. We know how we like to be treated and we’ll respect your data (such as email address, name, address etc.).
 
