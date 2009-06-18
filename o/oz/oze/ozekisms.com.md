@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055756id_/http%3A//www.ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618115528id_/http%3A//www.ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
 
-# Privacy - The SMS Gateway Guide
+# SMS Gateway - Press, Privacy
 
 Ozeki wants to build trust and confidence by promoting fair information practices and ensuring that its visitors retain their privacy when they provide us with personal information or purchase our products. Ozeki reserves the right to update the Privacy Statement at any time without notice to you. The most current version of the Privacy Statement can be reviewed by clicking on the "Privacy Statement" hypertext link located at the bottom of our Web pages. 
 
