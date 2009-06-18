@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoaccessoriesgarage.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070751id_/http%3A//www.autoaccessoriesgarage.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoaccessoriesgarage.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174426id_/http%3A//www.autoaccessoriesgarage.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Auto Accessories Garage Privacy Policy
 
