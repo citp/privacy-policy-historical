@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072056id_/http%3A//ica.gov.sg/page.aspx%3Fpageid%3D120%26secid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114457id_/http%3A//www.ica.gov.sg/page.aspx%3Fpageid%3D120%26secid%3D1) for the most accurate reproduction.*
 
 # ICA - Privacy Statement
 
-[ ](https://web.archive.org/web/20081217072056id_/http%3A//ica.gov.sg/printpage.aspx?url=http://www.ica.gov.sg/page.aspx?pageid=120&secid=1)
+[ ](https://web.archive.org/web/20090618114457id_/http%3A//www.ica.gov.sg/printpage.aspx?url=http://www.ica.gov.sg/page.aspx?pageid=120&secid=1)
 
   1. This is a Government of Singapore website. Thank you for examining our privacy statement. 
   2. If you are only browsing this website, we do not capture data that allows us to identify you individually. 
