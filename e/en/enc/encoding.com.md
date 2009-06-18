@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094213id_/http%3A//www.encoding.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090555id_/http%3A//www.encoding.com/privacy.html) for the most accurate reproduction.*
 
 # On Demand Video Encoding - privacy statement
 
@@ -111,11 +111,13 @@ Feature List
 
 Support
 
-[Contact Us](https://web.archive.org/contact.html)
+[About/Contact Us](https://web.archive.org/newabout.php)
 
 [Client Login](http://manage.encoding.com/user/)
 
 [Technical FAQ](http://help.encoding.com/)
+
+[Follow us on Twitter](http://www.twitter.com/encodingdotcom)
 
 | 
 
@@ -130,6 +132,8 @@ Get Started
 | 
 
 Legal Eagle
+
+[SLA](http://www.encoding.com/sla.html)
 
 [Terms of Use](https://web.archive.org/terms.html)
 
