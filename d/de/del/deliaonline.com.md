@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065143id_/http%3A//www.deliaonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618190056id_/http%3A//www.deliaonline.com/privacy.html) for the most accurate reproduction.*
 
 # Our privacy policy from Delia Online
 
@@ -6,7 +6,16 @@ At Delia Online we are committed to protecting your privacy. Any personal inform
 
 Data collected through the registration process or market research processes on the site will be used to improve the site, helping us to tailor our services to your needs.
 
-We may use the information you provide to communicate with you, but only if you have 'opted in' to receive our newsletter. You will not receive any other information from us as a result of supplying us with personal data **unless you specifically 'opt in' to do so**. You will be offered the opportunity to consent to receive information from specially vetted companies who we feel may be able to supply you with products that add value to your experience with Delia Online. In these circumstances, any information you provide will be subject to the privacy policies of these companies.
+We may use the information you provide when registering with Delia Online to communicate with you, but only if you have 'opted in' to receive our newsletter and/or third-party communications by email. These emails will include information from specially vetted companies who we feel may be able to supply you with products or services that add value to your experience with Delia Online. In these circumstances, any information you provide will be subject to the privacy policies of these companies. 
+
+We also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html)
+
+Google, as one of these third-party vendors, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+[Click here for the Google privacy policy](http://www.google.co.uk/privacy_ads.html)  
+[Click here for the Doubleclick privacy policy](http://www.doubleclick.com/privacy/faq.aspx)
+
+By using this website you agree that we may collect and use data as described above. We will always make it clear how we do this and allow you to select whether, and to whom, your details may be disclosed.
 
 We may also share non-personal, non-individual information in aggregate form with our marketing partners for research purposes. In other words, we will not tell our marketing partners that you visited a certain page at the site, but we may tell them how many visitors visited that page.
 
