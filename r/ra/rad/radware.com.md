@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216113558id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radware.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618034542id_/http%3A//www.radware.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Radware: Privacy Policy
 
@@ -24,4 +24,4 @@ Questions. You may contact us with any questions regarding our Privacy Policy at
 
 Amendment of Policy. RADWARE reserves the right to amend the terms of this Policy from time to time without notice, by posting the revised terms on the Website.
 
-COPYRIGHT © 2008, Radware Ltd. All Rights Reserved.
+COPYRIGHT © 2009, Radware Ltd. All Rights Reserved.
