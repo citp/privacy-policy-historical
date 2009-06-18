@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609200510id_/http%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618052204id_/http%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Asians247.com - Live Video Feeds Direct from their Homes!
+# Asians247.com - Live Video Chat Feeds Direct from their Homes!
 
 **PRIVACY POLICY**
 
