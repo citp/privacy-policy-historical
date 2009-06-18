@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205050618id_/http%3A//www.txdot.gov/privacy_and_security_policy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142512id_/http%3A//www.txdot.gov/about_us/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy
-
-Privacy and Security Policy
 
 This web site is an official Texas Department of Transportation (TxDOT) computer system operated for authorized use only and provided as a public service. This policy describes TxDOT’s privacy and security practices regarding information collected from visitors to the site, including what information is collected and how that information is used.
 
@@ -36,5 +34,4 @@ The TxDOT site may use cookies to provide interactive pages, such as web-based f
 
 All information collected or maintained by TxDOT is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code). The identity of most members of the public who communicate with state agencies through the Internet is confidential under Texas law. Exceptions to confidentiality may be reviewed at Texas Government code, Section 552.137.
 
-TxDOT complies with the [State Web Site Link and Privacy Policy](http://www.dir.state.tx.us/standards/link_policy.htm). TxDOT encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.  
- 
+TxDOT complies with the [State Web Site Link and Privacy Policy](http://www.dir.state.tx.us/standards/link_policy.htm). TxDOT encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.
