@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragmites.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmites.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,9 @@ Security We are committed to ensuring that your information is secure. In order 
 ---|---  
 | 
 
-[Internet Strategy](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/index.php)  
+[Internet Strategy](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/internet-strategy-company.php)  
 Our Internet solutions help you develop and implement a clear and directed Internet strategy to maximize returns on your e-investment...  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/index.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/internet-strategy-company.php)
 
 ...........................................................  
   
@@ -32,9 +32,9 @@ Our Internet solutions help you develop and implement a clear and directed Inter
 ---|---  
 | 
 
-[Search Engine Optimization](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/search-engine-optimization.php)  
+[Search Engine Optimization](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/low-cost-seo.php)  
 Increase brand visibility, targeted traffic, and higher conversions, with our tested and proven methodology.  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/search-engine-optimization.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/low-cost-seo.php)
 
 ...........................................................  
   
@@ -42,9 +42,9 @@ Increase brand visibility, targeted traffic, and higher conversions, with our te
 ---|---  
 | 
 
-[Online Advertising](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/online-advertising.php)  
+[Online Advertising](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/ppc-bid-management.php)  
 A great way to drive traffic immediately, test your market and get immediate results with an excellent return on investment.  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/online-advertising.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/ppc-bid-management.php)
 
 ...........................................................  
   
@@ -52,9 +52,9 @@ A great way to drive traffic immediately, test your market and get immediate res
 ---|---  
 | 
 
-[Website Development](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/website-design.php)  
+[Website Development](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/website-design.php)  
 Our Website Design and Development is based on proven techniques to engage your website visitor, encourage repeat visitors and more important encourage action.  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/website-design.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/website-design.php)
 
 ...........................................................  
   
@@ -62,9 +62,9 @@ Our Website Design and Development is based on proven techniques to engage your 
 ---|---  
 | 
 
-[Web Analytics](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/web-analytics.php)  
+[Web Analytics](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/web-analytics.php)  
 Web analytics provides metrics that identify the behavior of visitors to your website and help you make decisions on your online strategy for better ROI  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/web-analytics.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/web-analytics.php)
 
 ...........................................................  
   
@@ -72,9 +72,9 @@ Web analytics provides metrics that identify the behavior of visitors to your we
 ---|---  
 | 
 
-[Email Campaigns](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/email-campaigns.php)  
+[Email Campaigns](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/email-campaigns.php)  
 Keep your organization top-of-mind and develop strong relationships. Permission based campaigns have proven to be an extremely efficient and cost - effective marketing tool.  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/email-campaigns.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/email-campaigns.php)
 
 ...........................................................  
   
@@ -82,8 +82,8 @@ Keep your organization top-of-mind and develop strong relationships. Permission 
 ---|---  
 | 
 
-[E-commerce Solutions](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/e-commerce-solutions.php)  
+[E-commerce Solutions](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/e-commerce-solutions.php)  
 We deliver value-added and effective software and web development services. These solutions ensure improved productivity and reduced costs.  
-[read more »](https://web.archive.org/web/20081218184733id_/http%3A//www.pragmites.com/internet-strategy/e-commerce-solutions.php)
+[read more »](https://web.archive.org/web/20090618194842id_/http%3A//www.pragmites.com/internet-strategy/e-commerce-solutions.php)
 
 ...........................................................
