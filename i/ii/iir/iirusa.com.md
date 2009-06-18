@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050904id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618033558id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
 
 # IIR USA - Large Scale Events, Conferences, Seminars - Solutions, Skills, and Knowledge
 
@@ -30,7 +30,7 @@ You will be able to adjust your browser preferences from accepting new cookies, 
 
 **Does the Institute for International Research Share the Information It Receives?**
 
-Because we value your privacy, the information you provide via this web site is used only by IIRUSA and companies operated by IIRUSA. IIR does rent lists for the purposes of direct mail, but the lists provided by IIR will NEVER include your email address, phone, or fax number. No list furnished by IIR List Management may be used by anyone other than for the confidential use of the original mailer. Lists furnished sold for one-time use only. No telemarketing allowed. All lists are seeded with decoy names to protect against unauthorized use; violators will be prosecuted.
+Because we value your privacy, the information you provide via this web site is used only by IIRUSA and companies operated by IIRUSA.  IIR does rent lists for the purposes of direct mail, but the lists provided by IIR will NEVER include your email address, phone, or fax number.  In order to effectively provide online seminars attendees the value they desire, attendees’ email addresses will be shared with the seminar’s presenter and/or partner.  In no other situation will your email address be provided to anyone other than IIRUSA and companies operated by IIRUSA.   No list furnished by IIR List Management may be used by anyone other than for the confidential use of the original mailer. Lists furnished sold for one-time use only. No telemarketing allowed. All lists are seeded with decoy names to protect against unauthorized use; violators will be prosecuted. You can request that your information not be distributed to any third party by completing [**IIRUSA's Do Not Share With Third Parties form**](http://www.iirusa.com/47325.xml "IIRUSA's Do Not Share With Third Parties").
 
 **Agents:**
 
