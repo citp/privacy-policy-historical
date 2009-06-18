@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133646id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174342id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Car Body Design
 
@@ -64,9 +64,29 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to info@carbodydesign.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
 
-### Links
+## Log Files
+
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+## Cookies and Web Beacons
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+## DoubleClick DART cookies
+
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+## Links
 
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
+
+## Contact Information
 
 **This Site is operated by:**
 
@@ -90,3 +110,5 @@ Our e-mail newsletter service is operated by
 * **Automatic Data Collection:** Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
 
 Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at www.privacychoices.org.
+
+(Last Update: 9 April 2009)
