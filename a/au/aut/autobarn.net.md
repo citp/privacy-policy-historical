@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218021954id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192050id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Policies
 
-**AutoBarn.com Privacy Policy** | **We are committed to maintaining your privacy.**  
+ 
+
+ **AutoBarn.com Privacy Policy**
+
+| **We are committed to maintaining your privacy.**  
 To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com through our [Customer Service Center.](http://www.autobarn.net/support.html)  
 ---  
   
   
-**Information We Use& How It is Collected**  
-  
+**Information We Use & How It is Collected**  
 **Your IP Address**  
 An Internet Protocol (IP) address is a number that is automatically assigned to your computer every time you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use your IP address to help diagnose problems with our servers and to administer our Web site. We do not link IP addresses to anything personally identifiable. This means that a user session will be tracked, but the user will be anonymous.  
   
@@ -36,7 +39,7 @@ AutoBarn.com discloses personal information when required by law or in the good-
 **Other Sites' Policies**  
 You might choose to leave our site via links to other sites, including those of advertisers. AutoBarn.com is not responsible for the privacy policies or the content on those sites, nor is it responsible for the cookies those sites might deposit on your hard drive.  
   
-**Safety& Security**  
+**Safety & Security**  
 **Credit Card Security**  
 Shopping on the Internet is incredibly safe. 
 
@@ -45,6 +48,9 @@ At AutoBarn.com, we ensure that it's safe by transferring all of your personal i
   
 **AutoBarn.com's Safe Shopping Guarantee**  
 Shopping with us is so safe we guarantee it with our Safe Shopping Guarantee. In a nutshell, we guarantee every transaction as 100 percent safe. If unauthorized charges appear on your credit card as a result of shopping with us while using our secure server, we will reimburse you up to the maximum $50 legal liability. We only require that you follow the reporting steps required by the issuer of your card (under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges).  
+  
+**Website Errors**  
+Prices and availability of products and services are subject to change without notice. Errors will be corrected where discovered, and Auto Barn reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions including after an order has been submitted and whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is cancelled, Auto Barn will issue a credit to your credit card account in the amount of the charge. Individual bank policies will dictate when this amount is credited to your account. If you are not fully satisfied with your purchase, you may return it in accordance with Auto Barn's Return Policy.  
   
 **Your Consent/Contacting Us**  
 **Your Consent**  
