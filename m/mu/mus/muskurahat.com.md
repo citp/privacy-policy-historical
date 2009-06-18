@@ -1,88 +1,23 @@
-> *The following text is extracted and transformed from the muskurahat.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009194415id_/http%3A//www.muskurahat.com/p_pbud.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muskurahat.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062606id_/http%3A//www.muskurahat.us/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy - Muskurahat.com
 
-BUDS, Inc. is deeply committed to protecting the privacy of Internet  
-users. Accordingly, we strictly adhere to all industry guidelines, and will  
-continue to review and improve our privacy policy and procedures to ensure  
-the safety and protection of consumer information. This Privacy Statement  
-presents our privacy policy, including BUDS's privacy practices for our  
-www.budsinc.com Web site. Below is information regarding BUDS's commitment  
-to protecting the privacy of Internet users.
+We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site, and how we safeguard your information.  We never sell your personal information to third parties.
 
-###  Consumer Information
+**Log Files**
 
-  
-BUDS uses one or more third party ad serving technology to serve ads  
-at this site and at our clients' sites. In the course of delivering an ad to  
-you, the third party ad serving party may place or recognize a unique cookie  
-on your browser and use information (not including your name, address, email  
-address or telephone number) about your visits to this and other Web sites  
-in order to provide advertisements about goods and services that may be of  
-interest to you. If you would like more information about this practice and  
-to know your choices about not having this non-personally-identifiable  
-information used to serve ads to you, please click here.
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-###  Cookies and Opt Out
+**Cookies and Web Beacons**
 
-  
-Like most Internet sites, BUDS and its third party ad serving party  
-uses "cookies" to enhance the Internet user's experience on the Web. Neither  
-BUDS nor such third party ad serving party uses these cookies to personally  
-identify you in any way, and these cookies in no way damage your system or  
-files.
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-####  What are cookies and how do they enhance your Web experience?
 
-A cookie is a unique number that is assigned to you the first time you  
-are served an ad. This number is stored in a file on your computer. For  
-instance, cookies help ensure that you don't repeatedly see the same ad.  
-Cookies can also help advertisers measure how you utilize an advertiser's  
-site and the effectiveness of an ad. This information can then be used by  
-advertisers to better cater to your needs. In other words, cookies help us  
-deliver to you the types of ads in which you are more interested.
 
-Although we believe that cookies help enhance your experience on the  
-Web (by not repeatedly serving the same ads to you and delivering more  
-relevant messages to you), neither BUDS nor its third party ad serving party  
-needs cookies to deliver ads to you.
+We also use third party advertisements on our siteto support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-####  Opt Out
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-  
-If you do not want the benefits of cookies, there is a simple  
-procedure that allows you to deny or accept this feature. In order to "opt  
-out" of the benefits of cookies, you may either manually delete your cookies  
-by following the instructions contained in the Help section of your browser,  
-or you may click here.
-
-####  Industry Efforts to Protect Consumer Privacy
-
-  
-BUDS is committed to protecting the privacy of Internet users.  
-Accordingly, we strictly adhere to all industry guidelines, including those  
-established by the Direct Marketing Association. To review information  
-regarding privacy practices on our BUDS Web site, please click here. If you  
-should have any questions or concerns regarding this Privacy Statement,  
-please contact our Customer Services at contact@budsinc.com. We recommend  
-that you periodically review this Privacy Statement, as BUDS may update it  
-from time to time.
-
-####  Third Party Advertising
-
-  
-We use BUDS INC., MaxWorldwide and other third-party advertising  
-companies to serve ads when you visit our Web site. These companies may use  
-information (not including your name, address, email address or telephone  
-number) about your visits to this and other Web sites in order to provide  
-advertisements on this site and other sites about goods and services that  
-may be of interest to you. If you would like more information about this  
-practice and to know your choices about not having this information used by  
-these companies, please click here
-
-####  Third Party Cookies
-
-  
-In the course of serving advertisements to this site, our third-party  
-advertiser may place or recognize a unique "cookie" on your browser.  
-
+**Last Updated: _14 March 2009_**
