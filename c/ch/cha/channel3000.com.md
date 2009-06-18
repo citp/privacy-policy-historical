@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610053201id_/http%3A//www.channel3000.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140625id_/http%3A//www.channel3000.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# Channel3000.com - News
+# Madison News - Madison WI News, Breaking News And Headlines
 
 **Internet Broadcasting Systems Private Policy:**  
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.Channel3000.com](http://www.channel3000.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
