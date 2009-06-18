@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212131419id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114047id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # RadioShack.com Helpdesk
 
@@ -80,9 +80,6 @@ If you elect to use our "Email a Friend" or "Email your Wish List" service for i
 **We will not condition access or participation in an activity**  
 RadioShack will not condition a user's access or participation in an activity on giving out more personal information than what is considered reasonably necessary for the activity. 
 
-**Downloadable software disclaimer**  
-From time-to-time RadioShack.com provides links to software such as drivers and screensavers. The TRUSTe program covers only information that may be collected through this website, and does not cover information that may be collected through software downloaded from the site. 
-
 **Co-branded offers**  
 From time-to-time RadioShack.com provides some co-branded offers, for example to apply for a RadioShack Credit Card or to manage your AnswersPlus Account. In these cases the user is directed to another party's website. The use of data collected through that website is governed by it's own privacy policies. 
 
@@ -94,7 +91,4 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 If however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days. 
 
-**This site is part of the TRUSTe program**  
-RadioShack is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.radioshack.com](https://web.archive.org/home/index.jsp). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose it's information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If users have questions or concerns regarding this statement, they should first contact RadioShack Online Privacy by email [RadioShack.Online.Privacy@radioshack.com](mailto:RadioShack.Online.Privacy@radioshack.com). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should contact RadioShack Online Privacy by email [RadioShack.Online.Privacy@radioshack.com](mailto:RadioShack.Online.Privacy@radioshack.com).
