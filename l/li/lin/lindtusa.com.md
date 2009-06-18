@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110120id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618084627id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.*
 
 # Lindt
 
@@ -6,11 +6,11 @@ Lindt will not collect any personally identifiable information about you (such a
 
 ### Personal Information
 
-This is the official web site of Chocoladefabriken Lindt & Sprüngli AG ("Lindt"), makers of fine chocolates. We at Lindt respect your concerns about privacy. Accordingly, we have enacted the following policies which are intended to protect your privacy and ensure that all voluntarily submitted personal information is handled in a safe and responsible manner. As we continue to develop our web site and take advantage of technologies to improve the services we provide, our policies will continue to evolve in order to maintain the same standards of privacy protection.
+This is the official web site of Lindt & Sprüngli (USA), Inc. ("Lindt"), makers of fine chocolates. We at Lindt respect your concerns about privacy. Accordingly, we have enacted the following policies which are intended to protect your privacy and ensure that all voluntarily submitted personal information is handled in a safe and responsible manner. As we continue to develop our web site and take advantage of technologies to improve the services we provide, our policies will continue to evolve in order to maintain the same standards of privacy protection.
 
 We only collect personal information when you request our services, and only use the information collected to provide that service for you. If you choose to make a purchase, you will be asked to provide contact information (such as your name and shipping address) and financial information (such as your credit card number and expiration date). This information is used for billing purposes and to process your order. If you send a gift and provide the recipient's shipping address, or send a gift certificate and provide the recipient's email address, this information is used only for delivery purposes. When requesting a service, you may also choose to receive updates and special offers ("newsletters") from Lindt. Like all services provided through our web site, the choice to receive Lindt newsletters is optional and you may change your preference at any time.
 
-Any personal information provided will not be sold, rented, traded or otherwise shared with anyone outside of Lindt, or used for reasons beyond those contemplated by this statement. None of Lindt's assistants (such as our shipping or credit card company) retain, share, store or use personal information for any reason other than providing the requested service.
+Any personal information provided will not be sold, rented, traded or otherwise shared with anyone outside of Lindt and Lindt's assistants (such as our shipping or credit card companies), or used for reasons beyond those contemplated by this statement. None of Lindt's assistants retain, share, store or use personal information for any reason other than providing the requested service.
 
 ### Access to Personal Information
 
