@@ -1,23 +1,40 @@
-> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426190757id_/http%3A//www.btls.com/search.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btls.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105941id_/http%3A//www.btls.com/privacy-policy) for the most accurate reproduction.*
 
-# Bubba The Love Sponge® Search
+# Privacy Policy | Bubba the Love Sponge® Show
 
-### Bubba The Love Sponge® Privacy Policy
+The [Bubba](http://www.btls.com/show-staff/bubba "Bubba") the Love Sponge® Show & BTLS.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Bubba the Love Sponge® Show & BTLS.com.
 
-We take your privacy seriously here at the Bubba The Love Sponge® show. Please read the following to learn more about our privacy policy.
+The Bubba the Love Sponge® Show & BTLS.com is committed to protecting your personal privacy. Our Five Principles of Privacy summarize and clarify that commitment–how we safeguard your privacy, how we treat personal information, and what choices you have. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.
 
-This policy covers how BubbaArmy.com treats personal information that BTLS.com collects and receives, including information related to your past use of BTLS.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+  * We do not disclose your private online communications.
+  * We do not use any information about where you personally navigate on BTLS.com or the Web, and we do not give it out to others. 
+  * We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your personal information.
+  * We will advise you if and when changes to this policy are made.
 
-BubbaArmy.com collects personal information when you register with BTLS.com, when you use BubbaArmy.com products or services, and when you visit BTLS.com pages. BTLS.com collects information about your transactions with us, including information about your use of financial products and services that we offer.
 
-BTLS.com automatically receives and records information on our server logs from your browser, including your IP address, BubbaArmy.com cookie information, and the page you request.
 
-BTLS.com uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, and conduct research.
+**How Does the Bubba the Love Sponge® Show & BTLS.com Use Registration Information?**
 
-BTLS.com does not rent, sell, or share personal information about you with other people or non-affiliated companies.
+The Bubba the Love Sponge® Show & BTLS.com’s registration forms may require users to give us contact information (i.e., name and e-mail address) and demographic information (i.e., ZIP code, gender or age). We use this information from the registration form to send our users information about our website. The user’s contact information is also used to contact the user when necessary. Demographic and profile data is also collected during registration. We use this data to tailor the user’s experience at BTLS.com, showing people content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-We transfer information about you if BTLS.com is acquired by or merged with another company. In this event, BTLS.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
+**How does the Bubba the Love Sponge® Show & BTLS.com use cookies and the IP address information?**
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to reenter it each time you visit our site. The cookie does not track any personal information about you, provide us with any way to contact you, or extract any information from your computer. When you visit the store area on this site, cookies are simply the best way for us to offer you the most enjoyable and hassle-free online shopping experience by retaining information about your visit and use of our store. We hope you will want the better service that cookies provide, but you may set your browser to refuse cookies. However, by doing so, you will not be eligible for any online discounts/specials/promotions/or coupons.
 
-[ ](http://friendfinder.com/go/g779691-pmem)
+**How does the Bubba the Love Sponge® Show & BTLS.com work with other companies and how do these relationships affect user privacy?**
+
+The Bubba the Love Sponge® Show & BTLS.com contains links to other sites. We are not responsible for the privacy practices or the content of such websites.
+
+Occasionally we may share information with our sponsors and partners. We will share such information on an aggregate basis and will never reveal information about individual users of the site without consent.
+
+**What is the Bubba the Love Sponge® Show & BTLS.com’s policy regarding posts on message boards?**
+
+The Bubba the Love Sponge® Show & BTLS.com makes message boards available to its users. Please remember that any information that is disclosed in public message boards becomes public information and you should exercise caution when deciding to disclose your personal information. Messages posted on private message boards are only revealed to members of the private groups.
+
+**How does the Bubba the Love Sponge® Show & BTLS.com secure information entered by visitors?**
+
+We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private.
+
+Each and every Bubba the Love Sponge® Show employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination. Only authorized Bubba the Love Sponge® employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
+
+Changes to this Privacy Policy the Bubba the Love Sponge® Show & BTLS.com may amend this policy from time to time.
