@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217170014id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superteacherworksheets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618170332id_/http%3A//www.superteacherworksheets.com/faq.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use for Super Teacher Worksheets
 
@@ -34,18 +34,30 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+**Advertising**
+
+We have Google AdSense ads on our Website, as well as affiliate links to products that may be of interest to educators.
+
+**Newsletter**
+
+We do have a free, opt-in subscription newsletter for which we collect names and addresses.  If you choose to enter your name e-mail address to subscribe to our newsletter, we will have access to your name and e-mail address.  These are used exclusively for our communications to you.  We do not sell, share, or distribute e-mail addresses in any way.  Our list is managed with an AWeber.com account.
+
+**T.P.W. Websites, LLC**
+
+SuperTeacherWorksheets.com is part of T.P.W. Websites, LLC.
+
+Our mailing address is 36 Kohler St., Tonawanda, NY 14150.
+
 **Thanks for visitng Super Teacher Worksheets!**
 
 Copyright 2008 - Super Teacher Worksheets  |  Privacy Policy Worksheets
 
 Fun Math Practice Worksheets
 
-450+ Pages of Math Games!
-
-Guide to Getting a Teaching Job
-
 _Spelling Lists & Worksheets_
 
-_Contest_
+_Super Teacher Newsletter_
 
-**_Enter the monthly Super Teacher Worksheets_** ** _[contest](https://web.archive.org/web/20081217170014id_/http%3A//www.superteacherworksheets.com/contest.html)_** ** _!_**
+Free teaching tips, ideas, & worksheets sent to your inbox!
+
+Cool NEW Math Printables!
