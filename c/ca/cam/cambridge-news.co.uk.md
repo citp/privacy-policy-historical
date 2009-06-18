@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218092058id_/http%3A//www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridge-news.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142112id_/http%3A//www.cambridge-news.co.uk/cn_news_home/DisplayArticle.asp%3FID%3D79375) for the most accurate reproduction.*
 
-# Cambridge News Home - Privacy Policy
+# Latest news from Cambridge & Cambridgeshire. Cambridge sports, Cambridge jobs & Cambridge business - Privacy Policy
 
 ## Privacy Policy
 
