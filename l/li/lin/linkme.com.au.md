@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165410id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062538id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | LinkMe
+# Privacy Statement
 
 Protecting your information and maintaining your privacy are of the utmost importance to LINKME. 
 
@@ -97,6 +97,6 @@ LINKME may update this privacy statement at anytime. In the event there are sign
 
 ### Questions or comments
 
-If you have questions or comments about privacy, please [contact us](http://www.linkme.com.au/ui/unregistered/common/ContactUsForm.aspx). 
+If you have questions or comments about privacy, please [contact us](https://web.archive.org/ui/unregistered/common/ContactUsForm.aspx). 
 
 LinkMe Privacy Statement, Version 3.0. Last Updated: 13th November 2006
