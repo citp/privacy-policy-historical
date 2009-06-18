@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219113418id_/http%3A//www.artinstitutes.edu/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinstitutes.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133127id_/http%3A//www.artinstitutes.edu/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
 
 # Art Institutes: Privacy Policy
 
 This policy was last updated on February 1, 2008.
 
 The Art Institutes system of schools is committed to protecting any personal information that you may provide to us. We want you to understand what kinds of information we gather from you, how this information is used and protected, and how you can control its use. This statement discloses the privacy practices of The Art Institutes Web site. By using The Art Institutes Web site, the user agrees, without limitation or qualification, to be bound by this Privacy Policy. Any changes in our Privacy Policy will be communicated in this page, so please check back from time to time.  
-This policy applies to the online collection of information at this Web site only. 
+This policy applies to the online collection of information at this Web site only.
 
 **Who may use this Web site  
 **The Art Institutes Web site is not intended or designed to attract users under the age of 13. We do not collect personally identifiable data from any person we know to be under the age of 13, and instruct users under 13 not to send us any information for collection on The Art Institutes Web site.  
