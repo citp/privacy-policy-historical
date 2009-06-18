@@ -1,51 +1,67 @@
-> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605154951id_/http%3A//www.paragonsports.com/paragon/customer_service.asp%3Fmscsid%3D%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragonsports.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618124648id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.*
 
-# Paragon Sports: New Yorks Finest Sports Specialty Store, Sports, Gear, Clothing
+# Privacy Policy
 
-Customer Service
+  * This Web site, currently located at www.paragonsports.com (“Web Site”), is published and maintained by Paragon Sports LLC et al, with offices located at 867 Broadway, New York, New York 10003 (“Paragon”). Paragon is referred to in this Privacy Policy as “we,” “us,” “our,” or other similar pronouns. 
+  * This Privacy Policy governs your use of the Web Site. This Privacy Policy explains, in general, what Personal Information (as defined below) and other information may be collected on our Web Site, how the information may be used, and with whom we may share such information. By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. 
+  * This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, through postal mail, in our retail stores and through other live and print media. 
+  * This Web Site is intended for users who are located in the United States of America. At this time, Paragon does not accept online orders shipped to International addresses. This Privacy Policy shall be interpreted under the laws of the United States. 
+  * Advertisements and other content displayed or transmitted to you on or through the Web Site may be customized to your interests and preferences, based on your Personal Information and Web Site Usage Information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources. 
 
-Customer satisfaction is Paragon's highest priority. Here you can find service information on the following topics: 
 
-> > > Privacy Policy  
->  Use of Cookies  
->  Return Policy  
->  International Orders
+
+We collect Personal Information from and about users of our Web Site, for example, when users register or subscribe for accounts or features on our Web Site, make online purchases, complete surveys, contribute to a review, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit Personal Information to us via our Web Site. 
+
+* We may also provide a feature that allows you to send information about our products to a friend by clicking on the “Send to Friend” or similar button on our Web Site or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend to us. Such information will be treated in accordance with this Privacy Policy and applicable law. 
+* You may also be able to send an online card to a friend or family member, or send them a gift or gift certificate. If so, you may be required to provide us with your friend’s or family member’s Personal Information. Such information will be treated in accordance with this Privacy Policy and applicable law. 
+
+### IP Address and Clickstream Data
+
+* When you visit our Web Site, our server automatically collects data about your Internet Protocol address, which is a number that’s automatically assigned to your computer by your Internet service provider. When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Web Site; the Web site you visit after this Web Site; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. 
+* Any or all of these activities with regard to Web Site Usage Information may be performed on our behalf by our services providers.
+
+## How is the Personal Information used?
+
+  * We will use your Personal Information, for example, to respond to your requests and to provide you with our product and service offerings. We may also use your Personal Information to maintain our internal record keeping. 
+  * In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the **Right to Opt In and Opt Out** section above. 
+  * We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate.
+
+## Do we share Personal Information and Web Site Usage information with others?
+
+### Service Providers
+
+  * We may use third-party partners to help operate our Web Site and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). 
+
+### Aggregate Statistics
+
+  * We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. 
+
+### Legally Compelled Disclosures
+
+  * We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including, but not limited to, in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities. 
+
+### Business Transfer
+
+  * In the event that Paragon, or substantially all of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets. 
+
+
+
+## Consent to Processing
+
+  * By providing Personal Information to this Web Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories. 
+
+## Third-Party “Linked-To” Web Sites
+
+  * When you are on our Web Site you may have the opportunity to visit, or link to, other sites not operated by us. For example, if you choose to participate in a co-sponsored contest, sweepstakes or other offering that we may from time to time make available on the Web Site, you may be linked to the co-sponsor’s Web site. These sites may collect Personal Information about you. We do not control sites that are operated by these entities and we are not responsible for the information practices of these sites. This Privacy Policy does not address the information practices of those other Web sites. The Privacy Policies of these third party Web sites are located on those sites. 
+
+## Changes to this Privacy Policy
+
+  * We reserve the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site to sending you an e-mail. 
+
+## Contact Us
+
+  * If you have any questions or comments regarding our privacy practices, you may contact us at customerservice@paragonsports.com or 1-800-961-3030 or 212-255-8889. 
+  * **Last Updated: [ 4/10/2008 ]**
 
   
-Privacy
 
-Paragon Sports values its customers and respects their privacy. When obtaining information from you, we ask for only the information we need to provide the service you've requested. When making a purchase, we ask you to provide information by filling out and submitting an on-line form that includes the personal information necessary to make a purchase. This includes encrypted credit card information, which is strictly limited in use to processing your order, and is not stored on our servers. 
-
-Additionally, this information assists us in providing you with the highest level of customer service. You may review, change, or update your information at anytime. We do not exchange, trade or sell any information you provide us. We collect customer information solely in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. If our information practices change in the future, we will let you know by posting the policy changes on our Web site and/or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
-
-Any questions on our privacy policy can be answered by calling Customer Service at 800-961-3030 or 212-255-8036 extension 237. You can e-mail us at [info@paragonsports.com](mailto:info@paragonsports.com)
-
-  
-Cookies
-
-When you register with Paragon Sports a cookie is placed on your PC. A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. As a registered customer, your cookie allows us to recognize you when you return to our site and provides you with easier access to your account information. If you register with or order from us, we use the cookie to notify you of your purchase and to track your order. It also allows you to open our site at the particular department or activity you selected as your 'favorite' when you registered with us.
-
-We do not use cookies to gather information about you, where you have been on our site or even where you were prior to our site. We use them strictly to help process your order and to allow you to choose the opening page on our site. Additionally, the cookies we use contain only personally non-identifiable information consisting solely of a long code of letters and numbers. Anyone else reading this cookie will not be able to learn anything about you, such as your name, location, PC, Web surfing habits, or any other information about you. You can refuse cookies by turning them off in your browser. If you turn off cookies, however, you will not be able to make any online purchases from our site or register as a customer, as we will not be able to track your order or your information. 
-
-  
-Return Policy
-
-Paragon Sports has a 30-day return policy with the following exceptions and restrictions: 
-
-  * Ski and Snowboard merchandise may be returned up to 14 days after purchase.
-  * All climbing equipment items are final sales and not returnable, as mandated by New York State Law.
-  * All custom knife sales are final and custom knives are not returnable.
-  * All items must be returned in their original packaging and in sellable condition in order to obtain a refund. 
-  * Items purchased on-line at Paragonsports.com can be returned to the Paragon Sports Store in New York City.
-
-
-
-  
-International Orders
-
-At this time Paragon Sports does not accept International Orders online. To Place an International Order you must contact Customer Service by phone at 1-800-961-3030 or by e-mail at [info@paragonsports.com](mailto:info@paragonsports.com). Customer Service is available during our store hours, Monday thru Saturday 10:00 a.m. to 8:00 p.m. and Sunday 11:30 a.m. until 7:00 p.m., Eastern Standard Time.  
-  
-  
-Shop Online, Anytime, 24/7  
-Store Hours: Mon-Sat 10am-8pm, Sun 11:30am-7pm  
-867 Broadway at 18th St New York NY 10003
