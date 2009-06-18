@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913073428id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thottbot.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618121329id_/http%3A//thottbot.com/%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - Thottbot: World of Warcraft
 
-| 
+  
 
-**Privacy Statement**
 
-NEW! [Wrath of the Lich King! (September 10)](http://thottbot.com/-/wotlk "Wrath of the Lich King")   NEW! [Project Lore WotLK Episode 1.6](http://thottbot.com/projectlore41 "Project Lore")
-
-Privacy Statement 
+_Thottbot Privacy Statement_
 
 The Thottbot Website (www.THOTTBOT.com) part of ZAM Network, LLC. Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
 
@@ -34,5 +31,3 @@ The Thottbot Website (www.THOTTBOT.com) part of ZAM Network, LLC. Protecting you
 
 
  
-
-| 
