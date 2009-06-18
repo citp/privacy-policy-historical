@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217001703id_/http%3A//city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618161847id_/http%3A//www.city-visitor.com/privacy_policy.html) for the most accurate reproduction.*
 
-# UK city guides & travel guide, providing tourist information
+# Privacy Policy, City-Visitor
 
 City-visitor.com is owned and operated by [Infoserve Ltd](http://www.infoserve.com/). 
 
