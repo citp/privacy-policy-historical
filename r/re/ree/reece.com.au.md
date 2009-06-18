@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218220441id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618151046id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
 
 # Reece™ | Plumbing
 
@@ -11,7 +11,7 @@ The privacy of your personal information is afforded the highest level of import
 We primarily collect information about you through correspondence we engage in with you, for example, through application forms, telephone conversations and emails. We also collect information from sources that are publicly available such as websites, journals and phone books. Sometimes, we collect information about our customers from our sales agents and distributors who have direct contact with you on our behalf. We do not make use of cookies on our website to collect personal information about visitors to the site. 
 
 **Kinds of information that we hold about you**   
-We only hold information about you if it is relevant to providing the services and products that we provide. Such information generally includes your name, contact details, type of business, payment details, account number, records of correspondence and billing statements. If you are on of our suppliers, we may collect other information about you that we feel is necessary, such as the nature of the products or services that you supply, quotes that you provide and your direct credit details,. If you are a non-profit organisation that we have agreed to assist, we may collect information about how you make use of the products or services that we provide to you. 
+We only hold information about you if it is relevant to providing the services and products that we provide. Such information generally includes your name, contact details, type of business, payment details, account number, records of correspondence and billing statements. If you are one of our suppliers, we may collect other information about you that we feel is necessary, such as the nature of the products or services that you supply, quotes that you provide and your direct credit details,. If you are a non-profit organisation that we have agreed to assist, we may collect information about how you make use of the products or services that we provide to you. 
 
 **How we hold your information**   
 Depending on the circumstances, we may hold your information in either hardcopy or electronic form, or both. Our client database is held in electronic format. 
