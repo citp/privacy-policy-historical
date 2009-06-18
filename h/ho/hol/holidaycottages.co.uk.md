@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030946id_/http%3A//www.holidaycottages.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618155037id_/http%3A//www.holidaycottages.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Cottage Dorset, holiday UK, holiday cottages UK, cottage holidays Devon, UK cottages
+# Privacy Policy | Farm & Cottage Holidays Privacy Policy, How We Protect Your Information
 
 ##### COMMITMENT TO YOUR PRIVACY
 
