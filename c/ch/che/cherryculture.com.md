@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cherryculture.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217175027id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherryculture.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143011id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.*
 
-# Help zone :: Cherry Culture :: Makeup Cosmetics
+# Security and Privacy :: Cherry Culture :: Makeup Cosmetics
 
 **Does CherryCulture Share the Information It Receives?**
 
