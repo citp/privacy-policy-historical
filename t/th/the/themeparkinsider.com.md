@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219043802id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140830id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
@@ -26,11 +26,11 @@ We also strongly encourage you to use the free [Firefox](http://www.mozilla.org/
 
 The only ads we present on ThemeParkInsider.com are text and banner ads sold and served via Google's AdWords program and Yahoo's Publisher Network. Our travel agent partner, TravelNow, may also run text and graphical banner ads on Theme Park Insider co-branded pages hosted on its site.
 
+We use these third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
 ### Editorial integrity
 
-Our editorial independence is important to us, so that's why we have outside companies (Google, Yahoo and TravelNow) handling all of our advertising and travel bookings. We don't know who spends what to advertise on ThemeParkInsider.com, so there can be no doubt that advertising does not affect our coverage of specific theme parks.
-
-In addition, we ask all readers to abide by our [guidelines for writers](https://web.archive.org/ethics/) before submitting comments to the site.
+Our editorial independence is important to us, so that's why we ask all readers to abide by our [guidelines for writers](https://web.archive.org/ethics/) before submitting comments to the site.
 
 ### Readers' support
 
@@ -42,3 +42,6 @@ Again, this site is a community. If you are uncomfortable participating as a pub
 
 Thanks for visiting,  
 [Robert Niles](http://www.themeparkinsider.com/contact/), Founder and Editor, ThemeParkInsider.com
+
+  
+
