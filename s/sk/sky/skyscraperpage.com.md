@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153005id_/http%3A//skyscraperpage.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscraperpage.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618163340id_/http%3A//skyscraperpage.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SkyscraperPage.com
 
@@ -19,7 +19,7 @@ Our website servers are located within the United States and owned by a Canadian
 
  **Google Adsense advertisements**  
   
-Google's Adsense ads, displayed as 3rd party advertisements on SkyscraperPage.com, may be placing and reading cookies on a visitor's browser, or using web beacons to collect information in the course of ads being served via this website.  To learn more about managing cookies stored in browsers and browser cookie settings, please [click here](http://www.allaboutcookies.org/manage-cookies/) (note: the previous link points to a website not affiliated with SkyscraperPage.com and is linked to for reference purposes only).
+Google's Adsense ads, displayed as 3rd party advertisements on SkyscraperPage.com, may be placing and reading cookies on a visitor's browser, or using web beacons to collect information in the course of ads being served via this website.  To learn more about managing cookies stored in browsers and browser cookie settings, please [click here](http://www.allaboutcookies.org/manage-cookies/) (note: the previous link points to a website not affiliated with SkyscraperPage.com and is linked to for reference purposes only).  Google uses a DoubleClick DART cookie to serve ads based on uses visit to SkyscraperPage.com and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
  **Children**  
   
