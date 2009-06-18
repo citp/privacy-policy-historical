@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertsacademy.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095655id_/http%3A//www.lifesgoldenticket.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertsacademy.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618212635id_/http%3A//www.lifesgoldenticket.com/privacypolicy) for the most accurate reproduction.*
 
 # LIFE'S GOLDEN TICKET BY BRENDON BURCHARD - OFFICIAL SITE
 
