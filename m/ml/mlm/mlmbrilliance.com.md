@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217110522id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmbrilliance.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114653id_/http%3A//www.mlmbrilliance.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](http://www.mlmbrilliance.com/about-tim-sales.cfm)  
-Hi, I'm [Tim Sales](http://www.mlmbrilliance.com/about-tim-sales.cfm) and I want to help you to expand your network marketing business.
-
-|  | 
+# MLM Brilliance
 
 Privacy is a primary concern today, on and off the Internet. We are aware of these concerns and want you to feel comfortable using our site.
 
@@ -29,43 +24,3 @@ MLM Brilliance uses a technology called "cookies" to remember you and the inform
 **Security**
 
 Ensuring secure online ordering is an important part of our pledge to honor your privacy. MLM Brilliance utilizes SSL (secure socket layers) to protect your credit card information. SSL encrypts all ordering information, such as your name and credit card number, so that it cannot be read in transit. When you place an order with MLM Brilliance your credit card information is captured and stored separately from your order, so that it cannot be read by anyone other than our customer service staff. 
-
-|  | 
-
-#### **Will these online movies work for you?** Read what users have to say.
-
-**We have nearly tripled the amount of people who have joined via the Internet.** This Brilliant Compensation® Presentation has helped us to explain the advantages of Network Marketing so much better. - Bert Jensen.
-
-** **
-
-I have used Brilliant Compensation with **truly unbelievable results** for over seven years. Now I never get the pyramid objection. In fact, I don’t get any objections. - Jackie Ulmer
-
-** **
-
-My sponsor recommended that I use Brilliant Compensation, and **I’ve already sponsored three people using it!** \- Jessica Inskip
-
-** **
-
-My team has been using Brilliant Compensation for the past year with consistent results. The best part is that **prospects want to show up and meet with us**. - Ashleigh Gass
-
-**Since we have added the movies, we have one out of every 12 visitors request more information.** Before using these movies, my group had one out of every 40 visitors to our website request further information about our business. **That's a 333% increase!"** \- Vickie Z.
-
-**The number of people who are eager to get started increased substantially.** All I have to do with a prospect is show them how those concepts apply to our specific opportunity and my prospects can see why and how it is possible to build residual income from home. - Valentina O.
-
-**This is one of the most powerful video presentations that I've ever seen.** I've had people who already own their own business watch the video and say "Now I understand why I can't get ahead. It's about leverage." - Tom J.
-
-**I was just glued to my computer screen. The information was just so good.** It just started making me think differently than I had 10 min before watching it. - Joe S.
-
-**It is a wonderful presentation and it does change the minds of the skeptical people.** \- Shirley Alquist
-
-**I just got the online presentation and have already sponsored two people this week with it.** \- Byron Spinney
-
-**The Brilliant Compensation video is creating a surge of activity.** I have had it on my website for about two weeks now. Thank you so much, this tool has been incredibly worth it. – Ricci N.
-
-I have been using “Brilliant Compensation” in my training classes for over 2 years now. **It is one of the most effective tools I have ever seen in my 15 years in business.** \--Joe H.
-
-**The “Brilliant Compensation” Flash presentation is without question in my mind the BEST prospecting/training tool around.** \- Anson MacLauchlan
-
-I used to struggle having someone to talk to – someone in the pipeline. But now that I have access to these movies **the entire character of my business has changed.** \- David
-
-For those with ears to hear and eyes to see I ask them to watch the Brilliant Compensation Video. **One of our downline distributors increased his monthly sales volume** 600% **by utilizing your movie.** – Les Martin
