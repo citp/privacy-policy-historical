@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161651id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618214407id_/http%3A//www.colonialfirststate.com.au/footer/privacy.aspx%3Fmenutabtype%3Dfooter) for the most accurate reproduction.*
 
-# Colonial First State: Privacy
+# Privacy policy :: Colonial First State
 
 ## Colonial First State Privacy Policy 
 
