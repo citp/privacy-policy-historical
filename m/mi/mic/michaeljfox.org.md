@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218082207id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618100748id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
 
-# The Michael J. Fox Foundation for Parkinson's Research - Privacy Policy
+# Privacy Policy - The Michael J. Fox Foundation for Parkinson's Research
 
 The Michael J. Fox Foundation for Parkinson's Research is committed to safeguarding your privacy. This statement explains our online information practices and the choices you can make about the way the information you provide us is collected and used. For easy and direct access, we provide a link to this statement from our home page and all other pages of the site.
 
