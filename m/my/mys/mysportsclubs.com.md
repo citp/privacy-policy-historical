@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030121id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysportsclubs.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618042010id_/http%3A//www.mysportsclubs.com/privacy.htm) for the most accurate reproduction.*
 
 # MySportsClubs | Privacy Policy
 
 ### Introduction
 
-This privacy policy governs the information collection practices of Town Sports International U.S. based sports clubs and websites (Town Sports), including: mysportsclubs.com,NYSC.com, bostonsportsclub.com, washingtonsports.com, philadelphiasports.com, joinnosweat.com, companiesgetfit.com, and rockthescales.com. The policy below explains how Town Sports collects and uses your information, and when we share that information with third parties. By providing information to us, you agree to the terms and conditions of this privacy policy.
+This privacy policy governs the information collection practices of Town Sports International's U.S. based sports clubs and websites (Town Sports), including: mysportsclubs.com, joinmysportsclubs.com, NYSC.com, bostonsportsclub.com, washingtonsports.com, philadelphiasports.com, joinnosweat.com, campaniesgetfit.com, and rockthescales.com. The policy below explains how Town Sports collects and uses your information, and when we share that information with third parties. By providing information to us, you agree to the terms and conditions of this privacy policy.
 
 ### Collection of Information
 
@@ -23,7 +23,7 @@ We may collect the following information in connection with these activities:
   * emergency contact information 
   * billing information 
   * employer name, address and phone number 
-  * friend's contact information to offer free guest memberships
+  * friend’s contact information to offer free guest memberships
 
 
 
@@ -41,7 +41,7 @@ We do not seek information directly from children. If you are under 13, you shou
 
 If you provide your personal information to us, we may use that information to service your membership, send you news, information or promotions related to our sports clubs or other products and services. In some instances, you may receive information or promotions about products or services offered by another company.
 
-At any time you may choose to opt-out from receiving promotional materials from us. You can opt-out of receiving emails by clicking on an "opt-out" link provided at the bottom of an email that you receive from us.
+At any time you may choose to opt-out from receiving promotional materials from us. You can opt-out of receiving emails by clicking on an "opt-out" link provided at the bottom of an email that you receive from us, or by emailing our Customer Service Department at [memberservices@town-sports.com](mailto:memberservices@town-sports.com).
 
 Third Parties
 
@@ -67,7 +67,7 @@ Our websites employ security measures designed to protect the loss, misuse, and 
 
 Once you have provided information to Town Sports, we may store and maintain that information indefinitely. If you would like to modify or correct the information you previously provided, you may:
 
-  1. Send an email via the [Contact Us page](http://www.mysportsclubs.com/feedback.htm). 
+  1. Send an email via the [Contact Us page](https://www.mysportsclubs.com/feedback.htm). 
   2. Visit the [Member Services page](http://www.mysportsclubs.com/memonly/about/terms.htm). 
   3. Send a letter to the following postal address:
 
@@ -83,4 +83,4 @@ We reserve the right to modify or amend this policy at any time by posting the r
 
 ### Contact Us
 
-If you have any questions about this privacy statement, the practices of Town Sports or your dealings with our websites, please submit a form via the [Contact Us page](http://www.mysportsclubs.com/feedback.htm).
+If you have any questions about this privacy statement, the practices of Town Sports or your dealings with our websites, please submit a form via the [Contact Us page](https://www.mysportsclubs.com/feedback.htm), or email us at: [memberservices@town-sports.com](mailto:memberservices@town-sports.com).
