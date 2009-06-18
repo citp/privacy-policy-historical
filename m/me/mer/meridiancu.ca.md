@@ -1,81 +1,106 @@
-> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015227id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meridiancu.ca privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618101200id_/http%3A//www.meridiancu.ca/misc/privacy.htm) for the most accurate reproduction.*
 
 # Meridian Credit Union - Privacy
 
-## Our Commitment to Privacy 
+Summary of policies and procedures relating to the collection, use and disclosure of personal information.
 
-Credit Unions in Canada have a long history of respecting the rights of their members. As a co-operative financial institution, Meridian Credit Union is committed to the development of policies, procedures and service offerings that maintain these rights.  
-While this means the extension of more efficient and flexible member service, we are doing even more to protect your privacy and your right to control the collection, use and disclosure of your personal information.
+( ** [Printer output version](https://web.archive.org/pdfs/PrivacyBrochure2009_BW.pdf)** )
 
-Meridian Credit Union has adopted the Credit Union Code for the Protection of Personal Information, related Policies and Procedures, and appointed a Privacy Officer. You are entitled to review the Code at any time, access your personal information, or contact the Privacy Officer through our Contact Centre about a privacy issue or concern. Through these actions, what has been our accepted practice becomes our documented commitment to you, the Member.
+On January 1, 2004, federal privacy legislation came into effect that governs how we must deal with your personal, confidential information. Doing business with any financial institution means providing information about yourself. At Meridian, you have control over how your information is obtained, used and given out. We always get your consent before obtaining personal information. We will not collect, use or disclose personal information for any purpose other than what a reasonable person would consider appropriate in the circumstances. We never share financial information about you with other organizations without your express consent.
 
-## Your Personal Information
+We obtain personal information about you to:
 
-We hold personal information about Members to help us meet and maintain the highest standards of financial service. This information can include your name, address, age, income, use of accounts and credit history, as well as the relationship of others linked to you in account services.We obtain this information from you directly, and from the product and service arrangements you have made with or through us. Information is also obtained with your permission from credit bureaus, other financial institutions and from the references you provide us.
-
-## How we typically use your information
-
-With your consent, we typically collect, use, and disclose to others your Personal Information for the following purposes, some of which are necessary (Part A) to enable us to provide you with some or all of the Credit Union's services, and some of which are optional (Part B):
-
-### Part A:
-
-  * To understand your needs and to develop, offer and manage products and services that meet those needs, and to provide the services you have requested from us.
-  * To determine the suitability of, and your eligibility for, member products and services;
-  * To give it to others with whom we have contracted to help us deliver our products and services to you, but only as needed for providing the services you have requested from us;
-  * To evaluate your credit standing, where applicable, and to share or exchange reports and information with credit reporting agencies and other financial institutions, and, with your specific consent, other parties.
-  * To detect and prevent fraud, and to help safeguard the financial interests of the credit union and its members.
-  * To meet legal and regulatory requirements.
+  * establish and verify your identity
+  * understand your needs
+  * assess your suitability and eligibility for products and services
+  * recommend other products and services that we reasonably believe may be of interest to you
+  * provide ongoing service
+  * detect fraud to both you and the credit union
+  * collection purposes
+  * comply with legal requirements
 
 
 
-### Part B:
+We keep this information only for as long as it is needed for the purposes described above, even if you cease to be a member.
 
-  * To promote to you our services that you have not yet requested but which might interest you.
-  * To share it with other companies with whom the credit union has a business relationship, to enable them to market their services to you directly (i.e. Members of the Co-operative Financial Services Group).
+At Meridian, your privacy is very important to us. You have the right to expect that the personal information we hold about you be kept accurate, confidential and secure. Meridian has a designated Privacy Officer who is accountable for monitoring the collection and security of personal information. The Privacy Officer also handles your inquiries about privacy and how Meridian uses your information.
 
+You can contact Meridian's Privacy Officer through Meridian's Quality Contact Centre toll free at 1.866.592.2226 (ask for the "Privacy Officer") 
 
-
-The companies with whom we have a business relationship with change over time. Our Branch staff can provide you a current list of all the members of our Co-operative Financial Services Group upon request. We cannot provide you with some or all of our financial services unless you consent to the collection, use, and disclosure of your Personal Information for the purposes described in Part A above. For example, in relation to deposit services, Meridian Credit Union Limited is required by law to provide a record of your interest earning information to the Canada Customs and Revenue Agency. Your consent for the purposes described in Part B is completely at your option, and if you refuse consent for these purposes, you will not be refused credit or other services just because you tell us not to use your Personal Information for these purposes.
-
-**ACCOUNTABILITY**. We have designated a Privacy Officer who is accountable for our compliance with the principles of the Code.
-
-**IDENTIFYING PURPOSES**. Before or at the time we ask you for personal information, we will identify the purposes for which it will be used or disclosed.
-
-**CONSENT.** We require your knowledge and consent for the collection, use, or disclosure of personal information.
-
-**LIMITING COLLECTION**. The collection of personal information is limited to only the purposes we've identified to you.
-
-**LIMITING USE, DISCLOSURE, AND RETENTION**. We will only use or disclose your personal information with your consent (or as required by law). And we will only retain your information as long as necessary to fulfill identified purposes.
-
-**ACCURACY**. We will keep your information accurate, complete, and up-to-date.
-
-**SAFEGUARDS**. We will protect your personal information with appropriate security safeguards.
-
-**OPENNESS**. We will make specific, understandable information readily available to you about our personal information policies and practices.
-
-**INDIVIDUAL ACCESS**. When you request it, we will give you access to the existence, use, and disclosure of your information. You are entitled to question its accuracy and completeness, and its uses.
-
-**CHALLENGING COMPLIANCE**. You are entitled to question the Privacy Officer about our compliance with any of these principles.
-
-Meridian's Privacy Officer is your point of contact if you wish to raise any matters regarding the use of your personal information.
-
-The Privacy Officer is responsible for monitoring information collection and data security and ensures that other Meridian Credit Union staff receive appropriate training on privacy issues and their responsibilities under the Code. The Privacy Officer also handles all privacy inquiries and personal information access requests under the Code.
-
-Ultimate responsibility for our compliance with the Code, rests, however, with Meridian Credit Union's Board of Directors.
-
-We welcome any questions or concerns about our MemberDirect® Privacy Statement, or the practices of this site. Please contact us by email, or in writing at the following address:
-
-Name: **Glen Norton**  
-Title: Privacy Officer  
-Email: [**glen.norton@meridiancu.ca**](mailto:glen.norton@meridiancu.ca)
-
-Name: **Sue Bennison**  
-Title: Deputy Privacy Officer  
-Email: [**sue.bennison@meridiancu.ca**](mailto:sue.bennison@meridiancu.ca)
-
-Phone: 416-597-4400 (default office number for both privacy officer and deputy privacy officer)  
+  * by email at [**privacyofficer@meridiancu.ca**](mailto:privacyofficer@meridiancu.ca)
 
 
-**Protecting Your Privacy—We're in it together**  
-As we continue to expand our online banking service to serve you better, and as new Internet technologies become available, we may need to amend this Privacy Statement at anytime, with our without notice to reflect changes in functionality and practice. Please check this Privacy Statement regularly for changes.  
+
+When we request personal information from you, we explain why we need it. For example, when you open an account we need at the very least, your name and address in order to provide you with regular account statements. When you apply for credit­related products, we need information about your financial situation in order to make sound credit­granting decisions, both for you and for us.
+
+If you open an interest­bearing account or an RRSP or other registered product, we’re required to ask for your Social Insurance Number (SIN) by law.
+
+We need to get your express or implied consent before obtaining or using information about you, or disclosing this information to anyone else. (There are exceptions, such as when we are required by law.) When you ask us to provide a product or service, we’ll take this as your consent to collect and use the information necessary to deliver you that product or service. You can withdraw this consent whenever you want, unless legal requirements prevent this. However, this may seriously impede our ability to offer you products and services.
+
+You can review the information we hold about you and make corrections to it. We may ask you to put your request in writing. If so, we'll advise you of this before-hand. We will respond to your request within 30 days. If we need to extend the time, or must refuse your request, we’ll tell you why, subject to any legal restrictions.
+
+We ask for your Social Insurance Number for: 
+
+  * income tax reporting required by law, and
+  * administrative purposes, such as ensuring:
+    * an accurate match between your personal information and your credit bureau information when applying for products and services, and
+    * the accuracy and integrity of your personal information by using your SIN as a unique identifier for you.
+
+
+
+Giving us your Social Insurance Number is voluntary. If you provide your SIN, we will take this as your express consent to use it for the purposes described above. If you choose not to give us your SIN, this by itself will not prevent you from getting credit; however, it may prevent us from providing products where your SIN is required by law (e.g., interest­bearing accounts or registered investments).
+
+When you apply for credit related products and services from us, we always get your written consent to obtain credit reports about you. Once we have granted you credit, we are required by the terms of contractual agreements with the credit bureaus to supply regular, current information on the status of loans or credit that we have granted you in order to maintain the accuracy, completeness and integrity of that information. We do not disclose more information than is required, nor for periods longer than is required.
+
+## Accountability
+
+We have designated a Privacy Officer who is accountable for our compliance with the principles of The Code.
+
+## Identifying Purposes 
+
+Before or at the time we ask you for personal information, we will identify the purposes for which it will be used or disclosed.
+
+## Consent
+
+We require your knowledge and consent for the collection, use, or disclosure of personal information.
+
+## Limiting Collection 
+
+The collection of personal information is limited to only the purposes we’ve identified to you.
+
+## Limiting Use, Disclosure and Retention 
+
+We will only use or disclose your personal information with your consent (or as required by law). And we will only retain your information as long as necessary to fulfill identified purposes.
+
+## Accuracy
+
+We will keep your information accurate complete, and up to date.
+
+## Safeguards 
+
+We will protect your personal information with appropriate security safeguards.
+
+## Openness 
+
+We will make specific, understandable information readily available to you about our personal information policies and practices.
+
+## Individual Access
+
+When you require it, we will give you access to the existence, use, and disclosure of your information. You are entitled to question its accuracy and completeness, and its uses.
+
+## Challenging Compliance
+
+You are entitled to question the Privacy Officer about our compliance with any of these principles.
+
+If you joined the credit union before January 1, 2004, we would have already collected and used certain information about you in order to provide you the products and services you have now. If you continue to use these products and services after January 1, 2004, we will assume that you consent to our continuing to retain, use, and disclose this information in accordance with the terms and conditions set out in this brochure.
+
+For some of the products and services we offer, we rely on the expertise of affiliated companies to deliver them (e.g., cheque­books). If you request such a product or service from us, we will assume your consent to disclose the information necessary to deliver that product or service to you. We ensure that all affiliated companies promise to employ privacy and security standards and procedures comparable to our own.
+
+We may from time to time share personal information with other companies for direct marketing purposes if we reasonably believe you may have an interest in their product. We will never share information of a financially sensitive nature with other companies, and we will always give you the opportunity to opt out of such programs. If you do not opt out we will conclude that you have no objection to such disclosure. At any one time there are a very limited number of companies that we share information with. For a current listing of these particular companies, please see “Questions or Concerns” for contact information. If you would rather not be included in direct marketing programs, you can ask us to remove you from the contact list. This will not limit the information we may send you with your account statement, or any discussions your sales representative may have with you.
+
+If you have any questions about privacy at Meridian, or disagree with the terms contained in this brochure, or would like to opt-out of any of direct marketing programs, please follow this procedure: 
+
+  * Contact Meridian's **[Quality Contact Centre](mailto:qcc@meridiancu.ca)** toll free at 1.866.592.2226 or your Branch Manager.  
+
+
 
