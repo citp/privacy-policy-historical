@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075755id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191811id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
 
-# The Computing Technology Industry Association
+# Privacy Statement
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We never collect or maintain information at our Web site from those we actually know are under the age of 13, and no part of our Web site is structured to attract anyone under the age of 13.   
-**  
-How To Access or Update Your Information**  
+## CompTIA's Commitment To Privacy
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We never collect or maintain information at our Web site from those we actually know are under the age of 13, and no part of our Web site is structured to attract anyone under the age of 13. 
+
+**How To Access or Update Your Information**  
 You can access or change your personal information that we collect online and maintain. To do this, log in to the member's area of the site with your corporate ID number and password. If you cannot remember your corporate ID or password, [contact us](mailto:loginquestions@comptia.org). 
 
 **The Information We Collect**   
 This notice applies to all information collected or submitted on our Web site. On some pages, you can order products, services, make requests, apply for membership, participate in surveys, or register for events, seminars or conferences. The types of personal information collected at these pages may include: 
 
-  * Name,
-  * Addresses,
-  * E-mail address,
-  * Phone numbers,
-  * Occupation,
-  * Title,
-  * Other contact information,
-  * Gender,
-  * Birth Date,
-  * Credit/debit card information,
-  * The nature of your inquiry or comment,
-  * Business profile information for membership application ,
-  * Confirmation of attendance for events or meetings,
-  * Certification verification requests,
+  * Name, 
+  * Addresses, 
+  * E-mail address, 
+  * Phone numbers, 
+  * Occupation, 
+  * Title, 
+  * Other contact information, 
+  * Gender, 
+  * Birth Date, 
+  * Credit/debit card information, 
+  * The nature of your inquiry or comment, 
+  * Business profile information for membership application , 
+  * Confirmation of attendance for events or meetings, 
+  * Certification verification requests, 
   * Suggestions for meeting agenda topics, and 
   * Other types of feedback and information when needed to provide a product or service you requested. 
 
@@ -57,3 +59,7 @@ CompTIA may amend this Privacy Statement from time to time. Any such amendments 
 
 **Inquiries or Complaints**  
 If you have any inquiries or complaints regarding this Privacy Statement, [contact us](mailto:webmaster@comptia.org). 
+
+* * *
+
+[ Request More Information](https://web.archive.org/web/20090618191811id_/http%3A//www.comptia.org/contactus.aspx)
