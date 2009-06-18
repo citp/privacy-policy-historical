@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the totobay.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/privacy-policy-a1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totobay.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/privacy-policy-a1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
   
   
-|  |  | [About Totobay.com](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/about-us-a5.html)  
+|  |  | [About Totobay.com](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/about-us-a5.html)  
 ---|---  
-| [How to Order](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/how-to-order-a4.html)  
-| [Payment Methods](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/payment-methods-a3.html)  
-| [Shipping Method](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/shipping-method-a17.html)  
-| [Warranty Terms](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/warranty-terms-a13.html)  
-| [Exchange Policy](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/exchange-policy-a23.html)  
-| [Return and Refund Policy](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/return-and-refund-policy-a22.html)  
-| [Order Cancellation](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/order-cancellation-a11.html)  
-| [Custom Rights](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/custom-rights-a12.html)  
-| [Out of Stock Items](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/out-of-stock-items-a8.html)  
-| [Frequent Asked Questions](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/frequent-asked-questions-a18.html)  
-| [Frequence List](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/frequency-list-a20.html)  
-| [Drop Shipping Service](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/drop-shipping-service-a19.html)  
-| [Bluk Purchase](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/bulk-purchase-a16.html)  
-| [Safe and secure purchase](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/safe-and-secure-purchase-with-us-a21.html)  
-| [Terms and Conditions](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/terms-conditions-a6.html)  
-| [Privacy Policy](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/privacy-policy-a1.html)  
-| [Links](https://web.archive.org/web/20081218123525id_/http%3A//www.totobay.com/links-t9.html)  
+| [How to Order](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/how-to-order-a4.html)  
+| [Payment Methods](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/payment-methods-a3.html)  
+| [Shipping Method](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/shipping-method-a17.html)  
+| [Warranty Terms](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/warranty-terms-a13.html)  
+| [Exchange Policy](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/exchange-policy-a23.html)  
+| [Return and Refund Policy](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/return-and-refund-policy-a22.html)  
+| [Order Cancellation](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/order-cancellation-a11.html)  
+| [Custom Rights](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/custom-rights-a12.html)  
+| [Out of Stock Items](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/out-of-stock-items-a8.html)  
+| [Frequent Asked Questions](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/frequent-asked-questions-a18.html)  
+| [Frequence List](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/frequency-list-a20.html)  
+| [Drop Shipping Service](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/drop-shipping-service-a19.html)  
+| [Bluk Purchase](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/bulk-purchase-a16.html)  
+| [Safe and secure purchase](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/safe-and-secure-purchase-with-us-a21.html)  
+| [Terms and Conditions](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/terms-conditions-a6.html)  
+| [Privacy Policy](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/privacy-policy-a1.html)  
+| [Links](https://web.archive.org/web/20090618141029id_/http%3A//totobay.com/links-t9.html)  
 |  | **Privacy Policy**  
 ---  
   
