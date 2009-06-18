@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the decameron.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220181307id_/http%3A//www.decameron.com/Eng/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the decameron.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618033602id_/http%3A//decameron.com/Eng/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -19,6 +19,7 @@
 <meta name="language" content="English">
 <script type="text/javascript" src="../Scripts/javascript.js"></script>
 <link href="../css/decameron.css" rel="stylesheet" type="text/css">
+<link href="../css/form_styles.css" rel="stylesheet" type="text/css">
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 <script type="text/JavaScript">
 <!--
@@ -47,81 +48,1134 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 <script src="http://scripts.travelclick.net/AC_RunActiveContent.js" type="text/javascript"></script>
-<!-- InstanceParam name="Language" type="boolean" value="true" -->
-</head>
-<body onload="MM_preloadImages('../images/layout/Menu_AllInclusive2.jpg','../images/layout/Menu_Destinations2.jpg','../images/layout/Menu_Packages2.jpg','../images/layout/Menu_Explorer2.jpg')">
+<script language="JavaScript" for="window" event="onload">
+<!--
+if(indexSelect[0].checked){indexSelect[0].click();}else if(indexSelect[1].checked){indexSelect[1].click();}else if(indexSelect[2].checked){indexSelect[2].click();}
+else if(indexSelect[3].checked){indexSelect[3].click();}
+if (indexSelect[1].checked) {
+if(document.hotForm && document.hotForm.cityText) {
+document.hotForm.cityText.focus();
+}
+}
+//-->
+</script>
+
+<script langauage="javascript">
+<!--
+function update(themonth,theday){
+    document.forms[fName].elements[formType+'Day'].options[theday - 1].selected = true;
+    document.forms[fName].elements[formType+'Month'].options[themonth].selected = true;
+
+    testWindow.close();
+}
+
+
+function loadCalendar(viewMonth) {
+
+
+	testWindow.document.close();
+	testWindow.document.open();
+
+
+	var day_of_week = new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
+	var month_of_year = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+	var dateObj = new Date();
+	var year = dateObj.getYear();	 // Returns year
+	var month = dateObj.getMonth();  // Returns month (0-11)
+	var today = dateObj.getDate();   // Returns day (1-31)
+	var weekday = dateObj.getDay();  // Returns day (1-31)
+
+	var DAYS_OF_WEEK = 7;   // "constant" for number of days in a week
+	var DAYS_OF_MONTH = 31; // "constant" for number of days in a month
+	var cal;                // Used for printing
+
+	if (viewMonth < month) {
+		year = year + 1;
+	}
+
+	if(year < 1900){
+		year += 1900; //done to solve the problem of netscape and mozilla returning year in form 10X for years > 2000
+	}
+
+	month = viewMonth;
+	dateObj.setDate(1);      // Start the calendar day at '1'
+	dateObj.setMonth(month); // Start the calendar month at now
+	dateObj.setYear((year));
+
+	// VARIABLES FOR FORMATTING
+	var TR_start = '<TR>';
+	var TR_end = '</TR>';
+	var highlight_start = '<TD WIDTH="30"><TABLE CELLSPACING=0 BORDER=1 BGCOLOR=DEDEFF BORDERCOLOR=CCCCCC><TR><TD WIDTH=20><B><CENTER>';
+	var highlight_end   = '</CENTER></TD></TR></TABLE></B>';
+	var TD_start = '<TD WIDTH="30"><CENTER>';
+	var TD_end = '</CENTER></TD>';
+	var prevM = month - 1;
+	var nextM = month + 1;
+
+	if (nextM == 12) {
+		nextM = 0;
+	}
+
+	if (prevM == -1) {
+		prevM = 11;
+	}
+
+	// BEGIN CODE FOR CALENDAR
+	cal =  '<html><head><title>Calendar</title></head><body>';
+	cal += "<style>a:link{cursor: hand}a:active{cursor: hand}a:hover{cursor: hand}a:visited{cursor: hand}body{cursor: default}</style>";
+
+    cal += '<TABLE BORDER="1" CELLSPACING="0" CELLPADDING="0" BORDERCOLOR="BBBBBB" width="100%" height="200"><TR><TD>';
+	cal += '<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="2" width="100%">' + TR_start;
+	cal += '<TD COLSPAN="' + DAYS_OF_WEEK + '" BGCOLOR="#EFEFEF"><CENTER><B>';
+	cal += month_of_year[month]  + '   ' + year + '</B>' + TD_end + TR_end;
+	cal += TR_start;
+
+    ///////////////////////////////////
+    // DO NOT EDIT BELOW THIS POINT  //
+    ///////////////////////////////////
+
+	// LOOPS FOR EACH DAY OF WEEK
+	for(index=0; index < DAYS_OF_WEEK; index++) {
+        // PRINTS DAY
+        cal += TD_start + day_of_week[index] + TD_end;
+	}
+
+	cal += TD_end + TR_end;
+	cal += TR_start;
+
+	// FILL IN BLANK GAPS UNTIL TODAY'S DAY
+	for(index=0; index < dateObj.getDay(); index++) {
+	    cal += TD_start + '  ' + TD_end;
+    }
+
+	// LOOPS FOR EACH DAY IN CALENDAR
+    for(index=0; index < DAYS_OF_MONTH; index++) {
+        if( dateObj.getDate() > index ) {
+            // RETURNS THE NEXT DAY TO PRINT
+            week_day =dateObj.getDay();
+
+            // START NEW ROW FOR FIRST DAY OF WEEK
+            if(week_day == 0) {
+                cal += TR_start;
+            }
+
+            if(week_day != DAYS_OF_WEEK) {
+                // SET VARIABLE INSIDE LOOP FOR INCREMENTING PURPOSES
+                var day  = dateObj.getDate();
+
+                // PRINTS DAY
+                cal += TD_start + "<span onclick='window.opener.update(" + month + "," + day + ")' style='cursor:hand;font-weight:bold;background:#EFEFEF;width:22px;'>" + day + "</span>" + TD_end;
+            }
+
+            // END ROW FOR LAST DAY OF WEEK
+            if(week_day == DAYS_OF_WEEK) {
+                cal += TR_end;
+            }
+        }
+
+        // INCREMENTS UNTIL END OF THE MONTH
+        dateObj.setDate(dateObj.getDate()+1);
+
+    }// end for loop
+
+	cal += '</td></TR></TABLE></TABLE><br>';
+    cal += '<div align="center"><a href="javascript:" onClick="window.opener.loadCalendar(' + prevM + ');">&lt;&lt;</a>&nbsp;&nbsp;&nbsp;&nbsp;';
+	cal += '<a href="javascript:" onClick="window.opener.loadCalendar(' + nextM + ');">&gt;&gt;</a><br><br></div>';
+	cal += '<div align="right"><a href="javascript:window.close();">close</a></div>';
+	cal += '</body></html>';
+
+	//  PRINT CALENDAR
+	testWindow.document.write(cal);
+}
+
+var testWindow;
+var formType;
+var fName;
+
+function openCalendar(formName,type) {
+	formType=type;
+	fName=formName;
+	testWindow = window.open('','dates','width=360,height=300,resizable=1,status=1,menubar=0,location=0');
+	loadCalendar(document.forms[fName].elements[formType+'Month'].selectedIndex);
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function groups(form) {
+if (document.forms['hotForm'].city.value=="Runaway Bay")
+{document.forms['hotForm'].destinationID.value="E34933DD-FA80-4B15-B05A-DAB0D86F00D7"}
+//else if (document.forms['hotForm'].city.value!="Runaway Bay")
+//{document.forms['hotForm'].destinationID.value=""}
+else if (document.forms['hotForm'].city.value=="Panama City")
+{document.forms['hotForm'].destinationID.value="33D36B62-2241-4BF1-9BED-44E35BBB9A35"}
+else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['hotForm'].city.value!="Runaway Bay")
+{document.forms['hotForm'].destinationID.value=""}
+
+    if (form.numberOfRooms.selectedIndex == 8) {
+        window.location="http://travel.ian.com/index.jsp?pageName=groups&cid=249075";
+        return false;
+    }
+    return submitGuestInfoForm(form);
+}
+-->
+</script>
+
+<style>
+	A {color:#0C447D}
+	A:visited {color:#0C447D}
+	A:active {color:#0C447D}
+	.size11 {font-family:arial;font-size:13px;color:#0C447D}
+	.size11select {font-family:arial;font-size:11px}
+	.size12 {font-family:arial;font-size:12px;color:#0C447D}
+	.size13 {font-family:arial;font-size:13px;color:#0C447D}
+	.text1B {font-family:arial;font-size:11px;width:140px}
+	.text1C {font-family:arial;font-size:11px;width:160px}
+	.text3  {font-family:arial;font-size:11px;width:55px}
+	.text5  {font-family:arial;font-size:11px;width:80px}
+	.GoButton {border-bottom:thin solid #000000;border-right:thin solid #000000;border-top:thin solid #CCCCCC;border-left:thin solid #CCCCCC;font-size:11px;font-family:Arial;font-weight:bold;color:#FFFFFF;line-height:.85;padding-top:3px;cursor:hand;background-color:#FE9900}
+</style>
+<script type="text/javascript" src="eta_enu1033/cal.js"></script>
+</head><body onload="MM_preloadImages('../images/layout/Menu_AllInclusive2.gif','../images/layout/Menu_Destinations2.gif','../images/layout/Menu_Packages2.gif','../images/layout/Menu_Explorer2.gif','../images/layout/Menu_Spanish2.gif')"><iframe src="eta_enu1033/calx.htm" style="visibility:hidden;position:absolute;width:148px;height:194px;z-index:100;display:none;" id="CalFrame" name="CalFrame" marginheight="0" marginwidth="0" noresize="" frameborder="0" scrolling="NO"></iframe> <script language="javascript" src="eta_enu1033/calx.js"></script>
+<script type="text/javascript">
+	function DE(el){return document.getElementById(el);}
+	document.onclick = HCal;
+	var dt = new Date();
+	var CalS = (dt.getMonth() + 1) + '/' + dt.getDate() + '/' + dt.getFullYear();
+	dt = new Date(dt.getFullYear(),(dt.getMonth()),(dt.getDate() + 330));
+	var CalE = (dt.getMonth() + 1) + '/' + dt.getDate() + '/' + dt.getFullYear();
+	function SC(el1,el2,el3){if (DE('CalFrame') == null){return;}el2.select();ShowCalendar(el1,el2,el3,CalS,CalE);}
+	function HCal(e){if (DE('CalFrame') != null){CancelCal();}}
+</script>
+<script language="javascript">
+	function chkBrowser(){this.ver=navigator.appVersion;this.dom=document.getElementById?1:0;this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom)?1:0;this.ie4=(document.all && !this.dom)?1:0;this.ns5=(this.dom && parseInt(this.ver) >= 5) ?1:0;this.ns4=(document.layers && !this.dom)?1:0;this.bVer=(this.ie5 || this.ie4 || this.ns4 || this.ns5);return this;}bVer=new chkBrowser();ns4 = (document.layers)? true:false;ie4 = (document.all)? true:false; function AttB(f){if(bVer.ie4)f.style.display='block';}
+	function AttN(f){if(bVer.ie4)f.style.display='none';}
+	function show(idLayer,idParent){cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;cLayer.display='block';var d=document.Wiz;} function hide(idLayer,idParent){cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;cLayer.display='none';}
+	function mrd(i){if (i==1) {hide('hotrm2'); hide('hotrm3'); hide('rm1txt');}if (i==2) {show('hotrm2'); hide('hotrm3'); show('rm1txt');}if (i==3) {show('hotrm2'); show('hotrm3'); show('rm1txt');}} function SetPkgType(i){var PkgWithFlightSelectedVal = document.PkgFormWithFlight.CityID.value;var PkgNoFlightSelectedVal = document.PkgFormNoFlight.CityID.value;var optionIndex = 0;if (3==i){hide('PkgWithFlight');hide('PkgWithFlightCar');show('PkgNoFlight');if (PkgWithFlightSelectedVal.length > 0) {document.PkgFormNoFlight.CityID.value = PkgWithFlightSelectedVal;}}else if (5==i){hide('PkgWithFlight');hide('PkgNoFlight');show('PkgWithFlightCar');}else{hide('PkgNoFlight');hide('PkgWithFlightCar');show('PkgWithFlight');if (PkgNoFlightSelectedVal.length > 0) {document.PkgFormWithFlight.CityID.value = PkgNoFlightSelectedVal;}document.PkgFormWithFlight.PackageType.value = i;}document.PkgTypeFrm.PrevPkgType.value = i;}
+</script>
+
+<!-- InstanceParam name="spanish_inner" type="boolean" value="true" --><!-- InstanceParam name="home_spanish button" type="boolean" value="false" -->
+
+
 <div id="ContentHolder">
     <div id="Header">
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="760" height="238" title="Decameron Resorts">
-        <param name="movie" value="../includes/Header.swf">
+        <param name="movie" value="../includes/Header_v01.swf">
         <param name="quality" value="high">
         <param name="allowScriptAccess" value="always">
-        <embed src="../includes/Header.swf" width="760" height="238" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" allowscriptaccess="always">
+        <embed src="../includes/Header_v01.swf" width="760" height="238" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" allowscriptaccess="always">
       </object>
   	</div>
   <div id="MainMenu">
     <table width="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td><div align="center"></div></td>
-        <td><div align="center"><a href="inclusive_vacations.html"><img src="../images/layout/Menu_AllInclusive.jpg" alt="Vacaciones Todo Incluido" name="Image11" width="140" height="28" border="0" id="Image11" onmouseover="MM_swapImage('Image11','','../images/layout/Menu_AllInclusive2.jpg',1)" onmouseout="MM_swapImgRestore()"></a><img src="../images/layout/Menu_Bullet.jpg" width="8" height="28"></div></td>
-        <td><div align="center"><a href="destinations.html"><img src="../images/layout/Menu_Destinations.jpg" alt="Destinos Decameron" width="81" height="28" border="0" id="Image21" onmouseover="MM_swapImage('Image21','','../images/layout/Menu_Destinations2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></div></td>
-        <td><div align="center"><img src="../images/layout/Menu_Bullet.jpg" width="8" height="28"></div></td>
-        <td><div align="center"><a href="packages.html"><img src="../images/layout/Menu_Packages.jpg" alt="Paquetes y Promociones Decameron" width="147" height="28" border="0" id="Image31" onmouseover="MM_swapImage('Image31','','../images/layout/Menu_Packages2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></div></td>
-        <td><div align="center"><img src="../images/layout/Menu_Bullet.jpg" width="8" height="28"></div></td>
-        <td><div align="center"><a href="explorer.html"><img src="../images/layout/Menu_Explorer.jpg" alt="Decameron Explorer" width="127" height="28" border="0" id="Image41" onmouseover="MM_swapImage('Image41','','../images/layout/Menu_Explorer2.jpg',1)" onmouseout="MM_swapImgRestore()"></a></div></td>
-        <td><div align="center">
-          <select name="select" class="QuickLinks" onchange="MM_jumpMenu('parent',this,1)">
-            <option value="" selected="selected">Resort Quick Links </option>
-            <option value="">AMAZON</option>
-            <option value="amazon/amacayacu/overview.html">&nbsp;&nbsp;Parque Nacional Amacayacu</option>
-            <option value="amazon/ticuna/overview.html">&nbsp;&nbsp;Decameron Decalodge Ticuna</option>
-            <option value="">COLOMBIA </option>
-            <option value="colombia/cartagena/overview.html">&nbsp;&nbsp;Decameron Cartagena</option>
-            <option value="colombia/isla_palma/overview.html">&nbsp;&nbsp;Decameron Isla Palma</option>
-            <option value="colombia/santa_martha/overview.html">&nbsp;&nbsp;Decameron Galeon Santa Marta</option>
-            <option value="colombia/panaca/overview.html">&nbsp;&nbsp;Decameron Panaca</option>
-            <option value="">EL SALVADOR</option>
-            <option value="salvador/salenitas/overview.html">&nbsp;&nbsp;Royal Decameron Salinitas</option>
-            <option value="">JAMAICA</option>
-            <option value="jamaica/montego/overview.html">&nbsp;&nbsp;Decameron Montego Beach</option>
-            <option value="jamaica/runaway/overview.html">&nbsp;&nbsp;Royal Decameron Runaway Bay</option>
-            <option value="">MEXICO</option>
-            <option value="mexico/cocos/overview.html">&nbsp;&nbsp;Decameron Los Cocos</option>
-            <option value="mexico/puerto_vallarta/overview.html">&nbsp;&nbsp;Royal Decameron Puerto Vallarta</option>
-            <option value="">MOROCCO</option>
-            <option value="morocco/tafoukt/overview.html">&nbsp;&nbsp;Royal Decameron Tafoukt</option>
-            <option value="">PANAMA</option>
-            <option value="panama/decapolis/overview.html">&nbsp;&nbsp;Radison Decapolis Panama City</option>
-            <option value="panama/royal/overview.html">&nbsp;&nbsp;Royal Decameron Beach Resort</option>
-            <option value="">PROVIDENCIA</option>
-            <option value="providencia/overview.html">&nbsp;&nbsp;Decameron Providencia</option>
-            <option value="">SAN ANDRES</option>
-            <option value="san_andres/aquarium/overview.html">&nbsp;&nbsp;Royal Decameron Aquarium</option>
-            <option value="san_andres/isleno/overview.html">&nbsp;&nbsp;Decameron el Isleño</option>
-            <option value="san_andres/delfines/overview.html">&nbsp;&nbsp;Decameron Los Delfines</option>
-            <option value="san_andres/marazul/overview.html">&nbsp;&nbsp;Super Decameron Marazul</option>
-            <option value="san_andres/maryland/overview.html">&nbsp;&nbsp;Decameron Maryland</option>
-            <option value="san_andres/san_luis/overview.html">&nbsp;&nbsp;Decameron San Luis</option>
-          </select>
-</div></td>
-      </tr>
+      	<td>
+        	<div id="mid_nav">
+            <table cellpadding="0" cellspacing="0" border="0" width="752">
+            	<tbody><tr align="center">
+                	<td><a href="inclusive_vacations.html"><img src="../images/layout/Menu_AllInclusive.gif" alt="Vacaciones Todo Incluido" name="Image11" border="0" id="Image11" onmouseover="MM_swapImage('Image11','','../images/layout/Menu_AllInclusive2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                    <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
+                    <td><a href="destinations.html"><img src="../images/layout/Menu_Destinations.gif" alt="Destinos Decameron" border="0" id="Image21" onmouseover="MM_swapImage('Image21','','../images/layout/Menu_Destinations2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                    <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
+                    <td><a href="packages.html"><img src="../images/layout/Menu_Packages.gif" alt="Paquetes y Promociones Decameron" border="0" id="Image31" onmouseover="MM_swapImage('Image31','','../images/layout/Menu_Packages2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                    <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
+                    <td><a href="explorer.html"><img src="../images/layout/Menu_Explorer.gif" alt="Decameron Explorer" border="0" id="Image41" onmouseover="MM_swapImage('Image41','','../images/layout/Menu_Explorer2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                    <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
+                    <td><script>var ThisUrl = document.URL; var ThisUrl = ThisUrl.toLowerCase(); var NewUrl =(ThisUrl.replace(/eng/, "esp")); document.write("<a href=" + NewUrl +">");</script><a href="https://web.archive.org/web/20090618033602id_/http%3a//decameron.com/esp/privacy.html">                      <img src="../images/layout/Menu_Spanish.gif" name="LanguageLink" border="0" id="LanguageLink" onmouseover="MM_swapImage('LanguageLink','','../images/layout/Menu_Spanish2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                </tr>
+            </tbody></table>
+       	  </div>
+        </td>
+          </tr>
     </tbody></table>
   </div>
+    
+    <table cellpadding="1" cellspacing="0" bgcolor="#0C447D" style="margin-left:3px;">
+	<tbody><tr>
+    	<td>
+        	<table width="752" cellspacing="0" cellpadding="5" bgcolor="#D5E1EF" border="0">
+            	<form name="Wiz" action="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/" method="get"></form>
+                <input name="opts" type="hidden" value="spec">
+                <tbody><tr>
+                	<td align="CENTER">
+                    	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+                        	<tbody><tr valign="bottom">
+                            	<td width="50%" nowrap="">
+                                	<font class="size11" onclick="hide('hot');show('pac');">
+                                    <label for="sPac" onmouseover="this.style.cursor='hand'"><img src="http://www.wwte.com/eta/fltnvpk.gif" border="0" align="top" vspace="0" onclick="sPac.click();" width="32" alt="" height="22"></label>
+                                    <input type="Radio" name="srch" value="pac" id="sPac"><label for="sPac" onmouseover="this.style.cursor='hand'"><b>Decameron Travel Packages</b></label>
+                                    </font>
+                                </td>
+                                <td width="5">
+                                </td>
+                                <td width="50%" nowrap="">
+                                	<font class="size11" onclick="hide('pac');show('hot');">
+                                    <label for="sHot" onmouseover="this.style.cursor='hand'"><img src="http://www.wwte.com/eta/hotitin.gif" border="0" align="top" vspace="3" onclick="sHot.click();" width="20" alt="" height="15"></label>
+                                    <input type="Radio" name="srch" value="hot" id="sHot"><label for="sHot" onmouseover="this.style.cursor='hand'"><b>Decameron Resort Only Reservations</b></label>
+                                    </font>
+                                </td>
+                                <td width="5">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                
+
+            <tr>
+
+                  <td>
+
+                        <div id="pac" style="display: block;">
+
+                              
+
+                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+                              
+
+                              <tbody><tr>
+
+                              <form name="PkgTypeFrm"></form>
+
+                                    <td>
+
+                                          <font class="size11"> What type of Package do you want? </font>
+
+                                          <img src="/eta/spaceit.gif" width="18" alt="" height="1">
+
+                              <select name="PackageType" class="size11select" onchange="SetPkgType(document.PkgTypeFrm.PackageType.value);"><option value="2" selected="">Flight and hotel</option><option value="1">Flight, hotel and car</option><option value="3">Hotel and car</option><option value="5">Flight and car</option></select>
+
+                                    </td>
+
+                                    <input name="PrevPkgType" type="hidden" value="2">
+
+                              
+
+                                    <td width="10"></td>
+
+                              </tr>
+
+                              <tr>
+
+                                    <td colspan="3" height="5"></td>
+
+                              </tr>
+
+                              
+
+                              <tr>
+
+                                    <td align="center">
+
+                                          <div id="PkgWithFlight" style="display: block;">
+
+                                          <form name="PkgFormWithFlight" action="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp" method="GET">
+
+                                          <input name="eapid" type="hidden" value="45126-30001">
+
+                                          <input name="GOTO" type="hidden" value="PACKAGEWIZ">
+
+                                          <input type="hidden" name="rfrr" value="-34980">
+
+                                          <input type="hidden" name="PackageType" value="2">
+
+                                          <input type="hidden" name="olid" value="">
+
+                                          <input type="hidden" name="mdpcid" value="45126-30001.0.1">
+
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                <tbody><tr>
+
+                                                      <td>
+
+                                                            <font class="size11">Departing from: </font><br>
+
+                                                            <input class="text1B" type="Text" name="FrAirport" size="22" value="" maxlength="64">&nbsp;
+
+                                                      </td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Depart: </font><br>
+
+                                                            <input class="text3" type="Text" name="FromDate" size="10"><a href="javascript:SC(document.PkgFormWithFlight.cal01,document.PkgFormWithFlight.FromDate,null)" onclick="event.cancelBubble=true;"><img id="cal01" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="FromTime">
+
+                                                                  <option value="361">Morning</option><option value="901">Afternoon</option><option value="1081">Evening</option>
+
+                                                            </select>
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Adults (12-64)<br></font>
+
+                                                            <select class="size11select" name="NumAdult"><option value="0">0</option><option value="1">1</option><option selected="" value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Seniors (65+)<br></font>
+
+                                                            <select class="size11select" name="NumSenior"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td>
+
+                                                            <font class="size11">Going to: </font>
+
+                                                            <br>
+
+                                                            
+
+                                                            <select class="text1C" name="CityID">
+
+<option value="926">Cartagena, Colombia</option>
+<option value="6095009">Isla Palma, Colombia</option>
+<option value="2052">Leticia (Amazon), Colombia</option>
+<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+<option value="6024028">San Andrés Island, Colombia</option>
+<option value="3221">Santa Marta, Colombia</option>
+<option value="">-----------------------------------</option>
+<option value="6053732">Salinitas, El Salvador</option>
+<option value="">-----------------------------------</option>
+<option value="180106">Montego Bay, Jamaica</option>
+<option value="6062843">Runaway Bay, Jamaica</option>
+<option value="">-----------------------------------</option>
+<option value="178222">Guayabitos, Mexico</option>
+<option value="180016">Puerto Vallarta, Mexico</option>
+<option value="">-----------------------------------</option>
+<option value="305">Agadir, Morocco</option>
+<option value="6084756">Marrakech, Morocco</option>
+<option value="">-----------------------------------</option>
+<option value="6053253">Farallon, Panama</option>
+<option value="">-----------------------------------</option>
+<option value="6034881">La Somone, Senegal</option>
+
+                                                            </select>
+
+                                                            
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Return: </font>
+
+                                                            <br>
+
+                                                            <input class="text3" type="Text" name="ToDate" size="10"><a href="javascript:SC(document.PkgFormWithFlight.cal02,document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate)" onclick="event.cancelBubble=true;"><img id="cal02" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="ToTime">
+
+                                                                  <option value="361">Morning</option><option value="901">Afternoon</option><option value="1081">Evening</option>
+
+                                                            </select>
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Children (2-11)<br></font>
+
+                                                            <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">&nbsp;<br></font>
+
+                                                            <input class="GoButton" name="SearchWiz" type="submit" value="Reserve Now!">
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td colspan="4">
+
+                                                            
+
+                                                            <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                            <tbody><tr>
+
+                                                                  <td align="LEFT" valign="TOP" class="size11">
+
+                                                                        <a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp?GOTO=PKGLAUNCH&amp;eapid=45126-30001&amp;olid=&amp;mdpcid=45126-30001.0.1">More Package Search Options</a>
+
+                                                                  </td>
+
+                                                            </tr>
+
+                                                            </tbody></table>
+
+                                                            
+
+                                                      </td>
+
+                                                </tr>
+
+                                                
+
+                                                </tbody></table>
+
+                                          </form></div>
+
+                                          <div id="PkgNoFlight" style="display:none;">
+
+                                                <form name="PkgFormNoFlight" action="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp" method="GET">
+
+                                                <input name="eapid" type="hidden" value="45126-30001">
+
+                                                <input name="GOTO" type="hidden" value="PACKAGEWIZ">
+
+                                                <input type="hidden" name="rfrr" value="-34980">
+
+                                                <input type="hidden" name="PackageType" value="3">
+
+                                                <input type="hidden" name="olid" value="">
+
+                                                <input type="hidden" name="mdpcid" value="45126-30001.0.1">
+
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                <tbody><tr>
+
+                                                      <td>
+
+                                                            <font class="size11">Going to: </font>
+
+                                                      <br>
+
+                                                            
+
+                                                            <select class="text1C" name="CityID">
+
+                                                                                                                            <option value="926">Cartagena, Colombia</option>
+<option value="6095009">Isla Palma, Colombia</option>
+<option value="2052">Leticia (Amazon), Colombia</option>
+<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+<option value="6024028">San Andrés Island, Colombia</option>
+<option value="3221">Santa Marta, Colombia</option>
+<option value="">-----------------------------------</option>
+<option value="6053732">Salinitas, El Salvador</option>
+<option value="">-----------------------------------</option>
+<option value="180106">Montego Bay, Jamaica</option>
+<option value="6062843">Runaway Bay, Jamaica</option>
+<option value="">-----------------------------------</option>
+<option value="178222">Guayabitos, Mexico</option>
+<option value="180016">Puerto Vallarta, Mexico</option>
+<option value="">-----------------------------------</option>
+<option value="305">Agadir, Morocco</option>
+<option value="6084756">Marrakech, Morocco</option>
+<option value="">-----------------------------------</option>
+<option value="6053253">Farallon, Panama</option>
+<option value="">-----------------------------------</option>
+<option value="6034881">La Somone, Senegal</option>
+
+                                                            </select>
+
+                                                            
+
+                                                      </td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Arrive: </font><br>
+
+                                                            <input class="text3" type="Text" name="FromDate" size="10"><a href="javascript:SC(document.PkgFormNoFlight.cal03,document.PkgFormNoFlight.FromDate,null)" onclick="event.cancelBubble=true;"><img id="cal03" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="FromTime">
+
+                                                                  <option value="1">12:00 AM</option><option value="60">1:00 AM</option><option value="120">2:00 AM</option><option value="180">3:00 AM</option><option value="240">4:00 AM</option><option value="300">5:00 AM</option><option value="360">6:00 AM</option><option value="420">7:00 AM</option><option value="480">8:00 AM</option><option value="540">9:00 AM</option><option value="600">10:00 AM</option><option selected="true" value="660">11:00 AM</option><option value="720">12:00 noon</option><option value="780">1:00 PM</option><option value="840">2:00 PM</option><option value="900">3:00 PM</option><option value="960">4:00 PM</option><option value="1020">5:00 PM</option><option value="1080">6:00 PM</option><option value="1140">7:00 PM</option><option value="1200">8:00 PM</option><option value="1260">9:00 PM</option><option value="1320">10:00 PM</option><option value="1380">11:00 PM</option>
+
+                                                            </select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Adults (12-64)<br></font>
+
+                                                            <select class="size11select" name="NumAdult"><option value="0">0</option><option value="1">1</option><option selected="" value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Seniors (65+)<br></font>
+
+                                                            <select class="size11select" name="NumSenior"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td>&nbsp;</td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Return: </font><br>
+
+                                                            <input class="text3" type="Text" name="ToDate" size="10"><a href="javascript:SC(document.PkgFormNoFlight.cal04,document.PkgFormNoFlight.ToDate,document.PkgFormNoFlight.FromDate)" onclick="event.cancelBubble=true;"><img id="cal04" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="ToTime">
+
+                                                                  <option value="1">12:00 AM</option><option value="60">1:00 AM</option><option value="120">2:00 AM</option><option value="180">3:00 AM</option><option value="240">4:00 AM</option><option value="300">5:00 AM</option><option value="360">6:00 AM</option><option value="420">7:00 AM</option><option value="480">8:00 AM</option><option value="540">9:00 AM</option><option value="600">10:00 AM</option><option selected="true" value="660">11:00 AM</option><option value="720">12:00 noon</option><option value="780">1:00 PM</option><option value="840">2:00 PM</option><option value="900">3:00 PM</option><option value="960">4:00 PM</option><option value="1020">5:00 PM</option><option value="1080">6:00 PM</option><option value="1140">7:00 PM</option><option value="1200">8:00 PM</option><option value="1260">9:00 PM</option><option value="1320">10:00 PM</option><option value="1380">11:00 PM</option>
+
+                                                            </select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Children (2-11)<br></font>
+
+                                                            <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">&nbsp;<br></font>
+
+                                                            <input class="GoButton" name="SearchWiz" type="submit" value="Reserve Now!">
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td colspan="4">
+
+                                                            
+
+                                                            <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                            <tbody><tr>
+
+                                                                  <td align="LEFT" valign="TOP" class="size11">
+
+                                                                        <a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp?GOTO=PKGLAUNCH&amp;eapid=45126-30001&amp;olid=&amp;mdpcid=45126-30001.0.1">More Package Search Options</a>
+
+                                                                  </td>
+
+                                                            </tr>
+
+                                                            </tbody></table>
+
+                                                            
+
+                                                      </td>
+
+                                                </tr>
+
+                                                
+
+                                                </tbody></table>
+
+                                          </form></div>
+
+                                          
+
+                                          <div id="PkgWithFlightCar" style="display:none;">
+
+                                                <form name="PkgFormWithFlightCar" action="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp" method="GET">
+
+                                                <input name="eapid" type="hidden" value="45126-30001">
+
+                                                <input name="GOTO" type="hidden" value="PACKAGEWIZ">
+
+                                                <input type="hidden" name="rfrr" value="-34980">
+
+                                                <input type="hidden" name="PackageType" value="5">
+
+                                                <input type="hidden" name="olid" value="">
+
+                                                <input type="hidden" name="mdpcid" value="45126-30001.0.1">
+
+                                                <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                <tbody><tr>
+
+                                                      <td>
+
+                                                            <font class="size11">Departing from: </font><br>
+
+                                                            <input class="text1B" type="Text" name="FrAirport" size="22" value="" maxlength="64">&nbsp;
+
+                                                      </td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Depart: </font><br>
+
+                                                            <input class="text3" type="Text" name="FromDate" size="10"><a href="javascript:SC(document.PkgFormWithFlight.cal01,document.PkgFormWithFlight.FromDate,null)" onclick="event.cancelBubble=true;"><img id="cal01" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="FromTime">
+
+                                                                  <option value="361">Morning</option><option value="901">Afternoon</option><option value="1081">Evening</option>
+
+                                                            </select>
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Adults (12-64)<br></font>
+
+                                                            <select class="size11select" name="NumAdult"><option value="0">0</option><option value="1">1</option><option selected="" value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Seniors (65+)<br></font>
+
+                                                            <select class="size11select" name="NumSenior"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td>
+
+                                                            <font class="size11">Going to: </font>
+
+                                                            <br>
+
+                                                            
+
+                                                            <select class="text1C" name="CityID">
+
+<option value="926">Cartagena, Colombia</option>
+<option value="6095009">Isla Palma, Colombia</option>
+<option value="2052">Leticia (Amazon), Colombia</option>
+<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+<option value="6024028">San Andrés Island, Colombia</option>
+<option value="3221">Santa Marta, Colombia</option>
+<option value="">-----------------------------------</option>
+<option value="6053732">Salinitas, El Salvador</option>
+<option value="">-----------------------------------</option>
+<option value="180106">Montego Bay, Jamaica</option>
+<option value="6062843">Runaway Bay, Jamaica</option>
+<option value="">-----------------------------------</option>
+<option value="178222">Guayabitos, Mexico</option>
+<option value="180016">Puerto Vallarta, Mexico</option>
+<option value="">-----------------------------------</option>
+<option value="305">Agadir, Morocco</option>
+<option value="6084756">Marrakech, Morocco</option>
+<option value="">-----------------------------------</option>
+<option value="6053253">Farallon, Panama</option>
+<option value="">-----------------------------------</option>
+<option value="6034881">La Somone, Senegal</option>
+
+                                                            </select>
+
+                                                            
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td nowrap="">
+
+                                                            <font class="size11">Return: </font>
+
+                                                            <br>
+
+                                                            <input class="text3" type="Text" name="ToDate" size="10"><a href="javascript:SC(document.PkgFormWithFlight.cal02,document.PkgFormWithFlight.ToDate,document.PkgFormWithFlight.FromDate)" onclick="event.cancelBubble=true;"><img id="cal02" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                            <select class="text5" name="ToTime">
+
+                                                                  <option value="361">Morning</option><option value="901">Afternoon</option><option value="1081">Evening</option>
+
+                                                            </select>
+
+                                                            &nbsp;
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">Children (2-11)<br></font>
+
+                                                            <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </td>
+
+                                                      <td>
+
+                                                            <font class="size11">&nbsp;<br></font>
+
+                                                            <input class="GoButton" name="SearchWiz" type="submit" value="Reserve Now!">
+
+                                                      </td>
+
+                                                </tr>
+
+                                                <tr>
+
+                                                      <td colspan="4">
+
+                                                            
+
+                                                            <table width="100%" cellpadding="0" cellspacing="0">
+
+                                                            <tbody><tr>
+
+                                                                  <td align="LEFT" valign="TOP" class="size11">
+
+                                                                        <a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp?GOTO=PKGLAUNCH&amp;eapid=45126-30001&amp;olid=&amp;mdpcid=45126-30001.0.1">More Package Search Options</a>
+
+                                                                  </td>
+
+                                                            </tr>
+
+                                                            </tbody></table>
+
+                                                            
+
+                                                      </td>
+
+                                                </tr>
+
+                                                
+
+                                                </tbody></table>
+
+                                          </form></div>
+
+                                          
+
+                                    </td>
+
+                              </tr>
+
+                              </tbody></table>
+
+                              
+
+                        </div>
+
+                        <div id="hot" style="display:none;">
+
+                              
+
+                              <table width="100%" cellpadding="0" cellspacing="0">
+
+                              <form name="HotForm" action="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp" method="get"></form>
+
+                              <input name="eapid" type="hidden" value="45126-30001">
+
+                              <input type="HIDDEN" name="GOTO" value="HOTSEARCH">
+
+                              <input type="hidden" name="rfrr" value="-34980">
+
+                              <input type="hidden" name="olid" value="">
+
+                              <input type="hidden" name="mdpcid" value="45126-30001.0.1">
+
+                              <tbody><tr>
+
+                                    <td></td>
+
+                              </tr>
+
+                              <tr>
+
+                                    <td align="center">
+
+                                          <table width="100%" cellpadding="0" cellspacing="0">
+
+                                          <tbody><tr>
+
+                                                <td>
+
+                                                                                                              <select class="text1C" name="CityID">
+
+<option value="926">Cartagena, Colombia</option>
+<option value="6095009">Isla Palma, Colombia</option>
+<option value="2052">Leticia (Amazon), Colombia</option>
+<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+<option value="6024028">San Andrés Island, Colombia</option>
+<option value="3221">Santa Marta, Colombia</option>
+<option value="">-----------------------------------</option>
+<option value="6053732">Salinitas, El Salvador</option>
+<option value="">-----------------------------------</option>
+<option value="180106">Montego Bay, Jamaica</option>
+<option value="6062843">Runaway Bay, Jamaica</option>
+<option value="">-----------------------------------</option>
+<option value="178222">Guayabitos, Mexico</option>
+<option value="180016">Puerto Vallarta, Mexico</option>
+<option value="">-----------------------------------</option>
+<option value="305">Agadir, Morocco</option>
+<option value="6084756">Marrakech, Morocco</option>
+<option value="">-----------------------------------</option>
+<option value="6053253">Farallon, Panama</option>
+<option value="">-----------------------------------</option>
+<option value="6034881">La Somone, Senegal</option>
+
+                                                            </select>
+
+                                                </td><td>
+
+                                                      <font class="size11">Check-in date: </font><br>
+
+                                                      <input class="text3" type="Text" name="InDate" size="10"><a href="javascript:SC(document.HotForm.cal05,document.HotForm.InDate,null)" onclick="event.cancelBubble=true;"><img id="cal05" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                </td>
+
+                                                <td>
+
+                                                      <font class="size11">Rooms:<br> </font>
+
+                                                      <select class="size11select" name="NumRoom" onchange="mrd(document.HotForm.NumRoom.value)"><option value="1">1</option><option value="2">2</option><option value="3">3</option></select>
+
+                                                </td>
+
+                                          </tr>
+
+                                          <tr>
+
+                                                <td valign="BOTTOM" nowrap="">
+
+                                                      <div id="rm1txt" style="display:none;">
+
+                                                            <font class="size11">&nbsp;<b>Room 1</b></font>
+
+                                                            <br>
+
+                                                      </div>
+
+                                                      <font class="size11">&nbsp;Adults (12+)</font>
+
+                                                      <select class="size11select" name="NumAdult"><option value="1">1</option><option selected="" value="2">2</option><option value="3">3</option><option value="4">4</option></select> 
+
+                                                      <font class="size11">Children (2-11)</font>
+
+                                                      <select class="size11select" name="NumChild"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                </td>
+
+                                                <td>
+
+                                                      <font class="size11">Check-out date: </font><br>
+
+                                                      <input class="text3" type="Text" name="OutDate" size="10"><a href="javascript:SC(document.HotForm.cal06,document.HotForm.OutDate,document.HotForm.InDate)" onclick="event.cancelBubble=true;"><img id="cal06" src="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/eta/calendar.gif" border="0" align="absmiddle" hspace="1" width="34" alt="" height="21"></a> 
+
+                                                </td>
+
+                                                <td>
+
+                                                      <font class="size11">&nbsp;<br></font>
+
+                                                      <input class="GoButton" name="SearchWiz" type="submit" value="Reserve Now!">
+
+                                                </td>
+
+                                          </tr>
+
+                                          <tr>
+
+                                                <td>
+
+                                                      <div id="hotrm2" style="display:none;">
+
+                                                            <font class="size11">&nbsp;<b>Room 2</b>
+
+                                                            <br>&nbsp;Adults (12+)</font>
+
+                                                            <select class="size11select" name="NumAdult2"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                            <font class="size11"> Children (2-11)</font>
+
+                                                            <select class="size11select" name="NumChild2"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </div>
+
+                                                </td>
+
+                                                <td></td>
+
+                                                <td></td>
+
+                                          </tr>
+
+                                          <tr>
+
+                                                <td>
+
+                                                      <div id="hotrm3" style="display:none;">
+
+                                                            <font class="size11">&nbsp;<b>Room 3</b>
+
+                                                            <br>&nbsp;Adults (12+)</font>
+
+                                                            <select class="size11select" name="NumAdult3"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                            <font class="size11"> Children (2-11)</font>
+
+                                                            <select class="size11select" name="NumChild3"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+
+                                                      </div>
+
+                                                </td>
+
+                                                <td></td>
+
+                                                <td></td>
+
+                                          </tr>
+
+                                          </tbody></table>
+
+                                    </td>
+
+                              </tr>
+
+                              <tr>
+
+                                    <td>
+
+                                          
+
+                                          <table width="100%" cellpadding="0" cellspacing="0">
+
+                                          <tbody><tr>
+
+                                                <td align="LEFT" valign="TOP" class="size11">
+
+                                                      <a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=jump&amp;eapid=45126-30001&amp;jurl=/pubspec/scripts/eap.asp?GOTO=HOTWIZ&amp;eapid=45126-30001&amp;olid=&amp;mdpcid=45126-30001.0.1">More Hotel Search Options</a>
+
+                                                </td>
+
+                                          </tr>
+
+                                          </tbody></table>
+
+                                          
+
+                                    </td>
+
+                              </tr>
+
+                              
+
+                              </tbody></table>
+
+                              
+
+                        </div>
+
+                        <div id="flt" style="display:none;">
+
+                              
+
+                        </div>
+
+                        <div id="car" style="display:none;">
+
+                              
+
+                        </div>
+
+                        <div id="cru" style="display:none;">
+
+                              
+
+                        </div>
+
+                        <div id="tsh" style="display:none;">
+
+                              
+
+                        </div>
+
+                  </td>
+
+            </tr>
+
+            
+
+            </tbody></table>
+
+      </td>
+
+</tr>
+
+</tbody></table>
+
+<script language="JavaScript" for="window" event="onload"> var f=document.Wiz; var iCount = 0; if (f.sPac.checked){f.sPac.click();} else if(f.sHot.checked){f.sHot.click();}
+
+else if(0){f.sFlt.click();}
+
+else if(0){f.sCar.click();}
+
+else if(0){f.sCru.click();}
+
+else if(0){f.sTsh.click();}
+
+else{
+
+      f.sPac.click();
+
+}
+
+ 
+
+var f=document.HotForm;if (f.NumRoom.selectedIndex == 1){mrd(2);}else if (f.NumRoom.selectedIndex == 2){mrd(3);}else{mrd(1);}
+
+ 
+
+SetPkgType(document.PkgTypeFrm.PackageType.value);
+
+ 
+
+</script>
+
+<script language="JavaScript">
+
+var temp;
+
+ 
+
+var dtDate = new Date(new Date().valueOf() + 1814400000);var strStartDate = (dtDate.getMonth() + 1) + '/' + dtDate.getDate() + '/' + dtDate.getFullYear() + '';var dtEndDate = new Date(new Date().valueOf() + 1987200000);var strEndDate = (dtEndDate.getMonth() + 1) + '/' + dtEndDate.getDate() + '/' + dtEndDate.getFullYear() + '';
+
+ 
+
+d=document.forms;
+
+d.PkgFormNoFlight.FromDate.value = d.PkgFormWithFlight.FromDate.value = d.PkgFormWithFlightCar.FromDate.value = temp = d.HotForm.InDate.value = temp = temp = strStartDate; d.PkgFormNoFlight.ToDate.value = d.PkgFormWithFlight.ToDate.value = d.PkgFormWithFlightCar.ToDate.value = temp = d.HotForm.OutDate.value = temp = temp = strEndDate; </script>
+  
   <div id="CoorporateContent">
-    <div>
-      <div align="right">
-        <div align="left">
-          <div align="right">
-            <script>
-			var ThisUrl = document.URL;
-			var ThisUrl = ThisUrl.toLowerCase();
-			var NewUrl =(ThisUrl.replace(/eng/, "esp"))
-			document.write("<div align='right'><span class='SwithTo'><strong><a href=" + NewUrl +">Version En Espa&ntilde;ol</a></strong></span></div>");
-			</script><div align="right"><span class="SwithTo"><strong><a href="https://web.archive.org/web/20081220181307id_/http%3a//www.decameron.com/esp/privacy.html">Version En Español</a></strong></span></div>
-          </div>
-        </div>
-      </div>
-    </div>
     <!-- InstanceBeginEditable name="contenido" -->
     <p class="PropertyName">Privacy Policy</p>
     <p>We are very much aware of your concerns about the privacy of  your information.
