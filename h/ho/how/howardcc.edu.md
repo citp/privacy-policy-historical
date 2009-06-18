@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095659id_/http%3A//www.howardcc.edu/about_hcc/privacy_statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014207id_/http%3A//www.howardcc.edu/about_hcc/privacy_statement/privacy.html) for the most accurate reproduction.*
 
 # College Security, Privacy, & Accessibility Policies
 
 College Security, Privacy, & Accessibility Policies
 
-[Privacy](https://web.archive.org/about_hcc/privacy_statement/privacy.html) | [Security](https://web.archive.org/about_hcc/privacy_statement/security.html) | [Accessibility](https://web.archive.org/about_hcc/privacy_statement/accessibility.html) |
+[Privacy](http://www.howardcc.edu/about_hcc/privacy_statement/privacy.html) | [Security](http://www.howardcc.edu/about_hcc/privacy_statement/security.html) | [Accessibility](http://www.howardcc.edu/about_hcc/privacy_statement/accessibility.html) |
 
 PRIVACY
 
