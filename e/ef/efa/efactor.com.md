@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217034518id_/http%3A//efactor.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105341id_/http%3A//www.efactor.com/p/privacy) for the most accurate reproduction.*
 
-# E.Factor : Building Your Business
+# E.Factor
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
