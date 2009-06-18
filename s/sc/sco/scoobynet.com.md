@@ -1,65 +1,59 @@
-> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205409id_/http%3A//bbs.scoobynet.co.uk/article.php%3Fa%3DPrivacy%26p%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619004648id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScoobyNet.com) for the most accurate reproduction.*
 
-# ScoobyNet Privacy Policy.
+# Site Privacy Policy
 
-How To Contact Us
+scoobynet.com ("Site")
 
-**Our Commitment To Privacy**
+Privacy Statement
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-**The Information We Collect:**
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-This notice applies to all information collected or submitted on the ScoobyNet website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+Browsing the Site
 
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+Information Collected
 
-Name   
-Address   
-Phone Number   
-(etc.) 
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-**The Way We Use Information:**
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Use of Forums
 
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+Cookies
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+Security
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**Our Commitment To Data Security**
+Third Party Advertising 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-**Our Commitment To Children's Privacy:**
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-**How You Can Access Or Correct Your Information**
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-You can access all your personally identifiable information that we collect online and maintain by emailing webmaster@scoobynet.co.uk. We use this procedure to better safeguard your information. 
+Contacting the Web Site
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-**How To Contact Us**
+scoobynet.com
 
-Should you have other questions or concerns about these privacy policies, please call us at [phone number] or send us an email at webmaster@scoobynet.co.uk
+March 24, 2009
