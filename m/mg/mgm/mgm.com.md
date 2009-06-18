@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033255id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618021429id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MGM.com : Official website of Metro-Goldwyn-Mayer Inc. - Ars Gratia Artis
 
@@ -97,4 +97,4 @@ Address: 10250 Constellation Boulevard, Los Angeles, California 90067-6241
 Phone: 310-499-3000   
 E-mail Address: [comments@mgm.com](mailto:comments@mgm.com)
 
-© 2008 Metro-Goldwyn-Mayer Studios Inc. 
+© 2009 Metro-Goldwyn-Mayer Studios Inc. 
