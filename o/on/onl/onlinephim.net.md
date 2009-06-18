@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinephim.net privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201052152id_/http%3A//www.onlinephim.net/page_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinephim.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618050042id_/http%3A//www.onlinephim.net/page_privacypolicy.html) for the most accurate reproduction.*
 
 # OnlinePhim.net | Xem Phim Online, Coi Phim Bo, Luyen Phim Viet Nam, Mien Phi
 
