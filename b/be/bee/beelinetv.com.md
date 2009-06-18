@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171403id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beelinetv.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103644id_/http%3A//www.beelinetv.com/privacy) for the most accurate reproduction.*
 
 # Beeline Software Express Privacy Policy
 
-|  _Beeline TV is a subsidiary of Beeline Software Express_|   Print  
+|  _Beeline TV is a subsidiary of Beeline Software Express_| 
+
+ Print  
+  
 ---|---|---  
   
 **_Protecting the privacy of our customers is important to Beeline Software Express._**
@@ -21,7 +24,7 @@ Most ads appearing on the Beeline Software Express websites are delivered to you
 
 ## PURCHASES
 
-To make purchases on the Beeline Software Express websites, you must use an SSL-enabled browser such as Internet Explorer, Firefox, Safari, Mozilla or Netscape. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
+To make purchases on the Beeline Software Express websites, you must use an SSL-enabled browser such as Internet Explorer, Firefox, Safari, Chrome or Opera. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
 
 ## PERSONAL INFORMATION
 
@@ -29,4 +32,4 @@ Personal information collected from customers or from subscribers to free servic
 
 Beeline Software Express works with other companies to provide products and services to you, and thus may provide some personal information to these companies. For example, a shipping company may receive your address information so that they can deliver the ordered products. Beeline Software Express requires that these companies safeguard your personal information in accordance with Beeline Software Express's own privacy policies. 
 
-The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated december 15, 2005 Beeline Software Express, All Rights Reserved. 
+The Beeline Software Express privacy policy is subject to change at any time. You are encouraged to review this page regularly for any changes. Last updated november 5, 2008 Beeline Software Express, All Rights Reserved. 
