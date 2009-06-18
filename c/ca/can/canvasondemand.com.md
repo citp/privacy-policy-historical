@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217104435id_/http%3A//www.canvasondemand.com/info-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141420id_/http%3A//www.canvasondemand.com/info-privacy.asp) for the most accurate reproduction.*
 
-# Canvas On Demand Privacy Policy
+# Photo To Painting, Canvas Photo Prints, Printing Canvas
 
 This web site is maintained by Canvas On Demand LLC. Here at Canvas On Demand, we recognize the importance of privacy to our visitors. We also recognize that many visitors to our site are concerned about the information they provide us, and how we treat that information. So we've developed a formal privacy policy to assure you that we take seriously our responsibility to protect customer information, and to use it only in ways that are consistent with your wishes. We may update the policy from time to time, so please check in occasionally. 
 
