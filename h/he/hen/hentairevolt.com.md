@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154703id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165339id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
 
 # Hentai Revolt: Free hentai manga doujinshi hentai games adult hentai sex movies
 
