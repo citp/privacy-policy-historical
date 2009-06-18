@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204516id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193911id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
@@ -61,7 +61,7 @@ Questions or comments regarding the NetIQ privacy statement should be directed b
 
 Internet Privacy Practices   
 NetIQ, an Attachmate Business  
-1233 West Loop South, Suite 1800  
+1233 West Loop South, Suite 810  
 Houston, Texas 77027
 
 This document was last updated February 22, 2008.
