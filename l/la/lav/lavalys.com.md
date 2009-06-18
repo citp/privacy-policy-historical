@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082302id_/http%3A//www.lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114533id_/http%3A//www.lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # Lavalys - Comprehensive IT Security and Management
 
+LAVALYS  -  PRIVACY STATEMENT  
 Lavalys Consulting Group, Inc. ("LAVALYS") respects your privacy and are committed to protecting it. Lavalys provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used.
 
 We’ve structured our websites so that, in general, you can visit Lavalys on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every Lavalys Web page. **
@@ -75,5 +76,4 @@ Credit card numbers are used only for processing payment and are not used for ot
 
 1 - A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, <http://www.lavalys.com/>  is the URL for main Lavalys home page in Laval, Québec, Canada.
 
-2 - An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.  
-
+2 - An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop. 
