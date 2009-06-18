@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021102id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618212506id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield - Privacy Policy
 
@@ -17,6 +17,10 @@ What does the this Privacy Policy cover?
 
 
 
+Advanced Graphics  
+Garfield cardboard stand ups and wall posters  
+Privacy Policy: <http://advancedgraphics.com/store/pc/viewContent.asp?idpage=4>[  
+](http://advancedgraphics.com/store/pc/viewContent.asp?idpage=4)  
 Garfield Visa Card/United States  
 Commerce Bank  
 Terms of Service: <http://www.commercebank.com/about/about/termsservice.asp>   
@@ -59,15 +63,6 @@ Educational Workbooks
 ESP International  
 Privacy Policy: <https://internal.bpn.net/permanent.pages/privacy.cfm>
 
-Typing Tutor   
-De Marque, Inc.  
-Privacy Policy: [http://store.demarque.com/demarque/english/shopping/info.asp#confidentialite ](http://store.demarque.com/demarque/english/shopping/info.asp#confidentialite)
-
-Downloadable Local Weather Network  
-Weatherbug   
-Terms of Use: [http://weather.weatherbug.com/about-us/terms-of-use.html?zcode=z5602&region=0](http://weather.weatherbug.com/about-us/terms-of-use.html?zcode=z5602&region=0)   
-Privacy Policy: [http://weather.weatherbug.com/about-us/privacy-policy.html?zcode=z5602&region=0](http://weather.weatherbug.com/about-us/privacy-policy.html?zcode=z5602&region=0)
-
 Professor Garfield   
 Paws, Inc.  
 Terms of Use: <http://www.professorgarfield.org/termsofuse.html>  
@@ -77,12 +72,6 @@ Garfield Mobile Game
 Cingular Wireless (now AT & T)   
 Terms of Use: [http://www.cingular.com/legal ](http://www.cingular.com/legal)  
 Privacy Policy: <http://www.cingular.com/privacy/privacy_policy>
-
-Customized Garfield Product  
-Café Press  
-Terms of Use: <http://www.cafepress.com/cp/info/help/shopkeepers_agreement.aspx>   
-Privacy Policy: <http://www.cafepress.com/cp/info/help/privacy_policy.aspx>   
-
 
 UCLICK is the sole owner of the information collected from the UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
