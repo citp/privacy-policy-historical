@@ -1,71 +1,72 @@
-> *The following text is extracted and transformed from the tide.com privacy policy that was archived on 1999-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990502155433id_/http%3A//www.pg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tide.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618153256id_/http%3A//tide.com/common/redirect.jsp%3FREDIR_URL%3Dwww.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
-# 
+# Procter & Gamble Privacy Notice
 
-* * *
+Information We Collect                                                                                                                                                                                                                      [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab2) for more information 
 
-Privacy Statement
+  * We collect information about you from a variety of sources, including:
 
-* * *
+
+  * Information we collect from you directly.
+  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
+  * Information we collect about you from other sources, such as commercially available sources.
+
+
+  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
 
   
+  
+Uses / Information Sharing                                                                                                                                                                                                           [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab3) for more information 
+
+  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
+  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent. 
+  * We may share your information: 
 
 
-****
-  1. **General**
+  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * If a P&G brand is sold to another company.
+  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
+  * When required by law, and / or public authorities.
 
-Procter & Gamble respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information Procter & Gamble will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit Procter & Gamble websites or respond to our advertisements.
+  
+  
+Your Choices                                                                                                             [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab4) for more information 
 
-  2.  **Personally-Identifiable Information**
+  * We give you choices about how we communicate with you.   
 
-Procter & Gamble will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily.
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to complete your request.  
 
-If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address or phone number listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+  * We take steps to keep your personal information accurate. You can view, correct, or update the contact information you provide P&G.   
 
-When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; and we may provide that information to third parties. 
-
-  3. **Children**
-
-Procter & Gamble has no intention of collecting any personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under thirteen years of age. Where appropriate, Procter & Gamble will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Statement if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
-
-  4. **Non-Personally-Identifiable Information Collected Automatically**
-
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement.
-
-  5.  **Information We May Place Automatically On Your Computer's Hard Drive**
-
-When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, Cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-
-  6.  **Who to Contact**
-
-If you have submitted personally-identifiable information through a Procter & Gamble website or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, [misc.im@pg.com](mailto:misc.im@pg.com), or call us toll-free at 1-800-331-3774. We will use reasonable efforts to delete this information from our existing files. 
+  * [Click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to access and update the contact information you provided P&G. 
 
 
 
-* **General**
+Important Information
 
-Procter & Gamble respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information Procter & Gamble will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit Procter & Gamble websites or respond to our advertisements.
+  * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
+  * P&G complies with country data protection laws.
+  * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
+  * We participate in the US Council of [Better Business Bureau's (BBB)](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program.
 
-*  **Personally-Identifiable Information**
 
-Procter & Gamble will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily.
 
-If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address or phone number listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+| 
 
-When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; and we may provide that information to third parties. 
+How to Contact Us
 
-* **Children**
+  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) (for country specific addresses)
+  
 
-Procter & Gamble has no intention of collecting any personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under thirteen years of age. Where appropriate, Procter & Gamble will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Statement if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
+  * Or write to us at:  
+P&G Global Privacy Team  
+PO Box 599  
+Cincinnati, OH 45202   
+USA
+  
 
-* **Non-Personally-Identifiable Information Collected Automatically**
+  * To read our full Consumer Privacy Statement [click here.](https://web.archive.org/privacy/english/privacy_statement.html)
+  * To read our Global Privacy Policy [click here.](https://web.archive.org/company/our_commitment/privacy_policy/privacy_policy.shtml)
+  * [Click here ](https://web.archive.org/privacy/english/privacy_faq.html) to view Answers to Frequently Asked Questions
 
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement.
 
-*  **Information We May Place Automatically On Your Computer's Hard Drive**
-
-When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, Cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-
-*  **Who to Contact**
-
-If you have submitted personally-identifiable information through a Procter & Gamble website or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, [misc.im@pg.com](mailto:misc.im@pg.com), or call us toll-free at 1-800-331-3774. We will use reasonable efforts to delete this information from our existing files. 
