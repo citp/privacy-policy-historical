@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerotator.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055321id_/http%3A//freerotator.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerotator.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618031214id_/http%3A//freerotator.com/_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
