@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044622id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouchweekly.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618123022id_/http%3A//www.intouchweekly.com/privacy) for the most accurate reproduction.*
 
 # Celebrity news and entertainment from In Touch Weekly
 
@@ -50,35 +50,3 @@ If you have any questions about our privacy policy, the practices of this site, 
 >  (201) 569-6699   
 >  or E-mail us at:   
 >  [mail@intouchweekly.com](mailto:mail@intouchweekly.com)
-
-## TOP STORY
-
-  
-A pop comeback is a lot of work, but that doesn’t mean there’s no fun involved. **Britney Spears** , who’s doing a small promo tour of Japan, is also taking in the sights and having a great time, from the looks of things.   
-
-
-## TV SCOOPS
-
-**_Biggest Loser: Families_  
-“Wishing wasn’t going to get me anywhere”**  
-"Well, with Vicky you could never tell what she was thinking or doing. So I was holding out hope. Obviously, the odds were stacked against me, but I thought maybe for a moment she would think it should be an all-girl finale." 
-
-[Read More](http://www.intouchweekly.com/2008/12/biggest_loser_familieswishing.php)
-
-**_Survivor: Gabon_  
-"Not punching Sugar in the face was the hardest part of _Survivor_ "**   
-Gabon g'blows! Everyone says it's beautiful but I thought it looked like someone just dropped me off alongside the New Jersey Turnpike. It's swampy and gross. 
-
-[Read More](http://www.intouchweekly.com/2008/12/survivor_gabonnot_punching_sug.php)
-
-**_The Amazing Race_  
-How many things could go wrong in one day?**  
-"We were in the lead, but everyone caught up at the submarine where we had to get our first clue. And then what killed us was the roadblock. It took me a long time to find the right statues. Then, of course, I lost our passports and wallet." 
-
-[Read More](http://www.intouchweekly.com/2008/12/the_amazing_racehow_many_thing.php)
-
-**_Dancing With the Stars_  
-"I feel like we won — I really do"**  
-I feel amazing. What a ride, and a rush. I didn't expect to be here at all, so the finale is an added bonus. I felt the dances were great today and Brooke so deserved to win. We couldn't be happier. 
-
-[Read More](http://www.intouchweekly.com/2008/11/dancing_with_the_starsi_feel_l.php)
