@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012957id_/http%3A//www.slashfilm.com/staticpages/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618020947id_/http%3A//www.slashfilm.com/staticpages/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - /FILM
 
