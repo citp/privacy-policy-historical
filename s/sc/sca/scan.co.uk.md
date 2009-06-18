@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054725id_/http%3A//www.scan.co.uk/Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114217id_/http%3A//www.scan.co.uk/Information/Privacy.aspx) for the most accurate reproduction.*
 
 # Computer hardware and software at amazing prices, available online - Scan.co.uk
 
