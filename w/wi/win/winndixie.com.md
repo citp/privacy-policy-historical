@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082925id_/http%3A//winn-dixie.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112142id_/http%3A//winn-dixie.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Winn-Dixie Privacy Policy :: Protecting Your Right to Privacy : Winn-Dixie supports the consumer’s right to privacy Winn-Dixie Supermarket - Grocery Stores, Weekly Ads, Online Pharmacy, Liquor Stores, Grocery Store Coupons, Buy One Get One Free Offers, Recipes
 
