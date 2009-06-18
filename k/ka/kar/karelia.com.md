@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516081139id_/http%3A//karelia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150924id_/http%3A//www.karelia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Karelia Software
 
@@ -62,13 +62,10 @@ If we learn of a security breach we may attempt to notify you electronically so 
 
 If you have a privacy concern regarding any Karelia Product, Site, or Service, or regarding this policy, and if you cannot satisfactorily resolve it through the use of those products, sites, or services, you can write to us by email at privacy@karelia.com. Alternatively, we can be reached at our postal mail address:
 
-Karelia Software 
-
-Attention: Privacy Matters 
-
-P. O. Box 7910 
-
-Beverly Hills, CA 90212
+Karelia Software  
+Attention: Privacy Matters   
+2450 N Lake Ave, Ste 336  
+Altadena, CA 91001
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our practices. In some instances, honoring your requests may interfere with or preclude your ability to use Karelia Products, Sites, and Services or may require us to terminate our relationship with you.
 
