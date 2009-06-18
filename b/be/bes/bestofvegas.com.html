@@ -1,30 +1,23 @@
-<!--The following is the downloaded HTML source of the bestofvegas.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219191656id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestofvegas.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618185601id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Las Vegas Hotels, Vacations, Travel Deals &amp; Show Tickets, Nevada</title>
 <meta name="description" content="BestofVegas.com is your #1 source for Las Vegas Hotels and Vacations.  Search for Las Vegas shows, cheap vacation packages and the lowest Las Vegas Nevada travel deals!">
 <meta name="keywords" content="Las Vegas Hotels, Vegas Hotels, Las Vegas Shows, Vegas Shows, Las Vegas Vacations, Vegas Vacations, Las Vegas Vacation, Vegas Vacation, Las Vegas Travel, Vegas Travel, Las Vegas Travel Deals, Vegas Travel Deals, Las Vegas Show Tickets, Vegas Show Tickets, Las Vegas Nevada Travel">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<script language="JavaScript" src="http://www.bestofvegas.com//tpl/default/js/pkg_scripts.js" type="text/JavaScript"></script>
-<script language="JavaScript" src="http://www.bestofvegas.com//tpl/default/js/new_pkgScript.js" type="text/JavaScript"></script>
-<script language="javascript" src="/js/EBG_js/flashActivation.js"></script>
-
-<!--CSS file (default YUI Sam Skin) --> 
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.3.0/build/calendar/assets/skins/sam/calendar.css"> 
-<!-- Dependencies --> 
-<script type="text/javascript" src="http://yui.yahooapis.com/2.3.0/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
-<!-- Source file --> 
-<script type="text/javascript" src="http://yui.yahooapis.com/2.3.0/build/calendar/calendar-min.js"></script> 
-<script type="text/javascript" src="http://www.bestofvegas.com//tpl/default/js/cal.js"></script>
-
-<link href="http://www.bestofvegas.com//tpl/default/CSS/bestofvegas.css" rel="stylesheet" type="text/css">
-<link href="http://www.bestofvegas.com//tpl/default/CSS/bestof.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/js/EBG_js/prototype.js"></script>
 
 <script type="text/javascript">
 <!--
+
 var homeUrl = "http://www.bestofvegas.com/";
+function videos(url,ap,name){
+	window.location = homeUrl+"videos?url="+url+"&ap="+ap+"&name="+name;
+}
+
+
+/*
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -47,42 +40,24 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-function videos(url,ap,name){
-	window.location = homeUrl+"videos?url="+url+"&ap="+ap+"&name="+name;
-}
-
-function setEngType(val){
-
-var roomComboData = "<table border='0' cellspacing='0' cellpadding='0'><tr><td>" + buildOcc() + "</td></tr></table>";
-
-	document.forms["form1"].pkgType.value = val;
-	document.forms["ResPkgSearchForm"].pkgType.value = val;
-	document.forms["ResPkgSearchForm"].elements["engineType"].value=val;
-	if (val=="H"){
-		document.getElementById("roomComboH").innerHTML=roomComboData;
-		document.getElementById("hotelDisplay").style.display="block";
-		showRooms(1);
-		document.forms["form1"].elements["H_nights"].value="1";
-		document.forms["form1"].elements["hid_H_Loc"].value="10255|Las Vegas - NV|35|55|Nevada|USA";
-	}
-}
-
-function search(){
-	document.forms["ResPkgSearchForm"].elements["pkgType"].value=document.forms["form1"].pkgType.value;
-	//alert("XXX" + document.forms["form1"].pkgType.value); 
-	eval("loadDataNew_"+document.forms["form1"].pkgType.value+"()");
-}
-
-function hotelSearchDisplayer(){
-	return;
-}
-
+*/
 //-->
 </script>
 
-
+<link href="http://www.bestofvegas.com//tpl/default/CSS/bestofvegas.css" rel="stylesheet" type="text/css">
+<link href="http://www.bestofvegas.com//tpl/default/CSS/bestof.css" rel="stylesheet" type="text/css">
 </head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('http://www.bestofvegas.com//tpl/default/images/topnav-hotels-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-shows-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-hotel-show-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-nightlife-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-dining-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-tours-on.jpg','http://www.bestofvegas.com//tpl/default/images/topnav-golf-on.jpg');  ">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="">
+
+<!-- BEGIN COREMETRICS CODE -->
+<script type="text/javascript" language="javascript1.2" src="/common_resources/coremetrics/v40/eluminate.js"></script>
+<script type="text/javascript" language="javascript1.2" src="/common_resources/coremetrics/cmdatatagutils.js"></script>
+<script type="text/javascript" language="javascript1.2">
+var cm_ClientID = "90230039";
+cm_JSFPCookieDomain = "bestofvegas.com";
+cmSetProduction();cmCreatePageviewTag("Privacy Policy", "General Pages", null, null);
+</script>
+<!-- END COREMETRICS CODE -->
 
 <div id="headerTable">
 <table border="0" align="center" cellpadding="0" cellspacing="0" width="990">
@@ -141,7 +116,7 @@ td.padding_repeat {
 	</tr>
 	<tr>
     	<td width="272" height="69" valign="middle" align="center" style="padding-right:5px;">
-        	<a href="http://www.bestofvegas.com/"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-bestofvegas1.jpg" alt="Best of Vegas Logo" border="0"></a>
+        	<a href="http://www.bestofvegas.com/" name="Main Logo"><img src="http://www.bestofvegas.com//tpl/default/images/topnav-bestofvegas1.jpg" alt="Best of Vegas Logo" border="0"></a>
         </td>
       	<td width="673" align="right" valign="middle">
         	<table cellpadding="0" cellspacing="0" border="0">
@@ -149,15 +124,15 @@ td.padding_repeat {
                 	<td height="23" width="673">
                     	<table width="100%" cellpadding="0" cellspacing="0">
                         	<tbody><tr>
-                            	<td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Home.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/">HOME</a></td>
+                            	<td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Home.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/" name="Main Nav Home">HOME</a></td>
                                 <td class="seperator">|</td>
-                                <td class="padding_repeat" align="center" width="72" onclick="window.location='http://www.bestofvegas.com/hotels'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Hotels.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/hotels">HOTELS</a></td>
+                                <td class="padding_repeat" align="center" width="72" onclick="window.location='http://www.bestofvegas.com/hotels'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Hotels.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/hotels" name="Main Nav Hotels">HOTELS</a></td>
                                 <td class="seperator">|</td>
-                                <td class="padding_repeat" align="center" width="66" onclick="window.location='http://www.bestofvegas.com/Shows-Tickets'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Shows.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Shows-Tickets">SHOWS</a></td>
+                                <td class="padding_repeat" align="center" width="66" onclick="window.location='http://www.bestofvegas.com/Shows-Tickets'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Shows.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Shows-Tickets" name="Main Nav Shows">SHOWS</a></td>
                                 <td class="seperator">|</td>
-                                <td class="padding_repeat" align="center" width="87" onclick="window.location='http://www.bestofvegas.com/Night-Clubs'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Nightlife.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Night-Clubs">NIGHTLIFE</a></td>
+                                <td class="padding_repeat" align="center" width="87" onclick="window.location='http://www.bestofvegas.com/Night-Clubs'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Nightlife.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Night-Clubs" name="Main Nav Clubs">NIGHTLIFE</a></td>
                                 <td class="seperator">|</td>
-                                <td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/Tours'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Tours.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Tours">TOURS</a></td>
+                                <td class="padding_repeat" align="center" width="64" onclick="window.location='http://www.bestofvegas.com/Tours'" background="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_under_Tours.gif"><a style="color:#000000;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;text-decoration:none;" href="http://www.bestofvegas.com/Tours" name="Main Nav Tours">TOURS</a></td>
                                 <td align="right"><img src="http://www.bestofvegas.com//tpl/default/images/BOV_Nav_phone.gif" alt="Best of Vegas Phone Numbers" border="0"></td>
                             </tr>
                        	</tbody></table>
@@ -169,18 +144,18 @@ td.padding_repeat {
                         	<tbody><tr>
                             	<td class="secondary_nav" style="padding-left:12px;">Las Vegas Guide:</td>
                                 <td style="padding-left:10px;"></td>
-                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Golf-Courses">Golf</a></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Golf-Courses" name="Main Nav Golf">Golf</a></td>
                                 <td class="secondary_seperator">|</td>
-                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Restaurants">Dining</a></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Restaurants" name="Main Nav Dining">Dining</a></td>
                                 <td class="secondary_seperator">|</td>
-                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Attractions">Attractions</a></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Attractions" name="Main Nav Attractions">Attractions</a></td>
                                	<td class="secondary_seperator">|</td>
-                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Weddings">Weddings</a></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Weddings" name="Main Nav Weddings">Weddings</a></td>
                                 <td class="secondary_seperator">|</td>
-                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Spas">Spas</a></td>
+                                <td><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;vertical-align:middle;text-decoration:none;" href="http://www.bestofvegas.com/Spas" name="Main Nav Spas">Spas</a></td>
                                 <td class="secondary_seperator">|</td>
                                 <td><img src="http://www.bestofvegas.com//tpl/default/images/video_icon.gif" alt="Best of Vegas Video" border="0" width="14" height="29"></td>
-                                <td valign="middle"><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:none;" href="http://www.bestofvegas.com/videos">&nbsp;Video</a></td>
+                                <td valign="middle"><a style="color:#FFFFFF;font-family:Arial, Helvetica, sans-serif;font-size:11px;text-decoration:none;" href="http://www.bestofvegas.com/videos" name="Main Nav Videos">&nbsp;Video</a></td>
                                 <td align="right" width="220"></td>
                             </tr>
                        	</tbody></table>
@@ -191,11 +166,11 @@ td.padding_repeat {
 	</tr>
 </tbody></table>
 </div>
-<table id="contentTable" border="0" align="center" cellpadding="0" cellspacing="0" width="990">
+<table id="contentTable" border="0" align="center" cellpadding="0" cellspacing="0" width="900">
     <tbody><tr>
         <td width="33"></td>
         <td width="252" valign="top">
-        	<table width="252" cellspacing="0" cellpadding="0" border="0">
+        	<table width="252" cellspacing="0" style="margin-left:13px;margin-right:9px;" cellpadding="0" border="0">
         		<!--<tr>
     <td valign="top" width="255">
       
@@ -238,10 +213,10 @@ td.padding_repeat {
      <td valign="top">
       <table>
        <tbody><tr>
-        <td><a href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/le_reve_small.jpg" width="68" height="50"></a></td>
+        <td><a href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');" name="Videos Sidebar Le Reve Thumb"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/le_reve_small.jpg" width="68" height="50"></a></td>
        </tr>
        <tr>
-        <td><a style="text-decoration:none;font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#FFFFFF;" href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');">Le Reve<br> <span style="color:#999999">01:10</span></a></td>
+        <td><a style="text-decoration:none;font-family:Arial, Helvetica, sans-serif;font-size:9px;color:#FFFFFF;" href="javascript:videos('21293/21293_2008-08-15-100237','1','Le%20Reve%20Backstage');" name="Videos Sidebar Le Reve">Le Reve<br> <span style="color:#999999">01:10</span></a></td>
         
        </tr>
        </tbody></table>
@@ -267,10 +242,10 @@ td.padding_repeat {
       <td valign="top">
        <table>
         <tbody><tr>
-         <td><a href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/cher_small.jpg" width="67" height="50"></a></td>
+         <td><a href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');" name="Videos Sidebar Cher Thumb"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/cher_small.jpg" width="67" height="50"></a></td>
         </tr>
         <tr>
-         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');">Cher<br> <span style="color:#999999">01:59</span></a></td>
+         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21576/21576_2008-08-19-081857','1','Cher%20One-on-One');" name="Videos Sidebar Cher">Cher<br> <span style="color:#999999">01:59</span></a></td>
         </tr>
        </tbody></table>
       </td>
@@ -295,10 +270,10 @@ td.padding_repeat {
       <td valign="top">
        <table>
         <tbody><tr>
-         <td><a href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/mystere_small.jpg" width="67" height="50"></a></td>
+         <td><a href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');" name="Videos Sidebar Mystere Thumb"><img border="0" src="http://www.bestofvegas.com//tpl/default/images/mystere_small.jpg" width="67" height="50"></a></td>
         </tr>
         <tr>
-         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');">Mystere<br> <span style="color:#999999">00:48</span></a></td>
+         <td><a style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:9px; color:#FFFFFF;" href="javascript:videos('21296/21296_2008-08-15-102848','1','Mystere%20-%20Cirque%20du%20Soleil');" name="Videos Sidebar Mystere">Mystere<br> <span style="color:#999999">00:48</span></a></td>
         </tr>
        </tbody></table>
       </td>
@@ -318,7 +293,7 @@ td.padding_repeat {
   <td align="center">
    <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-top:1px solid #5e5e5e" width="252" background="http://www.bestofvegas.com//tpl/default/images/BOV_video_sidebar_white_bg.jpg">
     <tbody><tr>
-     <td colspan="3" height="22" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; padding-left:5px; color:#FF0000; font-size:11px; font-weight:bold;">LIVE:</span> <span style="font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px;">Videos</span><span style="padding-left:120px;"><a style="font-size:11px;font-family:Arial, Helvetica, sans-serif;color:#000000" href="http://www.bestofvegas.com/videos"><u>+View All</u></a></span></td>
+     <td colspan="3" height="22" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; padding-left:5px; color:#FF0000; font-size:11px; font-weight:bold;">LIVE:</span> <span style="font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px;">Videos</span><span style="padding-left:120px;"><a style="font-size:11px;font-family:Arial, Helvetica, sans-serif;color:#000000" href="http://www.bestofvegas.com/videos" name="Videos Sidebar View All"><u>+View All</u></a></span></td>
     </tr>
    </tbody></table>
   </td>
@@ -326,7 +301,7 @@ td.padding_repeat {
 </tbody></table>
         <p class="leftcol_redrule"></p>
 <p align="center">
-<a href="http://www.bestofvegas.com/Newsletter"><img width="231" height="100" border="0" src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_43.jpg"></a>
+<a href="http://www.bestofvegas.com/Newsletter" name="Sidebar Newsletter"><img width="231" height="100" border="0" src="http://www.bestofvegas.com//tpl/default/images/bov_home_4_43.jpg"></a>
 </p>
         <table width="230" height="275" align="center" border="1" cellpadding="0" cellspacing="0" border-color="#FFFFFF">
 	<tbody><tr>
@@ -430,20 +405,20 @@ td.padding_repeat {
 		        	<td>
 		            	<table align="center" cellpadding="0" cellspacing="0">
 		                	<tbody><tr>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/" class="footer" style="text-decoration:underline;">Home</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/Contact_Us" class="footer" style="text-decoration:underline;">Contact</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/About_Us" class="footer" style="text-decoration:underline;">About</a> </td>
-								<td align="center" width="70"><a href="http://www.bestofvegas.com/hotels" class="footer" style="text-decoration:underline;">Hotels</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Show-Tickets" class="footer" style="text-decoration:underline;">Shows</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Night-Clubs" class="footer" style="text-decoration:underline;">Nightlife</a> </td>	                  		
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/" class="footer" style="text-decoration:underline;" name="Footer Nav Home">Home</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/Contact_Us" class="footer" style="text-decoration:underline;" name="Footer Nav Contact">Contact</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/pages/About_Us" class="footer" style="text-decoration:underline;" name="Footer Nav About">About</a> </td>
+								<td align="center" width="70"><a href="http://www.bestofvegas.com/hotels" class="footer" style="text-decoration:underline;" name="Footer Nav Hotels">Hotels</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Show-Tickets" class="footer" style="text-decoration:underline;" name="Footer Nav Shows">Shows</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Night-Clubs" class="footer" style="text-decoration:underline;" name="Footer Nav Nightlife">Nightlife</a> </td>
 		                	</tr>
 		                	<tr>
-		                		<td align="center" width="70"><a href="http://www.bestofvegas.com/Tours" class="footer" style="text-decoration:underline;">Tours</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Golf-Courses" class="footer" style="text-decoration:underline;">Golf</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Attractions" class="footer" style="text-decoration:underline;">Attractions</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Weddings" class="footer" style="text-decoration:underline;">Weddings</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Spas" class="footer" style="text-decoration:underline;">Spas</a> </td>
-		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/videos" class="footer" style="text-decoration:underline;">Videos</a> </td>
+		                		<td align="center" width="70"><a href="http://www.bestofvegas.com/Tours" class="footer" style="text-decoration:underline;" name="Footer Nav Tours">Tours</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Golf-Courses" class="footer" style="text-decoration:underline;" name="Footer Nav Golf">Golf</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Attractions" class="footer" style="text-decoration:underline;" name="Footer Nav Attractions">Attractions</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Weddings" class="footer" style="text-decoration:underline;" name="Footer Nav Weddings">Weddings</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/Spas" class="footer" style="text-decoration:underline;" name="Footer Nav Spas">Spas</a> </td>
+		                  		<td align="center" width="70"><a href="http://www.bestofvegas.com/videos" class="footer" style="text-decoration:underline;" name="Footer Nav Videos">Videos</a> </td>
 							</tr>
 		              	</tbody></table>
 		        	</td>
@@ -456,7 +431,7 @@ td.padding_repeat {
 			<table align="center" border="0" width="100%">
 		    	<tbody><tr>
 		            <td align="center" class="footer">
-					Use of this Web site constitutes acceptance of the BestOfVegas.com <a href="http://www.bestofvegas.com/pages/User_Agreement" class="footer" style="text-decoration:underline;">User Agreement</a> and <a href="http://www.bestofvegas.com/pages/Privacy_Policy" class="footer" style="text-decoration:underline;">Privacy Policy</a>.<br>All logos, photographs, brand names and images are registered trademarks and copyright of their respected Company.<br>© 2008, BestOfVegas.com, LLC. All rights reserved. All offers are subject to change.<br>Prices displayed before taxes &amp; fees and are samples based on non-peak times and may vary based on availability.<br>CST# 2091178-50. FL ST35222, NV Seller of Travel License NV2008-0022.
+					Use of this Web site constitutes acceptance of the BestOfVegas.com <a href="http://www.bestofvegas.com/pages/User_Agreement" class="footer" style="text-decoration:underline;" name="Footer Nav User Agreement">User Agreement</a> and <a href="http://www.bestofvegas.com/pages/Privacy_Policy" class="footer" style="text-decoration:underline;" name="Footer Nav Privacy Policy">Privacy Policy</a>.<br>All logos, photographs, brand names and images are registered trademarks and copyright of their respected Company.<br>© 2008, BestOfVegas.com, LLC. All rights reserved. All offers are subject to change.<br>Prices displayed before taxes &amp; fees and are samples based on non-peak times and may vary based on availability.<br>CST# 2091178-50. FL ST35222, NV Seller of Travel License NV2008-0022.
 					</td>
 				</tr>
 			</tbody></table>
@@ -475,12 +450,12 @@ td.padding_repeat {
 				<img src="http://www.bestofvegas.com//tpl/default/images/PleaseWaitLogo.gif" vspace="10" hspace="10">
 			</td>
 		</tr>
-		<tr>
-			<td align="center" style="color:#ffffff">
-				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="374" height="21"><param name="movie" value="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="374" height="21"></object><br><br><b>Thank you for your patience.<br>If you prefer to speak with us, Call us at 1-800-947-1081</b>
-			</td>
-		</tr>
-	</tbody></table>
+                <tr>
+            <td align="center" style="color:#ffffff">
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="374" height="21"><param name="movie" value="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="http://www.bestofvegas.com//tpl/default/swf/preload_new.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="374" height="21"></object><br><br><b>Thank you for your patience.<br>If you prefer to speak with us, Call us at 1-800-947-1081</b>
+            </td>
+        </tr>
+        	</tbody></table>
 </div>
 
 <script type="text/javascript">
