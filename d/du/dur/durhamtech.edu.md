@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217023622id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114019id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
 
 # Durham Technical Community College Web Site Privacy Policy
 
-Our Web site does not track, collect, or distribute personal information about visitors.
+The Durham Tech web site does not track, collect, or distribute personal information about visitors.
 
-Our web server automatically records general information on all users who browse the content of our site. The data collection includes: 
+The Durham Tech web server automatically records general information on all users who browse the content of our site. The data collection includes: 
 
   * Your IP address. This information does not result in the identification of your personal email address or other personal information. 
-  * The Internet domain for your Internet service provider. 
-  * The type and version of the browser you are using to access our site (such as Internet Explorer 6.0 or Netscape 7.0). 
+  * The Internet domain for your Internet Service Provider. 
+  * The type and version of the browser you are using to access our site (such as Internet Explorer 7 or Firefox 3). 
   * The type and version of the operating system you use (such as Macintosh or Windows). 
   * The address of the previous site you were visiting. 
   * The pages you visit on the Durham Tech Web site. 
