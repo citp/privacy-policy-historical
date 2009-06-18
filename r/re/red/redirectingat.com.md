@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redirectingat.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154539id_/http%3A//www.skimlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectingat.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193932id_/http%3A//skimlinks.com/privacy) for the most accurate reproduction.*
 
-# skimlinks.com :: Welcome :: Outsource your affiliate marketing and generate revenue from your content easily.
+# Skimlinks :: Privacy Policy
 
 Welcome to Skimlinks, the simplified affiliate marketing service website operated by Skimbit Ltd ( _“Skimbit”_ ).
 
