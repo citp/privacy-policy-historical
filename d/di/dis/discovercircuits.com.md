@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020721id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185950id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for www
+# Privacy Policy for www.discovercircuits.com (updated 04/04/09)
 
-**Privacy Policy for www.discovercircuits.com**
+**Privacy Policy for[www.discovercircuits.com](http://www.discovercircuits.com/) \- updated April 8, 2009**
 
 The privacy of our visitors to www.discovercircuits.com is important to us. 
 
@@ -14,13 +14,17 @@ We recognize that privacy of your personal information is important. Here is inf
 
 **Cookies and Tracking Information**
 
-> This Site may use cookies for any of a variety of reasons, including but not limited to improving quality, better understanding how users interact with us and for session management purposes. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. 
+> This Site may use cookies for any of a variety of reasons, including but not limited to improving quality, better understanding how users interact with us and for session management purposes. For example,  Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+> 
+> If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.  Also,  Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Third-Party Websites**
 
 > This Site may contain links to third-party sites not owned or operated by us. We are not responsible for the privacy practices or the content of such websites operated by third parties. Once you have left the website, we suggest you check the applicable privacy policy of the third-party website to determine how they will handle any information they collect from you. 
+> 
+> The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
-We also use third party advertisements on www.discovercircuits.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on www.discovercircuits.com to support our site.  Some of these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
