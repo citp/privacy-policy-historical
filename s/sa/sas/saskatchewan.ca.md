@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221065805id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewan.ca privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192529id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy -
 
@@ -12,7 +12,7 @@ If you do not wish to provide personal information via the Internet or you wish 
      8th Floor  
      2101 Scarth Street  
      Regina, SK  S4P 2H9  
-     Telephone: (306) 787-8880  
+     Telephone:  (306) 787-8880  
      Fax:               (306) 787-5718
 
 The Government of Saskatchewan may monitor network traffic to identify unauthorized attempts to upload, delete or change information, or otherwise cause damage. We record the Internet Protocol (IP) address of the computer that has contacted our web sites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected or we are legally obligated to do so by law.
@@ -28,7 +28,7 @@ Questions or concerns regarding our management of this privacy statement may be 
      8th Floor  
      2101 Scarth Street  
      Regina, SK  S4P 2H9   
-     Telephone: (306) 787-1134  
+     Telephone:  (306) 787-9586  
      Fax:               (306) 787-5718
 
 If you are not satisfied with our response to your privacy concern, you may wish to contact the:
