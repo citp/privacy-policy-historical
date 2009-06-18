@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217154522id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080618id_/http%3A//www.convert-me.com/en/privacy_policy_en.html) for the most accurate reproduction.*
 
 # Privacy Policy for Convert-me.Com
 
-Effective August 12th, 2004
+Effective August 12th, 2004  
+Last updated March 14th, 2009
 
 ## Our Commitment To Privacy
 
@@ -31,11 +32,18 @@ Our system may also collect some personal information automatically. The types o
 
 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may collect and use not personally identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following pages: 
+
+  * [DoubleClick DART cookie FAQ](http://www.doubleclick.com/privacy/faq.aspx)
+  * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+
+
+
 ## The Way We Use Information:
 
 The information you provide about yourself when registering in our site forum is available to other registered members of the forum only. We do not share that information with anyone else.
 
-The automatically collected personal information except the Internet addresses you were accessing the Internet from may is also available only to registered members of the forum.
+The mentioned above automatically collected personal information except the Internet addresses you were accessing the Internet from may also be available only to registered members of the forum.
 
 Your Internet address (IP address) is only available to our site staff for technical purposes. This information is not shared with any other party
 
