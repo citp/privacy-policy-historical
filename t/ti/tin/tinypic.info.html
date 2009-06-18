@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tinypic.info privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020632id_/http%3A//tinypic.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tinypic.info privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618195835id_/http%3A//tinypic.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Welcome to Tinypic, a free image upload solution. Simply browse, select, and upload!</title>
@@ -7,78 +7,12 @@
     <meta name="description" content="Tinypic is an easy image hosting solution for everyone.">
     <meta name="keywords" content="image hosting, image hosting service, multiple image hosting, unlimited bandwidth, quick image hosting, tinypic, free image hosting, mahdi shahnam, amirhossein kiani">
     <meta name="robots" content="index,follow">
-    <meta name="version" content="Mihalism Multi Host v3.1.2">
     <base href="http://www.tinypic.info/">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="shortcut icon" href="css/favicon.ico">
    
 	
     <script type="text/javascript" src="source/javascript.js"></script>
-
-<script language="JavaScript" type="text/javascript">
-
-var actualWidth = 1200; var actualHeight = 2095; var message; var b_fullsize=0;
-function tableWidth()
-{return 800;}
-
-function windowWidth() {
-if (navigator.appName=="Netscape")
-return window.innerWidth;
-return document.body.offsetWidth;
-}
-
-function scaleImg() {
-what = document.getElementById('show_image');
-actualHeight=what.height; actualWidth=what.width;
-if (  fitsInWindow() ) return;
-if(what.width==tableWidth())
- {what.width=actualWidth;what.height=actualHeight;}
-else{
-what.style.cursor = "pointer";
-what.width=tableWidth();what.height = (actualHeight/actualWidth) * what.width;
-}
-}
-function showOnclick()
-{
-what = document.getElementById('show_image');
-
-if (actualWidth == what.width)
-        return scaleImg();
-else if (actualWidth > what.width)
-{
-what.width=actualWidth;
-what.height=actualHeight;
-}
-}
-
-function liveResize() {
-what = document.getElementById('show_image');
-actualHeight=what.height; actualWidth=what.width;
- if (fitsInWindow())return;
-if (what.width!=actualWidth) {
-what.width=tableWidth();what.height = (actualHeight/actualWidth) * what.width;}}
-function setImgWidth(){
- if (fitsInWindow())return;
-document.getElementById('show_image').width=tableWidth();
-}
-function fitsInWindow() {
-   what = document.getElementById('show_image');
-   var  actualWidth= what.width;
-  if (actualWidth<tableWidth()) {
-   displayWarning("none");
-   return true;
-  } else {
-  return false;
-  }
-  }
-
-</script>
-
-
-
-
-
-
 
   </head>
   <body>
@@ -92,10 +26,9 @@ function fitsInWindow() {
 	<ul>
          <li><a href="index.php">Upload</a>
      
-         </li><li><a href="gallery.php">Gallery</a></li>
-
-         <li><a href="index.php?do_random=true">Random</a></li>
+                 </li><li><a href="index.php?do_random=true">Random</a></li>
 		     <li><a href="info.php?act=about_us">About Us</a></li>
+  		<li><a href="contact.php?act=contact_us">Contact us</a></li>
 	 
 	 </ul>
         </div>
@@ -126,16 +59,13 @@ Tinypic policy is to respect and protect the privacy of our users. Tinypic will 
       <div class="footer">
       <center>
       <br>
-			<a href="http://www.bluehost.com/track/skyhost/tp">
-<img border="0" src="http://img.bluehost.com/468x60/10.gif" width="468" height="60"></a><br>
-			<a href="http://www.aseman.us" style="font-family: Tahoma; font-size: 8pt; color : #333333;">میز بانی  و  پشتیبانی   توسط  آسمان ،   نماینده   فروش   بلوهاست</a>
-        </center>
-<div class="fade_rev">&nbsp;</div>
+			<a href="http://www.ixwebhosting.com/templates/ix/v2/affiliate/clickthru.cgi?id=skyhost">
+<img src="http://www.ixwebhosting.com/templates/ix/v2/images/banners/expert-468x60-feb-22.gif" border="0"></a>
       <br>
 
 <a href="info.php?act=privacy_policy">Privacy Policy</a> | <a href="contact.php?act=contact_us">Contact us</a> | <a href="info.php?act=rules">Rules</a>
         <br><br>
-</div>       
+</center></div>       
 	 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
