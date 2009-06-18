@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218085050id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618075029id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Allen Tate Family of Companies
+# Allen Tate Real Estate - Privacy Policy
 
 ## Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy details the type of information we collect, the methods whic
 
 #### Who is Allen Tate?
 
-Founded in 1957, the Allen Tate Company has grown to become the area's #1 real estate company. With locations covering North and South Carolina and over 1,800 sales associates, we work together to fulfill one objective: legendary customer service. This mission has helped us become the largest firm in the region and among the Top 10 private firms in the country.
+Founded in 1957, the Allen Tate Company has grown to become the area's #1 real estate company. With locations covering North and South Carolina and over 1,600 sales associates, we work together to fulfill one objective: legendary customer service. This mission has helped us become the largest firm in the region and among the Top 10 private firms in the country.
 
 #### What Kind of Information Does Allen Tate Collect?
 
