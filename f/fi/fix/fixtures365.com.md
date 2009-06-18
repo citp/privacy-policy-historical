@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixtures365.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100015id_/http%3A//www.fixtures365.com/infomation/privacy_agreement/0%2C23562%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixtures365.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062951id_/http%3A//www.fixtures365.com/infomation/privacy_agreement/0%2C23562%2C%2C00.html) for the most accurate reproduction.*
 
 # Fixtures365.com - Football Fixtures, Premier League, Scottish Premiership, Championship, League One, League Two, Champions League, UEFA Cup, Serie A, Bundesliga, La Liga, Le Championnat
 
