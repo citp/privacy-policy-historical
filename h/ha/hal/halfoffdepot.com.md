@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052214id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618085412id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Half Off Depot :: Privacy Policy
 
 Thank you for visiting HalfOffDepot.com. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information going forward, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
