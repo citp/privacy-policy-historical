@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217213044id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080242id_/http%3A//www.freecollegescholarships.net/privacy.php%3Fc%3D) for the most accurate reproduction.*
 
 # Free College Scholarships
 
@@ -31,7 +31,7 @@ Additionally, freecollegescholarships.net may disclose your information if requi
 
 ##### Registry Compliance:
 
-By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls. 
+By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from freecollegescholarships.net, our affiliates, and our partners for contact via telephone and/or sms messages, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls. 
 
 ##### We do not collect Information from Children:
 
