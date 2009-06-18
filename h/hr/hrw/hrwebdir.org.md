@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrwebdir.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101031id_/http%3A//www.hrwebdir.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrwebdir.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192213id_/http%3A//www.hrwebdir.org/privacy.htm) for the most accurate reproduction.*
 
 # Human Ranked Directory - Privacy Policy
 
@@ -44,6 +44,10 @@ Since we are a directory listing many content rich and quality sites, we publish
 **Advertising and Sponsors**
 
 If necessary for promotion and marketing, we may share the following submitted information to third party advertisers and sponsors : URL, Title, Description, Keywords, Unique Visitors, Scores and Rankings. These information are usually non-personal information and does not include personal user data or email.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **Legal Requirements**
 
