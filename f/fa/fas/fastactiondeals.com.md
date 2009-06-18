@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastactiondeals.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160055id_/http%3A//underfox.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastactiondeals.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618020738id_/http%3A//underfox.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -26,6 +26,8 @@ Underfox collects, at the time of your registration and your sign-on to its web 
 Underfox has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries.  The Privacy Policy also provides that Underfox will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on Underfox’s behalf. 
 
 Underfox has designated responsibility for your personal information to its Privacy Dept, which ensures compliance with the principles in this Privacy Policy. 
+
+If any affiliate, reseller or any persons or entities send visitors to any or our websites using unsolicited (spam) email, their IP will be banned permanently and seize all business relationships with the party. In addition, any commissions generated using such methods will be forfeited.
 
 **3.**
 
@@ -217,4 +219,4 @@ If Underfox is not able to provide access to some aspect of a customer’s perso
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting Underfox or the Privacy Officer as described above.  Underfox will promptly correct such personal information. 
 
-[..](https://web.archive.org/web/20081216160055id_/http%3A//underfox.com/google%20script%20seminar.doc)
+[..](https://web.archive.org/web/20090618020738id_/http%3A//underfox.com/google%20script%20seminar.doc)
