@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinypic.info privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020632id_/http%3A//tinypic.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypic.info privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618195835id_/http%3A//tinypic.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to Tinypic, a free image upload solution. Simply browse, select, and upload!
 
