@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218202024id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081736id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unigamesity
 
@@ -7,7 +7,7 @@ Unigamesity is committed to protecting you and your family’s personal informat
 **Collecting your Personal Information**  
 If you wish to do so, you can remain anonymous for the entire duration of your visit on the Unigamesity website. However, we do require personal information from you in a few specific circumstances. We will ask you when we need information that personally identifies you (usually your name and e-mail address). Generally, this information is requested when posting comments on the website, when you are asked to register before entering a contest, if you subscribe to one of our properties or elect to participate in a survey.
 
-Unigamesity allows third-party ad servers or ad networks to serve advertisements within the Website. These third-party servers or networks use technology to send advertisments, directly to your browser. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. However, no other Personal Information (such as name, e-mail, address etc) is collected or required in such circumstances.
+Unigamesity allows third-party ad servers or ad networks to serve advertisements within the Website. These third-party servers or networks use technology to send advertisements, directly to your browser. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. However, no other Personal Information (such as name, e-mail, address etc) is collected or required in such circumstances. When it comes to Google advertising, users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
 You need to acknowledge that, whenever you disclose information in public areas on the Website, such as comment areas on the Website, the information in the comment you post becomes public. You should never share personal data (including, but not limited to usernames and passwords) in the public comments you post on our website. We will do our best to remove such information posted on our website, but it is ultimately your responsibility.
 
@@ -23,4 +23,4 @@ We show great interest in confidentiality. Unigamesity is a spam free zone. Also
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post a notice about the changes on our Homepage.
 
-This Privacy Policy has been updated today, 1st of September, 2008.
+This Privacy Policy has been updated today, 13th of March, 2009.
