@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113150id_/http%3A//www.ebookers.ie/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193441id_/http%3A//www.ebookers.ie/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -139,7 +139,7 @@ Aggregated information is information, recorded in any form, about more than one
 
 We do not and will not, at any time, request your credit card information, Member ID, login password, or national identification numbers in a non-secure or unsolicited email or telephone communication.
 
-##  **5.To whom we disclose Personal Information**
+##  **5\. To whom we disclose Personal Information**
 
 From time to time, we may disclose your Personal Information as follows:
 
@@ -151,16 +151,13 @@ From time to time, we may disclose your Personal Information as follows:
 
 This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
 
+ _ **Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent. Such circumstances may include:**_
+
   * To protect our Website and our rights under our website terms and conditions of use; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.
   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.
   * Where the information is public.
   * To our insurers and to regulatory agencies.
-
-
-
- _ **Please note that there are circumstances where the use or disclosure of Personal Information may be justified or permitted, or where ebookers may be obligated to disclose information without consent. Such circumstances may include:**_
-
-  * If required to comply with an order or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records. 
+  * If required to comply with an order or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with the rules or court relating to the production of records.
   * If we believe in good faith that a law, regulation, rule or guideline requires it.
   * To a person who needs the information because of an emergency that threatens the life, health, or security of an identifiable person or group.
   * Where it is necessary to collect monies owing to us.
@@ -257,12 +254,8 @@ We may change or supplement this Privacy Policy from time to time. We may also u
 
  **Customer Service Department**
 
-ebookers.ie Limited
-
-First Floor, Block 7 Irish Life Centre,
-
-Lower Abbey Street,
-
-Dublin 1,
-
+ebookers.ie Limited  
+First Floor, Block 7 Irish Life Centre,  
+Lower Abbey Street,  
+Dublin 1,  
 Ireland.
