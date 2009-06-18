@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the astate.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080718id_/http%3A//www2.astate.edu/info/general/privacy-policy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astate.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142512id_/http%3A//www2.astate.edu/info/general/privacy-policy.dot) for the most accurate reproduction.*
 
 # ASU-Jonesboro - Privacy Policy
 
 ## Privacy Policy
 
-Thank you for visiting the web sites of Arkansas State University (ASU). Your privacy is very important to us. We have created this statement to demonstrate our commitment to on-line privacy and to comply with [Arkansas Act 1713 of 2003](http://www.arkleg.state.ar.us/ftproot/acts/2003/public/act1713.pdf).
+Thank you for visiting the web sites of Arkansas State University (ASU). Your privacy is very important to us. We have created this statement to demonstrate our commitment to on-line privacy and to comply with [Arkansas Act 1713 of 2003](http://www.arkleg.state.ar.us/assembly/2003/R/Acts/Act1713.pdf).
 
 We collect no personal information about you when you visit our sites, unless you choose to make such information available to us. When you visit any site hosted by ASU, our server automatically recognizes the Internet domain and IP address from which you accessed our site. This information does not result in the identification of your personal e-mail address or any other personal information.
 
