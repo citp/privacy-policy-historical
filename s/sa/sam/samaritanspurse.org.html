@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samaritanspurse.org privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217151936id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samaritanspurse.org privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618162308id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
@@ -12,10 +12,10 @@
    <title>Samaritan's Purse</title>
 
 <!-- Mint -->
-<script src="/mint/?js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20081217152022/http://www.samaritanspurse.org/mint/?record&amp;key=537041533243713270564d596d32373256626543756d35396576435877323231&amp;referer=&amp;resource=https%3A//web.archive.org/web/20081217151936id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy/&amp;resource_title=Samaritan%27s%20Purse&amp;resource_title_encoded=0&amp;window_width=1366&amp;window_height=768&amp;1580479480737&amp;serve_js"></script>
+<script src="/mint/?js" type="text/javascript"></script><script type="text/javascript" src="https://web.archive.org/web/20081217152022/http://www.samaritanspurse.org/mint/?record&amp;key=537041533243713270564d596d32373256626543756d35396576435877323231&amp;referer=&amp;resource=https%3A//web.archive.org/web/20090618162308id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy/&amp;resource_title=Samaritan%27s%20Purse&amp;resource_title_encoded=0&amp;window_width=1366&amp;window_height=768&amp;1580479481844&amp;serve_js"></script>
 
 <!-- CSS -->
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.samaritanspurse.org/index.php?css=stylesheet/main.v.1228957365">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.samaritanspurse.org/index.php?css=stylesheet/main.v.1241568944">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.samaritanspurse.org/index.php?css=stylesheet/thickbox.v.1224788193">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.samaritanspurse.org/index.php?css=stylesheet/who_we_are.v.1209481040">
 <!--[if lt IE 7]><link rel='stylesheet' type='text/css' media='screen' href='http://www.samaritanspurse.org/index.php?css=stylesheet/ie6.v.1224179059'><![endif]-->
@@ -29,6 +29,8 @@
 <script type="text/javascript" src="http://www.samaritanspurse.org/javascript/thickbox.js"></script>
 <script type="text/javascript" src="http://www.samaritanspurse.org/javascript/feature_area.js"></script>
 <script type="text/javascript">
+var allowRepost = false;
+
 $(function()
 {
 
@@ -36,6 +38,12 @@ $("#trigger").click(function(event) {
 event.preventDefault();
 $("#note-container-body").slideToggle();
 });
+
+$('form').submit(function(){  
+     $(':submit', this).click(function() {  
+         return allowRepost;  
+     });  
+ });
 
 
 $("#note-container-body a").click(function(event) {
@@ -86,6 +94,7 @@ $("#note-container-body").slideUp();
                             <li><a href="http://www.samaritanspurse.org/index.php/WMM/index/">World Medical Mission</a></li>
                             <li><a href="http://www.samaritanspurse.org/index.php/CHP/index/">Children's Heart Project</a></li>
                             <li><a href="http://www.samaritanspurse.org/index.php/PFH/index/">HIV/AIDS Prescription for Hope</a></li>
+                            <li><a href="http://www.samaritanspurse.org/sudan">Sudan Church Rebuilding Program</a></li>
                            <!-- <li><a href="/map/index.php?map=general&keepThis=true&TB_iframe=true&height=420&width=785" title="" class="thickbox">World Map</a></li>-->
                         </ul>
                     </li>
@@ -98,14 +107,18 @@ $("#note-container-body").slideUp();
                    <div class="waysfix">
                         <ul>
                             <li class="li-first"><a href="#"><img src="http://www.samaritanspurse.org/images/templates/public/images/touch.gif" alt=""></a></li>
-                            <li><a href="https://giving.samaritanspurse.org/SingleCheckout.aspx?skinid=2">Donate Online</a></li>
-                            <li><a href="https://giving.samaritanspurse.org/c-7-gift-catalog.aspx?skinid=1">Gift Catalog</a></li>
+	                    <!-- <li><a href="https://giving.samaritanspurse.org/SingleCheckout.aspx?skinid=2">Donate Online</a></li> -->
+
+					<li><a href="https://www.samaritanspurse.org/index.php/Giving/Project_Donations/">Donate Online</a></li>
+
+	                    <li><a href="https://giving.samaritanspurse.org/c-7-gift-catalog.aspx?skinid=1">Gift Catalog</a></li>
                             <li><a href="http://www.samaritanspurse.planyourlegacy.org/index.php">Planned Giving</a></li>
                             <li><a href="http://www.samaritanspurse.org/index.php/OCC/Volunteer/">Volunteer with OCC</a></li>
-                            <li><a href="http://www.samaritanspurse.org/index.php/Relief_and_Development/Volunteer_with_US_Disaster_Relief/">Volunteer with US Disaster Relief</a></li>
-                            <li><a href="http://www.samaritanspurse.org/index.php/Relief_and_Development/Volunteer_For_A_Construction_Project/">Volunteer for A Construction Project</a></li>
+                            <li><a href="http://spvolunteernetwork.org/">Volunteer with US Disaster Relief</a></li>
+                            <li><a href="http://www.samaritanspurse.org/index.php/Relief_and_Development/Volunteer_For_a_Construction_Project/">Volunteer for A Construction Project</a></li>
                             <li><a href="http://www.samaritanspurse.org/index.php/Serving_Overseas/">Serving Overseas with WMM</a></li>
-                            <li><a href="http://www.samaritanspurse.org/index.php/PFH/index/">Help to fight HIV/AIDS</a></li>
+                            <li><a href="http://www.samaritanspurse.org/index.php/PFH/index/">Help to Fight HIV/AIDS</a></li>
+                            <li><a href="http://www.samaritanspurse.org/index.php/Ways_To_Help/Team_Samaritans_Purse/">Team Samaritan's Purse</a></li>
                         </ul>
                      </div>
                                </li>
@@ -137,7 +150,7 @@ $("#note-container-body").slideUp();
                         <!-- header image start -->	
                         <div class="left-item-image-section">
                              
-                             <img src="http://www.samaritanspurse.org/images/simple_pages/PrivacyPolicy.jpg" width="565" border="0" alt="PrivacyPolicy" title="PrivacyPolicy">
+                             <img src="http://master.samaritanspurse.org/images/simple_pages/PrivacyPolicy.jpg" width="565" border="0" alt="PrivacyPolicy" title="PrivacyPolicy">
                              
                         </div>
                         <!-- header image end -->
@@ -211,7 +224,7 @@ If you have comments or questions about our privacy policy, please use our <a hr
                             <form method="post" action="http://www.samaritanspurse.org/index.php">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="8df66c4d96017359ff8dc87cfce7df2fcf61b72a">
+<input type="hidden" name="XID" value="391443e5d99839ece140dfa47a38fcecaa9997e9">
 <input type="hidden" name="RP" value="search/results">
 <input type="hidden" name="NRP" value="search&amp;#47;noresults">
 <input type="hidden" name="RES" value="10">
@@ -268,7 +281,11 @@ If you have comments or questions about our privacy policy, please use our <a hr
 <img src="http://www.samaritanspurse.org/images/templates/public/images/Pray_Give_GetInvolved.gif" width="326" height="89" border="0" usemap="#ActionLinks">
 <map name="ActionLinks" id="ActionLinks">
 <area shape="rect" coords="7,9,87,71" href="/index.php/Pray/pray_who_we_are">
-<area shape="rect" coords="99,9,179,70" href="https://giving.samaritanspurse.org/SingleCheckout.aspx?skinid=2">
+
+<!-- <area shape="rect" coords="99,9,179,70" href="https://giving.samaritanspurse.org/SingleCheckout.aspx?skinid=2" /> -->
+
+<area shape="rect" coords="99,9,179,70" href="https://www.samaritanspurse.org/index.php/Giving/Project_Donations/">
+
 <area shape="rect" coords="192,10,315,68" href="http://www.samaritanspurse.org/index.php/Get_Involved/"></map>
 <br>
 
@@ -286,12 +303,12 @@ If you have comments or questions about our privacy policy, please use our <a hr
                                 <div class="features-block-item">
                                     <div class="features-block-photo">
                                        
-                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/India_children_thumb.jpg" width="90" height="90" border="0">
+                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/pakistan_photo_1_thumb.jpg" width="90" height="90" border="0">
                                        
                                     </div>
                                     <div class="features-block-text">
-                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/caring_for_indias_children/">Caring for India’s Children</a></h1>
-                                        <p></p><p>Ministry partners Wai &amp; Rose Hu have devoted a lifetime to bringing hope and help to the poor
+                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/hope_for_refugees/">Hope for Refugees</a></h1>
+                                        <p></p><p>Samaritan’s Purse aids families displaced by fighting between Pakistan’s military and Taliban insurgents
 </p><p></p>
                                   </div>
                                 </div>    
@@ -302,12 +319,12 @@ If you have comments or questions about our privacy policy, please use our <a hr
                                 <div class="features-block-item">
                                     <div class="features-block-photo">
                                        
-                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/Sabah_thumb.jpg" width="90" height="90" border="0">
+                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/NKorea_Clinic_thumb.jpg" width="90" height="90" border="0">
                                        
                                     </div>
                                     <div class="features-block-text">
-                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/the_peace_of_christ/">The Peace of Christ</a></h1>
-                                        <p></p><p>A ministry supported by Samaritan’s Purse reaches out to Iraqi refugees living in Lebanon
+                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/news_release_on_north_korea_feeding_program/">News Release on North Korea Feeding Program</a></h1>
+                                        <p></p><p>STATEMENT OF NGO PARTNERS ON CESSATION OF FOOD AID PROGRAM IN THE DEMOCRATIC PEOPLE’S REPUBLIC OF KOREA (DPRK)
 </p><p></p>
                                   </div>
                                 </div>    
@@ -318,12 +335,12 @@ If you have comments or questions about our privacy policy, please use our <a hr
                                 <div class="features-block-item">
                                     <div class="features-block-photo">
                                        
-                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/Abu_Steve_thumb.jpg" width="90" height="90" border="0">
+                                                                                   <img src="http://www.samaritanspurse.org/images/article_headline/Pakistan_inside_5-26-09_thumb.jpg" width="90" height="90" border="0">
                                        
                                     </div>
                                     <div class="features-block-text">
-                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/compassionate_care_in_the_desert/">Compassionate Care in the Desert</a></h1>
-                                        <p></p><p>A hospital supported by Samaritan’s Purse provides quality health care and examples of God’s love to nomadic Bedouins
+                                        <h1><a href="http://www.samaritanspurse.org/index.php/articles/exodus_in_pakistan/">Exodus in Pakistan</a></h1>
+                                        <p></p><p>Samaritan’s Purse helps families fleeing from Taliban battles
 </p><p></p>
                                   </div>
                                 </div>    
@@ -340,25 +357,25 @@ If you have comments or questions about our privacy policy, please use our <a hr
 <ul>
 
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1519713604?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Samaritans Purse Overview</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid24918910001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Champions for Christ</a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1818365303?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">The Long Road to Recovery</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid3124569001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Beatrice's Story</a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1819751273?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Meeting Needs after Hurricane Ike</a></li>
-
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1711761706?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Franklin Graham with Greta Van Susteren</a></li>
-
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1711761197?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Franklin Graham's Trip to North Korea</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid22468925001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">The Conflict and the Cross</a></li>
 
 <li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1406589046?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">The John Ladu Laki Story</a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1267577867?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Rebuilding Sudan's Churches</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid6807843001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">The Power of Plastic</a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1428636415?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Rising From The Ashes</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1842751416?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Introduction to Samaritan's Purse</a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1790967088?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Impact of a Hurricane</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1532910840?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Zaki Samwiil: Returning to Sudan </a></li>
 
-<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1782558973?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Hurricane Gustav Relief Continues</a></li>
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid1025135334?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">Here Am I, Send Me</a></li>
+
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid6952361001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">360º Vision</a></li>
+
+<li><a href="http://link.brightcove.com/services/link/bcpid1534611823/bclid900701426/bctid6625314001?src=rss?keepThis=true&amp;TB_iframe=true&amp;height=545&amp;width=960" title="" class="thickbox">World Medical Mission Post Residency Program</a></li>
 
 
 </ul>
@@ -383,7 +400,7 @@ If you have comments or questions about our privacy policy, please use our <a hr
     	
 
                           <div class="footer">
-            <table><tbody><tr><td><a href="http://www.samaritanspurse.org/index.php/Home/NewsFeed/"><img src="http://www.samaritanspurse.org/images/templates/public/images/footer-bg.gif"></a>&nbsp;</td><td><span>© Copyright 2008 Samaritan's Purse.</span> All rights reserved. Please Read our <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Solicitation_Disclosure/">Solicitation Disclosure</a>, <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy/">Privacy Policy</a> and <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Statement_of_Faith/">Statement of Faith</a><br>PO Box 3000 | Boone, NC 28607 | (828) 262-1980  -  Click here to <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Contact_Us">Contact Us</a> or visit our <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Worldwide_offices/">International Offices</a></td></tr></tbody></table>
+            <table><tbody><tr><td><a href="http://www.samaritanspurse.org/index.php/Home/NewsFeed/"><img src="http://www.samaritanspurse.org/images/templates/public/images/footer-bg.gif"></a>&nbsp;</td><td><span>© Copyright 2009 Samaritan's Purse.</span> All rights reserved. Please Read our <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Solicitation_Disclosure/">Solicitation Disclosure</a>, <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy/">Privacy Policy</a> and <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Statement_of_Faith/">Statement of Faith</a><br>PO Box 3000 | Boone, NC 28607 | (828) 262-1980  -  Click here to <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Contact_Us">Contact Us</a> or visit our <a href="http://www.samaritanspurse.org/index.php/Who_We_Are/Worldwide_offices/">International Offices</a></td></tr></tbody></table>
         </div>
 
     
