@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065859id_/http%3A//interesting-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193246id_/http%3A//interesting-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Interesting Articles
 
@@ -27,6 +27,10 @@ NOT distribute to third parties any personally identifiable information with out
 NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
 
 NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+
+Google Ads
+
+* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Choice/Opt-Out
 
