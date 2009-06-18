@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102938id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfa.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014040id_/http%3A//www.mfa.org/about/index.asp%3Fkey%3D3149) for the most accurate reproduction.*
 
 # Museum of Fine Arts, Boston: Privacy Policy
 
-| [](https://web.archive.org/web/20081218102938id_/http%3A//www.mfa.org/about/index.asp)  
+| [](https://web.archive.org/web/20090619014040id_/http%3A//www.mfa.org/about/index.asp)  
 ---  
-[Director's Welcome](https://web.archive.org/about/index.asp?key=4146)  
+[Message from the Director](https://web.archive.org/about/index.asp?key=4146)  
 [Building the New MFA](https://web.archive.org/about/index.asp?key=54)  
 [MFA Mail](https://web.archive.org/mymfa/index.asp?key=79)  
 [Employment](https://web.archive.org/about/index.asp?key=63)  
