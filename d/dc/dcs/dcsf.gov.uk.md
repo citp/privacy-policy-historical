@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcsf.gov.uk privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230004042id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsf.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618071039id_/http%3A//www.dcsf.gov.uk/copyright/privacy.shtml) for the most accurate reproduction.*
 
 # Department for Children, Schools and Families : Copyright statement
 
@@ -12,4 +12,4 @@ If you register to receive updates your information will be held on a secure ser
 
 This site is taking part in a pilot project sharing campaign material across government. The pilot uses cookies to avoid you seeing the same campaign repeatedly, over and over, and to gauge the number of people viewing a campaign or particular web page. These cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are restored in the cookie directory of your hard drive, and do not expire at the end of your session.
 
-[Download the DCSF Information Charter in PDF Format.](https://web.archive.org/web/20081230004042id_/http%3A//www.dcsf.gov.uk/copyright/pdf/DCSFInformationCharter-revised0908.pdf)
+[Download the DCSF Information Charter in PDF Format.](https://web.archive.org/web/20090618071039id_/http%3A//www.dcsf.gov.uk/copyright/pdf/DCSFInformationCharter-revised0908.pdf)
