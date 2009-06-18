@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091256id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618110714id_/http%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Summary
 
-This privacy policy was last updated on July 1, 2006 DegreeSearch.org is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
+This privacy policy was last updated on June 5, 2009 DegreeSearch.org is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
 
 ## Information We Collect
 
@@ -26,7 +26,7 @@ The types of information your browser or Internet session automatically sends us
 
 In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program.
 
-Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, financial aid providers, etc.). We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent.
+Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, age, work experience, etc.) as well as information about their interest in one of our marketing partners (universities, colleges, test prep companies, financial aid providers, etc.). We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the marketing partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent.
 
 ## How We Use This Information
 
@@ -34,9 +34,9 @@ We use the information we automatically collect to help us better plan our sites
 
 ## Your Rights Our Obligations
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed here.
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our marketing partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed here.
 
-Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only.
+We reserve the right to share data with third party partners.
 
 ## Our Security Measures
 
