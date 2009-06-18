@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511064217id_/http%3A//www.shadestation.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618104203id_/http%3A//www.shadestation.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Shade Station
 
