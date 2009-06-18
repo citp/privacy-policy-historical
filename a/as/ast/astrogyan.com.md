@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogyan.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053154id_/http%3A//www.astrogyan.com/user_privacy/user_member_privacy_policy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogyan.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618184139id_/http%3A//www.astrogyan.com/user_privacy/user_member_privacy_policy_statement.html) for the most accurate reproduction.*
 
 # User Member Privacy Policy Statement - Complete Guide, Info Library to Free Indian Astrology Horoscope Predictions
 
