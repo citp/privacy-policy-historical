@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efluxmedia.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032907id_/http%3A//www.efluxmedia.com/page-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efluxmedia.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182815id_/http%3A//www.efluxmedia.com/page-pp.html) for the most accurate reproduction.*
 
-# EfluxMedia - Privacy Policy
+# EfluxMedia News - Privacy Policy
 
 Collection of your Personal Information 
 
