@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164158id_/http%3A//www.usopenshop.org/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105502id_/http%3A//www.usopenshop.org/terms_privacy.asp) for the most accurate reproduction.*
 
-# US Open apparel, gear and tennis accessories from the US Open Online Shop
+# 2009 US Open Official Merchandise | Official US Open Shop | US Open Tennis Apparel, Gear, Gifts and Accessories
 
 **
 
@@ -112,10 +112,11 @@ Pursuant to Section 1798.83 of the California Civil Code, our customers who are 
 
 United States Tennis Association  
 Attention: Advanced Media Dept.- California Privacy Compliance  
-70 West Red Oak Lane
+70 West Red Oak Lane  
+White Plains, NY 10604
 
-White Plains, NY 10604  
+  
   
 **Changes to This Privacy Policy** **  
 **  
-If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on and is effective as of 6/1/08.
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on and is effective as of 6/1/08. 
