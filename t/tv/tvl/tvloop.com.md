@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tvloop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100040id_/http%3A//www.tvloop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvloop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014727id_/http%3A//www.tvloop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy TVLoop
 
-**Last Updated on 12/7/2007**
+**Last Updated on 2/2/2009**
 
 **Our Commitment To Privacy**
 
 Welcome to Watercooler, the leading online fan communities for TV and Sports entertainment. Your privacy is very important to us. All Watercooler employees and founders make it our highest priority to keep the information that our users entrust in us safe. 
 
-We operate under high standards for keeping your privacy, as well as those of your colleagues and company community, safe. We have been certified by the industry's leading privacy association, TrustE (see TrustE section below), who has undertaken a rigorous review of Watercooler's privacy policies, as laid out in this document. We operate under the following guiding principles:
+We operate under high standards for keeping your privacy, as well as those of your colleagues and company community, safe. We operate under the following guiding principles:
 
   * Any sensitive information that you provide will be secured with top industry standard protocols and technology
 
@@ -19,7 +19,7 @@ We operate under high standards for keeping your privacy, as well as those of yo
 
 
 
-To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following **URL: http://www.watercooler-inc.com/privacy.** This notice may be updated from time to time to reflect our continuing efforts to protect our users. privacy. You will always be able to find the latest version posted on our website. 
+To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following **URL: http://www.watercooler-inc.com/privacy.** This notice may be updated from time to time to reflect our continuing efforts to protect our users' privacy. You will always be able to find the latest version posted on our website. 
 
 **The Information We Collect  
 **
@@ -27,7 +27,7 @@ To better protect your privacy we provide this notice explaining our online info
  _1) Watercooler Applications on Partner-Operated Websites_  
 
 
-In order to use Watercooler applications on partner-operated websites (e.g. Facebook, Friendster, etc.), you must 1) be a registered member of a partner site, and 2) install a Watercooler application in your partner site account. By installing our applications on your partner site account, you agree to the partner site's terms of service, which allow application developers like Watercooler to store certain information about you. The application developer terms of service vary from partner to partner in this regard. 
+In order to use Watercooler applications on partner-operated websites (e.g., Facebook, Friendster, etc.), you must 1) be a registered member of a partner site, and 2) install a Watercooler application in your partner site account. By installing our applications on your partner site account, you agree to the partner site's terms of service, which allow application developers like Watercooler to store certain information about you. The application developer terms of service vary from partner to partner in this regard. 
 
 When you install a Watercooler application in your partner site account, we assign you a unique identifying number and allow you to choose a default display name, which we retain. Your display name serves as your publicly visible identity within all websites and applications that serve Watercooler's products. This includes but is not limited to Facebook, Myspace, Hi5, Friendster, Bebo, and Watercooler's _TVLoop.com_ and _FanSection.com_ websites. Your display name is editable at any time by going to your profile page within your Watercooler application.  
 
@@ -75,9 +75,23 @@ Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies in our applications. We do link the information we store in cookies to personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires after you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+We use both session ID cookies and persistent cookies. A session ID cookie expires after you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
 We use session cookies to confirm that users are logged in. As a convenience feature, we offer an option that will remember your login information for a period of two weeks. This login information is encrypted and set in a persistent cookie so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you will not be able to sign in to use our site.
+
+Other third-parties may place advertisements and cookies on web-pages within our applications and websites. Other companies. use of their cookies is subject to their own privacy policies, not this one.
+
+Third Party Advertising
+
+We use third-party advertising companies to serve and display advertising in our applications. These companies may use personal information, such as gender or age, or other information (not including your name, address, email address or telephone number) about your visits to the application or other websites, such as time of day of the login, IP address or information about the internet service provider or, in order to provide advertisements on our applications and website about goods and services that may be of interest to you. 
+
+Cookie Opt-Out
+
+We allow each user to opt out of our ad-serving cookies, so that no unique information or number is associated with the end user.s computer browser. Blocking and/or opting out of cookies do not stop advertisements from being served to your computer; rather, it prevents data from being associated with the end user.s browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times. 
+
+[Click here for the ad-serving cookie opt-out](http://www.networkadvertising.org/managing/opt_out.asp)
+
+All other cookies associated with your browser will remain intact and your opt-out will be effective for the entire life of your browser on your hard drive or until you delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie.
 
 **The Way Your Information Is Visible**
 
@@ -106,12 +120,6 @@ If you use a bulletin board or blog in our applications, you should be aware tha
 **Our Commitment To Children's Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-**TrustE Privacy Policy Certification**
-
-Watercooler-inc.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site _[www.watercooler-inc.com](http://www.watercooler-inc.com/)_. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Customer Support at _[support@watercooler-inc.com](mailto:support@watercooler-inc.com)_. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at _[http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)_ TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **How You Can Access Or Correct Your Information**   
 
