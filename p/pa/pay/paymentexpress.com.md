@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the paymentexpress.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608084701id_/http%3A//www.paymentexpress.com/about/paymentexpress/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentexpress.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618111415id_/http%3A//www.paymentexpress.com/about/paymentexpress/privacy_policy.html) for the most accurate reproduction.*
 
-# Payment Express - Privacy policy
+# Direct Payment Solutions Privacy Policy
 
-Privacy Policy
-
- **Introduction:**  
+**Introduction:**  
 Direct Payment Solutions (hereinafter referred to as DPS) is committed to protecting your privacy as an internet user whenever you buy goods or services from a supplier who uses the DPS payment facilities. Your supplier will generally be using our facilities in connection with payment by you using a credit card over the internet. We recognize our responsibility to keep confidential at all times any information about you which we acquire in connection with such a transaction, whether directly from yourself or through the supplier. We protect your personal information on the Internet to an equivalent high standard to that of which you would experience through any channels of the bank, such as bank branches, cash machines or on the telephone. Please note however that our responsibility is necessarily limited to protection by us of information which we obtain. We cannot, of course, ourselves control the use or disclosure by your supplier of any information which they obtain from you. 
 
 **Collection of Information:**  
