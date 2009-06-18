@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043241id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191754id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
 
-# Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards & more
+# Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards &amp; more
 
 **Our Promise to You**   
 We believe that stationery, invitations and announcements represent the most personal and private means of communication. FineStationery.com is committed to protecting that privacy and building a foundation of trust with our clientele by adhering to the strictest Internet privacy standards and deploying the most sophisticated security measures available. At FineStationery.com, we are dedicated to respecting your privacy and ensuring your security on our site. The following privacy and security policy is to inform you about how and why we collect any information about you, and what we use this information for on our website. 
