@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163802id_/http%3A//www.takeabreak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeabreak.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103246id_/http%3A//www.takeabreak.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Take a Break Magazine
 
