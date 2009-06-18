@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeurllink.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121031id_/http%3A//www.freeurllink.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeurllink.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191942id_/http%3A//www.freeurllink.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Free Links Web Directory
+# privacy policy
 
 ### Privacy Policy Statement
 
