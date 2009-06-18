@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123756id_/http%3A//www.interiordesign.net/info/CA6567797.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140955id_/http%3A//www.interiordesign.net/info/CA6567797.html) for the most accurate reproduction.*
 
 # Privacy Policy - Interior Design
 
