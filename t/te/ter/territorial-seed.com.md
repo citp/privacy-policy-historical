@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territorial-seed.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006055635id_/http%3A//territorial-seed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territorial-seed.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081340id_/http%3A//www.territorialseed.com/privacy) for the most accurate reproduction.*
 
 # Territorial Seed - Vegetable and Flower Seeds at Territorial Seed Company
 
