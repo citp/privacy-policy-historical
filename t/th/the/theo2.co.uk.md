@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060710id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618045949id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
 
 # The O2 - Privacy
 
 ### Who We are
 
-This website (http://www.theo2.co.uk) (the "Site") is provided by Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd) ("AEG"), a company registered in England and Wales ("We" / "Us" / "Our"). Our registered office is at: The Studio, The O2, London SE10 0DX. Our Data Protection Registration Number is Z8689382. You can also contact Us online via [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk). 
+This website (http://www.theo2.co.uk) (the "Site") is provided by Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd) ("AEG"), a company registered in England and Wales ("We" / "Us" / "Our"). Our registered office is at: The Studio, The O2, London SE10 0DX. Our Data Protection Registration Number is Z8689382.
 
 AEG is committed to protecting your privacy. The purpose of this Privacy Policy is to explain how We may use any data We collect about You ("You" / "Your"), how You can instruct Us if You prefer to limit the use of that data and for Us to tell You about the policies and procedures that We have in place to safeguard Your privacy. 
 
@@ -38,7 +38,7 @@ An IP address is a number which is automatically assigned to Your computer whene
 
 #### Cookies
 
-Cookies are small text files saved to Your computer and used to track Your navigation around the Site. Like many other website operators, We use "cookies" to record how You navigate the Site on each visit. Cookies help Us determine to determine the most popular areas of our Site. Most web browsers automatically accept cookies but You do not have to. If You do not want data collected through the use of cookies, or if You want to be notified when You receive a cookie, You can readjust Your browser settings (usually via the "Help" section of the tool bar). However, please note that by disabling cookies Your experience of the Site may be affected as access to some parts of it may be limited. We do not control the use of cookies by third parties on third party websites.
+Cookies are small text files saved to Your computer and used to track Your navigation around the Site. Like many other website operators, We use "cookies" to record how You navigate the Site on each visit. Cookies help Us determine the most popular areas of our Site. Most web browsers automatically accept cookies but You do not have to. If You do not want data collected through the use of cookies, or if You want to be notified when You receive a cookie, You can readjust Your browser settings (usually via the "Help" section of the tool bar). However, please note that by disabling cookies Your experience of the Site may be affected as access to some parts of it may be limited. We do not control the use of cookies by third parties on third party websites.
 
 ### Optional and Future Services
 
@@ -50,7 +50,7 @@ You may be asked to fill out a registration form with Your data and/or to choose
 
 #### Newsletters, emails and alerts
 
-We may offer free newsletters or alerts to share information with You about the Site, about Us, about Our affiliates and subsidiaries or about Our business partners, advertisers or sponsors. You may receive a newsletter or other alerts either by choosing to register for one or in conjunction with a special feature or membership for which You have registered. You can cancel Your subscription to newsletters, Site emails and alerts by emailing Us at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or by contacting Us via the email address which You will normally find at the bottom of the newsletter or email in question. 
+We may offer free newsletters or alerts to share information with You about the Site, about Us, about Our affiliates and subsidiaries or about Our business partners, advertisers or sponsors. You may receive a newsletter or other alerts either by choosing to register for one or in conjunction with a special feature or membership for which You have registered. You can cancel Your subscription to newsletters, Site emails and alerts by contacting Us via the email address which You will normally find at the bottom of the newsletter or email in question. 
 
 #### Competitions
 
@@ -101,7 +101,7 @@ Some of the organisations to which We may, with Your express consent, disclose Y
 
 In the unlikely event that We sell or otherwise dispose of some or all of our business to another party, We reserve the right to transfer Your data as part of any assets sold or disposed of.
 
-If You have previously given Your consent to our passing Your data to third parties or overseas and would like us to stop doing so, please email us at [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or post Your written request to "Compliance Officer, The Studio, The O2, London SE10 0DX." Your request must include Your name, email address and postal address. Written requests sent by post must also be signed. Please allow seven working days for Us to process Your request.
+If You have previously given Your consent to our passing Your data to third parties or overseas and would like us to stop doing so, please post Your written request to "Compliance Officer, The Studio, The O2, London SE10 0DX." Your request must include Your name, email address and postal address. Written requests sent by post must also be signed. Please allow seven working days for Us to process Your request.
 
 ### How do We protect Your data?
 
@@ -109,7 +109,7 @@ We use industry standard efforts to safeguard the confidentiality of Your data. 
 
 ### Links to other websites
 
-The Site contains links to other websites, for example links from advertisers, sponsors and partners. AEG is only responsible for the privacy practices and security of this Site. AEG is not responsible for the privacy policies, content or security of any linked websites. We recommend that You check the privacy and security policies of each and every website that You visit through our Site. Please also see our [Terms of use](http://www.theo2.co.uk/test/testy2.html) for further information on third party sites. 
+The Site contains links to other websites, for example links from advertisers, sponsors and partners. AEG is only responsible for the privacy practices and security of this Site. AEG is not responsible for the privacy policies, content or security of any linked websites. We recommend that You check the privacy and security policies of each and every website that You visit through our Site. Please also see our [Terms & Conditions](http://www.theo2.co.uk/footer/terms-conditions.html) for further information on third party sites. 
 
 ### Notification of changes to the Privacy Policy
 
@@ -119,11 +119,11 @@ This privacy policy was last updated on 24 November 2008. AEG reserves the right
 
 You are entitled by law to find out what data of Yours is held by AEG. You have the right to receive a copy of the data We hold about You for which We may charge a small administration fee.
 
-You can also amend or remove information You give Us via the Site at any time. You can do this by sending an email to [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or by writing to Us at AEG, The Studio, The O2, London SE10 0DX. 
+You can also amend or remove information You give Us via the Site at any time. You can do this by writing to Us at AEG, The Studio, The O2, London SE10 0DX. 
 
 ### Contact Us
 
-If You have any comments or questions about this privacy policy, the practices of this Site, or Your dealings with this Site, please email [policy@aegworldwide.co.uk](mailto:policy@aegworldwide.co.uk) or send a letter to:
+If You have any comments or questions about this privacy policy, the practices of this Site, or Your dealings with this Site, please send a letter to:
 
 Attn: Compliance Officer  
 AEG, The Studio, The O2, London SE10 0DX.
