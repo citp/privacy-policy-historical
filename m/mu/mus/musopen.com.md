@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musopen.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101002id_/http%3A//www.musopen.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musopen.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618065502id_/http%3A//www.musopen.com/privacy.php) for the most accurate reproduction.*
 
 # Musopen - Privacy Policy
 
@@ -7,10 +7,10 @@
 
 Effective Date: August 10, 2008
 
-Welcome to the Musopen (“Musopen”) web site – [http://www.musopen.com](http://www.musopen.com/) – and any other services owned or operated by Musopen (the “Musopen Site”).  At Musopen, we strive to make your online experience with us secure and satisfying. This Privacy Policy describes and governs what information we gather from you, how we use that information, and what we do to protect it.  By using the Musopen Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Musopen Site.     
+Welcome to the Musopen (“Musopen”) web site – [http://www.musopen.com](http://www.musopen.com/) – and any other services owned or operated by Musopen (the “Musopen Site”).  At Musopen, we strive to make your online experience with us secure and satisfying. This Privacy Policy describes and governs what information we gather from you, how we use that information, and what we do to protect it.  By using the Musopen Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Musopen Site.  
 
 
-      This Privacy Policy is expressly incorporated into our **[Terms of Use](https://web.archive.org/web/20081217101002id_/http%3A//www.musopen.com/html/tos.html)**.  Your use of the Musopen Site and any personal information you provide through the Musopen Site are subject to this Privacy Policy and the **[Terms of Use](https://web.archive.org/web/20081217101002id_/http%3A//www.musopen.com/html/tos.html),** at all times.    
+      This Privacy Policy is expressly incorporated into our **[Terms of Use](https://web.archive.org/tos.php)**.  Your use of the Musopen Site and any personal information you provide through the Musopen Site are subject to this Privacy Policy and the **[Terms of Use](https://web.archive.org/tos.php),** at all times.    
 
 
 **Changes and Updates to this Privacy Policy**      
@@ -63,7 +63,7 @@ Welcome to the Musopen (“Musopen”) web site – [http://www.musopen.com](htt
       Musopen may disclose personally identifiable information if required to do so by law or under the good faith belief that such action is necessary to comply with state and federal laws (including, without limitation, U.S. copyright or trademark laws) or respond to a court order, subpoena, judicial or other governmental requirement or warrant in a manner required by the requesting entity.     
 
 
-      Musopen also reserves the right to disclose personally identifiable information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our **[Terms of Use](https://web.archive.org/web/20081217101002id_/http%3A//www.musopen.com/html/tos.html)** **;** protect Musopen from fraudulent, abusive, or unlawful uses; to initiate, render, bill and collect for amounts owed to Musopen; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Musopen Site; or to protect the rights, property, or personal safety of Musopen, our Users, or others.    
+      Musopen also reserves the right to disclose personally identifiable information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our **[Terms of Use](https://web.archive.org/html/tos.html)** **;** protect Musopen from fraudulent, abusive, or unlawful uses; to initiate, render, bill and collect for amounts owed to Musopen; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Musopen Site; or to protect the rights, property, or personal safety of Musopen, our Users, or others.    
 
 
       In the event that Musopen is acquired by, merged with, or our assets are transferred to, another entity, such entity may be able to use your personal information under the terms of this Privacy Policy.   
@@ -114,5 +114,8 @@ If you are a parent or guardian and discover that your child under the age of 13
 **Attention: Privacy Officer   **
 
 Musopen    
-1249 Latham Street  
-Mountain View, CA 94041
+5227 Shirley Ave.  
+Tarzana, CA 91356
+
+  
+
