@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081321id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090028id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Debt Consolidation Care Knowledge Base
 
@@ -12,7 +12,7 @@ At Debt Consolidation care, we recognize and respect the importance of maintaini
   * We respect the privacy of our users and we do not collect information about our users without their knowledge. 
   * Whenever information is collected, we will inform you.
   * We do not disclose information about specific individuals to any unrelated third party. 
-  * If you are harassed by a collection agent and you expose their illegal practices in our community forums, we will protect your personal information. We will even fight all the way to Supreme Court if they tried to force us to give them your identity.
+  * If you are harassed by a collection agent and you expose their illegal practices in our community forums, we will protect your personal information. We will even fight all the way to Supreme Court if they try to force us to give them your identity.
 
 
 
