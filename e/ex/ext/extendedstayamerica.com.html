@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extendedstayamerica.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217102151id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extendedstayamerica.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618212524id_/http%3A//www.extendedstayamerica.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript"> self.name = "masterDefault"</script>
 
@@ -45,11 +45,20 @@
 					<table cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
 							<td>
-								<div class="accountLogin"><a href="https://www.ExtendedStayAmerica.com/myAccount/main.asp">Login&nbsp;/&nbsp;Review Reservations</a></div></td>
+								<div class="intheNews">
+						         <div style="float:left;top-margin:-1px;width:20px;"><a href="http://www.ExtendedStayHotels.com/pressrelease.asp" target="new"><img src="https://www.ExtendedStayAmerica.com/images/alerts.jpg" style="border:none;"></a></div><div style="float:left;width:70px;padding-top:1px;"><a href="http://www.ExtendedStayHotels.com/pressrelease.asp" target="new">In The News</a></div>
+								</div>
+						  </td>
+						  <td>
+								<img src="/images/loginDivider.gif" width="7" height="15" border="0" alt=""></td>
+							<td>
+								<div class="accountLogin">
+									<a href="https://www.ExtendedStayAmerica.com/myAccount/main.asp">Login&nbsp;/&nbsp;Review Reservations</a>
+								</div>
+						  </td>
 
 							<td>
 								<img src="/images/loginDivider.gif" width="7" height="15" border="0" alt=""></td>
-								
 							<td>
 								<div class="joinEmail"><a href="/Email/Main.asp" target="_parent">Join Email Program</a></div>	
 						</td></tr>
@@ -72,8 +81,55 @@
 	</div><!--end container-->
 	<div id="MainContainerHome">
 		<div id="leftContainerHome">
-		
-			<form name="frmMain" action="" method="" class="leftreservation">
+		<script language="javascript" src="../includes/sarissa.js"></script>
+
+<script language="javascript" src="../includes/util-functions.js"></script>
+
+<script>
+function submitForm() 
+{
+    /* Cancel the submit event, and find out which form was submitted */
+    /*knackerEvent(e);
+    var target = window.event ? window.event.srcElement : e ? e.target : null;
+    if (!target) return;
+    */
+    /* Set up the request */
+    var xmlhttp =  new XMLHttpRequest();
+    xmlhttp.open('POST', '/includesProg/CheckPromoCode.asp', true);
+    
+    /* The callback function */
+    xmlhttp.onreadystatechange = function() {
+        if (xmlhttp.readyState == 4) {
+            if (xmlhttp.status == 200)
+                checkPromoCodeValidation(xmlhttp.responseXML);
+            else
+                alert('Unexpected error, please resubmit your request.');
+        }
+    }
+    
+    /* Send the POST request */
+    xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	
+    if((document.getElementById('companycode').value!=null || document.getElementById('companycode').value!="") && (document.getElementById('promocode').value!=null && document.getElementById('promocode').value!=""))
+        xmlhttp.send('companycode=' + document.getElementById('companycode').value + '&promocode=' + document.getElementById('promocode').value);    
+    else
+        checkAvailability();
+        
+}
+
+function checkPromoCodeValidation(responseXml) 
+{
+    if(responseXml.getElementsByTagName('result')[0].firstChild.data == '1')
+    {
+        alert('Please enter either a company code or promotion code, but not both.');
+    }
+    else
+    {        
+		checkAvailability();
+    }
+}
+</script>
+			 <form name="frmMain" action="" method="" class="leftreservation">
 				<div id="reservationBlue">
 					<div class="row">
 					<b>State/Province:</b><br>
@@ -160,79 +216,22 @@
 
 					<div class="row" style="vertical-align: bottom">
 					<b>Check In:</b><br>
-							<input type="hidden" id="checkindate" name="checkindate" value="12/18/2008">
+							<input type="hidden" id="checkindate" name="checkindate" value="6/19/2009">
 	<select width="60" style="width:60px" class="" id="Monthcheckindate" name="Monthcheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
 		<option value="1">Jan</option>
 		<option value="2">Feb</option>
 		<option value="3">Mar</option>
 		<option value="4">Apr</option>
 		<option value="5">May</option>
-		<option value="6">Jun</option>
+		<option value="6" selected="">Jun</option>
 		<option value="7">Jul</option>
 		<option value="8">Aug</option>
 		<option value="9">Sep</option>
 		<option value="10">Oct</option>
 		<option value="11">Nov</option>
-		<option value="12" selected="">Dec</option>
+		<option value="12">Dec</option>
 	</select>
 	<select width="40" style="width:40px" class="" id="Daycheckindate" name="Daycheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
-		<option value="5">5</option>
-		<option value="6">6</option>
-		<option value="7">7</option>
-		<option value="8">8</option>
-		<option value="9">9</option>
-		<option value="10">10</option>
-		<option value="11">11</option>
-		<option value="12">12</option>
-		<option value="13">13</option>
-		<option value="14">14</option>
-		<option value="15">15</option>
-		<option value="16">16</option>
-		<option value="17" selected="">17</option>
-		<option value="18">18</option>
-		<option value="19">19</option>
-		<option value="20">20</option>
-		<option value="21">21</option>
-		<option value="22">22</option>
-		<option value="23">23</option>
-		<option value="24">24</option>
-		<option value="25">25</option>
-		<option value="26">26</option>
-		<option value="27">27</option>
-		<option value="28">28</option>
-		<option value="29">29</option>
-		<option value="30">30</option>
-		<option value="31">31</option>
-	</select>
-	<select width="60" style="width:60px" class="" id="Yearcheckindate" name="Yearcheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
-		<option value="2008" selected="">2008</option>
-		<option value="2009">2009</option>
-	</select>
-					
-						<a href="javascript:showCalendar('frmMain', 'checkindate', document.frmMain.Monthcheckindate.options[document.frmMain.Monthcheckindate.selectedIndex].value, document.frmMain.Daycheckindate.options[document.frmMain.Daycheckindate.selectedIndex].value, document.frmMain.Yearcheckindate.options[document.frmMain.Yearcheckindate.selectedIndex].value);"><img src="/images/icon-calendar.gif" border="0"></a>
-					</div>
-					<div class="row" style="vertical-align: bottom">
-					<b>Check Out:</b><br>
-							<input type="hidden" id="checkoutdate" name="checkoutdate" value="12/19/2008">
-	<select width="60" style="width:60px" class="" id="Monthcheckoutdate" name="Monthcheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
-		<option value="1">Jan</option>
-		<option value="2">Feb</option>
-		<option value="3">Mar</option>
-		<option value="4">Apr</option>
-		<option value="5">May</option>
-		<option value="6">Jun</option>
-		<option value="7">Jul</option>
-		<option value="8">Aug</option>
-		<option value="9">Sep</option>
-		<option value="10">Oct</option>
-		<option value="11">Nov</option>
-		<option value="12" selected="">Dec</option>
-	</select>
-	<select width="40" style="width:40px" class="" id="Daycheckoutdate" name="Daycheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
 		<option value="1">1</option>
 		<option value="2">2</option>
 		<option value="3">3</option>
@@ -263,11 +262,66 @@
 		<option value="28">28</option>
 		<option value="29">29</option>
 		<option value="30">30</option>
-		<option value="31">31</option>
+	</select>
+	<select width="60" style="width:60px" class="" id="Yearcheckindate" name="Yearcheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="2009" selected="">2009</option>
+		<option value="2010">2010</option>
+	</select>
+					
+						<a href="javascript:showCalendar('frmMain', 'checkindate', document.frmMain.Monthcheckindate.options[document.frmMain.Monthcheckindate.selectedIndex].value, document.frmMain.Daycheckindate.options[document.frmMain.Daycheckindate.selectedIndex].value, document.frmMain.Yearcheckindate.options[document.frmMain.Yearcheckindate.selectedIndex].value);"><img src="/images/icon-calendar.gif" border="0"></a>
+					</div>
+					<div class="row" style="vertical-align: bottom">
+					<b>Check Out:</b><br>
+							<input type="hidden" id="checkoutdate" name="checkoutdate" value="6/20/2009">
+	<select width="60" style="width:60px" class="" id="Monthcheckoutdate" name="Monthcheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1">Jan</option>
+		<option value="2">Feb</option>
+		<option value="3">Mar</option>
+		<option value="4">Apr</option>
+		<option value="5">May</option>
+		<option value="6" selected="">Jun</option>
+		<option value="7">Jul</option>
+		<option value="8">Aug</option>
+		<option value="9">Sep</option>
+		<option value="10">Oct</option>
+		<option value="11">Nov</option>
+		<option value="12">Dec</option>
+	</select>
+	<select width="40" style="width:40px" class="" id="Daycheckoutdate" name="Daycheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19" selected="">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
 	</select>
 	<select width="60" style="width:60px" class="" id="Yearcheckoutdate" name="Yearcheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
-		<option value="2008" selected="">2008</option>
-		<option value="2009">2009</option>
+		<option value="2009" selected="">2009</option>
+		<option value="2010">2010</option>
 	</select>
 
 						<a href="javascript:showCalendar('frmMain', 'checkoutdate', document.frmMain.Monthcheckoutdate.options[document.frmMain.Monthcheckoutdate.selectedIndex].value, document.frmMain.Daycheckoutdate.options[document.frmMain.Daycheckoutdate.selectedIndex].value, document.frmMain.Yearcheckoutdate.options[document.frmMain.Yearcheckoutdate.selectedIndex].value);"><img src="/images/icon-calendar.gif" border="0"></a>
@@ -279,7 +333,7 @@
 									
 								<td valign="middle" class="smtext">
 									<b>Rooms</b><br>
-									<select style="width:40px;" id="rooms" name="rooms">
+									<select style="width:45px;" id="rooms" name="rooms">
 										<option value="1">1</option>
 										<option value="2">2</option>
 										<option value="3">3</option>
@@ -289,6 +343,7 @@
 										<option value="7">7</option>
 										<option value="8">8</option>
 										<option value="9">9</option>
+										<option value="10+">10+</option>
 									</select>
 									
 								</td>
@@ -304,7 +359,7 @@
 										<option value="3">3</option>
 										<option value="4">4</option>
 									</select>
-									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp?WTReferrer=http%3A%2F%2Fwww%2Eextendedstayamerica%2Ecom%2Flegal%2Fprivacy%2Easp%3F','newwin2','height=550,width=460');void(0);">
+									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp','newwin2','height=550,width=460');void(0);">
 									<img src="/images/icon-question.gif" border="0" alt=""></a></td>
 					
 								<td valign="top">
@@ -319,7 +374,7 @@
 										<option value="3">3</option>
 										<option value="4">4</option>
 									</select>
-									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp?WTReferrer=http%3A%2F%2Fwww%2Eextendedstayamerica%2Ecom%2Flegal%2Fprivacy%2Easp%3F','newwin2','height=550,width=460');void(0);">
+									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp','newwin2','height=550,width=460');void(0);">
 									<img src="/images/icon-question.gif" border="0" alt=""></a></td>
 							</tr>
 						</tbody></table>
@@ -334,12 +389,12 @@
 										<select id="rates" name="rates" width="175" style="width:175px">
 																	<option value="ESH">Best Available Rate</option>
 											<option value="COR">Corporate</option>
-											<option value="gxz">Gov't/Mil</option>
+											<option value="GXZ">Gov't/Mil</option>
 											<option value="AAA">AAA</option>
 											<option value="SNR">Seniors</option>
 									</select>
 				
-									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp?WTReferrer=http%3A%2F%2Fwww%2Eextendedstayamerica%2Ecom%2Flegal%2Fprivacy%2Easp%3F','newwin2','height=550,width=460');void(0);">
+									<a style="margin-left:-2px;" href="javascript:window.open('/booking/popups/adultKids.asp','newwin2','height=550,width=460');void(0);">
 									<img src="/images/icon-question.gif" border="0"></a></td>
 							</tr>
 							<tr>
@@ -365,14 +420,14 @@
 				<tbody><tr>
 					<td align="left" class="smtext">
 						<b>Promotional Code</b><br>
-						<input type="text" name="promocode" value="" size="12" maxlength="10" onkeypress="handleKeyPress();"></td>
+						<input type="text" name="promocode" id="promocode" value="" size="12" maxlength="10" onkeypress="handleKeyPress();"></td>
 					
 					<td>
 						<img src="/images/spacer.gif" width="5" height="1"></td>
 						
 					<td align="center" valign="left" class="smtext">
 						<b>Company Code</b><br>
-						<input type="text" name="companycode" size="12" value="" maxlength="5" onkeypress="handleKeyPress();"></td>
+						<input type="text" name="companycode" id="companycode" size="12" value="" maxlength="5" onkeypress="handleKeyPress();"></td>
 				</tr>
 			</tbody></table>
 			</center>
@@ -388,7 +443,7 @@
 				</tr>	
 				<tr>
 					<td align="center">
-						<a href="javascript:checkAvailability();" onclick="window.focus()"><img src="/images/submit1.gif" alt="Submit" border="0"></a><br>
+						<a href="javascript:submitForm();"><img src="/images/submit1.gif" alt="Submit" border="0"></a><br>
 						<img src="/images/spacer.gif" width="1" height="1"></td>
 				</tr>
 				<tr>
@@ -407,10 +462,16 @@
 		
 		
 		</form><!--END RESERVATION FORM-->
-		<div style="background:#ffffff;"><center><!--<img src="/images/spacer.gif" width="1" height="5"><br>--><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.extendedstayhotels.com"><img border="0" src="//images.scanalert.com/meter/survey/www.extendedstayhotels.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" style="margin:4px;"></a><!--<br><img src="/images/spacer.gif" width="1" height="5">--></center></div>
+<table cellpadding="0" cellspacing="0" border="0" align="center" style="width:214px;clear:left;margin:0px auto; background-color:white">
+<tbody><tr>
+<td>
+<div style="background:#ffffff;"><center><!--<img src="/images/spacer.gif" width="1" height="5"><br>--><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.extendedstayhotels.com"><img border="0" src="//images.scanalert.com/meter/survey/www.extendedstayhotels.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" style="margin:4px;"></a><!--<br><img src="/images/spacer.gif" width="1" height="5">--></center></div>
 
 		
-<script language="javascript">
+
+</td>
+</tr>
+</tbody></table><script language="javascript">
 <!--
 function chkForm(){
 	if (document.emailFrm.email.value.length == 0) {
@@ -459,7 +520,7 @@ function isEmail(string) {
 					<tr>
 						<td colspan="3" align="center" width="214">
 							<img src="images/spacer.gif" width="1" height="11"><br>
-							<input type="image" src="/images/submit2.gif" border="0" alt="Enroll in our Suite Offers program for discounts" width="72" height="20" id="image1" name="image1">
+							<input type="image" src="/images/submit2.gif" border="0" alt="Enroll in our Suite Offers® program for discounts" width="72" height="20" id="image1" name="image1">
 							<img src="/images/spacer.gif" width="1" height="7"></td>
 					</tr>
 					<tr>
@@ -609,15 +670,17 @@ function isEmail(string) {
 	<table cellpadding="0" cellspacing="0" border="0" align="center">
 		<tbody><tr>
 			<td align="center">
-				<table align="center" cellpadding="2" cellspacing="3" border="0">
+				<table align="center" cellpadding="1" cellspacing="2" border="0">
 					<tbody><tr>
 						<td class="smtextgreen"><a href="http://www.extendedstayhotels.com/Extended/stay.asp">About Extended Stay Hotels</a></td>
 						<td class="smtextgreen"> | </td>
 						<td class="smtextgreen"><a href="http://www.ExtendedStayAmerica.com/Contact/Main.asp">Contact Us</a></td>
 						<td class="smtextgreen"> | </td>
-						<td class="smtextgreen"><a href="http://www.extendedstayhotels.com/careers" target="_blank">Careers</a></td>
+						<td class="smtextgreen"><a href="http://www.ExtendedStayHotels.com/careers" target="_blank">Careers</a></td>
 						<td class="smtextgreen"> | </td>
 						<td class="smtextgreen"><a href="http://www.ExtendedStayAmerica.com/travelPros/main.asp">Travel Agents</a></td>
+						<td class="smtextgreen"> | </td>
+						<td class="smtextgreen"><a href="http://www.ExtendedStayHotels.com/RelatedLinks/hotel-group-booking.asp">Groups/Meetings</a></td>
 						<td class="smtextgreen"> | </td>
 						<td class="smtextgreen"><a href="http://www.ExtendedStayAmerica.com/about/main.asp">About Us</a></td>
 						<td class="smtextgreen"> | </td>
@@ -633,7 +696,7 @@ function isEmail(string) {
 			</td>
 		</tr>
 		<tr>
-		  <td align="center" valign="top" class="smtextblue">©2008 Extended Stay Hotels <sup>SM</sup></td>
+		  <td align="center" valign="top" class="smtextblue">©2009 Extended Stay Hotels <sup>SM</sup></td>
 		</tr>
 	</tbody></table>
 </div>
@@ -853,36 +916,22 @@ dcsTag();
 		
 	<!--End Connors Tracking Code-->
 	
+	<!--Determine if IP Address is valid for certain tags, meaning it is not an ESH or D6 IP address-->
 	
+	    <!--Netmining tags-->
+        
+        <script src="http://esh.netmng.com/?aid=006" type="text/javascript" language="javascript" defer="defer"></script>
+        
+        <!--End Netmining tags---->
 	
-
-		<!--SearchRev Tracking Code-->
-		<noscript>
-			<img src='http://s2.srtk.net/www/delivery/ti.php?bannerid=69&trackerid=220&cb=102480150' width='1' height='1' border='0'/>
-		</noscript>
-
-		<script language="JavaScript" type="text/javascript">
-		ovtacParamFound = 0;
-		query = window.location.search.substring(1);
-		parameters = query.split('&');
-		for(var i=0;i < parameters.length;i++){
-		paramPair = parameters[i].split('=');
-		lwParam = new String(paramPair[0].toLowerCase());
-		if((lwParam.substr(0,5) == 'ovcrn') || (lwParam.substr(0,5) == 'ovchn') || (lwParam.substr(0,2) == 'sr') || (lwParam.substr(0,10) == 'session_sr')){
-    ovtacParamFound = 1;
-		}
-		}
-		if(ovtacParamFound == 1){
-		var az_p=location.protocol=='https:'?'https:':'http:';
-		var az_r=Math.floor(Math.random()*999999);
-		document.write ("<" + "script language='JavaScript' ");
-		document.write ("type='text/javascript' src='"+az_p);
-		document.write ("//s2.srtk.net/www/delivery/lp.php");
-		document.write ("?trackerid=220&bannerid=69&source={derive}&loc=" + escape(window.location) + "&referer=" + escape(document.referrer) + "&r=" + az_r + "'" + "><" + "/script>");
-		}
-		</script>
-		<!--End SearchRev Tracking Code-->
-
+	    <!--Digital Marketing Works-->
+        <script language="javascript" type="text/javascript">
+        document.write('<s'+'cript language="javascript" type="text/javascript" src="'+document.location.protocol+'//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=2918&jscript=1"></s'+'cript>');
+        </script><script language="javascript" type="text/javascript" src="https://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=2918&amp;jscript=1"></script>
+        <noscript>
+        <img width="1" height="1" src='http://track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=2918&jscript=0'>
+        </noscript>
+        <!--end digital marketing works-->	
 	
 <!--''''''''''''''''''''''''''' END TRACKING TAGS ''''''''''''''''''''''''''''''''''''''''''''''''''''''''-->
 
