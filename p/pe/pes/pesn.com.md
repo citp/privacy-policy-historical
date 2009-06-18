@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219200440id_/http%3A//www.pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Pure Energy Systems
 
@@ -10,7 +10,7 @@ We take your privacy seriously. PES Network, Inc. (PES) has created this policy 
 
 **COOKIES**
 
-At this time, PES collects no user-specific data on visitors to our site. We do not use cookies. However, we do anticipate a change in this policy to enhance the user experience. Such changes will be posted in this privacy statement when they are made.
+As of April 8, 2009, our Google AdSense advertising service will collect information on users in order to provide interest-based advertising.  This allows advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.  PES itself does not collect or use user-specific data on visitors to our site except for online forms through which users submit information, such as our news submission page, or NEC member application page, which collect the users IP address.
 
 **Registration for PESWiki**
 
@@ -39,11 +39,11 @@ PES websites contains advertisements from third parties. We also use Yahoo Group
 ###
 
 [**Contact  
-**](https://web.archive.org/web/20081219200440id_/http%3A//www.pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
-](https://web.archive.org/web/20081219200440id_/http%3A//www.pureenergysystems.com/contact/index.html)**PES Network, Inc.**  
+**](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
+](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/contact/index.html)**PES Network, Inc.**  
 4157 N. West Pinion Cir., Eagle Mountain UT 840005, USA  
 **Ph:** 801-407-1292  
 **Fax:** 801-880-8322
 
-Posted by [SDA](https://web.archive.org/web/20081219200440id_/http%3A//www.pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
-Last updated February 12, 2008
+Posted by [SDA](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
+Last updated March 12, 2009
