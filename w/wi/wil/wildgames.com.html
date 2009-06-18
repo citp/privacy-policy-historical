@@ -1,349 +1,172 @@
-<!--The following is the downloaded HTML source of the wildgames.com privacy policy that was archived on 2006-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060315130255id_/http%3A//www.wildtangent.com/default.asp%3FpageID%3Dprivacy_WT) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wildgames.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618062947id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-16">
-<title>WildTangent - Leading Online Game Publishing</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript">
-var lastshowing = "navo2";
-var stickynav = "navnull";
-
-
-locSec = location.search
-function checkLocation(){
-if(locSec.indexOf('about') != -1 || locSec.indexOf('press') != -1)
-{
-	document.getElementById('navo5').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "navo5";
-	stickynav = "navo5";
-}
-else if(locSec.indexOf('showcase') != -1)
-{
-	document.getElementById('navo4').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "navo4";
-	stickynav = "navo4";
-}
-else if(locSec.indexOf('advertisers') != -1)
-{
-	document.getElementById('navo3').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "navo3";
-	stickynav = "navo3";
-}
-else if(locSec.indexOf('partners') != -1)
-{
-	document.getElementById('navo2').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "navo2";
-	stickynav = "navo2";
-}
-else if(locSec.indexOf('developer_main') != -1)
-{
-	document.getElementById('nav_developers').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "nav_developers";
-	stickynav = "nav_developers";
-}
-else if(locSec.indexOf('devel') != -1)
-{
-	document.getElementById('nav_developers').style.visibility = 'visible';
-	document.getElementById('subnav').style.visibility = 'visible';
-	lastshowing = "nav_developers";
-	stickynav = "nav_developers";
-}
-
-
-else if(locSec.indexOf('sitemap') != -1 || locSec.indexOf('support') != -1 || locSec.indexOf('privacy') != -1 || locSec.indexOf('terms') != -1 || locSec.indexOf('contact') != -1){
-
-	document.getElementById('subnav').style.visibility = 'hidden';
-	lastshowing = "navnull";
-	stickynav = "navnull";
-}
-
-else 
-{
-	document.getElementById('subnav').style.visibility = 'hidden';
-	lastshowing =  "navo2";
-	stickynav = "navnull";
-}
-
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<title>WildTangent: Privacy Policy</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="developer" content="Driven Development (www.drivendevelopment.com)">
+		<link rel="stylesheet" type="text/css" href="/static/c/screen.css">
+        
+        
+        
+        <script type="text/javascript">
+        	function popup_window(theURL,winName,features) { //v2.0
+			  	window.open(theURL,winName,features);
+			}
+		</script>
+	</head>
+	
 
 
 
-
-function showHide(a){
-
-document.getElementById(lastshowing).style.visibility = 'hidden';
-document.getElementById(stickynav).style.visibility = 'hidden'
-
-document.getElementById(a).style.visibility = 'visible';
-document.getElementById('subnav').style.visibility = 'visible';
-
-lastshowing = document.getElementById(a).id;
-}
-
-function showSecNav(){
-document.getElementById(lastshowing).style.visibility = 'hidden';
-
-if(locSec.indexOf('sitemap') != -1 || locSec.indexOf('support') != -1 || locSec.indexOf('privacy') != -1 || locSec.indexOf('contact') != -1){
-document.getElementById(stickynav).style.visibility = 'hidden'
-document.getElementById('subnav').style.visibility = 'hidden';
-}
-else{
-document.getElementById(stickynav).style.visibility = 'visible'
-document.getElementById('subnav').style.visibility = 'visible';
-}
-
-}
-
-function hideAll(){
-document.getElementById(lastshowing).style.visibility = 'hidden';
-document.getElementById(stickynav).style.visibility = 'hidden'
-document.getElementById('subnav').style.visibility = 'hidden';
-}
-
-
-
-if (document.images){
-nav1 = new Image();
-nav1.src = 'images/nav/playgames.gif';
-nav1o = new Image();
-nav1o.src = 'images/nav/playgames_o.gif';
-
-nav2 = new Image();
-nav2.src = 'images/nav/sellgames.gif';
-nav2o = new Image();
-nav2o.src = 'images/nav/sellgames_o.gif';
-
-nav3 = new Image();
-nav3.src = 'images/nav/solutions.gif';
-nav3o = new Image();
-nav3o.src = 'images/nav/solutions_o.gif';
-
-nav4 = new Image();
-nav4.src = 'images/nav/clientshowcase.gif';
-nav4o = new Image();
-nav4o.src = 'images/nav/clientshowcase_o.gif';
-
-nav5 = new Image();
-nav5.src = 'images/nav/about.gif';
-nav5o = new Image();
-nav5o.src = 'images/nav/about_o.gif';
-
-wdriver = new Image();
-wdriver.src = 'images/global/wdriver.gif';
-wdrivero = new Image();
-wdrivero.src = 'images/global/wdriver_o.gif';
-
-but1 = new Image();
-but1.src = '';
-but1o = new Image();
-but1o.src = '';
-
-but2 = new Image();
-but2.src = '';
-but2o = new Image();
-but2o.src = '';
-
-but3 = new Image();
-but3.src = '';
-but3o = new Image();
-but3o.src = '';
-
-but4 = new Image();
-but4.src = '';
-but4o = new Image();
-but4o.src = '';
-
-wdriver = new Image();
-wdriver.src = 'images/global/wdriver.gif';
-wdrivero = new Image();
-wdrivero.src = 'images/global/wdriver_o.gif';
-
-
-}
-
-function act(imgName) {
-  if (document.images) 
-    document.images[imgName].src = eval(imgName + "o.src");
-}
-
-function inact(imgName) {
-  if (document.images)
-    document.images[imgName].src = eval(imgName + ".src");
-}
-
-
-
-</script><link href="styles/styles.css" rel="stylesheet" type="text/css">
-</head>
-<body background="images/global/bg.gif" onload="checkLocation()">
-<div id="nav1" style="position:absolute; width:99px; height:25px; z-index:11; left: 225px; top: 6px;" onmouseover="hideAll()"><a href="http://www.wildgames.com" target="_blank" onmouseover="act('nav1')" onmouseout="inact('nav1')"><img src="/images/nav/playgames.gif" width="99" height="25" border="0" id="nav1"></a></div>
-<div id="nav2" style="position:absolute; width:99px; height:25px; z-index:11; left: 326px; top: 6px;" onmouseover="showHide('navo2')"><a href="/default.asp?pageID=partners" onmouseover="act('nav2')" onmouseout="inact('nav2')"><img src="/images/nav/sellgames.gif" width="99" height="25" border="0" id="nav2"></a></div>
-<div id="nav3" style="position:absolute; width:99px; height:25px; z-index:11; left: 427px; top: 6px;" onmouseover="showHide('navo3')"><a href="/default.asp?pageID=advertisers" onmouseover="act('nav3')" onmouseout="inact('nav3')"><img src="/images/nav/solutions.gif" width="99" height="25" border="0" id="nav3"></a></div>
-<div id="nav4" style="position:absolute; width:99px; height:25px; z-index:11; left: 528px; top: 6px;" onmouseover="showHide('navo4')"><a href="/default.asp?pageID=showcase" onmouseover="act('nav4')" onmouseout="inact('nav4')"><img src="/images/nav/clientshowcase.gif" width="99" height="25" border="0" id="nav4"></a></div>
-<div id="nav5" style="position:absolute; width:99px; height:25px; z-index:11; left: 629px; top: 6px;" onmouseover="showHide('navo5')"><a href="/default.asp?pageID=about" onmouseover="act('nav5')" onmouseout="inact('nav5')"><img src="/images/nav/about.gif" width="99" height="25" border="0" id="nav5"></a></div><script>
-if (navigator.appName.indexOf('Netscape') > -1){
-subnavWidth = '493px';
-}
-else{
-subnavWidth = '503px';
-
-}
-
-
-
-document.write('<div id="subnav" style="position:absolute; width:' + subnavWidth + '; height:18px; z-index:13; left: 225px; top: 33px; background-color: D1D1D1; layer-background-color: D1D1D1; border: 1px solid #ADADAD; visibility: hidden">');
-document.write('<div id="navo2" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
-document.write('<a href="/default.asp?pageID=partners_pc">PC OEMs</a><span class="spacer1">|</span><a href="/default.asp?pageID=partners_portals">Portal Partners</a><span class="spacer1">|</span><a href="/default.asp?pageID=partners_dev">Game Developers</a></div>');
-document.write('<div id="navo3" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
-document.write('<a href="/default.asp?pageID=solutions_1">Research and Trends</a><span class="spacer1">|</span><a href="/default.asp?pageID=advertisers_campaigns">Custom Game Campaigns</a><span class="spacer1">|</span><a href="/default.asp?pageID=advertisers_network">WildTangent Network Advertising</a></div>');
-document.write('<div id="navo4" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
-document.write('<a href="/default.asp?pageID=showcase">Coast Soap</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_2">DaimlerChrysler</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_3">Nike</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_4">FOX Sports/GM</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_6">Toyota</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_7">Sony</a></div>');
-document.write('<div id="navo5" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
-document.write('<a href="/default.asp?pageID=about_1">Technology</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_2">Press Room</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_3">Management Team</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_4">Investors</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_5">Jobs</a><span class="spacer1">|</span><a href="/default.asp?pageID=contact_main">Contact</a></div>');
-document.write('<div id="nav_developers" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
-document.write('<a href="/default.asp?pageID=developer_1">Downloads</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_2">Tutorials</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_3">Example Code</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_4">Tech Overviews</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_5">Licensing</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_6">FAQs</a></div>');
-document.write('<div id="navnull" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"></div></div>');
-
-
-</script><div id="subnav" style="position:absolute; width:493px; height:18px; z-index:13; left: 225px; top: 33px; background-color: D1D1D1; layer-background-color: D1D1D1; border: 1px solid #ADADAD; visibility: hidden"><div id="navo2" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=partners_pc">PC OEMs</a><span class="spacer1">|</span><a href="/default.asp?pageID=partners_portals">Portal Partners</a><span class="spacer1">|</span><a href="/default.asp?pageID=partners_dev">Game Developers</a></div><div id="navo3" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=solutions_1">Research and Trends</a><span class="spacer1">|</span><a href="/default.asp?pageID=advertisers_campaigns">Custom Game Campaigns</a><span class="spacer1">|</span><a href="/default.asp?pageID=advertisers_network">WildTangent Network Advertising</a></div><div id="navo4" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=showcase">Coast Soap</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_2">DaimlerChrysler</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_3">Nike</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_4">FOX Sports/GM</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_6">Toyota</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_7">Sony</a></div><div id="navo5" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=about_1">Technology</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_2">Press Room</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_3">Management Team</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_4">Investors</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_5">Jobs</a><span class="spacer1">|</span><a href="/default.asp?pageID=contact_main">Contact</a></div><div id="nav_developers" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=developer_1">Downloads</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_2">Tutorials</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_3">Example Code</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_4">Tech Overviews</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_5">Licensing</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_6">FAQs</a></div><div id="navnull" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"></div></div><div id="boxnav" style="position: absolute; width: 210px; height: 60px; z-index: 14; left: 730px; top: 3835px;">
-<div id="boxnav_topline" style="position:absolute; width:210px; height:3px; z-index:1; left: 0px; top: 0px; border-top: 3px #5C5C5C solid;"></div>
-<div id="boxnav_navtop" style="position:absolute; width:210px; height:15px; z-index:3; left: 0px; top: 5px; text-align: center;"><a href="/default.asp?pageID=sitemap">SITEMAP</a><span class="spacer2"></span><a href="/default.asp?pageID=developer_main">DEVELOPERS</a><span class="spacer2"></span><a href="/default.asp?pageID=support">SUPPORT</a></div>
-<div id="boxnav_botline" style="position:absolute; width:210px; height:3px; z-index:1; left: 0px; top: 22px; border-top: 3px #5C5C5C solid;"></div>
-<div id="boxnav_navbot" style="position:absolute; width:210px; height:3px; z-index:3; left: 0px; top: 27px; text-align: center;"><a href="/default.asp?pageID=privacy">PRIVACY</a><span class="spacer3"></span><a href="/default.asp?pageID=terms">TERMS OF USE</a><span class="spacer3"></span><a href="/default.asp?pageID=contact_main">CONTACT</a></div>
-<div id="copyright" style="position:absolute; width:210px; height:3px; z-index:3; left: 0px; top: 44px; text-align: center;"><img src="/images/global/copyright.gif"> 2006 WildTangent, Inc. All Rights Reserved</div>
-</div>
-<div id="web_driver_dl" style="position:absolute; width:210px; height:44px; z-index:4; left: 730px; top: 33px;"><a href="/default.asp?pageID=webdriver_download" onmouseover="act('wdriver')" onmouseout="inact('wdriver')"><img id="wdriver" src="/images/global/wdriver.gif" width="210" height="45" border="0"></a></div>
-<div style="position:absolute; width:50px; height:110px; z-index:1; top: 0px; left: 172px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="50" height="110"></div>
-<div style="position:absolute; width:504px; height:52px; z-index:1; top: 57px; left: 224px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="504" height="52"></div>
-<div style="position:absolute; width:504px; height:23px; z-index:1; top: -19px; left: 224px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="505" height="22"></div>
-<div style="position:absolute; width:50px; height:110px; z-index:1; top: 0px; left: 731px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="50" height="110"></div>
-<div id="top_main" style="position:absolute; width:729px; height:px; z-index:0; left: 0px; top: 0px;"><img src="images/privacy/top.jpg" width="729" height="210" border="0" usemap="#Map"> </div>
-<div id="counter_box" style="position:absolute; width:222px; height:32px; z-index:1; left: 729px; top: 0px;"><img src="images/home/counter_bg.jpg" width="222" height="32"></div>
-<div id="game_counter" style="position:absolute; width:190px; height:14px; z-index:12; left: 742px; top: 13px;" class="gry"><span id="c0">4</span><span id="c1">2</span><span id="c2">5</span><span>,</span><span id="c3">1</span><span id="c4">7</span><span id="c5">0</span><span>,</span><span id="c6">5</span><span id="c7">7</span><span id="c8">7</span><script language="javascript" src="js/wdCount.js"></script> downloads</div>
-<div id="crumb" style="position:absolute; width:500px; height:17px; z-index:12; left: 23px; top: 182px;"> <a href="default.asp">Home</a> &gt; Privacy  </div>
-<div id="topleftlinkbox" style="position:absolute; width:182px; height:93px; z-index:2; left: 23px; top: 61px; margin: 0;padding: 0; ">
-<table width="182" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="166" height="31" class="bbn" style="padding-left: 10px; text-align: left;"> <br> </td>
-</tr>
-</tbody></table>
-</div>
-<div id="contentheader" style="position:absolute; width:167px; height:17px; z-index:14; left: 245px; top: 212px;"><img src="images/contentheaders/privacy_03.gif"></div>
-<div id="textbox" style="margin-bottom: 200px; top: 232px;" class="textbox_nn">  
-      
-      <center><b>WILDTANGENT<br>PRIVACY POLICY</b></center>
-		<p>This Privacy Policy applies to the following: The websites <a href="http://www.wildgames.com" target="_new">http://www.wildgames.com</a>, <a href="http://forum.wildtangent.com" target="_new">http://forum.wildtangent.com</a>, <a href="http://hp.wildgames.com" target="_new">http://hp.wildgames.com</a> and <a href="http://www.wildtangent.com">http://www.wildtangent.com</a>, the WildGames console product, the WildGame Game Channel product, our games and other content products, and our Web Driver.</p>
+<body>
+	<a name="top"></a>
+	<div id="masterWrapperWrapper">
+		<div id="masterWrapper">
+			<div id="master">
+				
+	<div id="header">
+		<div class="logo">
+			<a href="/"><img src="/static/i/logo.gif" alt="WildTangent" width="202" height="59"></a>
+		</div>
 		
-		<p><b>Our Commitment To Privacy</b></p>
-		<p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, WildGames console, Web Driver, GameChannel and at every point where personally identifiable information may be requested.
-		Please understand that by accessing or using our website(s), WildGames console product, content products, Web Driver (a media player), or GameChannel you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us <a href="http://www.wildtangent.com/default.asp?pageID=contactform_privacy">here</a>.</p>
-		<p><b>The Information We Collect And How It Is Used:</b></p>
+		<div class="nav">
+			<ul><!--
+				--><li class="firstItem"><a href="/advertise">Advertise With Us</a></li><!--
+				--><li><a href="/partner">Partner With Us</a></li><!--
+				--><li><a href="/press">Press</a></li><!--
+				--><li><a href="/about">About Us</a></li><!--
+				--><li class="lastItem"><a href="/contact">Contact Us</a></li><!--
+			--></ul>
+		</div>
+	</div>
 
-		<p><b><i>1) Website(s):</i></b></p>
-		<p>The following applies to all information collected or submitted on WildTangent operated website(s). On some pages, you can order products, make requests, submit resume information, and register to receive materials. The types of personal information collected at these pages may include; name, address, email address, phone number, credit/debit card information, as well as other similar personal information. </p>
-		<p>On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you may need to submit the recipient's email and/or mailing address. In these circumstances, the types of personal information collected may be; name, address, phone number, and/or email address.</p>
-		<p>We do store your personally identifiable information in a secure manner, and also use Secure Sockets Layer encrypted connections to transmit your payment-related personally identifiable information to further protect its privacy. We may also collect unique usage information, which does NOT include personally identifiable information, to assist us in understanding our customers' use patterns and for use in developing new products and services.</p>
+				
+	<div id="banner">
+		<div class="section"><img src="/static/i/headings/legal.gif" alt="Legal"></div>
+		<div class="page"><span>&gt;</span> Privacy Policy</div>
+		<div class="clear">&nbsp;</div>
+	</div>
 
-		<p><b><i>2) WildGames Console Product &amp; GameChannel</i></b></p>
-		<p>The following applies to our WildGames console product &amp; GameChannel, which are game download managers and message services that we make available to our customers. They are designed to enable all users to reliably download and play games. Customers may obtain the WildGames console and GameChannel by choosing to download and install it from our website(s). If you elect the option of installing the WildGames console or GameChannel, your computer will automatically connect to our servers (if you are already connected to the Internet) when you launch the program to receive the latest information about games as they become available from WildTangent along with any WildGames console or GameChannel program updates. 
-		</p><p>To help ensure that the WildGames console and GameChannel operate error free, they will collect and report anonymous information necessary to ensure reliable delivery of downloaded games and game content. This information may include data about whether or not content download and installation was successful, game session length (for trial versions), and WildGames console session length. 
-		</p><p>The WildGames console and GameChannel may each be uninstalled from your computer by using the standard Add or Remove Programs feature in the Windows Control Panel.
-
-		</p><p><b><i>3) Content Products</i></b></p>
-		<p>The following applies to our games and other content products offered to you. Our games and other content products do NOT collect personally identifiable information. 
-		</p><p>To help ensure that you have consistent, high quality experiences, and to assist us with product development and planning, we do collect anonymous usage statistics. We do this by assigning a unique identifier in our databases that is NOT linked to any of your personal information. The information gathered is used to accurately count the number of people using our games and other content successfully and is also NOT linked to any of your personal information. At times we may share this usage information with third parties, but only in an anonymous aggregated form - that is, we collect usage information about the thousands of times our games are played, and analyze it as a whole. 
-		</p><p>Content Products can be uninstalled from your computer at any time by using the standard Add or Remove Programs feature in the Windows Control Panel.
-
-		</p><p><b><i>4) Web Driver (a media player)</i></b></p>
-		<p>The following applies to the WildTangent Web Driver, which is a media player that, in conjunction with your computer's media capabilities, enables you to play online games and other interactive content published by WildTangent or other third parties. 
-		</p><p>The Web Driver does NOT collect personally identifiable information.
-		</p><p>Our primary objective is to provide you with the best entertainment experience possible. The Web Driver makes use of your computer's most advanced hardware accelerated media capabilities, and as such its performance is vulnerable to changes in your computer's configuration such as operating system patches, video driver changes, or browser updates. 
-		</p><p>The Web Driver can be uninstalled from your computer at any time by using the standard Add or Remove Programs feature in the Windows Control Panel (please note that if the Web Driver is removed, your ability to access or use our game and other content, or third party content built for the Web Driver, will be impaired until you install the Web Driver). 
-		</p><p><i>Third Party Content Published Using The Web Driver</i>
-		</p><p>Third parties may develop games and other content using the WildTangent Web Driver. Third party content may also include links to other websites. Third party use of the Web Driver and content links to their websites are beyond our control. We are not responsible for their privacy practices or content, and we recommend that you review such third parties' privacy policies in order to understand their privacy and information collection practices.
-
-
-		</p><p><b><i>With Whom Do We Share Personal Information?</i></b></p>
-		<p>We will not share your personally identifiable information with third parties without your consent (subject to the limited exceptions identified below) and at the time you are asked for this information or for consent, we will inform you of:
-
-		</p><ul>
-			<li>The personally identifiable information to be shared </li>
-			<li>The identity of the third party </li>
-			<li>A link to the third party's privacy statement, if available </li>
-		</ul>
-			
-		<p>Please understand that we may also share your information with third parties under the following limited circumstances: </p>
+				<div id="page">
+					<div id="pageHeader">
+						<div class="abstract">
+								<div class="header_title"><strong>WildTangent Privacy Policy<br></strong>The Privacy Policy below applies to the following: <a target="_new" href="http://www.wildgames.com">http://www.wildgames.com</a>, <a target="_new" href="http://forum.wildtangent.com/">http://forum.wildtangent.com</a>, <a target="_new" href="http://hp.wildgames.com/">http://hp.wildgames.com</a>, <a target="_new" href="http://gateway.wildgames.com/">http://gateway.wildgames.com</a>, <a target="_new" href="http://toshiba.wildgames.com/">http://toshiba.wildgames.com</a>, <a target="_new" href="http://amd.wildgames.com/">http://amd.wildgames.com</a> and <a target="_blank" href="http://www.wildtangent.com/">http://www.wildtangent.com</a>, the WildGames console product, the WildGame Game Channel product, our games and other content products, and our Web Driver.<br><br><strong>To view the privacy policies for our OEM partners select the&nbsp;appropriate privacy policy below:<br></strong><a href="/legal/dellprivacy">Dell Games<br></a><a href="/legal/hpprivacy">HP/Compaq<br></a><a href="/legal/toshibaprivacy">Toshiba<br></a><a href="/legal/gatewayprivacy">eMachines/Gateway<br></a><none></none></div>
+						</div>
+						
+	<div class="subnav">
 		<ul>
-			<li>If we use third party contractors to provide services to us or on our behalf. We do require such contractors to maintain personally identifiable information as confidential, and to only use it on our behalf. 
-			</li><li>If we, in good faith, are required to disclose it to comply with legal processes, or we need to do so to protect your, our or the public's rights or property interests. 
-			</li><li>If our company is involved in a sale, merger, or any other combination with a third party. In such circumstances, the surviving entity will be responsible for this Privacy Policy and the personally identifiable information collected from you. 
-		</li></ul>
-		
-		<p><b>Does WildTangent Use Passive Means To Collect Information?</b></p>
-		<p>To permit your efficient use of our websites, products and services, we use cookies (small files stored in your computer), which let us know how you accessed us and let us know that you are a prior customer (so that you will not have to re-enter all of the information previously provided to us every time you access our sites). Please note that cookies are not used to access your payment information. This information can only be accessed when you enter your name and password.
-		</p><p>We (or third parties on our behalf) may also use web beacons, which are transparent images that have been placed on a web page or an e-mail message, and send a signal that allows us to determine when a page has been visited, or an e-mail opened. Web beacons do not contain or collect personally identifiable information. The information that we do collect is used to allow us to better understand our customers' usage patterns, and to help us determine how they accessed our website(s). This information, in turn, allows us to improve our products to better meet your needs, and to enhance our communications with you.
+					<li class="firstItem">&gt; <a href="/legal/privacy">Privacy Policy</a></li>
+					<li>&gt; <a href="/legal/terms-of-use">Terms of Use</a></li>
+					<li>&gt; <a href="/legal/wildcoins">WildCoins Use Agreement</a></li>
+					<li>&gt; <a href="/legal/abstract">Safe Shopping Guarantee</a></li>
+					<li>&gt; <a href="/legal/eula">End User License Agreement</a></li>
+		</ul>							
+	</div>
+	<div class="clear">&nbsp;</div>
 
-		</p><p><b>Do You Provide Ongoing Product Updates Or Other Information?</b></p>
-		<p>Periodically, we may send e-mails to users of our products and services who have indicated an interest in receiving news, updates, special offers and other information relating to our products and services, and to select third party products and services. You may elect to unsubscribe to these communications by accessing your account information through the <a href="https://www.wildgames.com/ECS/htdocs/MyAccount_SignIn.aspx?dp=wildgames" target="_new">My Account</a> section of the WildGames website, or by clicking on the link provided at the bottom of our e-mails to you.
-		
-		</p><p><b>What Happens If I Decline To Provide Personal Information Or Remove Or Reject Passive Information Gathering?</b></p>
-		<p>If you choose not to submit personal information, or if you choose to configure your browser to remove or reject cookies or other passive data collection, you will not be able to fully utilize our products, services and website features (for example, you will not be able to store items in your shopping cart or complete a game purchase).
+					</div>
+					<div id="body">
+						<div class="clear">&nbsp;</div>
+						<div class="contentBlock">
+							<div class="wideColumn">
+										<h1>OUR COMMITMENT TO PRIVACY<strong><br></strong></h1>
+<p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, WildGames console, Web Driver, GameChannel and at every point where personally identifiable information may be requested. Please understand that by accessing or using our website(s), WildGames console product, content products, Web Driver (a media player), or GameChannel you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us <a href="/contact/privacyquestions">here</a>.</p>
+<h1>THE INFORMATION WE COLLECT AND HOW IT IS USED<strong><br></strong></h1>
+<p><strong><em>1) Website(s):</em></strong></p>
+<p>The following applies to all information collected or submitted on WildTangent operated website(s). On some pages, you can order products, make requests, submit resume information, and register to receive materials. The types of personal information collected at these pages may include; name, address, email address, phone number, credit/debit card information, as well as other similar personal information. </p>
+<p>On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you may need to submit the recipient's email and/or mailing address. In these circumstances, the types of personal information collected may be; name, address, phone number, and/or email address.</p>
+<p>We do store your personally identifiable information in a secure manner, and also use Secure Sockets Layer encrypted connections to transmit your payment-related personally identifiable information to further protect its privacy. We may also collect unique usage information, which does NOT include personally identifiable information, to assist us in understanding our customers' use patterns and for use in developing new products and services.</p>
+<p><strong><em>2) WildGames Console Product&amp;GameChannel</em></strong></p>
+<p>The following applies to our WildGames console product&amp;GameChannel, which are game download managers and message services that we make available to our customers. They are designed to enable all users to reliably download and play games. Customers may obtain the WildGames console and GameChannel by choosing to download and install it from our website(s). If you elect the option of installing the WildGames console or GameChannel, your computer will automatically connect to our servers (if you are already connected to the Internet) when you launch the program to receive the latest information about games as they become available from WildTangent along with any WildGames console or GameChannel program updates. </p>
+<p>To help ensure that the WildGames console and GameChannel operate error free, they will collect and report anonymous information necessary to ensure reliable delivery of downloaded games and game content. This information may include data about whether or not content download and installation was successful, game session length (for trial versions), and WildGames console session length. </p>
+<p>The WildGames console and GameChannel may each be uninstalled from your computer by using the standard Add or Remove Programs feature in the Windows Control Panel. </p>
+<p><strong><em>3) Content Products</em></strong></p>
+<p>The following applies to our games and other content products offered to you. Our games and other content products do NOT collect personally identifiable information. </p>
+<p>To help ensure that you have consistent, high quality experiences, and to assist us with product development and planning, we do collect anonymous usage statistics. We do this by assigning a unique identifier in our databases that is NOT linked to any of your personal information. The information gathered is used to accurately count the number of people using our games and other content successfully and is also NOT linked to any of your personal information. At times we may share this usage information with third parties, but only in an anonymous aggregated form - that is, we collect usage information about the thousands of times our games are played, and analyze it as a whole. </p>
+<p>Content Products can be uninstalled from your computer at any time by using the standard Add or Remove Programs feature in the Windows Control Panel. </p>
+<p><strong><em>4) Web Driver (a media player)</em></strong></p>
+<p>The following applies to the WildTangent Web Driver, which is a media player that, in conjunction with your computer's media capabilities, enables you to play online games and other interactive content published by WildTangent or other third parties. </p>
+<p>The Web Driver does NOT collect personally identifiable information. </p>
+<p>Our primary objective is to provide you with the best entertainment experience possible. The Web Driver makes use of your computer's most advanced hardware accelerated media capabilities, and as such its performance is vulnerable to changes in your computer's configuration such as operating system patches, video driver changes, or browser updates. </p>
+<p>The Web Driver can be uninstalled from your computer at any time by using the standard Add or Remove Programs feature in the Windows Control Panel (please note that if the Web Driver is removed, your ability to access or use our game and other content, or third party content built for the Web Driver, will be impaired until you install the Web Driver). </p>
+<p><em>Third Party Content Published Using The Web Driver</em> </p>
+<p>Third parties may develop games and other content using the WildTangent Web Driver. Third party content may also include links to other websites. Third party use of the Web Driver and content links to their websites are beyond our control. We are not responsible for their privacy practices or content, and we recommend that you review such third parties' privacy policies in order to understand their privacy and information collection practices. </p>
+<p><strong><em>With Whom Do We Share Personal Information?</em></strong></p>
+<p>We will not share your personally identifiable information with third parties without your consent (subject to the limited exceptions identified below) and at the time you are asked for this information or for consent, we will inform you of: </p>
+<ul>
 
-		</p><p><b>Our Commitment To Data Security </b></p>
-		<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+<li>The personally identifiable information to be shared 
+</li><li>The identity of the third party 
+</li><li>A link to the third party's privacy statement, if available </li>
+</ul>
+<p>Please understand that we may also share your information with third parties under the following limited circumstances: </p>
+<ul>
 
-		</p><p><b>Our Commitment To Children's Privacy: </b></p>
-		<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13. We ask users, before providing personally identifiable information, to confirm their age. Anyone who identifies themselves as being under age 13 will be restricted from accessing or using any of our products or services that require them to enter additional personally identifiable information, and they will not be permitted to purchase any of our products or services. They may access portions of our websites without additional personally identifiable information being collected.
+<li>If we use third party contractors to provide services to us or on our behalf. We do require such contractors to maintain personally identifiable information as confidential, and to only use it on our behalf. 
+</li><li>If we, in good faith, are required to disclose it to comply with legal processes, or we need to do so to protect your, our or the public's rights or property interests. 
+</li><li>If our company is involved in a sale, merger, or any other combination with a third party. In such circumstances, the surviving entity will be responsible for this Privacy Policy and the personally identifiable information collected from you. </li>
+</ul>
+<p><strong>Does WildTangent Use Passive Means To Collect Information?</strong></p>
+<p>To permit your efficient use of our websites, products and services, we use cookies (small files stored in your computer), which let us know how you accessed us and let us know that you are a prior customer (so that you will not have to re-enter all of the information previously provided to us every time you access our sites). Please note that cookies are not used to access your payment information. This information can only be accessed when you enter your name and password. </p>
+<p>We (or third parties on our behalf) may also use web beacons, which are transparent images that have been placed on a web page or an e-mail message, and send a signal that allows us to determine when a page has been visited, or an e-mail opened. Web beacons do not contain or collect personally identifiable information. The information that we do collect is used to allow us to better understand our customers' usage patterns, and to help us determine how they accessed our website(s). This information, in turn, allows us to improve our products to better meet your needs, and to enhance our communications with you. </p>
+<p><strong>Do You Provide Ongoing Product Updates Or Other Information?</strong></p>
+<p>Periodically, we may send e-mails to users of our products and services who have indicated an interest in receiving news, updates, special offers and other information relating to our products and services, and to select third party products and services. You may elect to unsubscribe to these communications by accessing your account information through the <a target="_new" href="https://www.wildgames.com/ECS/htdocs/MyAccount_SignIn.aspx?dp=wildgames">My Account</a> section of the WildGames website, or by clicking on the link provided at the bottom of our e-mails to you. </p>
+<p><strong>What Happens If I Decline To Provide Personal Information Or Remove Or Reject Passive Information Gathering?</strong></p>
+<p>If you choose not to submit personal information, or if you choose to configure your browser to remove or reject cookies or other passive data collection, you will not be able to fully utilize our products, services and website features (for example, you will not be able to store items in your shopping cart or complete a game purchase). </p>
+<p><strong>Our Commitment To Data Security </strong></p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </p>
+<p><strong>Our Commitment To Children's Privacy: </strong></p>
+<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13. We ask users, before providing personally identifiable information, to confirm their age. Anyone who identifies themselves as being under age 13 will be restricted from accessing or using any of our products or services that require them to enter additional personally identifiable information, and they will not be permitted to purchase any of our products or services. They may access portions of our websites without additional personally identifiable information being collected. </p>
+<p><strong>How You Can Access Or Correct Your Information </strong></p>
+<p>If you wish to review, update or delete any personal information that we have collected about you, please contact us <a target="_blank" href="http://www.wildtangent.com/privacy_questions/">here</a>, or by regular mail at: WildTangent, c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. </p>
+<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. </p>
+<p><strong>How Do I Learn About Changes To This Privacy Policy?</strong></p>
+<p>We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of our website, WildGames console, GameChannel, content products, or Web Driver will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on <a target="_blank" href="http://www.wildtangent.com/privacy">http://www.wildtangent.com/privacy</a>.</p>
+<p><strong>Choice: </strong></p>
+<p>WildTangent will offer an individual the opportunity to choose (opt out) whether personal data will be shared with any third party not identified as an agent, or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, WildTangent will give an individual an affirmative or explicit (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by the individual. </p>
+<p><strong>How To Contact Us </strong></p>
+<p>While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by using this <a target="_blank" href="http://www.wildtangent.com/privacy_questions/">submission form</a> or through regular mail to: WildTangent c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. Additional information about WildTangent is also available at <a target="_blank" href="http://www.wildtangent.com/">www.wildtangent.com.</a> </p>
+<p><strong>Dispute Resolution</strong></p>
+<p>Should a customer ever have a privacy complaint, WildTangent has agreed to participate in the Better Business Bureau's Privacy Dispute Resolution system. More information about this program may be obtained at <a target="_new" href="http://www.bbbonline.org/">http://www.bbbonline.org</a>. </p>
+<p>Privacy Statement Effective Date: October 4, 2005 </p>
+							</div>
+							
 
-		</p><p><b>How You Can Access Or Correct Your Information </b></p>
-		<p>If you wish to review, update or delete any personal information that we have collected about you, please contact us <a href="http://www.wildtangent.com/privacy_questions/">here</a>, or by regular mail at: WildTangent, c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-		</p><p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+							<div class="clear">&nbsp;</div>
+						</div>
+							<div class="top"><a href="#top"><img src="/static/i/back-to-top.gif" alt="Back to Top" width="114" height="36"></a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="masterFooter">
+				
+		<div class="legal">
+			© 2009 WildTangent, Inc. All Rights Reserved.
+		</div>
+		<div class="nav">
+			<ul><!--
+				--><li class="firstItem"><a href="/advertise">Advertise With Us</a>|</li><!--
+				--><li><a href="/partner">Partner With Us</a>|</li><!--
+				--><li><a href="/press">Press</a>|</li><!--
+				--><li><a href="/about">About Us</a>|</li><!--
+				--><li><a href="/contact">Contact Us</a>|</li><!--
+				--><li><a href="/legal/privacy">Privacy Policy</a>|</li><!--
+				--><li><a href="/legal/terms-of-use">Terms of Use</a></li><!--
+			--></ul>
+		</div>
+	</div>		
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	_uacct = "UA-526302-3";
+	urchinTracker();
+	</script>
 
-		</p><p><b>How Do I Learn About Changes To This Privacy Policy?</b></p>
-		<p>We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of our website, WildGames console, GameChannel, content products, or Web Driver will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on <a href="http://www.wildtangent.com/privacy">http://www.wildtangent.com/privacy</a>
-
-		</p><p><b>Choice: </b></p>
-		<p>WildTangent will offer an individual the opportunity to choose (opt out) whether personal data will be shared with any third party not identified as an agent, or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, WildTangent will give an individual an affirmative or explicit (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by the individual.
-
-		</p><p><b>How To Contact Us </b></p>
-		<p>While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by using this <a href="http://www.wildtangent.com/privacy_questions/">submission form</a> or through regular mail to: WildTangent c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. Additional information about WildTangent is also available at <a href="http://www.wildtangent.com">www.wildtangent.com.</a>
-
-		</p><p><b>Dispute Resolution</b></p>
-		<p>Should a customer ever have a privacy complaint, WildTangent has agreed to participate in the Better Business Bureau's Privacy Dispute Resolution system. More information about this program may be obtained at <a href="http://www.bbbonline.org" target="_new">http://www.bbbonline.org</a>.
-		</p><p>Privacy Statement Effective Date: October 4, 2005
 
 
-      
-		
-         <br></p></div><script>
-
-if (navigator.appName.indexOf('Netscape') > -1){
-document.getElementById('textbox').className = 'textbox_nn';
-}
-else{
-document.getElementById('textbox').className = 'textbox_ie';
-}
-
-</script><map name="Map"><area shape="rect" coords="14,7,223,60" href="default.asp"></map><script>
-
-var yPage
-var test1 = document.body.scrollHeight;
-var test2 = document.body.offsetHeight
-if (test1 > test2) // all but Explorer Mac
-{
-	yPage = document.body.scrollHeight;
-}
-else // Explorer Mac;
-     //would also work in Explorer 6 Strict, Mozilla and Safari
-{
-	yPage = document.body.offsetHeight;
-}
-
-document.getElementById("boxnav").style.top = yPage - 77;
-</script>
 </body></html>
