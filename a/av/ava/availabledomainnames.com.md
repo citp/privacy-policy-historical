@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217173904id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availabledomainnames.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185237id_/http%3A//availabledomainnames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Available Domain Names
+
+Browse >
+
+[Home](http://availabledomainnames.com/ "Browse to: Home") / Privacy Policy 
 
 This site is owned and operated by AvailableDomainNames.com. Your privacy on the Internet is of the utmost importance to us. At AvailableDomainNames.com, we want to make your experience online satisfying and safe.
 
@@ -68,5 +72,3 @@ AvailableDomainNames.com operates secure data networks protected by industry sta
 YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by AvailableDomainNames.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. If you do not agree with our policies, please do not use this website.
-
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
