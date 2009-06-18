@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftmovies.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033849id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftmovies.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114102id_/http%3A//www.warcraftmovies.com/pp.php) for the most accurate reproduction.*
 
 # WarcraftMovies.com - World of Warcraft Movies
 
