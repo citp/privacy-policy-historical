@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219042307id_/http%3A//museumvictoria.com.au/Footer-Links/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185824id_/http%3A//museumvictoria.com.au/Footer-Links/Privacy) for the most accurate reproduction.*
 
 # Museum Victoria: Privacy
 
@@ -61,7 +61,7 @@ Privacy Officer
 Museum Victoria  
 GPO Box 666  
 Melbourne VIC 3001  
-email the [Privacy Officer](mailto:http://museumvictoria.com.au/Staff-Mailer/?SM=Privacy+Officer&AI=privacy@museum.vic.gov.au).  
+email the [Privacy Officer](mailto://http:25//museumvictoria.com.au/staff-mailer/?SM=Privacy+Officer&AI=privacy@museum.vic.gov.au).  
 The Freedom of Information request process may be required, in order for Museum Victoria to recover the costs of servicing the enquiry. To find out more about this process please refer to [Freedom of Information Online](http://www.foi.vic.gov.au/), Victoria.
 
 ### 1.1.5 Internet Security
@@ -80,7 +80,7 @@ Museum Victoria websites may, from time to time, contain links to the websites o
 
 ### 1.1.8 Web Measurement Service used by Museum Victoria
 
-Pages on the site are coded with Google Analytics software. This software stores a cookie in your browser, which contains a unique identifier, and sends information to Google Analytics. In common with many websites we may also collect information which tells us about visitors to the Museum Victoria website. For example, we may collect information about the date, time and duration of visits, and which pages of the Museum Victoria website are most commonly accessed. We do not and will not marry any data collected by Google Analytics with any personal information.  Please refer to [Google's Privacy Policy](http://www.google.com/intl/en_ALL/privacy.html) for more information.
+Pages on the site are coded with Google Analytics software. This software stores a cookie in your browser, which contains a unique identifier, and sends information to Google Analytics. In common with many websites we may also collect information which tells us about visitors to the Museum Victoria website. For example, we may collect information about the date, time and duration of visits, and which pages of the Museum Victoria website are most commonly accessed. We do not and will not marry any data collected by Google Analytics with any personal information.  Please refer to [Google's Privacy Policy](http://www.google.com/intl/en_all/privacy.html) for more information.
 
 ### 1.1.9 Cookies
 
