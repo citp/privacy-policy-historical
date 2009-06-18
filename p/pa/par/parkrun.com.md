@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218040035id_/http%3A//www.parkrun.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150651id_/http%3A//www.parkrun.com/home.aspx%3Fctl%3DPrivacy) for the most accurate reproduction.*
 
 # parkrun Home
 
@@ -44,4 +44,4 @@ parkrun Website will occasionally update this Statement of Privacy to reflect co
 
 Contact Information
 
-parkrun Website welcomes your comments regarding this Statement of Privacy. If you believe that parkrun Website has not adhered to this Statement, please contact parkrun Website at [admin@parkrun.com](mailto:admin@parkrun.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+parkrun Website welcomes your comments regarding this Statement of Privacy. If you believe that parkrun Website has not adhered to this Statement, please contact parkrun Website at [chris@parkrun.com](mailto:chris@parkrun.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
