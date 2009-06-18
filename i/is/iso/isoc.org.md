@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021231id_/http%3A//isoc.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192103id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
 
 # ISOC Search/Site Map/Help: Privacy Statement
 
@@ -6,21 +6,7 @@
 
 Effective date: 7th February 2006
 
-This is the web site of The Internet Society.
-
-Our postal address is:
-
-> 1775 Wiehle Ave., Suite 102  
->  Reston, Virginia 20190  
->  USA 
-
-or 
-
-> 4, rue des Falaises  
->  CH-1205 Geneva  
->  Switzerland 
-
-We can be reached via e-mail at [info@isoc.org](mailto:info@isoc.org); you can reach us by telephone at +703 326 9880 (Reston, Virginia USA) or +41 22 807 1444 (Geneva, Switzerland).
+[To contact the Internet Society... ](https://web.archive.org/isoc/contact.shtml)
 
 ### The Internet Society's Commitment to Privacy
 
@@ -28,13 +14,13 @@ In keeping with the goals and objectives of the organisation, the Internet Socie
 
 ### What Information do we collect?
 
-As is standard practice for most web sites, certain visitor characteristics are reflected in our web server logs (such as, operating system, browser version, and Internet Protocol (IP) address). We make no attempt to link them with the individual visitors to the site. 
+As is standard practice for most web sites, certain visitor characteristics are reflected in our web server logs (such as, operating system, browser version, and Internet Protocol (IP) address). We make no attempt to link them with the individual visitors to the site.
 
-In the case of online balloting for Internet Society elections, Members are asked to supply numbers corresponding to those on their printed ballots to ensure that only a single vote is registered. The details of the actual votes are maintained only during the election process solely to allow proper verification and audit of the election. 
+In the case of online balloting for Internet Society elections, Members are asked to supply numbers corresponding to those on their printed ballots to ensure that only a single vote is registered. The details of the actual votes are maintained only during the election process solely to allow proper verification and audit of the election.
 
-On its web site, the Internet Society gives visitors the option of providing certain personally identifiable information for purposes such as joining the organisation, renewing membership, participating in discussion groups, submitting inquiries and comments, or registering for conferences. This information includes name, postal address, email address, and other pertinent data. 
+On its web site, the Internet Society gives visitors the option of providing certain personally identifiable information for purposes such as joining the organisation, renewing membership, participating in discussion groups, submitting inquiries and comments, or registering for conferences. This information includes name, postal address, email address, and other pertinent data.
 
-By voluntarily providing us with your Personal Data, you are consenting to our use of it in accordance with this Privacy Statement. Due to the nature of the Internet if you are visiting this site from a country other than the United States, your communications will inevitably result in the transfer of information across international boundaries. By visiting this web site you consent to these transfers. If you provide personal data to this site, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of the Internet Society and its affiliates, agents, and service providers located in the United States and in other countries. 
+By voluntarily providing us with your Personal Data, you are consenting to our use of it in accordance with this Privacy Statement. Due to the nature of the Internet if you are visiting this site from a country other than the United States, your communications will inevitably result in the transfer of information across international boundaries. By visiting this web site you consent to these transfers. If you provide personal data to this site, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of the Internet Society and its affiliates, agents, and service providers located in the United States and in other countries.
 
 ### What we do with the Information
 
@@ -74,7 +60,7 @@ Please note that this privacy statement does not apply to any posting by you in 
 
 If you have any questions regarding our privacy policy or you feel that this site is not following its stated information policy, please contact the Internet Society Executive Director, by email to [execdir@isoc.org](mailto:execdir@isoc.org), or at either of the addresses or phone numbers shown above. You may also contact us at that address if you have any concerns about the accuracy of, or wish to correct, personally identifiable information we have collected from you. 
 
-The Internet Society certifies that it adheres to the [Safe Harbor framework and principles](http://www.export.gov/safeharbor/index.html), as approved by the European Union (EU). 
+The Internet Society certifies that it adheres to the [Safe Harbor framework and principles](http://www.export.gov/safeharbor/), as approved by the European Union (EU). 
 
 ### Consent and Changes to this Policy
 
