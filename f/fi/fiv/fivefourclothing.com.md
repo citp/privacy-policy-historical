@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514025210id_/http%3A//www.fivefourclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183048id_/http%3A//www.fivefourclothing.com/privacy) for the most accurate reproduction.*
 
-# FIVE FOUR ~ PRIVACY POLICY
+# FIVE FOUR ~ Privacy Policy
 
 ### Introduction
 
-Clique ("Clique"), a business unit of Sparkart LLC, cares deeply about your privacy and the protection of your personal information, which is why we have devised this Privacy Policy. This policy statement describes how Clique helps protect your personal information. By using the Clique Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Use shall have the same definitions in this Privacy Policy.
+Clique (“Clique”), a business unit of Sparkart Group, Inc., cares deeply about your privacy and the protection of your personal information, which is why we have devised this Privacy Policy. This policy statement describes how Clique helps protect your personal information. By using the Clique Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Use shall have the same definitions in this Privacy Policy.
 
 ### Collection of Personal Information
 
-When you register for the Clique Services, you will be asked to provide certain personal information that will be stored as part of your registration data The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Clique may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Clique Services. We may also collect data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns. Further, when you register for the Clique Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Clique when there are account issues, such as needing to reset your password. You may also be requested to answer various questions about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key.
+When you register for the Clique Services, you will be asked to provide certain personal information that will be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Clique may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Clique Services. We may also collect data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns. Further, when you register for the Clique Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Clique when there are account issues, such as needing to reset your password. You may also be requested to answer various questions about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key.
 
 ### Use of Your Personal Information
 
@@ -51,7 +51,7 @@ You can always add, update, or make other changes to the registration informatio
 
 ### Sharing Your Personal Information
 
-If you choose, you may opt-in to various features which may be available as part of the Clique Services which allow the voluntary sharing of information between you and a group of Clique users designated by you; for example, a "buddy list" or "friends" who also have a Clique ID.
+If you choose, you may opt-in to various features which may be available as part of the Clique Services which allow the voluntary sharing of information between you and a group of Clique users designated by you; for example, a “buddy list” or “friends” who also have a Clique ID.
 
 ### Security and Storage of Your Personal Information
 
@@ -63,15 +63,15 @@ Personal information collected by Clique may be stored and processed in the Unit
 
 ### Operational Information
 
-Some "operational" information is used by Clique in order to operate your account properly and provide the Clique Services. This operational information does not include the personal information that you provide as part of your Clique registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide Clique Services.
+Some “operational” information is used by Clique in order to operate your account properly and provide the Clique Services. This operational information does not include the personal information that you provide as part of your Clique registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide Clique Services.
 
 ### Aggregate Information
 
-We may collect and analyze information about your use of the Clique Services as aggregated with the use of the Clique Services by other users ("Aggregate Information"); for example, overall usage patterns of Clique users, the total number of Clique users, the percentage of Clique users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Clique users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Clique Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information which can be used to individually identify you or any other Clique user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
+We may collect and analyze information about your use of the Clique Services as aggregated with the use of the Clique Services by other users (“Aggregate Information”); for example, overall usage patterns of Clique users, the total number of Clique users, the percentage of Clique users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Clique users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Clique Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information which can be used to individually identify you or any other Clique user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
 
 ### Use of Cookies
 
-A cookie is a very small text file that a Web site saves to your computeris hard disk to store information that you provide about yourself or to store your preferences. The Clique Services may use cookies when you sign in to or access a Clique Web site. The Clique Services store your unique identifier, the time you signed in, and Clique registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
+A cookie is a very small text file that a Web site saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. The Clique Services may use cookies when you sign in to or access a Clique Web site. The Clique Services store your unique identifier, the time you signed in, and Clique registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
 
 The Clique Services may also use cookies to improve the sign in experience. For example, the Clique Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.
 
@@ -79,10 +79,10 @@ You may have the ability to accept or decline cookies using the settings on your
 
 ### Change to This Privacy Policy
 
-Clique may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. Clique will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
+Clique may occasionally update this Privacy Policy. When we do, Clique will endeavor to provide notice to users in the following ways: (1) Clique will update the “last updated” date at the bottom of the Privacy Policy; (2) Clique will post notice of the change as a news post on the Clique Site; and (3) Clique may email notice of the change to all Registered Users. Clique will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
 
 ### Contact Us
 
 If you have questions regarding this Privacy Policy, please contact [Clique Customer Service](mailto:customersupport@cliqueinc.com).
 
-**Last Updated: July 2, 2007**
+**Last Updated: December 4, 2007**
