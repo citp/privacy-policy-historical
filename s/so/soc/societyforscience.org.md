@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218142739id_/http%3A//www.societyforscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091903id_/http%3A//www.societyforscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
   |  |  |  |  |  |    
 |  |  | 
 
-The top three winners of the 2007 Discovery Channel Young Scientist Challenge, a partnership of Discovery Communications and Society for Science & the Public (from left): Katherine Strube (2nd place), Erik Gustafson (1st place), and Ambrose Soehn (3rd place). 
+U.S. Senator Barack Obama listens in 2006 as Sukrit Ranjan, of Northbrook, IL, explains his project concerning The Influence of Topography on Martian Polar Clouds, his Intel STS 2006 project in earth and planetary science. The Intel STS is the nation’s premier pre-college science contest and is a program of Society for Science & the Public. 
 
 |  |  |   
   |  |  |   |  |  |    
