@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218054734id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplanets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182546id_/http%3A//www.pcplanets.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy on PcPlanets.com
 
 This is the web site of **PcPlanets.com**.
-
-Our postal address is   
-**150 Oak Lane  
-State Road, NC 28676**
-
-We can be reached via e-mail at [info@pcplanets.com](mailto:info@pcplanets.com)  
-or you can reach us by telephone at 612-501-2548
 
 This Policy is effective on August 1, 2005
 
