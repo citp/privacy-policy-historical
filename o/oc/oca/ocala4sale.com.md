@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092758id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocala4sale.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618125536id_/http%3A//blog.usa4sale.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : USA4SALE Networks Classified Blog
+# Privacy Policy
 
 At USA4SALE Networks, we take your privacy very seriously. This policy states what happens to your personal information when you use our Web sites. This policy does not apply to the companies and websites that we advertise or endorse. Please visit their Web sites for their policy regarding how they handle personal information. 
 
