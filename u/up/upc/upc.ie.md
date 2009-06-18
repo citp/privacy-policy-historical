@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217231351id_/http%3A//www.upc.ie/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143135id_/http%3A//www.upc.ie/privacypolicy) for the most accurate reproduction.*
 
 # UPC Ireland - Footer - Chorus ntl: Privacy Policy
 
