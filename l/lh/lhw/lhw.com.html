@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the lhw.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217060805id_/http%3A//www.lhw.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lhw.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618114418id_/http%3A//www.lhw.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
   	<title id="CCDefault__ctl0_ltrlTitle">The Leading Hotels of the World</title>
 	<meta name="Keywords" content="four seasons,luxury vacations,luxury hotel,small luxury hotels,hotel reservations,leading small hotels of the world,small luxury hotel,ritz carlton,leading hotel of the world,leading hotels,leading small hotels,hotel resort,resort hotels,london hotels,online hotel reservations,luxury hotels,hotels,mandarin oriental,luxury travel,hotel,leading hotels of the world,resort hotel,leading hotel,luxury hotels of the world,5 star hotels">
 <meta name="Description" content="Luxury Hotels at The Leading Hotels of the World, Ltd. Your source for small luxury hotels, luxury vacations and travels, resort hotels, and luxury vacations">
@@ -34,87 +35,20 @@
     <script src="http://www.lhw.com/Scripts/ImageGallery.js" type="text/javascript"></script>
    	<script src="http://www.lhw.com/Scripts/scrollMap.js" type="text/javascript"></script>
 	<script language="javascript" src="http://www.lhw.com/scripts/waiting.js" type="text/javascript"></script>
-	
-
+	<script language="javascript" src="http://www.lhw.com/scripts/lhwcommon.aspx?.js" type="text/javascript"></script>
+	<script language="javascript" src="http://www.lhw.com/scripts/LHWMap.aspx?.js" type="text/javascript"></script>
    
-	<script language="Javascript" type="text/javascript">
 	
-		var positionFooter = function() {
-			   var footer = $('footer');
-			   var content = $('content');
-			   var innerDivs = content.getElementsBySelector('div');
-			   
-			   var max = 0;
-			   var lastHidden = null;
-			   
-			   innerDivs.each(function(o) {
-				  if (o.visible() && o.getStyle('display') != 'none') {
-				    var overflow = o.getStyle('overflow');
-				    if (overflow == 'hidden') {
-						lastHidden = o;
-				    } else {
-						if (lastHidden != null && o.descendantOf(lastHidden)) {
-							// Skip this div, since it's inside of an overflow: hidden one
-							return;
-						}
-				    }
-					var height = Try.these(
-					  function() { return parseInt(document.defaultView.getComputedStyle(o, null).getPropertyValue('height', null)) },
-					  function() { return o.getHeight() }
-					);
-				    var thisMax = Position.cumulativeOffset(o)[1] + height;
-				    if (thisMax > max) {
-					  max = thisMax;
-				    }
-				  }
-			   });
-               max=max+30;
-               footer.setStyle({'top': max + 'px'});
-               footer.show();
-		};
-		
-		function Anthem_PostCallBack(o) {
-			positionFooter();
-		}
 	
-        Event.observe(window, 'load', positionFooter);
-      </script>
-		<!-- Additional Javascript functions -->
-		
-		
-	<script language="javascript" type="text/javascript">
 
-		function Anthem_Error(result) 
-		{
-			window.location = "http://www.lhw.com/error.aspx?anthem=" + result.error;
-		}
-
-		
-		function rollOverContinent(continent,imgMapOver)
-		{
-			//alert('rollOverContinent.El continent es: '+continent);
-		// alert('rollOverContinent.El div es: '+imgMapOver);
-			var obj = document.getElementById(imgMapOver);
-			obj.src = 'images/world' + continent + '.gif';
-			
-		}
-		
-		function roolOutContinent(currentobjImgMap,currentobjImgMapOver,currentContinent)
-		{
-			var obj = document.getElementById(currentobjImgMap);
-			obj.src = currentContinent;
-			var obj = document.getElementById(currentobjImgMapOver);
-			obj.src = 'images/blank.gif';
-		}
-		
-	</script>
-			
-		<!-- DoubleClick-->
+	
 	<script language="Javascript" type="text/javascript">
 	var axel = Math.random() + "";
 	var ord = axel * 1000000000000000000;
 	</script>
 	
+	
+	<link rel="stylesheet" href="http://www.lhw.com/Styles/pages/privacyPolicy.css" type="text/css">
 	
  	
   </head>
@@ -123,7 +57,7 @@
 	<form name="__aspnetForm" method="post" action="privacypolicy.aspx" id="__aspnetForm">
 <input type="hidden" name="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" value="dDwxODc0OTQxMzcxO3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PDtsPGk8NT47PjtsPHQ8O2w8aTwwPjtpPDE+O2k8Mz47aTw0Pjs+O2w8dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+Oz47bDx0PHA8cDxsPEltYWdlVXJsOz47bDxodHRwOi8vd3d3Lmxody5jb20vaW1hZ2VzL0ZsYWdFbmdsaXNoLmdpZjs+Pjs+Ozs+O3Q8cDxwPGw8SW1hZ2VVcmw7PjtsPGh0dHA6Ly93d3cubGh3LmNvbS9pbWFnZXMvRmxhZ0dlcm1hbi5naWY7Pj47Pjs7Pjt0PHA8cDxsPEltYWdlVXJsOz47bDxodHRwOi8vd3d3Lmxody5jb20vaW1hZ2VzL0ZsYWdKYXBhbi5naWY7Pj47cDxsPG9uY2xpY2s7PjtsPHJldHVybiBjb25maXJtKCdUaGFuayB5b3UgZm9yIHlvdXIgaW50ZXJlc3QuIFRoZSBKYXBhbmVzZSBlZGl0aW9uIG9mIHRoZSBMSFcuY29tIHNpdGUgaXMgY3VycmVudGx5ICJpbiBiZXRhIiwgbWVhbmluZyB0aGF0IG1pbm9yIGlzc3VlcyBtYXkgYXJpc2UgZHVyaW5nIHlvdXIgdmlzaXQuIFRvIHJlcG9ydCBhIHByb2JsZW0sIHBsZWFzZSBlbWFpbCB3ZWJkZXZlbG9wbWVudEBsaHcuY29tLiBUbyByZXR1cm4gdG8gdGhlIEVuZ2xpc2ggdmVyc2lvbiBvZiB0aGUgc2l0ZSBhdCBhbnkgdGltZSBzaW1wbHkgY2xpY2sgb24gdGhlIEVuZ2xpc2gvVVMgZmxhZy4nKTs+Pj47Oz47dDw7bDxpPDE+Oz47bDx0PHA8bDx0aXRsZTthbHQ7PjtsPEVudGVyIHlvdXIgZW1haWw7RW50ZXIgeW91ciBlbWFpbDs+Pjs7Pjs+Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8Q3VzdG9tZXIgQ2FyZTs+Pjs7Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TXkgUmVzZXJ2YXRpb25zOz4+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+O2k8Mz47aTw0PjtpPDU+O2k8Nj47PjtsPHQ8cDxsPHN0eWxlOz47bDxkaXNwbGF5OmJsb2NrXDs7Pj47bDxpPDA+O2k8MT47aTwzPjtpPDQ+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExvZ2luOz4+Ozs+O3Q8cDxwPGw8VGV4dDtUb29sVGlwOz47bDxMQyAjIG9yIEVNYWlsO0xDICMgb3IgRU1haWw7Pj47cDxsPG9uZm9jdXM7PjtsPGlmICh0aGlzLnZhbHVlID09ICdMQyAjIG9yIEVNYWlsJykgdGhpcy52YWx1ZSA9ICcnXDs7Pj4+Ozs+O3Q8cDxwPGw8TW9kZTs+O2w8U3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5UZXh0Qm94TW9kZSwgU3lzdGVtLldlYiwgVmVyc2lvbj0xLjAuNTAwMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2E8UGFzc3dvcmQ+Oz4+Oz47Oz47dDxwPHA8bDxJbWFnZVVybDs+O2w8aHR0cDovL3d3dy5saHcuY29tL2ltYWdlcy9uZXdzQXJyb3cucG5nOz4+Oz47Oz47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxGb3Jnb3QgeW91ciBwYXNzd29yZD87Pj47Oz47dDxwPGw8aW5uZXJodG1sOz47bDxDbGljayBoZXJlOz4+Ozs+O3Q8cDxsPHN0eWxlOz47bDxkaXNwbGF5Om5vbmVcOzs+Pjs7Pjt0PHA8bDxzdHlsZTs+O2w8ZGlzcGxheTpub25lXDs7Pj47bDxpPDE+O2k8Mz47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8Mz47PjtsPHQ8cDxwPGw8VGV4dDs+O2w8IE5vdCBZb3U/Oz4+Oz47Oz47Pj47dDxwPHA8bDxUZXh0Oz47bDxMb2dvdXQ7Pj47Pjs7Pjs+Pjt0PHA8cDxsPEFudGhlbVZpc2libGU7PjtsPG88Zj47Pj47PjtsPGk8MD47aTwzPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxXZWxjb21lIGJhY2s7Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDwgTm90IFlvdT87Pj47Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjt0PDtsPGk8NT47aTw2Pjs+O2w8dDw7bDxpPDE+O2k8Mz47aTw1Pjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxTZWxlY3QgcmVnaW9uIG9uIHRoZSBtYXAgYW5kIHRoZW4gcGljayB0aGUgY291bnRyeTs+Pjs7Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TGVhZGluZyBIb3RlbHMgaW46Oz4+Ozs+Oz4+O3Q8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDQ+O2k8NT47aTw2PjtpPDExPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxMZWFkaW5nIE9mZmVyczs+Pjs7Pjt0PDtsPGk8MT47aTwzPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxMZWFkaW5nIE9mZmVyczs+Pjs7Pjt0PHA8bDxfIUl0ZW1Db3VudDs+O2w8aTwzPjs+PjtsPGk8MD47aTwxPjtpPDI+Oz47bDx0PDtsPGk8MD47PjtsPHQ8QDwvc2hvcGJsb29taW5nZGFsZXMuYXNweD9leHQ9QkxPT007Qmxvb21pbmdkYWxlJ3MgU2hvcHBpbmcgT2ZmZXI7QSBzcGVjaWFsIFUuUy4gc2hvcHBpbmcgb2ZmZXIgZXhjbHVzaXZlbHkgZm9yIExlYWRpbmcgZ3Vlc3RzLi4uOz47Oz47Pj47dDw7bDxpPDA+Oz47bDx0PEA8aHR0cDovL3d3dy5saHcuY29tL3NlYXJjaHJlc3VsdHMuYXNweD9vZmZlcmlkPTEyMjtMZWFkaW5nIEFydHMgYW5kIEN1bHR1cmU7VGhlIExlYWRpbmcgSG90ZWxzIG9mIHRoZSBXb3JsZCB3aWxsIGluc3BpcmUgeW91IHdpdGggTGVhZGluZyBBcnRzIGFuZCBDdWx0dXJlLiA7Pjs7Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8QDxodHRwOi8vd3d3Lmxody5jb20vc2VhcmNocmVzdWx0cy5hc3B4P29mZmVyaWQ9MTIzO0xhcCBvZiBMdXh1cnkgUGV0O0RvbuKAmXQgTGVhdmUgV2l0aG91dC4uLiBZb3VyIEJlc3QgRnJpZW5kLiBQYXJ0aWNpcGF0aW5nIExlYWRpbmcgSG90ZWxzIG9mZmVyIGF0dHIuLi47Pjs7Pjs+Pjs+Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxTdGFydCB5b3VyIHF1ZXN0IGhlcmU7Pj47Oz47Pj47Pj47dDxwPHA8bDxUZXh0Oz47bDxTZWxlY3QgcmVnaW9uIG9uIG1hcCBvclw8YnJcPnVzZSBsaW5rcyBvbiB0aGUgcmlnaHQ7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPA0KCQkJCVVzZSBsaW5rcyBvbiB0aGUgcmlnaHQgb3IgY2xpY2sgb25cPGJyXD5nbG9iZSB0byByZXR1cm4gdG8gd29ybGQgbWFwDQoJCQkJOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwNCgkJCQlVc2UgbGlua3Mgb24gdGhlIHJpZ2h0IG9yIHNlbGVjdFw8YnJcPmEgZGlmZmVyZW50IHJlZ2lvbiBvbiB0aGUgbWFwDQoJCQkJOz4+Oz47Oz47dDw7bDxpPDE+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExlYWRpbmcgSG90ZWxzIGluOjs+Pjs7Pjs+Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8RGVzdGluYXRpb25zIGluOjs+Pjs7Pjs+Pjs+Pjs+Pjt0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPFNlbGVjdCByZWdpb24gb24gdGhlIG1hcCBhbmQgdGhlbiBwaWNrIHRoZSBjb3VudHJ5Oz4+Ozs+O3Q8O2w8aTwxPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxEZXN0aW5hdGlvbnMgaW47Pj47Oz47Pj47dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+O2k8MTE+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExlYWRpbmcgT2ZmZXJzOz4+Ozs+O3Q8O2w8aTwxPjtpPDM+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExlYWRpbmcgT2ZmZXJzOz4+Ozs+O3Q8cDxsPF8hSXRlbUNvdW50Oz47bDxpPDM+Oz4+O2w8aTwwPjtpPDE+O2k8Mj47PjtsPHQ8O2w8aTwwPjs+O2w8dDxAPGh0dHA6Ly93d3cubGh3LmNvbS9zZWFyY2hyZXN1bHRzLmFzcHg/b2ZmZXJpZD04MDtTaG9wIEFyb3VuZCBUaGUgV29ybGQgV2l0aCBMZWFkaW5nO0luZHVsZ2UgaW4gd29ybGQgY2xhc3Mgc2hvcHBpbmcgZXhwZXJpZW5jZXMgdW5pcXVlIHRvIGl0cyBkZXN0aW5hdGlvbi47Pjs7Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8QDxodHRwOi8vd3d3Lmxody5jb20vc2VhcmNocmVzdWx0cy5hc3B4P29mZmVyaWQ9ODE7V2l0aCBMb3ZlIEZyb20gTGVhZGluZztCYXNrIGluIHJvbWFuY2UgYW5kIGluZHVsZ2Ugb25lIGFub3RoZXIgd2l0aCBhIHNpZ25hdHVyZSByb21hbmNlIGV4cGVyaWVuY2UuOz47Oz47Pj47dDw7bDxpPDA+Oz47bDx0PEA8aHR0cDovL3d3dy5saHcuY29tL3NlYXJjaHJlc3VsdHMuYXNweD9vZmZlcmlkPTgyO0xlYWRpbmcgQ2VsZWJyYXRpb25zO0NlbGVicmF0ZSB5b3VyIHNwZWNpYWwgb2NjYXNpb24gYXQgdGhlIG1vc3QgY2VsZWJyYXRlZCBob3RlbHMgaW4gdGhlIHdvcmxkLjs+Ozs+Oz4+Oz4+Oz4+O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPFN0YXJ0IHlvdXIgcXVlc3QgaGVyZTs+Pjs7Pjs+Pjs+Pjt0PHA8cDxsPFRleHQ7PjtsPFNlbGVjdCByZWdpb24gb24gbWFwIG9yXDxiclw+dXNlIGxpbmtzIG9uIHRoZSByaWdodDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8DQoJCQkJVXNlIGxpbmtzIG9uIHRoZSByaWdodCBvciBjbGljayBvblw8YnJcPmdsb2JlIHRvIHJldHVybiB0byB3b3JsZCBtYXANCgkJCQk7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPA0KCQkJCVVzZSBsaW5rcyBvbiB0aGUgcmlnaHQgb3Igc2VsZWN0XDxiclw+YSBkaWZmZXJlbnQgcmVnaW9uIG9uIHRoZSBtYXANCgkJCQk7Pj47Pjs7Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TGVhZGluZyBIb3RlbHMgaW46Oz4+Ozs+Oz4+O3Q8O2w8aTwxPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxEZXN0aW5hdGlvbnMgaW46Oz4+Ozs+Oz4+Oz4+Oz4+Oz4+O3Q8cDxsPGlubmVyaHRtbDs+O2w8SnVzdCBhIG1vbWVudCwgcGxlYXNlLi4uOz4+Ozs+O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+O2k8Mz47PjtsPHQ8O2w8aTwxPjs+O2w8dDxwPGw8VGV4dDs+O2w8XDxhIGhyZWY9J2h0dHA6Ly93d3cubGh3LmNvbS9Ib21lLmFzcHgnIG9ubW91c2VvdmVyPSdDaGFuZ2VMaW5rU3R5bGVPdmVyKHRoaXMpXDsnIG9ubW91c2VvdXQ9J0NoYW5nZUxpbmtTdHlsZU91dCh0aGlzKVw7JyBjbGFzcz0nbG5rQkNDb21tb24nXD5Ib21lXDwvYVw+IFw+IFw8c3BhbiBjbGFzcz0nbG5rQkNDb21tb24nXD4gUHJpdmFjeSBQb2xpY3lcPC9zcGFuXD47Pj47Oz47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxQcml2YWN5IFBvbGljeTs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+PjtsPENDRGVmYXVsdDpfY3RsMDpUb3BtZW51MTpsYW5nRW5nbGlzaDtDQ0RlZmF1bHQ6X2N0bDA6VG9wbWVudTE6bGFuZ0dlcm1hbjtDQ0RlZmF1bHQ6X2N0bDA6VG9wbWVudTE6bGFuZ0phcGFuO0NDRGVmYXVsdDpfY3RsMDpUb3BtZW51MTpfY3RsNzpidHRuQWNjOz4+LEzDEOsMVOC7cmYToy+SC7J3JRg=">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMTYyMjQyOTkzNTt0PDtsPGk8MD47PjtsPHQ8O2w8aTwwPjs+O2w8dDw7bDxpPDU+Oz47bDx0PDtsPGk8MD47aTwxPjtpPDM+O2k8ND47PjtsPHQ8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDY+Oz47bDx0PHA8cDxsPEltYWdlVXJsOz47bDxodHRwOi8vd3d3Lmxody5jb20vaW1hZ2VzL0ZsYWdFbmdsaXNoLmdpZjs+Pjs+Ozs+O3Q8cDxwPGw8SW1hZ2VVcmw7PjtsPGh0dHA6Ly93d3cubGh3LmNvbS9pbWFnZXMvRmxhZ0dlcm1hbi5naWY7Pj47Pjs7Pjt0PHA8cDxsPEltYWdlVXJsOz47bDxodHRwOi8vd3d3Lmxody5jb20vaW1hZ2VzL0ZsYWdKYXBhbi5naWY7Pj47Pjs7Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPHRpdGxlO2FsdDs+O2w8RW50ZXIgeW91ciBlbWFpbDtFbnRlciB5b3VyIGVtYWlsOz4+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+O2k8Mz47aTw0PjtpPDU+O2k8Nj47PjtsPHQ8cDxsPHN0eWxlOz47bDxkaXNwbGF5OmJsb2NrXDs7Pj47bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TG9naW47Pj47Oz47dDxwPHA8bDxUZXh0O1Rvb2xUaXA7PjtsPExDICMgb3IgRU1haWw7TEMgIyBvciBFTWFpbDs+PjtwPGw8b25rZXlkb3duO29uZm9jdXM7PjtsPHJldHVybiB0eHRFbnRlcktleUNsaWNrKGV2ZW50LCAnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X2J0dG5BY2MnKVw7O2lmICh0aGlzLnZhbHVlID09ICdMQyAjIG9yIEVNYWlsJykgdGhpcy52YWx1ZSA9ICcnXDs7Pj4+Ozs+O3Q8cDxsPG9uZm9jdXM7PjtsPGRpdlBhc3NWaXNpYmlsaXR5KCdDQ0RlZmF1bHRfX2N0bDBfVG9wbWVudTFfX2N0bDVfdHh0UGFzc3dvcmQnKTs+Pjs7Pjt0PHA8cDxsPE1vZGU7PjtsPFN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuVGV4dEJveE1vZGUsIFN5c3RlbS5XZWIsIFZlcnNpb249MS4wLjUwMDAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhPFBhc3N3b3JkPjs+PjtwPGw8b25rZXlkb3duOz47bDxyZXR1cm4gdHh0RW50ZXJLZXlDbGljayhldmVudCwgJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV9idHRuQWNjJylcOzs+Pj47Oz47dDxwPHA8bDxJbWFnZVVybDtQcmVDYWxsQmFja0Z1bmN0aW9uOz47bDxodHRwOi8vd3d3Lmxody5jb20vaW1hZ2VzL25ld3NBcnJvdy5wbmc7ZnVuY3Rpb24oKXtoaWRlU2hvdyhbJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyUmVnJywgJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyQWNjJ10sIFsnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X3VzZXJXYWl0aW5nJ10pXDt9Oz4+Oz47Oz47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxGb3Jnb3QgeW91ciBwYXNzd29yZD87Pj47Oz47dDxwPGw8aW5uZXJodG1sOz47bDxDbGljayBoZXJlOz4+Ozs+O3Q8cDxsPHN0eWxlOz47bDxkaXNwbGF5Om5vbmVcOzs+Pjs7Pjt0PHA8bDxzdHlsZTs+O2w8ZGlzcGxheTpub25lXDs7Pj47bDxpPDE+O2k8Mz47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8Mz47aTw0Pjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxcZTs+Pjs7Pjt0PHA8cDxsPFByZUNhbGxCYWNrRnVuY3Rpb247VGV4dDs+O2w8ZnVuY3Rpb24oKXtoaWRlU2hvdyhbJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyUmVnJywgJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyQWNjJ10sIFsnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X3VzZXJXYWl0aW5nJ10pXDt9OyBOb3QgWW91Pzs+Pjs+Ozs+Oz4+O3Q8cDxwPGw8UHJlQ2FsbEJhY2tGdW5jdGlvbjtUZXh0Oz47bDxmdW5jdGlvbigpe2hpZGVTaG93KFsnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X3VzZXJSZWcnLCAnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X3VzZXJBY2MnXSwgWydDQ0RlZmF1bHRfX2N0bDBfVG9wbWVudTFfX2N0bDVfdXNlcldhaXRpbmcnXSlcO307TG9nb3V0Oz4+Oz47Oz47Pj47dDxwPHA8bDxBbnRoZW1WaXNpYmxlOz47bDxvPGY+Oz4+Oz47bDxpPDA+O2k8Mz47aTw0Pjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxXZWxjb21lIGJhY2s7Pj47Oz47dDxwPGw8aW5uZXJodG1sOz47bDxcZTs+Pjs7Pjt0PHA8cDxsPFByZUNhbGxCYWNrRnVuY3Rpb247VGV4dDs+O2w8ZnVuY3Rpb24oKXtoaWRlU2hvdyhbJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyUmVnJywgJ0NDRGVmYXVsdF9fY3RsMF9Ub3BtZW51MV9fY3RsNV91c2VyQWNjJ10sIFsnQ0NEZWZhdWx0X19jdGwwX1RvcG1lbnUxX19jdGw1X3VzZXJXYWl0aW5nJ10pXDt9OyBOb3QgWW91Pzs+Pjs+Ozs+Oz4+Oz4+Oz4+Oz4+Oz4+O3Q8O2w8aTw1PjtpPDY+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPFNlbGVjdCByZWdpb24gb24gdGhlIG1hcCBhbmQgdGhlbiBwaWNrIHRoZSBjb3VudHJ5Oz4+Ozs+O3Q8O2w8aTwxPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxMZWFkaW5nIEhvdGVscyBpbjo7Pj47Oz47Pj47dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+O2k8OT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TGVhZGluZyBPZmZlcnM7Pj47Oz47dDw7bDxpPDA+Oz47bDx0PHA8bDxfIUl0ZW1Db3VudDs+O2w8aTw1Pjs+PjtsPGk8MD47aTwxPjtpPDI+O2k8Mz47aTw0Pjs+O2w8dDw7bDxpPDA+Oz47bDx0PEA8TGVhZGluZyBTdWl0ZXM7U3Vic3RhbnRpYWwgc2F2aW5ncyBvbiBzb21lIG9mIHRoZSB3b3JsZCdzIG1vc3QgbWFnbmlmaWNlbnQgc3VpdGVzLjtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTYmZXh0Mj1MRUFESU5HU1VJVEVTOz47Oz47Pj47dDw7bDxpPDA+Oz47bDx0PEA8T25lIE1vcmUgTmlnaHQgNCBmb3IgMztUaGUgdGVtcHRhdGlvbiB0byBsaW5nZXIgd2l0aG91dCBndWlsdC47aHR0cDovL3d3dy5saHcuY29tL09mZmVyUGFnZS5hc3B4P2lkPTUxJmV4dDI9T01ONEZPUjM7Pjs7Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8QDxPbmUgTW9yZSBOaWdodCAzIGZvciAyO1RoZSB0ZW1wdGF0aW9uIHRvIGxpbmdlciB3aXRob3V0IGd1aWx0LjtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTcmZXh0Mj1PTU4zRk9SMjs+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDxAPEJyZWFrZmFzdCBJbmNsdXNpdmU7TGV0IHVzIGdpdmUgeW91IG9uZSBtb3JlIHJlYXNvbiB0byBnZXQgb3V0IG9mIGJlZCDigJMgY29tcGxpbWVudGFyeSBicmVha2Zhc3QuO2h0dHA6Ly93d3cubGh3LmNvbS9zZWFyY2hyZXN1bHRzLmFzcHg/b2ZmZXJpZD0zMjs+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDxAPFRoZSBBbWVyaWNhbiBTdW1tZXIgU2FsZTtFbmpveSBzYXZpbmdzIG9mIDMwJSB0aHJvdWdoIFNlcHRlbWJlciA3LCAyMDA5IGF0IEFtZXJpY2EncyBmaW5lc3QgaG90ZWxzITtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTk5JmV4dDI9U1VNTUVSOz47Oz47Pj47Pj47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxTdGFydCB5b3VyIHF1ZXN0IGhlcmU7Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDxTZWxlY3QgcmVnaW9uIG9uIG1hcCBvclw8YnJcPnVzZSBsaW5rcyBvbiB0aGUgcmlnaHQ7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPA0KCQkJCVVzZSBsaW5rcyBvbiB0aGUgcmlnaHQgb3IgY2xpY2sgb25cPGJyXD5nbG9iZSB0byByZXR1cm4gdG8gd29ybGQgbWFwDQoJCQkJOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwNCgkJCQlVc2UgbGlua3Mgb24gdGhlIHJpZ2h0IG9yIHNlbGVjdFw8YnJcPmEgZGlmZmVyZW50IHJlZ2lvbiBvbiB0aGUgbWFwDQoJCQkJOz4+Oz47Oz47dDw7bDxpPDE+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExlYWRpbmcgSG90ZWxzIGluOjs+Pjs7Pjs+Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8RGVzdGluYXRpb25zIGluOjs+Pjs7Pjs+Pjs+Pjs+Pjt0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPFNlbGVjdCByZWdpb24gb24gdGhlIG1hcCBhbmQgdGhlbiBwaWNrIHRoZSBjb3VudHJ5Oz4+Ozs+O3Q8O2w8aTwxPjs+O2w8dDxwPGw8aW5uZXJodG1sOz47bDxEZXN0aW5hdGlvbnMgaW47Pj47Oz47Pj47dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+O2k8OT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8TGVhZGluZyBPZmZlcnM7Pj47Oz47dDw7bDxpPDA+Oz47bDx0PHA8bDxfIUl0ZW1Db3VudDs+O2w8aTw1Pjs+PjtsPGk8MD47aTwxPjtpPDI+O2k8Mz47aTw0Pjs+O2w8dDw7bDxpPDA+Oz47bDx0PEA8TGVhZGluZyBTdWl0ZXM7U3Vic3RhbnRpYWwgc2F2aW5ncyBvbiBzb21lIG9mIHRoZSB3b3JsZCdzIG1vc3QgbWFnbmlmaWNlbnQgc3VpdGVzLjtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTYmZXh0Mj1MRUFESU5HU1VJVEVTOz47Oz47Pj47dDw7bDxpPDA+Oz47bDx0PEA8T25lIE1vcmUgTmlnaHQgNCBmb3IgMztUaGUgdGVtcHRhdGlvbiB0byBsaW5nZXIgd2l0aG91dCBndWlsdC47aHR0cDovL3d3dy5saHcuY29tL09mZmVyUGFnZS5hc3B4P2lkPTUxJmV4dDI9T01ONEZPUjM7Pjs7Pjs+Pjt0PDtsPGk8MD47PjtsPHQ8QDxPbmUgTW9yZSBOaWdodCAzIGZvciAyO1RoZSB0ZW1wdGF0aW9uIHRvIGxpbmdlciB3aXRob3V0IGd1aWx0LjtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTcmZXh0Mj1PTU4zRk9SMjs+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDxAPEJyZWFrZmFzdCBJbmNsdXNpdmU7TGV0IHVzIGdpdmUgeW91IG9uZSBtb3JlIHJlYXNvbiB0byBnZXQgb3V0IG9mIGJlZCDigJMgY29tcGxpbWVudGFyeSBicmVha2Zhc3QuO2h0dHA6Ly93d3cubGh3LmNvbS9zZWFyY2hyZXN1bHRzLmFzcHg/b2ZmZXJpZD0zMjs+Ozs+Oz4+O3Q8O2w8aTwwPjs+O2w8dDxAPFRoZSBBbWVyaWNhbiBTdW1tZXIgU2FsZTtFbmpveSBzYXZpbmdzIG9mIDMwJSB0aHJvdWdoIFNlcHRlbWJlciA3LCAyMDA5IGF0IEFtZXJpY2EncyBmaW5lc3QgaG90ZWxzITtodHRwOi8vd3d3Lmxody5jb20vT2ZmZXJQYWdlLmFzcHg/aWQ9MTk5JmV4dDI9U1VNTUVSOz47Oz47Pj47Pj47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxTdGFydCB5b3VyIHF1ZXN0IGhlcmU7Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDxTZWxlY3QgcmVnaW9uIG9uIG1hcCBvclw8YnJcPnVzZSBsaW5rcyBvbiB0aGUgcmlnaHQ7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPA0KCQkJCVVzZSBsaW5rcyBvbiB0aGUgcmlnaHQgb3IgY2xpY2sgb25cPGJyXD5nbG9iZSB0byByZXR1cm4gdG8gd29ybGQgbWFwDQoJCQkJOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwNCgkJCQlVc2UgbGlua3Mgb24gdGhlIHJpZ2h0IG9yIHNlbGVjdFw8YnJcPmEgZGlmZmVyZW50IHJlZ2lvbiBvbiB0aGUgbWFwDQoJCQkJOz4+Oz47Oz47dDw7bDxpPDE+Oz47bDx0PHA8bDxpbm5lcmh0bWw7PjtsPExlYWRpbmcgSG90ZWxzIGluOjs+Pjs7Pjs+Pjt0PDtsPGk8MT47PjtsPHQ8cDxsPGlubmVyaHRtbDs+O2w8RGVzdGluYXRpb25zIGluOjs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjt0PHA8bDxpbm5lcmh0bWw7PjtsPEp1c3QgYSBtb21lbnQsIHBsZWFzZS4uLjs+Pjs7Pjt0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8MT47PjtsPHQ8cDxsPFRleHQ7PjtsPFw8YSBocmVmPSdodHRwOi8vd3d3Lmxody5jb20vSG9tZS5hc3B4JyBjbGFzcz0nbG5rQkNDb21tb24nXD5Ib21lXDwvYVw+IFw+IFw8c3BhbiBjbGFzcz0nbG5rQkNDb21tb24nXD4gUHJpdmFjeSBQb2xpY3lcPC9zcGFuXD47Pj47Oz47Pj47dDxwPGw8aW5uZXJodG1sOz47bDxQcml2YWN5IFBvbGljeTs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+PjtsPENDRGVmYXVsdDpfY3RsMDpUb3BtZW51MTpsYW5nRW5nbGlzaDtDQ0RlZmF1bHQ6X2N0bDA6VG9wbWVudTE6bGFuZ0dlcm1hbjtDQ0RlZmF1bHQ6X2N0bDA6VG9wbWVudTE6bGFuZ0phcGFuO0NDRGVmYXVsdDpfY3RsMDpUb3BtZW51MTpfY3RsNTpidHRuQWNjOz4+nge7IgQa0jwWELgV8OKAyz2wdeE=">
 
 <script language="javascript" type="text/javascript">
 <!--
@@ -149,123 +83,40 @@ var Anthem_FormID = "__aspnetForm";
 
 	<script type="text/javascript" src="/Scripts/Anthem.js"></script>
 
-	<script language="javascript">var regionsGlobalMap = $H({
-16: $H({'name':'Africa', 'parent':0, 'hasZoom':true}),22: $H({'name':'Asia', 'parent':0, 'hasZoom':true}),21: $H({'name':'Caribbean', 'parent':0, 'hasZoom':true}),19: $H({'name':'Central America', 'parent':0, 'hasZoom':false}),17: $H({'name':'Europe', 'parent':0, 'hasZoom':true}),18: $H({'name':'North America', 'parent':0, 'hasZoom':false}),23: $H({'name':'Oceania', 'parent':0, 'hasZoom':false}),20: $H({'name':'South America', 'parent':0, 'hasZoom':false}),25: $H({'name':'Eastern Africa', 'parent':16, 'hasZoom':false}),24: $H({'name':'Northern Africa', 'parent':16, 'hasZoom':false}),28: $H({'name':'Southern Africa', 'parent':16, 'hasZoom':false}),29: $H({'name':'Central Europe', 'parent':17, 'hasZoom':false}),31: $H({'name':'Eastern Europe', 'parent':17, 'hasZoom':false}),33: $H({'name':'Northern Europe', 'parent':17, 'hasZoom':false}),32: $H({'name':'Southern Europe', 'parent':17, 'hasZoom':false}),34: $H({'name':'UK & Ireland', 'parent':17, 'hasZoom':false}),30: $H({'name':'Western Europe', 'parent':17, 'hasZoom':false}),36: $H({'name':'Eastern Caribbean', 'parent':21, 'hasZoom':false}),35: $H({'name':'Western Caribbean', 'parent':21, 'hasZoom':false}),38: $H({'name':'East Asia', 'parent':22, 'hasZoom':false}),42: $H({'name':'Middle East', 'parent':22, 'hasZoom':false}),40: $H({'name':'South Asia', 'parent':22, 'hasZoom':false}),39: $H({'name':'Southeast Asia', 'parent':22, 'hasZoom':false})});</script>
+	<script language="javascript"><!--
+var regionsGlobalMap = $H({
+16: $H({'name':'Africa', 'parent':0, 'hasZoom':true}),22: $H({'name':'Asia', 'parent':0, 'hasZoom':true}),21: $H({'name':'Caribbean', 'parent':0, 'hasZoom':true}),19: $H({'name':'Central America', 'parent':0, 'hasZoom':false}),17: $H({'name':'Europe', 'parent':0, 'hasZoom':true}),18: $H({'name':'North America', 'parent':0, 'hasZoom':false}),23: $H({'name':'Oceania', 'parent':0, 'hasZoom':false}),20: $H({'name':'South America', 'parent':0, 'hasZoom':false}),25: $H({'name':'Eastern Africa', 'parent':16, 'hasZoom':false}),24: $H({'name':'Northern Africa', 'parent':16, 'hasZoom':false}),28: $H({'name':'Southern Africa', 'parent':16, 'hasZoom':false}),29: $H({'name':'Central Europe', 'parent':17, 'hasZoom':false}),31: $H({'name':'Eastern Europe', 'parent':17, 'hasZoom':false}),33: $H({'name':'Northern Europe', 'parent':17, 'hasZoom':false}),32: $H({'name':'Southern Europe', 'parent':17, 'hasZoom':false}),34: $H({'name':'UK & Ireland', 'parent':17, 'hasZoom':false}),30: $H({'name':'Western Europe', 'parent':17, 'hasZoom':false}),36: $H({'name':'Eastern Caribbean', 'parent':21, 'hasZoom':false}),35: $H({'name':'Western Caribbean', 'parent':21, 'hasZoom':false}),38: $H({'name':'East Asia', 'parent':22, 'hasZoom':false}),42: $H({'name':'Middle East', 'parent':22, 'hasZoom':false}),40: $H({'name':'South Asia', 'parent':22, 'hasZoom':false}),39: $H({'name':'Southeast Asia', 'parent':22, 'hasZoom':false})});
+--></script>
 
-	<script language="javascript">var countriesByRegionGlobalMap = $H({18: [$H({'id':20, 'name':'Canada'}),$H({'id':49, 'name':'Mexico'}),$H({'id':566, 'name':'United States'})],19: [$H({'id':24, 'name':'Costa Rica'}),$H({'id':7, 'name':'Panama'})],20: [$H({'id':11, 'name':'Argentina'}),$H({'id':17, 'name':'Brazil'}),$H({'id':3, 'name':'Ecuador'}),$H({'id':391, 'name':'Uruguay'}),$H({'id':88, 'name':'Venezuela'})],23: [$H({'id':1, 'name':'Australia'}),$H({'id':32, 'name':'French Polynesia'}),$H({'id':54, 'name':'New Zealand'})],24: [$H({'id':29, 'name':'Egypt'}),$H({'id':52, 'name':'Morocco'}),$H({'id':10, 'name':'Tunisia'})],25: [$H({'id':44, 'name':'Kenya'}),$H({'id':48, 'name':'Mauritius'}),$H({'id':100, 'name':'Seychelles'}),$H({'id':550, 'name':'Uganda'}),$H({'id':85, 'name':'Zimbabwe'})],28: [$H({'id':8, 'name':'South Africa'})],29: [$H({'id':13, 'name':'Austria'}),$H({'id':15, 'name':'Belgium'}),$H({'id':34, 'name':'Germany'}),$H({'id':46, 'name':'Luxembourg'}),$H({'id':501, 'name':'Netherlands'}),$H({'id':73, 'name':'Switzerland'})],30: [$H({'id':31, 'name':'France'}),$H({'id':51, 'name':'Monaco'}),$H({'id':61, 'name':'Portugal'}),$H({'id':69, 'name':'Spain'})],31: [$H({'id':105, 'name':'Bulgaria'}),$H({'id':436, 'name':'Croatia'}),$H({'id':26, 'name':'Czech Republic'}),$H({'id':37, 'name':'Hungary'}),$H({'id':64, 'name':'Russia'}),$H({'id':530, 'name':'Slovakia'}),$H({'id':551, 'name':'Ukraine'})],32: [$H({'id':25, 'name':'Cyprus'}),$H({'id':35, 'name':'Greece'}),$H({'id':42, 'name':'Italy'}),$H({'id':78, 'name':'Turkey'})],33: [$H({'id':445, 'name':'Estonia'}),$H({'id':477, 'name':'Latvia'}),$H({'id':55, 'name':'Norway'}),$H({'id':72, 'name':'Sweden'})],34: [$H({'id':30, 'name':'England'}),$H({'id':40, 'name':'Ireland'}),$H({'id':67, 'name':'Scotland'})],35: [$H({'id':14, 'name':'Bahamas'}),$H({'id':440, 'name':'Dominican Republic'}),$H({'id':397, 'name':'Jamaica'}),$H({'id':548, 'name':'Turks And Caicos Islands'})],36: [$H({'id':407, 'name':'Anguilla'}),$H({'id':396, 'name':'Antigua, West Indies'}),$H({'id':95, 'name':'Curacao'}),$H({'id':394, 'name':'St. Barthélémy'}),$H({'id':522, 'name':'St. Lucia'}),$H({'id':393, 'name':'St. Martin'}),$H({'id':70, 'name':'St. Vincent & the Grenadines'})],38: [$H({'id':56, 'name':'China'}),$H({'id':5, 'name':'Hong Kong'}),$H({'id':43, 'name':'Japan'}),$H({'id':45, 'name':'Korea'}),$H({'id':75, 'name':'Taiwan, R.O.C.'})],39: [$H({'id':39, 'name':'Indonesia'}),$H({'id':47, 'name':'Malaysia'}),$H({'id':497, 'name':'Myanmar'}),$H({'id':9, 'name':'Singapore'}),$H({'id':76, 'name':'Thailand'}),$H({'id':82, 'name':'Vietnam'})],40: [$H({'id':38, 'name':'India'}),$H({'id':90, 'name':'Maldives'}),$H({'id':57, 'name':'Pakistan'})],42: [$H({'id':41, 'name':'Israel'}),$H({'id':374, 'name':'Jordan'}),$H({'id':390, 'name':'Lebanon'}),$H({'id':509, 'name':'Oman'}),$H({'id':516, 'name':'Qatar'}),$H({'id':66, 'name':'Saudi Arabia'}),$H({'id':80, 'name':'United Arab Emirates'})]});</script>
+	<script language="javascript"><!--
+var countriesByRegionGlobalMap = $H({18: [$H({'id':20, 'name':'Canada'}),$H({'id':49, 'name':'Mexico'}),$H({'id':566, 'name':'United States'})],19: [$H({'id':24, 'name':'Costa Rica'}),$H({'id':7, 'name':'Panama'})],20: [$H({'id':11, 'name':'Argentina'}),$H({'id':17, 'name':'Brazil'}),$H({'id':3, 'name':'Ecuador'}),$H({'id':391, 'name':'Uruguay'}),$H({'id':88, 'name':'Venezuela'})],23: [$H({'id':1, 'name':'Australia'}),$H({'id':32, 'name':'French Polynesia'}),$H({'id':54, 'name':'New Zealand'})],24: [$H({'id':29, 'name':'Egypt'}),$H({'id':52, 'name':'Morocco'}),$H({'id':10, 'name':'Tunisia'})],25: [$H({'id':44, 'name':'Kenya'}),$H({'id':48, 'name':'Mauritius'}),$H({'id':100, 'name':'Seychelles'}),$H({'id':550, 'name':'Uganda'}),$H({'id':85, 'name':'Zimbabwe'})],28: [$H({'id':8, 'name':'South Africa'})],29: [$H({'id':13, 'name':'Austria'}),$H({'id':15, 'name':'Belgium'}),$H({'id':34, 'name':'Germany'}),$H({'id':46, 'name':'Luxembourg'}),$H({'id':501, 'name':'Netherlands'}),$H({'id':73, 'name':'Switzerland'})],30: [$H({'id':31, 'name':'France'}),$H({'id':51, 'name':'Monaco'}),$H({'id':61, 'name':'Portugal'}),$H({'id':69, 'name':'Spain'})],31: [$H({'id':105, 'name':'Bulgaria'}),$H({'id':436, 'name':'Croatia'}),$H({'id':26, 'name':'Czech Republic'}),$H({'id':37, 'name':'Hungary'}),$H({'id':64, 'name':'Russia'}),$H({'id':530, 'name':'Slovakia'}),$H({'id':551, 'name':'Ukraine'})],32: [$H({'id':25, 'name':'Cyprus'}),$H({'id':35, 'name':'Greece'}),$H({'id':42, 'name':'Italy'}),$H({'id':78, 'name':'Turkey'})],33: [$H({'id':445, 'name':'Estonia'}),$H({'id':477, 'name':'Latvia'}),$H({'id':55, 'name':'Norway'}),$H({'id':72, 'name':'Sweden'})],34: [$H({'id':30, 'name':'England'}),$H({'id':40, 'name':'Ireland'}),$H({'id':67, 'name':'Scotland'})],35: [$H({'id':14, 'name':'Bahamas'}),$H({'id':440, 'name':'Dominican Republic'}),$H({'id':397, 'name':'Jamaica'}),$H({'id':548, 'name':'Turks And Caicos Islands'})],36: [$H({'id':407, 'name':'Anguilla'}),$H({'id':396, 'name':'Antigua, West Indies'}),$H({'id':95, 'name':'Curacao'}),$H({'id':394, 'name':'St. Barthélémy'}),$H({'id':522, 'name':'St. Lucia'}),$H({'id':393, 'name':'St. Martin'}),$H({'id':70, 'name':'St. Vincent & the Grenadines'})],38: [$H({'id':56, 'name':'China'}),$H({'id':5, 'name':'Hong Kong'}),$H({'id':43, 'name':'Japan'}),$H({'id':45, 'name':'Korea'}),$H({'id':75, 'name':'Taiwan, R.O.C.'})],39: [$H({'id':39, 'name':'Indonesia'}),$H({'id':47, 'name':'Malaysia'}),$H({'id':497, 'name':'Myanmar'}),$H({'id':9, 'name':'Singapore'}),$H({'id':76, 'name':'Thailand'}),$H({'id':82, 'name':'Vietnam'})],40: [$H({'id':38, 'name':'India'}),$H({'id':90, 'name':'Maldives'}),$H({'id':57, 'name':'Pakistan'})],42: [$H({'id':41, 'name':'Israel'}),$H({'id':374, 'name':'Jordan'}),$H({'id':390, 'name':'Lebanon'}),$H({'id':509, 'name':'Oman'}),$H({'id':516, 'name':'Qatar'}),$H({'id':66, 'name':'Saudi Arabia'}),$H({'id':80, 'name':'United Arab Emirates'})]});
+--></script>
 
-	<script language="javascript">var dgsGlobalMap = [
-$H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, 'dgId':32, 'name':'Bangalore (Bengaluru)', 'top':1}),$H({'regionId':39, 'dgId':10, 'name':'Bangkok', 'top':1}),$H({'regionId':30, 'dgId':12, 'name':'Barcelona', 'top':1}),$H({'regionId':29, 'dgId':14, 'name':'Berlin', 'top':1}),$H({'regionId':20, 'dgId':18, 'name':'Buenos Aires', 'top':1}),$H({'regionId':18, 'dgId':24, 'name':'Chicago', 'top':1}),$H({'regionId':40, 'dgId':34, 'name':'Delhi', 'top':1}),$H({'regionId':42, 'dgId':15, 'name':'Dubai', 'top':1}),$H({'regionId':34, 'dgId':26, 'name':'Dublin', 'top':1}),$H({'regionId':32, 'dgId':27, 'name':'Florence', 'top':1}),$H({'regionId':38, 'dgId':17, 'name':'Hong Kong', 'top':1}),$H({'regionId':18, 'dgId':19, 'name':'Honolulu', 'top':1}),$H({'regionId':40, 'dgId':35, 'name':'India', 'top':1}),$H({'regionId':34, 'dgId':6, 'name':'London', 'top':1}),$H({'regionId':18, 'dgId':11, 'name':'Los Angeles', 'top':1}),$H({'regionId':32, 'dgId':8, 'name':'Milan', 'top':1}),$H({'regionId':40, 'dgId':21, 'name':'Mumbai', 'top':1}),$H({'regionId':29, 'dgId':13, 'name':'Munich', 'top':1}),$H({'regionId':18, 'dgId':66, 'name':'New England', 'top':1}),$H({'regionId':18, 'dgId':4, 'name':'New York', 'top':1}),$H({'regionId':30, 'dgId':5, 'name':'Paris', 'top':1}),$H({'regionId':20, 'dgId':25, 'name':'Rio de Janeiro', 'top':1}),$H({'regionId':32, 'dgId':7, 'name':'Rome', 'top':1}),$H({'regionId':18, 'dgId':23, 'name':'San Francisco', 'top':1}),$H({'regionId':23, 'dgId':31, 'name':'Sydney', 'top':1}),$H({'regionId':38, 'dgId':16, 'name':'Tokyo', 'top':1}),$H({'regionId':32, 'dgId':9, 'name':'Venice', 'top':1})];</script>
+	<script language="javascript"><!--
+var dgsGlobalMap = [
+$H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':32, 'dgId':87, 'name':'Athens', 'top':1}),$H({'regionId':40, 'dgId':32, 'name':'Bangalore (Bengaluru)', 'top':1}),$H({'regionId':39, 'dgId':10, 'name':'Bangkok', 'top':1}),$H({'regionId':31, 'dgId':82, 'name':'Bansko', 'top':1}),$H({'regionId':30, 'dgId':12, 'name':'Barcelona', 'top':1}),$H({'regionId':38, 'dgId':63, 'name':'Beijing', 'top':1}),$H({'regionId':42, 'dgId':69, 'name':'Beirut', 'top':1}),$H({'regionId':29, 'dgId':14, 'name':'Berlin', 'top':1}),$H({'regionId':29, 'dgId':36, 'name':'Brussels', 'top':1}),$H({'regionId':31, 'dgId':37, 'name':'Budapest', 'top':1}),$H({'regionId':20, 'dgId':18, 'name':'Buenos Aires', 'top':1}),$H({'regionId':30, 'dgId':70, 'name':'Canary Islands', 'top':1}),$H({'regionId':28, 'dgId':48, 'name':'Cape Town', 'top':1}),$H({'regionId':18, 'dgId':24, 'name':'Chicago', 'top':1}),$H({'regionId':29, 'dgId':42, 'name':'Cologne', 'top':1}),$H({'regionId':30, 'dgId':72, 'name':'Costa del Sol', 'top':1}),$H({'regionId':40, 'dgId':34, 'name':'Delhi', 'top':1}),$H({'regionId':42, 'dgId':15, 'name':'Dubai', 'top':1}),$H({'regionId':34, 'dgId':26, 'name':'Dublin', 'top':1}),$H({'regionId':32, 'dgId':27, 'name':'Florence', 'top':1}),$H({'regionId':29, 'dgId':44, 'name':'Frankfurt', 'top':1}),$H({'regionId':18, 'dgId':68, 'name':'Greater Miami', 'top':1}),$H({'regionId':29, 'dgId':40, 'name':'Hamburg', 'top':1}),$H({'regionId':38, 'dgId':17, 'name':'Hong Kong', 'top':1}),$H({'regionId':18, 'dgId':19, 'name':'Honolulu', 'top':1}),$H({'regionId':40, 'dgId':35, 'name':'India', 'top':1}),$H({'regionId':32, 'dgId':57, 'name':'Istanbul', 'top':1}),$H({'regionId':35, 'dgId':64, 'name':'Jamaica', 'top':1}),$H({'regionId':39, 'dgId':85, 'name':'Koh Samui', 'top':1}),$H({'regionId':18, 'dgId':75, 'name':'Las Vegas', 'top':1}),$H({'regionId':30, 'dgId':58, 'name':'Lisbon', 'top':1}),$H({'regionId':34, 'dgId':6, 'name':'London', 'top':1}),$H({'regionId':18, 'dgId':11, 'name':'Los Angeles', 'top':1}),$H({'regionId':30, 'dgId':38, 'name':'Madrid', 'top':1}),$H({'regionId':18, 'dgId':84, 'name':'Mexican Resorts', 'top':1}),$H({'regionId':18, 'dgId':67, 'name':'Mexico City', 'top':1}),$H({'regionId':32, 'dgId':8, 'name':'Milan', 'top':1}),$H({'regionId':30, 'dgId':83, 'name':'Monte Carlo', 'top':1}),$H({'regionId':31, 'dgId':90, 'name':'Moscow', 'top':1}),$H({'regionId':40, 'dgId':21, 'name':'Mumbai', 'top':1}),$H({'regionId':29, 'dgId':13, 'name':'Munich', 'top':1}),$H({'regionId':32, 'dgId':52, 'name':'Naples', 'top':1}),$H({'regionId':18, 'dgId':66, 'name':'New England', 'top':1}),$H({'regionId':18, 'dgId':4, 'name':'New York', 'top':1}),$H({'regionId':33, 'dgId':89, 'name':'Oslo', 'top':1}),$H({'regionId':30, 'dgId':5, 'name':'Paris', 'top':1}),$H({'regionId':39, 'dgId':86, 'name':'Phuket', 'top':1}),$H({'regionId':31, 'dgId':29, 'name':'Prague', 'top':1}),$H({'regionId':20, 'dgId':25, 'name':'Rio de Janeiro', 'top':1}),$H({'regionId':32, 'dgId':7, 'name':'Rome', 'top':1}),$H({'regionId':29, 'dgId':56, 'name':'Salzburg', 'top':1}),$H({'regionId':18, 'dgId':23, 'name':'San Francisco', 'top':1}),$H({'regionId':38, 'dgId':55, 'name':'Shanghai', 'top':1}),$H({'regionId':39, 'dgId':65, 'name':'Singapore', 'top':1}),$H({'regionId':31, 'dgId':54, 'name':'St. Petersburg', 'top':1}),$H({'regionId':33, 'dgId':73, 'name':'Stockholm', 'top':1}),$H({'regionId':23, 'dgId':31, 'name':'Sydney', 'top':1}),$H({'regionId':38, 'dgId':16, 'name':'Tokyo', 'top':1}),$H({'regionId':32, 'dgId':9, 'name':'Venice', 'top':1}),$H({'regionId':29, 'dgId':43, 'name':'Vienna', 'top':1}),$H({'regionId':29, 'dgId':28, 'name':'Zurich', 'top':1})];
+--></script>
 
 
-		<!-- header -->
+		
 		<div class="headMain">
 			
 				<div class="headTopLine"></div>
 				<a href="http://www.lhw.com/home.aspx" style="CURSOR:hand;"><div class="headLogo"></div></a>
 				<div class="headTopMenu">	
 					
-<script language="javascript">
-	/* for newsletter*/
-	function divVisibility ()
-	{
-		var div1 = document.getElementById("showText");
-		div1.style.display ="none";
-		var div2 = document.getElementById("emptyText");
-		div2.style.display = "inline";
-		var txt =document.getElementById("email");
-		txt.focus();
-	}
-	
-	// Uptick Localized strings
-	var strUptickEmail = 'Email address seems incorrect (check @ and .\'s)';
-	var strUptickUsername = 'The username doesn\'t seem to be valid.';
-	var strUptickIP = 'Destination IP address is invalid!';
-	var strUptickDomain = 'The domain name doesn\'t seem to be valid.';
-	var	strUptickAddress = 'The address must end in a three-letter domain, or two letter country.';
-	var	strUptickHostname = 'This address is missing a hostname!';
-	var strThankYou = 'Thank you for signing up!';
-				
-	function emailCheck (emailStr) {
-		var emailPat=/^(.+)@(.+)$/;
-		var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
-		var validChars="\[^\\s" + specialChars + "\]";
-		var quotedUser="(\"[^\"]*\")";
-		var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-		var atom=validChars + '+';
-		var word="(" + atom + "|" + quotedUser + ")";
-		var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
-		var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
-		var matchArray=emailStr.match(emailPat);
-		if (matchArray==null) {
-			alert(strUptickEmail);
-			return false;
-		}
-		var user=matchArray[1];
-		var domain=matchArray[2];
-		if (user.match(userPat)==null) {
-			alert(strUptickUsername);
-			return false;
-		}
-		var IPArray=domain.match(ipDomainPat);
-		if (IPArray!=null) {
-			for (var i=1;i<=4;i++) {
-				if (IPArray[i]>255) {
-					alert(strUptickIP);
-				return false;
-				}
-			}
-			return true;
-		}
-		var domainArray=domain.match(domainPat);
-		if (domainArray==null) {
-			alert(strUptickDomain);
-			return false;
-		}
-		var atomPat=new RegExp(atom,"g");
-		var domArr=domain.match(atomPat);
-		var len=domArr.length;
-		if ((domArr[domArr.length-1] != "info") &&
-			(domArr[domArr.length-1] != "name") &&
-			(domArr[domArr.length-1] != "arpa") &&
-			(domArr[domArr.length-1] != "coop") &&
-			(domArr[domArr.length-1] != "aero")) {
-				if (domArr[domArr.length-1].length<2 || 
-	    			domArr[domArr.length-1].length>3) {
-		   				alert(strUptickAddress);
-		   				return false;
-				}
-		}
-		if (len<2) {
-		alert(strUptickHostname);
-		return false;
-		}
-		return true;
-		}
-	function UPTvalidateform(document){
-		if (emailCheck(document.getElementById('email').value)){	
-			window.alert(strThankYou);
-			document.forms['UPTml15643'].email.value = document.forms['PageForm'].email.value;
-			document.forms['UPTml15643'].submit();
-			return false;}	
-		
-		else {	
-		return false;}}
-				
-</script>
-<!-- Languages -->
+
 <div id="Div1">
 	<div class="headTopMenuItem" style="left:0px;top:0 px;height:72px;">
 		<input type="image" src="http://www.lhw.com/images/blank.gif" id="notSubmitbutton" style="z-index:-10;width:1px;height:1px;">
         <input type="image" name="CCDefault:_ctl0:Topmenu1:langEnglish" id="CCDefault__ctl0_Topmenu1_langEnglish" class="headFlag" src="http://www.lhw.com/images/FlagEnglish.gif" alt="" border="0" style="position: absolute;top: 8px; left: 4px;">
 		<input type="image" name="CCDefault:_ctl0:Topmenu1:langGerman" id="CCDefault__ctl0_Topmenu1_langGerman" class="headFlag" src="http://www.lhw.com/images/FlagGerman.gif" alt="" border="0" style="position: absolute;top: 8px; left: 33px;">
-		<input type="image" name="CCDefault:_ctl0:Topmenu1:langJapan" id="CCDefault__ctl0_Topmenu1_langJapan" class="headFlag" onclick="return confirm('Thank you for your interest. The Japanese edition of the LHW.com site is currently &quot;in beta&quot;, meaning that minor issues may arise during your visit. To report a problem, please email webdevelopment@lhw.com. To return to the English version of the site at any time simply click on the English/US flag.')" src="http://www.lhw.com/images/FlagJapan.gif" alt="" border="0" style="position: absolute;top: 8px; left: 62px;">
-
+		<input type="image" name="CCDefault:_ctl0:Topmenu1:langJapan" id="CCDefault__ctl0_Topmenu1_langJapan" class="headFlag" src="http://www.lhw.com/images/FlagJapan.gif" alt="" border="0" style="position: absolute;top: 8px; left: 62px;">
 	</div>
 	 
 </div>
 
-<!-- Newsletter -->
+
 <div id="CCDefault__ctl0_Topmenu1_DivMenu1">
 	<div class="headTopMenuItem" style="left:127px;top:0 px;height:72px;">
 			
@@ -284,7 +135,9 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 						<td class="headPHTableTD">
 							<div>
 								<a href="#" onclick="javascript:return UPTvalidateform(document);">
-									<img src="http://www.lhw.com/images/newsArrow.png" border="0" id="Img1" width="15" height="14">
+								
+							       <img src="http://www.lhw.com/images/newsArrow.png" border="0" id="Img1" width="15" height="14">
+							   
 								</a>
 							</div>
 					</td>
@@ -296,7 +149,7 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 	 
 </div>
 
-<!-- Customer Care -->
+
 <div id="CCDefault__ctl0_Topmenu1_DivMenu2">
 	<div class="headTopMenuItem" style="left:254px;top:0px;height:72px;">
 
@@ -304,7 +157,7 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 		Customer Care
 	</a>
 	
-	<!--	<div onmouseover="showCloud('Menu2');return false;" onmouseout="cancelCloud('Menu2');return false;" style="position: absolute; width:100px;left:6px;top:2px;"><span>Customer Care</span></div> -->
+	
 
 		<div id="Menu2" style="display:none; left:0px; top:0px;" onmouseout="hideCloud('Menu2', event);">
 			<div>
@@ -314,10 +167,10 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 	</div>
 </div>
 
-<!-- My Reservations -->
+
 <div id="CCDefault__ctl0_Topmenu1_DivMenu3">
 	<div class="headTopMenuItem" style="left:381px;width:132px;top:0px;height:72px;">
-		<!--<div onmouseover="showCloud('Menu3');return false;" onmouseout="cancelCloud('Menu3');return false;" style="position: absolute; left:6px; top:2px;">My Reservations</div>-->
+		
 
 		<a style="position: absolute; left:4px; top:7px;" href="http://www.lhw.com/itinerary.aspx">
 			My Reservations
@@ -350,237 +203,123 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 		</div>
 	</div> 
 </div>
-<!-- Leaders Club -->
+
 <div id="CCDefault__ctl0_Topmenu1_leadersClub">
 	<div class="headTopMenuItem" style="position:absolute;left:507px;width:222px;top:0px;height:72px;">
 		
-<script language="javascript">	
-	function showResultUser(result)
-	{
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userReg").style.display = 'none';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userWaiting").style.display = 'none';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userAcc").style.display = 'block';
-	}
-	
-	function showWaitingUser(result)
-	{
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userReg").style.display = 'none';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userWaiting").style.display = 'block';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userAcc").style.display = 'none';
-		
-	}
-	
-	function showLogoutUser(result)
-	{
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userReg").style.display = 'block';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userWaiting").style.display = 'none';
-		document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_userAcc").style.display = 'none';
-	}
-	
-	
-	var flag = null;
-	function showError()
-	{
-	
-		var divError = $('showError');
-	 
-		if(flag == null) {
-			flag = 1;
-      
-			var body = divError.up('body');
-			divError = divError.remove()
-			body.appendChild(divError);
-		}
-	
-		divError.setStyle({
-			left: $('LoginError').cumulativeOffset()['left'] - divError.getWidth() + 235 + 'px',
-			//top: Event.pointerY(event) - 75 + 'px' 
-			top: '65px',
-			display: 'block'
-			//left: $('CCDefault__ctl0_Topmenu1__ctl7_userReg').cumulativeOffset()['left'] - divError.getWidth() + 20 + 'px'//,//Event.pointerX(event) + 'px',
-			//top: Event.pointerY(event) - 75 + 'px' 
-			});
-		//divError.style.display ='block';
-	}
 
-	function hideError() {
-		$('showError').hide();
-	}
-	
-	function trim(cadena)
-	{
-		for(i=0; i<cadena.length; )
-		{
-			if(cadena.charAt(i)==" ")
-				cadena=cadena.substring(i+1, cadena.length);
-			else
-				break;
-		}
 
-		for(i=cadena.length-1; i>=0; i=cadena.length-1)
-		{
-			if(cadena.charAt(i)==" ")
-				cadena=cadena.substring(0,i);
-			else
-				break;
-		}
-		
-		return cadena;
-	}
-
-	function CheckEmptyUser() {
-		var user = document.getElementById('CCDefault__ctl0_Topmenu1__ctl7_txtUserEmail');
-		if (user.value == '' || trim(user.value) == '')
-			user.value = 'LC # or EMail';
-	}
-	
-	function CheckEmptyPass() {
-		var pass = document.getElementById('CCDefault__ctl0_Topmenu1__ctl7_txtPassword');
-		if (pass.value == '' || trim(pass.value) == '')
-		{
-			var div1 = document.getElementById("showPassword");
-			div1.style.display = "inline";
-			var div2 = document.getElementById("encryptPassword");
-			div2.style.display = "none";
-			var txt =document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_txtPassword");
-			txt.focus();
-		}	
-	}
-	
-	function divPassVisibility ()
-	{
-		var div1 = document.getElementById("showPassword");
-		div1.style.display ="none";
-		var div2 = document.getElementById("encryptPassword");
-		div2.style.display = "inline";
-		var txt =document.getElementById("CCDefault__ctl0_Topmenu1__ctl7_txtPassword");
-		txt.focus();
-	}
-	
-	/// This Method is used by the the Key Enter
-	function enterKey(event){
-		if(event.which || event.keyCode) {
-			if ((event.which == 13) || (event.keyCode == 13)) {
-				Anthem_InvokeControlMethod('CCDefault__ctl0_Topmenu1__ctl7', 'enterKey', [], null);
-				return false;
-			}
-		}
-		return true;
-	}
-	
-</script>
-
-<!-- Leaders Club -->
 <div style="position:absolute;left:4px;top:7px;z-index:1;">
 	<a href="http://www.lhw.com/LeadersClub/lchome.aspx">
 		Leaders Club
 	</a>
 </div>
-<!-- not logged -->
+
+
 <div id="LoginError">
-<div id="CCDefault__ctl0_Topmenu1__ctl7_userReg" style="display:block;">
-	<div style="position:absolute;top:7px;color:#f15a22;left:106px;" id="Div2"><span>Login</span>:</div>
-	<div style="position:absolute;top:21px;left:106px;margin-right: 2px; width: 74px;">
-		<table cellpadding="0" cellspacing="0" class="headPHTable" width="74px" title="LC # or EMail" alt="LC # or EMail">
-			<tbody><tr>
-				<td>
-					<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_txtUserEmail__"><input name="CCDefault:_ctl0:Topmenu1:_ctl7:txtUserEmail" type="text" value="LC # or EMail" id="CCDefault__ctl0_Topmenu1__ctl7_txtUserEmail" title="LC # or EMail" class="headPHinputTxt headPHinputTxtLoginHome" onchange="CheckEmptyUser()" onblur="CheckEmptyUser()" onkeydown="return enterKey(event);" onfocus="if (this.value == 'LC # or EMail') this.value = '';"></span>		
-				</td>
-			</tr>
-		</tbody></table>
-		<table cellpadding="0" cellspacing="0" class="headPHTable" width="74px" style="margin-top:3px;">
-			<tbody><tr>
-				<td>
-					<div id="showPassword">
-						<input name="CCDefault:_ctl0:Topmenu1:_ctl7:Text1" id="CCDefault__ctl0_Topmenu1__ctl7_Text1" type="text" class="headPHinputTxt headPHinputTxtLoginHomePass" onfocus="divPassVisibility()" value="Password">
-					</div>
-					<div id="encryptPassword" style="display:none;">
-						<input name="CCDefault:_ctl0:Topmenu1:_ctl7:txtPassword" type="password" id="CCDefault__ctl0_Topmenu1__ctl7_txtPassword" class="headPHinputTxt headPHinputTxtLoginHomePass" onchange="CheckEmptyPass()" onblur="CheckEmptyPass()" onkeydown="return enterKey(event);">
-					</div> 
-				</td>
-				<td class="headPHTableTD">
-					<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_bttnAcc__"><input type="image" name="CCDefault:_ctl0:Topmenu1:_ctl7:bttnAcc" id="CCDefault__ctl0_Topmenu1__ctl7_bttnAcc" text=">" onclick="javascript:Anthem_FireCallBackEvent(this,event,'CCDefault:_ctl0:Topmenu1:_ctl7:bttnAcc','',false,'','','',true,showWaitingUser,null,null,true,true);return false;" src="http://www.lhw.com/images/newsArrow.png" alt="" border="0"></span>
-				</td>
-			</tr>
-		</tbody></table>
-	</div>
-
-</div>
-<!--SHOW ERROR  -->
-
-		<div id="showError" class="showError">
-			
-			<div class="ShowErrorSign"></div>
-				<div style="WIDTH: 259px; HEIGHT: 105px; BACKGROUND-COLOR: white; position:absolute; top:25px; right:20px">
-					<div style="position:absolute;top:15px;left:40px;z-index:1;width:200px;color: rgb(241, 90, 34); bold;">
-						<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_lblMessageError__"><span id="CCDefault__ctl0_Topmenu1__ctl7_lblMessageError"></span></span>
-					</div>  	
-	    	<div id="CCDefault__ctl0_Topmenu1__ctl7_Show1" style="position:absolute;top:65px;left:40px;z-index:1;">Forgot your password?</div>
-			<br>
-				<div style="position:relative;top:65px;left:40px;">
-					<a href="javascript:void(window.open('http://www.lhw.com/lostpass.aspx','', config='height=270,width=555'));" class="lnkUnderOrange"><span>Click here</span></a></div> 
-			</div>    
-	  			<div style="position:absolute;top:108px;right:24px;">
-				   <a href="#" onclick="$('showError').hide();return false;"><img src="http://www.lhw.com/images/closeBtn.gif" border="0"></a>
-			    </div>
-	   </div>  
-
-<!-- waiting panel -->
-<div id="CCDefault__ctl0_Topmenu1__ctl7_userWaiting" style="display:none;">
-	<div style="position: absolute; left:6px; top:7px;" key="TMenu_LeadersClub">
-
-	</div>
-	<div class="headMenuWaiting">
-	</div>
-</div>
-<!-- logged -->
-<div id="CCDefault__ctl0_Topmenu1__ctl7_userAcc" style="display:none;">
-	<div id="CCDefault__ctl0_Topmenu1__ctl7_DivMenu4">
-		<!-- LC Member -->
-		<div id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_pnlMember__"></div>
-		<div style="position:absolute;top:7px;left:106px;text-align:right;margin-right: 3px;color:#f15a22;">
-			<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_bttnLogout__"><a id="CCDefault__ctl0_Topmenu1__ctl7_bttnLogout" onclick="javascript:Anthem_FireCallBackEvent(this,event,'CCDefault:_ctl0:Topmenu1:_ctl7:bttnLogout','',false,'','','',true,showWaitingUser,null,null,true,true);return false;" href="javascript:__doPostBack('CCDefault$_ctl0$Topmenu1$_ctl7$bttnLogout','')" style="color:#f15a22;">Logout</a></span>
+	<div id="CCDefault__ctl0_Topmenu1__ctl5_userReg" style="display:block;">
+		<div class="TopMenuLoginText" id="Div2">
+			<span>Login</span>:
+		</div>
+		<div style="position:absolute;top:21px;left:106px;margin-right: 2px; width: 74px;">
+			<table cellpadding="0" cellspacing="0" class="headPHTable" width="74px" title="LC # or EMail" alt="LC # or EMail">
+				<tbody><tr>
+					<td>
+						<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_txtUserEmail__"><input name="CCDefault:_ctl0:Topmenu1:_ctl5:txtUserEmail" type="text" value="LC # or EMail" id="CCDefault__ctl0_Topmenu1__ctl5_txtUserEmail" title="LC # or EMail" class="headPHinputTxt headPHinputTxtLoginHome" onchange="CheckEmptyUser(this)" onblur="CheckEmptyUser(this)" onkeydown="return txtEnterKeyClick(event, 'CCDefault__ctl0_Topmenu1__ctl5_bttnAcc');" onfocus="if (this.value == 'LC # or EMail') this.value = '';" style="width:74px;"></span>
+					</td>
+				</tr>
+			</tbody></table>
+			<table cellpadding="0" cellspacing="0" class="headPHTable" width="74px" style="margin-top:3px;">
+				<tbody><tr>
+					<td>
+						<div id="showPassword">
+							<input name="CCDefault:_ctl0:Topmenu1:_ctl5:Text1" id="CCDefault__ctl0_Topmenu1__ctl5_Text1" type="text" class="headPHinputTxt headPHinputTxtLoginHomePass" style="width:58px;" onfocus="divPassVisibility('CCDefault__ctl0_Topmenu1__ctl5_txtPassword')" value="Password">
+						</div>
+						<div id="encryptPassword" style="display:none;">
+							<input name="CCDefault:_ctl0:Topmenu1:_ctl5:txtPassword" type="password" id="CCDefault__ctl0_Topmenu1__ctl5_txtPassword" class="headPHinputTxt headPHinputTxtLoginHomePass" onchange="CheckEmptyPass(this)" onblur="CheckEmptyPass(this)" onkeydown="return txtEnterKeyClick(event, 'CCDefault__ctl0_Topmenu1__ctl5_bttnAcc');" style="width:58px;">
+						</div> 
+					</td>
+					<td class="headPHTableTD">
+						<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_bttnAcc__"><input type="image" name="CCDefault:_ctl0:Topmenu1:_ctl5:bttnAcc" id="CCDefault__ctl0_Topmenu1__ctl5_bttnAcc" text=">" onclick="javascript:Anthem_FireCallBackEvent(this,event,'CCDefault:_ctl0:Topmenu1:_ctl5:bttnAcc','',false,'','','',true,function(){hideShow(['CCDefault__ctl0_Topmenu1__ctl5_userReg', 'CCDefault__ctl0_Topmenu1__ctl5_userAcc'], ['CCDefault__ctl0_Topmenu1__ctl5_userWaiting']);},null,null,true,true);return false;" src="http://www.lhw.com/images/newsArrow.png" alt="" border="0"></span>
+					</td>
+				</tr>
+			</tbody></table>
 		</div>
 	</div>
 	
-	<div id="Anthem_CCDefault__ctl0_Topmenu1__ctl7_login__"></div>
-	  
-</div>
-</div>
+	
+	<div id="showError" class="showError">
+		<div class="ShowErrorSign">
+		</div>
+		<div style="WIDTH: 259px; HEIGHT: 105px; BACKGROUND-COLOR: white; position:absolute; top:25px; right:20px">
+			<div style="position:absolute;top:15px;left:40px;z-index:1;width:200px;color: rgb(241, 90, 34); bold;">
+				<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_lblMessageError__"><span id="CCDefault__ctl0_Topmenu1__ctl5_lblMessageError"></span></span>
+			</div>  	
+			<div id="CCDefault__ctl0_Topmenu1__ctl5_Show1" style="position:absolute;top:65px;left:40px;z-index:1;">Forgot your password?</div>
+			<br>
+			<div style="position:relative;top:65px;left:40px;">
+				<a href="javascript:void(window.open('http://www.lhw.com/lostpass.aspx','', config='height=270,width=555'));" class="lnkUnderOrange"><span>Click here</span></a>
+			</div> 
+		</div>    
+		<div style="position:absolute;top:108px;right:24px;">
+			<a href="#" onclick="$('showError').hide();return false;"><img src="http://www.lhw.com/images/closeBtn.gif" border="0"></a>
+		</div>
+	</div>  
 
+	
+	<div id="CCDefault__ctl0_Topmenu1__ctl5_userWaiting" style="display:none;">
+		<div style="position: absolute; left:6px; top:7px;" key="TMenu_LeadersClub">
+
+		</div>
+		<div class="headMenuWaiting">
+		</div>
+	</div>
+	
+	
+	<div id="CCDefault__ctl0_Topmenu1__ctl5_userAcc" style="display:none;">
+		<div id="CCDefault__ctl0_Topmenu1__ctl5_DivMenu4">
+			
+			<div id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_pnlMember__"></div>
+			<div style="position:absolute;top:7px;left:106px;text-align:right;margin-right: 3px;color:#f15a22;">
+				<span id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_bttnLogout__"><a id="CCDefault__ctl0_Topmenu1__ctl5_bttnLogout" class="TopMenuLogoutText" onclick="javascript:Anthem_FireCallBackEvent(this,event,'CCDefault:_ctl0:Topmenu1:_ctl5:bttnLogout','',false,'','','',true,function(){hideShow(['CCDefault__ctl0_Topmenu1__ctl5_userReg', 'CCDefault__ctl0_Topmenu1__ctl5_userAcc'], ['CCDefault__ctl0_Topmenu1__ctl5_userWaiting']);},null,null,true,true);return false;" href="javascript:__doPostBack('CCDefault$_ctl0$Topmenu1$_ctl5$bttnLogout','')">Logout</a></span>
+			</div>
+		</div>
+		<div id="Anthem_CCDefault__ctl0_Topmenu1__ctl5_login__"></div>
+	</div>
+</div>
 	</div>
 </div>
 
 					
 						<div class="headNavMenu">
-						  	<!-- Hotels -->
+						  	
 							<div style="left:0px;" onmouseover="showCloud('CloudHotel');return false;" onmouseout="cancelCloud('CloudHotel');return false;">
 								<a id="lnkHotels" class="headNavMenuUnselected" href="http://www.lhw.com/findahotel.aspx">
 									Hotels
 								</a>						
 							</div>
 
-							<!-- Destinations  -->
+							
 							<div style="left:127px;" onmouseover="showCloud('CloudDestination');return false;" onmouseout="cancelCloud('CloudDestination');return false;">
 								<a id="lnkDestinations" class="headNavMenuUnselected" href="http://www.lhw.com/destinations.aspx">
 									Destinations
 								</a>
 							</div>
 
-							<!-- Experiences -->
+							
 							<div style="left:254px;">
 								<a id="lnkExperiences" class="headNavMenuUnselected" href="http://www.lhw.com/experiences.aspx">
 									Experiences
 								</a>
 							</div>
 
-							<!-- Leading Offers -->
+							
 							<div style="left:381px;">
 								<a id="lnkSpecialOffers" class="headNavMenuUnselected" href="http://www.lhw.com/specialoffers.aspx">
 									Leading Offers
 								</a>
 							</div>
-							<!-- Plan a Vacation -->
+							
 							<div style="left:507px;">
 								<a id="lnkPlanaVacation" class="headNavMenuUnselected" href="http://www.lhw.com/PlanaVacation.aspx">
 									Plan a Vacation
@@ -589,7 +328,7 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 						</div>
 					
 
-							<!-- Top Clouds -->
+							
 						<div class="topMiddleCloudStyle">
 							<div id="CloudHotel" onmouseout="hideCloud2('CloudHotel', event);" style="display: none;position: absolute"> 
 								
@@ -606,184 +345,59 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 
 		<div class="mapTopCloudHotel" style="position:absolute;top:3px;left:-175px;">
 			
-<script language="javascript">
-	
-	function toggleScrollbar(listSize)
-	{
-		if (listSize > 12)
-		{
-			$('inspectWindowScrollers').show();
-		} else {
-			$('inspectWindowScrollers').hide();
-		}
-	}
-	
-	//Scroll section
-	var posTop = 0;
-	
-	var mar = 0;
-	function moveScrolUp()
-	{
-		// 200 porq es el valor del height q tiene la pantalla a mostrar
-		mar = 200 - posTop;
-		if(e.scrollHeight > 200 && mar < e.scrollHeight){
-			e=document.getElementById("inspectWindow");
-			posTop = posTop - 10;
-			e.style.top = posTop + 'px';
-		}
-	}
-	
-	function moveScrolDown()
-	{
-		if(posTop!=0){
-			e=document.getElementById("inspectWindow");
-			posTop = posTop + 10;
-			e.style.top = posTop + 'px';
-		}	
-		
-	}
-	
-	function initScroll()
-	{
-		e=document.getElementById("inspectWindow");
-		posTop = 0;
-		e.style.top = posTop + 'px';
-		
-	}
-	
-</script>
-<!-- left filter panel-->
+
 <div class="hmpLeftPanel hmpLineSpaceSeparation">
 	<div class="hmpLeftPanelTitle">
 		<span id="CCDefault__ctl0_header__ctl5_MapTopCloud_textLeadingOffersTitle" class="homeMapTitle">Leading Offers</span>			
 	</div>
-	
-
-<h3><span>Leading Offers</span>:</h3>
-
-<div id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_leadingOffer_rptLeadingOffer__">
+	<div id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_leadingOffer_rptLeadingOffer__">
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="/shopbloomingdales.aspx?ext=BLOOM" class="lnkUnderline">Bloomingdale's Shopping Offer</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">A special U.S. shopping offer exclusively for Leading guests...</p>
+            <span>Leading Suites</span>         
+			</p><p class="hmpLeadingOfferDescription">Substantial savings on some of the world's most magnificent suites.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=16&amp;ext2=LEADINGSUITES" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="http://www.lhw.com/searchresults.aspx?offerid=122" class="lnkUnderline">Leading Arts and Culture</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">The Leading Hotels of the World will inspire you with Leading Arts and Culture. </p>
+            <span>One More Night 4 for 3</span>         
+			</p><p class="hmpLeadingOfferDescription">The temptation to linger without guilt.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=51&amp;ext2=OMN4FOR3" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="http://www.lhw.com/searchresults.aspx?offerid=123" class="lnkUnderline">Lap of Luxury Pet</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">Don’t Leave Without... Your Best Friend. Participating Leading Hotels offer attr...</p>
+            <span>One More Night 3 for 2</span>         
+			</p><p class="hmpLeadingOfferDescription">The temptation to linger without guilt.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=17&amp;ext2=OMN3FOR2" class="lnkUnderline">Learn More...</a>
+		<p></p>
+	
+		<p class="hmpLeadingOffer">
+            <span>Breakfast Inclusive</span>         
+			</p><p class="hmpLeadingOfferDescription">Let us give you one more reason to get out of bed – complimentary breakfast.</p>
+			<a href="http://www.lhw.com/searchresults.aspx?offerid=32" class="lnkUnderline">Learn More...</a>
+		<p></p>
+	
+		<p class="hmpLeadingOffer">
+            <span>The American Summer Sale</span>         
+			</p><p class="hmpLeadingOfferDescription">Enjoy savings of 30% through September 7, 2009 at America's finest hotels!</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=199&amp;ext2=SUMMER" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	</div>
 
 </div>
-<!-- /left filter panel-->
+
 
 <div class="hmpContainerPanel">
 	<div class="mapHome">
-		<div id="CCDefault__ctl0_header__ctl5_MapTopCloud_startYourQuest" style="font-family:Georgia;color:#f15a22;" class="selectRegion">
+		<div style="font-family:Georgia;color:#f15a22;" class="selectRegion">
 			<span id="CCDefault__ctl0_header__ctl5_MapTopCloud_textHomeMapTitle" class="homeMapTitle">Start your quest here</span>			
 		</div>
-		<!-- map -->
-<input name="CCDefault:_ctl0:header:_ctl5:MapTopCloud:txtCurrentContinent" id="CCDefault__ctl0_header__ctl5_MapTopCloud_txtCurrentContinent" type="text" style="display:none;">
-
-<input name="CCDefault:_ctl0:header:_ctl5:MapTopCloud:txtCurrentSubregion" id="CCDefault__ctl0_header__ctl5_MapTopCloud_txtCurrentSubregion" type="text" style="display:none;">
-
-<input name="CCDefault:_ctl0:header:_ctl5:MapTopCloud:txtcommandArgument" id="CCDefault__ctl0_header__ctl5_MapTopCloud_txtcommandArgument" type="text" style="display:none;">
-
-<div class="hmpCenterMapOver" id="hmpCenterMapOverCCDefault__ctl0_header__ctl5_MapTopCloud">
-	<img id="imgMapOverCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCCDefault__ctl0_header__ctl5_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapClick" id="hmpCenterMapClickCCDefault__ctl0_header__ctl5_MapTopCloud">
-	<img id="imgMapCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/worldDefault.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCCDefault__ctl0_header__ctl5_MapTopCloud">
-	<map name="MapCCDefault__ctl0_header__ctl5_MapTopCloud" id="MapCCDefault__ctl0_header__ctl5_MapTopCloud">
-		<area shape="poly" coords="42,83,40,96,45,109,51,115,53,145,63,154,60,142,85,101,59,81,49,77" href="#" alt="South America" title="South America" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(20)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(20)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(20, this, event);return false;">
-		<area shape="poly" coords="234,95,226,104,219,107,208,115,206,131,220,126,227,139,239,139,249,131,232,136,242,122,239,109,241,104,248,103,248,94,235,95" href="#" alt="Oceania" title="Oceania" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(23)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(23)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(23, this, event);return false;">
-		<area shape="poly" coords="96,53,86,67,92,85,108,84,114,100,120,129,129,128,136,113,144,110,143,119,149,117,151,104,142,107,141,100,143,92,152,78,143,79,133,54,120,53,111,49,96,53" href="#" alt="Africa" title="Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(16)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(16, this, event);return false;">
-		<area shape="poly" coords="1,19,15,13,39,15,39,12,51,7,72,4,82,5,109,4,106,12,101,16,87,24,80,21,82,13,79,9,75,7,70,11,74,16,76,18,70,22,64,19,66,17,59,19,60,22,55,22,50,23,47,27,52,30,54,33,59,27,63,22,66,25,70,26,74,32,73,38,67,37,66,40,59,43,50,49,44,57,43,63,39,58,33,59,30,61,29,68,31,71,34,67,37,69,34,73,32,75,16,66,9,46,12,26,1,29" href="#" alt="North America" title="North America" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(18)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(18)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(18, this, event);return false;">
-		<area shape="poly" coords="37,72,31,77,40,85,46,82,37,72" href="#" alt="Central America" title="Central America" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(19)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(19)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(19, this, event);return false;">
-		<area shape="poly" coords="38,66,47,63,61,71,61,80,46,76,40,72" href="#" alt="Carribean" title="Carribean" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(21)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(21, this, event);return false;">
-		<area shape="poly" coords="155,31,143,36,145,43,130,46,129,50,137,51,136,56,145,77,156,71,160,63,170,68,177,83,181,86,179,73,188,67,192,74,195,82,194,87,202,100,221,102,228,101,234,98,231,93,217,92,214,86,218,85,221,82,218,73,214,69,214,81,209,87,205,92,202,87,197,83,198,77,201,82,206,76,200,68,206,70,215,63,210,50,212,46,217,54,222,55,228,52,226,43,222,35,215,30,214,26,221,25,225,23,225,27,232,37,232,26,237,23,240,18,200,11,175,9,163,5,143,10" href="#" alt="Asia" title="Asia" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(22)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(22, this, event);return false;">
-		<area shape="poly" coords="144,10,154,30,141,36,145,43,129,45,126,52,119,45,118,51,113,43,113,48,109,43,105,49,99,51,96,42,103,41,102,35,97,34,100,28,102,23,106,27,108,32,113,30,110,25,111,21,118,15,128,13" href="#" alt="Europe" title="Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverContinent(17)" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectContinent(17, this, event);return false;">
-	</map>
-</div>
-
-<div class="hmpCenterMapEuropeOver" id="hmpCenterMapEuropeOverCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-	<img id="imgMapEuropeOverCCDefault__ctl0_header__ctl5_MapTopCloud" src="images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapEuropeCCDefault__ctl0_header__ctl5_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapEuropeClick" id="hmpCenterMapEuropeClickCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-	<img id="imgMapEuropeCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/europeDefault.gif" alt="europeMap" width="251" height="163" border="0" usemap="#MapEuropeCCDefault__ctl0_header__ctl5_MapTopCloud">
-	<map name="MapEuropeCCDefault__ctl0_header__ctl5_MapTopCloud" id="MapEuropeCCDefault__ctl0_header__ctl5_MapTopCloud">
-		<area shape="poly" coords="170,1,166,25,166,45,150,58,137,48,133,54,129,52,115,56,115,73,110,78,113,85,126,87,126,92,113,101,121,115,120,105,121,113,126,113,125,112,127,117,128,117,133,115,137,122,138,127,139,130,152,124,164,123,170,119,177,100,184,94,192,102,193,107,210,105,223,111,256,123,246,102,255,97,246,87,244,76,254,68,265,72,248,1" href="#" alt="Eastern Europe" title="Eastern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,31);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17, 31)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,31, this, event);return false;">
-		<area shape="poly" coords="140,1,126,16,131,23,139,9,147,0,174,1,164,26,166,43,150,57,141,50,142,36,138,33,135,33,131,35,131,39,125,39,125,42,111,50,96,52,89,35,79,31,78,13,100,0" href="#" alt="Northern Europe" title="Northern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,33);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,33, this, event);return false;">
-		<area shape="poly" coords="91,128,90,117,100,108,96,100,88,98,85,92,104,83,111,91,106,94,132,119,137,123,148,114,160,114,171,108,174,114,180,115,162,121,209,122,242,124,247,148,203,151,192,150,180,145,169,149,155,150,146,140,140,131,125,120,127,125,116,145,105,132,118,130,119,125,113,117,103,111,97,112,98,122,96,128" href="#" alt="Southern Europe" title="Southern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,32);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,32, this, event);return false;">
-		<area shape="poly" coords="57,20,31,37,33,46,24,50,17,56,16,65,18,70,32,65,36,55,42,53,40,61,32,77,62,71,63,62,49,44,52,37,46,36,51,29" href="#" alt="UK" title="UK" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,34);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,34, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.backToWorld(this, event,17); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,'0');" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)">
-		<area shape="poly" coords="66,73,38,85,52,97,50,113,26,110,15,114,15,131,14,149,22,148,29,155,37,150,47,150,74,131,54,130,70,119,68,113,75,112,91,122,94,122,81,94,88,84" href="#" alt="Western Europe" title="Western Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,30);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,30, this, event);return false;">
-		<area shape="poly" coords="69,74,89,83,83,92,84,102,104,93,111,100,125,93,124,88,114,87,109,78,115,73,114,55,102,55,92,55,88,60,78,62" href="#" alt="Central Europe" title="Central Europe" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(17,29);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(17,29, this, event);return false;">
-	</map>
-</div>
-
-<div class="hmpCenterMapAfricaOver" id="hmpCenterMapAfricaOverCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-	<img id="imgMapAfricaOverCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapAfricaCCDefault__ctl0_header__ctl5_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapAfricaClick" id="hmpCenterMapAfricaClickCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-  <img id="imgMapAfricaCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/africaDefault.gif" width="251" height="163" border="0" usemap="#MapAfricaCCDefault__ctl0_header__ctl5_MapTopCloud">
-    <map name="MapAfricaCCDefault__ctl0_header__ctl5_MapTopCloud" id="MapAfricaCCDefault__ctl0_header__ctl5_MapTopCloud">
-		<area shape="poly" coords="73,38,69,49,75,51,80,39,97,54,111,47,128,53,125,65,136,82,146,79,142,73,147,57,141,31,123,29,116,32,109,28,108,21,85,24,79,29,78,34" href="#" alt="Northern Africa" title="Northern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(16,24);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(16,24, this, event);return false;">
-		<area shape="poly" coords="149,56,159,70,169,66,163,83,150,97,153,116,156,107,160,103,167,115,160,136,156,134,155,126,154,122,149,120,143,125,145,132,139,138,136,130,133,127,126,121,125,113,128,109,135,112,134,105,140,103,136,97,134,90,139,83,145,80,143,74" href="#" alt="Eastern Africa" title="Eastern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(16,25);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(16,25, this, event);return false;">
-		<!--
-		<area shape="poly" coords="115,50,126,54,124,66,138,83,133,89,136,103,134,110,128,108,124,113,126,121,109,119,113,109,105,92,102,90,106,82,106,76,115,68,111,62,116,57" href="#" alt="Middle Africa" title="Middle Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(8,'3');" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(8)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(8,'3', this, event);return false;"/>
-		-->
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.backToWorld(this, event,16); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinetBack(16);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(16)">
-		<!--
-		<area shape="poly" coords="68,50,75,52,81,40,98,55,110,48,115,49,115,56,110,62,114,68,106,76,105,80,101,80,99,77,89,80,81,81,73,75,68,68,66,62,69,55" href="#" alt="Western Africa" title="Western Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(8,'4');" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(8)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(8,'4', this, event);return false;"/>
-	    -->
-	    <area shape="poly" coords="110,120,126,122,136,132,139,138,138,141,131,150,120,152,118,147,118,141,114,133" href="#" alt="Southern Africa" title="Southern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(16,28);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(16,28, this, event);return false;">
-    </map>
-</div>
-<div class="hmpCenterMapAsiaOver" id="hmpCenterMapAsiaOverCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-	<img id="imgMapAsiaOverCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapAsiaCCDefault__ctl0_header__ctl5_MapTopCloud">
-</div>
-<div class="hmpCenterMapAsiaClick" id="hmpCenterMapAsiaClickCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-  <img id="imgMapAsiaCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/asiaDefault.gif" width="251" height="163" border="0" usemap="#MapAsiaCCDefault__ctl0_header__ctl5_MapTopCloud">
-	<map name="MapAsiaCCDefault__ctl0_header__ctl5_MapTopCloud" id="MapAsiaCCDefault__ctl0_header__ctl5_MapTopCloud">
-		<!--
-		<area shape="poly" coords="72,46,78,43,89,46,88,40,100,37,107,39,124,49,115,64,111,67,114,70,107,71,100,71,97,75,87,69,85,70,79,59,82,53,73,52" href="#" alt="Central Asia" title="Central Asia" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(22,37);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(22,37, this, event);return false;"/>
-		-->
-		<area shape="poly" coords="125,48,131,45,137,47,136,43,145,46,149,46,154,49,159,47,164,47,163,41,168,41,185,51,189,49,188,54,186,56,187,59,188,64,186,66,192,73,196,73,202,67,200,59,201,56,205,58,207,63,207,69,207,74,200,78,196,84,194,89,191,94,185,97,181,95,175,97,171,99,165,97,160,96,156,100,150,93,153,87,146,85,142,88,133,87,121,79,122,73,117,74,115,71,111,68,120,57" href="#" alt="Eastern Asia " title="Eastern Asia " onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(22,38);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(22,38, this, event);return false;">
-		<area shape="poly" coords="152,87,147,90,143,98,148,108,146,118,151,132,159,141,161,147,180,153,197,154,218,153,219,142,204,138,201,133,196,126,196,116,189,108,187,102,184,111,184,119,182,123,178,128,174,132,171,134,170,128,165,129,161,126,157,122,157,116,161,115,164,121,166,121,170,118,170,113,166,104,163,101,166,98,160,97,156,101,148,94" href="#" alt="Southeast Asia" title="Southeast Asia" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(22,39);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(22,39, this, event);return false;">
-		<area shape="poly" coords="96,75,95,79,97,86,98,92,106,92,112,99,115,98,118,109,124,122,129,127,132,124,128,116,127,110,136,99,143,98,146,90,151,87,145,86,140,90,132,88,126,83,121,80,121,74,116,73,112,70,109,71,99,72" href="#" alt="Southern Asia" title="Southern Asia" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(22,40);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(22,40, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.backToWorld(this, event,22); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinetBack(22);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)">
-		<!--
-		<area shape="poly" coords="77,69,80,64,66,60,66,63,56,61,49,64,45,67,46,73,57,71,65,71" href="#" alt="Western Asia" title="Western Asia" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(3,'5');" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(3)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(3,'5', this, event);return false;"/>
-		-->
-		<area shape="poly" coords="77,70,69,72,59,72,60,86,73,115,90,107,96,98,91,93,97,92,94,78,94,75,89,71,81,71" href="#" alt="Middle East" title="Middle East" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(22,42);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(22,42, this, event);return false;">
-    </map>
-</div>
-<div class="hmpCenterMapCaribbeanOver" id="hmpCenterMapCaribbeanOverCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">
-	<img id="imgMapCaribbeanOverCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCaribbeanCCDefault__ctl0_header__ctl5_MapTopCloud">
-</div>
-<div class="hmpCenterMapCaribbeanClick" id="hmpCenterMapCaribbeanClickCCDefault__ctl0_header__ctl5_MapTopCloud" style="display: none;">  
-	<img id="imgMapCaribbeanCCDefault__ctl0_header__ctl5_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/caribbeanDefault.gif" width="251" height="163" border="0" usemap="#MapCaribbeanCCDefault__ctl0_header__ctl5_MapTopCloud">
-	  <map name="MapCaribbeanCCDefault__ctl0_header__ctl5_MapTopCloud" id="MapCaribbeanCCDefault__ctl0_header__ctl5_MapTopCloud">
-		<area shape="poly" coords="87,4,88,31,91,40,87,53,55,44,31,49,22,61,43,66,57,57,70,61,82,68,89,75,87,80,86,95,77,100,87,107,102,102,91,98,93,81,106,83,117,81,125,85,130,92,124,94,110,98,135,105,147,107,172,102,165,84,150,75,133,73,147,65,133,49,124,33,112,23,104,9,106,4" href="#" alt="Western Caribbean" title="Western Caribbean" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(21,35);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(21,35, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.backToWorld(this, event,21); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinetBack(21);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(21)">
-		<area shape="poly" coords="180,93,181,108,203,107,222,119,230,135,230,159,235,160,241,139,237,119,234,100,205,89,183,91" href="#" alt="Eastern Caribbean" title="Eastern Caribbean" onmouseover="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOverZoomcontinet(21,36);" onmouseout="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.rollOutZommContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl5_MapTopCloud.selectZoomRegion(21,36, this, event);return false;">
-	  </map>
-</div>
-		<!-- /map -->
+		
+		
+		<script type="text/javascript" language="javascript">
+			<!--
+			renderMap('CCDefault__ctl0_header__ctl5_MapTopCloud');
+			//-->
+		</script>
+	
 	</div>
 	
 			<div id="divInitialLegendCCDefault__ctl0_header__ctl5_MapTopCloud" class="hmpHomeFooterTitle" style="display:none;">						
@@ -807,39 +421,12 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 				<div id="containerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; top:35px;left:0px;OVERFLOW:hidden; height:140px;width:110px;" class="hasScrollScrollableArea  "><div id="inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position:relative;">
 					<div id="divHotelsListCCDefault__ctl0_header__ctl5_MapTopCloud">
 					</div>			
-				</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; top:190px;left:27px;"><div id="scroolUpCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div><script> var scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn = new Scroll(16,'containerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn','inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn','inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn');</script>
+				</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; top:190px;left:27px;"><div id="scroolUpCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div>
+<script type="text/javascript"><!--
+ var scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn = new Scroll(16,'containerCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn','inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn','inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saHotelsIn');
+//--></script>
+
 			</div>
-			<!--
-			
-<h3><span id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_Topdestinations_text__"><span id="CCDefault__ctl0_header__ctl5_MapTopCloud_Topdestinations_text" style="MARGIN-BOTTOM:3px"></span></span></h3>
-<div id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_Topdestinations_rptDestinationGuide__"></div>
-
-			-->
-		</div>
-		<div id="CCDefault__ctl0_header__ctl5_MapTopCloud_pnlWaiting" style="display:none;">
-			<img src="images/ajax-loader.gif">
-		</div>
-		<div id="CCDefault__ctl0_header__ctl5_MapTopCloud_pnlResults" style="display:none;">
-				<div style="position:absolute;top:0px; left:0px; OVERFLOW:hidden; HEIGHT: 180px; width:150px;">
-					<div id="inspectWindow" style="position: absolute; top: 0px;scrollAmount:2;">
-						
-<h3><span id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_destinations_text__"><span id="CCDefault__ctl0_header__ctl5_MapTopCloud_destinations_text" style="MARGIN-BOTTOM:3px"></span></span></h3>
-<div id="Anthem_CCDefault__ctl0_header__ctl5_MapTopCloud_destinations_rptDestinationGuide__"></div>
-
-					</div>
-				</div>
-				<div id="inspectWindowScrollers" style="position:absolute;top:201px;left:0px;">
-					<div style="position:absolute;left:0px;">
-						<a href="#" onclick="moveScrolDown();return false;" ondblclick="moveScrolDown();return false;">
-						<img src="http://www.lhw.com/images/scrollUp.gif" border="0/">
-						</a>
-					</div>
-					<div style="position:absolute;left:19px;">
-						<a href="#" onclick="moveScrolUp();return false;" ondblclick="moveScrolUp();return false;">
-						<img src="http://www.lhw.com/images/scrollDown.gif" border="0/"> &nbsp;&nbsp;
-						</a>
-					</div>
-				</div> 
 		</div>
 		<input name="CCDefault:_ctl0:header:_ctl5:MapTopCloud:txtCurrentRegion" id="CCDefault__ctl0_header__ctl5_MapTopCloud_txtCurrentRegion" type="text" style="display:none;">
 		<input name="CCDefault:_ctl0:header:_ctl5:MapTopCloud:hdnCurrentSubregion" id="CCDefault__ctl0_header__ctl5_MapTopCloud_hdnCurrentSubregion" type="hidden">
@@ -851,12 +438,17 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 			<div id="containerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:13px;left:0px;OVERFLOW:hidden; height:222px;width:160px;" class="hasScrollScrollableArea  "><div id="inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position:relative;">
 				<div id="divDGListCCDefault__ctl0_header__ctl5_MapTopCloud">
 				</div>
-			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:250px;left:0px;"><div id="scroolUpCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div><script> var scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides = new Scroll(16,'containerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides','inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides','inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides');</script>
+			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:250px;left:0px;"><div id="scroolUpCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div>
+<script type="text/javascript"><!--
+ var scrollcontainerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides = new Scroll(16,'containerCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides','inspectWindowCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides','inspectWindowScrollersCCDefault__ctl0_header__ctl5_MapTopCloud_saTopDestinationGuides');
+//--></script>
+
 		</div>
 	</div>
 </div>
-<!-- /rigth filter panel -->
-		<script>
+
+		<script type="text/javascript" language="javascript">
+		<!--
 			var hotelCCDefault__ctl0_header__ctl5_MapTopCloud = new HomeMap("imgMapCCDefault__ctl0_header__ctl5_MapTopCloud",
 															"imgMapOverCCDefault__ctl0_header__ctl5_MapTopCloud",
 															"hmpCenterMapOverCCDefault__ctl0_header__ctl5_MapTopCloud",
@@ -900,6 +492,7 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 															"divResultsGlobeLegendCCDefault__ctl0_header__ctl5_MapTopCloud",
 															'[Back]','http://www.lhw.com/'								
 															);
+		//-->
 		</script>
 		
 		</div>
@@ -923,189 +516,68 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 			<div id="containerCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; top:35px;left:7px;OVERFLOW:hidden; height:142px;width:140px;" class="hasScrollScrollableArea  "><div id="inspectWindowCCDefault__ctl0_header__ctl6_Scrollablearea" style="position:relative;">
 				<div id="divCountryListCCDefault__ctl0_header__ctl6Results">
 				</div>	
-			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; top:185px;left:7px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div><script> var scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_Scrollablearea','inspectWindowCCDefault__ctl0_header__ctl6_Scrollablearea','inspectWindowScrollersCCDefault__ctl0_header__ctl6_Scrollablearea');</script>
+			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; top:185px;left:7px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_Scrollablearea" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div>
+<script type="text/javascript"><!--
+ var scrollcontainerCCDefault__ctl0_header__ctl6_Scrollablearea = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_Scrollablearea','inspectWindowCCDefault__ctl0_header__ctl6_Scrollablearea','inspectWindowScrollersCCDefault__ctl0_header__ctl6_Scrollablearea');
+//--></script>
+
 		</div>
 	  
 		<div class="mapTopCloudDestination" style="position:absolute;top:3px;left:-175px;">
 			
-<script language="javascript">
-	
-	function toggleScrollbar(listSize)
-	{
-		if (listSize > 12)
-		{
-			$('inspectWindowScrollers').show();
-		} else {
-			$('inspectWindowScrollers').hide();
-		}
-	}
-	
-	//Scroll section
-	var posTop = 0;
-	
-	var mar = 0;
-	function moveScrolUp()
-	{
-		// 200 porq es el valor del height q tiene la pantalla a mostrar
-		mar = 200 - posTop;
-		if(e.scrollHeight > 200 && mar < e.scrollHeight){
-			e=document.getElementById("inspectWindow");
-			posTop = posTop - 10;
-			e.style.top = posTop + 'px';
-		}
-	}
-	
-	function moveScrolDown()
-	{
-		if(posTop!=0){
-			e=document.getElementById("inspectWindow");
-			posTop = posTop + 10;
-			e.style.top = posTop + 'px';
-		}	
-		
-	}
-	
-	function initScroll()
-	{
-		e=document.getElementById("inspectWindow");
-		posTop = 0;
-		e.style.top = posTop + 'px';
-		
-	}
-	
-</script>
-<!-- left filter panel-->
+
 <div class="hmpLeftPanel hmpLineSpaceSeparation">
 	<div class="hmpLeftPanelTitle">
 		<span id="CCDefault__ctl0_header__ctl6_MapTopCloud_textLeadingOffersTitle" class="homeMapTitle">Leading Offers</span>			
 	</div>
-	
-
-<h3><span>Leading Offers</span>:</h3>
-
-<div id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_leadingOffer_rptLeadingOffer__">
+	<div id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_leadingOffer_rptLeadingOffer__">
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="http://www.lhw.com/searchresults.aspx?offerid=80" class="lnkUnderline">Shop Around The World With Leading</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">Indulge in world class shopping experiences unique to its destination.</p>
+            <span>Leading Suites</span>         
+			</p><p class="hmpLeadingOfferDescription">Substantial savings on some of the world's most magnificent suites.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=16&amp;ext2=LEADINGSUITES" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="http://www.lhw.com/searchresults.aspx?offerid=81" class="lnkUnderline">With Love From Leading</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">Bask in romance and indulge one another with a signature romance experience.</p>
+            <span>One More Night 4 for 3</span>         
+			</p><p class="hmpLeadingOfferDescription">The temptation to linger without guilt.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=51&amp;ext2=OMN4FOR3" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	
 		<p class="hmpLeadingOffer">
-			</p><p class="hmpLeadingOfferTitle">
-            	<a href="http://www.lhw.com/searchresults.aspx?offerid=82" class="lnkUnderline">Leading Celebrations</a>
-            </p>
-			<p class="hmpLeadingOfferDescription">Celebrate your special occasion at the most celebrated hotels in the world.</p>
+            <span>One More Night 3 for 2</span>         
+			</p><p class="hmpLeadingOfferDescription">The temptation to linger without guilt.</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=17&amp;ext2=OMN3FOR2" class="lnkUnderline">Learn More...</a>
+		<p></p>
+	
+		<p class="hmpLeadingOffer">
+            <span>Breakfast Inclusive</span>         
+			</p><p class="hmpLeadingOfferDescription">Let us give you one more reason to get out of bed – complimentary breakfast.</p>
+			<a href="http://www.lhw.com/searchresults.aspx?offerid=32" class="lnkUnderline">Learn More...</a>
+		<p></p>
+	
+		<p class="hmpLeadingOffer">
+            <span>The American Summer Sale</span>         
+			</p><p class="hmpLeadingOfferDescription">Enjoy savings of 30% through September 7, 2009 at America's finest hotels!</p>
+			<a href="http://www.lhw.com/OfferPage.aspx?id=199&amp;ext2=SUMMER" class="lnkUnderline">Learn More...</a>
 		<p></p>
 	</div>
 
 </div>
-<!-- /left filter panel-->
+
 
 <div class="hmpContainerPanel">
 	<div class="mapHome">
-		<div id="CCDefault__ctl0_header__ctl6_MapTopCloud_startYourQuest" style="font-family:Georgia;color:#f15a22;" class="selectRegion">
+		<div style="font-family:Georgia;color:#f15a22;" class="selectRegion">
 			<span id="CCDefault__ctl0_header__ctl6_MapTopCloud_textHomeMapTitle" class="homeMapTitle">Start your quest here</span>			
 		</div>
-		<!-- map -->
-<input name="CCDefault:_ctl0:header:_ctl6:MapTopCloud:txtCurrentContinent" id="CCDefault__ctl0_header__ctl6_MapTopCloud_txtCurrentContinent" type="text" style="display:none;">
-
-<input name="CCDefault:_ctl0:header:_ctl6:MapTopCloud:txtCurrentSubregion" id="CCDefault__ctl0_header__ctl6_MapTopCloud_txtCurrentSubregion" type="text" style="display:none;">
-
-<input name="CCDefault:_ctl0:header:_ctl6:MapTopCloud:txtcommandArgument" id="CCDefault__ctl0_header__ctl6_MapTopCloud_txtcommandArgument" type="text" style="display:none;">
-
-<div class="hmpCenterMapOver" id="hmpCenterMapOverCCDefault__ctl0_header__ctl6_MapTopCloud">
-	<img id="imgMapOverCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCCDefault__ctl0_header__ctl6_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapClick" id="hmpCenterMapClickCCDefault__ctl0_header__ctl6_MapTopCloud">
-	<img id="imgMapCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/worldDefault.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCCDefault__ctl0_header__ctl6_MapTopCloud">
-	<map name="MapCCDefault__ctl0_header__ctl6_MapTopCloud" id="MapCCDefault__ctl0_header__ctl6_MapTopCloud">
-		<area shape="poly" coords="42,83,40,96,45,109,51,115,53,145,63,154,60,142,85,101,59,81,49,77" href="#" alt="South America" title="South America" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(20)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(20)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(20, this, event);return false;">
-		<area shape="poly" coords="234,95,226,104,219,107,208,115,206,131,220,126,227,139,239,139,249,131,232,136,242,122,239,109,241,104,248,103,248,94,235,95" href="#" alt="Oceania" title="Oceania" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(23)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(23)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(23, this, event);return false;">
-		<area shape="poly" coords="96,53,86,67,92,85,108,84,114,100,120,129,129,128,136,113,144,110,143,119,149,117,151,104,142,107,141,100,143,92,152,78,143,79,133,54,120,53,111,49,96,53" href="#" alt="Africa" title="Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(16)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(16, this, event);return false;">
-		<area shape="poly" coords="1,19,15,13,39,15,39,12,51,7,72,4,82,5,109,4,106,12,101,16,87,24,80,21,82,13,79,9,75,7,70,11,74,16,76,18,70,22,64,19,66,17,59,19,60,22,55,22,50,23,47,27,52,30,54,33,59,27,63,22,66,25,70,26,74,32,73,38,67,37,66,40,59,43,50,49,44,57,43,63,39,58,33,59,30,61,29,68,31,71,34,67,37,69,34,73,32,75,16,66,9,46,12,26,1,29" href="#" alt="North America" title="North America" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(18)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(18)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(18, this, event);return false;">
-		<area shape="poly" coords="37,72,31,77,40,85,46,82,37,72" href="#" alt="Central America" title="Central America" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(19)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(19)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(19, this, event);return false;">
-		<area shape="poly" coords="38,66,47,63,61,71,61,80,46,76,40,72" href="#" alt="Carribean" title="Carribean" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(21)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(21, this, event);return false;">
-		<area shape="poly" coords="155,31,143,36,145,43,130,46,129,50,137,51,136,56,145,77,156,71,160,63,170,68,177,83,181,86,179,73,188,67,192,74,195,82,194,87,202,100,221,102,228,101,234,98,231,93,217,92,214,86,218,85,221,82,218,73,214,69,214,81,209,87,205,92,202,87,197,83,198,77,201,82,206,76,200,68,206,70,215,63,210,50,212,46,217,54,222,55,228,52,226,43,222,35,215,30,214,26,221,25,225,23,225,27,232,37,232,26,237,23,240,18,200,11,175,9,163,5,143,10" href="#" alt="Asia" title="Asia" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(22)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(22, this, event);return false;">
-		<area shape="poly" coords="144,10,154,30,141,36,145,43,129,45,126,52,119,45,118,51,113,43,113,48,109,43,105,49,99,51,96,42,103,41,102,35,97,34,100,28,102,23,106,27,108,32,113,30,110,25,111,21,118,15,128,13" href="#" alt="Europe" title="Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverContinent(17)" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectContinent(17, this, event);return false;">
-	</map>
-</div>
-
-<div class="hmpCenterMapEuropeOver" id="hmpCenterMapEuropeOverCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-	<img id="imgMapEuropeOverCCDefault__ctl0_header__ctl6_MapTopCloud" src="images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapEuropeCCDefault__ctl0_header__ctl6_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapEuropeClick" id="hmpCenterMapEuropeClickCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-	<img id="imgMapEuropeCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/europeDefault.gif" alt="europeMap" width="251" height="163" border="0" usemap="#MapEuropeCCDefault__ctl0_header__ctl6_MapTopCloud">
-	<map name="MapEuropeCCDefault__ctl0_header__ctl6_MapTopCloud" id="MapEuropeCCDefault__ctl0_header__ctl6_MapTopCloud">
-		<area shape="poly" coords="170,1,166,25,166,45,150,58,137,48,133,54,129,52,115,56,115,73,110,78,113,85,126,87,126,92,113,101,121,115,120,105,121,113,126,113,125,112,127,117,128,117,133,115,137,122,138,127,139,130,152,124,164,123,170,119,177,100,184,94,192,102,193,107,210,105,223,111,256,123,246,102,255,97,246,87,244,76,254,68,265,72,248,1" href="#" alt="Eastern Europe" title="Eastern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,31);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17, 31)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,31, this, event);return false;">
-		<area shape="poly" coords="140,1,126,16,131,23,139,9,147,0,174,1,164,26,166,43,150,57,141,50,142,36,138,33,135,33,131,35,131,39,125,39,125,42,111,50,96,52,89,35,79,31,78,13,100,0" href="#" alt="Northern Europe" title="Northern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,33);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,33, this, event);return false;">
-		<area shape="poly" coords="91,128,90,117,100,108,96,100,88,98,85,92,104,83,111,91,106,94,132,119,137,123,148,114,160,114,171,108,174,114,180,115,162,121,209,122,242,124,247,148,203,151,192,150,180,145,169,149,155,150,146,140,140,131,125,120,127,125,116,145,105,132,118,130,119,125,113,117,103,111,97,112,98,122,96,128" href="#" alt="Southern Europe" title="Southern Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,32);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,32, this, event);return false;">
-		<area shape="poly" coords="57,20,31,37,33,46,24,50,17,56,16,65,18,70,32,65,36,55,42,53,40,61,32,77,62,71,63,62,49,44,52,37,46,36,51,29" href="#" alt="UK" title="UK" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,34);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,34, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.backToWorld(this, event,17); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,'0');" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)">
-		<area shape="poly" coords="66,73,38,85,52,97,50,113,26,110,15,114,15,131,14,149,22,148,29,155,37,150,47,150,74,131,54,130,70,119,68,113,75,112,91,122,94,122,81,94,88,84" href="#" alt="Western Europe" title="Western Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,30);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,30, this, event);return false;">
-		<area shape="poly" coords="69,74,89,83,83,92,84,102,104,93,111,100,125,93,124,88,114,87,109,78,115,73,114,55,102,55,92,55,88,60,78,62" href="#" alt="Central Europe" title="Central Europe" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(17,29);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(17)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(17,29, this, event);return false;">
-	</map>
-</div>
-
-<div class="hmpCenterMapAfricaOver" id="hmpCenterMapAfricaOverCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-	<img id="imgMapAfricaOverCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapAfricaCCDefault__ctl0_header__ctl6_MapTopCloud">
-</div>
-
-<div class="hmpCenterMapAfricaClick" id="hmpCenterMapAfricaClickCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-  <img id="imgMapAfricaCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/africaDefault.gif" width="251" height="163" border="0" usemap="#MapAfricaCCDefault__ctl0_header__ctl6_MapTopCloud">
-    <map name="MapAfricaCCDefault__ctl0_header__ctl6_MapTopCloud" id="MapAfricaCCDefault__ctl0_header__ctl6_MapTopCloud">
-		<area shape="poly" coords="73,38,69,49,75,51,80,39,97,54,111,47,128,53,125,65,136,82,146,79,142,73,147,57,141,31,123,29,116,32,109,28,108,21,85,24,79,29,78,34" href="#" alt="Northern Africa" title="Northern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(16,24);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(16,24, this, event);return false;">
-		<area shape="poly" coords="149,56,159,70,169,66,163,83,150,97,153,116,156,107,160,103,167,115,160,136,156,134,155,126,154,122,149,120,143,125,145,132,139,138,136,130,133,127,126,121,125,113,128,109,135,112,134,105,140,103,136,97,134,90,139,83,145,80,143,74" href="#" alt="Eastern Africa" title="Eastern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(16,25);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(16,25, this, event);return false;">
-		<!--
-		<area shape="poly" coords="115,50,126,54,124,66,138,83,133,89,136,103,134,110,128,108,124,113,126,121,109,119,113,109,105,92,102,90,106,82,106,76,115,68,111,62,116,57" href="#" alt="Middle Africa" title="Middle Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(8,'3');" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(8)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(8,'3', this, event);return false;"/>
-		-->
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.backToWorld(this, event,16); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinetBack(16);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(16)">
-		<!--
-		<area shape="poly" coords="68,50,75,52,81,40,98,55,110,48,115,49,115,56,110,62,114,68,106,76,105,80,101,80,99,77,89,80,81,81,73,75,68,68,66,62,69,55" href="#" alt="Western Africa" title="Western Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(8,'4');" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(8)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(8,'4', this, event);return false;"/>
-	    -->
-	    <area shape="poly" coords="110,120,126,122,136,132,139,138,138,141,131,150,120,152,118,147,118,141,114,133" href="#" alt="Southern Africa" title="Southern Africa" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(16,28);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(16)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(16,28, this, event);return false;">
-    </map>
-</div>
-<div class="hmpCenterMapAsiaOver" id="hmpCenterMapAsiaOverCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-	<img id="imgMapAsiaOverCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapAsiaCCDefault__ctl0_header__ctl6_MapTopCloud">
-</div>
-<div class="hmpCenterMapAsiaClick" id="hmpCenterMapAsiaClickCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-  <img id="imgMapAsiaCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/asiaDefault.gif" width="251" height="163" border="0" usemap="#MapAsiaCCDefault__ctl0_header__ctl6_MapTopCloud">
-	<map name="MapAsiaCCDefault__ctl0_header__ctl6_MapTopCloud" id="MapAsiaCCDefault__ctl0_header__ctl6_MapTopCloud">
-		<!--
-		<area shape="poly" coords="72,46,78,43,89,46,88,40,100,37,107,39,124,49,115,64,111,67,114,70,107,71,100,71,97,75,87,69,85,70,79,59,82,53,73,52" href="#" alt="Central Asia" title="Central Asia" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(22,37);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(22,37, this, event);return false;"/>
-		-->
-		<area shape="poly" coords="125,48,131,45,137,47,136,43,145,46,149,46,154,49,159,47,164,47,163,41,168,41,185,51,189,49,188,54,186,56,187,59,188,64,186,66,192,73,196,73,202,67,200,59,201,56,205,58,207,63,207,69,207,74,200,78,196,84,194,89,191,94,185,97,181,95,175,97,171,99,165,97,160,96,156,100,150,93,153,87,146,85,142,88,133,87,121,79,122,73,117,74,115,71,111,68,120,57" href="#" alt="Eastern Asia " title="Eastern Asia " onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(22,38);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(22,38, this, event);return false;">
-		<area shape="poly" coords="152,87,147,90,143,98,148,108,146,118,151,132,159,141,161,147,180,153,197,154,218,153,219,142,204,138,201,133,196,126,196,116,189,108,187,102,184,111,184,119,182,123,178,128,174,132,171,134,170,128,165,129,161,126,157,122,157,116,161,115,164,121,166,121,170,118,170,113,166,104,163,101,166,98,160,97,156,101,148,94" href="#" alt="Southeast Asia" title="Southeast Asia" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(22,39);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(22,39, this, event);return false;">
-		<area shape="poly" coords="96,75,95,79,97,86,98,92,106,92,112,99,115,98,118,109,124,122,129,127,132,124,128,116,127,110,136,99,143,98,146,90,151,87,145,86,140,90,132,88,126,83,121,80,121,74,116,73,112,70,109,71,99,72" href="#" alt="Southern Asia" title="Southern Asia" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(22,40);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(22,40, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.backToWorld(this, event,22); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinetBack(22);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)">
-		<!--
-		<area shape="poly" coords="77,69,80,64,66,60,66,63,56,61,49,64,45,67,46,73,57,71,65,71" href="#" alt="Western Asia" title="Western Asia" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(3,'5');" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(3)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(3,'5', this, event);return false;"/>
-		-->
-		<area shape="poly" coords="77,70,69,72,59,72,60,86,73,115,90,107,96,98,91,93,97,92,94,78,94,75,89,71,81,71" href="#" alt="Middle East" title="Middle East" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(22,42);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(22)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(22,42, this, event);return false;">
-    </map>
-</div>
-<div class="hmpCenterMapCaribbeanOver" id="hmpCenterMapCaribbeanOverCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">
-	<img id="imgMapCaribbeanOverCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/blank.gif" alt="worldMap" width="251" height="163" border="0" usemap="#MapCaribbeanCCDefault__ctl0_header__ctl6_MapTopCloud">
-</div>
-<div class="hmpCenterMapCaribbeanClick" id="hmpCenterMapCaribbeanClickCCDefault__ctl0_header__ctl6_MapTopCloud" style="display: none;">  
-	<img id="imgMapCaribbeanCCDefault__ctl0_header__ctl6_MapTopCloud" src="http://www.lhw.com/images/HomeMap2/caribbeanDefault.gif" width="251" height="163" border="0" usemap="#MapCaribbeanCCDefault__ctl0_header__ctl6_MapTopCloud">
-	  <map name="MapCaribbeanCCDefault__ctl0_header__ctl6_MapTopCloud" id="MapCaribbeanCCDefault__ctl0_header__ctl6_MapTopCloud">
-		<area shape="poly" coords="87,4,88,31,91,40,87,53,55,44,31,49,22,61,43,66,57,57,70,61,82,68,89,75,87,80,86,95,77,100,87,107,102,102,91,98,93,81,106,83,117,81,125,85,130,92,124,94,110,98,135,105,147,107,172,102,165,84,150,75,133,73,147,65,133,49,124,33,112,23,104,9,106,4" href="#" alt="Western Caribbean" title="Western Caribbean" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(21,35);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(21,35, this, event);return false;">
-		<area shape="circle" coords="15,17,11" href="#" alt="Back to World Map" title="Back to World Map" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.backToWorld(this, event,21); return false;" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinetBack(21);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(21)">
-		<area shape="poly" coords="180,93,181,108,203,107,222,119,230,135,230,159,235,160,241,139,237,119,234,100,205,89,183,91" href="#" alt="Eastern Caribbean" title="Eastern Caribbean" onmouseover="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOverZoomcontinet(21,36);" onmouseout="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.rollOutZommContinent(21)" onclick="hotelCCDefault__ctl0_header__ctl6_MapTopCloud.selectZoomRegion(21,36, this, event);return false;">
-	  </map>
-</div>
-		<!-- /map -->
+		
+		
+		<script type="text/javascript" language="javascript">
+			<!--
+			renderMap('CCDefault__ctl0_header__ctl6_MapTopCloud');
+			//-->
+		</script>
+	
 	</div>
 	
 			<div id="divInitialLegendCCDefault__ctl0_header__ctl6_MapTopCloud" class="hmpHomeFooterTitle" style="display:none;">						
@@ -1129,39 +601,12 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 				<div id="containerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; top:13px;left:0px;OVERFLOW:hidden; height:222px;width:110px;" class="hasScrollScrollableArea  "><div id="inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position:relative;">
 					<div id="divHotelsListCCDefault__ctl0_header__ctl6_MapTopCloud">
 					</div>			
-				</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; top:250px;left:0px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div><script> var scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn','inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn','inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn');</script>
+				</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; top:250px;left:0px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div>
+<script type="text/javascript"><!--
+ var scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn','inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn','inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saHotelsIn');
+//--></script>
+
 			</div>
-			<!--
-			
-<h3><span id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_Topdestinations_text__"><span id="CCDefault__ctl0_header__ctl6_MapTopCloud_Topdestinations_text" style="MARGIN-BOTTOM:3px"></span></span></h3>
-<div id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_Topdestinations_rptDestinationGuide__"></div>
-
-			-->
-		</div>
-		<div id="CCDefault__ctl0_header__ctl6_MapTopCloud_pnlWaiting" style="display:none;">
-			<img src="images/ajax-loader.gif">
-		</div>
-		<div id="CCDefault__ctl0_header__ctl6_MapTopCloud_pnlResults" style="display:none;">
-				<div style="position:absolute;top:0px; left:0px; OVERFLOW:hidden; HEIGHT: 180px; width:150px;">
-					<div id="inspectWindow" style="position: absolute; top: 0px;scrollAmount:2;">
-						
-<h3><span id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_destinations_text__"><span id="CCDefault__ctl0_header__ctl6_MapTopCloud_destinations_text" style="MARGIN-BOTTOM:3px"></span></span></h3>
-<div id="Anthem_CCDefault__ctl0_header__ctl6_MapTopCloud_destinations_rptDestinationGuide__"></div>
-
-					</div>
-				</div>
-				<div id="inspectWindowScrollers" style="position:absolute;top:201px;left:0px;">
-					<div style="position:absolute;left:0px;">
-						<a href="#" onclick="moveScrolDown();return false;" ondblclick="moveScrolDown();return false;">
-						<img src="http://www.lhw.com/images/scrollUp.gif" border="0/">
-						</a>
-					</div>
-					<div style="position:absolute;left:19px;">
-						<a href="#" onclick="moveScrolUp();return false;" ondblclick="moveScrolUp();return false;">
-						<img src="http://www.lhw.com/images/scrollDown.gif" border="0/"> &nbsp;&nbsp;
-						</a>
-					</div>
-				</div> 
 		</div>
 		<input name="CCDefault:_ctl0:header:_ctl6:MapTopCloud:txtCurrentRegion" id="CCDefault__ctl0_header__ctl6_MapTopCloud_txtCurrentRegion" type="text" style="display:none;">
 		<input name="CCDefault:_ctl0:header:_ctl6:MapTopCloud:hdnCurrentSubregion" id="CCDefault__ctl0_header__ctl6_MapTopCloud_hdnCurrentSubregion" type="hidden">
@@ -1173,12 +618,17 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 			<div id="containerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:35px;left:0px;OVERFLOW:hidden; height:140px;width:160px;" class="hasScrollScrollableArea  "><div id="inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position:relative;">
 				<div id="divDGListCCDefault__ctl0_header__ctl6_MapTopCloud">
 				</div>
-			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:194px;left:25px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div><script> var scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides','inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides','inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides');</script>
+			</div></div><div id="inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; top:194px;left:25px;"><div id="scroolUpCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:0px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolDown();return false;"> <img src="http://www.lhw.com/images/scrollUp.gif" border="0"></a></div><div id="scroolDownCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides" style="position: absolute; left:19px;"><a href="#" onclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;" ondblclick="scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides.moveScrolUp();return false;"> <img src="http://www.lhw.com/images/scrollDown.gif" border="0"></a></div></div>
+<script type="text/javascript"><!--
+ var scrollcontainerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides = new Scroll(16,'containerCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides','inspectWindowCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides','inspectWindowScrollersCCDefault__ctl0_header__ctl6_MapTopCloud_saTopDestinationGuides');
+//--></script>
+
 		</div>
 	</div>
 </div>
-<!-- /rigth filter panel -->
-		<script>
+
+		<script type="text/javascript" language="javascript">
+		<!--
 			var hotelCCDefault__ctl0_header__ctl6_MapTopCloud = new HomeMap("imgMapCCDefault__ctl0_header__ctl6_MapTopCloud",
 															"imgMapOverCCDefault__ctl0_header__ctl6_MapTopCloud",
 															"hmpCenterMapOverCCDefault__ctl0_header__ctl6_MapTopCloud",
@@ -1222,6 +672,7 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 															"divResultsGlobeLegendCCDefault__ctl0_header__ctl6_MapTopCloud",
 															'[Back]','http://www.lhw.com/'								
 															);
+		//-->
 		</script>
 		
 		</div>
@@ -1236,15 +687,15 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 				</div>
 			
 		</div>
-		<!-- /header -->
 		
-		<!-- extra header -->
+		
+		
 		<div id="CCDefault__ctl0_HeaderExtra_Div1" style="top:88px;position:absolute;font-family:Georgia;font-size:9px;letter-spacing:2px;">
 				EVERY QUEST HAS A BEGINNING
 			</div>
-		<!-- extra header -->
 		
-		<!-- main content -->
+		
+		
 		    <div id="content" class="mainBody">
 		        <div style="display:none" class="WaitingIcon" id="waitingIcon">	
 					<table cellpadding="0" cellspacing="0" border="0">
@@ -1263,22 +714,8 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 
 <div class="expDivMain" style="border-bottom:1px solid #666666;">
 
-
-<script type="text/javascript" language="javascript">
-	function ChangeLinkStyleOver(link) {
-		link = $(link);
-		link.removeClassName('lnkBCCommon');
-		link.addClassName('lnkBCOrangeUnderline');
-	}
-	
-	function ChangeLinkStyleOut(link) {
-		link = $(link);
-		link.removeClassName('lnkBCOrangeUnderline');
-		link.addClassName('lnkBCCommon');
-	}
-</script>
 <div class="divBreadCrumbs">
-	<a href="http://www.lhw.com/Home.aspx" onmouseover="ChangeLinkStyleOver(this);" onmouseout="ChangeLinkStyleOut(this);" class="lnkBCCommon">Home</a> &gt; <span class="lnkBCCommon"> Privacy Policy</span>
+	<a href="http://www.lhw.com/Home.aspx" class="lnkBCCommon">Home</a> &gt; <span class="lnkBCCommon"> Privacy Policy</span>
 </div> 
 	<div class="roomTitle"> <h1>Privacy Policy</h1></div>
 </div>
@@ -1286,7 +723,50 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
     <table id="Table4" cellspacing="0" cellpadding="0" width="730" border="0">
         <tbody><tr>
             <td class="hotelTxt" height="500px">
-                 <p class="brownHead"><b>The Leading Hotels of the World, Ltd. Privacy Policy</b></p> <p>Your privacy is very important to Leading Hotels of the World, Ltd ("we" or "us"). With that in mind, we have established and implemented information handling practices for www.lhw.com ("site") that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This privacy policy ("policy") describes the practices that apply to our site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our site. </p> <p><b>Simply put:</b></p> <ul type="disc"> <li>we will not collect personally identifiable information like your name, e-mail and mailing address and telephone number ("Personal Information") without your knowledge and permission;</li> <li>we will not disclose your Personal Information to third parties unless you have authorized us to do so;</li> <li>we will allow you to view, correct or remove your Personal Information and other information associated with your registration as a user of our site; and </li> <li>we will take reasonable steps to protect the security of the Personal Information we collect from you. </li> </ul> <p>The remainder of this policy describes our information handling practices in detail. </p> <p><b>Visiting</b><br>You can always visit our site without revealing who you are or providing any Personal Information. When you visit our site or visit our site through one of our partner's sites, we do collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We use session data to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use. </p> <p><b>Cookies</b>. <br> We may place a "cookie" on your personal computer. A Cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. For example, we use cookies to keep track of your use of our site, gather data to improve the content of our site, provide information that may be of interest to you and improve the security of your experience with us. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, you will still be able to access those parts of our site that are available to the general public, but you will not be able to view some information on our site, use some features designed to enhance your experience at our site or access many of the services offered at our site. </p> <p class="brownHead"><b>Registering</b></p> <p><b>Personal Information</b>. <br> If you decide to register with us, we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. As mentioned, this Personal Information includes things like your name, e-mail and mailing address and telephone number. You will provide an e-mail address and select a password that will be required to gain access to portions of our site. </p> <p><b>Other Information</b>. <br> You may decide to share other information ("Other Information") with us about yourself (for example, demographic information like your age and gender) and your travel preferences and experiences (for example, seat selection, participation in airline/hotel/car-rental loyalty or awards programs and applicable membership numbers, meal requests and ticketing options). If you share Other Information with us, we will use it to automatically record your travel preferences in reservations you make, tailor your experience at our site to your interests and make more appropriate travel recommendations to you. You may still use our site to search for and purchase travel services even if you choose not to share this type of information with us. </p> <p><b>Opt-out</b>. <br> As part of the registration process, we give you important choices ("opt-in") about advertisements, updates and promotions. We hope you will find these items interesting and informative. Nonetheless, you will let us know if you do not want us to use your e-mail addresses to deliver to you: (1) our bi-weekly deals update highlighting hotel specials, promotions, contests, sweepstakes and other travel opportunities available on our site and/or sponsored by our travel service providers and advertisers.If you do not opt-in to receive these communications about our site, we will not send them to you. </p> <p><b>Purchasing, Booking Or Reserving Travel Services or Accommodations</b></p> <p><b>Payment Information and Travel History</b>. <br> If you register with us, you will be able to book, reserve or purchase travel services or accommodations through our site. To do so, you must provide payment information to us - for example, your credit card specifics like card number, issuing bank, expiration date, cardholder name and billing address. We will add this payment information to your Traveler Profile. We will keep a history of all your reservations, bookings and purchases of travel services and accommodations through our site in your account information, unless you choose to edit your account information as described below in this policy (<i>Changing and Removing Personal Information and Other Information</i>). </p> <p><b>Sharing of Personal Information</b>. <br> Generally, we only disclose your Personal Information to those travel providers that you decide to make arrangements with through our site. For example, when you reserve a hotel room, we will provide the hotel with the Personal Information needed to process your transaction. We use our reasonable efforts to ensure that these travel providers will also protect your Personal Information. We contract with other companies to perform various functions necessary to operate our business - for example, to deliver tickets, ship items and process credit cards. We will share with these other companies only that Personal Information they require to fulfill your orders. These companies agree that they will not use or disclose that Personal Information for any other purpose. Other than as explained in this policy, we will not disclose any Personal Information we collect from you to others without your permission, except in certain limited circumstances: (a) to protect the security of our site; (b) to protect ourselves against liability; (c) in response to legal process, (d) if we believe in good faith that the law requires it; or (e) in connection with a sale of our business or company. Please note that if we receive a formal request to disclose your Personal Information in connection with a legal action, we will attempt to tell you about it at least ten (10) days before we respond to that request, if permitted by law, via the e-mail address you provided during registration. </p> <p><b>Combined Non-Personal Information</b>. <br> We may also combine anonymous information supplied by you and other users during registration on our site with information about your use and others' use of our site. We will use this combined information to describe our user base, without reference to any specific individual, to potential partners, investors and advertisers. We will not share your Personal Information with any other users of our site, but we may use information we collect about your travel preferences and experiences to make recommendations to other users of our site. For example, if we know that you and other users of our site who have traveled to a particular destination had positive experiences at a hotel in that destination, we might recommend that hotel to others who will be traveling to that destination. We may also share aggregated statistical information about users of our site and our service and product offerings with others, including our vendors and partners. We will not link this statistical information to any Personal Information that can identify you as an individual. </p> <p><b>Additional Products and Services</b>. <br> We may partner with other companies to offer you additional products or services. If you sign up for any of these additional products or services, we will share your name and any other Personal Information that is necessary for these other companies to provide the products or services you have signed up for. This policy will not cover the use of your Personal Information by these other companies. We encourage you to read each other company's privacy policy before signing up for any of its products or services. </p> <p><b>Notification of Changes</b>... <br> We may change this policy from time to time. If we decide to change this policy in a material way (for example, a change regarding disclosure of Personal Information), we will post notice of the change on our site and notify you via e-mail at the address you have provided to us or pop-up screen at least thirty (30) days before putting the change into effect. If we decide to change our policy in a less significant way, we will simply post notice of the change on our site at least thirty (30) days before putting the change into effect. If any proposed change is unacceptable to you, you may request to that we remove your personal information (and/or that of other individuals for whom you made your travel reservations) from our records. </p> <p><b>Links</b>... <br> Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy. </p> <p class="brownHead"><a name="p12"><b>Contact Information</b></a></p> <p>If you have any questions or concerns about (a) access to Personal Information, (b) the collection, use, management or disclosure of Personal Information, or (c) this policy or our information handling practices, (d) with whom your Personal Information is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Customer Service department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. </p> <p>Email:<a href="mailto:info@lhw.com">info@lhw.com</a><br><br> <b>Mailing Address:</b><br> Leading Hotels of the World, Ltd. <br> 99 Park Ave. <br> New York,<br> NY 10016 USA</p><br><br>
+                 
+        <p class="brownHead"><b>
+        The Leading Hotels of the World, Ltd. Privacy Policy</b></p> 
+        <p>Your privacy is very important to Leading Hotels of the World, Ltd "we" or "us"). With that in mind, we have established and implemented information handling practices for www.lhw.com ("site") that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This privacy policy ("policy") describes the practices that apply to our site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our site. </p> 
+        <p><b>Simply put:</b></p> 
+           <ul class="ulCircle"> 
+           <li>we will not collect personally identifiable information like your name, e-mail and mailing address and telephone number ("Personal Information") without your knowledge and permission in advance;</li> 
+           <li>we will not disclose your Personal Information to third parties unless you have authorized us to do so in advance</li> 
+           <li>we will allow you to view, correct or remove your Personal Information and other information associated with your registration as a user of our site; and </li> 
+           <li>we will take reasonable steps to protect the security of the Personal Information we collect from you</li>
+           </ul>
+         <p>The remainder of this policy describes our information handling practices in detail.  </p> 
+        <p><b>Visiting</b>
+        <br>You can always visit our site without revealing who you are or providing any Personal Information. When you visit our site or visit our site through one of our partner's sites, we do collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We use session data to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use. </p> 
+        <p><b>Cookies</b>. 
+        <br> We may place a "cookie" on your personal computer. A Cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. For example, we use cookies to keep track of your use of our site, gather data to improve the content of our site, provide information that may be of interest to you and improve the security of your experience with us. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, you will still be able to access those parts of our site that are available to the general public, but you will not be able to view some information on our site, use some features designed to enhance your experience at our site or access services offered at our site. </p> 
+        <p class="brownHead">
+        <b>Registering</b></p>
+        <p><b>Personal Information</b>. 
+        <br> If you decide to register with us or to make a reservation on this site, we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. As mentioned, this Personal Information includes things like your name, e-mail and mailing address and telephone number. You will provide an e-mail address and select a password that will be required to gain access to portions of our site.  </p> 
+        <p><b>Other Information</b>.
+        <br> You may decide to share other information ("Other Information") with us about yourself (for example, demographic information like your age and gender) and your travel preferences and experiences (for example, seat selection, participation in airline/hotel/car-rental loyalty or awards programs and applicable membership numbers, meal requests and ticketing options). If you share Other Information with us, we will use it to automatically record your travel preferences in reservations you make, tailor your experience at our site to your interests and make more appropriate travel recommendations to you. You may still use our site to search for and purchase travel services even if you choose not to share this type of information with us. </p> 
+        <p><b>Opt-out</b>. 
+        <br> As part of the registration process, we give you important choices ("opt-in")about advertisements, updates and promotions. We hope you will find these items interesting and informative. Nonetheless, we will only send you this information if you register in advance and let us know that you would like us to use your e-mail addresses to deliver to you: (1) our bi-weekly deals update highlighting hotel specials, promotions, contests, sweepstakes and other travel opportunities available on our site and/or sponsored by our travel service providers and advertisers.  If you do not opt-in to receive these communications about our site, we will not send them to you and even if you do opt in, you will have the opportunity at any time to opt out if you change your mind.  </p>
+        <p><b>Purchasing, Booking Or Reserving Travel Services or Accommodations</b></p> 
+        <p><b>Payment Information and Travel History</b>.
+        <br> Whether or not you register with us, you will be able to book, reserve or purchase travel services or accommodations through our site. To do so, you must provide payment information to us - for example, your credit card specifics like card number, issuing bank, expiration date, cardholder name and billing address. If you have registered with us as part of our Leader’s Club program, we will add this payment information to your Traveler Profile. We will keep a history of all your reservations, bookings and purchases of travel services and accommodations through our site in your account information, unless you choose to edit your account information as described below in this policy 
+          (<i>Changing and Removing Personal Information and Other Information</i>). </p> 
+        <p><b>Sharing of Personal Information</b>. 
+        <br>We may also combine anonymous information supplied by you and other users during registration on our site with information about your use and others' use of our site. We will use this combined information to describe our user base, without reference to any specific individual, to potential partners, investors and advertisers. We will not share your Personal Information with any other users of our site, but we may use information we collect about your travel preferences and experiences to make recommendations to other users of our site. For example, if we know that you and other users of our site who have traveled to a particular destination had positive experiences at a hotel in that destination, we might recommend that hotel to others who will be traveling to that destination. We may also share aggregated statistical information about users of our site and our service and product offerings with others, including our vendors and partners. We will not link this statistical information to any Personal Information that can identify you as an individual.  </p> 
+        <p><b>Combined Non-Personal Information</b>. 
+        <br> We may also combine anonymous information supplied by you and other users during registration on our site with information about your use and others' use of our site. We will use this combined information to describe our user base, without reference to any specific individual, to potential partners, investors and advertisers. We will not share your Personal Information with any other users of our site, but we may use information we collect about your travel preferences and experiences to make recommendations to other users of our site. For example, if we know that you and other users of our site who have traveled to a particular destination had positive experiences at a hotel in that destination, we might recommend that hotel to others who will be traveling to that destination. We may also share aggregated statistical information about users of our site and our service and product offerings with others, including our vendors and partners. We will not link this statistical information to any Personal Information that can identify you as an individual. </p> 
+        <p><b>Additional Products and Services</b>. 
+        <br> We may partner with other companies to offer you additional products or services. If you sign up for any of these additional products or services, we will share your name and any other Personal Information that is necessary for these other companies to provide the products or services you have signed up for. This policy will not cover the use of your Personal Information by these other companies. We encourage you to read each other company's privacy policy before signing up for any of its products or services. </p> 
+        <p><b>Notification of Changes</b>... 
+        <br> We may change this policy from time to time. If we decide to change this policy in a material way (for example, a change regarding disclosure of Personal Information), we will post notice of the change on our site and notify you via e-mail at the address you have provided to us at least thirty (30) days before putting the change into effect. If we decide to change our policy in a less significant way, we will simply post notice of the change on our site at least thirty (30) days before putting the change into effect.  If any proposed change is unacceptable to you, you may request to that we remove your personal information (and/or that of other individuals for whom you made your travel reservations) from our records. </p> 
+        <p><b>Links</b> 
+        <br> Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy. </p> 
+        <p class="brownHead"><a name="p12">
+        <b>Contact Information</b></a></p> 
+        <p>If you have any questions or concerns about (a) access to Personal Information, (b) the collection, use, management or disclosure of Personal Information, or (c) this policy or our information handling practices, (d) with whom your Personal Information is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Customer Service department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them. </p>
+         <p>Email:<a href="mailto:info@lhw.com">info@lhw.com</a><br><br> 
+         <b>Mailing Address:</b><br> Leading Hotels of the World, Ltd. 
+         <br> 99 Park Ave. <br> New York,<br> NY 10016 USA</p><br><br>
     		</td>
     	</tr>
     </tbody></table>
@@ -1297,9 +777,9 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 				</div>
 			</div>
 			
-		<!-- /main content -->
 		
-		<!-- footer-->
+		
+		
 		<div id="footer" class="fooContainer" style="display: none;">
 	           <div class="fooSecLink">
 	           <p>
@@ -1314,11 +794,8 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 									<br> 
 						   		<a href="http://corp.lhw.com/" id="A1">
 									Corporate Information&nbsp;&gt;</a>
-									<br>
-					                
-								<!--<a href="http://www.lhw.com/travelinsurance.aspx" id="A12" >
-									Travel Insurance&nbsp;&gt;</a>
-									<br>--> 
+									<br>		
+					            
 								<a href="http://quintess.com/" id="A14">
 									Quintess, Leading Residences&nbsp;&gt;</a>
 									<br>
@@ -1329,10 +806,6 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 								<a href="http://leading.hotelcareer.de/" id="A15">
 									Careers&nbsp;&gt;</a>
 									<br>
-								<!--<a href="http://www.lhw.com/specialoffers.aspx" id="A7" class="secFooterLink">
-									Special Offers&nbsp;&gt;</a>-->
-								<!--<a href="http://www.lhw.com/travelagenthome.aspx" id="A5" class="secFooterLink">
-									Travel Agents&nbsp;&gt;</a>-->
 								<a href="http://www.lhw.com/partners.aspx" id="A6">
 									Partners&nbsp;&gt;</a>
 									<br>
@@ -1340,10 +813,10 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 								<a href="http://www.leadingextranet.com" id="A13">
 									For Hotel Members Only&nbsp;&gt;</a>
 									<br>
-								<a href="http://www.lhw.com/privacypolicy.aspx" id="A8">
-									Privacy Policy&nbsp;&gt;</a>
-									<br>
 								 
+								<a href="http://www.lhw.com/Hotels/hotelsen-US.html">
+									Our Hotels&nbsp;&gt;</a>
+									<br>
 								</p>
 				</div>
 				
@@ -1351,16 +824,23 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 			
 				<div class="fooText">
 										<p>The Leading Hotels of the World understands the finer points of hospitality and luxury. Indulge yourself in a lifestyle of luxury at one of our 5 star hotels and the unparalleled comfort they offer. The Leading Hotels of the World's featured hotels cater to the discriminating few, where first class service is a norm rather than an exception. The Leading Hotels of the World features small luxury hotels, resort hotels as well as world-renowned stately hotels offering all the possibilities for family getaways, romantic escapades and business meetings. Whether you need accommodation for business or pleasure, The Leading Hotels of the World will have the perfect solution for you. Online hotel reservations have never been easier. </p>
-										© 2008 The Leading Hotels of the World
-					<br><span>web1</span>
+										© 2009 The Leading Hotels of the World
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+										<a href="http://www.lhw.com/privacypolicy.aspx" class="lnkFooterUnderline">
+											Privacy Policy
+										</a>&nbsp;|&nbsp;
+										<a href="http://www.lhw.com/termsconditions" class="lnkFooterUnderline">
+											Terms and Conditions
+										</a>										
+					<br><span>192.168.2.205</span>
 				</div>
 				
 			</div>
-		<!-- /footer-->
+		
 	
 	</form>
 	
-	<!-- form for newsletter -->
+	
 	<form target="signupFrame" action="http://www.uptilt.com/functions/mailing_list.html" method="post" name="UPTml15643">
 		<input type="hidden" name="submitaction" value="3">
 		<input type="hidden" name="mlid" value="15643">
@@ -1382,30 +862,31 @@ $H({'regionId':29, 'dgId':33, 'name':'Amsterdam', 'top':1}),$H({'regionId':40, '
 		
 		
 
-		<!-- Double click regions -->
 		
 		
 		
 		
 		
-		<!-- Double click regions -->
+		
+		
 		
 		
 				<script src="http://4qinvite.4q.iperceptions.com/I.aspx?sdfc=8cba688b-387-26c3c0db-4eb2-4f79-a228-5988fc24835f&amp;lID=1&amp;loc=4q-web1" type="text/javascript" defer="defer">
 				</script>
 				
 	</div>
-<table id="CCDefault__ctl0_Wssc_pnlHbxEnabled" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<table id="CCDefault__ctl0_Wssc_pnlHbxEnabled" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	
 
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+
 <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-lhw.hitbox.com";
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
-	
+
 hbx.acct="DM560131A6DA";//ACCOUNT NUMBER(S)
 
 hbx.pn="/privacypolicy.aspx";//PAGE NAME(S)
@@ -1447,21 +928,23 @@ hbx.pec="";//ERROR CODES
 </script>
 
 <script language="javascript1.1" defer="" src="http://www.lhw.com/scripts/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
+
 
 </td></tr></tbody></table>
 
-	<!--google analytics-->
-		<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"> 
-		</script>
-		<script type="text/javascript">
-		_uacct = "UA-1033958-1";
-		urchinTracker();
-		</script>
-		<!--end goolge-->
+		
+			
+			<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"> 
+			</script>
+			<script type="text/javascript">
+			_uacct = "UA-1033958-1";
+			urchinTracker();
+			</script>
+			
+		
 
 
 
-	<!-- region for use google code for the optimizer in the A/B test -->
+	
 	
 </div></body></html>
