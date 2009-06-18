@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jomres.net privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218123910id_/http%3A//www.jomres.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D16%26Itemid%3D64) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jomres.net privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618150252id_/http%3A//www.jomres.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D16%26Itemid%3D64) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Jomres -  online hotel booking software for Mambo/Joomla, from Woollyinwales IT - Privacy Notice</title>
@@ -34,10 +34,8 @@ menu4.onactivate = function() { document.getElementById("mtm_products").classNam
 menu4.ondeactivate = function() { document.getElementById("mtm_products").className = ""; };
 menu5.onactivate = function() { document.getElementById("mtm_support").className = "hover"; };
 menu5.ondeactivate = function() { document.getElementById("mtm_support").className = ""; };
-menu6.onactivate = function() { document.getElementById("mtm_download").className = "hover"; };
-menu6.ondeactivate = function() { document.getElementById("mtm_download").className = ""; };
-menu7.onactivate = function() { document.getElementById("mtm_demos").className = "hover"; };
-menu7.ondeactivate = function() { document.getElementById("mtm_demos").className = ""; };
+document.getElementById("mtm_demo").onmouseover = function() { ms.hideCurrent(); this.className = "hover"; }
+document.getElementById("mtm_demo").onmouseout = function() { this.className = ""; }
 	 	}
   }
 //]]>
@@ -110,8 +108,17 @@ urchinTracker();
 		<td align="right">020</td>
 		<td align="right">8123</td>
 		<td align="right">6227</td>
-		<td align="right">&nbsp;UK</td>
+		<td align="right">&nbsp;UK Landline</td>
 	</tr>
+	<tr>
+		<th>Tel:</th>
+		<td align="left">+44</td>
+		<td align="right">0754</td>
+		<td align="right">5058</td>
+		<td align="right">636</td>
+		<td align="right">&nbsp;UK Mobile</td>
+	</tr>
+	<!--
 	<tr>
 		<th>Tel:</th>
 		<td align="left">+1</td>
@@ -128,6 +135,7 @@ urchinTracker();
 		<td align="right">0997</td>
 		<td align="right">&nbsp;NZ</td>
 	</tr>
+	-->
 </tbody></table>
 </div>
                   <div id="header-menu">
@@ -147,18 +155,16 @@ urchinTracker();
 <a href="http://license-server.jomres.net/" id="mtm_my_account">My Account</a>
 <a href="http://www.jomres.net/index.php?option=com_content&amp;task=view&amp;id=124&amp;Itemid=198" id="mtm_products">Products</a>
 <a href="http://tickets.jomres.net/index.php?_m=knowledgebase&amp;_a=view&amp;Itemid=215" id="mtm_support">Support</a>
-<a href="http://www.jomres.net/index.php?option=com_docman&amp;Itemid=79" id="mtm_download">Download</a>
-<a href="http://www.jomres.net/index.php?option=com_content&amp;task=view&amp;id=90&amp;Itemid=162" id="mtm_demos">Demos</a>
+<a href="http://www.jomres-demo.net" id="mtm_demo">Demo</a>
 </div><script type="text/javascript" language="javascript">
 //<![CDATA[
   if (TransMenu.isSupported()) {
 	  var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft);
 
 var menu1 = ms.addMenu(document.getElementById("mtm_news"));
-menu1.addItem("Vince's Blog", "http://www.jomres.net/index.php?option=com_content&task=blogcategory&id=31&Itemid=186");
 menu1.addItem("About Us", "http://www.jomres.net/index.php?option=com_content&task=view&id=127&Itemid=204");
 
-var submenu1 = menu1.addMenu(menu1.items[1]);
+var submenu1 = menu1.addMenu(menu1.items[0]);
 submenu1.addItem("Vince's dogs", "http://www.jomres.net/index.php?option=com_expose&Itemid=242");
 
 var menu2 = ms.addMenu(document.getElementById("mtm_jomres"));
@@ -173,13 +179,11 @@ menu3.addItem("Checkout", "http://license-server.jomres.net/order.php");
 var menu4 = ms.addMenu(document.getElementById("mtm_products"));
 menu4.addItem("Purchase online", "http://www.jomres.net/index.php?option=com_content&task=view&id=124&Itemid=198");
 menu4.addItem("Testimonials", "http://www.jomres.net/index.php?option=com_content&task=view&id=84&Itemid=158");
-menu4.addItem("Freebies", "http://www.jomres.net/index.php?option=com_content&task=view&id=99&Itemid=180");
 menu4.addItem("Some Jomres sites", "http://www.jomres.net/index.php?option=com_content&task=view&id=135&Itemid=220");
-menu4.addItem("Affiliate log in", "http://affiliates.jomres.net/affiliates/");
-menu4.addItem("Affiliate signup", "http://affiliates.jomres.net/scripts/signup.php");
 menu4.addItem("Surveys", "http://www.jomres.net/index.php?option=com_surveys&Itemid=233");
 menu4.addItem("Screenshots", "http://www.jomres.net/index.php?option=com_expose&Itemid=243");
 menu4.addItem("Current plugins", "http://www.jomres.net/index.php?option=com_wrapper&Itemid=250");
+menu4.addItem("Payment options", "http://www.jomres.net/index.php?option=com_content&task=view&id=219&Itemid=252");
 
 var menu5 = ms.addMenu(document.getElementById("mtm_support"));
 menu5.addItem("Jomres Manual", "http://manual.jomres.net");
@@ -187,19 +191,9 @@ menu5.addItem("Forum", "http://forum.jomres.net/index.php");
 menu5.addItem("Knowledge Base", "http://tickets.jomres.net/index.php?_m=knowledgebase&_a=view&Itemid=215");
 menu5.addItem("Support", "http://tickets.jomres.net/index.php");
 menu5.addItem("Submit a ticket", "http://tickets.jomres.net/index.php?_m=tickets&_a=submit&Itemid=210");
-menu5.addItem("API", "http://api.jomres.net/");
 menu5.addItem("Tutorials", "http://www.jomres.net/index.php?option=com_content&task=view&id=27&Itemid=239");
 menu5.addItem("Gateway creation service", "http://www.jomres.net/index.php?option=com_content&task=view&id=187&Itemid=241");
 menu5.addItem("Changelog", "http://www.jomres.net/index.php?option=com_wrapper&Itemid=249");
-
-var menu6 = ms.addMenu(document.getElementById("mtm_download"));
-menu6.addItem("Free downloads, non-jomres or jombok stuff", "http://www.jomres.net/index.php?option=com_docman&task=cat_view&gid=20&Itemid=79");
-menu6.addItem("Jomres 3 Plugins", "http://forum.jomres.net/index.php?topic=517.0&Itemid=240");
-
-var menu7 = ms.addMenu(document.getElementById("mtm_demos"));
-menu7.addItem("Demo Jomres v3", "http://jomres-demo.net");
-menu7.addItem("Demo Jombok", "http://www.jombok-demo.net");
-menu7.addItem("Hazel's demo", "http://hotel.highlandvision.com/");
 	  TransMenu.renderAll();
   }
 //]]>
@@ -219,6 +213,30 @@ menu7.addItem("Hazel's demo", "http://hotel.highlandvision.com/");
 
 
 
+            <div id="topbox">
+        <div class="tb1">
+          <div class="tb2">
+            <div class="tb3">
+              <div class="tb4">
+                <div class="tb5">
+                  <div class="tb6">
+                    <div class="tb7">
+                      <table cellpadding="0" cellspacing="0" id="topuserblock">
+                        <tbody><tr>
+                                                                              <td>
+                            		<div class="moduletable">
+			<a href="http://www.cmsextensions.org/" target="_blank" title="The Joomla/Mambo/Elxis/Drupal plugin search directory"><img src="http://www.cmsextensions.org/images/stories/links/cmsext-link2.png" border="0" alt="The Joomla/Mambo/Elxis/Drupal plugin search directory"></a><p>&nbsp;Jomres is now listed on the new CMS Extensions directory <a href="http://www.cmsextensions.org">CMSExtensions.org</a> . We expect that this directory will very quickly superceed the <a href="http://extensions.joomla.org/">Joomla Extensions Directory</a>  when commercial extensions are <a href="http://forum.jomres.net/index.php?topic=1293.0">removed from JED in June</a>. Thanks to Rob at <a href="http://www.osdcs.com/">OSDCS</a>  for providing this service. </p>		</div>
+		                          </td>
+                                                                            </tr>
+                      </tbody></table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
         		<div id="mainbox">
         <div class="mb1">
           <div class="mb2">
@@ -319,6 +337,93 @@ to verify your identity before granting access or making corrections. </div><br>
                               </div>
                                                           </div>
                           </td>
+                                                    <td id="sidenav" class="right">
+                            <div class="sidenav">
+                              <div class="padding">
+
+<center>
+<!-- Begin SupportSuite Javascript Code -->
+<!-- 
+<script language="javascript" src="http://tickets.jomres.net/visitor/index.php?_m=livesupport&_a=htmlcode&departmentid=0"></script>
+-->
+<!-- End SupportSuite Javascript Code -->
+</center>
+<br>
+
+<center><a href="http://www.maxmind.com/app/ccfd_landing" target="_new"><img height="48" width="122" src="http://www.maxmind.com/images/protected_by_maxmind1.gif" border="0"></a></center><br>
+<!--<center><a href="#" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/cps/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img  src="https://www.paypal.com/en_GB/i/bnr/vertical_solution_PP.gif" border="0" alt="Solution Graphics"></a></center><br />-->
+<br><center><img src="http://www.jomres.net/images/2co.jpg"></center><br>
+<!-- <center><a href="http://www.oisv.com/" target="_new" title="OISV - Organization of Independent Software Vendors - Contributing Member"><img src="http://www.oisv.com/images/badges/oisv-contributing-member.png" border="0" alt="OISV - Organization of Independent Software Vendors - Contributing Member" /></a></center><br /> -->
+
+Join our mailing list.
+
+<!-- START ZEBRATRACKS FORM -->
+<table cellspacing="2" cellpadding="2" border="0">
+<script language="JavaScript">
+function zebraValidator(f){
+ var n, e, zebraW, s, t, lid;
+ fn = f.fname.value;
+ ln = f.lname.value
+ e = f.email.value;
+ lid = f.list_idno.value;
+ s = "http://app.simplycast.com/";
+ s += "external_form_handler.asp";
+ s += "?list_idno="+lid+"&fname="+fn+"&lname="+ln+"&email="+e;
+ t = "scrollbars=no,screenX=10,left=10,screenY=5";
+ t += ",top=5,width=260,height=140,resizable=no";
+ zebraW = window.open(s,"zebraW",t);
+ zebraW.focus();
+ f.reset();
+}
+</script>
+<form action="#" method="post" name="zebra" id="zebra"></form>
+<input type="hidden" name="list_idno" value="5027935">
+<tbody><tr>
+   <td><div align="right" style="font-family:verdana,arial; font-size:12px; 
+   color:BLACK">First Name:</div></td>
+   <td><input type="text" name="fname" size="20" maxlength="50" style="font-family:verdana,arial; 
+   font-size:11px; width:90px"></td>
+</tr>
+<tr>
+   <td><div align="right" style="font-family:verdana,arial; font-size:12px; 
+   color:BLACK">Last Name:</div></td>
+   <td><input type="text" name="lname" size="20" maxlength="50" style="font-family:verdana,arial; 
+   font-size:11px; width:90px"></td>
+</tr>
+<tr>
+   <td><div align="right" style="font-family:verdana,arial; 
+   font-size:12px; color:BLACK">Email:</div></td>
+   <td><input type="text" name="email" size="20" maxlength="50" style="font-family:verdana,arial; 
+   font-size:11px; width:90px"></td>
+</tr>
+<tr>
+   <td></td>
+   <td><input type="button" value="Submit" name="Submit" onclick="zebraValidator(this.form);" style="font-family:verdana,arial; 
+   font-size:12px; width:65px"></td>
+</tr>
+
+</tbody></table>
+<!-- END ZEBRATRACKS FORM -->
+
+                                		<div class="moduletable">
+							<h3>
+					Our user's comments				</h3>
+				
+<br>Jomres is easy to use, suitable for small - to medium-sized properties, easy to modify and customize with their templates, and of course excellent value for what you're paying. Kevin
+<br>		</div>
+		 	
+
+Frontpage SlideShow: Uber slideshow system for Joomla!, Mambo and any PHP based site!
+<a href="https://www.e-junkie.com/ecom/gb.php?ii=26552&amp;c=ib&amp;aff=12995&amp;ev=724671e216" target="ejejcsingle">Click here to view more details</a>
+	<!-- Begin SupportSuite Javascript Code -->
+<script language="javascript" src="http://tickets.jomres.net/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=0"></script>
+<!-- End SupportSuite Javascript Code -->
+
+
+
+                              </div>
+                            </div>
+                          </td>
                                                   </tr>
                       </tbody></table>
                     </div>
@@ -362,10 +467,10 @@ Contact us at
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy77542 = 's&#97;l&#101;s' + '&#64;';
- addy77542 = addy77542 + 'j&#111;mr&#101;s' + '&#46;' + 'n&#101;t';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy77542 + '\'>' );
- document.write( addy77542 );
+ var addy65378 = 's&#97;l&#101;s' + '&#64;';
+ addy65378 = addy65378 + 'j&#111;mr&#101;s' + '&#46;' + 'n&#101;t';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy65378 + '\'>' );
+ document.write( addy65378 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:sales@jomres.net">sales@jomres.net</a><script language="JavaScript" type="text/javascript">
  <!--
