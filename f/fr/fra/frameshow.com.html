@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frameshow.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216040903id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frameshow.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618084741id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Photo Frame Show: Digital Photo/Desktop Enhancement Software - Frame photos with ease!</title>
@@ -25,10 +25,10 @@ pageTracker._trackPageview();
 
 <body stats="1" background="pics/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <script type="text/javascript" src="/ecard_application/choose_frame/ajax_util.js"></script>
-<div id="loginarea" style="position: absolute; top: 86px; left: 509px;"></div>
+<div id="loginarea" style="position: absolute; top: 86px; left: 509px; width:220px;"></div>
 <script language="JavaScript" type="text/JavaScript">
 function open_login_page() {
-	var win = window.open("/frameshow_login.php", "Login", "width=500, height=360, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=no");
+	var win = window.open("/frameshow_login.php", "Login", "width=500, height=360, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=yes");
 	win.focus();
 }
 
@@ -39,12 +39,12 @@ function open_signup_page() {
 }
 
 function open_logout_page() {
-	var win = window.open("/frameshow_login.php?action=logout", "Login", "width=500, height=300, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=no");
+	var win = window.open("/frameshow_login.php?action=logout", "Login", "width=500, height=300, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=yes");
 }
 
 function do_login(ref) {
-	fr="";
 	if (ref) {
+	fr="";
 		if (ref=="userarea") {
 			top.document.location.href="userarea.php?action=main";
 		} else {
@@ -68,9 +68,9 @@ function do_login(ref) {
 				}
 			} else {
 				if (fr=='userarea') {
-					top.document.location.href="userarea.php?action=main";
+					top.document.location.href="userarea.php";
 				} else {
-					window.location.reload(true);
+					window.location.href="userarea.php";
 				}
 			}
 		}
@@ -132,8 +132,12 @@ do_logout(false);
 			</td></tr>
 		</tbody></table>
 		<table width="693" border="0" cellspacing="0" cellpadding="0"> 
-			<tbody><tr><td valign="top"><img src="/pics/site-header.jpg" width="693" height="114"></td></tr> 
+			<tbody><tr><td valign="top"><img src="/pics/site-header.jpg" width="693" height="114" border="0" usemap="#Map"></td>
+		  </tr> 
 		</tbody></table>
+
+<map name="Map" id="Map"><area shape="rect" coords="515,12,670,47" href="http://www.frameshow.com/photoframecommunity" target="_self" alt="Visit our Community">
+</map>
 		  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td class="headerBold">Photo Frame Show Privacy Statement </td>
@@ -235,7 +239,7 @@ do_logout(false);
         </tr>
       </tbody></table>
       <p>Photo Frame Show - <a href="http://www.frameshow.com">Digital Photo</a> and <a href="http://www.frameshow.com">Desktop Enhancement</a> Software: Frame photos with ease!<br>
-      Copyright © 2003-2008 Likno Software - All rights reserved.</p></div></td>
+      Copyright © 2003-2009 Likno Software - All rights reserved.</p></div></td>
   </tr>
 </tbody></table><script type="text/javascript">
 var woopra_id = '2602515273';
@@ -283,8 +287,8 @@ function showSubscriptionWindow()
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
 
-<div id="adPFS">
-<a href="adspromo.htm"><img src="pics/adpfs.gif" alt="Advertise your website here!" width="120" height="247" border="0"></a></div>
+
+
 
 
 
