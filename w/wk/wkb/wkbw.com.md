@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218194227id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618082543id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
 
 # WKBW - TV Buffalo, New York | WKBW Privacy Policy
 
@@ -87,4 +87,4 @@ If you have any questions or comments about this policy or our use of personal i
 > 
 > We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
-Copyright © 2008 WKBW-TV 7. All rights reserved. 
+Copyright © 2008 WKBW-TV 7. All rights reserved.
