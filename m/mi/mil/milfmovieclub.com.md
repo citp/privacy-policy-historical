@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milfmovieclub.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217235256id_/http%3A//milfmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfmovieclub.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014043id_/http%3A//milfmovieclub.com/info/privacy) for the most accurate reproduction.*
 
 # MILF Movie Club - Internet's biggest MILF DVD site
 
@@ -29,4 +29,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please call us at [+61 422132100] or send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
+Should you have other questions or concerns about these privacy policies, please send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
