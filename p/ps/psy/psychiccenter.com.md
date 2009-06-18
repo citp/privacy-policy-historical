@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134120id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174525id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
-# Free Psychic Reading & Phone Reading: User Guide | Astrocenter.com
+# Free Psychic Reading & Tarot Reading: Privacy Notice | Psychic center.com
 
   
 Astrocenter.com, Inc. ("we" or "Astrocenter") has created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for Astrocenter.com and is incorporated into and subject to the terms and conditions of our [Terms of Service](http://www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx?Des=TOS&Af=0).
