@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216233902id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081453id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AME Info
 
-[](http://www.truste.org/ivalidate.php?url=www.ameinfo.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.ameinfo.com;sealid=101)
 
 **Last Updated on Tuesday, July 23th - 2005**
 
