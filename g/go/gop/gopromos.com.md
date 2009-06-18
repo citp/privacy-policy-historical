@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020041id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193449id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Promotional Items, Promotional Products, and Imprinted Logo Products from GOpromos.com
 
