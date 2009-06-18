@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rollcall.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218224729id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rollcall.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618143808id_/http%3A//www.rollcall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Roll Call Privacy Policy</title>
@@ -16,10 +16,93 @@
 	<link rel="alternate" type="application/rss+xml" href="/ath/index.xml" title="Roll Call At The Hill">
 	<link rel="alternate" type="application/rss+xml" href="/features/index.xml" title="Roll Call Special Features">
 	<link rel="alternate" type="application/rss+xml" href="/gallery/index.xml" title="Roll Call Photo Gallery">
-	<link rel="stylesheet" href="/css/cdn.styles.css" type="text/css">
-	<!--[if IE 6]>
-	<link rel="stylesheet" href="/css/cdn.styles-ie6.css" type="text/css" />
-	<![endif]-->
+	<link rel="stylesheet" href="/css/styles.css" type="text/css">
+ <script language="javascript" src="/custom/js/jquery-1.3.2.min.js"></script>
+ <script>
+ $(document).ready(function(){
+ $("#slideshowNext").attr("src", "http://cdn.rollcall.com/media/ui/arrow_next_off.gif");
+ $("#slideshowNext").click(function(){
+ var leftPos = $("#slideshowSlider").css("left");
+ var numItems = 0;
+ var maxPos = (numItems - 3) * -84;
+ maxPos = maxPos + "px";
+ if (leftPos != maxPos) {
+ $("#slideshowSlider").animate({"left": "-=84px"}, "slow");
+ // if new position is last, disable next
+ var leftPosValue = parseInt(leftPos.replace("px", ""));
+ var leftPosNew = leftPosValue - 84;
+ leftPosNew = leftPosNew + "px";
+ $("#slideshowBack").attr("src", "http://cdn.rollcall.com/media/ui/arrow_back_on.gif");
+ if (leftPosNew == maxPos) {
+ $("#slideshowNext").attr("src", "http://cdn.rollcall.com/media/ui/arrow_next_off.gif");
+ }
+ }
+ });
+ $("#slideshowBack").click(function(){
+ var leftPos = $("#slideshowSlider").css("left");
+ if (leftPos != "0px") {
+ $("#slideshowSlider").animate({"left": "+=84px"}, "slow");
+ var leftPosValue = parseInt(leftPos.replace("px", ""));
+ var leftPosNew = leftPosValue + 84;
+ if (leftPosNew == 0) {
+ $("#slideshowBack").attr("src", "http://cdn.rollcall.com/media/ui/arrow_back_off.gif");
+ }
+ }
+ });
+ $("#tabCI").click(function(){
+ $("#panelTabCI").addClass("on");
+ $("#panelTabPB").removeClass("on");
+ $("#panelTabMA").removeClass("on");
+ $("#panelTabTC").removeClass("on");
+ $("#panelCI").css("display", "block");
+ $("#panelPB").css("display", "none");
+ $("#panelMA").css("display", "none");
+ $("#panelTC").css("display", "none");
+ });
+ $("#tabPB").click(function(){
+ $("#panelTabPB").addClass("on");
+ $("#panelTabCI").removeClass("on");
+ $("#panelTabMA").removeClass("on");
+ $("#panelTabTC").removeClass("on");
+ $("#panelPB").css("display", "block");
+ $("#panelCI").css("display", "none");
+ $("#panelMA").css("display", "none");
+ $("#panelTC").css("display", "none");
+ });
+ $("#tabMA").click(function(){
+ $("#panelTabMA").addClass("on");
+ $("#panelTabCI").removeClass("on");
+ $("#panelTabPB").removeClass("on");
+ $("#panelTabTC").removeClass("on");
+ $("#panelMA").css("display", "block");
+ $("#panelCI").css("display", "none");
+ $("#panelPB").css("display", "none");
+ $("#panelTC").css("display", "none");
+ });
+ $("#tabTC").click(function(){
+ $("#panelTabTC").addClass("on");
+ $("#panelTabCI").removeClass("on");
+ $("#panelTabPB").removeClass("on");
+ $("#panelTabMA").removeClass("on");
+ $("#panelTC").css("display", "block");
+ $("#panelCI").css("display", "none");
+ $("#panelPB").css("display", "none");
+ $("#panelMA").css("display", "none");
+ });
+ $("#tabMP").click(function(){
+ $("#panelTabMP").addClass("on");
+ $("#panelTabMM").removeClass("on");
+ $("#panelMP").css("display", "block");
+ $("#panelMM").css("display", "none");
+ });
+ $("#tabMM").click(function(){
+ $("#panelTabMM").addClass("on");
+ $("#panelTabMP").removeClass("on");
+ $("#panelMM").css("display", "block");
+ $("#panelMP").css("display", "none");
+ });
+	});
+	</script>
  <script type="text/javascript" src="/custom/js/flashembed.min.js"></script>
  <script type="text/javascript">
  var flowPlayer1;
@@ -32,7 +115,7 @@
  // wait for the page to fully load before initializing
  window.onload = function() {
  flowPlayerInit();
- setTimeout("document.getElementById('ad-floater').style.display = 'none'", 16000); /* close the floater some seconds after page load is complete */
+ setTimeout("document.getElementById('ad-floater').style.display = 'none'", 12000); /* close the floater some seconds after page load is complete */
 	}
  // FlowPlayer configuration
  var fpConf = {
@@ -41,17 +124,12 @@
  // for red5:
  //  streamingServerURL: 'rtmp://localhost:1935/oflaDemo',
  //  thumbsOnFLV: true,
- playList: 			[
- { url: 'http://cdn.rollcall.com/media/newspics/pickeith1.jpg', overlayId: 'play' },
- { url: 'http://cdn.rollcall.com/media/multimedia/agendamondayedit.flv' },
- ]
- ,
  autoPlay: false,
  loop: false,
  showStopButton: false,
  autoBuffering: false,
- emailVideoLink: '30625',
- menuItems: [true, true, true, true, true, false, false],
+ emailVideoLink: '33862',
+ menuItems: [true, true, true, true, true, true, false],
  emailPostUrl: 'http://www.rollcall.com/apps/custom/flow_player_email.php',
  autoRewind: true,
  showPlayList: false,
@@ -65,9 +143,11 @@
  if (flowPlayer1) flowPlayer1.setConfig(fpConf);
  }
  </script>
+ <!--[if IE 6]>
+	<link rel="stylesheet" href="/css/cdn.styles-ie6.css" type="text/css" />
+ <![endif]-->
  </head>
-<body>
- <div id="page">
+ <body><div id="page">
 	<div id="header">
  <div id="search">
  <form action="http://www.rollcall.com/cgi-bin/texis/scripts/rollcall-search/search.html">
@@ -81,24 +161,14 @@
  <li class="home"><a href="http://www.rollcall.com/">Home</a></li>
  <li><a href="http://www.congressnow.com/">CongressNow</a></li>
  <li><a href="http://briefingroom.rollcall.com">Briefing Room</a></li>
- <li><a href="http://us.gallerywatch.com">GalleryWatch</a></li>
+ <li><a href="http://www.gallerywatch.com">GalleryWatch</a></li>
  <li><a href="http://www.rollcallgroup.com/capitoladvantage">Capitol Advantage</a></li>
  <li><a href="http://www.rcjobs.com/">RCJobs</a></li>
  </ul>
  </div>
  <div id="branding">
+ <div id="logo"><a href="http://www.rollcall.com/"><img src="http://cdn.rollcall.com/media/ui/branding-logo-small.gif" alt="Roll Call"></a></div>
  <style>
- #login {
- margin-top:46px;
- }
- #branding {
- background-image:url('http://cdn.rollcall.com/media/ui/branding-background-large.jpg');
- height:113px;
- }
- #branding #logo {
- padding-top:13px;
- width:325px;
- }
  #branding #tagline {
  color:#583917;
  float:left;
@@ -110,28 +180,37 @@
  font-variant:normal;
  font-weight:bold;
  line-height:normal;
- padding:52px 8px 0pt 0pt;
+ padding:16px 8px 0pt 0pt;
  text-align:center;
  width:318px;
  }
+ #branding #tagline #date {
+ font: normal normal 11px Georgia;
+ color: #000;
+ text-align:center;
+ margin-top: 10px;
+ margin-bottom: 0;
+ }	
  </style>
- <div id="logo"><a href="http://www.rollcall.com"><img src="http://cdn.rollcall.com/media/ui/branding-logo-large.gif" alt="Roll Call"></a></div>
- <div id="tagline">The Newspaper of Capitol Hill Since 1955</div>
+ <div id="tagline">
+ The Newspaper of Capitol Hill Since 1955
+ <div id="date">Thursday, June 18, 2009</div>
+ </div>
  <div id="login">
  <form action="/login/" method="post" name="login_form"><input type="hidden" name="client_id" value="rollcall"><input type="hidden" id="user_maintain_state" name="user_maintain_state" value="YES"><input onfocus="javascript:if(this.value=='Username')this.value='';" value="Username" name="login_id" type="text"> <input name="login_pwd" type="password"><input name="submit" type="submit" class="button" value="SIGN IN"></form>
  <a href="http://www.rollcall.com/profile/password.reminder.html">Forgot your password?</a> | <a href="/subscribe/order.html">Subscribe</a>
  </div>
  </div>
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard;;sz=728x90;pos=top;ord=17292582?" name="frame1" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;ord=17292582?">
+ <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard;;sz=728x90;pos=top;tile=1;ord=12394999;?" name="frame1" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+ <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?">
  </SCRIPT>
  </iframe> 
  <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;ord=17292582?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;ord=17292582?" border=0 width="728" height="90"></A>
+ <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard;abr=!ie;sz=728x90;pos=top;tile=1;ord=12394999;?" border=0 width="728" height="90"></A>
  </noscript></div>
  </div>
  <div id="content">
- <div id="columnMain">
+ <div id="columnMain" class="clear">
 <h1>Roll Call’s Privacy Policy</h1>
  <p class="classads">Roll Call Group is committed to protecting the privacy of rollcall.com, rcjobs.com, gallerywatch.com, congressnow.com and briefingroom.rollcall.com subscribers. This statement outlines our privacy and data protection policy.<br>
  </p>
@@ -189,190 +268,184 @@
  202/824-6800 or toll free 800/289-9331 or <a href="/cgi-bin/udt/fdc.collector?client_id=rollcall&amp;form_id=maileditform&amp;link_id=133">e-mail Circulation</a>.</p></center>
  </div>
  <div id="columnRight">
- <div id="ofie">
-	<div id="ofieHeader">Subscribe to Roll Call</div>
-	<div id="ofieContent">
-<p><b>Already registered? Login at the top of the page.</b>
- </p><p>Roll Call is the first and only call for the people, politics and personality of Capitol Hill. Sign up today to get Roll Call delivered to your inbox and/or doorstep.</p>
- <form method="GET" action="/secure/apps/custom/order_flow_wrapper.php">
-<input type="hidden" name="prod_dir" value="/subscribe">
-<input type="hidden" name="prod_offer" value="main">
-<input type="hidden" name="client_id" value="rollcall">
-<input type="hidden" name="tracking_code" value="OFIE Subscribe">
- <input onfocus="javascript:if(this.value=='FIRST NAME')this.value='';" value="FIRST NAME" name="user_first_name"><br><input onfocus="javascript:if(this.value=='LAST NAME')this.value='';" value="LAST NAME" name="user_last_name"><br><input onfocus="javascript:if(this.value=='E-MAIL ADDRESS')this.value='';" value="E-MAIL ADDRESS" name="user_pref_email"> <input type="submit" value="SUBMIT" class="button"></form>
-
-<p>Already a print subscriber? Click <a href="/subscribe/print.html" style="text-decoration: underline">here</a> for instant online access.
-</p><p>Work on Capitol Hill? Click <a href="/secure/apps/custom/order_flow_wrapper_quick.php?prod_dir=/subscribe&amp;prod_offer=hill" style="text-decoration: underline">here</a> for free access.
-</p><p><b>Questions? Call 202/824-6800</b>
-	</p></div>
-</div>										<div id="columnSub1A">
- <div class="panel">
- <div class="panelHeader">
- <h3>First Draft</h3>
- </div>
- <div class="panelContent">
- <h4><a href="http://www.rollcall.com/fdh/">House</a></h4>
- <ul class="small">
- <li><a href="/news/30944-1.html">Jackson’s Cooperation With FBI Is Unusual for a Member</a></li>
- </ul>
- <h4><a href="http://www.rollcall.com/fds/">Senate</a></h4>
- <ul class="small">
- <li><a href="/news/30945-1.html">Casey Calls for Quick Passage of Economic Stimulus</a></li>
- </ul>
- <h4><a href="http://www.rollcall.com/atr/">Politics</a></h4>
- <ul class="small last">
- <li><a href="/news/30948-1.html">Four California Members Set to Back Poizner For Governor</a></li>
- </ul>
- </div>
- </div>
- </div>
- <div id="columnSub1B">
- <div class="panel">
- <div class="panelHeader">
- <h3>Highlights</h3>
- </div>
- <div class="panelContent">
- <!--<h5><a href="/features/Alternative_Energy/">Alternative Energy Policy Briefing</a></h5>
-<p>Members discuss wind energy, nuclear power, the ethanol mandate and food prices, and more.</p>-->
-
-<!--<h5><a href="/pressreleases/080108.html">Roll Call Group Acquires Capitol Advantage</a></h5>
-<p>Group now offers wider range of interactive tools for reaching Congress.</p>-->
-
-<!--<h5><a href="http://www.congressnow.com">CongressNow</a></h5>
-<p>With Congress returning Monday, check in with <a href="http://www.congressnow.com">CongressNow</a> for the latest news on legislative action.</p>-->
-
-<!--<h5><a href="/features/chief101608.html">The Chief</a></h5>
-<p>Includes an interview with Amanda Renteria, chief of staff for Sen. Debbie Stabenow, and a column on measuring staff performance.</p>-->
-
-<!--<h5><a href="/features/roadaheadht.html">The Road Ahead: <br>Health & Technology</a></h5>
-<p>Privacy protection and the battle between mail-service and community pharmacies are among the issues on deck in the 111th Congress.</p>-->
-
-<!--<h5><a href="http://www.rollcall.com/cn/ArticleDetail.aspx?articleID=7273">The Plum Book</a></h5>
-<p>The Plum Book, a list of more than 7,000 government jobs coming open during the transition, is available through <a href="http://www.rollcall.com/cn/ArticleDetail.aspx?articleID=7273">CongressNow</a>.</p>-->
-
-<h5><a href="/inauguration">Inauguration News</a></h5>
-<p>Check out the latest news from Roll Call on the Jan. 20 inauguration, plus a map of street closures.</p>						<div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/viewpoint;;sz=100x75;pos=right;ord=17292582?" name="frame1" width="100" height="75" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/viewpoint;abr=!ie;sz=100x75;pos=right;ord=17292582?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/viewpoint;abr=!ie;sz=100x75;pos=right;ord=17292582?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/viewpoint;abr=!ie;sz=100x75;pos=right;ord=17292582?" border=0 width="100" height="75"></A>
- </noscript></div>
- </div>
- </div>
- </div>
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium;;sz=336x280;pos=top;ord=17292582?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium;abr=!ie;sz=336x280;pos=top;ord=17292582?">
- </SCRIPT>
- </iframe> 
- <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/premium;abr=!ie;sz=336x280;pos=top;ord=17292582?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium;abr=!ie;sz=336x280;pos=top;ord=17292582?" border=0 width="336" height="280"></A>
- </noscript></div>
- <div class="panel clearfix">
- <div class="panelHeader">
- <h3>Most Popular</h3>
- </div>
- <div id="panelTabs">
+ <div class="panel clearfix" id="mostTabs">
+ <div id="panelTabs" style="position: relative; top: 1px;">
  <ul>
- <li id="panelTabsRC" class="on first"><a href="" onclick="document.getElementById('panelTabsRCContent').style.display='block'; document.getElementById('panelTabsMMContent').style.display='none'; this.parentNode.className='first on'; document.getElementById('panelTabsMM').className='last'; event.returnValue=false;return false;">Roll Call</a></li>
- <li id="panelTabsMM" class="last"><a href="" onclick="document.getElementById('panelTabsMMContent').style.display='block'; document.getElementById('panelTabsRCContent').style.display='none'; this.parentNode.className='last on'; document.getElementById('panelTabsRC').className='first'; event.returnValue=false;return false;">Multimedia</a></li>
+ <li id="panelTabMP" class="on"><a href="javascript:void(0);" id="tabMP">Most Popular</a></li>
+ <li id="panelTabMM"><a href="javascript:void(0);" id="tabMM">Most E-Mailed</a></li>
  </ul>
  </div>		
- <div id="panelTabsRCContent" class="panelContent morePad clearfix">
+ <div id="panelMP" class="panelContent">
  <ul class="headlines">
- <li><a href="http://www.rollcall.com/news/30931-1.html">Sununu Keeps a Government Paycheck</a></li>
- <li><a href="http://www.rollcall.com/news/30933-1.html">LaHood to Be Named Transportation Secretary</a></li>
- <li><a href="http://www.rollcall.com/news/30940-1.html">Obama Continues to Steal Talent From Congress</a></li>
- <li><a href="http://www.rollcall.com/news/30929-1.html">Becerra’s Snub of Trade Job Ices Others’ Ambitions</a></li>
- <li><a href="http://www.rollcall.com/news/30924-1.html">Whole Foods Hires Top Lobbyists to Smooth Merger</a></li>
+ <li><a href="http://www.rollcall.com/features/Guide-to-Congress_2008/guide/28506-1.html">The 50 Richest Members of Congress</a></li>
+ <li><a href="http://www.rollcall.com/news/35940-1.html">Republicans Unveil Health Plan but Are Thin on Details</a></li>
+ <li><a href="http://www.rollcall.com/news/35938-1.html">Ensign Affair Complicates Recruiting Efforts Against Reid</a></li>
  </ul>
  </div>		
- <div id="panelTabsMMContent" class="panelContent morePad clearfix" style="display: none;">
+ <div id="panelMM" class="panelContent">
  <ul class="headlines">
- <li><a href="http://www.rollcall.com/multimedia/podcasts_politics/28012-1.html">Politics - September 4, 2008</a></li>
- <li><a href="http://www.rollcall.com/multimedia/podcasts_politics/28427-1.html">Politics — September 17, 2008</a></li>
- <li><a href="http://www.rollcall.com/multimedia/podcasts_politics/27962-1.html">Politics - September 3, 2008</a></li>
- <li><a href="http://www.rollcall.com/multimedia/cspan/29601-1.html">C-SPAN - The Stevens Verdict - Part 2</a></li>
- <li><a href="http://www.rollcall.com/multimedia/podcasts_politics/28263-1.html">Politics — September 11, 2008</a></li>
+ <li><a href="http://www.rollcall.com/news/35939-1.html">Congressional Baseball Teams Undaunted by Weather</a></li>
+ <li><a href="http://www.rollcall.com/news/35937-1.html">Finance Delays Markup of Health Care Bill</a></li>
+ <li><a href="http://www.rollcall.com/issues/54_147/vested/35925-1.html">Wellness Not Faring Well</a></li>
  </ul>
  </div>		
- </div>						
- <div class="panel">
+ </div>		
+ <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium;;sz=336x280;pos=top;tile=4;ord=12394999;?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+ <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?">
+ </SCRIPT>
+ </iframe> 
+ <noscript> 
+ <A HREF="http://ad.doubleclick.net/jump/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium;abr=!ie;sz=336x280;pos=top;tile=4;ord=12394999;?" border=0 width="336" height="280"></A>
+ </noscript></div>
+ <p><a href="http://sports.rollcall.com/softball"><img src="http://cdn.rollcall.com/media/newspics/rcsports_box.gif" border="0"></a></p>
+
+<!--<div class="panel emailSignup">
+ <div class="panelContent clearfix">
+ <div class="columnSub">
+ <a href="/register/"><img src="http://cdn.rollcall.com/media/ui/email_signup_icon.gif" /></a>
+ <h3><a href="/register/">Sign Up Today!</a></h3>
+ </div>
+ <div class="columnSub last">
+ <h2>New! Roll Call 24/7</h2>
+ <ul class="small">
+ <li>Breaking News Alerts</li>
+ <li>Heard on the Hill Update</li>
+ <li>Daily Wrap-up</li>
+ <li>Weekly Full-text Columns</li>
+ </ul>
+ </div>
+ </div>
+ </div>-->            
+ <div class="panel" id="featureTabs">
+ <div id="panelTabs" class="clearfix" style="position: relative; top: 1px;">
+ <ul>
+ <li id="panelTabCI"><a href="javascript:void(0);" id="tabCI">Commitee Insider</a></li>
+ <li id="panelTabPB"><a href="javascript:void(0);" id="tabPB">Policy Briefings</a></li> 
+ <li id="panelTabMA" class="on"><a href="javascript:void(0);" id="tabMA">Mission Ahead</a></li>
+ <li id="panelTabTC"><a href="javascript:void(0);" id="tabTC">The Chief</a></li>
+ </ul>
+ </div>
+ <div class="panelContent" id="panelCI" style="display: none;">
+ <img src="http://cdn.rollcall.com/media/newspics/murkowskitease.jpg">					<h2><a href="/issues/54_137/ci_energy/35295-1.html">Murkowski Walks Delicate Line as Ranking Member</a></h2>
+ <p class="date">June 1, 12 a.m.</p>
+ <p class="snippet">In the summer of 2007, Sen. Lisa Murkowski (R-Alaska) joined a small group of Senators to sponsor a cap-and-trade bill that aimed to find middle ground in the increasingly heated debate over global warming. Spearheaded by Sen. Jeff Bingaman (D-N.M.) and then-Republican Sen. Arlen Specter (Pa.), the Low Carbon Economy Act represented a good-faith effort by moderates from both parties to reduce emissions without sacrificing economic growth. <a href="/issues/54_137/ci_energy/35295-1.html" class="more">Read Full Article</a></p>
+ <ul>
+ <li><a href="/issues/54_137/ci_energy/35294-1.html">Top Committee Staffer Knows Science, Politics</a></li>
+ <li><a href="/issues/54_137/ci_energy/35296-1.html">Energy Bill on Track to Pass in Senate</a></li>
+ <li><a href="/issues/54_137/ci_energy/35299-1.html">Lobbyists Adjusting to New Order</a></li>
+ <li><a href="/issues/54_137/ci_energy/35293-1.html">Senate Energy and Natural Resources Committee Through the Ages</a></li>
+ <li><a href="/committeeinsider/">Committee Insider Index</a></li>
+ </ul>
+ </div>
+ <div class="panelContent" id="panelPB" style="display: none;">
+ <img src="http://cdn.rollcall.com/media/newspics/wilsontease.jpg">					<h2><a href="/features/Defense-Aerospace_2009/defense_aerospace/34475-1.html">Wilson: Keep Troops Agile and Troop Levels Adequate</a></h2>
+ <p class="date">May 4, 12 a.m.</p>
+ <p class="snippet">Contentious debate over spending in Washington, D.C., is nothing new and is an important part of our nation’s dialogue. We must prioritize and focus our resources on those things necessary to move our country forward. <a href="/features/Defense-Aerospace_2009/defense_aerospace/34475-1.html" class="more">Read Full Article</a></p>
+ <ul>
+ <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34474-1.html">Davis: Don’t Forget the Military Families</a></li>
+ <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34470-1.html">Thune: Obama Plan Shortchanges Military</a></li>
+ <li><a href="/features/Defense-Aerospace_2009/defense_aerospace/34477-1.html">Abercrombie: Cost Overrun Reduction Needed</a></li>
+ <li><a href="/policybriefings/">Policy Briefings Index</a></li>
+ </ul>
+ </div>
+ <div class="panelContent" id="panelMA" style="display: block;">
+ <img src="http://cdn.rollcall.com/media/newspics/issatease.jpg">					<h2><a href="/news/35892-1.html">Issa: Reform Is Needed, but Don’t Use Medicare Model</a></h2>
+ <p class="date">June 16, 2:52 p.m.</p>
+ <p class="snippet">Somewhere between the health care extremes — no government involvement and total government control — real reform is possible. And reforming America’s health care system is one of the most pressing challenges that we face.  <a href="/news/35892-1.html" class="more">Read Full Article</a></p>
+ <ul>
+ <li><a href="/news/35967-1.html">Layton: Don’t Impose Quotas on Chinese Tires</a></li>
+ <li><a href="/news/35948-1.html">Wilson: Small Businesses Are Being Hurt by New Toy Safety Law</a></li>
+ <li><a href="/news/35891-1.html">Williams: EPA Plan to Regulate Greenhouse Gas Emissions Could Ruin Economy</a></li>
+ <li><a href="/missionahead/">The Mission Ahead Index</a></li>
+ </ul>
+ </div>
+ <div class="panelContent" id="panelTC" style="display: none;">
+ <img src="http://cdn.rollcall.com/media/newspics/cravenstease.jpg">					<h2><a href="/issues/54_135/the_chief/35133-1.html">The Newcomers: Spiritual Bonding</a></h2>
+ <p class="date">May 21, 12 a.m.</p>
+ <p class="snippet">Michael Cravens didn’t want to get involved in Republican Rep. Gregg Harper’s Congressional race. Content with the work he had done on Mississippi state Sen. Giles Ward’s campaign, Cravens was set to return to work at Eagle Communications, the communications and marketing firm he had opened about 10 years earlier. <a href="/issues/54_135/the_chief/35133-1.html" class="more">Read Full Article</a></p>
+ <ul>
+ <li><a href="/issues/54_135/the_chief/35130-1.html">A Hands-On Manager</a></li>
+ <li><a href="/issues/54_135/the_chief/35131-1.html">Chief Counsel: How to Help Staffers Feel Part of a Great Team</a></li>
+ <li><a href="/thechief">The Chief Index</a></li>
+ </ul>
+ </div>
+ </div>
+ <div class="panel rightnavVideo">
  <div class="panelHeader">
- <h3>Roll Call Video</h3>
+ <h3>Roll Call Video Channels</h3>
  <div class="panelHeaderMore"><a href="http://www.rollcall.com/multimedia/">More Video</a></div>
  </div>
  <div class="panelContent clearfix">
- <div id="panelContentPlayer"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="288" height="212" id="FlowPlayer">
-	<param name="movie" value="http://www.rollcall.com/media/multimedia/FlowPlayerDark.swf">
-	<param name="allowfullscreen" value="true">
-	<param name="allowscriptaccess" value="always">
-	<param name="quality" value="high">
-	<param name="bgcolor" value="#ffffff">
-	<param name="type" value="application/x-shockwave-flash">
-	<param name="pluginspage" value="https://web.archive.org/web/20081002024818/http://www.adobe.com/go/getflashplayer">
-	<param name="flashvars" value="config={&quot;configInject&quot;:true}&amp;"></object></div>
- <script type="text/javascript">
- // <![CDATA[
- new flashembed("panelContentPlayer", { src: "http://www.rollcall.com/media/multimedia/FlowPlayerDark.swf", width: 288, height: 212, id: "FlowPlayer" }, { config: { configInject: true } });
- // ]]>
- </script>
- <div class="panelVideoThumbnail first">
- <a href="/multimedia/video/30529-1.html"><img src="http://cdn.rollcall.com/media/newspics/James.jpg" alt="Video" width="63"></a>
- <h4>The Mission Ahead: James Jones</h4>
- <p></p>
- </div>
- <div class="panelVideoThumbnail">
- <a href="/multimedia/video/30512-1.html"><img src="http://cdn.rollcall.com/media/newspics/CVC_Pic.jpg" alt="Video" width="63"></a>
- <h4>The CVC's Grand Opening</h4>
- <p></p>
- </div>
- <div class="panelVideoThumbnail first">
- <a href="/multimedia/video/30347-1.html"><img src="http://cdn.rollcall.com/media/newspics/chief_november.jpg" alt="Video" width="63"></a>
- <h4>The Chief — November 20, 2008</h4>
- <p></p>
- </div>
- <div class="panelVideoThumbnail">
- <a href="/multimedia/video/30402-1.html"><img src="http://cdn.rollcall.com/media/newspics/Norm_Mineta.jpg" alt="Video" width="63"></a>
- <h4>The Mission Ahead: Norm Mineta</h4>
- <p></p>
+ <div class="center">
+ <a href="/multimedia/"><img src="http://cdn.rollcall.com/media/ui/rightnav_video.jpg"></a>
  </div>
  </div>
  </div>
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium_two;;sz=336x280;pos=bottom;tile=2;ord=17292582?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=2;ord=17292582?">
+ <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/premium_two;;sz=336x280;pos=bottom;tile=5;ord=12394999;?" name="frame1" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+ <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?">
  </SCRIPT>
  </iframe> 
  <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=2;ord=17292582?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=2;ord=17292582?" border=0 width="336" height="280"></A>
+ <A HREF="http://ad.doubleclick.net/jump/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/premium_two;abr=!ie;sz=336x280;pos=bottom;tile=5;ord=12394999;?" border=0 width="336" height="280"></A>
  </noscript></div>
+ <div class="panel slideshow">
+ <div class="panelContent clearfix">
+ <div class="arrowScroll">
+ <input type="image" id="slideshowBack" src="http://cdn.rollcall.com/media/ui/arrow_back_off.gif">
+ <input type="image" id="slideshowNext" src="http://cdn.rollcall.com/media/ui/arrow_next_off.gif">
+ </div>
+ <h3>Photo Slideshows</h3>
+ <div class="clearfix"></div>
+ <div style="width: 252px; margin: 0 auto; overflow: hidden; position: relative;">
+ <div id="slideshowSlider">
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_205/photos/35952-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER0617.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 18)</p>
+ </div>
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_204/photos/35900-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER0616.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 17)</p>
+ </div>
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_203/photos/35856-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/TEASER_market_06_061509.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 16)</p>
+ </div>
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_202/photos/35795-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser615.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 15)</p>
+ </div>
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_201/photos/35736-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser0611.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 11)</p>
+ </div>
+ <div class="columnSub">
+ <a href="#" onclick="window.open('/gallery/1_200/photos/35674-1.html', 'nextWin', 'right=20, top=20,width=760,height=560, toolbar=no,scrollbars=no, resizable=no');return false;"><img src="http://cdn.rollcall.com/media/newspics/teaser0610.jpg" alt="Photo"></a>                                    <p class="snippet">Photos of the Day (June 10)</p>
+ </div>
+ </div>
+ <div class="clearfix"></div>
+ </div>
+ </div>
+ </div>
  </div>
 	</div>
 	<div id="footer">
- <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard_two;;sz=768x90;pos=bottom;tile=2;ord=17292582?" name="frame1" width="768" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
- <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard_two;abr=!ie;sz=768x90;pos=bottom;tile=2;ord=17292582?">
+ <div class="ad">		<iframe src="http://ad.doubleclick.net/adi/rollcall/leaderboard_two;;sz=728x90;pos=bottom;tile=6;ord=12394999;?" name="frame1" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+ <SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?">
  </SCRIPT>
  </iframe> 
  <noscript> 
- <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard_two;abr=!ie;sz=768x90;pos=bottom;tile=2;ord=17292582?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard_two;abr=!ie;sz=768x90;pos=bottom;tile=2;ord=17292582?" border=0 width="768" height="90"></A>
+ <A HREF="http://ad.doubleclick.net/jump/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?"><IMG SRC="http://ad.doubleclick.net/ad/rollcall/leaderboard_two;abr=!ie;sz=728x90;pos=bottom;tile=6;ord=12394999;?" border=0 width="728" height="90"></A>
  </noscript></div>
  <div class="navigationMain">
  <ul>
  <li class="first"><a href="http://www.rollcall.com/">HOME</a></li>
  <li><a href="http://www.rollcall.com/login/">LOG IN</a></li>
- <li><a href="http://www.rollcall.com/apps/custom/current_issue_pdf.php">TODAY'S PAPER (PDF)</a></li>
+ <li><a href="http://www.rollcall.com/apps/custom/current_issue_pdf.php">LATEST PAPER (PDF)</a></li>
  <li><a href="http://briefingroom.rollcall.com">BRIEFING ROOM</a></li>
  <li><a href="http://www.rollcall.com/news/">NEWS</a></li>
  <li><a href="http://www.rollcall.com/opinion/">OPINION</a></li>
  <li><a href="http://www.rollcall.com/politics/">POLITICS</a></li>
- <li><a href="http://www.rollcall.com/vested/">VESTED INTERESTS</a></li>
+ <li><a href="http://www.rollcall.com/vested/">LOBBYING</a></li>
  </ul>
  <ul>
  <li class="first"><a href="http://www.rollcall.com/ath/">AROUND THE HILL</a></li>
  <li><a href="http://www.rollcall.com/investigations/">INVESTIGATIONS</a></li>
- <li><a href="http://www.rollcall.com/people/">PEOPLE</a></li>
- <li><a href="http://www.rollcall.com/multimedia/">MULTIMEDIA</a></li>
- <li><a href="http://www.rollcall.com/features/">SPECIAL SECTIONS</a></li>
+ <li><a href="http://www.rollcall.com/features/">SPECIAL REPORTS</a></li>
  <li><a href="http://www.rcjobs.com/">RC JOBS</a></li>
  <li><a href="http://www.rollcall.com/classifieds/">CLASSIFIEDS</a></li>
  </ul>
@@ -394,7 +467,7 @@
  <ul>
  <li><a href="http://www.congressnow.com">CongressNow</a></li>
  <li><a href="http://briefingroom.rollcall.com">Briefing Room</a></li>
- <li><a href="http://us.gallerywatch.com">GalleryWatch</a></li>
+ <li><a href="http://www.gallerywatch.com">GalleryWatch</a></li>
  <li><a href="http://www.rollcallgroup.com/capitoladvantage">Capitol Advantage</a></li>
  <li><a href="http://www.rcjobs.com/">RCjobs</a></li>
  <li><a href="http://www.economistgroup.com/">The Economist</a></li>
@@ -415,7 +488,7 @@
  <li><a href="http://www.rollcall.com/privacy/legal.html">Legal</a></li>
  </ul>
  <p>An Economist Group Business<br>
- Copyright 2008 © Roll Call Inc. All rights reserved &nbsp;<a href="http://www.iproduction.com"><img style="margin-bottom: -3px;" src="http://cdn.rollcall.com/media/ui/ip_mini_logo.png" alt="iProduction Internet Publishing System" title="iProduction Internet Publishing System"></a></p>
+ Copyright 2009 © Roll Call Inc. All rights reserved &nbsp;<a href="http://www.iproduction.com"><img style="margin-bottom: -3px;" src="http://cdn.rollcall.com/media/ui/ip_mini_logo.png" alt="iProduction Internet Publishing System" title="iProduction Internet Publishing System"></a></p>
  </div>
  </div>
 	</div>
