@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careonecredit.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/AboutUs/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careonecredit.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/AboutUs/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -14,14 +14,14 @@ Raleigh, NC 27607
 1-888-419-2374  
 cesisupport@careonecredit.com  
 CESI also administers Clarion Credit Management and Debt Management Group accounts  
-View the Consumer Education Services, Inc. (CESI) [Privacy Policy](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/AboutUs/orgspecificprivacypolicy.aspx?o=6).  
+View the Consumer Education Services, Inc. (CESI) [Privacy Policy](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/AboutUs/orgspecificprivacypolicy.aspx?o=6).  
 
   * CareOne Services, Inc.  
 P.O. Box 6971  
 Columbia, MD 21045-6971  
 1-888-888-CARE  
 customercare@careonecredit.com  
-View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/AboutUs/orgspecificprivacypolicy.aspx?o=12).
+View the CareOne Services, Inc. [Privacy Policy](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/AboutUs/orgspecificprivacypolicy.aspx?o=12).
 
 
 
@@ -32,7 +32,7 @@ We may amend this Privacy Policy from time to time. We will post any changes to 
 ## SHARING POLICY
 
  **TRUSTe CERTIFICATION**  
-
+[](http://www.truste.org/ivalidate.php?url=www.careonecredit.com&sealid=101)
 
 3Ci Incorporated is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site (www.careonecredit.com) wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
@@ -54,7 +54,7 @@ By displaying the TRUSTe trust mark, we have agreed to notify you of the followi
 
 
 
-If you have any questions or concerns regarding this statement, you should first contact us by [clicking here](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/Help/EmailUs.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Question). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have any questions or concerns regarding this statement, you should first contact us by [clicking here](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/Help/EmailUs.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Question). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ## BBBONLINE INVOLVEMENT NOTIFICATION
 
@@ -93,17 +93,19 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Your friend may contact us at [customercare@careonecredit.com](mailto:customercare@careonecredit.com) to request that we remove this information from our database.
 
+We use community boards, blogs, and chat room on this Web site. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
 ## Opt-out Policy
 
-If you prefer that we do not send you email communications, you may opt-out of those services, that is, you may direct us not to use your email address as part of our marketing efforts for new products and services. If you wish to opt-out of email communications, you may do so by emailing [customercare@careonecredit.com](mailto:customercare@careonecredit.com), or by replying to an existing email with your request to be removed from the mailing list or [click here](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com//Help/EmailUs.aspx?emailTo=customerservice@careonecredit.com&subject=Privacy%20Policy%20Opt-Out). In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. 
+If you prefer that we do not send you email communications, you may opt-out of those services, that is, you may direct us not to use your email address as part of our marketing efforts for new products and services. If you wish to opt-out of email communications, you may do so by emailing [customercare@careonecredit.com](mailto:customercare@careonecredit.com), or by replying to an existing email with your request to be removed from the mailing list or [click here](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com//Help/EmailUs.aspx?emailTo=customerservice@careonecredit.com&subject=Privacy%20Policy%20Opt-Out). In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. 
 
 We may also use the information gathered on our Website to perform statistical analysis of User behavior, to analyze and evaluate issues relating to your DMP, enrollment behavior and credit education, or to evaluate and improve our Online Services. We may link some of this information to Personally Identifiable Information for internal purposes only or to assist you in your debt reduction efforts.’
 
-Users who join our online community and/or participate in our contests are required to consent to the use of their posts/emails in marketing materials used by 3Ci (see [Terms of Use](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/AboutUs/terms.aspx)). If you wish to rescind or opt-out of this participation, you may contact us directly at [customercare@careonecredit.com](mailto:customercare@careonecredit.com) with this request.
+Users who join our online community, participate in our contests, and/or provide testimonial statements are required to consent to the use of their posts/emails and personally identifiable information in marketing materials used by 3Ci (see [Terms of Use](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/AboutUs/terms.aspx)). If you wish to rescind or opt-out of this participation, you may contact us directly at [customercare@careonecredit.com](mailto:customercare@careonecredit.com) with this request.
 
 ## WHEN DOES OUR WEBSITE DISCLOSE INFORMATION TO THIRD PARTIES?
 
-Personally identifiable information about you will be disclosed to third parties only as described in the Gramm Leach Bliley Act Privacy Notice of the CCA that will administer your DMP. This Privacy Notice will be provided to you on our Website during the online Enrollment process. The Privacy Notice discloses that all of the information collected on our Website may be disclosed (both to affiliates and to non-affiliates) unless you tell the CCA not to (called "opt out"). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website. For example, to third parties with your consent or at your direction or if disclosure is necessary to effect, administer, or enforce the DMP and to other financial institutions with whom the CCA has joint marketing agreements. To review the full Privacy Notice of each CCA for all of the details and directions on how to "opt out" [click here](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/AboutUs/serviceProviders.aspx). 3Ci does not share, sell, rent or trade Personally Identifiable Information with third parties for their promotional purposes.
+Personally identifiable information about you will be disclosed to third parties only as described in the Gramm Leach Bliley Act Privacy Notice of the CCA that will administer your DMP. This Privacy Notice will be provided to you on our Website during the online Enrollment process. The Privacy Notice discloses that all of the information collected on our Website may be disclosed (both to affiliates and to non-affiliates) unless you tell the CCA not to (called "opt out"). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website. For example, to third parties with your consent or at your direction or if disclosure is necessary to effect, administer, or enforce the DMP and to other financial institutions with whom the CCA has joint marketing agreements. To review the full Privacy Notice of each CCA for all of the details and directions on how to "opt out" [click here](http://www.careonecredit.com/aboutus/serviceProviders.aspx). 3Ci does not share, sell, rent or trade Personally Identifiable Information with third parties for their promotional purposes.
 
 ## DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES?
 
@@ -119,7 +121,7 @@ Notwithstanding the above commitments to protect your information (including Per
 
 You may "opt out" of sharing your personally identifiable information with affiliated and non-affiliated companies as explained in the CCA Privacy Notice provided to you on our Website during the online Enrollment process. To review the full Privacy Notice of each CCA for all of the details and directions on how to "opt out" click here.
 
-## CAN I OR CORRECT MY PERSONALLY IDENTIFIABLE INFORMATION?
+## CAN I CORRECT MY PERSONALLY IDENTIFIABLE INFORMATION?
 
 You can always contact us in order to update, correct or delete your Personally Identifiable Information or change your preferences with respect to communications and other information you receive from us by calling Customer Services at 1-800-699-5688, or access your account online by clicking on the My CareOne link and then click on the My Profile link. Such updates, corrections and deletions will not have an effect on the data we are required to maintain by the Creditors and CCAs in order to administer the DMP.
 
@@ -137,7 +139,7 @@ Our Web pages contain electronic images (called a "single-pixel gif" or "Web bea
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-We do not set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners(e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. This site uses click to talk technology (also commonly referred to as push to talk and call me now) to allow site users to receive a phone call from a company representative to provide assistance. This service is provided by a third party, ATG (formerly eStara Communications), who will collect names and phone numbers from users wishing to use the service. This collection of PII is only used by eStara for the purposes of placing the outbound phone call and providing reporting to 3Ci. No collection of PII by eStara is used for marketing purposes either by eStara, or 3Ci.
+We do not set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners(e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. This site uses click to talk technology (also commonly referred to as push to talk and call me now) to allow site users to receive a phone call from a company representative to provide assistance. This service is provided by a third party, ATG (formerly eStara Communications), who will collect names and phone numbers from users wishing to use the service. This collection of PII is only used by eStara for the purposes of placing the outbound phone call and providing reporting to 3Ci. No collection of PII by eStara is used for marketing purposes either by eStara, or 3Ci. If you choose to not provide your personally identifiable information to obtain assistance, you may contact us directly at 888-888-CARE.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
 
@@ -149,6 +151,6 @@ If we decide to change this Privacy Policy, we will post those changes on our We
 
 ## WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?
 
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator by [Clicking Here](https://web.archive.org/web/20081120134103id_/http%3A//www.careonecredit.com/Help/EmailUs.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Coordinator).
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator by [Clicking Here](https://web.archive.org/web/20090618054529id_/http%3A//www.careonecredit.com/Help/EmailUs.aspx?emailTo=customercare@careonecredit.com&subject=Privacy%20Policy%20Coordinator).
 
 Print
