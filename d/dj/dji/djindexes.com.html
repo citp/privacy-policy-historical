@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the djindexes.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217060407id_/http%3A//www.djindexes.com/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the djindexes.com privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618141828id_/http%3A//www.djindexes.com/privacy-policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -56,14 +56,27 @@
 	</div> 
 	<div id="left-nav">
 		<div id="left-main-indexes">
-			<img src="/global-img/spacer.gif" width="172" height="327" border="0" usemap="#left-main-indexes-map">
+			<ul>
+				<li><a href="http://www.djaverages.com/">Dow Jones Averages</a></li>
+				<li><a href="/totalstockmarket/">Dow Jones Total Stock Market</a></li>
+				<li><a href="/ubs/">Dow Jones-UBS Commodity</a></li>
+				<li><a href="/mdsidx/?event=showSelectDiv">Dow Jones Select Dividend</a></li>
+				<li><a href="/targetdate/">Dow Jones Target Date</a></li>
+				<li><a href="http://www.stoxx.com/">Dow Jones STOXX</a></li>
+				<li><a href="/mdsidx/?event=showGlobalTitans">Dow Jones Global Titans</a></li>
+				<li><a href="http://www.djhedgefundindexes.com/">Dow Jones Hedge Fund Strategy Benchmarks</a></li>
+				<li><a href="/mdsidx/?event=showTotalMarket">Dow Jones U.S.</a></li>
+				<li><a href="/islamic/">Dow Jones Islamic Market</a></li>
+				<li><a href="/barron/">Barron's 400</a></li>
+				<li><a href="/rbp/">Dow Jones RBP</a></li>
+			</ul>
 		</div>
 		<div id="left-major-indexes-az">
 			<form>
 				<select id="major-indexes" class="file-list" size="1"></select>
 			</form>
 		</div>
-		<div id="left-etfs"><a href="/mdsidx/?event=etf"><img src="/global-img/home/left-indexes-ETFs-2008.gif" title="Indexes Underlying ETFs" width="172" height="67" border="0"></a></div>
+		<div id="left-etfs"><a href="/investable-products/"><img src="/global-img/home/left-indexes-ETFs-2009.gif" title="Indexes Underlying ETFs" width="171" height="75" border="0"></a></div>
 		<div id="left-additional-links">
 			<div id="left-additional-links-header"></div>
 			<div id="content">
@@ -71,6 +84,8 @@
 				<p class="video-media">
 					<a href="/media/">Dow Jones Indexes Media Center</a>
 				</p>
+				<p class="divider"></p>
+				<p class="page"><a href="/insights/">Insights</a>: A Quarterly Newsletter Devoted to Our Latest Innovations</p>
 				<p class="divider"></p>
 				
 				<p class="pdf"><a href="/mdsidx/downloads/Performance.pdf" target="_blank">Markets Measure Report</a>: DJI's
@@ -83,23 +98,7 @@
 				
 			</div>
 		</div>
-	</div>
-
-	<!-- left main indexes map -->
-	<map name="left-main-indexes-map">
-		<area shape="rect" coords="0,0,201,25" href="/mdsidx/?event=showAverages">
-		<area shape="rect" coords="0,25,184,61" href="/wilshire/">
-		<area shape="rect" coords="0,62,210,86" href="/aig/">
-		<area shape="rect" coords="0,87,243,111" href="/mdsidx/?event=showSelectDiv">
-		<area shape="rect" coords="0,112,257,136" href="/targetdate/">
-		<area shape="rect" coords="0,137,195,161" href="http://www.stoxx.com/" target="_blank">
-		<area shape="rect" coords="0,162,243,186" href="/mdsidx/?event=showGlobalTitans">
-		<area shape="rect" coords="0,187,253,224" href="http://www.djhedgefundindexes.com/" target="_blank">
-		<area shape="rect" coords="0,225,212,249" href="/mdsidx/?event=showTotalMarket">
-		<area shape="rect" coords="0,249,264,276" href="/islamic/">
-		<area shape="rect" coords="0,274,171,301" href="/barron/">
-		<area shape="rect" coords="0,302,171,327" href="/rbp/">
-	</map> 	
+	</div> 	
 	<div id="top-banner">
 		<div id="flash"></div>
 	</div>
@@ -254,13 +253,13 @@
 
 	
 	<div id="footer">
-		<div id="copyright">Copyright © 2008 Dow Jones &amp; Company. All rights reserved.</div>
+		<div id="copyright">Copyright © 2009 Dow Jones &amp; Company. All rights reserved.</div>
 		<div>
 			<a href="/contact-us.cfm">Contact Us</a> |
 			<a href="/terms-conditions.cfm">Terms &amp; Conditions</a> |
 			<a href="/privacy-policy.cfm">Privacy Policy</a> |
 			<a href="/mdsidx/index.cfm?event=showforAdvertisers">For Advertisers</a> |
-			<a href="/mdsidx/index.cfm?event=showHelp">Help</a> |
+			<a href="/help/?go=help">Help/FAQ</a> |
 			<a href="/">Home</a>
 		</div>
 	</div>
@@ -274,87 +273,6 @@
 	<script type="text/javascript" src="/global-js/ext/1.1/ext-all.js"></script>
 	<!-- DJ utils -->
 	<script type="text/javascript" src="/js/djindexes-utils-c.js"></script>
-	
-	<script type="text/javascript">
-	if (DJIndexes.FileListHelper) {
-		Ext.onReady(DJIndexes.FileListHelper.init,DJIndexes.FileListHelper);
-	}
-	
-	if (!GlobalDow) { var GlobalDow = {}; }
-	GlobalDow.Popup = function() {
-		
-		var config = {
-			container: {
-				popup: 'img.popup'
-			}
-		};
-		
-		var popup;
-		
-		return {
-			
-			init: function() {
-				popup = Ext.select(config.container.popup);
-				if (popup.elements.length) {
-					popup.on('click',GlobalDow.Popup.handlePopup);
-				}
-			},
-			
-					
-			handlePopup: function(e) {
-				if (!e)
-				{
-					var e = window.event;
-				}
-				
-				var browser;
-				if (!e.cancelable) {
-					browser = "IE";
-					e.cancelBubble = true;
-					e.returnValue = false;
-				}
-				else {
-					browser = "MOZILLA";
-					e.stopPropagation();
-					e.preventDefault();
-				}
-				
-				
-				try {
-				
-				var attrs = (browser == "MOZILLA")?e.target.attributes:"";
-				
-				var options = {
-					url: "globaldow/",
-					width: 700,
-					height: 420,
-					winName: (browser == "MOZILLA") ? e.target.id : 'popUpWindow'
-				};
-
-					
-					
-					options['posX'] = parseInt((screen.availWidth/2)-(options.width/2));
-					options['posY'] = parseInt((screen.availHeight/2)-(options.height/2));
-					
-					var NewWinId = null;
-					NewWinId = window.open(options.url,options.winName,
-					"resizable=no,scrollbars=no,menubar=no,toolbar=no,location=no,directories=no,status=no,width="+options.width+",height="+options.height+",top="+options.posY+",left="+options.posX +"\"")
-					NewWinId.focus();
-				
-					
-				} catch(err) {
-					alert (err.message)
-					top.location.href = e.target.href;
-				}
-				
-			}
-			
-		}
-		
-	}();
-	
-	Ext.onReady(GlobalDow.Popup.init,GlobalDow.Popup);
-	</script>
 
 <!-- homepage components -->
 <script src="/js/djindexes-data-packages-c.js"></script>
