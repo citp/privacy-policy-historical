@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kenkai.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150556id_/http%3A//www.kenkai.com/privicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenkai.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091411id_/http%3A//www.kenkai.com/privicy.htm) for the most accurate reproduction.*
 
 # Kenkai SEO, web desigb, website redesign, search engine optimsation
 
-Kenkai.com and SEO Insite Limited are committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Kenkai.com and SEO Insite Limited does not collect individually identifiable information from any end-user. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices available for review. 
+Kenkai.com and Kenkai Projects Limited are committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Kenkai.com and Kenkai Projects Limited does not collect individually identifiable information from any end-user. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices available for review. 
 
 ## Visitors
 
@@ -30,7 +30,7 @@ We partner with another party to provide specific services. When the user signs 
 
 ## Links
 
-This web site contains links to other sites. Please be aware that we, Kenkai.com and SEO Insite Limited, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This web site contains links to other sites. Please be aware that we, Kenkai.com and Kenkai Projects Limited, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ## Surveys
 
@@ -44,7 +44,7 @@ All of our users' information is restricted in our offices. Only employees who n
 
 ## Disclaimer
 
-Kenkai.com and SEO Insite Limited disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Kenkai.com and SEO Insite Limited will, however, review, delete, or block access to communications that may harm Kenkai.com and SEO Insite Limited, its customers or third parties. The grounds on which Kenkai.com and SEO Insite Limited may take such action include, but are not limited to, actual or potential violations of Kenkai.com and SEO Insite Limited Policies. Please note, however, that Kenkai.com and SEO Insite Limited reserves the right to send bulletins and other important information regarding our services at our discretion.
+Kenkai.com and Kenkai Projects Limited disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Kenkai.com and Kenkai Projects Limited will, however, review, delete, or block access to communications that may harm Kenkai.com and enkai Projects Limited, its customers or third parties. The grounds on which Kenkai.com and Kenkai Projects Limited may take such action include, but are not limited to, actual or potential violations of Kenkai.com and Kenkai Projects Limited Policies. Please note, however, that Kenkai.com and Kenkai Projects Limited reserves the right to send bulletins and other important information regarding our services at our discretion.
 
 ## Notification of Changes
 
