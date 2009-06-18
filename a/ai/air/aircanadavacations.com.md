@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062531id_/http%3A//www.aircanadavacations.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aircanadavacations.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141748id_/http%3A//www.aircanadavacations.com/en/contact_us/security_and_privacy) for the most accurate reproduction.*
 
 # Air Canada Vacations | Security & Privacy
 
@@ -148,7 +148,7 @@ Air Canada Vacations ensures that its Privacy Policy concerning the management o
 
 **Access to personal information**
 
-On request, any person is entitled to be informed of the existence of personal information held by AIR CANADA VACATIONS regarding that person, the use that is made of it and whether this information has been disclosed to third parties. A person is also entitled to consult the information held by AIR CANADA VACATIONS regarding that person, subject to the exceptions prescribed by law. A person may also contest the accuracy or completeness of the information and request that corrections be made to it. To exercise rights of access or rectification, individuals may contact Manon Leblanc at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
+On request, any person is entitled to be informed of the existence of personal information held by AIR CANADA VACATIONS regarding that person, the use that is made of it and whether this information has been disclosed to third parties. A person is also entitled to consult the information held by AIR CANADA VACATIONS regarding that person, subject to the exceptions prescribed by law. A person may also contest the accuracy or completeness of the information and request that corrections be made to it. To exercise rights of access or rectification, individuals may the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
 
 Individual applicants must identify themselves, and sign their applications so as to prevent fraud or the unjustified transmission of personal information to third parties. Individuals must provide sufficient information so that it is possible for AIR CANADA VACATIONS to inform them of the existence, use and disclosure of personal information.
 
@@ -164,7 +164,7 @@ If the person concerned is not satisfied with the response provided to an applic
 
 A member may complain to AIR CANADA VACATIONS where the member feels there has been non-compliance with this Policy and the commitments regarding privacy and the rules it contains by applying to the AIR CANADA VACATIONS Privacy Officer.
 
-A complaint or a request for an investigation may be addressed in writing to the AIR CANADA VACATIONS Privacy Officer c/o Manon Leblanc at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
+A complaint or a request for an investigation may be addressed in writing to the AIR CANADA VACATIONS Privacy Officer at the following address: Air Canada Vacations, 1440 St. Catherine St. West, Suite 800, Montreal, Quebec, H3G 1R8
 
 Unless it is manifestly abusive, any complaint or request for an investigation shall be the object of an investigation or a response within sixty (60) business days. If the complaint is justified, AIR CANADA VACATIONS will take appropriate measures to address the complaint, by allowing access to the requested information, by proceeding with rectification or, as the case may be, by amending its Policy and practices.
 
