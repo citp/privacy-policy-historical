@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the maaproperties.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105528id_/http%3A//www.maaproperties.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maaproperties.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174706id_/http%3A//maaproperties.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Bye, Sell, Rent, Real Estate Agents, Realtors, Properties Hyderabad
+
+|  |  |   
+---  
+|  |  |   
+---|---|---  
+  | 
 
   * Maaproperties.com collects personal information when you register with Maaproperties.com, when you use Maaproperties.com services, when you visit Maaproperties.com pages or the pages of certain Maaproperties.com partners. 
   * When you register we ask for information such as your Name, Email Address, Company Name, Occupation, Industry etc. Once you register with Maaproperties.com and sign in to our services, you are not anonymous to us. 
@@ -22,3 +28,6 @@ Maaproperties.com does not rent, sell, or share personal information about you w
 Changes to this Privacy Policy
 
 We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Maaproperties.com account or by placing a prominent notice on our site. 
+
+|     
+|  | 
