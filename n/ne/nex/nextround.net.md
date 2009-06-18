@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218092946id_/http%3A//nextround.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143123id_/http%3A//nextround.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextRound.net
 
@@ -86,9 +86,7 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 **Questions**
 
-If you have any questions about our Privacy Policy, the practices of the Web site or the NR Group Pages, or your dealings with the Web site or the NR Groups, please don’t’ hesitate to contact us at [mail@nextround.net](mailto:mail@nextround.net).
-
-Maske and Booth
+If you have any questions about our Privacy Policy, the practices of the Web site or the NR Group Pages, or your dealings with the Web site or the NR Groups, please don’t’ hesitate to contact us at nextround.net-at-gmail.com.
 
   
 
