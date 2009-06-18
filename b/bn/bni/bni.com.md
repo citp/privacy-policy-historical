@@ -1,47 +1,67 @@
-> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913021412id_/http%3A//www.bni.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152210id_/http%3A//www.bni.com/default.aspx%3Ftabid%3D749) for the most accurate reproduction.*
 
-# BNI International Web Site
+# BNI Privacy Statement
 
-BNI is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the BNI Web site and governs data collection and usage. By using the BNI website, you consent to the data practices described in this statement.
+_**YOUR PRIVACY RIGHTS**_
 
-Collection of your Personal Information
+Effective Date of Current Policy: 10.31.08
 
-BNI collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. BNI also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+This Privacy Policy governs the way in which BNI collects and uses personal and non-personal information we learn about you from your visit to this website (the "Website"). Information obtained through membership in BNI is not covered herein. For more information, contact [BNI@BNI.com](mailto:BNI@BNI.com)
 
-There is also information about your computer hardware and software that is automatically collected by BNI. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by BNI for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the BNI Web site.
+Please also refer to the Mandatory Terms of Use, which are incorporated as if fully recited herein, if you have not already done so.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through BNI public message boards, this information may be collected and used by others. Note: BNI does not read any of your private online communications.
+**SITES COVERED**  
+This Agreement applies to the BNI Website located within the BNI.com domain, as well as various other BNI controlled websites that link to this Agreement.
 
-BNI encourages you to review the privacy statements of Web sites you choose to link to from BNI so that you can understand how those Web sites collect, use and share your information. BNI is not responsible for the privacy statements or other content on Web sites outside of the BNI and BNI family of Web sites.
+**TERRITORIALITY**  
+Our computer systems facilitating the Website are currently based in the United States. Your personal data will be processed by us in the United States, where data protection and privacy regulations may or may not be to the same level of protection as in other parts of the world. BY VISITING THIS WEBSITE, YOU UNEQUIVOCALLY AND UNAMBIGUOUSLY CONSENT TO THE COLLECTION AND PROCESSING IN THE UNITED STATES OF ANY PERSONAL AND NON-PERSONAL INFORMATION COLLECTED OR OBTAINED BY BNI THROUGH VOLUNTARY SUBMISSIONS, AND THAT UNITED STATES LAW GOVERNS ANY SUCH COLLECTION AND PROCESSING.
 
-Use of your Personal Information
+**EUROPEAN COMMISSION SAFE HARBOR COMPLIANCE**  
+Notwithstanding the Territoriality statement above, BNI agrees to follow all requirements of the United States Department of Commerce Safe Harbor Program (“Safe Harbor”) as it relates to all personally identifiable information transferred from the European Union (“EU”) and Canada to the United States within the scope of the Safe Harbor certification and applicable law. For more information regarding Safe Harbor, please consult the United States Department of Commerce at www.export.gov/safeharbor
 
-BNI collects and uses your personal information to operate the BNI Web site and deliver the services you have requested. BNI also uses your personally identifiable information to inform you of other products or services available from BNI and its affiliates. BNI may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**COLLECTION OF INFORMATION**  
+**-Personal Information**  
+Through this website, BNI collects no personal information about you, typically defined as individually identifying information such as your name, home address, telephone number, e-mail address and credit card information unless you voluntary submit it. You may submit information by clicking on various links, such as "Contact Us." Additionally, BNI collects such information when you sign up for a user-name or purchase any item on any BNI affiliated website.
 
-BNI does not sell, rent or lease its customer lists to third parties. BNI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, BNI may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to BNI, and they are required to maintain the confidentiality of your information.
+**-Non-Personal Information**  
+BNI may collect non-personal information about your activity at the Website. The Website may automatically recognize and store information about the type of browser you are using; your Internet Protocol ("IP") address; the time, date, and length of your visit; and the referring site. This information, if collected, is collected via computer code sent to your computer (commonly referred to as "cookies"). The cookies may not expire, unless you manually delete them or set your browser to reject them. If you do not accept the cookies, however, you may have difficulty navigating the Website. Furthermore, the Website may utilize Web beacons, embedded Web links, and other commonly used information-gathering tools.
 
-BNI does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+**USE**  
+BNI uses non-personal information to manage the Website. BNI may analyze the data about visits to the Website to make it more accessible and interesting for visitors. Further, BNI may share this data with third parties, usually to provide services for BNI associated with the maintenance of the Website.
 
-BNI keeps track of the Web sites and pages our customers visit within BNI, in order to determine what BNI services are the most popular. This data is used to deliver customized content and advertising within BNI to customers whose behavior indicates that they are interested in a particular subject area.
+If you submit personal information to the Website, the information will be used for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. That information may be stored and maintained for as long as is reasonable necessary to effectuate the service you request and for a reasonable time thereafter. BNI will process this information in a manner which is consistent with the purposes for which it has been collected or subsequently authorized by you.
 
-BNI Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on BNI or the site; (b) protect and defend the rights or property of BNI; and, (c) act under exigent circumstances to protect the personal safety of users of BNI, or the public.
+Additionally, BNI may use such information to inform you of other products or services available from BNI and its affiliates. BNI may also use such information to contact you via surveys to conduct research about your opinion of current services or of potential new services to be offered. BNI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party.
 
-Use of Cookies
+In addition, BNI may share data with trusted partners to help us fulfill your request, perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to BNI, and they are required to maintain the confidentiality of your information. To the extent that the Safe Harbor Principles or Canadian law applies to your data, BNI will ensure that any such third party transferee subscribes to Safe Harbor Principles, is subject to the EU Privacy Directive, or otherwise agrees to comply with the Safe Harbor Principles as they relate to any personal information such third party obtains from BNI. Under no circumstances will BNI be held responsible by any failure by such a third party to comply with the EU Privacy Directive, Safe Harbor Principles or any agreement with BNI to adhere to such requirements, except as provided by the Safe Harbor Principles or applicable law.
 
-The BNI Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Furthermore, BNI may disclose any information collected to the extent necessary to comply with the law, to the extent reasonably necessary to establish or defend a legal claim and for other purposes permitted by applicable law. Additionally, any such information may be transferred to a third party in the event of a sale, acquisition, merger or bankruptcy involving BNI or any subsidiary or section thereof.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize BNI pages, or register with BNI site or services, a cookie helps BNI to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same BNI Web site, the information you previously provided can be retrieved, so you can easily use the BNI features that you customized.
+If you do not wish BNI to use your information in accordance with this Policy, please do not submit any personal information to BNI.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the BNI services or Web sites you visit.
+**ACCESS, UPDATE AND OPT-OUT**  
+If you would like to access or update any information you have sent to BNI, if you do not want to receive information from BNI or if you would like to limit your information’s use or disclosure, please contact us at [BNI@BNI.com](mailto:BNI@BNI.com).
 
-Security of your Personal Information
+At such a time, BNI may request that you verify your identify so that BNI may ensure the accuracy and lawfulness of granting you such access.
 
-BNI secures your personal information from unauthorized access, use or disclosure. BNI secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+BNI will make reasonable efforts to honor any request you make, including requests to access and update the information stored by BNI and requests that BNI forgo contacts with you in the future or delete your information, except to the extent that the burden for providing such access and correction would be disproportionate to the risks to your privacy in the case in question, or as otherwise permitted by applicable law. Please note that if you make an opt-out request, BNI will retain your contact information to make efforts to ensure that you are not contacted in the future. Additionally, please note that if you request that BNI refrain from sharing your information with third parties, BNI may be unable to fulfill various requests made by you.
 
-Changes to this Statement
+To the extent required by the CAN-SPAM Act, or other similar domestic and international regulation, commercial e-mail messages will provide you with an opportunity to opt-out of receiving such information. Please note that changes to your preferences may not be effective immediately.
 
-BNI will occasionally update this Statement of Privacy to reflect company and customer feedback. BNI encourages you to periodically review this Statement to be informed of how BNI is protecting your information.
+**COMPLIANCE AND ENFORCEMENT**  
+We have established an internal policy and program regarding EU data to monitor our adherence to the Safe Harbor Principles and Canadian law and to address any internal anomalies in such adherence. This includes a statement made at least once a year, signed by an authorized representative of BNI, verifying that this Policy is in compliance with the Safe Harbor Principles as it relates to EU data. If there is any conflict between this Privacy Policy and the Safe Harbor Principles and other applicable law, the Safe Harbor Principles and such other applicable law will govern as this Policy is applied to data collected in the EU and Canada.
 
-Contact Information
+If you have a complaint regarding a specific instance of data collection or processing engaged in by BNI which pertains to your personal information, please contact us at [BNI@BNI.com](mailto:BNI@BNI.com). BNI will make reasonable attempts to resolve any such complain in accordance with internal policy. If any such a dispute with an EU or Canadian citizen resident cannot be resolved through our internal processes, BNI will cooperate with competent EU data protection authorities or the Office of the Privacy Commissioner of Canada and comply with the advice of such authorities. In the event that BNI, the EU data protection authorities or the Office of the Privacy Commissioner of Canada determine that BNI did not comply with this Policy, BNI will take appropriate steps to address any adverse effects and to promote future compliance.
 
-BNI welcomes your comments regarding this Statement of Privacy. If you believe that BNI has not adhered to this Statement, please contact BNI at [bni@bni.com](mailto:bni@bni.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+**SECURITY**  
+BNI attempts to secure your personal information from unauthorized access, use or disclosure. BNI attempts to secure the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+**CALIFORNIA AND EEA PRIVACY RIGHTS**  
+Beginning on January 1, 2005, California Civil Code Section 1798.83, also known as S.B. 27, or the “Shine the Light” law, allows California residents to request certain information regarding our disclosures in the prior calendar year, if any, of their personally identifiable information to third parties. Similar rights are available to individuals who are citizen residents of countries in the European Economic Area (EEA) and Canada. To make such a request, please contact us at [BNI@BNI.com](mailto:BNI@BNI.com) with "Request for Privacy Information" in the letter subject line. You must include sufficient detail for us to locate your file; at a minimum, your name, email and postal address.
+
+We will attempt to provide you with the requested information within thirty (30) days of receipt. We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice. Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
+
+**REVISIONS TO THE PRIVACY POLICY**  
+The Internet and the benefits it offers are evolving rapidly, as are the ways in which people use the Internet and the laws surrounding such use. BNI therefore reserves the right to update and revise this Privacy Policy at any time. You can determine if this Privacy Policy has been revised since your last visit by referring to the "Effective Date of Current Policy" date at the top of this page. Your use of our Website constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us, and you should therefore review this Privacy Policy regularly to ensure that you are aware of its terms.
+
+© 2008, BNI, All rights reserved
