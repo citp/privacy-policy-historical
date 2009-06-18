@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516041020id_/http%3A//www.acsm.org/Content/NavigationMenu/AboutACSM/Privacy/ACSM_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193615id_/http%3A//www.acsm.org/Content/NavigationMenu/AboutACSM/Privacy/ACSM_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # ACSM | ACSM Privacy Policy
 
