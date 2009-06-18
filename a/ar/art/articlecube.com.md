@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050636id_/http%3A//www.articlecube.com/site.php%3Fview%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142946id_/http%3A//www.articlecube.com/site.php%3Fview%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Article Directory - Free Articles - ArticleCube
 
@@ -24,7 +24,13 @@ ArticleCube.com expects its partners, advertisers and affiliates to respect the 
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ArticleCube.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ArticleCubecom and this policy. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ArticleCube and this policy. 
+
+Google 
+
+* Google, as a third-party vendor, uses cookies to serve ads on Articlecube.  
+* Google's use of the DART cookie enables it to serve ads to users based on their visit to Articlecube and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Children 
 
@@ -37,3 +43,5 @@ We can be reached by emailing us.
 Changes to this Policy 
 
 ArticleCube.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+
+(last policy change: 22 March 2009)
