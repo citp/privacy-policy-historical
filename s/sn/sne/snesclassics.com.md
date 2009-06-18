@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snesclassics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152426id_/http%3A//www.snesclassics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snesclassics.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618061620id_/http%3A//www.snesclassics.com/privacy.php) for the most accurate reproduction.*
 
 # SNES ROMs, Games & ROM Emulators Nintendo ROMs – free SNES ROMs From Super Nintendo Classics
 
