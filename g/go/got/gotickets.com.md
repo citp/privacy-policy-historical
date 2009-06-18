@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015856id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112201id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GOtickets.com Privacy Policy
 
