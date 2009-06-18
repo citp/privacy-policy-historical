@@ -1,30 +1,31 @@
-> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102911id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618121514id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Georgia Girl's Sampler Privacy Statement
 
-Georgia Girl's Sampler has created this privacy statement in order to demonstrate our firm commitment to privacy. We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically.
+Georgia Girl's Sampler has created this privacy statement in order to demonstrate our firm commitment to privacy. We collect no personal information about you when you visit our website unless you choose to provide this information to us. 
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:  
 
-               The Internet domain and IP address;   
-               The type of browser and operating system used to access our site;   
-               The date and time you access our site;   
-               The pages you visit; and if you linked to our website from another website,   
-               the address of that website. We use the information we collect to count the   
-               number and type of visitors to the different pages on our site, and to help us   
-               make our site more useful to visitors like you.   
-               We do not collect any personal information such as name, address, or   
-               telephone number.   
-               Email addresses are never collected, distributed or sold.
 
-This site uses the services of Google Adsense, ValueClick Media and Chitika for the serving and/or targeting of ads, promotions and other marketing messages. To learn more, including your ability to opt out of their system, visit their sites. 
+> * The Internet domain and IP address;  
+> 
+> * The type of browser and operating system used to access our site;  
+> 
+> * The date and time you access our site;  
+> 
+> * The pages you visit; and if you linked to our website from another website, the address of that website. We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.  
+> 
+> * We do not collect any personal information such as name, address, or telephone number.  
+> 
+> * Email addresses are never collected, distributed or sold.
 
-> > Google Adsense <http://www.google.com/privacy_faq.html>   
-> ValueClick Media <https://www.valueclickmedia.com/privacy.shtml>[  
->  ](https://www.valueclickmedia.com/privacy.shtml)Chitika <https://chitika.com/privacy_policy.php>
+This site uses the services of the following companies for the serving and/or targeting of ads, promotions and other marketing messages. To learn more, including your ability to opt out of their system, visit their sites.
 
-We may also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20081217102911id_/http%3A//www.gagirl.com/thirdparty.html).
+> Advertising.com <http://www.platform-a.com/privacy-policy/advertisingcom>  
+> Google Adsense <http://www.google.com/privacy_faq.html>  
+> ValueClick Media <https://www.valueclickmedia.com/privacy.shtml>  
+> Chitika <https://chitika.com/privacy_policy.php>
 
-If you have any questions about our dedication to privacy, please [contact us.](mailto:admin@GAgirl.com?subject=privacy_html)
+We may also use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20090618121514id_/http%3A//www.gagirl.com/thirdparty.html). If you have any questions about our dedication to privacy, please [contact us.](mailto:admin@GAgirl.com?subject=privacy_html)
