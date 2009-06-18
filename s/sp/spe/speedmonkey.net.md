@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112948id_/http%3A//www.speedmonkey.net/view-rant/speedmonkey-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmonkey.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618050528id_/http%3A//speedmonkey.net/view-rant/speedmonkey-privacy-policy) for the most accurate reproduction.*
 
 # SpeedMonkey Privacy Policy -SpeedMonkey Privacy Policy- Pop culture Celebrity News, Gossip, Reviews & Advice Speedmonkey.net
 
