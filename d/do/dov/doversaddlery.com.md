@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085408id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143343id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
 
-# Privacy Policy - Dover Saddlery
+# Privacy Policy - Dover Saddlery.
 
 |  | 
 
@@ -193,11 +193,11 @@ Sign up for email sales, specials and events.
 
 
   
-[ ](https://www.doversaddlery.com/article.asp?ai=72)
+[](https://www.doversaddlery.com/article.asp?ai=72)[](http://equestrian.doversaddlery.com/closeouts/)[](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)[ ](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)
 
 [  
   
-](https://www.doversaddlery.com/article.asp?ai=72)
+](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)
 
    
 
