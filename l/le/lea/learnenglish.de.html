@@ -1,0 +1,359 @@
+<!--The following is the downloaded HTML source of the learnenglish.de privacy policy that was archived on 2009-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618065136id_/http%3A//www.learnenglish.de/security.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/MainTemplate.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Author" content="LR Hand">
+<script src="http://www.thefreedictionary.com/dict.js"></script>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Site Security Issues</title>
+
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<meta name="Description" content="Learn English Free - Security issues">
+<meta name="Keywords" content="security issues, security centre, e-mail, spam, virus, phishing, hotlinking, ezboard attack, forum attack, leeching, direct linking, theft, fraud">
+<!-- InstanceEndEditable -->
+<style type="text/css"> 
+<!-- 
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+}
+
+/* Tips for Elastic layouts 
+1. Since the elastic layouts overall sizing is based on the user's default fonts size, they are more unpredictable. Used correctly, they are also more accessible for those that need larger fonts size since the line length remains proportionate.
+2. Sizing of divs in this layout are based on the 100% font size in the body element. If you decrease the text size overall by using a font-size: 80% on the body element or the #container, remember that the entire layout will downsize proportionately. You may want to increase the widths of the various divs to compensate for this.
+3. If font sizing is changed in differing amounts on each div instead of on the overall design (ie: #sidebar1 is given a 70% font size and #mainContent is given an 85% font size), this will proportionately change each of the divs overall size. You may want to adjust based on your final font sizing.
+*/
+.thrColEls #container {
+	width: auto;
+	margin: 0 auto;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+} 
+/* Tips for sidebar1:
+1. Be aware that if you set a font-size value on this div, the overall width of the div will be adjusted accordingly.
+2. Since we are working in ems, it's best not to use padding on the sidebar itself. It will be added to the width for standards compliant browsers creating an unknown actual width. 
+3. Space between the side of the div and the elements within it can be created by placing a left and right margin on those elements as seen in the ".thrColEls #sidebar1 p" rule.
+*/
+.thrColEls #menu {
+	float: left;
+	width: 15em; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 15px 0 0 5px; /* top and bottom padding create visual space within this div */
+	text-align: left;
+}
+.thrColEls #sidebar2 {
+	float: right;
+	width: 15em; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 5px 0 0 15px; /* top and bottom padding create visual space within this div */
+	text-align: left;
+}
+.thrColEls #sidebar1 h3, .thrColEls #sidebar1 p, .thrColEls #sidebar2 p, .thrColEls #sidebar2 h3 {
+	margin-left: 10px; /* the left and right margin should be given to every element that will be placed in the side columns */
+	margin-right: 10px;
+	text-align: left;
+}
+.thrColEls #header {
+	margin: 0 16em 0 16em;
+}
+
+/* Tips for mainContent:
+1. If you give this #mainContent div a font-size value different than the #sidebar1 div, the margins of the #mainContent div will be based on its font-size and the width of the #sidebar1 div will be based on its font-size. You may wish to adjust the values of these divs.
+2. The space between the mainContent and sidebar1 is created with the left margin on the mainContent div.  No matter how much content the sidebar1 div contains, the column space will remain. You can remove this left margin if you want the #mainContent div's text to fill the #sidebar1 space when the content in #sidebar1 ends.
+3. To avoid float drop, you may need to test to determine the approximate maximum image/element size since this layout is based on the user's font sizing combined with the values you set. However, if the user has their browser font size set lower than normal, less space will be available in the #mainContent div than you may see on testing.
+4. In the Internet Explorer Conditional Comment below, the zoom property is used to give the mainContent "hasLayout." This avoids several IE-specific bugs that may occur.
+*/
+.thrColEls #mainContent {
+	width: auto; /* the background color will be displayed for the length of the content in the column, but no further */
+	float: center;
+	margin: 0 16em 0 16em; /* the right margin can be given in ems or pixels. It creates the space down the right side of the page. */
+} 
+.thrColEls #footer {
+	margin: 0 16em 0 16em;
+	vertical-align: bottom;
+}
+
+/* Miscellaneous classes for reuse */
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+--> 
+</style><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColEls #sidebar1, .thrColEls #sidebar2 { padding-top: 30px; }
+.thrColEls #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<link href="http://www.learnenglish.de/LEStyle08.css" rel="stylesheet" type="text/css">
+</head>
+
+<body class="thrColEls" ondblclick="dictionary()">
+<script language="JavaScript" src="http://www.learnenglish.de/milonic_src.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=http://www.learnenglish.de/mmenuns4.js></scr"+"ipt>");
+else _d.write("<scr"+"ipt language=JavaScript src=http://www.learnenglish.de/mmenudom.js></scr"+"ipt>");
+</script>
+<script language="JavaScript" src="http://www.learnenglish.de/LEmenu_data.js" type="text/javascript"></script>
+<div id="container">
+<div id="menu">
+<a href="http://www.learnenglish.de"><img src="http://www.learnenglish.de/lelogo.gif" alt="Learn English Free" width="97" height="59" border="0"></a>
+<br>
+<!-- InstanceBeginEditable name="Menu" --><p><script>
+with(milonic=new menuname("Main Menu")){
+style=menuStyle;
+alwaysvisible=1;
+orientation="vertical";
+position="relative";
+aI("text=Home;url=http://www.learnenglish.de/;status=Home;");
+aI("text=Main Menu;showmenu=Menu;");
+}
+drawMenus();
+</script></p><!-- InstanceEndEditable -->
+    <h4><a href="http://www.learnenglish.de/freelinks.htm">Advertisements</a></h4>
+<script type="text/javascript"><!--
+google_ad_client = "pub-4812195208277841";
+/* LE - Front Page Vertical */
+google_ad_slot = "4697756878";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<h4><a href="http://www.learnenglish.de/Books/resbooks.htm">Books</a></h4>
+<h5><a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;camp=1789&amp;tag=learnenglish0b&amp;creative=9325&amp;path=tg/browse/-/17" target="newwin">Amazon.com</a><img src="http://www.assoc-amazon.com/e/ir?t=learnenglish0b&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"><br>
+       <a href="http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.co.uk%2F&amp;tag=learnenglish&amp;linkCode=ur2&amp;camp=1634&amp;creative=6738" target="newwin">Amazon.co.uk</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=learnenglish&amp;l=ur2&amp;o=2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"><br>
+<a href="http://www.amazon.de/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.de%2F&amp;tag=learnenglishonli&amp;linkCode=ur2&amp;camp=1638&amp;creative=6742">Amazon.de</a><br>
+<a href="http://www.amazon.fr/b?_encoding=UTF8&amp;node=52042011&amp;tag=learnenglish-21&amp;linkCode=ur2&amp;camp=1642&amp;creative=6746">Amazon.fr</a><font size="2"><br>
+    </font></h5>
+</div>
+ <!-- end menu --></div>
+  <div id="sidebar2">
+    <!-- InstanceBeginEditable name="Sidebar2" --><!-- InstanceEndEditable -->    
+
+<!-- InstanceBeginEditable name="Sponsor" -->
+<h4><a href="http://www.learnenglish.de/subspage.htm">Sponsors</a></h4>
+<div>
+  <!-- Begin Project Wonderful ad code: -->
+  <!-- IMPORTANT: All lines, including these comments, must be included. -->
+  <!-- Removing or altering them could result in your ads being automatically shut down! -->
+  <!-- Ad box ID: 6799 -->
+  <script language="JavaScript" type="text/javascript">
+// <![CDATA[
+r = new String (Math.random()*1000);
+r = r.substr(0, 5);
+s = new String ("<script language='JavaScript' type='text/javascript'");
+s += "src = http://www.projectwonderful.com/gen.php";
+s += "?id=6799&amp;type=4";
+s += "&amp;r=" + r;
+if (document.referrer){
+s += "&amp;referer=" + escape(document.referrer);
+}
+s += "><\/scr";
+s += "ipt>";
+document.write(s);
+// ]]>
+</script><script language="JavaScript" type="text/javascript" src="http://www.projectwonderful.com/gen.php?id=6799&amp;type=4&amp;r=308.8"></script>
+  <noscript>
+  <map name="admap6799" id="admap6799">
+    <area href="http://www.projectwonderful.com/out_nojs.php?r=0&amp;c=0&amp;id=6799&amp;type=4" shape="rect" coords="0,0,125,125" title="" alt="" target="_blank" />
+    <area href="http://www.projectwonderful.com/out_nojs.php?r=1&amp;c=0&amp;id=6799&amp;type=4" shape="rect" coords="0,128,125,253" title="" alt="" target="_blank" />
+    <area href="http://www.projectwonderful.com/out_nojs.php?r=2&amp;c=0&amp;id=6799&amp;type=4" shape="rect" coords="0,256,125,381" title="" alt="" target="_blank" />
+  </map>
+  <table cellpadding="0" border="0" cellspacing="0" width="125" bgcolor="#ffffff">
+    <tr>
+      <td><img src="http://www.projectwonderful.com/nojs.php?id=6799&amp;type=4" width="125" height="384" usemap="#admap6799" border="0" alt="" /></td>
+    </tr>
+    <tr>
+      <td bgcolor="#ffffff" colspan="1"><center>
+        <a style="font-size:10px;color:#0000ff;text-decoration:none;line-height:1.2;font-weight:bold;font-family:Tahoma, verdana,arial,helvetica,sans-serif;" href="http://www.projectwonderful.com/advertisehere.php?id=6799&amp;type=4" target="_blank">Project Wonderful - Your ad could be here, right now.</a>
+      </center></td>
+    </tr>
+  </table>
+  </noscript>
+  <!-- End Project Wonderful ad code. -->
+</div>
+<!-- InstanceEndEditable -->
+<!-- end #sidebar2 --></div>
+ <div id="header">
+<div align="left"> <a href="#bottom"><img src="http://www.learnenglish.de/i/navigate/down.gif" alt="Go to the bottom of the page" width="14" height="14" border="0"></a><a name="top" id="top"></a></div>
+ <!-- InstanceBeginEditable name="Title" --><h1 align="center">Learn English Free</h1><!-- InstanceEndEditable -->
+ <div align="center"><!-- Google CSE Search Box Begins  -->
+<form action="http://www.learnenglish.de/searchresults.htm" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="002457767606894027501:q_i8bkcnfwy">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="31">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+<!-- Google CSE Search Box Ends -->
+</div>
+ <!-- InstanceBeginEditable name="Subtitle" -->
+        <h2 align="center">Learn English - Security Centre </h2>
+        <p align="center"><a href="#fraud">Fraudulent Emails</a> | <a href="#hotlinking">Hot linking</a> | <a href="#privacy">Privacy Policy</a> |<a href="#safety">Safety</a> | <a href="#trolls">Trolls</a><br>
+        <a href="#forum">English  Forum</a></p>
+    <!-- InstanceEndEditable -->
+  <p align="center">
+    <script type="text/javascript"><!--
+google_ad_client = "pub-4812195208277841";
+/* LE - Horizontal Links - Main Template */
+google_ad_slot = "5944374795";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+  </p>
+  <!-- end #header --></div> 
+    <div id="mainContent">
+	<!-- InstanceBeginEditable name="Text" -->
+    <p>This page covers the privacy policy of the Network and any security issues. </p>
+    <h4><a name="privacy" id="privacy"></a>Privacy Policy</h4>
+    <p>This privacy policy sets out how 'The Learn English Network' uses and protects any information that you give  when you use the websites.</p>
+    <p>We are committed to ensuring that your privacy is protected.</p>
+    <p>When using certain parts of the network the following information may be collected:-</p>
+    <p> * Your IP address<br>
+      * Your email address (if provided when registering an account)<br>
+      * Demographic information such as the country you are accessing this website from<br>
+      * Browser statistics (such as type, OS, screen resolution, javascript enabled etc)</p>
+    <p>Controlling your personal information</p>
+    <p>Learn English does not sell, distribute or lease any information to third parties.</p>
+    <p>What I do with the information gathered?</p>
+    <p>Pretty much nothing.</p>
+    <p>Sometimes  we like to look at what country visitors come from, especially out of the way places. It's cool.<br>
+      Sometimes we like to see what browsers are being used so that we can check the site for compatability.<br>
+      We don't send out emails, because we hate Spam!  The only communciation you may receive from us is if you've signed up for the forum, the newsletter or the magazine and that's pretty rare.</p>
+    <p>Security</p>
+    <p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place security procedures to safeguard and secure the information we collect online.</p>
+    <p>We will never ask you for private information.  We are not interested in your income or your bank balance.</p>
+    <p>Cookies    </p>
+    <p>Cookies are delicious biscuits, made with butter and the best ones have chocolate in. They are also  tiny pieces of text that web sites use to track sessions through the website, so they can find out what pages interest their visitors the most.  But we don't know who you are, and we don't know where you live.  You can disable or delete cookies using your browser settings (this might affect the functionality of some of the games or tests on this site though).</p>
+    <p>We use third-party advertising companies to serve ads when you visit  our website. These companies may use information (don't worry, this doesn't include your  name, address, email, telephone number or shoe size) about your visits to  this and other websites in order to provide advertisements about goods  and services of interest to you. If you would like more information  about this practice and would like to know your options in relation  to·not having this information used by these companies, <a href="http://www.networkadvertising.org/" title="NAI" target="newwin">click here</a>.</p>
+<p>Links to other websites</p>
+    <p>The Network contains links to enable you to visit other relevant or interesting websites easily. We try to only provide links to safe content, but we don't run these websites, and so this policy doesn't cover them. Once you've followed those links you're pretty much on your own.  So exercise caution and look at the privacy statement applicable to the website in question.</p>
+    <h4 align="justify">Spam</h4>
+      <p align="justify">The increased use of spamming has led me to cut out all
+        email contact from all my web sites. People can still contact me via  the <a href="http://learnenglishonline.yuku.com/" target="newwin">forum</a> and my <a href="http://www.yourteacher.learn-english-network.org/2004/08/about-your-teacher.html" target="newwin">blog</a>. </p>
+      <p align="justify">If you are having similar problems you may be interested
+        in this article:- </p>
+      <h5 align="justify"><a href="http://www.inhand.de/Advice/getridofspam.htm">How to get rid of spam. </a></h5>
+      <h4 align="justify"><a name="fraud" id="fraud"></a>Bogus Emails </h4>
+      <p align="justify">Learn English has been the&nbsp;target of a recent " virus" attack. This means that you may receive an email that looks like it&nbsp;was sent from Learn English, but it was not. </p>
+      <p align="justify">The emails in this sad case may carry the following information:-</p>
+      <p align="justify">admin@learnenglish.de - Email Account Suspension </p>
+      <p align="justify">adminstrator@learnenglish.de - Members Support </p>
+      <p align="justify">info@learnenglish.de - You have successfully updated the password of your Learnenglish account.</p>
+      <p align="justify">info@learnenglish.de - Suspended Account </p>
+      <p align="justify">mail@learnenglish.de - Your Account is Suspended For Security Reasons </p>
+      <p align="justify">support@learnenglish.de - Your Account is Suspended </p>
+      <p align="justify">register@learnenglish.de - Your password has been updated </p>
+      <p align="justify">register@learnenglish.de - Warning Message: Your services near to be closed</p>
+      <p align="justify">webmaster@learnenglish.de - Email Account Suspension</p>
+      <p align="justify">Learn English will never  send you an email requesting any personal information. I don't run membership accounts, there is no admin, no administrator, no registration, no webmaster and no support - there's just me. In addition I don't provide email addresses to anyone other than myself and the only files I send out are the sound files that are requested by filling out a form (and they are now being sent out under another domain's email).</p>
+      <p align="justify">So, the bottom line is you should be suspicious when you are asked by email  for any information, or to open any attachments, especially if you did not initiate the contact. </p>
+      <p align="justify">If you have any information about the sad sack  who is carrying out this waste of my and other people's time, please let the appropriate authorities know. </p>
+      <h5 align="left">Frequently Asked Questions about "Phishing" </h5>
+      <p align="left"><strong>1. How did the fraudulent email get to my email address?</strong> The individuals behind the attack most likely have gathered the email addresses from publicly available places. </p>
+      <p align="left"><strong>2. What should I do if I receive one of these fraudulent emails? </strong></p>
+      <div align="left">
+        <ul>
+          <li>
+            <p>Don't open it.</p>
+          </li>
+          <li>
+            <p>Don't click on any links. Always go to a website yourself through your browser.</p>
+          </li>
+          <li>
+            <p> Don't open any attachments. </p>
+          </li>
+          <li> Do NOT respond to the original email. That will only confirm your mail address and you may receive further attacks. </li>
+        </ul>
+        <h5>On the bright side you can learn a new word </h5>
+        <p align="justify">Phishing is a practice used by con-artists (scum of the earth) on the internet to steal someone's bank account or credit card number or other personal information. They accomplish this by sending fake emails which may claim to be from Ebay, Microsoft, your internet service provider, some other legitimate website (like mine), your bank or even a law enforcement agency. </p>
+        <p align="left">The term "phish" was first coined in the mid 1990s by crackers attempting to steal America Online (AOL) accounts. An attacker would pose as an AOL staff member and send an instant message to a potential victim. The message would ask the victim to reveal his or her password, for instance to "verify your account" or to "confirm billing information." Once the victim gave over the password, the attacker could access the victim's account and use it for criminal purposes, such as spamming (the act of sending unsolicited electronic messages in bulk). </p>
+        <p align="left">"Phishing" is sometimes said to stand for password fishing. Some theories accredit the term "phishing" to originate from the name "Brien Phish," who was the first to allegedly use psychological techniques to steal credit card numbers in the 1980s. Others believe that "Brien Phish" was not a real person but a fictional character used by scammers to identify each other. </p>
+        <p align="center">
+          <script type="text/javascript"><!--
+google_ad_client = "pub-4812195208277841";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al_s";
+//2007-02-22: LE - General
+google_ad_channel = "8438646639";
+google_color_border = "000066";
+google_color_bg = "FFFFFF";
+google_color_link = "000066";
+google_color_text = "000066";
+google_color_url = "FF0000";
+//--></script>
+          <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+      </script>
+        </p>
+        <h4 align="left"><a name="hotlinking" id="hotlinking"></a>Hotlinking</h4>
+        <h5>What is hotlinking?</h5>
+        <p>Every image that is displayed on my pages is uploaded from my own web space. However, it has come to my attention that some people are displaying  images directly from my web site onto theirs.</p>
+        <p>This is known as hotlinking, leeching, or direct linking and it is something you should never do. It's bad enough to use an image from another web site without permission, but hotlinking is even worse. </p>
+        <h5>Why you shouldn't do it </h5>
+        <p>Some of the images  stolen may be viewed dozens,  hundreds and in a couple of cases  thousands of times. Each time it costs me money, me personally, not a company, me - a freelance English teacher running a free to use web site.</p>
+        <p>Posting a link to an image is not the same as hotlinking. If you post the URL for the image so that people can click on it and see the picture you're referring to, that's fine. If you actually make the image appear in your page / email / post, using a learnenglish.de or learn-english-online.org URL, that's stealing.</p>
+        <p>So please, if you want to use a picture on this site right-click on it, save it to <em>your</em> computer, upload it to <em>your own </em>personal webspace, and then put <em>*your* URL</em> in the img tags. If you want to say where you got the picture from in the first place - even better. </p>
+        <h4><a name="trolls" id="trolls"></a>Trolls</h4>
+        <p>Some of you may have heard me talking about trolls. But what are they
+          really? <a href="http://www.inhand.de/Advice/trolls.htm" target="newwin">This article attempts to explain. </a></p>
+        <p>The best way to deal with trolls is to report them to whoever is in charge, and then ignore them. Like most imaginary creatures, they will soon disappear. </p>
+        <h4><a name="safety" id="safety"></a>Keep Safe</h4>
+        <p> Only adults should use the forum and chat services. </p>
+        <p>Some people online  may not be who you think they are.   In order to protect yourself you should not publish your real name, address or   give  any personal or contact details or anything that would comprimise your   location or identity. </p>
+        <p>Don't give out your email address especially if it contains part or all of   your name. The English Forum has a very good (free) messaging system which is   like e-mail that you can use by becoming a member (free). Or you could use a special e-mail address that you don't mind deleting (hot mail yahoo   etc...)</p>
+        <p>Don't give any details about your routine (for the lessons make one up). For example don't tell them   which college/university you go to or the places you like to go and when you'll   be there. </p>
+        <p>You are strongly advised to <strong>NEVER </strong>meet anyone that you know   just from the Internet. </p>
+        <p>Do  not open URLs that are posted by other users whom you do not trust, they may   contain links to viruses or sites with disturbing content. </p>
+        <p>If someone offers you lots of money or tells you you've won something for doing nothing just remember the golden rule. "If it sounds too good to be true, then it probably is."</p>
+        <h4 align="left"><a name="forum" id="forum"></a>English Network</h4>
+        <p align="left">Members of the forum will be aware that there was a massive attack on the English Network Forum on May 31 2005. The forum was hosted by EZBoard and their complete service was affected, not just Learn English.</p>
+        <p align="left">The result has been many of the previous posts were deleted and some of the topics lost, I'm sorry if it was one of yours. I have thought some nasty thoughts about the person / people responsible and restored the service as best as possible. </p>
+        <p align="left">The forum is now hosted by Yuku. Occasionally tnere is spam on the forum, usually with stupid offers, I remove all spam eventually and then ban these accounts. But my guidance is, don't click on external links unless they've been posted by someone you trust.</p>
+      </div>
+    <!-- InstanceEndEditable -->
+<!-- end #mainContent --></div>
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
+  <div id="footer">
+  <p><a href="#top"><img src="http://www.learnenglish.de/i/navigate/up.gif" border="0" height="14" width="14" alt="Go to the top of the page"></a><a name="bottom" id="bottom"></a>
+  </p>
+  <!-- InstanceBeginEditable name="Created" -->
+     <a href="http://www.learnenglish.de"><img src="IMAGES/Navigate/back.gif" alt="Return to the Learn English Home Page" width="14" height="14" border="0"></a><br>
+  <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Footer" -->
+<p align="center">
+<iframe id="datamain" src="footer.html" width="90%" height="175" marginwidth="1" marginheight="1" hspace="1" vspace="1" frameborder="0" scrolling="no"></iframe>
+          <layer visibility="hide">
+            </layer></p><div style="width:300px;" align="center"> <a href="#" onmouseover="scrollspeed=-2" onmouseout="scrollspeed=0">Up</a> | <a href="#" onmouseover="scrollspeed=2" onmouseout="scrollspeed=0">Down</a></div>
+        
+<p></p>
+<!-- InstanceEndEditable -->
+   <h6 class="thrColEls"> This site's URL is: http://www.learnenglish.de. In association with the <a href="http://www.learn-english-network.org">Learn English Network</a>.<br><br>
+    <a href="http://www.learnenglish.de/subspage.htm">You can easily advertise on this site or become an official sponsor</a>
+    </h6>
+  <!-- end #footer --></div>
+<!-- end #container -->
+
+<!-- InstanceEnd -->
+</body></html>
