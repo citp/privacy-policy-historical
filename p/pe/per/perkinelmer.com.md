@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041501id_/http%3A//www.perkinelmer.com/CorpGenericContent.htm%3FMode%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkinelmer.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174329id_/http%3A//www.perkinelmer.com/CorpGenericContent.htm%3FMode%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PerkinElmer
 
