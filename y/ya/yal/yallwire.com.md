@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173544id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103450id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
 
 # Yallwire Privacy Policy
 
@@ -19,7 +19,7 @@ Yallwire does not house or collect any personal information about you unless you
 Yallwire has a registration process through which you voluntarily sign up to access the members-only features of our Website. During the registration process, we ask for your name, email address, and other personal information. To make sure that nobody else can access our members-only features using your name or identity, we ask that you create a unique username with a password. 
 
 **Newsletter Subscription**   
-When you subscribe to our FREE newsletters, we ask for an email address to send them to. You may opt out of receiving future mailings or cancel your subscription(s) at any time. (See the subscribe/unsubscribe section below.) 
+Yallwire sends one email newsletter a week which will includea list of our newest or top videos and a few featured news articles or contest updates. From time to time, we may also send an email notifying you of an upcoming contest or special features. We give you the choice whether to receive email or other contact from us and we give you the opportunity to unsubscribe from receiving unwanted communications (click here for instructions.) 
 
 **Contests and Promotions**   
 When you enter a contest or take part in a promotion, we may ask for your name, mailing address and email address. Should a third party sponsor the contest or promotion, that party will have access to this information. We need this information in order to notify our winners and, when applicable, ship the winners' prizes.. 
