@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094422id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140712id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -58,7 +58,7 @@ USA **
 
 **Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)**
 
-**Outside US phone: +1 (312) 252-0005 or +44 0207 071 5699**
+**Outside US phone: +1 (312) 252-0005 or +44 (0) 2030261229**
 
 **Outside US fax: (360) 525-0025** ****
 
