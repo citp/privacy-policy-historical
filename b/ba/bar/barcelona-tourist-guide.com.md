@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174704id_/http%3A//www.barcelona-tourist-guide.com/en/general/privacy.html) for the most accurate reproduction.*
 
 # 
 
 Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to. 
 
-In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback ](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
+In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback ](https://web.archive.org/web/20090618174704id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html#exclusiverights)
 
-When you sign up to our [free newsletter](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company. 
+When you sign up to our [free newsletter](https://web.archive.org/web/20090618174704id_/http%3A//www.barcelona-tourist-guide.com/en/general/barcelona-travel-newsletter.html) we keep your details strictly private and never rent, sell, or in anyway disclose your e-mail address to any other company. 
 
 www.barcelona-tourist-guide.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -14,11 +14,9 @@ www.barcelona-tourist-guide.com strives to maintain the highest standards of dec
 
 www.barcelona-tourist-guide.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number etc. 
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors   
-of updates, and respond to visitor enquiries.
+This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor enquiries.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information   
-we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties unless you specifically ask us to.
+Once information is reviewed, it is discarded or stored in our files. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties unless you specifically ask us to.
 
 ## Use of Cookies and Web Beacons
 
@@ -48,7 +46,7 @@ If www.barcelona-tourist-guide.com is sold, the information we have obtained fro
 ## How You Can Correct or Remove Information
 
 We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information   
-through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know. 
+through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20090618174704id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know. 
 
 ## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc 
 
@@ -66,11 +64,16 @@ www.barcelona-tourist-guide.com reserves the right to make changes in this polic
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google).  Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
+## Internet Advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.networkadvertising.org/).  
+
+
 ## Agreeing to These Terms
 
 If you do not agree to www.barcelona-tourist-guide.com Privacy Policy as posted here on this website, please do not use this website or any services offered by this web site.
 
-Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here. ](https://web.archive.org/web/20081217102257id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
+Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here. ](https://web.archive.org/web/20090618174704id_/http%3A//www.barcelona-tourist-guide.com/en/general/copyright.html)  
 
 
 * * *
