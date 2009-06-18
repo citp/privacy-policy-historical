@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lefora.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216101830id_/http%3A//www.lefora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefora.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618130706id_/http%3A//www.lefora.com/privacy) for the most accurate reproduction.*
 
 # Lefora Free Forum Hosting | Privacy Policy
 
@@ -76,6 +76,7 @@ If you request that no further information about your child be collected or used
   * When you post a message, your user ID or alias that you are posting under may be visible to other users.
   * When you post a message on any Lefora Forum, you have the ability to post a message which may include personally identifiable information about yourself.
   * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "Google Advertising Privacy Policy").
   * The Lefora Sites, Products and Services may share personally identifiable information about you under the following circumstances: 
     * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the Lefora Sites, Products and Services and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared.
     * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
@@ -114,7 +115,7 @@ If Lefora learns of a security systems breach we may attempt to notify you elect
 If you have a privacy concern regarding any Lefora Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@lefora.com. Alternatively, we can be reached by our postal mail address:
     
     
-    Team Awesome Productions, Inc.
+    Lefora
     Attention: Privacy Officer
     78 1st St., 2nd Flr
     San Francisco, CA 94105
@@ -122,6 +123,6 @@ If you have a privacy concern regarding any Lefora Site, Product or Service, or 
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Lefora Sites, Products and Services or may require us to terminate our relationship with you.
 
-Effective Date: January 1, 2008
+Effective Date: January 1, 2008. Updated Mar 16, 2009.
 
-Copyright 2008, Lefora. All rights reserved.
+Copyright 2009, Lefora. All rights reserved.
