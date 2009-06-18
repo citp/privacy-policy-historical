@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150609id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140212id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,9 @@ The standard, unsecured URL address begins "http://". When you enter a secure ar
 Your computer and our server begin to communicate in a secure area, sending data back and forth in an encrypted format. Browser encryption software is quite powerful and ensures the security of this data as it is transmitted to our server. To verify that you are in a secure area look for the padlock at the bottom right of your browser   
 **Credit Card Information**  
 The credit card numbers are placed in the SQL database on the KING ICE web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure.   
+  
+  
+  
   
   
 
