@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animevice.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217124611id_/http%3A//www.animevice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animevice.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174419id_/http%3A//www.animevice.com/privacy) for the most accurate reproduction.*
 
 # AnimeVice.com - Anime and Manga, Encyclopedia and Community
 
