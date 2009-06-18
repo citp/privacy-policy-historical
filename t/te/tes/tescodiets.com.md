@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612094945id_/http%3A//www.tescodiets.com/index.cfm%3Fcurrpage%3Dcompany%26subsection%3Dprivacy%26code%3D24030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618123300id_/http%3A//www.tescodiets.com/index.cfm%3Fcurrpage%3Dcompany%26subsection%3Dprivacy%26code%3D24030) for the most accurate reproduction.*
 
-# Tesco Diets 4 him - The UKs biggest online dieting and healthy eating service.
+# 
 
-## Privacy Policy
+Tesco Diets is committed to protecting your privacy. This Privacy Policy explains how all personal information collected via Tesco Diets will be used. Tesco owns the exclusive licence to run Tesco Diets in the UK and Ireland. If you have any queries or requests concerning your personal information please see the customer service details below.
 
-Tesco Diets is committed to protecting your privacy. This Privacy Policy explains how all personal information collected via Tesco Diets will be used.   
-Tesco owns the exclusive licence to run Tesco Diets in the UK and Ireland.   
-If you have any queries or requests concerning your personal information please see the customer service details below. 
   1. **Information Collected**  
 Tesco Diets requests personal information when you sign up for our services, including your name, email address and other (mainly health-related) information in order to provide you with a personalised programme. Tesco Diets also collects other information about your use of the service and Tesco Diets web site. This information (excluding details of payment cards used, which are only handled by a secure online payment agent) is provided direct to Tesco Diets.   
 Tesco Diets also monitors customer traffic patterns and site use in order to improve the service provided. However, information that can identify a visitor, such as a name or address, is not collected in this process, nor does Tesco Diets require disclosure of such information, unless the customer subscribes to the service. Information that can identify a visitor is collected only when the visitor provides it voluntarily.   
@@ -16,7 +13,7 @@ Tesco Diets will use your information to:
     * provide and improve its services
     * understand customers' shopping habits
     * contact you with offers and information about the products and services of Tesco Diets and Tesco and those of carefully selected parties
-You can opt-out of receiving promotional communications at any time by visiting [www.tescodiets.com/remove](https://web.archive.org/web/20080612094945id_/http%3A//www.tescodiets.com/www.tescodiets.com/remove), and changing your preferences. Please note that there may be instances where it may be necessary for Tesco Diets or Tesco to communicate with you, in any event, for administrative or operational reasons relating to Tesco Diets. 
+You can opt-out of receiving promotional communications at any time by visiting [www.tescodiets.com/remove](http://www.tescodiets.com/remove/), and changing your preferences. Please note that there may be instances where it may be necessary for Tesco Diets or Tesco to communicate with you, in any event, for administrative or operational reasons relating to Tesco Diets. 
   3. **Disclosures of your information**  
 Tesco Diets would like to reassure you that your details are safe and will never be released to companies outside the Tesco Group for their marketing purposes. Given the global nature of Tesco's business, your information may be disclosed on an international basis as part of the provision of the Service by Tesco.   
 Tesco Diets may share your details among Tesco companies at home and abroad (e.g. Tesco Personal Finance), any successors in title to Tesco's business and businesses that process information on our behalf (e.g. printers who need certain details to print mailings).   
@@ -42,17 +39,29 @@ You have a right to access the personal data that is held about you. To obtain a
 Our Support Groups have a bulletin board format that provides our visitors with the opportunity to interact with our online community of "eDieters." These areas are moderated by Tesco Diets technicians strictly to keep inappropriate messages from being posted. You are offered the opportunity to include your email address with your message but you are not obligated to do so. Please keep in mind that whenever you voluntarily disclose personal information online - on message boards, through email, or in meeting rooms - your information can be collected by and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. We cannot control the actions of any 3rd parties. We will not sell email addresses from our bulletin boards.   
 The company reserves the right to use comments provided by participants on Tesco Diets bulletin boards, chat rooms and in the Tesco Diets newsletter as part of our promotion and marketing. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to Tesco Diets must be truthful, legal, and not violate the rights of others. 
   10. **How to Reach Us**  
-Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department on: 
-
+Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department on:   
 **UK** \- 0845 0822 441  
 **R.O.I.** (01) 877 0344  
-**(from elsewhere)** (+353) 1 877 0344 **Or email us at**
-
-[help@tescodiets.com](mailto:help@tescodiets.com)
+**(from elsewhere)** (+353) 1 877 0344 **Or email us at** [help@tescodiets.com](mailto:help@tescodiets.com)
 
 
 
+### What our members say
 
-## Free diet profile
+#### Debbie H
 
-Enter your details below to get a Free Diet Profile
+It's like having someone giving me a pat on the back when I have done well, or a shoulder to cry on when I haven't. Either way thanks for being there.
+
+#### Karen H
+
+Thrilled with what I've achieved. This has become a lifestyle choice for me now and I know I can stick with this and the weight won’t go back on. I would 100% recommend this diet to anyone. Thank you
+
+[Read other comments](https://web.archive.org/index.cfm?currpage=memberQuotes&subsection=memberQuotes&code=#code#)
+
+### Bookmark & Share
+
+##### E-mail to a friend
+
+Advertisement
+
+[](http://www.tescoweightlossretreat.com/) [](http://en-gb.facebook.com/pages/Tesco-Diets/65463301083)
