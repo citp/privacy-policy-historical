@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082456id_/http%3A//www.idp.com/about_idp/about_us/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091952id_/http%3A//www.idp.com/about_idp/about_us/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
