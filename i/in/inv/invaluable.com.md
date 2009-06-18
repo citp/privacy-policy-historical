@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153701id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140512id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # INVALUABLE.COM : Art Market Intelligence at Your Fingertips
 
 Invaluable
 
-Invaluable.com is owned and operated by Artfact, LLC, a Delaware Limited Liability Company based in Newton, Massachusetts and Artfact UK, LLC ("Artfact", "we," "us", “our”, or “ours”).  We provide database, software, advertising, and marketing services to auction houses and other parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
+Invaluable.com is owned and operated by Artfact, LLC, a Delaware Limited Liability Company based in Allston, Massachusetts and Artfact UK, LLC ("Artfact", "we," "us", “our”, or “ours”).  We provide database, software, advertising, and marketing services to auction houses and other parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
 
 Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.  Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate.
 
@@ -122,4 +122,4 @@ As a dynamic and growing Site, Invaluable.com may contain links to other sites t
 
 If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable.com Privacy Policy or its implementation, please contact us by email at: [Bpeverill@Invaluable.com](mailto:Bpeverill@Invaluable.com).
 
-This policy document 1.70 was last revised February 1, 2008.
+This policy document 1.80 was last revised 8 June, 2009.
