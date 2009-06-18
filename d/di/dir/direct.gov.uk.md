@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2007-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070607092505id_/http%3A//www.direct.gov.uk/prod_consum_dg/idcplg%3FIdcService%3DSS_GET_PAGE%26siteId%3Den%26ssTargetNodeId%3D7%26ssDocName%3DDG_020456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618133514id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
 
-# Your Privacy : Directgov - Site information
-
-## Your privacy
+# Your privacy : Directgov - Site information
 
 This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
@@ -12,15 +10,19 @@ Under the Data Protection Act, we have a legal duty to protect any information w
 
 ### What information do we collect?
 
-We collect two kinds of information from visitors to Directgov: feedback (through visitors emailing us), customer satisfaction surveys (via online pop-up surveys) and site usage information, using cookies and page tagging techniques including JavaScript.
+We collect three kinds of information from visitors to Directgov: feedback (through visitors emailing us), customer satisfaction surveys (via online pop-up surveys) and site usage information, using cookies and page tagging techniques including JavaScript.
 
 ### Feedback
 
 We welcome your feedback.
 
-Should you send an email to us seeking advice or information that we are not in a position to give, we may forward your email on to a more appropriate department within the government for a response. If we do this we will send you an email informing you of our actions. 
+Should you send an email to us seeking advice or information that we are not in a position to give, we may pass your email to the appropriate government department, executive agency or Non Departmental Public Body who may be able to assist you further. Some examples of external bodies that provide services on Directgov are the Driver and Vehicle Licensing Agency (DVLA) and Student Finance England.
 
 Once we have replied to you, we keep a record of your message for a maximum of two months for reference and audit purposes, after which we will delete it.
+
+  * [Feedback](https://web.archive.org/en/Hl1/Help/ContactUs/FeedbackForm/DG_000721)
+
+
 
 ### Site usage information
 
@@ -32,17 +34,19 @@ Our cookies store a random number on your computer to help us count the number o
 
 The cookies do not contain any personal information about you, and they cannot be used to identify an individual user.
 
+If you use the benefits adviser, it will store a cookie on your computer while you use the service. The service will not work if you do not let it set the cookie on your PC.
+
 You can set your browser not to accept cookies. If you do not know how to do this, contact us, giving details on the type of browser you are using, and we will do our best to help.
 
  **Page tagging**
 
-We use JavaScript to aggregate and analyse customer usage patterns on all websites that are part of the Directgov domain. This provides us with data on your usability and behaviour.  We use this information to make changes to the layout of the website and to the information in it. This does not collect any personal or identifiable information about users.
+We use JavaScript to aggregate and analyse customer usage patterns on all websites that are part of the Directgov domain. This provides us with data on usability and behaviour. We use this information to make changes to the layout of the website and to the information in it. This does not collect any personal or identifiable information about users.
 
 We sometimes tag pages on this website during promotion campaigns using pixel tags (which are sometimes called spotlight tags or web beacons). These tags enable us to find out which advertisements are successful in bringing users to our internet site(s). With this technology, the information that we collect and share is anonymous and not personally identifiable.
 
 You can disable JavaScript on your computer. If you would like advice on how to disable JavaScript please contact us, giving details about the type of browser you use and we will do our best to help. Disabling JavaScript should not affect your ability to access Directgov’s internet site.
 
-  * [Privacy information about DoubleClick (opens new window)](http://www.doubleclick.net/us/corporate/privacy "link leaves site")
+  * [Privacy information about DoubleClick Opens new window](http://www.doubleclick.net/us/corporate/privacy)
 
 
 
@@ -56,13 +60,13 @@ We do not pass on any personal information you have given us to any other site.
 
 ### What happens when I access the Directgov site through another site?
 
-Where you are directed to the Directgov site from another site (whether a third party site or a government site) we may receive personal information relating to you from the other site(s).  You should read the privacy policies applicable to such sites as these will govern the use of any personal information that you provide when accessing such sites and which is provided to Directgov. 
+Where you are directed to the Directgov site from another site (whether a third party site or a government site) we may receive personal information relating to you from the other site(s). You should read the privacy policies applicable to such sites as these will govern the use of any personal information that you provide when accessing such sites and which is provided to Directgov. 
 
 ### Access to your information and contacting Directgov
 
 If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by email.
 
-  * [Contact us](https://web.archive.org/prod_consum_dg/idcplg?IdcService=SS_GET_PAGE&siteId=en&ssTargetNodeId=582&ssDocName=DG_000714)
+  * [Contact us](https://web.archive.org/en/Hl1/Help/ContactUs/ContactUsForm/DG_000714)
 
 
 
