@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115834id_/http%3A//www.explocity.com/privacypolicy.asp%3Fcity%3DBLR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193238id_/http%3A//www.explocity.com/privacypolicy.asp%3Fcity%3DBLR) for the most accurate reproduction.*
 
 # Explocity.com. Bangalore. The city as it happens. Privacy policy.
 
-[](http://bangalorerestaurantguide.com/index1.php)
+[](http://bangalorerestaurantguide.com/)
 
 | |  Where am I? [Bangalore](https://web.archive.org/Bangalore.asp?city=BLR)  Privacy Policy  
 **
@@ -28,4 +28,7 @@ By "Explocity", we mean Explocity Private Limited and explocity.com, its employe
 
 If you have any questions or need your doubts clarified, please write to us at [**admin@explocity.com**](mailto:admin@explocity.com) , we will get back to you as soon as we can.
 
-|  | 
+|  |  |   
+---  
+   
+[ ](https://web.archive.org/Model-Watch/indian-models.asp?id=622)
