@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218033137id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618093250id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our postal address is
 San Diego, CA 92111**
 
 We can be reached via e-mail at [sdinfo@sandiego.org](mailto:sdinfo@sandiego.org)  
-or you can reach us by telephone at 619-236-1212 
+or you can reach us by telephone at 619-236-1212
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -43,6 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-  
-
