@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217193002id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185420id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # AirGorilla Privacy Policy
 
@@ -53,6 +53,14 @@ We will use card authorization and fraud screening services to verify that your 
 
 This policy may be revised over time as new features are added to the AirGorilla site or as we incorporate suggestions from our customers.
 
-### Section 7: Compliance to Policy
+### Section 7: Spam Policy.
+
+As a customer of AirGorilla we may be sending you an introductory email newsletter. We value your privacy and time and will not send you another email if you simply opt out by clicking the "OPT OUT" button prominently displayed on this newsletter. We realize your time is valuable, so we are sending this newsletter to selected customers no more than once a month. This newsletter will contain travel tips, valuable coupons, and specials that will save you money. In addition from time to time we will be including Give-Aways and free gifts. We do not share our customer email list with other companies and you will only receive our newsletter on an infrequent basis. Again, if you do not wish to receive our tips, news and offers, simply opt out. We abide strictly by the requirements of the CAN SPAM Act of 2003.
+
+### Section 8: Third Party Ads and User Behavior
+
+On various pages of this site, we display third-party ads from Google, Yahoo, and other sources. If you click on one of these ads, you instantly enter their proprietary servers where you are subject to the third party's own privacy policy. They frequently monitor user behavior in order to figure out what topics of ads you might appreciate to see in the future on further web sites you visit. Therefore they will retain data on your behavior and, by extension, your interests.
+
+### Section 9: Compliance to Policy
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619 435-2147 or[](http://www.airgorilla.com/agemail.html)for email. 
