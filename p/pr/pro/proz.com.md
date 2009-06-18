@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217150414id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105923id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
-# Translation services, translation jobs, and freelance translators
+# Privacy statement | ProZ.com
 
 ## ProZ.com Privacy Statement
 
@@ -42,6 +42,12 @@ ProZ.com does share aggregated demographic information with our partners and adv
 
 Apart from the desired username, which appears on each profile page and elsewhere throughout the site, the information collected by ProZ.com is not shared with anyone without permission. 
 
+**Cookies**
+
+ProZ.com may set and access one or more cookies (a small text file containing a string of characters) on users' computers. Cookies are used to store user preferences and to identify logged in users.
+
+ProZ.com may use third party advertisements. Some of these advertisers may use technology such as cookies and web beacons when they advertise on ProZ.com, which will also send these advertisers (such as Google through the Google AdSense program) information including a visitor's IP address, ISP, web browser, and in some cases, whether Flash is installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). Google uses the DoubleClick DART cookie on publisher websites displaying AdSense for content ads. Users may opt out of the use of DART cookies and any other cookies used by Google Ads. For more information on privacy policies and available opt-out options applicable to Google Ads, see the [Google Advertising and Privacy FAQs](http://www.google.com/privacy_ads.html) and the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_cookies.html). 
+
 **3rd Party Communication Setting**
 
 ProZ.com offers to members the opportunity to receive special offers from select, approved translation industry partners. If you select to receive this information your email address will not be disclosed. All offers will be submitted through the ProZ.com email server, or an approved distribution center. Offers will be limited to no more than one email per week, and all offers will be sent with clear and conspicuous opt out instructions. If at any time a user wishes to opt out they can simply change their profile settings for 3rd party communication. Or by visiting [www.proz.com/remove](https://web.archive.org/remove)
@@ -56,7 +62,7 @@ Members have full control over their personal information and the manner in whic
 
 **Log Files**
 
-ProZ.com uses IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use. 
+ProZ.com uses IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. 
 
 **Links**
 
@@ -84,7 +90,7 @@ ProZ.com stores this information for the sole purpose of sending this one-time e
 
 This website takes a number of precautions to protect members' information. When members submit sensitive information via the website, their information is protected both online and off-line. 
 
-All of members� information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
+All of members' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
 Also, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
