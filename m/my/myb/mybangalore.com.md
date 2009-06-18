@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122849id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112154id_/http%3A//www.mybangalore.com/privacy) for the most accurate reproduction.*
 
-# MyBangalore - Because, Local Matters » Create your MyBangalore Account
+# My Bangalore privacy policy
 
 We are committed in respecting the privacy of every person who visits our website (the " **Site** "). In the course of using the Site, we may become privy to your personal information, including information that is of a confidential nature. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you. 
 
