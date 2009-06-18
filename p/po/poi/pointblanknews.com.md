@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the pointblanknews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100142id_/http%3A//www.pointblanknews.com/pbnpvst.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointblanknews.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618082435id_/http%3A//www.pointblanknews.com/pbnpvst.html) for the most accurate reproduction.*
 
 # pointblanknews.com
 
 _POINTBLANKNEWS PRIVACY POLICY_
 
+| 
+
+**advertisement**  
+  
+---  
+  
 As a firm believer in the protection of the privacy of consumers, Pointblanknews.com will align with all the laws and regulations guiding the privacy of every individual and corporate body that log on or do business with Pointblanknews.com or Pointblank Communications Inc. As such, when logging in to Pointblanknews.com, you will not be asked to provide the following: 
 
   * Name 
@@ -14,11 +20,11 @@ As a firm believer in the protection of the privacy of consumers, Pointblanknews
 
 
 
-Also, your access to browsing Pointblanknews.com will not be restricted or be determined by your provision of certain information or registration in order to gain access to the services provided by Pointblanknews.com. 
+Also, your access to browsing Pointblanknews.com will not be restricted or be determined by your provision of certain information or registration in order to gain access to the services provided by Pointblanknews.com.
 
-Besides, as a small number of services quoted on Pointblanknews.com require a direct response from individual vendors or third party, the services will be clearly identified, the services will be clearly identified and you may be required to provide contact information for the vendors. 
+Besides, as a small number of services quoted on Pointblanknews.com require a direct response from individual vendors or third party, the services will be clearly identified, the services will be clearly identified and you may be required to provide contact information for the vendors.
 
-In such cases, we will only make the information you have provided available to the vendors or the third party you have identified or selected and your contact information or any other information will be promptly deleted from our system in line with our policy to respect the privacy of consumers. 
+In such cases, we will only make the information you have provided available to the vendors or the third party you have identified or selected and your contact information or any other information will be promptly deleted from our system in line with our policy to respect the privacy of consumers.
 
 Pointblanknews.com privacy policy also includes that while we may provide contact phone numbers and links to our vendors and as you click the links to an advertiser’s banner, please not that Pointblanknews.com does not interfere or dictate the privacy policies of vendors’ site. 
 
@@ -32,4 +38,12 @@ All server log information is destroyed once the data collation report is comple
 
 
 
-Pointblanknews.com works with third parties that serve advertisement and they include: 
+Pointblanknews.com works with third parties that serve advertisement and they include:
+
+[* Burstmedia](http://www.burstmedia.com/advertiser/index.asp)  
+  
+---  
+  
+[* Tribal Fusion](http://www.tribalfusion.com/)  
+  
+[* FastClick](http://www.fastclick.com/)
