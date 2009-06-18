@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055226id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140710id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.*
 
 # 
 
-[](http://www.goldbook.ca/goldbook/) |   
----|---  
-  
 Our commitment to privacy: Gold Book, a division of Metroland Media Group Ltd., a subsidiary of Torstar Corporation, knows that protecting the privacy and confidentiality of personal information is important to consumers. Collection, use and disclosure of personal information by Gold Book and its affiliates are governed by the Personal Information Protection and Electronic Documents Act (the "Act"), and any applicable provincial legislation. This Privacy Policy explains what personal information is collected from its customers and how it is used. It also explains how you can ask questions, make suggestions, and complain about our privacy practices. This Privacy Policy applies to personal information (see below) collected by Gold Book, including its websites. Be aware that our websites may contain links to other websites provided and maintained exclusively by third parties not subject to this Privacy Policy. Please review the privacy policies on any external websites to determine their information handling practices. 
 
 For a listing of Gold Book affiliates, please go to [www.torstar.com](http://www.torstar.com/) and click on Torstar Properties. 
