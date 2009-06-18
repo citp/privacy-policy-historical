@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052314id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091034id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Teaching Ideas - Privacy Policy
 
@@ -10,6 +10,7 @@ This privacy policy relates to the Teaching Ideas network of sites, which includ
   * Teaching Forum - www.teachingforum.co.uk
   * Welcome to the Web - www.teachingideas.co.uk/welcome
   * Teachr - www.teachr.co.uk 
+  * Ideas to Inspire - www.ideastoinspire.co.uk
 
 
 
@@ -26,7 +27,7 @@ We may collect the following information:
   * name
   * profession 
   * contact information including email address
-  * demographic information such as postcode, preferences and interests
+  * demographic information such as location, preferences and interests
   * other information relevant to the use of these sites. 
 
 
@@ -53,6 +54,15 @@ We also use cookies to collect data as part of the advertising displayed on thes
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Advertising:**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may use cookies to record your visits to this site.
+
+  * Visitors may opt out of the use of the Google DART cookie by visiting the [Google Privacy Centre](http://www.google.co.uk/privacy_ads.html).
+  * Visitors may opt out of the Specific Media targetted advertising by visiting [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+
+
 
 **Links to other websites:**  
 Our websites may contain links to other websites of interest. However, once you have used these links to leave our sites, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
