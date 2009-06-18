@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914073137id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618150802id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
 
-# Info: Privacy Policy | Taste of Home
+# Info: Privacy Policy | Taste of Home Help
 
 Thank you for visiting TasteofHome.com, a community-oriented food web site that focuses on providing everyday and holiday cooking resources for home cooks. The policies below are applicable to TasteofHome.com and other web sites on the World Wide Web, originating in the United States, and owned and operated by Reiman Media, Inc. ("we" or "us") unless otherwise indicated. Your privacy is important to us. With that value in mind, we've developed this privacy policy (this "Policy") explaining the ways in which we collect personal information on TasteofHome.com (the "Web Site"), and how we protect it, and what choices you have about how information is used. 
 
