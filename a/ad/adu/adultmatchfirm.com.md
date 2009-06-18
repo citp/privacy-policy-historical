@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchfirm.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140225id_/http%3A//adultmatchfirm.com/go/page/privacy.html%3Fdcb%3Dadultmatchfirm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchfirm.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618155108id_/http%3A//adultmatchfirm.com/go/page/privacy.html%3Fdcb%3Dadultmatchfirm) for the most accurate reproduction.*
 
 # Adult Matchfirm PRIVACY POLICY
 
