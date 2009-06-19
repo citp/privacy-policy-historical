@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201855id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620014636id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
 
 # Multiple Stream Media - Our Advertisers
 
@@ -24,7 +24,7 @@
 > 
 > Our online form ask visitors for contact information (like their email address) and demographic information (like their zip code, category of interest). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
 > 
-> “Aggregate” means that we may provide advertisers with general statements about our site visitors as a group, such as “90% of the visitors to our site are from the United States” (aggregate information).  We will never provide advertisers with information that is specific to you as an individual, such as your email address.
+> �Aggregate� means that we may provide advertisers with general statements about our site visitors as a group, such as �90% of the visitors to our site are from the United States� (aggregate information).  We will never provide advertisers with information that is specific to you as an individual, such as your email address.
 > 
 > **Security**  
 >  This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including daily backups of all data. Only authorized personnel are allowed physical and/or digital access to servers and data, and each authorized personnel has signed a Non-Disclosure agreement prior to being granted access. All servers and data backups are kept secure from physical and electronic intrusion by use of firewalls and redundant security systems, which are constantly being evaluated and upgraded.
