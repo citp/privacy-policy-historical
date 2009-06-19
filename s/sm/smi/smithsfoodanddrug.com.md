@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsfoodanddrug.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913062001id_/http%3A//www.smithsfoodanddrug.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsfoodanddrug.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619222412id_/http%3A//smithsfoodanddrug.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Smith's - Company Information - Privacy Policy
 
@@ -14,13 +14,13 @@ As one of America's largest retail grocery companies, and one of the nation's la
 
 **Kroger carefully safeguards its customers' pharmacy records.**
 
-We have special procedures that protect your pharmacy records. For detailed information on our pharmacy privacy policy see the [Pharmacy Privacy Notice](https://web.archive.org/privacy_pharmacy.htm), which conforms to the guidelines established under the federal law known as the Health Insurance Portability and Accountability Act (HIPAA). 
+We have special procedures that protect your pharmacy records. For detailed information on our pharmacy privacy policy see the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx), which conforms to the guidelines established under the federal law known as the Health Insurance Portability and Accountability Act (HIPAA). 
 
 **Kroger is especially sensitive to children's use of the Internet.**
 
 Our website is family friendly. We follow all the guidelines established under the federal law known as the Children's Online Privacy Protection Act. 
 
-Kroger does not seek personal information about children under 13 years of age without permission from their parent or legal guardian. We do not provide personal information about children to any third-party except in accordance with other sections of this privacy policy and the [Pharmacy Privacy Notice](https://web.archive.org/privacy_pharmacy.htm). 
+Kroger does not seek personal information about children under 13 years of age without permission from their parent or legal guardian. We do not provide personal information about children to any third-party except in accordance with other sections of this privacy policy and the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx). 
 
 **Customers have control of their personal information.**
 
@@ -46,7 +46,7 @@ Employees who violate the Company's customer privacy safeguards are subject to d
 
 When you enter personal information online, that information is encrypted using a security protection called Secure Sockets Layer so that information you provide to us is encrypted during transmission over the Internet. 
 
-We strive to collect, use and disclose personal information consistent with the laws of the United States as well as the laws of other countries in which we do business, including the laws of the European Union. For detailed information on our privacy policy with respect to the European Union, please see our [E.U. Safe Harbor Privacy Policy](https://web.archive.org/eusafeharborprivacypolicy.htm). 
+We strive to collect, use and disclose personal information consistent with the laws of the United States as well as the laws of other countries in which we do business, including the laws of the European Union. For detailed information on our privacy policy with respect to the European Union, please see our [E.U. Safe Harbor Privacy Policy](https://web.archive.org/company_information/Pages/eu_safe_harbor_privacy_policy.aspx). 
 
 **We are not responsible for the content or the privacy and security policies and practices of any third-party websites accessible from a link on our websites.**
 
