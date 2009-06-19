@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217134020id_/http%3A//www.alumniclass.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211322id_/http%3A//www.alumniclass.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
