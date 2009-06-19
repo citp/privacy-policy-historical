@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the hollandbulbfarms.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061634id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandbulbfarms.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211109id_/http%3A//www.hollandbulbfarms.com/privacy.asp) for the most accurate reproduction.*
 
 # Holland Bulb Farms Privacy Policy
-
-Join our newsletter
-
-Enter Your E-Mail Address
-
-[ ](https://hosted8.whoson.com/chat/chatstart.htm?domain=www.hollandbulbfarms.com)
-
-| 
 
 | Privacy Policy  |    
 ---|---  
