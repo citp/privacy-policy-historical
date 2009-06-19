@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201251id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045843id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Gizmodiva.com
+# Privacy Policy
 
 |   
 ---|---  
@@ -18,6 +18,8 @@ Information such as your full name, profile photo and any personally identifiabl
 Gizmodiva uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://networkadvertising.org/consumer/opt_out.asp).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Gizmodiva, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Transfer of Information
 
@@ -62,9 +64,13 @@ Contact Us
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact gizmodiva@gmail.com.  
 
 
+[](http://digg.com/submit?phase=2&url=http://www.gizmodiva.com/other_stuff/privacy_policy.php "Click here to Digg this post") | [](http://www.stumbleupon.com/submit?url=http://www.gizmodiva.com/other_stuff/privacy_policy.php&title=Privacy%20Policy "Stumble it") | [](http://buzz.yahoo.com/submit/?submitUrl=http://www.gizmodiva.com/other_stuff/privacy_policy.php) | [](http://reddit.com/submit?url=http://www.gizmodiva.com/other_stuff/privacy_policy.php "Add to Reddit") | [](http://facebook.com/share.php?u=http://www.gizmodiva.com/other_stuff/privacy_policy.php&t=Privacy%20Policy "Share on facebook") | [](http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.gizmodiva.com/other_stuff/privacy_policy.php&h=Privacy%20Policy "Fark it")
+
 by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:19 AM in [Other Stuff](http://www.gizmodiva.com/other_stuff/) | [**Comments** ()](http://www.gizmodiva.com/other_stuff/privacy_policy.php#comments)
 
-  
+**Related Entries**
+
+
 
 
 ## Reader Comments
@@ -73,12 +79,12 @@ by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:
 
 ## Recent Entries
 
-  * [iPod Shuffle now in four different colors](http://www.gizmodiva.com/music/ipod_shuffle_now_in_four_different_colors.php)
-  * [DKNY Cowl neck sweater for a warm and cozy getaway ](http://www.gizmodiva.com/fashion/dkny_cowl_neck_sweater_for_a_warm_and_cozy_getaway.php)
-  * [New Yoga bag, stay stylish always](http://www.gizmodiva.com/fashion/new_yoga_bag_stay_stylish_always.php)
-  * [Groove with the Headphone Beanie](http://www.gizmodiva.com/music/groove_with_the_headphone_beanie.php)
-  * [Nutrition Pyramid lunch box might keep you healthy](http://www.gizmodiva.com/home_improvement/nutrition_pyramid_lunch_box_might_keep_you_healthy.php)
-  * [Cool new Liquid bookmarks](http://www.gizmodiva.com/home_improvement/cool_new_liquid_bookmarks.php)
-  * [Green House launches the new MicroSD card reader; go get it girls](http://www.gizmodiva.com/home_gadgets/green_house_launches_the_new_microsd_card_reader_go_get_it_girls.php)
+  * [Hello Kitty OKWAP A316 Mobile is flexible and cute](http://www.gizmodiva.com/mobile_phones/hello_kitty_okwap_a316_mobile_is_flexible_and_cute.php)
+  * [Slap Chop blades your veggies in seconds](http://www.gizmodiva.com/home_improvement/slap_chop_blades_your_veggies_in_seconds.php)
+  * [SOBEaR, the adorable robot panda bartender monitors your drinks](http://www.gizmodiva.com/home_gadgets/sobear_the_adorable_robot_panda_bartender_monitors_your_drinks.php)
+  * [Heart-shaped watermelons : The most romantic fruit ever](http://www.gizmodiva.com/other_stuff/heartshaped_watermelons_the_most_romantic_fruit_ever.php)
+  * [Keep warm and cozy on camping trips with Selkbag 2](http://www.gizmodiva.com/other_stuff/keep_warm_and_cozy_on_camping_trips_with_selkbag_2.php)
+  * [Saya-Sensei is the new Synthetic substitute teacher in Japan](http://www.gizmodiva.com/other_stuff/sayasensei_is_the_new_synthetic_substitute_teacher_in_japan.php)
+  * [Hand-held portable bread toaster is good, on-the-go concept](http://www.gizmodiva.com/home_gadgets/handheld_portable_bread_toaster_is_good_onthego_concept.php)
 
 
