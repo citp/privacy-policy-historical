@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095505id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204245id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# Napster.co.uk - Privacy Policy
+# Napster
 
-|  |    
   
+
+
 **NAPSTER PRIVACY POLICY**
 
 Effective March 31, 2006 
@@ -53,7 +54,9 @@ From time to time, the security on the Napster Client software may be upgraded b
 
 Further, when you access the Service through a Partner and download the Napster Client, we will add certain of your registration information (such as your member name and, if applicable, the Partner or promotion through which you registered) to the registry settings on your computer's hard drive, so that we can recognise which of our Partners or other sign-in pages to send to you when you log on to the Service. 
 
-_Cookies_. We use cookies for several purposes. Within the Napster Service, we use what are commonly called "session" cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid member so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalise your service experience based on your registration preferences (such as genre choice, your connection speed, and your preference with regard to receiving songs that contain explicit lyrics and the country you live in. We may also use session cookies to help us facilitate any promotions or surveys that we provide. These cookies do not contain any personally identifying information and we do not store data collected by them. 
+_Cookies_
+
+. We use cookies for several purposes. Within the Napster Service, we use what are commonly called "session" cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid member so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalise your service experience based on your registration preferences (such as genre choice, your connection speed, and your preference with regard to receiving songs that contain explicit lyrics and the country you live in. We may also use session cookies to help us facilitate any promotions or surveys that we provide. These cookies do not contain any personally identifying information and we do not store data collected by them. 
 
 As part of the sign-in process, we may also use what are commonly called "persistent" cookies which stay with you after your session is over and you are offline. We use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be prepopulated for you. If we make this cookie available, it can only be activated if you select that option during your sign-in. If you select that option you can always deselect it each time you sign-in. 
 
@@ -94,5 +97,3 @@ We may display links to other sites within the Napster Service. We are not respo
 If you have any questions about this privacy policy, or the privacy practices of Napster, you can email us at privacy@napster.co.uk or write to Napster Luxembourg S.a.r.l, 46a Avenue John F. kennedy, L-1855, Luxembourg 
 
 © 2003 - 2006 Napster, LLC. 
-
-|  | 
