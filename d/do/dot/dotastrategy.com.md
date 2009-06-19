@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotastrategy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033724id_/http%3A//www.dotastrategy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotastrategy.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035603id_/http%3A//www.dotastrategy.com/privacy_policy.html) for the most accurate reproduction.*
 
 # DotaStrategy.com - DotA Allstars Strategy Guide - Privacy Policy
 
@@ -27,6 +27,8 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 <http://www.tribalfusion.com/TribalFusion/privacy.html>   
 <http://www.kontera.com/privacy.aspx>   
 <http://publishers.infolinks.com/privacy.html>
+
+These advertisers may also place cookies on your browser in the course of serving ads to you based on your visit to our site and other sites on the internet. If you want to opt out of our third-party advertiser (Google Adsense)'s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them. 
 
