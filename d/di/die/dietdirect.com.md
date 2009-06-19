@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912172704id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035758id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # DietDirect.com - Privacy Policy
 
@@ -10,7 +10,7 @@ DietDirect.com understands that you are concerned about how your information is 
 
 DietDirect.com is committed to protecting the privacy of your personal information and we offer you this **Secure Shopping Promise:** We guarantee that your order will be transmitted securely and that you will not be liable for any unauthorized charges appearing on your credit card as a result of shopping here. We only use the safest and securest servers and technologies and we back that back that up with Hacker Safe daily testing and certification. To protect the information you send from your computer to the DietDirect.com e-commerce system, this information - including credit card numbers and passwords - is encrypted using Secure Sockets Layer (SSL). Only the systems responsible for processing your order have access to your credit card and billing information. All hardware and software resides in a world-class, high-security data center with access limited to authorized personnel. DietDirect.com continuously reviews its policies and practices to ensure that all customer information remains secure. 
 
-|   |  [](https://www.scanalert.com/RatingVerify?ref=www.dietdirect.com)    
+|   |  [](https://www.mcafeesecure.com/RatingVerify?ref=www.dietdirect.com)    
 ---|---  
   
 **Your privacy is important:**
