@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913070114id_/http%3A//www.mydr.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055716id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
-# myDr Privacy Policy - myDr.com.au
-
-## __myDr__ Privacy Policy
+# privacy policy - myDr.com.au
 
 __myDr__ and its publisher, CMPMedica Australia, are committed to protecting your privacy. Please read the following Privacy Policy and click on the link at the end of this document to return to the website 
 
@@ -30,9 +28,9 @@ _myDr_ may also use pooled information obtained from all _myDr_ visitors to unde
 
 ### 3\. Disclosure
 
-_myDr_ will not disclose any of your personally identifiable information, except when it has your permission or under special circumstances, such as when we believe in good faith that the law requires disclosure or where we believe it necessary to provide you with a service which you have requested.
+_myDr_ will not disclose any of your personally identifiable information, except when it has your permission or under special circumstances, such as when we believe in good faith that the law requires disclosure or where we believe it necessary to provide you with a service which you have requested. 
 
-Like many businesses, _myDr_ uses a range of service providers to help us maximise the quality and efficiency of our services and our business operations. This means that individuals and organisations outside of _myDr_ , such as Web hosting services, will sometimes have access to personal information held by _myDr_ and may use it on behalf of _myDr_. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes. One example of our service providers is AMPCo, which provides an updated database of medical doctors to _myDr_. This information is managed by AMPCo and obtained by _myDr_ on the basis that the doctors have given consent to the disclosure of their professional details on the _myDr_ web site.
+Like many businesses, _myDr_ uses a range of service providers to help us maximise the quality and efficiency of our services and our business operations. This means that individuals and organisations outside of _myDr_ , such as Web hosting services, will sometimes have access to personal information held by _myDr_ and may use it on behalf of _myDr_. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes. 
 
 ### 4\. You can access and change the information we keep about you
 
@@ -43,6 +41,10 @@ If at any time you wish to change personal information that is inaccurate or out
 ###  5\. Our website privacy practices
 
 We sometimes use cookie technology on our website to enable us to provide information and services to web site visitors. Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes and are a necessary part of facilitating online transactions. Most web browsers are set to accept cookies. _myDr_ uses cookies to make your use of our website and services as enjoyable as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate our number of members and determine overall traffic patterns through our website, as well as responding to your requests for particular services. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads based on your visits to this and other websites on the internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) or by clicking on the "Ads by Google" link at the foot of the Sponsored Ads box and following the instructions. 
 
 If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of _myDr_ 's services. 
 
@@ -56,11 +58,11 @@ For the purposes of signing up to the myHealth file services, you will nominate 
 
 ### 8\. Transfer of business
 
-In the unlikely event that the assets and operations of the _myDr_ business is transferred to another party as a going concern, the personal information collected by _myDr_ will be provided to the new business operator. However, it will remain subject to the privacy safeguards set out in the _myDr_ privacy policy.
+In the unlikely event that the assets and operations of the _myDr_ business is transferred to another party as a going concern, the personal information collected by _myDr_ will be provided to the new business operator. However, it will remain subject to the privacy safeguards set out in the _myDr_ privacy policy. 
 
 ## Contact us
 
-If you have questions about our privacy policy and practices, or would like to provide feedback, please contact our privacy officer. 
+If you have questions about our privacy policy and practices, or would like to provide feedback, please contact our privacy officer.
 
 Email:  
 [admin@myDr.com.au](mailto:admin@myDr.com.au)
@@ -77,6 +79,10 @@ _myDr_ will continue to evolve as we introduce new services and features to our 
 
 ## Your agreement
 
-I agree that I have read and agree with the terms and conditions outlined in this privacy policy. Click [here](http://www.mydr.com.au/) to return to the _myDr_ site.
+I agree that I have read and agree with the terms and conditions outlined in this privacy policy. Click [here](http://www.mydr.com.au/) to return to the _myDr_ site. 
 
-Last revised: 15 April 2002.
+Last revised: 15 April 2002. 
+
+  © Copyright: myDr, CMPMedica Australia, 2000-2009. All rights reserved. 
+
+Last Reviewed: 07 April 2009
