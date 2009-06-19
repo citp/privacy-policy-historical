@@ -1,33 +1,14 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110907id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619175245id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
 | 
 
   
-|  | [Extron Press Room](https://web.archive.org/company/press.aspx)  
----|---  
-[Tradeshow Schedule](https://web.archive.org/company/tradeshow.aspx)  
-[Extron Institute Schedule](https://web.archive.org/education/edschedule.aspx)  
-[Industry Links](https://web.archive.org/company/industry.aspx)  
-[Association Links](https://web.archive.org/company/associations.aspx)  
-[Career Opportunities](https://web.archive.org/company/employment.aspx)  
-[Business Policies](https://web.archive.org/company/article.aspx?id=policies)  
-  
-  ****  
-  
-  ****  
- | [Advertisements](https://web.archive.org/download/download.aspx?type=file&material=25)  
----|---  
-[Andrew Online](https://web.archive.org/company/andrewonline.aspx)  
-[ExtroNews](https://web.archive.org/company/extronews.aspx)  
-[News](https://web.archive.org/company/archive.aspx?archive=news)  
-[Press Releases](https://web.archive.org/company/archive.aspx?archive=press)  
-[Tweeker Contest](https://web.archive.org/company/tweeker.aspx)  
-  
 
 
-|  | 
+  
+|  |  | 
 
 Extron Electronics Privacy Policy
 
