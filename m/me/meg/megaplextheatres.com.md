@@ -1,47 +1,86 @@
-> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216064937id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplextheatres.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619153227id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.*
 
 # Megaplex Theatres Privacy Policy
 
-This is the web site of **Megaplex Theatres**.
+**Larry H. Miller Group of Companies Privacy Statement**
 
-Our postal address is   
-**9400 S. State Street  
-Sandy, UT 84070**
+This document was last updated on June 17, 2008.
 
-We can be reached by telephone at (801) 304-4577
+Megaplex Theatres is one of the entities comprising the Larry H. Miller Group of Companies.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+**1\. Acknowledgment and acceptance of terms**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address, telephone number, payment information (e.g., credit card number and billing address).
+The Larry H. Miller Group of Companies is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing any Larry H. Miller Group of Companies website, you acknowledge and fully understand the Larry H. Miller Group of Companies Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and .
+**2\. Participating Merchant Policies**
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Larry H. Miller Group of Companies services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  We use Secure Sockets Layer (SSL) encryption technology to protect your personal information provided on credit applications and where credit card information is required.  SSL encrypts or codes this information as it travels over the Internet, and is then decoded by Larry H. Miller Group of Companies and its business partners who facilitate your transactions on this web site.  We do not read personal communications.  We do not give out your telephone number, credit card information, or screen names, unless authorized to do so or as required by law.  The security of customer information is very important to us and we take a number of steps to safeguard it.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard non-public personal information about you.  We limit access to personal and account information to those employees and agents who assist us in providing products and services to you.  Employees who fail to follow our established standards are subject to disciplinary action.  We also require third parties to whom we disclose nonpublic personal information to adhere to this Privacy Policy and to establish information security procedures.  
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+**3\. Information We Collect and How We Use It**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+The Larry H. Miller Group of Companies collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with cookies.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail.
+  * **Web Server Logs**.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
+**b. Use of Cookies**
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+The Larry H. Miller Group of Companies may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
+The Larry H. Miller Group of Companies reserves the right to share aggregated site statistics with sub/partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value.
+
+You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+
+**c. Personal Information Users**
+
+Visitors to our website can register to purchase or use services we offer.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+
+We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+
+  * To fulfill your requests for services.
+  * To protect ourselves from liability.
+  * To respond to legal process or comply with law.
+  * In connection with a merger, acquisition, or liquidation of the company.
+
+
+
+**4\. Use of Web Beacons or GIF files**
+
+pThe Larry H. Miller Group of Companies Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow the Larry H Miller Group of Companies to count users who have visited those pages and to deliver co-branded services.  The Larry H. Miller Group of Companies may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  The Larry H. Miller Group of Companies prohibits Web beacons from being used to collect or access your personal information.
+
+**5\. Accessing Web Account Information**
+
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support attendant.  (Please see our “Contacting Us” section)
+
+**6\. Changes to this Statement**  
+The Larry H. Miller Group of Companies has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+**7\. Contacting Us**
+
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.
+
+Megaplex Theatres  
+**Attention:   Privacy Statement Personnel**  
+9400 S. State Street  
+Sandy, Utah 84070
+
+The Larry H Miller Group of Companies will use commercially reasonable efforts to promptly respond and resolve any problem or question.
