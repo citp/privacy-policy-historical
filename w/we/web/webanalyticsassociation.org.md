@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218161219id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022438id_/http%3A//www.webanalyticsassociation.org/en/cms/%3F609) for the most accurate reproduction.*
 
 # WAA Privacy and Private Information Collection Policies - Web Analytics Association, About Us
 
 ## Members list usage policy:
 
   1. No member of WAA may solicit for, or use the official membership list for any commercial purposes. This is a direct violation of our privacy policy. Any exceptions must be given explicit advanced approval in writing by the Board of Directors Chairman.
-  2. Members wishing to communicate events or messages to other members may do so by requesting inclusion in an upcoming newsletter. Please contact Brian Induni at [execdir@webanalyticsassociation.org](mailto:execdir@webanalyticsassociation.org).
+  2. Members wishing to communicate events or messages to other members may do so by requesting inclusion in an upcoming newsletter. Please contact Lindsay De Santis at [info@webanalyticsassociation.org](mailto:execdir@webanalyticsassociation.org).
   3. Members may also post events on the following section of the site: [http://www.webanalyticsassociation.org/en/calendarevents/](https://web.archive.org/en/calendarevents/)
 
 
