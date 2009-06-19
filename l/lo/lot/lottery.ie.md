@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lottery.ie privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164419id_/http%3A//www.lottery.ie/en/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottery.ie privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619194704id_/http%3A//www.lottery.ie/en/Info/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lotto
+# Privacy Policy - Lottery
 
   
 This statement relates to our privacy practices in connection with this website. An Post National Lottery Company is not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such. Some technical terms used in this statement are explained at the end of this page.
@@ -26,7 +26,7 @@ This website does not use cookies, apart from temporary "session" cookies which 
 * the type of web browser used by the website visitor. 
 
   
-The National Lottery will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is the policy of An Post National Lottery Company never to disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by An Post National Lottery Company, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Act, 1988 and 2001.
+The National Lottery will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is the policy of An Post National Lottery Company never to disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by An Post National Lottery Company, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Act, 1988 and 2003.
 
 **Glossary of technical terms used**
 
