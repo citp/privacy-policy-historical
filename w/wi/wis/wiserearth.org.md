@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152030id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212539id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
 
 # Article: Privacy Policy - WiserEarth
 
@@ -7,7 +7,7 @@ Privacy Policy**
 
 The effective date of this policy is March 15, 2007. 
 
-WiserEarth.org ("WiserEarth" or the "Website"), established and administered by the Natural Capital Institute ("NCI" or "us"), is a community-driven, editable, networking and informational website dedicated to serving, connecting and empowering the people and organizations throughout the globe who are part of the sustainablity community. WiserEarth includes an extensive international directory of over 100,000 organizations based in 243 countries, sovereign islands, and territories, and includes contact details, maps, areas of focus, and other information to be repurposed in innovative and useful ways. 
+WiserEarth.org ("WiserEarth" or the "Website"), established and administered by the Natural Capital Institute ("NCI" or "us"), is a community-driven, editable, networking and informational website dedicated to serving, connecting and empowering the people and organizations throughout the globe who are part of the sustainablity community. WiserEarth includes an extensive international directory of over 110,000 organizations based in 243 countries, sovereign islands, and territories, and includes contact details, maps, areas of focus, and other information to be repurposed in innovative and useful ways. 
 
 By using WiserEarth, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. 
 
