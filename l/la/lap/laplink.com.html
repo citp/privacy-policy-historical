@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219003946id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619083927id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
 
 <html><head></head><body><a name="TOP"></a>
 
@@ -25,12 +25,12 @@
 <div id="globalnavigation">
   <div class="wrap">
     <ul id="listnav">
-    	  <li><a href="/products.html" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1')">Products</a></li>
-    	  <li><a href="/business_solutions/">Business Solutions</a></li>
-    	  <li><a href="/help/" onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3')">Support</a></li>
-    	  <li><a href="/partners/" onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4')">Partners</a></li>
-    	  <li><a href="/aboutus/" onmouseover="ypSlideOutMenu.showMenu('menu11');" onmouseout="ypSlideOutMenu.hideMenu('menu11')">Company</a></li>
-    	  <li><a href="/media/" onmouseover="ypSlideOutMenu.showMenu('menu13');" onmouseout="ypSlideOutMenu.hideMenu('menu13')">Media Center</a></li>
+    	  <li><a href="/products.html" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1')" title="Products">Products</a></li>
+    	  <li><a href="/business_solutions/" onmouseover="ypSlideOutMenu.showMenu('menu2');" onmouseout="ypSlideOutMenu.hideMenu('menu2')" title="Business Solutions">Business Solutions</a></li>
+    	  <li><a href="/help/" onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3')" title="Support">Support</a></li>
+    	  <li><a href="/partners/" onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4')" title="Partners">Partners</a></li>
+    	  <li><a href="/aboutus/" onmouseover="ypSlideOutMenu.showMenu('menu11');" onmouseout="ypSlideOutMenu.hideMenu('menu11')" title="Company">Company</a></li>
+    	  <li><a href="/media/" onmouseover="ypSlideOutMenu.showMenu('menu13');" onmouseout="ypSlideOutMenu.hideMenu('menu13')" title="Media Center">Media Center</a></li>
    </ul>
 </div><!-- global nav -->
 </div><!-- wrap:: added with commented out section - remove after removing commenting -->
@@ -145,7 +145,7 @@
 <a href="/siteinfo/salespolicies.asp">Sales &amp; Refunds</a>
 </div>
 
-Copyright © 1983 - 2008, Laplink Software, Inc. All rights reserved.
+Copyright © 1983 - 2009, Laplink Software, Inc. All rights reserved.
 </div><!-- footer -->
 
 
@@ -250,24 +250,26 @@ function elementFromId (elementId) {
 
 // the number you pass to initLeft doesn't matter since it will get changed onactivate
 // ypSlideOutMenu(id, dir, left, top, width, height, parentid, degrade, debug)
-	var myMenu1 = new ypSlideOutMenu("menu1", "down", -1000, 87, 150, 285, null) // add 20 to the last number for every new product
+	var myMenu1 = new ypSlideOutMenu("menu1", "down", -1000, 87, 150, 263, null) // add 20 to the last number for every new product
+	var myMenu2 = new ypSlideOutMenu("menu2", "down", -1000, 87, 150, 107)
 	var myMenu3 = new ypSlideOutMenu("menu3", "down", -1000, 87, 150, 43)
 	var myMenu4 = new ypSlideOutMenu("menu4", "down", -1000, 87, 150, 65)
 	var myMenu5 = new ypSlideOutMenu("menu5", "right", -1000, 87, 150, 45, "menu1")
 	var myMenu6 = new ypSlideOutMenu("menu6", "right", -1000, 87, 150, 45, "menu3")
 	var myMenu7 = new ypSlideOutMenu("menu7", "right", -1000, 87, 150, 45, "menu3")
-        var myMenu11 = new ypSlideOutMenu("menu11", "down", -1000, 87, 150, 87)
-        var myMenu13 = new ypSlideOutMenu("menu13", "down", -1000, 87, 150, 87)
+    var myMenu11 = new ypSlideOutMenu("menu11", "down", -1000, 87, 150, 87)
+    var myMenu13 = new ypSlideOutMenu("menu13", "down", -1000, 87, 150, 87)
  
 // for each menu, we set up the onactivate event to call repositionMenu with the amount offset from center, in pixels
 	myMenu1.onactivate = function() { repositionMenu(myMenu1, -380); }
+	myMenu2.onactivate = function() { repositionMenu(myMenu2, -285); } 
 	myMenu3.onactivate = function() { repositionMenu(myMenu3, -135); } // was 192
 	myMenu4.onactivate = function() { repositionMenu(myMenu4, -46); }
 	myMenu5.onactivate = function() { repositionMenu(myMenu5, -230); }
 	myMenu6.onactivate = function() { repositionMenu(myMenu6, 15); }
 	myMenu7.onactivate = function() { repositionMenu(myMenu7, 15); }
-        myMenu11.onactivate = function() { repositionMenu(myMenu11, 50); } //
-        myMenu13.onactivate = function() { repositionMenu(myMenu13, 147); }
+    myMenu11.onactivate = function() { repositionMenu(myMenu11, 50); } //
+    myMenu13.onactivate = function() { repositionMenu(myMenu13, 147); }
 
 </script>
 
@@ -275,20 +277,29 @@ function elementFromId (elementId) {
 <div id="menuContainers">
 <div id="menu1Container"><!-- products -->
   <div id="menu1Content" class="menu">
-    <a href="/pcmover/">PCmover</a>
-    <a href="/llgold/">Laplink Gold</a>
-    <a href="/pcsync/">PCsync</a>
-    <a href="/pdasync/">PDAsync</a>
-    <a href="/lle/">Laplink Everywhere</a>
-    <a href="/remoteassist/">Laplink RemoteAssist</a>
-    <a href="/conferencecenter/">Conference Center</a>
-    <a href="/doubleview/">DoubleView</a>
-    <a href="/filemover/">FileMover</a>
-    <a href="/sharedirect/">ShareDirect</a>
-    <a href="/llv/">Laplink V for DOS</a>
-    <a href="/cables/">Laplink Cables</a>
-    <a href="/extras/">Extras</a>
+    <a href="/pcmover/" title="PCmover">PCmover</a>
+    <a href="/llgold/" title="Laplink Gold">Laplink Gold</a>
+    <a href="/pcsync/" title="PCsync">PCsync</a>
+    <a href="/pdasync/" title="PDAsync">PDAsync</a>
+    <a href="/lle5/" title="Laplink Everywhere">Laplink Everywhere</a>
+    <a href="/remoteassist/" title="Laplink RemoteAssist">Laplink RemoteAssist</a>
+    <a href="/doubleview/" title="DoubleView">DoubleView</a>
+    <a href="/filemover/" title="FileMover">FileMover</a>
+    <a href="/sharedirect/" title="ShareDirect">ShareDirect</a>
+    <a href="/llv/" title="Laplink V for DOS">Laplink V for DOS</a>
+    <a href="/cables/" title="Laplink Cables">Laplink Cables</a>
+    <a href="/extras/" title="Extras">Extras</a>
     </div>
+</div>
+<div id="menu2Container"><!-- corporate -->
+  <div id="menu2Content" class="menu">
+    <a href="/business_solutions/pcmover" title="PC Migration">PC Migration</a>
+    <a href="/business_solutions/remoteassist.html" title="Remote Support">Remote Support</a>
+    <a href="/business_solutions/llgold.html" title="Remote Connectivity">Remote Connectivity</a>
+    <a href="/business_solutions/lle.html" title="Mobility">Mobility</a>
+    <a href="/business_solutions/sharedirect.html" title="Collaboration">Collaboration</a>
+    
+  </div>
 </div>
 <div id="menu3Container"><!-- support -->
   <div id="menu3Content" class="menu">
