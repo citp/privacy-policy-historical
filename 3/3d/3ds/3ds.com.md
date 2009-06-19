@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165152id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ds.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085749id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
 
-# Dassault Systemes: Privacy Policy
+# Privacy Policy - Dassault Systèmes
 
 _The following personal data protection policy (the "Privacy Policy") is a declaration of principles and guidelines for the protection of the Personal Data (as defined below) of   all persons browsing the "3ds.com" website of Dassault Systèmes (the "Site"), including the customers of Dassault Systèmes and its subsidiaries ._
 
