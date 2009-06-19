@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitan.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111104id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204324id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
@@ -6,11 +6,11 @@
   
 |  | | ninemsn Highlights Privacy Notice  
 ---  
-Last updated: 28 July, 2004 |  |  | 
+Last updated: 29 November, 2006 |  |  | 
 
 Scope 
 
-This notice provides highlights of the full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). This notice and the full Privacy Policy apply to information you provide on the ninemsn Network and under MSN services provided through our site. 
+This notice provides highlights of the full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). This notice and the full Privacy Policy apply to information you provide on the ninemsn Network and under MSN and Windows Live services provided through our site. 
 
   
   
@@ -18,8 +18,8 @@ This notice provides highlights of the full [Privacy Policy](https://web.archive
 ---|---|---  
 | 
 
-  * When you register as a [ninemsn Member](http://membership.ninemsn.com.au/memberspage.asp) or for other services offered on the ninemsn Network (including MSN services), we’ll ask you to provide personal information. 
-  * The information we collect may be combined with information obtained from MSN services provided through our site and other companies. 
+  * When you register as a [ninemsn Member](http://membership.ninemsn.com.au/memberspage.asp) or for other services offered on the ninemsn Network (including MSN and Windows Live services), we’ll ask you to provide personal information. 
+  * The information we collect may be combined with information obtained from MSN and Windows Live services provided through our site and other companies. 
   * We use cookies and other technologies to keep track of your interactions with our sites and services to offer a personalised experience. 
 
 
@@ -55,8 +55,8 @@ This notice provides highlights of the full [Privacy Policy](https://web.archive
 
 **Important information**
 
-  * ninemsn is operated as a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. Any information you provide under MSN services provided through the ninemsn site, such as Hotmail, Instant Messenger and Search, may be collected and used both by Microsoft, as described in the [MSN Privacy Statement](http://privacy.msn.com/), and by ninemsn, as described in our full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). 
-  * The e-mail address and password you use to sign-in on the ninemsn Network can also be used to sign in to other sites that are part the Microsoft Passport Network. To learn more about the Passport Network, [read the Microsoft Passport Network Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=2057).   
+  * ninemsn is operated as a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. Any information you provide under MSN and Windows Live services provided through the ninemsn site, such as Hotmail, Instant Messenger, Search and Windows Live ID, may be collected and used both by Microsoft, as described in the [Microsoft Online Privacy Statement](http://privacy.msn.com/), and by ninemsn, as described in our full [Privacy Policy](https://web.archive.org/support/privacy_full.asp). 
+  * The e-mail address and password you use to sign-in on the ninemsn Network can also be used to sign in to other sites that are part of Windows Live™ ID. To learn more about Windows Live ID, [read the Windows Live ID Privacy Statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=2057).   
 
 
 
