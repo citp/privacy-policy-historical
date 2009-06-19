@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the vyew.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223092814id_/http%3A//vyew.com/site/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyew.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619214534id_/http%3A//vyew.com/site/company/policies/privacy) for the most accurate reproduction.*
 
 # Vyew: Vyew Privacy & Security Policy | FREE Anytime Collaboration and Live Conferencing™
 
-Your privacy is important. The following Privacy and Security Policy has been created to inform you about what information we collect when you transact with us, as well as why we collect it and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and related issues.
+**Keeping your data safe and secure is our highest priority.**
+
+The ownership of any Content uploaded by you does not transfer to the Company in full or in part; therefore, the Company does not have any intellectual property rights to any of the Content uploaded by you. 
+
+Your privacy is important. The following policy informs you about what information we collect when you transact with us, as well as why we collect it and how it is used. This Privacy and Security Policy also addresses our data security practices and the options you have to access and control any personally identifiable information you provide to us.
 
 This Privacy and Security Policy is governed by the [Vyew Service Agreement](https://web.archive.org/content/VyewServiceAgreement "Vyew Service Agreement"). We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it - we encourage you to visit this page often.
 
 #### Special note about children
 
-This site is not intended for or directed to persons under the age of 18. By registering with this website or providing Simulat with any information, you represent that you are 18 years of age or older and that any information you provide to Simulat about a third party is for a third party that is 18 years of age or older.
+This site is not intended for or directed to persons under the age of 18. By registering with this website or providing Simulat with any information, you represent that you are 18 years of age or older and that any information you provide to Simulat about a third party is for a third party that is 18 years of age or older. If you are under 18, you can only use this site in conjunction with your school, educational material, or academic tutoring. 
 
 #### What information do we collect? Why?
 
@@ -41,6 +45,10 @@ We may disclose your information if necessary to protect our legal rights, if th
 #### What are cookies? Why do we use them?
 
 Cookies are very tiny text files that are stored on your computer when you visit certain web pages that record your preferences. Vyew may use cookies to recognize you when you return to Vyew. They cannot harm your computer and they do not contain any personal or private information.
+
+#### Review of content uploaded to this site
+
+In case of support related issues, or concerns whether you may have breached the Vyew Service Agreement, we may browse through your content and access your VyewBooks. Any information viewed during such an exercised shall be kept confidential and shall not be disclosed to a third party. 
 
 ####  How do we protect information we collect?
 
