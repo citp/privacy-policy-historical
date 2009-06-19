@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2008-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080721125908id_/http%3A//www.oroton.com.au/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044631id_/http%3A//www.oroton.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,6 +81,8 @@ You agree and consent that OrotonGroup’s use of your personal information may 
 OrotonGroup does not sell, rent, trade, give or share personal information to or with third parties.  However, you agree and consent that we may disclose your personal information to third parties to whom OrotonGroup contracts out specialised functions (including without limitation such as printing companies for the purpose of printing OrotonGroup’s promotional material).  If OrotonGroup does disclose your personal information to these third party contractors under outsourcing or contracting arrangements, OrotonGroup takes steps to ensure that those contractors comply with the National Privacy Principles when they handle your personal information, and are authorised only to use your personal information in order to provide the services or to perform the functions required by OrotonGroup. 
 
 Otherwise, OrotonGroup only uses or discloses personal information as authorised or required by law.
+
+###  
 
 ### Personal Information About Other People
 
