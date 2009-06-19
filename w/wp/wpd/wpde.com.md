@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912215634id_/http%3A//www.wpde.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052326id_/http%3A//www.carolinalive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # Privacy Policy : About : WPDE
 
@@ -6,7 +6,7 @@
 
 At Barrington Broadcasting Corporation, "Barrington," we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This privacy policy applies to those Web sites that are part of the Barrington Network.
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:bbauer@barringtontv.com).
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:dbuonfiglio@barringtontv.com).
 
 **Collection of Personal Information**
 
@@ -16,22 +16,28 @@ However, if you want to use certain online services, you may be asked to provide
 
 Some examples of when we may request personal information include the following:
 
-**E-News** **  
+**E-News  
 ** You can register to receive notifications from Barrington sites about issues of personal interest, such as local weather, traffic and sports information. In order to provide you with these e-mail notifications, we may ask you to provide certain personal information, such as your name and e-mail address.
 
-**Polls** ****Many Barrington sites offer polling areas, which provide users with an opportunity to vote on local and national issues of concern. When you choose to participate in a poll, we may ask you to provide your name and e-mail address. This information helps us ensure the accuracy of our polling data.
+**Polls** Many Barrington sites offer polling areas, which provide users with an opportunity to vote on local and national issues of concern. When you choose to participate in a poll, we may ask you to provide your name and e-mail address. This information helps us ensure the accuracy of our polling data.
 
-**Surveys** ****Barrington sites also may allow users to complete surveys about products or services offered by Barrington or other companies. These surveys may ask for your name and e-mail address, and/or other information, such as your gender and income level. This information helps us understand our survey results.
+**Surveys** Barrington sites also may allow users to complete surveys about products or services offered by Barrington or other companies. These surveys may ask for your name and e-mail address, and/or other information, such as your gender and income level. This information helps us understand our survey results.
 
-**Contests/Trivia** ****Barrington sites also afford users many opportunities to play contests or trivia games. When you enter into a contest, trivia game or any other promotional item, we may ask for your name, password information and address (physical and electronic) so that we can contact you if you win. Sometimes we may require you to provide additional information, such as your gender and income level. Of course, if you do not want to provide such information, you do not need to participate in the online activity.
+**Contests/Trivia**  
 
-**Purchases** ****Some Barrington sites enable users to purchase products. When you purchase products, we may request your name, address, telephone number and credit card information. This information allows us to send you the items you ordered, to process payment information, and to respond to product and billing questions.
+Barrington sites also afford users many opportunities to play contests or trivia games. When you enter into a contest, trivia game or any other promotional item, we may ask for your name, password information and address (physical and electronic) so that we can contact you if you win. Sometimes we may require you to provide additional information, such as your gender and income level. Of course, if you do not want to provide such information, you do not need to participate in the online activity.
+
+**Purchases** Some Barrington sites enable users to purchase products. When you purchase products, we may request your name, address, telephone number and credit card information. This information allows us to send you the items you ordered, to process payment information, and to respond to product and billing questions.
 
 **Chat/Message Boards**
 
 Barrington sites also may offer users the chance to participate in public forums, such as chat rooms, message boards and/or news groups. When you choose to participate in any of these forums, we may request your name, password information and address (physical and electronic). This information helps us respond to questions or concerns about use of these public areas.
 
-**Comments/Questions** ****You may send us comments or questions about your use of a Barrington site. You need not identify yourself to send a comment or question, but we may collect your e-mail address so that we can send you a response. If you choose to provide other personal information in your comment or question, we may keep it in our correspondence files.
+**Comments/Questions**  
+
+You may send us comments or questions about your use of a Barrington site. You need not identify yourself to send a comment or question, but we may collect your e-mail address so that we can send you a response. If you choose to provide other personal information in your comment or question, we may keep it in our correspondence files.
+
+In certain instances, Barrington may be required to disclose to the public various communications sent to the main station email address or form mechanism regarding station operations (the “Public File”) as authorized by the Federal Communications Commission. If you do not wish your information to be included in the Public File, please indicate so.
 
 The above list contains some of the instances when a Barrington Web site may collect your personal information. Please note that many of our Web sites may offer additional online features and services and may ask you to provide some personal information before permitting you to access those areas. This privacy policy governs the collection of any personal information you provide to a Barrington site that is part of the Barrington Network.
 
@@ -53,7 +59,7 @@ We take reasonable measures to protect the privacy, accuracy, and reliability of
 
 **Accessing or Deleting Your Personal Information**
 
-If you have submitted personal information through a Barrington site and you would like to access that information, please [send an e-mail](mailto:bbauer@barringtontv.com). We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
+If you have submitted personal information through a Barrington site and you would like to access that information, please send an email to David Buonfiglio at dbuonfiglio@barringtontv.com. We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases.
 
 **Collection, Use and Disclosure of Non-Personal Information**
 
@@ -85,14 +91,14 @@ By using a Barrington Web site, you signify your agreement to the terms of our p
 
 If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
 
-If you have any questions or comments about this policy or our use of personal information, you may [send an e-mail](mailto:bbauer@barringtontv.com) or send a letter to the following address:
+If you have any questions or comments about this policy or our use of personal information, you may send an email or send a letter to the following address:
 
-Brian Bauer  
+David Buonfiglio  
 Barrington Broadcasting Corporation  
-2500 W. Higgins Road, Suite 880  
-Hoffman Estates, IL  60195  
-[Send an Email Message](mailto:bbauer@barringtontv.com)
+2500 W. Higgins Road, Suite 155  
+Hoffman Estates, IL 60169  
+[Send an Email Message](mailto:dbuonfiglio@barringtontv.com)
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
-Updated 1/2006.
+Updated 12/2008.
