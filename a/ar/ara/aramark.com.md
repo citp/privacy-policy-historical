@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218140601id_/http%3A//www.aramark.com/ContentBlankTemplate.aspx%3FChannelID%3D263%26SiteID%3D2%26PostingID%3D491) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aramark.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619235025id_/http%3A//www.aramark.com/ContentBlankTemplate.aspx%3FChannelID%3D263%26SiteID%3D2%26PostingID%3D491) for the most accurate reproduction.*
 
 # ARAMARK: Privacy Policy
 
@@ -13,7 +13,7 @@ ARAMARK is committed to protecting any personal information that you may provide
   * Access to Collected Information
   * Contacting Us
   * Changes to this Policy
-  * [Candidate Data Privacy Protection](https://web.archive.org/web/20081218140601id_/http%3A//www.aramark.com/ContentTemplate.aspx?PostingID=829&ChannelID=393)
+  * [Candidate Data Privacy Protection](https://web.archive.org/web/20090619235025id_/http%3A//www.aramark.com/ContentTemplate.aspx?PostingID=829&ChannelID=393)
 
 
 
@@ -23,7 +23,7 @@ In general, you can visit this Web site without telling us who you are or reveal
 
 In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For our supplier diversity area, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
 
-Information obtained from our Careers Section will be used solely for the purpose of accepting and evaluating your submission for possible employment and the related purposes described on our jobs site. In the event you provide us with any information requested in the Careers section of this Web Site, your submission will be goverened by our Candidate Data Protection Standard, a copy of which is available by clicking [here](https://web.archive.org/web/20081218140601id_/http%3A//www.aramark.com/ContentTemplate.aspx?PostingID=829&ChannelID=393). 
+Information obtained from our Careers Section will be used solely for the purpose of accepting and evaluating your submission for possible employment and the related purposes described on our jobs site. In the event you provide us with any information requested in the Careers section of this Web Site, your submission will be goverened by our Candidate Data Protection Standard, a copy of which is available by clicking [here](https://web.archive.org/web/20090619235025id_/http%3A//www.aramark.com/ContentTemplate.aspx?PostingID=829&ChannelID=393). 
 
 We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
