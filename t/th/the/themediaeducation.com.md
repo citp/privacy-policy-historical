@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themediaeducation.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614141238id_/http%3A//www.themediaeducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themediaeducation.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154435id_/http%3A//www.themediaeducation.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to TheMediaEducation.com
 
