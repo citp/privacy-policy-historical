@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218190855id_/http%3A//www.ligonier.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligonier.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035824id_/http%3A//www.ligonier.org/privacy.php) for the most accurate reproduction.*
 
 # Ligonier Ministries | Privacy Policy
 
