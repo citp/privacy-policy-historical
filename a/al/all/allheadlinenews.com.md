@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041039id_/http%3A//www.allheadlinenews.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044821id_/http%3A//www.allheadlinenews.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # AHN | FeedSyndicate | Privacy Policy
 
