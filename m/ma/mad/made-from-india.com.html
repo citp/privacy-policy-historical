@@ -1,13 +1,47 @@
-<!--The following is the downloaded HTML source of the made-from-india.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218101727id_/http%3A//www.made-from-india.com/Contents/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the made-from-india.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619202215id_/http%3A//www.made-from-india.com/Contents/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy |Made-from-India.com</title><meta name="description" content="www.made-from-india.com : Privacy"><meta name="keywords" content="www.made-from-india.com, : Privacy"><meta name="Robots" content="all"><meta name="Revisit-After" content="7 Days"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-style-type" content="text/css"><meta http-equiv="imagetoolbar" content="no"><meta name="resource-type" content="document"><link href="http://www.made-from-india.com/madefromindia.css" rel="stylesheet" type="text/css">
+<title>www.made-from-india.com</title><meta name="description" content="www.made-from-india.com"><meta name="keywords" content="www.made-from-india.com"><meta name="Robots" content="all"><meta name="Revisit-After" content="7 Days"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-style-type" content="text/css"><meta http-equiv="imagetoolbar" content="no"><meta name="resource-type" content="document"><link href="http://www.made-from-india.com/madefromindia.css" rel="stylesheet" type="text/css">
 <link href="../indexcss.css" rel="stylesheet" type="text/css">
+<link href="../style.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="http://www.made-from-india.com/includes/functions.js"></script>
 <script src="http://www.made-from-india.com/includes/visitlog.php?r="></script>
 <script language="JavaScript" type="text/javascript" src="../indexjs.js"></script>
+<script language="javascript" type="text/javascript" src="ajax.js"></script>
 <script language="javascript">
+function productCheck() 
+{
+	if (xmlHttp.readyState==4)
+	{
+		//alert(trim(xmlHttp.responseText));
+		if(trim(xmlHttp.responseText) != "none")
+		{
+			document.getElementById("ajaxcheckproduct").innerHTML=xmlHttp.responseText;
+			document.getElementById("pname").value='';
+		}
+		else
+		{
+			document.getElementById("ajaxcheckproduct").innerHTML='';
+		}
+	}
+}
+function productCheck1() 
+{
+	if (xmlHttp.readyState==4)
+	{
+		//alert(trim(xmlHttp.responseText));
+		if(trim(xmlHttp.responseText) != "none")
+		{	
+			document.getElementById("ajaxcheckproduct1").innerHTML=xmlHttp.responseText;
+			document.getElementById("productname").value='';
+		}
+		else
+		{
+			document.getElementById("ajaxcheckproduct1").innerHTML='';
+		}
+	}
+}
 function ShowPage(sid)
 {
 	document.frm.srh_cat.value=sid;
@@ -171,8 +205,8 @@ background-color:#f9fbfc;
                 <td width="245" height="20" align="left" valign="bottom" style="padding-left:80px">				<b><font color="#666666">Welcome</font>&nbsp;<font color="#FF6600">Guest !</font></b>
 								</td>
                
-                    <td width="456" height="20" align="left" valign="top" class="header_link1"><a href="http://www.made-from-india.com/Contents/Site_Map/" title="Site Map">Site Map</a>                        |&nbsp;<a href="http://www.made-from-india.com/login.php" title="Login">Login</a>&nbsp;|&nbsp;<a href="http://www.made-from-india.com/registration.php" title="Join Now">Join 
-                          Now</a>                      |&nbsp;
+                    <td width="456" height="20" align="left" valign="top" class="header_link1"><a href="http://www.made-from-india.com/Contents/Site_Map/" title="India Business Directory Sitemap">Site Map</a>                        |&nbsp;<a href="http://websolutions.made-from-india.com" title="Web solutions from india">Web Solutions</a>|&nbsp;<a href="http://www.made-from-india.com/login.php" title="Login for Business Manufacturers &amp; Suppliers">Login</a>&nbsp;|&nbsp;<a href="http://www.made-from-india.com/registration.php" title="Join for Suppliers &amp; Buyers">Join 
+                          Free</a>                      |&nbsp;
                       <script language="JavaScript"><!-- This script and many more are available free online at -->
 				<!-- The JavaScript Source!! http://javascript.internet.com -->
 				
@@ -368,24 +402,21 @@ else
 					  <tbody><tr>
 			<td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-               <td width="52" align="left" valign="top">&nbsp;</td>
-                <td width="353" align="left" valign="top"><a href="http://www.made-from-india.com/" title="Made-from-india.com"><img src="http://www.made-from-india.com/images/headert2_2.gif" alt="MADE FROM INDIA - LOGO" width="353" height="93" border="0"></a></td>
-                <td width="64" align="left" valign="top"><img src="http://www.made-from-india.com/images/headert2_3.gif" alt="" width="64" height="93"></td>
-                <td width="531" align="left" valign="middle" class=""><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<script language="javascript">
-var fadeimages1=new Array() ;
-var i=0;
-</script>
-  <tbody><tr><td align="center" valign="middle">
-   <a href="http://www.made-from-india.com/"><img src="http://www.made-from-india.com/images/headert2_4.gif" border="0"> </a>
-
- </td> 
-	</tr>
-</tbody></table></td>
+                <td width="52" align="left" valign="top">&nbsp;</td>
+                <td width="353" align="left" valign="top"><a href="http://www.made-from-india.com/" title="Made-from-india.com">
+				<div class="made_from_india_logotext_div">
+				<div style="height:53px;width:100%;"></div>
+				<div class="logo_heading_text"><h2>connecting global buyers with indian suppliers</h2></div>
+			    </div>
+				</a></td>
+                <!--<td width="64" align="left" valign="top"><img src="" alt="" width="64" height="93" /></td>-->
+                <td width="531" align="left" valign="middle" class="">
+												<a href="http://www.made-from-india.com/Contents/Trade_Services/9_Powers_Price_List/"><img src="http://www.made-from-india.com/img/Be_a_paid_member.gif" align="right" border="0" style="padding-right:40px;"></a>
+									</td>
               </tr>
-            </tbody></table></td>
+            </tbody></table>
+			</td>
 		  </tr>
-					
 				</tbody></table>
 				</td>
 		  </tr> 	
@@ -411,14 +442,15 @@ var i=0;
 					<table border="0" cellspacing="0" cellpadding="0" width="711">
                         <tbody><tr>
 						<td align="center" valign="top">&nbsp;</td>
-                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/" title="Home">Home</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/" title="Business Directory Home Page">Home</a></td><td align="center" valign="top" class="nav_buttons">|</td>
 					       
-					      <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Product-Directory/" title="Product Directory">Product Directory</a></td><td align="center" valign="top" class="nav_buttons">|</td>
-                        <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Offers/" title="Offers">Offers</a></td><td align="center" valign="top" class="nav_buttons">|</td>
-                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/virtualoffice.php?pg=viroffice" title="Virtual Office">Virtual Office</a></td><td align="center" valign="top" class="nav_buttons">|</td>
-                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/General_Information/" title="General Information">General Information</a></td><td align="center" valign="top" class="nav_buttons">|</td>
-                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/Trade_Services/" title="Trade Services">Trade Services</a></td><td align="center" valign="top" class="nav_buttons">|</td>
-                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/Advertise_With_Us/" title="Advertise with Us">Advertise with Us</a></td>
+					      <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Product-Directory/" title="Manufacturers and Buyers directory">Product Directory</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                        <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Offers/" title="Buy and Sell Offers">Offers</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/virtualoffice.php?pg=viroffice" title="Virtual Office Login">Virtual Office</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/General_Information/" title="Business Information">General Info</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/Trade_Services/" title="Paid Services Information">Paid Services</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+                          <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/Contents/Advertise_With_Us/" title="Business advertise with us">Advertise with Us</a></td><td align="center" valign="top" class="nav_buttons">|</td>
+						  <td align="center" valign="top" class="nav_buttons"><a href="http://www.made-from-india.com/press_release.php" title="Free Submit News">Submit News</a></td>
                         </tr>
                     </tbody></table></td>
                   </tr>
@@ -429,24 +461,46 @@ var i=0;
 			<!-- END OF LEFT MENU BORDER -->
 			</td>
 		  </tr>
-	  </tbody></table></td></tr><tr>
+	  </tbody></table>
+
+</td></tr><tr>
+
     <td align="left" valign="top" id="content"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="content">
+
         <tbody><tr>
+
           <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
             <tbody><tr>
+
               <td align="center" valign="top">
+
 			  <!-- <form name="frm" action="" method="post">
+
 			  <input type="hidden" name="p_i" value="" />
+
 			  --><table width="941" border="0" cellspacing="3" cellpadding="0">
-                 				<tbody><tr>
+
+                 
+				<tbody><tr>
+
                   <td width="100%" align="center" valign="top"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+
                   
+
+
 				
+
                     <tbody><tr>
+
                       <td align="left" valign="top">
+
 					  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
                           <tbody><tr>
+
                             <td class="featurepeoduct1">
+
 							<table width="100%" border="0" cellspacing="0" cellpadding="0">
 							
 					<tbody><tr>
@@ -537,22 +591,39 @@ var i=0;
                               </tr>
 						
 	                  
-			</tbody></table>							</td>
+			</tbody></table>
+							</td>
+
                           </tr>
+
 						  	  
+
                       </tbody></table></td>
+
                     </tr>
+
                     </tbody></table>				  </td>
+
                 </tr>
+
               </tbody></table>
+
 			  <!--</form>-->
+
 			  </td>
+
             </tr>
+
           </tbody></table></td>
+
         </tr>
+
     </tbody></table></td>
+
   </tr>
+
   
+
 <tr>
     <td align="left" valign="top" id="footer"><div align="LEFT">
       <table width="100%" border="0" cellpadding="0" cellspacing="0" class="footer">
@@ -573,38 +644,127 @@ var i=0;
       <td class="spacer_10">&nbsp;</td>
               </tr>
     <tr> 
-      <td align="center" class="footerlink"><a href="http://www.made-from-india.com/Contents/About_Us/">About 
-        Us</a> | <a href="http://www.made-from-india.com/Contents/Contact_Us/">Contact Us</a> 
-        | <a href="http://www.made-from-india.com/Contents/FAQ/">FAQs</a> | <a href="http://www.made-from-india.com/Contents/Help/">Help</a> 
-        | <a href="http://www.made-from-india.com/Contents/Site_Map/">Site Map</a> | <a href="http://www.made-from-india.com/Contents/Privacy/">Privacy</a> 
-        | <a href="http://www.made-from-india.com/Contents/Terms_Conditions/">Terms &amp; Conditions</a> 
-        | <a href="http://www.made-from-india.com/recommended.php">Recommend Us</a> | <a href="http://www.made-from-india.com/links.php">Link 
-          With Us</a> | <a href="http://www.made-from-india.com/affiliate.php">Affiliates</a></td>
+      <td align="center" class="footerlink"><a href="http://www.made-from-india.com/Contents/About_Us/" title="About Us for Largest Manufacturers, Suppliers &amp; Exporters Directory">About 
+        Us</a> | <a href="http://www.made-from-india.com/Contents/Site_Map/" title="India Business Directory Sitemap">Site Map</a> | <a href="http://www.made-from-india.com/Contents/Contact_Us/" title="Contact For Information About Buyers, Manufacturers, Suppliers &amp; Exporters">Contact Us</a> 
+        | <a href="http://www.made-from-india.com/Contents/FAQ/" title="Business To Business Faqs">FAQs</a> | <a href="http://www.made-from-india.com/Contents/Help/" title="Business Related Help">Help</a> 
+        | <a href="http://www.made-from-india.com/Contents/Privacy/" title="B2B Directory Privacy">Privacy</a> 
+        | <a href="http://www.made-from-india.com/Contents/Terms_Conditions/" title="B2B Portal Terms &amp; Conditions">Terms &amp; Conditions</a> 
+        | <a href="http://www.made-from-india.com/recommended.php" title="Recommended To Others">Recommend Us</a> | <a href="http://www.made-from-india.com/links.php" title="Our Valuable Link Partners">Link 
+          With Us</a> | <a href="http://www.made-from-india.com/affiliate.php" title="Affiliates Programe">Affiliates</a></td>
               </tr>
     <tr> 
       <td height="20" align="center" class="footerlink">&nbsp;</td>
               </tr>
-    <tr> 
+    <!--<tr> 
       <td align="center" class="footerlink"><table width="86%" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
+        <tr> 
           <td colspan="3" class="spacer_3">&nbsp;</td>
                     </tr>
         <tr> 
           <td width="3%" height="13">&nbsp;</td>
                       <td width="61%" align="left" valign="middle" class="copyright">Copyright 
-                        © 2008-2009. <strong><a href="http://www.made-from-india.com" style="color:#666666;">MFI 
+                        &copy; 2008-2009. <strong><a href="http://www.made-from-india.com" style="color:#666666;">MFI 
                         TRADE-LINK PVT. LTD.</a></strong> All Rights Reserved.</td>
-                      <td width="36%" align="right" valign="middle"><a href="https://www.paypal.com/verified/pal=accounts@made-from-india.com"> <img src="http://www.made-from-india.com/images/paypal_card.gif" align="absmiddle" border="0"></a> 
-                        <img src="http://www.made-from-india.com/images/credit_cards.gif" align="absmiddle">                      </td>
+                      <td width="36%" align="right" valign="middle"><a href="https://www.paypal.com/verified/pal=accounts@made-from-india.com"> <img src="http://www.made-from-india.com/images/paypal_card.gif" align="absmiddle" border="0"/></a> 
+                        <img src="http://www.made-from-india.com/images/credit_cards.gif" align="absmiddle"/>                      </td>
                     </tr>
-        </tbody></table></td>
-              </tr>
+        </table></td>
+              </tr> -->
     </tbody></table></td>
         </tr>
+		<tr>
+			<td>
+				<div style="height:165px;" class="bottom_outer_div">
+	<div class="bottom_inner_div" style="height:150px;position:relative;top:3px;">
+		<div class="mfi_footer_spacer"></div>
+	  <div class="bottom_ver_design">
+	  	<div class="bottom_subdomain_part" style="width:130px;">
+			<div class="bottom_subdomain_hea">&nbsp;Business Resources </div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://suppliers.made-from-india.com/" title="Indian Suppliers">Suppliers</a></li>
+					<li><a href="http://findmanufacturers.made-from-india.com" title="Indian Manufacturers">Find Manufacturers</a></li>
+					<li><a href="http://exporters.made-from-india.com/" title="Indian Exporters">Exporters</a></li>
+					<li><a href="http://products.made-from-india.com/" title="Products Directory">Products</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:120px;">
+			<div class="bottom_subdomain_hea">&nbsp;Offers - Leads </div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://buyoffers.made-from-india.com/" title="Buy Offers">Buy Offers</a></li>
+					<li><a href="http://selloffers.made-from-india.com/" title="Sell Offers">Sell offers</a></li>
+					<li><a href="http://quotation.made-from-india.com/" title="Get a Quote">Get a Quote</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:145px;">
+			<div class="bottom_subdomain_hea">&nbsp;B2B Links  </div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://exhibitions.made-from-india.com/" title="B2B Online Exhibitions">B2B Online Exhibitions</a></li>
+					<li><a href="http://freewebsite.made-from-india.com/" title="Create Free Website">Create Free Website</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:135px;">
+			<div class="bottom_subdomain_hea">&nbsp;IT Services </div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://websolutions.made-from-india.com/" title="Web Solutions">Web Solutions</a></li>
+					<li><a href="http://www.made-from-india.com/showroom/instawebtech/" title="IT Services">IT Services</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:135px;">
+			<div class="bottom_subdomain_hea">&nbsp;News</div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://www.made-from-india.com/b2b_news.php" title="Business To Business News">B2B News</a></li>
+					<li><a href="http://latestnews.made-from-india.com/" title="Latest News">Latest News</a></li>
+					<li><a title="Submit Press Release &amp; News" href="http://www.made-from-india.com/press_release.php">Submit Press Releases</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:139px;">
+			<div class="bottom_subdomain_hea">&nbsp;Business Tools </div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://worldtime.made-from-india.com/" title="World Time">World Time</a></li>
+					<li> <a href="http://currencyconverter.made-from-india.com/" class="Currency Converter">Currency Converter</a></li>
+					<li> <a href="http://businessindia.made-from-india.com/" title="Business India">Business India</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="bottom_subdomain_part" style="width:141px;border:none;">
+			<div class="bottom_subdomain_hea">&nbsp;Products</div>
+			<div class="bottom_subdomain_text">
+				<ul>
+					<li><a href="http://waterstoragetank.made-from-india.com/" title="Water Storage Tank" target="_blank">Water Storage Tank</a></li>
+					<li><a href="http://prefabs.made-from-india.com/" title="Plastic Prefabs" target="_blank">Plastic Prefabs</a></li>
+					<li><a href="http://industrialpallets.made-from-india.com/" title="Industrial Pallets" target="_blank">Industrial Pallets</a></li>
+				</ul>
+			</div>
+		</div>
+	  </div>
+		<div style="height:21px;margin-left:auto;margin-right:auto;text-align:center;"><a href="https://www.paypal.com/verified/pal=accounts@made-from-india.com"><img src="http://www.made-from-india.com/img/paypal_card.gif" height="21" width="74" border="0" style="vertical-align:middle;" alt="paypal"></a></div>
+	  <div class="copyright_link" style="text-align:center;">Copyright © 2008-2009. <b>MFI TRADE-LINK PVT. LTD.</b> All Rights Reserved.www.made-from-india.com</div>
+	</div>
+</div>
+
+			</td>
+		</tr>
       </tbody></table>
     </div></td>
   </tr>
 </tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-4126908-1";
+urchinTracker();
+</script>
 
 
 </td></tr></tbody></table></body></html>
