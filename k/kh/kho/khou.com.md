@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217113226id_/http%3A//www.khou.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619155959id_/http%3A//www.khou.com/registration/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | KHOU.com | News for Houston, Texas
 
@@ -10,19 +10,19 @@ www.khou.com respects the privacy of visitors to our site. This Privacy Policy g
 
 This Privacy Policy explains the following: 
 
-  * [What types of information we collect](https://web.archive.org/registration/privacy/#infotypes)
-  * [What cookies and beacons are and why we use them](https://web.archive.org/registration/privacy/#cookies)
-  * [How we use your personal information](https://web.archive.org/registration/privacy/#personal)
-  * [With whom we share your personal information](https://web.archive.org/registration/privacy/#share)
-  * [Who is the party collecting your personal information](https://web.archive.org/registration/privacy/#collecting)
-  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/registration/privacy/#optout)
-  * [How you can update your personal information or registration information](https://web.archive.org/registration/privacy/#update)
-  * [What safeguards we put in place to protect your personal information](https://web.archive.org/registration/privacy/#safeguards)
-  * [What you need to know about third-party sites and advertising](https://web.archive.org/registration/privacy/#advertising)
-  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/registration/privacy/#children)
-  * [How you can contact us](https://web.archive.org/registration/privacy/#contact)
-  * [What you should know about "phishing"](https://web.archive.org/registration/privacy/#phishing)
-  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/registration/privacy/#changes)
+  * [What types of information we collect](https://web.archive.org/registration/privacy.html#infotypes)
+  * [What cookies and beacons are and why we use them](https://web.archive.org/registration/privacy.html#cookies)
+  * [How we use your personal information](https://web.archive.org/registration/privacy.html#personal)
+  * [With whom we share your personal information](https://web.archive.org/registration/privacy.html#share)
+  * [Who is the party collecting your personal information](https://web.archive.org/registration/privacy.html#collecting)
+  * [How you can opt-out of sharing your personal information or receiving our promotional communications](https://web.archive.org/registration/privacy.html#optout)
+  * [How you can update your personal information or registration information](https://web.archive.org/registration/privacy.html#update)
+  * [What safeguards we put in place to protect your personal information](https://web.archive.org/registration/privacy.html#safeguards)
+  * [What you need to know about third-party sites and advertising](https://web.archive.org/registration/privacy.html#advertising)
+  * [Whether we knowingly collect personal information of children under 13](https://web.archive.org/registration/privacy.html#children)
+  * [How you can contact us](https://web.archive.org/registration/privacy.html#contact)
+  * [What you should know about "phishing"](https://web.archive.org/registration/privacy.html#phishing)
+  * [When this privacy policy is effective and how changes to the privacy policy are posted](https://web.archive.org/registration/privacy.html#changes)
 
 
 
