@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219172258id_/http%3A//www.cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202014id_/http%3A//www.cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
@@ -6,6 +6,8 @@
 
 Department of Information Technology  
  _Originally posted on September 15, 2004; updated on December 16, 2004_
+
+[City of Seattle Online Privacy and Security Policy Summary Available in 14 Languages](https://web.archive.org/web/20090619202014id_/http%3A//www.cityofseattle.net/pan/privacytrans.htm)
 
 Section A. Introduction
 
