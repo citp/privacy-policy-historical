@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224053133id_/http%3A//www.manifestmen.com/manifest-faqs.cfm%23PRVY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619095139id_/http%3A//manifestmen.com/manifest-faqs.cfm%23PRVY) for the most accurate reproduction.*
 
 # Manifest Men
 
