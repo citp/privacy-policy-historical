@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165147id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154920id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # RoadCyclingUK - Privacy Policy
-
-| 
 
 |   
 ---  
