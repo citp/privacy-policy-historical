@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223093648id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillan.org.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045918id_/http%3A//www.macmillan.org.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Cancer Care Charity - Macmillan Cancer Support
 
 This policy is written in accordance with the Data Protection Act 1998. If you have any questions about it please contact our Data Protection Compliance Officer at Macmillan Cancer Support, 89 Albert Embankment, London SE1 7UQ, email [webmanager@macmillan.org.uk](mailto:webmanager@macmillan.org.uk), or telephone 020 7840 7840. 
+
+By continuing to use this Site you are signifying your agreement to the terms of this privacy policy. 
 
 ###  What personal information do we collect? 
 
@@ -50,7 +52,9 @@ For more information about how to use our discussion boards please see the 'Hous
 
 Child safety is important to us. We do not collect personal information from people under the age of 18 except for our education site 'Why Bother' aimed at people between ages 13 and 18. If personal information given via our websites shows a visitor is a child, we will not allow the child to continue to give personal information and any personal information given will be deleted from our records. 
 
-Our Why Bother website includes a discussion board. We moderate the board and do not show the full name of individuals nor addresses. Children should always ask a parent before sending personal information to anyone online. 
+Our Why Bother website includes a discussion board. We moderate the board and do not show the full name of individuals nor addresses. Children should always ask a parent before sending personal information to anyone online. 
+
+The What Now? community is for people aged 16 and over and we do not collect personal information from people under that age of 16 (if you are aged between 16 and 18 please obtain parental consent before you register). 
 
 ###  Accessing and updating your personal information held by Macmillan 
 
@@ -60,5 +64,7 @@ You can ask us what information we hold about you by contacting us at the above 
 
 We may change our privacy policy from time to time so please check back periodically. 
 
+For changes affecting individuals who have been in contact with the Benefits Helpline, [please see our statement](https://web.archive.org/benefits_helpline_statement.aspx "Benefits helpline statement"). 
+
   
-This policy was last updated August, 2007. 
+This policy was last updated February 2009. 
