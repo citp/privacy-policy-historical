@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218162242id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213238id_/http%3A//www.splcenter.org/center/privacy.jsp) for the most accurate reproduction.*
 
 # SPLCenter.org: Privacy Policy
 
@@ -73,13 +73,7 @@ Are you a **financial supporter** of the Center and want to update our records? 
 
 Are you a subscriber to the **Intelligence Report** and want to update your mailing address? You may do so [online.](https://web.archive.org/intel/intelreport/subscribe.jsp)
 
-Are you a subscriber to one of **the Center's e-newsletters** and want to discontinue delivery? You may do so online:
-
-  * [Tolerance.org e-newsletter](http://www.tolerance.org/newsletter/cancellationform.html) (general audience news) 
-  * [Teaching Tolerance e-newsletter](http://www.tolerance.org/teach/newsletter/cancellationform.jsp) (news and resources for teachers) 
-  * [Mix It Up e-newsletter](http://www.tolerance.org/teens/unnewsletter.jsp) (news for teens) 
-  * Hatewatch e-newsletter (news about domestic extremism): [e-mail us](mailto:unsub_hatewatch@newsletter.splcenter.org) with "UNSUBSCRIBE" in the subject line. 
-  * Center e-newsletter (news about the Center): [e-mail us](mailto:unsub_center@newsletter.splcenter.org) with "UNSUBSCRIBE" in the subject line. 
+If you are a subscriber to an [SPLC e-newsletter](https://web.archive.org/center/subscribe.jsp), you may unsubscribe at any time. Unsubscribe instructions are included in every message.
 
 For more information, contact: 
 
