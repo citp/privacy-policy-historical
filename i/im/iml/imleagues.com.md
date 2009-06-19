@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218044508id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044418id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
 
-# imleagues.com
-
- 
+# :: imleagues ::
 
 **Privacy Policy**
 
@@ -113,8 +111,3 @@ Imleagues takes appropriate precautions to protect our users' information. Your 
  Your use of imleagues, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
 If you have any questions about this Privacy Policy, you should first contact our Privacy Officer at [privacy@imleagues.com](mailto:privacy@imleaguess.com). You may also contact us by mail at 66 Bogart Court Princeton NJ 08540
-
-  
-
-
- 
