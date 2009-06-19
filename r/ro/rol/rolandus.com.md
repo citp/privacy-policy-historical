@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216001549id_/http%3A//www.rolandus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619123642id_/http%3A//rolandus.com/privacy.aspx) for the most accurate reproduction.*
 
 # Roland U.S. - Privacy
 
