@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicityinsider.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219230332id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicityinsider.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619082556id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement, Publicity Insider - Publicity Secrets for Savvy Businesses & Entrepreneurs
 
@@ -17,7 +17,7 @@ Fort Lee, NJ 07024**
 
 * * *
 
-We can be reached via e-mail at [bill@publicityinsider.com](mailto:bill@publicity%20insider.com) or you can reach us by telephone at 201-224-3737. Stoller & Bard Communications, Inc. was founded in March, 1988, and has been in continuous operation, under the same management, since that time. 
+We can be reached via e-mail at [bill@publicityinsider.com](mailto:bill@publicity%20insider.com). Stoller & Bard Communications, Inc. was founded in March, 1988, and has been in continuous operation, under the same management, since that time. 
 
 Our beliefs, and our practices concerning your privacy are as follows: 
 
