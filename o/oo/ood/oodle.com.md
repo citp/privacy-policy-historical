@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220195111id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619183710id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Privacy Policy
 
-Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, including our publicly accessible web sites located at [oodle.com](https://web.archive.org/) (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
+Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, including our publicly accessible web sites located at <http://www.oodle.com/> (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
-Information about Safe Harbor can be found [here](https://web.archive.org/info/privacy/safeharbor). 
+Information about Safe Harbor can be found [here](http://www.oodle.com/info/privacy/safeharbor/). 
 
 ### Protecting Your Privacy
 
@@ -63,7 +63,7 @@ Oodle may disclose information about its users if required to do so by law or in
 
   * Respond to a legal process (e.g., subpoenas, court orders)
   * Respond to claims that a listing or content violates the rights of third parties
-  * Enforce our [Terms of Use](https://web.archive.org/info/terms/)
+  * Enforce our [Terms of Use](http://www.oodle.com/info/terms/)
   * Protect the rights, property or personal safety of Oodle, its users or the general public
 
 
@@ -72,6 +72,6 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).   
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).  
   
 ---|---
