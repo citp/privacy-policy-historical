@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015800id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035638id_/http%3A//www.ipswitch.com/company/privacy.asp) for the most accurate reproduction.*
 
-# Ipswitch, Inc. - Ipswitch Privacy Policy
+# Privacy Policy - Ipswitch.com
+
+## Privacy Policy
 
 Ipswitch is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
@@ -32,24 +34,21 @@ Our order process is encrypted using an Extended Validation (EV) SSL (Secure Soc
 
 * * *
 
-**HOW DOES IPSWITCH USE MY E-MAIL ADDRESS AND CAN IOPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
+**HOW DOES IPSWITCH USE MY E-MAIL ADDRESS AND CAN I OPT-OUT OF RECEIVING IPSWITCH E-MAIL MESSAGES?**
 
 _Download an evalaution:_ We ask for your e-mail address before downloading a free product evaluation. If at anytime you decide that you do not want to receive further marketing messages from us, each e-mail will include a link to our [unsubscribe page](https://web.archive.org/remove.asp). Your contact information may be forwarded to an authorized Ipswitch reseller in your area, in which case you may need to follow-up with them. Unsubscribing will not interrupt any ongoing conversations you may be having with Ipswitch.
 
 _Contacting us for technical or customer support:_ Your e-mail address will be used to respond to your query. In some cases, we may invite you to participate in an online survey to let us know how we are doing.
 
-_Subscribing to the Ipswitch Newsletter:_ When you sign up for the Ipswitch Newsletter, your e-mail address is not used for any purpose other than to send you the newsletter on a monthly basis. You may unsubscribe from the newsletter [here](https://web.archive.org/company/newsletter.asp).
-
-_Subscribing to a discussion list:_ When you sign up for a discussion list, your e-mail address is not used for any purpose other than to send you the discussion list in the format you choose on the discussion lists page. You may unsubscribe or change your format preference from the [discussion lists page](https://web.archive.org/support/mailing-lists.asp).
+_Subscribing to the Ipswitch Newsletter:_ When you sign up for the Ipswitch Newsletter, your e-mail address is not used for any purpose other than to send you the newsletter on a monthly basis. [Unsubscribe from the newsletter](https://web.archive.org/company/newsletter.asp)
 
 If you are using the same e-mail address for multiple items above, the e-mail usage information for 'downloading an evaluation' takes precedent over all other e-mail usage information.
 
-You may also remove yourself from our marketing list by sending an e-mail to [remove@ipswitch.com](mailto:remove@ipswitch.com) from the e-mail address you would like to unsubscribe from
+[You can also remove yourself from our marketing list.](https://web.archive.org/remove.asp)
 
 If you opt out or unsubscribe, we may, in compliance with the United States CAN SPAM Act of 2003, run our suppression list (addresses not to be emailed) against another list of names for an Ipswitch mailing or provide our suppression list to a third party for such verification.
 
-When you opt-out or unsubscribe, you are doing so from our marketing  
-messages. Ipswitch may continue to send you transactional messages relevant to our business relationship. Transactional messages include information on product updates and upgrades, Service Agreement and subscription expirations and renewals, responses to inquiries, surveys and other information related to the product you downloaded or purchased.
+When you opt-out or unsubscribe, you are doing so from our marketing messages. We may continue to send you transactional messages relevant to our business relationship. Transactional messages include information on product updates and upgrades, Service Agreement and subscription expirations and renewals, responses to inquiries, surveys and other information related to the product you downloaded or purchased.
 
 **CAN I CHANGE/MODIFY MY CONTACT INFO?**
 
