@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the acclaimimages.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102707id_/http%3A//www.acclaimimages.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acclaimimages.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090708id_/http%3A//www.acclaimimages.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Acclaim Images - Privacy Policy
-
-**ORDER PRINTS BY DECEMBER 20TH FOR DELIVERY BY CHRISTMAS EVE - CALL 888-618-8723**
 
 This privacy notice discloses the privacy practices for AcclaimImages.com associated websites. 
 
 This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
-| 
 * | What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.   
 ---|---  
 * | What choices are available to you regarding the use of your data.   
