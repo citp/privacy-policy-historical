@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131017id_/http%3A//www.html.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044508id_/http%3A//www.html.com/privacy.html) for the most accurate reproduction.*
 
-# HTML.COM
+# HTML.com
 
 HTML respects the privacy of its customers and visitors to this website. Your personal information is only collected, used and disclosed by HTML in accordance with this Privacy Policy.
 
@@ -70,6 +70,6 @@ In order to protect your personal information and your right to privacy, HTML:
 HTML relies on the accuracy of the information provided by you, but accepts responsibility for the management and confidentiality of the personal information it collects. Please contact our Information Administrator at privacy@internetnamesforbusiness.com to: 
 
   * change or confirm your personal information
-  * have your information removed from our databases, or speak to someone about HTML.COM's information-handling practices
+  * have your information removed from our databases, or speak to someone about 's information-handling practices
 
 
