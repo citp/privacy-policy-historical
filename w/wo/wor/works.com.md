@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221212618id_/http%3A//www.works.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the works.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619111959id_/http%3A//www.works.com/policy.html) for the most accurate reproduction.*
 
 # Works
 
