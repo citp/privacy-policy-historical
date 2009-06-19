@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021652id_/http%3A//www.facultyfocus.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090517id_/http%3A//www.facultyfocus.com/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
