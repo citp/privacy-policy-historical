@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218060414id_/http%3A//babymed.com/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212348id_/http%3A//babymed.com/Home/Privacy.aspx) for the most accurate reproduction.*
 
 # BabyMed.com
 
@@ -51,7 +51,7 @@ BabyMed won't intentionally collect any personally identifiable information abou
 We won't sell or disclose your personally identifiable information to unrelated third parties without your consent. However, on particular pages where we ask for your personal information, we may explicitly tell you that the data we're collecting on that page might be shared with third parties, such as our sponsors or parties providing services to our users. In such cases, those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion or service, we'll tell you that your answers might be shared with that advertiser. In all of these cases, we'll collect personally identifiable information only if you voluntarily submit it to us or our sponsors. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser
 
   *  **Chat Rooms And Boards**  
-Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. Any posts or comments made on our boards become the property of BabyMed and BabyMed can use and publish any posts made on our boards. BabyMed can remove any posts it deems unacceptable at any time without having to notify you first. By using our Web site, you consent to our [Terms of Service](https://web.archive.org/web/20081218060414id_/http%3A//babymed.com/Home/TOS.aspx).
+Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. Any posts or comments made on our boards become the property of BabyMed and BabyMed can use and publish any posts made on our boards. BabyMed can remove any posts it deems unacceptable at any time without having to notify you first. By using our Web site, you consent to our [Terms of Service](https://web.archive.org/web/20090619212348id_/http%3A//babymed.com/Home/TOS.aspx).
 
   *  **Your Questions And Comments**  
 Feel free to contact us, with comments or questions. See About Us to find out more about our company and our policies.
