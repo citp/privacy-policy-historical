@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064453id_/http%3A//www.manx.net/default.asp%3Fid%3D10008) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205635id_/http%3A//www.manx.net/default.asp%3Fid%3D10008) for the most accurate reproduction.*
 
 # www.manx.net
 
@@ -27,7 +27,7 @@ At Manx Telecom we respect the privacy of personal e-mail accounts and we store 
 However, we will use email to send you messages about outstanding orders, faults and service issues.  We may also use email to keep you up to date with news about our current services, as well as anything you show an interest in, either online, or through other contact with Manx Telecom.  We see this as an integral part of signing up for Manxnet mail services.  
   
 ---  
-| [Privacy Policy Statement](https://web.archive.org/web/20081217064453id_/http%3A//www.manx.net/default.asp?id=10008) |  |   | 
+| [Privacy Policy Statement](https://web.archive.org/web/20090619205635id_/http%3A//www.manx.net/default.asp?id=10008) |  |   | 
 
 © 2007 Manx Telecom Limited. All rights reserved
 
