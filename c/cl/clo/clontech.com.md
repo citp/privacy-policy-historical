@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clontech.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203536id_/http%3A//www.clontech.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-[Home](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20081218112654id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
+[Home](https://web.archive.org/web/20090619203536id_/http%3A//www.clontech.com/default.asp) > [About](https://web.archive.org/web/20090619203536id_/http%3A//www.clontech.com/about/default.asp) > Website Privacy Policy 
 
 **Effective Date: This Privacy policy was last updated on August 21, 2007.**
 
@@ -67,7 +67,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-## 11\. Contacting Us 
+## 11\. EU Safe Harbor
+
+Clontech complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Clontech will respond to your request to delete or change your personal information within 30 days. See our contacting us section below for more information on this request. 
+
+## 12\. Contacting Us 
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [**privacy@clontech.com**](mailto:privacy@clontech.com?subject=Comment/Request%20regarding%20the%20Clontech%20Privacy%20Policy) , [**webmaster@clontech.com**](mailto:webmaster@clontech.com?subject=Comments/Request%20regarding%20the%20Clontech%20Privacy%20Policy) , or send your comments to :
 
