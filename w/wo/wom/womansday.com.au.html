@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the womansday.com.au privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216025022id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the womansday.com.au privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619204324id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ninemsn support</title>
@@ -7,8 +7,8 @@
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff" link="#000000" vlink="#000000" alink="#000000">
  
 <table cellspacing="0" cellpadding="0" width="779" border="0"><tbody><tr><td>
-<script language="javascript" src="/9msnshared/spac.js"></script>
-		<script language="JavaScript" type="text/javascript">var spac_has_sbk_header = true;</script>
+<script language="javascript" src="/share/js/spac_adx.js"></script>
+		<script language="JavaScript" type="text/javascript">		    var spac_has_sbk_header = true;</script>
 		<script language="javascript" src="/share/com/js/flashobject.js"></script>
 		<script type="text/javascript" src="/share/com/js/SEOTracking.js?v=2"></script>
 
@@ -19,39 +19,34 @@
 				<style type="text/css">#hd_1{width:779px}</style>
 
 		<script type="text/javascript">
-			// determine news feed URL
+		    // determine news feed URL
 		    var feed_domain = "http://content.ninemsn.com.au/";
-			var JS_HD_VER;
-			
-			var url = window.location.href;
+		    var JS_HD_VER;
+
+		    var url = window.location.href;
 		    var firsDotPos = feed_domain.indexOf(".");
-			var pre = feed_domain.substring(0, firsDotPos + 1);
-			var post = feed_domain.substring(firsDotPos, feed_domain.length);
-			
-			if(url.indexOf("devprev01.ninemsn") > -1 || url.indexOf("sgdev.ninemsn") > -1)
-			{
-			    feed_domain = pre + "devprev01" + post;
-			}
-			else if(url.indexOf("prev01.ninemsn") > -1 || url.indexOf("syd.ninemsn") > -1)
-			{
-			    feed_domain = pre + "prev01" + post;
-			}
-			
-			var qs;
-			if(url.indexOf("mode=preview")>-1&&url.indexOf("?")>-1)
-			{
-			    qs = "?" + url.split("?")[1];
-			}
-			else
-			{
-				qs = "?cache=" + parseInt((new Date()).getTime()/1000/60/60/24/365*52);
-			}
-			var newsFeed = feed_domain + "newsfeed.aspx" + qs;
-			var moreFeed = feed_domain + "morefeed.aspx" + qs;
-			if (location.protocol.indexOf('https') == -1)
-			{
-			    document.write('<scr'+'ipt type="text/javascript" src="'+newsFeed+'"></scr'+'ipt>');
-			}
+		    var pre = feed_domain.substring(0, firsDotPos + 1);
+		    var post = feed_domain.substring(firsDotPos, feed_domain.length);
+
+		    if (url.indexOf("devprev01.ninemsn") > -1 || url.indexOf("sgdev.ninemsn") > -1) {
+		        feed_domain = pre + "devprev01" + post;
+		    }
+		    else if (url.indexOf("prev01.ninemsn") > -1 || url.indexOf("syd.ninemsn") > -1) {
+		        feed_domain = pre + "prev01" + post;
+		    }
+
+		    var qs;
+		    if (url.indexOf("mode=preview") > -1 && url.indexOf("?") > -1) {
+		        qs = "?" + url.split("?")[1];
+		    }
+		    else {
+		        qs = "?cache=" + parseInt((new Date()).getTime() / 1000 / 60 / 60 / 24 / 365 * 52);
+		    }
+		    var newsFeed = feed_domain + "newsfeed.aspx" + qs;
+		    var moreFeed = feed_domain + "morefeed.aspx" + qs;
+		    if (location.protocol.indexOf('https') == -1) {
+		        document.write('<scr' + 'ipt type="text/javascript" src="' + newsFeed + '"></scr' + 'ipt>');
+		    }
 		</script>
 
 		
@@ -69,16 +64,18 @@
                     <li id="hd_li_8"><a href="http://travel.ninemsn.com.au/">Travel</a></li>
                     <li id="hd_li_14"><a id="hd_moreLink" href="http://ninemsn.com.au/oursites.aspx">More</a><span><img src="/share/img/hd2008/hd_more_arw.gif" alt="More"></span></li>
 		        </ul>
-		        <div id="hd_src_div">
-                    <form id="hd_src" name="hd_src" action="http://search.live.com/results.aspx">
-				        <input type="hidden" name="v" value="1">
-                        <input type="hidden" name="FORM" value="MSNMH1">
-                        <input type="hidden" name="MKT" value="en-au">
-                        <input type="hidden" name="RS" value="CHECKED">
-                        <input type="hidden" name="scope" value="msn">
-                        <input type="text" id="hd_ms_input" name="q" accesskey="s" maxlength="150" value="Search ninemsn"><input type="image" src="/share/img/hd2008/btn_search.jpg" value="Search" class="hd_ms_img">
-                    </form>
-                </div>
+
+	    <div id="hd_src_div">
+	        <form id="hd_src_form" name="hd_src_form" action="http://www.bing.com/search">
+                <input type="hidden" name="form" value="MSNN14">
+                <input type="hidden" name="mkt" value="en-au">                
+                <input type="text" id="hd_ms_input" name="q" accesskey="s" maxlength="150" title="Search for" onkeypress="if (reloadnmsnForm(event)==false){return false;}">
+                <input type="image" src="/share/img/brand/SearchIcon_22x22.png" value="Search" class="hd_ms_img_rebrand" title="Search" onclick="submit_nmsnsearch(this.form);return false;">
+                <input type="image" src="/share/img/hd2008/img_clear.gif" value="Search" class="hd_ms_img_kiev" title="bing.com" onclick="submit_nmsnsearch(this.form);return false;">
+            </form>
+        </div>
+		        
+
 		    </div>
 		    <div id="hd_more_sites" class="hd_more_hide"></div>
 		
@@ -118,222 +115,211 @@
 		</div>
 
 		<script type="text/javascript">
-			// setup commonly used elements
-            var urlShared = (window.location.href.indexOf('prev01.ninemsn') > -1 || window.location.href.indexOf('syd.ninemsn') > -1 || window.location.href.indexOf('sgdev.ninemsn') > -1) ? "" : "http://shared.9msn.com.au";
-            var hd_1 = document.getElementById("hd_1");
-            var hd_1_width = 0;
-            if (!hd_1.currentStyle)
-            {
-                if(window.getComputedStyle)
-                {
-                    hd_1_width = parseInt(document.defaultView.getComputedStyle(hd_1, null).getPropertyValue("width"));
-                }
-            }
-            else
-            {
-                hd_1_width = parseInt(hd_1.currentStyle.width);
-            }
+		    // setup commonly used elements
+		    var urlShared = (window.location.href.indexOf('prev01.ninemsn') > -1 || window.location.href.indexOf('syd.ninemsn') > -1 || window.location.href.indexOf('sgdev.ninemsn') > -1) ? "" : "http://shared.9msn.com.au";
+		    var hd_1 = document.getElementById("hd_1");
+		    var hd_1_width = 0;
+		    if (!hd_1.currentStyle) {
+		        if (window.getComputedStyle) {
+		            hd_1_width = parseInt(document.defaultView.getComputedStyle(hd_1, null).getPropertyValue("width"));
+		        }
+		    }
+		    else {
+		        hd_1_width = parseInt(hd_1.currentStyle.width);
+		    }
 
-            // replace promo link with breaking news
-            var breaking_news = false;
-            if (typeof newsObj != 'undefined')
-            {
-                var breaking_news = '<span class="breaking_news"><b>'+newsObj.Title+'</b><span class="hd_strip_arw"><img src="'+urlShared+'/share/img/hd2008/hd_strip_arw.gif" alt="" /></span><a href="'+newsObj.Links[0].Url+'">'+newsObj.Links[0].Title+'</a></span>';
-                var hd_strip_l = document.getElementById('hd_strip_l');
-                hd_strip_l.innerHTML = breaking_news;
-                breaking_news = true;
-            }
+		    // replace promo link with breaking news
+		    var breaking_news = false;
+		    if (typeof newsObj != 'undefined') {
+		        var breaking_news = '<span class="breaking_news"><b>' + newsObj.Title + '</b><span class="hd_strip_arw"><img src="' + urlShared + '/share/img/hd2008/hd_strip_arw.gif" alt="" /></span><a href="' + newsObj.Links[0].Url + '">' + newsObj.Links[0].Title + '</a></span>';
+		        var hd_strip_l = document.getElementById('hd_strip_l');
+		        hd_strip_l.innerHTML = breaking_news;
+		        breaking_news = true;
+		    }
 
-            // adjust search input width
-            var hd_links_ul = document.getElementById("hd_links").getElementsByTagName('ul')[0];
-            var hd_links_ul_width = 565;
-            var hd_links_hrz_pad = 20;
-            var hd_sch_width = 59;
-            var hd_sch_rht_mgn = 12;
-            var hd_delta = hd_links_ul_width + hd_links_hrz_pad + hd_sch_width + hd_sch_rht_mgn;
+		    // adjust search input width
+		    var hd_links_ul = document.getElementById("hd_links").getElementsByTagName('ul')[0];
+		    var hd_links_ul_width = 565;
+		    var hd_links_hrz_pad = 20;
+		    var hd_sch_width = 59;
+		    var hd_sch_rht_mgn = 12;
+		    var hd_delta = hd_links_ul_width + hd_links_hrz_pad + hd_sch_width + hd_sch_rht_mgn;
 
-            var isBackCompat = (document.compatMode && document.compatMode == "BackCompat");
-            if (typeof(isBackCompat) == "undefined") hd_delta += 2; // Safari fix - search box width
-            var isNarrowSize = (hd_1_width <= 790);
+		    var isBackCompat = (document.compatMode && document.compatMode == "BackCompat");
+		    if (typeof (isBackCompat) == "undefined") hd_delta += 2; // Safari fix - search box width
+		    var isNarrowSize = (hd_1_width <= 790);
 
-            var w = hd_1_width - hd_delta - (isBackCompat? 0 : 2);
-            var hd_1_input_css = "width:" + w + "px;" + (isBackCompat? "height:20px;" : "");
-            if (typeof(isBackCompat) == "undefined") hd_1_input_css += "padding:1px;height:18px;top:-8px} #hd_links ul{padding-top:2px;} body #nw_ft #ft_src_div #ft_ms_input{width:130px;"; // Safari fix - search boxes and div
+		    var w = hd_1_width - hd_delta - (isBackCompat ? 0 : 2);
+		    var hd_1_input_css = "width:" + (w - 20) + "px;" + (isBackCompat ? "height:23px;" : "");
+		    if (typeof (isBackCompat) == "undefined") hd_1_input_css += "padding:1px;height:18px;top:-8px} #hd_links ul{padding-top:2px;} body #nw_ft #ft_src_div #ft_ms_input{width:130px;"; // Safari fix - search boxes and div
 
-            document.write("<style type=\"text/css\">");
-            document.write("#hd_src_div #hd_ms_input{" + hd_1_input_css + "}");
-            document.write("</style>");
-            document.write("<!--[if IE]><style type=\"text/css\">#hd_links #hd_li_14.tabsel span{padding-top:10px}</style><![endif]-->"); // IE fix - more tab select
+		    document.write("<style type=\"text/css\">");
+		    document.write("#hd_src_div #hd_ms_input{" + hd_1_input_css + "}");
+		    if (isBackCompat) {
+		        document.write("#hd_src_div {_width:205px;}");
+		        document.write("#hd_src_div #hd_ms_input{_left:9px;}");
+		        document.write(".hd_ms_img_rebrand {_border:solid white 2px; _border-left:none; _left:6px;}");
+		    }
+		    document.write("</style>");
+		    document.write("<!--[if IE]><style type=\"text/css\">#hd_links #hd_li_14.tabsel span{padding-top:10px}</style><![endif]-->"); // IE fix - more tab select
 
-            // more dropdown - common
-            var navObj;
-            var morePos;
-            var more_populated = false;
 
-            function downloadMore()
-            {
-                var script = document.createElement('script');
-                script.src = moreFeed;
-                document.getElementsByTagName('head')[0].appendChild(script);
-            }
+		    function submit_nmsnsearch() {
+		        var strInput;
+		        strInput = document.getElementById("hd_ms_input").value;
 
-            function more_callback(obj)
-            {
-                if (!more_populated)
-                {
-                    navObj = obj;
-                    populateMore(hd_more_div, 'NHD');
-                    if (typeof ft_more_div != 'undefined')
-                    {
-                        populateMore(ft_more_div, 'NFT');
-                    }
-                    more_populated = true;
-                    (morePos == 'h') ? toggleHdrMore() : toggleFtrMore();
-                }
-            }
+		        if (strInput == null || strInput == '' || strInput == 'Search ninemsn') {
+		            strInput = "?";
+		        }
+		        else {
+		            strInput = "search?q=" + strInput + "&";
+		        }
 
-            function populateMore(more_div, OCLpre)
-            {
-                var more_list = navObj.Links;
-                var more_link_per_col = 5;
-                var more_cols = Math.floor(more_list.length/more_link_per_col)
-                if (more_list.length % more_link_per_col > 0) more_cols++;
+		        window.location.href = "http://www.bing.com/" + strInput + "form=MSNN14&mkt=en-au";
+		    }
 
-                for(var i=1; i <= more_cols; i++)
-                {
-                    var more_ul = document.createElement("ul");
-                    more_div.appendChild(more_ul);
+		    // more dropdown - common
+		    var navObj;
+		    var morePos;
+		    var more_populated = false;
 
-                    var ul_class = "more_col" + i;
-                    more_ul.className = ul_class;
+		    function downloadMore() {
+		        var script = document.createElement('script');
+		        script.src = moreFeed;
+		        document.getElementsByTagName('head')[0].appendChild(script);
+		    }
 
-                    for(var l=0; l < more_link_per_col; l++)
-                    {
-                        var more_li = document.createElement("li");
-                        more_ul.appendChild(more_li);
-                        var link_seq = (i-1) * more_link_per_col + l
+		    function more_callback(obj) {
+		        if (!more_populated) {
+		            navObj = obj;
+		            populateMore(hd_more_div, 'NHD');
+		            if (typeof ft_more_div != 'undefined') {
+		                populateMore(ft_more_div, 'NFT');
+		            }
+		            more_populated = true;
+		            (morePos == 'h') ? toggleHdrMore() : toggleFtrMore();
+		        }
+		    }
 
-                        if(more_list[link_seq].Url)
-                        {
-                            var more_li_a = document.createElement("a");
-                            more_li_a.href = more_list[link_seq].Url;
-                            more_li_a.innerHTML = more_list[link_seq].Title;
+		    function populateMore(more_div, OCLpre) {
+		        var more_list = navObj.Links;
+		        var more_link_per_col = 5;
+		        var more_cols = Math.floor(more_list.length / more_link_per_col)
+		        if (more_list.length % more_link_per_col > 0) more_cols++;
 
-                            more_li.appendChild(more_li_a);
-                        }
-                        else
-                        {
-                            var more_li_span = document.createElement("span");
-                            more_li_span.innerHTML = more_list[link_seq].Title;
+		        for (var i = 1; i <= more_cols; i++) {
+		            var more_ul = document.createElement("ul");
+		            more_div.appendChild(more_ul);
 
-                            more_li.appendChild(more_li_span);
-                        }
-                    }
-                }
-                
-                var clear_div = document.createElement("div");
-                more_div.appendChild(clear_div);
-                clear_div.style.clear = "both";
-            }
+		            var ul_class = "more_col" + i;
+		            more_ul.className = ul_class;
 
-            // more dropdown - header
-            function toggleHdrMore()
-            {
-                if (hd_more_div.className == "hd_more_hide")
-                {
-                    hd_more_div.className = "hd_more_show";
-                }
-                else
-                {
-                    hd_more_div.className = "hd_more_hide";
-                }
-                if(hd_more_link.parentNode)
-                {
-                    hd_more_link.parentNode.className = (hd_more_link.parentNode.className == "tabsel"? "" : "tabsel");
-                }
-                else
-                {
-                    hd_more_link.parentElement.className = (hd_more_link.parentElement.className == "tabsel"? "" : "tabsel");
-                }
-                if (hd_li_tabsel) hd_li_tabsel.className = (hd_li_tabsel.className == "tabsel"? "" : "tabsel");
-            }
+		            for (var l = 0; l < more_link_per_col; l++) {
+		                var more_li = document.createElement("li");
+		                more_ul.appendChild(more_li);
+		                var link_seq = (i - 1) * more_link_per_col + l
 
-            var hd_more_div = document.getElementById("hd_more_sites");
-            var hd_more_link = document.getElementById("hd_moreLink");
-            var hd_li_sel;
-            if (hd_li_sel) var hd_li_tabsel = document.getElementById(hd_li_sel);
-            if(hd_more_link)
-            {
-                hd_more_link.onclick = function(e)
-                {
-                    if (!more_populated)
-                    {
-                        morePos = 'h';
-                        downloadMore();
-                    }
-                    else
-                    {
-                        toggleHdrMore();
-                    }
-                
-                    if (!e) var e = window.event;
-                    e.cancelBubble = true;
-                    if (e.stopPropagation) e.stopPropagation();
-                    return false;
-                }
-            }
+		                if (more_list[link_seq].Url) {
+		                    var more_li_a = document.createElement("a");
+		                    more_li_a.href = more_list[link_seq].Url;
+		                    more_li_a.innerHTML = more_list[link_seq].Title;
 
-            // sign-in/out script
-            var JS_TRACK_SWITCH_LOCAL; var JS_TRACK_SWITCH; var JS_SITEID; var JS_SECTIONID; var JS_SUB_SECTIONID;
-            JS_TRACK_SWITCH_LOCAL = JS_TRACK_SWITCH;
-            if (JS_TRACK_SWITCH_LOCAL == undefined || JS_TRACK_SWITCH_LOCAL == '' || JS_TRACK_SWITCH_LOCAL.toLowerCase() == 'off')
-            {
-                JS_TRACK_SWITCH_LOCAL = 'False';
-            }
-            else if (JS_TRACK_SWITCH_LOCAL.toLowerCase() == 'on')
-            {
-                JS_TRACK_SWITCH_LOCAL = 'True';
-            }
-            document.write("<scr"+"ipt type=\"text/javascript\" src=\"http://ninemsn.com.au/share/com/header_v10/renderPersonalisation.aspx?hd_signinLink=MEMBERSHIPSIGNINLINK&mr="+encodeURIComponent(window.location.href)+"&_p="+JS_SITEID+"_"+JS_SECTIONID+"_"+JS_SUB_SECTIONID+"&_m=SIGNIN&_x=1&_l=0&ts="+JS_TRACK_SWITCH_LOCAL+"&"+(new Date()).getTime()+"\"></scr"+"ipt>");
+		                    more_li.appendChild(more_li_a);
+		                }
+		                else {
+		                    var more_li_span = document.createElement("span");
+		                    more_li_span.innerHTML = more_list[link_seq].Title;
 
-            // search box script
-            var hd_input = document.getElementById("hd_ms_input");
-            var hd_search_hint = "Search ninemsn";
-            if(hd_input)
-            {
-                hd_input.onkeydown = function(e)
-                {
-                    if(hd_input.value == hd_search_hint) hd_input.value = "";
-                    keyNum = (window.event) ? event.keyCode : e.which;
-                    if (keyNum == 40 || keyNum == 38 || keyNum == 33 || keyNum == 34)
-                    {
-                        document.getElementById('hd_ms_input').blur();
-                        window.focus();
-                    }
-                }
+		                    more_li.appendChild(more_li_span);
+		                }
+		            }
+		        }
 
-                hd_input.onblur = function()
-                {
-                    if(hd_input.value == '') hd_input.value = hd_search_hint;
-                }
-                
-                hd_input.onclick = function()
-                {
-                    if(hd_input.value == hd_search_hint)
-                    {
-                        hd_input.value = '';
-                    }
-                }
-            }
+		        var clear_div = document.createElement("div");
+		        more_div.appendChild(clear_div);
+		        clear_div.style.clear = "both";
+		    }
 
-            function hd_input_focus()
-            {
-                if (navigator.appName == "Microsoft Internet Explorer") hd_input.setActive();
-                else hd_input.focus();
-            }
-            hd_input_focus();
-            if (!window.onload) window.onload = hd_input_focus;
-		</script><style type="text/css">#hd_src_div #hd_ms_input{width:123px;height:20px;}</style><!--[if IE]><style type="text/css">#hd_links #hd_li_14.tabsel span{padding-top:10px}</style><![endif]--><script type="text/javascript" src="http://ninemsn.com.au/share/com/header_v10/renderPersonalisation.aspx?hd_signinLink=MEMBERSHIPSIGNINLINK&amp;mr=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081216025022id_%2Fhttp%253A%2F%2Fhelp.ninemsn.com.au%2Fsupport%2Fprivacy.asp&amp;_p=undefined_undefined_undefined&amp;_m=SIGNIN&amp;_x=1&amp;_l=0&amp;ts=False&amp;1580440004849"></script>
+		    // more dropdown - header
+		    function toggleHdrMore() {
+		        if (hd_more_div.className == "hd_more_hide") {
+		            hd_more_div.className = "hd_more_show";
+		        }
+		        else {
+		            hd_more_div.className = "hd_more_hide";
+		        }
+		        if (hd_more_link.parentNode) {
+		            hd_more_link.parentNode.className = (hd_more_link.parentNode.className == "tabsel" ? "" : "tabsel");
+		        }
+		        else {
+		            hd_more_link.parentElement.className = (hd_more_link.parentElement.className == "tabsel" ? "" : "tabsel");
+		        }
+		        if (hd_li_tabsel) hd_li_tabsel.className = (hd_li_tabsel.className == "tabsel" ? "" : "tabsel");
+		    }
+
+		    var hd_more_div = document.getElementById("hd_more_sites");
+		    var hd_more_link = document.getElementById("hd_moreLink");
+		    var hd_li_sel;
+		    if (hd_li_sel) var hd_li_tabsel = document.getElementById(hd_li_sel);
+		    if (hd_more_link) {
+		        hd_more_link.onclick = function(e) {
+		            if (!more_populated) {
+		                morePos = 'h';
+		                downloadMore();
+		            }
+		            else {
+		                toggleHdrMore();
+		            }
+
+		            if (!e) var e = window.event;
+		            e.cancelBubble = true;
+		            if (e.stopPropagation) e.stopPropagation();
+		            return false;
+		        }
+		    }
+
+		    // sign-in/out script
+		    var JS_TRACK_SWITCH_LOCAL; var JS_TRACK_SWITCH; var JS_SITEID; var JS_SECTIONID; var JS_SUB_SECTIONID;
+		    JS_TRACK_SWITCH_LOCAL = JS_TRACK_SWITCH;
+		    if (JS_TRACK_SWITCH_LOCAL == undefined || JS_TRACK_SWITCH_LOCAL == '' || JS_TRACK_SWITCH_LOCAL.toLowerCase() == 'off') {
+		        JS_TRACK_SWITCH_LOCAL = 'False';
+		    }
+		    else if (JS_TRACK_SWITCH_LOCAL.toLowerCase() == 'on') {
+		        JS_TRACK_SWITCH_LOCAL = 'True';
+		    }
+		    document.write("<scr" + "ipt type=\"text/javascript\" src=\"http://ninemsn.com.au/share/com/header_v10/renderPersonalisation.aspx?hd_signinLink=MEMBERSHIPSIGNINLINK&mr=" + encodeURIComponent(window.location.href) + "&_p=" + JS_SITEID + "_" + JS_SECTIONID + "_" + JS_SUB_SECTIONID + "&_m=SIGNIN&_x=1&_l=0&ts=" + JS_TRACK_SWITCH_LOCAL + "&" + (new Date()).getTime() + "\"></scr" + "ipt>");
+
+		    // search box script
+		    var hd_input = document.getElementById("hd_ms_input");
+		    var hd_search_hint = "Search ninemsn";
+		    if (hd_input) {
+		        hd_input.onkeydown = function(e) {
+		            if (hd_input.value == hd_search_hint) hd_input.value = "";
+		            keyNum = (window.event) ? event.keyCode : e.which;
+		            if (keyNum == 40 || keyNum == 38 || keyNum == 33 || keyNum == 34) {
+		                document.getElementById('hd_ms_input').blur();
+		                window.focus();
+		            }
+		        }
+
+		        hd_input.onblur = function() {
+		            if (hd_input.value == '') hd_input.value = hd_search_hint;
+		        }
+
+		        hd_input.onclick = function() {
+		            if (hd_input.value == hd_search_hint) {
+		                hd_input.value = '';
+		            }
+		        }
+		    }
+
+		    function hd_input_focus() {
+		        if (navigator.appName == "Microsoft Internet Explorer") hd_input.setActive();
+		        else hd_input.focus();
+		    }
+		    hd_input_focus();
+		    if (!window.onload) window.onload = hd_input_focus;
+		</script><style type="text/css">#hd_src_div #hd_ms_input{width:103px;height:23px;}#hd_src_div {_width:205px;}#hd_src_div #hd_ms_input{_left:9px;}.hd_ms_img_rebrand {_border:solid white 2px; _border-left:none; _left:6px;}</style><!--[if IE]><style type="text/css">#hd_links #hd_li_14.tabsel span{padding-top:10px}</style><![endif]--><script type="text/javascript" src="http://ninemsn.com.au/share/com/header_v10/renderPersonalisation.aspx?hd_signinLink=MEMBERSHIPSIGNINLINK&amp;mr=https%3A%2F%2Fweb.archive.org%2Fweb%2F20090619204324id_%2Fhttp%253A%2F%2Fhelp.ninemsn.com.au%2Fsupport%2Fprivacy.asp&amp;_p=undefined_undefined_undefined&amp;_m=SIGNIN&amp;_x=1&amp;_l=0&amp;ts=False&amp;1580500814732"></script>
 
 </td></tr></tbody></table>
 <style><!-- 
@@ -763,18 +749,22 @@ JS_SUB_SECTION = "";
 var JS_OMNTR_SUITEID;
 if(JS_OMNTR_SUITEID!=null&&JS_OMNTR_SUITEID!='')
 {
-	document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://shared.9msn.com.au/share/Omniture/omntr_s_code.js?v=38"><\/scr'+'ipt>');
+	document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://shared.9msn.com.au/share/Omniture/omntr_s_code.js?v=44"><\/scr'+'ipt>');
 }
 </script>
 
 	<script language="javascript" src="http://shared.9msn.com.au/share/omniture/omniture_scode.js?v=21"></script>
 	<noscript><img src="http://msnportalaumisc.112.2O7.net/b/ss/msnportalaumisc/1/H.1--NS/0?c2=en-au&c4=msnportalaumisc&c6=ninemsn&ch=support&c1=support-default&c5=ninemsn&h1=support%7Cdefault%7Csupport-default-/support/privacy.asp&pageName=support-default-/support/privacy.asp" height="1" width="1" border="0" alt="" /></noscript>
-	<script type="text/javascript" language="JavaScript">var Speed_Start_Time=new Date();Speed_Start_Time=Speed_Start_Time.getTime();</script>
+	<script type="text/javascript" language="JavaScript">	    var Speed_Start_Time = new Date(); Speed_Start_Time = Speed_Start_Time.getTime();</script>
 	
 	
         <style type="text/css">
             #nw_ft, #nw_ft_sub{width:779px;margin-left:0px;margin-right:0px}
             #nw_ft #ft_prd_lks{border-top-width:0px}
+            #ft_src_div_wrap_left {width:225px; left:540px;}
+            .ft_ms_img_rebrand {left:-3px;}
+            #ft_ms_input {width:140px}
+            .ft_ms_img_kiev {margin-left:0px;}
         </style>
 
        <div id="nw_ft">
@@ -789,8 +779,14 @@ if(JS_OMNTR_SUITEID!=null&&JS_OMNTR_SUITEID!='')
                 <li id="ft_li_8"><a href="http://travel.ninemsn.com.au/">Travel</a></li>
                 <li id="ft_more_li"><a id="ft_moreLink" href="http://ninemsn.com.au/oursites.aspx">More</a><span><img src="/share/img/hd2008/hd_more_arw.gif" alt="More"></span></li>
                 <li id="ft_srch_li">
-                    <div id="ft_src_div">
-                        <input type="text" id="ft_ms_input" name="ft_q" accesskey="s" maxlength="150" value=" Search ninemsn" onkeypress="return enter_ft_src(event);"><input type="image" src="/share/img/hd2008/btn_search.jpg" value="Search" class="ft_ms_img" onclick="return submit_ft_src()">
+                    <div id="ft_src_div_wrap_left">
+                        <div id="ft_src_div_wrap_right">
+                            <div id="ft_src_div_wrap_mid">
+                                <input type="text" id="ft_ms_input" name="ft_q" accesskey="s" maxlength="190" onkeypress="return enter_ft_src(event);" title="Search for">
+                                <input type="image" src="/share/img/brand/SearchIcon_22x22.png" value="Search" class="ft_ms_img_rebrand" onclick="ft_submit_nmsnsearch(this.form);return false;" title="Search">
+                                <input type="image" src="/share/img/hd2008/nw_footer_logo.gif" value="Search" class="ft_ms_img_kiev" onclick="ft_submit_nmsnsearch(this.form);return false;" title="bing.com">
+                            </div>
+                        </div>
                     </div>
                 </li>
             </ul>
@@ -829,105 +825,104 @@ if(JS_OMNTR_SUITEID!=null&&JS_OMNTR_SUITEID!='')
         <table id="FT_Ad" class="FT_Ad" border="0" cellspacing="0" cellpadding="15" width="779px" style="display: none;"><tbody><tr><td id="footer_AdArea" align="center">
         <!-- getAd start -->
         <script type="text/javascript" language="javascript">var JS_SITE;var JS_SECTION;var JS_SUB_SECTION;var JS_AD_MEM_TAG;var JS_MEMBERSHIP_IS_AUTHENTICATED;var JS_PAGE_COBRAND; var JS_BOTTOM_LEADERBOARD_ENABLED;
-        function GetCobrandAdStr_HEADER_89840115(){if(JS_PAGE_COBRAND != undefined && JS_PAGE_COBRAND != ''){return '/COBRAND='+JS_PAGE_COBRAND;}else{return '';}}
-        function RenderHeaderAd(adsize){var memTag;if(JS_AD_MEM_TAG==undefined){memTag="";}else if(JS_MEMBERSHIP_IS_AUTHENTICATED==undefined){memTag="";}else if(JS_MEMBERSHIP_IS_AUTHENTICATED.toLowerCase()=="true"){memTag=JS_AD_MEM_TAG;}else{memTag="";}spac_writeAd("/SITE=" + JS_SITE + "/AREA=" + JS_SECTION + "/SUBSECTION=" + JS_SUB_SECTION + "/LOC=TOP/AAMSZ="+adsize+memTag+GetCobrandAdStr_HEADER_89840115());} </script>
-        <script type="text/javascript" language="javascript">function trim(stringToTrim) { return stringToTrim.replace(/^\s+|\s+$/g,"");} if(JS_BOTTOM_LEADERBOARD_ENABLED != undefined && JS_BOTTOM_LEADERBOARD_ENABLED != ''){ var JS_BOTTOM_LEADERBOARD=JS_BOTTOM_LEADERBOARD_ENABLED.toLowerCase(); JS_BOTTOM_LEADERBOARD=trim(JS_BOTTOM_LEADERBOARD); if(JS_BOTTOM_LEADERBOARD=='on'){ RenderHeaderAd('BANNER2');}}</script>
+        function GetCobrandAdStr_HEADER_620998561(){if(JS_PAGE_COBRAND != undefined && JS_PAGE_COBRAND != ''){return '/COBRAND='+JS_PAGE_COBRAND;}else{return '';}}
+        function RenderHeaderAd(adsize){var memTag;if(JS_AD_MEM_TAG==undefined){memTag="";}else if(JS_MEMBERSHIP_IS_AUTHENTICATED==undefined){memTag="";}else if(JS_MEMBERSHIP_IS_AUTHENTICATED.toLowerCase()=="true"){memTag=JS_AD_MEM_TAG;}else{memTag="";}spac_writeAd("/SITE=" + JS_SITE + "/AREA=" + JS_SECTION + "/SUBSECTION=" + JS_SUB_SECTION + "/LOC=TOP/AAMSZ="+adsize+memTag+GetCobrandAdStr_HEADER_620998561());} </script>
+        <script type="text/javascript" language="javascript">            function trim(stringToTrim) { return stringToTrim.replace(/^\s+|\s+$/g, ""); } if (JS_BOTTOM_LEADERBOARD_ENABLED != undefined && JS_BOTTOM_LEADERBOARD_ENABLED != '') { var JS_BOTTOM_LEADERBOARD = JS_BOTTOM_LEADERBOARD_ENABLED.toLowerCase(); JS_BOTTOM_LEADERBOARD = trim(JS_BOTTOM_LEADERBOARD); if (JS_BOTTOM_LEADERBOARD == 'on') { RenderHeaderAd('BANNER2'); } }</script>
         <!-- getAd end -->
         </td></tr></tbody></table>
         </div>
-        <script type="text/javascript" language="javascript"> if (JS_BOTTOM_LEADERBOARD_ENABLED != 'on'){document.getElementById("FT_Ad").style.display="none";}</script>
+        <script type="text/javascript" language="javascript">            if (JS_BOTTOM_LEADERBOARD_ENABLED != 'on') { document.getElementById("FT_Ad").style.display = "none"; }</script>
         <script type="text/JavaScript" src="http://shared.9msn.com.au/share/com/js/survey.js"></script>
         <!-- bottom leaderboard ends here -->
         
         <script type="text/javascript">
             // search input styling
             var isBackCompat = (document.compatMode && document.compatMode == "BackCompat");
-            if (isBackCompat)
-            {
-                document.write('<style type="text/css">#nw_ft #ft_src_div #ft_ms_input{height:20px;width:152px}</style>');
+            if (isBackCompat) {
+
+                document.write('<style type="text/css">');
+                document.write('#nw_ft #ft_src_div #ft_ms_input{height:20px;width:152px}');
+                document.write('#ft_src_div_wrap_left {_left:525px;}');
+                document.write('#ft_ms_input {_height:22px;}');
+                document.write('.ft_ms_img_rebrand {_height:20px;}');
+                document.write('</style>');
             }
 
             // more dropdown - footer
-            function toggleFtrMore()
-            {
-                if (ft_more_div.className == "ft_more_hide")
-                {
+            function toggleFtrMore() {
+                if (ft_more_div.className == "ft_more_hide") {
                     ft_more_div.className = "ft_more_show";
                 }
-                else
-                {
+                else {
                     ft_more_div.className = "ft_more_hide";
                 }
-                ft_more_link.className = (ft_more_link.className == "sel_prdgrp"? "" : "sel_prdgrp");
-                window.scrollBy(0,150);
+                ft_more_link.className = (ft_more_link.className == "sel_prdgrp" ? "" : "sel_prdgrp");
+                window.scrollBy(0, 150);
             }
 
             var ft_more_div = document.getElementById("ft_more_sites");
             var ft_more_link = document.getElementById("ft_moreLink");
-            if(ft_more_link)
-            {
-                ft_more_link.onclick = function(e)
-                {
-                    if (!more_populated)
-	                {
-	                    morePos = 'f';
-	                    downloadMore();
-	                }
-	                else
-	                {
+            if (ft_more_link) {
+                ft_more_link.onclick = function(e) {
+                    if (!more_populated) {
+                        morePos = 'f';
+                        downloadMore();
+                    }
+                    else {
                         toggleFtrMore();
                     }
-                    
+
                     if (!e) var e = window.event;
-	                e.cancelBubble = true;
-	                if (e.stopPropagation) e.stopPropagation();
+                    e.cancelBubble = true;
+                    if (e.stopPropagation) e.stopPropagation();
                     return false;
                 }
             }
 
             // footer search box script
             var ft_input = document.getElementById("ft_ms_input");
-            var ft_search_hint = " Search ninemsn";
-            if(ft_input)
-            {
-	            ft_input.onfocus = function()
-	            {
-		            if(ft_input.value == ft_search_hint)
-		            {
-			            ft_input.value = "";
-		            }
-	            }
-            	
-	            ft_input.onblur = function()
-	            {
-		            if(ft_input.value == "")
-		            {
-			            ft_input.value = ft_search_hint;
-		            }
-	            }
+            var ft_search_hint = "Search ninemsn";
+            if (ft_input) {
+                ft_input.onfocus = function() {
+                    if (ft_input.value == ft_search_hint) {
+                        ft_input.value = "";
+                    }
+                }
+
+                ft_input.onblur = function() {
+                    if (ft_input.value == "") {
+                        ft_input.value = ft_search_hint;
+                    }
+                }
+            }
+
+            function ft_submit_nmsnsearch() {
+                var strInput;
+                strInput = document.getElementById("ft_ms_input").value;
+
+                if (strInput == null || strInput == '' || strInput == 'Search ninemsn') {
+                    strInput = "?";
+                }
+                else {
+                    strInput = "search?q=" + strInput + "&";
+                }
+
+                window.location.href = "http://www.bing.com/" + strInput + "form=MSNN07&mkt=en-au";
             }
 
             // footer search functions
-            function enter_ft_src(e)
-            {
+            function enter_ft_src(e) {
                 var keycode;
                 if (window.event) keycode = window.event.keyCode;
                 else if (e) keycode = e.which;
                 else return true;
                 if (keycode == 13) {
-                    submit_ft_src();
+                    ft_submit_nmsnsearch();
                     return false;
                 }
                 else return true;
             }            
-
-            function submit_ft_src()
-            {
-		        var strInput = document.getElementById('ft_ms_input').value;
-                window.location.href = "http://search.live.com/results.aspx?v=1&FORM=CF&MKT=en-au&RS=CHECKED&scope=msn&q="+strInput;
-                return false;
-            }
-        </script><style type="text/css">#nw_ft #ft_src_div #ft_ms_input{height:20px;width:152px}</style>
+        </script><style type="text/css">#nw_ft #ft_src_div #ft_ms_input{height:20px;width:152px}#ft_src_div_wrap_left {_left:525px;}#ft_ms_input {_height:22px;}.ft_ms_img_rebrand {_height:20px;}</style>
 
 	<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
 <!-- COPYRIGHT 2006 Nielsen//NetRatings -->
@@ -957,33 +952,30 @@ if(JS_OMNTR_SUITEID!=null&&JS_OMNTR_SUITEID!='')
 </script>
 
 <script type="text/javascript" language="javascript">
-	var _m1SecID;
-	var _m1IsActive;
-	var _m1PosV;
-	var _m1PosH;
-	var _m1PosX;
-	var _m1PosY;
-	if (_m1SecID != undefined && _m1IsActive != undefined && _m1PosV != undefined && _m1PosH != undefined && _m1PosX != undefined && _m1PosY != undefined)
-	{
-		document.write("<!-- BEGIN: M1ACV Release 2.1.1 -->");
-		document.write("<!-- (c)2002-2004, MediaOne Network Inc. All Rights Reserved. -->");
-		document.write("<div id=\"M1DIV\" name=\"M1DIV\"></div>");
-		document.write("<img id=\"M1IMG\" name=\"M1IMG\" width=\"0\" height=\"0\" border=\"0\" src=\"http://acvs.mediaonenetwork.net/client/pixel.gif\">");
-		document.write("<scr"+"ipt language=\"javascript\" type=\"text/javascript\" src=\"http://acvs.mediaonenetwork.net/client/acv211.js\">");
-		document.write("</scr"+"ipt>");
-		document.write("<noscr"+"ipt>");
-		document.write("<img border=\"0\" src=\"http://acvs.mediaonenetwork.net/client/njs.aspx\" width=\"0\" height=\"0\" alt=\"\">");
-		document.write("</noscr"+"ipt>");
-		document.write("<!-- END: M1ACV -->");
-	}
+    var _m1SecID;
+    var _m1IsActive;
+    var _m1PosV;
+    var _m1PosH;
+    var _m1PosX;
+    var _m1PosY;
+    if (_m1SecID != undefined && _m1IsActive != undefined && _m1PosV != undefined && _m1PosH != undefined && _m1PosX != undefined && _m1PosY != undefined) {
+        document.write("<!-- BEGIN: M1ACV Release 2.1.1 -->");
+        document.write("<!-- (c)2002-2004, MediaOne Network Inc. All Rights Reserved. -->");
+        document.write("<div id=\"M1DIV\" name=\"M1DIV\"></div>");
+        document.write("<img id=\"M1IMG\" name=\"M1IMG\" width=\"0\" height=\"0\" border=\"0\" src=\"http://acvs.mediaonenetwork.net/client/pixel.gif\">");
+        document.write("<scr" + "ipt language=\"javascript\" type=\"text/javascript\" src=\"http://acvs.mediaonenetwork.net/client/acv211.js\">");
+        document.write("</scr" + "ipt>");
+        document.write("<noscr" + "ipt>");
+        document.write("<img border=\"0\" src=\"http://acvs.mediaonenetwork.net/client/njs.aspx\" width=\"0\" height=\"0\" alt=\"\">");
+        document.write("</noscr" + "ipt>");
+        document.write("<!-- END: M1ACV -->");
+    }
 
-	if (JS_SITE!=undefined)
-	{
-	    if (JS_SITE=='cleo')
-	    {
-		    document.write("<img height=\"1\" width=\"1\" src=\"http://switch.atdmt.com/action/Cleo_23Nov07\">");
-		}
-	}
+    if (JS_SITE != undefined) {
+        if (JS_SITE == 'cleo') {
+            document.write("<img height=\"1\" width=\"1\" src=\"http://switch.atdmt.com/action/Cleo_23Nov07\">");
+        }
+    }
 </script>
 	<script language="JavaScript">
 var SpeedCookieExpiryTime=480;
