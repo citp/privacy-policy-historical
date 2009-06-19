@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadertelegram.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217203147id_/http%3A//www.leadertelegram.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadertelegram.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619225416id_/http%3A//www.leadertelegram.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Leader-Telegram Online
 
@@ -18,4 +18,4 @@ Leader-Telegram uses the information to complete transactions. For instance, if 
 
 **Does Leader-Telegram share information with companies or other organizations that are not part of the Leader-Telegram family of sites?**  
 We do not sell other businesses information about you. On occasion we offer promotions -- like contests or free subscriptions -- in conjunction with a sponsor. When you sign up for the promotion we may share your information with those sponsors so that they can send you other special promotions they offer; however, we will share it only with that specific sponsor. Leader-Telegram only accepts advertising on our sites from companies that have their own privacy policy. Once you've clicked on an advertisement and have left Leader-Telegram sites, you must read the advertiser's privacy policy to see how your personal information will be handled on their site. In addition, we will give out personal information as required by law, for example, to comply with a court order or subpoena; or site or game rules; or to protect the safety and security of visitors and our sites.  
-If you have questions or concerns about this policy, [contact us here](mailto:online.editor@leadertelegram.com). 
+If you have questions or concerns about this policy, [contact us here](mailto:online.editor@ecpc.com). 
