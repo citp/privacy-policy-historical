@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021610id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045008id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.*
 
-# RacingOne - Nascar Racing: Auto Racing, Nascar News, Racing News, Nascar Online, Nascar 2008, Nascar Drivers, Nascar, Racing, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, Ryan Newman, Matt Kenseth, Jimmie Johnson
+# RacingOne.com - Privacy Policy
 
 **Information Collection and Use**  
 RacingOne.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement, except that we may sell or otherwise transfer this information in the event of a merger, acquisition or sale of all or substantially all of our assets. RacingOne.com collects information from our users at several different points on our website.
