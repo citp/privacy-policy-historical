@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055514id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154454id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
 
-# Privacy Notice - NEC, Microsoft, Acer, Dopod/O2, Sony, BlackBerry, Motorola, Nokia, Panasonic, Mo
+# Privacy Notice - BlackBerry, BenQ-Siemens, Acer, Nokia, Panasonic, HTC, Microsoft, NEC, Dopod/O2,
 
 Cellular Nationwide Network knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Cellular Nationwide Network, you are accepting the practices described in this Privacy Notice. 
 
