@@ -1,0 +1,59 @@
+> *The following text is extracted and transformed from the flvdirect.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620014336id_/http%3A//www.flvdirect.com/privacy.html) for the most accurate reproduction.*
+
+# :: FLV DIRECT ::
+
+**Version 1.0 (February 2, 2009)**
+
+## Website Privacy Policy
+
+This Website Privacy Policy (this "Policy") applies with respect to the information that FLV Direct, a Design and Marketing SA corporation ("Design and Marketing SA", "we" or "us"), collects from the www.fvldirect.com web site (the "Site"), and explains how we collect, use and disclose your personal information. Amendments to this Policy will be posted at this URL. Your continued use of this Site following the posting of any amendment, modification or change shall constitute your acceptance thereof. While we may update you of any changes to this Policy, it is your obligation to review the terms of this Policy and stay current therewith. When we make modifications to the Policy, we will update the Version number and date at the top of this Policy for your easy reference.
+
+**INFORMATION COLLECTED**
+
+Out Site collects two types of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit the Site or that you may otherwise provide to us.
+
+Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, email address or phone number. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Site. For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Site or using any of our partners' sites; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club, user group or other promotional event; or (c) post a product rating and recommendation on our Site or sites of our partners or affiliates. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Site.
+
+Our definition of non-personal information is any information that does not personally identify you. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Site. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the type hardware (processor, etc.) used on your computer, the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit and/or exit to, and the duration of your visits, among other information.
+
+**HOW WE USE, DISCLOSE AND SHARE YOUR INFORMATION**
+
+We use non-personal information in a variety of ways, including helping to analyze Site traffic, understand customer needs and trends, carry out targeted promotional activities, and to otherwise improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties with whom we have business agreements to achieve these objectives, at our sole discretion. 
+
+The personally identifiable information you provide to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways related to the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our affiliated companies, or to communicate with you about content or other information you have posted or shared with us via our Site. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. 
+
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies). Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Site, and with third parties who assist us in using the content or other information you have posted or shared with us via our Site. Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.
+
+Notwithstanding anything contained in this Policy to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our Digital Millennium Copyright Act notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Site, or other users; or (d) in an emergency to protect the health and safety of our Site's users or the general public.
+
+**COOKIES AND IP ADDRESSES**
+
+Cookies are small pieces of information stored on your hard drive, not on our Site. We use cookies for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor our Site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our Site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our Site may not work properly if you do.
+
+An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Site, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Site. IP addresses are considered non-personal information and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Site rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Site, or other users; or (d) in an emergency to protect the health and safety of our Site users or the general public. 
+
+**OTHER SITES**
+
+Our Site contains links to other Websites. Because this Policy only applies to the Site itself and not linked Websites, you should examine the privacy policy of any other Websites that you access from the Site. We are not responsible for the privacy practices or the content of such other Websites.
+
+**PUBLIC FORUMS**
+
+We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to this Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Site.
+
+**CHILDREN**
+
+We do not knowingly collect or use any personal information from children under the age of 13 without obtaining verifiable parental consent. 
+
+**OPT OUT**
+
+You may contact us as at removal{dummy text}@{dummy text}flvdirect.com if: (a) you have questions or comments about this Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Site.
+
+**SECURITY**
+
+Our Site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "absolute security" on the Internet, we make commercially reasonable efforts to ensure the safety of your personal information, whenever reasonably possible.
+
+**SALE OF BUSINESS**
+
+We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of the Company provided that the third party agrees to adhere to the terms of this Policy. 
