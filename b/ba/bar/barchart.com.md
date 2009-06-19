@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barchart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216232710id_/http%3A//www2.barchart.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barchart.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204153id_/http%3A//www2.barchart.com/privacy.asp) for the most accurate reproduction.*
 
 # Barchart.com - Privacy Policy
 
