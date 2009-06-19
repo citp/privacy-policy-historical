@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161451id_/http%3A//www.teamtalk.com/football/information/privacy/0%2C16405%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204704id_/http%3A//www.teamtalk.com/football/information/privacy/0%2C16405%2C%2C00.html) for the most accurate reproduction.*
 
 # Privacy Agreement | Latest News | Football News from TEAMtalk
 
