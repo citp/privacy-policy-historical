@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakedporn.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218090423id_/http%3A//www.leakedporn.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakedporn.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044507id_/http%3A//www.leakedporn.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # Leaked Amateur Porn movies and videos, homemade porn by real people. - Information
 
