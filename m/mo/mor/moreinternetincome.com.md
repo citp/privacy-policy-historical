@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moreinternetincome.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062239id_/http%3A//www.moreinternetincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreinternetincome.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619051139id_/http%3A//www.moreinternetincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | More Internet Income for You
 
-If you're new here, you may want to subscribe to my [RSS feed](http://www.moreinternetincome.com/feed/). Thanks for visiting!
+Welcome back!
 
 **Privacy Policy for www.moreinternetincome.com**
 
