@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220032820id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademart.in privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202104id_/http%3A//about.trademart.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Trademart.in - B2B Trade Directory,Indian Exporters Manufacturers,Buyers Importers Directories,Sellers Suppliers,India
 
