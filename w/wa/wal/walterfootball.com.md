@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082912id_/http%3A//www.walterfootball.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterfootball.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035546id_/http%3A//www.walterfootball.com/privacy.php) for the most accurate reproduction.*
 
 # WalterFootball.com: Links
 
@@ -11,7 +11,7 @@ WalterFootball.com Privacy Policy
 
 **3\. External Links.** This site contains links to other sites. WalterFootball.com is not responsible for the privacy practices or the content of such Web sites, or their content. 
 
-**4\. Public Forums.** This site uses forums. WalterFootball.com is not responsible for any information you disclose while partaking in the forums. 
+**4\. Public Forums.** This site uses forums. WalterFootball.com is not responsible for any information you disclose or actions you take while partaking in the forums. 
 
 **5\. Cookies.** Cookies are used for logins, and for logins only. These cookies do not receive any information about you or your system, and are used only for authorization purposes 
 
@@ -23,14 +23,16 @@ WalterFootball.com Privacy Policy
 
 **9\. Choice/Opt-Out.** This site's forum gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to wpc112@gmail.com. 
 
-**10\. Contacting the Web Site.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at wpc112@gmail.com. 
+**10\. DoubleClick DART Cookies.** Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+**11\. Contacting the Web Site.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at wpc112@gmail.com. 
 
   
 
 
 * * *
 
-© 1999-2008 [ Walter Cherepinsky ](mailto:wpc112@gmail.com): all rights reserved    
-[ Privacy Policy](https://web.archive.org/web/20081217082912id_/http%3A//www.walterfootball.com/privacy.php)   
+© 1999-2009 [ Walter Cherepinsky ](mailto:wpc112@gmail.com): all rights reserved    
+[ Privacy Policy](https://web.archive.org/web/20090619035546id_/http%3A//www.walterfootball.com/privacy.php)   
 2  5  9    
 
