@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westacademic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161130id_/http%3A//www.westacademic.com/Professors/About/PrivacyPolicy.aspx%3Ftab%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westacademic.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044715id_/http%3A//www.westacademic.com/Professors/About/PrivacyPolicy.aspx%3Ftab%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,12 +67,12 @@ If you view our CLE content, West LegalEdcenter is obligated to pass along your 
 West LegalEdcenter also may provide summary statistics about our customers' interests and preferences, products sold, traffic patterns and related site information to reputable third parties. These statistics do not include personal identification information; they are used only to enhance the design of our Web site and customize new product offerings to our customers. For more information, including the Click-Wrap license agreement, please see the [West LegalEdcenter Terms and Conditions](http://westlegaledcenter.com/misc/terms.jsf) statement.
 
 Public Records, Including Social Security Numbers and Credit Histories  
-Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20081216161130id_/http%3A//www.westacademic.com/Professors/About/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com?subject=westacademic.com).
+Please review the [West Privacy and Public Records Policy Statement](https://web.archive.org/web/20090619044715id_/http%3A//www.westacademic.com/Professors/About/records.aspx) to learn about the kinds of public records West gathers and makes available on Westlaw.com. If you have further questions, please send an e-mail message to [west.privacypolicy@thomson.com](mailto:west.privacypolicy@thomson.com?subject=westacademic.com).
 
 How We Protect Your Information  
 West uses technical security measures to prevent the loss, misuse and alteration of information under our control.
 
-For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20081216161130id_/http%3A//www.westacademic.com/Professors/About/ssl.aspx).
+For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Learn more about [SSL](https://web.archive.org/web/20090619044715id_/http%3A//www.westacademic.com/Professors/About/ssl.aspx).
 
 Who Has Access to the Information?  
 West will share your personal data in four ways: 
