@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219174822id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201529id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,9 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Terms**  
 No party other than The Ready Store, Inc. is allowed to access information stored on our servers. Doing so is a violation of federal and state law. The Ready Store, Inc. has taken caution by placing security measures and firewalls on all network servers in an attempt to prevent outside parties from accessing private information. In the event of a breach of security or attempted breach of security, The Ready Store, Inc. will press charges to the fullest extent to those parties illegally accessing information on our servers, both civilly and criminally.
+
+**Subscribing**  
+When purchasing from thereadystore.com, you are automatically opting into our marketing database. You may at anytime opt out, or update your customer information by clicking on the "update profile" or "unsubscribe" link located in any email or by editing your account settings after logging in at [www.thereadystore.com](http://www.thereadystore.com/).
 
 **Changes in this Privacy Statement**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
