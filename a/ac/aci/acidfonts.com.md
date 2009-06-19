@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidfonts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217145934id_/http%3A//www.acidfonts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidfonts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205306id_/http%3A//www.acidfonts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - free fonts download at Acidfonts - Acid Fonts
 
@@ -15,6 +15,12 @@ We use Burstmedia and other third-party advertising companies to serve ads when 
 Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+Google, as a third-party vendor, uses cookies to serve ads on this website.
+
+Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to the website users based on their visit to this site and other websites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
 Copyright Information
 
