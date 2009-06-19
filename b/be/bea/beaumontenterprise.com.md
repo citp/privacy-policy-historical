@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003033id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211305id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
 
 # Privacy policy >> www.beaumontenterprise.com - Policy
 
@@ -129,3 +129,7 @@ If you have any questions or comments regarding our privacy practices, you may c
 
 **_Effective Date:   May 20, 2008  
 _** | 
+
+[](http://autos.beaumontenterprise.com/)
+
+[](http://beaumontenterprise.kaango.com/)
