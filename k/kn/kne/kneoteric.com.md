@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kneoteric.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219070115id_/http%3A//www.kneoteric.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kneoteric.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044031id_/http%3A//www.kneoteric.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Kneoteric
 
@@ -8,4 +8,4 @@ Kneoteric is the sole owner of personal Information divulged voluntarily, includ
 
 Kneoteric retains the right to contact the person who has submitted the information at any time unless otherwise specified. We may send emails to you at the email id provided by you. We respect your privacy and in the event that you choose not to receive such emails, we will take all steps to remove you from our list. We will make all efforts to respond to you in a timely manner to fulfill your requests.
 
-If you have any questions about this privacy policy statement and/or our website, please [get in touch](https://web.archive.org/web/20081219070115id_/http%3A//www.kneoteric.com/contact.html) with us.
+If you have any questions about this privacy policy statement and/or our website, please [get in touch](https://web.archive.org/web/20090619044031id_/http%3A//www.kneoteric.com/contact.html) with us.
