@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx%3Fid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx%3Fid%3D125) for the most accurate reproduction.*
 
 # Ad Council : Privacy Policy
 
 **This Privacy Policy was last modified and is effective as of July 25, 2008  
 AD COUNCIL PRIVACY POLICY
 
-THIS IS OUR OFFICIAL PRIVACY POLICY, WHICH IS PART OF OUR [TERMS OF USE](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124) AND FORMS A PART OF YOUR LEGAL AGREEMENT WITH US. PLEASE READ IT CAREFULLY SINCE IT DESCRIBES THE TYPES OF INFORMATION WE COLLECT, HOW WE COLLECT AND USE INFORMATION, THE CIRCUMSTANCES IN WHICH WE DISCLOSE OR SHARE INFORMATION AND HOW YOU CAN ACCESS, UPDATE OR DELETE CERTAIN INFORMATION WE HAVE COLLECTED ABOUT YOU.
+THIS IS OUR OFFICIAL PRIVACY POLICY, WHICH IS PART OF OUR [TERMS OF USE](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124) AND FORMS A PART OF YOUR LEGAL AGREEMENT WITH US. PLEASE READ IT CAREFULLY SINCE IT DESCRIBES THE TYPES OF INFORMATION WE COLLECT, HOW WE COLLECT AND USE INFORMATION, THE CIRCUMSTANCES IN WHICH WE DISCLOSE OR SHARE INFORMATION AND HOW YOU CAN ACCESS, UPDATE OR DELETE CERTAIN INFORMATION WE HAVE COLLECTED ABOUT YOU.
 
 **
 
-Any terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124). 
+Any terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124). 
 
 **INFORMATION WE COLLECT AND HOW WE COLLECT IT**
 
@@ -21,9 +21,9 @@ You can disable or turn the cookie feature off by changing the settings on your 
 
  **PERSONAL INFORMATION**
 
-We use the term “Personal Information” to refer to any information you provide in connection with your use of any of our Websites by which you can be personally identified. Personal Information may include such things as your name, street address, telephone number, date of birth, e-mail address and any other information which might reasonably be used to identify you. We only obtain Personal Information from you when you submit it to us or provide it on one or more of our Websites that require it in order to allow you to register, subscribe or take advantage of certain features, functions, services, activities, promotions and content on our Websites (these are referred to as “Content” in our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124)). You may also email us with a question or for more information and we will use your contact information (which includes Personal Information such as an email address) to help us respond and for customer service purposes. Unless you voluntary provide or send us Personal Information, we will always ask you to submit or provide it to us before collecting your Personal Information, although you may not be able to use the particular Content, if you choose not to provide your Personal Information. If you provide or submit your Personal Information to any of our Websites, we will always give you the right to review, update and/or delete your Personal Information, subject to our obligations to comply with legal, regulatory our internal audit and record-keeping requirements. 
+We use the term “Personal Information” to refer to any information you provide in connection with your use of any of our Websites by which you can be personally identified. Personal Information may include such things as your name, street address, telephone number, date of birth, e-mail address and any other information which might reasonably be used to identify you. We only obtain Personal Information from you when you submit it to us or provide it on one or more of our Websites that require it in order to allow you to register, subscribe or take advantage of certain features, functions, services, activities, promotions and content on our Websites (these are referred to as “Content” in our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124)). You may also email us with a question or for more information and we will use your contact information (which includes Personal Information such as an email address) to help us respond and for customer service purposes. Unless you voluntary provide or send us Personal Information, we will always ask you to submit or provide it to us before collecting your Personal Information, although you may not be able to use the particular Content, if you choose not to provide your Personal Information. If you provide or submit your Personal Information to any of our Websites, we will always give you the right to review, update and/or delete your Personal Information, subject to our obligations to comply with legal, regulatory our internal audit and record-keeping requirements. 
 
-In addition to this Privacy Policy, each of our Websites that ask you to submit or provide Personal Information, will have additional disclosures and information (“Supplemental Privacy Policies”) that describe how that Website collects, uses, shares and maintains your Personal Information and each of those Supplemental Privacy Policies are incorporated and form a part of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124) when you use that Website and provide or submit Personal Information. 
+In addition to this Privacy Policy, each of our Websites that ask you to submit or provide Personal Information, will have additional disclosures and information (“Supplemental Privacy Policies”) that describe how that Website collects, uses, shares and maintains your Personal Information and each of those Supplemental Privacy Policies are incorporated and form a part of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124) when you use that Website and provide or submit Personal Information. 
 
 **SPONSORS, ADVERTISERS AND OTHER THIRD PARTIES**
 
@@ -37,7 +37,7 @@ We always have the right to disclose your Personal Information to any Third Part
 
 We also reserve the right to make your Personal Information available:  
 • When we are compelled by a governmental agency, law, regulation, a court or other legal process;   
-• If we believe you are, have or may violate any law, regulation, our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124);  
+• If we believe you are, have or may violate any law, regulation, our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124);  
 • If we believe you are or may be a threat to safety, property, interests or rights of us or others;  
 • In order to investigate, respond to or resolve problems or inquiries or defend our interests;  
 • In a merger, acquisition, change of control, joint venture or other business combination. 
@@ -46,7 +46,7 @@ You should also be aware we are public service organization and simply because a
 
  **HOW WE USE YOUR INFORMATION**
 
-We only use information that we collect or obtain when you use our Websites as described in this Privacy Policy, for our internal research purposes or to ensure compliance with our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124). If we or any of our Websites collect, maintain, use or intend to share your Personal Information for other purposes than as described in this Privacy Policy, we will ensure that is included within the Supplemental Privacy Policy that applies to the Website or Websites involved. 
+We only use information that we collect or obtain when you use our Websites as described in this Privacy Policy, for our internal research purposes or to ensure compliance with our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124). If we or any of our Websites collect, maintain, use or intend to share your Personal Information for other purposes than as described in this Privacy Policy, we will ensure that is included within the Supplemental Privacy Policy that applies to the Website or Websites involved. 
 
 **SECURITY**
 
@@ -62,7 +62,7 @@ If you are a resident of the State of California, under the California Civil Cod
 
 **CHANGES TO PRIVACY POLICY**
 
-We can change this Privacy Policy at any time (see our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124)). As with our [Terms of Use](https://web.archive.org/web/20081218114738id_/http%3A//www.adcouncil.org/default.aspx?id=124), we encourage you to come back and review this Privacy Policy often to be sure you are aware of the terms, conditions, rights and obligations that apply to you. 
+We can change this Privacy Policy at any time (see our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124)). As with our [Terms of Use](https://web.archive.org/web/20090619195428id_/http%3A//www.adcouncil.org/default.aspx?id=124), we encourage you to come back and review this Privacy Policy often to be sure you are aware of the terms, conditions, rights and obligations that apply to you. 
 
 **CONTACT US**
 
