@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181534id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201423id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
 
 # MUZU TV - Bands, Festivals, Venues and Fans Broadcast your Music TV on the Web
 
@@ -164,4 +164,4 @@ We do reserve the right to modify this privacy policy at any time. If there are 
 
 11.2
 
-If you use Our Website after we post these changes to the privacy policy, this indicates your acceptance of them. Regardless of later updates, we will follow the practices described in this privacy policy at the time you provided us with your information. If you ever have questions about our privacy policies, please contact us using the following [link](https://web.archive.org/site/contact). 
+If you use Our Website after we post these changes to the privacy policy, this indicates your acceptance of them. Regardless of later updates, we will follow the practices described in this privacy policy at the time you provided us with your information. If you ever have questions about our privacy policies, please contact us using the following [link](https://web.archive.org/site/contactUs). 
