@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217162419id_/http%3A//www.barratthomes.co.uk/legal/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060519id_/http%3A//www.barratthomes.co.uk/legal/Privacy-policy) for the most accurate reproduction.*
 
 # Barratt Homes - Privacy Policy
 
 Data Protection and Privacy Statement.  
 
 
-This is the  privacy statement for the website [www.barratthomes.co.uk](https://web.archive.org/web/20081217162419id_/http://www.barratthomes.co.uk/). Please read it carefully. You should only use this site if you agree to our use of information about you in accordance with this privacy statement.
+This is the  privacy statement for the website [www.barratthomes.co.uk](http://www.barratthomes.co.uk/). Please read it carefully. You should only use this site if you agree to our use of information about you in accordance with this privacy statement.
 
 We collect certain basic information about you when you visit our website. We recognise the importance both of keeping that information secure and of letting you know what we intend to do with that information.
 
