@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164424id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210720id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
@@ -81,4 +81,4 @@ Postal Address: 951 Yamato Road, Suite 106, Boca Raton, FL 33431-4425, USA
   
  
 
-© 1997-2008   FlyChina Infotek, Inc.
+© 1997-2009   FlyChina Infotek, Inc.
