@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217123217id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamerawarehouse.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203525id_/http%3A//www.digitalcamerawarehouse.com.au/webcontent65.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Camera Warehouse
 
