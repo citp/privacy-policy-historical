@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hwtears.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132913id_/http%3A//www.hwtears.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hwtears.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201043id_/http%3A//www.hwtears.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Handwriting Without Tears
 
