@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034628id_/http%3A//www.activestate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050223id_/http%3A//www.activestate.com/privacy_policy) for the most accurate reproduction.*
 
-# ActiveState - Privacy Policy - Dynamic Tools for Dynamic Languages
+# ActiveState Privacy Policy
 
 ActiveState is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire ActiveState site (including www.activestate.com and aspn.activestate.com).
 
@@ -14,7 +14,7 @@ Throughout our site, you are provided with the opportunity to contact us via ema
 
 ## Cookies
 
-A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the onsite experience.
+A cookie is a piece of data stored on a user's hard drive, containing information about the user. Usage of a cookie provides user benefits and is in no way linked to any personally identifiable information. For example, by setting a cookie on our site, you would not have to enter your password more than once. If you reject the cookie, you may still use our site, though some areas may be functionally limited. For example, you will not be able to take full advantage of our mailing list subscription tools. Cookies also enable us to track and target the interests of our users to enhance the on-site experience.
 
 ## Log Files
 
@@ -36,15 +36,15 @@ When a user enrolls for free membership in ASPN Open, they will be asked to prov
 
 We request user information during the account setup and purchase processes. Users may be asked to provide contact information (e.g. name and shipping address) and financial information (e.g. credit card number, expiration date). This information is used for billing and order fulfillment. If we have difficulty processing an order, the contact information may be used to contact the customer.
 
-## Surveys & Contests
-
-From time to time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user can decide whether or not to disclose their information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age range). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of improving our products and our site.
-
-## Mailing lists
+## Mailing Lists
 
 Users are offered the option of subscribing to relevant mailing lists at the time of purchase, and at various other locations throughout the site, for reasons of user convenience only. All new mailing list subscribers will receive a welcome email verifying subscription information. ActiveState's ASPN "Announce" mailing lists are "receive-only" lists for announcements regarding ActiveState products, services, or promotions. ActiveState's ASPN "Discuss" mailing lists are moderated lists that provide discussion forums for ActiveState products and technologies. It is not necessary to subscribe to any ASPN mailing list to use our Web site or purchase our products.
 
 ASPN includes archives of mailing lists hosted by other sites. ActiveState does not control or own the data collected from these lists. For information regarding the data collection practices of the hosting site, please contact them directly.
+
+## Surveys & Contests
+
+From time to time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user can decide whether or not to disclose their information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age range). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of improving our products and our site.
 
 ## Security
 
@@ -72,7 +72,7 @@ Users of our site are always notified when their information is being collected 
 
 Periodically, ActiveState notifies our users of new products, announcements, upgrades, and updates.
 
-If you would prefer not to receive these notifications, please update your preferences at: [http://www.ActiveState.com/cgibin/ns.plex](https://web.archive.org/cgibin/ns.plex).
+If you would prefer not to receive these notifications, please update your preferences at:[ ](http://www.activestate.com/cgibin/ns.plex)[http://www.ActiveState.com/cgibin/ns.plex](http://www.activestate.com/cgibin/ns.plex)[.](http://www.activestate.com/cgibin/ns.plex)
 
 Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services.
 
@@ -84,4 +84,4 @@ If we change our privacy policy, we will post notification of those changes on o
 
 If you have questions, or if you feel we are in violation of this privacy policy, please [contact us](mailto:website-feedback@ActiveState.com).
 
-ActiveState
+\- ActiveState
