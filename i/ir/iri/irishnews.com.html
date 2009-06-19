@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irishnews.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218234110id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irishnews.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619070654id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>
@@ -47,13 +47,13 @@ var randnum= (time.getTime());
 						  	<input type="hidden" id="selSearch" name="selSearch" value="AW">
 						  	<input type="hidden" id="selCategory" name="selCategory" value="'Exclude', 'Notices'">
                             <input type="hidden" id="date13" name="date13" value="01 January 1996">
-						  	<input type="hidden" id="date14" name="date14" value="18 December 2008">
+						  	<input type="hidden" id="date14" name="date14" value="19 June 2009">
 						  	<input type="text" id="txtSearch" name="txtSearch" size="20">
        			           <!-- <input name="smtSearch" type="submit" value="Search">-->
        			            
        			            <input name="imgSearch" value="search" type="image" src="http://www.irishnews.com/graphics/search.gif" alt="search">
     </form><br>
-    <span style="margin-left:2em;margin-botton:4px">&nbsp;&nbsp;Thursday, 18 December 2008</span><br>
+    <span style="margin-left:2em;margin-botton:4px">&nbsp;&nbsp;Friday, 19 June 2009</span><br>
    </div>
     </div>
 
@@ -177,18 +177,47 @@ mybrks.init()
 <!--<a href="dailygallery.asp">-->
 <a href="http://www.irishnews.com/dailygallery.asp"><img src="http://www.irishnews.com/devices/c3/images/toppictures.jpg" width="345" height="50" style="border:none" alt="today's top pictures"></a></div>
 <div class="holdc3">
-<iframe src="http://www.irishnews.com/devices/c3/nibusinessinfo.asp" scrolling="no" width="345px" height="50px" marginheight="0px" marginwidth="0px" frameborder="0">
-</iframe>
-</div>
-<div class="holdc3">
 <!-- width 345px  -->
-<a href="http://www.irishnews.com/irishnews/540/5860/2008/12/17/605658_366821611965Christmas.html"><img src="http://www.irishnews.com/devices/c3/images/crimbo.jpg" alt="The Christmas Gallery" width="345" height="50" border="0">
+<a href="http://www.irishnews.com/thechampionship"><img src="http://www.irishnews.com/devices/c3/images/thechampionship.jpg" alt="The Irish News Championship website 2009" width="345" height="50" border="0">
+</a></div><div class="holdc3">
+<!-- width 345px  -->
+<a href="http://www.irishnews.com/galleries.asp"><img src="http://www.irishnews.com/devices/c3/images/galleries.jpg" alt="Irish News Galleries" width="345" height="50" border="0">
 </a></div>
 <div class="holdc3">
+<!-- width 345px  -->
+<a href="http://www.irishnews.com/wea"><img src="http://www.irishnews.com/devices/c3/images/wea-bigdevice.jpg" alt="The Irish News Workplace and Employment Awards 2008" width="345" height="50" border="0">
+</a></div><div class="holdc3">
 <iframe src="http://www.irishnews.com/devices/c3/d3.asp" scrolling="no" width="345px" height="250px" marginheight="0px" marginwidth="0px" frameborder="0">
 </iframe>
 </div>
-<div class="holdc3"><!-- width 345px  --><a href="http://photosales.irishnews.com/aetopia/WebObjects/INShop.woa/wa/default"><img src="http://www.irishnews.com/devices/c3/images/photosales.jpg" alt="irish news photos" width="345" height="50" border="0"></a></div><div class="holdc3">
+
+<script type="text/javascript">
+//<![CDATA[
+var popupcal, xmlcal, fscal;
+window.onload = function() {
+ stime = new Date();
+ var popxml = '<importdata><configs><initcfg><name>popupcal<\/name><mode>popup<\/mode><\/initcfg><\/configs><datesadd><date value="2006-09-06"/><\/datesadd><\/importdata>';
+ var fsxml = '<datesadd><\/datesadd>';
+ var xmlxml = '<importdata><configs><statecfg><displayyearinitial>2006<\/displayyearinitial><displaymonthinitial>7<\/displaymonthinitial><displayyear>2006<\/displayyear>   <displaymonth>7<\/displaymonth><mindate>2002-05-05<\/mindate><maxdate>2006-08-16<\/maxdate><\/statecfg><\/configs><datesadd><\/datesadd><\/importdata>';
+ popupcal = new EpochPrime(document.getElementById('popup1'),popxml);
+ xmlcal = new EpochPrime(document.getElementById('xmlcal1'),xmlxml);
+ fscal = new EpochPrime(document.getElementById('fscal1'),fsxml);
+ //document.write('<div style="margin-left:-2em"><input type="submit" class="submit" value="Submit Date"/></div>'); 
+ //document.getElementById('load_time').firstChild.nodeValue = '3 calendars loaded in ' +  ((new Date() - stime)/1000.0).toFixed(3) +' seconds.';
+};
+
+//]]>
+</script>
+<br><br>
+<div class="holdc3" style="width:100%;text-align:center;background-color:#ffffff"><br>
+<div style="margin-left:-2em"><span class="hblue">Issue Changer:</span></div>
+<form action="http://www.irishnews.com/index.asp" style="margin-top:3px" method="get" onsubmit="fscal.sendForm(this,'inputdate');">
+<div id="fscal1" class="cal_container"></div>
+<div style="margin-left:-2em"><input type="submit" class="submit" value="Submit Date"></div>
+</form>
+</div>
+
+<div class="holdc3">
 <!-- Start of Brightcove Player -->
 <div style="display:none">
 See our highlights from September through to December of 2007, The All-Star awards, Lily the Lion and St Brides nativity play.; See our highlights from May through to August of 2007, the smoking ban was introduced, devolution was restored and The Simpsons came to Springfield Road.; See our highlights for January through to April of 2007, eco-friendly Seals, Tennis Legends and Ian Paisley and Gerry Adams sit down together.; The suicide awareness and support group say that the spending the festive period alone or coping with mounting debts can make it be a lonely or depressing time for many.; Residents of South Belfast have complied a book featuring over 200 pictures fro the last one hundred years, can you remember when Forestside was just one corner shop? ; Santa's been and gone but it's still the holidays and your little angles are starting to get bored with their toys. So here are a few suggestions that will put the twinkle back into your child's eyes.; See part two of the INTV animated nativity play using the voices of P1 from St Brides primary school in Belfast.
@@ -224,39 +253,8 @@ Voices - St Brides Primary School; INTV went along to the dress rehersals of St 
 
  createExperience(config, 8);
 </script>
-<!-- End of Brightcove Player --></div>
-<script type="text/javascript">
-//<![CDATA[
-var popupcal, xmlcal, fscal;
-window.onload = function() {
- stime = new Date();
- var popxml = '<importdata><configs><initcfg><name>popupcal<\/name><mode>popup<\/mode><\/initcfg><\/configs><datesadd><date value="2006-09-06"/><\/datesadd><\/importdata>';
- var fsxml = '<datesadd><\/datesadd>';
- var xmlxml = '<importdata><configs><statecfg><displayyearinitial>2006<\/displayyearinitial><displaymonthinitial>7<\/displaymonthinitial><displayyear>2006<\/displayyear>   <displaymonth>7<\/displaymonth><mindate>2002-05-05<\/mindate><maxdate>2006-08-16<\/maxdate><\/statecfg><\/configs><datesadd><\/datesadd><\/importdata>';
- popupcal = new EpochPrime(document.getElementById('popup1'),popxml);
- xmlcal = new EpochPrime(document.getElementById('xmlcal1'),xmlxml);
- fscal = new EpochPrime(document.getElementById('fscal1'),fsxml);
- //document.write('<div style="margin-left:-2em"><input type="submit" class="submit" value="Submit Date"/></div>'); 
- //document.getElementById('load_time').firstChild.nodeValue = '3 calendars loaded in ' +  ((new Date() - stime)/1000.0).toFixed(3) +' seconds.';
-};
-
-//]]>
-</script>
-<br><br>
-<div class="holdc3" style="width:100%;text-align:center;background-color:#ffffff"><br>
-<div style="margin-left:-2em"><span class="hblue">Issue Changer:</span></div>
-<form action="http://www.irishnews.com/index.asp" style="margin-top:3px" method="get" onsubmit="fscal.sendForm(this,'inputdate');">
-<div id="fscal1" class="cal_container"></div>
-<div style="margin-left:-2em"><input type="submit" class="submit" value="Submit Date"></div>
-</form>
-</div>
-
-<div class="holdc3"><!-- width 345px  --><a href="http://www.irishnews.com/todayspdf.asp?spdf=pdf&amp;catid=5834"><img alt="today's pdfs" src="http://www.irishnews.com/devices/c3/images/pdficon.jpg" width="345" height="50" border="0"></a></div><div class="holdc3"><!-- width 345px  -->
-<a href="http://www.irishnews.com/sudoku.asp?catid=5834"><img src="http://www.irishnews.com/devices/c3/images/sudoku.jpg" alt="play sudoku online" width="345" height="50" border="0"></a></div><div class="holdc3">
-<!-- width 345px  -->
-<a href="http://www.irishnews.com/irishnews/597/587/2008/10/29/601518_361823903325Internatio.html"><img src="http://www.irishnews.com/devices/c3/images/international_rules.jpg" alt="International Rules Gallery" width="345" height="50" border="0">
-</a></div>
-
+<!-- End of Brightcove Player --></div><div class="holdc3"><!-- width 345px  --><a href="http://www.irishnews.com/todayspdf.asp?spdf=pdf&amp;catid=5834"><img alt="today's pdfs" src="http://www.irishnews.com/devices/c3/images/pdficon.jpg" width="345" height="50" border="0"></a></div><div class="holdc3"><!-- width 345px  -->
+<a href="http://www.irishnews.com/sudoku.asp?catid=5834"><img src="http://www.irishnews.com/devices/c3/images/sudoku.jpg" alt="play sudoku online" width="345" height="50" border="0"></a></div><div class="holdc3"><!-- width 345px  --><a href="http://photosales.irishnews.com/aetopia/WebObjects/INShop.woa/wa/default"><img src="http://www.irishnews.com/devices/c3/images/photosales.jpg" alt="irish news photos" width="345" height="50" border="0"></a></div>
     </div>
   
  <div id="addspace" style="background-color:#004276">
@@ -274,9 +272,14 @@ window.onload = function() {
     
     
     
+<style type="text/css">
+<!--
+.style2 {color: #999999}
+-->
+</style>
 <div id="footer">
-    <a href="http://www.irishnews.com/printadv.asp?catid=5834">print advertising</a>	| <a href="http://www.irishnews.com/mediapack.asp?catid=5834">media pack</a> | <a href="http://www.irishnews.com/onlineadv.asp?catid=5834">online advertising</a> | <a href="http://www.irishnews.com/privacyst.asp?catid=5834">privacy statement</a> | <a href="http://www.irishnews.com/aboutus.asp?catid=5834">about us</a> | <a href="http://www.irishnews.com/contact.asp?catid=5834">contact us</a> | <a href="http://www.irishnews.com/subscribe.asp?tsub=sub">subscribe</a> | <a href="http://www.irishnews.com/login.asp?tlog=log">login</a> | <a href="http://www.irishnews.com/search.asp?tser=ser">archives</a> | <a href="http://www.irishnews.com/sitemap.asp">sitemap</a> | <a href="http://irishnews.erecruit.co.uk/erecruit/company/jobs.do">careers</a> | <a href="http://www.irishnews.com">home</a>
-</div>
+    <a href="http://www.irishnews.com/advertising">print advertising</a>	| <a href="http://www.irishnews.com/advertising/abcfigures.html">media pack</a> | <a href="http://www.irishnews.com/advertising/onlineadvertising.html">online advertising</a> | <a href="http://www.irishnews.com/privacyst.asp?catid=5834">privacy statement</a> | <a href="http://www.irishnews.com/aboutus.asp?catid=5834">about us</a> | <a href="http://www.irishnews.com/contact.asp?catid=5834">contact us</a> | <a href="http://www.irishnews.com/subscribe.asp?tsub=sub">subscribe</a> | <a href="http://www.irishnews.com/login.asp?tlog=log">login</a> | <a href="http://www.irishnews.com/search.asp?tser=ser">archives</a> | <a href="http://www.irishnews.com/sitemap.asp">sitemap</a> | <a href="http://irishnews.erecruit.co.uk/erecruit/company/jobs.do">careers</a> | <a href="http://www.irishnews.com">home</a>
+| <a href="http://www.socit.com" target="_blank" class="style2">www.socit.com</a></div>
 
 </div>
 
