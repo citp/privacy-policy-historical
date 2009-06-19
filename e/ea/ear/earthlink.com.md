@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208062124id_/http%3A//www.earthlink.net/about/policies/privacy/index.faces) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161801id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
 
-# Earthlink Policies & Agreements
-
-**EarthLink Privacy Policy**
+# Earthlink Policies & Agreements - Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
