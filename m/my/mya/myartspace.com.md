@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myartspace.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013132id_/http%3A//www.myartspace.com./view/about-privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myartspace.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044835id_/http%3A//www.myartspace.com/view/about-privacypolicy.jsp) for the most accurate reproduction.*
 
 # MY ART SPACE - PRIVACY POLICY
 
