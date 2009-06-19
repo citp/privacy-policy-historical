@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911093326id_/http%3A//blog.smallworlds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044609id_/http%3A//www.smallworlds.com/privacy-policy) for the most accurate reproduction.*
 
 # SmallWorlds » Privacy Policy
 
@@ -17,6 +17,8 @@ SmallWorlds collects personal information when you register with us, when you us
 When you register we ask for information such as your name, email address, date of birth etc. We use this information to allow you to log into the SmallWorlds service, and to contact you for important communications regarding the SmallWorlds service. You can opt out of these communications at any time.
 
 SmallWorlds collects information about your transactions with us and with some of our business partners.
+
+SmallWorlds will never store credit card information or other sensitive payment details. When you choose to “save this card” during our payment process, our bank stores the information in their secure systems.
 
 Our server logs automatically record information from your browser, including your IP address, browser cookie information, and the pages you request. Cookies are small text files placed in your web browser to remember your preferences, and are generally used to determine how many visitors we get and what parts of our website and service they visit.
 
