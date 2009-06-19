@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004324id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210406id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
 
 # NFPA :: Privacy Policy
 
- This is the web site of the National Fire Protection Association. 
+This is the web site of the National Fire Protection Association. 
 
 **Our postal address is:**  
 1 Batterymarch Park  
@@ -30,8 +30,6 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 **Customer Telephone Numbers  
 **Persons who supply us with their telephone or fax numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line or information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to the above address, calling the above telephone number, or writing to us at the above address. Please provide us with your correct phone number. We will be sure your name is removed from the list. We do not share telephone numbers with anyone outside of the organization.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by e-mailing us at the above address, writing to us at the above address or accessing your profile.
 
