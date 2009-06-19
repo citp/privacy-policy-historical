@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchnfindarticles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218050423id_/http%3A//searchnfindarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnfindarticles.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202429id_/http%3A//searchnfindarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Search n Find Articles | Find Articles | Articles Search | Free Articles
+# Free Article | Find Articles | Submit Article | Article Directory
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
