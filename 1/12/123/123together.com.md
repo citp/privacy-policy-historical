@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080057id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619100645id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
 
 # 123Together Exchange Hosting Privacy Statement
 
