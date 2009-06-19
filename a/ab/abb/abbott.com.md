@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220222201id_/http%3A//www.abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160614id_/http%3A//www.abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
 
 # Abbott Laboratories Privacy Policy - US Residents Only
 
