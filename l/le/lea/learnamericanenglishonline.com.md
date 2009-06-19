@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218013002id_/http%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044725id_/http%3A//learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -15,10 +15,11 @@ Learn American English Online is committed to keeping information gathered from 
 
 Subscriber email addresses and any personal information will not be distributed or shared with third parties. Subscribers are also asked to provide an email address when registering for the Service, in order to receive updates, lessons, and newsletters. 
 
-In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products and services, and more detailed contact preferences. Subscribers and visitors always have the option of choosing not to provide us with this information.  
+In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products and services, and more detailed contact preferences. Subscribers and visitors always have the option of choosing not to provide us with this information.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of LearnAmericanEnglishOnline.com is used only to provide us with information on site usage and is not shared with any other third parties.
+You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 HTML eMail
 
