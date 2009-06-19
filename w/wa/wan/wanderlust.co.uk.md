@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151455id_/http%3A//www.wanderlust.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619225436id_/http%3A//www.wanderlust.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Wanderlust Travel Magazine
 
