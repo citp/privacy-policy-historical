@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053424id_/http%3A//magnify.net/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619063322id_/http%3A//www.magnify.net/terms/privacy) for the most accurate reproduction.*
 
 # We take your privacy seriously at Magnify.net
 
-Our [full Privacy Policy](https://web.archive.org/web/20081217053424id_/http://www.magnify.net/terms/privacy/privacy_details) describes how we treat personal information when you use our service. The following is a "short version" of our privacy practices:
+Our [full Privacy Policy](https://web.archive.org/web/20090619063322id_/http://magnify.net/terms/privacy/privacy_details) describes how we treat personal information when you use our service. The following is a "short version" of our privacy practices:
 
 #### Personal information
 
@@ -30,7 +30,7 @@ If you abandon your site for over 90 days we will remove all videos and links fr
 
 #### More information
 
-For more information about our privacy practices, go to our [full privacy policy](https://web.archive.org/web/20081217053424id_/http://www.magnify.net/terms/privacy/privacy_details).
+For more information about our privacy practices, go to our [full privacy policy](https://web.archive.org/web/20090619063322id_/http://magnify.net/terms/privacy/privacy_details).
 
 Further information about Magnify.net is available in our About or Contact Us pages.
 
