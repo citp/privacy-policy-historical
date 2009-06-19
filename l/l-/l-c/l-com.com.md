@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142111id_/http%3A//www.l-com.com/content/FAQ.aspx%3FType%3DFAQ%26ID%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-com.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619165958id_/http%3A//www.l-com.com/content/FAQ.aspx%3FType%3DFAQ%26ID%3D13) for the most accurate reproduction.*
 
-# L-com - What is your privacy policy?
+# What is your privacy policy?
 
 We collect the mail address, e-mail address, and phone information of those who communicate with us via written correspondence, e-mail, phone calls, and information volunteered by the customer such as survey information and/or site registration. 
 
