@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtystore.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218152823id_/http%3A//www.realtystore.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtystore.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045939id_/http%3A//www.realtystore.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - RealtyStore
 
@@ -6,7 +6,7 @@
 
 Last Updated: December 11, 2007
 
-**RealtyStore.com Privacy Pledge:** We do not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We fully disclose our privacy policy in this document. If you have any questions or comments, you are invited to email us at support@realtystore.com
+**RealtyStore.com Privacy Pledge:** We do not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We fully disclose our privacy policy in this document. If you have any questions or comments, you are invited to [contact us](https://web.archive.org/contact-form.do).
 
 **Privacy Statement:**  
 By registering or using services obtained through our Web site, you agree to the terms of this Privacy Policy. 
@@ -41,11 +41,11 @@ Occasionally, you may be offered the opportunity to participate in an offer or s
 We do not guarantee the content or information practices of any third-party site. You alone are responsible for determining the appropriateness of sharing your Personally Identifiable Information with our advertisers.
 
 **Communication:**  
-We are available to you during normal business hours to answer any privacy-related questions or concerns you might have. Simply send an email to us at [_support@realtystore.com_](mailto:support@realtystore.com) and we will respond in a timely manner.
+We are available to you during normal business hours to answer any privacy-related questions or concerns you might have. Simply [contact us](https://web.archive.org/contact-form.do) and we will respond in a timely manner.
 
 You sign up for our marketing program when you submit the information on the first page of our sign-up process, and our marketing partners or we may contact you via email with offers we think you will like. We have a strict Anti-SPAM policy, and you may unsubscribe at any time while still participating in our services.
 
-Members and Program Participants may also receive offers via telephone, voice message, text message, or postal mail. We contact you with offers we think you will like. Members may opt-out of either or both of these communication channels by sending an email to [_support@realtystore.com_](mailto:support@realtystore.com).
+Members and Program Participants may also receive offers via telephone, voice message, text message, or postal mail. We contact you with offers we think you will like. Members may opt-out of either or both of these communication channels by [contacting us](https://web.archive.org/contact-form.do).
 
 We also contact you via email or by phone for administrative purposes, such as Program change notifications, updates, etc. While you can elect to stop receiving email through our marketing program (as described above), you cannot unsubscribe from these administrative only (i.e. non-marketing) messages while enrolled in the RealtyStore.com service.
 
@@ -54,4 +54,4 @@ We do not collect or use any information about you for marketing purposes, excep
 **Security:**  
 RealtyStore.com has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security, the use of appropriate encryption technology, and the use of multiple levels of password security. All employees are required to familiarize themselves with, and abide by, these safeguards. Our security practices are continually reviewed and upgraded to provide adequate protection of our membership information.
 
-Thank you for becoming familiar with the RealtyStore.com privacy policy. You can always contact us at [_support@realtystore.com_](mailto:support@realtystore.com) with any questions.
+Thank you for becoming familiar with the RealtyStore.com privacy policy. You can always [contact us](https://web.archive.org/contact-form.do) with any questions.
