@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075901id_/http%3A//www.fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619214006id_/http%3A//fantasysharks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Fantasy Football Sharks - FantasySharks.com Privacy Policy
 
