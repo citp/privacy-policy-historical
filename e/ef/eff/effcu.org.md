@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221162125id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052241id_/http%3A//www.effcu.org/default.aspx%3Fid%3D32) for the most accurate reproduction.*
 
 # Privacy Policy :: Eastern Financial Florida Credit Union
 
