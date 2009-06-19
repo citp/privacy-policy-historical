@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2008-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080801045103id_/http%3A//superiorthreads.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043807id_/http%3A//superiorthreads.com/private-policy) for the most accurate reproduction.*
 
-# Superior Threads Private Policy
+# Private Policy | Superior Threads
+
+
+
+
+## Private Policy
 
 Effective **17 July 2008**
 
@@ -13,21 +18,21 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the Superior Threads website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-Name                           (if an order is submitted)
+Name (if an order is submitted)
 
-Address                       (if an order is submitted)
+Address (if an order is submitted)
 
-Email address              (if an order is submitted, or upon request for newsletter)
+Email address (if an order is submitted, or upon request for newsletter)
 
-Phone number             (if an order is submitted)
+Phone number (if an order is submitted)
 
-Credit Card Info         (if an order is submitted)
+Credit Card Info (if an order is submitted)
 
-Username                    (if an account is created)
+Username (if an account is created)
 
-Password                     (if an account is created, although we can never view your 
+Password (if an account is created, although we can never view your 
 
-                                      password)  
+password)  
 (etc.) 
 
 **The Way We Use Information:**
