@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133806id_/http%3A//www.aam-us.org/site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619155118id_/http%3A//www.aam-us.org/site/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
