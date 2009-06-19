@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173301id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619222416id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Dublin.ie
 
@@ -11,6 +11,10 @@ When registering with dublin.ie, the user agrees to provide facually accurate ma
 #### Cookies:
 
 Certain sections of the site use cookies to maintain single user sessions as well as to aggregate broad demographic data as it relates to user behaviour. You also have choices with respect to cookies. By modifying your browser preferences , you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. You can find out more about the use of cookies on: [http://www.cookiecentral.com](http://www.cookiecentral.com/)
+
+#### Google Cookies:
+
+Dublin.ie uses Google Adsense for targetted advertising on a number of different sections on the site. As part of that system, Google, as a third-party vendor, uses cookies to serve ads on the site. Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to dublin.ie users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
 #### Information Automatically Logged:
 
