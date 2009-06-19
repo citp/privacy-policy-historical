@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investorloft.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061758id_/http%3A//www.investorloft.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorloft.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044805id_/http%3A//www.investorloft.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Real Estate Investment Property Search and Analysis
+# Investment Property Search | Real Estate Investment
 
 **Investorloft.com's Privacy Statement**   
 This privacy statement covers the website http://www.investorloft.com. Investorloft.com provides a variety of online services for real estate investors and real estate professionals. Investorloft.com values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at Investorloft.com to provide the best quality service possible. The following policy statement summarizes Investorloft.com's protection and use of any personal information provided by the visitors of the Investorloft.com site. 
