@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masshightech.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219122102id_/http%3A//www.masshightech.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masshightech.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619200853id_/http%3A//www.masshightech.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Local Technology and Biotech Business News in New England
+# Mass High Tech Business News
 
 Last revised February 1, 2008
 
