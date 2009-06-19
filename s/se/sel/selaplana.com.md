@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211636id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selaplana.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619021948id_/http%3A//www.selaplana.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » SELaplana
+# Privacy Policy - SELaplana
 
 Here at **SELaplana.Com and its Network of blogs** , the privacy of my visitors are very important. This privacy policy document outlines the types of personal information that we receive and how this important data is used.
 
-**__Part 1 :__**
+## Data Collection
 
 For each visitor to our Web page, our Web server stores your browser, IP address, City/State/Country automatically.
 
@@ -19,11 +19,16 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 If you feel that this site is not following its stated information policy, you may contact using the contact form [here](http://www.selaplana.com/about/contact-us/).
 
-**__Part 2 :__**
+**Update April 2009:**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+## EMail Address
 
 If you subscribe to our RSS feed with your email address, your email address will be saved at feedburner.com or feedblitz.com and we will have access to those email address. Those email addresses will be used ONLY for sending the RSS feeds from our web site and will never be sold, disclosed or rented to any third party.
 
-**__Part 3 :__**
+## Thoughts and Opinions ** _  
+_**
 
 We are not lawyers or accountants. Any legal or financial advice we give is our opinion based on our experience. Always seek the advice of a professional before acting on something that we might say.
 
@@ -32,3 +37,7 @@ You should assume we have motivation for linking to everything on this page and 
 You should come up with your own thoughts and opinions and not trust everything you read on the Internet.
 
 -S.E.Laplana
+
+****
+
+[](http://twitter.com/home/?status=Reading%20@Selaplana%20-%20Privacy%20Policy%20http://selaplana.com/?p=3359 "Tweet This!")
