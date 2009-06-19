@@ -1,10 +1,16 @@
-<!--The following is the downloaded HTML source of the 9gag.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218211513id_/http%3A//9gag.com/others/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 9gag.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619090036id_/http%3A//9gag.com/others/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>9GAG - Was den Spaß!</title>  
-    <link rel="stylesheet" href="http://9gag.com/css/screen-beta-v1.4x.css" media="screen,projection" type="text/css">
-    <link rel="stylesheet" href="http://9gag.com/css/lang/de.css" media="screen,projection" type="text/css">
+    <title>9GAG - What The Fun!</title>  
+    <link rel="stylesheet" href="http://9gag.com/css/screen-v1.0.css" media="screen,projection" type="text/css">
+  <!--[if IE]>
+    <link rel="stylesheet" href="/css/ie-v1.1.css" type="text/css" />
+  <![endif]-->
+  <!--[if IE 6]>
+    <script src="/js/DD_belatedPNG.js"></script>
+    <script src="/js/png_class.js"></script>
+  <![endif]-->
     <link rel="alternate" href="http://9gag.com/rss/site/feed.rss" type="application/rss+xml" title="9GAG site feed">
         
     <link rel="shortcut icon" href="http://9gag.com/img/favicon.ico">
@@ -12,28 +18,26 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="keywords" content="jokes,fun,humor,humour,搞笑,搞gag,笑話">
     <meta name="description" content="9GAG is a one stop deadliest handy micro-blog which collects any funny stuffs you find or create. It is your best time-killer and happy-pill.">
+    <meta name="viewport" content="width=device-width">
+    
 
-  <!--[if lt IE 7]>
-    <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
-  <![endif]-->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/mootools/1.2.1/mootools-yui-compressed.js"></script>
-    <script type="text/javascript" src="http://9gag.com/js/Libraries-v1.1.js"></script>
-    <script type="text/javascript" src="http://9gag.com/js/General-v1.4.js"></script>
-    <script type="text/javascript" src="/js/snowstorm.js"></script>
-    
-    
+            <script type="text/javascript" src="http://9gag.com/js/Libraries-v1.3.js"></script>
+    <script type="text/javascript" src="http://9gag.com/js/General-v2.6a.js"></script>
+
   </head>
   <body id="index" class="">
       
+    
     <div id="container">
       <div id="head">
         <a name="topLogo" id="topLogo"></a>
         <div class="main_function_bar">
-          <a class="logo" href="http://9gag.com" title="Gehen Sie auf die Hauptseite. ">9 GAG</a>
+          <a class="logo" href="http://9gag.com" title="Go to the index page.">9 GAG</a>
           <div class="functions">
             <ul>
-                          <li><a href="javascript:" class="toggle_signup">Sign Up </a></li>
-              <li><a href="javascript:" class="toggle_login">Anmeldung </a></li>
+                          <li><a href="javascript:" class="toggle_signup">Sign Up</a></li>
+              <li><a href="javascript:" class="toggle_login">Login</a></li>
                         </ul>
           </div><!--end functions-->
         </div><!--end main_function_bar-->
@@ -42,82 +46,70 @@
           <div id="signup_wrapper" class="hide signup_drawer" style="height: 350px;">
             <form id="form_signup" action="/member/signup/" method="post">
 
-              <h2><em>Anmelden </em> / <a href="javascript:" class="switch_login">Anmeldung </a></h2>
+              <h2><em>Signup</em> / <a href="javascript:" class="switch_login">Login</a></h2>
               <div id="signup_form_username" class="field">
-                <label>Benutzername </label>
-                
+                <label>Username<span class="error" id="signup_error_u" style="font-size:11px;"></span></label>
                 <span>http://</span>
                 <input id="signup_u" class="signup_field text" type="text" name="u" maxlength="20" style="display: inline; width: 8em;">
                 <span style="display: inline;">.9gag.com</span>
-                <span id="signup_valid_u" class="validation_icon"></span>
+                <!-- <span id="signup_valid_u" class="validation_icon"></span>  -->
               </div><!--end field-->
               <div id="signup_form_password" class="field">
-                <label>Passwort </label>
-                <input style="width: 500px; display: inline" id="signup_p" class="text signup_field" type="password" name="p" maxlength="30">
-                <span id="signup_valid_p" class="validation_icon"></span>
+                <label>Password<span class="error" id="signup_error_p"></span></label>
+                <input id="signup_p" class="text signup_field" type="password" name="p" maxlength="30">
+                <!--<span id="signup_valid_p" class="validation_icon"></span> -->
               </div><!--end field-->
               <div id="signup_form_email" class="field">
-                <label>E-Mail-Adresse </label>
-                <input style="width: 500px; display: inline;" id="signup_e" class="text signup_field" type="text" name="e" maxlength="50">
-                <span id="signup_valid_e" class="validation_icon"></span>
+                <label>Email address<span class="error" id="signup_error_e"></span></label>
+                <input id="signup_e" class="text signup_field" type="text" name="e" maxlength="100">
+                <!-- <span id="signup_valid_e" class="validation_icon"></span>-->
               </div><!--end field-->
               <div class="after">
-                <a id="signup_submit" class="submit button" href="javascript: $('form_signup').submit();">Sign Up </a>              
-                <span class="hide" id="signup_error"></span>
+                <a id="signup_submit" class="submit button" href="javascript:">Sign Up</a>              
+                <span class="" id="signup_error"></span>
               </div><!--end after-->
               <input type="hidden" name="url" value="/others/privacy/">
-              <div id="password_validation" class="error_popup_wrapper">
-               <div id="signup_error_p"></div>
-              </div>
-              <div id="email_validation" class="error_popup_wrapper">
-               <div id="signup_error_e"></div>
-              </div>
-              <div id="username_validation" class="error_popup_wrapper">
-               <div id="signup_error_u"></div>
-              </div>
             </form>
           </div>
             
           <div id="login_wrapper" class="hide signup_drawer" style="height: 350px;">
             <form id="form_login" action="/member/login/" method="post">
-              <h2><a href="#" class="switch_signup">Anmelden </a> / <em>Anmeldung </em></h2>
+              <h2><a href="#" class="switch_signup">Signup</a> / <em>Login</em></h2>
               <div id="login_form_username" class="field">
-                <label>Benutzername oder E-Mail-Adresse </label>
+                <label>Username or email address</label>
                 <input id="login_u" class="text" type="text" name="u" maxlength="50">
               </div><!--end field-->
               <div id="login_form_password" class="field">
-                <label>Passwort </label>
+                <label>Password</label>
                 <input id="login_p" class="text" type="password" name="p">
               </div><!--end field-->
             <div id="login_form_remember_me" class="field">
-              <label><input type="checkbox" name="rmb" checked="">Erinnere dich an mich </label>
+              <label><input type="checkbox" name="rmb" checked="">Remember me</label>
             </div><!--end field-->
 
               <div class="after">
-                <a id="login_submit" class="submit button" href="javascript: $('form_login').submit();">Anmeldung </a>
-                <a id="forget_password" class="forgot_password" href="javascript:">Passwort vergessen? </a>
+                <a id="login_submit" class="submit button" href="javascript: $('form_login').submit();">Login</a>
+                <a id="forget_password" class="forgot_password" href="javascript:">Forget Password?</a>
                 <div id="login_load" class="validation_icon" style="margin: 0px;"><img class="hide" src="/img/ajax.gif"></div>
+                <span class="error" id="login_error"></span>
               </div><!--end after-->
               <input type="hidden" name="url" value="/others/privacy/">
               
-              <div id="login_error_wrapper" class="error_popup_wrapper">
-                <div id="login_error"></div>
-              </div>
             </form>
           </div>
           <div id="reset_wrapper" class="hide signup_drawer">
             <form id="form_reset" action="/member/reset/" method="post">
-              <h2><a href="#" class="switch_signup">Anmelden </a> / <em>Anmeldung </em></h2>
+              <h2><a href="#" class="switch_signup">Signup</a> / <em>Login</em></h2>
               <div id="reset_form_username" class="field">
-                <label>Benutzername oder E-Mail-Adresse </label>
+                <label>Username or email address</label>
                 <input class="signup_field text" type="text" name="req" maxlength="50">
                 <span id="req_error"></span>
               </div><!--end field-->
               <div id="signup_form_rememberme" class="field">
               </div><!--end field-->
               <div class="after">
-                <a id="reset_submit" class="button submit" href="javascript: $('form_reset').submit();">Passwort zurücksetzen </a>
-                <a id="cancel_reset" href="#">Abbrechen </a>
+                <a id="reset_submit" class="button submit" href="javascript: $('form_reset').submit();">Reset password</a>
+                <a id="cancel_reset" href="#">Cancel</a>
               </div><!--end after-->
             </form>        
         </div>
@@ -247,48 +239,47 @@
 </div>   
       
       <div id="foot">
-        <div id="ad_container">
-          <a href="http://www.hka.com.hk/gag/index.html" target="_blank"><img src="/img/gag_king_banner.jpg" alt="第一屆爛GAG之王爭霸戰"></a>
-        </div><!--end ad_container-->
-        <p class="statement" style="width: 430px;">
-          <span>All rights reserved © 2008 </span><a class="logo" href="http://rollinegg.com">Rollin' Egg</a><span> hope you have fun here.</span>
-        </p>
+      <!--
+        <div id="ad_container"></div> 
+      -->
         <p class="function">
-          <em>Deutsch</em>
-          <a id="footer_language_link" class="language_picker" href="javascript:">Other Languages</a>
-          <a href="mailto:contact@9gag.com">Kontakt</a>
-          <a href="/help/">Hilfe </a>
-          <a href="/others/terms/">Bedingungen </a>
-          <a href="/others/privacy/">Datenschutzrichtlinie </a>
+          <a id="footer_language_link" class="language_picker" href="javascript:">English</a>
+          <a href="mailto:contact@9gag.com">Contact</a>
+          <a href="http://twitter.com/9gag">Twitter</a>
+          <a href="/help/">Help</a>
+          <a href="/others/terms/">Terms of Use</a>
+          <a href="/others/privacy/">Privacy Policy</a>
         </p>
 	      <ul class="language_picker hide" id="language_picker">
-	        <li><a href="/pref/setlanguage?lang=en&amp;url=%2Fothers%2Fprivacy%2F">English</a></li>
+	        <li class="hide"><a href="/pref/setlanguage?lang=en&amp;url=%2Fothers%2Fprivacy%2F">English</a></li>
 	        <li><a href="/pref/setlanguage?lang=zh&amp;url=%2Fothers%2Fprivacy%2F">繁體中文</a></li>
 	        <li><a href="/pref/setlanguage?lang=zh_CN&amp;url=%2Fothers%2Fprivacy%2F">簡體中文</a></li>	      
 	        <li><a href="/pref/setlanguage?lang=fr&amp;url=%2Fothers%2Fprivacy%2F">français</a></li>
-	        <li class="hide"><a href="/pref/setlanguage?lang=de&amp;url=%2Fothers%2Fprivacy%2F">Deutsch</a></li>
+	        <li><a href="/pref/setlanguage?lang=de&amp;url=%2Fothers%2Fprivacy%2F">Deutsch</a></li>
 	        <li><a href="/pref/setlanguage?lang=ja&amp;url=%2Fothers%2Fprivacy%2F">日本語</a></li>
 	      </ul>
+	      <p>© 2009 <a class="foot_logo" href="http://rollinegg.com">Rollin' Egg</a></p>
+	      
       </div><!--end foot-->
     </div>  
 <script type="text/javascript">
-//<!--
+//<![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//-->
+//]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-//<!--
+//<![CDATA[
 var pageTracker = _gat._getTracker("UA-4838180-1");
 pageTracker._initData();
 pageTracker._trackPageview();
-//-->
+//]]>
 </script>
 <script type="text/javascript">
-//<!--
-var no_empty_field_message = 'Dies kann nicht leer sein '; 
-var confirm_delete_message = 'Sind Sie sicher, dass zu diesen Eintrag löschen?';
-//-->
+//<![CDATA[
+var no_empty_field_message = 'This cannot be empty'; 
+var confirm_delete_message = 'Are you sure to delete this entry?';
+//]]>
 </script>  
 
-</body><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1315.4px; top: -122.43px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1017.19px; top: -60.2789px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1299.58px; top: -333.131px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 341.78px; top: -586.617px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 607.989px; top: -124.837px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1047.59px; top: -528.308px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 347.623px; top: -80.3074px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 95.0717px; top: 31.9493px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 481.464px; top: -594.728px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1135.78px; top: -195.721px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1328.18px; top: -111.908px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 907.848px; top: -450.912px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 196.1px; top: -483.087px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 533.603px; top: -493.147px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 243.784px; top: -533.207px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 499.018px; top: -185.834px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 806.791px; top: -111.351px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 492.88px; top: -312.324px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1292.68px; top: -617.735px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1235.42px; top: -67.6547px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 874.575px; top: -454.595px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 914.745px; top: -202.803px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1171.87px; top: -65.8336px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1110.15px; top: 8.66439px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 343.083px; top: -486.257px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1283.14px; top: -62.0288px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 662.273px; top: -381.641px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 93.9575px; top: 38.8957px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 263.149px; top: -66.8263px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 415.951px; top: -356.771px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 469.352px; top: -220.591px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 458.795px; top: -140.438px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 279.421px; top: -509.117px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 8.62557px; top: -625.986px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 438.693px; top: -353.825px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 718.971px; top: -650.721px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 402.399px; top: -314.761px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 374.094px; top: -580.831px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 497.68px; top: -97.2413px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 707.486px; top: -317.549px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1044.04px; top: -83.4492px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1147.36px; top: -509.627px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 477.003px; top: -637.38px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 378.937px; top: -63.2382px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1060.95px; top: -343.48px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1165.26px; top: -277.735px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1301.88px; top: -499.377px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1071.3px; top: -44.8499px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 498.877px; top: -682.231px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 965.052px; top: -188.423px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1300.3px; top: -393.774px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 536.571px; top: -198.816px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 88.8283px; top: -533.953px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 76.8467px; top: -537.086px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 558.999px; top: -146.147px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 670.02px; top: -512.353px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 302.493px; top: -278.342px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 609.101px; top: -554.002px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1189.73px; top: -314.906px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 821.898px; top: -322.663px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1174.44px; top: -9.39936px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 9.16025px; top: -387.955px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 870.391px; top: -341.054px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 510.322px; top: -264.12px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1314.68px; top: 66.9082px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 685.271px; top: -440.38px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1242.93px; top: -621.851px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 847.673px; top: -0.671137px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 886.844px; top: -236.185px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 107.915px; top: -592.058px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 806.658px; top: -137.84px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 790.944px; top: -647.383px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1235.41px; top: -613.445px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1160.56px; top: -2.11928px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1269.28px; top: -376.297px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 679.559px; top: -495.692px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1018.28px; top: -66.2562px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 148.882px; top: -566.128px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 641.357px; top: 70.1839px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 387.173px; top: 46.2515px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1095.72px; top: -80.2178px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 711px; top: -435px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 656px; top: -29px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1191px; top: -236px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 145px; top: -507px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 254px; top: -293px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 654px; top: -648px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 615px; top: -471px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 474px; top: -381px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 357px; top: -257px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 8px; top: -466px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 144px; top: -678px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 372px; top: -333px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 66px; top: -466px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 977px; top: -466px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 313px; top: -253px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 80px; top: -437px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 769px; top: -108px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 260px; top: -160px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 67px; top: -621px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1279px; top: -48px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 162px; top: -695px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 570px; top: -770px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 327px; top: -471px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 183px; top: -739px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 435px; top: -34px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 899px; top: -556px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1038px; top: -546px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 991px; top: -483px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1281px; top: -285px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 444px; top: -348px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1122px; top: -190px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 625px; top: -497px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 351px; top: -80px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 468px; top: -124px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 191px; top: -105px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 458px; top: -680px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 429px; top: -113px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1188px; top: -139px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1136px; top: -260px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 951px; top: -739px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 389px; top: -550px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1096px; top: -524px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 446px; top: -499px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1009px; top: -114px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 869px; top: -566px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 971px; top: -422px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 881px; top: -748px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 195px; top: -505px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 971px; top: -426px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 156px; top: -158px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 581px; top: -15px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 885px; top: -157px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 133px; top: -488px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 921px; top: -413px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 941px; top: -332px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 531px; top: -320px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 207px; top: -352px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 48px; top: -517px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 380px; top: -625px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 244px; top: -46px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 81px; top: -57px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 987px; top: -215px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1173px; top: -549px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 138px; top: -101px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 385px; top: -264px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 6px; top: -213px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 740px; top: -496px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 443px; top: -230px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 767px; top: -167px;"><img src="/img/snowstorm/4.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 843px; top: -182px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 407px; top: -430px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 99px; top: -454px;"><img src="/img/snowstorm/1.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 962px; top: -350px;"><img src="/img/snowstorm/3.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 780px; top: -600px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 227px; top: -568px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 769px; top: -454px;"><img src="/img/snowstorm/2.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 9px; top: -145px;"><img src="/img/snowstorm/0.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 1130px; top: -211px;"><img src="/img/snowstorm/5.png" style="position: absolute; width: 5px; height: 5px; font-size: 1px; z-index: 0; display: block; bottom: auto; left: 559px; top: -24px;"></html>
+</body></html>
