@@ -1,77 +1,59 @@
-> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207102000id_/http%3A//www.clubcall.com/clubcall/servlet/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090107id_/http%3A//www.clubcall.com//privacy-policy.html) for the most accurate reproduction.*
 
-# ClubCall.com
+# Privacy Policy - ClubCall.com
 
-[](http://www.clubcall.com/)
+Independent Content Services Limited (ICS) ('Clubcall.com') strongly believe in protecting the confidentiality and security of information we are privilege to about the individuals who use our products. The details below describe our privacy policy and how we treat the information we receive about you.
 
-**PRIVACY POLICY**
+ **Why We Ask To Know About You**  
+We are keen to know about you in order to provide you with information on products, services and sports content that will be better suited to your individual interests, while any obtained feedback on our services will aid us in detecting and preventing faults. At a basic level we will ask for details about your address, age and preferences.
 
-Thus plc and ClubCall is committed to protecting the privacy of all visitors to the www.clubcall.com website. 
+ **How Else We May Learn About You**  
+Most of the information we receive comes from you. However, we may also gain more information as you interact with the various services we provide ie. our competitions, message boards and transactional areas. We do not collect personally identifiable information and always try to ensure the information we have about you is correct and complete.
 
-This document outlines our general privacy policy. This policy may change from time to time without specific notice, so please check regularly. 
+ **Your Right To Opt Out**  
+Whenever we ask for information about you there will always be the option to either "opt in" or "opt out" of receiving promotional and/or marketing information about other products, services and offers from the company and/or third parties on whose behalf we may send out information. Should you agree we may contact you about other Clubcall.com services to which you do not subscribe but which may interest you. There is the option to "opt out" at any time from receiving further promotional information via email or other communication means and upon request, we will use commercially reasonable efforts to remove your personal information from our database.
 
-**What Information does Thus plc and ClubCall collect about me when I visit the site?**  
-Thus plc and ClubCall collect very little information about visitors to www.clubcall.com. 
+ **How We Protect Your Information**  
+We treat the information we hold on you as confidential and may retain it for a reasonable period. Clubcall.com employees take care in handling this information and will only request it when there is a good reason to do so. We make every effort to ensure the information held on our databases is secure.
 
-However, every time you view a page on www.clubcall.com, we may store web server logs which show your IP address (the Internet number which your machine uses when it is connected to the Internet), or the IP address of the web proxy you use. In addition we may store other information your web browser passes to us including what you looked at; whether the page request was successful or not; the time at which you accessed the page; and which browser you used to view the pages. 
+ **How We Use and Disclose Your Information**  
+Except where the law permits or unless you specifically agree, Clubcall.com does not sell or rent your personal data to others outside Clubcall.com and its subsidiaries.
 
-**What does Thus plc do with this web log information?**  
-The use of this data is strictly for statistical purposes only. This helps us understand which areas of the site are of particular interest and also which pages are being requested that no longer exist. It also tells us how many hits and page requests we get. 
+We may use anything we know about you to enable us to serve you better. We will not disclose your information to any third party except if they are involved in a relevant service.
 
-**How long do Thus plc keep this web access log information?**  
-We process the logs into statistical form on a daily basis. The original logs are destroyed within twelve months of being stored. 
+You will generally know if a transfer of your personal data has taken place unless the third parties are working on our behalf - our subcontractors, administrators (eg for processing credit card payments) or our professional advisers or should the data be required to be disclosed by law or to a regulator.
 
-**Who do you share the web access log information with?**  
-We very rarely share any of the information collected from your accesses to our site with anyone outside Thus plc. 
+Should a business division be sold to another company and your personal data is used by that business the data may be transferred to the buyer along with the business for them to use in the same way.  
+ **  
+Availability and Correction Of Your Information**  
+Should you request by writing or email, we will generally let you review what information we hold about you. Should the information prove to be incorrect we will review it and correct our records upon agreement with you.
 
-It is possible that we may supply aggregate statistical information to third parties for statistical analysis purposes. Such information will be entirely anonymous. 
+ **Protection Of Your Data in Our Sites' Public Areas**  
+You should be aware that should you voluntarily disclose personally identifiable information such as usernames or email addresses on public areas of our websites (eg on message boards) - that information, can be collected and used by third parties which may lead to unsolicited messages from other third parties and such activities are beyond our control.
 
-We would never release non-statistical information about particular IP addresses except in response to a court order or if we are required to do so by law, or if we are investigating a breach of the Acceptable Use Policy and we consider it necessary to disclose your details to a third party. 
+ **How We Use IP Addresses**  
+Your IP address may be used to help us diagnose any problems with our server or to help us administer our websites. Your IP address may be used to help identify you while it will help us gather broad demographic information to enable us to understand our users requirements.
 
-**What about cookies?**  
-A cookie is a small amount of data which is sent to your browser and stored on your computer from the web server. They are usually used to help remember who you are and what interests you for when you next visit the website.  
-When you visit the www.clubcall.com website we store in a cookie, information about your favourite team, your login-id and password (if you have registered with the site). This is then used to automatically route you to your teams page. 
+ **Our Use Of Cookies**  
+We collect non-personal information and data through the standard operation of our servers or through the use of cookies. Cookies are small text files which enable us to identify a repeat user.
 
-**What if I click on a banner link?**  
-From time to time www.clubcall.com hosts links to other web sites using banners. No information about your visit to www.clubcall.com is passed to any site if you click on a banner. 
+This will help us improve your use of the site to enable us to make content improvements and targeted advertising. The may help you, for example, by delivering content specific to your interests, or to save your password for specific areas of the site so you do not have to re-type it every time you return. Should you not want information collected through the use of cookies most browsers will allow you to enable or disable their use on your computer - you should be aware by turning off this browser feature certain features (eg. customised sports news delivery) may become unavailable.
 
-However, if you click on a banner or indeed follow any other link from www.clubcall.com to another site then that other site will be aware that you have been looking at www.clubcall.com. 
+ **Advertising on our web sites**  
+Where advertising is placed on our web pages there could be cookies used to collect technical information and general usage information although third party advertisers will not be able to relate this to you personally unless you provide your consent.
 
-**What happens if I enter a competition or apply for a special offer?**  
-From time to time we will run special offers and competitions. To enter these special offers or competitions you will need to provide your name, address, email address, username, password, age, sex and details of your main club. 
+ **Links to Other Sites**  
+Should any of our sites contain links to other sites outside our group we can not be responsible for their content or handling of your information.
 
-We will only use this data for the purposes of the special offer or competition unless stated otherwise, in which case you will be given the choice to opt-out of the use of your data for any other purpose. 
+Thank you for reading this privacy policy and choosing to use our products and sites as a reliable source of sports news and opinion on the Internet. Should you have any further queries about how we use data or your rights and privileges as a user then please feel free to contact our Customer Relations Team via the details below.
 
-**What if I subscribe to www.clubcall.com?**  
-We will ask for the minimal amount of data that is required for us to set up your user account. This will include your name, address, email address and telephone number. We may also ask you other questions. If we do, it will be clearly stated that you need not answer these questions and that failing to answer will not affect your account. 
+Independent Content Services Ltd  
+St Andrews House,   
+St Andrews Street,   
+Leeds,   
+LS3 1LF
 
-**Who do you share this personal data with?**  
-The personal data we collect when you subscribe to the www.clubcall.com service will be used mainly for subscription purposes. 
+T: 0870 428 6951  
+info@ics-sport.com
 
-However, Thus plc and ClubCall may also use this data for statistical purposes and also for marketing purposes unless you have specifically requested for us not to use it in this way. We may also send you marketing information to your email address. 
-
-We may also share this subscription data in its raw form, or in aggregate to our associates, partners and third parties for statistical or marketing purposes, again, unless you have specifically requested us not to do so (by ticking/unticking the relevant boxes at the point of subscription). These third parties may chose to use this personal data, including your email address, to send you marketing information. 
-
-**What about security of any personal data that I do submit?**  
-All data that is collected from the site, be that web site access logs, competition entry information or special offer information is stored in a secure environment which is protected from unauthorised access, improper use, alteration, unlawful or accidental loss or destruction. 
-
-**How long is any personal data kept?**  
-Any personal data (name, address, telephone numbers, email addresses, etc.) that we collect for competitions or offer purposes will only be stored for up to 12 months after the end of the competition or the offer and we will destroy all data relating to the competition or offer. 
-
-Any personal data that we collect when you subscribe to the site will be kept whilst you are a registered user. This data will only be stored for up to 12 months after the end of your subscription. 
-
-**What if I have not given consent, how do you know?**  
-We maintain databases of the information you submit. If you have opted not to consent to any additional use of your data, then this will be flagged in these databases and we will not contact you for any reason other than those stated at the time you submit your information. 
-
-**How can I correct any information that I have submitted?**  
-Write to us at the following address if you require us to alter any information which you have submitted to us as part of a competition entry, special offer or subscription: 
-
-**ClubCall - Legal**  
-Avalon House,  
-57-63 Scrutton Street,  
-London EC2A 4PF  
-tel. 0207 613 6112. 
-
-
-**Who can I contact about this privacy statement?**  
-Any questions about this privacy policy should be sent via email to [legal@clubcall.com](mailto:legal@clubcall.com). 
+Company registration number: 4533988
