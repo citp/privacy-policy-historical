@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161947id_/http%3A//xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202419id_/http%3A//www.xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
 
-# All about XOOPS : XOOPS Project
-
-Who's Online
-
-**86** user(s) are online ( **1** user(s) are browsing **All about XOOPS** )
-
-Members: 2  
-Guests: 84
-
-[Shiva](http://www.xoops.org/userinfo.php?uid=51009 "Shiva"), [sailjapan](http://www.xoops.org/userinfo.php?uid=41644 "sailjapan"), more... 
-
-| 
-
-  
-
-
-#### How XOOPS.org handles your private data
+# Privacy Statement : XOOPS Project!
 
 The XOOPS organisation ("XOOPS") is committed to protecting the privacy of users of the XOOPS.org sites. We intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the XOOPS.org sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used.
 
@@ -48,7 +32,7 @@ Email Display: In some cases, users may have the opportunity to use the XOOPS.or
 
 On the XOOPS.org sites, users can view their data on their personal profile page. Users are permitted to update their personal information directly through XOOPS.
 
- **ecurity**
+ **Security**
 
 To secure site integrity, XOOPS employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures.
 
@@ -67,16 +51,3 @@ To update the Privacy Statement, we will post both the changed version and its e
  **No Guarantees For Factors Beyond XOOPS's Control**
 
 While this Privacy Statement expresses XOOPS's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond XOOPS's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, XOOPS disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
-
-  
-  
-  
-
-
-| 
-
-Developers for Hire
-
-[](http://www.xoops.org/modules/newbb/viewtopic.php?topic_id=64294&forum=30)  
-  
----|---|---
