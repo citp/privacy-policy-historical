@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219222921id_/http%3A//www.connectyourcare.com/cyc2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619234945id_/http%3A//www.connectyourcare.com/cyc2/privacy.html) for the most accurate reproduction.*
 
 # ConnectYourCare Consumer-Directed Healthcare Administration of HSA, HRA, and FSA plans
 
@@ -34,4 +34,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 We reserve the right to disclose your personally identifiable information as required by law or when we believe that disclosure is necessary to protect our rights and/ or to comply with a judicial proceeding, court order, or legal process served on us or on our website. 
 
-[](https://web.archive.org/web/20081219222921id_/http%3A//www.connectyourcare.com/cyc2/glossary.html)
+[](https://web.archive.org/web/20090619234945id_/http%3A//www.connectyourcare.com/cyc2/glossary.html)
