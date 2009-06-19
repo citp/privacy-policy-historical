@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardwaresuperstore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082511id_/http%3A//www.acehardwaresuperstore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardwaresuperstore.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090054id_/http%3A//www.acehardwaresuperstore.com/privacy.php) for the most accurate reproduction.*
 
 # Ace Hardware Superstore, Ace Hardware, Ace Hardware Store, Ace, Hardware
 
