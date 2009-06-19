@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the racingone.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219021610id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the racingone.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619045008id_/http%3A//www.racingone.com/genArticle.aspx%3Fartnum%3D29747) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<title>RacingOne - Nascar Racing: Auto Racing, Nascar News, Racing News, Nascar Online, Nascar 2008, Nascar Drivers, Nascar, Racing, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, Ryan Newman, Matt Kenseth, Jimmie Johnson</title>
+	<title>RacingOne.com - Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="ROBOTS" content="INDEX,FOLLOW">
 	<meta name="KEYWORDS" content="NASCAR, NASCAR Tickets, Race Tickets, NASCAR Merchandise, NASCAR Racing, NASCAR News, NASCAR Schedules, NASCAR Statistics, NASCAR Videos, NASCAR Podcasts, NASCAR Photos, NASCAR 2008, NASCAR Sprint Cup Series, Sprint Cup Series, NASCAR Nationwide Series, Nationwide Series, World of Outlaws, World of Outlaws Photos, World of Outlaws News, World of Outlaws Drivers, Advance Auto Parts World of Outlaws Series, Sprint Car Racing, Sprint Car News, Sprint Car">
@@ -75,7 +75,7 @@
        div.style.left = '0px';
        divID = div.id;
        movedown = parseFloat(pos) * 23;
-        if (parseFloat(pos) < 2){
+        if (parseFloat(pos) < 4){
             div.style.top = movedown + 'px';
         }
         
@@ -90,6 +90,15 @@
         document.getElementById('subStatss').href = subStatssURL + urlKey;
         document.getElementById('subTrack').href = subTrackURL + urlKey;
         document.getElementById('subDrivers').href = subDriversURL + urlKey;
+        
+        if(urlKey == "?seriesID=21&subid=42" || urlKey == "?seriesID=22&subid=46")
+        {
+            document.getElementById('subDrivers').innerHTML = 'Riders';
+        }
+        else
+        {
+            document.getElementById('subDrivers').innerHTML = 'Drivers';
+        }
         
         if(urlKey == "?seriesID=1&subid=1")
         {
@@ -108,20 +117,42 @@
     function animateDown(divID){
         div = document.getElementById(divID);
         newValue = div.style.top;
-        newMoveValue = parseFloat(newValue) + 50;
-        if (newMoveValue < 160){
-            div.style.top = newMoveValue + 'px';
-            movingdown = setTimeout('animateDown(\'' + divID + '\')',20);
+        if(divID == 'menuOne')
+        {
+            newMoveValue = parseFloat(newValue) + 52;
+            if (newMoveValue < 170){
+                div.style.top = newMoveValue + 'px';
+                movingdown = setTimeout('animateDown(\'' + divID + '\')',20);
+            }
+        }
+        else
+        {
+            newMoveValue = parseFloat(newValue) + 50;
+            if (newMoveValue < 160){
+                div.style.top = newMoveValue + 'px';
+                movingdown = setTimeout('animateDown(\'' + divID + '\')',20);
+            }
         }
     }
     
     function animateUp(divID){
         div = document.getElementById(divID);
         newValue = div.style.top;
-        newMoveValue = parseFloat(newValue) - 50;
-        if (newMoveValue > -160){
-           div.style.top = newMoveValue + 'px';
-           movingup = setTimeout('animateUp(\'' + divID + '\')',20);
+        if(divID == 'menuOne')
+        {
+            newMoveValue = parseFloat(newValue) - 52;
+            if (newMoveValue > -170){
+               div.style.top = newMoveValue + 'px';
+               movingup = setTimeout('animateUp(\'' + divID + '\')',20);
+            }
+        }
+        else
+        {
+            newMoveValue = parseFloat(newValue) - 50;
+            if (newMoveValue > -160){
+               div.style.top = newMoveValue + 'px';
+               movingup = setTimeout('animateUp(\'' + divID + '\')',20);
+            }
         }
     }
     
@@ -184,7 +215,7 @@
 														<tbody><tr>
 															<td valign="top" class="dividerLineQuicklinks">
 															<a href="/schedule.aspx?seriesID=1&amp;subID=1">Sprint Cup Schedule</a><br>
-															<a href="http://www.racetickets.com/travel.cfm">Book a Hotel for the Race</a><br>
+															<a href="http://www.myracetravel.com">Book a Hotel for the Race</a><br>
 															<a href="/stations.aspx">MRN Affiliate Stations</a>                    
 															</td>
 															<td valign="top" class="dividerLineQuicklinks"> 
@@ -276,7 +307,7 @@
 															<ul class="tabsRTC">
 																<li class="tab" id="first_tab"></li>
 																<li class="tab"><a href="http://www.racetickets.com/index.cfm?PromotionCode=R1BANNER89">Tickets</a></li>
-																<li class="tab"><a href="http://www.racetickets.com/travel.cfm?tabs=trv">Travel</a></li>
+																<li class="tab"><a href="http://www.myracetravel.com/index.cfm?PromotionCode=R1BANNER89" target="_blank">Travel</a></li>
 																<li class="tab"><a href="http://www.myracetravel.com/index.cfm?PromotionCode=R1BANNER89" target="_blank">Travel Packages</a></li>
 																<li class="tab" id="last_tab"></li>
 															</ul>
@@ -319,7 +350,7 @@
 					</tr>
 				</tbody></table>
 			</div>
-			<div id="menuOne" style="position:absolute;left:81px;top:-150px;z-index:2;padding:0px;" onmouseout="javascript:animateMenuUp(document.getElementById('menuOne'));">
+			<div id="menuOne" style="position:absolute;left:81px;top:-160px;z-index:2;padding:0px;" onmouseout="javascript:animateMenuUp(document.getElementById('menuOne'));">
 				<div id="fullcontainer" style="padding:0px;">
 					<div id="background" style="position:absolute;z-index:4;width:184px;" class="background">
 						<div id="backgroundInside" class="backgroundInside">
@@ -336,6 +367,10 @@
 	                                </td>
 								</tr>
 								
+								<tr>
+									<td class="solid_line"></td>
+								</tr>
+								
 								
 								<tr>
 									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),1,'?seriesID=1&amp;subid=2');" onmouseout="cancelEvents();">
@@ -346,6 +381,10 @@
 									</a>
 									</div>
 	                                </td>
+								</tr>
+								
+								<tr>
+									<td class="solid_line"></td>
 								</tr>
 								
 								
@@ -392,6 +431,10 @@
 	                                </td>
 								</tr>
 								
+								<tr>
+									<td class="solid_line"></td>
+								</tr>
+								
 								
 								<tr>
 									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),5,'?seriesID=4&amp;subid=12');" onmouseout="cancelEvents();">
@@ -402,6 +445,10 @@
 									</a>
 									</div>
 	                                </td>
+								</tr>
+								
+								<tr>
+									<td class="solid_line"></td>
 								</tr>
 								
 								
@@ -432,6 +479,10 @@
 	                                </td>
 								</tr>
 								
+								<tr>
+									<td class="solid_line"></td>
+								</tr>
+								
 								
 								<tr>
 									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),8,'?seriesID=5&amp;subid=13');" onmouseout="cancelEvents();">
@@ -450,14 +501,34 @@
 								
 								
 								<tr>
-									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),9,'?seriesID=10&amp;subid=9');" onmouseout="cancelEvents();">
+									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),9,'?seriesID=21&amp;subid=42');" onmouseout="cancelEvents();">
 									<div align="left">
-									<a href="/series.aspx?seriesID=10&amp;subID=9" class="nav_rollover">
-									USAC
+									<a href="/series.aspx?seriesID=21&amp;subID=42" class="nav_rollover">
+									AMA Supercross
 									
 									</a>
 									</div>
 	                                </td>
+								</tr>
+								
+								<tr>
+									<td class="solid_line"></td>
+								</tr>
+								
+								
+								<tr>
+									<td onmouseover="javascript:animateMenuRight(document.getElementById('submenu'),10,'?seriesID=22&amp;subid=46');" onmouseout="cancelEvents();">
+									<div align="left">
+									<a href="/series.aspx?seriesID=22&amp;subID=46" class="nav_rollover">
+									AMA Pro Road Racing
+									
+									</a>
+									</div>
+	                                </td>
+								</tr>
+								
+								<tr>
+									<td class="solid_line"></td>
 								</tr>
 								
 								
@@ -688,7 +759,7 @@
                                         <!--
                                             document.write('<SCR'+'IPT src="http://adserver.racingone.com/servlet/view/banner/javascript/zone?zid=122&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
                                         //-->
-                                        </script><script src="http://adserver.racingone.com/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;random=31628205&amp;millis=1580453236464" language="JavaScript" type="text/javascript"></script>
+                                        </script><script src="http://adserver.racingone.com/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;random=16341890&amp;millis=1580453237920" language="JavaScript" type="text/javascript"></script>
                                         <noscript>
                                             <A href="http://adserver.racingone.com/servlet/click/zone?zid=122&pid=0&lookup=true&position=1" target="_blank">
                                                 <IMG src="http://adserver.racingone.com/servlet/view/banner/image/zone?zid=122&pid=0&position=1" height="600" width="160" hspace="0" vspace="0" border="0" alt="Click Here!">
@@ -729,8 +800,7 @@
 						<table width="100%" border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
 								<td class="footertext"><div align="left"><span class="white_11pt_type">
-								©2001-2008 RacingOne.com | All Rights Reserved Do not duplicate in any form without permission of RacingOne.com.<br>
-								Travel Powered by Orbitz</span>
+								©2001-2009 RacingOne.com | All Rights Reserved Do not duplicate in any form without permission of RacingOne.com.</span>
 								</div></td>
 								<td align="right" width="154"><img src="images/footer_rmg3.gif" width="154" height="55"></td>
 							</tr>
@@ -748,7 +818,7 @@
 _uacct = "UA-159551-2";
 urchinTracker();
 </script>
-<!-- PERFMONKEY:49EC3A6CD09559A340A0C01CF3EA8D72 -->
+<span id="footer_monitor"><!-- PERFMONKEY:49EC3A6CD09559A340A0C01CF3EA8D72 --></span>
 
 
 
