@@ -1,11 +1,49 @@
-> *The following text is extracted and transformed from the hiremymom.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624023957id_/http%3A//www.buydomains.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiremymom.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619124527id_/http%3A//hiremymom.com/privacypolicy) for the most accurate reproduction.*
 
-# Buy Domains
+# HireMyMom.com - Privacy Policy
 
-Privacy Statement
+Privacy Policy  
 
-BuyDomains (or Seeq) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via price request and other forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from BuyDomains (or Seeq) and appropriate third parties.
 
-BuyDomains (or Seeq) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with BuyDomains' (or Seeq's) standards for integrity and objectivity. Email originating at BuyDomains (or Seeq) contains clear and efficient instructions for opting out of future emails of its kind.
+HBWM.com Inc. (referred to herein as "HBWM.com," “Home-Based Working Moms,” "We," "Us", or collectively, as "Company") is committed to maintaining the privacy of your information and to safeguard your privacy online. Please read the information below about our use of your Personal Information (defined below). This privacy policy sets forth our practices regarding the collection and use of "Personal Information" from people who have registered with HireMyMom.com (under HBWM.com Inc.) through our membership registration. If you are a HireMyMom.com member, "Personal Information" means information that personally identifies you, including for example, your name, address, email address, phone number and your credit card or other payment information. "Web Site" means this website under the domain HireMyMom.com.
 
-If you need assistance in updating the information you have provided to BuyDomains (or Seeq) or you have questions or comments about these policies, contact BuyDomains' (or Seeq's) manager of customer information with our [support form](https://web.archive.org/mailform/support_form.jsp).
+  
+Questions, comments, or requests regarding this privacy policy should be directed to us as follows: HBWM.com Inc., PO Box 1628, Spring TX 77383 or by email using our [Contact Us](https://web.archive.org/web/20090619124527id_/http%3A//hiremymom.com/contact) form.  
+Collection of Information. We do not collect any Personal Information about you unless you voluntarily provide it to us. You provide certain Personal Information to us when you (a) register for HireMyMom.com and register your email address with us; (b) enter sweepstakes or contests sponsored by us; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms or send other information.
+
+  
+We do not wish to obtain Personal Information from individuals under the age of 18.  
+Disclosure of Information. Unless we tell you otherwise, we do not give, sell or rent your Personal Information to any third parties unless we have received your express approval to do so. You should note that Personal Information that you voluntarily disclose in any chat rooms, forums, message boards and/or news groups that are offered on the Web Site may be disclosed to and used by third parties.
+
+  
+Use of Information. We use Personal Information, among other things, to anticipate and resolve problems with your service, to personalize your service, to investigate activity that may violate our membership, and to develop and market products and services that may be of interest to you. However, unless you tell us otherwise, we will not use Personal Information collected from the Web Site to send unsolicited mailings to you.
+
+  
+Third Party Sites. This policy only addresses our activities from our servers. Other sites (including those third party sites or services which we may co-brand) may have their own policies and practices, which we do not control, and thus are not addressed by this policy.
+
+  
+Review and Removal of Your Personally Identifiable Data. If you provide us with Personal Information during your use of the Web, you can opt out of receiving email messages from us about products and services that may be of interest to you at any time by by emailing us.
+
+  
+You can also opt out of having us disclose your Personal Information to our third party partners that provide certain features of the service (in which case you will not be able to access these features). To the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. If you wish to have information you provided to us online removed from our records, please provide us with the information as you submitted it to us, as follows:  
+HBWM.com Inc.  
+PO Box 1628  
+Spring TX 77383  
+or [by email](https://web.archive.org/web/20090619124527id_/http%3A//hiremymom.com/contact).
+
+We will use all reasonable efforts to ensure that your information is removed from our records. Notwithstanding the foregoing, you should understand that Personal Information previously disclosed by us to third parties before you delete or change such information in our database will be used according to such third parties' privacy policies.
+
+  
+Cookies and Other Tracking Methods. When you view our Web Site, we might store some information on your computer. Our servers automatically collect information about which pages you visit, your browser type, your IP address, your most-recently visited URL, your preferences, and in the future, other Personal Information so it doesn't need to be reentered. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your computer hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. Cookies can help us provide information that is targeted to your interests, and they allow us to better understand how you like to use our Web Site, which in turn helps us focus our resources on features that are the most popular. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case. In some cases we may track or collect information about your use of our service by the numeric address assigned to the computer you are using (your IP address) or by the URLs that you come from or leave to. These methods allow us to resolve server problems or administer your service. Generally, we do not associate this information with any other Personal Information that you have provided to us. We may also automatically collect and store statistics and other information about you and your use of the Web Site both on an aggregate, non-personally identifiable basis and in a manner that may allow us to associate such information with other Personal Information about you.
+
+Any ads appearing on HireMyMom.com website may be delivered by a third party. In the course of delivering an ad to you, the third party collects certain non-personally identifiable information about you. This information is used to deliver tailored ads to you.
+
+  
+Security. We use industry-standard methods to protect your Personal Information from unauthorized access. Among other techniques, we store such information on a computer in a secure location. We are not responsible if some other third party gains access to the database or your membership information by evading our security measures or otherwise obtains access to the database, your Personal Information.
+
+  
+Amendments. Amendments to this policy will be posted at this URL and will be effective when posted.
+
+  
+Further Information. We cannot ensure that your private communications and other Personal Information will not be disclosed to third parties. By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or we might disclose your information to other sites as part of offering additional functionality to you. Additionally, we can (and you authorize us to) disclose your Personal Information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, we do not promise that your Personal Information or private communications will remain private. You acknowledge that this privacy policy is part of our Membership and you agree to be bound by all of its terms and conditions.  
+
