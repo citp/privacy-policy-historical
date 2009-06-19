@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cwahi.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219010531id_/http%3A//www.cwahi.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwahi.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619162635id_/http%3A//cwahi.net/privacy.php) for the most accurate reproduction.*
 
-# CWahi.net - Privacy Policy
+# CWahi.Net - Free Web Hosting - Privacy Policy
 
 ### Legal Info: Privacy Policy Statement
 
