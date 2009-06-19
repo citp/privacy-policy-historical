@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609173902id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203214id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
 
 # Customer Notifications : Blue Ridge Communications
 
@@ -11,8 +11,6 @@
 
   * **You Are Here:**
   * [Home](https://web.archive.org/)
-  * > [Customer Care](https://web.archive.org/customer_care/)
-  * > [Customer News](https://web.archive.org/customer_care/customer_news/)
   * > Customer Notifications
 
   
@@ -156,4 +154,5 @@ Water Street, Duncannon, PA 17020 (717) 834-5715
 15 Crafton St., Wellsboro, PA 16901 (570) 724-4516   
   
   
-| 
+|  |   
+---
