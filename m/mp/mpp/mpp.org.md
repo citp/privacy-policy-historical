@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007015635id_/http%3A//www.mpp.org/site/c.glKZLeMQIsG/b.1826921/k.9F1D/Privacy_Policy/apps/s/link.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052457id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Marijuana Policy Project - Privacy Policy
+# MPP's Privacy Policy
 
 Protecting your privacy is important to the Marijuana Policy Project (MPP). We are committed to keeping your personal information confidential.
 
@@ -20,7 +20,7 @@ MPP is dedicated to providing a safe and secure environment for your personal in
 
 MPP safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet.
 
-MPP uses industry-standard Secure Sockets Layer (SSL) encryption on all Web pages where donations are submitted. To make donations to MPP or organizations supported by MPP, you must use an SSL-enabled browser such as Netscape Navigator 3.0 or later, or Internet Explorer 5.0 or later. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
+MPP uses industry-standard Secure Sockets Layer (SSL) encryption on all Web pages where donations are submitted. To make donations to MPP or organizations supported by MPP, you must use an SSL-enabled browser. (Any current version of Firefox, Internet Explorer or Safari will work.) This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
 
 ### Access to your personal information
 
