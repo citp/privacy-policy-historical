@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101638id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211800id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
 
 # House Plans & Home Designs from Architectural Designs - Privacy Policy
 
@@ -11,7 +11,7 @@
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-| ** Search Results ** |  | **[We Are](http://www.architecturaldesigns.com/about/weare.asp)** |  | **[Prices](http://www.architecturaldesigns.com/about/price.asp)** |  | **[Terms](http://www.architecturaldesigns.com/about/terms.asp)** |  | **[Copyright](http://www.architecturaldesigns.com/about/copyr.asp)** |  | **Privacy  Policy** |  |   
+| **[Search Results](http://www.architecturaldesigns.com/house-plan-73035hs.asp) ** |  | **[We Are](http://www.architecturaldesigns.com/about/weare.asp)** |  | **[Prices](http://www.architecturaldesigns.com/about/price.asp)** |  | **[Terms](http://www.architecturaldesigns.com/about/terms.asp)** |  | **[Copyright](http://www.architecturaldesigns.com/about/copyr.asp)** |  | **Privacy  Policy** |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---  
   |  | **Privacy Policy**  
