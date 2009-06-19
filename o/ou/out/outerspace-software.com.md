@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104909id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043358id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
 # Outerspace Software: 3D Effects for Video Titling and Digital Signage - Privacy Policy
 
@@ -19,10 +19,6 @@ When you buy a product we need to collect payment and shipping information from 
 ### Credit card orders
 
 Secure credit card orders are handled by our online credit card processing partner Share-It! Please contact [Share-It!](http://www.shareit.com/) for their privacy policy. Note that Share-It! does NOT transfer your credit card information to us, they only inform us that the credit card charge has been authorized.
-
-### Online activation
-
-Our products require online activation. No other information than your license keys are sent to our server during online activation.
 
 ### Mailing list
 
