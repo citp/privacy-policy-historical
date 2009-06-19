@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912104400id_/http%3A//www.shimonsandler.com%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619053843id_/http%3A//www.shimonsandler.com%3Fpage_id%3D234) for the most accurate reproduction.*
 
-# Privacy Policy » Shimon Sandler - SEO Consultant
+# Privacy Policy - Shimon Sandler - SEO Consultant
 
 This is the web site of ShimonSandler.com.
 
@@ -32,4 +32,4 @@ Consumers can access this information by e-mail us at the above address.
 
 Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
