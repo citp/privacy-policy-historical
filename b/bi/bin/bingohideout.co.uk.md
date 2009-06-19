@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604094624id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingohideout.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619033253id_/http%3A//www.bingohideout.co.uk/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement, Bingo Hideout are independently verified by Trust Guard | Bingo Hideout
 
-[ ](https://secure.trust-guard.com/seal/certificates/bingohideout.htm)
+[ ](https://secure.trust-guard.com/certificates/www.bingohideout.co.uk)
 
 Bingo Hideout has created this privacy statement in order to demonstrate our firm commitment to your privacy and security. It is our policy not to sell, exchange, or release ANY of your individual personal information to a third party without your expressed permission. Our site's registration form requires users to give us contact information (like their name and email address). We use your IP address to help diagnose problems with our server, and to administer our Web site. Some sites use this for marketing. We don't. We use cookies to deliver content specific to your preferences and to save your password so you don't have to re-enter it each time you visit the forum.
 
@@ -43,3 +43,6 @@ For more information, please go to [www.ecogra.org](http://www.ecogra.org/)
 #### Contacting This Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.bingohideout.co.uk/contact/bingoben.html) at any time.
+
+|  [< Prev](http://www.bingohideout.co.uk/privacy/404.html) |    |  [Next >](http://www.bingohideout.co.uk/)  
+---|---|---
