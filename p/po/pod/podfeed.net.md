@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184003id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001148id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
 
 # Podcast directory, podcast reviews and podcasting resource : Podfeed.net
 
@@ -6,7 +6,7 @@ Podfeed.net works to protect the privacy of the individuals that visit and use. 
 
 When becoming a registered member of podfeed.net, you will be required to provide us with a member name and email address. As a registered member we may occasionaly email you news and information from podfeed.net. You may opt-out of these notifications. We will never send you material from third parties, or sell your personal information to any third parties.
 
-As a member of podfeed.net, update and modify your profile at any time. Should you have any problems changing profile or unsubscribing from any mailings, please contact us at [info@podfeed.net](mailto:info@podfeed.net).
+As a member of podfeed.net, update and modify your profile at any time. Should you have any problems changing profile or unsubscribing from any mailings, please contact us at info at podfeed.net.
 
 **Information Automatically Logged**
 
@@ -20,12 +20,16 @@ Our Site may use cookies to enhance your browsing experience by helping to remem
 
 Our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
+**Google Ads**
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
 **How to Contact Us**
 
-If you have any questions or concerns about the podfeed.net privacy policy you may contact us at [info@podfeed.net](mailto:info@podfeed.net)
+If you have any questions or concerns about the podfeed.net privacy policy you may contact us at info at podfeed.net
 
 **Updates & Effective Date**
 
 From time to time, we may update this privacy notice. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about January 17, 2006. 
+The Privacy Notice posted on this site was updated on or about April 25, 2009. 
