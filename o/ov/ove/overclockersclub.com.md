@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015941id_/http%3A//www.overclockersclub.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619223932id_/http%3A//www.overclockersclub.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Overclockers Club
 
