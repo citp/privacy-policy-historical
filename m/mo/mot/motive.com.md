@@ -1,88 +1,103 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120121208id_/http%3A//www.motive.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085809id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-Motive Privacy Policy
+**Our Commitment to Privacy and Protection of Your Personal Data**
 
-**COMMITMENT TO YOUR PRIVACY**
+Compagnie Financière Alcatel-Lucent (CFAL), a wholly owned subsidiary of Alcatel-Lucent, and all Alcatel-Lucent legal entities (collectively “Alcatel-Lucent”) recognize that our employees, and the individuals who represent companies with whom we conduct business, value their privacy. However, in order to conduct a global business in this increasingly electronic economy, the collection of the personal data of individuals is often necessary. We respect your right to privacy and are committed to protecting your personal data. It is our goal to balance the benefits of e-commerce with your right, as an individual, to prevent the misuse of your personal data.
 
-This site is owned and operated by Motive, Inc (“Motive”). We understand you value your privacy. At Motive, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of this website and tells you how we may collect, use, and in some instances share this information.
+**What Is Personal Data**
 
-**INFORMATION MOTIVE COLLECTS**
+Personal data means any information that, when used alone or combined with other data, may be 
 
-Motive gathers two types of information about this website’s users: 
+used to identify an individual. This includes, but is not limited to, an individual’s first and last name, e-mail address, mailing and/or residential addresses, telephone number, title, birth date, gender, occupation, customer contact information and/or other personal information that may be required in order for us to provide a service you request, or may have requested, at our web sites.
 
-  * Personal information that users provide through optional, voluntary submissions, such as email and online registration forms to Motive. Personal information means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, and e-mail address. The types and amount of personal information collected for these activities will vary depending on the activity or service for which you have registered or accessed the website. 
-  * Motive also gathers non-personal information through aggregated tracking information derived mainly by tallying page views throughout our sites. This non-personal information collected includes click-throughs, IP addresses, and usage data. This non-personal information allows us to better tailor our content to site users’ needs. 
+**Compliance With Laws**
+
+Alcatel-Lucent strives to comply with all applicable and known laws around the world that are designed to protect your right to privacy and prevent misuse of your personal data. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Global Privacy and Data Protection Web Site Policy Statement even if we transfer your personal data from your country of residence to countries that may not provide the same privacy rights or require the same level of protection for your personal data. Our commitment is to protect your personal data no matter where it is collected, transported, processed or retained.
+
+**US Subsidiary - Safe Harbor Privacy Statement**
+
+For personal data of individuals that the Alcatel-Lucent US subsidiary, Alcatel-Lucent USA Inc., receives from countries covered by the European Directive 95/46/EC, Alcatel-Lucent is committed to handling such personal data in accordance with the Safe Harbor Principles. You can find the Safe Harbor certification of Alcatel-Lucent USA Inc. at: [**http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list**](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's web site at <http://www.export.gov/safeharbor/SH_overview.asp>.
+
+**Web Sites Covered by Our Privacy Statement**
+
+This Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement applies to all web sites and domains of Alcatel-Lucent ([www.alcatel-lucent.com](http://www.alcatel-lucent.com/)). Alcatel-Lucent web sites may provide links to unaffiliated third-party web sites for your convenience and information; however, Alcatel-Lucent does not control those unaffiliated third-party web sites or (except where Alcatel-Lucent is providing your personal data to a third party with whom Alcatel-Lucent has contracted for services) their privacy policies or practices as they relate to the use and protection of your personal data. You may visit those third-party links at your sole discretion and should read their privacy policies and statements before providing them your personal data.
+
+**Collecting Your Personal Data**
+
+You will be able to browse our web sites anonymously unless you have previously indicated that you wish Alcatel-Lucent to remember your login identification and/or password. In some circumstances, we may request you to provide personal data. Your response to such a request is strictly voluntary. Alcatel-Lucent uses this personal data to customize your experience on our web sites. We also may use your personal data for other business purposes, such as alerting you to products and services that can assist you in your business, promoting site registration, order processing and online customer service.
+
+When you visit certain Alcatel-Lucent web pages, you may need to be registered and create a password in order to log in. The use of those web pages, and the downloadable information on such web pages, may be governed by a written agreement between you, or your employer, and Alcatel-Lucent. Unless you request your personal data to be deleted, it may be retained by Alcatel Lucent, pursuant to applicable laws, to: (i) verify compliance with the agreement, (ii) track software and documents you download; or (iii) track page visits and usage of other applications available on the Alcatel-Lucent web sites.
+
+We also may receive your personal data from our business partners and suppliers. We intend to use such personal data only if it has been collected in accordance with acceptable privacy practices consistent with the Alcatel-Lucent Global Privacy and Data Protection Policies as well as applicable laws.
+
+In general, you can visit our web sites without divulging any personal data. However, there are areas of our web sites that require us to collect personal data to complete the customization functions for which they are designed that may not be available to those individuals who elect not to provide the personal data requested. You are always welcome to visit the public portion of the Alcatel-Lucent web sites without revealing any personal data.
+
+**Use of Your Personal Data**
+
+When we collect your personal data from you, we will inform you at the time as to the reason we are requesting such personal data. The personal data will be used only for Alcatel-Lucent business purposes such as: (i) responding to your requests for products, documentation and/or services; (ii) processing your order or invoice; (iii) conducting a commercial transaction; (iv) corresponding with you and/or your company; (v) enabling your subscription or event registration; (vi) handling a job application; (vii) sending direct marketing information; and/or (viii) performing market research. We will also use your personal data to personalize the content you review and to better understand how you use the web sites in order to improve the services Alcatel-Lucent provides as well as the web site information.
+
+Upon your acceptance of the Terms of Use, which this Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement is a part, such an acceptance will include your permission to us to collect and use your personal data. However, you have the right to request Alcatel-Lucent not to contact you for the purposes of sending you newsletters, customer surveys, direct marketing materials and/or market research information. You can exercise this right by clicking on the appropriate option or checkbox at the point where the personal data is collected or by editing your personal data we have collected.
+
+In specific cases, Alcatel-Lucent may request your direct consent to use your personal data by providing an “opt-in” and/or “opt-out” checkbox in information fields before your personal data can be used for any additional purposes to that for which your consent has been or is given.
+
+**Disclosure of Your Personal Data to Third Parties**
+
+If you elect to provide us with personal data, we may transfer that personal data within the Alcatel-Lucent entities or to Alcatel-Lucent affiliated third parties or business partners. Your personal data may be transferred within your country and/or across borders from your country of residence or jurisdiction to Alcatel-Lucent entities, affiliated third parties and/or business partners in other countries around the world so that such Alcatel-Lucent entities, affiliated third parties and/or business partners may provide services and other operations required to transact business with you. Such personal data may include, but is not limited to, account information, credit card information and ordering/invoicing information.
+
+In addition, Alcatel-Lucent may share your personal data (with the exception of account, credit card, and ordering information) with other Alcatel-Lucent business partners who may desire to alert you to new products and services to improve your competitive edge, and only in cases where we believe your business interests will be served. Alcatel-Lucent will share your personal data with its business partners only if you have provided us with your consent to do so. If you do not want to receive marketing materials from any of our business partners, please do not provide contact information via the Internet, or let them know directly that you wish to be removed from their contact list.
+
+Alcatel-Lucent works with certain companies that deliver Alcatel-Lucent advertising and undertake surveys on behalf of Alcatel-Lucent. These companies may collect information to help us determine which products, services and offerings are of most interest to our current and future customers. Unless you have given your consent, implicitly or explicitly, the information collected is not identifiable at an individual level. However, it may be identifiable at a company level, with or without your consent, or aggregated at an anonymous level to provide us with general statistics and trends.
+
+In the event that Alcatel-Lucent sells a part or parts of its business, the personal data that we have collected could be transferred to the acquiring company unless you instruct Alcatel-Lucent not to do so in writing.
+
+Alcatel-Lucent reserves the right to share your personal data to respond to information requests by duly authorized governmental authorities and subject to applicable laws. In exceptionally rare circumstances, where national, state or company security is at issue (such as with the World Trade Center terrorist act in September 2001), Alcatel-Lucent reserves the right to share our entire database of employees, visitors, vendors and customers with the appropriate governmental authorities duly authorized by applicable laws.
+
+**Collecting Your Domain Information**
+
+Alcatel-Lucent also collects domain information as a part of our analysis of the use of our web sites. This data enables us to become more familiar with the individuals who visit our web sites and pages, how often they visit, and what parts of the web sites they visit most often. Alcatel-Lucent uses this information to improve our web-based offerings. This information is collected automatically and requires no action on your part.
+
+**Collecting Your Information through Cookies**
+
+Some pages on our web sites use “cookies,” which are small files that are placed on your hard drive by the web site for identification purposes. These files are used for site registration and customization for the next time you visit us. It identifies you to a web site when you revisit to load your preferences and track the pages you visit. If your browser is set up to automatically accept cookies, your browser will add this text in a small file to your hard drive. Most web browsers allow you to modify the way cookies are handled. You can refuse cookies or choose to be warned when receiving a cookie in order to be given a choice to accept or reject a cookie. By not accepting cookies, you may have to manually input user IDs and passwords to access certain information on this web site, and some pages may not fully function. Please note that the only personal data held in a cookie is personal data you have provided to Alcatel-Lucent online.
+
+**Securing Your Information**
+
+We have put in place appropriate physical, electronic and managerial procedures to (i) prevent unauthorized access to your personal data, (ii) maintain personal data accuracy, (iii) ensure correct use of information, and (iv) safeguard and secure your personal data we collect online.
+
+Please take note of the following to ensure the security of your personal data and other confidential information you may provide online:
+
+  * You should be aware that when you disclose personal data or other confidential information in discussion forums, blogs or chat rooms, such personal data or other confidential information is accessible to and collectable by others who are present or who may have access to the forum, blog or chat room.
+  * Alcatel-Lucent advises you to protect yourself against unauthorized access to your computer and disclosure of your Alcatel-Lucent password.
+  * If you believe that your password has been compromised, you should immediately change your password.
 
 
 
-**HOW MOTIVE COLLECTS AND USES PERSONAL INFORMATION**
+If you believe there has been a security breach at Alcatel-Lucent involving your personal data, please contact Alcatel-Lucent at the address provided below.
 
-**Motive.com**  
-Users of the Motive website may provide personal information through registration forms on the Motive website. This registration creates a unique identifier which generates a cookie so the Motive website will remember when you return to our website. The cookie does not contain personal information. We collect this information to process your inquiries, respond to your requests, and improve our services. The personal information collected is not used for any means beyond what is made known to you at the time of collection or as otherwise stated in this policy. You may opt-out of future communications at any time. 
+**Supporting Children’s Privacy**
 
-**My.motive**  
-Customers of Motive are provided with the ability to access our customer extranet at my.motive.com. A name and email address is required to create an account and customers have the option to provide additional personal information. The personal information collected is used to contact customers and to provide customers with updates on their projects, documents, and support tickets. In addition, registered users of my.motive may choose to create a profile and participate in our Customer Council. The personal information entered into this profile is available to all members of the Customer Council. If you would prefer your personal information to be available to members of the Customer Council please do not create a Customer Council profile. 
+Alcatel-Lucent web sites do not target, and are not intended to attract, children under the age of 13. Alcatel-Lucent does not knowingly collect personal data from children under the age of 13 or send requests to children for personal data.
 
-**Motive Solution Hosting Services**  
-Motive also provides data hosting services for other service providers. Service providers transfer to Motive their customer data for the purpose of processing such information on the service provider’s behalf and at their direction. Motive’s hosting services are provided on a confidential basis to each service provider. Motive processes the data received from the services providers in accordance with the service provider’s instructions. The service providers collect, use and disclose personal information in accordance with their own privacy policies. Motive adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection with regard to customer and personal data transferred to Motive from service providers who utilize our services. 
+**Accessing and Correcting Your Personal Data**
 
-**Usage tracking**  
-We track product usage data to improve the services we offer to our users. We collect user traffic patterns throughout our site. This information is collected to help improve site flow and usability. In addition, we track click-through information, including IP addresses, to our site from the reports and emails we sent to our customers. This is done to gauge the effectiveness of our marketing campaigns and to discourage fraudulent use. However, we do not correlate this information with the personal information of individual users. 
+Alcatel-Lucent wants to ensure that any personal data you provide remains accurate. If you have changes to your personal data, you can review and update your personal data after logging onto the web site with your user name and password. You can correct errors in your personal data by sending us a request and pointing out the error. To protect your privacy and secure your personal data, we will also take reasonable steps to verify your identity before granting access or making the corrections.
 
-**Cookies**  
-We may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Motive may use cookies to track user traffic patterns (as described above). In addition, Motive uses encrypted cookies to authenticate the user on each page after the user logs onto the website. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. Motive solution hosting services does not use cookies. 
+**Contacting Us**
 
-**Children**  
-Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to Motive through this web site represents that they are 13 years of age or older. 
+We value your opinions and feedback. If you have any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement, please send them to:
 
-**User Access**  
-Users have access to their personal information and may update their information on the website. 
+[DataPrivacy@alcatel-lucent.com](mailto:DataPrivacy@alcatel-lucent.com) or write us at:
 
-If you wish to be provided with a copy of all the personal information which Motive holds about you, please contact Motive – see section "CONTACTING MOTIVE" below. End users of service providers who utilize Motive solution hosting services may access their data through their service provider. 
+Alcatel-Lucent   
+Chief Privacy and Data Protection Counsel - Law  
+Room 6F-224  
+600 – 700 Mountain Avenue  
+Murray Hill, New Jersey 07974
 
-**MOTIVE TRANSFER AND INFORMATION SHARING POLICY**
+**Complying with and Changing Our Global Privacy and Data Protection Web Site Policy Statement**
 
-We provide information we receive from you to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf for performing the Service and other purposes identified above. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. We do not share personal information collected on this web site with third parties for their direct marketing purposes. Motive does not otherwise share personal information about site users with third parties unless doing so is appropriate to carry out a user’s request or it reasonably believes that doing so is legally required or is in Motive’s interest to protect its property or other legal rights or the rights or property of others. Motive shares non-personal information in anonymous aggregate form with third parties. This non-personal information is used by third parties to help Motive improve the Website and Motive service. 
+The Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement was last updated on 10 March 2009. Alcatel-Lucent utilizes the self-assessment approach to assure our continuing compliance with our Global Privacy and Data Protection Web Site Policy Statement. From time to time, Alcatel-Lucent verifies that the policy statement is accurate and in line with applicable laws, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the U.S. Commerce Department’s Safe Harbor Principles.
 
-**Merger or Bankruptcy**  
-If Motive should ever file for bankruptcy or have its assets sold to or merge with another entity, information Motive receives from you from this Site is a Motive asset and may be transferred. 
-
-**INTERNATIONAL VISITORS AND CUSTOMERS**
-
-This web site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to: 
-
-  * the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
-  * the transfer of your personal data to the United States as indicated above. 
-
-
-
-**SAFE HARBOR CERTIFICATION**
-
-Motive adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection with regard to customer data and personal data Motive receives when you register for its services or use its web site. Accordingly, when you visit this web site or provide personal data to Motive, we have taken steps to ensure the adequate protection of the processing of your personal data. 
-
-**SECURITY**
-
-While Motive does take steps to ensure that your personal data is protected against unauthorized or unlawful use and accidental loss or damage, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
-
-If Motive learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Motive may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Motive.com web site. Motive may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@motive.com](mailto:privacy@motive.com). 
-
-**CHANGES AND UPDATES**
-
-We may occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your continued use of this web site constitutes your agreement to this Privacy Statement and any updates. 
-
-**CONTACTING MOTIVE**
-
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@motive.com](mailto:privacy@motive.com)
-
-**Postal Mail Address:**  
-Motive, Inc.  
-ATTN: General Counsel  
-12515 Research Blvd.  
-Building 5  
-Austin, Texas 78759-2247 
-
-If you have a privacy concern regarding Motive or this policy and if you cannot satisfactorily resolve it through the use of this web site you should then write to: [privacy@motive.com](mailto:privacy@motive.com). In the event that we are still unable to resolve your concerns Motive is committed to cooperating to achieve a proper resolution of your privacy concerns. 
-
-[Last Updated: 09/07/2006]
+Alcatel-Lucent reserves the right to make changes to this policy statement from time to time without notice to you. We recommend that all visitors and users of this web site re-visit the Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement page occasionally to learn of any new privacy practices or changes to our policy. Your continued use of the Alcatel-Lucent web sites indicates your acknowledgement and/or acceptance of any changes to the Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement.
