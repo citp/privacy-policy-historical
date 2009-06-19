@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075359id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044517id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
 
 # Free Transgender Personals - Community for Transsexuals and Admirers Worldwide to find Love, Friendship and Support.
 
@@ -60,5 +60,11 @@ If at any point we decide to use particular personally identifiable information 
 **11\. How You Can Access and Update Your Email Preferences, Personal Information and Public Information**
 
 We give you the opportunity to modify personal information or demographic information you have provided to us, at anytime. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. Please note that changing or deleting your information, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from Transgenderdate.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this Privacy Policy. 
+
+**12\. Updates to our Privacy Policy as of 4/8/2009**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](mailto:admin@transgenderdate.com)
+
+About Google and the DoubleClick DART cookie: * Google, as a third party vendor, uses cookies to serve ads on our site. * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 If you have any questions or concerns about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us via the Contact Us page of the Site.
