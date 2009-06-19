@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefree.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218114453id_/http%3A//www.freewarefree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefree.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161346id_/http%3A//www.freewarefree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Freeware Free
 
@@ -15,6 +15,11 @@ Like many other Web sites, [Freewarefree.Net](http://www.freewarefree.net/) make
 [Freewarefree.Net](http://www.freewarefree.net/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Chitika.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on this site.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google ad and content network privacy policy").
+
+
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Freewarefree.Net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
