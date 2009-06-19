@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the theukhighstreet.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218052653id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theukhighstreet.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619045901id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>The UK High Street: Privacy Statement</title>
 <meta name="description" content="This is the privacy policy for TheUKHighStreet.com">
 <meta name="keywords" content="uk high street shops services online shopping directory uk">
@@ -15,6 +15,7 @@
 <meta name="expires" content="-1">
 <meta name="language" content="en-gb">
 <link type="text/css" rel="stylesheet" href="http://www.theukhighstreet.com/links/new/luna.css">
+<script type="text/javascript" src="/links/fb.js"></script>
 <script type="text/javascript">
 <!--  Hide script from older browsers
 //<![CDATA[
@@ -35,60 +36,31 @@ registerEvent(window, 'onload', function () { hideObjects('paging_button', 'pagi
  //!]]>
 </script>
 <script type="text/javascript" language="javascript" src="/links/ajaxrating.js"></script>
-<script type="text/javascript">
- //<![CDATA[
- function ajaxLoader(url,id)
-	{
- if (document.getElementById) {
- var x = (window.ActiveXObject) ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
- }
- if (x)
- {
- x.onreadystatechange = function()
- {
- if (x.readyState == 4 && x.status == 200)
- {
- el = document.getElementById(id);
- el.innerHTML = x.responseText;
- }
- }
- x.open("GET", url, true);
- x.send(null);
- }
- }
-function $(e){if(typeof e=='string')e=document.getElementById(e);return e};
-function collect(a,f){var n=[];for(var i=0;i<a.length;i++){var v=f(a[i]);if(v!=null)n.push(v)}return n};
- ajax={};
- ajax.x=function(){try{return new ActiveXObject('Msxml2.XMLHTTP')}catch(e){try{return new ActiveXObject('Microsoft.XMLHTTP')}catch(e){return new XMLHttpRequest()}}};
- ajax.serialize=function(f){var g=function(n){return f.getElementsByTagName(n)};var nv=function(e){if(e.name)return encodeURIComponent(e.name)+'='+encodeURIComponent(e.value);else return ''};var i=collect(g('input'),function(i){if((i.type!='radio'&&i.type!='checkbox')||i.checked)return nv(i)});var s=collect(g('select'),nv);var t=collect(g('textarea'),nv);return i.concat(s).concat(t).join('&');};
- ajax.send=function(u,f,m,a){var x=ajax.x();x.open(m,u,true);x.onreadystatechange=function(){if(x.readyState==4)f(x.responseText)};if(m=='POST')x.setRequestHeader('Content-type','application/x-www-form-urlencoded');x.send(a)};
- ajax.get=function(url,func){ajax.send(url,func,'GET')};
- ajax.gets=function(url){var x=ajax.x();x.open('GET',url,false);x.send(null);return x.responseText};
- ajax.post=function(url,func,args){ajax.send(url,func,'POST',args)};
- ajax.update=function(url,elm){var e=$(elm);var f=function(r){e.innerHTML=r};ajax.get(url,f)};
- ajax.submit=function(url,elm,frm){var e=$(elm);var f=function(r){e.innerHTML=r};ajax.post(url,f,ajax.serialize(frm))};
- //]]>
-</script>
+<script type="text/javascript" language="javascript" src="/links/ajax.js"></script>
 </head>
 <body>
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 <div id="accessibility"><a href="#content">Skip to Content</a></div>
 <hr class="hide">
 <div id="wrapper">
 <div id="header">
 <div id="loginbar">
 <ul>
+<li><img src="http://static.ak.fbcdn.net/images/icons/favicon.gif" alt="f"> <a href="#" onclick="insert_db(); return;">LOGIN USING Facebook</a></li>
 <li><a href="/perl/user.cgi">LOGIN</a></li>
 <li class="welcome">Welcome guest. Please <a href="/perl/user.cgi">login</a> or <a href="/perl/user.cgi?signup_form=1">register</a>.</li>
 </ul>
 </div>
 <div id="logo">
-<span class="adsense">
-<span class="middle_header"><br><b><a href="/p/christmas">Last order dates<br>for Christmas delivery</a></b></span>
+<div class="adsense">
+<span class="middle_header"><br><b>
+ Follow Us<br>on <a href="http://twitter.com/theukhighstreet" onclick="pageTracker._trackPageview('/Twitter_JTwit');" target="_blank">Twitter</a> and <a href="http://www.facebook.com/pages/TheUKHighStreetcom/6361143468" onclick="pageTracker._trackPageview('/Facebook_JFB');" target="_blank">Facebook</a>
+</b></span>
 <!-- Simple JS AdJug Publisher Code -->
 <script language="JavaScript" type="text/javascript" src="http://hosting.adjug.com/AdJugSearch/PageBuilder.aspx?ivi=V3.0+JS&amp;aid=1155&amp;slid=96353&amp;height=60&amp;width=468&amp;HTMLOP=False&amp;ShowIFrame=False"></script>
 <noscript><iframe width="468" height="60" name="AdSpace96353" src="http://hosting.adjug.com/AdJugSearch/PageBuilder.aspx?ivi=V3.0+JS+NS&amp;aid=1155&amp;slid=96353&amp;height=60&amp;width=468&amp;HTMLOP=True" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript>
 <!-- Simple JS AdJug Publisher Code -->
-</span>
+</div>
 <a href="/"><img src="/images/homelogo.gif" alt="TheUKHighStreet.com" width="227" height="82"></a>
 </div>
 </div>
@@ -103,6 +75,7 @@ function collect(a,f){var n=[];for(var i=0;i<a.length;i++){var v=f(a[i]);if(v!=n
 <li><a href="/products/offers/">TOP DISCOUNTS</a></li>
 <li><a href="/p/brands">BRANDS</a></li>
 <li><a href="/perl/detail.cgi?ID=random">RANDOM WANDER</a></li>
+<li><a href="/p/news_feed">NEWS FEED</a></li>
 <li class="specialmenu"><a href="/shops/offers/">SPECIAL OFFERS</a></li>
 <li class="last"><a href="/forum/">FORUM</a></li>
 </ul>
@@ -136,9 +109,10 @@ function collect(a,f){var n=[];for(var i=0;i<a.length;i++){var v=f(a[i]);if(v!=n
 </div>
 <div id="contentwrapper">
 <div id="rightcontent">
-<div id="rightmenu"><div id="leftmenu">
+<div id="rightmenu">
 <div class="shops">
 <h1>MyShops Lists</h1>
+<div id="myshops_right">
 <p>Log in to see your saved Shops.</p>
 <form name="myform" action="/perl/login/community.cgi" method="post">
 <p align="left">
@@ -150,67 +124,67 @@ function collect(a,f){var n=[];for(var i=0;i<a.length;i++){var v=f(a[i]);if(v!=n
 <input type="hidden" name="url" value="http://www.theukhighstreet.com"><br>
 <label for="remember">Remember Me:</label> <input id="remember" type="checkbox" name="remember" value="1" checked="checked"><br>
 <input type="submit" name="Submit" value="Sign In" class="button">
-<br>
+<br><br>
+ Or <a href="#" onclick="insert_db(); return;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_white_large_short.gif" alt="Connect"></a>
+<br><br>
  Or <a href="/perl/login/community.cgi?do=user_signup;url=http%3A%2F%2Fwww.theukhighstreet.com">sign up here</a>.
 </p> </form>
 </div>
+</div>
 <div class="shops">
-<h1>New Sites <a href="http://feeds.feedburner.com/NewestShopsOnTheukhighstreetcom"><img src="/images/site/rss_feed.gif" width="32" height="15" alt="RSS"></a>
+<h1>New Sites <a href="/rss/rss_newlinks.rss"><img src="/images/site/rss_feed.gif" width="32" height="15" alt="RSS"></a>
 </h1>
-<p class="featured"><a href="/Baker-Ross_L4008/">Baker Ross</a>
-<a target="newwin" href="/Baker-Ross_J4008"><img src="http://www.awin1.com/cshow.php?s=104585&amp;v=1902&amp;q=74373&amp;r=3622" width="120" height="60" alt="Baker Ross"></a>
+<p class="featured"><a href="/theOutnet_L4175/">theOutnet</a>
 </p>
-<p class="featured"><a href="/Genes-Reunited_L4007/">Genes Reunited</a>
-<a target="newwin" href="/Genes-Reunited_J4007"><img src="http://www.tqlkg.com/image-249817-10494855" width="120" height="60" alt="Genes Reunited"></a>
+<p class="featured"><a href="/Free-Sample-of-Blue-Cap_L4152/">Free Sample of Blue Cap</a>
 </p>
-<p class="featured"><a href="/Woodhouse-Clothing_L4006/">Woodhouse Clothing</a>
+<p class="featured"><a href="/Maybelline-Dream-Satin-Liquid-Foundation_L4151/">Maybelline Dream Satin Liquid Foundation</a>
 </p>
-<p class="featured"><a href="/Radley_L4004/">Radley</a>
-<a target="newwin" href="/Radley_J4004"><img src="http://www.awin1.com/cshow.php?s=124125&amp;v=2247&amp;q=81180&amp;r=3622" width="120" height="60" alt="Radley"></a>
+<p class="featured"><a href="/Valentino-Rock--n-Dreams-Sample_L4138/">Valentino Rock 'n Dreams Sample</a>
 </p>
 </div>
 <div class="shops">
 <h1>New Reviews <a href="http://www.theukhighstreet.com/rss/rss_reviews.rss"><img src="/images/site/rss_feed.gif" width="32" height="15" alt="RSS"></a>
 </h1>
 <p class="featured">
-<a href="/_R2773/index.html">LHD CAR COMPANY - TOTAL RIP OFF!</a>
+<a href="/_R2997/index.html">urgent info</a>
 <br>
 <img src="http://www.theukhighstreet.com/images/default/stars-1.gif" alt="1 stars" width="64" height="12">
 <br>
- by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=alisonfaur">alisonfaur</a>
-<br>Oh how I wish I'd seen this ...
+ by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=milly">milly</a>
+<br>during my research , ive ...
 </p><p class="featured">
-<a href="/_R1565/index.html">work</a>
-<br>
-<img src="http://www.theukhighstreet.com/images/default/stars-9.gif" alt="9 stars" width="64" height="12">
-<br>
- by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=hezzyinlove">hezzyinlove</a>
-<br>i am an employee at morrisons  ...
-</p><p class="featured">
-<a href="/_R908/index.html">parcelforce still rubbish service</a>
+<a href="/_R2997/index.html">TOTALLY DISHONEST</a>
 <br>
 <img src="http://www.theukhighstreet.com/images/default/stars-1.gif" alt="1 stars" width="64" height="12">
 <br>
- by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=maryqueen">maryqueen</a>
-<br>ordered something from the ...
+ by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=stacey">stacey</a>
+<br>This is the most dishonest ...
 </p><p class="featured">
-<a href="/_R1852/index.html">Poor quality stitching</a>
+<a href="/_R2997/index.html">Gardening express disasters</a>
 <br>
-<img src="http://www.theukhighstreet.com/images/default/stars-3.gif" alt="3 stars" width="64" height="12">
+<img src="http://www.theukhighstreet.com/images/default/stars-1.gif" alt="1 stars" width="64" height="12">
 <br>
- by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=emma907">emma907</a>
-<br>I was recently in jane norman  ...
+ by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=sallyrosser">sallyrosser</a>
+<br>Please don't use this ...
+</p><p class="featured">
+<a href="/_R2997/index.html">Gardening Express</a>
+<br>
+<img src="http://www.theukhighstreet.com/images/default/stars-1.gif" alt="1 stars" width="64" height="12">
+<br>
+ by <a href="http://www.theukhighstreet.com/perl/profile.pl?user=lowrim">lowrim</a>
+<br>How is this company still ...
 </p>
 </div>
 <div class="shops">
 <h1>Most Popular Today</h1>
-<ul class="homelist"><li><a href="/Zara_J1433" target="newwin">Zara</a> (<a href="/Zara_L1433/">Details</a>)</li><li><a href="/XS-Fashion_J3703" target="newwin">XS Fashion</a> (<a href="/XS-Fashion_L3703/">Details</a>)</li><li><a href="/Ravel-Shoes_J2088" target="newwin">Ravel Shoes</a> (<a href="/Ravel-Shoes_L2088/">Details</a>)</li><li><a href="/JD-Williams_J3793" target="newwin">JD Williams</a> (<a href="/JD-Williams_L3793/">Details</a>)</li><li><a href="/Wynsors_J3967" target="newwin">Wynsors</a> (<a href="/Wynsors_L3967/">Details</a>)</li><li><a href="/Goddiva_J3818" target="newwin">Goddiva</a> (<a href="/Goddiva_L3818/">Details</a>)</li><li><a href="/Evans_J685" target="newwin">Evans</a> (<a href="/Evans_L685/">Details</a>)</li><li><a href="/Urban-Retro_J3572" target="newwin">Urban Retro</a> (<a href="/Urban-Retro_L3572/">Details</a>)</li><li><a href="/Shoe-Shop_J883" target="newwin">Shoe Shop</a> (<a href="/Shoe-Shop_L883/">Details</a>)</li><li><a href="/Netto_J2144" target="newwin">Netto</a> (<a href="/Netto_L2144/">Details</a>)</li></ul>
+<ul class="homelist"><li><a href="/Zara_J1433" onclick="pageTracker._trackPageview('/ES-Zara_J1433');" target="_blank">Zara</a> (<a href="/Zara_L1433/">Details</a>)</li><li><a href="/Evans_J685" onclick="pageTracker._trackPageview('/ES-Evans_J685');" target="_blank">Evans</a> (<a href="/Evans_L685/">Details</a>)</li><li><a href="/Bershka_J3066" onclick="pageTracker._trackPageview('/ES-Bershka_J3066');" target="_blank">Bershka</a> (<a href="/Bershka_L3066/">Details</a>)</li><li><a href="/Apple-Store_J2036" onclick="pageTracker._trackPageview('/ES-Apple%20Store_J2036');" target="_blank">Apple Store</a> (<a href="/Apple-Store_L2036/">Details</a>)</li><li><a href="/The-Body-Shop_J1115" onclick="pageTracker._trackPageview('/ES-The%20Body%20Shop_J1115');" target="_blank">The Body Shop</a> (<a href="/The-Body-Shop_L1115/">Details</a>)</li><li><a href="/Ravel-Shoes_J2088" onclick="pageTracker._trackPageview('/ES-Ravel%20Shoes_J2088');" target="_blank">Ravel Shoes</a> (<a href="/Ravel-Shoes_L2088/">Details</a>)</li><li><a href="/Benetton_J43" onclick="pageTracker._trackPageview('/ES-Benetton_J43');" target="_blank">Benetton</a> (<a href="/Benetton_L43/">Details</a>)</li><li><a href="/Athena-Posters_J1847" onclick="pageTracker._trackPageview('/ES-Athena%20Posters_J1847');" target="_blank">Athena Posters</a> (<a href="/Athena-Posters_L1847/">Details</a>)</li><li><a href="/Bertie_J2423" onclick="pageTracker._trackPageview('/ES-Bertie_J2423');" target="_blank">Bertie</a> (<a href="/Bertie_L2423/">Details</a>)</li><li><a href="/Bench-Clothing_J2297" onclick="pageTracker._trackPageview('/ES-Bench%20Clothing_J2297');" target="_blank">Bench Clothing</a> (<a href="/Bench-Clothing_L2297/">Details</a>)</li></ul>
 </div>
 <div class="shops">
 <h1>Most recently visited</h1>
-<ul class="homelist"><li><a href="/Air-France_J1854" target="newwin">Air France</a> (<a href="/Air-France_L1854/">Details</a>)</li><li><a href="/WHSmith_J70" target="newwin">WHSmith</a> (<a href="/WHSmith_L70/">Details</a>)</li><li><a href="/JD-Sports_J1118" target="newwin">JD Sports</a> (<a href="/JD-Sports_L1118/">Details</a>)</li><li><a href="/Kaliko-Clothing_J3576" target="newwin">Kaliko Clothing</a> (<a href="/Kaliko-Clothing_L3576/">Details</a>)</li><li><a href="/Zara_J1433" target="newwin">Zara</a> (<a href="/Zara_L1433/">Details</a>)</li><li><a href="/Waitrose-Entertaining_J3771" target="newwin">Waitrose Entertaining</a> (<a href="/Waitrose-Entertaining_L3771/">Details</a>)</li><li><a href="/Ebay-UK_J869" target="newwin">Ebay UK</a> (<a href="/Ebay-UK_L869/">Details</a>)</li><li><a href="/Holland-and-Barrett_J1806" target="newwin">Holland and Barrett</a> (<a href="/Holland-and-Barrett_L1806/">Details</a>)</li><li><a href="/Fenwicks_J2009" target="newwin">Fenwicks</a> (<a href="/Fenwicks_L2009/">Details</a>)</li><li><a href="/The-Travellers-Lounge_J1195" target="newwin">The Travellers Lounge</a> (<a href="/The-Travellers-Lounge_L1195/">Details</a>)</li></ul>
+<ul class="homelist"><li><a href="/Blue-Inc_J3978" onclick="pageTracker._trackPageview('/ES-Blue%20Inc_J3978');" target="_blank">Blue Inc</a> (<a href="/Blue-Inc_L3978/">Details</a>)</li><li><a href="/Blockbuster_J3407" onclick="pageTracker._trackPageview('/ES-Blockbuster_J3407');" target="_blank">Blockbuster</a> (<a href="/Blockbuster_L3407/">Details</a>)</li><li><a href="/Blackwells-Bookshop_J624" onclick="pageTracker._trackPageview('/ES-Blackwells%20Bookshop_J624');" target="_blank">Blackwells Bookshop</a> (<a href="/Blackwells-Bookshop_L624/">Details</a>)</li><li><a href="/Blacks_J3465" onclick="pageTracker._trackPageview('/ES-Blacks_J3465');" target="_blank">Blacks</a> (<a href="/Blacks_L3465/">Details</a>)</li><li><a href="/DK---Children_J1405" onclick="pageTracker._trackPageview('/ES-DK%20-%20Children_J1405');" target="_blank">DK - Children</a> (<a href="/DK---Children_L1405/">Details</a>)</li><li><a href="/BHS--British-Home-Stores-_J959" onclick="pageTracker._trackPageview('/ES-BHS%20(British%20Home%20Stores)_J959');" target="_blank">BHS (British Home Stores)</a> (<a href="/BHS--British-Home-Stores-_L959/">Details</a>)</li><li><a href="/QVC_J3780" onclick="pageTracker._trackPageview('/ES-QVC_J3780');" target="_blank">QVC</a> (<a href="/QVC_L3780/">Details</a>)</li><li><a href="/Glasses-Direct_J2804" onclick="pageTracker._trackPageview('/ES-Glasses%20Direct_J2804');" target="_blank">Glasses Direct</a> (<a href="/Glasses-Direct_L2804/">Details</a>)</li><li><a href="/Kitbag_J628" onclick="pageTracker._trackPageview('/ES-Kitbag_J628');" target="_blank">Kitbag</a> (<a href="/Kitbag_L628/">Details</a>)</li><li><a href="/Magazine-Group_J2740" onclick="pageTracker._trackPageview('/ES-Magazine%20Group_J2740');" target="_blank">Magazine Group</a> (<a href="/Magazine-Group_L2740/">Details</a>)</li></ul>
 </div>
-</div></div>
+</div>
 </div>
 <div id="content">
 <div class="titlebar">
@@ -395,6 +369,8 @@ Index of all shops:
 <li><a href="/p/disclaimer">DISCLAIMER</a></li>
 <li><a href="/p/privacy">PRIVACY</a></li>
 <li><a href="/sitemap/">SITE MAP</a></li>
+<li><a href="http://twitter.com/theukhighstreet" onclick="pageTracker._trackPageview('/Twitter_JTwit');" target="_blank">Twitter</a></li>
+<li><a href="http://www.facebook.com/pages/TheUKHighStreetcom/6361143468" onclick="pageTracker._trackPageview('/Facebook_JFB');" target="_blank">Facebook</a></li>
 <li>
 <a href="http://www.sendit.to">International</a> <a href="/p/international"><acronym title="International Delivery">Choose Country</acronym></a>
 </li>
@@ -403,15 +379,9 @@ Index of all shops:
 </div>
 <div id="footer">
 <br>
-<b><a href="/perl/page.cgi?p=contact&amp;Page=CODE(0x90b95a4)">Page Feedback</a>
- |
-<!-- AddThis Button BEGIN -->
-<script type="text/javascript">addthis_pub  = 'theukhig';</script>
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-<!-- AddThis Button END -->
+<b>
 <script type="text/javascript">
 <!--
-document.write(" | ");
 var ver = navigator.appName;
 var num = parseInt(navigator.appVersion);
 if ((ver == "Microsoft Internet Explorer")&&(num>= 4)) {
@@ -429,7 +399,7 @@ else if (document.getElementById){
  document.write('<a href="'+ window.location +'">Drag this link onto your Home button to make this your Home Page.</a>');
 }
 //-->
-</script> | Bookmark this Page (Ctrl+D) | <a href="https://web.archive.org/web/20081218052653id_/http%3A//www.theukhighstreet.com/p/privacy">Drag this link onto your Home button to make this your Home Page.</a></b>
+</script>Bookmark this Page (Ctrl+D) | <a href="https://web.archive.org/web/20090619045901id_/http%3A//www.theukhighstreet.com/p/privacy">Drag this link onto your Home button to make this your Home Page.</a></b>
 <noscript><br/>Add to Favorites: in Internet Explorer, go to 'Favorites' and then click 'Add to Favorites'.  In Mozilla press Control and D.</noscript>
 <br>
 <script type="text/javascript">
@@ -458,10 +428,6 @@ var GroupID = '';
 <img src='/perl/sitestats.cgi?Title=The%20UK%20High%20Street&amp;GroupType=&amp;GroupID=' alt='' width="1" height="1"/>
 </noscript>
 <!-- CODE_END -->
-<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88"></a>
-<a href="http://jigsaw.w3.org/css-validator/">
-<img height="31" width="88" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
-</a>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -471,6 +437,10 @@ var pageTracker = _gat._getTracker("UA-521996-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+<script type="text/javascript">
+ FB.init("fe8f223b4b65fe8fe6676bd228269c99", "/connect/xd_receiver.htm");
+</script>
+<script src="/connect/fbconnect.js" type="text/javascript"></script>
 </div>
 </div>
 
