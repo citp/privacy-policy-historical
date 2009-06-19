@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217091325id_/http%3A//www.mamasandpapas.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055640id_/http%3A//www.mamasandpapas.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mamas & Papas
 
@@ -37,7 +37,7 @@ Back to the top
 
 When you create a shopping account while ordering online you will be given the option to receive information from Mamas & Papas online by post, e-mail or telephone, about products, promotions or special offers which we feel may be of interest to you. In the event that you do not wish to be contacted for such purposes, ensure that you do not tick the appropriate box as you go through the registration process. 
 
-If you do not wish to receive further information regarding new products, promotions and special offers from Mamas & Papas. Please sign in to the [**My Account**](http://www.mamasandpapas.co.uk/my_account.php) page and change you communication preferences, call our Customer Services team on 0845 268 2000 or email [**unsubscribe@mamasandpapas.com**](mailto:unsubscribe@mamasandpapas.com)
+If you do not wish to receive further information regarding new products, promotions and special offers from Mamas & Papas. Please sign in to the [**My Account**](https://web.archive.org/my_account.php) page and change you communication preferences, call our Customer Services team on 0845 268 2000 or email [**unsubscribe@mamasandpapas.com**](mailto:unsubscribe@mamasandpapas.com)
 
 Your Personal Information may be disclosed to other businesses within the Mamas & Papas and to reputable third parties who will help process your order. Mamas & Papas requires all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place. We will not release your Personal Information to any company outside of the Mamas & Papas for mailing or marketing purposes. 
 
@@ -72,7 +72,7 @@ We are committed to protecting your privacy.
 
 We use information we collect on our site to make shopping at www.mamasandpapas.com possible and to enhance your overall shopping experience.
 
-Mamas & Papas welcome your questions and comments about any topic, please refer to the [**Contact Us page** ](http://www.mamasandpapas.co.uk/contact.php)on this website.
+Mamas & Papas welcome your questions and comments about any topic, please refer to the [**Contact Us page** ](https://web.archive.org/contact.php)on this website.
 
 February 2007
 
