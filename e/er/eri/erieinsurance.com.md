@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2008-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080829180648id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002657id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice Erie Insurance
 
@@ -12,8 +12,8 @@ We obtain nonpublic personal information about you from the following sources:
 
   * Your insurance Agent or Producer;
   * From you through applications or other forms such as claims forms or underwriting questionnaires;
-  * Insurance support organizations such as claims reporting services and other parties who provide information on insurance related transactions you have conducted with us, our affiliates, as listed above, or others;
-  * Consumer reporting agencies.
+  * Insurance support organizations such as claims reporting services and other parties who provide information on insurance related transactions you have conducted with us, our affiliates, as listed above, or others; 
+  * Consumer reporting agencies. 
 
 
 
@@ -38,7 +38,7 @@ While your nonpublic personal information is under our control, access is limite
 
 ## Corporate Code of Conduct
 
-Read more about ERIE's [code of conduct](https://web.archive.org/web/20080829180648id_/http%3A//www.erieinsurance.com/root/CodeOfConduct.pdf).
+Read more about ERIE's [code of conduct](https://web.archive.org/web/20090620002657id_/http://www.erieinsurance.com/CodeOfConduct.pdf).
 
 ## Affiliates of Erie Insurance Group
 
