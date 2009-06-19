@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonscientific.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152733id_/http%3A//www.bostonscientific.com/SectionData.bsci/%2C%2C/navRelId/1008.1028/seo.serve) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonscientific.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619071159id_/http%3A//www.bostonscientific.com/SectionData.bsci/%2C%2C/navRelId/1008.1028/seo.serve) for the most accurate reproduction.*
 
 # Boston Scientific :: Web Site Privacy Policy for the United States
 
