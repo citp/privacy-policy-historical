@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043914id_/http%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205530id_/http%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
 
 # Travelfish privacy statement
-
-## Travelfish Privacy Statement
 
 Thank you for visiting the Travelfish website. Your privacy is important to us and to inform you of how your privacy is protected, we provide this notice. 
 
@@ -14,7 +12,7 @@ We may collect certain non-personally identifiable information when you visit ma
 
 In some cases, we collect information regarding what pages within the site you look at, how long you look at them for and how many times you look at them.
 
-If you choose to become a member of the site, your username, password and email address is retained by us. Subsequent to this, any comments or ratings you submit to the site are recorded and tied to this information.
+If you choose to become a member of the site, your username, password and email address is retained by us. Subsequent to this, any comments, ratings or other contributions you make to the site are recorded and tied to this information.
 
 * * *
 
@@ -43,6 +41,10 @@ If you choose to contact an accommodation source via our email form, this email 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements on travelfish.org to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Bangkok, you may see Bangkok hotel advertisements when viewing a non-related site, such as on a site about current affairs). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
