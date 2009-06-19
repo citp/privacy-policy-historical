@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesolve.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061113id_/http%3A//www.articlesolve.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesolve.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619193847id_/http%3A//www.articlesolve.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Article Submissions | Content
 
