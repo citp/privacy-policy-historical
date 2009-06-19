@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033933id_/http%3A//www.americasjobexchange.com/common%3Faction%3Dajb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619195332id_/http%3A//www.americasjobexchange.com/common%3Faction%3Dajb_privacy) for the most accurate reproduction.*
 
-# Privacy Jobs at America's Job Exchange
-
-**Introduction**
-
-Thank you for visiting the America's Job Exchange (AJE) website which is owned and operated by NaviSite, Inc. This website is designed to make it easier and more efficient for job seekers to learn about employment opportunities and businesses to find capable and competent workers. AJE recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit the AJE website and are therefore committed to respecting your privacy when visiting this website.
-
-Because this privacy policy only applies to this website, you should examine the privacy policy of any website AJE links to, including employer websites.
-
-For purposes of this policy, "personal information" means any information concerning a natural person, which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
-
-**AJE does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an on-line transaction.**
-
- **Information Collected Automatically When You Visit this Website**
-
-When visiting this website AJE automatically collects and stores the following information about your visit:
-
-| 
+# AJE Privacy | America's Job Exchange
 
 None of the foregoing information is deemed to constitute personal information.
 
@@ -24,7 +8,7 @@ The information that is collected automatically is used to improve this website'
 
 The information will not be used for commercial marketing purposes and AJE is not authorized to sell or otherwise disclose the information collected from the website for commercial marketing purposes except with your express consent.
 
- **Cookies**
+**Cookies**
 
 Cookies are simple text files stored on your web browser to provide a means of distinguishing among users of this website. The use of cookies is a standard practice among Internet websites. To better serve you, we occasionally use "session cookies" to enhance or customize your visit to this website. The session cookies, created automatically on the device you use to access this website, do not contain personal information and do not compromise your privacy or security. We use the cookie feature to store a randomly generated identifying tag on the device you use to access this website. The session cookie is erased when your browser is closed.
 
