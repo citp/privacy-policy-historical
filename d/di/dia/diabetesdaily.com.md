@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222113605id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619053001id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Diabetes Daily
+# Privacy Policy - Diabetes Daily Blog
 
 DiabetesDaily.com is committed to protecting your private information. Here are our policies in plain English.  
   
@@ -18,21 +18,29 @@ We offer a number of services that do not require you to register for an account
 
 
 
-DiabetesDaily.com only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include: 
+******Services Provided by Third Parties  
+** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-  * Providing our services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and 
-  * Developing new services.   
-
-
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
-**DiabetesDaily.com Account**  
-You may access some of our services by signing up for an account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access DiabetesDaily.cm services and protect your account from unauthorized access by others. We may share personal information among our various services in order to customize content and enhance our services for you. No account information is shared with anyone other than DiabetesDaily.com except as specified in the Privacy Policy or with your consent. 
+
+**  
+DiabetesDaily.com Account**  
+You may access some of our services by signing up for an account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access DiabetesDaily.com services and protect your account from unauthorized access by others. 
+
+  * We may share personal information among our various services in order to customize content and enhance our services for you.   
+
+  * We may share personal information among contracted parties in order to provide access to services that we provide on a licensed basis. These contracted parties may only use your personal data to provide the services we explicitly license.   
+
+  * No account information is shared with anyone other than DiabetesDaily.com except as specified in the Privacy Policy or with your consent. 
+
+
 
 **Remove Your Account**  
-All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. 
+All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. Please open a [support ticket](http://www.diabetesdaily.com/support/index.php?_m=tickets&_a=submit). 
 
 **Unsubscribe**  
 We have a link to unsubscribe from our email lists at the end of every email we send. Alternately, you can unsubscribe using the contact link in the top right corner of the page or sending a letter to the following address:
