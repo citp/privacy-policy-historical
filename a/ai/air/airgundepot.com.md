@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123559id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085128id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # View Privacy Policy
 
@@ -35,3 +35,14 @@ While we use SSL encryption to protect sensitive information online, we also do 
 If you have any questions about the security at our website, you can send an email to inquiries@airgundepot.com.
 
 Notification of Changes-- If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+Mailing Address:  
+Echo Commerce LLC  
+12453 S 265 W Ste F  
+Draper, UT 84020
+
+[Customer Service](http://www.airgundepot.com/contactus1.html)
+
+[](https://www.controlscan.com/seal/verify5.php?id=195&dom=93A2F99A)
+
+[](http://smallbusiness.yahoo.com/ecommerce/)
