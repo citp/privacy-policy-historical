@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the evidian.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203095213id_/http%3A//www.evidian.com/evidian/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidian.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620004709id_/http%3A//www.evidian.com/evidian/privacy.htm) for the most accurate reproduction.*
 
 # Privacy information
+
+| 
 
 You may browse www.Evidian.com without providing personal information to us. However, if you want to receive services such as Evidian Online News, or download software, we may request that you provide us with information about yourself and your company. Providing this information is optional and not a requirement to visit our site.
 
@@ -16,3 +18,7 @@ We take your privacy very seriously and we are committed to:
 
 
 Should you have any questions about this privacy policy and the practices of our web sites, please contact us at [info@Evidian.com](mailto:info@Evidian.com)
+
+| 
+
+Evidian NewsDesk 
