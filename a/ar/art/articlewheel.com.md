@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912134755id_/http%3A//www.articlewheel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619091736id_/http%3A//www.articlewheel.com/privacy.html) for the most accurate reproduction.*
 
-# : Article Submission Directory - Submit Your Articles Now!
+# Privacy - ArticleWheel.com - Submit your articles for free!
 
 Your Article Directory Privacy Policy
 
@@ -47,3 +47,6 @@ This policy and the use of this Site are governed by Texas law. If a dispute ari
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+  
+
