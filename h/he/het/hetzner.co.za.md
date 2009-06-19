@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085523id_/http%3A//www.hetzner.co.za/index.php/hosting/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetzner.co.za privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619215950id_/http%3A//www.hetzner.co.za/index.php/hosting/legal/privacy-policy) for the most accurate reproduction.*
 
 # Hetzner: Privacy policy
 
