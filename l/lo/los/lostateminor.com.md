@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216103048id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035914id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — Lost At E Minor: For creative people
+# Privacy policy | Lost At E Minor: For creative people
 
 PERSONAL INFORMATION  
 In order to receive Lost At E Minor we need your email address. We also ask you your name in order to personalise the newsletter. Lost At E Minor will not disclose your email or any personal information to any third party without your consent.
