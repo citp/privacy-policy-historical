@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228055028id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbc.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210300id_/http%3A//www.bbc.co.uk/go/blq/foot/privacy/hp/-/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy and Cookies Policy
 
@@ -111,7 +111,7 @@ Skip to top
 
 Under the Data Protection Act you have the right to request a copy of the personal information the BBC holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
-Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, MC3 D1, Media Village, 201 Wood Lane, London, W12 7TQ (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
+Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, Room 2252, White City Building, 201 Wood Lane, London, W12 7TS (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
 Skip to top
 
@@ -151,16 +151,18 @@ A list of the main cookies that bbc.co.uk sets (and what each is used for) toget
 
 Skip to top
 
+Last Updated : 1st April 2009
+
 ## 14\. Contacting the BBC about this Privacy Policy
 
 If you have any questions or comments about this Privacy Policy please contact;
 
 The Data Protection Officer  
-MC3 D1  
-Media Village  
+Room 2252  
+White City Building  
 201 Wood Lane  
 London  
-W12 7TQ 
+W12 7TS 
 
 (Email: [dpa.officer@bbc.co.uk](mailto:dpa.officer@bbc.co.uk)). 
 
