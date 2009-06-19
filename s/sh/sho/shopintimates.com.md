@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219091807id_/http%3A//www.shopintimates.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619061537id_/http%3A//www.shopintimates.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ privacy(@)shopintimates.com
 
 **Privacy Officer : Mabel Chan**
 
-170 Upper Bukit Timah Road, #02-53 Bukit Timah Shopping Centre, Singapore 588179. Singapore ACRA Business Registration No: 53058725D 
+170 Upper Bukit Timah Road, #04-38 Bukit Timah Shopping Centre, Singapore 588179. Singapore ACRA Business Registration No: 53058725D 
 
 Singapore
 
@@ -42,4 +42,4 @@ M-F, 8:30 AM to 5:00 PM (Singapore Time)
 
 Effective Date 
 
-This Privacy Statement is effective as of Nov 28 th , 2005.
+This Privacy Statement is effective as of JUN 08th , 2009.
