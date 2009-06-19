@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218025514id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050414id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,14 @@ Site visitors who have questions about this privacy statement, the privacy pract
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 01-07-2008.
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. 
+
+**Google Adsense and Third Party Advertising**
+
+We use [Google AdSense](http://en.wikipedia.org/wiki/AdSense "Google AdSense") and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: <http://www.google.com/privacy.html>
+
+**DoubleClick Dart Cookies**
+
+Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>
+
+**This Privacy Policy was last updated on 03-21-2009.**
