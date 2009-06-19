@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218172959id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619231040id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,7 +30,7 @@ This allows Nochex to tailor the service to your preferences. You are not oblige
 
 We never use cookies to retrieve information from your computer which was not originally contained in the cookie. We use cookies and IP addresses for system administration and to monitor aggregate non-personalised information (such as anonymous statistics related to the take up or use of services, or to patterns of browsing). 
 
-Certain non-personal information about users is recorded by the standard operation of Nochex’s internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses) of users. 
+Certain non-personal information about users is recorded by the standard operation of Nochex's internet servers. Examples of this type of information include the type of browsers being used, its operating system and the domain names (not e-mail addresses) of users. 
 
 ## Links
 
