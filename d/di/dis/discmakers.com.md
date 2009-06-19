@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012044058id_/http%3A//www.discmakers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discmakers.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619081407id_/http%3A//www.discmakers.com/privacy) for the most accurate reproduction.*
 
 # Disc Makers Privacy Policy
 
@@ -30,5 +30,3 @@ Disc Makers takes appropriate steps to communicate our privacy policy and guidel
 Disc Makers' privacy policy is subject to change at any time. Disc Makers will provide notice 30 days prior to implementing any major changes to our privacy policy. 
 
 If you have any question specific to privacy, please contact us at [privacy@discmakers.com.](mailto:privacy@discmakers.com)
-
-Updated on October 10, 2007. 
