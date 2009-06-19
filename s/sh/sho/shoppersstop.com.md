@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064802id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043358id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
 
 # ShoppersStop.com - Privacy Policy
 
@@ -13,10 +13,10 @@ Through this document, we wish to make you:
   
 
 
-  * Aware that you may contact us with your questions or concerns about privacy on this website.
-  * Aware that by using our websites you are agreeing to the collection of certain data.
   * Feel at ease while using our websites.
   * Feel confident while sharing information with us.
+  * Aware that you may contact us with your questions or concerns about privacy on this website.
+  * Aware that by using our websites you are agreeing to the collection of certain data.
 
 
 
@@ -24,7 +24,9 @@ Through this document, we wish to make you:
 
 Shoppersstop.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
-We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and website use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the website.
+ **Kindly, note that Shoppersstop.com does not collect your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, you are automatically redirected to the acquiring bank’s payment gateway website, where all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
+
+We may collect additional information in connection with your participation in any promotions or contests offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and website use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the website.
 
 While you use our website, we may have automatic access to (receive and collect) certain anonymous information in standard usage logs through our web server, obtained from “cookies” sent to your browser from web server cookies stored on your hard drive, including but not limited to:
 
@@ -39,14 +41,14 @@ While you use our website, we may have automatic access to (receive and collect)
 
 
 
-While you are on our website **personally identifiable information** collected about you may include:
+While you are transacting on our website **personally identifiable information** collected about you may include:
 
   
 
 
   * First and last name. 
   * Email addresses. 
-  * Contact details such as mobile phone number.
+  * Contact details including phone numbers.
   * PIN/ZIP code.
   * Demographic profile (like your age, gender, occupation, education, address and durables owned).
   * Personal preferences and interests (such as books, movies, music and so on); and
@@ -67,13 +69,13 @@ We may also collect the following information about:
 
 
 
-You may terminate your account at any time by writing to us at [estore@shoppersstop.com](mailto:estore@shoppersstop.com), from the email ID you have used for creating your account login, and mentioning “Please close my shopppersstop.com account” in the subject line. We will disable access to your account within 2 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+You may terminate your account at any time by writing to us at [estore@shoppersstop.com](mailto:estore@shoppersstop.com), from the email ID you have used for creating your account login, and mentioning “Please close my shopppersstop.com account” in the subject line. We will disable access to your account within 2 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or termination of your account.
 
  **When / How do we collect the information?**
 
 We will collect anonymous traffic information from you when you visit our website.
 
-We collect the personally identifiable information from you when you register with us or you transact as a guest. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, billing address, delivery address, pin code, mobile number, occupation, interests etc.) Upon registration users may receive communications from Shoppersstop.com (e.g. newsletters, updates). Even when you choose not to register, and transact as a guest we collect identifiable information (such as name, email address, date of birth, gender, billing address, delivery address, pin code, mobile number etc.).
+We collect the personally identifiable information from you when you register with us or you transact as a guest. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, billing address, delivery address, pin code, mobile number, occupation, interests etc.) Upon registration users may receive communications from Shoppersstop.com (e.g. newsletters, updates). Even when transact as a guest we collect identifiable information (such as name, email address, date of birth, gender, billing address, delivery address, pin code, mobile number etc.).
 
 We use this information to contact you about the services you are using on our website and services in which you have expressed interest.
 
@@ -83,13 +85,11 @@ We use this information for billing purposes and to fill your orders. If we have
 
 You have the option to provide demographic information (such as occupation, education and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our website.
 
- **Kindly, note that Shoppersstop.com does not collect your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, you are automatically redirected to the acquiring bank’s payment gateway website, where all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
-
 If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Shoppersstop.com does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 Your friend may contact us at [estore@shoppersstop.com](mailto:estore@shoppersstop.com) to request that we remove this information from our database.
 
-We are the sole owners of your information collected by us at several different points on our Website.
+We are the sole owners of your information collected by us at different points on our Website.
 
 We will collect personally identifiable information about you only as part of a voluntary registration process, guest check out, on-line survey, or contest or any combination thereof.
 
@@ -110,7 +110,7 @@ We use your contact information to send you:
 
   * Password reminder and registration confirmation. 
   * Special offers. 
-  * Changes in the service's policy or terms of use. 
+  * Changes in the service policies or terms of use. 
   * Event based communications such as order information, renewal notices, invites, reminders etc.
 
 
