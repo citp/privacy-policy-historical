@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naukriforwomen.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220135228id_/http%3A//www.naukriforwomen.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naukriforwomen.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620000436id_/http%3A//www.naukriforwomen.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <title>Privacy Policy | Naukri for Women</title>
@@ -17,7 +17,7 @@
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/modules/jquery_update/compat-1.0.js"></script>
 <script type="text/javascript" src="/modules/jquery_update/collapse-fix.js"></script>
-
+<script type="text/javascript" src="/js/autocomplete.js"></script>
   <script type="text/javascript"> </script>
 
   <script language="javascript">
@@ -40,9 +40,11 @@
       <a href="/" title="Home"><img src="/naukriforwomen.jpg" alt="Home"></a>
       
 	</td>
-	<td align="center"><h4 align="center">Coming to you on 2nd Jan 2009</h4></td>
+	<td align="center">
+		<h4 align="center">Live since Jan'09</h4>
+			</td>
 	<td align="right">
-<a href="/user/register">Sign Up</a> | <a href="/user/login">Log in</a>  	</td>
+  <a href="/user/register"><span style="background-color:#FFFF9F;color:#D25769;font-size:16px">Job Seeker: Register</span></a> | <a href="/user/login"><span style="background-color:#FFFF9F;color:#D25769;font-size:16px">Log in</span></a>  	</td>
 </tr>
 </tbody></table>
 <div>
@@ -66,7 +68,7 @@
   <b class="emp5"></b></b>
 
   <div class="empfg">
-		<b><font color="#ffffff">Employer: </font></b> <a href="/user/login?emp=1"><font color="#ffffff">Login</font></a> <font color="#ffffff">/</font> <a href="/user/register/6"><font color="#ffffff">Register</font></a>  </div>
+		<b><font color="#ffffff">Employer: </font></b> <a href="/user/login?emp=1"><font color="#ffffff">Login</font></a> <font color="#ffffff"> | </font> <a href="/user/register/6"><font color="#ffffff">Register</font></a>  </div>
 </div>
 </td>
 </tr></tbody></table>
@@ -246,7 +248,8 @@ width:200px;
   <tbody><tr>
     <td valign="top">
             <div id="main">
-                                  <div class="node">
+                	
+                  <div class="node">
             <span class="submitted"></span>
     <span class="taxonomy"></span>
     <div class="content"><h2>Privacy Policy</h2>
@@ -315,10 +318,28 @@ logs, and other records, which may or may not contain such personally identifiab
 <div style="clear: both;height:3px"></div>
 <div id="footer">
   <p align="center">
-<a href="/about-us">About Us</a> - <a href="/contact-us">Contact Us</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/terms-use-agreement">Terms of Use</a> - <a href="/feedback">Feedback? Help us improve</a>
+<a href="/about-us">About Us</a> | <a href="/contact-us">Contact Us</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-use-agreement">Terms of Use</a> | <a href="/tellafriend">Tell a Friend</a> | <a href="/feedback">Feedback? Help us improve</a>
 <br>Copyright © 2008 <a href="http://www.naukriforwomen.com">NaukriForWomen.com</a>
 </p>
 </div>
+<script language="javascript">
+if(document.getElementById("qkeywords")) {
+		$.get("/naukri/autocomplete?qq=all", function(data1) {
+				var Mydata = data1.split("\n");
+actb(document.getElementById("qkeywords"),Mydata);
+$("#qkeywords").attr("autocomplete", "off");
+			});
+}
+
+if(document.getElementById("ledit")) {
+		$.get("/naukri/autocomplete/loc?qq=all", function(data1) {
+				var Mydata1 = data1.split("\n");
+actb(document.getElementById("ledit"),Mydata1);
+$("#ledit").attr("autocomplete", "off");
+			});
+}
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
