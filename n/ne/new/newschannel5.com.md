@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newschannel5.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065002id_/http%3A//www.newschannel5.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel5.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160029id_/http%3A//www.newschannel5.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
-# NewsChannel 5.com - Nashville, Tennessee - This Web Site’s Privacy Policy
+# This Web Site’s Privacy Policy - NewsChannel 5.com - Nashville, Tennessee -
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
