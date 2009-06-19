@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002511id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619023219id_/http%3A//1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -10,7 +10,7 @@ The email addresses collected from members of 1001fonts.com are published within
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Google, as one of the third party advertising companies, uses a DART cookie to serve such ads. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 If you have any additional questions about 1001fonts.com's dedication to consumer privacy, please contact us at [privacy@1001fonts.com](mailto:privacy@1001fonts.com).
 
@@ -65,37 +65,9 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 [Western](https://web.archive.org/fonts_overview.html?page=1&category_id=28&preview_text=)  
 
 
-**Selected Members**  
-   
-[Top Font Authors](https://web.archive.org/top_authors.html)  
-[Top Font Reviewers](https://web.archive.org/top_reviewers.html)  
-[Top MsgBrd Posters](https://web.archive.org/top_posters.html)
-
-**Free Membership**  
-   
-[Join the font community and become a free member of 1001fonts.com](https://web.archive.org/member_join.html)
-
-**Partner Sites**  
-   
-[FontFinder.ws](http://www.fontfinder.ws/)  
-[1001 Winamp Skins](http://www1.1001skins.com/)
-
-[**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
-   
-[Fonts.com](http://www.qksrv.net/click-797593-5765012)  
-[MyFonts.com](http://www.myfonts.com/?refby=bloch)  
-[Linotype.com](http://www.tkqlhce.com/46108uoxuowBDEICLCGBDCHFEIKL)  
-[ITCFonts.com](http://www.qksrv.net/click-797593-5529320)
-
-**Free Fonts**  
+**More Free Fonts**  
    
 [PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
-[Top20Free.com](http://1001font.top20free.com/)  
 [Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)
-
-**Font Designers**  
-   
-[pizzadude.dk](http://www.pizzadude.dk/)  
-[larabiefonts.com](http://www.larabiefonts.com/)
 
 |   |   | 
