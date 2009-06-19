@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coolbuzz.org privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218152110id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolbuzz.org privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619062002id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy - Coolbuzz: Everything Cool</title>
@@ -7,7 +7,7 @@
 	<meta name="title" content="Privacy Policy - Coolbuzz: Everything Cool">
 	<meta name="subject" content="Lifestyle">
 	<meta name="language" content="en">
-	<meta name="keywords" content="accessories, Alarm Clock, Apple, art, Bluetooth, Camera, Chair, christmas, clock, Computer, Computer accessories, Consumer Electronics, design, designer, designs, fashion, furniture, gadget, gadgets, guitar, Hello Kitty, home decor, Home Furnishing, iPhone, ipod, japan, Keyboard, kids, lamp, LED, Lego, Lifestyle, light, Light Fixtures, Lighting, mobile phone, mouse, mp3, MP3 Player, Music, music player, Phone, radio, Samsung, Speakers, Technology, toys, USB, Watch, webcam">
+	<meta name="keywords" content="accessories, Alarm Clock, Apple, art, beer, Camera, Chair, China, christmas, clock, Computer, Computer accessories, Coolest Picture Of The Day, design, designer, DIY, fashion, furniture, gadgets, guitar, home decor, Home Furnishing, iPhone, ipod, japan, lamp, LED, Lego, Lifestyle, light, Lighting, mouse, mp3, MP3 Player, Music, music player, photo, photos, Pic, Picture, radio, Soccer, Speakers, Steampunk, Technology, timepiece, toys, USB, Video, Watch">
 	<meta name="description" content="Everything Cool">
 	<link rel="alternate" href="http://www.coolbuzz.org/rss.xml" type="application/rss+xml" title="Coolbuzz's RSS Feed">
 	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Coolbuzz" type="application/rss+xml" title="Coolbuzz's RSS Feed (Instablogs Community)">
@@ -15,34 +15,27 @@
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	
 	
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-9415440757655812");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-9415440757655812", "runi_button_125x125");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
 <style type="text/css">
 	  @import url(/style.css);
 	</style>
 
-	<!-- PUT THIS TAG IN THE head SECTION -->
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-	</script>
+	<script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/connection.js"></script>
 	<script type="text/javascript">
-	  GS_googleAddAdSenseService("ca-pub-9415440757655812");
-	  GS_googleEnableAllServices();
-	</script>
-	<script type="text/javascript">
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_above_header_728x90");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_blog_ads_nosize");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_google_728x15");
-		GA_googleAddSlot("ca-pub-9415440757655812", "cool_google_banner_468x60");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_google_large_rect_336x280");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_google_skycraper_120x600");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_glam_160x600");
-		GA_googleAddSlot("ca-pub-9415440757655812", "coolbuzz_glam_rect_300x250");
-	</script>
-	<script type="text/javascript">
-	  GA_googleFetchAds();
-	</script>
-	<!-- END OF TAG FOR head SECTION -->
-	
-	<script type="text/javascript">
-
 		function on_blur()
 		{
 			if(document.getElementById('nav-search').value == "")
@@ -51,136 +44,131 @@
 			document.getElementById('nav-search').style.color = "#999";
 			}
 		}
-
-
 		function on_focus()
 		{
 			document.getElementById('nav-search').value = "";
 			document.getElementById('nav-search').style.color = "#444";
 		}
 
-		function network_down(network_head_id)
+		function open_reply_comment(comment_id, post_id, back_url, blog_name)
 		{
-			var	flag=$('blog_network-'+network_head_id);
-			var x;			
-			for (x = 0; x < 10; x++)
+			
+			var div = document.getElementById('reply-comment'+comment_id);	
+			var postdata ='comment_id='+ comment_id + '&post_id=' + post_id + '&back_url=' + back_url + '&blog_name=' + blog_name;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:20px 0 35px;"><center><img src="/css-img/wheel.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/reply_comment.php', Callback, postdata);
+		}
+		
+		function lightboxImageOn(image_id, Image_title)
+		{
+			var comment_image = 'comment_image';
+			var Image_title = "Image uploaded by - " + Image_title;
+			var div = document.getElementById('lb-edit');
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			$.ajax({
+			type: "POST",
+			url: "/show_media.php",
+			data: 'image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title,
+			success: function(msg)
 			{
-				if(x == network_head_id && flag.style.display=="none")
-					Effect.BlindDown('blog_network-'+x,{duration:0.5});
-				else
-					Effect.BlindUp('blog_network-'+x,{duration:0.5});
+				var id ='#lb-edit';
+				$(id).html(msg);
 			}
+			});
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
 		}
 
-		function open_reply_comment(comment_id, comment_type)
-	{
-		var div = document.getElementById('reply-comment-' + comment_type+comment_id);
-		if(div.style.display=='block')
+
+		function lightboxVideoOn(video_id, You_Tube_title)
 		{
-			div.style.display='none';
+			var video='video';
+			var You_Tube_title = "Video uploaded by - " + You_Tube_title;
+			var div = document.getElementById('lb-edit');
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			$.ajax({
+			type: "POST",
+			url: "/show_media.php",
+			data: 'video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title,
+			success: function(msg)
+			{
+				var id ='#lb-edit';
+				$(id).html(msg);
+			}
+			});
+
+			var black = document.getElementById('fade');
+			black.style.display = 'block';
+
+			div.style.display = 'block';
+			window.scrollTo(0,0);
 		}
-		else
+
+		function lightboxoff(id)
 		{
-			div.style.display='block';
+			var light = document.getElementById(id);
+			light.style.display = 'none';
 		}
-	}
-
-	function show_comments(id)
-	{
-		var div = document.getElementById(id);
-		
-		if(id=='global-local-comments')
-		{
-			div.style.display='block';
-			document.getElementById('normal-comments').style.display='none';
-			YAHOO.util.Dom.addClass('g', 'head-current'); 
-			YAHOO.util.Dom.removeClass('n', 'head-current');
-		}
-		
-		if(id=='normal-comments')
-		{
-			div.style.display='block';
-			document.getElementById('global-local-comments').style.display='none';
-			YAHOO.util.Dom.addClass('n', 'head-current'); 
-			YAHOO.util.Dom.removeClass('g', 'head-current');
-		}
-	}
-
-	function lightboxImageOn(image_id, Image_title)
-	{
-		var comment_image = 'comment_image';
-		var Image_title = "Image uploaded by - " + Image_title;
-		var div = document.getElementById('lb-edit');
-		var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
-		var Callback ={success:handleSuccess,failure: handleFailure};
-
-		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
-
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
-
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
-
-	function lightboxVideoOn(video_id, You_Tube_title)
-	{
-		var video='video';
-		var You_Tube_title = "Video uploaded by - " + You_Tube_title;
-		var div = document.getElementById('lb-edit');
-		var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
-		var Callback ={success:handleSuccess,failure: handleFailure};
-
-		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
-
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
-
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
-
-	function lightboxoff1(id)
-	{
-		var light = document.getElementById(id);
-		light.style.display = 'none';
-	}
 
 	</script>
-<script type="text/javascript"> var sz_global_config_params = {cppluginurl:"",cpserverurl:"http://sezwho.com", rating_submit_path:"", sitekey:"185305b33abe71cc6b48b758995749ef",blogkey:"48d1db01cd5d2",blogid:"0_48", plugin_version:"2.1",ibhome:"http://www.instablogs.com",partner:"instablogs"} ; </script>
-<script type="text/javascript" id="szJsEmbedScript" src="http://www.instablogs.com/sezwho/sezwho.js"></script>
-<link rel="stylesheet" id="szProfAndEmbedStyleSheet" href="http://www.instablogs.com/sezwho/sezwho.css" type="text/css" media="screen">
+	<style>
+	.black_overlay
+		{
+			display: none;
+			position: absolute;
+			top:0px;
+			left:0px;
+			width:100%;
+			height:100%;
+			/width:expression((document.body.clientWidth) + "px");
+			/height:expression((document.body.clientHeight)+ "px");
+			background-color: black;
+			z-index:1001;
+			-moz-opacity: 0.6;
+			opacity:.60;
+			filter: alpha(opacity=60);
+		}
+				
+		.white_content_video
+		{
+			display: none;
+			position: absolute;
+			top: 90px;
+			left: 37%;
+			min-width:400px;
+			min-height:330px;
+			border: 4px solid #333;
+			background-color: #E6EFF4;
+			z-index:1002;
+		}
+
+		.login-head{background:#333;color:#868686;font: bold 1.9em/1.3em georgia,verdana,arial,serif;padding:8px;}
+		.login-head .close {display:block;float:right;padding:0px;text-align:right;font-size:12px}
+	</style>
 	
 </head>
 
 <body>
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
 <script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
-
-
-<div style="background: url(http://www.instablogs.com/css-img/top-bar-bg.gif) repeat-x;font:bold 10px/1em verdana,arial,serif;text-align:left;height:25px;padding-top:2px;color:#444"><div style="width:950px;margin:0 auto;text-align:left;"><span class="ad-w-us" style="padding-top:5px;font:bold 10px/1em verdana,arial,serif;float:right"><a href="http://www.instablogs.com/ad_solutions.php?b=48">Advertise with Us</a></span>An&nbsp; <a href="http://www.instablogs.com/"><img style="margin-bottom:-6px;" src="http://www.instablogs.com/css-img/bar-logo.gif"></a> Venture &nbsp;&nbsp;</div></div>
 
 	<div id="container">
 	<div style="height:1px;"> </div>
 					<div class="ad-top">
 			<div class="left-top-ad">
-			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT coolbuzz_above_header_728x90 -->
-				<script type="text/javascript">
-				  GA_googleFillSlot("coolbuzz_above_header_728x90");
-				</script>
-				<!-- END OF TAG FOR SLOT coolbuzz_above_header_728x90 -->
-			</div>
+				<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=728x90"></script>			</div>
 			<div class="right-top-ad">
-			<a href="http://www.instablogs.com/ad_solutions.php?b=48"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
+							<a href="http://www.instablogs.com/ad_solutions.php?b=48"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
 			</div>
 			<div class="clear"></div>
 			</div><!-- EOF #ad-top -->
@@ -191,8 +179,20 @@
 				<a href="/" title="Home"><img src="/css-img/header.jpg"></a>
 			</div><!-- EOF header -->
 
-			<div class="clear"></div>
-				<div id="content">
+			<div style="padding:5px;text-align:center;">
+				<script type="text/javascript"><!--
+google_ad_client = "pub-9415440757655812";
+/* coolbuzz, Header 728x15 created 5/29/09 */
+google_ad_slot = "7436508466";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>			</div>
+
+		<div class="extra-ads"></div>
+		<div id="content">
 			<div id="content-box">
 				
 		
@@ -258,7 +258,9 @@
 			
 			</div><!-- EOF #content-box -->
 
-			<div id="content-sidebar">
+			<!--INFOLINKS_OFF--><div id="content-sidebar">
+
+
 <script>
 	function toggle_div(id)
 	{
@@ -270,130 +272,107 @@
 	}
 </script>
 
-<div style="padding-bottom:20px;text-align:center;">
-	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT coolbuzz_glam_rect_300x250     -->
-	<script type="text/javascript">
-	  GA_googleFillSlot("coolbuzz_glam_rect_300x250");
-	</script>
-	<!-- END OF TAG FOR SLOT coolbuzz_glam_rect_300x250    -->
-</div>
-	
-<div class="clear"></div>
-<div class="border"></div>
-		
-	
+<div class="side-ads"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="clear"></div>
 
 <div class="inner-sidebars">
 	<div class="inner-sidebar1">
 
-	<div style="padding-bottom:10px;text-align:center;">
+<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div style="padding-bottom:10px;text-align:center;">
 	<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
 </div>
 
 <div class="market-place">
 	<h2>Instablogs Club</h2>
 	<div class="club-data">
-	<span class="club-top-img"><a href="http://www.gizmowatch.com/entry/maxian-m1t-pmp-is-beyond-the-ordinary-portable-player/"><img src="http://www.instablogsimages.com/images/2008/12/18/maxian-m1t_JaD1c_54_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/maxian-m1t-pmp-is-beyond-the-ordinary-portable-player/">Maxian M1T PMP is beyond the ordinary portable player</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.thedesignblog.org/entry/forever-teapot-set-a-gift-for-someone-special/"><img src="http://www.instablogsimages.com/images/2008/12/18/forever-teapot-set_j7A6j_58_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.thedesignblog.org/entry/forever-teapot-set-a-gift-for-someone-special/">Forever Teapot Set: A gift for someone special</a><span> (<a href="http://www.thedesignblog.org">The Design blog</a>)</span></div><div class="club-top-title"><a href="http://www.automotto.org/entry/motorized-bathtub-illegal-to-bathe-on-the-road/">Motorized bathtub: Illegal to bathe on the road</a><span> (<a href="http://www.automotto.org">Auto Motto</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/rockterscale-knows-when-you-re-rocking-or-sucking/"><img src="http://www.instablogsimages.com/images/2008/12/18/rockterscale_5Fsff_54_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/rockterscale-knows-when-you-re-rocking-or-sucking/">Rockterscale knows when you’re rocking or sucking</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/panasonic-and-irt-research-institute-create-dishwashing-robot/"><img src="http://www.instablogsimages.com/images/2008/12/18/kar-dishwashing-robot_dai9w_5965_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/panasonic-and-irt-research-institute-create-dishwashing-robot/">Panasonic and IRT Research Institute create dishwashing robot</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.thedesignblog.org/entry/35-h-lounger-combines-modern-technology-with-ergonomic-comfort/"><img src="http://www.instablogsimages.com/images/2008/12/18/35-h-chair-1_L1qzX_48_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.thedesignblog.org/entry/35-h-lounger-combines-modern-technology-with-ergonomic-comfort/">35-H Lounger combines modern technology with ergonomic comfort</a><span> (<a href="http://www.thedesignblog.org">The Design blog</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/nvidia-ion-a-cpu-gpu-performance-combo/"><img src="http://www.instablogsimages.com/images/2008/12/18/nvidia-ion_llzyj_5965_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/nvidia-ion-a-cpu-gpu-performance-combo/">Nvidia Ion: A CPU-GPU performance combo</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div>	</div>
+	<span class="club-top-img"><a href="http://www.bornrich.org/entry/exotic-motor-cars-up-for-grabs-at-hamptons-auto-classic-auction/"><img src="http://www.instablogsimages.com/images/2009/06/19/964-shelby-cobra-289_FtUuU_48_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.bornrich.org/entry/exotic-motor-cars-up-for-grabs-at-hamptons-auto-classic-auction/">Exotic motor cars up for grabs at Hamptons Auto Classic auction</a><span> (<a href="http://www.bornrich.org">Born Rich</a>)</span></div><span class="club-top-img"><a href="http://www.hometone.org/entry/ensci-modular-kitchen-for-your-little-den/"><img src="http://www.instablogsimages.com/images/2009/06/19/mini-kitchen-5_fX1RL_1822_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.hometone.org/entry/ensci-modular-kitchen-for-your-little-den/">Ensci modular kitchen for your little den</a><span> (<a href="http://www.hometone.org">Hometone</a>)</span></div><span class="club-top-img"><a href="http://www.ecofriend.org/entry/eco-gadgets-a-private-solar-shower-on-the-beach-in-a-pop-up-privacy-shelter/"><img src="http://www.instablogsimages.com/images/2009/06/19/privacy-shelter_1fgXX_69_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.ecofriend.org/entry/eco-gadgets-a-private-solar-shower-on-the-beach-in-a-pop-up-privacy-shelter/">Eco Gadgets: A private solar shower on the beach in a pop-up privacy shelter</a><span> (<a href="http://www.ecofriend.org">Ecofriend</a>)</span></div><span class="club-top-img"><a href="http://www.ecofriend.org/entry/eco-tech-energy-recovery-inc-installs-water-desalination-plant-in-sharem-al-shiekh/"><img src="http://www.instablogsimages.com/images/2009/06/19/eri-desalination_BxbwH_69_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.ecofriend.org/entry/eco-tech-energy-recovery-inc-installs-water-desalination-plant-in-sharem-al-shiekh/">Eco Tech: Energy Recovery Inc installs water desalination plant in Sharem al Shiekh</a><span> (<a href="http://www.ecofriend.org">Ecofriend</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/living-in-the-oblivion-with-the-sony-ericsson-mobile-terminal/"><img src="http://www.instablogsimages.com/images/2009/06/19/sony-ericsson-mobile-terminal-concept-phone_kFUMj_59_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/living-in-the-oblivion-with-the-sony-ericsson-mobile-terminal/">Living in the oblivion with the Sony Ericsson Mobile Terminal</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div><span class="club-top-img"><a href="http://www.coolcelebs.org/entry/hollywood-walk-of-fame-recipients-for-2010-announced/"><img src="http://www.instablogsimages.com/images/2009/06/19/walk-of-fame_DLW3A_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.coolcelebs.org/entry/hollywood-walk-of-fame-recipients-for-2010-announced/">Hollywood 'Walk of Fame' recipients for 2010 announced</a><span> (<a href="http://www.coolcelebs.org">Coolcelebs</a>)</span></div><span class="club-top-img"><a href="http://www.hometone.org/entry/lolita-swarovski-studded-led-chandelier/"><img src="http://www.instablogsimages.com/images/2009/06/19/ron07_VRSZa_1822_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.hometone.org/entry/lolita-swarovski-studded-led-chandelier/">Lolita: Swarovski-studded  LED chandelier</a><span> (<a href="http://www.hometone.org">Hometone</a>)</span></div>	</div>
 	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
-</div>
+</div><div class="side-ads"></div><div class="clear"></div><div class="clear"> </div>
+	<div class="border"></div>
+	<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
 		
 
 	<div class="clear"></div>
-	
 	<div class="border"></div>
 
-	
-	<div style="text-align:center;padding:10px 0;">
-		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT coolbuzz_glam_160x600     -->
-		<script type="text/javascript">
-		  GA_googleFillSlot("coolbuzz_glam_160x600");
-		</script>
-		<!-- END OF TAG FOR SLOT coolbuzz_glam_160x600     -->
-	</div>
-
-	<div class="border"></div>
-
+	<div class="side-ads"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=160x600"></script></div><div class="clear"></div>
 	</div><!-- EOF inner-sidebar1 -->
-
+	
 		<div class="inner-sidebar2">
-			<div class="market-place">
-				<h2>Blog Ads</h2>		
-				<div class="blog-ads">
-					<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT coolbuzz_blog_ads_nosize -->
-					<script type="text/javascript">
-					  GA_googleFillSlot("coolbuzz_blog_ads_nosize");
-					</script>
-					<!-- END OF TAG FOR SLOT coolbuzz_blog_ads_nosize -->
-				</div>	
-			</div><!-- EOF market-place -->
-
-			<div class="market-place">
-				 			</div><!-- EOF market-place -->
-
-			<div style="padding-bottom:10px;text-align:center">
-				<a href="http://www.continentalmobiles.com/"><img src="/ads-image/banner_button1_125X125.jpg"></a>
-			</div>
-
 			<div class="border"></div>
 
+			<div class="market-place-con">
+				 			</div><!-- EOF market-place -->
+
+			
+			<div class="market-place">
+				<script type="text/javascript">
+					GA_googleFillSlot("runi_button_125x125");
+				</script>
+			</div>
+
+		<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
 			<div id="tags">
 				<h2>Tags</h2>
 				<div class="tag-content">
-					<a href="http://www.coolbuzz.org/tags/accessories/" class="ibn_tag8">accessories</a> <a href="http://www.coolbuzz.org/tags/alarm-clock/" class="ibn_tag8">Alarm Clock</a> <a href="http://www.coolbuzz.org/tags/apple/" class="ibn_tag4">Apple</a> <a href="http://www.coolbuzz.org/tags/art/" class="ibn_tag8">art</a> <a href="http://www.coolbuzz.org/tags/bluetooth/" class="ibn_tag3">Bluetooth</a> <a href="http://www.coolbuzz.org/tags/camera/" class="ibn_tag7">Camera</a> <a href="http://www.coolbuzz.org/tags/chair/" class="ibn_tag5">Chair</a> <a href="http://www.coolbuzz.org/tags/christmas/" class="ibn_tag5">christmas</a> <a href="http://www.coolbuzz.org/tags/clock/" class="ibn_tag9">clock</a> <a href="http://www.coolbuzz.org/tags/computer/" class="ibn_tag6">Computer</a> <a href="http://www.coolbuzz.org/tags/computer-accessories/" class="ibn_tag5">Computer accessories</a> <a href="http://www.coolbuzz.org/tags/consumer-electronics/" class="ibn_tag2">Consumer Electronics</a> <a href="http://www.coolbuzz.org/tags/design/" class="ibn_tag9">design</a> <a href="http://www.coolbuzz.org/tags/designer/" class="ibn_tag6">designer</a> <a href="http://www.coolbuzz.org/tags/designs/" class="ibn_tag1">designs</a> <a href="http://www.coolbuzz.org/tags/fashion/" class="ibn_tag5">fashion</a> <a href="http://www.coolbuzz.org/tags/furniture/" class="ibn_tag7">furniture</a> <a href="http://www.coolbuzz.org/tags/gadget/" class="ibn_tag2">gadget</a> <a href="http://www.coolbuzz.org/tags/gadgets/" class="ibn_tag7">gadgets</a> <a href="http://www.coolbuzz.org/tags/guitar/" class="ibn_tag7">guitar</a> <a href="http://www.coolbuzz.org/tags/hello-kitty/" class="ibn_tag2">Hello Kitty</a> <a href="http://www.coolbuzz.org/tags/home-decor/" class="ibn_tag9">home decor</a> <a href="http://www.coolbuzz.org/tags/home-furnishing/" class="ibn_tag6">Home Furnishing</a> <a href="http://www.coolbuzz.org/tags/iphone/" class="ibn_tag3">iPhone</a> <a href="http://www.coolbuzz.org/tags/ipod/" class="ibn_tag10">ipod</a> <a href="http://www.coolbuzz.org/tags/japan/" class="ibn_tag4">japan</a> <a href="http://www.coolbuzz.org/tags/keyboard/" class="ibn_tag3">Keyboard</a> <a href="http://www.coolbuzz.org/tags/kids/" class="ibn_tag1">kids</a> <a href="http://www.coolbuzz.org/tags/lamp/" class="ibn_tag7">lamp</a> <a href="http://www.coolbuzz.org/tags/led/" class="ibn_tag9">LED</a> <a href="http://www.coolbuzz.org/tags/lego/" class="ibn_tag4">Lego</a> <a href="http://www.coolbuzz.org/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.coolbuzz.org/tags/light/" class="ibn_tag2">light</a> <a href="http://www.coolbuzz.org/tags/light-fixtures/" class="ibn_tag3">Light Fixtures</a> <a href="http://www.coolbuzz.org/tags/lighting/" class="ibn_tag3">Lighting</a> <a href="http://www.coolbuzz.org/tags/mobile-phone/" class="ibn_tag2">mobile phone</a> <a href="http://www.coolbuzz.org/tags/mouse/" class="ibn_tag6">mouse</a> <a href="http://www.coolbuzz.org/tags/mp3/" class="ibn_tag4">mp3</a> <a href="http://www.coolbuzz.org/tags/mp3-player/" class="ibn_tag9">MP3 Player</a> <a href="http://www.coolbuzz.org/tags/music/" class="ibn_tag10">Music</a> <a href="http://www.coolbuzz.org/tags/music-player/" class="ibn_tag5">music player</a> <a href="http://www.coolbuzz.org/tags/phone/" class="ibn_tag1">Phone</a> <a href="http://www.coolbuzz.org/tags/radio/" class="ibn_tag4">radio</a> <a href="http://www.coolbuzz.org/tags/samsung/" class="ibn_tag1">Samsung</a> <a href="http://www.coolbuzz.org/tags/speakers/" class="ibn_tag8">Speakers</a> <a href="http://www.coolbuzz.org/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.coolbuzz.org/tags/toys/" class="ibn_tag8">toys</a> <a href="http://www.coolbuzz.org/tags/usb/" class="ibn_tag10">USB</a> <a href="http://www.coolbuzz.org/tags/watch/" class="ibn_tag6">Watch</a> <a href="http://www.coolbuzz.org/tags/webcam/" class="ibn_tag1">webcam</a> 				</div>	
+					<a href="http://www.coolbuzz.org/tags/accessories/" class="ibn_tag5">accessories</a> <a href="http://www.coolbuzz.org/tags/alarm-clock/" class="ibn_tag7">Alarm Clock</a> <a href="http://www.coolbuzz.org/tags/apple/" class="ibn_tag2">Apple</a> <a href="http://www.coolbuzz.org/tags/art/" class="ibn_tag8">art</a> <a href="http://www.coolbuzz.org/tags/beer/" class="ibn_tag1">beer</a> <a href="http://www.coolbuzz.org/tags/camera/" class="ibn_tag5">Camera</a> <a href="http://www.coolbuzz.org/tags/chair/" class="ibn_tag7">Chair</a> <a href="http://www.coolbuzz.org/tags/china/" class="ibn_tag1">China</a> <a href="http://www.coolbuzz.org/tags/christmas/" class="ibn_tag4">christmas</a> <a href="http://www.coolbuzz.org/tags/clock/" class="ibn_tag9">clock</a> <a href="http://www.coolbuzz.org/tags/computer/" class="ibn_tag3">Computer</a> <a href="http://www.coolbuzz.org/tags/computer-accessories/" class="ibn_tag1">Computer accessories</a> <a href="http://www.coolbuzz.org/tags/coolest-picture-of-the-day/" class="ibn_tag4">Coolest Picture Of The Day</a> <a href="http://www.coolbuzz.org/tags/design/" class="ibn_tag9">design</a> <a href="http://www.coolbuzz.org/tags/designer/" class="ibn_tag5">designer</a> <a href="http://www.coolbuzz.org/tags/diy/" class="ibn_tag2">DIY</a> <a href="http://www.coolbuzz.org/tags/fashion/" class="ibn_tag6">fashion</a> <a href="http://www.coolbuzz.org/tags/furniture/" class="ibn_tag9">furniture</a> <a href="http://www.coolbuzz.org/tags/gadgets/" class="ibn_tag5">gadgets</a> <a href="http://www.coolbuzz.org/tags/guitar/" class="ibn_tag6">guitar</a> <a href="http://www.coolbuzz.org/tags/home-decor/" class="ibn_tag8">home decor</a> <a href="http://www.coolbuzz.org/tags/home-furnishing/" class="ibn_tag3">Home Furnishing</a> <a href="http://www.coolbuzz.org/tags/iphone/" class="ibn_tag1">iPhone</a> <a href="http://www.coolbuzz.org/tags/ipod/" class="ibn_tag10">ipod</a> <a href="http://www.coolbuzz.org/tags/japan/" class="ibn_tag5">japan</a> <a href="http://www.coolbuzz.org/tags/lamp/" class="ibn_tag6">lamp</a> <a href="http://www.coolbuzz.org/tags/led/" class="ibn_tag8">LED</a> <a href="http://www.coolbuzz.org/tags/lego/" class="ibn_tag9">Lego</a> <a href="http://www.coolbuzz.org/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.coolbuzz.org/tags/light/" class="ibn_tag2">light</a> <a href="http://www.coolbuzz.org/tags/lighting/" class="ibn_tag4">Lighting</a> <a href="http://www.coolbuzz.org/tags/mouse/" class="ibn_tag4">mouse</a> <a href="http://www.coolbuzz.org/tags/mp3/" class="ibn_tag3">mp3</a> <a href="http://www.coolbuzz.org/tags/mp3-player/" class="ibn_tag8">MP3 Player</a> <a href="http://www.coolbuzz.org/tags/music/" class="ibn_tag10">Music</a> <a href="http://www.coolbuzz.org/tags/music-player/" class="ibn_tag2">music player</a> <a href="http://www.coolbuzz.org/tags/photo/" class="ibn_tag4">photo</a> <a href="http://www.coolbuzz.org/tags/photos/" class="ibn_tag6">photos</a> <a href="http://www.coolbuzz.org/tags/pic/" class="ibn_tag7">Pic</a> <a href="http://www.coolbuzz.org/tags/picture/" class="ibn_tag9">Picture</a> <a href="http://www.coolbuzz.org/tags/radio/" class="ibn_tag2">radio</a> <a href="http://www.coolbuzz.org/tags/soccer/" class="ibn_tag3">Soccer</a> <a href="http://www.coolbuzz.org/tags/speakers/" class="ibn_tag7">Speakers</a> <a href="http://www.coolbuzz.org/tags/steampunk/" class="ibn_tag1">Steampunk</a> <a href="http://www.coolbuzz.org/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.coolbuzz.org/tags/timepiece/" class="ibn_tag3">timepiece</a> <a href="http://www.coolbuzz.org/tags/toys/" class="ibn_tag7">toys</a> <a href="http://www.coolbuzz.org/tags/usb/" class="ibn_tag10">USB</a> <a href="http://www.coolbuzz.org/tags/video/" class="ibn_tag8">Video</a> <a href="http://www.coolbuzz.org/tags/watch/" class="ibn_tag6">Watch</a> 				</div>	
 				<div class="clear"></div>
 				<div class="more"><a href="/tags/">More&gt;&gt;</a></div>
 			</div><!-- EOF  tags-->
 
+			<div class="clear"></div>
+			
+			<div class="border"></div>
+
+			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
 			<div class="Comments">
 					<h2>Fresh Comments</h2>
 											<div class="image-content">
-							<div class="image"><img src="http://www.instablogs.com/user-img/r/rob/m_robsterboi.jpg"></div>
+							<div class="image"><img src="http://www.instablogsimages.com/user-img/m_man.jpg"></div>
 							<div class="comment-content">
 								<div class="author">
-																	<a href="http://robsterboi.instablogs.com/">Rob Martin</a>
+																	<a href="http://www.asulumitsretsambew.com">Sulumits Retsambew</a>
 																	</div>
-								on <span><a href="http://www.coolbuzz.org/entry/gold-chair-expensive-christmas-gift/#comment-556986">Gold Chair – Expensive...</a> This piece shows an excellent contemporary... </span>
+								on <span><a href="http://www.coolbuzz.org/entry/eventos-buzzball-rolling-out-some-fun/#comment-618359">Evento's Buzzball - Rolling...</a> Please review more about the price and where to buy it. </span>
 							</div>
 						</div>
 						<div class="clear"></div>
 											<div class="image-content">
-							<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+							<div class="image"><img src="http://www.instablogsimages.com/user-img/m_woman.jpg"></div>
 							<div class="comment-content">
 								<div class="author">
-																	<a href="http://www.blueunplugged.com/c.aspx?c=55661">christmas gadgets</a>
+																	<a href="http://celebsgosip.com">celebs gosip</a>
 																	</div>
-								on <span><a href="http://www.coolbuzz.org/entry/baseball-tote-amazing-baseball-bag/#comment-556579">Trendy tote – Amazing...</a> Looks awesome really. Very cool bag and yes suitable for basesball fans. </span>
+								on <span><a href="http://www.coolbuzz.org/entry/now-make-digital-paintings-on-your-iphone/#comment-618334">Now make digital paintings on...</a> this great picture :) . but i dont have i phone :( </span>
 							</div>
 						</div>
 						<div class="clear"></div>
 											<div class="image-content">
-							<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+							<div class="image"><img src="http://www.instablogsimages.com/user-img/m_man.jpg"></div>
 							<div class="comment-content">
 								<div class="author">
-																	<a href="http://astore.amazon.com/buyelectricguitars-20?%5Fencoding=UTF8&amp;node=4">ephiphone electric guitars</a>
+																	<a href="http://dietrinepills.info/acheter-du-relenza.html">relenza</a>
 																	</div>
-								on <span><a href="http://www.coolbuzz.org/entry/big-eye-needle-make-threading-a-cinch/#comment-556573">Big eye needle – No glitch...</a> This is cool idea, nice needle! </span>
+								on <span><a href="http://www.coolbuzz.org/entry/experimental-jewelry-grows-on-you/#comment-618308">Experimental jewelry...</a> Well, this is a very valuable post. Thanks for the information you provided. It would be... </span>
 							</div>
 						</div>
 						<div class="clear"></div>
 											<div class="image-content">
-							<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+							<div class="image"><img src="http://www.instablogsimages.com/user-img/m_man.jpg"></div>
 							<div class="comment-content">
 								<div class="author">
-																	<a href="http://www.blueunplugged.com/c.aspx?c=55661">christmas gadgets</a>
+																	<a href="http://www.easylawyers.co.uk/will.php">Make a Legal Will</a>
 																	</div>
-								on <span><a href="http://www.coolbuzz.org/entry/woodwalk-real-wooden-shoes/#comment-556557">Woodwalk - Real wooden shoes!</a> I am always fascinated by the wooden idea. Wow these wooden shoes simply look awesome. </span>
+								on <span><a href="http://www.coolbuzz.org/entry/hellboy-inspired-xbox-360-case-mod/#comment-618276">Hellboy-inspired Xbox 360...</a> Great I like it so much. </span>
 							</div>
 						</div>
 						<div class="clear"></div>
 											<div class="image-content">
-							<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
+							<div class="image"><img src="http://www.instablogsimages.com/user-img/m_man.jpg"></div>
 							<div class="comment-content">
 								<div class="author">
-								<span style="font-weight:bold">Marcelo Wolfgang</span>								</div>
-								on <span><a href="http://www.coolbuzz.org/entry/pizza-phone-don-t-bother-skipping-your-meals/#comment-556418">Pizza phone: Auto dial a take...</a> You should only give credit to where you found this.
-
-The image you used are from  </span>
+																	<a href="http://newreil.com/tukang-nggame/">tukang nggame</a>
+																	</div>
+								on <span><a href="http://www.coolbuzz.org/entry/spray-can-caps-for-a-stool/#comment-618172">Spray can caps for a stool</a> I like it and I think you make a good point. Thanks for taking the time to share this... </span>
 							</div>
 						</div>
 						<div class="clear"></div>
@@ -404,10 +383,29 @@ The image you used are from  </span>
 
 				<div class="border"></div>
 
+				<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
 							<div id="archives">
 					<h2>Archives</h2>
 					
-					<div class="year" onclick="toggle_div('arch-open0')">2008</div><div id="arch-open0">						<div class="archive-data">
+					<div class="year" onclick="toggle_div('arch-open0')">2009</div><div id="arch-open0">						<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200906/">June 2009</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200905/">May 2009</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200904/">April 2009</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200903/">March 2009</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200902/">February 2009</a>
+						</div>
+											<div class="archive-data">
+							<a href="http://www.coolbuzz.org/archives/200901/">January 2009</a>
+						</div>
+					</div><div class="year" onclick="toggle_div('arch-open1')">2008</div><div id="arch-open1" style="display:none;">						<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200812/">December 2008</a>
 						</div>
 											<div class="archive-data">
@@ -443,7 +441,7 @@ The image you used are from  </span>
 											<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200801/">January 2008</a>
 						</div>
-					</div><div class="year" onclick="toggle_div('arch-open1')">2007</div><div id="arch-open1" style="display:none;">						<div class="archive-data">
+					</div><div class="year" onclick="toggle_div('arch-open2')">2007</div><div id="arch-open2" style="display:none;">						<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200712/">December 2007</a>
 						</div>
 											<div class="archive-data">
@@ -479,7 +477,7 @@ The image you used are from  </span>
 											<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200701/">January 2007</a>
 						</div>
-					</div><div class="year" onclick="toggle_div('arch-open2')">2006</div><div id="arch-open2" style="display:none;">						<div class="archive-data">
+					</div><div class="year" onclick="toggle_div('arch-open3')">2006</div><div id="arch-open3" style="display:none;">						<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200612/">December 2006</a>
 						</div>
 											<div class="archive-data">
@@ -515,21 +513,20 @@ The image you used are from  </span>
 											<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200601/">January 2006</a>
 						</div>
-					</div><div class="year" onclick="toggle_div('arch-open3')">2005</div><div id="arch-open3" style="display:none;">						<div class="archive-data">
+					</div><div class="year" onclick="toggle_div('arch-open4')">2005</div><div id="arch-open4" style="display:none;">						<div class="archive-data">
 							<a href="http://www.coolbuzz.org/archives/200512/">December 2005</a>
 						</div>
 										</div>
 				</div><!-- EOF archives -->
 				
-				<div class="border"></div>
-
-
+				<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
 			<div class="market-place">
-			
 				<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=48">Contact Us</a>.</div>
 			</div><!-- EOF market-place -->
-		
-			
+
+			<div class="border"></div>
+
+			<div class="side-ads"></div><div class="clear"></div>
 	</div><!-- EOF inner-sidebar2 -->
 
 </div><!-- EOF inner-sidebars -->
@@ -539,195 +536,15 @@ The image you used are from  </span>
 </div><!-- EOF #content-sidebar -->
 		</div><!-- EOF #content -->
 
-				<div class="clear"> </div>
+		<!--INFOLINKS_OFF--><div class="clear"> </div>
 
-		<script type="text/javascript">
-			function get_recent_stories(id)
-			{
-				var url = '/show_club_data.php';
-				appear = document.getElementById('channel_data');	
-				var pars = 'selected_value='+id;
-				$(appear).innerHTML = '<center>Loading......</center>';
-				var myAjax = new Ajax.Updater( appear, url, { method: 'post', parameters: pars });
-
-				for(var i=1; i<=9; i++ )
-				{
-					
-					if($('tab' + i).hasClassName('current') == 1)
-					{
-						$('tab' + i).removeClassName('current');
-						$('tab' + i).addClassName('done');
-					}
-					
-				}
-					$('tab'+id).removeClassName('done');
-					$('tab'+id).addClassName('current');
-				
-			}
-
-			function display_class(id, divid, tabid, num)
-			{
-				
-			}
-		</script>
 		
-					<div class="browse-main">
-			<div class="browse-cat">
-				<div class="common-head">Browse by Category</div>			
-								<ul id="network_list">
-				<li id="tab1" class="done" style="cursor:pointer" onclick="get_recent_stories(1)">Business</li><li id="tab2" class="done" style="cursor:pointer" onclick="get_recent_stories(2)">Technology</li><li id="tab3" class="done" style="cursor:pointer" onclick="get_recent_stories(3)">Environment</li><li id="tab4" class="done" style="cursor:pointer" onclick="get_recent_stories(4)">Health &amp; Fitness</li><li id="tab5" class="current" style="cursor:pointer" onclick="get_recent_stories(5)">Lifestyle</li><li id="tab6" class="done" style="cursor:pointer" onclick="get_recent_stories(6)">Entertainment</li><li id="tab7" class="done" style="cursor:pointer" onclick="get_recent_stories(7)">Travel</li><li id="tab8" class="done" style="cursor:pointer" onclick="get_recent_stories(8)">Politics &amp; Society</li><li id="tab9" class="done" style="cursor:pointer" onclick="get_recent_stories(9)">Sports</li>				</ul> 
-			</div><!-- EOF browse cat -->
-
-			<div class="channel-data" id="channel_data">
-				<div class="blog-under" style="height:470px;overflow:scroll">						<span>Blogs under <b><a href="http://www.instablogs.com/lifestyle/">Lifestyle</a></b></span>
-															
-							<div class="blog-name"><a href="http://www.annukapoor.com">Annu Kapoor</a></div>
-																
-							<div class="blog-name"><a href="http://www.beautilicious.org">Beautilicious</a></div>
-																
-							<div class="blog-name"><a href="http://www.bloggingpet.com">Blogging Pet</a></div>
-																
-							<div class="blog-name"><a href="http://www.bodypiercingblog.com">Body Piercing Blog</a></div>
-																
-							<div class="blog-name"><a href="http://www.bornrich.org">Born Rich</a></div>
-																
-							<div class="blog-name"><a href="http://latemag.com/modern">Breathe Modern</a></div>
-																
-							<div class="blog-name"><a href="http://www.coolbuzz.org">Coolbuzz</a></div>
-																
-							<div class="blog-name"><a href="http://www.enflower.org">Enflower</a></div>
-																
-							<div class="blog-name"><a href="http://www.everythingweird.com">Everything Weird</a></div>
-																
-							<div class="blog-name"><a href="http://thefashionbirdcage.com">Fashion Birdcage</a></div>
-																
-							<div class="blog-name"><a href="http://www.foodmall.org">Foodmall</a></div>
-																
-							<div class="blog-name"><a href="http://www.glamkids.org">Glam Kids</a></div>
-																
-							<div class="blog-name"><a href="http://www.hairflair.org">Hair Flair</a></div>
-																
-							<div class="blog-name"><a href="http://www.hometone.org">Hometone</a></div>
-																
-							<div class="blog-name"><a href="http://www.ilovebling.org">I Love Bling</a></div>
-																
-							<div class="blog-name"><a href="http://www.ilovemybaby.org">I love my baby</a></div>
-																
-							<div class="blog-name"><a href="http://www.inthekitchen.org">In the Kitchen</a></div>
-																
-							<div class="blog-name"><a href="http://www.latestbooks.org">Latestbooks</a></div>
-																
-							<div class="blog-name"><a href="http://www.lingeriemagic.org">Lingerie Magic</a></div>
-																
-							<div class="blog-name"><a href="http://www.madaboutbags.org">Mad About Bags</a></div>
-																
-							<div class="blog-name"><a href="http://www.madaboutshoes.org">Mad About Shoes</a></div>
-																
-							<div class="blog-name"><a href="http://www.onahigh.org">On a High</a></div>
-																
-							<div class="blog-name"><a href="http://www.perfumista.net">Perfumista</a></div>
-																
-							<div class="blog-name"><a href="http://www.prasoonjoshi.com">Prasoon Joshi</a></div>
-																
-							<div class="blog-name"><a href="http://www.random-good-stuff.com">Random Good Stuff </a></div>
-																
-							<div class="blog-name"><a href="http://www.shearyadi.com">Shearyadis World</a></div>
-																
-							<div class="blog-name"><a href="http://www.styleguru.org">Style Guru</a></div>
-																
-							<div class="blog-name"><a href="http://www.tattooblog.org">Tattoo blog</a></div>
-																
-							<div class="blog-name"><a href="http://www.thedesignblog.org">The Design blog</a></div>
-																
-							<div class="blog-name"><a href="http://www.uberdandy.com">Uberdandy</a></div>
-																
-							<div class="blog-name"><a href="http://www.ubereyes.org">Ubereyes</a></div>
-																
-							<div class="blog-name"><a href="http://www.wedlog.org">Wed log</a></div>
-																
-							<div class="blog-name"><a href="http://www.womenlifestyle.com">Women Life Style</a></div>
-																
-							<div class="blog-name"><a href="http://www.yummydesserts.org">Yummy Desserts</a></div>
-							</div><div class="blog-data"><div class="single-story">								<div class="r-img">
-									<a href="http://www.thedesignblog.org/entry/forever-teapot-set-a-gift-for-someone-special/"><img src="http://www.instablogsimages.com/images/2008/12/18/forever-teapot-set_j7A6j_58_160x120.jpg"></a>
-								</div>
-
-								<div class="r-title1">
-									<a href="http://www.thedesignblog.org/entry/forever-teapot-set-a-gift-for-someone-special/">Forever Teapot Set: A gift for someone special</a>
-								</div>
-
-								<div class="r-desc">
-									
-Still difficult to decide what to gift the special ones this Holiday Season? Checkout this Forever Teapot Set For Two by Marla Dawn that could be the perfect Christmas gift, becoming an embodiment of two becoming one, for someone special. ...								</div>
-							
-						</div><!-- EOF single-story -->
-						<div class="clear"></div>
-						<div class="single-story">								<div class="r-img">
-									<a href="http://www.thedesignblog.org/entry/35-h-lounger-combines-modern-technology-with-ergonomic-comfort/"><img src="http://www.instablogsimages.com/images/2008/12/18/35-h-chair-1_L1qzX_48_160x120.jpg"></a>
-								</div>
-
-								<div class="r-title1">
-									<a href="http://www.thedesignblog.org/entry/35-h-lounger-combines-modern-technology-with-ergonomic-comfort/">35-H Lounger combines modern technology with ergonomic comfort</a>
-								</div>
-
-								<div class="r-desc">
-									
-While talking of comfort and luxury, we should not be worried about the price tag! This is possibly the reason why Herman Miller, the designer of the 35 H Relaxation Armchair, holds back the price info of his latest wingchair. Featuring smooth leather...								</div>
-							
-						</div><!-- EOF single-story -->
-						<div class="clear"></div>
-						<div class="single-story">								<div class="r-img">
-									<a href="http://www.hometone.org/entry/phillipe-starck-zikmu-speakers-enigmatically-appealing/"><img src="http://www.instablogsimages.com/images/2008/12/18/starck-zimku_vicbc_48_bwLC9_1822_160x120.jpg"></a>
-								</div>
-
-								<div class="r-title1">
-									<a href="http://www.hometone.org/entry/phillipe-starck-zikmu-speakers-enigmatically-appealing/">Phillipe Starck Zikmu Speakers: Enigmatically appealing!</a>
-								</div>
-
-								<div class="r-desc">
-									
-
-Philippe Starck has once again proved himself. We have already witnessed an array of his designs and now he created a set of wireless speakers dubbed Zimku. Steal a quick look on the image above. Curvy speakers with dense black façade…simply...								</div>
-							
-						</div><!-- EOF single-story -->
-						<div class="clear"></div>
-						<div class="single-story">								<div class="r-img">
-									<a href="http://www.hometone.org/entry/iluv-rolls-out-new-wall-mounted-hi-fi-system/"><img src="http://www.instablogsimages.com/images/2008/12/18/iluv-9500_cfrLe_1822_160x120.jpg"></a>
-								</div>
-
-								<div class="r-title1">
-									<a href="http://www.hometone.org/entry/iluv-rolls-out-new-wall-mounted-hi-fi-system/">iLuv rolls out new wall mounted Hi-Fi system</a>
-								</div>
-
-								<div class="r-desc">
-									
-
-Recently we witnessed iLuv’s iNT170, a techie alarm clock. The company seems to give more love to the customer or vice versa. Now, it has now launched i9500, a sleek looking hi-fi system that clings to your wall like a spider monkey. 
- 
-Features:...								</div>
-							
-						</div><!-- EOF single-story -->
-						<div class="clear"></div>
-						<div class="single-story">								<div class="r-img">
-									<a href="http://www.thedesignblog.org/entry/wild-fold/"><img src="http://www.instablogsimages.com/images/2008/12/18/wild-fold_hLdok_58_160x120.jpg"></a>
-								</div>
-
-								<div class="r-title1">
-									<a href="http://www.thedesignblog.org/entry/wild-fold/">Wild Fold: A concept in straight lines</a>
-								</div>
-
-								<div class="r-desc">
-									
-
-Motivated by Samsung’s Flexible OLED, designer Mac Funamizu has popped up with an innovative mobile phone that is a true representative of mobility and compactness. Hailed as the ‘Wild Fold,’ the concept phone features a neat design in straight...								</div>
-							
-						</div><!-- EOF single-story -->
-						<div class="clear"></div>
-						</div>			</div><!-- EOF channel-data-->
-		</div><!-- EOF browse-main-->
-		<div class="clear"></div>		
 		<div id="ad-footer">
-			
+
+			<div class="side-ads"></div>
+
+			<div class="side-ads"></div>
+
 		</div><!-- EOF #ad-footer -->
 
 		<div id="footer">
@@ -740,20 +557,12 @@ Motivated by Samsung’s Flexible OLED, designer Mac Funamizu has popped up with
 				<a href="http://www.instablogs.com/ad_solutions.php?b=48">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
 				</div>
 			</div><!-- EOF #footer-main -->
-		</div><!-- EOF #footer -->
-		
-		
-<!-- Start of StatCounter Code -->
-<script type="text/javascript" language="javascript">
-var sc_project=1132903; 
-var sc_invisible=1; 
-var sc_partition=10; 
-var sc_security="7a25731b"; 
-var sc_remove_link=1; 
-</script>
 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c11.statcounter.com/counter.php?sc_project=1132903&java=0&security=7a25731b&invisible=1" alt="hit counter html code" border="0"> </noscript>
-<!-- End of StatCounter Code -->
+			<div class="side-ads"></div>
+
+			<div class="side-ads"></div>
+
+		</div><!-- EOF #footer -->
 
 		<!-- Start of StatCounter Code Network 0-->
 		<script type="text/javascript" language="javascript">
@@ -767,21 +576,10 @@ var sc_remove_link=1;
 		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c24.statcounter.com/counter.php?sc_project=2497465&java=0&security=77633a20&invisible=0" alt="blog counter" border="0"> </noscript>
 		<!-- End of StatCounter Code -->
 
+		
 	</div> <!-- EOF #container -->
   
 
-		<!-- Start of StatCounter Code -->
-		<script type="text/javascript">
-		sc_project=3554791; 
-		sc_invisible=1; 
-		sc_partition=39; 
-		sc_security="3a8f7447"; 
-		sc_remove_link=1; 
-		</script>
-
-		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c40.statcounter.com/3554791/0/3a8f7447/1/" alt="counter free hit invisible" ></div></noscript>
-		<!-- End of StatCounter Code -->
-	
 <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -791,6 +589,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-601944-6");
 pageTracker._trackPageview();
 </script>
+
 
 <!-- Lifestyle Google Analytics -->
 <script type="text/javascript">
@@ -811,4 +610,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-601944-10");
 pageTracker._trackPageview();
 </script>
+
+<div class="side-ads">
+	</div>
 </body></html>
