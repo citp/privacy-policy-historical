@@ -1,259 +1,63 @@
-<!--The following is the downloaded HTML source of the mlcalc.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218071444id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mlcalc.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619054441id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Privacy Policy - Mortgage Loan Calculator</title>
-	<link href="http://www.mlcalc.com/themes/mlcalc/style.css" type="text/css" rel="stylesheet">
+	<title>Privacy Policy</title>
+		<link href="http://www.mlcalc.com/themes/mlcalc/style.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="http://www.mlcalc.com/jquery.js"></script>
 	<script type="text/javascript" src="http://www.mlcalc.com/themes/mlcalc/script.js"></script>
-	<script type="text/javascript"><!--
-		img1 = new Image(312,44);
-		img1.src="http://www.mlcalc.com/themes/mlcalc/images/top-panel-loan.png";
-		$(document).ready(function() {initialize()})
+		<script type="text/javascript"><!--
+		SITE_URL  = "http://www.mlcalc.com";
+		THEME_URL = "http://www.mlcalc.com/themes/mlcalc";
+		var img1 = new Image(300,44);
+		img1.src = "http://www.mlcalc.com/themes/mlcalc/images/top-panel-loan.png";
+		var img2 = new Image(97,27);
+		img2.src = "http://www.mlcalc.com/themes/mlcalc/images/button-calculate-disabled.png";
+		$(document).ready(function() {
+			initialize();
+					})
 	//--></script>
 	<!--[if lte IE 6]> <script type="text/javascript" src="http://www.mlcalc.com/themes/mlcalc/jquery.pngFix.js"></script> <![endif]-->
 	<link rel="shortcut icon" href="http://www.mlcalc.com/favicon.ico" type="image/vnd.microsoft.icon">
 	<link rel="icon" href="http://www.mlcalc.com/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 <body>
-<base href="http://www.mlcalc.com/">
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8183421-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<div id="Shader"></div>
 
 <center>
-<table cellpadding="0" cellspacing="0" width="960">
-	<tbody><tr>
-		<td valign="top"><map name="mortgage">
-	<area shape="rect" coords="150,10,293,36" title="Switch to loan calculator" onclick="$('.panelItem').toggle(); return false;" href="#">
-	<area shape="default" nohref="nohref">
-</map>
 
-<map name="loan">
-	<area shape="rect" coords="6,10,149,36" title="Switch to mortgage calculator" onclick="$('.panelItem').toggle(); return false;" href="#">
-	<area shape="default" nohref="nohref">
-</map>
-
-<table cellpadding="0" cellspacing="0" width="300">
-	<tbody><tr>
-		<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/top-panel-mortgage.png" width="300" height="44" usemap="#mortgage" class="panelItem fixPng"><img src="http://www.mlcalc.com/themes/mlcalc/images/top-panel-loan.png" width="300" height="44" usemap="#loan" style="display:none" class="panelItem fixPng"></td>
-	</tr>
-	<tr>
-		<td style="background: url(http://www.mlcalc.com/themes/mlcalc/images/left-bg.png)" class="fixPng" width="7"></td>
-		<td align="center" bgcolor="#F5F5F5" width="286">
-
-			<form action="http://www.mlcalc.com/" method="post" id="mortgageForm" class="panelItem" autocomplete="off">
-			<input type="hidden" name="ml" value="mortgage">
-			<input type="hidden" name="cl" value="true">
-			<table cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr><td height="10"></td></tr>
-				<tr><td width="15"></td><td align="center">
-					<table cellpadding="5" cellspacing="0" width="100%">
-						<tbody><tr id="ma">
-							<td align="right"><label for="ma">Purchase price:</label></td>
-							<td nowrap="nowrap"><input type="text" name="ma" value="250,000" size="10" class="valid" minval="1" maxval="99999999" errmsg="Purchase price must be in the range from 1 to 99,999,999."> $</td>
-						</tr>
-						<tr id="dp">
-							<td align="right"><label for="dp">Down payment:</label></td>
-							<td nowrap="nowrap"><input type="text" name="dp" value="10" size="3" class="valid" minval="1" maxval="99" errmsg="Down payment must be in the range from 1 to 99."> % <span id="downPaymentValue"></span></td>
-						</tr>
-						<tr id="mt">
-							<td align="right"><label for="mt">Mortgage term:</label></td>
-							<td nowrap="nowrap"><input type="text" name="mt" value="30" size="3" class="valid" minval="1" maxval="100" errmsg="Mortgage term must be in the range from 1 to 100."> years</td>
-						</tr>
-						<tr id="ir">
-							<td align="right"><label for="ir">Interest rate:</label></td>
-							<td nowrap="nowrap"><input type="text" name="ir" value="6.5" size="3" class="valid" minval="0.01" maxval="99.99" errmsg="Interest rate must be in the range from 0.01 to 99.99."> %</td>
-						</tr>
-						<tr id="pt">
-							<td align="right"><label for="pt">Property tax:</label></td>
-							<td nowrap="nowrap"><input type="text" name="pt" value="3,000" size="6" class="valid" minval="0" maxval="999999" errmsg="Property tax must be in the range from 0 to 999999."> $ per year</td>
-						</tr>
-						<tr id="pi">
-							<td align="right"><label for="pi">Property insurance:</label></td>
-							<td nowrap="nowrap"><input type="text" name="pi" value="1,500" size="6" class="valid" minval="0" maxval="999999" errmsg="Property insurance must be in the range from 0 to 999999."> $ per year</td>
-						</tr>
-						<tr id="mi">
-							<td align="right"><label for="mi">PMI:</label></td>
-							<td nowrap="nowrap"><input type="text" name="mi" value="0.52" size="3" class="valid" minval="0" maxval="99.99" errmsg="PMI must be in the range from 0 to 99.99."> %</td>
-						</tr>
-						<tr>
-							<td align="right"><label>First payment date:</label></td>
-							<td nowrap="nowrap"><select name="sm">
-<option label="Jan" value="1">Jan</option>
-<option label="Feb" value="2">Feb</option>
-<option label="Mar" value="3">Mar</option>
-<option label="Apr" value="4">Apr</option>
-<option label="May" value="5">May</option>
-<option label="Jun" value="6">Jun</option>
-<option label="Jul" value="7">Jul</option>
-<option label="Aug" value="8">Aug</option>
-<option label="Sep" value="9">Sep</option>
-<option label="Oct" value="10">Oct</option>
-<option label="Nov" value="11">Nov</option>
-<option label="Dec" value="12" selected="selected">Dec</option>
-</select>
- <select name="sy">
-<option label="1993" value="1993">1993</option>
-<option label="1994" value="1994">1994</option>
-<option label="1995" value="1995">1995</option>
-<option label="1996" value="1996">1996</option>
-<option label="1997" value="1997">1997</option>
-<option label="1998" value="1998">1998</option>
-<option label="1999" value="1999">1999</option>
-<option label="2000" value="2000">2000</option>
-<option label="2001" value="2001">2001</option>
-<option label="2002" value="2002">2002</option>
-<option label="2003" value="2003">2003</option>
-<option label="2004" value="2004">2004</option>
-<option label="2005" value="2005">2005</option>
-<option label="2006" value="2006">2006</option>
-<option label="2007" value="2007">2007</option>
-<option label="2008" value="2008" selected="selected">2008</option>
-<option label="2009" value="2009">2009</option>
-<option label="2010" value="2010">2010</option>
-<option label="2011" value="2011">2011</option>
-<option label="2012" value="2012">2012</option>
-<option label="2013" value="2013">2013</option>
-<option label="2014" value="2014">2014</option>
-<option label="2015" value="2015">2015</option>
-<option label="2016" value="2016">2016</option>
-<option label="2017" value="2017">2017</option>
-<option label="2018" value="2018">2018</option>
-<option label="2019" value="2019">2019</option>
-<option label="2020" value="2020">2020</option>
-<option label="2021" value="2021">2021</option>
-<option label="2022" value="2022">2022</option>
-<option label="2023" value="2023">2023</option>
-</select>
-</td>
-						</tr>
-						<tr>
-							<td align="right"><label>Amortization:</label></td>
-							<td nowrap="nowrap">
-								<input type="radio" name="as" value="year" id="mas1" checked=""> <label for="mas1">show by year</label><br>
-								<input type="radio" name="as" value="month" id="mas2"> <label for="mas2">show by month</label><br>
-								<input type="radio" name="as" value="none" id="mas3"> <label for="mas3">don't show</label>
-							</td>
-						</tr>
-						<tr>
-							<td height="10"></td>
-						</tr>
-						<tr>
-							<td colspan="2" align="center"><input type="submit" value="Calculate" class="sbmButton"></td>
-						</tr>
-					</tbody></table>
-				</td><td width="15"></td></tr>
-				<tr><td height="10"></td></tr>
-			</tbody></table>
-			</form>
-
-			<form action="http://www.mlcalc.com/" method="post" id="loanForm" class="panelItem" style="display:none" autocomplete="off">
-			<input type="hidden" name="ml" value="loan">
-			<input type="hidden" name="cl" value="true">
-			<table cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr><td height="10"></td></tr>
-				<tr><td width="15"></td><td align="center">
-					<table cellpadding="5" cellspacing="0">
-						<tbody><tr id="la">
-							<td align="right"><label for="la">Loan amount:</label></td>
-							<td nowrap="nowrap"><input type="text" name="la" value="150,000" size="10" class="valid" minval="1" maxval="99999999" errmsg="Loan amount must be in the range from 1 to 99,999,999."> $</td>
-						</tr>
-						<tr id="lt">
-							<td align="right"><label for="lt">Loan term:</label></td>
-							<td nowrap="nowrap"><input type="text" name="lt" value="15" size="3" class="valid" minval="1" maxval="100" errmsg="Loan term must be in the range from 1 to 100."> years</td>
-						</tr>
-						<tr id="ir">
-							<td align="right"><label for="ir">Interest rate:</label></td>
-							<td nowrap="nowrap"><input type="text" name="ir" value="6.5" size="3" class="valid" minval="0.01" maxval="99.99" errmsg="Interest rate must be in the range from 0.01 to 99.99."> %</td>
-						</tr>
-						<tr>
-							<td align="right"><label>First payment date:</label></td>
-							<td nowrap="nowrap"><select name="sm">
-<option label="Jan" value="1">Jan</option>
-<option label="Feb" value="2">Feb</option>
-<option label="Mar" value="3">Mar</option>
-<option label="Apr" value="4">Apr</option>
-<option label="May" value="5">May</option>
-<option label="Jun" value="6">Jun</option>
-<option label="Jul" value="7">Jul</option>
-<option label="Aug" value="8">Aug</option>
-<option label="Sep" value="9">Sep</option>
-<option label="Oct" value="10">Oct</option>
-<option label="Nov" value="11">Nov</option>
-<option label="Dec" value="12" selected="selected">Dec</option>
-</select>
- <select name="sy">
-<option label="1993" value="1993">1993</option>
-<option label="1994" value="1994">1994</option>
-<option label="1995" value="1995">1995</option>
-<option label="1996" value="1996">1996</option>
-<option label="1997" value="1997">1997</option>
-<option label="1998" value="1998">1998</option>
-<option label="1999" value="1999">1999</option>
-<option label="2000" value="2000">2000</option>
-<option label="2001" value="2001">2001</option>
-<option label="2002" value="2002">2002</option>
-<option label="2003" value="2003">2003</option>
-<option label="2004" value="2004">2004</option>
-<option label="2005" value="2005">2005</option>
-<option label="2006" value="2006">2006</option>
-<option label="2007" value="2007">2007</option>
-<option label="2008" value="2008" selected="selected">2008</option>
-<option label="2009" value="2009">2009</option>
-<option label="2010" value="2010">2010</option>
-<option label="2011" value="2011">2011</option>
-<option label="2012" value="2012">2012</option>
-<option label="2013" value="2013">2013</option>
-<option label="2014" value="2014">2014</option>
-<option label="2015" value="2015">2015</option>
-<option label="2016" value="2016">2016</option>
-<option label="2017" value="2017">2017</option>
-<option label="2018" value="2018">2018</option>
-<option label="2019" value="2019">2019</option>
-<option label="2020" value="2020">2020</option>
-<option label="2021" value="2021">2021</option>
-<option label="2022" value="2022">2022</option>
-<option label="2023" value="2023">2023</option>
-</select>
-</td>
-						</tr>
-						<tr>
-							<td align="right"><label>Amortization:</label></td>
-							<td nowrap="nowrap">
-								<input type="radio" name="as" value="year" id="las1" checked=""> <label for="las1">show by year</label><br>
-								<input type="radio" name="as" value="month" id="las2"> <label for="las2">show by month</label><br>
-								<input type="radio" name="as" value="none" id="las3"> <label for="las3">don't show</label>
-							</td>
-						</tr>
-						<tr>
-							<td height="10"></td>
-						</tr>
-						<tr>
-							<td colspan="2" align="center"><input type="submit" value="Calculate" class="sbmButton"></td>
-						</tr>
-					</tbody></table>
-				</td><td width="15"></td></tr>
-				<tr><td height="10"></td></tr>
-			</tbody></table>
-			</form>
-
-		</td>
-		<td style="background: url(http://www.mlcalc.com/themes/mlcalc/images/right-bg.png)" class="fixPng" width="7"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/bottom.png" class="fixPng" width="300" height="13"></td>
-	</tr>
-	</tbody></table></td>
-		<td><table cellpadding="0" cellspacing="0" width="20"><tbody><tr><td></td></tr></tbody></table> </td>
-		<td width="100%" valign="top">
-			<table cellpadding="0" cellspacing="0" width="640"><tbody><tr>
-				<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/table-rounded-top.png" width="640" height="13"></td>
-			</tr><tr>
-				<td style="background: url(http://www.mlcalc.com/themes/mlcalc/images/left-table-bg.png)" width="6"><table cellpadding="0" cellspacing="0" width="6"><tbody><tr><td></td></tr></tbody></table></td>
-				<td width="628" align="center" bgcolor="#F5F5F5">
+<table cellpadding="0" cellspacing="0" width="780" style="height: 100%"><tbody><tr>
+	<td></td><td colspan="2" class="you-are-here">
+		
+		<a href="http://www.mlcalc.com/">Home</a>
+		<span>»</span>
+				<b>Privacy Policy</b>
+	</td>
+</tr><tr>
+	<td colspan="3" height="10"></td>
+</tr><tr>
+	<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/table-rounded-top-780.png" width="780" height="13"></td>
+</tr><tr>
+	<td style="background: url(http://www.mlcalc.com/themes/mlcalc/images/left-table-bg.png)" width="6"><table cellpadding="0" cellspacing="0" width="6"><tbody><tr><td></td></tr></tbody></table></td>
+	<td width="768" align="center" bgcolor="#F5F5F5" valign="middle">
 <table cellpadding="20" cellspacing="0" class="webpage" width="100%"><tbody><tr><td>
 	<table cellpadding="0" cellspacing="0">
 		<tbody><tr><td class="big">Privacy Policy</td></tr>
 		<tr><td height="20"></td></tr>
 		<tr><td>
-<p><strong>By visiting, using and/or submitting information to <a href="/">http://www.mlcalc.com/</a> (the “Site”), you are accepting the practices described in this Privacy Policy and the terms and conditions of the Site’s Agreement of Terms of Use located at the URL <a href="/terms.htm">http://www.mlcalc.com/terms.htm</a> (the “Terms of Use”).&nbsp; </strong></p>
+<p><strong>By visiting, using and/or submitting information to <a href="http://www.mlcalc.com/">http://www.mlcalc.com/</a> (the “Site”), you are accepting the practices described in this Privacy Policy and the terms and conditions of the Site’s Agreement of Terms of Use located at the URL <a href="http://www.mlcalc.com/terms.htm">http://www.mlcalc.com/terms.htm</a> (the “Terms of Use”).&nbsp; </strong></p>
 <p>This Privacy Policy explains the use of information you may submit to the Site, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. </p>
 <p><strong>Collection of Personally Identifiable Information</strong></p>
 <p>Many of the features of the Site are available to you without your providing personally identifiable information. Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address, and birth date.&nbsp; The following are certain situations in which your personally identifiable information may be collected:</p>
@@ -327,7 +131,7 @@
 <p><strong>Changes to this Privacy Policy</strong></p>
 <p>The right to update, amend and/or change this Privacy Policy at any time and without notice is reserved. Updates to this Privacy Policy will be posted here. Any information collected from you online is subject only to the Site’s most current Privacy Policy. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. Your continued access and use of the Site following the posting of any such changes shall automatically be deemed your acceptance of the same.</p>
 <p><strong>Questions or Concerns</strong></p>
-<p>If you have questions, comments, concerns or feedback regarding this Privacy Policy, <a href="/feedback.htm">contact us</a>.</p>
+<p>If you have questions, comments, concerns or feedback regarding this Privacy Policy, <a href="http://www.mlcalc.com/feedback.htm">contact us</a>.</p>
 <p><strong>Miscellaneous</strong></p>
 <p>If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy.</p>
 <p>The headings contained in this Privacy Policy are for convenience of reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy.</p>
@@ -339,28 +143,28 @@
 				</td>
 				<td style="background: url(http://www.mlcalc.com/themes/mlcalc/images/right-table-bg.png)" width="6"><table cellpadding="0" cellspacing="0" width="6"><tbody><tr><td></td></tr></tbody></table></td>
 			</tr><tr>
-									<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/table-rounded-bottom.png" width="640" height="13"></td>
+									<td colspan="3"><img src="http://www.mlcalc.com/themes/mlcalc/images/table-rounded-bottom-780.png" width="780" height="13"></td>
 							</tr>
-			<tr><td colspan="3" height="30"></td></tr>
+			<tr><td colspan="3" height="100%"><table cellpadding="0" cellspacing="0"><tbody><tr><td height="20"></td></tr></tbody></table></td></tr>
 			<tr>
 				<td colspan="3" class="small" align="center">
+					
 																		<a href="http://www.mlcalc.com/">Home</a>
-												 &nbsp;|&nbsp; 																		<a href="http://www.mlcalc.com/widget.htm">Free Widget</a>
-												 &nbsp;|&nbsp; 																		<a href="http://www.mlcalc.com/terms.htm">Terms of Use</a>
-												 &nbsp;|&nbsp; 																		<b>Privacy Policy</b>
+												 &nbsp;|&nbsp; 																		<a href="http://www.mlcalc.com/mortgage-rates/">Mortgage Rates</a>
+												 &nbsp;|&nbsp; 																		<a href="http://www.mlcalc.com/free-widgets/">Free Widgets</a>
 												 &nbsp;|&nbsp; 																		<a href="http://www.mlcalc.com/feedback.htm">Contact Us</a>
 																					</td>
 			</tr>
 			<tr><td colspan="3" height="5"></td></tr>
 			<tr>
 				<td colspan="3" class="small" align="center">
-					Copyright © <span title="0.08">2008</span> MLCALC.COM. All rights reserved.
+					Copyright © <span title="0.92">2008-2009</span> MLCALC.COM. All rights reserved. <a href="http://www.mlcalc.com/terms.htm" class="copyright">Terms of Use</a> &nbsp;|&nbsp; <a href="http://www.mlcalc.com/privacy.htm" class="copyright">Privacy</a>
 				</td>
 			</tr>
 			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+		
+	
+
 </center>
 
 
