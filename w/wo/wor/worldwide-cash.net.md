@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219225144id_/http%3A//www.worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwide-cash.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212436id_/http%3A//www.worldwide-cash.net/pages/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
-# :: World Wide Cash .net :: Get Paid To Read, Click, Refer, Signup, and much more! :: No Minimum payout! Directly paid on e-gold!
+# :: World Wide Cash .net :: Get Paid To Read, Click, Refer, Signup, and much more! :: No Minimum payout!
 
   
 **WorldWide-Cash.net Respects Your Privacy** **Information Collected** WorldWide-Cash.net has created this privacy statement in order to demonstrate our firm commitment to privacy. WorldWide-Cash.net uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. WorldWide-Cash.net uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. WorldWide-Cash.net's registration form requires users to give us contact information (like their name, address, and email address). WorldWide-Cash.net uses member contact information from the registration form to send the member information about our company and email advertisements. 
