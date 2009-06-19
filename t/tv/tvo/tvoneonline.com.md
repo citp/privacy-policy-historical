@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219154153id_/http%3A//www.tvoneonline.com/inside_tvone/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161115id_/http%3A//tvoneonline.com/inside_tvone/privacy_policy.asp) for the most accurate reproduction.*
 
-# TV One Online > Inside TV One > Privacy Policy
+# TV One Online | Privacy Policy
 
 **TV ONE'S PRIVACY POLICY**  
 
@@ -38,32 +38,39 @@ Second, TV One may collect information voluntarily which includes (but is not li
 
 TV One may use information and personally identifiable information in any of the following ways:
 
-  * To provide a visitor with requested information or services 
-  * To allow visitors to access to certain features of the Site which may include access to uploading and reviewing photographs, playing videos, creating and reading web logs ("blogs"), posting or reading entries on message boards, or participation in contests, sweepstakes, or other promotions
-  * To provide access to the Site’s career center and to evaluate and consider your resume and/or other materials associated with an application for employment available to employers registered with the Site
-  * To allow purchases or sales via the Site
-  * To personalize features of the Site
-  * To provide select affiliates, special marketing partners, and other exclusive third parties with whom TV One has a relationship a means by which to contact and market their goods and services to you
-  * To enable our service providers to make features of the Site available for your use
-  * For any other advertising and promotional purpose  
+  \- To provide a visitor with requested information or services
 
+  - To allow visitors to access to certain features of the Site which may include access to uploading and reviewing photographs, playing videos, creating and reading web logs ("blogs"), posting or reading entries on message boards, or participation in contests, sweepstakes, or other promotions
 
+  - To provide access to the Site’s career center and to evaluate and consider your resume and/or other materials associated with an application for employment available to employers registered with the Site
 
+  - To allow purchases or sales via the Site
+
+  - To personalize features of the Site
+
+  - To provide select affiliates, special marketing partners, and other exclusive third parties with whom TV One has a relationship a means by which to contact and market their goods and services to you
+
+  - To enable our service providers to make features of the Site available for your use
+
+  - For any other advertising and promotional purpose
 
 **For instructions on how to opt out of the disclosure of personally identifiable information, please click here.**
 
-However, regardless of any opt-out decision that you make, TV One may need to disclose information in order to:
+  - However, regardless of any opt-out decision that you make, TV One may need to disclose information in order to:
 
-  * Comply with the state, local, or federal laws of the United States
-  * Respond to subpoenas, court orders, or other forms of legal process
-  * Exercise its legal rights or defend itself against claims
-  * Investigate or address concerns regarding illegal activities, possible fraud, or concerns about the health or physical welfare of any person
-  * Address concerns about violations or potential violations of TV One’s Terms of Use or this Privacy Policy
-  * Provide a third party information pursuant to the sale or purchase of business or assets
-  * Act in any manner permitted by law, but consistent with this Privacy Policy  
+  - Comply with the state, local, or federal laws of the United States
 
+  - Respond to subpoenas, court orders, or other forms of legal process
 
+  - Exercise its legal rights or defend itself against claims
 
+  - Investigate or address concerns regarding illegal activities, possible fraud, or concerns about the health or physical welfare of any person
+
+  - Address concerns about violations or potential violations of TV One’s Terms of Use or this Privacy Policy
+
+  - Provide a third party information pursuant to the sale or purchase of business or assets
+
+  - Act in any manner permitted by law, but consistent with this Privacy Policy
 
 Unless required by law, TV One WILL NOT disclose your resume, job requirements, or other information related to any application for employment with TV One.
 
