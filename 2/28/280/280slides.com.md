@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 280slides.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064617id_/http%3A//280slides.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 280slides.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211101id_/http%3A//280slides.com/privacy.php) for the most accurate reproduction.*
 
 # 280 Slides - Privacy Policy
 
