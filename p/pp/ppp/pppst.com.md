@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218193821id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050631id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pete's Place Privacy Policy
 
 > ###  Privacy Policy
 > 
-> **Pppst does not collect information on visitors to its Website. This is, perhaps, all a visitor or parent needs to know since it covers everything.** To fulfill federal legislative requirements, we are making additional specific statements below. This policy follows the privacy policy model provided by [Awesome Library](http://www.awesomelibrary.org/index.html) with their permission.
+> **Pppst does not collect information on visitors to its Website.  ** However, Google, as a third party vendor, uses cookies to serve ads on our site. Check the Google information below to see how users may opt out of the DART cookie. To fulfill federal legislative requirements, we are making additional specific statements below. This policy follows the privacy policy model provided by [Awesome Library](http://www.awesomelibrary.org/index.html) with their permission.
 > 
 > ###  Privacy Policy Regarding Children
 > 
@@ -31,3 +31,13 @@
 > **Pppst** **does not:**
 > 
 > Collect personally identifiable information. If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified.   If information will be divulged to third parties, users will be notified prior to collecting the information. 
+> 
+> #### Privacy Policy Regarding Google, as a third party vendor:
+> 
+> Google sent us the following information on March 12, 2009, about the new Google [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+> 
+>   * Google, as a third party vendor, uses cookies to serve ads on our site.
+>   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
+>   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+> 
+
