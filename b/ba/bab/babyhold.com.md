@@ -1,48 +1,88 @@
-> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2008-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080407011308id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhold.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619172914id_/http%3A//www.babyhold.com/Articles/Articles/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Baby names](http://www.babyhold.com/) Privacy Policy 
-
 **Babyhold.com Privacy Policy**
 
-At Babyhold.com we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use Babyhold.com's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
+   
+This privacy policy was last modified on Wednesday, July 9, 2008 11:55 AM
 
-**Personal information and other data we collect**
+SheKnows, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use SheKnows.com and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-  * Babyhold.com collect personal information when you register for a Babyhold.com service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Babyhold.com services or third parties to provide a better user experience, including customizing content for you. 
-  * Babyhold.com uses cookies and other technologies to enhance your online experience and to learn about how you use Babyhold.com services in order to improve the quality of our services. 
-  * Babyhold.com's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
+**Information We Collect**
 
+**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
+**Cookies Information:** When you visit SheKnows.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-**Uses**
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  * We may also use personal information for auditing, research and analysis to operate and improve Babyhold.com technologies and services. 
-  * We may share aggregated non-personal information with third parties outside of Babyhold.com. 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  * Babyhold.com processes personal information on our servers in the UK of America and in other countries. In some cases, we process personal information on a server outside your own country. 
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Company account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
+**How We Use Your Information**
 
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
 
-**Your choices**
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-  * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [feedback@sheknowsllc.com](mailto:feedback@sheknowsllc.com) with the word "No email" in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. 
 
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
 
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Company also reserves the right to remove information upon the request of any third party.
 
-**More information**
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
 
-If you have additional questions, please contact us any time. Or write to us at: 
+**How We Share Your Information**
 
-Privacy Policy  
-c/o Babyhold.com Inc.  
-Smuts 15 Apt 11 
+**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
 
-Tel Aviv 62009 
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
 
-Israel
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
+
+**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc. ) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
+
+**How We Protect Your Information**
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+**Compromise of Personal Information**
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+**Your Choices About Your Information**
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you. 
+
+**Children's Privacy**
+
+Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [feedback@sheknowsllc.com](mailto:feedback@sheknowsllc.com). 
+
+**Links to Other Web Sites**
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+**Notification Procedures**
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+**Changes to Our Privacy Policy**
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [feedback@sheknowsllc.com](mailto:feedback@sheknowsllc.com), or send mail to:
+
+SheKnows, LLC  
+16101 North 82nd Street  
+Suite A-9  
+Scottsdale, AZ 85260  
+Attn: General Counsel
