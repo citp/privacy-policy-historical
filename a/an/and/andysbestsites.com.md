@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216083240id_/http%3A//www.andysbestsites.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619195722id_/http%3A//www.andysbestsites.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D48) for the most accurate reproduction.*
 
-# Teen Boys - Gay Teen Boys - Gay Teen Boy Models - Gay Site Reviews - Privacy Statement
+# Privacy Statement
 
-Written by Andys Best Sites      
-Saturday, 03 November 2007   
+Saturday, 03 November 2007 13:10   
   
 **_What This Privacy Policy Covers_**   
 This policy covers how AndysBestSites.com treats any personal information that AndysBestSites.com might have collected and received, including information related to your past use of any AndysBestSites services. Personal information is information about you that is personally identifiable like your name, address, email address and that is not otherwise publicly available. 
