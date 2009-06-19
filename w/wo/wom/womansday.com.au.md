@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025022id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansday.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204324id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
