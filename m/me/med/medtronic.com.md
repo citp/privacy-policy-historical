@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213511id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtronic.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,9 +6,9 @@
 
 Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this Medtronic web site based in the U.S. Medtronic and some of its affiliates, including Medtronic Minimed and our international affiliates, also operate other web sites. This Privacy Statement does not apply to the other Medtronic web sites. You should review the privacy statement posted on other Medtronic web sites when you visit them. This web site and this Privacy Statement are intended for a U.S. audience.
 
-This Privacy Statement was last revised on July 1, 2008. We may change this Privacy Statement at any time and for any reason. Significant changes to the Privacy Statement are discussed below in the Section called "Changes to the Privacy Statement." We encourage you to review this Privacy Statement each time you visit the web site.
+This Privacy Statement was last revised on April 20, 2009. We may change this Privacy Statement at any time and for any reason. Significant changes to the Privacy Statement are discussed below in the Section called "Changes to the Privacy Statement." We encourage you to review this Privacy Statement each time you visit the web site.
 
-By using this web site, you agree to the terms of the most recent version of this Privacy Statement. Please read our [Terms of Use](https://web.archive.org/web/20081218213511id_/http%3A//www.medtronic.com/statements/terms/index.htm) to understand the general rules about your use of this web site. Except as written in any other disclaimers, policies, terms of use, or other notices on this web site, this Privacy Statement and the Terms of Use are the complete agreement between you and Medtronic with respect to your use of this web site. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+By using this web site, you agree to the terms of the most recent version of this Privacy Statement. Please read our [Terms of Use](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/terms/index.htm) to understand the general rules about your use of this web site. Except as written in any other disclaimers, policies, terms of use, or other notices on this web site, this Privacy Statement and the Terms of Use are the complete agreement between you and Medtronic with respect to your use of this web site. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Non-personal information is information we collect through this web site that do
 
 
 
-If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer's web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computer's hard drive. The information that we collect using cookies is non-personal information. US Government Information Bulletin (I-034) contains a good description of cookie technology at: <http://www.ciac.org/ciac/bulletins/i-034.shtml>. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties other than those companies that we hire to perform services or functions on our behalf to place cookies on our web site.
+If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer's web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computer's hard drive. The information that we collect using cookies is non-personal information. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties other than those companies that we hire to perform services or functions on our behalf to place cookies on our web site.
 
 ## What does Medtronic do with non-personal information?
 
@@ -38,7 +38,7 @@ Because non-personal information cannot identify you or be tied to you in any wa
   * create reports for internal use to develop programs, products, services or content
   * customize the information or services that are of interest to you
   * share it with or sell it to third parties
-  * provide aggregated "traffic statistics" and "response rates" to third parties
+  * provide aggregated information on how visitors use our site, such as "traffic statistics" and "response rates," to third parties
 
 
 
@@ -76,8 +76,6 @@ We may keep and use personal information we collect from you through this web si
 
 
 
-We do not have a method for reviewing personal or non-personal information collected through this site.
-
 ## Does Medtronic ever share personal information with third parties?
 
 Medtronic will not share your personal information collected from this web site with an unrelated third party without your permission, except as otherwise provided in this Privacy Statement.
@@ -95,7 +93,7 @@ We may disclose your personal information to third parties if we feel that the d
 
 
 
-**Please note:** In addition to the ways that we may keep, disclose, and use information described in this Privacy Statement, we also may keep, disclose, and use personally identifiable information that you give us through this web site in ways that we believe are consistent with FDA and other governmental guidance, directions, regulations, and laws.
+ **Please note:** In addition to the ways that we may keep, disclose, and use information described in this Privacy Statement, we also may keep, disclose, and use personally identifiable information that you give us through this web site in ways that we believe are consistent with FDA and other governmental guidance, directions, regulations, and laws.
 
 ## What happens if the privacy statement changes?
 
@@ -103,7 +101,7 @@ If we decide to make a significant change to our Privacy Statement, we will post
 
 Recent revisions to the Privacy Statement:
 
-Our Privacy Statement was significantly expanded on October 31, 2001. [You can read the previous version of our Privacy Statement here](https://web.archive.org/web/20081218213511id_/http%3A//www.medtronic.com/statements/PREVIOUS-PRIVACY-POLICIES.htm).
+Our Privacy Statement was significantly expanded on October 31, 2001. [You can read the previous version of our Privacy Statement here](https://web.archive.org/web/20090619032031id_/http%3A//www.medtronic.com/statements/PREVIOUS-PRIVACY-POLICIES.htm). In addition, we made minor revisions to the Privacy Statement in July 2008 and April 2009, but these revisions did not change the privacy principles.
 
 ## What about privacy on other web sites?
 
@@ -125,4 +123,4 @@ Security is very important to us. We also understand that security is important 
 
 If you have questions or comments about this Privacy Statement, please use the [Contact Us](http://medtronic.com/corporate/contact.jsp) through our web site.
 
-Last updated: 3 Aug 2008
+Last updated: 7 May 2009
