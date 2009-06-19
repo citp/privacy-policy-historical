@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216231325id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619200555id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,20 +27,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-  
-
-
-* * *
-
-Most Popular Articles[Firefox: Most Risky App to Businesses in New Study  
-](https://web.archive.org/Firefox+Most+Risky+App+to+Businesses+in+New+Study/article13669.htm)December 12, 2008, 4:00 PM  
-[Spore Becomes Most Pirated Game in History  
-](https://web.archive.org/Spore+Becomes+Most+Pirated+Game+in+History/article13648.htm)December 10, 2008, 3:32 PM  
-[Hardened Google Chrome Ready to Throw Down With IE, Firefox  
-](https://web.archive.org/Hardened+Google+Chrome+Ready+to+Throw+Down+With+IE+Firefox/article13668.htm)December 12, 2008, 10:01 AM  
-[MIT Goes Keanu, Solves Key Obstacle to Cheap Fusion  
-](https://web.archive.org/MIT+Goes+Keanu+Solves+Key+Obstacle+to+Cheap+Fusion/article13608.htm)December 10, 2008, 8:42 AM  
-[Boeing's 787 Dreamliner Hit with more Delay Nightmares  
-](https://web.archive.org/Boeings+787+Dreamliner+Hit+with+more+Delay+Nightmares/article13666.htm)December 12, 2008, 1:00 PM  
-
