@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexbankroll.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012825id_/http%3A//www.sexbankroll.com/support/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexbankroll.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619054423id_/http%3A//sexbankroll.com/external.php%3Fpage%3Dprivacy%26nats%3D) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Sexbankroll.com - Are you ready to roll?
 
 This website (the "Site") is licensed to **Safe Dock Capital Limited, Safe Dock Capital S.A., PV Key Punch S.L.**
 
@@ -17,14 +17,14 @@ Amory Building
 Victoria Road  
 Basseterre, St. Kitts  
 St. Kitts and Nevis  
-East Caribbean
+East Caribbean 
 
 Safe Dock Capital S.A.,  
-Forum, Ed. E., Santa Ana, San José  
+Forum, Ed. E., Santa Ana, San Jose  
 POBox: 10881-1000 San Jose, Costa Rica 
 
 PV Key Punch S.L., Spain  
-C/Sant Miquel, 30 – 3º L  
+C/Sant Miquel, 30 - 3 L  
 07002-Palma de Mallorca (Spain)   
 
 
@@ -52,9 +52,9 @@ The Site may also automatically collect traffic and click-through data as well a
 
 You may obtain further information about "cookies" and how they function at: [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
 
-**_Use of Personal Member Information._**  
+**_Use of Personal Member Information._**
 
-By the Member's use of the Site, the Member expressly agrees that the Site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about Members that it has gathered or collected with affiliated or unaffiliated third parties to send you email notifications, newsletters, promos and any other offers that Safe Dock Capital SA and third parties wish to send.
+By the Member's use of the Site, the Member expressly agrees that the Site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about Members that it has gathered or collected with affiliated or unaffiliated third parties to send you email notifications, newsletters, promos and any other offers that Safe Dock Capital SA and third parties wish to send. 
 
 Please note that personal information about a Member may be collected by a third-party web service provider that has an advertising banner or link on the Site. 
 
@@ -78,15 +78,15 @@ There may be occasions when a Member will be presented with special offers eithe
 
 **_"OPT-OUT" Revocation Procedure._**
 
-The Site also offers all Members a procedure for "Opting-Out" if the Member subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com)[](mailto:webmaster@barepuss.com), clearly stating that the Member has revoked consent to receive any future Offers. 
+The Site also offers all Members a procedure for "Opting-Out" if the Member subsequently chooses to revoke any consent to receive Offers by sending an e-mail to [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com), clearly stating that the Member has revoked consent to receive any future Offers. 
 
 **_Data Controller._**
 
-The Data Controller for all personal information collected about Members of the site can be reached by e-mail at [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com)[](mailto:webmaster@barepuss.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
+The Data Controller for all personal information collected about Members of the site can be reached by e-mail at [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com). The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the Site. 
 
 **_Review of Personal Information by Member/Means of Challenging Data._**
 
-A Member to this Site can review any personal information collected by the Site relating to that Member by sending an e-mail to the Site's DATA CONTROLLER at [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com)[](mailto:webmaster@barepuss.com), clearly stating that the Member wishes to review the Member's personal information which has been collected by the Site. 
+A Member to this Site can review any personal information collected by the Site relating to that Member by sending an e-mail to the Site's DATA CONTROLLER at [websupport@sexbankroll.com](mailto:websupport@sexbankroll.com), clearly stating that the Member wishes to review the Member's personal information which has been collected by the Site. 
 
 The individual Member shall have the following rights with respect to any personal information gathered by the Site: 
 
@@ -104,4 +104,4 @@ The individual Member shall have the following rights with respect to any person
 
 Each Member should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from Members. 
 
-In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.
+In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
