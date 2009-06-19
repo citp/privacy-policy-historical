@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174827id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045913id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
 
 # Watershed Publishing Privacy Policy
 
