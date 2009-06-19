@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218194937id_/http%3A//www.workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050550id_/http%3A//www.workingmother.com/%3Fservice%3Dvpage/126) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  | 
-
-|  |  |  |  | **Workingmother.com-** **privacy policy**  
+|  |  |  | **Workingmother.com-** **privacy policy**  
 ---  
 Safeguards in place  
   
@@ -124,8 +122,4 @@ If we receive a complaint from you, we will contact you in an attempt to address
 _This policy was last updated on March 18, 2008._
 
    
-|   
-  
-
-
- 
+| 
