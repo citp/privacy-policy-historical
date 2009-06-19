@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rydges.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219170601id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rydges.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619202709id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Enquire about holidays getaways and offers at Rydges Hotels and Resorts | 
@@ -25,10 +25,14 @@ sectname="cont";
 <script src="/includes/menuStructure.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/javascript" src="/includes/jquery.js"></script>	    
 <script language="JavaScript" type="text/javascript">	    
-     $(function(){
-        $("a#loginShortCut").click( function() {  $("#loginPanel").slideDown("slow"); } );
-        $("a#closeLoginPanel").click( function() {  $("#loginPanel").slideUp("slow"); } );                
-     });	         
+		$(function(){
+			if ($("a#loginShortCut")){
+				$("a#loginShortCut").click( function() {  $("#loginPanel").slideDown("slow"); } );
+			}
+			if ($("a#closeLoginPanel")){
+				$("a#closeLoginPanel").click( function() {  $("#loginPanel").slideUp("slow"); } );
+			}
+		});
 </script>
 		<meta name="rights" content="All information on this site Copyright 2003 Rydges Hotels and Resorts">
 		<meta name="keywords" content="hotel, hotels, resort, resorts, sydney, sydney hotels, melbourne hotels, brisbane, melbourne, cairns, port douglas, accommodation, acomodation, accomodation, acommodation, holidays, packages, specials">
@@ -40,10 +44,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-230551-5");
-pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
 	</head> 
 <body onload="init();" bgcolor="#827668" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"> 
 	 	<table width="964" border="0" cellpadding="0" cellspacing="0" id="Table5">
@@ -66,7 +68,7 @@ pageTracker._trackPageview();
     <tbody><tr>
      <td align="left" valign="top"><a href="/"><img src="/images/topstrip/logo.gif" width="125" height="44" border="0" alt="Rydges Hotels And Resorts"></a></td>
      <td align="right" valign="bottom" class="whitetext">
-     <a href="/mobile" class="headernav">Mobile Site</a> : <a href="/" class="headernav">Home</a> : <a href="/sitemap.asp" class="headernav">Sitemap</a> : <!--<a href="/searchform.asp" class="headernav">Search</a> : --><a href="/priorityGuest/rpgAbout-Email-Newsletter.asp" class="headernav">Email Accommodation Deals</a> : <a href="/giftcard/index.asp" class="headernav">Gift Cards</a> : <a href="http://blog.rydges.com/" class="headernav">Hotel Blog</a></td>
+     <a href="/mobile" class="headernav">Mobile Site</a> : <a href="/" class="headernav">Home</a> : <a href="/sitemap.asp" class="headernav">Sitemap</a> : <!--<a href="/searchform.asp" class="headernav">Search</a> : --><a href="/priorityGuest/rpgAbout-Email-Newsletter.asp" class="headernav">Email Accommodation Deals</a> : <a href="/giftcard/index.asp" class="headernav">Gift Cards</a> : <a href="http://blog.rydges.com/" class="headernav">Hotel Blog</a> : <a href="/internationaltravel/freedomcard" class="headernav">International Travel</a> : <a href="http://blog.rydges.com/" class="headernav">Hotel Blog</a> : <a href="/seniors/" class="headernav">60+ Travel</a></td>
     </tr>
    </tbody></table>
   </td>
@@ -88,17 +90,20 @@ pageTracker._trackPageview();
   
   <tr>
     <td>
-        <div class="maintext" style="position:relative;float:left;width:99.8%;_width:100%;background-color:#11698c;border-left:solid 1px #fff;border-right:solid 1px #fff;border-bottom:solid 1px #fff;">
-	<span style="position:relative;background-color:#11698c;float:right;margin-right:5px;color:#fff;">
+            
+    <div class="maintext" style="position:relative;float:left;width:99.8%;_width:100%;background-color:#11698c;border-left:solid 1px #fff;border-right:solid 1px #fff;border-bottom:solid 1px #fff;">
+        <span style="position:relative;background-color:#11698c;float:right;margin-right:5px;color:#fff;">
+
+	
 	<a href="/priorityGuest/rpgLogin.asp"><img src="/images/nav/RPGblue.gif" width="133" height="20" border="0" alt="Rydges Priority Guest" style="vertical-align:middle;"></a>
 		
-		<a href="/priorityGuest/rpgSignUp.asp" class="whitelink">join today</a> : <a href="#" id="loginShortCut" class="whitelink">login</a>
+		<a href="/priorityGuest/rpgSignUp.asp" class="whitelink">join today</a> : <a href="#" id="loginShortCut" class="whitelink" onclick="javascript:document.getElementById('loginPanel').style.display='';">login</a>
 		
 	</span>
 </div>
 <div id="loginPanel" style="display:none;">
     <form name="frmLogin" action="/priorityGuest/rpgLogin.asp" method="post">
-        <span style="float:right"><a href="#" id="closeLoginPanel" class="blueLink">close this panel</a></span>
+        <span style="float:right"><a href="#" id="closeLoginPanel" class="blueLink" onclick="javascript:document.getElementById('loginPanel').style.display='none';">close this panel</a></span>
         <br><br>
         <dl style="width:175px">
             <dt style="width:70px">
@@ -242,7 +247,7 @@ pageTracker._trackPageview();
  <table bgcolor="#E3DDD0" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr><td class="footer"><a href="/subscriptions.asp" class="footernav2">Email deals and offers</a>&nbsp;|&nbsp;<a href="/giftcard/index.asp" class="footernav2">Gifts Cards</a>&nbsp;|&nbsp;<a href="/ratesandreservations/ourbestrateguarantee.asp?page=bestrate" class="footernav2">Best rate guarantee</a>&nbsp;|&nbsp;<a href="/about/jobs.asp" class="footernav2">Recruitment</a>&nbsp;|&nbsp;<a href="/contactus.asp" class="footernav2">Contact us</a>&nbsp;|&nbsp;<a href="/privacy.asp" class="footernav2">Privacy</a></td></tr>
   <tr><td bgcolor="#E3DDD0"><img src="/images/space.gif" width="1" height="7" border="0"></td></tr>
-  <tr><td class="footer" valign="top">©2008 Rydges Hotels &amp; Resorts</td></tr>
+  <tr><td class="footer" valign="top">©2009 Rydges Hotels &amp; Resorts   <br>At check out credit card payments in Australia attract a transaction fee of 1.5% MasterCard and Visa card and 3.5% American Express, JCB and Diners Club. </td></tr>
  </tbody></table>
 </td></tr>
 <tr><td bgcolor="#E3DDD0" colspan="2"><img src="/images/space.gif" width="1" height="7" border="0"></td></tr>
@@ -253,7 +258,7 @@ pageTracker._trackPageview();
    <tbody><tr><td class="footer" colspan="11"><img src="/images/space.gif" width="1" height="8" border="0"></td></tr>
    <tr>
 	<td class="footer" valign="top"><b><a href="/locations/Hotel-Australia.asp" class="footernav2">Australia:</a></b><img src="/images/space.gif" width="5" height="1" border="0"></td>
-	<td class="footer" valign="top"><a href="http://www.rydges.com/locations/Hotel-Sydney.asp" class="footernav2">Sydney</a> | <a href="http://www.rydges.com/locations/Hotel-Melbourne.asp" class="footernav2">Melbourne</a> | <a href="http://www.rydges.com/locations/Hotel-Canberra.asp" class="footernav2">Canberra</a> | <a href="/locations/Hotel-Cairns.asp" class="footernav2">Cairns</a> | <a href="/hotel/0/RNPMAC/Rydges-Port-Macquarie.htm" class="footernav2">Port Macquarie</a> | <a href="/hotel/0/RNWOLL/Rydges-Wollongong.htm" class="footernav2">Wollongong</a> | <a href="/hotel/0/RNTHRE/Rydges-Thredbo-Alpine-Hotel.htm" class="footernav2">Thredbo</a> | <a href="/hotel/0/RWPERT/Rydges-Perth.htm" class="footernav2">Perth</a> | <a href="/hotel/0/RQSOUT/Rydges-South-Bank-Brisbane.htm" class="footernav2">Brisbane</a> | <a href="/hotel/0/RTHOBA/Rydges-Hobart.htm" class="footernav2">Hobart</a> | <a href="/hotel/0/RSADEL/Rydges-South-Park-Adelaide.htm" class="footernav2">Adelaide</a><br><a href="/hotel/0/RQOASI/Rydges-Oasis-Resort-Caloundra.htm" class="footernav2">Caloundra</a> | <a href="/hotel/0/RQCAPR/Rydges-Capricorn-Resort-Yeppoon.htm" class="footernav2">Yeppoon</a> | <a href="/hotel/0/RQGLAD/Rydges-Gladstone.htm" class="footernav2">Gladstone</a> | <a href="/hotel/0/RQTOWN/Rydges-Southbank-Townsville.htm" class="footernav2">Townsville</a> | <a href="/hotel/0/RQMISS/Rydges-Castaways-Resort-on-Mission-Beach.htm" class="footernav2">Mission Beach</a></td>
+	<td class="footer" valign="top"><a href="http://www.rydges.com/locations/Hotel-Sydney.asp" class="footernav2">Sydney</a> | <a href="http://www.rydges.com/locations/Hotel-Melbourne.asp" class="footernav2">Melbourne</a> | <a href="http://www.rydges.com/locations/Hotel-Canberra.asp" class="footernav2">Canberra</a> | <a href="/locations/Hotel-Cairns.asp" class="footernav2">Cairns</a> | <a href="/hotel/0/RNPMAC/Rydges-Port-Macquarie.htm" class="footernav2">Port Macquarie</a> | <a href="/hotel/0/RNWOLL/Rydges-Wollongong.htm" class="footernav2">Wollongong</a> | <a href="/hotel/0/RNTHRE/Rydges-Thredbo-Alpine-Hotel.htm" class="footernav2">Thredbo</a> | <a href="/hotel/0/RWPERT/Rydges-Perth.htm" class="footernav2">Perth</a> | <a href="/hotel/0/RQSOUT/Rydges-South-Bank-Brisbane.htm" class="footernav2">Brisbane</a> | <a href="/hotel/0/RTHOBA/Rydges-Hobart.htm" class="footernav2">Hobart</a> | <a href="/hotel/0/RSADEL/Rydges-South-Park-Adelaide.htm" class="footernav2">Adelaide</a><br><a href="/hotel/0/RQGOLD/Gold-Coast-International-Hotel.htm" class="footernav2">Gold Coast</a> | <a href="/hotel/0/RQOASI/Rydges-Oasis-Resort-Caloundra.htm" class="footernav2">Caloundra</a> | <a href="/hotel/0/RQCAPR/Rydges-Capricorn-Resort-Yeppoon.htm" class="footernav2">Yeppoon</a> | <a href="/hotel/0/RQGLAD/Rydges-Gladstone.htm" class="footernav2">Gladstone</a> | <a href="/hotel/0/RQTOWN/Rydges-Southbank-Townsville.htm" class="footernav2">Townsville</a> | <a href="/hotel/0/RQMISS/Rydges-Castaways-Resort-on-Mission-Beach.htm" class="footernav2">Mission Beach</a></td>
    </tr>
    <tr>
 	<td class="footer" valign="top" nowrap="nowrap"><b><a href="/locations/Hotel-New-Zealand.asp" class="footernav2">New Zealand:</a></b><img src="/images/space.gif" width="5" height="1" border="0"></td>
