@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokegym.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080021id_/http%3A//pokegym.net/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokegym.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619112026id_/http%3A//pokegym.net/forums/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # The PokeGym PokéGym Privacy Statement
 
