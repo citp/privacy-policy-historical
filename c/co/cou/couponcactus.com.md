@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcactus.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217233929id_/http%3A//www.couponcactus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcactus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619095538id_/http%3A//www.couponcactus.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Coupon Cactus
 
@@ -33,7 +33,7 @@
 **If you wish to alter any of your stored information on Coupon Cactus you can sign into the Member Control Panel and go to the Profile tab or you can contact us at [CustomerService@CouponCactus.com](mailto:CustomerService@CouponCactus.com). 
 
 **Terms of Use Agreement  
-**Visitation and use of this site and its features is subject to its [Terms of Use Agreement](https://web.archive.org/web/20081217233929id_/http%3A//www.couponcactus.com/terms.php) which constitutes a legal agreement between the visitor/user and Coupon Cactus, LLC.
+**Visitation and use of this site and its features is subject to its [Terms of Use Agreement](https://web.archive.org/web/20090619095538id_/http%3A//www.couponcactus.com/terms.php) which constitutes a legal agreement between the visitor/user and Coupon Cactus, LLC.
 
 **Contact Us  
 **If you have any questions about this Privacy Policy, personally or non-personally identifiable information, or the practices of this website you can email us at [Privacy@CouponCactus.com](mailto:privacy@CouponCactus.com). You can also write to us at: 
