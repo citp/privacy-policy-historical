@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093755id_/http%3A//www.octro.com/inner.php%3FlnkId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octro.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213508id_/http%3A//www.octro.com/inner.php%3FlnkId%3D4) for the most accurate reproduction.*
 
 # Octro
 
@@ -20,11 +20,11 @@ This web site, any Octro software and any Octro service are in no way affiliated
 
 The Privacy Policy describes how we treat your personal information when you use OctroTalk and other applications and services from Octro Inc. 
 
-At Octro Inc., we respect your right to privacy. We will never sell or otherwise pass on your name, e-mail or other information to a third party without your consent except for when it is required to provide you the service you are using. 
+At Octro Inc., we respect your right to privacy. We will never sell or otherwise pass on your name, e-mail or other information to a third party without your consent except for when it is required to provide you the service you are using or when it is required by law.
 
 **What information do we collect?** When you use software or services from Octro, we collect some personal information to allow us to provide you the service, fulfill your requirement and provide you the customer support. This information may include your account information for Google, MSN, AOL, ICQ and other networks, your name, address, phone number, your device information, registration data, email address, and any other information that you entered while using our software and services. We do not store the credit card information. 
 
-**How is this information used?** Only Octro has access to any such information. We will not give or sell your private information to any other company for any purpose without your written consent. We may use this information to notify you of important announcements regarding our software developments, software upgrades and special offers and provide you the application/software support. If you do not want to receive any announcement from us, you can ask to be excluded from such announcements by sending us email to this effect. 
+**How is this information used?** Only Octro has access to any such information. We will not give or sell your private information to any other company for any purpose without your written consent, except if required by law. We may use this information to notify you of important announcements regarding our software developments, software upgrades and special offers and provide you the application/software support. If you do not want to receive any announcement from us, you can ask to be excluded from such announcements by sending us email to this effect. 
 
 **Review of personal information.** At any time, you may ask us to remove your registration data and personal information our system. However, some information may be necessary for providing you our services and support. In that event we may not be able to provide you one or more of our services that you are using. 
 
@@ -38,4 +38,4 @@ At Octro Inc., we respect your right to privacy. We will never sell or otherwise
 
 #### Refund Policy 
 
-All software from Octro can be downloaded as a free trial from our web site. We encourage all users to thoroughly test any software title that they wish to license and satisfy themselves fully that it works to their satisfaction before purchasing. The license is not transferable to other device or to anyone else. Octro Inc does not offer refunds. There are no exceptions to this policy. 
+All software from Octro can be downloaded as a free trial from our web site. We encourage all users to thoroughly test any software title that they wish to license and satisfy themselves fully that it works to their satisfaction before purchasing. The license is not transferable except in the first year of license period. In the first year, the user is allowed to switch devices upto 5 times. Octro Inc does not offer refunds. There are no exceptions to this policy. 
