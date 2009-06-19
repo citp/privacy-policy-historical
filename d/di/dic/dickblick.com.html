@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dickblick.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054322id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dickblick.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619154528id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -7,16 +7,16 @@
 <link href="/styles/print.css" rel="stylesheet" type="text/css" media="print">
 <link href="/styles/blick_redesign.css" rel="stylesheet" type="text/css">
 
-
-<script src="/scripts/jquery-1.2.6.min.js" type="text/javascript"></script>
-<script src="/scripts/blick.js" type="text/javascript"></script>
-
+<link href="/styles/mobile.css" rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)">
 <meta name="viewport" content="width = 800">
+<script src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="/scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script src="/scripts/blick.js" type="text/javascript"></script>
 <title>Security and Privacy - Blick Art Materials</title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 
 </head>
-<body bgcolor="#ffffff">
+<body>
 <a name="top"></a>
 
 <div id="webPageShadow">
@@ -25,8 +25,8 @@
 		<div id="webPage">
 
 			
-<div style="margin-top:5px;">
-	<div style="border-style:solid; border-width:1px; border-color:#FF0000; padding:4px;"><b><font size="2"><font color="#FF0000">SAVE $5-20 off your order</font> PLUS <font color="#FF0000">pay only $5.95 for Shipping!*&nbsp;&nbsp;</font><a href="/landing/specialoffer/">Click here</a> for details. Expires at Midnight (CST) tonight!</font></b></div>
+<div class="headeroffers">
+	<b><font size="2"><font color="#FF0000">Save $20-75</font> AND <font color="#FF0000">Pay only $5.95 for Shipping!*&nbsp;&nbsp;</font><a href="/landing/specialoffer/">Click here</a> for details. Expires at Midnight (CDT) tonight!</font></b>
 </div>
 
 
@@ -35,17 +35,17 @@
 		<div class="headerAccountOptions">
 			<span class="headerTagline"><b>Welcome to DickBlick.com</b></span> |
 			
-			<a href="https://www.dickblick.com/secure/userlogin/xt_IsUserLoggedIn.asp">Login</a> |
+			<a href="https://www.dickblick.com/login/">Login</a> |
 			
-			<a href="https://www.dickblick.com/secure/useraccount/myAccount.asp">My Account</a> |
+			<a href="https://www.dickblick.com/myaccount/">My Account</a> |
 			<a href="/wishlist/">Wishlist</a> | 
 			<a href="https://www.dickblick.com/orderstatus/">Order Status</a>
 		</div>
 		<table width="100%" cellpadding="0" cellspacing="0" border="0" style="height: 71px;">
 		<tbody><tr>
 			<td width="48%"><a href="/"><img src="/styles/images/logo_200611.gif" width="365" height="71" border="0" alt="Dick Blick Art Materials"></a></td>
-			<td width="33%"><img src="/styles/images/placeholder.gif" width="1" height="71" alt=" "></td>
-			<td width="19%" valign="bottom" class="cartcontents">
+			<td width="31%"><img src="/styles/images/placeholder.gif" width="1" height="71" alt=" "></td>
+			<td width="22%" valign="bottom" class="cartcontents">
 				<div class="headerCartContents">
 					
 					<div class="headerCartIcons"><a href="/cart/"><img src="/styles/images/icons/icon_cart.gif" width="23" height="21" border="0" alt="Shopping Cart"></a></div>
@@ -74,59 +74,8 @@
 			<td nowrap="nowrap" align="left" valign="middle"><input type="text" value="Enter search here" onfocus="if(this.value=='Enter search here')this.value=''" name="sp_q" id="headerSearchBox"></td>
 			<td nowrap="nowrap" align="center" valign="middle"><input type="image" src="/styles/images/icons/icon_go.gif" alt="Go" style="border: 0px;" name="Image1" id="headerSearchButton"></td>
 			
-			<td nowrap="nowrap" align="center" valign="middle"><div class="headerNavMenuDepartmentOptions"><span id="deparmentMenuLink">&nbsp;<a href="http://www.dickblick.com/categories/" name="menuDepts" class="deptsMenuLinks" title="Departments">Departments <img src="/styles/images/buttons/drop_arrow.gif" width="12" height="6" border="0" alt="Departments"></a></span><script type="text/javascript" charset="utf-8">
-//<![CDATA[
-var menuVisible = false;
-var menuVisibleTimeout = 1500;
-
-$(document).ready(function() {
-	$('.headerNavMenuDepartmentOptions').hover(
-		function() {
-			$('#departmentsMenu').show();
-			menuVisible = true;
-		},
-		function() {
-			if ($('#departmentsMenu').is(':visible')) {
-				menuVisible = false;
-				setTimeout('hideDepartmentsMenu()', menuVisibleTimeout);
-			}
-		}
-	);
-	/*
-	$('#deparmentMenuLink').mouseover(function() {
-		$('#departmentsMenu').show();
-		menuVisible = true;
-	});
-	$('#deparmentMenuLink').mouseout(function() {
-		if ($('#departmentsMenu').is(':visible')) {
-			menuVisible = false;
-			setTimeout('hideDepartmentsMenu()', menuVisibleTimeout);
-		}
-	});
-	*/
-	$('#departmentsMenu').mouseover(function() {
-		$('#departmentsMenu').show();
-		menuVisible = true;
-	});
-	$('#departmentsMenu').mouseout(function() {
-		if ($('#departmentsMenu').is(':visible')) {
-			menuVisible = false;
-			setTimeout('hideDepartmentsMenu()', menuVisibleTimeout/2);
-		}
-	});
-	
-});
-function hideDepartmentsMenu() {
-	if (($('#departmentsMenu').is(':visible')) && !menuVisible) {
-		$('#departmentsMenu').hide();
-		menuVisible = false;
-	}
-	return true;
-}
-//]]>
-</script>
-<div id="departmentsMenu" style="display: none;">
-	<span style="float: left; width: 155px; border-right: 1px solid silver;">
+			<td nowrap="nowrap" align="center" valign="middle"><div class="headerNavMenuDepartmentOptions"><span id="deparmentMenuLink">&nbsp;<a href="http://www.dickblick.com/categories/" name="menuDepts" class="deptsMenuLinks" title="Departments">Departments <img src="/styles/images/buttons/drop_arrow.gif" width="12" height="6" border="0" alt="Departments"></a></span><div id="departmentsMenu">
+	<div class="borderedRight">
 	<ul class="menu">
 		<li><a href="http://www.dickblick.com/categories/adhesives/" title="Adhesives">Adhesives</a></li>
 		<li><a href="http://www.dickblick.com/categories/airbrush/" title="Airbrushing">Airbrushing</a></li>
@@ -146,8 +95,8 @@ function hideDepartmentsMenu() {
 		<li><a href="http://www.dickblick.com/categories/furniture/" title="Furniture">Furniture</a></li>
 		<li><a href="http://www.dickblick.com/categories/graphicarts/" title="Graphic Arts">Graphic Arts</a></li>
 	</ul>
-	</span>
-	<span style="float: left; width: 155px;">
+	</div>
+	<div>
 	<ul class="menu">	
 		<li><a href="http://www.dickblick.com/categories/mosaics/" title="Mosaics">Mosaics</a></li>
 		<li><a href="http://www.dickblick.com/categories/outdoorstudio/" title="Outdoor Studio">Outdoor Studio</a></li>
@@ -167,7 +116,7 @@ function hideDepartmentsMenu() {
 		<li><a href="http://www.dickblick.com/categories/studioenvironment/" title="Studio Environment">Studio Environment</a></li>
 		<li><a href="http://www.dickblick.com/categories/transport/" title="Transporting/Carrying">Transporting/Carrying</a></li>
 	</ul>
-	</span>
+	</div>
 </div></div></td>
 			<td nowrap="nowrap" align="center" valign="middle"><div class="headerNavMenuIndexOptions">|&nbsp;<a href="http://www.dickblick.com/index/a/">A</a>&nbsp;<a href="http://www.dickblick.com/index/b/">B</a>&nbsp;<a href="http://www.dickblick.com/index/c/">C</a>&nbsp;<a href="http://www.dickblick.com/index/d/">D</a>&nbsp;<a href="http://www.dickblick.com/index/e/">E</a>&nbsp;<a href="http://www.dickblick.com/index/f/">F</a>&nbsp;<a href="http://www.dickblick.com/index/g/">G</a>&nbsp;<a href="http://www.dickblick.com/index/h/">H</a>&nbsp;<a href="http://www.dickblick.com/index/i/">I</a>&nbsp;<a href="http://www.dickblick.com/index/j/">J</a>&nbsp;<a href="http://www.dickblick.com/index/k/">K</a>&nbsp;<a href="http://www.dickblick.com/index/l/">L</a>&nbsp;<a href="http://www.dickblick.com/index/m/">M</a>&nbsp;<a href="http://www.dickblick.com/index/n/">N</a>&nbsp;<a href="http://www.dickblick.com/index/o/">O</a>&nbsp;<a href="http://www.dickblick.com/index/p/">P</a>&nbsp;<a href="http://www.dickblick.com/index/q/">Q</a>&nbsp;<a href="http://www.dickblick.com/index/r/">R</a>&nbsp;<a href="http://www.dickblick.com/index/s/">S</a>&nbsp;<a href="http://www.dickblick.com/index/t/">T</a>&nbsp;<a href="http://www.dickblick.com/index/u/">U</a>&nbsp;<a href="http://www.dickblick.com/index/v/">V</a>&nbsp;<a href="http://www.dickblick.com/index/w/">W</a>&nbsp;<a href="http://www.dickblick.com/index/xyz/">X</a>&nbsp;<a href="http://www.dickblick.com/index/xyz/">Y</a>&nbsp;<a href="http://www.dickblick.com/index/xyz/">Z</a>&nbsp;|</div></td>
 			<td nowrap="nowrap" align="right" valign="middle"><div class="headerNavMenuOptions"><a href="http://www.dickblick.com/categories/giftideas/">Gift Ideas</a>&nbsp;|&nbsp;<a href="http://www.dickblick.com/clearance/" style="color: #FF0000;">Clearance</a></div></td>
@@ -181,20 +130,9 @@ function hideDepartmentsMenu() {
 
 			
 			<div id="webPageContent">
-			<table width="640" cellspacing="0" celpadding="0">
-<tbody><tr>
-	<td width="420" valign="middle">
-		<h4>
-		Security and Privacy - Blick Art Materials
-		</h4>
-	</td>
-	<td width="220" valign="middle" align="right">
-		<!-- include virtual="/service/customerservice/heading.txt" -->
-	</td>
-</tr>
-</tbody></table>
+			<h4>Security and Privacy - Blick Art Materials</h4>
 
-<table width="640" cellspacing="0" celpadding="0">
+<table width="100%" cellspacing="0" celpadding="0">
 <tbody><tr>
 	<td>
 		<ul>
@@ -212,7 +150,7 @@ function hideDepartmentsMenu() {
 		<h5 class="subhead">
 		<a name="security"></a>
 		Security Statement<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 	</td>
 </tr>
 <tr>
@@ -290,7 +228,7 @@ browser has the appearance of a closed padlock.
 		<h5 class="subhead">
 		<a name="privacy"></a>
 		Privacy Statement<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 	</td>
 </tr>
 <tr>
@@ -398,7 +336,7 @@ transferred to the new company.
 		<h5 class="subhead">
 		<a name="dontcontact"></a>
 		What if I don't want e-mail or catalogs?<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 	</td>
 </tr>
 <tr>
@@ -491,7 +429,7 @@ avoiding unwanted mailings.
 		<h5 class="subhead">
 		<a name="cookies"></a>
 		What are cookies, and do you use them?<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 	</td>
 </tr>
 <tr>
@@ -572,7 +510,7 @@ using any or all of these methods will not affect your use of dickblick.com.
 		<h5 class="subhead">
 		<a name="otherinfo"></a>
 		What other information do you collect?<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 	</td>
 </tr>
 <tr>
@@ -616,7 +554,7 @@ using any or all of these methods will not affect your use of dickblick.com.
 		<h5 class="subhead">
 		<a name="policychanges"></a>
 		Policy Changes<br>
-		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="640" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
+		<img src="http://www.dick-blick.com/shared/productpages/1legendline.gif" width="100%" height="4" hspace="0" vspace="0" border="0" alt=" "></h5>
 		<p class="body" style="margin-top: 3px;">
 		Dick Blick provides its services to you subject to the preceeding policies which may be updated and/or revised from time to time by 
 		Dick Blick without notice to you, and which become effective when posted.  Please refer to this page to review our most current 
@@ -629,59 +567,119 @@ using any or all of these methods will not affect your use of dickblick.com.
 
 			
 <div id="footerWrapper">
-	<table width="100%" cellspacing="5" cellpadding="0" align="center" border="0" style="">
-	<tbody><tr class="footerNavRow">
-		<td align="center" colspan="5" style="padding: 10px 0px 15px 0px;">
-			<a href="/customerservice/">Customer Service</a>&nbsp;<font color="gray">·</font>
-			<a href="/customerservice/shipping/">Shipping Info</a>&nbsp;<font color="gray">·</font>
-			<a href="/customerservice/privacy/">Privacy &amp; Security</a>&nbsp;<font color="gray">·</font>
-			<a href="http://www.wetcanvas.com/forums/" target="_blank">Forums</a>&nbsp;<font color="gray">·</font>
-			<a href="/lessonplans/">Lesson Plans</a>&nbsp;<font color="gray">·</font>
-			<a href="/zz747/00/">Gift Certificates</a>&nbsp;<font color="gray">·</font>
-			<a href="/links/">Links</a>&nbsp;<font color="gray">·</font>
-			<a href="/requests/survey/">Survey</a>&nbsp;<font color="gray">·</font>
-			<a href="/customerservice/sitemap/">Sitemap</a>&nbsp;<font color="gray">·</font>
-			<a href="/help/">Help</a>
+	<div class="footerlinks">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr valign="top">
+		<td class="first">
+			<div class="normallist">
+				<h5>Customer Service</h5>
+				<ul>
+					<li><a href="http://www.dickblick.com/customerservice/contact/"><strong class="bold">Contact Us</strong></a></li>
+					<li><a href="http://www.dickblick.com/customerservice/shipping/">Shipping Info</a></li>
+					<li><a href="http://www.dickblick.com/customerservice/salestax/">Sales Tax</a></li>
+					<li><a href="http://www.dickblick.com/help/">General Help</a></li>
+					<li><a href="http://www.dickblick.com/customerservice/privacy/">Privacy &amp; Security</a></li>
+					<li><a href="http://www.dickblick.com/customerservice/healthsafety/">Health &amp; Safety</a></li>
+					<li><a href="http://www.dickblick.com/customerservice/sitemap/">Site Map</a></li>
+				</ul>
+			</div>
 		</td>
-	</tr>
-	<tr class="footerContactNavRow">
-		<td align="left" valign="top" nowrap="nowrap" width="40%" style="padding: 0px 10px;">
-			Dick Blick Art Materials<br>
-			P.O. Box 1267<br>
-			Galesburg, IL 61402-1267<br>
-			Fax (800) 621-8293
+		<td>
+			<div class="normallist">
+				<h5>More Information</h5>
+				<ul>
+					<li><a href="http://www.dickblick.com/info/aboutdickblick/" title="About Dick Blick">About Us</a></li>
+					<li><a href="http://www.dickblick.com/affiliates/" title="Blick Affiliates Program">Affiliate Programs</a></li>
+					<li><a href="http://www.wetcanvas.com/forums/" target="_blank">Artist Forums</a></li>
+					<li><a href="http://www.dickblick.com/green/" title="Blick's Commitment to Being Green">Being Green @ Blick</a></li>
+					<li><a href="http://www.dickblick.com/careers/" title="Career Opportunities at Blick">Careers</a></li>
+					<li><a href="http://www.dickblick.com/links/">Featured Links</a></li>
+				</ul>
+			</div>
 		</td>
-		<td align="right" valign="top" nowrap="nowrap">
-			Ordering Dept:<br>
-			Customer Service:<br>
-			Product / General Info:<br>
-			International:
+		<td>
+			<div class="normallist">
+				<h5>Shopping</h5>
+				<ul>
+					<li><a href="http://www.dickblick.com/clearance/">Clearance</a></li>
+					<li><a href="http://www.dickblick.com/giftcards/">Gift Cards</a></li>
+					<li><a href="http://www.dickblick.com/giftideas/" title="Gift Suggestions for any age or skill!">Gift Ideas</a></li>
+					<li><a href="http://www.dickblick.com/new/">New Products</a></li>
+					<li><a href="http://www.dickblick.com/landing/specialoffer/">Specials</a></li>
+				</ul>
+			</div>
+			<div class="nestedlist">
+				<ul>
+					<li><a href="http://www.dickblick.com/stores/">Retail Stores</a></li>
+				</ul>
+			</div>
 		</td>
-		<td align="left" valign="top" nowrap="nowrap">
-			(800) 828-4548<br>
-			(800) 723-2787<br>
-			(800) 933-2542<br>
-			(309) 343-6181
+		<td>
+			<div class="normallist">
+				<h5>Teachers &amp; Educators</h5>
+				<ul>
+					<li><a href="http://www.dickblick.com/lessonplans/">Lesson Plans</a></li>
+					<li><a href="http://www.dickblick.com/blicku/">BLICK U</a></li>
+					<li><a href="http://www.dickblick.com/landing/teachernews/">Teacher News</a></li>
+					<li><a href="http://www.wetcanvas.com/forums/channels.php?s=&amp;channel_id=29" target="_blank">Educator Forums</a></li>
+					<li><a href="http://www.dickblick.com/customerservice/bidsdiscounts/">School Discounts</a></li>
+					<li><a href="http://www.dickblick.com/help/b2b/">On-Account Ordering</a></li>
+				</ul>
+			</div>
 		</td>
-		<td align="left" valign="top" nowrap="nowrap" width="60%">
-			<a href="mailto:orders@dickblick.com">orders@dickblick.com</a><br>
-			<a href="mailto:custserv@dickblick.com">custserv@dickblick.com</a><br>
-			<a href="mailto:info@dickblick.com">info@dickblick.com</a><br>
-			<a href="mailto:blickinternational@dickblick.com">blickinternational@dickblick.com</a><br>
-		</td>
-		<td align="center" valign="middle" nowrap="nowrap" class="footerLogos"><script src="https://seal.verisign.com/getseal?host_name=www.dickblick.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO"></script></td>
-	</tr>
-	<tr>
-		<td colspan="5" width="100%" align="center" style="padding: 10px;">
-			Dick Blick Art Materials®, Blick®, Blick Studio®, and Artists Pick Blick® are registered trademarks of Dick Blick Holdings Inc.<br> 
-			© Copyright 1999–2008 Dick Blick Holdings Inc. All rights reserved.
+		<td class="last">
+			<div class="normallist">
+				<h5>Your Account</h5>
+				<ul>
+					<li><a href="https://www.dickblick.com/myaccount/">Account Details</a></li>
+					<li><a href="https://www.dickblick.com/orderstatus/">Order Status</a></li>
+					<li><a href="http://www.dickblick.com/wishlist/">Wishlist</a></li>
+				</ul>
+			</div>
+			<div class="nestedlist">
+				<ul>
+					<li><a href="http://www.dickblick.com/requests/mailinglist/" title="Monthly specials right to your Inbox!">Email Newsletter</a></li>
+					<li><a href="http://www.dickblick.com/requests/bigbook/" title="Our famous art supply catalogs have something for everyone!">Request A Catalog</a></li>
+				</ul>
+			</div>
+			<div class="nestedlist">
+				<ul>
+					<li><a href="http://www.dickblick.com/requests/survey/"><strong class="bold">Take our Web Survey!</strong></a></li>
+				</ul>
+			</div>
 		</td>
 	</tr>
 	</tbody></table>
 </div>
-
-<div class="traceinfo processing sysinfo " align="center">page processed by dbwebb ...</div>
+<div class="footercorporate">
+	<address>
+		<ul>
+			<li>Dick Blick Art Materials</li>
+			<li>·</li>
+			<li>P.O. Box 1267</li>
+			<li>·</li>
+			<li>Galesburg, IL 61402-1267</li>
+			<li>·</li>
+			<li>Phone (800) 828-4548</li>
+			<li>·</li>
+			<li>Fax (800) 621-8293</li>
+		</ul>
+	</address>
+</div>
+<div class="footertrademarks">
+	<p>
+	Dick Blick Art Materials®, Blick®, Blick Studio®, and Artists Pick Blick® are registered trademarks of Dick Blick Holdings Inc.<br>
+    © Copyright 1999–2009 Dick Blick Holdings Inc. All rights reserved.
+	</p>
+</div>
+	<div class="footerHelperWrapper">
+		<div class="footerLogos"><script src="https://seal.verisign.com/getseal?host_name=www.dickblick.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO"></script></div>
+		<div class="footerHelperNav">^ <a href="#top" title="Top of Page">Top of Page</a></div>
 	
+		<div id="footerAdditions" class="traceinfo processing sysinfo" align="center">page took 0 seconds for dbweba to process ...</div>
+	
+	</div>
+</div>
 
 			
 		</div>
