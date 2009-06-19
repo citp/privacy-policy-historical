@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023329id_/http%3A//www.theladders.com/abouttheladdersprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160736id_/http%3A//www.theladders.com/abouttheladdersprivacy) for the most accurate reproduction.*
 
 # TheLadders.com Privacy Policy
 
