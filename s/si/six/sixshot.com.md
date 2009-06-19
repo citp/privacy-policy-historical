@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614185153id_/http%3A//www.sixshot.com/about/912) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixshot.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619082142id_/http%3A//www.sixshot.com/about/912) for the most accurate reproduction.*
 
 # TERMS AND CONDITIONS OF USE :: Hip-Hop Review
 
 | 
 
-| [NEWS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/news/) | [INTERVIEWS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/interviews/) | [ALBUMS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/albums/) | [SPECIALS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/) | [BLOGS](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/columns.asp)  
+| [NEWS](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/news/) | [INTERVIEWS](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/interviews/) | [ALBUMS](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/albums/) | [SPECIALS](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/) | [BLOGS](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/columns.asp)  
 ---|---|---|---|---  
   
 * * *
@@ -40,11 +40,11 @@ Your Acceptance of These Terms:** By using Sixshot GmbH, you signify your accept
 Last updated June 28th, 2004
 
   
-Peep the **[review archive](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/section.asp?id=3)**
+Peep the **[review archive](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/section.asp?id=3)**
 
-**Send** this Story [**to a Friend**](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/mailto.asp?id=912)  
+**Send** this Story [**to a Friend**](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/mailto.asp?id=912)  
   
-[ **Print**](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/print.asp?id=912) this article [ ](https://web.archive.org/web/20080614185153id_/http://www.sixshot.com/print.asp?id=912)
+[ **Print**](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/print.asp?id=912) this article [ ](https://web.archive.org/web/20090619082142id_/http://www.sixshot.com/print.asp?id=912)
 
 * * *  
   
