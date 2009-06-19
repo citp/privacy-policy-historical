@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624071233id_/http%3A//www.dunnesstores.ie/page.php%3Fpid%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002524id_/http%3A//www.dunnesstores.ie/page.php%3Fpid%3D91) for the most accurate reproduction.*
 
 # Dunnes Stores Privacy Policy
 
