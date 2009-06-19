@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218203301id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anorak.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161235id_/http%3A//www.anorak.co.uk/terms-and-conditions) for the most accurate reproduction.*
 
-# Terms & Privacy | Anorak News
+# Anorak News » Terms & Privacy
 
 Here at Anorak, we take the privacy of our readers very seriously and operate by the following guidelines.
 
