@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218222643id_/http%3A//hss.edu/notice-of-privacy-practices.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619020930id_/http%3A//www.hss.edu/notice-of-privacy-practices.asp) for the most accurate reproduction.*
 
 # HSS - Notice of Privacy Practices
 
@@ -246,6 +246,3 @@ Back to Top
 
   
 _Last Updated March 26, 2003_
-
-  
-
