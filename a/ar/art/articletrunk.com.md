@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218053932id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212513id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
-# The Article Trunk
+# The Article Trunk | is an article directory for free online articles
 
-**The ARTICLE Trunk**
+|   
+  
+  
+  
+  
+| 
 
-**Privacy Statement**
-
+Privacy Statement  
 This Policy is effective on 2/16/2006
+
+* * *
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-We collect the e-mail addresses of those who subscribe to our lists, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, payment information (e.g., credit card number and billing address).
+We collect the e-mail addresses of those who subscribe to our lists, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, payment information (e.g., credit card number and billing address).
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws or to protect against misuse or unauthorized use of our Web site.
 
@@ -29,4 +35,7 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above phone number or open a Support Desk ticket.
+If you feel that this site is not following its stated information policy, you may contact us at the above phone number or open a Support Desk ticket. 
+
+|  |   
+---|---|---|---
