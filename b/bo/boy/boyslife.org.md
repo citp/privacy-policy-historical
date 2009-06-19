@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218003055id_/http%3A//www.boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyslife.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212153id_/http%3A//boyslife.org/home/449/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy -- Boyslife.org
+# Privacy policy -- Boys’ Life magazine
 
 _Boys’ Life_ magazine is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.The information that follows explains the kinds of information this Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children’s Online Privacy Protection Act.
 
@@ -14,7 +14,7 @@ No attempt is made to covertly or “quietly” collect personally identifiable 
 
 What organization is collecting the information?
 
-Information entered by site visitors is retrieved directly by the Boy Scouts of America, National Council: 1325 West Walnut Hill Lane, Post Office Box 152079, Irving, TX, 75015-2079 - telephone (972) 580-2000.
+Information entered by site visitors is retrieved directly by the Boy Scouts of America, National Council: 1325 West Walnut Hill Lane, Post Office Box 152079, Irving, TX, 75015-2079 – telephone (972) 580-2000.
 
 **How does the BSA use the information it collects?**
 
