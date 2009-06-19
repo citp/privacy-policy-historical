@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219081308id_/http%3A//www.slv.vic.gov.au/about/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicnet.net.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211722id_/http%3A//www.slv.vic.gov.au/about/site/privacy.html) for the most accurate reproduction.*
 
 # Your privacy and the State Library of Victoria website
 
-The State Library of Victoria is committed to protecting your personal privacy. The principles that guide the State Library of Victoria in relation to collecting, handling and storing your personal information and your responsibilities when using personal information contained in the Library's collections can be found on the [Privacy Policy](https://web.archive.org/web/20081219081308id_/http%3A//www.slv.vic.gov.au/about/information/policies/privacy.html) page. 
+The State Library of Victoria is committed to protecting your personal privacy. The principles that guide the State Library of Victoria in relation to collecting, handling and storing your personal information and your responsibilities when using personal information contained in the Library's collections can be found on the [Privacy Policy](https://web.archive.org/web/20090619211722id_/http%3A//www.slv.vic.gov.au/about/information/policies/privacy.html) page. 
 
 The following information pertains specifically to your privacy and the Library's website.
 
@@ -20,7 +20,7 @@ Personal information will only be used for the purpose for which you provided th
 
 ## Access & Correction
 
-You are able to access any personal information about you held by the Library. For further information about making such a request, see the [Freedom of Information](https://web.archive.org/web/20081219081308id_/http%3A//www.slv.vic.gov.au/about/information/policies/foi.html) page.
+You are able to access any personal information about you held by the Library. For further information about making such a request, see the [Freedom of Information](https://web.archive.org/web/20090619211722id_/http%3A//www.slv.vic.gov.au/about/information/policies/foi.html) page.
 
 ## Cookies
 
