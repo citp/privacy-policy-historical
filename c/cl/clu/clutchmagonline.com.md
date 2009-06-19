@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100207id_/http%3A//clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619220823id_/http%3A//clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Clutch Magazine: fashion.beauty.life.culture
+# Privacy Policy | Clutch Magazine: The Digital Magazine for the Young, Contemporary Woman of Color
 
 This privacy statement covers all of the Sutton Media sites. Please read this statement carefully before using proceeding to access Sutton Media sites. Your use of Sutton Media sites indicates your agreement to abide by the Terms in effect. 
 
