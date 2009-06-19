@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217203113id_/http%3A//6dollarshirts.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212500id_/http%3A//6dollarshirts.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # HELP SECTION :: 6DollarShirts.com
 
