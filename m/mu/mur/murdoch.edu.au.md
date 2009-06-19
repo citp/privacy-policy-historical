@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704104143id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022721id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
 
 # Murdoch University University Web Sites Privacy Notice
 
-Many of Murdoch University's Web sites have been developed to assist in the delivery of a range of services. In operating these sites, the University may need to collect, store and use information about users of the Web sites. The University recognises the importance of protecting any personal information collected and respects the privacy of its Web site users. This notice sets out how the University will deal with personal information related to the Content and use of its Web sites.
+Many of Murdoch University's Web sites have been developed to assist in the delivery of a range of services. In operating these sites, the University may need to collect, store and use information about users of the Web sites. The University recognises the importance of protecting any personal information collected and respects the privacy of its Web site users. This notice sets out how the University will deal with personal information related to the Content and use of its Web sites. 
 
-  1. Information Collected
-  2. Use of Personal Information
-  3. Disclosure of Personal Information
-  4. Data Quality
-  5. Complaints and Queries About Privacy
+* * *
+
+  1. Information collected
+  2. Use of personal information
+  3. Disclosure of personal information
+  4. Data quality
+  5. Complaints and queries about privacy
   6. University Privacy Policy
 
 
 
-### 1\. Information Collected
+## 1\. Information collected
 
-#### Information Automatically Logged
+### Information Automatically Logged
 
 The University may make a record of your visit to a Web site and use a Web Server to log any of the following information: 
 
@@ -40,13 +42,13 @@ The data collected is used for the following purposes:
 
 Access to Web Server logs is restricted to authorised system administrators. 
 
-#### Security
+### Security
 
-The computers used to run University Web Servers have security measures in place against the loss, misuse and alteration of data, as defined in the [University's IT Security Policy](https://web.archive.org/goto/ITSecurityPolicy). 
+The computers used to run University Web Servers have security measures in place against the loss, misuse and alteration of data, as defined in the [University's IT Security Policy](http://www.murdoch.edu.au/goto/ITSecurityPolicy). 
 
-A [Secure Web Server](https://web.archive.org/admin/policies/murdochnet/glossary.html#secure) is used to provide a login screen when a user is required to enter identification details such as a [Murdoch Username](https://web.archive.org/help/login/username.html) and [Murdoch Password](https://web.archive.org/help/login/password.html). The data exchanged between the user's Web browser and the Secure Web Server is encrypted. 
+A [Secure Web Server](http://www.murdoch.edu.au/admin/policies/murdochnet/glossary.html#secure) is used to provide a login screen when a user is required to enter identification details such as a [Murdoch Username](http://www.murdoch.edu.au/help/login/username.html) and [Murdoch Password](http://www.murdoch.edu.au/help/login/password.html). The data exchanged between the user's Web browser and the Secure Web Server is encrypted. 
 
-#### Cookies
+### Cookies
 
 A cookie is a small amount of information given to your Web browser by our Web Server. The browser stores the message in a text file and the message is then sent back to the Web Server each time the browser requests a page from the Server. It is possible to disable the acceptance of cookies by your Web browser. However, doing so may restrict your ability to access some Web pages. 
 
@@ -65,15 +67,15 @@ Unique identifiers (such as login username and password) are collected when it i
 
 Unique identifiers may also be used to access stored information about a user's preferences to enable the dynamic display of a Web site according to your preferences when you return to that site. 
 
-#### Completion of Web Site Forms
+### Completion of Web Site Forms
 
 Some University Web sites may request that you provide personal identifying information such as your name, e-mail address, phone number etc. While you do not have to provide this information to the University, failure to do so may mean that we are unable to provide services to you. 
 
 Where you do provide this information, it is voluntarily submitted by you to the University. The information will only be used for the purposes explained to you when you provide it. 
 
-####  Online Surveys
+###  Online Surveys
 
-All research surveys conducted online by University staff and / or students which involve the collection of personal information, will have received approval from the University's [Human Research Ethics Committee](http://www.research.murdoch.edu.au/ethics/hrec/hrec.asp). A survey may ask a user to enter a unique identifier (such as login information). 
+All research surveys conducted online by University staff and / or students which involve the collection of personal information, will have received approval from the University's [Human Research Ethics Committee](http://www.murdoch.edu.au/goto/HREC). A survey may ask a user to enter a unique identifier (such as login information). 
 
 Research surveys that do not require approval are: 
 
@@ -82,7 +84,7 @@ Research surveys that do not require approval are:
 
 
 
-#### Enrolment and Registration Forms
+### Enrolment and Registration Forms
 
 If personal information is collected via a Web site and held, every effort will be made to ensure that this is done by sufficiently secure means. 
 
@@ -92,13 +94,13 @@ The University uses Secure Web Servers when users are asked to use an online for
 
 Content hosted on University Web sites may contain links to other Internet-accessible sites. The University is not responsible for the privacy practices or the Content of such Web sites. 
 
-### 2\. Use of Personal Information
+## 2\.  Use of personal information
 
 Personal information you supply online may be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information (including information about services the University offers) to staff, prospective and current students and remaining in contact with graduates. 
 
 The University may use your IP address to help diagnose problems with a Web Server. Your IP address may also be used to set up an individual session to provide a secure login. 
 
-### 3\. Disclosure of Personal Information
+## 3\.  Disclosure of personal information
 
 Staff email addresses, room numbers and phone numbers are made available within the Campus Directory. Staff may elect to not have their email address or phone number displayed via the Directory. 
 
@@ -106,23 +108,23 @@ Personal information about students will not be made publicly available on Unive
 
 The information provided by users completing any forms on University Web sites will not be disclosed to others except where disclosure is consistent with the purpose for which it was collected and is otherwise in accordance with applicable privacy law requirements. 
 
-For more information on how the University may use or disclose personal information, please see the University's [Privacy Policy](https://web.archive.org/admin/policies/privacy.html). 
+For more information on how the University may use or disclose personal information, please see the University's [Privacy Policy](http://www.murdoch.edu.au/goto/Privacy). 
 
 #### Public Forums
 
 Some University Web sites may have chat rooms, discussion forums, online teaching environments, message boards or news groups available to their users. Please remember when using one of these services that any information that is published via these mediums may become public and you should exercise caution when deciding to disclose your personal information. 
 
-### 4\. Data Quality
+## 4\. Data quality
 
-The University will always try to maintain accurate, complete and up-to-date information regarding its staff and students. If you are a student and think that your personal information retained by the University requires changing, please use [MyInfo](https://web.archive.org/goto/MyInfo) and change the details online, or contact your Division. Staff may use [Web Self Service](https://web.archive.org/goto/WSS) to change their contact address details and the editor available via the Campus Directory to change their email address. This editor may also be used to request Human Resources to change name details. 
+The University will always try to maintain accurate, complete and up-to-date information regarding its staff and students. If you are a student and think that your personal information retained by the University requires changing, please login to [MyInfo](http://www.murdoch.edu.au/goto/MyInfo) and change the details online. Staff may use [MyHR](http://www.murdoch.edu.au/goto/MyHR) to change their contact address details and the editor available via the Campus Directory to change their email address. This editor may also be used to email a request to the Office of Human Resources to change name details. 
 
-### 5\. Complaints and Queries About Privacy
+## 5\. Complaints and queries about privacy
 
 Any user with a query or complaint relating to the privacy of personal information collected via Web Servers or Web sites on the Murdoch University Network, should contact the [Director, Office of Information Technology Services](mailto:c.foley@murdoch.edu.au). 
 
-### 6\. University Privacy Policy
+## 6\. University Privacy Policy
 
-This Notice should be read in conjunction with the University's [Privacy Policy](https://web.archive.org/admin/policies/privacy.html). Staff and students may also wish to refer to the [Guidelines on Workplace E-mail, Web Browsing and Privacy](http://www.privacy.gov.au/internet/email/), published by the Office of the Privacy Commissioner (March 3, 2000). 
+This Notice should be read in conjunction with the University's [Privacy Policy](http://www.murdoch.edu.au/goto/Privacy). Staff and students may also wish to refer to the [Guidelines on Workplace E-mail, Web Browsing and Privacy](http://www.privacy.gov.au/internet/email/), published by the Office of the Privacy Commissioner (March 3, 2000). 
 
 * * *
 
