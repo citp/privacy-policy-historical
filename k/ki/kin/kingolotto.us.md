@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the kingolotto.us privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074636id_/http%3A//www.kingolotto.us/rules.php%3FidRules%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.us privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001731id_/http%3A//www.kingolotto.us/rules.php%3FidRules%3D3) for the most accurate reproduction.*
 
 # Kingolotto - 100% free US game, great prizes to win, Tell-your-friends, lucky, points!
 
-  * [KINGOLOTTO GAME OFFICIAL RULES](https://web.archive.org/web/20081218074636id_/http%3A//www.kingolotto.us/reglement.php?idRules=1)
-  * [KINGOPOINTS AWARDS TERMS & CONDITIONS](https://web.archive.org/web/20081218074636id_/http%3A//www.kingolotto.us/reglement.php?idRules=2)
-  * [KINGOLOTTO BIG PRIZE LIST](https://web.archive.org/web/20081218074636id_/http%3A//www.kingolotto.us/reglement.php?idRules=4)
+  * [KINGOLOTTO GAME OFFICIAL RULES](https://web.archive.org/web/20090620001731id_/http%3A//www.kingolotto.us/reglement.php?idRules=1)
+  * [KINGOPOINTS AWARDS TERMS & CONDITIONS](https://web.archive.org/web/20090620001731id_/http%3A//www.kingolotto.us/reglement.php?idRules=2)
+  * [KINGOLOTTO BIG PRIZE LIST](https://web.archive.org/web/20090620001731id_/http%3A//www.kingolotto.us/reglement.php?idRules=4)
 
   
 
 
 ## KINGOLOTTO PRIVACY POLICY
 
-The [www.kingolotto.com](http://www.kingolotto.com/) website is owned and operated by Mediastay North America Inc., c/o Natixis Pramex, 1251 Avenue of the Americas, 34th Flr., New York, NY 10020 (“Mediastay”).   
+The [www.kingolotto.com](http://www.kingolotto.com/) website is owned and operated by  MEDIASTAY North America, Inc.  
+350 Sansome Street, Ste 740 San Francisco, CA 94104 (“Mediastay”).   
 This privacy policy describes how, on the [www.kingolotto.com](http://www.kingolotto.com/) website (“Website”), Mediastay collects, uses and shares Personally Identifiable Information and Non-Personally Identifiable Information obtained from and about individuals who visit the Website. Mediastay respects the privacy of persons who choose to visit the Website and is committed to making the Website a safe and secure environment. 
 
 ### I. COLLECTION OF INFORMATION 
@@ -132,3 +133,5 @@ By accessing and using this Website, you agree to abide by and be bound by this 
 ### VIII. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION/COMPLAINT PROCEDURE
 
 Persons who have registered with the Website may review their PII collected at the Website by Mediastay at any time. To access your PII for the purpose of reviewing, updating or deleting it, log-in to your Game Account by entering your user ID (e-mail address) and password and click on the “My Account” link. If you have a question, comment or complaint regarding Mediastay's privacy practices, [click here](http://www.kingolotto.us/contact.php) or send us a letter at the following address: KINGOLOTTO US, Privacy Practices, P.O. BOX 1050, Port Washington NY 11050-1050. Please allow approximately (5) business days for a response to your comment/complaint. 
+
+Kingolotto is a 100% free online lottery. No purchases necessary, no registration fee, just a free online daily lottery. Join free and play our lotto for your chance to win in our mega sweepstakes contest.Playing your ten daily game grids gives you a chance at winning the jackpot of a brand new SUV or a vacation. Play our online special draws and win free prizes such as cash gift cards, dvd movies, video games, mp3 players, tv screens and other amazing instant giveaways. Play your lucky lottery numbers or randomly quick pick your ten daily grids and win the grand prize. Each time you play you'll earn points that you can redeem for our great prizes like gift cards. The more grids you play = the closer you are to winning great prizes. Playing will also allow you to benefit from great offers and deals from our partners.
