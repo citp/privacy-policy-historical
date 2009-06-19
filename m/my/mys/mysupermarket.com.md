@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysupermarket.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224234355id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619235814id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
 
-# mySupermarket - Privacy policy
+# Privacy policy | mySupermarket
 
 **Protecting You**
 
@@ -8,22 +8,26 @@ We are committed to protecting your privacy. We will only use the information th
 
 We collect information about you to provide you with the best possible service and to provide you with related services and marketing from ourselves (but not from third parties without your consent).
 
-If you agree to register or sign-in to participate in the ipoints Programme on or through the Website, then you agree that you will provide the data that you give to us and that we accrue for that purpose to ipoints for ipoints' own marketing activities to you. **The Information We Require**
+If you agree to register or sign-in to participate in the ipoints Programme on or through the Website, then you agree that you will provide the data that you give to us and that we accrue for that purpose to ipoints for ipoints' own marketing activities to you. 
+
+**The Information We Require**
 
 Our privacy policy ensures that any information you provide us remains private and secure. To reassure you, below we provide details of the information you provide to us, and how it will, and more importantly, will not be used. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting us (and there may be an administrative fee payable for this). If you find any inaccuracies we will delete or correct it promptly.
 
 Here are some examples of the data we collect and reasons why:
 
-  * When you start using the Service, you are asked to provide your postcode for delivery - this allows us to identify which supermarkets deliver in your area. 
+  * During the course of using the Service, you may be asked to provide your postcode for delivery - this allows us to identify which supermarkets deliver in your area and the products in particular supermarkets may vary by locality. 
   * When you register for the Service you are asked to provide your name, email address and password - this helps us recognise you when you return so that we can provide you with a faster service. 
+  * We may also ask you to provide your age and possibly certain other personal details such as gender or where you heard about us. We collect these types of details for marketing purposes but we will never provide these details to third parties outside our group unless in anonymous form or as we say elsewhere in this policy. 
   * When you register or sign-in for participation in the ipoints Programme on or through the Website, you need to provide us with your email address, password for your participation in the ipoints Programme, first name, last name, address and postcode, which we will pass on to ipoints for your participation in the ipoints Programme. We will receive a reference from ipoints that identifies you uniquely, and we use that reference in order to inform ipoints how many points should be attributed to your ipoints Programme account. 
   * We keep a record of items you purchased in your favourites list, thus allowing you to shop more quickly on future visits. 
   * We keep a record of the contents of your trolley between shopping sessions. This allows you to continue shopping sessions that you may have stopped midway with no need to add again all the items that you already placed in your trolley. 
-  * We keep a record of the contents of your trolley after you have sent it to a Supermarket. This is to ensure that you receive the allocation of points attributed by us for your participation within the ipoints Programme. 
+  * We may also keep a record of the contents of your trolley after you have sent it to a Supermarket. This is to ensure that you receive the allocation of points attributed by us for your participation within the ipoints Programme. 
   * We keep a record of your preferences such as sorting order of items and last shelf you bought in, so you don't need to reset these preferences every time you start shopping. 
   * We keep track of your emails and contacts with customer support, so that we can provide you with a responsive and efficient service. 
   * If you import favourites from one of the Supermarkets or if you book a delivery slot from one of the Supermarkets or when you place an order with the Supermarkets (using the Service), we ask you to enter your login details for that Supermarket (usually email and password). You may authorise us to save your Supermarket password access details. If so, we will retain these only to facilitate your speedier interaction with a Supermarket (so that you do not continually have to re-enter such details) and we will not use this information for any other purpose. 
   * We keep details of your favourites from Supermarkets and details of previous trolleys you have ordered so that we can better display your favourite items to you as part of the Service. 
+  * We collect and may display or use for the purposes of marketing and advertising the Website, Service or ourselves, any testimonials you provide us with about the Website, the Service or ourselves - and we may append to the testimonial your first name (but not your surname) and general geographic location (e.g. City or locale). 
 
 
 
