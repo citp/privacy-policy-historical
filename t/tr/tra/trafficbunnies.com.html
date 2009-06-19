@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trafficbunnies.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054511id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trafficbunnies.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619202816id_/http%3A//www.trafficbunnies.com/%3F_w%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!--
 
@@ -155,98 +155,9 @@ Rounded("div.wsft_in_bottom","bottom","#FFFFFF","#C0C0C0","smooth");
 
 }
 
-/******************************************
-* Snow Effect Script- By Altan d.o.o. (http://www.altan.hr/snow/index.html)
-* Visit Dynamic Drive DHTML code library (http://www.dynamicdrive.com/) for full source code
-* Last updated Nov 9th, 05' by DD. This notice must stay intact for use
-******************************************/
-  
-  //Configure below to change URL path to the snow image
-  var snowsrc="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif"
-  // Configure below to change number of snow to render
-  var no = 10;
-  // Configure whether snow should disappear after x seconds (0=never):
-  var hidesnowtime = 0;
-  // Configure how much snow should drop down before fading ("windowheight" or "pageheight")
-  var snowdistance = "pageheight";
-
-///////////Stop Config//////////////////////////////////
-
-  var ie4up = (document.all) ? 1 : 0;
-  var ns6up = (document.getElementById&&!document.all) ? 1 : 0;
-
-	function iecompattest(){
-	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-	}
-
-  var dx, xp, yp;    // coordinate and position variables
-  var am, stx, sty;  // amplitude and step variables
-  var i, doc_width = 800, doc_height = 600; 
-  
-  if (ns6up) {
-    doc_width = self.innerWidth;
-    doc_height = self.innerHeight;
-  } else if (ie4up) {
-    doc_width = iecompattest().clientWidth;
-    doc_height = iecompattest().clientHeight;
-  }
-
-  dx = new Array();
-  xp = new Array();
-  yp = new Array();
-  am = new Array();
-  stx = new Array();
-  sty = new Array();
-  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
-  for (i = 0; i < no; ++ i) {  
-    dx[i] = 0;                        // set coordinate variables
-    xp[i] = Math.random()*(doc_width-50);  // set position variables
-    yp[i] = Math.random()*doc_height;
-    am[i] = Math.random()*20;         // set amplitude variables
-    stx[i] = 0.02 + Math.random()/10; // set step variables
-    sty[i] = 0.7 + Math.random();     // set step variables
-		if (ie4up||ns6up) {
-      if (i == 0) {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><a href=\"http://dynamicdrive.com\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
-      } else {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
-      }
-    }
-  }
-
-  function snowIE_NS6() {  // IE and NS6 main animation function
-    doc_width = ns6up?window.innerWidth-10 : iecompattest().clientWidth-10;
-		doc_height=(window.innerHeight && snowdistance=="windowheight")? window.innerHeight : (ie4up && snowdistance=="windowheight")?  iecompattest().clientHeight : (ie4up && !window.opera && snowdistance=="pageheight")? iecompattest().scrollHeight : iecompattest().offsetHeight;
-    for (i = 0; i < no; ++ i) {  // iterate for every dot
-      yp[i] += sty[i];
-      if (yp[i] > doc_height-50) {
-        xp[i] = Math.random()*(doc_width-am[i]-30);
-        yp[i] = 0;
-        stx[i] = 0.02 + Math.random()/10;
-        sty[i] = 0.7 + Math.random();
-      }
-      dx[i] += stx[i];
-      document.getElementById("dot"+i).style.top=yp[i]+"px";
-      document.getElementById("dot"+i).style.left=xp[i] + am[i]*Math.sin(dx[i])+"px";  
-    }
-    snowtimer=setTimeout("snowIE_NS6()", 10);
-  }
-
-	function hidesnow(){
-		if (window.snowtimer) clearTimeout(snowtimer)
-		for (i=0; i<no; i++) document.getElementById("dot"+i).style.visibility="hidden"
-	}
-		
-
-if (ie4up||ns6up){
-    snowIE_NS6();
-		if (hidesnowtime>0)
-		setTimeout("hidesnow()", hidesnowtime*1000)
-		}
-
-</script></head><body><div id="dot0" style="position: absolute; z-index: 0; visibility: visible; top: 165.352px; left: 790.726px;"><a href="http://dynamicdrive.com"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></a></div><div id="dot1" style="position: absolute; z-index: 1; visibility: visible; top: 415.03px; left: 847.257px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot2" style="position: absolute; z-index: 2; visibility: visible; top: 183.785px; left: 654.008px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot3" style="position: absolute; z-index: 3; visibility: visible; top: 129.108px; left: 30.2751px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot4" style="position: absolute; z-index: 4; visibility: visible; top: 716.946px; left: 915.455px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot5" style="position: absolute; z-index: 5; visibility: visible; top: 240.544px; left: 174.729px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot6" style="position: absolute; z-index: 6; visibility: visible; top: 262.873px; left: 917.134px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot7" style="position: absolute; z-index: 7; visibility: visible; top: 682.88px; left: 73.063px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot8" style="position: absolute; z-index: 8; visibility: visible; top: 671.681px; left: 47.0334px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div><div id="dot9" style="position: absolute; z-index: 9; visibility: visible; top: 90.6289px; left: 78.1298px;"><img src="http://www.trafficbunnies.com/templates/playgirl/images/snow.gif" border="0"></div>
 
 
+</script>
 
 
 
@@ -284,11 +195,11 @@ if (ie4up||ns6up){
 
 
 
+</head>
 
 
 
-
- 
+<body> 
 
 <table width="997" align="center" class="bodybox">
 
@@ -306,13 +217,13 @@ if (ie4up||ns6up){
 
 
 
-        <td class="style2">
+        <td class="style2"><p class="style3"> 
+
+		<img alt="" src="http://www.trafficbunnies.com/images/headerv2.jpg" width="993" height="155"></p>
 
 		<p class="style3"> 
 
-		<img border="0" src="http://trafficbunnies.com/images/christmasheader.jpg" width="993" height="155"><br>
-
-		<img alt="" src="http://www.trafficbunnies.com/images/Untitled-1_01.jpg" width="747" height="34"><a href="http://www.trafficbunnies.com/"><img alt="homr" src="http://www.trafficbunnies.com/images/Untitled-1_02.jpg" width="58" height="34" class="style4"></a><a href="../?_w=login"><img alt="login" src="http://www.trafficbunnies.com/images/Untitled-1_04.jpg" width="56" height="34" class="style4"></a><a href="../?_w=help"><img alt="faw" src="http://www.trafficbunnies.com/images/Untitled-1_05.jpg" width="48" height="34" class="style4"></a><a target="_blank" href="http://www.nettrafficchat.com/"><img alt="forum" src="http://www.trafficbunnies.com/images/Untitled-1_06.jpg" width="79" height="34" class="style4"></a><br>
+		<img alt="" src="http://www.trafficbunnies.com/images/Untitled-1_01.jpg" width="747" height="34"><a href="http://www.trafficbunnies.com/"><img alt="home" src="http://www.trafficbunnies.com/images/home_frontpage.jpg" width="58" height="34" class="style4"></a><a href="../?_w=login"><img alt="login" src="http://www.trafficbunnies.com/images/Untitled-1_04.jpg" width="56" height="34" class="style4"></a><a href="../?_w=help"><img alt="faw" src="http://www.trafficbunnies.com/images/Untitled-1_05.jpg" width="48" height="34" class="style4"></a><a target="_blank" href="http://www.nettrafficchat.com/"><img alt="forum" src="http://www.trafficbunnies.com/images/Untitled-1_06.jpg" width="79" height="34" class="style4"></a><br>
 
 		</p> </td>
 
@@ -526,7 +437,7 @@ if (ie4up||ns6up){
 	<tbody><tr>
 		<td><font face="Georgia">Active Members</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">17040</font></td>
+		<td><font face="Georgia">19657</font></td>
 	</tr>
 
 
@@ -539,28 +450,28 @@ if (ie4up||ns6up){
 	<tr>
 		<td><font face="Georgia">Total Websites</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">18040</font></td>
+		<td><font face="Georgia">20991</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Today's Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">21222</font></td>
+		<td><font face="Georgia">16733</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">20441</font></td>
+		<td><font face="Georgia">23161</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Average Surf</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">40091</font></td>
+		<td><font face="Georgia">34330</font></td>
 	</tr>
 
 
@@ -574,28 +485,28 @@ if (ie4up||ns6up){
 	<tr>
 		<td><font face="Georgia">Total Banners</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">5077</font></td>
+		<td><font face="Georgia">5890</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Today's Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">49196</font></td>
+		<td><font face="Georgia">15366</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">1</font></td>
+		<td><font face="Georgia">24888</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Average Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">71257</font></td>
+		<td><font face="Georgia">62025</font></td>
 	</tr>
 
 	
@@ -608,28 +519,28 @@ if (ie4up||ns6up){
 	<tr>
 		<td><font face="Georgia">Total Adverts</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">4884</font></td>
+		<td><font face="Georgia">5329</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Today's Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">13114</font></td>
+		<td><font face="Georgia">16989</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Yesterdays Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">6646</font></td>
+		<td><font face="Georgia">26625</font></td>
 	</tr>
 
 
 	<tr>
 		<td><font face="Georgia">Average Shows</font></td>
 		<td><font face="Georgia">:</font></td>
-		<td><font face="Georgia">76142</font></td>
+		<td><font face="Georgia">60774</font></td>
 	</tr>
 
 	
