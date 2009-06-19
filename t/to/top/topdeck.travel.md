@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217182819id_/http%3A//www.topdecktours.co.uk/content.asp%3FDocument_ID%3D1184) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035643id_/http%3A//www.topdecktours.co.uk/content.asp%3FDocument_ID%3D1184) for the most accurate reproduction.*
 
 # Topdeck Tours - Privacy Policy - Topdeck Travel - Great value trips for 18-30 somethings in Europe, Egypt and Africa.
 
@@ -62,7 +62,7 @@ We are comply with the Spam Act 2003, and do not share, sell or rent information
 
   
 **Access to your personal information**  
-Any request for information may be made to Topdeck Tours Ltd Head Office at William House, 14 Worple Road, Wimbledon, London, SW19 4DD, United Kingdom or via telephone on +44 208 8796789, email: info@topdecktravel.co.uk
+Any request for information may be made to Topdeck Tours Ltd Head Office at Level 2, 107 Power Road, Chiswick, W4 5PY, United Kingdom or via telephone on +44 208 9873300, email: info@topdecktravel.co.uk
 
   
 **Links**  
@@ -70,4 +70,4 @@ This site may contain links to other websites. Please note that when you click o
 
   
 **Complaints about a breach of privacy**  
-All staff members of Topdeck Tours Ltd endeavour to take every reasonable measure to ensure that your personal information is protected. Any complaint of breach of privacy may be made to the Managing Director, Topdeck Tours Ltd at William House, 14 Worple Road, Wimbledon, London, SW19 4DD, United Kingdom All complaints will be investigated as soon as lodged and all reasonable efforts will be made to resolve the complaint as soon as possible.
+All staff members of Topdeck Tours Ltd endeavour to take every reasonable measure to ensure that your personal information is protected. Any complaint of breach of privacy may be made to the Managing Director, Topdeck Tours Ltd at Level 2, 107 Power Road, Chiswick, W4 5PY, United Kingdom. All complaints will be investigated as soon as lodged and all reasonable efforts will be made to resolve the complaint as soon as possible.
