@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingindustry.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219012539id_/http%3A//www.trainingindustry.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingindustry.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211204id_/http%3A//www.trainingindustry.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,6 +74,8 @@ Training Industry, Inc. uses any information voluntarily given by our users to e
 As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and publications and to enable users to participate in polls, surveys, message boards, forums and events. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Training Industry, Inc. never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners. 
 
 When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in the search function as one of many measures of what interests our users. We do not track the terms a particular user enters. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 Training Industry, Inc. creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
