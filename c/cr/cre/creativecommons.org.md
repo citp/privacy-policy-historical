@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219102820id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecommons.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619073134id_/http%3A//creativecommons.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Creative Commons
 
