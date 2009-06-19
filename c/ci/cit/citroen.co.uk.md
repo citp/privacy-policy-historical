@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the citroen.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142644id_/http%3A//www.citroen.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citroen.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619180835id_/http%3A//www.citroen.co.uk/privacy) for the most accurate reproduction.*
 
 # Citroën UK Privacy
 
 **PRIVACY POLICY**
 
-Copyright © 2008 Citroën UK Ltd - All Rights Reserved
+Copyright © 2009 Citroën UK Ltd - All Rights Reserved
 
 Citroën UK Ltd. is determined to ensure that all your personal data is treated in a transparent and responsible way.
 
