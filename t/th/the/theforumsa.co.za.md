@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113137id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044419id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # The Forum SA Wiki:Privacy policy - The Forum SA Wiki
 
@@ -80,9 +80,9 @@ The Forum SA policy does not permit public distribution of such information unde
 
 ##  Adservers
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: 
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This may include collecting information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: 
 
-Google, inc. <http://www.google.com/privacy.html>
+Google, inc. <http://www.google.com/privacy_ads.html>
 
 ##  Sharing information with third parties 
 
