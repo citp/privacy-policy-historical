@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219030419id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202141id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
 
 # Supplements | Protein | Creatine | Whey | Privacy Policy
 
