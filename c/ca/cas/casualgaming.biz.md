@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgaming.biz privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218205210id_/http%3A//www.casualgaming.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgaming.biz privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619021352id_/http%3A//www.casualgaming.biz/privacy) for the most accurate reproduction.*
 
 # Casual Gaming
 
