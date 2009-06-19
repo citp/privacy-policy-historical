@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630053718id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619140410id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
    <title>
@@ -11,7 +11,12 @@
 <link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon">
         
         <link rel="stylesheet" type="text/css" href="/CssMerge/styles/masterStylesheet_compressed.css">
-
+                    <link rel="stylesheet" type="text/css" href="/CssMerge/styles/EbNewDesign.css">
+                    		   <!--[if IE 6]>
+				    <link rel="stylesheet" type="text/css" href="/CssMerge/styles/EbNewDesignIe6Fix.css" />
+				   <![endif]-->
+                    		   
+<style type="text/css" media="all">@import "/themes/eurobookings/style.css";</style>
 				 
 		<script type="text/javascript" src="/misc/eub.js"></script>
 		<script defer="" type="text/javascript" src="/misc/pngfix.js"></script>
@@ -29,101 +34,106 @@
    
 	     
 	<body>
-	  <ul id="ackeys">
-         <li><a href="/index.html" accesskey="1">Home</a></li> <!-- Homepage -->
-         <li><a href="#bcrumbs" accesskey="2">Skip Navigation</a></li>
-         <li><a href="#descSearch" accesskey="4">Search</a></li> <!-- Search -->
-         <!--li><a href="/customer-service.html" accesskey="9">Contact Us</a></li-->
-      </ul>
-      <div id="header">
-         <div id="headerContent">
-            <p id="hb"><a href="/index.html" title="EuroBookings.com - We know Europe..."><img src="/themes/eurobookings/images/logo.gif" alt="EuroBookings.com - We know Europe..."></a></p>
-            <form id="langChooseForm" name="langChooseForm" method="get" action="">
-			   <fieldset>
-				  <p>
-                     <label for="langSelect">Select language:</label>
-					 <input type="hidden" name="" value="">
-					 <select id="langSelect" name="langSelect" onchange="selectLanguage();">                        
-                        							<option value="en" selected="">English</option>
-													<option value="de">Deutsch</option>
-													<option value="nl">Nederlands</option>
-													<option value="fr">Français</option>
-													<option value="es">Español</option>
-													<option value="ca">Català</option>
-													<option value="it">Italiano</option>
-													<option value="pt">Portugués</option>
-													<option value="ja">日本語 [Nihongo]</option>
-													<option value="zh">中文(简体,1) [Zhongwen]</option>
-													<option value="pl">Polski</option>
-													<option value="el">Ελλάδα</option>
-													<option value="ru">Российская Федерация</option>
-						                     </select>
-                     <img src="/themes/eurobookings/images/flag/en.gif" alt="">
-                     <input type="hidden" name="current_language" id="current_language" value="en">
-                  </p>
-               </fieldset>
-            </form>
-			
-					            <div id="menubox">
-               <ul id="mainMenu">
-                  <li><a href="/index.html" class="current"><em><span>Hotels</span></em></a></li>
-                  <li><a href="http://eurobookings.elsyarres.net/?lang=en"><em><span>Flights</span></em></a></li>
-                  <li><a href="http://www.eurobookings.com/car_rentals/"><em><span>Cars</span></em></a></li>
-                  <li><a href="http://www.eurobookings.com/travel-news/travel-news-main.html"><em><span>Travel News</span></em></a></li>
-                  <li><a href="http://www.eurobookings.com/things_to_do/"><em><span>Things to Do</span></em></a></li>
-               <!--   <li><a href="/videos/featured/index.html"><em><span>Travel Videos</span></em></a></li>
-				  <li class="new"><img src="/themes/eurobookings/images/new/en.png"></li>-->
-               </ul>
-               <ul id="auxMenu">
-               	  <span id="auxmenu_value"></span>
-				  <li><a class="item1" href="javascript:myBooking();" onmouseover="showAuxMenuMain('My Booking', this)" onmouseout="showAuxMenuMain('', this)" rel="nofollow"></a></li>
-               	  <li><a class="item2" href="javascript:mailAFriend('', 'http://www.eurobookings.com/privacy.html')" onmouseover="showAuxMenuMain('Email this page', this)" onmouseout="showAuxMenuMain('', this)" rel="nofollow"></a></li>
-               	  <li><a class="item3" href="javascript:bookmarkSite('title_of_site', 'url_of_site')" onmouseover="showAuxMenuMain('Bookmark', this)" onmouseout="showAuxMenuMain('', this)" rel="nofollow"></a></li>
-               	  <li><a class="item4" href="/faq.html" onmouseover="showAuxMenuMain('FAQ', this)" onmouseout="showAuxMenuMain('', this)" rel="nofollow"></a></li>
-               </ul>
-            </div>
-            <div class="clearme"></div>
-         </div>
-      </div>
+		<!-- Start Header -->
+			<div id="idEbHeaderNotFaq">
+	<div id="idEbHeaderRow3">
+		<div id="idEbLogo">
+			<a href="/index.html" title="EuroBookings.com - We know Europe..."><img src="/application/images/Eurobookings-Logo.png" width="384" height="83" alt=""> </a>
+		</div>
+		<form id="langChooseForm" name="langChooseForm" method="get" action="">
+		<ul id="idEbLanguageUl">
+		<li style="margin-right:15px">Select language:</li>
+						<li><img src="/application/images/flag/SmallFlag_en_Selected.jpg" width="16" height="18" title="English" onclick="window.location='/privacy.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_de.jpg" width="16" height="18" title="Deutsch" onclick="window.location='/privacy.de.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_nl.jpg" width="16" height="18" title="Nederlands" onclick="window.location='/privacy.nl.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_fr.jpg" width="16" height="18" title="Français" onclick="window.location='/privacy.fr.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_es.jpg" width="16" height="18" title="Español" onclick="window.location='/privacy.es.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_ca.jpg" width="16" height="18" title="Català" onclick="window.location='/privacy.ca.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_it.jpg" width="16" height="18" title="Italiano" onclick="window.location='/privacy.it.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_pt.jpg" width="16" height="18" title="Portugués" onclick="window.location='/privacy.pt.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_ja.jpg" width="16" height="18" title="日本語 [Nihongo]" onclick="window.location='/privacy.ja.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_zh.jpg" width="16" height="18" title="中文(简体,1) [Zhongwen]" onclick="window.location='/privacy.zh.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_pl.jpg" width="16" height="18" title="Polski" onclick="window.location='/privacy.pl.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_el.jpg" width="16" height="18" title="Ελλάδα" onclick="window.location='/privacy.el.html'">
+						</li><li><img src="/application/images/flag/SmallFlag_ru.jpg" width="16" height="18" title="Российская Федерация" onclick="window.location='/privacy.ru.html'">
+				</li></ul>
+		</form>
+		<div id="idEbEurobookingsSlogan">
+			<h2>Lowest Rates - No Payment in Advance - Save Money!</h2>
+		</div>
+		<div class="clsEbClear"></div>
+	</div>
 
-      <!--<div id="75logo" style="display:none; position:absolute; background:url('/themes/eurobookings/images/rightbanners/en.png') left top; height:160px; width:83px;"></div>-->
-      <div id="container">
-	  		<div id="bcrumbs">
-			<div id="rightBanner"><img src="/themes/eurobookings/images/rightbanners/en.png"></div>
-			<div class="altbanner" title="EuroBookings.com - We know Europe..."><img src="/themes/eurobookings/images/mainpictures/en.jpg"></div>
-			<div class="bcrumbLink">
-	            <ul>
-	               <li>You are here:</li>
-	               
-				   
-				   				   				   		<li class=""><a href="/index.html">Home</a></li>
-				    
-
-				    
-				   	            	
-				   
-
-				   
-				   
-				   <!-- Option Name 1 -->
-				   				     
-
-				   <!-- Option Name 2 -->
-				   	
-				    
-				   
-				   <!-- Option Name 3 -->
-				    	
-				    
-				   
-
-	               <li class="last">Privacy Statement</li>         
-	            </ul>
+	<div id="idEbHeaderRow4">
+		<div id="idEbBreadCrumbLinksRightPos">
+			<div id="idEbBreadCrumbLinksRight">
+				<ul>
+					<li class="clsEbBreadCrumbLinksRightTxt Selected">
+						<a href="/index.html">
+							Hotels						</a>
+					</li>
+					<li><img src="/application/images/HeaderSeperator.gif" width="23" height="21" alt=""></li>
+					<li class="clsEbBreadCrumbLinksRightTxt">
+						<a href="http://www.eurobookings.com/travel-news/travel-news-main.html">
+							Travel News						</a>
+					</li>
+					<li><img src="/application/images/HeaderSeperator.gif" width="23" height="21" alt=""></li>
+					<li class="clsEbBreadCrumbLinksRightTxt">
+						<a href="javascript:bookmarkSite('title_of_site', 'url_of_site')">
+							Bookmark						</a>
+					</li>
+					<li><img src="/application/images/HeaderSeperator.gif" width="23" height="21" alt=""></li>
+					<li class="clsEbBreadCrumbLinksRightTxt">
+						<a href="javascript:myBooking();">
+							My Booking						</a>
+					</li>
+					<li><img src="/application/images/HeaderSeperator.gif" width="23" height="21" alt=""></li>
+					<li class="clsEbBreadCrumbLinksRightTxt">
+						<p style="white-space:nowrap">
+						<a href="/faq.html">
+							FAQ						</a>
+						</p>
+					</li>
+				</ul>
+				
 			</div>
-        </div>
-		 
-		 
-         <div id="col1">
+			
+		</div>
+		
+	</div>
+</div>
+		<!-- End Header -->
+
+      <div id="container">
+      <!-- Start BreadCrumb -->
+			<div id="idEbBreadCrumbDrupalSite">
+	<ul>
+		<li>You are here:</li>
+				      
+		   		<li class="clsBreadCrumbLastItem">Home</li>
+		    
+
+		    
+		   	            	
+		   
+
+		   
+		   
+		   <!-- Option Name 1 -->
+		   		     
+
+		   <!-- Option Name 2 -->
+		   	
+		    
+		   
+		   <!-- Option Name 3 -->
+		    	
+		    
+
+           	</ul>
+</div>
+				<!-- End BreadCrumb -->
+	           <div id="col1">
 		    		     
 		    		    		    
 		    <div class="" id="node-665309">
@@ -186,18 +196,37 @@
 	</div>
 </div>
 		             </div><!-- end col2-->
-                  <div id="footer">   
-            <ul>             
-               <li><a href="/customer-service.html" title="Customer Service">Customer Service</a></li>  <!-- Customer Service -->
-		   <li><a href="/terms.html" title="Terms and Conditions">Terms and Conditions</a></li>  <!-- Terms and conditions -->
-               <li><a href="/privacy.html" title="Privacy Statement">Privacy Statement</a></li> <!-- Privacy statement -->
-               <li><a href="/hotel-owner.html" title="Hotel Owners">Hotel Owners</a></li> <!-- Hotel owners -->
-               <li><a href="/view-all-countries.html" title="Destinations">Destinations</a></li> <!-- Destinations -->
-               <li class="last"><a href="/travel-news/travel-news-main.html" title="Travel News">Travel News</a></li> <!-- Hotel Guide -->
-            </ul>  
-         </div>
+                  		<!-- Start Footer -->
+			<div id="idEbFooter">
+	<ul>
+		<li><a href="/customer-service.html" title="Customer Service">Customer Service</a></li>
+		<li><a href="/terms.html" title="Terms and Conditions">Terms and Conditions</a></li>  <!-- Terms and conditions -->
+		<li><a href="/privacy.html" title="Privacy Statement">Privacy Statement</a></li> <!-- Privacy statement -->
+		<li><a href="/hotel-owner.html" title="Hotel Owners">Hotel Owners</a></li> <!-- Hotel owners -->
+		<li><a href="/view-all-countries.html" title="Destinations">Destinations</a></li> <!-- Destinations -->
+		<li class="last"><a href="/travel-news/travel-news-main.html" title="Travel News">Travel News</a></li> <!-- Hotel Guide -->
+	</ul>
+</div>
+<p id="idEbCopyrightEurobookings">
+   Copyright © 1996–2009 <a href="http://www.eurobookings.com">EUROBOOKINGS</a>. All rights reserved.  <!-- Copyright -->
+</p>
+        <!-- Load google tracker -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-1163077-1");
+          pageTracker._setDomainName("none");
+          pageTracker._setAllowLinker(true);
+          pageTracker._trackPageview();
+        </script>
+        <!-- End Load google tracker -->
+		<!-- End Footer -->
+		
       </div>
-            <p id="cpline">Copyright © 1996–2008 <a href="http://www.eurobookings.com">EUROBOOKINGS</a>. All rights reserved. <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> <script type="text/javascript"> _uacct = 'UA-1163077-1';  urchinTracker(); </script></p> <!-- Copyright -->
+      
+      
       <!-- <p id="cpline">Copyright &copy; 1996-2007 EUROBOOKINGS. All rights reserved.</p> -->
 	  	  <div id="alt_id" style="display:none"></div>
 	  <div id="alt_id_back" style="display:none;"></div>
