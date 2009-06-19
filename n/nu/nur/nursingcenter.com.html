@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nursingcenter.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220002319id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nursingcenter.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619234917id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>NursingCenter - About Us - Privacy Policy</title>
@@ -74,7 +74,17 @@
 				<tbody><tr>
 					<td width="1%" bgcolor="#a1cff0"><img border="0" src="../images/1x1.gif"></td>
 					<td width="49%" align="left" bgcolor="#a1cff0">
-						<table>
+						<div>
+<form accept-charset="UTF-8" action="../include/searchresults_convera.asp" method="post" name="SearchForm"></form>
+	</div><div id="ncBox">
+<b>Nursingcenter.com</b>
+<br><br>
+Exclusively searches the complete text articles from the 50 leading nursing journals available on NursingCenter, including more than 900 continuing education activities, clinical resources and drug updates contained within this website.
+<br><br></div><div id="peerBox">
+<b>Peer Approved</b>
+<br><br>
+Expands your search to include results from more than 140 authoritative nursing websites that have been recommended by nurses like you, including the National Library of Medicine and other government-operated databases, professional societies and associations, and other clinical and professional resources. 
+<br><br></div><table>
 							<!--  start search form  -->
 							<script language="javascript">
 <!-- 
@@ -103,25 +113,55 @@ function goSearch() {
 }
 // -->
 </script>
+<script type="text/javascript">
+	function showTip(tipBox) {
+	document.getElementById(tipBox).style.visibility='visible';
+	}
+	function hideTip(tipBox) {
+	document.getElementById(tipBox).style.visibility='hidden';
+	}
+</script>
 
-<form name="formSearch" action="../search/search.asp" method="GET" onsubmit="return goSearch()"></form>
-	<tbody><tr>
-            <td valign="top" bgcolor="#a1cff0" height="20" class="TxtSearch" colspan="2" nowrap="">
-		<input type="text" name="query" size="40" value="" maxlength="75">&nbsp;<input type="button" name="Search" value="Search" onclick="goSearch()"> 
-              
-              <input type="radio" name="R1" value="V1" checked="">
-              this Section                                           
-              
-              <input type="radio" name="R1" value="V2">
-              this Site
-              <input type="radio" name="R1" value="V3">
-              MedLine
-              <input type="radio" name="R1" value="V4">
-              the Web
-		&nbsp;&nbsp;&nbsp;<a href="../search/index.asp">Search Options</a><input type="hidden" value="2" name="section">
-          <input type="hidden" value="" name="searchAll">
+<style>
+#ncBox, #peerBox {
+	font-family: Trebuchet MS, Verdana, Arial, Sans-serif;
+	font-size: 13px;
+position: absolute;
+width: 400px;
+height: auto;
+border: #000 2px solid;
+background-color: #f3f4f5;
+visibility: hidden;
+top: 300px;
+left: 550px;
+text-align: left;
+padding: 20px;
+}
+</style>
+
+
+
+<tbody><tr>
+  	<td valign="top" bgcolor="#a1cff0" height="20" class="TxtSearch" colspan="2" nowrap="">
+			<input id="textfield" class="border" type="text" name="qgeneral" value="">
+			<input id="q" type="hidden" value="" name="q">
+			
+			<label for="defLink"><a href="#" onmouseover="showTip('ncBox')" onmouseout="hideTip('ncBox')">NursingCenter.com</a></label><input type="radio" name="searchType" value="defLink" checked="">&nbsp;&nbsp;&nbsp;<label for="c255_p540s904"><a href="#" onmouseover="showTip('peerBox')" onmouseout="hideTip('peerBox')">Peer-approved Sites</a></label><input type="radio" name="searchType" value="c255_p540s904">
+			
+			<select name="sortType" id="sortType">
+			  <option value="freshhigh" selected="">By Relevance</option>
+			  <option value="date">By Date</option>
+			</select>
+			
+			<input id="useraction" type="hidden" value="search" name="useraction">
+			<input class="submit-button" type="submit" value="Search" name="search">
+			<a href="/include/searchhelp.asp"><img src="/include/images/icon_helpBlue.gif" border="0"></a>
 	</td>
           </tr>           
+
+
+
+
 
 
 							<!--  end search form  -->
@@ -139,14 +179,13 @@ function goSearch() {
     	<td>
     		
 <div id="nctopmenubar" class="ncorangemain">
-<ul onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" id="ddmainmenu">
 <li><a href="/home/index.asp">Home&nbsp;</a></li>
-<li><a href="/library/index.asp" rel="ncsubmenu_library_index">Journals&nbsp;</a></li>
-<li><a href="/prodev/ce_online.asp" rel="ncsubmenu_prodev_ce_online">CE Connection&nbsp;</a></li>
-<li><a href="/prodev/index.asp" rel="ncsubmenu_prodev_index">Clinical Resources&nbsp;</a></li>
-<li><a href="/CareerCenter/index.asp" rel="ncsubmenu_careercenter_index">Professional Resources&nbsp;</a></li>
-<li><a href="/community/index.asp" rel="ncsubmenu_community_index">Community&nbsp;</a></li>
-<li><a href="http://nc.healthjobsplus.com">Jobs</a></li>
+<li><a href="/library/index.asp" rel="ncsubmenu_library_index">Journals&nbsp;<img src="../include/down10.gif" class="downarrowpointer" style="width: 11px; height: 11px; left: 76px;"></a></li>
+<li><a href="/prodev/ce_online.asp" rel="ncsubmenu_prodev_ce_online">CE Connection&nbsp;<img src="../include/down10.gif" class="downarrowpointer" style="width: 11px; height: 11px; left: 120px;"></a></li>
+<li><a href="/prodev/index.asp" rel="ncsubmenu_prodev_index">Clinical Resources&nbsp;<img src="../include/down10.gif" class="downarrowpointer" style="width: 11px; height: 11px; left: 148px;"></a></li>
+<li><a href="/CareerCenter/index.asp" rel="ncsubmenu_careercenter_index">Professional Resources&nbsp;<img src="../include/down10.gif" class="downarrowpointer" style="width: 11px; height: 11px; left: 184px;"></a></li>
+<li><a href="/community/index.asp" rel="ncsubmenu_community_index">Community&nbsp;<img src="../include/down10.gif" class="downarrowpointer" style="width: 11px; height: 11px; left: 95px;"></a></li>
 </ul>
 </div>
 
@@ -155,7 +194,7 @@ function goSearch() {
 ddlevelsmenu.setup("nctopmenubar", "topbar"); //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
 </script>
 
-<ul id="ncsubmenu_library_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul id="ncsubmenu_library_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
  	<li><a href="/mync/filedrawer.asp">My File Drawer&nbsp;</a></li>
  	<li><a href="/library/index.asp#journals">Journals&nbsp;</a></li>
  	<li><a href="/library/static.asp?pageid=612347">Featured Journal&nbsp;</a></li>
@@ -164,33 +203,34 @@ ddlevelsmenu.setup("nctopmenubar", "topbar"); //ddlevelsmenu.setup("mainmenuid",
   <li><a href="/library/RecReading.asp">Recommended Reading&nbsp;</a></li>
 </ul>
 
-<ul id="ncsubmenu_prodev_ce_online" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul id="ncsubmenu_prodev_ce_online" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
  	<li><a href="/prodev/ce_planner.asp">My CE Planner&nbsp;</a></li>
  	<li><a href="/prodev/ce_online.asp#search">Browse or Search CE&nbsp;</a>
  	</li><li><a href="/prodev/Recce.asp">Recommended CE&nbsp;</a></li>
  	<li><a href="/prodev/cesaver_list.asp#collection">CESaver Collection&nbsp;</a></li>
  	<li><a href="/prodev/cesaver_list.asp">CESaver Accounts&nbsp;</a></li>
  	<li><a href="/about/staffdevelopaccounts.asp">CEConnection Employer Accounts&nbsp;</a></li>
- 	<li><a href="/prodev/static.asp?pageid=451658">Oncology Times CE Tests&nbsp;</a></li>
+ 	<li><a href="/prodev/static.asp?pageid=770185">Oncology Times CE Tests&nbsp;</a></li>
  	<li><a href="/prodev/static.asp?pageid=603647">Nursing Assistant CE Articles&nbsp;</a></li>
 </ul>
 
-<ul id="ncsubmenu_prodev_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul id="ncsubmenu_prodev_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
   <li><a href="/prodev/index.asp#updates">Clinical Updates&nbsp;</a></li>
   <li><a href="/prodev/static.asp?pageid=528083">Drug Updates&nbsp;</a></li>
+  <li><a href="/home/static.asp?pageid=826018">AHA Connection&nbsp;<img src="../images/AHA_heart_15.jpg" border="1"></a></li>
+  <li><a href="/home/NursingCenterEthics.asp">Focus On: Nursing Ethics&nbsp;</a></li>
 </ul>
 
-<ul id="ncsubmenu_careercenter_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul id="ncsubmenu_careercenter_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
   <li><a href="/login/newsletterregistration.asp">Free eNewsletters&nbsp;</a></li>
   <li><a href="/prodev/static.asp?pageid=403753">NursingCenter eNews&nbsp;</a></li>
   <li><a href="/prodev/index.asp#conferences">Conferences&nbsp;</a></li>
   <li><a href="/CareerCenter/articles.asp">Career Article Archive&nbsp;</a></li>
-  <li><a href="/library/JournalArticle.asp?Article_ID=688269">Your Guide to Certification&nbsp;</a></li>
+  <li><a href="/upload/static/60627/Certify_online.pdf" target="_new">Your Guide to Certification&nbsp;</a></li>
   <li><a href="/library/JournalArticle.asp?Article_ID=688272">How to Get a License&nbsp;</a></li>
-  <li><a href="http://nc.healthjobsplus.com">Nursing Jobs</a></li>
 </ul>
 
-<ul id="ncsubmenu_community_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;">
+<ul id="ncsubmenu_community_index" class="ncorangedrop" onmouseover="window.status='';return true;" onmouseout="window.status='';return true;" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
  	<li><a href="/community/polls.asp">Surveys&nbsp;</a></li>
  	<li><a href="/prodev/index.asp#puzzlers">Puzzlers&nbsp;</a></li> 
 </ul>
@@ -561,7 +601,7 @@ function openWin(file,w,h) {
 		</tr>
 		<tr>
 			<td class="txtblack11" align="center">
-				<a href="http://www.wkhealth.com" target="_blank">Copyright ©2008 Wolters Kluwer Health</a>&nbsp;|&nbsp;<a href="http://www.lww.com" target="_blank">Lippincott Williams &amp; Wilkins. All rights reserved.</a>
+				<a href="http://www.wkhealth.com" target="_blank">Copyright ©2009 Wolters Kluwer Health</a>&nbsp;|&nbsp;<a href="http://www.lww.com" target="_blank">Lippincott Williams &amp; Wilkins. All rights reserved.</a>
 			</td>
 		</tr>
 	</tbody>
@@ -583,7 +623,8 @@ var wkTracker = _gat._getTracker("UA-5424803-1");
 wkTracker._initData();
 wkTracker._trackPageview();
 
-</script> 
+</script>
+ 
 
 
-</body></html>
+<iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe></body></html>
