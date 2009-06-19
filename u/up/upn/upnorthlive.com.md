@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123011id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001952id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
-# Privacy Policy : About : WPBN TV7&4
+# Privacy Policy : About : WPBN TV 7&4
 
 **Barrington Broadcasting Privacy Policy**
 
