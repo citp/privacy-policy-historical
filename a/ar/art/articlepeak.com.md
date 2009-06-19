@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the articlepeak.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912215311id_/http%3A//articlepeak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepeak.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620003209id_/http%3A//articlepeak.com/privacy.php) for the most accurate reproduction.*
 
-# www.articlepeak.com
+# hacked By M0µ34d
+
+H4ck3d By M0µ34d  
+!
 
 Privacy Policy
 
@@ -45,3 +48,11 @@ This policy and the use of this Site are governed by British Columbia law. If a 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Terrace. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+[](http://articlepeak.com/amx.php?adminid=2658&tid=12149)
+
+* * *
+
+[.](http://www.babynames-yahoo.com/)
+
+Powered by [Article Dashboard](http://www.articledashboard.com/)
