@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medstore.biz privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218210755id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medstore.biz privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044556id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.*
 
 # MedStore: prescription online pharmacy privacy policy
 
