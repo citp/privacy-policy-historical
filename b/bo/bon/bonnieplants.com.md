@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219041824id_/http%3A//bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052059id_/http%3A//www.bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Bonnie Plants > Home
+# Welcome to Bonnie Plants
 
 Bonnie Plants is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Bonnie Plants Web site and governs data collection and usage. By using the Bonnie Plants website, you consent to the data practices described in this statement.
 
