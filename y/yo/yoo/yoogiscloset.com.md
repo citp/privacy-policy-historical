@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064847id_/http%3A//www.yoogiscloset.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035824id_/http%3A//www.yoogiscloset.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Yoogi's Closet - Privacy Policy - Buy and Sell Authentic Pre-Owned Luxury: Louis Vuitton, Chanel, Gucci, Tiffany, Dior.
 
-|  [](https://web.archive.org/sell.aspx)[ ](https://web.archive.org/sell.aspx "Sell, Trade-in, or Consign your Handbags and Jewelry")  
-|   
+|  [ ](https://web.archive.org/sell.aspx "Sell, Trade-in, or Consign your Handbags and Jewelry") |   
 ---  
-| | |   
----|---|---  
-| 
-
-Email Address: Yes, I want updates from Yoogi's Closet
-
-|   
-| |   
   
 [Home](https://web.archive.org/) > Privacy Policy
 
