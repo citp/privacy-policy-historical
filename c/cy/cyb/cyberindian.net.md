@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231119id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090623id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CyberIndian Tech
 
@@ -29,7 +29,17 @@ A cookie is a piece of information which is designed to be stored on your comput
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  Cyberindian.net does not use or have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+Such a cookie may be used to tailor ad content both on the site you are visiting as well as other sites within that network that you may visit in the future.
+
+Google is an ad network partner that displays ads on Cyberindian.net. Google may use information regarding its own users to select which ads to display on this website. Google’s use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to users of this website based on their visit to this site and other sites on the Internet.
+
+To learn more about the ad content network business practices and privacy policies of Google including opting out of the use of the DART cookie, please visit the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/index.asp).
+
+Cyberindian.net does not use or have access to this information.
 
 **Third Party Cookies**
 
