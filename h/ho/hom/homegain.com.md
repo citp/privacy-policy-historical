@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010914id_/http%3A//www.homegain.com/privacy%3Fht%3Ddef_foot_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213703id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home
 
-**Effective May 1, 2008**
+**Effective December 16, 2008**
 
 HomeGain is committed to protecting the privacy of its users. When you register for HomeGain's online services, the information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
 
@@ -42,7 +42,7 @@ A cookie is a small text file that is stored by your computer that contains info
 
 **Information Distribution**
 
-If you are providing us Personally Identifiable Information, it will be used within HomeGain's site to deliver our services. Depending on the service and your preferences provided to HomeGain when registering for these services, your Personally Identifiable Information may also be provided to intermediaries and third parties who assist HomeGain in providing the services you request. Except as otherwise provided in this Privacy Policy, however, HomeGain will not share, rent or sell your information to third parties without your permission or in ways other than as disclosed in this privacy statement. HomeGain may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. 
+If you are providing us Personally Identifiable Information, it will be used within HomeGain's site to deliver our services. Depending on the service and your preferences provided to HomeGain when registering for these services, your Personally Identifiable Information may also be provided to intermediaries and third parties who assist HomeGain in providing the services you request. Except as otherwise provided in this Privacy Policy, however, HomeGain will not share, rent or sell your information to third parties without your permission or in ways other than as disclosed in this privacy statement. HomeGain may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. HomeGain expressly reserves the right to release any Personally Identifiable Information or other information you provide to third parties under the following circumstances: (a) when required by law or legal process, (b) to investigate and/or take action against illegal activity, suspected abuse or unauthorized use of the web site, (c) to protect the property or safety of our users or others, and (d) to enforce our Terms of Service. 
 
 **EMAIL: What choices are available to you regarding collection, use, and distribution of the information**
 
@@ -52,7 +52,7 @@ HomeGain offers you the ability to control the email communications we make to y
 
 HomeGain operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission. You the consumer are ultimately responsible for the security of your HomeGain Member Name and password. Please take care to store your HomeGain Member Name separately from your account password, or better yet, choose a password that you don't need to write down at all. 
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link http://en.wikipedia.org/wiki/Transport_Layer_Security. 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link http://en.wikipedia.org/wiki/Transport_Layer_Security. Please keep in mind that despite these measures, HomeGain cannot guarantee or warrant 100 percent security of its servers and databases. Moreover, HomeGain cannot guarantee that Personally Identifiable Information that you submit through the web site will not be intercepted or otherwise disclosed. 
 
 **How you can correct any inaccuracies in the information**
 
