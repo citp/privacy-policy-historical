@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075207id_/http%3A//www.executiveboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205626id_/http%3A//www.executiveboard.com/privacy.html) for the most accurate reproduction.*
 
 # Corporate Executive Board - Privacy Policy
 
@@ -84,7 +84,7 @@ CEB operates the Sites in the United States and, depending on your country of re
   
 You can request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please contact: 
 
-Chief Compliance Officer, The Corporate Executive Board, 1919 North Lynn Street, Arlington, Virginia 22209; or email us at [legaldept@executiveboard.com](https://web.archive.org/web/20081218075207id_/http%3A//www.executiveboard.com/legaldept@executiveboard.com). 
+Chief Compliance Officer, The Corporate Executive Board, 1919 North Lynn Street, Arlington, Virginia 22209; or email us at [legaldept@executiveboard.com](https://web.archive.org/web/20090619205626id_/http%3A//www.executiveboard.com/legaldept@executiveboard.com). 
 
 In some cases, CEB Members can directly access their online profiles and other personal details, enabling them to amend, update or add information by themselves at any time by logging into the relevant Program webpage.  
   
