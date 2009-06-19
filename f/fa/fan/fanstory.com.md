@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201723id_/http%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619115728id_/http%3A//www.fanstory.com/privacy.jsp) for the most accurate reproduction.*
 
 # FanStory.com - Write a story or poem, write poetry poems and publish short stories, book writing site
 
@@ -60,4 +60,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20081218201723id_/http%3A//www.fanstory.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20090619115728id_/http%3A//www.fanstory.com/formcontactfanstory.jsp). 
