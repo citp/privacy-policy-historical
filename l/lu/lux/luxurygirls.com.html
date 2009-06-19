@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luxurygirls.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219090347id_/http%3A//www.luxurygirls.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxurygirls.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619162318id_/http%3A//www.luxurygirls.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
@@ -10,6 +10,65 @@
 
 <title>LuxuryGirls - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="http://static.gfx.luxurygirls.com/skin/lg/style.css">
+<script language="javascript">
+sakey = "";
+function chatNow_r( SMId )
+{
+  SMId = parseInt( SMId );
+  if ( SMId <= 0 || isNaN(SMId) ) return false ;
+
+  numChatAttsThisPage ++ ;
+
+  if ( 1 ) // Not logged in
+    {
+      if( '1' != '1' )
+	{
+	  // No free chat go to login page
+	  location.href = "http://www.luxurygirls.com/login.php?g=L2RvY3MucGhwP2RvYz1wcml2YWN5&chattrigger="+SMId+"&" ;
+	  return false ;
+	}
+
+      var u = "http://www.luxurygirls.com/assets/freechat/?smid="+SMId+"&fp=1&" ;
+      location.href = u ;
+      return true ;
+    }
+
+  var u = "http://www.luxurygirls.com/flash/index.php?pid="+SMId+"&" ;
+
+  // try opening child window
+  //var w = null ;
+  //eval( 'w=window.open( u,"ChatClient","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=715,height=450,left=25,top=25");' );
+  //if ( w )
+  //  {
+  //    w.focus() ;
+  //    return true ;
+  //  }
+  location.href = u ;
+  return true ;
+
+  // Cannot open chat window, show error message UNLESS this is a chattrigger
+  // in which case be silent about the error and let the user try again.
+  if( ! 0 || numChatAttsThisPage > 1 )
+    alert( "Error opening chat window.  Your browser may have some anti-popup software "
+	  +"installed that is preventing this site from operating correctly."
+	  +( 1 ? "" : " If you cannot resolve this issue yourself, please contact support@luxurygirls.com" )
+         );
+
+  return false ;
+}
+
+var numChatAttsThisPage = 0 ; // zero attempts so far
+
+function chatNow( SMId ) // Because some scripts cannot handle return codes
+{
+  chatNow_r( SMId ); // use chatNow_r() if you actually want to know if it worked
+}
+
+// If we need to auto-initialize a chat stream, do so
+
+if ( 0 ) chatNow( 0 );
+
+</script>
 </head>
 
 <body marginheight="0" topmargin="0">
@@ -58,7 +117,7 @@
 		<td colspan="3">
 <table border="0" cellspacing="0" cellpadding="0" width="712">
 	<tbody><tr>
-				<td class="salutation"><b>Welcome!</b> &nbsp; <font class="datetime">
+				<td align="left" class="salutation"><b>Welcome!</b> &nbsp; <font class="datetime">
 <script language="JavaScript" src="/js/PerfectTime.js"></script>
 <script language="JavaScript"><!--		
 var d = new Date();
@@ -90,7 +149,7 @@ langar['MonthsShort'] =
 var PT = new PerfectTime(0,langar);
 
 //--></script>
-<span class="PerfectTime" gmt_time="1229677420" fmt="%D, %M %j, %g:%i %a">Fri, Dec 19, 9:03 am</span>
+<span class="PerfectTime" gmt_time="1245428598" fmt="%D, %M %j, %g:%i %a">Fri, Jun 19, 4:23 pm</span>
 		</font></td>
 
 	</tr>
@@ -190,6 +249,7 @@ function selectBrowse( opt )
 <option value="0%3A504%3B15%3A587&amp;title=Latina+Girl+Cams">&nbsp;&nbsp;Latina</option>
 <option value="0%3A504%3B1%3A708&amp;title=Housewives+Girl+Cams">&nbsp;&nbsp;Housewives</option>
 <option value="0%3A504%3B13%3A562&amp;title=Anal+Girl+Cams">&nbsp;&nbsp;Anal</option>
+<option value="0%3A504%3B1%3A859&amp;title=Pornstar+Girl+Cams">&nbsp;&nbsp;Pornstar</option>
 <option value="nada1">Friends (no Adult Content) --</option>
 <option value="0%3A504%3B1%3A800&amp;title=Gals+Friends+%28no+Adult+Content%29">&nbsp;&nbsp;Gals</option>
 <option value="0%3A503%3B1%3A800&amp;title=Guys+Friends+%28no+Adult+Content%29">&nbsp;&nbsp;Guys</option>
@@ -292,7 +352,7 @@ function selectBrowse( opt )
 
 <!-- start content -->
 
-﻿<table border="0" cellspacing="0" cellpadding="3" width="100%">
+<table border="0" cellspacing="0" cellpadding="3" width="100%">
 
 		<tbody><tr>
 			<td valign="middle" class="shaded_lightly_dotty">
@@ -487,7 +547,8 @@ P.O. Box 57528<br>
   
  <tr>
   <td align="center" colspan="3">
-   <br><font class="footer">© 2003-2008 LuxuryGirls Limited. All rights reserved.</font><br><br>
+   <br><font class="footer">© 2003-2009 LuxuryGirls Limited. All rights reserved.</font><br><br>
+  <font class="footer"></font>
   </td>
  </tr>
 
