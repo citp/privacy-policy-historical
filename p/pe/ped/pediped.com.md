@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219204134id_/http%3A//www.pediped.com/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619041744id_/http%3A//www.pediped.com/Home/Privacy.aspx) for the most accurate reproduction.*
 
 # pediped footwear | Soft-Soled Baby Shoes | Infant Toddler Baby Shoes |
 
