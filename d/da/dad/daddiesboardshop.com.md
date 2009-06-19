@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122935id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060518id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Longboard Skateboard & Snowboard Shop - Daddies Board Shop - Since 1995 - Privacy Policy
 
@@ -24,14 +24,4 @@ We reserve the right to monitor, and disclose to, government officials or law en
 | |   
 |   
 ---  
----  
-| | |   
----|---|---  
-| 
-
-Sign up for our mailing lists to receive more information in the future. 
-
-Email Address: Quarterly DBS Newsletter
-
-|   
-| | 
+---
