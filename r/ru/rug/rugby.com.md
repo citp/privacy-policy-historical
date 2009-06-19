@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216162554id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035435id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
 
 # Ralph Lauren Rugby - Rugby.com Customer Assistance
 
@@ -12,7 +12,7 @@ By accessing the Site and shopping in our Stores, you agree to be bound by the P
 
 Our products are also available for sale in Polo shops within many department stores. Data collected in these stores is the property of the department stores and is not provided to Polo Ralph Lauren Corporation. If you have questions about department store privacy policies, please contact the applicable department store. 
 
-Our policies relating to the transfer of Personal Information from the European Union ("EU") to the United States are contained in our European Safe Harbor Policy. 
+Our policies relating to the transfer of Personal Information from the European Union ("EU") to the United States are contained in our Safe Harbor Privacy Policy. 
 
 **Use of Information Collected by Us**
 
@@ -59,7 +59,7 @@ For example, we use the services of Omniture, Inc ([www.omniture.com](http://www
 
 We also share with Epsilon Site usage information about visitors to our Site who have received a targeted promotional campaign with Epsilon for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, Ralph Lauren Rugby - Rugby.com and Epsilon note some of the pages you visit on our Site through the use of web beacons, which are defined below. 
 
-Finally, both Ralph Lauren Rugby - Rugby.com, affiliate sites, and our Stores, use Acxiom ([www.acxiom.com](http://www.acxiom.com/)) for data processing services relating to the maintenance of our customer marketing database. Acxiom has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
+Finally, both Ralph Lauren Rugby - Rugby.com, affiliate sites, and our Stores, use MBS ([www.mbsinsight.com](http://www.mbsinsight.com/)) for data processing services relating to the maintenance of our customer marketing database. MBS has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
 
 **Use of Cookies**
 
@@ -119,23 +119,85 @@ The laws of the State of New York will govern these disclaimers, terms and condi
 
 The above privacy policy refers to sites owned and managed by the Polo Ralph Lauren Corporation. 
 
-Any Personal Information collected by us in the Europe Union ("EU") and transferred to the United States is subject to EU Data Directive 95/46/EC on the Protection of Individuals with regard to the Processing of Personal Data (the "EU Data Directive"). As described below in this policy (this "European Safe Harbor Policy") and in our Online Privacy Policy and Privacy Statement of Polo Ralph Lauren Stores, we adhere to the EU Data Directive's "Safe Harbor Principles." General information about the Safe Harbor Principles may be found at <http://europa.eu.int/comm/internal_market/privacy/index_en.htm>. 
+  
+We at Polo Ralph Lauren Corporation ("Polo Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Polo Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the European Economic Area ("EEA") and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. 
 
-All Personal Information that we collect will be used only for the purposes described in our Online Privacy Policy and Privacy Statement of Polo Ralph Lauren Stores. You should know that you always have the opportunity to choose to have us remove your Personal Information from our database and/or refrain from disclosing such information to any third party. Please send any such opt out requests in writing to our Chief Privacy Officer, at the address noted above. 
+For purposes of this Policy: 
 
-To the extent that we transfer any Personal Information from the EU to the United States, we take reasonable steps to assure that the information which is transferred is reliable for its intended purpose, accurate, complete, and current. We also take reasonable measures to protection such Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. 
+"Customer" means any individual who is a potential or actual consumer of Polo Ralph Lauren or any of its European affiliates. 
 
-Any third party that assists us in the processing or maintaining our database of Personal Information is required by us to agree to provide at least the same level of privacy protection as is mandated by the Safe Harbor Principles described in the EU Data Directive. 
+"Employee" means any current, former or prospective employee of Polo Ralph Lauren or any of its European affiliates who is located in the EEA or Switzerland. 
 
-We are committed to educating our employees, customers, and users about compliance with the EU Data Directive. If you have any questions, concerns, or complaints about our compliance with the EU Data Directive, please contact our Chief Privacy Officer at the address provided above. Our Chief Privacy Officer will provide details regarding the process to be followed when filing a complaint. 
+"Personal Information" means information that (i) is transferred to the United States from the EEA or Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable Customer or Employee, and (iv) can be linked to that individual. 
 
-We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles of the EU Data Directive. Any other controversy or claim arising out of or relating to our adherence to the EU Data Directive, or the breach thereof, shall be settled by arbitration administered by the American Arbitration Association ("AAA") in accordance with its applicable commercial rules, provided, further, that any arbitrator shall be either an attorney or retired judge having significant and recognized experience with and knowledge of privacy issues and information technology. The arbitration panel should apply New York law, without regard to it conflict of laws principles, as well as the Safe Harbor Enforcement Principle issued by the U.S. Department of Commerce (<http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm>). In addition, the exclusive location for such arbitration shall be New York, NY. All decisions of the arbitration panel shall be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived. 
+"Sensitive Information" means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings. 
 
-We are also subject to the jurisdiction of the US Federal Trade Commission. The Federal Trade Commission may be contacted at the following address: 
+"Sites" means RalphLauren.com and the websites listed here. 
 
-Federal Trade Commission  
-Attn: Consumer Response Center  
-600 Pennsylvania Avenue NW  
-Washington, DC 20580  
-[consumerline@ftc.gov](mailto:consumerline@ftc.gov)   
-[www.ftc.gov](http://www.ftc.gov/)
+"Stores" means Polo Ralph Lauren and Polo Retail Europe Ltd. stores located in the EEA and Switzerland. 
+
+**Safe Harbor Privacy Principles**
+
+Polo Ralph Lauren's practices regarding the collection, storage, transfer, use and other processing of Personal Information comply with the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement and oversight. 
+
+**Notice**
+
+We notify our Customers and Employees located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Employees (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
+
+Employees (including job applicants) who submit Personal Information through our careers site may view our [Privacy Notice](https://web.archive.org/web/20090619035435id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies) for details about our Personal Information privacy practices. Employees can find additional information in the Employee Data Protection Policy available on Polo Express and from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20090619035435id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+
+**Purpose of Collection and Use of Personal Information**
+
+Polo Ralph Lauren and its European affiliates collect Personal Information through their Sites and in their Stores. In addition, Employees submit Personal Information to Polo Ralph Lauren and its European affiliates in connection with the employment relationship. 
+
+We process Personal Information about our Customers to (i) process transactions they request, (ii) improve our Stores, Sites, Customers shopping experience and quality of service, (iii) send communications about our products, services and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at our Stores, (vi) enable our service providers to perform certain activities on our behalf, and (vii) comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
+
+We process Personal Information about our Employees to (i) carry out and support our human resources functions and activities, (ii) carry out our obligations under employments contracts and employment and benefits laws, (iii) administer employee participation in benefits, compensation and human resources plans and programs, (iv) manage employee performance, (v) implement compliance and discipline procedures, and investigate and report on Employee compliance and discipline, and (vi) comply with our legal obligations, carry out investigations and for internal administrative and analytics purposes. 
+
+We process Sensitive Information about our Employees to the extent necessary or appropriate for compliance with relevant legal or contractual obligations, including managing attendance and Employee records, and organizing elections of Employees? union representatives. 
+
+**Choice**
+
+Customers located in the EEA and Switzerland may direct us not to disclose their Personal Information to third parties (other than our service providers). We do not use Personal Information for purposes incompatible with the purposes for which we originally collected the information without notifying the relevant individuals of such uses and offering an opportunity to opt out. 
+
+We may disclose Personal Information without offering individuals an opportunity to opt out (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer Personal Information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Notice. 
+
+**Onward Transfer of Personal Information**
+
+We may share Personal Information with service providers we have retained to perform services on our behalf. We require service providers to whom we disclose Personal Information and who are not subject to laws based on the European Union Data Protection Directive to contractually agree to provide at least the same level of protection for Personal Information as is required by the relevant Safe Harbor principles. 
+
+**Access to Personal Information**
+
+Polo Ralph Lauren provides Customers and Employees with reasonable access to the Personal Information maintained about them. We also provide a reasonable opportunity, as required by applicable law, to correct, amend or delete that information where it is inaccurate. We may limit or deny access to Personal Information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the Safe Harbor principles. To obtain access to Personal Information, Customers may contact Polo Ralph Lauren as specified in the "How to Contact Us" section of this Policy. Employees should submit requests for access to their Personal Information to their local Human Resources representative. 
+
+**Security**
+
+Polo Ralph Lauren maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+
+**Data Integrity**
+
+Polo Ralph Lauren takes reasonable steps to ensure that Personal Information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. We depend on our Customers and Employees to update and correct their Personal Information whenever necessary. 
+
+**Enforcement and Oversight**
+
+Polo Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented. 
+
+Customers and Employees may file a complaint with Polo Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals? complaints regarding privacy issues: (i) for Customer complaints, we cooperate with the American Arbitration Association in accordance with its applicable commercial rules; (ii) for complaints concerning our handling of Employee Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices. 
+
+**How to Contact Us**
+
+Please address any questions or concerns regarding our Safe Harbor Privacy Policy or our practices concerning Personal Information by: 
+
+Writing to: Polo Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+625 Madison Avenue  
+11th Floor  
+New York, New York 10022 
+
+or 
+
+Polo Ralph Lauren Europe SARL  
+Attention: Marco Kerschen  
+8 Chemin de Blandonnet  
+1214 Vernier  
+Switzerland 
