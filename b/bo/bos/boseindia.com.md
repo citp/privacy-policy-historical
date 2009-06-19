@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219054823id_/http%3A//www.boseindia.com/information/bose-privacy.aspx%3Fcmd%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619235439id_/http%3A//www.boseindia.com/information/bose-privacy.aspx%3Fcmd%3DPrivacy) for the most accurate reproduction.*
 
-# BOSE INDIA
+# Privacy
 
 |  |  |  |  | 
 
