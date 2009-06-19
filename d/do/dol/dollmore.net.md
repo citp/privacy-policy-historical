@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012309id_/http%3A//www.dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619225123id_/http%3A//www.dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
 
-# ¢Æ Everything of Doll - DOLLMORE ¢Æ
+# Dollmore.net :: Everything for Doll & more
 
 | **1\. Dollmore's Privacy Policy**  
 ---  
