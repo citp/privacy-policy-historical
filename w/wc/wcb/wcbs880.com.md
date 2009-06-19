@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101018id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbs880.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050205id_/http%3A//www.wcbs880.com/pages/2135.php) for the most accurate reproduction.*
 
-# WCBS NEWSRADIO 880 - Privacy Policy / Your California Privacy Rights
+# WCBS NEWSRADIO 880 - *
 
-|  Posted: Sunday, 26 November 2006 3:02PMPrivacy Policy / Your California Privacy Rights  
+|   
 ---  
+Posted: Sunday, 26 November 2006 3:02PMPrivacy Policy / Your California Privacy Rights  
   
 Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any activity that requires the submission of Personal Information.  By your participation in our Site activities, you certify that you are at least 18 years of age.  All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false or fraudulent.  
 
@@ -96,13 +97,4 @@ This Privacy Policy was last updated on November 26, 2006.
 TM & © 2006 CBS Radio Inc. and its relevant subsidiaries. CBS RADIO & EYE Logo TM & © 2006 CBS Broadcasting Inc. used under license. All Rights Reserved.  
   
   
-  
-  
-| 
 
-|  Featured Businesses  
----  
-[RealTime Technology Group, Inc.](https://web.archive.org/content_page.php?contentType=1&contentId=70462)   
-Energy efficient induction lighting; with an 'industry best' 10 year/ 100,000 hour warranty on bulb and ballast  
-  
-[](http://www.wcbs880.com/pages/143165.php)
