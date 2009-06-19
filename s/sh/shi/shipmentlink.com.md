@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipmentlink.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063015id_/http%3A//www.shipmentlink.com/tuf1/jsp/TUF1_DisclaimerClause.jsp%3Fclause%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipmentlink.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619073410id_/http%3A//www.shipmentlink.com/tuf1/jsp/TUF1_DisclaimerClause.jsp%3Fclause%3Dprivacy) for the most accurate reproduction.*
 
 # ShipmentLink - Legal Disclaimer - Privacy and Security Statement
 
@@ -8,7 +8,7 @@
 
 
   
-This Privacy and Security Statement ('Statement') is incorporated into and subject to the [Terms of Use](https://web.archive.org/tuf1/jsp/TUF1_DisclaimerClause.jsp?clause=terms) and applies to this web site which is owned and operated by Evergreen Line, Evergreen Marine Corp. (Taiwan) Ltd., Italia Marittima S.p.A., Evergreen Marine (UK) Ltd. and Evergreen Marine (Hong Kong) Ltd. (hereinafter collectively called the "Carriers") under the domain name www.shipmentlink.com ('ShipmentLink Web site'). You acknowledge and accept that your use of or access to the ShipmentLink Web site indicate your acceptance to this Statement and [Terms of Use](https://web.archive.org/tuf1/jsp/TUF1_DisclaimerClause.jsp?clause=terms).  
+This Privacy and Security Statement ('Statement') is incorporated into and subject to the [Terms of Use](https://web.archive.org/tuf1/jsp/TUF1_DisclaimerClause.jsp?clause=terms) and applies to this web site which is owned and operated by Evergreen Line, Evergreen Marine Corp. (Taiwan) Ltd., Italia Marittima S.p.A., Evergreen Marine (UK) Ltd., Evergreen Marine (Hong Kong) Ltd. and Evergreen Marine (Singapore) Pte Ltd. (hereinafter collectively called the "Carriers") under the domain name www.shipmentlink.com ('ShipmentLink Web site'). You acknowledge and accept that your use of or access to the ShipmentLink Web site indicate your acceptance to this Statement and [Terms of Use](https://web.archive.org/tuf1/jsp/TUF1_DisclaimerClause.jsp?clause=terms).  
 The followings are the guidelines we use for protecting the information you provide us during a visit to ShipmentLink Web site:
 
   
