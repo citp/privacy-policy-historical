@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219185833id_/http%3A//www.memory4less.com/m4l_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620014620id_/http%3A//memory4less.com/m4l_security.asp) for the most accurate reproduction.*
 
 # Cpu, Memory PC133, Processors, Drives for Less
 
