@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112831id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002805id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # 
 
-Northstar Travel Media LLC (“NTM”) publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and the other NTM-affiliated websites. This policy is not applicable to information gathered by other methods or controlled by other agreements. 
+Northstar Travel Media LLC ("NTM") publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and the other NTM-affiliated websites. This policy is not applicable to information gathered by other methods or controlled by other agreements. 
 
 **How We Collect Information**
 
@@ -10,7 +10,7 @@ NTM collects personal information in a variety of ways, including when you regis
 
 _User Registration_
 
-When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your business’s assets or income. Once you register with NTM and sign in to our services, you are not anonymous to us.
+When you register on our website, we ask for and collect information such as your name, email address, birth date, gender, zip code, occupation, and industry. For some products and services we may also ask for your address and information about you or your business's assets or income. Once you register with NTM and sign in to our services, you are not anonymous to us.
 
 _e-letters_
 
@@ -18,19 +18,23 @@ Users may elect to participate in a variety of NTM e-letters (email services), r
 
 _Contests_
 
-Users may elect to participate in promotions and/or promotional contests that NTM conducts from time to time on behalf of its clients. NTM collects personal information in connection with user registration for and participation in such promotions and contests.  
+Users may elect to participate in promotions and/or promotional contests that NTM conducts from time to time on behalf of its clients. NTM collects personal information in connection with user registration for and participation in such promotions and contests.
 
-_Educational Programs and Seminars_
+_Educational Programs_
 
-Users may elect to participate in educational programs and seminars that NTM conducts from time to time. NTM collects personal information in connection with user registration for and participation in such programs.  
+Users may elect to participate in educational programs such as Seminars, Webinars, etc. that NTM conducts from time to time. NTM collects personal information in connection with user registration for and participation in such programs.
+
+_Events and _Virtual Tradeshows__
+
+Users may elect to participate in Virtual Tradeshows and Events that NTM conducts from time to time. NTM collects personal information in connection with user registration for and participation in such programs.
 
 _Cookies_
 
-“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. NTM or its advertisers may send a cookie to your computer through your browser. NTM uses cookies to track page requests and the duration of each user’s visit and the use of cookies allows us to provide a user’s browser with information tailored to the visitor’s preferences and needs and to also streamline the user’s visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. NTM or its advertisers may send a cookie to your computer through your browser. NTM uses cookies to track page requests and the duration of each user's visit and the use of cookies allows us to provide a user's browser with information tailored to the visitor's preferences and needs and to also streamline the user's visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended. 
 
 _IP Addresses_
 
-NTM automatically receives and records information on our server logs from your browser, including your IP address, NTM cookie information, and the website page you request. NTM uses this information to help diagnose problems with our servers, for system administration, and to examine our website traffic in aggregate.  The information may be collected and used to improve the content of our Web pages and to customize content and/or layout for each user.  
+NTM automatically receives and records information on our server logs from your browser, including your IP address, NTM cookie information, and the website page you request. NTM uses this information to help diagnose problems with our servers, for system administration, and to examine our website traffic in aggregate.The information may be collected and used to improve the content of our Web pages and to customize content and/or layout for each user.
 
 _Purchases_
 
@@ -46,13 +50,13 @@ o        NTM may combine information about you that we have with informat
 
 o        NTM may use personal information to contact users regarding renewing subscriptions to NTM services and products.
 
-o        NTM may use personally identifiable information to send notification of NTM’s or our partners’ products and services by such methods as email and/or postal mail.
+o        NTM may use personally identifiable information to send notification of NTM's or our partners' products and services by such methods as email and/or postal mail.
 
 o        If you provide financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, subscriptions, etc.
 
 o        NTM may send product announcements or special edition e-letters to online registrants.
 
-o        If you participate in an NTM educational program, seminar, or other time-sensitive program, we may contact you to remind you of upcoming deadlines or additional information concerning these programs.
+o        If you participate in an NTM educational program, virtual tradeshow, or other time-sensitive program, we may contact you to remind you of upcoming deadlines or additional information concerning these programs.
 
 o        NTM occasionally conducts subscriber and/or user surveys to better target our content to our audiences. The aggregated information collected is sometimes shared with our advertisers, however, we will do not share specific individual information with a third-party.
 
@@ -66,9 +70,9 @@ From time to time we may use customer information for new, unanticipated uses no
 
 In general, NTM does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances: 
 
-o        We may provide personal information about our users to trusted partners and vendors who work on behalf of or with NTM under confidentiality and similar agreements prohibiting such parties’ further use of the information. These companies may use your personal information to help NTM communicate with you about offers from NTM and our marketing partners. However, these companies do not have any independent right to use or share this information.
+o        We may provide personal information about our users to trusted partners and vendors who work on behalf of or with NTM under confidentiality and similar agreements prohibiting such parties' further use of the information. These companies may use your personal information to help NTM communicate with you about offers from NTM and our marketing partners. However, these companies do not have any independent right to use or share this information.
 
-o        When you register for an educational program, contest, or other promotion that is sponsored by a third party, the third party will be provided personally identifiable information unless otherwise posted in connection with the promotion. 
+o        When you register for an educational program, contest, event, virtual tradeshow, or other promotion that is sponsored by a third party, the third party will be provided personally identifiable information unless otherwise posted in connection with the promotion. 
 
 o        NTM may from time to time share personal information such as email addresses with trusted third parties who deliver content that is likely to be of interest to the user and subject to opt-out obligation on the part of such third party.
 
@@ -80,7 +84,7 @@ o        If NTM is acquired by or merged with another company, we will tr
 
 **Discussion Groups**
 
-Email discussion groups are available for our users on some of our websites. Participants should be aware that information disclosed in these discussion lists is made available to all members and thus becomes public information. We suggest that you exercise caution when deciding to disclose any personal information in such discussion groups.
+Forums/Chats/Blogs: Discussion groups are available for our users on our websites. Participants should be aware that information disclosed in these discussion lists is made available to all members and thus becomes public information. We suggest that you exercise caution when deciding to disclose any personal identifiable information in such discussion groups. NTM is not responsible for the personally identifiable information you choose to submit in these forums. 
 
 _Forums_
 
@@ -88,7 +92,7 @@ Users may elect to participate in user forums to exchange information relevant t
 
 **Security**
 
-This website takes commercially reasonable precautions to protect your personal information.  When we transfer and receive certain types of sensitive information such as credit card and payment information, we re-direct users to industry standard SSL (Secure Socket Layer) encrypted servers. As a result, sensitive data you submit to our website such as credit card and payment information is transmitted securely over the Internet.
+This website takes commercially reasonable precautions to protect your personal information. When we transfer and receive certain types of sensitive information such as credit card and payment information, we re-direct users to industrystandard SSL (Secure Socket Layer) encrypted servers. As a result, sensitive data you submit to our website such as credit card and payment information is transmitted securely over the Internet.
 
 **Disclaimers**
 
@@ -104,7 +108,7 @@ To update your email address or change your email preferences please contact [lb
 
 **Changes to this Privacy Policy**
 
-NTM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the website.  Any such change, update or modification will be effective immediately upon positing on the website.  Users will be informed of changes to this Privacy Policy via the “updated as of” link on the NTM website. 
+NTM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon positing on the website. Users will be informed of changes to this Privacy Policy via the "updated as of" link on the NTM website. 
 
 **What Else Should I Know About My Privacy When Online?**
 
@@ -128,6 +132,6 @@ California residents who utilize this Site for personal, family, or household pu
 
 **Your Consent To This Policy**
 
-By using our website, you consent to the collection and use of information by NTM as specified in this policy.  Please also note that your use of the website is governed by the NTM Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services. 
+By using our website, you consent to the collection and use of information by NTM as specified in this policy. Please also note that your use of the website is governed by the NTM Terms and Conditions. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the website, products and/or services. 
 
 Please send any questions about NTM's Privacy Policy to [lbuchanan@ntmllc.com](mailto:lbuchanan@ntmllc.com).
