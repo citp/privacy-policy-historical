@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115015818id_/http%3A//www.ontariohockeyleague.com/hm/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045847id_/http%3A//www.ontariohockeyleague.com/privacy-statement-p119915) for the most accurate reproduction.*
 
-# :::: THE OFFICIAL OHL WEBSITE ::::
+# Ontario Hockey League ◊ Official Website Privacy Statement
 
 **We care about your privacy.**
 
-Thank you for your interest in the OHL Internet web sites and newsletters, and other services. We believe in fully disclosing the methods to which we collect, use and allow you to take control of your personal information. We also invite you to ask us about our policies or feel free to let us know how we can better serve your privacy concerns. 
+Thank you for your interest in the OHL Internet web sites and newsletters, and other services. We believe in fully disclosing the methods to which we collect, use and allow you to take control of your personal information. We also invite you to ask us about our policies or feel free to let us know how we can better serve your privacy concerns.
 
 ## QUESTIONS, COMMENTS, OR SUGGESTIONS?
 
@@ -18,12 +18,11 @@ Ontario Hockey League
 Attn: Privacy Officer  
 305 Milner Ave., Suite 200  
 Scarborough, ON  
-M1B 3V4   
-
+M1B 3V4
 
 **Fax:**  
 416-299-8787  
-Please address your fax to the OHL Privacy Officer. 
+Please address your fax to the OHL Privacy Officer.
 
 ## WHAT IS PERSONAL INFORMATION?
 
