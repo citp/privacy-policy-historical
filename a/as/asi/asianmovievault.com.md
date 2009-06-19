@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianmovievault.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218134434id_/http%3A//asianmovievault.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianmovievault.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002154id_/http%3A//asianmovievault.com/info/privacy) for the most accurate reproduction.*
 
 # Asian Movie Vault - Internet's biggest Asian DVD site
 
@@ -29,4 +29,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please call us at [+61 422132100] or send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
+Should you have other questions or concerns about these privacy policies, please send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
