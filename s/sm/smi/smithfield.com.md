@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218101211id_/http%3A//www.smithfield.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithfield.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619070414id_/http%3A//www.smithfield.com/legal.php) for the most accurate reproduction.*
 
 # Smithfield Privacy Policy
 
