@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217171633id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619065508id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
 
 # Bambuser | Privacy Policy
 
@@ -33,7 +33,7 @@ You can change the configuration of your browser in such a manner that you will 
 
 ## UPDATE/DELETE USER INFORMATION
 
-All of your User Information is located in your Personal Bambuser Profile. Your profile can be edited and deleted at any time, by logging in to bambuser.com with your User ID (which is your email address) and password, then entering the “Bambuser beta Tester” area. You should make sure that you protect your password from disclosure because anyone that gains access to your password will be able to edit your profile.
+All of your User Information is located in your Personal Bambuser Profile. Your profile can be edited and deleted at any time, by logging in to bambuser.com with your User ID and password, then entering the “Dashboard” page. You should make sure that you protect your password from disclosure because anyone that gains access to your password will be able to edit your profile.
 
 ## NOTICE REGARDING CHILDREN
 
@@ -56,7 +56,7 @@ As Bambuser continues to develop its business, Bambuser might sell or purchase s
 ## CONTACTING BAMBUSER
 
 If you have a privacy concern regarding any of Bambuser website, services, software, or this Privacy Policy, and if you cannot satisfactorily resolve it through the use of the website, you should complete a feedback form or write to us by email at : [privacy@bambuser.com](mailto:privacy@bambuser.com). Alternatively, we can be reached at our postal mail address:  
-Bambuser AB (Malmö Office)  
-Barometergatan 34  
-211 17 Malmö  
+Bambuser Ab  
+S:t Eriksgatan 48C  
+11234 Stockholm  
 Sweden
