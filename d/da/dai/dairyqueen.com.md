@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171539id_/http%3A//www.dairyqueen.com/us-en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619094930id_/http%3A//www.dairyqueen.com/us-en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Dairy Queen
 
@@ -48,4 +48,4 @@ You may access the personal information that we have about you by contacting IDQ
 
 ## Feedback:
 
-If you have any questions or concerns about this Privacy Statement and/or our privacy practices, please contact Dave Pierro at [dave.pierro@idq.com](mailto:dave.pierro@idq.com "mailto:dave.pierro@idq.com") or International Dairy Queen, 7505 Metro Blvd, Minneapolis, MN 55439. 
+If you have any questions or concerns about this Privacy Statement and/or our privacy practices, please contact Jamie Guse at [jamie.guse@idq.com](mailto:dave.pierro@idq.com "mailto:jamie.guse@idq.com") or International Dairy Queen, 7505 Metro Blvd, Minneapolis, MN 55439. 
