@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propertypal.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155034id_/http%3A//www.propertypal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertypal.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161529id_/http%3A//www.propertypal.com/privacy) for the most accurate reproduction.*
 
-# Property Pal | Privacy Policy
+# Privacy Policy - Property Pal
 
-_Last updated: 29th January 2008_
+_Last updated: 20th May 2009_
 
   *  Who Are We?
   *  Information We Need
@@ -26,15 +26,15 @@ _Last updated: 29th January 2008_
 
 ## 1\. Who Are We?
 
-We are Property Pal. We are privately owned and based in Northern Ireland. Our office address is Property Pal, 29 Main Street, Randalstown, ANTRIM, Co. Antrim, BT41 3AB.  We are registering with the Information Commissioner in accordance with the Data Protection Act 1998, Data Protection Registration no. **PENDING**.  
-Any personal information provided to or gathered by Property Pal is controlled by Property Pal. Our trading names are EstateMate.com and Estate Mate.  
-You can contact us by visiting our [Contact Us](https://web.archive.org/contact) page and find out a bit more about the company by visiting [About Us](https://web.archive.org/web/20081219155034id_/http%3A//www.propertypal.com/about.jsp).
+We are PropertyPal.com. We are privately owned and based in Northern Ireland. Our office address is PropertyPal.com, 35A Main Street, Randalstown, ANTRIM, Co. Antrim, BT41 3AB.  We are registering with the Information Commissioner in accordance with the Data Protection Act 1998, Data Protection Registration no. **PENDING**.  
+Any personal information provided to or gathered by PropertyPal.com is controlled by PropertyPal.com. Our trading names are PropertyPal.com and PropertyPal.com.  
+You can contact us by visiting our [Contact Us](https://web.archive.org/contact) page and find out a bit more about the company by visiting [About Us](https://web.archive.org/web/20090619161529id_/http%3A//www.propertypal.com/about.jsp).
 
 ## 2\. Information We Need
 
 The information we learn from our customers helps us personalise and continually improve your shopping experience on this website. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wishlists and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.  
 We will never collect sensitive information about you without your explicit consent. If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us at [support@propertypal.com](mailto:support@propertypal.com). If you find any inaccuracies we will delete or correct it promptly.  
-Property Pal is committed to protecting your privacy and security. We will ensure that any information we obtain and use will always be held, used and transferred in compliance with all applicable data protection rules.  
+PropertyPal.com is committed to protecting your privacy and security. We will ensure that any information we obtain and use will always be held, used and transferred in compliance with all applicable data protection rules.  
 We do collate statistics about site traffic, sales and other commercial information which we pass on to trusted third parties to assist us in improving the service we provide to you. However, none of this information will identify individuals.  
 Information is kept securely in accordance with our internal security policy and may be used to:
 
@@ -42,7 +42,7 @@ Information is kept securely in accordance with our internal security policy and
   * 2\. Provide Customer Support services to you;
   * 3\. Provide you with an up to date, efficient, and reliable service;
   * 4\. Help prevent fraud (eg. we may check credit card details with our credit agency and reserve the right to refuse Orders on that basis. Your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
-  * 5\. Open and run your Estate Mate customer account;
+  * 5\. Open and run your PropertyPal.com customer account;
   * 6\. Provide a more personal shopping experience.
 
 
@@ -58,7 +58,7 @@ Your account contains your delivery and billing details, email preferences and a
 Here are the types of information we gather.  
 Information You Give Us: we receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.  
 Automatic Information: we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses this website. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalised experience at this website if we cannot recognise you, we want you to be aware that these tools exist.  
-Email Communications: to help us make emails more useful and interesting, we often receive a confirmation when you open email from Estate Mate if your computer supports such capabilities. If you do not want to receive email or other mail from us, please adjust your email preferences in “My Page”. 
+Email Communications: to help us make emails more useful and interesting, we often receive a confirmation when you open email from PropertyPal.com if your computer supports such capabilities. If you do not want to receive email or other mail from us, please adjust your email preferences in “My Page”. 
 
 ## 5\. Security of Personal Information
 
@@ -72,11 +72,11 @@ We hope you appreciate that these measures are a necessary precaution, undertake
 
 ## 7\. Who Else May See Your Information
 
-Property Pal may, if required, pass on the details of your order to UK Customs & Excise.
+PropertyPal.com may, if required, pass on the details of your order to UK Customs & Excise.
 
 ## 8\. Data Controllers
 
-The Data Protection Act 1998 requires us, as registered Data Controllers, to be open about our holding and use of personal data. It also entitles individuals to find out from us what personal data is held about them on computer, to have that information corrected or erased if it is inaccurate, and to claim compensation if they can prove they have suffered damage from an inaccuracy or breach of security. Property Pal is committed to upholding the eight Data Protection Principles of good information handling practice.
+The Data Protection Act 1998 requires us, as registered Data Controllers, to be open about our holding and use of personal data. It also entitles individuals to find out from us what personal data is held about them on computer, to have that information corrected or erased if it is inaccurate, and to claim compensation if they can prove they have suffered damage from an inaccuracy or breach of security. PropertyPal.com is committed to upholding the eight Data Protection Principles of good information handling practice.
 
 ## 9\. The Data Protection Principles
 
@@ -118,7 +118,7 @@ It is important for you to protect against unauthorised access to your password 
 
 ## 12\. What Information Can I Access
 
-Property Pal gives you access to a broad range of information about your account and your interactions with this website for the limited purpose of viewing and, in certain cases, updating that information.
+PropertyPal.com gives you access to a broad range of information about your account and your interactions with this website for the limited purpose of viewing and, in certain cases, updating that information.
 
 ## 13\. Conditions of Use, Notices & Revisions
 
@@ -138,15 +138,15 @@ Examples of information we receive from other sources include: updated address a
 
 ## 15\. Information You Can Access
 
-Examples of information you can access easily at Property Pal include: up-to-date information regarding recent orders; personally identifiable information (including name, email, password, communications preferences, address book); payment settings (message balances, payments received, payments due and payments owed); email notification settings; sms notification settings; recommendations (including recent product-view history, prior-order history and favourites); saved searches, seller accounts and your My Account/My Page area including your personal profile.
+Examples of information you can access easily at PropertyPal.com include: up-to-date information regarding recent orders; personally identifiable information (including name, email, password, communications preferences, address book); payment settings (message balances, payments received, payments due and payments owed); email notification settings; sms notification settings; recommendations (including recent product-view history, prior-order history and favourites); saved searches, seller accounts and your My Account/My Page area including your personal profile.
 
 ## 16\. Dispute Resolution
 
 In case of any dispute, please email Customer Services at [support@propertypal.com](mailto:support@propertypal.com) or call us on one of the above telephone numbers listed in [Contact Us](https://web.archive.org/contact).  
-If this does not address your concerns, please email Estate Mate’s owner at [owner@propertypal.com](mailto:owner@propertypal.com)
+If this does not address your concerns, please email PropertyPal.com’s owner at [owner@propertypal.com](mailto:owner@propertypal.com)
 
 ## 17\. Opting IN & Opting OUT
 
-Property Pal offers visitors and customers opportunities to receive ad hoc emails, regular emails and catalogues from Property Pal. Some of these are opt-in, others are opt-out. Each opportunity will explicitly state whether it is opt-in or opt-out. You may opt out of the various uses of your personal information at any time, even if you have previously given your consent for us to use them  
+PropertyPal.com offers visitors and customers opportunities to receive ad hoc emails, regular emails and catalogues from PropertyPal.com. Some of these are opt-in, others are opt-out. Each opportunity will explicitly state whether it is opt-in or opt-out. You may opt out of the various uses of your personal information at any time, even if you have previously given your consent for us to use them  
 If you would like further details of the lists you are signed up to, would like to change your preferences or simply want further information, please email Customer Services at [support@propertypal.com](mailto:support@propertypal.com)  
-Property Pal will never share or sell your information to any 3rd parties. 
+PropertyPal.com will never share or sell your information to any 3rd parties. 
