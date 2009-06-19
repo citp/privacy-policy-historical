@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143640id_/http%3A//www.learnthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202644id_/http%3A//www.learnthat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Learnthat.com - Free web enabled training for computer courses, IT certification exams, business, online tutorials, and others
+# Learnthat.com Privacy Policy
 
-**Learnthat.com Privacy Policy**
-
-Learnthat.com LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learnthat.com, Romancetips.com. 
+Learnthat.com LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learnthat.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
 
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Your contact information is not shared with any third-parties, and is kept private at all times. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. No individual personal information is ever revealed to any third-parties.
 
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.google.com/privacy_ads.html).
 
 This site contains links to other sites. **Learnthat.com** is not responsible for the privacy practices or the content of such Web sites.
 
@@ -55,4 +53,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Learnthat.com LLC 12 Westerville Square PMB #323  Westerville, Ohio 43081  privacy@learnthat.com |   | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Learnthat.com LLC 9879 Charlotte Hwy 521 Suite 400-210  Indian Land, SC 29720  privacy@learnthat.com
