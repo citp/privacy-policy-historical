@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the muzu.tv privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219181534id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muzu.tv privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619201423id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 		<meta name="Description" content="Bands, Festivals, Venues and Fans Broadcast your Music TV on the Web">
-		<link href="/stylesheets/corporate_4742.css" media="screen" rel="Stylesheet" type="text/css">
-		<script src="/javascripts/corporate_4755.js?1229614167" type="text/javascript"></script>
+		<link href="/stylesheets/corporate_6159.css" media="screen" rel="Stylesheet" type="text/css">
+		<script src="/javascripts/corporate_6247.js?1244656988" type="text/javascript"></script>
 
 		<title>MUZU TV - Bands, Festivals, Venues and Fans Broadcast your Music TV on the Web</title>	
 
@@ -13,19 +13,40 @@
 	<body>
 			<div id="corporateOuterContainer">
 				<div id="layoutMain">
-					
+					<div class="hiddenInfo" id="fbk">fa909a8841140089490bff9c6ec615f9</div>	
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+  $(function(){
+    	initFacebookConnect('fa909a8841140089490bff9c6ec615f9');
+    });
+  //]]>
+</script>
+
+
+
+
+
 
 <div id="muzuMenu">
 	<div id="mainNavLogo">
 		<div id="logoInner">
-			<a href="/"><img width="172" height="54" class="linkingImage" src="/images/small_logo.png"></a>
+			<a title="MUZU TV" href="/">
+				<img alt="MUZU TV" title="MUZU TV" width="172" height="54" class="linkingImage" src="/images/small_logo.png">
+			</a>
 		</div>
 	</div>
 	<div id="topNavMain">
 		<div id="loginDetails">
 			<div id="loginDetailsInner">
 			
-				<a href="/home/selectSignup"><span>REGISTER</span></a> | <span onclick="showGenericLogin(false, true);">LOGIN</span>
+				<div id="mainFbLoginButton">
+					<fb:login-button background="transparent" length="short" onlogin="checkFBStatus();" size="medium"></fb:login-button>
+				</div>
+				<div id="normalLoginControls">
+					<a title="Register on MUZU TV" href="/home/selectSignup"><span>Register</span></a> | <span class="linkEffectItem" onclick="showGenericLogin(false, true);">Login</span>
+				</div>
 			
 			</div>
 		</div>
@@ -35,36 +56,170 @@
 					<div class="navTabLeft removeBg">
 					</div>
 					<div class="homenavTabMiddle removeBg">
-						<div class="pushNavTabTextDown boldText navtabText "><a href="/">HOME</a></div>
+						<div class="pushNavTabTextDown boldText navtabText "><a href="/" title="MUZU Homepage">Home</a></div>
 					</div>
 					<div class="navTabRight removeBg">
 					</div>
 				</div>
-				<div id="browseTab" class="navTab">
+				<div id="browseChannelTab" class="navTab">
 					<div class="navTabLeft removeBg">
 					</div>
 					<div class="browsenavTabMiddle removeBg">
-						<div class="pushNavTabTextDown boldText navtabText"><a href="/genre">BROWSE</a></div>
+						<div class="pushNavTabTextDown boldText navtabText"><a href="/channels" title="Browse Channels on MUZU TV">Channels</a></div>
+					</div>
+					<div class="navTabRight removeBg">
+					</div>
+				</div>
+				<div id="browseVideoTab" class="navTab">
+					<div class="navTabLeft removeBg">
+					</div>
+					<div class="browsenavTabMiddle removeBg">
+						<div class="pushNavTabTextDown boldText navtabText"><a href="/music-videos" title="Browse Music Videos on MUZU TV">Videos</a></div>
 					</div>
 					<div class="navTabRight removeBg">
 					</div>
 				</div>
 				<!-- make sure user is logged in -->
 				
-			</div>
-			 
 
+				<div id="mychannelTab" class="navTab">
+					<div class="navTabLeft removeBg">
+					</div>
+					
+					<div class="channelnavTabMiddle removeBg">
+						<div class="pushChannelTabTextDown boldText navtabText channelText"><a href="/home/login">My Channel</a></div>
+					</div>
+					<div class="navTabRight removeBg">
+					</div>
+				</div>
+			</div>
+			
 			<div id="navSearchArea">
-				<form action="/search" method="get" onsubmit="" class="navSearchForm">
-					<input name="mySearch" id="navSearchField" value="Search the site" type="text">
+				<form id="mainMenuSearchForm" action="/search" method="get" onsubmit="return searchTheSite()" class="navSearchForm">
+					<input name="mySearch" id="navSearchField" value="Search Music Videos" type="text">
 					<div id="navSubSearch">
-						<input class="pngFix" type="image" src="/images/icons/search.png">
+						<input alt="Search for Music Videos" title="Search for Music Videos" class="pngFix" type="image" src="/images/icons/search.png">
 					</div>
 				</form>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="muzuFloatingMenu">
+	
+	<div id="playlistMenuItem" class="muzuFloatingMenuItem darkestGreyText boldText">
+		<div class="muzuFloatingMenuItemText">
+			<div class="floatingMenuIcon">
+				<img src="/images/icons/myPlaylists.png">
+			</div>
+			<div class="floatingMenuTextMain">
+				<a href="/buildPlaylist?nk=&amp;defaultTab=yourVideos">
+					Manage Playlists
+				</a>
+			</div>
+		</div>
+	</div>
+	<div id="queueMenuItem" class="muzuFloatingMenuItem darkestGreyText boldText" onclick="toggleQueuePlaylist()">
+		<div class="muzuFloatingMenuItemText">
+			<div class="floatingMenuIcon qIcon">
+				<img src="/images/icons/q.gif">
+			</div>
+			<div class="floatingMenuTextMain">
+				Quicklist (<span id="queueMenuItemCount">0</span>)
 			</div>
 		</div>
 	</div>
 </div>
+
+<div id="queuePlaylistEditor">
+	
+<div id="queuePlaylistHeader">	 
+	<div id="queuePlaylistClose" onclick="closeQueuePlaylist()"><img id="closeButonImageTag" title="close" alt="close" src="/images/icons/closeFloatingMenu.png" width="16" height="16"></div>     			
+	<div id="queuePlaylistLabel">
+		<div id="queuePlaylistLabelText" class="boldText">
+			Quicklist
+		</div>
+	</div>
+</div>
+
+<div id="queuePlaylistTitle">
+	<div id="queuePlaylistSignUP" class="darkestGreyText">
+	  <a href="#"><span class="boldText" onclick="showGenericLogin(false, true);">Login</span></a> or <a href="/home/selectSignup"><span class="boldText">Register</span></a> to save your Quicklist.
+	</div>
+</div>
+
+<div id="queuePlaylistPreloader">
+	<img src="/images/icons/floatingMenuPreloader.gif">
+</div>
+<div id="queuePlaylsitControls">
+	<div id="queuePlaylistPlay" class="queuePlaylistLink">
+		<div class="controlIcon" onclick="playQueue()">
+			<img border="0" src="/images/icons/roundPlay.png">
+		</div>
+		<div class="controlText" onclick="playQueue()">
+			<span title="play this playlist">Play</span>
+		</div>
+	</div>
+	<div id="queuePlaylistOrganise" class="queuePlaylistLink">
+		<div class="controlIcon">
+			<a href="/buildPlaylist?defaultTab=yourVideos&amp;nk=&amp;pi=&amp;oq=true">
+				<img border="0" src="/images/icons/cog.png">
+			</a>
+		</div>
+		<div class="controlText">
+			<span title="organise your playlists">
+				<a href="/buildPlaylist?defaultTab=yourVideos&amp;nk=&amp;pi=&amp;oq=true">Manage Playlists</a>
+			</span>
+		</div>
+	</div>
+</div>
+<div id="queuePlaylistVideos">
+	<div id="saveQueueForm">
+		<div id="saveQueueLabel">Name this playlist</div>
+	  <input id="saveQueueInput" type="text" value="">
+		<div id="saveQueueInputError"><span id="saveQueueError" class="errorText">You must enter a name for this playlist</span></div>
+		<div id="saveQueueButtons">
+			<div id="queueCancel"><img alt="cancel" title="cancel" onclick="cancelSaveQueue()" src="/images/buttons/saveQueueCancelButton.png"></div>
+			<div id="queueSave"><img alt="save this playlist" title="save this playlist" onclick="saveQueueAsPlaylist()" src="/images/buttons/saveQueueButton.png"></div>
+			<div id="queueSavePreloader"><img src="/images/icons/tinyLoader.gif" width="16" height="16"></div>
+		</div> 
+	</div>
+	<ul id="queuePlaylistTrackListing" class="queuePlaylistTrackListing">
+		<div id="queueEmptyText"><span id="queuePlaylistText">Start Your Quicklist<span class="queuePlaylistTextSmall">Add videos to your Quicklist by clicking the <img src="/images/icons/add_icon.png"> button when you see a video you like!</span></span></div>
+	</ul>  
+</div>
+<div id="queuePlaylistFooter">
+  <div id="queuePlaylistRemoveAll" class="queuePlaylistBuilderLink" onclick="removeAllQueuePlaylistAssets()">Remove All Videos</div>
+  <div id="queuePlaylistCount">
+    <div id="queueCount" class="countItem">0  Videos</div>
+  </div>
+</div>
+
+<div class="hiddenInfo" id="nkPlaylist"></div>
+<div class="hiddenInfo" id="pi"></div>
+<div class="hiddenInfo" id="queuecalled">Quicklist</div>
+</div>
+
+<div id="itemJustAdded">
+	<div id="itemJustAddedInner">
+		<div id="closeJustAdded" onclick="closeJustAdded();">
+			<img src="/images/icons/closeFloatingMenu.png">
+		</div>
+		<div id="justAddedLeft">
+			<img width="67" height="35" id="justAddedImage">
+		</div>
+		<div id="justAddedRight">
+			<span id="justAddedText"></span>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	var activeCountryIdentity = 233;
+
+</script>
 
 					<div id="corpBottomSection">
 						<div id="secondNav">
@@ -408,7 +563,7 @@
 				<div class="bulletnumber">11.2</div>
 				<div class="leftmargin"></div>
 				<div class="plaintext">
-					If you use Our Website after we post these changes to the privacy policy, this indicates your acceptance of them. Regardless of later updates, we will follow the practices described in this privacy policy at the time you provided us with your information. If you ever have questions about our privacy policies, please contact us using the following <a href="/site/contact">link</a>.
+					If you use Our Website after we post these changes to the privacy policy, this indicates your acceptance of them. Regardless of later updates, we will follow the practices described in this privacy policy at the time you provided us with your information. If you ever have questions about our privacy policies, please contact us using the following <a href="/site/contactUs">link</a>.
 				</div>
 			</div>
 		</div>
@@ -600,40 +755,41 @@
 			
 		</div>
 
-		<div id="commonRegistrationForm">
+		
+<div id="commonRegistrationForm">
 	<div id="commonRegistrationFormBgImage">
 		<div id="commonRegInnerWrap">
 			<div id="closeCommonReg" onclick="closeRegPop();">
-				<img alt="Close Dialog" title="Close Dialog" width="13" height="13" class="pngFix" src="/images/dialogs/invite/friend_close_button.png">
+				<img id="closeCommonRegImg" alt="Close Dialog" title="Close Dialog" width="13" height="13" class="pngFix" src="/images/dialogs/invite/friend_close_button.png">
 			</div>
-			<div id="registerHeadingText" class="boldText greenText subHeadingText">LOGIN</div>
-			
-			<div id="registerSub" class="blackText">
-			You need to be logged in to do that.
-			</div>
+			<div id="registerHeadingText" class="boldText darkGreenText subHeadingText">LOGIN</div>
 			
 			<div id="genericLoginForm">
 				<form id="popuploginform" action="/home/authenticateActiveUser" method="post" onsubmit="return loginActiveUser('privacyPolicy');">
 					<div class="regFieldWrapper">
 						<div class="registerLabel boldText">email</div>
 						<div id="emailTextfield">
-							<input type="text" id="userJ_Email" value="">
-						</div>
+							
+							<input type="text" id="userJ_Email" value="">							
+						</div>						
 					</div>
-					<div id="passwordFieldWrapper" class="regFieldWrapper">
+					<div id="passwordFieldWrapper" class="regFieldWrapperPass">
 						<div class="registerLabel boldText">password</div>
 						<div id="passwordTextfield">
 							<input type="password" id="userJ_cleartextPassword" onkeypress="checkEnter(event, 'submitLogin')">
 						</div>
 							<input id="submitLogin" type="image" class="pngFix" src="/images/landing/button_login.png" alt="Login">
 					</div>
+					<div class="rememberMeField">
+						<input id="userJ_RememberMe" type="checkbox" checked=""><span class="smallText">Automatically sign in for 2 weeks</span>
+					</div>					
 					<div id="errorFieldPlaceHolderCommon">
 						<div id="commonErrorText" class="redText boldText smallText">
 							
 						</div>
 					</div>
-					<div id="forgottenPassword" onclick="forgottenPassword();">
-						<a href="#">Forgotten your password?</a>
+					<div id="forgottenPassword">
+						<a href="/home/recoverMyPassword">Forgotten your password?</a>
 					</div>
 				</form>
 				<div id="registerLink">
@@ -641,6 +797,15 @@
 					If you don't have a MUZU TV account already then click the link below.
 					<br>
 					<span id="registerForMuzuLink"><a href="/home/selectSignup">Register for MUZU TV</a></span>
+					<div id="loginOrText" class="greyText">
+						OR
+					</div>
+					<div id="facebookLongLoginButton">
+						<fb:login-button background="transparent" length="long" onlogin="checkFBStatus();" size="medium"></fb:login-button>
+					</div>
+					<div id="connectingFacebookPreloader">
+						<img src="/images/icons/fbLoading.gif">
+					</div>
 				</div>
 			</div>	
 		</div>
@@ -656,6 +821,9 @@
 		<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-2539840-1");
 		pageTracker._trackPageview();
+		</script>
+		<script type="text/javascript">
+			trackPageLoad();		
 		</script>
 		
 	
