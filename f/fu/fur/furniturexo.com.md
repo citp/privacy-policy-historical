@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112703id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturexo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035408id_/http%3A//www.furniturexo.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Privacy Statement - Furniture XO
 
@@ -10,7 +10,11 @@ Company is the sole owner of the information collected on this site. We will not
 
 This site contains links to other Web sites. Company is not responsible for the privacy practices or the content of such sites.
 
- **Address Information  
+ **Links from Other Websites / Search Engines**
+
+Link to Furniture XO web site can be found on other Web sites and/or Search Engines, Shopping Engines. Company is not responsible if such links display any outdated information. Price or availability of products listed on Furniture XO web site changes daily, it may not be reflected immediately in Search Engines, Shopping Engines. Company is not responsible for any inaccuracy of such links. 
+
+**Address Information  
 **
 
 Our site uses an order form for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the sole benefit of Company to send information to customers about orders, about our company, and to send promotional material. This information is also used for billing and to contact you when necessary.
