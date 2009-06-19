@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054319id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202600id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
 
 # STYLEBOP.com | PRIVACY POLICY - The latest trends from the Fashion Capitals of the World
 
 PRIVACY POLICY  
   
-This Web Site is operated by STYLEBOP LLC ("STYLEBOP", "we", "us" or "our"). At STYLEBOP, we recognize the importance of protecting your privacy. We have adopted policies intended to ensure that your personal data is handled responsibly and safely. Please review these Privacy Policy regularly as we intend to improve our services on a continuous basis.
+This Web Site is operated by STYLEBOP GmbH ("STYLEBOP", "we", "us" or "our"). At STYLEBOP, we recognize the importance of protecting your privacy. We have adopted policies intended to ensure that your personal data is handled responsibly and safely. Please review these Privacy Policy regularly as we intend to improve our services on a continuous basis.
 
 If you should have any questions about this policy, you can contact us by writing to us at:  
-STYLEBOP LLC, Customer Service Department, 678 Broadway, 3rd fl., New York, NY 10012 USA.
+STYLEBOP GmbH, Customer Service Department, Balanstrasse 73, 81541 Munich, Germany.
 
-Or you can call us: 1-877- STYLE (-78953)
+Or you can call us: Toll Free: 1-8662129435
 
 **Cookies**
 
@@ -41,14 +41,14 @@ We use the information we collect to process your purchase transactions, to send
 
 **Opt-out Procedures**
 
-If you wish to have your name and personal data removed from our data base, please e-mail to [customerservice@stylebopny.com](mailto:customerservice@stylebopny.com), write to STYLEBOP LLC, Attention: Customer Service Department, 678 Broadway, 3rd fl. New York, NY 10012 USA.
+If you wish to have your name and personal data removed from our data base, please e-mail to [customerservice@stylebop.com](mailto:customerservice@stylebop.com), write to STYLEBOP GmbH, Attention: Customer Service Department, Balanstrasse 73 , 81541 Munich, Germany.
 
 **E-Mails**
 
-We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20081217054319id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
+We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20090619202600id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
 
 **Registration / Change of Personal Data**
 
 In order to make online shopping faster and easier, you may register at STYLEBOP.com. We will than store your shipping address and billing information so that you do not have to re-enter this information when shopping with us again. You will also be able to check your order status and review your order history. Your registered information will be securely stored with us, and you can view, add, delete, or change your registered information at any time using your email address and your password.
 
-© 2007 STYLEBOP LLC. All rights reserved. 
+© 2004 STYLEBOP GmbH. All rights reserved. 
