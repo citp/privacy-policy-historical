@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinfodir.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091403id_/http%3A//www.allinfodir.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinfodir.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052155id_/http%3A//www.allinfodir.com/privacy.php) for the most accurate reproduction.*
 
 # AllinfoDir Web Directory- Privacy Policy
 
