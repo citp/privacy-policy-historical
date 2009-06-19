@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218014654id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619062548id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
 
 # 50Plus.com Privacy Policy
-
-[](http://www.50plus.com/index.cfm)
-
-ABOUT US 
 
 _50plus.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our visitors and members._
 
@@ -23,6 +19,3 @@ We run **contests** on our site in partnership with other companies. Please see 
 
 **A note about our public forums**   
 This site makes net friends, greeting cards and discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes publicly readable information and you should exercise caution when 
-
-|   
----|---
