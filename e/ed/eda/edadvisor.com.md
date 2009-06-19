@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the edadvisor.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219174956id_/http%3A//edadvisor.com/page/privacy-policy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edadvisor.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161043id_/http%3A//edadvisor.com/page/privacy-policy/Privacy-Policy.html) for the most accurate reproduction.*
 
 # EdAdvisor | Get a Better Job | privacy policy
-
-  
-
-
-Colleges: **7,612**  
-Campuses: **11,802**  
-Programs: **252,433**  
-
-
-  
-
 
 home > **privacy-policy**
 
