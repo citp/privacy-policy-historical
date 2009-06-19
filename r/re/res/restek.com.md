@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219101718id_/http%3A//www.restek.com/about_privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restek.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619174825id_/http%3A//www.restek.com/about_privpol.asp) for the most accurate reproduction.*
 
 # Restek -- Privacy Policy
 
@@ -35,7 +35,7 @@ The information we collect is used to improve our Web sites and to contact consu
 
 If you provide your e-mail address to us, you may receive e-mail from us relating to new products and services or upcoming events. Also, technical assistance may be provided via e-mail, and surveys and questionnaires that help us offer better products and services in the future. You can request that we do not send e-mail to you. 
 
-As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/web/20081219101718id_/http%3A//www.restek.com/subscriber.asp) by completing a brief survey. 
+As a service, Restek publishes and distributes free technical literature in both print and electronic forms. Customers who wish to do so can subscribe to our [eLiterature service](https://web.archive.org/web/20090619174825id_/http%3A//www.restek.com/subscriber.asp) by completing a brief survey. 
 
 If you supply us with your telephone number online, you may receive telephone contact from us for order confirmation or technical assistance. Also, you may receive telephone contact from us with information regarding new products and services or upcoming events. You can request that we do not call you. 
 
