@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200325id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050058id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
 
 # Westchester Community College - Disclaimer
 
@@ -119,6 +119,54 @@ The following definitions apply to, and appear in italics, in this policy:
 Personal information: For purposes of this policy, “personal information” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
 
 User: shall have the meaning set forth in subdivision 8 of section 202 of the State Technology Law.
+
+**Blog policy**
+
+Westchester Community College blogs have been created for use by members of the greater community, including but not restricted to prospective and current students blogging from any location, Westchester County residents, college alumni, faculty, staff, and administrators. The purpose of the blogs is to facilitate communication to and from the college and its greater “community,” which includes all of the above.  Commentary and opinion are most welcome. 
+
+We will only post comments from bloggers 13 years or older that relate to topics concerning the college and its community. We understand there will be exceptions regarding subject matter , but the following will be removed by Westchester Community College blog authors and editors, and repeat offenders will be banned for:
+
+Potentially libelous comments.
+
+Vulgar, racist, sexist, comments.
+
+Personal attacks. 
+
+Plagiarized material.
+
+Private information published without consent.
+
+Material related to gambling. 
+
+Items that could damage other computers.
+
+Commercials, soliciting for personal gain, or spam. 
+
+The college reserves the right not to post comments. Please remember that the views and opinions expressed by bloggers are strictly those of the authors . Also understand that  the contents of blog entries may create lasting consequences, so be respectful and professional in your postings. By participating in any college blogs, you are responsible for your comments and you agree not to represent yourself as another individual. 
+
+**Social Networking Policy**
+
+Westchester Community College’s social networking site pages have been created for use by members of the greater community, including but not restricted to prospective and current students blogging from any location, Westchester County residents, college alumni, faculty, staff, and administrators. The purpose of the sites is to facilitate communication to and from the college and its greater “community,” which includes all of the above.  Commentary and opinion are most welcome. 
+
+We encourage comments from bloggers 13 years or older relating to topics concerning the college and its community. We understand there will be exceptions regarding subject matter, but the following will be removed by Westchester Community College’s social networking site administrators, and repeat offenders will be banned for:
+
+Potentially libelous comments.
+
+Vulgar, racist, sexist, or comments pertaining to violence.
+
+Personal attacks. 
+
+Plagiarized material.
+
+Private information published without consent.
+
+Material related to gambling. 
+
+Items that could damage other computers.
+
+Commercials, soliciting for personal gain, or spam.
+
+The college reserves the right to delete comments. Please remember that the views and opinions expressed by fans/friends are strictly those of the authors . Also understand that the contents of your postings may create lasting consequences, so be respectful and professional. By participating, you are responsible for your comments and you agree not to represent yourself as another individual. 
 
 [CLOSE WINDOW](javascript:windowClose\(\))
 
