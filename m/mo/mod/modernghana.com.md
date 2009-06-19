@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064927id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernghana.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052703id_/http%3A//www.modernghana.com/GhanaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
 
 # Modern Ghana Privacy
 
@@ -85,6 +85,6 @@ Modern Ghana takes your privacy seriously. Please read the following to learn mo
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a feedback form or you can contact us at: [info@modernghana.com](https://web.archive.org/web/20081217064927id_/http%3A//www.modernghana.com/GhanaHome/mg_services/info@modernghana.com)
+  * If you have questions or suggestions, please complete a feedback form or you can contact us at: [info@modernghana.com](https://web.archive.org/web/20090619052703id_/http%3A//www.modernghana.com/GhanaHome/mg_services/info@modernghana.com)
 
 
