@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102159id_/http%3A//www.michelinman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelinman.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044715id_/http%3A//www.michelinman.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Michelin Tires
 
