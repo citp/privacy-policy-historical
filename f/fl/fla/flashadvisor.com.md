@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashadvisor.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114815id_/http%3A//www.flashadvisor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashadvisor.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202142id_/http%3A//www.flashadvisor.com/privacy.php) for the most accurate reproduction.*
 
 # FlashAdvisor - Privacy - Flash open Resource Macromedia Flash Tutorials SWF FLA images clip art Sounds WAVS Animations free flash movie
 
@@ -9,6 +9,9 @@ We use your IP address to gather broad demographic information which allows us t
 
 **Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information.   
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
 **  
 Public Section**  
 This site makes collection of flash movies, sound loops and tutorials. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
@@ -26,4 +29,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-mailto: [webmaster@flashadvisor.com](mailto:webmaster@flashadvisor.com)
+mailto: **w e b m a s t e r @ f l a s h a d v i s o r . c o m**
