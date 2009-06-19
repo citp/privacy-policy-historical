@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093511id_/http%3A//www.addicted.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060217id_/http%3A//www.addicted.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Addicted.com - Resource & Recovery Center - Privacy Policy
 
