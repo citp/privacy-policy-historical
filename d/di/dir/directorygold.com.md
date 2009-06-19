@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorygold.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218074742id_/http%3A//www.directorygold.com/more/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorygold.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210908id_/http%3A//www.directorygold.com/more/policy.php) for the most accurate reproduction.*
 
 # DirectoryGold - Privacy Policy
 
