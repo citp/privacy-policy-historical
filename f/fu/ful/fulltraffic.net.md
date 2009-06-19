@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltraffic.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltraffic.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/privacy.php) for the most accurate reproduction.*
 
 # FullTraffic - Privacy Policy
 
@@ -54,13 +54,13 @@ When our order form asks users to enter sensitive information (such as credit ca
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounts department or our Customer Care Representatives, or our SEO Specialists) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Our servers that personally identifiable information is stored on are kept in a secure environment and are stored behind a firewall.
 
-If you have any questions about the security at our Web site, you can [contact us here](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/contact.php).
+If you have any questions about the security at our Web site, you can [contact us here](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/contact.php).
 
 Top
 
 **7\. How users can correct any inaccuracies in the information.**
 
-If your personally identifiable information changes, you may correct or update it by making the change in your account area on the Edit Account page, by contacting us at our [Customer Support System](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/support.php), or by contacting us by telephone contact information listed on the [Contact page](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/contact.php).
+If your personally identifiable information changes, you may correct or update it by making the change in your account area on the Edit Account page, by contacting us at our [Customer Support System](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/support.php), or by contacting us by telephone contact information listed on the [Contact page](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/contact.php).
 
 Top
 
@@ -74,9 +74,9 @@ Top
 
 Contact Us: 
 
-  * [Support Ticket System](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/support.php)
-  * [Call Us](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/contact.php)
-  * [Send us an E-Mail](https://web.archive.org/web/20081217040118id_/http%3A//www.fulltraffic.net/contact_us.php)
+  * [Support Ticket System](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/support.php)
+  * [Call Us](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/contact.php)
+  * [Send us an E-Mail](https://web.archive.org/web/20090619070715id_/http%3A//www.fulltraffic.net/contact_us.php)
 
 
 
