@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610190551id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044731id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
 
 # HotRef -
 
@@ -34,7 +34,7 @@ Many messages you initiate through HotRef, for instance a notification sent to a
 **Legal Disclaimer**  
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.  
 **Accessing and Changing Your Account Information**  
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your HotRef account, at any time by logging in to your account on the HotRef website and editing the information on your account page. To request that we close your account and remove your information please send your request to [support@HotRef.com](mailto:support@HotRef.com). Please send your request using an email account that you have registered with HotRef under your name. You will receive a response to requests within at least three business days of our receiving it.   
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your HotRef account, at any time by logging in to your account on the HotRef website and editing the information on your account page. To request that we close your account and remove your information please send your request to [support@HotRef-inc.com](mailto:support@HotRef-inc.com). Please send your request using an email account that you have registered with HotRef under your name. You will receive a response to requests within at least three business days of our receiving it.   
 **Changes to this Privacy Policy**  
 HotRef may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your HotRef account or by displaying a prominent notice on this site.   
 **Questions or Comments**  
