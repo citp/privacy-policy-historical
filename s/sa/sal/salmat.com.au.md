@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220152943id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203457id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
 
 # Salmat - Salmat’s privacy policy. Guidelines pertaining to how Salmat adheres to the Privacy Act 1988 (Australia).
 
