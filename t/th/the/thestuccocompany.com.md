@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestuccocompany.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160744id_/http%3A//www.thestuccocompany.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestuccocompany.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035444id_/http%3A//www.thestuccocompany.com/privacy.php) for the most accurate reproduction.*
 
 # TheStuccoCompany.com Privacy Policy
 
@@ -19,6 +19,14 @@ Additionally, user's personally identifiable information may be used for the pur
 Except as stated in this privacy policy or at the time of collection, user's personally identifiable information, will not be transferred to a party outside TheStuccoCompany.com , its divisions, its vendors providing Internet hosting services or third party list managers unless stated at the time of collection. If you do not wish to receive any e-mail or to have us share such information with another party, you may "opt out" at any time by e-mailing us or contacting us by regular mail.
 
 We do not control the privacy policies of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks. TheStuccoCompany.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
+
+Please take a note of the following advertizing-specific privacy policies: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on TheStuccoCompany.com site.
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to TheStuccoCompany.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
 
 Kids: Be sure to ask your parents for permission before you send any information about yourself, such as like your name, address, or e-mail address, over the Internet, to us or to anyone else and before making any purchases online.
 
