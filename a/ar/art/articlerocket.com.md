@@ -1,70 +1,22 @@
-> *The following text is extracted and transformed from the articlerocket.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202212713id_/http%3A//www.articlerocket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerocket.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620011645id_/http%3A//www.articlerocket.com/privacy.php) for the most accurate reproduction.*
 
-# Submit Articles | Free Articles | Submission | Free Web Content | Article Rocket
+# hacked By M0µ34d
 
-Article Rocket Privacy Policy
+Link Partners: [Debt](http://www.credit.com/products/debt)| [Credit Cards](http://www.creditcardmenu.com/)| [Debt Consolidation](http://www.creditadvisors.org/)
 
-**What personally identifiable information is collected from you Article Rocket collects information in several ways from different parts of our web site.**
+hacked By M0µ34d
 
-Some personal information is gathered when you register. During registration, we ask for your name and email address. The system will also ask for your street address, city, state/province, zip/postal code, country, telephone number, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to Article Rocket - you have a username and are able to take full advantage of the many offerings of the Article Rocket.
+H4ck3d By M0µ34d  
+!
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you place articles or take advantage of the other features of the Article Rocket. If you contact us, we may keep a record of that correspondence. Every page within the Article Rocket includes a link to this Privacy Policy.
+Your Article Directory Privacy Policy
 
-**What cookies are and how they are used**
+In order to demonstrate our firm commitment to you, our web site patrons and customers, we'd like to share our policies on information gathering, privacy, security, unsolicited email, and more... IP Addresses We use your IP address to help diagnose problems with our server, and to administer our site. Your IP address, should you decide to subscribe to our updates, is also used to prevent your registering twice due to temporary technical problems. Finally, your IP address may also be used to help verify that you are who you say you are. "Cookies" Upon your first visit to this web site, a "cookie" is sent to your computer. A cookie is a file that identifies you as a unique user. It stores personal preferences and user data. In no way does this tell us who you are. While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies via their browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Information Gathering This web site collects contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, to get in touch with the user when necessary, or to send out promotional emails for ebooks, reports, softwares, and any other offer ARTICLEROCKET.COM believes will help you succeed in your onlime business. Users may opt-out of receiving future mailings; see the opt-out/modify section below. Information Dissemination None of the information that is collected by this web site is rented or sold for any purpose whatsoever. Off-Site Links This site contains links to other sites. ARTICLEROCKET.COM is not responsible for the privacy practices or content of such sites. Opt-Out/Modify ARTICLEROCKET.COM provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. Please note that when you opt-out of our email database, your author's account will be terminated. You may do either one of the above in the following ways: [Contacting ARTICLEROCKET.COM HERE](http://www.articlerocket.com/contacts.php)
 
-As part of offering and providing customizable and personalized services, the Article Rocket may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the Article Rocket require that you accept cookies in order to work properly.
+[Article Directory Software](http://www.articledashboard.com/download.htm)  
+Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
 
-**Generally, we use cookies for the following purposes:**   
-(1) To identify and label all "new" articles since your last visit to the site.  
-(2) Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site.  
-(3) To enable you to "mark" articles that you want to save for future retrieval and viewing.
 
-Advertising networks that serve articles onto the Article Rocket may also use their own cookies.
+[ ](http://www.articledashboard.com/hosting.html)
 
-The Article Rocket may also collect IP addresses for system administration and to report aggregate information to our advertisers.
-
-**How your information is used**
-
-The primary goal of the Article Rocket in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the Article Rocket.
-
-**Who is collecting your information**
-
-When you are asked for personal information on the Article Rocket, you are sharing that information with the Article Rocket alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the Article Rocket. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise.
-
-**With whom your information may be shared**
-
-As a general rule, Article Rocket will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared.
-
-Article Rocket may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of Article Rocket or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the Article Rocket, other users of the Article Rocket, or anyone else that could be harmed by such activities. Article Rocket may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
-
-**What choices are available to you regarding collection, use, and distribution of your information**
-
-If you choose not to register or provide personal information, you can still use most of the Article Rocket, but you will not be able to access areas or use features that require registration.
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the Article Rocket that require registration in order to participate. These services include the identification of new articles that have been posted since your last visit, auto-fillin of the logon form, and the Favorites feature. You can still use most of the features of the Article Rocket even if you do not accept cookies.
-
-Article Rocket does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
-
-**How you can access, update or delete your information**
-
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you log on Article Rocket, your information will stay with you until or unless you click on the "Logoff" link, which is accessible from within the "My Profile" screen.
-
-If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means.
-
-Your Article Rocket account can be deleted, but doing so will result in not being able to access any of the features of the program that require user registration. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information.
-
-Other than the administrator of Article Rocket or other authorized personnel of Article Rocket, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access.
-
-We recommend that you do not divulge your password to anyone. Article Rocket will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in Article Rocket. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Article Rocket cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-**How Article Rocket protects children's privacy**
-
-Article Rocket is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. Article Rocket does not share personal information about users under the age of 18 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, Article Rocket will not send any direct email offers to users who indicate they are under the age of 18.
-
-**What else you should know about your online privacy**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in articles that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+Powered by [Article Dashboard](http://www.articledashboard.com/)
