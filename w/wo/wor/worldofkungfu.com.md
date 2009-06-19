@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the worldofkungfu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217084626id_/http%3A//www.worldofkungfu.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofkungfu.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035444id_/http%3A//www.worldofkungfu.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # World of Kung Fu Online Game Website | privacy
 
-|    
-  
 VestGame Entertainment adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998.
 
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at privacy@VestGame.com.
@@ -56,5 +54,3 @@ VestGame has taken steps to assure that all information collected will remain se
 If you have any questions or wish to file a complaint, please feel free to e-mail us at privacy@VestGame.com. By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the VestGame website will signify your acceptance of these changes. 
 
 This Privacy Policy was last updated on November 1, 2007. 
-
-| 
