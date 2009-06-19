@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/%3Fpage%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/%3Fpage%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Marvin Windows and Doors -
 
@@ -14,7 +14,7 @@ Portions of the Site permit users to contact Marvin with requests for informatio
 **Cookies/IP Addresses  
 ** Cookies are small files stored by your Web browser to help keep track of your user profile.  The Site uses cookies to remember a user's personal profile for the user's convenience and to deliver content specific to a user's needs and interests.  Marvin may also use cookies to provide faster service and to personalize a user's visit to the Site.  Marvin also uses cookies to track user trends and improve the Site for all users.  Marvin's cookies do not collect personally identifiable information, and are not shared with third parties.
 
-Marvin may collect and use users' Internet Protocol or "IP" Addresses and other site usage data to gather broad demographic information.  This data helps Marvin serve you by allowing Marvin to understand how visitors use the Site.  Marvin generally does not use IP addresses to identify a user.  Marvin, however, may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site's [Terms of Use](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/default.aspx?page=Terms) or to protect our service, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.
+Marvin may collect and use users' Internet Protocol or "IP" Addresses and other site usage data to gather broad demographic information.  This data helps Marvin serve you by allowing Marvin to understand how visitors use the Site.  Marvin generally does not use IP addresses to identify a user.  Marvin, however, may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site's [Terms of Use](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/default.aspx?page=Terms) or to protect our service, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.
 
 **2.  CONSENT TO PRIVACY STATEMENT/OPT-OUT**
 
@@ -22,11 +22,11 @@ By providing the information requested by the Site, or by continuing to use the 
 
 Marvin reserves the right to modify the Privacy Statement at any time without giving you prior notice.   Your use of the Site following any such modification constitutes your agreement to follow and be bound by the Privacy Statement as modified.  The last date the Privacy Statement was revised is set forth below.
 
-The Site provides users who have requested information from Marvin the opportunity to opt-out of receiving future communications from us.  If you do not wish to receive future communications from us, please e-mail your request to [Marvin Windows and Doors](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/default.aspx?page=Contact_us).
+The Site provides users who have requested information from Marvin the opportunity to opt-out of receiving future communications from us.  If you do not wish to receive future communications from us, please e-mail your request to [Marvin Windows and Doors](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/default.aspx?page=Contact_us).
 
 **3.  ACCESS/CORRECTION OF YOUR INFORMATION**
 
-Often, Marvin will not retain personal data it has collected from its users via the Site.  Nevertheless, you may request access to any data about you that Marvin has collected and stored by sending an e-mail request to [Marvin Windows and Doors](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/default.aspx?page=Contact_us). If you believe that an error has been made in the accuracy of the data collected from you, you may request that the information be corrected by sending a request to the addresses below.  Marvin will correct the error upon adequate verification of the error and the identity of the person seeking the correction.  In order to protect your privacy and security, we may need to take reasonable steps to verify your identity before granting access or making corrections.
+Often, Marvin will not retain personal data it has collected from its users via the Site.  Nevertheless, you may request access to any data about you that Marvin has collected and stored by sending an e-mail request to [Marvin Windows and Doors](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/default.aspx?page=Contact_us). If you believe that an error has been made in the accuracy of the data collected from you, you may request that the information be corrected by sending a request to the addresses below.  Marvin will correct the error upon adequate verification of the error and the identity of the person seeking the correction.  In order to protect your privacy and security, we may need to take reasonable steps to verify your identity before granting access or making corrections.
 
 **4.  SECURITY OF THE DATA COLLECTED**
 
@@ -41,7 +41,7 @@ The Site is not a secure Web site.  Marvin cannot and does not ensure or warran
 ** The Site contains links to other Web sites.   Each of these linked Web sites maintains its own independent privacy policies.  Marvin does not control and is not responsible for the privacy policies or the content of those Web sites.  When you leave the Site and access the Web sites of third parties, the privacy policies of the parties maintaining those Web sites apply.
 
 **Disclaimer of Liability  
-** Under no circumstances shall Marvin be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's accessing the Site, even if Marvin has been advised of the possibility of such damages.  This and the other sections in this Privacy Statement should be read in conjunction with and are subject to the [Terms of Use](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/default.aspx?page=terms).
+** Under no circumstances shall Marvin be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's accessing the Site, even if Marvin has been advised of the possibility of such damages.  This and the other sections in this Privacy Statement should be read in conjunction with and are subject to the [Terms of Use](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/default.aspx?page=terms).
 
 **6.  ENFORCEMENT/REDRESS** 
 
@@ -51,7 +51,7 @@ If for some reason you believe that Marvin has not adhered to the Privacy Statem
 
 If you have any questions about this Privacy Statement, the practices of this Site, or your dealings with this Site, you may contact us by:
 
-> 1. sending an e-mail request to [Marvin Windows and Doors](https://web.archive.org/web/20081218000253id_/http%3A//www.marvin.com/default.aspx?page=Contact_us)
+> 1. sending an e-mail request to [Marvin Windows and Doors](https://web.archive.org/web/20090619212214id_/http%3A//www.marvin.com/default.aspx?page=Contact_us)
 > 
 > 2. sending a letter via the U.S. Mail to:
 >
