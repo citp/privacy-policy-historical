@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102303id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022043id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Church Jobs, Pastor Jobs, Listings, Ministry Employment, Church Ministries, Pastors Openings
 
@@ -200,8 +200,9 @@ Salem may at any time amend, modify, restate, or revise this Privacy Policy by u
   * [Contact Us](https://web.archive.org/AboutUs.aspx)
   * [Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx)
   * [Terms of Use](https://web.archive.org/TermsOfUse.aspx)
-  * [Advertise With Us](https://web.archive.org/AdvertiseWithUs.aspx)
-  * [FAQ's](http://www.churchstaffing.com/faq/faq_CS/afmmain.aspx)
+  * [Customer Testimonials](https://web.archive.org/JobSeeker/CustomerTestimonials.aspx)
+  * [FAQ's](https://web.archive.org/#)
+  *  
 
 
 
