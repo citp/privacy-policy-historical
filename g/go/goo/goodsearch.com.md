@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035701id_/http%3A//www.goodsearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619094956id_/http%3A//www.goodsearch.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy : GoodSearch : Support your favorite charity or school.
+# Privacy Policy
 
 At GoodSearch, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use GoodSearch's services, as well as some of the steps we take to safeguard it.
 
