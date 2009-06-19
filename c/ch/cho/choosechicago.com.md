@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609192842id_/http%3A//www.choosechicago.com/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202451id_/http%3A//www.choosechicago.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
