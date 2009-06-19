@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic-hierarchy.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133011id_/http%3A//www.catholic-hierarchy.org/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic-hierarchy.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090058id_/http%3A//www.catholic-hierarchy.org/privpol.html) for the most accurate reproduction.*
 
 # Privacy Policy [Catholic-Hierarchy]
 
@@ -28,3 +28,13 @@ Cookies
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. This website uses cookies to track user traffic patterns (as described above). Third-party advertisers may use cookies to better track ad impressions and click rates. 
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. 
+
+## Google Advertising Cookie and Privacy Policies
+
+  * Google, as a third party vendor, uses cookies to serve ads on our sites. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
