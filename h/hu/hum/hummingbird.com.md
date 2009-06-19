@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hummingbird.com privacy policy that was archived on 2008-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080813174824id_/http%3A//www.hummingbird.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hummingbird.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619051754id_/http%3A//www.hummingbird.com/about/privacy.html) for the most accurate reproduction.*
 
 # Hummingbird Privacy and Security Policy
 
