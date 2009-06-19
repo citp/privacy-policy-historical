@@ -1,28 +1,7 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219185305id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161453id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
-| SITE NAVIGATION  
----  
-[Home](https://web.archive.org/homePage.pl)  
-[House](https://web.archive.org/House/House.html)  
-[Senate](https://web.archive.org/Senate/Senate.html)  
-[Calendars](https://web.archive.org/Calendars/Calendars.html)  
-[Committees](https://web.archive.org/gascripts/Committees/Committees.asp)  
-[Legislation/Bills](https://web.archive.org/Legislation/Legislation.html)  
-[Representation](https://web.archive.org/GIS/RandR07/Home.html)  
-[Legislative Library](https://web.archive.org/LegLibrary/)  
-[Fiscal Research  
-Division](https://web.archive.org/FiscalResearch/)  
-[Legislative Drafting  
-Division](https://web.archive.org/LDD/)  
-[Program Evaluation  
-Division](https://web.archive.org/PED/)  
-[NCGA Information](https://web.archive.org/NCGAInfo/NCGAInfo.html)  
-[Audio](https://web.archive.org/Audio/Audio.html)  
-[Citizen Guide](https://web.archive.org/CitizenGuide/CitizenGuide.html)  
-[Help](https://web.archive.org/gascripts/Help/Help.pl)  
-  
 Privacy Statement
 
 **Use of Information:
@@ -66,16 +45,25 @@ If you send us e-mail with a question or comment, we will use your e-mail addres
 **Length of Time Data Will Be Stored:**  
 Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we will store such information indefinitely. 
 
-|  | Shortcuts  
+|  | NCGA Division Links  
 ---  
+  
+  * [Legislative Library](https://web.archive.org/Library/index.html)
+  * [Fiscal Research Division](https://web.archive.org/FiscalResearch/)
+  * [Legislative Drafting Division](https://web.archive.org/LDD/)
+  * [Program Evaluation Division](https://web.archive.org/PED/)
+  * [Research Division](https://web.archive.org/RD/)
+  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
+  * [NCGA Career Opportunities](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
+
+  
+Shortcuts  
   
   * [General Statutes](https://web.archive.org/gascripts/statutes/Statutes.asp)
   * [Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
-  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
-  * [NCGA Job Vacancies](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
+  * [Help](https://web.archive.org/gascripts/Help/Help.pl)
 
   
-Search NCGA Web Site  
 Member Look Up  
 [Find Bills By Number](https://web.archive.org/gascripts/BillLookUp/BillLookUp.pl)  
   
@@ -87,4 +75,12 @@ Session:
   
 Who Represents Me?  
   
-Find your full 9 digit zip code
+Find your full 9 digit zip code  
+  
+[](https://web.archive.org/gascripts/Redirects/ExitDisclaimer.pl?http://www.nc.gov)
+
+[](https://web.archive.org/ncgainfo/educational/educational.html)
+
+[](https://web.archive.org/ncgainfo/ncslbts/ncslbacktoschool.html)
+
+[](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
