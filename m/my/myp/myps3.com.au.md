@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myps3.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619113009id_/http%3A//www.myps3.com.au/Privacy.aspx) for the most accurate reproduction.*
 
-# MyPS3 - The Best Australian PlayStation 3 Site
+# MyPS3 - The Best PlayStation 3 Community
 
 ## What is the Privacy Policy about?
 
@@ -42,7 +42,7 @@ Below are more details about how MyPS3 uses your personal information and the sp
 
   1. **Email Newsletters**
 
-Users of MyPS3 are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyPS3 send you or simply visit the [profile page](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/profile.aspx) to update your profile. 
+Users of MyPS3 are automatically registered to receive newsletters that we offer on a periodic basis. We do this to keep you informed of news, events, special offers, services or products that we believe you will find valuable. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter MyPS3 send you or simply visit the [profile page](https://web.archive.org/web/20090619113009id_/http%3A//www.myps3.com.au/profile.aspx) to update your profile. 
 
   2. **Co-registration with Other Sites**
 
@@ -67,7 +67,7 @@ Cookies are pieces of information that a website transfers to your computer for 
 
 To access, correct or update your account or other personal information such as your city or interests, please use the "Edit Profile" page at the site on which you are registered. 
 
-If you have any other questions, comments or complaints regarding this Policy, please contact MyPS3 administrator via [contact form.](https://web.archive.org/web/20081218143419id_/http%3A//www.myps3.com.au/contact.aspx)
+If you have any other questions, comments or complaints regarding this Policy, please contact MyPS3 administrator via [contact form.](https://web.archive.org/web/20090619113009id_/http%3A//www.myps3.com.au/contact.aspx)
 
 ## Storage and Security of Information
 
