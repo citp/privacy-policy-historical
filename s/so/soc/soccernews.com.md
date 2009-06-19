@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043423id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044602id_/http%3A//www.soccernews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@ Browse >
 
 [Home](http://www.soccernews.com/ "Browse to: Home") / Privacy Policy 
 
-**SoccerNews.com[Privacy Policy](http://www.soccernews.com/privacy/ "Privacy Policy")**
+**SoccerNews.com Privacy Policy**
 
-We at SoccerNews.com, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect [about](http://www.soccernews.com/about/ "about") individuals. The material below describes our [privacy policy](http://www.soccernews.com/privacy-policy/ "privacy policy") and describes how we treat the information we receive about you if you interact with any of our sites.
+We at SoccerNews.com, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
 
 **Why We Need to Know About You**  
 We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences.
