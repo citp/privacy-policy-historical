@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206075109id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085324id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // About // Mpora Extreme Sports
-
-**Privacy Policy**
 
 This Privacy Policy (the 'Policy') forms part of the Terms and Conditions for the access and use of this Website (the 'Terms') and should be read in conjunction with the Terms. Your access and use of this Website and any information you provide on the Website remains subject to the terms of this Policy and to our Terms.
 
