@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828211047id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213257id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
 
-# privacypolicy | GatorSports.com | The Gainesville Sun | Gainesville, FL
+# PRIVACYPOLICY | Gatorsports.com | The Gainesville Sun
 
 This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Gainesville Sun” include Gatorsports.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
-Third party sites that Gatorsports.com links to, such as Monster.com, are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
+Third party sites that Gatorsports.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
 In this Privacy Policy, you will find answers to the following questions:
 
@@ -31,7 +31,7 @@ The information we gather falls into two categories: 1) personal information you
 
 Anyone can view the Site, but a free registration process is required to access the full range of information and services we offer.
 
-Gatorsports.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex, household income to register. By using Gatorsports.com, you are agreeing to the terms of our [Member Agreement](https://web.archive.org/termsofservice).
+Gatorsports.com requires that you supply a unique e-mail address and demographic information (zip code, age, sex, household income to register. By using Gatorsports.com, you are agreeing to the terms of our [Member Agreement](https://web.archive.org/termsofservice)).
 
 ### Contests, Sweepstakes and Special Offers
 
@@ -81,7 +81,7 @@ The Gainesville Sun may perform statistical, demographic and marketing analyses 
 
 ### Products and Service Message from The Gainesville Sun
 
-From time to time, we may provide subscribers with information and offers about other products and services offered by The Gainesville Sun, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide subscribers with information and offers about other products and services offered by The Gainesville Sun, including subscriptions and other premium products and services. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out. To opt-out of offers by mail please go [here](https://www.formrouter.net/forms01@NYTRM/DNM.html).
 
 ### Banner Advertising
 
