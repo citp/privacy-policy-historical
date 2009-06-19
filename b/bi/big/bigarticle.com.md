@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigarticle.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218080347id_/http%3A//www.bigarticle.com//01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigarticle.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205205id_/http%3A//www.bigarticle.com//01privacy.php) for the most accurate reproduction.*
 
 # Submit, Share, Distribute News And Articles. Free free content, RSS and Javascript feeds.
 
@@ -22,7 +22,7 @@
 [Publishers](http://www.bigarticle.com/publisherguideline.php)  
 **Advertise Here**  
 [Contact Us to Advertise ](http://www.bigarticle.com/contactus.php)  
-[Our Links ](https://web.archive.org/web/20081218080347id_/http%3A//www.bigarticle.com//ourlinks.php)  
+[Our Links ](https://web.archive.org/web/20090619205205id_/http%3A//www.bigarticle.com//ourlinks.php)  
   
 This privacy statement was written to make clear our firm commitment to privacy. The following document explains the practices employed by us to gather and disseminate information. 
 
