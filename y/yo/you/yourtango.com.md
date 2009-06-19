@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219012207id_/http%3A//yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050301id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
 
 # Tango Publishing Corporation Privacy Policy | YourTango | smart talk about love
 
