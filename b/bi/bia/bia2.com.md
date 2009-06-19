@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033824id_/http%3A//www.bia2.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619220346id_/http%3A//www.bia2.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bia2.com
-
-###    
-Privacy Policy  
-
 
 Bia2! respects your right to the privacy of the personal information you provide us on our Web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to Bia2! will be known only to two parties: you and Bia2!. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
