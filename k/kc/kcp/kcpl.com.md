@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530221129id_/http%3A//kcpl.com/reports/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619165345id_/http%3A//www.kcpl.com/reports/privacy.html) for the most accurate reproduction.*
 
 # KCP&L, Kansas City electric company
 
-| 
+|  | 
 
 **This site is best viewed with an 800 x 600 display setting.**  
   
@@ -17,14 +17,14 @@ In order to use the secure portion of this Web site, where you can view account 
 **Log Files**  
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
 We sometimes link this automatically-collected data to personally identifiable information in order to troubleshoot problems and to provide customer support assistance to users of our Web site. 
 
 **Cookies**  
-A [cookie](https://web.archive.org/web/20080530221129id_/http%3A//kcpl.com/reports/cookie.html) is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. 
+A [cookie](https://web.archive.org/web/20090619165345id_/http%3A//www.kcpl.com/reports/cookie.html) is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
-We set a persistent cookie to give you the option to store your user ID, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to give you the option to store your user ID, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited. 
 
@@ -73,7 +73,7 @@ We use appropriate anti-virus software and take precautions to ensure that this 
 **Controlling Spam and Unsolicited Emails**  
 We are concerned about controlling unsolicited commercial email, or "spam". We will not sell, lease or rent our email subscriber lists to third parties. While we continue to actively review and implement new technology and filtering features, there is currently no technology available that will completely prevent the sending and receiving of unsolicited email. We encourage you to be cautious about sharing your email address while online and recommend employing tools such as spam filters.
 
-**Children’s Privacy**  
+**Children's Privacy**  
 This Web site contains energy-related information that may be of educational interest to children. We do not intend to gather personal information online from or about children. We encourage all children and young teens to seek consent from their parents before providing any information about themselves or their households to anyone on the Internet.
 
 **Security**  
