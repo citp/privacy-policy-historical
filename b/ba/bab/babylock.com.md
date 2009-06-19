@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babylock.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219000554id_/http%3A//www.babylock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylock.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202326id_/http%3A//www.babylock.com/privacy-policy) for the most accurate reproduction.*
 
-# Baby LockPrivacy Policy
+# Baby Lock Privacy Policy
 
 Baby Lock USA takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
