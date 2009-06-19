@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095140id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211710id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
 
 # The Conservative Party | Privacy
 
