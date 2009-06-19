@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adult.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908013705id_/http%3A//www.adult.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adult.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619103447id_/http%3A//premium.adult.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Adult.com - Privacy Policy
 
