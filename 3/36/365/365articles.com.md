@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365articles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125521id_/http%3A//www.365articles.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365articles.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620003809id_/http%3A//www.365articles.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # DIGITAL MELLINIUM ACT OF 1998
 
