@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095638id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213013id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # InvisionFree - Our service's privacy policy
 
@@ -32,7 +32,7 @@ We have strict policies against spam mail being sent to you from an InvisionFree
 
 ### Cookies:
 
-Cookies are used to enhance your board visit. You may disable cookies if you wish via your browser settings or a third party program. This may affect you ability to use various site feature or login. Our ad providers may also use cookies to rotate banner ads.
+Cookies are used to enhance your board visit. You may disable cookies if you wish. Our ad providers may also use cookies to rotate banner ads.
 
   
 
@@ -46,13 +46,13 @@ No user that is under 13 may register a board. To register on a board, anyone un
 
 ### Third Party Advertising:
 
-InvisionFree uses third party advertising companies to serve ads when you visit our web site. These third party advertising companies may collect and use information about your visits to InvisionFree as well as other web sites via web beacons or cookies.  
-InvisionFree.com and it's advertisers may use non-personally identifiable information to provide advertisements about goods and services that may be of interest to the user. More information about these practices is available at <http://networkadvertising.org/managing/opt_out.asp> If you would like more information please visit the following link: 
+InvisionFree uses third party advertising companies to serve ads when you visit our web site. These third party advertising companies may collect and use information about your visits to InvisionFree as well as other web sites. If you would like more information please visit the following link: 
 
-  * [Google](http://www.google.com/privacy.html)
-  * [Blue Lithium](http://www.bluelithium.com/privacy_policy.html)
+  * [Google](http://www.google.com/privacy_ads.html)
 
 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
 
 Note: By signing up with InvisionFree, you agree to the terms of the following advertisers listed above in addition to the terms of InvisionFree's privacy policy. 
 
@@ -61,7 +61,7 @@ Note: By signing up with InvisionFree, you agree to the terms of the following a
 
 ### Modifications to our Policy:
 
-InvisionFree may update and revise this privacy policy. We will inform users of any changes.
+InvisionFree may update and revise this privacy policy. We will inform users of any material changes.
 
 ### Parental Controls:
 
