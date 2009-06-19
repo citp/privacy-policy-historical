@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emailroi.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217063426id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emailroi.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619060519id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" href="http://www.eroi.com/modules/Album/css/stylesheet.css">
@@ -40,10 +40,13 @@
 
 <script type="text/javascript" src="uploads/js/mootools.js"></script>
 
-<script type="text/javascript" src="uploads/js/mootabs1.1.js"></script>
-<script type="text/javascript" src="uploads/js/newsletter.js"></script>
-<script type="text/javascript" src="uploads/js/menu.js"></script>
-<script type="text/javascript" src="uploads/js/login.js"></script>
+<script type="text/javascript" src="/uploads/js/mootabs1.1.js"></script>
+<script type="text/javascript" src="/uploads/js/newsletter.js"></script>
+<script type="text/javascript" src="/uploads/js/menu.js"></script>
+<script type="text/javascript" src="/uploads/js/login.js"></script>
+<script type="text/javascript" src="/uploads/js/jquery.js"></script>
+<script type="text/javascript" src="/uploads/js/jquery-ui-personalized-1.6rc2.min.js"></script>
+<script type="text/javascript" src="/uploads/js/newheader.js"></script>
 
 <!--[if lt IE 7]>
 <link href="/styles/iefix.css" rel="stylesheet" type="text/css" />
@@ -55,10 +58,13 @@
 
 	<!-- HEADER -->
 
-	<div id="headerContainer">
+	<div id="headerContainer" class="headerExpand">
+
+        <div id="headerContainerTopCenter"></div>
 	<div id="header">
 
 <div id="logo"><a href="/"></a></div>
+
        <div id="nav">
 
 <ul id="navLeft">
@@ -71,40 +77,88 @@
     <li id="contact"><a href="/contact-eroi/contact-info/"><span>Contact Us</span></a></li>
 </ul>
 <div style="position:relative;">
-<ul id="navRight">
-    <li id="login"><a onclick="ShowForm()"><span>Client login</span></a></li>
-    <li id="loginTab"><a onclick="ShowForm()"><span>Client login</span></a></li>
 
+<ul id="navRight">
+                    <li id="search"><a><span>Search</span></a></li>
+                    <li id="login"><a><span>Login</span></a></li>
 </ul>
 
-<!-- Login Box -->
-<div id="loginBox">
-    <a class="close_link" onclick="ShowForm()"></a>	
-<div id="loginContent"> 	<form action="http://emailer.emailroi.com/dbadmin/non_icemaker_enter.pl" method="post" name="loginform" id="loginform">
-    <input type="hidden" name="command" value="nwPro"> 	<input type="hidden" name="supplierID" value="472"> 
-    <select name="product" onchange="javascript: lAction(this.value);">
-    <option value="emailROI">emailROI</option>
-    <option value="ecomROI">ecomROI</option>
-    <option value="eventROI">eventROI</option>
-    <option value="blogROI">MovableType</option>
-    <!--<option value="blogROI">WordPress</option>
-    <option value="blogROI">CMS Made Simple</option>-->
-    </select>
-    <ul><li><label>Username</label> 	<input type="text" name="username" id="username" size="12" maxlength="120" class="textbox"> 	</li>
-    <li><label>Password</label> 	<input type="password" name="password" id="password" size="12" maxlength="120" class="textbox"> 	</li></ul>
-    <input type="image" name="go" src="/images/login-submit.gif" alt="Submit">
-</form>
-</div>
-
-</div>
 
 </div>
 
        </div>
-		
-	<div class="clear"></div>
+		<div class="clear"></div>
+	
+<!-- Login Search -->
+  <div id="expandContent">
+         
+
+
+                    <div id="clientLog">
+                    <form action="http://emailer.emailroi.com/dbadmin/non_icemaker_enter.pl" method="post" name="loginformExpand" id="loginformExpand">
+                         <ul>
+                            
+
+                            
+                            	<li id="login_select">
+ <input type="hidden" name="command" value="nwPro"> 	<input type="hidden" name="supplierID" value="472">
+                                    <select id="selectList" onchange="javascript: lAction(this.value);" name="product">
+                                        <option value="emailROI">emailROI</option>
+                                        <option value="ecomROI">ecomROI</option>
+                                        <option value="eventROI">eventROI</option>
+                                        <option value="blogROI">MovableType</option>
+                                    </select>
+                                </li>
+                                
+                                <li id="login_username"><div><span>Username</span></div>
+                                <input id="userName" class="textbox" type="text" maxlength="120" size="12" name="username" value="">
+                                </li>
+                                
+                                <li id="login_password"><div><span>Password</span></div>
+                                <input id="passWord" class="textbox" type="password" maxlength="120" size="12" name="password" value="">
+                                </li>
+                                <li id="login_button">
+                                <input class="subBtn" type="image" alt="Submit" src="/uploads/images/login_submit.jpg" name="go">
+                                </li>
+                                
+                          
+                        </ul>
+                         </form>    
+                    </div>
+                    
+                    <div id="searchBox">
+
+<form action="http://www2.eroi.com/s/264/25bc0e4293fc1fd3981e8b3a2a69016c" id="cse-search-box" method="post">
+
+    <input type="hidden" name="cx" value="000178533873599997892:e1fb-ud5j7w">
+
+    <input type="hidden" name="cof" value="FORID:9">
+
+    <input type="hidden" name="ie" value="UTF-8">
+<ul>
+
+     <li>
+<input class="textbox" type="text" name="q">
+     </li>
+
+     <li>
+<input type="image" class="subBtn" name="sa" value="Submit" src="/uploads/images/login_submit.jpg">
+     </li>
+
+</ul>
+
+
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+                    </div>
+
+ </div>
 	</div>
 	</div><!-- end headContainer -->
+
+       <div id="headerContainerBottom"><div id="headerContainerBottomCenter"></div></div>  
 
 
 	<!-- CONTENT -->
@@ -327,10 +381,10 @@
     <li><a href="/miscellaneous/terms/">Terms</a></li>
     <li><a href="/miscellaneous/anti-spam-policy/">Anti-Spam Policy</a></li>
     <li><a href="/site-map/">Site Map</a></li>
-    <li class="rss"><a href="http://feeds.feedburner.com/feedrinse/mHbS" target="_blank"></a></li>
+    <li class="rss"><a href="http://feeds.feedburner.com/feedrinse/mHbS" target="_blank"><img src="/uploads/images/icon-rss-gray-footer.gif" border="0"></a></li>
 </ul>
 <br>
-<p class="copyright">© 2004-2008 eROI, Inc. All Rights Reserved. 505 NW Couch, Suite 300, Portland, OR 97209 &nbsp; TEL 503.221.6200</p>
+<p class="copyright">© 2004-2009 eROI, Inc. All Rights Reserved. 505 NW Couch, Suite 300, Portland, OR 97209 &nbsp; TEL 503.221.6200</p>
 </div>
 			
 			<div class="clear"></div>	
@@ -355,10 +409,13 @@ urchinTracker();
 		piCId = "6824";
 		piHostname = "www2.eroi.com";
 		piTracker();
+                piPoints = "1";
 	-->
-</script> 
+</script>
+
+ 
 
 
-<!-- Generated in 0.517452 seconds by CMS Made Simple using 25 SQL queries -->
+<!-- Generated in 0.551049 seconds by CMS Made Simple using 25 SQL queries -->
 <!-- CMS Made Simple - Released under the GPL - http://cmsmadesimple.org -->
 </body></html>
