@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218042550id_/http%3A//www.atomicmpc.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052531id_/http%3A//www.atomicmpc.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy Policy > Atomic
+# Privacy Policy - Atomic MPC
 
 Haymarket Media Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
