@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112554id_/http%3A//www.protectamerica.com/pa/priv_p/protect-america) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619033704id_/http%3A//www.protectamerica.com/pa/priv_p) for the most accurate reproduction.*
 
 # Protect America - Protect America Home Security - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Effective:** May 17, 2005
 
-**Last Updated:** February 14, 2008
+**Last Updated:** February 10, 2009
 
 [Protect America](http://www.protectamerica.com/ "Protect America Home | www.protectamerica.com"), Inc. is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
@@ -31,6 +31,12 @@ The security of your personal information is important to us. When you enter sen
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at [webmaster@protectamerica.com](mailto:webmaster@protectamerica.com "Protect America | Email: Webmaster").
+
+## Phone Call Information
+
+If you call a telephone number listed on our Web site, we may collect Personal Information from you, including your name and telephone number through caller identification and reverse call technology. We also may record the telephone conversation. We record the telephone conversation to track the performance of our advertisements and for quality assurance purposes. We do not record the calls for the purpose of collecting your Personal Information. If we record the telephone conversation, we will notify you before the conversation begins. In addition to ProtectAmerica.com, the only parties that have access to the recording are the telephone service provider and ProtectAmerica.com contractors and affiliates who assist strictly in the efforts described in this paragraph, and who are bound by confidentiality.
+
+I am genuinely interested in a GE Security System to protect my home and family. By providing my contact information and telephone number, I expressly authorize ProtectAmerica.com or their affiliates to contact me at the telephone number that I have provided and/or the email address that I have provided in respect to this offer and any new offers made available in the future, even though I may have previously chosen to have the telephone number that I provided or the email address that I provided added to any Do-Not-Call List or anti-spam list including the lists maintained by ProtectAmerica.com or their affiliates or any local, state, or federal government agency. I further acknowledge that by submitting this request, ProtectAmerica.com or their affiliates have my permission to contact me via telephone and/or email.
 
 ## Use of Collected Information
 
