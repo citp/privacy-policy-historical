@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035317id_/http%3A//www.clipclip.org/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620004833id_/http%3A//www.clipclip.org/message/private_policy) for the most accurate reproduction.*
 
 # : clipclip
 
@@ -44,7 +44,10 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * Display the most appropriate advertising banners, based on your interests and activity on CoolChaser.
     * Estimate and report our total audience size and traffic.
     * Conduct research to improve CoolChaser's content and services.
-    * CoolChaser lets other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to CoolChaser's cookies.
+  * We use third-party advertising companies (such as Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+    * Google, as a third party vendor, uses cookies to serve ads on your site.
+    * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_cookies.html)
 
 
 
