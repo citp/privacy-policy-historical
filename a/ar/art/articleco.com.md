@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleco.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063722id_/http%3A//www.articleco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleco.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619133317id_/http%3A//www.articleco.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleCo.com
 
@@ -36,7 +36,7 @@ ArticleCo.com does not knowingly collect or solicit Personally Identifiable Info
 
 **Contacting Us**
 
-We can be reached by using our online [contact form](https://web.archive.org/web/20081218063722id_/http%3A//www.articleco.com/contacts.php).
+We can be reached by using our online [contact form](https://web.archive.org/web/20090619133317id_/http%3A//www.articleco.com/contacts.php).
 
 **Changes to this Policy**
 
