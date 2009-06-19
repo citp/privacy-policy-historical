@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218000515id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050448id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
-# Queensland Government Privacy Statement : Queensland Government
+# Privacy : Queensland Government
 
-## Queensland Government Privacy Statement
-
-**Your privacy**
+## Your privacy
 
 This is the Queensland Government's website. We are committed to protecting user privacy. We understand that visitors and users of this website are concerned about their privacy, and the confidentiality and security of any information that is provided.
 
-**Information collected on the Queensland Government website**
+## Information collected on the Queensland Government website
 
 Unless you specifically tell us, the Queensland Government website will never know who you are.
 
@@ -35,9 +33,9 @@ Our web measurement software uses cookies when collecting this information.
 
 No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect our service providers' logs.
 
-The transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction. In particular, it is recommended that you read the Smart Service Queensland [privacy page](https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm) before commencing an online transaction using that site.
+The transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction. In particular, it is recommended that you read the Smart Service Queensland [privacy page](https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm) before commencing an online transaction using that site.
 
-**Email**
+## Email
 
 Email correspondence sent to [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations.
 
@@ -47,12 +45,12 @@ Our Internet Service Provider may monitor email traffic for system trouble shoot
 
 Providing feedback through the email [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au) does not in any way affect your access to Queensland Government websites.
 
-**Security**
+Back to top
+
+## Security
 
 This site does not provide facilities for securely transmitting information across the Internet. We recognise that there can be risks with transmitting information across the Internet.
 
 This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of such websites.
 
-**Contact**
-
-If you have any queries about our privacy and security practices, please contact [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au).
+Last updated 28 January 2009
