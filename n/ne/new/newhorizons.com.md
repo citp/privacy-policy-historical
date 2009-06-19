@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022354id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044939id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,6 +103,7 @@ Questions or suggestions regarding this statement, the practices of this site, o
 or
 
 Privacy Liaison  
-New Horizons Computer Learning Centers Inc.,  
-1900 S. State College Blvd. Suite 650,  
-Anaheim, CA 92806
+New Horizons Computer Learning Centers, Inc.  
+1900 S. State College Blvd. Suite 120  
+Anaheim, CA 92806-6135  
++1 (714) 940-8000
