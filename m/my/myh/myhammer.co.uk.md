@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030536id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619130810id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# Find Local Tradesmen For Any Job - For Free!
+# Find a Tradesman or Handyman For Any Job - For Free!
 
-**Beware:** In order to save or print the Privacy Policy in text form, you must view it as a PDF. In order to open PDF documents you need to download the free Adobe® Acrobat® Reader software. You can download this on their website.   
-[PDF file](http://static.myhammer.com/live/structure/privacy_2008.pdf)
+Status: 12.12.2008 (The previous version of the Terms & Conditions can be accessed [here](https://web.archive.org/web/20090619130810id_/http%3A//www.myhammer.co.uk/showPage.php?id=privacy_20081210).) 
+
+If you want to save or print this document you can download it as a [PDF-file](http://static.myhammer.com/live/structure/081212_privacy.pdf) and save the file to a suitable location on your computer.   
+To open the document you may need to install a suitable viewer, such as Adobe Acrobat Reader. Adobe Acrobat Reader can be downloaded for free from [Adobe’s website](http://www.adobe.com/products/acrobat/readstep2.html) . 
 
 **Please note:  
 By registering or using the MyHammer website you consent to the collection, use and transfer of your information under the terms of this privacy policy. **
@@ -12,7 +14,7 @@ By registering or using the MyHammer website you consent to the collection, use 
 
 When you visit and use the MyHammer website, depending on the type of use, various items of information regarding your PC system, your personal details and your usage will be transmitted to MY-HAMMER Aktiengesellschaft.   
 In the privacy policy below we explain which items of information and personal data are concerned and how we use them. Please take the time to read it carefully.  
-In this privacy policy we use certain terms defined in our terms and conditions. These include the terms MyHammer, Enquiry, Job, Quotation Procedure, User, Member, Membership Agreement, Customer, Bidder, Contractor, Fees for Use and so on. Rather than repeating the definitions in this privacy policy, when used in this privacy policy those terms will have the same meaning as in the terms and conditions.  
+In this privacy policy we use certain terms defined in our [Terms and Conditions](http://www.myhammer.co.uk/showPage.php?id=terms). These include the terms MyHammer, Enquiry, Job, Quotation Procedure, User, Member, Membership Agreement, Customer, Bidder, Contractor, Fees for Use and so on. Rather than repeating the definitions in this privacy policy, when used in this privacy policy those terms will have the same meaning as in the terms and conditions.  
 **The most important thing however at this point:** Sensitive and responsible handling of your personal data is a fundamental part of a reliable customer-oriented business activity. Even at the data collection stage the principle of obtaining only what is necessary is very important. We collect and use personal data only insofar as absolutely necessary for using MyHammer or implementing the contractual relationship, as prescribed by law, or as you allow us. **We will not pass on any personal data to unauthorised third parties without your consent.**  
 This privacy policy only applies if you enter the MyHammer website directly. If you enter the MyHammer site via external websites which are not offered by MY-HAMMER Aktiengesellschaft itself but by third parties, (e.g. via affiliated partners), this privacy policy does not apply. In such cases please contact the service provider concerned with regard to privacy policy matters.  
 
@@ -62,7 +64,7 @@ You can adjust your browser to tell you in advance when you receive a cookie, so
 
 ##### 4.4
 
-When you log-off completely from MyHammer or, if you have not accessed anything else after logging in, when you close the browser, the session cookies we have set are automatically deleted by your web browser, depending on its settings. The permanent cookies only work for one month, after which time they will be automatically deleted or become inactive. 
+When you log-off completely from MyHammer, the session cookies and permanent cookies we have set are automatically deleted by your web browser, depending on its settings. If you close the web browser without having logged-off before, only the session cookie will be deleted. In contrast, a permanent cookie you have set will remain. Permanent cookies only work for one month, after which time they will be automatically deleted or become inactive in any case. 
 
 Top of Page
 
@@ -94,7 +96,7 @@ Top of Page
 
 ##### 6.1.1
 
-"I consent to MY-HAMMER Aktiengesellschaft collecting, using and communicating my personal data to third parties according to the above privacy policy. This applies accordingly whether or not we have entered into a Membership Agreement. 
+"I consent to MY-HAMMER AG (Contact Data: MyHammer-Homepage > About us > [Company Details](http://www.my-hammer.de/showPage.php?id=impressum) ) collecting, using and communicating my personal data to third parties according to clause 5.2 and 5.3 of the above privacy policy. This applies accordingly whether or not we have entered into a Membership Agreement. 
 
 ##### 6.1.2
 
@@ -110,7 +112,7 @@ I consent to MY-HAMMER Aktiengesellschaft contacting me by e-mail, telephone or 
 
 ##### 6.2
 
-You can **withdraw** the consent granted above for processing your data at any time with future effect. In addition you have a right, free of charge, to information about, correction or blocking of, and if appropriate deletion of, your stored data. Insofar as you voluntarily supplied the data and it is no longer needed to carry out Quotation Procedures or to implement the Membership Agreement or anything else, you can delete it yourself via your Member’s account. Insofar as it concerns information necessary to use MyHammer, this can only be deleted when the Membership Agreement is terminated as set out in our terms and conditions. For cancellation or other queries on deleting your data please contact us. 
+You can **withdraw** the consent granted above for processing your data at any time with future effect. In addition you have a right, free of charge, to information about, correction or blocking of, and if appropriate deletion of, your stored data. Insofar as you voluntarily supplied the data and it is no longer needed to carry out Quotation Procedures or to implement the Membership Agreement or anything else, you can delete it yourself via your Member’s account. Insofar as it concerns information necessary to use MyHammer, this can only be deleted when the Membership Agreement is terminated as set out in our [Terms and Conditions](http://www.myhammer.co.uk/showPage.php?id=terms). For cancellation or other queries on deleting your data please [contact us](http://www.myhammer.co.uk/contact.php). 
 
 Top of Page
 
@@ -118,6 +120,6 @@ Top of Page
 
 ##### 7.1
 
-Please direct further questions on privacy policy matters to the MyHammer company data protection officer whose name and contact details appear in the Company Details. 
+Please direct further questions on privacy policy matters to the MyHammer company data protection officer whose name and contact details appear in the [Company Details](http://www.myhammer.co.uk/showPage.php?id=impressum). 
 
 Top of Page
