@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115934id_/http%3A//www.scratch99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619051415id_/http%3A//www.scratch99.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | More Than Scratch The Surface
 
@@ -39,5 +39,3 @@ This site contains links to other sites. Please be aware that this site is NOT r
 If you have any questions or concerns, please contact me using the [Contact Form](http://www.scratch99.com/contact/). 
 
 _Privacy policy last updated August 2008._
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
