@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the sinrex.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161308id_/http%3A//www.sinrex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinrex.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619062500id_/http%3A//www.sinrex.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://server.iad.liveperson.net/hc/29442436/?cmd=file&file=visitorWantsToChat&site=29442436&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Small/2c)
+
+[](https://web.archive.org/web/20090619062500id_/http%3A//www.sinrex.com/products.php)
+
+[](https://web.archive.org/web/20090619062500id_/http%3A//www.sinrex.com/bonus-offers.php)
+
+| 
 
 **SinRex.com** recognizes the importance of protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy while visiting our site, and how they may affect you as a user of our affiliate program.
 
