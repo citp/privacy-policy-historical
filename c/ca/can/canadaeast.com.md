@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630051250id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadaeast.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090741id_/http%3A//www.canadaeast.com/onsite.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# canadaeast.com - Breaking News, New Brunswick, Canada
+# canadaeast.com - Privacy Policy - Breaking News, New Brunswick, Canada
 
-**Last Updated** : July 17, 2007
+**Last Updated** : May 08, 2009
 
 Welcome to our site. CanadaEast Interactive has created this Privacy Policy in order to document and communicate our commitment to doing business with the highest ethical standards and appropriate internal controls.
 
 Our Privacy Policy is designed to give you, the user, more information on how information is collected, used and disclosed through this site. This document, together with our [Terms of Use](https://web.archive.org/onsite.php?page=legal) and [Copyright Information](https://web.archive.org/onsite.php?page=copyright) govern our affiliates, partners, advertisers and CanadaEast Interactive's relationship with you in relation to this website. Please read them carefully.
 
-The term "CanadaEast" or "us" or "we" refers to the owner of the web site, CanadaEast Interactive, whose registered office is 939 Main Street, Moncton, New Brunswick E1C 8P3.
+The term "CanadaEast" or "us" or "we" refers to the owner of the web site, CanadaEast Interactive, whose registered office is 939 Main Street, Moncton, New Brunswick E1C 8P3. CanadaEast is a division of Brunswick News Inc. of the same address.
 
 The term "CE Network" refers collectively to sites owned by or managed by CanadaEast Interactive. The term "you" refers to the user or viewer of our website or any persons with accessibility to this web site.
 
@@ -28,15 +28,15 @@ CE Network collects and stores various information depending on the page you are
 
 You may visit many pages on our site without providing any Personally Identifiable Information. Personally Identifiable Information is collected by the CE Network only when you specifically and knowingly choose to provide it to us. 
 
-You may optionally choose to provide information, such as when you register for access to portions of our site, subscribe to premium services, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also choose to provide Personally Identifiable Information when you participate in sweepstakes and contests, voting and polling activities, comments, discussions, message boards and chat rooms and other interactive areas of our site.
+You may optionally choose to provide information, such as when you register for access to portions of our site, subscribe to premium services, request certain features, sign up for a newspaper subscription or make a purchase. You may also choose to provide Personally Identifiable Information when you participate in sweepstakes and contests, voting and polling activities, comments, discussions, message boards and chat rooms and other interactive areas of our site.
 
 Like most web sites, CE Network also collects information automatically and through the use of electronic tools that may be transparent to our visitors. As an example, we may log the name of your Internet Service Provider or use "cookie" technology. This information can not be used to identify you and is referred to as "Aggregated Information".
 
-Information that has been disclosed CE Network as provided by another user, for example email addresses utilized when using out shared feature, are not collected or stored by CE Network. CE Network does not maintain databases of these email addresses. If you wish to not receive share email notices from CE Network visitors, you may be blocked by contacting CE Network.
+Information that has been disclosed through CE Network as provided by another user, for example email addresses utilized when using our "Share" feature, are not collected or stored by CE Network. CE Network does not maintain databases of these email addresses. If you wish to not receive share email notices from CE Network visitors, you may be blocked by contacting CE Network.
 
 ## C. Use of Your Information
 
-We will use your information only as permitted by law. Aggregated Information may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+We will use your information only as permitted by law. Aggregated Information may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners.
 
 Collected Personally Identifiable Information may be used to enhance your visit and deliver more individualized content and advertising. We may use Personally Identifiable Information collected on CE Network to communicate with you regarding your account, subscription and premium services, our Terms of Service and Privacy Policy, products and services offered by CE Network and other CanadaEast affiliates, advertisers and partners, administration of sweepstakes and contests, processing e-commerce transactions and execution of other site operations included in our services or requested by you. We reserve the right to share this information with other CanadaEast Interactive business units and affiliates, including for example our affiliated newspapers and entities in which CanadaEast has an ownership interest.
 
@@ -58,13 +58,11 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 ## E. Security
 
-CE Network is committed to protecting your privacy. Security measures, such as locked cabinets, change control procedures, restricted access and the use of passwords and encryption have been adopted to protect your personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy at all times and those employees with access to your personal information shall use your personal information strictly in accordance with this Privacy Policy and the laws applicable to each specific business.
+CE Network is committed to protecting your privacy. Security measures, such as locked cabinets, change control procedures, restricted access and the use of passwords and have been adopted to protect your personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. Our employees have been trained to respect your privacy at all times and those employees with access to your personal information shall use your personal information strictly in accordance with this Privacy Policy and the laws applicable to each specific business.
 
 ## F. Avoiding Fraud
 
-CE Network and our affiliates, partners and partners will never solicit you by email, telephone or means and request that you log in to the site to update personal information, confirm a purchase or otherwise confirm or disclose Personally Identifiable Information. 
-
-Go directly to our website by typing it into your web browser or using a bookmark before logging in. Never click on a link in an email that takes you to a CE Network log in page. CE Network will never send you an email with a direct log in link.
+CE Network and our affiliates and partners will never solicit you by email, telephone or other means and request that you log in to the site to update personal information, confirm a purchase or otherwise confirm or disclose Personally Identifiable Information.
 
 If you believe that you are being targeted by a fraudulent communication, please contact us immediately so that we may investigate. If you have been the victim of a fraudulent communication and have mistakenly provided a userID or password that may allow persons to exploit your Personally Identifiable Information, contact us immediately so that we may disable access.
 
@@ -93,3 +91,5 @@ If you have any questions, comments, concerns or requests regarding this policy 
 Moncton, New Brunswick E1C 8P3
 
 Canada
+
+Email: info@canadaeast.com
