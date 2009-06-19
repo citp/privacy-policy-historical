@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218072216id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035821id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
 
-# Purity Products
+# Purity Products - Privacy Policy
 
 **At Purity Products we are committed to protecting your privacy. Below you will find our Privacy Policy and measures we take to protect your personal information.**
 
@@ -12,3 +12,5 @@ We employ the Internet's strongest security technologies, including Secure Socke
 
 **3. Will Purity Products disclose the information it collects to outside parties?**  
 From time to time, Purity Products may share customer information -- never credit card information or email address -- with trustworthy third parties in order to provide you offers or services which might be of value to you. If you wish to opt out of this feature please call customer care at 888-769-7873 or email your preference to [customercare@purityproducts.com](mailto:customercare@purityproducts.com).
+
+Purity Products® - 200 Terminal Drive, Plainview, NY 11803
