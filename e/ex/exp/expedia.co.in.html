@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the expedia.co.in privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219142611id_/http%3A//www.expedia.co.in/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expedia.co.in privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619201619id_/http%3A//www.expedia.co.in/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
 
-<!-- srvpush 06:26:10(:317) -->
+<!-- srvpush 13:16:18(:515) -->
 
 
 
@@ -21,6 +21,13 @@
 
 
 
+
+
+
+
+
+
+ 
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <basefont face="Arial, Helvetica, Sans Serif">
 
@@ -709,6 +716,36 @@ function FreeEventsOnUnLoad()
 }
 
 
+function GetCurrentFormState(szFormName)
+{
+	var curForm;	
+	var szFormState = "";
+	
+	//If no form name is supplied, grab the first form after the toolbar form.
+	if (szFormName == undefined)
+	curForm = document.forms[1]; 
+	else
+	curForm = document.forms[szFormName];
+
+	for (var iElement=0; iElement < curForm.elements.length; iElement++)
+	{
+	var fAddElement = true;
+	var CurrElement = curForm.elements[iElement];
+	if ((CurrElement.type == "radio" || CurrElement.type == "checkbox") && CurrElement.checked != true)
+	{
+	fAddElement = false;
+	}
+	if (fAddElement)
+	{
+	szFormState += "&" + CurrElement.name + "=" + CurrElement.value;
+	}
+	}
+	
+	return szFormState;
+}
+
+
+
 
 
 
@@ -720,12 +757,6 @@ function WriteCookie(c)
 {
 	document.cookie=c
 }
-
-
-
-
-
-
 
 
 //-->
@@ -755,6 +786,13 @@ function WriteCookie(c)
 	
 
 <script src="/pubspec/Scripts/Include/virtualTour.js" type="text/javascript"></script>
+
+
+
+
+
+
+
 
 
 
@@ -792,43 +830,44 @@ function WriteCookie(c)
 
 
 
+
+
+
 <style type="text/css">
 	<!--
 	/* Header */
 	#Header{width:770px;}
 	#Header #ExpediaLogo{width:223px; height:69px; float:left; margin:0; padding:0; text-indent:-9000px; background-image:url(http://media.expedia.com/media/content/expind/images/expedia_logo.jpg); cursor:hand;margin-top:5px;}
-	#Header #BannerAd{width:468px; float:right;}
-
+	#Header #Banner{width:468px; float:right;}
 	#Header #Tabs ul {width:770px;list-style-type: none; padding: 0px; font-size: 13px; line-height: 21px; font-weight: bold; clear: both; margin: 0 0 0 50px;}
 	#Header #Tabs li {background-color: #336393; display: block; margin: 0px; margin-right: 4px; height: 21px; text-align: center; line-height: 21px; float: left;font-size: 13px !important; }
 	#Header #Tabs a {background-image: url(http://media.expedia.com/media/content/expind/images/nav/blue_left.gif); background-repeat: no-repeat; background-position: left top; padding-left: 12px; display: block; color: #FFFFFF; text-decoration:none;}
 	#Header #Tabs a span {background-image: url(http://media.expedia.com/media/content/expind/images/nav/blue_right.gif); background-repeat: no-repeat; background-position: right top; display: block; padding-right: 12px;}
 	#Header #Tabs .Current a {background-image: url(http://media.expedia.com/media/content/expind/images/nav/yellow_left.gif); background-repeat: no-repeat; background-position: left top; padding-left: 12px; display: block; color: #000000; text-decoration:none;background-color: #FFE07D;}
 	#Header #Tabs .Current a span {background-image: url(http://media.expedia.com/media/content/expind/images/nav/yellow_right.gif); background-repeat: no-repeat; background-position: right top; display: block; padding-right: 12px;}
-
 	#Header #WelcomeBar {width:770px; height:25px; background-color:#ffe07d;}
 	#Header #WelcomeBar {font-size:11px;}
 	#Header #WelcomeBar a:link {color:#333399; text-decoration:none;}
 	#Header #WelcomeBar a:visited {color:#333399; text-decoration:none;}
 	#Header #WelcomeBar a:active {color:#333399; text-decoration:none;}
 	#Header #WelcomeBar a:hover {color:#333399; text-decoration:underline;}
-	#Header #WelcomeBar #LeftLinks {width:220px; height:11px; float:left; padding:7px 0 7px 5px}
+	#Header #WelcomeBar #LeftLinks {width:350px; height:11px; float:left; padding:7px 0 7px 5px}
 	#Header #WelcomeBar #RightLinks {width:auto;float:right;padding-top:5px;margin-right:5px;}
 	#Header #WelcomeBar #RightLinks img {vertical-align:middle;margin:0 4px 0 4px;}
+	#AdDCol {position:absolute;width:200px;top:120px;left:780px;overflow:hidden; background-color:#f7f7f7; display:none}
+	#AdDCol1, #AdDCol2, #AdDCol3{border:solid 1px #d7dce8;padding:10px 0 10px 0;text-align:center;display:none}
 	.clear{clear:both}
 	-->
 </style>
 <script src="/js/etc.js" type="text/javascript"></script>
+<script src="/js/channeltracking.js" type="text/javascript"></script>
+<script src="/pubspec/scripts/include/oo_engine.js" type="text/javascript"></script>
+
 <!-- Header Starts -->
 <div id="Header">
 	
-	<a href="http://www.expedia.co.in" id="ExpediaLogo" target="_top">Expedia.co.in</a>
-	
-	<div id="BannerAd">
-	<!-- Ad Parms --> 
-	<!--AdLocation:  AdSubLocation:  AdOrig:  AdDest:  -->
-	</div>
-	
+	<a id="ExpediaLogo" href="http://www.expedia.co.in" target="_top">Expedia.co.in</a>
+	<div id="Banner"></div>
 	<div id="Tracking">
 	
 	<!-- Begin Action Tracking-->
@@ -877,6 +916,8 @@ function WriteCookie(c)
 	<a href="/pub/agent.dll?qscr=litn" target="_top"><img src="http://media.expedia.com/media/content/expind/images/icons/header/my_itinerary.jpg" alt="" border="0"></a><a href="/pub/agent.dll?qscr=litn" target="_top">My Itineraries</a>
 	
 	<img src="http://media.expedia.com/media/content/expind/images/icons/header/customer_support.jpg" alt=""><a href="/pub/agent.dll?qscr=hgen&amp;hfnm=CustSrvc.htx">Customer Support</a>
+ <img src="http://media.expedia.com/media/content/expind/images/icons/s/sm_000_oo.gif" border="0">
+ <a href="https://secure.opinionlab.com/ccc01/comment_card.asp" onclick="OpinionLab.O_LC();return false;" rel="nofollow">Feedback</a>
 	</div>
 </div>
 <!-- WelcomeBar Ends -->
@@ -895,13 +936,15 @@ function WriteCookie(c)
 
 <script language="JavaScript" type="text/javascript" src="/pubspec/scripts/include/sav.js"></script>
 <script type="text/javascript">
-s_pageName = "HTX_PRIVACYPOLICY"; 
+s_pageName = "HTX_PRIVACYPOLICY";
+var s_pageNameOrig = s_pageName; 
 s_server = "www.expedia.co.in";	
 s_channel = "Help";
 s_prop1 = ""; 
 s_prop11 = ""; 
-s_prop12 = "93d96a9d4cc6e361c82143b2e64f0ed4"; 
+s_prop12 = "2486293f3b6045559f14a52120f1dc15"; 
 s_account = "Expedia" + "27";
+s_exp_account = s_account;
 s_pageType = ""; 
 s_hier1 = "HTX," + s_channel;
 s_purchaseID = "";
@@ -912,6 +955,7 @@ s_prop30 = "";
 s_eVar30 = ""; 
 s_prop34 = "";
 s_eVar34 = "";
+var rfrrLN = new Array();
 
 function PLSetPageName(p)	{	s_pageName = p;	}
 function PLSetChannel(c)	{	s_channel = c;	s_hier1="HTX,"+c;}
@@ -973,6 +1017,9 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+ 
+ <noscript><iframe width="992" height="190" id="ifSeoErr" src="/pub/agent.dll?qscr=hgen&hfnm=ScriptInlineErr.htx" MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE FRAMEBORDER=0 SCROLLING=NO></iframe></noscript>
+
 
 <a name="skpn" id="skpn"></a>
 
@@ -981,6 +1028,44 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+
+<script type="text/javascript">
+	var tyOfferImage = new Object ();
+	tyOfferImage.loadTYOfferImage = function ()
+	{
+	// Insert ThankYou offer image in the DCol after the page loads. 
+	var tyDiv = document.getElementById('TYImageDivId');
+	
+	var absoluteTopPosition = 147;
+	var absoluteLeftPosition = 784;
+	
+	if ( tyDiv != null)
+	{
+	var tyImage = document.getElementById('ThankYouImage');
+	if (tyImage != null)
+	{
+	var imageHeight = tyImage.height;	
+	var iframeId = document.getElementById('dColFrame');
+	if( iframeId != null)
+	{
+	// Push the IFrame ad colum down by the height of the ThankYou image
+	var topPosition = iframeId.style.top;
+	var newAdPos = parseInt(topPosition) + parseInt(imageHeight) + parseInt(30);
+	iframeId.style.top = newAdPos + 'px';
+	}
+	// Position the ThankYou image and make it visible
+	tyDiv.style.position="absolute";
+	tyDiv.style.zIndex="100";
+	tyDiv.style.top = absoluteTopPosition + 'px';
+	tyDiv.style.left = absoluteLeftPosition + 'px';
+	tyDiv.style.visibility = "visible";
+	}
+	}
+	}
+	AddLoadFn('tyOfferImage.loadTYOfferImage();');
+</script>
+
+ 
 
 
 
@@ -1655,23 +1740,35 @@ of <strong><span style="font-family:Arial">February 22, 2008</span></strong><o:p
 <script type="text/javascript">
 <!--
 
-var rfrrLN = new Array();
+
 
 
 
 function RegisterClick(id)
 {
-
-	SetSGSDelay(0);
-	s_linkType='o';
-	s_linkName="RCID: " + id + "";
+	SetSGSDelay(10);
 	if (rfrrLN && rfrrLN[id])
-	s_linkName += ": " + rfrrLN[id]; 
-	s_lnk="#";
+	{
+	PLSetPageName(s_pageNameOrig + "_" + rfrrLN[id]);
 	s_gs('');	
+	}
+	PLSetPageName(s_pageNameOrig);
 	ResetSGSDelay();
+}
+
+function RegisterExitClick(id)
+{
+
+	s_linkTrackVars='prop16,eVar28';
+	s_linkType='e';
+	s_linkName='RFRR Exit Link';
+	s_prop16=id;
+	s_eVar28=id;
+	s_lnk=s_co(this);
+	s_gs(s_account);
 
 }
+
 var qscr_rfrr = "";
 PLSetChannel("Help");
 
@@ -1680,8 +1777,7 @@ PLSetChannel("Help");
 
 
 
-<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script>
-
+<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script><img name="s_i_expedia27" height="1" width="1" border="0" alt="" src="https://oms.expedia.com/b/ss/expedia27/1/G.9p2/s33732335402064?[AQB]&amp;ndh=1&amp;t=30/0/2020%2015%3A57%3A1%204%200&amp;ce=ISO-8859-1&amp;cdp=2&amp;pageName=HTX_PRIVACYPOLICY&amp;g=https%3A//web.archive.org/web/20090619201619id_/http%253A//www.expedia.co.in/pub/agent.dll%253Fqscr%253Dhgen%2526hfnm%253DPrivacyPol.htx&amp;ch=Help&amp;server=web.archive.org&amp;events=event15&amp;h1=HTX%2CHelp&amp;c12=2486293f3b6045559f14a52120f1dc15&amp;v17=HTX_PRIVACYPOLICY&amp;v18=HTX_PRIVACYPOLICY&amp;c34=HTX_PRIVACYPOLICY&amp;c50=20090105.1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 
 
@@ -1852,6 +1948,19 @@ PLSetChannel("Help");
 
 <!-- Call Centre Number -->
 
+<!-- Ad Handling Starts -->
+<!-- eapi - 0 -->
+
+ 
+ 
+ 
+ 
+ <!-- Ad Parms --> 
+	<!--AdLocation:  AdSubLocation:  AdOrig:  AdDest:  -->
+ 
+ 
+
+<!-- Ad Handling Ends -->
 	
 	
 	
@@ -1859,7 +1968,7 @@ PLSetChannel("Help");
 
 
 
-<!--TS (27/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.48, Req=06:26:10(:302), Rsp=06:26:11(:005), hash=9(0x936c3588) ET=704ms Dur=704ms Mif=0 --><comment id="ProcTime" title="704"></comment>
+<!--TS (27/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.22.24, Req=13:16:18(:500), Rsp=13:16:19(:172), hash=59(0x57683588) ET=672ms Dur=672ms Mif=0 --><comment id="ProcTime" title="672"></comment>
 
 	
 	
@@ -1891,7 +2000,7 @@ PLSetChannel("Help");
 
 
 
-<comment id="TotalBytes" title="71632" title1="0"></comment>
+<comment id="TotalBytes" title="74620" title1="0"></comment>
 
 
 
