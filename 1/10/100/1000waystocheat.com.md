@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219032845id_/http%3A//www.1000waystocheat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000waystocheat.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202528id_/http%3A//1000waystocheat.com/privacy.html) for the most accurate reproduction.*
 
 # 1,000 Ways to Cheat - Privacy Policy
 
@@ -11,6 +11,8 @@ This privacy policy discloses the privacy practices for 1,000 Ways to Cheat (htt
 
 **Cookies**   
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. 1,000 Ways to Cheat uses cookies to enhance the user's experience, often allowing a user to browse the site more quickly. The storage of such cookie is optional, and the user will still be able to use the website, with the exception of some of the site's functions. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Log Files and IPs**  
 IPs are logged in the server's log file which is used for administering the site. Log files contain no personally identifiable information.Under very rare circumstances, log files may be furnished to 3rd party advertisers for proof of traffic information.
