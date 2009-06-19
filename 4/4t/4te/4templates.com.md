@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011120335id_/http%3A//www.4templates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619021958id_/http%3A//www.4templates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Templates.com
 
@@ -20,8 +20,8 @@ Our server logs information regarding visitors to our site, such as IP address, 
 
 Customer Information
 
-Information, such as names and email addresses, are collected from customers at the time of a sale in order to complete the purchase. This information is **NOT** sold or distributed to third parties. We are firmly against spam and neither participate nor promote any activities that assist spammers. 
+Information, such as billing names, billing addresses and email addresses, are collected from customers at the time of a sale in order to complete the purchase. This information is **NOT** sold to, distributed to, or shared with third parties. We are firmly against spam and neither participate nor promote any activities that assist spammers. 
 
 Credit Card Transactions
 
-All credit card transactions are securely processed through [Authorize.net](http://www.authorizenet.com/). The information collected by Authorize.net's payment form is stored only on Authorize.net's network and is not recorded by 4Templates.com. 
+All credit card transactions are securely processed through [Authorize.Net](http://www.authorizenet.com/). Complete credit card numbers, expiration dates, and card security codes are processed and stored only by Authorize.Net and are **NOT** stored by us in any fashion. We may, however, store the last four digits of credit card numbers and additional billing information (such as billing names and addresses) for the purpose of fraud detection and prevention. 
