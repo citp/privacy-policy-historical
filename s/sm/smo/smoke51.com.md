@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smoke51.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218151120id_/http%3A//smoke51.com/catalog/index.php%3F_a%3DviewDoc%26docId%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoke51.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619062946id_/http%3A//smoke51.com/catalog/index.php%3F_a%3DviewDoc%26docId%3D9) for the most accurate reproduction.*
 
-# Electronic Cigarette by Fifty-One | electric cigarette, e-cigarette, e-cig - Privacy Policy, Smoke Anywhere USA, Inc (Smoke51.com) Effective August 1, 2008
+# Smoke Anywhere USA Privacy Policy for Smoke51.com - Electronic Cigarette Cartridges, Starter Kits, Batteries and more. - No Second Hand Smoke
 
-Smoke Anywhere, Inc. understands that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.   
+Smoke Anywhere USA, Inc. understands that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.   
   
 Your Personal Information 
 
