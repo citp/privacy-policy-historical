@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the megaplextheatres.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216064937id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the megaplextheatres.com privacy policy that was archived on 2009-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619153227id_/http%3A//www.megaplextheatres.com/corporate_info/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Megaplex Theatres Privacy Policy</title>
@@ -23,8 +23,22 @@
 	@import "/globals/css/facebox.css";
 </style>
 <!--[if IE 6]><link rel="stylesheet" href="/globals/css/ie6.css" type="text/css" /><![endif]-->
-
-<link rel="stylesheet" href="/globals/css/mediabox.css" type="text/css" media="screen">
+<!-- Google Ad Manager -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-8872143523547650");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-8872143523547650", "ExperimentAd");
+  GA_googleAddSlot("ca-pub-8872143523547650", "Prime_Header_Spot");
+  GA_googleAddSlot("ca-pub-8872143523547650", "Prim_Header_Spot_2");
+  GA_googleAddSlot("ca-pub-8872143523547650", "splash_right_ad");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script><link rel="stylesheet" href="/globals/css/mediabox.css" type="text/css" media="screen">
 <script type="text/javascript" src="/globals/javascript/Window.DomReady.js"></script>	
 <script src="/globals/javascript/mootools111.js" type="text/javascript"></script>
 
@@ -32,6 +46,7 @@
 <script type="text/javascript" src="/globals/javascript/dropdown.js"></script>
 <script type="text/javascript" src="/globals/javascript/swfobject.js"></script>
 <script type="text/javascript" src="/globals/javascript/cookie.js"></script>
+<script type="text/javascript" src="/globals/javascript/bannerRotator.js"></script>
 <script type="text/javascript" src="/globals/javascript/dropdowncontent.js">
 /***********************************************
 * Dynamic Countdown script- � Dynamic Drive (http://www.dynamicdrive.com)
@@ -78,10 +93,15 @@ window.attachEvent("onload", correctPNG);
 									<script>
 					<!--
 					function openTicketing(file){
-						open(file, "_blank", "height=600, width=950, location=no, menubar=no, resizable=yes, toolbar=no, scrollbars=yes");
+						if(screen.width <= 800) {
+						
+						} else if(screen.width >= 801) {
+						open(file, "_blank", "height=750, width=1015, location=no, menubar=no, resizable=yes, toolbar=no, scrollbars=no");
+						}
 					}
 					//-->
-					</script></head>
+					</script>
+</head>
 <body>
 <!-- LHM Bar Include -->
 <script type="text/javascript" src="/globals/lhmbar/includes/common.js"></script>
@@ -116,7 +136,6 @@ window.attachEvent("onload", correctPNG);
 						<ul>
 							 <li><a href="http://www.energysolutionsarena.com" target="_blank">EnergySolutions Arena</a></li>
 							 <li><a href="http://www.megaplextheatres.com" target="_blank">Megaplex Theatres</a></li>
-							 <li><a href="http://www.themayan.com" target="_blank">The Mayan</a></li>
 							  <li><a href="http://www.kjzz.com" target="_blank">KJZZ Television</a></li>
 							 <li><a href="http://www.thefansports.com" target="_blank">The Fan : : 1320 KFAN</a></li>
 					</ul>
@@ -160,18 +179,32 @@ window.attachEvent("onload", correctPNG);
 		</div>
 	</div>
 </div>
-<!-- END LHM Bar --><div id="wrapper" style="background: url('/images/layout/background_black.png');">
+<!-- END LHM Bar -->				<script type="text/javascript">
+				function flashGetURL(url, info) {
+					//javascript:Mediabox.open(url, info, 'mediabox[900 700]')
+					jQuery.facebox(function(){jQuery.get(url, function(data){jQuery.facebox(data)})});
+				}
+</script>
+<div id="wrapper" style="background: url('/images/layout/background_black.png');">
 	<div id="pageHolder">
+    	<div style="text-align: center; padding-top: 10px; margin-bottom: 10px;">
+		<script type="text/javascript">
+  GA_googleFillSlot("Prime_Header_Spot");
+</script>
+</div>
 		<div id="headerSec1">
+
 			<div id="headerSec1Left" style="background-image: url('/images/headers/standard_left.jpg');"></div>
 			<div id="headerSec1Mid" style="background-image: url('/images/headers/standard_middle.jpg');"></div>
 			<div id="headerSec1Right" style="background-image: url('/images/headers/standard_right.jpg');"></div>
+
+
 		</div>
 		<div id="headerMenu1">
 			<div id="headerMenu1Left">
 							<ul id="nav">
-					<li><a href="/index.php" class="menuItem">Megaplex Home</a>
-					</li>
+					<li style="width: 80px;"><a href="/index.php" class="menuItem" style="width: 80px;">
+                            Home</a> </li>
 					<li class="Menu1Divider" style="width: 1px;"></li>
 					<li style="width: 170px;"><a href="/showtimes/index.php" class="menuItem" style="width: 170px; cursor: default;">Showtimes &amp; Tickets</a>
 						<ul>
@@ -182,18 +215,24 @@ window.attachEvent("onload", correctPNG);
 							<li style="height: 55px; width: 170px; background-image: url('/images/layout/menu1_sub_background2.jpg');"><a href="/showtimes/south_jordan_district.php" style="width: 160px;"><span style="color: #fdd526; font-weight: bold;">Megaplex 20</span><br>at The District<br>South Jordan, UT</a></li>
 							<li style="height: 30px; width: 170px; background-image: url('/images/layout/menu1_sub_background2.jpg');"><p>Movie By Title</p>
 								<ul class="byTitle">
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001575">3D&nbsp;BOLT</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001582">AUSTRALIA</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001572">BOLT</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001586" title="DAY THE EARTH STOOD STILL">DAY&nbsp;THE&nbsp;EARTH&nbsp;S...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001587">DELGO</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001583" title="FOUR CHRISTMASES">FOUR&nbsp;CHRISTMASE...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001560" title="MADAGASCAR: ESCAPE 2 AFRICA">MADAGASCAR:&nbsp;ESC...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001588" title="NOTHING LIKE THE HOLIDAYS">NOTHING&nbsp;LIKE&nbsp;TH...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001585" title="PUNISHER: WAR ZONE">PUNISHER:&nbsp;WAR&nbsp;Z...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001571" title="QUANTUM OF SOLACE">QUANTUM&nbsp;OF&nbsp;SOLA...</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001584">TRANSPORTER&nbsp;3</a></li>
-<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001570">TWILIGHT</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001702">ANGELS&nbsp;&amp;&nbsp;DEMONS</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001742">DRAG&nbsp;ME&nbsp;TO&nbsp;HELL</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001765">EASY&nbsp;VIRTUE</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001716">HANGOVER</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001719">IMAGINE&nbsp;THAT</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001726" title="IMAX NIGHT AT THE MUSEUM 2">IMAX&nbsp;NIGHT&nbsp;AT&nbsp;T...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001723">IMAX&nbsp;STAR&nbsp;TREK</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001717" title="LAND OF THE LOST">LAND&nbsp;OF&nbsp;THE&nbsp;LOS...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001718" title="MY LIFE IN RUINS">MY&nbsp;LIFE&nbsp;IN&nbsp;RUIN...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001705" title="NIGHT AT THE MUSEUM: BATTLE OF THE SMITHSONIAN">NIGHT&nbsp;AT&nbsp;THE&nbsp;MU...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001747">PELHAM&nbsp;123</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001720">PROPOSAL</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001764" title="PROPOSAL 21+ NO BABIES CHILDREN OR TEENS">PROPOSAL&nbsp;21+&nbsp;NO...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001700">STAR&nbsp;TREK</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001704" title="TERMINATOR SALVATION">TERMINATOR&nbsp;SALV...</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001706">UP</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001741">UP&nbsp;-&nbsp;DIGITAL&nbsp;3D</a></li>
+<li style="padding-left: 10px; height: 25px;"><a href="/showtimes/feature.php?feature=10001721">YEAR&nbsp;ONE</a></li>
 </ul>
 							</li>	
 						</ul>
@@ -206,9 +245,9 @@ window.attachEvent("onload", correctPNG);
 							<li><a href="/information/maps.php">Maps And Directions</a></li>
 							<li><p>Gift Cards &amp; Packages</p>
 								<ul>
-									<li><a href="/information/gift_cards_packages/megaplex_mega_pass.php">Mega Pass</a></li>
-									<li><a href="/information/gift_cards_packages/megaplex_gift_cards.php">Gift Card</a></li>
-									<li><a href="/information/gift_cards_packages/megaplex_gift_packages.php">Gift Packages</a></li>
+									<li><a href="/store/category.aspx?zcid=97">Mega Pass</a></li>
+									<li><a href="/store/Megaplex_Theatres_Gift_Cards.aspx">Gift Card</a></li>
+									<li><a href="/store/category.aspx?zcid=97">Gift Packages</a></li>
 								</ul>
 							</li>
 							<li><a href="/information/movie_ratings_policy.php">Ratings Policy</a></li>
@@ -231,16 +270,21 @@ window.attachEvent("onload", correctPNG);
 							<li><a href="/utah_group_services/theater_auditorium_rentals.php">Auditorium Rental</a></li>
 							<li><a href="/utah_group_services/event_meeting_suites.php">Event &amp; Meeting Suites</a></li>
 							<li><a href="/utah_group_services/theater_private_screenings.php">Private Screenings</a></li>
-							<li><a href="/utah_group_services/movie_birthday_parties.php">Birthday Parties</a></li>
 							<li><a href="/utah_group_services/theater_school_groups.php">School Groups</a></li>
 							<li><a href="/utah_group_services/theater_discount_tickets.php">Discount Tickets</a></li>
 							<li><a href="/utah_group_services/utah_catering_services.php">Catering Services</a></li>
+                            <li><a href="/specials/48hour/index.php">48 Hour Film Project</a></li>
 						</ul>
 					</li>
 					<li class="Menu1Divider" style="width: 1px;"></li>
+                    <li style="width: 100px;"><a href="/store/default.aspx" class="menuItem" style="width: 100px;">
+                        Store</a></li>
+                    <li class="Menu1Divider" style="width: 1px;"></li>
+
 				</ul>			</div>
 			<div id="headerMenu1Right">
 				<div id="experienceDifference">Loading...</div>
+<div id="experienceDifference"></div>
 				<script type="text/javascript">
 				window.addEvent('domready', function(){
 					var sox = new SWFObject("/images/experiencedifference.swf", "experienceDifference", "175", "18", "8", "#336699");
@@ -248,6 +292,21 @@ window.attachEvent("onload", correctPNG);
 					sox.write("experienceDifference");
 					});
 				</script>
+
+<!--
+
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+				  <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','175','height','18','wmode','transparent','src','/images/experiencedifference','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/images/experiencedifference' ); //end AC code
+
+</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="175" height="18">
+                      <param name="movie" value="/images/experiencedifference.swf" />
+                      <param name="quality" value="high" />
+                      <param name="wmode" value="transparent" />
+                      <embed src="/images/experiencedifference.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="175" height="18" wmode="transparent"></embed>
+				  </object></noscript>
+-->
+
 			</div>
 		</div>
 				<div id="headerMenu2">
@@ -277,39 +336,76 @@ window.attachEvent("onload", correctPNG);
 			<div class="purpleContentBox1" style="margin-left: auto; margin-right: auto;">
 			<div class="purpleContentBox1Header"></div>
 			<div class="purpleContentBox1Body" style="overflow: hidden; padding: 15px;">
-				<p>This is the web site of <strong>Megaplex Theatres</strong>.</p>
-				<p>Our postal address is <br>
-					<strong>9400 S. State Street<br>
-					  Sandy, UT 84070</strong></p>
-				<p>We can be reached by telephone at (801) 304-4577</p>
-				<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
-				<p>We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address, telephone number, payment information (e.g., credit card number and billing address).</p>
-				<p>The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and .</p>
-				<p>With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.</p>
-				<p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p>
-				<p>If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.</p>
-				<p>Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations </p>
-				<p>Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail.</p>
-				<p>Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations </p>
-				<p>With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. </p>
-				<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
-				<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.</p>
-				<p>Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.</p>
-				<p>Consumers can access this information by e-mail us at the above address.</p>
-				<p>Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.</p>
-				<p>Consumers can have this information corrected by sending us e-mail at the above address.</p>
-				<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-				<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.</p>
+<p><strong>Larry H. Miller Group of Companies Privacy Statement</strong></p>
+<p>This document was last updated on June 17, 2008.</p>
+<p>Megaplex Theatres is  one of the entities comprising the Larry H. Miller Group of Companies.</p>
+<p><strong>1. Acknowledgment and acceptance of terms</strong></p>
+ <p>The Larry H. Miller Group of Companies is committed to protecting your privacy. This Privacy Statement sets forth our current privacy  practices with regard to the information we collect when you or your computer interact with our website. By accessing  any Larry H. Miller Group of Companies website, you acknowledge and fully understand the Larry H. Miller Group of Companies Privacy Statement and freely consent to the information collection and use practices described in this  Website Privacy Statement.</p>
+<p><strong>2. Participating Merchant Policies </strong></p>
+<p>Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by  clicking on the corresponding links within each respective website. Online merchants and others who participate in Larry H. Miller Group of Companies  services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.&nbsp; However, since we do not have direct control  over the policies or practices of participating merchants and other third  parties, we are not responsible for the privacy practices or contents of those sites.&nbsp; We recommend and encourage that  you always review the privacy policies of merchants and other third parties  before you provide any personal information or complete any transaction with  such parties.&nbsp; We use Secure Sockets  Layer (SSL) encryption technology to protect your personal information provided  on credit applications and where credit card information is required.&nbsp; SSL encrypts or codes this information as it  travels over the Internet, and is then decoded by Larry H. Miller Group of  Companies and its business partners who facilitate your transactions on this  web site.&nbsp; We do not read personal  communications.&nbsp; We do not give out your  telephone number, credit card information, or screen names, unless authorized  to do so or as required by law.&nbsp; The  security of customer information is very important to us and we take a number  of steps to safeguard it.&nbsp; We maintain  physical, electronic, and procedural safeguards that comply with federal  standards to guard non-public personal information about you.&nbsp; We limit access to personal and account  information to those employees and agents who assist us in providing products  and services to you.&nbsp; Employees who fail  to follow our established standards are subject to disciplinary action.&nbsp; We also require third parties to whom we  disclose nonpublic personal information to adhere to this Privacy Policy and to  establish information security procedures.<br>
+</p><p><strong>3. Information We Collect and How We Use It </strong></p>
+The Larry H. Miller Group of Companies collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with cookies.<p></p>
+	<ul>
+		<li><strong>Web  Server Logs</strong>.</li>
+    </ul>
+<p>When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: </p>
+	<ul type="disc">
+    	<li>Your Internet protocol address.</li>
+		<li>The kind of browser or computer you use.</li>
+		<li>Number of links you click within the site.</li>
+		<li>State or country from which you accessed the site.</li>
+		<li>Date and time of your visit.</li>
+		<li>Name of your Internet service provider.</li>
+		<li>Web page you linked to our site from.</li>
+		<li>Pages you viewed on the site.</li>
+      </ul>
+<p><strong>b. Use of Cookies</strong></p>
+<p>The Larry H. Miller Group of Companies may use cookies to  personalize or enhance your user experience.&nbsp; A cookie is a small text file that is placed on your hard disk by a Web  page server.&nbsp; Cookies cannot be used to  run programs or deliver viruses to your computer.&nbsp; Cookies are uniquely assigned to you, and can  only be read by a Web Server in the domain that issued the cookie to you.&nbsp; </p>
+<p>One of the primary purposes of cookies is to provide a  convenience feature to save you time.&nbsp; For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.&nbsp; Hence, this simplifies the  process of delivering relevant content and eases site navigation by providing  and saving your preferences and login information as well as providing personalized functionality.&nbsp; </p>
+<p>The Larry H. Miller Group of Companies reserves the right to share aggregated site statistics with sub/partner companies, but does not allow  other companies to place cookies on our website unless there is a temporary, overriding customer value.</p>
+<p>You have the ability to accept or decline cookies.&nbsp; Most Web browsers automatically accept  cookies, but you can usually modify your browser setting to decline cookies. If  you reject cookies by changing your browser settings then be aware that this  may disable some of the functionality on our Website.</p>
+<p><strong>c. Personal Information Users</strong></p>
+<p>Visitors to our website can register to purchase or use  services we offer.&nbsp; When you register, we  will request some personal information such as name, address, email, telephone  number or facsimile number, account number and other relevant information.&nbsp; If you are purchasing a service, we will  request financial information.&nbsp; Any  financial information we collect is used only to bill you for the services you  purchased.&nbsp; If you purchase by credit  card, this information may be forwarded to your credit card provider. For other  types of registrations, we will ask for the relevant information. You may also  be asked to disclose personal information to us so that we can provide  assistance and information to you. For example, such data may be warranted in  order to provide online technical support and troubleshooting.</p>
+<p>We will not disclose personally identifiable information we  collect from you to third parties without your permission except to the extent  necessary including:</p>
+	<ul>
+		<li>To fulfill your requests for services.</li>
+		<li>To protect ourselves from liability.</li>
+		<li>To respond to legal process or comply with law.</li>
+		<li>In connection with a merger, acquisition, or liquidation of the company.</li>
+    </ul>
+<p><strong>4. Use of Web Beacons or GIF files</strong></p>
+<p>pThe Larry H. Miller Group of Companies Web pages may contain  electronic images known as Web beacons – sometimes also called single-pixel  gifs – that allow the Larry H Miller Group of Companies to count users who have visited those pages and to deliver co-branded services.&nbsp; The Larry H. Miller Group of Companies may include Web beacons in promotional e-mail messages or newsletters in order to  determine whether messages have been opened and acted upon.</p>
+<p>Some of these Web beacons may be placed by third party  service providers to help determine the effectiveness of our advertising  campaigns or email communications.&nbsp; These Web beacons may be used by these service providers to place a persistent cookie on your computer.&nbsp; This allows the  service provider to recognize your computer each time you visit certain pages  or emails and compile anonymous information in relation to those page views,  which in turn enables us and our service providers to learn which advertisements  and emails bring you to our website and how you use the site.&nbsp; The Larry H. Miller Group of Companies  prohibits Web beacons from being used to collect or access your personal  information.</p>
+
+<p><strong>5. Accessing Web Account Information</strong></p>
+<p>We will provide you with the means to ensure that personally  identifiable information in your web account file is correct and current.&nbsp; You may review this information by contacting  us by sending an email to our support attendant.&nbsp; (Please see our “Contacting Us” section)</p>
+<p><strong>6. Changes to this Statement</strong><br>
+The Larry H. Miller Group of Companies has the discretion to occasionally update this privacy statement.&nbsp;  When we do, we will also revise the “updated” date at the top of this  Privacy page.&nbsp; We encourage you to  periodically review this privacy statement to stay informed about how we are  helping to protect the personal information we collect.&nbsp; Your continued use of the service constitutes  your agreement to this privacy statement and any updates.</p>
+<p><strong>7. Contacting Us</strong></p>
+<p>If you have questions regarding our Privacy Statement, its  implementation, failure to adhere to this Privacy Statement and/or our general  practices, please contact us.</p>
+<p>Megaplex Theatres<br>
+<strong>Attention:&nbsp; Privacy Statement Personnel</strong><br> 
+9400 S. State Street<br>
+Sandy, Utah 84070</p>
+<p>The Larry H Miller Group of Companies will use commercially  reasonable efforts to promptly respond and resolve any problem or question.</p>
+
 				  
 			</div>
 			</div>
 		</div>
+<div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
+	<script type="text/javascript">
+  GA_googleFillSlot("ExperimentAd");
+</script>
+
+</div>
 <div class="purpleContentBox1Header" style="margin-top: 5px; margin-bottom: 5px;"></div>
 		<div id="footerSec1">
-			<a href="/utah_group_services/megaplex_sales_events.php"><img src="/images/advertisements/Events Banner NEW 4-08.jpg" title="Megaplex Theatres &amp; Suites Featuring Premiere Catering" border="0"></a>
+			<a href="/store/"><img src="../../images/advertisements/Events Banner NEW 4-08.jpg" id="adBanner" title="Megaplex Theatres Online Store" border="0"></a>
 		</div>
+        
 		<div class="purpleContentBox1Header" style="margin-top: 5px; margin-bottom: 5px;"></div>
-		<div id="footerSec2">
+        		<div id="footerSec2">
 						<div>
 			<a href="/index.php">Megaplex Home</a>
 			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -327,7 +423,7 @@ window.attachEvent("onload", correctPNG);
 			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 			<a href="http://jobs.lhm.com/" target="_blank">Employment Center</a>
 			</div>
-			<div id="copyright">Copyright © 2008 Megaplex Theatres. All Rights Reserved.</div>
+			<div id="copyright">Copyright © 2009 Megaplex Theatres. All Rights Reserved.</div>
 			<div id="rightCopyright"><a href="/corporate_info/index.php">Corporate Info</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/corporate_info/privacy_policy.php">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/corporate_info/contact_info.php">Contact Us</a></div>		</div>
 	</div>
 </div>
