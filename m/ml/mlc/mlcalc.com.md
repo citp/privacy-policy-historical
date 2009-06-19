@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218071444id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619054441id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Mortgage Loan Calculator
+# Privacy Policy
 
 **By visiting, using and/or submitting information to<http://www.mlcalc.com/> (the “Site”), you are accepting the practices described in this Privacy Policy and the terms and conditions of the Site’s Agreement of Terms of Use located at the URL <http://www.mlcalc.com/terms.htm> (the “Terms of Use”).  **
 
