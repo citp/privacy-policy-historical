@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217080030id_/http%3A//www.bose.com/controller%3Fevent%3DVIEW_STATIC_PAGE_EVENT%26url%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060201id_/http%3A//www.bose.com/controller%3Furl%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
 
 # Your Privacy Rights - Bose Customer Service
 
@@ -66,12 +66,10 @@ We may also use an application known as a "web beacon." A web beacon is an elect
 
 In addition to our use of these applications, certain third parties and affiliates may set and access cookies on your computer, and use web beacons in conjunction with them. For example, third parties or affiliates may administer Bose banner advertising programs on non-Bose websites, or they may provide auditing, research or reporting. Their use of these applications is subject to their own privacy policies, not the Bose.com privacy policy. If you prefer to prevent these third parties and affiliates from setting and accessing cookies on your computer and using web beacons in conjunction with them, you may set your browser to block cookies.
 
-Please note: To complete a purchase on our website, you’ll need to accept cookies sent by our site. If you choose not to accept our cookies, please call us at 1-800-999-2673 to place your order by phone. Blocking our cookies may also impact the usability of other features on Bose.com. 
+Please note: To complete a purchase on our website, you’ll need to accept cookies sent by our site. If you choose not to accept our cookies, please call us at 1-800-999 2673 to place your order by phone. Blocking our cookies may also impact the usability of other features on Bose.com. 
 
 The Bose® Preferred Credit Card  
-The Bose® Preferred Credit Card is offered and administered by HSBC Bank Nevada, N.A. The HSBC Bank Nevada, N.A. Privacy Statement applies to the information you submit as part of your credit card application, and to certain ongoing interactions you may have with HSBC Bank Nevada, N.A., such as your payment history. When you select the Bose Preferred Credit Card Apply Now, Buy Now payment option on Bose.com, you leave Bose.com to submit your application information directly to HSBC Bank Nevada on its website. Once the application process is complete, you are returned to Bose.com. 
-
-We urge you to carefully read the HSBC Bank Nevada, N.A. Privacy Statement and HSBC Bank Nevada, N.A. Website Terms and Conditions on the HSBC Bank Nevada, N.A. website. They may contain terms and conditions, privacy provisions, security information or other provisions that differ from Bose.com. 
+The Bose® Preferred Credit Card is offered and administered by HSBC Bank Nevada, N.A. The HSBC Bank Nevada, N.A. Privacy Statement applies to the information you submit as part of your credit card application and to certain ongoing interactions you may have with HSBC Bank Nevada, N.A., such as your payment history. We urge you to carefully read the HSBC Bank Nevada, N.A. Privacy Statement on the HSBC Bank Nevada, N.A. website. It may contain terms and conditions, privacy provisions, security information or other provisions that differ from Bose policies. 
 
 Children's privacy  
 Bose.com is a general-audience website. We do not knowingly collect personal information from children under the age of 13. 
@@ -120,28 +118,24 @@ You have choices about our use and sharing of your personal information for mark
 
 
 
-Please visit [ Communication Preferences](https://www.bose.com/controller?event=EDIT_COMMUNICATION_PREFERENCES_EVENT) or call Bose toll free at 1-800-999-2673 to express your privacy preferences. 
+Please visit [ Communication Preferences](https://www.bose.com/controller?event=EDIT_COMMUNICATION_PREFERENCES_EVENT) or call Bose toll free at 1-800-999 2673 to express your privacy preferences. 
 
 You may also have the opportunity to express your privacy preferences when submitting certain information to us, such as during a transaction or on an event registration form. In addition, our email communications always include a method for you to unsubscribe from our email list. 
 
 Please note that, regardless of your request, we may still use and share certain information as permitted or required by applicable law. 
 
 Special note for California residents  
-If you are a resident of California, in addition to the rights set forth in this Privacy Policy, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for direct-marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
+California law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. 
 
-  * The types of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
-  * The names and addresses of the third parties that received that information
-  * If the nature of the third party’s business cannot be determined from its name, examples of the products or services marketed
+The address for requesting this information is Bose Corporation, Online Commerce Group, PO Box 9168, MS 740, Framingham, MA 01701-9168. 
 
-
-
-We may provide this information in a standardized format that is not specific to you. The address for requesting this information is Bose Corporation, Online Commerce Group, P.O. Box 9168, MS 740, Framingham, MA 01701-9168. 
+However, because our privacy policy gives you a choice of opting out of having your personal information disclosed to third parties for their direct marketing purposes, we may instead provide you with information on how to exercise your opt-out preferences. Please see Privacy Preferences above if you wish to learn more about restricting the sharing of your personal information with third parties for their direct marketing puposes.
 
 The above privacy policy is specific to Bose Corporation operations in the US. This policy is governed under Massachusetts law notwithstanding any principles of conflicts of law. We reserve the right to amend this policy at any time. Any such amendments to this policy may apply to information we collect in the future as well as any information we obtained prior to such amendment. We will post all changes to this policy on this website. 
 
 If you have any questions, please [send us an email](mailto:privacyandsecurity@bose.com). 
 
-You may also contact us at 1-800-999-2673. Outside the US, call 1-508-766-1099. 
+You may also contact us at 1-800-999 2673. Outside the US, call 1-508-766-1099. 
 
 Or send a letter to:
 
