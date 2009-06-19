@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the changingearth.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061139id_/http%3A//www.changingearth.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changingearth.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619153300id_/http%3A//www.changingearth.org/privacy.php) for the most accurate reproduction.*
 
-# Changing Earth
+# hacked By M0µ34d
+
+H4ck3d By M0µ34d  
+!
 
 This Privacy & Data Policy is valid as of 24 May 2006.
 
@@ -12,3 +15,5 @@ This Privacy & Data Policy is valid as of 24 May 2006.
 <http://www.google.com/privacy.html>  
 <http://www.cj.com/privacy.jsp>  
 <http://www.tradedoubler.co.uk/pan/public/privacy_policy>
+
+Powered by [Article Dashboard](http://www.articledashboard.com/)
