@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218004643id_/http%3A//www.saveonfoods.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619043409id_/http%3A//www.saveonfoods.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
@@ -17,7 +17,7 @@ It is important for us at OFG to make you feel as comfortable as possible at our
 **Contact**  
 During your initial visit to our website, we would ask that you indicate whether you want to receive communications from OFG. There is no obligation to receive communications when visiting our website. Occasionally, we may be in touch with you via email, postal mail or telephone to notify you of new services or products available through OFG and to ask you about how satisfied you are with OFG's products and services.
 
-If you have any questions about our privacy statement, the practices of this website, or dealing with OFG, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20081218004643id_/http%3A//www.saveonfoods.com/customerservices/contact.htm) **[](https://web.archive.org/web/20081218004643id_/http%3A//www.saveonfoods.com/customerservices/contact.htm)
+If you have any questions about our privacy statement, the practices of this website, or dealing with OFG, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our: **[online customer inquiry form](https://web.archive.org/web/20090619043409id_/http%3A//www.saveonfoods.com/customerservices/contact.htm) **[](https://web.archive.org/web/20090619043409id_/http%3A//www.saveonfoods.com/customerservices/contact.htm)
 
 **Links**  
 This website provides links to other websites. Please be aware that we are not responsible for the privacy practices of any other websites. We encourage our users to be aware when they leave our website to read the privacy policies of each and every website that collects personal information. This policy statement applies solely to personal information collected by OFG.
