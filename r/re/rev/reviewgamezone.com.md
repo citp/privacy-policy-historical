@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2008-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081001215832id_/http%3A//www.reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620014129id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**March 2008**
+**March 2009**
 
 As used herein “this site”, refers to ReviewGameZone.com. By using any part of this site you are accepting the terms of this Privacy Policy, and the Terms & Conditions of this site. If you do not agree to these terms, you are not permitted to access any portion of this site at anytime. 
 
@@ -34,9 +34,11 @@ ReviewGameZone.com is committed to keeping your personal information secure from
 
 Cookies are small bits of data sent from a web server to your web browser, and then stored on your hard drive. ReviewGameZone.com uses cookies for statistical analysis of users. Information collected includes, but is not limited to: IP address, browser type, operating system specifications, date & time of entry and exit of site. This information is collected to make your web-surfing experience easier. ReviewGameZone.com reserves the right to use this information in circumstances where law enforcement agencies, court orders, or subpoenas, or any other circumstance that is part of a criminal investigation arises from use of this site.
 
-Some Advertisers may use cookies and/or web beacons to collect data in the ad serving process within their Ads.  These are not a part of ReviewGameZone.com, nor do these advertisers have access to ReviewGameZone.com cookies, therefore are not subject to this Privacy Policy. 
-
 You have the ability to disable cookies from your web-browser. By doing this, some sections of this site, may not function properly. 
+
+**Advertising Cookie and Privacy Policies**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Links**
 
