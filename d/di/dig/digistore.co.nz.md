@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digistore.co.nz privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122717id_/http%3A//www.digistore.co.nz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digistore.co.nz privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203248id_/http%3A//www.digistore.co.nz/privacy.php) for the most accurate reproduction.*
 
 # Digistore's Privacy Policy | Digistore, New Zealand
 
@@ -10,6 +10,10 @@ Personally Identifiable Information-When visiting Digistore's or any Client's We
 
 We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as email, search, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings. 
 
+**Google**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 **Our Commitment to Data Security.**
 
 We use SSL (Secure Socket Layer) encryption through [Paypal](http://www.paypal.com/) to secure payment details. At no point do we store Credit Card numbers. 
@@ -18,7 +22,7 @@ We use SSL (Secure Socket Layer) encryption through [Paypal](http://www.paypal.c
 
 Should you have other questions or concerns about this privacy policy, 
 
-please [contact us](https://web.archive.org/web/20081217122717id_/http%3A//www.digistore.co.nz/contact.php) through our form, or email us [info@digistore.co.nz](mailto:info@digistore.co.nz) or through: 
+please [contact us](https://web.archive.org/web/20090619203248id_/http%3A//www.digistore.co.nz/contact.php) through our form, or email us [info@digistore.co.nz](mailto:info@digistore.co.nz) or through: 
 
 **Digistore**
 
@@ -36,5 +40,5 @@ Make a donation to the Digistore project. Your support means we can continue to 
 
 ## Digistore Advertising
 
-Advertise with Digistore! Receive a link from all blog pages to your website.  
-[Advertise with Digistore](https://web.archive.org/web/20081217122717id_/http%3A//www.digistore.co.nz/link-request.php)
+Advertise with Digistore! Receive a link from any of our website pages to your website.  
+[Advertise with Digistore](https://web.archive.org/web/20090619203248id_/http%3A//www.digistore.co.nz/link-request.php)
