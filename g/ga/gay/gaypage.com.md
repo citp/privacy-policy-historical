@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216070505id_/http%3A//gaypage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypage.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619155904id_/http%3A//gaypage.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# GAYPAGE.COM: Free Gay Community Videos Dating Chat Hook Up Social Network
 
-****gaypage.com Privacy Policy
+### GayPage.com Privacy Policy
 
-Effective Date: September 5, 2006 
+**Effective Date: September 5, 2006**
 
 We at gaypage.com are committed to protecting the privacy of our users. We have prepared this privacy policy ("Privacy Policy") to inform you how we handle the information that we collect about you or that you choose to submit to us. 
 
@@ -12,7 +12,7 @@ Unless a specific privacy policy resides at a particular property, this Privacy 
 
 This Privacy Policy complies with the Safe Harbor Principles of the European Commission's Directive on Data Protection. 
 
-Your California Privacy Rights 
+**Your California Privacy Rights**
 
 Under California Civil Code section 1798.83, a California resident has the right to request and obtain either (1) information about certain companies' disclosures of personal information to third parties for direct marketing purposes, or (2) access to a cost-free means of preventing such disclosures. As more fully described in this Privacy Policy, you may request that Gay Page not disclose your personal information to third parties. You may do so either at the time you register, by following the instructions below in the "Modifications and Deactivations" section, or by contacting us by email at privacy@gaypage.com
 
@@ -22,30 +22,28 @@ We automatically collect certain information to help us understand how our users
 
 From time to time we may share Usage Data with third parties. We do so, however, only in the aggregate and not in a manner that will enable the recipient to personally identify you, unless you have given us permission to do so. In addition, we may combine Usage Data with Personal Information (as defined below) in a manner that enables us to trace Usage Data to an individual user. We do so, however, only for our own internal purposes and will not share such combined data with third parties unless you have given us permission to do so or we are required to do so by law. 
 
-Information You Choose To Submit 
+**Information You Choose To Submit**
 
 When you register to become a Network member or when you participate in certain Network activities (e.g., contests or surveys), we may ask that you provide us with demographic information (e.g., gender, age, zip code) and with information through which you could be contacted (e.g., your full name, postal or e-mail address, or phone number) (which we will refer to in this privacy policy collectively as "Personal Information"). Except for aggregate demographic information that we may share with third parties in a manner that does not link such information to any individual, we will not share your Personal Information with third parties unless you have given us permission to do so. In addition, when you order products or services through the Network, we may ask that you provide us with information (e.g., credit card number, billing, and shipping information) we will need to enable us to provide you with the requested product or service. We will share such information (e.g., to our billing vendors) with third parties to the extent necessary to fulfill your order or to complete the Network activity. 
 
-Other Authorized Disclosures 
+**Other Authorized Disclosures**
 
 Notwithstanding anything in this privacy policy to the contrary, we may share any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims or demands; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve abuse of our Network infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Network infrastructure); (4) to a parent company, subsidiaries, joint ventures, or other companies under common control with MGP (in which case we will require such entities to honor this privacy policy); and (5) if MGP is acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this privacy policy). 
 
-Public Areas 
+**Public Areas**
 
 Your use of areas of the Network that are intended for interaction with other users (e.g., profiles, chat rooms, online polls, and message boards) may reveal your member name and e-mail address and may allow you to publish certain personal information about you. By choosing to use these areas, you understand and agree that anyone may access and forward any information about you that is contained in or that you post to those areas. While chat, e-mail, and instant message-like conversations pass through our servers, our practice is not to store contents of such communications. We do, however, temporarily store logs of certain data related to such communications, such as the length and frequency of messaging and the Network member with whom communications are exchanged. We may use such data to improve the functionality of the Network and to offer additional services, such as enhanced searching or automated user matching. 
 
-Data Integrity and Security 
+**Data Integrity and Security**
 
 We take reasonable precautions to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction. We also take reasonable steps to ensure that Personal Information is relevant for the purposes for which it is to be used and that the Usage Data is reliable for its intended use, accurate, complete, and current. 
 
-Modifications and Deactivations 
+**Modifications and Deactivations**
 
 If you would like to modify any Personal Information you previously submitted through the Network, visit your account information section for each Network property to which you made the submission. If you have agreed to receive communications from us or to permit us to share your Personal Information with third parties, you may request that, in the future, we not send you communications or share your Personal Information by writing to our Customer Member Care center at our corporate address below or by visiting your account information section for each Network property. Please note, however, that we reserve the right to send you administrative messages relating to the Network (e.g., about changes to this privacy policy). If at any time you would like us to deactivate your member profile and remove it from public and member viewing on the Network, please write to us at our corporate address or visit your account information section for each Network property. Please note that (1) we will retain your Personal Information in back-up storage after deactivation, and (2) we are not responsible for removing information about you from the database of any third parties to whom you previously authorized us to share your Personal Information. 
 
 As more fully described in this Privacy Policy, you may request that Gay Page not disclose your personal information to third parties. You may do so either at the time you register or by contacting us by email at privacy@gaypage.com
 
-Changes to Policy 
+**Changes to Policy**
 
 Due to changes in legislation, best practices, or enhancements to functionality and content, we may make changes to our privacy policy and will reflect those changes in this statement. We may update this policy from time to time. If we make any significant changes to the way in which we treat Personal Information about you, we will inform you of such changes via e-mail or by posting a notice on relevant areas of the Network. If you have any questions about this privacy policy, please feel free to write to us at the address given above. 
-
-****
