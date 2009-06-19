@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2008-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080930165528id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204850id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
 
-# SCU - wwwadmin - Privacy Statement for Southern Cross University's Websites
+# SCU - Legals | Privacy | Copyright - Privacy Statement for Southern Cross University's Websites
 
 Southern Cross University has created this privacy statement to demonstrate its firm commitment to the protection of privacy and personal information.
 
-If you would like more information on the steps taken by the University to comply with its obligations under the NSW Privacy and Personal Information Protection Act, 1998, and the Health Records and Information Privacy Act , 2002, please refer to the University’s Privacy Management Plan, which can be found at [www.scu.edu.au/policy/privacy](http://www.scu.edu.au/policy/privacy)
+If you would like more information on the steps taken by the University to comply with its obligations under the NSW Privacy and Personal Information Protection Act, 1998, and the Health Records and Information Privacy Act, 2002, please refer to the University's Privacy Management Plan.
+
+[www.scu.edu.au/policy/privacy](http://www.scu.edu.au/policy/privacy)
 
 By using the website and the related resources, you consent to the terms and conditions and the collection, use and disclosures as provided in the statement.
 
@@ -32,9 +34,13 @@ Any personal information collected from users of the University's website will o
 
 Although unlikely, the University may be required by law enforcement or judicial authorities to provide information it holds to a third party. If requested as part of a legal proceeding, the University will provide this information only upon receipt of appropriate documentation (eg: a subpoena).
 
-The University provides users with the opportunity to opt-out of receiving future communications, based on data collected from our website, by sending an email to: [web@scu.edu.au](mailto:web@scu.edu.au).
+The University provides users with the opportunity to opt-out of receiving future communications, based on data collected from our website, by sending an email to:
 
-The University allows users to access and, in some cases, change and/or modify information previously provided to our website. To find out how to do so please send an email to: [web@scu.edu.au](mailto:web@scu.edu.au).
+[web@scu.edu.au](mailto:web@scu.edu.au)
+
+The University allows users to access and, in some cases, change and/or modify information previously provided to our website. To find out how to do so please send an email to: 
+
+[web@scu.edu.au](mailto:web@scu.edu.au)
 
 Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
@@ -42,16 +48,14 @@ The University may, at any time and for any reason, review, revise and amend the
 
 If you have any questions about this privacy statement, the University's website or your dealings with this site, you can contact:
 
-Program Manager - Websites  
-Online Services  
+System Manager - Website Services  
+Corporate Information Systems  
 Information Technology & Telecommunication Services  
-
-
 Southern Cross University  
 PO Box 157  
-LISMORE NSW 2480 AUSTRALIA 
+Lismore NSW 2480 AUSTRALIA 
 
 [ellen.kronen@scu.edu.au](mailto:ellen.kronen@scu.edu.au)  
 [www.scu.edu.au/it](http://www.scu.edu.au/it/)
 
-Updated: 17 September 2008
+Updated: 10 October 2008
