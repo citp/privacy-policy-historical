@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153658id_/http%3A//www.cinemaclock.com/aw/clga.aw/j.e/f.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060253id_/http%3A//www.cinemaclock.com/aw/clga.aw/j.e/f.privacy.html) for the most accurate reproduction.*
 
 # CinemaClock.com - Canada Movie Guide
 
