@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217111551id_/http%3A//www.loewshotels.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022745id_/http%3A//www.loewshotels.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Security
 Links to other sites
     Neither Loews Hotels, Inc., nor any of its affiliates, shall have any responsibility of nature whatsoever for other Websites linked to this site, or any information contained thereon, none of which has been verified or endorsed by either Loews Hotels, Inc. or any of its affiliates.
 Contact us
-    If you have any questions or concerns about our Privacy Policy or your dealings with this Website, please [Contact Us](https://web.archive.org/web/20081217111551id_/http%3A//www.loewshotels.com/en/ContactUs.aspx).
+    If you have any questions or concerns about our Privacy Policy or your dealings with this Website, please [Contact Us](https://web.archive.org/web/20090619022745id_/http%3A//www.loewshotels.com/en/ContactUs.aspx).
