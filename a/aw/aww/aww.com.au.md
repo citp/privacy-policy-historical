@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227094832id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204324id_/http%3A//help.ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
