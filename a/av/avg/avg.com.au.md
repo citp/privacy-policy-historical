@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031746id_/http%3A//www.avg.com.au/index.cfm%3Fsection%3Dabout%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202214id_/http%3A//www.avg.com.au/index.cfm%3Fsection%3Dabout%26action%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy of AVG Australia & New Zealand
+# Privacy Policy | AVG Australia & New Zealand
 
 This is the privacy policy of AVG (AU/NZ) Pty Ltd ("AVG") (ABN 91 663 026 317). AVG understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded.
 
