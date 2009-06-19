@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217155826id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160629id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bizymoms.com
 
@@ -12,17 +12,17 @@
 
 This web site was created by Liz Folger.
 
-You can contact Liz through our customer support center  
-Or you can reach her by telephone at 530-938-2253.
+If you have concerns please contact us through our [help desk](http://wnhelp.com/index.php)   
+You can also contact us at  416-222-2400
 
-Mailing Address: Bizymoms 37, Whiteface Crescent Brampton , ON L6X 4X3 Canada
+Mailing Address: 54 horizon street, brampton, on l6p 2j2, Canada
 
 Bizymoms shares your concern for privacy online and has implemented the following privacy policy to make you aware of how your visit, and any information you share with us while on our site, is utilized.  
   
 ---  
    
   
-**Bizy News Subscriptions** \- When you submit your email address to us for inclusion in our Bizy News email list your address is used solely to share news about our site. This news is delivered primarily through our Weekly Newsletter, but also may arrive in occasional special announcements about our site. Please see the information at the bottom of each mailing for easy instructions on how to unsubscribe if at any time you wish to stop receiving the mailings. Your email address will not be shared with any third parties or be used for any purpose other than those described in this section.  
+**Bizy News Subscriptions** \- When you submit your email address to us for inclusion in our Bizy News email list your address is used solely to share news about our site. This news is delivered primarily through our Newsletters, but also may arrive in occasional special announcements about our site. Please see the information at the bottom of each mailing for easy instructions on how to unsubscribe if at any time you wish to stop receiving the mailings. Your email address will not be shared with any third parties or be used for any purpose other than those described in this section.  
   
    
   
