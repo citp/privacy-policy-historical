@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123412id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060531id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - AdJingo Free Classified Ads
+# Privacy Policy - AdJingo.com
+
+## Privacy Policy
 
 **AdJingo Privacy Policy**
 
@@ -20,11 +22,11 @@ A cookie is a small text file stored on the client user's hard drive containing 
 This web site contains links to other sites. Please be aware that AdJingo.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
 **Using Information from AdJingo.  
-**You may use personal information gathered from AdJingo only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that. 
+**You may use personal information gathered from AdJingo only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that. 
 
 **DISCLOSURE**  
 We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Agreement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. 
 
-**General.** We may update this policy at any time
+**General.** We may update this policy at any time 
 
 April 2008 
