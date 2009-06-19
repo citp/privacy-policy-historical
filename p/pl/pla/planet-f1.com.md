@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-f1.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219053507id_/http%3A//www.planet-f1.com/infomation/privacy_agreement/0%2C23603%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-f1.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022922id_/http%3A//planet-f1.com/infomation/privacy_agreement/0%2C23603%2C%2C00.html) for the most accurate reproduction.*
 
 # Front Page - Planet-F1 News - The Very Latest Formula One News, Galleries And Test Reports from planet-f1.com
 
