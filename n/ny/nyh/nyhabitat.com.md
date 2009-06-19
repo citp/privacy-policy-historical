@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219141617id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620000439id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement
+# New York Habitat's Privacy Statement
 
 **  OUR COMMITMENT TO PRIVACY & RELIABILITY : **  
 
@@ -50,15 +50,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 
   
 Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email to [**privacy@nyhabitat.com**](mailto:privacy@nyhabitat.com). 
-
-  
-
-
-* * *
-
-All information regarding properties on this website is from sources deemed reliable. It is submitted subject to errors, omissions, change of price, commission or conditions, or withdrawal without notice. Photographs, descriptions and information about the properties reflect conditions at the time the photographs were taken or the descriptions or information obtained. 
-
-* * *
 
   
 
