@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217063426id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619060519id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
 
 # e-Marketing Privacy Policy | eROI
 
