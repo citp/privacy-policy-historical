@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175446id_/http%3A//www.puzzlewarehouse.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619124420id_/http%3A//www.puzzlewarehouse.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,12 @@ We collect personally identifiable information, like names, postal addresses, em
 
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.  
   
+### Google Advertising
+
+Google, as a third party vendor, uses cookies to serve ads on our site.   
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+  
 ### Distribution of Information
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.  
@@ -26,7 +32,7 @@ Your personally identifiable information is kept secure. Only authorized employe
   
 ### Privacy Contact information
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
   * By E-Mail: support@puzzlewarehouse.com 
   * By Phone: 651-466-2118
