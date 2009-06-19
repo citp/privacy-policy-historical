@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053040id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210743id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
 
 # BeBareToo.com - PRIVACY POLICY (Nudist Picture/Video Service)
 
@@ -35,11 +35,11 @@ Some sections of our website require your information to be stored in what's kno
 
 ## Access and Changes to your Personal Information
 
-Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to [ billing@bebaretoo.com](mailto:billing@bebaretoo.com) and insert "access request" as the subject heading stating your name and email address for identification purposes.
+Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to our [ Support Team](http://help.purenet-cs.com/index.php?_m=tickets&_a=submit) and insert "access request" as the subject heading stating your name and email address for identification purposes.
 
 At your request, we will use reasonable efforts to update / correct personal information previously submitted by you. You may also request that we cease processing the personal information we have about you and that we delete your personal information from our database or records. However, it may be impossible to delete your information without some residual information because of backups and records of deletions. 
 
-Please address your requests to change or delete your personal information to [ billing@bebaretoo.com](mailto:billing@bebaretoo.com) and insert "change details" or "unsubscribe" as appropriate as the subject heading.
+Please address your requests to change or delete your personal information to our [ Support Team](http://help.purenet-cs.com/index.php?_m=tickets&_a=submit) and insert "change details" or "unsubscribe" as appropriate as the subject heading.
 
 We will only perform the activities outlined above to the extent that such activities will not compromise privacy or security interests. 
 
@@ -49,4 +49,4 @@ We may change this privacy policy from time to time. When such a change is made 
 
 ## For further information
 
-If you have any further enquiries or concerns about our privacy policy please email us at [ support@bebaretoo.com](mailto:support@bebaretoo.com).
+If you have any further enquiries or concerns about our privacy policy please email our [ Support Team](http://help.purenet-cs.com/index.php?_m=tickets&_a=submit).
