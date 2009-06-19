@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218175810id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619031856id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
