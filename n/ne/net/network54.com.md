@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015231id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022011id_/http%3A//www.network54.com/Help%3Ftopic%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,8 +24,5 @@ You may request to have your Network54.com login information removed from our sy
 **Contact Information**  
 If you have any questions or concerns regarding this privacy statement, please contact us at: 
 
-Network54 Corporation  
-10940 Wilshire Blvd.  
-Suite 600  
-Los Angeles, CA 90024  
+888 259-5554  
 support@network54.com 
