@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024940id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050255id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # About > Air 1, The Positive Alternative
 
