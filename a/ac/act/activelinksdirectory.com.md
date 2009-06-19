@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150659id_/http%3A//www.activelinksdirectory.com/page.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619095850id_/http%3A//activelinksdirectory.com/page.php%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
