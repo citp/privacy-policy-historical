@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlebroking.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218034432id_/http%3A//www.hlebroking.com/v2/aboutus/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlebroking.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619064244id_/http%3A//hlebroking.com/v2/aboutus/privacypolicy.asp) for the most accurate reproduction.*
 
 # HLeBroking :: Reliable & Responsive
 
@@ -13,4 +13,4 @@
   * By continuing with the use of this website, you authorize us to share such personal information with our related companies and other financial services providers with which we have joint marketing agreements or that offer financial products and services with us or on our behalf. By sharing such information, we can provide you with a wider range of financial products and services, improve your trading experience with us, and better serve your financial needs.
 
   
-Under certain circumstances, HLG Securities, its affiliates and related companies may be obliged to disclose your personal information to governmental, law enforcement and regulatory authorities.
+Under certain circumstances, Hong Leong Investment Bank Berhad, its affiliates and related companies may be obliged to disclose your personal information to governmental, law enforcement and regulatory authorities.
