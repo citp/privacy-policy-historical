@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217102701id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619081358id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
 
 # Citizens Bank: Privacy Statement
 
@@ -43,9 +43,9 @@ We are very restrictive with your personal information. There are two primary re
 
 ### Citizens Republic Bancorp affiliates use information to work together to meet your financial needs.
 
-Affiliates are financial service companies that are part of the Citizens Republic Bancorp family through common ownership or control, and are listed at the beginning of this statement. Our affiliates share nonpublic personal information internally among ourselves so that we can serve you more efficiently, offer you new services such as mortgages, insurance and investments, and reduce the amount of information you need to furnish every time you deal with us.
+Affiliates are financial service companies that are part of the Citizens Republic Bancorp family through common ownership or control, and are listed at the beginning of this statement. Our affiliates may share, where permitted by law,  nonpublic personal information internally among ourselves so that we can serve you more efficiently, offer you new services, and reduce the amount of information you need to furnish every time you deal with us.
 
-We are permitted by law to share with our affiliates information about your transactions or experiences with us. For example, we are permitted to share information about your account history, account balance and payment history. We do not share any other information such as income or credit history with our affiliates.
+Where permitted by law, weo share with our affiliates, information about your transactions or experiences with us. For example, we may share information about your account history, account balance and payment history. We do not share any other information such as income or credit history with our affiliates.
 
 ### We provide information to select outside companies in order to service your accounts or help us introduce new services to you.
 
@@ -73,4 +73,4 @@ This policy is designed to comply with the privacy provisions in Title V of the 
 
 In addition, as we establish new affiliates in the future, these privacy standards will apply as well.
 
-Citizens Republic Bancorp © 2008 GLB
+Citizens Republic Bancorp © 2009 GLB
