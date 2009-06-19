@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tss-articles.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220163655id_/http%3A//tss-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tss-articles.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160617id_/http%3A//tss-articles.com/privacy.php) for the most accurate reproduction.*
 
-# tss-articles.com
+# hacked By M0µ34d
+
+H4ck3d By M0µ34d  
+!
 
 Your Article Directory Privacy Policy
 
@@ -55,3 +58,7 @@ This policy and the use of this Site are governed by United Kingdon and EEC Law.
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Manchester UK.. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
 TSS-Articles.com is controlled, operated and administered entirely within the UK. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+[TNT ARTICLES ](http://www.tntarticles.com/) | [ARTICLEEXTREME](http://articleextreme.com/) | [THE HYPER ADVERTISER](http://www.hyper-advertiser.com/) | [ HYPER ADVERTISER BLOG ](http://www.hyperadvertiser.com/)
+
+Powered by [Article Dashboard](http://www.articledashboard.com/)
