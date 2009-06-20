@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115253id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121317id_/http%3A//www.livephish.com/privacy.aspx) for the most accurate reproduction.*
 
-# livephish.com | PRIVACY POLICY
+# LivePhish.com - Privacy Policy - Live Phish MP3 Downloads FLAC Downloads Live CDs
+
+| 
 
 Thank you for visiting the LivePhish.com website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at LivePhish.com. 
 
@@ -38,3 +40,5 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How to Contact Us**  
 If you have any questions or concerns about the LivePhish.com online policy for this site or its implementation you may contact us at [webmaster@livephish.com ](mailto:webmaster@livephish.com). 
+
+| 
