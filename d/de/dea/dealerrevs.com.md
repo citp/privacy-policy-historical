@@ -1,0 +1,48 @@
+> *The following text is extracted and transformed from the dealerrevs.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620100437id_/http%3A//dealerrevs.com/privacy_policy.html) for the most accurate reproduction.*
+
+# DealerRevs.com Privacy Policy
+
+## Privacy Policy Notice
+
+This notice describes the our privacy policy "Notice". By visiting the Web Site "DealerRevs.com", you are accepting the practices described in this Notice. 
+
+ARTICLE I" PRINCIPLES:
+
+Section 1.01 -- Principles: We may gather and use information as follows:  
+**  
+** (1) Notice: We may gather and use information as follows:  
+  
+(a) Volunteered Information: **** We will receive and store any information you enter on the Web Site or give us in any other way that personally identifies you to improve your experience at the Web Site, to get a better general understanding of the type of individuals visiting the Web Site, and to enable us to contact you when needed. Typically you will provide information on the Web Site only for the use of services or when you submit comments or questions for review by us.(b) Automatic Information: **** To enable us to provide content that users need and desire, we collect aggregated site-visitation statistics, sometimes using cookies. A Cookie is simply a small data file we place on your computer"s hard drive when you first visit the Web Site [DealerRevs.com](http://dealerevs.com/). This file contains a unique number that helps us identify you when you return to the Web Site. Cookies are employed by thousands of web sites to enhance users" web viewing experience. Cookies can neither damage user files nor can they read information from users" hard drives. We combine all usage information provided by such Cookies and we do not monitor your use of the Web Site. Allowing us to create a Cookie on your hard drive will not give us or any other site access to the rest of your computer"s hard drive, and only we will be able to read the Cookie that the Web Site creates.(c) Information Use: **** We may use information for personal identification; to get a better general understanding of the type of individuals visiting the Web Site; to respond to your requests for purchases, comments, or questions; to improve your experience at the Web Site; to collect aggregated site-visitation statistics; and to alert you to product enhancements, special offers, updated information, and other new services from us. We also use information to alert you of subscription renewal discounts, to automatically renew your subscription and advise you of upcoming service offerings and events.  
+  
+We may disclose information to third parties, including selling or disclosing customer lists to commercial or charitable users thereof. Disclosure for such purposes is limited to your name, company, position, address, phone and fax numbers, and web site and email addresses. If you do not wish to have such information disclosed, please let us know by contacting us by email at admin@dealerevs.com  
+or by phone at [734-544-9840]. To enable us to process your request, please include your name and address. Once properly notified, we will remove your name from the lists and disclosures as soon as we practicably can in the course of normal business practices. 
+
+Any user questions or comments submitted to us may become available in the public sections of the Web Site, including a section entitled "Frequently Asked Questions," immediately after such questions or comments are submitted to us. If we publicize any user questions, such questions will not contain facts that identify the user or the specific parties involved. We also reserve the right to use any user comments submitted to us for promotional purposes and by submitting such comments to us you agree that we may do so. 
+
+We may release any user information if required to comply with law; to enforce or to apply the Web Site Terms and Conditions; or under the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights, properties, or safety of us or our users.
+
+Choice: We give you a choice as to the type and amount of private information we have, as follows: 
+
+(a) Volunteered Information: **** You can always choose not to provide certain information to us. If you choose not to provide personal information, you can still use many parts of the Web Site. However, you will not be able to add or modify listings. If you have previously provided certain information to us and you desire to remove such information from our databases, or if you do not wish for your information to be disclosed to third parties, you may contact us at [admin@dealerevs.com](https://web.archive.org/contact.html) to remove such information.
+
+(b) Automatic Information: ********Most web browsers automatically accept Cookies, but if you prefer, you can edit your browser options to block Cookies in the future. The "Help" portion of the toolbar on most browsers will explain how you can prevent your browser from accepting new Cookies, how to set the browser to inform you when you receive a new Cookie, or how to reject Cookies altogether.  
+  
+Access: We provide you with the ability to ensure that your personal information is correct and current. You may review and update your personal information by contacting us at [admin@dealerevs.com](https://web.archive.org/contact.html). For security purposes, we require user verification via user"s user name and password to receive personal information.
+
+Section 2.01 -- User Safeguards: **** You are responsible for maintaining the secrecy of your user name, password, and any account information. It is important for you to be responsible and protect your user name, password, and computer against unauthorized users. It is important to sign off when you have completed using a computer accessible by others.   
+  
+Section 3.01 -- Children: **** We do not sell services for children. Users of the Web Site must be at least eighteen years old. If a child has provided us with personal information, that child"s parent or guardian should contact us at [admin@dealerevs.com](https://web.archive.org/contact.html) to delete such information from our records.  
+**  
+** Section 4.01 -- Third Party Web Sites: **** Please be aware that the Web Site may have links to third party web sites that may collect personally identifiable information about you. When you click on one of these third party links, you are entering another web site for which we have no responsibility. This Notice does not cover the information practices or policies of such third party web sites. We encourage you to read the privacy statements of all such web sites since their privacy policies may be materially different from our Notice.  
+**  
+** Section 5.01 -- Agreement and Modification: **** By using and accessing the Web Site you indicate that you have read and understand this Notice and you consent to the collection and use of information by us in the manner explained in this Notice. This Notice and the Web Site Terms and Conditions, including without limitation, provisions covering limitations on damages, arbitration of disputes, and the application of Michigan law govern any dispute over privacy. By using and accessing the Web Site you agree to indemnify us for any and all third party claims resulting from your breach of this Notice or the Web Site Terms and Conditions. If you have any questions or concerns about your privacy at the Web Site, please email a thorough description of the issue to [admin@dealerevs.com](https://web.archive.org/contact.html). If you do not accept this Notice, do not access and use the Web Site. We may revise this Notice at any time without notice by updating this Notice. Any modifications in the way we use personal information will be provided in future updates of this Notice so you are always aware of what information we collect, how we use it, and under what circumstances we disclose such information. Modifications will be effective immediately and will be available on the Web Site. You should visit this web page periodically to review the Notice. User accepts any such modifications to this Notice by continued use of the Web Site after such modifications are made. 
+
+Section 6.01 -- Google and the DoubleClick DART cookie:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to you based on your participation with this site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+Updated: April 3, 2009 
