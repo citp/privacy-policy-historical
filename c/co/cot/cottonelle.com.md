@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonelle.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221010927id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonelle.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620093448id_/http%3A//www.cottonelle.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ GIF files are provided by our ad management partner, DoubleClick. These files en
 
 ### Contact Us
 
-If you have any questions about our Privacy Policy, you can [contact us via e-mail](https://web.archive.org/web/20081221010927id_/http%3A//www.cottonelle.com/contact_us.aspx) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can [contact us via e-mail](https://web.archive.org/web/20090620093448id_/http%3A//www.cottonelle.com/contact_us.aspx) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
 Kimberly-Clark Corporation  
 P.O. Box 2020  
