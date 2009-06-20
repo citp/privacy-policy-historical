@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linear.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217111232id_/http%3A//www.linear.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linear.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620134946id_/http%3A//www.linear.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- template-body --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,6 +22,7 @@
 <script language="JavaScript" type="text/JavaScript" src="/assets/js/libraries.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/assets/js/javascript.js"></script>
 <script language="JavaScript" type="text/JavaScript" src="/assets/js/my.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/assets/js/ss.js"></script>
 </head>
 <body>
 <div id="container">
@@ -47,9 +48,8 @@
 			<div id="searchForm">
 				<form action="/search/searchResults.do" method="GET" name="siteSearch" id="siteSearch">
 					<input type="hidden" name="siteSearch" value="Search">
-					<input name="siteCriteria" type="text" value="Search" onclick="this.value=''">
-					<a href="javaScript:document.siteSearch.submit();" onclick="javascript:urchinTracker ('/SearchResults/'+ document.siteSearch.siteCriteria.value.toUpperCase());"><img src="/assets/images/glbnav_searchbutton.gif" alt="Search"></a><br>		    
-					<a href="/search/advanced.jsp"><img src="/assets/images/glbnav_advsearch.gif" alt="Advanced Search"></a>
+					<input name="siteCriteria" type="text" value="Search" onblur="if(this.value == '')this.value='Search'" onfocus="if(this.value == 'Search')this.value=''">
+                    <a onclick="javascript:urchinTracker ('/SearchResults/'+ document.siteSearch.siteCriteria.value.toUpperCase());" href="javaScript:document.siteSearch.submit();"><img alt="Search" src="/assets/images/glbnav_searchbutton.gif"></a>
 				</form>
 			</div>
 			<div id="navLinks">
@@ -160,7 +160,7 @@
 		
 	
 	</div>
-	<a href="/mylinear/"><img src="/left_MyLinear.gif" alt="Sign up for a MyLinear Account!" border="0"></a>
+	
 
 
 
