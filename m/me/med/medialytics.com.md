@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medialytics.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218235250id_/http%3A//www.medialets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medialytics.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620063419id_/http%3A//www.medialets.com/privacy) for the most accurate reproduction.*
 
 # Mobile Analytics | Mobile Advertising | iPhone Analytics | Android Analytics | App Store Ranking | Privacy Policy | Medialets
 
