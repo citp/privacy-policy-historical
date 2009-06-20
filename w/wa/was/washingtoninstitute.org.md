@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142154id_/http%3A//www.washingtoninstitute.org/templateC11b.php%3FCID%3D155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620200342id_/http%3A//www.washingtoninstitute.org/templateC11b.php%3FCID%3D155) for the most accurate reproduction.*
 
 # About the Bookstore
 
-[Home](https://web.archive.org/web/20081217142154id_/http%3A//www.washingtoninstitute.org/templateI01.php) > Privacy/Security Policy  
+[Home](https://web.archive.org/web/20090620200342id_/http%3A//www.washingtoninstitute.org/templateI01.php) > Privacy/Security Policy  
   
 Privacy/Security Policy
 
@@ -40,7 +40,7 @@ Orders placed in this online bookstore are secured using the standard Web encryp
 
 **TERMS OF USE, NOTICES, and REVISIONS  
 **  
-If you choose to visit the Bookstore, your visit and any dispute over privacy is subject to this Privacy/Security Policy and our terms of use, including limitations on damages and the resolution of disputes. If you have any concern about privacy at the Bookstore, please�[contact us](https://web.archive.org/web/20081217142154id_/http%3A//www.washingtoninstitute.org/templateC11.php?CID=24&emailFor=Steve%20Linn)�with a thorough description, and we will try to resolve it.� 
+If you choose to visit the Bookstore, your visit and any dispute over privacy is subject to this Privacy/Security Policy and our terms of use, including limitations on damages and the resolution of disputes. If you have any concern about privacy at the Bookstore, please�[contact us](https://web.archive.org/web/20090620200342id_/http%3A//www.washingtoninstitute.org/templateC11.php?CID=24&emailFor=Steve%20Linn)�with a thorough description, and we will try to resolve it.� 
 
 **SAFEGUARDING YOUR PRIVACY  
 **  
@@ -50,4 +50,4 @@ The Federal Trade Commission provides useful information about online privacy on
 
 **CHANGES AND UPDATES**
 
-The Washington Institute for Near East Policy reserves the right to modify or amend this policy at any time by posting the revised policy on our website. If you have any questions regarding our Privacy/Security Policy, please�[contact us](https://web.archive.org/web/20081217142154id_/http%3A//www.washingtoninstitute.org/templateC11.php?CID=24&emailFor=Steve%20Linn). 
+The Washington Institute for Near East Policy reserves the right to modify or amend this policy at any time by posting the revised policy on our website. If you have any questions regarding our Privacy/Security Policy, please�[contact us](https://web.archive.org/web/20090620200342id_/http%3A//www.washingtoninstitute.org/templateC11.php?CID=24&emailFor=Steve%20Linn). 
