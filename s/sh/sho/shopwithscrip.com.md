@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwithscrip.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064454id_/http%3A//www.shopwithscrip.com./policies/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithscrip.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620132635id_/http%3A//www.shopwithscrip.com/policies/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Shop With Scrip - Privacy Policy
 
@@ -34,3 +34,5 @@ While you are browsing our websites, you might be directed to websites operated 
 We strive to ensure that the personal information we have maintained about you is accurate, current, and complete. We will respond to your request to correct inaccurate information in a timely manner. If you find that your personal account information is incomplete, inaccurate, or not current, you should update your account profile by clicking on that link on the website, or if appropriate, contacting us via e-mail. 
 
 GLSC takes the security of information very seriously and has established security standards and procedures to prevent unauthorized access to customer information. We use industry standard means such as physical, electronic, and procedural safeguards, including data encryption and secure socket layer technology. We update and test our technology regularly to maintain and improve the protection of our customers' information. We restrict access to personal information to employees and service providers for legitimate business purposes to assist in providing services to you. Employees who violate our privacy policy are subject to disciplinary action. 
+
+ 
