@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Broadway in Chicago
 
 [](http://www.broadwayinchicago.com/)  
+  
 |    
 [](http://www.broadwayinchicago.com/bestseats)
 
@@ -14,7 +15,6 @@
 
 [](http://www.broadwayinchicago.com/social.php)
 
-  
 |  |   
 ---  
   
@@ -79,22 +79,22 @@ We may share personally identifiable information with companies whose practices 
   
 | 
 
-[Employment](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/employment.php)
+[Employment](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/employment.php)
 
 | 
 
-[Technical](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/technical.php)
+[Technical](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/technical.php)
 
 | 
 
-[Privacy Notice](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/privacy.php)
+[Privacy Notice](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/privacy.php)
 
 | 
 
-[Site Map](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/sitemap.php)
+[Site Map](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/sitemap.php)
 
 | 
 
-[Contact Us](https://web.archive.org/web/20081218093846id_/http%3A//www.broadwayinchicago.com/theatreinfo_contact.php)  
+[Contact Us](https://web.archive.org/web/20090620051442id_/http%3A//www.broadwayinchicago.com/theatreinfo_contact.php)  
   
 ---|---|---|---|---
