@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219195007id_/http%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620153150id_/http%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding Planning, Ideas & Etiquette | Bridal Guide Magazine
 
@@ -36,3 +36,5 @@ Please keep in mind that any information you provide in a message board posting 
 
 **Your acceptance of these terms  
 ** By using this website, you signify your assent to the bridalguide.com privacy policy. If you do not agree to this policy, please do not use our website. We reserve the right to change this privacy policy from time to time, so please check back periodically. Your continued use of the bridalguide.com website following the posting of changes to these terms will mean you accept these changes.
+
+###### View Articles by Tag
