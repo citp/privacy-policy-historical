@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006104602id_/http%3A//jobnewsusa.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202551id_/http%3A//jobnewsusa.com/Privacy.aspx) for the most accurate reproduction.*
 
 # JobNewsUSA.com - Search Your Area's Best Local Jobs
 
 **_Overview_**
 
-Job News is a career web site that provides a forum for job seekers and employers to get in contact with each other. We are committed to protecting the privacy of our users and want to provide a safe, secure environment so that you will have a reasonable expectation of privacy. We will use our best efforts to ensure that the personal information you submit to us remains private and that any other information you give us will only be used for the intended purposes. You should also read and understand our _Terms and Conditions_ ([click here](https://web.archive.org/web/20081006104602id_/http%3A//jobnewsusa.com/terms.aspx)), which are incorporated into this Privacy Policy. We will work hard to earn your loyalty; therefore, the following reflects our commitment to you. 
+Job News is a career web site that provides a forum for job seekers and employers to get in contact with each other. We are committed to protecting the privacy of our users and want to provide a safe, secure environment so that you will have a reasonable expectation of privacy. We will use our best efforts to ensure that the personal information you submit to us remains private and that any other information you give us will only be used for the intended purposes. You should also read and understand our _Terms and Conditions_ ([click here](https://web.archive.org/web/20090620202551id_/http%3A//jobnewsusa.com/terms.aspx)), which are incorporated into this Privacy Policy. We will work hard to earn your loyalty; therefore, the following reflects our commitment to you. 
 
 **_Information About You_**
 
@@ -74,7 +74,7 @@ We may have an area on the web site where you can submit feedback. Any feedback 
 
 **_Terms and Conditions_**
 
-Please review our _Terms and Conditions of Use_ ([click here](https://web.archive.org/web/20081006104602id_/http%3A//jobnewsusa.com/terms.aspx)) which govern your use of this web site. If you have any questions whatsoever, you should contact your attorney. If we decide to change this Privacy Policy, any changes will be posted here so that you will always know what our Privacy Policy is, what information we gather, how we use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about Job News' Privacy Policy or terms and conditions of use, please feel free to email us at [ Notices@JobNewsusa.com](mailto:notices@jobnewsusa.com) or call 1-888-502-6397 and ask to speak with one of our representatives.
+Please review our _Terms and Conditions of Use_ ([click here](https://web.archive.org/web/20090620202551id_/http%3A//jobnewsusa.com/terms.aspx)) which govern your use of this web site. If you have any questions whatsoever, you should contact your attorney. If we decide to change this Privacy Policy, any changes will be posted here so that you will always know what our Privacy Policy is, what information we gather, how we use that information, and whether we will disclose it to anyone. If at any time you have questions or concerns about Job News' Privacy Policy or terms and conditions of use, please feel free to email us at [ Notices@JobNewsusa.com](mailto:notices@jobnewsusa.com) or call 1-888-502-6397 and ask to speak with one of our representatives.
 
 **_Contact Information_**
 
