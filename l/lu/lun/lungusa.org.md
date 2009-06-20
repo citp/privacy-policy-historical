@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220134519id_/http%3A//www.lungusa.org/site/pp.asp%3Fc%3DdvLUK9O0E%26b%3D38462) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620070255id_/http%3A//www.lungusa.org/site/pp.asp%3Fc%3DdvLUK9O0E%26b%3D38462) for the most accurate reproduction.*
 
 # Privacy Policy - American Lung Association site
 
 The American Lung Association® is dedicated to protecting the privacy of our online visitors. You may choose to supply personal information in eight different areas on this site: 
 
 > * _**"Site Membership" Registration:**_   
->  When you register as a "member" of the nationwide American Lung Association web site,[www.lungusa.org](https://web.archive.org/web/20081220134519id_/http%3A//www.lungusa.org/site/www.lungusa.org), you will be required to provide the following information: your name, e-mail address, zip code, age, member name and password. 
+>  When you register as a "member" of the nationwide American Lung Association web site,[www.lungusa.org](https://web.archive.org/web/20090620070255id_/http%3A//www.lungusa.org/site/www.lungusa.org), you will be required to provide the following information: your name, e-mail address, zip code, age, member name and password. 
 > 
 > In addition, you have the option of letting the American Lung Association contact you in the future. This form also requests additional information, including: your address, household income, education, marital status and occupation. This information helps us define the demographic make-up or our visitors online.
 > 
