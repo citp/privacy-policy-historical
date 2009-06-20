@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218083852id_/http%3A//www.basenotes.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620160207id_/http%3A//www.basenotes.net/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Basenotes.net
 
@@ -52,4 +52,4 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](https://web.archive.org/web/20081218083852id_/http%3A//www.basenotes.net/info/feedback.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us here](https://web.archive.org/web/20090620160207id_/http%3A//www.basenotes.net/info/feedback.html). 
