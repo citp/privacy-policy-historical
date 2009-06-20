@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912022756id_/http%3A//www.buyvogue.com/index.php%3Fmain_page%3Dpage%26id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065831id_/http%3A//www.buyvogue.com/page.html%3Fid%3D5) for the most accurate reproduction.*
 
-# Privacy Policy : Prada Sneakers, Prada Shoes, Fendi Sneakers, Fendi Shoes, Gucci Sneakers, Gucci Shoes, Buyvogue.com
-
-| 
+# Privacy Policy - Prada Sneakers, Prada Shoes, Gucci Sneakers, Gucci Shoes, Dolce Gabbana, Versace at BuyVogue - Online Fashion Store
 
 > PRIVACY RIGHTS OF WEBSITE VISITORS
 
@@ -16,7 +14,7 @@
 > 
 >   * We collect information from you when you register on the site, place an order, respond to a survey or communication such as e-mail, or participate in another site feature. 
 >   * When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information. You may, however, visit our site anonymously or purchase without registering. 
->   * Like many websites, we use ?cookies? to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies' ?" section below for information about cookies and how we use them. 
+>   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies' ?" section below for information about cookies and how we use them. 
 >   * We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. For more information see the "Do we use 'cookies'?" section below. 
 > 
 
@@ -60,7 +58,7 @@
 > 
 > 
 >   * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. 
->   * The term ?outside parties? does not include BuyVogue.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting BuyVogue's business, or servicing you, so long as those parties agree to keep this information confidential. 
+>   * The term "outside parties" does not include BuyVogue.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting BuyVogue's business, or servicing you, so long as those parties agree to keep this information confidential. 
 >   * We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
 >   * However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 > 
@@ -92,13 +90,5 @@
 
 > BuyVogue Inc.
 
-| 
-
-### FEATURED
-
-[  
-](http://www.buyvogue.com/index.php?main_page=product_info&products_id=675)  
-$349.00  $149.00  
-Save: 57% off  
   
----|---|---
+
