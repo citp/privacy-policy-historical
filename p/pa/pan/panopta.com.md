@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220194546id_/http%3A//www.panopta.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620231555id_/http%3A//www.panopta.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Panopta
 
+### About Panopta
+
+## Panopta Newsletter
+
+Subscribe to our email newsletter to get the latest news about what's happening at Panopta. 
+
+Your address will _only_ be used for the newsletter, and will never be sold or used for other marketing purposes.
+
 At Panopta, we take your privacy and the security of the information you share with us very seriously. If you have any questions about the policy or how it applies to your data, please contact us at [privacy@panopta.com](mailto:privacy@panopta.com).
 
-### Data Collected
+## Data Collected
 
 When you visit our public website, we collect the URL from which you linked to our site, your IP address, and your browser type and version. This information is collected anonymously and is not linked to your personal information. We collect email addresses from visitors to our site that wish to opt into our monthly email newsletter. 
 
@@ -12,7 +20,7 @@ If you create a trial account, we will collect basic customer information, limit
 
 We use cookies for session tracking in both the public website and control panel. No personally identifiable information is stored in the cookie data. 
 
-### Use of Customer Information
+## Use of Customer Information
 
 The information we collect from our public website is used in aggregate form to improve the content of our website and guide our advertising and marketing practices. Individual visitor session data is never used for this purpose. Any contact information given in the process of signing up for a trial account or mailing list will only be used internally and never sold or shared with a third party for marketing purposes. Opt-out instructions are included in all communication so that you can remove yourself from future communication whenever you would like. 
 
