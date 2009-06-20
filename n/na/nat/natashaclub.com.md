@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013244id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620214404id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
 
 # Natasha Club privacy statement
 
@@ -58,5 +58,6 @@ Romeoville, IL 60446
 USA **
 
 **Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)**  
-**Outside US call: ****+1 (312) 252-0005 or  +44 0207 071 5699**  
-**Fax: (360) 525-0025**
+**Outside US call: ****+1 (312) 252-0005 or  +44 (0) 2030261229**
+
+******Fax: (360) 525-0025**
