@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220160731id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620233625id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
 
-# Members Equity Bank :: Privacy Policy
+# ME Bank :: Privacy Policy
 
 > **How to contact us** ^
 
