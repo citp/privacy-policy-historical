@@ -1,28 +1,58 @@
-<!--The following is the downloaded HTML source of the mscsoftware.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221134412id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mscsoftware.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620194701id_/http%3A//www.mscsoftware.com/about/legal/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head><script> 
-if (location.hash == "#trademark") { 
-   location.href = '/about/legal/trademark.cfm'; 
-} 
-if (location.hash == "#privacy") { 
-   location.href = '/about/legal/privacy.cfm'; 
-} 
-if (location.hash == "#terms") { 
-   location.href = '/about/legal/terms.cfm'; 
-} 
-</script>
-
-
-
-
-
-
-
+<html><head>
 
 
 <script src="/includes/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
+function isSignedIn() {
+
+	return (GetCookie('userid') != null);
+
+}
+function getCookieVal (offset) {
+
+	var endstr = document.cookie.indexOf (";", offset);
+
+	if (endstr == -1)
+
+		endstr = document.cookie.length;
+
+	return unescape(document.cookie.substring(offset, endstr));
+
+}
+
+
+
+function GetCookie (name) {
+
+  var arg = name + "=";
+
+  var alen = arg.length;
+
+  var clen = document.cookie.length;
+
+  var i = 0;
+
+  while (i < clen) {
+
+    var j = i + alen;
+
+    if (document.cookie.substring(i, j) == arg)
+
+      return getCookieVal (j);
+
+    i = document.cookie.indexOf(" ", i) + 1;
+
+    if (i == 0) break; 
+
+  }
+
+  return null;
+
+}
+
 	function showPopUp(popUpObj)
 	{
 		popUpObj.style.visibility = "visible";
@@ -131,8 +161,22 @@ AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/
 											<input type="submit" name="btnG" value="Search"></form>
                                             </div>
 										
-				</span>
-			</span>
+				<script language="Javascript">
+<!--
+   if (!isSignedIn()) {
+     var nav1_img = "'nav_header_sign_in.jpg'";
+     var nav2_img = "'nav_header_register.jpg'";
+     document.write('</span></span><span id="signinLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/cgi-bin/register/signinform.pl"><img src="/templates/images/nav_header_sign_in.jpg" border="0" name="NAV_HEADER_SIGN_IN" id="NAV_HEADER_SIGN_IN_ID" onMouseOver="swapNavImg(this, event);" onMouseOut="swapNavImg(this, event, ' + nav1_img + ');"></a></span>');
+     document.write('<span id="registerLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/registration/create_account.cfm"><img src="/templates/images/nav_header_register.jpg" border="0" name="NAV_HEADER_REGISTER" id="NAV_HEADER_REGISTER_ID" onMouseOver="swapNavImg(this, event);" onMouseOut="swapNavImg(this, event, ' + nav2_img + ');"></a>');
+   }
+   else {
+     var nav1_img = "'nav_header_sign_out.jpg'";
+     var nav2_img = "'nav_header_my_account.jpg'";
+     document.write('</span></span><span id="signoutLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/cgi-bin/signout.pl"><img src="/templates/images/nav_header_sign_out.jpg" border="0" name="NAV_HEADER_SIGN_OUT" id="NAV_HEADER_SIGN_OUT_ID" onMouseOver="swapNavImg(this, event);" onMouseOut="swapNavImg(this, event, ' + nav1_img + ');"></a></span>');
+     document.write('<span id="myaccountLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/misc/member_services.cfm"><img src="/templates/images/nav_header_my_account.jpg" border="0" name="NAV_HEADER_MY_ACCOUNT" id="NAV_HEADER_MY_ACCOUNT_ID" onMouseOver="swapNavImg(this, event);" onMouseOut="swapNavImg(this, event, ' + nav2_img + ');"></a>');
+   }
+// -->
+</script></span></span><span id="signinLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/cgi-bin/register/signinform.pl"><img src="/templates/images/nav_header_sign_in.jpg" border="0" name="NAV_HEADER_SIGN_IN" id="NAV_HEADER_SIGN_IN_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_header_sign_in.jpg');"></a></span><span id="registerLink" style="position:relative; z-index:0"><a href="http://support.mscsoftware.com/registration/create_account.cfm"><img src="/templates/images/nav_header_register.jpg" border="0" name="NAV_HEADER_REGISTER" id="NAV_HEADER_REGISTER_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_header_register.jpg');"></a></span><span id="cartLink" style="position:relative; z-index:0"><a href="http://store.mscsoftware.com/cgi-bin/payment/viewcart"><img src="/templates/images/nav_header_cart.jpg" border="0" name="NAV_HEADER_CART" id="NAV_HEADER_CART_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_header_cart.jpg');"></a></span>
 		</td>
     </tr>	
 	<tr>
@@ -168,7 +212,7 @@ AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/
 
 
 		<tbody><tr>
-		<td width="1000" colspan="2" bgcolor="666666"><a href="/products/?Q=131"><img alt="" id="NAV_PRODUCTS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_products.jpg');" src="/templates/images/nav_products.jpg" border="0"></a><a href="/industry/?Q=286"><img alt="" id="NAV_INDUSTRY_SOLUTIONS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_industry_solutions.jpg');" src="/templates/images/nav_industry_solutions.jpg" border="0"></a><a href="/services/?Q=290"><img alt="" id="NAV_SERVICES_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_services.jpg');" src="/templates/images/nav_services.jpg" border="0"></a><a href="/university/?Q=423"><img alt="" id="NAV_ACADEMIC_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_academic.jpg');" src="/templates/images/nav_academic.jpg" border="0"></a><a href="/support/?Q=132"><img alt="" id="NAV_TRAINING_SUPPORT_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_training_support.jpg');" src="/templates/images/nav_training_support.jpg" border="0"></a><a href="/partners/"><img alt="" id="NAV_PARTNERS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_partners.jpg');" src="/templates/images/nav_partners.jpg" border="0"></a><a href="/about/?Q=135"><img alt="" id="NAV_CORPORATE_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_corporate_over.jpg');" src="/templates/images/nav_corporate_over.jpg" border="0"></a></td>
+		<td width="1000" colspan="2" bgcolor="666666"><a href="/products/?Q=131"><img alt="" id="NAV_PRODUCTS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_products.gif');" src="/templates/images/nav_products.gif" border="0"></a><a href="/industry/?Q=286"><img alt="" id="NAV_INDUSTRY_SOLUTIONS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_industry_solutions.gif');" src="/templates/images/nav_industry_solutions.gif" border="0"></a><a href="/services/?Q=290"><img alt="" id="NAV_SERVICES_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_services.gif');" src="/templates/images/nav_services.gif" border="0"></a><a href="/university/?Q=423"><img alt="" id="NAV_ACADEMIC_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_academic.gif');" src="/templates/images/nav_academic.gif" border="0"></a><a href="/support/?Q=132"><img alt="" id="NAV_TRAINING_SUPPORT_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_training_support.gif');" src="/templates/images/nav_training_support.gif" border="0"></a><a href="/partners/"><img alt="" id="NAV_PARTNERS_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_partners.gif');" src="/templates/images/nav_partners.gif" border="0"></a><a href="/communities/?Q=505"><img alt="" id="NAV_COMMUNITIES_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_communities.gif');" src="/templates/images/nav_communities.gif" border="0"></a><a href="/about/?Q=135"><img alt="" id="NAV_CORPORATE_ID" onmouseover="swapNavImg(this, event);" onmouseout="swapNavImg(this, event, 'nav_corporate_over.gif');" src="/templates/images/nav_corporate_over.gif" border="0"></a></td>
 	</tr>
 	
 	<tr>
@@ -260,6 +304,8 @@ AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/
   
     <img src="/images/spacer.gif" alt="" height="2"><br>
   
+    <img src="/images/spacer.gif" alt="" height="2"><br>
+  
 					</td>
 				</tr>
 			</tbody></table>
@@ -277,252 +323,105 @@ AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/
 						
 						<img src="/images/spacer.gif" height="10" border="0" alt=""><br>
 			
-<map name="Map"><area shape="rect" coords="2,3,145,43" href="/" alt=""></map>
-<p><a href="#terms">Terms</a> | <a href="#privacy">Privacy</a> | <a href="#trademark">Trademark</a></p>
-<a name="terms"></a>
-
-<h2>Terms and Conditions of Use and Disclaimer</h2>
+<map name="Map"><area shape="rect" coords="2,3,145,43" href="/" alt=""></map> 
+<h2>MSC.Software Online Privacy Statement</h2>
 <br>
 
-<p><b>Copyright © 2005 The MSC.Software Corporation-All Rights Reserved.</b></p>
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td width="48%"><p>The web sites www.mscsoftware.com and www.engineering-e.com
-        are intended for use by The MSC.Software Corporation's ("MSC") customers
-        and other business partners.</p>
-      <p> You may cite or refer to the information in www.mscsoftware.com and
-        www.engineering-e.com in books, online services, or other media, but
-        except as provided below, you may not reproduce or distribute such information
-        in whole or in part without the prior written permission of MSC. To request
-        such permission, send email to <a href="mailto:www@mscsoftware.com">www@mscsoftware.com</a>,
-        including your name, address and a description of the purpose of your
-        intended distribution and the information you would like to distribute. </p>
-      <p>You may print, reproduce and use the information in, and retrieve files
-        containing software or images from, www.mscsoftware.com for non-commercial,
-        personal, or educational purposes only, provided that you (i) do not
-        modify such information, and (ii) include any copyright notice originally
-        included with such information and this notice in all such copies. <br>
-&nbsp; </p>
-    </td>
-    <td width="4%">&nbsp;</td>
-    <td width="48%"><p>The information and data included in www.mscsoftware.com
-        have been compiled by MSC from a variety of sources, and are subject
-        to change without notice from MSC. MSC makes no warranties or representations
-        whatsoever regarding the quality, content, completeness, or adequecy
-        of such information and data. </p>
-      <p>MSC SPECIFICALLY DISCLAIMS ALL WARRANTIES WITH RESPECT TO www.mscsoftware.com
-        and www.engineering-e.com OR YOUR USE THEREOF, EXPRESS, IMPLIED, OR OTHERWISE,
-        INCLUDING WITHOUT LIMITATION, ALL WARRANTIES OF MERCHANTABILITY AND FITNESS
-        FOR A PARTICULAR PURPOSE. MSC SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
-        OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST REVENUES,
-        LOST PROFITS, OR LOSS OF PROSPECTIVE ECONOMIC ADVANTAGE, RESULTING FROM
-        THE USE OR MISUSE OF www.mscsoftware.com and www.engineering-e.com, OR
-        THE INFORMATION HEREIN. </p>
-    </td>
-  </tr>
-</tbody></table>
-<a name="privacy"></a>
 
-<h2>MSC.Software Website Privacy Policy</h2>
-<br>
+<p><a href="http://www.truste.org/ivalidate.php?url=www.mscsoftware.com&amp;sealid=101" target="_blank"><img src="/about/legal/images/clickseal.gif" hspace="8" vspace="4" border="0" align="right"></a>MSC.Software Corporation ("MSC.Software" or "Company") is committed to safeguarding your privacy while delivering a useful and enjoyable online experience that provides information, products and services that are most helpful to you. This MSC.Software Online Privacy Statement ("Privacy Statement") applies to data collected by MSC.Software through its Web site and services. It does not apply to those MSC.Software sites, services and products that do not display or link to this statement or that have their own privacy statements.</p>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td width="48%"><p>Your privacy is very important to us, and we take our
-        privacy commitment to our website users very seriously. Our goal is to
-        protect your online privacy while delivering a useful and enjoyable online
-        experience that provides the information, products and services that
-        are most relevant and helpful to you. </p>
-      <p>The purpose of this Privacy Policy is to inform you about what kinds
-        of information we may gather when you visit our site, how we may use
-        that information, whether and when we may disclose it to third parties,
-        and choices you have regarding our use of, and your ability to correct,
-        the information. </p>
-    </td>
-    <td width="4%">&nbsp;</td>
-    <td width="48%"><p>MSC.Software Corporation (MSC.Software) reserves the right,
-        at our discretion, to change, modify, add to or remove portions of this
-        policy at any time. Please check this policy page periodically for changes.
-        Your continued use of this website, including usage following the posting
-        of changes to this policy, means you accept this policy. If you do not
-        agree, please do not use this site.</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3"><b class="title"> <br>
-      Information Collection and Usage</b></td>
-  </tr>
-  <tr valign="top">
-    <td><p><u>Automatically Collected Information</u>: When you browse our site,
-        your IP address is logged in order to give us an idea of which parts
-        of our web site you visit and how long you stay there. Your IP address
-        isn't linked to anything personally identifiable. The only other information
-        automatically provided to us is the type of computer and operating system
-        you use to access this site, and your web browser provides this information. </p>
-      <p><u>Other Information Collected</u>: </p>
-      <p>When you place an order from this site or request a quote, you'll be
-        asked for information including your name, shipping or email address
-        and credit card information necessary to fill your order or provide the
-        quotation. We will set up an account for you, which you may access when
-        you want to order or get a quote. </p>
-      <p>When you become a registered user, the registration page will request
-        you to input certain information, such as: your name, email address,
-        street address, and a password you select.</p>
-      <p>Note About Passwords: As a further protection, we do not store passwords
-        in plain text. We store passwords encrypted. When you come back for authentication,
-        we encrypt the entered password and compare that to what is stored in
-        the database.</p>
-      <p><u>What We Do With Information We Collect</u>:</p>
-      <p>We use a secure licensed system for credit card authorization and fraud
-        detection. Your credit card information is sent directly to our credit
-        card service and referenced by your order number. We don't store your
-        credit card information on our web site.</p>
-      <p>MSC.Software may use the information you provide us for internal research
-        or to improve our site and services. This information won't be provided
-        to third parties, except as otherwise provided in this policy. All information
-        you input is protected against unauthorized access, both in house and
-        by third parties.</p>
-    </td>
-    <td width="4%">&nbsp;</td>
-    <td><p><u>Will We Share or Disclose Your Information?</u> We do not sell
-        or rent your personally identifiable information to third parties. We
-        may send personally identifiable information about you to other companies
-        or people:</p>
-      <ul>
-        <li>When we have your consent to share the information;</li>
-        <li>When we need to share the information with companies who work on
-          behalf of MSC.Software for purposes of providing a product or service
-          you have requested (and only for that purpose, unless we tell you differently);</li>
-        <li>To process your credit card payments for products or services, we
-          securely transmit necessary information (account number, billing address,
-          etc.) to an online payment processor service;</li>
-        <li>When we respond to subpoenas, court orders, or other legal processes;</li>
-        <li>When we make reports to law enforcement, or as requested by a government
-          agency conducting investigations or proceedings;</li>
-        <li>If we find that your conduct on our web sites violate any of our
-          terms of use, or similar or other rules governing site usage, user
-          conduct, or any of our other policies or usage guidelines regarding
-          specific products or services;</li>
-        <li>If we must collect on debts; or</li>
-        <li>Where your communications to MSC.Software or other users suggests
-          possible harm to others.<br>
-          <br>
-        </li>
-      </ul>
-      <u>Sending You Information</u>: Our policy is to obtain your permission
-      to send you information about MSC.Software or our business partners. On
-      pages on this site where we collect contact information (for example, our
-      user registration pages), we give you the opportunity to "opt out" of
-      receiving certain information from MSC.Software and/or our business partners.
-      This includes the option to decline to receive such information as updates
-      on products and services, special promotions, and newsletters from various
-      MSC.Software sites. You may also contact us to inquire about these matters,
-      or add or remove your name from our contact lists, by sending an email
-      to www@mscsoftware.com </td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3"><b class="title"><br>
-      Cookies</b></td>
-  </tr>
-  <tr valign="top">
-    <td><p><u> What is a cookie?</u> Cookies were originally designed to help
-        a web site identify a user's browser as a previous visitor and thus save
-        and remember any preferences that were set before. A cookie is a small
-        string of text a web site sends to your browser. It can't retrieve any
-        data from your hard drive, pass on computer viruses, or capture your
-        E-mail address. Many web sites use cookies to enhance the user's visit;
-        in general, cookies can securely store a user's ID and password, personalize
-        home pages, identify which parts of a site have been visited or keep
-        track of selections in a "shopping cart." </p>
-      <p><u>How do we use cookies?</u> We use transient or "session" cookies
-        to track a registered user's session. A session cookie is a small file
-        that contains information about a user that disappears when the user's
-        browser is closed. Unlike a persistent cookie, a transient cookie is
-        not stored on your hard drive. It is only stored in temporary memory
-        and is erased once the browser is closed. Users who have registered memberships
-        with any of the Engineering-e.com sites or subscribed to any applications
-        will need to have their browser enabled to accept cookies in order to
-        access sections of each Engineering-e.com site.</p>
-    </td>
-    <td width="4%">&nbsp;</td>
-    <td><p> Engineering-e.com uses session cookies for a number of purposes,
-        such as to allow a user access to his or her information at the time
-        of signing in or to use tools or services available only to members.
-        Engineering-e.com requires you to sign in after a certain period of time
-        has elapsed to protect you against others accidentally accessing the
-        contents of your account.</p>
-      <p>If you reject all cookies, you will not be able to use Engineering-e.com's
-        products or services that require you to "sign in." It is also
-        likely that you may not be able to take full advantage of each site's
-        offerings.</p>
-      <p>We may use the information we get from cookies to evaluate and improve
-        our web site. We won't use the information transferred through cookies
-        for promotion or marketing purposes, and it won't be shared with third
-        parties. </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3"><b class="title"> <br>
-      Security</b></td>
-  </tr>
-  <tr valign="top">
-    <td> MSC.Software has instituted secure server software (SSL) to protect
-      your Internet transactions. When you place orders or access your account
-      information we use the secure server software to encrypt all your personal
-      information, including credit card numbers, so they cannot be read during
-      Internet transmission. To confirm this, when you enter personal information
-      during the registration or ordering processes, your browser will indicate
-      that you've entered a secure page environment (look for a "lock" icon,
-      and/or you will see that the URL has changed to from "http:" to "https").</td>
-    <td width="4%">&nbsp;</td>
-    <td><p> We use a secure licensed system for credit card authorization and
-        fraud detection. Your credit card information is sent directly to our
-        credit card service and referenced by your order number. We don't store
-        your credit card information on our web site. </p>
-      <p>For further details about security on this MSC.Software site, please
-        see our Security Policy.</p>
-    </td>
-  </tr>
-  
-  <tr valign="top">
-    <td colspan="3"><b class="title"> <br>
-      Links to Other Sites</b></td>
-  </tr>
-  <tr valign="top">
-    <td> As a convenience to you, we sometimes provide links to other, non-MSC.Software
-      websites. These sites are not under the control of MSC.Software, and the
-      fact that MSC.Software provides such links is not an indication that we
-      endorse or are liable for those sites or their content. </td>
-    <td width="4%">&nbsp;</td>
-    <td> This Privacy Policy does not cover those linked sites. If you provide
-      information to those companies' sites, that information will be subject
-      to their privacy policies.</td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3"><b class="title"> <br>
-      Questions and Concerns</b></td>
-  </tr>
-  <tr valign="top">
-    <td colspan="3"> Anytime you have questions or concerns about our Privacy
-      Policy, please contact us at <a href="mailto:www@mscsoftware.com">www@mscsoftware.com</a>.<br>
-&nbsp; </td>
-  </tr>
-</tbody></table>
-<a name="trademark"></a>
+<p>The Web site <i><a href="http://www@mscsoftware.com">http://www.mscsoftware.com</a></i> is intended for use by MSC.Software's customers and other business partners. The purpose of this Privacy Statement is to inform you about what kinds of information we may gather when you visit our site, how we may use the information, whether and when we may disclose it to third parties, and choices you have regarding our use of, and your ability to correct the information.</p>
 
-<h2>Trademark Information</h2>
-<br>
+<p>By accessing or using our Web site, you agree to the terms of this MSC.Software Privacy Statement. If you do not agree to these terms, you must not access or use this site. MSC.Software is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose MSC.Software's information practices and have our privacy practices reviewed for compliance by TRUSTe.</p>
 
-<table cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td width="48%"><p> The trademarks and service marks ("trademarks") displayed on this web site are the property of MSC.Software Corporation or third parties. You are not permitted to use these trademarks without the prior written consent of MSC.Software Corporation or such third parties. </p>
-    The following are trademarks or registered trademarks of MSC.Software Corporation or its subsidiaries in the United States and/or other countries: The MSC.Software corporate logo, ADAMS, CATCMM, DYTRAN, EASY5, Engineering-e.com, Engineering Exchange, Interactive Physics, Laminate Modeler, MARC, Mentat, MSC, MSC., MSC/, MSC.Acumen, MSC.ADAMS, MSC.AKUSMOD, MSC.AMS FVA, MSC.Astros, MSC.CATCMM, MSC.Construct, MSC.DropTest, MSC.Dynamic Designer, MSC.Dytran, MSC.EASY5, MSC.Enterprise Mvision, MSC.Explore, MSC.Fatigue, MSC.FEA, MSC.FlightLoads, MSC.GS-Mesher, MSC.Marc, MSC.MasterKey, MSC.Mvision, MSC.Nastran, MSC.NVH Manager, MSC.Patran, MSC.Robust Design, MSC.SimManager, MSC.SOFY, MSC.SuperForge, MSC.SuperForm, MSC.SuperModel, MSC.Thermal, MSC.Ultima, MSC.visualNastran, PATRAN, Working Model, SimDesigner, SimOffice, Simulating Reality, Simulation Center, and SOFY. The foregoing is not intended to be an exhaustive or comprehensive list of all trademarks owned by MSC.Software Corporation or its subsidiaries. Failure of a trademark to appear on this page does not mean that MSC.Software Corporation does not use the trademark. </td>
-    <td width="4%">&nbsp;</td>
-    <td width="48%">
-      <p> NASTRAN is a registered trademark of the National Aeronautics Space Administration. MSC.Nastran is an enhanced proprietary version developed and maintained by MSC.Software Corporation. ABAQUS is a registered trademark of ABAQUS, Inc. ANSYS is a registered trademark of SAS IP, Inc., a wholly owned subsidiary of ANSYS, Inc. AutoDesk is a registered trademark of Autodesk, Inc. CATIA is a registered trademark of Dassault Systemes SA. FLEX<i>lm</i> is a registered trademark of Macrovision Corporation. Pro/ENGINEER is a registered trademark of Parametric Technology Corporation. Linux is a registered trademark of Linus Torvalds. LS-DYNA is a trademark or registered trademark of LSTC. Unigraphics, Parasolid and I-DEAS are registered trademarks of UGS Corp. All other brand names, product names or trademarks are the property of their respective owners. </p>
-    </td>
-  </tr>
-</tbody></table>
+<p><b><i>Collection of Your Personal Information</i></b></p>
+
+<p>When you browse our Web site, your IP address is automatically logged in order to give us an idea of which parts of our Web site you visit and how long you stay there. Your IP address is not linked to anything personally identifiable. The only other information automatically provided to us and provided by your web browser, is the type of computer and operating system you use to access this Web site.</p>
+
+<p>We may ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your postcode, age, gender, preferences, interests and favorites. When you place an order from this Web site or request a quote, you'll be asked for information including your name, billing or shipping address or work e-mail address, work phone number, credit card information and other personal identifying information necessary to fill your order or provide the quotation. We will set up an account for you, which you may access when you want to order or get a quote.</p>
+
+<p>When you become a registered user, the registration page will request you to input certain information, such as: your name, email address, street address, and a password you select.</p>
+
+<p><b><i>Use of Your Personal Information</i></b></p>
+
+<p>MSC.Software collects and uses your personal information to improve its sites and deliver the services or carry out the transactions you have requested.  This may include providing you with more effective customer service, making the sites or services easier to use by eliminating the need to re-enter the same information repeatedly. When you submit your personal information to MSC.Software,you understand and agree that MSC.Software, its controlled subsidiaries and affiliates may transfer, store, and process your customer profile in any of the countries in which MSC.Software and its controlled affiliates maintain offices, including without limitation, the United States.</p>
+
+<p>MSC.Software abides by the EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union.</p>
+
+<p><b><i>Sharing of Your Personal Information</i></b></p>
+
+<p>Except as described herein, we will not disclose your personal information outside of MSC.Software and its controlled subsidiaries and affiliates without your consent. MSC.Software may hire a third party to provide limited services on our behalf such as processing transactions or providing address verification software to confirm the address provided is a correct mailing address. Those companies are allowed to procure only the personal information needed to deliver the service, must keep confidential the information, and are prohibited from using it for any other purpose.</p>
+
+<p>We obtain your permission to send you information about MSC.Software or our business partners. Where we collect contact information (for example, our user registration pages), we give you the opportunity to "opt out" of receiving certain information from our Company and/or our business partners, and to be removed from our mailing list. This includes the option to decline to receive such information from various MSC.Software sites. You may also contact us to inquire about these matters, or add or remove your name from our contact lists, by sending an email to <i><a href="http://www@mscsoftware.com">www@mscsoftware.com.</a></i></p>
+
+<p>The Company may access and/or disclose your personal information if we believe it is necessary to comply with laws and legal process served on MSC.Software, protect and defend the rights or property of the Company, or act in emergency circumstances to protect the personal safety of users of MSC.Software services or members of the public.</p>
+
+<p>In addition, we do not sell or rent your personally identifiable information to third parties. We may send personally identifiable information about you to other companies or people:</p>
+
+<ul type="disc">
+<li>When we have your consent to share the information;</li>
+
+<li>When we need to share the information with companies who work on behalf of MSC.Software for purposes of providing a product or service you have requested (and only for that purpose, unless we tell you differently);</li>
+
+<li>To process your credit card payments for products or services, we securely transmit necessary information (account number, billing address, etc.) to an online payment processor service;</li>
+
+<li>When we respond to subpoenas, court orders, or other legal processes;</li>
+
+<li>When we make reports to law enforcement, or as requested by a government agency conducting investigations or proceedings;</li>
+
+<li>If we find that your conduct on our web sites violate any of our terms of use, or similar or other rules governing site usage, user conduct, or any of our other policies or usage guidelines regarding specific products or services;</li>
+
+<li>If we must collect on debts; or</li>
+
+<li>Where your communications to MSC.Software or other users suggests possible harm to others.</li>
+</ul>
+
+<p><b><i>Accessing Your Personal Information</i></b></p>
+
+<p>You will be given access to your personal information online to view, correct, amend, or delete inaccurate information, and will be required to sign in with your credentials (e-mails address and password). You can access and update your profile by visiting our Web site at <b><i><a href="https://support.mscsoftware.com/misc/member_services.cfm">https://support.mscsoftware.com/misc/member_services.cfm</a>.</i></b> If you have any questions in this regard, MSC.Software will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. Please notify us via our <i><a href="http://www.mscsoftware.com/about/contact.cfm">Web form</a></i> to fulfill your request.</p>
+
+<p><b><i>Security</i></b></p>
+
+<p>MSC.Software is committed to securing your personal information. We have instituted Secure Socket Layer protocol ("SSL") to protect your Internet transactions. When you place orders or access your account information, we use the SSL to encrypt all your personal information, including sensitive information such as credit card numbers, so they cannot be read during Internet transmission. To confirm this, when you enter personal information during the registration or ordering processes, your browser will indicate that you have entered a secure page environment (look for a "lock" icon, and/or you will see that the URL has changed from "http:" to "https"). We use a secure licensed system for credit card authorization and fraud detection. Your credit card information is sent directly to our credit card service and referenced by your order number. We don't store your credit card information on our web site.</p>
+
+<p>As a further protection, we do not store passwords in plain text. We store passwords encrypted. When you return for authentication, we encrypt the entered password and compare that to what is stored in the database. Since a password is used to help protect your personal information, it is your responsibility to keep your password confidential and not share the information with anyone. While we strive to use commercially acceptable means of protecting your personal information, no method of transmission over the Internet is 100% secure. Accordingly, we cannot guarantee its absolute security.</p>
+
+<p><b><i>Use of Cookies</i></b></p>
+
+<p>Cookies are designed to help identify a user's browser as a previous visitor and thus save and remember any preferences that were set before. A cookie is a small string of text transferred by a Web server to your browser. It cannot retrieve any data from your hard drive, pass on computer viruses, or capture your e-mail address. Many Web sites use cookies to enhance the user's visit. In general, cookies can securely store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections in a "shopping cart."</p>
+
+<p>We use transient or "session" cookies to track a registered user's session. A session cookie is a small file that contains information about a user that disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on your hard drive. It is only stored in temporary memory and is erased once the browser is closed. You can choose to accept or decline cookies. Most Web browsers will automatically accept cookies. If you chose to decline cookies, you may not be able to access or use other features of our Web site that depend on cookies.</p>
+
+<p>We may use the information we get from cookies to evaluate and improve our Web site. We won't use the information transferred through cookies for promotion or marketing purposes, and it won't be shared with third parties. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
+
+<p><b><i>Links to Other Web Sites</i></b></p>
+
+<p>As a convenience to you, we sometimes provide links to other, non-MSC.Software Web sites. These sites are not under the control of MSC.Software, and the fact that MSC.Software provides such links is not an indication that we endorse or are liable for those sites or their content. This Privacy Statement does not cover those linked sites. If you provide information to those company sites, that information will be subject to their privacy policies.</p>
+
+<p>We maintain a relationship with Nexstra, a third-party provider of instructional manuals for MSC.Software. When you access a Nexstra page from our Site, you are subject to their privacy policy terms. We also partner with a co-branded third-party vendor who handles on our behalf, electronic download software delivery service center features on the Site. Under the arrangement between MSC.Software and the third-party vendor, in order for us to provide this service, we have passed on to the third-party vendor your name, e-mail address, company and company location information.</p>
+
+<p><b><i>Changes to this Privacy Statement</i></b></p>
+
+<p>We will, from time to time, periodically update this Privacy Statement as we continue to develop our Web site and improve the services we provide to you. When we post changes to this Privacy Statement, we will revise our "last updated" date at the bottom of this Privacy Statement.  With regard to material changes to this statement or in how we use your personal information, we will notify you by way of e-mail or by posting a prominent notice on our Web site. We encourage you to periodically review our Privacy Statement to be informed of how we protect your personal information.</p>
+
+<p><b><i>TRUSTe Certification</i></b></p>
+
+<p>MSC.Software is a member of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through our Company's Web sites, and does not cover information that may be collected through software downloaded from such sites.</p>
+
+<p><b><i>Enforcement of This Privacy Statement</i></b></p>
+
+<p>If you have questions regarding this statement, you should first contact us by using our <i><a href="http://www.mscsoftware.com/about/contact.cfm">Web form</a></i>. If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <i><a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>.</i> TRUSTe will serve as a liaison with MSC.Software to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
+
+<p><b><i>Contacting Our Web Site</i></b></p>
+
+<p>If you have questions, comments, or concerns, or wish to update or change any personal information submitted on this Site, or have any questions regarding our Privacy Statement, you should first contact us by using our <i><a href="http://www.mscsoftware.com/about/contact.cfm">Web form</a></i>.</p>
+
+<p>To find the MSC.Software subsidiary in your country or region, please refer to: <i><a href="http://mscsoftware.com/about/locate/">http://mscsoftware.com/about/locate/.</a></i></p>
+
+<p>You may also contact us at 2 MacArthur Place, Santa Ana, California 92707-5924.</p>
+
+<p class="small"><i>Last Updated: November 2008</i></p>
+
 
 						<br><br>
 					</td>
@@ -549,7 +448,7 @@ AC_FL_RunContent('codebase','https://download.macromedia.com/pub/shockwave/cabs/
 </tbody></table>
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2993&amp;ref2=elqNone&amp;tzo=0&amp;ms=320" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2993&amp;ref2=elqNone&amp;tzo=0&amp;ms=828" border="0" width="1" height="1"></layer>
 
 
  </body></html>
