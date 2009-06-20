@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reitmans.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165103id_/http%3A//www.reitmans.com/en/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reitmans.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121512id_/http%3A//www.reitmans.com/en/company/privacy.cfm%3F) for the most accurate reproduction.*
 
 # Reitmans
 
