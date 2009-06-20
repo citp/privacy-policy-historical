@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningnews24.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219160120id_/http%3A//www.eveningnews24.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningnews24.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620105810id_/http%3A//www.eveningnews24.co.uk/Privacy.asp) for the most accurate reproduction.*
 
 # Norwich Evening News 24
 
