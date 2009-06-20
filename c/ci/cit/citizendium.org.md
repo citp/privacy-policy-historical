@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624144755id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062415id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
 
 # CZ:Privacy policy - Citizendium
 
