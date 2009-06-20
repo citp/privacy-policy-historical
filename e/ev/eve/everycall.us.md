@@ -1,10 +1,46 @@
-> *The following text is extracted and transformed from the everycall.us privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220061541id_/http%3A//www.everycall.us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everycall.us privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621001936id_/http%3A//www.everycall.us/terms_and_privacy) for the most accurate reproduction.*
 
-# EveryCall.us Privacy Policy
+# EveryCall.us Terms of Use and Privacy Policy
 
-At EveryCall ("EVERYCALL.US") we recognize that users, visitors, customers of our website and related services ("Services") highly value their privacy. This Privacy Notice describes important information regarding the use and disclosure of User information collected on our Services. We provide this Privacy Notice to help you make an informed decision about whether to use our website and related services. Please note that any video or other content Users post and or upload to our Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice. Your use of EVERYCALL.US and any personal information you provide remains subject to the terms of this Privacy Notice and our [Terms of Use](http://www.postacrime.com/terms).
+EveryCall.us Terms of Service and Privacy Policy
+
+**Terms of Service** The existence of a complaint is not indicative of any wrong doing by the company, individual, or companies at issue.  While users may indicate wrong doing on the part of an individual or company, EveryCall.us makes no presumptions of wrong doing.
+
+  1. **Description of Service.**   _**EVERYCALL.US is intended for PERSONAL USE through the use of a web browser or RSS reader only and any non-authorized commercial use is strictly prohibited.**_   EVERYCALL.US is a service for which users search for and post call comments about telephone calls they receive (the "Service"). You understand and agree that the Service may include content-targeted ads or other related information, as further described below and in the EVERYCALL.US Privacy Policy. In addition, you understand and agree that the Service is provided on an AS IS and AS AVAILABLE basis. EVERYCALL.US disclaims all responsibility and liability for the availability, accuracy, timeliness, security or reliability of the Service. EVERYCALL.US also reserves the right to modify, suspend or discontinue the Service with or without notice at any time and without any liability to you. 
+  2. **Personal Use.** The Service is made available to you for your personal use only.  Any other use, including but not limited to commercial, unlawful, or inappropriate, is strictly forbidden. The information contained within the EveryCall.us database shall not be used to make decisions about any person or entity. Due to the Children's Online Privacy Protection Act of 1998 (which is available at [http://www.ftc.gov/ogc/coppa1.htm](http://www.ftc.gov/ogc/coppa1.htm)), you must be at least thirteen (13) years of age to use this Service. You must provide current, accurate identification, contact, and other information that may be required as part of the registration process and/or continued use of the Service. You are responsible for maintaining the confidentiality of your Service password and account, and are responsible for all activities that occur thereunder. EVERYCALL reserves the right to refuse service to anyone at any time without notice for any reason. 
+  3. **Proper Use.** You agree that you are responsible for your own communications and for any consequences thereof. You agree that you will use the Service in compliance with all applicable local, state, national, and international laws, rules and regulations, including any laws regarding the transmission of technical data exported from your country of residence. You shall not, shall not agree to, and shall not authorize or encourage any third party to: (i) use the Service to upload, transmit or otherwise distribute any content that is unlawful, defamatory, harassing, abusive, fraudulent, obscene, contains viruses, or is otherwise objectionable as reasonably determined by EVERYCALL.US; (ii) upload, transmit or otherwise distribute content that infringes upon another party's intellectual property rights or other proprietary, contractual or fiduciary rights or obligations; (iii) prevent others from using the Service; (iv) use the Service for any fraudulent or inappropriate purpose; (v) that is known by you to be false, inaccurate, or misleading, (vi) claims the identity, characteristics or qualifications of another person, or (vii) is for the purpose of spamming or advertising. Violation of any of the foregoing may result in immediate termination of this Agreement, and may subject you to state and federal penalties and other legal consequences. EVERYCALL.US reserves the right, but shall have no obligation, to investigate your use of the Service in order to determine whether a violation of the Agreement has occurred or to comply with any applicable law, regulation, legal process or governmental request.  You agree to post only material for which you own or you have been given permission to publish online.  EVERYCALL.US makes no warranty as to the accuracy or completeness of any information obtained through the use of this service. By using this service, you acknowledge that you understand that it is solely your responsibility to verify any information you may obtain herein before making any assumption that said information is factual and complete.  We reserve the right to delete all or part of any posting at any time, for any reason.  Changes to information or to this web site may be made at anytime without notice. EVERYCALL.US assumes no liability for damages, directly or indirectly, as a result of errors, omissions or possible discrepancies regarding information provided by this web site.  Please be advised that neither EveryCall.us nor any affiliated persons or entities is in a position to investigate, censor or otherwise ensure the accuracy of any comments, remarks or other information and content posted or generated by users of this Web site, and therefore is not responsible in any way for such Content provided by users or other third parties.   
+
+
+
+  4. **Content of the Service.** EVERYCALL.US takes no responsibility for third party content (including, without limitation, any viruses or other disabling features), nor does EVERYCALL.US have any obligation to monitor such third party content. EVERYCALL.US reserves the right at all times to remove or refuse to distribute any content on the Service, such as content which violates the terms of this Agreement. EVERYCALL.US also reserves the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (a) satisfy any applicable law, regulation, legal process or governmental request, (b) enforce this Agreement, including investigation of potential violations hereof, (c) detect, prevent, or otherwise address fraud, security or technical issues (including, without limitation, the filtering of spam), (d) respond to user support requests, or (e) protect the rights, property or safety of EVERYCALL.US, its users and the public. EVERYCALL.US will not be responsible or liable for the exercise or non- exercise of its rights under this Agreement. 
+  5. **Intellectual Property Rights.** _EVERYCALL_ _.US_ _'s Intellectual Property Rights._ You acknowledge that EVERYCALL.US owns all right, title and interest in and to the Service, including without limitation all intellectual property rights (the " **EVERYCALL** **.US** **Rights** "), and such EVERYCALL.US Rights are protected by U.S. and international intellectual property laws. Accordingly, you agree that you will not copy, reproduce, alter, modify, or create derivative works from the Service. You also agree that you will not use any robot, spider, other automated device, or manual process to monitor or copy any content from the Service. The EVERYCALL.US Rights include rights to (i) the Service developed and provided by EVERYCALL.US; and (ii) all software associated with the Service. The EVERYCALL.US Rights do not include third-party content used as part of Service, including the content of communications appearing on the Service.
+
+By using the service, you consent and release your rights to all information posted at EVERYCALL.US, including but not limited to descriptions, photos, and videos in any lawful manner without notification or request for permission.
+
+  6. **Representations and Warranties.** You represent and warrant that (a) all of the information provided by you to EVERYCALL.US to participate in the Services is correct and current; and (b) you have all necessary right, power and authority to enter into this Agreement and to perform the acts required of you hereunder.  
+ 
+  7. **Privacy.** As a condition to using the Service, you agree to the terms of the EVERYCALL.US Privacy Policy as it may be updated from time to time.
+  8. **Advertisements.** As consideration for using the Service, you agree and understand that EVERYCALL.US will display ads and other information adjacent to and related to the content of the EVERYCALL.US website.  EVERYCALL.US serves relevant ads using a process that enables EVERYCALL.US to effectively target dynamically changing content.  
+  9. **Publicity.   **Any use of EVERYCALL.US's trade names, trademarks, service marks, logos, domain names, and other distinctive brand features (" **Brand Features** ") must be in compliance with this Agreement and in compliance with EVERYCALL.US's then current Brand Feature use guidelines. Contact EVERYCALL.US by email admin .at. everycall.us for permission or request to use said information. 
+  10. **Termination; Cancellation.** You may cancel your use of the Services and/or terminate this Agreement with or without cause at any time by providing notice to EVERYCALL.US at admin .at. everycall.us provided, however, that a terminated account may continue to exist for up to fourteen business days before such cancellation takes effect. EVERYCALL.US may at any time and for any reason terminate the Services, terminate this Agreement, or suspend or terminate your account. In the event of termination, your account will be disabled and you may not be granted access to your account or any files or other content contained in your account although residual copies of information may remain in our system. Except as set forth above or unless EVERYCALL.US has previously canceled or terminated your use of the Services (in which case subsequent notice by EVERYCALL.US shall not be required), if you have provided an alternate email address, EVERYCALL.US will notify you via email of any such termination or cancellation, which shall be effective immediately upon EVERYCALL.US's delivery of such notice. Sections 3, 4, 5, 7, and 11 - 13 of the Agreement, along with applicable provisions of the general Terms of Service (including the section regarding limitation of liability), shall survive expiration or termination. 
+  11. **Indemnification.** You agree to hold harmless and indemnify EVERYCALL.US, and its subsidiaries, affiliates, officers, agents, and employees from and against any third party claim arising from or in any way related to your use of the Service, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. In such a case, EVERYCALL.US will provide you with written notice of such claim, suit or action. 
+  12. **MISCELLANEOUS.** No agency, partnership, joint venture, or employment is created as a result of these Terms and Conditions and you do not have any authority of any kind to bind EveryCall.us in any respect whatsoever. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. EveryCall.us shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond EveryCall.us’s  reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation (including "line-noise" interference). If any provision of these Terms and Conditions is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms and Conditions shall otherwise remain in full force and effect and enforceable. These Terms and Conditions are not assignable, transferable or sub licensable by you except with EveryCall.us’s prior written consent. EveryCall.us may transfer, assign or delegate these Terms and Conditions and its rights and obligations without consent.   
+
+  13. **Amendments to Terms and Conditions.   **EveryCall.us has the right to amend these Terms and Conditions at any time and without notice to you. Such amendments shall be effective immediately upon posting. You agree to review the EveryCall.us site periodically to be aware of any such amendments. Your continued use of EveryCall.us after such amendments have been made shall constitute acceptance of the amendments.
+  14. **Choice of Law; Jurisdiction.** These Terms of Use will be governed by and construed in accordance with the laws of the State of Washington, without giving effect to its conflict of laws provisions or your actual state or country of residence. Any claims, legal proceeding or litigation arising in connection with the Service will be brought solely in King County, Washington, and you consent to the jurisdiction of such courts. 
+
+
 
   
+**  
+Privacy Policy**
+
+**WE DO NOT SEND UNSOLICITED EMAIL AND WE WILL NOT SHARE YOUR PERSONAL ACCOUNT INFORMATION EVER.   **At EveryCall ("EVERYCALL.US") we recognize that users, visitors, customers of our website and related services ("Services") highly value their privacy. This Privacy Notice describes important information regarding the use and disclosure of User information collected on our Services. We provide this Privacy Notice to help you make an informed decision about whether to use our website and related services. Please note that any video or other content Users post and or upload to our Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice. Your use of EVERYCALL.US and any personal information you provide remains subject to the terms of this Privacy Notice and our Terms of Service.    
+
+
+  
+
+
 **Information EVERYCALL.US collects**
 
 Information you provide: You provide certain personally identifiable information (such as your name and email address) to EVERYCALL.US when deciding to participate in various activities on our Website such as uploading photos and/or videos, submitting tips and or comments, entering future contests, purchasing items from EVERYCALL.US's Online Store, responding to surveys, or subscribing to newsletters or other mailing lists.
@@ -17,7 +53,6 @@ User communications: When you send email or other communication to EVERYCALL.US,
 
 Clear GIFs Information: We may employ a software technology called clear gifs (aka Web Beacons), that help us better manage our services and or content by tracking the online usage patterns of our Users anonymously ( i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
 
-  
 **Usage of information**
 
 We use your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality of the EVERYCALL.US Website and Services and to create new features, functionality, and services by storing, tracking, and analyzing User preferences and behavior.
@@ -30,7 +65,6 @@ We may analyze your information and the content you submit and/or post to our We
 
 We use cookies, clear gifs, and log file information to: (a) remember information so you do not have to re-enter it during your next visit to EVERYCALL.US; (b) provide personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor metrics such as pages viewed, number of visitors, etc.; and (e) track your entries, submissions, and status in promotions, and contests.
 
-  
 **Disclosure of information**
 
 We do not share your personally identifiable information (such as name or email address) with other companies for their commercial use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
@@ -45,39 +79,13 @@ EVERYCALL.US reserves the right to disclose personally identifiable information 
 
 **Terms of Use** and to take precautions against any liability, to investigate and defend ourselves against any third-party claims or allegations, to protect the security or integrity of our website, and to protect the rights of EVERYCALL.US our Users or others.
 
-  
-**Your Choices**
-
-You may decline to submit personally identifiable information through EVERYCALL.US, in which case EVERYCALL.US may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to EVERYCALL.US can be removed and remain subject to our 
-
-**Terms of Use**.
-
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you profile access or making changes. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-  
-**Our Commitment To Children’s Privacy**
-
-EveryCall.us is not suited for use by persons under the age of 18 and we require that our service not be used by those under 18 years of age.
-
-  
-**In the Event of Merger, Sale, or Bankruptcy**
+**  
+In the Event of Merger, Sale, or Bankruptcy**
 
 In the event that EVERYCALL.US is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-  
-**Special Note to International Users**
-
-EVERYCALL.US is hosted in the United States and is governed by the laws of the United States. If you are a User accessing our Website from other regions with laws or regulations ruling personal data collection, use, and disclosure that differ from those of the United States, please note that through your continued use of EVERYCALL.US, this Privacy Notice, and our 
-
-**Terms of Use** , you are transferring your personal information to United States and you consent to that transfer.
-
-  
-**Our Commitment To Data Security**
-
-EVERYCALL.US uses reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. However, we cannot warrant or ensure the security of any information you transmit to EVERYCALL.US. You do so at your own risk. If EVERYCALL.US learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate steps. EVERYCALL.US may post a notice on our Website if such a breach happens.
-
-  
-**Third-party Advertisers, Links to Other Sites**
+**  
+Third-party Advertisers, Links to Other Sites**
 
 EVERYCALL.US allows other companies, called third-party ad servers or ad networks, to serve advertisements to the EVERYCALL.US Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on EVERYCALL.US. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
@@ -91,12 +99,10 @@ Google –
 
 [http://www.google.com/adsense](http://www.google.com/adsense)
 
-  
-**Changes and updates to this Privacy Notice**
+**  
+****Changes and updates to this Privacy Notice**
 
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we have received the personal information you provided. Your continued use of EVERYCALL.US constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 This Privacy Notice was last modified April 3, 2008.
 
