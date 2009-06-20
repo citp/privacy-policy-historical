@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breitbart.tv privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115849id_/http%3A//www.breitbart.tv/%3Fpage_id%3D57124) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breitbart.tv privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054321id_/http%3A//www.breitbart.tv/%3Fpage_id%3D57124) for the most accurate reproduction.*
 
 # Breitbart.tv » Privacy Policy
 
