@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191845id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195228id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Occasionally, we may ask you to take part in customer surveys. We will use the i
 
 #### How can you access and correct your information?
 
-You may [contact us](https://web.archive.org/web/20081219191845id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
+You may [contact us](https://web.archive.org/web/20090620195228id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
 
 #### Other sites linking to and linked from AllergyBeGone.com
 
