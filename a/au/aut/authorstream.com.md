@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228020834id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061352id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on authorSTREAM
 
@@ -46,7 +46,7 @@ Complying with the communication standards on the Internet, we automatically rec
 
 ## Children:
 
-Children can only use our services under the supervision of their parents/legal guardians and we always suggest minors (under the age of 18) not to submit any personal information to us or use the service. authorSTREAM does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the authorSTREAM Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the authorSTREAM Sites at any time or in any manner. If authorSTREAM learns that personally identifiable information of persons less than 13 years of age has been collected on the authorSTREAM Sites without verified parental consent, then authorSTREAM will take the appropriate steps to delete this information.
+Children can only use our services under the supervision of their parents/legal guardians and we always suggest minors (under the age of 18) not to submit any personal information to us or use the service. authorSTREAM does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the authorSTREAM Sites from persons under 14 years of age, and no part of our website is directed to persons under 14. If you are under 14 years of age, then please do not use or access the authorSTREAM Sites at any time or in any manner. If authorSTREAM learns that personally identifiable information of persons less than 14 years of age has been collected on the authorSTREAM Sites without verified parental consent, then authorSTREAM will take the appropriate steps to delete this information.
 
 ###  Information Use
 
@@ -58,7 +58,7 @@ Children can only use our services under the supervision of their parents/legal 
 
 ##  authorSTREAM Communications:
 
-authorSTREAM will communicate with you through email and notices posted on authorSTREAM website. Please be aware that you will always receive emails from authorSTREAM concerning the proper functioning of your account such as email notices when another user in your network sends you an opportunity. authorSTREAM may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to . 
+authorSTREAM will communicate with you through email and notices posted on authorSTREAM website. Please be aware that you will always receive emails from authorSTREAM concerning the proper functioning of your account such as email notices when another user in your network sends you an opportunity. authorSTREAM may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [support@authorstream.com](mailto:support@authorstream.com). 
 
 ##  Customized Content:
 
