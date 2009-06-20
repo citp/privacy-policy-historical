@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217081455id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Fc%3D%26area%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620100453id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Fc%3D%26area%3Dprivacy) for the most accurate reproduction.*
 
 # All the Internet - Privacy Policy
 
@@ -27,10 +27,11 @@ Some of the search engines listed in the All the Internet may pay a listing fee 
 All the Internet may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions and Suggestions**  
-If you have questions or suggestions, please [Contact Us](http://www.alltheinternet.com/texis/open/allthru?c=&area=contactus) or you can mail us at: 
+If you have questions or suggestions, please [Contact Us](https://web.archive.org/texis/open/allthru?area=contactus) or you can mail us at: 
 
 Advanced Search Technologies, Inc.  
 5190 Neil Rd  
 Suite 430  
 Reno, NV 89502  
-1-877-244-9780
+1-877-244-9780  
+gerald@advancedsearchcorp.com 
