@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218131604id_/http%3A//www.buyyourcar.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyyourcar.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620043314id_/http%3A//www.buyyourcar.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BuyYourCar - Privacy Policy
 
@@ -17,8 +17,6 @@ BuyYour Ltd is committed to protecting your personal information and other data 
 2.4 We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information.
 
 2.5 BuyYour Ltd may want to contact you to notify you of news about BuyYour Ltd, changes to the Web Site, special events or new services or products that we think may interest you. BuyYour Ltd may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYour Ltd group or other companies which we think may be of interest to you. However, BuyYour Ltd will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYour Ltd to make such contact, or you provide such authorisation in writing to BuyYour Ltd or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYour Ltd (or the third parties described above) to receive such information, please send an email to support@BuyYourCar.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYour Ltd will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYour Ltd and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
-
-2.6 Our advertising network partner OTP also collects non-personal data. For more information please visit <http://www.otpmedia.com/privacy/>
 
 ### 3\. Sharing of Information with Third Parties
 
