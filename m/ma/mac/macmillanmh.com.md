@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillanmh.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219164925id_/http%3A//www.macmillanmh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillanmh.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620182238id_/http%3A//www.macmillanmh.com/privacy.html) for the most accurate reproduction.*
 
 # MHSchool: McGraw-Hill
 
@@ -6,15 +6,13 @@ Macmillan/McGraw-Hill Privacy Notice
 
 When you submit an online form to request a catalog, to respond to a survey, or to communicate with us for any other reason through the Macmillan/McGraw-Hill website, the information we collect from you (e.g., your name, address, email address) is added to our electronic mailing list so that we may notify you, our customer, of updates to our Web site or of products and services that may be of interest to you. This information will be maintained in a secure database in the U.S. and accessed only by authorized persons.
 
-Occasionally, and subject to applicable laws, Macmillan/McGraw-Hill also makes contact information available to other business units within The McGraw-Hill Companies whose products or services we feel may be of interest to you. From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a “mailing” house) on our behalf. Please be assured that Macmillan/McGraw-Hill will never share information we collect from you with companies outside the family of The McGraw-Hill Companies.
-
-If you contact us in regard to technical support, questions about your order, or any general inquiry, your email address will only be used in response to your inquiry. Your email address will not be added to our database. Further, we only use the credit card or payment information we acquire from you to fulfill your order.
+Occasionally, and subject to applicable laws, Macmillan/McGraw-Hill also makes contact information available to other business units within The McGraw-Hill Companies whose products or services we feel may be of interest to you. From time to time, we may also share your information with outside vendors who will be authorized to use this information solely to perform services (such as a "mailing" house) on our behalf. Please be assured that Macmillan/McGraw-Hill will never share information we collect from you with companies outside the family of The McGraw-Hill Companies.
 
 If you would like to review, edit, or delete any of the information we have collected from you, or if you have questions or concerns about this privacy policy, please contact:
 
 John Predmore  
 Privacy Official  
-Macmillan/McGraw-Hill   
+Macmillan/McGraw-Hill  
 8787 Orion Place  
 Columbus, Ohio 43240
 
