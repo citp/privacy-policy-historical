@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014217id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26section%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090035id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Online Speed Dating - SpeedDate.com
+# SpeedDate
 
 This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed by SpeedDate.com, Inc. (“SpeedDate”).
 
@@ -36,7 +36,7 @@ You have full control regarding which of these emails you want to receive. To ch
 
 #### Inviting Friends
 
-Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. 
+Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may contact us at [info@speeddate.com](mailto:info@speeddate.com) to request that we remove their information from our database. 
 
 For your convenience, SpeedDate.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not leave preselected or explicitly select, and your invitations are the only email we will ever send to your friends unless they register to join the site. 
 
