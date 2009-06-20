@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164202id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620224216id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](https://web.archive.org/web/20081217164202id_/http%3A//www.owlpages.com/index.php)
+The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](https://web.archive.org/web/20090620224216id_/http%3A//www.owlpages.com/index.php)
 
 **Cookies**  
 This Site uses cookies to make sure you don't see the same ad repeatedly.
 
 **Advertisers**   
-An outside ad company is used to display ads on this site. These ads may contain cookies. While cookies are used on other parts of the Web site, cookies received with banner ads are collected by the ad company, and "The Owl Pages" does not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp "blocked::http://www.networkadvertising.org/managing/opt_out.asp").
+
+Google, as a third party vendor, uses cookies to serve ads to this site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Registration Forms**  
 The registration forms on this site require users to give contact information. Contact information from the registration form is used only to send material relating to "The Owl Pages", and will not be sold to another party.   
