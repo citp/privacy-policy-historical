@@ -1,59 +1,117 @@
-<!--The following is the downloaded HTML source of the speeddate.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216014217id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26section%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speeddate.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620090035id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!-- Time to generate: 0.00661 -->
+<!-- Time to generate: 0.22644 -->
 
-	<title>Online Speed Dating - SpeedDate.com</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="description" content="Meet local singles on the world´s first online speed dating site. Online dating service with webcam, chat, and IM! Start dating right now!">
-    <meta name="keywords" content="dating, personals, singles, dating service, free dating, online dating, dating personals, speed dating, speed date">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <script type="text/javascript" src="http://cdn.speeddate.com/static/12953/site/js/prototype.js"></script>
- 
-    <script type="text/javascript" src="http://cdn.speeddate.com/static/12953/site/js/sd_compiled.js"></script>
-    <link rel="stylesheet" type="text/css" href="http://cdn.speeddate.com/static/12953/site/css/sd_compiled.css">          
-    <script type="text/javascript" src="http://www.speeddate.com/ajax/countrylist.js.php"></script>
-    <script type="text/javascript" src="http://cdn.speeddate.com/static/12953/site/js/sd_ui_controller.js"></script>
-    <script type="text/javascript" src="http://cdn.speeddate.com/static/12953/site/js/swfobject.js"></script>
-    <script type="text/javascript" src="http://www.speeddate.com/ajax/jsconfig.js.php"></script>
-	</head>
-<body>
-<div id="site" class="site   ">	
+    <title>SpeedDate</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="title" content="SpeedDate">
+    <meta name="keywords" content="sample, tags">
+    <meta name="description" content="Sample Meta Text">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+    	<link rel="stylesheet" type="text/css" href="http://cdn.speeddate.com/static/18005/site/css/sd_compiled.FaceLiftExp.css">
+    <script type="text/javascript">
+SD = {};
+SD.DisabledFeatures = {"addBuddiesButton":false,"logRunQueryCalls":false,"straightToSpeeddate":false,"advertisePremiumServices":false,"profileSubscriptionServices":false,"backButton":false,"overflirtCheck":false,"unansweredFlirtCheck":false,"showTopBanner":false,"expressCheckout":false,"abTestSystem":true,"feedbackInfo":true};
+
+SD.Config = {
+    XMPPServer :{
+      serverURL: "xmpp2.speeddate.com"
+    },
+    datingDuration          : 180,
+    waitTimes               : {"busy":10000,"nonBusy":10000,"seekInterval":120000},
+    defaultDatingServers    : ["rtmp:\/\/ec2-75-101-205-88.compute-1.amazonaws.com\/dating\/","rtmp:\/\/ec2-67-202-11-39.compute-1.amazonaws.com\/dating\/"] ,
+    mmsHosts                : ["http:\/\/208.74.28.85:8989"],
+    fwHost                  : "http:\/\/208.74.30.203:8988",
+    mmsRegistries           : ["http:\/\/208.74.28.85:8989"],
+    waitTimes               : {"busy":10000,"nonBusy":10000,"seekInterval":120000},
+    fileDir                 : 'http://cdn.speeddate.com/static/18005/',
+    flashDir                : 'http://cdn.speeddate.com/static/18005/site/flash/',
+    imageDir                : 'http://cdn.speeddate.com/static/18005/site/images/',
+    cssDir                  : 'http://cdn.speeddate.com/static/18005/site/css/',
+    jsDir                   : 'http://cdn.speeddate.com/static/18005/site/js/',
+    siteURL                 : 'http://www.speeddate.com',
+    facebookUrl             : '',
+    restrictionReasons      : {"0":"","5":{"old_tc":128,"text1":"We matched!","before_link":"","link":"Upgrade to Premium","after_link":" to continue our conversation!","tc":"contact_matched_yes_profile"},"10":{"old_tc":113,"text1":"","before_link":"Only ","link":"premium members","after_link":" can contact members who have not yet replied to you","tc":"send_repeat_messages"},"15":{"old_tc":137,"text1":"You're one of my favorites!","before_link":"","link":"Upgrade now to contact me!","after_link":"","tc":"contact_member_who_favorited_you"},"20":{"old_tc":111,"text1":"Upgrade to contact me!","before_link":"Premium members get a second chance to make a match","tc":"most_recent_date_alert_box"},"25":{"old_tc":119,"text1":"Upgrade to contact me!","before_link":"I only accept messages from premium members","link":"","after_link":"","tc":"different_country_members"},"30":{"old_tc":112,"text1":"Upgrade to contact me!","before_link":"I only accept messages from premium members","link":"","after_link":"","tc":"contact_over_flirted_profile"}},
+    platform                : {"name":"site","platformId":1},
+    
+        
+    getLinkBase: function(controller, action) {
+        return 'http://www.speeddate.com/index.php?page='+controller+'&action='+action+'';
+    },
+    
+        getPaymentTrackingString: function(trackingId) {
+        var trackingId = arguments.length > 0 && arguments[0] ? arguments[0] : '';
+        var trackingIdLength = trackingId.length;
+        var location = arguments.length > 1 && arguments[1] ? arguments[1] : '';
+        var locationLength = location.length;
+        var reason = arguments.length > 2 && arguments[2] ? arguments[2] : '';
+        var reasonLength = reason.length;
+        
+        var trackingIdSerializedFragment = 's%3A' + trackingIdLength + '%3A%22' + trackingId + '%22';
+        var locationSerializedFragment = (locationLength <= 0 ? 'N' : 's%3A' + locationLength + '%3A%22' + location + '%22');
+        var reasonSerializedFragment = (reasonLength <= 0 ? 'N' : 's%3A' + reasonLength + '%3A%22' + reason + '%22');
+        
+        return 'O%3A21%3A%22InspectionTypePayment%22%3A5%3A%7Bs%3A8%3A%22location%22%3B'+locationSerializedFragment+'%3Bs%3A6%3A%22reason%22%3B'+reasonSerializedFragment+'%3Bs%3A8%3A%22campaign%22%3BN%3Bs%3A10%3A%22trackingId%22%3B'+trackingIdSerializedFragment+'%3Bs%3A10%3A%22platformId%22%3BN%3B%7D';
+    }
+};
+
+SD.Constants = {
+    trialPeriods        : {"no_trial":0,"free_seven_day":1,"one_dollar_seven_day":2},
+    trackingCodes       : {"date_button_speeddate_page":100,"fb_date_button_speeddate_page":163,"upgrade_text_user_filters":101,"upgrade_next_step_welcome_page":102,"back_button_speeddate_page":103,"fb_back_button":164,"want_faster_dates_banner":104,"featured_member_image_popoup_profile":105,"facebook_top_banner":106,"upgrade_button_results_page":107,"fb_sub_status_page":150,"account_settings_link":109,"premium_site_top_banner":110,"site_alert_upgrade_link":111,"over_flirted_link":112,"fb_over_flirted":166,"not_responded_link":113,"speeddate_page_premium_member_logo":115,"upgrade_button_message_read":118,"upgrade_pop_up_different_country":119,"fb_different_country":165,"multi_photo":120,"viewed_you":121,"view_read_inbox_site":122,"site_advanced_search":124,"welcome_popup_free_trial":125,"welcome_popup_soulmate":126,"welcome_popup_viewed_you":127,"match_restriction":128,"site_dating_panel_chat_button":129,"site_members_page_flirt_button":130,"site_members_page_wink_button":131,"site_members_page_date_button":132,"site_members_page_chat_button":133,"gift_button":134,"want_to_date_view":135,"favorite_you_view":137,"other_member_ended_dating":141},
+    paymentTrackingIds  : {"UPGRADE_LINK_ACCOUNT_SETTINGS":"upgrade_link_account_settings","LOGIN_REDIRECT":"login_redirect","TOP_BANNER":"top_banner","CONTACT_MATCHED_YES_PROFILE":"contact_matched_yes_profile","VIEWED_YOU_MEMBERS":"viewed_you_members","CHAT_BUTTON_DATING":"chat_button_dating","WELCOME_POPUP_FREE_TRIAL":"welcome_popup_free_trial","WANT_TO_DATE_YOU_MEMBERS":"want_to_date_you_members","SEND_REPEAT_MESSAGES":"send_repeat_messages","ADD_GIFT_TO_MESSAGE":"add_gift_to_message","DATE_BUTTON_DATING":"date_button_dating","SEE_WHEN_MESSAGES_READ":"see_when_messages_read","UPGRADE_BUTTON_DATING_CONTROLS":"upgrade_button_dating_controls","MOST_RECENT_DATE_ALERT_BOX":"most_recent_date_alert_box","CONTACT_OVER_FLIRTED_PROFILE":"contact_over_flirted_profile","CONTACT_MEMBER_WHO_FAVORITED_YOU":"contact_member_who_favorited_you","MULTI_PHOTO_ON_PROFILE":"multi_photo_on_profile","ADVANCED_SEARCH_MEMBERS":"advanced_search_members","DIFFERENT_COUNTRY_MEMBERS":"different_country_members","FAQ_PAGE":"faq_page","CONTACT_IDEAL_MATCH":"contact_ideal_match","PREMIUM_MEMBER_BADGE_ON_PROFILE":"premium_member_badge_on_profile","SUBSCRIPTION_STATUS_SETTING":"subscription_status_setting","BIRTHDAY_GIFT_TRIAL":"birthday_gift_trial","VALENTINE_GIFT_TRIAL":"valentine_gift_trial","GIFT_TRIAL":"gift_trial","SOULMATE_FB":"soulmate_fb","EMAIL_24_HOUR_DISCOUNT":"email_24_hour_discount","EMAIL_7_DAY_DISCOUNT":"email_7_day_discount","SOULMATE_SITE":"soulmate_site","EMAIL_FULL_ACCESS_BANNER":"email_full_access_banner","EMAIL_BENEFITS_FOOTER":"email_benefits_footer","EMAIL_PREMIUM_PROMOTION":"email_premium_promotion"},
+    locationIDs         : {"LOCATION_FLIRT_WINK_PAGE":1,"LOCATION_MEMBERS_PROFILE":2},
+    WINK_MESSAGE        : 'wink'
+};SD.geography = {};
+SD.geography.StateList = ["AL","AK","AS","AZ","AR","CA","CO","CT","DE","DC","FM","FL","GA","GU","HI","ID","IL","IN","IA","KS","KY","LA","ME","MH","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","MP","OH","OK","OR","PW","PA","PR","RI","SC","SD","TN","TX","UT","VT","VI","VA","WA","WV","WI","WY"];
+SD.geography.CountryList=[{"code":"US","name":"United States"},{"code":"AF","name":"Afghanistan"},{"code":"AL","name":"Albania"},{"code":"DZ","name":"Algeria"},{"code":"AS","name":"American Samoa"},{"code":"AD","name":"Andorra"},{"code":"AO","name":"Angola"},{"code":"AI","name":"Anguilla"},{"code":"AG","name":"Antigua and Barbud"},{"code":"AR","name":"Argentina"},{"code":"AM","name":"Armenia"},{"code":"AW","name":"Aruba"},{"code":"AU","name":"Australia"},{"code":"AT","name":"Austria"},{"code":"AZ","name":"Azerbaijan"},{"code":"BS","name":"Bahamas"},{"code":"BH","name":"Bahrain"},{"code":"BD","name":"Bangladesh"},{"code":"BB","name":"Barbados"},{"code":"BY","name":"Belarus"},{"code":"BE","name":"Belgium"},{"code":"BZ","name":"Belize"},{"code":"BJ","name":"Benin"},{"code":"BM","name":"Bermuda"},{"code":"BT","name":"Bhutan"},{"code":"BO","name":"Bolivia"},{"code":"BA","name":"Bosnia and Herzego"},{"code":"BW","name":"Botswana"},{"code":"BR","name":"Brazil"},{"code":"IO","name":"British Indian Ocn"},{"code":"BN","name":"Brunei Darussalam"},{"code":"BG","name":"Bulgaria"},{"code":"BF","name":"Burkina Faso"},{"code":"BI","name":"Burundi"},{"code":"KH","name":"Cambodia"},{"code":"CM","name":"Cameroon"},{"code":"CA","name":"Canada"},{"code":"CV","name":"Cape Verde"},{"code":"KY","name":"Cayman Islands"},{"code":"CF","name":"Central African Re"},{"code":"TD","name":"Chad"},{"code":"CL","name":"Chile"},{"code":"CN","name":"China"},{"code":"CO","name":"Colombia"},{"code":"KM","name":"Comoros"},{"code":"CG","name":"Congo"},{"code":"CD","name":"Congo, DR"},{"code":"CK","name":"Cook Islands"},{"code":"CR","name":"Costa Rica"},{"code":"CI","name":"Cote D'Ivoire"},{"code":"HR","name":"Croatia"},{"code":"CU","name":"Cuba"},{"code":"CY","name":"Cyprus"},{"code":"CZ","name":"Czech Republic"},{"code":"DK","name":"Denmark"},{"code":"DJ","name":"Djibouti"},{"code":"DM","name":"Dominica"},{"code":"DO","name":"Dominican Republic"},{"code":"EC","name":"Ecuador"},{"code":"EG","name":"Egypt"},{"code":"SV","name":"El Salvador"},{"code":"GQ","name":"Equatorial Guinea"},{"code":"ER","name":"Eritrea"},{"code":"EE","name":"Estonia"},{"code":"ET","name":"Ethiopia"},{"code":"FK","name":"Falkland Islands"},{"code":"FO","name":"Faroe Islands"},{"code":"FJ","name":"Fiji"},{"code":"FI","name":"Finland"},{"code":"FR","name":"France"},{"code":"GF","name":"French Guiana"},{"code":"PF","name":"French Polynesia"},{"code":"GA","name":"Gabon"},{"code":"GM","name":"Gambia"},{"code":"GE","name":"Georgia"},{"code":"DE","name":"Germany"},{"code":"GH","name":"Ghana"},{"code":"GI","name":"Gibraltar"},{"code":"GR","name":"Greece"},{"code":"GL","name":"Greenland"},{"code":"GD","name":"Grenada"},{"code":"GP","name":"Guadeloupe"},{"code":"GU","name":"Guam"},{"code":"GT","name":"Guatemala"},{"code":"GN","name":"Guinea"},{"code":"GW","name":"Guinea-Bissau"},{"code":"GY","name":"Guyana"},{"code":"HT","name":"Haiti"},{"code":"HN","name":"Honduras"},{"code":"HK","name":"Hong Kong"},{"code":"HU","name":"Hungary"},{"code":"IS","name":"Iceland"},{"code":"IN","name":"India"},{"code":"ID","name":"Indonesia"},{"code":"IR","name":"Iran"},{"code":"IQ","name":"Iraq"},{"code":"IE","name":"Ireland"},{"code":"IM","name":"Isle of Man"},{"code":"IL","name":"Israel"},{"code":"IT","name":"Italy"},{"code":"JM","name":"Jamaica"},{"code":"JP","name":"Japan"},{"code":"JO","name":"Jordan"},{"code":"KZ","name":"Kazakhstan"},{"code":"KE","name":"Kenya"},{"code":"KI","name":"Kiribati"},{"code":"KP","name":"Korea, DPR"},{"code":"KR","name":"Korea, Republic of"},{"code":"KW","name":"Kuwait"},{"code":"KG","name":"Kyrgyzstan"},{"code":"LA","name":"Laos"},{"code":"LV","name":"Latvia"},{"code":"LB","name":"Lebanon"},{"code":"LS","name":"Lesotho"},{"code":"LR","name":"Liberia"},{"code":"LY","name":"Libya"},{"code":"LI","name":"Liechtenstein"},{"code":"LT","name":"Lithuania"},{"code":"LU","name":"Luxembourg"},{"code":"MO","name":"Macao"},{"code":"MK","name":"Macedonia"},{"code":"MG","name":"Madagascar"},{"code":"MW","name":"Malawi"},{"code":"MY","name":"Malaysia"},{"code":"MV","name":"Maldives"},{"code":"ML","name":"Mali"},{"code":"MT","name":"Malta"},{"code":"MH","name":"Marshall Islands"},{"code":"MQ","name":"Martinique"},{"code":"MR","name":"Mauritania"},{"code":"MU","name":"Mauritius"},{"code":"YT","name":"Mayotte"},{"code":"MX","name":"Mexico"},{"code":"FM","name":"Micronesia"},{"code":"MD","name":"Moldova"},{"code":"MC","name":"Monaco"},{"code":"MN","name":"Mongolia"},{"code":"ME","name":"Montenegro"},{"code":"MS","name":"Montserrat"},{"code":"MA","name":"Morocco"},{"code":"MZ","name":"Mozambique"},{"code":"MM","name":"Myanmar"},{"code":"NA","name":"Namibia"},{"code":"NR","name":"Nauru"},{"code":"NP","name":"Nepal"},{"code":"NL","name":"Netherlands"},{"code":"AN","name":"Netherlands Antill"},{"code":"NC","name":"New Caledonia"},{"code":"NZ","name":"New Zealand"},{"code":"NI","name":"Nicaragua"},{"code":"NE","name":"Niger"},{"code":"NG","name":"Nigeria"},{"code":"NU","name":"Niue"},{"code":"NF","name":"Norfolk Island"},{"code":"MP","name":"Northern Mariana I"},{"code":"NO","name":"Norway"},{"code":"OM","name":"Oman"},{"code":"PK","name":"Pakistan"},{"code":"PW","name":"Palau"},{"code":"PS","name":"Palestinian Territ"},{"code":"PA","name":"Panama"},{"code":"PG","name":"Papua New Guinea"},{"code":"PY","name":"Paraguay"},{"code":"PE","name":"Peru"},{"code":"PH","name":"Philippines"},{"code":"PN","name":"Pitcairn"},{"code":"PL","name":"Poland"},{"code":"PT","name":"Portugal"},{"code":"PR","name":"Puerto Rico"},{"code":"QA","name":"Qatar"},{"code":"RE","name":"Reunion"},{"code":"RO","name":"Romania"},{"code":"RU","name":"Russian Federation"},{"code":"RW","name":"Rwanda"},{"code":"WS","name":"Samoa"},{"code":"SM","name":"San Marino"},{"code":"ST","name":"Sao Tome and Princ"},{"code":"SA","name":"Saudi Arabia"},{"code":"SN","name":"Senegal"},{"code":"RS","name":"Serbia"},{"code":"SC","name":"Seychelles"},{"code":"SL","name":"Sierra Leone"},{"code":"SG","name":"Singapore"},{"code":"SK","name":"Slovakia"},{"code":"SI","name":"Slovenia"},{"code":"SB","name":"Solomon Islands"},{"code":"SO","name":"Somalia"},{"code":"ZA","name":"South Africa"},{"code":"ES","name":"Spain"},{"code":"LK","name":"Sri Lanka"},{"code":"SH","name":"St. Helena"},{"code":"KN","name":"St. Kitts and Nevi"},{"code":"LC","name":"St. Lucia"},{"code":"PM","name":"St. Pierre and Miq"},{"code":"VC","name":"St. Vincent and Gr"},{"code":"SD","name":"Sudan"},{"code":"SR","name":"Suriname"},{"code":"SZ","name":"Swaziland"},{"code":"SE","name":"Sweden"},{"code":"CH","name":"Switzerland"},{"code":"SY","name":"Syrian Arab Republ"},{"code":"TW","name":"Taiwan"},{"code":"TJ","name":"Tajikistan"},{"code":"TZ","name":"Tanzania"},{"code":"TH","name":"Thailand"},{"code":"TL","name":"Timor-Leste"},{"code":"TG","name":"Togo"},{"code":"TK","name":"Tokelau"},{"code":"TO","name":"Tonga"},{"code":"TT","name":"Trinidad and Tobag"},{"code":"TN","name":"Tunisia"},{"code":"TR","name":"Turkey"},{"code":"TM","name":"Turkmenistan"},{"code":"TC","name":"Turks and Caicos I"},{"code":"TV","name":"Tuvalu"},{"code":"UG","name":"Uganda"},{"code":"UA","name":"Ukraine"},{"code":"AE","name":"United Arab Emirat"},{"code":"GB","name":"United Kingdom"},{"code":"UY","name":"Uruguay"},{"code":"UZ","name":"Uzbekistan"},{"code":"VU","name":"Vanuatu"},{"code":"VA","name":"Vatican City"},{"code":"VE","name":"Venezuela"},{"code":"VN","name":"Viet Nam"},{"code":"VG","name":"Virgin Islands, Br"},{"code":"VI","name":"Virgin Islands, U."},{"code":"WF","name":"Wallis and Futuna"},{"code":"EH","name":"Western Sahara"},{"code":"YE","name":"Yemen"},{"code":"ZM","name":"Zambia"},{"code":"ZW","name":"Zimbabwe"}];
+var _gat=null;
+</script>
+
+    <script type="text/javascript" src="http://cdn.speeddate.com/static/18005/site/js/sd_compiled_prototype.js"></script>
+    <script type="text/javascript" src="http://cdn.speeddate.com/static/18005/site/js/sd_compiled_site.PrototypeNewUI.js"></script>
+</head>
+<body class="site">
+<div id="site" class="site">
 	<div id="header">
-		<div id="h1" title="SpeedDate" class="large"><a href="http://www.speeddate.com"><span></span>SpeedDate</a></div>
+		<div id="h1" title="SpeedDate" class="large"><a href="http://www.speeddate.com/index.php"><span></span></a></div>
 		<div id="top-signin"><div class="l"><div class="c">
-			<form id="loginForm" method="post" action="/index.php?page=login&amp;section=login">
-				<input type="hidden" name="command" value="login">
-				<input type="hidden" name="url" value="">
-				<label for="username">Username:</label>
-				<input type="text" class="input-field" name="username" id="username" size="10">                             
-				<label for="password">Password:</label>
-				<input type="password" class="input-field" name="password" id="password" size="10">
-				<input type="submit" class="input-button" value="Login">
-				<a href="/index.php?page=login&amp;section=password" class="forgot" rel="nofollow">Forgot password?</a> |  
-				<a href="/blog/" target="_blank" rel="nofollow">Blog</a> |
-				<a href="/index.php?page=signup&amp;section=join" class="joinsite" rel="nofollow">Join</a> |
-				<a href="/index.php?page=site&amp;section=help" rel="nofollow">Help</a>
-			</form>
+            <!--
+            <a href="#" onclick="FB.Connect.requireSession(); return false;">
+                <img id="fb_login_image" style="float:left; border-width:0px; margin-left:-1px; margin-top:-1px;"
+                 src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_short.gif" alt="Connect" />
+            </a>
+            -->
+            <form method="post" action="http://www.speeddate.com/index.php?page=login&amp;action=login_submit">
+                <label for="email">Email or Username:</label>
+                <input type="text" class="input-field" name="email" id="email" size="10">
+                <label for="password">Password:</label>
+                <input type="password" class="input-field" name="password" id="password" size="10">
+                <input type="submit" class="input-button" value="Login">
+                <a href="http://www.speeddate.com/index.php?page=login&amp;action=password" class="forgot" rel="nofollow">Forgot password?</a> |
+                <a href="/blog/" target="_blank">Blog</a> |
+                <a href="http://www.speeddate.com/index.php?page=signup&amp;action=join" class="joinsite" rel="nofollow">Join</a>
+            </form>
 		</div></div></div>
 	</div>
-		<div class="content-outer"><div class="inner-sidebar">
-	<ul class="secondary-navigation"> 
-		<li><a href="index.php?page=site&amp;section=about_us" rel="nofollow">About Us</a></li> 
-		<li><a href="index.php?page=site&amp;section=press" rel="nofollow">Press</a></li>
-		<li><a href="index.php?page=site&amp;section=how_it_works" rel="nofollow">How It Works</a></li>
-		<li><a href="index.php?page=site&amp;section=success" rel="nofollow">Success Stories</a></li>
-		<li><a href="index.php?page=site&amp;section=fans" rel="nofollow">Fans</a></li>
+	<div class="content-outer">
+        <div class="inner-sidebar">
+	<ul class="secondary-navigation">
+		<li><a href="http://www.speeddate.com/index.php?page=site&amp;action=about_us">About Us</a></li>
+		<li><a href="http://www.speeddate.com/index.php?page=site&amp;action=press">Press</a></li>
+		<li><a href="http://www.speeddate.com/index.php?page=site&amp;action=how_it_works">How It Works</a></li>
+		<li><a href="http://www.speeddate.com/index.php?page=site&amp;action=success">Success Stories</a></li>
+		<li><a href="http://www.speeddate.com/index.php?page=site&amp;action=fans">Fans</a></li>
 			</ul>
-	 <div class="big-button-join"><a href="index.php?page=signup&amp;section=join" class="join" rel="nofollow">Join Now!</a></div>	 
-</div>
+	 <div class="big-button-join"><a href="http://www.speeddate.com/index.php?page=signup&amp;action=join" class="join">Join Now!</a></div>	</div>
 <div class="content">
 	<div class="inner-header">
 		<h3>Privacy Policy</h3>
 	</div>
-	 
-	<div class="inner-content small-font">
+	<div class="result-message result-error"><ul><li>First Name should not be empty.</li><li>Day should be selected.<br>Month should be selected.<br>Year should be selected.<br></li><li>Email Address already taken. Please choose another.</li></ul>
+        </div>	<div class="inner-content small-font">
 
 			<p>This privacy policy (the "Privacy Policy") describes the personal
 			  information collected about users of the online dating service accessible
@@ -106,8 +164,8 @@
 		      disputes.</p>
 			<p>We may use personally identifiable information, data files and other information
               about You including but not limited to images, video recordings, and audio recordings
-              to improve Our marketing and promotional efforts, to analyze usage of the Service, 
-              improve Our content and product offerings, and customize the Service content, layout, 
+              to improve Our marketing and promotional efforts, to analyze usage of the Service,
+              improve Our content and product offerings, and customize the Service content, layout,
               and features. </p>
 			<p>We may use Your information to contact You and to deliver information to
 			  You that may be targeted to Your interests, such as banner advertisements,
@@ -127,24 +185,24 @@
 
             <h4>Inviting Friends</h4>
             <p>
-            Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf.
+            Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf.  Your friends may contact us at <a href="mailto:info@speeddate.com">info@speeddate.com</a> to request that we remove their information from our database.
             </p>
             <p>
-            For your convenience, SpeedDate.com offers the ability to import email 
-            addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. 
-            If you choose to use this feature, we will access your address book 
-            using the login details that you provide. We access your address book 
-            only once to retrieve your friends' information so that you may select 
-            whom to invite. We do not store your login details nor do we use them 
-            for any other purpose than to retrieve your contacts. We never send 
+            For your convenience, SpeedDate.com offers the ability to import email
+            addresses from common address books such as Hotmail/Yahoo/Gmail/AOL.
+            If you choose to use this feature, we will access your address book
+            using the login details that you provide. We access your address book
+            only once to retrieve your friends' information so that you may select
+            whom to invite. We do not store your login details nor do we use them
+            for any other purpose than to retrieve your contacts. We never send
             invitations to contacts you do not leave preselected or explicitly select,
-            and your invitations are the only email we will ever send to your friends 
+            and your invitations are the only email we will ever send to your friends
             unless they register to join the site.
             </p>
             <p>
             If you have accidentally sent invitations you did not intend - please <a href="mailto:info@speeddate.com">contact us</a> and we can cancel the reminder message.
             </p>
-            
+
             <h4>Our Disclosure of Your Information</h4>
 			  <p>Although we use industry-standard efforts to protect the personal information
 			    We collect via the Service, we cannot guarantee that this information will
@@ -253,45 +311,36 @@
 		    for revising the Terms of Use. </p>
 	</div>
 
-</div>   
-	</div>                  
-    <div class="clear"></div>	
-
-	<div id="footer">
-        <a href="/index.php" class="no-joinpopup" rel="nofollow">Home</a> |
-		<a href="/index.php?page=site&amp;section=about_us" rel="nofollow">About Us</a> |
-		<a href="/index.php?page=site&amp;section=press" rel="nofollow">Press</a> |
-		<a href="/index.php?page=site&amp;section=how_it_works" rel="nofollow">How It Works</a> | 
-		<a href="index.php?page=site&amp;section=success" rel="nofollow">Success Stories</a> |
-        <a href="index.php?page=site&amp;section=fans" rel="nofollow">Fans</a> |       
-        <a href="/index.php?page=site&amp;section=terms_of_use" rel="nofollow">Terms of Use</a> |
-        <a href="/index.php?page=site&amp;section=privacy_policy" rel="nofollow">Privacy Policy</a> |
-		<a href="/index.php?page=site&amp;section=jobs" rel="nofollow">Jobs</a> |
-        <a href="/index.php?page=site&amp;section=contact_us" rel="nofollow">Contact Us</a> 
-        <br>
-		© 2007 SpeedDate.com. All Rights Reserved | Protected by U.S. Pat. No. 7,203,674 
+</div>
     </div>
-	
+    <div class="clear"> </div>
+    <div id="footer">
+        <a href="http://www.speeddate.com/index.php?page=home" class="no-joinpopup" rel="nofollow">Home</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=about_us" rel="nofollow">About Us</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=press" rel="nofollow">Press</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=how_it_works" rel="nofollow">How It Works</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=success" rel="nofollow">Success Stories</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=fans" rel="nofollow">Fans</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=terms_of_use" rel="nofollow">Terms of Use</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=privacy_policy" rel="nofollow">Privacy Policy</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=jobs" rel="nofollow">Jobs</a> |
+        <a href="http://www.speeddate.com/index.php?page=site&amp;action=contact_us" rel="nofollow">Contact Us</a>
+        <br>
+        © 2007 SpeedDate.com. All Rights Reserved | Protected by U.S. Pat. No. 7,203,674
+    </div>
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2045170-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+    if(_gat){
+        var pageTracker = _gat._getTracker("UA-2045170-1");
+        pageTracker._initData();
+        pageTracker._trackPageview('/site/privacy_policy/');
+    }
 </script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-adcuwBSwI2guU"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<a href="http://www.quantcast.com/p-adcuwBSwI2guU" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-adcuwBSwI2guU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+    <script type="text/javascript">FB.init("f3407a859d065b5d08b6edc179a378db","xd_receiver.htm", {"ifUserConnected" : window.reload});</script>
 
 </body></html>
