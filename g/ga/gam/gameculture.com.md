@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gameculture.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220224639id_/http%3A//www.gameculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameculture.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195103id_/http%3A//www.gameculture.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | GameCulture
 
-This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, and opt-in announcement lists owned and operated by Game Culture, ("Game Culture"). (The Game Culture Network includes all Web sites and certain other Internet media properties hyper linked from the Game Culture corporate Web site.) The following discloses our Privacy Policy. 
+This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, and opt-in announcement lists owned and operated by Game Culture, ("Game Culture"). (The Game Culture Network includes all Web sites and certain other Internet media properties hyper linked from the Game Culture corporate Web site.) The following discloses our Privacy Policy.  
 
 #### What information are you collecting and how are you collecting it?
 
