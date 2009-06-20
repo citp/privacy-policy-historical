@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217200758id_/http%3A//www.atk.com/siteusage/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071825id_/http%3A//www.atk.com/siteusage/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,4 +96,4 @@ We reserve the right, at any time and without notice, to add to, change, update 
 Should you have other questions or concerns about our Privacy Policy, please send us an email at [atk.corporate@atk.com](mailto:atk.corporate@atk.com).  
 
 
-[Printer Friendly Version (pdf)](https://web.archive.org/web/20081217200758id_/http%3A//www.atk.com/downloads/privacy_policy.pdf)
+[Printer Friendly Version (pdf)](https://web.archive.org/web/20090620071825id_/http%3A//www.atk.com/downloads/privacy_policy.pdf)
