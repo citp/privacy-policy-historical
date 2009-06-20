@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saba.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152332id_/http%3A//www.saba.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saba.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054520id_/http%3A//www.saba.com/privacy.htm) for the most accurate reproduction.*
 
 # Saba - Privacy Policy
 
@@ -74,7 +74,7 @@ We will not keep Personal Information longer than as necessary for the fulfillme
 Saba takes reasonable steps to ensure that the Personal Information it maintains is reliable for, and relevant to, its intended use. We also endeavor to ensure that such Information is accurate, complete and current.
 
 **Access and Correction**  
-Where required by applicable law, Saba provides Users with the right to access and correct their Personal Information that Saba controls. For information about how to exercise these rights, or to unsubscribe from our newsletters or from our sharing information with third parties for their marketing purposes, please contact Saba Customer Service by [clicking here](https://web.archive.org/web/20081219152332id_/http://www.saba.com/privacy_request.htm). 
+Where required by applicable law, Saba provides Users with the right to access and correct their Personal Information that Saba controls. For information about how to exercise these rights, or to unsubscribe from our newsletters or from our sharing information with third parties for their marketing purposes, please contact Saba Customer Service by [clicking here](https://web.archive.org/web/20090620054520id_/http://www.saba.com/privacy_request.htm). 
 
 **Policy Updates**  
 We may update this Policy from time to time. When we do so, changes in our Policy will be effective immediately upon posting the revised Policy to the Site. If you are a regular visitor to this Site, we recommend that you check this Policy on a regular basis. By continuing to use the Site after a revised Policy has been posted, you will be deemed to have agreed to Policy changes. If you do not agree with the terms of this Policy, please do not continue using this Site.
