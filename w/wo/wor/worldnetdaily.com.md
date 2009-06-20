@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226175639id_/http%3A//www.worldnetdaily.com/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620132921id_/http%3A//www.worldnetdaily.com/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ Cookies cannot be used to identify individuals, only machines. So these advertis
 **WorldNetDaily.com News Alert feature**   
 After signing up to receive a WorldNetDaily.com News Alert by e-mail, users will begin to receive a brief synopsis of current news events available on the WorldNetDaily.com site, delivered on a daily or weekly basis. Additionally users may receive infrequent other announcements from WorldNetDaily.com. We collect subscriber's e-mail addresses in order to distribute the News Alerts and announcements and do not otherwise share them with other companies or partners. WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and WorldNetDaily.com. This policy is intended to explain how your personal information is collected and how it will be treated.
 
-Users can choose to unsubscribe from WorldNetDaily.com News Alerts at any time by following the unsubscribe procedures found in each e-mail or by visiting the [News Alert sign-up page](http://worldnetdaily.com/resources/mailingList.asp).
+Users can choose to unsubscribe from WorldNetDaily.com News Alerts at any time by following the unsubscribe procedures found in each e-mail or by visiting the [News Alert sign-up page](http://www.wnd.com/resources/mailingList.asp).
 
 **Online Retailing**  
 WorldNetDaily.com operates an online store, ShopNetDaily.com. In the course of processing orders, we may collect certain personal information for the purpose of fulfilling customer orders. We will save this information as needed to keep responsible records and handle complaints. We do not share this information with any telemarketing firms. Your phone number is necessary only for credit card verification purposes and issues of customer service related to purchases from ShopNetDaily.com.
@@ -77,7 +77,7 @@ WorldNetDaily.com operates an online store, ShopNetDaily.com. In the course of p
 **Changing User Information**   
 To make changes to your email or physical address on your ShopNetDaily account, contact our customer service department at [customerservice@worldnetdaily.com](mailto:customerservice@worldnetdaily.com) or by calling toll free 1- 800-496-3266.
 
-To update an e-mail address on the WorldNetDaily News Alerts list, unsubscribe the old address and resubscribe using the new address at the [News Alert sign-up page.](http://worldnetdaily.com/resources/mailingList.asp)
+To update an e-mail address on the WorldNetDaily News Alerts list, unsubscribe the old address and resubscribe using the new address at the [News Alert sign-up page.](http://www.wnd.com/resources/mailingList.asp)
 
 **Promotions**   
 From time to time, WorldNetDaily.com may sponsor contests or other events that require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. WorldNetDaily.com may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with these other participating sponsors. A registrant's personal contact and demographic information will not be disclosed to third-party or non-participating organizations without the user's prior consent, and WorldNetDaily.com will request that co-sponsors of such events uphold the privacy of the registrant's information.
@@ -105,15 +105,16 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via e-mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some case where we post a notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
 I.T. Dept  
 541-474-1776  
 privacy@worldnetdaily.com  
 WorldNetDaily.com, Inc.  
-PO Box 1627  
-Medford, OR 97501
+2020 Pennsylvania Ave NW, #351  
+Washington, DC 20006
 
-_Privacy statement updated Aug. 5, 2004._
+ _Privacy statement updated April 14, 2009._
 
 * * *
 
