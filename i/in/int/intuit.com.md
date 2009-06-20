@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220041248id_/http%3A//about.intuit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620142354id_/http%3A//about.intuit.com/privacy) for the most accurate reproduction.*
 
 # Intuit - Privacy Statement
 
@@ -8,7 +8,7 @@
 
 We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information.
 
-> Tell Me More
+Tell Me More
 
 ### More about how we protect your information
 
@@ -27,7 +27,7 @@ When we ask you for information, we will tell you – or it will be clear – wh
 
 If you are a business partner or prospective business partner, review our privacy practices that apply specifically to you.
 
-> Tell Me More
+Tell Me More
 
 ### More about Business Partners
 
@@ -45,7 +45,7 @@ Once you have signed up for Business Connect services, QuickBooks will automatic
 
 We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your dynamoRequest. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant.
 
-> Tell Me More
+Tell Me More
 
 ### More about our relationships with Third Parties
 
@@ -61,7 +61,7 @@ Intuit and its subsidiaries may exchange information about your transactions to 
 
 Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience.
 
-> Tell Me More
+Tell Me More
 
 ### More about Web technologies
 
