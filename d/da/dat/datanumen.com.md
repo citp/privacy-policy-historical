@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datanumen.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220205309id_/http%3A//www.datanumen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datanumen.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620091012id_/http%3A//www.datanumen.com/privacy.htm) for the most accurate reproduction.*
 
 # DataNumen: Privacy Policy
 
@@ -19,7 +19,7 @@
 
 DataNumen, Inc. is committed to maintaining the privacy of the information you share with us. We will never sell, distribute, or rent information about you and your purchases at DataNumen, Inc.. We will only use the information you share with us for the purposes of enhancing your use of our web site, products, services, or, with your permission, sending you information about our products and services. 
 
-Please take a moment to read our privacy policy for a better understanding of the measures we take to protect you and the information you share with us. If you don't find your concern addressed here, please feel free to [contact us ](https://web.archive.org/web/20081220205309id_/http%3A//www.datanumen.com/contact.htm). 
+Please take a moment to read our privacy policy for a better understanding of the measures we take to protect you and the information you share with us. If you don't find your concern addressed here, please feel free to [contact us ](https://web.archive.org/web/20090620091012id_/http%3A//www.datanumen.com/contact.htm). 
 
 This privacy policy will explain the following regarding our collection of information:   
   
@@ -67,7 +67,7 @@ Our email and ftp servers are highly protected so that only our engineers can re
 
 **How to gain access to the information we have on file for you**  
   
-There may be times where you wish to gain access to the information we have on file for you. To receive a copy of this information, please [contact us ](https://web.archive.org/web/20081220205309id_/http%3A//www.datanumen.com/contact.htm).   
+There may be times where you wish to gain access to the information we have on file for you. To receive a copy of this information, please [contact us ](https://web.archive.org/web/20090620091012id_/http%3A//www.datanumen.com/contact.htm).   
   
    
 | **Notification of changes**  
