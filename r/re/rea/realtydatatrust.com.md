@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtydatatrust.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221150103id_/http%3A//vaultware.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtydatatrust.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621004326id_/http%3A//vaultware.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # VaultWare - Privacy Policy - Realty DataTrust.
 
