@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neighborcity.com privacy policy that was archived on 2008-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080624034605id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neighborcity.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620071807id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,105 +7,450 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	
-	
-	<link rel="shortcut icon" href="http://www.neighborcity.com/img/favicon.ico" type="image/x-icon"> 
-	<link href="http://www.neighborcity.com/css/main.css" rel="stylesheet" type="text/css">
-	<link href="http://www.neighborcity.com/css/message.css" rel="stylesheet" type="text/css">
-	
-	<link href="http://www.neighborcity.com/css/static.css" rel="stylesheet" type="text/css">
-	<script src="http://www.neighborcity.com/g_js/prototype.js" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/scriptaculous.js" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/general.js" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/ajax-lib.js" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/location_search.js" type="text/javascript"></script>
-	
-
-	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAneowxxwS3P8Mbvoxz5t2shRwpMrkIgrOs2ThhD1-_fursXcfXRRG8HBsREqQjBzZnZ6rVsiLk2O1Bw" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/map.js" type="text/javascript"></script>
-	<script src="http://www.neighborcity.com/g_js/mBubble.js" type="text/javascript"></script>
-
-
-
-	  <!--[if IE]>
-	<style>	
-		DIV#search_location {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/bgd_search_location.png, sizingMethod='scale');
-		}
-            
-		DIV#show_map {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/bgd_show_map.png, sizingMethod='scale');
-		}
-		
-            
-		DIV.over_results {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/bgd_over_results.png, sizingMethod='scale');
-		}
-		
-            
-		DIV.click_results {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/bgd_click_results.png, sizingMethod='scale');
-		}
-		
-		DIV.over_show {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/bgd_over_show.png, sizingMethod='scale');
-		}
-		
-		#page_overlay {
-			background-image: none;
-			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.neighborcity.com/img/overlay.png,sizingMethod='scale');
-		}
-	</style>
+		<link rel="shortcut icon" href="http://www.neighborcity.com/img/favicon.ico" type="image/x-icon"> 
+	<link href="http://www.neighborcity.com/css/cmb_main.css" rel="stylesheet" type="text/css">
+	<link href="http://www.neighborcity.com/css/static.css" rel="stylesheet" type="text/css">    <!-- global auto search drop down css -->
+    <link rel="stylesheet" href="http://www.neighborcity.com/AjaxSearch/css/autosuggest_inquisitor.css" type="text/css" media="screen" charset="utf-8">
+    <!-- overwriting some css for IE and older visions -->
+    <!--[if IE]>
+    	<link href="http://www.neighborcity.com/css/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+		<link href="http://www.neighborcity.com/css/ie6.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
+    <!--[if lte IE 8]>
+		<link href="http://www.neighborcity.com/css/ie8.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+        <script src="http://www.neighborcity.com/js_mini/prototype.js" type="text/javascript"></script>
+	<script src="http://www.neighborcity.com/js_mini/scriptaculous.js" type="text/javascript"></script>
+	<script src="http://www.neighborcity.com/js_mini/general.js" type="text/javascript"></script>
+	
+    <!-- googlesitemap code was here -->
+    
+    <script type="text/javascript" src="http://www.neighborcity.com/js_mini/main.js"></script>
+    <script type="text/javascript" src="http://www.neighborcity.com/js_mini/tool_tip.js"></script>
+    
+    
 </head>
-<body onload="load()">
+<body>
+<div id="listing_detail_lbform_bg" onclick="close_all_light_box();"></div>
+<div id="ajax_loadingbox" style="display:none;"></div>
+<div id="ajax_loadingbox_image" style="display:none;"></div>
+<script type="text/javascript">
+var save_agent_html = '';
+var contact_agent_html = '';
+var save_property_html = '';
+var save_real_estate_html = '';
+var save_email_alert_html = '';
+var remove_favourite_html = '';
 
+function save_agent(lb_agent_id) 
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=lb_save_agent&lb_agent_id='+lb_agent_id, 'lb_save_agent');
+	// reset html
+	document.getElementById('lb_save_agent').innerHTML = '';
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('lb_save_agent');
+}
 
-	<div id="wrapper">
+function contact_agent(lb_agent_id) 
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=lb_contact_agent&lb_agent_id='+lb_agent_id, 'lb_contact_agent');
+	// reset html
+	document.getElementById('lb_contact_agent').innerHTML = '';
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('lb_contact_agent');
+}
+
+function save_property(lb_mls_id, lb_region_id, lb_region_type) 
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=save_property&lb_mls_id='+lb_mls_id+'&lb_region_id='+lb_region_id+'&lb_region_type='+lb_region_type, 'save_property');
+	// reset html
+	document.getElementById('save_property').innerHTML = save_property_html;
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('save_property');
+}
+
+function save_real_estate(lb_save_type, lb_save_id) 
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=save_real_estate&lb_save_type='+lb_save_type + '&lb_save_id='+lb_save_id, 'save_real_estate');
+	// reset html
+	document.getElementById('save_real_estate').innerHTML = '';
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('save_real_estate');
+}
+
+function remove_listing(lb_listing_id, lb_listing_type, lb_div_id) 
+{
+	lb_listing_type = 'remove_' + lb_listing_type;
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=' + lb_listing_type + '&lb_listing_id='+lb_listing_id, lb_div_id, '1');
+	/*
+	if(remove_favourite_html=='')
+		remove_favourite_html = document.getElementById('remove_favourite_alert').innerHTML;
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('remove_favourite_alert');
+	document.getElementById('remove_favourite_alert').innerHTML = remove_favourite_html;
+	document.getElementById('lb_listing_id').value = lb_listing_id;
+	document.getElementById('lb_listing_type').value = lb_listing_type;
+	*/
+}
+
+function save_listing(lb_listing_id, lb_listing_type, lb_div_id) 
+{
+	lb_listing_type = 'save_' + lb_listing_type;
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=' + lb_listing_type + '&lb_listing_id='+lb_listing_id, lb_div_id);
+}
+
+function edit_search_email_alert(form, lb_listing_type, lb_div_id) 
+{
+	var parameters = getformparameters(form);
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters+'&lb_listing_type='+lb_listing_type, lb_div_id, '1');
+}
+
+function show_mls_disclaimer(lb_mls_feed_id) 
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=mls_disclaimer&lb_mls_feed_id='+lb_mls_feed_id, 'mls_disclaimer');
+	// reset html
+	document.getElementById('mls_disclaimer').innerHTML = '';
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('mls_disclaimer');
+}
+
+function function_submit_lightbox_claim(agent_id)
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox=claim_agent&agent_id='+agent_id, 'agent_claim_profile');
+}
+
+function edit_email_alert(lb_listing_id, lb_listing_type) 
+{
+	if(save_email_alert_html=='')
+		save_email_alert_html = document.getElementById('edit_email_alerts').innerHTML;
+	// scroll up
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('edit_email_alerts');
+	// reset html
+	document.getElementById('edit_email_alerts').innerHTML = save_email_alert_html;
+	document.getElementById('lb_listing_id').value = lb_listing_id;
+	document.getElementById('lb_listing_type').value = lb_listing_type;
+}
+
+function function_submit_lightbox_form(form)
+{	
+	//Run AJAX
+	var parameters = getformparameters(form);
+	if(form.name == "lb_save_agent") {
+		// save html code
+		if(!save_agent_html) {
+			save_agent_html = document.getElementById('lb_save_agent').innerHTML;
+		}
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, form.name);	
+	}
+	
+	if(form.name == "lb_contact_agent") {
+		// save html code
+		if(!contact_agent_html) {
+			contact_agent_html = document.getElementById('lb_contact_agent').innerHTML;
+		}
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, form.name);	
+	}
+	
+	if(form.name == "save_property") {
+		// save html code
+		if(!save_property_html) {
+			save_property_html = document.getElementById('save_property').innerHTML;
+		}
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, form.name);
+	}
+	
+	if(form.name == "save_real_estate") {
+		// save html code
+		if(!save_real_estate_html) {
+			save_real_estate_html = document.getElementById('save_real_estate').innerHTML;
+		}
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, form.name);
+		save_id = form.save_id.value;
+		save_type = form.save_type.value;
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightboxtype=direct_update_button&save_id=' + save_id + '&save_type='+ save_type, 'direct_email_alert');
+	}
+	if(form.name == "edit_email_alerts") {
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, form.name);
+	}
+	if(form.name == "right_col_login_user") {
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters, 'lb_right_col_login_user');
+	}
+}
+
+function function_member_login_lightbox_form(form)
+{	
+	//Run AJAX
+	var parameters = getformparameters(form);
+	//alert("http://www.neighborcity.com/ajaxcalls/" + 'lightbox='+form.name+'&'+parameters+'&lightboxlogin=true');
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightbox='+form.name+'&'+parameters+'&lightboxlogin=true', form.name);
+	//alert("http://www.neighborcity.com/ajaxcalls" + 'lightbox='+form.name+'&'+parameters+'&lightboxlogin=true');
+	if(form.name=='save_real_estate_direct')
+	{
+		save_id = form.save_id.value;
+		save_type = form.save_type.value;
+		divid = 'direct_email_alert';
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightboxtype=direct_update_button&hide_saved_button=true&save_id=' + save_id + '&save_type='+ save_type, divid);
+	}
+}
+
+function function_submit_lightbox(type, divid)
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightboxtype='+type, divid, '1');
+}
+
+function function_submit_lightbox_listing_search_email_alert(form, type, saveid, divid, logged)
+{
+	ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightboxtype=direct_save&save_id=' + saveid + '&save_type='+ type + '&email_alert=' + form.email_alert.value, 'save_real_estate_direct');
+	if(logged==1)
+		ajaxCall("http://www.neighborcity.com/ajaxcalls", 'lightboxtype=direct_update_button&save_id=' + saveid + '&save_type='+ type, divid);
+	document.getElementById('save_real_estate_direct').innerHTML = '';
+	window.scrollTo(0,0);
+	// open lightbox
+	show_listing_detail_lbox('save_real_estate_direct');
+}
+
+function show_listing_detail_lbox(e)
+{
+	e = 'listing_detail_lbform_' + e;
+	document.getElementById('listing_detail_lbform_bg').style.display = 'inline';
+	//document.getElementById('ajax_loader_image').style.display = 'block';
+	document.getElementById(e).style.display = 'block';
+}
+
+function hide_listing_detail_lbox(e)
+{
+	e = 'listing_detail_lbform_' + e;
+	document.getElementById('listing_detail_lbform_bg').style.display = 'none';
+	document.getElementById('ajax_loader_image').style.display = 'none';
+	document.getElementById(e).style.display = 'none';
+}
+
+function close_all_light_box(e)
+{
+	document.getElementById('listing_detail_lbform_bg').style.display = 'none';
+	document.getElementById('ajax_loader_image').style.display = 'none';
+	document.getElementById(e).style.display = 'none';
+}
+
+function getformparameters(form_name)
+{
+	var getallstr = '';
+	
+	//GET ALL TAGS
+	var form_elements = form_name.getElementsByTagName("*");
+
+	
+	for(x=0; x < form_elements.length; x++)
+	{
+		//----FILTERING INPUT TAGS
+		if(form_elements[x].tagName == "INPUT"){
+		
+			//Text Fields
+			if(form_elements[x].type == "text"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			}
+			
+			//Password Fields
+			if(form_elements[x].type == "password"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			}
+			
+			//Image Fields
+			if(form_elements[x].type == "image"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			}
+			
+			//Checkboxes
+			if(form_elements[x].type == "checkbox"){	
+				if (form_elements[x].checked) {
+					getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+				}// else {
+					//getallstr += form_elements[x].name + "=&";
+				//}
+			}
+			
+			//Hidden Fields
+			if(form_elements[x].type == "hidden"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			}
+			
+			//Radio Buttons
+			if(form_elements[x].type == "radio"){
+				if (form_elements[x].checked) {
+					getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+				}
+			}
+		
+		}
+		
+		//----FILTERING SELECT TAGS
+		if(form_elements[x].tagName == "SELECT"){
+			//var sel = form_elements[x];
+			//getallstr += sel.name + "=" + sel.options[sel.selectedIndex].value + "&";
+
+			if(form_elements[x].value != "0"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			}
+		}
+
+		//----FILTERING TEXTAREA TAGS
+		if(form_elements[x].tagName == "TEXTAREA"){
+			
+			//if(form_elements[x].type == "text"){
+				getallstr += form_elements[x].name + "=" + form_elements[x].value + "&";
+			//}
+			
+		}
+	}
+	
+	//----DELETE LAST "&"
+	getallstr = getallstr.slice(0, -1)
+			
+	return getallstr;	
+}
+
+function ajaxCall(url, parameters, container, hideprogress) 
+{
+	var randomnumber = Math.floor(Math.random()*900);
+	var callback_function = container+'_callback';
+
+	
+	if(parameters == null)
+	{
+		parameters = '';
+	}
+	if(hideprogress != 1)
+	{
+		// Request status (loading box)
+		var loading_container = 'ajax_loader_image';
+		if($(loading_container) != null) {
+			var myAjaxResponder2 = {
+				onCreate: function() {
+					if($(loading_container) && Ajax.activeRequestCount > 0)
+						Effect.Appear('ajax_loader_image',{from: 0, to: 0.5});
+				},
+				onComplete: function() {
+					if($(loading_container) && Ajax.activeRequestCount == 0)
+						Effect.Fade('ajax_loader_image',{from: 0.5, to: 0});
+					Ajax.Responders.unregister(myAjaxResponder2);
+				}
+			};
+			
+			Ajax.Responders.register(myAjaxResponder2);
+		}
+	}
+
+	// Do ajax call (post)
+	var myAjax = new Ajax.Request(url,{method: 'post', postBody: parameters+'&'+randomnumber, /*update: $('myspan'),*/ onComplete: handleRequest}); //POST
+	
+	// output into container (if defined)
+	function handleRequest(originalRequest) {
+		// pass output to function
+		if(self[callback_function]) {
+			return self[callback_function](originalRequest.responseText);
+		}
+		
+		// or load output into container
+		if(container != null && !self[callback_function]) {
+			$(container).innerHTML = originalRequest.responseText;
+		}
+		
+		// or just return output
+		/*if(container == null && !self[callback_function]) {
+			return originalRequest.responseText;
+		}*/
+	}
+}
+</script>
+<div id="ajax_loader_image" style="display:none;text-align:center; padding-top:300px">
+	<img src="http://www.neighborcity.com/img/loader.gif">
+</div>
+		<div id="wrapper">
 		<div id="header">
-			<a href="http://www.neighborcity.com/"><img id="logo" src="http://www.neighborcity.com/img/logo.gif" alt="NeighborCity.com"></a>
-			<img id="logo_print" src="http://www.neighborcity.com/img/logo_print.gif" alt="NeighborCity.com"> 
+            <a href="http://www.neighborcity.com/"><img id="logo" src="http://www.neighborcity.com/img/logo.gif" alt="Real Estate"></a>
 			<div id="near">
-				<!--
-				<form action="" method="get">
-					<fieldset>
-						<img id="near_label" src="http://www.neighborcity.com/img/label_near.gif" alt="Find Homes Near" />
-						<input id="near_input" type="text" name="near_location" value="Address" />	
-						<input id="near_submit" type="image" src="http://www.neighborcity.com/img/submit_near.gif" alt="Search" />
-					</fieldset>
-				</form>
-				-->
+            <div id="lb_header_member_login">
+<form name="lb_header_member_login" onsubmit="function_member_login_lightbox_form(this.form); return false;">
+<table width="338" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td height="0" valign="middle" align="center"><img src="http://www.neighborcity.com/img/fpo-user-photo-thumb.jpg" width="40px" height="40px"></td>
+        <td width="100%" valign="top">
+        <table width="100%">
+            <tbody><tr>
+                <td colspan="2">
+                                        	 Login or <a href="http://www.neighborcity.com/member-registration/">Register</a> Now!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.neighborcity.com/member-forgot-password/">Forgot Password?</a>
+                                    </td>
+            </tr>
+            <tr>
+                <td>
+                    E-MAIL:
+                </td>
+                <td>
+                    <input type="text" style="width:150px; height:11px; font-size:11px;" name="email">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    PASSWORD:
+                </td>
+                <td>
+                    <input type="password" style="width:150px; height:11px; font-size:11px;" name="userpassword">
+                </td>
+            </tr>
+        </tbody></table>
+        </td>
+        <td valign="bottom">
+            <input name="submit_lightbox_login" style="margin:0 5px 5px 0;" value="1" type="image" src="http://www.neighborcity.com/img/header_member_login_button.gif" onclick="function_member_login_lightbox_form(this.form); return false;">
+        </td>
+    </tr>
+</tbody></table>
+</form>
+</div>
 			</div>
-			<div id="assist_text">need assistance?<br><span>let our experts help.</span></div>
-
-			<a id="assist_button" href="http://www.neighborcity.com/contact/"><img src="http://www.neighborcity.com/img/button_assist.gif" alt="Assist Me"></a>
+			<div id="assist_text">
+            	need assistance? <span>let our experts help.</span><br>
+            	<div id="assist_text_phone">(866) 605-5823</div>
+            </div>
 		</div>
 		<div id="nav">
 			<ul>
 				<li><a href="http://www.neighborcity.com/search/" title="Find a Home">Find a Home</a></li>
-				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
-				<li><a href="http://www.neighborcity.com/property_directory/" title="Property Directory">Property Directory</a></li>
-				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
-
+                                <li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
+                <li><a href="http://www.neighborcity.com/agent-search/" title="Agent Search">Agent Search</a></li>
+                <li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
+                <li><a href="http://www.neighborcity.com/foreclosure-search/" title="Foreclosure Search">Foreclosure Search</a></li>
+                <li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
+                <li><a href="http://www.neighborcity.com/community/" title="Community">Community</a></li>
+                <li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
+                                <li><a href="http://www.neighborcity.com/property_directory/" title="Property Directory">Property Directory</a></li>
+                                <li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
+				<li><a href="http://www.neighborcity.com/resources/" title="Resources">Resources</a></li>
+								<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
 				<li><a href="http://www.neighborcity.com/faq/" title="Frequently Asked Questions">FAQ</a></li>
-				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
-				<li><a href="http://www.neighborcity.com/about/" title="About">About</a></li>
 				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
 				<li><a href="http://www.neighborcity.com/contact/" title="Contact">Contact</a></li>
 				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
-				<li><a href="http://www.neighborcity.com/help/" title="help">Help</a></li>
-
-				<li><img class="nav_divider" src="http://www.neighborcity.com/img/nav_divider.gif" alt=""></li>
-				<li><a href="http://www.neighborcity.com/" title="Home">Home</a></li>
+                                <li><a href="http://www.neighborcity.com/member-login/" title="Login">MEMBERS</a></li>
+                				
 			</ul>
-			<div id="login"><a href="http://www.neighborcity.com/login/" title="Login"></a></div>
-		</div>
-
-		<div id="content">
+                        	                <div id="login"><a href="http://www.neighborcity.com/member-login/" title="Login"></a></div>
+                            		</div>		<div id="content">
 			<div id="static_column_left">
 				<h1>Privacy Policy</h1>
 
@@ -114,44 +459,204 @@
 				<img class="tab" src="http://www.neighborcity.com/img/tab_privacy.jpg" alt="Privacy Policy">
 				<div class="clear" style="margin-bottom: 18px;"></div>
 <h2 class="green" style="margin-bottom: 10px;">Privacy Policy</h2>
-<div class="clear"></div>
-<div class="question_text">American Home Realty Network, LLC (“American”) respects the privacy of the information given us by its website visitors and registered users and recognizes the importance of protecting this information against unauthorized disclosure. To that end American has adopted the privacy policy (“Policy”) described below and will apply it to the information it gathers as detailed below.  This Policy is current as you read it but may be amended from time to time to reflect changes and additions to it. Therefore visitors and registered users should check back for the most current version before relying on it for future use.</div>
-<h2 class="green" style="margin-bottom: 10px;">The Information Gathered:</h2>
-<div class="clear"></div>
+<br>
 <div class="question_text">
-American gathers information about website visitors and registered users to improve the quality of its services. The data is collected in two ways: site visitor data and personal information data.
-<br><br>Site visitor data is generally collected from website activity using “cookies”,  “pixel tags” and “usage logs”. This information is collected on an aggregate basis on the visitor area of the website and on an individual basis from the registered user (password protected) area of the website. The site visitor data consists of (i) the number of visitors over a given period of time; (ii) the pages visited and the features used; (iii) the amount of time of each visit; and (iv) the domain name used by the connecting visitor.
-<br><br>A “cookie” is a bit of electronic information transferred to the computer of each visitor and registered user to uniquely identify the browser being used.  Cookies are used to secure the name, access codes, screen preferences, pages, and advertisements viewed (i.e. clicked on) of each visitor and registered user. Visitors and registered users can usually decline the receipt of these cookies by using various features of their software. However, declining the receipt of Internet cookies will likely interfere with a visitor's ability to view the website content.
-<br><br>A "pixel tag" is an invisible tag placed on certain pages of our website. It is used to track a registered user’s activity on the password protected areas of our website. A pixel tag is also known as a "clear gif."
-<br><br>“Usage logs” are data obtained by American’s computer servers that operate the website.  With respect to each visitor and registered user, this data typically includes the existence of cookies, the internet protocol address, information about the browser program, and the information requested form the website.
-<br><br>Personal information data such as name, address, telephone number, e-mail address, etc. is collected by the visitors and registered users completing various online forms, applications, surveys, and contact requests.  Completing a new form will modify any information previously provided.
+&nbsp;&nbsp;&nbsp;&nbsp;American Home Realty Network, LLC (“American”) 
+
+respects the privacy of the information given us by its web site visitors and 
+
+registered users and recognizes the importance of protecting this information 
+
+against unauthorized disclosure. To that end American has adopted the privacy 
+
+policy (“Policy”) described below and will apply it to the information it 
+
+gathers as detailed below.  This Policy is current as you read it but may be 
+
+amended from time to time to reflect changes and additions to it. Therefore 
+
+visitors and registered users should check back for the most current version 
+
+before relying on it for future use.
 </div>
 
-<h2 class="green" style="margin-bottom: 10px;">Usage and Gathered Information Disclosure:</h2>
 <div class="clear"></div>
-<div class="question_text">American uses the site visitor data for various purposes, including: editorial corrections, visitor and registered user feedback, marketing and business promotion, statistical analysis of visitor and registered user responses, product and service development, content improvement and website layout, and usage feedback to advertisers. American uses the personal data as directed or authorized by the registered user to assist the registered user in securing the services of the selected real estate broker or agent, mortgage broker or company, title insurance company, or provider of other real estate related services.</div>
+<h2 class="green" style="margin-bottom: 10px;">The Information Gathered:</h2>
+<div class="clear"></div>
 
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;American gathers information about website visitors 
+
+and registered users to improve the quality of its services. The data is 
+
+collected in two ways: site visitor data and personal information data.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Site visitor data is generally collected from website 
+
+activity using “cookies”,  “pixel tags” and “usage logs”. This information is 
+
+collected on an aggregate basis on the visitor area of the website and on an 
+
+individual basis from the registered user (password protected) area of the 
+
+website. The site visitor data consists of (i) the number of visitors over a 
+
+given period of time; (ii) the pages visited and the features used; (iii) the 
+
+amount of time of each visit; and (iv) the domain name used by the connecting 
+
+visitor.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A “cookie” is a bit of electronic information 
+
+transferred to the computer of each visitor and registered user to uniquely 
+
+identify the browser being used.  Cookies are used to secure the name, access 
+
+codes, screen preferences, pages, and advertisements viewed (i.e. clicked on) 
+
+of each visitor and registered user. Visitors and registered users can usually 
+
+decline the receipt of these cookies by using various features of their 
+
+software. However, declining the receipt of Internet cookies will likely 
+
+interfere with a visitor's ability to view the website content.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A "pixel tag" is an invisible tag placed on certain 
+
+pages of our website. It is used to track a registered user’s activity on the 
+
+password protected areas of our website. A pixel tag is also known as a "clear 
+
+gif."<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;“Usage logs” are data obtained by American’s computer 
+
+servers that operate the website.  With respect to each visitor and registered 
+
+user, this data typically includes the existence of cookies, the internet 
+
+protocol address, information about the browser program, and the information 
+
+requested form the website.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Personal information data such as name, address, 
+
+telephone number, e-mail address, etc. is collected by the visitors and 
+
+registered users completing various online forms, applications, surveys, and 
+
+contact requests.  Completing a new form will modify any information 
+
+previously provided.
+</div>
+
+<div class="clear"></div>
+<h2 class="green" style="margin-bottom: 10px;">Usage and Gathered Information 
+
+Disclosure:</h2>
+<div class="clear"></div>
+
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;American uses the site visitor data for various 
+
+purposes, including: editorial corrections, visitor and registered user 
+
+feedback, marketing and business promotion, statistical analysis of visitor 
+
+and registered user responses, product and service development, content 
+
+improvement and website layout, and usage feedback to advertisers. American 
+
+uses the personal data as directed or authorized by the registered user to 
+
+assist the registered user in securing the services of the selected real 
+
+estate broker or agent, mortgage broker or company, title insurance company, 
+
+or provider of other real estate related services.
+</div>
+
+<div class="clear"></div>
 <h2 class="green" style="margin-bottom: 10px;">Minors/Children:</h2>
 <div class="clear"></div>
-<div class="question_text">The website is not directed toward providing any services to minors. American does not try or intend to collect information from minors or children.  When brought to the attention of American, it will take all reasonable steps to purge such information from its data collection system.</div>
 
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;The website is not directed toward providing any 
+
+services to minors. American does not try or intend to collect information 
+
+from minors or children.  When brought to the attention of American, it will 
+
+take all reasonable steps to purge such information from its data collection 
+
+system.
+</div>
+
+<div class="clear"></div>
 <h2 class="green" style="margin-bottom: 10px;">Hyperlinks:</h2>
 <div class="clear"></div>
-<div class="question_text">The website may contain electronic links to and from other websites. These websites are likely to have different privacy policies than what is described here.  For information about the privacy policies of these linked websites you must go to those websites.</div>
 
-<h2 class="green" style="margin-bottom: 10px;">Security Standards</h2>
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;The website may contain electronic links to and from 
+
+other websites. These websites are likely to have different privacy policies 
+
+than what is described here.  For information about the privacy policies of 
+
+these linked websites you must go to those websites.
+</div>
+
 <div class="clear"></div>
-<div class="question_text">American makes every effort to secure its systems by (i) using industry standard firewalls, encryption technology, access codes, and other access control methods and systems; and (ii) employing new technology and systems that are reliable and applicable to the data collection and security system.</div>
+<h2 class="green" style="margin-bottom: 10px;">Security Standards:</h2>
+<div class="clear"></div>
 
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;American makes every effort to secure its systems by 
+
+(i) using industry standard firewalls, encryption technology, access codes, 
+
+and other access control methods and systems; and (ii) employing new 
+
+technology and systems that are reliable and applicable to the data collection 
+
+and security system.
+</div>
+
+<div class="clear"></div>
 <h2 class="green" style="margin-bottom: 10px;">Contacting American:</h2>
 <div class="clear"></div>
-<div class="question_text">If you have any questions or concerns or want to express your opinions on the company services, please use the information set out on the contact page of the website.</div>
 
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions or concerns or want to 
+
+express your opinions on the company services, please use the information set 
+
+out on the contact page of the website.
+</div>
+
+<div class="clear"></div>
 <h2 class="green" style="margin-bottom: 10px;">Policy Date and Changes:</h2>
 <div class="clear"></div>
-<div class="question_text">The effective date of this policy is 08/01/2007.  American reserves the right to change this policy at any time without notice and any changes will be effective upon posting to the website.</div>
-<br><br>
-				<div class="clear"></div>
+
+<div class="question_text">
+&nbsp;&nbsp;&nbsp;&nbsp;The effective date of this policy is 08/    /2007.  
+
+American reserves the right to change this policy at any time without notice 
+
+and any changes will be effective upon posting to the website.
+</div>
+
+<div class="clear"></div>
+<br>
+
+<div class="question_text">(There is also an issue that needs to be added with 
+
+reference to visitors and registered users involved with or interested in the 
+
+same property.  This needs to be added to the privacy policy)
+</div>				<div class="clear"></div>
 				<p style="margin-top: 10px;"><em></em></p>
 			</div>
 			<div id="static_column_right">
@@ -167,7 +672,7 @@ American gathers information about website visitors and registered users to impr
 				<div id="friend">
 
 					<img id="title_friend" src="http://neighborcity.com/img/title_friend.gif" alt="Email a Friend">
-					<form method="post" action="http://www.neighborcity.com/thank_you/">
+					<form method="post" action="http://www.neighborcity.com/thank-you/">
 						<input type="hidden" name="form_type" value="email_static">
 						<fieldset>
 							<img class="friend_label" src="http://www.neighborcity.com/img/label_your_name.gif" alt="Your Name">
@@ -196,12 +701,13 @@ American gathers information about website visitors and registered users to impr
 	<div id="footer">
 		<div id="footer_wrapper">
 			<div id="footer_column_left">
-
-				<img src="http://www.neighborcity.com/img/title_footer.gif" alt="NeighborCity.com">
+				<img src="http://www.neighborcity.com/img/title_footer.gif" alt="neighborcity.com">
 				<ul>
 					<li><a href="http://www.neighborcity.com/">Home</a></li>
 					<li>|</li>
 					<li><a href="http://www.neighborcity.com/search/">Find a Home</a></li>
+					<li>|</li>
+                    <li><a href="http://www.neighborcity.com/mortgage-calculator/">Mortgage Calculator</a></li>
 					<li>|</li>
 					<li><a href="http://www.neighborcity.com/faq/">faq</a></li>
 
@@ -211,18 +717,21 @@ American gathers information about website visitors and registered users to impr
 					<li><a href="http://www.neighborcity.com/contact/">Contact</a></li>
 					<li>|</li>
 					<li><a href="http://www.neighborcity.com/help/">Help</a></li>
-
+                    <li>|</li>
+					<li><a href="http://www.neighborcity.com/sitemap/">Sitemap</a></li>
 				</ul>
 				<div class="clear"></div>
 <img class="footer_title" src="http://www.neighborcity.com/img/title_footer_areas.gif" alt="Real Estate Search Areas">
-		  <div class="clear"></div><table><tbody><tr><td><a href="http://california.neighborcity.com/San_Diego/">San Diego, CA real estate</a></td><td><a href="http://georgia.neighborcity.com/Atlanta/">Atlanta, GA real estate</a></td><td><a href="http://california.neighborcity.com/Los_Angeles/">Los Angeles, CA real estate</a></td></tr><tr></tr><tr><td><a href="http://california.neighborcity.com/San_Francisco/">San Francisco, CA real estate</a></td><td><a href="http://georgia.neighborcity.com/Marietta/">Marietta, GA real estate</a></td><td><a href="http://california.neighborcity.com/Laguna_Beach/">Laguna Beach, CA real estate</a></td></tr><tr></tr><tr><td><a href="http://california.neighborcity.com/Newport_Beach/">Newport Beach, CA real estate</a></td><td><a href="http://georgia.neighborcity.com/Athens/">Athens, GA real estate</a></td><td><a href="http://utah.neighborcity.com/Salt_Lake_City/">Salt Lake City, UT real estate</a></td></tr><tr></tr><tr><td><a href="http://utah.neighborcity.com/Park_City/">Park City, UT real estate</a></td><td><a href="http://california.neighborcity.com/Huntington_Beach/">Huntington Beach, CA real estate</a></td><td><a href="http://utah.neighborcity.com/Provo/">Provo, UT real estate</a></td></tr><tr></tr><tr><td><a href="http://utah.neighborcity.com/Draper/">Draper, UT real estate</a></td><td><a href="http://utah.neighborcity.com/Sandy/">Sandy, UT real estate</a></td><td><a href="http://georgia.neighborcity.com/Alpharetta/">Alpharetta, GA real estate</a></td></tr><tr></tr></tbody></table>				<div class="divider"></div>
-                                <div id="copyright">American Home Realty Network, LLC | 1417 15th Street, San Francisco CA, 94103</div>
+		  <div class="clear"></div>	<table>
+	<tbody><tr><td valign="top"><a href="http://www.neighborcity.com/TX/Houston/">Houston REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/NC/Charlotte/">Charlotte REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/TX/San-Antonio/">San Antonio REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/GA/Atlanta/">Atlanta REAL ESTATE</a></td></tr><tr><td valign="top"><a href="http://www.neighborcity.com/TX/Dallas/">Dallas REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/TX/Austin/">Austin REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CO/Denver/">Denver REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/OR/Portland/">Portland REAL ESTATE</a></td></tr><tr><td valign="top"><a href="http://www.neighborcity.com/TX/Fort-Worth/">Fort Worth REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CA/San-Diego/">San Diego REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/WA/Seattle/">Seattle REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CA/San-Jose/">San Jose REAL ESTATE</a></td></tr><tr><td valign="top"><a href="http://www.neighborcity.com/CA/Sacramento/">Sacramento REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/MO/Kansas-City/">Kansas City REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CO/Grand-Junction/">Grand Junction REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/WA/Vancouver/">Vancouver REAL ESTATE</a></td></tr><tr><td valign="top"><a href="http://www.neighborcity.com/GA/Savannah/">Savannah REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CA/Los-Angeles/">Los Angeles REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/MN/Minneapolis/">Minneapolis REAL ESTATE</a></td><td valign="top"><a href="http://www.neighborcity.com/CA/San-Francisco/">San Francisco REAL ESTATE</a></td></tr>    </tbody></table>
+				<div class="divider"></div>
+                <div id="copyright">American Home Realty Network, LLC | 1417 15th Street, San Francisco CA, 94103</div>
 				<div id="terms">
 					<a href="http://www.neighborcity.com/terms/">Terms of Use</a>  |  
 					<a href="http://www.neighborcity.com/privacy/">Privacy Policy</a>  |  
 					<a href="http://www.neighborcity.com/disclaimer/">Disclaimer</a>
 				</div>
-                                <div id="copyright">Copyright © 2007 | All Rights Reserved</div>
+                <div id="copyright">Copyright © 2009 | All Rights Reserved</div>
 			</div>
 			<div id="footer_column_right">
 				<img src="http://www.neighborcity.com/img/title_footer_tools.gif" alt="Quick Tools">
@@ -234,30 +743,62 @@ American gathers information about website visitors and registered users to impr
 						<li><a href="http://www.neighborcity.com/faq/">faq</a></li>
 					</ul>
 				</div>
+                <!--
 				<div id="agent_match">
-					<img src="http://www.neighborcity.com/img/title_agent_match.gif" alt="Agent Match">
-				<!--
+					<img src="http://www.neighborcity.com/img/title_agent_match.gif" alt="Agent Match" />
 					<div id="agent_match_link"><a href="#">Find an agent that meets your needs.</a></div>
-				-->
 				</div>
+                -->
 			</div>
-
 			<div id="house"></div>
 		</div>
-		<div id="bottom_bar"></div>
+		<div id="bottom_bar">
+            <div id="footer_wrapper_bottom">
+                <div id="footer_column_bottom">
+                                                <br>
+<img src="http://www.neighborcity.com/img/ahrn-footer-logo.gif">
+<br>
+<h3>This is website owned and operated by Brett Stratton of American Home Realty Network, LLC</h3>
+1417 15th Street, San Francisco CA, 94103 | License Number: 01260307 | Phone: (866) 605-5823<br><br><br>                </div>
+            </div>
+        </div>
 	</div>
+<!-- Global js moved to header -->
+
+<!-- Autosuggest code moved to header -->
+<script>
+	lastDate = '06/20/2009 02:18:AM';
+	function showHideTabOn(id) {
+		showHideTabs(id,tabs);
+		bi = 0;
+		
+		for(i=0; i < tabs.length; i++) {
+			if ( tabs[i] == id )
+				bi = i;
+		}
+		
+		for(i=0; i < btns.length; i++) {
+			obj = document.getElementById(btns[i]+'_on');
+			if ( obj )
+				obj.id = btns[i];
+			
+			document.getElementById('tools_viewing').style.dispaly = 'block';
+		}
+		
+		obj = document.getElementById(btns[bi]);
+		if ( obj )
+			obj.id = obj.id + '_on';
+		
+	}
+</script>
+<!-- google traker code -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-2593958-1";
 urchinTracker();
 </script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-33hoa_3BsZct-";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-33hoa_3BsZct-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-33hoa_3BsZct-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
+<!-- END -->
+
 
 </body></html>
