@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquasuperstore.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220033216id_/http%3A//www.aquasuperstore.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquasuperstore.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620184715id_/http%3A//www.aquasuperstore.com/privacy.aspx) for the most accurate reproduction.*
 
 # At Aqua Superstore, PRIVACY MATTERS!
 
@@ -12,7 +12,7 @@ At Aqua Superstore we care about providing you with tools and information to man
 > 
 > 18501 Murdock Cir 
 > 
-> Suite 303
+> Suite 501
 > 
 > Port Charlotte, FL 33948
 > 
@@ -64,6 +64,6 @@ The information is in accordance with our service provider's business practices.
 
 **What if I think there are inaccuracies in my information?**
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available by [clicking here](https://web.archive.org/web/20081220033216id_/http%3A//www.aquasuperstore.com/customerservice.aspx).
+If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available by [clicking here](https://web.archive.org/web/20090620184715id_/http%3A//www.aquasuperstore.com/customerservice.aspx).
 
 If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us.
