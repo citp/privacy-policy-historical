@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219095805id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620230615id_/http%3A//www.overallbeauty.com/catalog/privacy.php) for the most accurate reproduction.*
 
-# Magic Lash Eyelash Enhancer|Nail Polish Gift Set|Overall Beauty Minerals|Liptoxyl
+# Magic Lash Eyelash Enhancer|Overall Beauty Minerals|BB Couture Nail Polish|2009 Trendy Nail Polish
 
 OverallBeauty Privacy Policy  
 |   
-Kim Snyder - Owner |  At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. OverallBeauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases.   
+Kim Snyder - Owner |  Our mailing address is:  
+Overall Beauty  
+ATTN: Kim Snyder  
+5336 Blue Sapphire Ct  
+Elk Grove, CA 95758  
+Toll Free number: 888-422-2694  
+At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. OverallBeauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases.   
 ---|---  
 OverallBeauty.com is committed to providing our customers with a secure web site to shop and will only collect the personal information that is necessary to process your order. Our customers should feel assured that access to this information will be limited to the except as explained below, and otherwise will never be sold or given to any other company. 
 
