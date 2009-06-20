@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteflashgames.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222112308id_/http%3A//www.cuteflashgames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteflashgames.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620032709id_/http%3A//www.cuteflashgames.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Flash Games privacy policy
 
