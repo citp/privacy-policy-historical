@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennispoint.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219111617id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennispoint.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061135id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Tennis Team Management online with TennisPoint - USTA, ALTA, KSwiss & T2Tennis & LeagueTennis (Flex Leagues)
 
