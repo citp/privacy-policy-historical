@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217231615id_/http%3A//www.evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evworld.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620140322id_/http%3A//evworld.com/general.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # EV WORLD: The World of Sustainable Transportation
 
@@ -8,8 +8,8 @@
   
 GUIDE TO PRIVACY POLICY  
   
-**PREVIOUSLY ON EV WORLD:[Shai Agassi: One-on-One](http://evworld.com/article.cfm?storyid=1458)**  
-Shai Agassi (right) with Danish dignitary at launch of Project Better Place in Denmark earlier this year. -- Originally published 23-May-2008
+**PREVIOUSLY ON EV WORLD:[Seeking Apollo's Fire](http://evworld.com/article.cfm?storyid=1366)**  
+Panel authors are from left to right: David Sandalow, David Magee, Rep. Jay Inslee, David Freeman. -- Originally published 07-Dec-2007
 
 **Your Privacy**  
 EV World believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, EV World makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy describes the steps we take to make sure that when you use EV World, you can focus on finding great deals in a safe, worry-free environment. 
