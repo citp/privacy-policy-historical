@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lexcycle.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218002002id_/http%3A//www.lexcycle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexcycle.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621012228id_/http%3A//www.lexcycle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lexcycle
 
-Please note that the practices of Lexcycle LLC, its affiliates, and agents ("Lexcycle"), with respect to data collected and used by Lexcycle in connection with this website and all other Lexcycle.com websites of Lexcycle LLC and its affiliates with links to this policy (collectively, the “Site”) and Lexcycle products and services available or enabled via the Site (“Products and Services”), are governed by this online privacy policy (“Privacy Policy”) as amended from time to time, and not the privacy policy in effect at the time the data was collected. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Products and Services enabled by the Site and follow the procedure described in the section entitled "Updating your personal information and privacy preferences". This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Site, or Products and Services not available or enabled via the Site, except as expressly set forth in the section entitled "Data not collected on this Site." Notwithstanding the foregoing, to the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and Lexcycle regarding the use of specific areas of the Site or specific Products and Services (including Product- and Service-specific licenses, terms of use, or privacy disclosures) (collectively, “Product Agreements”), the terms of the Product Agreements shall govern.
+Please note that the practices of Lexcycle, Inc., its affiliates, and agents ("Lexcycle"), with respect to data collected and used by Lexcycle in connection with this website and all other Lexcycle.com websites of Lexcycle, Inc. and its affiliates with links to this policy (collectively, the “Site”) and Lexcycle products and services available or enabled via the Site (“Products and Services”), are governed by this online privacy policy (“Privacy Policy”) as amended from time to time, and not the privacy policy in effect at the time the data was collected. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Products and Services enabled by the Site and follow the procedure described in the section entitled "Updating your personal information and privacy preferences". This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Site, or Products and Services not available or enabled via the Site, except as expressly set forth in the section entitled "Data not collected on this Site." Notwithstanding the foregoing, to the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and Lexcycle regarding the use of specific areas of the Site or specific Products and Services (including Product- and Service-specific licenses, terms of use, or privacy disclosures) (collectively, “Product Agreements”), the terms of the Product Agreements shall govern.
 
 Lexcycle adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information covered by the Privacy Policy from the European Union.
 
@@ -14,7 +14,7 @@ All personal information ("personal information" is defined as any information t
 
 #### Entities collecting personal information
 
-Personal information on this Site is collected on behalf of Lexcycle by Lexcycle LLC, who is responsible for this site. Lexcycle LLC’s address is 1412 SE 41st Ave, Portland, OR 97214 USA, and its telephone number is (503) 396-4209.
+Personal information on this Site is collected on behalf of Lexcycle by Lexcycle, Inc., who is responsible for this site.
 
 The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
@@ -22,7 +22,7 @@ The Site contains links to other sites at which personal information is collecte
 
 You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information (as defined in the section entitled "Protection of your personal information"), this may be accomplished by linking to your account at [Edit Your Account](https://web.archive.org/account), where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications) by writing Lexcycle at:
 
-Lexcycle LLC  
+Lexcycle, Inc.  
 Attn: Change of Address/Privacy  
 1412 SE 41st Ave  
 Portland, OR 97214  
@@ -30,7 +30,7 @@ USA
 
 Personal information submitted through this Site or in connection with the Products and Servicesthat is not Registration Information is not accessible online. To access and/or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write Lexcycle at:
 
-Lexcycle LLC  
+Lexcycle, Inc.  
 Privacy Officer/Customer Information
 
 1412 SE 41st Ave  
@@ -97,7 +97,7 @@ Lexcycle also hires other companies to place our banner ads on other websites an
 
 Lexcycle takes its users' privacy concerns seriously. If you believe that Lexcycle has not complied with this Privacy Policy with respect to your personal information, you may write to the Lexcycle Privacy Officer at the following address:
 
-Lexcycle LLC  
+Lexcycle, Inc.  
 Privacy Officer/Customer Information  
 1412 SE 41st Ave  
 Portland, OR 97214
