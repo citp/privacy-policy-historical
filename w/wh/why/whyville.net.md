@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080907id_/http%3A//b.whyville.net/smmk/top/gatesInfo%3Ftopic%3DprivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyville.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620175500id_/http%3A//b.whyville.net/smmk/top/gatesInfo%3Ftopic%3DprivacyStatement) for the most accurate reproduction.*
 
 # Whyville Privacy Statement
 
@@ -6,11 +6,11 @@
 
 **Personal Information**
 
-We do **NOT** require any personal information that can be used to individually identify a user. To become an active member of Whyville, we ask for a screen name and a password. In order to comply with federal guidelines for protecting children of younger than 13 years of age, we also require the birth month and year. If a child enters a birth date indicating that he/she is under 13, we require a parent's email address which we use to notify the parent that his/her child has registered at our site. 
+To register in Whyville, we do **NOT** require name, street address, or telephone number. We ask for a screen name and a password. In order to comply with federal guidelines for protecting children of younger than 13 years of age, we also require the birth month and year. If a child enters a birth date indicating that he/she is under 13, we require a parent's email address which we use **ONCE** to notify the parent that his/her child has registered at our site. This email address is not collected in our records. For registrants 13 years or older, we require an email address that is used **only** for our automated system of password retrieval and for sending announcements of new features, activities, and events. These announcements are sent **ONLY** if the registrant opts in for receiving them. 
 
-We ask for the gender of our users. Users also have the option of giving us their email address, city, state (but NOT the street address), as well as whether they are a student or a teacher. The email address is used only for our automated system of password retrieval and for sending announcements of new features, activities, and events. 
+We ask for the gender of our users. Users also have the option of telling us their grade level and whether they are a student or a teacher. 
 
-Information such as gender, age, city, state provide us with valuable demographics that will allow us to continue developing Whyville in ways that suit our audience. We use this information internally in Whyville to improve function and quality of our site. 
+Age and gender information provide us with valuable demographics that will allow us to continue developing Whyville in ways that suit our audience. We use this information internally in Whyville to improve function and quality of our site. 
 
 If an account has been inactive for 6 months or longer, all of this user information associated with the account is purged from our database. 
 
