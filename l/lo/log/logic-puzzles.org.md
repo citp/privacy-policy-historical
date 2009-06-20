@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142158id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620022136id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
 
 # Logic Puzzles - Solve Online or Print Your Own for Free!
 
