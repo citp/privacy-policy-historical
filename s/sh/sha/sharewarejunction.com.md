@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharewarejunction.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220204333id_/http%3A//sharewarejunction.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewarejunction.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193510id_/http%3A//www.sharewarejunction.com/privacy.asp) for the most accurate reproduction.*
 
 # Liquid Mirror Enterprises - Software Books Web Sites Services eBooks
 
@@ -23,11 +23,11 @@ At Liquid Mirror Enterprises we strive to protect your privacy and rights. We ha
 
 We employ other companies and individuals to perform functions on our behalf. These may include packaging companies to fulfil orders, couriers to make deliveries, The US Postal Service to send post, and marketing companies to inform you of our new products and services. These companies will have access to your personal information, but may not use it for any other purpose.
 
-Your consent and rightsBy using our website you consent to the collection and use of this information by Liquid Mirror Enterprises. Changes to this privacy policy will be posted to this page so that you are kept informed of the information we collect, how we use it, and under what circumstances we disclose it. Your commentsWe welcome comments on our privacy policy. Please email your questions and comments from [the contact page](https://web.archive.org/web/20081220204333id_/http%3A//sharewarejunction.com/contact.asp.old). Alternatively you can write to us at the following address
+Your consent and rightsBy using our website you consent to the collection and use of this information by Liquid Mirror Enterprises. Changes to this privacy policy will be posted to this page so that you are kept informed of the information we collect, how we use it, and under what circumstances we disclose it. Your commentsWe welcome comments on our privacy policy. Please email your questions and comments from [the contact page](https://web.archive.org/web/20090620193510id_/http%3A//www.sharewarejunction.com/contact.asp.old). Alternatively you can write to us at the following address
 
 > The Sharware Junction Network  
 >  Liquid Mirror Enterprises  
 >  24338 El Toro Rd. Ste E-414  
 >  Laguna Hills, CA 92637 USA 
 
-Copyright © 2008 [Liquid Mirror Enterprises](http://www.liquidmirror.com/). All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of Liquid Mirror Enterprises is strictly prohibited. Use of this site subject to [Terms and Conditions](https://web.archive.org/tandc.asp). [Privacy Policy](https://web.archive.org/web/20081220204333id_/http%3A//sharewarejunction.com/privacy.asp)
+Copyright © 2009 [Liquid Mirror Enterprises](http://www.liquidmirror.com/). All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of Liquid Mirror Enterprises is strictly prohibited. Use of this site subject to [Terms and Conditions](https://web.archive.org/tandc.asp). [Privacy Policy](https://web.archive.org/web/20090620193510id_/http%3A//www.sharewarejunction.com/privacy.asp)
