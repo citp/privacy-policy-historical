@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217140732id_/http%3A//www.cybercoders.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062709id_/http%3A//cybercoders.com/Privacy.aspx) for the most accurate reproduction.*
 
 # CyberCoders is the premier recruiting & job search firm nationwide. Search thousands of jobs -- engineering, executive, financial, accounting & sales.
 
