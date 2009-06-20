@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220211410id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195048id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Astrology & Horoscopes | Read Your Favourite Horoscopes
 
@@ -20,3 +20,5 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 Contact Information   
 If users have any questions or suggestions regarding our privacy policy, please contact us. 
+
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
