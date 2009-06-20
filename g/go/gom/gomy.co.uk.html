@@ -1,0 +1,575 @@
+<!--The following is the downloaded HTML source of the gomy.co.uk privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620093127id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta name="verify-v1" content="2Vf5vg+AeugXAPQv4tBCiW5rOwKYRNEMz02Lkn19QTM=">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Privacy Policy - gomy.co.uk">
+<meta name="description" content="Find out about the online yellow pages privacy policy.">
+<meta name="keywords" content="Privacy Policy, Online Yellow Pages, Reviews, Ratings, Recommendations.">
+<title>Privacy Policy - gomy.co.uk</title>
+<link rel="shortcut icon" href="http://assets.gomy.co.uk/images/templates/favicon.ico">
+<!--[if lte IE 6]> <link rel="stylesheet" href="http://assets2.gomy.co.uk/css/iesucks.css" type="text/css" media="screen" /> <![endif]-->
+<script type="text/javascript" src="http://assets2.gomy.co.uk/js/acctype0/jquery_1.js?20090616"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/prototype.js?20090616"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/builder.js?20090616"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/effects.js?20090616"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/dragdrop.js?20090616"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/base_version_V0.css?20090616">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/popup.css?20090616">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/text-pages.css?20090616">
+</head>
+<body>
+      
+     <script type="text/javascript">  
+	 	 function testShow()
+	 {
+	    J$("#search_keyword").removeClass();
+		J$("#search_keyword").addClass("full_input ac_input");
+		J$("#imgkeyword").css("display","none");
+		setTimeout("J$('#popacc1').css('display','block');", 120);
+        J$("#search_keyword").focus();
+    	J$('#popacc1').focus();
+		isShow1=true;
+		if(readCookie('isshowsugg1')=='hide'){eraseCookie('isshowsugg1');createCookie('isshowsugg1','show','1');}
+	 }
+	 function testHide()
+	 {
+		J$("#imgkeyword").css("display","block");
+		J$("#search_keyword").removeClass();
+		J$("#search_keyword").addClass("suggestions_inputOne");
+		isShow1=false;
+		if(readCookie('isshowsugg1')=='show'){eraseCookie('isshowsugg1');createCookie('isshowsugg1','hide','1');}
+	 }
+	 
+	 function testShow2()
+	 {
+	   J$("#search_location").removeClass();
+	   J$("#search_location").addClass("full_input ac_input");
+		J$("#imglocation").css("display","none");
+		setTimeout("J$('#popacc2').css('display','block');", 120);
+         J$("#search_location").focus();
+		 J$('#popacc2').focus();
+		isShow2=true;
+		if(readCookie('isshowsugg2')=='hide'){eraseCookie('isshowsugg2');createCookie('isshowsugg2','show','1');}
+	 }
+	 function testHide2()
+	 {
+	    J$("#imglocation").css("display","block");
+		J$("#search_location").removeClass();
+		J$("#search_location").addClass("suggestions_inputOne");
+		isShow2=false;
+		 if(readCookie('isshowsugg2')=='show'){eraseCookie('isshowsugg2');createCookie('isshowsugg2','hide','1');}
+	 }
+   
+	  function readylocation()
+	  {
+	       J$("#location").autocomplete("/default/autocomplete2", {
+				minChars: 3,
+				width: 283,
+				selectFirst: false,
+				matchContains: true,
+				scroll: true,
+				scrollHeight: 200
+			});
+	  }
+		J$().ready(function() {
+			J$("#search_location").autocomplete("/default/autocomplete2", {
+			    minChars: 3,
+				width: 283,
+				matchContains: true,
+				inputClass:"acc2",
+				loadingClass: "ac_loading",
+				selectFirst: false,
+				scroll: true,
+				scrollHeight: 200
+			});
+			J$("#search_keyword").autocomplete("/default/autocompleteserchfor2", {
+				minChars: 3,
+				width: 283,
+				inputClass:"acc1",
+				loadingClass: "ac_loading",
+				matchContains: true,
+				selectFirst: false,
+				scroll: true,
+				scrollHeight: 200
+			});
+			if(readCookie('isshowsugg1')==null)
+			 {
+				createCookie('isshowsugg1','show','1');
+			 }else{
+				var shsug=readCookie('isshowsugg1');
+				if(shsug=='hide') testHide();
+			 }
+			 if(readCookie('isshowsugg2')==null)
+			 {
+				createCookie('isshowsugg2','show','1');
+			 }else{
+				var shsug=readCookie('isshowsugg2');
+				if(shsug=='hide') testHide2();
+			 }
+
+		});
+	</script> 
+    <div id="container">
+		<div id="header">
+			<div id="header-right">
+				<div id="info-bar">
+					<span id="info-bar-right">					New User? <a href="/join-gomy" rel="nofollow">Sign Up</a> | <a href="/login" rel="nofollow">Log In</a></span>
+
+					<span id="info-bar-left"></span>
+				</div><!-- info-bar -->
+			
+				<div id="search-bar">
+					 <form action="#" method="post" accept-charset="utf-8" onsubmit="return validate_search();" name="search_form123">  
+						<div>
+							<h2>SEARCH FOR <span>(e.g. Pub, Dentist, Florist)</span></h2>
+							<p>
+                               <input type="text" class="full_input ac_input" name="keyword" id="search_keyword" autocomplete="off" value="" maxlength="75">
+                               <img src="//assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imgkeyword" id="imgkeyword" title="Show Suggestions" alt="Show Suggestions" onclick="testShow();" style="display:none;cursor:pointer">
+                            </p>
+                           	<p>Business Name or Keyword</p>
+						</div>
+					       
+						<div>
+							<h2>NEAR <span>(e.g. Manchester, London, M1 3BE)</span></h2>
+							<p>
+   							  <input class="full_input ac_input" autocomplete="off" id="search_location" name="location" type="text" value="Manchester, Greater Manchester">
+                              <img src="//assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imglocation" id="imglocation" title="Show Suggestions" alt="Show Suggestions" onclick="testShow2();" style="display:none;cursor:pointer">
+                            </p>
+                            <p>Town, City or Postcode</p>
+						</div>
+
+					
+						<div id="search-bar-go">
+                             <input type="image" name="commit" src="http://assets2.gomy.co.uk/images/templates/btn/go-button.png" alt="Go">							
+						</div>
+					 </form> 
+				</div><!-- search-bar -->
+			</div><!-- header-right -->
+			
+			<div id="header-left">
+				<div id="logo">
+					<a href="http://www.gomy.co.uk" rel="nofollow"><img alt="gomy.co.uk" src="http://assets.gomy.co.uk/images/templates/gomy.png"></a>
+
+				</div><!-- logo -->
+			</div><!-- header-left -->
+		</div><!-- header -->
+		
+		<div class="clear"></div>
+		
+		<div id="navigation">
+		<div class="menu">
+        		<ul>
+			<li><a href="/" class="menuHome"><span>Home</span></a></li>
+			
+			<li class="review"><a href="/user/write-a-review" rel="nofollow">WRITE A REVIEW<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+				  <li>
+                     <a href="/user/write-a-review" rel="nofollow">Write a new review</a> 
+                  </li>
+					<li><a href="/review-guidelines" rel="nofollow">Review guidelines</a></li>
+				    <li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="listing"><a href="/advertise">LISTING INFO<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li><a href="/advertise">Advertise Info</a></li>
+					<li><a href="/advertise/free-listings">More about free</a></li>
+					<li><a href="/advertise/silver-listings">More about silver</a></li>
+					<li><a href="/advertise/gold-listings">More about gold</a></li>
+					<li><a href="/advertise/compare-listings">Compare all</a></li>
+					<li><a href="/signup/faccountinfo">Add a free listing</a></li>
+				    <li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="talk"><a href="/users/gotalkwrite" rel="nofollow">GO TALK<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li>                    
+					 <a href="/users/gotalkwrite" rel="nofollow">Send a new message</a> 
+                    </li>
+					<li>
+                     <a href="/users/gotalkin" rel="nofollow">View your inbox</a>                   </li>
+					<li>
+                   <a href="/users/gotalksent" rel="nofollow">View sent messages</a></li>
+			        <li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="someone"><a href="/find-members" rel="nofollow">FIND SOMEONE<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li>
+                     <a href="/find-members" rel="nofollow">Find new members</a>                     </li>
+					<li>
+                    <a href="/users/friends" rel="nofollow">View your friends</a> </li>
+					<li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="invite"><a href="/users/invitefriends" rel="nofollow">INVITE A FRIEND<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+					<li>
+                      <a href="/users/invitefriends" rel="nofollow">Tell friends about GoMy</a>                   </li>
+					<li>
+                      <a href="/users/invitebusiness" rel="nofollow">Invite a friends business</a>                      </li>
+			        <li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="events"><a class="menu-list-over" rel="nofollow" href="#" onclick="new Ajax.Updater('popupmessage', '/popup/findevents', {asynchronous:true, evalScripts:true, onComplete:function(request, json){styledPopupOpen('popupmessage'),readylocation()}, onLoading:function(request, json){load_popup('Find Local Events',0);}});; return false;">EVENTS</a>			<!--[if lte IE 6]><table><tr><td><![endif]-->
+				<ul>
+               <li><!--[if lte IE 6]><table><tr><td><![endif]--> <a href="/uk/Greater-Manchester/Manchester/whatson">Events</a><!--[if lte IE 6]></td></tr></table><![endif]-->
+				</li>
+                    <li><a href="/events/addevent" class="menu-list-over" rel="nofollow">Add a new event</a></li>
+                    <li class="submenu_footer"></li>
+				</ul>
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			
+			<li class="account"><a href="/users" rel="nofollow">MY ACCOUNT<!--[if IE 7]><!--></a><!--<![endif]-->
+			<!--[if lte IE 6]><table><tr><td><![endif]-->
+             <ul>    <li><a href="/login" class="menu-list-over" rel="nofollow">View your profile</a></li>               <li class="submenu_footer"></li>
+               </ul>		<!--<li><a href="/users" rel="nofollow">View your profile</a></li>
+					<li><a href="/business-login" rel="nofollow">View your business profile</a></li>-->
+			      
+			
+			<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+		</div>
+		</div> <!-- end of navigation -->
+		
+		
+ <div id="page">
+ <div id="PopupFrame" style="height:495px;display: none;position:absolute;z-index: 9999;left: 175px;">
+      <table>
+        <tbody>
+          <tr>
+            <td class="tl"></td><td class="b"></td><td class="tr">
+
+          </td></tr>
+          <tr>
+            <td class="b">
+            </td><td>
+           <h3><span id="popupmessagehead">Popular Locations</span><img alt="Close" title="Close" onclick="styledPopupClose('PopupFrame')" style="cursor:pointer" src="http://assets2.gomy.co.uk/images/templates/popups/PopupClose.gif" class="PopClose"></h3>
+	<div id="popupmessage" style="background-color:#FFFFFF">
+		<p class="PopupLoading">Loading...</p>
+   </div>
+
+			<div class="clear"></div>
+	</td>
+            <td class="b">
+          </td></tr>
+          <tr>
+            <td class="bl"></td><td class="b"></td><td class="br">
+          </td></tr>
+
+        </tbody>
+      </table>
+
+</div>
+ 
+<div id="anchor"></div>
+<div id="page-top-header">
+	<h1>Privacy Policy</h1>
+</div><!-- page-top-header -->
+
+<div id="privacy_page">
+
+  <h2>The last update to this Privacy Policy was on January 4th 2009</h2>
+  <p>gomy.co.uk takes your Privacy very seriously. We will never Share or Sell your information to anybody! This Privacy Policy explains how certain information about You may be used.</p>
+  <p>gomy.co.uk may contact registered Users and registered Business Users with relevant information based on Your <a href="#" rel="nofollow">Email Notifications</a> Page</p>
+  <p>The terms "we", "us", "our" and "GoMy" refer to gomy.co.uk ltd. The terms "you" and "your" refer to you, as a user of any gomy.co.uk sites. The term "personal information" means information that you have provided to us and personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.</p>
+  <p><strong>By using gomy.co.uk, you expressly consent to the use of your data in accordance with this Privacy Policy. If you DO NOT agree with these Terms, we kindly request that you DON'T use this website.</strong></p>
+  <h3>1 Your Data</h3>
+  <p>"Your Data" means any information about You from which You are personally identifiable, including without limitation Your name, address, email address or telephone number (and where applicable, Your login name and password) and other information from which You can be identified and which You may disclose to Us or otherwise via gomy.co.uk at any time.</p>
+  
+  <h3>2 How We Collect Your Data</h3>
+  <p>We may collect and process Your Data:</p>
+  <ul>
+    <li>Whenever You visit gomy.co.uk (for our statistical research - We may collect details of Your visits including, but not limited to, web traffic data, location data and other resources You access within the site).</li>
+    <li>When You become a registered user of gomy.co.uk; You will provide Your Data by using an online registration form (this registration process gives You access to write and submit reviews, submit local events, bookmark business details for your personal records and all other relevant material which requires you to login.</li>
+    <li>Whenever You provide Your Data to Us (for example: contacting gomy.co.uk to report a problem with the website, making a complaint, making an enquiry or contacting Us for any other reason).</li>
+    <li>Whenever You disclose Your Data to Us, or We collect Data from You, in any other way through gomy.co.uk.</li>
+  </ul>
+  
+  <h3>3 How We Use Your Information</h3>
+  <p> We use Your Data to:</p>
+  <ul>
+    <li>Monitor, develop and improve gomy.co.uk (gomy.co.uk is constantly improving the website to give You a better, more efficient and presentable experience). </li>
+    <li>Process Your user registration with gomy.co.uk and provide You with a User Name and Password.</li>
+    <li>Provide You with information, products or services that You request from Us.</li>
+    <li>Give You access to our interactive features or services.</li>
+    <li>Notify You about any changes to Our service.</li>
+    <li>Deal and process any enquiries made by You.</li>
+    <li>Publish or otherwise make available a list of prize winners, where You are one of the prize winners from any of Our free Prize Draws.</li>
+    <li>"Collectively" use the statistical traffic details of All the site users and browsers for Our own marketing, market research and related purposes.</li>
+    <li>Provide You with information about Our products and services (gomy.co.uk DOES NOT pass your personal information on to any third parties).</li>
+  </ul>
+  
+  <h3>4 Passing On Your Data To Third Parties</h3>
+  <p>gomy.co.uk keeps your personal details private we WILL NOT pass on your personal details to any Third Parties unless it is required by Law under a duty to disclose Your Data in order to comply with any legal obligation.</p>
+  <p>gomy.co.uk employees only have access to Your relevant personal details if it is required for them to perform their work. All gomy.co.uk employees and / or contracted staff are bound by the Data Protection Act 1998.</p>
+  
+  <h3>5. Cookies ñ And What We Use Them For <span class="privacy-to-top"><a href="#anchor">Back to top</a></span></h3>
+  <p>We use cookies to give you a more unique experience when using the website and to improve the quality of our service. If you have Cookies enabled on your browser, gomy.co.uk can remember your personal preferences each time you return. This allows us to:</p>
+  <ul>
+    <li>Recognise You when you return to gomy.co.uk</li>
+    <li>Remember Your individual interests: (Using Manchester as an example) if you searched for Restaurants in Manchester and closed down the website, the next time You returned to the site, a cookie will remember to open the Manchester Homepage instead of You searching for it again.</li>
+    <li>Speed up some of your searches</li>
+  </ul>
+  <p>A cookie is a small piece of information that a website sends to Your computer while You are viewing the site. We may use both <a href="http://www.allaboutcookies.org/cookies/cookies-the-same.html" target="_blank" rel="nofollow">session cookies</a> (which expire once you close your browser) and <a href="http://www.allaboutcookies.org/cookies/cookies-the-same.html" target="_blank" rel="nofollow">persistent cookies</a> (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of gomy.co.uk may not work correctly.</p>
+
+  <h3>6. Where We Store Your Information</h3>
+  <p>Your personal details are password protected. gomy.co.uk uses securely encrypted and industry standard measures to protect the personal information that is stored in our database. We ask You not to share a password with anyone.</p>
+  <p>If you have any questions about the security of gomy.co.uk, please <a href="/contact" rel="nofollow">contact us</a>. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.</p>
+  <p><i>You hereby acknowledge that gomy.co.uk is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.</i></p>
+  
+  <h3>7. Links to Other Websites</h3>
+  <p>gomy.co.uk may have certain links to and from the websites of third parties. By following or using a link to these websites you accept that gomy.co.uk has no responsibility, liability or legal obligation with your use of any linked business or website.</p>
+  <p>gomy.co.uk strongly recommends that You read, understand and accept the Privacy Policies and Terms of any website you follow the link to from this site.</p>
+  
+  <h3>8. Access to and Updating Your Data</h3>
+  <p>If You are a registered user or registered business user of gomy.co.uk and would like to receive a copy of the personal Data We hold for You, please <a href="/contact" rel="nofollow">contact us</a>.</p>
+  <p>As a registered user or registered business user of gomy.co..uk You have the editorial freedom to access, change and update any of the information we store for your account access (please <a href="/login" rel="nofollow">login here</a>).</p>
+  <p>gomy.co.uk will remove all of Your Data from Our database upon your request <a href="/contact" rel="nofollow">contact us</a> specifying Your name, the email address You used to register with Us and Your user name should You need us to do this.</p>
+  
+  <h3>9. Contact Us</h3>
+  <p>If You have any questions, comments, requests or concerns regarding this Privacy Policy. Feel free to use our <a href="/contact" rel="nofollow">contact page</a> or write to Us at:
+	  <br>gomy.co.uk Limited
+	  <br>1 Portland Street
+	  <br>Manchester
+	  <br>M1 3BE.</p>
+  
+  <h3>10. Policy Revisions <span class="privacy-to-top"><a href="#anchor">Back to top</a></span></h3>
+  <p>gomy.co.uk may modify this Privacy Policy at any time. With the possibility of future changes and / or updates to this Privacy Policy, we recommend that all users and business users (registered and unregistered) Read and accept this statement regularly.</p>
+  
+</div><!-- text-page-bottom -->
+  
+<div id="page-middle">
+</div></div><!--page -->
+
+<div id="footer">
+			<div id="resources">
+				<div id="useful-resources">
+					<h2>Useful Bits:</h2>
+
+					<ul>
+						<li><a href="/about-us" rel="nofollow">About GoMy</a></li>
+						<li><a href="/jobs" rel="nofollow">Jobs</a></li>
+						<li><a href="/uk">Browse</a></li>
+						<li><a href="/review-guidelines" rel="nofollow">Review Guidelines</a></li>
+												
+						<li><a href="http://blog.gomy.co.uk" rel="nofollow">GoMy Blog</a></li>		
+						<li>
+                        <a href="/uk/Greater-Manchester/Manchester/whatson">Events</a>                       
+ 		<iframe id="submit_eventfooter_frame" name="submit_eventfooter_frame" src="about:blank" style="display:none;left:-2px;margin:0px;top:0px;border:0px;" frameborder="0"></iframe>
+        <div id="eventpopup"></div>
+        <script type="text/javascript">
+//<![CDATA[
+new Draggable('eventpopup', {})
+//]]>
+</script> 
+						</li>
+						<li><a href="/new-businesses">New Businesses</a></li>
+						
+						<li><a href="/contact-us" rel="nofollow">Contact Us</a></li>
+						<li><a href="/store-finder">Store Finder</a></li>
+					</ul>
+                    
+				</div>
+				
+				<div id="advertising-resources">
+					<h2>Business Resources:</h2>
+
+					<ul>
+						<li><a href="/advertise">Listing Info</a></li>
+						<li><a href="/testimonials" rel="nofollow">Testimonials</a></li>
+
+						<li><a href="/faq" rel="nofollow">FAQ's</a></li>						
+					</ul>
+				</div>
+<div class="clear_both"></div>
+			</div><!-- resources -->
+			
+			<div id="popular">
+				<h2>Check out our popular towns and cities:</h2>
+				<ul>
+					<li><a href="/uk/West-Midlands/Birmingham/guide">Birmingham</a></li>
+					<li><a href="/uk/East-Sussex/Brighton/guide">Brighton &amp; Hove</a></li>
+					<li><a href="/uk/Derbyshire/Derby/guide">Derby</a></li>
+				    <li><a href="/uk/North-Yorkshire/Harrogate/guide">Harrogate</a></li>
+					<li><a href="/uk/Bedfordshire/Luton/guide">Luton</a></li>
+					<li><a href="/uk/Nottinghamshire/Nottingham/guide">Nottingham</a></li>
+					<li><a href="/uk/South-Yorkshire/Sheffield/guide">Sheffield</a></li>
+					<li><a href="/uk/West-Glamorgan/Swansea/guide">Swansea</a></li>
+
+					<li><a href="/uk/Lancashire/Blackpool/guide">Blackpool</a></li>
+					<li><a href="/uk/Avon/Bristol/guide">Bristol</a></li>
+					<li><a href="/uk/Angus/Dundee/guide">Dundee</a></li>
+					<li><a href="/uk/Humberside/Hull/guide">Hull</a></li>
+					<li><a href="/uk/Greater-Manchester/Manchester/guide">Manchester</a></li>
+					<li><a href="/uk/Oxfordshire/Oxford/guide">Oxford</a></li>
+					<li><a href="/uk/Hampshire/Southampton/guide">Southampton</a></li>
+					<li><a href="/uk/Wiltshire/Swindon/guide">Swindon</a></li>
+					
+					<li><a href="/uk/Lancashire/Bolton/guide">Bolton</a></li>
+					<li><a href="/uk/Cambridgeshire/Cambridge/guide">Cambridge</a></li>
+					<li><a href="/uk/Midlothian/Edinburgh/guide">Edinburgh</a></li>
+					<li><a href="/uk/West-Yorkshire/Leeds/guide">Leeds</a></li>
+					<li><a href="/uk/Cleveland/Middlesbrough/guide">Middlesbrough</a></li>
+					<li><a href="/uk/Hampshire/Portsmouth/guide">Portsmouth</a></li>
+					<li><a href="/uk/Cheshire/Stockport/guide">Stockport</a></li>
+					<li><a href="/uk/West-Midlands/Wolverhampton/guide">Wolverhampton</a></li>
+					
+					<li><a href="/uk/Dorset/Bournemouth/guide">Bournemouth</a></li>
+					<li><a href="/uk/South-Glamorgan/Cardiff/guide">Cardiff</a></li>
+					<li><a href="/uk/Devon/Exeter/guide">Exeter</a></li>
+					<li><a href="/uk/Merseyside/Liverpool/guide">Liverpool</a></li>
+					<li><a href="/uk/Tyne-and-Wear/Newcastle-upon-Tyne/guide">Newcastle</a></li>
+					<li><a href="/uk/Lancashire/Preston/guide">Preston</a></li>
+					<li><a href="/uk/Staffordshire/Stoke-on-Trent/guide">Stoke-on-Trent</a></li>
+					<li><a href="/uk/North-Yorkshire/York/guide">York</a></li>
+
+					<li><a href="/uk/West-Yorkshire/Bradford/guide">Bradford</a></li>
+					<li><a href="/uk/West-Midlands/Coventry/guide">Coventry</a></li>
+					<li><a href="/uk/Lanarkshire/Glasgow/guide">Glasgow</a></li>
+					<li><a href="/uk/Greater-London/London/guide">London</a></li>
+					<li><a href="/uk/Norfolk/Norwich/guide">Norwich</a></li>
+				    <li><a href="/uk/Berkshire/Reading/guide">Reading</a></li>
+					<li><a href="/uk/Tyne-and-Wear/Sunderland/guide">Sunderland</a></li>
+					<li><a href="/uk">more...</a></li>
+				</ul>
+			<div class="clear_both"></div>					
+			</div><!-- popular -->
+
+			
+			<div id="copyrightFooter">
+				<p>Use of this site is subject to <a href="/terms-of-use" rel="nofollow">Terms &amp; Conditions</a>. By continuing past this page, you agree to abide by these terms. | © 2009 gomy.co.uk | <a href="/privacy-policy" rel="nofollow">Privacy Policy</a></p>
+			</div>
+		</div><!-- footer -->
+	
+</div><!-- container -->
+
+<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try { var pageTracker = _gat._getTracker("UA-7076704-1"); pageTracker._trackPageview(); } catch(err) {}</script> 
+<script language="javascript" type="text/javascript">
+
+// Close popup
+function styledPopupClose(id) {
+    J$("#"+id).fadeOut("slow");
+	//J$("#"+id).hide("fast");
+}
+
+// Close popup
+function styledPopupOpen(id) {
+	var location="";
+	var city="";
+	var county="";
+	if(id=="eventpopup" && document.cookie){
+			
+			var ko=document.cookie.split("; ");
+			
+			var l=ko.length;
+			var ji;
+			var city;
+			var county;
+			for(i=0;i<l;++i){
+				ji=ko[i].split("=");
+				
+				str=ji[0];
+				str1=ji[1];
+				
+				if(str=="city"){
+					city=str1;
+					
+				}
+				if(str=="county"){
+					county=str1;
+					
+				}
+				
+				
+			}
+			location=city+", "+county;
+			
+			
+		}
+		if(location!="" && city!="" && county!="")
+		{
+				document.location="/uk/"+county+"/"+city+"/whatson";
+		}
+		else
+		{
+			J$("#"+id).show("slow");
+		}
+  //document.getElementById(id).style.display = "inline";
+  
+}
+
+//change compliment message description
+function change_compliment_message(id){
+	 // tinyMCE.get('message_compli').setContent(document.getElementById(id).value);
+	document.CompForm.message_compli.value=document.getElementById(id).value;
+}
+
+</script>
+<script type="text/javascript">
+function load_popup(head,drag){
+var yscroll=document.documentElement.scrollTop;
+pos=parseInt(yscroll)+125;
+document.getElementById("popupmessage").innerHTML='<p class="PopupLoading">Loading...</p>';
+document.getElementById("popupmessagehead").innerHTML=head;
+document.getElementById("PopupFrame").style.display='block';
+document.getElementById("PopupFrame").style.top=pos+"px"; 
+J$("#PopupFrame").Draggable({revert:true,fx:100});
+if(drag==1)
+{
+ 
+}
+else
+{
+  //new Draggable('PopupFrame', {revert: true });
+}
+}
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+</script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/js/search.js"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/js/acctype0/jquery_autocomplete.js"></script>
+ 
+
+</body></html>
