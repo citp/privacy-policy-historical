@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oregonlive.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219033136id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oregonlive.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620071238id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta name="description" content="Privacy Policy - OregonLive.com">
@@ -17,8 +17,6 @@
 <meta name="robots" content="all,index,follow">
 
 
-<script type="text/javascript" src="http://science.oregonlive.com/olive/dhtml/stats/track/vssetup.js"></script>
-<script type="text/javascript" src="http://geoip.oregonlive.com/media/js/geoip.js"></script>
 <script type="text/javascript" src="http://www.oregonlive.com/08design/js/jquery-1.2.3.js"></script>
 <script type="text/javascript" src="http://www.oregonlive.com/08design/js/toprail.js"></script>
 <script type="text/javascript" src="http://www.oregonlive.com/dhtml/includes/Pop.js"></script>
@@ -60,7 +58,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCRIPT LANGUAGE=JavaScript1.1 SR' + 'C="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://ads.oregonlive.com/RealMedia/ads/adstream_mjx.ads/www.oregonlive.com/privacypolicy/index.ssf/1086894708@Leaderboard,SecSponsor,Rectangle,BannerBottom,SiteSponsor,TxtLink1,TxtLink2,TxtLink3,TxtLink4,Feature1,Feature2,Feature3,Feature4,ImpactAd,RectangleBelow?NULL"></script>
+</script><script language="JavaScript1.1" src="http://ads.oregonlive.com/RealMedia/ads/adstream_mjx.ads/www.oregonlive.com/privacypolicy/index.ssf/1686188660@Leaderboard,SecSponsor,Rectangle,BannerBottom,SiteSponsor,TxtLink1,TxtLink2,TxtLink3,TxtLink4,Feature1,Feature2,Feature3,Feature4,ImpactAd,RectangleBelow?NULL"></script>
 <script language="JavaScript">
 <!-- -->
 document.write('');
@@ -76,33 +74,56 @@ function OAS_AD(pos) {
 <div id="Toprail">
 <div id="Masthead">
 <div id="Toprail_Affiliate_Logo"><a href="http://www.oregonlive.com" title="http://www.oregonlive.com"><img src="http://www.oregonlive.com/08design/toprail/images/logo_oregonlive.gif" alt="http://www.oregonlive.com"></a></div>
-<div id="Toprail_Leaderboard"><div class="Leaderboard"><script type="text/javascript">OAS_AD("Leaderboard");</script></div></div>
-<div id="Topsearch">
-<form id="Toprail_Search" method="get" action="http://search.oregonlive.com/sp" onsubmit="return filterSiteSearch('http://www.oregonlive.com',this.Search_Field.value)">
-<label for="Search_Field">Search OregonLive.com:</label>
-<input id="Search_Field" type="text" size="27" value="Town, Keyword, Local Businesses, Web ID" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords">
-<input type="hidden" value="100" name="aff">
-<input id="search_button" type="submit" value="" class="imageGo_toprail" title="Go">
-</form>
+<div id="Toprail_Leaderboard">
+<div class="Leaderboard"><script type="text/javascript">OAS_AD("Leaderboard");</script></div>
 </div>
-<div id="Sponsor_Ad"><div class="SiteSponsor"><script type="text/javascript">OAS_AD("SiteSponsor");</script></div>
+<div id="Topsearch">
+<ul id="ToprailSearchTabs">
+<li id="ToprailSearchTab1" class="search_tab_on">
+<div id="ToprailSearchTab1Start" class="tab"></div>
+<div class="text tab">Site Search</div>
+<div id="ToprailSearchTab1End" class="tab"></div>
+</li>
+<li id="ToprailSearchTab2" class="">
+<div id="ToprailSearchTab2Start" class=""></div>
+<div class="text">Search Local Business Listings</div>
+<div id="ToprailSearchTab2End" class=""></div>
+</li>
+</ul>
+<div id="ToprailSearchForms">
+<div class="vertical_line left"></div>
+<form id="Toprail_Search" method="get" action="http://search.oregonlive.com/sp" onsubmit="checkSearchValues(this); return filterSiteSearch('http://www.oregonlive.com',this.Search_Field)">
+<input type="hidden" value="100" name="aff">
+<input id="Search_Field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords" class="site_search_field">
+<input id="Search_Button" type="submit" value="" class="imageGo_toprail" title="Go">
+</form>
+<form id="Toprail_BusinessSearch" method="get" action="http://businessfinder.oregonlive.com/BL/Listings.aspx" onsubmit="return checkSearchValues(this);">
+<input id="Search_Field_Business1" type="text" value="Business name or category" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="s">
+<input id="Search_Field_Business2" type="text" value="City OR zip code" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="locString">
+<input id="Search_Button_Business" type="submit" value="" class="imageGo_toprail" title="Go">
+</form>
+<div class="vertical_line right"><!-- --></div>
+</div>
+</div>
+<div id="Sponsor_Ad">
+<div class="SiteSponsor"><script type="text/javascript">OAS_AD("SiteSponsor");</script></div>
 </div>
 </div>
 <div id="Topnav">
 <table id="Level1"><tbody><tr>
-<td id="First_Cell"><a href="http://www.oregonlive.com/">Home</a></td>
-<td><a href="http://www.oregonlive.com/news/">News</a></td>
-<td><a href="http://www.oregonlive.com/weather/">Weather</a></td>
-<td><a href="http://www.oregonlive.com/sports/">Sports</a></td>
-<td><a href="http://www.oregonlive.com/entertainment/">Entertainment</a></td>
-<td><a href="http://www.oregonlive.com/living/">Living</a></td>
-<td><a href="http://www.oregonlive.com/interact/">Interact</a></td>
-<td><a href="http://www.oregonlive.com/jobs/">Jobs</a></td>
-<td><a href="http://www.oregonlive.com/autos/">Autos</a></td>
-<td><a href="http://www.oregonlive.com/realestate/">Real Estate</a></td>
-<td><a href="http://www.oregonlive.com/classifieds/">Classifieds</a></td>
-<td id="Last_Cell"><a href="http://www.oregonlive.com/placead/">Place An Ad</a></td></tr></tbody></table>
-<div class="clear"></div>
+<td id="First_Cell"><a id="Home" href="http://www.oregonlive.com/">Home</a></td>
+<td><a id="News" href="http://www.oregonlive.com/news/">News</a></td>
+<td><a id="Opinion" href="http://www.oregonlive.com/opinion/">Opinion</a></td>
+<td><a id="Sports" href="http://www.oregonlive.com/sports/">Sports</a></td>
+<td><a id="Entertainment" href="http://www.oregonlive.com/entertainment/">Entertainment</a></td>
+<td><a id="Living" href="http://www.oregonlive.com/living/">Living</a></td>
+<td><a id="Interact" href="http://www.oregonlive.com/interact/">Interact</a></td>
+<td><a id="Jobs" href="http://www.oregonlive.com/jobs/">Jobs</a></td>
+<td><a id="Autos" href="http://www.oregonlive.com/autos/">Autos</a></td>
+<td><a id="Real Estate" href="http://realestate.oregonlive.com/">Real Estate</a></td>
+<td><a id="Classifieds" href="http://www.oregonlive.com/classifieds/">Classifieds</a></td>
+<td><a id="Shop" href="http://www.oregonlive.com/shoporegon/">Shop</a></td>
+<td id="Last_Cell"><a id="Place An Ad" href="http://www.oregonlive.com/placead/">Place An Ad</a></td></tr></tbody></table>
 <!-- Relative TopRail: http://www.oregonlive.com/ Current Location: http://http://www.oregonlive.com/privacypolicy/index.ssf -->
 </div>
 </div>
@@ -126,7 +147,7 @@ function OAS_AD(pos) {
 INSIDE OREGONLIVE.COM<br>
 </dt>
 <dd>
-<div class="impact_nav"><a href="/aboutus/" title="About Us Home"><b>About Us Home</b></a></div>
+<div class="impact_nav"><a href="/aboutus/" title="About Us Home"><b>About OregonLive.com</b></a></div>
 <menu>
 <!-- <li>&bull; <a href="/aboutus/index.ssf?/aboutus/content/polls.html">About our Polls</a></li> -->
 <li>• <a href="/advertise/" title="Advertise with Us">Advertise with OregonLive.com</a></li>
@@ -203,7 +224,7 @@ OFFICE CAM
 <dt>AFFILIATES</dt>
 <dd class="fin">
 <div class="impact_nav"><a href="/aboutus/index.ssf?/aboutus/content/affiliates.html" title="Media Affiliates">Our media partners</a></div>	<menu>
-<li>• <a href="/oregonian/" title="The Oregonian">The Oregonian</a></li> <li>• <a href="/argus/" title="The Hillsboro Argus">The Hillsboro Argus</a></li> <li>• <a href="/aboutus/index.ssf?/aboutus/content/affiliates.html" title="KBPS Radio 89.9 FM">KBPS Radio 89.9 FM</a></li> </menu>
+<li>• <a href="/oregonian/" title="The Oregonian">The Oregonian</a></li> <li>• <a href="/argus/" title="The Hillsboro Argus">The Hillsboro Argus</a></li> <li>• <a href="/aboutus/index.ssf?/aboutus/content/affiliates.html" title="All Classical FM">All Classical FM</a></li> </menu>
 </dd>
 </dl>
 
@@ -333,43 +354,98 @@ RSS -- "Really Simple Syndication" or "Rich Site Summary" -- is a format for pub
  <br clear="all">
 </div>
 
-
 <div id="Footer">
-<div id="FooterLogos"><a href="http://www.advanceinternet.com" title="Advance Internet"><img src="http://www.oregonlive.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo"></a><a href="http://www.oregonlive.com/" title="oregonlive.com"><img id="AffiliateLogo" src="http://www.oregonlive.com/08design/images/affiliatelogo.gif" alt="oregonlive.com"></a></div>
-<div id="FooterMiniLinks"><a href="http://www.oregonlive.com/siteindex/" title="Site Map">Site Map</a> | <a href="http://www.oregonlive.com/rss/" title="RSS">RSS</a> | <a href="http://www.oregonlive.com/mediakit/" title="Advertise">Advertise</a> | <a href="http://www.oregonlive.com/contactus/" title="Contact">Contact</a></div>
-<div id="FooterSearch">
-<form id="FooterSearchForm" action="http://search.oregonlive.com/sp" onsubmit="return filterSiteSearch(this)" method="get">
-<label for="search_field">Search oregonlive.com:</label>
-<input id="FooterSearchField" type="text" value="Town, Keyword, Local Businesses, Web ID" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords">
-<input id="FooterSearchButton" type="submit" value="" class="imageGo" title="Go">
-<input type="hidden" name="aff" value="100"> </form>
+<div id="FooterLogos"><a href="http://www.advanceinternet.com" title="Advance Internet"><img src="http://www.oregonlive.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo"></a><a href="http://www.oregonlive.com/" title="oregonlive.com"><img id="OregonLive Logo" src="http://www.oregonlive.com/08design/images/affiliatelogo.gif" alt="oregonlive.com"></a></div>
+<div id="Footersearch">
+<ul id="FooterSearchTabs">
+<li id="FooterSearchTab1" class="search_tab_on">
+<div id="FooterSearchTab1Start" class="tab"></div>
+<div class="text tab">Site Search</div>
+<div id="FooterSearchTab1End" class="tab"></div>
+</li>
+<li id="FooterSearchTab2" class="">
+<div id="FooterSearchTab2Start" class=""></div>
+<div class="text">Search Local Business Listings</div>
+<div id="FooterSearchTab2End" class=""></div>
+</li>
+</ul>
+<div id="FooterSearchForms">
+<div class="vertical_line left"></div>
+<form id="Footer_Search" method="get" action="http://search.oregonlive.com/sp" onsubmit="return filterSiteSearch('http://www.oregonlive.com',this.Search_Field)">
+<input type="hidden" value="100" name="aff">
+<input id="Footer_SearchField_Keyword" class="site_search_field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="keywords"> <input id="Footer_SearchButton" type="submit" value="" class="imageGo" title="Go">
+</form>
+<form id="Footer_BusinessSearch" method="get" action="http://businessfinder.oregonlive.com/BL/Listings.aspx">
+<input id="Footer_SearchField_Name" class="footer_search_field" type="text" size="27" value="Business name or category" onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="s"> <input id="Footer_SearchField_Zip" class="footer_search_field" type="text" size="27" value="City or zip code" onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="locString">
+<input id="Footer_SearchButton2" type="submit" value="" class="imageGo" title="Go">
+</form> <div class="vertical_line right"></div>
 </div>
-<br class="clear"><br>
-<div id="FooterMainLinks"><a href="http://www.oregonlive.com/" title="Home">Home</a> | <a href="http://www.oregonlive.com/news/" title="News">News</a> | <a href="http://www.oregonlive.com/weather/" title="Weather">Weather</a> | <a href="http://www.oregonlive.com/sports/" title="Sports">Sports</a> | <a href="http://www.oregonlive.com/entertainment/" title="Entertainment">Entertainment</a> | <a href="http://www.oregonlive.com/living/" title="Living">Living</a> | <a href="http://www.oregonlive.com/interact/" title="Interact">Interact</a> | <a href="http://www.oregonlive.com/jobs/" title="Jobs">Jobs</a> | <a href="http://autos.oregonlive.com" title="Autos">Autos</a> | <a href="http://realestate.oregonlive.com/">Real Estate</a> | <a href="http://www.oregonlive.com/classifieds/">Classifieds</a> | <a href="http://www.oregonlive.com/placead/">Place an Ad</a></div>
-<div id="FooterSubscribe"><img src="http://www.oregonlive.com/08design/images/oregonian_subscribe.gif" alt="Subscribe to The Oregonian"> <span><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/////Click/OREGONLIVE/OR_FOOTER/clck06.htm/" target="_top">The Oregonian</a> - <a href="http://biz.oregonian.com/">The Oregonian Business Center</a> | <a href="/argus/">Hillsboro Argus</a></span></div>
-<div id="Copyright">© 2008 Oregon Live LLC. All Rights Reserved. Use of this site constitutes acceptance of our <a href="http://www.oregonlive.com/useragreement/">User Agreement</a>. Please read our <a href="http://www.oregonlive.com/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br> <a href="http://www.oregonlive.com/aboutus/index.ssf?/forums/rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="http://www.oregonlive.com/interactivity/">Contact interactivity management</a>.</div>
 </div>
-
-
-
-<script language="javascript">
-if (_pdata){
-trackpage();
- }
-captureLink();
-</script>
-<noscript>
-<img src="http://science.oregonlive.com/cgi-bin/stats/rewrite.cgi?Log=1&javascript=false" border="0" width="1" height="1">
-</noscript>
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/12325/slf.js" language="JavaScript"></script>
-<!--- GEOIP -->
+<div id="FooterMiniLinks">
+<div id="MiniLinks_Top">
+<a href="http://www.oregonlive.com/siteindex/" title="Site Map">Site Map</a> | <a href="http://www.oregonlive.com/advertise/" title="Advertise">Advertise</a> | <a href="http://www.oregonlive.com/contactus/" title="Contact">Contact us</a></div>
+<div id="MiniLinks_Bottom"><img src="http://www.oregonlive.com/08design/images/green_arrow.gif" alt=""> <a href="http://www.oregonlive.com/aboutus/index.ssf?/aboutus/content/homepage.html" title="Make us your home page">Make us your home page</a></div>
+</div>
+<div class="clear"></div> <div id="FooterMainLinks">
+<a href="http://www.oregonlive.com/" title="Home">Home</a> | <a href="http://www.oregonlive.com/news/" title="News">News</a> | <a href="http://www.oregonlive.com/weather/" title="Weather">Weather</a> | <a href="http://www.oregonlive.com/sports/" title="Sports">Sports</a> | <a href="http://www.oregonlive.com/entertainment/" title="Entertainment">Entertainment</a> | <a href="http://www.oregonlive.com/living/" title="Living">Living</a> | <a href="http://www.oregonlive.com/interact/" title="Interact">Interact</a> | <a href="http://www.oregonlive.com/jobs/" title="Jobs">Jobs</a> | <a href="http://autos.oregonlive.com/" title="Autos">Autos</a> | <a href="http://realestate.oregonlive.com/">Real Estate</a> | <a href="http://www.oregonlive.com/classifieds/">Classifieds</a> | <a href="http://www.oregonlive.com/shoporegon/">Shopping</a> | <a href="http://www.oregonlive.com/placead/">Place an Ad</a>
+</div> <div id="Footer_Zones">
+<div id="Footer_Zone_A">
+<ul class="footer_zone_columns">
+<li><a href="http://photos.oregonlive.com/photogallery/" title="Your Photos">Your Photos</a></li>
+<li><a href="http://videos.oregonlive.com/" title="Your Videos">Your Videos</a></li>
+<li><a href="http://www.oregonlive.com/blogs/" title="Blogs">Blogs</a></li>
+<li><a href="http://www.oregonlive.com/forums/" title="Forums">Forums</a></li>
+<li><a href="http://www.oregonlive.com/travel/" title="Travel">Travel</a></li>
+<li><a href="http://www.oregonlive.com/music/" title="Music">Music</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_B">
+<ul class="footer_zone_columns">
+<li><a href="http://www.oregonlive.com/jobs/products/index.ssf" title="Post a job">Post a job</a></li>
+<li><a href="http://www.oregonlive.com/classifieds/free/" title="Post a free classified ad">Post a free classified ad</a></li>
+<li><a href="http://www.oregonlive.com/placead/" title="Sell your car">Sell your car</a></li>
+<li><a href="http://www.oregonlive.com/placead/" title="Sell/rent your home">Sell/rent your home</a></li>
+<li><a href="http://realestate.oregonlive.com/for-rent" title="Apartments &amp; rentals">Apartments &amp; rentals</a></li>
+<li><a href="http://www.oregonlive.com/businessfinder/" title="Claim your Business Listing for free">Claim your Business Listing for free</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_C">
+<ul class="footer_zone_columns">
+<li><a href="http://www.oregonlive.com/obituaries/" title="Obits &amp; Death Notices">Obits / Death Notices</a></li>
+<li><a href="http://www.oregonlive.com/business/" title="Business News">Business News</a></li>
+<li><a href="http://www.oregonlive.com/environment/" title="Environmental News">Environmental News</a></li>
+<li><a href="http://www.oregonlive.com/contests/" title="Contests">Contests</a></li>	<li><a href="http://www.oregonlive.com/dining/" title="Dining">Dining</a></li>
+<li><a href="http://www.oregonlive.com/movies/" title="Movies">Movies</a></li>
+</ul>
+</div>
+<div id="Footer_Zone_X">
+<div class="bkgd_lightgray">
+<div class="gray_top"><img height="7" width="7" alt="" class="gray_corner" src="http://www.oregonlive.com/08design/images/roundcorner_gray_topleft.gif"></div>
+<div class="gray_body"> <ul class="footer_zone_columns">
+<li><span><img src="http://www.oregonlive.com/08design/images/icon_rss.gif" alt="RSS"></span><a href="http://www.oregonlive.com/rss/" title="Subscribe to RSS feeds">Subscribe to our content (RSS)</a></li>
+<li><span><img src="http://www.oregonlive.com/08design/images/icon_email.gif" alt="Alerts"></span><a href="http://update.oregonlive.com/adv_oregonlive/newsletters/oregonlive/subscribe.htm" title="OregonLive.com News alerts">News alerts</a> | <a href="http://update.oregonlive.com/adv_oregonlive/newsletters/oregonlive/subscribe.htm#topicb" title="OregonLive.com Sports alerts">Sports alerts</a></li>
+<li><span><img src="http://www.oregonlive.com/08design/images/icon_twitter.gif" alt="Twitter Feeds"></span><a href="http://twitter.com/oregonian/" title="OregonLive.com Twitter feed">Twitter feed</a></li>
+<li><span><img src="http://www.oregonlive.com/08design/images/icon_video_small.gif" alt="Audio and Video"></span><a href="http://www.oregonlive.com/multimedia/" title="OregonLive.com Multimedia">OregonLive.com Multimedia</a></li>
+<li><span><img src="http://www.oregonlive.com/08design/images/icon_mobile.gif" alt="Mobile"></span><a href="http://www.oregonlive.com/aboutus/index.ssf?/aboutus/content/mobile.html" title="Learn about the OregonLive.com mobile site">Learn about our mobile site</a></li>
+</ul>
+</div>
+<div class="gray_bottom"><img height="7" width="7" alt="" class="gray_corner" src="http://www.oregonlive.com/08design/images/roundcorner_lightgray_bottomleft.gif"></div>
+</div> </div> <div class="clear"></div> </div> <div id="FooterSubscribe"><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/////Click/OREGONLIVE/OR_FOOTER/clck06.htm/" title="Subscribe to The Oregonian"><img src="http://www.oregonlive.com/08design/images/oregonian_subscribe.gif" alt="Subscribe to The Oregonian"></a> <span><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/////Click/OREGONLIVE/OR_FOOTER/clck06.htm/" target="_top">The Oregonian</a> - <a href="http://biz.oregonian.com/">The Oregonian Business Center</a> | <a href="http://www.oregonlive.com/argus/">Hillsboro Argus</a></span></div>
+<div id="Copyright">© 2009 Oregon Live LLC. All Rights Reserved. Use of this site constitutes acceptance of our <a href="http://www.oregonlive.com/useragreement/">User Agreement</a>. Please read our <a href="http://www.oregonlive.com/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br> <a href="http://www.oregonlive.com/aboutus/index.ssf?/forums/rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="http://www.oregonlive.com/interactivity/">Contact interactivity management</a>.</div>
+</div>
+<script type="text/javascript" src="http://geoip.oregonlive.com/media/js/geoip.js"></script>
 <script>
 GeoIP_Cookie();
 </script>
-<!--- GEOIP END -->
+<script language="JavaScript">var tcdacmd="dt";</script>
+<script src="http://an.tacoda.net/an/12325/slf.js" language="JavaScript"></script>
+<img height="1" width="1" src="http://view.atdmt.com/action/MSFT_Advance_AE_ExtData/v3/atc1.OREGONLIVE">
+<script>
+GeoIP_Cookie();
+</script>
 <script language="JavaScript" type="text/javascript" src="http://www.oregonlive.com/js/sitecatalyst/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script language="JavaScript" type="text/javascript">
+<!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName=""
@@ -385,7 +461,8 @@ s.purchaseID=""
 s.eVar1=""
 s.eVar2=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
 <!-- End SiteCatalyst code version: H.17. -->
 
 </body></html>
