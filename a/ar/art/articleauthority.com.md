@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleauthority.com privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613195722id_/http%3A//articleauthority.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleauthority.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620064601id_/http%3A//articleauthority.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleAuthority: How to Write and Publish for Online Profits: eZines, Websites, Blogs, Podcasts
 
