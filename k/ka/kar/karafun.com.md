@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220040814id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karafun.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071854id_/http%3A//www.karafun.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -34,10 +34,10 @@ Cookies are small amount of data sent to your computer. They may be used to stor
  **Account and personal information modification**  
 You constantly have the access right to your personal information, the right to rectify or to complete them if they are inaccurate or incomplete, the right to oppose without expenses to their use in order to address you commercial requests and, more generally, the right to oppose to any treatment form. 
 
-The request must be done by writing to Customer service KaraFun - RECISIO 121 rue Chanzy - 59260 HELLEMMES - FRANCE or by mailing us at support@recisio.com .
+The request must be done by writing to Customer service KaraFun - RECISIO 14 rue de Puebla - 59000 LILLE - FRANCE or by mailing us at support@recisio.com .
 
  **Security**  
 RECISIO cares about the security of your personal information. In order to ensure data privacy, security, and protect against the loss, misuse or alteration of the information under our control, our database resides behind firewalls. Also, we take measures to restrict access to sensitive data, so as to detect and prohibit certain connections and operations by unauthorized users.
 
  **Contact us**  
-Please feel free to contact us for any question or comment about our services and policies, by sending a letter to Customer service KaraFun - RECISIO 121 rue Chanzy - 59260 HELLEMMES - FRANCE, or by mail at support@recisio.com.
+Please feel free to contact us for any question or comment about our services and policies, by sending a letter to Customer service KaraFun - RECISIO 14 rue de Puebla - 59000 LILLE - FRANCE, or by mail at support@recisio.com.
