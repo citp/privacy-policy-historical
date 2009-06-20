@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the expedia-aarp.com privacy policy that was archived on 2008-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080911180358id_/http%3A//www.expedia-aarp.com/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx%26mdpcid%3D0-30029.footer.hp.pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the expedia-aarp.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620194520id_/http%3A//www.expedia-aarp.com/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx%26mcicid%3D0-30029.footer.hp.pp) for the most accurate reproduction.-->
 
 <html><head><style type="text/css">
  p.MsoNormal
@@ -99,7 +99,7 @@ margin-left: 0in;
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <script type="text/javascript" src="/pubspec/scripts/include/xmlhttp.js"></script>
 
-<!-- srvpush 11:03:58(:343) -->
+<!-- srvpush 12:45:20(:374) -->
 
 
 
@@ -116,6 +116,13 @@ margin-left: 0in;
 
 
 
+
+
+
+
+
+
+ 
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <basefont face="Arial, Helvetica, Sans Serif">
 
@@ -625,6 +632,20 @@ a.RBtn:hover {color:#fff}
 .tsText { color:#0D0D88; text-align:right; }
 .ckonew ul {list-style-type:disc;margin-left:16px;margin-top:0px;margin-bottom:0px; padding-left:0px;}
 
+.swxlBody {color:#333; font-family:Arial, Helvetica, Sans Serif;margin:16px 0px 0px 16px;padding:0px; border-top:solid 1px #e8e8e8;width:962px;}
+.swxlContent {margin:16px 0px 0px 0px;padding:0px;}
+.swxlContent ul, .swxlContent ul li, .swxlLinks ul, .swxlItem {list-style-type:none;line-height:12px;margin:0px;padding:0px;}
+.swxlTitle {margin-bottom:4px;line-height:16px;}
+.swxlTitle h5 {font-size:10px; margin:0 0 4px 0;}
+.swxcName, .swxlItem {display:inline;line-height:12px; font-size:10px;}
+.swxlItem {color:#BAC9DF;}
+.swxcName {width:70px;display:block;float:left;margin:0 5px 0 0;}
+.swxlLinks {float:left;display:block;width:871px;}
+.swxlItem a, .swxlItem a:visited, .swxlItem a:active{color:#339;}
+.swxlItem a:hover {color:#f60; text-decoration: underline; }
+.swxlClear {clear:both;}
+
+
 
 
 
@@ -790,6 +811,36 @@ function FreeEventsOnUnLoad()
 }
 
 
+function GetCurrentFormState(szFormName)
+{
+	var curForm;	
+	var szFormState = "";
+	
+	//If no form name is supplied, grab the first form after the toolbar form.
+	if (szFormName == undefined)
+	curForm = document.forms[1]; 
+	else
+	curForm = document.forms[szFormName];
+
+	for (var iElement=0; iElement < curForm.elements.length; iElement++)
+	{
+	var fAddElement = true;
+	var CurrElement = curForm.elements[iElement];
+	if ((CurrElement.type == "radio" || CurrElement.type == "checkbox") && CurrElement.checked != true)
+	{
+	fAddElement = false;
+	}
+	if (fAddElement)
+	{
+	szFormState += "&" + CurrElement.name + "=" + CurrElement.value;
+	}
+	}
+	
+	return szFormState;
+}
+
+
+
 
 
 
@@ -801,12 +852,6 @@ function WriteCookie(c)
 {
 	document.cookie=c
 }
-
-
-
-
-
-
 
 
 //-->
@@ -836,6 +881,13 @@ function WriteCookie(c)
 	
 
 <script src="/pubspec/Scripts/Include/virtualTour.js" type="text/javascript"></script>
+
+
+
+
+
+
+
 
 
 
@@ -987,7 +1039,7 @@ var objSecondaryNavEnd = new HTMLObject('</TD><TD bgcolor="#469ad9" width=15><im
 var objMenuEnd = new HTMLObject('</TABLE>');
 var objHeaderEnd = new HTMLObject('</TD></TR></TABLE>');
 
-var strFooterCopyright = "&copy; 2008 AARP Travel Center powered by Expedia All rights reserved.";
+var strFooterCopyright = "&copy; 2009 AARP Travel Center powered by Expedia All rights reserved.";
 var strFooterTermsOfUse = "AARP Travel Center powered by Expedia terms of use";
 var strFooterPrivacy = "Privacy policy";
 var objFooterStart = new HTMLObject('<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="764"><TR><TD HEIGHT=2 BGCOLOR="#469ad9"><IMG SRC="/eta/spaceit.gif" alt="" ></TD></TR><TR><TD HEIGHT=7><IMG SRC="/eta/spaceit.gif" alt="" ></TD></TR><TR><TD WIDTH=100% ALIGN=CENTER VALIGN=TOP>');
@@ -1033,7 +1085,7 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
 	"btn_flights_h.gif", "btn_flights_s.gif", 
 	"btn_home_h.gif", "btn_home_s.gif", 
 	"btn_hotels_h.gif", "btn_hotels_s.gif", 
-	"btn_member-savings_h.gif", "btn_member-saving_s.gif", 
+	"btn_member-savings_h.gif", "btn_member-savings_s.gif", 
 	"btn_my-intinerary_h.gif", "btn_my-intinerary_s.gif", 
 	"btn_support_h.gif", "btn_support_s.gif", 
 	"btn_tours_h.gif", "btn_tours_s.gif", 
@@ -1057,12 +1109,10 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
 
 <div id="header_banner">
 	<div id="logo_banner">
-	<div id="top_logo">
-	<img src="/pubspec/Images/header/eapid0/Expedia_Hor_RGB.gif" id="logo_img" name="logo_img" border="0" alt="">
-	</div>
 	<div id="header_links">
 	<a href="http://www.aarp.org/" target="_blank">AARP Home | </a>
-	<a href="https://login.aarp.org/community/register/index.bt" target="_blank">Join AARP | </a><a href="http://www.aarp.org/aarp_benefits/" target="_blank">AARP Products &amp; Services</a>
+	<a href="http://www.aarp.org/memtools1" target="_blank">Join AARP | </a>
+	<a href="http://products.aarp.org/" target="_blank">AARP Products, Services &amp; Discounts</a>
  <script language="JavaScript">
  <!--
  // show_hide_logout
@@ -1071,8 +1121,10 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
  document.writeln('<a id="A253_2" target="_top" rel="nofollow" href="/pub/agent.dll?qscr=exit&flag=amlkz&cont=1"> | Logout</a>');
  //-->
  </script>
- <div id="aarp_logo"><img src="/pubspec/Images/header/eapid0/AARP_C_Travel.gif" id="Img1" name="logo_img" border="0" alt=""></div>
 	</div>
+	<div id="top_logo"><img src="/pubspec/Images/header/eapid0/Expedia_Hor_RGB.gif" id="logo_img" name="logo_img" border="0" alt=""></div>
+	<div id="top_phone"><span class="phone_label">Book online or call</span><br><span class="phone_number">1-800-675-4318</span></div>
+	<div id="aarp_logo"><img src="/pubspec/Images/header/eapid0/AARP_C_Travel.gif" id="Img1" name="logo_img" border="0" alt=""></div>
 	</div>
 	<div id="HomeNav">
 <script language="JavaScript">
@@ -1087,9 +1139,9 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
 	new Array("tour", "tours", ""),	
 	new Array("pkg", "packages", ""),	
 	new Array("", "nav-spacer", ""),	
-	new Array("itin", "my-intinerary", "/pub/agent.dll?qscr=litn&mdpcid=0-30029.header.hp.itin"),	
+	new Array("itin", "my-intinerary", "/pub/agent.dll?qscr=litn&mcicid=0-30029.header.hp.itin"),	
 	new Array("ben", "member-savings", ""),	
-	new Array("sup", "support", "/pub/agent.dll?qscr=hgen&hfnm=CustSrvc.htx&mdpcid=0-30029.header.hp.sup")	
+	new Array("sup", "support", "/pub/agent.dll?qscr=hgen&hfnm=CustSrvc.htx&mcicid=0-30029.header.hp.sup")	
 	);
 	var destPageAbbr = "hp";
 	var cPageCode = "hp";
@@ -1108,25 +1160,25 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
 	if (nav_items[i][2] != "")
 	document.writeln('<a href="' + nav_items[i][2] + '" class="navTab ' + nav_items[i][1] + '"></a>');
 	else
-	document.writeln('<a href="/daily/' + nav_items[i][1] + '/default.asp?mdpcid=0-30029.header.htx.' + nav_items[i][0] + '" class="navTab ' + nav_items[i][1] + '"></a>');
+	document.writeln('<a href="/daily/' + nav_items[i][1] + '/default.asp?mcicid=0-30029.header.htx.' + nav_items[i][0] + '" class="navTab ' + nav_items[i][1] + '"></a>');
 	}
 	else
 	document.writeln('<a href="" class="navTab ' + nav_items[i][1] + '"></a>');
 	}
 
 //-->
-</script><a href="/daily/home/default.asp?mdpcid=0-30029.header.htx.hp" class="navTab home"></a>
-<a href="/daily/hotels/default.asp?mdpcid=0-30029.header.htx.hot" class="navTab hotels"></a>
-<a href="/daily/cars/default.asp?mdpcid=0-30029.header.htx.car" class="navTab cars"></a>
-<a href="/daily/flights/default.asp?mdpcid=0-30029.header.htx.flt" class="navTab flights"></a>
-<a href="/daily/cruises/default.asp?mdpcid=0-30029.header.htx.crz" class="navTab cruises"></a>
-<a href="/daily/activities/default.asp?mdpcid=0-30029.header.htx.act" class="navTab activities"></a>
-<a href="/daily/tours/default.asp?mdpcid=0-30029.header.htx.tour" class="navTab tours"></a>
-<a href="/daily/packages/default.asp?mdpcid=0-30029.header.htx.pkg" class="navTab packages"></a>
+</script><a href="/daily/home/default.asp?mcicid=0-30029.header.htx.hp" class="navTab home"></a>
+<a href="/daily/hotels/default.asp?mcicid=0-30029.header.htx.hot" class="navTab hotels"></a>
+<a href="/daily/cars/default.asp?mcicid=0-30029.header.htx.car" class="navTab cars"></a>
+<a href="/daily/flights/default.asp?mcicid=0-30029.header.htx.flt" class="navTab flights"></a>
+<a href="/daily/cruises/default.asp?mcicid=0-30029.header.htx.crz" class="navTab cruises"></a>
+<a href="/daily/activities/default.asp?mcicid=0-30029.header.htx.act" class="navTab activities"></a>
+<a href="/daily/tours/default.asp?mcicid=0-30029.header.htx.tour" class="navTab tours"></a>
+<a href="/daily/packages/default.asp?mcicid=0-30029.header.htx.pkg" class="navTab packages"></a>
 <a href="" class="navTab nav-spacer"></a>
-<a href="/pub/agent.dll?qscr=litn&amp;mdpcid=0-30029.header.hp.itin" class="navTab my-intinerary"></a>
-<a href="/daily/member-savings/default.asp?mdpcid=0-30029.header.htx.ben" class="navTab member-savings"></a>
-<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=CustSrvc.htx&amp;mdpcid=0-30029.header.hp.sup" class="navTab support"></a>
+<a href="/pub/agent.dll?qscr=litn&amp;mcicid=0-30029.header.hp.itin" class="navTab my-intinerary"></a>
+<a href="/daily/member-savings/default.asp?mcicid=0-30029.header.htx.ben" class="navTab member-savings"></a>
+<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=CustSrvc.htx&amp;mcicid=0-30029.header.hp.sup" class="navTab support"></a>
 
 	</div>
 </div>
@@ -1157,13 +1209,15 @@ objPrimaryMenuLink[8] = objPrimaryLinkDestGuides;
 
 <script language="JavaScript" type="text/javascript" src="/pubspec/scripts/include/sav.js"></script>
 <script type="text/javascript">
-s_pageName = "HTX_PRIVACYPOLICY"; 
+s_pageName = "HTX_PRIVACYPOLICY";
+var s_pageNameOrig = s_pageName; 
 s_server = "www.expedia-aarp.com";	
 s_channel = "Help";
 s_prop1 = ""; 
 s_prop11 = ""; 
-s_prop12 = "7e9afd1c46817919156682a17c8d5685"; 
+s_prop12 = "6fb8982646f99ebb6ed460849781dee9"; 
 s_account = "Expedia" + "30029";
+s_exp_account = s_account;
 s_pageType = ""; 
 s_hier1 = "HTX," + s_channel;
 s_purchaseID = "";
@@ -1174,6 +1228,7 @@ s_prop30 = "";
 s_eVar30 = ""; 
 s_prop34 = "";
 s_eVar34 = "";
+var rfrrLN = new Array();
 
 function PLSetPageName(p)	{	s_pageName = p;	}
 function PLSetChannel(c)	{	s_channel = c;	s_hier1="HTX,"+c;}
@@ -1235,6 +1290,9 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+ 
+ <noscript><iframe width="992" height="190" id="ifSeoErr" src="/pub/agent.dll?qscr=hgen&hfnm=ScriptInlineErr.htx" MARGINHEIGHT=0 MARGINWIDTH=0 NORESIZE FRAMEBORDER=0 SCROLLING=NO></iframe></noscript>
+
 
 <a name="skpn" id="skpn"></a>
 
@@ -1243,6 +1301,44 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 
 
 
+
+<script type="text/javascript">
+	var tyOfferImage = new Object ();
+	tyOfferImage.loadTYOfferImage = function ()
+	{
+	// Insert ThankYou offer image in the DCol after the page loads. 
+	var tyDiv = document.getElementById('TYImageDivId');
+	
+	var absoluteTopPosition = 147;
+	var absoluteLeftPosition = 784;
+	
+	if ( tyDiv != null)
+	{
+	var tyImage = document.getElementById('ThankYouImage');
+	if (tyImage != null)
+	{
+	var imageHeight = tyImage.height;	
+	var iframeId = document.getElementById('dColFrame');
+	if( iframeId != null)
+	{
+	// Push the IFrame ad colum down by the height of the ThankYou image
+	var topPosition = iframeId.style.top;
+	var newAdPos = parseInt(topPosition) + parseInt(imageHeight) + parseInt(30);
+	iframeId.style.top = newAdPos + 'px';
+	}
+	// Position the ThankYou image and make it visible
+	tyDiv.style.position="absolute";
+	tyDiv.style.zIndex="100";
+	tyDiv.style.top = absoluteTopPosition + 'px';
+	tyDiv.style.left = absoluteLeftPosition + 'px';
+	tyDiv.style.visibility = "visible";
+	}
+	}
+	}
+	AddLoadFn('tyOfferImage.loadTYOfferImage();');
+</script>
+
+ 
 
 
 
@@ -1316,8 +1412,9 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
 	AARP</st1:placename>
  <st1:placename w:st="on">Travel</st1:placename> <st1:placetype w:st="on">Center</st1:placetype></st1:place>
 	powered by Expedia website, effective<span style="mso-bidi-font-style:italic"> 
-	August 28, 2008</span><i style="mso-bidi-font-style:normal">.</i><span style="mso-spacerun:yes">&nbsp;
+	June 3, 2009</span><i style="mso-bidi-font-style:normal">.</i><span style="mso-spacerun:yes">&nbsp;
 	</span></span><span style="font-size:10.0pt"><o:p></o:p></span></p>
+	<br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">We 
 	understand that making purchases online involves a great deal of trust 
@@ -1329,12 +1426,12 @@ function PLPrintAll()	{	var pltest = "s_currencyCode"+"="+s_currencyCode+"\n"+"s
  <st1:placename w:st="on">Travel</st1:placename> <st1:placetype w:st="on">Center</st1:placetype></st1:place>
 	powered by Expedia Web site, you are accepting the practices described 
 	herein. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><a name="what_info"></a><b>
 	<span style="mso-bidi-font-size:12.0pt;font-family:Arial;color:#CC6600">
-	What information we collect from you<o:p></o:p></span></b></p>
+	What information we collect from you<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><u>
@@ -1355,7 +1452,7 @@ font-family:Arial;color:black">In General</span></u><span style="font-size:
 	profile; participate in a survey, contest, or sweepstakes; ask us a 
 	question; or initiate other transactions on our site. <o:p></o:p>
 	</span>
-	</p>
+	</p><br>
 	<p class="MsoNormal">
 	<o:p></o:p>
 	</p>
@@ -1372,7 +1469,7 @@ font-family:Arial;color:black">In General</span></u><span style="font-size:
 	Expedia site with their personal information and travel preferences, as 
 	any access to view or change their information will be available only 
 	through your account. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><u>
@@ -1386,7 +1483,7 @@ font-family:Arial;color:black">In General</span></u><span style="font-size:
 	site. We also may collect information about your online activity, such 
 	as trips viewed and purchases made. One of our goals in collecting this 
 	automatic information is to help customize your user experience. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p>
 	</p>
@@ -1419,7 +1516,7 @@ color:black">. <span style="mso-spacerun:yes">&nbsp;</span>When you visit this <
 	have come to our site from an online advertisement displayed on a 
 	third-party Web site.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;
 	</span><o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><u>
@@ -1443,11 +1540,11 @@ color:black">.<span style="mso-spacerun:yes">&nbsp; </span>Third parties, such
 	</span>To learn more, please click
 	<a target="_new" href="http://www.networkadvertising.org/">
 	<span style="mso-bidi-font-family:
-Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
+Arial;color:#333399">here</span></a>. <o:p></o:p></span></p><br>
 	<p class="MsoNormal">&nbsp;</p>
 	<p class="MsoNormal"><a name="how_we_use"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">How we use your information<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">How we use your information<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">This <st1:place w:st="on"><st1:placename w:st="on">AARP</st1:placename> <st1:placename w:st="on">Travel</st1:placename>
  <st1:placetype w:st="on">Center</st1:placetype></st1:place> powered by Expedia 
@@ -1460,14 +1557,14 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	account, including processing bills and providing travel notifications; 
 	to communicate with you in general; to respond to your questions and 
 	comments; to measure interest in and improve our products, services, and 
-	Web site; to otherwise customize your experience with this AARP Travel 
+	Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this AARP Travel 
 	Center powered by Expedia site; to reward you as part of any reward and 
 	recognition program you choose to join; to solicit information from you, 
 	including through surveys; to resolve disputes, collect fees, or 
 	troubleshoot problems; to prevent potentially prohibited or illegal 
 	activities; to enforce our Terms of Use; and as otherwise described to 
 	you at the point of collection.
-<o:p></o:p></span></p>
+<o:p></o:p></span></p><br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">Please 
 	review "<u>Your choices with respect to the collection and use of your 
@@ -1514,7 +1611,7 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	have access to personal information needed to perform their 
 	functions but are not permitted to share or use the information for 
 	any other purpose. <o:p></o:p></span></li>
-	</ul>
+	</ul><br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">We also may 
 	share your information: <o:p></o:p></span></p>
@@ -1551,7 +1648,7 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	a corporate transaction, such as a divestiture, merger, 
 	consolidation, or asset sale, or in the unlikely event of 
 	bankruptcy. <o:p></o:p></span></li>
-	</ul>
+	</ul><br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">Other than 
 	as set out above, you will be notified when personal information about 
@@ -1559,7 +1656,7 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	to choose not to have us share such information. </span>
 	<span style="font-size:10.0pt;font-family:Arial">The notification will 
 	include the specific mechanisms or procedures detailing how to choose 
-	not to have us share such information.<span style="color:black"><o:p></o:p></span></span></p>
+	not to have us share such information.<span style="color:black"><o:p></o:p></span></span></p><br>
 	<p class="MsoNormal">
 	<span style="font-size:10.0pt;font-family:Arial;color:black">We also may 
 	share aggregate or anonymous information with third parties, including 
@@ -1568,12 +1665,12 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	vacation destinations. This information does not contain any personal 
 	information and is used to develop content and services we hope you will 
 	find of interest. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><a name="you_access"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">How you can access your information<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">How you can access your information<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal">
@@ -1593,13 +1690,13 @@ Arial;color:#333399">here</span></a>. <o:p></o:p></span></p>
 	Please also note that we may retain certain information associated with 
 	your account for analytical purposes as well as for recordkeeping 
 	integrity. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><a name="your_choices"></a><b>
 	<span style="mso-bidi-font-size:12.0pt;font-family:
 Arial;color:#CC6600">Your choices with respect to collection and use of your 
-	information</span></b><o:p></o:p></p>
+	information</span></b><o:p></o:p></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal" align="left"><!--[if !supportLists]-->
@@ -1611,7 +1708,7 @@ color:black">As discussed above, you can choose not to provide us with any
 	information, although it may be needed to make travel purchases or to 
 	take advantage of certain features offered on this <st1:place w:st="on"><st1:placename w:st="on">AARP</st1:placename> <st1:placename w:st="on">Travel</st1:placename>
  <st1:placetype w:st="on">Center</st1:placetype></st1:place> powered by Expedia 
-	site. <o:p></o:p></span></p>
+	site. <o:p></o:p></span></p><br>
 	<p class="MsoNormal" align="left"><!--[if !supportLists]-->
 	<span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1619,18 +1716,18 @@ mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span s
 	<span style="font-size:10.0pt;font-family:Arial;
 color:black">Where a Member Profile page is offered, you also can add or update 
 	information and close your account as described above. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal" align="left"><!--[if !supportLists]-->
 	<span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</span></span></span><!--[endif]-->
 	<span style="font-size:10.0pt;font-family:Arial;
-color:black">We reserve the right to send you non-promotional e-mail 
+color:black">When you register as a member, you will be given a choice as to whether you want to receive e-mail messages from us about special offers. As a registered AARP Travel Center member, you can modify your choice at any time on the My Account page under the heading "E-mail settings." Whether registered as a member or not, you also will be given the opportunity to unsubscribe from commercial messages in any such e-mail we send. We reserve the right to send you non-promotional e-mail 
 	communications, including service announcements, administrative 
 	messages, and surveys relating either to your this AARP Travel Center 
 	powered by Expedia site account or to your transactions on this AARP 
 	Travel Center powered by Expedia site, without offering you the 
-	opportunity to opt out of receiving them. <o:p></o:p></span></p>
+	opportunity to opt out of receiving them. <o:p></o:p></span></p><br>
 	<p class="MsoNormal" align="left"><!--[if !supportLists]-->
 	<span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol;color:black"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1643,13 +1740,13 @@ color:black">The Help portion of the toolbar on most browsers will tell you how
 	from this <st1:place w:st="on"><st1:placename w:st="on">AARP</st1:placename> <st1:placename w:st="on">Travel</st1:placename>
  <st1:placetype w:st="on">Center</st1:placetype></st1:place> powered by Expedia 
 	site, you will not be able to access portions of our site. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal" align="left">
 	<o:p></o:p>
 	</p>
 	<p class="MsoNormal"><a name="how_we_protect"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">How we protect your information<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">How we protect your information<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal">
@@ -1668,13 +1765,13 @@ color:black">The Help portion of the toolbar on most browsers will tell you how
 	your sensitive personal information between your system and ours, and we 
 	employ firewalls and intrusion detection systems to help prevent 
 	unauthorized persons from gaining access to your information. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p>
 	</p>
 	<p class="MsoNormal"><a name="childrens"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">Children's privacy<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">Children's privacy<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal">
@@ -1685,12 +1782,12 @@ color:black">The Help portion of the toolbar on most browsers will tell you how
 	information to us, we will use that information only to respond directly 
 	to that child to inform him or her that we must have parental consent 
 	before receiving his or her personal information. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><a name="external"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">External links<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">External links<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal">
@@ -1702,13 +1799,13 @@ color:black">The Help portion of the toolbar on most browsers will tell you how
 	operate under this Privacy Policy. We recommend you examine the privacy 
 	statements posted on those other Web sites to understand their 
 	procedures for collecting, using, and disclosing personal information. <o:p></o:p>
-	</span></p>
+	</span></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p>
 	</p>
 	<p class="MsoNormal"><b>
 	<span style="mso-bidi-font-size:12.0pt;font-family:Arial;color:#CC6600">
-	Visiting our Web sites from outside the United States</span></b><o:p></o:p></p>
+	Visiting our Web sites from outside the United States</span></b><o:p></o:p></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal">
@@ -1726,13 +1823,13 @@ color:black">The Help portion of the toolbar on most browsers will tell you how
 	services, you understand that your information may be transferred to our 
 	facilities and those third parties with whom we share it as described in 
 	this Policy. </span><o:p></o:p>
-	</p>
+	</p><br>
 	<p class="MsoNormal">
 	<o:p></o:p>
 	</p>
 	<p class="MsoNormal"><a name="changes_to_policy"></a><b>
 	<span style="mso-bidi-font-size:
-12.0pt;font-family:Arial;color:#CC6600">Changes to this Privacy Policy<o:p></o:p></span></b></p>
+12.0pt;font-family:Arial;color:#CC6600">Changes to this Privacy Policy<o:p></o:p></span></b></p><br>
 	<p class="MsoNormal">
 	<o:p></o:p></p>
 	<p class="MsoNormal"><st1:place w:st="on"><st1:placename w:st="on">
@@ -1798,26 +1895,42 @@ color:#CC6600">Contacting AARP Travel Center powered by Expedia<o:p></o:p></span
 
 
 
+
+
+
+
 <script type="text/javascript">
 <!--
 
-var rfrrLN = new Array();
+
 
 
 
 function RegisterClick(id)
 {
-
-	SetSGSDelay(0);
-	s_linkType='o';
-	s_linkName="RCID: " + id + "";
+	SetSGSDelay(10);
 	if (rfrrLN && rfrrLN[id])
-	s_linkName += ": " + rfrrLN[id]; 
-	s_lnk="#";
+	{
+	PLSetPageName(s_pageNameOrig + "_" + rfrrLN[id]);
 	s_gs('');	
+	}
+	PLSetPageName(s_pageNameOrig);
 	ResetSGSDelay();
+}
+
+function RegisterExitClick(id)
+{
+
+	s_linkTrackVars='prop16,eVar28';
+	s_linkType='e';
+	s_linkName='RFRR Exit Link';
+	s_prop16=id;
+	s_eVar28=id;
+	s_lnk=s_co(this);
+	s_gs(s_account);
 
 }
+
 var qscr_rfrr = "";
 PLSetChannel("Help");
 
@@ -1826,13 +1939,11 @@ PLSetChannel("Help");
 
 
 
-<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script><img name="s_i_expedia30029" height="1" width="1" border="0" alt="" src="https://oms.expedia.com/b/ss/expedia30029/1/G.9p2/s04419922475482?[AQB]&amp;ndh=1&amp;t=31/0/2020%2013%3A52%3A53%205%200&amp;ce=ISO-8859-1&amp;cdp=2&amp;pageName=HTX_PRIVACYPOLICY&amp;g=https%3A//web.archive.org/web/20080911180358id_/http%253A//www.expedia-aarp.com/pub/agent.dll%253Fqscr%253Dhgen%2526hfnm%253DPrivacyPol.htx%2526mdpcid%253D0-30029.footer.hp.pp&amp;ch=Help&amp;server=web.archive.org&amp;h1=HTX%2CHelp&amp;c12=7e9afd1c46817919156682a17c8d5685&amp;v17=HTX_PRIVACYPOLICY&amp;v18=HTX_PRIVACYPOLICY&amp;c34=HTX_PRIVACYPOLICY&amp;c50=20090105.1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/pubspec/scripts/include/siteanalytics_include.js"></script><img name="s_i_expedia30029" height="1" width="1" border="0" alt="" src="https://oms.expedia.com/b/ss/expedia30029/1/G.9p2/s37662164038226?[AQB]&amp;ndh=1&amp;t=30/0/2020%2015%3A54%3A26%204%200&amp;ce=ISO-8859-1&amp;cdp=2&amp;pageName=HTX_PRIVACYPOLICY&amp;g=https%3A//web.archive.org/web/20090620194520id_/http%253A//www.expedia-aarp.com/pub/agent.dll%253Fqscr%253Dhgen%2526hfnm%253DPrivacyPol.htx%2526mcicid%253D0-30029.footer.hp.pp&amp;ch=Help&amp;server=web.archive.org&amp;h1=HTX%2CHelp&amp;c12=6fb8982646f99ebb6ed460849781dee9&amp;v17=HTX_PRIVACYPOLICY&amp;v18=HTX_PRIVACYPOLICY&amp;c34=HTX_PRIVACYPOLICY&amp;c50=20090105.1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 
 
 
-
-	
 	
 	
 	
@@ -1855,20 +1966,20 @@ PLSetChannel("Help");
 	<span class="l_footer">
 
 	<script language="JavaScript"><!-- 
-	document.write('<a href="/daily/home/default.asp?mdpcid=0-30029.footer.htx.hp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=litn&mdpcid=0-30029.footer.htx.itin">My Itinerary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&hfnm=h_SC_usingfaq.htx&mdpcid=0-30029.footer.htx.faq">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&hfnm=CustSrvc.htx&mdpcid=0-30029.footer.htx.sup">Support</a>');
+	document.write('<a href="/daily/home/default.asp?mcicid=0-30029.footer.htx.hp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=litn&mcicid=0-30029.footer.htx.itin">My Itinerary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&hfnm=h_SC_usingfaq.htx&mcicid=0-30029.footer.htx.faq">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&hfnm=CustSrvc.htx&mcicid=0-30029.footer.htx.sup">Support</a>');
 	document.write('<br />');
-	document.write('<a href="http://www.aarp.org/" target="_blank">Visit aarp.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=" https://login.aarp.org/community/register/index.bt" target="_blank">Join AARP</a>');
+	document.write('<a href="http://www.aarp.org/" target="_blank">Visit aarp.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.aarp.org/memtools1" target="_blank">Join AARP</a>');
 	document.write('</span>');
 	document.write('<br />');
 	document.write('<span class="s_footer">');
 	document.write('<br />');
 	document.write('Copyright 1995 - 2008. All rights reserved.');
 	document.write('<br />');
-	document.write('Use of this Web site constitute of the Expedia <a href="/pub/agent.dll?qscr=hgen&hfnm=TermsOfUse.htx&mdpcid=0-30029.footer.htx.ua">User Agreement</a> and <a href="/pub/agent.dll?qscr=hgen&hfnm=PrivacyPol.htx&mdpcid=0-30029.footer.htx.pp">Privacy Policy</a>.');
+	document.write('Use of this Web site constitute of the Expedia <a href="/pub/agent.dll?qscr=hgen&hfnm=TermsOfUse.htx&mcicid=0-30029.footer.htx.ua">User Agreement</a> and <a href="/pub/agent.dll?qscr=hgen&hfnm=PrivacyPol.htx&mcicid=0-30029.footer.htx.pp">Privacy Policy</a>.');
 	document.write('<br />');
 	document.write('AARP does not provide travel services. Any travel services offered via the AARP Travel Center powered by Expedia <br />are provided by Expedia and/or by other third-party providers.');
 
-//--></script><a href="/daily/home/default.asp?mdpcid=0-30029.footer.htx.hp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=litn&amp;mdpcid=0-30029.footer.htx.itin">My Itinerary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=h_SC_usingfaq.htx&amp;mdpcid=0-30029.footer.htx.faq">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=CustSrvc.htx&amp;mdpcid=0-30029.footer.htx.sup">Support</a><br><a href="http://www.aarp.org/" target="_blank">Visit aarp.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=" https://login.aarp.org/community/register/index.bt" target="_blank">Join AARP</a></span><br><span class="s_footer"><br>Copyright 1995 - 2008. All rights reserved.<br>Use of this Web site constitute of the Expedia <a href="/pub/agent.dll?qscr=hgen&amp;hfnm=TermsOfUse.htx&amp;mdpcid=0-30029.footer.htx.ua">User Agreement</a> and <a href="/pub/agent.dll?qscr=hgen&amp;hfnm=PrivacyPol.htx&amp;mdpcid=0-30029.footer.htx.pp">Privacy Policy</a>.<br>AARP does not provide travel services. Any travel services offered via the AARP Travel Center powered by Expedia <br>are provided by Expedia and/or by other third-party providers.
+//--></script><a href="/daily/home/default.asp?mcicid=0-30029.footer.htx.hp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=litn&amp;mcicid=0-30029.footer.htx.itin">My Itinerary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=h_SC_usingfaq.htx&amp;mcicid=0-30029.footer.htx.faq">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pub/agent.dll?qscr=hgen&amp;hfnm=CustSrvc.htx&amp;mcicid=0-30029.footer.htx.sup">Support</a><br><a href="http://www.aarp.org/" target="_blank">Visit aarp.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.aarp.org/memtools1" target="_blank">Join AARP</a></span><br><span class="s_footer"><br>Copyright 1995 - 2008. All rights reserved.<br>Use of this Web site constitute of the Expedia <a href="/pub/agent.dll?qscr=hgen&amp;hfnm=TermsOfUse.htx&amp;mcicid=0-30029.footer.htx.ua">User Agreement</a> and <a href="/pub/agent.dll?qscr=hgen&amp;hfnm=PrivacyPol.htx&amp;mcicid=0-30029.footer.htx.pp">Privacy Policy</a>.<br>AARP does not provide travel services. Any travel services offered via the AARP Travel Center powered by Expedia <br>are provided by Expedia and/or by other third-party providers.
 
 	</span>
 
@@ -1892,7 +2003,7 @@ PLSetChannel("Help");
 
 
 
-<!--TS (30029/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.196.1.85, Req=11:03:58(:343), Rsp=11:03:58(:625), hash=56(0x01414180) ET=281ms Dur=281ms Mif=0 --><comment id="ProcTime" title="281"></comment>
+<!--TS (30029/0[CID=0]) compress=0,3 log=0 BR:00000000000000000000000000100000000, Srvr=10.186.14.39, Req=12:45:20(:374), Rsp=12:45:20(:875), hash=50(0x01414180) ET=500ms Dur=500ms Mif=0 --><comment id="ProcTime" title="500"></comment>
 
 	
 	
@@ -1937,7 +2048,7 @@ function getWidestElement(element) {
  }
  for(var i=0; i<allImages.length; i++) {
  if(allImages[i].offsetWidth > widestImageWidth) {
- widestImageWidth = allTables[i].offsetWidth;
+ widestImageWidth = allImages[i].offsetWidth;
  }
  }
 
@@ -1956,7 +2067,7 @@ if(widestElement > 768) {
 </script>
 
 
-<comment id="TotalBytes" title="66355" title1="0"></comment>
+<comment id="TotalBytes" title="70173" title1="0"></comment>
 
 
 
