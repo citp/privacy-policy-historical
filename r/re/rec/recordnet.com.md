@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220124245id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordnet.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620225455id_/http%3A//www.recordnet.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Recordnet.com | San Joaquin County News, Jobs, Cars, Real Estate and more
 
 This privacy policy was last updated 11/21/05 
 
-Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "Ottaway Web Sites"). This Privacy Policy describes how we treat personal information received about you when you visit this website. 
+Dow Jones Local Media Group and its affiliates (collectively referred to as "DJLMG", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "RecordNet.com"). This Privacy Policy describes how we treat personal information received about you when you visit this website. 
 
 Website Usage Information
 
@@ -40,20 +40,20 @@ We use third party network advertisers to deliver ads to you on our behalf. We m
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use (for example, when necessary to protect our intellectual property rights) or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in this website. We may also disclose personally identifiable information when we, in good faith, believe that the law requires us to do so. As we develop our business, we might sell or buy businesses or assets. In transactions such as these, customer information is generally one of the transferred business assets. Moreover, in the unlikely event that we or one of our publishing lines are acquired, customer information may be one of the transferred assets.
 
-Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of Ottaway unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
+Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of DJLMG unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
 
 Your Ability to Choose
 
-You can always decide not to provide your personal information to this website, however in some cases failing to provide such information may limit your ability to use certain or features available at this website. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [_Insert web address here_](mailto:#)
+You can always decide not to provide your personal information to this website, however in some cases failing to provide such information may limit your ability to use certain or features available at this website. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [_sean.polay@dowjones.com_](mailto:sean.polay@dowjones.com)
 
 Cookies
 
 We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site's special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Cookies are small files (just a few hundred bytes) and should not pose any significant disk-space concerns. When you visit this website, or use some of the features, like saving your personalized Daily Item settings, we may pass cookies to your computer. Some of the cookies that we pass to your computer are long term. Otherwise, we would need to ask you for certain information with each new session, such as your login information. Some cookies do expire after a short period of time.   
 Other cookies that you will receive during your sessions here are from third-party service providers or third party network advertisers. These network advertisers may use their own cookies in order to serve ads on this website, ensuring that you will not see the same ads over and over again. We are not responsible for the cookies of such third parties or any use of your personal information collected by such third parties. 
 
-Daily Item Ads
+The Record Ads
 
-When you view an ad for this website on other sites, our third party advertising company may place or recognize a unique cookie on your browser. this website and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which Daily Item pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts. 
+When you view an ad for this website on other sites, our third party advertising company may place or recognize a unique cookie on your browser. this website and the advertising company may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which pages on The Record you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts. 
 
 Links to Third Party Websites
 
@@ -65,7 +65,7 @@ The personally identifiable information we collect about you is stored in limite
 
 Review and Correction
 
-You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [_Insert email address here_](mailto:#)
+You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [_sean.polay@dowjones.com_](mailto:sean.polay@dowjones.com)
 
 Exclusions
 
@@ -77,4 +77,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at alanghoff@ottaway.com or by regular mail at: P.O. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff. 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com) or by regular mail at: P.O. Box 580, Middletown, NY 10940, Attn: Sean Polay. 
