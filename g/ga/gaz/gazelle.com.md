@@ -1,46 +1,72 @@
-> *The following text is extracted and transformed from the gazelle.com privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025143233id_/http%3A//www.gazelle.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazelle.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621003321id_/http%3A//www.gazelle.com/privacy_policy) for the most accurate reproduction.*
 
-# . . : : G A Z E L L E : : . .
+# Privacy Policy - Gazelle.com
 
-|    
-|   
----  
-Sign up for our complimentary newsletter featuring monthly strategies for senior executives looking to leap beyond the competition.  
-[Sign me up!](http://opt-in.verticalresponse.com/?fid=8a1d42bdac)  
-  
+## Privacy Policy
 
+Gazelle takes your privacy seriously, and we have designed and operate our services with the protection of your privacy in mind. Please read the following to learn more about our privacy policy, the types of personal information we gather when you use Gazelle services, and the steps we take to safeguard it.
 
-  
-To arrange a consultation with a Gazelle industry specialist, please call us at **678.405.1300** or email us at: [contact@gazelle.com](mailto:contact@gazelle.com)   
+This policy covers how Gazelle treats personal information that Gazelle collects and receives for our services on the Gazelle websites. It applies generally to the gazelle.com website and content and other related websites where this policy appears in the footer of the page. Personal information is information about you that is personally identifiable like your name, physical address, email address, or phone number, and that is not otherwise publicly available.
 
+## Information Collection and Use
 
-|  [home](https://web.archive.org/web/20051025143233id_/http%3A//www.gazelle.com/index.html) > privacy statement 
+You can browse gazelle.com without telling Gazelle who you are or revealing any personal information about yourself. However, when you register we ask for information such as your name, email address, and zip code; once you register with Gazelle and sign in to our services, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information.
 
-  
-Privacy Statement  
-The goal of Gazelle Consulting, Inc. and its subsidiaries and affiliates (collectively referred to as "Gazelle Consulting") is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we may collect information during your visits to understand what differentiates you from each of our other users. This Privacy Statement discloses information gathering and dissemination practices of Gazelle Consulting in connection with www.gazelle.com and all other World Wide Web sites owned or operated by Gazelle Consulting (collectively, the "Site"). Gazelle Consulting can be contacted by mail at 3500 Parkway Lane, Suite 200, Norcross, GA, 30092, by phone at (678) 405-1300, or by fax at (678) 405-1301. 
+Gazelle collects personal and non-personal information when you use Gazelle products or services, transactional information when you sell, ship, or purchase an item, when you register with Gazelle, when you visit Gazelle pages or the pages of certain Gazelle partners, when you provide information we may ask you for to authenticate yourself, when you complete a survey, and when you enter promotions or sweepstakes. Gazelle might also receive information about you from other sources and add it to your account information.
 
-  1. YOU ARE NOT REQUIRED TO VOLUNTARILY SUBMIT YOUR PERSONALLY IDENTIFIABLE INFORMATION.  
-DO NOT DISCLOSE ANY INFORMATION ON THIS SITE THAT YOU DO NOT WANT USED BY GAZELLE CONSULTING OR THIRD PARTIES. Any information provided on or in connection with this Site, personally identifiable or otherwise, may be used by Gazelle Consulting for any purpose, including without limitation the purposes outlined below, in Gazelle Consulting's sole discretion. Once this information is provided, you may not opt-out of having it used by Gazelle Consulting or third parties. If you want to submit any changes to this information, you may do so at the e-mail address above, although Gazelle Consulting cannot guarantee that such changes will be made and Gazelle Consulting assumes no responsibility for such changes. 
-  2. Collection of Personal Information from Site Visitor   
-Gazelle Consulting may collect and track: (a) User-Supplied Information - When you request more information from Gazelle Consulting through our online Information Request Form, Contact Form or other forms on the Site, we may ask you to supply your name, e-mail address, and other personal information; (b) Server Log Information - When you visit an Internet Web site, certain information is disclosed to us about you, such as your Internet Protocol (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a Gazelle Consulting page); (c) Statistical Data - In order to solve technical problems with the Site and to calculate overall usage statistics, we collect aggregate information on which pages you access; and (d) Cookies and Bugs - In order to offer and provide a customized, personal service, Gazelle Consulting may use cookies or bugs to store and help track your information. Internet "cookies" save data about individual visitors, such as your name, password, screen preferences, and the pages of a site you viewed. A Web bug is a file object, usually a graphic image such as a transparent one pixel-by-one pixel GIF, which is placed on a Web page or in an e-mail message to monitor user behavior. A Web bug can gather the following statistics, among others, the IP address of your computer, the time the Web bug was viewed, and the type of browser used. When you revisit the Site, Gazelle Consulting may recognize you using Internet cookies or Web bugs and customize your experience accordingly. You may decline Internet cookies, if any, by using the appropriate feature of your Web browser software, if available. 
-  3. Use of Personal Data Collected; Disclosure of Personal Data to Third Parties   
-Personally identifiable information collected by Gazelle Consulting may be used by Gazelle Consulting for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users' activities on the Site, for product development, for content improvement, for fulfillment of or in connection with a requested transaction or record keeping, or to customize the content and layout of the Site. Aggregate data may be used for internal purposes or provided to third parties such as marketing firms. Additionally, individually identifying information in particular, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to Gazelle Consulting may be (a) added to Gazelle Consulting's databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events, and (b) provided to third parties who provide products and services which Gazelle Consulting believes that visitors may be interested in purchasing or obtaining. 
+Gazelle automatically receives and records non-personal information on our server logs from your browser, including your IP address, browser type, browser language, date and time of your query, Gazelle cookie information, and the page you request.
 
-Gazelle Consulting will use its reasonable efforts to identify whether any third party that Gazelle Consulting shares, rents, sells, or otherwise discloses personal data for marketing purposes may have products or services of interest to visitors to Gazelle Consulting’s Site. However, such parties are independent third parties over which Gazelle Consulting exercises no control, and, therefore, Gazelle Consulting is not responsible for their conduct, products, or services, and will not be liable therefore. Gazelle Consulting may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of Gazelle Consulting, in Gazelle Consulting's sole discretion. Personal data may also be disclosed or distributed to another party with which Gazelle Consulting enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase. 
+Gazelle uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, conduct research, contact you under certain circumstances, and provide anonymous reporting for internal and external clients.   
+Gazelle will use your email address to contact you under the following circumstances: to respond to your support questions, to notify you of material changes to our policies or website, to request your participation in user surveys, and to deliver products, services and marketing communications that you request.
 
-  4. Links to Other Sites   
-This Site may also contain links to other sites or advertisements for or placed by third parties. If you access a third party site from a link on this Site, any information you disclose on that site is not subject to this Privacy Policy. Gazelle Consulting is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. Gazelle Consulting is not responsible for the privacy practices of such Web sites, such third parties, or the content of such sites. Gazelle Consulting does not control these third parties' use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other Web sites and of these third parties. 
-  5. Security Measures  
-Gazelle Consulting has implemented security features to prevent the unauthorized release of or access to personal information. For example, the server hosting the Site is located off-site in a secure facility, where only certain personnel have access. The server also has firewalls designed to protect it from outside access and to detect any intruders. Any remote access requires password and browser security. Please be advised, however, that the confidentiality of any communication or material transmitted to or from Gazelle Consulting via this Site or e-mail cannot be guaranteed. Accordingly, Gazelle Consulting is not responsible for the security of information transmitted via the Internet. For more private communication, you may contact Gazelle Consulting by mail at 3500 Parkway Lane, Suite 200, Norcross, GA, 30092, by phone at (678) 405-1300, or by fax at (678) 405-1301. 
-  6. Gazelle Consulting's Right to Change Privacy Statement  
-Gazelle Consulting reserves the unilateral right to change this Privacy Statement at any time, with or without notice; your continued use of this Site after any change is made to this Privacy Statement signifies your understanding of and intention and agreement to be bound by such change. It is your responsibility to monitor this Privacy Statement for changes.
+## Cookies
 
-|  |  |   
-  
----  
-"We have had to completely restructure our business in light of industry changes ... we've taken risks, but will have a healthier business model when the industry recovers."   
-\-- Randall Boyd, LSG Sky Chefs 
+Gazelle may set and access Gazelle cookies on your computer. Upon your first visit to Gazelle, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website. Each web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however if you reject cookies, you will not be able to sign in to Gazelle or take full advantage of our services.
 
-"One thing we know is that people are still taking pictures ... they are just taking pictures a different way ... this is how technology has changed our business ..."   
-\-- Gerald Quindlen, Eastman Kodak 
+Gazelle uses cookies for the following general purposes: to track your preferences, such as the address or local zip code you enter; to access your information when you sign in so we can provide you with your personalized content, to display the most appropriate advertisements, based on your interests and activity on our web site; and to help us estimate our traffic. Gazelle may use other companies to show advertisements on some of our pages. These other companies set and access their own cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Gazelle's cookies.
+
+## Information Sharing and Disclosure
+
+Gazelle does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+
+We provide the information to trusted partners who work on behalf of or with Gazelle under confidentiality agreements. These trusted partners include companies with which Gazelle may operate co-branded websites or web-pages to expand their services using Gazelle. These trusted partners may use your personal information to provide services to you on our behalf, evaluate the effectiveness of the services, and to help Gazelle communicate with you about offers from Gazelle and our marketing partners. However, these companies do not have any independent right to share this information.
+
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Gazelle's terms of use, or as otherwise required by law.
+
+We transfer information about you if Gazelle is acquired by or merged with another company. In this event, Gazelle will post a notice on its website before information about you is transferred and becomes subject to a different privacy policy.
+
+Gazelle displays targeted advertisements based on personal information, including zip code and profile. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, men ages 25-34 from a particular geographic area. Gazelle does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+
+## Links
+
+The sites displayed as search results or linked to by Gazelle's services are developed by people over whom Gazelle exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
+
+Gazelle may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Gazelle's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+
+## Your Ability to Edit and Delete Your Account Information and Preferences
+
+Registered Users can edit their Gazelle Account Information, including contact preferences, at any time from their "My Account" account management page.
+
+We reserve the right to send you certain communications relating to Gazelle services, such as service announcements, administrative messages and the Gazelle Newsletter, that are considered part of your Gazelle account, without offering you the opportunity to opt-out of receiving them.
+
+You can delete your Gazelle registered account by requesting an account deletion via email to support@gazelle.com. You must provide us with the email address of the registered account. After we have confirmed your request via email, we will remove access to your personal information from our user database.
+
+## Confidentiality and Security
+
+We limit access to personal information about you to our employees and agents who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+
+Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
+
+## Third Parties
+
+This policy does not apply to the practices of companies that Gazelle does not own or control or to people that Gazelle does not employ or manage. Gazelle's website may include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein; Gazelle accepts no responsibility for said activities. Gazelle does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. For more information about each such third party, please refer to the third party's privacy policy.
+
+## Changes to this Privacy Policy
+
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site, unless that amendment states otherwise. In addition, we will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Gazelle account or by placing a prominent notice on our site.
+
+If you have questions, concerns or suggestions, please feel free to send an email to privacy@gazelle.com.
+
+_Last Update: June 9, 2009_
