@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181546id_/http%3A//www.ncixus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncixus.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620221019id_/http%3A//www.ncixus.com/privacy) for the most accurate reproduction.*
 
 # NCIXUS.com - Great Technology, Selection and Service.
 
@@ -38,7 +38,7 @@ When you communicate with us through our Web site we collect your e-mail address
 
 When you enter contests, participate in surveys, or register for other activities on our Web site we collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. 
 
-In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](https://web.archive.org/web/20081219181546id_/http://www.ncixus.com/newsletter) and unsubscribing to our e-mail subscriptions.
+In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](https://web.archive.org/web/20090620221019id_/http://www.ncixus.com/newsletter) and unsubscribing to our e-mail subscriptions.
 
 **Is my personal or account information used for any other purpose?**
 
