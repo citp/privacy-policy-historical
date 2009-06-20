@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217164551id_/http%3A//dianaskitchen.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061948id_/http%3A//www.dianaskitchen.com/page/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Diana's Kitchen
 
@@ -13,3 +13,10 @@ Diana's Kitchen does not sell, rent, loan, trade, or lease any personal informat
 **Browser information collected on this Website**
 
 We analyze our logs to constantly improve the Website. Our Website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
+
+**Advertising and Cookies**
+
+This site uses third-party advertising companies to serve ads when you visit most pages. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+[Information about the Google DoubleClick DART cookie and instructions for opting out](http://www.google.com/privacy_ads.html)  
+
