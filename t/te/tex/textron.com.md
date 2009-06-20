@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textron.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161519id_/http%3A//www.textron.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textron.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620060049id_/http%3A//www.textron.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,8 +40,8 @@ Terms of Use, Notices and Changes to Our Privacy Policy
 
 In the event of any conflict between the terms of this Privacy Policy and the Terms of Use, then the Terms of Use shall control. 
 
-As our business changes, this Privacy Policy and the [**Terms of Use**](https://web.archive.org/web/20081216161519id_/http%3A//www.textron.com/legal/terms_of_use.jsp) are expected to change from time to time, and we reserve the right to change the Privacy Policy and Terms of Use at any time. The use of your information is subject to the Privacy Policy and Terms of Use in effect at the time of use. The provisions contained herein supersede all previous notices or statements regarding our privacy practices with respect to this Site. We may email periodic reminders of our notices and terms and conditions and post any changes to the Privacy Policy and the Terms of Use on our Site. We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them. 
+As our business changes, this Privacy Policy and the [**Terms of Use**](https://web.archive.org/web/20090620060049id_/http%3A//www.textron.com/legal/terms_of_use.jsp) are expected to change from time to time, and we reserve the right to change the Privacy Policy and Terms of Use at any time. The use of your information is subject to the Privacy Policy and Terms of Use in effect at the time of use. The provisions contained herein supersede all previous notices or statements regarding our privacy practices with respect to this Site. We may email periodic reminders of our notices and terms and conditions and post any changes to the Privacy Policy and the Terms of Use on our Site. We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them. 
 
-**[Return to Legal](https://web.archive.org/web/20081216161519id_/http%3A//www.textron.com/legal/index.jsp)**
+**[Return to Legal](https://web.archive.org/web/20090620060049id_/http%3A//www.textron.com/legal/index.jsp)**
 
 |  | 
