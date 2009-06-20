@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the arstechnica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014436id_/http%3A//arstechnica.com/site/privacy.ars) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arstechnica.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620173945id_/http%3A//arstechnica.com/site/privacy-policy.ars) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ars Technica
 
-_Last Revised 5/27/2008_
+_Last Revised 1/25/2009_
 
-[Kids and parents click here!](http://arstechnica.com/site/privacy.ars#kidsandparents)
+[Kids and parents click here!](http://arstechnica.com/site/privacy-policy.ars#kidsandparents)
 
-The following Privacy Policy summarizes the various ways that CondéNet, a division of Advance Magazine Publishers Inc. ("Service Provider," "we" or "our") treats the information you provide while using **www.arstechnica.com** ("Website").  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+The following Privacy Policy summarizes the various ways that Condé Nast Digital, a division of Advance Magazine Publishers Inc. ("Service Provider," "we" or "our") treats the information you provide while using **www.arstechnica.com** ("Website").  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://arstechnica.com/site/privacy.ars**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.**   If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://arstechnica.com/site/privacy-policy.ars**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.**   If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](http://arstechnica.com/site/useragreement.ars). Your use of the Website constitutes agreement to its terms and conditions as well. 
+In addition to reviewing this Privacy Policy, please read our [User Agreement](http://arstechnica.com/site/user-agreement.ars). Your use of the Website constitutes agreement to its terms and conditions as well. 
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
@@ -61,6 +61,4 @@ If you're worried about your children's activities or their privacy on our site,
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
 
 **Privacy Policy Coordinator  
-CondéNet  
-1166 Sixth Avenue 15th Floor  
-New York, NY 10036**
+The Condé Nast Publications 1313 Market Street Wilmington, DE 19801 [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com) **
