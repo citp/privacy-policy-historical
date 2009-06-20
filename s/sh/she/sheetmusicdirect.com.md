@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219190116id_/http%3A//sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203224id_/http%3A//sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy at sheetmusicdirect.com
+# Privacy Policy at Sheetmusicdirect.com
 
 Sheetmusicdirect.com is committed to keeping the personal details of its visitors and customers private and secure. Information is kept in accordance with the Data Protection Act 1998 and our communications comply with the Privacy And Electronic Communications (EC Directive) Regulations 2003. 
 
