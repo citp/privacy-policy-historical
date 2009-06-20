@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219100604id_/http%3A//www.auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062256id_/http%3A//www.auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
 
 # auDA > auDA Published Policies > Privacy Policy (2002-10)
 
