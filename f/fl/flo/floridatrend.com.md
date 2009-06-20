@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218104717id_/http%3A//www.floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620055009id_/http%3A//www.floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
 
-# Florida Trend - Florida's Source For Business News
+# Florida Trend.com’s Privacy Policy
 
 **FloridaTrend.com — Privacy Policy**
 
@@ -12,7 +12,7 @@ We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@flor
 
 Your use of our websites indicates to us that you have read and accepted our [Privacy Policy](http://florida.arkansasbusiness.com/section.asp?secID=8) and our [Terms and Conditions](http://florida.arkansasbusiness.com/section.asp?secID=7).
 
-Our web sites use “cookies,” an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user’s requested activity, to target specific information, to perform analysis and for research and development.
+Our web sites use "cookies," an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user's requested activity, to target specific information, to perform analysis and for research and development.
 
 Florida Trend may, from time to time, use information you provide as part of the registration process to send you information regarding other products or services from Florida Trend. In addition, Florida Trend may provide aggregated, anonymous statistical information about Florida Trend users to other persons, including potential advertising clients. 
 
