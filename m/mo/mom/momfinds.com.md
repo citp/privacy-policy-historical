@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215840id_/http%3A//www.momfinds.com/content/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momfinds.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620205733id_/http%3A//momfinds.com/content/policy) for the most accurate reproduction.*
 
 # MomFinds.com - PRIVACY POLICY
 
