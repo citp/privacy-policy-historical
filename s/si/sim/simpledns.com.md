@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220134447id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193607id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ This site contains links to other sites. JH Software ApS is not responsible for 
 **CONTACT US**  
 If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20081220134447id_/http%3A//www.simpledns.com/policy.aspx?terms)
+For more information, please see [Terms of Use](https://web.archive.org/web/20090620193607id_/http%3A//www.simpledns.com/policy.aspx?terms)
 
   
 
