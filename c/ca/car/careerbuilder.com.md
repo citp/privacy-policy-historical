@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219192912id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620224830id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Search jobs online with confidence with CareerBuilder.com, who is committed to your privacy
 
@@ -12,7 +12,7 @@ We have created this Privacy Policy to demonstrate our commitment to protecting 
 
 ### Personal Information
 
-In order to operate the Site in an efficient and effective manner and provide users with information on job postings and services that may be of interest to them, CareerBuilder.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with private and secure areas to post and modify their original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. This information may include the URL that a user has just come from (whether this URL is on our Site or not), the URL a user goes to next (whether this URL is on our Site or not), a user’s computer browser information, and their IP address.  
+In order to operate the Site in an efficient and effective manner and provide users with information on job postings and services that may be of interest to them, CareerBuilder.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with private and secure areas to post and modify their original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. This information may include the URL that a user has just come from (whether this URL is on our Site or not), the URL a user goes to next (whether this URL is on our Site or not), a user's computer browser information, and their IP address.  
 You agree that CareerBuilder.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.
 
 We do not sell our users' personal information to anyone for any reason if the user has indicated a desire for us to keep the information private. When posting jobs and resumes, our users decide for themselves how much contact information they wish to display (we enable private communication for those who choose to hide this information).
@@ -90,7 +90,7 @@ Managing your privacy is as simple as selecting which pieces of your contact inf
 
 In addition to the CareerBuilder.com sign-in, CareerBuilder.com offers the ability to sign in using Microsoft Windows Live ID service, which provides authentication for online sign in. When you sign in to this site using the Windows Live ID service you will be asked to provide your e-mail address and a password to sign you in. This same Windows Live ID sign-in allows you to access many other participating Windows Live ID Web sites.
 
-[View the Windows Live ID Privacy Policy >>](http://g.msn.com/0US!s2.91046_910581/94.a910394/6??cm=ShortNotice%E2%80%93FeedContent-S)
+[View the Windows Live ID Privacy Policy >>](http://g.msn.com/0US!s2.91046_910581/94.a910394/6??cm=ShortNotice-FeedContent-S)
 
 ## How To Spot Fraud
 
