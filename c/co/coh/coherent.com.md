@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218235334id_/http%3A//coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620192153id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
 
 # Coherent Inc. : Coherent Privacy Statement
 
@@ -8,11 +8,11 @@ Coherent Inc. values the privacy of those who provide private personal informati
 
 **EXTERNAL INFORMATION SOURCES (Customer Inquiries)**
 
-Coherent only will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that is voluntarily provided through our website or e-mail correspondence. We will collect general information (such as the type of browser used, the files requested, and the domain name and country which requests information) to improve our Web site and better meet customer needs.
+Coherent will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that is voluntarily provided through our website or e-mail correspondence. We will collect visitor information (such as the type of browser used, the files/pages requested/visited, and the domain name and country which requests information) to improve our Web site and better meet customer needs.
 
 **Use of Information**
 
-Before we collect any personally identifiable information, we will provide an explanation for the possible use of the data. The information supplied will be used by Coherent to respond to inquiries, supply requested information on Coherent Inc. products and services, or track orders placed with Coherent.  Authorized third parties may be utilized by Coherent Inc. to collect, track and process such information. If you have submitted personal information to Coherent electronically and would like it removed or modified, please [contact us.](http://www.coherent.com/Home/index.cfm?fuseaction=forms.feedback) We will use reasonable efforts to comply with your request.
+Any information supplied will be used by Coherent to respond to inquiries, supply requested information on Coherent Inc. products and services, or track orders placed with Coherent.  Authorized third parties may be utilized by Coherent Inc. to collect, track and process such information. If you have submitted personal information to Coherent electronically and would like it removed or modified, please [contact us.](http://www.coherent.com/Home/index.cfm?fuseaction=forms.feedback) We will use reasonable efforts to comply with your request.
 
 **INTERNAL INFORMATION SOURCES (Employee Data)**
 
@@ -38,4 +38,4 @@ Any employee wishing to review or update their personal information can do so by
 
 The Coherent Inc. Web site may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. Additionally, some of our Web pages may contain "cookies," which are data that may be sent to your Web browser and stored on your computer. This allows our server to "recognize" you when you visit our Web site in the future. Most Web browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you. 
 
-_The practices described in this privacy policy statement are current personal data protection policies, as of October, 2001. Coherent Inc. reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages._
+_The practices described in this privacy policy statement are current personal data protection policies, as of March 2009. Coherent Inc. reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages._
