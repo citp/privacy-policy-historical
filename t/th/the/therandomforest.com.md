@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915185637id_/http%3A//www.therandomforest.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620025410id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy
+
+Browse: [Home](http://therandomforest.com/ "TheRandomForest.com") / Privacy Policy 
+
+##  [Privacy Policy](http://therandomforest.com/privacy-policy/ "Privacy Policy")
 
 As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at www.therandomforest.com website.
 
 And that’s precisely why I’ve decided to include the following, which discloses the information gathering and dissemination practices for this website.
 
-**Log Files**
+**Privacy Policy**
 
-Like most standard websites, this website uses log files. These include: Internet Protocol addresses (IP addresses), browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use. IP addresses, etc., are not linked to personally identifiable information.
+At TheRandomForest.com, your privacy is important to us. Period.
 
-**Web Cookies**
+It is important that you feel comfortable using our site, so we have created this page to provide you with information about our privacy policies. This includes the types of personal information we receive and collect when you visit us, and how we safeguard your information.
 
-Web cookies (also known as HTTP cookies, or just cookies) are parcels of text that are sent by a server to a Web browser, and then sent back unchanged by the browser each time it accesses that server. In other words, a cookie is a piece of data stored on a user’s computer that is tied to information about the user.
+First and foremost, please understand that we never sell your personal information to third parties. Typically what we do us look at all the information we collect together to learn how to make the site better for our visitors. Below are some of the types of information we collect.
 
-This website does not use cookies. However, some of my business partners (for example, advertisers) may use cookies. This site has no access to, or control over these cookies once I’ve given permission to them to advertise on this website.
+**Log Files**  
+As with most other websites on the internet, we collect and use the data contained in the log files of our servers. The information does not tell us who you are, but it does include your internet protocol (IP) address, your internet service provider (ISP, such as AOL or Time Warner Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-If you wish to disable cookies, you may do so through your individual browser options.
+**Cookies and Web Beacons**  
+We do use a common logging tool called “cookies” to store information. This is how web sites “remember you,” like when they remember your personal preferences when you visit a site repeatedly. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-**Links**
+**Third Party Advertisements**  
+We also may use third party advertisements to support our site. These ads often come from large reputable companies. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. When they use these technologies, these advertisers may also receive information about your visit including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash extensions installed.
 
-This website contains links to other websites. Please be aware that I am not responsible for the privacy practices of other websites. I encourage you, when you leave this website, to read the privacy statements/policies of each and every website you visit, as this particular privacy policy applies solely to this particular website.
+Again, these are generally large reputable companies. A great example would be Google advertisements through the Google AdSense program. Usually, these companies are using this information for things like geotargeting (this allows them to show Texas plumbing ads to someone in Dallas, for example).
 
-**Advertisers**
+**Interest-Based Advertising**  
+It is also possible for these advertising companies to show certain ads based on the specific sites you have visited (such as showing automobile ads to someone who frequents car sites). This “interest-based advertising” allows advertisers to show ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. “sports enthusiast”).
 
-I use outside advertising networks and companies in order to display ads on this site. These ads may contain cookies and/or web beacons in order to collect data in the ad serving process. These such cookies and/or web beacons are collected by the companies and/or advertising networks, themselves. I do not have any access to this information.
+Companies like Google develop interest categories by recognizing the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, they might add them to the “sports enthusiast” interest category.
 
-I currently work with several advertising networks and companies, such as: Izea, Google Adsense, Widgetbucks, Clickbank, Pepperjam, Commission Junction, PayU2Blog and Smorty. If you have any questions, please check their websites for their respective privacy policies.
+**What You Can Do**  
+If all of this bothers you, don’t worry. You can easily chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. Or, you can use the preferences in programs such as Norton Internet Security. However, you need to understand that this can affect how you are able to interact with our site (as well as other websites.) This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Webmaster Contact Information**
-
-If you have any questions or suggestions regarding www.therandomforest.com privacy policy, please feel free to contact me at [forest.parks@gmail.com](mailto:forest.parks@gmail.com).
-
-Policy wording supplied by [www.aaroncook.com](http://www.aaroncook.com/)
-
-Popularity: 3% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-**Share and Enjoy:** These icons link to social bookmarking sites where readers can share and discover new web pages.
+[Comments protected by Lucia's Linky Love.](http://money.bigbucksblogger.com/category/my-plugins/luciaslinkylove/)
