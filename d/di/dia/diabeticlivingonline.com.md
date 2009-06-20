@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabeticlivingonline.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219195340id_/http%3A//www.diabeticlivingonline.com/dlv/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticlivingonline.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620184449id_/http%3A//www.diabeticlivingonline.com/dlv/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # 
 
