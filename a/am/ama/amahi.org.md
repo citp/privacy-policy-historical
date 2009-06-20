@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amahi.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218113416id_/http%3A//www.amahi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amahi.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620201434id_/http%3A//www.amahi.org/privacy) for the most accurate reproduction.*
 
-# Amahi Linux Home Server
+# Amahi Home Server
 
 ## In Short
 
