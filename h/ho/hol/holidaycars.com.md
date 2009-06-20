@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216051410id_/http%3A//www2.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620040655id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Ddisclaimer) for the most accurate reproduction.*
 
 # Holiday Cars Car Rental
 
