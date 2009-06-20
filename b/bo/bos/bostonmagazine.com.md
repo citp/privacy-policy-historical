@@ -1,62 +1,91 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612194610id_/http%3A//www.bostonmagazine.com/ADVERTISING/Bmag_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193930id_/http%3A//bostonmagazine.com/privacy.html) for the most accurate reproduction.*
 
-# Boston Privacy Policy - Advertising - Boston Magazine
+# Privacy Policy - Boston Magazine
 
-**PRIVACY POLICY**
+Welcome to the _Boston Magazine_ is committed to protecting your privacy and trust and will only use your data as set forth in this Privacy Policy and any amendments hereto. This Privacy Policy discloses the privacy practices for Boston Magazine and Metro Corporation (collectively "Boston" of "We") and explains how we collect information and how we use the information that we collect. 
 
-Welcome to this _Boston Magazine/Metro Corp_. Web site (the "Site"). Boston Magazine is committed to protecting your privacy and trust. This Privacy Policy applies to all portions of our Site except the "Personals," which are governed by a separate privacy policy offered by Spring Street Networks. This Privacy Policy explains how we collect information from you and what we do with it. 
+Please read this information carefully before accessing the Site. The privacy statement may be amended at any time, with or without notice to users. You should periodically visit this page to review the then current Privacy Policy. Your use of the Site constitutes your consent and agreement to abide by this Privacy Policy and your consent to the use of the information that we collect, including personally identifiable information, as set forth in this Privacy Policy. Please regularly consult this Privacy Policy in order to be aware of updated practices.
 
-**Your visit to this Site serves as your consent to Boston Magazine's collection and use of information, including Personal Information (defined below), as described in this Policy. If you do not want Boston Magazine to collect and use your Personal Information in the manner described in this Policy, please do not provide the information to us.**
+Should you not wish _Boston_ to collect and use your personal information in the manner set forth in this Privacy Policy, please do not provide the information to _Boston_
 
-Boston Magazine may at any time change this Policy. You should periodically visit this page to review the then-current Privacy Policy. **If at any time you choose not to accept the terms and conditions herein, please do not use this Site.**
+Personally Identifiable Collection of Information
 
-Boston Magazine is not responsible for the content or the privacy policies of Web sites to which it may link. 
+You may voluntarily provide _Boston_ with personally identifiable information such as your name, email address, mailing address, telephone number, fax number, credit card information and information about your interest in various products, programs and services ("Personal Information"). Examples of how you may provide this information are: volunteering your email address in order to sign up for newsletters, volunteering your information when you subscribe to _Boston Magazine_ or an affiliated publication, volunteering your ISP address, purchasing products or services from the Site, participating in blogs, posting comments, participating in forums, chat rooms or message boards on the Site, sending a letter to the editor, express an opinion on the Site, enter a sweepstakes or contest, or complete a survey.
 
-  
-**Disclaimers**
+Additionally, in order to participate in various forums and portions of the Site, users may be required to submit a valid email address, demographic details and areas of interest. Such information may be used to select editorial topics and for screening out users who leave comments prohibited by the Terms and Conditions of this Site.
 
-**While Boston Magazine has taken reasonable steps to limit the uses of information provided by you, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. Boston Magazine is not responsible for any such loss or theft or any other unanticipated security breach.**
+Additionally, you may be able to sign up for certain promotions, newsletters or affiliated publications on behalf of or for delivery to third parties. You may order a service as a gift for a third party and send such gift directly to the third party through a submission of the third party's name, address, email address and telephone number. This also constitutes personally identifiable information.
 
-**Aggregate Information Collection and Use**
+If you should make a purchase on the Site, including a subscription for a magazine, we will typically ask for your name, address, mailing address, phone number, credit card number and the expiration date. If the product or subscription is provided or shipped by a third party, we will pass on to the third party the information needed to fulfill your order.
 
-We collect and use non-identifying and aggregate information to improve the content of our Web pages, for systems administration, and for trouble-shooting purposes. This information may be shared with other organizations for commercial purposes and with Boston Magazine affiliates. This kind of information includes which pages you visit, how many pages you visit, the search engine and key words you may have used, and how long you stay on our site. 
+Promotions and Contests
 
-**Personal Information Collection and Use**
+may from time to time sponsor sweepstakes, contests or other events ("Promotions") which require the collection, processing, and storage of individual contact information plus demographic information. These Promotions may also ask registrants to answer survey questions. Any personally identifiable information collected through Promotions will be treated as personal information. No purchase is ever necessary to enter a _Boston_
 
-We also collect any information that you volunteer, such as your name, email address, mailing address, telephone number, or credit card information ("Personal Information"). We request this information when you [subscribe](https://web.archive.org/index.cfm/nodeID/2c365248-38d3-425e-b0d3-4916b9448fd2/fuseaction/content.page) to Boston Magazine or an affiliated publication, sign up for and use a chat, club, message board, or forum (collectively, a "Forum"), send a letter to the editor, or otherwise contact Boston Magazine. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+may co-sponsor Promotions with other companies, in which case any information collected is likely to be shared with other participating sponsors, who may use this information. A registrant's personal contact and demographic information will not be released to any third party organization other than named sponsors without the registrant's consent.
 
-We reserve the right to share both aggregate and personal information collected from you with third parties if we are authorized to do so, if the law requires it, to protect the rights of Boston Magazine, or as part of a sale or other disposition of our assets (including our membership and/or customer records). We may also use and disclose Personal Information to prevent or trace abuses of the Site, including but not limited to use of a Forum. We may also use and disclose Personal Information to comply with any court order or government investigation or inquiry, or as otherwise required by law, or to protect the rights, property or personal safety of Boston Magazine, users of the Site, or the public. In addition, in our letters to the editor section, we typically disclose the city or town in which the letter-writer resides.
+Chat Rooms, Clubs, Forums, Blogs and Message Boards
 
-Boston Magazine may use your Personal Information to personalize and enhance your use of this Site, including the marketing and promotion of products and services that might be of interest to you. Boston Magazine may also use your Personal Information to address technical problems and communicate with you about customer service issues.
+It is important that you consult all Terms and Conditions that apply to our chat rooms, clubs, forums, blogs and message boards prior to participating in any such forum. You should be aware that any personal information, such as your name, address, and email address, as well as any other information that you post in any _Boston_ Forum, or otherwise specifically and knowingly disclosed by you in the use of a Forum, may be directly collected and use by _Boston_ and third parties. Therefore, you may receive unsolicited email as a result of your disclosure of such information. We advise you to use discretion in sharing information about yourself on the Internet. Privacy is an important right and we advise you to be careful and responsible when disclosing information online. **You should have no expectation of privacy with respect to your communications through these Forums**
 
-**Purchases**
+Surveys and Polls
 
-If you make a purchase on our Site, including a subscription for a magazine, we will typically ask for your name, email address, mailing address, phone number, credit card number, and the expiration date. If the product or subscription is provided or shipped by a third party, we will pass on to the third party the information needed to fulfill your order.
+will from time to time conduct anonymous surveys and polls of users to the Site to obtain aggregate demographic information about the users. Such information may be compiled and shared in the aggregate with advertisers and other third parties but not personal details will be traceable or associated with specific individuals unless otherwise disclosed in any survey or poll rules.
 
-**Promotions and Contests**
+request other personally identifiable information from you, you are not required to share any such information to gain access to the Site. Simply, you can refuse to provide any such information.
 
-Boston Magazine may from time to time sponsor sweepstakes, contests, or other events ("Promotions") which require the collection, processing, and storage of individual contact information plus demographic information. These Promotions may also ask registrants to answer survey questions. Any personally identifiable information collected through promotions will be treated as "Personal Information," as defined above. No purchase is ever necessary to enter a Boston Magazine Promotion. Please see the official rules of each Promotion for more information.
+lang=EN style='font-size:11.0pt;font-family: "Futura Book";color:#333333'> __
 
-Boston Magazine may co-sponsor Promotions with other companies, in which case any information collected is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the registrant's consent.
+In the normal course of visiting the Site, viewing our pages and downloading any information from the Site, our servers also collects information such as:
 
-**Chats, Clubs, Forums, and Message Boards**
+• 
 
-Please consult our Terms of Use for a description of our chats, clubs, forums, and message boards ("Forums"). You should be aware that any Personal Information, such as your name and email address, as well as any other information or content that you post on a Forum, or otherwise specifically and knowingly disclose by use of a Forum, may be directly collected and used by Boston Magazine and third parties. Therefore, you may receive unsolicited email as a result of your disclosure of such information. **You should have no expectation of privacy with respect to your communications through these Forums.**
+• 
 
-**Surveys and Polls**
+• 
 
-Boston Magazine will from time to time conduct anonymous surveys and polls of users to the Site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals unless otherwise disclosed in the survey rules.
+• The name and version of your computer's operating system and browser
 
-**Cookies**
+We use your personally identifiable information to supply you with and fulfill your requests for services, for products, for subscriptions, for offerings, for additional information, to include you on a subscription list, and to select forum topics.
 
-Boston Magazine does not use Cookies at the present time. In the future, however, users to this Site may be issued a "cookie," a small text file placed on the user's hard drive to track usage of the Site. Cookies help to prevent you from having to register or re-enter your information every time you visit the Site. Cookies are also used to authenticate your identity. Cookies from our Site provide us with certain information about your computer, but will not interfere with the operation of your computer. 
+We may use such information to send you a confirmation, or notify you that you have won a contest.
 
-**Hyperlinks**
+We may use such information to provide you with gift cards, notifications of new products, programs or services, and to notify you of added features to the Site.
 
-We may post hyperlinks to the Web sites of third-party advertisers, service providers, and others. We cannot control the actions of such third parties or be held responsible for their use of any information that you provide directly to them. We advise you to take the time to educate yourself about the privacy policy and terms of use of any Web site that you visit.
+We may use the information collected for internal purposes for administrative purposes, for technical maintenance purposes, the marketing and promotion of products and services that might be of interest to you, to communicate with you about customer service issues, to measure the number of visitors to the site, to make the site more useful to users and to use in seeking advertisers and partners. This may involve sharing such information with other _Boston_ or Metro Corp. offices or affiliates for said purposes.
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+We reserve the right to share both aggregate and personal information collected from you with third parties if we are authorized to do so, if the law requires it, to protect the rights of _Boston_ , or as part of a sale or other disposition of our assets (including our membership and/or customer records). We may also use and disclose Personal Information to prevent or trace abuses of the Site.
+
+We may also use and disclose Personal Information to comply with any court order or government investigation, subpoena or inquiry, or as otherwise required by law, or to protect the rights, property or personal safety of _Boston,_ users of the Site, or the public. Additionally, in our letters to the editor section, we typically disclose the city/town in which the letter writer resides.
+
+******While Boston has taken reasonable steps to limit the uses of information provided by you, we cannot guarantee that the information will remain permanently secure. There is always a possibility that your information could be lost due to technical problems or stolen from our databases. Boston is not responsible for any such loss or theft or any other unanticipated security breach** **.** ****
+
+******does not use Cookies at the present time. In the future, however, users to this Site may be issued a "cookie," a small text file placed on the user's hard drive to track usage of the Site. Cookies help to prevent you from having to register or re-enter your information every time you visit the Site. Cookies are also used to authenticate your identity. Cookies from our Site provide us with certain information about your computer, but will not interfere with the operation of your computer. _Boston_ may use cookies to gain knowledge of Internet usage, improve content and advertisements.******
+
+ ** ** **
+
+Some cookies that are issued may contain your personally identifiable information, and such cookies may be shared with the affiliates of _Boston_
+
+If you would like to avoid cookies, your web browser may have an option that enables you to disable or not accept cookies. It should be noted, however, that should you disable or not accept cookies, portions of the Site may not properly function.
+
+**We may post hyperlinks to the Web sites of third-party web sites ("Third Party Sites"). We cannot control the actions of such third parties or be held responsible for their use of any information that you provide directly to them. We advise you to take the time to educate yourself about the privacy policy and terms of use of any Web site that you visit.**
+
+ **
+
+does not control or endorse Third Party Sites.
+
+Third party advertisements that appear on _Boston_ are sometimes delivered (or "served") directly to users by third party advertisers. The advertisers may automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. Cookies will allow the advertiser to recognize your computer each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. _Boston_ does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Site unless you choose to share it with them.
+
+This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers.
+
+Again, if you would like to avoid cookies, your web browser may have an option that enables you to disable or not accept cookies. It should be noted, however, that should you disable or not accept cookies, portions of the Site may not properly function.
 
 **Children's Online Privacy**
 
-Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. Boston Magazine does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [rbertsche@plgt.com](mailto:rbertsche@plgt.com).
+Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston_ does not knowingly collect personal information from children through this Site, or any of its Web sites. Minors between the ages of 13 and 17 must obtain the permission of their parents or legal guardians before making purchases of any type on this Site.
 
-[Terms & Conditions](https://web.archive.org/images/uploads/photos/shell/134_shellfile.pdf)
+If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, or any other privacy issue, please contact us at online-edit@bostonmagazine.com.
+
+********
