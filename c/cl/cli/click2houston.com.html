@@ -1,129 +1,29 @@
-<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609212911id_/http%3A//www.click2houston.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620132836id_/http%3A//www.click2houston.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/_public/sitecode/hou/hou-min.css" type="text/css" media="screen" charset="utf-8">
 <title>Click2Houston.com - Privacy</title>
-<script src="/sh/flash/js/AC_OETags.js" language="javascript" id="AC_OETags.js"></script><meta name="keywords" content="">
-<meta name="categories" content="Station, Privacy">
+<link rel="canonical" href="http://www.click2houston.com/privacy/index.html"><script src="/sh/flash/js/AC_OETags.js" id="AC_OETags.js" type="text/javascript"></script><meta name="keywords" content="">
 <meta name="WT.cg_s" content="Privacy">
 <meta name="WT.cg_n" content="Station">
 <meta name="WT.ti" content="Privacy">
 <meta name="DCSext.mtype" content="index">
-<script src="/ec/site/json/getSiteConfig?varname=configObject"></script><script src="/_public/js/ibcore2-min.js"></script><link rel="stylesheet" type="text/css" href="/stylesheet/style.css">
-<script type="text/javascript" src="/javascript/script.js"></script>
-<!-- begin Rev Sci code -->
-<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=C05503" charset="ISO-8859-1"></script>
 <script type="text/javascript">
-// use rsinetsegs array from JS call above.
-var segQS="";
-if (typeof rsinetsegs != "undefined") {
-	segQS = rsinetsegs.length > 0 ? "+" + rsinetsegs[0] : "";
-	for (var i = 1; i < rsinetsegs.length; i++) {
-		// set number of segments to use
-		if (i < 10) segQS += ("+"+rsinetsegs[i]);
-	}
-}
-</script>
-<!-- end Rev Sci code -->
+IBSYS = window.IBSYS || {};
+IBSYS.originHost = 'www.click2houston.com';
+</script><script src="/adinf/script.js" type="text/javascript"></script><script type="text/javascript" src="/_public/js/post/postCoreHead-min.js"></script><script src="https://web.archive.org/web/20090728053348/http://statse.webtrendslive.com//wtid.js"></script><script type="text/javascript" src="/javascript/script.js"></script>
 
 <!-- set ad zone  -->
 <script type="text/javascript" src="/js/6807715/script.js"></script>
 
 <script type="text/javascript">
-
-/* *********************************************************************
-  Copyright 2007, Internet Broadcasting Systems. All Rights Reserved.
-  $Id: embedHeaderLogo.js,v 1.2 2007/08/03 23:34:08 mwakefield Exp $
-  $Source: /u01/cvsroot/jslib/natl/swfobject/embedHeaderLogo.js,v $
-  Phaedra Content ID: 9485193
-  Example URL: http://preview.clickondetroit.com
-********************************************************************* */
-
-// Put all this into script tags
-
-// Load SWFObject Framework
-document.write("<scr"+"ipt type=\"text/javascript\" src=\"/sh/swfobject.js\"></scr"+"ipt>");
-
-// Close script tag so that the framework may be used
-//</script><script type="text/javascript" src="/sh/swfobject.js"></script><script type="text/javascript">
-
-// Create a function to handle logo placement
-function setHeaderLogo(){
-	// Find where the logo should go
-	var logoHolder = document.getElementById('brandingbartd1');
-	var logoChildren = logoHolder.childNodes;
-	var logoHolderDIV = document.createElement("div");
-	logoHolderDIV.id = "logoHolderDIV";
-	if(logoHolder == null) {
-		// If there is no where to put it - do nothing
-		return;
-	}
-	// Get Cookie
-	var logoCookie = getCookie("logo");
-	// If the cookie is undefined
-	if (logoCookie != 1){
-		// remove the image logo
-		for (var i=0;i<logoChildren.length;i++){
-			logoHolder.removeChild(logoChildren[i]);
-		}
-		logoHolder.appendChild(logoHolderDIV);
-		// Set the SWF location
-		var swf = "/images/structures/headers/site_header_logo.swf";
-		// Create an instance of SWFObject to write to the page
-		var so = new SWFObject(swf, "embedSWF", "260", "100", "8", "#0066cc", "high");
-		// write the swf
-		so.write("logoHolderDIV");
-		// set the cookie
-		setCookie("logo",1,"/", .5);	
-	} 
-}
-
-// Execute logic when window has completed loading
-addEvent(window, "load", setHeaderLogo);
-
-/* Old Method (Aron B)
-
-addEvent(window, "load", setHeaderLgog);
-
-function setHeaderLgog(){
-	var td = document.getElementById('brandingbartd1');
-	if(td == null)
-		return;
-	var c = td.childNodes;
-	// check to see if a cookie has been set for headerview
-	var cook = getCookie("logo");
-	if (cook != 1){
-		// remove the image
-		for (var i=0;i<c.length;i++){
-			td.removeChild(c[i]);
-		}
-		// add the swf - this should be DOM
-		td.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" '+
-			'codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/'+
-			'swflash.cab#version=6,0,0,0" width="260" height="100" id="site_header_detroit"'+
-			' align="middle"><param name="allowScriptAccess" value="sameDomain" />'+
-			'<param name="movie" value="http://www.clickondetroit.com/images/structures'+
-			'/headers/site_header_logo.swf" /><param name="quality" value="high" />'+
-			'<param name="bgcolor" value="#0066cc" /><embed src="'+
-			'http://www.clickondetroit.com/images/structures/headers/site_header_logo.swf"'+
-			' quality="high" bgcolor="#0066cc" width="260" height="100" name="site_header_logo"+
-			' align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"'+
-			' pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>';
-		// set the cookie
-		setCookie("logo",1,"/", .5);
-	} 
-}
-
-*/
-</script>
-	
-	
-<script type="text/javascript">
 var rnd = new Date();
 rnd = rnd.getTime();
-</script><script type="text/javascript">
+</script>
+<script type="text/javascript">
 var pageProps= {
-time: {hr:"4",hr_p:"04",hr24:"16",hr24_p:"16",min:"21",sec:"54",mer:"pm",tz:"CDT",mon:"6",mon_p:"06",date:"9",date_p:"09",yr:"2008",day:"2"},
+time: {hr:"8",hr_p:"08",hr24:"8",hr24_p:"08",min:"28",sec:"35",mer:"am",tz:"CDT",mon:"6",mon_p:"06",date:"20",date_p:"20",yr:"2009",day:"7"},
 envhost:"www.click2houston.com",sectionname:"Privacy",sectiontag:"station",sectionpath:"/privacy/"
 };
 
@@ -133,63 +33,151 @@ IBSYS.application.Application.mergeConfig({
 "ads.excludeCategory": "",
 
 "pageID": "85734",
-"pageTopicPath": "station"
+"pageTopicPath": "station",
+"ads.defaultStrategy": "Dart"
 });
-</script><script type="text/javascript" src="/js/9476578/script.js"></script>
-<script src="/js/9300634/script.js" language="JavaScript"></script></head>
-<!--stopindex--><body>
-<div id="vtmp10" class="vtmp10"><table cellpadding="0" cellspacing="0" border="0" width="1000" class="vtmp10page pageContent"><tbody><tr><td valign="top" class="pageheader" colspan="2"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="brandingbar"><tbody><tr><td valign="top" id="brandingbartd1"><a href="/"><img src="/images/structures/headers/site_header_logo.jpg" width="260" height="100" alt="Click2Houston.com" border="0"></a></td><td valign="top" id="brandingbartd2"> &nbsp; </td></tr></tbody></table></td></tr></tbody></table><table cellpadding="0" cellspacing="0" border="0" width="133" align="left"><tbody><tr><td valign="top" width="130" class="col1"><div id="topleft" class="pageContainer">
-		
 
-<object width="134" height="95"><param name="movie" value=" http://images.ibsys.com/hou-structure/images/structures/buttons/hotbutton_134x95.swf"><param name="allowScriptAccess" value="always"><param name="wmode" value="transparent"><embed width="134" height="95" src=" http://images.ibsys.com/hou-structure/images/structures/buttons/hotbutton_134x95.swf" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash"></object>
- 
-		 
-	</div><!--Start Nav--><div class="navbars" id="nav"><div class="navBtn" id="hpNavButton"><a href="/">
-Home</a></div><div class="subnav"><div class="subnavHdr"><a href="/station/2151604/detail.html" class="subnavHdrtxt"><span>Community Events</span></a></div><div class="navSubSections"></div><div id="lambda" class="pageContainer">
+IBSYS.ad.strategies.Default = IBSYS.ad.strategies.Dart;
+</script><script type="text/javascript" src="/js/9476578/script.js"></script>
+
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="/css/17479047/style.css"/>
+<![endif]-->
+</head>
+<!--stopindex--><body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" style="position: absolute; visibility: visible; width: 10em; height: 10em; top: -134px; left: -134px; border-width: 0px;"></iframe>
+<div class="header-facelift"><div class="row1"><div class="logo" id="siteLogoContainer"><a href="/index.html"><img src="/images/structures/headers/site_header_logo.jpg"></a></div><div class="header_ad"></div></div><div class="row2"><a href="http://www.click2houston.com/traffic/index.html" style="cursor: pointer;"><div id="header_promo_burb" class="header_boxes promo_blurb"><a href="http://www.click2houston.com/traffic/index.html"><img src="/2009/0107/18425080_90X50.jpg" alt="Check Traffic" width="90" height="50"></a><p><a href="http://www.click2houston.com/traffic/index.html">Check Traffic</a><br>Live Cameras, Conditions</p></div></a><script type="text/javascript">IBSYS.features.linkMaker("header_promo_burb", "http://www.click2houston.com/traffic/index.html");</script><a href="http://justweather.com/?site=houston" style="cursor: pointer;"><div xmlns:esi="http://www.edge-delivery.org/esi/1.0" id="wxWidget" class="header_boxes header_weather_bg"><a href="http://justweather.com/?site=houston"><span class="header_wx_icon" style="display: inline;"><span id="wxWidget-icon" class="icon66"></span></span></a><div class="header_weather_temp"><div id="wxWidget-temp">82<span class="deg">°</span></div></div><div class="header_weather"><a href="http://justweather.com/?site=houston"><span class="line_item city-name" id="wxWidget-city">Houston</span></a><br><a href="http://justweather.com/?site=houston"><span class="line_item conditions" id="wxWidget-conditions">Scattered Clouds</span></a></div><div class="justweather_logo"><a href="http://justweather.com/?site=houston">Click for more <span><span>Just</span>Weather.com</span></a></div><script type="text/javascript">
+try {
+IBSYS.post.wxWidget.init({"Houston": {"watch_warning_text": null, "timestamp": "Sat, 20 Jun 2009 13:27:06 GMT", "current_conditions": {"day4moonphase": "0", "day7uvDes": "Extreme", "day6moonrise": "9:32 am", "day9uvIdx": "11", "day9hiTmpF": "101", "Sky": "Scattered Clouds", "day2pOP": "10", "day4wSpdM": "9", "day3glfIdx": "6", "day3loTmpF": "76", "day10hiTmpC": "36", "day8sunset": "8:26 pm", "day1sunrise": "6:21 am", "day10hiTmpF": "98", "day5glfIdx": "5", "DewPointC": "23", "day8pOP": "10", "day7dow": "Friday ", "SixHrMax": "0", "day1fcst_valid_day": "20090620", "day5uvIdx": "11", "day1loTmpC": "23", "day4wDir": "WSW", "day10rH": "52", "day1loTmpF": "75", "day10fcst_valid_day": "20090629", "day9moonset": "12:15 am", "day3glfCat": "Good", "RelativeHumidity": "76", "day5moonset": "10:26 pm", "currently_updated": true, "day9glfCat": "Good", "Icon": "66", "day8moonset": "12:01 am", "day9loTmpC": "25", "DewPoint": "74", "day5uvDes": "Extreme", "day1glfIdx": "7", "UpdateTime": "2009-6-20T13:00:00", "day7sky24": "85", "day10sunset": "8:26 pm", "day9hiTmpC": "38", "day5wSpdM": "8", "day5loTmpF": "78", "day5loTmpC": "25", "day9loTmpF": "78", "day2glfCat": "Good", "day9glfIdx": "6", "day8uvIdx": "11", "day2wSpdM": "12", "day7uvIdx": "11", "day3loTmpC": "24", "day9moonrise": "12:47 pm", "day10sunrise": "6:23 am", "day9uvDes": "Extreme", "day4moonset": "9:38 pm", "day4moonrise": "7:07 am", "day9sunrise": "6:23 am", "day6moonphase": "1", "day2sunset": "8:25 pm", "day8loTmpC": "26", "day4glfIdx": "6", "day8loTmpF": "79", "WindChill": "82", "Distance": "1.09869266", "day2moonrise": "4:51 am", "day3sunset": "8:26 pm", "day8dow": "Saturday ", "day2wDir": "SSE", "day6wSpdM": "8", "day7rH": "48", "day1rH": "53", "day10pOP": "10", "day3moonset": "8:43 pm", "day5sunset": "8:26 pm", "HeatIndexC": "31", "day10moonset": "12:46 am", "day7moonrise": "10:40 am", "day6hiTmpF": "102", "process_time": "08:45:23", "ThreeHrPrecip": null, "day1wDir": "SSE", "day2hiTmpF": "96", "day6hiTmpC": "38", "Visibility": "10", "day2uvIdx": "11", "USLocationFlag": "T", "day6loTmpF": "78", "day5rH": "50", "day8moonrise": "11:45 am", "day6loTmpC": "25", "day7glfCat": "Fair", "day7sunrise": "6:22 am", "day5wDir": "WSW", "day6uvIdx": "11", "day9wSpdM": "9", "day10dow": "Monday ", "Gust": "0", "Ceiling": "Unl", "day10uvDes": "Extreme", "HeatIndex": "88", "day3wSpdM": "12", "day5glfCat": "Fair", "day3fcst_valid_day": "20090622", "day9pOP": "0", "day6dow": "Thursday ", "day4dow": "Tuesday ", "day4uvDes": "Extreme", "TemperatureC": "28", "day3dow": "Monday ", "day6moonset": "11:06 pm", "day5hiTmpF": "102", "day8fcst_valid_day": "20090627", "day9sky24": "85", "day5hiTmpC": "38", "day1uvIdx": "11", "day9sunset": "8:26 pm", "day4pOP": "0", "from_cache": false, "day2uvDes": "Extreme", "WindDirection": "170", "day7sunset": "8:26 pm", "day5pOP": "10", "day1pOP": "10", "day7wDir": "SSW", "day8glfIdx": "6", "day8glfCat": "Good", "day3moonphase": "0", "day3hiTmpC": "36", "TwentyFourHrPrecip": null, "day5fcst_valid_day": "20090624", "TwentyFourHrMin": "0", "day3hiTmpF": "98", "day6sky24": "65", "day3pOP": "10", "day2fcst_valid_day": "20090621", "day9rH": "52", "day3moonrise": "5:55 am", "WindSpeed": "6", "day2loTmpC": "23", "day6glfCat": "Fair", "day2loTmpF": "75", "Pressure": "29.92", "day9dow": "Sunday ", "day7moonphase": "1", "day5moonrise": "8:20 am", "SixHrPrecip": null, "day10uvIdx": "11", "day8sunrise": "6:23 am", "day1sky24": "65", "day1hiTmpC": "36", "day10loTmpC": "25", "day10loTmpF": "78", "day1hiTmpF": "97", "day6wDir": "SSW", "day7glfIdx": "5", "Temperature": "82", "day3uvDes": "Extreme", "day5moonphase": "1", "day5dow": "Wednesday ", "Weather": null, "day2rH": "54", "day6fcst_valid_day": "20090625", "day9moonphase": "1", "day3rH": "59", "day2moonphase": "7", "day2sunrise": "6:21 am", "day8wDir": "S", "day8uvDes": "Extreme", "day6sunset": "8:26 pm", "day4uvIdx": "11", "day8moonphase": "1", "day7wSpdM": "11", "day6sunrise": "6:22 am", "url": "http://ffc.intellicast.com/WeatherSvc/DataAccess2.asmx/GetForecastAndObsWGolfbyLocID?LocationInfo=ustx0618&Customer=postnewsweek", "day8rH": "52", "day4sky24": "85", "day4glfCat": "Good", "day1sunset": "8:25 pm", "day2dow": "Sunday ", "day4sunset": "8:26 pm", "day1moonset": "6:31 pm", "day1moonphase": "7", "WindChillC": "28", "day10sky24": "66", "day10moonphase": "1", "day6uvDes": "Extreme", "day1moonrise": "3:55 am", "day4loTmpF": "78", "day1uvDes": "Extreme", "day4loTmpC": "25", "day4sunrise": "6:21 am", "day3wDir": "SSE", "day1wSpdM": "16", "day4rH": "55", "day2sky24": "65", "day7pOP": "0", "day4hiTmpF": "101", "day10moonrise": "1:48 pm", "day6rH": "46", "day6pOP": "10", "day4hiTmpC": "38", "day1dow": "Saturday", "day10wDir": "SSW", "day1glfCat": "Good", "valid": true, "day8wSpdM": "11", "day10glfCat": "Good", "SixHrMin": "0", "day2glfIdx": "7", "day3sunrise": "6:21 am", "day4fcst_valid_day": "20090623", "day8sky24": "85", "day3sky24": "65", "day9fcst_valid_day": "20090628", "day10wSpdM": "12", "StationID": "KIAH", "day8hiTmpC": "38", "LocationID": "USTX0618", "SnowDepth": "0", "day8hiTmpF": "101", "day5sky24": "65", "PressureMB": "1013", "day10glfIdx": "6", "day5sunrise": "6:22 am", "day9wDir": "S", "day6glfIdx": "5", "mixed_nm": "Houston/George Bush Intercontinental Airport", "day3uvIdx": "11", "day7moonset": "11:42 pm", "day7fcst_valid_day": "20090626", "day2moonset": "7:39 pm", "day7hiTmpF": "103", "day7loTmpF": "78", "day7hiTmpC": "39", "day7loTmpC": "25", "day2hiTmpC": "35", "TwentyFourHrMax": "0"}, "notus": [["Hurricane Help: Visit Our Special Section", "http://www.click2houston.com/hurricanehelp/index.html"], ["House Impeaches Judge Kent", "http://www.click2houston.com/news/19803450/detail.html"], ["Stanford Indicted On Fraud Charges", "http://www.click2houston.com/news/19798244/detail.html"], ["Perry Signs UTMB, Insurance Bills", "http://www.click2houston.com/news/19804215/detail.html"], ["Pilot's Family Says He Loved To Fly", "http://www.click2houston.com/news/19804773/detail.html"], ["Yao Ming: Cleveland Move 'Unknown'", "http://www.click2houston.com/sports/19802379/detail.html"], ["Houston Couple Expecting Sextuplets", "http://www.click2houston.com/news/19803203/detail.html"], ["Man Wanted In Dollar General Robbery", "http://www.click2houston.com/news/19801892/detail.html"], ["Texas Jobless Rate Up To 7.1 Percent", "http://www.click2houston.com/news/19801717/detail.html"]], "watch_and_warning": {}}});
+} catch (x) {
+IBSYS.log(x.message);
+}
+</script><script type="text/javascript">IBSYS.features.linkMaker("wxWidget", "http://justweather.com/?site=houston");</script></div></a><div id="header_search_box" class="header_boxes search"><div id="header_search_selector"><a class="selected" href="/search/" rel="site">Site</a> | <a href="/search/" rel="web">Web</a> | <a href="/search/" rel="asSeenOn">As Seen On</a></div><form id="header_search_bar" action="/search/form.html" method="get"><input id="qt" name="qt" class="textInput" type="text" value="Search"><input type="hidden" name="cof" value="FORID:11"><input type="hidden" name="client" value="pub-1569153127812452"><input type="hidden" name="channel" value="0531443523"><input class="goButton" type="image" src="/images/structures/buttons/goButton.gif"></form></div>
+<style type="text/css">
+.facelift #topstory_container .teaser br {
+	display:inline;
+	margin:0;
+}
+
+.header-facelift .header_weather {
+  margin-bottom:6px;
+  *margin-bottom:4px;
+}
+.header-facelift .header_weather .line_item {
+  line-height:15px;
+}
+
+.header-facelift .justweather_logo a {
+  font-size:10px;
+  line-height:1.45em;
+  _float:left;
+  _white-space:nowrap;
+}
+.header-facelift .justweather_logo a span {
+font-family: Helvetica, Arial, Sans-serif;
+font-weight:normal; 
+font-size:18px;
+}
+
+/* fixing school closings color and hover state */
+.facelift div.alertWidget a, 
+.facelift div.alertWidget a:hover {
+	color:#fff;
+	text-decoration:none !important;
+}
+
+.facelift #topstory_container .teaser br {
+	display:inline;
+	margin:0;
+                line-height: 8px;
+}
+.facelift #topstory_container .teaser b {
+	display:inline;
+	margin:0;
+}
+.facelift #topstory_featured .teaser ul {
+	margin:0;
+}
+
+.facelift #topstory_featured .teaser li {
+	margin:0 0 3px 0;
+	list-style-position:outside;
+}
+.facelift #topstory_featured .teaser a img {
+	display:none;
+}
+
+.facelift .pagearrowmarker_next { 
+	background:transparent url(/images/structures/buttons/arrow-button-stack.png) no-repeat scroll -28px 0;
+}
+.facelift #sw19109656 {
+    margin-bottom: 0;
+    position: relative;
+}
+.facelift #sw19109656 .titlebar span {
+    padding: 0 6px;
+    font-size: 12px;
+    font-weight: normal;
+    
+}
+.facelift #sw19109656 span.topstory-more-news {
+    display: block;
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.facelift .row1 .header_ad {
+  overflow: hidden;
+}
+.facelift .articlelink, .facelift .videolink, .facelift .articlevideolink, .facelift .discussionlink {
+	background:transparent url(/sh/images/pns_bullets/blue_bullet.gif) no-repeat scroll 0 0.5em;
+padding:0 0 0 10px;
+}
+</style>
+<div class="header_boxes sponsorAd"><div id="iota" class="pageContainer">
   
-  <div id="sw14605749"><div class="sectionwidget0">
+  <div id="sw19018903" class="mode-normal"><div class="sectionwidget0">
   
     
       
   
-<!-- Begin Ad tag: navsquare1--><span id="ad_N312E3120.C8A" class="adObj adnavsquare1"><script type="text/javascript">
+<span class="adWithTab header-sticker"><span class="adtab none"></span><!-- Begin Ad tag: header-sticker--><span id="ad_N312E3120.1193" class="adObj adheader-sticker"><script type="text/javascript">
 IBSYS.ad.AdManager.registerPosition({
 "iframe": false,
 "addlSz": "",
-"element": "ad_N312E3120.C8A",
+"element": "ad_N312E3120.1193",
 "interstitials": false,
 "beginDate": "",
 "endDate": "",
 "getSect": "yes",
-"name": "navsquare1",
+"name": "header-sticker",
 "qString": "",
-"width": "125",
-"height": "125",
+"width": "100",
+"height": "34",
 "section": "",
 "useId": "1014422",
 "interactive": false,
 "useSameCategory": false,
 "topic": "",
-"swSectionRoot": "sponsors",
+"swSectionRoot": "adinf",
 "useZone": "",
+"containerType": "sw",
+"containerID": "19018903",
 "type": "DOM"
 });
-</script><script src="https://web.archive.org/web/20080518104934/http://ad.doubleclick.net/adj/ibs.hou.station/local;kw=privacy+navsquare1+1014422;comp=false;ad=true;pgtype=index;tile=1;sz=125x125;ord=1580467808844?"></script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.hou.station/national;kw=privacy+navsquare1+1014422;ad=true;pgtype=index;tile=1;sz=125x125;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.hou.station/national;kw=privacy+navsquare1+1014422;ad=true;pgtype=index;tile=1;sz=125x125;ord=123456789?" border="0" alt="sponsor" width="125" height="125"></a></noscript><!-- End Ad tag: navsquare1-->
+</script><script src="https://web.archive.org/web/20090728053348/http://ad.doubleclick.net/adj/ibs.pla.station/national;kw=privacy+header-sticker+1014422;comp=false;ad=true;pgtype=index;tile=1;sz=100x34;ord=1580467804146?"></script></span><noscript><a href="http://ad.doubleclick.net/jump/ibs.hou.station/local;kw=privacy+header-sticker+1014422;ad=true;pgtype=index;tile=1;sz=100x34;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.hou.station/local;kw=privacy+header-sticker+1014422;ad=true;pgtype=index;tile=1;sz=100x34;ord=123456789?" border="0" alt="sponsor" width="100" height="34"></a></noscript><!-- End Ad tag: header-sticker--></span>
   
 </div></div>
 
 
-</div></div><div class="navbar"><div class="navMainSections MainNavBtns"><div class="navBtn"><span class="expandsubnav" id="news">+</span><a href="/news/">News</a></div><div class="hiddennav" id="news_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/news/">Local News</a></div><div class="subsection"><a href="/nationalnews/">National News</a></div><div class="subsection"><a href="/irresistible/">Irresistible News</a></div><div class="subsection"><a href="/wheelofjustice/">Wheel Of Justice</a></div><div class="subsection"><a href="/eyesoftexas/">Eyes of Texas</a></div><div class="subsection"><a href="/better-living/">Better Living</a></div><div class="subsection"><a href="/hot-button/">Seen On 2 Links</a></div><div class="subsection"><a href="/mostpopular/">Most Popular</a></div><div class="subsection"><a href="/slideshows/">Slideshows</a></div><div class="subsection"><a href="http://forums.ibsys.com/index.cfm?sitekey=hou">Discussions</a></div><div class="subsection"><a href="/newsarchive/">Local News Archive</a></div><div class="subsection"><a href="http://www.txlottery.org/">Texas Lottery</a></div><div class="subsection"><a href="/rss/">Get RSS</a></div><div class="subsection"><a href="/podcasts/">KPRC Podcasts</a></div><div class="subsection"><a href="/videoarchive/">Video Archive</a></div><div class="subsection"><a href="/iraq-war/">Iraq War</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="weather">+</span><a href="/weather/">Weather</a></div><div class="hiddennav" id="weather_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/mapsandradar/">Maps And Radars</a></div><div class="subsection"><a href="/forecast/">Forecast</a></div><div class="subsection"><a href="/severeweather/">Severe Weather</a></div><div class="subsection"><a href="/hurricanes/">Hurricanes</a></div><div class="subsection"><a href="/texas/">Texas Weather</a></div><div class="subsection"><a href="/travelweather/">Travel Weather</a></div><div class="subsection"><a href="/beachandmarine/">Marine Forecast</a></div><div class="subsection"><a href="/pollen/">Pollen</a></div><div class="subsection"><a href="/almanac/">Almanac</a></div><div class="subsection"><a href="/hurricanes/">Hurricanes</a></div><div class="subsection"><a href="/summer-weather/">Summer Weather</a></div><div class="subsection"><a href="/weather/2126644/detail.html">Desktop Alert</a></div><div class="subsection"><a href="http://click2houston.premiumweather.com/info/?c=IBS_subnav">Premium Weather</a></div></div></div><div class="navBtn"><a href="http://www.click2houston.com/hurricanes/index.html">Hurricanes</a></div><div class="navBtn"><a href="/investigates/">Local 2 Investigates</a></div><div class="navBtn"><a href="/traffic/">Traffic</a></div><div class="navBtn"><span class="expandsubnav" id="sports">+</span><a href="/sports/">Sports</a></div><div class="hiddennav" id="sports_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://www.nbcolympics.com/kprc/index.html?aff=kprc">Olympics</a></div><div class="subsection"><a href="/randysblog/">Randy's Rants</a></div><div class="subsection"><a href="/nfl151/">Texans</a></div><div class="subsection"><a href="/mlb004/">Astros</a></div><div class="subsection"><a href="/nba099/">Rockets</a></div><div class="subsection"><a href="http://www.aeros.com/">Aeros</a></div><div class="subsection"><a href="http://www.wnba.com/comets/">Comets</a></div><div class="subsection"><a href="http://www.mlsnet.com/MLS/hou/">Dynamo</a></div><div class="subsection"><a href="/cfoot509/">Houston FB</a></div><div class="subsection"><a href="/cbaskb15/">Houston MBB</a></div><div class="subsection"><a href="/cfoot586/">Rice FB</a></div><div class="subsection"><a href="/cbaskc33/">Rice MBB</a></div><div class="subsection"><a href="/cfoot609/">Texas FB</a></div><div class="subsection"><a href="/cbaskc82/">Texas MBB</a></div><div class="subsection"><a href="/cfoot610/">Texas A&amp;M FB</a></div><div class="subsection"><a href="/cbaskc83/">Texas A&amp;M MBB</a></div><div class="subsection"><a href="/cfoot614/">Texas Southern FB</a></div><div class="subsection"><a href="/cbaskc85/">Texas Southern MBB</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067592;8704162;l?http://www.click2houston.com/tickets/">Tickets</a></div></div></div><div class="navBtn"><a href="/politics/">Politics</a></div><div class="navBtn"><span class="expandsubnav" id="entertainment">+</span><a href="/entertainment/">Entertainment</a></div><div class="hiddennav" id="entertainment_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/atthemovies/">@ The Movies</a></div><div class="subsection"><a href="/columnists/">Columnists</a></div><div class="subsection"><a href="/contests/">Contests</a></div><div class="subsection"><a href="/quizzes/">Quizzes</a></div><div class="subsection"><a href="/top10videos/">Top 10 Videos</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;51497804;8704162;n?http://www.click2houston.com/books/">Books</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;7412864;8704162;l?http://www.theatermania.com/">Live Theater</a></div><div class="subsection"><a href="/music/">Music</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;52067574;8704162;l??http://www.click2houston.com/tickets/">Tickets</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="health">+</span><a href="/health/">Healthbeat</a></div><div class="hiddennav" id="health_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/dietandfitness/">Diet And Fitness</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;149504727;8704162;k?http://recipes.sparkpeople.com/browse-recipes.asp?affiliate_code=hou">Healthy Recipes</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;127207024;8704162;w?http://www.sparkpeople.com/myspark/landingsplit.asp?from=ibsys_hou">Dieting Resources</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;196846985;8704162;b?http://www.caring.com/health?utm_source=ib&amp;utm_medium=cpc&amp;utm_content=nav&amp;utm_campaign=hou">Caregiving Advice</a></div><div class="subsection"><a href="/breastcancer/">Breast Cancer</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="money">+</span><a href="/money/">Money</a></div><div class="hiddennav" id="money_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Compare&nbsp;Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540423;8704162;c?http://www.homestore.com/HomeFinance/findlender/findlender.asp?gate=ibs_hou&amp;source=a14277">Find&nbsp;A&nbsp;Lender</a></div><div class="subsection"><a href="/investing101/">Investing&nbsp;101</a></div><div class="subsection"><a href="/personalfinance/">Personal&nbsp;Finance</a></div><div class="subsection"><a href="/smallbusiness/">Small&nbsp;Business</a></div><div class="subsection"><a href="/creditcards/">Credit&nbsp;Cards</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="education">+</span><a href="/education/">Your Education Station</a></div><div class="hiddennav" id="education_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/?rid=kprc">Search For Classes</a></div><div class="subsection"><a href="/creditcards/">Credit Cards</a></div></div></div></div></div><div class="navbar"><div class="navMainSections MainNav2Btns"><div class="navBtn"><span class="expandsubnav" id="family">+</span><a href="/family/">Family</a></div><div class="hiddennav" id="family_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/shopping/">Deals</a></div><div class="subsection"><a href="/petexperts/">Pet Experts</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;144169238;8704162;j?http://www.click2houston.com/mca/index.html">Memorial Clinical Associates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/life/default.aspx?ProductCategory=Life&amp;nqid=13353&amp;status=hou_BDWidget_life">Life Insurance</a></div><div class="subsection"><a href="/yourfamily/">Your Family</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;196846985;8704162;b?http://www.caring.com/health?utm_source=ib&amp;utm_medium=cpc&amp;utm_content=nav&amp;utm_campaign=hou">Caregiving Advice</a></div></div></div><div class="navBtn"><a href="/green-pages/">Going Green</a></div><div class="navBtn"><span class="expandsubnav" id="technology">+</span><a href="/technology/">Technology</a></div><div class="hiddennav" id="technology_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/digital-tv/">DTV Transition</a></div></div></div><div class="navBtn"><a href="/video/">Video</a></div><div class="navBtn"><a href="http://www.click2houston.com/eyesoftexas/index.html">Eyes of Texas</a></div><div class="navBtn"><a href="/jeffersonawards/">Jefferson Awards</a></div><div class="navBtn"><a href="/station/2151604/detail.html">Community Events</a></div></div></div><div class="navbar"><div class="navHdr MarketplaceNavHdr">Marketplace</div><div class="navMainSections MarketplaceNavBtns"><div class="navBtn"><a href="/thebuzz/">The Buzz</a></div><div class="navBtn"><a href="/hearthealth/">Heart Healthy</a></div><div class="navBtn"><a href="/localexperts/" class="expertNavBlue">Local 2 Experts!</a></div><div class="navBtn"><span class="expandsubnav" id="automotive">+</span><a href="/automotive/">Automotive</a></div><div class="hiddennav" id="automotive_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://autotrader.com/fyc/index.jsp?LNX=IBSCOBRNDSITE030">Find&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540447;8704162;i?http://www.autotrader.com/hornav/trader/index.jsp?LNX=IBSCOBRNDSYC0030">Sell&nbsp;Your&nbsp;Car</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;156849913;8704162;r?http://www.eauto.com/Rotation.asp?RefId=144011&amp;affdata=post.hou">Auto&nbsp;Finance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit&nbsp;Reports</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/common/default.aspx?ProductCategory=Auto&amp;nqid=13353&amp;status=hou_%20BDwidget_auto">Auto Insurance</a></div></div></div><div class="navBtn"><a href="/dating/">Dating</a></div><div class="navBtn"><span class="expandsubnav" id="travelgetaways">+</span><a href="/travelgetaways/">Travel</a></div><div class="hiddennav" id="travelgetaways_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;113799338;8704162;p?http://www.click2houston.com/traveldeals/index.html">Hot Travel Deals</a></div><div class="subsection"><a href="/creditcards/">Credit Cards</a></div></div></div><div class="navBtn"><span class="expandsubnav" id="employment">+</span><a href="/jobs/">Houston Jobs</a></div><div class="hiddennav" id="employment_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/rate/college_home.asp">College Loans</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://fastweb.monster.com/ib/spikessa-1f?WT.mc_n=ibsid;hou;coll01">College Scholarships</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;95583249;8704162;u?http://kprc.searchforcolleges.com/?rid=kprc">Search For Classes</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://jobsearch.ibs.monster.com/?WT.mc_n=ibsid;hou;nav01">Find A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://postajob.monster.com?WT.mc_n=ibsid;hou;post01">Post A Job</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540403;8704162;a?http://ibs.monster.com/resume.asp?WT.mc_n=ibsid;hou;res01">Post A Resume</a></div></div></div><div class="navBtn"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?http://partners.findlaw.com/ibs/kprc.html" target="__blank">Legal Center</a></div></div></div><div class="navbar"><div class="navHdr featuresNavHdr">Extras</div><div class="navMainSections featuresNavBtns"><div class="navBtn"><a href="/contests/">Click2Win</a></div><div class="navBtn"><a href="/pets/">Pets</a></div><div class="navBtn"><span class="expandsubnav" id="houseandhome">+</span><a href="/houseandhome/">2 At Home</a></div><div class="hiddennav" id="houseandhome_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="/spring-cleaning/">Spring Cleaning</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;18540397;8704162;m?http://www.bankrate.com/natl/default_frame.asp?sitekey=hou&amp;link_address=/natl/compare_rates_home.asp">Compare Rates</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;47557640;8704162;n?http://www.freecreditreport.com/pm/default.aspx?sc=667007&amp;bcd=subnav_hou">Credit Report</a></div><div class="subsection"><a href="/homedecor/">Decorating</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;129908387;8704162;s?http://www.netquote.com/common/default.aspx?ProductCategory=Home&amp;nqid=13353&amp;status=hou_BDWidget_home">Home Insurance</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;30713287;8704162;g?http://www.realtytrac.com/gateway_co.asp?accnt=152454">Foreclosure Resource Center</a></div><div class="subsection"><a href="/homeimprovement/">Home Improvement</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;149859638;8704162;y?http://www.guidetohomeimprovement.com/section/main/index.jsp?aff=Main&amp;qlink=n=203;c=319599;s=6104;x=7936;f=200709211647060;u=j;z=TIMESTAMP;&amp;useCustomConfig=y">Home Services</a></div><div class="subsection"><a href="/landscaping/">Landscaping</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;6861495;8704162;s?%20http://partners.findlaw.com/ibs/kprc.html">Legal Info</a></div><div class="subsection"><a href="/movingcenter/">Moving Center</a></div><div class="subsection"><a href="/yourhome/">Your Home</a></div></div></div><div class="navBtn"><a href="/realestate/">Real Estate &amp; Mortgage</a></div><div class="navBtn"><span class="expandsubnav" id="food">+</span><a href="/food/">Food</a></div><div class="hiddennav" id="food_sub" style="display:none;"><div class="navSubSections"><div class="subsection"><a href="http://ad.doubleclick.net/clk;127207024;8704162;w?http://www.sparkpeople.com/myspark/landingsplit.asp?from=ibsys_hou">Dieting Resources</a></div><div class="subsection"><a href="http://ad.doubleclick.net/clk;149504727;8704162;k?http://recipes.sparkpeople.com/browse-recipes.asp?affiliate_code=hou">Healthy Recipes</a></div></div></div></div></div><div class="navbar"><div class="navHdr siteToolsNavHdr">Site Tools</div><div class="navMainSections siteToolsNavBtns"><div class="navBtn"><a href="javascript:if(document.all){document.body.style.behavior='url(#default#homepage)';document.body.setHomePage('http://www.click2houston.com');}else{document.location.href%20='http://www.click2houston.com/news/1032852/detail.html'}">Set Homepage</a></div><div class="navBtn"><a href="/wirelessnews/">KPRC 2 Mobile</a></div><div class="navBtn"><a href="/emailnewsletters/">E-Mail Newsletters</a></div><div class="navBtn"><a href="/podcasts/">Podcasts</a></div><div class="navBtn"><a href="/rss/">Get RSS</a></div><div class="navBtn"><a href="/weather/2126644/detail.html">Desktop Alerts</a></div><div class="navBtn"><a href="http://click2houston.premiumweather.com/info/?c=IBS_Widget_Jetstream_5.12.05" target="__blank">Premium Weather</a></div><div class="navBtn"><a href="http://yellowpages.click2houston.com">Yellow Pages</a></div></div></div><div class="navbar"><div class="navHdr stationNavHdr">KPRC Local 2</div><div class="navMainSections stationNavBtns"><div class="navBtn"><a href="/station/">Inside KPRC</a></div><div class="navBtn"><a href="/contact/">Contact Us</a></div><div class="navBtn"><a href="/newsteam/">KPRC News Team</a></div><div class="navBtn"><a href="/dtv/">DTV Countdown</a></div><div class="navBtn"><a href="/blogs/">Blogs</a></div><div class="navBtn"><a href="/editorials/">KPRC Editorials</a></div><div class="navBtn"><a href="/tvlistings/">TV Listings</a></div><div class="navBtn"><a href="http://www.nbc.com" target="__blank">NBC</a></div><div class="navBtn"><a href="http://www.click2houston.com/sponsors/13534325/detail.html" target="__blank">LATV</a></div><div class="navBtn"><a href="http://www.drphil.com" target="__blank">Dr. Phil</a></div><div class="navBtn"><a href="http://ellen.warnerbros.com/" target="__blank">Ellen</a></div><div class="navBtn"><a href="http://extratv.warnerbros.com/" target="__blank">Extra</a></div><div class="navBtn"><a href="http://www.rachaelrayshow.com/" target="__blank">Rachael Ray</a></div><div class="navBtn"><a href="/advertise/">Advertise</a></div><div class="navBtn"><a href="/station/9666631/detail.html">Media Partners</a></div></div></div></div><script>ibsys.navSetup();</script><!--End Nav--><div id="topleft" class="pageContainer">
-		
+</div></div></div><div class="navbar"><div id="siteNav" style="width: 100%;"><table style="margin: 0px auto;" width="100%"><tbody><tr><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen0" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem first-of-type" id="yui-gen1" groupindex="0" index="0"><a href="/index.html" class="yuimenubaritemlabel ">Home</a></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen2" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen16" groupindex="0" index="0"><a href="/news/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">News</a><div class="yuimenu yui-module yui-overlay" id="yui-gen3" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen4" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/news/index.html">Local News</a></li><li class="yuimenuitem" id="yui-gen5" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/nationalnews/index.html">National News</a></li><li class="yuimenuitem" id="yui-gen6" groupindex="0" index="2"><a class="yuimenuitemlabel" href="/irresistible/index.html">Irresistible News</a></li><li class="yuimenuitem" id="yui-gen7" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/investigates/index.html">Local 2 Investigates</a></li><li class="yuimenuitem" id="yui-gen8" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/newsarchive/index.html">Local News Archive</a></li><li class="yuimenuitem" id="yui-gen9" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/mostpopular/index.html">Most Popular</a></li><li class="yuimenuitem" id="yui-gen10" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/politics/index.html">Politics</a></li><li class="yuimenuitem" id="yui-gen11" groupindex="0" index="7"><a class="yuimenuitemlabel" href="/slideshows/index.html">Slideshows</a></li><li class="yuimenuitem" id="yui-gen12" groupindex="0" index="8"><a class="yuimenuitemlabel" href="/traffic/index.html">Traffic</a></li><li class="yuimenuitem" id="yui-gen13" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/videoarchive/index.html">Video Archive</a></li><li class="yuimenuitem" id="yui-gen14" groupindex="0" index="10"><a class="yuimenuitemlabel" href="/wheelofjustice/index.html">Wheel Of Justice</a></li><li class="yuimenuitem" id="yui-gen15" groupindex="0" index="11"><a class="yuimenuitemlabel" href="/education/index.html">Your Education Station</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen17" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen32" groupindex="0" index="0"><a href="http://justweather.com/?site=Houston" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Weather</a><div class="yuimenu yui-module yui-overlay" id="yui-gen18" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen19" groupindex="0" index="0"><a class="yuimenuitemlabel" href="http://justweather.com/?site=Houston">JustWeather.com Home</a></li><li class="yuimenuitem" id="yui-gen20" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/emailnewsletters/index.html">Alerts E-mail/Mobile</a></li><li class="yuimenuitem" id="yui-gen21" groupindex="0" index="2"><a class="yuimenuitemlabel" href="http://justweather.com/boating/?site=Houston">Beach And Boats</a></li><li class="yuimenuitem" id="yui-gen22" groupindex="0" index="3"><a class="yuimenuitemlabel" href="http://justweather.com/outdoors/?site=Houston">Golf Forecast</a></li><li class="yuimenuitem" id="yui-gen23" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/hurricanehelp/index.html">Hurricane Help</a></li><li class="yuimenuitem" id="yui-gen24" groupindex="0" index="5"><a class="yuimenuitemlabel" href="http://justweather.com/hurricane/stormwatch/?site=Houston">Hurricane Watch</a></li><li class="yuimenuitem" id="yui-gen25" groupindex="0" index="6"><a class="yuimenuitemlabel" href="http://justweather.com/radar/?site=Houston">Radar / Metro Radar</a></li><li class="yuimenuitem" id="yui-gen26" groupindex="0" index="7"><a class="yuimenuitemlabel" href="http://justweather.com/radar/?site=Houston#lightbox=p172">Radar Loop</a></li><li class="yuimenuitem" id="yui-gen27" groupindex="0" index="8"><a class="yuimenuitemlabel" href="http://justweather.com/temperatures/?site=Houston">Temperatures</a></li><li class="yuimenuitem" id="yui-gen28" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/traffic/index.html">Traffic</a></li><li class="yuimenuitem" id="yui-gen29" groupindex="0" index="10"><a class="yuimenuitemlabel" href="http://justweather.com/travel/?site=Houston">Travel Weather</a></li><li class="yuimenuitem" id="yui-gen30" groupindex="0" index="11"><a class="yuimenuitemlabel" href="http://justweather.com/video/?site=Houston">Video Forecast</a></li><li class="yuimenuitem" id="yui-gen31" groupindex="0" index="12"><a class="yuimenuitemlabel" href="http://justweather.com/world/?site=Houston">World Weather</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen33" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen47" groupindex="0" index="0"><a href="/entertainment/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Entertainment</a><div class="yuimenu yui-module yui-overlay" id="yui-gen34" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen35" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/atthemovies/index.html">At The Movies</a></li><li class="yuimenuitem" id="yui-gen36" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/sponsors/19722588/detail.html">Broadway - Houston</a></li><li class="yuimenuitem" id="yui-gen37" groupindex="0" index="2"><a class="yuimenuitemlabel" href="/click2win/index.html">Click 2 Win</a></li><li class="yuimenuitem" id="yui-gen38" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/columnists/index.html">Columnists</a></li><li class="yuimenuitem" id="yui-gen39" groupindex="0" index="4"><a class="yuimenuitemlabel" href="http://www.houstonballet.org/" target="_blank">Houston Ballet</a></li><li class="yuimenuitem" id="yui-gen40" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/your-favorite-shows/index.html">Local 2 Shows</a></li><li class="yuimenuitem" id="yui-gen41" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/mylife/index.html">My Life</a></li><li class="yuimenuitem" id="yui-gen42" groupindex="0" index="7"><a class="yuimenuitemlabel" href="/myweekend/index.html">My Weekend</a></li><li class="yuimenuitem" id="yui-gen43" groupindex="0" index="8"><a class="yuimenuitemlabel" href="http://ad.doubleclick.net/clk;213345556;8704162;f?http://www.ourmuseumshouston.com/" target="_blank">Our Museums</a></li><li class="yuimenuitem" id="yui-gen44" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/top10videos/index.html">Top 10 Videos</a></li><li class="yuimenuitem" id="yui-gen45" groupindex="0" index="10"><a class="yuimenuitemlabel" href="/tvlistings/index.html">TV Listings</a></li><li class="yuimenuitem" id="yui-gen46" groupindex="0" index="11"><a class="yuimenuitemlabel" href="/nbcepisodes/index.html">Watch NBC Shows</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen48" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen62" groupindex="0" index="0"><a href="/sports/" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Sports</a><div class="yuimenu yui-module yui-overlay" id="yui-gen49" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen50" groupindex="0" index="0"><a class="yuimenuitemlabel" href="http://www.aeros.com/" target="_blank">Houston Aeros</a></li><li class="yuimenuitem" id="yui-gen51" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/mlb004/index.html">Houston Astros</a></li><li class="yuimenuitem" id="yui-gen52" groupindex="0" index="2"><a class="yuimenuitemlabel" href="http://web.mlsnet.com/t200/" target="_blank">Houston Dynamo</a></li><li class="yuimenuitem" id="yui-gen53" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/nba099/index.html">Houston Rockets</a></li><li class="yuimenuitem" id="yui-gen54" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/nfl151/index.html">Houston Texans</a></li><li class="yuimenuitem" id="yui-gen55" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/randysblog/index.html">Randy's Rants</a></li><li class="yuimenuitem" id="yui-gen56" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/cfoot586/index.html">Rice Football</a></li><li class="yuimenuitem" id="yui-gen57" groupindex="0" index="7"><a class="yuimenuitemlabel" href="/cbaskc33/index.html">Rice Basketball</a></li><li class="yuimenuitem" id="yui-gen58" groupindex="0" index="8"><a class="yuimenuitemlabel" href="/cfoot610/index.html">Texas A&amp;M Football</a></li><li class="yuimenuitem" id="yui-gen59" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/cfoot609/index.html">Texas Football</a></li><li class="yuimenuitem" id="yui-gen60" groupindex="0" index="10"><a class="yuimenuitemlabel" href="/cfoot509/index.html">UH Football</a></li><li class="yuimenuitem" id="yui-gen61" groupindex="0" index="11"><a class="yuimenuitemlabel" href="/cbaskb15/index.html">UH Basketball</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen63" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen77" groupindex="0" index="0"><a href="/lifestyle/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Lifestyle</a><div class="yuimenu yui-module yui-overlay" id="yui-gen64" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen65" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/2abetteryou/index.html">2 A Better You</a></li><li class="yuimenuitem" id="yui-gen66" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/houseandhome/index.html">2 At Home</a></li><li class="yuimenuitem" id="yui-gen67" groupindex="0" index="2"><a class="yuimenuitemlabel" href="http://kprc.cityvoter.com/home">Click2HoustonsBest.com</a></li><li class="yuimenuitem" id="yui-gen68" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/family/index.html">Family</a></li><li class="yuimenuitem" id="yui-gen69" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/food/index.html">Food</a></li><li class="yuimenuitem" id="yui-gen70" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/green-pages/index.html">Going Green</a></li><li class="yuimenuitem" id="yui-gen71" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/health/index.html">Health</a></li><li class="yuimenuitem" id="yui-gen72" groupindex="0" index="7"><a class="yuimenuitemlabel" href="/mca/index.html">MCA - Family Care</a></li><li class="yuimenuitem" id="yui-gen73" groupindex="0" index="8"><a class="yuimenuitemlabel" href="/money/index.html">Money</a></li><li class="yuimenuitem" id="yui-gen74" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/pets/index.html">Pets</a></li><li class="yuimenuitem" id="yui-gen75" groupindex="0" index="10"><a class="yuimenuitemlabel" href="/technology/index.html">Technology</a></li><li class="yuimenuitem" id="yui-gen76" groupindex="0" index="11"><a class="yuimenuitemlabel" href="/travelgetaways/index.html">Travel</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen78" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen87" groupindex="0" index="0"><a href="/fun/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Fun</a><div class="yuimenu yui-module yui-overlay" id="yui-gen79" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen80" groupindex="0" index="0"><a class="yuimenuitemlabel" href="http://www.click2houston.com/sponsors/19340114/detail.html">Birthday Club</a></li><li class="yuimenuitem" id="yui-gen81" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/childrensmuseum/index.html">Children's Museum of Houston</a></li><li class="yuimenuitem" id="yui-gen82" groupindex="0" index="2"><a class="yuimenuitemlabel" href="http://www.click2houstonrewards.com/index.htm" target="_blank">Click2Houston Rewards</a></li><li class="yuimenuitem" id="yui-gen83" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/click2win/index.html">Click 2 Win</a></li><li class="yuimenuitem" id="yui-gen84" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/quizzes/index.html">Quizzes</a></li><li class="yuimenuitem" id="yui-gen85" groupindex="0" index="5"><a class="yuimenuitemlabel" href="http://www.txlottery.org/export/sites/default/index.html" target="_blank">Texas Lottery</a></li><li class="yuimenuitem" id="yui-gen86" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/tickets/">Tickets</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen88" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen96" groupindex="0" index="0"><a href="/marketplace/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Marketplace</a><div class="yuimenu yui-module yui-overlay" id="yui-gen89" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen90" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/automotive/index.html">Automotive</a></li><li class="yuimenuitem" id="yui-gen91" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/houstonbbbdirectory/index.html">BBB Advertisers</a></li><li class="yuimenuitem" id="yui-gen92" groupindex="0" index="2"><a class="yuimenuitemlabel" href="/dating/index.html">Dating</a></li><li class="yuimenuitem" id="yui-gen93" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/jobs/index.html">Houston Jobs</a></li><li class="yuimenuitem" id="yui-gen94" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/realestate/index.html">Real Estate &amp; Mortgage</a></li><li class="yuimenuitem" id="yui-gen95" groupindex="0" index="5"><a class="yuimenuitemlabel" href="http://yellowpages.click2houston.com/">Yellow Pages</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen97" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen108" groupindex="0" index="0"><a href="/community/index.html" class="yuimenubaritemlabel  yuimenubaritemlabel-hassubmenu">Community</a><div class="yuimenu yui-module yui-overlay" id="yui-gen98" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen99" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/beyondtheheadlines/index.html">Beyond The Headlines</a></li><li class="yuimenuitem" id="yui-gen100" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/brighter-living/index.html">Brighter Living</a></li><li class="yuimenuitem" id="yui-gen101" groupindex="0" index="2"><a class="yuimenuitemlabel" href="/community/2151604/detail.html">Community Events</a></li><li class="yuimenuitem" id="yui-gen102" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/dtv/index.html">DTV Transition</a></li><li class="yuimenuitem" id="yui-gen103" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/eyesoftexas/index.html">Eyes Of Texas</a></li><li class="yuimenuitem" id="yui-gen104" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/family/index.html">Family</a></li><li class="yuimenuitem" id="yui-gen105" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/jeffersonawards/index.html">Jefferson Awards</a></li><li class="yuimenuitem" id="yui-gen106" groupindex="0" index="7"><a class="yuimenuitemlabel" href="/editorials/index.html">KPRC Editorials</a></li><li class="yuimenuitem" id="yui-gen107" groupindex="0" index="8"><a class="yuimenuitemlabel" href="/yourfamily/index.html">Your Family</a></li></ul></div></div></li></ul></div></div></td><td><div class="yuimenubar visible yui-module yui-overlay" id="yui-gen109" style="z-index: 0; position: static; display: block; visibility: visible;"><div class="bd"><ul class="first-of-type"><li class="yuimenubaritem yuimenubaritem-hassubmenu first-of-type" id="yui-gen124" groupindex="0" index="0"><a href="/hot-button/index.html" class="yuimenubaritemlabel seen-on-2 yuimenubaritemlabel-hassubmenu">Hot Button</a><div class="yuimenu yui-module yui-overlay" id="yui-gen110" style="position: absolute; visibility: hidden; left: -10000px; top: -10000px; z-index: 1;"><div class="bd single"><ul class="first-of-type"><li class="yuimenuitem first-of-type" id="yui-gen111" groupindex="0" index="0"><a class="yuimenuitemlabel" href="/hot-button/index.html">Seen On Local 2</a></li><li class="yuimenuitem" id="yui-gen112" groupindex="0" index="1"><a class="yuimenuitemlabel" href="/station/index.html">2 Inside KPRC</a></li><li class="yuimenuitem" id="yui-gen113" groupindex="0" index="2"><a class="yuimenuitemlabel" href="/advertise/index.html">Advertise</a></li><li class="yuimenuitem" id="yui-gen114" groupindex="0" index="3"><a class="yuimenuitemlabel" href="/blogs/index.html">Blogs</a></li><li class="yuimenuitem" id="yui-gen115" groupindex="0" index="4"><a class="yuimenuitemlabel" href="/contact/index.html">Contact Us</a></li><li class="yuimenuitem" id="yui-gen116" groupindex="0" index="5"><a class="yuimenuitemlabel" href="/hurricanehelp/index.html">Hurricane Help</a></li><li class="yuimenuitem" id="yui-gen117" groupindex="0" index="6"><a class="yuimenuitemlabel" href="/newsteam/index.html">KPRC News Team</a></li><li class="yuimenuitem" id="yui-gen118" groupindex="0" index="7"><a class="yuimenuitemlabel" href="http://www.click2houston.com/sponsors/13534325/detail.html">LATV</a></li><li class="yuimenuitem" id="yui-gen119" groupindex="0" index="8"><a class="yuimenuitemlabel" href="/station/19397046/detail.html">Local 2 On Twitter</a></li><li class="yuimenuitem" id="yui-gen120" groupindex="0" index="9"><a class="yuimenuitemlabel" href="/your-favorite-shows/index.html">Local 2 Shows</a></li><li class="yuimenuitem" id="yui-gen121" groupindex="0" index="10"><a class="yuimenuitemlabel" href="http://www.nbc.com/" target="_blank">NBC</a></li><li class="yuimenuitem" id="yui-gen122" groupindex="0" index="11"><a class="yuimenuitemlabel" href="/tvlistings/index.html">TV Listings</a></li><li class="yuimenuitem" id="yui-gen123" groupindex="0" index="12"><a class="yuimenuitemlabel" href="/nbcepisodes/index.html">Watch NBC Shows</a></li></ul></div></div></li></ul></div></div></td></tr></tbody></table></div></div><div class="subheaderWrapper clearfix"><span class="breadcrumbs"><span class="brdcrmbhome"><a href="/" class="spancolcaphome">Homepage</a>&nbsp;/&nbsp;</span><span class="brdcrmbsect"><h1 class="spancolcapsection">Privacy</h1></span></span><div id="sectionSponsor"><div id="lambda" class="pageContainer">
+  
+  
 
-	 
-		<div align="center">
-			<a href="http://www.mdausa.org/telethon" target="_blank"><img src="http://images.ibsys.com/hou-structure/images/structures/sponsors/muscular_dystrophy_120x45.gif" width="120" height="45" alt="MDA" border="0" vspace="2"></a><br>
-			<a href="http://www.txlottery.org/" target="_blank"><img src="http://images.ibsys.com/2001/0216/463992_120X90.jpg" width="120" height="90" alt="Texas Lottery" border="0" vspace="2"></a><br>
-		</div>
-	 
- 
-	</div></td></tr></tbody></table><span class="breadcrumbs"><span class="brdcrmbhome"><a href="/" class="spancolcaphome">Homepage</a>&nbsp;&gt;&nbsp;</span><span class="brdcrmbsect"><span class="spancolcapsection">Privacy</span></span></span><!-- end header --><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10"><tbody><tr><td valign="top" width="660" class="container1" id="tmp10td1"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="container1table" id="tmp10tbl"><tbody><tr><td valign="top" class="container1tabletd" id="c1r1tbltd1"><div id="story" class="pageContainer">
+
+</div></div></div></div><div id="custom-doc" class="ib-custom"><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10"><tbody><tr><td valign="top" width="660" class="container1" id="tmp10td1"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="container1table" id="tmp10tbl"><tbody><tr><td valign="top" class="container1tabletd" id="c1r1tbltd1"><div id="story" class="pageContainer small">
   
   
 
@@ -369,34 +357,65 @@ will notify our users via email or by posting a notice on the site for 30 days.
 Last Revised 02/08</div>
 </div>
 
-</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"><div class="container2div"></div></td></tr></tbody></table><!-- begin footer --><div class="copyright" id="pageFooter"><div id="footer" class="pageContainer">
-  
-  
+</div></td></tr><tr><td></td></tr></tbody></table></td><td class="border" id="tmp10td2"></td><td valign="top" width="210" class="container2" id="tmp10td3"><div class="container2div"></div></td></tr></tbody></table></div><!-- begin footer --><div class="footer"><div class="footerIncludes">
+    
 
-
-</div><br clear="all"><div id="copyrightFooter"><div id="footerImages"><span id="ibsysBug" class="bugLogo"><a href="http://www.ibsys.com/"><img src="/sh/images/partners/ibs_bug_color.gif" border="0"></a></span><span id="cnnBug" class="bugLogo"><a href="http://www.cnn.com/"><img src="/sh/images/partners/cnn_bug_color.gif" border="0"></a></span></div><div align="center">
-© 2008,
-<a href="http://www.ibsys.com/">Internet Broadcasting Systems, Inc</a>. <br><a href="/privacy/">Click here for the privacy policy</a>, <a href="/station/1012483/detail.html">terms of use</a>.<br><a href="/advertise/">Click here for advertising information.</a><br></div><br><a class="sitemap" href="/sitemap/">Site Map</a><br><script language="JavaScript">var tcdacmd="dt";</script><script src="http://an.tacoda.net/an/13724/slf.js" language="JavaScript"></script><br></div></div></div><!-- begin Rev Sci code (dm_client) -->
-<!-- absolute pathing : PTS 138706 -->
-<script type="text/javascript" src="http://www.click2houston.com/js/4230798/script.js"></script>
-
-
+  <div class="row1" id="siteTools">
+    <div class="icon" style="line-height:40px;"><a href="/emailnewsletters/"><img src="/images/structures/misc/email_icon.gif" alt="Email Alerts">&nbsp;Email Alerts</a></div>
+    <div class="icon" style="line-height:40px;"><a href="/rss/"><img src="/images/structures/misc/rss_icon.gif" alt="RSS News Feeds">&nbsp;RSS News Feeds</a></div>
+    <div class="icon" style="line-height:40px;"><a href="/wirelessnews/"><img src="/images/structures/misc/mobile_icon.gif" alt="Mobile">&nbsp;Mobile</a></div>
+    <div class="icon" style="line-height:40px;"><a href="/video/"><img src="/images/structures/misc/live_icon.gif" alt="Live Streams">&nbsp;Live Streams</a></div>
+    <div class="icon" style="line-height:40px;"><a href="/slideshows/"><img src="/images/structures/misc/slide_icon.gif" alt="Slideshows">&nbsp;Slideshows</a></div>
+    <div class="icon" style="line-height:40px;"><a href="/video/"><img src="/images/structures/misc/video_icon.gif" alt="Video">&nbsp;Video</a></div>
+</div>
+<div class="row2">
+  <a href="/news/1032852/detail.html" id="set-as-homepage">Set <script type="text/javascript">document.write(siteinfo.sitename.display);</script>TheChamplainChannel.com as Homepage</a>&nbsp;|&nbsp;<a href="#top">Back To Top</a>&nbsp;|&nbsp;<a href="/search/"><img src="/images/structures/misc/search_small.gif" width="19" height="19" style="position:relative; top:5px;" alt="Search">Search</a>
+</div>
+<div class="row3">
+  <div class="footerlinks">
+  	<a href=""><img src="/images/structures/misc/post-newsweek.png" width="120" height="21" style="line-height:30px; vertical-align:middle;" border="0" alt="Post-Newsweek Stations, Inc."></a>
+    <a href="http://www.ibsys.com/"><img src="/images/structures/misc/ib_logo.png" width="144" height="24" style="line-height:30px; vertical-align:middle;" border="0" alt="Internet Broadcasting"></a>
+    &nbsp; Partners:
+    &nbsp; <a href="http://www.cnn.com/"><img height="19" width="36" src="/images/structures/misc/cnn_logo.png" style="position:relative; top:4px;" border="0" alt="CNN"></a>
+    &nbsp; <a href="http://www.washingtonpost.com">washingtonpost.com</a>
+    &nbsp; <a href="http://www.nbc.com">NBC</a>
+    &nbsp; <a href="http://www.msnbc.com">MSNBC</a>
+  </div>
+  <div class="IBCopyrightFooter">©2009, Internet Broadcasting Systems, Inc.</div>
+</div>
 <script type="text/javascript">
-var metatags = document.getElementsByTagName("meta");
-var rsiCat='';
-if (metatags.pagesection) {
-	var s=metatags["categories"].content;
-	rsiCat=s.replace(","," > ");
-}
-if (typeof DM_cat !='undefined') DM_cat(rsiCat);
-if (typeof DM_tag !='undefined') DM_tag();
+addEvent(window,'load',function(){
+if (document.getElementById('wxWidget-icon')) {
+	document.getElementById('wxWidget-icon').parentNode.style.display = 'inline';
+}});
 </script>
-<noscript>
-	<img src="http://pix01.revsci.net/C05503/a3/0/0/0/0/0/0/0/0/0/noscript.gif" />
-</noscript>
-<!-- end Rev Sci code -->
 
+   
+  </div><div class="footerlinks">
+    
 
+<p><a href="/contact/">Contact Us</a>
+&nbsp;|&nbsp;
+<a href="/privacy/" rel="nofollow">Privacy Policy</a>
+&nbsp;|&nbsp;
+<a href="/station/1012483/detail.html" rel="nofollow">Terms of Use</a>
+&nbsp;|&nbsp;
+<a href="/advertise/">Advertising</a>
+&nbsp;|&nbsp;
+<a href="http://go.microsoft.com/fwlink/?LinkId=21969">Microsoft MapPoint Terms of Use</a>
+&nbsp;|&nbsp;
+<a href="http://go.microsoft.com/fwlink/?LinkId=21970">Microsoft Privacy Statement</a>
+&nbsp;|&nbsp;
+<a href="/sitemap/">Site Map</a></p>
+
+   
+    
+
+<div align="center">
+	<!--<strong>Advertisements:</strong> <a href="">Text.</a>-->
+</div>
+    
+  </div></div>
 <!-- Added Back the fullpathed domain for search bug pts 43483 -->
 <!-- Restored fullpath 5/6/08 : mwolfe : PTS 138706 -->
 <script type="text/javascript" src="http://www.click2houston.com/js/5271885,5097349/script.js"></script>
@@ -459,23 +478,70 @@ if (siteinfo.owner)
     DCSext.ib_partner=siteinfo.owner;
 else
     DCSext.ib_partner=siteinfo.sitename.mx;
+
+if (siteinfo.distribution) {
+  DCSext.ib_ntwk = siteinfo.distribution;
+}
+
+(function() {
+  if (IBSYS.ad.getDartNulls) {
+    var nullAds = IBSYS.ad.getDartNulls();
+    if (nullAds) {
+      DCSext.ib_null_ads = nullAds;
+    }
+  }
+})();
+
+
 //DCSext.ib_partner=siteinfo.owner;
 //var gDcsId="dcskoovmr01e5h6qlnsvvv4ea_334h"; -- Example
 
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+if ((typeof(gConvert)!="undefined")&&gConvert&&(typeof gWtId == 'undefined')&&(typeof gTempWtId == 'undefined')&&(document.cookie.indexOf(gFpc+"=")==-1)){
 	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wti"+"d."+"js"+"'></SCR"+"IPT>");
 }
 //-->
 </script>
 <!-- call DCS functions -->
 <script type="text/javascript">
-using('IBSYS.WebTrends');
+IBSYS.using('WebTrends');
 if (typeof ib_WTCustomTags == "function") ib_WTCustomTags();
 if (typeof IBSYS.WebTrends.collectUserData == 'function') IBSYS.WebTrends.collectUserData();
 if (typeof dcsVar == "function") dcsVar();
+
+if (IBSYS.application.Application.getProperty('tracking.remapReferrer') && document.referrer && IBSYS.propPath('siteinfo.distribution') == 'ext') {
+  (function() {
+    var ref = document.referrer.match(/(?:[^:]+:\/\/)?([^\/]+)([^\?]*)\??(.*)/);
+    window.DCS.dcssip = ref[1];
+    window.DCS.dcsuri = ref[2];
+    window.DCS.dcsqry = ref[3];
+  })();
+}
+
+if (IBSYS.propPath('IBSYS.widgets.LinksWeLike')) {
+  IBSYS.widgets.LinksWeLike.prepLegacyWT();
+}
+
 if (typeof dcsMeta == "function")  dcsMeta();
 if (typeof dcsFunc == "function") dcsFunc("dcsAdv");
-if (typeof dcsTag == "function") dcsTag();
+if (IBSYS && IBSYS.event) {
+  (function() {
+    var e = new IBSYS.event.GlobalEvent('beforeDcsTag');
+    try {
+      IBSYS.application.Application.announceEvent(e);
+    } catch (ex) {}
+  })();
+}
+if (typeof dcsTag == "function") {
+  if (window.location.hostname.indexOf('channel4000.com') < 0) {
+    if (IBSYS.qs('noWTPageView') != 'true' && !IBSYS.noLegacyTracking) {
+      dcsTag();
+    }
+  } else {
+    setTimeout(function() {
+      dcsTag();
+    }, 2000);
+  }
+}
 </script>
 
 
@@ -484,22 +550,19 @@ if (typeof dcsTag == "function") dcsTag();
 </noscript>
 
 <!--
-Time: 16:21:54 CDT
-Date: 6/9/2008
+Time: 8:28:35 CDT
+Date: 6/20/2009
 XSL File: index.xsl
 Browser Type: 
 Page Type: index
 Section Site: natl
 -->
-<span xmlns:esi="http://www.edge-delivery.org/esi/1.0"></span><script type="text/javascript">
-
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-3515011-15");
-pageTracker._initData();
-pageTracker._trackPageview();
-
-</script><script src="/_public/js/ibLast.js"></script></body></html>
+<script type="text/javascript" src="/_public/js/post/postCore-min.js"></script><script type="text/javascript">
+YAHOO.util.Event.onDOMReady(function(){
+var navs = YAHOO.util.Dom.getElementsByClassName('yuimenubar', 'div', 'siteNav', function(el) {
+var navbar = new YAHOO.widget.MenuBar(el, {autosubmenudisplay:true,constraintoviewport:false,hidedelay:500,submenualignment: ['tl', 'bl']} );
+navbar.render();
+});
+});
+</script><span xmlns:esi="http://www.edge-delivery.org/esi/1.0"></span><script type="text/javascript"> _qoptions={ qacct:"p-41jrVeSPpekVU",
+labels:"Post-Newsweek Television Stations" }; </script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><a href="http://www.quantcast.com/p-41jrVeSPpekVU" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-41jrVeSPpekVU.gif?labels=Post-Newsweek%20Television%20Stations%20" style="display: none;" border="0" height="1" width="1" alt="Quantcast"></a></noscript><script src="/_public/js/ibLast.js" type="text/javascript"></script></body></html>
