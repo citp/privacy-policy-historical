@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033306id_/http%3A//www.insidesales.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620041452id_/http%3A//www.insidesales.com/terms.php) for the most accurate reproduction.*
 
-# InsideSales.com Terms
+# InsideSales.com Website Terms of Use
 
 Privacy Policy Overview        Safe Harbor       Terms of Use
 
