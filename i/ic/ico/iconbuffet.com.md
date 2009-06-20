@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconbuffet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020150id_/http%3A//www.iconbuffet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconbuffet.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620180752id_/http%3A//www.iconbuffet.com/privacy) for the most accurate reproduction.*
 
 # IconBuffet | Privacy Policy
 
