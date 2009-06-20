@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218115256id_/http%3A//www.responsys.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620051014id_/http%3A//www.responsys.com/company/privacy_policy.php) for the most accurate reproduction.*
 
 # Responsys Privacy Policy
 
@@ -12,7 +12,7 @@ We reserve the right to change the Privacy Policy at any time. If we decide to r
 
 [](http://www.truste.org/ivalidate.php?url=www.responsys.com&sealid=101)Responsys is a licensee of the TRUSTe Privacy Program, which is further described below. 
 
-For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [permission marketing policy](https://web.archive.org/web/20081218115256id_/http%3A//www.responsys.com/company/permission_marketing.php), as well as the privacy policies for the sender(s) of the email message that you received.  
+For privacy questions related to an email message you may have received from a company using Responsys Interact, please see our [permission marketing policy](https://web.archive.org/web/20090620051014id_/http%3A//www.responsys.com/company/permission_marketing.php), as well as the privacy policies for the sender(s) of the email message that you received.  
 
 
 **Notice Concerning Children**  
