@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021416id_/http%3A//www.aggreko.com/useful_links/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggreko.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620145747id_/http%3A//www.aggreko.com/useful_links/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -58,7 +58,7 @@ Aggreko may from time to time post changes to the Policy. In such instances, Agg
 
 For further information on the Policy contact the following:-
 
-The Data Protection Manager: Hew Campbell  
+The Data Protection Manager: Peter Kennerley  
 Aggreko plc  
 8th Floor, Aurora
 
@@ -70,7 +70,7 @@ UK
 
 Telephone: +44 (0) 141 225 5900  
 Fax number:  +44 (0) 141 225 5949  
-E-mail address:  investors@aggreko.com
+E-mail address:  [ **investors@aggreko.com**](mailto:investors@aggreko.com?subject=Data%20Protection%20Web%20Enquiry)
 
 ©Aggreko plc  
 Data Protection and Privacy Policy   
