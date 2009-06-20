@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2008-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081104102028id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054202id_/http%3A//whatismyipaddress.com/staticpages/index.php/privacy-policy) for the most accurate reproduction.*
 
 # What Is My IP Address? - Our Commitment To Privacy
-
-## Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our site. 
 
@@ -28,11 +26,10 @@ WhatIsMyIPAddress.com expects its partners, advertisers and third-party affiliat
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. WhatIsMyIPAddress.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For information about their specific privacy policies please contact the advertisers directly. 
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of WhatIsMyIPAddress.com and this policy. 
 
 **Changes to this policy**
 
 WhatIsMyIPAddress.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
-
-  
-Last Updated Wednesday, July 25 2007 @ 07:14 am UTC
