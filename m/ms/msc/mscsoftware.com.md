@@ -1,69 +1,41 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221134412id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620194701id_/http%3A//www.mscsoftware.com/about/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Company Profile
 
-|    
-
-
-Terms | Privacy | Trademark
-
-## Terms and Conditions of Use and Disclaimer
-
-**Copyright © 2005 The MSC.Software Corporation-All Rights Reserved.**
-
-| 
-
-The web sites www.mscsoftware.com and www.engineering-e.com are intended for use by The MSC.Software Corporation's ("MSC") customers and other business partners.
-
-You may cite or refer to the information in www.mscsoftware.com and www.engineering-e.com in books, online services, or other media, but except as provided below, you may not reproduce or distribute such information in whole or in part without the prior written permission of MSC. To request such permission, send email to [www@mscsoftware.com](mailto:www@mscsoftware.com), including your name, address and a description of the purpose of your intended distribution and the information you would like to distribute. 
-
-You may print, reproduce and use the information in, and retrieve files containing software or images from, www.mscsoftware.com for non-commercial, personal, or educational purposes only, provided that you (i) do not modify such information, and (ii) include any copyright notice originally included with such information and this notice in all such copies.   
- 
-
-|   | 
-
-The information and data included in www.mscsoftware.com have been compiled by MSC from a variety of sources, and are subject to change without notice from MSC. MSC makes no warranties or representations whatsoever regarding the quality, content, completeness, or adequecy of such information and data. 
-
-MSC SPECIFICALLY DISCLAIMS ALL WARRANTIES WITH RESPECT TO www.mscsoftware.com and www.engineering-e.com OR YOUR USE THEREOF, EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. MSC SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST REVENUES, LOST PROFITS, OR LOSS OF PROSPECTIVE ECONOMIC ADVANTAGE, RESULTING FROM THE USE OR MISUSE OF www.mscsoftware.com and www.engineering-e.com, OR THE INFORMATION HEREIN.   
-  
----|---|---  
-  
-## MSC.Software Website Privacy Policy
-
   
 
 
-Your privacy is very important to us, and we take our privacy commitment to our website users very seriously. Our goal is to protect your online privacy while delivering a useful and enjoyable online experience that provides the information, products and services that are most relevant and helpful to you. 
+## MSC.Software Online Privacy Statement
 
-The purpose of this Privacy Policy is to inform you about what kinds of information we may gather when you visit our site, how we may use that information, whether and when we may disclose it to third parties, and choices you have regarding our use of, and your ability to correct, the information. 
+[](http://www.truste.org/ivalidate.php?url=www.mscsoftware.com&sealid=101)MSC.Software Corporation ("MSC.Software" or "Company") is committed to safeguarding your privacy while delivering a useful and enjoyable online experience that provides information, products and services that are most helpful to you. This MSC.Software Online Privacy Statement ("Privacy Statement") applies to data collected by MSC.Software through its Web site and services. It does not apply to those MSC.Software sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-|   | 
+The Web site _[http://www.mscsoftware.com](http://www@mscsoftware.com/)_ is intended for use by MSC.Software's customers and other business partners. The purpose of this Privacy Statement is to inform you about what kinds of information we may gather when you visit our site, how we may use the information, whether and when we may disclose it to third parties, and choices you have regarding our use of, and your ability to correct the information.
 
-MSC.Software Corporation (MSC.Software) reserves the right, at our discretion, to change, modify, add to or remove portions of this policy at any time. Please check this policy page periodically for changes. Your continued use of this website, including usage following the posting of changes to this policy, means you accept this policy. If you do not agree, please do not use this site.  
-  
----|---|---  
-**  
-Information Collection and Usage**  
-  
-_Automatically Collected Information_ : When you browse our site, your IP address is logged in order to give us an idea of which parts of our web site you visit and how long you stay there. Your IP address isn't linked to anything personally identifiable. The only other information automatically provided to us is the type of computer and operating system you use to access this site, and your web browser provides this information. 
+By accessing or using our Web site, you agree to the terms of this MSC.Software Privacy Statement. If you do not agree to these terms, you must not access or use this site. MSC.Software is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose MSC.Software's information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-_Other Information Collected_ : 
+**_Collection of Your Personal Information_**
 
-When you place an order from this site or request a quote, you'll be asked for information including your name, shipping or email address and credit card information necessary to fill your order or provide the quotation. We will set up an account for you, which you may access when you want to order or get a quote. 
+When you browse our Web site, your IP address is automatically logged in order to give us an idea of which parts of our Web site you visit and how long you stay there. Your IP address is not linked to anything personally identifiable. The only other information automatically provided to us and provided by your web browser, is the type of computer and operating system you use to access this Web site.
+
+We may ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your postcode, age, gender, preferences, interests and favorites. When you place an order from this Web site or request a quote, you'll be asked for information including your name, billing or shipping address or work e-mail address, work phone number, credit card information and other personal identifying information necessary to fill your order or provide the quotation. We will set up an account for you, which you may access when you want to order or get a quote.
 
 When you become a registered user, the registration page will request you to input certain information, such as: your name, email address, street address, and a password you select.
 
-Note About Passwords: As a further protection, we do not store passwords in plain text. We store passwords encrypted. When you come back for authentication, we encrypt the entered password and compare that to what is stored in the database.
+**_Use of Your Personal Information_**
 
-_What We Do With Information We Collect_ :
+MSC.Software collects and uses your personal information to improve its sites and deliver the services or carry out the transactions you have requested. This may include providing you with more effective customer service, making the sites or services easier to use by eliminating the need to re-enter the same information repeatedly. When you submit your personal information to MSC.Software,you understand and agree that MSC.Software, its controlled subsidiaries and affiliates may transfer, store, and process your customer profile in any of the countries in which MSC.Software and its controlled affiliates maintain offices, including without limitation, the United States.
 
-We use a secure licensed system for credit card authorization and fraud detection. Your credit card information is sent directly to our credit card service and referenced by your order number. We don't store your credit card information on our web site.
+MSC.Software abides by the EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union.
 
-MSC.Software may use the information you provide us for internal research or to improve our site and services. This information won't be provided to third parties, except as otherwise provided in this policy. All information you input is protected against unauthorized access, both in house and by third parties.
+**_Sharing of Your Personal Information_**
 
-|   | 
+Except as described herein, we will not disclose your personal information outside of MSC.Software and its controlled subsidiaries and affiliates without your consent. MSC.Software may hire a third party to provide limited services on our behalf such as processing transactions or providing address verification software to confirm the address provided is a correct mailing address. Those companies are allowed to procure only the personal information needed to deliver the service, must keep confidential the information, and are prohibited from using it for any other purpose.
 
-_Will We Share or Disclose Your Information?_ We do not sell or rent your personally identifiable information to third parties. We may send personally identifiable information about you to other companies or people:
+We obtain your permission to send you information about MSC.Software or our business partners. Where we collect contact information (for example, our user registration pages), we give you the opportunity to "opt out" of receiving certain information from our Company and/or our business partners, and to be removed from our mailing list. This includes the option to decline to receive such information from various MSC.Software sites. You may also contact us to inquire about these matters, or add or remove your name from our contact lists, by sending an email to _[www@mscsoftware.com.](http://www@mscsoftware.com/)_
+
+The Company may access and/or disclose your personal information if we believe it is necessary to comply with laws and legal process served on MSC.Software, protect and defend the rights or property of the Company, or act in emergency circumstances to protect the personal safety of users of MSC.Software services or members of the public.
+
+In addition, we do not sell or rent your personally identifiable information to third parties. We may send personally identifiable information about you to other companies or people:
 
   * When we have your consent to share the information;
   * When we need to share the information with companies who work on behalf of MSC.Software for purposes of providing a product or service you have requested (and only for that purpose, unless we tell you differently);
@@ -74,47 +46,50 @@ _Will We Share or Disclose Your Information?_ We do not sell or rent your person
   * If we must collect on debts; or
   * Where your communications to MSC.Software or other users suggests possible harm to others.
 
-_Sending You Information_ : Our policy is to obtain your permission to send you information about MSC.Software or our business partners. On pages on this site where we collect contact information (for example, our user registration pages), we give you the opportunity to "opt out" of receiving certain information from MSC.Software and/or our business partners. This includes the option to decline to receive such information as updates on products and services, special promotions, and newsletters from various MSC.Software sites. You may also contact us to inquire about these matters, or add or remove your name from our contact lists, by sending an email to www@mscsoftware.com   
-**  
-Cookies**  
-  
-_What is a cookie?_ Cookies were originally designed to help a web site identify a user's browser as a previous visitor and thus save and remember any preferences that were set before. A cookie is a small string of text a web site sends to your browser. It can't retrieve any data from your hard drive, pass on computer viruses, or capture your E-mail address. Many web sites use cookies to enhance the user's visit; in general, cookies can securely store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections in a "shopping cart." 
-
-_How do we use cookies?_ We use transient or "session" cookies to track a registered user's session. A session cookie is a small file that contains information about a user that disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on your hard drive. It is only stored in temporary memory and is erased once the browser is closed. Users who have registered memberships with any of the Engineering-e.com sites or subscribed to any applications will need to have their browser enabled to accept cookies in order to access sections of each Engineering-e.com site.
-
-|   | 
-
-Engineering-e.com uses session cookies for a number of purposes, such as to allow a user access to his or her information at the time of signing in or to use tools or services available only to members. Engineering-e.com requires you to sign in after a certain period of time has elapsed to protect you against others accidentally accessing the contents of your account.
-
-If you reject all cookies, you will not be able to use Engineering-e.com's products or services that require you to "sign in." It is also likely that you may not be able to take full advantage of each site's offerings.
-
-We may use the information we get from cookies to evaluate and improve our web site. We won't use the information transferred through cookies for promotion or marketing purposes, and it won't be shared with third parties.   
-  
-**  
-Security**  
-MSC.Software has instituted secure server software (SSL) to protect your Internet transactions. When you place orders or access your account information we use the secure server software to encrypt all your personal information, including credit card numbers, so they cannot be read during Internet transmission. To confirm this, when you enter personal information during the registration or ordering processes, your browser will indicate that you've entered a secure page environment (look for a "lock" icon, and/or you will see that the URL has changed to from "http:" to "https"). |   | 
-
-We use a secure licensed system for credit card authorization and fraud detection. Your credit card information is sent directly to our credit card service and referenced by your order number. We don't store your credit card information on our web site. 
-
-For further details about security on this MSC.Software site, please see our Security Policy.  
-  
-**  
-Links to Other Sites**  
-As a convenience to you, we sometimes provide links to other, non-MSC.Software websites. These sites are not under the control of MSC.Software, and the fact that MSC.Software provides such links is not an indication that we endorse or are liable for those sites or their content.  |   |  This Privacy Policy does not cover those linked sites. If you provide information to those companies' sites, that information will be subject to their privacy policies.  
-**  
-Questions and Concerns**  
-Anytime you have questions or concerns about our Privacy Policy, please contact us at [www@mscsoftware.com](mailto:www@mscsoftware.com).  
-   
-  
-## Trademark Information
-
-  
 
 
-The trademarks and service marks ("trademarks") displayed on this web site are the property of MSC.Software Corporation or third parties. You are not permitted to use these trademarks without the prior written consent of MSC.Software Corporation or such third parties. 
+**_Accessing Your Personal Information_**
 
-The following are trademarks or registered trademarks of MSC.Software Corporation or its subsidiaries in the United States and/or other countries: The MSC.Software corporate logo, ADAMS, CATCMM, DYTRAN, EASY5, Engineering-e.com, Engineering Exchange, Interactive Physics, Laminate Modeler, MARC, Mentat, MSC, MSC., MSC/, MSC.Acumen, MSC.ADAMS, MSC.AKUSMOD, MSC.AMS FVA, MSC.Astros, MSC.CATCMM, MSC.Construct, MSC.DropTest, MSC.Dynamic Designer, MSC.Dytran, MSC.EASY5, MSC.Enterprise Mvision, MSC.Explore, MSC.Fatigue, MSC.FEA, MSC.FlightLoads, MSC.GS-Mesher, MSC.Marc, MSC.MasterKey, MSC.Mvision, MSC.Nastran, MSC.NVH Manager, MSC.Patran, MSC.Robust Design, MSC.SimManager, MSC.SOFY, MSC.SuperForge, MSC.SuperForm, MSC.SuperModel, MSC.Thermal, MSC.Ultima, MSC.visualNastran, PATRAN, Working Model, SimDesigner, SimOffice, Simulating Reality, Simulation Center, and SOFY. The foregoing is not intended to be an exhaustive or comprehensive list of all trademarks owned by MSC.Software Corporation or its subsidiaries. Failure of a trademark to appear on this page does not mean that MSC.Software Corporation does not use the trademark.  |   | 
+You will be given access to your personal information online to view, correct, amend, or delete inaccurate information, and will be required to sign in with your credentials (e-mails address and password). You can access and update your profile by visiting our Web site at **_<https://support.mscsoftware.com/misc/member_services.cfm>._** If you have any questions in this regard, MSC.Software will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. Please notify us via our _[Web form](http://www.mscsoftware.com/about/contact.cfm)_ to fulfill your request.
 
-NASTRAN is a registered trademark of the National Aeronautics Space Administration. MSC.Nastran is an enhanced proprietary version developed and maintained by MSC.Software Corporation. ABAQUS is a registered trademark of ABAQUS, Inc. ANSYS is a registered trademark of SAS IP, Inc., a wholly owned subsidiary of ANSYS, Inc. AutoDesk is a registered trademark of Autodesk, Inc. CATIA is a registered trademark of Dassault Systemes SA. FLEX _lm_ is a registered trademark of Macrovision Corporation. Pro/ENGINEER is a registered trademark of Parametric Technology Corporation. Linux is a registered trademark of Linus Torvalds. LS-DYNA is a trademark or registered trademark of LSTC. Unigraphics, Parasolid and I-DEAS are registered trademarks of UGS Corp. All other brand names, product names or trademarks are the property of their respective owners.   
-  
----|---|---
+**_Security_**
+
+MSC.Software is committed to securing your personal information. We have instituted Secure Socket Layer protocol ("SSL") to protect your Internet transactions. When you place orders or access your account information, we use the SSL to encrypt all your personal information, including sensitive information such as credit card numbers, so they cannot be read during Internet transmission. To confirm this, when you enter personal information during the registration or ordering processes, your browser will indicate that you have entered a secure page environment (look for a "lock" icon, and/or you will see that the URL has changed from "http:" to "https"). We use a secure licensed system for credit card authorization and fraud detection. Your credit card information is sent directly to our credit card service and referenced by your order number. We don't store your credit card information on our web site.
+
+As a further protection, we do not store passwords in plain text. We store passwords encrypted. When you return for authentication, we encrypt the entered password and compare that to what is stored in the database. Since a password is used to help protect your personal information, it is your responsibility to keep your password confidential and not share the information with anyone. While we strive to use commercially acceptable means of protecting your personal information, no method of transmission over the Internet is 100% secure. Accordingly, we cannot guarantee its absolute security.
+
+**_Use of Cookies_**
+
+Cookies are designed to help identify a user's browser as a previous visitor and thus save and remember any preferences that were set before. A cookie is a small string of text transferred by a Web server to your browser. It cannot retrieve any data from your hard drive, pass on computer viruses, or capture your e-mail address. Many Web sites use cookies to enhance the user's visit. In general, cookies can securely store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections in a "shopping cart."
+
+We use transient or "session" cookies to track a registered user's session. A session cookie is a small file that contains information about a user that disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on your hard drive. It is only stored in temporary memory and is erased once the browser is closed. You can choose to accept or decline cookies. Most Web browsers will automatically accept cookies. If you chose to decline cookies, you may not be able to access or use other features of our Web site that depend on cookies.
+
+We may use the information we get from cookies to evaluate and improve our Web site. We won't use the information transferred through cookies for promotion or marketing purposes, and it won't be shared with third parties. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+**_Links to Other Web Sites_**
+
+As a convenience to you, we sometimes provide links to other, non-MSC.Software Web sites. These sites are not under the control of MSC.Software, and the fact that MSC.Software provides such links is not an indication that we endorse or are liable for those sites or their content. This Privacy Statement does not cover those linked sites. If you provide information to those company sites, that information will be subject to their privacy policies.
+
+We maintain a relationship with Nexstra, a third-party provider of instructional manuals for MSC.Software. When you access a Nexstra page from our Site, you are subject to their privacy policy terms. We also partner with a co-branded third-party vendor who handles on our behalf, electronic download software delivery service center features on the Site. Under the arrangement between MSC.Software and the third-party vendor, in order for us to provide this service, we have passed on to the third-party vendor your name, e-mail address, company and company location information.
+
+**_Changes to this Privacy Statement_**
+
+We will, from time to time, periodically update this Privacy Statement as we continue to develop our Web site and improve the services we provide to you. When we post changes to this Privacy Statement, we will revise our "last updated" date at the bottom of this Privacy Statement. With regard to material changes to this statement or in how we use your personal information, we will notify you by way of e-mail or by posting a prominent notice on our Web site. We encourage you to periodically review our Privacy Statement to be informed of how we protect your personal information.
+
+**_TRUSTe Certification_**
+
+MSC.Software is a member of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through our Company's Web sites, and does not cover information that may be collected through software downloaded from such sites.
+
+**_Enforcement of This Privacy Statement_**
+
+If you have questions regarding this statement, you should first contact us by using our _[Web form](http://www.mscsoftware.com/about/contact.cfm)_. If you do not receive acknowledgement of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at _<http://www.truste.org/consumers/watchdog_complaint.php>._ TRUSTe will serve as a liaison with MSC.Software to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+
+**_Contacting Our Web Site_**
+
+If you have questions, comments, or concerns, or wish to update or change any personal information submitted on this Site, or have any questions regarding our Privacy Statement, you should first contact us by using our _[Web form](http://www.mscsoftware.com/about/contact.cfm)_.
+
+To find the MSC.Software subsidiary in your country or region, please refer to: _[http://mscsoftware.com/about/locate/.](http://mscsoftware.com/about/locate/)_
+
+You may also contact us at 2 MacArthur Place, Santa Ana, California 92707-5924.
+
+_Last Updated: November 2008_
