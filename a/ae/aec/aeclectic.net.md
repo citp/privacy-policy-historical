@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeclectic.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123459id_/http%3A//aeclectic.net/tarot/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeclectic.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620095612id_/http%3A//www.aeclectic.net/tarot/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement : Aeclectic Tarot
 
