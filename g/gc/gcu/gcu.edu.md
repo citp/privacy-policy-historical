@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061947id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062441id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Grand Canyon University - Accredited Christian School in Phoenix, AZ
+# Privacy Policy | Grand Canyon University
 
 **Effective Date: June 19th, 2008**
 
@@ -33,6 +33,8 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 We may disclose personal information to (i) third parties who perform tasks on the University’s behalf, and (ii) to other third parties engaged by the University in the ordinary course of business provided that the third party agrees (1) to provide adequate protections for your personal information that are no less protective than those set out in this privacy policy, and (2) to use the personal information only for the purposes for which the third party has been engaged by Grand Canyon University. 
 
 We may also disclose personally identifiable information in response to valid legal process such as a court order or a subpoena, in response to a law enforcement agency’s request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company, or if our assets are acquired by another entity.
+
+We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt‐Out, of FetchBack Retargeting, please click here. Visit the Network Advertising Initiatives Opt‐Out by clicking here. 
 
 **Opt-Out**
 
