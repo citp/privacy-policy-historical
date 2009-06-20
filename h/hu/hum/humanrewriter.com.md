@@ -1,0 +1,43 @@
+> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620162328id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
+
+# Human Rewriter - Human Powered Content Spinner
+
+[HumanRewriter.com](http://www.humanrewriter.com/) is committed to protecting your privacy and personal information when you access our website and software. This policy governs how we treat personal information that is collected when you visit or subscribe to services offered at our site. 
+
+**Information we collect**
+
+When you make a purchase at our website, the only information we ever collect is your full name, email address, and purchase date. All personal information such as credit card information, zip code and location is collected and stored by our third party payment processor, who maintains a strict privacy policy governing the use of said information. We will only contact you about matters relating to your order, your email will not be sold or shared. 
+
+**How information we collect is used**
+
+We may use information we collect to:
+
+1\. To process and validate purchase information.  
+2\. To notify you of any product upgrades, bugs, or new versions.  
+3\. To verify that you are a registered customer.
+
+We may disclose your information if required to do so by any government or law enforcement official. 
+
+**Cookies**
+
+We define a cookie as a small text file of information placed on your hard drive automatically when visiting our site. All cookies used on our site contain no personally identifiable information and are used to make your browsing experience better, or to allow proper tracking of any visitors sent to us by sales partners. 
+
+**Security**
+
+Any information collected about you is stored on limited access servers, and we maintain rigorous safeguards to prevent against any unauthorized intrusion to these servers. The only information stored about you is your full name, email address, and purchase date. 
+
+**Links**
+
+We may at times provide you with links to other websites which are not under the control of our company. Please be aware that the sites are not governed by this privacy policy, and all may provide different policies at their respective websites. 
+
+**Policy Modifications**
+
+We may change this privacy policy at any time without notice to you in order to provide your information with better protection or to reflect our company practices. 
+
+**Acceptance of Terms**
+
+By using this website, you are consenting to this privacy policy and acceptance of the information described above. 
+
+If you have any questions regarding the privacy policy or terms described above, please contact us at [support@HumanRewriter.com](mailto:support@HumanRewriter.com)
+
+HumanRewriter.com is a registered trademark of YellowDot Software, LLC 
