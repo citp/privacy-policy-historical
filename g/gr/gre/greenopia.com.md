@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220152434id_/http%3A//www.greenopia.com/USA/greenopia_area.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203203id_/http%3A//www.greenopia.com/USA/greenopia_area.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # G r e e n o p i a
 
@@ -16,7 +16,7 @@ We also collect and store information about you and your visits to our site usin
 **Using Your Information  
 ** Greenopia does not sell, rent, trade, use, or otherwise share your personal information without your consent except in accordance with this policy. 
 
-Only registered users that have accepted our [Terms of Use](https://web.archive.org/web/20081220152434id_/http%3A//www.greenopia.com/USA/terms_of_use.aspx) may place content on our website. If you create a personal profile or contribute to listings or forums on our website, the information you voluntarily make available (e.g., comments, profiles, pictures or screen names) will be accessible by the general public and may be shared freely. Greenopia allows this information to be displayed for the sole purpose of facilitating interaction among our users and visitors. We cannot control misuse of publicly-available information by others. We therefore urge you to exercise caution when posting information to message boards or other public forums available on our website. 
+Only registered users that have accepted our [Terms of Use](https://web.archive.org/web/20090620203203id_/http%3A//www.greenopia.com/USA/terms_of_use.aspx) may place content on our website. If you create a personal profile or contribute to listings or forums on our website, the information you voluntarily make available (e.g., comments, profiles, pictures or screen names) will be accessible by the general public and may be shared freely. Greenopia allows this information to be displayed for the sole purpose of facilitating interaction among our users and visitors. We cannot control misuse of publicly-available information by others. We therefore urge you to exercise caution when posting information to message boards or other public forums available on our website. 
 
 Personal information that we collect about you during the registration process, such as your name, email address, and zip code, is used for authentication, to communicate with you regarding technical issues, to send you our monthly newsletter, and to help us focus the information displayed on our website on that which is most appropriate to your geographic region. We also use this information to notify you about special offers that may be forthcoming or products and services offered by our affiliates or other third parties that relate to your specific interests, hobbies, or other information you have provided. To maintain this website and for internal business purposes, we may share your personal information with our affiliates, business partners, and others who do work for us such as service providers, vendors, contractors and agents, including information technology service providers. 
 
@@ -54,6 +54,6 @@ To reiterate, third-party advertising companies such as Lime and any advertiseme
 **Asking Questions  
 ** If you have questions or concerns about our privacy practices or data use, or wish to change your options, please email us at [info@greenopia.com](mailto:info@greenopia.com). 
 
-Published on [ Greenopia.com TM ](https://web.archive.org/web/20081220152434id_/http%3A//www.greenopia.com/USA/www.greenopia.com)  
+Published on [ Greenopia.com TM ](https://web.archive.org/web/20090620203203id_/http%3A//www.greenopia.com/USA/www.greenopia.com)  
 Privacy Policy   
 Revised December 2007 
