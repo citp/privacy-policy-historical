@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219031707id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620072642id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Health Insurance Australia - privacy policy
 
@@ -11,7 +11,7 @@
 
 ## Privacy Policy
 
-Australian Health Management Group Limited (ahm) is subject to the Privacy Act 1988 and complies with the principles for handling your personal information. 
+Australian Health Management Group Pty Limited (ahm) is subject to the Privacy Act 1988 and complies with the principles for handling your personal information. 
 
 You can contact us anonymously. However, if you choose not to be identified we are very limited in our ability to insure you, pay claims or offer you services. 
 
@@ -40,7 +40,7 @@ If you want to complain about an interference with your privacy by ahm, you can 
 Director of Complaints, Office of the Federal Privacy Commissioner, GPO Box 5218, Sydney NSW 1042.   
 Telephone: 1300 363 992 
 
-Web site information collection and dissemination practices 
+### Web site information collection and dissemination practices 
 
 We use your IP (Internet Protocol) address to help diagnose problems with our server and to administer our web site. We analyse our web site logs to improve the relevance of content featured on the site. While these logs are IP identifiable, no attempt is made to link them with any individuals that browse the site. The site uses cookies simply to ensure a persistent client state. We also send session numbers and keys as cookies to ensure that your connection, when using our online services, is kept as secure as possible. 
 
@@ -80,7 +80,7 @@ Back to top
 
 ### Australian Spam Legislation
 
-Australian Health Management Group Limited (ahm) is committed to only sending commercial electronic messages with consent and to complying with the Commonwealth Spam Act 2003 
+Australian Health Management Group Pty Limited (ahm) is committed to only sending commercial electronic messages with consent and to complying with the Commonwealth Spam Act 2003 
 
 ### What is Spam?
 
