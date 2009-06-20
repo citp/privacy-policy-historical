@@ -1,183 +1,52 @@
-> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2007-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070127102045id_/http%3A//bimedia.ftp.clickability.com/ketkwebftp/legaldocuments/ketk_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090451id_/http%3A//www.ketknbc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | KETKnbc.com | The News Station
 
-Privacy Policy
-At KETK and ComCorp of Tyler, Inc., we are committed to protecting the privacy, accuracy
-and reliability of any personal information you choose to provide and to safeguarding
-such information from loss, misuse, unauthorized access, disclosure, alteration and
-destruction. This privacy policy applies to those Web sites that are part of the KETK and
-ComCorp of Tyler, Inc.
-Please read this privacy policy carefully. This privacy policy may change from time to time,
-so please check back often. If you have any questions or comments regarding this privacy
-policy, please contact us by sending an e- mail message to feedback@nbc56.com
-Collection of Personal Information
-You do not need to provide any information that identifies you ("personal information") to
-use a KETK and ComCorp of Tyler, Inc., site or to obtain information from most of the
-features of a KETK and ComCorp of Tyler, Inc., site. In general, you can visit our Web sites
-without telling us who you are or revealing any personal information.
-However, if you want to use certain online services, you may be asked to provide some
-personal information, such as your name, mailing address or e- mail address. We also may
-ask you to choose a user name and password and provide that information when
-accessing certain online features. If you do not want to give us any personal information,
-you can always decide not to use the services. The choice is yours. We are only interested
-in offering you convenient online services that match your interests and needs.
-Some examples of when we may request personal information include the following:
-Polls. Many KETK and ComCorp of Tyler, Inc., sites offer polling areas, which provide
-users with an opportunity to vote on local and national issues of concern. When you
-choose to participate in a poll, we may ask you to provide your name and e- mail address.
-This information helps us ensure the accuracy of our polling data.
-Surveys. KETK and ComCorp of Tyler, Inc., sites also may allow users to complete surveys
-about products or services offered by KETK and ComCorp of Tyler, Inc., or other
-companies. These surveys may ask for your name and e- mail address, and/or other
-information, such as your gender and income level. This information helps us understand
-our survey results.
-Contests/Trivia. KETK and ComCorp of Tyler, Inc., sites also afford users many
-opportunities to play contests or trivia games. When you enter into a contest, trivia game
-or any other promotional item, we may ask for your name, password information and
-address (physical and electronic) so that we can contact you if you win. Sometimes we may
-require you to provide additional information, such as your gender and income level. Of
-course, if you do not want to provide such information, you do not need to participate in
-the online activity.
-Purchases. Some KETK and ComCorp of Tyler, Inc., sites enable users to purchase
-products. When you purchase products, we may request your name, address, telephone
-number and credit card information. This information allows us to send you the items you
+#### Effective Date: October 13th, 2008
+
+The following Privacy Policy governs the online information collection practices of KETKnbc.com ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the KETKnbc.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+
+### How We Collect and Use Information
+
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site).
+
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
+
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy.
+
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
+
+We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
+
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site or the public.
+
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+### Children's Privacy Statement
+
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information.
 
 
-ordered, to process payment information, and to respond to product and billing
-questions.
-Chat/Message Boards. KETK and ComCorp of Tyler, Inc., sites also may offer users the
-chance to participate in public forums, such as chat rooms, message boards and/or news
-groups. When you choose to participate in any of these forums, we may request your
-name, password information and address (physical and electronic). This information helps
-us respond to questions or concerns about use of these public areas.
-Comments/Questions. You may send us comments or questions about your use of the
-KETK and ComCorp of Tyler, Inc., site. You need not identify yourself to send a comment
-or question, but we may collect your e- mail address so that we can send you a response.
-If you choose to provide other personal information in your comment or question, we may
-keep it in our correspondence files.
-__________________________________________
-The above list contains some of the instances when the KETK and ComCorp of Tyler, Inc.,
-Web site may collect your personal information. Please note that many of our Web sites
-may offer additional online features and services and may ask you to provide some
-personal information before permitting you to access those areas. This privacy policy
-governs the collection of any personal information you provide to a KETK and ComCorp of
-Tyler, Inc., site that is part of the KETK and ComCorp of Tyler, Inc.
-Use and Disclosure of Personal Information
-The KETK and ComCorp of Tyler, Inc., website uses your personal information for three
-general purposes. First, we use the information to provide you with the services you
-request and to respond to billing and/or other questions related to such service offerings.
-Second, we use the information to understand your use of our Web sites and to notify you
-about updates to one of our sites or to send you marketing materials or promotional
-offers that may be of interest. Third, we may use this information in aggregate form to
-help us evaluate and modify existing services and to help us develop additional services
-that are likely to be of interest to our users.
-We may share your personal information with unaffiliated third parties in limited
-instances. For example, we may share your personal information with unaffiliated third
-parties as is necessary to process or collect payments, or service registered- user
-accounts. We also may hire third- party technology providers to host the KETK and
-ComCorp of Tyler, Inc., and to store your personal information.
-We may also share aggregate, non- personal information about Web site usage with
-unaffiliated third parties, including, but not limited to, government agencies, advertisers
-and the media (i.e., __% of KETK and ComCorp of Tyler, Inc. website users are female, __%
-of users have visited certain sections, etc.). This aggregate information does not contain
-any personal information about our users.
-Finally, we may be required to disclose personal information by law or legal process, to
-protect and defend the rights or property of a KETK and ComCorp of Tyler, Inc., site, or to
-protect the personal safety of users to one of our sites. We also reserve the right to
-contact appropriate authorities when activities that are illegal or violate our policies are
-taking place on the KETK and ComCorp of Tyler, Inc., web site.
 
+### How To Make Changes to Your Information
 
-Except under the limited circumstances described above, we will not disclose any of your
-personal information to unaffiliated third parties.
-How We Protect Personal Information
-We take reasonable measures to protect the privacy, accuracy, and reliability of any
-information you choose to provide and to protect such information from loss, misuse,
-unauthorized access, disclosure, alteration and destruction. Only authorized employees
-are permitted to access personal information, and they only may do so for permitted
-business functions. Any employee who violates our privacy access policies will be subject
-to disciplinary action.
-Accessing or Deleting Your Personal Information
-If you have submitted personal information through a KETK and ComCorp of Tyler, Inc.,
-web site and you would like to access that information, please send an e- mail to
-feedback@nbc56.com. We will use reasonable efforts to supply you with this information
-and to correct any factual inaccuracies that you identify. Upon your request, we also will
-remove your personal information from our databases.
-Collection, Use and Disclosure of Non- Personal Information
-In some cases, a KETK and ComCorp of Tyler, Inc., site may collect information about you
-that is not personally identifiable, as described below.
-Internet Protocol Addresses
-An Internet Protocol (IP) address is a number automatically assigned to your computer
-whenever you access the Internet. This number does not identify your name, e- mail
-address or other personal information. If you request pages from any KETK and ComCorp
-of Tyler, Inc., web site, that site's server will enter your IP address into a log. To maintain
-user anonymity, KETK and ComCorp of Tyler, Inc., does not associate IP addresses with
-records containing personal information. We also do not permit IP addresses to be
-associated and viewed with posts to chat rooms and bulletin boards. We store IP
-addresses for a period of time to help us to identify anyone who refuses to comply with
-our in- house rules or terms of service, and to identify visitors who threaten our service,
-site, customers or others. We also will use this information to measure site traffic for
-purposes of system administration and for our sponsors. This aggregate data also helps
-us to understand how people are using the Web site and helps us improve your online
-experience.
-Cookies
-KETK and ComCorp of Tyler, Inc., sites also automatically gather certain non- personal
-information through the use of "cookies." "Cookies" are small text files that recognize
-repeat visitors, facilitate ongoing access to some sites, and allow sites to understand how
-and when pages are visited and by how many people. We use cookies primarily to make
-improvements and updates based on which areas are popular and which are not. We also
-use cookies to ensure the accuracy of our polling data. Except for personal information
-voluntarily provided by you (i.e., during any registration process), we do not use
+If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting your profile page.
 
+### Questions Regarding Privacy
 
-information transferred through cookies for promotional or marketing purposes, and that
-information is not shared with third parties.
-Our advertisers may occasionally place cookies on your computer, which is standard in the
-Internet industry. Please note that KETK and ComCorp of Tyler, Inc., does not control
-these cookies, and these cookies are not subject to this privacy policy.
-Safeguarding Children's Privacy
-KETK and ComCorp of Tyler, Inc., sites will not knowingly collect personal information or
-any other identifying data from children under 13 years of age without first obtaining
-verifiable consent from a parent or legal guardian. Requests for parental consent will
-explain how we collect, use, and disclose children's personal information, and will include
-an opportunity for parents to prevent use of their children's information, as well as to
-prevent their children from participating in features which involve the collection of
-personal information. Should a child whom we know to be under 13 send personal
-information to a KETK and ComCorp of Tyler, Inc., site without first obtaining parental
-consent, the site will immediately delete that information from its database.
-We will not use, distribute or disclose any child's personal information to third parties
-without prior parental consent. If, at any time, a parent withdraws his or her consent to
-our use or maintenance of personal information collected from his or her child, we will
-promptly remove such information from our database. In addition, we will not require
-children under 13 years of age to disclose more personal information than is necessary in
-order to participate in any online feature or service.
-External Links
-KETK and ComCorp of Tyler, Inc., sites may provide links to various Web sites. When you
-click on one of these links, you will be transferred from a KETK and ComCorp of Tyler,
-Inc., web site and connected to the Web site of the organization or company that you
-selected. Even if an affiliation exists between KETK and ComCorp of Tyler, Inc., and a
-third - party Web site, KETK and ComCorp of Tyler, Inc., exercises no control over linked
-sites. Each of these linked sites maintains its own independent privacy and data collection
-policies and procedures. If you visit a Web site that is linked to a KETK and ComCorp of
-Tyler, Inc., site, you should consult that site's privacy policy before providing those sites
-with any of your personal information.
-Terms, Changes and Questions
-By using a KETK and ComCorp of Tyler, Inc., Web site, you signify your agreement to the
-terms of our privacy policy. If you do not agree with these terms, please do not use or
-disclose any personal information through one of our sites.
-If we decide to change this privacy policy, we will post those changes here so that you will
-always know what information we gather, how we might use that information, and
-whether we will disclose it to anyone.
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:
 
-
-If you have any questions or comments about this policy or our use of personal
-information, you may send an e- mail to feedback@nbc56.com or send a letter to the
-following address:
-KETK- TV
-Attn: KETK- TV, Feedback
-4300 Richmond Rd., Tyler, TX 75703
-We will use reasonable efforts to promptly investigate any complaint you may have
-regarding our use of personal information. KETK and ComCorp of Tyler, Inc. Sites:
-www.ketknbc.com
-Copyright © 2006 ComCorp of Tyler, Inc. All rights reserved.
+KETK-TV
+    4300 Richmond Road  
+Tyler, Texas 75703
