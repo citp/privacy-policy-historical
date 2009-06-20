@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913034219id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620082754id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
 Hot Hot Neuron LLC respects your privacy and we have drafted this document to try to address any concerns that you may have about the information we collect and how it is used on MagPortal.com. Hot Neuron LLC may revise this Privacy Policy at any time without notice. It is your responsibility to check this policy periodically. 
 
-_Last revised: $Date: 2005/03/24 21:29:27 $_
+_Last revised: $Date: 2009/03/14 03:44:03 $_
 
 **What personally identifiable information is collected?**  
 We do not currently require users to provide any personally identifying information (name, email address, street address, etc.) to use the MagPortal.com service. In the future, we may require such information in exchange for providing additional services, such as but not limited to: delivery of physical products, entrance into a sweepstakes, or the privilege of posting on message boards. If you send correspondence to us, we may store a copy (which means that we will have your email address and name). 
@@ -25,6 +25,8 @@ The MagPortal.com site records the IP addresses of people using the site. This i
 
 **Advertisers and Third Parties**  
 Please be aware that advertisers on MagPortal.com and third party sites which MagPortal.com links to are not subject to the MagPortal.com privacy policy. Our advertisers may use cookies for various reasons. They may, for example, use cookies to avoid showing you the same advertisement many times, to measure which ads you respond to, or to track your behavior when you leave the MagPortal.com site. 
+
+Google, as a third party vendor, uses cookies to serve ads on MagPortal.com. Google's use of the DART cookie enables it to serve ads to you based on your visit to MagPortal.com and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 Hot Neuron LLC does not provide personally identifying information (e.g. your name, email address, etc.) that we collect from you (for example from feedback which you email to us or your subscription to our mailing lists) to third parties unless it is with your explicit consent (generally for the purpose of providing an additional contracted or co-branded service) or if we believe in good faith that it is necessary for the enforcement of the law or our [Terms of Use](https://web.archive.org/help/terms.html) agreement. We do not rent or sell your personal information. 
 
