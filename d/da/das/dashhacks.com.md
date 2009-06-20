@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dashhacks.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221023810id_/http%3A//www.dashhacks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashhacks.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620045405id_/http%3A//www.dashhacks.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Dashhacks Inc.
+# Privacy Policy | the Dashhacks Network
 
 Privacy Policy for www.dashhacks.com and all sites within the dashhacks network.
 
