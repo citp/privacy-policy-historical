@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220222408id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202222id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
 
-# CBSE Online TuTorials, CBSE Online study, CBSE Online tutoring
+# CBSE TuTorial's Online, CBSE Maths, CBSE Science -Class X, Class IX, Class VIII , Class VII, Class VI
 
-By using our Web site hosting service, you agree to comply with our policies. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+By using our Web site, you agree to comply with our policies. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 **What Information Do we Collect?**
 
