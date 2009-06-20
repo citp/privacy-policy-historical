@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219083204id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620152125id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
 
 # CarJunky.com - Privacy Statement
 
@@ -34,8 +34,11 @@ We do not sell the information obtained from our user. This includes emails, add
 
 ## Information Contained on the Site
 
-  
-Copyright �1999-2006 by CARJUNKY�, all rights reserved. CARJUNKY® is a trademark of CARJUNKY.com. All other trademarks, tradenames and/or service marks are the property of their respective holders. Although all information and prices contained herein are obtained from sources deemed to be reliable, CARJUNKY� assumes no responsibility for the accuracy of the information and no liability for any errors and/or omissions. Even though forum members are here on their free will please double check with a professional of the the information found herein. All information is subject to change without notice. For legal Advice please seek professional advice. 
+Copyright �1999-2009 by CARJUNKY®, all rights reserved. CARJUNKY®,Carjunkies® are registered trademarks of CARJUNKY.com. All other trademarks, tradenames and/or service marks are the property of their respective holders. Although all information and prices contained herein are obtained from sources deemed to be reliable, CARJUNKY® assumes no responsibility for the accuracy of the information and no liability for any errors and/or omissions. Even though forum members are here on their free will please double check with a professional of the the information found herein. All information is subject to change without notice. For legal Advice please seek professional advice. 
+
+## Third Party Advertisers "Google"
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 ## Choice/Opt-Out
 
