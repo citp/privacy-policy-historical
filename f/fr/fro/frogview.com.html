@@ -1,0 +1,340 @@
+<!--The following is the downloaded HTML source of the frogview.com privacy policy that was archived on 2009-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620062224id_/http%3A//www.frogview.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>::Frogview.com::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="images/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+netscape = "";
+//nextfield = "senderId";
+ver = navigator.appVersion; len = ver.length;
+
+for(iln = 0; iln < len; iln++) if (ver.charAt(iln) == "(") break;
+
+netscape = (ver.charAt(iln+1).toUpperCase() != "C");
+
+function keyDown(DnEvents) {
+
+	k = (netscape) ? DnEvents.which : window.event.keyCode;
+
+	if (k == 13) {
+
+		if (nextfield == 'submit'){
+
+			blank();
+
+			return true;
+
+		}
+
+		else {
+
+			eval('document.contact_form.' + nextfield + '.focus()');
+
+			return false;
+
+		}
+
+	}
+
+}
+
+
+
+document.onkeydown = keyDown;
+
+if (netscape) document.captureEvents(Event.KEYDOWN|Event.KEYUP);
+//-->
+</script>
+
+<script language="JavaScript">
+//function for mail validation
+function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail ID")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail ID")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail ID")
+		    return false
+		 }
+
+ 		 return true
+	}
+
+function edit_profile()
+{
+
+var emailVal,descriptVal;
+
+emailVal= document.contact_form.senderId.value;
+descriptVal = document.contact_form.message.value;
+
+
+
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?1234567890";
+//var alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+
+if(emailVal == "")
+{
+     alert("Please Enter Your E-mail");
+     document.contact_form.senderId.focus();
+     return false;
+}
+else if(echeck(emailVal)==false)
+{
+		document.contact_form.senderId.focus()
+		return false
+
+}
+else if(descriptVal == "")
+{
+     alert("Please enter your message");
+     document.contact_form.message.focus();
+     return false;
+}
+else
+{
+//document.custSupport.submit();
+return true;
+}
+}
+//-->
+</script>
+</head>
+
+<body background="images/pg_bg2.jpg" topmargin="0">
+<table width="860" border="0" align="center" cellpadding="0" cellspacing="0" class="bdr">
+  <tbody><tr> 
+    <td bgcolor="#FFFFFF"><table width="823" border="0" align="center" cellpadding="0" cellspacing="0">
+
+          <tbody><tr> 
+            
+          <td>
+
+
+<title>:: www.frogview.com :&gt; The Ultimate Mail Collection</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="251" height="90"><a href="index.php"><img src="images/frogview_logo1.jpg" border="0"></a></td>
+    <td width="100">&nbsp;</td>
+    <td width="100">&nbsp;</td>
+    <td align="right" valign="top"> <!--/----------------------------------------Clicksor CPM banner---------------------->
+        <iframe src="clicksor428x60.html" width="500" height="80" frameborder="0" scrolling="NO" align="TOP"> </iframe>
+<!--/----------------------------------------Clicksor CPM banner---------------------->
+      <br>
+      <table border="0" cellpadding="0" cellspacing="0" class="textnormalbluesmall">
+        <tbody><tr>
+          <td width="60" height="1" align="center">&nbsp;&nbsp;<a href="admin_index.php" class="textnormalbluesmall">Sign In</a> </td>
+          <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+          <td width="45" height="1" align="center"><a href="faq.php" class="textnormalbluesmall">FAQ's</a></td>
+          <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+          <td width="65" height="1" align="center"><a href="aboutus.php" class="textnormalbluesmall">About Us </a></td>
+          <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+          <td width="70" height="1" align="center"><a href="contactus.php" class="textnormalbluesmall">Contact Us</a></td>
+        </tr>
+        <tr>
+          <td height="5" colspan="3" align="center" class="greenGrey10"><img src="images/spacer.gif" width="1" height="5"> 
+        </td></tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+</td>
+          </tr>
+          <tr> 
+            <td background="images/hed_bdrBg.gif"><img src="images/spacer.gif" width="1" height="8"></td>
+          </tr>
+          <tr> 
+            <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="3" align="left"><img src="images/hd_left.gif" width="4" height="40"></td>
+                  <td align="right" background="images/hd_bg.jpg"><table width="246" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="12"><img src="images/arrow_small.gif" width="8" height="7"></td>
+                      <td width="60"><a href="index.php" class="txtBlue11bld1">Mailbox</a></td>
+                      <td width="12"><img src="images/arrow_small.gif" width="8" height="7"></td>
+                      <td width="60"><a href="gallery.php" class="txtBlue11bld1">Gallery</a></td>
+                      <td width="12"><img src="images/arrow_small.gif" width="8" height="7"></td>
+                      <td width="90"><a href="admin_index.php" class="txtBlue11bld1">Mail Upload</a></td>
+                    </tr>
+                  </tbody></table></td>
+                  <td width="3" align="right"><img src="images/hd_rgt.gif" width="4" height="40"></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr> 
+            <td><img src="images/spacer.gif" width="1" height="3"></td>
+          </tr>
+          <tr> 
+            
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td height="400" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td height="30" align="center" class="txtBldred">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td align="right"> 
+                          <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="bdrGrn">
+                            <tbody><tr> 
+                              <td height="25" background="images/greyhd_bg.jpg">&nbsp;</td>
+                            </tr>
+                            <tr> 
+                              <td height="200" valign="top" bgcolor="#F9F9F9">
+							  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody><tr> 
+                                     
+                                  <td height="30" bgcolor="#E5EFEA" class="txtBluebld14"> 
+                                    &nbsp;&nbsp;<img src="images/arrow_small.gif" width="8" height="7">&nbsp;<span class="txBlue12bld">Privacy 
+                                    Policy </span></td>
+                                  </tr>
+                                  <tr> 
+                                    <td height="1" align="center" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+                                  </tr>
+                                  <tr> 
+                                    
+                                  <td height="50" align="center">&nbsp;<table width="80%" border="0" cellspacing="0" cellpadding="0" class="txtblknormal">
+                                      <tbody><tr>
+                                        <td><div align="justify">Frogview.com has created this privacy 
+                                            statement in order to demonstrate our 
+                                            firm commitment to privacy. <br> 
+                                            <br>
+                                            <span class="txtBlue12bld1">General</span><br>
+                                            Frogview.com has no responsibility for content on other web sites that you may find or access when using Frogview.com’s services. Material available on or through other web sites may be protected by copyright and the intellectual property laws of the United States and/or other countries. Any infringements of such kind should be brought to our attention by an authorized person, and the offending material will be removed immediately.<br>                                          
+                                            <br> 
+                                            <span class="txtBlue12bld1">Personal 
+                                            Information</span><br>
+                                            Frogview.com shall not reveal any personal information that users provide to us, to any third party without the users' permission, unless, frogview.com has a reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Use, or may be causing injury to, or interfering with the rights or property of itself, other users, or anyone else that could be harmed by such activities.
+                                            <br> 
+                                            <br> 
+                                            <span class="txtBlue12bld1">External 
+                                            Links</span><br>
+                                            Frogview.com is not responsible for 
+                                            the privacy practices employed by advertisers 
+                                            or sites to which links are provided 
+                                            by frogview.com<br>
+                                            <br> 
+                                            <span class="txtBlue12bld1">Advertisers 
+                                            </span><br>
+                                            We use outside ad companies to display 
+                                            ads on our site. These ads may contain 
+                                            cookies and the cookies received with 
+                                            such ads are collected by those companies, 
+                                            we do not have access to this information.<br>
+                                            <br> 
+                                            <span class="txtBlue12bld1">Contacting 
+                                            the Web Site</span><br>
+                                            Information provided by all Users needs 
+                                            to be true, accurate, current and complete 
+                                            as required by the registration form 
+                                            and promptly updated to keep it true, 
+                                            accurate, current and complete. The 
+                                            privacy policy covers exchanges of personally 
+                                            identifiable information within sites 
+                                            of frogview.com. If you have any 
+                                            questions or comments regarding your 
+                                            privacy at frogview.com, please e-mail 
+                                            us to:<a href="mailto:webmaster@frogview.com">webmaster@frogview.com</a><br>
+                                            <br>                                          
+                                          </div></td>
+                                      </tr>
+                                    </tbody></table>
+                                    <br>
+                                    <br>
+                                    <p></p></td>
+                                  </tr>
+                                </tbody></table></td>
+                            </tr>
+                            <tr> 
+                              <td bgcolor="#99CCFF" background="images/pg_bg2.jpg"><img src="images/spacer.gif" width="1" height="6"></td>
+                            </tr>
+                          </tbody></table>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td>&nbsp;</td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top" background="images/hed_bdrBg.gif"><img src="images/spacer.gif" width="1" height="8"></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+		  <tr> 
+            <td height="20" align="center" valign="top">
+<table width="320" border="0" cellpadding="0" cellspacing="0" class="textnormalbluesmall">
+  <tbody><tr> 
+    <td height="8" colspan="7" align="center" class="greenGrey10"><img src="images/spacer.gif" width="1" height="8"></td></tr>
+  <tr> 
+    <td width="60" height="1" align="center"><a href="index.php" class="textnormalbluesmall">Home</a></td>
+    <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"> 
+    </td><td width="60" height="1" align="center"><a href="faq.php" class="textnormalbluesmall">FAQ's</a></td>
+    <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+    <td width="90" height="1" align="center">&nbsp;&nbsp;<a href="privacy.php" class="textnormalbluesmall">Privacy 
+      Policy</a> </td>
+    <td width="1" height="1" background="images/green_bdrline.jpg"><img src="images/spacer.gif" width="1" height="1"></td>
+    <td width="80" height="1" align="center"><a href="contactus.php" class="textnormalbluesmall">Contact 
+      Us</a></td>
+  </tr>
+  <tr> 
+    <td height="20" colspan="7" align="center" class="greenGrey10">Copyright © 
+      2008 Frogview.com. All rights reserved.</td>
+  </tr>
+</tbody></table>
+</td>
+          </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
