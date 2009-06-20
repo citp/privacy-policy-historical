@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220165701id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620231125id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
 
 # Inyo Pool Products - Inyo Pool Products
 
