@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220024134id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artisticthreadworks.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620191432id_/http%3A//www.artisticthreadworks.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,4 +10,4 @@ In order to provide visitors with greater value, some of our pages may provide l
 We provide our subscribers with a multi-tiered Discussion Forum that makes sharing information with other subscribers easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed. However, remember that any information you disclose in the message board areas can be read by all other subscribers, so exercise caution when deciding to disclose your personal information. **Security**  
 We use a variety of security measures including encryption and authentication from Thawte to protect the loss, misuse and alteration of your personal information under our control. **Choice/Opt-In**  
 Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications. **Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20081220024134id_/http%3A//www.artisticthreadworks.com/public/7.cfm).
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20090620191432id_/http%3A//www.artisticthreadworks.com/public/7.cfm).
