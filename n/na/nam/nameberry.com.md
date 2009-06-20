@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220193042id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193419id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
 
 # Nameberry - Privacy PolicyBooks
 
@@ -16,7 +16,7 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-From time to time we may use content from message board postings, comments on blog posts, bulletin boards, or public chat rooms ("User Submissions") in our blog and newsletter on an anonymous basis. For clarity, you retain all of your ownership rights in your User Submissions. However, by submitting User Submissions to NameBerry.com, you hereby grant NameBerry a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Submissions in connection with the Nameberry.com Website and related properties.
+From time to time we may use content from message board postings, comments on blog posts, bulletin boards, or public chat rooms ("User Submissions") in our blog, newsletter, books, articles, and other works on an anonymous basis For clarity, you retain all of your ownership rights in your User Submissions. However, by submitting User Submissions to NameBerry.com, you hereby grant NameBerry a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Submissions in connection with the Nameberry.com Website and related properties.
 
 Like many other Web sites, www.nameberry.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
