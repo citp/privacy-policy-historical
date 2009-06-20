@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2008-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080829175352id_/http%3A//www.digitalpacific.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620033535id_/http%3A//www.digitalpacific.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Digital Pacific Privacy Policy
 
