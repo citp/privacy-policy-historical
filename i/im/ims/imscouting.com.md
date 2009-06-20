@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imscouting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153557id_/http%3A//www.imscouting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imscouting.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620230825id_/http%3A//www.imscouting.com/privacy.aspx) for the most accurate reproduction.*
 
 # IMScouting - Every player, anywhere | e-Scouting for professionals | Professionals Player information
 
