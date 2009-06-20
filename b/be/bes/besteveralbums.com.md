@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218231840id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620142100id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
 
 # Best Ever Albums - The Greatest Music Albums of All Time
 
@@ -44,5 +44,3 @@ This privacy policy was last modified on January 3rd, 2006. BestEverAlbums.com m
 
 **Contact Details**  
 Email the site administrator, webmaster at besteveralbums dot com.
-
-If you spot an incorrect spelling, track-listing, year of release, incorrect album artwork etc; please let us know in the [suggestions forum](https://web.archive.org/web/20081218231840id_/http%3A//www.besteveralbums.com/phpBB2/viewforum.php?f=2) and we'll correct the problem.
