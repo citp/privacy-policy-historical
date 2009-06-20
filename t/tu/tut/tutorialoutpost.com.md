@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220101448id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065707id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Tutorial Outpost - Photoshop Tutorials, Flash Tutorials, and more!
 
