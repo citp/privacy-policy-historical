@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xvideostation.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182524id_/http%3A//www.nextdooramateur.com/customersupport.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideostation.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071805id_/http%3A//www.nextdooramateur.com/customersupport.htm) for the most accurate reproduction.*
 
 # Next Door Amateur
 
