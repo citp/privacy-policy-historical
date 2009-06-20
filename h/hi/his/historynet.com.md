@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220000929id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620142256id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
 
 # Weider History Group Privacy Policy » HistoryNet
 
