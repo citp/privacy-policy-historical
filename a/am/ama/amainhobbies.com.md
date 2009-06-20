@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205030833id_/http%3A//www.amainhobbies.com/information.php/info_id/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amainhobbies.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062452id_/http%3A//www.amainhobbies.com/information.php/info_id/2) for the most accurate reproduction.*
 
 # A Main Hobbies
 
@@ -12,5 +12,5 @@ All sensitive personal or financial information is transmitted using a **secured
 Please Note: **We screen diligently for Credit Card fraud!** We pursue all legal avenues - advise credit card companies, credit bureaus, and law authorities regarding any suspicious, attempted, or experienced credit card fraud.   
 
 
-[ ](https://www.securitymetrics.com/site_certificate.adp?s=74%2e205%2e60%2e186&i=85013)   
+  
 
