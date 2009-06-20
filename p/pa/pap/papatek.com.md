@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papatek.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220001505id_/http%3A//www.papatek.com/Papatek/Customer-Service/5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papatek.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620081416id_/http%3A//www.papatek.com/Papatek/Customer-Service/5.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,5 +49,5 @@ We may change this policy from time to time. All amended terms will take effect 
 If you have any questions about this privacy policy or the practices of the Papatek.com, you may e-mail our Privacy Department or contact:
 
 Papatek Inc.  
-2522 Seaboard Ave,San Jose, CA 95131   
+700 Aldo Ave, Santa Clara, CA 95054  
 U.S.A.
