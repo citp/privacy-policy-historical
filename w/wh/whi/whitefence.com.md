@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitefence.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218064540id_/http%3A//www.whitefence.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitefence.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054539id_/http%3A//www.whitefence.com/corporate/privacy) for the most accurate reproduction.*
 
 # WhiteFence Privacy and Security Statement
 
