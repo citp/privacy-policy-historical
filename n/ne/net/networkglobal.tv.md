@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222072202id_/http%3A//www.networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621003335id_/http%3A//networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Network Global
 
