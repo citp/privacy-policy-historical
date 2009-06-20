@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imcpl.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218023933id_/http%3A//imcpl.org/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imcpl.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065539id_/http%3A//www.imcpl.org/privacystatement.html) for the most accurate reproduction.*
 
 # Indianapolis-Marion County Public Library E-Privacy Statement
 
@@ -44,6 +44,6 @@ IMCPL's web site contains links to other web sites. IMCPL is not responsible for
 
 ### Whom to Contact
 
-Further questions? Contact the [IMCPL Webmaster](https://web.archive.org/web/20081218023933id_/http%3A//imcpl.org/dearwebmaster.html).
+Further questions? Contact the [IMCPL Webmaster](https://web.archive.org/web/20090620065539id_/http%3A//www.imcpl.org/dearwebmaster.html).
 
 _revised May 1, 2006_
