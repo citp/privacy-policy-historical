@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221215717id_/http%3A//fwnextweb1.fortwayne.com/fwngeneral/text/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortwayne.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620085308id_/http%3A//fwnextweb1.fortwayne.com/fwngeneral/text/terms.php) for the most accurate reproduction.*
 
-# Fort Wayne
+# FortWayne.com : Fort Wayne news, sports, jobs, homes, cars
 
 **Privacy Policy**
 
