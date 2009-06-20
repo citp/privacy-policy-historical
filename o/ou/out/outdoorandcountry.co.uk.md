@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218103215id_/http%3A//www.outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620034932id_/http%3A//outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # The Outdoor & Country Store
 
