@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224095247id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621004641id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # IBSystems, Inc., Privacy Policy
 
@@ -64,5 +64,5 @@ IBS will not monitor or disclose any private e-mail message or address informati
 
 Internet Business Systems, Inc.   
 Privacy Policy Issues   
-Phone: 888-44-WEB-44   
+Phone: +1 (408) 850-9202   
 [Contact Us](http://www10.aeccafe.com/common/request_form/request_form.php?subject=Privacy+Policy+Issues&email=cHJpdmFjeUBpYnN5c3RlbXMuY29t&attach=no)
