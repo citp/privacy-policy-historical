@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002124837id_/http%3A//www.travelingmom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelingmom.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620082049id_/http%3A//travelingmom.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Traveling Mom - Privacy Policy
+# Privacy Policy
 
 Travelingmom™ Privacy Policy
 
@@ -11,7 +11,7 @@ Travelingmom™ is designed to be a welcoming, safe site for you and your family
     * You will have a choice as to whether or not we use your information in that different manner.  
     * If you ever want us to stop contacting you, just let us know and we will stop immediately after we have confirmed your decision.
 
-If at any time you have concerns about how the personal information you have provided us is being used, please contact us at [webmaster@travelingmom.com.](mailto:webmaster@travelingmom.com.) If we do not provide you with an adequate response, let me know [korlando@travelingmom.com](mailto:korlando@travelingmom.com), and I will personally address your concerns and respond to you.
+If at any time you have concerns about how the personal information you have provided us is being used, please contact us at webmaster@travelingmom.com. If we do not provide you with an adequate response, let me know korlando@travelingmom.com, and I will personally address your concerns and respond to you.
 
 Our privacy policy contains the details of how travelingmom™ uses the information you provide. We value our customer and strive to provide quality service in every area. Thank you.
 
@@ -33,11 +33,11 @@ We use this information, which does not identify individual users, to analyze tr
 
 Age Policy.
 
-This Web site is not intended for persons under 13 years of age. WE do not knowingly solict or collect personal information from or about children, and we do not knowingly market our products or services to children. If you are a parent or become aware of a child registered under the age of 13, please notify travelingmom™ at [webmaster@travelingmom.com](mailto:webmaster@travelingmom.com) or as provided at the end of this policy.
+This Web site is not intended for persons under 13 years of age. WE do not knowingly solict or collect personal information from or about children, and we do not knowingly market our products or services to children. If you are a parent or become aware of a child registered under the age of 13, please notify travelingmom™ at webmaster@travelingmom.com or as provided at the end of this policy.
 
 Note to Parents.
 
-If your child is under 13 and has become a travelingmom™ member using a false age, please notify us as provided at the end of this policy and we will immediately close the account and nullify all personally identifiable information provided by them. If your child is under the age of 18 and you would like to know more about our site, information practices, stored information on your child, or how to close your child’s account, please contact us at [webmaster@travelingmom.com](mailto:webmaster@travelingmom.com) or as provided at the end of this policy.
+If your child is under 13 and has become a travelingmom™ member using a false age, please notify us as provided at the end of this policy and we will immediately close the account and nullify all personally identifiable information provided by them. If your child is under the age of 18 and you would like to know more about our site, information practices, stored information on your child, or how to close your child’s account, please contact us at webmaster@travelingmom.com or as provided at the end of this policy.
 
 Cookies
 
@@ -71,7 +71,7 @@ Tell-A-Friend
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Travelingmom™ stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [webmaster@travelingmom.com](mailto:webmaster@travelingmom.com) to request that we remove this information from our database.
+Your friend may contact us at webmaster@travelingmom.com to request that we remove this information from our database.
 
 Communications from the Site
 
@@ -127,7 +127,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 Choice/Opt-out
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [webmaster@travelingmom.com](mailto:webmaster@travelingmom.com), or you may contact us at 51 Orchard Place, Greenwich, CT 06830 to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at webmaster@travelingmom.com, or you may contact us at 51 Orchard Place, Greenwich, CT 06830 to opt-out.
 
 You will be notified when your personal information is collected by any third party that is not our agent or service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -137,7 +137,7 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by or by emailing our Customer Support at [webmaster@travelingmom.com](mailto:webmaster@travelingmom.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by or by emailing our Customer Support at webmaster@travelingmom.com or by contacting us by telephone or postal mail at the contact information listed below.
 
 Security of Collected Information
 
@@ -147,7 +147,7 @@ We restrict access to information about you to those Travelingmom employees who 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at [webmaster@travelingmom.com.](mailto:webmaster@travelingmom.com.)
+If you have any questions about security on our Web site, you can send email us at webmaster@travelingmom.com.
 
 Business Transitions
 
@@ -161,7 +161,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@travelingmom.com.](mailto:webmaster@travelingmom.com.)
+If you have any questions or suggestions regarding our privacy policy, please contact us at: webmaster@travelingmom.com.
 
 or
 
@@ -170,15 +170,3 @@ Travelingmom™, LLC
 Greenwich, CT 06830
 
 We welcome your questions and suggestions about our privacy policy. 
-
-Trackback(0)
-
-Comments 
-
-  
-
-
-Write comment
-
-  
-
