@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the world-class-articles.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915102851id_/http%3A//www.world-class-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-class-articles.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621002649id_/http%3A//world-class-articles.com/privacy.php) for the most accurate reproduction.*
 
-# World Class Articles | Privacy Statement
+# | Privacy Statement
 
 **How we gather information from users**
 
