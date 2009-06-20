@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stategovrecords.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222151238id_/http%3A//www.stategovrecords.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stategovrecords.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620084101id_/http%3A//stategovrecords.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-GovtRegistry.com does not collect information. Information is collected by third party business partners.
+StateGovRecords.com does not collect information. Information is collected by third party business partners.
 
 The information that we collect is generally limited to personal information about you that you submit on the Website.  The personally identifiable information that may be collected includes: your name; address; email address; telephone number; fax number; information about your interests in and use of various products, programs, and services; and education level and interests. Although we are not collecting credit card information at this time, we reserve the right to do so in the future.  To the extent that customer credit card-specific information is collected by  third parties and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent.  Notwithstanding the foregoing, third parties  and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent.
 
@@ -32,4 +32,12 @@ Please be advised that, although we take every reasonable technological precauti
 
 third parties reserves the right to change or update this Privacy Policy at any time by posting a notice at the Website that we are changing our Privacy Policy.  If the manner in which we use personally identifiable information changes, we will notify users by posting the changes on this Website.  Any and all changes to our Privacy Policy are effective immediately upon posting.  The user’s continued use of the Website and/or continued receipt of third parties e-mails constitutes an affirmative acknowledgement and acceptance by the user to the terms of the modified Privacy Policy.
 
-[Go Back to the Home Page](https://web.archive.org/web/20081222151238id_/http%3A//www.stategovrecords.com/index.php)
+**Are you having trouble finding the records you are looking for?:**
+
+It may be that you are not looking in the right place. The first thing you should do is contact recordsarea.com:  [ www.recordsarea.com/support/?site=gov-records.com](http://www.recordsarea.com/support/?site=gov-records.com)
+
+If you are still unable to resolve your issue with the service then you can request a refund through Clickbank. Clickbank is the payment processor used to handle transactions involving recordsarea.com and 1000's of other vendors.
+
+The simplest way to get a refund from Clickbank is to simply take the electronic receipt that ClickBank mailed you after the purchase and forward it to **refunds@clickbank.com** along with a brief message asking for a refund and why you want the refund.
+
+[Go Back to the Home Page](https://web.archive.org/web/20090620084101id_/http%3A//stategovrecords.com/index.php)
