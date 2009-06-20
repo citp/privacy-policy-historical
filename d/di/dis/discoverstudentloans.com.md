@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044410id_/http%3A//www.discoverstudentloans.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620222731id_/http%3A//www.discoverstudentloans.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Discover Student Loans - Privacy Policy
 
