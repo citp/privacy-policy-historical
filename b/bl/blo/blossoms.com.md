@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231055812id_/http%3A//www.blossoms.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090125id_/http%3A//www.blossoms.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Cherry Blossoms, the 1st Picture Personals for dating, love, romance, and marriage, since 1974, USA, Mail Order Bride, Asian, Russian, Ukrainian Brides and Romance Tours
+# Cherry Blossoms: Online picture personal ads for internet dating, friendship, love & romance. Meet US, Asian, European, Russian, & Latin Men & Women
 
 ### Cherry Blossoms Privacy Policy
 
