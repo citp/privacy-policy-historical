@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220212632id_/http%3A//www.phoenixnewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193847id_/http%3A//www.phoenixnewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Phoenix Privacy Policy - Phoenix New Times
+# Phoenix Privacy Policy
+
+[](https://web.archive.org/)
+
+Privacy Policy
+
+[](http://www.phoenixnewtimes.com/karaokeidol)
 
 ## Village Voice Media
 
@@ -63,3 +69,7 @@ In the event of a sale of Phoenix New Times or a sale of substantially all Phoen
 ## More Questions? Updates and Changes to Your Information.
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
+
+[](http://www.harkinstheatres.com/)
+
+[](http://www.phoenixnewtimes.com/readers/register)
