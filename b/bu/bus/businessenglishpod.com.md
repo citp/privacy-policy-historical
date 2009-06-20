@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessenglishpod.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204233id_/http%3A//www.businessenglishpod.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessenglishpod.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620145024id_/http%3A//www.businessenglishpod.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business English Pod :: Learn Business English
+# Privacy Policy | Business English Pod :: Learn Business English Online
 
 **Privacy Policy**  
 **1\. Introduction**  
