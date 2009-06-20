@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184149id_/http%3A//www.indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121052id_/http%3A//www.indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indus Net Technologies - Privacy Policy
 
