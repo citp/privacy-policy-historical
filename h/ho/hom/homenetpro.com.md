@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2008-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081024201246id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620041813id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
 
 # HomeNetPro.coms Privacy Policy Statement
 
@@ -38,9 +38,9 @@ _**Contacting Us**_
 
 We can be reached by contacting :
 
-Email: support@homenetpro.com
+Email: support (at) homenetpro.com
 
-Mail: Chris Simpson 703 Hickory Carlsbad, NM 88220.
+Mail: HomeNetPro.Com 703 Hickory Carlsbad, NM 88220.
 
 Changes to this Policy
 
@@ -62,7 +62,7 @@ HomeNetPro.Com is controlled, operated and administered entirely within HomeNetP
 
                                        Carlsbad, NM 88220
 
-     We can be reached via e-mail at: Support@HomeNetPro.com 
+     We can be reached via e-mail at: Support (at) HomeNetPro.com 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address except for the IP address of the originating visitor..
 
@@ -118,10 +118,10 @@ We may be required by law or government agency to disclose both Active and Passi
 
 **How Do We Secure Active Information and Passive Information?**
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Your postings on this site and other communications you may have with us via email or snailmail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
+We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Your postings on this site and other communications you may have with us via email or snail mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
 
 **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to support@homenetpro.com 
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to support (at) homenetpro.com 
 
 We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you.
