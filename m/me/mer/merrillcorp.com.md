@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220082123id_/http%3A//www.merrillcorp.com/cps/rde/xchg/merrillcorp/hs.xsl/1003.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193649id_/http%3A//www.merrillcorp.com/cps/rde/xchg/merrillcorp/hs.xsl/1003.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Merrill Corporation
 
