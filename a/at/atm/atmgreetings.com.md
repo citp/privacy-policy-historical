@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atmgreetings.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201120517id_/http%3A//www.atmgreetings.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmgreetings.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620043348id_/http%3A//www.atmgreetings.com/privacy_policy.html) for the most accurate reproduction.*
 
 # atmgreetings.com : Privacy Policy
 
