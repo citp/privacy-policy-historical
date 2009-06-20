@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200147id_/http%3A//callawaygolfpreowned.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620064551id_/http%3A//callawaygolfpreowned.com/privacy.aspx) for the most accurate reproduction.*
 
 # Callaway Golf Pre-Owned & Outlet: content
 
