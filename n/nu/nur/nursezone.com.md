@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915143304id_/http%3A//www.nursezone.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620104929id_/http%3A//www.nursezone.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NurseZone
 
@@ -23,11 +23,11 @@ E-mail address for privacy issues: [contact@nursezone.com](mailto:%20contact@nu
 
 NurseZone may collect certain information from you. Please be assured that your privacy is protected and is safeguarded in the following ways:
 
-  * We will not disclose your name, telephone number, credit card or other personal information unless you authorize us to do so. Exceptions may apply if we need to deliver a service or product ordered by you.
-  * We will not disclose information that would link your user ID with your actual name without your prior consent.
+  * We will not disclose your social security number or any other personal information you provide to us unless you authorize us to do so, except where needed to deliver a service or product ordered by you or under the limited circumstances set forth below. 
+  * Please be advised that we may share your personal information with our parent company or affiliated divisions/companies, which may contact you regarding recruitment opportunities. 
   * We will always give you the opportunity to access and correct your personal information at any time.
+  * We will not disclose your application status without your authorization.
 
-  
 
 
 ##### When and How Your Personal Information is Provided
