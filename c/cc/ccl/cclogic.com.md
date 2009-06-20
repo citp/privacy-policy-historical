@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219201747id_/http%3A//www.cclogic.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620171058id_/http%3A//www.cclogic.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy| Offshore Company Formation |
+
+## Privacy Policy
 
 In order to provide you with interactive computer billing services, cclogic.com collects, uses, and shares certain information about you. This policy explains what we collect, with whom we share it, and how you can interact with cclogic.Com in order to ensure the accuracy of the data we collect, use, and share. A. The information cclogic.Com collects from you helps cclogic.Com better serve the online community by continually personalizing the electronic payment services cclogic.Com provides. cclogic.Com collects and maintains the following data:
 
