@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914004224id_/http%3A//www.omnovia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071744id_/http%3A//www.omnovia.com/privacy_policy) for the most accurate reproduction.*
 
-# 
-
-| 
-
-## Privacy Notice
+# Web Conferencing | Web Conference | Web Meeting | Webinar | omNovia
 
 This privacy notice discloses the privacy practices for www.omNovia.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -15,15 +11,11 @@ This privacy notice discloses the privacy practices for www.omNovia.com. This pr
 
 
 
-## Information Collection, Use, and Sharing 
-
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. You might be using our services to access a Conference Room or Live Support of a **Company X**. We will not sell or rent this information to anyone other than the **Company X**. 
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization and **Company X** , other than as necessary to fulfill your request, e.g. to ship an order. 
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
-
-## Your Access to and Control Over Information 
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
 
@@ -42,4 +34,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-##  If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 281-500-4065 or via email at [support@omnovia.com](mailto:support@omnovia.com). 
+###  If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 281-500-4065 or via email at [support@omnovia.com](mailto:support@omnovia.com). 
