@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alt.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219211607id_/http%3A//alt.com/go/page/privacy.html%3Fsite%3Dbdsm%26trlid%3Dcover-16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alt.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620142239id_/http%3A//alt.com/go/page/privacy.html%3Ftrlid%3Dcover-16) for the most accurate reproduction.*
 
 # ALT.com PRIVACY POLICY
 
