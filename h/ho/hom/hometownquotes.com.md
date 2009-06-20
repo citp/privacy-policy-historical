@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Insurance Quotes » Privacy Policy
 
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/auto/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/homeowners/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/life/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/health/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/grouphealth/index.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/renters/index.html)  
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/auto/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/homeowners/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/life/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/health/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/grouphealth/index.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/renters/index.html)  
   
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/index.html)[  
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/index.html)[  
   
-](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/autoarticles.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/meetourexperts.html)   
+](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/autoarticles.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/meetourexperts.html)   
   
 [  
-](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/ourstory.html)   
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/whatwedo.html)  
+](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/ourstory.html)   
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/whatwedo.html)  
   
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/testimonials.html)  
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/testimonials.html)  
   
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/careers.html)[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/logousage.html)  
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/careers.html)[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/logousage.html)  
   
-[](https://web.archive.org/web/20081219151936id_/http%3A//www.hometownquotes.com/newsroom/careers.html)  
+[](https://web.archive.org/web/20090620020529id_/http%3A//www.hometownquotes.com/careers.html)  
   
 To arrange an interview with one   
 of our experts or learn more about **HometownQuotes,** contact: **Krista Farmer**  
@@ -54,10 +54,10 @@ By submitting a quote request, you authorize HometownQuotes to provide your info
 
 By clicking submit and seeking a quote request I authorize and agree that up to eight insurance companies or their agents and partners companies may contact me using this information or to obtain additional information needed to provide quotes where permitted by law. Insurance companies or their agents that receive a quote request from this website or its partner companies may confirm my information through the use of a consumer report, which may include my credit score and driving record. I authorize and instruct this website and its partner companies to obtain a consumer report. I acknowledge that I have read and understand all of the Terms and Conditions of this website and agree to be bound by them  
   
-© Copyright 2008 | HometownQuotes, LLC. | All Rights Reserved.  
+© Copyright 2009 | HometownQuotes, LLC. | All Rights Reserved.  
 (T) 800.820.2981 |  |    
   
 Hometown Quotes offers cheap insurance quotes for states : Alabama - AL,  Alaska - AK,  Arizona - AZ,  Arkansas - AR,  California - CA,  Colorado - CO,  Connecticut - CT,  Delaware - DE,  District of Columbia - DC,  Florida - FL,  Georgia - GA,  Hawaii - HI,  Idaho - ID,  Illinois - IL,  Indiana - IN,  Iowa - IA,  Kansas - KS,  Kentucky - KY,  Louisiana - LA,  Maine - ME,  Maryland - MD,  Massachusetts - MA,  Michigan - MI,  Minnesota - MN,  Mississippi - MS,  Missouri - MO,  Montana - MT,  Nebraska - NE,  Nevada - NV,  New Hampshire - NH,  New Jersey - NJ,  New Mexico - NM,  New York - NY,  North Carolina - NC,  North Dakota - ND,  Ohio - OH,  Oklahoma - OK,  Oregon - OR,  Pennsylvania - PA,  Rhode Island - RI,  South Carolina - SC,  South Dakota - SD,  Tennessee - TN,  Texas - TX,  Utah - UT,  Vermont - VT,  Virginia - VA,  Washington - WA,  West Virginia - WV,  Wisconsin - WI,  Wyoming - WY    
   
-[](http://www.bbbonline.org/cks.asp?id=1060415145044)   
+[](http://www.bbbonline.org/cks.asp?id=1060415145044) [](http://server.iad.liveperson.net/hc/87313706/?cmd=file&file=visitorWantsToChat&site=87313706&byhref=1&SESSIONVAR!opid=12&imageUrl=https://www.hometownquotes.com/images)   
 
