@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201206id_/http%3A//www.appriver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620232622id_/http%3A//appriver.com/privacy.asp) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
@@ -9,6 +9,15 @@ If you should have questions or concerns regarding this statement, please contac
 ## Information Collection
 
 AppRiver is the ABSOLUTE SOLE OWNER of the information collected on www.appriver.com with NO EXCEPTIONS. We do NOT and will NOT share ANY information from our customers (or prospective customers) to any third party.
+
+## Information Dissemination
+
+AppRiver will release personal information about you as is reasonably necessary for the provision of AppRiver services for which you have subscribed. This includes, but is not limited to the provision of financial information to organizations for AppRiver billing purposes. These companies do NOT retain, share, store or use personally identifiable information for any secondary purposes. In addition, AppRiver may release personal information without your consent under the following circumstances: 
+
+  * In response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
+  * If we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.
+
+
 
 ## One Time Email Address Usage 
 
@@ -56,9 +65,13 @@ AppRiver takes every precaution to protect our user's information. When users su
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our payment form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just'surfing'.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing personnel or a customer service representative) are granted access to personally identifiable information. Our employees must lock their workstations when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in an extremely secure and restricted environment. **Only authorized personnel with military-grade pass cards and that are identified by biometric hand scanners have access to these secure areas where the servers are housed.**
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing personnel or a customer service representative) are granted access to personally identifiable information. Our employees must lock their workstations when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in an extremely secure and restricted environment. **Only authorized personnel with military-grade pass cards and that are identified by biometric hand scanners have access to these secure areas where the servers are housed.**
 
 If users have any questions about the security at our Web site, users can send an email to [support@appriver.com](mailto:support@appriver.com).
+
+## Children Policies
+
+This site is not a website directed to children under the age of 13. However, AppRiver hereby advises all visitors to this site under the age of 13 not to disclose or provide any personal information on this website. In the event AppRiver discovers that a child under the age of 13 has provided personal information to us, in accordance with the Children's Online Privacy Protection Act of 1998 AppRiver will delete the child's personal information from our files.
 
 ## Supplementation of Information
 
