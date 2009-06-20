@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201848id_/http%3A//www.cnycentral.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620233900id_/http%3A//www.cnycentral.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # Privacy Policy : About : WSTM NBC3
 
