@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217075134id_/http%3A//www.digium.com/en/company/view-policy.php%3Fid%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asterisk.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620084152id_/http%3A//www.digium.com/en/company/view-policy.php%3Fid%3DPrivacy-Policy) for the most accurate reproduction.*
 
-# view-policy | Digium® - The Asterisk Company
+# view-policy
 
 Digium respects your right to privacy. Please read below to understand more about our privacy policy. 
 
