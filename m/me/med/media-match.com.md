@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219221944id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620231729id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
-# Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com:
+# Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com
 
 Privacy Policy
 
