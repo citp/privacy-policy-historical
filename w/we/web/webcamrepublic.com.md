@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamrepublic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044309id_/http%3A//www.webcamrepublic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamrepublic.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620204127id_/http%3A//www.webcamrepublic.com/privacy.php) for the most accurate reproduction.*
 
 # Free Chat with Online Cam Girls
 
