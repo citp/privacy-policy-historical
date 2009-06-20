@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenzuu.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225074127id_/http%3A//www.zenzuu.com/signup/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenzuu.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065242id_/http%3A//www.zenzuu.com/signup/privacy.aspx) for the most accurate reproduction.*
 
 # ZenZuu.com | Make Friends. Make Money. Make Sense.
 
@@ -188,10 +188,6 @@ Advertisement
   
 [](http://www.zenzuu.com/advertise)  
 Advertise with ZenZuu Today!
-
-  
-[](http://www.10thlevelbuilder.com/)  
-Professional Flash Presentation of the ZenZuu Opportunity Complete with Signup URL Rotator.
 
   
   
