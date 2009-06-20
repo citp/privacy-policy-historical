@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024192744id_/http%3A//www.magazineradar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineradar.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620231443id_/http%3A//www.magazineradar.com/privacy.aspx) for the most accurate reproduction.*
 
 # MagazineRadar Privacy Policy
 
@@ -8,6 +8,8 @@ In addition, magazineradar.com may store a unique identification number, the use
 
 In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
 
-If at any time you would like your name removed, simply send a written request to [privacy@magazineradar.com](mailto:privacy@magazineradar.com) or to Privacy Official, MagazineRadar, 115 West 30th Street, Suite 700, New York, NY 10001.
+Additionally, we work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally-Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during this process. To read FetchBack's Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way affect your use of our site. To opt out of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html).
+
+If at any time you would like your name removed, simply send a written request to [privacy@magazineradar.com](mailto:privacy@magazineradar.com) or to Privacy Official, MagazineRadar, 252 W 37th Street, Suite 1001, New York, NY 10018.
 
 You can also send a written request to [privacy@magazineradar.com](mailto:privacy@magazineradar.com) if you would like to confirm the accuracy of the information we have collected from you, or if you have questions about the uses of this information.
