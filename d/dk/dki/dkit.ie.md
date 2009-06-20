@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkit.ie privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220122959id_/http%3A//ww2.dkit.ie/extras/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkit.ie privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202509id_/http%3A//ww2.dkit.ie/extras/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / Extras / Home - Dundalk Institute of Technology
 
