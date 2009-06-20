@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220023914id_/http%3A//www.cerner.com/public/Cerner_2.asp%3Fid%3D27618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerner.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620160615id_/http%3A//cerner.com/public/Cerner_2.asp%3Fid%3D27618) for the most accurate reproduction.*
 
 # Cerner Corporation: Privacy Policy
 
