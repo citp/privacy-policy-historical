@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hollywoodlife.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216005033id_/http%3A//www2.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodlife.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620104832id_/http%3A//www2.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # mail.com
 
 **mail.com's Privacy Policy**  
-**Effective: June 25, 2008**
+**Effective: April 1, 2009**
 
 * * *
 
@@ -90,16 +90,16 @@ From time to time we partner with third party service providers to offer additio
 
 **_Changes to our Privacy Policy_** : We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.. We recommend that you check the Privacy Policy when you visit our Web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web site visitors information on material changes to this Privacy Policy. 
 
-**_Your California Privacy Rights_** : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Mail.com shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Mail.com, 200 N. Sepulveda Blvd, 2nd Floor, El Segundo, CA 90245. In your request, please specify that you want a "Your Mail.com California Privacy Rights Notice". Please allow at least 30 days for a response. 
+**_Your California Privacy Rights_** : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Mail.com shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Mail.com, 9800 South La Cienega Blvd., Los Angeles, CA 90301. In your request, please specify that you want a "Your Mail.com California Privacy Rights Notice". Please allow at least 30 days for a response. 
 
 **Questions?**
 
 For any questions or comments concerning Mail.com's privacy policy, please write to: [PrivacyDirector@mail.com](mailto:privacydirector@mail.com)
 
 Or send a letter to:  
-200 N. Sepulveda Blvd, 2nd Floor  
-El Segundo, CA 90245  
-(425) 226-9011
+9800 South La Cienega Blvd.  
+Los Angeles, CA 90301  
+(310) 321-5000
 
 Law Enforcement inquiries can be directed to [LegalCompliance@corp.mail.com](mailto:LegalCompliance@corp.mail.com).
 
@@ -107,4 +107,4 @@ All spam, UCE and general abuse issues should be directed to: [abuse@mail.com](m
 
 For general problems with your account, please [click here](http://mail01.mail.com/templates/common/us/contactUsExt.htm).  
   
-© Copyright 2008 mail.com All rights reserved.
+© Copyright 2009 mail.com All rights reserved.
