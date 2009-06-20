@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asklyrics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050514id_/http%3A//www.asklyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asklyrics.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620072856id_/http%3A//www.asklyrics.com/privacy.php) for the most accurate reproduction.*
 
 # AskLyrics.com ~~ Privacy Policy
 
