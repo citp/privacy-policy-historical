@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforvideo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217105042id_/http%3A//www.searchforvideo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforvideo.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620045918id_/http%3A//www.searchforvideo.com/privacy.php) for the most accurate reproduction.*
 
 # Searchforvideo - Privacy Statement Searchforvideo
 
@@ -33,6 +33,10 @@ Searchforvideo uses third-party advertising companies to serve ads when you visi
 ## Third-Party Web Beacons
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+
+## Google Advertising Cookie
+
+We use third-party advertising companies such as Google to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. If you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
 
 ## Your consent and changes to the Privacy Policy
 
