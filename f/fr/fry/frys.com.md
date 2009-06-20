@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091406id_/http%3A//www.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frys.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620153058id_/http%3A//shop2.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.*
 
 # FRYS.com
 
 |  |  ****Shopping Assistance****  
   
 ---  
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts) | [**Finding Products**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts) | [**Finding Products**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts) | [**Exploring Products**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts) | [**Exploring Products**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart) | [**Using the Cart**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart) | [**Using the Cart**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut) | [**Checking Out**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut) | [**Checking Out**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases) | [**Returns**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases) | [**Returns**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases)  
   
 **  
 **  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods) | [**Payment Methods**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods) | [**Payment Methods**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts) | [**Express Accounts**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts) | [**Express Accounts**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A8ExpressAccounts)  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates) | [**Warranties/Rebates**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates) | [**Warranties/Rebates**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates)  
   
 **  
 **  
 |  ****  
   
-[](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs) | [**Contact Us**](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs)  
+[](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs) | [**Contact Us**](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs)  
   
   
 |  | 
@@ -65,8 +65,11 @@ By creating an Express Account, you will have immediate access to your billing a
 
 If you choose not to create an Express Account, you will be able to change information by contacting our Customer Service department by phone: 1.877.688.7678, or by email:
 
-[service@outpost.com](mailto:service@outpost.com).
+[service@cs.frys.com/a>.](mailto:service@outpost.com)
 
+[ ](mailto:service@outpost.com)
+
+  
 If at some point in the future there is a change to our information practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of that message, you will be able to opt-out of this information usage by sending an email message to [ never@outpost.com](mailto:never@outpost.com) . You should also check this posted privacy statement for changes. This Privacy Policy is effective April 1st, 2005. If you have any questions regarding this policy, please contact us: [policy@outpost.com](mailto:policy@outpost.com).
 
 As an AOL Certified Merchant, we have agreed to abide by AOL's privacy policy. To read the policy, click here. In addition, Frys.com complies with COPPA.
@@ -89,7 +92,7 @@ Our goal is to provide our customers with the highest level of service possible.
 
 During the order process and while creating an Express Account, you are prompted to supply us with your contact, billing, and shipping information. This information must be provided in order to complete a purchase and is used to complete your order and contact you regarding your order.
 
-When you visit Frys.com, you are sent a cookie. (To learn more about cookies, [ click here](http://shop4.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C4Cookies). ) The cookie is used to identify you while you are at Frys.com and to keep items in your shopping cart between visits.  
+When you visit Frys.com, you are sent a cookie. (To learn more about cookies, [ click here](http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C4Cookies). ) The cookie is used to identify you while you are at Frys.com and to keep items in your shopping cart between visits.  
 You do not need to accept our cookie in order to browse or shop at Frys.com.
 
 To process your order, we require you to supply us with your correct billing, shipping and contact information.
