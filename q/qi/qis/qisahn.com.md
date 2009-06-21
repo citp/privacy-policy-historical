@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qisahn.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041139id_/http%3A//www.qisahn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qisahn.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621063732id_/http%3A//www.qisahn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : Qisahn.com: Singapore's favourite game shop
+# Privacy Notice : Qisahn.com: Buy cheap PSP PS3 WII NDSL in Singapore
 
 We collect information from customers so that we can make fast deliveries to you. Repeat customers will not need to go through the trouble of retyping their information.
 
