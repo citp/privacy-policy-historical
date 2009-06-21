@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221153851id_/http%3A//www.skyparksecure.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyparksecure.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621063654id_/http%3A//www.skyparksecure.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Airport Parking | Cheap Airport Parking | Discount Airport Parking - Aiport Parking Privacy Policy
 
