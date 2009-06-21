@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2008-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080922094651id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621191131id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
 
 # UrduWord.com - Privacy Policy
 
-This document describes the privacy policy of **UrduWord.com**. We can be reached via e-mail at [webmaster@urduword.com](mailto:webmaster@urduword.com) (email) or [ http://www.urduword.com/contact.php](http://www.urduword.com/contact.php) (web). If you feel that this site is not following its stated information policy, please contact us immediately using te methods provided above.
+This document describes the privacy policy of **UrduWord.com**. We can be reached via e-mail at [webmaster@urduword.com](mailto:webmaster@urduword.com) (email) or [ http://www.urduword.com/contact.php](http://www.urduword.com/contact.php) (web). If you feel that this site is not following its stated information policy, please contact us immediately using the methods provided above.
 
 ## Information We Collect
 
@@ -28,11 +28,8 @@ Advertising fees are collected through PayPal's secure servers.  Credit card pr
 
 ## Third-Party Advertising
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and browser version. For further information, consult the privacy policies of:  
-[http://www.valueclick.com/privacy.html](http://www.valueclick.com/privacy.html&Title=ValueClick%20Consumer%20Privacy%20Policy)   
-[http://www.befree.com/privacy.htm](http://www.befree.com/privacy.htm&Title=BeFree%20Privacy%20Policy)   
-[http://www.cj.com/privacy.jsp](http://www.cj.com/privacy.jsp&Title=CJ%20Privacy%20Policy)   
-<http://www.google.com/privacy.html>
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and browser version.  Google is the third party advertising vendor that uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.   
+You  may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy: <http://www.google.com/privacy_ads.html>  
 
 ## Contacting Us
 
@@ -42,4 +39,4 @@ Upon request, we provide site visitors with access to any unique identifier info
 
 ## Policy Changes
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes.
