@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttc.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035917id_/http%3A//www3.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttc.ca privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621090154id_/http%3A//www3.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.*
 
 # TTC Privacy Policy
 
