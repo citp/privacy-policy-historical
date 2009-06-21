@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govdeathrecords.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054637id_/http%3A//govdeathrecords.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govdeathrecords.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621205955id_/http%3A//govdeathrecords.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GovDeathRecords.com - Deaths Records | Obituaries | Funerals Records | Cemetery Records | Death Certificates | Social Security Death Index | Comprehensive Online Records Searches – GovDeathRecords.com
 
@@ -21,7 +21,7 @@ Therefore, we cannot be responsible for the protection and privacy of any inform
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us right [here](https://web.archive.org/web/20081217054637id_/http%3A//govdeathrecords.com/Support.aspx)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us right [here](https://web.archive.org/web/20090621205955id_/http%3A//govdeathrecords.com/Support.aspx)
 
 
 
