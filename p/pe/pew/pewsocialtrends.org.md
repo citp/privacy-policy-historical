@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221140311id_/http%3A//pewsocialtrends.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewsocialtrends.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001313id_/http%3A//pewsocialtrends.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Pew Social & Demographic Trends
 
 The Pew Research Center's Social & Demographic Trends project shares your concerns about maintaining the integrity and privacy of personal information collected on the Internet. Social & Demographic Trends is committed to protecting your privacy, and the following Privacy Policy ("Policy") is intended to explain our information collection and dissemination practices in connection with the PewSocialTrends.org web site (the "Site"). Please review the entire Policy and feel free to contact us at [info@pewsocialtrends.org](mailto:info@pewsocialtrends.org) if you have any questions.
 
