@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220231542id_/http%3A//www.facinghistory.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621050206id_/http%3A//www.facinghistory.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Facing History and Ourselves
 
@@ -72,3 +72,5 @@ Brookline, MA 02445
 800-856-9039 
 
 Email: [info@facing.org](https://mail.google.com/mail?view=cm&tf=0&ui=1&to=info@facing.org). 
+
+Bookmark/Search this post with: 
