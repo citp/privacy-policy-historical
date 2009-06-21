@@ -1,121 +1,157 @@
-<!--The following is the downloaded HTML source of the wajas.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011181439id_/http%3A//www.wajas.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wajas.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621105827id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<title>Waja Madness!</title>
-<link rel="shortcut icon" href="images/layout/favicon.ico">
-<link rel="stylesheet" href="./site.css?t=09152007">
-<script type="text/javascript" src="./js/site.main.js?t=09132007"></script>
-<script>
-window.addEvent('domready', function() {
-	$('page_menu_2_contain').addClass('hidden');
-	$('page_menu_2_contain').removeClass('no_javascript');
-
-	if (window.ie) {
-		document.body.style.height = document.documentElement.scrollHeight + 'px';
-	}
-	// Tooltips!
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy :: Waja Madness!</title>
+	<meta name="ROBOTS" content="ALL">
+	<noscript><META HTTP-EQUIV="refresh" CONTENT="0;URL=no_javascript.php"></noscript>
+	<link rel="shortcut icon" href="./favicon.ico">
+	<link href="_css/screen.css" type="text/css" rel="stylesheet" media="all">
+		<link href="_css/purple_moon.css" type="text/css" rel="stylesheet" media="all">
 	
-
-	$$('input.button').each(function(e) {
-		e.addEvent('mouseover', function() { e.setProperty('src', './images/layout/raveout/btn_'+ e.name +'_1.gif'); });
-		e.addEvent('mouseout', function() { e.setProperty('src', './images/layout/raveout/btn_'+ e.name +'_0.gif'); });
-	});
-	
-	newBtn = function(e) {
-		if (!window.ie) {
-			e.addEvent('mouseover', function() { e.setProperty('src', './images/layout/raveout/btn_'+ e.name +'_1.gif'); });
-			e.addEvent('mouseout', function() { e.setProperty('src', './images/layout/raveout/btn_'+ e.name +'_0.gif'); });
+	<script type="text/javascript" language="JavaScript" src="_js/showhide.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/rollover.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/transfer_fill.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/checkall.js"></script>
+		<script type="text/javascript" language="JavaScript" src="_js/ajax.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/character_limiter.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/showhidemenu.js"></script>
+	<script type="text/javascript" language="JavaScript" src="_js/default-value.js"></script>
+    
+    <script type="text/javascript">
+		function showmenu(menu){
+			//alert(menu);
+			document.getElementById('page_menu_2').innerHTML = document.getElementById(menu).innerHTML + document.getElementById('google_ads').innerHTML;
+			return false;
 		}
-	}
-
-
-	
-	$$('label.check').each(function(e){
-   		var ec = e.firstChild;
-		function check(el){
-		    var tmp = (el.firstChild.checked)?"_on":"_off";
-			return "check "+ec.type + tmp;
+	</script>
+    <style>
+		.hidden_menu{
+			display:none;
 		}
-		e.className = check(e);
-		e.style.cursor = 'pointer';
-		ec.style.display = 'none';
-		
-		e.addEvent('click',function(){
-			var chi = this.firstChild;
-            if(!chi.checked || chi.type != 'radio')	chi.checked = !chi.checked;
-					
-            if(chi.type != 'radio') this.className = check(this);
-			else{$$('label.check').each(function(j){
-            	    if(j.firstChild.type == 'radio') j.className = check(j);
-	            });
-	        }
-		});
-	});
-});
-</script>
-</head>
+	</style>
+	</head>
+
 <body>
-<div id="page_wrap">
-	<div id="page_container">
-		<div id="page_banner"><div><span><a href="#page_menu_1">Go to navigation</a><h1>Waja Madness!</h1><h2></h2></span></div></div>
-		<div id="page_userbar">
-			<form method="post" action="./actions/login.php"><input class="text" size="8" type="text" name="username"><input class="text" size="8" type="password" name="password"> <label class="check"><input type="checkbox" id="cbox_remember"> Remember me</label><input type="image" alt="Login" src="./images/layout/raveout/btn_login_0.gif" class="button" name="login" id="button_login"> <span class="pass_link">[<a href="lostpass.php">Lost Password?</a>]</span></form>
-		</div>
 
-
-		<div id="page_content">
-			<div style="width: 100%;" id="content_top">
-				<div id="ajax_msg"></div>
-				
-				
-				
-				
-
-				
-				
-				
-				
-
-<h2>Privacy Policy</h2>
-<p>This privacy policy sets out how Wajas uses and protects any information that you provide upon registration and use of this site.</p>
-<p>Wajas guarantees that your privacy will be protected and should we ask that you provide any information it will be used for this site and only this site. Your information will not be distributed, leased, or sold to third parties unless required by law.</p>
-<h3>What we collect and why:</h3>
-<p>
-</p><ul>
-<li>Email address for confirming account registration and any notices/alerts that may get sent out.</li>
-<li>IP Address for tracking users within the site.</li>
-<li>Cookies for User’s account information.</li>
-<li>Any information pertaining to surveys or polls to better our site/service.</li>
-<li>Paypal email when buying our goods. The emails are not saved or recorded; we just need the email in order to verify you paid. </li>
-</ul><p></p>
-<h3>Links to other sites:</h3>
-<p>Many links may be found within our site so note that when you click the link and leave Wajas, we have no control over that site. We cannot be held responsible for any content, or information you provide to another site as it has no connection to Wajas and, there for, might not follow our Privacy Statement or Rules.</p>
-<p>Wajas may change this privacy policy any time in the future, so please check it frequently. <i>This policy is effective from <b>November 21, 2006</b>.</i></p>
-
-				<div id="page_footer">
-					<i> All Images, Breeds, Coding, Text © 2006, <a href="http://www.wajas.com">Wajas, Inc</a>. All rights reserved.</i>
-					<br>|| <a href="privacy.php">Privacy Policy</a> || <a href="TOS.php">Terms of Service</a> || <a href="#">Credits</a> || 
-				</div>
-			</div>
-		</div>
-		<div id="page_menu_1">
-		
-		</div>
-		<div id="page_menu_2"></div>
-		<div id="page_menu_2_contain" class="no_javascript">
-			
-		</div>
+    
+	<div id="page_wrap"><!-- BEGIN page_wrap -->
+    
+        <div id="page_container"><!-- BEGIN page_container -->
+        
+          	<div id="page_userbar"><form method="post" action="./actions/login.php" class="login" name="loginform">
+	<script type="text/javascript">
+	<!--
+		function check_remember(){
+			if(document.getElementById("cbox_remember").checked != 1){
+				document.getElementById("remember_me").innerHTML = '<img src="/_images/themes/purple_moon/checkbox_1.gif" />';
+			}else{
+				document.getElementById("remember_me").innerHTML = '<img src="/_images/themes/purple_moon/checkbox_0.gif" />';
+			}
+		}
+	-->
+	</script>        
+		        
+        <input class="text default-value" size="8" type="text" name="username" maxlength="50" value="Username">
+        <label class="check">Password:</label><input class="text" size="8" type="password" name="password" maxlength="50" value=""> 
+        <label class="check">Remember Me:</label><input type="checkbox" name="remember_me" value="1">
+        <!--<label class="check">
+        <input type="checkbox" id="cbox_remember" class="cbox" value="1" /> 
+        <a href="javascript:;" onclick="javascript: check_remember();" style="text-decoration:none;"><span id="remember_me"><img src="/_images/themes/purple_moon/checkbox_0.gif" /></span> Remember me</a></label>-->
+        
+        <!--<input type="image" src="/_images/themes//btn_login_0.gif" 
+        class="button" 
+        id="button_login"
+        name="login"
+        value="LOGIN"
+		onmouseover="return roll_on(this);" 
+		onmouseout="return roll_off(this);" />-->
+        <input type="submit" class="submit_button" name="login" value="Login" onclick="this.style.visibility = 'hidden';">        
+        <!--<input type="image" alt="Login" src="/_images/themes//btn_login_0.gif" class="button" name="login" id="button_login" /> -->
+  <span class="pass_link">[<a href="lost_password.php">Lost Password?</a>]</span>
+</form>
+</div>   
+            <div id="page_menu_1"></div>     
+            <div id="page_menu_2"></div>    <div id="menu_1" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
 	</div>
+    <div id="menu_2" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
+	</div>
+    <div id="menu_3" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
+	</div>
+    <div id="menu_4" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
+	</div>
+    <div id="menu_5" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
+	</div>
+    <div id="menu_6" class="hidden_menu">
+		<h4 class="head">Please Login To Get Started!</h4>
+		<p class="head">If you are a new user please register using the form to the right...</p>
+		<p class="head">If you were logged in you may have to <a href="./actions/logout.php">login</a> again due to inactivity!</p>
+	</div>
+<script type="text/javascript">showmenu('menu_1');</script>            
+            <div id="page_content"><!-- BEGIN page_content -->
+                <div style="width: 100%;" id="content_top">
+
+					<h6>Wajas.com » Privacy Policy</h6>
+                    
+                  	<div id="ajax_msg"><table class="error_message"><tbody><tr><td><strong>ERROR:</strong> You must login to view the page you are trying to access. <br><br>If you were logged in and have been inactive for a while - you have been automatically logged out for your security and you will need to login again. Thank you.</td></tr><tr></tr></tbody></table></div>
+                    
+                    <h1>Privacy Policy</h1>
+                	
+                    <p>This privacy policy sets out how Wajas uses and protects any information that you provide upon registration and use of this site.</p>
+                    <p>Wajas guarantees that your privacy will be protected and should we ask that you provide any information it will be used for this site and only this site. Your information will not be distributed, leased, or sold to third parties unless required by law.</p>
+                    <p><strong>What we collect and why:</strong></p>
+                    <ul>
+                    	<li>Email address for confirming account registration and any notices/alerts that may get sent out.</li>
+                        <li>IP Address for tracking users within the site.</li>
+                        <li>Cookies for User's account information.</li>
+                        <li>Any information pertaining to surveys or polls to better our site/service.</li>
+                        <li>Paypal email when buying our goods. The emails are not saved or recorded; we just need the email in order to verify you paid.</li>
+					</ul>
+                    
+                    <p><strong>Links to other sites:</strong></p>
+                    <p>Many links may be found within our site so note that when you click the link and leave Wajas, we have no control over that site. We cannot be held responsible for any content, or information you provide to another site as it has no connection to Wajas and, there for, might not follow our Privacy Statement or Rules.</p>
+                    <p>Wajas may change this privacy policy any time in the future, so please check it frequently. This policy is effective from November 21, 2006.</p>
+
+                    <p>&nbsp;</p>
+                    
+                    <div id="page_footer"><p><em> All Images, Breeds, Coding, Text © 2009, <a href="http://www.wajas.com">Wajas, Inc</a>. All rights reserved.</em>
+<br>
+<a href="privacy_policy.php">Privacy Policy</a> || <a href="terms_of_service.php">Terms of Service</a> || <a href="credits.php">Credits</a> || <a href="sitemap.php">Sitemap</a>
+</p>
+
 </div>
+                </div>
+            </div><!-- END page_content -->
+        </div><!-- END page_container -->
+	</div>
+	<!-- END page_wrap -->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1932294-1"; urchinTracker();</script>
-<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
 <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6616805-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-
-re_("h5270-sa5p30jh7f");
-</script>
 
 
 </body></html>
