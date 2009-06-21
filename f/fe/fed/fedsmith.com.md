@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220164633id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011703id_/http%3A//www.fedsmith.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,3 +15,5 @@ FedSmith Inc. collects information about our site visitors whenever they view ou
 "Cookies" are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a "Privacy" setting in your browser setup.
 
 Additional information about features on the FedSmith Inc. Web site is located in our [FAQ section](https://web.archive.org/faq).
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
