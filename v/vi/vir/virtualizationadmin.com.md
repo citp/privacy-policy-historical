@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualizationadmin.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908100554id_/http%3A//www.virtualizationadmin.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualizationadmin.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621042737id_/http%3A//www.virtualizationadmin.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,15 @@ We collect certain information from and about our visitors in three ways: from o
 
 _Web server logs_. When you visit our Web sites, we may track information to administer the site and analyze its usage. Examples of information we may track include your internet protocol address, what kind of browser or computer you use, the number of links you click within the site, the state or country from which you accessed the site, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our site, and the pages you viewed on the site.
 
-_Cookies_. If your browser allows it, our web sites use cookies, which are small text files which you computer creates or modifies on instruction of the page opened in your browser. These are used to save your preferences and login information. You can reject cookies by changing your browser settings.
+_Cookies & beacons_. If your browser allows it, our web sites use cookies, which are small text files which you computer creates or modifies on instruction of the page opened in your browser. These are used to save your preferences and login information. You can reject cookies by changing your browser settings.
+
+Furthermore, if your browser allows it, third party cookies may be used for adverts placed in the pages of our website. The third-party advertising companies which serve ads when you visit our website may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information is neither controlled nor used by us and subject to the privacy policies of the third parties concerned, but to the best of our knowledge this information does not include your name, address, email address, or telephone number.
+
+Specifically, if your browser allows it, where Google adverts placed in the pages of our website, Google will attempt to use one or more cookies called 'DoubleClick DART cookie' to serve ads based on your visit to our sites and to other sites on the Internet. You can find more information, and opt out of Google advertising cookies, at <http://www.google.com/privacy_ads.html>. 
+
+Furthermore, where third party ads, and specifically Google adverts are placed in the pages of our website, a web beacon may be included. A web beacon is a small and unnoticable image served by the third party advertiser in order to collect information from your browser. To the best of our knowledge this information consists of the routine information usually provided by your browser when requesting a page or other internet resource, and does not include your name, address, email address, or telephone number.
+
+If javascript is not enabled in your browser, or if you use certain ad-blockers, you may not see adverts and therefore you may not be aware that ads are being served.
 
 _Information from you_. Visitors can register to obtain access to some parts of our web site. When you register, we will ask you for some personal information. Some of the information requested will be required for registration, and some may be optional. Also, we may ask you to disclose personal information to enable us to provide assistance and information to you. 
 
@@ -44,7 +52,7 @@ If you wish to update or correct your personal information, please use our conta
 
 If our information practices change in a significant way, we will post and highlight the policy changes.
 
-_This privacy policy has last been updated on 26 April 2006._
+_This privacy policy has last been updated on 8 April 2009._
 
   
 
