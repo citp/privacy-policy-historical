@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the hymnary.org privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220222749id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hymnary.org privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621194847id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head>
-    <title>CCEL Privacy Policy | Calvin Hymnary Project</title>
+    <title>Privacy Policy | Hymnary.org</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/newhymn/favicon.ico" type="image/x-icon">
-    <style type="text/css" media="all">@import "/modules/simplenews/simplenews.css";</style>
-<style type="text/css" media="all">@import "/files/css/cddc483fc05e52ad898e2f92f237efa7.css";</style>
+    <style type="text/css" media="all">@import "/files/css/d1d7a367f75323f2810b2aaa7b01fe56.css";</style>
+<style type="text/css" media="print">@import "/files/css/d252437056aecf6fe2b2441815e1db38.css";</style>
     <link rel="stylesheet" href="/themes/ccel/books.css" type="text/css">
     <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
@@ -14,6 +14,10 @@
 <script type="text/javascript" src="/js/dimensions/jquery.dimensions.js"></script>
 <script type="text/javascript" src="/js/jquery.ui/ui.accordion.js"></script>
 <script type="text/javascript">$(document).ready( function() { $('#search-accordion').accordion({
+  alwaysOpen: false,
+  header: "a.head"
+}) } )
+$(document).ready( function() { $('#editor-accordion').accordion({
   alwaysOpen: false,
   header: "a.head"
 }) } )</script>
@@ -45,13 +49,32 @@
 		}
 	);
 	} );
+
+	var focused;
+	function search_focus(q) {
+		if (!q) {
+			q = '';
+		}
+		if (!focused) {
+			document.getElementById("qu").value = q;
+			document.getElementById("qu").style.color = "#0a3f64";
+			focused = true;
+		}
+	}
+	function search_blur() {
+		if (document.getElementById("qu").value == "") {
+			document.getElementById("qu").style.color = "gray";
+			document.getElementById("qu").value = "Search the entire Hymnary";
+			focused = false;
+		}
+	}
 	</script>
     <style type="text/css" media="print">@import "/themes/newhymn/print.css";</style>
     <!--[if lt IE 7]>
     <style type="text/css" media="all">@import "/themes/newhymn/fix-ie.css";</style>
     <![endif]-->
   </head>
-  <body class="sidebars" onload="pageLoad()">
+  <body class="sidebar-left" onload="/* check that pageLoad exists before calling */ if(typeof pageLoad == 'function') pageLoad()">
 <!-- Layout -->
   <!--<div id="header-region" class="clear-block"></div>-->
 
@@ -60,12 +83,13 @@
 
       <div id="header">
         <div id="logo-floater">
-        <a href="/"><img src="http://static.ccel.org/themes/newhymn/logo4.png" alt="Hymnary"></a>        </div>
+        <a href="/"><img src="http://static.ccel.org/themes/newhymn/logo9.png" alt="Hymnary"></a>        </div>
 
                   <ul class="links primary-links"><li class="first menu-1-1-105"><a href="/" class="menu-1-1-105">HOME</a></li>
 <li class="menu-1-2-105"><a href="/user/login" class="menu-1-2-105">LOGIN</a></li>
 <li class="menu-1-3-105"><a href="/about" class="menu-1-3-105">ABOUT</a></li>
-<li class="last menu-1-4-105"><a href="http://www.ccel.org/store/store.html?show=hymnal" class="menu-1-4-105">STORE</a></li>
+<li class="menu-1-4-105"><a href="http://www.ccel.org/store/store.html?show=hymnal" class="menu-1-4-105">STORE</a></li>
+<li class="last menu-1-5-105"><a href="/forum" class="menu-1-5-105">FORUM</a></li>
 </ul>        
       </div> <!-- /header -->
 
@@ -76,8 +100,8 @@
 <a href="/?category=hymnals" title="Browse hymnals"><img src="http://static.ccel.org/themes/newhymn/tab-hymnals.png" class="rollover" width="76" alt="HYMNALS"></a>
 		  <span id="header-search-box">
 		  	<form action="http://www.hymnary.org/search">
-		  	<input type="text" name="qu" id="qu" class="search-box">
-			<input type="image" src="http://static.ccel.org/themes/newhymn/search-button.png" class="search-submit" value="SEARCH">
+		  	<input type="text" name="qu" id="qu" style="color: gray" value="Search the entire Hymnary" onfocus="search_focus()" onblur="search_blur()" class="search-box">
+			<input type="image" src="http://static.ccel.org/themes/newhymn/search-button.png" onclick="search_focus()" class="search-submit" value="SEARCH">
 			</form>
 		  </span>
 	  </div>
@@ -104,53 +128,49 @@ above. Narrow your browse or search results using the "refine search" tools
 that will appear in this column.</li>
 </ul>
 </div></li></ul>
+<div class="sidebar-spacer"></div>
 </div>
 </div>
+ 
         </div>
       
       <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
           <!--<div class="breadcrumb"><a href="/">Home</a></div>-->
           
-                    <h2 class="page-title">CCEL Privacy Policy</h2>          
+                    <h2 class="page-title">Privacy Policy</h2>          
           
                               
-<div id="node-51" class="node">
+<div id="node-5470" class="node">
 
 
 
   
   <div class="content">
-    <p>Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several CCEL services that require the collection of information from you. These services include making purchases through the CCEL Store and signing up with a user name and password to enable you to download books and access community and annotation features. Other services may set cookies on your computer. These include installing books on your computer, annotating books, and managing your personal preferences.
+    <p>Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several Hymnary services that require the collection of information from you. These services include signing up with a user name and password to enable you to access community features. Other services may set cookies on your computer.
 
-
-</p><p><b>The CCEL Store</b></p>
-
-<p>The CCEL store works in collaboration with <a href="http://www.paypal.com">PayPal</a>.  PayPal is governed by its own privacy policy.  Users concerned about submitting information to PayPal should review PayPal's <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside">privacy statement.</a></p>
-
-<p>We receive from paypal.com only your name, postal address, e-mail address, and the item(s) and quantity you have ordered. This information is used only internally, and it is not sold or rented to other parties. You will not be placed on any mailing lists unless you give permission to do so.
 
 </p><p><b>Our Use of "Cookies"</b></p>
 
-<p>Cookies are small bits of data that we send to your computer. They identify you as a CCEL user and contain information regarding your locally installed CCEL location and your CCEL preferences such as your preferred Bible version and note location. </p>
+<p>Cookies are small bits of data that we send to your computer. They identify you as a Hymnary user and contain information regarding your Hymnary preferences.</p>
 
-<p>The cookies are not used for tracking users outside the CCEL Web site, and they are not accessible by third parties. </p>
+<p>The cookies are not used for tracking users outside the Hymnary Web site, and they are not accessible by third parties. </p>
 
 <p><b>Web Site Traffic Information</b></p>
 
-<p>When you visit this or any Web site, information is available to the site on the pages you view, the time of your visit, the browser you are using, the address of the computer you visit from, and the address of the page you are coming from. We use this information internally only, to better understand user needs and preferences and make the CCEL more useful. We do not share this information with third parties unless required by law, and we do not track Web sites you visit before or after you access the CCEL.</p>
+<p>When you visit this or any Web site, information is available to the site on the pages you view, the time of your visit, the browser you are using, the address of the computer you visit from, and the address of the page you are coming from. We use this information internally only, to better understand user needs and preferences and make the Hymnary more useful. We do not share this information with third parties unless required by law, and we do not track Web sites you visit before or after you access the Hymnary.</p>
 
 <p><b>Our Use and Disclosure of Information</b></p>
 
-<p>The CCEL will not sell or rent any of your personally identifiable information to third parties. </p>
+<p>The Hymnary will not sell or rent any of your personally identifiable information to third parties. </p>
 
-<p>The CCEL does not send unsolicited e-mail to users. Only users who have voluntarily joined an e-mail list such as the ccel-list or have given permission to receive CCEL announcements receive e-mail from the CCEL. 
+<p>The Hymnary does not send unsolicited e-mail to users. Only users who have voluntarily joined an e-mail list such as the hymnal editors or have given permission to receive Hymnary announcements receive e-mail from the Hymnary. 
 </p>
 
 <p><b>Notification of Changes</b></p>
 
-<p>This policy may be revised over time as new features are added to CCEL or as we incorporate suggestions from our users.  The CCEL is not responsible for notifying users of changes to this policy.</p>
+<p>This policy may be revised over time as new features are added to Hymnary or as we incorporate suggestions from our users.  The Hymnary is not responsible for notifying users of changes to this policy.</p>
 
-<p>We will post the amended Privacy Policy promptly on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the CCEL Web site at <a href="http://www.ccel.org/info/privacy.html">www.ccel.org/info/privacy.html</a> for the current version of our Privacy Policy.</p>
+<p>We will post the amended Privacy Policy promptly on our Web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the CCEL Web site at <a href="http://www.hymnary.org/info/privacy.html">www.hymnary.org/info/privacy.html</a> for the current version of our Privacy Policy.</p>
 
   </div>
 
@@ -164,29 +184,20 @@ that will appear in this column.</li>
           	  </div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
 		  <div id="footer">
 			  <div id="footer-logos">
-				  <a href="http://www.ccel.org/"><img src="http://static.ccel.org/themes/newhymn/ccel-logo.png" alt="Christian Classics Ethereal Library"></a>
-				  <a href="http://www.calvin.edu/worship/"><img src="http://static.ccel.org/themes/newhymn/cicw-logo.png" alt="Calvin Institute of Christian Worship"></a>
-				  <a href="http://www.calvin.edu/"><img src="http://static.ccel.org/themes/newhymn/calvin-logo.png" alt="Calvin College"></a><br>
+				  <a href="http://www.ccel.org/"><img src="http://static.ccel.org/themes/newhymn/ccel-logo2.png" alt="Christian Classics Ethereal Library"></a>
+				  <a href="http://www.calvin.edu/worship/"><img src="http://static.ccel.org/themes/newhymn/cicw-logo2.png" alt="Calvin Institute of Christian Worship"></a>
+				  <a href="http://www.calvin.edu/"><img src="http://static.ccel.org/themes/newhymn/calvin-logo2.png" alt="Calvin College"></a><br>
 				  <center><hr id="footer-rule"></center>
 			  </div>
 			  <a href="/links">LINKS</a> |
 <a href="/copyright">COPYRIGHT</a> |
 <a href="/info/privacy.html">PRIVACY</a> | 
-<a href="/info/email.html?to=feedback">CONTACT US</a>
+<a href="/info/email.html?to=feedback">CONTACT US</a> |
+<a href="/hymnads">ADVERTISE WITH US</a>
 </div>
 		  </div>
 		  </div>
 
-              <div id="sidebar-right" class="sidebar">
-                    <div id="block-advertising-1" class="clear-block block block-advertising">
-
-
-  <div class="content"><center><a href="/ads/click/QOkaUV98TaUMBvCArvMPbSB8nXIKjF7Na-16SCmpqJBjyqXdOQv0NpjMfbUqOQOitEy9F_kJWI4=" onclick="javascript:pageTracker._trackPageview('/clickad/ccel-iphone/10')"><img border="0" src="http://static.ccel.org/pix/affiliate/ccel/ccel-nrsv.png" alt="CCEL NRSV iPhone app"></a><br><br>
-<a href="/ads/click/QOkaUV98TaUMBvCArvMPbQPMSMkKhSwtBizsSP3Wki3U9ARH6OfsGW-BfdXTt9_y" onclick="javascript:pageTracker._trackPageview('/clickad/chraudio/21')"><img border="0" src="http://static.ccel.org/pix/affiliate/chraudio/christian_audio_02.jpg" alt="The Leader in Classic Christian Audio - ChristianAudio.com"></a><br><br>
-<a href="/ads/click/QOkaUV98TaUMBvCArvMPbewLQNP1ncmzsSCdb-0Rxr7U9ARH6OfsGZM-7X_rDbeJ" onclick="javascript:pageTracker._trackPageview('/clickad/CTI-history/12')"><img border="0" src="http://static.ccel.org/pix/affiliate/cti/chbi_120x160_0108.jpg" alt="Journey Back... in Christian History - Back issues"></a><br><br>
-</center></div>
-</div>
-        </div>
       
     </div> <!-- /container -->
   </div>
