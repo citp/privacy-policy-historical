@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219125135id_/http%3A//billeo.com/privacypolicy.jsp%3Fsitename%3DBILLEO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081928id_/http%3A//www.billeo.com/privacypolicy.jsp%3Fsitename%3DBilleo) for the most accurate reproduction.*
 
 # Billeo: Password Manager, Form Fill, Bill Pay, Save Web Pages
 
