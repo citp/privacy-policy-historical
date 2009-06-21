@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeuptalk.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220232523id_/http%3A//www.makeuptalk.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuptalk.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621105536id_/http%3A//www.makeuptalk.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MakeupTalk.com
+# MakeupTalk.com Product Review on:
 
 #### Our Commitment to Your Privacy  
 Your privacy is important to www.makeuptalk.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
@@ -29,4 +29,5 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **Our Commitment to Children's Privacy**  
 Protecting the privacy of the very young is especially important to us at www.makeuptalk.com. And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13 specifically.
 
-Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution. 
+Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution.   
+* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
