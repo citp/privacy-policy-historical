@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061322id_/http%3A//www.acteva.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acteva.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621195031id_/http%3A//www.acteva.com/privacy.html) for the most accurate reproduction.*
 
-# Online event registration for easy event management
+# Acteva Privacy Policy
 
 |  |  Effective Date: June 1, 2004
 
