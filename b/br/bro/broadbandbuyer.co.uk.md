@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216125241id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621073227id_/http%3A//www.broadbandbuyer.co.uk/Shop/Info/Privacy.asp) for the most accurate reproduction.*
 
 # Broadbandbuyer.co.uk | Privacy Policy
 
-  | 
+|   | 
 
 Privacy Policy
 
@@ -47,5 +47,3 @@ Of the information we do collect, we allow our visitors the following access to 
 
 
 If you believe that our web site has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
-
-|  
