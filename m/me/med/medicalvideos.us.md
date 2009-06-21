@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218075332id_/http%3A//www.medicalvideos.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621161129id_/http%3A//www.medicalvideos.us/privacy) for the most accurate reproduction.*
 
 # Medical Videos - -
 
-This document sets out MedicalVideos.us’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Use](https://web.archive.org/web/20081218075332id_/http%3A//www.medicalvideos.us/page.php?page=3).
+This document sets out MedicalVideos.us’s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Use](https://web.archive.org/web/20090621161129id_/http%3A//www.medicalvideos.us/page.php?page=3).
 
-We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/web/20081218075332id_/http%3A//www.medicalvideos.us/login.php) on the Website including your user ID, a valid email address, and your date of birth. 
+We collect and subsequently process the Data that you voluntarily provide on the [registration form](https://web.archive.org/web/20090621161129id_/http%3A//www.medicalvideos.us/login.php) on the Website including your user ID, a valid email address, and your date of birth. 
 
 Data indicated on the Website as mandatory is required in order to use the Website’s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because MedicalVideos.us is an American company, the Data is collected and maintained in the U.S.
 
@@ -22,6 +22,12 @@ If you are the parent or legal guardian of a child under 13, and that child has 
 
 You are entitled to access and correct your Data by requesting to do so via the Contact us section.
 
+Google, as a third party vendor, uses cookies to serve ads on MedicalVideos.us.
+
+Google's use of the DART cookie enables it to serve ads to the users based on the visit to MedicalVideos.us and other sites on the Internet. 
+
+You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
 Only doctors,medical students,paramedical personnel and health care professionals can register because MedicalVideos.us is directed to them only.
 
-Patients are not allowed to view the site or ask for any kind of therapeutic help and they should only seek the help of their physicians or doctors for that purpose as we have mentioned in the [terms of use. ](https://web.archive.org/web/20081218075332id_/http%3A//www.medicalvideos.us/page.php?page=3)
+Patients are not allowed to view the site or ask for any kind of therapeutic help and they should only seek the help of their physicians or doctors for that purpose as we have mentioned in the [terms of use. ](https://web.archive.org/web/20090621161129id_/http%3A//www.medicalvideos.us/page.php?page=3)
