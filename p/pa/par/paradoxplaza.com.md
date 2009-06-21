@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101615id_/http%3A//www.paradoxplaza.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D30%26Itemid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxplaza.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622013117id_/http%3A//www.paradoxplaza.com//index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D30%26Itemid%3D69) for the most accurate reproduction.*
 
 # Paradox Interactive - Privacy
 
