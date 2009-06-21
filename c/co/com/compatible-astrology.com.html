@@ -1,0 +1,554 @@
+<!--The following is the downloaded HTML source of the compatible-astrology.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621110745id_/http%3A//www.compatible-astrology.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><link rel="canonical" href="http://www.compatible-astrology.com/privacy.html"><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.compatible-astrology.com/favicon.ico">
+
+
+<title>Privacy Policy</title>
+
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta name="Keywords" content="Privacy Policy">
+<meta name="Description" content="Privacy Policy">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="CONTENT-LANGUAGE" content="EN">
+
+
+<link rel="stylesheet" type="text/css" href="http://www.compatible-astrology.com/support-files/astro.css">
+
+
+
+<script type="text/javascript" language="JavaScript">
+//browser detection
+function Is() 
+{
+   var agent = navigator.userAgent.toLowerCase();
+   this.major = parseInt(navigator.appVersion);
+   this.minor = parseFloat(navigator.appVersion);
+
+   this.ns = ((agent.indexOf('mozilla') != -1) && 	
+    (agent.indexOf('spoofer') == -1) && 
+    (agent.indexOf('compatible') == -1) && 
+    (agent.indexOf('opera') == -1) && 
+    (agent.indexOf('webtv') == -1));
+
+   this.ns2 = (this.ns && (this.major == 2));
+   this.ns3 = (this.ns && (this.major == 3));
+   this.ns4 = (this.ns && (this.major == 4));
+   this.ns6 = (this.ns && (this.major >= 5));
+   this.ie = (agent.indexOf("msie") != -1);
+   this.ie3 = (this.ie && (this.major < 4));
+   this.ie4 = (this.ie && (this.major == 4));
+   if(this.ie4 && (agent.indexOf("msie 5.0") != -1))
+   {
+      this.ie4=false;
+      this.ie5=true;
+   }
+
+   this.ieX = (this.ie && !this.ie3 && !this.ie4);
+}
+
+var is = new Is();
+
+//Write text on top of a layer
+function WriteLayer(id,text) 
+{
+   var DOM = (document.getElementById) ? true:false;	
+   var divID;
+
+   if (is.ns4) divID = document.layers[id];
+   else if (is.ie4) divID = document.all[id];
+   else if (DOM) divID = document.getElementById(id);
+
+   if (is.ns4) 
+   {
+      divID.document.open();
+      divID.document.write(text);
+      divID.document.close();
+   }
+   else if (DOM ||is.ie4) 
+   {
+      divID.innerHTML = text;						
+   }
+}
+
+function SetLayerVisibility(id,visibility)
+{
+   if (is.ieX||is.ns6)
+   {
+        this.obj = document.getElementById(id).style;
+        this.obj.visibility = visibility;
+   }
+   else if(is.ie4)
+   {
+        this.obj = document.all[id].style;
+        this.obj.visibility = visibility;
+   }
+   else if(is.ns4)
+   {
+        this.obj = document.layers[id];
+        return this.obj;
+   }
+}
+
+function SubmitData(code)
+{
+   var flag;
+
+   flag = eval('isReady_' + code + '()');
+
+   if (!flag)
+   {
+	return false;
+   }   
+   eval('document._' + code + '.target="_self";');
+   eval('document._' + code + '.submit();');
+}
+
+var Reqd;
+var eMai;
+
+function trim(s)
+{
+   while (s.substring(0,1) == ' ')
+   {
+      s = s.substring(1,s.length);
+   }
+   while (s.substring(s.length-1,s.length) == ' ')
+   {
+      s = s.substring(0,s.length-1);
+   }
+   return s;
+}
+
+function CheckEmail(eMai)
+{
+    eMai=trim(eMai);
+    var ok = "1234567890abcdefghijklmnopqrstuvwxyz[].\@-_ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    for(h=0; h < eMai.length ;h++)
+    {
+        if(ok.indexOf(eMai.charAt(h))<0)
+        {
+            return (false);
+        }
+    }
+    var re = /(@.*@)|(\.\.)|(^\.)|(^@)|(@$)|(\.$)|(@\.)/;
+    var re_two = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,4}|[0-9]{1,4})(\]?)$/;
+    if (!eMai.match(re) && eMai.match(re_two))
+    {
+        return -1;
+    }
+}
+function isReady_5674191478114866()
+{
+   var bFieldsFilled=true;
+         if(document._5674191478114866.submission_challenge && !document._5674191478114866.submission_challenge.value.length)
+      {
+         document._5674191478114866.submission_challenge.style.background = "#ff0000";
+         if( bFieldsFilled)
+         {
+            document._5674191478114866.submission_challenge.focus();
+            bFieldsFilled=false;
+         }
+      }
+
+   if(!bFieldsFilled)
+   {
+      var str='<br><b><FONT size="3" face="Verdana, Arial, Helvetica, sans-serif" color="red">';
+          str +='This Form cannot be submitted until the missing<BR>';
+          str +='fields (labelled below in red) have been filled in.</FONT></b>';
+      WriteLayer("MissingFields_5674191478114866",str);
+
+
+      SetLayerVisibility("MissingFields_5674191478114866","visible");
+   }
+   else
+   {
+      SetLayerVisibility("MissingFields_5674191478114866","hidden");
+   }
+
+   return bFieldsFilled;
+}
+
+</script>
+
+</head>
+<body>
+<div class="max-width" align="center">
+<table width="90%" cellspacing="0" cellpadding="0" style="border:1px solid #000046;">
+
+
+<tbody><tr>
+<td class="headerbg" colspan="12"><a href="http://www.compatible-astrology.com/index.html"><div align="right"><img src="image-files/compatible-astrology.png" width="550" height="75" title="Compatible Astrology home" alt="Compatible Astrology home" border="0"></div></a></td>
+</tr>
+
+<tr bgcolor="#000000" align="center">
+<td width="8%"><span class="topbutton"><a href="aries-compatibility.html">Aries</a></span></td>
+<td width="8%"><span class="topbutton"><a href="taurus-compatibility.html">Taurus</a></span></td>
+<td width="8%"><span class="topbutton"><a href="gemini-compatibility.html">Gemini</a></span></td>
+
+<td width="8%"><span class="topbutton"><a href="cancer-compatibility.html">Cancer</a></span></td>
+<td width="8%"><span class="topbutton"><a href="leo-compatibility.html">Leo</a></span></td>
+<td width="8%"><span class="topbutton"><a href="virgo-compatibility.html">Virgo</a></span></td>
+
+<td width="8%"><span class="topbutton"><a href="libra-compatibility.html">Libra</a></span></td>
+<td width="8%"><span class="topbutton"><a href="scorpio-compatibility.html">Scorpio</a></span></td>
+<td width="10%"><span class="topbutton"><a href="sagittarius-compatibility.html">Sagittarius</a></span></td>
+
+<td width="9%"><span class="topbutton"><a href="capricorn-compatibility.html">Capricorn</a></span></td>
+<td width="9%"><span class="topbutton"><a href="aquarius-compatibility.html">Aquarius</a></span></td>
+<td width="8%"><span class="topbutton"><a href="pisces-compatibility.html">Pisces</a></span></td>
+</tr>
+
+</tbody></table>
+<table width="90%" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td class="spacerbg" valign="top" height="0" width="20%"></td>
+
+<td class="contentbg" rowspan="2" valign="top">
+
+<!--editable content -->
+
+<p>&nbsp;</p>
+
+
+
+
+<h1>Privacy Policy</h1>
+<p>&nbsp;</p>
+<p><b>Compatible-Astrology.com</b> is strongly committed to protecting
+your privacy and providing a safe online experience for all our users.
+That is why we have created this privacy policy which clarifies our
+information gathering and disseminating practices. In this document we
+explain what information is gathered and how it is used.</p>
+
+<p>Please read the complete Privacy Policy below and contact us if you have any questions.</p>
+
+<p><b>Compatible-Astrology.com</b> contains links to many external Web sites. The company is not responsible for the privacy practices or the content of 
+the external Web sites we link to.</p>
+
+<p><u><b>Information We Gather</b></u></p>
+<p>Our Web server generates temporary logs that contain the following information:</p>
+<p>Internet address of computer being used</p>
+<p>Web pages requested</p>
+<p>Referring Web page</p>
+<p>Browser used</p>
+<p>Date and Time</p>
+
+<p>The data is used by our system administrator and Web content manager
+to tune the Web site for its efficiency and is not ordinarily
+associated with specific individuals. Summary reports produced from the
+logs help Web publishers determine what Web browsers and pages are most
+popular.</p>
+
+<p><u><b>Cookies</b></u></p>
+<p>Cookies are small data files that are stored by your browser during
+a browsing session. They assign an anonymous random ID to your
+computer. In common with most websites, we may use these cookies to provide us with information about
+your habits and preferences. The information cookies provide is
+anonymous, non-personified (no names, emails or addresses) and can be
+used only on aggregate basis (for example, to learn how often visitors
+come to the site).</p>
+<p>Most web browsers accept cookies by default, but have an option that
+enables you not to accept cookies, if you prefer. Also, you can delete
+cookies from your computer once they are stored.</p>
+
+<p><u><b>Security of Your Personal Information</b></u></p>
+<p><b>Compatible-Astrology.com</b> limits access to private and confidential data only to those employees with a specific need to retrieve this information. 
+We store data on multiple service systems, in controlled, secure environments.</p>
+
+<p><u><b>E-commerce</b></u></p>
+<p><b>Compatible-Astrology.com</b> enables you to pay for products or
+services online with a credit card. Unless otherwise noted, these
+transactions are encrypted. It is the Company's policy that
+confidential information you enter in the transaction is used only for
+the purposes described in that transaction.</p>
+
+<p><u><b>Sharing of Information</b></u></p>
+<p><b>Compatible-Astrology.com</b> does not share information with
+other parties without your authorization. It is against the Company's
+policy to release confidential information gathered through the Web,
+such as pages visited, or personalized preferences.</p>
+<p>We may extend offers to users on behalf of our partners about a
+particular product or service that may be of interest to you, but we
+will never give out your name or personal information at any time
+without your permission. As result, although we may receive a fee from
+our partners for this service, we send all the offers so that your
+personal information is never shared with any third party.</p>
+
+<p><u><b>Contact Information</b></u></p>
+<p>If you have any questions about this Privacy Policy or our privacy practices, please follow the link and reply using our 
+<b><a href="http://www.Compatible-Astrology.com/contact.html">Contact Us</a></b> form.</p>
+
+<p>Updated February, 2009</p>
+      
+
+
+
+
+
+
+
+<!--editable content ends-->
+
+<br clear="all">
+</td>
+
+<td class="rightbg" valign="top" rowspan="2" width="20%">
+
+<br>
+
+<center>
+<!-- FormDisplay.html -->
+<form method="post" name="_5674191478114866" action="http://www.compatible-astrology.com/cgi-bin/fb/FormProcess.pl">
+<!--FORMCODE 1429396890441439_5674191478114866-->
+<input type="hidden" name="DOMAIN" value="compatible-astrology.com">
+<input type="hidden" name="DOMAIN_ID" value="21101792">
+<input type="hidden" name="FORM_CODE" value="1429396890441439">
+<input type="hidden" name="SUBMISSION_TYPE" value="1">
+
+<table bgcolor="#9999cc" border="1" cellspacing="0" cellpadding="5" align="center" width="95%">
+<tbody><tr>
+<td><div id="FormLayer_5674191478114866" style="visibility:visible">
+<div id="MissingFields_5674191478114866" style="visibility:hidden" align="center">
+</div>
+</div><table border="0" cellspacing="0" cellpadding="4" align="center" width="100%">
+<tbody><tr>
+<td colspan="2" align="center">
+<b>Subscribe to <br><em>Midnight</em><br> my monthly e-zine</b>
+</td>
+</tr>
+<tr><td align="center" valign="top" colspan="2">Email</td></tr><tr><td colspan="2" align="center"><input type="text" name="_8542510935099438" size="20" value=""></td></tr>
+<tr><td align="center" valign="top" colspan="2">Name</td></tr><tr><td colspan="2" align="center"><input type="text" name="_0505426060073564" size="20" value=""></td></tr>
+	
+
+<tr>
+<td colspan="2" align="center">
+<input type="button" name="Button" value="Subscribe" onclick="SubmitData('5674191478114866');">
+
+<br><font size="1">I have a zero spam policy. Your e-mail address will only ever be used for this e-zine.</font></td></tr>
+
+<tr><td><center>Sexy, funny and free.</center></td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</form>
+</center>
+
+<div align="center"><div id="lnav">
+<div class="menu-title">
+<b>Other things..</b>
+</div>
+<span class="navbutton"><a href="about-me.html" rel="nofollow">About me</a></span><hr>
+<span class="navbutton"><a href="astrology-compatibility-reports.html">Compatibility reports</a></span><hr>
+<span class="navbutton"><a href="relationship-ebooks.html" rel="nofollow">Relationship ebooks</a></span><hr>
+<span class="navbutton"><a href="astrology-faq.html">Astrology FAQ</a></span><hr>
+<span class="navbutton"><a href="compatible-astrology-blog.html">What's new?</a></span><hr>
+<span class="navbutton"><a href="tarot-resources.html" rel="nofollow">Tarot resources</a></span><hr>
+<span class="navbutton"><a href="contact.html" rel="nofollow">Contact me</a></span>
+
+<div class="menu-title">
+<b>Want to be notified of new questions and answers?</b>
+</div>
+
+</div>
+</div>
+
+<center><div id="addSiteTo"><a href="http://www.compatible-astrology.com/compatible-astrology.xml" target="new"><img style="padding-top:2px;" src="http://www.compatible-astrology.com/objects/rss.jpg" alt="XML RSS"></a><br><a href="http://fusion.google.com/add?feedurl=http://www.compatible-astrology.com/compatible-astrology.xml" target="new" rel="nofollow"><img src="http://www.compatible-astrology.com/objects/googleplus.gif" alt="Add to Google"></a><br><a href="http://add.my.yahoo.com/rss?url=http://www.compatible-astrology.com/compatible-astrology.xml" target="new"><img src="http://www.compatible-astrology.com/objects/addtomyyahoo4.gif" alt="Add to My Yahoo!" rel="nofollow"></a><br><a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://www.compatible-astrology.com/compatible-astrology.xml" target="new"><img src="http://www.compatible-astrology.com/objects/add-mymsn2.gif" alt="Add to My MSN" rel="nofollow"></a><br><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.compatible-astrology.com/compatible-astrology.xml" target="new"><img src="http://www.compatible-astrology.com/objects/ngsub1.gif" alt="Add to Newsgator" rel="nofollow"></a><br><a href="http://www.bloglines.com/sub/http://www.compatible-astrology.com/compatible-astrology.xml" target="new"><img src="http://www.compatible-astrology.com/objects/bloglines.gif" alt="Subscribe with Bloglines" rel="nofollow"></a></div></center>
+
+<br>
+
+<script type="text/javascript">
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('http://www.compatible-astrology.com',url);
+	elem.setAttribute('Compatible Astrology',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+</script>
+<div align="center"><a href="javascript:bookmarksite('Compatible Astrology', 'http://www.compatible-astrology.com')">Bookmark this site</a></div>
+
+<br>
+
+<div align="center"><a href="http://www.stumbleupon.com/submit?url=www.compatible-astrology.com" rel="nofollow" target="_blank" onclick="window.open('http://www.compatible-astrology.com/cgi-bin/counter.pl?url=http%3A%2F%2Fwww%2Estumbleupon%2Ecom%2Fsubmit%3Furl%3Dwww%2Ecompatible-astrology%2Ecom&amp;referrer=http%3A%2F%2Fwww%2Ecompatible-astrology%2Ecom%2Fprivacy%2Ehtml'); return false;"> <img border="0" src="image-files/120x20_thumb_black.gif" alt="Stumble me!"></a></div>
+
+<br>
+
+</td></tr>
+
+<tr><td class="leftbg" valign="top">
+
+<div id="navig">
+<div style="margin-left: 10px; margin-top: 5px;">
+
+<ul>
+<li><a href="index.html">Home</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Aries
+</td><td align="right" style="font-size: 10px;">March21-April19
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="aries-compatibility.html">Aries compatibility</a></li>
+<li><a href="aries-man.html">Aries men</a></li>
+<li><a href="aries-woman.html">Aries women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Taurus
+</td><td align="right" style="font-size: 10px;">April20-May20
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="taurus-compatibility.html">Taurus compatibility</a></li>
+<li><a href="taurus-man.html">Taurus men</a></li>
+<li><a href="taurus-woman.html">Taurus women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Gemini
+</td><td align="right" style="font-size: 10px;">May21-June21
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="gemini-compatibility.html">Gemini compatibility</a></li>
+<li><a href="gemini-man.html">Gemini men</a></li>
+<li><a href="gemini-woman.html">Gemini women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Cancer
+</td><td align="right" style="font-size: 10px;">June22-July22
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="cancer-compatibility.html">Cancer compatibility</a></li>
+<li><a href="cancer-man.html">Cancer men</a></li>
+<li><a href="cancer-woman.html">Cancer women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Leo
+</td><td align="right" style="font-size: 10px;">July23-August22
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="leo-compatibility.html">Leo compatibility</a></li>
+<li><a href="leo-man.html">Leo men</a></li>
+<li><a href="leo-woman.html">Leo women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Virgo
+</td><td align="right" style="font-size: 10px;">August23-Sept22
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="virgo-compatibility.html">Virgo compatibility</a></li>
+<li><a href="virgo-man.html">Virgo men</a></li>
+<li><a href="virgo-woman.html">Virgo women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Libra
+</td><td align="right" style="font-size: 10px;">September23-Oct22
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="libra-compatibility.html">Libra compatibility</a></li>
+<li><a href="libra-man.html">Libra men</a></li>
+<li><a href="libra-woman.html">Libra women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Scorpio
+</td><td align="right" style="font-size: 10px;">October23-Nov21
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="scorpio-compatibility.html">Scorpio compatibility</a></li>
+<li><a href="scorpio-man.html">Scorpio men</a></li>
+<li><a href="scorpio-woman.html">Scorpio women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Sagittarius
+</td><td align="right" style="font-size: 10px;">November22-Dec21
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="sagittarius-compatibility.html">Sagittarius compatibility</a></li>
+<li><a href="sagittarius-man.html">Sagittarius men</a></li>
+<li><a href="sagittarius-woman.html">Sagittarius women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Capricorn
+</td><td align="right" style="font-size: 10px;">December22-Jan19
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="capricorn-compatibility.html">Capricorn compatibility</a></li>
+<li><a href="capricorn-man.html">Capricorn men</a></li>
+<li><a href="capricorn-woman.html">Capricorn women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Aquarius
+</td><td align="right" style="font-size: 10px;">January20-Feb18
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="aquarius-compatibility.html">Aquarius compatibility</a></li>
+<li><a href="aquarius-man.html">Aquarius men</a></li>
+<li><a href="aquarius-woman.html">Aquarius women</a></li>
+</ul>
+
+<table width="95%" style="border-top: 1px solid #000000;">
+<tbody><tr><td align="left" style="font-size: 12px; font-weight:bold;">Pisces
+</td><td align="right" style="font-size: 10px;">February19-March20
+</td></tr></tbody></table>
+
+<ul>
+<li><a href="pisces-compatibility.html">Pisces compatibility</a></li>
+<li><a href="pisces-man.html">Pisces men</a></li>
+<li><a href="pisces-woman.html">Pisces women</a></li>
+</ul>
+
+</div>
+</div>
+
+</td></tr>
+
+<tr>
+<td class="foot" colspan="3">
+<div align="center">
+<p>&nbsp;</p><p>&nbsp;</p>
+<p><a href="index.html" rel="“nofollow”"><font color="#FFFF99">Home</font></a> |						
+<a href="terms.html" rel="“nofollow&quot;"><font color="#FFFF99">Terms and conditions</font></a> | 
+<a href="privacy.html" rel="“nofollow&quot;"><font color="#FFFF99">Privacy policy</font></a> | 
+<a href="link-exchange.html" rel="“nofollow”"><font color="#FFFF99">Link exchange</font></a> |
+<a href="astrology-faq.html"><font color="#FFFF99">Astrology-FAQ</font></a> |
+<a href="sites-we-like.html"><font color="#FFFF99">Sites we like</font></a> | 
+<a href="contact.html" rel="“nofollow”"><font color="#FFFF99">Contact us</font></a></p>
+<p><a href="#top"><font color="#FFFF99">Return to top</font></a></p><font color="#FFFF99">
+<p>&nbsp;</p>
+<p><font color="#FFFF99">Copyright Compatible-Astrology.com 2009</font></p>
+</font></div><font color="#FFFF99">
+</font></td></tr>
+
+
+</tbody></table>
+</div>
+
+</body></html>
