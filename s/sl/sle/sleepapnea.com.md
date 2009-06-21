@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221104621id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepapnea.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011533id_/http%3A//global.respironics.com/PrivacyNotice.asp) for the most accurate reproduction.*
 
 # Privacy Notice, Philips Respironics
 
