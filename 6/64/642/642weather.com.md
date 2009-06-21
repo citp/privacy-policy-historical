@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 642weather.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219024043id_/http%3A//www.642weather.com/weather/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 642weather.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621102330id_/http%3A//www.642weather.com/weather/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Long Beach Weather
 
@@ -40,7 +40,7 @@ You agree to defend, indemnify, and hold harmless LBW, its officers, owners, mem
 
 **General**
 
-LBW makes no claims that the Materials are appropriate for any particular purpose or audience, or that they may be downloaded outside of the United Kingodm. Access to the Materials (including Software) may not be legal by certain persons or in certain countries. If you access the Web Site from outside of the United States, you are responsible for compliance with the laws of your jurisdiction. 
+LBW makes no claims that the Materials are appropriate for any particular purpose or audience, or that they may be downloaded outside of the United States. Access to the Materials (including Software) may not be legal by certain persons or in certain countries. If you access the Web Site from outside of the United States, you are responsible for compliance with the laws of your jurisdiction. 
 
 Comments that are sent to us about the web site may be quoted on the site, along with your location ie: Country, State or County but names, addresses and email addresses will never be published without permission. LBW will never share this information with any other person or web site for any purpose unless required to do so by law. 
 
@@ -54,6 +54,6 @@ If you have any questions, complaints or suggestions (remember, we did say to be
 
 From the Long Beach Weather team, we thank you for using the site. Enjoy! 
 
-Comments, questions or problems? [ Contact Us](https://web.archive.org/web/20081219024043id_/http%3A//www.642weather.com/weather/contact_us.php)
+Comments, questions or problems? [ Contact Us](https://web.archive.org/web/20090621102330id_/http%3A//www.642weather.com/weather/contact_us.php)
 
 Webmaster last modified 29th May 2008
