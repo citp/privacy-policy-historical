@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksby.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175403id_/http%3A//www.ksby.com/global/story.asp%3Fs%3D6279329) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksby.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621031013id_/http%3A//www.ksby.com/global/story.asp%3Fs%3D6279329) for the most accurate reproduction.*
 
-# KSBY 6 Action News Santa Maria, San Luis Obispo, Paso Robles-KSBY Communications, Inc. Privacy Statement
+# KSBY Communications, Inc. Privacy Statement - KSBY 6 Action News San Luis Obispo, Santa Maria, Santa Barbara
 
 |   
 ---  
