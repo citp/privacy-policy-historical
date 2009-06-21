@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219193501id_/http%3A//www.pramac.com/europe/en/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621060048id_/http%3A//www.pramac.com/europe/en/privacy-statement.asp) for the most accurate reproduction.*
 
 # PRAMAC - Privacy statement
 
@@ -6,6 +6,9 @@ Privacy statement
 
 * * *
 
+Last updated on February 2008 |   
+---|---  
+  
 **Informative report about personal data treatment**
 
 PRAMAC commits itself to protect its users' privacy. In this informative report about privacy, the mechanisms of data collecting and treatment adopted by PRAMAC.com (afterwards mentioned as "Site") are described; therefore the following information does not apply to other PRAMAC websites, products or services, online and not online. The access to the Site assumes the consent to collection and treatment of personal data, according to the methods described in this informative report about privacy. 
