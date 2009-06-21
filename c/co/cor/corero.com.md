@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208231146id_/http%3A//www.corero.com/site-meta/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621040548id_/http%3A//www.corero.com/site-meta/privacy-statement) for the most accurate reproduction.*
 
 # Corero.com - Privacy
 
@@ -50,4 +50,4 @@ A cookie is a piece of information that is stored on your computer's hard drive.
 
 If you have any questions or concerns about this policy, please call us on +44 (0)20 7392 1300 or email to [info@corero.com](mailto:info@corero.com)
 
-© 2007-2008 Corero Systems Limited. [Legal](http://www.corero.com/site-meta/legal-notice/ "Legal") & [Privacy](http://www.corero.com/site-meta/privacy-statement/ "Privacy")
+© 2007-2009 Corero Systems Limited. [Legal](http://www.corero.com/site-meta/legal-notice/ "Legal") & [Privacy](http://www.corero.com/site-meta/privacy-statement/ "Privacy")
