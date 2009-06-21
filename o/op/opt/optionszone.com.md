@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221152833id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194836id_/http%3A//optionszone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 This is the OptionsZone Web site. 
 
@@ -85,3 +83,27 @@ Please remember that voluntary postings voluntary postings submitted through our
 InvestorPlace Media reserves the right to change this policy at any time by posting a revised privacy policy on this web page. 
 
 You can send e-mail to us with any further questions at [service@OptionsZone.com](mailto:%20service@optionszone.com).
+
+### More By This Expert
+
+Ken Trester
+
+[Commodity Futures 101: Learn How to Trade Commodity Futures](https://web.archive.org/trading-ideas/gallery/commodity-futures-101-learn-how-to-trade-commodity-futures.html)
+
+Learn the commodity futures basics to get started on your way to trading options on commodity futures, which is an excellent way to make big profits.
+
+[Short-Term Gains Using Long-Term Options](https://web.archive.org/learn-more/ken-trester/make-short-term-money-with-long-term-options.html)
+
+Stock options are excellent speculative vehicles and can be inexpensive to boot! 
+
+[The Thrill of Expiring Options](https://web.archive.org/learn-more/ken-trester/the-thrill-of-expiring-options.html)
+
+A diligent trader can make big money buying expiring options. But you have to be ready to move quickly.
+
+[How to Initiate a Credit Spread](https://web.archive.org/learn-more/ken-trester/how-to-initiate-a-credit-spread.html)
+
+We'll show you how our subscribers made a $400 return in less than two weeks with this two-step strategy.
+
+[Make Big Money in Underpriced Options](https://web.archive.org/learn-more/ken-trester/make-big-money-in-underpriced-options.html)
+
+A little money can sometimes go a long way. Ken Trester shares his roadmap to options trading success.
