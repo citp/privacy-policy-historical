@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220080545id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621225140id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-Dr. Loren Gieger, Professor of Bible, has received the Gaylord Chair of Distinguished Teaching award. Dr. Gieger has also done special study at Harding Graduate School of Religion and Texas Christian University, and has gone on Sabbatical archeological studies in Turkey, Syria, Jordan, Lebanon, and Egypt.
+Ralph DeBoard, Professor of Computer Science, learned to love OC as a student when he served as president of the Student Government Association, and now teaches here for three reasons: "The opportunity to integrate faith and learning, the desire to help OC build an excellent computer science program, and the opportunity to pass on the greatness of our school to new generations of students." 
 
-[Read More](http://blogs.oc.edu/ee/index.php?/ocpeople/profiles/dr_loren_g_gieger/)
+[Read More](http://blogs.oc.edu/ocpeople/individual/ralph_deboard/)
