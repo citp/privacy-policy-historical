@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221153310id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioncentral.pk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194859id_/http%3A//www.fashioncentral.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion Central
 
@@ -14,17 +14,17 @@ Each email sent has an easy way to unsubscribe from receiving email from the lis
 
 ## Privacy Protection
 
-We apply security measures such as data encryption to avoid any loss, misuse and change of data used by our system.
+  * We apply security measures such as data encryption to avoid any loss, misuse and change of data used by our system.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 ## Usage of Account Information
 
 Your private information is safe with us as we will never sell your personal account information or subscriber data with anyone without your advance permission or unless ordered by a court of law. Information you submit to us is only accessible to employees managing the information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services concerned to our communications with you.
-
-### [Zainab Qayum (Interview)](http://www.fashioncentral.pk/people-parties/celebrity-interviews/story-87-zainab-qayum-interview/)
-
-[](http://www.fashioncentral.pk/people-parties/celebrity-interviews/story-87-zainab-qayum-interview/)Zainab Qayum a.k.a ZQ is one of the most talented female stars of our country. She is a top model a talented actress and needs no introduction. She was crowned the 'Best Model of the year 2004' in Lux Style Awards and won the "Most Stylish Actress Award"
-
-[ **» View all celebrity interviews**](http://www.fashioncentral.pk/people-parties/celebrity-interviews/)
 
 ## Gifts & Shopping
 
@@ -48,7 +48,7 @@ Electronics and Gadgets Trends. Find the latest selection of mobile phones, digi
   
 
 
-Women's Clothing and Designer Clothes, find the best picks in men’s clothing. 
+Women's Clothing and Designer Clothes, find the best picks in men's clothing. 
 
   
 
