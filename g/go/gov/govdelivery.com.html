@@ -1,12 +1,58 @@
-<!--The following is the downloaded HTML source of the govdelivery.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219064029id_/http%3A//www.govdelivery.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the govdelivery.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621222153id_/http%3A//www.govdelivery.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy Policy | GovDelivery: eMail &amp; Digital Subscription Management for Government</title>
 
 <link rel="stylesheet" href="css/style.css" type="text/css">
-		<link rel="stylesheet" href="css/nav.css" type="text/css">
-		<script language="JavaScript1.2" src="js/navigation.js"></script>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate.js"></script>
+<script type="text/javascript" src="js/hoverIntent.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/fancyzoom.min.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+	$(document).ready(function() {
+		$('div.photo a').fancyZoom({scaleImg: true, closeOnClick: true});
+		$('ul.sf-menu').superfish({ 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+        }); 
+	});
+</script>
+
+
+<script type="text/javascript">
+var image_path = "images/";
+function preload(img, on)
+{		
+	
+	off = img.src;		
+	if(off.lastIndexOf('/') != -1) // if there is a path, strip it
+		{
+			 off = off.substring(off.lastIndexOf('/')+1);
+		}
+	if(on != off)
+		{
+			off_ex = off.substring(off.lastIndexOf('.')) // extract extension
+			off = off.substring(0,off.lastIndexOf('.')); //strip extension
+			on_ex = on.substring(on.lastIndexOf('.')) // extract extension
+			on = on.substring(0,on.lastIndexOf('.')); //strip extension			
+			eval(off + " = new Image(); ");
+			eval(off + ".src = '" + image_path +"' + '" + off + off_ex+"'");
+			eval(on + " = new Image(); ");
+			eval(on + ".src = '" + image_path +"' + '" + on + on_ex+"'");				
+			var image_on = eval(on + ".src");
+			var image_off = eval(off + ".src");
+			img.onmouseover = function() { img.src = image_on;}		
+			img.onmouseout = function() { img.src = image_off;}	
+		}
+}
+</script>
+
+
+<link rel="stylesheet" href="css/nav.css" type="text/css">
 
 </head>
 
@@ -19,7 +65,7 @@
 	<td width="11"><img src="images/clear.gif" width="11" height="72" alt="" border="0"></td>
 	<td width="179" valign="top"><img src="images/clear.gif" width="1" height="29" alt="" border="0"><br><a href="index.php"><img src="images/header_logo.gif" width="179" height="35" alt="" border="0"></a></td>
 	<td width="724" valign="top" align="right" class="headerText"><img src="images/clear.gif" width="1" height="17" alt="" border="0"><br>
-	<strong>(866) 276-5583</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://service.govdelivery.com/service/edit/login.html?caller=edit%2Findex.html&amp;cookie_check=true" class="headerlink" target="_blank">Client Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../cust_support.php" class="headerlink">Client Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="site_map.php" class="headerlink">Site Map</a></td>
+	<strong>(866) 276-5583</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://service.govdelivery.com/service/edit/" class="headerlink" target="_blank">Client Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../cust_support.php" class="headerlink">Client Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="site_map.php" class="headerlink">Site Map</a></td>
 	</tr>
 	</tbody></table>	<!-- end header -->
 	
@@ -34,121 +80,205 @@
 		<table border="0" cellpadding="0" cellspacing="0" width="904">
 		<tbody><tr>
 		<td width="904" height="32">
-			
-<!--script language="JavaScript1.2">fwLoadMenus();</script-->
-<script type="text/javascript"><!--//--><![CDATA[//>
-
-sfHover = function() {
-		var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-		for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
-		}
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		}
-	}
-}
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-//--><!]]></script>
-
-
-		<table border="0" cellpadding="0" cellspacing="0" width="904">
-					    <tbody><tr>
-							<td width="90" height="32"><img src="images/nav_left.gif" width="90" height="32" alt="" border="0"></td>
-					    	<td width="682">
-
-			<!-- BEGIN TOP LEVEL NAVIGATION -->
-			<ul id="nav">
-
-			<li><a href="solutions.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('solution','','images/nav_solution_on.gif',1);"><img name="solution" src="images/nav_solution_off.gif" width="107" height="32" alt="" border="0"></a>
-
-			<!-- begin solutions sub-menu -->
-			<ul>
-			<li style="width:165px;"><a href="solutions.php">Solutions Overview</a></li>
-<li style="width:165px;"><a href="benefits.php">GovDelivery Benefits</a></li>
-<li style="width:165px;"><a href="personalization.php">Personalization Engine</a></li>
-<li style="width:165px;"><a href="automation.php">Automation Engine</a></li>
-<li style="width:165px;"><a href="deliverability.php">Delivery Engine</a></li>
-<li style="width:165px;"><a href="how_works.php">GovDelivery Setup</a></li>
-<li style="width:165px;"><a href="sign_up.php">Subscription Sign-Up</a></li>
-<li style="width:165px;"><a href="vs_software.php">GovDelivery vs. List Software</a></li>
-			</ul>
-			<!-- end solution sub-menu -->
-										</li>
-			<li><a href="clients.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clients','','images/nav_clients_on.gif',1);"><img name="clients" src="images/nav_clients_off.gif" width="93" height="32" alt="" border="0"></a>
-
-			<!-- begin clients sub-menu -->
-			<ul>
-			<li style="width:165px;"><a href="clients.php">Client Overview</a></li>
-<li style="width:165px;"><a href="federal.php">Federal Agencies</a></li>
-<li style="width:165px;"><a href="state.php">State Government</a></li>
-<li style="width:165px;"><a href="county.php">County Government</a></li>
-<li style="width:165px;"><a href="city.php">City Government</a></li>
-<li style="width:165px;"><a href="transit.php">Transit Authorities</a></li>
-<li style="width:165px;"><a href="international.php">United Kingdom</a></li>
-<li style="width:165px;"><a href="case_studies.php">Case Studies</a></li>
-<li style="width:165px;"><a href="testimonials.php">Testimonials</a></li>
-<li style="width:165px;"><a href="health.php">Health &amp; Human Services</a></li>
-			</ul>
-			<!-- end clients sub-menu -->
-										</li>
-
-			<li><a href="resources.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','images/nav_resources_on.gif',1);"><img name="resources" src="images/nav_resources_off.gif" width="116" height="32" alt="" border="0"></a>
-
-			<!-- begin resources sub-menu -->
-			<ul>
-			<li style="width:220px;"><a href="resources.php">Resources Overview</a></li>
-<li style="width:220px;"><a href="demo_req.php">Free Demo</a></li>
-<li style="width:220px;"><a href="webinar_req.php">Webinars</a></li>
-<li style="width:220px;"><a href="i_sheets_and_whitepapers.php">Fact Sheets / Whitepapers</a></li>
-<li style="width:220px;"><a href="multimedia_presentations.php">Presentations</a></li>
-<li style="width:220px;"><a href="newsletters.php">Newsletters</a></li>
-<li style="width:220px;"><a href="procurement_options.php">Procurement Options</a></li>
-<li style="width:220px;"><a href="blog/index.html">Reach The Public - A GovDelivery Blog</a></li>
-			</ul>
-			<!-- end resources sub-menu -->
-										</li>
-
-			<li><a href="news.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','images/nav_news_on.gif',1);"><img name="news" src="images/nav_news_off.gif" width="142" height="32" alt="" border="0"></a>
-
-			<!-- begin news/events sub-menu -->
-			<ul>
-			<li style="width:117px;"><a href="news.php">Latest News</a></li>
-<li style="width:117px;"><a href="events.php">Upcoming Events</a></li>
-<li style="width:117px;"><a href="newsletters.php">Newsletters</a></li>
-			</ul>
-			<!-- end news/events sub-menu -->
-										</li>
-			<li><a href="company_overview.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('company','','images/nav_company_on.gif',1);"><img name="company" src="images/nav_company_off.gif" width="105" height="32" alt="" border="0"></a>
-
-			<!-- begin company sub-menu -->
-			<ul>
-			<li style="width:117px;"><a href="company_overview.php">Company Overview</a></li>
-<li style="width:117px;"><a href="partners.php">Partners</a></li>
-<li style="width:117px;"><a href="management.php">Management Team</a></li>
-<li style="width:117px;"><a href="careers.php">Career Opportunities</a></li>
-			</ul>
-			<!-- end company sub-menu -->
-										</li>
-			<li><a href="contact.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','images/nav_contact_on.gif',1);"><img name="contact" src="images/nav_contact_off.gif" width="119" height="32" alt="" border="0"></a>
-
-			<!-- begin contact us sub-menu -->
-			<ul>
-			<li style="width:120px;"><a href="contact.php">Contact Overview</a></li>
-<li style="width:120px;"><a href="demo_req.php">Request FREE Demo</a></li>
-<li style="width:120px;"><a href="procurement_options.php">Procurement Options</a></li>
-<li style="width:120px;"><a href="cust_support.php">Client Support</a></li>
-			</ul>
-			<!-- end contact us sub-menu -->
-										</li>
-			</ul>
+			<table border="0" cellpadding="0" cellspacing="0" width="904">
+    <tbody><tr>
+		<td width="90" height="32"><img src="images/nav_left.gif" width="90" height="32" alt="" border="0"></td>
+	    	<td width="804" height="32">
+<div id="nav">
+      <ul class="sf-menu sf-js-enabled">
+         <li class="">
+            <a href="solutions.php" class="toplink">SOLUTIONS</a>
+            <ul style="display: none; visibility: hidden;">
+               <li class="">
+                  <a href="benefits.php">GovDelivery Benefits<span class="sf-sub-indicator">»</span></a>
+					<ul style="display: none; visibility: hidden;">
+						<li>
+							<a href="sign_up.php">Subscription Sign-Up</a>
+						</li>
+						<li>
+							<a href="vs_software.php">GovDelivery vs. List Software</a>
+						</li>
+                       <li>
+                          <a href="how_works.php">GovDelivery Setup</a>
+                       </li>
+					</ul>
+				</li>
+               <li class="">
+                  <span class="lessPadding"><a href="solutions.php">Email &amp; Digital Subscription Management<span class="sf-sub-indicator">»</span></a></span>
+					<ul style="display: none; visibility: hidden;">
+                           <li>
+                              <a href="personalization.php">Personalization Engine</a>
+                           </li>
+                           <li>
+                              <a href="automation.php">Automation Engine</a>
+                           </li>
+                           <li>
+                              <a href="deliverability.php">Delivery Engine</a>
+                           </li>
+					</ul>
+               </li>
+               <li class="">
+                  <a href="web20.php">Web 2.0 &amp; Social Media<span class="sf-sub-indicator">»</span></a>
+                  <ul style="display: none; visibility: hidden;">
+                     <li>
+                        <a href="collab_network.php">Web 2.0 Collaboration</a>                     
+					</li>
+                     <li>
+						<a href="socialmedia.php">Social Media Integration</a>
+					</li>
+                     <li>
+                        <a href="discuss_this_email.php">Discuss This Email Blog</a>                     </li>
+                     <li>
+                        <a href="sharethis.php">Share This Email</a>                     </li>
+                     <li>
+                     <a href="info_sharing_widget.php">Information Sharing Widgets</a></li>
+                  </ul>
+              </li>
+				<li>
+					<a href="mobile.php">GovDelivery Mobile<!-- <span class="sf-sub-indicator">&#187;</span> --></a>
+					<!-- <ul>
+						<li>
+							<a href="text_messaging.php">Text Messaging</a>
+						</li>
+					</ul> -->
+				</li>
+               <li>
+                  <a href="analytics.php">Message Analytics</a>
+               </li>
+				<li>
+					<a href="integration.php">Integration Capabilities<!-- <span class="sf-sub-indicator">&#187;</span> --> </a>
+					<!-- <ul>
+                        <li>
+							<a href="socialmedia.php">Social Media Integration</a>
+						</li>
+						<li>
+	                        <a href="webservices.php">Web Services</a>
+						</li>
+					</ul> -->
+				</li>
+				<li>
+                        <a href="collab_network.php">Collaboration Network</a>
+				</li>					
+            </ul>
+         </li>
+         <li class="">
+            <a href="clients.php" class="toplink">CLIENTS</a>
+            <ul style="display: none; visibility: hidden;">
+               <li>
+                  <a href="clients.php">Client Overview</a>
+               </li>
+               <li>
+                  <a href="federal.php">Federal Agencies</a>
+               </li>
+               <li>
+                  <a href="state.php">State Government</a>
+               </li>
+               <li>
+                  <a href="county.php">County Government</a>
+               </li>
+               <li>
+                  <a href="city.php">City Government</a>
+               </li>
+               <li>
+                  <a href="transit.php">Transit Authorities</a>
+               </li>
+               <li>
+                  <a href="international.php">United Kingdom</a>
+               </li>
+               <li>
+                  <a href="case_studies.php">Case Studies</a>
+               </li>
+               <li>
+                  <a href="testimonials.php">Testimonials</a>
+               </li>
+               <li>
+                  <a href="health.php">Health &amp; Human Services</a>
+               </li>
+            </ul>
+         </li>
+         <li class="">
+            <a href="resources.php" class="toplink">RESOURCES</a>
+            <ul style="display: none; visibility: hidden;">
+               <li>
+                  <a href="resources.php">Resources Overview</a>
+               </li>
+               <li>
+                  <a href="demo_req.php">Free Demo</a>
+               </li>
+               <li>
+                  <a href="webinar_req.php">Webinars</a>
+               </li>
+               <li>
+                  <a href="i_sheets_and_whitepapers.php">Fact Sheets / Whitepapers</a>
+               </li>
+               <li>
+                  <a href="multimedia_presentations.php">Presentations</a>
+               </li>
+               <li>
+                  <a href="newsletters.php">Newsletters</a>
+               </li>
+               <li>
+                  <a href="procurement_options.php">Procurement Options</a>
+               </li>
+            </ul>
+         </li>
+         <li class="">
+            <a href="news.php" class="toplink">NEWS &amp; EVENTS</a>
+            <ul style="display: none; visibility: hidden;">
+               <li>
+                  <a href="news.php">Latest News</a>
+               </li>
+               <li>
+                  <a href="events.php">Upcoming Events</a>
+               </li>
+               <li>
+                  <a href="newsletters.php">Newsletters</a>
+               </li>
+            </ul>
+         </li>
+         <li class="">
+            <a href="company_overview.php" class="toplink">COMPANY</a>
+            <ul style="display: none; visibility: hidden;">
+               <li>
+                  <a href="company_overview.php">Company Overview</a>
+               </li>
+               <li>
+                  <a href="partners.php">Partners</a>
+               </li>
+               <li>
+                  <a href="management.php">Management Team</a>
+               </li>
+               <li>
+                  <a href="careers.php">Career Opportunities</a>
+               </li>
+            </ul>
+         </li>
+         <li class="toplink">
+            <a href="contact.php" class="toplink">CONTACT US</a>
+            <ul style="display: none; visibility: hidden;">
+               <li>
+                  <a href="contact.php">Contact Overview</a>
+               </li>
+               <li>
+                  <a href="demo_req.php">Request FREE Demo</a>
+               </li>
+               <li>
+                  <a href="procurement_options.php">Procurement Options</a>
+               </li>
+               <li>
+                  <a href="cust_support.php">Client Support</a>
+               </li>
+            </ul>
+         </li>
+		 <li class="toplink_right">
+            <a href="http://www.reachthepublic.com">BLOG</a>
+         </li>
+      </ul>
+</div>
 			</td>
-						<td width="132" height="32"><img src="images/nav_right.gif" width="132" height="32" alt="" border="0"></td>
+						<td width="10" height="32"><img src="images/nav_right_new.gif" width="10" height="32" alt="" border="0"></td>
 						</tr>
-			</tbody></table>
-			<!-- END TOP LEVEL NAVIGATION -->		</td>
+			</tbody></table>		</td>
 		</tr>
 		<tr>
 		<td width="904"><img src="images/nav_flash_spacer.gif" width="904" height="24" alt="" border="0"></td>
@@ -313,8 +443,8 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	</tr>
 	<tr>
 	<td colspan="3" width="914" align="center" class="headerText"><img src="images/clear.gif" width="1" height="10" alt="" border="0"><br>
-	Copyright © 2008 GovDelivery, Inc.  All rights reserved.  |  GovDelivery, the email and digital subscription management for government company.<br>
-	— 380 Jackson Street, Suite 550, Saint Paul, MN 55101  |  (866) 276-5583  |  <a href="mailto:info@govdelivery.com" class="headerlink">info@govdelivery.com</a> —<br>
+	Copyright © 2009 GovDelivery, Inc.  All rights reserved.  |  GovDelivery, the email and digital subscription management for government company.<br>
+	— <span class="text">408 St. Peter Street, Suite 600</span>, Saint Paul, MN 55102  |  (866) 276-5583  |  <a href="mailto:info@govdelivery.com" class="headerlink">info@govdelivery.com</a> —<br>
 
 	 <a href="solutions.php" class="footer">Solutions</a>  |   <a href="clients.php" class="footer">Clients</a>  |   <a href="resources.php" class="footer">Resources</a>  |   <a href="news.php" class="footer">News &amp; Events</a>  |   <a href="company_overview.php" class="footer">Company</a>  |   <a href="careers.php" class="footer">Careers</a>  |   <a href="contact.php" class="footer">Contact Us</a> — <a href="site_map.php" class="footer">Site Map</a>  |  <a href="privacy_policy.php" class="footer">Privacy Policy</a><br>
 	 <img src="images/clear.gif" width="1" height="10" alt="" border="0">
@@ -338,12 +468,12 @@ pageTracker._trackPageview();
 </script>
 <!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
-var hs_portalid=40608; 
+var hs_portalid=60185; 
 var hs_salog_version = "2.00";
-var hs_ppa = "govdelivery.demo.hubspot.com"
+var hs_ppa = "govdelivery.app6.hubspot.com"
 document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://govdelivery.demo.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+</script><script src="https://govdelivery.app6.hubspot.com/salog.js.aspx" type="text/javascript"></script>
 <!-- End of HubSpot Logging Code -->
 
 
-</body></html>
+<div id="zoom" style="display:none;">                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;">                     <tbody>                       <tr>                         <td class="tl" style="background:url(images/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="tm" style="background:url(images/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;"></td>                         <td class="tr" style="background:url(images/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="ml" style="background:url(images/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;"></td>                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;">                           <div id="zoom_content">                           </div>                         </td>                         <td class="mr" style="background:url(images/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;"></td>                       </tr>                       <tr>                         <td class="bl" style="background:url(images/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                         <td class="bm" style="background:url(images/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;"></td>                         <td class="br" style="background:url(images/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;"></td>                       </tr>                     </tbody>                   </table>                   <a href="#" title="Close" id="zoom_close" style="position:absolute; top:0; left:0;">                     <img src="images/closebox.png" alt="Close" style="border:none; margin:0; padding:0;">                   </a>                 </div></body></html>
