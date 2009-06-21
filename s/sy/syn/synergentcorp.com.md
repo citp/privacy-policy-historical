@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synergentcorp.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212132229id_/http%3A//www.synergentcorp.com/interior.php/pid/29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synergentcorp.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621135828id_/http%3A//synergentcorp.com/interior.php/pid/29) for the most accurate reproduction.*
 
 # Synergent: Privacy Policy
 
