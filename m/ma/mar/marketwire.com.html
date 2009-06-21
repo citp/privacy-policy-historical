@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketwire.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219030125id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketwire.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621083615id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
     
@@ -41,17 +41,26 @@
 	<script type="text/javascript" src="js/dynMenu.js"></script>
 	<script type="text/javascript" src="js/browserdetect.js"></script>
 	<script type="text/javascript" src="js/utility2.js"></script>
-	
+	<script type="text/javascript" src="js/nav/jquery.js"></script>
+	<script type="text/javascript" src="js/nav/nav.js"></script>
+    
 	<link href="css/layout.css" rel="stylesheet" type="text/css">
+   	<link href="css/nav.css" rel="stylesheet" type="text/css">
+ 
+ <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="css/ie7_hacks.css" />
+<![endif]-->   
 
-
+        <!--[if lte IE 6]>
+   			 <link rel="stylesheet" type="text/css" href="css/ie_hacks.css" />
+		<![endif]-->	
 
 	
 
 
 </head>
 
-
+<!-- THIS IS header.jsp  -->
 <body>
 
 
@@ -62,6 +71,22 @@
 		<link href="css/leftNav.css" rel="stylesheet" type="text/css">
 		<div style="width:100%;" align="center">		
 			<div id="page">
+        			<div class="topNav">
+						<ul id="topNavMenu">
+							<li><a href="http://easyir.marketwire.com/easyir/home.do?easyirid=17&amp;version=live">About Marketwire</a></li>
+				
+							<li><a href="include.do?pageid=511">Workflow Solutions</a></li>
+				
+							<li><a href="http://easypr.marketwire.com/easyir/msc1.do?easyirid=594C608BE3245198&amp;version=live">Resource Center</a></li>
+			
+							<li><a href="http://www.marketwire.com/mw/more_news">News Room</a></li>
+			
+							<li><a href="http://easyir.marketwire.com/easyir/cont.do?easyirid=17&amp;version=live">Contact Us</a></li>
+			
+							<li><a href="/">Home</a></li>
+						</ul>
+		
+</div>
 				<form id="searchform" method="post" action="search.do">
 				<div class="searchBar">Search News: 
 				<input type="text" name="params" tabindex="4" class="texta">
@@ -75,22 +100,7 @@
 				
 				<div class="masthead">
 					<div class="homeButton"><a href="http://www.marketwire.com"><img src="images/space.gif" width="195" height="66" border="0"></a></div>
-					<div class="topNav">
-						<ul id="topNavMenu">
-							<li><a href="http://easyir.marketwire.com/easyir/home.do?easyirid=17&amp;version=live">About Marketwire</a></li>
-				
-							<li><a href="include.do?pageid=511">Workflow Solutions</a></li>
-				
-							<li><a href="http://easypr.marketwire.com/easyir/msc1.do?easyirid=594C608BE3245198&amp;version=live">Resource Center</a></li>
-			
-							<li><a href="http://www.marketwire.com/mw/more_news">News Room</a></li>
-			
-							<li><a href="http://easyir.marketwire.com/easyir/cont.do?easyirid=17&amp;version=live">Contact Us</a></li>
-			
-							<li><a href="http://www.marketwire.com">Home</a></li>
-						</ul>
-		
-					</div>
+
 				</div>
 		
 				<div class="main">			
@@ -99,57 +109,68 @@
     
     
 
-     			<!-- nav_default.html begining -->
-			<div class="leftCol">			
+     
+<!-- nav_default.html begining -->
+<div id="navArea">
+  <div class="navmenu" id="leftnav"> <!--Code for menu starts here-->
+		<p class="dist_nav"><a>Distribution</a></p>
+		<div class="subnav">
+		 <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=482" title="Distribution Options">Distribution Options</a></div>
+		 <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=483" title="Geographic Distribution">Geographic Distribution</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=486" title="Trade Media">Trade Media</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=488" title="Specialty Markets">Specialty Markets</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=506" title="Search Engine Optimization">Search Engine Optimization</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=507" title="Social Media">Social Media</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=490" title="Custom Distribution">Custom Distribution</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=491" title="Regulatory Filing">Regulatory Filing</a></div>
+         <div class="subnav_link"><a href="include.do?module=DIST&amp;pageid=492" title="Language Translation">Language Translation</a></div>
+         <div class="subnav_bottom"><img src="images/nav/subnav_bottom.png" alt="na"></div>
+		</div>
 
-				<ul id="menu" class="menu">
-					<li class="dist" id="li0"><a href="include.do?module=DIST&amp;pageid=482" onmouseover="showMenu('distributionList');rollOn('distribution2');" onmouseout="hideMenu('distributionList');rollOff('distribution2');"><img id="distribution2" src="images/distribution2But.gif" width="168" height="26" border="0" alt="Distribution"></a>	
-						<div onmouseover="showMenu('distributionList');rollOn('distribution2');" onmouseout="hideMenu('distributionList');rollOff('distribution2');">
-						<ul id="distributionList">
-							<li><a href="include.do?module=DIST&amp;pageid=483" title="Geographic Distribution">Geographic Distribution</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=486" title="Trade Media">Trade Media</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=488" title="Specialty Markets">Specialty Markets</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=506" title="Search Engine Optimization">Search Engine Optimization</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=507" title="Social Media">Social Media</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=490" title="Custom Distribution">Custom Distribution</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=491" title="Regulatory Filing">Regulatory Filing</a></li>
-							<li><a href="include.do?module=DIST&amp;pageid=492" title="Language Translation">Language Translation</a></li>
-						</ul></div>
-					</li>
-					<li class="multi" id="li9"><a href="include.do?module=MULT&amp;pageid=503" onmouseover="showMenu('multiList');rollOn('multimedia2');" onmouseout="hideMenu('multiList');rollOff('multimedia2');"><img id="multimedia2" src="images/multimedia2But.gif" width="168" height="26" border="0" alt="Multimedia"></a>	
-						<div onmouseover="showMenu('multiList');rollOn('multimedia2');" onmouseout="hideMenu('multiList');rollOff('multimedia2');">
-						<ul id="multiList">
-							<li><a href="include.do?module=MULT&amp;pageid=504" title="Photo Options">Photo Options</a></li>
-							<li><a href="include.do?module=MULT&amp;pageid=505" title="Embedded Video">Embedded Video</a></li>
-							<li><a href="include.do?module=MULT&amp;pageid=508" title="Conference Calling">Conference Calling</a></li>
-							<li><a href="include.do?module=MULT&amp;pageid=509" title="Webcasting">Webcasting</a></li>
-							
-						</ul></div>
-					</li>
-					<li class="media" id="li14"><a href="include.do?module=MEDIA&amp;pageid=497" onmouseover="showMenu('mediaList');rollOn('mediamgnt2');" onmouseout="hideMenu('mediaList');rollOff('mediamgnt2');"><img id="mediamgnt2" src="images/mediamgnt2But.gif" width="168" height="26" border="0" alt="Media Management"></a>	
-						<div onmouseover="showMenu('mediaList');rollOn('mediamgnt2');" onmouseout="hideMenu('mediaList');rollOff('mediamgnt2');">
-						<ul id="mediaList">
-							<li><a href="include.do?module=MEDIA&amp;pageid=500" title="Media Database">Media Database</a></li>
-							<li><a href="include.do?module=MEDIA&amp;pageid=501" title="Custom Database">Custom Database</a></li>
-							<li><a href="include.do?module=MEDIA&amp;pageid=502" title="Media Directory">Media Directory</a></li>
-						</ul></div>
-					</li>
-					<li class="moni" id="li18"><a href="include.do?module=MONITOR&amp;pageid=487" onmouseover="showMenu('moniList');rollOn('monitoring2');" onmouseout="hideMenu('moniList');rollOff('monitoring2');"><img id="monitoring2" src="images/monitoring2But.gif" width="168" height="26" border="0" alt="Monitoring"></a>	
-						<div onmouseover="showMenu('moniList');rollOn('monitoring2');" onmouseout="hideMenu('moniList');rollOff('monitoring2');">
-						<ul id="moniList">
-							<li><a href="include.do?module=MONITOR&amp;pageid=738" title="Media Monitoring">Media Monitoring</a></li>
-							<li><a href="include.do?module=MONITOR&amp;pageid=489" title="Release Tracking">Release Tracking</a></li>
-							<li><a href="include.do?module=MONITOR&amp;pageid=494" title="Personal News">Personal News</a></li>
-							<li><a href="include.do?module=MONITOR&amp;pageid=495" title="Market News">Market News</a></li>
-							<li><a href="include.do?module=MONITOR&amp;pageid=532" title="RSS Delivery">RSS Delivery</a></li>
-						</ul></div>
-					</li>
-				</ul>
-				<p></p>
-			</div>
-			
-			<div class="mainContent">
-		<!-- nav_default.html end -->
+
+        <br>
+
+		<p class="mult_nav"><a>Multimedia</a> </p>
+		<div class="subnav">
+		 <div class="subnav_link"><a href="include.do?module=MULT&amp;pageid=503" title="Multimedia Options">Multimedia Options</a></div>
+		 <div class="subnav_link"><a href="include.do?module=MULT&amp;pageid=504" title="Photo Options">Photo Options</a></div>
+         <div class="subnav_link"><a href="include.do?module=MULT&amp;pageid=505" title="Embedded Video">Embedded Video</a></div>
+ 		 <div class="subnav_link"><a href="include.do?module=MULT&amp;pageid=508" title="Conference Calling">Conference Calling</a></div>
+         <div class="subnav_link"><a href="include.do?module=MULT&amp;pageid=509" title="Webcasting">Webcasting</a></div>
+         <div class="subnav_bottom"><img src="images/nav/subnav_bottom.png" alt="na"></div>
+		</div>
+
+        <br>
+
+		<p class="media_nav"><a>Media Management</a> </p>
+		<div class="subnav">
+		 <div class="subnav_link"><a href="include.do?module=MEDIA&amp;pageid=497" title="Media Management Options">Media Management Options</a></div>
+         <div class="subnav_link"><a href="include.do?module=MEDIA&amp;pageid=500" title="Media Database">Media Database</a></div>
+ 		 <div class="subnav_link"><a href="include.do?module=MEDIA&amp;pageid=501" title="Custom Database">Custom Database</a></div>
+         <div class="subnav_bottom"><img src="images/nav/subnav_bottom.png" alt="na"></div>
+       </div>
+
+        <br>
+
+
+ 		<p class="monitor_nav"><a>Monitoring</a> </p>
+		<div class="subnav">
+         <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=487" title="Monitoring Options">Monitoring Options</a></div>
+         <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=738" title="Media Monitoring">Media Monitoring</a></div>
+ 		 <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=489" title="Release Tracking">Release Tracking</a></div>
+         <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=494" title="Personal News">Personal News</a></div>
+         <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=495" title="Market News">Market News</a></div>
+ 		 <div class="subnav_link"><a href="include.do?module=MONITOR&amp;pageid=532" title="RSS Delivery">RSS Delivery</a></div>
+         <div class="subnav_bottom"><img src="images/nav/subnav_bottom.png" alt="na"></div>
+       </div>
+<div class="navspacer">&nbsp;</div>
+    </div>
+</div>
+<div id="contentArea">    
+	<div class="mainContent">
+
+			<!-- nav_default.html end -->
+
  
   
 
@@ -229,9 +250,11 @@ Email: <a href="mailto:info@marketwire.com">info@marketwire.com</a> <br>
 
 
   
-    <div class="clearAll"></div>
+    
+<div class="clearAll"></div>
 				<div class="footer">
-					<div class="footerLinks"><p><a href="include.do?pageid=516">Privacy Statement</a> | <a href="include.do?pageid=476">Terms of Service</a> | <a href="include.do?pageid=517">Sitemap</a> |© <script language="JavaScript">
+					<div class="footerLinks"><p><a href="include.do?pageid=516">Privacy Statement</a> | <a href="include.do?pageid=476">Terms of Service</a> | <a href="include.do?pageid=517">Sitemap</a> |© 
+<script language="JavaScript">
 var d=new Date();
 yr=d.getFullYear();
 document.write(yr);
@@ -251,11 +274,11 @@ document.write(yr);
 
 </div>
 
-
+<!--
 <script type="text/javascript">
 	initMenu();
 </script>
-
+-->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -270,8 +293,12 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
+
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+
     
     
   
 
-</div></body></html>
+</div></div></body></html>
