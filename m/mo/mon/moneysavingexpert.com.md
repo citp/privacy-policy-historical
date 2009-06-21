@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610013119id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011312id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
 
 # MoneySavingExpert Privacy Policy...
 
@@ -6,11 +6,11 @@
 
 **PRIVACY POLICY**
 
-1\. This site is owned and operated by Martin S. Lewis Limited.
+1\. This site is owned and operated by MoneySavingExpert.com.
 
 **2. _How to contact us_**
 
-If you have any queries about this site or our privacy policy, please contact us by writing to Martin S. Lewis Limited, 72 Cavendish Road, Salford, Lancashire, M7 4WA
+If you have any queries about this site or our privacy policy, please contact us by writing to MoneySavingExpert.com, 72 Cavendish Road, Salford, Lancashire, M7 4WA
 
 **3. _The Information we collect and how we use it_**
 
@@ -18,7 +18,7 @@ Except in the limited circumstances mentioned below, we do not collect your pers
 
 **_Martin's Money Tips_**
 
-We do collect your e-mail address when you register to receive Martin's Money Tips email. If you wish to stop receiving Martin's Money Tips, you can do so at any time by clicking the ‘stop it' button on this page: [www.moneysavingexpert.com/tips](https://web.archive.org/web/20080610013053id_/http://www.moneysavingexpert.com/site/www.moneysavingexpert.com/tips).
+We do collect your e-mail address when you register to receive Martin's Money Tips email. If you wish to stop receiving Martin's Money Tips, you can do so at any time by clicking the ‘stop it' button on this page: [www.moneysavingexpert.com/tips](http://www.moneysavingexpert.com/tips).
 
 **_Forums_**
 
@@ -59,10 +59,10 @@ We use reasonable precautions to keep the information disclosed to us secure. Ho
 
 **6. _Changes_**
 
-This policy is effective from 19 December 2006 and replaces with immediate effect the terms and conditions previously published on 27 October 2005. Section 3 has changed. We may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
+This policy is effective from 3 September 2008 and replaces with immediate effect the terms and conditions previously published on 19 December 2006. Sections 2 and 7 have changed. We may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
 
 **7. _General_**
 
-If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to Martin S. Lewis Limited, 72 Cavendish Road, Salford, Lancashire, M7 4WA
+If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com, 72 Cavendish Road, Salford, Lancashire, M7 4WA
 
-Effective as of: 19 December 2006
+Effective as of: 3 September 2008
