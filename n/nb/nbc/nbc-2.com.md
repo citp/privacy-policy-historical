@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220000107id_/http%3A//www.nbc-2.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621230218id_/http%3A//www.nbc-2.com/privacy.shtml) for the most accurate reproduction.*
 
 # NBC2 Online - Privacy Policy
 
-** Privacy Statement for NBC2**
+** Privacy Statement for NBC2**  
+Updated:  _March 26th, 2009 at 10:41am_
 
-Waterman Broadcasting Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[http://www.nbc-2.com](http://www.nbc-2.com/).**
+Waterman Broadcasting Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:  **[http://www.nbc-2.com](http://www.nbc-2.com/).**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information (e.g. geographic region from where you access the site.)
 
@@ -17,6 +18,8 @@ This site contains links to other sites.  Waterman Broadcasting Corporation is 
 **Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+Third party advertisers (Google, Tribal Fusion, etc.) have now put into place the ability to track other sites you have visited and may use that information to display ads more relevant to your interests across our pages.  This information they collect from your computer will be used for their sole purposes and Waterman Broadcasting will have no control or use of this information.
 
 **Children's Guidelines**
 
@@ -32,10 +35,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Keith Norman  
-Internet Director  
 Waterman Broadcasting Corporation  
 3719 Central Avenue  
-Fort Myers, Florida, 33901[  
-keith.norman@water.net](mailto:keith.norman@water.net)  
+Fort Myers, Florida, 33901  
+  
 239.939.2020
