@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221165816id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621221803id_/http%3A//www.ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
 # eBrandon.ca - Brandon, Manitoba's Online Community
 
@@ -15,6 +15,8 @@ As part of the features of this website we do collect personally identifiable in
 We use "cookie" technology (where our servers deposit special codes on a visitor's computer) to track user participation. We do not automatically extract personally identifiable information in this process. The "cookie" technology will only be used to track non-personal information such as type of browser, operating system, and domain names to customize the website for each visitor and to improve the visitor's online experience. In some instances, when contact information has been provided by the visitor, we will send notices to visitors, usually in the form of an e-mail. These notices, sent periodically, will announce website upgrades, new product information, promotions and other similar admins that may be of interest to the visitor. Our mailers and other notices tell the visitor how to "opt-out" so that he or she can stop the notices at any time. 
 
 We track and store user IP addresses each time a forum message, photo, video, classified ad, classified ad web form submission or private message are posted/sent. Combined with information from your internet provider, this information may personally identify you. This information will **only** be used in the event of a dispute between yourself and eBrandon or another third party in which the law is perceived to have been violated. 
+
+Your e-mail address is stored in our database for each classified ad you submit. This address is only used as a means for eBrandon to relay responses to your ad from your potential buyer to yourself. That address is never directly given to another user. It is internally used to link all ads you've posted on the "View all ads from this seller" page. 
 
 Sobkow Technologies also collect personally identifiable data, such as names, addresses, e-mail addresses, and the like, when voluntarily submitted by a visitor as part of our various special feature and contest sections. In the case of online promotions and other activities, we do not condition a child's participation on the child's disclosing more personal information than is reasonably necessary to participate in the activity. 
 
