@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221003239id_/http%3A//www.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austarnet.com.au privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621102957id_/http%3A//www.austarnet.com.au/portal/privacy.asp) for the most accurate reproduction.*
 
 # AUSTARnet - privacy statement
 
