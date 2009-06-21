@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226142646id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001450id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice
 
