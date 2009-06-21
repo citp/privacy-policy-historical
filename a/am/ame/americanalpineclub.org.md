@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the americanalpineclub.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218094018id_/http%3A//americanalpineclub.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanalpineclub.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621131635id_/http%3A//americanalpineclub.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The American Alpine Club
-
-[](https://web.archive.org/index)
-
-Thursday - December 18, 2008
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
