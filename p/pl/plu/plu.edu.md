@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217141513id_/http%3A//www.plu.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plu.edu privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621225124id_/http%3A//www.plu.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy / Pacific Lutheran University
 
@@ -9,9 +9,9 @@ Pacific Lutheran University has created this privacy statement in order to demon
 #### Information Automatically Logged
 
   * We use your IP and local Ethernet addresses to help diagnose problems with our server, to limit access to licensed resources, and to administer our Web site.
-  * [Banner](https://web.archive.org/web/20081217141513id_/http%3A//www.plu.edu/library-computing/login.php#banner) registration and use of restricted campus resources requires users to provide unique identifiers (like social security numbers) to verify proper identification.
+  * [Banner](https://web.archive.org/web/20090621225124id_/http%3A//www.plu.edu/library-computing/login.php#banner) registration and use of restricted campus resources requires users to provide unique identifiers (like social security numbers) to verify proper identification.
   * Our site uses service order and feedback forms for prospective students, students, faculty and staff to request information and services. Contact information is collected on the service order forms to better serve customers. Information may be collected so that we may contact visitors. Contact information is confidential. 
-  * Our site has mailing lists to which students, faculty, and staff may subscribe. To unsubscribe to a mailing list that was previously subscribed to, a user may use the unsubscribe option found in the [Online Toolkit](https://web.archive.org/web/20081217141513id_/http%3A//www.plu.edu/library-computing/toolkit.html) section of the site.
+  * Our site has mailing lists to which students, faculty, and staff may subscribe. To unsubscribe to a mailing list that was previously subscribed to, a user may use the unsubscribe option found in the [Online Toolkit](https://web.archive.org/web/20090621225124id_/http%3A//www.plu.edu/library-computing/toolkit.html) section of the site.
   * Our site contains links to other sites. Pacific Lutheran University is not responsible for the privacy practices or content of linked sites.
 
 
