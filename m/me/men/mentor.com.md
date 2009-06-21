@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161513id_/http%3A//www.mentor.com/terms_conditions/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622005519id_/http%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**Mentor Graphics Web Site Privacy Policy**
-
- **Purpose**
-
-The purpose of this document is to describe Mentor Graphics' policy regarding the collection and usage of personal data from our external web site www.mentor.com.
-
-Mentor Graphics and its agents will protect the information that is gathered on this site as stated in our "Privacy Policy". It will not be shared with, bartered, or sold to any third party. If you have any comments or questions regarding our privacy policy, please contact us at [mailto:Web_Privacy@mentor.com](mailto:web_info@mentor.com).
-
-**Policy**
+# Privacy Policy - Mentor Graphics
 
 **How We Treat Your Personal Information**  
 Mentor Graphics considers all information collected on this site to be our information. It will be collected from you via the forms in various locations on Mentor Graphics Web sites, but will not be shared with, bartered, or sold to any third party. At times, we disclose relevant information about our customers to our contractors in order for them to provide specific services for Mentor Graphics or to distributors to fulfill a customer order. Our contractors and distributors are bound by strict contractual requirements to keep all information they receive confidential and to use such information solely on behalf of Mentor Graphics. We take reasonable measures to protect the information you share with us from unauthorized access or disclosure.
