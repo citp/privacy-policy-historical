@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219222906id_/http%3A//www.eatwisconsincheese.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621092713id_/http%3A//eatwisconsincheese.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,5 +55,5 @@ Your privacy concerns are important to us. Please e-mail us with any further que
 Wisconsin Milk Marketing Board, Inc.  
 C/O EatWisconsinCheese.com  
 8418 Excelsior Drive  
-Madison, Wisconsin 53719  
+Madison, Wisconsin 53717  
 Phone: 608-836-8820
