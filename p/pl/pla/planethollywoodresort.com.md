@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219053020id_/http%3A//www.planethollywoodresort.com/ftr_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622002504id_/http%3A//planethollywoodresort.com/ftr_privacy_policy.php) for the most accurate reproduction.*
 
 # Henderson Hotels: Planet Hollywood Resort and Casino Las Vegas Nevada NV Henderson area luxury hotel casino spa gambling conference center romantic vacations getaways weddings fine dining bars concerts shopping golf meetings planning
 
@@ -74,4 +74,4 @@ PLANET HOLLYWOOD RESORT AND CASINO has no control over the security of the compu
 
 This Privacy Policy was last revised on December 13, 2007. PLANET HOLLYWOOD RESORT AND CASINO reserves the right to change, modify or amend this Privacy Policy at any time without notice. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be available at PLANET HOLLYWOOD RESORT AND CASINO resorts and casinos and will be posted on the PLANET HOLLYWOOD RESORT AND CASINO Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy available at PLANET HOLLYWOOD RESORT AND CASINO resorts and casinos and the PLANET HOLLYWOOD RESORT AND CASINO Web Sites for changes, and are encouraged to bookmark the Web Sites to check for updates and take or print out copies of the Privacy Policy for their records.
 
-If you have any questions regarding this Privacy Policy, please contact us at privacy@planethollywoodresorts.com.
+If you have any questions regarding this Privacy Policy, please contact us at [privacy@planethollywood.com](mailto:privacy@planethollywood.com).
