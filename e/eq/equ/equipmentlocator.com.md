@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220154300id_/http%3A//www.equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equipmentlocator.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621083107id_/http%3A//www.equipmentlocator.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Page ELS-Equipment Locator Service
 
