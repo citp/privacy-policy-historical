@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220045022id_/http%3A//www.asee.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asee.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621231358id_/http%3A//www.asee.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # ASEE.org - About ASEE - Privacy Statement
 
