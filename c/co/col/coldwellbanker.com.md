@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044234id_/http%3A//www.coldwellbanker.com/home/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621121049id_/http%3A//www.coldwellbanker.com/home/policy.jsp) for the most accurate reproduction.*
 
 # Coldwell Banker Real Estate LLC
 
-Coldwell Banker Real Estate LLC operates the web site at www.coldwellbanker.com ("Site"). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have already become a customer. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user ("Personal Information"), and how we use aggregated information. 
+Coldwell Banker Real Estate LLC operates the web site at www.coldwellbanker.com ("Site"). 
+
+We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have already become a customer. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user ("Personal Information"), and how we use aggregated information. 
 
 **BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE.** We reserve the right to modify this Statement at any time by posting a notice on the Site's home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes. 
 
@@ -40,7 +42,7 @@ Even if you do not send us any Personal Information, we collect information abou
 
         **Cookies**
 
-A cookie is a small data file, often including an anonymous unique identifier, that is sent from a web site's computer and stored on your computer's hard drive. Use of cookies is common on the Internet. A web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser permits a web site to access only the cookies it has already sent to you, not the cookies sent to you by other sites. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. For example, without cookies, we will not be able to provide you with searches that you have asked us to save. 
+A cookie is a small data file, often including an anonymous unique identifier, that is sent from a web site's computer and stored on your computer's hard drive. Use of cookies is common on the Internet. A web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser permits a web site to access only the cookies it has already sent to you, not the cookies sent to you by other sites. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You can reset your browser to refuse all cookies or indicate when a cookie is being sent. But if you refuse cookies, some parts of the Site will not function properly and may not provide services or information you have requested. 
 
         **Non-Personal Information**
 
