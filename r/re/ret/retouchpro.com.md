@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221113926id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011312id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
 
 # RetouchPRO Privacy Statement & Terms of Use
 
@@ -28,7 +28,13 @@ Certain activities on the RetouchPRO website involve the use of "cookies" to fac
 
 We also use third party advertisements on the RetouchPRO website to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York retailer ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 **Log Files**
 
