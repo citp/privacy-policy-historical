@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macysinc.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218045604id_/http%3A//www.macysinc.com/contact/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macysinc.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621021822id_/http%3A//www.macysinc.com/contact/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Macy's, Inc.
+# Privacy Policy - Macy's, Inc. - Macy's, Inc.
 
-Privacy Policy 
+## Privacy Policy
 
 Thank you for visiting the corporate website for Macy's, Inc. ("Macy's"). This website (www.macysinc.com) is operated by Macy's, Inc. and provides you with the latest information on our company, including press releases, investment news and employment opportunities. The street address for Macy's, Inc. is 7 West Seventh Street, Cincinnati, Ohio 45202. 
 
