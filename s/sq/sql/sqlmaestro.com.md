@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021507id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622012429id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database admin tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -54,38 +54,33 @@ We also send the user site and service announcement updates. Members are not abl
 **Choice/Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their E-mail address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://www.sqlmaestro.com/en/news/subscribe/)" form.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://sqlmaestro.com/en/news/subscribe/)" form.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an E-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 | 
 
-|  [](http://www.sqlmaestro.com/purchase/)|  SQL Maestro  
-Group team wishes you **Merry Christmas!**  
----|---  
-We're happy to grant you the [**25% discount**](http://www.sqlmaestro.com/purchase/) for all our products and bundles till **December  31!**
+Company news[](http://sqlmaestro.com/rss.xml)
 
-Company news[](http://www.sqlmaestro.com/rss.xml)
+May 27, 2009
 
-Dec 15, 2008
+Support for some PostgreSQL 8.4 new features, completely rewritten Data Import wizard and other useful things.
 
-New version features significantly improved Visual Query Builder, master-detail data views, lookup editors and more.
+May 21, 2009
 
-Dec 3, 2008
+Comes with completely redesigned Data Export and Data Import wizards, updated BLOB Viewer, and some other new features.
 
-Introduces support for OS authentication, autoincrement columns, some of Oracle 11g new features, and a lot of significantly improved GUI tools.
+Apr 29, 2009
 
-Nov 12, 2008
-
-New version provides support for transparent database encryption, remote database management extensions and some interface improvements.
+New version introduces advanced transaction management, significantly improved Data Export and Data Import tools, Italian localization and a lot of interface improvements. 
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/sqlite/phpgenerator/screenshots/common/example_custom_settings/)
+[](http://sqlmaestro.com/products/firebird/maestro/help/01_02_02_02_grants/)
 
-PHP Generator allows you to customize the HTML appearance of the result scripts along with header and footer. 
+Use Permissions tab of Role Editor to include/exclude users to/from the role within Firebird Maestro.
 
-[](http://www.sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/diagram_viewer/)
+[](http://sqlmaestro.com/products/sqlite/phpgenerator/screenshots/common/customization_html_appearance/)
 
-Firebird Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more. 
+With PHP Generator you will have a script with all the powerful features you would expect from a professional database application such as data navigation. 
