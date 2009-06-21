@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitednude.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062008id_/http%3A//www.unitednude.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitednude.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081102id_/http%3A//www.unitednude.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to United Nude | Fashion Footwear | Ladies Shoes
 
@@ -26,5 +26,4 @@ We will not transfer your information outside the EEA (European Economic Area).
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions/comments about privacy, you should e-mail us.   
-E-mail **[privacy@unitednude.com](mailto:privacy@unitednude.com)**.
+If you have any questions/comments about privacy, you should e-mail [privacy@unitednude.com](mailto:privacy@unitednude.com).
