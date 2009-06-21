@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023945id_/http%3A//www.livefaceonweb.com/ps.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621033656id_/http%3A//www.livefaceonweb.com/ps.aspx) for the most accurate reproduction.*
 
 # LiveFaceOnWeb.com
 
 |  |  |  | [](http://www.livefaceonweb.com/default.aspx) | [](http://www.livefaceonweb.com/info.aspx) | [](http://www.livefaceonweb.com/faq.aspx) | [](http://www.livefaceonweb.com/samples.aspx) | [](https://www.livefaceonweb.com/order.aspx)  
 ---|---|---|---|---  
+[Home](http://www.livefaceonweb.com/default.aspx "Home Page") | [Info](http://www.livefaceonweb.com/info.aspx "Info Page") | [FAQ / Pricing](http://www.livefaceonweb.com/faq.aspx "FAQ / Pricing") | [Samples](http://www.livefaceonweb.com/samples.aspx "Samples Page") | [Models / Order](https://www.livefaceonweb.com/order.aspx "Models / Order")  
 |  |  Privacy Statement  
 ---  
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.  
