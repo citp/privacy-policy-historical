@@ -1,27 +1,55 @@
-> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828061426id_/http%3A//www.grantcardone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621090652id_/http%3A//www.grantcardone.com/privacy.html) for the most accurate reproduction.*
 
 # Grant Cardone, GrantCardone.com Motivational Speaking, Automotive Sales Tools, Real EstateGrant Cardone
 
-This privacy notice discloses the privacy practices for http://www.grantcardone.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+  | 
 
-1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 2\. What choices are available to you regarding the use of your data. 3\. The security procedures in place to protect the misuse of your information. 4\. How you can correct any inaccuracies in the information.
+You linked to this Privacy Policy via a website owned by Cardone Training Technologies Corporation ("brand website"). This policy applies to all online communication with Cardone Training Technologies Corporation owned brands. When you provide us with online information through this Website, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Please note that your visit to our Website is subject to this Privacy Policy and our Terms and Conditions.
 
-Information Collection, Use, and Sharing
+At all times, we reserve the right to disclose any information, including personally identifiable information, to comply with any applicable law, regulation, legal process or governmental request; to protect Cardone Training Technologies Corporation rights or property (including without limitation in the event of a transfer of control of a Cardone Training Technologies Corporation company, affiliate, or brand, or substantially all of its assets), or during emergencies when safety is at risk, or for credit fraud protection and risk reduction purposes.
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+1\. Information Collection and Use
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+We only collect personally identifiable information about you via this Website when you provide it in connection with a request for a product, service, or information. For example, if you decide to place an order, we will ask you for your delivery and billing address, phone number(s), email address, credit card number and its expiration date. If you decide to complete a user registration form or survey, we may ask you for information such as your contact information (e.g., name, e-mail address and mailing address), age group or birth date. When you submit your personally identifiable information on this Website, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy. Cardone Training Technologies Corporation companies may use the information that you provide to fulfill your request for a product, information, or other service, or respond to an email or other request, as well as to create and deliver to you our newsletters or surveys, communications containing product information, usage tips or promotions, help improve our website(s) or services, or customize visitors' experience at our website(s). We do not share your credit card or other account information with unaffiliated third parties unless you authorize us to do so, or if it is necessary to fulfill our responsibilities including, but not limited to, delivering a product or service that you order. If you prefer not to receive email marketing communications from us or from third parties, please see Section 7 below. You cannot opt-out of receiving communications from Cardone Training Technologies Corporation (or third parties who may assist us) relating to a specific order or request for a product or service. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+We may also collect, store or accumulate certain non-personally identifiable information concerning your use of this Website, such as information regarding which of our pages are most popular. Information gathered may be used in aggregate form for internal business purposes, such as generating statistics and developing marketing plans. We may share or transfer such aggregate, non-personally identifiable information with or to our affiliates, licensees and partners.
 
-Your Access to and Control Over Information
+This Website is intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should contact us at [privacy@grantcardone.com](mailto:privacy@grantcardone.com "mailto:privacy@grantcardone.com") if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: See what data we have about you, if any. Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data.
+2\. Ensuring Your Security
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+We use the Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL Internet connections are encrypted, and thus protect all credit card ordering information, including your name, address and credit card number, so it cannot be read in transit. We use secure technology, privacy protection controls, and restrictions on employee access, to safeguard your personal information.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+3\. Safe Shopping Guarantee
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+We guarantee that every online transaction you make will be "100% safe". This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. It is determined that under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 310-777-0255 or via email. 
+4\. Technology Utilized
+
+There are two commonly used technologies used on this site, clear gifs and cookies. We use these to monitor the performance of the site and to measure it's effectiveness. "Cookies" are small pieces of information stored by your browser on your computer's hard drive. We do not use cookies to obtain any personally identifying information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent this. Please be assured that accepting a cookie does not give us access to your computer or personal information under any circumstances. If you disable cookies, you may be unable to order or use other features of our sites. If you experience any problems, please email us at [customerservice@grantcardone.com](mailto:customerservice@grantcardone.com "mailto:customerservice@grantcardone.com").
+
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Clear gifs are not tied to users' personally identifiable information.
+
+5\. Third Parties
+
+We may rely on other companies and individuals to perform functions on our behalf. Examples include data analysis firms, customer support specialists, webhosting companies, and fulfillment companies (e.g., companies that fill product orders or coordinate mailings). We may share personally identifiable information with such third parties as appropriate for them to perform their functions, but they may not use such information for any other purpose. We may also share personally identifiable information with marketing partners or other direct marketers, so they can send you notices about their products or services. If you do not want to receive email marketing communications, see section 7 below for opt-out information.
+
+Our website may offer links to and from other third party sites. Other sites have their own policies regarding privacy. If you visit one of these sites, you may want to review the privacy policy on that site. For example, you may have linked to the Cardone Training Technologies Corporation brand site through a banner advertisement on another site. In such cases the site you have linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+
+6\. Notification of Changes
+
+We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy.
+
+7\. Email Marketing
+
+We want to communicate with you via email correspondence only if you want to hear from us. When you purchase a Cardone Training Technologies Corporation product, we may from time to time send you email messages describing new products, special offers, and great values. If for any reason you would no longer like to receive email messages from the Cardone Training Technologies Corporation brand product you purchased, you can submit a removal request. Please allow up to 10 days for us to process your request.
+
+Your privacy is important to us, and for this reason we will never share or sell your email address with any third parties for direct marketing purposes. Please note, if you decide not to receive marketing emails from a Cardone Training Technologies Corporation brand, you may still receive “Transactional” email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.) If you have questions or concerns regarding this statement, please contact us at [privacy@grantcardone.com](mailto:privacy@grantcardone.com "mailto:privacy@grantcardone.com")
+
+8\. Information Sharing Preferences
+
+We may share information with carefully selected vendors, business partners and other organizations that are not part of the Cardone Training Technologies Corporation family (as mentioned, your e-mail address is not shared). These companies and organizations may use the information we share to provide special opportunities and offers to you.
+
+If you do not want us to share information you provide with vendors, business partners and other organizations that are not part of the Cardone Training Technologies family, please notify us at [privacy@grantcardone.com](mailto:privacy@grantcardone.com "mailto:privacy@grantcardone.com") or send a fax marked "attn: opt-out" including your name, complete address and email address to 310-777-0256. Please note that these requests may take up to six to eight weeks to become effective.
+
+|  
