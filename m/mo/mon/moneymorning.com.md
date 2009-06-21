@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2008-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080904202142id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621061654id_/http%3A//www.moneymorning.com%3Fpage_id%3D20) for the most accurate reproduction.*
 
 # Privacy Statement
 
