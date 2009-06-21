@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219092802id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621101105id_/http%3A//www.jewellerynetasia.com/privacy.aspx%3Flang%3D0) for the most accurate reproduction.*
 
-# JewelleryNetAsia.com - Asia's Leading On-line Network for the Jewellery and Gem Industries
+# JewelleryNetAsia - Trade, News and Community for the Jewellery and Gem Professional
 
 This privacy policy explains how we handle your Personal and Business Data for our services. By visiting our Website and/or using our services, you both accept the Privacy Policy and explicitly consent to our collection, holding, storage, security, use and disclosure of your Personal and Business Data under the Personal Data (Privacy) Ordinance of Hong Kong. 
 
@@ -61,4 +61,4 @@ The Website may include links to external sites, including sites of members, thi
 **Changes to privacy policy**   
 Any changes to this Privacy Policy Statement will be posted on <http://www.jewellerynetasia.com/privacy.aspx> and effective immediately on the posting date. 
 
-You agree to indemnify CMP Asia and all Related Persons from and against all Claims arising out of your use of this Website or the use of this Website by any person using your User Account, your password and/or your Personal and Business Data. If there is any conflict between the Chinese and English versions of this Statement, the English version prevails. 
+You agree to indemnify UBM Asia and all Related Persons from and against all Claims arising out of your use of this Website or the use of this Website by any person using your User Account, your password and/or your Personal and Business Data. If there is any conflict between the Chinese and English versions of this Statement, the English version prevails. 
