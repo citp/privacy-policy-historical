@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217011938id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621022657id_/http%3A//www.radisson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
