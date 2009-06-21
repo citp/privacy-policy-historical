@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160748id_/http%3A//www.vacationtimesharerentals.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621103732id_/http%3A//www.vacationtimesharerentals.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Timeshare Rentals, LLC
 
