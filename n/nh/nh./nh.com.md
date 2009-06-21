@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the nh.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218204600id_/http%3A//www.nh.com/apps/pbcs.dll/article%3FAID%3D/20031213/ABOUT/31213001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621062938id_/http%3A//www.nh.com/apps/pbcs.dll/article%3FAID%3D/20031213/ABOUT/31213001) for the most accurate reproduction.*
 
 # Privacy Policy
 
 December 13, 2003
 
-Article Tools  
-  
----  
-[](https://web.archive.org/apps/pbcs.dll/article?AID=/20031213/ABOUT/31213001&template=printart) |  | [](http://forum.nashuatelegraph.com/) |  |  [](http://del.icio.us/post)  
-  
 ## Our Commitment
 
 NH.com and its owner, McLean Communications, Inc., (collectively, "NH.com"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users’ reasonable expectations of privacy.
