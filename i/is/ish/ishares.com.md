@@ -1,96 +1,93 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019055518id_/http%3A//www.ishares.com/navigation/bottomnav/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203341id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
 
-# iShares: Navigation - Bottomnav
+# iShares ETFs for US investors - Exchange Traded Funds
 
-This privacy statement applies to certain information that website visitors transmit to iShares through this website. iShares has a separate privacy policy for consumers and customers of the iShares Funds (e.g., individuals who submit an account application to iShares or become shareholders of an iShares Fund). 
+This Privacy Policy applies to information that visitors transmit to iShares through this iShares website (the "Site").
 
-iShares is committed to your right to privacy. Our website allows visitors to self-manage their portfolio information and provides product information to qualified licensed brokers to help them make investment management decisions. In order to serve these needs, we collect basic information about website visitors. In some cases, website visitors may submit information about their financial portfolios in order to use our site's management tools. Visitors may submit non-public, personal information through the site.. We have developed this Privacy Statement to inform website visitors of our policies and practices regarding our use and disclosure of the non-public, personal information submitted through our website. Our procedures include the following:  
+iShares is committed to your privacy. This Privacy Policy is designed to inform you of what information we collect from you on this Site and how we and our affiliates handle that information.
 
+To put it simply: We will not sell non-public, personal information we collect about you on this Site to anyone. We will store the information using generally accepted encryption and data-storage technology. And we will give you the ability to opt out of our using the information to send you separate online marketing and advertising.
 
-  * We are committed to informing website visitors of our information handling practices 
-  * We have designed our website so that visitors can self-service their information needs and obtain easy answers to questions about our site's practices and other frequently asked questions 
-  * We disclose our privacy policies and procedures on the website 
-  * We do not sell non-public, personal information about website visitors to anyone 
-  * We use generally accepted encryption and data-storage technology 
-  * We provide visitors with the choice of opting out of receiving certain messages and other communications from us 
+Please direct any questions to [isharesetfs@barclaysglobal.com](mailto:isharesetfs@barclaysglobal.com) or call 1-800-iShares.
 
+This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or Barclays Global Investors may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
 
+**Personally Identifiable Information**
 
-By submitting information through the website, website visitors are agreeing to the iShares program's use and disclosure of the information as described in this Privacy Statement. We understand that this Statement may seem long, but we believe a thorough Privacy Statement demonstrates our commitment to privacy and explains in detail iShares information handling practices. With a complete privacy statement, website visitors are aware of their choices and can be sure that they are making informed decisions when they communicate with iShares through our website. 
+_When you register_ with the Site we collect your name, company address, email address, telephone number, and additional contact information. We also ask whether you are an individual or a financial professional and for related information. We collect a web site username and password.
 
-This Privacy Statement explains, among other things, the website's processing and storage practices in the United States for personal information transmitted through the website. Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of information on an international basis. Therefore, by browsing the website and communicating electronically with us, website visitors acknowledge and agree to our processing and storage of personal information in the United States. This Privacy Statement is currently applicable only to our United States visitors to our website. 
+_When you send email_ through the site, we collect your screen name and email address, as well as any additional information you include in the message.
 
-1\. What personal information is collected through iShares.com? 
+_When you're navigating_ the Site we record your IP address. 
 
-iShares receives very little personal information from visitors to our website and only for a narrow set of purposes. Typically, personal information is collected through the registration process to allow us to respond to visitors' inquiries for further information, or to distribute requested reference materials. The personal information we collect may include basic information, such as name, title, company address, email address, and telephone and fax numbers. We use the information only to fulfill visitor requests. 
+We consider each of the above pieces of information to be "Personally Identifiable Information" because it is individually identifiable information about you.
 
-Visitors can send email through the site. The e-mail messages will contain the visitor's screen name and email address, as well as any additional information the visitor may wish to include in the message. 
+**Other Information Associable with You**
 
-In addition, visitors are offered the opportunity to refer friends and family who may be interested in our services. When visitors provide us with this information, we manage it the same way as the information visitors provide about themselves. 
+_When you answer our online surveys_ we collect your responses.
 
-From time to time, iShares, its affiliates or service providers may enhance or merge personal information with data from third parties in order to better market our products and services and serve visitor needs. 
+_When you're navigating the Site_ we log various information to help manage and improve our Site, services, and marketing, in general and for you in particular. For example, we identify items such as domains and browser types to understand how our Site is used and to report these statistics in the aggregate to the vendors that manage the technology of our website. We also record any information you enter, such as search terms and input to the tools such as hypothetical portfolio information.
 
-2\. Are Cookies and Log Files used? 
+**Cookies, etc.**
 
-We use cookies to make it easier for visitors to use the website and to facilitate an efficient registration process. In most cases, a visitor can refuse a cookie and still fully navigate our website. We do not use cookies to collect or distribute information to third parties for any purpose. 
+Like many websites, we use cookies, 1x1-pixel images (Action Tags), JavaScript code, and other standard web technology to collect information for our own use.
 
-A cookie is a small text file, which is generated by a site's server and sits on a visitor's hard drive. Cookies enable the site to customize services to the visitor's interests by tracking the visitor's navigation. Most website browsers recognize when a cookie is offered, and permit visitors to opt-out of receiving it. Check with the software manufacturer or your Internet service provider for more information about how your website browser deals with cookies. 
+A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie and to permit you to refuse it. In most cases you can refuse a cookie and still navigate our site, though it may disable some features. Check with the maker of your browser for more information about how to control cookies.
 
-To manage our website, we may anonymously log information on our operational systems. We identify categories of visitors by items such as domains and browser types to report these statistics in the aggregate to our webmasters. We do this in an effort to present visitors the best web experience. It also is an effective information resource. 
+Cookies make it easier for you to register on and use the site. They also allow us to offer opt-in and opt-out opportunities, follow your navigation through the site and customize it to your interests, and remember your investor category and preferences so we can display content appropriate for you and your interests.
 
-3\. How is personal information used? 
+These technologies also help manage our online marketing. Third party publishers, who host websites where we advertise, use (and are contractually obligated to disclose their use of) 1x1-pixel transparent GIF files (Action Tags) on their own and other third party websites. These GIF files are provided by our ad management partner. These files enable our ad management partner to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us or by our ad serving partner. Our ad management partner uses the first three octets of your IP address in conjunction with these technologies but does not collect personally identifying information (PII), including your name, address, telephone number, or email address. Please contact us at the email or phone number below for more information about our ad management partner, including information about how to opt out of these technologies.
 
-A website visitor may choose to provide personal information in order to register on the website. Through registration, we can fulfil visitor requests for our newsletter; the visitor can participate in conferences or events; the visitor can receive our product fact sheets; we can respond to email inquiries; and we can enable our call center to accurately respond to questions, or provide investment services. We also use the information to manage and improve our website content and notify visitors about changes or improvements to our website. 
+Although we contract with third parties to manage the use of these technologies, the information is only used to help manage our own marketing materials and our own websites. The third parties are obligated by contract to keep the information confidential and are prohibited from using it for any other purpose.
 
-Registered visitors may choose to communicate with us via phone, mail or through the website. We provide these three options in order to allow visitors to choose the preferred method of communication that meets their lifestyle needs. 
+We use your personally identifiable information (and at times other information we collect) to authenticate your visits; to send you our newsletter and product fact sheets; so you can participate in conferences or events; so we can respond to email inquiries and questions to our call center; and to help us better market and provide our and our affiliates' products and services. We also use the information to manage and improve our Site content and notify you about changes or improvements to our Site.
 
-4\. Is information disclosed to third parties? 
+Unless you have opted out of receiving marketing information, we use your personal information to customize and deliver that information to you.
 
-It is iShares policy to only disclose non-public, personal information to unaffiliated third parties under the following circumstances: 
+We also enhance or merge personal information with data from third parties in order to better market our products and services and serve your needs.
 
-  * as permitted by law, or as required by law through subpoena, search warrant or other legal process 
-  * to fulfill a visitor's request 
-  * to deliver requested product information to a visitor 
-  * to deliver requested publications or reference materials to a visitor 
-  * to facilitate use of third party tools provided by or through our website 
-  * to provide personal information to direct marketing agencies 
+We use the search terms you enter to help us refine our search functionality and to improve how we appear on external search engines such as Google and Yahoo!.
 
+We do share non-public, personally identifiable information with our affiliates. We only disclose non-public, personally identifiable information to unaffiliated third parties as follows.
 
+To advertising and marketing agencies to help sell and market our own products and services. To technology and other service providers (such as those that provide portfolio tools) to provide technology and services to us. To vendors that help us fulfill requests to deliver product information, publications, or reference materials or that facilitate use of third party tools provided by or through our Site.
 
-Other than those instances itemized above, iShares does not disclose or sell non-public, personal information to unaffiliated third parties for consumer marketing purposes. 
+The above unaffiliated third parties are all contractually obligated to keep the information confidential and to not use the information for any purpose other than providing services to us and to you under our direction.
 
-5\. How long is the information kept? 
+We also disclose such information as permitted or required by law or as required by subpoena, search warrant or other legal process.
 
-We keep information about visitors (such as information generated though registration for access to areas on the site) as long as necessary to service visitor requests or until a visitor requests that we delete the information. Mailing list and e-mail information is kept for only the period of time considered reasonable to facilitate future requests. 
+As our business evolves, we may sell, transfer, or otherwise share some or all of our assets, including information provided by you, in connection with a merger, reorganization, or sale of some or all of our assets, or in the event of bankruptcy. In any such event, personally identifiable and other information may be one of the assets transferred.
 
-6\. Links to Third Party Sites 
+**Choosing NOT to disclose personal information**
 
-Because iShares wants our website experience to be as informational and resourceful as possible, we provide a number of links to third party sites. iShares assumes no responsibility for the information practices of sites a visitor is able to access through ishares.com, and encourages visitors to review each site's privacy policy before disclosing any personal information on that site. 
+You are not required to register to gain access to many areas of the Site. In order to use all of the site's services, however, we require registration for a username and password for authentication and for secure access to personalized Site information or services.
 
-7\. What choices are available for the collection and use of identifying information? 
+**Opting out**
 
-Visitors are not required to register to gain access to many areas of the website. In order to use all of the site's services, however, we require visitors to register in order to obtain a user-id and password for authentication and secure access to personalized website information or services. 
+You can opt out of our using non-public, personally identifiable information we collect on the Site to send you separate online marketing and advertising materials by updating your Profile (see below), contacting us at the below phone number or email, or clicking on an "unsubscribe" link in our marketing emails.
 
-Visitors voluntarily provide personal information through the website. Should visitors subsequently choose to de-register from the website, they can e-mail us their request at: [barclaysfund@seic.com](mailto:barclaysfund@seic.com). 
+**Reviewing your information and requesting changes to your Profile**
 
-8\. Can I change or delete the information later? 
+You should identify and correct any inaccuracies in the information you submit. To update information previously submitted, please sign in and click on the "My Profile" link located at the top of every web page. Please direct inquiries about the accuracy of information previously submitted through the Site, or requests to update information, to: isharesetfs@barclaysglobal.com or call 1-800-iShares. iShares will not be responsible for outdated information or for verifying personal information.
 
-Visitors should identify and correct any inaccuracies in the information they submit. To update information previously submitted, visitors should click on the "My Profile" link located at the top of every web page. Visitors should direct inquiries about the accuracy of information previously submitted through the website, or requests to update information, to: [barclaysfund@seic.com](mailto:barclaysfund@seic.com). Visitors also may request to have non-public, personal information removed from current operational systems. iShares will not be responsible for outdated information or for verifying personal information. Visitors have the right to reasonable access to the information they have submitted through the website. 
+**Children's online privacy protection**
 
-9\. How is my information secured? 
+iShares understands the importance of protecting children's privacy, especially in an online environment. The Site is not designed for or directed at children. It is our policy not to knowingly collect or maintain information about anyone under the age of 13.
 
-The website uses generally accepted standards of technology and operational security in order to protect personal information from loss, misuse, alteration or destruction. We give only authorized agents of iShares and service providers access to personal information submitted through the site. These agents have agreed not to disclose or use the information except as necessary to provide requested services. 
+**Links to third party sites**
 
-10\. Changes to the iShares Privacy Statement 
+The Site contains links to third party websites. We assume no responsibility for the information practices of those websites. We encourage visitors to review each site's privacy policy before disclosing any personal information on that site.
 
-iShares reserves the right to modify or amend this Statement at any time and for any reason. 
+**Phishing**
 
-In order to keep visitors informed of our privacy policies and practices for non-public, personal information transmitted through the website, we will post changes to our Privacy Statement on the site. 
+We do not and will not, at any time, request personal information in a non-secure or unsolicited email or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, visit the Federal Trade Commission at [http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm](https://web.archive.org/exit_tracking.htm?url=http%3A%2F%2Fwww.ftc.gov%2Fbcp%2Fedu%2Fpubs%2Fconsumer%2Falerts%2Falt127.htm).
 
-11\. Children's online privacy protection 
+**Security**
 
-iShares understands the importance of protecting children's privacy, especially in an online environment. The website is not intentionally designed for or directed at children 18 years of age or younger. It is our policy not to knowingly collect or maintain information about anyone under the age of 18. 
+The Site uses generally accepted standards of technology and operational security to protect personal information. Personal information received through the Site is encrypted.
 
-12\. Contact us 
+**Changes to this Policy**
 
-We welcome inquiries or comments about our privacy statement and any queries or concerns about iShares. You may direct these to: [barclaysfund@seic.com](mailto:barclaysfund@seic.com) or call 1-800-ISHARES.
+This Privacy Policy may be updated from time to time as our services change and grow. We will indicate any such changes at the privacy link at the bottom of our home page, and your continued use of the Site will signify your acknowledgement of any new terms. The most current version of the Privacy Policy can be found by visiting the privacy link at [http://www.iShares.com](https://web.archive.org/home.htm).
+
+We welcome inquiries or comments about our Privacy Policy and any queries or concerns about iShares at [isharesetfs@barclaysglobal.com](mailto:isharesetfs@barclaysglobal.com) or 1-800-iShares.
