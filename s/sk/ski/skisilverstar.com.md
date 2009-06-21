@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219204053id_/http%3A//www.skisilverstar.com/home_showSection_ID_468.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203749id_/http%3A//www.skisilverstar.com/home_showSection_ID_468.html) for the most accurate reproduction.*
 
 # Silver Star Mountain Resort - Privacy Policy
 
