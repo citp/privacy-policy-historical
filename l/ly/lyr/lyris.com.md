@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyris.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055117id_/http%3A//www.lyris.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621020347id_/http%3A//www.lyris.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Privacy Policy
 
@@ -49,8 +49,7 @@ John Doe | JohnDoe@someaddress.com
 JohnDoe@anotheraddress.com  
 | Name | Email Addresses  
 ---|---  
-John   
-Doe | JohnDoe@someaddress.com  
+John Doe | JohnDoe@someaddress.com  
   
 Lyris' services sometimes use cookies to help our clients better analyze the success of their email and other online marketing campaigns. The cookies we serve are often correlated with individually identifiable information, but this information is not shared with anyone other than the client. As with the email example above, this data is not shared across multiple clients.
 
@@ -71,5 +70,3 @@ Lyris, Inc. reserves the right to change its privacy policy at any time. Notific
   * Users voluntarily viewing the privacy statement for periodic changes
 
 
-
-© 2008 Lyris Inc.
