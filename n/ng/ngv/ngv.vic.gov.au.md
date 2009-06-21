@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221191339id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011348id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
 
 # Policies: Privacy
+
+## National Gallery of Victoria Privacy Policy
+
+The [NGV Privacy Policy ](https://web.archive.org/web/20090622011348id_/http%3A//www.ngv.vic.gov.au/policies/resources/NGVPrivacyPolicy.pdf) is available for [ download (PDF 182KB) ](https://web.archive.org/web/20090622011348id_/http%3A//www.ngv.vic.gov.au/policies/resources/NGVPrivacyPolicy.pdf)
+
+## National Gallery of Victoria Website Privacy Statement
 
 The National Gallery of Victoria is committed to protecting user privacy. We understand that visitors and users of this website are concerned about their privacy and the confidentiality and security of any information that is provided. The information we collect from you depends on how and why you access the website. If you visit the website to browse, read or download information, our system may record information about the visit such as the number of pages visited and the duration of the visit so we can evaluate site usage to make improvements. However the NGV website will **not** know who you are. 
 
