@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216032217id_/http%3A//www.hrsmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsmart.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621222954id_/http%3A//www.hrsmart.com/index.php/-privacy-policy) for the most accurate reproduction.*
 
-# HRsmart :: Employee Perfomance Management Systems
+# Privacy Policy | Human Resource Software | Applicant Tracking System
 
-_Effective March 1, 2006_
+Privacy Policy | Human Resource Software | Applicant Tracking System   
+  
+**[HRsmart Privacy Document](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
+
+**ASP PRIVACY POLICY**
+
+ _Effective March 1, 2006_
 
 This statement discloses HRsmart, Inc.'s ("HRsmart's") privacy policy with respect to the personally identifiable information ("personal information") it may maintain while operating as an application service provider ("ASP") for its clients. Any information HRsmart collects by other means, such as through the website www.hrsmart.com or off-line, is subject to a different policy and practice.
 
@@ -13,6 +19,7 @@ HRsmart adheres to the Safe Harbor Principles set forth by United States Departm
 **1\. Notice**  
 HRsmart does not collect personal information. Clients use our applications to store and manage data that often contains personal information. Individuals should consult our clients' privacy policies for information about how their personal information may be collected and used by our clients.
 
+  
 **2\. Choice**  
 HRsmart will maintain personal information in accordance with this privacy policy. If at any point we change our policy, we will post a notice on this webpage to advise the public of such revisions. HRsmart does not have the ability to provide individuals with a choice regarding to whom our clients may disclose individuals' personal information or whether it is used for a purpose that is compatible with the purpose for which it was originally collected. We recommend that individuals consult our clients' privacy policies if they have questions about how these companies may collect, retain, use or share personal information.
 
@@ -29,4 +36,7 @@ HRsmart will not use the personal information it maintains in any manner. You sh
 We maintain personal information on behalf of our clients. We provide our clients with the technological capacity to grant and limit access to personal information in accordance with their business and privacy practices. To correct, amend or delete inaccurate personal information, you should contact the company to which you provided this information.
 
 **7\. Enforcement**  
-HRsmart has verified that it complies with this privacy policy. If you have any questions or complaints about this policy, please contact Mark Hamdan by telephone at 214-432-3456, email at mhamdan@hrsmart.com or mail at 2929 N. Central Expressway, Suite 110, Richardson, TX 75080. If we are unable to resolve your complaint, you may contact the appropriate Data Protection Authority in the European Union.
+HRsmart has verified that it complies with this privacy policy. If you have any questions or complaints about this policy, please contact at [marketing@hrsmart.com](mailto:marketing@hrsmart.com) or mail at 2929 N. Central Expressway, Suite 110, Richardson, TX 75080. If we are unable to resolve your complaint, you may contact the appropriate Data Protection Authority in the European Union.
+
+ **[HRsmart Privacy Document  
+](http://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%20%3Chttp://web.ita.doc.gov/safeharbor/SHList.nsf/f6cff20f4d3b8a3185256966006f7cde/e9cacdd23a053a3e85257125005f66ca?OpenDocument&Highlight=2,hrsmart%3E)**
