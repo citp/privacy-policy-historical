@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022847id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621154647id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/privacy_policy.asp) for the most accurate reproduction.*
 
-# TAMPA FLORIDA USA municipal government - Privacy Policy
+# TAMPA FLORIDA USA municipal government-Privacy Policy
 
-Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20081218022847id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/security_policy.asp).) 
+Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20090621154647id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/security_policy.asp).) 
 
 ## Email
 
