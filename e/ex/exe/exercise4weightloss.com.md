@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220171541id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621060830id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exercise 4 Weight Loss
 
@@ -70,9 +70,10 @@ If you do not agree to exercise4weightloss.com Privacy Policy as posted here on 
 
 Your use of this site indicates acceptance of this privacy policy.
 
+Exercise 4 Weight Loss 2 Achieve Fitness and Health  
+
+
+© 2008 Exercise4WeightLoss.com
+
   
 
-
-* * *
-
-Exercise 4 Weight Loss 2 Achieve Fitness and Health
