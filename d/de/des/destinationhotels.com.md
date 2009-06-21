@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218183629id_/http%3A//www.destinationhotels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621234031id_/http%3A//www.destinationhotels.com/privacy.php) for the most accurate reproduction.*
 
 # Family Travel Packages | Destination Hotels & Resorts - Privacy | Luxury Destinations Resorts
 
