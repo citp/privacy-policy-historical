@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219172332id_/http%3A//www.clamwin.com/content/view/171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clamwin.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621130546id_/http%3A//www.clamwin.com/content/view/171) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
@@ -23,11 +23,9 @@ Once subscribed, users can remove themselves from receiving future mailings.
 Our Web Site contains links to other sites. ClamWin Pty. Ltd. is not responsible for the privacy practices or the content of such web sites. This privacy statement applies solely and exclusively to the information collected at our Web Site. We encourage you to be aware when you leave our Web Site and to read the privacy statements of each and every web site that collects any information from you that is personally identifiable. 
 
 **Special Relationships**  
-Our Web Site maintains special relationships with advertising and affiliate marketing companies for serving of the advertisements. When clicking on advertising and/or affiliate links for these companies, visitors will be taken to their web site. In order to properly identify that this site referred visitors to those companies, a cookie may be placed on the visitor's computer. The cookie is not placed by our Web Site, but by the companies listed below. Only the company that placed the cookie has access to the information contained in that cookie. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following links: 
 
-These companies are: 
-
-  * Google Adsense. See the [ Google Privacy Statement](http://www.google.com/privacy.html)
+  * Google Adsense. See the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
   * Digital River. To find out more about how Digital River manages the privacy and security of information for customer orders, please see the [Digital River Privacy Policy](http://www.digitalriver.com/corporate/privacy.shtml).
 
 
@@ -35,7 +33,7 @@ These companies are:
 **Donations**  
 Our Web Site accepts donations via PayPal.com web site. Please see [PayPal Privacy Statement](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).  
   
-© 2008 ClamWin Free Antivirus  
+© 2009 ClamWin Free Antivirus  
 ClamWin™ is a trademark of ClamWin Pty Ltd.  
 Other trademarks are the property of the respective trademark holders.  
-[Privacy Statement](http://www.clamwin.com/content/view/171)
+[Privacy Statement](http://www.clamwin.com/content/view/171/107/)
