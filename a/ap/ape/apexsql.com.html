@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220060431id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621041534id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title> Apex SQL Tools Privacy Policy </title>
 
 
 
-<title>Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more</title>
+<title>Apex SQL Tools - SQL tools to compare, audit, script, diff, doc, recover and more</title>
 <meta name="description" content="SQL Tools for Auditing, Code Generation, Scripting, Reporting and more.">
 <meta name="keywords" content="sql tools, Auditing, Reporting, Comparison, Synchronization, Code generation, RAD, ApexSQL">
 <link href="http://www.apexsql.com/include/apexsql.css" rel="stylesheet" type="text/css">
@@ -23,25 +23,21 @@
 
     // browser name
     this.isOpera     = (ua.indexOf("opera") != -1);
-
-    if (!this.isOpera) {
-      c_param = 'c_'+ param;
+    var isSubMenu = false;
+    if (!this.isOpera) {        
+      c_param = 'c_'+ param;      
+      p_param = 'p_' + param;
       oItem=getDivObj(c_param);
-      oItem.className='top_menu_rollover';
+      if(!IsSubMenu(param))
+      {
+        oItem.className='top_menu_rollover';
+      }      
     }
   }
 
-  function subMenuHide(param, flag) {
-    arr=new Array('products','downloads','purchase','support','news','company','members');
-
-    n=0;
-    while(n!=arr.length)
-    {
-      objname=arr[n];
-      getDivObj(objname).style.display="none";
-      n++;  
-    }
-
+  function subMenuHide(param, flag) {    
+    getDivObj(param).style.display="none";
+    
     var ua = navigator.userAgent.toLowerCase();
     this.ua = ua;
 
@@ -50,10 +46,28 @@
 
     if (!this.isOpera && flag != 1) {
       c_param = 'c_'+ param;
-      oItem=getDivObj(c_param);
-      oItem.className='top_menu_inactive';
+      oItem=getDivObj(c_param);      
+      if(!IsSubMenu(param))
+      {
+          oItem.className='top_menu_inactive';
+      }      
     }
   }
+  
+  function IsSubMenu(param)
+  {
+      var lastInd = param.lastIndexOf('_sub')
+      
+      if(lastInd == -1)
+      {
+           return false;
+      }
+      else
+      {
+           return true; 
+      }      
+  }
+  
   function getDivObj(name) {
     obj=document.getElementById(name);
   
@@ -76,8 +90,6 @@ function popUpWindow(url, width, height)
 }
 </script>
 
-
-<script src="taglinks.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 
@@ -110,11 +122,11 @@ pageTracker._trackPageview();
   <script type="text/javascript">
       function getFlash()
       {
-        var randomnumber=Math.floor(Math.random()*2)
+        var randomnumber=Math.floor(Math.random()*5)
 		
         //var randomnumber=Math.floor(Math.random()*8)
                     
-        var sFlashFiles = "Studio Blue.swf,enforce_sheriff.swf"
+        var sFlashFiles = "Studio Blue.swf,frog.swf,shark.swf,redink_corrected.swf,doc_2008.swf"
 		
         //var sFlashFiles = "studioblue.swf,clean.swf,code.swf,diff.swf,doc.swf,edit.swf,log.swf,studioblue2.swf"
 
@@ -131,143 +143,297 @@ pageTracker._trackPageview();
         return sFlash
       }
       document.write(getFlash())
-    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/Studio Blue.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/Studio Blue.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
+    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/doc_2008.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/doc_2008.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
   </div>
 </div>
 <!-- /header --><!-- top menu -->
 <div class="top_menu">
   <table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-  <td class="top_menu_inactive">&nbsp;</td>
-  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="default.asp">Home</a></td>
+  <tbody><tr>  
   <td id="c_products" class="top_menu_inactive" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
   <div id="products" class="drop" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
-    <table class="table_drop_in" cellspacing="0">
-   <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_s.asp">Value Bundles</a></td></tr>
-	  
-    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_p.asp">Individual&nbsp;Products</a></td></tr>
+    <table class="table_drop_in">
 	
-	 </tbody></table>
-    </div>
-    <a href="http://www.apexsql.com/sql_tools_s.asp">Products</a>
-  </td>
-  <td id="c_downloads" class="top_menu_inactive" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
-    <div id="downloads" class="drop" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
-    <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads_s.asp">Value Bundles</a></td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads_p.asp">Individual&nbsp;Products</a></td></tr>
+       <tbody><tr><td class="td_drop_in" id="c_products_value_sub" onmouseover="javascript:subMenuShow('products_value_sub');" onmouseout="javascript:subMenuHide('products_value_sub', 0);">
+                <div id="products_value_sub" class="drop_products" onmouseover="javascript:subMenuShow('products_value_sub');" onmouseout="javascript:subMenuHide('products_value_sub', 0);">
+                    <table class="table_drop_in">
+					   <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_comparison_studio.asp">ApexSQL Comparison Studio</a></td></tr>
+					   <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_dba_studio.asp">ApexSQL DBA Studio</a></td></tr>
+                       <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_dev_studio.asp">ApexSQL Developer Studio</a></td></tr>
+					   <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_recovery_studio.asp">ApexSQL Recovery Studio</a></td></tr> 
+	                   <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_ssms_plus.asp">ApexSQL SSMS Plus</a></td></tr>
+	                   <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_univ_studio.asp">ApexSQL Universal Studio</a></td></tr>	
+					 </tbody></table>
+                </div>
+                <div onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';">
+                    <a href="http://www.apexsql.com/sql_tools_s.asp" id="p_products_value_sub">Value&nbsp;Bundles</a>                 
+                </div>
+           </td>
+       </tr>
+	   <tr><td class="td_drop_in">&nbsp;</td></tr>
+	   <tr><td class="td_drop_in" id="c_products_client_sub" onmouseover="javascript:subMenuShow('products_client_sub');" onmouseout="javascript:subMenuHide('products_client_sub', 0);">
+	            <div id="products_client_sub" class="drop_products" onmouseover="javascript:subMenuShow('products_client_sub');" onmouseout="javascript:subMenuHide('products_client_sub', 0);">
+                    <table class="table_drop_in">
+                         <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_audit.asp">ApexSQL Audit</a></td></tr>
+	                     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_clean.asp">ApexSQL Clean</a></td></tr>
+						 <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_code.asp">ApexSQL Code</a></td></tr>  
+						 <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_datadiff.asp">ApexSQL Data Diff</a></td></tr>
+						 <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_diff.asp">ApexSQL Diff</a></td></tr>
+	                     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_doc.asp">ApexSQL Doc</a></td></tr>
+						 <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_edit.asp">ApexSQL Edit</a></td></tr>	
+	                     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_enforce.asp">ApexSQL Enforce</a></td></tr>
+					     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_script.asp">ApexSQL Script</a></td></tr>
+	                     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_ssis_compare.asp">ApexSQL SSIS Compare</a></td></tr>                        
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_client.asp">Client Utilities</a>
+	       </td>
+	   </tr>
+	   <tr><td class="td_drop_in" id="c_products_server_sub" onmouseover="javascript:subMenuShow('products_server_sub');" onmouseout="javascript:subMenuHide('products_server_sub', 0);">
+	            <div id="products_server_sub" class="drop_products" onmouseover="javascript:subMenuShow('products_server_sub');" onmouseout="javascript:subMenuHide('products_server_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_log.asp">ApexSQL Log</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_recover.asp">ApexSQL Recover</a></td></tr>
+	                   	                    
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_server.asp">Server Tools</a>
+	       </td>
+	   </tr>
+	   <tr><td class="td_drop_in" id="c_products_addin_sub" onmouseover="javascript:subMenuShow('products_addin_sub');" onmouseout="javascript:subMenuHide('products_addin_sub', 0);">
+                <div id="products_addin_sub" class="drop_products" onmouseover="javascript:subMenuShow('products_addin_sub');" onmouseout="javascript:subMenuHide('products_addin_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_debug.asp">ApexSQL Debug</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_refactor.asp">ApexSQL Refactor</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_source_control.asp">ApexSQL Source Control</a></td></tr>	                    
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_addins.asp">Add-ins</a>
+	       </td>
+	   </tr>
+	 <tr><td class="td_drop_in" id="c_product_apis_sub" onmouseover="javascript:subMenuShow('product_apis_sub');" onmouseout="javascript:subMenuHide('product_apis_sub', 0);">
+	            <div id="product_apis_sub" class="drop_products" onmouseover="javascript:subMenuShow('product_apis_sub');" onmouseout="javascript:subMenuHide('product_apis_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_diffapi.asp">ApexSQL Diff API</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_logapi.asp">ApexSQL Log API</a></td></tr>	                    
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_apis.asp">APIs</a>
+	     </td>
+	 </tr>
+	 
+	  <tr><td class="td_drop_in" id="c_products_web_sub" onmouseover="javascript:subMenuShow('products_web_sub');" onmouseout="javascript:subMenuHide('products_web_sub', 0);">
+	            <div id="products_web_sub" class="drop_products" onmouseover="javascript:subMenuShow('products_web_sub');" onmouseout="javascript:subMenuHide('products_web_sub', 0);">
+                    <table class="table_drop_in">
+                        
+	                    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_report.asp">ApexSQL Report</a></td></tr>	                    
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_web.asp">Web Apps</a>
+	       </td>
+	   </tr>
+	 
 	
-     
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="requirements.asp">Sys Requirements</a></td></tr>
-    </tbody></table>
+	 <tr><td class="td_drop_in">&nbsp;</td></tr>
+	 <tr><td class="td_drop_in" id="c_product_free_sub" style="border-bottom: none" onmouseover="javascript:subMenuShow('product_free_sub');" onmouseout="javascript:subMenuHide('product_free_sub', 0);">
+	            <div id="product_free_sub" class="drop_products" onmouseover="javascript:subMenuShow('product_free_sub');" onmouseout="javascript:subMenuHide('product_free_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sql_tools_code.asp">ApexSQL Code</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/sql_tools_refactor.asp">ApexSQL Refactor</a></td></tr>
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/sql_tools_free.asp">Free Tools</a>
+	     </td>
+	 </tr>
+	 
+	</tbody></table>
     </div>
-    <a href="downloads_s.asp">Downloads</a>
+    <a href="http://www.apexsql.com/solution_center.asp">Products</a>
   </td>
   
   <td id="c_purchase" class="top_menu_inactive" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
     <div id="purchase" class="drop" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
-    <table class="table_drop_in" cellspacing="0">
-     <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp">Value Bundles</a></td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_p.asp">Individual&nbsp;Products</a></td></tr>
-    	
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sales_faq.asp">Sales FAQs</a></td></tr>
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/activate.asp">Product Activation</a></td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lostkey.asp">Resend Activation Key</a></td></tr>	
-	<tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/UpgradeCenter.asp">Upgrade Center</a></td></tr>
+    <table class="table_drop_in">
+        <tbody><tr><td class="td_drop_in" id="c_purchase_value_sub" onmouseover="javascript:subMenuShow('purchase_value_sub');" onmouseout="javascript:subMenuHide('purchase_value_sub', 0);">
+                <div id="purchase_value_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_value_sub');" onmouseout="javascript:subMenuHide('purchase_value_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp#comparison_studio">ApexSQL Comparison Studio</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp#dba_studio">ApexSQL DBA Studio</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp#studios">ApexSQL Developer Studio</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp#recovery_studio">ApexSQL Recovery Studio</a></td></tr>
+                        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_s.asp#ssms_plus">ApexSQL SSMS Plus</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_s.asp#studiou">ApexSQL Universal Studio</a></td></tr>	                    
+	                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/purchase_s.asp">Value&nbsp;Bundles</a>
+             </td>
+        </tr>
+	    <tr><td class="td_drop_in">&nbsp;</td></tr>
+	    <tr><td class="td_drop_in" id="c_purchase_client_sub" onmouseover="javascript:subMenuShow('purchase_client_sub');" onmouseout="javascript:subMenuHide('purchase_client_sub', 0);">
+	            <div id="purchase_client_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_client_sub');" onmouseout="javascript:subMenuHide('purchase_client_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#audit">ApexSQL Audit</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#clean">ApexSQL Clean</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#code">ApexSQL Code</a></td></tr>                        
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#data_diff">ApexSQL Data Diff</a></td></tr>
+						<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#diff">ApexSQL Diff</a></td></tr>	                   
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#doc">ApexSQL Doc</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#edit">ApexSQL Edit</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#enforce">ApexSQL Enforce</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_client.asp#script">ApexSQL Script</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_client.asp#ssis_compare">ApexSQL SSIS Compare</a></td></tr>                        
+                    </tbody></table>
+                </div>
+	            <a href="http://www.apexsql.com/purchase_client.asp">Client Utilities</a>
+	        </td>
+	    </tr>
+        <tr><td class="td_drop_in" id="c_purchase_server_sub" onmouseover="javascript:subMenuShow('purchase_server_sub');" onmouseout="javascript:subMenuHide('purchase_server_sub', 0);">
+                <div id="purchase_server_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_server_sub');" onmouseout="javascript:subMenuHide('purchase_server_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_server.asp#log">ApexSQL Log</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_server.asp#recover">ApexSQL Recover</a></td></tr>
+	                                        
+                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/purchase_server.asp">Server Tools</a>
+            </td>
+        </tr>
+        <tr><td class="td_drop_in" id="c_purchase_addin_sub" onmouseover="javascript:subMenuShow('purchase_addin_sub');" onmouseout="javascript:subMenuHide('purchase_addin_sub', 0);">
+                <div id="purchase_addin_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_addin_sub');" onmouseout="javascript:subMenuHide('purchase_addin_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_addins.asp#debug">ApexSQL Debug</a></td></tr>
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_addins.asp#source_control">ApexSQL Source Control</a></td></tr>
+                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/purchase_addins.asp">Add-ins</a>
+            </td>
+        </tr>
+        <tr><td class="td_drop_in" id="c_purchase_apis_sub" onmouseover="javascript:subMenuShow('purchase_apis_sub');" onmouseout="javascript:subMenuHide('purchase_apis_sub', 0);">
+                <div id="purchase_apis_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_apis_sub');" onmouseout="javascript:subMenuHide('purchase_apis_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/purchase_apis.asp#diffapi">ApexSQL Diff API</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_apis.asp#logapi">ApexSQL Log API</a></td></tr>	                    
+                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/purchase_apis.asp">APIs</a>
+            </td>
+        </tr>
+		
+		<tr><td class="td_drop_in" id="c_purchase_web_sub" onmouseover="javascript:subMenuShow('purchase_web_sub');" onmouseout="javascript:subMenuHide('purchase_web_sub', 0);">
+                <div id="purchase_web_sub" class="drop_purchase" onmouseover="javascript:subMenuShow('purchase_web_sub');" onmouseout="javascript:subMenuHide('purchase_web_sub', 0);">
+                    <table class="table_drop_in">
+                       
+	                    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/purchase_web.asp#report">ApexSQL Report</a></td></tr>	                    
+                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/purchase_web.asp">Web Apps</a>
+            </td>
+        </tr>
+		
+      
+        <tr><td class="td_drop_in">&nbsp;</td></tr>
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/PricingList.pdf" target="_blank">Price List</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sales_faq.asp">Sales FAQs</a></td></tr>
+        <tr><td class="td_drop_in">&nbsp;</td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/activate.asp">Product Activation</a></td></tr>    	
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lostkey.asp">Get Activation Key(s)</a></td></tr>    	
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none;"><a href="http://www.apexsql.com/UpgradeCenter.asp">Upgrade Center</a></td></tr>
     </tbody></table>
     </div>
-    <a href="http://www.apexsql.com/purchase_s.asp">Purchase</a>
+    <a href="http://www.apexsql.com/purchase.asp">Purchase</a>
   </td>
 
   <td id="c_support" class="top_menu_inactive" onmouseover="javascript:subMenuShow('support');" onmouseout="javascript:subMenuHide('support', 0);">
     <div id="support" class="drop" onmouseover="javascript:subMenuShow('support');" onmouseout="javascript:subMenuHide('support', 0);">
-    <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/help.asp">Support Center</a></td></tr>
-	
-		<tr><td class="td_drop_in">&nbsp;</td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/default.asp?C=1">Support Forum</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_faqs.asp">FAQs</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_troubleshooting.asp">Troubleshooting</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training/index.htm">Knowledgebase</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/help_files.asp">Documentation</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training.asp">Videos</a></td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/step-by-step_index.asp">Step-by-step</a></td></tr>
-		
-		<tr><td class="td_drop_in">&nbsp;</td></tr>
-		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lawlibrary/default.aspx">Law Library</a></td></tr>
-		
-		<tr><td class="td_drop_in">&nbsp;</td></tr>
-		
-		<tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/requirements.asp">Sys Requirements</a></td></tr>	
-    </tbody></table>
+    <table class="table_drop_in">	
+    		
+		<tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/default.asp?C=1">Support Forum</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_faqs.asp">FAQs</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_troubleshooting.asp">Troubleshooting</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training/labels/General.htm">Knowledgebase</a></td></tr>	
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/help_files.asp">Documentation</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training.asp">Videos</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/step-by-step_index.asp">Step-by-step</a></td></tr>		
+			
+		<tr><td class="td_drop_in">&nbsp;</td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/requirements.asp">Sys Requirements</a></td></tr>		
+	</tbody></table>
     </div>
-    <a href="help.asp">Support</a>
+    <a href="http://www.apexsql.com/help.asp">Support</a>
   </td>
-
 
 
   <td id="c_news" class="top_menu_inactive" onmouseover="javascript:subMenuShow('news');" onmouseout="javascript:subMenuHide('news', 0);">
     <div id="news" class="drop" onmouseover="javascript:subMenuShow('news');" onmouseout="javascript:subMenuHide('news', 0);">
-    <table class="table_drop_in" cellspacing="0">
-	<tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/blog/index.htm">ApexSQL News</a></td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/headline_news.asp">What's New</a></td></tr>
-	
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/whats_next.asp">What's Next</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/devblog/index.htm">Developers Blog</a></td></tr>
+    <table class="table_drop_in">
+	    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"> <a href="http://www.apexsql.com/blog/index.htm">ApexSQL News</a></td></tr>    	
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/newsletter_subscribe.asp">Newsletter Subscribe</a></td></tr> 	
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/headline_news.asp">What's New</a></td></tr>
+			<tr><td class="td_drop_in">&nbsp;</td></tr>	
+			
+       <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/devblog/index.htm">Developer Diary</a></td></tr>
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/blog/labels/Articles.htm">Articles</a></td></tr>
    </tbody></table>
-    </div><a href="http://www.apexsql.com/blog/index.htm">News</a></td>
- 
- <td id="c_members" class="top_menu_inactive" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
-    <div id="members" class="drop" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
-    <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/login_user.asp">Login Page</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/register.asp">Edit Profile</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faq_login.asp">Site Registration FAQ</a></td></tr>
-     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/activation">Product Activation</a></td></tr>
-	<tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lostkey.asp">Resend Activation Key</a></td></tr>
-    </tbody></table>
-    </div>
-    <a href="http://www.apexsql.com/forum/login_user.asp">Members</a>
-  </td>
- 
-  <td id="c_company" class="top_menu_active" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
-    <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
-    <table class="table_drop_in" cellspacing="0">
-    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_contact.asp">Contact Info</a></td></tr>
-    
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_about.asp">About</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_location.asp">Location</a></td></tr>
-	<tr><td class="td_drop_in">&nbsp;</td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/10reasons2buy.asp">Why ApexSQL?</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="testimonials.asp">Testimonials</a></td></tr>
-	<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="customers.asp">Customers</a></td></tr>
-
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="newsletter_subscribe.asp">Newsletter Subscribe</a></td></tr>
+    </div><a href="http://www.apexsql.com/news.asp">News</a></td>
+  
    
-    <tr><td class="td_drop_in">&nbsp;</td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="partners.asp">Partner Programs</a></td></tr>
-    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_employment.asp">Jobs at ApexSQL</a></td></tr>
-	<tr><td class="td_drop_in">&nbsp;</td></tr>
-	<tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="gear.asp">ApexSQL Gear</a></td></tr>
+  <td id="c_members" class="top_menu_inactive" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
+    <div id="members" class="drop" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
+    <table class="table_drop_in">
+        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/login_user.asp">Login Page</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/register.asp">My Profile</a></td></tr>
+        <tr><td class="td_drop_in">&nbsp;</td></tr>        
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/VIP_Benefits.asp">ApexSQL VIP Program</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/MyPoints.aspx">My ApexSQL Points</a></td></tr>
+        <tr><td class="td_drop_in">&nbsp;</td></tr>      
+		
+		 <tr><td class="td_drop_in" id="c_community_libary_sub" onmouseover="javascript:subMenuShow('community_libary_sub');" onmouseout="javascript:subMenuHide('community_libary_sub', 0);">
+                <div id="community_libary_sub" class="drop_community" onmouseover="javascript:subMenuShow('community_libary_sub');" onmouseout="javascript:subMenuHide('community_libary_sub', 0);">
+                    <table class="table_drop_in">
+                        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lawlibrary/default.aspx">Law Library</a></td></tr>	                    
+	                    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/OTL/Default.aspx">Template Library</a></td></tr>
+	                    	                    
+                    </tbody></table>
+                </div>
+                <a href="http://www.apexsql.com/lawlibrary/default.aspx">Code Libraries</a>
+            </td>
+        </tr>
+		
+		<tr><td class="td_drop_in">&nbsp;</td></tr>
+		          
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lostkey.asp">Get Activation Key(s)</a></td></tr>
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/newsletter_subscribe.asp">Newsletter Subscribe</a></td></tr>
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none;"><a href="http://www.apexsql.com/faq_login.asp">Site Registration FAQ</a></td></tr>
     </tbody></table>
     </div>
-    <a href="comp_contact.asp">Company</a>
+    <a href="http://www.apexsql.com/members.asp">Members</a>
+  </td>
+  
+  <td id="c_company" class="top_menu_active" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
+    <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 0);">
+    <table class="table_drop_in">
+        <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/comp_contact.asp">Contact Info</a></td></tr>    
+        <tr><td class="td_drop_in">&nbsp;</td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/comp_about.asp">About</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/comp_location.asp">Location</a></td></tr>
+        <tr><td class="td_drop_in">&nbsp;</td></tr>
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/10reasons2buy.asp">Why ApexSQL?</a></td></tr>
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/testimonials.asp">Testimonials</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/customers.asp">Customers</a></td></tr>
+       
+        <tr><td class="td_drop_in" "="">&nbsp;</td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/partners.asp">Partner Programs</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/comp_employment.asp">Jobs at ApexSQL</a></td></tr>
+        <tr><td class="td_drop_in">&nbsp;</td></tr>
+	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none;"><a href="http://www.apexsql.com/gear.asp">ApexSQL Gear</a></td></tr>
+	</tbody></table>
+    </div>
+    <a href="http://www.apexsql.com/company.asp">Company</a>
   </td>
   <td width="100%" align="center" valign="bottom"><img src="images/m_pic.png" width="95" height="28"></td>
-  
+  <td class="top_menu_inactive" style="text-align:right">
+    <iframe src="http://www.apexsql.com/forum/includes/navigation_buttons_inc2.asp" frameborder="0" style="border-style: none; border-width: 0px; width: 300px; vertical-align: top;" marginheight="0" marginwidth="0" height="22px" scrolling="no"></iframe>
+  </td>
   </tr>
   </tbody></table>
 </div>
@@ -285,7 +451,9 @@ pageTracker._trackPageview();
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> Why ApexSQL?
     </div>
     <div class="right_text">
-      To See the Top Reasons to Buy Apex SQL Software tools: <a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">Click Here</a>.
+      <a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">
+        <img height="32" src="http://www.apexsql.com/images/help.jpg" width="32" align="left" border="0"></a>To See the Top Reasons to Buy Apex SQL Software tools: Click
+		<a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">Here</a>.
     </div>
     <!--<div class="right_title">
       <img src=http://www.apexsql.com/images/right_title_bullet.png width=8 height=8> PRE SALES QUESTION?
@@ -297,18 +465,19 @@ pageTracker._trackPageview();
       <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> ApexSQL Univ Studio
     </div>
     <div class="right_text">
-        <b><a target="_self" href="http://www.apexsql.com/sql_tools_univ_studio.asp">
-        <img height="32" src="http://www.apexsql.com/images/studio_red.gif" width="32" align="left" border="0"></a><font color="#D02424">$1,999</font></b>
-        All  ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. <a target="_self" href="http://www.apexsql.com/sql_tools_univ_studio.asp">Click&nbsp;Here</a> for more info.
+        <b><a target="_self" href="http://www.apexsql.com/sql_tools_s.asp">
+        <img height="32" src="http://www.apexsql.com/images/Univ_Studio32x32.gif" width="32" align="left" border="0"></a><font color="#D02424">$1,999</font></b>
+        All  ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. 		
+		<a target="_self" href="http://www.apexsql.com/sql_tools_s.asp">Learn More</a>
     </div>
     <div class="right_title">
-        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> ApexSQL Dev Studio
+        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> FREE 
+		SQL Tools
     </div>
     <div class="right_text">
-        <b><a target="_self" href="http://www.apexsql.com/sql_tools_dev_studio.asp">
-        <img height="32" src="http://www.apexsql.com/images/studio_blue.gif" width="32" align="left" border="0"></a><font color="#D02424">$999</font></b>
-         9 ApexSQL Developer Tools - One Download / Discounted Price. <a target="_self" href="http://www.apexsql.com/sql_tools_dev_studio.asp">Click&nbsp;Here</a> for more info.
-    </div>
+        <b><a target="_self" href="http://www.apexsql.com/sql_tools_free.asp">
+        <img height="32" src="http://www.apexsql.com/images/refactor_sm.gif" width="32" align="left" border="0"></a><font color="#D02424">FREE</font></b>
+         ApexSQL Tools and Add-ins. <a target="_self" href="http://www.apexsql.com/sql_tools_free.asp">Learn More</a></div>
     <!--<div class="right_title">
       <img src=http://www.apexsql.com/images/right_title_bullet.png width=8 height=8> SALES FAQs
     </div>
@@ -321,7 +490,8 @@ pageTracker._trackPageview();
     <div class="right_text">
         <a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">
         <img border="0" src="http://www.apexsql.com/images/sharkey_32x32_tr.png" width="32" height="32" align="left"></a>
-        Unbeatable Killer Upgrades and Discounts. <a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">Click&nbsp;Here</a> for more info.
+        Unbeatable Killer Upgrades and Discounts. 
+		<a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">Learn More</a>
     </div>
 	
 	<div class="right_title">
@@ -337,25 +507,27 @@ pageTracker._trackPageview();
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES  
     </div>
     <div class="right_text">
-      "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..."
+      "... I forgot to mention that I have personally evaluated 10-15 SQL administration utilities for SQL &amp; yours are some of the best I've seen, keep up the good work."
+      <p class="gray">
+      Lee Davies
+      <br>Software engineer
+      <br>Occam direct marketing
+      <br>www.occam-dm.com
+      </p>
+
+      "As your product offers the best set of features i've seen so far and your customer-service has fully convinced me (couldn't be better ... keep it going like this)"
+      <p class="gray">
+      Martin Schwier
+      <br>Proj. Manager
+      <br>WDT Datentechnik
+      <br>GmbH, Germany
+      </p>
+
+      "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like it's truly different from the rest ..."
       <p class="gray">
       Paul Barbin
       <br>DBA
-      <br>Lewis, Inc.
-      </p>
-
-      "SQL Diff paid for itself in the first hour of using it. I synced 12 different databases to a common rev and man am I happy"
-      <p class="gray">
-      Casey Kirt
-      <br>Bell Mortgage
-      <br>Project Manager
-      </p>
-
-      "Hey thanks for the quick response. This tool is awesome."
-      <p class="gray">
-      Curtis Potts
-      <br>Chief Technical Officer
-      <br>Focus Systems Inc
+      <br>Lewis, Inc.      
       </p>
     </div>
 
@@ -440,8 +612,9 @@ pageTracker._trackPageview();
 
 <!-- bot -->
 <p align="center" class="bot">
-© 2008 <a href="http://www.apexsql.com">Apex SQL Tools</a> All Rights Reserved | 1.919.968.8444 | <a href="http://www.apexsql.com/comp_contact.asp">Contact Us</a> | <a href="http://www.apexsql.com/terms_of_use.asp">Terms of Use</a> | <a href="http://www.apexsql.com/comp_privacy.asp">Privacy Policy</a>
+© 2009 <a href="http://www.apexsql.com">Apex SQL Tools</a> All Rights Reserved | 1.919.968.8444 | <a href="http://www.apexsql.com/comp_contact.asp">Contact Us</a> | <a href="http://www.apexsql.com/terms_of_use.asp">Terms of Use</a> | <a href="http://www.apexsql.com/comp_privacy.asp">Privacy Policy</a>
 </p>
+<script src="http://www.apexsql.com/include/gatag.js" type="text/javascript"></script>
 <script language="javascript" src="/ieupdate.js"></script>
 <!-- /bot -->
 
