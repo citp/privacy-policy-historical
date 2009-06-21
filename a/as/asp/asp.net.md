@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030426id_/http%3A//www.asp.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081600id_/http%3A//asp.net/privacy) for the most accurate reproduction.*
 
 # Privacy Statement : The Official Microsoft ASP.NET Site
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the ASP.NET site (the “Site”) hosted for Microsoft by Telligent; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the ASP.NET site (the “Site”) hosted for Microsoft by Neudesic, LLC; it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
 
 ### Collecting Your Personal Information
 
@@ -34,7 +34,7 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 ### Access to Your Personal Information
 
-Customer information is collected by Telligent, a Microsoft vendor. It is stored at Telligent, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by editing your profile. You can also send email to or to the postal address listed at the bottom of the privacy page.
+Customer information is collected by Neudesic, LLC, a Microsoft vendor. It is stored at Neudesic, LLC, plus sent back to Microsoft. You can review and edit the personal information you provided at this Site by editing your profile. You can also send email to [ mc_feedback_aspnet@neudesic.com](mailto:mc_feedback_aspnet@neudesic.com) or to the postal address listed at the bottom of the privacy page.
 
 ### Security of Your Personal Information
 
@@ -54,9 +54,9 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 ### Contact Information
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at [ mc_feedback_aspnet@neudesic.com](mailto:mc_feedback_aspnet@neudesic.com) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-Telligent Systems  
-17950 Preston Road  
-Suite 310  
-Dallas, TX 75252
+Neudesic, LLC  
+8105 Irvine Center Drive  
+Suite 1200  
+Irvine, CA 92618 
