@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the mindmyhouse.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219234618id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindmyhouse.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621195120id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-
 <title>Privacy policy</title>
 <meta name="description" content="Global house sitting matching service bringing home owners and house sitters together online. Home owners join for free. House sitter members pay the lowest annual fee on the web. Happy house sitting!">
 <meta name="keywords" content="Mind my house, mind house, Mindmyhouse, Haus-Sitter, Haushüten, Haus-Sitter, Haushüten, haussitter, haus sitter, house sitting, housesitting, house sitter, housesitter, house sitters, housesitters, house sit, housesit, sitter, sitters, pet sitting, pet sitters, petsitters, pet sit, dog lover, cat lover, home owner, homeowner, house owner, find house sitter, become house sitter, house sitting opportunities, house sitting services, house sitting jobs, housesitting jobs, house sitter jobs, housesitter jobs, house sit jobs, house minding, house minder, house sitting USA, house sitting America, house sitting Australia, house sitting England, house sitting UK, house sitting Europe, live in, free rent, rent free, cheap holiday, free accommodation, caretaker, caretaker jobs, caretaking, caretaking jobs, security, cat sitters, dog sitters, dog sit, dog sitting,  dog kennels, cat kennels, catteries, holiday, vacation, travel, traveling, travelling">
@@ -10,138 +9,20 @@
 <script type="text/javascript" src="/includes/javascript/ajax.js"></script>
 <script type="text/javascript">
 // Set path to PHP script for ajax calls
-var ajaxphpscript = '/includes/javascript/faqs_popupsb.php';
+var ajaxphpscript = '/includes/javascript/ajax_scripts_sql.php';
+var managemyfavslink;
 </script>
-<script type="text/javascript">
-<!--
-// faq popup mashup
-faqpopup = {
-	name : "faqpop",
-	faq : null
-};
-var faqcontent = '<div class="body"><p class="faqpopupclosebox"><a href="#" id="closefaqbutton"><img src="/images/icons/close.gif" alt="" width="16" height="16" class="arrow" />close<\/a><\/p><div id="ajaxmessage"><\/div><\/div>';
-faqpopup.init = function () {
-	if (!document.getElementById) return;
-	
-	// generate faq layer
-	this.faq = document.createElement ("div");
-	this.faq.setAttribute ("id", this.name);
-	document.body.appendChild (this.faq);
-	this.faq.innerHTML = faqcontent;
-	this.faq = document.getElementById (this.name);
-	var a;
-	var anchors = document.getElementsByTagName ("a");
-	for (var i = 0; i < anchors.length; i ++) {
-		a = anchors[i];
-		if (a.className == "faqpopup") {
-			a.onclick = function(evt) {
-				faqpopup.move(evt);
-				// ajax call	
-				sendRequestPost(this.title);
-				faqpopup.show(this.title); 
-				return false; 
-			};
-		}
-	}
-};
-//this gets the position sorted out
-faqpopup.move = function (evt) {
-	// determin screen dimensions
-	var screenwidth, screenheight;
-	if (self.innerHeight) // all except Explorer
-	{
-		screenwidth = self.innerWidth;
-		screenheight = self.innerHeight;
-	}
-	else if (document.documentElement && document.documentElement.clientHeight)
-		// Explorer 6 Strict Mode
-	{
-		screenwidth = document.documentElement.clientWidth;
-		screenheight = document.documentElement.clientHeight;
-	}
-	else if (document.body) // other Explorers
-	{
-		screenwidth = document.body.clientWidth;
-		screenheight = document.body.clientHeight;
-	}
-	
-	// determin mouse position
-	var x=0, y=0;
-	if (document.all) { // Explorer
-		x = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
-		y = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
-		x += window.event.clientX;
-		y += window.event.clientY;
-	} else { // Mozilla
-		x = evt.pageX;
-		y = evt.pageY;
-	}
-	//check if tooltip fits screen width/height 
-	if ((x + 320) > screenwidth && (x - 320) > 10) {
-		x = x-320-24;
-	} else {
-		x = x;
-	};	
-	if ((y + 200) > screenheight) {
-		y = y-200-24;
-	} else {
-		y = y;
-	};
-	
-		
-	this.faq.style.left = (x+10) + "px";
-	this.faq.style.top = (y+10) + "px";
-};
-// show the faq
-faqpopup.show = function (text) {
-	if (!this.faq) return;
-	// Without the next line, Explorer5/Mac has a redraw problem.
-	this.faq.style.visibility = "visible";
-	this.faq.style.display = "block";
-	// generate background
-	var background;
-	background = document.createElement ("div");
-	background.setAttribute ("id", "faqpopbackground");
-	document.body.appendChild (background);
-	var pageheight = document.body.scrollHeight;
-	document.getElementById("faqpopbackground").style.height = pageheight+"px";
-	faqpopuphide();
-};
-// hide the faq
-function faqpopuphide() {
-	if (!document.getElementById) return false;
-	if (document.getElementById('faqpop')) {
-		document.getElementById('closefaqbutton').onclick = function() {
-			document.getElementById('faqpop').style.visibility = "hidden";
-			document.getElementById('faqpopbackground').style.visibility = "hidden";
-			document.getElementById('faqpop').style.display = "none";
-			document.getElementById('faqpopbackground').style.display = "none";
-			return false;
-		};
-		document.getElementById("faqpopbackground").onclick = function() {
-			document.getElementById('faqpop').style.visibility = "hidden";
-			document.getElementById('faqpopbackground').style.visibility = "hidden";
-			document.getElementById('faqpop').style.display = "none";
-			document.getElementById('faqpopbackground').style.display = "none";
-			return false;
-		};
-	} 
-}
-
-window.onload = function () {
-	faqpopup.init ();
-}
--->
-</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="../css/css_reset.css" rel="stylesheet" type="text/css">
-<link href="../css/layouts.css" rel="stylesheet" type="text/css">
-<link href="../css/default_colours.css" rel="stylesheet" type="text/css">
-<link href="../css/default_styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/includes/javascript/ajax_popups.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/css/css_reset.css" rel="stylesheet" type="text/css">
+<link href="/css/layouts.css" rel="stylesheet" type="text/css">
+<link href="/css/default_colours.css" rel="stylesheet" type="text/css">
+<link href="/css/default_styles.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]>
-<link href="../css/ie_styles.css" rel="stylesheet" type="text/css" />
+<link href="/css/ie_styles.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if lt IE 6]>
-<link href="../css/ie_styles_5.css" rel="stylesheet" type="text/css" />
+<link href="/css/ie_styles_5.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 </head>
@@ -491,7 +372,7 @@ Conditions  document.</p>
 </ul>
 
 <div class="leftcol"> 
-<img src="/images/photos/wall_01.jpg" alt="" width="174" height="174" class="photoleftcol"></div>
+<img src="/images/photos/parrot_02.jpg" alt="Parrot" width="174" height="174" class="photoleftcol"></div>
 
 
 		</div>
@@ -507,7 +388,7 @@ Conditions  document.</p>
 	<!-- end content -->
 	<!-- start footer -->
 	<div id="footer">
-		<p>Copyright © 2008 MindMyHouse - http://www.mindmyhouse.com</p>
+		<p>Copyright © 2009 MindMyHouse - http://www.mindmyhouse.com</p>
   		<ul>
     		<li><a href="/index.php">Home</a></li>
 			<li><a href="/sitters/sitter_accounts/index.php">House&nbsp;sitters&nbsp;area</a></li>
@@ -533,4 +414,4 @@ Conditions  document.</p>
 </div>
 
 
-<div id="faqpop"><div class="body"><p class="faqpopupclosebox"><a href="#" id="closefaqbutton"><img src="/images/icons/close.gif" alt="" width="16" height="16" class="arrow">close</a></p><div id="ajaxmessage"></div></div></div></body></html>
+</body></html>
