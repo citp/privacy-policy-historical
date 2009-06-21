@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219072922id_/http%3A//www.priceisright.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621153800id_/http%3A//priceisright.com/privacy) for the most accurate reproduction.*
 
 # PrivacyPolicy - PriceIsRight.com
 
