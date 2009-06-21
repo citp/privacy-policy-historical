@@ -1,27 +1,21 @@
-> *The following text is extracted and transformed from the proxeasy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045239id_/http%3A//www.proxeasy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxeasy.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621163912id_/http%3A//www.proxeasy.com/privacy.aspx) for the most accurate reproduction.*
 
-# ProxEasy | Privacy Policy Statement
+# Privacy Policy Statement
 
-This is the web site of **Bine Consulting Corp.**.  
+This is a web site of **Bine Consulting Corp.**.  
 
 
-Our postal address is   
-**514-110 Cumberland St.  
-Toronto, ON, M5R 3V5**
-
-We can be reached via e-mail at [privacy@bine.ca](mailto:privacy@bine.ca)   
-or you can reach us by telephone at (+852) 8191 7446  
-
+Our contact information can be found on our [contact us](https://web.archive.org/contactus.aspx) page. 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect and the email addresses of those who subscribe to a ProxEasy membership for authentication purposes to the member site.
+We collect the email addresses of those who subscribe to a proxy membership for authentication purposes to the member site.
 
 The information we collect may be used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
 With respect to cookies: We use cookies to store visitors preferences and record session information, such as site-specific cookies and credentials.
 
-If you do not want to receive e-mail from us in the future, please let us know by cancelling your ProxEasy membership if you have subscribed.
+If you do not want to receive e-mail from us in the future, please let us know by cancelling your proxy membership if you have subscribed.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
 
