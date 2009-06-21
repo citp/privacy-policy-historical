@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218081217id_/http%3A//www.kfh.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621193903id_/http%3A//www.kfh.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Kinleigh Folkard & Hayward | Privacy policy
 
@@ -51,3 +51,7 @@ As previously stated, details of your email address will be stored as securely a
 #### Contacting us
 
 Your views about this website, its terms and conditions and our overall levels of service are important to us. If you would like to contact us with any comments or feedback please email [ho@kfh.co.uk. ](mailto:ho@kfh.co.uk)
+
+#### External links
+
+Our website may include links to external websites. Kinleigh Folkard & Hayward are not responsible for the content of external sites. 
