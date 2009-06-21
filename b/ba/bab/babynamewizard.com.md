@@ -1,23 +1,61 @@
-> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511170340id_/http%3A//www.babynamewizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621180833id_/http%3A//www.babynamewizard.com/privacy-policy) for the most accurate reproduction.*
 
-# The Baby Name Wizard: Privacy Policy
+# Privacy Policy | The Baby Name Wizard
 
-Babynamewizard.com Privacy Policy
+Your privacy is important to us and protecting personal information is a core value of Generation Grownup, LLC, parent company of BabyNameWizard.com. This privacy statement describes how Generation Grownup collects and uses the personal information you provide on our Web sites including [www.babynamewizard.com](http://www.babynamewizard.com/ "www.babynamewizard.com") and [www.namecandy.com](http://www.namecandy.com/ "www.namecandy.com"). It also describes the choices available to you regarding Generation Grownup’s use of your personal information and the steps you can take to access this information and to request that we correct or delete it.
 
-Babynamewizard.com is an independent web site affiliated with the iVillage web network. Certain portions of babynamewizard.com pages, including all third-party advertisements, are served and tracked by iVillage.
+Generation Grownup abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Babynamewizard.com content and policies:
+If you have questions about this privacy statement, please send them to us by email to [info@generationgrownup.com](mailto:info@generationgrownup.com).
 
-Babynamewizard.com is responsible for the core site content including the Name News blog, book information, and tools such as the NameVoyager.
+**Information Collected**
 
-Babynamewizard.com itself does not gather any personal information about users. We do record information about site usage patterns, which may include user IP addresses and referring pages. This information is used in the aggregate to help the site owner plan for future site requirements and content. It is not used to identify or track individual visitors. 
+We collect two types of information – personal information (such as name and email address) and non-personal information (such as how many users visit our sites each day and how long they stay).
 
-Please note that this policy holds as of 06/01/05. Babynamewizard.com reserves the right to change its policies in the future, and will continue to state the most current policies in this document
+**Personal Information**
 
-IVillage content and policies:
+Personal information is collected when you register for our site or sign up for a newsletter or special offer or when you contact us using the "Contact Us" or other submission form posted on our sites.
 
-IVillage is responsible for the iVillage network content, including navigation tools and advertising. IVillage policies regarding third party advertising and cookies are described below. For more information about iVillage policies, please refer to the [iVillage privacy statement](http://www.ivillage.com/about/0,,qqzh,00.html).
+If you sign up for a Newsletter or Special Offer from one of our sites, we will collect your email address to fulfill your request. We will not share your email address with third parties unless explicitly stated, other than a service provider that mails the Newsletter for us.
 
-_Third Party Advertising:_ We use third party advertising companies to serve ads. These companies may use information (not including your name, address, email or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/optout_nonppii.asp>
+To unsubscribe, follow the unsubscribe link that appears at the end of each newsletter, click on the "unsubscribe" button on our home page, or go to our "Unsubscribe" page.
 
-_Third Party Cookies:_ In the course of serving advertisements to this site, our third party advertisers may place or recognize a unique “cookie” on your browser.
+Site registration confers special privileges on members, including the ability to contribute to areas of our sites or to receive offers or special notifications. We use the information collected in registration to control the quality of contributions and to protect against abuse. We use some of the information collected in aggregate to monitor our user demographics and background.
+
+If you submit personal information, such as your email address, to us by following the "Contact Us" link located throughout our Sites, we will use that information to respond to your question or request for information. We will not share your information with third parties without your explicit permission.
+
+You can also contact us by email at [info@generationgrownup.com](mailto:info@generationgrownup.com).
+
+If you submit a question for one of our editorial forums, such as "Ask the Name Lady", it is clearly stated in that forum that your question or comment may be used for publication. Please use care before submitting personal information for publication.
+
+**Non-Personal Information, Cookies and More**
+
+When you visit one of our sites, we gather information about you, including pages you visit, time spent on our site and the IP address you logged on from.
+
+We use cookies on our site to gather non-personally identifying information. A "cookie" is a small text file that a Web site can place on your computer’s hard drive in order, for example, to collect information about your activities on the site or to make it easier to use certain site functions. The cookie transmits this information back to the Web site’s computer. Many users do not know that "cookies" are being placed on their computers when they visit Web sites. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a Web site attempts to place a "cookie" on your computer.
+
+We use cookies on our Web sites in the following ways:
+
+When you login to one of our sites, we remember areas you have visited previously and display most relevant content.
+
+We also use cookies to analyze how visitors, in the aggregate, use our Sites, in order to make our Sites as useful as possible for them. We do not use cookies to collect or store personally identifiable information.
+
+**Web Site Analytics**
+
+We use a third party Web analytics service provider that uses cookies and Web beacons to help us analyze how users use this Web site and the effectiveness of our marketing search terms. The information generated by the cookie about your use of this Web site (including, without limitation, your IP address) will be transmitted to and stored by this service provider. They will use this information for the purpose of evaluating your use of our Web site and compiling aggregated reports for us. The information collected by our service provider and provided to us is not personally identifiable.
+
+**Information automatically collected by our Sites**
+
+Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, when you visit our Sites. We use this information to understand how visitors navigate through our Sites, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.
+
+**Personal Information Sharing**
+
+We will share your personal information with third parties in the ways that are described above in this privacy statement. We will also share your personal information if we are required to do so by law, or if we believe that doing so is necessary in order to conform to the law, cooperate with law enforcement agencies, comply with legal process served on Generation Grownup, or otherwise protect Generation Grownup’s legal rights. From time to time we employ service providers to perform various functions involving personal information on our behalf. These service providers are prohibited from using this personal information for any other purpose.
+
+**Links to Other Web Sites**
+
+Our Sites include links to other Web sites whose privacy practices may differ from those of Generation Grownup. If you submit personal information to any of those sites, your information is subject to their privacy statements. Generation Grownup’s privacy statement does not apply to information you may submit to those sites. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+**Changes in this Privacy Statement**
+
+If we change this privacy statement in ways that affect the personally identifying information we have collected through our Sites, we will post those changes in this space and advise you of choices you may have as a result of those changes. We will also post a notice on our home page that this privacy statement has changed.
