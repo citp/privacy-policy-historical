@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223103831id_/http%3A//www.conferenceplus.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621092009id_/http%3A//www.conferenceplus.com/Privacy.html) for the most accurate reproduction.*
 
 # Contact Conference Plus - Company Information - Conference Plus.com
 
@@ -42,34 +42,3 @@ Schaumburg, Illinois 60173
 847 413 2718 main  
 847 413 3835 fax  
 [www.conferenceplus.com](http://www.conferenceplus.com/)
-
-CONTACT US
-
-ConferencePlus Worldwide HQ  
-1051 E.Woodfield Rd.  
-Schaumburg, IL 60173  
-USA  
-847 413 3311  
-877 CONF 4U2 (877 266 3482)  
-[info@conferenceplus.com](mailto:info@conferenceplus.com)
-
-| 
-
-ConferencePlus Global Services  
-64 Lower Mount St.  
-Dublin 2  
-Ireland  
-\+ 353-1-240-54-50
-
-| 
-
-150 Minories  
-London  
-EC3N 1LS  
-United Kingdom  
-0800-634-5023  
-[info@confplus.com](mailto:info@confplus.com)  
-  
----|---|---  
-  
-
