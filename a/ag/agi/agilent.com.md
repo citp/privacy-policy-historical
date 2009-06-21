@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220161510id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621075920id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
 
 # Agilent | Agilent Technologies OnLine Privacy Statement
 
@@ -12,8 +12,11 @@ Agilent complies with the EU Safe Harbor framework regarding the collection, use
 
 [ ](http://www.truste.org/ivalidate.php?companyName=Agilent%20Technologies,%20Inc.&sealid=103&lang=en)
 
-  
+[
 
+**Truste EU Safe Harbor**
+
+](http://www.truste.org/ivalidate.php?companyName=Agilent%20Technologies,%20Inc.&sealid=103&lang=en)
 
 Agilent is also a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is a worldwide, independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Agilent wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
