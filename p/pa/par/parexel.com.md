@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221183208id_/http%3A//www.parexel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621202542id_/http%3A//www.parexel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PAREXEL International - Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to PAREXEL. To protect your privacy while you use our 
 **Your Personal Information and How We Use It  
 **PAREXEL will collect information through its websites that can identify you (if provided by you), such as your name, address, phone number, e-mail address, company name and position. PAREXEL International may use this information to respond to your requests for information, products or services. PAREXEL may also collect non-identifying information, such as information gathered through our weblogs and “cookies” (see below).
 
-When you contact PAREXEL via its website to request or to access information, you are asked to provide personal information.  By providing your personal information to PAREXEL via its website, you agree to receive communications from PAREXEL.
+When you contact PAREXEL via its website to request or to access information, you are asked to provide personal information. By providing your personal information to PAREXEL via its website, you agree to receive communications from PAREXEL.
 
 The information collected will be shared with employees of PAREXEL to the extent necessary to accommodate your requests. PAREXEL may also share such information with agents, contractors or partners of PAREXEL in connection with services that these individuals or entities perform for, or with, PAREXEL. Such third parties are restricted from using this data in any way other than providing services for or on behalf of PAREXEL or its affiliates. We may, for example, provide your information to third parties contracted by PAREXEL to handle group mailings.
 
@@ -41,7 +41,7 @@ Our websites may contain links to other websites. Please keep in mind when you a
 To be removed from our contact lists, or to make a complaint or submit and inquiry, please write to PAREXEL at the following address:
 
 **PAREXEL International Corporation  
-Att: Webmaster   
+Attn: Webmaster   
 200 West Street   
 Waltham, MA 02451**  
-This Privacy Policy was last updated on June, 8, 2007.
+This Privacy Policy was last updated on June 8, 2007.
