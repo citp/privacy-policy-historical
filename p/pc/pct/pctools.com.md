@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229030230id_/http%3A//www.pctools.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621212143id_/http%3A//www.pctools.com/info/privacypolicy) for the most accurate reproduction.*
 
 # PC Tools Privacy Policy
 
