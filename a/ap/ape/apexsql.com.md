@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220060431id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621041534id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
 
 # Apex SQL Tools Privacy Policy
 
 Why ApexSQL? 
 
-To See the Top Reasons to Buy Apex SQL Software tools: [Click Here](http://www.apexsql.com/10reasons2buy.asp). 
+[ ](http://www.apexsql.com/10reasons2buy.asp)To See the Top Reasons to Buy Apex SQL Software tools: Click [Here](http://www.apexsql.com/10reasons2buy.asp). 
 
 ApexSQL Univ Studio 
 
-**[](http://www.apexsql.com/sql_tools_univ_studio.asp) $1,999** All ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. [Click Here](http://www.apexsql.com/sql_tools_univ_studio.asp) for more info. 
+**[](http://www.apexsql.com/sql_tools_s.asp) $1,999** All ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. [Learn More](http://www.apexsql.com/sql_tools_s.asp)
 
-ApexSQL Dev Studio 
+FREE SQL Tools 
 
-**[](http://www.apexsql.com/sql_tools_dev_studio.asp) $999** 9 ApexSQL Developer Tools - One Download / Discounted Price. [Click Here](http://www.apexsql.com/sql_tools_dev_studio.asp) for more info. 
+**[](http://www.apexsql.com/sql_tools_free.asp) FREE** ApexSQL Tools and Add-ins. [Learn More](http://www.apexsql.com/sql_tools_free.asp)
 
 Killer Discounts 
 
-[ ](http://www.apexsql.com/killer_upgrades.asp) Unbeatable Killer Upgrades and Discounts. [Click Here](http://www.apexsql.com/killer_upgrades.asp) for more info. 
+[ ](http://www.apexsql.com/killer_upgrades.asp) Unbeatable Killer Upgrades and Discounts. [Learn More](http://www.apexsql.com/killer_upgrades.asp)
 
 ApexSQL Gear 
 
@@ -24,23 +24,25 @@ ApexSQL Gear
 
 SUCCESS STORIES 
 
-"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..." 
+"... I forgot to mention that I have personally evaluated 10-15 SQL administration utilities for SQL & yours are some of the best I've seen, keep up the good work." 
+
+Lee Davies   
+Software engineer   
+Occam direct marketing   
+www.occam-dm.com 
+
+"As your product offers the best set of features i've seen so far and your customer-service has fully convinced me (couldn't be better ... keep it going like this)" 
+
+Martin Schwier   
+Proj. Manager   
+WDT Datentechnik   
+GmbH, Germany 
+
+"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like it's truly different from the rest ..." 
 
 Paul Barbin   
 DBA   
 Lewis, Inc. 
-
-"SQL Diff paid for itself in the first hour of using it. I synced 12 different databases to a common rev and man am I happy" 
-
-Casey Kirt   
-Bell Mortgage   
-Project Manager 
-
-"Hey thanks for the quick response. This tool is awesome." 
-
-Curtis Potts   
-Chief Technical Officer   
-Focus Systems Inc 
 
 Apex SQL Privacy Policy
 
