@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913073638id_/http%3A//www.freebielist.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebielist.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621212616id_/http%3A//www.freebielist.com/info/privacy_policy) for the most accurate reproduction.*
 
 # FreebieList.com - Privacy Policy
 
@@ -18,4 +18,4 @@ We require your e-mail address if you wish to receive our opt-in newsletter. We 
 
 We are not responsible for the privacy practices of other Web sites. Due to the nature of the Internet, we cannot be held responsible for any information being intercepted by a third party.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FreebieList.com, please [contact us](https://web.archive.org/web/20080913073638id_/http%3A//www.freebielist.com/contact.htm) and we'll be more than happy to help you out!
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FreebieList.com, please [contact us](https://web.archive.org/web/20090621212616id_/http%3A//www.freebielist.com/info/contact.htm) and we'll be more than happy to help you out!
