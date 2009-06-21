@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217094533id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2009-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622000726id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Privacy Policy</title>
+	<meta name="description" content="">
 	<script type="text/javascript" language="JAVASCRIPT">
 		var request = false;
+		var merchantid = 0;
+		var couponid = 0;
 		try {
 			request = new XMLHttpRequest();
 		} catch (trymicrosoft) {
@@ -36,12 +39,35 @@
 		 	request.send(null);
 		 	
 		}
+		
+		function blockCoupon(obj,uid,pid,block) {
+		 	
+			var el = document.getElementById(obj);
+			
+			var num = Math.random();
+		 	var urll = "blockCoupon.php?uid=" + escape(uid) + "&pid=" + escape(pid) + "&block=" + escape(block) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updatePageBlock;
+		 	request.send(null);
+		 	
+		}
 
 		function updatePage() {
 			if (request.readyState == 4) {
 				if (request.status == 200) {
 		  	 		var response = request.responseText;
 						document.getElementById("done").innerHTML = response;
+				}
+			}
+		}
+		
+		function updatePageBlock() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+		  	 		var response = request.responseText;
+		  	 		var splits = response.split("|");
+						document.getElementById(splits[0]).innerHTML = splits[1];
+						document.getElementById(splits[2]).innerHTML = splits[3];
 				}
 			}
 		}
@@ -53,7 +79,7 @@
 			} else {
 				el.style.display = '';
 			}
-			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can add more merchants while loading)</div>";
+			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"{$config['domain']}/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can add more merchants while loading)</div>";
 			var num = Math.random();
 		 	var urll = "addMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
@@ -62,19 +88,19 @@
 		 	
 		}
 		
-		function filterYourMerchants(user,network){
-			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
+		function filterYourMerchants(user,network,custom){
+			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"{$config['domain']}/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
 			var num = Math.random();
-		 	var urll = "filterYourMerchants.php?u=" + escape(user) + "&n=" + escape(network) + "&rnd=" + escape(num);
+		 	var urll = "filterYourMerchants.php?u=" + escape(user) + "&n=" + escape(network) + "&c=" + escape(custom) + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
 		 	request.onreadystatechange = updateYourMerchants;
 		 	request.send(null);
 		}
 		
-		function filterUnselectedMerchants(user,network,showhidden){
-			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
+		function filterUnselectedMerchants(user,network,showhidden,custom){
+			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"{$config['domain']}/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
 			var num = Math.random();
-		 	var urll = "filterUnselectedMerchant.php?u=" + escape(user) + "&n=" + escape(network) + "&h=" + showhidden + "&rnd=" + escape(num);
+		 	var urll = "filterUnselectedMerchant.php?u=" + escape(user) + "&n=" + escape(network) + "&h=" + showhidden + "&c=" + custom + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
 		 	request.onreadystatechange = updateUnselectedMerchants;
 		 	request.send(null);
@@ -118,7 +144,7 @@
 			} else {
 				el.style.display = '';
 			}
-			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"https://secure.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can remove more merchants while loading)</div>";
+			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"{$config['domain']}/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can remove more merchants while loading)</div>";
 			var num = Math.random();
 		 	var urll = "removeMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
@@ -136,11 +162,199 @@
 			}
 		}
 		
+		function submitDeal(){
+			var error = "";
+			var isError = 0;
+			var expireError = 0;
+			var companyName = document.getElementById("companyName").value;
+			var contactName = document.getElementById("contactName").value;
+			var email = document.getElementById("email").value;
+			var username = document.getElementById("username").checked;
+			var pword = document.getElementById("password").value;
+
+			if(document.getElementById("companyName").value.length <= 1){
+				var error = error + "- No 'Company Name' entered.\n";
+				isError = 1;
+			}
+			if(document.getElementById("contactName").value.length <= 1){
+				var error = error + "- No 'Contact Name' entered.\n";
+				isError = 1;
+			}
+			if(document.getElementById("email").value.length <= 1){
+				var error = error + "- No 'Email Address' entered.\n";
+				isError = 1;
+			}
+			if(document.getElementById("username").value.length <= 1){
+				var error = error + "- No 'Username' entered.\n";
+				isError = 1;
+			}
+
+			if(isError == 1){
+				alert(error);
+			}else{
+				//alert("submit form");
+				document.form1.submit();
+			}
+		}
+		
+		function changeID(mid,userid,program){
+			merchantid = mid;
+			var num = Math.random();
+		 	var urll = "getMerchantAffiliteID.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&program=" + escape(program) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateAffiliateIDCell;
+		 	request.send(null);		
+		}	
+		
+		function updateAffiliateIDCell() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+						var response = request.responseText;
+						document.getElementById("id" + merchantid).innerHTML = response;
+				}
+			}
+		}
+		
+		function updateMerchantCustomSetting() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+						var response = request.responseText;
+						if(response == "1"){
+							var temp = " <b>(set)</b>";
+						}else{
+							var temp = "";
+						}
+						document.getElementById("custom" + merchantid).className  = "editedIcon";
+						document.getElementById("changeDIV").style.visibility = "hidden";
+				}
+			}
+		}
+		
+		function saveAffiliateID(mid,userid,program){
+			merchantid = mid;
+			var affiliateid = document.getElementById('affiliateid').value;
+			var num = Math.random();
+		 	var urll = "saveMerchantAffiliteID.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&program=" + escape(program) + "&affiliateid=" + escape(affiliateid) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateAffiliateIDCell;
+		 	request.send(null);		
+		}	
+		
+		function saveCustomSettings(mid,userid){
+			merchantid = mid;
+			var logo = document.getElementById('logo').value;
+			var mdescription = document.getElementById('description').value;
+			var num = Math.random();
+		 	var urll = "saveCustomSettings.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&description=" + escape(mdescription) + "&logo=" + escape(logo) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updateMerchantCustomSetting;
+		 	request.send(null);		
+		}	
+		
+		function setDifferentIds(userid,program,mid){
+			document.getElementById("changeDIV").style.visibility = "visible";
+			var positions = checkPosition();
+			var left = positions[0] + 75;
+			var top = positions[1] + 25;
+			document.getElementById("changeDIV").style.left = left + "px";
+			document.getElementById("changeDIV").style.top = top + "px";
+			document.getElementById("changeDIV").innerHTML = "Loading...";
+			
+			var num = Math.random();
+			if(mid > 0){
+				document.getElementById("changeDIV").style.height = "300px";
+				var urll = "changeMerchantCustomFields.php?userid=" + escape(userid) + "&mid=" + mid + "&rnd=" + escape(num);
+			}else{
+				var urll = "changeMerchantAffiliateid.php?userid=" + escape(userid) + "&program=" + escape(program) + "&rnd=" + escape(num);
+			}
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = showAffiliateIdForm;
+		 	request.send(null);	
+		}
+		
+		function closeChangeDiv(){
+			document.getElementById("changeDIV").style.visibility = "hidden";
+		}
+		
+		function showAffiliateIdForm() {
+			if (request.readyState == 4) {
+				if (request.status == 200) {
+					var response = request.responseText;
+					document.getElementById("changeDIV").innerHTML = response;
+				}
+			}
+		}
+		
+		function checkPosition(){
+			var who = document.getElementById("enteraffiliateid");
+			var T = 0;
+			var L = 0;
+			if(who.offsetParent){
+			  while(who){
+			      L += who.offsetLeft;
+			      T += who.offsetTop;
+			      who= who.offsetParent;
+			  }
+			}else if(who.x){
+				L += who.x;
+				T += who.y;
+			}
+			return [L,T]
+		}
+		
+		function saveField(formid){
+			var fieldvalue = document.getElementById(formid).value;
+			alert("value: " + fieldvalue);
+			
+		}
+		
+	function showCustomFields(cid,userid){
+		couponid = cid;
+		document.getElementById("customRow" + cid).style.visibility = "visible";
+		var num = Math.random();
+		var urll = "displayCustomCouponFields.php?userid=" + escape(userid) + "&couponid=" + escape(cid) + "&rnd=" + escape(num);
+	 	request.open("GET", urll, true);
+	 	request.onreadystatechange = displayCustomFields;
+	 	request.send(null);	
+	}
+	
+	function displayCustomFields() {
+		if (request.readyState == 4) {
+			if (request.status == 200) {
+				var response = request.responseText;
+				document.getElementById("customCell" + couponid).innerHTML = response;
+			}
+		}
+	}
+	
+	function saveCustomCouponFieldData(userid,cid,field){
+		var num = Math.random();
+		fieldname = field + cid;
+		couponid = cid;
+		var offertext = document.getElementById('offertext' + cid).value;
+		var categories = document.getElementById('categories' + cid).value;
+		var urll = "saveCustomCouponFieldData.php?userid=" + escape(userid) + "&couponid=" + escape(cid) + "&offertext=" + escape(offertext)+ "&categories=" + escape(categories) + "&rnd=" + escape(num);
+	 	request.open("GET", urll, true);
+	 	request.onreadystatechange = displayCustomCouponFieldData;
+	 	request.send(null);	
+	}
+	
+	function displayCustomCouponFieldData() {
+		if (request.readyState == 4) {
+			if (request.status == 200) {
+				var response = request.responseText;
+				document.getElementById("customCell" + couponid).innerHTML = response;
+			}
+		}
+	}
+	
 	</script>
 			<style>
 			body {margin:0; background-color:#aeeda6; background-image:url(http://www.formetocoupon.com/images/website/bg.png); background-repeat: repeat-x;}
 			
 			form {margin:0px;}
+			
+			option {color:#2c3241; font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
 			
 			.forms {background-color:#f7f9fc; background-image:url(http://www.formetocoupon.com/images/website/bodyTables/formsBg.png); background-repeat:repeat-x; border:1px solid #6476a1; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; color:#2c3241; padding-left:3px; padding-right:3px;}
 			/*Left Column*/
@@ -186,8 +400,124 @@
 			/*Footer*/
 			#footerTop {width:670px; height:15px; background-image:url(http://www.formetocoupon.com/images/website/footer/footerTop.png); background-repeat:no-repeat; clear:both;}
 			#footerBtm {width:660px; height:20px; padding-top:5px; color:#9598a0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-align:right; padding-right:10px; margin-bottom:30px;}
+			
+			/*Background pics*/
+			.removeIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/minus.gif);background-repeat:no-repeat; }
+			.addIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/plus.gif);background-repeat:no-repeat; }
+			.infoIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/comment.gif);background-repeat:no-repeat; }
+			
+			/* Style spec's for tooltip  */
+			div#tipDiv {
+			  position:absolute; visibility:hidden; left:0; top:0; z-index:10000;
+			  background-color:#FFFFFF; border:1px solid #000000; 
+			  width:210px; padding:6px;
+			  color:#000; font-size:11px; line-height:1.3;
+			}
+			div#tipDiv a:link { color:#33b }
+			div#tipDiv a:visited { color:#339 }
+			/* ONE */
+			
+			.inline {
+				display: inline;
+			}
 		</style>
-		<script type="text/javascript" language="JAVASCRIPT">
+		<script src="http://www.formetocoupon.com/includes/dw_event.js" type="text/javascript"></script>
+	<script src="http://www.formetocoupon.com/includes/dw_viewport.js" type="text/javascript"></script>
+	<script src="http://www.formetocoupon.com/includes/dw_tooltip.js" type="text/javascript"></script>
+	<script type="text/javascript" language="JAVASCRIPT">
+		/*************************************************************************
+		  This code is from Dynamic Web Coding at dyn-web.com
+		  Copyright 2003-5 by Sharon Paine 
+		  See Terms of Use at www.dyn-web.com/bus/terms.html
+		  regarding conditions under which you may use this code.
+		  This notice must be retained in the code as is!
+		*************************************************************************/
+		
+		// adjust horizontal and vertical offsets here
+		// (distance from mouseover event which activates tooltip)
+		Tooltip.offX = 4;  
+		Tooltip.offY = 4;
+		Tooltip.followMouse = false;  // must be turned off for hover-tip
+	
+		function createRequestObject(){
+			var request_;
+			var browser = navigator.appName;
+			if(browser == "Microsoft Internet Explorer"){
+				request_ = new ActiveXObject("Microsoft.XMLHTTP");
+			}else{
+				request_ = new XMLHttpRequest();
+			}
+			return request_;
+		}
+		
+		var http = createRequestObject();
+		
+		function doTooltip(e, msg) {
+		  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+		  Tooltip.clearTimer();
+		  var tip = document.getElementById? document.getElementById(Tooltip.tipID): null;
+		  if ( tip && tip.onmouseout == null ) {
+		      tip.onmouseout = Tooltip.tipOutCheck;
+		      tip.onmouseover = Tooltip.clearTimer;
+		  }
+		  Tooltip.show(e, msg);
+		}
+		
+		function hideTip() {
+		  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+		  Tooltip.timerId = setTimeout("Tooltip.hide()", 300);
+		}
+		
+		Tooltip.tipOutCheck = function(e) {
+		  e = dw_event.DOMit(e);
+		  // is element moused into contained by tooltip?
+		  var toEl = e.relatedTarget? e.relatedTarget: e.toElement;
+		  if ( this != toEl && !contained(toEl, this) ) Tooltip.hide();
+		}
+		
+		// returns true of oNode is contained by oCont (container)
+		function contained(oNode, oCont) {
+		  if (!oNode) return; // in case alt-tab away while hovering (prevent error)
+		  while ( oNode = oNode.parentNode ) if ( oNode == oCont ) return true;
+		  return false;
+		}
+		
+		Tooltip.timerId = 0;
+		Tooltip.clearTimer = function() {
+		  if (Tooltip.timerId) { clearTimeout(Tooltip.timerId); Tooltip.timerId = 0; }
+		}
+		
+		Tooltip.unHookHover = function () {
+		    var tip = document.getElementById? document.getElementById(Tooltip.tipID): null;
+		    if (tip) {
+		        tip.onmouseover = null; 
+		        tip.onmouseout = null;
+		        tip = null;
+		    }
+		}
+		
+		function merchantInfo(e, mid, oo, uu, cc){
+			msg = "Getting Merchant Info...";
+			doTooltip(e, msg, oo);
+			getMerchantInfo(e,mid,uu,cc);
+		}
+
+		function getMerchantInfo(e,mid, uu, cc){
+			var num = Math.random();
+			http.open('get', 'getMerchantInfo.php?mid=' + mid + "&userid=" + uu + "&custom=" + cc + "&rand=" + num);
+			http.onreadystatechange = handleMerchantInfo;
+			http.send(null);
+		}
+		
+		function handleMerchantInfo(){
+			if(http.readyState == 4){
+				var response = http.responseText;
+				document.getElementById("tipDiv").innerHTML = response;
+			}
+		}
+		
+		dw_event.add(window, "unload", Tooltip.unHookHover, true);
+		
 		
 		function positionDiv(){
 			var ww = document.body.offsetWidth;
@@ -237,7 +567,7 @@
 	</div>
 		<div id="leftColTableBody" class="defaultText">
 		<div style="margin-left:10px;">
-			<form id="login" name="login" method="post" action="https://secure.formetocoupon.com/">
+			<form id="login" name="login" method="post" action="http://www.formetocoupon.com">
 						<div style="margin-bottom:5px;">
 				Username:<br>
 				<input type="text" name="loginName" id="loginName" class="forms" style="width:120px;">
@@ -267,9 +597,9 @@
 		<li><a href="http://www.formetocoupon.com/documentationTypes">Deal Types</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationMerchants">Merchant Feed</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationCategories">Category Feed</a></li>
+		<li><a href="http://www.formetocoupon.com/documentationChanges">Changes Feed</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationNetworks">Networks</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationDealsOfTheDay">Deals Of The Day</a></li>
-		<li><a href="http://www.formetocoupon.com/documentationChanges">Changes</a></li>
 		<li><a href="http://www.formetocoupon.com/documentationShippingDeadlines">Shipping Deadlines</a></li>
 		<li><a href="http://www.formetocoupon.com/yourPepperJamID">Pepperjam Network Unencryption</a></li>
 		
@@ -480,7 +810,7 @@ Sherman Oaks, CA  91403
 			<a href="http://www.formetocoupon.com/contact-us">Contact Us</a> | 
 			<a href="http://www.formetocoupon.com/agreement">Agreement</a>
 		</div>
-		<div style="float:right;">© 2008 ForMeToCoupon.com</div>
+		<div style="float:right;">© 2009 ForMeToCoupon.com</div>
 	</div>
 			<!-- Google Analytics -->
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
