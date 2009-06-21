@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220160108id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203417id_/http%3A//www.filson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_txt) for the most accurate reproduction.*
 
 # Filson Help Desk
 
@@ -42,6 +42,8 @@ We collect information, such as name, e-mail and postal addresses, phone and cre
 When you place an order or make a purchase from Filson, we use your personal information to process your order, send you e-mails to confirm your order or to contact you via phone, postal mail or e-mail if we have other questions regarding your order or purchase.
 
 When you place an order, make a purchase or save your information online, we will use your e-mail and postal address to send you information about our products, services, and promotions and to help us learn more about your shopping preferences. If you participate in a promotion (online, by phone, by mail, or at our retail store), we may use your personal information to send you e-mails, postal mail, or telephone (including text messages) regarding our products, services, contests and promotions. From time to time, we may use this information to contact you via e-mail, postal mail, or telephone to learn more about your shopping preferences. You always have the choice not to receive marketing information or calls.
+
+We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third party advertising partner, [click here](http://usucmweb.dotomi.com/2234/optout.html).
 
 In addition, we may use information about your product interests and purchases from us to help us improve our catalog and site design and your catalog, online and in-store shopping experiences. We may contact you, subject to the choices you have made, via e-mail, postal mail, or telephone, to conduct market research and learn more about how we can improve our product and service offerings.
 
