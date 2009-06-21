@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218052659id_/http%3A//www.kotulas.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10051) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotulas.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622013219id_/http%3A//www.kotulas.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10051) for the most accurate reproduction.*
 
 # Privacy Policy
 
