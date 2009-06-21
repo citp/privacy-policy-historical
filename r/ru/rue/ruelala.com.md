@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015354id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621234142id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
 
-# Rue La La - At Your Service
+# 
 
-Rue La La is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. 
+Rue La La is committed to protecting the privacy of visitors to this site (the "Site"). At Rue La La, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. 
 
 **Information Collected**  
 In order to access this Site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us. 
@@ -18,7 +18,7 @@ If you choose to invite an individual to join Rue La La, you will need to provid
 **How We Use Your Information**  
 We will not share or disclose your information to anyone except as described in this Privacy Policy. 
 
-We use personally identifiable information in order to give you a more enjoyable, convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information. 
+We use personally identifiable information in order to give you a more enjoyable, convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site and its features. We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information. 
 
 We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders. 
 
@@ -32,7 +32,7 @@ We reserve the right to disclose information in order to comply with a subpoena,
 
 If you use a bulletin board, chat room or any other publicly accessible area of the Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by any person for any purpose. We are not responsible for the personally identifiable or other information you choose to submit in these forums. 
 
-You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information. 
+You will receive notice when we might provide your personally identifiable information to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information. 
 
 We use non-personally identifiable information in the aggregate, so that we can improve the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information. 
 
@@ -42,7 +42,7 @@ We are committed to protecting the information we receive from you. We follow re
 The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access. 
 
 **Accessing and Updating Your Personal Information and Preferences**  
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. In addition, you may update or change your personal information or preferences by sending email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
+If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by visiting the "My Account" section of the Site or by sending an email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction. 
 
@@ -60,5 +60,5 @@ Boston, MA 02108
 1-888-992-LALA (5252)  
 [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com)
 
-Last Updated: March 19, 2008  
-© 2008 Retail Convergence.com, LP. All rights reserved. 
+Last Updated: Feburary 4, 2009  
+© 2008 - 2009 Retail Convergence.com, LP. All rights reserved. 
