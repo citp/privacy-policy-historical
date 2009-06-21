@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609040315id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621041918id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
 
 # Kiddicare - Security and Privacy | Online baby shop | Nursery Equipment
 
@@ -29,7 +29,7 @@ We collect information about you for two main reasons:
 
 
 
-The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Kiddicare.com are carrying out (if you have selected to receive these emails/newsletters via the my account feature).
+The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Kiddicare.com are carrying out (if you have selected to receive these emails/newsletters via the my account feature). Changes to your decision to receive, or not to receive emails/newsletters may take up to two weeks to process.
 
 **Conditions of Use**
 
