@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216003828id_/http%3A//www.avg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621053730id_/http%3A//www.avg.com/privacy) for the most accurate reproduction.*
 
 # AVG Antivirus and Security Software - Privacy Policy
 
@@ -80,13 +80,13 @@ Since AVG Technologies is a global company, we provide information on AVG Techno
 
 ### Registration 
 
-We strive to process only accurate personal information and make a sincere effort to respond to your requests to update or correct your personal information. If you believe that AVG Technologies does not have your current personal information, you can update it by contacting AVG Technologies Sales Team at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-sales)
+We strive to process only accurate personal information and make a sincere effort to respond to your requests to update or correct your personal information. If you believe that AVG Technologies does not have your current personal information, you can update it by contacting AVG Technologies Sales Team at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-new)
 
 Please be advised that in accordance with the Act, every user (customer) who has provided personal information to AVG Technologies may ask AVG Technologies to advise of the scope of information AVG Technologies processes about him or her, the purpose and nature of the processing and the recipients of the information.
 
 ## AVG Update Bulletin and Other E-mail Communications 
 
-If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can at any time unsubscribe them in the subject line of your e-mail or contact us at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-sales). Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts, and that we do not allow our customers to opt out of communication that is required for the functionality of our products and services.
+If you do not wish to continue receiving our e-mail newsletters, bulletins, or other information from AVG Technologies, you can at any time unsubscribe them in the subject line of your e-mail or contact us at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-new). Please be aware that our e-mails may include important or useful information about your product, including information about your License Number or the status of your orders or accounts, and that we do not allow our customers to opt out of communication that is required for the functionality of our products and services.
 
 ## Cookies
 
@@ -118,6 +118,6 @@ This Privacy Policy was originally prepared in the English language. Although AV
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy, please contacts us at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-sales)
+If you have any questions or suggestions regarding our Privacy Policy, please contacts us at [http://www.grisoft.com/doc/support-sales-form](http://www.avg.com/support-new)
 
 Version: 1.1 Date: 2008-02-05
