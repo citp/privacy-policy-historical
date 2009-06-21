@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201010110id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latpro.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621030913id_/http%3A//www.latpro.com/USER/privacy-statement.php) for the most accurate reproduction.*
 
 # Diversity Jobs | Hispanic Jobs | Bilingual Jobs | Spanish Jobs
 
