@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arla.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220032254id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arla.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621081933id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy
@@ -10,7 +10,7 @@
 
 
 
-<meta name="Title" content="Privacy Policy"><meta name="Description" content="Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after."><meta name="Keywords" content=""><meta name="Revisit-after" content="">
+<meta name="Title" content="Privacy Policy"><meta name="Description" content="Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after."><meta name="Keywords" content="&quot;Closer to Nature&quot;, &quot;Natural Evolution&quot;, healthy, arla, dairy, nature, milk, food, &quot;raw materials&quot;, fresh, natural, cheese, organic, &quot;organic cheese&quot;, &quot;organic food&quot;, &quot;lactose intolerant&quot;, food, dairy, milk, &quot;danish food&quot;, &quot;danish dairy&quot;, &quot;blue cheese&quot;"><meta name="Revisit-after" content="1 day">
 
 
 
@@ -57,40 +57,55 @@
   
 <link rel="Stylesheet" type="text/css" href="/app_themes/arla/styles/styles_verdana.css"></head>
 <body id="ctl00_masterBody">
+  <span id="ctl00_lblReportSuiteId" style="display: none">arlafoodsarlacomprod</span>
 
   <script type="text/javascript">
-    var s_account = 'ArlaCOM';
+    var s_account = document.getElementById('ctl00_lblReportSuiteId').innerHTML;
+    
   </script>
 
   <script language="JavaScript" type="text/javascript" src="../templates/javascript/omniture/s_code.js"></script>
-  
-  
+
+  <span id="ctl00_lblPageName" style="display: none">privacy-policy</span>
+  <span id="ctl00_lblSubPageName" style="display:none"></span>
+  <span id="ctl00_lblChannel" style="display: none">privacy-policy</span>
+  <span id="ctl00_lblSProp1" style="display: none"></span>
+  <span id="ctl00_lblSProp2" style="display: none"></span>
+  <span id="ctl00_lblSProp3" style="display: none"></span>
+  <span id="ctl00_lblSProp4" style="display: none"></span>
+  <span id="ctl00_lblSProp5" style="display: none"></span>
+  <span id="ctl00_lblSProp6" style="display: none"></span>
+  <span id="ctl00_lblSProp8" style="display: none"></span>
+  <span id="ctl00_lblSProp9" style="display: none"></span>
+  <span id="ctl00_lblProducts" style="display: none"></span>
+  <span id="ctl00_lblEvents" style="display: none">event8</span>
+
   <script language="JavaScript" type="text/javascript">
 
-    s.pageName = "Privacy-Policy";
-    s.server = "";
-    s.channel = "";
-    s.pageType = "";
-    s.prop1 = "";
-    s.prop2 = "";
-    s.prop3 = "";
-    s.prop4 = "";
-    s.prop5 = "";
-    s.campaign = "";
-    s.state = "";
-    s.zip = "";
-    s.events = "";
-    s.products = "";
-    s.purchaseID = "";
-    s.eVar1 = "";
-    s.eVar2 = "";
-    s.eVar3 = "";
-    s.eVar4 = "";
-    s.eVar5 = "";
-    var s_code = s.t();
-    if (s_code) {
-      document.write(s_code);
+    s.pageName = document.getElementById('ctl00_lblPageName').innerHTML +
+      document.getElementById('ctl00_lblSubPageName').innerHTML;
+    s.channel = document.getElementById('ctl00_lblChannel').innerHTML;
+    s.prop1 = document.getElementById('ctl00_lblSProp1').innerHTML;
+    s.prop2 = document.getElementById('ctl00_lblSProp2').innerHTML;
+    s.prop3 = document.getElementById('ctl00_lblSProp3').innerHTML;
+    s.prop4 = document.getElementById('ctl00_lblSProp4').innerHTML;
+    s.prop5 = document.getElementById('ctl00_lblSProp5').innerHTML;
+    s.prop6 = document.getElementById('ctl00_lblSProp6').innerHTML;
+    s.prop8 = document.getElementById('ctl00_lblSProp8').innerHTML;
+    s.prop9 = document.getElementById('ctl00_lblSProp9').innerHTML;
+    s.products = document.getElementById('ctl00_lblProducts').innerHTML;
+    s.cookieDomainPeriods = '2';
+    s.linkInternalFilters = "javascript:,arla.com";
+    s.trackingServer = "stats.arla.com";
+    s.events = document.getElementById('ctl00_lblEvents').innerHTML;
+    
+    if (s_account && ('True' == 'True')) {
+      var s_code = s.t();
+      if (s_code) {
+        document.write(s_code);
+      }
     }
+    
   </script>
 
   <script language="JavaScript" type="text/javascript">
@@ -100,27 +115,215 @@
     }
 
   </script>
-  
+
   <noscript>
     <a href="http://www.omniture.com" title="Web Analytics">
       <img src="http://arlafoods.112.2o7.net/b/ss/arladkdev/1/H.17--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!-- /DO NOT REMOVE/ -->
   <!-- End SiteCatalyst code version: H.17. -->
 
   <script type="text/javascript">
+    function OmnPartnerLinkClick(partnerName)
+    {
+      if(partnerName)
+      {
+        if (s_account) {
+          var s=s_gi(s_account);
+          s.trackDownloadLinks=false;
+          s.linkTrackVars='eVar6,events';
+          s.linkTrackEvents='event6';
+          s.events='event6';
+          s.tl(this,'o',partnerName);
+        }  
+      }
+    }
+    
+    function OmnTrackRichMediaAction(action)
+    {
+      if (s_account) {
+            var s = s_gi(s_account);
+            s.linkTrackVars = 'prop11';
+            s.prop11 = action;
+            s.tl(this, 'o', 'Arla on the map');
+      }
+    }
+    
+    function OmnTrackSelfServiceTools(action)
+    {
+      if(s_account)
+      {
+        var s=s_gi(s_account);
+        s.trackDownloadLinks=false;
+        s.linkTrackVars='prop15';
+        s.prop15 = action;
+        s.tl(this,'o',action);
+      }
+    }
+    
+    function OmnPageFunctionality(functionalityName)
+    {
+      if(s_account)
+      {
+        var s = s_gi(s_account);
+        s.linkTrackVars = 'prop16';
+        s.prop16 = functionalityName;
+        s.tl(this, 'o', functionalityName);
+      }
+    }
+    
+    function OmnLeedsCompleted(leedName)
+    {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'eVar1,events';
+          s.linkTrackEvents = 'event2';
+          s.eVar1 = leedName;
+          s.events = 'event2';
+          s.tl(this, 'o', leedName);
+        }
+    }
+      
+    function OmnSupportRequests(requestName, requestType) {
+      if(false)
+      {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'eVar2,events';
+          s.linkTrackEvents = 'event3';
+          s.eVar2 = requestType;
+          s.events = 'event3';
+          s.tl(this, 'o', requestName);
+        }
+      }
+    }
+    
+    function OmnTrackFileDownload(fileName)
+    {
+      if(s_account)
+      {
+        var s = s_gi(s_account);
+        s.trackDownloadLinks=false
+        s.linkTrackVars='prop7,eVar7,events';
+        s.linkTrackEvents='event4';
+        s.eVar7 = fileName;
+        s.prop7= fileName;
+        s.events='event4';
+        s.tl(this,'o', fileName);
+      }
+    }
+    
+    function OmnProductDetailView(linkName) {
+        if (s_account) {
+            s.linkTrackVars = 'prop1,prop2,prop3,prop4,events';
+            s.linkTrackEvents = 'event7';
+            s.trackDownloadLinks=false;
+            s.trackExternalLinks=false;
+            s.events = 'event7';
+            s.pageName = document.getElementById('ctl00_lblPageName').innerHTML + ":" + linkName;
+            s.channel = document.getElementById('ctl00_lblChannel').innerHTML;
+            s.prop1 = document.getElementById('ctl00_lblSProp1').innerHTML;
+            s.prop2 = document.getElementById('ctl00_lblSProp2').innerHTML;
+            s.prop3 = document.getElementById('ctl00_lblSProp3').innerHTML;
+            s.prop4 = document.getElementById('ctl00_lblSProp4').innerHTML;
+            s.t();
+        }
+    }
+
+    function OmnNewsLetterSignup() {
+      if(true)
+      {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'events';
+          s.linkTrackEvents = 'event9';
+          s.events = 'event9';
+          s.tl(this, 'o', 'Newsletter signup');
+        }
+      }
+    }
+
+    function OmnTalkingPointSignup() {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'events';
+          s.linkTrackEvents = 'event13';
+          s.events = 'event13';
+          s.tl(this, 'o', 'TalkingPoint signup');
+        }
+    }
+    
+    function OmnJobMailSignup() {
+      if(true)
+      {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'events';
+          s.linkTrackEvents = 'event10';
+          s.events = 'event10';
+          s.tl(this, 'o', 'Job mail signup');
+        }
+      }
+    }
+    
+    function UpdateAjaxOmniture(searchTerm, resultCount, searchType) {
+      if (searchTerm.trim()) {
+         OmnAjaxSearch(searchTerm.trim(), resultCount, searchType);
+      }
+    }
+    
+    function OmnAjaxSearch(searchTerm, searchCount, searchType) {
+      if(true)
+      {
+        if (s_account)
+        {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'events,prop5,prop6';
+          s.linkTrackEvents = 'event11';
+          s.events = 'event11';
+          s.prop5 = searchTerm;
+          s.prop6 = searchCount;
+          s.tl(this, 'o', searchType);
+        }
+      }
+    }
+
+    function OmnVideo() {
+      if(true)
+      {
+        if (s_account) {
+          var s = s_gi(s_account);
+          s.linkTrackVars = 'events';
+          s.linkTrackEvents = 'event12';
+          s.events = 'event12';
+          s.tl(this, 'o', 'Video page');
+        }
+      }
+    }
+    
+  </script>
+
+  <script type="text/javascript">
     //<![CDATA[
     function setPictureHeight() {
-
       var allDivs = document.getElementsByTagName('div');
 
       for (var i = 0; i < allDivs.length; i++) {
-        if (allDivs[i].className == 'inverted_gradients_right') {
-          txtDiv = allDivs[i];
-        } else if (allDivs[i].className == 'inverted_gradients_left') {
-          picDiv = allDivs[i];
-        }
-        if ((typeof txtDiv != 'undefined') && (typeof picDiv != 'undefined')) {
-          if (txtDiv.offsetHeight < picDiv.offsetHeight) {
-            txtDiv.style.height = picDiv.offsetHeight + 'px';
+        if (allDivs[i].className == 'inverted_gradients_content') {
+          containerDiv = allDivs[i];
+          var insideDivs = containerDiv.getElementsByTagName('div');
+          var txtDiv;
+          var picDiv;
+          for (var j = 0; j < insideDivs.length; j++) {
+            if (insideDivs[j].className == 'inverted_gradients_left') {
+              picDiv = insideDivs[j];
+            }
+            else if (insideDivs[j].className == 'inverted_gradients_right') {
+              txtDiv = insideDivs[j];
+            }
+          }
+          if ((typeof txtDiv != 'undefined') && (typeof picDiv != 'undefined')) {
+            if (txtDiv.offsetHeight < picDiv.offsetHeight) {
+              txtDiv.style.height = picDiv.offsetHeight + 'px';
+            }
           }
         }
       }
@@ -138,74 +341,92 @@
   <span id="verdanaSpan" style="font-family: Verdana, sans-serif; display: none;">CalibriVerdanaCheck</span>
   <div class="clear">
     &nbsp;
- </div>
- <script type="text/javascript">
-   //<![CDATA[
-   setCssFile();
-   function setCssFile() {
-     var calibriSpan = document.getElementById('calibriSpan');
-     calibriSpan.style.display = "";
-     var calibriWidth = calibriSpan.offsetWidth;
-     calibriSpan.style.display = 'none';
-     var verdanaSpan = document.getElementById('verdanaSpan');
-     verdanaSpan.style.display = "";
-     var verdanaWidth = verdanaSpan.offsetWidth;
-     verdanaSpan.style.display = 'none';
-     setStyleSheet(calibriWidth != verdanaWidth);
-   }
-   function setStyleSheet(isCalibri) {
-     var newCss = document.createElement('link');
-     newCss.rel = 'Stylesheet';
-     newCss.type = 'text/css';
-     if (isCalibri) {
-      newCss.href = '/app_themes/arla/styles/styles_calibri.css';
-      SafariCheck();
-     }
-     else {
-       newCss.href = '/app_themes/arla/styles/styles_verdana.css';
-     }
-     document.getElementsByTagName("head")[0].appendChild(newCss);
-   }
+  </div>
 
-   function SafariCheck() {
-     var ua = navigator.userAgent.toLowerCase();
-     if (ua.indexOf('safari/') != -1) {
-       var newCss = document.createElement('link');
-       newCss.rel = 'Stylesheet';
-       newCss.type = 'text/css';
-       newCss.href = '/app_themes/arla/styles/safarifix_calibri.css';
-       document.getElementsByTagName("head")[0].appendChild(newCss);
-     }
-   }
-   //]]>
+  <script type="text/javascript">
+    //<![CDATA[
+    setCssFile();
+    function setCssFile() {
+      var calibriSpan = document.getElementById('calibriSpan');
+      calibriSpan.style.display = "";
+      var calibriWidth = calibriSpan.offsetWidth;
+      calibriSpan.style.display = 'none';
+      var verdanaSpan = document.getElementById('verdanaSpan');
+      verdanaSpan.style.display = "";
+      var verdanaWidth = verdanaSpan.offsetWidth;
+      verdanaSpan.style.display = 'none';
+      setStyleSheet(calibriWidth != verdanaWidth);
+    }
+    function setStyleSheet(isCalibri) {
+      var newCss = document.createElement('link');
+      newCss.rel = 'Stylesheet';
+      newCss.type = 'text/css';
+      if (isCalibri) {
+        newCss.href = '/app_themes/arla/styles/styles_calibri.css';
+        SafariCheck();
+      }
+      else {
+        newCss.href = '/app_themes/arla/styles/styles_verdana.css';
+      }
+      document.getElementsByTagName("head")[0].appendChild(newCss);
+    }
+
+    function SafariCheck() {
+      var ua = navigator.userAgent.toLowerCase();
+      if (ua.indexOf('safari/') != -1) {
+        var newCss = document.createElement('link');
+        newCss.rel = 'Stylesheet';
+        newCss.type = 'text/css';
+        newCss.href = '/app_themes/arla/styles/safarifix_calibri.css';
+        document.getElementsByTagName("head")[0].appendChild(newCss);
+      }
+    }
+    //]]>
   </script>
+
   <form name="aspnetForm" method="post" action="." id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI5MDEyNDg1NQ9kFgJmD2QWAgIDD2QWAgIBEGRkFgYCBw9kFgICAQ9kFgQCAQ8PFgIeC18hSXRlbUNvdW50ZmRkAgIPZBYCZg8VAQItMWQCCQ9kFgICAQ9kFgICAQ8PFgQeC19pc0VkaXRhYmxlaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZBYCZg9kFgRmDxYCHghkaXNhYmxlZGRkAgEPFgIfA2RkAgsPZBYCZg8WAh4EVGV4dAUSY2VudGVyY29udGVudF8zY29sZGQBn5EZeUh9SJF7nZOlfQ/z5J0YOw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUILTIwMDUzMzAPZBYCZg9kFgICAw9kFhZmDw8WAh4EVGV4dAUUYXJsYWZvb2RzYXJsYWNvbXByb2RkZAIBDw8WAh8ABQ5wcml2YWN5LXBvbGljeWRkAgMPDxYCHwAFDnByaXZhY3ktcG9saWN5ZGQCCw8PFgIfAGVkZAINDw8WAh8ABQZldmVudDhkZAIPDxYCHwAFBWZhbHNlZAIQDxYCHwAFBHRydWVkAhEPFgIfAAUEdHJ1ZWQCEg8WAh8ABQR0cnVlZAITDxYCHwAFBHRydWVkAhQQZGQWBgIHD2QWAgIBD2QWBAIBDw8WAh4LXyFJdGVtQ291bnRmZGQCAg9kFgJmDxUBAi0xZAIJD2QWAgIDDw9kFgIeBXN0eWxlBRljbGVhcjpyaWdodDtmbG9hdDogcmlnaHQ7FgICAQ8PFgQeC19pc0VkaXRhYmxlaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZBYCZg9kFgRmDxYCHghkaXNhYmxlZGRkAgEPFgIfBWRkAgsPZBYCZg8WAh8ABRJjZW50ZXJjb250ZW50XzNjb2xkGAEFK2N0bDAwJFJpZ2h0Q29udGVudCRhclNlbmRFbWFpbCRtdndNdWx0aVZpZXcPD2RmZFY5k6EdqYNAZ+ZGTh+BCaKp7N6D">
 </div>
 
 
-<script src="../scriptresource.axd?d=wPNPsui9N1_uP6zmVF8RLwX_0OdsIWXNcsc_ireLyi3MCUDAsG8stnYRXkfVR3-ld3HKztHJ6TejOy_b1EaOBqg_YAzHZQXwIMLbiEtmULc1&amp;t=766604ba" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlahpjQ6dPcZ4xRb4GdDZP425V-5pheL7qpfDoBJx3PEVTw2&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlahxnYQWIqOecONY5j7k9Y-6AFWTTi2gFFJb8a5cJhz-oA2&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlagE2Ckc-fmIcTz4m1PJrX6xIFiz4RQUc4OHbbZAT96l7g2&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlaimFQ_vcLvRbe5s1pgkunHbbYom2u0cb1djfZxh0Y-QPUbsJJrdmAiXYuvz6FgndBQ1&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlagE2Ckc-fmIcTz4m1PJrX6xiw1ZemnwUAi6_KZ2GNzdJr_-lCZ9dWHZpAt1rruFuWk1&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlaiv1n1sCu0G8fvc9Ok9D6_FpHwJ02KuKjBienC0T7c5RrNVjQYf4TVzAjKSHcXUC8c1&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlag2sYvW5v-zFgsrDeUo2jhdp8a-69V_THKsQFiWisVyAz0pkotKP-yOvYNvW80Qa-81&amp;t=457a6955" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=MTT_FQsoumNZQw7S0vWm8wmUc_tCUNA-A4cEB0NZBmVHTSdYS9_jXSGKC8DPff9cCYJtvJWXWCo3UZUBPJ0ZkeDhEC8GPZ1iApan5oHlkapnVf1LCBbg-VFUs7Mk5NbXQ2ArARigGrxDDhxTo8hqfQ2&amp;t=46d534e9" type="text/javascript"></script>
-<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlajabs38xSE0EX1EqqOYEo42U1rGeMrW3oIC39UZLw_i0VFHOUDE7UtwaNlH0mqmJpA1&amp;t=457a6955" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=wPNPsui9N1_uP6zmVF8RLwX_0OdsIWXNcsc_ireLyi3MCUDAsG8stnYRXkfVR3-ld3HKztHJ6TejOy_b1EaOBqg_YAzHZQXwIMLbiEtmULc1&amp;t=54774021" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlahpjQ6dPcZ4xRb4GdDZP425V-5pheL7qpfDoBJx3PEVTw2&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlahxnYQWIqOecONY5j7k9Y-6AFWTTi2gFFJb8a5cJhz-oA2&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlagE2Ckc-fmIcTz4m1PJrX6xIFiz4RQUc4OHbbZAT96l7g2&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlaimFQ_vcLvRbe5s1pgkunHbbYom2u0cb1djfZxh0Y-QPUbsJJrdmAiXYuvz6FgndBQ1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlagE2Ckc-fmIcTz4m1PJrX6xiw1ZemnwUAi6_KZ2GNzdJr_-lCZ9dWHZpAt1rruFuWk1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlaiv1n1sCu0G8fvc9Ok9D6_FpHwJ02KuKjBienC0T7c5RrNVjQYf4TVzAjKSHcXUC8c1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlag2sYvW5v-zFgsrDeUo2jhdp8a-69V_THKsQFiWisVyAz0pkotKP-yOvYNvW80Qa-81&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=MTT_FQsoumNZQw7S0vWm8wmUc_tCUNA-A4cEB0NZBmVHTSdYS9_jXSGKC8DPff9cCYJtvJWXWCo3UZUBPJ0ZkeDhEC8GPZ1iApan5oHlkapnVf1LCBbg-VFUs7Mk5NbXQ2ArARigGrxDDhxTo8hqfQ2&amp;t=ffffffff9d8b942d" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlajabs38xSE0EX1EqqOYEo42U1rGeMrW3oIC39UZLw_i0VFHOUDE7UtwaNlH0mqmJpA1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlahLOzG3GGa2aPtfnyjmBjV4eHR8pZI2JSO5CsPxwFYORsWagXzkH2lEMpN6n_WwIxiTmLo2iynnRPGWaUY30uJe0&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlaisc0-jtkPRz3UA6OzMLaetsdvHBx72S-tl1NlZUd6WgyFzXsJqOrDwj4mJ2-oOvVU1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlagjNuz70zCLAxDQhOjg9rmN4QkbE4vIBzvjcf6a7F_Kfl1rum8qHy9II8MZCgOVx8rc7y8Fjq492j0rj9070ArR0&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlajAgIgpjjekFrG7CxJfS5Nvqwi6eJzdmCfXzL3TIQrcjsRUYSskAQWj3geHIL5E7jQ1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlajvpP2Wgbd8M1RReaI6wt1nnlbR7RuumoaODa4hilI74k6gAQBkWNlq0KcvJ7EDPVw1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
+<script src="../scriptresource.axd?d=NhShimfvX7bgSA3aZtWGT3nqbAR95RlClxU-CDDXlajMmixWlbsSUOHcR8LmXc9RgE_R4cl1OeZ2jAES13AdghWDAGtm9B1dUhfCzW9yvBE1&amp;t=ffffffff9cba8c63" type="text/javascript"></script>
 <script src="/util/javascript/episerverscriptmanager.js" type="text/javascript"></script>
-  
+  <input type="hidden" name="ctl00$scmMain" id="ctl00_scmMain">
   <div class="wrapper">
     
     
 <!-- menu -->
 <div class="topmenu">
+    <!-- omniture script -->
+    <script type="text/javascript">
+      function MenuWebServiceCallCompleted(resultCount) {
+        var txtMasterSearch = document.getElementById('ctl00_ctrlMenu_txtMasterSearch');
+        if (txtMasterSearch && txtMasterSearch.value.trim() != "") {
+          UpdateAjaxOmniture(txtMasterSearch.value, resultCount, 'Top right search');
+        }
+      }
+    </script>
+    <!-- end omniture script -->
   <div id="ctl00_ctrlMenu_pnlAutocomplete" class="float_right">
 	
     <!-- Autocomplete Start-->
-    <input name="ctl00$ctrlMenu$txtMasterSearch" type="text" id="ctl00_ctrlMenu_txtMasterSearch" class="input_search_top_menu" onkeyup="javascript:OnMenuAutocompleteKeyUp(event)">
+    <input name="ctl00$ctrlMenu$txtMasterSearch" type="text" id="ctl00_ctrlMenu_txtMasterSearch" class="input_search_top_menu">
     <div id="ctl00_ctrlMenu_pnlAutocompleteHolder" style="display: none">
 		
     
@@ -213,7 +434,30 @@
     
     <!-- Autocomplete End-->
     <a id="ctl00_ctrlMenu_btnDoSearch" class="button_18 float_left_simple" href="javascript:__doPostBack('ctl00$ctrlMenu$btnDoSearch','')">
-      <span><span>Search</span></span></a>
+    <script type="text/javascript">
+      //This is a fix for using LinkButton as a default button in Firefox
+      function RegisterLinkButtonClick(btn) {
+        if (btn && typeof (btn.click) == 'undefined') {
+          btn.click = function() {
+            var result = true;
+            if (btn.onclick) result = btn.onclick();
+            if (typeof (result) == 'undefined' || result) {
+              eval(btn.getAttribute('href'));
+            }
+          }
+        }
+      }
+      
+      var menuSearchBtn = document.getElementById('ctl00_ctrlMenu_btnDoSearch');
+      RegisterLinkButtonClick(menuSearchBtn);
+
+      function MasterSearch() {
+        var prefix = document.getElementById('ctl00_ctrlMenu_txtMasterSearch').value;
+        window.location =
+        "http://www.arla.com/detailedsearch/" + "?search=" + prefix;
+      }
+    </script>
+    <span><span>Search</span></span></a>
   
 </div>
   <div class="nav_top_menu">
@@ -246,9 +490,10 @@
   </div>
 </div>
 <div class="header">
-  <a class="logo_link" href="../"><span>
+  <a class="logo_link" alt="Logo" href="../"><span>
     Arla</span></a>
-  <div class="level1menu">
+    <a id="ctl00_ctrlMenu_lnkLogo2Link" alt="Logo 2" class="logo_artis" target="_blank"></a>
+  <div class="level1menu" id="divMainMenu">
     
         <a href="../">
           Home</a>
@@ -259,7 +504,7 @@
         <a href="../products/guide/">
           Products</a>
       
-        <a href="../closer-to-nature/movie/">
+        <a href="../closer-to-nature/">
           Closer to Nature™ </a>
       
   </div>
@@ -271,29 +516,6 @@
   
 </div>
 <!--end sub menu -->
-
-<script type="text/javascript">
-  function DetailedSearch() {
-    var prefix = document.getElementById('ctl00_ctrlMenu_txtMasterSearch').value;
-    window.location =
-        'http://www.arla.com/detailedsearch/' + "?search=" + prefix;
-  }
-  function OnMenuAutocompleteKeyUp(e) {
-    var key;
-    if (e.which == null) {
-      key = e.keyCode;
-    }    // IE
-    else if (e.which > 0) {
-      key = e.which;
-    }
-    //Enter = 13
-    if (key != null && key == 13) {
-      DetailedSearch()
-    }
-  }
-</script>
-
-
     
   
 <div class="level3menu_1">
@@ -323,10 +545,10 @@
 
       if (currentParrentID != itemPageID) {
         if (sellinks.length > 0) {
-          window.location = sellinks[0].href + "?h=1";
+          window.location = sellinks[0].href;
         }
         else {
-          window.location = currentLink + "?h=1";
+          window.location = currentLink;
         }
       }
     }
@@ -373,29 +595,184 @@
 
 
     
-  <div id="ctl00_RightContent_pnlRightEmbeddedObject">
+  
+    <div class="content" style="float:right;position: relative;">
+      <ul class="right_Nav">
+        <li>
+          
+<script type="text/javascript">
+  function ClearFieldsAndClose() {
+    $find('MPE').hide();
+    var tbToEmail1 = document.getElementById('ctl00_RightContent_arSendEmail_tbToEmail1');
+    if(tbToEmail1 != null) tbToEmail1.value = '';
+    var tbFromName = document.getElementById('ctl00_RightContent_arSendEmail_tbFromName');
+    if (tbFromName != null) tbFromName.value = '';
+    var tbFromEmail = document.getElementById('ctl00_RightContent_arSendEmail_tbFromEmail');
+    if (tbFromEmail != null) tbFromEmail.value = '';
+    var tbMessage = document.getElementById('ctl00_RightContent_arSendEmail_tbMessage');
+    if (tbMessage != null) tbMessage.value = '';
+    var tbToEmail2 = document.getElementById('ctl00_RightContent_arSendEmail_tbToEmail2');
+    if (tbToEmail2 != null) {
+      tbToEmail2.value = '';
+      tbToEmail2.style.display = 'none';
+    }
+    var tbToEmail3 = document.getElementById('ctl00_RightContent_arSendEmail_tbToEmail3');
+    if (tbToEmail3 != null) {
+      tbToEmail3.value = '';
+      tbToEmail3.style.display = 'none';
+    }
+
+    popupTipAFriendOpened(false);
+  }
+  
+  function OpenEmailBox() {
+    var tbToEmail2 = document.getElementById('ctl00_RightContent_arSendEmail_tbToEmail2');
+    var tbToEmail3 = document.getElementById('ctl00_RightContent_arSendEmail_tbToEmail3');
+    if (tbToEmail2.style.display == 'none') {
+      tbToEmail2.style.display = '';
+    }
+    else if (tbToEmail3.style.display == 'none') {
+      tbToEmail3.style.display = '';
+    }
+
+    return false;
+  }
+
+  function popupTipAFriendOpened(isOpen) {
+    var divMainMenu = document.getElementById("contentPageAMainDiv");
+    if (divMainMenu != null) {
+      divMainMenu.style.position = (isOpen ? "relative" : "");
+      divMainMenu.style.zIndex = (isOpen ? -100 : 1);
+    }
+
+    var divMainMenu = document.getElementById("divMainMenu");
+    if (divMainMenu != null) {
+      links = divMainMenu.getElementsByTagName('a');
+      for (i = 0; i < links.length; i++) {
+        links[i].style.position = (isOpen ? "static" : "");
+      }
+    }
+
+    links = document.getElementsByTagName('span');
+    for (i = 0; i < links.length; i++) {
+      if (links[i].className != null && links[i].className != "") {
+        if (links[i].className.search("bkg_triangle_green") > -1) {
+          links[i].style.position = (isOpen ? "static" : "");
+        }
+      }
+    }
+
+    links = document.getElementsByTagName('a');
+    for (i = 0; i < links.length; i++) {
+      if (links[i].className != null && links[i].className != "") {
+        if (links[i].className.search("bkg_triangle_green") > -1) {
+          links[i].style.position = (isOpen ? "static" : "");
+        }
+      }
+    }
+  }
+</script>
+<a onclick="popupTipAFriendOpened(true);" id="ctl00_RightContent_arSendEmail_lbtnTipAFriend" class="right_Nav_phone" href="javascript:__doPostBack('ctl00$RightContent$arSendEmail$lbtnTipAFriend','')" style="display:block; float:left;">E-mail this to a friend</a><div id="ctl00_RightContent_arSendEmail_pnlTipAFriend" class="din_besked_popup" style="display:none;">
 	
-    <div class="box rightcontent_172">
-	    <div id="flashcontent_RightImage"><strong>You need to upgrade your Flash Player</strong>
-This is replaced by the Flash content.
-Place your alternate content here and users without the Flash plugin or with
-Javascript turned off will see this. Content here allows you to leave out <code>noscript</code>
-tags.</div><script type="text/javascript">
+
+    <div class="din_besked_popup_top"></div>
+    <div class="din_besked_popup_middle">
+      <div id="ctl00_RightContent_arSendEmail_updatePanel">
+		
+          
+              <img class="din_besked_popup_middle_icon" alt="" src="../app_themes/arla/images/icon_sedn_letter.gif"> 
+              <h1>Tip a friend</h1>
+              <p class="size_popup_14">Privacy Policy</p>
+              <div class="tip_en_ven_popup_form">
+                <div class="tip_en_ven_popup_left">
+                  <label>Your friends e-mail address*</label>
+                  <input name="ctl00$RightContent$arSendEmail$tbToEmail1" type="text" id="ctl00_RightContent_arSendEmail_tbToEmail1" class="input_search_220">
+                      
+                  <div class="div_tip_en_ven_height">
+
+                     <input name="ctl00$RightContent$arSendEmail$tbToEmail2" type="text" id="ctl00_RightContent_arSendEmail_tbToEmail2" class="input_search_220" style="display:none">
+                     <input name="ctl00$RightContent$arSendEmail$tbToEmail3" type="text" id="ctl00_RightContent_arSendEmail_tbToEmail3" class="input_search_220" style="display:none">
+                     <a onclick="return OpenEmailBox();" id="ctl00_RightContent_arSendEmail_lbtnOpenEmailBox1" class="tip_en_ven_green_txt" href="javascript:__doPostBack('ctl00$RightContent$arSendEmail$lbtnOpenEmailBox1','')">Add a friend</a>
+                  </div>
+                  <div class="clear"></div>
+                  
+                  <label>Your e-mail address*</label> 
+                  <input name="ctl00$RightContent$arSendEmail$tbFromEmail" type="text" id="ctl00_RightContent_arSendEmail_tbFromEmail" class="input_search_220">
+                    
+                  <div class="clear"></div>
+                  <label>Your name</label> 
+                  <input name="ctl00$RightContent$arSendEmail$tbFromName" type="text" id="ctl00_RightContent_arSendEmail_tbFromName" class="input_search_220">
+                    
+                  <span id="ctl00_RightContent_arSendEmail_lblLabel4" class="Obligatoriske_txt">* Mandatory information</span>
+                  <div class="clear"></div>
+                </div>
+                <div class="tip_en_ven_popup_right">
+                  <label>Message</label> 
+                  <div class="clear"></div>
+                  
+                  <textarea name="ctl00$RightContent$arSendEmail$tbMessage" rows="10" cols="10" id="ctl00_RightContent_arSendEmail_tbMessage"></textarea>
+                  <div class="div_luk_vindue_txt">
+                      <a id="ctl00_RightContent_arSendEmail_lbtnSend" class="luk_vindue_send margin_top_button float_right_send" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$RightContent$arSendEmail$lbtnSend", "", true, "Postcard", "", false, true))'><span><span>Send</span></span></a>
+                        
+                      <a onclick="ClearFieldsAndClose();" id="ctl00_RightContent_arSendEmail_lbtnClose1" class="luk_vindue_txt luk_vindue_txt_padding" href="javascript:__doPostBack('ctl00$RightContent$arSendEmail$lbtnClose1','')">Close</a>
+                  </div>
+                </div>
+              </div>
+            
+        
+	</div>
+         <!-- Omniture script -->
+        <script type="text/javascript">
+          var prm = Sys.WebForms.PageRequestManager.getInstance();
+          prm.add_beginRequest(beginRequest);
+          prm.add_endRequest(EndRequest);
+
+          function beginRequest(sender, args) {
+            newsPostbackElement = args.get_postBackElement();
+          }
+
+          function EndRequest(sender, args) {
+            if (typeof (newsPostbackElement) === "undefined") {
+              return;
+            }
+
+            if ('ctl00_RightContent_arSendEmail_lbtnSend' == newsPostbackElement.id) {
+                OmnPageFunctionality('Tip a friend');
+            }
+          }
+        </script>
+        <!-- End omniture script -->
+    </div>
+    <div class="din_besked_popup_bottom"></div>
+
+</div>
+
+
+        </li>
+        <li>
+          <a class="right_Nav_fax" style="display:block;float:left;position:relative;z-index:900;" href="#" onclick="javascript:OmnPageFunctionality('print');void(window.open('/Templates/StandardPages/PrintPage.aspx?id=4467&amp;epslanguage=en&amp;pid=10139','print','resizable=no,scrollbars=yes,status=no,width=800,height=500,left=150,top=150')); return false;">
+            Print
+          </a>
+        </li>
+      </ul>
+    </div>
+  
+  <div id="ctl00_RightContent_pnlRightEmbeddedObject" class="box rightcontent_172" style="clear:right;float: right;">
+	
+	  <div id="flashcontent_RightImage"></div><script type="text/javascript">
 // <![CDATA[
 var w = '172';
 var h = '370';
 var so = new SWFObject("/Upload/Arla%20COM/Rightbanners/Glass_ClosertoNature_COM.swf","",w,h,"9");
 so.addParam("wmode", "transparent");
-so.write("flashcontent_RightImage");
-// ]]>
+so.write("flashcontent_RightImage");// ]]>
 </script>
-    </div>
   
 </div>
 
     
-  <div class="centercontent_3col">
-		<h1>Privacy Policy</h1>
+  <div id="contentPageAMainDiv" style="z-index:1; margin:-38px 20px 0px 0px;float:right;" class="centercontent_3col">
+		<h1 style="width: 580px;">Privacy Policy</h1>
 		<p><strong>Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after.</strong></p>
 		<p>This Privacy Policy sets out the steps that we take to ensure that any information provided to us is kept secure and confidential and is used only for the purposes for which it is provided.<br>
 <br>
@@ -422,8 +799,8 @@ Any personal information that you provide to us will only be used for the follow
 We will not pass any of your personal information to any third party, other than members of the Arla Foods Group, without your consent, which shall be deemed to be given in the circumstances set out below unless you indicate otherwise.<br>
 <br>
 <b>Changes to our Privacy Policy</b><br>
-If we decide to change our Privacy Policy we will post the changes here. However, if we make material changes to the way we use your personal information we will ask for your consent before we do so.<span style="font-family: Calibri,Verdana,sans-serif; display: none;" id="calibriSpan">CalibriVerdanaCheck</span><span style="font-family: Verdana,sans-serif; display: none;" id="verdanaSpan">CalibriVerdanaCheck</span></p>
-<span id="calibriSpan" style="display: none; font-family: Calibri,Verdana,sans-serif;">CalibriVerdanaCheck</span><span id="verdanaSpan" style="display: none; font-family: Verdana,sans-serif;">CalibriVerdanaCheck</span><span style="display: none; font-family: Calibri,Verdana,sans-serif;" id="calibriSpan">CalibriVerdanaCheck</span><span style="display: none; font-family: Verdana,sans-serif;" id="verdanaSpan">CalibriVerdanaCheck</span><span id="calibriSpan" style="display: none; font-family: Calibri,Verdana,sans-serif;">CalibriVerdanaCheck</span><span id="verdanaSpan" style="display: none; font-family: Verdana,sans-serif;">CalibriVerdanaCheck</span>
+If we decide to change our Privacy Policy we will post the changes here. However, if we make material changes to the way we use your personal information we will ask for your consent before we do so.<span id="calibriSpan" style="font-family: Calibri,Verdana,sans-serif; display: none;">CalibriVerdanaCheck</span><span id="verdanaSpan" style="font-family: Verdana,sans-serif; display: none;">CalibriVerdanaCheck</span></p>
+<span style="display: none; font-family: Calibri,Verdana,sans-serif;" id="calibriSpan">CalibriVerdanaCheck</span><span style="display: none; font-family: Verdana,sans-serif;" id="verdanaSpan">CalibriVerdanaCheck</span><span id="calibriSpan" style="display: none; font-family: Calibri,Verdana,sans-serif;">CalibriVerdanaCheck</span><span id="verdanaSpan" style="display: none; font-family: Verdana,sans-serif;">CalibriVerdanaCheck</span><span style="display: none; font-family: Calibri,Verdana,sans-serif;" id="calibriSpan">CalibriVerdanaCheck</span><span style="display: none; font-family: Verdana,sans-serif;" id="verdanaSpan">CalibriVerdanaCheck</span>
 	</div>
 
     <div class="clear">
@@ -431,7 +808,7 @@ If we decide to change our Privacy Policy we will post the changes here. However
   </div>
   
 <div class="footer">
-    © copyright 2000-2008 Arla Foods amba. <a href="../terms/">Terms of use</a> | <a href=".">Privacy policy</a>
+    © copyright 2000-2009 Arla Foods amba. <a href="../terms/">Terms of use</a> | <a href=".">Privacy policy</a> |<a href="../test2/sitemap/">Sitemap</a>
 </div>
 
   
@@ -443,16 +820,23 @@ If we decide to change our Privacy Policy we will post the changes here. However
 <div style="display:none"><img src="../EPiTrace/PixelImg.aspx?pageid=10139&amp;usersid=&amp;referer=" alt="EPiTrace logger"></div>
 <script type="text/javascript">
 //<![CDATA[
+
+Sys.Application.setServerId("ctl00_scmMain", "ctl00$scmMain");
+
+Sys.Application._enableHistoryInScriptManager();
 EPi.SetupPropertyObjects = function()
 {
 	EPi.RegisterPropertyObject(window, "EPiObject", {EPiOnPageEditControl:"OnPageEditControl"});
 }
 Sys.Application.initialize();
 Sys.Application.add_init(function() {
-    $create(EM.CMS.Modules.StyledAutoComplete.StyledAutoCompleteBehavior, {"completionInterval":250,"completionListCssClass":"markeder_popup_product","completionListElementID":"ctl00_ctrlMenu_pnlAutocompleteHolder","completionListFooterCssClass":"popup_product_bottom","completionListHeaderCssClass":"popup_product_top","completionListItemCssClass":"popup_product_info","completionListItemsHolderCssClass":"popup_product_middle","completionSetCount":5,"contextPageId":"10139","delimiterCharacters":"","footerTemplate":"\u003cp\u003e       \r\n          \u003ca class=\"product_bottom_link\" href=\"javascript:DetailedSearch()\"\u003e\r\n            {5}\u003c/a\u003e\r\n      \u003c/p\u003e\r\n      \u003cdiv class=\"clear\"\u003e\r\n          &nbsp\r\n      \u003c/div\u003e","headerTemplate":"\u003cp style=\"padding-bottom:0px\"\u003e\r\n        {4}\r\n      \u003c/p\u003e","highlightedItemCssClass":"popup_product_info_highlighted","id":"AutoCompleteEx","itemTemplate":"\u003ca href=\u0027{1}\u0027 class=\"autocomplete\" \u003e{2}\u003c/a\u003e\r\n      \u003cp \u003e\r\n          \u003ca class=\"bkg_triangle_green\" href=\u0027{1}\u0027\u003e{0}\u003c/a\u003e\r\n      \u003c/p\u003e\r\n      \u003cp\u003e{3}\u003c/p\u003e","language":"ENGLISH","minimumPrefixLength":2,"positioningMode":"3","serviceMethod":"GetMainSearchCompletionList","servicePath":"/WebServices/AutocompleteService.asmx"}, null, null, $get("ctl00_ctrlMenu_txtMasterSearch"));
+    $create(EM.CMS.Modules.StyledAutoComplete.StyledAutoCompleteBehavior, {"WebServiceCallCompleted":"MenuWebServiceCallCompleted","completionInterval":300,"completionListCssClass":"markeder_popup_product","completionListElementID":"ctl00_ctrlMenu_pnlAutocompleteHolder","completionListFooterCssClass":"popup_product_bottom","completionListHeaderCssClass":"popup_product_top","completionListItemCssClass":"popup_product_info","completionListItemsHolderCssClass":"popup_product_middle","completionSetCount":5,"contextPageId":"10139","delimiterCharacters":"","footerTemplate":"\u003cp\u003e       \r\n          \u003ca class=\"product_bottom_link\" href=\"javascript:MasterSearch()\"\u003e\r\n            {5}\u003c/a\u003e\r\n      \u003c/p\u003e\r\n      \u003cdiv class=\"clear\"\u003e\r\n          &nbsp\r\n      \u003c/div\u003e","headerTemplate":"\u003cp style=\"padding-bottom:0px\"\u003e\r\n        {4}\r\n      \u003c/p\u003e","highlightedItemCssClass":"popup_product_info_highlighted","id":"AutoCompleteEx","itemTemplate":"\u003ca href=\u0027{1}\u0027 class=\"autocomplete\" \u003e{2}\u003c/a\u003e\r\n      \u003cp \u003e\r\n          \u003ca class=\"bkg_triangle_green\" href=\u0027{1}\u0027\u003e{0}\u003c/a\u003e\r\n      \u003c/p\u003e\r\n      \u003cp\u003e{3}\u003c/p\u003e","language":"ENGLISH","minimumPrefixLength":2,"positioningMode":"3","serviceMethod":"GetMainSearchCompletionList","servicePath":"/WebServices/AutocompleteService.asmx"}, null, null, $get("ctl00_ctrlMenu_txtMasterSearch"));
 });
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.AccordionBehavior, {"ClientStateFieldID":"ctl00_LeftContent_LeftMenuControl1_ajaxAccordion_AccordionExtender_ClientState","ContentCssClass":"content_left_menu","HeaderCssClass":"content_left_menu","SelectedIndex":-1,"id":"ctl00_LeftContent_LeftMenuControl1_ajaxAccordion_AccordionExtender","requireOpenedPane":false}, null, null, $get("ctl00_LeftContent_LeftMenuControl1_ajaxAccordion"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"gallery_custom_back_overlay","PopupControlID":"ctl00_RightContent_arSendEmail_pnlTipAFriend","dynamicServicePath":"/Templates/ContentPageA.aspx","id":"MPE"}, null, null, $get("ctl00_RightContent_arSendEmail_lbtnTipAFriend"));
 });
 //]]>
 </script>
