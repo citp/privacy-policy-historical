@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050623id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621133245id_/http%3A//www.abesofmaine.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # About Us
 
@@ -147,18 +147,9 @@
 
 , 
 
-[](http://www.abesofmaine.com/category.do?group1=Sports+Equipment) |   
----|---  
-  
-, 
-
-, 
-
 [](http://www.abesofmaine.com/category.do?group1=Kids+and+Babies) |   
 ---|---  
   
-, 
-
 , 
 
 , 
@@ -198,11 +189,6 @@
   
 , 
 
-, 
-
-[](http://www.abesofmaine.com/category.do?group1=Specials) |   
----|---  
-  
 , 
 
 [](http://www.abesofmaine.com/category.do?group1=Rebates) |   
