@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualworlddirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154443id_/http%3A//www.virtualworlddirect.com/vwdguest/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualworlddirect.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203305id_/http%3A//www.virtualworlddirect.com/vwdguest/privacy.asp) for the most accurate reproduction.*
 
 # 'The Smarter Way To Play' - Privacy Statement
 
@@ -10,7 +10,7 @@ Virtual World Direct Limited ("we", "us") are committed to protecting and respec
 
 This policy (together with our and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-For the purpose of the UK Data Protection Act 1998 (the "Act"), the data controller is Virtual World Direct Limited. We are a limited company registered in the British Virgin Islands under company number 1012797 and with our registered office at Akara Buildings, 24 De Castro Street, Wickhams Cay 1, P O Box 3136, Road Town, Tortola, British Virgin Islands. Our main correspondence address is St Georges Chambers, 1 Athol Street, Douglas, IM1 1LD, British Isles. 
+For the purpose of the UK Data Protection Act 1998 (the "Act"), the data controller is Virtual World Direct Limited. We are a limited company registered in the British Virgin Islands under company number 1012797 and with our registered office at Akara Buildings, 24 De Castro Street, Wickhams Cay 1, P O Box 3136, Road Town, Tortola, British Virgin Islands. Our main correspondence address is Commodore House, 51 Conwy Road, Colwyn Bay, LL29 7AW, British Isles. 
 
 INFORMATION WE MAY COLLECT FROM YOU
 
