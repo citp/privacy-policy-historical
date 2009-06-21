@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531065802id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621161128id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
-# Radiopaedia.org - Page: Privacy Policy
+# Privacy Policy – Radiopaedia.org, the wiki-based collaborative Radiology resource
 
 Effective 8th Feb 2008
 
@@ -10,7 +10,7 @@ Your privacy is important to Radiopaedia.org. To better protect your privacy we 
 
 ### The Information We Collect:
 
-This notice applies to all information collected or submitted on the Radiopaedia.org [](http://radiopaedia.org/) website. 
+This notice applies to all information collected or submitted on the Radiopaedia.org [](https://web.archive.org/) website. 
 
 Required information for registration consists of:
 
