@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornslotz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163725id_/http%3A//www.pornslotz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornslotz.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621135135id_/http%3A//www.pornslotz.com/privacy) for the most accurate reproduction.*
 
 # Porn Slotz Tube - Full porn video for free
 
@@ -50,4 +50,4 @@ YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@PornSlotZ.com.
 
-Copyright (c) 2008 Porn Slotz Tube - Full porn video for free. All rights reserved.
+Copyright (c) 2008-2009 Porn Slotz Tube - Full porn video for free. All rights reserved.
