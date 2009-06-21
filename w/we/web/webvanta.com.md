@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913175848id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621235455id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,13 +31,13 @@ Webvanta Inc. collects certain information from and about its users three ways: 
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
   * Pages you viewed on the site.
 
 
