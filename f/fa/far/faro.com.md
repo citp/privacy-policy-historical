@@ -1,50 +1,85 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218102858id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Duk%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621042627id_/http%3A//faro.com/contentv3.aspx%3Fct%3Ddi%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
-# FARO UK - Privacy Policy
+# FARO International - Privacy Policy
 
+---  
+  
 * * *
 
-**FARO TECHNOLOGIES INTERNET PRIVACY POLICY**
+**FARO TECHNOLOGIES DATA PRIVACY POLICY  
+**FARO Technologies respects individual privacy and values the confidence of its customers, shareholders, employees, vendors, consumers, business partners and others. FARO Technologies strives to collect, use and disclose Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. FARO Technologies abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that FARO Technologies follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the fifteen member states of the European Union (EU) plus Czech Republic and Norway) to the United States.
 
-  1. **General**  
-The responsibility for data processing in connection with this website rests with FARO Technologies  (“FARO”). For more detailed information about FARO, please see [Contact](http://www.faro.com/contentv2.aspx?ct=uk&content=misc&cat=contact).  
-FARO respects individual privacy and values the confidentiality of every visitor to its website. FARO strives to collect, process and transfer personal data in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices.   
-This Internet Privacy Policy (the “Policy”) sets forth the privacy principles that FARO follows with respect to personal data it collects, processes and transfers using this website. 
-  2. **Data being Collected**
-    1. Automatically collected data  
-In general, visitors can reach FARO on the web without revealing any personal data.  
-Some data will be recorded automatically each time the FARO website is being accessed. Such data may contain IP-address, type of browser used, operating system of accessing computer, length of stay on the FARO website, areas of the FARO website being visited etc. Such data are of technical nature and, in general, can not and will not be used by FARO to identify individuals.   
-FARO may also collect anonymous data concerning website users through the use of “cookies” in order to provide better customer service. Cookies are files that websites place on users’ computers to identify the user and enhance the website experience. None of this data is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of FARO websites may not function properly. Visitors wishing to control cookies in the ways described above should consult the user manual of their browser software.
-    2. Voluntarily provided data   
-Visitors on the web may elect to voluntarily provide personal data via the FARO websites but are not required to do so. FARO collects data from visitors to the websites who voluntarily provide personal data by sending emails using contact data obtained by using the FARO website, filling out and submitting online questionnaires concerning feedback on the website; commenting, discussing or using other means of communication or feedback where such are being provided; requesting information on products or services; or seeking employment. 
-  3. **Purpose for Collecting Data**  
-FARO’s sole purpose for operating its websites is to provide information concerning products and services to its customers and employees and to provide a means of communication. FARO Technologies collects, processes and uses personal data using its website solely for this reason, unless there are more specific reasons, which will be stated explicitly when collecting that data. Particularly, FARO processes data so it may answer questions and forward requested information.  
-FARO does not use data other than for its intended purpose in each case.
-  4. **Transmission of Data**  
-In general, FARO does not transfer personal data to third parties without the expressed consent of the visitor concerned. Particularly, FARO will not sell or rent personal data to third parties for marketing purposes.   
-FARO may, however, utilise third party service providers to perform under a contract or honor a request made by the visitor (e.g. when sending out requested information material by mail). Such service providers act on behalf of FARO and may have access to personal data needed to perform their functions, but may not use such personal data for other purposes. Further, they must process the personal data in accordance with this Privacy Policy and as permitted by the applicable Data Protection laws and regulations.  
-Third party service providers may also be utilised to collect and process statistical data as described above in paragraph 2.1.   
-Personal data may be transferred to affiliated companies of FARO if and to the extend such transfer is explicitly requested by the visitor or necessary to perform under a contract or honor a request made by the visitor and such transfer is obvious to the visitor (e.g. if the visitor applies for a job offer made on FARO’s website by an affiliate company such application will be forwarded to such affiliate company). Such transfers may include recipients outside of the European Union and/or the European Economic Area, particularly to FARO’s holding company, if and to the extend such transfer is permitted by the applicable law and regulations including the Safe Harbor Principles.   
-The companies in the FARO group abide by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission. 
-  5. **Data Security**  
-FARO maintains technical and organisational measures to protect the security of all personal data being collected, processed and transferred. Such measures will be constantly further updated and amended according to the technological development. 
-  6. **Term of Storage**  
-The applicable laws and regulations specify what personal data FARO can and must store and for how long. Once these terms expire, FARO routinely deletes this data or blocks it, following Data Protection laws and regulations.  
-Where the storage of data is not subject to specific terms, FARO deletes it or blocks it once the reasons why the data was collected for cease to apply.
-  7. **Disclosure and Choice**  
-FARO website visitors have the option to request disclosure of personal data of such visitor FARO may have stored, and to request that FARO Technologies may not use data previously provided, correct data previously provided, or remove data previously provided to FARO.   
-Such inquiries should be directed to:  
+**I. Safe Harbor**  
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable US companies to satisfy the requirement under European Union law that adequate protection be given to Personal information transferred from the EU to the United States. The EEA also has recognized the US Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect Personal privacy, FARO Technologies adheres to the Safe Harbor Principles.  
+FARO Technologies has designated the Heads of both Human Resources and Information Technology as the persons responsible for FARO’s compliance with and enforcement of this Policy. Relevant contact information is provided herein.
+
+**II. Scope**  
+This Policy applies to all Personal information received by FARO Technologies in any format including electronic, paper or verbal. FARO Technologies collects and processes Personal information concerning current and former employees and their respective family members, as well as applicants for employment, through its Internet websites, its intranet site, electronic mail and traditional mail. FARO Technologies is the sole owner of information it collects from current and former employees, applicants for employment, customers, vendors and others. FARO Technologies will not sell or share this information with third parties in ways different than what is disclosed in this Privacy Policy. On a global basis, FARO Technologies will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy.  
+Personal information collected by FARO Technologies from employees and applicants for employment is maintained at its corporate offices in Lake Mary, Florida in the United States as well as the local and regional office of the employee or applicant. For purposes of data security and backup, copies will be maintained at secured secondary facilities.  
+FARO Technologies collects Personal information for, among other things, legitimate human resource business reasons such as payroll administration, filling employment positions, maintaining accurate benefits records, meeting governmental reporting requirements, security, health and safety management, performance management; company network access, and authentication. FARO Technologies does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent FARO Technologies maintains information on an individual’s medical health or ethnicity (only for countries where it is legally required), FARO Technologies will protect, secure and use that information in a manner consistent with this Policy.  
+Personal information collected by FARO Technologies from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Lake Mary, Florida or at other FARO Technologies facilities. FARO Technologies collects Personal information for, among other things, legitimate business reasons such as customer service, product, warranty and claims administration, meeting governmental reporting and records requirements, maintenance of accurate accounts payable and receivable records, internal marketing research, safety and performance management; financial and sales data, and contact information. All Personal information collected by FARO Technologies will be used for legitimate business purposes consistent with this Policy.
+
+**III. Definitions  
+**For purposes of this Policy, the following definitions shall apply:
+
+  * "Agent" means any third party that uses Personal information provided by FARO Technologies to perform tasks on behalf of or at the instruction of FARO Technologies. 
+  * “FARO Technologies" means FARO Technologies, its predecessors, successors, subsidiaries, divisions and groups. 
+  * "Personal information" means any information or set of information that identifies or could be used by or on behalf of FARO Technologies to identify an individual. Personal information does not include information that is encoded or publicly available information that has not been combined with non-public Personal information. 
+  * "Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, or that concerns health. In addition, FARO Technologies will treat as sensitive Personal information, any information received from a third party, where that third party treats and identifies the information as sensitive. 
+
+
+
+**IV. Privacy Principles**  
+The privacy principles in this Policy are based on the seven Safe Harbor Principles.
+
+  1. **NOTICE:** Where FARO Technologies collects Personal information directly from individuals, it will inform them about the purposes for which it collects and uses Personal information about them, the types of non-agent third parties to which FARO Technologies discloses that information, and the choices and means, if any, FARO Technologies offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to FARO Technologies, or as soon as practicable thereafter, and in any event before FARO Technologies uses the information for a purpose other than that for which it was originally collected. FARO Technologies may disclose Personal information if required to do so by law or to protect and defend the rights or property of FARO Technologies. 
+  2. **CHOICE:** FARO Technologies will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive Personal information, FARO Technologies will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. FARO Technologies will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise. 
+  3. **DATA INTEGRITY:** FARO Technologies will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. FARO Technologies will take reasonable steps to ensure that Personal information is relevant accurate, complete and current, to its intended use. 
+  4. **TRANSFERS TO AGENTS:** FARO Technologies will obtain assurances from its Agents that they will safeguard Personal information consistently with this Policy. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding (e.g., companies located in Hungary and Switzerland). Where FARO Technologies has knowledge that an Agent is using or disclosing Personal information in a manner contrary to this Policy, FARO Technologies will take reasonable steps to prevent or stop the use or disclosure. FARO Technologies holds it Agents accountable for maintaining the trust our employees and customers place in the company.
+  5. **ACCESS AND CORRECTION:** Upon request, FARO Technologies will grant individuals reasonable access to Personal information that it holds about them. In addition, FARO Technologies will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal information can do so by contacting their local Human Resources Representative. 
+  6. **SECURITY:** FARO Technologies will take reasonable precautions to protect Personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. FARO Technologies protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. FARO Technologies limits access to Personal information and data to those persons in FARO Technologies’ organization, or as Agents of FARO, that have a specific business purpose for maintaining and processing such Personal information and data. Individuals who have been granted access to Personal information will be made aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so. \
+  7. **ENFORCEMENT:** FARO Technologies will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy and the US Department of Commerce Safe Harbor Principles. Any employee that FARO Technologies determines is in violation of this Policy will be subject to disciplinary action up to and including termination of employment. 
+
+
+
+**V. Dispute Resolution**  
+Any questions or concerns regarding the use or disclosure of Personal information should be directed to Human Resources at the address given below. FARO Technologies will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between FARO Technologies and the complainant, FARO Technologies has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles.
+
+**VI. Internet Privacy  
+**FARO Technologies sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. FARO Technologies recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. FARO’s sole purpose for operating its websites is to provide information concerning products and services to its customers and employees. In general, visitors can reach FARO Technologies on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via FARO Technologies websites but are not required to do so. FARO Technologies collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. FARO Technologies collects this information so it may answer questions and forward requested information. FARO Technologies does not sell or share this information with non-agent third parties. For purposes of improved security and authentication, FARO may enter into mutual agreements with customers or partners to utilize protocols and technology that may require the collection of additional information.
+
+FARO Technologies may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are files that websites place on users’ computers to identify the user and enhance the website experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of FARO Technologies websites may not function properly.
+
+FARO Technologies website users have the option to request that FARO not use information previously provided, correct information previously provided, or remove information previously provided to FARO. Those that would like to correct or suppress information they have provided to FARO Technologies should forward such inquiries to:
+
 Human Resources  
 FARO Technologies  
 125 Technology Park  
 Lake Mary, FL 32746  
-Telefon: 407.333.9911  
+Phone: 407.333.9911  
 Fax: 407.333.4181  
-E-Mail: [hr@faro.com](mailto:hr@faro.com)  
-The inquiries should include the visitor’s name, address, and other relevant contact data (phone number, email address). FARO will use all reasonable efforts to honor such requests as quickly as possible. FARO may have to request a proof of identity in order to disclose any data or to honor any requests. 
-  8. **Changes to this Privacy Policy**  
-The practices described in this Policy are current personal data protection policies as of 11/25/2008. FARO reserves the right to modify or amend this Policy at any time consistent with the requirements of the applicable Data Protections laws and regulations. Appropriate public notice will be given concerning such amendments.
-  9. **Links to other Websites**  
-FARO websites may contain links to other “non-FARO” websites. FARO assumes no responsibility for the content or the privacy policies and practices on those websites. FARO encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of FARO.
+Email: [hr@faro.com](mailto:hr@faro.com)
 
+The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). FARO Technologies will use all reasonable efforts to honor such requests as quickly as possible. FARO Technologies websites may contain links to other "non-FARO" websites. FARO Technologies assumes no responsibility for the content or the privacy policies and practices on those websites. FARO Technologies encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of FARO.
 
+**VII. Changes to This Safe Harbor Privacy Policy  
+**The practices described in this Policy are current Personal data protection policies as of February 28, 2005. FARO Technologies reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning such amendments.  
+  
+  
+|   
+---  
+|   | 
+
+FARO Swiss Holding GmbH, Wiesengasse 20, 8222 Beringen, Switzerland  
+Phone: +49 (0) 7150 - 97 97 0 · Fax: +49 (0) 7150 - 97 97 44  
+FREECALL 00800 - 3276 7253
+
+| [  ](https://web.archive.org/contentv2.aspx?ct=di&content=misc&cat=Certificates)  
+---|---|---  
+  | 
+
+FARO, THE MEASURE OF SUCCESS, FaroArm, CAM2, XtremeADM and FARO Laser ScanArm   
+are registered trademarks and trademarks of FARO Technologies Inc.   
+© 2009 FARO Technologies Inc. All Rights Reserved. 
+
+| 
