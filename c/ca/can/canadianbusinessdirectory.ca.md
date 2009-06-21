@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218110926id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621175108id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - canadianbusinessdirectory.ca
 
@@ -50,17 +50,17 @@
 > * Provide you with updated information about our website 
 > * Provide you with other information about our products and services which may be of interest to you. 
 > 
-> If you are receiving promotional information about canadianbusinessdirectory.ca and do not wish to receive this information any longer, you may email us at info@canadianbusinessdirectory.ca and ask to be removed from our mailing list. Please allow 2 weeks for this request to be processed. 
+> If you are receiving promotional information about canadianbusinessdirectory.ca and do not wish to receive this information any longer, you may email us at cabiz (AT) canadianbusinessdirectory (DOT) ca and ask to be removed from our mailing list. Please allow 2 weeks for this request to be processed. 
 > 
 > **4\. You can access the information we keep about you**   
-> The directory shows what information we hold about you. You are welcome to check if we hold any other personal information about you by e-mailing us at info@canadianbusinessdirectory.ca . Our record of your information will be made available to you within 2 weeks. 
+> The directory shows what information we hold about you. You are welcome to check if we hold any other personal information about you by e-mailing us at cabiz (AT) canadianbusinessdirectory (DOT) ca . Our record of your information will be made available to you within 2 weeks. 
 > 
 > **5\. Changing and deleting the information we have about you**   
 > If at any time you wish to change a listing that is inaccurate or out of date, then: 
 > 
 > * If you have your email and password you can login and change your information. 
-> * Send an email to info@canadianbusinessdirectory.ca and request a password 
-> * Send an email to info@canadianbusinessdirectory.ca and request the change, please allow 2 weeks for your profile to be updated. 
+> * Send an email to cabiz (AT) canadianbusinessdirectory (DOT) ca and request a password 
+> * Send an email to cabiz (AT) canadianbusinessdirectory (DOT) ca and request the change, please allow 2 weeks for your profile to be updated. 
 > 
 > **6\. Storage and security of your personal information**   
 > canadianbusinessdirectory.ca will do best to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Please note also that canadianbusinessdirectory.ca. 
@@ -69,7 +69,7 @@
 > canadianbusinessdirectory.ca provides links to websites outside of the canadianbusinessdirectory.ca service. These linked sites are not under the control of canadianbusinessdirectory.ca, and we are not responsible for the conduct of companies linked to our website. 
 > 
 > **8\. What to do if you have a problem or question**   
-> If canadianbusinessdirectory.ca becomes aware of any ongoing concerns or problems with sites on our website, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us at info@canadianbusinessdirectory.ca. 
+> If canadianbusinessdirectory.ca becomes aware of any ongoing concerns or problems with sites on our website, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us at cabiz (AT) canadianbusinessdirectory (DOT) ca. 
 > 
 > **9\. Future changes**   
 > Our commitment to be a leading provider of online directory services means that our business will continue to evolve as we introduce new services and features to our website. Because of this, from time to time, our policies will be reviewed and may be revised. canadianbusinessdirectory.ca. reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. 
