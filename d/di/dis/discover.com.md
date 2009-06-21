@@ -1,125 +1,66 @@
-> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202212528id_/http%3A//www.discover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621192454id_/http%3A//www.discovercard.com/customer-service/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policy - news education science magazines technology science news environment magazine subscriptions anthropology ecology environmental issues online magazines archaeology national science foundation science magazine environmental discover magazine science news articles kids discover magazine science magazines online archaeology news online business magazines discover magazine online free magazines to read online discover science magazine discover magazine subscriptions - science news articles online technology magazine articles Privacy Policy
+# Privacy Policies - Providing You With Peace of Mind :: Discover Financial Services
 
-  
-Effective Date: November 7, 2005 
+We are required by federal law to provide you with a copy of our Privacy Policy each year. If you have previously notified us about your privacy preferences, as described in Section 4, it is not necessary to do so again unless you decide to change your preferences.
 
-  
-Discover Media LLC **( "we," "us"** **)** respects the privacy of visitors to our Web site.  This Web site privacy policy (this " **Privacy Policy** ") describes how we collect, protect, use, and share information gathered about you on Discover.com ([www.discover.com](https://web.archive.org/)).  It applies only to information that we collect online through our Web site and does not apply to information we collect through offline means, such as by telephone or mail.  Please read this policy carefully so that you understand what information we collect through our Web site and what we do with that information.
+**We Respect Your Privacy**
 
-  
-**[Q1: What information are we collecting, and how are we collecting it?](https://web.archive.org/privacy-policy/#Q1)**
+Our mission is to provide you with superior products and services, along with the peace of mind knowing that the security of your personal information is our top priority. We understand your concerns about guarding information about you and your Account. We want to assure you that we have taken steps, and will continue to take steps, to safeguard that information.
 
-**[Q2: What information does this Privacy Policy cover?](https://web.archive.org/privacy-policy/#Q2)**
+This Privacy Policy describes our efforts to meet these objectives. It includes a summary of the following important information:
 
-  
-**[Q3: How do we use the personally-identifying information that we have collected?](https://web.archive.org/privacy-policy/#Q3)**
+  * A listing of the personal information we collect;
+  * The circumstances in which we may share information with others;
+  * The ways we safeguard the confidentiality and security of information; and
+  * The steps you may take to limit our sharing of such information with others. See Section 4 for complete details.
 
-[Q4: How do we share personally-identifying information with other businesses?](https://web.archive.org/privacy-policy/#Q4) 
 
-[Q5: What should you know about links on Discover.com?](https://web.archive.org/privacy-policy/#Q5A)
 
-[Q6: How do we protect the privacy of children?](https://web.archive.org/privacy-policy/#Q6)
+Please read our Privacy Policy carefully. It will help you understand how we collect and share information.
 
-**[Q7: What type of security do we provide?](https://web.archive.org/privacy-policy/#Q7)**
+**1\. What Personal Information Do We Collect?**
 
-**[Q8: How can you access and update your account information and opt-out choices online?](https://web.archive.org/privacy-policy/#Q8)**
+To serve you better and manage our business, it is important that we collect and maintain accurate personal information about you. We obtain this information from applications and other forms you submit to us, from your dealings with us and others, from consumer reporting agencies and from other sources, such as our Web sites. For example:
 
-**[Q9: Whom should you contact with questions or concerns about this Privacy Policy?](https://web.archive.org/privacy-policy/#Q9)**
+  * We may obtain information such as your name, address and date of birth from applications and other forms you submit to us.
+  * We may obtain information such as Account balances, payment history, your use of your Account and the types of services you prefer from your transactions and other dealings with us and others.
+  * We may obtain information such as the balances of your loans with other lenders and your payment history with others from consumer reporting agencies.
+  * We may obtain information such as your Internet service provider, your email address, your computer's operating system and Web browser, your Web site use and your product and service preferences from your visits to Web sites. 
 
-**[Q10: How will you know if we amend this Privacy Policy?](https://web.archive.org/privacy-policy/#Q10)**
 
-[**Q11: What special rights do** **California** **residents have?**](https://web.archive.org/privacy-policy/#Q11)
 
-****Q1: What information are we collecting, and how are we collecting it?****
+**2\. Is Personal Information Shared with Others?**
 
-A1: We collect various forms of information in various ways: 
+We limit the sharing of information with others. Many of the offers you receive for products and services are provided directly to you from us. For example, a retailer that accepts the Discover® Card may come to us with a special offer for Cardmembers, such as a discount certificate or product upgrade. After careful consideration of the nature of the offer and the company, we will create a list of Cardmembers who may be interested in the offer based on certain characteristics. We will send the offer directly to those Cardmembers on behalf of the retailer by, for example, including an insert in their monthly billing statement or mailing the offer ourselves. We control the information used to make the offer; we do not share the list or any information about our Cardmembers with the retailer. However, please understand that if you do receive this type of offer from us and choose to take advantage of it, the retailer may then learn information about you because only Cardmembers with certain characteristics received the offer. 
 
-**Information you provide**
+There are, however, circumstances in which we may share the information we collect about you, as described in Section 1, with other companies in order to provide you with access to products and services and to service your Account effectively, as detailed below. We require these companies to adhere to our privacy standards and to use this information only for the limited purpose for which it was shared. We do not allow them to disclose it to others without our prior approval.
 
-When you request information from Discover Magazine on Discover.com, we may ask you to provide us with certain personally-identifying information about yourself and other members of your household. When this Privacy Policy uses the term "personally-identifying information," we mean information that identifies a particular individual, such as the individual's first and last name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, is directly associated with personally-identifying information, this other information also becomes personally-identifying information for purposes of this Privacy Policy. Personally-identifying information is sometimes referred to in this Privacy Policy as "personal information." 
+**a. Sharing Personal Information with Our Corporate Family**  
+Our corporate family offers a variety of products and services that can help you manage your finances. In order to provide you with access to these products and services, we may share the information we collect about you, as described in Section 1, with other members of our corporate family. These companies include financial service providers that offer credit protection, card servicing and payment processing services.
 
-You will always know when Discover.com collects personally-identifying information because you will have to supply that information to us or give your permission for us to collect that information. Typically, this information includes your name, postal address, and e-mail address. When you subscribe to Discover Magazine or sign up for Discover.com membership, we may request additional personal information from you, such as credit card information and shipping information. Again, you will know when we collect this additional information from you because you will have to provide it to us. 
+**b. Sharing Personal Information with Non-Affiliated Parties for Marketing Purposes**  
+We may share the information we collect about you, as described in Section 1, with non-affiliated third parties, including those that accept the Discover Card, in order to provide you with access to products and services offered directly by these companies that may be of value to you. These companies include financial service providers, such as insurance companies, and non-financial companies, such as retailers. 
 
-Information collected from you with technology 
+**c. Sharing Personal Information with Others**  
+We may share the information we collect about you, as described in Section 1, with companies that perform support or marketing services on our behalf, such as mailing, market research and data processing; other financial institutions with which we have joint marketing agreements; or companies that are our partners for cobrand credit card programs or reward programs. We may also share such information as permitted by law.
 
-Discover.com uses information collected through technology to make our Web site more interesting and useful to you. In some circumstances, it may not be readily apparent to you that such information is being collected. For instance, when you come to Discover.com, your IP address is collected. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally-identifying. 
+**3\. How Do We Protect the Confidentiality, Security and Integrity of Information about You?**  
+We maintain physical, electronic and procedural safeguards to protect the information we collect about you. Access to such information is restricted to individuals who need it in order to service your Account or provide products and services to you, and who are trained in the proper handling of such information. Employees who violate these confidentiality requirements are subject to our disciplinary process. Where third parties provide support services, we require them to conform to our privacy standards.
 
-At times we also collect information regarding the frequency with which our visitors visit various parts of Discover.com and where on our Web site they visit, as well as information regarding our visitors' responses to e-mails that we send to them. We may combine the information collected from you with technology, including your IP address, with personally-identifying information to identify a visitor in order to provide relevant content, ads, and e-mails to that visitor, as well as to enforce compliance with our Terms and Conditions, and to protect our service, Web site, visitors, and other parties. 
+It is important that the information we maintain about you is accurate and complete. If you see information in your monthly billing statements or elsewhere which suggests that our information is incomplete or inaccurate, please write to us at Discover Card, P.O. Box 30943, Salt Lake City, UT 84130-0943 so that we can update this information.
 
-What are cookies and web beacons, and how does Discover.com use them?
+**4\. How Can You Limit Sharing of Information About You?**  
+We respect your privacy and offer you choices as to whether we may share information about you with others. You have the option to tell us not to share the information we collect about you, as described in Section 1, with non - affiliated third parties. You also have the option to tell us not to share the information we collect about you, as described in Section 1, with companies in our corporate family. If you indicate a preference for either of these options, please understand that you may not receive offers for products and services provided by other companies that could help you lower your costs, maximize your financial resources or manage your finances. **To indicate your preferences, please call us at 1-800-225-5202 or write to us at Discover Card, P.O. Box 30961, Salt Lake City, UT 84130-0961. If you have previously notified us about your privacy preferences, it is not necessary to do so again unless you decide to change your preferences.** Your written request should include your name, address, telephone number and Account number(s) and should not be sent with any other correspondence. In order to process your request, we require that the request be provided by you directly and not through a third party. You will need to provide us with your preferences for each credit card account you have with us.
 
-Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more efficient. Web site operators use cookies for a variety of purposes. For instance, when you return to Discover.com, cookies enable our site to remember who you are, so you don't have to log in again. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser "Help" menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of the services of Discover.com may not function properly. 
+You may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honor your request and not share this information except as permitted by law. For example, federal law permits us to share information about you with consumer reporting agencies, service providers and financial institutions with which we have joint marketing agreements. If you are a new Cardmember, we will not share any information about you, except as permitted by law, for thirty days after we provide this Policy to you in order to give you an opportunity to inform us about your preferences. If you are an existing Cardmember, please understand that you may continue to receive marketing offers directly from other companies that were already in production prior to the processing of your request.
 
-Discover.com also may use Web beacons (which are also known as clear GIFS). Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We may use Web beacons to send cookies to your computer. We also may use Web beacons to analyze the traffic patterns on our Web site, such as the frequency with which our users visit various parts of our Web site. The Web beacons on Discover.com may send data either directly from us or from another party authorized by us, and these Web beacons may transmit information either directly to us or to another party authorized by us to collect information on our behalf. This information is not collected, however, in a form that is personally-identifying. In addition, we use Web beacons in HTML e-mails that we send our members, in order to determine whether our members have opened those e-mails. This information may be gathered in a form that is personally-identifying. Finally, network advertisers who place advertisements on our Web site may also use Web beacons in accordance with their privacy policies. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our Web site, and this information may permit us to determine the identity of other sites that you have visited that are also associated with the network advertiser. 
+This Privacy Policy is provided to the primary Cardmember listed on the Account. However, any joint Cardmember has the right to notify us about preferences and we will treat that request as applying to the entire Account. We do not share information about former customers, except as permitted by law. This notification supercedes all previously issued Privacy Policies. We reserve the right to amend this Privacy Policy from time to time and we will notify you if we do so.
 
-****Q2: What information does this Privacy Policy cover?****
+This Privacy Policy is provided to you by Discover Bank and its subsidiaries, which currently include GTC Insurance Agency, Inc. and Discover Products Inc. Unless otherwise specified, it applies to the family of Discover Cards for consumers and the products and services offered in connection with those Cards, including the Wallet Protection card registration service (with the exception of any information registered in connection with the service, which will not be shared). It is part of your Cardmember Agreement and provides a further explanation of how we collect and share information. You may have other rights under state laws that apply to this information. Please note that you will also receive privacy notices for other credit card accounts you have with us, as well as other financial products and services provided to you by us and our affiliates. You will need to indicate your preferences for each of these separately as disclosed in the notice.
 
-A2: This Privacy Policy applies to all personally-identifying information that we collect online at Discover.com, on or after the effective date of this Privacy Policy, from individuals who provide us such information for the purpose of obtaining from us a product or service primarily for personal, family or household purposes. This Privacy Policy does not apply to any information collected from you offline. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to Discover Magazine or to information that you provide to Discover Magazine when you respond by postal mail or telephone to a survey. These examples are not meant to be exhaustive, and this Privacy Policy does not apply to many other instances in which Discover Magazine may collect information from you offline.
+**Vermont Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties or companies in our corporate family unless you call us at 1-800-DISCOVER and authorize us to do so.
 
-Q3: How do we use the personally-identifying information that we have collected?
+**California Residents** —Your state law requires financial institutions to obtain your consent prior to sharing information about you with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties while you are a resident of California.
 
-A3: Discover Magazine uses personally-identifying information that it has collected in a number of ways. One of the ways we use such information is to send you updates and provide you information about Discover.com. We may also use your personal information to complete transactions, such as processing orders for Discover.com, or to send you administrative communications about any account you may have with us or about future changes to this Privacy Policy. If you contact us for help, we will use your personally-identifying information to respond to you. We also use the information you provide to send you e-mail and postal mail promotions regarding our products and services, as well as products and services of third parties, unless you have elected not to receive these promotions and offers. 
-
-Q4: How do we share personally-identifying information with other businesses?  
-
-A4: We share your information in various ways: 
-
-Companies that are involved in providing Discover.com 
-
-Various companies assist us with the operation of Discover.com. Other companies help us fulfill your subscription orders and process your requests concerning Discover.com, or help us communicate with you or assist us in gathering your information. Except as otherwise permitted by other provisions of this Privacy Policy, all of these companies are allowed to gather, receive, and use your information, but only for purposes connected with Discover.com. For example, we may hire companies to help deliver products or services, like a shipping company that delivers a package. In these instances, there is a need to share your information with these companies.
-
-Third-party advertisers
-
-We will not share your personally-identifying information with third-party advertisers without your consent.  If you request that we share your personal information with third-party advertisers, they may send you promotions regarding their products and services by postal mail, e-mail, or other means. When you request that we share your personal information with third-party advertisers, your information will become permanently subject to the information use and sharing practices of the advertisers that receive your information and those advertisers will not be restricted by this Privacy Policy.
-
-Sale of business 
-
-If Discover Magazine is sold, the personal information of customers and potential customers of Discover Magazine, including subscribers to Discover.com, likely would be transferred to the buyer. In that event, Discover Magazine will include provisions in the selling contract to require the purchaser to treat your personally-identifying information in the same manner you requested under this Privacy Policy (including any amendments to this Privacy Policy). In addition, Discover Magazine will give notice to individuals whose information is affected by the sale, in accordance with the procedures described in A10 below. 
-
-Disclosures required by law and disclosures to help protect the security and safety of our visitors and our Web site
-
-We reserve the right to disclose your personal information to third parties when we deem such disclosure necessary to comply with applicable law, to enforce our Terms and Conditions of Use, or to protect the rights, property, security or safety of visitors to our site, our customers, employees, the public or Discover Media LLC. 
-
-Non-personally-identifying information 
-
-In addition to sharing personally-identifying information as described above, we may take your personally-identifying information and make it non-personally-identifying, either aggregating your information with information about other individuals, or by removing characteristics (such as your name) that make the information personally-identifying to you. We may use this non-personally-identifying information in any way and disclose it to third-parties for any purpose.
-
-Network advertisers
-
-Advertisements on our Web site may be managed and placed on our Web site by third parties. These companies are called "network advertisers." Network advertisers who place these advertisements may also use cookies and Web beacons to collect non-personally-identifying information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our Web site and this information may permit us to identify other Web sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their Web site. The advertiser's privacy policy may differ from ours. You must read the privacy policy of the advertiser to see how your personal information will be handled on its Web site.
-
-Q5: What should you know about links on Discover.com?
-
-A5: Our Web site includes links to other Web sites operated by third parties whose privacy policies we do not control. When you access another Web site through our Web site, any information you provide is governed by the privacy policy of the operator of the site you are visiting. We encourage you to review the privacy policy of any third-party Web site you access through our site.
-
-Q6: How do we protect the privacy of children?
-
-A6: Our Web site is not directed to children and we will not knowingly allow anyone under the age of 13 to use our Web site to provide us with any personally-identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses and phone numbers) over the Internet. If you are under the age of 13, please do not provide any information about yourself on this Web site.
-
-Q7: What type of security do we provide? 
-
-A7: The security of your personally-identifying information is an important concern for us. We take technical, contractual, administrative, and physical security steps to protect all visitors' personal information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. There are some things that you can do to help protect the security of your information. For instance, never give out your password, since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information. 
-
-Q8: How can you access and update your account information and opt-out choices online? 
-
-A8: The following methods are available to access and update your account information online (including opting out of certain uses and sharing of your personal information for promotional purposes):
-
-a) If you are a subscriber to Discover Magazine, simply click on this link _Discover Customer Care_ and then enter your e-mail address and follow the instructions. Subscribers can also contact us via e-mail at [DCRcustserv@CDSfulfillment.com](mailto:DCRcustserv@CDSfulfillment.com). Please include the level of personal information in your e-mail or online request or inquiry that will help us identify your account so we can assist you. 
-
-b) Registered members of Discover.com who wish to change their personal information or opt-out of certain uses by us of such information (e.g., receiving e-mail notices from Discover.com, including the Discover.com Newsletter and Topic Alerts) should do the following: log in to Discover.com; select "My Discover"; click on "Edit My Membership Details"; and edit the information or check the appropriate boxes.
-
-If you are both a subscriber to Discover Magazine and a registered member of Discover.com, you must utilize both of the methods described in this paragraph to ensure that your request or preferences will be fully implemented.
-
-Q9: Whom should you contact with questions or concerns about this Privacy Policy? 
-
-A9: If you need further assistance, please send an e-mail with your questions or comments to _privacyconcerns@discover.com_ or write us at: ****Discover Magazine, 114 Fifth Avenue, New York, NY 10011.
-
-Q10: How will you know if we amend this Privacy Policy? 
-
-A10: We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you gave us, and/or by prominently posting notice of the changes on Discover.com. Any material changes to this Privacy Policy will be effective upon the earlier of ten (10) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on Discover.com. Changes to this Privacy Policy may affect our use, and use by other companies, of personal information that you gave us prior to our notification to you of the changes. If you do not wish to permit changes in our collection, use and/or sharing of your personal information, you must notify us prior to the effective date of the changes that you wish to close your account with us. Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes. 
-
-******Q11: What special rights do** **California** **residents have?**
-
-A11: California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [DISord@cdsfulfillment.com](mailto:DISord@cdsfulfillment.com). Within thirty (30) calendar days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year. We reserve our right not to respond to requests submitted other than to the addresses specified in this paragraph.
+©2009 Discover Bank, Member FDIC
