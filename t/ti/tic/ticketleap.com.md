@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220194711id_/https%3A//www.ticketleap.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621075128id_/https%3A//www.ticketleap.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Ticketleap :: Search Results
 
@@ -62,4 +62,4 @@ When You register to create an account with the Site or complete a purchase tran
 
 #### Contact Information
 
-If You have any questions or concerns about Our privacy policy or the practices of the Site, You can contact Us at [legal@ticketleap.com](mailto:legal@ticketleap.com). You can also send mail to Us at: Privacy Officer, TicketLeap.com, 1700 Sansom Stree, Philadelphia, PA 19103. 
+If You have any questions or concerns about Our privacy policy or the practices of the Site, You can contact Us at [legal@ticketleap.com](mailto:legal@ticketleap.com). You can also send mail to Us at: Privacy Officer, TicketLeap.com, 1700 Sansom Street, Philadelphia, PA 19103. 
