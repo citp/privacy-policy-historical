@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041052id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081413id_/http%3A//www.gopetplan.com/Privacy.html) for the most accurate reproduction.*
 
 # Petplan USA Privacy Policies
 
@@ -38,7 +38,7 @@ If you do not agree with the terms and conditions outlined in this Privacy Polic
 **Petplan’s Security and Confidentiality procedures:**
 
   * Petplan restricts access to your non-public personal information to Petplan employees and affiliates of Petplan or others who have a need to know that information in order to service a particular account. Petplan also maintains physical, electronic and procedural safeguards in compliance with applicable laws and regulations to guard your personal information from unauthorized access, alteration or premature destruction.
-  * You have the right to review and correct your personal information in Petplan’s possession, except for information relating to a claim or criminal or civil proceeding. If you have any questions we encourage you to [contact us](https://web.archive.org/web/20081216041052id_/http%3A//www.gopetplan.com/Contact-Petplan.html) who will be happy to answer any privacy questions that you may have. 
+  * You have the right to review and correct your personal information in Petplan’s possession, except for information relating to a claim or criminal or civil proceeding. If you have any questions we encourage you to [contact us](https://web.archive.org/web/20090621081413id_/http%3A//www.gopetplan.com/Contact-Petplan.html) who will be happy to answer any privacy questions that you may have. 
 
 
 
