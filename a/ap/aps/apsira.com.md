@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218215831id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621090122id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policies
 
-  
-
+|  | 
 
 ## Registration
 
@@ -54,3 +53,6 @@ Phone: 91-44-2855 2042
 Fax: 91-44-2855 2042
 
 Or write to us at [webmaster@apsira.com](mailto:webmaster@apsira.com)
+
+|   
+---|---|---
