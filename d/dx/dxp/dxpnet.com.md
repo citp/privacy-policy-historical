@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155434id_/http%3A//www.dxpnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxpnet.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621223804id_/http%3A//www.dxpnet.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
