@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913074208id_/http%3A//deliciousmagazine.co.uk/boilerplate.aspx%3Fid%3D223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621082502id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | delicious. Magazine food articles & advice
 
 The publishers of delicious. magazine (Seven Publishing Group Limited) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Seven Publishing Group Ltd, registration number 04809240 of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
 
@@ -20,22 +20,22 @@ We regularly request information from users via competitions and giveaways. Part
 • Details of your visits to our website and the resources that you access whilst on the website.
 
 2. Personal information   
-In order to receive the delicious. magazine newsletter, we need your email address. We will not disclose your email or any personal information to any third party without your consent. 
+In order to receive the delicious. magazine newsletter, we need your email address. We will not disclose your email or any personal information to any third party without your consent.
 
-When you register to subscribe to purchase the magazine, we will ask you to provide certain personal information. At that point you will be able to opt in to receive communications from us, another company within our group or third parties. You will always have the opportunity to unsubscribe from receiving such communications. 
+When you register to subscribe to purchase the magazine, we will ask you to provide certain personal information. At that point you will be able to opt in to receive communications from us, another company within our group or third parties. You will always have the opportunity to unsubscribe from receiving such communications.
 
 Anti-spam   
-Every email sent by us includes links to unsubscribe from receiving further emails from us, allowing users to automatically and immediately remove themselves from subscription lists. The only way to receive the delicious. magazine newsletter is to subscribe and confirming your subscription by following the subscription procedure. 
+Every email sent by us includes links to unsubscribe from receiving further emails from us, allowing users to automatically and immediately remove themselves from subscription lists. The only way to receive the delicious. magazine newsletter is to subscribe and confirming your subscription by following the subscription procedure.
 
 Unsubscribe   
-Users may always automatically opt-out of receiving emails from us by clicking the unsubscribe link at the end of emails you receive from us. 
+Users may always automatically opt-out of receiving emails from us by clicking the unsubscribe link at the end of emails you receive from us.
 
 Users with questions or experiencing problems unsubscribing should email to [help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
 
 If at any time you wish to be removed from our database, simply send an email to [unsubscribe@deliciousmagazine.co.uk](mailto:unsubscribe@deliciousmagazine.co.uk) with “UNSUBSCRIBE” in the subject line.
 
 Updating your personal information  
-Users may update their records held by us by writing to you at [help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk). 
+Users may update their records held by us by writing to you at [help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
 
 3. Uses made of your information  
 We use information held about you in the following ways:  
@@ -45,11 +45,11 @@ We use information held about you in the following ways:
 • To notify you about changes to our service.
 
 4. Information sharing  
-If we have obtained your consent, we may also use your data, or permit selected third parties to use your data, to carry out a service for you (for example, to ensure prize fulfilment for a competition), to provide you with information about content, goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone. 
+If we have obtained your consent, we may also use your data, or permit selected third parties to use your data, to carry out a service for you (for example, to ensure prize fulfilment for a competition), to provide you with information about content, goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone.
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. 
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-The information you provide is held on a secure database and is used to improve the services to our readers and website users. Information you provide will be disclosed only in an aggregated and anonymised form to our marketing partners. It will not be linked to any personal information that can identify any individual person. 
+The information you provide is held on a secure database and is used to improve the services to our readers and website users. Information you provide will be disclosed only in an aggregated and anonymised form to our marketing partners. It will not be linked to any personal information that can identify any individual person.
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
 
@@ -84,15 +84,13 @@ Both the delicious. magazine newsletter and website contain links to other sites
 delicious. magazine takes every precaution to protect users’ information. Nonetheless, the transmission of data via the internet is not completely secure. We therefore cannot guarantee the security of your data transmitted to our site. Any transmission of personal data therefore remains at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 8. Notification of changes   
-delicious. magazine reserves the right, at its sole discretion, to change, modify or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the Privacy Policy periodically. Continued use of delicious. magazine following the posting of changes and/or modifications constitutes acceptance of the revised Privacy Policy. 
+delicious. magazine reserves the right, at its sole discretion, to change, modify or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the Privacy Policy periodically. Continued use of delicious. magazine following the posting of changes and/or modifications constitutes acceptance of the revised Privacy Policy.
 
 If you have any questions, please contact us at:  
-[help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk)  
-
+[help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk)
 
 delicious. magazine is part of Seven Publishing Group Ltd.  
 Sea Containers House, 20 Upper Ground, London, SE1 9PD.  
 Registered No. 04809240 England
 
-7 Publishing Copyright 2007  
-
+7 Publishing Copyright 2007
