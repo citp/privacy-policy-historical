@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritybodygossip.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220175444id_/http%3A//celebritybodygossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybodygossip.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621232243id_/http%3A//celebritybodygossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Body Gossip
 
