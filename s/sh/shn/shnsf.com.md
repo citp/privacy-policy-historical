@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shnsf.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120116id_/http%3A//www.shnsf.com/general/index.asp%3Fkey%3D427) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shnsf.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621233134id_/http%3A//www.shnsf.com/general/index.asp%3Fkey%3D427) for the most accurate reproduction.*
 
 # SHN: Broadway theatre, shows & events in San Francisco - Privacy Policy
 
