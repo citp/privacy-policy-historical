@@ -1,116 +1,49 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219000502id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621163333id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SF Station Privacy Policy
 
-**World Cafe Productions, Inc. (SF Station ) Privacy Policy**
+Effective Date: April 1, 2009
 
-SF Station, a division of World Cafe Productions, Inc., is strongly committed to protecting the privacy of its users. All Products and Services on SF Station (as defined in our Terms and Conditions) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable on the SF Station Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout SF Station near the bottom of most pages.
+Boulevards New Media, Inc., a California corporation (hereafter, "us," "we" or "our"), is committed to protecting your privacy. This Website Privacy Policy ("Privacy Policy") is provided in order to ensure the confidence of users of and visitors to (hereafter, "you" or "your") this Website (defined below), and is intended to comply with the State of California Online Privacy Protection Act of 2003.
 
-This Privacy Policy governs the use and collection of information from you by World Cafe Producitons, Inc., d/b/a SF Station ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms & Conditions Agreement.
+This Privacy Policy governs the use and collection of information from you by SF Station ("we" or "us") through your use of this site and our online services. This Privacy Policy does not apply to any other information you may provide us through other means (e.g., via mail, via telephone or at a live event).
 
-IP ADDRESSES:
+This Privacy Policy is made effective as of the Effective Date set forth above, but we reserve the right to add, change, update, or modify this Privacy Policy at any time and without notice by posting such addition, change, update, or modification on the Website. Any such addition, change, update or modification will be effective immediately upon posting on the Website. Please check this page periodically for changes. Information collected prior to the time any change is posted will be used according to the rules and policies that are applied at the time the information was collected.
 
-An IP address is a number assigned to the computer which is requesting a web page from our site. Usually it is not your personal computer, but a computer used by your internet service provider or company network. SF Station uses IP addresses to help diagnose problems with our server, to administer our Web site, and to report aggregate information.
+**Traffic Data Collected.**  Like most web sites, our servers automatically track and collect some or all of the following information when you visit our Website, including: (i) your IP address, (ii) your domain server, (iii) the URL being requested, (iv) the referring URL, (v) your type of computer, (vi) the browser type and operating system used to make the request, (vii) the date and time of the request, and (viii) source of any link (collectively, "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Website. Our Websites use Traffic Data to help diagnose potential problems with our servers, to administer our Websites and to report and collect aggregate non-personal information. We do not associate Traffic Data with records containing personal information and cannot use Traffic Data to retrieve personal information from your computer.
 
-The information we collect includes:  
-\- The IP address of the computer making the request  
-\- The URL that is being requested  
-\- The date and time of the request  
-\- The referring URL  
-\- The browser type and operating system used to make the request
+**Cookies.**  Our Websites use cookies to track individual site usage. A cookie is a small amount of data that is sent to your internet browser from a web server and stored on your computer's hard drive. Cookies are used to help target ads on the site based on user behavior and cookies also remember deliberate action taken by the user on our Websites, such as logging into services. For example, our Website uses cookies to ensure that you don't see the same ad repeatedly. You, through your browser preferences if your browser so permits, are free to decline our cookies, but in doing so may be excluded from some of our Websites' features. We therefore recommend, in order to maximize your user experience in regard to our Websites, products and services, that you leave your browser preferences set to accept cookies.
 
-COOKIES:
+**Personal Information Collected.**  Our Website may require registration for the use of certain features, products or services, and such registration forms request that you provide us with information that personally identifies you ("Personal Information"). Personal Information we request includes some or all of the following: (i) your name, (ii) address, (iii) home telephone number, (iv) employer's name, (v) work telephone number, (vi) e-mail address, (vii) demographic information, and (viii) any other Personal Information that you may voluntarily provide to us but are not required to. We also provide you with the opportunity to advise you of site and newsletter preferences. If you communicate with us by email or complete online forms, any Personal Information provided in such communication may be collected by us.
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive.
+We do not share Personal Information with advertisers or any other third parties, except in the following limited circumstances:
 
-We use cookies to help target ads based on user behavior. For example, our site uses cookies to make sure you don't see the same ad repeatedly.
+**Consent.**  In the event and to the extent we have your consent. In such cases, we will provide opt-in consent for the sharing of any sensitive personal information.
 
-We also use cookies to remember certain actions you take, such as logging in to one of our services, voting in our polls, or remembering a set of search results you requested. Most internet web browsers will allow you to adjust your cookie settings. However, some SF Station services will not work if you disable our ability to set cookies.
+**Affiliated or Trusted Persons.**  We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. We occasionally utilize trusted third parties to perform certain functions on our behalf. These authorized third parties may be given access to Personal Information in order to perform their designated function but are contractually bound to maintain the confidentiality and security of the Personal Information. Furthermore, such third parties are restricted from using or in any way altering data other than in accordance with their expressed contractual function.
 
-Some of our third party partners use cookies. Please see the section on Third Party Advertising and Content for specific information and links to third party privacy policies.
+**Enforcement or Protection.**  We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of us, our users or the public as required or permitted by law. Mergers and Acquisition. If we becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-REGISTRATION:
+**Generally.**  We use your Personal Information to send you information about our company or our products or services, to respond to any inquiries you may make with us, or to contact you when necessary. We use your Traffic Data in order to assess future changes to our Website in order to enhance your experience on the Website. In the event you receive e-mail from us, you choose to opt out of receiving future mailing at any time by following the links provided therein.
 
-SF Station requires registration for these features on our site:
+**Email Newsletter and Services.**  We require your email address in order to sign up for our newsletter. Your email may be shared and used by any of our divisions, subsidiaries or affiliates in connection with the newsletter; however, such information will not be given or sold to any third parties.
 
-Listing your business  
-Listing your event
+**Giveaways, Contests and Surveys.**  If you sign up to become eligible for a giveaway, contest or take part in an online survey on any of our Websites, we will ask for some Personal Information as it pertains to said feature or service. In such case, your Personal Information (a) will be used for the expressed purpose of that giveaway, contest or survey, including, for example, the notification of contest winners, (b) may be shared between our divisions in connection with that giveaway, contest or survey, and (c) may be shared with, and only with, the sponsor of said giveaway, contest or survey, except that if the giveaway, contest or survey has its own terms, and those terms conflict with the terms of this Privacy Policy, the terms of the giveaway, contest or survey shall govern the use of the Personal Information collected.
 
-Our site's registration form requires users to give us your email address and the ability to store other information, such as address, phone number and zip code. Your contact information is only used to contact you if there is a problem with your account. Reasons we may need to contact you include changes to our site which require action on your part. We currently do not use this information to send marketing information to you, and any information reported to advertisers is on an aggregate, not an individual basis.
+**Contact Forms.**  Some of our Websites feature contact forms to assist users in directing their feedback to the correct party. If you send feedback to any of our Websites and include a valid email address, we may reply to the user. The reply will be used to provide the user with additional information, answer a user question or direct the user to another source for information. Personal Information sent to any of our divisions will be kept confidential in accordance with this Privacy Policy and may be used in aggregate to help guide policy decisions at any or all of our divisions. However, we will freely use, and cannot guarantee the confidentiality of, any information that does not constitute Personal Information.
 
-You can change your personal information and password at any time by going to our account page. You may opt-out of receiving future mailings, should we decide to do them; see the choice/opt-out section below.
+You may choose not to provide us with any Personal Information. In the event you do not provide your Personal Information, while you can still access and use a substantial portion of the Website, you will not have access to certain portions of the Website, or to certain of our products or services. In addition, we will not be able to respond to any inquiry you may have. If you do not wish to receive information and promotional material from us, you may select the appropriate "opt-out" option each time we ask you for Personal Information.
 
-NEWSLETTERS:
+In order to ensure that all of your Personal Information is correct and up-to-date, at any time you may visit your personal profile. Through your personal profile you may: (a) review and update your Personal Information that we have already collected; or (b) choose whether or not you wish us to send you information about our company or promotional material from our company.
 
-We require your email address to sign up for most of our newsletters. Your e-mail address will be kept private unless we have your explicit permission to do otherwise.
+Please understand that any information you share or post on the internet or otherwise public area, such as a message board or blog, becomes public and therefore is not governed by this Privacy Policy. This Privacy Policy does not apply to any information, postings, message or comments that you choose to make public and therefore we will not be responsible for any misuse of that information. We recommend that you do not post personal information on any message boards, blogs or comment space, including letters to us or any of our divisions, that you intend to keep private.
 
-ORDER FORMS:
+You will note the presence of third party advertiser on our Websites. In addition, from time to time these advertisers may post their own giveaways, contest and surveys or requests for registration. If you respond, in any way, to an advertiser tile, banner, contest, giveaway, survey or link on any of our Websites, this Privacy Policy not apply and you will then be subject to the privacy policy, terms, conditions and copyright policies of the advertiser's website and governing policies, divisions or bodies. For example, we do not control how third party advertisers use cookies that originate from their own websites even if linked from one of our Websites.
 
-Our site uses an order form when customers purchase services from us. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to get in touch with the customer when necessary. Reasons we may contact you include problems with the payment transaction or credit processing. If you purchase an Enhanced Event or Business Listing from SF Station , we may contact you regarding the content of the ad if it is missing information or has any questionable information. Financial information that is collected is used to bill the user for services. Contact information and financial information are kept private and is used for no other purpose than what is indicated above.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Website and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Any financial information provided by users is sent via a secure server and encrypted for user protection. SF Station does not see, store or retain credit card numbers. Credit card information is submitted directly to Verisign, a third party that processes the financial transaction.
+Some vendors such as Google use cookies to serve ads on our sites. Google's DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-CONTACT FORMS:
+Our Websites sometimes provides links and pointers to various websites maintained by other organizations. Our Websites provide these links as a convenience to our users, but does not operate, control or endorse these outside linked sites unless otherwise expressly and duly noted. We are solely responsible for the Websites owned and operated by divisions of Boulevards New Media, Inc. In addition, various partnered sites are governed under contractual agreements which incorporate this Privacy Policy. WE, ON OUR OWN BEHALF AND ON BEHALF OF OUR DIVISIONS, SUBSIDIARIES, AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, AND CONTRACTORS, EXPRESSLY DISCLAIM ANY OBLIGATION, RESPONSIBILITY OR LIABILITY FOR THE COLLECTION, USE OR DISTRIBUTION OF INFORMATION COLLECTED THOUGH ANY THIRD PARTY SITES. We encourage you to read the privacy policies contained on each of the websites you visit.
 
-SF Station features a contact page to assist users in directing their feedback to the correct party.
-
-If a user sends feedback to SF Station and includes a valid email address, SF Station may reply to the user. The reply will be used to provide the user with additional information, answer a user question, or direct the user to another source for information.
-
-Information submitted to SF Station via the user contact form will be kept confidential by SF Station . Information in the feedback may be used in aggregate to help guide policy decisions at SF Station . For example, if a certain number of people write in requesting the same service, we may use that information in our decision to begin providing that service.
-
-SF Station cannot guarantee the confidentiality of feedback sent to outside sources.
-
-ADVERTISER SUBMISSION FORMS:
-
-On SF Station pages related to advertising, we provide advertising inquiry forms. If a user submits information via these forms and requests information, SF Station will provide the user information using one of the contact channels provided.
-
-CONTESTS & SURVEYS:
-
-SF Station runs contests on our site in which we ask visitors for contact information (like email address). Your contact information is used to contact you if you are a winner in the contest. SF Station keeps this information private. However, contest sponsors may request this information from SF Station . If we plan to use this information for secondary purposes or plan to provide this information to contest sponsors, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for purposes.
-
-SF Station 's contest forms may also ask visitors for demographic information (like zip code, age, or income level). This information is shared with advertisers on an aggregate basis only. We may ask for contact information if we are providing an incentive to users for completing our surveys. The contact information is kept private and only used to contact you if necessary. Your contact information is used to contact you if you are a winner in the contest. For surveys, contact is only necessary if there is an incentive associated with filling out the survey, and we need to provide you with the incentive (gift, money, etc.). It is kept separate from any demographic information you provide. If we plan to use this information for those purposes, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for those purposes.
-
-CHILDREN:
-
-SF Station and World Cafe Productions, Inc., take special care to protect the safety and privacy of children using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet.
-
-THIRD PARTY ADVERTISING AND CONTENT:
-
-In addition to partnerships with other companies, SF Station contains many links to advertiser and content web sites, including but not limited to those listed below. If you choose to visit and/or use the services provided by those sites, you may be asked by those sites to provide certain personally indentifiable information. Some of this information may, on an individual or aggregated basis, be shared with us. However, we will keep any individually identifiable information private. Please be aware that SF Station is not responsible for the privacy practices or the content of other Web sites, even if our name or logo may appear on those sites (aka co-branded). Third party web sites may appear in a new window, or they may appear in a frame. If frames are used, you may still see our site's URL in the address window, but you are actually on another web site. In most cases, any third party web page, even in a frame, is branded with their name. We encourage you to be aware when you leave our site and read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our privacy policy applies solely to SF Station . 
-
-Following are some of the third parties affiliated with SF Station :
-
-LIST THIRD PARTIES HERE
-
-Zedo:   
-Zedo is a service we use to display advertising on our site. Zedo's Privacy Policy is [located here](http://www.zedo.com/zedo/company/privacy.jsp).
-
-SECURITY:
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-
-Any financial information provided by users is sent via a secure server and encrypted for user protection.
-
-ILLEGAL ACTIVITY:
-
-SF Station may be asked by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or at our discretion in order to cooperate with a law enforcement investigation, without prior notice to you. SF Station reserves the right to share personal identifiable information to cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful.
-
-CHOICE/OPT OUT:
-
-If there is a possibilty that we use non-aggregate information for marketing purposes or to sell to third parties, we will notify users at the point at which we collect the information and allow users to opt-out of having the information used for those purposes. In the unlikely event that we would make previously collected individually identifiable information available, we would notify our users via email and allow them the option of opting out of having this information disclosed.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-CORRECT/UPDATE:
-
-This site gives users the following options for changing and modifying information previously provided.
-
-CONTACTING THE WEB SITE:
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us:
-
-SF Station Support  
-1475 Folsom Street, Suite 200  
-San Francisco CA 94103
-
-You can also contact us via email, by [clicking here](https://web.archive.org/app/contact/us.php).
+If you have any questions about this Privacy Policy, the practices of our Websites or your dealings with our Websites, please [contact us](https://web.archive.org/app/contact/us.php).
