@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibef.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219001125id_/http%3A//www.ibef.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibef.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621215932id_/http%3A//ibef.org/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,14 +12,3 @@
 **For More Information**
 
 If you have any questions or comments about this policy, our services, or your experience with our site you can drop us a mail at [india-now@ibef.org](mailto:india-now@ibef.org)
-
-  
-|    
----  
-   
-   
-__  
-   
-|  |   
-  
-
