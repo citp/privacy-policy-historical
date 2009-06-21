@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205073339id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621084259id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Bplans.com
 
 | 
 
-[](https://www.truste.org/validate/3759)  
+[](https://www.truste.org/validate/3759)
+
 This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/?affiliate=pas), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
-1\. What personally identifiable information of yours or a third party is collected through the website.  
-2\. The organization collecting the information.   
-3\. How the information is used.   
-4\. With whom the information may be shared.   
-5\. What choices are available to you regarding collection, use and distribution of the information.   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Palo Alto Software control.   
-7\. How you can correct any inaccuracies in the information. 
+  1. What personally identifiable information of yours or a third party is collected through the website.
+  2. The organization collecting the information. 
+  3. How the information is used.
+  4. With whom the information may be shared.
+  5. What choices are available to you regarding collection, use and distribution of the information.
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Palo Alto Software control.
+  7. How you can correct any inaccuracies in the information.
+
 
 
 If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to [webteam@paloalto.com](mailto:webteam@paloalto.com?subject=Privacy) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
@@ -26,10 +28,13 @@ Palo Alto Software, Inc. works with a number of third party web sites through af
 
 The "Send Page to A Friend" feature collects your email address only temporarily, to send your email correctly. 
 
-Palo Alto Software uses clear gif images on our site. These images are small clear images that can't actually be seen on the site, thus making them invisible. These images are used for three purposes:  
-1\. We use the images for spacing and page layout on the page. This helps the page be more readable and attractive.  
-2\. We use the images to help with our stats provider to track users movements throughout the site. This tracking is not personally identifiable, so each user's data is anonymous. We use this information to improve our site for our visitors by changing navigation and site structure to let users more easily find what they're looking for.  
-3\. We use the image in HTML e-mails to alert us that a user has opened the e-mail. This is used as a tracking method only, and again, it is not personally identifiable so users remain anonymous. If you are subscribed to our e-mails and wish to opt-out, send an e-mail to [webteam@paloalto.com](mailto:webteam@paloalto.com?subject=Privacy) with the word REMOVE in the message or subject. 
+Palo Alto Software uses clear gif images on our site. These images are small clear images that can't actually be seen on the site, thus making them invisible. These images are used for three purposes:
+
+  1. We use the images for spacing and page layout on the page. This helps the page be more readable and attractive.
+  2. We use the images to help with our stats provider to track users movements throughout the site. This tracking is not personally identifiable, so each user's data is anonymous. We use this information to improve our site for our visitors by changing navigation and site structure to let users more easily find what they're looking for.
+  3. We use the image in HTML e-mails to alert us that a user has opened the e-mail. This is used as a tracking method only, and again, it is not personally identifiable so users remain anonymous. If you are subscribed to our e-mails and wish to opt-out, send an e-mail to [webteam@paloalto.com](mailto:webteam@paloalto.com?subject=Privacy) with the word REMOVE in the message or subject.
+
+
 
 Palo Alto Software will not disclose to any third party any information or data submitted by Users of this web site, without the User's prior permission, unless Palo Alto Software has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; or (b) protect and defend the rights or property of Palo Alto Software. 
 
@@ -53,6 +58,4 @@ Legal Disclaimer: We may disclose personal information when required by law or i
 
 If you have questions, we can be reached by e-mail at [customerservice@paloalto.com](mailto:customerservice@paloalto.com?subject=Privacy) or direct them to the Palo Alto Software, Inc. site coordinator at [pat@paloalto.com](mailto:pat@paloalto.com?subject=Privacy) . 
 
-|  | 
-
-A D V E R T I S I N G
+| 
