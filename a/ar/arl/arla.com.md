@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220032254id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081933id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**You need to upgrade your Flash Player** This is replaced by the Flash content. Place your alternate content here and users without the Flash plugin or with Javascript turned off will see this. Content here allows you to leave out `noscript` tags.
 
 **Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after.**
 
