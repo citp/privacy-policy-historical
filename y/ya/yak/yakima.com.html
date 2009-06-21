@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yakima.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218103528id_/http%3A//yakima.com/PrivacyNotice.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yakima.com privacy policy that was archived on 2009-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621233332id_/http%3A//www.yakima.com/privacy-notice.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <!-- Style Sheet -->
@@ -85,167 +85,27 @@
   </head>
 
 	<!-- BODY tag: same for all pages -->
-	<body bgcolor="#dfd5c4" background="/gfx/main/bgtile.jpg">
+	<body>
 
 		<!-- Outer Table: Centers the site -->
 		<table cellpadding="0" cellspacing="0" border="0" width="887" align="center"><tbody><tr><td>
 			
 
-<!-- Top Navbar -->
-
-<style type="text/css">
-   .planetplaybacklogo {
-      text-align:right;
-      position:absolute;
-      top:6px;
-      width:560px;
-   }
-   
-   .quoteboxcontainer 
-   { 
-      position: absolute;
-      margin-left: -270px;
-      padding-top: 5px;
-      top: 55px;
-   }
-   
-   .qutoeboxstart 
-   {
-      z-index:200000;
-      position: absolute;
-      margin-left: 285px;
-   }
-   .quotebox 
-   {
-      width: 280px;
-      border: solid 1px #c42f35;
-      margin-top: 11px;
-      position: absolute;
-      z-index: 100000;
-      background-color: #fff;
-      padding: 25px;
-	   /*
-      filter:alpha(opacity=90);
-	   -moz-opacity:0.90;
-	   -khtml-opacity: 0.90;
-	   opacity: 0.90;
-	   */
-	   font-size: 14px;
-	   font-weight: bold;
-	   font-family: Tahoma;
-   }
-   
-   * html .quotebox {
-      width: 325px;
-   }
-   
-   * html .homequotebox .quotebox {
-      width: 270px;
-   }
-   
-   .subscribemessage 
-   {
-      padding-top: 10px;
-   }
-
-</style>
-
-<script type="text/javascript">
-   var _keepQuotationBoxMenuOpen = false;
-   var _newsletterIsFocus = false;
-   var _quotationBoxWaiteTime = 300;
-   
-   function checkQuotationBoxMenu( checkAgain ) {
-      if( !_keepQuotationBoxMenuOpen && !_newsletterIsFocus ) $( '.quoteboxcontainer' ).hide();
-      else if( checkAgain ) setTimeout( 'checkQuotationBoxMenu()', _quotationBoxWaiteTime );
-   }
-   
-   function validEmail( val ) {
-      var filter=/^.+@.+\..{2,3}$/
-      
-      return filter.test( val );
-   }
-
-   $(document).ready(
-      function() {
-         $('.newsletter').hover(
-            function() { $('.quoteboxcontainer').show(); _keepQuotationBoxMenuOpen = true; },
-            function() { _keepQuotationBoxMenuOpen = false; setTimeout( 'checkQuotationBoxMenu(false)', _quotationBoxWaiteTime ); }
-         );
-         
-         $( '.quoteboxcontainer' ).hover(
-            function() { _keepQuotationBoxMenuOpen = true; },
-            function() { _keepQuotationBoxMenuOpen = false; setTimeout( 'checkQuotationBoxMenu(true)', _quotationBoxWaiteTime ); }
-         );
-         
-         $( '#newsletteremail' ).focus( function() { _newsletterIsFocus = true; } );
-         $( '#newsletteremail' ).blur( function() { _newsletterIsFocus = false; } );
-         
-         $( '.newslettersubscribe' ).click(
-            function() {
-               var emailText = $('#newsletteremail').val();
-            
-               _keepQuotationBoxMenuOpen = true;
-               _newsletterIsFocus = true;
-               
-               if( !validEmail( emailText ) ) {
-                  $( '.subscribemessage' ).html(
-                     'Please enter a valid e-mail address.'
-                  );
-                  
-                  $( '.subscribemessage' ).show();
-                  
-                  _keepQuotationBoxMenuOpen = false;
-                  _newsletterIsFocus = false;
-                  return;
-               }
-               
-               $.get( 
-                  '/SubscribeToNewsletter.ashx', 
-                  { email: emailText, type: 'subscribe' },  
-                  function(data) {
-                     if( data == 'new' ) {
-                        $( '.subscribecontainer' ).hide();
-                        $( '.subscribemessage' ).html(
-                           'Thank you for subscribing to the Yakima newsletter.'
-                        );
-                     } else if( data == 'updated' ) {
-                        $( '.subscribemessage' ).html(
-                           'Thank you for your subscription. You were already subscribed to the Yakima newsletter.'
-                        );
-                     } else {
-                        $( '.subscribemessage' ).html(
-                           'There was a problem in trying to subscribe to the newsletter. Please try again later.'
-                        );
-                     }
-                     $( '.subscribemessage' ).show();
-                     
-                     _keepQuotationBoxMenuOpen = false;
-                     _newsletterIsFocus = false;
-                  }
-               );
-            }
-         );
-      }
-   );
-</script>
-
-<div class="planetplaybacklogo"><img style="cursor:pointer;" src="/gfx/gomighty/pp_logo_static.gif" onmouseover="this.src='/gfx/gomighty/pp_logo_roll.gif'" onmouseout="this.src='/gfx/gomighty/pp_logo_static.gif'" onclick="self.location='/go-mighty/planet-payback.aspx'"></div>
 <table cellpadding="0" cellspacing="0" border="0" width="887">
 	<tbody><tr>
 		<td>
-			<a style="position:absolute" href="/Default.aspx"><img src="/gfx/main/logo.gif" width="236" height="74" border="0" alt="Yakima.com"></a>
+			<a style="position:absolute" href="/Default.aspx"><img src="/gfx/main/logo.gif" width="394" height="74" border="0" alt="Yakima.com"></a>
 			<img width="236" height="74" border="0" src="/images/spacer.gif"><br>
 		</td>
 		<td>
 			<form action="/Search.aspx" name="searchForm" method="post">
 			   <table border="0" cellpadding="0" cellspacing="0" align="right">
 			      <tbody><tr>
-			         <td style="border-right: solid 1px #938a8b;padding-right:5px;">
+			         <td>
 				         <table border="0" width="150" cellpadding="0" cellspacing="5">
 					         <tbody><tr>
 						         <td align="center">
-							         <input class="searchInput" name="query" type="text" id="query" style="WIDTH:120px">
+							         <input class="searchInput" name="query" type="text" id="query" style="WIDTH:120px" maxlength="20">
 						         </td>
 						         <td align="center" valign="middle">
 							         <input type="image" value="" name="" src="/gfx/main/btn_search.png" border="0" align="center" valign="middle" onclick="
@@ -254,31 +114,10 @@
 					         </tr>
 					         <tr>
 						         <td colspan="2" align="right">
-							         <nobr><a href="http://yakima.custhelp.com"><img src="/gfx/main/topbtn_askquestion.gif" width="86" height="17" border="0" alt="Ask a Question"></a><a href="/support/contact.aspx"><img src="/gfx/main/topbtn_contactus.gif" width="69" height="17" border="0" alt="Contact Us"></a><a href="/site-map.aspx"><img src="/gfx/main/topbtn_sitemap.gif" width="54" height="17" border="0" alt="Site Map"></a></nobr><br>
+							         <nobr><a href="http://yakima.custhelp.com"><img src="/gfx/main/topbtn_askquestion.gif" border="0" alt="Support"></a><a href="/support/contact.aspx"><img src="/gfx/main/topbtn_contactus.gif" width="69" height="17" border="0" alt="Contact Us"></a><a href="/site-map.aspx"><img src="/gfx/main/topbtn_sitemap.gif" width="54" height="17" border="0" alt="Site Map"></a></nobr><br>
 						         </td>
 					         </tr>
 				         </tbody></table>
-			         </td>
-			         <td style="padding-left:10px;">
-			            <a href="javascript:void(0)" class="newsletter"><img src="/images/newsletter/newsletter-icon.gif" width="60" height="38" border="0"></a><br>
-			            <div class="quoteboxcontainer" style="display:none;">
-			               <div class="qutoeboxstart">
-			                  <img src="/images/newsletter/newsletter-quotebox-start.gif" width="23" height="12" border="0">
-			               </div>
-			               <div class="quotebox">
-			                  <div class="subscribecontainer">
-			                     Enter your email address and keep up with all the goings-on
-			                     at Yakima.<br>
-			                     <br>
-			                     <input id="newsletteremail" type="textbox" style="width: 260px;">
-			                     <a href="javascript:void(0);" class="newslettersubscribe">
-			                        <img src="/images/newsletter/newsletter-submit-arrow.gif" width="9" height="17" border="0" align="absmiddle"></a>
-			                  </div>
-			                  <div class="subscribemessage" style="display:none;">
-			                     Thank you for subscribing to Yakima's newsletter.
-			                  </div>
-			               </div>
-			            </div>
 			         </td>
 			      </tr>
 			   </tbody></table>
@@ -293,8 +132,8 @@
          img.menuitem { cursor: pointer; }
          
          div.submenu { position: absolute; border: solid 1px #000; background-color: #444; z-index: 1000; }
-         div.submenuitem a { margin-left: 10px; display: block; background: transparent url("/hmenu/img/navbtnbg3.gif") repeat-x 10px; height: 21px; line-height:1.5em; font-family: Arial,Helvetica,sans-serif; color: #ffffff ! important; z-index: 2000;}
-         div.submenuitem a:hover { text-decoration: none; }
+         div.submenuitem a { margin-left: 10px; display: block; background: transparent url("/hmenu/img/navbtnbg3.gif") repeat-x 10px; height: 21px; line-height:1.5em; font-family: Arial,Helvetica,sans-serif; color: #ffffff ! important; z-index: 9999;}
+         div.submenuitem a:hover { text-decoration: none; z-index: 9999; }
          
          div.submenu a.submenuend { background: none ! important; }
       </style><script type="text/javascript">
@@ -363,7 +202,7 @@
                var imageObj = new Image();
                imageObj.src = preLoadImageArray[i];
             }
-         </script><div style="width: 887px;"><div class="mainmenu"><img class="menuitem" alt="Home" title="Home" border="0" src="/gfx/main/btn_home_1.gif" out="/gfx/main/btn_home_1.gif" over="/gfx/main/btn_home_2.gif" link="/default.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Rack Basics" title="Rack Basics" border="0" src="/gfx/main/btn_rackbasics_1.gif" out="/gfx/main/btn_rackbasics_1.gif" over="/gfx/main/btn_rackbasics_2.gif" link="/rack-basics.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Fit My Car" title="Fit My Car" border="0" src="/gfx/main/btn_fitmycar_1.gif" out="/gfx/main/btn_fitmycar_1.gif" over="/gfx/main/btn_fitmycar_2.gif" link="/Consumer/Step1.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Products" title="Products" border="0" src="/gfx/main/btn_products_1.gif" out="/gfx/main/btn_products_1.gif" over="/gfx/main/btn_products_2.gif" link="/racks/"><br><div class="submenu" style="width: 105px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/racks/rack-systems/default.aspx ">Rack Systems</a></div><div class="submenuitem"><a href="/racks/cargo/">Cargo</a></div><div class="submenuitem"><a href="/racks/bike/">Bike</a></div><div class="submenuitem"><a href="/racks/water/">Water</a></div><div class="submenuitem"><a href="/racks/snow/" class="submenuend">Snow</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Find A Dealer" title="Find A Dealer" border="0" src="/gfx/main/btn_wheretobuy_1.gif" out="/gfx/main/btn_wheretobuy_1.gif" over="/gfx/main/btn_wheretobuy_2.gif" link="/dealers/"><br></div><div class="mainmenu"><img class="menuitem" alt="Support" title="Support" border="0" src="/gfx/main/btn_support_1.gif" out="/gfx/main/btn_support_1.gif" over="/gfx/main/btn_support_2.gif" link=""><br><div class="submenu" style="width: 140px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="http://yakima.custhelp.com/cgi-bin/yakima.cfg/php/enduser/std_alp.php">Online Support</a></div><div class="submenuitem"><a href="/support/rack-catalog.aspx">Catalog Request</a></div><div class="submenuitem"><a href="/support/rack-warranty.aspx">Warranty Registration</a></div><div class="submenuitem"><a href="/support/contact.aspx" class="submenuend">Contact Us</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Yakland" title="Yakland" border="0" src="/gfx/main/btn_yakland_1.gif" out="/gfx/main/btn_yakland_1.gif" over="/gfx/main/btn_yakland_2.gif" link=""><br><div class="submenu" style="width: 127px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/yakland/our-story.aspx">The Yak Story</a></div><div class="submenuitem"><a href="/yakland/design-philosophy.aspx">Design Philosophy</a></div><div class="submenuitem"><a href="/yakland/partners.aspx">Yak Partners</a></div><div class="submenuitem"><a href="/yakland/careers.aspx">Careers</a></div><div class="submenuitem"><a href="/yakland/press.aspx" class="submenuend">Press Rooom</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Go Mighty" title="Go Mighty" border="0" src="/gfx/main/btn_gomighty_1.gif" out="/gfx/main/btn_gomighty_1.gif" over="/gfx/main/btn_gomighty_2.gif" link=""><br><div class="submenu" style="width: 115px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/go-mighty/road-warriors.aspx">Road Warriors</a></div><div class="submenuitem"><a href="/go-mighty/planet-payback.aspx">Planet Payback</a></div><div class="submenuitem"><a href="/go-mighty/yak-challenge.aspx">Yak Challenges</a></div><div class="submenuitem"><a href="Javascript:PopupWin('http://www.yakimagrams.com','700','600','0');">Yakimagrams</a></div><div class="submenuitem"><a href="/go-mighty/yakywood.aspx">Yakywood</a></div><div class="submenuitem"><a href="/cycling" class="submenuend">Bike Vigilantes</a></div></div></div></div><div style="clear:both;"></div>
+         </script><div style="width: 887px;"><div class="mainmenu"><img class="menuitem" alt="Home" title="Home" border="0" src="/gfx/main/btn_home_1.gif" out="/gfx/main/btn_home_1.gif" over="/gfx/main/btn_home_2.gif" link="/default.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Rack Basics" title="Rack Basics" border="0" src="/gfx/main/btn_rackbasics_1.gif" out="/gfx/main/btn_rackbasics_1.gif" over="/gfx/main/btn_rackbasics_2.gif" link="/rack-basics.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Fit My Car" title="Fit My Car" border="0" src="/gfx/main/btn_fitmycar_1.gif" out="/gfx/main/btn_fitmycar_1.gif" over="/gfx/main/btn_fitmycar_2.gif" link="/Consumer/Step1.aspx"><br></div><div class="mainmenu"><img class="menuitem" alt="Products" title="Products" border="0" src="/gfx/main/btn_products_1.gif" out="/gfx/main/btn_products_1.gif" over="/gfx/main/btn_products_2.gif" link="/racks/"><br><div class="submenu" style="width: 105px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/racks/rack-systems/default.aspx ">Rack Systems</a></div><div class="submenuitem"><a href="/racks/bike/">Bike</a></div><div class="submenuitem"><a href="/racks/water/">Water</a></div><div class="submenuitem"><a href="/racks/snow/">Snow</a></div><div class="submenuitem"><a href="/racks/cargo/">Cargo</a></div><div class="submenuitem"><a href="/racks/camping/">Camping</a></div><div class="submenuitem"><a href="/Category.aspx?id=49" class="submenuend">Trailers</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Find A Dealer" title="Find A Dealer" border="0" src="/gfx/main/btn_wheretobuy_1.gif" out="/gfx/main/btn_wheretobuy_1.gif" over="/gfx/main/btn_wheretobuy_2.gif" link="/dealers/"><br></div><div class="mainmenu"><img class="menuitem" alt="Support" title="Support" border="0" src="/gfx/main/btn_support_1.gif" out="/gfx/main/btn_support_1.gif" over="/gfx/main/btn_support_2.gif" link=""><br><div class="submenu" style="width: 140px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="http://yakima.custhelp.com/cgi-bin/yakima.cfg/php/enduser/std_alp.php">Customer Support</a></div><div class="submenuitem"><a href="/support/rack-catalog.aspx">Catalog Request</a></div><div class="submenuitem"><a href="/support/rack-warranty.aspx">Warranty Registration</a></div><div class="submenuitem"><a href="/support/contact.aspx" class="submenuend">Contact Us</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Yakland" title="Yakland" border="0" src="/gfx/main/btn_yakland_1.gif" out="/gfx/main/btn_yakland_1.gif" over="/gfx/main/btn_yakland_2.gif" link=""><br><div class="submenu" style="width: 127px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/yakland/our-story.aspx">The Yak Story</a></div><div class="submenuitem"><a href="/yakland/design-philosophy.aspx">Design Philosophy</a></div><div class="submenuitem"><a href="/yakland/partners.aspx">Yak Partners</a></div><div class="submenuitem"><a href="/yakland/careers.aspx">Careers</a></div><div class="submenuitem"><a href="/yakland/press.aspx" class="submenuend">Press Room</a></div></div></div><div class="mainmenu"><img class="menuitem" alt="Fun House" title="Fun House" border="0" src="/gfx/main/btn_gomighty_1.gif" out="/gfx/main/btn_gomighty_1.gif" over="/gfx/main/btn_gomighty_2.gif" link=""><br><div class="submenu" style="width: 115px; display: none;"><img src="/gfx/main/spacer.gif" width="1" height="1"><br><div class="submenuitem"><a href="/go-mighty/planet-payback.aspx">Planet Payback</a></div><div class="submenuitem"><a href="/go-mighty/yak-challenge.aspx">Yak Challenges</a></div><div class="submenuitem"><a href="Javascript:PopupWin('http://www.yakimagrams.com','700','600','0');">Yakimagrams</a></div><div class="submenuitem"><a href="/go-mighty/yakywood.aspx">Yakywood</a></div><div class="submenuitem"><a href="/cycling" class="submenuend">Bike Vigilantes</a></div></div></div></div><div style="clear:both;"></div>
 <!-- End Top Navbar -->
 
 <!-- End Include Header on all pages -->
@@ -372,7 +211,7 @@
 <!-- Sub-Header ---> 
 	<div id="yBackground">
 		<div id="yContHeader"><!-- Change breadcrumbs links here -->
-		<span class="yBreadCrumbs"><a class="yBreadCrumbs" href="/Default.aspx">HOME</a></span><br>
+		<!--<SPAN class="yBreadCrumbs"><A class="yBreadCrumbs" href="/Default.aspx">HOME</A></SPAN><BR> -->
 			<img height="25" alt="" src="/gfx/main/spacer.gif" width="1" border="0"><br>
 			<table cellspacing="0" cellpadding="0" border="0" height="50">
 				<tbody><tr>
@@ -402,14 +241,14 @@
 
 				<!-- START BODY OF PAGE -->
 				<form name="Form1" method="post" action="PrivacyNotice.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDwtMTAyNjYyOTI3Mjt0PDtsPGk8MT47PjtsPHQ8O2w8aTwxPjs+O2w8dDw7bDxpPDA+O2k8MT47aTwzPjs+O2w8dDxwPGw8VGV4dDs+O2w8XGU7Pj47Oz47dDxwPHA8bDxBbHRlcm5hdGVUZXh0O0ltYWdlVXJsOz47bDxQcml2YWN5IG5vdGljZTsvZ2Z4L21haW4vaGRyX3ByaXZhY3lub3RpY2UuZ2lmOz4+Oz47Oz47dDxwPGw8VGV4dDs+O2w8L2dmeC9tYWluL2JnaW1hZ2UuanBnOz4+Ozs+Oz4+Oz4+Oz4+Oz45JbZtjH3CFK1rM3k4lmxYt3j/Ag==">
+<input type="hidden" name="__VIEWSTATE" value="dDwyNTM0MTkyOTt0PDtsPGk8Mz47PjtsPHQ8O2w8aTwxPjs+O2w8dDw7bDxpPDA+O2k8MT47aTwzPjs+O2w8dDxwPGw8VGV4dDs+O2w8XGU7Pj47Oz47dDxwPHA8bDxBbHRlcm5hdGVUZXh0O0ltYWdlVXJsOz47bDxQcml2YWN5IG5vdGljZTsvZ2Z4L21haW4vaGRyX3ByaXZhY3lub3RpY2UuZ2lmOz4+Oz47Oz47dDxwPGw8VGV4dDs+O2w8L2dmeC9tYWluL2JnaW1hZ2UuanBnOz4+Ozs+Oz4+Oz4+Oz4+Oz75D3gfDo8O6Gb5gd+gGwv7SBQftQ==">
 
 					
 					<!-- Outer Content Table: Different for most pages -->
 					<table cellpadding="0" cellspacing="10" border="0" width="858"><tbody><tr><td valign="top">
 						<span class="yBodyHeadline">COPYRIGHT AND PRIVACY NOTICE</span><p>
 						<b>COPYRIGHT AND TRADEMARK</b><br>
-						© 2008 Yakima Products, Inc.<br>
+						© 2009 Yakima Products, Inc.<br>
 						All rights reserved<br>
 						<br>
 						Yakima, Mighty Mounts, SKS, and Rack Dawg are registered trademarks of Yakima Products, Inc.<br>
@@ -452,12 +291,26 @@
 <!-- Start Include Footer on all pages -->
 
 <!-- Footer -->
+<center>
 <div id="yFooter">
-	<center>
-	<img src="/gfx/main/spacer.gif" width="1" height="38" border="0" alt=""><br>
-	<a href="/privacy-notice.aspx" class="yFooterCopy">Copyright &amp; Privacy Notice</a> | © 2008 Yakima Products, Inc. All Rights R eserved. (888) 925-4621.
-	</center>
+<div class="footwrap">
+<div class="f1"><a href="/privacy-notice.aspx" class="yFooterCopy">PRIVACY NOTICE</a></div>
+<div class="f2">© 2009 YAKIMA PRODUCTS, INC. ALL RIGHTS RESERVED.</div>
+<div class="f3">(888) 925-4621</div>
 </div>
+</div>
+<a href="/go-mighty/planet-payback.aspx"><img src="/gfx/main/footer_payback.gif" alt="" border="0"></a>
+<br>
+<br>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="yakima";</script>
+<script type="text/javascript">
+var addthis_options = 'delicious, digg, facebook, favorites, google, myspace, stumbleupon, twitter,yahoobkm, email, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</center>
+<br><br>
 
 <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -469,6 +322,7 @@
   pageTracker._trackPageview();
 </script>
 <!-- End Footer -->
+
 
 		<!-- Close outer centering table -->
 		</td></tr></tbody></table>
