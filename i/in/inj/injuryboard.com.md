@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the injuryboard.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219180341id_/http%3A//www.injuryboard.com/legal.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the injuryboard.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081044id_/http%3A//www.injuryboard.com/legal.aspx%23privacy) for the most accurate reproduction.*
 
-# Injuryboard.com | Privacy Statement, Disclaimer, and Terms of Use
+# Injuryboard.com Privacy Policy, Disclaimer, and Terms of Use
 
 InjuryBoard is a licensee of the [TRUSTe](http://www.truste.org/ "TRUSTe") Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Statement applies to the website [www.InjuryBoard.com](https://web.archive.org/). InjuryBoard aims to be your most trusted guide to personal injury legal, insurance and medical concerns on the Internet. In order to earn your trust, we at InjuryBoard would like to inform you of our policies and procedures as they relate to your privacy. Because InjuryBoard wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by [TRUSTe](http://www.truste.org/ "TRUSTe"), an outside and independent reviewer.
 
