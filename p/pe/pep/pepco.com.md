@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216101439id_/http%3A//www.pepco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621085214id_/http%3A//pepco.com/privacy) for the most accurate reproduction.*
 
 # Pepco - Privacy Policy
-
-## Updated November 1, 2005
 
 ### Table of Contents
 
@@ -83,7 +81,7 @@ When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; an
 
 ### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or send us an email at [correspondence@pepco.com](mailto:correspondence@pepco.com). 
+Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or [click here](https://www.pepco.com/contact/online/default.aspx) to contact us online. 
 
 ### Modification
 
