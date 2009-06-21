@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216002750id_/http%3A//www.southafrica.net/cultures/sv-SE/consumer.southafrica.net/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621062859id_/http%3A//www1.southafrica.net/cultures/sv-SE/consumer.southafrica.net/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Footer | South African Tourism
 
