@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182947id_/http%3A//www.pcspecialist.co.uk/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621231447id_/http%3A//www.pcspecialist.co.uk/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # PCSPECIALIST.CO.UK - Custom PCs, Custom Computers, Custom PC, Custom Built Computers, Gaming PC
 
@@ -21,6 +21,10 @@ The Company does not sell, rent or lease its client lists to third parties. The 
 The Company keeps track of the Web sites and pages our client's visit, in order to determine what Web sites and services are the most popular. This data is used to deliver customized content and advertising to clients whose behavior indicates that they are interested in a particular subject area. 
 
 The Company's Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the Web site; (b) protect and defend the rights or property of www.pcspecialist.co.uk, but not limited to these Company Web sites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its web sites, or the public. 
+
+**Protecting your Security**
+
+To ensure that your credit, debit or charge card is not being used without your consent, the Company will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998. 
 
 PC Specialist Ltd Customer Service 
 
