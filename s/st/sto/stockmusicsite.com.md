@@ -1,6 +1,37 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915070637id_/http%3A//www.stockmusicsite.com/stockmusic/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621181523id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
+
+new background music,  
+royalty free music bed as used in films and movie music for tv production.  
+royalty free music production can amp your productions, with **ads music** for phenomenal success.  
+**music podcast download** is available here plus **tv add music** for award-winning media.  
+royalty free sound library can drive your success, and with needledrop music sites there is no limit.  
+royalty-free stock music from around the world, with  
+licensing music for use in produced by critically acclaimed artists.  
+licensing commercial music is what you've been looking for, check out our **buyout royalty-free music** for the ultimate.  
+**pre-cleared music library** that you find here, plus **pre-cleared music sites** will help solve your production needs for royalty-free music library.  
+
+
+## music synchronization licensing
+
+  
+international music resources, radio tv commercial music, and new background music.  
+
+
+|  |   
+---  
+|  | 
+
+|  **     HOME    ** |  **     TESTIMONIALS    ** |  **     HYPERSEARCH    ** |  **     MUSIC    ** |  **     SOUND EFFECTS    ** |  **     BEATS & LOOPS    ** |  **     ARTISTS    ** |  **     SUPPORT    **  
+---|---|---|---|---|---|---|---  
+  
+  
+
+
+**Privacy Policy of StockMusicSite.com  
+**   
+
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
 
@@ -19,13 +50,13 @@ We know that you care how your information is used, and we appreciate your trust
 
   * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience.   
  
-  * **Composers and Publishers.   **When you purchase music here, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  
+  * **Composers and Publishers.   **When you purchase audio content at StockMusicSite.com, your contact information will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  
  
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
  
   * **Special Offers**.  We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may “opt-out”.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the “opt-in/opt-out” selection at the end of this policy.    
  
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
+  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores, sites or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
  
   * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
@@ -65,3 +96,27 @@ We know that you care how your information is used, and we appreciate your trust
 > We reserve the right to modify this policy in the future.
 
 *************************************
+
+  
+  
+  
+|  |  [](http://www.stockmusicsite.com/)  
+---|---  
+Copyright © 1996 - 2009 StockMusicSite.com               [Privacy Policy](https://web.archive.org/stockmusic/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/stockmusic/license.cfm)      Hostname: AXC1  
+  
+production music australia,  
+open for business music as used in films and location materiel audio video for tv production.  
+international music sites can amp your productions, with **presentation music** for phenomenal success.  
+**royalty free music sound** is available here plus **get royalty free music** for award-winning media.  
+music licensing publishing can drive your success, and with royalty free beach music there is no limit.  
+radio production tracks from around the world, with  
+licensing music for use in produced by critically acclaimed artists.  
+radio production songs is what you've been looking for, check out our **podcast music sites** for the ultimate.  
+**how to license songs for** that you find here, plus **royalty-free stock** will help solve your production needs for tv ad music com.  
+
+
+## corporate music genre
+
+  
+license commercial music, world production music, and production music australia.  
+
