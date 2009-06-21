@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219004839id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621064044id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
 
-# AmeriCares Privacy Policy- AmeriCares
+# AmeriCares Privacy Policy
 
 AmeriCares has established this privacy policy to demonstrate our commitment to maintaining the confidentiality and privacy of information about visitors to our web sites and donors.  This policy explains why we collect particular information and how we will protect your personal privacy within our web sites. The following also discloses our information gathering and dissemination practices for the web sites located at [www.americares.org](http://www.americares.org/), [www.americareshomefront.org](http://www.americareshomefront.org/), [www.campamerikids.org](http://www.campamerikids.org/), and [www.americaresfreeclinics.org](http://www.americaresfreeclinics.org/). These are collectively referred to below as “the Site.” 
 
@@ -16,7 +16,7 @@ This Privacy Policy notifies you of:
 6\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control   
 7\. How you can correct any inaccuracies in your information 
 
-Questions regarding this statement should be directed to AmeriCares International by sending an email to webmaster@americares.org. Please reference this Privacy Policy in your subject line. 
+Questions regarding this statement should be directed to AmeriCares International by sending an email to [websiteteam@americares.org](mailto:websiteteam@americares.org). Please reference this __Privacy Policy__ in your subject line. 
 
 **What Information We Collect and How We Use That Information** :   
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. When individuals make contributions to support AmeriCares through our website we will also require contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information We do not request or store sensitive information from our visitors or donors, such as credit card or social security numbers. 
@@ -43,14 +43,14 @@ Our Site may contain links to other Web sites. Please note that when you click o
 **Contacting the Web Site** :   
 If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, you may contact: 
 
-AmeriCares International 
+>   
+> **AmeriCares**
+> 
+> Attention: Web Team  
+> 88 Hamilton Avenue
+> 
+> Stamford, CT 06902
+> 
+> You can also send an email to [our web team.](mailto:websiteteam@americares.org)
 
-Attention: Webmaster  
-88 Hamilton Avenue
-
-Stamford, CT  06902
-
-You can also send an email to: [info@americares.org](mailto:info@americares.org)
-
-© 2008 AmeriCares | 88 Hamilton Avenue | Stamford, CT 06902    
-(800) 486-HELP | (800) 486-4357
+AmeriCares is approved by the Internal Revenue Service as a 501 (C) (3) tax-exempt organization, and all donations are tax deductible to the extent provided by law. AmeriCares Federal Identification Number (EIN) is 061008595. 
