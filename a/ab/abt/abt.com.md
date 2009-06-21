@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224082327id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621043644id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
 
 # Abt - Consumer Electronics Store and Appliance Store | Electronics
 
@@ -6,12 +6,11 @@
 
 |  | 
 
-| [Home](http://www.abt.com/) > [Customer Service](https://web.archive.org/custserv/abtCustServ.php3) > Privacy Policy   
+|   
 ---  
   
 | 
 
-  
 Abt respects each and every one of our customers' right to privacy. At no time will any personal information given to Abt (i.e. name, address, phone, email, purchase history, etc.) be sold or transferred to any other party. We have built our reputation on service and taking care of our customers beyond their expectations, and we will continue to provide these levels of service for many years to come.  
    
   
@@ -42,25 +41,4 @@ This Privacy Policy does not apply to other Web sites that may be accessible thr
   
 [ ](http://www.abt.com/custserv/abtContact.php3)
 
-[](http://www.abt.com/blog/)  
-  
-|  |   | 
-
-Assistance
-
-| 
-
-About Abt
-
-| 
-
-More Info
-
-| 
-
-Stay Informed
-
-Sign up for the latest information on new products, special offers and savings opportunities at Abt.  
-  
----|---|---|---|---  
-[](https://www.scanalert.com/RatingVerify?ref=www.abt.com) [](http://www.abt.com/abtSecurity.php3) | 
+[](http://www.abt.com/blog/)
