@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022356id_/http%3A//www.lamaloli.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622003211id_/http%3A//lamaloli.com/privacy_notice) for the most accurate reproduction.*
 
-# LamaLoLi - Kid's fashion online store
+# LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Disney and many more
 
 **1.     ****Purpose for Information Collection and Usage**
 
@@ -24,7 +24,7 @@ Furthermore, address and order data is collected and processed for our own marke
 
 Naturally, you may retract your permission for using, processing and forwarding data for marketing purposes at any time by sending us such notice.You may do so by send a message by mail LamaLoLi GmbH or via E-mail to [info@lamaloli.com](mailto:info@lamaloli.com).
 
-**2.     ****SSL (Secure Socket Layer)**
+ **2.     ****SSL (Secure Socket Layer)**
 
 In order to protect you personal data from unauthorized third party access, it is protected by SSL (Secure Socket Layer), which is used as standard, when sensitive data is transmitted.Thus, we might ask you to provide a proof of identity, before you will be able to view your personal information.The access to your customer account is protected by entering your password.
 
@@ -32,7 +32,7 @@ By using the SSL technology, before transmission to the server, your data is enc
 
 If you use the Internet Explorer as your browser, you will detect encrypted data transmission by the yellow lock symbol in the bottom browser bar.
 
-**3.     ****Cookies**
+ **3.     ****Cookies**
 
 Cookies are alphanumerical identifiers which are saved on the user’s computer when visiting an Internet website.Cookies cannot transfer viruses, cannot read hard drive data, forward your e-mail address and forward e-mails undetected or cannot not be read by other web servers.
 
@@ -51,17 +51,17 @@ A string that cannot be connected to you
 The first creation date of the Cookie  
  
 
-**4.     ****Content liability**
+ **4.     ****Content liability**
 
 The content of our pages is created with utmost care.But we do not assume responsibility for the correctness, completeness and timeliness of the content.
 
 As a service provider we are liable for our own content on theses pages according to the law, § 7 Abs.1 TMG.But according to §§ 8 to 10 TMG we, as a service provider, are not obliged to supervise transmitted or stored third party information or to investigate circumstances which point to illegal activity.Obligations to remove or inhibit the use of information according to the law remains untouched.Such a liability is only possible from the time receiving knowledge of a specific legal violation.We will remove such content immediately at the time we receive knowledge of such legal violation.
 
-**5.     ****Liability for Links**
+ **5.     ****Liability for Links**
 
 Our publication contains Links to external third party websites, on which we have no influence on the content.Thus we are not liable for such third party content.Each supplier and provider of the linked pages is responsible for them.
 
-**6.     ****Copyright**
+ **6.     ****Copyright**
 
 The content and work created by the site provider on his pages are governed by German Copyright Law.Third party contribution are marked as such.Duplication, editing, redistribution and any kind of usage beyond the copyright laws require written approval of each author and/or creator. Downloads and copies of this page is only permitted for private non-commercial use.
 
