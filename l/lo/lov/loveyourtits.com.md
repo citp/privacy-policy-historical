@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveyourtits.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219173347id_/http%3A//www.loveyourtits.com/MCE/lyt/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveyourtits.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621022835id_/http%3A//www.loveyourtits.com/MCE/lyt/0/privacy) for the most accurate reproduction.*
 
 # LoveYourTits.com :: Privacy Policy
 
