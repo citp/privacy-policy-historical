@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219051824id_/http%3A//www.thriftbooks.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftbooks.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621191906id_/http%3A//www.thriftbooks.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Thriftbooks - privacyPolicy
+# Thriftbooks Used Books - Privacy Policy
 
 ****Your privacy matters to us**  
 ** Welcome to Thrift Books. Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our Web site or purchasing products or services from us, you agree to be bound by this policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it. Please check back periodically.
