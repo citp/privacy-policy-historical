@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220173345id_/http%3A//masnstudios.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081939id_/http%3A//masnstudios.com/2007/08/privacy-policy.html) for the most accurate reproduction.*
 
-# - MASN Online
+# - MASNsports.com
 
   
-[](http://altfarm.mediaplex.com/ad/ck/10445-61388-22983-0?mpt=\[CACHEBUSTER\])
+
 
 * * *
 
@@ -50,3 +50,16 @@ To update your Personal Data or to make corrections, you can do so by sending us
 **Comments and Questions**
 
 If you have any questions, comments or concerns about this Online Privacy Policy or our data collection practices or to request that we delete your Personal Data, you can contact us via email at [info@masn.tv](mailto:info@masn.tv).
+
+  
+-[Discuss this article](http://www.mymasn.com/forum) or [write your own blog](http://www.mymasn.com/profiles/blog/list) at [myMASN.com](http://www.mymasn.com/)-
+
+* * *
+
+[](http://twitter.com/home?status=Currently%20browsing%20http://masnsports.com/2007/08/privacy-policy.html) |  |  |  |   
+---|---|---|---|---  
+  
+* * *
+
+  
+
