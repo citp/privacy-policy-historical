@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161600id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621021209id_/http%3A//www.logoonline.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Gay, Lesbian, Bisexual & Transgender TV Shows & Specials | Logo Online
 
 PRIVACY POLICY
+
+| 
 
 UPDATED: 08.14.2007     
   
@@ -163,4 +165,4 @@ This document is the sole statement of the Site's Privacy Policy and no summary,
 
 This Privacy Policy was last modified on August 14, 2007 and is effective immediately. 
 
-Copyright © 2007 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright � 2007 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
