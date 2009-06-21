@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219030125id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621083615id_/http%3A//www.marketwire.com/mw/include.do%3Fpageid%3D516) for the most accurate reproduction.*
 
 # Marketwire Privacy Policy
 
@@ -67,7 +67,7 @@ From time to time we will email client prospects whom we have reason to believe 
 We provide subscribers to our email newsletters with the opportunity to opt out of receiving promotional communications at the point when we request your information. After they have signed up, subscribers can change their preferences regarding promotional communications, can subscribe to or unsubscribe from any of our email newsletters and can modify other registration information previously provided to us by:
 
   1. Visiting [Hot Off The Wire by clicking here](http://www.ccnmatthews.com/news/hotw/signup.jsp) or
-  2. Visiting [Personal Beat by clicking here](https://web.archive.org/web/20081219030125id_/http%3A//www.marketwire.com/mw/include.do?module=MONITOR&pageid=519) or
+  2. Visiting [Personal Beat by clicking here](https://web.archive.org/web/20090621083615id_/http%3A//www.marketwire.com/mw/include.do?module=MONITOR&pageid=519) or
   3. Using the link provided at the bottom of any email newsletter we send to you. 
 
 
