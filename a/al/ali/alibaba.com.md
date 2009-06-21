@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216120234id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621035331id_/http%3A//www.alibaba.com/trade/servlet/page/help/rules_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Alibaba.com - Import Export Trade Leads
 
@@ -6,9 +6,9 @@
 
 
 ### PRIVACY POLICY   
-(Updated on August 23, 2007)
+(Updated on January 1, 2009)
 
-This is the Privacy Policy governing your use of the Alibaba.com Site. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Alibaba.com which by use of this Site you agree to accept. 
+This is the Privacy Policy governing your use of the Alibaba.com site (" **Site** ") and the collection, use, transfer and processing of your Collected Information by Alibaba.com Hong Kong Limited and those affiliates which provide the relevant Premium Services (collectively referred to as "Alibaba.com", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Alibaba.com Hong Kong Limited which by use of this Site you agree to accept. 
 
   
 
@@ -30,7 +30,7 @@ Registration Information: Publishing Information, Payment Information, Statistic
 
 ##  How We May Use Information 
 
-General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
+General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may provide your Collected Information to our affiliates and service providers under contract (such as customer care) to support the operation of the Site and our services. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. Your Collected Information may be transferred, stored, used and processed outside your home jurisdiction. In case of a merger with or transfer of business to another business entity, we will transfer your Collected Information to the entity which acquires the business (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your Collected Information). 
 
 Registration Information: We may use your Registration Information to provide services that you request or to contact you regarding additional services about which Alibaba.com determines that you might be interested. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
 
@@ -90,22 +90,18 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 ##  Changes to Privacy Policy 
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Alibaba.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that Alibaba.com return and/or destroy all copies of all or part of your Collected Information in Alibaba.com's possession. This Privacy Policy was last amended on April 10, 2003. 
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Alibaba.com in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that Alibaba.com return and/or destroy all copies of all or part of your Collected Information in Alibaba.com's possession. 
 
   
 
 
-##  Correcting Your Information 
+##  Accessing and Correcting Your Information 
 
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Alibaba.com. To update or correct such information, please [click here](http://www.alibaba.com/bin/user/edit). 
+You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Alibaba.com. 
 
   
 
 
 ##  Your feedback 
 
-Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com).
-
-You can opt out of email communications from Alibaba.com at any time from within each email or by contacting our service team by email at [alibaba@alibaba-inc.com](mailto:alibaba@alibaba-inc.com) or by phone at (+86) 571 88157806.
-
-You can also contact us by post at the following address: Alibaba.com Hong Kong Limited, 2403-05, Jubilee Centre, 18 Fenwick Street, Wanchai, Hong Kong. 
+Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by email to [privacy_global@service.alibaba.com](mailto:privacy_globa@service.alibaba.com) or by post to Alibaba.com Hong Kong Limited, Legal Department, 24F, Jubilee Centre, 18 Fenwick Street, Wanchai, Hong Kong.
