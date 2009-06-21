@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitbar.com privacy policy that was archived on 2007-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071005022157id_/http%3A//www.benefitbar.com/benefitbar/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitbar.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621232655id_/http%3A//www.benefitbar.com/benefitbar/home/privacy.php) for the most accurate reproduction.*
 
 # BenefitBar.com
 
