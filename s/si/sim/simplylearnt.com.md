@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222211132id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622155226id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - simplyLearnt
+# simplyLearnt-Privacy Policy
 
     \- We will never rent or sell your personally identifiable information to third parties for marketing purposes  
     \- We will never share your contact information with any other user without your consent  
