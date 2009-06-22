@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
 
 # Intertrust Technologies – Privacy
 
 | 
 
-[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/home/index.html)  
-[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/home/inforequestform.html)  
-[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/overview/trustcomputing.html)  
-[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/overview/drm.html)[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/licensing/index.html)
+[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/home/index.html)  
+[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/home/inforequestform.html)  
+[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/overview/trustcomputing.html)  
+[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/overview/drm.html)[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/licensing/index.html)
 
-[](https://web.archive.org/web/20081007050020id_/http%3A//intertrust.com/main/home/inforequestform.html)
+[](https://web.archive.org/web/20090622061007id_/http%3A//www.intertrust.com/main/home/inforequestform.html)
 
 |   |    
 ---|---  
   
-Copyright © 2003-2008  
+Copyright © 2003-2009  
 Intertrust Technologies Corp.  
 All rights reserved.
 
@@ -35,7 +35,7 @@ By accessing our Site, You are consenting to the information collection and use 
 
 **About Intertrust**
 
-Intertrust develops and licenses intellectual property for digital rights management (DRM), digital policy management (DPM), and trusted computing. We have 75 U.S. patents, hold over 100 issued patents, and have over 300 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
+Intertrust develops and licenses intellectual property for digital rights management (DRM), digital policy management (DPM), and trusted computing. We hold over 100 issued patents, and have over 300 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
 
 What personal information do we collect on the Site and why?  
 We collect several types of information on our Site including personal information, which generally is information that can be used to identify You individually, such as Your name, address, phone and fax numbers and email address (“Personal Information”). The information we collect depends on what services You use on our Site(s). We do not sell the information. The following is a more detailed explanation of these types of information, as well as when and how we use it.   
