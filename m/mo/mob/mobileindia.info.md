@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the mobileindia.info privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221010055id_/http%3A//www.mobileindia.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileindia.info privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622031626id_/http%3A//www.mobileindia.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile India
 
-We can be reached via e-mail at **talkdu (@) gmail (dot) com**
+At mobileindia.info, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit mobileindia.info, and how we safeguard your information. We never sell your personal information to third parties.
 
-For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
+Email Addresses  
+We never share your email addresses with anyone.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail.
+Log Files  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+Cookies and Web Beacons  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: http://www.google.com/privacy.html
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. http://www.google.com/privacy_ads.html
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
