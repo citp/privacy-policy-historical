@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221182702id_/http%3A//www.netdespatch.com/company/using_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622221036id_/http%3A//www.netdespatch.com/company/using_privacy.html) for the most accurate reproduction.*
 
 # NetDespatch Ltd - Web Services for Transport Companies
 
