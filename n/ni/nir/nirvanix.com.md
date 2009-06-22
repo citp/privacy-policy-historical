@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nirvanix.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220172218id_/http%3A//www.nirvanix.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nirvanix.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622090021id_/http%3A//www.nirvanix.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Nirvanix SDN- Privacy Policy
 
