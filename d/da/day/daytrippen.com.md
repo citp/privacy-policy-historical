@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222103630id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622161820id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrippen Privacy Policy Statement
 
@@ -29,6 +29,12 @@ Cookies
 Ad Servers  
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. 
 
-For more information please contact us.  [info@daytrippen.com](https://web.archive.org/web/20081222103630id_/http%3A//www.daytrippen.com/&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#105;n&#102;&#111;&#x40;&#100;a&#x79;t&#x72;i&#x70;&#112;&#101;n.c&#x6f;&#x6d;)
+Google Advertising  
+Google, as a third party vendor, uses cookies to serve ads on your site.   
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).   
+
+
+For more information please contact us.  [info@daytrippen.com](https://web.archive.org/web/20090622161820id_/http%3A//www.daytrippen.com/&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#105;n&#102;&#111;&#x40;&#100;a&#x79;t&#x72;i&#x70;&#112;&#101;n.c&#x6f;&#x6d;)
 
  
