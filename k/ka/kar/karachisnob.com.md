@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karachisnob.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221195734id_/http%3A//www.karachisnob.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karachisnob.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622193207id_/http%3A//karachisnob.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Karachi Snob.com Privacy Policy
 
@@ -57,9 +57,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our Privacy Policy or our information practices, please contact us by e-mail or postal mail:
 
 KarachiSnob.com  
-F-10, Block 6, P.E.C.H.S.  
-Karachi, Pakistan.  
-Tel: 021-541-3612  
-Cell: 0301-827-5059  
+P.O. Box 3402  
+Karachi, Pakistan. 74800   
 **[info@karachisnob.com  
 ](mailto:info@karachisnob.com?subject=Privacy%20Policy%20at%20KarachiSnob.com) **
