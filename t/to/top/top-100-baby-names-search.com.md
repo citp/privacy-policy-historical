@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-100-baby-names-search.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221213801id_/http%3A//www.top-100-baby-names-search.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-100-baby-names-search.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622152122id_/http%3A//www.top-100-baby-names-search.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 100 Baby Names Search
 
@@ -23,6 +23,14 @@ You have the ability to accept or decline cookies by modifying your Web browser;
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
+
+What is the DoubleClick cookie doing on my computer?
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy.](http://www.google.com/privacy_ads.html)
+
+If you have a DoubleClick cookie in your Cookies folder, it is most likely a DART cookie. The DoubleClick DART cookie helps marketers learn how well their Internet advertising campaigns or paid search listings perform. Many marketers and Internet websites use DoubleClick’s DART technology to deliver and serve their advertisements or manage their paid search listings. DoubleClick’s DART products set or recognize a unique, persistent cookie when an ad is displayed or a paid listing is selected. The information that the DART cookie helps to give marketers includes the number of unique users their advertisements were displayed to, how many users clicked on their Internet ads or paid listings, and which ads or paid listings they clicked on.
+
+How can I adjust my cookie settings to accept or decline cookies?
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
