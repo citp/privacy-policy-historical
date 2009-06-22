@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218062000id_/http%3A//www.rhinoarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinoarticles.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622045345id_/http%3A//www.rhinoarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Publish Your Writings and Be A Known Expert with Rhino Articles
 
