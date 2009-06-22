@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222135159id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622124648id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
 
 # Contact Information - Psychologist World
 
@@ -71,7 +71,7 @@
   
 **  Site Information: **  
   
-**  ****Most Read in December**  
+**  ****Most Read in May**  
   
   |  |  Contact Details & Privacy Policy - Hypnotic World Psychology
 
