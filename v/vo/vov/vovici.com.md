@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221210256id_/http%3A//www.vovici.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622053907id_/http%3A//www.vovici.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Vovici
 
@@ -10,7 +10,7 @@ This policy demonstrates our firm commitment to online privacy. Information obta
 
 **Contact Information**
 
-When you register with us, we require that you provide correct contact information, which may include your name, email address, phone number, and other types of information. The information you provide allows us to send you periodic reminders about your account status and contact you regarding technical issues. If you register with Vovici in error, please [contact us](https://web.archive.org/web/20081221210256id_/http%3A//www.vovici.com/about/contact.aspx) and we will delete your record from our database.
+When you register with us, we require that you provide correct contact information, which may include your name, email address, phone number, and other types of information. The information you provide allows us to send you periodic reminders about your account status and contact you regarding technical issues. If you register with Vovici in error, please [contact us](https://web.archive.org/web/20090622053907id_/http%3A//www.vovici.com/about/contact.aspx) and we will delete your record from our database.
 
 You may contact Vovici concerning this privacy policy and our privacy practices at the following: 
 
@@ -66,7 +66,7 @@ We follow generally accepted industry standards to protect the personal informat
 If you have questions about security on our Web site, you can send us an email at [privacy@vovici.com](mailto:privacy@vovici.com)
 
 **Surveys**  
-When you publish your survey on our servers, we will provide you with a unique URL to display your survey. We will not provide this URL to any other person or entity, but we will provide your survey to any web browser requesting your unique URL. We may review your survey contents for violations of our [Use Policy](https://web.archive.org/web/20081221210256id_/http%3A//www.vovici.com/terms-of-use.aspx). If we determine your survey is in violation of our Use Policy, we will attempt to contact you and reserve the right to delete your survey and results from our systems.
+When you publish your survey on our servers, we will provide you with a unique URL to display your survey. We will not provide this URL to any other person or entity, but we will provide your survey to any web browser requesting your unique URL. We may review your survey contents for violations of our [Use Policy](https://web.archive.org/web/20090622053907id_/http%3A//www.vovici.com/terms-of-use.aspx). If we determine your survey is in violation of our Use Policy, we will attempt to contact you and reserve the right to delete your survey and results from our systems.
 
 **Survey Results**  
 **It's your data.** We will not attempt to read your survey results at any time unless explicitly instructed to do so by you, except that, solely with respect to any use of the EFM for CRM Module, we do review, process and provide analysis in aggregate form with respect to the results of specific format questions developed by Vovici regarding the likelihood of a survey respondent to refer others to the applicable products and/or services of an organization. We only disclose this information in aggregate form with respect to the survey results to these questions for the applicable organization for the EFM for CRM Module and not in any way that personally identifies you or your specific response to the questions in the survey. We do not own the contents of the data for your survey. Except for the limited analysis performed by us on the specific responses to the EFM for CRM Module, we only have access to your surveys for purposes of backup and troubleshooting. When your survey results are received by us, we will store them in a secure location. We will only allow your survey results to be downloaded directly into our desktop software or accessed through our online web interface. We have security measures in place to protect your results while stored on our servers and we will prosecute any attempt to access this information without authorization to the fullest extent of the law.
