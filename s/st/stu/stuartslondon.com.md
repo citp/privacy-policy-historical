@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220105721id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622025312id_/http%3A//www.stuartslondon.com/page.php%3FpageID%3D9) for the most accurate reproduction.*
 
 # Stuarts London - Privacy and Security
 
