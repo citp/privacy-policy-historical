@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222145405id_/http%3A//www.wyndham.com./privacystatement/info.wnt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622021951id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
 
 # Wyndham Hotels & Resorts - Privacy Policy
 
