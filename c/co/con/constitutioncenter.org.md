@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221165130id_/http%3A//www.constitutioncenter.org/TermsOfUse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutioncenter.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622200241id_/http%3A//www.constitutioncenter.org/TermsOfUse.aspx) for the most accurate reproduction.*
 
 # National Constitution Center: Terms of Use and Privacy Policy
 
