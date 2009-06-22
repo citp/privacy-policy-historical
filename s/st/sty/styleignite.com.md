@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleignite.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221234002id_/http%3A//www.styleignite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleignite.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622193216id_/http%3A//www.styleignite.com/privacy) for the most accurate reproduction.*
 
 # StyleIgnite.com > Privacy Policy
 
