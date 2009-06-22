@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwgoa.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221205101id_/http%3A//www.wwgoa.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwgoa.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622022459id_/http%3A//www.wwgoa.com/privacy.cfm) for the most accurate reproduction.*
 
 # WoodWorkers Guild Of America
 
@@ -39,13 +39,14 @@ WWGOA may disclose any user or customer information, including personally identi
  _ **Site & Security  
 **_  **Cookies**
 
- 
-
-To assist us in supplying your needs better, we use 'cookies' to store and track user information. A cookie is a small file that is sent to your computer by a web server where it is then stored on your hard drive. Cookies enable our system to count you as a visitor to our website (using your user name and password) and to identify you when you log in so you are recognized as a returning member and can collect any benefits that which may pertain to you. Cookies are not only beneficial for you but for us as well; we will also use cookies to assess the overall efficiency of our website as well as promotions and communications.
-
-  **Browser Level Information and IP Addresses**  
+ To assist us in supplying your needs better, we use 'cookies' to store and track user information. A cookie is a small file that is sent to your computer by a web server where it is then stored on your hard drive. Cookies enable our system to count you as a visitor to our website (using your user name and password) and to identify you when you log in so you are recognized as a returning member and can collect any benefits that which may pertain to you. Cookies are not only beneficial for you but for us as well; we will also use cookies to assess the overall efficiency of our website as well as promotions and communications.  **Browser Level Information and IP Addresses**  
 
 When you make use of our site, we may gather information regarding your access time and your computer design, as well as the type of browser software you use and your internet Protocol ('IP') address. The IP address is a number that is used by computers connected to the Internet to classify your computer so that data can be sent to you. Your IP address does not give us any personal information. We will use this specific address to collect information to see how long a user may spend on our site and which pages or features are more interesting; this will help us recognize our audience's 'likes' and verify the importance of advertising on our website.
+
+We use Google, as a third party vendor, to serve some of our ads when you visit our website. Google uses the DoubleClick DART cookie to serve ads based on your interests when you visit our site. You may opt out of the use of the DART cookie by visiting the 
+
+[Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)  
+
 
  
 
