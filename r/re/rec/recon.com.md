@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013301id_/http%3A//www.recon.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622025753id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy.
+# Privacy policy
 
 **We have created this policy to demonstrate our respect for your privacy. Please read it carefully before using this website as it concerns use of your personal information.**
 
@@ -82,4 +82,4 @@ We may at any time revise the terms of this policy by posting changes on the sit
 The terms of this policy are governed and construed in accordance with the laws of England. If any of the terms is held to be unlawful, void or for any reason unenforceable, then that provision will be deemed severable and will not affect the validity and enforceability of the remaining terms. You agree to submit to the non-exclusive jurisdiction of the English Courts. 
 
 **Registered Company Address**  
-The Company is registered in England, UK at: 191 Sparrows Herne, Bushey Heath, Watford, WD23 1AJ, UK. 
+The Company is registered in England, UK at: Avaland House, 110 London Road, Apsley, Hemel Hempstead, Herts, HP3 9SD, United Kingdom 
