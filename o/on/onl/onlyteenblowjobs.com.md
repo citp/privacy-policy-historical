@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyteenblowjobs.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011065105id_/http%3A//onlyteenblowjobs.com/MCE/otb/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyteenblowjobs.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622192917id_/http%3A//www.onlyteenblowjobs.com/MCE/otb/0/privacy) for the most accurate reproduction.*
 
 # OnlyTeenBlowjobs.com :: Privacy Policy
 
