@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2008-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080101231647id_/http%3A//www.sweeps.ws/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623000236id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
-Sweepstakes Advantage  is committed to respecting and protecting your personal privacy. Our Privacy Policy and the control **_YOU_** have regarding the information you give us are explained below.  
+  |  | Sweepstakes Advantage  is committed to respecting and protecting your personal privacy. Our Privacy Policy and the control **_YOU_** have regarding the information you give us are explained below.  
   
+---  
 **What Does the Sweepstakes Advantage   Privacy Policy Cover?**  
   
   * This Privacy Policy applies to sites that have URLs (for example, www. _____.com) ending in Sweepstakes Advantage .com or sweeps.ws.. 
@@ -46,4 +47,5 @@ Sweepstakes Advantage  updates this policy from time to time so please review i
   * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) . 
 
 Last updated March 22, 2004  
-
+  
+ 
