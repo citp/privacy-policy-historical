@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170755id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622022724id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
 
 # GrindTV.com Privacy Policy
 
@@ -54,6 +54,6 @@ GrindTV.com may update this policy. We will notify you about significant changes
 
 ## Questions and Suggestions
 
-If you have questions or suggestions, please contact us at [help@grindtv.com](mailto:help@grindtv.com)
+If you have questions or suggestions, please contact us at [help@grindtv.com](mailto:help@grindtv.com "help@grindtv.com")
 
  _Effective Date: September 1, 2005_
