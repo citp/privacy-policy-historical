@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-php-webhosting.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191912id_/http%3A//free-php-webhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-php-webhosting.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622025856id_/http%3A//free-php-webhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,6 +27,10 @@ Third parties may be placing and reading cookies on your browser, or using web b
 #### ADVERTISING
 
 We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+
+#### DoubleClick DART Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 #### PUBLIC FORUMS
 
