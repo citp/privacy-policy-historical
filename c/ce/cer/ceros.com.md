@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218061151id_/http%3A//www.ceros.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622225117id_/http%3A//www.ceros.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Ceros digital magazines and interactive publications
 
