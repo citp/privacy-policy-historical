@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522230850id_/http%3A//www.keywordinspector.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622184931id_/http%3A//www.keywordinspector.com/privacy.asp) for the most accurate reproduction.*
 
 # keywordinspector.com -
 
