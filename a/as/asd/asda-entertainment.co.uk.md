@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010405id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda-entertainment.co.uk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622224326id_/http%3A//www.asda-entertainment.co.uk/asda/privacy-policy.info) for the most accurate reproduction.*
 
 # Asda Entertainment - Privacy Policy
 
