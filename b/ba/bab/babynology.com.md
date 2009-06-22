@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012136id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622034451id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
 
   
-  
-  
-
+****
 
 **Baby Names  
 (Other Options) **
 
-| 
+**** | 
 
 Babynology takes users privacy seriously and we ensuring that your privacy is respected and protected. Your are free to use our web site with directly providing any of your information. For more details on our Privacy Policy please read below : 
 
@@ -27,4 +25,27 @@ _Cookies_ \- Our site uses a feature of your browser to set a "cookie" on your c
 _Contact_ \- If you have questions about this Privacy Policy or anything else about Babynology, Contact us.  
 
 
+|  | **[Suggest A Name](https://web.archive.org/suggest-name.html)**  
+---  
+  
+**[Baby Photo Contest](https://web.archive.org/photo_contest/index.html)**
+
+[](https://web.archive.org/photo_contest/index.html)  
+  
+List of My Names  
+  
+Immigrant Baby Names and the Ethnic Identity
+
+If you have immigrated from your home country and have finally arrived in your land of dreams and opportunities, an ethnic name which reflects your original culture just might pose a minor challenge or two. There is no harm in trying .... **[More..](https://web.archive.org/babyname-tips-part2.html)**  
+  
+  
+
+
+**[ Winner of Baby Photo Contest ](https://web.archive.org/photo_contest/MAISHA_29.html)**[ ](https://web.archive.org/photo_contest/MAISHA_29.html)
+
+[ ](https://web.archive.org/photo_contest/MAISHA_29.html)   
+**MAISHA**
+
+  
+  
 | 
