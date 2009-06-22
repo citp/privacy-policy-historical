@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133313id_/http%3A//leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622160404id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
   
-### Privacy Policy Statement   
+### Privacy Policy Statement  
   
 ---  
   
-As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”) your privacy is very important to us. You are entitled to know how your use of the Service will affect your personal privacy.  **In general, LeagueAthletics.com will under no circumstances share any personal information with anyone other than the members of the sports organization to which you belong**. The purpose of this Privacy Policy Statement is to inform you about: 
+As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”) your privacy is very important to us. You are entitled to know how your use of the Service will affect your personal privacy.  **In general, LeagueAthletics.com will under no circumstances share any personal information with anyone other than the members of the sports organization to which you belong**. The purpose of this Privacy Policy Statement is to inform you about:
 
-  1. what information about you will be collected by LeagueAthletics.com, Inc. ("LeagueAthletics.com"), the operator of the Service,and the circumstances under which the information will be collected; 
-  2. how the information will be used or disclosed to others; 
-  3. what choices are available to you regarding collection, use and distribution of the information; 
-  4. what kind of security procedures are in place to protect against the loss, misuse or unauthorized alteration of information under LeagueAthletics.com’s control; and 
-  5. what steps you can take to have inaccuracies in the information corrected. 
+  1. what information about you will be collected by LeagueAthletics.com, Inc. ("LeagueAthletics.com"), the operator of the Service,and the circumstances under which the information will be collected;
+  2. how the information will be used or disclosed to others;
+  3. what choices are available to you regarding collection, use and distribution of the information;
+  4. what kind of security procedures are in place to protect against the loss, misuse or unauthorized alteration of information under LeagueAthletics.com’s control; and
+  5. what steps you can take to have inaccuracies in the information corrected.
 
 
 
@@ -22,7 +22,7 @@ As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”
 
 _Disclosure_
 
-In the normal course of operations it is likely that we will maintain personal information on computers in the United States. The United States offers differing levels of protection of personal information. You agree to the transfer of the Information among such computers. 
+In the normal course of operations it is likely that we will maintain personal information on computers in the United States. The United States offers differing levels of protection of personal information. You agree to the transfer of the Information among such computers.
 
 _Application_
 
@@ -30,7 +30,7 @@ This Privacy Policy Statement applies only to the Service and not to Web sites o
 
   _Information Collected By LeagueAthletics.com_
 
-The types of information that LeagueAthletics.com may collect about you, either as a user of the Service or as a participant in a sports program that uses our services, are limited to the following: 
+The types of information that LeagueAthletics.com may collect about you, either as a user of the Service or as a participant in a sports program that uses our services, are limited to the following:
 
 > _Volunteered Information_
 > 
@@ -44,7 +44,7 @@ The types of information that LeagueAthletics.com may collect about you, either 
 > 
 > : As is the case with many Web sites, the Service uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit a particular Web site. Cookies automatically identify your browser to the LeagueAthletics.com server whenever you interact with the Service. LeagueAthletics.com uses cookies to keep track of your teams and preferences, but cannot track any activity by you on other Web sites. If you prefer not to have any information collected by cookies, you may disable cookies by turning them off in your browser; however, some areas of the Service may not function properly if you do. 
 > 
-> All of these types of information about you may be maintained by LeagueAthletics.com on computers located in the United States, and may be transferred from time to time among those computers. 
+> All of these types of information about you may be maintained by LeagueAthletics.com on computers located in the United States, and may be transferred from time to time among those computers.
 
   * **_How Information Will Be Used or Shared With Others._**
 
@@ -62,7 +62,11 @@ The types of information that LeagueAthletics.com may collect about you, either 
 > 
 > : 
 > 
-> Transaction Information will be used by LeagueAthletics.com solely for the purpose of completing the transaction you have requested and providing customer service and with respect to that transaction. Cookie Information: Cookie Information (which is identified to your browser, and not to you personally) will be used only to assist in your navigation within the Service, to monitor consumer interest in the range of products and services available on the Service, to assist LeagueAthletics.com in tailoring the content of the Service to users’ needs by collecting information about their preferences through tracking patterns of page-viewing on the Service, and to assist LeagueAthletics.com in delivering content that appears to meet your preferences. Disclosures Required By Law: LeagueAthletics.com may be required by law or legal process to disclose information about you in its possession. 
+> Transaction Information will be used by LeagueAthletics.com solely for the purpose of completing the transaction you have requested and providing customer service and with respect to that transaction. Financial Information such as credit card number and expiration dates will not be stored or saved on our servers.
+> 
+>  _Cookie Information:_
+> 
+> Cookie Information (which is identified to your browser, and not to you personally) will be used only to assist in your navigation within the Service, to monitor consumer interest in the range of products and services available on the Service, to assist LeagueAthletics.com in tailoring the content of the Service to users’ needs by collecting information about their preferences through tracking patterns of page-viewing on the Service, and to assist LeagueAthletics.com in delivering content that appears to meet your preferences. Disclosures Required By Law: LeagueAthletics.com may be required by law or legal process to disclose information about you in its possession.
 
   * **_Modifications to Privacy Policy Statement._**
 
