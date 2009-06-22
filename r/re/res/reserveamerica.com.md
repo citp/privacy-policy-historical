@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2006-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060915235841id_/http%3A//ra1.reserveamerica.com/jsp/homepage.jsp%3Fgoto%3D/home/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622142145id_/http%3A//www.reserveamerica.com/marketing.do%3FtopTabIndex%3D-1%26goto%3D/marketingHTML/privacy.html) for the most accurate reproduction.*
 
-# ReserveAmerica - Welcome!
+# About Us - ReserveAmerica
 
-ReserveAmerica Privacy Policy
+| PRIVACY POLICY
 
+ReserveAmerica Privacy Policy  
 We, at ReserveAmerica Holdings Inc. ("ReserveAmerica" or "we"), have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions made, and data gathered, on the ReserveAmerica.com web site (the "Site") and does not apply to any other web site or offline point of contact between ReserveAmerica and consumers. Please review this privacy policy periodically to check for revisions as we may update it from time to time. This privacy policy was last revised on October 18, 2002. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
 
-Your IP Address
-
+Your IP Address  
 Like most e-commerce websites, each time you visit the Site, we may automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we may use your IP address to help identify you, to gather broad demographic information about you and for other purposes. 
 
-Cookies
+Cookies  
+Like most websites, the Site uses cookies to keep track of your purchases, reservations, information you submit and other activity on the Site and to enhance your experience on the Site. We may also use cookies to deliver content specific to your interests, to save your password, and to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Advertisers and other third parties may also place cookies on your browser. If you wish not to allow or accept these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser not to allow or accept cookies, you may not be able to access certain features or areas on the Site. 
 
-Like most websites, the Site uses cookies to keep track of your purchases, reservations, information you submit and other activity on the Site and to enhance your experience on the Site. We may also use cookies to deliver content specific to your interests, to save your password, and to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Advertisers and other third parties may also place cookies on your browser. If you wish not to allow or accept these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser not to allow or accept cookies, you may not be able to access certain features or areas on the Site.
-
-Information We Collect From You
-
+Information We Collect From You  
 In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), "financial information" (i.e. passwords and credit card numbers), "demographic information" (e.g., zip code, hometown, gender, reservation and purchase history information (other than public agency reservation information) and age) and "public agency reservation information" (i.e., information about your planned visit to a specific government agency-operated or government agency-administered campground or park, such as dates of stay or number of occupants, other than personal information). Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13.
 
-Information Other Web Sites Collect From You 
-
+Information Other Web Sites Collect From You  
 On the Site, we place links to other web sites operated by other parties such as state and federal websites. Some of these other web sites may contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
 
-How We Use Personal Information and Public Agency Reservation Information
-
+How We Use Personal Information and Public Agency Reservation Information  
 We use your personal information and public agency reservation information to help us efficiently perform transactions on the Site, to deliver the services you have requested and to contact you when necessary in connection with transactions entered into by you on the Site (including reservation confirmations, changes and cancellations). We also use your personal information so that we can send you information, offers, promotional materials and newsletters. We carefully select the information we send to you and attempt to send you offers and promotions that are of value to you, such as discounts or exclusive offers offered by third parties. The Site provides you with the option of declining (i.e., "opting-out" of) receiving these offers, promotional materials and newsletters. We will not make direct use of public agency reservation information, your telephone number or your financial information (other than telephone numbers or financial information used or collected in connection with products or services offered by non-government entities) in order to send you such offers, promotional materials or newsletters. 
 
 To process transactions on the Site, we may share your personal information and public agency reservation information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment, reservation fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your personal information or public agency reservation information for any other purpose.
@@ -36,20 +32,16 @@ Your personal information or reservation information may be passed on to a third
 
 Except as may otherwise be described in this privacy policy, we have no control over the personal information practices of Reservation Partners and other third parties. As described above, by making reservations on the Site, purchasing other products or services from third parties, electing to receive communications from or to participate in contests, sweepstakes or other programs associated with, or sponsored by, third parties, or otherwise opting to allow us to share your information with third parties as permitted in this policy, you authorize us to share your personal information and reservation information with Reservation Partners and these other third parties, and you agree that we are not responsible or liable for any of their actions or omissions. These Reservation Partners and these other third parties may use your personal information and reservation information in accordance with our contractual arrangements with them and in accordance with their own privacy policies, over which we have no control. You will need to contact them directly in order to instruct them regarding your preferences for how they use your personal information and reservation information. 
 
-How We Use Financial Information
-
+How We Use Financial Information  
 We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a reservation or purchase, or engaging in any other kind of activity that uses financial information, on the Site, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information with applicable Reservation Partners, primarily for facilitating your reservation at the appropriate campsite or other location on the date of your reservation and to provide customer service. By purchasing, or making reservations for, other products or services of third parties (such as magazine subscriptions, hotel bookings or cruises) offered on the Site, or by participating in programs offered on the Site that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties as well. Any of these various third parties, including but not limited to Reservation Partners, are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control.
 
-How We Use Demographic Information
-
+How We Use Demographic Information  
 We use demographic information to tailor the Site and communications to the interests of our users. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. If we are allowed to share with certain third parties your personal information, financial information or public agency reservation information under this privacy policy, as described above, then the demographic information that we provide to such third parties may be linked to such personal information, financial information or public agency reservation information, so that such third parties will be able to know about your demographic information on a non-anonymous basis. 
 
-Our Security Precautions; Location of Data
-
+Our Security Precautions; Location of Data  
 The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL encryption) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
 
-How You Can Access and Update Your Account, Email Preferences and Personal Information
-
+How You Can Access and Update Your Account, Email Preferences and Personal Information  
 During the creation of your account on the Site, we will give you the opportunity to opt-out of the receipt of certain communications from us. We also give you the opportunity to opt-out and modify information you have provided to us at any time in the My Reservations section of the Site by signing-in, clicking on the appropriate "Update" links and changing the provided information. 
 
 In some cases you may, without creating an account or having your account referenced, be able to purchase or reserve products or services, elect to receive communications or elect to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site (other than campground or park reservations). After we collect personal information that you submit in these cases, we may use it to send you marketing emails. However, if we do so, we will provide a link that you can click on to opt-out of receiving subsequent marketing emails generated from the same such information. In many cases we will also provide one or more opt-in boxes, at the point where you provide such information, so that you can indicate your preferences before receiving marketing emails.
@@ -62,5 +54,24 @@ B) Information that we may have already forwarded to Reservation Partners, credi
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@ReserveAmerica.com.](mailto:legal@reserveamerica.com)
 
-You can also send us mail to: Privacy Officer, ReserveAmerica, 40 South Street, Ballston Spa, New York 12020.   
+You can also send us mail to: Privacy Officer, ReserveAmerica, 40 South Street, Ballston Spa, New York 12020. 
 
+| 
+
+| ReserveAmerica FACTS   
+---  
+  
+\- ReserveAmerica is contacted by 8 million consumers regarding camping reservations each year. 
+
+\- ReserveAmerica has a consumer membership of 2.2 million outdoor enthusiasts.
+
+\- 3.2 million reservations are processed through ReserveAmerica each year.
+
+\- ReserveAmerica led the camping industry to the Internet by processing the industry's first online reservation in September 1997
+
+\- 650,000 consumers receive the ReserveAmerica e-newsletter every month, one of the largest consumer communications in the industry.  
+  
+LOGOS  
+  
+Downloadable  
+[ReserveAmerica Logos](https://web.archive.org/marketing.do?goto=/marketingHTML/logos.html)
