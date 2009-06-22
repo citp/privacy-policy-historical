@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223054024id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173703id_/http%3A//www.royallepage.ca/CMSTemplates/GlobalNavTemplate.aspx%3Fid%3D239) for the most accurate reproduction.*
 
 # Royal LePage Canada: Canadian Real Estate and MLS® Listings
 
