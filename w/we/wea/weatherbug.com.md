@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015062359id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622022419id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Racine, WI weather and forecast information on WeatherBug.com
+# USA weather and forecast information on WeatherBug.com
 
 [](http://www.truste.org/ivalidate.php?url=www.weatherbug.com&sealid=101)
 
@@ -28,7 +28,7 @@ Questions regarding this statement should be directed, via e-mail, to [privacy@w
 
 **What is our Privacy Philosophy? **
 
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html?zcode=z5602&region=8&region_name=North%20America&country=US&country_name=USA&state_code=WI&state_name=Wisconsin&zip=53401&city_name=Racine&stat=RCPNS). 
+The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html). 
 
 Back to Top
 
