@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221151915id_/http%3A//jellypages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellypages.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622085922id_/http%3A//jellypages.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Jelly Pages
 
@@ -20,6 +20,10 @@ The only ways in which the site may receive personally identifiable information 
 Users may provide personally identifiable information, knowingly and of their own accord. The personal information you provide will allow us to alert you of new features, or enhancements, and/or notify you of upgrade opportunities, contests, prize fulfillment, or special events.
 
 The site may disclose your personal information to third party vendors/advertisers to process our newsletters, e-mail campaigns, or to analyze and/or store data. In special circumstances, we may also disclose such information if we have a good faith belief that we are required to do so in order to comply with applicable law, a subpoena, or other legal process.
+
+We use third-party advertising companies to serve ads when you visit the site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to the site and other websites in order to provide advertisements about goods and services of interest to you.
+
+Google, as a third party vendor, uses cookies to serve ads on the site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to the site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 The site will not share your information with any third parties unless otherwise noted.
 
