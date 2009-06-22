@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223074559id_/http%3A//www.bjbead.com/help/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjbead.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622171917id_/http%3A//www.bjbead.com/help/Privacy.html) for the most accurate reproduction.*
 
-# www.bjbead.com_about us
+# discount jewelry,cheap jewelry,handmade jewelry,discount fashion jewelry,china jewelry
 
 ## Privacy Policy
 
