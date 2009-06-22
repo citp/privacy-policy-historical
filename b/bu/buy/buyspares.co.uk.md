@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616153122id_/http%3A//www.buyspares.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622154902id_/http%3A//www.buyspares.co.uk/cgi-bin/static.pl%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
-# buyspares.co.uk - spares, spare parts and accessories
+# Spares, Spare Parts & Accessories | The UK's Largest Online Spares Shop
 
 Privacy statement   
 ---  
   
-4ourhouse.co.uk takes your privacy rights as a customer seriously. In this Privacy Policy, references to "we" and "us" are to 4ourhouse.co.uk, P.O. Box 4812, Birmingham, B9 4BL. and to Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ. This policy outlines the data we collect from our visitors and how we use it.   
+4ourhouse.co.uk takes your privacy rights as a customer seriously. In this Privacy Policy, references to "we" and "us" are to 4ourhouse.co.uk and to Connect Distribution Services Limited, company number 3004798, registered office Connect House, Talbot Way, Small Heath, Birmingham, West Midlands B10 0HJ. This policy outlines the data we collect from our visitors and how we use it.   
   
 What information do you collect and why?  
 ---  
   
-When you place an order with us, we need to know your name, e-mail address, home address, delivery address, credit or debit card number and expiry date and your home and work telephone numbers. This enables us to authorise your credit or debit card payments, process and fulfil your orders and to notify you of your order status.   
+When you place an order with 4ourhouse.co.uk, we need to know your name, e-mail address, home address, delivery address, credit or debit card number and expiry date and your home and work telephone numbers. This enables us to authorise your credit or debit card payments, process and fulfil your orders and to notify you of your order status. 
+
+Your Personal information may be disclosed to other businesses within CDSL and to reputable third party contractors engaged by CDSL to perform a variety of functions such as processing your Orders, assisting with promotions or providing technical services for our websites. We require all such third parties to treat you Personal Information as fully cofidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.  
   
 In order to monitor the performance of our site we collect the following information:  
 ---  
