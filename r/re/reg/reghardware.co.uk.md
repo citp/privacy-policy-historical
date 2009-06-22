@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916233752id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622222531id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -74,6 +74,10 @@ The Register is currently conducting market research in conjunction with Quantca
 ### WorldPay
 
 WorldPay provide The Register with their credit card processing facilities. [Privacy Policy](http://www.worldpay.com/guarantee/terms.shtml)
+
+### Google Checkout
+
+Google Checkout provide The Register with their credit card processing facilities. [Privacy Policy](https://checkout.google.com/files/privacy.html)
 
 ### Expansys
 
