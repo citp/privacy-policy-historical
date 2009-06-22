@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219231931id_/http%3A//www.weartv.com/sections/station/2007_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622193659id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# WEAR ABC 3
+# WEAR ABC 3 :: Privacy Policy
 
+[](https://web.archive.org/sections/station/advertise/)  
+---  
+  
 **General**
 
 The following privacy policy describes what information is collected by http://www.weartv.com/ (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
@@ -27,3 +30,22 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
+
+**Local Weather:**
+
+***An Excessive Heat Warning has been issued until 7pm Monday for the coastal section of the WEAR viewing area.***  
+***A Heat Advisory is in effect until 7pm for the rest of the WEAR viewing area Monday***
+
+Monday:  Extremely hot and sunny with highs around 100 degrees.  Heat index values between 108 and 114.
+
+Monday Night:  Mostly clear.  Lows around 80.
+
+Tuesday:  Mostly sunny.  Highs in the upper 90s.
+
+ _The tropics are quiet.  
+_
+
+[](http://www.weartv.com/newsroom/wx/)
+
+[](https://web.archive.org/sections/station/advertise/)  
+---
