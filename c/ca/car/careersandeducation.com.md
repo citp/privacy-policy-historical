@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2008-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081029090524id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersandeducation.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622042028id_/http%3A//www.careersandeducation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Careers & Education
+# Privacy Policy | Careersandeducation.com - Find Scholarships, Search Colleges and Universities, Find undergraduate and Graduate Degree Programs
 
 **Privacy Policy Introduction:**   
 We respect your privacy, security and user experience while visiting the Website - above all else. It is our sincere hope that your experience will be pleasant at www.Careersandeducation.com, and that the information we provide will be complete, accurate and very helpful to you and your family. 
