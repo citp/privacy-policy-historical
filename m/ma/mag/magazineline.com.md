@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101517id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622081404id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
-[Customer Service](https://web.archive.org/web/20080609101517id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
+[Customer Service](https://web.archive.org/web/20090622081404id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
 
 Privacy & Security
 
@@ -40,15 +40,28 @@ Our Commitment to Privacy
 > Using your information in such a manner ensures you do not experience a frustrating lapse in service or otherwise encounter any account difficulties. If you would like to discuss our customer contact programs or specify a preference for how you are contacted, please call our customer service department at (800) 959-1676 (M-F, 8am-11pm, EST) or [email us](https://web.archive.org/Haupt/CS_Email.aspx).
 > 
 > **With Whom Do We Share Information?**  
->  When you place an order, your name and address, and the name and address of any gift recipients, is sent to each of the publishers of the magazines you ordered so that they can fulfill your subscriptions. We do not pass along your phone number or billing information, however we may pass along your email address. You can contact the publishers directly for information on how they use their data.
+>  When you place an order, your name and address, and the name and address of any gift recipients, is sent to each of the publishers of the magazines you ordered so that they can fulfill your subscriptions. 
 > 
-> We never sell or rent your email address to anyone. From time to time we may make our customer phone and postal mailing list available to other reputable organizations whose products or services we think you might find interesting. All MagazineLine.com customers are given the opportunity to opt-out of receiving these offers by calling our Customer Service department at (800) YOU-READ and requesting to opt-out of third party solicitations. 
-> 
->   
+> We never sell or rent your email address to anyone. From time to time we may make our customer phone and postal mailing list available to other reputable organizations whose products or services we think you might find interesting. All MagazineLine.com customers are given the opportunity to opt-out of receiving these offers by calling our Customer Service department at (800) 959-1676 and requesting to opt-out of third party solicitations.   
+>    
 >  **Our Commitment to Children's Privacy**  
 >  Protecting the privacy of the very young is especially important to us. For that reason, we never collect or maintain information at our Web site from those we actually know are under 13.  
 >    
->  **Other**  
+>  **Opting Out**  
+>  _We do not rent or sell your email address._   If you no longer wish to receive email updates from MagazineLine about your subscriptions and special savings opportunities, you may opt out in any of the following manners so you do not receive these communications.
+> 
+>   1. Log in to your account, and then choose Change Email/Options
+>   2. Click the email preferences link in an email you receive from us
+>   3. Email us
+>   4. Call us Toll-Free at (800) 959-1676 (M-F, 8am – 11pm, EDT) 
+>   5. Write us at:   
+>  MagazineLine  
+>  P.O. Box 30404  
+>  Lansing, MI 48909-7904
+> 
+
+> 
+> **Other**  
 >  MagazineLine.com visitors consent to the collection and use of their information as described in this policy.
 > 
 > MagazineLine.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful.
@@ -72,7 +85,7 @@ Our Security Pledge
 >  **Prefer to Order Via Phone?  
 >  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20080609101517id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20090622081404id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
 
