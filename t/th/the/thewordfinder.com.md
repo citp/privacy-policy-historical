@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewordfinder.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217060534id_/http%3A//www.thewordfinder.com/Wiki/index.php/TheWordFinder%2521%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordfinder.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622194709id_/http%3A//www.thewordfinder.com/Wiki/index.php/TheWordFinder%2521%3APrivacy_policy) for the most accurate reproduction.*
 
 # TheWordFinder!:Privacy policy - Free Word Descrambler
 
