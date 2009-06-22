@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the houstonisd.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040118id_/http%3A//www.houstonisd.org/HISDConnectDS/v/index.jsp%3Fvgnextoid%3D5615ef6e5821d010VgnVCM10000052147fa6RCRD%26vgnextchannel%3D67382f796138c010VgnVCM10000052147fa6RCRD%26vgnextfmt%3Dalt1%26footerItem%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonisd.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622063051id_/http%3A//www.houstonisd.org/HISDConnectDS/v/index.jsp%3Fvgnextoid%3D5615ef6e5821d010VgnVCM10000052147fa6RCRD%26vgnextchannel%3D67382f796138c010VgnVCM10000052147fa6RCRD%26vgnextfmt%3Dalt1%26footerItem%3D4) for the most accurate reproduction.*
 
 # HISD Connect - HISD Connect Footer
-
-* * *
 
 This is the Web site of the Houston Independent School District.
 
