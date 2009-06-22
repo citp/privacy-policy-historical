@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217132743id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickism.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622032248id_/http%3A//www.dickism.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Dickism | The Guys Guide To Celebrity Gossip
-
-Thursday February 8 2007 
+# Privacy | Celebrity Scandals | Celebrity Gossip | Dickism.com
 
 **Dickism** is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information.
 
@@ -22,7 +20,9 @@ Be aware that e-mail is an inherently insecure form of communication. Remember t
 
 Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. Always monitor your children’s on-line activities and educate them as to the rules for safe Internet use.
 
+Posted in [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View all posts in Rachel Hunter")  | Comments Off
+
 None Found 
 
 
-Posted in [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View all posts in Rachel Hunter")  | 
+**tags:** [Rachel Hunter](http://www.dickism.com/category/rachel-hunter/ "View all posts in Rachel Hunter")
