@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155511id_/http%3A//www.travelpulse.com/Support/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622051916id_/http%3A//www.travelpulse.com/Support/Privacy.aspx) for the most accurate reproduction.*
 
 # TravelPulse.com
 
