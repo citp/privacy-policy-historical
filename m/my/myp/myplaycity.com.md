@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015933id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplaycity.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623010210id_/http%3A//www.myplaycity.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyPlayCity
 
@@ -25,7 +25,7 @@ Additionally, if the user chooses to submit such information, we may collect Per
 **Cookies**  
 A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
-We do not use cookies, and therefore do not automatically record information when you visit our website. 
+We use third-party advertising companies to serve ads when you visit our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Sharing of Information**  
 Other than for the limited circumstances below, none of the information detailed above is disseminated, shared, sold, or provided to a third party. We may share PII and other data with other companies or entities in the following limited circumstances 
