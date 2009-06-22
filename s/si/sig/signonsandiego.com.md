@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165832id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622181938id_/http%3A//www.signonsandiego.com/about/privacy/index.html) for the most accurate reproduction.*
 
-# SignOnSanDiego.com | The San Diego Union-Tribune
+# SignOnSanDiego.com > About us > Privacy Policy
 
 [SignOnSanDiego.com](http://sosd.com/ "SignOnSanDiego.com Home Page") and The Union-Tribune Publishing Company are committed to bringing you information tailored to your individual needs. We also recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by [SignOnSanDiego.com](http://sosd.com/ "SignOnSanDiego.com Home Page") online, as specified below, and does not govern or apply to information collected or used by The Union-Tribune Publishing Company or its affiliates through other means. This policy does not cover practices of the San Diego Union-Tribune newspaper. 
 
