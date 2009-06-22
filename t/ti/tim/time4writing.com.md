@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219181646id_/http%3A//www.time4writing.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622172534id_/http%3A//www.time4writing.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Time4Writing.com - Writing Courses Online
 
