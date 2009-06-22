@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usma.edu privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217092705id_/http%3A//www.usma.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usma.edu privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622063020id_/http%3A//www.usma.edu/privacy.asp) for the most accurate reproduction.*
 
 # United States Military Academy at West Point
 
