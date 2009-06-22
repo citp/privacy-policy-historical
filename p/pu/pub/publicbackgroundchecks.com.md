@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2008-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081210172725id_/http%3A//www.publicbackgroundchecks.com/PrivacyPolicy.aspx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623002924id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Public Background Checks
 
@@ -9,7 +9,7 @@ At PublicBackgroundChecks.com we respect and protect user privacy. Our Privacy P
 
 Please read the Policy in its entirety. If you use PublicBackgroundChecks.com services or subscribe to offers or emails, you thereby accept the contents of and agree to comply with the Policy. PublicBackgroundChecks.com' reports are not consumer reports, and acceptance of the Policy means you will not use said reports for any purpose protected by the Fair Credit Reporting Act (15 U.S.C. ¤1681, et seq.). 
 
-Please [contact us](https://web.archive.org/web/20081210172725id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com' privacy practices. 
+Please [contact us](https://web.archive.org/web/20090623002924id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com' privacy practices. 
 
 1\. Information we collect: Users We may collect personal information, including name and e-mail address, as well as other information not personally identifiable. 
 
@@ -96,9 +96,9 @@ It is also very helpful to include a print out of the records that you wish to h
 
 Please send this letter to: 
 
-Opt-Out/PublicBackgroundChecks.com  
-1915 21st Street  
-Sacramento, CA 95811 
+Public Background Checks  
+305 5th Avenue S, Suite 201  
+La Crosse, WI 54601 
 
 
 **8\. No Rights of Third Parties**  
