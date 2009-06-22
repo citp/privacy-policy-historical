@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218165952id_/http%3A//www.functionpoint.com/content/view/24/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionpoint.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622030519id_/http%3A//www.functionpoint.com/content/view/24/45) for the most accurate reproduction.*
 
 # Function Point Productivity Software Inc - Privacy
 
