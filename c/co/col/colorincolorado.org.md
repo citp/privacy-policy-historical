@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190330id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622182751id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
 # Colorín Colorado :: Privacy Policy
 
@@ -64,8 +64,8 @@ To make our site more valuable to our visitors, we offer some features in conjun
 
 By using this site, you signify your agreement to the terms and conditions of this Colorín Colorado Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of Colorín Colorado following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us.
 
-I am from Mexico and Colorín Colorado… reminds me of all the kids sitting around in a circle listening to stories. Thank you!   
-~ Dionisio R.
+As our ENL team is planning a parent night we love the Reading Tip Sheets! We were so excited to see that they are available in 11 languages. Thank you!   
+~ Franklin Township ENL Team 
 
 [](http://www.colorincolorado.org/guides/readingtips)
 
