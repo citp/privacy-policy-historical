@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the equinix.com privacy policy that was archived on 2008-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081113061310id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the equinix.com privacy policy that was archived on 2009-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622075634id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head style="">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,9 @@
 	
 	<script type="text/javascript">
 		var language = 1;
+		var isIE7 = false;
 	</script>
+	<!--[if gte IE 7]><script>isIE7 = true;</script><![endif]--> 
 	
 	<script src="/scripts/funcs.js" type="text/javascript"></script>
 	<script src="/scripts/sifr.js" type="text/javascript"></script>
@@ -27,31 +29,67 @@
 	
 	<script src="/scripts/sifr-config.js" type="text/javascript"></script>
 	<script src="/scripts/sifr-debug.js" type="text/javascript"></script>
+
 </head>
 <body>
+
+<script type="text/javascript" charset="utf-8">
+	function changeSites(link) {
+		var form = document.getElementById('language_form');
+		var redirect = document.getElementById('redirect');
+		
+		switch(link.href.substr(0, 22)) {
+			case 'http://www.equinix.com':
+				form.action = 'http://www.equinix.com';
+			break;
+			case 'http://www.equinix.fr/':
+				form.action = 'http://www.equinix.fr';
+			break;
+			case 'http://www.equinix.nl/':
+				form.action = 'http://www.equinix.nl';
+			break;
+			case 'http://www.equinix.co.':
+				form.action = 'http://www.equinix.co.jp';
+			break;
+			case 'http://www.equinix.de/':
+				form.action = 'http://www.equinix.de';
+			break;
+		}
+		
+		form.action += '/defs.php';
+		
+		redirect.value = link.href;
+		form.submit();
+	}
+</script>
+
+<form action="" method="post" style="display: none;" id="language_form">
+	<input type="text" name="session_id" value="3umc4v6pl6b9h46953u2j8ghe3" id="session_id">
+	<input type="text" name="redirect" value="" id="redirect">
+</form>
 	
 	<div id="everything">
 	<div id="banner">
 		<div id="banner-main">
 			<div id="language-bar">
 				<ul>					<li>
-						<a href="http://www.equinix.com/equinix/privacy/" onclick="createCookie('lang', 1, 30);" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
+						<a href="http://www.equinix.com/equinix/privacy/" onclick="createCookie('lang', 1, 30); changeSites(this); return false;" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
 							<img src="/images/template/english_o.gif" class="active" alt="english" border="0">
 						</a>
 					</li>					<li>
-						<a href="http://www.equinix.fr/equinix/confidentialite/" onclick="createCookie('lang', 2, 30);" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
+						<a href="http://www.equinix.fr/equinix/confidentialite/" onclick="createCookie('lang', 2, 30); changeSites(this); return false;" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
 							<img src="/images/template/french.gif" alt="french" border="0">
 						</a>
 					</li>					<li>
-						<a href="http://www.equinix.nl/equinix/privacybeleid/" onclick="createCookie('lang', 3, 30);" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
+						<a href="http://www.equinix.nl/equinix/privacybeleid/" onclick="createCookie('lang', 3, 30); changeSites(this); return false;" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
 							<img src="/images/template/dutch.gif" alt="dutch" border="0">
 						</a>
 					</li>					<li>
-						<a href="http://www.equinix.co.jp/equinix/jyouhousekyuriteihoushin/" onclick="createCookie('lang', 4, 30);" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
+						<a href="http://www.equinix.co.jp/equinix/jyouhousekyuriteihoushin/" onclick="createCookie('lang', 4, 30); changeSites(this); return false;" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
 							<img src="/images/template/japanese.gif" alt="japanese" border="0">
 						</a>
 					</li>					<li>
-						<a href="http://www.equinix.de/equinix/datenschutzerklarung/" onclick="createCookie('lang', 5, 30);" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
+						<a href="http://www.equinix.de/equinix/datenschutzerklarung/" onclick="createCookie('lang', 5, 30); changeSites(this); return false;" onmouseover="imageRollover(this)" onmouseout="imageRollover(this)">
 							<img src="/images/template/german.gif" alt="german" border="0">
 						</a>
 					</li>				</ul> 
@@ -63,31 +101,31 @@
 			
 			<a href="/home/"><img src="/images/template/logo.gif" alt="Equinix" title="Equinix" id="logo"></a>
 			<ul id="nav">				<script language="JavaScript" type="text/javascript">
-					window['expertise_arr'] = new Array('Why Equinix?', '/expertise/why', 'Our Vision', '/expertise/vision', 'Our Environment', '/expertise/environment', 'Testimonials', '/expertise/testimonials');
+					window['expertise_arr'] = new Array('Why Equinix?', '/expertise/why/', 'Our Vision', '/expertise/vision/', 'Our Environment', '/expertise/environment/', 'Testimonials', '/expertise/testimonials/');
 				</script>
 				<li id="expertise"><a href="/expertise/" onmouseover="menuDisplay(this, 'expertise');">expertise</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['solutions_arr'] = new Array('Colocation', '/solutions/colocation', 'Interconnection', '/solutions/interconnection', 'Network Connectivity', '/solutions/connectivity', 'Support and Monitoring', '/solutions/support', 'View All Product Downloads', '/solutions/products');
+					window['solutions_arr'] = new Array('Colocation', '/solutions/colocation/', 'Interconnection', '/solutions/interconnection/', 'Network Connectivity', '/solutions/connectivity/', 'Support and Monitoring', '/solutions/support/', 'View All Product Downloads', '/solutions/products/');
 				</script>
 				<li id="solutions"><a href="/solutions/" onmouseover="menuDisplay(this, 'solutions');">solutions</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['industries_arr'] = new Array('Financial Services', '/industries/financial', 'Networks', '/industries/network', 'Enterprise', '/industries/enterprise', 'Internet Content', '/industries/internetcontent');
+					window['industries_arr'] = new Array('Financial Services', '/industries/financial/', 'Networks', '/industries/network/', 'Enterprise', '/industries/enterprise/', 'Internet Content', '/industries/internetcontent/');
 				</script>
 				<li id="industries"><a href="/industries/" onmouseover="menuDisplay(this, 'industries');">industries</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['locations_arr'] = new Array('Interactive Map', '/locations/map', 'Video Tours', '/locations/tours');
+					window['locations_arr'] = new Array('Interactive Map', '/locations/map/', 'Video Tours', '/locations/tours/');
 				</script>
 				<li id="locations"><a href="/locations/" onmouseover="menuDisplay(this, 'locations');">locations</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['news_arr'] = new Array('Press Releases', '/news/press', 'Articles', '/news/articles', 'Events', '/news/events');
+					window['news_arr'] = new Array('Press Releases', '/news/press/', 'Articles', '/news/articles/', 'Events', '/news/events/');
 				</script>
 				<li id="news"><a href="/news/" onmouseover="menuDisplay(this, 'news');">news</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['investors_arr'] = new Array('Financial Information', '/investors/financial', 'Company Information', '/investors/company', 'Stock Information', '/investors/stock', 'Investor Resources', '/investors/resources');
+					window['investors_arr'] = new Array('Company Information', '/investors/company/', 'Stock Information', '/investors/stock/', 'Investor Resources', '/investors/resources/');
 				</script>
 				<li id="investors"><a href="/investors/" onmouseover="menuDisplay(this, 'investors');">investors</a></li>
 				<script language="JavaScript" type="text/javascript">
-					window['company_arr'] = new Array('History', '/company/history', 'Management', '/company/management', 'Customers', '/company/customers', 'Careers', '/company/careers', 'Contact Us', '/company/contact', 'Sales Inquiries', '/company/sales');
+					window['company_arr'] = new Array('History', '/company/history/', 'Management', '/company/management/', 'Customers', '/company/customers/', 'Careers', '/company/careers/', 'Contact Us', '/company/contact/', 'Sales Inquiries', '/company/sales/');
 				</script>
 				<li class="last" id="company"><a href="/company/" onmouseover="menuDisplay(this, 'company');">company</a></li>
 			</ul>
@@ -121,13 +159,26 @@
 
 <h3>User Consent</h3>
 <p>By using this Web site, you consent to the terms of Equinix’s Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where Equinix collects Personal Information on the web. Equinix reserves the right to change the terms of its privacy policy at any time. If we do change this privacy policy, we will post the changes on this Web site. We encourage you to review this privacy policy each time you visit our Web site to make sure you understand our current policy on collecting and using information collected through our Web site. If you have any inquiries or complaints you may contact us at <a href="mailto:marketing@Equinix.com">marketing@equinix.com</a>.</p>
+
+
 				
 				<p></p>
 			</div><div id="rightcontent">			<h3><img src="/text/text2img.php?text=Related+Content%3A&amp;type=gif&amp;size=6&amp;font=FFF+Intelligent+Thin.ttf&amp;fgcolor=4d4d4f&amp;bgcolor=FFFFFF"></h3>
 					<ul>
-					<li><a href="/equinix/legal/">Legal Notices</a></li>					</ul>
+					<li><a href="/legal/">Legal Notices</a></li>					</ul>
 			</div>
-<div id="footer">© 2008 Equinix, Inc. All rights reserved. &nbsp;&nbsp;&nbsp;&nbsp; <a href="/sitemap/">Sitemap</a> · <a href="/legal/">Legal</a> · <a href="/privacy/">Privacy Policy</a>		</div>
+<div id="footer">
+© 2009 Equinix, Inc. All rights reserved. &nbsp;&nbsp;&nbsp;&nbsp; <a href="/sitemap/">Sitemap</a> · <a href="/legal/">Legal</a> · <a href="/privacy/">Privacy Policy</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6916779-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
 </div>
 
 </body></html>
