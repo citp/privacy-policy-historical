@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketmastery.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052519id_/http%3A//www.marketmastery.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmastery.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622103334id_/http%3A//www.marketmastery.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # Profits Run Privacy Policy
 
