@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdpri.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152147id_/http%3A//www.tdpri.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdpri.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622035945id_/http%3A//www.tdpri.com/privacy.htm) for the most accurate reproduction.*
 
 # TDPRI.COM Privacy Policy
 
@@ -25,7 +25,7 @@ TDPRI.COM offers User Reviews & Ratings and Discussion boards. TDPRI.COM users s
 
 TDPRI.COM may provide links to its partners and other Internet sites. These sites have separate data and privacy practices independent of TDPRI.COM, and TDPRI.COM disclaims any responsibility or liability for their policies or actions. 
 
-Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to TDPRI.COM, by visiting your online Profile. [](https://web.archive.org/web/20081216152147id_/http%3A//www.tdpri.com/staff@allfordmail.com)
+Correcting and Updating Your Information. You can view and make changes to the information you have previously provided to TDPRI.COM, by visiting your online Profile. [](https://web.archive.org/web/20090622035945id_/http%3A//www.tdpri.com/staff@allfordmail.com)
 
 ## Security.
 
