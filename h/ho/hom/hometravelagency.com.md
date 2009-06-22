@@ -1,85 +1,65 @@
-> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103501id_/http%3A//www.hometravelagency.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622175051id_/http%3A//www.hometravelagency.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Notice Table Of Contents:**   
+1\. HOW WE PROTECT YOUR PRIVACY.   
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy. 
 
+2\. MINORS.   
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
 
-  * Our Commitment To Privacy 
-  * The Information We Collect 
-  * How We Use Information 
-  * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy\
-  * How To Access Or Correct Your Information
-  * How To Contact Us  
+3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.   
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may [view these terms and conditions](https://web.archive.org/web/20090622175051id_/http%3A//www.hometravelagency.com/termsofuse.html) on our website. 
 
+4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU.   
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you. 
 
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer. 
 
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features. 
 
-**Our Commitment To Privacy**   
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction. 
 
+5\. WHAT WE DO WITH YOUR INFORMATION.   
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions. 
 
-**The Information We Collect:**   
-This notice applies to all information collected or submitted on the Home Travel Agency.com website, operated by The Intrepid Traveler. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs. 
 
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability. 
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.)   
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes. From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others. 
 
+6\. USER NAMES AND PASSWORDS.   
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet. 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
-Name   
-Address   
-Phone Number   
-(etc.) 
+7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.   
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too. 
 
-On some pages, you can provide your name (optional) and email address to receive our newsletter or other information about our products/  
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
 
+8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS.   
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information. 
 
-**The Way We Use Information:**   
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+9\. AUTORESPONDERS.   
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to admin@intrepidtraveler.com, or sending us mail to the address listed below. 
 
-We use email addresses collected when you subscribe to our newsletter to send the newsletter to you. We use email addresses collected when you request information via an autoresponder (such as our "Mini-Course for Home-Based Travel Agents") to send the requested information.  
+10\. POLICY CHANGES.   
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes. 
 
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to admin@intrepidtraveler.com and providing us with information relating to your concern. You may also mail your concerns to us at the following address:   
+The Intrepid Traveler   
+P.O. Box 531   
+Branford, CT 06405   
+United States of America 
 
-We use return email addresses to answer the email we receive. 
+11\. CALIFORNIA PRIVACY RIGHTS.   
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to admin@intrepidtraveler.com or write us at the following address:   
+The Intrepid Traveler   
+P.O. Box 531   
+Branford, CT 06405   
+United States of America 
 
-We reserve the right to use such addresses to provide you with occasional notices of new products and special offers. You may elect not to receive additional emails of this nature at any time by requesting that your email addresses be removed from our records.
-
-Such addresses are not used for any other purpose and are not shared with outside parties.   
-
-
-We reserve the right to use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.   
-
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
-
-
-**Our Commitment To Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
-
-
-**Our Commitment To Children's Privacy:**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.   
-
-
-**How You Can Access Or Correct Your Information**  
-You can access all your personally identifiable information that we collect online and maintain by contacting us and requesting or updating such information. We use this procedure to better safeguard your information.   
-
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
-
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
-
-
-**How To Contact Us**   
-Should you have other questions or concerns about these privacy policies, please call us at 203-488-5341 or send us an email at admin@intrepidtraveler.com. 
+This policy was last updated on 04-23-2009. Copyright © 2008 [Law Office of Michael E. Young PLLC](http://mikeyounglaw.com/) , and licensed for use by the owner of this website at www.hometravelagency.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
 
 **TOP**
 
@@ -91,4 +71,6 @@ The Intrepid Traveler
 POB 531, Branford, CT 06405(203) 469-0214  
 Copyright© 1999-2007. All rights reserved.  
   
----|---
+---|---  
+  
+[Terms of Use](https://web.archive.org/web/20090622175051id_/http%3A//www.hometravelagency.com/termsofuse.html)    [Privacy Policy](https://web.archive.org/web/20090622175051id_/http%3A//www.hometravelagency.com/privacy.html)
