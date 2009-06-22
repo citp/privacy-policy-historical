@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the phila.gov privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216084529id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phila.gov privacy policy that was archived on 2009-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090622043250id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
     <title>PHILA.GOV | Welcome to the City of Philadelphia</title>
     <link href="../styles/stylesMS.css" rel="stylesheet" type="text/css">
+    <link href="../styles/subscribe.css" rel="stylesheet" type="text/css">
+	<script src="../styles/Master_pages/scripts/subscribe.js" type="text/javascript"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="description" content="Official site of the City of Philadelphia, includes information on municipal services, permits, licenses, records for citizens and businesses">
     <meta name="keywords" content="City of Philadelphia, Municipal Services, Permits, Licenses, Mayor Michael Nutter">
@@ -12,16 +14,12 @@
     <meta name="email" content="webissues@phila.gov">
     <meta name="Rating" content="General">
     
-    <!--- SPRY ACCORDION --->
-    <script src="../styles/Master_pages/SpryAssets/SpryAccordion.js" type="text/javascript"></script>
-    <link href="../styles/Master_pages/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css">
-    
     <!--- SPRY MENU BAR --->
     <script src="../styles/Master_pages/SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
     <link href="../styles/Master_pages/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css">
     <link href="../styles/Master_pages/SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css">
-
     <script type="text/JavaScript">
+	
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -39,12 +37,30 @@ function RunSearch()
 //-->
     </script>
 	
+<style>
+
+body {
+background:url("http://www.phila.gov/images/bg_new4.jpg") repeat-x fixed;
+}
+
+div.TopNavMenu a:hover {
+text-decoration:none;
+color:#FFFFFF;
+}
+</style>
+
+<script>
+function winopenpop(){
+win = window.open("http://moiswebdev01.phila.gov/Subscription/SubscriptionForm.aspx","NewWin","toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=480,height=705")
+}
+</script>
+
 
 <title>PHILA.GOV | Welcome to the City of Philadelphia</title>
  
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="../styles/stylesMS.css" rel="stylesheet" type="text/css">
-<script language="javascript" src="../flash/background.js"></script></head><body background="http://www.phila.gov/images/bannerC.jpg" bgcolor="#FFFFFF" link="000000" alink="000000" vlink="000000">
+<script language="javascript" src="../flash/background.js"></script></head><body background="http://www.phila.gov/images/bannerD.jpg" bgcolor="#FFFFFF" link="000000" alink="000000" vlink="000000">
 
 <style type="text/css">
 <!--
@@ -56,11 +72,61 @@ body {
 -->
 </style>
 
-
 <div align="center">
-<div style="width:964px; border:1px solid #000000; background-color:#FFFFFF; margin:0 auto;">
-    <div class="pageWrapper">
-        <div id="divHeader" style="width: 100%; margin: 0px 0px 0px 0px; height: 150px; background-color:#223e66;">
+<div style="background-color:#FFFFFF; width:964px; padding:0px; margin:0 auto;">
+    <div class="pageWrapper" style="border:1px solid #000000; ">
+    
+        <div id="divHeader" style="width:100%; margin: 0px 0px 0px 0px; height: 150px; background:url('http://www.phila.gov/ImgGen') top #233e66 no-repeat;">
+        
+        
+        <!-- SUBSCRIPTION TAB START
+        	//////////////////////////////////////////   -->       
+        
+        <!--
+        <div style="float:right; margin:0px 20px 0px 0px" align="right">
+        
+        <div class="subscribeContent" id="tabContent">
+            <FORM name="SubscribeForm" id="subscribeForm" action="http://webapps.phila.gov/Subscription/SubscriptionForm.aspx" target="newwin" method="POST"
+            onsubmit ="return window.open('','newwin','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,copyhistory=no,scrollbars=no,width=480,height=705')">
+
+            <div class="label">Email</div>
+                    <div class="field">
+                        <span id="cust_emailAddress">
+                        <input name="email" type="text" id="email" size="28" />
+                        </span>    
+                    </div>
+                    <div class="clear"></div>
+                    
+            <div class="label">Zip Code</div>
+                    <div class="field"><span id="cust_PostalCode">
+                    <input type="text" name="postalcode" id="postalcode" size="10" />
+                    </span>    
+                    </div>
+                    
+                    <div class="buttonHolder">
+                        <div class="button">
+						
+                        <input type="image" src="http://www.phila.gov/images/BTN_Send2.gif"/>
+                        
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    
+                </form>
+                
+        </div>
+                   
+            <div class="tab" id="tabHeader" onClick="subscribe('tabHeader','tabContent')">
+            </div>
+    </div>
+        <div class="clear"></div>
+        -->
+
+        <!--	//////////////////////////////////////////
+        SUBSCRIPTION TAB END  -->
+        
+
+			<!--
             <script language="JavaScript" type="text/javascript">
 	        var images = new Array(); 
           
@@ -93,35 +159,32 @@ body {
 		        + " alt='"  	+ sAlternateText    + "'"
 		        + ">"
 		        );
-            </script><img id="WelcomeBanner" name="WelcomeBanner" src="http://www.phila.gov/images/bannerA.jpg" width="964" height="150" title="Welcome to the City of Philadelphia, Mayor Michael Nutter" alt="Welcome to the City of Philadelphia, Mayor Michael Nutter">
+            </script>
+            -->
         </div>
         <!-- TOP NAVIGATION - START -->
         <div class="TopNavWrapper" style="border-top:1px solid #223e66;">
             <div style="padding-left: 5px; float: left;">
-              <form action="" method="get" name="frmSearch" id="frmSearch" onsubmit="RunSearch(); return false;" style="margin: 0px 0px 0px 0px; padding-top:-5px;">
+              <form action="/styles/Master_pages" method="get" name="frmSearch" id="frmSearch" onsubmit="RunSearch(); return false;" style="margin: 0px 0px 0px 0px; padding-top:-5px;">
                 <span class="quickhit-title"><strong>Search:</strong></span>
                 <input id="q" name="q" onchange="RunSearch(); return false;">
                 <!--                  <input name="Search" type="image" id="FormsButton2" src="../images/go_button_new.gif"
                         align="middle" style="width: 20px; height: 15px; border: 0;" />
                        
 -->
-                <input name="input" type="button" value="GO»" style="width: 20px; height: 15px; border: 0;" onclick="RunSearch(); return false;">
+                <input name="input" type="button" value="GO»" style="width: 27px; height: 16px; border: 0;" onclick="RunSearch(); return false;">
               </form>
-              <!--
-                <script type="text/javascript" language="javascript" src="/liveclock.js"></script>
-                <script language="javascript" src="/clockset.js" type="text/javascript"></script>
--->
             </div>
             <div class="TopNavMenu" style="color: #ffffff;">
-                <a href="/">HOME</a> <span>| </span><a href="/residents/">
-                    RESIDENTS</a> <span>| </span><a href="/business/">BUSINESS</a>
-                <span>| </span><a href="/visitors/" target="_blank">VISITORS</a>
-                <!--
-            <span> | </span>
-            <a href="../tos/index.html">TERMS OF USE</a>
--->
+                <a href="http://www.phila.gov">HOME</a> <span>| </span><a href="../../residents/">
+                    RESIDENTS</a> <span>| </span><a href="../../business/">BUSINESS</a>
                 <span>| </span>
-                <form id="form1" method="post" action="" style="display: inline; margin: 0px 0px 0px 0px;">
+                <a href="../../visitors/" target="_blank" title="">LEISURE</a>
+                <span>|</span>
+                <a href="../../311/" title="Philly311, Your connection to City Hall">3-1-1</a>
+                <span>|</span>
+
+                <form id="form1" method="post" action="/styles/Master_pages" style="display: inline; margin: 0px 0px 0px 0px;">
                     <select name="departments" class="smallText" onchange="MM_jumpMenu('parent',this,0)">
                         <option selected="selected">Select a City Department</option>
                         <option>-----------------------</option>
@@ -153,40 +216,36 @@ body {
                             Courts - Superior</option>
                         <option value="http://www.phila.gov/redirect/redirect.asp?url=http://www.courts.state.pa.us/Index/Supreme/indexSupreme.asp">
                             Courts - Supreme</option>
+                        <option value="http://www.phila.gov/destinationfellowship/">Destination Fellowship</option>
                         <option value="http://www.phila.gov/districtattorney/index.html">District Attorney Office</option>
-						<option value="http://www.phila.gov/dot/">Division of Technology (DOT)</option>
+                        <option value="http://www.phila.gov/dot/">Division of Technology (DOT)</option>
                         <option value="http://www.phila.gov/ready/">Emergency Management</option>
                         <option value="http://www.phila.gov/ethicsboard/">Ethics Board</option>
                         <option value="http://www.phila.gov/fairhousing/">Fair Housing </option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.fairmountpark.org/">
-                            Fairmount Park</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.fairmountpark.org/">Fairmount Park</option>
                         <option value="http://www.phila.gov/finance/">Finance</option>
                         <option value="http://www.phila.gov/fire/about/index_homepage.html">Fire</option>
                         <option value="http://www.phila.gov/fleet/">Fleet Management</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pgworks.com/">
-                            Gas Commission (PGW)</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.govengine.com/">
-                            Government Info (State/Fed)</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pgworks.com/">Gas Commission (PGW)</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.govengine.com/">Government Info (State/Fed)</option>
+                        <option value="http://www.phila.gov/health">Health Department</option>
                         <option value="http://www.phila.gov/historical/">Historical Commission</option>
                         <option value="http://www.phila.gov/ohcd/">Housing &amp; Comm Dev (OHCD)</option>
                         <option value="http://www.pha.phila.gov/">Housing Authority</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phdchousing.org/about.htm">
-                            Housing Development</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phdchousing.org/about.htm">Housing Development</option>
                         <option value="http://www.phila.gov/humanrelations/">Human Relations Commission</option>
                         <option value="http://dhs.phila.gov/intranet/PGintrahome_pub.nsf">Human Services (DHS)</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pidc-pa.org/">
-                            Industrial Development (PIDC)</option>                    
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.pidc-pa.org/">Industrial Development (PIDC)</option>
                         <option value="http://www.phila.gov/oig/">Inspector General</option>
                         <option value="http://www.phila.gov/law/index.html">Law Department</option>
                         <option value="http://www.library.phila.gov/">Library</option>
                         <option value="http://www.phila.gov/li/index.html">Licenses and Inspections</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaliteracy.org/">
-                            Literacy</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philaliteracy.org/">Literacy</option>
                         <option value="http://www.phila.gov/mdo/">Managing Director</option>
                         <option value="http://www.phila.gov/action/">Mayor's Action Center</option>
                         <option value="http://www.phila.gov/immigrant/redirect.asp">Mayor's Commission on African and Caribbean Immigrant Affairs</option>
                         <option value="http://mcot.phila.gov/">Mayor's Commission on Technology</option>
-                        <option value="http://www.phila.gov/energy/">Municipal Energy Office</option>
+                        <option value="http://www.phila.gov/green/">Mayor's Office of Sustainability</option>
                         <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.muralArts.org">Mural Arts</option>
                         <option value="http://www.phila.gov/nti/">Neighborhood Transformation</option>
                         <option value="http://mbec.phila.gov/home/">Office of Economic Opportunity</option>
@@ -211,7 +270,7 @@ body {
                         <option value="http://www.phila.gov/commerce/rep/index.htm">City Representatives</option>
                         <option value="http://www.phila.gov/revenue/">Revenue</option>
                         <option value="http://www.phila.gov/risk/">Risk Management</option>
-                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philsch.k12.pa.us/">School District</option>
+                        <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.philasd.org">School District</option>
                         <option value="http://www.phila.gov/utilities/redirectpage.aspx?url=http://www.phillysheriff.com/">Sheriff</option>
                         <option value="http://www.phila.gov/sinking/">Sinking Fund</option>
                         <option value="http://www.phila.gov/osp/">Strategic Planning</option>
@@ -221,19 +280,20 @@ body {
                         <option value="http://mcot.phila.gov/">Technology Commission (MCOT)</option>
                         <option value="http://www.phila.gov/oess/">Temporary Shelter (OESS)</option>
                         <option value="http://www.phila.gov/treasurer/">Treasurer's Office</option>
+                        <option value="http://www.phila.gov/veterans">Veterans Advisory Commission</option>
                         <option value="http://www.phila.gov/virtualch">Virtual City Hall</option>
                         <option value="http://www.phila.gov/water/index.html">Water</option>
-                        <option value="http://www.phila.gov/waterrev/index.html">Water Revenue</option>
+                        <option value="http://www.phila.gov/revenue/index.shtml">Water Revenue</option>
                        
-                    </select>
+                      </select>
                 </form>
             </div>
-            <div style="clear: both;">
+          <div style="clear: both;">
             </div>
         </div>
         <!-- TOP NAVIGATION - END -->
         <div class="fullBodyWrapper">
-            <div class="leftNavWrapper" style="text-align:left">
+            <div class="leftNavWrapper" style="text-align:left;">
                 <div class="leftNavMenu2">
                     <div class="leftNavSubMenu2">
                         <a class="departtxt" href="http://www.phila.gov/mayor">MAYOR'S OFFICE</a>
@@ -244,18 +304,21 @@ body {
                 </div>
                 <div class="leftNavMenu">
                     <div class="helpme">
-                        <a href="/features/index.html">SPECIAL FEATURES</a></div>
+                        <a href="../features/index.html">SPECIAL FEATURES</a></div>
                     <div class="helpme">
-                        <a href="/applications/index.html">ONLINE APPLICATIONS</a></div>
+                        <a href="../applications/index.html">ONLINE APPLICATIONS</a></div>
                     <div class="helpme">
-                        <a href="/reports/index.html">DOWNLOADS</a></div>
+                        <a href="../reports/index.html">DOWNLOADS</a></div>
                 </div>
                 <div class="leftNavMenu">
                     <strong class="textRed">Help Me</strong>
               <div class="leftNavSubMenu">
-                        <a href="http://pdreports.phila.gov/arpublic/" title="Lookup Police Accident and Incident Reports">Accident and Incident Reports</a><a href="http://www.phila.gov/aco/" title="Help for People with Disabilities"><strong>Help for People with Disabilities</strong></a><a href="http://potholes.phila.gov/" target="_blank">Report a Pothole</a>
-                        <a href="http://www.ppdonline.org/rpts/" target="_blank">Report Illegal Activity</a>
-                        <a href="https://secure.phila.gov/ivrtoweb/">Vendor Invoice Information</a>                    </div>
+                        <p><a href="http://pdreports.phila.gov/arpublic/" title="Lookup Police Accident and Incident Reports">Accident and Incident Reports</a><a href="http://www.phila.gov/aco/" title="Help for People with Disabilities"><strong>Help for People with Disabilities</strong></a><a href="http://potholes.phila.gov/" target="_blank">Report a Pothole</a></p>
+                        <p>
+                            <a href="http://www.phila.gov/oig" target="_blank">Report Fraud, Corruption in City Government</a>
+                            <a href="http://www.ppdonline.org/rpts/" target="_blank">Report Illegal Activity</a>
+                          <a href="https://secure.phila.gov/ivrtoweb/">Vendor Invoice Information</a> </p>
+              </div>
               </div>
           <div class="leftNavMenu">
                     <strong class="textRed">Find...</strong>
@@ -274,21 +337,23 @@ body {
                         
                         <a href="http://www.phila.gov/skateparks">Skate Parks</a>
                         <a href="http://www.phillyelection.com">Voter Information</a><br>                        
-                        
                     </div>
                 </div>
                 <div class="leftNavMenu">
                     <div align="left" class="textRed">
                         <strong>Licenses, Certificates &amp; Permits</strong></div>
                         <div class="leftNavSubMenu">
-                            <a href="http://webapps.phila.gov/li/" target="_blank" title="Building (including Fast Form Permits) and Contruction Permits">Building and Contruction Permits</a>
+                            <a href="http://webapps.phila.gov/li/" target="_blank" title="Building (including Fast Form Permits) and Contruction Permits">Building and Construction Permits</a>
                            
                             <a href="https://secure.phila.gov/li-rent/" target="_blank">Certification of Rental
                                 Suitability</a>
                                 
                             <a href="http://ework.phila.gov/psc-onlinev2/" target="_blank">Property Sales Certification</a>
                             
-                            <a href="https://mylocalgov.com/CityOfPhiladelphiaPA/OnlinePaymentRouting.asp?countyname2=philadelphia&amp;paymenttype=Housing%20Inspection%20Renewals" target="_blank">Housing Inspection Renewal</a>
+                            <!--
+                            <a href="https://mylocalgov.com/CityOfPhiladelphiaPA/OnlinePaymentRouting.asp?countyname2=philadelphia&paymenttype=Housing%20Inspection%20Renewals"
+                                target="_blank">Housing Inspection Renewal</a>
+                            -->
                                 
                             <a href="http://www.petdata.com/cs/phl/" target="_blank">Animal License</a>
 
@@ -433,12 +498,12 @@ body {
             <div align="center" style="border-top: 1px solid #233e66; padding-top: 8px;">
                 <span class="mayor"><a href="http://www.phila.gov/phils" target="_blank">City Archive -
                     PHILS</a> <span>| </span>Technical problems: <a href="mailto:webissues@phila.gov">webissues@phila.gov</a>
-                    <span>| </span><a href="/privacy/index.html">privacy policy</a> <span>| </span>
+                    <span>| <a href="index.html">HIPAA </a></span><a href="index.html">privacy policy</a> <span>| <a href="http://www.phila.gov/privacy/pdfs/FinalCityOpenRecords.pdf" target="_blank">Right To Know Policy</a> | </span>
                     <a href="../tos/index.html">Terms of Use</a> </span>
                 <!--
 -->
             </div>
-            <div align="center" class="mayor" style="padding-top: 8px; margin: 0 auto;"></div>
+          <div align="center" class="mayor" style="padding-top: 8px; margin: 0 auto;"></div>
           <div>
             </div>
         </div>
