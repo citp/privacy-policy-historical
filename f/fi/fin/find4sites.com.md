@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find4sites.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221131141id_/http%3A//find4sites.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find4sites.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622023346id_/http%3A//www.find4sites.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Offshore IT Outsourcing, indian Software Development, Web Site Development india
 
