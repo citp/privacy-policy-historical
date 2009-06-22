@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222180446id_/http%3A//www.petwave.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petwave.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622201928id_/http%3A//www.petwave.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# PetWave.com - Home - Privacy Policy
+# PetWave.com - Privacy Policy
 
 ## Privacy Policy
 
@@ -8,7 +8,7 @@ PetWave understands how important the privacy of personal information is to our 
 
 ### About This Privacy Policy and Using Our Site and Tools 
 
-This Privacy Policy applies to the PetWave Web sites owned and operated by PetWave, including the PetWave.com site. Reference to "PetWave" means PetWave LLC, including any company that PetWave LLC controls (for example, a subsidiary that PetWave LLC owns). PetWave Web sites include any site that PetWave owns or controls. PetWave may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
+This Privacy Policy applies to the PetWave Web sites owned and operated by PetWave, including the PetWave.com site. Reference to "PetWave" means PetWave Corporation, including any company that PetWave Corporation controls (for example, a subsidiary that PetWave Corporation owns). PetWave Web sites include any site that PetWave owns or controls. PetWave may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
 
 The PetWave Web site contains links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that PetWave is not responsible for the privacy practices of these other sites. We encourage you to look for and review the privacy statements of each and every Web site that you visit through a link or advertisement on PetWave.
 
