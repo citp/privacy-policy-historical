@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219040659id_/http%3A//www.freelancersoutpost.com/index.php%3Fread%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622061035id_/http%3A//www.freelancersoutpost.com/index.php%3Fread%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Freelancers Outpost - Freelance Designers, Writers, Programmers and more. Outsource your projects and jobs to our highly skilled staff.
 
@@ -36,7 +36,7 @@ We like to keep our Customers informed via e-mail and other means. Sometimes Fre
 Please note that Freelancers Outpost does provide information to outside companies (such as a credit card processing company) who perform certain functions on our behalf for billing purposes. We will not permit those companies to use the gathered information for other than the stated purpose.
 
 **Correct/Update**  
-If you would like to change or modify information you have previously provided to us, please **[contact us](https://web.archive.org/web/20081219040659id_/http%3A//www.freelancersoutpost.com/index.php?a=contactus)**.
+If you would like to change or modify information you have previously provided to us, please **[contact us](https://web.archive.org/web/20090622061035id_/http%3A//www.freelancersoutpost.com/index.php?a=contactus)**.
 
 **Cookies**  
 Some of the websites we host place small bits of text or "cookies" onto your computer's hard drive. Cookies enable us to deliver content specific to your interests and keep track of your password so you do not have to re-enter it each time you visit our web sites. After you accept a cookie, it is passed from your browser to our servers each time you request a page. This cookie consists of a unique token that anonymously identifies to the server so that you can more easily access the features of the Freelancers Outpost Service. Please note that you may configure your web browser to warn you before you accept a cookie.
@@ -45,7 +45,7 @@ Some of the websites we host place small bits of text or "cookies" onto your com
 **Freelancers Outpost will not read or disclose e-mail content to others unless required by law or deemed necessary to operate our services.**
 
 **Contacting the Web Site**  
-If you have any questions about Freelancers Outpost's privacy policy or the privacy practices of our web sites, please **[contact us](https://web.archive.org/web/20081219040659id_/http%3A//www.freelancersoutpost.com/index.php?a=contactus)**
+If you have any questions about Freelancers Outpost's privacy policy or the privacy practices of our web sites, please **[contact us](https://web.archive.org/web/20090622061035id_/http%3A//www.freelancersoutpost.com/index.php?a=contactus)**
 
 **Changes to the Privacy Policy**  
 In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the Freelancers Outpost web site. Please check back often to review any revisions. 
