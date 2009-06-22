@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221212059id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622154318id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTSPIRIT.COM
 
@@ -24,7 +24,7 @@ At some GTspirit sites and through certain promotions, you can submit personally
 
 In some circumstances, we also collect non-personally-identifying information. When you visit a GTspirit website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider. This information, by itself, does not permit individual identification, meaning that you will remain anonymous. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-When you visit our websites, we may send one or more cookies â€“ small, removable data files â€“ to your computer. We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at GTspirit websites. For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit. Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies. Some of the features and services of GTspirit websites may not operate properly if your cookies are disabled.
+When you visit our websites, we may send one or more cookies – small, removable data files – to your computer. We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at GTspirit websites. For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit. Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies. Some of the features and services of GTspirit websites may not operate properly if your cookies are disabled.
 
 Cookies, by themselves, do not provide us with any personally-identifying information. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to the data stored in the cookie.
 
