@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000facials.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180932id_/http%3A//www.1000facials.com/MCE/1kf/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000facials.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622070540id_/http%3A//www.1000facials.com/MCE/1kf/0/privacy) for the most accurate reproduction.*
 
 # 1000Facials.com :: Privacy Policy
 
