@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190637id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622052200id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Roosh V
 
@@ -28,3 +28,5 @@ With respect to security: We have appropriate security measures in place in our 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
 _Updated: February 25, 2008_
+
+**Comments are closed for this post.**
