@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222055614id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173443id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : GIS Lounge - Geographic Information Systems
 
@@ -27,3 +27,5 @@ To try and bring you offers that are of interest to you, we have relationships w
 >  <http://www.google.com/privacy.html>
 
 The ad policy of the site can be accessed by clicking [here](http://gislounge.com/freisin/aboutads.shtml).If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+
+[](http://twitter.com/home/?status=Privacy+Policy+http://tinyurl.com/dbq9wm "Post to Twitter")  [](http://delicious.com/post?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Delicious")  [](http://digg.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Digg")  [](http://reddit.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to Reddit")  [](http://stumbleupon.com/submit?url=http://gislounge.com/privacy-policy/&title=Privacy+Policy "Post to StumbleUpon") 
