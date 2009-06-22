@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222175228id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622170514id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
 
 # Mass Audubon | About Mass Audubon
 
@@ -20,7 +20,9 @@ We have appropriate, industry standard security measures in place in our physica
 Member Information  
 Member information is never sold or rented. However, Mass Audubon occasionally exchanges with other nonprofit organizations the names and mailing addresses of a limited number of members. Additionally, Mass Audubon periodically partners with organizations to send product offers and promotional mailings that we believe may be of interest to our members. 
 
-Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://web.archive.org/web/20081222175228id_/http%3A//www.massaudubon.org/about/confidential.php) or contact Member Services.
+Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://web.archive.org/web/20090622170514id_/http%3A//www.massaudubon.org/about/confidential.php) or contact Member Services.
+
+Mass Audubon regularly uses outside vendors for purposes of producing mailings, updating addresses, or sending email messages. In each case, we verify that member information is handed securely and treated confidentially.
 
 You can help Mass Audubon maintain the accuracy of your information and facilitate the timely receipt of membership benefits by notifying Member Services of any changes to your name, address, phone number, or e-mail address. To help us update your record, please provide us with your street address and membership number, which appears on your membership card.
 
