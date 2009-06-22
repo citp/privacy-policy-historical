@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222110624id_/http%3A//www.rentals.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622101658id_/http%3A//www.rentals.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,6 +119,6 @@ Norcross, Georgia 30092
 
 #### Copyright
 
-© Copyright 2007 Consumer Source Inc. All rights reserved.
+Copyright © 2002-2009 PRIMEDIA Inc. All rights reserved.
 
 Last updated July 2nd, 2007
