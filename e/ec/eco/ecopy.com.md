@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220164936id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622114030id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
 
 # eCopy, Inc. - Document Imaging Software - Privacy Policy
 
@@ -44,4 +44,6 @@ Attention: Marketing Department
 Last Updated: July 1, 2006  
 
 
-[Back to Top](https://web.archive.org/web/20081220164936id_/http%3A//www.ecopy.com/company_privacy_policy.asp#top)
+[Back to Top](https://web.archive.org/web/20090622114030id_/http%3A//www.ecopy.com/company_privacy_policy.asp#top)
+
+Back to Top
