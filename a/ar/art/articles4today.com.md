@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles4today.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222014134id_/http%3A//www.articles4today.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles4today.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622172138id_/http%3A//articles4today.com/privacy.html) for the most accurate reproduction.*
 
 # privacy articles4today.com
 
