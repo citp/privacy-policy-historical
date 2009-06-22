@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the friendplay.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173052id_/http%3A//www.friendplay.com/index.php%3Fm%3Dmain%26c%3Dshow_notice%26id%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendplay.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622070203id_/http%3A//www.friendplay.com/index.php%3Fm%3Dmain%26c%3Dshow_notice%26id%3Dpolicy) for the most accurate reproduction.*
 
 # Friendplay - Mobile Friendship, Free SMS, Blogs, Video, Music, Dating, Match Making, and Mobile Phone Community!
 
-Privacy Policy 
+Privacy Policy
 
 This policy is effective as of August 8, 2008. 
 
@@ -53,4 +53,4 @@ Members who no longer wish to receive our weekly email updates or other email no
 Ads which appear on this Website are delivered to Members by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Friendplay does not have access to or control of the cookies that may be placed on the computer of any Member or other user of the Friendplay Website by the third-party ad servers or ad networks.
 
  **Contacting Friendplay**  
-If you have any questions about this privacy policy, Friendplay’s Privacy Practices, please don’t hesitate to [Contact Us](https://web.archive.org/web/20081218173052id_/http%3A//www.friendplay.com/index.php%3Fm%3Dmain%26c%3Dshow_notice%26id%3Dpolicy?m=main&c=show_contact_us).
+If you have any questions about this privacy policy, Friendplay’s Privacy Practices, please don’t hesitate to [Contact Us](https://web.archive.org/web/20090622070203id_/http%3A//www.friendplay.com/index.php%3Fm%3Dmain%26c%3Dshow_notice%26id%3Dpolicy?m=main&c=show_contact_us).
