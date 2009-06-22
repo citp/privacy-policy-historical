@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220043419id_/http%3A//lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623003926id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Lowy Institute for International Policy
 
@@ -33,11 +33,15 @@ This web site will be continually improved and updated. This may change the way 
 **Lowy Institute news  
 **If you have previously submitted your email address to receive Lowy Institute news and wish to unsubscribe, please send an email to that effect to [unsubscribe@lowyinstitute.org](mailto:unsubscribe@lowyinstitute.org). 
 
-|  |  | [](https://web.archive.org/RSSFeeds.asp "Recent Publications RSS Feed")  
+|  | 
+
+[](https://wic006v.server-secure.com/vs153842_secure/LowySubscriptions/WLLC_Subscription.asp "Wednesday Lowy Lunch Club")
+
+| [](https://web.archive.org/RSSFeeds.asp "Recent Publications RSS Feed")  
 ---  
 **Recent Publications**  
 If you wish to be notified of all new Lowy Institute publications you can subscribe to our Recent Publications RSS Feed. [Click to find out more](https://web.archive.org/RSSFeeds.asp "Recent Publications RSS Feed")  
   
 **Email Updates**  
-Receive updates about publications and events from the Lowy Institute via email  
+Register your details here to receive email updates from the Lowy Institute  
 
