@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070803id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsinsight.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622174615id_/http%3A//www.investorsinsight.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# InvestorsInsight's Privacy Policy - InvestorsInsight Publishing
+# InvestorsInsight's Privacy Policy - InvestorsInsight.com | Financial Intelligence, Advice & Research / Investment Strategies & Planning for Individual Investors.
 
 InvestorsInsight Publishing, Inc. ("InvestorsInsight") recognizes that personal privacy is an important issue, so we design, maintain and operate our services with the protection of individual privacy as one of our utmost concerns. Our readership and subscriber databases are securely maintained for the proprietary publication and distribution of selected newsletters, financial and economic data and timely news reports and notices. 
 
