@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the pubaz.pk privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222061749id_/http%3A//www.pubaz.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubaz.pk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622080212id_/http%3A//www.pubaz.pk/privacy.php) for the most accurate reproduction.*
 
 # PubAZ Pakistan Privacy
 
-| 
-
-Monday, 22 December, 2008
-
-|  |  [ ](http://www.pubaz.pk/index.php?view=post&cityid=-2&lang=en) |   
----|---|---|---  
-  
 **PUBAZ.PK PRIVACY POLICY**  
   
 Your privacy is important to us, so PubAZ has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to all PubAZ web sites, including our publicly accessible web sites located at pubaz.pk ("PubAZ"). This Privacy Policy may be updated from time to time. You can always review the most current version at [http://www.pubaz.pk/privacy.php](http://www.pubaz.pk/privacy.php). By using PubAZ, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.  
@@ -45,4 +38,9 @@ Your privacy is important to us, so PubAZ has created this Privacy Policy to exp
 
 **Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.
 
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@pubaz.pk](mailto:privacy@pubaz.pk).
+**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@pubaz.pk](mailto:privacy@pubaz.pk).  
+  
+Custom Search 
+
+  
+
