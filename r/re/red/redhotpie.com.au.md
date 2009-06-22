@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013400id_/http%3A//redhotpie.com.au/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622021108id_/http%3A//www.redhotpie.com.au/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Online dating privacy policy on RedHotPie
 
@@ -20,11 +20,24 @@ We internally use personally identifiable information of our users to improve ou
 
 We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions. 
 
-We also send periodic informational updates to our members via email. 
-
 We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement. 
 
 We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
+
+We may use your e-mail to send you messages that you have request and to respond to any feedback or queries about out Site or Services. 
+
+**Marketing and Promotional Messages**
+
+All marketing or promotional messages sent from RedHotPie.com.au will be only sent if you have signified your consent via the explicit opt-in process. 
+
+**Opt-out / Unsubscribing**
+
+RedHotPie.com.au will not send you any messages that you have not requested. To opt-out please use one of the following methods: 
+
+1\. All messages sent to you from RedHotPie contain an opt-out option or a link to the unsubscribe function.   
+2\. You can unsubscribe by logging into your account via My Account / Profile Settings screen.   
+3\. You can at any time access the unsubscribe system to stop all messages send to an email address ([located here](https://web.archive.org/unsubscribe.aspx)).   
+4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/help/SupportMessage.aspx) or [help@redhotpie.com.au](mailto:help@redhotpie.com.au)). 
 
 _**  
 **_**Our Commitment To Data Security** __
