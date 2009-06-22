@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bikiniriot.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082723id_/http%3A//www.bikiniriot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikiniriot.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622195316id_/http%3A//www.bikiniriot.com/privacy.htm) for the most accurate reproduction.*
 
 # Bikini Riot Privacy Policy
 
 _**Privacy Policy**_
 
-BIKINIRIOT.COM (the "Site") is committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our information practices, please do not use our Site.
+BIKINIRIOT.COM (the "Site") is committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By registering for access and using our Site, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our information practices, please do not use our Site.
 
 **Notification of Changes  
 **We reserve the right to modify this Privacy Policy at any time by posting such changes on this page. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use our Site, we encourage you to check this page regularly. If you continue to access or use our Site after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
@@ -28,7 +28,7 @@ BIKINIRIOT.COM (the "Site") is committed to protecting your privacy. The followi
 **We do not and will not in the future keep sensitive billing information on our local servers. Our billing processor, CCBill.com, will keep this information. Please see https://support.ccbill.com/ for our billing processor's privacy policy.
 
 **Choice  
-**BIKINIRIOT.COM may use your email address to send our users e-mail, e-mail newsletters, Site news updates, or other notices regarding new services, promotions, or other information which may be of general interest if such communication has been requested by you. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us at info@bikiniriot.com. We will comply with all requests for removal.
+**BIKINIRIOT.COM may use your email address to send registered and former registered users e-mail, e-mail newsletters, Site news updates, or other notices regarding new services, promotions, or other information which we deem may be of general interest.. Users who no longer wish to receive materials from us may opt-out of receiving these communications by contacting us at info@bikiniriot.com. We will comply with all requests for removal.
 
 **Contact Information  
 **If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, contact us by sending an email to: info@bikiniriot.com.
