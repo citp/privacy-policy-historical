@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ospreypacks.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218183408id_/http%3A//www.ospreypacks.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ospreypacks.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622075115id_/http%3A//ospreypacks.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Osprey Packs, Inc. Website Privacy Statement : Osprey Packs, Inc.
+# Osprey Packs, Inc. Website Privacy Statement : : Osprey Packs, Inc.
 
 This document was last updated on March 15, 2006.
 
@@ -57,11 +57,11 @@ Some of these Web beacons may be placed by third party service providers to help
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant at [email](mailto:cs@ospreypacks.com).
 
 8\. CHANGES TO THIS STATEMENT  
-Osprey Packs, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the �updated� date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+Osprey Packs, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the ?updated? date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 7\. CONTACTING US  
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [email](mailto:cs@ospreypacks.com) or send your comments to : 
 
-> Osprey Packs, Inc. Attention: Privacy Statement Personal 115 W. Progress Circle Cortez, CO 81321
+> Osprey Packs, Inc. Attention: Privacy Statement Personal 115 Progress Circle Cortez, CO 81321
 
 Osprey Packs, Inc. will use commercially reasonable efforts to promptly respond and resolve any problem or question.
