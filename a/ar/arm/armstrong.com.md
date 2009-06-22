@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070048id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622171723id_/http%3A//www.armstrong.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Armstrong Web Privacy Policy
 
@@ -12,7 +12,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20081217070048id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
+If you have any questions or comments about Armstrong's Privacy Policy, please [contact us here](https://web.archive.org/web/20090622171723id_/http%3A//www.armstrong.com/corporate/contact-us.html). 
 
 **NOTICE: Information We Collect and How We Use It**  
 Armstrong collects two types of information about you when you visit our site: personal information (including, by way of example only, your name, address, telephone number and e-mail address) and non-personal, aggregate information (such as information regarding the pages on our site that you have visited and your IP address). 
