@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006055143id_/http%3A//www.bamagazine.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamagazine.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622075745id_/http%3A//www.bamagazine.com/Privacy) for the most accurate reproduction.*
 
-# Before & After magazine
+# Before & After | Privacy policy
 
 |  |  | 
 
@@ -53,7 +53,7 @@ In an attempt to provide you with increased value, we may include third party li
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on June, 11 2008.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on April, 24, 2009.**
 
  **Questions and feedback**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20081006055143id_/http://www.bamagazine.com/Privacy/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090622075745id_/http://www.bamagazine.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
