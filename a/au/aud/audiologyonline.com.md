@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222013930id_/http%3A//www.audiologyonline.com/our_company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622115258id_/http%3A//www.audiologyonline.com/our_company/privacy.asp) for the most accurate reproduction.*
 
 # Audiology Online: Privacy Policy
 
@@ -104,6 +104,10 @@ T: 800-753-2160
 _Limitations on Removing or Changing Information_
 
 Upon your request, we will delete your Personally Identifiable from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to Audiology Online from our servers.
+
+Cancellation of your CEU Total Access Membership
+
+You may cancel your CEU Total Access Membership, effective the next billing cycle, online or by contacting our Customer Service Department via telephone at 800-753-2160. 
 
 Changes to this Privacy Policy
 
