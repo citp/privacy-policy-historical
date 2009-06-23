@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070411id_/http%3A//www.thrillist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623032956id_/http%3A//www.thrillist.com/privacypolicy) for the most accurate reproduction.*
 
 # Thrillist | A daily email shot of food, drinks, services, gadgets, gear, sports and travel.
 
@@ -30,7 +30,7 @@ You can unsubscribe from receiving Thrillist emails at any time. You can unsubsc
 
 #### Third Party Advertising
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here. 
+The ads appearing on this Web site are delivered to you by Google, our Web advertising partner. View Google's privacy policy [here](http://www.google.com/privacy.html). 
 
 Occasionally, you'll get an email marked "Allied Info" in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and only reflect the fact that our editorial staff has to put food on the table just like everybody else. Some of this money might also go towards alcohol, but we're not saying how much. 
 
