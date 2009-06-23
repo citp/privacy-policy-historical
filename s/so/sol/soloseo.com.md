@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064037id_/http%3A//www.soloseo.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623030136id_/http%3A//www.soloseo.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SoloSEO
 
