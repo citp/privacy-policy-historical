@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222180223id_/http%3A//www.j-stay.jp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j-stay.jp privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624003823id_/http%3A//www.j-stay.jp/privacy_policy.html) for the most accurate reproduction.*
 
-# Kyoto apartment,Tokyo furnished share house, monthly guesthouse - J-Stay
+# Kyoto rental studio apartment,Tokyo furnished share house, monthly guesthouse - J-Stay
 
 ## Privacy Policy
 
