@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217100258id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624015118id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
 
 # Sheldon: The Daily Comic Strip by Dave Kellett
 
@@ -6,7 +6,7 @@ SHELDON PRIVACY POLICY
 
 **Our Privacy Policy, in a Nutshell:**
 
-This is a comic strip. It's not a bank, or a telecom, or a shady auto dealership. Broadly speaking, we want as little of your information as we can and still run the site with all the features you like.
+We want as little of your information as possible.  This is a comic strip... not a bank, or a telecom, or a shady auto dealership.  We want to make you laugh, not mess with your privacy.
 
 ================================== 
 
