@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223135538id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623182153id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VIVmag
 
