@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommerceoptimization.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218180707id_/http%3A//www.ecommerceoptimization.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerceoptimization.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624000914id_/http%3A//www.ecommerceoptimization.com/privacy) for the most accurate reproduction.*
 
 # eCommerce Blog Privacy | Read eCommerce Optimization, Sell More
 
