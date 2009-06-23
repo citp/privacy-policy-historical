@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011140id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623045920id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
@@ -139,7 +139,7 @@ Your IP address can be accessed by ecard recipients in the header of the notific
 
 ### Opt-Out/Changing Your Status
 
-At any time, you can change choices you have previously made as to the use of your personal information. Every communication AG sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to nomail@privacy.[UIEsiteurl] and type "unsubscribe" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.
+At any time, you can change choices you have previously made as to the use of your personal information. Every communication AG sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to nomail@privacy.americangreetings.com and type "unsubscribe" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.
 
 ### Editing Your Profile
 
