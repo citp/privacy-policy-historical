@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2008-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080814204621id_/http%3A//www.microstrategy.com/Privacy.asp%3FCID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623175634id_/http%3A//www.microstrategy.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,4 +12,4 @@ The MicroStrategy site contains links to other web sites. MicroStrategy is not r
 
 We do use "cookie" technology - this is used to provide you with tailored information from our web site. A cookie is a small text-only file that is stored on your system. By definition, it cannot execute any malicious code or cause any damage to your system. Some pages on our web site use cookies so that we can better serve you when you return to our site - for example, it can "remember" your email address to save you having to enter it manually upon your return.
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. For more information, please see [ "How to work with Cookies"](https://web.archive.org/cookies.asp?CID=).
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. For more information, please see [ "How to work with Cookies"](https://web.archive.org/cookies.asp).
