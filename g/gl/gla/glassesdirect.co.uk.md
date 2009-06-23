@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220170929id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623090059id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
 # Glasses Direct | Legal Stuff | Privacy Statement
 
@@ -105,10 +105,9 @@ At law you have the following rights
   * a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;
   * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
 
+
+
 We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at the address set out on the Site with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.
-
-
-
 
 ### 9\. SECURITY
 
