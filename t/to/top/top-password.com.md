@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-password.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222090617id_/http%3A//www.top-password.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-password.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623134008id_/http%3A//top-password.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -7,17 +7,17 @@
 ## Your Information Remains Private  
   
 ---  
-  |   | Our policy is that we do not share customer information with anyone. We do not give it away, and we do not sell this information to any third party. If you entrust us with your information, we keep it from anyone else. Customer data is not made public for any reason. We use it only to communicate with customers. We do not use your information for any purpose outside the scope of communicating with you in the most efficient manner.  
+Our policy is that we do not share customer information with anyone. We do not give it away, and we do not sell this information to any third party. If you entrust us with your information, we keep it from anyone else. Customer data is not made public for any reason. We use it only to communicate with customers. We do not use your information for any purpose outside the scope of communicating with you in the most efficient manner.  
 ---  
   
 ## Virus-free files guaranteed  
   
-  |   | All of the files posted on our web site are scanned for any potential virus before they are uploaded. We guarantee that the programs you download from us will not be infected in any way.  
+All of the files posted on our web site are scanned for any potential virus before they are uploaded. We guarantee that the programs you download from us will not be infected in any way.  
 ---  
   
 ## Clean software  
   
-  |   | Our software does not contain any adware, spyware or other invading processes to extract information from your system or otherwise annoy you with information.   
+Our software does not contain any adware, spyware or other invading processes to extract information from your system or otherwise annoy you with information.   
 ---  
   
 ## Purchasing  
