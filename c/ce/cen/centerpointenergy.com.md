@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704182255id_/http%3A//centerpointenergy.com/aboutus/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623181440id_/http%3A//www.centerpointenergy.com/about/legal/privacypolicy) for the most accurate reproduction.*
 
-# CNP - Privacy Policy
+# Privacy Policy
 
 **Our pledge to you  
 **CenterPoint Energy cares about our customers. Protecting your privacy is important, so we take great precautions to safeguard your personal information. Throughout our more than 130-year history, we've built our reputation on delivering safe, dependable service. You can trust us to handle your confidential information responsibly. This document will help you understand more about our policies concerning customer information in the online environment of our Web site. It explains the following:
@@ -66,9 +66,7 @@ Regardless of the many precautions we take, CenterPoint Energy recognizes that I
 
 We invite your comments and want to hear from you if you have any questions, problems, or suggestions. We generally will respond to requests or inquiries by the end of the next business day.
 
-_For more contact information, click[ A-Z Directory](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=be88267f08023110VgnVCM10000001a10d0aRCRD). To contact us via e-mail, click Contact above._
-
- Contact us any time:
+Contact us any time:
 
 | 
 
