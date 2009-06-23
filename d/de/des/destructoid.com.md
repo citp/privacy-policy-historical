@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012754id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623020524id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
-# destructoid.com privacy policy | Destructoid, The Gamer's Blog
+# Destructoid - destructoid.com privacy policy
 
 **Mini Privacy Policy:**
 
@@ -34,6 +34,3 @@ Be sure that you only disclose your e-mail address in circumstances in which it 
 **Contacting the Webmaster  
 **   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact the site owner at [niero@destructoid.com](mailto:niero@destructoid.com). I will do our best to reply within 48 hours.
-
-  
-
