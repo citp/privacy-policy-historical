@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220035701id_/http%3A//www360.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623072851id_/http%3A//www.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
 
-# Shareholder.Com | A Nasdaq Company | Shareholder.com
-
-[](https://web.archive.org/home/Company/privacy.cfm?sh_print=yes&)
+# Shareholder.com |
 
 Shareholder.com takes your privacy seriously. This privacy statement describes the personal information we collect, how we use that information, and what we do to protect that information.
 
