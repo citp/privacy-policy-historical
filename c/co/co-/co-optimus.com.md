@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218195217id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623063023id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
-# Co-Optimus.com
+# Co-Optimus - Privacy Policy
 
 This privacy policy describes the Co-Optimus’s current policies and practices with regard to personal data collected by the Co-Optimus through this web site. This privacy policy does not apply to information collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.
 
@@ -29,3 +29,7 @@ Links to Other Sites. This privacy policy applies only to this web site. This si
 Governing Law. This privacy policy forms part of our web-site Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the United States.
 
 Questions About Our Privacy Policy. If you have any questions about this privacy policy or concerns about the way the Co-Optimus uses personal data, please contact us.
+
+Note: Our site uses GoogleAdsense technology to serve ads relevant to users. As of March 13th, 2009 Google has begun using DART technology, which tracks user visits on ALL websites using adsense to better serve relavant ads.
+
+Google, as a third party vendor, uses cookies to serve these ads on Co-Optimus.com. Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
