@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152151id_/http%3A//www.travelrepublic.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelrepublic.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623105226id_/http%3A//www.travelrepublic.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Travel Republic - Cheap Holidays, Hotels and flights to Tenerife, Alicante, Las Palmas, Dalaman, Egypt, Greece and much more
 
