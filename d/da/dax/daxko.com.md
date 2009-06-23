@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918203058id_/http%3A//www.daxko.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daxko.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623201734id_/http%3A//www.daxko.com/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | DAXKO.com
 
@@ -42,15 +42,15 @@ DAXKO periodically sends prospective and current customers sales and marketing c
 
 Our websites have security measures in place to help protect against the loss, misuse, and alteration of the data under our control.  When our website is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that data is safe, secure, and available only to you.  DAXKO also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the websites in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders.  Finally, DAXKO provides unique user names and passwords that must be entered each time a customer logs on.  These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
 
-## **Changes to this Privacy Policy**
+## Changes to this Privacy Policy
 
 If we change any of our privacy policies or practices, we'll post those changes to this privacy statement at least 30 days before they take effect. In limited cases, we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant.
 
-## **Questions or Suggestions**
+## Questions or Suggestions
 
 If you have questions or suggestions, please send us an email at [ContactUs@DAXKO.com](mailto:ContactUs@DAXKO.com).
 
-## **IP Information Collection and Use Practices**
+## IP Information Collection and Use Practices
 
 DAXKO receives IP addresses (Internet location) from all users because this information is automatically reported by your browser each time you view a web page.
 
@@ -58,18 +58,18 @@ When a DAXKO web page is requested and viewed, that request is logged on our ser
 
 IP addresses are used to diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
 
-## **Cookies**
+## Cookies
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive.  Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-_Choices about Cookies_
+### Choices about Cookies
 
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.  Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
   * If you reject all cookies, you will not be able to use DAXKO products or services that require you to "log in" and you may not be able to take full advantage of all offerings.
 
 
 
-_DAXKO’s Practices Regarding Cookies_
+### DAXKO’s Practices Regarding Cookies
 
 DAXKO uses its own cookies for a number of purposes, including to:
 
@@ -81,10 +81,10 @@ DAXKO uses its own cookies for a number of purposes, including to:
 
 
 
-## **Data Storage**
+## Data Storage
 
 The DAXKO computers (called "servers") that send your web pages process and store an enormous amount of information every day. These computer records are called "log files."  Log files are used for analysis, research, and auditing.
 
-## **Contact Us**
+## Contact Us
 
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please send us an e-mail at [ContactUs@DAXKO.com](mailto:ContactUs@DAXKO.com).
