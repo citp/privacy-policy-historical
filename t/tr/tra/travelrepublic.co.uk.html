@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelrepublic.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152151id_/http%3A//www.travelrepublic.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelrepublic.co.uk privacy policy that was archived on 2009-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623105226id_/http%3A//www.travelrepublic.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>
@@ -22,14 +22,29 @@
 
 	<!-- Content Holder Starts -->
 	
+
 <script type="text/javascript" language="javascript">
 <!--
 function showATOLDets(){
 window.open("http://www.travelrepublic.co.uk/ATOLDets.htm", "ATOL", "height=550,width=450,status=no,address=no,location=no,resize=no",true)
 }
 
+
+function logAction (actionType){
+    var LogUrl = "http://www.travelrepublic.co.uk/availability/searchdiags.ashx?"
+    new Ajax.Request(LogUrl, {method:"POST", postBody: "Action=" + actionType});  
+}
+
 function showABTADets(){
 window.open("http://www.travelrepublic.co.uk/ABTADets.htm", "ABTA", "height=200,width=400,status=no,address=no,location=no,resize=no",true)	
+}
+
+function showTFP(){
+window.open("http://www.travelrepublic.co.uk/help/totalFinancialProtection.aspx?NoBanner=1", "TotalFinancialProtection", "height=600,width=960,status=no,address=no,location=yes,resize=yes, scrollbars=yes",true)
+}
+
+function showWhatDif(){
+window.open("http://www.travelrepublic.co.uk/help/whatsTheDifference.aspx?NoBanner=1", "", "height=450,width=960,status=no,address=no,location=no,resize=yes, scrollbars=yes");
 }
 
 var sDefaultSearchTxt = "Search Travel Republic";
@@ -50,50 +65,44 @@ function resetSearch(field){
 
 //-->
 </script>
+<!-- #### 215 #### -->
 
 <!-- Start of Logo div -->
 
 <div id="naviHolder">
-<a href="http://www.travelrepublic.co.uk/Default.aspx" title="TravelRepublic Homepage"><img src="images/global/banner_950px_001_01.gif" id="PageHeader_imgTRPLogo" width="337" height="68" alt="TravelRepublic.co.uk" style="float:left"></a>
-<div id="atolButtonsW">
+<a href="http://www.travelrepublic.co.uk/Default.aspx" title="TravelRepublic Homepage"><img src="images/global/banner/default/banner_950px_01.gif" id="PageHeader_imgTRPLogo" width="337" height="68" alt="TravelRepublic.co.uk" style="float:left"></a>
+<div id="atolButtonsW" class="">
 
 <form id="frmSiteSearch" method="post" action="http://www.travelrepublic.co.uk/PrivacyPolicy.aspx">
     <input type="text" id="txtSiteSearch" name="txtSiteSearch" maxlength="500" value="Search Travel Republic" onfocus="clearInput(this)" onblur="resetSearch(this)">
     <img src="images/Global/buttonGo.gif" style="cursor:hand" onclick="document.getElementById('frmSiteSearch').submit();" alt="Go - Search Travel Republic">
-     <input type="submit" style="width:0px; height:0px; display:none">
-     <input type="hidden" name="hidSiteSearchSubmit" value="1">
+    <input type="submit" style="width:0px; height:0px; display:none">
+    <input type="hidden" name="hidSiteSearchSubmit" value="1">
 </form>
-
 <!--
-
-
-<a href="javascript:showABTADets()" title="ABTA" rel="additional-content">
-
-</a>--></div><a href="ImportantInfo.aspx#contactUsSection" id="PageHeader_abtaSection" title="Contact Us" class="ieSixForce"><img src="images/global/banner_950px_001_03.gif" alt="020 8974 7200 Open Late 7 Days a Week - Full Member of ABTA" width="140" height="68"></a>
+--></div><a href="javascript:showABTADets()" id="PageHeader_abtaSection" title="Full members of ABTA " rel="additional-content" class="ieSixForce"><img src="images/global/banner/default/banner_950px_03.gif" id="PageHeader_imgABTA" alt="Full members of ABTA - Tel: 020 8974 7200" width="77" height="68"></a><a href="javascript:showTFP()" id="PageHeader_trpHeader" title="Total Financial Protection" rel="additional-content" class="ieSixForce"><img src="images/global/Banner/Default/banner_950px_03a.gif" id="PageHeader_trpHeaderImage" alt="Total Financial Protection" width="63" height="68" class="ieSixForce"></a> 
 </div>
 <div id="priNavLinksW">
 <ul>
-
-
 <li><a href="http://www.travelrepublic.co.uk/default.aspx" title="Travel Republic" id="home">Home</a></li>
 <li><a href="http://www.travelrepublic.co.uk/Charters.aspx" title="Cheap Flights" id="flights">Flights</a></li>
-<li class="blockListSM"><a href="http://www.travelrepublic.co.uk/accomodation/achotels.aspx" title="Hotels &amp; Apartments" id="hotel">Hotels &amp; Apartments</a></li>
+<li class="blockListMM"><a href="http://www.travelrepublic.co.uk/accomodation/achotels.aspx" title="Hotels &amp; Apartments" id="hotel">Hotels &amp; Apartments</a></li>
+
+<li class="blockListSM"><a href="http://www.travelrepublic.co.uk/holiday/hocriteria.aspx" title="Cheap Holidays" id="holidays">Tailor Made Holidays</a></li>
 <li><a href="http://www.travelrepublic.co.uk/shortBreaks.html" title="Short Breaks" id="shortBreaks">Short Breaks</a></li>
-<li class="blockListSM"><a href="http://www.travelrepublic.co.uk/holiday/hocriteria.aspx" title="Cheap Holidays" id="A2">Tailor Made Holidays</a></li>
-<li><a href="http://www.travelrepublic.co.uk/AirportTransfers/apCriteria.aspx" title="Resort Transfers" id="transfers">Transfers</a></li>
-<li><a href="http://www.travelrepublic.co.uk/CarHire/chCarHire.aspx" title="Discounts on Car Hire" id="carHire">Car Hire</a></li>
+
+<li class="blockListMM"><a href="http://www.travelrepublic.co.uk/packages/package-holidays.aspx" title="Package Holidays" id="PackageHolidays">Package Holidays</a></li>
+
 <li class="blockListMM"><a href="http://www.travelrepublic.co.uk/HolidayExtras/heMenu.aspx" title="Holiday Extras,  Parking and more" id="extras">Holiday Extras, Parking &amp; More</a></li>
-<!-- <li><a href="http://www.travelrepublic.co.uk/aboutUs.aspx" title="About Us &amp; Contact Details" id="aboutus">About Us</a></li> -->
+
 <li class="blockListMM"><a href="https://www.travelrepublic.co.uk/Client/clLogon.aspx" title="Manage Your Booking" id="yourBooking">Manage Your Booking</a></li>
 <li class="noLine blockListSM"><a href="http://www.travelrepublic.co.uk/ImportantInfo.aspx" title="Useful information" id="faqsNavLink">Information</a></li>
-
-
 </ul>
 <div class="spacer"></div>
 </div>
+<div class="spacer" id="headerSpacer"></div>
+<img src="images/global/banner/default/banner_950px_05.gif" id="PageHeader_imgNavBarShadow" width="950" height="7" alt="decorational" style="vertical-align:top">
 
-<div class="spacer"></div>
-<img src="images/global/banner_950px_001_05.gif" id="PageHeader_Img4" width="950" height="7" alt="decorational" style="vertical-align:top">
    	
 	<!-- Content Holder Starts -->
   
@@ -156,7 +165,11 @@ urchinTracker();
 
 
  <li>
-    <a href="javascript:showABTADets()" title="ABTA" rel="additional-content" style="float:right; text-decoration:none;"><img src="images/ABTAFooter_Mar2008.gif" alt="ABTA"><br>(ABTA No. 43805)</a></li>     <li><img src="images/iataLogo.gif" alt="IATA Accredited Agent" style="float:right;margin-top:0px;"></li><li><img src="images/barclayCardLogo.gif" alt="Payment Processed by Barclays Merchant Services" height="35" style="float:right; *margin-top:-7px; display:block;"></li>
+    <a href="javascript:showABTADets()" title="ABTA" rel="additional-content" style="float:right; text-decoration:none;"><img src="images/ABTAFooter_Mar2008.gif" alt="ABTA"><br>(ABTA No. 43805)</a><a href="http://www.travelrepublic.co.uk/help/totalFinancialProtection.aspx" title="Total Financial Protection"><img src="images/promo/financialProtection_footer.gif" id="TicketSalesFooter_Img1" alt="Total Financial Protection" style="float:right; display:block;"></a></li><li><img src="images/iataLogo.gif" alt="IATA Accredited Agent" style="float:right;*margin-top:-7px;"></li><li><img src="images/barclayCardLogo.gif" alt="Payment Processed by Barclays Merchant Services" height="35" style="float:right; *margin-top:-19px; display:block;"></li>
+    <li></li>
+    
+    
+    
  
 </ul>
 <div id="TicketSalesFooter_bookmarks" class="bookmarks">
@@ -176,11 +189,13 @@ urchinTracker();
 
 <div id="secNav">
     <ul>
-    <li><a href="http://www.travelrepublic.co.uk/default.aspx" title="Travel Republic">More TravelRepublic Offers</a> | </li><li><a href="http://www.travelrepublic.co.uk/Charters.aspx" title="Cheap Flights">Flights</a> | </li><li><a href="http://www.travelrepublic.co.uk/accomodation/achotels.aspx" title="Cheap Hotels &amp; Apartments">Hotels &amp; Apartments</a> | </li><li><a href="http://www.travelrepublic.co.uk/holiday/hocriteria.aspx" title="Cheap Holidays">Tailor Made Holidays</a> | </li><li><a href="http://www.travelrepublic.co.uk/shortBreaks.html" title="Short Breaks">Short Breaks</a> | </li><li><a href="http://www.travelrepublic.co.uk/CarHire/chCarHire.aspx" title="Discounts on Car Hire">Car Hire</a> | </li><li><a href="http://www.travelrepublic.co.uk/AirportTransfers/apCriteria.aspx" title="Get great deals on Resort Transfers">Transfers</a> | </li><li><a href="http://www.travelrepublic.co.uk/CarParking/cpdefault.aspx" title="Get great deals on Airport Parking">Airport Parking</a> | </li><li><a href="http://www.travelrepublic.co.uk/HotelReviews.html" title="Hotel Reviews">Hotel Reviews</a> | </li><li><a href="http://www.insuranceaffiliate.com/B2C/index.aspx?ref=republic" title="Get a quote for Travel Insurance">Insurance</a> | </li><li><a href="http://www.travelrepublic.co.uk/help/bookingChecklist.aspx" title="Booking Checklist - don't forget anything important before you travel">Booking Checklist</a> | </li><li><a href="http://www.travelrepublic.co.uk/TravelGuides/TravelGuideMenu.aspx" title="Travel Guides &amp; Top Tips created by YOU the Holidaymaker!">Travel Guides</a> | </li><li><a href="http://www.travelrepublic.co.uk/Client/clLogon.aspx" title="Manage Your Booking">Manage Your Booking</a> | </li><li><a href="http://www.travelrepublic.co.uk/ImportantInfo.aspx" title="Useful information">Information</a> | </li><li><a href="http://www.travelrepublic.co.uk/aboutUs.aspx" title="About Us">About us</a> | </li><li><a href="http://www.travelrepublic.co.uk/aboutUs.aspx#contactUsSection" title="Contact Details">Contact Details</a> | </li><li><a href="http://www.travelrepublic.co.uk/TermsAndConditions/AgencyTerms.aspx" title="Agency Terms of Business - This link opens in a popup window" onclick="javascript:window.open('http://www.travelrepublic.co.uk/TermsAndConditions/AgencyTerms.aspx','','width=500,height=500,top=10,left=10,scrollbars=yes'); return false;">Agency Terms of Business</a> | </li><li><a href="http://www.travelrepublic.co.uk/PrivacyPolicy.aspx" title="More about our Privacy Policy">Privacy Policy</a> | </li><li><a href="http://www.travelrepublic.co.uk/faq/FAQHome.aspx" title="Frequently Asked Questions - answers to your most frequently asked questions">Frequently Asked Questions</a> | </li><li><a href="http://www.travelrepublic.co.uk/Shortlists/MyShortList.aspx" title="My Shortlisted Hotels and Holidays">My Shortlist</a> | </li><li><a href="http://www.travelrepublic.co.uk/sitemap.html" title="Sitemap">Sitemap</a> | </li><li><a href="http://www.travelrepublic.co.uk/Client/clClientFeedbackLogon.aspx" title="Rate Your Hotel Stay">Rate Your Hotel Stay</a> | </li><!--<li><a href="http://www.travelrepublic.co.uk/Deals/dealfinder.aspx" title="Holiday Deal Finder"><strong>Holiday Deal Finder</strong></a>&#160;<img src="images/new.gif" alt="NEW!" class="new" /> &#124; </li>--><li><a href="http://www.travelrepublic.co.uk/Attractions/ProductView.aspx" title="Attraction Tickets and Tours - Attractions in Florida - Our Top Selling Attractions 2008"><strong>Attraction Tickets &amp; Tours</strong></a>&nbsp;<img src="images/new.gif" alt="NEW!" class="new"></li>  
+    
+    <li><a href="http://www.travelrepublic.co.uk/default.aspx" title="Travel Republic">More TravelRepublic Deals</a> | </li><li><a href="http://www.travelrepublic.co.uk/Charters.aspx" title="Cheap Flights">Flights</a> | </li><li><a href="http://www.travelrepublic.co.uk/accomodation/achotels.aspx" title="Cheap Hotels &amp; Apartments">Hotels &amp; Apartments</a> | </li><li><a href="http://www.travelrepublic.co.uk/holiday/hocriteria.aspx" title="Cheap Holidays">Tailor Made Holidays</a> | </li><li><a href="http://www.travelrepublic.co.uk/packages/package-holidays.aspx" title="Cheap Package Holidays"><strong>Package Holidays</strong></a> <img src="images/new.gif" id="TicketSalesFooter_Img2" alt="NEW!" class="new"><br></li><li><a href="http://www.travelrepublic.co.uk/shortBreaks.html" title="Short Breaks">Short Breaks</a> | </li><li><a href="http://www.travelrepublic.co.uk/CarHire/chCarHire.aspx" title="Discounts on Car Hire">Car Hire</a> | </li><li><a href="http://www.travelrepublic.co.uk/AirportTransfers/apCriteria.aspx" title="Get great deals on Resort Transfers">Transfers</a> | </li><li><a href="http://www.travelrepublic.co.uk/CarParking/cpdefault.aspx" title="Get great deals on Airport Parking">Airport Parking</a> | </li><li><a href="http://www.travelrepublic.co.uk/HotelReviews.html" title="Hotel Reviews">Hotel Reviews</a> | </li><li><a href="http://www.travelrepublic.co.uk/TravelGuides/TravelGuideMenu.aspx" title="Travel Guides &amp; Top Tips created by YOU the Holidaymaker!">Travel Guides</a> | </li><li><a href="http://www.insuranceaffiliate.com/B2C/index.aspx?ref=republic" title="Get a quote for Travel Insurance">Insurance</a> | </li><!--<li><a href="http://www.travelrepublic.co.uk/help/bookingChecklist.aspx" title="Booking Checklist - don't forget anything important before you travel">Booking Checklist</a> &#124; </li>--><li><a href="http://www.travelrepublic.co.uk/Client/clLogon.aspx" title="Manage Your Booking">Manage Your Booking</a><br> </li><li><a href="http://www.travelrepublic.co.uk/ImportantInfo.aspx" title="Useful information">Information</a> | </li><li><a href="http://www.travelrepublic.co.uk/aboutUs.aspx" title="About Us">About us</a> | </li><li><a href="http://www.travelrepublic.co.uk/aboutUs.aspx#contactUsSection" title="Contact Details">Contact Details</a> | </li><li><a href="http://www.travelrepublic.co.uk/TermsAndConditions/AgencyTerms.aspx" title="Agency Terms of Business - This link opens in a popup window" onclick="javascript:window.open('http://www.travelrepublic.co.uk/TermsAndConditions/AgencyTerms.aspx','','width=500,height=500,top=10,left=10,scrollbars=yes'); return false;">Agency Terms of Business</a> | </li><li><a href="http://www.travelrepublic.co.uk/PrivacyPolicy.aspx" title="More about our Privacy Policy">Privacy Policy</a> | </li><li><a href="http://www.travelrepublic.co.uk/faq/FAQHome.aspx" title="Frequently Asked Questions - answers to your most frequently asked questions">Frequently Asked Questions</a><br></li><li><a href="http://www.travelrepublic.co.uk/sitemap.html" title="Sitemap">Sitemap</a> | </li><li><a href="http://www.travelrepublic.co.uk/Shortlists/MyShortList.aspx" title="My Shortlisted Hotels and Holidays">My Shortlist</a> | </li><li><a href="http://www.travelrepublic.co.uk/Client/clClientFeedbackLogon.aspx" title="Rate Your Hotel Stay">Rate Your Hotel Stay</a> | </li><!--<li><a href="http://www.travelrepublic.co.uk/Deals/dealfinder.aspx" title="Holiday Deal Finder"><strong>Holiday Deal Finder</strong></a>&#160;<img src="images/new.gif" alt="NEW!" class="new" /> &#124; </li>--><li><a href="http://www.travelrepublic.co.uk/help/totalFinancialProtection.aspx" title="Total Financial Protection">Total Financial Protection</a> | </li>  <li><a href="http://www.travelrepublic.co.uk/Attractions/ProductView.aspx" title="Attraction Tickets and Tours - Attractions in Florida">Attraction Tickets &amp; Tour</a>&nbsp;</li>
+	
 	</ul>
 	<ul>
 	<li><strong>Telephone:</strong>  020 8974 7200 or 0845 6121 747<br></li>
-	<li>©2008, Travel Republic Limited. All Rights Reserved.</li></ul></div>
+	<li>©2009, Travel Republic Limited. All Rights Reserved.</li></ul></div>
 	
 <div class="spacer"><img src="images/spacer.gif"></div>
 	</div>
