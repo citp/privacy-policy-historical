@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217101712id_/http%3A//tributes.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623073311id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tributes.com
 
@@ -84,8 +84,8 @@ This Privacy Policy may be changed from time to time. We will notify you about s
 If you have questions or suggestions about our Privacy Policy, please complete a feedback form or you can contact us at:
 
 Tributes, Inc.  
-1 First Avenue, First Floor  
-Charlestown, MA 02129  
+280 Summer Street, 4th Floor  
+Boston, MA 02210  
 (617) 337-9406  
 [support@tributes.com](mailto:support@tributes.com)
 
