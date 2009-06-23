@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsmansguide.com privacy policy that was archived on 2008-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081013125139id_/http%3A//www.sportsmansguide.com/main/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsmansguide.com privacy policy that was archived on 2009-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623051553id_/http%3A//www.sportsmansguide.com/net/main/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Sportsman's Guide - Discount Hunting Gear, Discount Hunting Boots, Discount Shoes, Discount Ammunition,  Discount Ammo, Discount Boots, Military Surplus, Outdoor Gear at The Sportsman's Guide
@@ -13,7 +13,7 @@
 <meta name="Copyright" content="Sportsman's Guide - 2006">
 <meta name="Rating" content="General">
 <meta name="Robots" content="INDEX,FOLLOW">
-<link href="../include/newMain.css" rel="Stylesheet" type="text/css"><style type="text/css">.lose_txt {color:red;font-weight:bold;} .search_text{FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Lucida Grande, Verdana, Arial, Helvetica, sans-serif;} div#policy {font: normal 80% Arial, Helvetica, Verdana, sans-serif; color: black;} div#policy a:link {color: blue;} div#policy a:visited {color: blue;} div#policy p {margin-top: 0.5em; margin-bottom: 1em;} div#policy h1 {font-weight: bold; font-style: normal;} div#policy h2 {font-size: 110%; font-weight: bold; color: black; margin-top: 0.5em; margin-bottom: 0;} div#policy ul li {font-weight: bold;} div#policy a.section:link {color: black;} div#policy a.section:visited {color: black;} div#policy a.sectionlink {font-weight: bold;} div#policy a.sectionlink:link {color: blue;} div#policy a.sectionlink:visited {color: blue;} </style>
+<link href="../include/newMain.css" rel="Stylesheet" type="text/css"><link href="../include/ClubMember.css" rel="Stylesheet" type="text/css"><style type="text/css">.lose_txt {color:red;font-weight:bold;} .search_text{FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Lucida Grande, Verdana, Arial, Helvetica, sans-serif;} div#policy {font: normal 80% Arial, Helvetica, Verdana, sans-serif; color: black;} div#policy a:link {color: blue;} div#policy a:visited {color: blue;} div#policy p {margin-top: 0.5em; margin-bottom: 1em;} div#policy h1 {font-weight: bold; font-style: normal;} div#policy h2 {font-size: 110%; font-weight: bold; color: black; margin-top: 0.5em; margin-bottom: 0;} div#policy ul li {font-weight: bold;} div#policy a.section:link {color: black;} div#policy a.section:visited {color: black;} div#policy a.sectionlink {font-weight: bold;} div#policy a.sectionlink:link {color: blue;} div#policy a.sectionlink:visited {color: blue;} </style>
 
     <script src="/net/include/JScript.js" type="text/javascript" language="javascript"></script>
 
@@ -22,7 +22,7 @@
     <script src="/net/include/overlib.js" type="text/javascript" language="javascript"></script>
 
     <script language="javascript" type="text/javascript">
-        // Set field value from Query String
+    //<![CDATA[
         function setSearchValuesFromQueryString(doc, queryStringKeyword, queryStringRefer) {
             var queryStringKeywordValue = null;
             var queryStringReferValue = null;
@@ -40,17 +40,14 @@
                 for (var i = 0; i < doc.forms[0].elements.length; i++) {
                     var objectId = doc.forms[0].elements[i].id;
     	          
-    	           // added check for null 05/21/2007
     	           if ((queryStringReferValue != null))  
     	           {
     	            if (queryStringReferValue.indexOf("OAC") > 0) {
-    	                // Any Catalog requested
                         if (objectId.indexOf("ui_k_ac") > 0) {
                             textObject = doc.forms[0].elements[i];
                             textObjectFound = true;
                         }
                     } else {
-                        // Keyword Search requested
                         if (objectId.indexOf("ui_k_kw") > 0) {
                             textObject = doc.forms[0].elements[i];
                             textObjectFound = true;
@@ -58,14 +55,12 @@
                     }
                     
                     if (textObjectFound) {
-                        break; // text field found, exit for loop
+                        break; 
                     }
                    }
                 }
-                //alert(buttonObject.id + ";button found=" + buttonObjectFound.toString());
 
                 if (textObjectFound) {
-                    // populate search value in search header
                     event.returnValue=false;
                     event.cancel = true;
                     textObject.value = queryStringKeywordValue;
@@ -80,19 +75,15 @@
             var qsEmailAddressVer = "&emailaddress_ver=" + emailAddress;
             
             url += qsEmailAddress + qsEmailAddressVer;
-            //alert(url);
             window.parent.location.href = url;
             
             return false;
         }
         
-        // refocus when a dropdown selected index changes
         function selectedIndexChangeRefocus(callingObject, callingObjectId, focusId) {
-            // find respective button
             var callingObjectUniqueId = callingObject.id;
             var focusUniqueId = callingObjectUniqueId.replace(callingObjectId, focusId);
             
-            // iterate page controls
             var focusObject;
             var focusObjectFound = false;
             for (var i = 0; i < callingObject.document.forms[0].elements.length; i++) {
@@ -101,55 +92,35 @@
                 if (objectId == focusUniqueId) {
                     focusObject = callingObject.document.forms[0].elements[i];
                     focusObjectFound = true;
-                    break; // focus control found, exit for loop
+                    break; 
                 }
             }
 
             if (focusObjectFound) {
-                // cancel the default submit
                 event.returnValue=false;
                 event.cancel = true;
-                // submit the form by programmatically clicking the specified focus control
                 focusObject.focus();
             }
         }
 
-        // trigger respective submit button when enter key down
         function keyDownHandlerGeneric(callingObject, callingObjectId, buttonId, e) {
-            // process only the Enter key
             var browserName = whichBrowser();
             
-            //alert(event.keyCode);
             if (browserName == "Internet Explorer")
             {
-                //alert("Internet Explorer");
                 if (event.keyCode && event.keyCode == 13)
                 {
-                    // find respective button
                     var callingObjectUniqueId = callingObject.id;
                     
                     var buttonUniqueId = callingObjectUniqueId.replace(callingObjectId, buttonId);
 
-                    // iterate page controls
                     var buttonObject;
                     var buttonObjectFound = true;
                     buttonObject = callingObject.document.forms[0].elements[buttonUniqueId];
 
-//	                for (var i = 0; i < callingObject.document.forms[0].elements.length; i++) {
-//	                    var objectId = callingObject.document.forms[0].elements[i].id;
-//    		            
-//	                    if (objectId == buttonUniqueId) {
-//	                        buttonObject = callingObject.document.forms[0].elements[i];
-//	                        buttonObjectFound = true;
-//	                        break; // button found, exit for loop
-//	                    }
-//	                }
-
                     if (buttonObjectFound) {
-                        // cancel the default submit
                         event.returnValue = false;
                         event.cancel = true;
-                        // submit the form by programmatically clicking the specified button
                         buttonObject.click();
                     }
                     
@@ -163,16 +134,7 @@
             }
         }
 
-        // trigger respective submit button when enter key down
-        //var msg = "";
-        //if (document.getElementById) {msg += "document.getElementById" + "\n";}
-        //if (document.all) {msg += "document.all" + "\n";}
-        //if (document.layers) {msg += "document.layers" + "\n";}
-        //alert(msg);
         function keyPressHandlerGeneric(callingObject, callingObjectId, buttonId, e) {
-            // process only the Enter key; trigger respective submit button
-            
-            // fetch keycode pressed
             var keycode = "";
             if (e.keyCode) {
                 keycode=e.keyCode;
@@ -182,22 +144,17 @@
 
             if (keycode == 13)
             {
-                //alert("Enter key pressed!");
-                // find respective submit button
                 var callingObjectUniqueId = callingObject.id;
                 var buttonUniqueId = callingObjectUniqueId.replace(callingObjectId, buttonId);
                 var buttonObject;
                 buttonObject = document.getElementById(buttonUniqueId);
 
-                // submit the form by programmatically clicking the specified button
                 buttonObject.click();
                 
-                // cancel the default submit
                 return false;
             }
         }
         
-		// Clear E-Mail entry field
 		function clearValueYourEmail(oObject) {
 		sfield = oObject.value
 		sfield = sfield.replace(/^\s*|\s*$/g,"");
@@ -208,7 +165,6 @@
 			}
 		}
 		
-		// Clear Keyword Search field
 		function clearValueKeyword(oObject) {
 		sfield = oObject.value
 		sfield = sfield.replace(/^\s*|\s*$/g,"");
@@ -219,7 +175,6 @@
 			}
 		}
 		
-		// Clear Stock Number Search field
 		function clearValueAnyCatalog(oObject) {
 		sfield = oObject.value
 		sfield = sfield.replace(/^\s*|\s*$/g,"");
@@ -230,11 +185,9 @@
 			}
 		}
 		
-        // Clear Keyword and Stock Number value
 		function clearSearchHeaderValue(oObject) {
 			sfield = oObject.value
 			sfield = sfield.replace(/^\s*|\s*$/g,"");
-			//alert(sfield);
 			
             if (oObject.id.indexOf("ui_k_kw") >= 0)
             {
@@ -253,7 +206,6 @@
 			}
 		}
 
-        // Clear Keyword and Stock Number value
 		function clearSectionEmailAddressValue(oObject) {
 			sfield = oObject.value
 			
@@ -266,18 +218,16 @@
 			}
 		}
 		
-		// Be sure .NET 2.0 variables loaded in browser before allowing submit
-		// This prevents "Validation of ViewState Mac failed" exception.
-		// See http://forums.asp.net/thread/1593735.aspx
         function ensureDotNetVariablesExist()
         {
-            return !(document.getElementById("__EVENTVALIDATION")==null);
+            return !(document.getElementById("__PREVIOUSPAGE")==null);
         } 
+    //]]>
     </script>
 </head>
 <body style="behavior:url(#default#clientCaps)" id="oClientCaps" onload="javascript:setSearchValuesFromQueryString(this.document, 'k', 'r')">
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" onsubmit="javascript:return ensureDotNetVariablesExist()">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEwNTg1OTMxOQ9kFgJmD2QWAgIDD2QWAgIDDw8WBB4FV2lkdGgbAAAAAAAgh0ABAAAAHgRfIVNCAoACZBYGAgEPZBYEAgQPDxYEHwAbAAAAAAAgh0ABAAAAHwECgAJkFggCAQ9kFgZmDw8WAh4LTmF2aWdhdGVVcmwFH2h0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9kFgJmDw8WBB4NQWx0ZXJuYXRlVGV4dAVwVGhlIFNwb3J0c21hbidzIEd1aWRlLSBEaXNjb3VudHMgb24gSHVudGluZyBHZWFyLCBHb3Zlcm5tZW50IFN1cnBsdXMsIENhbXBpbmcgR2VhciwgT3V0ZG9vciBHZWFyLCBhbmQgTXVjaCBNb3JlIR4ISW1hZ2VVcmwFPWh0dHA6Ly9pbWFnZS5zcG9ydHNtYW5zZ3VpZGUuY29tL2ltYWdlL3NpdGUvZGVlcl9sb2dvXzE2MC5qcGdkZAICDw8WAh4EVGV4dGVkZAIEDw8WBB8FBShDQUNIRVRJTUVbTG9nb1BDU109MTAvMTMvMjAwOCAyOjUxOjM5IFBNHgdWaXNpYmxlaGRkAgMPZBYIAgEPDxYCHwZoZGQCAw8PFgIfBmhkZAIFDw8WAh8FZWRkAgcPDxYEHwUFMkNBQ0hFVElNRVtTZWFyY2hIZWFkTGluZVBDU109MTAvMTMvMjAwOCAyOjUxOjM5IFBNHwZoZGQCBQ9kFghmDw8WBB8FBTBDQUNIRVRJTUVbU2VhcmNoSGVhZGVyUENTXT0xMC8xMy8yMDA4IDI6NTE6MzkgUE0fBmhkZAICDw8WAh8FZWRkAgQPZBYGAgEPZBYEAgUPD2QWBB4Hb25Gb2N1cwUjamF2YXNjcmlwdDpjbGVhclZhbHVlS2V5d29yZCh0aGlzKTseCm9uS2V5UHJlc3MFW2phdmFzY3JpcHQ6cmV0dXJuIGtleVByZXNzSGFuZGxlckdlbmVyaWModGhpcywgJ3VpX2tfa3cnLCAnYnRuS2V5d29yZFNlYXJjaEhlYWRlcicsIGV2ZW50KTtkAgcPDxYCHgtQb3N0QmFja1VybAV2fi9zZWFyY2gvU2VhcmNoUG9zdEJhY2tVcmwuYXNweD9pZD1idG5LZXl3b3JkU2VhcmNoSGVhZGVyJnVpZD1jdGwwMCR1Y1BhZ2VIZWFkZXIkdWNTZWFyY2hIZWFkZXIkYnRuS2V5d29yZFNlYXJjaEhlYWRlcmRkAgMPZBYEAgkPD2QWBB8HBSZqYXZhc2NyaXB0OmNsZWFyVmFsdWVBbnlDYXRhbG9nKHRoaXMpOx8IBV5qYXZhc2NyaXB0OnJldHVybiBrZXlQcmVzc0hhbmRsZXJHZW5lcmljKHRoaXMsICd1aV9rX2FjJywgJ2J0bkFueUNhdGFsb2dTZWFyY2hIZWFkZXInLCBldmVudCk7ZAILDw8WAh8JBXx+L3NlYXJjaC9TZWFyY2hQb3N0QmFja1VybC5hc3B4P2lkPWJ0bkFueUNhdGFsb2dTZWFyY2hIZWFkZXImdWlkPWN0bDAwJHVjUGFnZUhlYWRlciR1Y1NlYXJjaEhlYWRlciRidG5BbnlDYXRhbG9nU2VhcmNoSGVhZGVyZGQCBQ8PFgwfBQUlWW91ciBTYXRpc2ZhY3Rpb24gaXMgMTAwJSBHVUFSQU5URUVEIR8CBTFodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbWFpbi9ndWFyYW50ZWUuYXNwHglGb250X1NpemUoKiJTeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLkZvbnRVbml0BDEwcHQeDkZvbnRfVW5kZXJsaW5laB4IQ3NzQ2xhc3MFCXRleHQtdGlueR8BAoJIZGQCBg8PFgIfBmhkZAIJD2QWCGYPDxYCHwVlZGQCAg8PFgQfBQU1Q0FDSEVUSU1FW05hdkJ1dHRvbnNIb3Jpem9udGFsXT0xMC8xMy8yMDA4IDI6NTE6MzkgUE0fBmhkZAIED2QWAmYPZBYSZg8PZBYCHgdvbkNsaWNrBTd3aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tLyc7FgJmDw8WAh8CBR9odHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vZGQCAQ8PFgIfBmgWAh8NBU53aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2NsZWFyYW5jZS9jbGVhcmFuY2UuYXNwJzsWAmYPDxYCHwIFNmh0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9jbGVhcmFuY2UvY2xlYXJhbmNlLmFzcGRkAgIPD2QWAh8NBU93aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL25ldC9zZWN0aW9uL3NsLmFzcHg/cz0xNCc7FgJmDw8WAh8CBTdodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbmV0L3NlY3Rpb24vc2wuYXNweD9zPTE0ZGQCAw8PZBYCHw0FUXdpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbmV0L3NlY3Rpb24vc2wuYXNweD9zPTI3MzcnOxYCZg8PFgIfAgU5aHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL25ldC9zZWN0aW9uL3NsLmFzcHg/cz0yNzM3ZGQCBA8PZBYCHw0FVndpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbmV0L3NlY3Rpb24vc2VjdGlvbi5hc3B4P3M9MjI4Myc7FgJmDw8WAh8CBT5odHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbmV0L3NlY3Rpb24vc2VjdGlvbi5hc3B4P3M9MjI4M2RkAgUPD2QWAh8NBUl3aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2NsdWIvY2x1Yl90b3VyLmFzcCc7FgJmDw8WAh8CBTFodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vY2x1Yi9jbHViX3RvdXIuYXNwZGQCBg8PZBYCHw0FUHdpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vb3JkZXJzdGF0L29yZGVyc2VhcmNoLmFzcCc7FgJmDw8WAh8CBThodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vb3JkZXJzdGF0L29yZGVyc2VhcmNoLmFzcGRkAgcPD2QWAh8NBUx3aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL3NlYXJjaC9hbnljYXRhbG9nLmFzcCc7FgJmDw8WAh8CBTRodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vc2VhcmNoL2FueWNhdGFsb2cuYXNwZGQCCA8PFgIfBmgWAh8NBU93aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL25ldC9zZWN0aW9uL3NsLmFzcHg/cz0yNyc7FgJmDw8WAh8CBTdodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbmV0L3NlY3Rpb24vc2wuYXNweD9zPTI3ZGQCBg8PFgIfBmhkZAIGDw8WAh8GaGQWBAIBD2QWCGYPDxYCHwIFH2h0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9kFgJmDw8WBB8DBXBUaGUgU3BvcnRzbWFuJ3MgR3VpZGUtIERpc2NvdW50cyBvbiBIdW50aW5nIEdlYXIsIEdvdmVybm1lbnQgU3VycGx1cywgQ2FtcGluZyBHZWFyLCBPdXRkb29yIEdlYXIsIGFuZCBNdWNoIE1vcmUhHwQFPWh0dHA6Ly9pbWFnZS5zcG9ydHNtYW5zZ3VpZGUuY29tL2ltYWdlL3NpdGUvZGVlcl9sb2dvXzE2MC5qcGdkZAICDw8WAh8FZWRkAgQPDxYEHwUFKENBQ0hFVElNRVtMb2dvUENTXT0xMC8xMy8yMDA4IDI6NTE6MzkgUE0fBmhkZAIGDxYCHgVWYWx1ZQUoQ0FDSEVUSU1FW0xvZ29QQ1NdPTEwLzEzLzIwMDggMjo1MTozOSBQTWQCCQ9kFgpmDw8WBB8FBTBDQUNIRVRJTUVbU2VhcmNoSGVhZGVyUENTXT0xMC8xMy8yMDA4IDI6NTE6MzkgUE0fBmhkZAICDw8WAh8FZWRkAgQPZBYGAgEPZBYCAgUPD2QWBB8HBSNqYXZhc2NyaXB0OmNsZWFyVmFsdWVLZXl3b3JkKHRoaXMpOx8IBVtqYXZhc2NyaXB0OnJldHVybiBrZXlQcmVzc0hhbmRsZXJHZW5lcmljKHRoaXMsICd1aV9rX2t3JywgJ2J0bktleXdvcmRTZWFyY2hIZWFkZXInLCBldmVudCk7ZAIDD2QWAgIJDw9kFgQfBwUmamF2YXNjcmlwdDpjbGVhclZhbHVlQW55Q2F0YWxvZyh0aGlzKTsfCAVeamF2YXNjcmlwdDpyZXR1cm4ga2V5UHJlc3NIYW5kbGVyR2VuZXJpYyh0aGlzLCAndWlfa19hYycsICdidG5BbnlDYXRhbG9nU2VhcmNoSGVhZGVyJywgZXZlbnQpO2QCBQ8PFgwfBQUlWW91ciBTYXRpc2ZhY3Rpb24gaXMgMTAwJSBHVUFSQU5URUVEIR8CBTFodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbWFpbi9ndWFyYW50ZWUuYXNwHwooKwQEMTBwdB8LaB8MBQl0ZXh0LXRpbnkfAQKCSGRkAgYPDxYCHwZoZGQCCA8WAh8OBTBDQUNIRVRJTUVbU2VhcmNoSGVhZGVyUENTXT0xMC8xMy8yMDA4IDI6NTE6MzkgUE1kAgMPZBYEAgMPZBZKAgEPFgIfBQUXd3d3LnNwb3J0c21hbnNndWlkZS5jb21kAgMPFgIfBQUXd3d3LnNwb3J0c21hbnNndWlkZS5jb21kAgUPDxYCHwIFLmh0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9tYWluL21haWx1cy5hc3BkZAIHDxYCHwUFF3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tZAIJDxYCHwUFHGN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb21kAgsPFgIfBQUOMS04ODgtODQ0LTA2NjdkAg0PFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIPDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCEQ8WAh8FBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAhMPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIVDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCFw8PFgIfAgU2aHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCGQ8PFgIfAgUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAhsPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIdDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCHw8WAh8FBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAiEPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIjDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCJQ8PFgIfAgU2aHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCJw8WAh8FBQ4xLTg4OC04NDQtMDY2N2QCKQ8WAh8FBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAisPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAItDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCLw8WAh8FBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAjEPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIzDxYCHwUFDjEtODAwLTg4Mi0yOTYyZAI1DxYCHwUFDjEtODAwLTMzMy02OTMzZAI3DxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCOQ8PFgIfAgUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAjsPFgIfBQUOMS04ODgtODQ0LTA2NjdkAj0PFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAI/Dw8WAh8CBTZodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vZW1haWwvc3BlY2lhbHNfZm9ybS5hc3BkZAJBDw8WAh8CBS5odHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbWFpbi9tYWlsdXMuYXNwZGQCQw8PFgIfAgUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAkUPFgIfBQUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAJHDxYCHwUFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCSQ9kFgxmDw8WBB8FBS5DQUNIRVRJTUVbQ29udGFjdEZvb3Rlcl09MTAvMTMvMjAwOCAyOjUxOjM5IFBNHwZoZGQCAg8PFgIfBWVkZAIEDw8WAh8CBSxodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbWFpbi9oZWxwLmFzcGRkAgYPDxYGHwIFI21haWx0bzpjdXN0c2VydkBzcG9ydHNtYW5zZ3VpZGUuY29tHwUFHGN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb20eB1Rvb2xUaXAFHGN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb21kZAIIDw8WAh8FBWBZb3VyIGUtbWFpbCBhZGRyZXNzIGlzIDEwMCUgc2FmZSBhbmQgc2VjdXJlLi4ud2Ugd2lsbCBuZXZlciBzZWxsLCB0cmFkZSBvciBzaGFyZSBpdCB3aXRoIGFueW9uZS5kZAIKDw8WAh8FBQ4xLTg4OC04NDQtMDY2N2RkAgUPDxYCHwZoZBYCAkcPZBYMZg8PFgQfBQUuQ0FDSEVUSU1FW0NvbnRhY3RGb290ZXJdPTEwLzEzLzIwMDggMjo1MTozOSBQTR8GaGRkAgIPDxYCHwVlZGQCBA8PFgIfAgUsaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vaGVscC5hc3BkZAIGDw8WBh8CBSNtYWlsdG86Y3VzdHNlcnZAc3BvcnRzbWFuc2d1aWRlLmNvbR8FBRxjdXN0c2VydkBzcG9ydHNtYW5zZ3VpZGUuY29tHw8FHGN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb21kZAIIDw8WAh8FBWBZb3VyIGUtbWFpbCBhZGRyZXNzIGlzIDEwMCUgc2FmZSBhbmQgc2VjdXJlLi4ud2Ugd2lsbCBuZXZlciBzZWxsLCB0cmFkZSBvciBzaGFyZSBpdCB3aXRoIGFueW9uZS5kZAIKDw8WAh8FBQ4xLTg4OC04NDQtMDY2N2RkAgUPZBYGAgMPDxYEHwAbAAAAAAAgh0ABAAAAHwECgAJkZAIFDw8WBh8AGwAAAAAAOIhAAQAAAB8BAoACHwZoZGQCBw9kFg4CAQ8PFgIfBmhkZAIDD2QWAgIBDw8WAh8FBQ4xLTgwMC04ODItMjk2MmRkAgUPZBYCAgEPDxYCHwQFO2h0dHA6Ly9pbWFnZS5zcG9ydHNtYW5zZ3VpZGUuY29tL2ltYWdlL3NpdGUvZnVudG9icm93c2UuZ2lmZGQCBw8WAh8FBQNTTUdkAgkPFgIfBQUfaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2QCCw8WAh8FBQEzZAINDxYCHwUFCVNwb3J0V2ViN2Rk00zOYkVltSKzt25NZm/Wd47Rog4=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEwNTg1OTMxOQ9kFgJmD2QWAgIDD2QWAgIDDw8WBB4FV2lkdGgbAAAAAAAgh0ABAAAAHgRfIVNCAoACZBYCAgMPZBYEAgMPZBZKAgEPFgIeBFRleHQFF3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tZAIDDxYCHwIFF3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tZAIFDw8WAh4LTmF2aWdhdGVVcmwFLmh0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9tYWluL21haWx1cy5hc3BkZAIHDxYCHwIFF3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tZAIJDxYCHwIFHGN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb21kAgsPFgIfAgUOMS04ODgtODQ0LTA2NjdkAg0PFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIPDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCEQ8WAh8CBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAhMPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIVDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCFw8PFgIfAwU2aHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCGQ8PFgIfAwUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAhsPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIdDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCHw8WAh8CBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAiEPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIjDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCJQ8PFgIfAwU2aHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCJw8WAh8CBQ4xLTg4OC04NDQtMDY2N2QCKQ8WAh8CBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAisPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAItDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCLw8WAh8CBRVUaGUgU3BvcnRzbWFuJ3MgR3VpZGVkAjEPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAIzDxYCHwIFDjEtODAwLTg4Mi0yOTYyZAI1DxYCHwIFDjEtODAwLTMzMy02OTMzZAI3DxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCOQ8PFgIfAwUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAjsPFgIfAgUOMS04ODgtODQ0LTA2NjdkAj0PFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAI/Dw8WAh8DBTZodHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vZW1haWwvc3BlY2lhbHNfZm9ybS5hc3BkZAJBDw8WAh8DBS5odHRwOi8vd3d3LnNwb3J0c21hbnNndWlkZS5jb20vbWFpbi9tYWlsdXMuYXNwZGQCQw8PFgIfAwUuaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vbWFpbHVzLmFzcGRkAkUPFgIfAgUVVGhlIFNwb3J0c21hbidzIEd1aWRlZAJHDxYCHwIFFVRoZSBTcG9ydHNtYW4ncyBHdWlkZWQCSQ9kFgxmDw8WBB8CBS5DQUNIRVRJTUVbQ29udGFjdEZvb3Rlcl09Ni8yMy8yMDA5IDEyOjE1OjUyIEFNHgdWaXNpYmxlaGRkAgIPDxYCHwJlZGQCBA8PFgIfAwUsaHR0cDovL3d3dy5zcG9ydHNtYW5zZ3VpZGUuY29tL21haW4vaGVscC5hc3BkZAIGDw8WBh8DBSNtYWlsdG86Y3VzdHNlcnZAc3BvcnRzbWFuc2d1aWRlLmNvbR8CBRxjdXN0c2VydkBzcG9ydHNtYW5zZ3VpZGUuY29tHgdUb29sVGlwBRxjdXN0c2VydkBzcG9ydHNtYW5zZ3VpZGUuY29tZGQCCA8PFgIfAgVgWW91ciBlLW1haWwgYWRkcmVzcyBpcyAxMDAlIHNhZmUgYW5kIHNlY3VyZS4uLndlIHdpbGwgbmV2ZXIgc2VsbCwgdHJhZGUgb3Igc2hhcmUgaXQgd2l0aCBhbnlvbmUuZGQCCg8PFgIfAgUOMS04ODgtODQ0LTA2NjdkZAIFDw8WAh8EaGQWAgJHD2QWDGYPDxYEHwIFLkNBQ0hFVElNRVtDb250YWN0Rm9vdGVyXT02LzIzLzIwMDkgMTI6MTU6NTIgQU0fBGhkZAICDw8WAh8CZWRkAgQPDxYCHwMFLGh0dHA6Ly93d3cuc3BvcnRzbWFuc2d1aWRlLmNvbS9tYWluL2hlbHAuYXNwZGQCBg8PFgYfAwUjbWFpbHRvOmN1c3RzZXJ2QHNwb3J0c21hbnNndWlkZS5jb20fAgUcY3VzdHNlcnZAc3BvcnRzbWFuc2d1aWRlLmNvbR8FBRxjdXN0c2VydkBzcG9ydHNtYW5zZ3VpZGUuY29tZGQCCA8PFgIfAgVgWW91ciBlLW1haWwgYWRkcmVzcyBpcyAxMDAlIHNhZmUgYW5kIHNlY3VyZS4uLndlIHdpbGwgbmV2ZXIgc2VsbCwgdHJhZGUgb3Igc2hhcmUgaXQgd2l0aCBhbnlvbmUuZGQCCg8PFgIfAgUOMS04ODgtODQ0LTA2NjdkZGQxXhX/fzs+H/FYxg+Pc4K0pDzLhw==">
 
         <center>
             <span id="ctl00_lblError" class="Error"><font color="Red"></font></span>
@@ -291,15 +241,18 @@
 <span id="ctl00_ucPageHeader_lblCurrentTime"></span>
 <div id="ctl00_ucPageHeader_pnlPageHeaderSMG">
 		
+    <div id="ctl00_ucPageHeader_aafes_pnlAAFES">
+
+		</div>
     <table id="site-header" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
         <tbody><tr>
             <td style="width: 25%; text-align: left;" valign="top">
-                <a id="ctl00_ucPageHeader_ucLogoSMG_hlLogo" href="http://www.sportsmansguide.com/"><img id="ctl00_ucPageHeader_ucLogoSMG_imgLogo" src="http://image.sportsmansguide.com/image/site/deer_logo_160.jpg" alt="The Sportsman's Guide- Discounts on Hunting Gear, Government Surplus, Camping Gear, Outdoor Gear, and Much More!" height="87" width="150" border="0">
+                <a id="ctl00_ucPageHeader_ucLogoSMG_hlLogo" href="http://www.sportsmansguide.com/"><img id="ctl00_ucPageHeader_ucLogoSMG_imgLogo" src="/net/site/images/icons/deer_logo_160.jpg" alt="The Sportsman's Guide- Discounts on Hunting Gear, Government Surplus, Camping Gear, Outdoor Gear, and Much More!" height="87" width="150" border="0">
     <br>
 </a>
 <span id="ctl00_ucPageHeader_ucLogoSMG_lblError" class="Error"><font color="Red"></font></span>
 
-<input type="hidden" name="ctl00$ucPageHeader$ucLogoSMG$hdnCachTime" id="ctl00_ucPageHeader_ucLogoSMG_hdnCachTime" value="CACHETIME[LogoPCS]=10/13/2008 2:51:39 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucLogoSMG$hdnCachTime" id="ctl00_ucPageHeader_ucLogoSMG_hdnCachTime" value="CACHETIME[LogoPCS]=6/23/2009 12:15:52 AM">
 
             </td>
             <td style="width: 50%; text-align: center;" valign="top">
@@ -317,7 +270,7 @@
 </center>
 <span id="ctl00_ucPageHeader_ucSearchHeadLine_lblError" class="Error"><font color="Red"></font></span>
 
-<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeadLine$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeadLine_hdnCachTime" value="CACHETIME[SearchHeadLinePCS]=10/13/2008 2:51:39 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeadLine$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeadLine_hdnCachTime" value="CACHETIME[SearchHeadLinePCS]=6/23/2009 12:15:52 AM">
 
                             </td>
                         </tr>
@@ -365,7 +318,7 @@
 
 		</div>
 
-<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeader$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeader_hdnCachTime" value="CACHETIME[SearchHeaderPCS]=10/13/2008 2:51:39 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeader$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeader_hdnCachTime" value="CACHETIME[SearchHeaderPCS]=6/23/2009 12:15:52 AM">
 
                             </td>
                         </tr>
@@ -375,7 +328,7 @@
             <td style="width: 25%; text-align: right;" valign="top">
                 <div id="ctl00_ucPageHeader_ucCartHeaderSMG_pnlCart" align="center">
 			
-    <table cellpadding="2" cellspacing="0" border="0" class="cart-table" style="background-color:#FFFFFF;"><tbody><tr><td align="center" style="white-space: nowrap;"><a href="http://www.sportsmansguide.com/cart/cart_view.asp" style="text-decoration:none;font-weight:bold;">View Cart</a>&nbsp;<a href="http://www.sportsmansguide.com/cart/cart_view.asp"><img align="middle" src="http://image.sportsmansguide.com/image/site/main/cart.gif" border="0" alt="View Your Shopping Cart"></a>&nbsp;<a href="http://www.sportsmansguide.com/checkout/checkout_express.asp" style="text-decoration:none;font-weight:bold;">Check Out</a></td></tr><tr><td align="center" style="font-size:1px;"><img src="http://image.sportsmansguide.com/image/site/main/shim_black.gif" style="height: 1px; width: 150px; border-width: 0px;"></td></tr><tr><td align="left"><b>0</b> items in your cart.</td></tr><tr><td align="center" style="font-size:1px;"><img src="http://image.sportsmansguide.com/image/site/main/shim_black.gif" style="height: 1px; width: 150px; border-width: 0px;"></td></tr><tr><td align="left">Your total is 0</td></tr><tr class="cart_text"><td align="left"></td></tr><tr><td><input type="hidden" value="CACHETIME[CartHeaderPCS]=10/13/2008 2:51:39 PM"></td></tr></tbody></table>
+    <table cellpadding="2" cellspacing="0" border="0" class="cart-table" style="background-color:#FFFFFF;"><tbody><tr><td align="center" style="white-space: nowrap;"><a href="http://www.sportsmansguide.com/cart/cart_view.asp" style="text-decoration:none;font-weight:bold;">View Cart</a>&nbsp;<a href="http://www.sportsmansguide.com/cart/cart_view.asp"><img align="middle" src="http://image.sportsmansguide.com/image/site/main/cart.gif" border="0" alt="View Your Shopping Cart"></a>&nbsp;<a href="http://www.sportsmansguide.com/checkout/checkout_express.asp" style="text-decoration:none;font-weight:bold;">Check Out</a></td></tr><tr><td align="center" style="font-size:1px;"><img src="http://image.sportsmansguide.com/image/site/main/shim_black.gif" style="height: 1px; width: 150px; border-width: 0px;"></td></tr><tr><td align="left"><b>0</b> items in your cart.</td></tr><tr><td align="center" style="font-size:1px;"><img src="http://image.sportsmansguide.com/image/site/main/shim_black.gif" style="height: 1px; width: 150px; border-width: 0px;"></td></tr><tr><td align="left">Your total is 0</td></tr><tr class="cart_text"><td align="left"></td></tr><tr><td><input type="hidden" value="CACHETIME[CartHeaderPCS]=6/23/2009 12:15:52 AM"></td></tr></tbody></table>
 
 		</div>
 
@@ -392,16 +345,13 @@
 			</tr>
 		</tbody></table>
     
-<input type="hidden" name="ctl00$ucPageHeader$ucNavButtonsHorizontal$hdnCachTime" id="ctl00_ucPageHeader_ucNavButtonsHorizontal_hdnCachTime" value="CACHETIME[NavButtonsHorizontal]=10/13/2008 2:51:39 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucNavButtonsHorizontal$hdnCachTime" id="ctl00_ucPageHeader_ucNavButtonsHorizontal_hdnCachTime" value="CACHETIME[NavButtonsHorizontal]=6/23/2009 12:15:52 AM">
 
             </td>
         </tr>
     </tbody></table>
 
 	</div>
-
-
-
 
                         </td>
                     </tr>
@@ -590,95 +540,78 @@
 <span id="ctl00_ucPageFooter_lblError" class="Error"><font color="Red"></font></span>
 <div id="ctl00_ucPageFooter_pnlSMG">
 		
-    <hr style="width: 100%;">
-    <div style="text-align: center; font-family: Verdana,arial,helvetica; font-weight: bold;
-        font-size: 8pt;">
-        <a id="ctl00_ucPageFooter_hlHome" class="linksmall" href="/" target="_top">Home</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlResources" class="linksmall" href="/content/content_main.asp" target="_top">Articles &amp; Resources</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlAboutUs" class="linksmall" href="/main/about.asp" target="_top">About Us</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlBuyersClub" class="linksmall" href="/club/club_tour.asp" target="_top">Buyer's Club</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlFreeCatalog" class="linksmall" href="/ctlgreq/ctlgreq.asp" target="_top">Free Catalog</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlReturnPolicy" class="linksmall" href="/main/guarantee.asp" target="_top">Return Policy</a>
-        <br>
-        <a id="ctl00_ucPageFooter_hlPrivacy" class="linksmall" href="/main/privacy.asp" target="_top">Privacy</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlContactUs" class="linksmall" href="/main/mailus.asp" target="_top">Contact Us</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlHowToOrder" class="linksmall" href="/main/howto.asp" target="_top">How To Order</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlSizingInfo" class="linksmall" href="/main/sizing.asp" target="_top">Sizing Information</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlOAC" class="linksmall" href="/search/anycatalog.asp" target="_top">Order From Any Catalog</a>
-        <br>
-        <a id="ctl00_ucPageFooter_hlOrderStatus" class="linksmall" href="/orderstat/ordersearch.asp" target="_top">Order Status</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlSubscribeAndUnsubscribe" class="linksmall" href="/email/specials_form.asp" target="_top">Subscribe/Unsubscribe</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlChangeEmail" class="linksmall" href="/email/specials_form.asp" target="_top">Change Email</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlCustomerService" class="linksmall" href="/main/howto.asp" target="_top">Customer Service</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hl4PayPlan" class="linksmall" href="/main/ezpay.asp" target="_top">Buyer's Club 4-Pay Plan</a>
-        <br>
-        <a id="ctl00_ucPageFooter_hlShippingAndHandling" class="linksmall" href="/main/shipping.asp" target="_top">Shipping/Handling</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlGiftCerts" class="linksmall" href="/gc/gc_info.asp" target="_top">Gift Certificates</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlBootFinder" class="linksmall" href="/browse/browse_boots.asp" target="_top">Boot Finder</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlShopAllCategories" class="linksmall" href="/sitemap/department.asp" target="_top">Shop All Categories</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlShopByBrand" class="linksmall" href="/sitemap/category_brand.asp" target="_top">Shop By Brand</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlShopBySize" class="linksmall" href="/sitemap/subcat_sizes.asp" target="_top">Shop By Size</a>
-        <br>
-        <a id="ctl00_ucPageFooter_hlCommercials" class="linksmall" href="/video/view_commercial.asp" target="_top">View Our TV Commercials</a>
-        &nbsp;|&nbsp;
-        <a id="ctl00_ucPageFooter_hlHelp" class="linksmall" href="/main/help.asp" target="_top">Help</a>
-    </div>
+	 <hr style="width: 100%;">
+	 <div style="text-align: center; font-family: Verdana,arial,helvetica; font-weight: bold; font-size: 8pt;">
+		  <a id="ctl00_ucPageFooter_hlHome" class="linksmall" href="/" target="_top">Home</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlResources" class="linksmall" href="/content/content_main.asp" target="_top">Articles &amp; Resources</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlAboutUs" class="linksmall" href="/net/main/About.aspx" target="_top">About Us</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlBuyersClub" class="linksmall" href="/net/club/ClubTour.aspx" target="_top">Buyer's Club</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlFreeCatalog" class="linksmall" href="/net/catalog/catalogrequest.aspx" target="_top">Free Catalog</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlReturnPolicy" class="linksmall" href="/net/main/Guarantee.aspx" target="_top">Return Policy</a><br>
+		  <a id="ctl00_ucPageFooter_hlPrivacy" class="linksmall" href="/net/main/Privacy.aspx" target="_top">Privacy</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlContactUs" class="linksmall" href="/net/main/MailUs.aspx" target="_top">Contact Us</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlHowToOrder" class="linksmall" href="/net/main/HowTo.aspx" target="_top">How To Order</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlSizingInfo" class="linksmall" href="/net/main/sizing.aspx" target="_top">Sizing Information</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlOAC" class="linksmall" href="/search/anycatalog.asp" target="_top">Order From Any Catalog</a>
+		  <br>
+		  <a id="ctl00_ucPageFooter_hlOrderStatus" class="linksmall" href="/net/OrderStatus/OrderSearchNew.aspx" target="_top">Order Status</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlSubscribe" class="linksmall" href="/net/email/SpecialsForm.aspx" target="_top">Subscribe</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlUnsubscribe" class="linksmall" href="/net/email/Unsubscribe.aspx" target="_top">Unsubscribe</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlChangeEmail" class="linksmall" href="/net/email/SpecialsForm.aspx" target="_top">Change Email</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlCustomerService" class="linksmall" href="/net/main/HowTo.aspx" target="_top">Customer Service</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hl4PayPlan" class="linksmall" href="/net/main/EZPay.aspx" target="_top">Buyer's Club 4-Pay Plan</a><br>
+		  <a id="ctl00_ucPageFooter_hlShippingAndHandling" class="linksmall" href="/net/main/shipping.aspx" target="_top">Shipping/Handling</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlGiftCerts" class="linksmall" href="/net/gc/GCInfo.aspx" target="_top">Gift Certificates</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlSweepstakes" class="linksmall" href="/net/sweeps/sssplash.aspx?@t=5" target="_top">Sweepstakes</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlBootFinder" class="linksmall" href="/net/Browse/BrowseBoots.aspx" target="_top">Boot Finder</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlShopAllCategories" class="linksmall" href="/net/sitemap/department.aspx" target="_top">Shop All Categories</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlShopByBrand" class="linksmall" href="/sitemap/category_brand.asp" target="_top">Shop By Brand</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlShopBySize" class="linksmall" href="/sitemap/subcat_sizes.asp" target="_top">Shop By Size</a><br>
+		  <a id="ctl00_ucPageFooter_hlCommercials" class="linksmall" href="/video/view_commercial.asp" target="_top">View Our TV Commercials</a>&nbsp;|&nbsp;
+		  <a id="ctl00_ucPageFooter_hlRetailStore" class="linksmall" href="/net/main/RetailStore.aspx" target="_top">Retail Store</a>&nbsp;|&nbsp;		
+		  <a id="ctl00_ucPageFooter_hlHelp" class="linksmall" href="/main/help.asp" target="_top">Help</a>
+	 </div>
 
 	</div>
-
 <div id="ctl00_ucPageFooter_pnlBottomImage">
 		
-    <div id="ctl00_ucPageFooter_pnlFunToBrowseImage">
+	 <div id="ctl00_ucPageFooter_pnlFunToBrowseImage">
 			
-            </div><table>
-        <tbody><tr>
-            <td align="center">
-                <span style="font-family: Times New Roman,Georgia,Times; color: red; font-size: 18pt;
-                    font-weight: bold; font-style: italic;">Order securely online</span><br>
-                
-                <div id="ctl00_ucPageFooter_pnlDefaultTollFreeNumber" align="center">
+				</div><table>
+		  <tbody><tr>
+				<td align="center">
+					 <span style="font-family: Times New Roman,Georgia,Times; color: red; font-size: 18pt;
+						  font-weight: bold; font-style: italic;">Order securely online</span><br>
+					 
+					 <div id="ctl00_ucPageFooter_pnlDefaultTollFreeNumber" align="center">
 			
-                    <span style="font-family: Times New Roman,Georgia,Times; color: black; font-size: 14pt;
-                        font-weight: bold;">
-                        <span id="ctl00_ucPageFooter_lblPhoneTollFreeNumber">1-800-882-2962</span>
-                    </span>
-                
+						  <span style="font-family: Times New Roman,Georgia,Times; color: black; font-size: 14pt;
+								font-weight: bold;">
+								<span id="ctl00_ucPageFooter_lblPhoneTollFreeNumber">1-800-882-2962</span>
+						  </span>
+					 
 		</div>
-            </td>
-        </tr>
-        <!-- Conditional Panel for fun-to-browse image if this is SMG. -->
-        <tr>
-                <td align="center">
-                    <img id="ctl00_ucPageFooter_imgFunToBrowseImage" src="http://image.sportsmansguide.com/image/site/funtobrowse.gif" alt="The Fun to Browse Site." height="50" width="200" border="0">
-                </td>
-            </tr>
-        
+				</td>
+		  </tr>
+		  <!-- Conditional Panel for fun-to-browse image if this is SMG. -->
+		  <tr>
+					 <td align="center">
+						  <img id="ctl00_ucPageFooter_imgFunToBrowseImage" src="/net/site/images/icons/funtobrowse.gif" alt="The Fun to Browse Site." height="50" width="200" border="0">
+					 </td>
+				</tr>
+		  
 		
-    
-    </tbody></table>
-    <!-- END FOOTER -->
-    <!--
+		  <tr>
+				<td align="center" class="text-tiny" style="font-size: 6pt; font-family: verdana; font-weight: bold;">
+					 (c)2009 The Sportsman's Guide, Inc.
+				</td>
+		  </tr>
+	 </tbody></table>
+	 <!-- END FOOTER -->
+	 <!--
 ************* SERVER INFO ****************
 *  SMG (http://www.sportsmansguide.com/)
-*  Server: 3 (SportWeb7)           
+*  Server: 9 (SportWeb13)           
 *  WEBSITE IS UP                     
 ************* END SERVER INFO ************
 -->
@@ -695,7 +628,7 @@
         </center>
     
 <input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="wP_OVQPjHLoCIPhrPNYHRPA2Rmh6vc6ZA9Ee1DHNGW41">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEQL309POAgLguKXGAQL8+72tBgLGvZvICwLGvde2CwLGvb+wCwKRsLXbAwLCspzXBQK6vZPrDwK6vZfsDwKG68vJBgK6vbfTDwKl6LZlAt/X2I8FAozyyNENAvX57qwJAv/eo64CirorPyF8o+t5eNUt4t0FkaQloDs="></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEQK6sfvEAQLguKXGAQL8+72tBgLGvZvICwLGvde2CwLGvb+wCwKRsLXbAwLCspzXBQK6vZPrDwK6vZfsDwKG68vJBgK6vbfTDwKl6LZlAt/X2I8FAozyyNENAvX57qwJAv/eo64C77f8Msr9Fj8KaDgcuzmLIdiHYho="></form>
 
 
 </body></html>
