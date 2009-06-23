@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the asianbrainfollowup.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020134id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbrainfollowup.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Asian Brain Internet Marketing Center
+# Privacy Policy - Asian Brain Follow Up
 
-[Home](https://web.archive.org/web/20081216020134id_/http%3A//www.asianbrainfollowup.com/index.htm) > [About Us](https://web.archive.org/web/20081216020134id_/http%3A//www.asianbrainfollowup.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20081216020134id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/index.htm) > [About Us](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Asian Brain Internet Marketing Center/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to Asian Brain Follow Up/AWeber's excellent [Customer Support team](https://web.archive.org/support.htm). 
+Please direct questions regarding this statement to Asian Brain Follow Up/AWeber's excellent [Customer Support team](https://web.archive.org/contact-us.htm). 
 
 **Customer Information:** All Asian Brain Internet Marketing Center/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
