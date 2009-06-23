@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025200108id_/http%3A//www.enoughproject.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623172646id_/http%3A//www.enoughproject.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enough
 
-**ENOUGH Web and Email Privacy Policy**
+**Enough Web and Email Privacy Policy**
 
-"ENOUGH" is a project of the Center for American Progress ("American Progress"). American Progress is committed to protecting the privacy and security of visitors to the website for ENOUGH. Below is the online privacy policy for information collected through the website for ENOUGH and through email lists and solicitations for ENOUGH. American Progress operates other websites and email lists that are governed by their own respective privacy policies.
+"Enough" is a project of the Center for American Progress ("American Progress"). American Progress is committed to protecting the privacy and security of visitors to the website for Enough. Below is the online privacy policy for information collected through the website for Enough and through email lists and solicitations for Enough. American Progress operates other websites and email lists that are governed by their own respective privacy policies.
 
-American Progress expects that it may need to revise this privacy policy as it develops the features of the website for ENOUGH. American Progress will make reasonable efforts to inform users of any changes, but the spirit of this policy will be maintained. Use of the website for ENOUGH is not restricted to registered users, and we expect to provide a robust experience to all users. If you have any questions about our privacy policy, please feel free to email us at: [progress@amprog.org.](mailto:progress@amprog.org)
+American Progress expects that it may need to revise this privacy policy as it develops the features of the website for Enough. American Progress will make reasonable efforts to inform users of any changes, but the spirit of this policy will be maintained. Use of the website for Enough is not restricted to registered users, and we expect to provide a robust experience to all users. If you have any questions about our privacy policy, please feel free to email us at: [progress@americanprogress.org.](mailto:progress@amprog.org)
 
-  
 You can also contact us via US Mail at:
 
 Center for American Progress  
@@ -19,7 +18,7 @@ Washington, DC 20005
 **  
 What The Parties Will Do With Your Information**
 
-American Progress will neither sell nor share the personal information you provide or we collect through the website for ENOUGH to any unaffiliated organization without your permission, with the following exceptions. We may share personal information with third parties who provide services, such as website hosting or other services of an administrative or technical nature, solely for the purpose of providing such services and subject to confidentiality obligations. In addition, we reserve the right to disclose personal information about visitors: if we believe in good faith that the law permits it; to protect the rights, property, safety or security of the Parties, our visitors, our registered users or the public; to respond to an emergency; or to enforce any terms of use agreement governing use of a website controlled or operated by us.
+American Progress will neither sell nor share the personal information you provide or we collect through the website for Enough to any unaffiliated organization without your permission, with the following exceptions. We may share personal information with third parties who provide services, such as website hosting or other services of an administrative or technical nature, solely for the purpose of providing such services and subject to confidentiality obligations. In addition, we reserve the right to disclose personal information about visitors: if we believe in good faith that the law permits it; to protect the rights, property, safety or security of the Parties, our visitors, our registered users or the public; to respond to an emergency; or to enforce any terms of use agreement governing use of a website controlled or operated by us.
 
 From time to time, we may send you information from other like-minded organizations whose products or services we think subscribers might find interesting, but we do not exchange, trade, rent, or give email lists to unaffiliated third parties.
 
@@ -27,15 +26,15 @@ From time to time, we may send you information from other like-minded organizati
 
 **If You Sign Up For One Of Our Mailing Lists**
 
-American Progress is committed to providing timely updates to users of the ENOUGH website by email. We will request information from you to enhance our ability to customize our communications with you so you get the information you want. We will collect relevant contact information and enable you to self-select the type of information that you'd like to receive. You will be able to unsubscribe from communications you receive from us by following the directions included in each such communication. 
+American Progress is committed to providing timely updates to users of the Enough website by email. We will request information from you to enhance our ability to customize our communications with you so you get the information you want. We will collect relevant contact information and enable you to self-select the type of information that you'd like to receive. You will be able to unsubscribe from communications you receive from us by following the directions included in each such communication.
 
-**If You Submit Information To Public Areas Of The Website For ENOUGH**
+**If You Submit Information To Public Areas Of The Website For Enough**
 
-Please be aware that if you decide to disclose personally identifiable information on a publicly-accessible area of the website for ENOUGH (such as a blog), this information may become public. American Progress does not control the acts of other visitors to the ENOUGH website, so please be cautious when deciding to reveal personal information on a public area of the site. Please contact us if you believe a visitor to the website for ENOUGH is improperly collecting or using information about you or other users. 
+Please be aware that if you decide to disclose personally identifiable information on a publicly-accessible area of the website for Enough (such as a blog), this information may become public. American Progress does not control the acts of other visitors to the Enough website, so please be cautious when deciding to reveal personal information on a public area of the site. Please contact us if you believe a visitor to the website for Enough is improperly collecting or using information about you or other users.
 
 **If You Contribute Money Online**
 
-American Progrsess appreciates and will accept online contributions. Users will be asked to submit contact information for verification purposes. Contact information will be stored in a secure location, and financial information will not be stored except when it is needed for record-keeping purposes. 
+American Progrsess appreciates and will accept online contributions. Users will be asked to submit contact information for verification purposes. Contact information will be stored in a secure location, and financial information will not be stored except when it is needed for record-keeping purposes.
 
 **Cookies**
 
@@ -43,7 +42,7 @@ A cookie is a small piece of information that a website can store on a computer 
 
 **IP Addresses And Log File Data**
 
-IP addresses are ID numbers for the location of your computer or network on the internet. Log files are recordings of the traffic to and from a server. The servers hosting the website for ENOUGH log IP addresses for systems administration and troubleshooting. We track page hits in the  
+IP addresses are ID numbers for the location of your computer or network on the internet. Log files are recordings of the traffic to and from a server. The servers hosting the website for Enough log IP addresses for systems administration and troubleshooting. We track page hits in the  
 aggregate to track the popularity of pages that people visit. With that information we can improve the quality of the site.
 
 **Children's Privacy**
@@ -58,4 +57,4 @@ American Progress has measures in place to protect against the loss, misuse and 
 
 **Please Note**
 
-American Progress plans to regularly update and add new features to the website for ENOUGH. Because of this, American Progress expects to revise this privacy policy as the site develops. Such amendments will be posted in the privacy policy section of the site. You can determine whether privacy policy has been modified since your last visit by checking the "Last updated" legend at the top of the policy. As stated above, the spirit of this policy will be maintained. American Progress may link to other like-minded websites, but is not responsible for the content or the privacy policies of those websites. Additionally, American Progress and its affiliates have separate content and privacy policies for their websites, which you should consult when accessing areas of their websites. 
+American Progress plans to regularly update and add new features to the website for Enough. Because of this, American Progress expects to revise this privacy policy as the site develops. Such amendments will be posted in the privacy policy section of the site. You can determine whether privacy policy has been modified since your last visit by checking the "Last updated" legend at the top of the policy. As stated above, the spirit of this policy will be maintained. American Progress may link to other like-minded websites, but is not responsible for the content or the privacy policies of those websites. Additionally, American Progress and its affiliates have separate content and privacy policies for their websites, which you should consult when accessing areas of their websites.
