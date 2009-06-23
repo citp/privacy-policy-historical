@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderwebware.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063112id_/http%3A//wonderwebware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderwebware.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623072722id_/http%3A//wonderwebware.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
@@ -33,6 +33,8 @@ We do not send unsolicited email. We only write you if you write us. We do not c
 _Neither wonderwebware.com nor its owner is responsible for spamming caused by malicious mischief, virus programs, or other form of malicious intent, nor by computer error, ISP error, server error, web host error, nor any unintentional act resulting in unsolicited email. Neither wonderwebware.com nor its owner is responsible for breach of privacy caused by malicious mischief, virus programs, or other form of malicious intent, nor by computer error, ISP error, server error, web host error, nor any unintentional act resulting in divulgence.   All steps are taken to ensure the privacy of all parties who provide wonderwebware.com or its author with personal information, including the storage of email content and addresses on floppy disc or separate hard drive storage_
 
 ### Cookies and Web Beacons
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 A cookie is a small piece of information that is sent to your browser when you access a site. 
 
