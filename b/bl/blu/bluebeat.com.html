@@ -1,23 +1,869 @@
-<!--The following is the downloaded HTML source of the bluebeat.com privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223093940id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluebeat.com privacy policy that was archived on 2009-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624014013id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html id="z" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <title>BlueBeat.com - Privacy</title>
+  <title>BlueBeat.com Music - Privacy</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="Keywords" content="online music, internet radio, digital radio, mp3, legal online music, streaming audio, music service, buy music, music library, listen to music, bluebeat, digital music, high fidelity sound">
   <meta name="Description" content="Online internet radio.  High fidelity digital radio.  Listen to 500,000 music recordings in mp3 format.  Perfect streaming audio.  Digital radio done right">
   
-  <style type="text/css" media="all">@import "/c/skel.css";</style>
+  <style type="text/css" media="all">@import "http://images.bluebeat.com/css/skel.css";</style>
 
-  <style type="text/css" media="all">@import "/c/user.css";</style>
-  <!--[if IE 5]><style type="text/css" media="all">@import "/c/skeliewin.css";</style><![endif]-->
-  <!--[if IE 6]><style type="text/css" media="all">@import "/c/skeliewin.css";</style><![endif]-->
-  <!--[if IE 7]><style type="text/css" media="all">@import "/c/skeliewin7.css";</style><![endif]-->
-  <style type="text/css" media="all">@import "/c/d_cali.css";</style>
-  <!--[if IE 5]><style type="text/css" media="all">@import "/c/decoiewin.css";</style><![endif]-->
-  <!--[if IE 6]><style type="text/css" media="all">@import "/c/decoiewin.css";</style><![endif]-->
+  <style type="text/css" media="all">@import "http://images.bluebeat.com/css/user.css";</style>
+  <!--[if IE 5]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin.css";</style><![endif]-->
+  <!--[if IE 6]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin.css";</style><![endif]-->
+  <!--[if IE 7]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin7.css";</style><![endif]-->
+  <style type="text/css" media="all">@import "http://images.bluebeat.com/css/style.css";</style>
+  <!--[if IE 5]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/decoiewin.css";</style><![endif]-->
+  <!--[if IE 6]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/decoiewin.css";</style><![endif]-->
   
-  <script type="text/javascript" src="/j/fn.js"></script>
+  <script type="text/javascript">
+
+var bRight = false;
+var val = 
+{ ratein:      3,
+  rateout:     20,
+  urlDock:     '/aj/dock/',
+  urlExpand:   '/aj/expand/',
+  urlOneTrack: '/aj/album/track/',
+  urlHist:     '/aj/history/',
+  urlStar:     '/aj/star/',
+  urlValidate: '/aj/validate/',
+  msping:      3000,
+  msvalidate:  1000,
+  hist:        0,
+  idcomp:      0,
+  curcrate:    0,
+  idu:         0
+}
+var modal_h = 300;
+var modal_w  = 600;
+
+function redrawFooter()
+{ var bow = document.getElementById('bowwrapper');
+  var disp = bow.style.display;
+  bow.style.display = 'none';
+  bow.style.display = disp;
+}
+
+function clearText(eid)
+{ if (document.getElementById(eid).value == 'Enter search words') document.getElementById(eid).value = '';
+}
+
+function convertLinks() //the XHTML 1.0 strict-compliant way.
+{ 
+  //var modal_h = document.getElementById('modalHeight').value;
+  //var modal_w = document.getElementById('modalWidth').value;
+  var array = document.getElementsByTagName('a');
+  for (var ii = 0, link; link = array[ii]; ++ii)
+  { if (!link.getAttribute('rel')) continue;
+    var sRel = link.getAttribute('rel');
+    if (sRel.indexOf('pop')       != -1) link.onclick = function() { return pop(this.href); }
+    else if (sRel.indexOf('ext')  != -1) link.onclick = function() { return ext(this.href); }
+    else if (sRel.indexOf('show') != -1) link.onclick = function() { if (opener && !opener.closed && opener != self)
+                                                                     { opener.location.href = this.href;
+                                                                       return false;
+                                                                     }
+                                                                     else
+                                                                     { spear(this.href);
+                                                                       if (self.focus) self.focus();
+                                                                       return false;
+                                                                     }
+                                                                   }
+    else if (sRel.indexOf('unhi') != -1) link.onclick = function() { return unhi(); }
+    else if (sRel.indexOf('lf')   != -1) link.onclick = function() { return showPopWin('/modal/login', modal_w, modal_h, returnRefresh); }
+    else if (val['curcrate'] &&
+             sRel.indexOf('dj')   != -1) link.onclick = function() { return dockop(this); }
+    else if (sRel.indexOf('ex')   != -1) link.onclick = function() { return expand(this.href); }
+    else if (sRel.indexOf('ur')   != -1 &&
+             val['idu'])                 link.onclick = function() { return star(this.href); }
+    else;
+  }
+}
+
+function assignInputs()
+{ var array = document.getElementsByTagName('input');
+  for (var ii = 0, link; link = array[ii]; ++ii)
+  { if (!link.getAttribute('rel')) continue;
+    var sRel = link.getAttribute('rel');
+    if (sRel.indexOf('v') != -1) link.onkeyup = function() 
+                                                { validate(this.id); 
+                                                  if(!polling)
+                                                  { setInterval(function() { poll(); }, val['msvalidate']);
+                                                  }
+                                                }
+    else;
+  }
+}
+
+var op = null;
+function pop(url)
+{ 
+  if (url.indexOf('po=1') == -1) url += '?po=1';
+  if (op && !op.closed && op.location) op.location.href = url;
+  else op = window.open(url,'pop','height=600,width=800,scrollbars=1,resizable=1,toolbar=1,location=1');
+  if (op.focus) op.focus();
+  return false;
+}
+
+var oe = null;
+function ext(url)
+{ if (typeof oe == 'object' && oe == '[object inaccessible]') //just for opera
+  { oe = window.open(url,'ext','location=1,toolbar=1');
+    return false; //opera focuses so we donut have to
+  }
+  if (oe && !oe.closed && oe.location) oe.location.href = url;
+  else oe = window.open(url,'ext');
+  if (!oe.opener) oe.opener = self;  
+  if (oe.focus) oe.focus();
+  return false;
+}
+
+var os = null;
+function spear(url)
+{ if (os && !os.closed && os.location) os.location.href = url;
+  else os = window.open(url,'spear');
+  return false;
+}
+
+function unhi()
+{ var array = document.getElementsByTagName('tr');
+  for (var ii = 0, el; el = array[ii]; ++ii)
+  { if (el.className.indexOf('hli') != -1)
+    { el.className = el.className.substring(0, 3);
+    }
+  }
+  return true;
+}
+
+function refreshProblem()
+{ if (pr.value == 'Account Creation')
+  { unpr.value = 'n/a';
+    unpr.disabled = true;
+  }
+  else
+  { unpr.value = '';
+    unpr.disabled = false;
+  }
+}
+
+function refreshResidence()
+{ if (co.value == 'US')
+  { document.getElementById('zipo').innerHTML = "Zip Code: ";
+    document.getElementById('st').disabled = false;
+    if(document.getElementById('errst') && document.getElementById('errzi'))
+    { document.getElementById('errst').style.visibility = 'visible';  
+      document.getElementById('errzi').style.visibility = 'visible';
+    }
+
+    document.getElementById('st').options[0].text = 'Select Your State...';
+  }
+  else  // not in the US
+  { document.getElementById('zipo').innerHTML = "Postal Code: ";
+    if(document.getElementById('errst') && document.getElementById('errzi'))
+    { document.getElementById('errst').style.visibility = 'hidden';
+      document.getElementById('errzi').style.visibility = 'hidden';
+    }
+    document.getElementById('st').disabled = true;
+//    document.getElementById('st').options[0].text = '(Optional) Select State...';
+    document.getElementById('st').options[0].text = 'N/A';
+  }
+}
+
+function filter(sortall)
+{ var array = document.forms['formfilter'].elements;
+  var all = document.getElementById('genreall'); if (!all) return;
+  if (sortall)
+  { for (var ii = 0, el; el = array[ii]; ++ii)
+    { if (el.name.indexOf('genre') < 0) continue;
+      if (el.name != 'genreall') el.checked = all.checked;
+    }
+  }
+  else
+  { var anyGenre = false;
+    var allGenre = true;
+    for (var ii = 0, el; el = array[ii]; ++ii)
+    { if (el.name.indexOf('genre') < 0) continue;
+      if (el.name != 'genreall')
+      { if (el.checked) anyGenre = true;
+        else allGenre = false;
+      }
+    }
+    all.checked = (allGenre || !anyGenre);
+  }
+}
+
+function loadTarget(url)
+{ window.location.href = url;
+}
+
+function preview()
+{ document.getElementById('pane').style.visibility = "visible";
+  document.getElementById('psi').style.backgroundImage = "url(/i/ps"
+                                                       + (document.getElementById('ps').value == 0  ? 
+                                                          stop[document.getElementById('ss').value] : 
+                                                          document.getElementById('ps').value)
+                                                       + ".gif)";
+  document.getElementById('ssi').style.backgroundImage = "url(/i/ss"
+                                                       + document.getElementById('ss').value
+                                                       + ".gif)";  
+}
+
+function registerBoxes()
+{ var array = document.forms['formfilter'].elements;
+  for (var ii = 0, el; el = array[ii]; ++ii)
+  { if (el.name.indexOf('genre') < 0) continue;
+    if (el.name == 'genreall') el.onclick = function() { filter(true); }
+    else                       el.onclick = function() { filter(false); }
+  }
+}
+
+function registerDock()
+{
+  return;
+  // the onchange handler is causing some problems
+  // when used on the search page, the search terms are lost
+  // temporarily bypass it
+
+  // when not signed-in, there is no dockbox element
+  try
+  {
+    if (!document.getElementById('dockbox')) return;
+    document.getElementById('dockbox').onchange = function() { document.getElementById('formdock').submit(); }
+  } catch (e) {
+    // handle errors here
+  }
+}
+
+
+function expandThis(id)
+{ if ( typeof document.getElementById != 'undefined' ) {
+    document.getElementById('expanded'+id).style.display = 'block'; 
+    document.getElementById('collapsed'+id).style.display = 'none';
+    redrawFooter();
+	  return true;
+	}
+	else {
+	 return false; // won't work in this browser
+	}
+}
+
+function collapseThis(id)
+{ if ( typeof document.getElementById != 'undefined' ) {
+    document.getElementById('expanded'+id).style.display = 'none'; 
+    document.getElementById('collapsed'+id).style.display = 'block';
+    redrawFooter();
+	  return true;
+	}
+	else {
+	 return false; // won't work in this browser
+	}
+}
+
+
+function pushOnload(fn)
+{ var oldfn = window.onload;
+  if (typeof window.onload != 'function') { window.onload = fn; }
+  else                                    { window.onload = function() { oldfn(); fn(); } }
+}
+
+function setCookie(ss)
+{ document.cookie = ss + '; domain=bluebeat.com; path=/';
+}
+
+function expandCrate()
+{ document.getElementById('colcr').style.display='none';  
+  document.getElementById('excr').style.display='block';
+}
+
+function loadWindowName()
+{
+  // wrap in a try because IE6 was complaining
+  try
+  {
+    window.name = "bluebeat";
+  } catch (e) {
+    // handle errors here
+  }
+}
+function refreshBitrate ()
+{ var bitrate = document.getElementById('bitrateoption').options[document.getElementById('bitrateoption').selectedIndex].value;
+  if (bitrate == '320') { showPopWin('/modal/download/', 700, 300, returnRefresh); }
+}
+
+</script>
+
+  <link rel="stylesheet" type="text/css" href="http://images.bluebeat.com/css/submodal.css">
+  <script type="text/javascript">
+
+/**
+ * COMMON DHTML FUNCTIONS
+ * These are handy functions I use all the time.
+ *
+ * By Seth Banks (webmaster at subimage dot com)
+ * http://www.subimage.com/
+ *
+ * Up to date code can be found at http://www.subimage.com/dhtml/
+ *
+ * This code is free for you to use anywhere, just keep this comment block.
+ */
+
+/**
+ * X-browser event handler attachment and detachment
+ * TH: Switched first true to false per http://www.onlinetools.org/articles/unobtrusivejavascript/chapter4.html
+ *
+ * @argument obj - the object to attach event to
+ * @argument evType - name of the event - DONT ADD "on", pass only "mouseover", etc
+ * @argument fn - function to call
+ */
+function addEvent(obj, evType, fn){
+ if (obj.addEventListener){
+    obj.addEventListener(evType, fn, false);
+    return true;
+ } else if (obj.attachEvent){
+    var r = obj.attachEvent("on"+evType, fn);
+    return r;
+ } else {
+    return false;
+ }
+}
+function removeEvent(obj, evType, fn, useCapture){
+  if (obj.removeEventListener){
+    obj.removeEventListener(evType, fn, useCapture);
+    return true;
+  } else if (obj.detachEvent){
+    var r = obj.detachEvent("on"+evType, fn);
+    return r;
+  } else {
+    alert("Handler could not be removed");
+  }
+}
+
+/**
+ * Code below taken from - http://www.evolt.org/article/document_body_doctype_switching_and_more/17/30655/
+ *
+ * Modified 4/22/04 to work with Opera/Moz (by webmaster at subimage dot com)
+ *
+ * Gets the full width/height because it's different for most browsers.
+ */
+function getViewportHeight() {
+	if (window.innerHeight!=window.undefined) return window.innerHeight;
+	if (document.compatMode=='CSS1Compat') return document.documentElement.clientHeight;
+	if (document.body) return document.body.clientHeight; 
+
+	return window.undefined; 
+}
+function getViewportWidth() {
+	var offset = 17;
+	var width = null;
+	if (window.innerWidth!=window.undefined) return window.innerWidth; 
+	if (document.compatMode=='CSS1Compat') return document.documentElement.clientWidth; 
+	if (document.body) return document.body.clientWidth; 
+}
+
+/**
+ * Gets the real scroll top
+ */
+function getScrollTop() {
+	if (self.pageYOffset) // all except Explorer
+	{
+		return self.pageYOffset;
+	}
+	else if (document.documentElement && document.documentElement.scrollTop)
+		// Explorer 6 Strict
+	{
+		return document.documentElement.scrollTop;
+	}
+	else if (document.body) // all other Explorers
+	{
+		return document.body.scrollTop;
+	}
+}
+function getScrollLeft() {
+	if (self.pageXOffset) // all except Explorer
+	{
+		return self.pageXOffset;
+	}
+	else if (document.documentElement && document.documentElement.scrollLeft)
+		// Explorer 6 Strict
+	{
+		return document.documentElement.scrollLeft;
+	}
+	else if (document.body) // all other Explorers
+	{
+		return document.body.scrollLeft;
+	}
+}
+/**
+ * SUBMODAL v1.6
+ * Used for displaying DHTML only popups instead of using buggy modal windows.
+ *
+ * By Subimage LLC
+ * http://www.subimage.com
+ *
+ * Contributions by:
+ * 	Eric Angel - tab index code
+ * 	Scott - hiding/showing selects for IE users
+ *	Todd Huss - inserting modal dynamically and anchor classes
+ *
+ * Up to date code can be found at http://submodal.googlecode.com
+ */
+
+// Popup code
+var gPopupMask = null;
+var gPopupContainer = null;
+var gPopFrame = null;
+var gReturnFunc;
+var gPopupIsShown = false;
+var gDefaultPage = "/modal-loading.html";
+var gHideSelects = false;
+var gReturnVal = null;
+
+var gTabIndexes = new Array();
+// Pre-defined list of tags we want to disable/enable tabbing into
+var gTabbableTags = new Array("A","BUTTON","TEXTAREA","INPUT","IFRAME");	
+
+// If using Mozilla or Firefox, use Tab-key trap.
+if (!document.all) {
+	document.onkeypress = keyDownHandler;
+}
+
+/**
+ * Initializes popup code on load.	
+ */
+function initPopUp() {
+	// Add the HTML to the body
+	theBody = document.getElementsByTagName('BODY')[0];
+	popmask = document.createElement('div');
+	popmask.id = 'popupMask';
+	popcont = document.createElement('div');
+	popcont.id = 'popupContainer';
+	popcont.innerHTML = '' +
+		'<div id="popupInner">' +
+			//'<div id="popupTitleBar">' +
+			//	'<div id="popupControls">' +
+			//		'<div id="popCloseBox"><a href="javascript:hidePopWin(false);"></a></div>' +
+			//	'</div>' +
+			//'</div>' +
+			'<iframe src="' + gDefaultPage + '"style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe>' +
+		'</div>';
+	theBody.appendChild(popmask);
+	theBody.appendChild(popcont);
+	
+	gPopupMask = document.getElementById("popupMask");
+	gPopupContainer = document.getElementById("popupContainer");
+	gPopFrame = document.getElementById("popupFrame");	
+	
+	// check to see if this is IE version 6 or lower. hide select boxes if so
+	// maybe they'll fix this in version 7?
+	var brsVersion = parseInt(window.navigator.appVersion.charAt(0), 10);
+	if (brsVersion <= 6 && window.navigator.userAgent.indexOf("MSIE") > -1) {
+		gHideSelects = true;
+	}
+	
+	// Add onclick handlers to 'a' elements of class submodal or submodal-width-height
+	var elms = document.getElementsByTagName('a');
+	for (i = 0; i < elms.length; i++) {
+		if (elms[i].className.indexOf("submodal") == 0) { 
+			// var onclick = 'function (){showPopWin(\''+elms[i].href+'\','+width+', '+height+', null);return false;};';
+			// elms[i].onclick = eval(onclick);
+			elms[i].onclick = function(){
+				// default width and height
+				var width = 400;
+				var height = 200;
+				// Parse out optional width and height from className
+				params = this.className.split('-');
+				if (params.length == 3) {
+					width = parseInt(params[1]);
+					height = parseInt(params[2]);
+				}
+				showPopWin(this.href,width,height,null); return false;
+			}
+		}
+	}
+}
+addEvent(window, "load", initPopUp);
+
+ /**
+	* @argument width - int in pixels
+	* @argument height - int in pixels
+	* @argument url - url to display
+	* @argument returnFunc - function to call when returning true from the window.
+	* @argument showCloseBox - show the close box - default true
+	*/
+function showPopWin(url, width, height, returnFunc, showCloseBox) {
+	// show or hide the window close widget
+	if (showCloseBox == null || showCloseBox == true) {
+	//	document.getElementById("popCloseBox").style.display = "block";
+	} else {
+	//	document.getElementById("popCloseBox").style.display = "none";
+	}
+	gPopupIsShown = true;
+	disableTabIndexes();
+	gPopupMask.style.display = "block";
+	gPopupContainer.style.display = "block";
+	// calculate where to place the window on screen
+	centerPopWin(width, height);
+	
+	var titleBarHeight = 0; //parseInt(document.getElementById("popupTitleBar").offsetHeight, 10);
+
+
+	gPopupContainer.style.width = width + "px";
+	gPopupContainer.style.height = (height+titleBarHeight) + "px";
+	
+	setMaskSize();
+
+	// need to set the width of the iframe to the title bar width because of the dropshadow
+	// some oddness was occuring and causing the frame to poke outside the border in IE6
+	gPopFrame.style.width = parseInt(document.getElementById("popupInner").offsetWidth, 10) + "px"; //popupTitleBar
+	gPopFrame.style.height = (height) + "px";
+	
+	// set the url
+	gPopFrame.src = url;
+	
+	gReturnFunc  = returnFunc;
+	// for IE
+	if (gHideSelects == true) {
+		hideSelectBoxes();
+	}
+	
+	window.setTimeout("setPopTitle();", 600);
+}
+
+//
+var gi = 0;
+function centerPopWin(width, height) {
+	if (gPopupIsShown == true) {
+		if (width == null || isNaN(width)) {
+			width = gPopupContainer.offsetWidth;
+		}
+		if (height == null) {
+			height = gPopupContainer.offsetHeight;
+		}
+		
+		//var theBody = document.documentElement;
+		var theBody = document.getElementsByTagName("BODY")[0];
+		//theBody.style.overflow = "hidden";
+		var scTop = parseInt(getScrollTop(),10);
+		var scLeft = parseInt(theBody.scrollLeft,10);
+	
+		setMaskSize();
+		
+		//window.status = gPopupMask.style.top + " " + gPopupMask.style.left + " " + gi++;
+		
+		var titleBarHeight = 0; //parseInt(document.getElementById("popupTitleBar").offsetHeight, 10);
+		
+		var fullHeight = getViewportHeight();
+		var fullWidth = getViewportWidth();
+		
+		gPopupContainer.style.top = (scTop + ((fullHeight - (height+titleBarHeight)) / 2)) + "px";
+		gPopupContainer.style.left =  (scLeft + ((fullWidth - width) / 2)) + "px";
+		//alert(fullWidth + " " + width + " " + gPopupContainer.style.left);
+	}
+}
+addEvent(window, "resize", centerPopWin);
+addEvent(window, "scroll", centerPopWin);
+window.onscroll = centerPopWin;
+
+
+/**
+ * Sets the size of the popup mask.
+ *
+ */
+function setMaskSize() {
+	var theBody = document.getElementsByTagName("BODY")[0];
+			
+	var fullHeight = getViewportHeight();
+	var fullWidth = getViewportWidth();
+
+  // Firefox fix to get the correct scrollHeight of the page
+  // taken from http://codylindley.com/Webdev/295/javascript-get-page-height-with-scroll
+  var yWithScroll;
+  var xWithScroll;
+  if (window.innerHeight && window.scrollMaxY)
+  {
+    // Firefox
+    yWithScroll = window.innerHeight + window.scrollMaxY;
+    xWithScroll = window.innerWidth + window.scrollMaxX;
+  } else if (document.body.scrollHeight > document.body.offsetHeight) {
+    // all but Explorer Mac
+    yWithScroll = document.body.scrollHeight;
+    xWithScroll = document.body.scrollWidth;
+  } else {
+    // works in Explorer 6 Strict, Mozilla (not FF) and Safari
+    yWithScroll = document.body.offsetHeight;
+    xWithScroll = document.body.offsetWidth;
+  }
+
+  // use viewPort dimensions as the minumum values
+  var popHeight = fullHeight > yWithScroll ? fullHeight : yWithScroll;
+  var popWidth  = fullWidth  > xWithScroll ? fullWidth  : xWithScroll;
+	
+  if (window.innerHeight && window.scrollMaxY)
+  {
+    popWidth -= 17;
+  }
+	gPopupMask.style.height = popHeight + "px";
+	gPopupMask.style.width = popWidth + "px";
+}
+
+/**
+ * @argument callReturnFunc - bool - determines if we call the return function specified
+ * @argument returnVal - anything - return value 
+ */
+function hidePopWin(callReturnFunc) {
+	gPopupIsShown = false;
+	var theBody = document.getElementsByTagName("BODY")[0];
+	theBody.style.overflow = "";
+	restoreTabIndexes();
+	if (gPopupMask == null) {
+		return;
+	}
+	gPopupMask.style.display = "none";
+	gPopupContainer.style.display = "none";
+	if (callReturnFunc == true && gReturnFunc != null) {
+		// Set the return code to run in a timeout.
+		// Was having issues using with an Ajax.Request();
+		gReturnVal = window.frames["popupFrame"].returnVal;
+		window.setTimeout('gReturnFunc(gReturnVal);', 1);
+	}
+
+	gPopFrame.src = gDefaultPage;
+	// display all select boxes
+	if (gHideSelects == true) {
+		displaySelectBoxes();
+	}
+}
+
+/**
+ * Sets the popup title based on the title of the html document it contains.
+ * Uses a timeout to keep checking until the title is valid.
+ */
+function setPopTitle() {
+	return;
+	if (window.frames["popupFrame"].document.title == null) {
+		window.setTimeout("setPopTitle();", 10);
+	} else {
+		document.getElementById("popupTitle").innerHTML = window.frames["popupFrame"].document.title;
+	}
+}
+
+// Tab key trap. iff popup is shown and key was [TAB], suppress it.
+// @argument e - event - keyboard event that caused this function to be called.
+function keyDownHandler(e) {
+    if (gPopupIsShown && e.keyCode == 9)  return false;
+}
+
+// For IE.  Go through predefined tags and disable tabbing into them.
+function disableTabIndexes() {
+	if (document.all) {
+		var i = 0;
+		for (var j = 0; j < gTabbableTags.length; j++) {
+			var tagElements = document.getElementsByTagName(gTabbableTags[j]);
+			for (var k = 0 ; k < tagElements.length; k++) {
+				gTabIndexes[i] = tagElements[k].tabIndex;
+				tagElements[k].tabIndex="-1";
+				i++;
+			}
+		}
+	}
+}
+
+// For IE. Restore tab-indexes.
+function restoreTabIndexes() {
+	if (document.all) {
+		var i = 0;
+		for (var j = 0; j < gTabbableTags.length; j++) {
+			var tagElements = document.getElementsByTagName(gTabbableTags[j]);
+			for (var k = 0 ; k < tagElements.length; k++) {
+				tagElements[k].tabIndex = gTabIndexes[i];
+				tagElements[k].tabEnabled = true;
+				i++;
+			}
+		}
+	}
+}
+
+
+/**
+ * Hides all drop down form select boxes on the screen so they do not appear above the mask layer.
+ * IE has a problem with wanted select form tags to always be the topmost z-index or layer
+ *
+ * Thanks for the code Scott!
+ */
+function hideSelectBoxes() {
+  var x = document.getElementsByTagName("SELECT");
+
+  for (i=0;x && i < x.length; i++) {
+    x[i].style.visibility = "hidden";
+  }
+}
+
+/**
+ * Makes all drop down form select boxes on the screen visible so they do not 
+ * reappear after the dialog is closed.
+ * 
+ * IE has a problem with wanting select form tags to always be the 
+ * topmost z-index or layer.
+ */
+function displaySelectBoxes() {
+  var x = document.getElementsByTagName("SELECT");
+
+  for (i=0;x && i < x.length; i++){
+    x[i].style.visibility = "visible";
+  }
+}
+
+</script>
+
+  <script type="text/javascript">
+
+function returnRefresh(returnVal) 
+{
+  var refresh = window.location.href;
+  var url = refresh.split(/\?l|\&l|#/);
+  var cb = document.getElementById('cb').value;
+  var dt = new Date()
+  var base = url[0];
+  if ( cb > 0 )
+  {
+    var re = new RegExp("q=");
+    if ( re.test(base) == true )
+    {
+      base = base + "&cb=" + dt.valueOf();
+    }
+    else
+    {
+      base = base + "?cb=" + dt.valueOf();
+    }
+  }
+  window.location = base;
+}
+
+function launchPlayer(type, id, br)
+{
+  var bitrate = document.getElementById('bitr').value;
+  var user_id = document.getElementById('idu').value;
+  //var modal_h = document.getElementById('modalHeight').value;
+  //var modal_w = document.getElementById('modalWidth').value;
+  if ( (type == 's') || (type == 'ia') || (type == 'ib') || (type == 'ic') || (type == 'iw') )
+  {
+    if ( user_id == 0 )
+    {
+      showPopWin('/modal/login', modal_w, modal_h, returnRefresh);
+      return;
+    }
+  }
+  if ( bitrate == 320 )
+  {
+    if ( type == 'cr' )
+    {
+      type = 'crate';
+    }
+    window.location = "http://www.bluebeat.com/listen/" + type + "/" + id;
+  }
+  else if ( bitrate == 160 )
+  {
+    launchFP(type, id);
+  }
+}
+
+function getH() {
+  var h = 230;
+  return (h);
+}
+
+function getW() {
+  var w = 335;
+  return (w);
+}
+
+function launchFP(type,id) {
+  
+  var url = window.location.href;
+  var qs = url.split("//")[1];
+  var xs = qs.split("/");
+  var t1 = xs[1];
+  var t2 = xs[2];
+  
+  switch (t1)
+  {
+    case "albums":
+      var typex = "a";
+      var idx = t2;
+      break;
+    case "artists":
+      var typex = "c";
+      var idx = t2;
+      break;
+    case "boxsets":
+      var typex = "b";
+      var idx = t2;
+      break;
+    case "works":
+      var typex = "w";
+      var idx = t2;
+      break;
+    case "songs":
+      var typex = "s";
+      var idx = t2;
+      break;
+    case "everything":
+      var typex = "e";
+      var idx = t2;
+      break;
+    case "crate":
+    case "kp":
+    case "tm":
+      if ( t2 == "info" ) {
+        t2 = xs[3];
+        if ( type == "cr" || type == "kp" || type == "tm" ) {
+          var page  = "/flashplayer?type=" + type + "&id=" + id;
+        }
+        else {
+          var page  = "/flashplayer?type=" + t1 + "&id=" + t2 + "&typex=" + type + "&idx=" + id;
+        }
+      }
+      else {
+        var page  = "/flashplayer?type=" + type + "&id=" + id;
+      }
+      var idx = 0;
+      break;
+    default:
+      var page  = "/flashplayer?type=" + type + "&id=" + id;
+      var idx = 0;
+  }
+  var w = getW();
+  var h = getH();
+  if ( idx == 0 ) {
+    var playerPage  = page;
+  }
+  else {
+    var playerPage  = "/flashplayer?type=" + type + "&id=" + id + "&typex=" + typex + "&idx=" + idx;
+  }
+  self.name='bluebeat';
+  bluebeatFlash=window.open(playerPage,"BlueBeatFlashPlayer","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable,width=" + w + ",height=" + h);
+}
+
+function shareCrate(id) {
+  var bitrate = document.getElementById('bitr').value;
+  if ( bitrate == 160 )
+  {
+    var w = getW();
+    var h = getH();
+    var playerPage  = "/flashshare?&id=" + id;
+    self.name='bluebeat';
+    bluebeatFlash=window.open(playerPage,"BlueBeatFlashPlayer","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable,width=" + w + ",height=" + h);
+  }
+  else
+  {
+    window.location = "http://www.bluebeat.com/action/sharecrate/" + id;
+  }
+}
+
+</script>
+
+ 
   <link rel="alternate" type="application/rss+xml" title="BlueBeat.com" href="/index.xml">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   
@@ -26,61 +872,96 @@
 <body id="pi">
 <div id="wrapper">
   <div id="main">
-    <div id="mast">
+    <div id="mast">   
       <div id="mastcontent">
-	<div id="logo">
-	  <a href="/">Return to BlueBeat Home</a>
-	</div>
-	<div id="menuwrapper">
-	  <div id="menu">
-	    <ul>
-	      <li><a href="/">home</a><ul><li><a href="/news/">news</a></li><li><a href="/forum/login/">open mic<br>&nbsp;&nbsp;forums!</a></li><li><a href="/signup/">join free!</a></li></ul></li>
-	      <li><a href="/genres/">music</a><ul><li><a href="/kp/">killer playlists</a></li><li><a href="/tm/">time machine</a></li><li><strong><a href="/dj/">be the DJ!</a></strong></li></ul></li>
-	      <li id="drop" class="customize"><a href="/account/">customize</a>
-		<ul><!--UdmComment--><li><a href="?&amp;style=1">Back In Black</a></li><li><a href="?&amp;style=4">Blues In Orbit</a></li><li>California Girls</li><li><a href="?&amp;style=11">Nights In White Satin</a></li><!--/UdmComment-->
-		</ul></li>
-	      <li><!--UdmComment--><a href="/browse/">browse</a><!--/UdmComment--><ul><li><a href="/browse/c/">artist</a></li><li><a href="/browse/a/">album</a></li><li><a href="/genres/">genres</a></li></ul></li>
-	      <li><a href="/support/">help</a><ul><li><a href="/support/">support</a></li><li><strong><a href="/download/">download</a></strong></li><li><a href="/support/contact/">contact</a></li></ul></li>
-	    </ul>
-	  </div>
-	</div>
-	<div id="optionwrapper">
-	<form id="formsearch" action="/search" method="get">
-	    <div id="optionsearch">
+	      <div id="menu">
+  <ul>
+	  <li><a href="/">home</a></li>
+	  <li><a href="/genres/">genres</a></li>
+	  <li><a href="/recent/">what's new</a></li>
+	  <li class="last"><a href="/popular/">popular programs</a></li>
+  </ul>
+  <input type="hidden" id="bitr" name="bitrate" value="160">
+  <input type="hidden" id="idu" name="user_id" value="">
+</div> 
+
+        <div id="logo"><a href="/" alt="BlueBeat Music" title="BlueBeat Home"></a></div>	      
+	    </div>	    
+	    <div id="mastlogin"> 
+          
+           
+              <div id="signin">
+  <ul>
+	  <li class="last"><a href="javascript:showPopWin('/modal/login', 600, 300, returnRefresh)">login</a></li>
+	  <li><a href="javascript:showPopWin('/modal/join', 600, 300, returnRefresh)">join</a></li>
+  </ul>
+  <input type="hidden" id="cb" name="cache_bust" value="0">
+</div> 
+
+           
+          
+         </div>
+         
+        <div id="mastsearch">  
+	        <form id="formsearch" action="/search" method="get">
+	    <div id="menusearch"> 
 	      <!--UdmComment-->
 	      
-	      <dl>
-		<dt><label for="searchbox" class="invis">Site Search</label></dt>
-		<dd><input type="text" maxlength="100" class="entry" title="Enter Search Words" id="searchbox" name="q" value=""></dd>
-		<dd><input type="submit" class="press" title="Site Search" id="searchbutton" value="Search"></dd>
-		<input type="hidden" name="type" value="">
-	      </dl>
-	      <div class="clear"></div>
+	       <table>
+		       <tbody><tr>
+		        <td><input type="text" maxlength="100" class="entry" title="Enter Search Words" id="searchbox" name="q" value=""></td>
+		        <td><input type="submit" title="Site Search" id="searchbutton" value=""></td>
+		        <td><input type="hidden" name="type" value=""></td>
+	        </tr>
+	        </tbody></table>
+	   
 	      <!--/UdmComment-->
-	    </div>
-	    </form>
-	</div>
-      </div>
+	    </div> 
+	    </form> 
+	    <script type="text/javascript">
+       <!-- 
+         window.onload = function() { document.getElementById('searchbox').focus(); }
+       // -->
+      </script>
+	      </div>  
+	     
+  </div> <!-- end mast -->
+  <div id="banner">
+	  <div id="bannercontent">
+	    <div id="genreMenu">
+  <ul>
+  
+    <li><a href="/genres/24/">Blues</a></li>
+  
+    <li><a href="/genres/955/">Classical</a></li>
+  
+    <li><a href="/genres/14/">Country</a></li>
+  
+    <li><a href="/genres/904/">Electronica</a></li>
+  
+    <li><a href="/genres/48/">Folk</a></li>
+  
+    <li><a href="/genres/106/">Jazz</a></li>
+  
+    <li><a href="/genres/990/">R&amp;B</a></li>
+  
+    <li><a href="/genres/1/">Rap</a></li>
+  
+    <li><a href="/genres/116/">Reggae</a></li>
+  
+    <li><a href="/genres/10/">Rock</a></li>
+  
+    <li><a href="/genres/135/">World</a></li>
+     
+  <li><a href="/genres/">All</a></li> 
+  </ul>
+</div>
+	  </div>
+  </div> 
+  <div id="content">
       
-      
-      <div id="boxlogin">
-	<h3><a href="/account/">Manage Your BlueBeat</a></h3>
-	<form id="formlogin" action="https://secure.bluebeat.com/door/" method="post">
-	<p><label for="usernamebox">Username </label><br><input class="entry" type="text" maxlength="40" title="Username" value="" name="un" id="usernamebox"></p>
-	<p><label for="passwordbox">Password </label><br><input class="entry" type="password" maxlength="40" title="Password" value="" name="pw" id="passwordbox"></p>
-	<p><a href="/support/main/277">help?</a> <input type="submit" class="press" title="Login To BlueBeat.com" name="login" id="loginbutton" value="Log In"></p>
-	</form>
-      </div>
-      
-      
-    </div>
 
-    <div id="content">
-      <div id="banner">
-	<div id="bannercontent">
-	  <h3>BlueBeat.com's No Spam, No Spyware Privacy Policy</h3>
-	</div>
-      </div>
+
       <div id="columnone">
 	<h2>Privacy Policy</h2>
 	<div class="doc">
@@ -147,26 +1028,82 @@
       </div>
       <div class="clear"></div>
     </div>
+    <div id="stretch_height"></div>
+
     <div id="bowwrapper">
       <div id="bow">
-	<div id="bowlogo"><a href="/">BlueBeat.com Home</a></div>
-	<div id="bowcontent">
-	  <ul>
-	    <li><a href="/signup/">Join Free!</a></li>
-	    <li><a href="/index/">Site Index</a></li>
-	    <li><a href="/support/">Help</a></li>
-	    <li><a href="/support/terms/" rel="pop">Terms of Use</a></li>
-	    <li><a href="/support/privacy/" rel="pop">Privacy</a></li>
-	    <li><a href="/index.xml">Subscribe/RSS</a></li>
-	  </ul>
-	  <p>copyright © 2003-2008 BlueBeat, Inc, a subsidiary of <a href="http://mediarightstech.com" rel="ext">MRT</a>.	All Rights Reserved.
-	  Informational sources hold respective copyrights.</p>
-	  <p>By using this site, you agree to abide by the BlueBeat <a href="/support/terms/" rel="pop">Terms of Use</a>.</p>
-	</div>
+	     <div id="bowcontent">
+	        <ul>
+	           <li><a href="/index/">Site Index</a></li>
+	           <li><a href="/support/">Help</a></li>
+	           <li><a href="/news/">News</a></li>
+	           <li><a href="/forum/login">Forum</a></li>
+	           <li><a href="javascript:showPopWin('/modal/download/', 600, 300, returnRefresh)">Upgrade Music Player</a></li>
+	           <li><a href="/support/terms/" rel="pop">Terms of Use</a></li>
+	           <li><a href="/support/privacy/" rel="pop">Privacy</a></li>
+	           <li><a href="/index.xml">Subscribe/RSS</a></li>
+	        </ul>
+	        <p>copyright © 2003-2009 BlueBeat, Inc, a subsidiary of MRT.	All Rights Reserved.
+	        Informational sources hold respective copyrights.</p>
+	        <p>By using this site, you agree to abide by the BlueBeat <a href="/support/terms/" rel="pop">Terms of Use</a>.</p>
+	     </div>
       </div>
     </div>
-  </div>
-</div>
+
+    <!--[if lt IE 7]><script type='text/javaScript'>
+/*
+ * functions to stretch the page height in IE versions 6 and below
+ */
+function min_page_height() {
+  var possible = 0;
+      possible = (function() {
+        try {
+          if (window.innerHeight!=window.undefined) { return window.innerHeight; }
+          if (document.compatMode=='CSS1Compat') { return document.documentElement.clientHeight; }
+          if (document.body) { return document.body.clientHeight; }
+          return 0;
+        } catch (e) { return 0; }
+      })();
+  var stretch = document.getElementById('stretch_height');
+  var difference = 0;
+  try {
+    difference = possible - stretch.offsetTop - 3;
+
+  } catch (e) { return 0; }
+  if (difference < 0) { difference = 0; } // allow positive value only
+      difference += 'px';
+
+  // adjust the spacer height
+  stretch.style.height = difference;
+
+  // redraw the absolute position(ed) footer
+  adjust_footer();
+
+  return;
+}
+
+function adjust_footer() {
+  var bow = document.getElementById('bowwrapper');
+  var disp = bow.style.display;
+  bow.style.display = 'none';
+  bow.style.display = disp;
+
+  try {
+    var welcome = document.getElementById('welcome');
+    var bottom = welcome.style.display;
+    welcome.style.display = 'none';
+    welcome.style.display = bottom;
+  } catch (e) {}
+}
+
+min_page_height();
+window.attachEvent('onresize', min_page_height);
+
+</script>
+<![endif]-->
+
+  </div> <!-- end main -->  
+</div>  <!-- end wrapper -->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -176,13 +1113,8 @@
   
   
   
-  
   if (document.getElementById)
-  { document.getElementById('searchbox').onfocus = function() { clearText('searchbox'); }
-    
-    
-    
-    
+  { 
     
     
     
@@ -193,15 +1125,26 @@
 							     
 							     
 							     
-							     
 							   });
 //]]>
 </script>
-<!--[if IE 5]><script type="text/javascript" src="/j/ie.js"></script><![endif]-->
-<!--[if IE 6]><script type="text/javascript" src="/j/ie.js"></script><![endif]-->
+<input id="modalWidth" type="hidden" name="modalWidth" value="600">
+<input id="modalHeight" type="hidden" name="modalHeight" value="300">
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
+: "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9352366-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 
 
 
-</body></html>
+<div id="popupMask"></div><div id="popupContainer"><div id="popupInner"><iframe src="/modal-loading.html" style="width:100%;height:100%;background-color:transparent;" scrolling="auto" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe></div></div></body></html>
