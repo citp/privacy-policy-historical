@@ -1,32 +1,16 @@
-> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221205817id_/http%3A//www.saccounty.net/Disclaimer/SAC_Portal_DF_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624000745id_/http%3A//www.saccounty.net/Disclaimer/SAC_Portal_DF_Privacy) for the most accurate reproduction.*
 
 # 
 
-|   
----  
- [Board of Supervisors](http://www.bos.saccounty.net/)  
- [About the County](https://web.archive.org/aboutthecounty/index.htm)  
- [County Services A - Z](https://web.archive.org/county-services/index.htm)  
- [Department Index](https://web.archive.org/Department-Index/index.htm)  
- [Emergency Information](https://web.archive.org/emergency-information/index.htm)  
- [Employment](http://hra.co.sacramento.ca.us/employ/opp/content.htm)  
- [News](http://www.pio.saccounty.net/)  
- [SacCounty TV](http://www.saccountytv.saccounty.net/)  
- [Contact Us](https://web.archive.org/contact-us/index.htm)  
- [Help](https://web.archive.org/help/index.htm)  
-   
-Your Resources  
- [e-Link](https://web.archive.org/online-services/index.htm)  
- [Communities & Cities](http://www.communities.saccounty.net/)  
- [Boards and](https://web.archive.org/boards-commissions/index.htm)  
- [Commissions](https://web.archive.org/boards-commissions/index.htm)  
-| 
+Your Resources
 
-######  [Home](https://web.archive.org/index.htm)  >  [Disclaimer](https://web.archive.org/Disclaimer/index.htm)
+|  | 
+
+######  [Home](https://web.archive.org/default.htm)  >  [Disclaimer](https://web.archive.org/Disclaimer/default.htm)
 
 ## Privacy Policy
 
-**Inquire about the availability of documents in[alternate formats.](https://web.archive.org/accessibility/index.htm)**  
+**Inquire about the availability of documents in[alternate formats.](https://web.archive.org/accessibility/default.htm)**  
   
 Thank you for visiting the County of Sacramento website. This Privacy Policy outlines the types of information we gather when you visit our website, how that information is used as well as some of the steps we take to safeguard it.
 
