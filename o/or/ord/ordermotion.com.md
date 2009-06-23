@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093232id_/http%3A//www.ordermotion.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623155231id_/http%3A//www.ordermotion.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # OrderMotion - Privacy Policy
 
-|  |   
----|---|---  
+  
 |  |  |   
 ---|---|---  
 | [**Legal**](https://web.archive.org/Legal) |   
 |  |   
 |  |   
-| 
+|   
+
 
 [Terms](https://web.archive.org/Legal/LegalTerms)
 
-**[Privacy Policy](https://web.archive.org/Legal/PrivacyPolicy)**
+[Privacy Policy](https://web.archive.org/Legal/PrivacyPolicy)
 
   
 |   
 |  |   
   
+
+
 ## The web site you have entered, www.OrderMotion.com, is operated by or on behalf of OrderMotion, Inc. 
 
 OrderMotion is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by OrderMotion on this web site, and how we use and protect it. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the OrderMotion web sites listed here. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties. 
@@ -49,5 +51,4 @@ OrderMotion reserves the right to change or remove this Privacy Policy at our di
 
 ## Who to Contact 
 
-Please write to us at corporate@ordermotion.com or at OrderMotion Consumer Services, 129 South St. Boston, MA or call us at +1 (877) 775-3900 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. |   
-|  | 
+Please write to us at [info@ordermotion.com](mailto:) or at OrderMotion Consumer Services, 129 South St. Boston, MA or call us at +1 (877) 775-3900 if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases. | 
