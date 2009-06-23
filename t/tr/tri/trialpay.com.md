@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227145257id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623022014id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
 
 # TrialPay Online Shopper Privacy Policy
+
+**What This Policy Covers**
+
+This policy covers how TrialPay treats personal information that we collect and receive. 
+
+Personal information is information about you that is personally identifiable like your name or email address and that is not otherwise publicly available. 
+
+This Privacy Policy applies to all of the products, services and Web sites offered by TrialPay Inc. or its subsidiaries or affiliated companies (collectively, "TrialPay's services"). In this Privacy Policy, references to "we," "our" and "us" refer to TrialPay while "you" and "your" refer to the TrialPay customer or user.
+
+This policy does not apply to the practices of companies that TrialPay does not own or control or to people that TrialPay does not employ or manage. 
 
 **Information We Collect**  
 
@@ -19,9 +29,6 @@ This site is not aimed to attract children and its objective is not to collect p
 
 **Information Sharing and Disclosure**  
 TrialPay does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  
-
 
 We provide the information to trusted partners who work on behalf of or with TrialPay under confidentiality agreements. These companies may use your personal information to help TrialPay communicate with you about offers from TrialPay and our marketing partners. However, these companies do not have any independent right to share this information.
 
