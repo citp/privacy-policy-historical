@@ -1,23 +1,12 @@
-> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182714id_/http%3A//www.mtishows.com/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtishows.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624011137id_/http%3A//www.mtishows.com/content.asp%3Fid%3D12_0_0) for the most accurate reproduction.*
 
-# Privacy Policy: Music Theatre International - MTI - Musical Theatre
-
-[](https://web.archive.org/web/20041204182714id_/http%3A//www.mtishows.com/selector_1.asp)  
-
-
-Did You Know?  
-  
----  
-  
-Before coming to Broadway, the stage adaptation of Seven Brides For Seven Brothers toured the country featuring the stars of the classic movie musical, Howard Keel and Jane Powell.   
-  
-PRIVACY POLICY
+# 
 
 Thank you for visiting one of the MTI Sites. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
 **The Information We Collect**
 
-At some MTI sites, you may be able to order services or products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services or participate in one of our online bulletin boards or other exchanges. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, type and size of organization, and information about your proposed performances, such as audience size, dates and ticket prices. We may also ask about your interests in and use of various products, programs, and services. You will know when personally identifiable information is collected by MTI because you will have to fill out a form. Of course, if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our sites. 
+At some MTI sites, you may be able to order services or products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services or participate in one of our online bulletin boards or other exchanges. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, type and size of organization, and information about your proposed performances, such as audience size, dates and ticket prices. We may also ask about your interests in and use of various products, programs, and services. You will know when personally identifiable information is collected by MTI because you will have to fill out a form. Of course, if you want to remain completely anonymous, you‘re still free to take advantage of the wealth of content available on our sites. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (such as Netscape or Internet Explorer), the type of operating system you are using, (such as Windows ME or Mac OS) and the domain name of your Internet service provider (such as America Online or Earthlink). 
 
@@ -37,7 +26,7 @@ The information we may collect in connection with our online bulletin boards and
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency‘s request. 
 
 Agents and contractors of MTI who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for MTI. 
 
@@ -45,7 +34,7 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 **Collection of Information by Third-Party Sites**
 
-The MTI Sites may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
+The MTI Sites may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites‘ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
 
 **How You can Access or Correct Information**
 
@@ -53,4 +42,4 @@ For instructions on how you can access the personally identifiable information t
 
 **How to Contact Us**
 
-If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20041204182714id_/http%3A//www.mtishows.com/contact.asp).
+If you have any questions or concerns about the our online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20090624011137id_/http%3A//www.mtishows.com/content.asp?id=1_1_0).
