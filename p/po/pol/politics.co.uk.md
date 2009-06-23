@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224233645id_/http%3A//www.politics.co.uk/information/privacy-%241214315.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.co.uk privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624014335id_/http%3A//politics.co.uk/information/privacy-%241214315.htm) for the most accurate reproduction.*
 
 # politics.co.uk privacy policy
 
-Wednesday, 24, Dec 2008 11:46
+Wednesday, 24, Jun 2009 02:42
 
 a) General: We are strongly committed to protecting users’ privacy, and this sets out our policy on the use of personal data relating to Users which has been collected in relation to their access to and use of the Site. 
 
