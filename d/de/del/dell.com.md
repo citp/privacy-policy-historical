@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220213837id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623043209id_/http%3A//www.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
@@ -10,13 +10,15 @@
   
 Global Privacy Policy
 
+ **OUR PRIVACY POLICY HAS BEEN REVISED AND WILL GO INTO EFFECT JULY 12.** [**READ A SUMMARY OF THE CHANGES.** ](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=023)
+
 At Dell, helping you manage privacy and the protection of personal information is among our primary concerns. That's why, when you choose Dell, we help you maintain control over personal information about you. Below are the guidelines we use for protecting the information you provide us during your experience with our company through any means, such as when you use our web sites, interact with us through our products and other services, when we speak with you over the telephone, and if you work directly with our technical support teams. We also want you to be aware that we take careful measures surrounding the information that you provide through any of our online support offerings such as [support.dell.com](http://support.dell.com/support/index.aspx) or support applications loaded on your computer. Please refer to your warranty statements or service contracts, or Dell's Return Policy for policies that apply to information contained on hard drives returned or downloaded to Dell. 
 
 Visit [www.nclnet.org/technology/essentials](http://www.nclnet.org/technology/essentials/) to learn more about how to protect your privacy on the Internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
 
 Scope
 
-This summary provides highlights of the full Dell [Global Privacy Policy](https://web.archive.org/content/topics/global.aspx/policy/en/privacy_policy?c=us&l=en&s=gen) and applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our") but not to those Dell corporate affiliates that operate and have published their own privacy and security policies, including but not limited to Dell Financial Services, and Alienware business units. This privacy statement also does not apply to the web sites of our business partners or to any other third parties, even if their web sites are linked to our web site. We recommend you review the privacy policies of each web site you visit. 
+This summary provides highlights of the full Dell [Global Privacy Policy](https://web.archive.org/content/topics/global.aspx/policy/en/privacy_policy?c=us&l=en&s=gen) and applies to Dell Inc. and its worldwide corporate affiliates ("we" or "our") but not to those Dell corporate affiliates that operate and have published their own privacy and security policies. This privacy statement also does not apply to the web sites of our business partners or to any other third parties, even if their web sites are linked to our web site. We recommend you review the privacy policies of each web site you visit. 
 
 This privacy statement governs only personal information we collect from our customers and online from our web site users ("you"), through Dell products, services, software, web sites, contacts or our relationship with you. Please refer to your warranty statements, service contracts, or Dell's Return Policy for policies that apply to information contained on hard drives returned or downloaded to Dell.
 
@@ -92,4 +94,4 @@ How to Contact Us
 | | | | |   
 ---|---|---|---|---  
   
-sn WW10
+snDWW4
