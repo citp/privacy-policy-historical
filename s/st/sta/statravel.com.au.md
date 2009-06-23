@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220135744id_/http%3A//www.statravel.com.au/cps/rde/xchg/au_division_web_live/hs.xsl/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623073133id_/http%3A//www.statravel.com.au/cps/rde/xchg/au_division_web_live/hs.xsl/privacy_policy.htm) for the most accurate reproduction.*
 
-# STA TRAVEL | Privacy Policy
-
-STA Travel protects the privacy of all our travellers whether you visit one of our branches or our Internet site.
-
-We have developed a privacy policy to inform you what information we may collect from you, what this information will be used for, with whom such information will be shared and the security procedures we have implemented to protect your privacy.
+# Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
 ## What Information We Collect
 
