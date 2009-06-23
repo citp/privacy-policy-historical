@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219122539id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623084429id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
 
-# University of Mary Washington | Internet Privacy Policy
+# UMW - Internet Privacy Policy
 
 The following information explains the Internet Privacy Policy that the University of Mary Washington has adopted for our Web site.
 
@@ -46,10 +46,10 @@ If you have questions about this privacy statement or the practices of this Web 
 
 ## Related Links 
 
-[Commonwealth of Virginia: Internet Web Page Privacy Statement Guidelines ](http://state.vipnet.org/cts/papers/covitrmguide.pdf)
+[Commonwealth of Virginia: Internet Privacy Guidelines (SEC2001-02.1) (02/27/2001)](http://www.vita.virginia.gov/uploadedFiles/Library/Internet_Privacy_Guid.pdf)
 
 back to top
 
 * * *
 
-**_Last Updated:_** _June 30, 2007_
+**_Last Updated:_** _May 5, 2009_
