@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the microstrategy.com privacy policy that was archived on 2008-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080814204621id_/http%3A//www.microstrategy.com/Privacy.asp%3FCID%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the microstrategy.com privacy policy that was archived on 2009-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623175634id_/http%3A//www.microstrategy.com/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  	<meta http-equiv="Content-Type" content="text/html" charset="ISO-8859-1">
-	<!--<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />-->
+  	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<!--Optimized title 2008-->
   	<title>Privacy Policy</title>
 		<meta http-equiv="expires" content="0">
@@ -12,53 +11,102 @@
 	<meta name="description" content="Privacy">
 	<meta name="verify-v1" content="m7wLnlpozppWXxXXUZVJTNphYR8+yHmSBxkFG/0arZ8=">
 	<link rel="shortcut icon" href="/favicon.ico">
+	
 	<link rel="apple-touch-icon" type="image/png" href="/graphics/apple-touch-icon.png">
 	
 	<link rel="stylesheet" type="text/css" href="http://www.microstrategy.com/Public/Styles/StyleSheet_R08.css">
 	
 	<link rel="stylesheet" type="text/css" href="http://www.microstrategy.com/Public/Styles/styles.css">
-	
-	
+	<link rel="stylesheet" type="text/css" media="print" href="http://www.microstrategy.com/public/styles/printstyles.css">
 	<!--homepage-only styles-->
 	<link rel="stylesheet" type="text/css" href="http://www.microstrategy.com/Public/Styles/hp_styles.css">
 	
+	<link rel="stylesheet" type="text/css" href="http://www.microstrategy.com/public/functions/js/fancybox/jquery.fancybox.css" media="screen">
+    
 	
-	<script language="JavaScript1.2" type="text/javascript" src="http://www.microstrategy.com/Public/Functions/Global.js"></script>
-	<script language="JavaScript1.2" type="text/javascript" src="http://www.microstrategy.com/Public/Functions/Element.js"></script>
-	<!--script language="JavaScript1.2" type="text/javascript" src="http://www.microstrategy.com/Public/Functions/FormValidations.js"></script--><!-- hiding formvalidations.js -->
 	
-	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-	<script>
-  	// Load jQuery
-  	google.load("jquery", "1");
-
-  	google.setOnLoadCallback(function() {
-		// Expand only the active menu, which is determined by the class name
-		$("#sidebar_nav > li > a[@class=expanded] ").find("+ ul").show();
-		$("#sidebar_nav2 > li > a[@class=expanded] ").find("+ ul").show();
-
-		// Toggle the selected menu's class and expand or collapse the menu
-		$("#sidebar_nav > li > a[@class=expanded]").click(function() {
-			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
-		});
-		$("#sidebar_nav2 > li > a[@class=expanded]").click(function() {
-			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
-		});
-		$("#sidebar_nav > li > a[@class=collapsed]").click(function() {
-			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
-		});
-		$("#sidebar_nav2 > li > a[@class=collapsed]").click(function() {
-			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
-		});
-	});
-
+	<script type="text/javascript" src="http://www.microstrategy.com/Public/Functions/Global.js"></script>
+	<script type="text/javascript" src="http://www.microstrategy.com/Public/Functions/Element.js"></script>
+	
+    
+    
+	
+	<script language="javascript" type="text/javascript">
+	
+	function toggleLoginBox()
+	{
+		if(box = document.getElementById("removablePanel"))
+		{
+			box.style.display = box.style.display == "none" ? "" : "none";
+		}
+		else
+			alert("!");
+	}
 	</script>
 	
 	
+	<script type="text/javascript" src="http://www.microstrategy.com/public/functions/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="http://www.microstrategy.com/public/functions/jquery.qtip-1.0.0-beta3.1.min.js"></script>
+	<script type="text/javascript" src="http://www.microstrategy.com/public/functions/js/fancybox/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="http://www.microstrategy.com/public/functions/js/fancybox/jquery.fancybox-1.2.1.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		 
+		$("#sidebar_nav > li > a[class=expanded] ").find("+ ul").show();
+		$("#sidebar_nav2 > li > a[class=expanded] ").find("+ ul").show();
+		
+		
+		
+		// Toggle the selected menu's class and expand or collapse the menu
+		$("#sidebar_nav > li > a[class=expanded]").click(function() {
+			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
+		});
+		$("#sidebar_nav2 > li > a[class=expanded]").click(function() {
+			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
+		});
+		$("#sidebar_nav > li > a[class=collapsed]").click(function() {
+			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
+		});
+		$("#sidebar_nav2 > li > a[class=collapsed]").click(function() {
+			$(this).toggleClass("expanded").toggleClass("collapsed").find("+ ul").slideToggle("medium");
+		});
+		
+		
+		//QuickTour fancybox activation
+		$(".openTour").fancybox({
+			'frameWidth': 960,
+			'frameHeight': 650,
+			'padding': 0
+		});
+		
+		
+	});
+	</script>
+
+    
+	<script src="http://www.microstrategy.com/9/js/lightbox.js" type="text/javascript"></script>
 	
 	
 	<!--[if IE 6]>
 	<style>
+		
+		.topToolLinks {
+			margin-right: -16px;
+		}
+	
+		#contentDiv {
+			height: 100%;
+			
+		}
+		
+		#bigroundbox {
+		width: 893px;
+		}
+		
+		#footer {
+			background: #e8e4dd;
+		}
+		
 		#menu a:hover {
 		background:url("http://www.microstrategy.com/graphics/homepage/tab_slide_left.gif") no-repeat left -160px;
 		text-decoration:none;
@@ -72,66 +120,242 @@
 		}
 	</style>
 	<![endif]-->
+	
+	<!--[if lt IE 8]>
+		<style>
+		#mrs_toprightbuttons {
+			margin-right: -80px;
+		}
+		</style>
+	<![endif]-->
+    
+	<script type="text/javascript">
+    $(document).ready(function(){
+            $('.lightbox').lightBox();
+    });
+    </script>
+    <style type="text/css">
 
-
+    #jquery-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 90;
+        width: 100%;
+        height: 500px;
+    }
+    #jquery-lightbox {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 100;
+        text-align: center;
+        line-height: 0;
+    }
+    #jquery-lightbox a img { border: none; }
+    #lightbox-container-image-box {
+        position: relative;
+        background-color: #fff;
+        width: 250px;
+        height: 250px;
+        margin: 0 auto;
+    }
+    #lightbox-container-image { padding: 10px; }
+    #lightbox-loading {
+        position: absolute;
+        top: 40%;
+        left: 0%;
+        height: 25%;
+        width: 100%;
+        text-align: center;
+        line-height: 0;
+    }
+    #lightbox-nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 10;
+    }
+    #lightbox-container-image-box > #lightbox-nav { left: 0; }
+    #lightbox-nav a { outline: none;}
+    #lightbox-nav-btnPrev, #lightbox-nav-btnNext {
+        width: 49%;
+        height: 100%;
+        zoom: 1;
+        display: block;
+    }
+    #lightbox-nav-btnPrev { 
+        left: 0; 
+        float: left;
+    }
+    #lightbox-nav-btnNext { 
+        right: 0; 
+        float: right;
+    }
+    #lightbox-container-image-data-box {
+        font: 10px Verdana, Helvetica, sans-serif;
+        background-color: #fff;
+        margin: 0 auto;
+        line-height: 1.4em;
+        overflow: auto;
+        width: 100%;
+        padding: 0 10px 0;
+    }
+    #lightbox-container-image-data {
+        padding: 0 10px; 
+        color: #666; 
+    }
+    #lightbox-container-image-data #lightbox-image-details { 
+        width: 70%; 
+        float: left; 
+        text-align: left; 
+    }	
+    #lightbox-image-details-caption { font-weight: bold; }
+    #lightbox-image-details-currentNumber {
+        display: block; 
+        clear: left; 
+        padding-bottom: 1.0em;	
+    }			
+    #lightbox-secNav-btnClose {
+        width: 66px; 
+        float: right;
+        padding-bottom: 0.7em;	
+    }
+    </style>
  </head>
- <body id="mstr_homepage"><div id="bigwrapper">
+
+ <body id="mstr_homepage">
+ 
+
+<div id="bigwrapper">
 <div id="topDiv">
-	
-	<div id="hp_logo"><a href="/?CID="><img src="http://www.microstrategy.com/graphics/homepage/homepage_logo.gif" alt="MicroStrategy, Inc."></a></div>
-	
+	<div id="hp_logo"><a href="/"><img src="http://www.microstrategy.com/graphics/homepage/homepage_logo.gif" alt="MicroStrategy, Inc."></a></div>
 	<div id="hp_contact">
 		<form method="get" action="http://www.microstrategy.com/search/index.asp">
-		<p><a href="https://resource.microstrategy.com/ResourceCenter/login.aspx?CID=" target="_blank">My Account</a> | <a href="/Company/ContactUs.asp?CID=">Contact Us</a> &nbsp; <span class="headerphone">888.537.8135</span> &nbsp;
-		<input type="text" name="search" id="hp_search_box" value="" onclick="JavaScript:this.value=''; this.style.color='#000';">
-		<input type="image" src="http://www.microstrategy.com/graphics/Headers/button_search_2.gif" style="vertical-align: text-bottom;">
+		<p>
+		<a href="https://resource.microstrategy.com/ResourceCenter/manageAccount.aspx?CID=">My Account</a> |
+		<a href="/Company/ContactUs.asp">Contact Us</a> &nbsp;
+		<span class="headerphone">888.537.8135</span> &nbsp;
+		<input type="text" name="search" id="hp_search_box" value="Search" onfocus="if (this.value == 'Search') { this.value=''; }" onblur="if (this.value == '') { this.value='Search'; }">
+		<input type="image" src="http://www.microstrategy.com/graphics/Headers/button_search_2.gif" style="vertical-align: text-bottom;" alt="Search">
 		</p>
 		</form>
-		
 	</div>
 	
 	<div id="hp_top_right_links">
-		<img src="http://www.microstrategy.com/graphics/homepage/icon_eval_b.gif" height="18" width="19" alt="Download">
-		<a href="/FreeEvalCD.asp?CID=">30-Day Free Trial</a>
+	<div id="chat_popup" class="chat_popup" style="display:none; margin-top:15px;">
+<div id="chat_question">Would you like to chat with us?</div>
+<br clear="all">
+<a href="http://livechat.boldchat.com/aid/9033681044653941493/bc.chat?cwdid=5946958127755833383" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/9033681044653941493/bc.chat?cwdid=5946958127755833383&amp;url=' + escape(document.location.href), 'Chat3448002376362169042', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=435,height=490');return false;" id="chat_now">chat<br>now</a>
+<br clear="all">
+<a href="javascript:;" id="chat_no" class="chat_no">No, thanks</a>
+</div>
+<div id="chat_hours" class="chat_hours" style="display:none; position:absolute;">
+	<em>All our representatives are currently offline</em><br>
+	<strong>Chat hours:</strong><br>
+	Monday - Friday, <span>9AM</span> to <span>6PM</span> EST
+</div>
+<!--[IF IE 6]>
+<style type="text/css">
+#chat_popup{
+	background-image:url(http://www.microstrategy.com/chat/chat_popup_bg.gif);
+	top:50px;
+}
+#chat_popup #chat_now{
+	margin-right:14px;
+}
+#chat_popup #chat_no{
+	margin-right:14px;
+}
+</style>
+<![endif]-->
+<!--[IF IE 7]>
+<style type="text/css">
+#chat_popup{
+	top:46px;
+}
+</style>
+<![endif]-->
+
+<style type="text/css">
+#chat_popup{
+	background-image:url(http://www.microstrategy.com/chat/chat_popup_bg_2.png);
+}
+</style>
+<!--[IF IE 6]>
+<style type="text/css">
+#chat_popup{
+	background-image:url(http://www.microstrategy.com/chat/chat_popup_bg_2.gif);
+</style>
+<![endif]-->
+
+<span id="chatPlaceholder"><img src="http://www.microstrategy.com/graphics/homepage/icon_chat.gif" height="18" width="23" alt="Click to chat"> <a href="javascript:;" id="chatNowLink" class="chatNowLink">Live Chat</a></span>
+<script>
+  $(document).ready(function(){
+	 $("a.chatNowLink").click(function(){
+	 	$("div.chat_popup").toggle();
+	 });
+	 $("div.chat_popup").hover(null,function(){
+		$("div.chat_popup").fadeOut(600);
+	 });
+	 $("div.chat_popup").click(function(){
+		$("div.chat_popup").fadeOut(200);
+	 });
+	 $("a.chat_no").click(function(){
+	 	$("div.chat_popup").fadeOut(200);
+	 },null);
+	 $("span.chat_offline").hover(function(){
+	 	$("div.chat_hours").fadeIn(200);
+		}, function(){
+		$("div.chat_hours").fadeOut(400);
+		});
+  });
+</script>
+<noscript><a style="color:#999;" class="chat_offline" title="Requires JavaScript">Live Chat</a></noscript>
+        <img src="http://www.microstrategy.com/graphics/homepage/icon_download.gif" alt="Download" style="padding-left: 3px;">
+		<a href="http://www.microstrategy.com/freereportingsoftware">Free Reporting Suite</a>
+        <img src="http://www.microstrategy.com/graphics/homepage/icon_9.gif" alt="Download">
+		<a href="/FreeEvalCD.asp">MicroStrategy 9 Free Trial</a>
 		<img src="http://www.microstrategy.com/graphics/homepage/icon_i2bi.gif" height="18" width="19" alt="Sign Up">
-		<a href="/freeBIClasses.asp?CID=">Free BI Class</a>	</div>
-	
-	<!-- navigation tabs -->
+		<a href="/freeBIClasses.asp">Free BI Class</a>
+	</div>
 	<div id="hp_menu_bar">
 		<ul id="menu">
-			<li><a href="/Products-Services?CID=">Products &amp; Services</a></li>
-<li><a href="/Solutions?CID=">Solutions</a></li>
-<li><a href="/Customers?CID=">Customers</a></li>
-<li><a href="/Partners?CID=">Partners</a></li>
-<li><a href="/Newsroom?CID=">Newsroom</a></li>
-<li><a href="/Events?CID=">Events</a></li>
-<li><a href="/Support?CID=">Customer Support</a></li>
-<li><a href="/Education?CID=">Education</a></li>
-<li><a href="/Company?CID=">About Us</a></li>
+		<li><a href="/Products-Services">Products &amp; Services</a></li>
+<li><a href="/Solutions">Solutions</a></li>
+<li><a href="/Customers">Customers</a></li>
+<li><a href="/Partners">Partners</a></li>
+<li><a href="/Newsroom">Newsroom</a></li>
+<li><a href="/Events">Events</a></li>
+<li><a href="/Support">Customer Support</a></li>
+<li><a href="/Education">Education</a></li>
+<li><a href="/Company">About Us</a></li>
 
 		</ul>
-		<a href="http://www.microstrategy.com/International/?CID=" id="hp_worldwide">Worldwide Sites</a>
-	</div><!-- /#hp_menu_bar-->
-	<!-- end navigation tabs -->
+		<a href="http://www.microstrategy.com/International/" id="hp_worldwide">Worldwide Sites</a>
+	</div>
 	
 	<!-- flash banner -->
-	</div><!--/#topDiv-->
 	
-	<div id="contentDiv">
+	<!-- end flash banner -->
+	<!--/#topDiv-->
 	
+			<div id="contentDiv">
+		
 	<div id="breadcrumbs">
-	
-	<div id="bc_date">
-		<script language="JavaScript" type="text/javascript">document.write(customDateString(new Date()));</script>
-	</div>
-	
-	<div id="bc_breadcrumbs">
-	
-		<img src="http://www.microstrategy.com/graphics/Headers/pathcompass.gif" width="11" height="11" alt="">&nbsp;<a href="/?CID=">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
-	</div>
-	
-	
-	
+		<div id="bc_date">
+			<script language="JavaScript" type="text/javascript">
+				var localDateArray = customDateString(new Date()).split(", ");
+				document.write(localDateArray[1] + ", " + localDateArray[2]);
+			</script>
+		</div>
+		<div id="bc_breadcrumbs">
+		
+			<img src="http://www.microstrategy.com/graphics/Headers/pathcompass.gif" width="11" height="11" alt="">&nbsp;<a href="/">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+		</div>
 	</div><!--/#breadcrumbs-->
 	
 <div id="sidebar">
@@ -139,36 +363,39 @@
 <h4>Company</h4>
 
 <ul id="sidebar_nav">
-<li><a href="/Company/index.asp?CID=">Company Overview</a></li>
-<li><a href="/Company/Analysts.asp?CID=">Analysts</a></li>
-<li><a href="/Company/Awards.asp?CID=">Awards</a></li>
+<li><a href="/Company/index.asp">Company Overview</a></li>
+<li><a href="/Company/Analysts.asp">Analysts</a></li>
+<li><a href="/Company/Awards.asp">Awards</a></li>
 <li><a class="collapsed">Careers</a>
 	<ul>	
-	<li><a href="/Company/Careers/index.asp?CID=">Overview</a></li>
-	<li><a href="/Company/Careers/Students/index.asp?CID=">University Recruiting</a></li>
+	<li><a href="/Company/Careers/index.asp">Overview</a></li>
+	<li><a href="/Company/Careers/Students/index.asp">University Recruiting</a></li>
 	</ul>
 </li>
-<li><a href="/Company/People/?CID=">Executive Team</a></li>
-<li><a href="/Company/ContactUs.asp?CID=">Locations</a></li>
+<li><a href="/Company/People/">Executive Team</a></li>
+<li><a href="/Company/ContactUs.asp">Locations</a></li>
 <li><a class="collapsed">Publications</a>
 	<ul>	
-	<li><a href="/Publications/Direct/?CID=">Newsletter</a></li>
-	<li><a href="/Publications/Whitepapers/?CID=">White Papers</a></li>
+	<li><a href="/Publications/Direct/">Newsletter</a></li>
+	<li><a href="/Publications/Whitepapers/">White Papers</a></li>
 
 	</ul>
 </li></ul>
-	
-	
- 
+<!--Show Resources and Related Info-->
+
+<!-- End Show Resources and Related Info-->
 <div id="aboutbox">
 <h5>About Us</h5>
  MicroStrategy, a global leader in <a href="/">business intelligence</a> technology, provides integrated reporting, analysis, and monitoring software that helps leading organizations make better business decisions every day.<br>
-<a href="/Company/index.asp?CID=">Find out more »</a>
+<a href="/Company/index.asp">Find out more »</a>
 <div class="aboutlink aboutcontact">
-	<a href="/Company/ContactUS.asp?CID=">Contact Us at 888.537.8135</a>
+	<a href="/Company/ContactUS.asp">Contact Us at 888.537.8135</a>
 </div>
 <div class="aboutlink aboutdownload">
-	<a href="/FreeEvalCD.asp?CID=">Download Free Evaluation Software</a>
+	<a href="/FreeEvalCD.asp">MicroStrategy 9<br>Free Trial</a>
+</div>
+<div class="aboutlink aboutmrs">
+	<a href="/freereportingsoftware">Free Reporting Suite</a>
 </div>
 
 </div><!--/#aboutbox -->
@@ -177,13 +404,14 @@
 
 
 </div><!--/#sidebar-->	
+
 	<div id="littlewrapper">
 	<div id="subheading">
 		<h3>MicroStrategy</h3>
 	</div>
 	<div id="content">
 	
-<!--TEMPLATE1 END-->
+	
 
             	
             	
@@ -232,7 +460,7 @@ collect personal information from you on the Internet.</p>
 <br>
 You can set your browser to notify 
                 you when you receive a cookie, giving you the chance to decide 
-                whether or not to accept it. For more information, please see <a href="/cookies.asp?CID=">
+                whether or not to accept it. For more information, please see <a href="/cookies.asp">
                 "How to work with Cookies"</a>.</p>
  				
 
@@ -241,33 +469,63 @@ You can set your browser to notify
  </tbody></table>
     	          <!-- END MAIN CONTENT HERE -->
 
-<!--TEMPLATE2 BEGIN-->
 
-	</div><!--/#content-->
-</div><!--/#littlewrapper-->
+			</div><!--/#content-->
+		</div><!--/#littlewrapper-->
+		</div>
 
-<!--TEMPLATE2 END-->
-
-<div class="clear"></div>
-</div><!-- bottomDiv -->
+	</div><!-- bottomDiv -->
+	<div class="clear"></div>
 
 <div id="footer">
 	<p>
 	MicroStrategy, a global leader in <a href="/">business intelligence</a> technology,
 	provides integrated reporting, analysis, and monitoring software that helps leading organizations make better
-	business decisions every day. <a href="/Company/index.asp?CID=">Find out more about us</a>.
+	business decisions every day. <a href="/Company/index.asp">Find out more about us</a>.
 	</p>
 	<p>
-		<a href="/Copyright.asp?CID=">Copyright © 2008</a> MicroStrategy, Inc. All Rights Reserved.<br>
-      <a href="/Company/Careers/?CID=">Careers</a> | <a href="/Privacy.asp?CID=">Privacy Statement</a> |
-		<a href="/LegalNotices.asp?CID=">Legal Notices &amp;
-      Terms of Use</a> | <a href="/ContactUs.asp?CID=">Contact Us</a> | <a href="/sitemap.asp?CID=">Site Map</a> | 
+		<a href="/Copyright.asp">Copyright © 2009</a> MicroStrategy, Inc. All Rights Reserved.<br>
+      <a href="/Company/Careers/">Careers</a> | <a href="/Privacy.asp">Privacy Statement</a> |
+		<a href="/LegalNotices.asp">Legal Notices &amp;
+      Terms of Use</a> | <a href="/ContactUs.asp">Contact Us</a> | <a href="/sitemap.asp">Site Map</a> | 
 		<a href="https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=18986" target="_blank">
 		MicroStrategy EthicsLine</a><br>
       1861 International Drive, McLean, Virginia 22102.&nbsp;&nbsp;Tel: 866.966.MSTR&nbsp;&nbsp;Tel: 703.848.8600
 		&nbsp;&nbsp;Fax: 703.848.8610
 	</p>
 </div>
+
+
+	<script language="JavaScript" type="text/javascript">
+	document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/9033681044653941493/bc.cbhs"></scr' + 'ipt>');
+	</script><script language="JavaScript" type="text/javascript" src="https://cbi.boldchat.com/aid/9033681044653941493/bc.cbhs"></script>
+	<script language="JavaScript" type="text/javascript">
+	bt_showChatHTML('<span id="boldChatOnline"></span>','<span id="boldChatOffline"></span>');
+	</script>
+	<script>
+	boldChatOn = true;
+	if (findStatus = document.getElementById("boldChatOnline")){
+		boldChatOn = true;
+	}
+	if (findStatus = document.getElementById("boldChatOffline")){
+		boldChatOn = false;
+	}
+	
+	if(boldChatOn)
+	{
+		document.getElementById("chatPlaceholder").innerHTML = '<img src="http://www.microstrategy.com/graphics/homepage/icon_chat.gif" height="18" width="23" alt="Click to chat" /> <a href=\"javascript:;\" id=\"chatNowLink\" class=\"chatNowLink\">Live Chat</a>';
+	}
+	else
+	{
+		document.getElementById("chatPlaceholder").innerHTML = '<img src="http://www.microstrategy.com/graphics/homepage/icon_chat.gif" height="18" width="23" alt="Click to chat" /> <span style=\"color:#999;\" id=\"chat_offline\" class=\"chat_offline\">Live Chat</span>';
+	}
+	</script>
+
+</div>
+
+
+<!--close wrapper-->
+
 <!-- START OF Google Analytics Tracking Code -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -280,7 +538,11 @@ pageTracker._trackPageview();
 </script>
 <!-- END OF Google Analytics Tracking Code -->	
 
-</div><!--close wrapper-->
- 
 
-<!--TEMPLATE3 END--></body></html>
+
+
+            	<!-- START RIGHT SIDE CONTENT HERE -->
+				
+            	<!-- END RIGHT SIDE CONTENT HERE -->
+				
+</body></html>
