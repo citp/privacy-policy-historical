@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218135359id_/http%3A//www.globalgiving.com/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623071829id_/http%3A//www.globalgiving.com/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalGiving
 
 GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly. 
 
-This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.com/privacypol.html](https://web.archive.org/privacypol.html). 
+This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.com/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
 
   * Collection and Use of Personal Information
   * Your globalgiving.com Account
@@ -30,7 +30,7 @@ When you create an account on our website, we collect basic information about yo
 
 ####  Making a Donation 
 
-When you make an online donation on globalgiving.com, we collect personal information such as your name, billing address, and email address, if you have not already provided these details. Credit card or bank account numbers are collected by a third-party payment vendor such as [VeriSign](https://web.archive.org/privacypol.html#1) or [PayPal](https://web.archive.org/privacypol.html#1) depending on the method of payment you choose. These partners' use of your information is based on their terms of service and policies, which you should review. GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information our third-party vendors (PayPal and VeriSign) collect to process online transactions. 
+When you make an online donation on globalgiving.com, we collect personal information such as your name, billing address, and email address, if you have not already provided these details. Credit card or bank account numbers are collected by a third-party payment vendor such as [VeriSign](https://web.archive.org/aboutus/privacypol.html#1) or [PayPal](https://web.archive.org/aboutus/privacypol.html#1) depending on the method of payment you choose. These partners' use of your information is based on their terms of service and policies, which you should review. GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information our third-party vendors (PayPal and VeriSign) collect to process online transactions. 
 
 ####  Gift Cards 
 
