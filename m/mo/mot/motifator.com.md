@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055312id_/http%3A//www.motifator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623140325id_/http%3A//motifator.com/index.php/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# motifator.com - privacypolicy
 
-Privacy Policy
-
-Overview 
+#### Overview 
 
 KEYFAX NewMedia is a California Corporation that publishes a number of websites on products, services, and techniques used in music technology. We respect and are committed to protecting your privacy on-line. Our Privacy Policy tells you what information is collected when you visit or use one of our websites; how that data is collected, and why. 
 
 Please take a moment to read this Privacy Policy carefully before you use any of our websites. 
 
-Information we collect and why 
+####  Information we collect and why 
 
 Forums on KEYFAX websites are all register-to-post. Registration asks for your name, address, and email address, with voluntary fields concerning applicable instruments or software that you own. The act of Registration not only deters posts of an offense nature, it allows us to deliver a superior level of customer service by way of keeping you posted with information that relates to the equipment you use. 
 
@@ -24,7 +22,7 @@ We also employ a standard web technology ("cookies") to streamline your viewing 
 
 For instance ‘enabling' your cookies lets you re-visit a forum from your home computer and for your login and password to be recalled automatically. 
 
-Your protection 
+####  Your protection 
 
 Information collected for the above reasons will only be viewed outside of KEYFAX NewMedia Inc., for the purpose of credit card verification and shipping. 
 
@@ -34,7 +32,7 @@ KEYFAX NewMedia Inc. will not sell nor pass on your information to any third par
 
 To review, change, or delete your personal information you may call KEYFAX NewMedia Inc. at 800-752-2780 M-F / 9-5 PCT in the USA. 
 
-Site usage, content, links 
+####  Site usage, content, links 
 
 KEYFAX NewMedia websites are for your personal use. You may not distribute, exchange, modify, sell, or transmit material copied from a KEYFAX website for any business, commercial, or public purpose, including but not limited to text, images, audio, and video data. 
 
@@ -46,7 +44,7 @@ Use of all KEYFAX NewMedia websites is entirely at your own risk.
 
 KEYFAX NewMedia is not responsible for the content or practices employed by other websites linked to (or from) a KEYFAX website. Our Privacy Policy ceases to be in effect when you use a link to visit to another website. 
 
-Under Age 18 
+####  Under Age 18 
 
 If you are under the age of 18 we ask that you do not Register, enter contests, post materials on forums, or make purchases on any KEYFAX website without specific parental permission. 
 
