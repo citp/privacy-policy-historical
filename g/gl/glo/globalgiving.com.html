@@ -1,10 +1,14 @@
-<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218135359id_/http%3A//www.globalgiving.com/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2009-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623071829id_/http%3A//www.globalgiving.com/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
 
 
+
+ 
+  
+ 
 
 
 
@@ -23,29 +27,23 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 
 <!-- ****** STYLESHEETS ***** -->
-<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css_old/style.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-<link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css">
+<link href="/css_old/patches/ie_patch.css" rel="stylesheet" type="text/css">
 <![endif]-->
 <!--[if lte IE 6]>
-<link href="/css/patches/ie6_patch.css" rel="stylesheet" type="text/css">
+<link href="/css_old/patches/ie6_patch.css" rel="stylesheet" type="text/css">
 <![endif]-->
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" language="javascript" src="/javascript/jquery/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" language="javascript" src="/javascript/navigation.js"></script>
-<script type="text/javascript" language="javascript" src="/javascript/globalgiving.js"></script>
-<script type="text/javascript" language="javascript" src="/javascript/ggajax.js"></script>
-<!-- needed for the exit survey -->
-<script language="javascript" type="text/javascript" src="/javascript/jquery/jquery.blockUI.js"></script>
-<script type="text/javascript" language="javascript" src="/javascript/exitSurvey.js"></script>
+<script type="text/javascript" language="javascript" src="/javascript/commonScripts.js"></script>
 <!-- undef -->
         
 
 <!-- ****** RSS ***** -->
-<!-- ****** META ***** --></head>
+<!-- ****** META ***** --><!-- undef -->
+</head>
 
-    
     
     
     
@@ -64,7 +62,7 @@
 	<!--START Exit survey drop-in    -->
 	<!--*****************************-->
 	<div id="exitSurvey" class="bodytext" style="display:none; cursor: default"> 
-	  <img src="http://www.globalgivingsurvey.com/images/horz_gglogo.gif" alt="GlobalGiving logo">
+	  <img src="/img/logos/horz_gglogo_white.gif" alt="GlobalGiving logo">
 	  <p>
 	    Please help improve GlobalGiving.com <br>
 		by answering <strong>just 3 questions</strong> <br>
@@ -105,11 +103,10 @@
         <a href="http://www.globalgiving.co.uk" class="ukText">Do you live in the UK?</a> <a href="http://www.globalgiving.co.uk"><img border="0" alt="GlobalGiving UK" src="/img/flags/gb.gif"></a>
     </div>
     
-    
     <!--login box-->
     <!--loading arrow-->
     <div id="loadinglogin" style="display: none;">
-       <img src="/img/loading_arrow.gif" alt="Loading...">
+       <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
     </div>
     <!--end loading arrow-->
     
@@ -174,7 +171,7 @@
 	   <a href="/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/home.png" alt="Home"></a>
 	</li>
 	<li id="find" class="">
-	   <a href="/dy/inc/browseprojects/gg.html?cmd=list&amp;region=alls" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/find.png" alt="Find a Project"></a>
+	   <a href="/dy/v2/content/browse.html" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/find.png" alt="Find a Project"></a>
 	</li>
 	<li id="gifts" class="">
 	   <a href="/gifts/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/gifts.png" alt="Gift Cards"></a>
@@ -185,68 +182,33 @@
 	<li id="about" class="">
     	<a href="/aboutus/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/about.png" alt="About"></a>
 	</li>
-	<li id="remaining_nav"></li>
+	<li id="remaining_nav">&nbsp;</li>
 	<li id="search_nav">
 		<!-- Search -->
 		<div id="searchDiv">
-			<!--google cse search-->
-			<form id="searchbox_009535056496834389601:dpprcf-i2um" action="/search/index.html">
-				<input type="hidden" name="cx" value="009535056496834389601:dpprcf-i2um">
-				<input type="hidden" name="cof" value="FORID:11">
-				<input type="text" id="search" name="q" maxlength="100"> <input type="submit" name="sa" value="Search">
-			</form>
-			<!--end google cse search-->
+			<!--new search-->
+			<form id="searchbox" name="search" onsubmit="return true;" action="/dy/v2/content/search.html" method="get">
+                <input type="text" name="q" id="search" maxlength="100">
+                <input type="submit" value="Search">
+            </form>
+			<!--end new search-->
 		</div>
 	</li>
-	<li id="right_nav"></li>
+	<li id="right_nav">&nbsp;</li>
 </ul>
 </div>
 
-<div id="sub_menu_div"><!--sub nav -->
-	<div id="home_sub" style="display:none;">
-	</div>
-	<div id="find_sub" style="display:none;">
-		<ul>
-		  <li><a href="/ac/country.html">Find By Country</a></li>
-		  <li><a href="/ac/topic.html">Find By Topic</a></li>
-		  <li><a href="/ac/newest.html">Newest Projects</a></li>
-		  <li><a href="/ac/closestToGoal.html">Closest to Goal</a></li>
-		  <li><a href="/dy/pswiz/gg.html?cmd=psw1">Donation Wizard</a></li>
-		  <li><a href="/ac/browse.html#organization">By Organization</a></li>
-		  <li><a href="/ac/browse.html#projectsponsors">By Sponsor</a></li>
-		 <li><a href="/ac/browse.html">All</a></li>
-		</ul>
-	</div>
-	<div id="gifts_sub" style="display:none;">
-	    <ul>
-		  <li><a href="/gifts/giftCards.html">Buy a Gift Card</a></li>
-		  <li><a href="/gifts/redeem.html">Redeem a Gift Card</a></li>
-		  <li><a href="/gifts/inhonor.html">Donate In Honor / Memory Of</a></li>
-		  <li><a href="/gifts/giftsForGood.html">Gifts for Good</a></li>
-		</ul>
-	</div>
-	<div id="givingTools_sub" style="display:none;">
-	    <ul>
-          <li><a href="/givingtools/registries.html">Gift Registries</a></li>
-          <!-- ## TODO_FUNDRAISERS -->
-          <li><a href="/givingtools/fundraisers.html">Fundraisers</a></li>
-          <li><a href="/badges.html">Badges &amp; Widgets</a></li>
-          <li><a href="/faq/recurring.html">Monthly Recurring Donations</a></li>
-          <li><a href="/domore.html">Get Involved</a></li>
-		</ul>
-	</div>
-	<div class="sub_menu" id="about_sub" style="display:none;">
-	    <ul>
-		  <li><a href="/howitworks.html">How GlobalGiving Works</a></li> 
-		  <li><a href="/seeresults.html">Impact to Date</a></li>
-		  <li><a href="/aboutus/media">In the News</a></li>
-		  <li><a href="/aboutus/bios.html">Our Team</a></li>
-		  <li><a href="/aboutus/jobs.html">Jobs</a></li>
-		  <li><a href="/contactus/project1.html">How to Post a Project</a></li> 
-		  <li><a href="/help.html">Help / FAQ</a></li>
-		  <li><a href="/contactus/">Contact Us</a></li>
-		</ul>
-	</div>
+<!--sub nav -->
+<div id="sub_menu_div">
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </div>
 
                 </div>
@@ -259,7 +221,9 @@
             			
 			<div id="mainHeader"><div><div> </div></div></div>
 			
-			                <div id="contentAndBreadcrumbs">	
+						
+			
+                <div id="contentAndBreadcrumbs">	
 		<!--breadcrumb-->
 		<div id="breadcrumbs">
 		<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
@@ -286,7 +250,7 @@
     </tr>
     <tr>
     <td class="pagebanner_space">
-    <img alt="privacy policy banner" src="/img/banner_collage2.jpg">
+    <img alt="privacy policy banner" src="/img/banner_collages/banner_collage2.jpg">
     </td>
     </tr>
   </tbody></table>
@@ -303,7 +267,7 @@ about promotions or special services. GlobalGiving recognizes that we must maint
   </p>
 
   <p>
-This policy describes what personal information we collect and how we use it.  You can always find the most current version of our privacy policy at <a href="/privacypol.html">www.globalgiving.com/privacypol.html</a>.
+This policy describes what personal information we collect and how we use it.  You can always find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.com/aboutus/privacypol.html</a>.
   </p>
 
   <p>
@@ -346,7 +310,7 @@ When you create an account on our website, we collect basic information about yo
   </h4>
 
   <p>
-When you make an online donation on globalgiving.com, we collect personal information such as your name, billing address, and email address, if you have not already provided these details.  Credit card or bank account numbers are collected by a third-party payment vendor such as <a name="/privacypol.html#1"></a><a href="/privacypol.html#1" onclick="window.open('http://www.verisign.com/Privacy/index.html','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">VeriSign</a> or <a href="/privacypol.html#1" onclick="window.open('http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">PayPal</a> depending on the method of payment you choose.  These partners' use of your information is based on their terms of service and policies, which you should review.  GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information our third-party vendors (PayPal and VeriSign) collect to process online transactions.
+When you make an online donation on globalgiving.com, we collect personal information such as your name, billing address, and email address, if you have not already provided these details.  Credit card or bank account numbers are collected by a third-party payment vendor such as <a name="/aboutus/privacypol.html#1"></a><a href="/aboutus/privacypol.html#1" onclick="window.open('http://www.verisign.com/Privacy/index.html','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">VeriSign</a> or <a href="/aboutus/privacypol.html#1" onclick="window.open('http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">PayPal</a> depending on the method of payment you choose.  These partners' use of your information is based on their terms of service and policies, which you should review.  GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information our third-party vendors (PayPal and VeriSign) collect to process online transactions.
   </p>
 
   <h4>
@@ -471,7 +435,7 @@ email us at <script type="text/javascript" language="javascript">mkaddr('help')<
         
         <div id="footer"> <div id="footer_links">
     <ul>            
-      <li><a href="/dy/inc/browseprojects/gg.html?cmd=list&amp;region=all">Find a Project</a> -</li>
+      <li><a href="/dy/v2/content/browse.html">Find a Project</a> -</li>
       <li><a href="/gifts">Gift Cards</a> -</li>
       <li><a href="/howitworks.html">How GlobalGiving Works</a> -</li>
       <li><a href="/domore.html">Get Involved</a> -</li>
@@ -508,7 +472,7 @@ email us at <script type="text/javascript" language="javascript">mkaddr('help')<
      </p>
      
      <div id="copyright">
-         Copyright © 2008 ManyFutures, Inc.
+         Copyright © 2009 GlobalGiving Foundation.
 
      </div>
  </div>        </div>
@@ -523,12 +487,16 @@ email us at <script type="text/javascript" language="javascript">mkaddr('help')<
 
 <noscript>
 <div id="noscript">
-<div>WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <a href="http://www.google.com/support/bin/answer.py?hl=en&answer=23852" target="_blank">Please enable Javascript</a> and refresh this page.</div>
+<div>WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <a href="http://www.google.com/support/bin/answer.py?hl=en&amp;answer=23852" target="_blank">Please enable Javascript</a> and refresh this page.</div>
 </div>  
 </noscript>
 
 
-<div id="tracking" class="hidden">    <!-- *** START TRACKING CODE ***-->
+<div id="tracking" class="hidden">    <!-- *** START TRACKING CODE ***-->    
+	<!-- NOT ACTIVE can be used to change to a different suite id and currency -->
+	<!-- #set var="omn_account"   value="var c_s_account='globalgivingcom2,globalgivingcom,globalgivingcom-global'" -->
+	<!-- #set var="omn_currency"   value="var c_currency='USD'" --> 
+	<!-- END NOT ACTIVE -->
     <!-- ******* NOTE: THIS FILE EXISTS IN htdig/header.html and htdig/nomatch also!!! ******* -->
 <!-- ******* ANY CHANGES HERE MUST ALSO BE MADE THERE AS WELL!!! ******* -->
 
@@ -539,9 +507,13 @@ email us at <script type="text/javascript" language="javascript">mkaddr('help')<
 <div style="position:absolute; top:-1px; left:-1px; width:1px; height:1px; overflow: hidden;">
 
 <!--SiteCatalyst code version: H.5.-->
-<!--Copyright 1997-2006 Omniture, Inc. More info available at www.omniture.com-->
-<script language="JavaScript" src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s55444704330353?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A40%3A26%204%200&amp;ns=manyfutures&amp;pageName=web%2C20081218135359id_%2Chttp%253A%2C%2Cwww.globalgiving.com%2Cprivacypol.html&amp;g=https%3A//web.archive.org/web/20081218135359id_/http%253A//www.globalgiving.com/privacypol.html&amp;cc=USD&amp;c2=other&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<script language="JavaScript" type="text/javascript">
+<!--Copyright 1997-2006 Omniture, Inc. More info available at www.omniture.com-->  
+<script type="text/javascript"> 
+<!-- undef -->
+<!-- undef -->     
+</script>
+<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s54426842081246?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A40%3A27%204%200&amp;ns=manyfutures&amp;pageName=web%2C20090623071829id_%2Chttp%253A%2C%2Cwww.globalgiving.com%2Caboutus%2Cprivacypol.html&amp;g=https%3A//web.archive.org/web/20090623071829id_/http%253A//www.globalgiving.com/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=other&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript">
 /* Any vars that we set should be added here so they can be cleared
    Before any subsequent micro-link calls (or macrolink from ajax)
    calls made on same page.
@@ -566,9 +538,13 @@ function clearOmnVars()
 	s.server='';
 	s.prop1='';
 	s.prop2='';
+	s.prop3='';
+	s.prop4="";
+	s.prop5="";
+	s.channel="";
 }
 </script>
-<script language="JavaScript" type="text/javascript">
+<script type="text/javascript">
 s.events="";
 s.products="";
 s.purchaseID="";
@@ -578,6 +554,9 @@ s.pageName="";
 s.server="";
 s.prop1="";
 s.prop2="other";
+s.prop3="";
+s.prop4="";
+s.prop5=""; 
 s.eVar3="";
 s.eVar4="";
 s.eVar5="";
@@ -586,7 +565,17 @@ s.eVar7="";
 s.eVar8="";
 s.eVar9="";
 s.eVar10="";
-s.eVar11="";
+s.eVar11=""; 
+s.channel="";  
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef -->
+<!-- undef --> 
 <!-- undef -->
 <!-- undef -->
 <!-- undef -->
@@ -598,21 +587,12 @@ s.eVar11="";
 <!-- undef -->
 <!-- undef -->
 <!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
+s.channel='about' 
 </script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageType="";
-s.channel="";
-s.prop3="";
-s.prop4="";
-s.prop5="";
 /* E-commerce Variables */
 s.campaign="";
 s.state="";
@@ -627,7 +607,7 @@ if (document.referrer&&document.referrer!="") s.eVar2=document.referrer;
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!--end SiteCatalyst code version: H.5.-->
@@ -636,8 +616,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 <!--end omniture analytics javascript-->
 <!--end omniture analytics javascript-->
-<!--end omniture analytics javascript-->
-    
+<!--end omniture analytics javascript-->	 
     
     <!--bronto clickstream code-->
         <img src="http://app.bronto.com/public/?q=stream_view&amp;fn=Key&amp;id=bcgncberohldoafnyoclrdwnbqtsbfe" width="0" height="0" border="0" alt="">
