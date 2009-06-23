@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413131838id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623141621id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: eSyndiCat Directory Software
+# Privacy Policy :: eSyndiCat Directory Software, Directory Script
 
 **eSyndiCat respects your privacy.**
 
@@ -26,12 +26,8 @@ Please send an email to **sgooffin@esyndicat.com** if you suspect a site is not 
 
 Alternatively you can report piracy using our [contact form](http://www.esyndicat.com/contact-us.html?piracy=true).
 
-[](http://www.esyndicat.com/downloads/eSyndiCat_v1.6.00_E45E24393C45.zip)
+[](http://www.esyndicat.com/downloads/)
 
-### Newsletter
+## Testimonials
 
-Subscribe to our newsletter to receive more information about eSyndiCat Directory Script.
-
-### Articles
-
-There are about 20 billion websites in the World Wide Web. With such a tough competition it becomes really hard to attract the visitors and manage the search engine results. People break their heads in order to promote their websites and stand out...
+www.submit-space.com is an awesome success thanks to your software. Clients are getting excellent link backs.
