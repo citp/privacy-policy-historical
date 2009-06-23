@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224114703id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624003953id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
 
 # Double Inks
 
@@ -25,6 +25,8 @@ We respect your privacy and appreciate your business. At no time do we ever prov
 **How Secure Is Information About Me?**
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you provide to us for purchasing of our products or services. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer by clicking the "log off" link located in the side menu.
+
+Furthermore for security reasons and your peace of mind, we do NOT save credit card numbers on our system. So upon returning for a purchase with us you need to provide your credit cards numbers again or use a different card at your convenience.
 
 **Which Information Can I Access?**
 
