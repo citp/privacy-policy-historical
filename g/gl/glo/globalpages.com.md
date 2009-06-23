@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globalpages.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510123711id_/http%3A//globalpages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpages.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623033658id_/http%3A//www.globalpages.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Globalpages.com
+# Privacy Policy, GlobalPages.com
+
+Privacy Policy 
 
 It is very important to us at Globalpages.com to ensure that this, and every subsequent visit you make to our website, is with complete peace of mind. You have every right to trust and to expect confidentiality, and we respect this right. 
 
