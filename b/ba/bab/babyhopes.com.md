@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222150134id_/http%3A//www.babyhopes.com/pages.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623175541id_/http%3A//www.babyhopes.com/pages.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Privacy and Security Policy - BabyHopes.com
 
@@ -6,13 +6,16 @@ Privacy and Security Statement
 
 Effective August 1, 2008 
 
-Our Commitment To Privacy:   
+Our Commitment To Privacy: 
+
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 * * *
 
-The Information We Collect:   
-This notice applies to all information collected or submitted on the BabyHopes.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+The Information We Collect: 
+
+This notice applies to all information collected or submitted on the BabyHopes.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+
 Name   
 Address   
 Email address   
@@ -27,9 +30,18 @@ Phone Number
 
 Our shopping cart uses cookies to keep track of your order. If you return in 30 days, your name and address will be automatically entered into the forms. No other information will be stored. 
 
+Our article area serves advertisements from Google Adsense.
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google's use of the DART cookie enables it to serve ads to the users users of this site based on their visit to this sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
 * * *
 
-The Way We Use Information:   
+The Way We Use Information:
+
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
@@ -42,7 +54,8 @@ Finally, we never use or share the personally identifiable information provided 
 
 * * *
 
-Our Commitment To Data Security:   
+Our Commitment To Data Security: 
+
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 The online transactions at BabyHopes.com are handled with industry-standard SSL encryption. It's easy to tell when you are protected by encryption -- the lock or key at the bottom of your browser changes color or is no longer broken. This may vary depending on your browser. If you see https:// instead of http:// at the top of the browser, this also means that what you are doing is being encrypted.
@@ -56,7 +69,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 * * *
 
-How You Can Access Or Correct Your Information:   
+How You Can Access Or Correct Your Information:
+
 You can access all your personally identifiable information that we collect online and maintain by [contacting us](http://www.earthsmagic.com/support-center/) via our contact form. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
