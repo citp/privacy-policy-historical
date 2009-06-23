@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224035847id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623051938id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Statewide - Virginia Is For Lovers
 
@@ -7,6 +7,10 @@ If you feel that this company is not abiding by its posted privacy policy, conta
 **Information Collection and Use**
 
 Virginia Tourism Corporation (VTC) collects information from our users at several different points on our website. If you choose to offer us your e-mail address, name, address, phone or comments, we store this information in a tourism database and it is available to tourism facilities. Information about contests, surveys, special offers and savings and newsletters may be sent to you from VTC and Virginia tourism partners. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our opt-out below. 
+
+**[My Virginia Memory](http://www.myvirginiamemory.com/)**
+
+Addresses collected to send a physical postcard are not shared or sold, but used for the sole purpose of postcard fulfillment. Email addresses are stored to communicate the retrieval of postcards with senders and recipients. Opting-in to receive a Virginia Travel Guide or receive Virginia eNewsletters allows Virginia Tourism Corporation to store information in a database to manage fulfillment of said products. 
 
 **Order**
 
