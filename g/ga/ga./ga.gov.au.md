@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222194217id_/http%3A//www.ga.gov.au/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623070752id_/http%3A//www.ga.gov.au/privacy.jsp) for the most accurate reproduction.*
 
 # Security and Privacy - Geoscience Australia
 
@@ -44,7 +44,7 @@ If you have concerns about sending information over the web, please [contact us]
 
 ### User Feedback
 
-We seek feedback from our users in order to improve the service offered by our site. [Your feedback is welcome](https://web.archive.org/about/contact_us.jsp).
+We seek feedback from our users in order to improve the service offered by our site. [Your feedback is welcome](mailto:feedback@ga.gov.au).
 
 ### Accountability
 
