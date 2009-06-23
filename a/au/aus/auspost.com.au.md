@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223001840id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623174233id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
 
 # Australia Post - Privacy Policy
 
@@ -16,8 +16,7 @@ Australia Post is committed to working with its customers to obtain a fair resol
   
 | 
 
-To contact us with a compliment or complaint; [  
-please select your contact type from the list provided.](http://www.auspost.com.au/CUP/0,1460,CHNONE%257EMO19,00.html)
+To contact us with a compliment or complaint; [please select your contact type from the list provided.](http://www.auspost.com.au/CUP/0,1460,CHNONE%257EMO19,00.html)
 
 To contact us with a privacy question [email](https://www.auspost.com.au/APC/CDA/Forms/APC_CDA_Specific_Enquiry_Form/0,1472,CH4543%257EMO19,00.html) or write to us at:
 
@@ -206,10 +205,9 @@ You can configure your internet browser to accept all cookies, reject all cookie
 
 Most browsers automatically accept cookies. To learn more about cookies, including how to refuse cookies on your computer, click these links:
 
-  * For Microsoft Internet Explorer: [http://www.microsoft.com/info/cookies.htm ](http://www.microsoft.com/info/cookies.htm%20)
-  * For Mozilla FireFox: <http://www.mozilla.org/support/firefox/options#privacy>
-  * For Netscape Navigator: [http://wp.netscape.com/legal_notices/cookies.html ](http://wp.netscape.com/legal_notices/cookies.html%20)
-  * General information on cookies: [http://www.allaboutcookies.org/cookies/ ](http://www.allaboutcookies.org/cookies/%20)
+  * [Microsoft Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Mozilla FireFox](http://www.mozilla.org/support/firefox/options#cookies)
+  * [General information on cookies](http://www.allaboutcookies.org/cookies/)
 
 
 
@@ -344,7 +342,7 @@ You can also obtain further general information about your privacy rights and pr
   
 By using this website, you agree to the terms of this acceptance of this Privacy Statement, and to the extent that they apply, the Australia Post Terms and Conditions. If you do not agree with any of these terms, please do not use this website or submit any personal information. 
 
-This statement does not create or confer upon any individual any rights, or impose upon Australia Post any rights or obligations outside of, or in addition to, those rights or obligations imposed by the Privacy Act 1988 (Cth) [â€˜the Act']. Should there be, in a specific case, any inconsistency between this statement and the Act, this statement shall be interpreted, in respect of that case, to give effect to, and comply with the Act.
+This statement does not create or confer upon any individual any rights, or impose upon Australia Post any rights or obligations outside of, or in addition to, those rights or obligations imposed by the Privacy Act 1988 (Cth) ['the Act']. Should there be, in a specific case, any inconsistency between this statement and the Act, this statement shall be interpreted, in respect of that case, to give effect to, and comply with the Act.
 
 This policy includes examples but is not intended to be restricted in its application to such examples, therefore where the word 'including' is used, it shall mean 'including without limitation'.  
   
