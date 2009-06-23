@@ -1,27 +1,57 @@
-> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2008-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080327014835id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623065848id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Stan James :: Help: Privacy Policy
 
 ## Help : Privacy policy
 
-It is the policy of Stan James to provide our clients with a fair and efficient service, which we hope will enhance your enjoyment of sports and internet betting. In accordance with this policy we have set out the following privacy statement that explains the data collection and processing practices in operation throughout this, and any other, web sites belonging to Stan James.
+Please read the following carefully to understand our views and practices regarding your personal data ("Information") and how we will treat it. For the purpose of the Data Protection Act 2004 ("Act"), the data controller is Stan James plc of 1 The Square, Marina Bay, Gibraltar.
 
-In registering and using the Stan James web sites you acknowledge that you have read all the terms and conditions outlined in this policy regarding your personal information and the methods and purposes of collecting such data.
+This Privacy Policy ("Policy") (together with our Terms and Conditions and any other documents referred to on it) sets out the basis on which any Information we collect from you, or that you provide to us, will be processed by us to enable us to manage your relationship with Stan James. By submitting your Information to us and/ or using Stan James' services you confirm your consent to the use of your Information as set out in this Policy.
 
-### Information type and use
+### Information Collection
 
-During the registration process you will be asked to provide us with personal information such as: your name, valid address with postcode, date of birth, email address, contact number etc. Such information will be used for the purposes of setting up and managing your account, personal profiling, security and marketing. Our marketing will including the periodic distribution of written communications outlining new changes, features, offers and information about Stan James gambling products and services. If you do not wish to receive any written correspondence, you may cancel this option by changing [your preferences](https://web.archive.org/account/preferences.asp) in the My Account menu or by emailing us at [info@stanjames.com](mailto:info@stanjames.com?body=%0D%0A%0D%0A%0D%0A%0D%0A\(please%20do%20not%20remove%20the%20following%20lines\)%0D%0Ausername%3D%0D%0Aaccount%3D)
+We may collect and process the following Information about you:
 
-### Servicing your account
+(i) Information that you provide when registering for a Stan James' account, posting material or requesting further services. We may also ask you for Information when you enter a competition or promotion, and if you report a problem with our Services.
 
-To help us provide you with the best possible service, all of your bets and transactions are recorded on our computer systems and monitored on a routine basis. We also record all incoming telephone calls to assist in the training of our agents, and to enhance the speed and quality of service we offer in resolving queries.
+(ii) If you contact us, we may keep a record of that correspondence. Telephone calls to and from our Call Centre are recorded for training and security purposes along with the resolution of any queries arising from the service you receive.
 
-All Stan James web sites use 'cookies'. These are small files that our web servers use to keep the information about your current session (such as betting slip content, username etc.). Cookies are designed to be read only by the server that has set them for security and privacy reasons. As soon as your session has ended, that cookie is deleted. More information can be found about cookies at [this site](http://www.cookiecentral.com/content.phtml?area=2&id=2). 
+(iii) Details of transactions you carry out in respect of our services and of the fulfilment of your orders.
 
-### Security and Protection of your information
+(iv) Details of your visits to our website (including, but not limited to, traffic data, location data, cookies, weblogs, IP Addresses and other communication data) and any other resources that you access.
 
-It is our policy to take all reasonable steps to ensure that any personal information we hold on your file is stored in a secure and protected environment and remains accurate and correct. To this end, all hardcopy documentation is shredded, and information held on various media is erased when no longer required. Your personal information can be updated at anytime online by accessing the [Personal Details](https://web.archive.org/account/personaldetails.asp) page or by emailing us at [info@stanjames.com](mailto:info@stanjames.com). You are entitled by law to have a copy of this data sent to you at any time.
+### How Information is Used
 
-Due to the global span of the internet, its use to collect and process information involves the transmission of data on an international basis. Some of the data processors engaged to process personal information may therefore be based outside of the European Economic Area. By browsing and communicating electronically with us, you acknowledge and agree to our processing of your personal data in this way.
+We may use your Information together with other information for the purposes of:
 
-Stan James will not disclose personal information, of any kind, unless acting to conform to legal requirements or to comply with legal process. We are required by law to retain and make available financial information for a period of seven years. From time to time we screen the data supplied to us by our customers in an attempt to protect both our customers and ourselves against identity fraud. This screening is carried out in strict accordance with Data Protection Act guidelines.
+(i) Setting up and managing your accounts. 
+
+(ii) Improving and individualising the services that we offer.
+
+(iii) Processing your transactions and wagers.
+
+(iv) Complying with our duties under applicable law and regulations.
+
+(v) Building up personal profiles.
+
+(vi) Providing you with marketing information and information concerning promotional offers by post, email, telephone and other means. Please adjust your account settings in "My Account" if you do not wish to receive this service.
+
+(vii) Providing you with access to our mobile telephone application when you register an account. 
+
+(viii) To help us make credit decisions about you, to prevent fraud, to check your age and identity and to prevent money laundering (we may use third parties for these purposes and these third parties may keep a record of the information).
+
+(ix) To notify you about changes to our service.
+
+### Information Storage
+
+All Information is stored in the database of the company.
+
+We will take all reasonable steps to ensure that your information is kept secure and protected. We will only disclose personal information to other companies within associated or subsidiary companies and to business partners, successors in title to our business and suppliers that are engaged to process such information on our behalf.
+
+### Internet-based transfers
+
+Given that the Internet is a global environment, using the Internet to collect and process Information necessarily involves the transmission of Information on an international basis. Some of the data processors engaged to process Information may be based outside of the European Economic Area. Therefore, by browsing our website and communicating electronically with us, you acknowledge and agree to our processing of your Information in this way.
+
+### Disclosure of Information
+
+We are entitled to share the information we hold on you which includes Information and betting history with the regulator and licensing authority sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under Gibraltar law.
