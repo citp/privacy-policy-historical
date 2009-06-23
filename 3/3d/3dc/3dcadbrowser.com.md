@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcadbrowser.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015170016id_/http%3A//3dcadbrowser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcadbrowser.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623055556id_/http%3A//3dcadbrowser.com/privacy.aspx) for the most accurate reproduction.*
 
 # 3D CAD Browser - Privacy Policy
 
