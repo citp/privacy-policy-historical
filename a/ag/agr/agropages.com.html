@@ -1,533 +1,251 @@
-<!--The following is the downloaded HTML source of the agropages.com privacy policy that was archived on 2008-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080622234204id_/http%3A//www.agropages.com/Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agropages.com privacy policy that was archived on 2009-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623064735id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<meta name="Keywords" content="www.agropages.com">
-<title>Policy MyAgroPages</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Agrochemicals, Formulations, Intermediates, Insecticide, Herbicide, Pesticides
+</title><meta name="keywords" content="Fungicide, Insecticide, Fertilizer, Pest control, Fumigant, Seed treatment, Plant growth regulator, Agrochemicals, Herbicide, Crop Protection, Nitrogen Fertilizer, Organic Insecticides, Plant Growth Regulators, Foliar Fertilizers, Spraying, Mancozeb, Biopesticide, Imidacloprid, Rodenticide, Pesticides, Intermediates, Formulations, Glyphosate"><meta name="description" content="Agrochemical at agropages.com. Fungicide, Insecticide, Fertilizer, Fumigant, Seed treatment, Plant Growth Regulators, Herbicide, Crop Protection, Nitrogen Fertilizer."><meta name="robots" content="all"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta name="author" content="Zhang Xin | cmalaya@163.com"><link type="text/css" rel="stylesheet" href="/css/main.css"><script language="javascript" type="text/javascript" src="/js/main.js"></script>  
+    <style type="text/css">
+	#dvAboutBody{margin-top:5px;}
+    #dvAboutBody table tr td{text-align:left;}
+	.t4{color:#069; font-size:12px;}
+    </style>
 </head>
 
-<body style="margin:0; padding:0">
-<link rel="stylesheet" type="text/css" href="/CSS/main.css">
-<link rel="stylesheet" type="text/css" href="styles/autocomplete.css"> 
-<link rel="stylesheet" type="text/css" href="css/css.css">
-<script type="text/javascript" src="javascripts/prototype.js"></script>
-<script type="text/javascript" src="javascripts/autocomplete.js"></script>
-<script language="JavaScript" type="text/javascript">
-function getObject(objectId) {
-if(document.getElementById && document.getElementById(objectId)) {
-return document.getElementById(objectId);
-} else if (document.all && document.all(objectId)) {
-return document.all(objectId);
-} else if (document.layers && document.layers[objectId]) {
-return document.layers[objectId];
-} else {
-return false;
-}
-}
-function focusTab(n){
-var bg1="green";
-var bg2="#656565";
-for(var i=1;i<=6;i++){
-if (i==n){
-getObject('focusTab'+i+i).style.color=bg1;
-getObject('focusTable'+i).style.display='';
-}
-else {
-getObject('focusTab'+i+i).style.color=bg2;
-getObject('focusTable'+i).style.display='none';
-}
-}
-}
-</script>
+
+<body>
+<form name="form1" method="post" action="aboutus/policy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY2OTcyNDk2NGRkKRmvWXp7quspuuwQQ5Oz58fu4qw=">
+
+
+<!-- %@ OutputCache Duration="72000" VaryByParam="none" Shared="true" % //-->
+
+
+<div id="dvTop">
+ <a href="/login.htm" title="sign in agropages">Sign</a> | 
+ <a href="/regist.htm" title="Join agropages">Join NOW!</a>
+
+</div>
+
+
 <script language="javascript">
-<!--
-function checkcominfo(){
-
-if(form1.Searchtxt.value=="")
-	{
-		alert("Please input a search term");
-		document.form1.Searchtxt.focus();
-		return false;
+function changeSch(n,lnk){
+    var _Childs=doc("tdLink").childNodes;
+	for(var i=0;i<_Childs.length;i++){ if(_Childs[i].className=="Main")_Childs[i].className="NoMain"; };
+	lnk.className = 'Main';
+	
+	SetValue("hidSchType",n);
+	SetValue("schKey","");
+	
+	switch(n){
+		case 5 : HiddenE("schArea"); ShowE("schTime"); HiddenE("schDate");  break;
+		case 6 : ShowE("schArea"); HiddenE("schTime"); ShowE("schDate");  break;
+		default : ShowE("schArea"); HiddenE("schTime"); HiddenE("schDate");  break;
+	};
+	
+	var txt= "Search Products";
+	switch(n){
+		case 1 : SetValue("schBtn","Search Products");  break;
+		case 2 : SetValue("schBtn","Search Company");  break;
+		case 3 : SetValue("schBtn","Search Buying");  break;
+		case 4 : SetValue("schBtn","Search Selling");  break;
+		case 5 : SetValue("schBtn","Search News");  break;
+		case 6 : SetValue("schBtn","Search Events");  break;
+		default : SetValue("schBtn","Search Products");  break;
 	}
-		
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function checkcominfo1(){
+	
+};
 
-if(form1.Searchtxt1.value=="")
-	{
-		alert("Please input a search term");
-		document.form1.Searchtxt1.focus();
-		return false;
-	}
-		
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function checkcominfo2(){
-
-if(form1.Searchtxt2.value=="")
-	{
-		alert("Please input a search term");
-		document.form1.Searchtxt2.focus();
-		return false;
-	}
-		
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function checkcominfo3(){
-
-if(form1.Searchtxt3.value=="")
-	{
-		alert("Please Please input a search term");
-		document.form1.Searchtxt3.focus();
-		return false;
-	}
-		
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function checkcominfo4(){
-
-if(form1.country5.value==1 && form1.level.value<=2)
-	{
-		alert("Sorry,Only to gold members");
-		document.form1.searchtxt4.focus();
-		return false;
-	}
-		
-}
-//-->
-</script>
-<script language="javascript">
-<!--
-function checkcominfo5(){
-
-if(form1.country4.value=="" && form1.datetime.value=="" && form1.searchtxt5.value=="")
-	{
-		alert("Please select atleast one condition");
-		document.form1.searchtxt5.focus();
-		return false;
-	}
-		
-}
-//-->
-</script>
-
-<style type="text/css">
-<!--
-.style2 {color: green}
--->
-</style>
-<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5" height="64"></td>
-    <td width="267" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="18">&nbsp;</td>
-      </tr>
-      <tr>
-        <td><img src="Images/Index/G01.gif" width="225" height="21"></td>
-      </tr>
-      <tr>
-        <td height="15" align="right" valign="bottom">World Agrochemical Yellow Pages Online</td>
-      </tr>
-    </tbody></table></td>
-    <td width="173" align="center">&nbsp;</td>
-    <td width="543" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="20"></td>
-      </tr>
-      <tr>
-        <td height="27"><table width="543" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-		  <td width="104" height="27">&nbsp;<a href="index.asp"><img src="Images/Img/NaviImg02_1.gif" width="84" height="27" border="0"></a></td>
-            <td width="1"><img src="Images/Index/G03.gif"></td>
-            <td width="104" height="27">&nbsp;<a href="/directory/directory.asp"><img src="Images/Img/NaviImg01_2.gif" border="0"></a></td>
-            <td width="1"><img src="Images/Index/G03.gif"></td>
-            <td width="114" align="center"><a href="buysell/Buysell.asp"><img src="Images/Img/NaviImg03_2.gif" width="84" height="27" border="0"></a></td>
-            <td width="1"><img src="Images/Index/G03.gif"></td>
-            <td width="114" align="center"><a href="Resources/Resource.asp"><img src="Images/Img/NaviImg04_2.gif" width="84" height="27" border="0"></a></td>
-            <td width="1"><img src="Images/Index/G03.gif"></td>
-            <td width="208">&nbsp;&nbsp;&nbsp;<a href="myagropage/Login.asp"><img src="Images/Img/NaviImg05_2.gif" width="98" height="27" border="0"></a>
-              </td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td height="15" valign="top"><table width="543" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="529" align="right"><a href="myagropage/login.asp"><strong>Check Message</strong></a></td>
-            <td width="14">&nbsp;</td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="5"><img src="Images/Index/G04.gif" width="5" height="56"></td>
-    <td width="978" valign="top" background="Images/Index/G06.gif"><table width="978" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="28">&nbsp;</td>
-        <td width="148" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="30">&nbsp;</td>
-          </tr>
-          <tr>
-            <td><table width="148" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="18"><img src="Images/Index/G07.gif" width="13" height="13"></td>
-                <td width="56"><strong><a href="myagropage/Login.asp">Login</a></strong></td>
-                <td width="21"><img src="Images/Index/G07.gif" width="13" height="13"></td>
-                <td width="53"><strong><a href="myagropage/register.asp">Register</a></strong></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-        </tbody></table></td>
-        <td width="54">&nbsp;</td>
-        <td width="538" valign="top">
-		<form name="form1" method="post" action="search/search.asp">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="27"><table width="98%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="4%"><input type="radio" name="button" value="1" id="focusTab1" onclick="focusTab(1);" checked=""></td>
-                <td width="14%" id="focusTab11">Products</td>
-                <td width="4%"><input type="radio" name="button" value="2" id="focusTab2" onclick="focusTab(2);"></td>
-                <td width="15%" id="focusTab22">Companies</td>
-                <td width="4%"><input type="radio" name="button" value="3" id="focusTab3" onclick="focusTab(3);"></td>
-                <td width="11%" id="focusTab33">Buying</td>
-                <td width="4%"><input type="radio" name="button" value="4" id="focusTab4" onclick="focusTab(4);"></td>
-                <td width="17%" id="focusTab44">Selling</td>
-                <td width="4%"><input type="radio" name="button" value="5" id="focusTab5" onclick="focusTab(5);"></td>
-                <td width="10%" id="focusTab55">News</td>
-                <td width="4%"><input type="radio" name="button" value="6" id="focusTab6" onclick="focusTab(6);"></td>
-                <td width="9%" id="focusTab66">Events</td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-          <tr>
-            <td><table id="focusTable1" width="538" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td width="359"><input type="text" name="Searchtxt" size="56" id="Searchtxt">
-				<div style="position: absolute; width: 350px; height: 100px; z-index: 1; left: 292px; top: 93px;border:1px solid #FC7215;display:none;" id="showmenu"></div>
-	            
-				</td>
-                <td width="106" align="right"><select name="country">
-				  <option value="">ALL</option>
-                  <option value="86">China</option>
-				  <option value="91">India</option>
-				  <option value="">------------</option>
-				  <option value="0701">Asia</option>
-				  <option value="0702">Europe</option>
-			      <option value="0703">America</option>
-				  <option value="0704">Other</option>
-             </select>                </td>
-                <td width="73" align="right"><input onclick="return checkcominfo();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			
-			<table id="focusTable2" width="538" border="0" cellpadding="0" cellspacing="0" style="display:none">
-              <tbody><tr>
-                <td width="359"><input type="text" name="Searchtxt1" size="56" id="Searchtxt1">
-				<div style="position: absolute; width: 350px; height: 100px; z-index: 1; left: 292px; top: 93px;border:1px solid #FC7215;display:none;" id="showmenu"></div>
-	            </td>
-                <td width="106" align="right"><select name="country1">
-				<option value="">All</option>
-                  <option value="86">China</option>
-				  <option value="91">India</option>
-				  <option value="">------------</option>
-				  <option value="0701">Asia</option>
-				  <option value="0702">Europe</option>
-			      <option value="0703">America</option>
-				  <option value="0704">Other</option>
-                </select>                </td>
-                <td width="73" align="right"><input onclick="return checkcominfo1();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			<table id="focusTable3" width="538" border="0" cellpadding="0" cellspacing="0" style="display:none">
-              <tbody><tr>
-                <td width="359"><input type="text" name="Searchtxt2" size="56" id="Searchtxt2">
-				<div style="position: absolute; width: 350px; height: 100px; z-index: 1; left: 292px; top: 93px;border:1px solid #FC7215;display:none;" id="showmenu"></div>
-	            </td>
-                <td width="106" align="right"><select name="country2">
-				  <option value="">All</option>
-                  <option value="86">China</option>
-				  <option value="91">India</option>
-				  <option value="">------------</option>
-				  <option value="0701">Asia</option>
-				  <option value="0702">Europe</option>
-			      <option value="0703">America</option>
-				  <option value="0704">Other</option>
-                </select>                </td>
-                <td width="73" align="right"><input onclick="return checkcominfo2();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			<table id="focusTable4" width="538" border="0" cellpadding="0" cellspacing="0" style="display:none">
-              <tbody><tr>
-                <td width="359"><input type="text" name="Searchtxt3" size="56" id="Searchtxt3">
-				<div style="position: absolute; width: 350px; height: 100px; z-index: 1; left: 292px; top: 93px;border:1px solid #FC7215;display:none;" id="showmenu"></div>
-	            </td>
-                <td width="106" align="right"><select name="country3">
-				  <option value="">All</option>
-                  <option value="86">China</option>
-				  <option value="91">India</option>
-				  <option value="">------------</option>
-				  <option value="0701">Asia</option>
-				  <option value="0702">Europe</option>
-			      <option value="0703">America</option>
-				  <option value="0704">Other</option>
-                </select>                </td>
-                <td width="73" align="right"><input onclick="return checkcominfo3();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			<table id="focusTable5" width="538" border="0" cellpadding="0" cellspacing="0" style="display:none">
-              <tbody><tr>
-			  
-                <td width="359"><input type="text" name="searchtxt4" size="56" id="searchtxt4"> <input type="hidden" name="level" value=""></td>
-          <td width="106" align="right"><select name="country5">
-					
-					
-				  <option value="2008-6-11">June&gt;&gt;2008</option>
-				  <option value="2008-6-11">May&gt;&gt;2008</option>
-				  <option value="2008-6-11">April&gt;&gt;2008</option>
-                  <option value="">ALL</option>
-                </select></td>
-                <td width="73" align="right"><input onclick="return checkcominfo4();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			<table id="focusTable6" width="538" border="0" cellpadding="0" cellspacing="0" style="display:none">
-              <tbody><tr>
-			  <td width="106" align="right"><input type="text" name="searchtxt5" size="30" id="searchtxt5"></td>
-                <td width="127" align="right"><select name="country4">
-				  <option value="">All Locations</option>
-                  <option value="86">China</option>
-				  <option value="91">India</option>
-				  <option value="">------------</option>
-				  <option value="0701">Asia</option>
-				  <option value="0702">Europe</option>
-			      <option value="0703">America</option>
-				  <option value="0704">Other</option>
-                </select></td>
-				<td width="20" align="right">&nbsp;</td>
-                <td width="106" align="right"><select name="datetime" id="datetime">
-				<option value="">All Months</option>
-			
-  
-
-   <option value="2008-06">June &gt;&gt;2008</option>
-  
-
-   <option value="2008-07">July</option>
-  
-
-   <option value="2008-08">August</option>
-  
-
-   <option value="2008-09">September</option>
-  
-
-   <option value="2008-010">October</option>
-  
-   <option value="2008-11">November</option>
+function gotoSearch(){
+   var sKey = val("schKey").replace(/[\'\@\?\;\=\!\<\>]/g,"");
+   var sArea = val("schArea"); 
+   var sTime = val("schTime"); sTime = sTime.substring(0,sTime.lastIndexOf(" "));
+   var sDate = val("schDate"); sDate = sDate.substring(0,sDate.lastIndexOf(" "));
    
-   <option value="2008-12">December</option>
+   var sUrl = config.BasePath;
+   var iType = val("hidSchType");
    
-
-    <option value="2009-01">January &gt;&gt;2009</option>
-  
-
-				  <option value="2009-02">February</option>
-				    
-
-				  <option value="2009-03">March</option>
-				    
-
-				  <option value="2009-04">April</option>
-                  <option value="2009-05">May</option>
-				    
+   switch(iType){
+       case "1" : sUrl += "/product/--" + escape(sKey) + "@" + sArea + "-1.htm"; break;
+	   case "2" : sUrl += "/directory/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
+	   case "3" : sUrl += "/buy/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
+	   case "4" : sUrl += "/sell/--" + escape(sKey) + "," +sArea + "-1.htm"; break;
+	   case "5" : sUrl += "/news/------------"+ sTime +"----"+ sKey +"----1.htm";  break;
+	   case "6" : sUrl += "/events/search/" + sKey + "----" + sDate + "----" +  sArea + "----1.htm";  break;
+   }
+   //alert(sUrl);
+   window.location.href = sUrl; 
+}
+</script>
+<div id="dvHeader" class="W">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="display:block;">
+  <tbody><tr>
+    <td width="250" align="center" valign="middle">
+    <a href="/index.htm" class="logo"><img src="/Images/logo.gif" width="235" height="36" border="0"></a></td>
+    <td align="right" valign="top"><table width="520" border="0" cellpadding="1" cellspacing="1">
+      <tbody><tr>
+        <td align="left" id="tdLink" style="padding-left:25px;">
+        <a href="javascript:void(0);" class="Main" onfocus="this.blur()" onclick="changeSch(1,this)">Products</a> | 
+        <a href="javascript:void(0);" onfocus="this.blur()" onclick="changeSch(2,this)">Companies</a> | 
+        <a href="javascript:void(0);" onfocus="this.blur()" onclick="changeSch(3,this)">Buying</a> | 
+        <a href="javascript:void(0);" onfocus="this.blur()" onclick="changeSch(4,this)">Selling</a> | 
+        <a href="javascript:void(0);" onfocus="this.blur()" onclick="changeSch(5,this)">News</a> | 
+        <a href="javascript:void(0);" onfocus="this.blur()" onclick="changeSch(6,this)">Events</a></td>
+        </tr>
+      <tr><td align="left">
+      <!-- Search Products -->
+      <div id="schTab" style="display:;">
+        <img src="/Images/bt/zoom_pic.gif">
+        <input type="hidden" name="hidSchType" id="hidSchType" value="1">
+        <input id="schKey" name="schKey" type="text" style="display:;" onkeydown="toEnter('schBtn')">
+        
+        <select id="schArea" name="schArea" style="display:;">
+          	<option value="" selected="selected">All</option>
+            <optgroup label="Country">	
+          	<option value="China">China</option>
+          	<option value="India">India</option>
+          	</optgroup>
+          	<optgroup label="Continent">	
+          	<option value="Africa">Africa</option>
+          	<option value="Asia">Asia</option>
+          	<option value="Europe">Europe</option>
+          	<option value="America">America</option>
+          	<option value="Oceania">Oceania</option>
+          	</optgroup>
+         </select> 
+         
+         <select id="schTime" name="schTime" style="display:none;">
+			<option value="2009-6-23 13:50:13">June&gt;&gt;2009</option>
+			<option value="2009-5-23 13:50:13">May&gt;&gt;2009</option>
+			<option value="2009-4-23 13:50:13">April&gt;&gt;2009</option>
+            <option value="all " selected="selected">All</option>
+         </select>
+         
+         <select id="schDate" name="schDate" style="display:none;">
+            <option value="all " selected="selected">All Months</option>
+			
+            	<option value="2009-6-23 13:50:13">
+				  June  
+				  &gt;&gt;2009
+              	</option>
+           	
+            	<option value="2009-7-23 13:50:13">
+				  July  
 				  
-                </select>                 </td><td width="106" align="right">&nbsp;</td>
-                <td width="73" align="right"><input onclick="return checkcominfo5();" type="image" border="0" name="submit" src="Images/Index/G12.gif" width="59" height="22"></td>
-              </tr>
-            </tbody></table>
-			</td>
-          </tr>
-
-        </tbody></table></form></td>
-        <td width="26">&nbsp;</td>
-        <td width="172" valign="top">&nbsp;</td>
-        <td width="12">&nbsp;</td>
-      </tr>
+              	</option>
+           	
+            	<option value="2009-8-23 13:50:13">
+				  August  
+				  
+              	</option>
+           	
+            	<option value="2009-9-23 13:50:13">
+				  September  
+				  
+              	</option>
+           	
+            	<option value="2009-10-23 13:50:13">
+				  October  
+				  
+              	</option>
+           	
+            	<option value="2009-11-23 13:50:13">
+				  November  
+				  
+              	</option>
+           	
+            	<option value="2009-12-23 13:50:13">
+				  December  
+				  
+              	</option>
+           	
+            	<option value="2010-1-23 13:50:13">
+				  January  
+				  &gt;&gt;2010
+              	</option>
+           	
+            	<option value="2010-2-23 13:50:13">
+				  February  
+				  
+              	</option>
+           	
+            	<option value="2010-3-23 13:50:13">
+				  March  
+				  
+              	</option>
+           	
+            	<option value="2010-4-23 13:50:13">
+				  April  
+				  
+              	</option>
+           	
+            	<option value="2010-5-23 13:50:13">
+				  May  
+				  
+              	</option>
+           	
+         </select>
+         
+         <input id="schBtn" name="schBtn" class="schBt" type="button" value="Search Products" onclick="gotoSearch()">
+         
+       </div>
+     </td></tr>
     </tbody></table></td>
-    <td width="5"><img src="Images/Index/G05.gif" width="5" height="56"></td>
-  </tr>
+    </tr>
 </tbody></table>
-<table id="headNav" width="990" border="0" cellpadding="0" cellspacing="0" background="/Images/DataBase/nav_bg.gif">
+</div>
+
+
+
+<div id="dvNavigate" class="W">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/Images/bar/nav1_bg.gif">
   <tbody><tr>
-    <td width="6" align="left" valign="top" nowrap="nowrap"><img alt="" src="/Images/DataBase/nav_left.gif" width="6" height="34"></td>
-    <td align="left" class="lnk">
-        <a href="/index.asp">Home</a> |  
-        <a href="/directory/suppliers/directory.htm">Directory</a> |  
-        <a href="/buysell/Buysell.asp">Buy&amp;Sell</a> |  
-        <a href="/database/index.aspx">DataBase</a> |  
-        <a href="/Resources/news/newslist.aspx">News</a> |  
-        <a href="/Resources/feature/featurelist.aspx">Feature Articles</a> |  
-        <a href="/Resources/event.asp">Events</a> |  
-        <a href="/Resources/link.asp">Industry Link</a> 
-
-    </td>
-    <td width="4" align="right"><img alt="" src="/Images/DataBase/nav_right.gif" width="4" height="34"></td>
-  </tr>
-</tbody></table>
-<script>
-
-     function setSelectionRange(input, selectionStart, selectionEnd) {
-		if (input.setSelectionRange) {
-			input.setSelectionRange(selectionStart, selectionEnd);
-		} else if (input.createTextRange) {
-			var range = input.createTextRange();
-			range.collapse(true);
-			range.moveEnd('character', selectionEnd);
-			range.moveStart('character', selectionStart);
-			range.select();
-			$("Searchtxt3").focus();
-		}
-	}
-	
-	function update(object, value) {
-		object.text.value = value;
-		var index = value.toLowerCase().indexOf(object.value.toLowerCase());
-		if (index > -1) {
-			setSelectionRange(object.text, index + object.value.length, value.length);
-		}
-	}
-
-	new CAPXOUS.AutoComplete("Searchtxt", function() {
-		return "cncx.asp?typing=" + escape(this.text.value);
-		
-	});
-</script>
-<script>
-
-     function setSelectionRange(input, selectionStart, selectionEnd) {
-		if (input.setSelectionRange) {
-			input.setSelectionRange(selectionStart, selectionEnd);
-		} else if (input.createTextRange) {
-			var range = input.createTextRange();
-			range.collapse(true);
-			range.moveEnd('character', selectionEnd);
-			range.moveStart('character', selectionStart);
-			range.select();
-			$("Searchtxt13").focus();
-		}
-	}
-	
-	function update(object, value) {
-		object.text.value = value;
-		var index = value.toLowerCase().indexOf(object.value.toLowerCase());
-		if (index > -1) {
-			setSelectionRange(object.text, index + object.value.length, value.length);
-		}
-	}
-
-	new CAPXOUS.AutoComplete("Searchtxt1", function() {
-		return "cncx2.asp?typing=" + escape(this.text.value);
-		
-	});
-</script>
-<script>
-
-     function setSelectionRange(input, selectionStart, selectionEnd) {
-		if (input.setSelectionRange) {
-			input.setSelectionRange(selectionStart, selectionEnd);
-		} else if (input.createTextRange) {
-			var range = input.createTextRange();
-			range.collapse(true);
-			range.moveEnd('character', selectionEnd);
-			range.moveStart('character', selectionStart);
-			range.select();
-			$("Searchtxt23").focus();
-		}
-	}
-	
-	function update(object, value) {
-		object.text.value = value;
-		var index = value.toLowerCase().indexOf(object.value.toLowerCase());
-		if (index > -1) {
-			setSelectionRange(object.text, index + object.value.length, value.length);
-		}
-	}
-
-	new CAPXOUS.AutoComplete("Searchtxt2", function() {
-		return "cncx3.asp?typing=" + escape(this.text.value);
-		
-	});
-</script>
-<script>
-
-     function setSelectionRange(input, selectionStart, selectionEnd) {
-		if (input.setSelectionRange) {
-			input.setSelectionRange(selectionStart, selectionEnd);
-		} else if (input.createTextRange) {
-			var range = input.createTextRange();
-			range.collapse(true);
-			range.moveEnd('character', selectionEnd);
-			range.moveStart('character', selectionStart);
-			range.select();
-			$("Searchtxt33").focus();
-		}
-	}
-	
-	function update(object, value) {
-		object.text.value = value;
-		var index = value.toLowerCase().indexOf(object.value.toLowerCase());
-		if (index > -1) {
-			setSelectionRange(object.text, index + object.value.length, value.length);
-		}
-	}
-
-	new CAPXOUS.AutoComplete("Searchtxt3", function() {
-		return "cncx4.asp?typing=" + escape(this.text.value);
-		
-	});
-</script>
-<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="994" height="12">&nbsp;</td>
-  </tr>
-</tbody></table>
-<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="26" valign="top">&nbsp;</td>
-    <td width="223" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td width="5" align="left" valign="top"><img src="/Images/bar/nav1_L.gif" width="4" height="37"></td>
+    <td align="right" valign="bottom">
+    <table width="850" border="0" background="/Images/bar/nav2_bg.gif" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td height="27" valign="top"><a href="index.asp">Home</a> &gt; Policy </td>
+        <td width="4" align="left" valign="top"><img src="/Images/bar/navBT_L.gif" width="4" height="37"></td>
+        <td width="60" align="center" valign="middle" class="Main"><a href="/index.htm" title="Agrochemical">Home</a></td>
+        <td width="80" align="center" valign="middle" class="ln"><a href="/directory.htm" title="Directory">Directory</a></td>
+        <td width="70" align="center" valign="middle" class="ln"><a href="/product.htm" title="Herbicide Product">Product</a></td>
+        <td width="50" align="center" valign="middle" class="ln"><a href="/buy.htm" title="Buy Products -Nitrogen Fertilizer">Buy</a></td>
+        <td width="50" align="center" valign="middle" class="ln"><a href="/sell.htm" title="Sell Agrochemical Products">Sell</a></td>
+        <td width="80" align="center" valign="middle" class="ln red"><a href="/database.htm" title="Crop Protection Database">DataBase</a></td>
+        <td width="60" align="center" valign="middle" class="ln"><a href="/news.htm" title="Agropages News">News</a></td>
+        <td width="110" align="center" valign="middle" class="ln"><a href="/feature.htm" title="Feature Articles">Feature Articles</a></td>
+        <td width="70" align="center" valign="middle" class="ln"><a href="/events.htm" title="Events">Events</a></td>
+        <td width="90" align="center" valign="middle" class="ln"><a href="/link.htm" title="Resources">Industry Link</a></td>
+        <td align="center" valign="middle" class="Right"><a href="/office.htm" title="My Agropages">My AgroPages</a></td>
+      </tr>
+    </tbody></table>    </td>
+    <td width="100" align="center" class="chk">
+      <a href="/office/message.aspx?t=1" title="check Message">Check Message</a>    </td>
+    <td width="5" align="right" valign="top"><img src="/Images/bar/nav1_r.gif" width="2" height="37"></td>
+  </tr>
+</tbody></table>
+</div>
+
+<div id="dvAboutBody">
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+    <td width="26" valign="top">&nbsp;</td>
+    <td width="200" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td height="27" valign="top"><a href="http://www.agropages.com">Home</a> &gt; Policy </td>
       </tr>
       <tr>
-        <td><img src="Images/Policy_Navi.jpg" width="159" height="392" border="0" usemap="#Map2"></td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-      </tr>
-    </tbody></table></td>
-    <td width="739" valign="top"><table width="681" border="0" cellspacing="0" cellpadding="0">
+        <td><img src="/Images/Policy_Navi.jpg" border="0" usemap="#Map2">
+<map name="Map2">
+<area shape="rect" coords="50,26,151,44" href="#no1">
+<area shape="rect" coords="47,64,149,87" href="#no2">
+<area shape="rect" coords="102,108,151,124" href="#no3">
+<area shape="rect" coords="98,153,149,168" href="#no4">
+<area shape="rect" coords="37,191,149,215" href="#no5">
+<area shape="rect" coords="59,237,150,255" href="#no6">
+</map></td>
+    </tr>
+      
+  </tbody></table></td>
+<td width="739" valign="top"><table width="681" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td width="709" height="27"><table width="100%" height="100%" border="0">
           <tbody><tr>
@@ -543,7 +261,8 @@ if(form1.country4.value=="" && form1.datetime.value=="" && form1.searchtxt5.valu
 	<tr>
         <td><table width="654" border="0" align="center" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td style="line-height:22px;"><p align="center"><strong>User Agreement </strong></p>
+            <td style="line-height:22px;">
+            <p align="center" style="margin-top:10px; border-top:1px dashed #ccc;padding-top:5px;"><strong>User Agreement </strong></p>
               <p>We, AgroPages.com establish the policies that help to create a global Agro- chemical e-marketplace with safe, fair and convenience trading environment for all AgroPages.com family members. Before you use our services, please read this Agreement carefully and whatever kind of users you are, we regard respectively that you have read and you agree all the terms of this Agreement. </p>
               <p>We may amend the terms of this Agreement by posting the amended terms on this Site without notice. </p>
               <p>The "User Agreement " describes the terms and conditions applicable to your use of the AgroPages.com website which is identified by the uniform resource locator www.agropages.com (the " Site " ). This Agreement is entered into between you as the user of the Site (the " User " ) and us (AgroPages.com). </p>
@@ -763,52 +482,32 @@ if(form1.country4.value=="" && form1.datetime.value=="" && form1.searchtxt5.valu
     </tbody></table></td>
   </tr>
 </tbody></table>
-<table width="988" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="23">&nbsp;</td>
-  </tr>
-  <tr>
-    <td background="Images/Index/G22.gif" height="8"></td>
-  </tr>
-  <tr>
-    <td height="15" align="center"><script language="JavaScript" charset="gb2312" type="text/javascript" src="http://www7.itsun.com/count.php?uuid=1811433&amp;style=none"></script>
-   <div id="foot"> <ul><li><a href="/index.asp">Home</a></li>  |
-   						<li><a href="/directory/directory.asp">Directory</a></li>  |
-                        <li><a href="/buysell/Buysell.asp">Buy&amp;Sell</a></li>  |
-                        <li><a href="/database/index.aspx">DataBase</a></li>  |
-                        <li><a href="/Resources/news/newslist.aspx">News</a></li>  |
-                        <li><a href="/Resources/feature/featurelist.aspx">Feature Artical</a></li>  |
-                        <li><a href="/Resources/event.asp">Events</a></li>  |
-                        <li><a href="/Resources/link.asp">Industry Link</a></li>  |
-                        <li><a href="/Policy.html">Privacy Policy</a></li>  |
-                        <li><a href="/QA.html">FAQ </a></li>  |
-                        <li><a href="/About.html#no5">Contact Us</a></li>  
-
-                        
-                      </ul></div>
-  </td></tr>
-  <tr>
-    <td height="15" align="center">
-   <div id="copyright">
-  Copyright Notice copy  © 2007 AgroPages.com Corporation and its licensors. All rights reserved.</div> 
-  </td></tr>
-</tbody></table>
-<map name="Map">
-  <area shape="rect" coords="33,35,156,48" href="#no1">
-  <area shape="rect" coords="2,79,155,94" href="#no2">
-  <area shape="rect" coords="77,127,155,146" href="#no3">
-  <area shape="rect" coords="80,176,155,190" href="#no4">
-</map>
-<map name="Map2">
-  <area shape="rect" coords="50,26,151,44" href="#no1">
-  <area shape="rect" coords="47,64,149,87" href="#no2">
-  <area shape="rect" coords="102,108,151,124" href="#no3">
-  <area shape="rect" coords="98,153,149,168" href="#no4">
-  <area shape="rect" coords="37,191,149,215" href="#no5">
-  <area shape="rect" coords="59,237,150,255" href="#no6">
-</map>
+</div>
 
 
+<div id="dvCopyRight" style="text-align:center;">
+ <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.agropages.com" title="Agrochemical">Formulations</a> | 
+   <a href="/directory.htm" title="Directory">Directory</a> | 
+   <a href="/product.htm" title="Herbicide Product">Product</a> |
+   <a href="/buy.htm" title="Buy Products -Nitrogen Fertilizer">Buy</a> | 
+   <a href="/sell.htm" title="Sell Agrochemical Products">Sell</a> | 
+   <a href="/database.htm" title="Crop Protection Database">DataBase</a> | 
+   <a href="/news.htm" title="Agropages News">News</a> | 
+   <a href="/feature.htm" title="Feature Articles">Feature Articles</a> | 
+   <a href="/events.htm" title="Events">Events</a> | 
+   <a href="/link.htm" title="Resources">Industry Link</a> | 
+   <a href="/policy.htm" title="agropages policy">Privacy Policy</a> | 
+   <a href="/service.htm" title="agropages service">Marketing Solution</a> | 
+   <a href="/contact.htm" title="Contact Us">Contact Us</a> | 
+   <a href="/sitemap.htm" title="Site map">Site Map</a></p>
+ 
+   <p class="memo" style="text-align:center;">
+   Copyright Notice © 2006-2008 Stanley Alliance International Co., Ltd. All Rights Reserved.</p>
+   
+   <p class="beian" style="text-align:center; display:none;"><a href="http://www.miibeian.gov.cn/" target="_blank">浙ICP备07035772号</a></p>
+<br>
+</div>
+</form>
 
 
 </body></html>
