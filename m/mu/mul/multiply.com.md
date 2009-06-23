@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123514id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiply.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623195414id_/http%3A//multiply.com/info/privacy) for the most accurate reproduction.*
 
 # Multiply
 
