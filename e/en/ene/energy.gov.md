@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021027id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624213804id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.*
 
 # Department of Energy - Privacy
 
@@ -45,5 +45,3 @@ You may choose to provide us with personal information, as in an e-mail message 
 This web site is part of a Federal computer system used to accomplish Federal functions. The Department of Energy uses software programs to monitor this web site for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this web site, you are expressly consenting to these monitoring activities.
 
 Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation is prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996, codified at section 1030 of Title 18 of the United States Code, or other applicable criminal laws.
-
-_Last Reviewed: 1/11/2007_
