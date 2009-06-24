@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229220903id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624210817id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
 # Amazon.com: Help > Privacy, Security & Accessibility > Privacy Notice
 
@@ -49,7 +49,7 @@ Information about our customers is an important part of our business, and we are
 
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/browse.html/?node=515722) for more information on how to sign off.
 
 **What About Third-Party Advertisers and Links to Other Websites?**  
