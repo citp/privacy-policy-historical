@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055111id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624074501id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -77,4 +77,4 @@ SE1 7PB
 
 As we are constantly improving our site, there may be developments in how we use your data. All such developments will be promptly notified to you in this policy, and where appropriate, through e-mail notification. 
 
-The London Eye is owned and operated by The London Eye Company Limited. Registered Office: York Court, Allsop Place, London NW1 5LR. Registered in England No. 2896849 
+The London Eye is owned and operated by The London Eye Company Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
