@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224031043id_/http%3A//www.perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624044508id_/http%3A//www.perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Perfect-Optimization.com
 
