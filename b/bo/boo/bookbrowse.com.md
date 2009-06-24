@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219044625id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624134339id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # BookBrowse.com's privacy statement
 
@@ -49,6 +49,6 @@ _Advertising_
 From time to time we use third-party advertising companies to serve ads on our Web site. These companies use cookies to track your visits to this and other websites in order to provide advertisements that may be of interest to you. The information about you does not include personal details such as your name or address, it is simply a cookie (as explained in the previous section) that tracks general traffic movements. If you would like more information about this practice, or you would like to opt out from having your data collected by some advertising networks, please [click here](http://www.networkadvertising.org/optout_nonppii.asp "opt out of ads"). 
 
 **Contacting BookBrowse.com**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20081219044625id_/http%3A//www.bookbrowse.com/information/contactus "contact us").   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.bookbrowse.com/contactus "contact us").   
   
 Last updated November 2008
