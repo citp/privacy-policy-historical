@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbookshelf.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509161752id_/http%3A//www.publicbookshelf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbookshelf.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624105933id_/http%3A//www.publicbookshelf.com/privacy-policy) for the most accurate reproduction.*
 
 # PublicBookshelf: Privacy
 
@@ -29,4 +29,6 @@ While the goal of cookies are to enhance your Internet experience by limiting th
 
 ## Questions?
 
-The management of PublicBookshelf takes consumer privacy seriously. If you have questions or concerns, please send an email to [admin@publicbookshelf.com](mailto:admin@publicbookshelf.com).
+The management of PublicBookshelf takes consumer privacy seriously. If you have questions or concerns, please send an email to [admin@publicbookshelf.com](https://web.archive.org/mailto:admin@publicbookshelf.com).
+
+﻿ 
