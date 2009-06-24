@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipodnn.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224054526id_/http%3A//www.macnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipodnn.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624044050id_/http%3A//www.macnn.com/privacy) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
@@ -12,7 +12,7 @@ Internet user privacy is of paramount importance to MacNN.com and its related si
 
 **User Information**
 
-> During your visit to the site, MacNN does not collect any personally-identifiable information about you that you do not specifically volunteer. This information may be volunteered when you create an account on the MacNN discussion forums located at [http://www.macnn.com/forums/](https://web.archive.org/web/20081224054526id_/http://www.macnn.com/privacy/%C3%93http://www.macnn.com/forums/%C3%93). However, even then, MacNN does not use that stored information for any purpose other than to allow you to log in and post messages. 
+> During your visit to the site, MacNN does not collect any personally-identifiable information about you that you do not specifically volunteer. This information may be volunteered when you create an account on the MacNN discussion forums located at [http://www.macnn.com/forums/](https://web.archive.org/web/20090624044050id_/http://www.macnn.com/privacy/%C3%93http://www.macnn.com/forums/%C3%93). However, even then, MacNN does not use that stored information for any purpose other than to allow you to log in and post messages. 
 > 
 > MacNN does, however, automatically collect certain non-personally-identifiable information about you, such as your browser type and the IP address that your ISP designates to your machine (which, with dial-up accounts, usually changes every time you connect). This is standard practice for web sites, and is not used for any purpose other than to evaluate how we can design the site to best serve your needs. This information is not sold to any third parties, or available to anybody outside of the MacNN staff. 
 
@@ -29,3 +29,11 @@ Internet user privacy is of paramount importance to MacNN.com and its related si
 We are committed to continuing to protect the privacy of our readers.If you have any additional questions, please contact us at [privacy@macnn.com](mailto:privacy@acnn.com). 
 
 We recommend that you review this Privacy Statement periodically, as MacNN may update it from time to time without notice to its users.
+
+[Want To Sell Your Laptop?](http://www.cashforlaptops.com/) Any Condition - receive Top Cash. Get an instant quote. Free shipping [www.CashForLaptops.com](http://www.cashforlaptops.com/)
+
+[Internet Marketing School - 100% Online:](http://links.industrybrains.com/click?sid=85&rqctid=473&pos=1&lid=561900&cid=142372&pr=2&tstamp=20090624003334&url=http://info.bisk.com/MCIndex.asp%3fMCGUID%3d%7b58BC7796-6DCE-4F39-9654-50F8CCED4B56%7d%26WT.mc_id%3d8668) Master SEO, SEM, E Commerce, Media & More with a U of San Francisco Certificate.
+
+[Convert PDF to Word:](http://links.industrybrains.com/click?sid=85&rqctid=473&pos=2&lid=474341&cid=99510&pr=2&tstamp=20090624003334&url=http://www.docudesk.com/deskUNPDF-PDF-Converter-for-mac.shtml%3fPartner%3dIB) Easily Convert PDF to Word Doc, Excel, and More. Fast and Accurate. No Registration Trial
+
+**Buy from[The Apple Store](http://macnn.com/rd.php?id=22254), [iTunes.com](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=78941.10000049&type=3&subid=0), [Amazon.com](http://www.amazon.com/exec/obidos/redirect?tag=themacintosnewsn&path=tg/browse/-/172282/), [TechDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77822.10000065&type=3&subid=0), [OfficeDepot](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=27778.10000200&type=3&subid=0), [Computers4Sure](http://click.linksynergy.com/fs-bin/click?id=JWU6hEpoB3Q&offerid=77819.10000067&type=3&subid=0), or [donate](https://www.paypal.com/xclick/business=donations%40macnn.com&item_name=MacNN+Forums+Support&amount=15.00&no_note=1&tax=0&currency_code=USD). **
