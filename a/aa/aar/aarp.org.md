@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223005942id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624215951id_/http%3A//www.aarp.org/aarp/articles/privacypolicy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -50,15 +50,15 @@ Again, regardless of whether you are visiting AARP.org or an affiliated site, yo
 
 We also collect other types of information that do not allow us to identify your name, e-mail address, or other personal characteristics. This "non-personal information" includes the number assigned to your computer whenever you access the Internet ("IP address"), and the type of browser you use. None of this non-personal information allows us to identify or contact you. We use this information to help us evaluate how AARP.org is being used. By gathering this information, we can learn, among other things, how many people visit AARP.org, which AARP.org pages are the most and least popular, and which other Web sites are the most frequent referral sources for AARP.org.
 
-We may also assign a "cookie" to your computer in some situations. Like an IP address, a "cookie" is a kind of online identification tag that allows us to recognize your computer each time you visit AARP.org. For example, the AARP Online Community, that is, thoseregistered users of AARP.org who submit personal profiles, or participate in message boards, journals, chat rooms, and user groups, uses cookies to recognize returning registered users of the site.
+We may also assign a "cookie" to your computer in some situations. Like an IP address, a "cookie" is a kind of online identification tag that allows us to recognize your computer each time you visit AARP.org. For example, the AARP Online Community, that is, those registered users of AARP.org who submit personal profiles, or participate in message boards, journals, chat rooms, and user groups, uses cookies to recognize returning registered users of the site.
 
-Unless you have already provided us with personal information on AARP.org or an affiliated site, cookies do not allow us to identify you by name, e-mail address, or other personal characteristics. We use cookies primarily to identify return visitors and make your AARP.org experience more convenient. 
+Unless you have already provided us with personal information on AARP.org or an affiliated site, cookies do not allow us to identify you by name, e-mail address, or other personal characteristics. We use cookies primarily to identify return visitors and make your AARP.org experience more convenient.
 
 We use vendors for various purposes. For example, AARP uses a vendor to place AARP-approved banner advertisements on AARP.org. The cookies allow AARP to manage the delivery of these ads – for example, by counting the number of times a visitor has viewed different banners. If a visitor has viewed the same banner a number of times, AARP can use the vendor's system to automatically display different banners in the next visit. AARP has complete control over the banners that are placed on AARP.org through this system.
 
 We also use a vendor to collect aggregate information about AARP.org usage – such as the most visited pages and features. This vendor also uses cookies and transparent image tags to collect this information. Like cookies, image tags do not allow us or the vendor to identify you by name or other personal characteristics. These vendors do not collect any personal information from members on AARP.org, and they do not share the non-personal information collected on AARP.org with anyone else for any other purpose.
 
-If you are uncomfortable allowing cookies to be placed on your computer, [read this article on AARP.org](http://www.aarp.org/money/consumer/articles/deletecookies.html) that explains how to set your browser so that it will not accept these cookies, or so that it will notify you whenever a web site is trying to use cookies. If you choose not to accept cookies, however, you may not be able to use certain features of AARP.org or linked sites. You will still be able to visit the general AARP.org pages on an anonymous basis, just as you have in the past.
+If you are uncomfortable allowing cookies to be placed on your computer, read this article on AARP.org that explains how to set your browser so that it will not accept these cookies, or so that it will notify you whenever a web site is trying to use cookies. If you choose not to accept cookies, however, you may not be able to use certain features of AARP.org or linked sites. You will still be able to visit the general AARP.org pages on an anonymous basis, just as you have in the past.
 
 **3\. How is this information used, and can I control the uses?**
 
@@ -68,10 +68,10 @@ We may also use this information for other purposes. For example, we may review 
 
 On occasion, we will also use your membership information to send you notices in the mail or by e-mail about special member benefits, discounts, and offers. If you do not want to receive these mailings, you can:
 
-  1. e-mail us at [member@aarp.org](mailto:member@aarp.org), 
-  2. call us at 1-888-OUR-AARP (1-888-687-2277), 
-  3. write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712, or 
-  4. visit [E-mail Updates](http://wssrv.mansellgroup.com/aarp/manage.aspx) on the Web. 
+  1. e-mail us at [member@aarp.org](mailto:member@aarp.org),
+  2. call us at 1-888-OUR-AARP (1-888-687-2277),
+  3. write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712, or
+  4. visit [E-mail Updates](http://wssrv.mansellgroup.com/aarp/manage.aspx) on the Web.
 
 
 
@@ -85,10 +85,10 @@ We require all of these AARP Service Providers and approved vendors to hold memb
 
 If you do not want us to share your personal information with AARP Service Providers, you can:
 
-  1. e-mail us at [member@aarp.org](mailto:member@aarp.org), 
-  2. call us at 1-888-OUR-AARP (1-888-687-2277), 
-  3. write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712, or 
-  4. visit [E-mail Updates](http://wssrv.mansellgroup.com/aarp/allsignup.aspx) on the Web. 
+  1. e-mail us at [member@aarp.org](mailto:member@aarp.org),
+  2. call us at 1-888-OUR-AARP (1-888-687-2277),
+  3. write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712, or
+  4. visit [E-mail Updates](http://wssrv.mansellgroup.com/aarp/allsignup.aspx) on the Web.
 
 
 
