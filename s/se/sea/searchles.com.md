@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217205958id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624164942id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
 
 # Searchles
 
@@ -31,7 +31,7 @@ We receive and store any information you enter on our website or provide to us i
 
   * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Searchles cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
   * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Searchles's most attractive features.
-  * Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
+  * Searchles uses third party advertising companies to serve ads when you visit the Searchles website. These companies may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Searchles does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 
 
@@ -75,4 +75,4 @@ You must be 13 years and older to register to use the Searchles website. As a re
 
 If you decide to visit Searchles website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-Copyright ©2008 Searchles, Inc. All Rights Reserved 
+Copyright ©2009 Searchles, Inc. All Rights Reserved 
