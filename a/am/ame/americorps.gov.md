@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916005630id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625002912id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
-# AmeriCorps.gov > Security and Privacy Policy
+# NationalService.gov > Security and Privacy Policy
 
 ### Disclaimer 
 
@@ -26,7 +26,7 @@ The Corporation collects and maintains a limited amount of personally identifiab
 
 To obtain a copy of a PIA for an information system, please contact: 
 
-Richard A. Friend  
+Mary Cadagin  
 Chief Information Officer and Senior Agency Official for Privacy  
 Corporation for National and Community Service  
 1201 New York Avenue, NW  
@@ -78,10 +78,10 @@ PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the 
 
 PUBLIC BURDEN STATEMENT: Public reporting burden for this collection of information is estimated to average 20 minutes per submission, including reviewing instructions, gathering and maintaining the data needed, and completing the form. Comments on the burden or content of this instrument may be sent to the Corporation for National Service, AmeriCorps Recruitment, Attn: David Premo, 1201 New York Avenue, NW, Washington, D.C. 20525. The Corporation informs people who may respond to this collection of information that they are not required to respond to the collection of information unless the OMB control number and expiration date displayed on page 1 are current and valid. (See 5 C.F.R. 1320.5(b)(2)(i).) 
 
-PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to use the Project Registration System. The principal purpose for requesting this information is to evaluate the effectiveness, reach, scope and range of national service projects. The information, at the option of the registrant, may use the site to display information about the project and to recruit volunteers. The information will be used by Corporation employees, potential volunteers, and volunteer project administrators. The information will not otherwise be disclosed to entities outside the Corporation for National Service without your prior written permission. 
+PRIVACY ACT NOTICE: The Privacy Act of 1974 (5 U.S.C § 552a) requires that the following notice be provided to you: The authority for collecting information from you in this application is contained in 42 U.S.C 12592 and 12615 of the National and Community Service Act of 1990 as amended, and 42 U.S.C. 4953 of the Domestic Volunteer Service Act of 1973 as amended. You are advised that submission of the information is entirely voluntary, but the requested information is required in order for you to use the Project Registration System.  The principal purpose for requesting this information is to evaluate the effectiveness, reach, scope and range of national service projects.  The information, at the option of the registrant, may use the site to display information about the project and to recruit volunteers.  The information will be used by Corporation employees, potential volunteers, and volunteer project administrators.  The information will not otherwise be disclosed to entities outside the Corporation for National Service without your prior written permission. 
 
 **OMB Control Number:** 3045-0122  
- **Expiration Date:** November 30, 2009
+ **Expiration Date:**  November 30, 2009
 
 * * *
 
