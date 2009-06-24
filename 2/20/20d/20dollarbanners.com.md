@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20dollarbanners.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095014id_/http%3A//www.20dollarbanners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20dollarbanners.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624025347id_/http%3A//www.20dollarbanners.com/privacy-policy) for the most accurate reproduction.*
 
 # Professional Banner Design, Web Banners, Flash Banners, Animated Banner Design - 20 Dollar Banners
 
