@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224032802id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624040453id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Work.com
 
@@ -92,4 +92,4 @@ Attn: Customer Service - Work.com Privacy
 Santa Monica, CA 90404  
 [customerservice@work.com](mailto:customerservice@work.com)
 
-© 2008 Business.com, Inc.
+© 2009 Business.com, Inc.
