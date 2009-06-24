@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055949id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624214954id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS Privacy Statement | Union of Concerned Scientists
 
@@ -17,7 +17,7 @@ UCS also collects aggregate website browsing information including (but not limi
 **Collection of Personal Information  
 ** UCS may collect personal information (such as the user's email address) when it is voluntarily submitted to www.ucsusa.org. Submission of such information implies the user's consent to being contacted by UCS, but we do not share our email list with third parties.
 
-If you become a financial contributor to UCS, your postal mailing address may be exchanged with other organizations. We do not sell or exchange email addresses. Exchanging membership lists with other like-minded groups extends the reach of our work by helping us recruit new members. Members may opt out of such list exchanges at any time by sending an email including your full name and address to our membership department([memberupdate@ucsusa.org](mailto:memberupdate@ucsusa.org)).
+If you become a financial contributor to UCS, your postal mailing address may be exchanged with other organizations. We do not sell or exchange email addresses. Exchanging membership lists with other like-minded groups extends the reach of our work by helping us recruit new members. Members may opt out of such list exchanges at any time by sending an email including your full name and address to our membership department([member@ucsusa.org](mailto:member@ucsusa.org)).
 
 UCS stores member information on secure servers. We accept credit card donations via a secure server only.
 
