@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221164111id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624025110id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
 # Sovereign Bancorp, Inc. Privacy Policy | Sovereign Bank
 
@@ -231,7 +231,9 @@ back to top
 ---|---|---  
 | Next Steps |   
 |  [ ](https://web.archive.org/personal/forms/privacy_prefs.asp) |  |  [ Submit your marketing preferences by completing our Privacy Preferences Form ](https://web.archive.org/personal/forms/privacy_prefs.asp) |   
-|  |  |  Call **877.SOV.BANK** to speak with a Personal Banking Representative  |   
+|  |  |  Call **877.SOV.BANK**  
+(768-2265) to speak  
+with a Personal Banking Representative  |   
 |  |   
 ---|---|---  
 |  How May We Help You? |   
