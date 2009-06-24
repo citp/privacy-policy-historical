@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacomcc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217064854id_/http%3A//www.mediacomcc.com/legal_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacomcc.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624071646id_/http%3A//www.mediacomcc.com/legal_privacy.html) for the most accurate reproduction.*
 
 # Mediacom | Privacy Policy
 
@@ -99,7 +99,7 @@ Mediacom Communications Corporation
 Middletown, New York 10941   
 Telephone: 845-695-2600   
 Fax: 845-695-2669   
-Email: [bgluckman@mediacomcc.com](mailto:bgluckman@mediacomcc.com)
+
 
 In addition, if you are a subscriber to any Mediacom cable television, Internet access or other service, you may also contact your local Mediacom cable system at the address and telephone number stated on your monthly bill.
 
@@ -112,6 +112,6 @@ Mediacom Communications Corporation
 Middletown, New York 10941   
 Telephone: 845-695-2600   
 Fax: 845-695-2669   
-Email: [bgluckman@mediacomcc.com](mailto:bgluckman@mediacomcc.com)
+
 
 188053v2
