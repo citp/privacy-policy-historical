@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015554id_/http%3A//www.splunk.com/general/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624171657id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
 
-# Splunk > Splunk Websites Privacy Policy
+# Splunk : Splunk Websites Privacy Policy
 
 Splunk Inc. owns and operates the Splunk websites Splunk.com and SplunkForge.org. We take privacy seriously. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Use](http://www.splunk.com/index.php/articles/news/8).
 
@@ -21,7 +21,7 @@ This policy does not apply to the practices of companies that Splunk does not ow
 When you join the Splunk Community you must provide an email address and you have the option of signing up for Splunk mailing lists. When you purchase Splunk commercial licenses, support or other services, we may add you to one or more of our mailing lists and we may occasionally contact you via email. When you enter a contest or survey, we may ask for your name, address and email address so we can administer the contest and notify winners.   
 
 
-**Use of Personal Information.** Splunk does not sell or rent your personal information to anyone. We will only release personal information when we believe that it is required to comply with the law, or to protect the rights, property, or safety of Splunk, our users, or others. This may include exchanging information with other companies and organizations for purposes of fraud protection and credit risk management. Please note, Splunk mailing lists may be archived by several third party sites and your email address may be found on these archive sites. Splunk doesn't have control over mailing list archive sites.  
+**Use of Personal Information.** Splunk does not sell or rent your personal information to anyone. If you are referred to our site from one of our partners we may share basic registration information with the partner from which you were referred. We may also release personal information when we believe that it is required to comply with the law, or to protect the rights, property, or safety of Splunk, our users, or others. This may include exchanging information with other companies and organizations for purposes of fraud protection and credit risk management. Please note, Splunk mailing lists may be archived by several third party sites and your email address may be found on these archive sites. Splunk doesn't have control over mailing list archive sites.  
 
 
 **Community Information.** Community information contributed by members of the Splunk Community, including sample data, event types, tags, comments and other information related to the Splunk Knowledge Base, may be reused by other members of the Splunk Community under terms and conditions of the Splunk [Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.5/) License.  
@@ -51,10 +51,9 @@ If you do not want your personal information to be stored by cookies, you can co
 
 #### Contact Splunk
 
-If you have any questions or comments about our privacy policy, the practices of the Splunk websites or your dealings with Splunk, you can [contact us](http://www.splunk.com/article/246) at any time.
+If you have any questions or comments about our privacy policy, the practices of the Splunk websites or your dealings with Splunk, you can [contact us](http://www.splunk.com/view/SP-CAAAAH7) at any time.
 
 Last modified: August 30th, 2005 
 
-  
   
 
