@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163723id_/http%3A//www.rapbasement.com/features/features/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624093713id_/http%3A//www.rapbasement.com/features/features/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Features | Rap Basement
 
@@ -7,6 +7,8 @@ Rap Basement is committed to protecting your personal information and respecting
 **Third Party Advertising**
 
 We use DoubleClick, Gorilla Nation, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.com/privacy/index.aspx). For more information about Gorilla Nation, cookies, and how to "opt-out", please [click here](http://gorillanation.com/privacy/).
+
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please click here. http://www.doubleclick.com/privacy/index.aspx. 
 
 **Third Party Cookies**
 
