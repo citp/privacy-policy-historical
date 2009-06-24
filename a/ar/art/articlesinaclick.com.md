@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesinaclick.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222203418id_/http%3A//www.articlesinaclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesinaclick.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624144306id_/http%3A//www.articlesinaclick.com/privacy-policy) for the most accurate reproduction.*
 
-# Articles In A Click » Privacy Policy
+# Privacy Policy
 
 This is the web site of **ArticlesInAClick.com**.
 
