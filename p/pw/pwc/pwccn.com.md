@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222201730id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624072756id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
 
 # PwC CN: PricewaterhouseCoopers' Privacy Commitment
 
 Introduction
 
-The privacy of information you provide at this site is important to us.  The following Privacy Statement governs the collection and use of personal data submitted to PricewaterhouseCoopers China (pwccn.com) or through the China pages of pwc.com.  PricewaterhouseCoopers' information handling practices are in accordance with generally accepted privacy and data protection good practices.
+The privacy of information you provide at this site is important to us.  The following Privacy Statement governs the collection and use of personal data submitted to PricewaterhouseCoopers China (pwccn.com) or through the China pages of pwc.com.  PricewaterhouseCoopers' information handling practices are in accordance with generally accepted privacy and data protection in good practices.
 
   For more information about our recruitment privacy practices, please refer to our [Recruitment Privacy Statement](https://web.archive.org/home/eng/recruitment_privacy.html).
 
