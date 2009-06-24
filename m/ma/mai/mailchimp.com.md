@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112164957id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625002446id_/http%3A//www.mailchimp.com/page/privacy) for the most accurate reproduction.*
 
-# MailChimp Privacy Policy
+# MailChimp Privacy Policy | MailChimp.com
 
-We take your privacy, and the privacy of your subscribers, very seriously at MailChimp. If you have any questions about our privacy policy, [contact us.](https://web.archive.org/contact.phtml)
+We take your privacy, and the privacy of your subscribers, very seriously at MailChimp. If you have any questions about our privacy policy, [contact us.](http://www.mailchimp.com/page/contact/)
 
 ### A. Our Pledge to You
 
@@ -92,31 +92,18 @@ We do not send promotional emails unless you have requested them.
 
   1. We do not knowingly provide accounts, or market to, or solicit information from, children under the age of 13. Our [terms](http://www.mailchimp.com/terms.phtml) stipulate you must be 18 years or older to use the MailChimp system. 
 
-|    
 
+
+### EU SafeHarbor:
+
+Upon request, Mailchimp will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program. View our [EU Safe Harbor Privacy Policy](http://www.mailchimp.com/page/eu-mailchimp-safe-harbor-privacy-policy/ "EU Safe Harbor Privacy Policy").
 
 ### Truste Privacy Program
 
-[](http://www.truste.org/ivalidate.php?url=www.mailchimp.com&sealid=101) MailChimp is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.mailchimp.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://www.truste.org/ivalidate.php?url=www.mailchimp.com&sealid=101)MailChimp is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.mailchimp.com](http://www.mailchimp.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact MailChimp [using this form](https://web.archive.org/contact.phtml). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-* * *
+If you have questions or concerns regarding this statement, you should first contact MailChimp [ using this form.](http://www.mailchimp.com/contact/) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [ contact TRUSTe here.](http://www.truste.org/consumers/watchdog_complaint.php) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ### BBB Online Reliability
 
-MailChimp's parent company, The Rocket Science Group, is a member of the BBB Online Reliability program. Feel free to check our status by clicking the logo below:  
-[](http://www.bbbonline.org/cks.asp?id=105113010411)
-
-* * *
-
-### Contact Us
-
-MailChimp is a product of [The Rocket Science Group](http://www.rocketsciencegroup.com/). You can contact us at:
-
-**The Rocket Science Group, LLC**  
-512 Means Street, Suite 404  
-Atlanta, GA 30318  
-1-866-284-2541
-
-Or email us [here.](https://web.archive.org/web/20081112164957id_/http%3A//www.mailchimp.com/contact.phtml)
+MailChimp's parent company, The Rocket Science Group, is a member of the [BBB Online Reliability](http://www.bbbonline.org/cks.asp?id=105113010411) program.
