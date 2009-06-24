@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223133744id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145414id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -46,12 +46,22 @@ DLF City Phase V
 Gurgaon  
 Haryana 122 009  
 INDIA**
-* You may contact us on our phone number : **+91-9810045075**.
-
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Jamini Roy Paintings](http://www.dollsofindia.com/read/jamini_roy_paintings.htm) - [Boxes](http://www.dollsofindia.com/read/boxes.htm) - [Sponge Wood Crafts](http://www.artandcraftsofindia.com/read/sponge_wood_crafts.htm) - [Mithila Paintings](http://www.artandcraftsofindia.com/read/mithila_paintings.htm) - [Temple Dance](http://www.dollsofindia.com/read/temple_dance.htm) - [Sola Wood Crafts](http://www.artandcraftsofindia.com/read/solawoodcrafts.htm) - [Paper Doll](http://www.artandcraftsofindia.com/read/indian_paper_doll.htm) - [Jagannath Subhadra Balaram](http://www.dollsofindia.com/read/jagannath_subhadra_balaram.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) - [Macreme Jewelry](http://www.dollsofindia.com/read/macreme_jewelry.htm) 
+* You may contact us on our phone number : **+91-9810045075**.  
+  
+---  
+| [Click here](http://www.dollsofindia.com/library/) **for list of archives**
 
   
-**Copyright © 2008,[Dolls Of India](http://www.dollsofindia.com/)  
+[](http://www.dollsofindia.com/krishna.htm) | Krishna manifested himself in order to reinstate Dharma (righteousness) and re-establish justice. In his avatar, Krishna took on the mantle of a king, an ace diplomat and a politician par excellence, who thoroughly knew the ins and outs of the field... The Mahabharata was akin to what we know today as a World War... Though Lord Krishna's side attained victory, he was never pleased by the terrible outcome of it all... The cycle of Karma had demanded for this to happen and so, the war finally took place, in spite of Krishna's best efforts to stop it. Krishna, veritably the Prema Avatar (the avatar of love), is vastly known for his dalliances with the Gopis and the Brajbalas... The Radha-Krishna romance epitomizes real love, their lovemaking going beyond barriers of all kinds... Though Radha and Krishna never married, they are revered as a divine couple and stand for pure Love in all its glory...  
+---  
+[» Read this article](http://www.dollsofindia.com/krishna.htm)  
+  
+|   
+  
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Lord Ganesha](http://www.dollsofindia.com/read/lord_ganesha.htm) - [Thermocol Crafts](http://www.dollsofindia.com/read/thermocolcrafts.htm) - [Dhokra Jewelry](http://www.dollsofindia.com/read/dhokra_jewelry.htm) - [Costume Dolls](http://www.dollsofindia.com/read/costume_dolls.htm) - [Wood Statues](http://www.artandcraftsofindia.com/read/wood_statues.htm) - [PapierMache Sculptures from India](http://www.dollsofindia.com/read/papiermachesculptures.htm) - [Indian Ivory Dolls](http://www.dollsofindia.com/read/indianivorydolls.htm) - [Hindu Mask](http://www.dollsofindia.com/read/hindu_mask.htm) - [Lost Wax Casting](http://www.dollsofindia.com/read/lost_wax_casting.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) 
+
+  
+**Copyright © 2009,[Dolls Of India](http://www.dollsofindia.com/)  
 Site designed and maintained by [UnlimitedFX](http://www.unlimitedfx.com/)**
 
   
