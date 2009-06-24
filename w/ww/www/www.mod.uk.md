@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.mod.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161354id_/http%3A//www.mod.uk/DefenceInternet/YourPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.mod.uk privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624132251id_/http%3A//www.mod.uk/DefenceInternet/YourPrivacy) for the most accurate reproduction.*
 
 # Ministry of Defence | Your Privacy | Defence Privacy Statement
 
@@ -10,7 +10,7 @@ In addition, you can decline our cookie by adjusting the "accept cookies" settin
 
 Other websites linked from this site do not necessarily follow the same policies.
 
-The Ministry of Defence will process personal information provided by you in accordance with the Data Protection Act 1998, for the purposes of processing enquiries, collection of statistical and associated data, and related matters. 
+The Ministry of Defence will process personal information provided by you in accordance with the Data Protection Act 1998, for the purposes of processing enquiries, collection of statistical and associated data, and related matters. 
 
 Further information on your rights under the Data Protection Act 1998 can be found on the [Information Commissioner's website.  
 ](http://www.dataprotection.gov.uk/dpr/dpdoc.nsf "http://www.dataprotection.gov.uk/dpr/dpdoc.nsf \(opens in a new window\)")
