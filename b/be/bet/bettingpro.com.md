@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222111046id_/http%3A//www.bettingpro.com/Information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingpro.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624134523id_/http%3A//www.bettingpro.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ By entering your details in the fields requested, you enable and its service pro
 
 Any information that is supplied by cookies can help us to provide you with a better service and assists us to analyse the profile of our visitors. For example: if on a previous visit you went to, say, a specific community page, then we might find this out from your cookie and highlight information relating to this community on a second visit.
 
-We gather non-personal data regarding the visitors to our site using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. [Top] 
+We gather non-personal data regarding the visitors to our site using cookies and code which is embedded in the site. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.  
 
   **3\. What is a cookie?  
 ** When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows.
@@ -41,7 +41,7 @@ We will hold your personal information on our systems for as long as you use the
   **5\. Access to your personal information.**   
 You have the right to request a copy of the personal information holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) 
 
-**6\. Users 16 and under  
+ **6\. Users 16 and under  
 ** Our Service is intended for persons 21 years or older and we will not knowingly permit anyone under the age of 21 to use our Service. 
 
   **7\. How to find and control your cookies?**   
