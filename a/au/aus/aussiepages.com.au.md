@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223184944id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145546id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Perth Limosine**](http://www.aussiepages.com.au/Perth-Limosine.html)  
-Perth Limousine service specialising in Weddings, School Balls, Dinner Transfers, Airport Transfers, twilight Cruises  
+[**Keep it Unique Keepsakes**](http://www.aussiepages.com.au/Keep-it-Unique-Keepsakes.html)  
+Unique keepsakes and personalised, custom made gifts honouring mothers, children and babies. Products include ultrasound keepsakes, baby announcements, daily sunrise photography, and sterling silver jewellery. We also feature a child/baby loss section.  
   
   
 ---  
   
-[**Inbay Web Solutions**](http://www.aussiepages.com.au/Inbay-Web-Solutions.html)  
-We are a young team, who are keen to design develop YOUR website. Contact us today to see what we can offer you!  
+[**!!FREE DELIVERY!!**](http://www.aussiepages.com.au/--FREE-DELIVERY--.html)  
+STOPPP!!!ATTENTION PLEASE :=)FREE DELIVERY TIL JUNE 28!DO NOT MISS OUT!ALL PRODUCTS MUST GO!  
   
   
-[**Kylie Hammond Executive Search & Coaching Group**](http://www.aussiepages.com.au/Kylie-Hammond-Executive-Search-Coaching-Group.html)  
-Achieving Amazing Results Together..... Kylie Hammond is a leading Human Capital Management & Talent Management Consultant.  
+[**Epona Yoga Sydney**](http://www.aussiepages.com.au/Epona-Yoga-Sydney.html)  
+Specialising in yoga, meditation and stretching for children in a fun and creative environment.  
   
   
-[**BALDWEAR®**](http://www.aussiepages.com.au/BALDWEAR-C2-AE.html)  
-Australian Made Clothing For BALD People.  
+[**baby gifts by babycupcakes**](http://www.aussiepages.com.au/baby-gifts-by-babycupcakes.html)  
+Multi award-winning Australian online baby gift business, specialising in bouquets of baby clothing, nappy cakes, personalised baby gifts & more. See why Babycupcakes was voted Australia's "Best Gift Retailer" in 2008, and what sets our amazing baby gift service apart from the res  
   
   
-[**BANNERS~SIGNS~STICKERS~A-FRAMES~MAGNETIC SIGNS in FULL COLOUR**](http://www.aussiepages.com.au/BANNERS-7ESIGNS-7ESTICKERS-7EA-FRAMES-7EMAGNETIC-SIGNS-in-FULL-COLOUR.html)  
-Promote your Business with Full Colour BANNERS, SIGNS, STICKERS and A-FRAMES We Deliver Australia Wide  
+[**Accommodation Cairns | The Sebel Cairns Hotel**](http://www.aussiepages.com.au/Accommodation-Cairns--7C-The-Sebel-Cairns-Hotel.html)  
+Luxury Cairns hotel accommodation, all with balconies overlooking Cairns & the Harbour; day spa & award winning restaurants. Official The Sebel Cairns website - best online deals.  
   
   
-[**Freelance Photographer**](http://www.aussiepages.com.au/Freelance-Photographer.html)  
-Red Images specializes in Freelance Fashion and Industrial Photography. To keep a variety in the business Red Images is also available for Wedding and Portrait Photography. Visit our website now.  
+[**Helicopter Flight Training**](http://www.aussiepages.com.au/Helicopter-Flight-Training.html)  
+With over 20 years experience, Bankstown Helicopters is one of Australia's largest Helicopter flight training and charter organisations.  
   
   
-[**Outside & In Concepts**](http://www.aussiepages.com.au/Outside-In-Concepts.html)  
-Since 1990 we have supplied and installed quality Security, Shutters, Blinds, Awnings, and Venetians to thousands of satisfied customers in the Greater Brisbane area and the Sunshine Coast.  
+[**The Essence of Grace: Grace Cosmetics and Designer Jewellery**](http://www.aussiepages.com.au/The-Essence-of-Grace-3A-Grace-Cosmetics-and-Designer-Jewellery.html)  
+The Essence of Grace is an independent stockist of Grace Cosmetics and Grace Designer Jewellery. Pamper yourself and experience this Australian Owned, Australian Grown, aloe vera based skin care range  
   
   
-[**Muscle and Body Shape Gym**](http://www.aussiepages.com.au/Muscle-and-Body-Shape-Gym.html)  
-Muscle and Body Shape Gym prides itself on being one of the best in the fitness industry. The famous SHAPE program will have you looking and feeling your best. Give it a try!  
+[**The Greenroom Internet Cafe**](http://www.aussiepages.com.au/The-Greenroom-Internet-Cafe.html)  
+The Greenroom Internet Cafe's has a wide range of products & services, is an accredited discounter, open 7 days a week and only minutes from Manly Beach!  
   
   
-[**Outdoors Online Australia**](http://www.aussiepages.com.au/Outdoors-Online-Australia.html)  
-We stock the largets range of sheepskin and oilskin jackets in the land. We're also terrifically complimented with one of the largest outdoors online stores in the country with the best brands  
+[**1Earth1U**](http://www.aussiepages.com.au/1Earth1U.html)  
+Organic Beauty Care. Love yourself love your planet. Australian owned and made.  
   
   
-[**Aussie Mortgage Broker**](http://www.aussiepages.com.au/Aussie-Mortgage-Broker.html)  
-> 16 Lenders & hundreds of loans to choose from. > MFAA Accredited. > My service is at NO COST to you, because we are paid by the lender . > Available 7 Days. > Put the Aussie Guara  
+[**Canvas Prints - Your Photos on Canvas - Canvas Prints by ROC**](http://www.aussiepages.com.au/Canvas-Prints---Your-Photos-on-Canvas---Canvas-Prints-by-ROC.html)  
+Your canvas printing specialists-Print your photos on canvas with us. ROC Canvas Prints are Australia's premier canvas printers. Supplying canvas prints to the corporate, commercial & domesti  
   
   
    
