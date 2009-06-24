@@ -1,67 +1,68 @@
-> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019234137id_/http%3A//www.crcpress.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crcpress.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625010614id_/http%3A//www.crcpress.com/managed_content/corporate/page.jsf%3FcontentPath%3D/home/contact/08PrivacyPolicy.html) for the most accurate reproduction.*
 
-# CRC Press Privacy Statement
+# CRC Press Online - Privacy Policy
 
-**Search**  
-Search all catalogue titles:    
-[**Advanced Search**](https://web.archive.org/us/find.asp?mscssid=)  
-  
-**Browse Products**  
-[**Browse New Books**](http://www.crcpress.com/us/Newbooks/newbooks.asp?mscssid=)
+Privacy Policy
 
-Browse all by discipline:  
-  
-**Ordering**  
-[ **View Shopping Basket**](https://www.crcpress.com/us/shopper_lookup.asp?target=https%3A%2F%2Fwww%2Ecrcpress%2Ecom%2Fus%2Fbasket%2Easp)  
-[**My Account**](http://www.crcpress.com/us/shopper_lookup.asp?mscssid=&target=shopper_update.asp)  
-[**Ordering Methods**](http://www.crcpress.com/us/HowtoOrder/orderingmethods.asp?mscssid=)  
-[**Textbook Evaluation**](http://www.crcpress.com/us/HowtoOrder/eva.asp?mscssid=)  
-[**Ordering FAQs**](http://www.crcpress.com/us/HowtoOrder/faqs.asp?mscssid=)  
-  
-**Sales and Services**  
-[**Add me to your mailing list**](http://www.crcpress.com/us/custmailing.asp?mscssid=)  
-[**Contact us**](http://www.crcpress.com/us/custserv/customerservice.asp?mscssid=)  
-[**Sales Services and Info.**](http://www.crcpress.com/us/sales/salesserv.asp?mscssid=)  
-[**Feedback**](http://www.crcpress.com/us//feedback.asp?mscssid=)  
-  
-**Electronic**  
-[ **Download and Update Page**](http://www.crcpress.com/us/ElectronicProducts/downandup.asp?mscssid=) [**Technical support**  
-](http://www.crcpress.com/us/ElectronicProducts/newech.asp?mscssid=)  
+#### Taylor & Francis Group LLC Privacy Policy Statement
 
+This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.crcpress.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Taylor & Francis Group LLC ("our", "we" or "us"). 
 
-  
-**Publish with Us**  
-[**Editorial Contacts**](http://www.crcpress.com/us/Publish/edcontact.asp?mscssid=)  
-[**Proposal Guidelines**](http://www.crcpress.com/us/Publish/guide.asp?mscssid=)  
-[**Rights & Permissions**](http://www.crcpress.com/us/Publish/rights.asp?mscssid=)  
-  
-[**Conventions**](http://www.crcpress.com/us/Conventions/conventions.asp?mscssid=)  
-  
-**Corporate Information**  
-[**Career Opportunities**](http://www.crcpress.com/us/corpinfo/careerop.asp?mscssid=)  
-[**History of CRC**](http://www.crcpress.com/us/corpinfo/history.asp?mscssid=)
+#### What Information Do We Collect?
 
-|     |  **Privacy Statement**
+When you register yourself on this Website we ask for your full name, and e-mail address. When purchasing products from the Website, we ask you to provide shipping and billing addresses including the country, state or province, and postal code. All credit card information is stored and used according to the rules laid out by the _Payment Card Industry Digital Security Standard_ (PCI DSS). You can find more information about this standard [PCI Quick Reference Guide](https://www.pcisecuritystandards.org/pdfs/pci_ssc_quick_guide.pdf) [](https://www.pcisecuritystandards.org/pdfs/pci_ssc_quick_guide.pdf)
 
-CRC Press, LLC respects your privacy and has instituted policies and procedures to avoid utilizing or sharing your personal information against your wishes. CRC Press does value certain pieces of uniquely identifying information, such as email address, name, title and address, in order to better serve our customers. By using this information, CRC is better able to personalize your experience on our web site, as well as correctly target our correspondence to your interests, either electronically or otherwise.
+#### Use of Personal Data
 
-CRC’s current policy regarding the use of information supplied to us or collected via your experience at our web site covers the following areas:
+Any Personal Data that you give us will be treated with the utmost care and security. It will not be used in ways to which you have not consented. 
 
-**1\. Notice and Disclosure**  
-This online privacy statement is provided in order to fully inform our users of the information collected and used to uniquely identify our visitors.
+The Personal Data we collect is used to provide you with the services that you have requested or the products you have purchased or to respond to an enquiry that you have made. We use certain third party service providers to assist us in providing these services to you, for example, email alerting. 
 
-CRC collects various information from visitors to our site, including domain name, information regarding what pages are accessed, information volunteered by the visitor, such as registration information, email address, areas of interest, etc. In addition, upon purchase of a CRC product, a customer’s name and physical mailing address is appended to the CRC customer file for use as described in section 2 below.
+The Personal Data we acquire via the email alert service will not be used for marketing purposes except where you have indicated that we may do so on the registration page. 
 
-**2\. Use of Collected Information**  
-CRC Press, LLC makes use of collected information for notification and marketing purposes concerning our services and/or products.
+We will not sell, rent or loan any Personal Data or identifiable information collected on this Website, except that we may pass or sell your Personal Data outside our corporate group to third parties in the event that we sell the whole or part of our business. 
 
-Under no circumstances does CRC Press exchange, rent, or sell email addresses or web related identifying information.
+When you send email or other communications to CRC Press, or participate in virtual focus groups or online surveys, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
-CRC does makes available physical mailing information to third parties, including business partners, on an exchange or rental basis for the purpose of marketing relevant material to our customers.
+The information collected from this Website could be stored for as long as is required for the uses stated above. 
 
-**3\. Consent**  
-New CRC customers and visitors who supply and/or for whom information is collected on through their visit to our site, have the choice to "opt-out" of having any identifying information used for any purpose other than for which it was provided. This includes both marketing offers from CRC Press and the sharing of information to third parties. 
+#### Users' Right to Opt-out
 
-This "opt-out" option is available both at the time of the customer/visitor supplying information (i.e. ordering, survey, registration) and at any time after by sending notification to [lists@crcpress.com](mailto:lists@crcpress.com).
+If you do not want to continue to receive the alerter e-mail communications from us please let us know by using the online form at [www.crcpress.com/account/mailing_list](https://web.archive.org/account/mailing_list). 
 
-_Last updated October 17, 2000_
+#### Period of Grace
+
+Should you request that we amend or suppress records containing your Personal Data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records. 
+
+#### Use of Cookies and Logfiles
+
+A cookie is a small text file written to an individual's hard drive that contains the user ID. We do not place other personal information inside the cookie. 
+
+The use of cookies is now widespread by websites in order to track traffic flows. From time to time we may use cookies to enable us to offer certain time-saving features to our Users. These may be used to administer the Website, track Users' movements and actions, and gather broad demographic information for aggregate use. The information gathered would then be used to improve the Website and the User experience. 
+
+We maintain server logs that may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+
+We use first-party code from Google Analytics to help analyze where visitors go and what they do while visiting our website. We may also present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of the service we provide, and to serve customized content and advertising. 
+
+Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. You can obtain more information about this practice and to know your choices about not having this information used by Google from their respective web sites. Of course, you can opt-out of cookie-based tracking at any time by simply clearing your browser's cookie cache. 
+
+You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website [allaboutcookies.org](http://allaboutcookies.org/) or [cookiecentral.com](http://www.cookiecentral.com/). You should note that if a User sets up his browser to reject the cookie, he or she may still use the Website although functionality will be impaired. 
+
+#### Hyperlinks
+
+This Website contains links to other websites, including without limitation those websites of companies within the Taylor & Francis Group LLC which form part of the Academic & Scientific, Professional and Commercial Divisions. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of the said websites. Taylor & Francis Group LLC is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate. 
+
+#### Changes/Updates to Privacy Policy
+
+In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. 
+
+#### Contact Us
+
+If you have any questions about this privacy pledge or feel that your privacy has been compromised, please contact us at [techsupport@crcpress.com](mailto:techsupport@crcpress.com) or alternatively: 
+
+Privacy Policy  
+Taylor & Francis Group LLC,  
+6000 Broken Sound Parkway, NW  
+Boca Raton, FL 33487  
+U.S.A.  
+
