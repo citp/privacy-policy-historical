@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044500id_/http%3A//www.splashtop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Splashtop Instant-On Desktop from DeviceVM
+# Privacy Policy and Terms of Use - Splashtop Instant-On Desktop from DeviceVM
 
-|  | [](https://web.archive.org/web/20081216044500id_/http%3A//www.splashtop.com/index.php) |   
+|  | [](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/index.php) |   
 ---|---  
-|  > [Home](https://web.archive.org/web/20081216044500id_/http%3A//www.splashtop.com/index.php) > Privacy Policy  
+|  > [Home](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/index.php) > Privacy Policy and Terms of Use  
 ---  
 |  |  |   
 ---|---|---  
-|  | [](http://www.splashtop.com/privacy/DeviceVM_Terms_of_Use_2103.pdf)  
+|  | [](https://web.archive.org/web/20090624062143id_/http%3A//www.splashtop.com/privacy/DeviceVM_Inc_Terms_of_Use.pdf)  
 ---  
   
 ### DeviceVM, Inc. Privacy Policy  
@@ -17,7 +17,7 @@ Thank you for visiting DeviceVM, Inc.'s ("DeviceVM") Internet web site ("Site") 
 
 ### Privacy Policy Updates 
 
-Due to the Internet's rapidly evolving nature, DeviceVM may need to update this Privacy Policy from time to time. If so, DeviceVM will post its updated Privacy Policy on our Site located at <http://www.splashtop.com/privacy/01.html> so such notice is visible when users log-on for the first time after the changes are posted. We may also send registered users of the Site email notifications notifying such users of any changes to the Privacy Policy. If any change is unacceptable to you, you shall cease using this Site and the Products. If you do not cease using this Site and the Products, you will be deemed to have accepted the change. 
+Due to the Internet's rapidly evolving nature, DeviceVM may need to update this Privacy Policy from time to time. If so, DeviceVM will post its updated Privacy Policy on our Site located at <http://www.splashtop.com/dvmsplashtop/st/privacy.html> so such notice is visible when users log-on for the first time after the changes are posted. We may also send registered users of the Site email notifications notifying such users of any changes to the Privacy Policy. If any change is unacceptable to you, you shall cease using this Site and the Products. If you do not cease using this Site and the Products, you will be deemed to have accepted the change. 
 
 ### Aggregate Information
 
@@ -77,15 +77,19 @@ DeviceVM provides you with the ability to review, correct and delete your contac
 
 **By e-mail:** privacy@splashtop.com 
 
-**By mail:**   
-1054 South De Anza Boulevard, Suite 200 San Jose, California 95129 
+**By mail:**  
+1054 South De Anza Boulevard, Suite 200   
+San Jose, California 95129
 
 **By phone:** 408-861-1088   
   
-If you have any questions regarding this Privacy Policy please contact us via email at: privacy@splashtop.com. Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy. 
+If you have any questions regarding this Privacy Policy please contact us via email at: privacy@splashtop.com
 
-This Privacy Policy was last updated: November 11, 2007. 
+Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy. 
 
-This Privacy Policy is effective as of: October 10, 2007   
+This Privacy Policy was last updated: January 15, 2009.   
+This Privacy Policy is effective as of: October 10, 2007 
+
+Splashtop and the logo are registered trademarks of DeviceVM, Inc. in the U.S. and elsewhere. Patented.  US patent numbers 7,082,526 and 7,441,113.  US and other patents pending.   
   
 |  | 
