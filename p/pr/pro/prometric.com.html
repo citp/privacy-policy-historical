@@ -1,7 +1,631 @@
-<!--The following is the downloaded HTML source of the prometric.com privacy policy that was archived on 2008-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081006061808id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prometric.com privacy policy that was archived on 2009-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624043030id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script language="javascript"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript" language="javascript">
+<!--
+
+//new string method to strip preceding and trailing spaces         
+String.prototype.trim = function () {
+	return this.replace(/^\s*/,"").replace(/\s*$/,"");
+}
+
+function trim(strVar) 
+{
+   var str = new String (strVar);
+   var i;
+   var startIndex;
+   var endIndex;
+   var returnString = "";
+   var lcv = -1;
+   
+   endIndex = str.length-1;
+
+   while ( str.charAt(endIndex) == ' ' && endIndex >= 0 ) 
+   {
+      endIndex--;
+   }
+
+   for ( startIndex = 0; startIndex <= endIndex; startIndex++ ) 
+   {
+      var c = str.charAt(startIndex);
+      if (c != ' ') 
+      {
+         lcv = 1;
+      }
+      if (lcv != -1) 
+      {
+         returnString += c;
+      }
+   }
+   return returnString;
+}
+
+function stripCharsInBag(s, bag) {   
+    var i;
+    var returnString = "";
+    for (i = 0; i < s.length; i++) {   
+        var c = s.charAt(i);
+        if ( bag.indexOf(c) == -1 ) { returnString += c; }
+    }
+    return returnString;
+}
+
+function padDate(thedate) {
+var newDate = "";
+if (thedate.indexOf("-") != -1 && thedate.length != 10) {
+    var firstIndex = thedate.indexOf("-");
+    var secondIndex = thedate.indexOf("-", firstIndex + 1);
+    if (firstIndex == 1) {
+        newDate = "0" + thedate.substr(0,1) + "-";
+        if (secondIndex == 3) {
+            newDate = newDate + "0" + thedate.substr(2,6);
+        } else {
+            newDate = newDate + thedate.substr(2,7);
+        }
+    } else {
+        newDate = thedate.substr(0,2) + "-";
+        if (secondIndex == 4) {
+            newDate = newDate + "0" + thedate.substr(3,6);
+        } else {
+            newDate = thedate;
+        }
+    }
+    return newDate;
+} else if (thedate.indexOf("/") != -1 && thedate.length != 10) {
+    var firstIndex = thedate.indexOf("/");
+    var secondIndex = thedate.indexOf("/", firstIndex + 1);
+    if (firstIndex == 1) {
+        newDate = "0" + thedate.substr(0,1) + "/";
+        if (secondIndex == 3) {
+            newDate = newDate + "0" + thedate.substr(2,6);
+        } else {
+            newDate = newDate + thedate.substr(2,7);
+        }
+    } else {
+        newDate = thedate.substr(0,2) + "/";
+        if (secondIndex == 4) {
+            newDate = newDate + "0" + thedate.substr(3,6);
+        } else {
+            newDate = thedate;
+        }
+    }
+    return newDate;
+}
+return thedate;
+}
+
+function replaceCharWithSpace(ReplChar,s)
+{
+   var i;
+   var returnString = "";
+   var c;
+   
+   for (i = 0; i < s.length; i++) 
+   {
+      c = s.charAt(i);
+      if (c == ReplChar)
+         returnString += ' ';
+      else
+         returnString += c;
+   }
+   return returnString;
+} // replaceCharWithSpace()
+
+// -->
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+
+var phoneDelimiters = "()-. ";
+
+function isDigit(c) {   
+    return ((c >= "0") && (c <= "9"))
+}
+
+function isAlphaChar(c) {   
+    return (((c >= "a") && (c <= "z")) || ((c >= "A") && (c <= "Z")))
+}
+
+function isAlpha(s) {   
+    var i;
+    for (i = 0; i < s.length; i++) { 
+		var c = s.charAt(i);
+        if (!isAlphaChar(c)) return false;
+    }
+    return true;
+}
+
+function isAlphaNumeric(s) {   
+    var i;
+    for (i = 0; i < s.length; i++) { 
+		var c = s.charAt(i);
+        if (!isDigit(c) && !isAlphaChar(c)) return false;
+    }
+    return true;
+}
+
+function isInteger(s) {   
+    var i;
+    for (i = 0; i < s.length; i++) { 
+		var c = s.charAt(i);
+        if (!isDigit(c)) return false;
+    }
+    return true;
+}
+
+function isPhoneNumber(phoneNum) {   
+    var noDelimiters = stripCharsInBag(phoneNum, phoneDelimiters);
+    var i;
+    for (i = 0; i < noDelimiters.length; i++) { 
+		var c = noDelimiters.charAt(i);
+        if (!isDigit(c)) return false;
+    }
+    return true;
+}
+
+function checkEmail(email) {
+	email = email.replace(/\s/g, ""); 
+    if  ( email.length < 7 || ( email.indexOf("@",1) < 1 ) || ( email.indexOf("\.",email.indexOf("@",1)+2) < 1 ) ) {
+		return false;
+    }
+    return true;
+}
+
+
+function isDate(thedate) {
+    var noDelimiters = stripCharsInBag(thedate, dateDelimiters);
+    if  ( ( isInteger(noDelimiters) == false ) || ( noDelimiters == '' ) ) { return false; }
+    if  ( ( noDelimiters.length != 8 )) { return false;	}
+	if ( ( noDelimiters.substr(0,2) > 12 || noDelimiters.substr(0,2) < 1 ) ) { return false; }
+	if ( noDelimiters.substr(2,2) > 31 || noDelimiters.substr(2,2) < 1 ) { return false; }
+	if ( noDelimiters.substr(4) > 2072 || noDelimiters.substr(4) < 1900 ) {	return false; }
+    return true;
+}
+
+function isBeforeTodayOld(dateStr){
+	var currDate = new Date();
+	currDay = currDate.getDate();
+	currMonth = currDate.getMonth() + 1;
+	currYear = currDate.getYear();
+		
+	if(dateStr.length == 7){ // MM/YYYY
+		if(currYear < parseInt(dateStr.substr(3,4))) {
+			return false;
+		} else if(currYear == parseInt(dateStr.substr(3,4))) {
+			if(currMonth < parseInt(dateStr.substr(0,2))) {
+				return false;
+			} else {
+				return true;
+			}
+		} else {
+			return true;
+		}
+	} else { // MM/DD/YYYY
+		if(currYear < parseInt(dateStr.substr(6,4))) {
+			return false;
+		} else if(currYear == parseInt(dateStr.substr(6,4))) {
+			if(currMonth < parseInt(dateStr.substr(0,2))) {
+				return false;
+			} else if(currMonth == parseInt(dateStr.substr(0,2))) {
+				if(currDay < parseInt(dateStr.substr(3,2))) {
+					return false;		
+				} else {
+					return true;
+				}
+			} else {
+				return true;
+			}
+		} else {
+			return true;
+		}
+	}
+}
+
+
+function isBeforeToday(dateStr) 
+{
+var currDate = new Date();
+currDay = currDate.getDate();
+currMonth = currDate.getMonth() + 1;
+currYear = currDate.getYear();
+
+if(dateStr.length == 7) // MM/YYYY
+{
+    if(currYear < parseInt(dateStr.substr(3,4),10)) 
+    {
+        return false;
+    } 
+    else if(currYear == parseInt(dateStr.substr(3,4),10)) 
+    {
+        if(currMonth < parseInt(dateStr.substr(0,2),10)) 
+        {
+            return false;
+        }
+        else 
+        {
+            return true;
+        }
+    }
+    else 
+    {
+        return true;
+    }
+}
+else // MM/DD/YYYY
+{
+    if(currYear < parseInt(dateStr.substr(6,4),10)) 
+    {
+        return false;
+    }
+    else if(currYear == parseInt(dateStr.substr(6,4),10)) 
+    {
+        if(currMonth < parseInt(dateStr.substr(0,2),10)) 
+        {
+            return false;
+        }
+        else if(currMonth == parseInt(dateStr.substr(0,2),10)) 
+        {
+            if(currDay <= parseInt(dateStr.substr(3,2),10)) 
+            {
+            return false;
+            }
+            else 
+            {
+            return true;
+            }
+        }
+        else 
+        {
+            return true;
+        }
+    }
+    else 
+    {
+        return true;
+    }
+}
+}
+
+
+function AdvanceField(Form, CurrField, FieldLength, NextField, EventObj) 
+{
+	if (CurrField.value.length < FieldLength)
+		return;
+
+EventObj = (EventObj) ? EventObj : event;
+var CharCode = 
+    (EventObj.charCode) ? 
+        EventObj.charCode : ((EventObj.which) ? 
+                                EventObj.which : 
+                                EventObj.keyCode);
+if ((CharCode != 9) && (CharCode != 16)) // tab, shift-tab
+   	NextField.focus();
+}
+
+function isCorrectDateFormat(DateString,
+                            DateFormat)
+{
+var arrString;            
+var i;
+var j;
+var blnCorrect = false;
+var blnFailed  = false;
+switch(DateFormat)
+{
+    case 1: //mm/dd/yyyy
+        arrString = DateString.split("/");
+        if (arrString.length != 3)
+            break;
+        
+        if (arrString[0].length > 2)
+            break;
+        for (i=0; i<arrString[0].length; i++)
+        {
+        if (!isDigit(arrString[0].charAt(i)))
+        {
+            blnFailed = true; 
+            break;
+        }
+        }
+        if (blnFailed)
+            break;
+        
+        if (arrString[1].length > 2)
+            break;
+        for (i=0; i<arrString[1].length; i++)
+        {
+        if (!isDigit(arrString[1].charAt(i)))
+        {
+            blnFailed = true; 
+            break;
+        }
+        }
+        if (blnFailed)
+            break;
+
+        if (arrString[2].length !=4)
+            break;
+        for (i=0; i<arrString[1].length; i++)
+        {
+        if (!isDigit(arrString[1].charAt(i)))
+        {
+            blnFailed = true; 
+            break;
+        }
+        }
+        if (blnFailed)
+            break;
+
+        blnCorrect = true;
+        break;
+    default:
+        alert("Unexpected date format encountered");
+        break;
+}
+return blnCorrect;
+}
+
+function isLeapYear(strYear) 
+{
+var blnIsLeapYear = false;
+	if ( !(isNaN(strYear)) ) 
+	{
+		// if modulus of year by 4 is 0, it is a leap year.
+		intYear = new Number(strYear);
+		var intMod = intYear%4;
+		if (intMod == 0) {
+			blnIsLeapYear = true;
+		}
+	}
+return blnIsLeapYear;
+}
+
+
+function getNumberOfDaysInMonth (strMonth, blnIsLeapYear) 
+{
+if ( isNaN (strMonth) ) 
+{
+    return 0;
+}
+else 
+{
+    intMonth = new Number(strMonth);
+
+    if (intMonth == 1) 
+    {
+        return 31;
+    }
+    else if (intMonth == 2) 
+    {
+        if (blnIsLeapYear) 
+        {
+            return 29;
+        }
+        else 
+        {
+            return 28;
+        }
+    }
+    else if (intMonth == 3) 
+    {
+        return 31;
+    }
+    else if (intMonth == 4) 
+    {
+        return 30;
+    }
+    else if (intMonth == 5) 
+    {
+        return 31;
+    }
+    else if (intMonth == 6) 
+    {
+        return 30;
+    }
+    else if (intMonth == 7) 
+    {
+        return 31;
+    }
+    else if (intMonth == 8) 
+    {
+        return 31;
+    }
+    else if (intMonth == 9) 
+    {
+        return 30;
+    }
+    else if (intMonth == 10) 
+    {
+        return 31;
+    }
+    else if (intMonth == 11) 
+    {
+        return 30;
+    }
+    else if (intMonth == 12) 
+    {
+        return 31;
+    }
+    return 0;
+    }
+}
+
+
+function populateMonthDays (strYear, strMonth, objTargetDayField, objDateValueField) 
+{
+setAppointmentDate (strYear, strMonth, "", objDateValueField);
+
+if (strYear != "" && strMonth != "") 
+{
+    var blnIsLeapYear = isLeapYear(strYear);
+    var intDaysInMonth = getNumberOfDaysInMonth (strMonth, blnIsLeapYear);
+
+    var x=0;
+    objTargetDayField.length=0;
+    objTargetDayField.options[x] = new Option("", "", false, false);
+    for (x=1; x <= intDaysInMonth; x++) 
+    {
+        strDayVal = new Number(x).toString();
+        if (x < 10) 
+				strDayVal = "0" + strDayVal; 
+        objTargetDayField.options[x] = new Option(strDayVal, strDayVal, false, false);
+    }
+}
+}
+
+//Same as populateMonthDays except:
+//  - Without setAppointmentDate() call
+//  - Displayed day values do not have leading zeroes
+function populateMonthDays1 (strYear, strMonth, objTargetDayField) 
+{
+if (strYear != "" && strMonth != "") 
+{
+    var blnIsLeapYear = isLeapYear(strYear);
+    var intDaysInMonth = getNumberOfDaysInMonth (strMonth, blnIsLeapYear);
+
+    var x=0;
+    objTargetDayField.length=0;
+    objTargetDayField.options[x] = new Option("", "", false, false);
+    for (x=1; x <= intDaysInMonth; x++) 
+    {
+        strDayVal = new Number(x).toString();
+        strDayDisplay = new Number(x).toString();
+        if (x < 10) 
+				strDayVal = "0" + strDayVal; 
+        objTargetDayField.options[x] = new Option(strDayDisplay, strDayVal, false, false);
+    }
+}
+}
+
+function setAppointmentDate (strYear, strMonth, strDay, objTargetField) 
+{
+objTargetField.value = strMonth + "/" + strDay + "/" + strYear;
+}
+
+
+/*
+    This function doesn't belong in this include file - it has hard-coded fields that are specific to a particular form.
+    When we find the form that is based on it, we can move this to that form's code.
+    
+function AnyAltFieldsHaveValues()
+{
+if ((document.form1.altTcCode.value.length >= 1) ||
+    (document.form1.altCity.value.length >= 1) ||
+    (document.form1.altState.selectedIndex > 0) ||
+    (document.form1.altTownCounty.value.length >= 1) ||
+    (document.form1.altApptDateMonthA.selectedIndex > 0) ||
+    (document.form1.altApptDateDayA.selectedIndex > 0) ||
+		(document.form1.altApptDateYearA.selectedIndex > 0) ||
+		(document.form1.altAmPmA.selectedIndex > 0) ||
+    (document.form1.altApptDateMonthB.selectedIndex > 0) ||
+    (document.form1.altApptDateDayB.selectedIndex > 0) ||
+		(document.form1.altApptDateYearB.selectedIndex > 0) ||
+		(document.form1.altAmPmB.selectedIndex > 0) ||
+		(document.form1.altComments.value.length >= 1))
+		return true;
+return false;
+}
+*/
+
+
+// Make sure that the key pressed was an alphabetic character or space.
+function validateAlphaSpace(displayName)
+{
+	// Get ASCII value of key that user pressed
+	var key = window.event.keyCode;
+
+	// Was key that was pressed an allowed character?
+    if ((key == 32) || (key >= 65 && key <= 90) || (key >= 97 && key <= 122)) { return; }
+	else if ( key == 13) { return; }										//ENTER key
+	else 
+	{ 
+	    alert("Only letters and spaces are allowed in the " + displayName + " field.");
+        window.event.returnValue = null; // otherwise, discard character
+    }
+}
+
+// Make sure that the key pressed was an alphabetic character.
+function validateAlpha(displayName)
+{
+	// Get ASCII value of key that user pressed
+	var key = window.event.keyCode;
+
+	// Was key that was pressed an allowed character?
+    if ((key >= 65 && key <= 90) || (key >= 97 && key <= 122)) { return; }
+	else if ( key == 13) { return; }										//ENTER key
+	else 
+	{ 
+	    alert("Only letters are allowed in the " + displayName + " field.");
+        window.event.returnValue = null; // otherwise, discard character
+    }
+}
+
+// Make sure that the key pressed was a numeric character.
+function validateNumeric(displayName)
+{
+	// Get ASCII value of key that user pressed
+	var key = window.event.keyCode;
+
+	// Was key that was pressed an allowed character?
+    if (key >= 48 && key <= 57) { return; }
+	else if ( key == 13) { return; }										//ENTER key
+	else 
+	{ 
+	    alert("Only numbers are allowed in the " + displayName + " field.");
+        window.event.returnValue = null; // otherwise, discard character
+    }
+}
+
+// Make sure that the key pressed was an alphabetic or numeric character.
+function validateAlphaNumeric(displayName)
+{
+	// Get ASCII value of key that user pressed
+	var key = window.event.keyCode;
+
+	// Was key that was pressed an allowed character?
+    if ((key >= 65 && key <= 90) || (key >= 97 && key <= 122) || (key >= 48 && key <= 57)) { return; }
+	else if ( key == 13) { return; }										//ENTER key
+	else 
+	{ 
+	    alert("Only letters and numbers are allowed in the " + displayName + " field.");
+        window.event.returnValue = null; // otherwise, discard character
+    }
+}
+
+// Returns the value of the checked radio button, or "" if none are checked
+function getRadioValue(radioObj) 
+{
+    var len;
+    var i;
+
+    if (!radioObj)
+        return "";
+
+    len  = radioObj.length;
+    
+    if (len == undefined)
+        if (radioObj.checked)
+            return radioObj.value;
+        else
+            return "";
+            
+    for (i = 0; i < len; i++) 
+    {
+        if (radioObj[i].checked) 
+            return radioObj[i].value;
+    }
+
+    return "";
+}
+
+// -->
+</script>
+
+
+<script language="javascript"> 
 <!--
 //give content authors ability to require demographic information before viewing files
 function NewURL(FileURL)
@@ -15,789 +639,45 @@ function NewURL(FileURL)
 	s = s.replace(/\./,"");
 	return "/ContactUs/DemographicInfo.htm?fURL=" + s;
 }
+
+function isInChannel(posting,channel){
+  // return true if posting is in channel (or sub-channel of channel etc.)
+  // returns a boolean.
+  // NCompass Labs Inc.
+  var matchChannel = posting;
+  childTrue = false;
+  notFinished = true;
+  while (notFinished) {
+    if (matchChannel.guid == channel.guid) {  // use GUID's as a safe comparison (don't use names!)
+       childTrue = true;
+	   notFinished = false;
+	} else if (matchChannel.isrootchannel) { // stop if we've walked up to the root channel
+	   notFinished = false;
+	} else {
+       matchChannel = matchChannel.parent; // step up one level and try again.
+	}
+  }
+  return (childTrue);
+}
+
 // -->
 </script>
 
 
 
-
-
-
-   <title>Prometric</title>
-   <meta name="description" content="Prometric">
-   <meta name="keywords" content="Prometric">
-    <style type="text/css">
-/*
- *********************************************
- *Start of styles added for Prometric.com 3.0.
- *********************************************
-*/
-#main-content-wide {
-	float: left;
-	width: 574px;
-	padding: 0 0 0 17px;
-}
-/*
- *********************************************
- *End of styles added for Prometric.com 3.0.
- *********************************************
-*/
-
-.errorText
-{
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 12px;
-    color: #993333;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.bodyText
-{
-    FONT-SIZE: 11px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.bodyTitlesNoBold
-{
-	 FONT-SIZE: 12px;
-	 COLOR: #003399;
-	 FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.bodyTitles
-{
-   FONT-WEIGHT: bold;
-	FONT-SIZE: 12px;
-	COLOR: #003399;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.bodyTitles_v3 /*with lighter blue text*/
-{
-   FONT-WEIGHT: bold;
-	FONT-SIZE: 12px;
-	COLOR: #3366cc;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.relatedAticlesTitle
-{
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 11px;
-	COLOR: #993333;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.center
-{
-    FONT-SIZE: 9px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.centerhm
-{
-    FONT-SIZE: 8px;
-    COLOR: black;
-	FONT-STYLE: italic;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.center1
-{
-    FONT-SIZE: 8px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.centerHead
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 12px;
-    color: #CCCCCC;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.centerSubHead
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 9px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-
-div.menu a 
-{
-	color: #993333;
-	text-decoration:none;
-	font-size:9px;
-	line-height:11px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	padding: 2px 5px 2px 8px;
-	width: 163px;
-	border-top: 1px solid #999999;
-	border-right: 1px solid #999999;
-	border-bottom: 0px solid #999999;
-	border-left: 0px solid #999999;
-	font-weight: bold;
-	letter-spacing: .05 em;
-	height: 12px;
-}
-
-div.menu a:link 
-{
-color: #993333; 
-}
-
-div.menu a:active 
-{ 
-color: #993333;
-}
-
-div.menu a:visited 
-{
-color: #993333; 
-}
-
-div.menu a:hover 
-{
-color: #ffffff;
-}
-
-div.menu 
-( 
-position:absolute;
-top:0; 
-left:0;
-) 
-
-.ChannelURL
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    color: Red;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-
-.topnav
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    color: #003399;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-
-.topnavbar
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-	COLOR: #FFFFFF;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-
-div.topnavbar a:link 
-{
-	color: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	font-weight: bold;
-	text-decoration: none;
-	padding-right: 3px;
-	padding-left: 3px;
-	margin-right: 3px;
-	margin-left: 3px;
-}
-
-div.topnavbar a:active 
-{
-	color: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	font-weight: bold;
-	padding-right: 3px;
-	padding-left: 3px;
-	margin-right: 3px;
-	margin-left: 3px;
-}
-
-div.topnavbar a:visited 
-{
-	color: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	font-weight: bold;
-	text-decoration: none;
-	padding-right: 3px;
-	padding-left: 3px;
-	margin-right: 3px;
-	margin-left: 3px;
-}
-
-div.topnavbar a:hover 
-{
-	color: #CCCCCC;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	font-weight: bold;
-	text-decoration: none;
-	padding-right: 3px;
-	padding-left: 3px;
-	margin-right: 3px;
-	margin-left: 3px;
-}
-
-.leftnavhead
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    color: #333333;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-.leftnavsubhead
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    color: #993333;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-.leftnavsubhead A
-{
-    color: #003399;
-    TEXT-DECORATION: none
-}
-.leftnavtxt
-{
-    FONT-WEIGHT: normal;
-    FONT-SIZE: 11px;
-    color: #003399;
-    LINE-HEIGHT: 12px;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: none
-}
-.leftnavtxt a:link
-{
-    color: #003399;
-    TEXT-DECORATION: none;
-}
-
-.rightNav
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.rightNavBlue
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 11px;
-    COLOR: #6699CC;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.rightNavBlue A
-{
-    COLOR: #6699CC;
-}
-
-.footer
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 10px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    TEXT-DECORATION: underline
-}
-
-.homeNewsLinks
-{
-	FONT-WEIGHT: normal;
-	FONT-SIZE: 11px; 
-	COLOR: #003399;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.homeNewsDates
-{
-	FONT-SIZE: 11px; 
-	color: #993333;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.homeNewsDatesBlack
-{
-	FONT-WEIGHT: bold;
-	FONT-SIZE: 10px; 
-	COLOR: black; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.pressNewsLinks
-{
-	FONT-WEIGHT: normal;
-	FONT-SIZE: 11px; 
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.pressNewsDates
-{
-	FONT-WEIGHT: normal;
-	FONT-SIZE: 11px; 
-	color: #993333; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.regionDropDown 
-{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	color: #000000;
-	background-color: #FFFFFF;
-}
-
-.breadcrumbs
-{
-    FONT-SIZE: 11px;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-}
-
-h1 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-h2 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-h3 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-h4 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-h5 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-h6 {
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 14px;
-	COLOR: #003399; 
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-/* Commenting out UL & OL so that lists will have the same style as the rest of the body.
-ul 
-{
-	FONT-SIZE: 12px;
-	COLOR: #000000;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-	list-style-position: outside;
-	list-style-type: disc;
-}
-
-ol {
-	FONT-SIZE: 12px;
-	COLOR: #000000;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-	list-style-position: outside;
-}
-*/
-
-.header { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #ffffff; background-color: #993333}
-.inputBox
-{
-color : #000000;
-background : #FFFFFF;
-border-color : #000000;
-border-top : 1px solid;
-border-bottom : 1px solid;
-border-left : 1px solid;
-border-right : 1px solid;
-font-family : Arial, Helvetica, sans-serif; 
-font-size : 10px;
-}
-.NavWhite
-{
-    FONT-WEIGHT: bold;
-    FONT-SIZE: 9pt;
-    COLOR: #ffffff;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
-}
-.NavWhite A
-{
-    COLOR: #ffffff;
-    TEXT-DECORATION: underline
-}
-
-.smallSize
-{
-	font-size: 13px;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-}
-
-.iLoginStartOld
-{
-		FONT-SIZE: 12px;
-		FONT-STYLE: normal;
-		FONT-FAMILY: Arial, Helvetica;
-}
-
-.iLoginStart
-{
-		FONT-SIZE: 11px;
-		FONT-STYLE: normal;
-		FONT-FAMILY: Arial, Helvetica;
-		color: #993333;
-}
-
-.minus1
-{
-	font-size: 13px;
-	FONT-FAMILY: Frutiger 45 Light,Verdana,Tahoma,Arial,Helvetica;
-}
-
-.minus2
-{
-	font-size: 10px;
-	FONT-FAMILY: Frutiger 45 Light,Verdana,Tahoma,Arial,Helvetica;
-}
-
-.mainTextMinus2
-{
-    FONT-SIZE: 10px;
-    COLOR: black;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-}
-
-.redText
-{
-	color: #993333;
-}
-
-.size1
-{
-	font-size: 10px;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;	
-}
-
-.webMail
-{
-	color: #996633;
-	font-size: 13px;
-}
-
-.webMailLarge
-{
-	color: #996633;
-}
-
-.bodyTextMinus2
-{
-    FONT-SIZE: 10px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.bodyTextMinus1
-{
-    FONT-SIZE: 13px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.relatedTitles
-{
-    FONT-WEIGHT: bold;
-	FONT-SIZE: 11px;
-	color: #993333;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif, 
-}
-
-.homeBannerText, .homeBannerText a:link, .homeBannerText a:visited, .homeBannerText a:hover, .homeBannerText a:active 
-{
-	font-size: 10px;
-	color: #ffffff;
-	font-weight: bold;
-	text-decoration:none;
-	font-family: Arial, Helvetica, sans-serif;
-}
-
-/* START LEFT NAV STYLES */
-
-.leftnav_header {
-	font-family: arial, helvetica, sans-serif;
-	font-size:  11px;
-	color:  #999999;
-	font-weight: bold;
-	width: 163px;
-}
-
-.group_header {
-	font-family: arial, helvetica, sans-serif;
-	font-size:  11px;
-	color:  #333333;
-	font-weight: bold;
-	width: 163px;
-}
-
-.segment_header a:link, .segment_header a:visited {
-	font-family: arial, helvetica, sans-serif;
-    font-size: 11px;
-	font-weight:bold;
-	color:  #993333;
-	background-color: #E4E5D7;
-	width: 158px;	
-	text-decoration: none;
-	display:block;
-}
-
-.segment_header a:hover, .segment_header a:active 
-{
-	color:  #FFFFFF;
-	background-color: #993333;
-}
-
-.nav_header a:link, .nav_header a:visited 
-{
-	font-family: arial, helvetica, sans-serif;
-    font-size: 11px;
-	font-weight:bold;
-	color:  #993333;
-	background-color: #E4E5D7;
-	width: 100%;
-	text-decoration: none;
-	display:block;
-}
-
-.nav_header a:hover, .nav_header a:active 
-{
-	color:  #FFFFFF;
-	background-color: #993333;
-}
-
-.segment_header_on, .segment_header_on a:link, .segment_header_on a:visited, .segment_header_on a:hover, .segment_header_on a:active
-{
-	color:  #FFFFFF;
-	background-color: #9E2F36;
-}
-
-.outer 
-{
-	background-color: #999999;
-	width: 164px;
-}
-
-.outer1
-{
-	background-color: #FFFFFF;
-}
-
-.leftnavsubchannel
-{
-	background-color: #FFFFFF;
-	border-right: 1px solid #999999;
-	height: 1px;
-}
-
-.leftnavsubchannel a:link, .leftnavsubchannel a:visited, .leftnavsubchannel a:active 
-{
-	text-decoration: underline;
-	color: #003399;
-}
-
-.leftnavsubchannel a:hover
-{
-	text-decoration: underline;
-	color: #999999;
-}
-
-.spacer 
-{
-	width: 174px;
-	border-right-width: 1px;
-	border-right-style: solid;
-	border-right-color: #999999;
-	line-height: 12px;
-}
-
-.ltNavSel, .ltNavSel a:link, .ltNavSel a:visited, .ltNavSel a:active 
-{
-	font-weight:bold;
-    text-decoration:none;
-	color:  #993333;
-}
-
-/* END LEFT NAV STYLES */
-
-/* START LINKS */
-a {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 11px;
-}
-
-a:link, a:visited {
-    color: #3366cc;
-}
-
-a:hover, a:active {
-    color: #999999; 
-}
-/* END LINKS */
-
-a.topnav, a.topnav:link, a.topnav:visited {
-    color: #003399;
-}
-
-
-/* START BACKGROUND STYLES */
-.bg_tl_hilite_off { background-color: #E4E5D7; }
-.bg_tl_hilite_on { background-color: #993333; }
-
-.bg_9 { background-color: #999999; }
-.bg_f { background-color: #FFFFFF; }
-/* END BACKGROUND STYLES */
-
-.PrometricButton
-{
-		FONT-SIZE: 11px;
-		FONT-STYLE: normal;
-		FONT-FAMILY: Arial, Helvetica;
-		BORDER-STYLE: none; 
-		COLOR: #ffffff; 
-		BACKGROUND-COLOR: #6699cc;
-}
-
-.pressroom_v3 {
-	padding: 10px 0 0 0;
-}
-
-.first_v3 {
-	margin-top: 14px;
-}
-
-.pressroom_v3 .lt-col {
-	float: left;
-	width: 110px;
-	padding-right: 10px;
-}
-
-.pressroom_v3 .rt-col {
-	float: left;
-	width: 451px;
-	padding: 0 0 0 0;
-}
-
-.pressroom_v3 .only-col {
-	float: left;
-	width: 571px;
-	margin-top: 14px;
-}
-
-/*
- *********************************************
- *Start of form styles
- *********************************************
-*/
-.formField
-{
-    FONT-SIZE: 11px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.formSectionLabel
-{
-    FONT-SIZE: 11px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    font-weight:bold;
-}
-
-.formSectionLabelDisabled
-{
-    FONT-SIZE: 11px;
-    COLOR: #C0C0C0;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif;
-    font-weight:bold;
-}
-
-.formFieldDisabled
-{
-    FONT-SIZE: 11px;
-	COLOR: #C0C0C0;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.formLabel
-{
-	FONT-SIZE: 11px; 
-	color: #993333;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.formLabelDisabled
-{
-	FONT-SIZE: 11px; 
-	color: #C0C0C0;
-	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif ; 
-	text-decoration: none
-}
-
-.formFieldMinus2
-{
-    FONT-SIZE: 10px;
-    COLOR: #666666;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-
-.formFieldMinus2Disabled
-{
-    FONT-SIZE: 10px;
-    COLOR: #C0C0C0;
-    FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, Sans-Serif
-}
-/*
- *********************************************
- *End of form styles
- *********************************************
-*/
- 
--->
-</style>
-   <link href="/includes/WBC.css" rel="stylesheet">
-<!--   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> -->
-   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-   <link href="/css/filter.css" rel="stylesheet" type="text/css" media="screen">
-   <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
-   <script src="/js/sifr.js" type="text/javascript"></script>
+<title>Prometric Services: Testing an Assessment</title>
+<meta name="description" content="Prometric," the="" leading="" global="" provider="" of="" comprehensive="" testing="" and="" assessment="" services="">
+<meta name="keywords" content="testing," assessment="">
+<link href="/css/common.css" rel="stylesheet" type="text/css">
+<link href="/css/testtaker.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="css/testtaker_ie.css">
+<![endif]-->
+
+<link href="/css/testtaker_print.css" rel="stylesheet" type="text/css" media="print">
+
+<script type="text/JavaScript" src="/scripts/basic.js"></script>
+<script type="text/JavaScript" src="/scripts/mootools.js"></script>
 
 <!-- Inserted by Content Management Server: BEGIN EmbedTmplHeadHook -->
 
@@ -809,211 +689,124 @@ a.topnav, a.topnav:link, a.topnav:visited {
 <!-- Inserted by Content Management Server: END EmbedTmplHeadHook -->
 </head>
 
-<!--**************************************************************************
-*****************************************************
-*** Microsoft Content Management Server template file
-*****************************************************
-*** All templates should contain everything from the top of this file through 
-*** the START OF MAIN BODY comment, and also everything from the END OF MAIN BODY
-*** comment to the end of the file.  The only things that should be changed 
-*** outside of the main body section are marked with "customize".
-**************************************************************************
--->
-
-
-<!--**************************************************************************
-******************** START OF CUSTOMIZABLE EVENT HANDLERS ********************
-**************************************************************************
--->
-
-<!--**************************************************************************
-********************* END OF CUSTOMIZABLE EVENT HANDLERS *********************
-**************************************************************************
--->
-
 <body>
 <!-- Inserted by Content Management Server: BEGIN EmbedBodyBeginHook -->
 
 <!-- Inserted by Content Management Server: END EmbedBodyBeginHook -->
 
 
-<div id="wrapper">
-
-   
-   <div id="header">
-      <a href="/"><img src="/images/logo_nostar.jpg" alt="Prometric" width="179" height="55" id="logo"></a>
-	   <p class="breadcrumb">
-         <a href="#skipnav">Skip Navigation</a>
-	   </p>
-	   <p class="foreign">
-		   <a target="_blank" href="http://www.prometric-jp.com/"><img src="/images/japan.gif" alt="Prometric Japan" width="22" height="11" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   <a target="_blank" href="http://www.prometric.com.cn/"><img src="/images/china.gif" alt="Prometric China" width="23" height="11" border="0"></a>
-	   </p>
-	   
-	   <div id="search">
-         
-		   <form method="get" action="http://search.prometric.com/search" id="frmGoogle" name="frmGoogle">
-		    <!--11.242.5.224 -->
-			   <fieldset>
-				   <input type="text" name="q">
-				   <input type="image" alt="Go" src="/images/go.gif" class="button" onclick="javascript:document.frmGoogle.submit;">
-        <input type="hidden" name="site" value="PROD">
-        <input type="hidden" name="client" value="basic_frontend" id="Hidden2">
-        <input type="hidden" name="proxystylesheet" value="basic_frontend" id="Hidden3">
-        <input type="hidden" name="output" value="xml_no_dtd" id="Hidden4">
-				   
-			   </fieldset>
-         
-		   </form>
-		   
-   	   <p><a href="http://search.prometric.com/search?access=p&amp;output=xml_no_dtd&amp;site=PROD&amp;client=basic_frontend&amp;proxystylesheet=basic_frontend&amp;proxycustom=&lt;ADVANCED/&gt;">Advanced Search</a></p>
-      </div>
-   </div> <!-- /header -->
+<link href="/css/CMS.css" rel="stylesheet" type="text/css">
 
 
 
-<!-- SiteCatalyst code version: G.6. (first part)
-Copyright 1997-2004 Omniture, Inc. More info available at
-http://www.omniture.com -->
+<div id="skipnavTestTaker"><a href="#begincontent" accesskey="2"><img src="/images/testtaker/spacer.gif" width="0" height="0" alt="Skip to Main Content"></a></div>
+<div id="containerTestTaker">
+    <div id="printheaderTestTaker"><img src="/images/testtaker/print_header.gif" alt=" "></div>
+    <div id="topphototesttaker"><img src="/images/testtaker/spacer.gif" alt="test taker" width="570" height="216"><img src="/images/services/logo_prometric.gif" alt="Prometric" width="402" height="216" border="0" usemap="#Map"><map name="Map" id="Map"><area shape="rect" coords="105,121,359,205" href="/default.htm"><area shape="rect" coords="167,177,168,178" href="/index3.html"></map></div>
+    <div id="taglineTestTaker"><a href="/TestTakers/default.htm"><img src="/images/testtaker/sitetitle.gif" alt="For Test Takers" border="0"></a><img src="/images/testtaker/tagline.gif" alt="The Leading Global Provider of Comprehensive Testing and Assessment Services"></div>
 
-<script language="JavaScript">
-<!--
-
-/* You may give each page an identifying name, server, and channel on the next lines. */
-
-var s_pageName="AboutUs/Privacy/default.htm";
-var s_server= "PROD2";
-var s_channel=""
-var s_pageType=""
-var s_prop1=""
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
-var s_prop6=""
-var s_prop7=""
-var s_prop8=""
-var s_prop9=""
-var s_prop10=""
-
-//-->
-</script>
-
-<!-- Note: Second part of the SiteCatalyst code is found in the MainFooter.asp file. -->
-<!-- End SiteCatalyst code version: G.6. (first part)-->
-
-
-
-<div id="section-nav">
-	<p class="section-name" style="TEXT-INDENT:72px">&nbsp;</p>
-	<ul>
-      <li><a href="/Candidates/">For Test Takers</a></li><li><a href="/CE/">For Pre-Licensing/Continuing Ed</a></li><li><a href="/News/">News &amp; Events</a></li><li><a href="/AboutUs/">About Us</a></li><li class="last"><a href="/ContactUs/">Contact Us</a></li>
-	</ul>
-</div> <!-- section nav -->
-
-
-
-<div id="content-wrapper">
-
-<!--**************************************************************************
-************* START OF CUSTOMIZABLE SECTION FOR ALL PAGES EXCEPT: ************
-*************   Home, State, IT, AP&C
-**************************************************************************
--->
-   <div id="sidebar">
-		<ul id="mainnav"><li><a href="/Why/">Why Use Prometric</a></li><li><a href="/Services/">Services</a></li><li><a href="/Solutions/">Government &amp; Industry Solutions</a></li><li><a href="/CaseStudies/">Clients / Case Studies</a></li><li><a href="/Start/">Getting Started</a></li><li><a href="/Experts/">Expert's Corner</a></li></ul>
-   </div> <!-- /sidebar -->
-
-<!--**************************************************************************
-***************END OF CUSTOMIZABLE SECTION FOR ALL PAGES EXCEPT: *************
-***************   Home, State, IT, AP&C
-**************************************************************************
--->
-
-<!-- <div id="intro" class="blank">  Use blank for breadcrumb without an image--> 
-<div id="intro" class="blank">
-	<!-- BREADCRUMB NAV FOR ALL PAGES -->
-
-
-   <p class="breadcrumb">
-
-				<a href="/Channels/">Home</a>
-				&gt; <a href="/AboutUs/">About Us</a>
-
-				&gt; <a href="/AboutUs/Privacy/">Privacy Policy</a>
-
-   </p>
-
-
+<!--START OF TOP NAV-->
+<div id="taglineshadowTestTaker">
+    <div id="topnavTestTaker">
+        <ul class="nav">
+            <li><div class="navnews"><a href="/TestTakers/News/default.htm"><img src="/images/testtaker/spacer.gif" alt="Candidate News" width="123" height="28" border="0"></a></div></li>
+            <li><div class="navfaqs"><a href="/TestTakers/FAQs/default.htm"><img src="/images/testtaker/spacer.gif" alt="Frequently Asked Questions" width="49" height="28" border="0"></a></div></li>
+            <li><div class="navcontactus"><a href="/TestTakers/ContactUs/email.htm"><img src="/images/testtaker/spacer.gif" alt="Contact Us" width="86" height="28" border="0"></a></div></li>
+        </ul>&nbsp;
+    </div>
 </div>
 
-<!--**************************************************************************
-***************************** START OF MAIN BODY *****************************
- Do not change anything above this section except as specified (search for 
- "customizable") 
-**************************************************************************
--->
-   <a id="skipnav" name="skipnav"></a>
 
-   
+<!--END OF LEFT NAV - START OF CONTENT-->
 
-	<div id="main-content-wide">
-      <div style="padding-top:24px">
-         <p class="bodyTitles_v3">
-            Privacy Policy
-         </p>
-		   <p></p><p>This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.prometric.com (this "Web Site"), and its affiliate Web sites. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.</p>
-<p>Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: <a href="mailto:DataProtectionManager@prometric.com">DataProtectionManager@prometric.com</a>.</p><strong>
-</strong><p><strong>WHAT INFORMATION ABOUT YOU DO WE COLLECT?</strong><br>When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.</p><strong>
-</strong><p><strong>Personally Identifiable Information You Choose to Provide.</strong><br>We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.</p><strong>
-</strong><p><strong>Non-Personally Identifiable Information We Collect.<br></strong>Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.</p>
-<p>You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.<br><br><strong>HOW DO WE USE THE INFORMATION WE COLLECT?</strong><br>We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services.</p>
+<a name="begincontent"></a>
+    <div id="rightcontentTestTaker">
+        <h1>
+        Privacy Policy
+        </h1>
+        <h2></h2>
+        <div id="horizontalline"></div> 
+        <p>This Privacy Statement relates solely to the online information collection and use practices of our Web site located at <a href="http://www.prometric.com">www.prometric.com</a> (this "Web Site"), and its affiliate Web sites. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.</p>
+<p>Prometric adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use and retention of personal information covered by this Privacy Policy.&nbsp; Prometric applies the Safe Harbor principles to all data received internationally and within the United States.&nbsp; Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement.</p>
+<p>If you have any questions or concerns regarding this Privacy Statement, please contact:</p>
+<p>Data Protection Officer<br>Legal Department<br>Prometric Inc.<br>1501 South Clinton Street<br>Baltimore, Maryland 21224<br>USA</p>
+<p>Or email:</p>
+<p><a href="mailto:DataProtectionManager@prometric.com">DataProtectionManager@prometric.com</a></p>
+<p>WHAT INFORMATION ABOUT YOU DO WE COLLECT? </p>
+<p>When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our <strong>Web Site's content or services</strong>.</p>
+<p>Personally Identifiable Information You Choose to Provide.</p>
+<p>We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. Personal information is defined as any information that identifies or can be used to identify the person to whom such information pertains.&nbsp; For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.&nbsp; Prometric collects personal information from test takers for the purpose of registering and scheduling for tests or assessments and in order to administer tests/assessments and process results.&nbsp; Prometric may also collect payment information such as a credit card number in order to pay for tests/assessments you order.</p>
+<p>Non-Personally Identifiable Information We Collect.</p>
+<p>Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the use~s hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.</p>
+<p>You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.</p>
+<p>HOW DO WE USE THE INFORMATION WE COLLECT?</p>
+<p>We use your personally identifiable information to provide you with testing and related services and the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services.&nbsp;&nbsp; If you are a test taker, Prometric will provide your information to the organization that owns the test you are taking (the “Test Sponsor”).&nbsp; Test Sponsor is that organization, who is a client of Prometric, and for who we are administering tests to you as the test taker.&nbsp; Prometric will send your personal information and test results to that Test Sponsor so that the Test Sponsor may provide you with the accreditation, service, license or credential you seek.</p>
 <p>We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.</p>
-<p>We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.</p>
-<p>We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.</p>
-<p>We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.</p><strong>
-</strong><p><strong>HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?</strong><br>If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. I n addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.</p><strong>
-</strong><p><strong>PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET</strong><br>Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.</p><strong>
-</strong><p><strong>DATA SECURITY</strong><br>We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.</p><strong>
-</strong><p><strong>CONSENT TO TRANSFER<br></strong>This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.</p><strong>
-</strong><p><strong>LINKS</strong><br>This Web Site contains links to third party sites as well as to other sites owned and/or operated by Prometric. Please be aware that Prometric is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Prometric sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.</p><p></p>
-      </div>
-	</div> <!-- /main-content -->
+<p><strong>ONWARD TRANSFER</strong></p>
+<p>We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement and seek assurances from such third parties that they will provide the same level of privacy protection as this Privacy Statement requires.&nbsp; We do not transfer information to third parties who are not acting as Prometric’s agent or on Prometric’s behalf. <br>We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.</p>
+<p>We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.</p>
+<p><strong>HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?</strong></p>
+<p>If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. I n addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.&nbsp; If you are a Test Taker you may modify, update or delete such information using our scheduling and registration services or you may modify, update or delete such information through the Test Sponsor for your test.</p>
+<p><strong>PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET</strong></p>
+<p>Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable infonmation. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.</p>
+<p><strong>DATA SECURITY AND INTEGRITY</strong></p>
+<p>We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.</p>
+<p>We take reasonable steps to insure that the data is reliable for its intended use, accurate, complete and current.&nbsp; Further, we take reasonable steps to assure that we do not process personal information in a manner that is inconsistent with the purposes for which we collect the data.</p>
+<p><strong>CONSENT TO TRANSFER</strong></p>
+<p>This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.</p>
+<p><strong>LINKS</strong></p>
+<p>This Web Site contains links to third party sites as well as to other sites owned and/or operated by Prometric. Please be aware that Prometric is not responsible for the privacy practices of any third party sites . Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information.</p>
+<p><strong>COMPLIANCE</strong></p>
+<p>This Statement complements other Prometric policies and procedures.&nbsp; Prometric employs a self-assessment program to verify that the attestations and assertions made about its privacy practices herein are true and that its privacy practices have been implemented appropriately.&nbsp; Individuals who have concerns or complaints regarding our privacy policies or our implementation of them should contact:</p>
+<p>Data Protection Officer<br>Legal Department<br>Prometric Inc.<br>1501 South Clinton Street<br>Baltimore, Maryland 21224<br>USA</p>
+<p>Or email:</p>
+<p><a href="mailto:DataProtectionManager@prometric.com">DataProtectionManager@prometric.com</a></p>
+<p>In addition the American Arbitration Association provides a forum for the independent investigation and resolution of individual complaints and disputes in relation to compliance with this Privacy Policy.</p>
+    </div>
 
-   
-
-
-<!--**************************************************************************
-****************************** END OF MAIN BODY ******************************
-***************** Do not change anything below this section ******************
-**************************************************************************
--->
-</div> <!-- /content-wrapper -->
 
 <div id="footer">
-   <p>
-      <a href="/">Home</a>  |  
-      <a href="/EA/">For Employees</a> | 
-      <a href="/SiteLogin/">Test Site Login</a>  |  
-      <a href="/sitemap.htm">Site Map</a>  |  
-      <a href="/AboutUs/copyright.htm">Copyright Notices</a>  |  
-      <a href="/AboutUs/terms.htm">Terms of Use</a> | 
-      <a href="/AboutUs/privacy.htm">Privacy Policy</a></p>
-</div> <!-- /footer -->
-
-
-<!-- SiteCatalyst code version: G.6. (second part)
-Copyright 1997-2004 Omniture, Inc. More info available at
-http://www.omniture.com -->
-
-<script language="JavaScript" src="/includes/s_code_remote.js"></script><img name="s_i_thproprometric" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thproprometric/1/G.6-PD-R/s22991753669345?[AQB]&amp;ndh=1&amp;t=30/0/2020%2013%3A42%3A15%204%200&amp;pageName=AboutUs/Privacy/default.htm&amp;server=web.archive.org&amp;cc=USD&amp;g=https%3A//web.archive.org/web/20081006061808id_/http%253A//www.prometric.com/AboutUs/privacy.htm&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-
-<!-- Note: First part of the SiteCatalyst code is found in the MainHeader.asp file. -->
-<!-- End SiteCatalyst code version: G.6. (second part)-->
-
-
-
-</div> <!-- /wrapper -->
+	<span class="footerbasic">
+        
+            <a href="/default.htm">Prometric.com </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            
+            <a href="/services/default.htm">Prometric Services </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            
+            <a href="/network/Login.asp">For Network Partners and Test Centers </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            
+	    <a href="/SiteMap.htm">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        
+	    <a href="/Copyright.htm">Copyright Notices</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Terms.htm">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Privacy.htm">Privacy</a>
+	</span>
+    <div id="languagemenu">
+        <ul class="nav">
+            <li><div class="japanese"><a href="http://www.prometric-jp.com/"><img src="/images/home/spacer.gif" alt="Go to Japanese site" width="49" height="24" border="0"></a></div></li>
+            <li><div class="chinese"><a href="http://www.prometric.com.cn/"><img src="/images/home/spacer.gif" alt="Go to Chinese site" width="47" height="24" border="0"></a></div></li>
+        </ul>
+    </div>
+<div id="search">
+    
+        <form method="get" action="http://search.prometric.com/search" id="frmGoogle" name="frmGoogle">
+        
+    <ul class="nav">
+        <li>
+            <input name="q" type="text" size="12">
+            <input type="hidden" name="site" value="PROD">
+            <input type="hidden" name="client" value="basic_frontend" id="Hidden2">
+            <input type="hidden" name="proxystylesheet" value="basic_frontend" id="Hidden3">
+            <input type="hidden" name="output" value="xml_no_dtd" id="Hidden4">
+        </li>
+        <li><div class="buttonsearch"><a href="javascript: document.frmGoogle.submit();"><img src="/images/services/spacer.gif" alt="Search" width="75" height="21" border="0"></a></div></li>
+        <li><div class="advsearch"><a href="http://search.prometric.com/search?access=p&amp;output=xml_no_dtd&amp;site=PROD&amp;client=basic_frontend&amp;proxystylesheet=basic_frontend&amp;proxycustom=&lt;ADVANCED/&gt;"><img src="/images/services/spacer.gif" alt="Advanced Search" border="0"></a></div></li>
+    </ul>
+    
+        </form>
+        
+</div>
+</div>
+</div>
 
 <!-- Inserted by Content Management Server: BEGIN EmbedBodyEndHook -->
 
