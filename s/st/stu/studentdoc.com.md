@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007003150id_/http%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoc.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624034909id_/http%3A//www.studentdoc.com/privacy.html) for the most accurate reproduction.*
 
-# Terms and Conditions of Use for Studentdoc.com
+# Privacy statement for Studentdoc.com
 
 **Medical Resource Group**
 
@@ -8,11 +8,11 @@
 
 **1.   Purpose**.  Medical Resource Group, LLC (MRG or we) which is the owner of Studentdoc.com (website or site) created this _Privacy Statement_ to demonstrate our firm commitment to privacy. The following policy discloses MRG’s information collecting, use, and disclosure practices for our website. 
 
-**2.   Users are Bound by this Agreement**.  Users that access the Site agree to be bound by this [Terms and Conditions of Usage](http://www.studentdoc.com/terms-of-use.html) (Agreement) and by MRG’s Privacy Notice which is incorporated by reference.  Users that do not wish to be bound by this Agreement, may not access or use the Site.    If you do not agree to any of these terms, then please do not use this Site. 
+**2.   Users are Bound by this Agreement**.  Users that access the Site agree to be bound by this [Terms and Conditions of Usage](http://www.studentdoc.com/msrg_info.html) (Agreement) and by MRG’s Privacy Notice which is incorporated by reference.  Users that do not wish to be bound by this Agreement, may not access or use the Site.    If you do not agree to any of these terms, then please do not use this Site. 
 
 **3.   Contact Information.**  If you have any questions regarding our _Privacy Statement_ and policies or your dealings with our website, please contact us as follows **:**
 
-[Privacy@Studentdoc.com](mailto:Perpetualstudent@Studentdoc.com)
+[editor@studentdoc.com](mailto:editor@studentdoc.com)
 
 Or write:
 
@@ -48,7 +48,7 @@ The information provided is used to personalize and enhance the website and serv
 
 **14.   Public Forums.  **We may employ the use of chat rooms, forums, message boards, or news groups in the future. Please remember that any information that is disclosed in these areas becomes public information, and that you should exercise caution when deciding to disclose your Personal Information. Representation information should not be disclosed in public forums.
 
-**15.   E-mail Announcements or Newsletters**.  MRG may from time to time use e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters, either directly related to the MRG or from a third party that may be of interest to our customers. Announcements via email are on an opt-in basis only. By posting material on any of our interactive areas, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe by sending an e-mail to: [unsubscribe@Studentdoc.com](mailto:Perpetualstudent@Studentdoc.com).
+**15.   E-mail Announcements or Newsletters**.  MRG may from time to time use e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters, either directly related to the MRG or from a third party that may be of interest to our customers. Announcements via email are on an opt-in basis only. By posting material on any of our interactive areas, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe by sending an e-mail to: [editor@studentdoc.com](mailto:editor@studentdoc.com).
 
 **16.   Cookies**.  The website may collect certain information about how website visitors and users use the website by using technology called "cookies", which are bits of information that a website transfers to an individual's hard drive for record keeping purposes. Cookies can enhance your online experience by automatically saving your preferences and products selected for purchase. We may use cookies because they help us to provide you a better online experience. The information we collect through the use of cookies does allow MRG to know when and for how long you logged on to the our website, so that we can try to understand how to better serve your needs. Nonetheless, as is the intention with all elements of this Privacy Statement, unless otherwise posted, MRG may share certain personal information, such as your zip code or your usage patterns, name, address, phone number, e-mail address, and other similar information collected on the website with any third party, unless it is unauthorized by law. If you object to the use of cookies for any reason, you may set your internet browser to notify you when you receive a cookie, giving you the opportunity to decide whether to accept it. If, however, you decline to receive cookies, you may have difficulty in using certain features of the website. 
 
@@ -68,9 +68,9 @@ In addition, you may not post any defamatory, obscene, pornographic, slanderous,
 
 Only those employees of MRG who require access to data concerning users are granted access to the data (e.g., marketing product managers, system administrators, customer service representatives, and engineering personnel). Access to user data by employees is further limited by being solely available through a dedicated administrative interface and through use of a restricted user ID and password.  In addition, every employee of MRG is required to sign MRG’s standard Nondisclosure Agreement which requires employees to keep user data confidential. MRG’s internal website security policies are reviewed and revised on a regular basis.
 
-**22.   Data Quality and Access.  **In accordance with the Fair Information Practices defined by the U.S. government, MRG encourages users to correct any inaccuracies in personal information that has been previously provided to the website. You may correct or update your information by sending an e-mail to perpetualstudent@Studentdoc.com.
+**22.   Data Quality and Access.  **In accordance with the Fair Information Practices defined by the U.S. government, MRG encourages users to correct any inaccuracies in personal information that has been previously provided to the website. You may correct or update your information by sending an e-mail to editor@studentdoc.com.
 
-**23.   Feedback.  **Users may provide feedback (e.g., input and suggestions) to MRG regarding the website. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. Users are encouraged to provide their input and suggestions by sending an e-mail to feedback@Studentdoc.com.
+**23.   Feedback.  **Users may provide feedback (e.g., input and suggestions) to MRG regarding the website. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. Users are encouraged to provide their input and suggestions by sending an e-mail to editor@Studentdoc.com.
 
 **24.   International Information.  **Personal data that you have voluntarily entered is delivered electronically to servers located in the United States. By using this website, you consent to the transfer of this data and to MRG’s use of such data as outlined in this policy.
 
@@ -78,9 +78,7 @@ Only those employees of MRG who require access to data concerning users are gran
 
 **26.   Related Links**.  This website may contain links to websites not owned or controlled by MRG.  We are not responsible for the privacy policies or practices of any such website.  MRG’s Privacy Statement is a component of, and incorporated into, our Terms and Conditions of Use.  This privacy statement applies solely to information collected by the MRG.
 
-Last Updated 10-14-06
-
-Copyright 2007 Medical Resource Group, LLC. All rights reserved
+Last Updated 2-15-09
 
   
 
