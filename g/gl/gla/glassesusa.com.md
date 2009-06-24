@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224190602id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624235232id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-Our postal address is 1180 US Highway 46, Suite 215 Parsippany, NJ 07054
+Our postal address is   
+GlassesUSA  
+GlassesUSA 11C Great Meadow Lane, East Hanover, New Jersey, 07936, USA
 
 We can be reached via e-mail at info@glassesUSA.com or you can reach us by telephone at 800-717-2063
 
