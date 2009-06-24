@@ -1,31 +1,33 @@
-> *The following text is extracted and transformed from the radio.gov.pk privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/p_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.gov.pk privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/p_policy.htm) for the most accurate reproduction.*
 
 # Radio Pakistan
 
-**News**  
-_[News](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/pbcnews.htm)_  
-_[ News Broadcasts](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/n_broad.htm)  
-[ Special Audio Events](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/sp_event.htm)_  
 **Profile**  
-[NCAC](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/ncac.htm) _  
-[ Programs](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/programs.htm)  
-[Engineering](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/engr.htm)  
-[Central Productions](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/cpu.htm)  
-[FM Stations](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/fm101.htm)  
-[World Service](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/worldservice.htm)  
-[External Service](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/ext_svc.htm)[  
-](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/fm101.htm) _**Entertainment** _  
-[ Sound Library](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/s_lib.htm)  
-[Download Songs](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/songs.htm) **  
-**_**About PBC _  
-_ ** _[ Policy & Objectives](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/policy.htm)  
-[Chronology of - Progress](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/chronicle.htm)  
-[Radio Stations](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/detail.htm)_  
-_[About Us](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/aboutus.htm)_ **Live Radio** _ **  
+[News](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/pbcnews.htm)  
+[NBS](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/ncac.htm)  
+[ Programs](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/programs.htm)  
+[Engineering](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/engr.htm)  
+[Central Productions](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/cpu.htm)  
+[FM Stations](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/fm101.htm)  
+[World Service](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/worldservice.htm)  
+[External Service](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/ext_svc.htm)[  
+](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/fm101.htm) **Entertainment**  
+[ Sound Library](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/s_lib.htm)  
+[Download Songs](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/songs.htm)  
+[Extracts from Library](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/extracts_cpu.htm)  
+**Events**  
+[ News Broadcasts](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/n_broad.htm)  
+[ Special Audio Event](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/sp_event.htm)  
+**More on PBC Website**  
+[Policy & Objectives](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/policy.htm)  
+[Chronology of-Progress](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/chronicle.htm)  
+[Radio Stations](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/bstations.htm)  
+[Frequency Map](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/images/fre_map.jpg)  
+[About Us](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/aboutus.htm) **Live Radio** _ **  
 **  
-[ ](mms://202.83.163.149/radio) _
+[ ](mms://202.83.163.149:443) _
 
-__[Schedule](https://web.archive.org/web/20081223235143id_/http%3A//www.radio.gov.pk/schedule.htm)_ _
+__[Schedule](https://web.archive.org/web/20090624182644id_/http%3A//www.radio.gov.pk/schedule.htm)_ _
 
 **News Bulletins**
 
