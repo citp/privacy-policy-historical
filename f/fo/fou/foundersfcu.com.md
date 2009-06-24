@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217135148id_/http%3A//www.foundersfcu.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624163250id_/http%3A//foundersfcu.com/privacy.aspx) for the most accurate reproduction.*
 
 # Founders Federal Credit Union
 
@@ -51,6 +51,6 @@ Once we receive your request, we have a reasonable amount of time to stop the di
 
 This notice is provided by Founders Federal Credit Union. If you have completed this form for an account(s) in previous years and said account(s) have been coded as such, it is not necessary to submit a new response form. If new accounts have been established since your initial response and you wish toinclude them in the Opt-Out election, please indicate so on the response form below and fax or mail it to the fax number or address provided.
 
-[**Click Here For Opt Out Form**](https://web.archive.org/web/20081217135148id_/http%3A//www.foundersfcu.com/ContentDocumentHandler.ashx?documentId=1699)
+[**Click Here For Opt Out Form**](https://web.archive.org/web/20090624163250id_/http%3A//foundersfcu.com/ContentDocumentHandler.ashx?documentId=1699)
 
 | 
