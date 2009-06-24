@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218182354id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acnenomore.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624033613id_/http%3A//www.acnenomore.com/privacy.html) for the most accurate reproduction.*
 
 # Acne No More™- Privacy
 
@@ -85,8 +85,8 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. Sitka, Alaska. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Sitka, Alaska. 
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the state of the seller. 
 
 **APPLICABLE LAW**
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of Alaska. 
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the seller. 
