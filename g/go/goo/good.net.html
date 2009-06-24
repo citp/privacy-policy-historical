@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the good.net privacy policy that was archived on 2008-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224105328id_/http%3A//www.good.net/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the good.net privacy policy that was archived on 2009-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624144733id_/http%3A//good.net/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -27,17 +27,40 @@
 					window.location = "/logout";
 				}
 			).html("You must close your browser in order to log out.  Click for more information.");
+
+			$("#dlmgrmode").mouseover(
+				function() {
+					$("#dlmodeinst").css('visibility','visible').html("Download Manager Mode changes the behavior of direct links when your browser or download manager is not logged in.  In this mode, rather than redirecting to the info page for the file, the system requests a username and password (HTTP Basic Authentication).  This gives Good.net account holders who use download managers the opportunity to supply authentication information to their download manager.  This, however, does not work well for non-members, as a direct link to the file will request authentication.  Therefore, we recommend that you do not share with non-members any links that you obtain while in this mode.");
+				}
+			).mouseout(
+				function () {
+					$("#dlmodeinst").css('visibility','hidden');
+				}
+			);
+
+			$("#normalmode").mouseover(
+				function() {
+					$("#dlmodeinst").css('visibility','visible').html("Switching to normal mode will result in the system providing links with behavior friendly to browsers, but unfriendly to download managers.  If you wish to copy and share links with others who may not be Good.net account-holders, you should do so after switching to normal mode.");
+				}
+			).mouseout(
+				function () {
+					$("#dlmodeinst").css('visibility','hidden');
+				}
+			);
+
 		}
 	);
 
 
 </script>
-<div id="logoutinst" style="border-style:solid; border-width:normal; background-color:#FFAAAA; border-color:black; position:absolute; top:30px; right:30px; left:auto; bottom:auto; visibility:hidden;">You must close your browser in order to log out.  Click for more information.</div>
+<div id="logoutinst" style="border-style:solid; background-color:#FFAAAA; border-color:black; position:absolute; top:30px; right:30px; left:auto; bottom:auto; visibility:hidden;">You must close your browser in order to log out.  Click for more information.</div>
+<div id="dlmodeinst" style="border-style:solid; background-color:#FFFFCC; border-color:black; position:absolute; top:45px; right:10%; left:10%; bottom:auto; visibility:hidden;"></div>
 
-<table class="navbar">
+
+<table class="navbar" style="margin-top:0;padding-top:0;">
 <tbody><tr>
  <td align="left">
-  <a href="/">Home</a> &nbsp; <a href="/members/activate">Create&nbsp;Account</a> &nbsp; <a href="/support/">Support</a> &nbsp; <a style="font-weight:bold; color:black; text-decoration:none;" href="/policies/">Policies</a>  &nbsp; <a href="/about/">About&nbsp;Us</a> &nbsp; <a href="/support/">Contact&nbsp;Us</a>
+  <a href="/">Home</a>&nbsp; <a href="/members/activate">Create&nbsp;Account</a>&nbsp; <a href="/support/">Support</a>&nbsp; <a style="font-weight:bold; color:black; text-decoration:none;" href="/policies/">Policies</a>&nbsp; <a href="/about/">About&nbsp;Us</a>&nbsp; <a href="/support/#contact">Contact&nbsp;Us</a>&nbsp;&nbsp;
  </td>
  <td align="right">
  	<a href="https://good.net/policies/privacy.html">Switch to SSL</a> | <a href="https://good.net/members/dashboard">Sign&nbsp;In</a> | <a href="https://good.net/members/activate?reset=1">Forgot&nbsp;Password?</a>
@@ -79,7 +102,7 @@
 <p class="privacypolicy">If you have any questions, concerns or complaints please contact us at <a href="http://good.net/support">http://good.net/support</a>.</p>
 
 <div style="clear:both;text-align:center;margin-right:auto;margin-left:auto;">
-<address><img src="/images/goodnet-logo-small.jpg" alt="good.net"><br>© 2008 Goodnet, LLC | <a href="/policies/privacy.html">Privacy</a> | <a href="/sitemaps/">Sitemaps</a> | <a href="/policies/dmca.html">DMCA</a></address>
+<address><img src="/images/goodnet-logo-small.jpg" width="96" height="22" alt="good.net"><br>© 2009 Goodnet, LLC | <a href="/policies/privacy.html">Privacy</a> | <a href="/sitemap/">Site&nbsp;Map</a> | <a href="/policies/dmca.html">DMCA</a> | <!-- <a href="/affiliate/">Affiliate Program</a> | --> <a href="mailto:abuse@good.net">Report Abuse</a></address>
 </div>
 <!--
 <p> <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a> </p>
