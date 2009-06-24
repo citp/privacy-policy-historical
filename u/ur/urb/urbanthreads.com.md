@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224171046id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624035857id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
 
 # Embroidery Designs at Urban Threads - Privacy Policy
 
@@ -14,7 +14,7 @@
 **Urban Threads** is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.UrbanThreads.com](http://www.urbanthreads.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact  
-Niamh at [support@UrbanThreads.com](mailto:support@UrbanThreads.com) (or use the online Contact Urban Threads form at [www.UrbanThreads.com](http://www.urbanthreads.com/)). 
+Niamh at [support@UrbanThreads.com](mailto:support@UrbanThreads.com) (or use the [online Contact Urban Threads form](http://www.urbanthreads.com/form_contact) at [www.UrbanThreads.com](http://www.urbanthreads.com/)). 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with **Urban Threads** to resolve your concerns.
 
@@ -41,7 +41,7 @@ If your web browser is set to not accept cookies, you may still browse through t
   
 **Third-Party Cookies**
 
-A session cookie from [Authorize.net](http://www.authorize.net/) (the issuer of **Urban Threads's** security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying **Urban Threads's** validation page when shoppers click on the seal.  
+A session cookie from [GoDaddy](http://www.godaddy.com/) (the issuer of **Urban Threads's** security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying **Urban Threads's** validation page when shoppers click on the seal.  
   
 **IP Address**
 
@@ -59,7 +59,7 @@ All shoppers can choose not to receive weekly updates by filling out the Contact
 
 **Urban Threads** uses a shopping basket/order form for shoppers to purchase products. The site collects billing and financial information (credit card numbers and security codes). Financial information that is collected is used only to bill the shopper for the products requested. This information is used only for that purpose, and is never shared with any other person or company. No credit card information is stored in your profile or in any other area of the site.
 
-We use a third party ([Authorize.net](http://www.authorize.net/)) to process credit cards. No credit card information is stored for any use other than processing the transactions. 
+We use a secure third party to process credit cards. No credit card information is stored for any use other than processing the transactions. 
 
 If a shopper wishes to purchase a gift certificate for someone else, I'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code.  
   
@@ -72,7 +72,7 @@ If a shopper wishes to purchase a gift certificate for someone else, I'll ask fo
   
 **Security**
 
-**Urban Threads** has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by [Authorize.net](http://www.authorize.net/). There is a seal of authenticity at **Urban Threads** and the purchasing page. Click on the seals for information about the security certificate.
+**Urban Threads** has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by [GoDaddy](https://seal.godaddy.com/verifySeal?sealID=201954842703dfa46b41011f6e8536b957ce3942843567420). There is a seal of authenticity at **Urban Threads** and the purchasing page. Click on the seals for information about the security certificate.
 
 **Urban Threads** uses SSL encryption to transmit sensitive information.  
   
