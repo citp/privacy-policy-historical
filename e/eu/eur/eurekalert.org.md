@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220170715id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624231733id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # EurekAlert! Disclaimer
 
@@ -82,7 +82,7 @@ on EurekAlert!
 |  |   
 | 
 
-[Subscribe/Advertise](http://www.eurekalert.org/mediakit.php)
+[Subscribe/Sponsor](http://www.eurekalert.org/mediakit.php)
 
 |   
 |  |   
