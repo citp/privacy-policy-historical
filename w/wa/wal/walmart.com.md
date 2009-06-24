@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225162939id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624133623id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
 # Walmart.com: Help: Our Privacy Policy
-
-You are here: [Home Page](https://web.archive.org/) > [Help](https://web.archive.org/help) > [Security & Privacy](https://web.archive.org/catalog/catalog.gsp?cat=538369) > Our Privacy Policy 
-
-| 
 
 What Personal Information We Collect
 
@@ -238,6 +234,4 @@ Changes to the Walmart.com Privacy Policy
 
 This Privacy Policy was last updated on November 10, 2008. Please check our Privacy Policy periodically for changes.
 
-Top of Page  
-  
----|---
+Top of Page
