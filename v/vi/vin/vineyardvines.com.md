@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151909id_/http%3A//www.vineyardvines.com/index.cfm/fuseaction/content.page/nodeID/e305a8f1-4e64-4148-a61f-85cfa2e3386e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145314id_/http%3A//www.vineyardvines.com/customer-care_privacy) for the most accurate reproduction.*
 
 # Vineyard Vines Customer Care Privacy
 
