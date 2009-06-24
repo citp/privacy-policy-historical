@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222210015id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624144821id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Home Based Business
+# Privacy Policy | Home Based Business Opportunity
 
 This site (BestRealIncome.com) is owned and operated by Kiwi2 Limited. Your privacy on the Internet is of the utmost importance to us. At BestRealIncome.com, we want to make your experience online satisfying and safe.
 
