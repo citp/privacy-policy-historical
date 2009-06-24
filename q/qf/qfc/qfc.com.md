@@ -1,23 +1,68 @@
-> *The following text is extracted and transformed from the qfc.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211181021id_/http%3A//www.ereliant.net/policy.cfm%3Ffooter_links%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfc.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624174048id_/http%3A//qfc.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Reliant Energy Communications
+# QFC - Company Information - Privacy Policy
 
-This Privacy Policy describes how Reliant handles information we learn about you from your visit to our website. The information we receive depends on what you do when you visit our site.
+**The Kroger Co. Privacy Policy**
 
-For each visitor to our Web page, we automatically collect the domain name, IP address, and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+The Kroger Co. recognizes that privacy is very important to our customers and we pledge to protect the security and privacy of any personal information customers provide to us. This includes customers' names, addresses, telephone numbers, e-mail addresses, credit card and checking account information, and any information that can be linked to an individual. Kroger collects and securely stores this personal information. 
 
-The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, and to contact consumers for marketing purposes. The information may also be shared with other reputable organizations to help them contact consumers for marketing purposes. Reliant reserves the right to transfer aggregated user information to third parties, provided that no personal information relating to any individual user is disclosed. 
+As part of our commitment to our customers, Kroger has implemented the following comprehensive privacy policy. 
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, and ensure that visitors are not repeatedly sent the same banner ads.
+**Kroger will protect and preserve customer privacy.**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. From time to time, we make the e-mail addresses of our customers and/or those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by emailing us at the address provided above.
+As one of America's largest retail grocery companies, and one of the nation's largest pharmacy operators, Kroger serves millions of customers every day. We value our customers' trust and we promise to safeguard the personal information that they share with us through purchases in our stores and online; the use of shopper cards, personal checks, credit and debit cards; entries in Kroger promotions; and visits to our retail pharmacies and website. 
 
-If you supply us with additional information on-line (your name, postal address, telephone number, or any other identifying information), you may be contacted by us or by other reputable companies (by mail, e-mail, or telephone) with information on new products and services or upcoming events. If you do not wish to receive such communications, you will be provided an opportunity to "opt-out" of such uses at the time you provide the information to us. Or you can e-mail us at any time and we will remove your name from our contact list at your request.
+**Kroger carefully safeguards its customers' pharmacy records.**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+We have special procedures that protect your pharmacy records. For detailed information on our pharmacy privacy policy see the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx), which conforms to the guidelines established under the federal law known as the Health Insurance Portability and Accountability Act (HIPAA). 
 
-This site contains links to other sites. Reliant is not responsible for the privacy practices of such other sites.
+**Kroger is especially sensitive to children's use of the Internet.**
 
-Reliant does not seek to collect personal information about or from minors. However we recognize that special concerns exist whenever children are online. In areas of the Reliant website that may be of particular interest to children, we will use our best efforts not to collect personal information from those identifying themselves as under age 18. Reliant encourages parents to take an active role in their children’s use of the Internet and to spend time online with their children. If you believe that your child has submitted personal information to Reliant inadvertently, we will delete all such information from our database at your request.
+Our website is family friendly. We follow all the guidelines established under the federal law known as the Children's Online Privacy Protection Act. 
 
-(Rev. 11/30/2000)
+Kroger does not seek personal information about children under 13 years of age without permission from their parent or legal guardian. We do not provide personal information about children to any third-party except in accordance with other sections of this privacy policy and the [Pharmacy Privacy Notice](https://web.archive.org/company_information/Pages/pharmacy_privacy_policy.aspx). 
+
+**Customers have control of their personal information.**
+
+Kroger will not release personal information about customers without their permission, except as required by law or legal process (including pursuant to court orders, subpoenas, interrogatories, or similar directive carrying the force of the law), or as set forth below. 
+
+By signing up for a shopper card or using our website, customers agree to allow Kroger to contact them about promotions and other information of interest. Customers who do not wish to be contacted may notify us at any time either in writing, by telephone or in person at one of our stores. Customers on the “do not contact” list will not receive offers for savings by mail/email, will be excluded from Kroger general mailing lists, will not be automatically entered in sweepstakes by using a shopper card, and may not receive certain legal notices. Kroger and its affiliates may use personal customer information to create merchandising and promotional programs tailored around specific purchases, the frequency of store visits, volume of purchases, and other data. Kroger also may use the data it collects to investigate and respond to customer requests, concerns, and claims. 
+
+**We do not sell, trade or rent our customers' personal information to outside companies or marketing firms, except in connection with the sale of a pharmacy, in connection with Kroger's loss prevention efforts, or as described in this privacy policy.**
+
+Kroger may utilize the services of third-party loss prevention specialists to assist it in cases of suspected fraud or theft, and in connection with such loss prevention activities may disclose personal information as we deem necessary or appropriate without restriction. We may share personal customer information with our subsidiaries, affiliates, agents, representatives and trusted business partners for the limited purpose of providing services or information to Kroger or our customers at our direction. We may provide to third-parties certain information that is necessary to fulfill an order you have placed with us, such as providing your name and address to a shipping carrier for delivery or passing on your credit card information to a credit card processor when you pay by credit card. We require our agents and business partners to hold customer information provided by Kroger in strict confidence, except as specifically set forth in this policy. We are not responsible for any additional information that you provide directly to these third-parties. 
+
+The company collects, stores, and uses aggregate data that do not contain personally identifiable information, such as demographic or statistical information. This aggregate data may be shared with and used by third parties to help us and our suppliers better serve and understand our customers. 
+
+**Kroger does not collect personally identifiable information through passive methods that are hidden from the customer, except as described below.**
+
+When you visit our websites, you will be assigned a permanent "cookie" (a small, unique identifier text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit our site so we can enhance and customize your online experience. 
+
+We also collect certain technical information from your computer each time you request a page during a visit to our websites. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to our site and for system administration, security and troubleshooting purposes. We will not sell or rent this information to any third-parties. While cookies are optional and can be disabled on your computer, cookies are required to provide optimal use of our website and to access certain portions of our website, including logging in or purchasing items. 
+
+**We will enforce strict security measures to prevent unauthorized access to, disclosure or use of customers' personal information.**
+
+Employees who violate the Company's customer privacy safeguards are subject to disciplinary action up to and including termination. 
+
+When you enter personal information online, that information is encrypted using a security protection called Secure Sockets Layer so that information you provide to us is encrypted during transmission over the Internet. 
+
+We strive to collect, use and disclose personal information consistent with the laws of the United States as well as the laws of other countries in which we do business, including the laws of the European Union. For detailed information on our privacy policy with respect to the European Union, please see our [E.U. Safe Harbor Privacy Policy](https://web.archive.org/company_information/Pages/eu_safe_harbor_privacy_policy.aspx). 
+
+**We are not responsible for the content or the privacy and security policies and practices of any third-party websites accessible from a link on our websites.**
+
+Throughout our websites we provide links to third-party websites in order to provide additional goods, services or information to our customers. Any personal information that you provide when accessing a third-party website is subject to that third-party’s privacy policy. Kroger is not responsible for information you provide directly to a third-party. 
+
+**We welcome your comments and questions.**
+
+Customers may access their own readily available and easily retrievable purchasing information upon written request. Customers may request changes to their personal information by providing written notification to us by mail, in person at one of our stores, or via the shopper card application link at www.kroger.com. In all cases, customers must furnish proof of identity in order to make changes. 
+
+As changes occur in Kroger's business, technology and the laws that affect this policy, we will continue to review and revise this policy. The use of information we gather now is subject to the privacy policy in effect at the time of use. We may send you periodic notices of changes to our policy, unless you have instructed us not to contact you, but you should check our website periodically to see the current policy. We will attempt to provide our customers with notice of material changes to this policy by regularly scheduled mailings, cash register receipt messages, email or other means. 
+
+If you have any questions or concerns, please contact one of our customer representatives at 1-866-221-4141; e-mail us through the Customer Comment section of our website at [www.kroger.com](http://www.kroger.com/) or write us at: 
+
+> Customer Relations  
+> The Kroger Co.  
+> 1014 Vine Street  
+> Cincinnati, OH 45202
+
+This privacy policy was posted and is effective as of June 30, 2004. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [www.kroger.com](http://www.kroger.com/). 
