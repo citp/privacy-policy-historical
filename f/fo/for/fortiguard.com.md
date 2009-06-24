@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205095312id_/http%3A//www.avfirewalls.com/policies/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624103024id_/http%3A//www.avfirewalls.com/policies/privacy-policy.asp) for the most accurate reproduction.*
 
 # AVFirewalls.com Privacy Policy | AVFirewalls.com
 
