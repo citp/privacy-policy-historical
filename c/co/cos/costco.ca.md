@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.ca privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054048id_/http%3A//www.costco.ca/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.ca privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003649id_/http%3A//www.costco.ca/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-CA) for the most accurate reproduction.*
 
 # Costco PrivacyStatement
 
