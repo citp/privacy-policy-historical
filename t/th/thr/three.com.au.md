@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100630id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115854id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Hutchison 3G Australia Pty Limited (“3”) is committed to maintaining the privacy of your personal information. This Privacy Policy sets out how we deal with personal information.If 3 decides to change this Privacy Policy, we will re-publish it on our website at www.three.com.au.
+Vodafone Hutchison Australia Pty Limited is committed to maintaining the privacy of your personal information. This Privacy Policy sets out how we deal with personal information.If 3 decides to change this Privacy Policy, we will re-publish it on our website at www.three.com.au.
 
 **Is 3 bound by the National Privacy Principles?**  
 As a private sector company, we are bound by the Privacy Act 1988, including the National Privacy Principles. If you use 3 services while roaming in a country outside of Australia, the treatment of your personal information may be subject to laws and regulations applying in that country. 
@@ -50,7 +50,7 @@ Sydney NSW 2001
 Visit our [Complaints and Compliments page here](http://www.three.com.au/cs/ContentServer?pagename=Three/Page/BusinessVideoCallingTemplate&cid=1165929072288&c=Page) for information on how to make a complaint.
 
 **Organisational details  
-Hutchison 3G Australia Pty Limited**
+Vodafone Hutchison Australia Pty Limited**
 
 Registered address:  
 Building A, 207 Pacific Highway  
@@ -73,7 +73,7 @@ Telephone number: 02 9964 4646
 Website: www.three.com.au
 
 3 Privacy Policy, Version 5, September 2008.  
-© Hutchison 3G Australia Pty Limited, 2007  
+© Vodafone Hutchison Australia Pty Limited, 2007  
 >[ Back to 3 Customer Terms & Policies](http://www.three.com.au/cs/ContentServer?pagename=Three%2FPage%2FTermsConditionsPageTemplate&cid=1154931041397&c=Page)
 
   
