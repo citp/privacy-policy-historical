@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218011041id_/http%3A//fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625050654id_/http%3A//www.fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.*
 
-# FXCASH- Your Slice of the Forex Pie.
+# Forex Affiliate Program
 
 ## FXCASH Pricacy Policy
 
@@ -30,8 +30,8 @@ Cookies are small data files that a web site server stores on a computer. They c
 
 We may store two types of cookies on your computer:
 
-  * Session Cookies: These cookies are stored in the Internet browser and are deleted each time the browser is closed. We use session cookies mainly to facilitate site navigation: for example, once you log in to the site, you don't have to log in again during the same session; and to personalize site experience.
-  * Permanent Cookies: These cookies are stored on the hard drive of your computer. They are not exactly "permanent". Each cookie has different "life span" determined by the web site that sets the cookie. We may use permanent cookies to store your username and password (encrypted) on your computer if you opt to have it saved.
+  * Session Cookies: These cookies are stored in the Internetbrowser and are deleted each time the browser is closed.We use session cookies mainly to facilitate sitenavigation: for example, once you log in to the site, youdon't have to log in again during the same session; andto personalize site experience.
+  * Permanent Cookies: These cookies are stored on the harddrive of your computer. They are not exactly "permanent".Each cookie has different "life span" determined by theweb site that sets the cookie. We may use permanentcookies to store your username and password (encrypted)on your computer if you opt to have it saved.
 
 
 
