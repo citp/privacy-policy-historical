@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023309id_/http%3A//www.kidzui.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625233501id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
-# KidZui - The Internet for Kids
-
-### Privacy Policy
+# Privacy Policy - KidZui
 
 Information gathered by KidZui.com - This is KidZui.com’s online privacy Policy This Policy applies only to activities KidZui.com engages in on its website and does not apply to KidZui.com activities that are “offline” or unrelated to the website (such as the KidZui browser).
 
@@ -24,9 +22,9 @@ Other Websites - KidZui.com is not responsible for the privacy policies of websi
 
 Security - KidZui.com takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, KidZui.com cannot guarantee the security of any information that is disclosed online.
 
-Children - KidZui.com does not knowingly collect personal information from children under the age of 13. KidZui.com requests that children under the age of 13 not submit any personal information to the KidZui.com website. Since information regarding children under the age of 13 is not collected, KidZui.com does not knowingly distribute personal information regarding children under the age of 13. For more information, please see our Children’s Privacy Policy.
+Children - KidZui.com does not knowingly collect personal information from children under the age of 13. KidZui.com requests that children under the age of 13 not submit any personal information to the KidZui.com website. Since information regarding children under the age of 13 is not collected, KidZui.com does not knowingly distribute personal information regarding children under the age of 13. For more information, please see the [Children’s Privacy Policy](http://www.coppa.org/comply.htm).
 
-Corrections and updates - If you wish to modify or update any information KidZui.com has received, please contact privacy@kidzui.com.
+Corrections and updates - If you wish to modify or update any information KidZui.com has received, please contact [privacy@kidzui.com](mailto:privacy@kidzui.com).
 
 Modifications of the privacy policy - KidZui.com reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. KidZui.com encourages you to frequently review the privacy policy for any modifications.
 
@@ -34,7 +32,7 @@ Questions? - If you have any additional questions or concerns about this Policy,
 
 Effective: March 19, 2008.
 
-**KidZui Children's Privacy Policy**
+## KidZui Children's Privacy Policy
 
 Types of Information Collected by KidZui.com
 
@@ -44,7 +42,7 @@ KidZui collects a screen name, gender, date of birth and first name from your ch
 
 KidZui.com believes in not collecting more personally identifiable information from children than is necessary to use its services. In addition, users should be aware that sites that are targeted to children 12 or under are prohibited by law from collecting more information than they need.
 
-As a parent, you may request at any time that the information collected about your child be removed from the KidZui.com database. In addition, the service itself permits you to monitor and review information regarding your child, including your child’s Internet activity, what web pages they visit, what pictures and videos they view, rate or share, as well as time spent online, searches and search results, their friends and categories visited. If you are a parent and wish to deactivate your child’s account, please send an email message to support@kidzui.com with your child’s login name and password requesting that the account be cancelled. When we receive your cancellation request, we will permanently delete all information associated with your child’s account.
+As a parent, you may request at any time that the information collected about your child be removed from the KidZui.com database. In addition, the service itself permits you to monitor and review information regarding your child, including your child’s Internet activity, what web pages they visit, what pictures and videos they view, rate or share, as well as time spent online, searches and search results, their friends and categories visited. If you are a parent and wish to deactivate your child’s account, please send an email message to [support@kidzui.com](mailto:support@kidzui.com) with your child’s login name and password requesting that the account be cancelled. When we receive your cancellation request, we will permanently delete all information associated with your child’s account.
 
 Use and disclosure of children’s personally identifiable information – No personally identifiable information from users 12 or under is used for any promotional or marketing purposes whatsoever inside or outside KidZui.com. We ask for your child’s date of birth to validate their age. We track what all children of the same age look at and enjoy online to tailor and improve our services, without sharing personally-identifiable information about any individual child. We do not share personally identifiable information from users 12 or under with any third party. However, when your child visits other websites using the KidZui browser, their information may be collected by third parties in the manner identified on those websites, and their practices may be different from ours. You should review these websites’ privacy policies to ensure you are aware of their privacy practices because KidZui.com is not responsible for these websites’ information practices.
 
@@ -58,12 +56,15 @@ Security - KidZui.com understands the importance of protecting the personally id
 
 Parent access to information - Parents can review information that has been collected about children who are 12 or under in the following 2 methods:
 
-1\. Parents can review their child’s personally identifiable information by logging into the parental account that is created once the registration is approved by going to http://www.KidZui.com. You will need to have your e-mail address that you used to sign-up and the password you selected at sign-up.
+  1. Parents can review their child’s personally identifiable information by logging into the parental account that is created once the registration is approved by going to http://www.KidZui.com. You will need to have your e-mail address that you used to sign-up and the password you selected at sign-up.
+  2. You can also contact KidZui Customer Support to view the information that has been collected from or about your child by sending an email to [support@kidzui.com](mailto:support@kidzui.com). You will need to have your parent login information (e-mail address) as well as your child’s user name and password to enable us to answer your questions.
 
-2\. You can also contact KidZui Customer Support to view the information that has been collected from or about your child by sending an email to support@kidzui.com. You will need to have your parent login information (e-mail address) as well as your child’s user name and password to enable us to answer your questions.
+
+
+Zuigames Copyright - We believe we have taken the necessary steps to obtain licensing for all the games posted. If you believe that your copyrightable work is being displayed on this site and is violating copyright regulations – please advise us immediately at [contact@kidzui.com](mailto:contact@kidzui.com) and the game will be immediately removed.
 
 Modifications to this policy - If KidZui, Inc. makes modifications or changes to this privacy policy, we will notify parents via email.
 
-Questions? - If you have any other questions or require any additional assistance please send an email to support@kidzui.com, or write us at KidZui, Inc., attention CFO, 2448 Historic Decatur Road, Suite 105, San Diego, CA 92106.
+Questions? - If you have any other questions or require any additional assistance please send an email to [support@kidzui.com](mailto:support@kidzui.com), or write us at KidZui, Inc., attention CFO, 2448 Historic Decatur Road, Suite 105, San Diego, CA 92106.
 
 Effective: March 19, 2008
