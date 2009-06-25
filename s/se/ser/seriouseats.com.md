@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218065249id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seriouseats.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003647id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.*
 
 # Serious Eats: Privacy Statement
 
@@ -54,7 +54,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 #### Third Party Advertising
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click [here](http://www.google.com/privacy_ads.html).
+The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. For more information or to opt out of the DART cookie for Google, please click [here](http://www.google.com/privacy_ads.html).
 
 #### Notification of Changes
 
