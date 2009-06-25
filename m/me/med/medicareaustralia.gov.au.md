@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063917id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625030150id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
 
 # Privacy and security - Medicare Australia
 
@@ -170,4 +170,4 @@ Or email: [co.information.release@medicareaustralia.gov.au](mailto:co.informatio
 
 * The use of the term "personal information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained.
 
-Last updated: 11 July, 2008
+Last updated: 22 January, 2009
