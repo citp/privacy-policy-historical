@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013710id_/http%3A//www.bookdirectrooms.com/Privacy-and-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010510id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
 
-# Privacy And Security - BookDirectRooms.com
+# UK Hotels - Cheap Hotels, Bed and Breakfasts and Guest Houses in the UK at BookDirectRooms.com
 
 Booking over the internet is actually safer in many ways than buying in a shop or restaurant. We make sure that we take approriate measures to make booking online as safe as it can be including encrypting your credit card details when they're sent to us. Our security procedures are verified by Verisign.
 
@@ -44,7 +44,7 @@ We do our best to ensure that all information held relating to you is kept up-to
 
 Data populated by you (including your personal details entered in any fields) is your sole responsibility and any changes to any aspect of your personal data should be updated directly by you. 
 
-If you have any questions or comments about our Privacy Policy, please contact us on info@eviivo.com and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( www.informationcommissioner.gov.uk ) and our registration number is Z9012259. 
+If you have any questions or comments about our Privacy Policy, please contact us on info@eviivo.com and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( www.informationcommissioner.gov.uk ) and our registration number is Z1431368. 
 
 ### 7\. Complaints Procedure 
 
@@ -58,6 +58,6 @@ eviivo Limited
 Level 4, Horatio House  
 77 Fulham Palace Road  
 Hammersmith, W6 8JA  
-E-mail: [info@eviivo.com](https://web.archive.org/web/20081216013710id_/http://www.bookdirectrooms.com/mailto:info@eviivo.com)  
+E-mail: [info@eviivo.com](mailto:info@eviivo.com)  
 Telephone: +44 (0)20 8576 5600  
 Fax: +44 (0)20 8576 5601 
