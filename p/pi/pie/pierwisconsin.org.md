@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pierwisconsin.org privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224124434id_/http%3A//www.discoveryworld.org/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pierwisconsin.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625180614id_/http%3A//www.discoveryworld.org/privacyPolicy.php) for the most accurate reproduction.*
 
-# Discovery World at Pier Wisconsin : A large variety of educational, cultural, and environmental experiences in Milwaukee, Wisconsin
+# Privacy Policy : Discovery World at Pier Wisconsin : A large variety of educational, cultural, and environmental experiences in Milwaukee, Wisconsin
 
 Privacy Policy
 
