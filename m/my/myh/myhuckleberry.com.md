@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160258id_/http%3A//www.myhuckleberry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625175546id_/http%3A//www.myhuckleberry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # My Huckleberry
 
@@ -72,6 +72,8 @@ We may offer promotions or content that is sponsored by, or co-branded with, ide
 ### Our use of cookies
 
 MyHuckleberry.com, Inc., website uses cookies, a technology that stores small pieces of information on your hard drive, to personalize content and keep track of your purchases during your visit. Each time your browser visits a website, the site sends all cookies relevant to that website; cookies are used to maintain a session between you and the web server.   
+  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.  
 
 
 ### Commitment to the security of your information
