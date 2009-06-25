@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101193847id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626013633id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Furniture Brokers
 
@@ -59,7 +59,7 @@
   * [Salt Lake City, UT](http://www.gowfb.com/Salt-Lake-City,-UT-c-46.php?cPath=46)
   * [San Antonio, TX](http://www.gowfb.com/San-Antonio,-TX-c-425.php?cPath=425)
   * [San Diego, CA](http://www.gowfb.com/San-Diego,-CA-c-48.php?cPath=48)
-  * [San Francisco / Oakland, CA](http://www.gowfb.com/San-Francisco-and-Oakland,-CA-c-49.php?cPath=49)
+  * [San Francisco / Marin, CA](http://www.gowfb.com/San-Francisco-and-Oakland,-CA-c-49.php?cPath=49)
   * [San Jose, CA](http://www.gowfb.com/San-Jose,-CA-c-415.php?cPath=415)
   * [San Luis Obispo, CA](http://www.gowfb.com/San-Luis-Obispo,-CA-c-50.php?cPath=50)
   * [Santa Barbara, CA](http://www.gowfb.com/Santa-Barbara,-CA-c-47.php?cPath=47)
@@ -76,6 +76,14 @@
   
   | 
 
+## Wholesale Furniture Brokers Policies and Procedures
+
+|  [Shipping](http://www.gowfb.com/shipping.php) |     |  [Privacy](http://www.gowfb.com/privacy.php) |     |  [Returns](http://www.gowfb.com/returnpolicy.php) |     |  [Conditions of Use](http://www.gowfb.com/terms.php) |     |  [Warranty](http://www.gowfb.com/warranty.php)  
+---|---|---|---|---|---|---|---|---  
+[Delivery Options](http://www.gowfb.com/delivery.php) |    |  [Order Processing](http://www.gowfb.com/processing.php) |    |  [Disclaimer](http://www.gowfb.com/disclaimer.php) |    |  [Cancellation](http://www.gowfb.com/cancellation.php) |    |  [Claims](http://www.gowfb.com/claims.php)  
+  
+* * *
+
 Wholesale Furniture Brokers is committed to protecting your privacy and has implemented a verified P3P Privacy Policy. To learn more about P3P Privacy Policies, visit the [FAQ of P3P policies](http://www.w3.org/P3P/p3pfaq).
 
 **What's the difference between Security and Privacy?**  
@@ -88,6 +96,6 @@ You may decline to provide any personal information to Wholesale Furniture Broke
 All of your personal information is removed from the system when you delete your account. Any personally identifying information pertaining to an order is retained only as long as legally required.  
 If you find any discrepancies in your personal information, you can contact us at [Admin@GoWFB.com](mailto:Admin@GoWFB.com) to have the information corrected.
 
-**What happens when I submit an e-mail to WholesaleFurnitureBrokers.com?**  
+**What happens when I submit an e-mail to Wholesale Furniture Brokers?**  
 We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.  
 If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact_us.php).
