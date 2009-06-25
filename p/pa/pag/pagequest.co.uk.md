@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219132026id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626015159id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # pagequest.co.uk - Internet Marketing articles, Article internet Marketing,Free Article, Free article Directory, UK Article Directory, Article Marketing,search engine optimization seo, SEO tactics, Search Engine Optimization, Internet Marketing Article, Article Submission
 
@@ -66,7 +66,7 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-[ ](http://www.getresponse.com/index/cozmo15)
+[](http://banners.moreniche.com/go.php?id=4295&w=150432&s=38)
 
 [Instant Article Wizard](http://tinyurl.com/5cuvpy)  
 Create Top-quality Articles On Any Subject In 15 Minutes Or Less (even If You Dont Know Anything About The Topic)! 
@@ -78,6 +78,4 @@ Quickly publish your articles to hundreds of websites!
 Click here to download the exact software that powers this directory for FREE. Start your own article directory today!  
 
 
-[](http://www.trellian.com/?id=303746)
-
-**[ ](http://www.mylinkguard.com/protect/?site=1978)**
+[](http://www.ppcwebspy.com/downloads/?xc95a3)
