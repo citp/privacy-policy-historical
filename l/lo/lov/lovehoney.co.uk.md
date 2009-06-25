@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203103818id_/http%3A//www.lovehoney.co.uk/help/what-is-your-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625055643id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
-# Help - What is your Privacy Policy? - LoveHoney UK Sex Toys
-
-[Home](http://www.lovehoney.co.uk/) > [Help](http://www.lovehoney.co.uk/help/) > What is your Privacy Policy?
+# What is your Privacy Policy?
 
 We respect your privacy. When you shop with us, we will ask for personal information such as your name, e-mail address, billing address, product selections, credit card or other payment information.
 
@@ -32,7 +30,7 @@ The personal information which we hold will be held securely in accordance with 
 
 We use cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time - if you do not accept cookies you will not be able to use the LoveHoney web site.
 
-Please [contact us](http://www.lovehoney.co.uk/f.cfm) if you have any questions about our Privacy Policy.
+Please [contact us](http://www.lovehoney.co.uk/help/contact-us/) if you have any questions about our Privacy Policy.
 
   
 
