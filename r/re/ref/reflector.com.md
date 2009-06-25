@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024725id_/http%3A//www.reflector.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625234448id_/http%3A//www.reflector.com/customer-service/privacy) for the most accurate reproduction.*
 
 # privacy policy | Reflector.com
 
@@ -17,7 +17,7 @@ STORAGE INFORMATION | CHANGES TO THIS PRIVACY POLICY
 
 Reflector.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Cox Enterprises, Inc., d/b/a The Daily Reflector ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director: 
 
-Priscilla Melchior 
+Bobby Burns 
 
 Group Web Editor 
 
@@ -27,7 +27,7 @@ Cox North Carolina Publications
 
 Greenville, NC 27834 
 
-E-mail: [pmelchior@coxnc.com](mailto:pmelchior@coxnc.com)
+E-mail: [baburns@coxnc.com](mailto:pmelchior@coxnc.com)
 
 **CHILDREN'S PRIVACY**
 
