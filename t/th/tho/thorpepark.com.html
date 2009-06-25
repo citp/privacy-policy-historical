@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thorpepark.com privacy policy that was archived on 2008-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080528192359id_/http%3A//www.thorpepark.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thorpepark.com privacy policy that was archived on 2009-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625083931id_/http%3A//www.thorpepark.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>THORPE PARK Privacy Policy</title>
@@ -11,38 +11,209 @@
 <meta name="Copyright" content="2008 THORPE PARK">
 <meta name="Author" content="www.thorpepark.com">
 <meta name="Rating" content="General">
-
+<script src="/Scripts/jquery-1.2.6.js" type="text/javascript"></script>
 <script src="/Scripts/javascript.js" type="text/javascript"></script>
 <script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src="/Scripts/tab.js" type="text/javascript"></script>
-
+<script src="/Scripts/tp.js" type="text/javascript"></script>
 <script type="text/javascript">
 function begin() {
     MM_preloadImages('/images/more-over.jpg','/images/annualpass-over.jpg','/images/bookonline-over.jpg','/images/map-over.jpg','/images/send-over.jpg');
 }
 </script>
-<link rel="StyleSheet" href="/thorpestyle1.css" type="text/css">
-<link rel="StyleSheet" href="/thorpestyle2.css" type="text/css">
-</head>
-
-<body onload="begin()">
-<div id="wrap">
-<div id="container">
-<div id="flash">
 <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','814','height','339','title','Banner','src','/banner-screamsaver3-static','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/banner-screamsaver3-static' ); //end AC code
-</script><noscript>
-<img src="/images/banner.jpg" alt="" border="0" usemap="#Map" />
- <map name="Map" id="Map">
-        <area shape="rect" coords="614,128,785,305" href="http://www.rialtoplus.com/rialtoplus/ConsumerControlServlet/home/initialise?webId=ThorpePark&amp;.sys.ext.webabacus_id=1197628654632-1" target="_blank" />
-        <area shape="rect" coords="722,40,796,114" href="index.php" alt="index" />
-        <area shape="rect" coords="587,64,722,88" href="http://www.holidayextras.co.uk/theme-parks/parks/thorpe-park.html" target="_blank" alt="accomodation" />
-        <area shape="rect" coords="488,64,582,88" href="corporate-events.php" alt="events" />
-        <area shape="rect" coords="415,64,485,88" href="groups.php" alt="groups" />
-        <area shape="rect" coords="325,64,412,88" href="park-info.php" alt="park info" />
-        <area shape="rect" coords="239,64,321,88" href="rides.php" alt="rides" />
-      </map>
-</noscript></div>
+	  function hide()
+    {
+        var elem = document.getElementById('hideButton');
+		var elem2 = document.getElementById('hideButton2');
+        elem.style.display = 'none';
+		elem2.style.display = 'none';
+    };
+	function toggleLayer( whichLayer )
+{
+  var elem, vis;
+  if( document.getElementById ) // this is the way the standards work
+    elem = document.getElementById( whichLayer );
+  else if( document.all ) // this is the way old msie versions work
+      elem = document.all[whichLayer];
+  else if( document.layers ) // this is the way nn4 works
+    elem = document.layers[whichLayer];
+  vis = elem.style;
+  // if the style.display value is blank we try to figure it out here
+  if(vis.display==''&&elem.offsetWidth!=undefined&&elem.offsetHeight!=undefined)
+    vis.display = (elem.offsetWidth!=0&&elem.offsetHeight!=0)?'block':'none';
+  vis.display = (vis.display==''||vis.display=='block')?'none':'block';
+};
+<!--
+function querySt(ji) {
+	hu = window.location.search.substring(1);
+	gy = hu.split("&");
+	for (i=0;i<gy.length;i++) {
+		ft = gy[i].split("=");
+		if (ft[0] == ji) {
+			return ft[1];
+		}
+	}
+}
+var ride = querySt("ride");
+function replaceContent() {
+	if(ride != undefined){
+		document.getElementById("backbutton").innerHTML = "<a href='interactive-map.html?ride=" + ride + "' onmouseout='MM_swapImgRestore()' onmouseover='MM_swapImage('Image18','','/images/back-over.jpg',1)'><img src='/images/back-up.jpg' alt='Back' name='Image18' width='98' height='56' border='0' id='Image18' /></a>";
+	}
+}
+-->
+</script>
+<link rel="stylesheet" href="/sIFR-screen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/sIFR-print.css" type="text/css" media="print">
+<link rel="StyleSheet" href="thorpestyle1.css" type="text/css">
+<link rel="StyleSheet" href="/thorpestyle2.css" type="text/css">
+<script src="/sifr.js" type="text/javascript"></script>
+		  <style type="text/css" media="screen">
+			
+			.title
+			{
+				font-size:17px;
+				font-family: Arial;
+				font-weight:bold;
+				color:#FF5B15;
+			}
+			
+			.sIFR-active .title
+			{
+				visibility: hidden;
+				font-family: Arial;
+				font-weight:bold;
+				line-height: 1em;
+			}
+			
+					.title2
+			{
+				font-size:17px;
+				font-family: Arial;
+				font-weight:bold;
+				color:#000000;
+			}
+			
+			.sIFR-active .title2
+			{
+				visibility: hidden;
+				font-family: Arial;
+				font-weight:bold;
+				line-height: 1em;
+			}		
+		</style>
+        <script type="text/javascript">
+		var helvetica = {
+				src: 'helvetica.swf'
+			};
+			
+			sIFR.activate(helvetica);
+			
+			sIFR.replace(helvetica, {
+				selector: '.title',
+				css: [
+			'.sIFR-root { color: #FF5B15; font-size: 19px; font-weight: bold;}',
+			'a { text-decoration: none; color: #000000; }',
+			'a:hover { text-decoration: none; color: #000000; }'
+			],
+				wmode: 'transparent'
+			});
+			</script>
+                   <script type="text/javascript">
+		var helvetica = {
+				src: 'helvetica.swf'
+			};
+			
+			sIFR.activate(helvetica);
+			
+			sIFR.replace(helvetica, {
+				selector: '.title2',
+				css: [
+			'.sIFR-root { color: #000000; font-size: 19px; font-weight: bold;}',
+			'a { text-decoration: none; color: #000000; }',
+			'a:hover { text-decoration: none; color: #000000; }'
+			],
+				wmode: 'transparent'
+			});
+			</script>
+            
+            <script type="text/javascript">
+function flip_events2()
+{
+	if( document.getElementById("learnHTML").style.display == "block" ) {
+		document.getElementById("learnHTML").style.display="none";
+	} else {
+		document.getElementById("learnHTML").style.display="block";
+	}
+}
+</script>     
+</head>
+<body onload="begin(); replaceContent(); MM_preloadImages('/images/annualpass-over.jpg','/images/bookonline-over.jpg','/images/map-over.jpg','/images/send-over.jpg','/images/home_over.jpg','/images/bookover.jpg','/images/homeover.jpg','/images/ticketsover.jpg','/images/planvisitover.jpg','/images/ridesover.jpg','/images/groupsover.jpg','/images/accomodationover.jpg','/images/findover.jpg')">
+<div id="wrap">
+  <div id="container">
+<table width="814" border="0" background="/images/backtest.jpg" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="240" rowspan="3" align="right" valign="top"><a href="/index.php"><img src="/images/thorpepark-logo.jpg" alt="Thorpe Park Logo" width="240" height="96" border="0"></a></td>
+<td colspan="2" height="34">&nbsp;</td>
+    <td width="27" rowspan="3"><div align="right"></div></td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2"><table height="62" width="565" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="574" height="20"><div style="padding-right:22px;" align="right"><a style="color:#FFFFFF;" href="/txtonly/index.html">Text only version of this site</a></div></td>
+    </tr>
+  <tr>
+    <td><div id="topNav"><ul><li><a href="/index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/homeover.jpg',1)"><img src="/images/homeup.jpg" alt="Home" name="home" border="0" id="home"></a></li><li><a href="http://www.rialtoplus.com/rialtoplus/ConsumerControlServlet/welcome/selectCategory?webId=ThorpePark&amp;categoryId=EVC0000100000090" target="_blank"><img src="/images/ticketsup.jpg" alt="Buy Tickets" name="Buy Tickets" border="0" id="Buy Tickets"></a><ul><li><p><a href="http://www.rialtoplus.com/rialtoplus/ConsumerControlServlet/welcome/selectCategory?webId=ThorpePark&amp;categoryId=EVC0000100000090" target="_blank">Buy Now Online</a></p></li><li><p><a href="/ticket-prices.php">Ticket Prices</a></p></li><li><p><a href="/ticket-annualpasses.php">Merlin Annual Pass</a></p></li><li><p><a href="/ticket-thorpeparkannualpasses.php">THORPE PARK Annual Pass</a></p></li></ul></li>
+    
+<li><a href="/plan-your-visit.php"><img src="/images/planvisitup.jpg" alt="Plan your Visit" name="Plan your Visit" border="0" id="Plan your Visit"></a><ul><li><p><a href="/opening-times.php">Opening Times</a></p></li><li><p><a href="/getting-here.php">How To Get Here</a></p></li><li><p><a href="/what_coming_up.php">What's Coming Up</a></p></li><li><p><a href="/thorpepark-map.html">Park Map</a></p></li><li><p><a href="/eating-drinking.php">Eating &amp; Drinking</a></p></li><li><p><a href="/shopping.php">Shopping</a></p></li><li><p><a href="/ride-photography.php">Ride Photography</a></p></li><li><p><a href="/facilities.php">Facilities</a></p></li><!--<li><p><a href="zone.php">THORPE PARK Mobile Zone</a></p></li>--></ul></li>
+<li><a href="/rides.php"><img src="/images/ridesup.jpg" alt="Rides" name="Rides" border="0" id="Rides"></a><ul><li><p><a href="/rides-thrillseekers.php">Extreme Thrills</a></p></li><li><p><a href="/rides-families.php">Thrilling &amp; Fun</a></p></li><li><p><a href="/rides-youngfamilies.php">Young Thrills</a></p></li><li><hr></li><li>
+  <p><a href="/rides-saw.php">SAW - The Ride: New for 2009</a></p>
+</li><li><p><a href="/rides-stealth.php">Stealth</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-nemesis.php">Nemesis Inferno</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-colossus.php">Colossus</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-tidalwave.php">Tidal Wave</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-rush.php">Rush</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-samurai.php">Samurai</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-vortex.php">Vortex</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-slammer.php">Slammer</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-detonator.php">Detonator</a></p>
+  </li>
+  <li>
+    <p><a href="/rides-xnwo.php">X:\No Way Out</a></p>
+  </li>
+  <li><p>&nbsp;</p></li><li><hr></li><li><p><a href="/rides-list.php">Full Ride Listing</a></p></li></ul></li><li><a href="/groups.php"><img src="/images/groupsup.jpg" alt="Groups" name="Groups" border="0" id="Groups"></a><ul><li><p><a href="/schools.php">Schools</a></p></li><li><p><a href="/groups-groups.php">Groups</a></p></li><li><p><a href="/stagandhen.php">Stag &amp; Hen Parties</a></p></li><li><p><a href="/corporate-events.php">Corporate</a></p></li></ul></li><li><a href="http://www.thorpebreaks.co.uk/?agent=TBL01" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('accomodation','','/images/accomodationover.jpg',1)"><img src="/images/accomodationup.jpg" alt="Accommodation" name="Accomodation" border="0" id="Accomodation"></a></li>
+    </ul>
+    </div></td>
+    </tr>
+</tbody></table></td>
+    </tr>
+</tbody></table>
+<div id="flash">
+      <script type="text/javascript">
+      //<![CDATA[
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','814','height','241','title','/saw_countdown','src','/banner-saw','quality','high', 'wmode', 'transparent', 'pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/banner-saw' ); //end AC code
+//]]>
+</script>
+      <noscript>
+      <img src="/images/banner_no_flash-saw2.jpg" alt="SAW-The Ride at THOPRE PARK" border="0" />
+      </noscript>
+</div>
 <div id="left">
 <div id="mainpanel">
 <img src="/images/header-privacy.jpg" alt="Privacy Policy" width="571" height="56">
@@ -122,67 +293,122 @@ KT16 8PN<br>
 </p></div>
 <img src="/images/panel-base.jpg" alt="" width="571" height="16"></div>
 <div id="bottomlinks">
-<div id="homecallout"><img src="/images/park-map.gif" alt="Park Map" width="182" height="37"><span class="white">Download the THORPE PARK Map</span><a href="/TP Gatemap Asize Artwork.pdf" target="_blank" onmouseover="MM_swapImage('Image16','','/images/map-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/images/map-up.jpg" alt="download map" name="Image16" width="182" height="78" border="0" id="Image16"></a></div>
+<div style="float:left; display:inline; width:571px;">
+<div id="homecallout"><img src="/images/park-map.gif" alt="Park Map" width="182" height="37"><span class="white">Download a <a href="thorpepark-map.html">map of THORPE PARK</a> and start planning your day out. Which rollercoaster are you heading for first?</span><a href="thorpepark-map.html" onmouseover="MM_swapImage('Image16','','/images/map-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/images/map-up.jpg" alt="Thorpe Park Map" name="Image16" width="182" height="78" border="0" id="Image16"></a></div>
 
-<div id="friend"><img src="/images/newsletter.gif" alt="Newsletter" width="182" height="37"><span class="white">Get the latest THORPE PARK news and offers to your inbox</span>
-  <form action="newsletter.php" method="post" id="form-newsletter">
-  <input name="email_address" type="text" value="email address" class="newsletterField" onfocus="this.value=''">
-  <input type="image" name="sendmsg" id="sendmsg" src="/images/sign-up.jpg" alt="Send" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sendmsg','','/images/sign-over.jpg',1)">
-</form>
+<div id="newsletter2"><img src="/images/join.gif" alt="Join Us" width="182" height="37"><span class="white">Join us on all your favourite social networking sites!</span>
+  <table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>&nbsp;</td>
+    <td><a href="http://www.facebook.com/pages/Chertsey-United-Kingdom/THORPE-PARK-Official/27217550866" target="_blank"><img src="/images/facebook.gif" alt="Facebook" width="30" height="30" border="0"></a></td>
+    <td>&nbsp;</td>
+    <td><a href="http://www.facebook.com/pages/Chertsey-United-Kingdom/THORPE-PARK-Official/27217550866" target="_blank" class="networking">Facebook</a></td>
+    <td width="20">&nbsp;</td>
+    <td><a href="http://www.myspace.com/thorpepark" target="_blank"><img src="/images/myspace.gif" alt="Myspace" width="30" height="30" border="0"></a></td>
+    <td>&nbsp;</td>
+    <td><a href="http://www.myspace.com/thorpepark" target="_blank" class="networking">MySpace</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td height="4"></td>
+    <td width="10"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td width="10"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><a href="http://www.youtube.com/wwwTHORPEPARKcom" target="_top"><img src="/images/youtube.gif" alt="YouTube" width="30" height="30" border="0"></a></td>
+    <td>&nbsp;</td>
+    <td><a href="http://www.youtube.com/wwwTHORPEPARKcom" target="_blank" class="networking">YouTube</a></td>
+    <td>&nbsp;</td>
+    <td><a href="thorpepark/http://www.bebo.com/thorpeparkofficial" target="_blank"><img src="/images/bebo.gif" alt="Bebo" width="30" height="30" border="0"></a></td>
+    <td>&nbsp;</td>
+    <td><a href="http://www.bebo.com/thorpeparkofficial" target="_blank" class="networking">Bebo</a></td>
+  </tr>
+</tbody></table>
 </div>
-
-<div id="friend"><img src="/images/send-friend.gif" alt="Send to a Friend" width="182" height="37"><span class="white">Want to tell someone about THORPE PARK? Send this site onto them</span>
-  <a href="/send_to_friend.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/send-over.jpg',1)"><img src="/images/send-up.jpg" alt="Send It" name="Image17" width="70" height="26" border="0" id="Image17"></a></div>
+<div id="sendtofriend"><img src="/images/send-friend.gif" alt="Send to a Friend" width="182" height="37"><span class="white">Tell your theme park-loving friends about THORPE PARK - the perfect way to kick-start plans for a fun day out!</span>
+  <a href="/send-to-friend.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/send-over.jpg',1)"><img src="/images/send-up.jpg" alt="Send It" name="Image17" width="70" height="26" border="0" id="Image17"></a></div>
 </div>
 </div>
+  </div>
 
 
 <div id="right">
-<div id="thorpebreak"><img src="/images/thorpe-breaks-99.jpg" alt="Thorpe Breaks" width="180" height="198"><img src="/images/thorpe-breaks3.jpg" alt="thorpe breaks"><a href="/thorpebreaks.php?agent=TBL02&amp;position=2" target="_blank" onmouseover="MM_swapImage('Image5','','/images/more-over.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/images/more-up.jpg" alt="Find out more" name="Image5" width="149" height="28" border="0" id="Image5"></a><img src="/images/thorpe-breaks4.jpg" alt="thorpe breaks"><img src="/images/thorpe-breaks2.jpg" alt="thorpe breaks"></div>
-<div id="plantrip"><div id="plantripbase"><img src="/images/plan-your-trip.jpg" alt="Plan Your Trip">
- <ul class="rightNav">
-            <li><a href="http://www.rialtoplus.com/rialtoplus/ConsumerControlServlet/home/initialise?webId=ThorpePark&amp;.sys.ext.webabacus_id=1197628654632-1" target="_blank">Book Tickets</a></li>
-			<li><a href="/ticket-prices.php">Ticket Prices</a></li>
-            <li><a href="/opening-times.php">Opening Times</a></li>
-			<li><a href="/getting-here.php">Getting Here</a></li>
-            <li><a href="/thorpebreaks.php?agent=TBL03&amp;position=3" target="_blank">Thorpe Breaks</a></li>
-			<li><a href="/THORPE PARK 2008 Park Map.pdf" target="_blank">Park Map</a></li>
-          </ul>
+<div id="thorpebreak"><a href="http://www.thorpebreaks.co.uk/?agent=TBL02" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('thorpe breaks','','/images/thorpe-breaks-over.jpg',1)" target="_blank"><img src="/images/thorpe-breaks-up.jpg" alt="Thorpe Breaks" name="thorpe breaks" border="0" id="thorpe breaks"></a><div class="textbreaks">
+  <p>Ticket &amp; Hotel stay from £99 for 2 adults</p>
+  </div></div>
+  <div id="ridesupdatemain"><div id="ridesupdatebase">
+    <img src="/images/finditfast.jpg" alt="Find it Fast" width="180" height="58">
+    <ul class="rightNav">
+<li><a href="http://www.rialtoplus.com/rialtoplus/ConsumerControlServlet/welcome/selectCategory?webId=ThorpePark&amp;categoryId=EVC0000100000090" target="_blank">Buy Now Online</a></li>
+<li><a href="/ticket-prices.php">Ticket Prices</a></li>
+<li><a href="/opening-times.php">Opening Times</a></li>
+<li><a href="/getting-here.php">How to Get Here</a></li>
+<li><a href="/thorpepark-map.html">Park Map</a></li>
+<li><a href="http://www.thorpebreaks.co.uk/?agent=TBL03" target="_blank">Thorpe Breaks</a></li>
+</ul>
+</div>
+</div>
+<div id="plantrip"><div id="plantripbase"><img src="/images/newsletter.jpg" alt="Newsletter" width="180" height="58">
+<div id="plantripbasetext"><p style="margin-bottom:6px; color:#3F3F3F;">Get the latest THORPE PARK news and special offers straight to your inbox!<br>
+<br>
+</p>
+  <p style="color:#3F3F3F; margin-bottom:6px;">Enter your details here:</p>
+  
+  
+   <form action="newsletter.php" method="post" id="form-newsletter">
+  <input name="email_address" type="text" value="Email Address" class="newsletterField" onfocus="this.value=''">
+  <div style="float:left; display:inline; width:40px;" id="hideButton"><a href="javascript:toggleLayer('extendForm');" onclick="hide();" title="Extend Form">
+  <img style="margin-top:10px;" src="/images/go.jpg" alt="Go"></a> </div>
+  <div id="hideButton2" style="float:right; margin-top:10px; width:100px; display:inline;"><a style="margin:0;" href="/privacy.php" target="_blank">View privacy<br> policy</a></div><div id="extendForm"><input name="first_name" type="text" value="First Name" class="newsletterField" onfocus="this.value=''">
+  <input name="surname" type="text" value="Surname" class="newsletterField" onfocus="this.value=''">
+  <input name="postcode" type="text" value="Postcode" class="newsletterField" onfocus="this.value=''">
+  <input name="DOB" type="text" value="DD/MM/YYYY" class="newsletterField" onfocus="this.value=''">
+  <p>
+  <input name="specialOffers" style="margin-top:3px;" type="checkbox" value="yes" class="radio"> I would like to receive news and special offers from THORPE PARK and other Merlin Entertainments Group Attractions.<br></p>
+  <div style="float:left; display:inline; width:40px;"><input type="image" name="sendmsg" id="sendmsg" src="/images/go.jpg" alt="Send"></div>
+  <div style="float:right; margin-left:5px; width:90px; display:inline;"><a style="margin:0;" href="/privacy.php" target="_blank">View privacy<br> policy</a></div>
+  
+  
+  
+  
+  </div></form></div>
 </div></div>
-
-<div id="ridesupdate"><div id="ridesupdatebase"><img src="/images/rides-unavailable.jpg" alt="Rides Currently available during Ultimate Thrill Chill" width="180" height="74">
+<div id="ridesupdate4"><div id="ridesupdatebase4"><img src="/images/rides-unavailable.jpg" alt="Rides Currently Unavailable" width="180" height="70">
 
 <ul class="rides">
 
-<li>Rush</li>
+<li>Loggers Leap</li>
 
-<li>Slammer</li>
+<li>Neptune's Beach</li>
 
-<li>Stealth</li>
+<li>Wet Wet Wet</li>
 
 </ul>
 
 </div></div>
-
 </div>
 
-
-<div id="bottomnav"><a href="/sitemap.php">Site Map</a> | <a href="/terms.php">Terms</a> | <a href="/privacy.php">Privacy</a> | <a href="/accessibility.php">Accessibility</a> | <a href="/press.php">Press</a> | <a href="/charities.php">Charities</a> | <a href="http://www.thorpepark-jobs.com" target="_blank">Recruitment</a> | <a href="/students.php">Student Pack</a> | <a href="/contact.php">Contact Us</a> | <a href="/disabled.php">Disabled Guide</a> | <a href="/merlin-group.php">Merlin Group</a><br>
-</div>
+<div id="bottomnav"><a href="/sitemap.php">Site Map</a> | <a href="/terms.php">Terms</a> | <a href="/privacy.php">Privacy</a> | <a href="/accessibility.php">Accessibility</a> | <a href="/press.php">Press</a> | <a href="/charities.php">Charities</a> | <a href="http://www.thorpepark-jobs.com" target="_blank">Recruitment</a> | <a href="/students.php">Student Pack</a> | <a href="/contact.php">Contact Us</a> | <a href="/disabled.php">Disabled Guide</a> | <a href="/merlin-group.php">Merlin Group</a></div>
 <div id="borderBottom">
 </div>
 
-</div><div style="float:left; margin:0; padding:0;"><span class="ww">site by <a href="http://www.wickedweb.co.uk" target="_blank">WICKEDWEB</a></span></div>
+</div><div style="float:left; margin:0; padding:0;"><a href="http://www.wickedweb.co.uk" title="Digital Marketing Agency" target="_blank" class="ww">Digital Marketing Agency</a> - <a href="http://www.wickedweb.co.uk/what-we-do.html" title="Wickedweb - Digital Marketing Agency" target="_blank" class="ww">Wickedweb</a><br>
+<br>
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4488452-1");
+var pageTracker = _gat._getTracker("UA-3398288-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
 
-</body></html>
+</div></body></html>
