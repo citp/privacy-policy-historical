@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickable.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051943id_/http%3A//www.clickable.com/Corp/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickable.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625090643id_/http%3A//www.clickable.com/Corp/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Clickable.com
 
@@ -72,7 +72,7 @@ For Customers outside the United States, please note that any Data or personally
 
 ####  Additional Information: 
 
-Questions regarding this Statement, the practices of this Site, or the Service should be directed to Clickable's Security Administrator by e-mailing such questions to support@Clickable.com or by regular mail addressed to Clickable, Inc., Attn: Security Administrator, 36 East 20th Street, Suite 300, New York, New York 10003
+Questions regarding this Statement, the practices of this Site, or the Service should be directed to Clickable's Security Administrator by e-mailing such questions to support@Clickable.com or by regular mail addressed to Clickable, Inc., Attn: Security Administrator, 7th West 22nd Street, Suite 3 New York, New York 10010.
 
   
 
