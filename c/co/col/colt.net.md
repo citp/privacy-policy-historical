@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161839id_/http%3A//www.colt.net/UK-en/PrivacyPolicy/index.htm%3FTemplate%3DCN_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003324id_/http%3A//www.colt.net/UK-en/PrivacyPolicy/index.htm%3FTemplate%3DCN_Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You are in:  [Home](https://web.archive.org/web/20081219161839id_/http%3A//www.colt.net/UK-en/PrivacyPolicy/ssNODELINK/45) >  Privacy Policy
+You are in:  [Home](https://web.archive.org/web/20090626003324id_/http%3A//www.colt.net/UK-en/PrivacyPolicy/ssNODELINK/45) >  Privacy Policy
 
 1\. COLT takes the privacy of its Website users seriously. Below we set out our privacy policy, which governs the way in which we process any personal information that you provide to us. If we decide to change our privacy policy for the Website, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
 
