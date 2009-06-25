@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006082250id_/http%3A//www.owners.com/About/PrivacyStatement.aspx%3Floc%3Dhp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011829id_/http%3A//www.owners.com/About/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Owners.com® - Privacy Policy and Security Statement
+# Homes For Sale By Owner - Search, Buy, Sell - Owners.com®
+
+## Privacy Policy and Security Statement
 
 Owners.com is dedicated to safeguarding your privacy online. The following explains how your information will be treated as you make use of our products and services. 
 
@@ -30,4 +32,10 @@ Owners.com and its subsidiaries will not disclose any of your personal informati
 
 You, as a user, can change or edit your personal information and listing information at any time. This procedure is accomplished by choosing to edit your account information once logged in on our Web site. If you have any difficulties with, or questions about the modification of personal information or listing information, please contact [help@owners.com](mailto:help@owners.com). 
 
-Thank you for taking the time to educate yourself about the ways in which Owners.com collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](http://www.owners.com/About/Disclosure.aspx) and our [Copyright and Trademark Notices](http://www.owners.com/About/Copyright.aspx) since they provide more information about Owners.com policies. If you have any questions about our privacy policy and security statement, please email [help@owners.com](mailto:help@owners.com). Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. Owners.com reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link. 
+You may elect to opt-out of receiving email communications from us by following this link: [Unsubscribe / Opt-out](https://web.archive.org/web/20090626011829id_/http%3A//www.owners.com/About/Unsubscribe.aspx). 
+
+By adding your email address to our opt-out list, you will not receive any further communication from us (such as newsletters, special offers, or listing email alerts) after 7-10 days (as some emails may already be process). Please note that if you currently have an active home listing, you may still receive email communications from buyers interested in your listing. 
+
+Thank you for taking the time to educate yourself about the ways in which Owners.com collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](https://web.archive.org/web/20090626011829id_/http%3A//www.owners.com/About/Disclosure.aspx)  and our [Copyright and Trademark Notices](https://web.archive.org/web/20090626011829id_/http%3A//www.owners.com/About/Copyright.aspx)  since they provide more information about Owners.com policies. If you have any questions about our privacy policy and security statement, please email [help@owners.com](mailto:help@owners.com). 
+
+Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. Owners.com reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link. 
