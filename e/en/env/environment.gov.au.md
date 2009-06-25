@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013925id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625103054id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
 # Department of the Environment, Water, Heritage and the Arts - Privacy Statement
 
@@ -44,7 +44,7 @@ We also follow the _Guidelines for Federal and ACT Government websites_ issued b
 
 ## Contact us
 
-If you have any privacy concerns with the Department of the Environment, Water, Heritage and the Arts web site, please contact the Privacy Contact Officer - privacy@deh.gov.au:
+If you have any privacy concerns with the Department of the Environment, Water, Heritage and the Arts web site, please contact the Privacy Contact Officer:
 
 Privacy Contact Officer  
 Australian Government Department of the Environment, Water, Heritage and the Arts  
@@ -53,11 +53,11 @@ Canberra ACT 2601
 Australia  
 phone: +61 2 6274 1578  
 fax: +61 2 6274 1587  
-privacy@deh.gov.au
+privacy@environment.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20081216013925id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20090625103054id_/http%3A//www.environment.gov.au/about/privacyfull.html).
 
 ## Key
 
