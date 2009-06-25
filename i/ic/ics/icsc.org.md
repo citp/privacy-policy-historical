@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217114841id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011647id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We sometimes use the non-personally identifiable information that we collect to 
 
 We may disclose any User's personally identifiable information in response to a law enforcement agency's request or legal process, for example, in response to a court order or a subpoena. 
 
-Agents and contractors of ICSC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for ICSC. 
+Agents and contractors of ICSC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for ICSC. ICSC members and non-members who have access to personally identifiable information of members and other individuals through the use of the ICSC website are also required to protect this information in a manner that is consistent with this Privacy Notice, and are required to use such information strictly for business related purposes. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Please see section 5 of the Terms & Conditions. 
 
