@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161930id_/http%3A//xmission.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625175538id_/http%3A//xmission.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | XMission Internet
 
@@ -44,7 +44,7 @@ If a user's personally identifiable information changes (such as your zip code),
 
 ## Notification of Changes
 
-If we ever need to change our privacy policy, we will post those changes on this page. We will also send an email announcement so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Rest assured that XMission has no intention of disclosing, or selling, customer information in the future.
+If we ever need to change our privacy policy, we will post those changes on this page. We will also send an email announcement so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Rest assured that XMission has no intention of disclosing or selling customer information in the future.
 
 ## Contacting XMission
 
