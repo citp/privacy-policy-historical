@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153640id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003304id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
-[](https://www.usacycling.org/openAds/adclick.php?bannerid=20&zoneid=10&source=&dest=http%3A%2F%2Fwww.velowear.com%2Fusacdf.aspx)
+[](http://www.usacycling.org/openx/www/delivery/ck.php?oaparams=2__bannerid=20__zoneid=10__cb=069446f5a1__oadest=http://www.velowear.com/usacdf.aspx)
 
 CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
@@ -53,6 +53,6 @@ Parents may opt to delete or remove personal information obtained on-line relati
 
 Parents are advised that should they opt to delete or remove personal information obtained on-line pertaining to their child, all licenses held by the child may be expired as personal information is integral to USA Cycling's licensing program. In addition, information relating to your child will be removed from all e-mail or mailing lists including, but not limited to, lists relating to racing opportunities, your child's ranking in the Results and Ranking program, and Member Benefits available to your child.
 
-Parents are advised the use of a credit card in an on-line transaction to purchase a junior license constitutes implied consent for USAC to collect and retain personal information regarding your child.
+**Parents are advised the use of a credit card in an on-line transaction to purchase a junior license constitutes implied consent for USAC to collect and retain personal information regarding your child.**
 
 This Article Published 2007-09-13 13:38:12 For more information contact: [membership@usacycling.org](mailto:membership@usacycling.org)
