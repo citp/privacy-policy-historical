@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121112524id_/http%3A//www.chelseagreen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001717id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.*
 
-# Chelsea Green Publishing
+# Chelsea Green: The Politics and Practice of Sustainable Living
 
-**SECURITY AND ONLINE PRIVACY:**
+We, at Chelsea Green Publishing, value your patronage and personal privacy. We respect the private nature of the information you provide to us and accept the responsibility of protecting that information. This privacy policy may be changed at any time, and we therefore encourage you to revisit this page periodically. 
 
-This statement discloses the privacy practice for the Web site of Chelsea Green, Inc, hereafter referred to as Chelsea Green.
+### Collected Information
 
-It is our intent to give you as much control as possible over your privacy in regard to your personal information and the use we make of it in the course of our business. In general, you can visit Chelsea Green on the Web without telling us who you are or revealing any information about yourself.
+Chelsea Green collects information in four ways: 
 
-**WHAT INFORMATION WE GATHER AND TRACK**  
-There are times when we may need information from you, particularly when you contact us with the intent of receiving additional information. Chelsea Green will ask you to provide certain information about yourself by filling out and submitting an online form.
+  1. during the site registration process, 
+  2. during the checkout process, 
+  3. during the newsletter subscription process, 
+  4. and during feedback/contact process. 
 
-When you submit information to us, we endeavor to protect such information against unauthorized disclosures by using secure technologies. Your information is strictly for Chelsea Green use only, and we do not share it with other companies or third parties, unless compelled by law or court order to do so.
 
-**WHAT WE DO WITH THE INFORMATION WE GATHER AND TRACK**  
-The information gathered from the forms you fill out is used in one of three ways:
 
-* to provide you with information about our products, services, news and events  
-* to gather broad demographic information about user trends.  
-* to complete sales transactions and deliver your goods to you
+In addition to the personal information we collect during the processes above (full name, address, telephone number, email, etc.), we also collect non-personal information that can, in no way, identify you personally. This non-personal information includes technical information such as the version of your web browser, your computer's operating system, and the name and location of your internet service provider. 
 
-We will not sell your personally identifiable information to an unrelated third party. We may, however, share such information with our partners and advertisers, or transfer such information to a purchaser of our business assets.
+### Uses for the Information
 
-Environment variables we gather include time, type of Web browser being used and the operating system/platform. This information is used only for broad demographic information. This information is used by Chelsea Green in identifying broad demographic trends and may be used to provide information tailored to your interests.
+Chelsea Green Publishing will never sell or rent your information to third parties. The email address you provide to Chelsea Green Publishing may be used by Chelsea Green Publishing for any reason including, but not limited to, editorial purposes, site communication, and notification of changes to our site. We will not sell or rent your email address to anyone for any reason. At times it is necessary for Chelsea Green Publishing to furnish your personal information to our third party service partners, such as when conducting an e-commerce transaction or sending our e-newsletters. 
 
-Additionally, the Chelsea Green site may contain links to other Web sites; however, Chelsea Green is not responsible for the privacy practices or the content of such Web sites.
+During an online order, it is necessary for Chelsea Green Publishing to send your name, address, telephone number, and credit information to Authorize.net for payment processing. This transaction is conducted securely and in accordance with Authorize.net's specified procedures. The information we send to Authorize.net is protected by Authorize.net's own privacy policy. Under no circumstances, will Authorize.net share your information with any third-party. Please review their policy here: <http://www.authorize.net/company/privacy/>
 
-**CONTACTING US ABOUT PRIVACY**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: jnorth@chelseagreen.com
+We use ConstantContact to send out our various newsletters. It is necessary for Chelsea Green Publishing to share your email address with ConstantContact. If you are subscribed to a newsletter, you will always be given the opportunity to unsubscribe immediately and you will not receive any newsletters from that point forward. Under no circumstances will ConstantContact share your personal information with any third-party. Please review their privacy policy here: <http://www.constantcontact.com/privacy_guarantee.jsp>
+
+Non-personally identifiable information (as identified above) may be shared with our advertisers or marketing partners. Your personally identifiable information will never be shared with them.   
+  
+---
