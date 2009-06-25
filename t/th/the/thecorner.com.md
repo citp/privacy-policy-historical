@@ -1,149 +1,127 @@
-> *The following text is extracted and transformed from the thecorner.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecorner.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002324id_/http%3A//www.thecorner.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# THECORNER.COM - Legal Area
 
-#### Find Answers To Your Questions:
+|  |   
+Welcome to the United States section of THECORNER.COM (the “US Site”).  The US Site is operated, under license, by YOOX Corporation, a Delaware corporation having an address at 80 River Street, Hoboken, New Jersey, 07030 ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., the owner of the US Site, an Italian company having an address at Via Nannetti, 1, 40069 Zola Predosa – Bologna, Italy ("YOOX Italy").  
+Please read our privacy policy (the “Privacy Policy”) carefully. This Privacy Policy applies when you visit and surf the US Site regardless of whether you purchase products or not, when you register with the US Site and when you use our services. By using the US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the US Site.  
+Since personal data of users and customers of the US Site may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). Pursuant to the Italian Data Protection Code, YOOX USA is the controller of personal data of users and customers of the US Site. As the controller of personal data, YOOX USA independently determines the purposes and means by which your personal data is processed, including all security measures. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX Italy as its data protection representative in Italy. As our data protection representative in Italy, YOOX Italy independently ensures that personal data is processed in Italy in a correct and lawful manner and in accordance with good practice.  
+**1.** |   | **OUR POLICY**  
+|   | Everyone has the right to the protection of his/her personal data.  
+YOOX USA respects its users' right to be informed about the collection and processing of their personal data.  
+The US Site has been designed in such a way that the use of your personal data will be minimal and will not exceed the original purpose for which your personal data was collected and/or processed. In particular, we do not disclose your identity when the purpose for which your personal data is being processed can be achieved by using anonymous aggregate information.   
+This Privacy Policy is intended to provide you with all the information you need in order to understand our privacy practices. However, if you have any questions regarding our privacy practices and this Privacy Policy, please contact us at [privacy@thecorner.com](mailto:privacy@thecorner.com).  
+We do not sell products or services for purchase by children, the US Site is not directed at, nor do we knowingly collect personally identifiable information from children under the age of 13, although we may sell children’s products or services for purchase by adults. If you are under 18, you may use the US Site only with the involvement of a parent or guardian.  
+**2.** |   | **WHO PROCESSES YOUR PERSONAL DATA**  
+|   | For organizational and operational purposes only, YOOX USA has appointed certain entities that will also process personal data of users and customers of the US Site. Such purposes are strictly connected to the performance of services provided on the US Site by YOOX USA, including the sale of products.  
+The above-mentioned data processors have been chosen by YOOX USA because of their experience in processing personal data, their sufficient guarantees with respect to compliance with applicable laws and regulations, including the Italian Data Protection Code (Legislative Decree no. 196 of 30 June 2003) as well as the technical security measures adopted by them in connection with the processing of personal data. In processing personal data of the users of the US Site, our processors will act only in accordance with instructions provided by YOOX USA. We regularly verify that our processors comply with our instructions and that they provide sufficient guarantees with respect to their compliance with applicable laws and regulations.   
+The following is a list of the companies primarily involved in the processing of personal data of users and customers of the US Site: 
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
-
-### Privacy Policy
-
-**Why A Privacy Policy?**  
-
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
- **This Privacy Policy protects your privacy by:**
-
- **Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
-
-
-
-**Empowering you to choose:**
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
-
-
-
-**Assuring you that Network Solutions:**
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
-
-
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+  * [United Parcel Service S.p.A.("UPS")](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the US Site; 
+  * BT Italia S.p.A. We provide I.Net, by electronic means, with personal data contained in registration or order forms for purposes relevant to the housing of our servers; 
+  * [Prestige International ("Prestige")](http://english.prestigein.com/). We provide Prestige, by electronic means, with customers' contact information for purposes connected to call center and customer care services available to the users and customers of the US Site; 
+  * [ND Logistic Italia S.p.A ("ND")](http://www.norbert-dentressangle.com/). We provide ND Logistic Italia S.p.A. with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site. 
+  * [Distribution Solution Inc. ("DSI")](http://www.dsi3pl.com/locations.asp). We provide DSI with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site. 
+  * Paymentech Inc. ("Paymentech"). We provide Paymentech with customers' personal contact information for the performance of electronic payment services through credit/debit cards for products sold on the US Site. 
+  * Global Collect BV . ("Global Collect"). We provide Global Collect with customers' personal contact information for the performance of electronic payment services through credit/debit cards for products sold on the US Site. 
+  * [YOOX Italy](http://www.yoox.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX USA and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services.
 
   
-**Third Party Advertising and Cookies**
+  
+|   | Please contact us at [privacy@thecorner.com](mailto:privacy@thecorner.com) if you would like to receive a full list of our data processors.  
+**3.** |   | **HOW DO WE USE PERSONAL DATA AND FOR WHAT PURPOSES**  
+|   | Your personal data is collected and processed by YOOX USA for purposes which are strictly connected to the use of the US Site, its services and the purchase of products on the US Site. However, your personal data may also be used for other processing operations within the limits of such purposes.   
+In particular, your personal data may be processed for the following purposes: 
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+  * when you register with the US Site we collect your personal data (for example, your personal information, password, e-mail address, gender, favorite designer) through the relevant registration form (My Corner) in order to provide you with services in reserved access areas of the US Site and in order to send you our Newsletter, when specifically requested; 
+  * when you request Customer Care services, we collect your personal data (for example, your password) for purposes strictly necessary to provide you with customer care services relevant to the US Site and to the purchase of products on the US Site; 
+  * when you are executing purchasing procedures for products sold on the US Site, including conclusion of an agreement for the purchase of products, we collect your personal data (for example, personal information, e-mail address, address, credit card numbers, bank account number and telephone number) on your order form only for the purpose of selling the products ordered by you; 
+  * when you request technical assistance, we collect your personal data in order to provide you with information on net-surfing, Internet browsing or viewing and downloading web pages; 
+  * when creating your Wish List, we process your personal data in order to customize our services for the purchase of products on the US Site. 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+Your personal data is generally processed by electronic means; however, in certain circumstances, paper-based means may be used (for example, when the processing of your personal data is required for the prevention of fraud against us).   
+Your personal data is stored in a way which allows YOOX USA to identify you for the period that is strictly necessary for the original purposes for which such personal data is collected and subsequently processed, all in accordance with applicable laws.   
+Please report any changes to your personal data to [privacy@thecorner.com](mailto:privacy@thecorner.com) in order to ensure that your personal data is always accurate and kept up-to-date.   
+Your personal data will not be disclosed to third parties for purposes not permitted by law or without your explicit consent.   
+Your personal data may only be disclosed to third parties when it is necessary to process an order placed by you. For example, your personal data is disclosed to Paymentech Inc. for the performance of electronic payment services, through credit/debit cards. Moreover, your personal data may be disclosed to the police or to judicial authorities, in compliance with applicable laws and regulations and upon a formal request by such authorities for the purposes of preventing a fraud against us (anti-fraud services). Data processors will also have access to your personal data, as stated in Section 2 of this Privacy Policy, for the specific purposes stated in that Section. In all the above circumstances, your consent for data processing will not be specifically requested.  
+YOOX USA does not disclose your personal data to the public, unless it receives your approval and only in connection with the supply of services through the US Site (for example, in order to allow YOOX USA, upon your request, to post your suggestions on the US Site as a testimonial.)   
+Your personal data will not be transferred to any countries outside the United States and Italy if such countries do not provide for an adequate level of protection of the privacy of individuals. Should the above be necessary in order to supply services to you or to execute contracts for the purchase of products between you and YOOX USA, the transfer of your personal data to any such countries will be carried out only after the execution of specific contracts between YOOX USA and all parties involved, in accordance with applicable laws and regulations.   
+If YOOX USA receives your consent, it may process your personal data in order to send you information on new commercial initiatives which are strictly related to the US Site's activities and services, or for direct marketing purposes, including by e-mail.   
+YOOX USA may have access to third parties' personal data which is directly disclosed by its users to YOOX USA, for instance when the user buys a product to be sent to a friend, when the user who pays the purchase price for a product is different from the recipient of such product, or when a user wishes to recommend to a friend a service provided through the US Site or the sale of a particular product posted on the US Site.   
+In all cases involving the disclosure of information of a third party, you must obtain the consent of such individuals before disclosing their personal data to YOOX USA and have informed said individuals about this Privacy Policy. You will be the only person liable in connection with the disclosure of information and data relevant to such third parties and with any other incompatible and unlawful use of such data if they have not provided you with their consent.   
+You agree to indemnify, defend and hold YOOX and YOOX USA harmless from any liability, loss, claims and expenses, including reasonable attorneys’ fees, arising from or related to any unauthorized disclosure of personally identifiable information of third parties.   
+  
+**4.** |   | **WHAT HAPPENS IF YOU DO NOT DISCLOSE YOUR PERSONAL DATA TO YOOX USA**  
+|   | The personal data we request you provide to YOOX USA, including your e-mail address, your address, your credit/debit card numbers, bank account number and your telephone number, is necessary for the processing of your order for the purchase of products on the US Site, to supply other services provided on the US Site upon your request, or to carry out obligations arising out of applicable laws and regulations.  
+Your refusal to provide certain personal data to YOOX USA may prevent YOOX USA from processing your order for the purchase of products sold on the US Site or from providing other services through the US Site, such as Customer Care services, sending the Newsletter, use of the Wish List, sending a flower to a friend, or recommending a product to a friend.  
+Your failure to provide personal data to YOOX USA may justify YOOX USA's refusal to process your order for the purchase of products sold or to provide services through the US Site.  
+The disclosure of personal data to YOOX USA other than that required in order to fulfill legal or contractual obligations or to provide the services requested by you is optional and does not have any effect on the use of the US Site and its services or on the purchase of products on the US Site (for example, the name of your favorite designer).  
+We will inform you if the personal data we ask you to provide is necessary or optional by marking with an asterisk (*) the information that is necessary. Your Failure to disclose optional personal data will not pose any obligation or disadvantage to you, except to the extent that we may no be able to offer you some of our optional, personalized features of the US Site.  
+**5.** |   | **TO WHOM YOUR PERSONAL DATA WILL BE DISCLOSED**  
+  |   | Your personal data may be disclosed to third parties who provide specific services as Data Processors on behalf of YOOX USA or who autonomously process personal data collected by YOOX USA in connection with the performance of a contract for the purchase of products on the US Site (for example, Paymentech Inc.). Any such disclosure will be conducted, in each instance, without exceeding the original purposes for which your personal data was collected and subsequently processed.  
+In addition, your personal data may be disclosed to third parties in order to (1) comply with applicable laws, (2) respond to governmental and judiciary inquiries, (3) comply with valid legal process, and (4) protect the rights or property of YOOX USA and YOOX Italy.   
+Any third party information disclosed to YOOX USA in accordance with this Privacy Policy will not be used for any purpose other than as required to technically operate the service, to complete a transaction, or as otherwise required by law.  
+In the event there is a change in the corporate structure of YOOX USA including, without limitation, by merger, consolidation, sale, liquidation, or transfer of substantial assets, YOOX USA may, in its sole discretion, transfer, sell or assign personal data collected on and through the US Site, including, without limitation, personally identifiable information and aggregate information concerning users and customers, to one or more affiliated or unaffiliated third parties.  
+**6.** |   
+| **HOW DO WE COLLECT YOUR DATA ON THECORNER.COM**  
+|  | 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Cookies  
+When you are using the US Site, some personal data may be collected automatically through so-called "cookies". A cookie is a device transmitted to the hard drive of an Internet user. While cookies do not contain intelligible information, they allow us to link an Internet user to personal information provided by such user through the US Site. YOOX USA processes information collected by cookies in a collective and anonymous way, in order to optimize its services and the US Site for the needs and preferences of its users.  
+We use cookies to collect users' IP addresses and other information regarding users' data traffic or preferences in the choice of services provided and products purchased through the US Site.  
+We disseminate cookies in connection with functions such as browsing the catalogue, purchasing products on-line and supplying "My Corner" services.  
+As you may know, each Internet browser allows the deletion of cookies after each session. Your Internet browser contains instructions on how to carry out these procedures of deletion. Please access the appropriate instructions section on your Internet browser if you wish to delete cookies.   
+Your acceptance of our automatic procedures of collection of data and the use of cookies is necessary to take advantage of many features and services offered by the US Site, including the purchase of products. If you set your browser to block or delete cookies, we cannot guarantee that you will have access to all the features and services offered by the US Site (for example, your computer may not be able to display the image of the product you are in the process of purchasing).
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Other Methods of Collecting User Information.   
+YOOX USA directly collects personal data and information from its users when they register on-line with the US Site or when they send purchase orders for products sold on the US Site in order to finalize their transactions.  
+YOOX USA reserves the right to eliminate all My Corner accounts and their relevant information in the case of content that is illicit or damaging to YOOX USA's image and/or of their products or third parties; data that promotes illegal or defamatory activities; pornographic content; content that induces violence or promotes racial, sexual, or religious discrimination.  
+Finally, YOOX USA collects personal data of third parties interested in starting business relationships with YOOX USA and only for such purpose.  
+  
+  
+**7.** |  | **SECURITY MEASURES**  
+|   | We have adopted security measures to protect personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access and against other unlawful forms of data processing, as provided in our Privacy Policy.   
+Nevertheless, YOOX USA cannot guarantee that the security measures adopted for the protection of the US Site and the transmission of data and information through the US Site will prevent or exclude any risk of unauthorized access to or loss of data. It is advisable that your computer be equipped with software devices for the protection of network data transmission and receipt (such as, updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, firewalls and anti-spam filtering).  
+  
+**8.** |   |   
+**OPT-IN/OPT OUT**  
+|  | Advertising material and direct marketing or other commercial communications which are not specifically requested by you or necessary to provide a service you requested, including the purchase of products on the US Site, will be sent to you only after we receive your consent. Please note that each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent by selecting the appropriate box.  
+YOOX USA may process your personal data without your consent when such processing is necessary to comply with applicable laws and regulations or to provide you with services you requested, including the purchase of products on the US Site.  
+Even when your prior consent is not necessary, you may exercise, at any time, your right not to receive future communications regarding services you requested, such as the Newsletter.  
+  
+**9.** |   
+|   
+**OUR RIGHT TO ACCESS PERSONAL DATA AND FURTHER RIGHTS**  
+|   | You are entitled to obtain, at any time, confirmation from YOOX USA as to whether or not data relating to you is being processed, even if not yet registered, and the communication of any such data in an intelligible form.  
+Moreover, you are entitled to receive from YOOX USA information on the source from which we received your personal data; the purposes and means of processing your personal data; the logic involved in any electronic data processing; information regarding the data controller and the data processors and the names of subjects and categories of subjects to whom your personal data may be disclosed or who may access your personal data (for example, the names of data processors). You can also find the above information in our Privacy Policy.   
+You are entitled to obtain at any time from YOOX USA: 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+  * the updating, rectification or integration of your personal data; 
+  * the deletion, transformation into anonymous form or blocking of your personal data, which is processed in violation of the law, including when the storage of data is not necessary for the purposes for which it has been collected and subsequently processed; 
+  * the confirmation that the operations under letters a) and b) have been reported to whom the data was disclosed or disseminated, except when it becomes impossible to do so or if it means exceeding the protection of the right you are claiming.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
- **Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
-
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
+You are entitled to object, in all or in part: 
+  * for legitimate reasons, to the processing of your personal data, even if it is related to the purposes for which it was collected; 
+  * to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.  
+You may freely and at any time exercise your rights, provided that you do so in compliance with applicable laws and regulations, by sending your request to YOOX USA at [privacy@thecorner.com](mailto:privacy@thecorner.com). 
 
   
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+**10.** |   | **LINKS TO OTHER WEB SITES**  
+|   | The US Site may provide hyperlinks to third party websites (“Third Party Websites"). YOOX USA and YOOX Italy do not operate, control, endorse or guarantee any Third Party Websites. You agree that YOOX USA and YOOX Italy are not responsible for any content, services and/or products provided by any Third Party Website, nor are YOOX USA and YOOX Italy responsible for any practice followed by such Third Party Website with respect to the collection and processing of personal data of their users. When you access any Third Party Website through a hyperlink posted on the US Site, please carefully read the Privacy Policy and other policies of such Third Party Website. Our Privacy Policy and other policies do not apply to any Third Party Website.  
+YOOX USA provides hyperlinks to Third Party Websites only for the convenience of its users. By providing hyperlinks to Third Party Websites, YOOX USA does not recommend that its users access such Third Party Websites. YOU AGREE THAT YOUR USE OF ANY THIRD PARTY WEBSITE IS AT YOUR SOLE RISK AND WITHOUT WARRANTIES OF ANY KIND BY YOOX USA, EXPRESSED, IMPLIED OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR NONINFRINGEMENT. UNDER NO CIRCUMSTANCES ARE YOOX USA AND/OR YOOX ITALY LIABLE FOR DAMAGES ARISING FROM ANY TRANSACTION BETWEEN YOU AND ANY THIRD PARTY WEBSITE OR FOR ANY INFORMATION APPEARING ON THIRD PARTY WEBSITES.   
+**11.** |   | **CONTACTS**  
+  |   | If you wish to receive further information regarding our privacy practices, please contact us by e-mail at [privacy@thecorner.com](mailto:privacy@thecorner.com).  
+For more information regarding your rights under the Italian Data Protection Code, please go to the web site of the Italian Data Protection Authority at [www.garanteprivacy.it](http://www.garanteprivacy.it/).   
+**12.** |  | **GOVERNING LAW**  
+|  | The processing of personal data by YOOX USA will be conducted in compliance with applicable US laws.  
+The laws of Italy, including the Italian Personal Data Protection Code (Legislative Decree no. 196 dated June 30, 2003), also apply to the processing of personal data carried out by YOOX USA and YOOX Italy (see the Companies of YOOX Group, below).  
+The Italian Personal Data Protection Code guarantees that the processing of your personal data will be carried out in compliance with the fundamental rights and freedoms of individuals and their dignity, with particular reference to confidentiality, identity and the right to personal data protection.  
+**13.** |  | **COMPANIES OF THE YOOX GROUP**  
+  |   | YOOX Italy operates on the Internet in non-EU Countries through foreign companies that are part of the Yoox Group, such as YOOX USA.   
+Your personal data will not be disclosed to the companies within the YOOX  Group without your consent, except to YOOX Italy, to the extent YOOX Italy provides certain services to YOOX USA in connection with the operation of the US Site.   
+These companies usually adopt their Privacy Policies when providing their services to their users and when selling their products on particular country sections of thecorner.com. Such Privacy Policies are consistent with the Privacy Policy of YOOX since the Italian Data Protection Code applies in the case of processing of personal data carried out by anyone who is located in a non-EU country using processing equipment (whether or not electronically based) located in the Italian territory, except when such equipment is used only for the data transit on the Italian territory. For these purposes, companies of Yoox Group, such as YOOX USA have appointed YOOX as their data protection representative within the Italian territory for the application of Italian laws on data processing, as provided by the Italian Data Protection Code.  
+**14.** |   | **MODIFICATION AND UPDATING**  
+  |   | YOOX USA may amend or update from time to time all or any part of this Privacy Policy, whether or not required by a change in the applicable laws and regulation.   
+Our users will be notified of any amendment to or update of our Privacy Policy on our homepage. All amendments and updates will become effective upon publication on this section of the US Site. You should regularly access this section of the US Site in order to review the most recent and updated version of our Privacy Policy. 
