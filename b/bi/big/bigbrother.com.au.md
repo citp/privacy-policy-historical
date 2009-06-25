@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410225325id_/http%3A//www.ten.com.au/ten/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041428id_/http%3A//bigbrother.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy - Privacy - Seriously TEN
+# Privacy Policy - Big Brother Australia 2008
+
+#### Our Commitment to You 
 
 At Network Ten we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.   At Network Ten we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network Ten. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.
 
+#### What Personal Information Does Network Ten Collect? 
+
 The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:
 
-security surveillance of our premises (eg video, card access). 
+\- when you complete any application forms   
+\- through telephone calls   
+\- visits to our Web Site   
+\- letters and other material sent by you to Network Ten   
+\- material submitted in competitions   
+\- feedback, comments or suggestions on programs and other activities of Network Ten   
+\- through Buy Ten Web Site   
+\- as a customer or client of Network Ten   
+\- when you provide a service or products to Network Ten   
+\- security surveillance of our premises (eg video, card access). 
 
 The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway.
 
@@ -49,7 +62,7 @@ We take reasonable steps to ensure the information we collect, use and disclose 
 
 We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Site, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Site using your username and password and reviewing your preferences.
 
-Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](http://ten.com.au/ten/contact_us.html)
 
 You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.   If you inform us that the information we hold is incorrect we will, if appropriate, amend those records. 
 
@@ -60,7 +73,7 @@ You can submit a request for access to your personal information to the Network 
 
 If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated.
 
-Details about how to lodge a complaint can be found at [Contact Us](https://web.archive.org/ten/contact_us.html)
+Details about how to lodge a complaint can be found at [Contact Us](http://ten.com.au/ten/contact_us.html)
 
   
 
@@ -74,6 +87,7 @@ Network Ten reserves the right to change its privacy policy at any time, and you
 
 #### Have We Answered Your Questions About Privacy?
 
-If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/ten/contact_us.html).
+If you have other questions regarding our information handling processes, please [Contact Us](http://ten.com.au/ten/contact_us.html).
 
-This page last updated: 9 February 2007
+This page last updated: 9 February 2007  
+
