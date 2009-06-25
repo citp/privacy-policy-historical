@@ -1,499 +1,51 @@
-<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011901id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driverguide.com privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626003400id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>DriverGuide.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript">
-<!--
-
-/**
- * JavaScript light chat observer Copyright 2006 iCentric Corporation,
- * All Rights Reserved.
- **/
-
-// initialize configuration options
-
-var MAX_TICK_TIME = 1 * 60 * 60 * 1000; // 1 hour
-var MIN_TICK_TIME = 100; // 1/10 second
-var UPDATING_TICK_TIME = 500; // 1/2 second
-var EVENT_DELAY = 3 * 60 * 1000; // 3 minutes
-var POLL_TIME = ( 2 * 60 + 45 ) * 1000; // 2 minutes 45 seconds
-var COORDINATION_TIME =  2500; // 2.5 seconds
-var CHAT_COOKIE_TIMEOUT = 90 * 1000; // 90 seconds
-var FULL_CHAT_URL = "http://chat.driverguide.com/chat/?1=1";
-
-// initialize state variables
-
-var timeDefecit = 0;
-var firstEvent = null;
-var lastEvent = null;
-var incomingEvents = null;
-var incomingEventsRequest = null;
-var chatDiv = null;
-var nickList = null;
-var request = null;
-var lastUpdateAt = 0;
-var maxSerial = null;
-var chatVisible = true;
-var fullChatWindow = null;
-var authoritativeTick = 0;
-
-/**
- * Handles intermittent actions necessary for updating the light chat
- * observer.
- *
- * @return nothing
- **/
-function chatObserverTick (tickId) {
-    if (tickId != authoritativeTick) return;
-    var sleepTime = MAX_TICK_TIME;
-    var potentialSleepTime;
-    potentialSleepTime = updateCoordination();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    potentialSleepTime = handleEvents();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    potentialSleepTime = fetchUpdate();
-    if (potentialSleepTime < sleepTime) sleepTime = potentialSleepTime;
-    if (sleepTime < MIN_TICK_TIME) sleepTime = MIN_TICK_TIME;
-    setTimeout("chatObserverTick("+tickId+")", sleepTime);
-}
-
-/**
- * Processes previously retrieved events.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function handleEvents () {
-    
-    // append new events
-    
-    if (incomingEvents != null) {
-        for (var i = 0; i < incomingEvents.length; i++) {
-            var eventNode = incomingEvents[i];
-            if (firstEvent == null) {
-                firstEvent = Array(eventNode, null, incomingEventsRequest);
-                lastEvent = firstEvent;
-            } else {
-                lastEvent[1] = Array(eventNode, null, incomingEventsRequest);
-                lastEvent = lastEvent[1];
-            }
-        }
-        incomingEvents = null;
-    }
-
-    // pick out events that are old enough
-
-    var now = new Date().getTime() + timeDefecit;
-    while (firstEvent != null) {
-        var eventNode = firstEvent[0];
-        var eventTime = eventNode.getAttribute("time");
-        if (now - eventTime < EVENT_DELAY) break;
-        
-        // process the event
-        
-        var eventType = eventNode.getAttribute("type");
-        if (eventType == "addMessage") {
-            var message = document.createElement('div');
-            message.innerHTML = eventNode.firstChild.nodeValue;
-            chatDiv.appendChild(message);
-            chatDiv.scrollTop += chatDiv.offsetHeight+2;
-        } else if (eventType == "addNick") {
-            var nick = document.createElement('div');
-            nick.innerHTML = eventNode.firstChild.nodeValue;
-            nickList.appendChild(nick);
-        } else if (eventType == "removeById") {
-            var toRemove = document.getElementById(eventNode.getAttribute("idToRemove"));
-            if (toRemove != null) {
-                toRemove.parentNode.removeChild(toRemove);
-            }
-        } else if (eventType == "removeAllNicks") {
-            while (nickList.lastChild != null) {
-                nickList.removeChild(nickList.lastChild);
-            }
-        } else {
-            handleError("Unknown event type: "+eventType);
-        }
-        
-        // remove event from queue
-        
-        firstEvent = firstEvent[1];
-        if (firstEvent == null) {
-            lastEvent = null;
-        }
-    }
-
-    // determine the relevant sleep time
-
-    if (firstEvent == null) return MAX_TICK_TIME;
-    var eventNode = firstEvent[0];
-    var eventTime = eventNode.getAttribute("time");
-    now = new Date().getTime() + timeDefecit;
-    return  EVENT_DELAY - (now - eventTime);
-}
-
-/**
- * Handles errors.
- *
- * @return nothing
- **/
-function handleError (error) {
-    //alert(error);
-}
-
-/**
- * Processes previously retrieved events.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function fetchUpdate () {
-
-    // if a fetch is in progress, update frequently
-
-    if (request != null) return UPDATING_TICK_TIME;
-
-    // can't update yet if last update hasn't been processed yet
-
-    if (incomingEvents != null) return UPDATING_TICK_TIME;
-
-    // determine if an update is needed now
-
-    var remaining = POLL_TIME - (new Date().getTime() - lastUpdateAt);
-    if (remaining > 0) return remaining;
-    
-    // create the request object
-    
-    if (window.XMLHttpRequest) {
-        request = new XMLHttpRequest();
-    } else if (window.ActiveXObject) {
-        request = new ActiveXObject("Microsoft.XMLHTTP");
-    }
-    if (request == null) {
-        handleError("Support not found for XMLHttpRequest");
-        return MAX_TICK_TIME;
-    }
-    
-    // issue the request
-
-    lastUpdateAt = new Date().getTime();
-    request.onreadystatechange = handleServerResponse;
-    var url = "/chat/get_update_xml.php?ac=" + new Date().getTime();
-    url = url + "&language=" + document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-    if (maxSerial != null) url = url + "&after=" + maxSerial;
-    request.open("GET", url, true);
-    request.send("");
-    return UPDATING_TICK_TIME;
-}
-
-/**
- * Asynchronously processes the XML returned from the server.
- *
- * @return nothing
- **/
-function handleServerResponse () {
-    if (request == null) return;
-    if (request.readyState != 4) return;
-    if (request.status != 200) return;
-    incomingEvents = request.responseXML.getElementsByTagName("event");
-    incomingEventsRequest = request;
-    var nowLocal = new Date().getTime();
-    lastUpdateAt = nowLocal;
-    var topNode = request.responseXML.getElementsByTagName("update");
-    if (topNode.length > 0) {
-        topNode = topNode[0];
-        timeDefecit = topNode.getAttribute("time") - nowLocal;
-        maxSerial = topNode.getAttribute("maxSerialNumber");
-    }
-    request = null;
-}
-
-/**
- * Updates the display based on whether the full chat window is currently being shown.
- *
- * @return the maximum sleep time before this or any other update
- *         method should be called again
- **/
-function updateCoordination () {
-
-    // determine whether the real chat window is open
-
-    var realChat = getFullChatWindow();
-    var realChatOpen = realChat != null;
-    var cookies = document.cookie;
-    cookies = cookies.split("; ");
-    for (var i = 0; i < cookies.length; i++) {
-        var cookie = cookies[i].split("=");
-        if (cookie[0] == "chat") {
-            if (cookie[1] == "0") {
-                realChatOpen = false;
-            } else {
-                if (new Date().getTime() - cookie[1] < CHAT_COOKIE_TIMEOUT) {
-                    realChatOpen = true;
-                }
-            }
-            break;
-        }
-    }
-    
-    // change the chat display, if needed
-    
-    if (realChatOpen == chatVisible) {
-        var container = document.getElementById("pfc_container");
-        if (realChatOpen) {
-            container.style.display = "none";
-            chatVisible = false;
-        } else {
-            container.style.display = "block";
-            chatVisible = true;
-            chatDiv.scrollTop += chatDiv.offsetHeight+2;
-        }
-    }
-
-    // change the refocus display, if needed
-
-    var refocusElement = document.getElementById("pfc_refocus");
-    var refocusDisplay = "none";
-    if (realChat != null && realChatOpen) refocusDisplay = "block";
-    if (refocusElement.style.display != refocusDisplay) {
-        refocusElement.style.display = refocusDisplay;
-    }
-
-    // update on a regular basis
-    
-    return COORDINATION_TIME;
-}
-
-/**
- * Shows the full chat in another window.
- *
- * @return nothing
- **/
-function showFullChat () {
-    fullChatWindow = getFullChatWindow();
-    if (fullChatWindow == null) {
-        var url = FULL_CHAT_URL;
-        url = url + "&icx_accept_language=" + document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-        fullChatWindow = window.open(url, "icx_phpfreechat");
-    }
-    if (fullChatWindow != null) {
-        fullChatWindow.focus();
-    }
-}
-
-/**
- * Validates and returns the reference to the full chat window or null
- * if no valid reference is available.
- *
- * @return a reference to the full chat window or null
- **/
-function getFullChatWindow () {
-    if (fullChatWindow == null) return null;
-    if (fullChatWindow.closed) return null;
-    /*
-    
-    This is disabled because it does not work with different host names
-    
-    @:NOTE: if this is ever re-instated, the language/room should be considered as well
-    
-    try {
-        if (fullChatWindow.location != FULL_CHAT_URL) return null;
-    } catch (e) {
-        return null;
-    }
-    */
-    return fullChatWindow;
-}
-
-/**
- * This function is called to notify this page that the full chat
- * window has been closed.
- *
- * @return nothing
- **/
-function fullChatClosed () {
-    fullChatWindow = null;
-}
-
-/**
- * This function should be called when the user changes the language
- * selection.
- *
- * @return nothing
- **/
-function updateLanguage () {
-
-    // reset state
-
-    while (nickList.lastChild != null) {
-        nickList.removeChild(nickList.lastChild);
-    }
-    while (chatDiv.lastChild != null) {
-        chatDiv.removeChild(chatDiv.lastChild);
-    }
-    incomingEvents = null;
-    request = null;
-    lastUpdateAt = 0;
-    maxSerial = null;
-    
-    // start monitoring new room
-    
-    setTimeout("chatObserverTick("+(++authoritativeTick)+")", 200);
-
-    // save the choice of language - @:NOTE: similar code exists one
-    // other place (in a phpFreeChat template)
-
-    var now = new Date();
-    var expiresAt = new Date();
-    expiresAt.setTime(now.getTime() + 90 * 24 * 60 * 60 * 1000); // 90 days
-    var cookieValue = document.light_chat_launcher.language_select.options[document.light_chat_launcher.language_select.selectedIndex].value;
-    document.cookie = "icx_accept_language=" + cookieValue + "; expires=" + expiresAt.toGMTString() + "; domain=driverguide.com; path=/";
-}
-
-// -->
-</script>
-<style type="text/css">
-/**
- * Style sheet derived from phpFreeChat, Copyright 2006 Stephane
- * Gully.  phpFreeChat can be downloaded from
- * http://www.phpfreechat.net/ This applies only to this style sheet
- * and the chat section of the HTML below:
-
-phpFreeChat a simple, fast, and customizable chat server.
-Copyright © 2006 Stephane Gully <stephane.gully@gmail.com>
-
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2.1 of the License, or (at your option) any later version.
-
-This library is distributed in the hope that it will be useful, 
-but WITHOUT ANY WARRANTY; without even the implied warranty of 
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-Lesser General Public License for more details. 
-
-You should have received a copy of the GNU Lesser General Public
-License along with this library; if not, write to the
-Free Software Foundation, 51 Franklin St, Fifth Floor,
-Boston, MA  02110-1301  USA
-
- *
- **/
-
-div#pfc_container * {
-  border: 0;
-  margin: 0;
-  padding: 0;
-}
-
-div#pfc_container {
-  border: 1px solid #555;
-  color: #000;
-  padding: 10px;
-  min-height: 20px;
-  background-color: #FFF;
-  background-image: url("http://members-images.driverguide.com:8080/images/phpfreechat/shade.gif");
-  background-position: right;
-  background-repeat: repeat-y;
-  font-family: Verdana, Sans-Serif; /* without this rule, the tabs are not correctly display on FF */
-}
-
-
-div#pfc_channels_content {
-  z-index: 20;
-  height: 120px;  position: relative;
-  width: 100%;
-  border-right: 1px solid #555;
-  border-left: 1px solid #555;
-  border-bottom: 1px solid #555;
-  background-color: #FFF;
-  margin-top: 5px;
-}
-
-/* channels tabpanes */
-ul#pfc_channels_list {
-  list-style-type: none;
-  display: block;
-  z-index: 50;
-  border-bottom: 1px solid #555;
-  margin-bottom: -5px;
-}
-ul#pfc_channels_list li {
-  display: inline;
-  margin-left: 5px;
-}
-ul#pfc_channels_list li div {
-  display: inline;
-  padding: 0 4px 0 4px;
-  border-top: 1px solid #555;
-  border-right: 1px solid #555;
-  border-left: 1px solid #555;
-  border-bottom: 1px solid #555;
-  background-color: #DDD;
-}
-ul#pfc_channels_list li.selected div {
-  background-color: #FFF;
-  border-bottom: 1px solid #FFF;
-  color: #000;
-  font-weight: bold;
-}
-
-div.pfc_chat {
-  z-index: 100;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 80%;
-  height: 100%;
-  overflow: auto;
-}
-
-div.pfc_online {
-  position: absolute;
-  right: 0;
-  top: 0;
-  padding: 0;
-  overflow: auto;
-  width: 20%;
-  height: 100%;
-  color: #000;
-  background-color: #FFF;
-  background-image: url("http://members-images.driverguide.com:8080/images/phpfreechat/online-separator.gif");
-  background-position: left;
-  background-repeat: repeat-y;
-}
-
-div.pfc_online ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  margin-left: 8px;
-  margin-right: 8px;
-}
-div.pfc_online li {
-  font-weight: bold;
-}
-
-span.pfc_heure, span.pfc_date {
-  color: #bebebe;
-  font-size: 90%;
-}
-
-span.pfc_nick {
-  color: #fbac17;
-  font-weight: bold;
-}
-
-/* commands */
-.pfc_cmd_notice {
-  font-style: italic;
-  color: #888;
-}
-
-</style>
+<meta name="description" content="ARE YOU LOOKING FOR A DRIVER? DriverGuide.com has the Web's largest collection 
+of drivers for all device types. The site includes an easy step-by-step process for finding, downloading, and installing drivers, a company and
+driver search engine, manufacturer specific discussion boards, driver uploading and file sharing, and many other useful features.">
+<meta name="keywords" content="drivers,
+driver archive,
+printer driver,
+cdrom driver,
+modem driver,
+device driver,
+cd rom drivers,
+monitor driver,
+video drivers,
+cd-rom drivers,
+driver download,
+sound driver,
+sound card drivers,
+mouse driver,
+scanner drivers,
+cd drivers,
+scsi adapters,
+sound card drivers,
+network adapters,
+windows drivers,
+dos drivers,
+tape backup drivers,
+hp printer drivers,
+canon printer drivers,
+soundcard drivers,
+video driver,
+soundcard drivers,">
 <link rel="stylesheet" href="http://members.driverguide.com/doc.php?mime=text/css&amp;page=home__standard__common_css&amp;qtxs=ndz">
 <script language="JavaScript" src="http://members.driverguide.com/doc.php?mime=text/javascript&amp;page=home__standard__common_js&amp;qtxs=ndz" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="http://members.driverguide.com/doc.php?mime=text/css&amp;page=home__standard__common_css_v3">
+<style type="text/css">
+<!--
+body {
+	background-color: #e6f5ff;
+}
+-->
+</style>
 <style type="text/css">
 #infobar {
 
@@ -521,52 +73,15 @@ span.pfc_nick {
  font-size:11px;
 }
 </style>
-
-<script type="text/javascript" language="JavaScript1.2">
-if ((screen.availWidth ? screen.availWidth : screen.width) >= 1024) width = 992;
-else width = 768;
-document.write("<style>.pageTable {width: "+width+";}</style>");
-</script><style>.pageTable {width: 768;}</style>
-
 </head>
-<body bgcolor="#EBEBEB" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="">
-<div id="no-itxt"><div id="infobar"><a href="http://members.driverguide.com/ums/index.php?action=r&amp;ib=1"><p>Register now and join the DriverGuide community - Its FREE!!! &nbsp;&nbsp;To register please click here...</p></a></div></div>
+<body onload="; StatDisplayOnLoad();" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="no-itxt"><div id="infobar"><a href="http://members.driverguide.com/ums/index.php?action=r&amp;ib=1"><p>Register now to join the DriverGuide community - It's FREE!!! &nbsp;&nbsp;To register please click here...</p></a></div></div>
 
 
-<!--Main Table-->
-<table class="pageTable" width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td class="shadowL"><img src="http://members-images.driverguide.net:8080/images/px.gif" width="4" height="1"></td>
-<td class="mainTable"><table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr>
-    <td colspan="5"><style type="text/css">
-<!--
-.tt1 {
-	font-size: 14px;
-	text-decoration: none;
-	color: #dddddd;
-}
-.tt2 {
-	font-size: 16px;
-	font-weight: bold;
-	color: #ffffff;
-	text-decoration: none;
-}
--->
-</style>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#7D96AA">
-      <tbody><tr>
-        <td width="232" height="85"><a href="http://members.driverguide.com/"><img src="http://www2.driverguide.com/images/logo2.gif" width="232" height="85" border="0"></a></td>
-        <td width="133" height="85"><a href="http://members.driverguide.com/"><img src="http://www2.driverguide.com/images/devices.gif" width="133" height="85" border="0"></a></td>
-        <td background="http://members-images.driverguide.net:8080/images/headerbg.gif" height="85"><img src="http://members-images.driverguide.net:8080/images/blank2x2.gif" width="2" height="2"></td>
-        <td width="300" height="85" background="http://members-images.driverguide.net:8080/images/headerbg.gif">
-        	<table width="100%" border="0" cellspacing="5" cellpadding="0">
-            <tbody><tr>
-              <td align="right">
-
-                <table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td valign="top" nowrap=""><table border="0" cellpadding="0" cellspacing="0">
+<div id="DGcontent">
+        <div class="DGbanner">
+              <div class="DGbannerL" onclick="location.href='http://www.driverguide.com/';return true;" style="cursor: pointer;"></div>
+              <div class="DGbannerC"><table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td height="15" valign="bottom" align="middle">
 <a href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy&amp;t=1" title="English"><img src="http://www2.driverguide.com/images/flag/us.gif" width="17" height="11" border="0"></a>
 <a href="http://translate.google.com/translate_c?tl=es&amp;u=http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy&amp;t=1" title="Español"><img src="http://www2.driverguide.com/images/flag/es.gif" width="17" height="11" border="0"></a>
@@ -576,177 +91,123 @@ document.write("<style>.pageTable {width: "+width+";}</style>");
 <a href="http://translate.google.com/translate_c?tl=it&amp;u=http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy&amp;t=1" title="Italiano"><img src="http://www2.driverguide.com/images/flag/it.gif" width="17" height="11" border="0"></a>
 <a href="http://translate.google.com/translate_c?tl=ja&amp;u=http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy&amp;t=1" title="日本語"><img src="http://www2.driverguide.com/images/flag/ja.gif" width="17" height="11" border="0"></a> 
 <img src="http://members-images.driverguide.net:8080/images/blank2x2.gif" width="20" height="2">
-</td></tr></tbody></table></td>
-                    <td>
-                      <a href="http://members.driverguide.com/link.php?link=scan_from_header"><img src="http://www.driverguide.com/images/top_ad__196x53.gif" width="196" height="53" border="0"></a>
-                  </td>
-                  </tr>
-                 </tbody></table>
-
-             </td> 
-            </tr>
-            <tr>
-              <td align="right"><table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td nowrap=""><script type="text/javascript" language="JavaScript1.2">
-function validateHeaderSearch(form){
-    if (form.keywords.value.length < 3) {
-        alert("The Model or Keywords you enter must be longer than 2 characters.");
-        return false;
-    }
-    if (form.keywords.value == "Enter Model or Keywords") {
-        alert("You must enter a Model or Keywords in the Search box.");
-        return false;
-    }
-    if (form.type.value == "Pick Search Type") {
-        alert("You must choose a Search Type from the menu shown.");
-        return false;
-    }
-}//end function
-</script>
-
-<form name="header_search" method="post" onsubmit="return validateHeaderSearch(this);" action="http://members.driverguide.com/header_search.php" style="margin: 0px;">
-<input name="keywords" type="text" class="inputText" value="Enter Model or Keywords" size="30" maxlength="40" onfocus="this.value='';">
-<select name="type" class="selectText">
-<option value="0" selected="">Pick Search Type</option><option value="default">Drivers &amp; Firmware</option><option value="1">::BIOS / MOBO</option><option value="3">::CD/DVD Drive</option><option value="2">::Digital Camera </option><option value="11">::Displays </option><option value="6">::Game Adapter </option><option value="4">::Graphics Card</option><option value="7">::Hard Disk Controller</option><option value="10">::Modem / ISDN</option><option value="9">::Mouse/Input Device</option><option value="12">::Network Card</option><option value="13">::Notebook </option><option value="15">::Printers</option><option value="16">::Removable drive </option><option value="17">::Scanner </option><option value="19">::Sound Card </option><option value="20">::Tape Backup </option><option value="21">::USB </option><option value="14">Other</option><option value="manuals">Manuals</option><option value="utilities">Utilities
-</option></select>
-<input name="search" type="submit" class="searchButton" value="Search">
-</form>
-
-</td>
-                  </tr>
-                </tbody></table>
-              </td>
-            </tr>
-          </tbody></table>
-        </td>
-        <td width="2" background="http://members-images.driverguide.net:8080/images/right.gif">&nbsp;</td>
-      </tr>
-</tbody></table>
-<!--topmenu--><table class="bgNav" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><table align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><img src="http://members-images.driverguide.com:8080/images/div_nav_select.gif" width="2" height="34"></td>
-<td class="bgSelect">
-<!--Selected-->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><img src="http://members-images.driverguide.net:8080/images/px.gif" width="1" height="1"><img src="http://members-images.driverguide.com:8080/images/arrow_nav.gif" width="8" height="24"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/index.php">HOME</a></td>
-</tr>
-</tbody></table>
-<!--End Selected-->
-</td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/index.php?action=my">&nbsp;MY&nbsp;</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/index.php?action=wizard_step_1">DRIVERS</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/index.php?action=company">MANUFACTURERS</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/community/">COMMUNITY</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://members.driverguide.com/index.php?action=resource">RESOURCES</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td>
-<td class="navTxt"><a class="navLink" href="http://www.driverguidetoolkit.com/">TOOLKIT</a></td><td><img src="http://members-images.driverguide.com:8080/images/div_nav.gif" width="2" height="34"></td></tr></tbody></table></td>
-</tr>
-</tbody></table><!--/topmenu--></td>
-  </tr>
-  <tr>
-    <td valign="top" bgcolor="#6365AD" width="150" class="bgLeft">    <!--Left-->
-    <table border="0" cellpadding="0" cellspacing="0" width="150" bgcolor="white">            <tbody><tr><td class="bgNavHeadL">Login</td></tr><tr>            </tr><tr><td class="bgNavLevel1L"><style type="text/css">
-<!--
-.loginLoginField {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: x-small;
-	color: #333300;
-	width: 80px;
+</td></tr></tbody></table></div>
+              <div class="DGbannerR"><script type="text/javascript">
+function StatDisplayOnLoad() {
 }
-.loginText {
-	FONT-SIZE: x-small;
-	COLOR: #333366;
-	FONT-FAMILY: Arial, Helvetica;
-	font-weight: bold;
+</script><style>
+.headerPersonalization {
+margin-top: 0px;
+padding-top: 0px;
+padding-right: 5px;
+    text-align:right;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #fff;     
 }
-.loginButton {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: x-small;
-	font-weight: normal;
-	color: #333366;
-	width: 100%;
-	font-weight: bold;	
+.headerPersonalizationName A:visited {
+    font-weight: bold;
+    font-size:12px;
+    color: #ffffff;
+    text-decoration: none;
 }
--->
+
+.headerPersonalizationName A:link {
+    font-weight: bold;
+    font-size:12px;
+    color: #ffffff;
+    text-decoration: none;
+} 
+.headerPersonalizationBadge {
+    font-size:10px;
+}
+.headerPersonalizationLink {
+    font-size:8px;
+}
+.headerPersonalizationLink a:link {text-decoration: underline; color:#ffffff; }
+.headerPersonalizationLink a:visited {color:#ffffff; }
+.headerPersonalizationLink a:hover {text-decoration: underline;} 
+
 </style>
-<script language="JavaScript1.2" src="http://members.driverguide.com/ums/md5.js" type="text/javascript"></script>
-<script language="JavaScript1.1" type="text/javascript">
-function passwordProcess () {
-	if (document.login.password.value == "") {
-		alert("Password field is blank.  You must type in a password.");
-		return false;
-	} else {
-		document.login.encpass.value = hexMD5(document.login.password.value);
-		document.login.password.value = '';
-		return true;
-	}
+<p class="headerPersonalization"><span class="headerPersonalizationName"><a href="/ums/index.php?action=uc" class="headerPersonalizationName"></a></span>&nbsp;<span class="headerPersonalizationBadge"></span><br><style>
+.headerSearch {
+    font-size:10px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-right: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #fff;     
+    
 }
-</script>
-<form action="http://members.driverguide.com/ums/index.php" name="login" method="POST" onsubmit="return passwordProcess();" style="margin: 0px; width: 100%">
-<input type="hidden" name="action" value="lx">
-<input type="hidden" name="encpass" value="">
-<input type="hidden" name="ip" value="67.202.56.179">
-<input type="hidden" name="furl" value="aHR0cDovL21lbWJlcnMuZHJpdmVyZ3VpZGUuY29tL2luZGV4LnBocD8mYWN0aW9uPWRvYyZwYWdlPWhvbWVfX2RvY3NfX3ByaXZhY3k%3D">
- <table width="125" border="0" cellspacing="0" cellpadding="2">
-	<tbody><tr>
-	  <td class="loginText">Login</td>
-	  <td width="100%"><input type="text" name="login" class="loginLoginField" value=""></td>
-	</tr>
-	<tr>
-	  <td class="loginText">Pwd</td>
-	  <td width="100%"><input type="password" name="password" class="loginLoginField"></td>
-	</tr>
-	<tr>
-	  <td colspan="2"><input type="submit" name="Submit" value="Login >>" class="loginButton"></td>
-	</tr>
-  </tbody></table>
-</form></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=join&amp;url=http://members.driverguide.com/ums/index.php?action=r">Sign Up Now</a></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Membership</td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=join&amp;url=http://members.driverguide.com/ums/index.php?action=r">Join for Free</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/ums/index.php?action=l">Login</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=feedback&amp;id=27&amp;s=1">Login Trouble?</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/ums/index.php?action=fd&amp;furl=">Lost Password?</a></td></tr><tr>            </tr><tr onmouseover="OpenMenu('sub0')"><td class="bgNavLevel1LC">                    <img src="http://members-images.driverguide.net:8080/images/arrow_nav1.gif" width="3" height="7">                    <a class="tealLink" href="http://members.driverguide.com/ums/index.php?action=r">Membership Info</a></td></tr><tr>                    </tr><tr><td><span class="collapsableMenu" id="sub0"><table border="0" cellspacing="0" cellpadding="0" width="100%">            <tbody><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=docs__premium__free">Free</a></td></tr><tr>            </tr><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=docs__premium__plus">Premium Plus</a></td></tr><tr>            </tr><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=docs__premium__pro">Premium Pro</a></td></tr><tr>                    </tr></tbody></table></span></td></tr>            <tr><td class="bgNavHeadL">General</td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__awards">Awards</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=testimonials">Testimonials</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://freescan.driverguide.com">Free DriverScan</a>                <span class="new">NEW</span></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__link2us">Link to Us</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__linkswap">Link Partners</a></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Site Samples</td></tr><tr>            </tr><tr onmouseover="OpenMenu('sub1')"><td class="bgNavLevel1LC">                    <img src="http://members-images.driverguide.net:8080/images/arrow_nav1.gif" width="3" height="7">                    <a class="tealLink" href="http://list.driverguide.com/list/index.html">Browse</a></td></tr><tr>                    </tr><tr><td><span class="collapsableMenu" id="sub1"><table border="0" cellspacing="0" cellpadding="0" width="100%">            <tbody><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://list.driverguide.com/list/index.html">By Device Mfg.</a></td></tr><tr>            </tr><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://computers.driverguide.com/make_model/">By Computer Mfg.</a>                        <span class="new">NEW</span></td></tr><tr>                    </tr></tbody></table></span></td></tr>            <tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=voyeur">Driver Voyeur</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=statistics">Site Statistics</a></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Site</td></tr><tr>            </tr><tr onmouseover="OpenMenu('sub2')"><td class="bgNavLevel1LC">                    <img src="http://members-images.driverguide.net:8080/images/arrow_nav1.gif" width="3" height="7">                    <a class="tealLink" href="http://members.driverguide.com/news.php">News</a></td></tr><tr>                    </tr><tr><td><span class="collapsableMenu" id="sub2"><table border="0" cellspacing="0" cellpadding="0" width="100%">            <tbody><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/news.php?bf=News">DG News</a></td></tr><tr>            </tr><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/news.php?bf=Ask">Ask DG</a></td></tr><tr>            </tr><tr><td class="bgNavLevel2"><img src="http://members-images.driverguide.net:8080/images/arrow_nav2.gif" width="4" height="7"> <a class="tealLink" href="http://members.driverguide.com/news.php?bf=Quinxy">Tech Blog</a></td></tr><tr>                    </tr></tbody></table></span></td></tr>            <tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=feedback">Feedback</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy">Privacy</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/ums/unsubscribe.php?f=1">Unsubscribe</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__advertising">Advertising</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__hiring">Help Wanted</a></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Sponsors</td></tr><tr>            </tr><tr><td class="bgNavLevel1L"><script type="text/javascript"><!--
+    /*width: 250px;
+    text-align:right;*/
+.ooheaderSearchText {
+    width: 300px;
+}
+.headerSearchInput {
+    font-style:italic;
+    width: 175px;
+    font-size:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000; 
+float: right;    
+}
+#headerSearchName {
+}
+.oooheaderSearchSubmit {
+    width: 75px;
+    float: right;
+}
+.headerSearchSubmitInput {
+    width: 50px;
+    float: right;
+    font-size:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000;     
+}
+</style>
+</p><form action="http://members.driverguide.com/index.php" method="POST">
+    <input type="hidden" name="action" value="srch">
+    <input type="hidden" name="sm" value="s">
+    <div class="headerSearch">
+	    <div class="headerSearchSubmit"><input class="headerSearchSubmitInput" type="submit" value="Search"></div>
+	    <div class="headerSearchText"><label for="name"></label> <input class="headerSearchInput" type="text" id="headerSearchName" name="qm0" value="Enter device model name/number" onblur="" onfocus="this.value='';"></div>	    
+    </div>
+</form></div>
+        </div>
+          <div id="topTabsContainer">
+                <div class="tabCenter">
+                   <ul class="tabs">  
+                   <li class="selected"><a href="http://www.driverguide.com/">Home</a></li>  
+                   <li class=""><a href="/index.php?action=wizard_step_1">Browse</a></li>
+                   <li class=""><a href="http://scan.driverguide.com/scan.php">Update Your PC</a></li>  
+                   <li class=""><a href="/community/">Community</a></li>  
+                   <li class=""><a href="/support/">Support</a></li>    
+                   <li class=""><a href="/my/">My DG</a></li> 
+                   </ul>
+                </div>
+             <div class="login"><a href="/index.php?action=doc&amp;page=home__about">About us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/ums/index.php?action=r">Join</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/ums/index.php?action=l">Login</a></div>
+          </div>
+
+       <div class="DGbody"><br clear="all">
+           <table border="0" cellspacing="0" cellpadding="10" width="100%">
+<tbody><tr><td width="160" valign="top"><script type="text/javascript"><!--
 google_ad_client = "pub-4727129938051271";
-google_alternate_ad_url = "http://www.driverguide.com/adsense4.htm";
-google_alternate_color = "E8EDF0";
-google_ad_width = 120;
-google_ad_height = 90;
-google_ad_format = "120x90_0ads_al_s";
-google_ad_channel ="1199296453";
-google_color_border = "E8EDF0";
-google_color_bg = "E8EDF0";
-google_color_link = "7D96AA";
-google_color_url = "333366";
-google_color_text = "333366";
-//--></script>
+/* 160x600, created 8/21/08 */
+google_ad_slot = "3966117381";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Providers</td></tr><tr>            </tr><tr><td class="bgNavLevel1L"><table border="0">
-        <tbody><tr>
-          <td align="center" nowrap="" bgcolor="#F4F4F4"><a href="http://www.rackspace.com/"><img src="http://members-images.driverguide.net:8080/images/rackspace_new.gif" width="111" height="53" border="0"></a><br>
-            <font size="1" face="Arial, Helvetica, sans-serif"><a href="http://www.rackspace.com">Rackspace
-            Hosting</a></font></td>
-        </tr>
-        <tr>
-          <td align="center" nowrap="" bgcolor="#F4F4F4"><a href="&#10;http://promote.pair.com/click.pl">                                                                                                                                          </a><br>
-            <a href="http://promote.pair.com/click.pl"><font face="
-arial,helvetica" size="1">Hosted by pair
-Networks</font></a></td>
-
-        </tr>
-        <tr>
-          <td align="center" nowrap="" bgcolor="#F4F4F4"><a href="http://www.redhat.com"><img src="http://members-images.driverguide.net:8080/images/redhat_new.gif" width="74" height="28" border="0"></a><br>
-            <a href="http://www.redhat.com"><font face="
-arial,helvetica" size="1">RedHat Linux</font></a></td>
-        </tr>
-        <tr>
-          <td align="center" nowrap="" bgcolor="#F4F4F4"><a href="http://www.mysql.com/"><img src="http://members-images.driverguide.net:8080/images/mysql_new.gif" width="62" height="35" border="0"></a><br>
-            <a href="http://www.mysql.com"><font face="
-arial,helvetica" size="1">MySQL</font></a></td>
-
-        </tr>
-      </tbody></table></td></tr><tr>    </tr></tbody></table>
-    <!--End Left--></td>
-    <td valign="top" width="5" class="bgContentLeft">&nbsp;</td>
-    <td valign="top" width="100%" class="bgContent"><table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr><td class="mainBodyBox"><h1>Privacy Policy</h1>
+</script><br><br></td><td width="780" valign="top">          <div id="subTabsContainer">
+                <div class="subTabsCenter">
+                   <ul class="subTabs">
+                   <li class="selected"><a href="/index.php?action=doc">Documents</a></li> 
+                   </ul>
+                </div>
+          </div>
+          <br clear="all">
+          <h1>Privacy Policy</h1>
 
 <table cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
 
@@ -899,7 +360,7 @@ For questions about DriverGuide Premium Memberships, please use our <a href="htt
 
 
 </tbody></table>
-<p>
+<div class="google300x250BoxFooter">
 <script type="text/javascript"><!--
 google_ad_client = "pub-4727129938051271";
 /* 300x250, created 8/1/08 */
@@ -910,152 +371,83 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<!--
-
-  Begin chat section
-
-  HTML of chat section derived from phpFreeChat, Copyright 2006
-  Stephane Gully.  See style sheet note above for downloading and
-  licensing information.
-
--->
-
-<br>
-</p><div id="pfc_container">
- 
-  <div id="pfc_content_expandable">                
-
-  <div id="pfc_channels">
-    <ul id="pfc_channels_list"><li></li>
-
-
-    <li class="selected" classname="selected">
-      <div>
-        <span class="pfc_tabtitle" classname="pfc_tabtitle">
-          <img src="http://members-images.driverguide.com:8080/images/phpfreechat/ch.gif">
-Driver Chat
-        </span>
-      </div>
-    </li>
-
-
-    </ul><div id="pfc_channels_content">
-
-
-<div id="pfc_chat_div" class="pfc_chat" classname="pfc_chat" style="display: block;">
+</div>
+<br clear="both">
+<div class="google300x250TextFooter">
+Advertisement
 </div>
 
-<div id="pfc_online" class="pfc_online" classname="pfc_online" style="display: block; z-index: 100;">
-    <ul id="pfc_nick_list">
-    </ul>
-</div>
-    </div>
-
-
-
-  </div>
-
-  </div>
-
-&nbsp;<br>
-<center>
-<form onsubmit="return false;" name="light_chat_launcher">
-<select name="language_select" onchange="updateLanguage()">
-<option value="en" selected="">English</option>
-<option value="pt">Português</option>
-<option value="es">Español</option>
-<option value="tr">Türkçe</option>
-<option value="nl">Nederlands</option>
-<option value="it">Italiano</option>
-<option value="fr">Français</option>
-</select>
-
-<input type="submit" style="border: 1px solid #555555;" onclick="showFullChat()" value="                 Click to Chat                 ">
-</form>
-</center>
-
-</div>
-
-<!--
-
-  End phpFreeChat derived HTML
-
--->
-
-<div id="pfc_refocus" style="display: none; border: 1px solid #555555; padding: 30px; text-align: center;">
-Chat launched in another window.
-<br>&nbsp;<br>
-<form onsubmit="return false;">
-<input type="submit" style="border: 1px solid #555555;" onclick="showFullChat()" value="                              Click to Go to Chat Window                              ">
-</form>
-</div>
-
-<script language="JavaScript">
-<!--
-var chatDiv = document.getElementById("pfc_chat_div");
-var nickList = document.getElementById("pfc_nick_list");
-chatObserverTick(0);
-// -->
-</script>
-
-<br>
 </td></tr>
-</tbody></table></td>
-    <td valign="top" width="5" class="bgContentRight">&nbsp;</td>
-    <td valign="top" bgcolor="#6365AD" width="150" class="bgRight">    <!--Left-->
-    <table border="0" cellpadding="0" cellspacing="0" width="150" bgcolor="white">            <tbody><tr><td class="bgNavHeadL">Account</td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/ums/index.php?action=r">Sign up Now!</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/ums/index.php?action=l">Login</a></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Free Offers</td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_ubrb&amp;url=http%3A%2F%2Fwww.liutilities.com%2Faffcb%2F%3Fid%3DRBdriverguide%26aff%3D2243%26xat%3Drt-column">Free Registry Scan</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_ubrb&amp;url=http%3A%2F%2Fwww.liutilities.com%2Faffcb%2F%3Fid%3DSPdriverguide%26aff%3D2243%26xat%3Drt-column">Free Performance Scan</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_itm&amp;url=http://driverguide.tradepub.com">Free IT Magazines</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_hb&amp;url=http://www.healthboards.com/boards/index.php">Free Healthboards.com</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_te&amp;url=http://www.techemail.com">Free Email Account</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_dtn&amp;url=http://www.dailytechnews.com">Free Tech News</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_vp&amp;url=http://www.driverguide.com/videoprofessoronline.htm">Free PC Training Online</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://members.driverguide.com/index.php?action=redir&amp;label=free_offer_dgtk&amp;url=http://www.driverguidetoolkit.com">Free Trial Driver Tool</a></td></tr><tr>            </tr><tr><td class="bgNavLevel1L">                    <a class="tealLink" href="http://freescan.driverguide.com">Free DriverScan</a>                <span class="new">NEW</span></td></tr><tr>            </tr><tr><td class="bgNavHeadL">Sponsors</td></tr><tr>            </tr><tr><td class="bgNavLevel1L"><script type="text/javascript"><!--
-google_ad_client = "pub-4727129938051271";
-/* 160x600, created 8/21/08 */
-google_ad_slot = "3966117381";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br><br></td></tr><tr>    </tr></tbody></table>
-    <!--End Left--></td>
-  </tr>
-  <tr>
-    <td colspan="5" class="bgFoot"><!--Foot-->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td><span class="txtLightBlue">© Copyright 1997-2008 Driver Guide. All rights reserved.</span></td>
-<td><img src="http://members-images.driverguide.net:8080/images/px.gif" width="1" height="1"></td>
-<td nowrap="" align="right"><img src="http://members-images.driverguide.net:8080/images/arrow1.gif" width="8" height="6"> <a class="darkBlueLink" href="http://www.driverguide.com/contact.htm">Contact Us</a> | <a class="darkBlueLink" href="http://members.driverguide.com/index.php?action=feedback">Feedback</a> | <a class="darkBlueLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__advertising">Advertise with Us</a> | <a class="darkBlueLink" href="http://members.driverguide.com/index.php?action=doc&amp;page=home__docs__privacy">Privacy Policy</a></td></tr>
 </tbody></table>
+
+        </div>
+<br style="clearoth;">
+<div class="DGfooter">
+		   <div class="DGfooterLeft"></div>
+           <div class="DGfooterCenter"> 
+                <div class="DGfooterInLeft">
+                       <ul class="DGfooterLinks" type="none">
+                       <li class="DGfirst">Upload Driver</li>
+                       <li><a href="http://ftp.driverguide.com/upload/index.php">or firmware or documentation</a></li>
+                       <li class="DGfirst">Membership</li>
+                       <li><a href="/index.php?action=doc&amp;page=docs__premium__free">Free</a></li>
+                       <li><a href="/index.php?action=doc&amp;page=docs__premium__plus">Premium Plus</a></li>
+                       <li><a href="/index.php?action=doc&amp;page=docs__premium__pro">Premium Pro</a></li>
+                       </ul>
+               </div> 
+            
+           <div class="DGfooterInCenter">
+                       <ul style="DGfooterLinks" type="none">
+                       <li class="DGfirst">Site</li>
+                       <li><a href="/index.php?action=begin">Beginner's Guide</a></li>
+                       <li><a href="/index.php?action=faq">F.A.Q.</a></li>
+                       <li><a href="/index.php?action=doc&amp;page=home__docs__advertising">Advertise with us</a></li>
+                       <li><a href="/index.php?action=doc&amp;page=home__docs__hiring">Now
+                           Hiring</a></li>
+                       <li><a href="/ums/unsubscribe.php">Unsubscribe</a></li>
+                       </ul>
+           </div>
+           
+           
+           
+          <div class="DGfooterInRight">
+                       <ul style="DGfooterLinks" type="none">
+                       <li class="DGfirst">About Us</li>
+                       <li><a href="/index.php?action=doc&amp;page=home__about">Overview</a></li>
+                       <li><a href="/index.php?action=feedback">Contact Us</a></li>
+                       <li><a href="/index.php?action=site_survey">Take our Site Survey</a></li>
+                       <li><a href="/index.php?action=doc&amp;page=home__docs__awards">Awards</a></li>
+                       <li><a href="/index.php?action=testimonials">Testimonials</a></li>
+                       </ul>
+          </div>
+       	  </div>
+          <div class="DGfooterRight"></div>
+    <div class="DGbar"><font class="DGfooterText">2009 DriverGuide is an iCentric Corporation Company.</font> &nbsp;&nbsp;&nbsp; <font class="DGfooterText">All rights reserved.</font> &nbsp;&nbsp;&nbsp;</div>
+    <div class="alignRight"><a href="/index.php?action=doc&amp;page=home__docs__privacy">Privacy Policy</a></div>
+<font size="-2" face="Arial, Helvetica, sans-serif" color="#E6F5FF">server: web3, load: 0.87</font>
+
+</div> 
+</div>     
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-31581-3");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-31581-11");
 pageTracker._trackPageview();
-</script>
-
-<!--End Foot-->
-</td>
-  </tr>
-</tbody></table>
-
-
-</td>
-<td class="shadowR"><img src="http://members-images.driverguide.net:8080/images/px.gif" width="4" height="1"></td>
-</tr>
-  <tr>
-    <td colspan="5">
-        <font size="-2" face="Arial, Helvetica, sans-serif" color="#ffffff">server: web4, load: 5.61</font>
-        
-   </td>
-  </tr>
-</tbody></table>
-<!--End Main Table-->
+} catch(err) {}</script>
 
 </body></html>
