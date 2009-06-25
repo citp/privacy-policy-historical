@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huge.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224094621id_/http%3A//www.huge.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huge.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625090454id_/http%3A//www.huge.com/category/privacy) for the most accurate reproduction.*
 
 # Huge.com - If it's huge, it's on Huge.com
 
