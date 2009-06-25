@@ -1,14 +1,31 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031048id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002819id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
 # AVADirect - Privacy and Security
 
+|  Customer Login  
+---  
+Dear Customer,
+
+We highly recommend to login into your Customer Account when you place orders on our website. Click on the link below to create an account; it will take just one easy step. 
+
+[ CREATE ACCOUNT ](https://www.avadirect.com/account_create.asp) [**Tell me more ...** ]()  
+  
+  
+  
+
+
+| 
+
+| Privacy and Security Policies  
+---  
+  
 **Transaction Security**
 
-AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com . AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [Comodo Group](http://www.comodogroup.com/) to confirm identity of our online store before any transmission is sent. Comodo Group Secure Certificate gives all parties the confidence that information is being sent securely and to the right place. 
+AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com. AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [Trustwave](http://www.trustwave.com/) global certificate authority (CA) to confirm identity of our online store before any transmission is sent. Trustwave SSL Certificate gives all parties the confidence that information is being sent securely and to the right place. 
 
 **Fraud Protection**
 
-AVADirect has designed its online store to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. AVADirect is committed to data security with respect to information collected on our site. In addition to the industry standard security measures available through your browser called SSL encryption, we have made a practice to call customers in the event of potential problem with your purchase. Also, you may always contact a sales representative over the telephone in case you don't want to provide your credit card information online at 1-866-766-4629. Help provect yourself - we strongly encourage you to use your billing address as a shipping destination to minimize risk of fraud, however unlikely a scenario it may seem. For protection of our Customers, we ship only to the verified billing address or authorized shipping address registered with the Customer's credit card issuer. Authorized shipping address can be obtained upon contact of the credit card issuer. Credit card issuer registers alternative (shipping) address upon customer's authorization in addition to existing billing address for internet deliveries. Please call 1-866-766-4629 if you have any questions. To register an alternative address (not the same as billing - for example your office or relative's place of residence), call the toll-free number on the back of your credit card for further assistance. 
+AVADirect has designed its online store to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. AVADirect is committed to data security with respect to information collected on our site. In addition to the industry standard security measures available through your browser called SSL encryption, we have made a practice to call customers in the event of potential problem with your purchase. Also, you may always contact a sales representative over the telephone in case you don't want to provide your credit card information online at 1-216-503-6374. Help provect yourself - we strongly encourage you to use your billing address as a shipping destination to minimize risk of fraud, however unlikely a scenario it may seem. For protection of our Customers, we ship only to the verified billing address or authorized shipping address registered with the Customer's credit card issuer. Authorized shipping address can be obtained upon contact of the credit card issuer. Credit card issuer registers alternative (shipping) address upon customer's authorization in addition to existing billing address for internet deliveries. Please call 1-216-503-6374 if you have any questions. To register an alternative address (not the same as billing - for example your office or relative's place of residence), call the toll-free number on the back of your credit card for further assistance. 
 
 **Online Privacy**
 
