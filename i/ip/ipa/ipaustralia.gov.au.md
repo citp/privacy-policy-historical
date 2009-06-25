@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625192108id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/index.html) [About IP Australia](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20081218010240id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20090625192108id_/http%3A//www.ipaustralia.gov.au/index.html) [About IP Australia](https://web.archive.org/web/20090625192108id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20090625192108id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
 **Please note that this notice should be read in detail before using this site.**
+
+## Publication of Information
+
+The information required for the completion of IP Australia's electronic filing forms is required for the consideration of applications and includes the name of the owner of the IP Right, the address of the right's owner and the address provided for postal correspondence in Australia. This information will be published in the Australian Official Journals and made available on IP Australia's databases, both on-line within IP Australia and via the Internet. Other information provided in these forms that is personal information, including telephone numbers, facsimile numbers or e-mail addresses, is not necessary for the consideration of applications but will assist IP Australia to contact customers. It will not be disclosed outside IP Australia, except as required by law. 
 
 IP Australia is concerned about protecting your privacy. This policy sets out how we handle clickstream data, cookies and e-mail addresses. 
 
@@ -36,16 +40,12 @@ back to top
 
 We will only record your e-mail address if you send us a message or subscribe to one of our opt-in mailing lists. It will only be used for the purpose for which you have provided it. We will not use your e-mail address for any other purpose and will not disclose it without your consent. Electronic mail submitted to IP Australia is handled and saved according to the provisions of the Privacy Act 1988.
 
-## Publication of Information
-
-The information required for the completion of IP Australia's electronic filing forms is required for the consideration of applications and includes the name of the owner of the IP Right, the address of the right's owner and the address provided for postal correspondence in Australia. This information will be published in the Australian Official Journals and made available on IP Australia's databases, both on-line within IP Australia and via the Internet . Other information provided in these forms that is personal information, including telephone numbers, facsimile numbers or e-mail addresses, is not necessary for the consideration of applications but will assist IP Australia to contact customers. It will not be disclosed outside IP Australia, except as required by law. 
-
   
   
   
 
 
   
-© Commonwealth of Australia, 2008  
+© Commonwealth of Australia, 2009  
 [Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
 [Disclaimer](https://web.archive.org/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/about/site_privacy.shtml) | [About this Site](https://web.archive.org/about/site.shtml) | [IP Media Centre](https://web.archive.org/media/index.htm)
