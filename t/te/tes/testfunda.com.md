@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217161953id_/http%3A//www.testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testfunda.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235822id_/http%3A//testfunda.com/ExamPrep/Articles/SiteContent/PrivacyPolicy) for the most accurate reproduction.*
 
 # Article - PRIVACY POLICY
 
-This Privacy Policy explains what information is collected from visitors to [TESTfunda](http://www.testfunda.com/TestFunda.aspx), why the information is collected and how it is used. It also explains user options for accessing and managing information, our data security practices and other matters. [TESTfunda](http://www.testfunda.com/TestFunda.aspx) is operated and owned by Enabilon Learning Pvt. Limited. This Policy became effective 1 February 2008 and is subject to our Terms of Use. 
+This Privacy Policy explains what information is collected from visitors to [TESTfunda](http://testfunda.com/TestFunda.aspx), why the information is collected and how it is used. It also explains user options for accessing and managing information, our data security practices and other matters. [TESTfunda](http://testfunda.com/TestFunda.aspx) is operated and owned by Enabilon Learning Pvt. Limited. This Policy became effective 1 February 2008 and is subject to our Terms of Use. 
 
 Why we collect personal information  
 We collect personal information from you to identify you, to ensure that we provide you with the correct feedback regarding your performance in various tests, and to help us deliver a superior educational experience. Information collected enables us to give you convenient access to our service offerings and products, and may help us tailor your educational experience. 
@@ -57,9 +57,9 @@ Other than the above mentioned sharing of data related to credit card informatio
 We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to : 
 
   1. Satisfy any applicable law, regulation, legal process or enforceable governmental request 
-  2. Enforce applicable [Terms of Use](http://www.testfunda.com/ExamPrep/Articles/SiteContent/TermsOfUse), including investigation of potential violations thereof 
+  2. Enforce applicable [Terms of Use](http://testfunda.com/ExamPrep/Articles/SiteContent/TermsOfUse), including investigation of potential violations thereof 
   3. Detect, prevent, or otherwise address fraud, security or technical issues, or 
-  4. Protect against imminent harm to the rights, property or safety of [TESTfunda](http://www.testfunda.com/TestFunda.aspx) or Enabilon Learning Pvt. Limited, its users or the public as required or permitted by law. 
+  4. Protect against imminent harm to the rights, property or safety of [TESTfunda](http://testfunda.com/TestFunda.aspx) or Enabilon Learning Pvt. Limited, its users or the public as required or permitted by law. 
 
 If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
