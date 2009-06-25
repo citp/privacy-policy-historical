@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225030224id_/http%3A//www.callwave.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callwave.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002742id_/http%3A//callwave.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Unified Communications from CallWave – FUZE, Voicemail-To-Text, Internet Fax, Internet Answering Machine
 
