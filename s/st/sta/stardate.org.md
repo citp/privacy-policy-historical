@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014052id_/http%3A//stardate.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625182707id_/http%3A//stardate.org/about/privacy.html) for the most accurate reproduction.*
 
 # StarDate Online | Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 StarDate Online and the University of Texas McDonald Observatory take your privacy and the protection of your personally indentifiable information very seriously. We guarantee that we will never sell, trade, or disclose your confidential information unless we have your permission or are required to do so by law. StarDate Online and StarDate magazine are ad-free publications supported by listeners and national sponsors. We do not share your information with our sponsors. You may contact us at any time to change the information you have given to StarDate. 
 
 Traffic Data  
-When you visit StarDate Online, our web server collects anonymous, basic information about your computer, including IP address, operating system (e.g., Windows 98), browser software (e.g., Internet Explorer, Netscape), and Internet Service Provider (e.g., AOL). We also collect information about what pages our users view on the site and the site or search engine from which you were referred to us in order to determine what features our users like best.
+When you visit StarDate Online, our web server collects anonymous, basic information about your computer, including IP address, operating system (e.g., Windows XP), browser software (e.g.,Firefox, Safari, Internet Explorer,), and Internet Service Provider (e.g., AOL). We also collect information about what pages our users view on the site and the site or search engine from which you were referred to us in order to determine what features our users like best.
 
 Use of Cookies  
 The Sunrise/Sunset calculator on this website uses a cookie — a small text file placed on your computer's hard drive — to remember latitude and longitude of the location you last viewed. The cookie itself does not contain any personally identifying information, and you may use the Sunrise/Sunset calculator if you have disabled the use of cookies in your browser software.
