@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165514id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625123234id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
@@ -14,7 +14,7 @@ This privacy notice applies to following websites :
 [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer.fi](http://www.pioneer.fi/) | [www.pioneer.pt](http://www.pioneer.pt/)  
 [www.pioneer.be](http://www.pioneer.be/) | [www.pioneer.fr](http://www.pioneer.fr/) | [www.pioneer.se](http://www.pioneer.se/)  
 [www.pioneer.co.uk](http://www.pioneer.co.uk/) | [www.pioneer.it](http://www.pioneer.it/) | [www.djsounds.com](http://www.djsounds.com/)  
-[www.pioneer.de](http://www.pioneer.de/) |   |    
+[www.pioneer.de](http://www.pioneer.de/) |  |   
   
 Your use of these websites implies your agreement and acceptance of the clauses of our Privacy Policy. If this is not the case, then we request you not to provide us with any personal information.
 
@@ -82,7 +82,7 @@ Over time, we may opt to modify or update this policy either due to changes in l
 Should you have questions about this privacy policy, the privacy aspects of our products and services or would like to make a complaint, please contact :
 
 PIONEER EUROPE NV  
-European Marketing Communication Division - Privacy Office  
+European Emarketing Division - Privacy Office  
 Haven 1087 - Keetberglaan 1  
 B - 9120 Melsele  
 Belgium  
