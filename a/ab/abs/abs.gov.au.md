@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022106id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625031700id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument%3Futm_id%3DGB) for the most accurate reproduction.*
 
 # ABS Web Site Privacy Statement
 
@@ -61,4 +61,7 @@ If you prefer not to submit information via the website, please [contact the ABS
 
 This page first published 29 February 2008, last updated 17 December 2008
 
-[](http://www.addthis.com/bookmark.php)
+[](http://www.addthis.com/bookmark.php)  
+  
+  
+Unless otherwise noted, content on this website is licensed under a Creative Commons Attribution 2.5 Australia Licence together with any terms, conditions and exclusions as set out in the website Copyright notice. For permission to do anything beyond the scope of this licence and copyright terms contact us.
