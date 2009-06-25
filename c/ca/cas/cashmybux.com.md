@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashmybux.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217033929id_/http%3A//www.cashmybux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmybux.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625060722id_/http%3A//www.cashmybux.com/privacy.php) for the most accurate reproduction.*
 
-# CashMyBux - Advertise - Click, Earn, Make, Cash. Advertisers, increase your traffic and sales with our packages. Members, earn money online with our services.
+# Welcome to CashMyBux.com - The Advertising & Earning Globe
 
 Privacy Policy
 
