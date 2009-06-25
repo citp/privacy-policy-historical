@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145324id_/http%3A//www.foreclosureradar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625045122id_/http%3A//www.foreclosureradar.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ForeclosureRadar.com
 
