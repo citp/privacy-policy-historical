@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133544id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235019id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Dublin City Council: Privacy Statement
 
@@ -32,6 +32,8 @@ We will:
   * Give you a copy of your personal information on request
 
 
+
+[Click here to read our Code of Practice](https://web.archive.org/Documents/Data_Protection_Code_of_Practice.pdf "This link will open in a new window")
 
 ### Getting your personal information
 
@@ -93,13 +95,3 @@ If you are not using Microsoft Windows Explorer, then you should select ‘cooki
 ### Links to other sites
 
 This privacy policy does not cover the links within this site linking to other sites. 
-
-### For more information
-
-Dublin City Council  
-Information Management Unit  
-Corporate Services Department  
-3 Palace Street  
-Dublin 2
-
-**Email** : [foi@dublincity.ie](mailto:foi@dublincity.ie)
