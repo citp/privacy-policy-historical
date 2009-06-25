@@ -1,62 +1,51 @@
-> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615144804id_/http%3A//worldoffreegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - World Of Free Games
+# Highlights of Privacy Policy
 
-**worldoffreegames.com takes your privacy seriously. Please read the following to learn more about our privacy policy.**
+**HIGHLIGHTS OF PRIVACY POLICY  
+EFFECTIVE: JANUARY 5, 2007**
 
-**What this Privacy Policy Covers**  
+We want you to be informed of our privacy practices. The following applies to our websites, and products, and covers how we collect and use the information we receive. This is only a summary, for more information, please read our complete [Privacy Policy](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/PrivacyPolicy_Full.html).
 
+**Information We Collect**     [Additional details](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/PrivacyPolicy_Full.html#InfoCollect)
 
-  * This Privacy Policy covers worldoffreegames.com'ss treatment of personally identifiable information that worldoffreegames.com collects when you are on the worldoffreegames.com site, and when you use worldoffreegames.com services. This policy also covers worldoffreegames.com'ss treatment of any personally identifiable information that worldoffreegames.com's partners share with worldoffreegames.com. 
-  * This policy does not apply to the practices of companies that worldoffreegames.com does not own or control, or to people that worldoffreegames.com does not employ or manage. 
-
-**Information Collection and Use**  
-
-
-  * worldoffreegames.com collects personally identifiable information when you register for a worldoffreegames.com account and when you use certain worldoffreegames.com services. worldoffreegames.com may also receive personally identifiable information from our business partners. 
-  * When you register with worldoffreegames.com, we ask for several details which may or may not include your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Eventhough you register with worldoffreegames.com and sign in to our services, you are still anonymous to us. 
-  * worldoffreegames.com also automatically receives and records information on our server logs from your browser including your IP address, worldoffreegames.com cookie information and the page you requested. 
-  * worldoffreegames.com uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
-
-**Information Sharing and Disclosure**  
+  * We collect information you choose to submit, for example, when you download one of our products, subscribe to our online services, or participate in a survey or contest.
+  * We may obtain additional information about you, such as updated address, demographic or lifestyle information, from other sources.
+  * We use common Internet technologies, such as cookies, on our Web sites and in our e-mails.
 
 
-  * worldoffreegames.com will not sell or rent your personally identifiable information to anyone. 
-  * worldoffreegames.com will send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information; 
-    * We need to share your information to provide the product or service you have requested; 
-    * We need to send the information to companies who work on behalf of worldoffreegames.com to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
-    * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web sites are harmful to us (hacking etc.). 
 
-**Cookies**  
+**Uses of information**     [Additional details](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/PrivacyPolicy_Full.html#UsesofInfo)
 
-
-  * worldoffreegames.com may set and access worldoffreegames.com cookies on your computer. 
-  * worldoffreegames.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to worldoffreegames.com'ss cookies. 
-  * worldoffreegames.com uses web beacons to access our cookies within our network of web sites and in connection with worldoffreegames.com products and services. 
-  * This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
-
-**Your Ability to Edit and Delete Your Account Information and Preferences**  
+  * We use the information you submit to provide our services including the presentation of personalized content.
+  * We use your information to inform you of other products or services offered by us and our partners.
+  * We may share information about you with vendors we have hired to provide services on our behalf.
+  * We may share information about you with our partners and companies that provide online content, if those companies host that content.
+  * We will share your e-mail address with other companies, if you consent.
+  * We may share your name and postal address with our subsidiaries and selected other companies for mail offers of their products and services, if you consent.
 
 
-  * worldoffreegames.com gives you the ability to edit your worldoffreegames.com Account Information and preferences at any time, including whether you want worldoffreegames.com to contact you. 
-  * You may request deletion of your worldoffreegames.com account by using this [_form_](https://web.archive.org/contact.php).
 
-**Security**  
+**Your Choices**     [Additional details](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/PrivacyPolicy_Full.html#YourChoices)
 
-
-  * Your worldoffreegames.com Account Information is password-protected for your privacy and security.
-
-**Ad-Serving**  
-This site, World Of Free Games, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. **Changes to this Privacy Policy**  
+  * You may unsubscribe from our e-mail list.
+  * You may direct us not to share your e-mail with other companies for offers of their products and services. You may also turn off cookies in your browser.
 
 
-  * worldoffreegames.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
-**Questions or Suggestions**  
+**Important information**
+
+  * For information and tips on children’s online privacy visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://www.onguardonline.gov/)
+  * Any personal information you provide will be maintained in the United States
+  * We encourage you to read our full [Privacy Policy](https://web.archive.org/web/20090625175755id_/http%3A//policy.worldoffreegames.com/PrivacyPolicy_Full.html)
 
 
-  * If you have questions or suggestions contact us using this [_form_](https://web.archive.org/contact.php). 
 
+**How to contact us**  
+Questions about our Privacy policy or about Freeze’s handling of your information may be sent via e-mail to: either by accessing [http://support.freeze.com](http://support.freeze.com/) or by sending a message to [privacy@support.w3i.com](mailto:privacy@support.w3i.com). If you would prefer to write to us please send your correspondence to:
+
+W3i, LLC  
+Attention: Customer Care – Privacy Policy Issues  
+1900 Medical Arts Ave. S. Ste. 200  
+Sartell, MN 56377  
 
