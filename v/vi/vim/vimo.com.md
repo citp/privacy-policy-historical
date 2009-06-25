@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vimo.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164040id_/http%3A//www.vimo.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimo.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625174941id_/http%3A//www.vimo.com/html/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement at Vimo - Comparison Shopping for Health
+# Privacy Statement at Vimo - Comparison Shopping for Health Insurance
 
 Vimo is strongly committed to protecting your privacy and security. We understand the nature of the information entrusted to us and make every effort to protect such information according our established security policies. 
 
