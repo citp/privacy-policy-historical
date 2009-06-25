@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synxis.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217094642id_/http%3A//www.synxis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synxis.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625125709id_/http%3A//www.synxis.com/privacy.php) for the most accurate reproduction.*
 
 # Hotel Booking Systems | SynXis – Privacy Policy | Hotel Internet Marketing & Distribution
 
