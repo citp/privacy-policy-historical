@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217172907id_/http%3A//www.nasm.org/support.aspx%3Fid%3D302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasm.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010738id_/http%3A//www.nasm.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D171) for the most accurate reproduction.*
 
-# Certification Fitness Personal Trainer - Fitness Instructor Certification - NASM
+# NASM - Contact Us
 
 NASM is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the NASM Web site and governs data collection and usage. By using the NASM Web site, you consent to the data practices described in this statement.
 
