@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the gettysburg.edu privacy policy that was archived on 2007-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070528212540id_/http%3A//www.gettysburg.edu/global/privacy_statement.dot) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gettysburg.edu privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626010820id_/http%3A//www.gettysburg.edu/global/privacy_statement.dot) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="webkit safari linux js"><head>
 <link rel="shortcut icon" href="/global/images/g.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
 <title>Gettysburg College - Privacy Statement</title>
 <script type="text/javascript"></script>
 <style media="screen" type="text/css">
@@ -11,6 +13,9 @@
 	@import url(/global/css/navigation.css);
 	@import url(/global/css/layout.css);
 	@import url(/global/css/sections.css);
+</style>
+<style media="handheld" type="text/css">
+    @import url(/global/css/print.css);
 </style>
 <style media="print" type="text/css">
 	@import url(/global/css/wysiwyg.css);
@@ -22,16 +27,67 @@
 
 	<div class="pageWrapper body2Col">
 	
+<!--preload crm images -->
+<div style="position:absolute; left:-999em; width:200px;">
+
+<img src="/global/images/wireframe/bg_login_div.gif" alt="">
+
+<img src="/global/images/wireframe/btn_blue_50.gif" alt="">
+<img src="/global/images/wireframe/btn_blue_50_h.gif" alt="">
+
+<img src="/global/images/wireframe/icon_alert_message.gif" alt="">
+<img src="/global/images/wireframe/bg_alert_button_grad.gif" alt="">
+<img src="/global/images/wireframe/bg_alert_grad.gif" alt="">
+<img src="/global/images/wireframe/bg_alert_top_line.gif" alt="">
+
+<img src="/global/images/wireframe/bg_blue_on.gif" alt="">
+<img src="/global/images/wireframe/bg_getty_buttons.gif" alt="">
+<img src="/global/images/wireframe/bg_gray_on.gif" alt="">
+<img src="/global/images/wireframe/bg_light_blue.gif" alt="">
+<img src="/global/images/wireframe/bg_sideCol_body.gif" alt="">
+<img src="/global/images/wireframe/bg_sideCol_top.gif" alt="">
+<img src="/global/images/wireframe/bg_wht_off.gif" alt="">
+<img src="/global/images/wireframe/my_getty_blue.gif" alt="">
+<img src="/global/images/wireframe/bg_top_links.gif" alt="">
+<img src="/global/images/wireframe/bg_top_links_orange.gif" alt="">
+
+</div>
+<!--end preload images -->
+
+<script type="text/javascript" src="/global/js/help_popup.js"></script>
+
+
+<script type="text/javascript" src="/html/js/scriptaculous/prototype.js"></script>
+<script type="text/javascript" src="/html/js/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/html/js/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/html/js/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/html/js/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/html/js/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/html/js/scriptaculous/slider.js"></script>
+<script type="text/javascript">
+	function toggleLogin(){
+		var login_div=document.getElementById('login-form');
+		if(login_div.style.display=='none')
+			Effect.Appear('login-form',{duration:1.0,afterFinish:changeLoginFocus});
+		else
+			Effect.Fade('login-form',{duration:1.0});return(false);
+	}
+	function changeLoginFocus(){
+		document.getElementById('userNameText').focus();
+	}
+	function createAnAccountHeader(){
+		var form = document.getElementById("createAccountHeaderForm");
+		form.submit();
+	}
+</script>
 <div class="headerWrapper">
 	<div class="logo"><a href="/"><img src="/global/images/logo.gif" border="0" alt="Gettysburg Logo" title="Gettysburg Logo"></a></div>
 	
 	<div class="siteTools">
+		<a href="#" onclick="return(toggleLogin())">Log-in</a>
 		<a href="/news_events/">News</a>&nbsp;
 		<a href="/news_events/calendar/calendar.dot">Events</a>&nbsp;
 		<a href="/alumni/supporting_thecollege/make_agift.dot">Make a Gift</a>&nbsp;
 		<a href="/library/index.dot">Library</a>&nbsp;
 		<a href="/about/offices/fa/bookstore">Bookstore</a>&nbsp;
-		<a href="/admissions/request_information/index.dot">Request Information</a>
+		<a href="/dotCMS/gettysburgRequestInfo">Request Information</a>
+
+
 	</div>
 
 	<span class="clear">&nbsp;</span>
@@ -58,24 +114,137 @@
 	  <a href="/admissions/" class="admissions">Admissions</a>
 </li>
 <li>
-	<a href="/scholarships_aid/" class="scholarships_aid">Scholarships &amp; Aid</a>
+	<a href="/scholarships_aid/" class="scholarships_aid">Scholarships and Aid</a>
 </li>
-<li>
-	<a href="/uniquely_gettysburg/" class="distinctively_gettysburg">Uniquely Gettysburg</a>
+<li style="background:none;">
+	<a href="/facts_figures/" class="facts_figures">Facts and Figures</a>
 </li>
 <!-- dynamic -->
 		</ul>
 		<span class="clear">&nbsp;</span>
 	</div>
-					
-</div>			
+</div>		
+<div style="position:relative">					
+
+<div id="login-form" style="opacity: 0.999999; display: none;">
+	<form action="/dotCMS/login" method="post" id="my_account_fm_header" name="my_account_fm_header">
+		<a href="javascript:document.getElementById('my_account_fm_header').submit();" class="btn_tiny" style="float:right;">Login</a>
+
+		<input name="dispatch" type="hidden" value="login">
+		<input name="referrer" type="hidden" value="">
+		<label for="userName">Username:</label><input name="userName" id="userNameText" size="15" tabindex="1" maxlength="30" type="text">
+		<label for="password">Password:</label><input name="password" id="password" size="15" tabindex="2" maxlength="30" type="password" onkeypress="if (event.keyCode == 13) { document.getElementById('my_account_fm_header').submit() }">
+
+<span>
+	
+
+<a href="javascript:createAnAccountHeader();">Not Registered? Click here to create an account</a>
+
+<input name="rememberMe" tabindex="4" type="checkbox">
+<label for="rememberMe" id="rememberLabel">Remember Me</label>	
+	        
+</span>
+	</form>
+
+<form action="/dotCMS/createAccount" method="post" id="createAccountHeaderForm" name="createAccountHeaderForm" autocomplete="off"></form>
+
+
+</div>
+
+</div>
+<script language="JavaScript">
+
+function show(divID) {
+	var showDiv = document.getElementById(divID);
+	var hrefID = document.getElementById(divID + "_href");
+	var currState = showDiv.style.display;
+	if (currState == 'block'){
+		hrefID.className = "";
+		showDiv.style.display = 'none';
+		}
+	else {
+		hrefID.className = "active";
+		showDiv.style.display = 'block';
+	}
+}
+
+</script>
+
+
+   <span class="top_getty"></span>
+
+<div class="sideWrapper">
+
+
+<div id="login_reg">
+<a href="/dotCMS/login">Log-in</a>
+<a href="/dotCMS/createAccount">Create Account</a>
+</div>
+
+<div class="personalContent">
+
+
+		
+		
+	   
+
+
+	<img src="/resize_image?path=/dotAsset/1866459.jpg&amp;w=178" alt="Gettyburg College">
+
+
+
+
+	
+
+      
+	   <p><b>myGettysburg</b> personalizes your web experience.
+</p>
+
+
+<h2><a href="/mygettysburg/account_benefits.dot">Prospective students</a></h2> 
+<ul>
+	<li>Update your interests</li>
+	<li>Connect with contacts on campus</li>
+	<li>Check the status of your application materials</li>
+</ul>
+<br>
+
+<h2><a href="/mygettysburg/account_benefits.dot">Alumni</a></h2>
+<ul>
+	<li>Update your profile and contact information </li>
+	<li>Search the alumni directory</li>
+	<li>Manage your investment in Gettysburg</li>
+
+<br>
+</ul>
+
+
+
+<h2><a href="/mygettysburg/account_benefits.dot">Learn more</a></h2>
+
+  
+&nbsp;<br>
+
+</div>
+
+
+
+
+
+
+
+<div style="clear:both;"></div>
+<img src="/global/images/wireframe/bg_sideCol_bottom.gif" alt="" class="bottom">
+</div> <!-- end wrapper -->	
 		<div class="bodyWrapper lmLayout">
 			<div class="leftColWmark">
 
 				<div class="leftCol">
 				
-	<!-- letft menu path at current level -->
-		
+<div id="sideMenu"> 
+			
+							
+				</div> 
 
 
    
@@ -103,14 +272,37 @@ function doSitePeopleSearch(){
 	}
 }
 
-</script>				</div>
+</script>
+<!-- Facts and Figures - Left Navigation Container STARTS -->
+<!-- Facts and Figures - Left Navigation Container ENDS -->
+
+				</div>
 				<div class="mainCol">
 	
 
 <div class="section pageInfo">
-	<h1> Privacy Statement </h1>
+   
+
+                                 	
+	
+	<script language="JavaScript" type="text/javascript">
+function submitFavoriteForm() {
+	var form = document.getElementById("addToFavoritesForm");
+	form.submit();
+}
+</script>
+<div id="addToFavoritesDiv" name="addToFavoritesDiv">
+	<form name="addToFavoritesForm" id="addToFavoritesForm" method="post" action="/dotCMS/addFavorites">
+		<input type="hidden" name="url_page" id="url_page" value="/global/privacy_statement.dot">
+		<input type="hidden" name="url_params" id="url_params" value="">
+		<a href="javascript:submitFavoriteForm();">Bookmarks</a>
+	</form>	
+</div>
+          	
+  <h1> Privacy Statement </h1>
 <div class="breadcrumbs">
-	<div id="crumbtrail"><ul><li><a href="/">Home</a> &gt; </li><li>Privacy Statement</li></ul></div>
+
+	<ul><li><a href="/">Home</a><img src="/global/images/breadcrumbs_arrow.gif" alt="ct_img"></li><li>Privacy Statement</li></ul>
 </div>
 
 </div>
@@ -135,8 +327,9 @@ function doSitePeopleSearch(){
 
 
 
+
+
 	
-	
 
 
 
@@ -160,24 +353,61 @@ function doSitePeopleSearch(){
 
 
 
-	Gettysburg College's Internet and World Wide Web sites are committed to protecting the privacy and confidentiality of our site users. Among our goals is the intention to give the end user as much control as possible over personal information. Collecting information is an inherent part of the normal operation of our sites (and of practically all Internet sites). This statement describes what information is collected, how it is collected, why it is collected, and how it may be used. After reading it, users can make informed decisions about whether and how to make use of our various Internet services. 
-<h3>Server logs</h3>
-<p>Like practically all Web servers, our Internet hosts collect and store information sent by the Web browser when it makes a request for Web content. Collected information may include the Internet Protocol (IP) address being used by a user's computer, or by the firewall or proxy server of the user's network; the hostname associated with that address; the date and time the browser made the request; what page or file was requested; the page the browser "came from" immediately before the request; and "User agent" information, which normally includes the browser software and operating system the computer is currently running. These logs are stored for the purpose of analyzing trends in how people are using our systems. With this information we identify heavy use periods, the most common Web browsers, the most popular content on our sites, and other related information that helps us improve the usefulness and performance of our Web sites.</p>
-<h3>Electronic mail and messaging software</h3>
-<p>When a user contacts a representative of Gettysburg using electronic mail (email) or an Instant Messaging service, information included in that message may be used to respond to the message or to provide a requested service or information. The message, or information in it, may be shared with other employees of the college for the purpose of providing requested information or a requested service. Information collected in this way, including email addresses and messaging usernames, is never distributed to persons or organizations outside Gettysburg unless absolutely necessary to fulfill a request. Gettysburg does not give or sell lists of email addresses for commercial purposes.</p>
-<h3>File transfer protocol (FTP)</h3>
-<p>Some of our resources are made available using FTP. Many browsers are configured to provide the user's email address as the "password" for anonymous FTP requests. In those cases, the email address so provided may be recorded in the FTP server's request log. Gettysburg does not make any use of addresses stored in this way except to analyze FTP server usage.</p>
+
+
+
+
+<p>
+Gettysburg College's Internet and World Wide Web sites, including, without limitation, the myGettysburg web communities, are committed to protecting the privacy and confidentiality of our site users. Among our goals is the intention to give the end user as much control as possible over personal information. Collecting information is an inherent part of the normal operation of our sites (and of practically all Internet sites).This policy describes what information is collected, how it is collected, whyit is collected, and how it may be used. After reading it, users can make informed decisions about whether and how to make use of our various Internet services.
+</p>
+<h3>Serverlogs</h3>
+<p>
+Like practically all Web servers, our Internet hosts collect and store information sent by theWeb browser when it makes a request for Web content. Collected information may include the Internet Protocol (IP) address being used by a user's computer, or by the firewall or proxy server of the user's network; the hostname associatedwith that address; the date and time the browser made the request; what page or file was requested; the page the browser "came from" immediately before the request; and "User agent" information, which normally includes the browser software and operating system the computer is currently running. These logs are stored for the purpose of analyzing trends in how people are using our systems. With this information we identify heavy use periods,the most common Web browsers, the most popular content on our sites, and otherrelated information that helps us improve the usefulness and performance of our Web sites.
+</p>
+<h3>Electronicmail and messaging software</h3>
+<p>
+When a user contacts a representative of Gettysburg using electronic mail (email) or an Instant Messaging service, information included in that message may be used to respond to the message or to provide a requested service or information. The message, or information in it, may be shared with other employees of the college for the purpose of providing requested information or a requested service. Information collected in this way, including email addresses and messaging usernames, is never distributed to persons or organizations outside Gettysburg unless absolutely necessary tofulfill a request. Gettysburg does not give or sell lists of email addresses for commercial purposes.
+</p>
+<h3>Filetransfer protocol (FTP)</h3>
+<p>
+Some of our resources are made available using FTP. Many browsers are configured to provide the user's email address as the "password" for anonymous FTP requests. In those cases, the email address so provided may be recorded in the FTP server's request log. Gettysburg does not make any use of addresses stored in this way except to analyze FTP server usage.
+</p>
 <h3>Cookies</h3>
-<p>Some of our sites create a "cookie", a record on your computer's own hard disk, which makes it possible for our sites to recognize that a specific computer has made previous requests. Our cookies are used exclusively for providing services requiring such a record. Gettysburg does not track cookies for any purpose other than the needs of such Web-based applications. </p>
+<p>
+Some of our sites create a "cookie", a record on your computer's own hard disk, which makes it possible for our sites to recognize that a specific computer has made previous requests. Our cookies are used exclusively for providing services requiring such a record. Gettysburg does not track cookies for any purpose other than the needs of such Web-based applications. 
+</p>
 <h3>Surveys</h3>
-<p>Gettysburg may occasionally conduct online surveys of its user base, which may include both campus community members and users who are not directly affiliated with Gettysburg. As part of such surveys we may, with the user's permission, collect personal and potentially identifying information. Any information gathered in this way is used for quantitative analysis of services, perceived qualities of the college, and users' attitudes towards Gettysburg or its Internet sites. If such information is to be made available to other organizations or to be published, that fact will be made known to users prior to participation, and their permission will be explicitly requested. Users can decline to participate if there is concern about the use of the collected information. Survey information will be released only in aggregate form, and not in connection with any identified individual user.</p>
+<p>
+Gettysburg may occasionally conduct online surveys of its user base, which may include both campus community members and users who are not directly affiliated with Gettysburg. As part of such surveys we may, with the user's permission, collect personal and potentially identifying information. Any information gathered in this way isused for quantitative analysis of services, perceived qualities of the college,and users' attitudes towards Gettysburg or its Internet sites. If such information is to be made available to other organizations or to be published, that fact will be made known to users prior to participation, and their permission will be explicitly requested. Users can decline to participate if there is concern about the use of the collected information. Survey information will be released only in aggregate form, and not in connection with any identified individual user.
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<b>myGettysburgCommunity<br>
+<span style="font-weight: normal" class="Apple-style-span">To join the myGettysburg Community of websites, you are required to create a myGettysburgaccount or a CNAV account.&nbsp; In eithercase, to create such accounts we will collect from you certain information suchas your name e-mail address.&nbsp; Your use of the myGettysburg Community is subject to our&nbsp;<a href="/global/disclaimer.dot">Terms of Use</a>.&nbsp; In particular, if you post any public comments in response to articles or other materials in the myGettysburg Community, you have no expectation of privacy with respect to such information,and Gettysburg College reserves the right to use such information in any manner the College sees fit, as determined in the College's sole discretion.</span></b>
+</p>
 <h3>Marketing information</h3>
-<p>Gettysburg may collect information from a user, with the user's permission, for the purpose of providing various services and information, possibly including promotional materials, or periodic updates on offered services or the progress of a previous request. Information collected in this way may be shared with other persons or departments within the college, but will not be shared in any way with persons or organizations that are not part of Gettysburg, unless necessary to fulfill a user's request (for example, providing credit card information to a payment processor to complete a payment transaction).</p>
+<p>
+Gettysburg may collect information from a user, with the user's permission, for the purpose of providing various services and information, possibly including promotional materials, or periodic updates on offered services or the progress of a previous request. Information collected in this way may be shared with other persons or departments within the college, but will not be shared in any way with persons or organizations that are not part of Gettysburg, unless necessaryto fulfill a user's request (for example, providing credit card information toa payment processor to complete a payment transaction).
+</p>
 <h3>Outside links</h3>
-<p>Much of Gettysburg's Web content includes links to content on Internet servers belonging to other persons or organizations, and not to Gettysburg. Gettysburg cannot control or make any representation concerning those persons' or organizations' collection and use of personal information.</p>
+<p>
+Our Websites may contain links to other sites.&nbsp; While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices&nbsp; other sites.&nbsp; Any information you provide to one of these other websites will be governed by the privacy policy of that website, and not by this Gettysburg College Privacy Policy.
+</p>
 <h3>Circumstances beyond our control</h3>
-<p>This statement explains how information collected from users is used by Gettysburg. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the college's permission or knowledge (for example, if an Internet host is "attacked", or is compromised by a virus). For this reason Gettysburg disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our Internet sites.</p>
+<p>
+This statement explains how information collected from users is used by Gettysburg. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the college's permission or knowledge (for example, if an Internet host is"attacked", or is compromised by a virus). For this reason Gettysburg disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our Internet sites.
+</p>
+<p>
+In addition,Gettysburg College will disclose personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Gettysburg College regarding its Websites and/or online communities;(b) protect and defend the rights or property of Gettysburg College; or (c) act in urgent circumstances to protect the personal safety of users of our Websites and/or online communities or the public.
+</p>
+<p>
+&nbsp;
+</p>
 	
+
+
 
 
 
@@ -196,7 +426,7 @@ function doSitePeopleSearch(){
 			<li><a href="/global/sitemap.dot">Sitemap</a></li>
 			<li><a href="/global/faq.dot">FAQ</a></li>
 			<li><a href="/global/privacy_statement.dot">Privacy Statement</a></li>
-			<li><a href="/global/disclaimer.dot">Disclaimer</a></li>
+			<li><a href="/global/disclaimer.dot">Terms of Use</a></li>
 			<li><a href="/about/offices/president/hr">Employment</a></li>
 			<li><a href="/about/contact_us/index.dot">Contact Us</a></li>
 			<li><a href="/global/about_thissite.dot">About this Site</a></li>
@@ -209,17 +439,30 @@ function doSitePeopleSearch(){
                            		</div>
 	</div>
 	<div class="footerRight">
-		<div class="copyright">© 2006 Gettysburg College. All Rights Reserved</div>
+		<div class="copyright">© 2008 Gettysburg College. All Rights Reserved</div>
 	</div>
 	<span class="clear">&nbsp;</span>
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+
+
+
+
 <script type="text/javascript">
-_uacct = "UA-285110-4";
-urchinTracker();
-</script>	
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6536076-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script src="/global/js/css_browser_selector.js" language="javascript"></script>
+
+	
 	</div>
 
 
