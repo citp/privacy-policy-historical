@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219050634id_/http%3A//www.flcu.org/About/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625092423id_/http%3A//flcu.org/About/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # FLCU-Florida Credit Union-Your Mortgage Solution
 
