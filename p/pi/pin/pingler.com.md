@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225075212id_/http%3A//www.pingler.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625093938id_/http%3A//www.pingler.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Blog and Ping Tool - Use Pingler.com to Drive Traffic your Blogs and Websites
+
+[](https://web.archive.org/account/account.php) A premium account allows you to store up the details of up to 25 websites in your account. These sites will be automatically pinged every three days. A premium account not only saves you the hassle of having to ping each of your sites manually, it ensures that pinging is performed frequently and in a timely manner. 
+
+[Sign up today](https://web.archive.org/account/account.php) to our basic package price of $2.99 / month and enjoy the best pinging site on the net.
 
 ## Privacy Policy
 
