@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223200557id_/http%3A//www.innovation.gov.au/General/Corporate-LegalandProcurement/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625110104id_/http%3A//www.innovation.gov.au/General/Corporate-LegalandProcurement/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -61,7 +61,7 @@ Telephone        +61 2 6213 7742
 Facsimile          +61 2 6213 7367
 
 Post                 Privacy Officer  
-                       Legal and Procurement Branch  
+                       Corporate Strategy Branch  
                        **Department of Innovation, Industry, Science and Research** **  
                         **Level 13, 10 Binara Street, Canberra City ACT 2601   
                        GPO Box 9839, Canberra ACT 2601 
