@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920064424id_/http%3A//www.jimdo.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120057id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Jimdo
 
@@ -7,7 +7,7 @@
 
   
 At Jimdo we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Jimdo Products. Jimdo is a service of the Jimdo GmbH.  
-If you have any questions about this Policy, please feel free to contact us at [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo, Privacy Department, Gasstr. 10, 22761 Hamburg, Germany.
+If you have any questions about this Policy, please feel free to contact us at [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo, Privacy Department, Stresemannstr. 375, 22761 Hamburg, Germany.
 
 **Information we collect and how we use it:**
 
@@ -61,10 +61,10 @@ If Jimdo gets acquired we reserve the right to transfer personal information to 
 
   
 This Privacy Policy may change. Of course, we will not reduce your rights without your explicit consent. All of the Policy changes will be posted on this page. If the changes are significant we will provide a more significant notice (i.e. email notification).  
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Jimdo, Privacy Department, Gasstr. 10, 22761 Hamburg, Germany.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Jimdo, Privacy Department, Stresemannstr. 375, 22761 Hamburg, Germany.
 
 **May 26, 2008**
 
-**Please note:** The previous version of our privacy statement (from February 2007) is stored under: [Old Version of Privacy Statement](http://www.jimdo.com/privacy_statement_old.php)
+**Please note:** The previous version of our privacy statement (from February 2007) is stored under: [Old Version of Privacy Statement](http://www.jimdo.com/info/privacy-statement-old/)
 
-If you don't agree with the changes of our privacy statement, it is possible to beg to differ within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via E-Mail: [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo GmbH, Gasstrasse 10, 22761 Hamburg, Germany.
+If you don't agree with the changes of our privacy statement, it is possible to beg to differ within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via E-Mail: [privacy@jimdo.com](mailto:privacy@jimdo.com) or write to Jimdo GmbH, Stresemannstrasse 375, 22761 Hamburg, Germany.
