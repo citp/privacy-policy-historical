@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216045817id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115443id_/http%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
 
 # Front Sight Firearms Training Institute
 
 ## **Privacy Policy**
 
 FrontSight.com
+
+P. O. Box 2619   
+Aptos, CA 95001 
+
+Phone (inside the US): 1.800.987.7719   
+Phone (international): 1.831.662.0917
 
 **Sharing and Selling Information**  
 We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
@@ -78,7 +84,7 @@ _**Our Commitment To Data Security:**_
 Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 **Choice/Opt-In/Opt-Out  
-**This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible. 
+**This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible. There is an unsubscribe link at the bottom of every email we send. 
 
 **Surveys & Contests **
 
@@ -91,6 +97,10 @@ Children are not eligible to use our services unsupervised and we ask that child
 **Acquisition or Changes in Ownership**
 
 In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
+
+**Emails We Send**
+
+After subscribing to our email list, we will provide you with the series of emails entitled "Gun Training Reports." We will additionally send you exclusive offers and promotions that you will only see by being a Front Sight Email Subscriber. 
 
 **Policy Modifications  
 **We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
