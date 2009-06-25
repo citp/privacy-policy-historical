@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220010425id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625192627id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babies Online
 
@@ -51,13 +51,11 @@ This site gives users the following options for changing and modifying informati
 
 ## Third Party Advertising
 
-We use DoubleClick's Network, Sonar, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [ http://www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy). 
+We use Google Adsense, DoubleClick's Network, Sonar, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [ http://www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy). 
 
 ## Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
-
-You can immediately opt-out of Doubleclick's unique cookies and have it switched to a non-unique cookie by clicking here [ http://www.doubleclick.net/cgi-bin3/optout/check2.pl](http://www.doubleclick.net/cgi-bin3/optout/check2.pl). You will find more information on opting out of Doubleclick's cookies can be found at <http://www.doubleclick.net/privacy_policy/privacy.htm>. If for some reason your cookies are erased, you will need to opt-out again. Please also check the privacy policy page at all the major advertising networks. You can find many of these by searching on google.com with the keywords: privacy policy advertising network 
 
 ## Contacting the Web Site
 
