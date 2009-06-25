@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusiness.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Media Privacy Policy
 
@@ -42,7 +42,7 @@ _What happens to information I provide on a contest entry?_
 **General FAQs**
 
 **_What is Rogers Media?_**  
-Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
+Rogers Media Inc. is one of Canada's largest media enterprises, including radio stations, "The Shopping Channel", "Rogers Sportsnet", two multicultural television stations in Toronto, and some of Canada's best-known consumer magazines, business periodicals, directories and information products. It is part of Rogers Communications Inc, which also includes Rogers Wireless, Canada's largest wireless voice and data communications services provider, and Rogers Cable, Canada's largest cable television provider offering cable television, high-speed Internet access and video retailing. [Click here](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) to see a list of all Rogers Media Web sites.  
 Back to top
 
 _**How can I learn more about your official privacy policy?**_  
@@ -63,7 +63,7 @@ Back to top
 
 **_Might I be contacted by organizations outside Rogers?_**  
 Advertisers who use direct mail may ask Rogers Publishing to be able to send through the mail material of interest to subscribers of some of our publications, but in such cases the list is only released to a reputable third party service bureau for the purpose of sending the specific mailing. E-mail lists might be used for similar communications. All such advertising material is reviewed and subject to approval for acceptable advertising content.  
-If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
+If you would prefer that you name not be provided to marketers outside of Rogers, please inform us. (see "[Contact Us](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/privacy.htm#Contact)" below)  
 Back to top
 
 **_What are marketing preferences?_**  
@@ -71,15 +71,24 @@ In general, we assume that your relationship with Rogers Media permits us to con
 Back to top
 
 _**How can I change my marketing preferences?**_  
-You can contact a customer service representative of the Rogers Media property you receive material from, or use their online customer care (if available for that property). If you registered with a password-protected profile at one of our web sites, log in to your profile update page and click the "Update Your Rogers Marketing Preferences" link at the bottom of the page. If you do not have a password-protected profile, you will have to upgrade your newsletter registration. Do this by registering for a password-protected profile with your existing e-mail address, and clicking on the upgrade link when prompted. If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.  
+You can contact a customer service representative of the Rogers Media property you receive material from, or use their online customer care (if available for that property). To access our customer care properties, please visit  
+Consumer properties:<http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm> or  
+Business to Business properties: <http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm>
+
+For consumer properties: If you registered with a password-protected profile at one of our web sites, log in to your profile update page and click the "Update Your Rogers Marketing Preferences" link at the bottom of the page. If you do not have a password-protected profile, you will have to upgrade your newsletter registration. Do this by registering for a password-protected profile with your existing e-mail address, and clicking on the upgrade link when prompted. If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.
+
+For business to business properties: If you set up a password-protected profile at one of our web sites, log in to your profile and update your preferences. You can also remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.  
 Back to top
 
 _**Does Rogers Media use telemarketing to sell magazine subscriptions?**_  
-Yes, we have found it convenient for some consumers to contact them by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national "Do Not Call" registry so that they do not call the phone numbers of people who have registered. You can get more information about the "Do Not Call" registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>. For telemarketing related to the renewals of existing subscriptions, you can update your contact preferences by logging in to your subscriber service page which can be found here. <http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm>  
+Yes, we have found it convenient for some consumers to contact them by phone either to start new subscriptions or to renew an existing subscription. The authorized agents who sell new subscriptions are required to make use of the national "Do Not Call" registry so that they do not call the phone numbers of people who have registered. You can get more information about the "Do Not Call" registry here <http://www.crtc.gc.ca/eng/INFO_SHT/t1031.htm>. For telemarketing related to the renewals of existing subscriptions, you can update your contact preferences by logging in to your subscriber service page which can be found here.   
+For consumer magazines: <http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm>[  
+](http://www.rogerspublishing.ca/subscribe/subscriptions_consumer.htm)For business magazines: <http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm>  
 Back to top
 
 _**What if I use Rogers Cable or Wireless services?**_  
-You should go to the customer care section of the Rogers web site at <http://www.rogers.com/web/Rogers.portal>  
+You should go to the customer care section of the Rogers web site at [  
+http://www.rogers.com/web/Rogers.portal](http://www.rogers.com/web/Rogers.portal)  
 Back to top
 
 **_Are there other ways my information will be used?_**  
@@ -87,7 +96,9 @@ In addition to the cases above, Rogers may use your personal information when we
 Back to top
 
 _**What about personalized ads in magazines?**_  
-Occasionally an advertiser may ask that we print the name of subscribers in their advertisement in our publications. When this is done, the subscriber's name is printed on the ad at the same time that the mailing label is printed on the cover of the magazine, and the subscriber's name appears only in their personal copy of the magazine. If you would prefer not have your name included in such advertisements, please contact us at Magazine Subscriber Service and specify 'Do Not Personalize'.  
+Occasionally an advertiser may ask that we print the name of subscribers in their advertisement in our publications. When this is done, the subscriber's name is printed on the ad at the same time that the mailing label is printed on the cover of the magazine, and the subscriber's name appears only in their personal copy of the magazine. If you would prefer not have your name included in such advertisements, please contact us at Magazine Subscriber Service and specify 'Do Not Personalize'.
+
+Please note ‘Do Not Personalize’ is not applicable to business magazines.  
 Back to top
 
 _**Does Rogers protect the privacy of children?**_  
@@ -106,7 +117,11 @@ Every time we send out one of our newsletters, we include an "unsubscribe" link.
 Back to top
 
 **_Can I change or update my e-mail newsletter subscriptions?_**  
-We have many e-mail newsletters for you choose from and realize your preferences may change over time. If you provided a password when you subscribed, just log on - using your e-mail address and your password - and you'll be brought to your profile page. All your choices are listed here. Simply click on the options provided, and then "Update Profile." If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.  
+We have many e-mail newsletters for you choose from and realize your preferences may change over time. 
+
+For consumer properties: If you provided a password when you subscribed, just log on - using your e-mail address and your password - and you'll be brought to your profile page. All your choices are listed here. Simply click on the options provided, and then "Update Profile." If you prefer not to register with a password, you can remove yourself from all future marketing e-mail communications by clicking the link found at the end of any marketing e-mail.
+
+For business properties: You can set your newsletter preferences by logging in to your customer care profile through <http://www.rogerspublishing.ca/subscribe/subscriptions_business.htm>. You can also remove yourself by clicking the ‘Unsubscribe’ link found in any e-mail newsletter.  
 Back to top
 
 _**Can I change my e-mail marketing preferences online?**_   
@@ -114,7 +129,7 @@ If you registered with a password-protected profile at one of our web sites, log
 Back to top
 
 _**I'm registering on one of your sites for the first time, but my name is here already. How?**_  
-Virtually all [Rogers Media Web sites](https://web.archive.org/web/20081216012112id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
+Virtually all [Rogers Media Web sites](https://web.archive.org/web/20090625021934id_/http%3A//www.rogerspublishing.ca/portfolio/rogers_web.htm) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.  
 Back to top
 
 **_Do Rogers web sites use cookies?_**  
@@ -181,6 +196,18 @@ Box 860
 Markham, ON L3P 8H8  
 Telephone:  | 905-946-0084   
 Fax:  | 905-946-1679  
+  
+**Subscribers to Rogers Media Business to Business, Trade and Professional magazines**  
+Each magazine’s masthead contains contact information for our Subscriber Services. To have your mailing address excluded from mailings by other organizations, provide your subscriber information in one of the following ways:
+
+E-mail: |   
+---|---  
+Mail:  | Privacy Request  
+Circulation Department  
+PO Box 720, Station K  
+Toronto, ON  M4P 3J6  
+Telephone:  | 866-236-0608  
+Fax:  | 416-932-1620  
   
 **Privacy Policy Inquiries**  
 For information about the Rogers Communications Inc. Commitment to Privacy, please contact:
