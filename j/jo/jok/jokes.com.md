@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040333id_/http%3A//www.jokes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625211257id_/http%3A//www.jokes.com/help/privacy) for the most accurate reproduction.*
 
-# Jokes.com | Stand-Up Comedy's Official Site | Comedy Central
+# Jokes.com
 
 [Go to Terms of Use Agreement](http://www.jokes.com/help/terms)  
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
