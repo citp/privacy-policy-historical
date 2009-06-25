@@ -1,54 +1,37 @@
-> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611185824id_/http%3A//www.zophar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625181840id_/http%3A//www.zophar.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Zophar's Domain: Privacy Policy
+# Privacy Policy - Zophar's Domain
 
-### Privacy Policy
+Effective 08/01/2001 
 
-FORWARD  
-Modern information and communication technologies play a fundamental role in the activities of an organization like Zophar's Domain. Keeping and maintaining accurate statistics on visitors, as well as an extensive client database is essential. These policies and standards are fully compliant with the regulations of the place of origin, the United States of America. Our principal activity is Entertainment, and this policy covers Zophar's Domain, its hosted sites, and is fully compliant with all upstream providers' policies.
+**Our Commitment To Privacy:**
 
-1\. ANONYMOUS ACCESS  
-You can access the Zophar's Domain Official Site, and Zophar's Domain Hosted Sites, (collectively our "Web Sites") and browse without disclosing your personal data.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-2\. SERVICES AND LINKS OF OUR WEB SITES  
-Our Web Sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. Our Web Sites include links to third party Web service providers.
+**The Information We Collect:**
 
-3\. AUTOMATIC COLLECTION OF INFORMATION  
-We, or our advertisers/affiliates automatically log personal data by means such as programming or link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes:
+This website does not collect any personally identifiable information for regular website users. 
 
-  * Technical administration of the Web Site
-  * Research and development
-  * Customer administration
-  * Marketing
+Should you register on the website, we collect email addresses and other information that will help us identify you on the next visit. Only such information is stored. 
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes:  
+**The Way We Use Information:**
 
+We use the information you provide about yourself to identify you on your next visit. We do not share this information with outside parties except to the extent necessary to identify you. 
 
-  * Technical administration of the Web site
-  * Research and development
-  * Customer administration
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-4\. DATA COLLECTION AND PURPOSE SPECIFICATION  
-We, or our advertisers/affiliates collect the personal data that you may volunteer while using our services, however, we do not collect information about our visitors from other sources, such as public records or bodies, or private organisations, or use personal data for any purpose other than that indicated below:
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-  * Technical administration of the Web Site: Name, Gender, Geographic location, E-mail address
-  * Research and development: Name, Gender, Geographic location
-  * Customer administration: Name, Gender, Address, E-mail, Phone/Fax, as well as any and all mandatory information on new client application forms
-  * Marketing: Name, Gender, Geographic location, frequented Web Sites, visited advertisements
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-If we wish to use your personal data for a new purpose, by continuing to use the services we provide, you give your full consent.
+**Our Commitment To Data Security:**
 
-5\. CHILDRENS' POLICY  
-We do not knowingly collect personal data from children (persons under the age of 13). We take specific steps to protect the privacy of children by making reasonable efforts to ensure that a parent has authorized the collection of the child's personal data, and by giving parents the option to consent to the collection and use of the child's personal data for our internal use. We do provide information about our personal data practices in relation to children on our Web Site and wherever we knowingly collect personal data from children on our Web site.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-6\. DISCLOSURE AND VISITOR CHOICE  
-We do not disclose your personal data to our subsidiaries or other organizations. Where we disclose your personal data for purposes which are different from those indicated in the list mentioned above, we offer you the opportunity to consent to disclosure.
+**Our Commitment To Children's Privacy:**
 
-7\. CONFIDENTIALITY AND SECURITY  
-We do not give visitors to our Web Site the option of using a secure transmission method to send us their personal data, however, we have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All of our employees, independent contractors, advertisers, affiliates and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data under penality of law. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation beyond our control.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-8\. ACCESS TO THE PERSONAL DATA WE MAY HOLD ABOUT YOU  
-You can ask us whether we are keeping personal data about you by emailing [swampgas@zophar.net](mailto:swampgas@zophar.net). Please allow 2-6 weeks for processing, and be prepared to give proper identification. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified or amended, or completed. We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
+**How To Contact Us:**
 
-9\. PRIVACY COMPLIANCE AND CONCERNS  
-If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please contact us at the address given in Item 8 above, and include contact info.
+Should you have other questions or concerns about these privacy policies, please send us an email at webmaster@zophar.net. 
