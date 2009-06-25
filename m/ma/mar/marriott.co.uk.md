@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609101508id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235049id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
 
 # Marriott Hotels UK & Ireland: Marriott Internet Privacy Statement
 
@@ -32,7 +32,7 @@ When we need to collect personally identifiable information from you to provide 
 
 You can opt out of the marketing emails and Marriott research surveys at any time by following the procedure outlined in the email marketing message or in the research survey. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the Marriott Rewards program or to redeem Marriott Rewards points.  On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly.  For example, if we know your name and postal address, we may use a third party to provide us with your email address.  We would then use this information for market analysis and marketing purposes.  
   
- Back to top  
+ Back To Top  
 | Creating a Personal Account  
   
 ---  
@@ -40,7 +40,7 @@ At your choice, you may create a personal account containing information such as
 
 You can access and review, update or deactivate, your personal account information on-line.  If you deactivate your personal account and are a Marriott Rewards member, all information not already required and stored as a condition of membership will be deleted.  If you are not a Marriott Rewards member and deactivate your personal account, the user ID and password are deleted and the account is recorded as inactive.  
   
- Back to top  
+ Back To Top  
 | Updating your personal Account information  
   
 ---  
@@ -50,7 +50,7 @@ Please note that Marriott **will never send you email requesting your user name,
 
 If you believe "phishers" have gotten access to your personal or financial information, we recommend that you change your password.  
   
- Back to top  
+ Back To Top  
 | Marriott Rewards Communications and Use of Member Information  
   
 ---  
@@ -60,13 +60,13 @@ the Marriott group of companies, person(s) authorized by you; Marriott franchise
 
 When choosing to become a Marriott Rewards member, you will have consented to receive all of the kinds of information described above. However, you will be given the opportunity to define and modify your mailing preferences.  
   
- Back to top  
+ Back To Top  
 | Registering Your Marriott Rewards Account  
   
 ---  
 At your choice, you can register your Marriott Rewards account for viewing online.  When you register your account you will be required to provide your name, email address, account number, a desired user name, desired password, and password reminder.  If you have registered your account, you may review, correct, or delete information in your account online.  If you do not have online access to your account, please notify your local Marriott Rewards Guest Services office in writing to review, correct, or delete information pertaining to your membership (there may be a charge as permitted by law), or to indicate your communication preferences.  
   
- Back to top  
+ Back To Top  
 | Cookies  
   
 ---  
@@ -87,7 +87,7 @@ The types of cookies that we use are referred to as “session” cookies and �
 
 You may set your browser to block cookies, although doing so will adversely affect your ability to perform certain transactions, use certain functionality, and access certain content on our Web site.  
   
- Back to top  
+ Back To Top  
 | Pixel Tags  
   
 ---  
@@ -104,11 +104,11 @@ Marriott and its third party service providers use pixel tags (also known as “
 
 
   
- Back to top  
+ Back To Top  
 | Other Marriott Sites within Marriott.com  
   
 ---  
 Within Marriott.com are numerous other Marriott websites that are accessible from links within Marriott.com or via separate URLs. Namely, these websites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, newworldhotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplacesuites.com, conferencecenters.com, execustay.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com  
   
- Back to top  
+ Back To Top  
 | 
