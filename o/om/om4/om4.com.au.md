@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2008-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081117193142id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625215253id_/http%3A//om4.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,4 +42,4 @@ Privacy Policy Changes
 
 Although most changes are likely to be minor, OM4 may change its Privacy Policy from time to time, and in OM4’s sole discretion. OM4 encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an OM4 community account, you should also check your site’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Thank you [Automattic](http://automattic.com/privacy) for sharing your Privacy Policy wording.
+Thank you [Automattic](http://automattic.com/privacy) for sharing your Privacy Policy wording. 
