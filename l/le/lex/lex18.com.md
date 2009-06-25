@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218112540id_/http%3A//www.lex18.com/global/story.asp%3Fs%3D6280527) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lex18.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625020314id_/http%3A//www.lex18.com/global/story.asp%3Fs%3D6280527) for the most accurate reproduction.*
 
-# LEX18 - Lexington, KY - News, Weather, Sports - WLEX Communications, LLC Website Privacy Statement
+# WLEX Communications, LLC Website Privacy Statement - LEX18 - Lexington, KY - News, Weather, Sports -
 
-|   
----  
-  
 **_WEBSITE PRIVACY STATEMENT_**
 
 Welcome to the website for WLEX Communications, LLC, www.lex18.com (the "Site").  This Site is owned by Evening Post Publishing Company ("Evening Post" or "us"), and powered by Gannaway Webholdings LLC d/b/a WorldNow ("WorldNow").  We at Evening Post recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information.  In order to address those concerns we have developed this Website Privacy Statement. 
