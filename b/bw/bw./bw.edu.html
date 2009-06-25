@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bw.edu privacy policy that was archived on 2008-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080913184630id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bw.edu privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626004712id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -140,10 +140,14 @@
 
 <!-- BEGIN SEARCH FUNCTION -->
 
-			<form action="/search/index.cfm" method="post" style="margin:0px; display: inline;">
-			<input type="text" name="keyword" size="10" class="field">
-			<input type="submit" value="SEARCH" class="button">
-			<input type="hidden" name="sAction" value="search">
+		<form action="http://search.bw.edu/search" method="GET" style="margin:0px; display: inline;">
+			  <input type="text" name="q" maxlength="256" size="8" value="">
+   			  <input type="submit" name="btnG" value="SEARCH" style="font-size:12px;">
+  			  <input type="hidden" name="site" value="default_collection">
+ 			  <input type="hidden" name="client" value="BW_frontend">
+ 			  <input type="hidden" name="output" value="xml_no_dtd">
+              <input type="hidden" name="numgm" value="5">
+ 			  <input type="hidden" name="proxystylesheet" value="BW_frontend">
 			</form>
 
 <!-- END SEARCH FUNCTION -->
@@ -157,7 +161,6 @@
 
 <div id="content">
 <!--REPLACE WITH PAGEWIZ CONTENT-->
-
 
 
 
@@ -203,9 +206,46 @@
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-3741240-1";
+ _uacct = "UA-3741240-1";
 urchinTracker();
 </script>
+
+
+ <script type="text/javascript">	// Below is the WebTrends Cookie Setting Code
+	function SetCookie(cookieName,cookieValue,nDays) {
+	 var today = new Date();
+	 var expire = new Date();
+	 if (nDays==null || nDays==0) nDays=1;
+	 expire.setTime(today.getTime() + 3600000*24*nDays);
+	 document.cookie = cookieName+"="+escape(cookieValue)
+					 + ";expires="+expire.toGMTString();
+	}
+
+	function getCookie(c_name){
+		if (document.cookie.length>0)
+		  {
+		  c_start=document.cookie.indexOf(c_name + "=");
+		  if (c_start!=-1)
+			{ 
+			c_start=c_start + c_name.length+1; 
+			c_end=document.cookie.indexOf(";",c_start);
+			if (c_end==-1) c_end=document.cookie.length;
+			return unescape(document.cookie.substring(c_start,c_end));
+			} 
+		  }
+		return "";
+	}
+	
+	bwWebT = getCookie("bwWebT"); // Get the value of the web trends cookie
+	if (bwWebT == ""){	
+		var randomnumber=Math.floor(Math.random()*100000001)
+		SetCookie("bwWebT", randomnumber, 365); //If there is no value of the web trends cookie, set a new value
+	}else{
+		SetCookie("bwWebT", bwWebT, 365); //If there is a value of the web trends cookie, extend that cookie for another year
+	}
+	//Above is the WebTrends Cookie Setting Code
+</script>
+
 
 
 
