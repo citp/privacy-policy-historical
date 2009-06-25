@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131140id_/http%3A//www.milkround.com/lrd.asp%3Fl%3D528516) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626012118id_/http%3A//www.milkround.com/lrd.asp%3Fl%3D528516) for the most accurate reproduction.*
 
 # News International Data Protection
 
