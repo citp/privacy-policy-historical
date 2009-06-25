@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155201id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626012015id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy relating to the SOAS website
 
@@ -70,6 +70,6 @@ By continuing to use the Website you agree that you have read the Access Agreeme
 
 #### Further information
 
-SOAS’s website is operated in accordance with the [School's Data Protection Policy](https://web.archive.org/infocomp/dpa/policy/data-protection-policy.html), which provides further information about the steps taken by the School to comply with the Data Protection Act.
+SOAS’s website is operated in accordance with the [School's Data Protection Policy](https://web.archive.org/infocomp/dpa/policy/), which provides further information about the steps taken by the School to comply with the Data Protection Act.
 
 You can request access to the data which we hold about you: see [Data Protection Act: Requesting Access to Personal Data](https://web.archive.org/infocomp/dpa/access/) for further information.
