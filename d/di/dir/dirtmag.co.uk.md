@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610150427id_/http%3A//www.dirtmag.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626014123id_/http%3A//dirtmag.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Terms | Dirt Mountain Bike | dirtmag.co.uk
+# Privacy | Dirt Mountain Bike
 
-## PRIVACY POLICY
+h2>PRIVACY POLICY 
 
 This Privacy Policy (the 'Policy') forms part of the Terms and Conditions for the access and use of this Website (the 'Terms') and should be read in conjunction with the Terms. Your access and use of this Website and any information you provide on the Website remains subject to the terms of this Policy and to our Terms.
 
