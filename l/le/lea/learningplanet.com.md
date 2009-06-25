@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163434id_/http%3A//www.learningplanet.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003735id_/http%3A//www.learningplanet.com/support/privacy.asp) for the most accurate reproduction.*
 
 # LearningPlanet.com
 
@@ -49,11 +49,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-If you would like to be removed from our mailing list, please send a message to subscribe @ learningplanet.com with the word "unsubscribe" in either the subject or the body of the message.
+If you would like to be removed from our mailing list, please send a message to subscribe (at) learningplanet.com with the word "unsubscribe" in either the subject or the body of the message.
 
 #### Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. To modify any information, please email both the old and new information to: subscribe @ learningplanet.com.
+This site gives users the following options for changing and modifying information previously provided. To modify any information, please email both the old and new information to: subscribe (at) learningplanet.com.
 
 #### Contacting Us
 
@@ -61,5 +61,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Michael Schipper, President  
 Planet Interactive, Inc.   
-Garland, Texas   
-mike @ learningplanet.com 
+Murphy, Texas   
+mike (at) learningplanet.com 
