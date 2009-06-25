@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120649id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120109id_/http%3A//www.thelotter.com/Content.aspx%3FContentId%3D40) for the most accurate reproduction.*
 
 # theLotter – Online Lottery Tickets & Lottery Results.
 
@@ -72,14 +72,17 @@ _
 
 |    
 ---  
-|   
-|   
   
-|  We are proud to transfer so far 205,062 winnings totaling   
+|  We are proud to transfer so far 234,424 winnings totaling   
 ---  
-US$ 12,742,895.84   
+US$ 13,502,030.32   
 |  Some of our latest big winners   
 ---  
-17 Dec 2008;VADIM B. Latvia;US$ 103;U.S.A. - Powerball   
+| 23 Jun 2009  
+---  
+Wenjie Y. Australia| | US$ 102|   
+Australia - Oz Lotto   
+  
+|   
   
 ****
