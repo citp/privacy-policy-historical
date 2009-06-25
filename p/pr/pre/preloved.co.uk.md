@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160642id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625171147id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
@@ -21,7 +21,7 @@ The policy below explains in detail how we manage your personal information:
 ## How we collect personal information
 
   * You may browse the site without telling us who you are or revealing any personal information about yourself.
-  * In order to perform certain activities on Preloved, you must first become a member. During registration, you are required to supply your name, a screen name (which can be just a first name or a nickname), contact information (email address and or telephone number), and your approximate geographic location.
+  * In order to perform certain activities on Preloved, you must first become a member. During registration, you are required to supply your full name, a screen name (which can be just a first name or a nickname), contact information (email address and or telephone number), and your approximate geographic location (town, county and postcode).
   * You may also choose to provide additional personal information (for example your occupation and your hobbies) in your Public Profile. This is entirely optional and it is down to you to decide how much information you wish to make public and in what detail.
   * If you make a credit card payment to Preloved, you do so via a third party payment processing company. In this case, Preloved may store your full address and the results of any card verification checks. Preloved does not store credit card numbers.
 
@@ -33,6 +33,7 @@ The policy below explains in detail how we manage your personal information:
   * When becoming a member of Preloved, you are given the opportunity to specify whether you wish to be contacted via email or telephone in response to any adverts you publish. You must choose at least one of these methods of contact. If you choose to be contacted by telephone, your telephone number is published to other members. If you choose to be contacted by email, your email address is not published but we provide a form from which other members can send you a message. These settings can be changed by visiting the members area at <http://www.preloved.co.uk/members/>
   * Preloved may publish a member's Public Profile on the site. You can control the information contained in this profile at <http://www.preloved.co.uk/members/>
   * Preloved will not sell, share or rent your name, email address, or any other personal details to any other third party for marketing purposes.
+  * Preloved may at its discretion take steps to verify with third parties the accuracy of personal information.
   * Preloved may at its discretion disclose personal information that is required by the police (or other organisations with a law enforcement role) for the prevention and detection of crime or the apprehension or prosecution of offenders, as provided for under Section 29 of the Data Protection Act.
   * Preloved may at its discretion disclose personal information to intellectual property rights holders for the investigation of fraud, intellectual property infringement or other unlawful activity connected to their property, as provided for under Section 35 of the Data Protection Act.
   * Preloved may disclose specific personal information where it is required to by law, and where necessary for the purpose of or in connection with any legal proceedings, as provided for under Section 35 of the Data Protection Act.
@@ -86,7 +87,7 @@ London
 N13 4BS   
 England
 
-We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect immediately for new members, and automatically 30 days after they are initially posted on the site for other visitors. This policy was last revised 5 Aug 2008.
+We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect automatically 30 days after they are initially posted on the site for existing members and immediately for all other visitors. This policy was last revised 12th April 2009.
 
 | 
 
@@ -105,6 +106,10 @@ Then why not sign up to "The Haggler", our occasional email newsletter telling y
 It lets you in on all the hints and tips that we have picked up behind the scenes here at Preloved, and is completely free of charge.
 
 [Sign up now...](http://www.preloved.co.uk/fuseaction-us.default/bee5b766.html)
+
+**Are you a fan of Preloved?**
+
+If so, why not help us spread the Joy of Second Hand by joining us on Facebook. [[more...]](http://www.preloved.co.uk/index.cfm?fuseaction=go.campaign&campaignId=10001555&cb=47906348&cs=87e3d7fe)
 
 ### Do you own a UK web site?
 
