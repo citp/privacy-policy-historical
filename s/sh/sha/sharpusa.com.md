@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216151957id_/http%3A//www.sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001612id_/http%3A//www.sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
 
 # privacy
 
