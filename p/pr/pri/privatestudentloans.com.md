@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070617id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626013849id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
 
 # Private Student Loans from the Student Loan Network
 
@@ -12,7 +12,7 @@ Quincy, MA 02169 USA
 
 You may also [email](mailto:privacy@edvisors.com) us. 
 
-If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.studentloannetwork.com/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://reports.bosbbb.org/Boston/Public/Reports/BrandedReport.aspx?firm=88239). Edvisors is a member of the BBB Reliability Program. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://reports.bosbbb.org/Boston/Public/Reports/BrandedReport.aspx?firm=88239). Edvisors is a member of the BBB Reliability Program. 
 
 _Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, servicers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
 
@@ -58,11 +58,11 @@ We use your information to provide you the services your request, to improve Edv
 
 ## What Choices Do I Have About the Use of My Information?
 
-To edit any of your privacy preferences, please visit our [opt-out page](http://www.studentloannetwork.com/opt-out.php). On that page, you may choose to opt out of our use of your information for marketing purposes or change your email delivery options. Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
+To edit any of your privacy preferences, please visit our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php). On that page, you may choose to opt out of our use of your information for marketing purposes or change your email delivery options. Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
 
-If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.networkadvertising.org/managing/opt_out.asp>; this link is also available on our [opt-out page](http://www.studentloannetwork.com/opt-out.php). You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content if you are not sure how to do this. 
+If you wish to opt out of the use of your Technical Information by Online Advertising Networks, please visit <http://www.networkadvertising.org/managing/opt_out.asp>; this link is also available on our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php). You can also disable or delete cookies directly on your web browser. Please see your browser's "help" content if you are not sure how to do this. 
 
-If you have any problems or questions regarding your privacy preferences or opt-out options, and cannot resolve them using our [opt-out page](http://www.studentloannetwork.com/opt-out.php), please [email](mailto:privacy@edvisors.com) us. 
+If you have any problems or questions regarding your privacy preferences or opt-out options, and cannot resolve them using our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php), please [email](mailto:privacy@edvisors.com) us. 
 
 Please note that you cannot opt out of the use of your information for completion and support of your loan or loan consolidation applications. You also cannot opt out of sharing your information to comply with valid law enforcement requests, legal process, to protect our interests or property or those of third parties, or as otherwise permitted or required by law. 
 
