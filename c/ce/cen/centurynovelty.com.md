@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044416id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011019id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.*
 
 # Century Novelty - Privacy
 
@@ -44,7 +44,9 @@ We use the information you provide about someone else when placing an order only
 
 We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+We also use cookies to assist in retargeting advertising. We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives Opt- Out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
