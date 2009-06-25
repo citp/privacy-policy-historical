@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkknightarmoury.com privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203113234id_/http%3A//www.darkknightarmoury.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkknightarmoury.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010023id_/http%3A//www.darkknightarmoury.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
