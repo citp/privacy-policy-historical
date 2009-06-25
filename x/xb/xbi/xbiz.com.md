@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217042257id_/http%3A//www.xbiz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003451id_/http%3A//www.xbiz.com/privacypolicy) for the most accurate reproduction.*
 
 # XBIZ - The Adult Industry Source
 
 Information About Our Organization and Websites
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like Adnet Media. Based in Los Angeles, California, our principal activity is providing webmaster resources and online adult entertainment. 
+Modern information and communication technologies play a fundamental role in the activities of an organization like Adnet Media. Based in Los Angeles, California, our principal activity is providing adult entertainment business news and information. 
 
 Providing Visitors With Anonymous Access
 
