@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollspace.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012640id_/http%3A//dollspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollspace.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011611id_/http%3A//www.dollspace.com/privacy) for the most accurate reproduction.*
 
 # DollSpace - Privacy Policy
 
