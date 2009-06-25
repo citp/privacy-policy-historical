@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217020127id_/http%3A//cbs2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625032722id_/http%3A//cbs2.com/privacy) for the most accurate reproduction.*
 
-# cbs2.com - Privacy Policy
+# Privacy Policy - cbs2.com
 
 **Effective Date** : September 8, 2008
 
