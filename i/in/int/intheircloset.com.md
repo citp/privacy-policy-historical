@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223090925id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625020444id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | In Their Closet
-
-## Privacy Policy
+# Privacy Policy
 
 This statement covers the website **[http://intheircloset.com.com](http://intheircloset.com/)** (InTheirCloset.com). Please read this statement carefully before accessing InTheirCloset.com. Your use of InTheirCloset.com indicates your agreement to abide by the terms in effect.
 
