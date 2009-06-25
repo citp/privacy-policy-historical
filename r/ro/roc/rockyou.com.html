@@ -1,224 +1,37 @@
-<!--The following is the downloaded HTML source of the rockyou.com privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223102944id_/http%3A//www247.rockyou.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockyou.com privacy policy that was archived on 2009-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625120525id_/http%3A//www.rockyou.com/events/track.php%3Fevent%3Drockyou-ffoot-privacy%26value%3Den%26url%3Dhttp%253A%252F%252Fwww.rockyou.com%252Fprivacypolicy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>RockYou.com - photo sharing, MySpace slideshows, MySpace codes, MySpace music</title>
-<script type="text/javascript">
-<!--
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+    <link href="/css/standard.css" rel="stylesheet" type="text/css"><script src="/js/standard.js" type="text/javascript"></script><link href="/css/center_footer.css" rel="stylesheet" type="text/css"><link href="/css/simple_about.css" rel="stylesheet" type="text/css"><link href="/css/privacy.css" rel="stylesheet" type="text/css">    <link href="/css/bling3_header.css" rel="stylesheet" type="text/css">
+    <title>RockYou.com - Photo sharing, MySpace slideshows, MySpace codes, MySpace music</title>
+    <link rel="icon" type="image/ico" href="/favicon.ico">
+    </head>
+<body>
+<div style="text-align:center">
+        <div class="nav-bar"></div>
+    <div class="nav-main">   
+        <div class="nav-spacer" style="width:110px;background:none">
+            <div style="cursor:pointer" onclick="window.location='http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-frontpage&amp;url=http%3A%2F%2Fwww.rockyou.com'" class="png-logo">
+                <img src="http://cdn.rockyou.com/rockyou.com/frontpage2/logo.png" width="119" height="56" class="transparent">
+            </div>
+        </div>
+                    <div class="nav-button" style="font-weight:bold"><a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-create&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fchoose_widget.php">Crear</a></div>
+            <div class="nav-button"><a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-browse&amp;url=http%3A%2F%2Fwww.rockyou.com%2Ffeaturedartists.php">Hojear</a></div>
+            <div class="nav-button"><a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-mystuff&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fmy_stuff.php">Mi Cosas</a></div>
+                <div class="nav-spacer" style="background:none;margin-right:25px;float:right"><a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-login&amp;url=http%3A%2F%2Fwww.rockyou.com%2Flogin.php">Entrar</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-register&amp;url=http%3A%2F%2Fwww.rockyou.com%2Flogin.php">Registre</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-fullbling3-help&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fhelp">Ayuda</a></div>
+        <div style="clear:both"></div>
+    </div><br>
 
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
-
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		create_over = newImage("/images/create-over.png");
-		mystuff_over = newImage("/images/mystuff-over.png");
-		topshows_over = newImage("/images/topshows-over.png");
-		preloadFlag = true;
-	}
-}
-
-function Set_Cookie( name, value, expires) 
-{
-    var today = new Date();
-    today.setTime( today.getTime() );
-    if ( expires ) {
-        expires = expires * 1000 * 60 * 60 * 24;
-    }
-    var expires_date = new Date( today.getTime() + (expires) );
-
-    document.cookie = name + "=" +escape( value ) +
-        ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-        ";domain=.rockyou.com";
-}
-
-
-function Get_Cookie( name ) {
-    var start = document.cookie.indexOf( name + "=" );
-    var len = start + name.length + 1;
-    if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) ) {
-        return null;
-    }
-    if ( start == -1 ) return null;
-    var end = document.cookie.indexOf( ";", len );
-    if ( end == -1 ) end = document.cookie.length;
-    return unescape( document.cookie.substring( len, end ) );
-}
-
-function Delete_Cookie( name, path) {
-    if ( Get_Cookie( name ) ) document.cookie = name + "=;domain=.rockyou.com;expires=Thu, 01-Jan-1970 00:00:01 GMT";
-}
-
-function showHelp(name)
-{
-    urchinTracker ('/help/'+name);
-    newwindow= window.open('/popuphelp.php?name='+name,'helppage','toolbar=no, status=no,height=500, width=300,scrollbars=1');
-    if (window.focus) newwindow.focus();
-}
-
-function toggle_frontpage_sound() {
-    var frontpage_music = document.getElementById("frontpage_music");       
-    if (frontpage_music) frontpage_music.blur();
-    // Toggle text
-    var music_text_span = document.getElementById("music_text_span");
-    if (music_text_span)
-        music_text_span.innerHTML = (music_text_span.innerHTML == 'MUTE') ? 'LISTEN' : 'MUTE';
-    // Toggle speaker image
-    var speaker_button = document.getElementById("speaker_button");
-    if (speaker_button)
-        speaker_button.src = (speaker_button.src == "http://dev2.rockyou.com/images/bling3/speaker.png") ? 
-            "http://dev2.rockyou.com/images/bling3/speaker-on.png" : "http://dev2.rockyou.com/images/bling3/speaker.png"; 
-    // Toggle sound
-    var showcase_slide_embed = document.getElementById("showcase_slide_embed");
-    if (showcase_slide_embed) {
-        if (showcase_slide_embed.innerHTML.indexOf('nosound=false') != -1) {
-            showcase_slide_embed.innerHTML = showcase_slide_embed.innerHTML.replace(/nosound=false/, 'nosound=true');
-            Set_Cookie('frontpage_music_disabled', '1', 1);
-        }
-        else {
-            showcase_slide_embed.innerHTML = showcase_slide_embed.innerHTML.replace(/nosound=true/, 'nosound=false');
-            Set_Cookie('frontpage_music_disabled', '0', 1);
-        }
-    }  
-}
-
-function toggle_frontpage_music_icon() {
-    var frontpage_music = document.getElementById("frontpage_music");
-    var slide_container = document.getElementById("showcase_slide_embed");
-    if (frontpage_music) {
-        if (frontpage_music.innerHTML.indexOf("turn-on") >= 0) {
-            frontpage_music.innerHTML = frontpage_music.innerHTML.replace(/turn-on/, 'turn-off')
-            if (slide_container) {
-                var front_embed = slide_container.innerHTML;
-                slide_container.innerHTML = front_embed.replace(/nosound=true/, 'nosound=false');
-            }
-            Set_Cookie('frontpage_music_disabled', '0', 1);
-            
-        } else {
-            frontpage_music.innerHTML = frontpage_music.innerHTML.replace(/turn-off/, 'turn-on')
-            if (slide_container) {
-                var front_embed = slide_container.innerHTML;
-                slide_container.innerHTML = front_embed.replace(/nosound=false/, 'nosound=true');
-            }
-            Set_Cookie('frontpage_music_disabled', '1', 1);
-        }
-    }
-    frontpage_music.blur();
-}
-
-function toggle_frontpage_music_text() {
-    var frontpage_music = document.getElementById("frontpage_music");
-    var slide_container = document.getElementById("slide-container");
-    if (frontpage_music) {
-        if (frontpage_music.innerHTML == "turn music on") {
-            frontpage_music.innerHTML = "turn music off";
-            if (slide_container) {
-                var front_embed = slide_container.innerHTML;
-                if (front_embed.indexOf("nosound=") > 0) {
-                    slide_container.innerHTML = front_embed.replace(/nosound=true/, 'nosound=false');
-                } else {
-                    slide_container.innerHTML = front_embed.replace(/<embed /, '<embed FlashVars="nosound=false" ');
-                }
-            }
-            Set_Cookie('frontpage_music_disabled', '0', 1);
-            
-        } else {
-            frontpage_music.innerHTML = "turn music on";
-            if (slide_container) {
-                var front_embed = slide_container.innerHTML;
-                if (front_embed.indexOf("nosound=") > 0) {
-                    slide_container.innerHTML = front_embed.replace(/nosound=false/, 'nosound=true');
-                } else {
-                    slide_container.innerHTML = front_embed.replace(/<embed /, '<embed FlashVars="nosound=true" ');
-                }
-            }
-            Set_Cookie('frontpage_music_disabled', '1', 1);
-        }
-    }
-}
-// -->
-</script>
-
-
-<script src="/js/common.js" type="text/javascript"></script><link href="/css/style.css?ver=4" rel="stylesheet" type="text/css">
-<link href="/css/privacy.css?ver=6" rel="stylesheet" type="text/css">
-</head>
-
-
-
-
-<body class="" style="background-image: url(/images/menu-bg.gif); background-repeat: repeat-x;" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="" onunload="">
-
-
-<!-- Comscore tracking. Comscore tracks every time a resource on rockyou is loaded with these params. -->
-<img src="http://apps.rockyou.com/dot.gif?CXNID=1000017.0NXC">
-
-<!-- TF 728x90 JScript NoAD code -->
-    <div style="display:block;width:840px;height:68px;border:0px;position:relative;">
-    
-            <a href="/index.php"><img src="/images/logo-menutop-rockyou.gif" alt=""></a>
-        <table cellpadding="1" cellspacing="0" style="position:absolute;top:0px;left:107px;"><tbody><tr>
-        
-        
-        <td style="font-size:15px"><a class="mainmenu" href="/choose_widget.php">Create</a>&nbsp;|&nbsp;</td>
-        <td style="font-size:15px"><a class="mainmenu" href="/my_stuff.php">My Stuff</a>&nbsp;|&nbsp;</td>
-        <td style="font-size:15px"><a class="mainmenu" href="/featuredartists.php">Browse</a></td>
-        
-        </tr></tbody></table>
-        
-        <img src="/images/index_tab.gif" style="position:absolute;top:0px;left:620px">
-        <div style="position:absolute;top:5px;left:630px;font-size:11px;font-family:arial;width:200px;text-align:center;">
-        <a href="/login.php" style="color: white;">login / register</a>        </div>
-    </div>
-
-    <div style="position:absolute;top:24;left:628;">
-        <form method="get" action="/search_main.php">
-        <table class="search" id="search_box"><tbody><tr><td>
-        <input type="text" name="s_tsearch" size="17" style="border:2px solid #6388c2"></td>
-        <td><input type="submit" value="search">
-        </td></tr></tbody></table> <input type="hidden" value="1" name="p"></form>
-    </div>
-    
-    <!-- TF 728x90 JScript NoAD code -->
-    <div style="width:850px;margin-bottom:10px;">
-    <div style="padding-left:60px;">
-
-<!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/area=NONE/aamsz=LEADERBOARD/ -->
-    <script language="javascript">
-       if (!pageNum) var pageNum = Math.round(Math.random() * 1000000);
-       var aamRnd = Math.round(Math.random() * 10000000000);
-      
-       document.writeln('<iframe src="http://rocku.adbureau.net/hserver/acc_random=' +
-          aamRnd + '/pageid=' + pageNum + '/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/" ' +
-
-          'width="728" height="90" marginwidth="0" marginheight="0" ' +
-          'frameborder="0" scrolling="no"></iframe>');
-    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=8666664367/pageid=988069/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-
-    <noscript>
-       <a href="http://rocku.adbureau.net/adclick/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/pageid=1" target="_blank">
-          <img src="http://rocku.adbureau.net/nserver/area=NONE/aamsz=LEADERBOARD/AGE=/GENDER=/pageid=1" border="0" />
-       </a>
-    </noscript> 
-    </div>
-    </div>
-
-<div class="privacy-area">
+<div class="body" id="centralDiv">
+            <script type="text/javascript">
+                ord = window.ord || Math.floor(Math.random()*1E16);
+                document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/Rockyou.com/RockYou_Leaderboard_RON;sz=728x90;ord=' + ord + '?"><\/script>');
+            </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/Rockyou.com/RockYou_Leaderboard_RON;sz=728x90;ord=3601170286376558?"></script>
+            <noscript><a href="http://ad.doubleclick.net/jump/Rockyou.com/RockYou_Leaderboard_RON;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/Rockyou.com/RockYou_Leaderboard_RON;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>     
+            <div class="privacy-area">
 
 <div class="privacy-container">
+<div class="main">
 <h2><strong>RockYou! Privacy Policy</strong></h2>
 <p>
 RockYou! recognizes that its customers, visitors, users, and others who use http://www.RockYou.com or other web sites owned or operated by RockYou! (the "RockYou! Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RockYou! Sites.  RockYou! provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RockYou! Sites. 
@@ -349,130 +162,33 @@ Please contact RockYou! with any questions or comments about this Privacy Policy
 
 </p>
 
-
+</div>
+</div>
+</div>
+</div>
+<div id="footer" style="clear:both; width:100%">
+<div class="footer">
+    <p>Copyright (c) 2008 RockYou | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-help&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fhelp">PMF / Ayuda</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-helpspace&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fhelpspace">Ideas para Perfil de MySpace</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-privacy&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php">Privacidad</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-tos&amp;url=http%3A%2F%2Fwww.rockyou.com%2Ftos.php">Condiciones de Uso</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-devpub&amp;url=http%3A%2F%2Fwww.rockyouads.com%2F">Anunciantes de Facebook &amp; Developers</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-osdev&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fdeveloper%2Fopensocial%2F">OpenSocial</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-about&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fcorp%2Fabout.php">Vea Más</a> <br>
+    <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-en&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php%3Flang%3Den">English</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-zh&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php%3Flang%3Dzh">中文</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-es&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php%3Flang%3Des">Español</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-pt&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php%3Flang%3Dpt">Português</a> | <a href="http://www.rockyou.com/events/track.php?event=rockyou-cfoot-th&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fprivacypolicy.php%3Flang%3Dth">ภาษาไทย </a></p>
+</div>
+</div>
 
     
-<div style="position: absolute; left: 850px; top: 0px; width: 160px;">
-
-
-    <div style="border:1px solid #ccc;margin-top:70px;width:176px;height:236px;margin-bottom:10px;">
-        <div style="padding:8px;">
-            <!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/AGE=/GENDER=/ -->
-            
-            <script language="javascript">
-
-               if (!pageNum) var pageNum = Math.round(Math.random() * 1000000);
-               var aamRnd = Math.round(Math.random() * 10000000000);
-               
-               document.writeln('<iframe src="http://rocku.adbureau.net/hserver/acc_random=' + 
-                  aamRnd + '/pageid=' + pageNum + '/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/" ' +
-                  'width="160" height="220" marginwidth="0" marginheight="0" ' +
-                  'frameborder="0" scrolling="no"></iframe>');
-
-            </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=4840768104/pageid=988069/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/" width="160" height="220" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-
-
-            <noscript>
-               <a href="http://rocku.adbureau.net/adclick/area=SHOWMYGALLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/pageid=1" target="_blank">
-                  <img src="http://rocku.adbureau.net/nserver/area=SHOWMYGALLLERY/aamsz=PREMIUM_MODULE2/site=ROCKU/AGE=/GENDER=/pageid=1" border="0" />
-               </a>
-            </noscript>
-        </div>
-    </div>
-    <!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/aamsz=PM3/AGE=/GENDER=/-->
     <script language="javascript">
+       if (navigator.cookieEnabled && document.cookie.indexOf('AAMBLFLAG=') == -1) {
+          var blTomorrow = new Date();
+          blTomorrow.setTime(blTomorrow.getTime() + 86400000);
 
-       if (!pageNum) var pageNum = Math.round(Math.random() * 1000000);
-       var aamRnd = Math.round(Math.random() * 10000000000);
-       
-       document.writeln('<iframe src="http://rocku.adbureau.net/hserver/acc_random=' + 
-          aamRnd + '/pageid=' + pageNum + '/aamsz=PM3/AGE=/GENDER=/" ' +
-          'width="180" height="288" marginwidth="0" marginheight="0" ' +
-          'frameborder="0" scrolling="no"></iframe>');
+          document.cookie = 'AAMBLFLAG=SET; expires=' + blTomorrow.toGMTString();
 
-    </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=5977537599/pageid=988069/aamsz=PM3/AGE=/GENDER=/" width="180" height="288" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-
-
-    <noscript>
-       <a href="http://rocku.adbureau.net/adclick/aamsz=PM3/AGE=/GENDER=/pageid=1" target="_blank">
-          <img src="http://rocku.adbureau.net/nserver/aamsz=PM3/AGE=/GENDER=/pageid=1" border="0" />
-       </a>
-    </noscript>
-    <br>    
-    
-<div style="width:120px;">
-
-
-
-<div style="border:1px solid white;margin-top:5px;width:176px;height:616px;margin-bottom:5px;">
-    <div style="padding:8px;">
-        <!-- Ad call for Ad call for http://rocku.adbureau.net/hserver/area=NONE/aamsz=SKYS/ -->
-        <script language="javascript">
-
-           if (!pageNum) var pageNum = Math.round(Math.random() * 1000000);
-           var aamRnd = Math.round(Math.random() * 10000000000);
-           
-           document.writeln('<iframe src="http://rocku.adbureau.net/hserver/acc_random=' +
-      aamRnd + '/pageid=' + pageNum + '/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/" ' +
-              'width="160" height="600" marginwidth="0" marginheight="0" ' +
-              'frameborder="0" scrolling="no"></iframe>');
-
-        </script><iframe src="http://rocku.adbureau.net/hserver/acc_random=2982151417/pageid=988069/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-
-
-        <noscript>
-           <a href="http://rocku.adbureau.net/adclick/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/pageid=1" target="_blank">
-              <img src="http://rocku.adbureau.net/nserver/area=CWIDGET/aamsz=SKYS/AGE=/GENDER=/pageid=1" border="0" />
-           </a>
-        </noscript>
-    </div>
-</div>        
-
-</div>
-        <div style="margin-top:10px;width:160px;overflow:hidden;padding:0px;text-align:center;">
-        <!-- YB: right_bottom (160x600) -->
-		<script type="text/javascript"><!--
-		yieldbuild_client = 4;
-		yieldbuild_loc = "right_bottom";
-		yieldbuild_options = {};
-		//--></script>
-		<script type="text/javascript" src="http://yieldbuild.com/javascripts/s_ad.js"></script>
-        </div>
-</div>
-
-<br><br>
-    
-<div class="tp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Copyright © 2008 RockYou | <a target="_BLANK" href="/help">FAQ / Help</a> | <a href="http://fb.rockyou.com/events/track.php?event=rockyou-helpspace&amp;url=http%3A%2F%2Fwww.rockyou.com%2Fhelpspace">MySpace Profile Tips</a> | <a target="_BLANK" href="/privacypolicy.php">Privacy</a> | <a href="/tos.php" target="_blank">Terms of Use</a> | <a href="http://fb.rockyou.com/events/track.php?event=rockyou-dev-pub&amp;url=http%3A%2F%2Fwww.rockyouads.com%2F" target="_blank">Facebook Advertisers</a> | <a href="http://fb.rockyou.com/events/track.php?event=rockyou-dev-pub&amp;url=http%3A%2F%2Fwww.rockyouads.com%2F" target="_blank">Facebook Developers</a> | <a href="/corp/about.php" target="_blank">About Us</a></div>
-
-<div class="tp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-| <a href="?lang=en">English</a> | <a href="?lang=zh">中文</a> | <a href="?lang=es">Español | </a><a href="?lang=pt">Português</a>
-</div>
- <br>
- <br>
-
- 
-<script language="javascript">
-
-   if (navigator.cookieEnabled && document.cookie.indexOf('AAMBLFLAG=') == -1) {
-
-      var blTomorrow = new Date();
-      blTomorrow.setTime(blTomorrow.getTime() + 86400000);
-
-      document.cookie = 'AAMBLFLAG=SET; expires=' + blTomorrow.toGMTString();
-
-      if (document.cookie.indexOf('AAMBLFLAG=') > -1)      
-         document.writeln('<iframe src="http://aps.media.adrevolver.com/adrevolver/trace?sip=65" width="0" height="0"></iframe>');
-
-   }
-
-</script><iframe src="http://aps.media.adrevolver.com/adrevolver/trace?sip=65" width="0" height="0"></iframe>
+          if (document.cookie.indexOf('AAMBLFLAG=') > -1)      
+             document.writeln('<iframe src="http://aps.media.adrevolver.com/adrevolver/trace?sip=65" width="0" height="0" style="border:none"></iframe>');
+       }
+    </script><iframe src="http://aps.media.adrevolver.com/adrevolver/trace?sip=65" width="0" height="0" style="border:none"></iframe>
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-//_uacct = "UA-95090-2";
-//urchinTracker();
 
 _uacct = "UA-95090-1";urchinTracker();
 </script>
@@ -486,9 +202,40 @@ style="display: none" height="1" width="1"
 alt="Quantcast"/></noscript>
 <!-- End Quantcast tag -->
 
-
-    
-
-<!--0.175812s!--><!--END 0.17576694488525--><!--0.175812s!--><!--ver 102906!-->
+<div style="position:absolute"><img src="http://apps.rockyou.com/dot.gif?CXNID=1000017.0NXC"></div>
+ 
+<!--0.013341s!--><!--END 0.013309001922607--><!--0.013341s!--><!--ver 102906!-->
 <!-- www204.rockyou.com -->
-</div></div></body></html>
+
+
+</div>
+
+    <script>
+        function positionAdDiv(centerDivID, adDivID, side) {
+            var centerDiv = document.getElementById(centerDivID);
+            var adDiv = document.getElementById(adDivID);
+            // Get absolute positioning of 
+            var leftside = topside = 0;
+            var elem = centerDiv;
+            if (elem.offsetParent)
+                do {
+                    leftside += elem.offsetLeft;
+                    topside += elem.offsetTop;  
+                }
+                while(elem = elem.offsetParent); 
+            adDiv.style.top = topside + 'px';
+            // If the left side of the ad div is left of the left side of the center div, it should be on the left
+            if (side == 'left') adDiv.style.left = leftside - adDiv.offsetWidth +'px';
+            else adDiv.style.left = leftside + centerDiv.offsetWidth +'px';
+        }
+    </script>
+<div id="sideAd" style="position: absolute; left: 1358px; top: 174px;">            <script type="text/javascript">
+                ord = window.ord || Math.floor(Math.random()*1E16);
+                document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/Rockyou.com/RockYou_Sky_RON;sz=160x600;ord=' + ord + '?"><\/script>');
+            </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/Rockyou.com/RockYou_Sky_RON;sz=160x600;ord=3601170286376558?"></script>
+            <noscript>
+                <a href="http://ad.doubleclick.net/jump/Rockyou.com/RockYou_Sky_RON;sz=160x600;ord=123456789?" target="_blank" >
+                    <img src="http://ad.doubleclick.net/ad/Rockyou.com/RockYou_Sky_RON;sz=160x600;ord=123456789?" border="0" alt="" />
+                </a>
+            </noscript>
+            </div><script>var centerDiv = document.getElementById("centralDiv");document.getElementById("sideAd").style.top = centerDiv.offsetTop;positionAdDiv('centralDiv','sideAd','right');if (window.addEventListener) window.addEventListener('resize',function () {positionAdDiv('centralDiv','sideAd','right');},false);else window.attachEvent('onresize',function () {positionAdDiv('centralDiv','sideAd','right');});</script></body></html>
