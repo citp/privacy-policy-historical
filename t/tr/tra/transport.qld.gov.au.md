@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112427id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625213307id_/http%3A//www.transport.qld.gov.au/Footer/web_footer_20-Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 #### Privacy and security
 
-Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/Pages/index.aspx) to which agencies are required to adhere. In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
+Queensland Transport is committed to protecting user privacy. The Queensland Government has established a privacy regime for the Queensland public sector based on 11 Information Privacy Principles. These are contained in [Information Standard 42 - Information Privacy (PDF**, 79KB)](http://www.qgcio.qld.gov.au/SiteCollectionDocuments/Architecture%20and%20Standards/Information%20Standards/Current/is42.pdf)  to which agencies are required to adhere. In compliance with Information Standard 42, we have developed a privacy plan based on the 11 Information Privacy Principles specified in the information standard. View the [Queensland Transport privacy plan](http://www.transport.qld.gov.au/Home/About_us/Working_with_us/Privacy/). 
 
 When you visit this website, our server makes a record of your visit and logs the following information for statistical purposes only:
 
@@ -40,7 +40,7 @@ Your name and address details will not be added to a mailing list nor will we di
 
 ##### Security 
 
-The services-online facilities of this website secure transmission of information across the internet. No other section of this website has facilities for securely transmitting information across the internet. We recognise there can be risks with transmitting information across the internet.
+The services online facilities of this website secure transmission of information across the internet. No other section of this website has facilities for securely transmitting information across the internet. We recognise there can be risks with transmitting information across the internet.
 
 This website contains links to non-Queensland government websites. Queensland Transport is not responsible for the privacy or security practices or the content of those websites. These links are provided for your interest and information and have been added because the content, when viewed by Queensland Transport, was deemed appropriate to Queensland Transport's functions and operations.
 
@@ -49,4 +49,6 @@ This website contains links to non-Queensland government websites. Queensland Tr
 If you have any queries about our privacy and security practices, please contact [privacy@transport.qld.gov.au](mailto:privacy@transport.qld.gov.au).  
 
 
-Last updated 02 December 2008
+[](http://www.adobe.com/products/acrobat/readstep2.html)**While this department has taken every possible precaution with the creation of these files, they are downloaded and used at your own risk. Adobe Reader is needed to open and print Portable Document Format (PDF) files and is free to download from <http://www.adobe.com/products/acrobat/readstep2.html>. Various tools to enable access to these files for people using a screen reader can be found at [http://access.adobe.com](http://access.adobe.com/). Further information is available from the"[Help with downloading, reading and printing PDF](http://www.transport.qld.gov.au/Utilities/Help/)".
+
+Last updated 17 June 2009
