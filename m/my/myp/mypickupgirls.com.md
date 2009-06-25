@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011030518id_/http%3A//www.mypickupgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypickupgirls.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001633id_/http%3A//www.mypickupgirls.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
