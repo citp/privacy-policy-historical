@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074823id_/http%3A//www.tempurpedic.com/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625051024id_/http%3A//www.tempurpedic.com/customer_service/privacy_policy) for the most accurate reproduction.*
 
 # Tempur-Pedic® - Customer Service - Privacy Policy
 
