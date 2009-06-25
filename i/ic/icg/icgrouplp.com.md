@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212113509id_/http%3A//www.icgrouplp.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625060155id_/http%3A//www.icgrouplp.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # IC Group LP | Impact and Security Matter Most
 
@@ -86,5 +86,15 @@ Fax: 204.489.7900
 
 Otherwise, we will assume that we have your consent to collect, use and disclose your personal information (including personal information that we have previously collected) as described above and in a manner consistent with our Privacy Policy. 
 
+  
+
+
+## Contact IC Group
+
+Oops, you need flash player installed.
+
+1.800.575.5590 
+
+  
   
 
