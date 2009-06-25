@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the gettingoutside.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912130000id_/http%3A//www.gettingoutside.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingoutside.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625112606id_/http%3A//www.gettingoutside.com/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | outdoor, camping, fishing, hiking, walking, swimming, boating, running, cycling, kid games, GettingOutside.com
+# Privacy Policy | outdoor, budget travel, camping, fishing, hiking, swimming, boating, run, bike, kid games, budget vacation, GettingOutside.com
 
 ## Privacy Policy
-
-  * [View](https://web.archive.org/privacyPolicy)
-  * [Edit](https://web.archive.org/node/23/edit)
-
-
 
 GettingOutside.com takes your privacy seriously!
 
@@ -94,3 +89,10 @@ _Privacy Policy Effective Date: February 05, 2007_
     
     
       
+
+GettingOutside aspires to be the most friendly, community-powered outdoor site for sharing outdoor adventures, budget travel ideas and outdoor destinations. There are many how-to tips on topics from **[budget outdoor travel](http://www.gettingoutside.com/travel)** , **[camping](http://www.gettingoutside.com/camping)** , **[hiking](http://www.gettingoutside.com/hiking_walking)** , **[fishing](http://www.gettingoutside.com/fishing)** , and **[swimming](http://www.gettingoutside.com/swimming)** to **[picnics](http://www.gettingoutside.com/picnic)** , **[kids games](http://www.gettingoutside.com/Outdoor+Games+Sports)** , **[horseback riding](http://www.gettingoutside.com/Horseback+Riding)** and **[gardening](http://www.gettingoutside.com/Family+Gardening)**.
+
+Whatever you enjoy, whatever your experience level - at GettingOutside we invite you to become a member and share your favorite **[outdoor activities](http://www.gettingoutside.com/activities)** and your favorite places to go outside. Your opinions, experience and participation are vital to our shared outdoor adventure.
+
+**[Membership is free so join today!](http://www.gettingoutside.com/user/register)**  
+
