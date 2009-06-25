@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217112011id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010114id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
 
 # Business Spectator - Privacy Policy
 
@@ -23,6 +23,8 @@
 > **Our use of cookies**
 > 
 > Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. Business Spectator uses cookies to make your use of our website and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate our number of members and determine overall traffic patterns through our website. 
+> 
+> Third-party advertisers may also place cookies on the browsers of visitors to the website. Information about opting out of those cookies can be found at the Network Advertising Initiative ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 > 
 > If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of Business Spectator's services.
 > 
