@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035636id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626001946id_/http%3A//www.sexintheuk.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
 # Adult Dating Services Online - SexInTheUK
 
@@ -14,6 +14,8 @@ SexInTheUK is committed to protecting your privacy. Our aim is to ensure that yo
 
 4\. We are required to give information to legal authorities if they have the proper authorisation such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the SexInTheUK web site. We are registered under the Data Protection Act (Reg No PZ7031016) to hold information about our members. 
 
-5\. Your individual use of SexInTheUK and your interaction with others through SexInTheUK will be kept strictly private. 
+5\. We reserve the right to use the pictures you upload to your Profile for marketing purposes, advertising campaigns and on the pages available for non-registered visitors and members of the site. The digital images uploaded by you may be used for forming the layout of the site pages, promotional emails and banner animation.
+
+6\. Your individual use of SexInTheUK and your interaction with others through SexInTheUK will be kept strictly private. 
 
 We take our PRIVACY POLICY very seriously. We want you to have confidence whenever you use SexInTheUK. If you have questions or concerns, please email us at [admin@sexintheuk.com](mailto:admin@sexintheuk.com)
