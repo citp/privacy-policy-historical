@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153257id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626004943id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ReviewSaurus - The Techie Dino!
+# Privacy Policy | ReviewSaurus - Windows software download
 
 Privacy Policy Statement  
-This is the web site of BloggingSaurus.
+This is the web site of Mayank Gupta.
 
 Our postal address is  
-Flat GB, Kesavan Enclave, 18 Anna Avenue, Kasturbha Nagar, Adyar  
-Chennai, Tamil Nadu, India, 600020
+349/12, Dev Bhawan, Jawahar Nagar, New Railway Road, Gurgaon, Haryana, India – 122001
 
-We can be reached via e-mail at reachus@bloggingsaurus.com
+We can be reached via e-mail at web@reviewsaurus.com
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, user-specific information on what pages consumers access or visit.
 
