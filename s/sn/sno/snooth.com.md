@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222185426id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625031316id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
 # Snooth | Privacy
 
