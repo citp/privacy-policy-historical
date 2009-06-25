@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alabe.com privacy policy that was archived on 2008-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080927110821id_/http%3A//alabe.com/privacy%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alabe.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625184934id_/http%3A//www.alabe.com/privacy%2520policy.html) for the most accurate reproduction.*
 
 # Astrolabe History
 
