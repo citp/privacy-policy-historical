@@ -1,126 +1,98 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2008-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081212050752id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625063238id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
 
 # Legal/Privacy
 
-Privacy policy & legal
+Privacy policy
 
-Women to Women was founded in 1985 to provide healthcare services to women of all ages through three venues: clinical care from its base in Yarmouth, Maine; medical/health educational services through its clinic and website nationally; and a personalized, at-home program for hormonal balance designed to support a foundation of health for all women.
+Women to Women was founded in 1984 to provide healthcare services to women of all ages through three venues: medical care from its clinic in Yarmouth, Maine (the “Healthcare Center”); health information and education through the Healthcare Center and this website; and a personalized, at-home program designed to support a foundation of health for all women (the “Personal Program”).
 
-The Healthcare Center and the Personal Program are separate organizations that share this website. As a medical practice, the Healthcare Center conforms to the strict regulations of Federal law, as detailed below. Both organizations protect your privacy to the fullest extent required by law.
+The Healthcare Center and the Personal Program are separate organizations that share the http://www.womentowomen.com website (the “Website”). As a medical practice, the Healthcare Center conforms to the strict regulations of U.S. federal law, as detailed below. Services provided by the Healthcare Center and advertised through the Website, including phone consultations, are governed by Healthcare Center’s privacy policy, which can be accessed [here](https://web.archive.org/clinic/legal.pdf).
 
-Privacy Practices of the Personal Program
+We honor and protect your privacy. If you visit the Website or participate in the Personal Program, we will protect your privacy to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services; this means we never sell, rent, or otherwise disclose your personal information to third-party marketers. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
 
-Women to Women’s Personal Program will protect your privacy, including any health-related information, to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
+This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20090625063238id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
 
-**Legal rights regarding the website**  
-These electronically-transmitted pages belong to Women to Women’s Healthcare Center and the Personal Program, and are offered for your personal use. All rights are reserved. These pages may not be duplicated or reproduced without the express written consent of Women to Women, except in the form of brief excerpts or quotations for the purposes of review. The information contained here is for personal use of the reader. Specific medical advice should be obtained from the reader’s personal healthcare professional. Making copies of these pages or any portion for any purpose other than your personal use is a violation of United States copyright laws.
+**1\. The type of information we collect**
 
-**Disclaimer regarding the website**  
-Women to Women and its employees and affiliates have used their best efforts in preparing this website. Women to Women and its employees and affiliates make no warranty of any kind, expressed or implied, with regard to the pages or the information contained here.
+We collect two types of information from users of our Website: (1) personal information that users provide to us and (2) non-personal information collected via technology, such as information about traffic patterns on our Website.
 
-The information contained in this website is not intended to serve as a substitute for regular, in-person, professional medical care.
+As explained in this policy, we may collect personal data that you provide us when you:
 
-Prices for products offered by Women to Women are subject to change without notice.
-
-**Limits of liability regarding the website**  
-Women to Women and its employees or contractors shall not be liable in the event of incidental or consequential damages in connection with, or arising out of, the provision of information offered here.
-
-**Advertising**  
-The Women to Women website does not accept paid endorsements of products or display banner advertising of any kind.
-
-Notice of privacy practices regarding Women to Women’s Healthcare Center
-
-This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
-
-If you have any questions about this Notice please contact our Privacy Officer: Donna Poulin, Practice Manager.
-
-This Notice of Privacy Practices describes how we may use and disclose your protected health information to carry out treatment, payment or health care operations and for other purposes that are permitted or required by law. It also describes your rights to access and control your protected health information. “Protected health information” is information about you, including demographic information, that may identify you and that relates to your past, present or future physical or mental health or condition and related health care services. 
-
-We are required to abide by the terms of this Notice of Privacy Practices. We may change the terms of our notice, at any time. The new notice will be effective for all protected health information that we maintain at that time. Upon your request, we will provide you with any revised Notice of Privacy Practices by accessing our website at [www.womentowomen.com](https://web.archive.org/web/20081212050752id_/http%3A//www.womentowomen.com/default.aspx) , by calling the office at (207) 846-6163 and requesting that a revised copy be sent to you in the mail or requesting one from a front office staff member.
-
-**Understanding your health record/information**  
-Each time you visit a healthcare provider, a record of your visit is made. Typically, this record contains your symptoms, examination and test results, diagnoses, treatment, and a plan for future care or treatment. This information, often referred to as your health or medical record, serves as a:
-
-  * basis for planning your care and treatment;
-  * means of communication among the many health professionals who contribute to your care;
-  * legal document describing the care you received;
-  * means by which you or a third-party payer can verify that services billed were actually provided a tool in educating heath professionals;
-  * source of data for medical research;
-  * source of information for public health officials charged with improving the health of the nation;
-  * source of data for facility planning and marketing;
-  * a tool with which we can assess and continually work to improve the care we render and the outcomes we achieve.
+  * purchase, order, return, or request certain information about our products and services,
+  * contact our Customer Service numbers;
+  * take health profiles, assessments, or other surveys; or
+  * provide us with comments, suggestions, or testimonials.
 
 
 
-Understanding what is in your record and how your health information is used helps you to:
+_Purchasing from Women to Women’s Personal Program:_ When you purchase products and services from us, we collect your name, mailing and billing addresses, phone number, and email address (“Personal Data”), and we endeavor to associate all of your future purchases with the Personal Data.
 
-  * ensure its accuracy;
-  * better understand who, what, when, where, and why others may access your health information;
-  * make more informed decisions when authorizing disclosure to others.
+We also collect your credit or debit card information and keep a history of your purchases with us, regardless of your method of payment. This helps facilitate our processing of your orders and allows us to better assist you when you call us or use our on-line account management tool, called “MyPersonalProgram.” In addition, we may send you e-mails (1) confirming your orders, (2) confirming the shipment of your order, and (3) providing instructions or recommendations to help you get the most out of your purchases. We always give you the opportunity to opt out of receiving such materials by unsubscribing at the bottom of each e-mail or by using the e-mail preferences tool located in "MyPersonalProgram."
 
+Further, when you return previously purchased merchandise or request a refund, you may be asked to give your name, address, and phone number. We collect this information to help prevent fraud and to ensure your account is properly credited.
 
+_Contacting our Support Desk:_ When you call our Support Desk about a product, delivery, billing question, or for customer service, you may be asked for Personal Data that identifies you along with additional information we need to help you. Because this information helps us personalize our services to meet your needs, we may retain the information you give us during this call to better assist you in the future.
 
-**Your health information rights**  
-Although your health record is the physical property of the healthcare practitioner or facility that compiled it, the information belongs to you. You have the right to:
+_Taking Health Assessments, Profiles and Other Surveys:_ We collect information from you when you voluntarily choose to use the various services we provide on our site, such as our Hormonal Health Profile, Bone Health Profile, etc. For instance, we may ask for information about the symptoms you have or the demands you are making on your body. When you voluntarily provide us with this type of information, we may use it to update you on products, services, or benefits or to provide information or newsletters that we think may be of interest to you. We also use this information to personalize our website for you, and we may also contact you for market research. You may opt out of such communications with us by sending an email to [personalprogram@womentowomen.com](mailto:personalprogram@womentowomen.com) with the subject: Attn. Privacy Officer, and include the email you used to receive your recommendations in the text area. Without an accurate email address, we cannot opt you out. 
 
-  * request a restriction on certain uses and disclosures of your information; 
-  * obtain a paper copy of the notice of information practices upon request; 
-  * inspect and obtain a copy of your health record
-  * amend your health record;
-  * obtain an accounting of disclosures of your health information;
-  * request communications of your health information by alternative means or at alternative locations;
-  * revoke your authorization to use or disclose health information except to the extent that action has already been taken. 
+_Providing Comments, Feedback, or Testimonials:_ If you provide us with feedback, comments or testimonials via e-mail or phone, we will collect your name and email address in order to send you a reply. Further, as required by U.S. federal law, we collect information that you voluntarily provide us concerning any adverse reactions you experienced that may have been caused by or related to the use of our nutritional supplements.
 
+_Non-Personal Information Collected via Technology:_ In some cases, we may collect non-personal information on an aggregated basis to make the Website more useful to you and to do such things as operate and enhance the Website. For example, we may collect information concerning:
 
-
-**Our responsibilities**  
-This organization is required to:
-
-  * maintain the privacy of your health information;
-  * provide you with a notice as to our legal duties and privacy practices with respect to information we collect and maintain about you;
-  * abide by the terms of this notice;
-  * notify you if we are unable to agree to a requested restriction;
-  * accommodate reasonable requests you may have to communicate health information by alternative means or at alternative locations.
+  1. The URL, or address, of the site you just came from;
+  2. The type of internet browser you are using;
+  3. Your Internet Protocol, or IP, address. An IP address is the string of numbers that identifies each sender or receiver of information that is sent across the internet.
+  4. Cookies, namely, small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We use both session cookies (which expire when you close your browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can disable this function by changing the cookie profile on your computer’s Web browser. If you disable or delete your cookies, however, you will not have access to certain features of our site, such as “Remember My Password” or interactive quizzes you have taken. We do not store any Personal Data in cookies on your computer other than the cookie itself.
+  5. Clear GIFs, which are tiny graphics with a unique identifier, similar to cookies, and are used to track the online movements of Internet users. We use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened and acted upon by recipients. This information helps us assess the effectiveness of certain communications and the Website, and it helps us constantly improve their relevance.
 
 
 
-We will not use or disclose your health information without your authorization, except as described in this notice.
+**2\. Disclosure of Your Data**
 
-If you believe your privacy rights have been violated, you can file a complaint with our Privacy Office or with the Secretary of Health and Human Services. There will be no retaliation for filing a complaint. You may contact our Privacy Officer, Donna Poulin, at (207) 846-6163 or by e-mail at [wtwmanager@yahoo.com](mailto:wtwmanager@yahoo.com?subject=Website-Legal) for further information about the complaint process.
+We do not sell, trade or rent your Personal Data to third parties except to share your Personal Data with third parties to fulfill the services that you have asked us to provide to you, including (but not limited to) the processing and authorization of your credit card and shipping the products you ordered. These third parties are forbidden to use your Personal Data other than to provide the services requested by you through the Personal Program. You expressly consent to the sharing of your Personal Data with our contractors and third-party service providers for the sole purpose of providing services to you.
 
-**Examples of disclosures for treatment and payment**  
-_We will use your health information for treatment_.  
-For example: Information obtained by a therapist or other member of your healthcare team will be recorded in your record and used to determine the course of treatment that should work best for you. We may provide your physician or a subsequent healthcare provider with copies of various reports that should assist him or her in treating you.
+We collect, use, and disclose your Personal Data with your consent, except as permitted or required by law. For instance, we may be required or permitted under statute or regulation to collect, use, or disclose Personal Data without your consent, for example to comply with a court order or subpoena, to comply with local, federal, or foreign regulations or a legally permitted inquiry by a government agency, or to collect a debt owed to us. In addition, we may be required to disclose information, such as health-related information, to the U.S. Food and Drug Administration (FDA) concerning any adverse events potentially caused by our nutritional supplements. In these instances, we only disclose the Personal Data that is required by the FDA.
 
-_We will use your health information for payment_.  
-For example: A bill may be sent to you or a third-party payer. The information on or accompanying the bill may include information that identifies you, as well as your diagnosis, procedures, and supplies used.
+**3\. Control of Your Personal Data**
 
-_Business associates_ : There are some services provided in our organization through contacts with business associates. Examples include our billing service and a copy service we use when making copies of your health record. When these services are contracted, we may disclose your health information to our business associate so that they can perform the job we’ve asked them to do and bill you or your third-party payer for services rendered. To protect your health information, however, we require the business associate to appropriately safeguard your information.
+We offer you choices regarding the collection, use, and sharing of your Personal Data. You may update, remove, or otherwise change any of your account information (including customer, billing, and shipping addresses), payment settings (including credit card information and billing address), and your e-mail preferences (including e-mail address and opt-in information) by visiting “[MyPersonalProgram](https://web.archive.org/community/default.aspx).” You may also do so by calling our Customer Service line at 1-800-915-6811. Note that we may retain changed or deleted information in our archives in order to serve you better or comply with legal or regulatory requests.
 
-_Notification_ : We may use or disclose information to notify or assist in notifying a family member, personal representative, or another person responsible for your care, your location, and general condition. 
+_How to Unsubscribe:_ You may unsubscribe from our newsletters or program support e-mails at any time either by opting out via the links at the bottom of each e-mail you receive, by visiting the e-mail preferences section in “MyPersonalProgram,” or by calling our Customer Service line toll-free at 800-915-6811.
 
-_Communication with family_ : Health professionals, using their best judgment, may disclose to a family member, other relative, close personal friend or any other person you identify, health information relevant to that person’s involvement in your care or payment related to your care.
+Despite your indicated e-mail preferences, we may send you notices of any updates to our “Terms of Use” or “Privacy Statement.”
 
-_Research_ : We may disclose information to researchers when their research has been approved by an institutional review board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
+_Security of Your Personal Data:_ We are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. 
 
-_Marketing_ : We may contact you to provide appointment reminders or information about treatment alternatives or other health-related benefits and services that may be of interest to you.
+We use Secure Sockets Layer (SSL) technology. SSL can be engaged by choosing to switch to SSL during any interaction in which you enter Personal Data when collecting your credit card information for online purchases. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window of the HTMLS-code in the site connection identifier.
 
-_Food and Drug Administration (FDA)_ : We may disclose to the FDA health information relative to adverse events with respect to food, supplements, product and product defects, or post marketing surveillance information to enable product recalls, repairs, or replacement.
+We also have implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers. We require you to enter a password to access your account information. In addition, we protect your Personal Data from unauthorized physical access by storing your Personal Data in a controlled facility. Except as provided elsewhere in this Privacy Statement, we limit access to Personal Data in electronic databases to those persons (including employees and contractors) in Women to Women organizations who have a business need for such access.
 
-_Workers’ Compensation_ : We may disclose health information to the extent authorized by and to the extent necessary to comply with laws relating to Workers’ Compensation or other similar programs established by law.
+Even though we take significant steps to ensure that your Personal Data is not intercepted, accessed, used or disclosed by unauthorized persons, you should know that we cannot eliminate all security risks associated with Personal Data.
 
-_Public health:_ As required by law, we may disclose your health information to public health or legal authorities charged with preventing or controlling disease, injury, or disability.
+_Your Password and Account Login:_
 
-_Correctional institution_ : Should you be an inmate of a correctional institution, we may disclose to the institution or agents thereof health information necessary for your health and the health and safety of other individuals.
+You may be asked to create an account login and password in order to access some of the services on the Website. You are solely responsibility for maintaining the confidentiality of your account and password, and you agree to accept responsible for all activities that occur under your account or password.
 
-_Law enforcement_ : We may disclose health information for law enforcement purposes as required by law or in response to a valid subpoena.
+**4\. Changes to the Website Privacy Policy**
 
-Federal law makes provision for your health information to be released to an appropriate health oversight agency, public health authority or attorney, provided that a work force member or business associate believes in good faith that we have engaged in unlawful conduct or have otherwise violated professional or clinical standards and are potentially endangering one or more patients, workers or the public.
+From time to time, we may use customer information for new, unanticipated uses, not previously disclosed in our Privacy Policy. If our Policy changes, we will post those changes to our Website as notification to you. If the Policy change is significant, we will notify you by e-mail in advance and provide you with the ability to opt out of these new uses. Please check this Policy frequently.
 
-This notice was published and becomes effective on April 14, 2003.
+**5\. Links**
 
-_Original Publication Date:_ 04/14/2003  
+The Website may contain links to other websites. Please recognize that we do not control these third-party websites, and our Privacy Policy will not apply to those websites. You should consult each applicable privacy policy before using another linked website.
 
+**6\. For California Users**
 
-_Last Modified:_ 10/21/2008   
+The California Civil Code requires a business with whom a California resident has an established business relationship to disclose to such residents, upon their request: (1) the types of personal information the business shares with third parties for the third party’s marketing purposes, and (2) the identities of the third parties with whom the business has shared this information during the immediately preceding calendar year.
+
+As noted above, we do not rent, sell, or otherwise disclose your personal information to third parties except in the normal course of fulfilling your orders and providing service. But if you are a California resident and would like to make such a request, please submit your request via email to:
+
+Privacy Officer, Concordia Partners  
+personalprogram@womentowomen.com
+
+This notice was published and becomes effective on January 14, 2009.
+
+_Original Publication Date:_ 04/14/2003
+
+_Last Modified:_ 06/15/2009   
 
