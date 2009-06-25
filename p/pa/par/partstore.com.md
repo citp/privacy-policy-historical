@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the partstore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015646id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstore.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625183637id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PartStore.com's Privacy Policy
 
-[](https://www.scanalert.com/RatingVerify?ref=www.partstore.com)
-
-  
+[](https://www.scanalert.com/RatingVerify?ref=www.partstore.com)   
 
 
 | 
@@ -35,6 +33,4 @@ We may use your information for these purposes:
 
 If you do not wish to receive catalogues from us or any third parties, please email us at [nocatalogues@partstore.com](mailto:nocatalogues@partstore.com)
 
-PartStore.com may update its privacy policy periodically and use of the information we collect is subject to the privacy policy in effect at the time of use. If a change is made, we will post the updated policy on this site and we encourage you to periodically check our policy. By using our website after change in the privacy policy is made, you consent to the updated policy. If you have any questions or concerns regarding our privacy policy, please [contact us](https://web.archive.org/ContactUs.aspx).   
-  
----|---
+PartStore.com may update its privacy policy periodically and use of the information we collect is subject to the privacy policy in effect at the time of use. If a change is made, we will post the updated policy on this site and we encourage you to periodically check our policy. By using our website after change in the privacy policy is made, you consent to the updated policy. If you have any questions or concerns regarding our privacy policy, please [contact us](https://web.archive.org/ContactUs.aspx). 
