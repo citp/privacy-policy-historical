@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915153246id_/http%3A//www.yello.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yello.in privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625161315id_/http%3A//www.yello.in/privacy.php) for the most accurate reproduction.*
 
-# Yello - free classifieds for cars, real estate, jobs in India
+# Yello.in - Free Classifieds for Cars, Real Estate, Jobs in India
 
 |   
   
@@ -23,7 +23,7 @@
   |    
 1.6 | Yello may contain links to other sites (by means of a hyperlink, banner or button). While visiting another site, you are subject to the privacy rules and regulations of the site you are visiting. You acknowledge that Yello has not developed these sites and therefore has no influence on, and takes no responsibility for, the content of these sites.  
   |    
-1.7 | If you choose to use our referral service to tell a friend about our site, Yello will ask you for your friend's name and email address. Yello will automatically send your friend a one-time email inviting him or her to visit the site. Yello stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [service@yello.in](mailto:service@yello.in) to request that we remove this information from our database.   
+1.7 | If you choose to use our referral service to tell a friend about our site, Yello will ask you for your friend's name and email address. Yello will automatically send your friend a one-time email inviting him or her to visit the site. Yello stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [tcg.classifieds@gmail.com](mailto:tcg.classifieds@gmail.com) to request that we remove this information from our database.   
   |    
 1.8 | From time-to-time Yello may provide you the opportunity to participate in contests or surveys on our site. If you participate, Yello will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address and demographic information (such as zip code). 
 
@@ -64,7 +64,7 @@ Yello do not link aggregate user data with personally identifiable information.
 | 4.1 |  Yello provides you the opportunity to �opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.   
 ---|---  
   |    
-  | If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [service@yello.in](mailto:service@yello.in).   
+  | If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [tcg.classifieds@gmail.com](mailto:tcg.classifieds@gmail.com).   
   |    
   | You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.   
    
@@ -100,7 +100,7 @@ For more information about our third-party advertiser, please click here
    
 **9\. Access to Personally Identifiable Information**  
   
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [service@yello.in](mailto:service@yello.in) or by contacting us by telephone or postal mail at the contact information listed below.  
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [tcg.classifieds@gmail.com](mailto:tcg.classifieds@gmail.com) or by contacting us by telephone or postal mail at the contact information listed below.  
   
    
 **10\. Security**  
@@ -109,7 +109,7 @@ If your personally identifiable information changes, or if you no longer desire 
    
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.   
    
-If you have any questions about security on our Web site, you can send email us at [service@yello.in](mailto:service@yello.in)  
+If you have any questions about security on our Web site, you can send email us at [tcg.classifieds@gmail.com](mailto:tcg.classifieds@gmail.com)  
    
 **11\. Business Transitions**  
   
@@ -123,7 +123,7 @@ In the event Yello goes through a business transition, such as a merger, acquisi
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.   
    
 **13\. Contact Us**  
-| If you have any questions or suggestions regarding our privacy policy, please contact us at: [service@yello.in](mailto:service@yello.in)  
+| If you have any questions or suggestions regarding our privacy policy, please contact us at: [tcg.classifieds@gmail.com](mailto:tcg.classifieds@gmail.com)  
 ---  
    
 Yello Media Ltd.  
