@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050514id_/http%3A//www.ed.ac.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010437id_/http%3A//www.ed.ac.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | About the University
 
