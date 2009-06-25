@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219203401id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625113735id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
 
 # Information Governance | Information & Learning Services | University of Salford - A Greater Manchester University
 
