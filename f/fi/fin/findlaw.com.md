@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221015220id_/http%3A//west.thomson.com/about/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235159id_/http%3A//west.thomson.com/about/privacy/default.aspx) for the most accurate reproduction.*
 
-# West Privacy Policy–Legal Information–West
+# West Privacy Policy–Law Books and Legal Information–West
 
 West, a Thomson Reuters business, is committed to fair information practices. West respects the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. 
 
@@ -73,7 +73,7 @@ Please review the [West Privacy and Public Records Policy Statement](https://web
 
 West uses technical security measures to prevent the loss, misuse, and alteration of information under our control.
 
-For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. [Learn more](https://web.archive.org/web/20081221015220id_/http%3A//west.thomson.com/about/privacy/ssl.aspx) about SSL. 
+For example, when we ask customers to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. [Learn more](https://web.archive.org/web/20090625235159id_/http%3A//west.thomson.com/about/privacy/ssl.aspx) about SSL. 
 
 ## Who Has Access to the Information?
 
@@ -89,6 +89,8 @@ West will share your personal data in four ways:
 ## Links to Other Companies' Sites
 
 Our websites contain links to sites maintained by companies that are not affiliated with West. We are not responsible for the privacy practices or the content of those sites, and we encourage you to use caution when visiting them. In particular, we recommend you view the privacy policy posted on each site. 
+
+For users of Microsoft Virtual Earth mapping features available on Westlaw, please refer to the [Microsoft Online Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=21970) on the Microsoft site. 
 
 ## How to Correct Inaccuracies
 
