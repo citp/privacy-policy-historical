@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218041429id_/http%3A//www.clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625060944id_/http%3A//www.clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Click Compare - The UK's largest brokerage
 
@@ -8,7 +8,9 @@ We collect personal information about you from different sources including the d
 
 We may need to disclose your personal information to third parties such as other members of the Click Group, other brokers, insurance companies and lenders in order to process any policy or loan you require. We may also provide your personal details to regulatory bodies if legally required to do so.
 
-Unless you ask otherwise, we will retain your details and may also send you emails about products and services that we can offer. We will always give you the choice of whether to receive these emails.
+Unless you ask otherwise, we will retain your details and may also send you emails about products and services that we can offer. We will always give you the choice of whether to opt out of these emails.
+
+By agreeing to our Privacy Policy we may, from time to time, release your details to third parties for marketing purposes of products or services that you may be interested in. We will always act to ensure that if you do not wish to receive third party information your details are removed from our database. If you would prefer not to be contacted by third parties please email us at remove@click.co.uk.
 
 If you have applied for life insurance there may be some circumstances where we are unable to provide a quotation in which case we will forward your details to a carefully selected third party with the aim of providing the quotation you have requested
 
