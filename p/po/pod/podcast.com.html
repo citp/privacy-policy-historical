@@ -1,0 +1,1060 @@
+<!--The following is the downloaded HTML source of the podcast.com privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626012344id_/http%3A//podcast.com/home.php%3Fpage%3Dprivacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta name="description" content="Podcast.com is the ultimate podcast collection. Find podcasts from around the world. Play, collect, download and share any podcast.">
+<meta name="keywords" content="podcast, podcasts, podcasting, podcast directory, podcast feed, itunes, videocast, vlog">
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="http://podcast.com/css/treedia1.css">
+<link type="text/css" rel="stylesheet" href="/css/carousel.css">
+
+<!-- <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" /> -->
+
+<script type="text/javascript" language="javascript1.3" src="http://podcast.com/js/swfobject.js"></script>
+
+
+<script type="text/javascript" language="javascript1.3" src="http://podcast.com/css/treedia.js"></script>
+
+
+<script type="text/javascript" language="javascript" src="http://podcast.com/js/behavior.js"></script>
+<script type="text/javascript" language="javascript" src="http://podcast.com/js/rating_feeds.js"></script>
+<script type="text/javascript" language="javascript" src="http://podcast.com/js/rating_members.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://podcast.com/css/rating_feeds.css">
+<link rel="stylesheet" type="text/css" href="http://podcast.com/css/rating_members.css">
+
+<script type="text/javascript" src="/js/videocast/loader.js"></script>
+<script type="text/javascript" src="/js/videocast/swfobject2.js"></script>
+<script type="text/javascript" src="/js/videocast/yahoo-dom-event.js"></script> 
+<script type="text/javascript" src="/js/videocast/utilities.js"></script>
+<script type="text/javascript" src="/js/videocast/dragdrop-min.js"></script>
+<script type="text/javascript" src="/js/videocast/container_core-min.js"></script>
+<script type="text/javascript" src="/js/videocast/carousel.js"></script>
+<script src="/js/AC_RunActiveContent.js" type="text/javascript" language="javascript"></script>
+<!-- <script type="text/javascript" src="/js/videocast/jw.php?autostart=true"></script> -->
+
+
+<script type="text/javascript">
+<!--
+
+var blipurl = 'http://blip.tv/?1=1&s=posts&skin=rss';
+var startEpisode = 'http://podcast.com/_service/genRss.php?episodeid=40386857';
+
+var currentPlaylist = null;
+var currentLength = 0;
+var currentItem = -1; 
+var previousItem = -1; 
+var currentMute = false; 
+var currentError = ""; 
+var currentVolume = 80; 
+var currentPosition = 0; 
+var currentState = 'NONE';
+var currentLoaded = 0;
+var currentRemain = 0;
+var player = null;
+var loadItem = null;
+
+var initPlayer = true;
+var currentEpisode = ""; 
+
+function playerReady(thePlayer) {
+	player = window.document[thePlayer.id];	
+
+	addListeners();
+	
+}
+
+function addListeners() {
+	if (player) { 
+		player.addControllerListener("ITEM", "itemListener");
+		player.addControllerListener("MUTE", "muteListener");
+		player.addControllerListener("ERROR", "errorListener");
+
+		player.addModelListener("LOADED", "loadedListener");
+		player.addModelListener("STATE", "stateListener");
+		player.addModelListener("TIME", "positionListener");
+
+		player.addViewListener("VOLUME", "volumeListener");
+	} else {
+		setTimeout("addListeners()",100);
+	}
+}
+
+
+function stateListener(obj) { //IDLE, BUFFERING, PLAYING, PAUSED, COMPLETED
+	currentState = obj.newstate; 
+	previousState = obj.oldstate; 
+
+	var tmp = document.getElementById("stat");
+	if (tmp) { 
+		tmp.innerHTML = "current state: " + currentState + 
+		"<br>previous state: " + previousState; 
+	}
+}
+
+
+function positionListener(obj) { 
+	currentPosition = obj.position; 
+	var tmp = document.getElementById("tim");
+	if (tmp) { tmp.innerHTML = "position: " + currentPosition; }
+}
+
+
+function loadedListener(obj) { 
+	if(initPlayer) {
+		initPlayer = false;
+		player.sendEvent('STOP');
+	}
+
+	currentLoaded = obj.loaded; 
+	currentRemain = obj.total - currentLoaded;
+	var tmp = document.getElementById("ldd");
+	if (tmp) { 
+		tmp.innerHTML = "bytes loaded: " + currentLoaded +
+				"<br>bytes remaining: " + currentRemain; 
+	}
+}
+
+
+function volumeListener(obj) { 
+	currentVolume = obj.percentage; 
+	var tmp = document.getElementById("vol");
+	if (tmp) { tmp.innerHTML = "volume: " + currentVolume; }
+}
+
+
+function muteListener(obj) { 
+	currentMute = obj.state; 
+	var tmp = document.getElementById("mut");
+	if (tmp) { tmp.innerHTML = "mute: " + currentMute; }
+}
+
+function errorListener(obj) { 
+	currentError = obj.message; 
+	alert("player error: " + currentError);
+	var tmp = document.getElementById("error");
+	if (tmp) { tmp.innerHTML = "error: " + currentError; }
+}
+
+
+function itemListener(obj) { 
+	if (obj.index != currentItem) {
+ 		previousItem = currentItem;
+		currentItem = obj.index;
+		
+		if(loadItem != null) {
+			if(player.getPlaylist().length > 1) {
+				loadItem = null;
+				//alert(currentItem);
+			} else {
+				//alert('0: ' + currentItem);
+			}
+			//alert(player.getPlaylist().length);
+			//player.sendEvent('STOP');
+			//player.sendEvent('ITEM', loadItem);
+		}
+		
+		if(currentEpisode != '') {
+			document.getElementById('currentEpisode').value = currentEpisode;
+			currentEpisode = '';
+		}
+
+
+		if (previousItem == -1) { getPlaylistData(); }
+
+		var tmp = document.getElementById("itm");
+		if (tmp) { 
+			tmp.innerHTML = "current item: " + currentItem +
+				"<br>previous item: " + previousItem + 
+				"<br />currentEpisode: " + document.getElementById('currentEpisode').value;
+		}
+
+		var tmp = document.getElementById("item");
+		if (tmp) { tmp.innerHTML = "item: " + currentItem; }
+
+		var tmp = document.getElementById("pid"); 
+		if (tmp) { 
+			tmp.innerHTML = "(received from the player with the id: <i><b>" + obj.id + "</b></i>)"; 
+		} 
+
+		printItemData(currentItem);
+	}
+}
+
+
+function printItemData(theIndex) {
+	var plst = null;
+	plst = player.getPlaylist();
+	
+	if (plst) {
+
+		document.getElementById("epTitle").innerHTML = 'Now Playing: ' + plst[theIndex].title;
+
+		var tmp = document.getElementById("itmsDat");
+		if (tmp) { tmp.innerHTML = txt; }
+		
+		var episodeId = plst[theIndex].file;
+		
+		lnMatch = episodeId.indexOf('episodeId=');
+		if(lnMatch != -1) {
+			episodeId = episodeId.substr(lnMatch + 10);
+		
+			if(episodeId != document.getElementById('currentEpisode').value) {
+				document.getElementById('currentEpisode').value = episodeId;
+	
+				clearClass('aplaylist', 'epname');
+				if(document.getElementById('a'+episodeId) != null) {
+					document.getElementById('a'+episodeId).className = "playing";
+
+					episodeIdStr = '&episodeId=' + episodeId;
+					hitTypeIdStr = '&hitTypeId=1';
+					
+					if(document.getElementById('userId').value != '') {
+						playlistUserIdStr = '&playlistUserId=' + document.getElementById('userId').value;
+					} else {
+						playlistUserIdStr = '';
+					}
+
+					load('/_service/getDiv.php?type=logHit&dataGroup=podcastApp' + episodeIdStr+hitTypeIdStr+playlistUserIdStr, 'xmlOut');	
+
+				}
+				
+			}
+		}
+
+		var txt = '';
+		txt += '<li><b>item number: </b>' + theIndex + ':</li>';
+		txt += '<li><b>title: </b>' + plst[theIndex].title + '</li>';
+		txt += '<li><b>author: </b>' + plst[theIndex].author + '</li>';
+		txt += '<li><b>file: </b>' + plst[theIndex].file + '</li>';
+		txt += '<li><b>type: </b>' + plst[theIndex].type + '</li>';
+		txt += '<li><b>image: </b>' + plst[theIndex].image + '</li>';
+		txt += '<li><b>link: </b><a href="' + plst[theIndex].link + '">' + plst[theIndex].link + '</a></li>';
+		//txt += '<li><b>description: </b>' + plst[theIndex].description + '</li>';
+		
+	} 	
+}
+
+
+function getPlaylistData() { 
+	var plst = null;
+	plst = player.getPlaylist();
+
+	if (plst) { 
+		currentPlaylist = plst; 
+
+		var txt = ''; 
+		for(var i in currentPlaylist) { 
+			txt += '<input type="checkbox" id="cb' + i + '" checked="checked" /> &nbsp; ';
+			txt += currentPlaylist[i].title;
+			txt += '<br />';
+		}
+		var tmp = document.getElementById("plstDat");
+		if (tmp) { tmp.innerHTML = txt; }
+	}	
+}
+
+
+function loadCheckedPlaylistData() { 
+	if (currentPlaylist) { 
+		var j = 0; 
+		var lst = new Array();
+		for(var i in currentPlaylist) { 
+			if(document.getElementById('cb' + i).checked) {
+				lst[j] = {
+					author:currentPlaylist[i].author,
+					description:currentPlaylist[i].description,
+					duration:currentPlaylist[i].duration,
+					file:currentPlaylist[i].file,
+					link:currentPlaylist[i].link,
+					image:currentPlaylist[i].image,
+					start:currentPlaylist[i].start,
+					title:currentPlaylist[i].title,
+					type:currentPlaylist[i].type
+				}
+				j++;
+			}
+		}
+		if(lst.length > 0) { player.sendEvent('LOAD', lst); }
+	}	
+}
+
+
+function getLength() { currentLength = player.getPlaylist().length; return(currentLength); };
+
+
+function loadFile(theFile) { currentItem = -1; previousItem = -1; player.sendEvent('LOAD', theFile); };
+
+function playEpisode(episodeId, mediaType, itemEnclosureType, videoCodec) {
+
+	lcEnclosure = "http://podcast.com/_service/genRss.php?nolog=1&episodeid="+episodeId;
+
+	var movie = "http://podcast.com/_service/getEpisode.php?episodeId="+episodeId;
+	
+	var movieStr = '&movie=' + escape(movie);
+
+	currentEpisode = episodeId;
+
+	episodeIdStr = '&episodeId=' + episodeId;
+	hitTypeIdStr = '&hitTypeId=1';
+	
+	loadWaitImage = 2;
+
+			
+	if(mediaType == 2) {
+		if(player != null) {
+			//player.stretching = "uniform";
+
+			load('/_service/getDiv.php?type=logHit&dataGroup=podcastApp' + episodeIdStr+hitTypeIdStr, 'xmlOut');	
+
+			player.height = "80";
+			loadFile(lcEnclosure);
+		} else {
+			var embedurl = '/inc/player_jw.php?ptype=1&episodeId='+episodeId;
+
+			loadWaitImage = 2;
+	
+			load(embedurl,'flashplayer', '1', loadWaitImage);
+		}
+		
+	} else {
+		if(itemEnclosureType == 'application/x-shockwave-flash') {
+			if(player != null) {
+				document.getElementById('flashplayer').innerHTML = '';
+				player = null;
+			}
+
+			var embedurl = '/_service/swf_embed.php?ptype=1&episodeId='+episodeId;
+
+			loadWaitImage = 2;
+			
+			load(embedurl,'flashplayer', '1', loadWaitImage);
+		} else if(itemEnclosureType == 'video/x-flv' || videoCodec == 'h264') {
+			if(player != null) {
+				//player.stretching = "fill";
+
+				load('/_service/getDiv.php?type=logHit&dataGroup=podcastApp' + episodeIdStr+hitTypeIdStr, 'xmlOut');	
+
+				player.height = "260";
+				loadFile(lcEnclosure);
+			} else {
+				var pHeightStr = '&pHeight=260';
+
+				var embedurl = '/inc/player_jw.php?ptype=1&episodeId='+episodeId+pHeightStr;
+
+				loadWaitImage = 2;
+		
+				load(embedurl,'flashplayer', '1', loadWaitImage);
+			}
+
+		} else {
+			if(player != null) {
+				document.getElementById('flashplayer').innerHTML = '';
+				player = null;
+			}
+
+			var embedurl = '/_service/m4v_embed.php?ptype=1&episodeId='+episodeId;
+
+			loadWaitImage = 2;
+			
+			load(embedurl,'flashplayer', '1', loadWaitImage);
+		}
+	}
+	
+	scroll(0,0);
+				
+}
+
+function createPlayer(tcFile, tnHeight) {
+	if(!tcFile) {
+		tcFile = startEpisode;
+	}
+	if(!tnHeight) {
+		tnHeight = 80;
+	}
+	var flashvars = {
+			autostart:"true",
+			fullscreen:"false"
+	}
+	
+	flashvars['file'] = tcFile;
+
+	var params = {
+			allowfullscreen:"false", 
+			allowscriptaccess:"always"
+	}
+	var attributes = {
+			id:"ply1",  
+			name:"ply1"
+	}
+	swfobject.embedSWF("http://podcast.com/swf/player.swf", "placeholder1", "335", tnHeight, "9.0.115", false, flashvars, params, attributes);
+}
+
+function addToPlaylist(tnUserId, tnEpisodeId) {
+	if(!tnUserId) {
+		alert("Missing userId: trying logging in and adding again.");
+		return false;
+	}
+	if(!tnEpisodeId) {
+		alert("Unable to add episode to playlist. Please try again.");
+		return false;
+	}
+
+	if(document.getElementById('playlist').style.display == 'none') {
+		togglePlaylist();
+	}
+
+	userIdStr = '&userId=' + tnUserId;
+	episodeIdStr = '&episodeId=' + tnEpisodeId;
+	
+	loadWaitImage = 2;
+
+	load('/_service/getDiv.php?type=addToPlaylist&dataGroup=podcastApp' + userIdStr+episodeIdStr, 'playlist', '1', loadWaitImage);	
+
+}
+
+function removeFromPlaylist(tnPlaylistItemId, tnEpisodeId, tnUserId) {
+	if(!tnPlaylistItemId) {
+		alert("Missing playlistItemId: trying logging in and adding again.");
+		return false;
+	}
+	if(!tnUserId) {
+		alert("Missing userId: trying logging in and adding again.");
+		return false;
+	}
+	if(!tnEpisodeId) {
+		alert("Unable to remove episode from playlist. Please try again.");
+		return false;
+	}
+
+	var agree=confirm('Are you SURE you want to REMOVE this episode from your playlist?');
+	if (agree){
+	} else {
+		return false;
+	}
+
+	if(document.getElementById('playlist').style.display == 'none') {
+		togglePlaylist();
+	}
+
+	userIdStr = '&userId=' + tnUserId;
+	episodeIdStr = '&episodeId=' + tnEpisodeId;
+	playlistItemIdStr = '&playlistItemId=' + tnPlaylistItemId;
+	
+	loadWaitImage = 2;
+
+	load('/_service/getDiv.php?type=removeFromPlaylist&dataGroup=podcastApp' + userIdStr+episodeIdStr+playlistItemIdStr, 'playlist', '1', loadWaitImage);
+	
+}
+
+function playPlaylist(tnUserId, tnItem, toObject, tnEpisodeId) {
+
+	currentEpisode = tnEpisodeId;
+
+	episodeIdStr = '&episodeId=' + tnEpisodeId;
+	hitTypeIdStr = '&hitTypeId=1';
+	playlistUserIdStr = '&playlistUserId=' + tnUserId;
+	playlistItemStr = '&playlistItem=' + tnItem;
+		
+	lcEnclosure = "http://podcast.com/_service/genRss.php?nolog=1&playlistId="+tnUserId+playlistItemStr;
+
+	
+	if(player != null) {
+		player.height = "80";
+		//loadItem = tnItem - 1;
+
+		load('/_service/getDiv.php?type=logHit&dataGroup=podcastApp' + episodeIdStr+hitTypeIdStr+playlistUserIdStr, 'xmlOut');	
+
+		loadFile(lcEnclosure);
+
+		//player.sendEvent('ITEM', tnItem - 1);
+	} else {
+		var embedurl = '/inc/player_jw.php?ptype=1&episodeId='+tnEpisodeId+playlistUserIdStr+playlistItemStr;
+
+		currentItem = -1; 
+		previousItem = -1;
+		
+		load(embedurl,'flashplayer');
+	}
+	
+	
+	clearClass('aplaylist', 'epname');
+	toObject.className = "playing";
+
+}
+
+function movePlaylistItem(tnPlaylistItemId, tnEpisodeId, tnUserId, tnCurrentlistOrder, tcDirection) {
+	if(!tnPlaylistItemId) {
+		alert("Missing playlistItemId: trying logging in and moving again.");
+		return false;
+	}
+	if(!tnUserId) {
+		alert("Missing userId: trying logging in and moving again.");
+		return false;
+	}
+	if(!tnEpisodeId) {
+		alert("Unable to move item in playlist. Please try again.");
+		return false;
+	}
+
+	userIdStr = '&userId=' + tnUserId;
+	episodeIdStr = '&episodeId=' + tnEpisodeId;
+	playlistItemIdStr = '&playlistItemId=' + tnPlaylistItemId;
+	directionStr = '&direction=' + tcDirection;
+	
+	loadWaitImage = 2;
+
+	load('/_service/getDiv.php?type=movePlaylistItem&dataGroup=podcastApp' + userIdStr+episodeIdStr+playlistItemIdStr+directionStr, 'playlist', '1', loadWaitImage);
+
+
+}
+
+
+function clearClass(tcRef, tcNewClass) {
+	var detail = document.getElementsByName(tcRef);
+	for (i=0; i < detail.length; i++) {
+		detail[i].className = tcNewClass;
+	}
+}
+
+function pageEpisodes(feedId, episodesPageSize, pgEs) {
+	
+	if(episodesPageSize) {
+		createCookie('ePgSize',episodesPageSize,365);
+	}
+
+	feedIdStr = "&feedId="+feedId;
+	episodesPageSizeStr = "&episodesPageSize="+episodesPageSize;
+	pageStr = "&pgEs="+pgEs;
+	
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=feedEpisodes&dataGroup=podcastApp'+feedIdStr+episodesPageSizeStr+pageStr, 'feedEpisodesPage', '1', loadWaitImage);
+
+}
+
+function pageFresh(nodeId, episodesPageSize, pgEs) {
+	
+	if(episodesPageSize) {
+		createCookie('ePgSize',episodesPageSize,365);
+	}
+
+	nodeIdStr = "&node="+nodeId;
+	episodesPageSizeStr = "&episodesPageSize="+episodesPageSize;
+	pageStr = "&pgEs="+pgEs;
+	
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=freshEpisodes&dataGroup=podcastApp'+nodeIdStr+episodesPageSizeStr+pageStr, 'feedEpisodesPage', '1', loadWaitImage);
+
+}
+
+function loadFeed(feedId, feedTitle, parentNode, update) {
+
+	if(!feedId) {
+		return false;
+	}
+
+	feedIdStr = "&feedId="+feedId;
+
+	if(parentNode != undefined && parentNode != '') {
+		parentNodeIdStr = "&parentNode="+parentNode;
+	} else {
+		parentNodeIdStr = "";
+	}
+
+	if(update != undefined && update != '') {
+		updateStr = "&update="+update;
+	} else {
+		updateStr = "";
+	}
+
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=feedDetail&dataGroup=podcastApp'+feedIdStr+parentNodeIdStr+updateStr, 'feed', '1', loadWaitImage);
+
+	if(feedTitle!=undefined){
+		document.title = feedTitle + ' @ podcast.com';
+	} else {
+		document.title = 'podcast.com';
+	}
+	
+}
+
+function loadFresh(tcFreshUrl,tnNodeId,tnFeedId,tcNodeTitle) {
+
+	if(!tnNodeId && !tnFeedId) {
+		return false;
+	}
+
+	feedIdStr = "&feedId="+tnFeedId;
+	freshUrlStr = "&freshUrl="+tcFreshUrl;
+	nodeStr = "&node="+tnNodeId;
+
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=freshDetail&dataGroup=podcastApp'+feedIdStr+freshUrlStr+nodeStr, 'feed', '1', loadWaitImage);
+	
+}
+
+function loadEpisode(episodeId) {
+
+	if(!episodeId) {
+		return false;
+	}
+
+	episodeIdStr = "&episodeId="+episodeId;
+
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=episodeDetail&dataGroup=podcastApp' + episodeIdStr, 'feedEpisodeDetail', '1', loadWaitImage);
+	
+}
+
+function loadEpisodeFull(episodeId) {
+
+	if(!episodeId) {
+		episodeId = document.getElementById('currentEpisode').value;
+	}
+
+	if(episodeId == '' || episodeId == undefined) {
+		alert('Missing episodeId. Returning...');
+		return false;
+	}
+
+	episodeIdStr = "&episodeId="+episodeId;
+
+	loadWaitImage = 2;
+	
+	load('/_service/getDiv.php?type=episodeDetailFull&dataGroup=podcastApp'+episodeIdStr, 'feed', '1', loadWaitImage);
+	
+}
+
+function subscrUnsubscrFeed(tnFeedId, tnNodeId, tnUserId, tnKey, tcFeedTitle) {
+
+	if(!tnFeedId || !tnNodeId || !tnUserId || !tnKey) {
+		alert("Unable to subscribe/unsubscribe feed - missing information. Please refresh window and try again.");
+		return false;
+	}
+	
+	if(tcFeedTitle == '') {
+		tcFeedTitle = 'this feed';
+	}
+	
+	if(document.getElementById("aSubscribe").className == "add-podcast") {
+		lcMode = '0';
+		lcAction = 'ADD';
+		lcFromTo = 'to';
+		lcProcessType = 'pcapi_subscribe';
+	} else {
+		lcMode = '1';
+		lcAction = 'REMOVE';
+		lcFromTo = 'from';
+		lcProcessType = 'pcapi_unsubscribe';
+	}
+
+	var agree=confirm("Are you SURE you want to "+lcAction+" '"+tcFeedTitle+"' "+lcFromTo+" your subscriptions?");
+	if (agree){
+	} else {
+		return false;
+	}
+
+	feedIdStr = "&feedId="+tnFeedId;
+	nodeIdStr = "&node="+tnNodeId;
+	userIdStr = "&userId="+tnUserId;
+	keyStr = "&key="+tnKey;
+
+	loadWaitImage = 2;	
+	
+	postProcFunction = 'checkUnsubscribe('+lcMode+','+tnNodeId+','+tnUserId+');';
+	
+	ldWaitDiv = 'directory';
+	
+	load('/_service/getDiv.php?type='+lcProcessType+'&dataGroup=pcapi&programId=100'+feedIdStr+nodeIdStr+userIdStr+keyStr, 'xmlOut', '1', loadWaitImage,postProcFunction, ldWaitDiv);
+	
+}
+
+function checkUnsubscribe(tnMode, tnNodeId, tnUserId) {
+	llFailed = false;
+	lcMessage = "";
+	lcResult = document.getElementById("xmlOut").value;
+
+	nodeIdStr = "&node="+tnNodeId;
+	userIdStr = "&thisUserId="+tnUserId;
+	currentUserIdStr = "&currentUserId="+tnUserId;
+
+	if(lcResult == "") {
+		llFailed = true;
+		lcMessage = " Subscribe/Unsubscribe did not complete. Please try again.";
+	} else {
+
+		try //Internet Explorer
+			{
+			xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+			xmlDoc.async="false";
+			xmlDoc.loadXML(lcResult);
+			}
+		catch(e)
+			{
+			try //Firefox, Mozilla, Opera, etc.
+				{
+				parser=new DOMParser();
+				xmlDoc=parser.parseFromString(lcResult,"text/xml");
+				}
+			catch(e)
+				{
+				//alert(e.message);
+				lcMessage = e.message;
+				llFailed = true;
+				//return false;
+				}
+			}
+		if(!llFailed) {
+			var lcStatusCode = xmlDoc.getElementsByTagName("statusCode")[0].childNodes[0].nodeValue;
+			var lcStatus = xmlDoc.getElementsByTagName("status")[0].childNodes[0].nodeValue;
+			
+			if(lcStatusCode != "1") {
+				lcMessage = lcStatus+ " "+lcStatusCode;
+				llFailed = true;
+			} else {
+				if(tnMode == 1) {
+					document.getElementById("aSubscribe").className = "add-podcast";
+				} else {
+					document.getElementById("aSubscribe").className = "remove-podcast";
+				}
+
+				loadWaitImage = 2;	
+				load('/_service/getDiv.php?type=feeds&dataGroup=opmlNode'+nodeIdStr+userIdStr+currentUserIdStr, 'directory', '1', loadWaitImage);
+
+			}
+			
+			if(lcMessage != "") {
+				alert(lcMessage);
+			}
+		}
+	}	
+}
+
+function logHit(hitTypeId, episodeId, feedId) {
+
+	if(!hitTypeId || (!episodeId && !feedId)) {
+		return false;
+	}
+
+	hitTypeIdStr = "&hitTypeId="+hitTypeId;
+
+	if(feedId) {
+		feedIdStr = "&feedId="+feedId;
+	} else {
+		feedIdStr = "";
+	}
+	if(episodeId) {
+		episodeIdStr = "&episodeId="+episodeId;
+	} else {
+		episodeIdStr = "";
+	}
+	
+	load('/_service/getDiv.php?type=logHit&dataGroup=podcastApp' +hitTypeIdStr+ episodeIdStr+feedIdStr, 'xmlOut');	
+	
+	return true;
+}
+
+-->
+</script>
+
+
+
+<title>
+Podcast.com is the ultimate podcast collection.</title>
+</head>
+
+<body>
+<div id="page">
+<div id="header">
+<div id="topleader">	<div class="leaderholder">	<script type="text/javascript"><!--
+	google_ad_client = "pub-3805297729579805";
+	/* Podcast Leaderboard 728x90, created 11/13/08 */
+	google_ad_slot = "4018203991";
+	google_ad_width = 728;
+	google_ad_height = 90;
+	//-->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+	</div></div>	<ul id="utillinks">
+<li id="loginlink"><a href="http://podcast.com/login.php" title="log on or sign up for a new account">Log In/Sign Up</a></li></ul>	<a href="http://podcast.com"><img src="http://podcast.com/images/podcast-over.jpg" alt="Podcast.com, find, play, share, collect, and download any podcast." id="sitelogo"></a>
+</div>
+
+<!--// search bar //-->
+<script>
+
+function goSearchPod(){
+
+	var node = document.getElementById('searchNode').value;
+	
+	if(node != '0' && node != '') {
+		nodeStr = "&node=" + node;
+	} else {
+		nodeStr = "";
+	}
+	
+	var searchUrl = '/_service/search_sphinx1.php?q=' + document.getElementById('searchBox').value + nodeStr;
+
+	//alert(searchUrl);
+
+	if(document.getElementById('searchBox').value!=''){
+		feedMe(searchUrl,'contentcenter','search');
+	}
+	return false;
+}
+
+</script>
+
+<div id="searchBar">
+
+
+<div class="searchRightEnd"></div>
+<div class="searchLeftEnd"></div>
+  <form id="searchForm" name="searchForm" method="post" action="">
+  	<img hspace="5" align="absmiddle" id="busy" src="/images/busy_trans.gif" style="display:none;">
+    <label>Search Podcasts:</label>
+      <select name="searchNode" id="searchNode">
+        <option value="0" selected="selected">All Podcasts</option>
+              </select>
+      <input type="text" name="searchBox" id="searchBox" onkeypress="return checkEnterSearch(event)">
+      <a href="" onclick="goSearchPod(); return false;" class="searchButton">Search</a>
+  </form>
+<div class="contentclear"></div> 
+
+</div>
+<!--// end search bar //-->
+<!-- left bar -->
+<div id="contentleft">
+
+<ul id="ln_menu"><li class="menubottom"></li><li class="menutop"></li><li class="first"><a title="podcast.com home" class="plain" href="http://podcast.com">Home</a></li><li><a title="podcast.com channels" class="plain" href="http://podcast.com/home.php?subpage=_pages/channels_home.php">Channels</a></li><li><a title="podcast.com member central" class="plain" href="http://my.podcast.com/">Community</a></li><li><a href="http://podcast.com/partners.php" class="plain">Partners</a></li><li><a title="podcast.com FAQ" target="_blank" class="plain" href="http://blog.podcast.com/podcastcom-faq/">FAQ/Help</a></li><li class="last"><a title="Add a podcast feed to Podcast.com" class="plain" href="javascript:feedMe('/_pages/add-podcast.php','contentcenter');">Add a Podcast</a></li></ul>
+<br clear="all"><a title="Get leads and analytics from your podcasts" href="http://treedia.com/channels/index.php" target="_blank">
+	<img src="/images/banners/podcast-analytics.gif" width="147" height="137" border="0" style="margin: 15px 0; float: right; clear: right;">    
+</a>
+
+<br clear="all">
+<div class="leftblock">
+
+	<h1>Featured Channels</h1>
+	<ul class="featuredChannelsHomeText">
+<li><a href="http://mobilenetworld.podcast.com" title="Mobile Internet World Podcasts">Mobile Internet World </a></li><li><a href="http://wimaxworld.podcast.com" title="WiMAX World Podcasts">WiMAX World </a></li><li><a href="http://pubcon.podcast.com" title="Pubcon">Pubcon</a></li><li><a href="http://politalk.podcast.com" title="PoliTalk - Political Podcast">PoliTalk - Political Podcast</a></li>	</ul>
+	
+	<strong><a href="http://podcast.com/home.php?subpage=_pages/channels_home.php" class="plain">See All Channels</a></strong>
+</div>
+
+<br clear="all">
+<br>	<script type="text/javascript"><!--
+	google_ad_client = "pub-3805297729579805";
+	/* 120x600, Left Column created 3/13/08 */
+	google_ad_slot = "4234681436";
+	google_ad_width = 120;
+	google_ad_height = 600;
+	//-->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+<br clear="left"><!--
+<script>
+
+function resetBigRight(){
+	var feedId;
+	if(readCookie('lastFeedId')!=null){
+		feedId = readCookie('lastFeedId');
+		//alert('feedid: '+ feedId);
+	}
+
+	if(readCookie('lastNodeId')!=null){
+		var nodId;
+		nodId = readCookie('lastNodeId');
+		//alert('nodId:'+nodId);
+	} else {
+		nodId = 1817;
+	}
+
+	feedMe('/inc/bigright.php?feedId=' + feedId,'bigright',nodId);
+
+}
+
+</script>
+-->
+
+	<!-- end content left -->
+	<br clear="all">
+</div>
+
+
+<div id="bigright">
+	<div id="contentmain">
+
+	<div id="contentcenter"><div id="feed"><div id="loadMessage"></div><style>
+<!--
+/* PAGE STYLES */
+
+	#PRIVACY p {
+		margin: 10px;
+	}
+	#PRIVACY h1 {
+		margin-left: 10px;
+	}
+
+-->
+</style>
+
+
+<div class="pad10">
+<div class="lineblocklive" style="width: 700px;">
+<div class="pad5">
+<div id="PRIVACY">
+
+
+	<h1>General Privacy Policy</h1>
+
+	<p><strong>Information about Podcast.com Users</strong><br>
+	When you register at our site and use Podcast.com services, we collect certain information about you. To login, we ask for your username, email address and password We collect this information in order to verify access rights to access-restricted services, deliver to you services that you requested, send you any newsletters that you register for, updates and information about our products, and to respond to your questions.  During registration, we will also ask you for gender, age and nationality information.We use this information to insure the presentation of appropriate content and to comply with legal requirements that restrict the content presented to you. If you make a purchase on our site, we will ask you for your billing information including your name, address, email address, telephone number, and credit card information in order to process your order. We do use information about how members use our site on an anonymous, aggregated basis. We use this information so that we can understand how visitors are using the site and to improve it.</p>
+	
+	<p><strong>Sharing of Information</strong><br>
+	We may share your information with a third party vendor and their subcontractors in order to complete a transaction, process your billing information, to fulfill your requests for products, programs and services, or provide customer service. Any third party that we do business with is not permitted to use any of your personal information in any manner other than for the purpose for which it was provided. Third parties will not sell, rent or give your information to any other companies, other than successors to their businesses. By entering into the agreement for the purchase of a product and placement of your order with us you acknowledge that the uses and disclosures are necessary to fulfillment of the purchase agreement with you and you specifically consent to use and disclosure of your personal information as set forth herein. You specifically acknowledge that your personal information may be transferred outside the European Union in order to process or fulfill your order. Subject to applicable law, we will provide you with access to your personal information on request and provide you with the right to rectify errors. You may also notify us of your objection to the use of your personal information for direct marketing purposes.</p>
+	
+	<p><strong>Kids on Podcast.com</strong><br>
+	Podcast.com is designed to be appropriate for children under age 18, and as such adults over the age of 18 must opt in to be exposed to adult content. We recommend that children under 18 ask their parents for permission before using this service.</p>
+	
+	<p><strong>Legal Disclosure</strong><br>
+	Podcast.com was designed in such a way so that we would not regularly record or track the habits of our individual users. However, in certain situations such as the receipt of a subpoena or court order, we may be required to share information about your account.</p>
+	
+	<p><strong>Security</strong><br>
+	Podcast.com is committed to securely maintaining any information that you provide to us. We use state of the art technology in order to store all user information in secure databases. While we make every effort to keep this information secure, we cannot guarantee that the security measures we take will prevent third parties from illegally obtaining your information.</p>
+	
+	<p><strong>Privacy Changes</strong><br>
+	If we decide to change our privacy policy, we will post the changes here so that you will always know what information we collect about you, how we use it and whether it is shared with anyone.</p>
+
+	<h1>Email Privacy Policy</h1>
+	
+	<p>We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.</p>
+	
+	<p><strong>Why did you receive a mailing from us?</strong><br>
+	Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.</p>
+	
+	<p>If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to abuse@podcast.com for review.</p>
+	
+	<p><strong>How can you stop receiving email from us?</strong><br>
+	Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the Unsubscribe directions in the email or Update your email preferences in your Podcast.com Profile Page.</p>
+	
+	<p><strong>How we protect your privacy</strong><br>
+	We use appropriate security measures to protect against the loss, misuse and alteration of data used by our system.</p>
+	
+	<p><strong>Sharing and Usage</strong><br>
+	We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law or the content is defined as "Premium Content". Premium Content is content where your email address and certain demographic information is shared with the content producer. All Premium Content is clearly marked. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.</p>
+	
+	<p><strong>Use of Web Beacons</strong><br>
+	When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).</p>
+	
+	<p>Web Beacons can be refused when delivered via email. If you do not wish to receive Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.</p>
+	
+	<p><strong>Privacy Policy Changes</strong><br>
+	This policy was created in August of 2008.<br>
+	This policy was updated in January of 2009.</p>
+
+
+
+
+</div>
+</div>
+</div>
+</div><br clear="all"></div><br clear="all">	<!-- end contentcenter -->
+<br clear="all">
+
+</div>
+	<!-- end contentmain -->
+<br clear="all">
+
+
+
+</div>
+
+
+
+<br clear="all">
+</div> <!--extra? -->
+
+
+<br clear="all">
+
+</div>
+
+
+
+<div id="pod-footer">
+	<div id="pod-footer-content">
+		<script type="text/javascript">
+		function toggleX(){
+			if(document.getElementById('showexplicit').checked){
+				createCookie('podcastExplicit','true',7);
+			} else {
+				eraseCookie('podcastExplicit');
+			}
+		}
+
+		function toggleEnc(){
+			if(document.getElementById('showpodcheck').checked){
+				createCookie('showEnclosures','true',7);
+			} else {
+				eraseCookie('showEnclosures');
+			}
+		}
+
+		</script>
+
+				<ul id="pod-footer-links"><li class="first-item"><a href="http://podcast.com/home.php?page=about1.php">About Podcast.com</a></li>
+			<li><a href="http://blog.podcast.com/podcastcom-faq/what-is-a-podcast/" target="_blank">What is a podcast?</a></li>
+			<li><a href="javascript:feedMe('/_service/feedback_form.php?area=main','contentcenter');">Feedback</a></li>
+			<li><a href="http://blog.podcast.com/" target="_blank">Blog</a></li>
+			<li><a href="javascript:feedMe('/_pages/mobile.php','contentcenter');">Devices</a></li>
+			<li><a href="http://podcast.com/partners.php">Partners</a></li>
+			<li><a href="http://podcast.com/home.php?page=terms1.php">Terms of Use</a></li>
+			<li><a href="http://podcast.com/home.php?page=privacy.php">Privacy</a></li>
+			<li><a href="http://index.podcast.com">Index</a></li>
+			<li><span><input onclick="toggleX();" id="showexplicit" name="showexplicit" type="checkbox"> <label for="showexplicit">Show Explicit Content</label></span></li>
+		</ul>
+		<div id="pod-footer-message">Copyright © 2009 Podcast.com. Powered by <a href="http://www.treedia.com" target="_blank">Treedia Labs</a>. &nbsp; Flash 9 required - Please <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">upgrade to the latest version</a>.
+		</div>
+	</div>
+</div>
+
+
+
+<!--<br clear='all' /> -->
+<!-- end page div -->
+<!--</div> -->
+
+
+
+
+<div id="overlay">
+<center>
+     <div id="overlayInner">
+     <img hspace="6" vspace="6" src="/images/LOGO_spinner.gif">
+     <h2>please wait...</h2>
+     </div>
+</center>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-647381-2";
+_udn="podcast.com";
+urchinTracker();
+</script>
+
+
+
+
+
+
+</body></html>
