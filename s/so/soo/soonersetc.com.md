@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216030523id_/http%3A//www.soonersetc.com/component/content/article/199.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soonersetc.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625230547id_/http%3A//www.soonersetc.com/component/content/article/199.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,17 @@ This policy explains what information we collect about you and how we use that i
 
 Sooners Etc does not require the use of cookies.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+
 The use of advertising cookies sent by third-party servers is standard in the Internet industry. You may occasionally get cookies from our advertisers. Sooners Etc cannot and does not control these cookies.
+
+**Information concerning the Google DoubleClick DART cookie:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on Sooners Etc.
+  * Google's use of the DART cookie enables it to serve ads to Sooners Etc's users based on your visit to Sooners Etc and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 ## Traffic Data
 
@@ -28,5 +38,5 @@ Sooners Etc never shares, sells, or rents any personal information unless ordere
 
 Further information pertaining to privacy and legal issues can be viewed [here](http://www.securityfocus.com/columnists/450).
 
-|  [Next >](http://www.soonersetc.com/component/content/article/190-copyright.html)  
----
+|  [< Prev](http://www.soonersetc.com/component/content/article/3557-2009sponsors.html) |    |  [Next >](http://www.soonersetc.com/component/content/article/190-copyright.html)  
+---|---|---
