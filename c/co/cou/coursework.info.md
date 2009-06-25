@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025010343id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010734id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ### Access All our Essays in an Instant
 
-Swap your work for FREE access, or pay £4.99
+Swap your work for FREE access, or pay £4.99 for instant access
 
 [](https://web.archive.org/cgi-bin/community/community.cgi?do=user_signup)
 
@@ -18,19 +18,19 @@ Coursework.info is sensitive to privacy issues on the internet. We believe that 
 
 ### General Privacy Statement
 
-In general you can visit Coursework.info without telling us who you are or revealing any personally identifiable information about you. Our servers automatically collect domain names, IP addresses, browser details, your country of origin and how you got to the site (via the use of cookies and server generated technology – please see the section ‘What are cookies’ for more information). This information is aggregated to measure things such as the number of visits, time spent on the site, pages viewed etc. Coursework.info uses this information to measure the use of our site and to improve the service we offer to you. Personally identifiable information such as email address, home address, first and last names, and other such identifiable information is only known when voluntarily provided by a visitor for the purpose of registration.
+In general you can visit Coursework.info without telling us who you are or revealing any personally identifiable information about you. Our servers automatically collect domain names, IP addresses, browser details, your country of origin and how you got to the site (via the use of cookies and server generated technology - please see the section 'What are cookies' for more information). This information is aggregated to measure things such as the number of visits, time spent on the site, pages viewed etc. Coursework.info uses this information to measure the use of our site and to improve the service we offer to you. Personally identifiable information such as email address, home address, first and last names, and other such identifiable information is only known when voluntarily provided by a visitor for the purpose of registration.
 
 Personally identifiable information that is collected in response to the use of this site is retained by Coursework.info, and only used in the improvement of services and in contact from us, to the user. We do not sell, transfer or otherwise disclose this information outside this company, except:
 
 • where disclosure is required by law or;
 
-• when the visitor chooses to register using the online payment method (i.e. via debit or credit card). Some or all of this information is passed to one of our payment processors, either WorldPay or PayPal (which ever you choose), in order for them to safely and securely process the payment information. WorldPay are a division of The Royal Bank of Scotland, and hold and process all sensitive information securely (please contact WorldPay via the contact link on their website – www.worldpay.com - for information on their Privacy Statement, and security measures). PayPal also hold and process all sensitive information securely (please contact PayPal via the contact link on their website – http://www.paypal.co.uk/uk - for information on their Privacy Statement, and security measures).
+• when the visitor chooses to register using the online payment method (i.e. via debit or credit card). Some or all of this information is passed to one of our payment processors, either WorldPay or PayPal (which ever you choose), in order for them to safely and securely process the payment information. WorldPay are a division of The Royal Bank of Scotland, and hold and process all sensitive information securely (please contact WorldPay via the contact link on their website - www.worldpay.com - for information on their Privacy Statement, and security measures). PayPal also hold and process all sensitive information securely (please contact PayPal via the contact link on their website - http://www.paypal.co.uk/uk - for information on their Privacy Statement, and security measures).
 
 • through content related and relevant email advertisements (any email advertisement is sent out by us, and none of your personally identifiable information is disclosed to the advertiser).
 
 • when you elect to submit work to our site to gain access to the database. All work that you elect to submit will be submitted, along with your name (no further infomation is submitted), to plagiarism detection software. The purpose of this is to protect your work against reproduction by other users. This information will not be passed further than the plagiarism detection software, and will be securely stored.
 
-It is your responsibility to keep your site log in information secure when it’s in your possession. If you are using a shared computer, please ensure you log out of Coursework.info or close down the browser before leaving the computer for the next user.  
+It is your responsibility to keep your site log in information secure when it's in your possession. If you are using a shared computer, please ensure you log out of Coursework.info or close down the browser before leaving the computer for the next user.  
 This site contains links to other sites. We are not responsible for the privacy practices or content of such Websites.
 
   
@@ -52,11 +52,11 @@ We may use your IP address to help diagnose any problems with our server or to a
 
 ### Security
 
-Coursework.info has security measures in place to protect the loss, misuse and alteration of information under its control. Please try and keep your log in information (username and/or password) secure at all times. If you suspect that the security of your log in information has been breached you can gain access to your members account area and change both your password and email address under the option ‘Change your E-mail address or Password’.
+Coursework.info has security measures in place to protect the loss, misuse and alteration of information under its control. Please try and keep your log in information (username and/or password) secure at all times. If you suspect that the security of your log in information has been breached you can gain access to your members account area and change both your password and email address under the option 'Change your E-mail address or Password'.
 
 ### Children
 
-Coursework.info is intended for general use and does not knowingly collect personal data from children. We take specific steps to protect the privacy of children by not allowing minors (users under 18 years of age) to sign up to the site unless given permission by a parent or legal guardian (please see our Terms of Service clause 8 for full details). Parents and legal guardian’s should supervise the online activities of their children, and should consider the use of parental control tools available from online services and software providers that help provide a child-friendly Internet environment.
+Coursework.info is intended for general use and does not knowingly collect personal data from children. We take specific steps to protect the privacy of children by not allowing minors (users under 18 years of age) to sign up to the site unless given permission by a parent or legal guardian (please see our Terms of Service clause 8 for full details). Parents and legal guardians should supervise the online activities of their children, and should consider the use of parental control tools available from online services and software providers that help provide a child-friendly Internet environment.
 
   
 
