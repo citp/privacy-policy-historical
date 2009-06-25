@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the partstore.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216015646id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partstore.com privacy policy that was archived on 2009-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625183637id_/http%3A//www.partstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>PartStore.com's Privacy Policy</title>
@@ -17,26 +17,34 @@
 			
 <!-- Google Analytics Start -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-275730-1");
-pageTracker._trackPageview();
+    try {
+        var pageTracker = _gat._getTracker("UA-275730-1");
+        pageTracker._trackPageview();
+    } 
+    catch (err) { }
 </script>
 <!-- Google Analytics End -->
-<div id="header">
+
+<div id="Header">
     <div class="logoAndPhoneNumber">
-	    <div class="logo"><a href="/Default.aspx"><img src="/CustomContent/PSTOR_ECO/Images/Header/Logo.gif" width="371" height="65" border="0" alt="PartStore.com is America's Largest Parts Superstore"></a></div>
+	    <div class="logo"><a href="/Default.aspx"><img src="/CustomContent/PSTOR_ECO/Images/Header/Logo.gif" border="0" alt="PartStore.com"></a></div>
 		<div class="phoneNumber"><div class="phonePlaceholder">1-866-925-PART <font style="font-size: 0.8em;">(7278)
 </font><br><span class="openLate">Open 7 Days a Week!</span></div></div>
 	</div>
-    <div class="menubar">
-	    
-        <a href="/GetBasket.aspx" id="ctl00_ShoppingCartAnchor"><img alt="Shopping Cart" src="/CustomContent/PSTOR_ECO/Images/icon-shopping-cart.gif" border="0">Cart</a>
-        <a href="/OrderTracking.aspx" id="ctl00_TrackingOrderAnchor">Track My Order</a>
-        <a href="/OrderHistory.aspx" id="ctl00_MyAccountAnchor">My Account</a>
-        <a href="/" id="ctl00_NewSearchAnchor">New Search</a>
+	<div id="ctl00_SiteLinksDiv">
+        <div class="menubar">
+	        
+            <a href="/GetBasket.aspx" id="ctl00_ShoppingCartAnchor"><img alt="Shopping Cart" src="/CustomContent/PSTOR_ECO/Images/icon-shopping-cart.gif" border="0">Cart</a>
+            <a href="/OrderTracking.aspx" id="ctl00_TrackingOrderAnchor">Track My Order</a>
+            <a href="/OrderHistory.aspx" id="ctl00_MyAccountAnchor">My Account</a>
+            <a href="/" id="ctl00_NewSearchAnchor">New Search</a>
+            <a href="http://promotions.partstore.com/get-tech-support/get-tech-support.html" id="ctl00_GetTechSupport" class="GetTechSupport">Get Expert Help</a>
+            
+        </div>
     </div>
 </div>
 			<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
@@ -48,7 +56,7 @@ pageTracker._trackPageview();
                 <div style="padding: 12px 4px 12px 4px;">
                     <table border="0" cellpadding="0" cellspacing="0">
                         <tbody><tr>
-                            <td><img src="/CustomContent/PSTOR_ECO/Images/SearchBox/search-box-go-bg-large.gif" alt=""></td>
+                            <td><img src="/CustomContent/PSTOR_ECO/Images/Navigation/InputBoxLeft.gif" alt=""></td>
                             <td><input type="text" name="PartNumber" value="Enter Part #" class="nav-search-box-med" onfocus="if (this.value == 'Enter Part #') {this.value = ''};" onblur="if (this.value == '') {this.value = 'Enter Part #'};"></td>
                             <td><input type="image" src="/CustomContent/PSTOR_ECO/Images/Navigation/InputBoxGoButton.gif" alt="Go" value="Go"></td>
                         </tr>
@@ -57,12 +65,40 @@ pageTracker._trackPageview();
             </form>
         </div>
         <div id="ctl01_FreeShippingDiv" class="NavBar-Banner">
-            <img src="/content/freeshipping/images/FreeShip_leftNavigation.gif" border="0" alt="Free Shipping. Click for details" onclick="togglePopOver('/CustomContent/PSTOR_ECO/XML/MsgBox-FreeShipping.xml','left');" style="cursor: pointer;">
+            <img src="/CustomContent/PSTOR_ECO/Images/Navigation/FreeShip_leftNavigation.gif" border="0" alt="Free Shipping. Click for details" onclick="togglePopOver('FreeShippingDiv','left');" style="cursor: pointer;">
+            
+
+    <div id="FreeShippingDiv" style="display: none;">
+        <img src="/Images/icons_close.gif" style="float: right; cursor: pointer;" onclick="closePopOver()" alt="close">
+        <h1 class="pageTitles">
+            FREE Shipping*</h1>
+        <p>
+            Free Shipping on Purchases over <b>$75</b>. Web Only. Offer automatically applied
+            at checkout.*</p><p>
+            Free shipping offer is valid only for
+            PartStore.com
+            web purchases. Limited time offer. U.S. orders only. Offer is valid for standard
+            ground shipping only. To receive this offer, total single order purchase must amount
+            to over $75 based on total cost before packaging, taxes and shipping and handling
+            charges. Not valid on 2 day, overnight, or express shipping. Not valid on oversized
+            items. Offer does not apply to previously purchased items. Not redeemable for cash
+            or cash equivalent. Not valid on phone orders.
+        </p>
+    </div>
+
+
+
+
+
+
+
         </div>
     </div>
     
     <div class="NavBarHeader">Part Finders</div>
+    
     <div class="NavBarListing"><a href="/MiniSites/ProjectorLamps/Default.aspx?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">TV &amp; Projector Lamps</a></div>
+    
     <div class="NavBarListing"><a href="/MiniSites/InkAndToner/Default.aspx?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Ink &amp; Toner Cartridges</a></div>
     
     <div class="NavBarHeader">Favorites</div>
@@ -81,8 +117,10 @@ pageTracker._trackPageview();
     <div class="NavBarHeader">Top Picks</div>
     <div class="NavBarListing"><a href="/Content/Pages/dryer-filter.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Dryer Filters</a></div>
     <div class="NavBarListing"><a href="/Content/Pages/notebook-batteries.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Laptop Batteries</a></div>
+    
     <div class="NavBarListing"><a href="/Content/Pages/tv-mounts.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">TV Mounts</a></div>
     <div class="NavBarListing"><a href="/Content/Pages/universal-remotes.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Universal Remotes</a></div>
+    
     <div class="NavBarListing"><a href="/Content/Pages/water-filters.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Water Filters</a></div>
     <div class="NavBarListing" align="right" style="font-style: italic;"><a href="/Content/Pages/default.html?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">See More »</a>&nbsp;&nbsp;</div>
     
@@ -100,13 +138,12 @@ pageTracker._trackPageview();
                 <div class="NavBarListing"><a id="ctl01_VerticalRepeater_ctl04_VerticalSearchHyperLink" href="/Search/Vertical/ROOTWireless.aspx?utm_source=leftnav&amp;utm_medium=navigation&amp;utm_campaign=website">Wireless Parts</a></div>
             
     </div>
- 
-    <div id="navigationBottomArea">    
-        <!-- START SCANALERT CODE -->
+    <div id="navigationBottomArea">
         <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.partstore.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.partstore.com/13.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-        <!-- END SCANALERT CODE -->
         <br>
-        <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.partstore.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+        
+            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.partstore.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+        
     </div>
 </div></td>			
 			<td valign="top" width="100%">
@@ -141,42 +178,141 @@ pageTracker._trackPageview();
             <li>To contact you in response to sign up forms such as Contact Us or Order Inquiry.</li>
         </ul> 
     <p></p>
+    
     <p>
         If you do not wish to receive catalogues from us or any third parties, please email us at <a href="mailto:nocatalogues@partstore.com">nocatalogues@partstore.com</a>
     </p>
+    
     <p>
         PartStore.com may update its privacy policy periodically and use of the information we collect is subject to the privacy policy in effect at the time of use. If a change is made, we will post the updated policy on this site and we encourage you to periodically check our policy. By using our website after change in the privacy policy is made, you consent to the updated policy. If you have any questions or concerns regarding our privacy policy, please <a href="/ContactUs.aspx">contact us</a>.
     </p>
 </div></td>
 		    </tr></tbody></table>
 			
-<div id="footer">
+<div id="Footer">
+    
     <div class="emailCell">
         <form id="MailingList" name="MailingList" method="POST" action="/JoinMailingList.aspx">
-            Get Special Discounts and Offers. Join our email list: <input type="text" id="EmailAddress" name="EmailAddress" maxlength="100">
-            <input src="/CustomContent/PSTOR_ECO/Images/Buttons/JoinButton.gif" type="image" name="submit" value="Go" align="absbottom">
+        Get Special Discounts and Offers. Join our email list:
+        <input type="text" id="EmailAddress" name="EmailAddress" maxlength="100">
+        <input src="/CustomContent/PSTOR_ECO/Images/Buttons/JoinButton.gif" type="image" name="submit" value="Go" align="absbottom">
         </form>
     </div>
+    
     <div class="footerNavigation">
+        
         <a href="/CorporateAccounts.aspx">Corporate Accounts</a> |
-        <!-- <a href="/AboutUs.aspx">Return Policy</a> | -->
-        <a href="/AboutUs.aspx">About Us</a> |
-        <a href="/ContactUs.aspx">Contact Us</a> |
+        
+        <a href="/AboutUs.aspx">About Us</a> | <a href="/ContactUs.aspx">Contact Us</a>
+        |
+        
         <a href="/TermsAndConditions.aspx">Terms &amp; Conditions</a> |
+        
         <a href="/PrivacyPolicy.aspx">Privacy</a> |
+        
         <a href="/SiteMap/Default.aspx">Site Map</a> |
+        
         <a href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=1574272" target="_blank">Affiliate Program</a> |
+        
         <a href="/Help.aspx">Help</a> |
+        
         <a href="/Press-Releases.html">Press Releases</a> |
+        
         <a href="/InfoZone.html">Learning Center</a>
-
-        <div class="copyright">Copyright © 2001-2008 PartStore.com. All Rights Reserved.</div>
-
-        <div class="version">prwb10c [1.12.2.0]</div>
+        <div class="copyright">
+            Copyright © 2001-2009
+            PartStore.com. All Rights
+            Reserved.</div>
+        <div class="version">
+            prwb04c
+            [2.0.6.10]</div>
     </div>
 </div>
+<div id="MsgBoxDiv" style="display: none; text-align: left;" class="popUpDiv">
+</div>
+<div id="Div1" style="display: none; text-align: left;" class="popUpDiv">
+</div>
 
-<div id="MsgBoxDiv" style="display: none; text-align: left;" class="popUpDiv"></div>
+
+<!-- SiteCatalyst code version: H.19.4.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript">
+    var reportsuite = "pstor_eco";
+</script> 
+
+<script language="JavaScript" type="text/javascript" src="/Javascripts/omniture.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
+    s.pageName = "pstor_eco:privacy policy"
+    s.server = ""
+    s.channel = ""
+    s.pageType = ""
+    s.prop1 = ""
+    s.prop2 = ""
+    s.prop3 = ""    
+    s.prop4 = ""
+    //Reserved for Category
+    s.prop5 = ""
+
+    /* Conversion Variables */
+    s.campaign = ""
+    s.state = ""
+    s.zip = ""
+    //Events are set depending on the users action. Some predefined events are - prodView, scAdd, scRemove, purchase. 
+    s.events = ""
+    s.products = ""
+    
+    s.eVar1 = ""
+    s.eVar2 = ""
+    s.eVar3 = ""
+    s.eVar4 = ""
+    //Reserved for Category
+    s.eVar5 = ""
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="https://102.122.2O7.net/b/ss/ppartstorecomdev/1/H.19.4--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.19.4. -->
+
+
+<!-- Channel Advisor Page Tracking -->
+<script language="JavaScript"><!--
+{
+var caHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write("<img src="+caHost+"tracking.searchmarketing.com/welcome.asp?SMCID=1508&x=" + escape(document.referrer) + " width=1 height=1>");
+}
+//-->
+</script><img src="https://tracking.searchmarketing.com/welcome.asp?SMCID=1508&amp;x=" width="1" height="1">
+<!-- Channel Advisor Page Tracking End -->
+
+<!-- Channel Advisor Order Tracking -->
+
+<!-- Channel Advisor Order Tracking End -->
+
+<!-- OwnerIQ Page Tracking -->
+
+<!-- OwnerIQ Page Tracking End -->
+
+<!-- Altruik Page Tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-5656560-13");
+        pageTracker._setDomainName("none");
+        pageTracker._setAllowLinker(true);
+        pageTracker._trackPageview();
+    } catch (err) { }
+</script>
+<!-- Altruik Page Tracking End -->
+
 		</div>
 	
 
