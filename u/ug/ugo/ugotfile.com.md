@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ugotfile.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222122829id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugotfile.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002739id_/http%3A//ugotfile.com/doc/privacy) for the most accurate reproduction.*
 
-# uGotFile
+# Free File Hosting - uGotFile
 
 ## Logging IP Addresses
 
