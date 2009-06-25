@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221115641id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625031837id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
-# Privacy and security
+# Privacy Statement
 
 Centrelink places great emphasis on maintaining and enhancing the privacy and security of our mutual customer's personal information. With a number of strong security measures in place and the continued development of our Internet services, our main focus is on improving existing measures as well as keeping you informed about the latest developments.
 
@@ -67,6 +67,6 @@ If you have any privacy or security concerns visit your nearest [Centrelink Cust
 
 [ return to top ]
 
-Did you find what you were looking for? You can also try the [A-Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
+Did you find what you were looking for? You can also try the [A-Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm), [we speak your language](https://web.archive.org/internet/internet.nsf/languages/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
 
 Return to Top
