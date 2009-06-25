@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041950id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626011433id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # DirectStarTV Privacy Policy
 
@@ -48,7 +48,7 @@ DirectStarTV reserves the right to change this policy. If we do make changes, th
 
 You may contact us via the following methods:  
 Email: [comments @DirectStarTV.com  
-](mailto:comments@DirectStarTV.com) Phone: 1-866-379-4009  
+](mailto:comments@DirectStarTV.com) Phone: 1-877-300-2596  
 Mailing Address: 15009 Lancaster Highway, Charlotte, NC 28277
 
 **We take your privacy and security seriously.**
