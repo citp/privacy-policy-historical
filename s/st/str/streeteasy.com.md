@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125415id_/http%3A//www.streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120039id_/http%3A//www.streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,14 @@ Use of this web site is subject to our [Terms of Use](https://web.archive.org/ny
 
 ### Contact
 
-If you have any questions or concerns about this privacy policy, our online practices, or your dealings with this web site, please send email to [**privacy@streeteasy.com**](mailto:privacy@streeteasy.com)
+If you have any questions or concerns about this privacy policy, our online practices, or your dealings with this web site, please send email to [**support@streeteasy.com**](mailto:support@streeteasy.com)
+
+ 
+
+StreetEasy  
+895 Broadway, 5th Floor  
+New York, NY 10003  
++1 646 365 0283 
+
+   
+
