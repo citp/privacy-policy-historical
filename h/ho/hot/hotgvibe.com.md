@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217061232id_/http%3A//hotgvibe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625072623id_/http%3A//www.hotgvibe.com/privacy.php) for the most accurate reproduction.*
 
-# Hot G Vibe :: Vibrating Cock Ring - Sex Toys - Cock Ring - Vibrating Condom
+# Hot G Vibe :: Best Online Adult Sex Toys Store - Shop For Male & Female Sex Toys - Vibrating Cock Rings - Penis Extenders - Male Enhancement Pills
 
 ### Hot G Vibe Privacy / Security Policy
 
@@ -57,7 +57,7 @@ Hot G Vibe reserves the right to change this Privacy Policy at any time. If we d
 
 #### Contact Us
 
-Any comments or questions about the Hot G Vibe Privacy Policy, can be submitted by e-mail by [clicking here](https://web.archive.org/web/20081217061232id_/http%3A//hotgvibe.com/contact.php).
+Any comments or questions about the Hot G Vibe Privacy Policy, can be submitted by e-mail by [clicking here](https://web.archive.org/web/20090625072623id_/http%3A//www.hotgvibe.com/contact.php).
 
 You may also contact at us by postal mail: 
 
