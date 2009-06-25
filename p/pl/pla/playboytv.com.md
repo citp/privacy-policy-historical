@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217052340id_/http%3A//www.playboytv.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235105id_/http%3A//www.playboytv.com/Privacy-Policy) for the most accurate reproduction.*
 
 # PlayboyTV
 
@@ -75,5 +75,3 @@ How do I unsubscribe?**_
  _ **Can I update/correct my information?**_
 
     Yes. You may correct or update your personal information by sending us an email at [Changes@PlayboyTV.com](mailto:Changes@PlayboyTV.com)
-
- **Copyright © 2007. Playboy Entertainment Group, Inc. All Rights Reserved.**
