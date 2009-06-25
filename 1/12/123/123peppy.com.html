@@ -1,188 +1,677 @@
-<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216013304id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2009-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625170659id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
- <script language="JavaScript1.2">
-function subnav(which){
-var thecontent;
-	if(which==0) {
-	document.getElementById("describe").innerHTML='<a href="/dressup-games/top-played-games" class="white">Top Played Games</a> | <a href="/dressup-games/latest-games" class="white">New Games</a> | <a href="/premium-games" class="white">Premium Games</a> | <a href="/popular-games" class="white">Popular Games</a> | <a href="/random-games" class="white">Random Games</a> | <a href="/game-of-the-day" class="white">Game of The Day</a>';
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+ 
+ 
+<title>Privacy Policy | 123peppy</title>
 
-	} else if(which==1) {
-	document.getElementById("describe").innerHTML='<a href="http://www.123peppy.com/graffiti" class="white">Graffiti Maker</a> | <a href="http://www.123peppy.com/graffiti-text-maker" class="white">Graffiti Text Maker</a>';
-	} else if(which==2) {
-	document.getElementById("describe").innerHTML='<a href="http://www.123peppy.com/blog" class="white">Blogs</a> | <a href="/blogs/admin" class="white">News and Updates</a>';
-	} else if(which==3) {
-	document.getElementById("describe").innerHTML='<font class=white><b>Flags Games – Patriotic Dress Up Games</b></font>';
-	}
+
+     <style type="text/css" media="all">@import "/files/css/e3fc90cb91d634b85501c44d43bde3ef.css";</style>
+    
+	<style type="text/css" media="all">@import "/themes/123peppy/peppystyle.css?ver=8";</style>
+	<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+/*width: 150px;
+border: 2px solid black;
+padding: 2px;*/
+/*background-color: lightyellow;*/
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+/*filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);*/
 }
 
-function openwindow(uid)
+</style>
+    	<script type="text/javascript" src="http://www.123peppy.com/themes/123peppy/cal2.js"></script>
+	<script type="text/javascript" src="http://www.123peppy.com/themes/123peppy/cal_conf2.js"></script>
+	<script type="text/javascript" src="http://www.123peppy.com/themes/123peppy/dropdown.js"></script>
+	<script type="text/javascript" src="http://www.123peppy.com/themes/123peppy/downloadjs.js"></script>
+
+
+ <script type="text/javascript">
+ <!-- facefun-->
+ function funcheck()
 {
-window.open("http://www.123peppy.com/myplaylist.php?uid="+uid,
+document.getElementById('facefunstep1').style.display = 'none';
+document.getElementById('facefunstep2').style.display = 'none';
+document.getElementById('facefunstep3').style.display = 'block';
+
+// alert(document.uploadForm.faceid.value);
+  // alert(document.getElementById('preview').fileSize);
+   window.setTimeout( 'handleTimeout()', 2000 );
+
+ 
+}
+
+function handleTimeout(){
+  
+  //alert(document.getElementById('preview').fileSize);
+  document.uploadForm.submit();
+ 
+  }
+ function PrintPath(p){
+obj = document.getElementById("txt-browse");
+obj.value = p.value;
+facefuncheck(p);
+}
+function facefuncheck(field) 
+{
+var browserString = navigator.userAgent.toLowerCase();
+var os = '';
+
+if (browserString.indexOf('mac') > 0) { os = 'mac'; }
+if (browserString.indexOf('win') > 0) { os = 'windows'; }
+if (browserString.indexOf('linux') > 0) { os = 'linux'; }
+
+  if( field.value.match(/\.((jpe?g)|(gif)|(png))$/i) )
+  {
+    document.getElementById('facefunstep1').style.display='none';
+    var basename = document.uploadForm.faceid.value.match(/([^\/\\]+)$/);
+    document.getElementById('thefilename').innerHTML = basename[1];
+    //if broswer is on a mac always show browser
+    if( os != 'mac' )
+	{
+      document.getElementById('facefunstep1').style.display = field.value ? 'none' : 'block';
+    }
+    else{
+      document.getElementById('facefunstep1').style.display = 'block';
+    }
+    document.getElementById('facefunstep2').style.display = field.value ? 'block' : 'none';
+    
+  }
+  else
+  {
+  alert("Please Upload PNG and JPG Images");
+  }
+}
+function showform() {
+document.uploadForm.reset();
+  document.getElementById('facefunstep1').style.display='block';
+  document.getElementById('facefunstep2').style.display='none';
+  
+}
+	
+	function facefun()
+	{
+	
+	document.getElementById('facef1').style.display='block';
+	document.uploadForm.reset();
+	return false;
+	}
+	
+	
+ <!-- end-->
+<!-- Begin  
+	function openwindow(uid)
+{
+window.open("http://123peppy.com/myplaylist.php?uid="+uid,
 	"mywindow","menubar=0,location=1,status=1,resizable=1,width=550,height=450");
 }
 function getcode(uid)
 {
-window.open("http://www.123peppy.com/myplaylist.php?getcodes="+uid,
+window.open("http://123peppy.com/myplaylist.php?getcodes="+uid,
 	"mywindow","menubar=0,location=1,status=1,resizable=1,width=500,height=200");
 }
+var t1=null;
+	//vat t2=null;
+	var l1="Tooltip for line one";
+//var l2="Tooltip for line two";
+function init()
+{
+t1 = new ToolTip("a",true,40);
+ t2 = new ToolTip("b",true,40);
+}
+function checkImageFieldValue(field) 
+{
+var browserString = navigator.userAgent.toLowerCase();
+var os = '';
+
+if (browserString.indexOf('mac') > 0) { os = 'mac'; }
+if (browserString.indexOf('win') > 0) { os = 'windows'; }
+if (browserString.indexOf('linux') > 0) { os = 'linux'; }
+
+  if( field.value.match(/\.((jpe?g)|(gif)|(png))$/i) )
+  {
+    document.getElementById('browse').style.display='none';
+    var basename = document.uploadForm.file.value.match(/([^\/\\]+)$/);
+    document.getElementById('thefilename').innerHTML = basename[1];
+    //if broswer is on a mac always show browser
+    if( os != 'mac' )
+	{
+      document.getElementById('browse').style.display = field.value ? 'none' : 'block';
+    }
+    else{
+      document.getElementById('browse').style.display = 'block';
+    }
+    document.getElementById('step2').style.display = field.value ? 'block' : 'none';
+    document.getElementById('step3').style.display = 'none';
+  }
+}
+	function comment()
+{
+document.getElementById('comments').style.display = 'block';
+}
+
+function download1(str,str1)
+
+{
+
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy/showajax.php";
+url=url+"?q="+str1+"&page="+str;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged5; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged5() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("download").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+	
+function download(str)
+
+{
+//alert("checking");
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy/showajax.php";
+url=url+"?q="+str;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("download").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+function sendgift(str,str1)
+
+{
+//var selected_index = funform.elements["catlist"].selectedIndex;
+
+//var funnob =document.funform.catlist;
+
+var funny1=str;
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy/giftcat.php";
+url=url+"?q="+funny1+"&id="+str1;;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged1; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged1() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("sendgift").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+function sendgift1(str1,str2,str3)
+
+{
+
+//alert("checking");
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy/giftcat.php";
+url=url+"?q="+str2+"&page="+str1+"&id="+str3;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged2; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged2() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("sendgift").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+//facefun gallery
+function facefungallery(str,str1)
+
+{
+//var selected_index = funform.elements["catlist"].selectedIndex;
+
+//var funnob =document.funform.catlist;
+
+var funny1=str;
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy/facefungallery.php";
+url=url+"?q="+str1+"&page="+str;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChangedfun; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChangedfun() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("facefuncontainer").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+
+// End --> 
 
 </script>
+ 
+</head>
+<body>
 
-<title>Privacy Policy | 123peppy</title>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="robots" content="index,follow">
-<meta name="DC.title" content="Privacy Policy">
-<link rel="shortcut icon" href="/files/123peppy_favicon.ico" type="image/x-icon">
-    <style type="text/css" media="all">@import "/files/css/b9266ec0023f62a301862b0b68150e6f.css";</style>
-        <style type="text/css" media="print">@import "/themes/123peppy/print.css";</style>
-    <!--[if lt IE 7]>
-    <style type="text/css" media="all">@import "/themes/123peppy/fix-ie.css";</style>
-    <![endif]-->
-  </head>
-  <body>
-<!-- Layout -->
- <!-- <div id="header-region" class="clear-block"></div>-->
- <!-- main contianer start-->
-<div id="maincontianer">
-<!-- header contianer start-->
-<div id="header">
-<!-- header///-->
+<!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=43986&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script>                                                          
+<!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com -->
 
-<div id="logo"><embed src="/themes/123peppy/images/logo.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="155" height="195" wmode="transparent" style="margin-top:11px; margin-left:10px"></div>
-<div id="top_row"><div class="float_right" style="margin-top:5px; text-align:left; ">
-        		<div style="float:left; vertical-align:middle; width:510px;">
-		  <form action="/user/login" method="post" id="user-login">
-		  <img src="/themes/123peppy/images/username.jpg">
-		  <input type="text" maxlength="60" name="name" id="edit-name" size="21" value="" tabindex="1" class="form-text required">
-		  <img src="/themes/123peppy/images/password.jpg">
-		  <input type="password" maxlength="" name="pass" id="edit-pass" size="21" tabindex="2" class="form-text required">
-		  <input type="hidden" name="form_id" id="edit-user-login" value="user_login">
-		 <input type="submit" name="op" value="Login" tabindex="3" id="edit-submit" class="form-submit">
-		 </form>
-		</div>
-		<div style="width:300px; height:38px; margin-left:5px; float:left">
-		<embed src="/themes/123peppy/images/memberjoin.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="38" wmode="transparent">	
-		</div>
-		
-		
-		</div></div>
-<div id="top_row2">
-<div class="float_left"><div id="logo_text"><a href="/"><img src="/themes/123peppy/images/logo.gif"></a></div></div>
-<div class="float_right" style="margin-top:5px; margin-right:15px;">
-<span class="white">Welcome 
-<a href="/user/login" class="top_row2_links">Sign in</a> | <a href="/user/register" class="top_row2_links">Join FREE</a> |
-<a href="/invite/" class="top_row2_links">Invite A Friend</a>
-| <a href="/blog" class="top_row2_links">Blogs</a> | <a href="/blogs/admin" class="top_row2_links">News</a> | <a href="/faq" class="top_row2_links">Help</a>
-</span>
- </div>
-</div>
-<div id="top_row3"><div id="slogen"></div></div>
-<div id="top_row4">
-<div style=" vertical-align:middle;text-align:center; margin-top:10px">
-	<!-- ValueClick Media 468x60 and 728x90 Banner CODE for 123peppy.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=1&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=43986&m=1&tp=5&d=s&c=1"
-width=728 height=90 border=1></a></noscript>
-<!-- ValueClick Media 468x60 and 728x90 Banner CODE for 123peppy.com -->
-</div>
-</div>
-<div id="top_row5">
-<div id="menubox"><!-- menu start-->
-	<div id="menu-innerbox" class="clearfix">
-		<div><a href="/" class="top-menu">Home</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/dressup-games" class="top-menu" onmouseover="subnav(0)">Dressup Games</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/games/shop-n-dress" class="top-menu">Shop N Dress</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/games/peppy-color-girls" class="top-menu">Peppy Color Girls</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/games/celebrity-dress" class="top-menu">Celebrity</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/games/zodiac-girls" class="top-menu">Zodiac Girls</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/graffiti" class="top-menu" onmouseover="subnav(1)" title="Graffiti Maker - Online graffiti text and symbols generator">Graffiti</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/chat" class="top-menu">Chat</a></div>
-		<div class="menu-line"></div>
-		<div><a href="/music" class="top-menu">Music</a></div>
-		
-	</div>
-</div>
-</div><!-- menu end-->
+<div id="dhtmltooltip"></div>
 
-<div id="top_row6">
-	<div id="describe" style="width:800px; margin:7px 0px 0px 80px;"></div>
-</div>
-<!--header////-->
-</div>
-<!-- header contianer End-->
-<!-- main content Start -->
-<div id="maincontent">
-<div id="leftside">
-<!-- catagory Start-->
-<div class="catagory">
-<div id="leftmenu">
-  		<h2>Dressup Games</h2>
- 		<div class="content"><div class="item-list">
-		<ul><li><a href="/games/animal-games">Animal Games</a></li><li><a href="/games/anime-dress-games">Anime Dress up Games</a></li>
-		<li><a href="/games/barbie-dress-games">Barbie Dress up Games</a></li><li><a href="/games/beauty-pageants">Beauty Pageants</a></li>
-		<li><a href="/games/boy-dress-games">Boy Dress up Games</a></li>
-		<li><a href="/games/bratz-games">Bratz Games</a></li><li><a href="/games/cartoons-games">Cartoons Games</a></li>
-		<li><a href="/games/celebrity-dress">Celebrity Dress up</a></li><li><a href="/games/coloring-pages">Coloring Pages</a></li>
-		<li><a href="/games/cooking-games">Cooking Games</a></li><li><a href="/games/couple-dress-games">Couple Dress up Games</a></li>
-		<li><a href="/games/doll-maker">Doll Maker</a></li><li><a href="/games/fantasy-dress-games">Fantasy Dress up Games</a></li>
-		<li><a href="/games/fashion-games">Fashion Games</a></li><li><a href="/games/girls-dress-games">Girls Dress up Games</a></li>
-		<li><a href="/games/girls-makeover">Girls Makeover</a></li><li><a href="/games/gothic-dress-games">Gothic Dress up Games</a></li>
-		<li><a href="/games/powerpuff-girls-games">PowerPuff Girls Games</a></li><li><a href="/games/roiworld-dress-games">Roiworld Dress up Games</a></li>
-		<li><a href="/games/room-decor">Room Decor</a></li><li><a href="/games/wedding-dress-games">Wedding Dress up Games</a></li>
-		<li><a href="/games/other-dress-games">Other Dress up Games</a></li><li><a href="/games/other-games">Other Games</a></li>
-		<li><a href="/games/baby-dress-games">Baby dress up games</a></li><li><a href="/games/profession-dress">Profession dress up</a></li>
-		<li><a href="/games/holiday-games">Holiday Games</a></li></ul>	 
-		</div></div> <br>
-		<center><a href="http://www.123bee.com/" target="_blank"><img src="/images/123bee.gif" width="100" height="100"></a></center>	<br>
+<script type="text/javascript">
+<!-- Begin 
+var offsetxpoint=-5 //Customize x offset of tooltip
+var offsetypoint=2 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+// End --> 
+
+</script>
+  
+
+<div id="main-container">
+
+
+<div id="container-wrapper" class="floatfix">
+
+  				<div id="header">
+   				 		<h1><a href="http://www.123peppy.com"><!--<img src="new-sliced-images/logo.png" alt="123Peppy - Best Girl's Hangout" />-->
+	 	 				<embed wmode="transparent" width="156" height="171" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/themes/123peppy/logo/logo.swf">
+					</a>	
+   				 </h1>
+				 
+    	<div class="wrapper-top">
+	  		<div id="top-ban">
+      			<div class="banner-holder">
+					<!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com -->
+					<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;tp=5&amp;d=j&amp;t=n"></script>
+					<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&c=1" target="_blank">
+					<img src="http://media.fastclick.net/w/get.media?sid=43986&tp=5&d=s&c=1" alt="" width="728" height="90" border="1"/>
+                    </a></noscript>
+					<!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com -->
+				</div>
+	  			<div class="right-head-panel">
+	      		<fieldset>
+          		<form action="/searchgame/searchview/" accept-charset="UTF-8" method="get" id="search-theme-form">
+		   		   <input name="search" type="text" id="search" value="Search" onblur="if(this.value==''){this.value=' Search '}" onfocus="if(this.value==' Search '){this.value=''}" class="search-box">
+		   		<input type="submit" value="" class="search-btn"></form>
+	   			</fieldset>
+                <ul class="upper">
+					
+                 <li> <a href="http://www.123peppy.com/invite"> Invite A Friend</a></li>
+                       <li> <a href="http://www.123peppy.com/blog"> Blogs </a> </li>
+        <li> <a href="http://www.123peppy.com/blogs/admin"> News </a></li>
+        <li> <a href="http://www.123peppy.com/faq"> Help</a> </li>
+	    </ul>
+	  		</div>
+		</div>  
+      <ul id="top-menu">
+        <li class="left"></li>
+        <li class="midtop">
+		        <a href="/" class="top-menu">Home</a>
+		
+		<a href="/games/shop-n-dress" class="top-menu">Shop N Dress</a>
+		<a href="/games/peppy-color-girls" class="top-menu">Peppy Color Girls</a>
+		
+		<a href="/games/celebrity-dress" class="top-menu">Celebrity</a>
+        <a href="/games/zodiac-girls" class="top-menu">Zodiac Girls</a>
+        <a href="/graffiti" title="Graffiti Maker - Online graffiti text and symbols generator">Graffiti</a>
+        <!--<a href="/chat" class="top-menu">Chat</a>-->
+		<a href="/music" class="top-menu">Music</a>
+        <a href="/facefun" class="top-menu">Facefun</a>
+		<a href="/facefun/greetings" class="new">Greetings</a></li>
+        
+        <li class="right"></li>
+      </ul>
+      <ul id="top-panel">
+        <li class="left"></li>
+        <li> 
+               
+          <form action="/user/login" accept-charset="UTF-8" method="post" id="user-login" style=" float: left">
+            <div class="username-box">
+			  <input name="name" type="text" onblur="if(this.value==''){this.value=' UserName '}" onfocus="if(this.value==' UserName '){this.value=''}" id="" value=" UserName " class="input-login">
+			 </div>
+			  <div class="password-box">
+                <input name="pass" type="password" value=" Password " onblur="if(this.value==''){this.value=' Password '}" onfocus="if(this.value==' Password '){this.value=''}" class="input-password">
+			  </div>
+               <input type="hidden" name="form_id" value="user_login">
+			   <input name="op" type="submit" class="login-btn" value="">
+          </form>
+		   <span class="forget"><a href="http://www.123peppy.com/user/password">Forgot Password?</a></span>
+		
+         
+		 
+     <span style="padding-top:0px;float:left; margin:0 0 0 10px;"> 
+     <a href="/user/register"><img src="/themes/123peppy/images/join_free2.png" alt=""></a></span>
+         
+		<span style="padding: 2px;float: right; "> 
+        </span></li>
+        <li class="right"></li>
+      </ul>
+    </div>
 	
-	<center>
-<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=3&amp;tp=7&amp;d=j&amp;t=s"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=3&c=1" target="_top">
+  </div>
+  
+  				<!---leftbar-->
+   			<div class="middle-container">
+		<!--left-panel starts here-->
+					<div id="left-panel">
+                    					<div id="language_menu">
+		   <div id="menu_child">
+                     <div class="item">
+           <a class="lang_link" href="/fr"><img src="/themes/123peppy/flags/fr.png" class="vlag" alt=""> Français</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/de"><img src="/themes/123peppy/flags/de.png" class="vlag" alt=""> German</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/pl"><img src="/themes/123peppy/flags/pl.png" class="vlag" alt=""> Polish</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/nl"><img src="/themes/123peppy/flags/nl.png" class="vlag" alt=""> Dutch</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/sv"><img src="/themes/123peppy/flags/sv.png" class="vlag" alt=""> Swedish</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/pt-br"><img src="/themes/123peppy/flags/pt-br.png" class="vlag" alt=""> Portuguese</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/it"><img src="/themes/123peppy/flags/it.png" class="vlag" alt=""> Italian</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/es"><img src="/themes/123peppy/flags/es.png" class="vlag" alt=""> Spanish</a></div>
+                      <div class="item">
+           <a class="lang_link" href="/tr"><img src="/themes/123peppy/flags/tr.png" class="vlag" alt=""> Turkish</a></div>
+           		   
+									
+										
+								</div> 	
+									<div id="language"><img src="/themes/123peppy/flags/en.png" class="vlag_active" alt=""> English</div>
+                                    <script type="text/javascript">
+				at_attach("language", "menu_child", "hover", "y", "pointer");
+			</script>
+			</div>
+                    					  
+					  <ul id="left-menu">
+                       <li class="top"><a href="/games/animal-games">Animal Games</a></li>
+					  <li><a href="/games/anime-dress-games"><span>Anime Dress up Games</span></a></li>
+                      <li><a href="/games/barbie-dress-games"><span>Barbie Dress up Games</span></a></li>
+                      <li><a href="/games/baby-dress-games"><span>Baby Dress up games</span></a></li>
+				
+					  <li><a href="/games/beauty-pageants"><span>Beauty Pageants</span></a></li>
+						<li><a href="/games/boy-dress-games"><span>Boy Dress up Games</span></a></li>
+						<li><a href="/games/bratz-games"><span>Bratz Games</span></a></li>
+						<li><a href="/games/cartoons-games"><span>Cartoons Games</span></a></li>
+						<li><a href="/games/celebrity-dress"><span>Celebrity Dress up</span></a></li>
+					<li><a href="/games/coloring-pages"><span>Coloring Pages</span></a></li>
+				<li><a href="/games/cooking-games"><span>Cooking Games</span></a></li>
+					<li><a href="/games/couple-dress-games"><span>Couple Dress up Games</span></a></li>
+
+				<li><a href="/games/doll-maker"><span>Doll Maker</span></a></li>
+				<li><a href="/games/fantasy-dress-games"><span>Fantasy Dress up Games</span></a></li>
+				<li><a href="/games/fashion-games"><span>Fashion Games</span></a></li>
+				<li><a href="/games/girls-dress-games"><span>Girls Dress up Games</span></a></li>
+				<li><a href="/games/girls-makeover"><span>Girls Makeover</span></a></li>
+				<li><a href="/games/gothic-dress-games"><span>Gothic Dress up Games</span></a></li>
+                <li><a href="/games/holiday-games"><span>Holiday Games</span></a></li>
+				<li><a href="/games/powerpuff-girls-games"><span>PowerPuff Girls Games</span></a></li>
+                <li><a href="/games/profession-dress"><span>Profession Dress up</span></a></li>
+                <li><a href="/games/puzzles"><span>Puzzle Games </span></a></li>
+				<li><a href="/games/roiworld-dress-games"><span>Roiworld Dress up Games</span></a></li>
+				<li><a href="/games/room-decor"><span>Room Decor</span></a></li>
+                <li><a href="/games/skill-games"><span>Skill Games</span></a></li>
+				<li><a href="/games/wedding-dress-games"><span>Wedding Dress up Games</span></a></li>
+
+				<li><a href="/games/other-games"><span>Other Games</span></a></li>
+				<li class="bottom"><a href="/games/other-dress-games"><span>Other Dress up Games</span></a></li>
+				
+                
+				
+                
+        		</ul>
+                                 	
+		  			<div class="con-container">
+					   <div class="con-top"></div>
+					   <div class="con-content">
+                        <a target="_blank" href="http://www.123bee.com/"><img src="/themes/123peppy/bee-banner.gif" alt="123bee"></a>
+					  
+                      	
+					   </div>
+					   <div class="con-foot"></div>
+					  </div> 
+                      <div class="con-container">
+					   <div class="con-top"></div>
+					   <div class="con-content">
+                        <!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=3&c=1" target="_blank">
 <img src="http://media.fastclick.net/w/get.media?sid=43986&m=3&tp=7&d=s&c=1"
 width=160 height=600 border=1></a></noscript>
 <!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
-</center>
-	<br>
-</div></div>
-<!-- catagory End-->
+                       </div>
+					   <div class="con-foot"></div>
+					  </div>
+			</div> 	
+  		<!--left end -->
+  		
+					  
+					
+		  <!--right-panel starts here-->
 
-</div>
-<!-- right start -->
-<div id="rightside">
-<div class="right_main" style="width:825px">
-		  <!-- end main content -->
-	
-		<div class="right_main_head">
-	<div class="breadcrumb"><a href="/">Home</a></div> 
-			
-			
-			<div style="float:left; width:480px;">&nbsp; › Privacy Policy</div>
-			<div style="float:right; margin-right:5px; width:155px; text-align:right">
-			<!-- AddThis Button BEGIN -->
-			<script type="text/javascript">addthis_pub  = 'netaxis';</script>
-			<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
-			<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-			<!-- AddThis Button END -->
-			</div>
-			
-		</div>
-			<div class="right_main_inner" style=" height:auto;">
-			<div class="main" style="width:100%; float:left">
-				<div style="float:left; width:204px;">
-									<a href="http://www.123peppy.com/play/aishwarya-rai-dressup-game"><img src="http://www.123images.123peppy.com/aishwarya-rai-dressup-game.jpg" width="200" height="250"></a>
-				</div>
-				<div style="float:left; width:304px">
-					<script type="text/javascript"><!--
+<div id="right-panel">
+		    <div class="right-content">
+            			  <!-- <div id="bread-crumb"><a href='http://www.123peppy.com'>Home</a><div class="breadcrumb"><a href="/">Home</a></div>			   &nbsp; &rsaquo; Privacy Policy			</div>-->
+            			<div id="two-col-wrapper">
+            <div id="left-col"> 
+            <div class="left-panel">
+				           <div class="left-middle">
+                             <div id="swf-rotater">
+                              <div style="width:300px; padding: 0 0 0 10px; float: left">
+                             <script type="text/javascript"><!--
 google_ad_client = "pub-4529211367195218";
 /* 123peppy 300x250, created 3/9/08 */
 google_ad_slot = "0517349586";
@@ -192,22 +681,52 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-				</div>
-				<div style="float:left; width:304px;">
-					<!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=6&amp;tp=8&amp;d=j&amp;t=s"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=6&c=1" target="_top">
-<img src="http://media.fastclick.net/w/get.media?sid=43986&m=6&tp=8&d=s&c=1"
-width=300 height=250 border=1></a></noscript>
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->
-				</div>
-
-			</div>
-		</div>
-	
-		<div class="right_main_head"></div>
-			<div class="right_main_inner" style=" height:auto;">
-			<div class="main" style="width:812px; float:left">
+                     	</div>
+                      
+                      <div style="width:300px; margin: 0 0 0 10px; float: left">
+					  <!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->
+<script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=6&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=43986&m=6&tp=8&d=s&c=1" width="300" height="250" border="1" alt=""/></a></noscript>
+<!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->                     </div>
+                             </div>
+                             </div>
+                             <div class="left-footer"></div>
+						 </div></div>
+                         <div id="right-col"> 
+						
+						  	   <div class="right-panel">
+						     <div class="right-panel-mid">
+							     <div class="member-panel">
+								 <h3>Online User</h3>
+							       <div class="member-cont">
+                                    
+			<div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/sameerak" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/197285_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="sameerak" src="/useravatar/image/197285_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/sameerak" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/197285_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()">sameerak</a>&nbsp;<img src="/files/country/Pakistan.gif" alt="Pakistan" title="Pakistan"></span><span class="user-left">Male,Pakistan</span></div></div><div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/qwertyuiop" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/8572_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="qwertyuiop" src="/useravatar/image/8572_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/qwertyuiop" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/8572_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()">qwertyuiop</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Female,United States</span></div></div><div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/johnacyrus" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/197002_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="johnacyrus" src="/useravatar/image/197002_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/johnacyrus" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/197002_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()">johnacyrus</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Female,United States</span></div></div><div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/starcell" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/180691_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="Starcell" src="/useravatar/image/180691_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/starcell" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/180691_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()">Starcell</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Female,United States</span></div></div><div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/jennahughes23" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/nopic.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="jennahughes23" src="/useravatar/image/nopic.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/jennahughes23" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/nopic.png\' /></div></div></div>')" onmouseout="hideddrivetip()">jennahughes23</a>&nbsp;</span><span class="user-left">Female</span></div></div><div class="member-img">
+									   <div class="member"><span class="user-img"><a href="/user/sie44" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/174115_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()"><img alt="sie44" src="/useravatar/image/174115_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/sie44" onmouseover="ddrivetip('  <div class=\'main-tip\'><div class=\'left-wrapper\'><img src=\'/themes/123peppy/images/arrow.gif\' /></div><div class=\'pop-avatar-wrapper\'><img src=\'/useravatar/image/174115_thumb.png\' /></div></div></div>')" onmouseout="hideddrivetip()">sie44</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Female,United States</span></div></div>	   
+								</div></div>
+								 </div>
+						<div class="right-panel-bottom"></div>	 
+						    </div>
+							<!-- End Online Member --> 
+						</div> </div>
+                          			   <div class="full-panel">
+			      <div class="full-panel-middle-wrapper">
+				     <div class="full-panel-middle">
+						 <div class="full-panel-heading"><h3><span> &nbsp;Privacy Policy</span>
+						   <!-- AddThis Button BEGIN -->
+				<script type="text/javascript">addthis_pub  = 'netaxis';</script>
+				<a class="book-mark-btn" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
+				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+				<!-- AddThis Button END --></h3></div>
+						 <div class="full-panel-content">
+						 							<div class="tellpanel">
+														 <div class="play-left">
+							    
 								<!--<div id="node-870" class="node">
 -->
 
@@ -216,22 +735,22 @@ width=300 height=250 border=1></a></noscript>
   
 -->  
   <div class="content">
-    <p>REGISTRATION<br>
-In order to register for an account on 123peppy you must supply us with your email address. </p>
-<p>HOW YOUR PERSONAL INFORMATION IS USED<br>
-We use your email address to send you your password. This is also applicable should you use the lost password or lost username feature on the site. We may also from time to time send you emails about offers or updates with 123peppy. You can choose to opt out of this at any time from your My 123peppy Settings area. We do not pass any personal information (including email addresses) to 3rd parties.  </p>
-<p>IP address and logging<br>
-Your IP address is used to gather broad demographic information and to track your general visiting patterns (how many pages you view while at one website, downloads, etc).</p>
-<p>Third Party Advertising<br>
-We may use Google Adsense and/or other third-party advertising companies to serve ads when you visit 123peppy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you</p>
-<p>Cookies<br>
-Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers.</p>
-<p>Third Party Cookies<br>
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
-<p>PARENTAL RIGHTS<br>
-As a parent you have the right to request all personal information stored about your child on our servers. At your request we will provide this information to you within 7 working days. </p>
-<p>CHANGES TO THIS PRIVACY POLICY<br>
-We reserve the right to change the terms in this policy at any time without notice. It is your responsibility to ensure you are upto date with contents of this privacy policy.</p>
+    <p><b>Registration</b></p>
+<p>In order to register for an account on 123peppy you must supply us with your email address. </p>
+<p><b>How your personal Information is used </b></p>
+<p>We use your email address to send you your password. This is also applicable should you use the lost password or lost username feature on the site. We may also from time to time send you emails about offers or updates with 123peppy. You can choose to opt out of this at any time from your My 123peppy Settings area. We do not pass any personal information (including email addresses) to 3rd parties.  </p>
+<p><b>IP address and logging</b></p>
+<p>Your IP address is used to gather broad demographic information and to track your general visiting patterns (how many pages you view while at one website, downloads, etc).</p>
+<p><b>Third Party Advertising</b></p>
+<p>We may use Google Adsense and/or other third-party advertising companies to serve ads when you visit 123peppy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you</p>
+<p><b>Cookies</b></p>
+<p>Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers.</p>
+<p><b>Third Party Cookies</b></p>
+<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
+<p><b>Parental Rights</b></p>
+<p>As a parent you have the right to request all personal information stored about your child on our servers. At your request we will provide this information to you within 7 working days. </p>
+<p><b>Changes to this Privacy Policy </b></p>
+<p>We reserve the right to change the terms in this policy at any time without notice. It is your responsibility to ensure you are upto date with contents of this privacy policy. </p>
   </div>
 
 <!--  <div class="clear-block clear">
@@ -241,139 +760,89 @@ We reserve the right to change the terms in this policy at any time without noti
       
 <!--	</div> -->
 
-<!--</div>-->			</div>	
-				</div>
-	
-</div>
-<!-- Random Games-->
-<div class="right_main">
-	<div class="right_main_head"><a href="/dressup-games/top-played-games">Random Games</a></div>
-	<div class="right_main_inner" style="height:auto;">
-
-<div class="game-image-border"><a href="/play/conference-hall-decor"><img src="http://www.123images.123peppy.com/conference-hall-decor.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/united-kingdom-wedding-couple"><img src="http://www.123images.123peppy.com/united-kingdom-wedding-couple.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/japan-wedding-couple"><img src="http://www.123images.123peppy.com/japan-wedding-couple.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/alizee-poulicek-miss-belgium-2008"><img src="http://www.123images.123peppy.com/alizee-poulicek-miss-belgium-2008.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/mira-sorvino-dress-game"><img src="http://www.123images.123peppy.com/mira-sorvino-dress-up-game.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/enchanted-online-coloring-game"><img src="http://www.123images.123peppy.com/enchanted-online-coloring-game.jpg" width="100" height="150/"></a></div>
-<div class="game-image-border"><a href="/play/chanel-dress-up-game"><img src="http://www.123images.123peppy.com/chanel-dress-up-game.jpg" width="100" height="150/"></a></div>
-
-	</div>
-</div>
-
-<style>
-.affbanner img{
-margin:3px 0px 0px 2px;
-}
-</style>
-
-
-<div class="right_main">
-	<div class="right_main_head">Affiliates</div>
-	<div class="right_main_inner" style="height:auto;">
-		<div style="float:left;">
- 			<div style="float:left; width:305px">
-				  <div style="float:left" class="aff-100">
-				<!-- BEGIN FunKlicks.com CODE -->
-					<iframe src="http://www.funklicks.com/work.php?n=6633&amp;size=24" width="100" height="100" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>			 
-					<!-- END FunKlicks.com CODE -->  
+<!--</div>-->								   
+							    </div>
+                                								
+								 								  
+							 </div>
+                            						 </div>
+											 </div>
 				  </div>
-				  
-				  <div style="float:left; margin-left:2px" class="aff-100">
-					<script type="text/javascript">
-					  <!--
-						var gamecetera_params = new Array();
-						gamecetera_params['client'] = 'e6e1ea08daf1a5b15136cb77f043c7e6';
-						gamecetera_params['width'] = 100;
-						gamecetera_params['height'] = 100;
-						gamecetera_params['bgcolor'] = '#FFFFFF';
-					  //-->
-					  </script><script type="text/javascript" src="http://www.gamecetera.com/app/www/js/code/getCode.js">
-					  </script>
-				  </div> 
-				  
-				  <div style="float:left; margin-left:2px" class="aff-100">
-					<!-- BEGIN FunKlicks.com CODE -->
-<iframe src="http://www.funklicks.com/work.php?n=6633&amp;size=27&amp;w=100&amp;h=100" width="100" height="100" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
-<!-- END FunKlicks.com CODE -->				  
-				  </div>             
-
-			
-			</div>
-  
-  
-		   <div style="float:left; width:98px; display:block; margin-top:2px" align="center">
-            	<div class="affbanner"><a href="http://www.dressupgames.com" target="_blank"><img src="http://www.123peppy.com/123pic/dug5.gif" border="0"></a>
-				</div>
-				<div class="affbanner"><a href="http://www.oyunlar1.com/cookinggames.asp" target="_blank">
-				<img src="http://www.123peppy.com/123pic/oyunlar1.jpg" border="0" alt="Cooking Games"></a></div>
-          
-            </div>
-            
-			<div style="float:left; width:98px; display:block; margin-top:2px" align="center">
-				<div class="affbanner"><a href="http://www.barbiedressup.net/category/Cooking-Games/1.html" target="_blank">
-					<img src="http://www.123peppy.com/123pic/barbiedressup1.gif" width="88" height="31" border="0"></a></div>
-				<div class="affbanner"><a href="http://www.dressupgirl.net/category/Cooking-Games/1.html" target="_blank">
-					<img src="http://www.123peppy.com/123pic/dressup.gif" width="88" height="31" border="0"></a>	</div>	
-			</div> 
-            
-            <div style="float:left; width:98px; display:block; margin-top:2px" align="center">
-            	<div class="affbanner"><a href="http://www.i-dressup.com/" target="_blank">
-					<img src="http://www.123peppy.com/123pic/i-dressup.gif" width="88" height="31" border="0"></a></div>
-				<div class="affbanner"><a href="http://www.fishfreegames.com" target="_blank">
-				<img src="http://www.fishfreegames.com/images/logo88X31.gif" border="0" alt="Free Online Games"></a></div>
+				  			      <div class="full-panel-footer"></div>
+			   </div>
+				 
+				 
+						 
             </div>
 			
-			<div style="float:left; width:92px; display:block;" align="center">
-				<div class="affbanner"><a href="http://www.dressupwho.com" target="_blank">
-				<img src="http://www.dressupwho.com/banners/88x31b.gif " width="88" height="31" border="0"></a></div>
-				<div class="affbanner"><a href="http://www.onlydressupgames.com" target="_blank">
-				<img src="http://www.123peppy.com/123pic/odug.jpg" width="88" height="31" border="0"></a></div>
-			</div> 
-			<div style="float:left; width:92px; display:block;" align="center">
-				<div class="affbanner"><a href="http://www.wambie.com" title="Booty Arcade" target="_blank"><img src="http://www.123peppy.com/123pic/wambie.jpg" border="0"></a>
-				</div>
-				<div class="affbanner"><a href="http://www.girlgamezone.com" target="_blank"><img src="http://www.123peppy.com/123pic/girlgamezone.jpg"></a>
-				</div>
-			</div>
+			
+			
+			
+			
+		
+             <div class="right-foot"></div>
+          </div>
+		   <!--right-panel ends here-->
+		   </div>	  	  
+		  
+		  
+     </div>
+	 			
 	</div>
-</div>
-</div>
-<!-- right END --></div>
-<!-- main content END --></div>
-<!-- footer-->
-<div id="footer_contianer">
-<div id="footer_top" align="center"><span id="footer_line"><a href="/free-games-for-your-site" class="footer_link">Free Games For Your Site</a> | <a href="/terms-of-service" class="footer_link">Terms of Service</a> | <a href="/privacy-policy" class="footer_link">Privacy Policy</a> | <a href="/aboutus" class="footer_link">About us</a> | <a href="/contact" class="footer_link">Contact Us</a> | <a href="/link-to-us" class="footer_link">Link To Us</a></span></div>
-<div id="footer_main" align="center" class="copyright" style="padding-top:11px;"><span>Copyright 2008 123peppy.com, All Rights Reserved</span> </div>
-</div>
-<!-- footer end-->
-</div><!-- main contianer End-->
-<!-- /layout -->
-   
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-185393-12");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-sc_project=3739061; 
-sc_invisible=1; 
-sc_partition=45; 
-sc_security="350a4a09"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c46.statcounter.com/3739061/0/350a4a09/1/" alt="counter hit make" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-
+				
+		<!--right-panel ends here-->
+		  
+		  
+	
+<!--main-container ends here-->
+<div id="footer-container">
+		   <div id="footer-top" class="floatfix">
+		     <div class="footclass">
+					 <div class="affiliates">
+					  <a target="_blank" href="http://www.games2girls.com/dressupgames.htm">
+                      <img src="/themes/123peppy/screenshots/games2girls.jpg" alt=""></a></div>
+					 
+			     
+				     <div class="affiliates">
+					 <a target="_blank" href="http://www.dressupgames.com/">
+                     <img src="/themes/123peppy/screenshots/3.png" alt=""></a></div>
+					  <div class="affiliates">
+					 <a target="_blank" href="http://www.dressupwho.com"><img src="/themes/123peppy/screenshots/88x31b.gif" alt=""></a></div>
+					 
+					 
+					
+					 <div class="affiliates">
+					 <a target="_blank" href="http://www.oyunlar1.com/cookinggames.asp"><img src="/themes/123peppy/screenshots/oyunlar1.jpg" alt=""></a></div>
+					 <div class="affiliates">
+					<div class="affiliates">
+					 <a target="_blank" href="http://www.kibagames.com/"><img src="/themes/123peppy/screenshots/affliate5.gif" alt=""></a></div>
+					
+					  <div class="affiliates">
+					   <a target="_blank" href="http://www.i-dressup.com/"><img src="/themes/123peppy/screenshots/i-dressup.gif" alt=""></a></div>
+					   <div class="affiliates">
+					 <a target="_blank" href="http://www.123bee.com/"><img src="/themes/123peppy/screenshots/bee.png" alt=""></a></div>
+					    <div class="affiliates">
+		<a target="_blank" href="http://imagine.us.ubi.com/"><img src="/themes/123peppy/screenshots/imagine.jpg" alt=""></a></div>
+					 
+				 </div>
+			  </div>
+					<div id="pink-line"></div>
+													<div class="footer-link"><a href="/free-games-for-your-site">Free Games For Your Site</a> | <a href="/terms-of-service">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/aboutus">About us</a> | <a href="/contact">Contact Us</a> | <a href="/link-to-us">Link To Us</a>
+							<span>© Copyright 2008 123peppy.com. All rights reserved.</span> 
+						</div>
+							
+				</div>
  
-  
+			</div>
+<script type="text/javascript">
+							var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+							document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+							</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+							<script type="text/javascript">
+							try {
+							var pageTracker = _gat._getTracker("UA-185393-12");
+							pageTracker._trackPageview();
+							} catch(err) {}</script>
+
 
 </body></html>
