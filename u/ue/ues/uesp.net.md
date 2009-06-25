@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044608id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041106id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - UESPWiki
 
 ### The UESPWiki – Your source for The Elder Scrolls since 1995
 
 ## Contents
-
-[hide]
 
   * 1 Summary
     * 1.1 Consent
@@ -51,7 +49,7 @@ The act of editing any portion of the website, regardless of size, is considered
 
 ### Identity
 
-Upon submission of an edit, your username and IP address will be recorded along with the information you have submitted. If you have registered on the site and logged in, only your username will be publicly displayed; places where your username appear include the "history" tab of the article you have edited, your "contributions" list, and the "[Recent Changes](https://web.archive.org/wiki/Special:Recentchanges "Special:Recentchanges")" directory. If you have not registered on the site, your IP address will be displayed in place of a username in all of these locations. If you wish to prevent your IP address from being displayed, you should create an account and edit under that account.
+Upon submission of an edit, your username and IP address will be recorded along with the information you have submitted. If you have registered on the site and logged in, only your username will be publicly displayed; places where your username appear include the "history" tab of the article you have edited, your "contributions" list, and the "[Recent Changes](https://web.archive.org/wiki/Special:RecentChanges "Special:RecentChanges")" directory. If you have not registered on the site, your IP address will be displayed in place of a username in all of these locations. If you wish to prevent your IP address from being displayed, you should create an account and edit under that account.
 
 For registered editors, the IP addresses of all edits are also recorded in the Recent changes log. This information is stored for a period of one week. Access to the IP addresses in the Recent changes log is restricted to administrators only. These IP addresses are not normally made public, although administrators may post the information on the user talk page in cases where the user has [vandalized](https://web.archive.org/wiki/UESPWiki:Vandalism "UESPWiki:Vandalism") the site and is suspected of being a repeat offender.
 
