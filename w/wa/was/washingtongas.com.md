@@ -1,77 +1,41 @@
-> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212082733id_/http%3A//washingtongas.com/Library/General/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626200511id_/http%3A//washingtongas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Washington Gas - Privacy Policy
 
-| 
+## Privacy Policy
 
-**Privacy Policy**
+## Privacy Practices at Washington Gas
 
-**Privacy Practices at Washington Gas**
+At Washington Gas we respect your concerns about privacy. This document sets forth our Privacy Policy ("Policy") regarding information received from you and about you during your visits to our Washingtongas.com web site. The Policy is intended to protect your privacy and to ensure that your personal information is handled in a safe and responsible manner. The amount and type of information we request and how it is used will depend upon how you use this web site. 
 
-At Washington Gas we respect your concerns about privacy. This document sets forth our Privacy Policy ("Policy") regarding information received from you and about you during your visits to our web site Washgas.com. The Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. The amount and type of information received, and how it is used, will depend upon how you use this web site.
+## Normal Web Site Usage
 
-Top of Page
+You can visit the Washingtongas.com web site to read product, company, employment, and investment information without identifying yourself and without revealing any personal information.   
+The only information we collect and store during this type of web site usage is the name of your Internet provider, the web site that referred you to us, the pages you requested and the date and time of the request. We use this information to generate statistics and measure site activity to make the site more useful to the customers that visit. We do not collect or store personally identifiable information such as name, mailing address, email address, phone number, or social security number. 
 
-**Normal Web Site Usage**
+## Cookies and Monitoring of Web Traffic
 
-You can visit the Washgas.com web site to read product, company, employment, and investment information without identifying yourself and without revealing any personal information. The only information we collect and store during normal web site usage is the name of your internet provider, the web site that referred you to us, the pages you request and the date and times of those requests. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, e-mail address, phone number, or social security number.
+Cookies are bits of electronic information a web site can transfer to your computer's hard drive. Cookies allow a web site to recognize a visitor as a repeat visitor and to retrieve information the visitor previously submitted so it does not have to be resubmitted. Washington Gas does use cookies. The cookies used do not collect personal information; rather the cookies generate a random number and place it on your machine. The next time you visit the Washington Gas web site, you will be recognized through this number, but no other information will be collected.   
+If you would like, you can disable your cookies on your Internet browser and continue to use the Washington Gas web site. You not using cookies will not hinder the use of our web site. 
 
-Top of Page
+## Changes to the Policy
 
-**Cookies and Monitoring of Web Traffic**
+We reserve the right to update or revise this Policy at our discretion. Please check the Policy periodically for changes. Your continued use of this web site following the posting of any changes to the Policy constitutes your acceptance of these changes. 
 
-Cookies are bits of electronic information that a web site can transfer to your computer's hard drive. The use of a cookie allows a web site to recognize a visitor as a repeat visitor and to retrieve information that visitor previously submitted so that the information does not have to be resubmitted. At this time, Washington Gas does not use cookies to identify and track its visitors.
+## Third Party Sites
 
-Top of Page
+Please be aware that you may link to other web sites through the Washington Gas web site, and these web sites may collect information about you. The information practices of those third party sites are not covered by this Policy. 
 
-**Changes to the Policy**
+## Your Responsibility
 
-We reserve the right at our discretion, to update or revise this Policy. Please check the Policy periodically for changes. Your continued use of this web site following the posting of any changes to the Policy constitutes your acceptance of these changes.
+You are responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you are online. Do not share your passwords or account information with others. 
 
-Top of Page
+## Types of Information We Request
 
-**Third Party Sites**
+Although we do not collect personal information through the use of cookies, we will request personal information in two areas of the website to allow us to better serve you. If you choose to register at the Washington Gas eService Center, we will request your name and email address. If you elect to pay your gas bill electronically using your personal checking account, we will ask for your routing transit number and account number. 
 
-This Policy only pertains to the information Washington Gas may obtain from you. Please be aware that you may link to other web sites through the Washington Gas web site, and these web sites may collect information about you. The information practices of those third party sites are not covered by this Policy.
+Please note that Washington Gas will NOT retain your banking account information, unless you choose to have Washington Gas retain this information. If you elect to have Washington Gas save your banking information, you will not have to provide this information each time you pay your bill electronically. If you opt to NOT have your banking account information stored, you'll have to provide your banking information each time that you pay your bill online. 
 
-Top of Page
+## Your Personal Information
 
-**Your Responsibility**
-
-You are responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you are online. Do not share your passwords or account information with others.
-
-Top of Page
-
-**Types of Information We Request**
-
-In a few areas of our web site, we ask you to provide information that will enable us to assist you. For example when you place an order through Wgmarketplace.com we ask for you name, address, telephone number, credit card information and your e-mail address. We use this information to fulfill your order and to communicate with you about your order. We may use this information to tell you about new products and services. If you prefer not to receive this type of communication please e-mail your request for removal to [products@washgas.com](mailto:products@washgas.com).
-
-Top of Page
-
-**Wgmarketplace**
-
-The Washington Gas online store, Wgmarketplace.com, is designed to give you options concerning the privacy of your credit card information, name, address, e-mail address, and any other information you provide to us. Washington Gas is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called Secure Sockets Layer ("SSL") encryption (please see our security policy for details on these security measures).
-
-If at anytime you would like to make a purchase, but do not want to provide your credit card information online, you may contact one of our customer service representatives by simply calling us at 1-(888) 941-HEAT.
-
-We believe that your experience with our products and services should be positive. If you have any questions about privacy, security, or any other issue related to the site please feel free to call us at 888.941.HEAT or e-mail us at products@washgas.com. (Do not send personal information, such as a credit card number via e-mail.)
-
-Top of Page
-
-**Your Personal Information**
-
-We don't share your personal information provided to us through our web site (credit card number, name, address, phone, etc) with other parties. We only use such information to deliver products and/or services, provide any important information about the products, bill you for those products and/or services, and to enhance our relationship with you. On occasion, we may provide you with information about new offerings that might interest you. If you would rather not receive this information then please check the "opt-out of further information" during the order process. If at any time, you wish to see the information we have collected on you please send and e-mail to [products@washgas.com](mailto:products@washgas.com).
-
-Wgmarketplace.com does release aggregate information regarding purchases to Yahoo!Store. In other words, we may tell them that 60 people bought a particular product, but we will not identify specifically who made the purchase.
-
-Wgmarketplace.com will never sell nor distribute your personal data to other companies.
-
-Top of Page
-
-**Monitoring of Marketplace Traffic**
-
-When you visit Wgmarketplace.com, we do not use technology that identifies you or tracks you personally. Nor do we require you to register with us. We do monitor traffic at our web site to improve our site and better meet customer needs. Monitoring of traffic can include name of your Internet Service Provider, web site that you referred you, date and time of your visit, and the pages that you request. We use this data to improve the usefulness of the site.
-
-Top of Page
-
-| 
+We do not share personal information provided to us through our web site (credit card number, name, address, phone, etc) with other parties. We only use such information to deliver products and/or services, to provide important information to you about the products, and/or to bill you for products and/or services. 
