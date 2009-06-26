@@ -1,35 +1,77 @@
-> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421182752id_/http%3A//www.actfind.com/i3/Privacy-Notice/information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626062548id_/http%3A//www.actfind.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Help and Information From China
+# Privacy Policy
 
-**Privacy Notice**
+**1.** [**About Your Privacy**](http://www.actfind.com/pages/Privacy-Policy.html)
 
-**Collection of information**
+**2.**[ **The Security of Your Information**](http://www.actfind.com/pages/Privacy-Policy.html)  
+ **3.** [**Privacy and Data Security**](http://www.actfind.com/pages/Privacy-Policy.html)
 
-When you visit ActFind.com, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, we do require registration for the newsletter. If you decide to register for the newsletter, or if you request information from us, you will be asked to provide certain information and details, including your name, country and e-mail address. 
+**4.** [**ActFind.com only Asks for Specific Types of Personal Information**](http://www.actfind.com/pages/Privacy-Policy.html)  
 
-**ActFind.com respects your privacy**
 
-We will not sell, trade or rent personally identifiable information about our users to other parties, without our users' consent. 
+**5.** [**ActFind.com only Uses Your Personal Information for Specific Purposes**](http://www.actfind.com/pages/Privacy-Policy.html)  
 
-We do, however, share certain aggregate information about our users to our suppliers, for example, what percentage of site visitors are from North America. This enables us to better serve you by offering the right product at the right time to the right place. 
 
-We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing the law (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority. 
+**6.** [**ActFind.com Will Not Disclose Your Personal Information to Any Outside    Organization for Its Use in Marketing without Your Consent**](http://www.actfind.com/pages/Privacy-Policy.html)  
 
-**Use of information**
 
-We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. 
+**7.** [**Contact ActFind.com**](http://www.actfind.com/pages/Privacy-Policy.html)
 
-We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from ActFind.com. Your feedback helps us develop new products and services based on your needs. 
+ **1\. About Your Privacy**
 
-You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating "My Account" page. 
+Battery-Pro is firmly committed to preserving your privacy rights? We respect and believe in the confidentiality of our customers and would never sell or give customer information to third party companies? Your privacy is important to us.
 
-**Can I Correct or Remove Information on ActFind.com?**
+[Back To Top] **
 
-You always have the option to view your account to make sure the information we have collected from you is indeed correct. You also have the option of removing any information from your account that you wish to keep private. However, please note that removing certain information such as your email address, contact information, and the like may greatly hinder our ability to effectively provide the service or products you have requested. We recommend, that you contact us first to discuss which information you may remove without interrupting the quality of service we intend to provide for you.  Your account will always require a minimum amount of detail to stay open.  Mandatory fields are clearly identified.
+2\. The Security of Your Information:
 
- **Changes of Privacy Policy**
+**
 
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes on our web site and take reasonable steps to contact you personally to let you know of the new changes. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You may choose to continue trading under your account or close your account.
+To prevent unauthorized access to stored information, all data that is sent during checkout is encrypted at 128 bits, the industries highest level of security. All credit card information is automatically deleted after 30 days in order to maintain our promise to respect the privacy of our customers. All our priority is to provide a safe and secure online shopping experience for all of our customers.
 
- **If any information you need is not available here, please  [ _Contact Us Now_](http://www.actfind.com/contact_us.php?osCsid=3c0a8817d6625563d4987072861a7cef "ActFind.com Contact us info")!**
+[Back To Top] **
+
+3\. Privacy and Data Security:
+
+**
+
+At ActFind.com, your right to privacy and data security is a primary concern. That's why, when you visit ActFind.com, we help you maintain control over your personal data on the Internet. The guidelines we use for protecting the information you provide us during a visit to our Internet site
+
+[Back To Top] **
+
+4\. ActFind.com only Asks for Specific Types of Personal Information:
+
+**
+
+In two areas on our Web site, we ask you to provide information that will enable us to enhance your site visit, to assist you with purchase and technical support issues or to follow up with you after your visit. It is completely optional for you to participate. 
+
+Information we may request includes your name, e-mail address, phone number, address, company name, customer preference information, customer number and order number, as well as other similar personal information. If we ever ask for significantly different information we will inform you.
+
+[Back To Top] **
+
+5\. ActFind.com only Uses Your Personal Information for Specific Purposes
+
+**
+
+The information you provide will be kept confidential and used to support your customer relationship with ActFind.com. Among other things, we want to help you quickly find information on ActFind.com and alert you to product upgrades, special offers, updated information and other new products and services from ActFind.com. In addition, ActFind.com may be required to disclose personal information in connection with law enforcement, fraud prevention, regulation, and other legal action or if ActFind.com reasonably believes it is necessary to do so to protect ActFind, its customers, or the public.
+
+[Back To Top] **
+
+6\. ActFind.com Will Not Disclose Your Personal Information to Any Outside Organization for Its Use in Marketing without Your Consent
+
+**
+
+Information regarding you (such as name, address and phone number) or your order and the products you purchase will not be given or sold to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of ActFind.com for the purpose of performing services from ActFind.com
+
+[Back To Top] **
+
+7\. Contact ActFind.com
+
+**
+
+If you would like to contact us for any reason regarding our privacy practices, please use the following methods to contact: ActFind.com
+
+Email: sales@actfind.com
+
+[Back To Top]
