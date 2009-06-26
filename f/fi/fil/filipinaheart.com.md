@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100809id_/http%3A//www.filipinaheart.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626190841id_/http%3A//www.filipinaheart.com/Privacy.cfm) for the most accurate reproduction.*
 
 # FilipinaHeart.com | Privacy Policy
 
