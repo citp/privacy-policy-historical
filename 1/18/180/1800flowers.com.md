@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716014216id_/http%3A//www.1800flowers.com/about-us---privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800flowers.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627000910id_/http%3A//www.1800flowers.com/about-us---privacy-policy) for the most accurate reproduction.*
 
 # 
 
