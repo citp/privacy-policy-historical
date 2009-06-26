@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223065949id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626075630id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Teaching Strategies, Inc. - Security and Privacy Policies
-
-| 
 
 Inside this page: Security Policy | Privacy Policy
 
@@ -36,7 +34,7 @@ Examples of the information we collect include the Internet protocol (IP) addres
 
 
 
-  * **E-Mail Communications** : If you place an order with us, we will use your e-mail address to communicate with you regarding your order and to send you, from time to time, e-mails about Teaching Strategies' products, services, and events. We will not send you our e-mail newsletter or postings from our e-mail disucssion list **unless** you subscribe to these services. When you subscribe to these lists, you are giving us permission to communicate with you. If you sign up for the e-mail discussion list, you are also providing permission for others in the discussion group to send you e-mails. 
+  * **E-Mail Communications** : If you place an order with us, we will use your e-mail address to communicate with you regarding your order and to send you, from time to time, e-mails about Teaching Strategies' products, services, and events. We will not send you our e-mail newsletter or postings from our e-mail discussion list **unless** you subscribe to these services. When you subscribe to these lists, you are giving us permission to communicate with you. If you sign up for the e-mail discussion list, you are also providing permission for others in the discussion group to send you e-mails. 
 
 
 
@@ -83,7 +81,3 @@ If you have any concerns about privacy on the Teaching Strategies Web site, pl
 
 
 back to top
-
-  
-  
----|---
