@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517233715id_/http%3A//www.e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627002243id_/http%3A//e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# E-CIG.com -
+# Electronic Cigarette Official Site -
 
 **Privacy:**
 
