@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefabricofourlives.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217115331id_/http%3A//www.thefabricofourlives.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefabricofourlives.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626044152id_/http%3A//www.thefabricofourlives.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,4 @@ In general, we will use information in accordance with the privacy policy under 
 Cotton Incorporated welcomes your questions and comments about our privacy policy. Please send email to [webmaster@cottoninc.com](mailto:webmaster@cottoninc.com) 
 
 **Last updated: August 27, 2007**  
-Disclaimer: This policy is not a substitute for legal advice. If you have legal questions related to this policy, consult an attorney.
+Disclaimer: This policy is not a substitute for legal advice. If you have legal questions related to this policy, consult an attorney. 
