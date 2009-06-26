@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220091620id_/http%3A//pbtech.co.nz/index.php%3Fpage%3Dprivacy%26PHPSESSID%3Dec5938a767392115e7ba203c75f2b47a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626094025id_/http%3A//www.pbtech.co.nz/index.php%3Fpage%3Dprivacy%26PHPSESSID%3D6213b32a50114c2b1817c136adca4bed) for the most accurate reproduction.*
 
 # PB Technologies Auckland - Computers - Laptops - Hardware Components - Software
 
