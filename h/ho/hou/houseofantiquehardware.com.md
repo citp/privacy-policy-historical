@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220180932id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626060203id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,6 @@ House of Antique Hardware, Inc. gathers two types of information about users:
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
   * Information House of Antique Hardware, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. 
-  * House of Antique Hardware, Inc. may use a third-party service to collect information regarding consumer preferences on our site, such as page views and purchases. The third-party service may use cookies and transparent GIF files to collect information on how you use our web site. You may view the third-party service provider's privacy policy at [www.mybuys.com/privacy.html](http://www.mybuys.com/privacy.html). 
 
 
 
