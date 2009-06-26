@@ -1,27 +1,33 @@
-<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216071324id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626104854id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 					<title>London - Adzooks.co.uk 
 		
  - Privacy Policy
 					</title>
-			<link rel="STYLESHEET" type="text/css" href="http://london.adzooks.co.uk/format_public.css">
-			<link rel="SHORTCUT ICON" href="http://london.adzooks.co.uk/favicon.ico">
+		<link rel="STYLESHEET" type="text/css" href="http://london.adzooks.co.uk/format_public.css">
+		<link rel="SHORTCUT ICON" href="http://london.adzooks.co.uk/favicon.ico">
+		
 			
-				<link rel="search" type="application/opensearchdescription+xml" title="London Adzooks.co.uk - accommodation" href="http://london.adzooks.co.uk/search_plugin.xml">
-			
-			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-			<meta name="robots" content="all">
-			<script type="text/javascript" src="http://london.adzooks.co.uk/whatbrowser.js"></script>
+			<link rel="search" type="application/opensearchdescription+xml" title="London Adzooks.co.uk - accommodation" href="http://london.adzooks.co.uk/search_plugin.xml">
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="robots" content="all">
+		<script type="text/javascript" src="http://london.adzooks.co.uk/whatbrowser.js"></script>
+        
+    		<!-- image resizing, to cover abnormally small browsing windows -->
+	    	<script type="text/javascript" src="http://london.adzooks.co.uk/imageResizer.js"></script>
+        
 	
 		
 	
 	<script type="text/javascript">
 	//<![CDATA[
 	
-	
+	var g_afsAds = Array();
 	var google_adnum = 0;
+	var g_ads = 0;
 	
 	function google_ad_request_done(google_ads)
 	{   
@@ -71,7 +77,7 @@
 								
 		        var baseClass = 'AdSenseAd_' + g_ads.position;
 
-				var adText = '<span class="AdSenseTitle">' + google_ads[i].line1 + '</span><br class="AdSenseTitle"/>';
+				var adText = '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseTitle" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; this.className = \'AdSenseTitle AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \' AdSenseTitle \'" onclick="document.location.href=\'' + google_ads[i].url + '\'">' + google_ads[i].line1 + '</span></a><br class="AdSenseTitle"/>';
 				if (google_ads[i].line2)
 				{	adText += '<span class="AdSenseAdText">'  + google_ads[i].line2;
 					if (google_ads[i].line3)
@@ -80,17 +86,14 @@
 					adText += '</span>';
 				}
 				
-				allAds += '<div class="' + baseClass + '" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; this.className = \'' + baseClass + ' AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \'' + baseClass + '\'" onclick="document.location.href=\'' + google_ads[i].url + '\'"><a style="cursor:pointer;cursor:hand;text-decoration:none">' + "\r\n";				
+				allAds += '<div class="' + baseClass + '">' + "\r\n";				
 				allAds += adText + "\r\n";
 					
 				if (g_ads.position == 'skyscraper')
 				{	allAds += '<br/>';
 				}
 					
-				allAds += '<span class="AdSenseURL">' + 
-					google_ads[i].visible_url + 
-					'</span>' + "\r\n" +
-					'</a></div>' + "\r\n";
+				allAds += '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseURL" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" onmouseout="window.status=\'\'" onclick="document.location.href=\'' + google_ads[i].url + '\'">' + google_ads[i].visible_url + '</span></a>' + "\r\n" + '</div>' + "\r\n";
 
 				
 				if (numAds > 1 &&  g_ads.position == 'skyscraper' &&  i % 7 == 0)
@@ -128,13 +131,123 @@
 		
 		document.getElementById(g_ads.containerId).style.display = 'block';	    
 	}
-	google_afs_request_done = google_ad_request_done; 
+	
+	var googleAds = 0;
+	
+	 
+	var wideAdsIdx = 0;
+	var narrowAdsIdx = 0;
+	
+	/**
+	 * Show ads in a unit from an array of ads for the entire page.
+	 * Using golbal pointers wideAdsIdx and narrowAdsIdx to make sure same ads are not displayed multiple times
+	 **/
+	function showAFSAds(googleAds, gAdOpts) {
+		var feedbackURL = 'http://services.google.com/feedback/online_hws_feedback';
+		var adsByGoog = '<div class="AdsByGoogle">'; 
+		
+		if (gAdOpts.leadIn) {	
+			adsByGoog += '<b class="AdSenseLeadIn">' + gAdOpts.leadIn + '</b>';
+		}
+		adsByGoog += '<a class="AbGLnk" href="' + feedbackURL + '">Ads by Google</a>' + '</div>' + "\r\n";
+
+		//we dont want to repeat ads so start from where we left off
+		var idx = gAdOpts.g_afsVars.google_afs_type == 'w' ? wideAdsIdx : narrowAdsIdx;
+
+		var numAds = 0;
+		var allAds = '';
+		for (var a = idx; a < googleAds.length; a++) { 
+			
+			if ((gAdOpts.g_afsVars.google_afs_type == 'w' && googleAds[a].type=="text/wide") ||
+					(gAdOpts.g_afsVars.google_afs_type == 'n' && googleAds[a].type=="text/narrow")) {
+				var baseClass = 'AdSenseAd_' + gAdOpts.position;
+	
+				var adText = '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseTitle" onmouseover="window.status=\'go to ' + googleAds[a].visible_url + '\'; this.className = \'AdSenseTitle AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \' AdSenseTitle \'" onclick="document.location.href=\'' + googleAds[a].url + '\'">' + googleAds[a].line1 + '</span></a><br class="AdSenseTitle"/>';
+				if (googleAds[a].line2) {	
+					adText += '<span class="AdSenseAdText">'  + googleAds[a].line2;
+					if (googleAds[a].line3) {	
+						adText += '&nbsp;' + googleAds[a].line3;
+					}
+					adText += '</span>';
+				}
+				
+				allAds += '<div class="' + baseClass + '">' + "\r\n";				
+				allAds += adText + "\r\n";
+					
+				if (googleAds.position == 'skyscraper') {	
+					allAds += '<br/>';
+				}
+					
+				allAds += '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseURL" onmouseover="window.status=\'go to ' + googleAds[a].visible_url + '\'" onmouseout="window.status=\'\'" onclick="document.location.href=\'' + googleAds[a].url + '\'">' + googleAds[a].visible_url + '</span></a>' + "\r\n" + '</div>' + "\r\n";
+	
+				
+				if (numAds > 1 &&  gAdOpts.position == 'skyscraper' &&  a % 7 == 0) { 	
+					allAds += adsByGoog;
+				}	
+				numAds++;
+			   
+				if (numAds >= gAdOpts.adCount) { //have we displayed the required number of ads
+					a++;	
+					break;
+				}
+			}
+		}
+		
+		if (numAds==0) {	
+			return;
+		}
+		
+		
+		if (gAdOpts.g_afsVars.google_afs_type == 'w') { 
+			wideAdsIdx = a;
+		} else {
+			narrowAdsIdx = a;
+		}
+		
+		
+		var s = adsByGoog +
+			'<div class="AdSenseContainer">' + "\r\n" + 
+			allAds;			
+   
+   		
+		
+    	if (g_ads.hasAdvertiseLink) 
+		{	s += '<div class="AdSenseAdvertiseHere">' +
+				'<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=pub-3912838286800298&referringUrl=http://london.adzooks.co.uk/">Advertise on this site</a>' +
+				'</div>' + "\r\n";
+		}	    	
+		
+  	
+  		s += '</div>' + "\r\n";	    					    	
+		   
+		
+		document.getElementById(gAdOpts.containerId).innerHTML = s;  	
+		
+		
+		document.getElementById(gAdOpts.containerId).style.display = 'block';	
+	}
+	
+	/**
+	 * Called by google with ads queried
+	 **/
+	function google_afs_request_done(google_ads) {
+		
+		//googleAds = google_ads; //global ref for debugging
+		for (u = 0; u<g_afsAds.length; u++) { //loop through all ad units on the page
+			showAFSAds(google_ads, g_afsAds[u]); 
+		}
+	}
 	//]]>
 	</script>
 
 		</head>
-		<body>
+		<body>	
 	
+		
+		 
+		
+ 		
+		
 		<div id="header">
 	
 			<div id="bannerad">
@@ -164,19 +277,29 @@
 			<select name="catid">
 			<option value="-1">Select one</option>
 		
-				<option value="84">Accommodation</option>
+				<option value="1188">Animals</option>
 			
-				<option value="79">Community</option>
+				<option value="1190">Business Services</option>
 			
-				<option value="156">Encounters</option>
+				<option value="1194">Buying &amp; Selling</option>
 			
-				<option value="177">Events</option>
+				<option value="1196">Caravans &amp; Accessories</option>
 			
-				<option value="103">For sale</option>
+				<option value="1187">Entertainments</option>
 			
-				<option value="129">Jobs</option>
+				<option value="1189">For The Home</option>
 			
-				<option value="118">Services</option>
+				<option value="1184">Gardening</option>
+			
+				<option value="1191">Health &amp; Lifestyle</option>
+			
+				<option value="1193">Holidays</option>
+			
+				<option value="1192">Home Services</option>
+			
+				<option value="1185">Motors</option>
+			
+				<option value="1186">Property</option>
 			
 			</select>
 			<input type="submit" value="Go">
@@ -471,7 +594,7 @@ receive. </li>
 
 </div>
 
-	<script type="text/javascript" src="http://www.icnetwork.co.uk/webstats.js?rsid=tmr-adzook&amp;siteName=london-adzooks&amp;publishingGroup=ADZOOKS&amp;jsrc=1&amp;statsSiteName=Adzooks&amp;Region=CENTRAL"></script>
+	<script type="text/javascript" src="http://www.icnetwork.co.uk/webstats.js?rsid=tmr-adzook&amp;siteName=london-adzooks&amp;publishingGroup=ADZOOKS&amp;jsrc=1&amp;statsSiteName=Adzooks&amp;Region=CENTRAL&amp;contentCategory=Classifieds%20non%20jobs%20homes%20cars"></script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -479,6 +602,42 @@ receive. </li>
 _uacct = "UA-167085-2";
 urchinTracker();
 </script>
+
+	<script type="text/javascript">
+	//<![CDATA[
+		
+		if (typeof(g_afsAds) != 'undefined' && g_afsAds.length) {
+			var w = 0; //wide ad count
+			var n = 0; //narrow add count
+			
+			//work out how many wide and narrow ads we want on the entire page
+			for (var u=0; u < g_afsAds.length; u++) {
+				if (g_afsAds[u].g_afsVars.google_afs_type == 'w') {
+					w += g_afsAds[u].adCount;
+				} else {
+					n += g_afsAds[u].adCount;
+				}
+			}
+			
+			//if we have ads to display, wide or narrow
+			if (w || n) { //we have some ads
+				
+				for (var afsKey in g_afsAds[0].g_afsVars) {
+					window[afsKey] = g_afsAds[0].g_afsVars[afsKey];
+				}
+				
+				//set the number of ads global var
+				var google_afs_ad = (w ? 'w' + w : '') + (n ? 'n' + n : '');
+				
+				//request google for the ads
+				document.write( 
+						'<' + 'script type="text/javascript" src="' + 
+						g_afsAds[0].g_afsVars.adPath +'"' + '><' + '/script>'
+					);
+			}
+		}
+	//]]>
+	</script>
 
 
 
