@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhancetv.com.au privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613153720id_/http%3A//www.enhancetv.com.au/extras/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhancetv.com.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626124925id_/http%3A//www.enhancetv.com.au/extras/privacy.php) for the most accurate reproduction.*
 
 # EnhanceTV - Privacy
 
@@ -11,10 +11,13 @@ EnhanceTV understands the importance of privacy to its members and other users o
 **Information Logged**  
    
 Apart from any personal information that you may choose to provide to us, when you visit this web site our server will gather some information provided by your browser. This may include:  
-* the date and time of your visit;
-* the pages you access and documents you download;
-* your server's IP address; and
-* the address of the referring site (if you have been referred to this web site from another site).  
+  
+  * the date and time of your visit;
+  * the pages you access and documents you download;
+  * your server's IP address; and
+  * the address of the referring site (if you have been referred to this web site from another site).
+
+  
    
 We gather this information to monitor site use. This enables us to improve and enhance the web site and make it more user-friendly and relevant to visitors.  
    
@@ -50,8 +53,8 @@ Whilst no transmission to and from web sites can ever be totally secure, Enhance
    
 **Contact Details**  
    
-If you require any further information or have any suggestions please contact us:  
-Email: [info@enhancetv.com.au](mailto:info@enhancetv.com.au)  
+If you require any further information or have any suggestions please [contact us](http://www.enhancetv.com.au/shop/help.php?section=contactus&mode=update):  
+Email: info@enhancetv.com.au  
 Telephone: +61 02 9904 0133   
 Fax: +61 02 9904 0498  
  
