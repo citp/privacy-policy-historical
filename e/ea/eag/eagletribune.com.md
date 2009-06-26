@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220183045id_/http%3A//www.eagletribune.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagletribune.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626235712id_/http%3A//www.eagletribune.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Home - EagleTribune.com, North Andover, MA
 
