@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914014842id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091658id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.*
 
 # Blackbaud Privacy Policy
 
