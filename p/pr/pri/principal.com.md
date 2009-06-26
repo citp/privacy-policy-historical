@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015171212id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022128id_/http%3A//www.principal.com/http.www/privacy/index.htm) for the most accurate reproduction.*
 
 # Principal.com - Online Privacy Policies - Information Privacy
 
