@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218153547id_/http%3A//coull.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626071407id_/http%3A//coull.com/company/privacy) for the most accurate reproduction.*
 
 # Coull
 
