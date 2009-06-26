@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227044606id_/http%3A//www.aao.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aao.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626232849id_/http%3A//www.aao.org/privacy.cfm) for the most accurate reproduction.*
 
 # Academy Privacy Policy
 
