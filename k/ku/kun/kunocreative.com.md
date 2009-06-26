@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2008-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080329010016id_/http%3A//www.kunocreative.com/content.aspx%3FPID%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626115737id_/http%3A//www.kunocreative.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Kuno Creative | Strategic Marketing | Privacy Policy
 
-## We recognize that privacy and confidentiality is important to our clients. This page describes in detail the privacy practices that apply for all of our Marketing and Web site services.
+## We recognize that privacy and confidentiality are important to our clients. This page describes in detail the privacy practices that apply for all of our Strategic Marketing services.
 
 Confidentiality  
-All of all clients records are considered confidential. Strategies, documents, graphic concepts, proposals and related materials are not considered public information. Design work for completed project may be displayed only as examples of work either on our web site or in printed form.  
-
+All of all clients records are considered confidential. Strategies, documents, graphic concepts, proposals and related materials are not considered public information. Design work for completed project may be displayed only as examples of work either on our web site or in printed form.
 
 Personal information and other data we collect
 
@@ -27,5 +26,5 @@ If you have additional questions, please contact us at:
 
 Privacy Matters  
 c/o Kuno Creative Group  
-600 Broadway  
-Lorain, OH 44052 (USA)
+36901 American Way, Suite 2A  
+Avon, OH 44011 (USA)
