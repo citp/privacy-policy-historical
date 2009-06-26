@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddcast.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021721id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddcast.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626124026id_/http%3A//www.oddcast.com/privacy_policy) for the most accurate reproduction.*
 
-# 
+# Oddcast.com
 
 **_PRIVACY POLICY_**
 
