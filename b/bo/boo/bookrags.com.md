@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221010257id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626101428id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,10 @@ BookRags has partnered with Glam Media Inc. for display advertising. You may con
 >  info@glammedia.com  
 > 
 
-BookRags has partnerned with Lotame Solutions, Inc. ("Lotame") to better help us operate the website, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on the website. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Lotame does not collect personally identifiable information. For more information on how the information is collected and used by Lotame, please see Lotame's privacy policy at http://www.lotame.com/PrivacyPolicy.shtml.
+BookRags has partnerned with Lotame Solutions, Inc. ("Lotame") to better help us operate the website, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on the website. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Lotame does not collect personally identifiable information. For more information on how the information is collected and used by Lotame, please see Lotame's privacy policy at http://www.lotame.com/PrivacyPolicy.shtml. 
+
+* Google, as a third party vendor, uses cookies to serve ads on your site. 
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
