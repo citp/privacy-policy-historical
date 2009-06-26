@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219191549id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626030204id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Lake Quincy Media
 
@@ -84,9 +84,9 @@ If you have any questions, comments or complaints about LakeQuincy.com or about 
 > 
 > Lake Quincy Media, LLC
 > 
-> 7303 State Route 43
+> 1790 Stoney Hill Drive
 > 
-> Kent, OH, 44240
+> Hudson, OH, 44236
 > 
 > USA
 
