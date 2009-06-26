@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ufindbook.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216161124id_/http%3A//www.ufindbook.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufindbook.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626043122id_/http%3A//www.ufindbook.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Download Free eBooks
+# User Login | Download Free eBooks
 
 Thank you for visiting uFindBook.com Website and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
