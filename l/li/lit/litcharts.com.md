@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211549id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626150622id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
 
-# LitCharts.com | LitCharts Privacy Policy
+# LitCharts Privacy Policy | LitCharts.com
 
 This privacy policy covers what information we collect from you when you visit or register for the LitCharts.com site, how we use it, and under what circumstances we disclose it. By using the LitCharts.com site, you agree with the terms and conditions of this privacy policy and Terms of Use.
 
@@ -15,6 +15,14 @@ b. Information You Actively Submit to LitCharts.com. When you register at LitCha
 When you purchase a LitChart, you provide us with your name, email address, billing address, shipping address(es), phone number and credit card information. This information is used solely to process your payment and is not stored on our servers.
 
 You may write to us with comments, questions, and concerns. We will not knowingly publish the address or email address of a correspondent.
+
+c. Google & DART Cookie-Based Advertising
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site. 
+  * Google's use of the DART cookie enables it to serve ads to our users based on visits to our site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
 
 2\. Underage Users
 
