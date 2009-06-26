@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153307id_/http%3A//www.three.ie/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626183654id_/http%3A//www.three.ie/company/privacy.htm) for the most accurate reproduction.*
 
 # 3 Ireland - Privacy Policy
 
