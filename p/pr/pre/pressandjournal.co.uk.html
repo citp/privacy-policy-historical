@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pressandjournal.co.uk privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217163115id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pressandjournal.co.uk privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626224547id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>
 	Site Privacy Policy and Conditions of Use
@@ -39,7 +39,7 @@ window.open(url,target,winopt);}}ns_i.src=ns_l;return false;}
 
 <div id="preamble">
 	<div id="banner">
-	<!-- AD (728*90) -->
+	<!-- Modified AD (728*90) Zone Logic  -->
 
 <!-- begin ad tag-->
 <script language="JavaScript" type="text/javascript">
@@ -81,13 +81,72 @@ switch (zone_array[4])
 
 }
 
+if (zone == "" && document.referrer.match("SectionPage.aspx") && document.location.toString().match("Article.aspx")) {
+if (document.referrer.match("PJSport")) {
+
+     zone = "/pj_sport";
+}
+if (document.referrer.match("PJBusiness")) {
+
+     zone = "/pj_business";
+}
+}
+
+
+if (zone_array[3] == 'PJLifestyle') 
+{
+	zone = "/Leisure";
+	
+}
+
+if (zone_array[4] == 'PJAberdeenFC') 
+{
+	zone = "/AFC";
+}
+
+if (zone_array[4] == 'PJYourMoney') 
+{
+	zone = "/Finance";
+}
+
+if (zone_array[4] == 'PJPolitics') 
+{
+	zone = "/Politics";
+}
+
+if (zone_array[4] == 'PJTravel') 
+{
+	zone = "/Travel";
+}
+
+if (zone_array[4] == 'PJWhatsOnListings') 
+{
+	zone = "/Whatson";
+}
+
+if (zone_array[4] == 'PJHealth') 
+{
+	zone = "/Health";
+}
+
+
+if (zone_array[2] == 'Aberdeen') 
+{
+	zone = "/AFC";
+}
+
+if (zone_array[1] == 'oilprice.aspx') 
+{
+	zone = "/energy";
+}
+
 
 ord = (typeof(ord)!='undefined') ? ord : Math.random()*10000000000000000;
 document.write('<script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site' + zone + ';sz=728x90;tile=1;dcopt=ist;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
 
 
 
-</script><script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site;sz=728x90;tile=1;dcopt=ist;ord=2934692443367193?" type="text/javascript"></script>
+</script><script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site;sz=728x90;tile=1;dcopt=ist;ord=6457660472350282?" type="text/javascript"></script>
 
 <noscript>
 <a href="http://ad.uk.doubleclick.net/jump/pj_news_site;sz=728x90;tile=1;ord=123456789?" target="_blank">
@@ -224,7 +283,7 @@ window.setInterval(rotateFrontPage, 3000);
 <hr>	
 <ul id="corporateLinks" class="Links Internal">
 <li><a href="ContactUs.aspx">Contact Us</a></li>
-<li><a href="AboutUs.pdf">About Us</a></li>
+<li><a href="AboutUs.pdf" target="_blank">About Us</a></li>
 </ul>
 
 	
@@ -298,7 +357,7 @@ window.setInterval(rotateFrontPage, 3000);
 
 <div id="Ads">
 <div class="InternalAd"><a href="http://bookadsonline.ajl.co.uk/book/step_1.php?siteid=3&amp;sid=" id="ctl00_ctl03_AdvertLink" onclick="ns_onclick (this, '', topCode + '.onclick.174x150_BookOnline.gif', 'clickout'); return false;"><img id="ctl00_ctl03_AdvertImage" src="Advertising/174x150_BookOnline.gif" border="0"></a></div>
-<div class="InternalAd"><a href="http://www.pressandjournal.co.uk/" id="ctl00_ctl04_AdvertLink" onclick="ns_onclick (this, '', topCode + '.onclick.yourweekend copy.gif', 'clickout'); return false;"><img id="ctl00_ctl04_AdvertImage" src="Advertising/yourweekend%20copy.gif" border="0"></a></div>
+<div class="InternalAd"><a href="http://www.pressandjournal.co.uk/" id="ctl00_ctl04_AdvertLink" onclick="ns_onclick (this, '', topCode + '.onclick.yourlife copy.gif', 'clickout'); return false;"><img id="ctl00_ctl04_AdvertImage" src="Advertising/yourlife%20copy.gif" border="0"></a></div>
 </div>
 
 <div id="skyscraperAd">
@@ -308,7 +367,7 @@ window.setInterval(rotateFrontPage, 3000);
 <script language="JavaScript" type="text/javascript">
 ord = (typeof(ord)!='undefined') ? ord : Math.random()*10000000000000000;
 document.write('<script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site' + zone + ';sz=120x600;tile=2;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site;sz=120x600;tile=2;ord=2934692443367193?" type="text/javascript"></script>
+</script><script language="javascript" src="http://ad.uk.doubleclick.net/adj/pj_news_site;sz=120x600;tile=2;ord=6457660472350282?" type="text/javascript"></script>
 
 <noscript>
 <a href="http://ad.uk.doubleclick.net/jump/pj_news_site;sz=120x600;tile=2;ord=123456789?" target="_blank">
@@ -320,8 +379,26 @@ document.write('<script language="javascript" src="http://ad.uk.doubleclick.net/
 <!-- End ad tag -->
 </div>
 
-<a id="ctl00_ctl05_AdvertLink"></a>
-</div><!-- /rightAds -->
+<a href="http://www.pressandjournal.xwrd.co.uk/doublexword.asp" id="ctl00_ctl05_AdvertLink" onclick="ns_onclick (this, '', topCode + '.onclick.crosswords.jpg', 'clickout'); return false;"><img id="ctl00_ctl05_AdvertImage" src="Advertising/crosswords.jpg" alt="Crossword" border="0"></a>
+
+<!-- SWT: Added Adsense 05/02/09 -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-7319080654257255";
+/* 300x250, created 12/11/08 */
+google_ad_slot = "0704877617";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+
+
+
+<!-- /rightAds -->
 
 	<div id="footer">
 <div id="footerlinks">
@@ -332,7 +409,7 @@ document.write('<script language="javascript" src="http://ad.uk.doubleclick.net/
 <a href="SectionPage.aspx/PJHome/PJLifestyle">Lifestyle</a> |
 <a href="SectionPage.aspx/PJHome/PJComment">Comment</a> |
 <a href="AboutRSS.aspx">RSS</a> |
-<a href="WeatherDetail.aspx">Weather</a> |
+<a href="WeatherDetails.aspx">Weather</a> |
 <a href="Competitions.aspx">Competitions</a> |
 <a href="Gallery.aspx">Photo Gallery</a>
 <br>
@@ -341,7 +418,7 @@ document.write('<script language="javascript" src="http://ad.uk.doubleclick.net/
 <a href="Privacy.aspx">Privacy Policy</a> |
 <a href="ContactUs.aspx">Contact Us</a> |
 <a href="MediaPack.pdf" target="_blank">Media Pack</a> |
-<a href="media/TechSpec2008.pdf" target="_blank">Advert Artwork Specifications</a> |
+<a href="techspecs.aspx">Advert Artwork Specifications</a> |
 <a href="Map.aspx">Site Map</a> |
 <a href="PCC.aspx">PCC</a> |
 <a href="Feedback.aspx">Feedback</a>
@@ -381,7 +458,7 @@ pageCode = "home.page";
 } else if (url.match("sectionpage.aspx")) {
 pageCode = url.replace("/sectionpage.aspx/","").replace("pjhome/","").replace("pj", "").replace ("/", ".") + ".page";
 } else if (url.match("article.aspx")) {
-var pageTitle = "HBOS shareholders sign up to Lloyds ‘superbank’ deal";
+var pageTitle = "";
 
 pageTitle = pageTitle.replace('’', '');
 pageTitle = pageTitle.replace('‘', '');
