@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentbits.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216172212id_/http%3A//rentbits.com/rb/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbits.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626021852id_/http%3A//rentbits.com/rb/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,10 @@ We sometimes offer you the ability to send e-mail to a friend or other third par
 **Website Use Information**
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site and the Web sites visited just before and just after our Web site.
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What Are Cookies?**
 
