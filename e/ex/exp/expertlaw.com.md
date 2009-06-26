@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051952id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626164956id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
 
 # ExpertLaw - Terms of Use and Privacy Policy - Expert Witness, Expert Witnesses.
 
@@ -46,8 +46,16 @@ The forum system uses cookies to store information on your local computer. These
 
 All users agree to any information they enter on this site, whether for registration as an expert, registration and use of the forums, or for any other purpose, being stored in a database. Except as required by law this information will not be disclosed to any third party without your consent; however you agree that the webmaster, administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised. Examples of when disclosure may be required by law include response to a subpoena or search warrant. 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+ExpertLaw is not responsible for the acts of third persons which may affect your privacy, including the conduct of advertisers on remotely hosted websites. When you view advertisements on the ExpertLaw website, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You may adjust the settings on your browser to restrict who may place cookies on your computer, or to delete some or all of the cookies that are on your computer. We are not responsible for the conduct of websites linked to or from ExpertLaw. 
+
 We reserve the right to modify this policy at any time. However, this policy will remain in effect until a replacement policy is posted on this website.
 
 This privacy policy is limited to its express terms, and does not create any contractual or legal duty by ExpertLaw to any site visitor. This privacy policy applies only to users who use this website in accord with our "Terms of Use", and does not apply to protect the privacy of individuals who use this site in violation of those terms, or for illegal or abusive purposes.
-
-ExpertLaw is not responsible for the acts of third persons which may affect your privacy, including the conduct of advertisers on remotely hosted websites. When you view advertisements on the ExpertLaw website, third parties may be placing and reading cookies on your browser, or using web beacons to collect information. You may adjust the settings on your browser to restrict who may place cookies on your computer, or to delete some or all of the cookies that are on your computer. We are not responsible for the conduct of websites linked to or from ExpertLaw. 
