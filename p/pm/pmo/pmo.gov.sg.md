@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012200id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmo.gov.sg privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626201107id_/http%3A//www.pmo.gov.sg/PrivacyStatement/index.htm) for the most accurate reproduction.*
 
 # Prime Minister's Office - Privacy Statement
 
-  
-  
 Government of Singapore Privacy Statement 
 
   1. This is a Government of Singapore website. Thank you for examining our privacy statement.
@@ -14,5 +12,4 @@ Government of Singapore Privacy Statement
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
   
-  
-Last Updated 26 Sep 2008
+
