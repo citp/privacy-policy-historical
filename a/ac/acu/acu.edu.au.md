@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221190009id_/http%3A//www.acu.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626234523id_/http%3A//www.acu.edu.au/more_information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ACU National (Australian Catholic University)
 
