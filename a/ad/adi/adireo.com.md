@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2008-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081209052842id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy%26PHPSESSID%3D9d0366f7daf4147a61caacd60d36007f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626172441id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Adireo.com - Free classifieds: jobs, properties, services, dating... - London, England
+# Adireo.com - Free classifieds: jobs, properties, services, dating... - Belfast, Northern Ireland
 
 Adireo Privacy Policy 
 
