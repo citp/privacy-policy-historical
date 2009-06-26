@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elocalelectricians.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226142954id_/http%3A//www.elocalelectricians.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elocalelectricians.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626221300id_/http%3A//www.elocalelectricians.com/pages/privacy) for the most accurate reproduction.*
 
 # Electricians - Electric Contractors - Find Local Electricians By Zip Code
 
