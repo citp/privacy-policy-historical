@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217133512id_/http%3A//www.norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626225817id_/http%3A//www.norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
 
 # Privacy Statement - NORML
 
-**[ Home](https://web.archive.org/web/20081217133512id_/http%3A//www.norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
+**[ Home](https://web.archive.org/web/20090626225817id_/http%3A//www.norml.org/index.cfm?Group_ID=3374) > Privacy Statement**
 
 **Privacy Statement**  
 
 
-**Share This Page** [ ](http://del.icio.us/post) [ ](http://digg.com/submit) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit)
+**Share This Page** [ ](http://del.icio.us/post) [ ](http://digg.com/submit) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit) [](http://twitter.com/home)
 
 **NORML's Privacy Statement**
 
@@ -50,9 +50,9 @@ Washington, DC  20006-2832_
 
 **Contacting the Web Site**
 
-If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20081217133512id_/http%3A//www.norml.org/index.cfm?Group_ID=3441).
+If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20090626225817id_/http%3A//www.norml.org/index.cfm?Group_ID=3441).
 
   
 
 
-**Share This Page** [ ](http://del.icio.us/post) [ ](http://digg.com/submit) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit)
+**Share This Page** [ ](http://del.icio.us/post) [ ](http://digg.com/submit) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit) [](http://twitter.com/home)
