@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011024043id_/http%3A//www.shefinds.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626212636id_/http%3A//www.shefinds.com/privacy) for the most accurate reproduction.*
 
-# SheFinds.com - Privacy Policy
+# Privacy « Women’s Fashion Trends: Fashion Reviews & Style Tips
 
-**Personal Information** To provide you with our service, SheFinds requires your e-mail address. To provide you with the best possible service, we also require some basic information. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic, and optional information, to further tailor our content to your interests. SheFinds does not collect any personal information that is not expressly provided to us. Additionally, SheFinds will not disclose your personal information to any third party without your consent, except when necessary to deliver a requested service. Upon request, we will provide you with the information that we maintain about you. 
+**Personal Information**
+
+ ****To provide you with our service, SheFinds requires your e-mail address. To provide you with the best possible service, we also require some basic information. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic, and optional information, to further tailor our content to your interests. SheFinds does not collect any personal information that is not expressly provided to us. Additionally, SheFinds will not disclose your personal information to any third party without your consent, except when necessary to deliver a requested service. Upon request, we will provide you with the information that we maintain about you.
 
 **Demographic Information**
 
@@ -34,6 +36,12 @@ SheFinds may change this privacy policy. Any changes will be reflected on this p
 
 **Contact**
 
-If you should have any questions about our privacy policy, please contact us at 
+If you should have any questions about our privacy policy, please contact us at [Info@SheFinds.com](mailto:Info@SheFinds.com).
 
-[Info@SheFinds.com](mailto:Info@SheFinds.com). 
+**More Like This:**
+
+  1. [Terms](http://www.shefinds.com/terms/ "Permanent Link: Terms")
+  2. [Blogging for Money](http://www.shefinds.com/blogging_for_money/ "Permanent Link: Blogging for Money")
+  3. [Sites We Love: Lifebooker Makes Scheduling The Most Relaxing Part Of Your Spa Experience](http://www.shefinds.com/sites_we_love_lifebooker_makes_scheduling_the_most_relaxing_part_of_your_sp/ "Permanent Link: Sites We Love: Lifebooker Makes Scheduling The Most Relaxing Part Of Your Spa Experience")
+
+
