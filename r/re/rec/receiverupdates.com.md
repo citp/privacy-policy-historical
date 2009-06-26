@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receiverupdates.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045535id_/http%3A//www.receiverupdates.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receiverupdates.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626132333id_/http%3A//www.receiverupdates.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
