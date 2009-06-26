@@ -1,92 +1,176 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719154432id_/http%3A//www.brw.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626064154id_/http%3A//www.brw.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
-# BRW.com.au - Privacy Policy
+# Privacy - BRW.com.au
 
-This policy sets out how Fairfax uses your personal information and explains:
+In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate.
 
-  * What kind of personal information Fairfax collects and how it is collected
-  * How Fairfax uses the information you provide
-  * Disclosure
-  * How Fairfax treats sensitive information
-  * Management and security of personal information
-  * Updating personal information
-  * Seeking access to the personal information Fairfax holds about you
-  * How to contact Fairfax
+This policy sets out:  
 
 
+  
 
-## Your privacy is important
+  * what kind of information we collect;
+  
 
-This policy applies to all sites that form part of the network of Fairfax Business Media ("FBM") sites which are owned and operated by Fairfax Media Publications Pty Ltd, a subsidiary of Fairfax Media Publications Pty Ltd ("Fairfax"). To view the FBM network of sites and the various offerings please go to [www.afr.com](http://www.afr.com/). This statement sets out Fairfax's policy on managing the personal information that it collects.
+  * how we collect it;
+  
 
-Fairfax is bound by the National Privacy Principles contained in the Commonwealth Privacy Act. However, Fairfax is exempt from complying with the Privacy Act in relation to its journalism activities. Fairfax has publicly committed to complying with the [Australian Press Council](http://www.presscouncil.org.au/) Privacy Standards for the use of personal information in the course of journalism.
+  * why we collect it;
+  
 
-Fairfax may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Fairfax's operations. Please visit this page periodically, to check for updates. All personal information held by Fairfax will be governed by its most recent policy, posted on Fairfax.
+  * how we use it;
+  
 
-## What kind of personal information does Fairfax collect and how does Fairfax collect it?
+  * how we disclose it;
+  
 
-Fairfax collects personal information from a variety of sources, including from members of the public, advertisers, prospective employees, mailing lists, recruitment agencies, contractors and business partners.
+  * opting in and out;
+  
 
-In general, the personal information Fairfax collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information.
+  * management and security;
+  
 
-Where Fairfax enters into a transaction with an individual, Fairfax may collect other types of personal information, depending on the nature of the transaction. Fairfax will generally state the specific purposes for which this personal information will be used and to whom it may be disclosed, other than as set out in this policy.
+  * how to seek access to and update your personal information; and
+  
 
-Personal Information you provide: We obtain the personal information you enter on Fairfax or give to Fairfax in other ways. We obtain most personal information through Fairfax membership registration process and updates to membership details. You may provide information when you request or acquire a product or service from Fairfax or its related companies, provide a product or service to Fairfax, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with Fairfax by e-mail, telephone or in writing (for example if you contact customer service or provide feedback).
-
-Automatic collection: Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies contain information by which Fairfax can identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. Fairfax may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising that Fairfax believes may be of interest, based on that information. In some cases a web page might contain more than one cookie, the information gathered from these different cookies are used to build statistical and demographical information which does not identify you personally to advertisers and other third parties for marketing, promotional purposes. 
-
-To disable your cookies, please refer to the help menu within your Internet browser.
-
-Indirect collection: Fairfax endeavours to collect personal information about an individual only from that individual. In some circumstances Fairfax may obtain personal information from a third party. If you provide personal information about another person to Fairfax, Fairfax requires that you inform that person you have done so and provide them with a copy of this policy.
-
-## How Fairfax uses the information you provide
-
-Fairfax may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. Fairfax generally uses personal information to:
-
-  * provide you with products or services you have requested
-  * personalise and customise your experiences on Fairfax;
-  * help Fairfax manage and enhance its services;
-  * communicate with you;
-  * provide you with ongoing information about opportunities on Fairfax in which Fairfax believes you may be interested;
-  * give you the opportunity from time to time to receive e-mail and 'e-newsletters' from Fairfax
+  * how to contact us.
+  
 
 
 
-In most cases where Fairfax asks you to provide information about yourself, if you do not provide Fairfax with that information, Fairfax will not be able to provide you with the requested product or service.
+We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act).
 
-## Disclosure
+We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
-Fairfax may disclose personal information to other companies in the Fairfax Group that may only use it as set out above. Fairfax may also provide your information to:
+This policy was last updated on 31 March 2009.
 
-  * third parties engaged by Fairfax to perform functions on its behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
-  * third parties authorised by you to receive information held by Fairfax;
+## What information we collect
+
+In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information.
+
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
+
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs ( **Non-Confidential Information** ). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever. 
+
+## How we collect it
+
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
+
+We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback). 
+
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person's consent to provide such information for the purpose specified. 
+
+## Why we collect it
+
+The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below.
+
+We may state a more specific purpose at the point we collect your information.
+
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only. 
+
+## How we use it
+
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information: 
+
+  
+
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in; 
+  
+
+  * for purposes necessary or incidental to the provision of goods and services to you;
+  
+
+  * to personalise and customise your experiences; 
+  
+
+  * to manage and enhance our products and services; 
+  
+
+  * to communicate with you, including by email, mail or telephone; 
+  
+
+  * to conduct competitions or promotions; 
+  
+
+  * to verify your identity;
+  
+
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  
+
+  * as required or permitted by any law (including the Privacy Act). 
+  
 
 
 
-Fairfax may use DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive about our products and services. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from Fairfax, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+## How we disclose it
 
-Fairfax shares web site usage information about visitors to Fairfax who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, Fairfax and its third-party advertising company will keep information on the email campaign and some of the pages you visit on Fairfax through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit [www.privacychoices.org](http://www.privacychoices.org/). To opt out of the targeting program, please visit the [Privacy Choices Optout](http://www.privacychoices.org/optout.htm) page. 
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Fairfax Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
 
-## How Fairfax treats sensitive information
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:   
 
-**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. Fairfax may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise.
 
-### Management and security of personal information
+  
 
-Fairfax has appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Commonwealth Privacy Act. Fairfax protects the personal information Fairfax holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, pass word access, secure servers and encryption of credit card transactions.
+  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
+  
 
-### Updating personal information
+  * that are our agents, business partners or joint venture entities or partners; 
+  
 
-Fairfax endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. You can update your Fairfax membership information via the 'Update your details' section on any of the sites within Fairfax.
+  * that sponsor or promote any competition that we conduct or promote via our services; 
+  
 
-You can generally update personal information that is not membership information on the website of Fairfax where you submitted that information. Where personal information is no longer required by Fairfax, it will be destroyed or de-identified.
+  * authorised by you to receive information held by us;
+  
 
-### Seeking access to the personal information Fairfax holds about you
+  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
+  
 
-You have the right to seek access the personal information held about you and to advise Fairfax of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. If you make an access request, Fairfax will ask you to verify your identity and specify what information you require. Fairfax may charge a fee to cover the costs of meeting your request. Membership information: Fairfax Members can access the membership information Fairfax holds about them at any time via the "Change Details" section on any of the sites within Fairfax.
+  * as part of a sale (or proposed sale) of all or part of our business; and/or
+  
 
-## How to contact Fairfax
+  * as required or permitted by any law (including the Privacy Act). 
+  
 
-If you have enquiries or wish to provide feedback about this policy, please mail to the Privacy Officer at GPO Box 506 Sydney 2001. If you do not wish to receive special offers or marketing communications from Fairfax, please either call 1800 032 577, send an email to [fbmhelp@brw.fairfax.com.au](mailto:fbmhelp@brw.fairfax.com.au), fax your request to (02) 9282 2165 or mail it to the Privacy Officer at GPO Box 506, Sydney NSW 2001. You can obtain further information on the Fairfax Privacy Policy by visiting www.afr.com and selecting "Privacy"
 
-Last updated: 18 July 2007
+
+## Opting in or out
+
+At the point we collect information from you, you may be asked to "opt in" to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
+
+You will generally be given the opportunity to "opt out" from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
+
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below.
+
+## Management and security 
+
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act. 
+
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
+
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
+
+## Accessing and updating your information and how to contact us
+
+Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.   
+Members of our websites will generally be able to access and update their membership details online.
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
+
+Privacy Officer  
+GPO Box 506  
+Sydney NSW 2001 
+
+* * *
+
+  
+  
+  
+
