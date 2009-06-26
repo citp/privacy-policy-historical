@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012249id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626042039id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
 
 # City of Melbourne - Home - Privacy Policy Statement
 
@@ -43,9 +43,9 @@ Phone: (03) 9658 9173
 
 ## Correction of personal information
 
-If you wish to alter any personal information you have supplied to Council whilst using this site you should telephone the City of Melbourne on 9658 9658 or direct enquiries via e-mail to [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
+If you wish to alter any personal information you have supplied to Council whilst using this site you should telephone the City of Melbourne on (03) 9658 9658 or direct enquiries via e-mail to [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
 
-Please contact the Council’s Privacy Officer on 9658 9173 if you have any other enquires concerning Councils privacy procedures.
+Please contact the Council’s Privacy Officer on (03) 9658 9173 if you have any other enquires concerning Councils privacy procedures.
 
 [  Council's Privacy Policy Statement  (124kb) ](https://web.archive.org/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.pdf)
 
