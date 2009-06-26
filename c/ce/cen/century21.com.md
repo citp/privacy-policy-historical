@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021346id_/http%3A//www.century21.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626101810id_/http%3A//www.century21.com/legal/privacy.jsp) for the most accurate reproduction.*
 
-# Homes For Sale - Real Estate Listings | CENTURY 21 Privacy Policy
+# Privacy Policy | CENTURY 21
 
 **PRIVACY STATEMENT**  
 **Last modified July 3, 2008**
