@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2008-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080718175406id_/http%3A//help.abr.gov.au/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626082314id_/http%3A//help.abr.gov.au/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -39,7 +39,7 @@ The ABR website provides numerous transactions built around the ABN and enables 
 
 The two major parts of the ABR website are _ABN Lookup_ and _ABRsecure_.
 
-_ABN Lookup_ provides the public search of ABN details available from the _[www.business.gov.au](https://web.archive.org/externalsite.asp?url=http://www.business.gov.au/)_ website. A successful public search for an ABN on the business.gov.au website will list the ABN details as specified at _[Information publicly available on ABN Lookup](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P127_8425)_.
+_ABN Lookup_ provides the public search of ABN details available from the _[www.business.gov.au](https://web.archive.org/externalsite.asp?url=http://www.business.gov.au/)_ website. A successful public search for an ABN on the business.gov.au website will list the ABN details as specified at _[Information publicly available on ABN Lookup](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P102_7850)_.
 
 _ABRsecure_ provides a secure environment for online applications. A menu of secure transactions can be found on the ABR homepage. Applications available include:
 
@@ -71,7 +71,7 @@ Collection of the information requested in ABN or tax applications is authorised
 
 The information will help us to administer those Acts and the taxation law.
 
-The Tax Office operates this website ( _[www.abr.gov.au](https://web.archive.org/)_). The _Privacy Act 1988_ and the _Crimes Act 1914_ govern Commonwealth Government agencies (including the Tax Office) and their personnel.
+The Tax Office operates this website ( _[www.abr.gov.au](https://web.archive.org/externalsite.asp?url=http://www.abr.gov.au/)_). The _Privacy Act 1988_ and the _Crimes Act 1914_ govern Commonwealth Government agencies (including the Tax Office) and their personnel.
 
 Some private sector consultants may work on the ABR website. These consultants must comply with the _Privacy Act 1988_ and are also required, by their contract, to acknowledge their awareness of the relevant provisions of the _Crimes Act 1914_.
 
@@ -89,7 +89,7 @@ The privacy statements address privacy matters under the _Privacy Act 1988_. Thi
 
 There are three privacy statements.
 
-  1. This privacy statement, which covers the entire ABR website (including information on the collection of _[clickstream data](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P108_6831)_ and the use of cookies).
+  1. This privacy statement, which covers the entire ABR website (including information on the collection of _[clickstream data](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P80_6113)_ and the use of cookies).
   2. An _Information Privacy Principle 2_ (IPP 2) statement which is presented each time you enter an online transaction.
   3. A privacy statement which is presented before viewing or changing your ABN details.
 
@@ -158,7 +158,14 @@ Under the _Privacy Act 1988_ , Information Privacy Principle 11 regulates the di
 
 The Tax Office will only disclose personal information in accordance with the relevant taxation secrecy provisions and the information privacy principles.
 
-For more information on use and disclosure, refer to _[Information publicly available on ABN Lookup](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P127_8425)_, _[Information available to government agencies](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P154_11713)_ and _[ABR Partners](https://web.archive.org/content/21035.htm)_.
+For more information on use and disclosure, refer to _[Information publicly available on ABN Lookup](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P102_7850)_, _[Information available to government agencies](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P130_11219)_ and _[ABR Partners](https://web.archive.org/content/21035.htm)_.
+
+Information relating to entities who are refused ABN registration **are not** made: 
+
+  * publicly available
+  * available to other government agencies.
+
+
 
 **Information publicly available on _ABN Lookup_**
 
@@ -191,11 +198,11 @@ If you request a certified copy of another entity’s register details, you will
 
 All requests for certified extracts need be in writing and sent to:
 
-**The Director  
-Business Management Registrations  
+The Director  
+ABN Details  
 Australian Taxation Office  
-PO Box 2012  
-CHERMSIDE QLD 4032**
+PO Box 9500  
+CHERMSIDE QLD 4032
 
 
 
@@ -204,15 +211,17 @@ In exceptional circumstances, you can request that certain information, that wou
 
 If you want to apply to the Registrar to withhold some of the details available to the public about the entity, please provide a letter detailing the information to be suppressed, a copy of any supporting material and the reasons for the suppression. You can enclose this information with the application and mail it to:
 
-**The Assistant Registrar  
+The Assistant Registrar  
 Australian Business Register  
 PO Box 9977  
-NEWCASTLE NSW 2300**
+NEWCASTLE NSW 2300
 
 
 
 
 **Information not available on _ABN Lookup_ or to the public**
+
+Information relating to an entity who has been refused ABN registration is **not** made publicly available.
 
 The remainder of the information you supply on this application will not be available to the public, but may be made available to government agencies as explained below.
 
@@ -224,7 +233,7 @@ The Registrar may provide some of this information to other Australian governmen
 
 Data may also be provided to state, territory and local government agencies such as law enforcement agencies, benefit payment agencies and revenue offices carrying out functions under taxation law.
 
-Details of the government agencies regularly receiving information from the ABR is available at _[ABR partners](https://web.archive.org/externalsite.asp?url=http://help.abr.gov.au/content.asp?doc=/content/21035.htm)_ or you can phone **13  28 66** between 8.00am and 6.00pm, Monday to Friday and request a list of agencies be emailed, faxed or posted to you.
+Details of the government agencies regularly receiving information from the ABR is available at _[ABR partners](https://web.archive.org/content/21035.htm)_ or you can phone **13  28 66** between 8.00am and 6.00pm, Monday to Friday and request a list of agencies be emailed, faxed or posted to you.
 
 These agencies may use ABR information for purposes authorised by their legislation or for carrying out other functions of their agency. Examples of possible uses include registration, reporting, compliance and validation and updating of databases.
 
@@ -242,6 +251,10 @@ In addition to the publicly available information detailed above, the informatio
 
 
 Taxation law also authorises the Tax Office to provide taxation information, including ABR information, to law enforcement agencies and state taxation authorities.
+
+**Information not available to government agencies**
+
+Information relating to an entity who has been refused ABN registration is **** not made available to government agencies.
 
 **Quoting your tax file number (TFN)**
 
@@ -289,7 +302,7 @@ The ABR website uses an authentication session token to confirm the client’s i
 
 
 
-[For information concerning certificates, please refer to _[Digital Certificates](https://web.archive.org/content/26249.htm)]_
+[For information concerning certificates, please refer to _[Digital Certificates](https://web.archive.org/content/26249.htm)_]
 
 
 
@@ -299,7 +312,7 @@ The ABR website uses an authentication session token to confirm the client’s i
 
 
 
-For more information on cookies in general, refer to _[W3C 'The World Wide Web Consortium'](https://web.archive.org/externalsite.asp?url=http://www.w3.org/)_ where a search on the word ‘cookies’ will provide current discussions. Also, you can find advice about the internet and personal information on the Privacy Commissioner’s website _[www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)_.
+For more information on cookies in general, refer to _[W3C 'The World Wide Web Consortium'](https://web.archive.org/externalsite.asp?url=http://www.w3.org/)_ where a search on the word ‘cookies’ will provide current discussions. Also, you can find advice about the internet and personal information on the Privacy Commissioner’s website _[www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)_
 
 **Data quality**
 
@@ -324,7 +337,7 @@ The following are business registration applications that you can use to registe
   * change my details (including cancel my details)
   * other registrations:
     * apply for a TFN
-    * register for GST
+    * register for GST and Fuel Tax Credits (FTC)
     * register for pay as you go (PAYG) withholding.
 
 
@@ -336,18 +349,18 @@ In the following applications, the Tax Office is the collector and record-keeper
   * apply for an ABN
   * other registrations:
     * apply for a TFN
-    * register for GST
+    * register for GST and FTC
     * register for PAYG withholding.
 
 
 
-It is important to note that the TFN application can be used by non-individuals to register for a TFN, without necessarily registering for an ABN, GST or PAYG withholding.
+It is important to note that the TFN application can be used by non-individuals to register for a TFN, without necessarily registering for an ABN, GST, FTC or PAYG withholding.
 
-Cookies are used when applying for an ABN and other registrations. Refer to _[cookies used in session management.](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P183_16167)_
+Cookies are used when applying for an ABN and other registrations. Refer to _[cookies used in session management](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P161_15838)_.
 
-Data storage and security arrangements are outlined under _[Data security](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P172_14792)_.
+Data storage and security arrangements are outlined under _[Data security](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P150_14463)_.
 
-It is important that you are aware of the _[use and disclosures of personal information](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P122_7550)_ you are providing.
+It is important that you are aware of the _[use and disclosures of personal information](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P94_6832)_ you are providing.
 
 **Access or change ABN details**
 
@@ -361,9 +374,9 @@ Authorised tax agents can access or change details on behalf of their clients on
 
 Government agencies authorised to access ABR information will need to register to use the Tax Office’s PKI to look at details over the internet. Alternatively, they will need a valid user ID and password to access details via the Tax Office’s secure Corporate External Gateway.
 
-Cookies are used when business clients wish to access or change their own business details. Refer _[Cookies used in session management](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P183_16167)_ and _[Cookies used for authentication](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P187_16950)_.
+Cookies are used when business clients wish to access or change their own business details. Refer _[Cookies used in session management](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P161_15838)_ and _[Cookies used for authentication](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P165_16621)_.
 
-It is important that you are aware of _[uses and disclosures of the information](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P122_7550)_ you are providing.
+It is important that you are aware of _[uses and disclosures of the information](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P94_6832)_ you are providing.
 
 The electronic version of this document is the only authorised version.  
-Last updated: 19/03/08
+Last updated: 22/09/08
