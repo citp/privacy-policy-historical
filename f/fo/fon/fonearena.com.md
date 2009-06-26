@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonearena.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012810id_/http%3A//www.fonearena.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonearena.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626110723id_/http%3A//www.fonearena.com/privacy.php) for the most accurate reproduction.*
 
 # FoneArena | Privacy Policy
 
@@ -24,6 +24,8 @@ With respect to cookies: We use cookies to store visitors preferences, record us
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.  
 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For further information, consult the privacy policies of: 
 
 http://www.google.com/privacypolicy.html
