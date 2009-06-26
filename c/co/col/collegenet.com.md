@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219001941id_/http%3A//corp.collegenet.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626041316id_/http%3A//corp.collegenet.com/privacy_statement) for the most accurate reproduction.*
 
 # Welcome to CollegeNET
 
@@ -85,6 +85,6 @@ We will modify this Statement if our privacy practices materially change in the 
 Questions / Additional Information  
 If you have any questions about this Statement, please email us at [privacy_info@collegenet.com](mailto:privacy_info@collegenet.com). 
 
-© 2008 CollegeNET, Inc.   
+© 2009 CollegeNET, Inc.   
 Terms of Use |    
 ---|---|---
