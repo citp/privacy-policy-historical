@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225120837id_/http%3A//www.clipchef.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626200206id_/http%3A//www.clipchef.com/privacy.php) for the most accurate reproduction.*
 
 # ClipChef.com You are the Chef Share Food Video Recipes to get your Recipe Featured
 
