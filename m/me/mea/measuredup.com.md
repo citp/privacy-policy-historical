@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the measuredup.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220025345id_/http%3A//measuredup.com/MeasuredUp-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuredup.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626020030id_/http%3A//www.measuredup.com/MeasuredUp-Privacy-Policy) for the most accurate reproduction.*
 
 # MeasuredUp.com Privacy Policy - MeasuredUp
 
 **Measuredup.Com (MeasuredUp or ‘our’, ‘us’ or ‘we’) understands that its customers, visitors, users, and others who utilize http://www.measuredup.com or other websites owned or operated by MeasuredUp value their privacy. This Privacy Policy details important information regarding the use and disclosure of User Information collected on the MeasuredUp.com Web Site (as hereinafter defined). MeasuredUp.com provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Web Site.**
 
-**Effective Date: The most recent version of this Privacy Policy is effective as November 1, 2007..**
+**Effective Date: The most recent version of this Privacy Policy is effective as April 17, 2009..**
 
 **Privacy Policy:** This Privacy Policy applies to MeasuredUp and/or other affiliated web sites or entities controlled by, or under common control with and through MeasuredUp (each such web site being individually referred to herein as the Web Site). MeasuredUp respects the privacy of its users, and this Privacy Notice details the information that is collected on our Web Site and how such information is used by MeasuredUp. Please read this Privacy Notice carefully. In addition, please review the Terms of Use posted at our Web Site, which governs your use of the Web Site. Your use of the Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Notice and in our [Terms of Use](http://www.measuredup.com/Terms-of-Services). Finally your use of the Web Site and any personal information you provide on the Web Site remains subject to the terms of this Privacy Notice and our Terms of Use. 
 
