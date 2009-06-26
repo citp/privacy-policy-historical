@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrsa.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216171743id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrsa.gov privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626134247id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS - HHS Privacy Notice
 
@@ -59,4 +59,4 @@ Information originally collected in traditional paper systems can be submitted e
 
 #### HHS Data Council's [HHS Privacy Committee](http://aspe.hhs.gov/datacncl/privcmte.htm)
 
-March 25, 2003
+Last Updated: January 22, 2009
