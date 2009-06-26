@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216062320id_/http%3A//en.fgulen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626053501id_/http%3A//en.fgulen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  Privacy Policy 
+
+[](http://en.fgulen.com/privacy-policy.pdf "PDF")[](http://en.fgulen.com/privacy-policy.html?tmpl=component&print=1&page= "Print")[](http://en.fgulen.com/component/mailto/?tmpl=component&link=aHR0cDovL2VuLmZndWxlbi5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA%3D%3D "E-mail")
+
+Last Updated on Monday, 22 June 2009 17:33  Written by fgulen.com  Monday, 31 July 2006 13:43 
 
 **COMMITMENT TO YOUR PRIVACY**
 
@@ -62,7 +68,7 @@ Fethullah Gülen's Web Site creates aggregate reports on user demographics and t
 
  **SHARING OF THE INFORMATION**
 
-Fethullah Gülen's Web Site uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+Fethullah Gülen's Web Site uses the above-described information to tailor our content to suit your needs. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
  **SECURITY**
 
@@ -80,5 +86,4 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 By using this site, you consent to the collection and use of this information by Fethullah Gülen's Web Site. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-|  [< Prev](http://en.fgulen.com/privacy-policy/1795-terms-of-use.html) |    |  [Next >](http://en.fgulen.com/privacy-policy/2339-international-conference-on-peaceful-coexistence.html)  
----|---|---
+Share Link: [](http://www.google.com/bookmarks/mark?op=add&bkmk=%%URL%%&title=%%TITLE%% "Share Link On: Google") [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=%%URL%%&t=%%TITLE%% "Share Link On: Yahoo MyWeb") [](http://del.icio.us/post?&url=%%URL%%&title=%%TITLE%% "Share Link On: Del.icio.us") [](http://digg.com/submit?phase=2&url=%%URL%%&title=%%TITLE%% "Share Link On: Digg") [](http://www.facebook.com/share.php?u=%%URL%% "Share Link On: Facebook") [](http://www.myspace.com/Modules/PostTo/Pages/?c=%%URL%%&t=%%TITLE%% "Share Link On: Myspace") [](http://reddit.com/submit?url=%%URL%%&title=%%TITLE%% "Share Link On: Reddit") [](http://technorati.com/faves?add=%%URL%% "Share Link On: Technorati") [](http://www.stumbleupon.com/submit?url=%%URL%%&title=%%TITLE%% "Share Link On: Stumble Upon") [](https://login.yahoo.com/config/login?.src=bmk2&.intl=us&.done=http://bookmarks.yahoo.com/toolbar/savebm%3Fopener%3Dtb%26amp;u%3D%%URL%%%26amp;t%3D%%TITLE%% "Share Link On: Yahoo Bookmarks") [](https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=%%URL%%&title=%%TITLE%%&top=1 "Share Link On: MSN Live")
