@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fit.edu privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011602id_/http%3A//www.fit.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fit.edu privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626104849id_/http%3A//www.fit.edu/privacy) for the most accurate reproduction.*
 
 # Florida Institute of Technology
 
