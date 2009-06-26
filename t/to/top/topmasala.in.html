@@ -1,0 +1,442 @@
+<!--The following is the downloaded HTML source of the topmasala.in privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626050615id_/http%3A//www.topmasala.in/site-global/privacy-policies.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Privacy Policies | Vyom Privacy Policies | Corporate Privacy policies</title>
+<link href="/include/style.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+function validate(){
+	if(document.topLoginfrm.emailId.value == ""){
+		alert("Please enter emailId")
+		document.topLoginfrm.emailId.focus();
+		return false;
+	}
+	if(echeck(document.topLoginfrm.emailId.value) == false){
+		document.topLoginfrm.emailId.focus();
+		return false;
+	}
+	if(document.topLoginfrm.passwd.value == ""){	
+		alert("Please enter password")
+		document.topLoginfrm.passwd.focus();
+		return false;
+	}
+}
+function echeck(str){
+	var at="@"
+	var dot="."
+	var lat=str.indexOf(at)
+	var lstr=str.length
+	var ldot=str.indexOf(dot)
+	var email = document.topLoginfrm.emailId.value
+	SplitName = email.split("@")
+	if (SplitName[1] =="topmasala.in"){
+		alert("Please Enter A Valid E-mail ID")
+		return false;
+	}
+	if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.charAt(lstr-1)=="."
+	   || (parseInt(str.indexOf(dot)))==(parseInt(str.indexOf(dot)) + 1) || str.charAt((parseInt(str.indexOf(dot)))+1)=="."){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.indexOf(at,(lat+1))!=-1){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.indexOf(dot,(lat+2))==-1){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.indexOf(" ")!=-1){
+		alert("invalid e-mail id");
+		return false;
+	}
+	if (str.length<6){
+		alert("your e-mail id should not be less than 6 character.");
+		return false;
+	}
+	return true
+}
+</script></head>
+
+
+
+<body>
+<form name="topLoginfrm" action="/user-management/login-process.asp" method="post" onsubmit="return validate()">
+<input type="hidden" name="fromTop" value="fromTop">
+<span style="float:left;">
+<a href="/" title="TopMasala.in"><img src="/images/site-global/logo.jpg" border="0" alt="TopMasala! Quality Time Pass" align="left"></a></span>
+
+<span style="float:right;">
+
+<table border="0">
+<tbody><tr><td><font class="fieldText">EmailId:</font></td><td><input type="text" name="emailId"></td></tr> <tr><td><font class="fieldText">Password:</font></td><td><input type="password" name="passwd"></td></tr><tr><td colspan="2" align="right"><input type="submit" value=" Login "></td></tr></tbody></table></span></form><br>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" class="tab_base">
+<tbody><tr>
+	<td>
+	<div style="float:left;"><span class="leftoff"><span class="data"><a href="/" title="Home"><b>Home</b>
+	</a></span></span></div>
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/user-management/userLogin.asp" title="Login"><b>Login</b></a></span></span></div>
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;photo-gallery/" title="Photo gallery"><b>Photo gallery</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;jokes/" title="Jokes"><b>Jokes</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;greetings/" title="Greetings"><b>Greetings</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;funny-photos/" title="Funny photos"><b>Funny photos</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;sports/" title="Sports"><b>Sports</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;news/" title="News"><b>News</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;screensavers/" title="Screensavers"><b>Screensavers</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/&#10;&#9;video/" title="Video"><b>Video</b>
+	</a></span></span></div>		
+	
+	<div class="spacer"><span class="leftoff"><span class="data"><a href="/user-management" title="Member Dashboard"><b>Member Dashboard</b></a></span></span></div>
+	<div style="float:left; margin-left:3px;"><span class="leftoff"><span class="data"><a href="http://forum.topmasala.com" title="TopMasala Forum"><b>Forum</b></a></span></span></div>
+	</td>
+	<td align="right" style="font-family:Arial;font-size:11px;">
+	<a href="/user-management/userLogin.asp">Login</a> | <a href="/user-management/register.asp">New User? Register!</a>
+	</td>
+	
+</tr>
+<tr>
+	<td bgcolor="#80ACD9" height="18" align="center" colspan="2">
+	<script type="text/javascript"><!--
+	google_ad_client = "pub-7259466154741342";
+	/* TopMasala-in-TopLinkUnit */
+	google_ad_slot = "0548017826";
+	google_ad_width = 728;
+	google_ad_height = 15;
+	//-->
+	</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+	</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody><tr>
+<td width="15%" valign="top">
+<table width="100%" valign="top" cellpadding="0" cellspacing="5" border="0" class="lsbMenu">	
+
+<tbody><tr>
+<td valign="top" width="100%">
+<a href="/news/" title="News">&nbsp; » &nbsp; News</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/sports/" title="Sports">&nbsp; » &nbsp; Sports</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/greetings/" title="Greetings">&nbsp; » &nbsp; Greetings</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/photo-gallery/" title="Photo gallery">&nbsp; » &nbsp; Photo Gallery</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/funny-photos/" title="Funny photos">&nbsp; » &nbsp; Funny Photos</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/celebrities/" title="Celebrities">&nbsp; » &nbsp; Celebrities</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/video/" title="Video">&nbsp; » &nbsp; Video</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/songs/" title="Songs">&nbsp; » &nbsp; Songs</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/games/" title="Games">&nbsp; » &nbsp; Games</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/screensavers/" title="Screensavers">&nbsp; » &nbsp; Screensavers</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/jokes/" title="Jokes">&nbsp; » &nbsp; Jokes</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/shayari/" title="Shayari">&nbsp; » &nbsp; Shayari</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/poems/" title="Poems">&nbsp; » &nbsp; Poems</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/quotes/" title="Quotes">&nbsp; » &nbsp; Quotes</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/icons/" title="Icons">&nbsp; » &nbsp; Icons</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/ringtones/" title="Ringtones">&nbsp; » &nbsp; Ringtones</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/mobile-sms/" title="Mobile sms">&nbsp; » &nbsp; Mobile Sms</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/cool-forwards/" title="Cool forwards">&nbsp; » &nbsp; Cool Forwards</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/today-in-history/" title="Today in history">&nbsp; » &nbsp; Today in History</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/recipes/" title="Recipes">&nbsp; » &nbsp; Recipes</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/festivals/" title="Festivals">&nbsp; » &nbsp; Festivals</a></td>		
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<a href="/tips-and-tricks/" title="Tips and tricks">&nbsp; » &nbsp; Tips and Tricks</a></td>		
+</tr>
+
+</tbody></table><br>
+<a name="poll">
+<script type="text/javascript">
+	function displayResults(pollId,catId){
+	   location.href = "/polls/poll-results.asp?id="+pollId+"&res=1&catId="+catId;
+	}
+	function hideResults(){
+		document.getElementById('displayChart').style.display = 'none';
+	}
+	function submit(){
+		document.frmPolls.submit();
+	}
+</script>
+
+
+
+</a>
+</td>
+<td width="70%" valign="top" align="center"><center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-7259466154741342";
+/* TopMasala-in-TopBannerUnit */
+google_ad_slot = "9397133574";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<p align="right">
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="vyom";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-bookmark-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</p>
+<!-- **********************default page code**************** -->
+<table width="90%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+	<td width="90%" align="center" class="formheads"><br><b>
+	Privacy Policies</b>
+	</td>
+</tr>
+<tr>
+	<td bgcolor="#ff6600" width="1"></td>
+</tr>
+<tr>
+	<td>
+		<p align="justify">
+		<font class="contentplain">topmasala.com respects your privacy and strives to ensure that any personal information you provide is protected. The following describes our commitment to the privacy of your information, the information we gather, and how that information is used.
+		This site has security measures in place to help protect the loss, misuse, and alteration of the information under our control. The information is stored in a secure operating environment.<br><br>
+
+		All topmasala.com  mailing lists are voluntary. We will never add you to an email listing unless you first request it or join a topmasala.com administered mailing list. Users may opt-out of receiving future mailings at any time. Additionally, any personal information you provide to topmasala.com is used to improve the quality of service we provide, and will not be intentionally misused. To remove yourself from the mailing list please click here.<br>
+
+		topmasala.com  does record and track IP addresses, browser information (such as version, make and model), and referring links (i.e. how you got to the page). This information helps us analyze site traffic patterns and usage as well as improve our product offering and quality of service.<br>
+
+		This site may contain links to other sites. Although we are very selective in choosing these links, topmasala.com does not assume any responsibility for or make any warranties about the privacy practices or the content of such Web sites.<br><br>
+
+		Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that topmasala.com is not responsible for any direct or consequential damages that may result from such events.<br><br>
+
+		If you have any questions about this privacy statement, the practices of this site, or your dealings with the www.topmasala.com Web site,
+		<br><br>please contact us at <a href="mailto:amit.mathur@vyom.co.in" style="color:green">amit[dot]mathur[at]vyom[dot]co[dot]in </a> <br><br>
+		<font color="red"><b>Note :</b></font> Please replace [at] with @ and [dot] with . in the above email address
+		</font>
+		</p>
+	</td>
+</tr>
+</tbody></table>
+<!-- ***********************Registration page ends here************* -->
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-7259466154741342";
+/* TopMasala-in-BottomBannerUnit */
+google_ad_slot = "5587439308";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center></td>
+<td width="15%" valign="top">
+
+<p align="center"><font color="#800000"><b>New Wallpapers</b></font></p>
+<p align="center"><br><a href="/photo-gallery/bollywood/bollywood-actress/katrina-kaif/" title="Katrina Kaif"><img src="/thumb.asp?i=/files/rc-3835.jpg&amp;s=100" alt="Katrina Kaif" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Katrina Kaif</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/bollywood/bollywood-actress/kareena-kapoor/" title="Kareena Kapoor"><img src="/thumb.asp?i=/files/rc-3832.jpg&amp;s=100" alt="Kareena Kapoor" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Kareena Kapoor</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/aishwarya-rai/" title="Aishwarya Rai"><img src="/thumb.asp?i=/files/rc-3401.jpeg&amp;s=100" alt="Aishwarya Rai" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Aishwarya Rai</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/amisha-patel/" title="Amisha Patel"><img src="/thumb.asp?i=/files/rc-3403.jpg&amp;s=100" alt="Amisha Patel" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Amisha Patel</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/bipasha-basu/" title="Bipasha Basu"><img src="/thumb.asp?i=/files/rc-3424.jpg&amp;s=100" alt="Bipasha Basu" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Bipasha Basu</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/vidya-balan/" title="Vidya Balan"><img src="/thumb.asp?i=/files/rc-3755.jpg&amp;s=100" alt="Vidya Balan" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Vidya Balan</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/deepika-padukone/" title="Deepika Padukone"><img src="/thumb.asp?i=/files/rc-3439.jpg&amp;s=100" alt="Deepika Padukone" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Deepika Padukone</font></b></a></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/lara-dutta/" title="Lara Dutta"><img src="/thumb.asp?i=/files/rc-3518.jpg&amp;s=100" alt="Lara Dutta" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Lara Dutta</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/bollywood/bollywood-actress/priyanka-chopra/" title="Priyanka Chopra"><img src="/thumb.asp?i=/files/rc-3857.jpg&amp;s=100" alt="Priyanka Chopra" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Priyanka Chopra</font> </b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/celebrities/movie-celebrities/female-celebrities/preity-zinta/" title="Preity Zinta"><img src="/thumb.asp?i=/files/rc-3647.jpg&amp;s=100" alt="Preity Zinta" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Preity Zinta</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/angelina-jolie/" title="Angelina Jolie"><img src="/thumb.asp?i=/files/rc-4113.jpg&amp;s=100" alt="Angelina Jolie" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Angelina Jolie</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/scarlett-johansson/" title="Scarlett Johansson"><img src="/thumb.asp?i=/files/rc-4833.jpeg&amp;s=100" alt="Scarlett Johansson" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Scarlett Johansson</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/jennifer-lopez/" title="Jennifer Lopez"><img src="/thumb.asp?i=/files/rc-3687.jpg&amp;s=100" alt="Jennifer Lopez" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Jennifer Lopez</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/jessica-alba/" title="Jessica Alba"><img src="/thumb.asp?i=/files/rc-3691.jpg&amp;s=100" alt="Jessica Alba" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Jessica Alba</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/keira-knightley/" title="Keira Knightley"><img src="/thumb.asp?i=/files/rc-4834.jpeg&amp;s=100" alt="Keira Knightley" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Keira Knightley</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/jennifer-aniston/" title="Jennifer Aniston"><img src="/thumb.asp?i=/files/rc-3677.jpg&amp;s=100" alt="Jennifer Aniston" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Jennifer Aniston</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/halle-berry/" title="Halle Berry"><img src="/thumb.asp?i=/files/rc-4835.jpeg&amp;s=100" alt="Halle Berry" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Halle Berry</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/carmen-electra/" title="Carmen Electra"><img src="/thumb.asp?i=/files/rc-4836.jpeg&amp;s=100" alt="Carmen Electra" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Carmen Electra</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/pamela-anderson/" title="Pamela Anderson"><img src="/thumb.asp?i=/files/rc-3712.jpg&amp;s=100" alt="Pamela Anderson" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Pamela Anderson</font></b></a><br><br></p>
+<p align="center"><br><a href="/photo-gallery/hollywood/hollywood-actress/lindsay-lohan/" title="Lindsay Lohan"><img src="/thumb.asp?i=/files/rc-3698.jpg&amp;s=100" alt="Lindsay Lohan" class="borderImage" vspace="5" hspace="5"><br><b><font color="#800000">Lindsay Lohan</font></b></a><br><br></p>
+
+</td>
+</tr>
+</tbody></table><table width="100%" cellspacing="0" cellpadding="2" border="0" bgcolor="#245492">
+<tbody><tr>
+	<td height="20"><font color="#FFFFFF">Copyright © 2009, Topmasala.in. All Rights Reserved.</font></td>
+	<td align="right"><font color="#FFFFFF"><a href="/site-global/privacy-policies.asp" style="color:#FFFFFF" title="Privacy Policies">Privacy Policy</a> | <a href="/site-global/aboutus.asp" style="color:#FFFFFF" title="About Us">About Us</a>| <a href="/site-global/contactus.asp" style="color:#FFFFFF" title="Contact Us">Contact Us</a></font>
+	</td>
+</tr>
+</tbody></table>
+
+<center>
+<font face="verdana" size="1"><b>Our Portals : </b>
+<a href="http://www.academictutorials.com" title="Academic Tutorials - Free Online Tutorials" target="_blank"><font color="#B53B64">Academic Tutorials</font></a> | 
+<a href="http://www.bestebooksworld.com" title="Best eBooksworld - Free eBooks for Download" target="_blank"><font color="#B53B64">Best eBooksworld</font></a> | 
+<a href="http://www.beyondstats.com" title="Beyond Stats - Stats for Webmasters" target="_blank"><font color="#B53B64">Beyond Stats</font></a> | 
+<a href="http://www.citydetails.info" title="City Details - Info about All Major Cities" target="_blank"><font color="#B53B64">City Details</font></a> | 
+<a href="http://www.coolinterview.com" title="Cool Interview - World Best Interview Questions &amp; Answers" target="_blank"><font color="#B53B64">Interview Questions</font></a> | 
+<a href="http://www.discussionsworld.com" title="Discussions World - India's Best Job Based Discussion Forum" target="_blank"><font color="#B53B64">Discussions World</font></a> | 
+<a href="http://www.excellentmobiles.com" title="Excellent Mobiles - Online Info about Mobiles" target="_blank"><font color="#B53B64">Excellent Mobiles</font></a> | 
+<a href="http://www.freebangalore.com" title="Free Bangalore - Complete Information about Bangalore" target="_blank"><font color="#B53B64">Free Bangalore</font></a> | 
+<a href="http://www.givemethecode.com" title="Give Me The Code - Free Projects, Source Codes, Assignments" target="_blank"><font color="#B53B64">Give Me The Code</font></a> | 
+<a href="http://www.goglogo.com" title="Gog Logo - Make Your Own Signature" target="_blank"><font color="#B53B64">Gog Logo</font></a> | 
+<a href="http://www.indianfreeads.com" title="Indian Free Ads - Free Online Advertisement Buy &amp; Sell" target="_blank"><font color="#B53B64">Indian Free Ads</font></a> | 
+<a href="http://www.jobsassist.com" title="Jobs Assist - Best Freshers &amp; Experienced Jobs " target="_blank"><font color="#B53B64">Jobs Assist</font></a> | 
+<a href="http://www.newinterviewquestions.com" title="New Interview Questions - Largest Collection of Interview Questions &amp; Answers" target="_blank"><font color="#B53B64">New Interview Questions</font></a> | 
+<a href="http://www.onestopfaqs.com" title="One Stop FAQs - World's Largest Collection of FAQs" target="_blank"><font color="#B53B64">One Stop FAQs</font></a> | 
+<a href="http://www.onestopgate.com" title="One Stop GATE - World's Best Website for GATE Preparation" target="_blank"><font color="#B53B64">One Stop GATE</font></a> | 
+<a href="http://www.onestopgre.com" title="One Stop GRE - World's Best Website for GRE Preparation" target="_blank"><font color="#B53B64">One Stop GRE</font></a> | 
+<a href="http://www.onestopias.com" title="One Stop IAS - World's Best Website for IAS Preparation" target="_blank"><font color="#B53B64">One Stop IAS</font></a> | 
+<a href="http://www.onestopmba.com" title="One Stop MBA - World's Best Website for MBA Preparation" target="_blank"><font color="#B53B64">One Stop MBA</font></a> | 
+<a href="http://www.onestopsap.com" title="One Stop SAP - World's Best Website for SAP Learning" target="_blank"><font color="#B53B64">One Stop SAP</font></a> | 
+<a href="http://www.onestoptesting.com" title="One Stop Testing - World's Best Website for Testing Preparation" target="_blank"><font color="#B53B64">One Stop Testing</font></a> | 
+<a href="http://www.quick2host.com" title="Quick2Host - India's Best Web Hosting Company" target="_blank"><font color="#B53B64">Quick2Host</font></a> | 
+<a href="http://www.quick2host.net" title="Quick2Host - India's Best Web Hosting Company" target="_blank"><font color="#B53B64">Quick2Host Mirror</font></a> | 
+<a href="http://www.quicksitekit.com" title="Quick Site Kit - India's Largest Free Website Designing Tools Website" target="_blank"><font color="#B53B64">Quick Site Kit</font></a> | 
+<a href="http://www.sirfdosti.com" title="Sirf Dosti - India's Fastest Growing Social Networking Website" target="_blank"><font color="#B53B64">Sirf Dosti</font></a> | 
+<a href="http://www.sourcecodesworld.com" title="Source Codes World - Free Source Codes, Programs, Projects" target="_blank"><font color="#B53B64">Source Codes World</font></a> | 
+<a href="http://www.tasty-food.com" title="Tasty Food - One Stop Place for Great Recipes from All Over the World" target="_blank"><font color="#B53B64">Tasty Food</font></a> | 
+<a href="http://www.tech-archive.org" title="Tech Archive - World's Best Place for Sharing Tech Related Information" target="_blank"><font color="#B53B64">Tech Archive</font></a> | 
+<a href="http://www.testinginterviewquestions.com" title="Testing Interview Questions - World's Largest Database of Testing Interview Questions &amp; Answers" target="_blank"><font color="#B53B64">Testing Interview Questions</font></a> | 
+<a href="http://www.testsworld.com" title="Tests World - India's Best Website for Free Online Mock Exams" target="_blank"><font color="#B53B64">Tests World</font></a> | 
+<a href="http://www.thegalz.com" title="The Galz - Unique Website for Girls, the Fairer Half of Humanity" target="_blank"><font color="#B53B64">The Galz</font></a> | 
+<a href="http://www.topmasala.com" title="Top Masala - India's Best Quality Fun Website" target="_blank"><font color="#B53B64">Top Masala</font></a> | 
+<a href="http://www.vyom.co.in" title="Vyom - Vyom Corporate Website" target="_blank"><font color="#B53B64">Vyom</font></a> | 
+<a href="http://www.vyomebooks.com" title="Vyom eBooks - India's Best Collection of Free Online eBooks" target="_blank"><font color="#B53B64">Vyom eBooks</font></a> | 
+<a href="http://www.vyomintl.com" title="Vyom International - Job Website" target="_blank"><font color="#B53B64">Vyom International</font></a> | 
+<a href="http://www.vyomlinks.com" title="Vyom Links - World' Best Collection of Free To Download Softwares" target="_blank"><font color="#B53B64">Vyom Links</font></a> | 
+<a href="http://www.vyoms.com" title="Vyoms - India's Fastest Free Job Website" target="_blank"><font color="#B53B64">Vyoms</font></a> | 
+<a href="http://www.vyomworld.com" title="Vyom World - Vyoms All In One Website" target="_blank"><font color="#B53B64">Vyom World</font></a>
+<br><font face="verdana" size="1">
+<a href="http://www.vyomworld.com/sms/sms-jokes/" title="SMS Jokes">SMS Jokes</a> | 
+<a href="http://www.vyomworld.com/sms/" title="FREE SMS">FREE SMS</a> | 
+<a href="http://www.vyomworld.com/placementpapers/index.asp" title="Placement Papers">Placement Papers</a> | 
+<a href="http://www.coolinterview.com" title="">Interview Questions</a> | <a href="http://www.vyomlinks.com/yahoo/download-yahoo-massanger.htm" title="download yahoo massanger">DOWNLOAD yahoo messenger</a> | <a href="http://www.tourtokerala.com/kerala_honeym_pack.html" title="Honeymoon Trips to Kerala" target="_blank">Honeymoon Trips to Kerala</a></font>
+<hr>
+<p align="left" style="margin-top:0;"><font color="black">Topmasala.in gets lots of content from its users. We strictly disallow any copyright violation. In case you find any content copyrighted to you or your company please contact us immediately. <a href="/messages/message.asp?pageURL=http://www.topmasala.in/site-global/privacy-policies.asp&amp;messageType=contact">Contact Us</a> | <a href="/messages/message.asp?pageURL=http://www.topmasala.in/site-global/privacy-policies.asp&amp;messageType=advertise">Advertise With Us</a> | <a href="/messages/message.asp?pageURL=http://www.topmasala.in/site-global/privacy-policies.asp&amp;messageType=feedback">Feed Back</a> |  <a href="/messages/message.asp?pageURL=http://www.topmasala.in/site-global/privacy-policies.asp&amp;messageType=abuse">Report An Abuse</a></font></p></font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7108610-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script language="javascript" type="text/javascript"><!--
+ua=navigator.userAgent.toLowerCase(); cd=""; js="1.0"; sr=""; // --></script>
+<script language="javascript1.1" type="text/javascript"><!--
+js="1.1"; // --></script>
+<script language="javascript1.2" type="text/javascript"><!--
+js="1.2"; cd=(ua.indexOf("msie")!=-1)?screen.colorDepth:screen.pixelDepth; sr=screen.width+"x"+screen.height; // --></script>
+<script language="javascript1.3" type="text/javascript"><!--
+js="1.3"; // --></script>
+<script language="javascript1.4" type="text/javascript"><!--
+js="1.4"; // --></script>
+<script language="javascript" type="text/javascript"><!--
+re=escape(top.document.referrer);
+args="?cid=28054&style=2&re="+re+"&cd="+cd+"&js="+js+"&sr="+sr;
+document.write("<img src='http://www.tdstats.com/in/"+args+"' border=0>");
+//--></script><img src="http://www.tdstats.com/in/?cid=28054&amp;style=2&amp;re=&amp;cd=24&amp;js=1.4&amp;sr=800x600" border="0">
+</center>
+
+
+</body></html>
