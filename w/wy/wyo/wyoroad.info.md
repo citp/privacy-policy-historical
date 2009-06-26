@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyoroad.info privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216010539id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyoroad.info privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626183525id_/http%3A//attorneygeneral.state.wy.us/privac2.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
