@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216055443id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626081355id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
 # The Insider's Guide to Business and IT Agility
 
@@ -38,12 +38,10 @@ Our sites contain links to Web sites outside the control of ebizQ. We encourage 
 
 Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors, whether Gold Club members or not, review this page to ensure they understand the most current version of our privacy statement. If you have any questions please contact us at [privacy@ebizQ.net](mailto:privacy@ebizQ.net)
 
-  * ebizQ Update
+  * Subscribe
   * Contribute 
 
 
-
-Please pardon our appearance while we work out the remaining kinks of our new site. If you happen to find a bug, please let us know at [support@ebizq.net](mailto:support@ebizq.net)
 
 ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Peter Schooff](https://web.archive.org/company/feedback_form.html).
 
@@ -53,24 +51,27 @@ ebizQ is very interested in what you have to say. To contribute an article, an o
 
 
 
-### SOA In Action
+### SOA Cloud Qcamp
 
-Nov 19, 2008
+June 3, 2009
 
-This conference will teach business leaders what to expect, and what to avoid, to make their SOA journey a success. SOA is a long journey, not a single project, and distributed architectures are inherently complex. Success requires new ways of working, creating more efficient cross organization processes, adopting new tools, and building new skills.[Register](https://web.archive.org/events/soa_in_action)
+One of the most compelling trends in the enterprise business technology space over the past year has been the emergence of cloud computing. In ebizQ’s upcoming Qcamp virtual un-conference, leading industry experts and practitioners will explore the role of service-oriented architecture (SOA) and business process management (BPM) in supporting cloud-computing initiatives. Additionally, the new skills that developers and IT managers need for successful cloud development will be discussed.[Register](https://web.archive.org/eventsv2/cloudqcamp.html)
 
-[View All Virtual Conferences](https://web.archive.org/events)
+[View All Virtual Conferences](https://web.archive.org/eventsv2/conferences.html)
 
-### Insurance: Discovering the Missing Link of Business Architecture
+### Insurance Roundtable: Discovering the Missing Link of Business Architecture
 
-  
-
-
-Date:Jan 14, 2009
-
-Time:12:00 PM ET- (17:00 GMT) 
+Date: **Aug 26, 2009**   
+Time: **12:00 PM ET- (16:00 GMT) **
 
 [REGISTER TODAY!](http://www.ebizq.net/webinars/10091.html#register)
+
+### ROUNDTABLE: Open Source Market Update
+
+Date: **Sep 30, 2009**   
+Time: **12:00 PM ET- (16:00 GMT) **
+
+[REGISTER TODAY!](http://www.ebizq.net/webinars/10784.html#register)
 
 [View All Roundtables](https://web.archive.org/series/34.html)
 
@@ -80,47 +81,69 @@ Time:12:00 PM ET- (17:00 GMT)
 
 
 
-### [State of the Business Process Management Market, 2008](http://www.ebizq.net/white_papers/10243.html?related)
+### [Hurwitz SOA Whitepaper](http://www.ebizq.net/white_papers/11327.html?related)
 
-Over the last few years, Business Process Management (BPM) has seen a rapid growth because it succeeds where earlier approaches have failed -...
+Adopting an open source SOA allows better allocation of IT resources, away from solving internal infrastructure and systems issues, to solving...
 
-[Download Now](http://www.ebizq.net/white_papers/10243.html?related)
+[Download Now](http://www.ebizq.net/white_papers/11327.html?related)
 
-### Dennis Byron: Revisiting Bill Miller of XAware, Open Source Data Integration Software
+### Joe McKendrick: Part II of II: Designing Evolve-ability into SOA and IT Systems
 
-Almost a year after their first chat, XAware founder and CTO Bill Miller gives Dennis Byron an update on what's going on this year at XAware and how that "open source thing" is working out.
+In part two of Joe McKendrick's recent podcast with Miko Matsumura, chief strategist for Software AG, they talk about how SOA and IT systems need to change and grow and adapt with the organization around it.
 
-[Listen Now](http://www.ebizq.net/blogs/open_source/2008/10/talking_to_bill_miller_xaware.php)
+[Listen Now](http://www.ebizq.net/blogs/soainaction/2009/05/soas_human_factor.php)
 
-### The Acceleration of SOA: iTKO Explains
+### Phil Wainewright: Helping Brands Engage with Social Media
 
-Listen to Peter Schooff's podcast with Jason English, VP of Corporate Marketing for iTKO, where they offer a quick preview of ebizQ's upcoming SOA in Action Virtual Conference on Nov. 19.
+Phil Wainewright interviews David Vap, VP of products at RightNow Technologies, and finds out how sharing best practices can help businesses understand how best to engage with online communities. 
 
-[Listen Now](http://www.ebizq.net/blogs/archives/2008/10/the_acceleratio_1.php)
+[Listen Now](http://www.ebizq.net/blogs/connectedweb/2009/05/helping_brands_engage_with_soc.php)
 
-### Heading Off SOA Disillusionment With Progress
+### Peter Schooff: Making Every IT Dollar Result in a Desired Business Outcome: Scott Hebner of IBM Rati
 
-David Bressler provides Progress Software's customers and field teams with the expertise and experience to deliver SOA. In this podcast, Bressler gives an excellent introduction to ebizQ's Nov. 19 SOA in Action Virtual Conference, where he'll be a featured speaker. 
+Scott Hebner, Vice President of Marketing and Strategy for IBM Rational, discusses a topic on the top of every company's mind today: getting the most from IT investments. 
 
-[Listen Now](http://www.ebizq.net/blogs/archives/2008/11/understanding_s.php)
+[Listen Now](http://www.ebizq.net/blogs/2009/05/every_it_dollar_should_result.php)
 
-### Dennis Byron: VP of IONA/Progress Larry Alston on Functionality in OSS
+### Jessica Ann Mola: Where Will BI Fit In? Lyndsay Wise Explains
 
-Hear Larry Alston's unique perspective on the open source development model and how IONA is adopting a "functionality rules" open-source-as-a-tactic theme now that Iona is part of Progress. 
+In BI, this tough economy and the increasing role of Web 2.0 and MDM are certainly topics on people's minds today. WiseAnalytics' Lyndsay Wise addresses each of them in this informative podcast.
 
-[Listen Now](http://www.ebizq.net/blogs/open_source/2008/10/talking_to_larry_alston_of_ion.php)
+[Listen Now](http://www.ebizq.net/blogs/2009/05/where_will_bi_fit_in_lyndsay_w.php)
 
-### Mike Rothman: Understanding Web 2.0 Attacks
+### Dennis Byron: Talking with...Deepak Singh of BPM Provider Adeptia
 
-In this podcast, Rothman flies solo and rants about Web 2.0 attack vectors, providing a primer on the types of attacks you're likely to see from social networks. Rothman also gives himself the "free association" treatment, discussing topics like Facebook and the impact of Web 2.0 on PCI.rnrnListen to or download the 11:39 minute podcast below:
+Deepak Singh, President and CTO of Adeptia, joins ebizQ's Dennis Byron in a podcast that gets its hand around the trend of industry-specific BPM.
 
-[Listen Now](http://www.ebizq.net/blogs/mike_rothman/2008/10/understanding_web_20_attacks.php)
+[Listen Now](http://www.ebizq.net/blogs/bpminaction/2009/04/talking_with_deepak_singh_of_b.php)
+
+[More Podcasts](https://web.archive.org/podcasts)
 
   * Most Read 
-  * Most Discussed 
   * Quick Guide 
+  * Most Discussed 
 
 
+
+### BPM VIEWPOINT: How Do You Look at BPM?
+
+From Dennis Byron: For BPM to fit at the top of the stack, it can't merely support workflow or integration. It needs to integrate the BI aspects of the stack, too. [Learn More](http://www.ebizq.net/topics/bpm/features/11185.html)
+
+### How ACORD Can Be Used As A Best Practice For Data Integration
+
+In the insurance industry, companies have accepted that systems, strategies and data all developed in silos are making it difficult for them to grow and adjust to today’s market demands. The obstacles imposed by siloed approaches are painfully obvious to companies as they try to gain a better understanding of their customers and meet the growing constraints imposed by compliance and regulatory requirements. Leveraging industry standards with full data integration is one was to tackle this challenge. [Learn More](http://www.ebizq.net/topics/insurance/features/11036.html)
+
+### When It Comes to BPM Type, It All Depends on You
+
+From Dennis Byron: Is it better to choose one strain of BPM over another? The answer is unique to your organization. [Learn More](http://www.ebizq.net/topics/bpm/features/11157.html)
+
+### Maximizing Your Business Rules Investment
+
+Can decision management really deliver costs savings, agility and happy customers on a consistent basis? [Learn More](http://www.ebizq.net/topics/edm/features/11119.html)
+
+### BPM VIEWPOINT: Does Case Management Fill in the Gaps in the BPM Spectrum?
+
+From Dennis Byron: BPM products optimized for case management might be the products that bridge the extremes in my view of the BPM spectrum. [Learn More](http://www.ebizq.net/topics/bpm/features/11094.html)
 
 ### Building The Instantly Responsive Enterprise
 
@@ -133,22 +156,6 @@ Insurers need to think about creating "true linkage," which means linking busine
 ### The Invisible Hand of BI
 
 To be effective, business intelligence technology must work behind the scenes to deliver relevant information when, where, and how it's needed. [Learn More](http://www.ebizq.net/topics/operational_bi/features/10400.html)
-
-### [Top 10 Most Vulnerable Apps for 2007](http://www.ebizq.net/blogs/security_insider/2007/11/top_10_most_vulnerable_apps_fo.php#comments)
-
-This looks more like the list of the 10 most superfluous...
-
-### [Update on the Past Month](http://www.ebizq.net/blogs/security_insider/2007/03/update_on_the_past_month.php#comments)
-
-Just want to say welcome back, and that we've missed you. Thanks...
-
-### [Beware the iPod?](http://www.ebizq.net/blogs/security_insider/2006/06/beware_the_ipod.php#comments)
-
-More information on the dangers of pod slurping and how to combat...
-
-### [Privacy, Information Theft and Security](http://www.ebizq.net/blogs/security_insider/2006/06/privacy_information_theft_and.php#comments)
-
-Andre - you are right on. The problem isn't the lack of...
 
 ### Quick Guide: What is Enterprise 2.0?
 
