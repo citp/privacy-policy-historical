@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216075034id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626111156id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Compare car leasing, new cars, insurance & car finance quotes. FREE QUOTES TODAY
 
 **Organisation Name:** Askaprice.com  
 **Statement Number:** [36790](http://www2.oecd.org/pwv3/)  
-**Address:** 1 Henry Street  
-**City, Postcode:** Liverpool , L1 5BS  
-**County:** Merseyside  
-**Country:** England  
-**Web Sites(s):** http://www.askaprice.com - http://www.motortorque.com 
+**Address:**  
+Askaprice.com  
+Charleston House,  
+Rumford Place,  
+Liverpool,  
+L3 9DG **Web Sites(s):** http://www.askaprice.com - http://www.motortorque.com 
 
 ## Information about our Organisation and Web site 
 
@@ -57,8 +58,8 @@ We may collect and use personal data for the additional purpose of: Account Mana
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
 
   * by sending an email ( info@askaprice.com ) 
-  * by sending postal mail to this address ( Askaprice.com, 1 Henry Street, Liverpool, Merseyside L1 5BS ) 
-  * by calling this telephone number ( 0870 042 3802 ) 
+  * by sending postal mail to this address ( Askaprice.com, Charleston House, Rumford Place, Liverpool, L3 9DG ) 
+  * by calling this telephone number ( 0844 445 7862 ) 
 
 
 
@@ -90,8 +91,8 @@ We ensure that your personal data will not be disclosed to any authorities excep
 You can ask us, by: 
 
   * sending an email ( info@askaprice.com ) 
-  * sending postal mail to this address ( Askaprice.com, 1 Henry Street, Liverpool, Merseyside, L1 5BS ) 
-  * calling this telephone number ( 0870 042 3802 ) 
+  * sending postal mail to this address ( Askaprice.com, Charleston House, Rumford Place, Liverpool, L3 9DG ) 
+  * calling this telephone number ( 0844 445 7862 ) 
 
 
 
@@ -100,8 +101,8 @@ whether we are keeping personal data about you.
 Upon request, which you can indicate by: 
 
   * sending an email ( info@askaprice.com ) 
-  * sending postal mail to this address ( Askaprice.com, 1 Henry Street, Liverpool, Merseyside, L1 5BS ) 
-  * calling this telephone number ( 0870 042 3802 ) 
+  * sending postal mail to this address ( Askaprice.com, Charleston House, Rumford Place, Liverpool, L3 9DG ) 
+  * calling this telephone number ( 0844 445 7862 ) 
 
 
 
@@ -136,8 +137,8 @@ Modern information and communication technologies play a fundamental role in the
 You can ask us further questions about our Privacy Policy, by: 
 
   * sending an email ( info@askaprice.com ) 
-  * sending postal mail to this address ( Askaprice.com, 1 Henry Street, Liverpool, Merseyside, L1 5BS ) 
-  * calling this telephone number ( 0870 042 3802 ) 
+  * sending postal mail to this address ( Askaprice.com, Charleston House, Rumford Place, Liverpool, L3 9DG ) 
+  * calling this telephone number ( 0844 445 7862 ) 
 
 
 
