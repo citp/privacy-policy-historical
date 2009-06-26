@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emarketingandcommerce.com privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012100306id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingandcommerce.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627002001id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
-# North American Publishing Company • Privacy Policy
+# Privacy Policy : NAPCO
 
 Privacy Policy
 
@@ -26,8 +26,10 @@ Persons who supply us with their telephone numbers may receive telephone contact
 
 Questions & comments about this Web site? E-mail: ryoegel@napco.com.
 
-_Updated: January 20, 2006_  
-• Added information regarding access to NAPCO digital publications.
+_Updated: January 20, 2006_
+  * Added information regarding access to NAPCO digital publications.
 
-_Updated: September 12, 2005  
-• _Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive. 
+_Updated: September 12, 2005_
+  * Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive.
+
+
