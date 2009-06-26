@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219022249id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626043036id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Orange County News, Events, Restaurants, Music, Movies from Orange County, CA - OC Weekly
+# Orange County Privacy Policy
 
 ## Village Voice Media
 
