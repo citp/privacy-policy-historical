@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053909id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626220913id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
-# National Library Of Australia | Privacy statement
+# Privacy statement | National Library of Australia
 
 The purpose of this statement is to let users of this web site know what information is collected about them when they visit this site, how this information is used and if it is disclosed.
 
@@ -45,6 +45,6 @@ We will only publish personal information on this site if it has been collected 
 
 ## Feedback
 
-We welcome [feedback](https://web.archive.org/web/20081216053909id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
+We welcome [feedback](https://web.archive.org/web/20090626220913id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
 
 Back to the top 
