@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218013031id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626163343id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Funology.Com :: Privacy Policy
+# Funology.Com : Privacy Policy
 
 ADVERTISEMENT
 
@@ -40,6 +40,6 @@ ADVERTISEMENT
 
 [](https://web.archive.org/thats_odd/)
 
-One inch of rain is equal to 10 inches of snow. 
+Your thigh bone is stronger than concrete. 
 
 |  [](https://web.archive.org/hotstuff)
