@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealpals.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221232316id_/http%3A//www.dealpals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealpals.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626082225id_/http%3A//www.dealpals.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DealPal$
 
