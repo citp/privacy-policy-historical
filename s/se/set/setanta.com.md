@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the setanta.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225062018id_/http%3A//www.setanta.com/uk/Footer-Pages/Privacy-Policy/gnid-942) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setanta.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626232756id_/http%3A//www.setanta.com/uk/Footer-Pages/Privacy-Policy/gnid-942) for the most accurate reproduction.*
 
 # Privacy Policy | Setanta
 
-Effective as of: December 18th 2007: The setanta.com Web site (the 'Site') is maintained by SETANTA SPORT Sarl. ('SETANTA SPORT Sarl,' 'us,' 'our,' or 'we'). We can also be reached by telephone on 08700 50 69 80 or email . Our data collection and use policies with respect to the Site are set forth in this statement ('Policy'). By using this Site, you signify your acceptance of this Policy. 
+Effective as of: December 18th 2007: The setanta.com Web site (the 'Site') is maintained by SETANTA SPORT Sarl. ('SETANTA SPORT Sarl,' 'us,' 'our,' or 'we'). We can also be reached by telephone on 0871 200 62 03 or email . Our data collection and use policies with respect to the Site are set forth in this statement ('Policy'). By using this Site, you signify your acceptance of this Policy. 
 
 **Definitions**
 
