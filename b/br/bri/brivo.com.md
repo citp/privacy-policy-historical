@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227031923id_/http%3A//www.brivo.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626032001id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
 
-# Brivo Systems: Privacy and Security Policy
-
-[](http://www.surveymonkey.com/s.aspx?sm=IgGZfwFBCTwa7Dhh3ROqlQ_3d_3d)
-
-[](http://www.stamhost.com/brivolms/index.asp)
-
-### Now Available! 
-
-The 7-minute Brivo Overview Discover the Power 
-
-[](https://web.archive.org/web/20081227031923id_/http%3A//www.brivo.com/images/video20070321/FLV/Brivo_Commercial_CamSettings.html "Flash Video Format") [](https://web.archive.org/web/20081227031923id_/http%3A//images/video20070321/AVI/Brivo_commercial.html "Windows Media Format")
-
-|  | 
+# Privacy & Security Policy
 
 At Brivo Systems, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our Web site as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our Web site as a Brivo(r) Access Control System (ACS) customer, your personal and business Information (product identification information, internet access information such as Web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.
 
@@ -27,13 +15,9 @@ From our customers, we collect only the information that is needed to properly s
 Brivo may also use your personal and business information to:
 
   * Provide you with educational material related to our services and recommendations regarding security practices.
-
   * Contact you to inform you of product and service enhancements and to offer Brivo-related promotions or discounts that we think may be of interest to you.
-
   * Notify you of any regulatory or compliance issues that will affect your ACS service.
-
   * Ask you to participate in surveys that help us better understand your needs in order to improve our products.
-
 
 
 
@@ -58,9 +42,7 @@ Brivo uses a variety of security measures to safeguard the confidentiality of in
 Except as specifically stated herein, Brivo will not access security information entered by you in the course of using Brivo's ACS Service except in the following limited circumstances:
 
   * To provide necessary technical support, usually at your request and with your permission;
-
   * To produce regular backups, restore data from backups at your request or install software updates and/or upgrades.
-
 
 
 
@@ -68,6 +50,4 @@ Except as specifically stated herein, Brivo will not access security information
 
 Brivo encourages you to contact us if you wish to delete, correct or update your business information in our systems, or if you desire to change your preferences with respect to marketing contacts from Brivo by e-mailing us at [info@brivo.com](mailto:info@brivo.com).
 
-Brivo reserves the right to change this Privacy and Security Policy. Any changes to this policy will be posted to this page as soon as reasonably possible and will become effective immediately. For that reason, it is important that you check this page periodically. Use of the Brivo site constitutes consent to any policies then in effect.  
-  
----|---|---
+Brivo reserves the right to change this Privacy and Security Policy. Any changes to this policy will be posted to this page as soon as reasonably possible and will become effective immediately. For that reason, it is important that you check this page periodically. Use of the Brivo site constitutes consent to any policies then in effect.
