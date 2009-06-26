@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217163117id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626022117id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - FNWL
 
-[Send This Page to a Friend](https://web.archive.org/friend.asp)
+[](http://www.addthis.com/bookmark.php?v=20)
 
 Your privacy is very important to us. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.
 
@@ -16,15 +16,15 @@ There are several types of "cookies" that we use.
 
 > **Session Cookie** \- A session cookie is a temporary way of storing information. We store your "shopping cart number" in a session cookie. This is assigned when you first visit the site and is used throughout the system while you are visiting and placing an order. As soon as you visit another Web site or close your browser, this cookie disappears. 
 > 
-> **Persistent Cookie** \- A persistent cookie is used to store information about you that can then be accessed the next time you visit our site, such as your customer id. All From Nature With Love.com cookies expire 1 year from the last time you visit our site.
+> **Persistent Cookie** \- A persistent cookie is used to store information about you that can then be accessed the next time you visit our site, such as your customer id. All From Nature With Love cookies expire 1 year from the last time you visit our site.
 
 **Mailing List**
 
-> We offer an optional [mailing list](https://web.archive.org/web/20081217163117id_/http%3A//www.fromnaturewithlove.com/promomail.asp) to announce specials, new products, and new areas within our site. We do not automatically add anyone to our mailing list. Anytime that you wish to unsubscribe, simply follow the instructions within the mailing list e-mail to unsubscribe yourself. 
+> We offer an optional [mailing list](https://web.archive.org/promomail.asp) to announce specials, new products, and new areas within our site. We do not automatically add anyone to our mailing list. Anytime that you wish to unsubscribe, simply follow the instructions within the mailing list e-mail to unsubscribe yourself. 
 
 **Other Links**
 
-> This site contains [links](https://web.archive.org/web/20081217163117id_/http%3A//www.fromnaturewithlove.com/resources/links.asp) to other sites. FromNatureWithLove.com is not responsible for the privacy practices or the content of such Web sites. 
+> This site contains [links](https://web.archive.org/resources/links.asp) to other sites. From Nature With Love is not responsible for the privacy practices or the content of such Web sites. 
 
 **Security**
 
@@ -40,4 +40,4 @@ If you have any questions about this privacy statement or our Web site practices
 
 [webmaster@fromnaturewithlove.com ](mailto:webmaster@fromnaturewithlove.com)
 
-Thawte Authentic Site Secured by SSL - Click to Verify
+Â 
