@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912055609id_/http%3A//www.gridironsoftware.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridironsoftware.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091410id_/http%3A//www.gridironsoftware.com/gridiron/privacypolicy.html) for the most accurate reproduction.*
 
 # GridIron Software - Privacy Policy
 
+## Privacy Policy
+
 GRIDIRON SOFTWARE WEBSITE PRIVACY STATEMENT  
-_This document was last updated April 20, 2006_
+_This document was last updated 2009_
 
 GridIron is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to www.gridironsoftware.com; it does not apply to other online or offline GridIron sites, products or services. Please read the complete GridIron Website privacy statement. 
 
@@ -49,3 +51,11 @@ If you choose to not have your browser accept cookies from the GridIron Website,
 ## CHANGES TO THIS STATEMENT
 
 GridIron will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, GridIron will notify you by placing prominent notice on www.gridironsoftware.com.
+
+## Legal Notice
+
+Lightroom, Aftereffects, Dreamweaver, Flash, Photoshop, InDesign, Illustrator and PDF are trademarks owned by Adobe Systems Inc. 
+
+Powerpoint, Word and Windows Media Player are trademarks owned by Microsoft Inc. 
+
+Quicktime, iTunes and Final Cut Pro are trademarks owned by Apple Inc. 
