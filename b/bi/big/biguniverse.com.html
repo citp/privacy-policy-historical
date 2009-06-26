@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biguniverse.com privacy policy that was archived on 2008-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081225165352id_/http%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biguniverse.com privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626120437id_/http%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.-->
 
 <html><head><script></script>
 
@@ -7,28 +7,20 @@
 
   
     <title>Privacy Policy - BigUniverse.com</title>
-    <meta name="description" content="Big Universe(R) is an award winning web community devoted to beautiful children's picture books. READ hundreds of offerings from today's best children's book publishers, CREATE e-books with the help of an easy-to-use Author Tool, and CONNECT with other Big Universe members to share your creations and to learn what books they have read, created, or recommend. Parents, teachers, kids, authors, and others can share and learn while they enjoy this educational and entertaining website."> 
-    <meta name="keywords" content="read, create, publish, children's, kids, picture, books'>
-	<meta name=" verify-v1"="">
+    <meta name="description" content="Big Universe is an award-winning web community devoted to reading, creating and sharing children's picture books online."> 
+    <meta name="keywords" content="read, create, publish, children's, kids, picture, books">
+	<meta name="verify-v1" content="rtYe7R7yIRReLnILw+nxaYNjmRh/vdw2XpzdTBCN44Y=">
 	
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link href="/stylesheets/biguniverse.css" rel="Stylesheet" type="text/css">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="/home.rss">
+
+	<link href="/main/css" rel="stylesheet" type="text/css">
 
 
-    <link href="http://content.biguniverse.com/themes/default.css" rel="Stylesheet" type="text/css">
-
-
-
-<script src="/javascripts/prototype.js?1225161662" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1225161662" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1225161662" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1225161662" type="text/javascript"></script>
-<script src="/javascripts/application.js?1205678370" type="text/javascript"></script>      
 
 <script src="/javascripts/bubooks.js" type="text/javascript"></script>
 <script src="/javascripts/bucommon.js" type="text/javascript"></script>
 <script src="/javascripts/bookmark.js" type="text/javascript"></script>
-
 
 <script language="javascript"> AC_FL_RunContent = 0; </script>
 <script language="javascript"> DetectFlashVer = 0; </script>
@@ -41,86 +33,13 @@
 	var requiredRevision = 24;
 </script>
 
-<script>
-    var isWin = navigator.appVersion.indexOf('Win') != -1;
-    var isSafari = navigator.appVersion.indexOf('Safari') != -1;
-    var isOpera = navigator.userAgent.indexOf('Opera') != -1;
-    var isMacIE52 = navigator.userAgent.indexOf('MSIE 5.2') != -1 && ! win;
-    var isIE = navigator.userAgent.indexOf('MSIE') != -1;
-</script>
-
-
-<script>
-function addtofavorite(type, id){
-	if(document.getElementById("favorites-content")){
-	  	if (Element.visible('favorites-content')) {
-			new Effect['BlindUp']('favorites-content', {duration: 0.10});
-			document.getElementById("arrowfavorites").src = "/images/buttons/listopen.jpg";
-		}
-		
-	  	new Ajax.Updater('favorites-content', '/member/addfavorite/' + type + '/' + id, {
-	        method:     'post',
-	        onFailure:  function() {Element.classNames('favorites-content').add('failure')},
-	        onComplete: function() {
-				new Effect.ScrollTo('addfavoritepoint',{duration:1.0});
-				new Effect.BlindDown('favorites-content', {duration: 0.50});
-				new Effect.Highlight(document.getElementById("favorite"+type+id), {duration: 2.50});
-			}
-	      });
-		document.getElementById("arrowfavorites").src = "/images/buttons/listclose.jpg";
-	}else{
-		window.location = "/member/signin"
-	}
-}
-  
-function addtowishlist(type,id){
-	if(document.getElementById("wishlist-content")){
-	  	if (Element.visible('wishlist-content')) {
-			new Effect['BlindUp']('wishlist-content', {duration: 0.50});
-			document.getElementById("arrowwishlist").src = "/images/buttons/listopen.jpg";
-		}
-		
-	  	new Ajax.Updater('wishlist-content', '/member/addwishlist/'+type+'/'+id, {
-	        method:     'post',
-	        onFailure:  function() {Element.classNames('wishlist-content').add('failure')},
-	        onComplete: function() {
-				document.getElementById("arrowwishlist").src = "/images/buttons/listclose.jpg";
-				new Effect.ScrollTo('addwishlistpoint',{duration:1.0});
-				new Effect.BlindDown('wishlist-content', {duration: 0.50});
-				new Effect.Highlight(document.getElementById("wishlist"+type+id), {duration: 2.50});
-			}
-	      });
-	}else{
-		window.location = "/member/signin"
-	}
-}
-        
-function showlist(tag, arrowicon, action_list) {
-    if (!(Element.visible(tag))) {
-      new Ajax.Updater(tag, action_list, {
-        method:     'post',
-		onLoading: function(){ document.getElementById("img_"+tag).style.display = "";},
-		onLoaded: function(){ document.getElementById("img_"+tag).style.display = "none";},
-        onFailure:  function() {Element.classNames(tag).add('failure')},
-        onComplete: function() {new Effect.BlindDown(tag, {duration: 0.50}); document.getElementById(arrowicon).src = "/images/buttons/listclose.jpg"; }
-      });
-    } else {
-      new Effect['BlindUp'](tag, {duration: 0.50});
-      document.getElementById(arrowicon).src = "/images/buttons/listopen.jpg";
-    }
-}
-  
-function deleteItem(tag,action_delete){
-  	if(confirm("Are you sure you want to delete the selected item?")){
-		Effect.Puff(tag);
-		new Ajax.Request(action_delete, {
-            method:     'post'
-          });
-	}
-}
-
-</script>
-
+	<script>
+	    var isWin = navigator.appVersion.indexOf('Win') != -1;
+	    var isSafari = navigator.appVersion.indexOf('Safari') != -1;
+	    var isOpera = navigator.userAgent.indexOf('Opera') != -1;
+	    var isMacIE52 = navigator.userAgent.indexOf('MSIE 5.2') != -1 && ! win;
+	    var isIE = navigator.userAgent.indexOf('MSIE') != -1;
+	</script>
   </head>
 
 
@@ -130,38 +49,52 @@ function deleteItem(tag,action_delete){
 <a name="top"></a>
 
 
-<table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td>
 
-<div style="margin-top: 3px; margin-bottom: 3px;">
-<table width="95%" border="0" cellpadding="0" align="center">
+<div style="margin-top: 0px; margin-bottom: 3px;" class="noprint">
+<table width="905" border="0" cellpadding="0" align="center">
 	<tbody><tr>
 		<td align="left">
 			
-			    <a href="/member/signin?furl=%2Fmain%2Fprivacy"><font color="#FFFFFF">Sign In</font></a> 
+			    <a class="bu_medium" href="https://www.biguniverse.com/member/signin?furl=%2Fmain%2Fprivacy"><!-- <img src="/images/buttons/icon-signup.gif" border="0" width="16" height="16" style="vertical-align: top"> --><font color="#FFFFFF">Sign In</font></a> 
 
 				<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
-				<a href="/member/signup"><img src="/images/buttons/icon-signup.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Sign Up!</font></a>
+				<a class="bu_medium" href="/account"><font color="#FFFFFF">Sign Up!</font></a>
 
-				<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
-				<a href="/main/benefits"><img src="/images/icons/smiley.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Benefits</font></a>
 
-				<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
-				<a href="/main/newslettersubscribe"><img src="/images/buttons/icon-newsletter.jpg" border="0" style="vertical-align: top"> <font color="#FFFFFF">Newsletter</font></a>
-				
 			
 
+			<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+			<a class="bu_medium" href="/search"><font color="#FFFFFF">Search</font></a>
+			
 		</td>
 		
 		<td align="right">
-			<a href="/main/linktous"><img src="/images/buttons/icon-linktous.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Link to Us</font></a>
+
+							
+				<a class="bu_medium" href="http://blog.biguniverse.com/"><font color="#FFFFFF">Blog</font></a>
+
+				<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
+				<a class="bu_medium" href="/main/newslettersubscribe"><font color="#FFFFFF">Newsletter</font></a>
+			
 
 			<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
-			<a href="/main/tellafriend"><img src="/images/buttons/button-callout-bubble.gif" border="0" style="vertical-align: top"> <font color="#FFFFFF">Invite Friends</font></a>
+			<a class="bu_medium" href="/main/linktous"><font color="#FFFFFF">Link to Us</font></a>
 
 			<span class="bu_tiny">&nbsp;&nbsp;&nbsp;</span>
-			<a href="/search"><img src="/images/icons/bookshelf.jpg" border="0" style="vertical-align: top"> <font color="#FFFFFF">Search</font></a>
+			<a class="bu_medium" href="/main/tellafriend"><font color="#FFFFFF">Tell a Friend</font></a>
+
+<!--
+							
+				<span class="bu_tiny">&nbsp;&nbsp;</span>
+				<a class="bu_medium" href="http://twitter.com/biguniverse/"><img src='/images/icons/icon-follow-twitter.jpg' width='40' height='16' align='absmiddle' border='0' hspace='0'></a>
+			
+
+			<span class="bu_tiny">&nbsp;&nbsp;</span>
+            <a class="bu_medium" href="http://www.biguniverse.com/home.rss"><img src="/images/icons/rss.png" alt="rss feed" title="RSS Feeds" width="16" height="16" border="0" hspace="0" align="absmiddle"></a>
+-->
 		</td>
 	</tr>
 </tbody></table>
@@ -180,45 +113,8 @@ function deleteItem(tag,action_delete){
 <script src="/javascripts/AC_RunActiveContent.js" language="javascript"></script>
 
 
-<!--url's used in the movie-->
-<!--text used in the movie-->
-<!-- saved from url=(0013)about:internet -->
-<script language="javascript">
-	if (AC_FL_RunContent == 0) {
-		alert("This page requires AC_RunActiveContent.js.");
-	} else {
-		AC_FL_RunContent(
-			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
-			'width', '970',
-			'height', '146',
-			'src', '/flash/navbar/navigationbuttons',
-			'quality', 'high',
-			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-			'align', 'middle',
-			'play', 'true',
-			'loop', 'true',
-			'scale', 'showall',
-			'wmode', 'transparent',
-			'devicefont', 'false',
-			'id', 'navigationbuttons',
-			'bgcolor', '#0f151c',
-			'name', 'navigationbuttons',
-			'menu', 'true',
-			'allowFullScreen', 'false',
-			'allowScriptAccess','sameDomain',
-			'movie', '/flash/navbar/navigationbuttons',
-			'flashvars', 'homelink=/&readlink=/readkidsbooks&createlink=/createkidsbooks&connectlink=/kidsbookclub',
-			'salign', ''
-			); //end AC code
-	}
-</script><embed width="970" height="146" src="/flash/navbar/navigationbuttons.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#0f151c" name="navigationbuttons" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" flashvars="homelink=/&amp;readlink=/readkidsbooks&amp;createlink=/createkidsbooks&amp;connectlink=/kidsbookclub" salign="" type="application/x-shockwave-flash"> 
-<noscript>
-	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="970" height="146" id="navigationbuttons" align="middle">
-	<param name="allowScriptAccess" value="sameDomain" />
-	<param name="allowFullScreen" value="false" />
-	<param name="movie" value="/flash/navbar/navigationbuttons.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#0f151c" />	<embed src="/flash/navbar/navigationbuttons.swf" quality="high" wmode="transparent" bgcolor="#0f151c" width="970" height="146" name="navbar_v5" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-	</object>
-</noscript>
+
+<div align="center"><a href="/"><img src="/content/themes/default-logo.jpg" width="950" height="145" alt="BigUniverse.com Home Page" title="BigUniverse.com Home Page" border="0"></a></div>
 
 
         </td>
@@ -228,13 +124,39 @@ function deleteItem(tag,action_delete){
   </tr>
 
 
-  
+	  <tr class="bu_pagebackground">
+	      <td align="right" width="100%">
+	      	
+			
+
+
+
+<div align="center" style="padding-top: 5px; background: white;">
+	<img name="tabhomethin" src="/images/tab-home-thin.jpg" width="950" height="50" border="0" id="tabhomethin" usemap="#m_tabhomethin" alt=""><map name="m_tabhomethin" id="m_tabhomethin">
+	<area shape="rect" coords="711,0,950,50" href="/kidsbookclub" title="Children's Book Club Online" alt="Children's Book Club Online">
+	<area shape="rect" coords="474,0,713,50" href="/createkidsbooks" title="Create &amp; Publish Children's Books Online" alt="Create &amp; Publish Children's Books Online">
+	<area shape="poly" coords="240,0,476,0,476,50,240,50,240,0" href="/readkidsbooks" title="Read The Best Children's Books Online" alt="Read The Best Children's Books Online">
+	<area shape="poly" coords="0,0,239,0,239,50,0,50,0,0" href="/" title="Home Page" alt="Home Page">
+	</map>
+</div>
+
+			
+	         <a href="/main"><img src="/images/title-privacy.jpg" width="950" height="36" hspace="0" border="0" vspace="0" alt="Privacy Policy"></a>
+			
+	      </td>
+	  </tr>
+
+    
   <tr class="bu_pagebackground">
     <td>
-    <table width="100%" border="0" cellspacing="0" cellpadding="20">
+    <table width="100%" border="0" cellspacing="4" cellpadding="0">
+
       <tbody><tr>
-        <td valign="top">
-    
+		
+
+	    <td valign="top" wrap="">
+	        
+		    
 
 <table width="100%" border="0" cellspacing="0" cellpadding="20">
   <tbody><tr>
@@ -289,14 +211,21 @@ function deleteItem(tag,action_delete){
   </tr>
 </tbody></table>
 
-        </td>
+	    </td>
+	    
+		
+      </tr>
+    </tbody></table></td>
       </tr>
     </tbody></table>
-</td>
-  </tr>
 
-  <tr>
-    <td align="center" valign="bottom" nowrap="">
+  
+
+  
+    
+
+
+<div class="noprint">
 <br>
 <p align="center" class="bu_small">
     <a href="/"><font color="#FFFFFF">Home</font></a>
@@ -305,109 +234,58 @@ function deleteItem(tag,action_delete){
 	<a href="/main/about"><font color="#FFFFFF">About</font></a> 
 
      &nbsp;&nbsp;
-	<a href="/main/feedback"><font color="#FFFFFF">Contact</font></a> 
+	<a href="/contact"><font color="#FFFFFF">Contact</font></a> 
 
-     &nbsp;&nbsp;
-	<a href="/main/media"><font color="#FFFFFF">Media</font></a> 
-
-     &nbsp;&nbsp;
-    <a href="/kidsbookshops/pubprograms"><font color="#FFFFFF">Publishers</font></a>
-
-     &nbsp;&nbsp;
-    <a href="/main/advertisers"><font color="#FFFFFF">Advertisers</font></a>
-
-     &nbsp;&nbsp;
-    <a href="/main/terms"><font color="#FFFFFF">Terms of Use</font></a>
-
-     &nbsp;&nbsp;
-    <a href="/main/privacy"><font color="#FFFFFF">Privacy Policy</font></a>
-
-     &nbsp;&nbsp;
-	<a href="/main/sitemap"><font color="#FFFFFF">Site Map</font></a> 
-
-<!--
-     &nbsp;&nbsp;
-	<a href="/main/help"><font color="#FFFFFF">Help</font></a> 
--->	
+					
+	     &nbsp;&nbsp;
+		<a href="/main/media"><font color="#FFFFFF">Media</font></a>
 	
-</p>
 
-<p align="center">
-<!-- <a href="javascript:launchSiteTour()"><img src="/images/buttons/button-sitetour-box.jpg" alt="Take a tour of the site" title="Click here to launch the site tour now." width="100" hspace="5" height="40" border="0"></a>
--->
-<a href="/main/tellafriend"><img src="/images/buttons/button-tellafriend-box.jpg" alt="Tell someone about us" title="Click here to tell someone about us." width="100" hspace="5" height="40" border="0"></a>
+     &nbsp;&nbsp;
+    <a href="/main/teachers"><font color="#FFFFFF">Teachers</font></a>
 
-  
-	  <a href="/main/newslettersubscribe"><img src="/images/buttons/button-newsletter-box.jpg" width="100" height="40" border="0" hspace="5" alt="Stay current with our newsletter?" title="Not subscribed to our newsletter?  Don't miss out."></a>
-  
-  
-	  <a href="/member/signin"><img src="/images/buttons/button-benefits-box.jpg" width="100" height="40" border="0" hspace="5" alt="Benefits of our free membership" title="Not a member?  Click here to find out what you are missing!"></a>
-  
+     &nbsp;&nbsp;
+    <a href="/main/parents"><font color="#FFFFFF">Parents</font></a>
+
+     &nbsp;&nbsp;
+    <a href="/main/terms"><font color="#FFFFFF">Terms</font></a>
+
+     &nbsp;&nbsp;
+    <a href="/main/privacy"><font color="#FFFFFF">Privacy</font></a>
+
+     &nbsp;&nbsp;
+	<a href="/help"><font color="#FFFFFF">Help</font></a>
+				
 
 </p>
-
-<p align="center" class="bu_tiny"><font color="#FFFFFF">© 2008 Big Universe Inc. All rights reserved.</font> </p>
-
-<br>
-<div align="center" class="bu_tiny">
-	<table border="0" cellpadding="0" cellspacing="1">
-		<tbody><tr><td>
-		<table border="0" cellpadding="3" cellspacing="0">
-		<tbody><tr align="center">
-			<td nowrap="" colspan="8"><em><font color="#FFFFFF">Bookmark/Share This Site</font></em><br><br></td>
-		</tr>
-	
-		<tr align="center" valign="top" class="bu_tiny">
-			<td width="50">
-				<a href="javascript:bookmark('delicious');"><img src="/images/bookmark/delicious.gif" alt="delicious" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('delicious');"><font color="#FFFFFF">del.icio.us</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('digg');"><img src="/images/bookmark/digg.gif" alt="digg" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('digg');"><font color="#FFFFFF">Digg</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('reddit');"><img src="/images/bookmark/reddit.gif" alt="reddit" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('reddit');"><font color="#FFFFFF">Reddit</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('stumbleupon');"><img src="/images/bookmark/stumbleit.gif" alt="stumbleupon" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('stumbleupon');"><font color="#FFFFFF">StumbleUpon</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('google');"><img src="/images/bookmark/google.gif" alt="google" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('google');"><font color="#FFFFFF">Google</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('yahoo');"><img src="/images/bookmark/yahoo.gif" alt="yahoo" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('yahoo');"><font color="#FFFFFF">Yahoo</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('facebook');"><img src="/images/bookmark/facebook.gif" alt="facebook" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('facebook');"><font color="#FFFFFF">Facebook</font></a></span>
-			</td>	
-			<td width="50">
-				<a href="javascript:bookmark('technorati');"><img src="/images/bookmark/technorati.gif" alt="technorati" border="0"></a><br>
-				<span class="bu_tiny"><a href="javascript:bookmark('technorati');"><font color="#FFFFFF">Technorati</font></a></span>
-			</td>	
-		</tr>
-		</tbody></table>
-	</td></tr></tbody></table>
 </div>
 
-    </td>
-  </tr>
-</tbody></table>
+<p align="center" class="bu_tiny"><font color="#FFFFFF">© 2009 Big Universe Inc. All rights reserved.</font> </p>
+
+<!--
+<p align="center"><img src="/images/other/all-logos.gif" width="457" height="73"></p>
+-->
 
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+    
+  
+
+
+
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-2655031-1";
 urchinTracker();
 </script>
 
+
+
+<br>
+<br>
+<br>
 
 
 
