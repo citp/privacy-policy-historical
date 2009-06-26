@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607010217id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizland.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626025322id_/http%3A//www.bizland.com/about/privacy.bml) for the most accurate reproduction.*
 
 # BizLand's Privacy Policy
 
-|    
-|  | 
+|  |  | 
 
 Your privacy is very important to BizLand ("BizLand"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
@@ -48,7 +47,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   13. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
   
 
-  14. **BizLand's Commitment to Data Security.** Services and Web sites we sponsor have security measures in place to protect against the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+  14. **BizLand's Commitment to Data Security.** Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts.
   
 
   15. **How to Access or Modify Your Information.** To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact BizLand Support by phone or through our online support form.
@@ -94,7 +93,7 @@ Please note: BizLand reserves the right to send e-mail communications relating d
   20. **Revisions to This Policy.** BizLand reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: October 2007   
+Revised: January 2020   
 
 
 | 
