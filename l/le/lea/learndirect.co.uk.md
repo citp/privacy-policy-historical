@@ -1,6 +1,66 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053406id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626090853id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # learndirect - Privacy
+
+##  Summary 
+
+###  Scope 
+
+This notice provides a summary of the full **learndirect** Privacy Statement. Both the notice and the **learndirect** Privacy Statement apply to information collected by Ufi Limited via the [www.learndirect.co.uk](http://www.learndirect.co.uk/) website and in any manner described in the **learndirect** Privacy Statement. 
+
+###  Personal Information 
+
+We collect personal data about you when you enrol as a learner. For further information, [click here](http://www.learndirect.co.uk/privacystatement/#2). At enrolment, we may ask you for [sensitive personal data](http://www.learndirect.co.uk/privacystatement/#7) and for your consent to use it for a specific purpose. If you do not wish to provide this information, you way select the Not Known/Not Provided option. 
+
+We share some of your personal data with the Managing Information Across Partners (MIAP) service, operated by the Learning and Skills Council (LSC). MIAP offers a Learner Registration Service to allocate Unique Learner Numbers (ULNs) which enable individuals to access their participation and achievement data. MIAP will share your Ufi participation and achievement data with other organisations if you tell Ufi that you are happy for MIAP to do so. For further information, [click here](http://www.learndirect.co.uk/privacystatement/#miap). 
+
+If government funding is available for your course, we collect personal data from you to see if you can have that funding. For further information, [click here](http://www.learndirect.co.uk/privacystatement/#3). 
+
+When you access your course materials we collect information about how you use those materials. 
+
+We collect certain personal data about you when you enter competitions. For further information, [click here](http://www.learndirect.co.uk/privacystatement/#5). 
+
+You may provide us with further personal data if you use one of our learning or communications facilities or use one of our online skills tests. For further information [click here](http://www.learndirect.co.uk/privacystatement/#6). 
+
+We use cookies and other technologies to keep track of how you interact with our website and to target advertising. For further information about this and about third party technologies that may be used, please [click here](http://www.learndirect.co.uk/privacystatement/#16). 
+
+###  Purposes and Disclosures 
+
+We use your personal information to deal with your queries, to provide you with the services you request, to determine whether you are eligible for government funding (if available) and for general statistics and research. 
+
+Depending on the preferences indicated by you, we may use your personal data to contact you about **learndirect** developments and offers and for customer feedback. For more information, [click here](http://www.learndirect.co.uk/privacystatement/#10). 
+
+We may disclose your personal data to your sponsor, if you are being sponsored by your employer or by a trade organisation or other group. 
+
+We may disclose your information to third parties who may take over some or all of the **learndirect** business in the future. 
+
+We may disclose your information to certain government agencies in connection with the funding of your course. For further information, [click here](http://www.learndirect.co.uk/privacystatement/#6). 
+
+We will disclose your personal data to the approved learning provider that will be delivering and supporting your learning (who may use it for any of the above purposes). Following registration and enrolment all of our approved learning providers will have access to your name, date of birth, address, username, learner reference number and details of which **learndirect** courses you have enrolled on in the past. 
+
+###  Your Choices 
+
+You can request that: 
+
+  * your details not be used for marketing purposes; 
+  * we provide you with a copy of the information we hold about you (we will charge you a small fee); 
+  * we correct inaccuracies in your information. 
+
+
+
+You may also turn cookies off in your browser. However if you do so, you may not be able to use certain features on the website. For more information, [click here](http://www.learndirect.co.uk/privacystatement/#16). 
+
+###  Important Information 
+
+Your personal data is protected by UK data protection law. You can find the details for the UK Information Commissioner at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/). 
+
+You can access more information on our privacy practices in the full Privacy Statement by [clicking here](http://www.learndirect.co.uk/privacystatement/#full). 
+
+###  How to contact us 
+
+To obtain a copy of your personal data, to correct inaccuracies or if you have any queries or concerns about how we handle your personal data, please contact:  Ufi Limited, Dearing House, 1 Young Street, Sheffield, S1, call freephone number: 08000 150 450, or email: [enquiries@learndirect.net](mailto:enquiries@learndirect.net)
+
+##  Full Privacy Statement 
 
 By using this website you accept the terms of this privacy statement, the [copyright](http://www.learndirect.co.uk/copyright/) statement and the [terms and conditions](http://www.learndirect.co.uk/terms/) on this website. 
 
@@ -13,6 +73,7 @@ Follow the hyperlinks below for more information about our policies and practice
   * **[Giving information for other people](http://www.learndirect.co.uk/privacystatement/#1)**
   * **[The information we collect during registration or enrolment](http://www.learndirect.co.uk/privacystatement/#2)**
   * **[Other information we collect to see if you can have government funding](http://www.learndirect.co.uk/privacystatement/#3)**
+  * **[Learner files](http://www.learndirect.co.uk/privacystatement/#learner)**
   * **[The information we collect when you access course materials](http://www.learndirect.co.uk/privacystatement/#4)**
   * **[The information we collect when you enter competitions](http://www.learndirect.co.uk/privacystatement/#5)**
   * **[Other information we collect](http://www.learndirect.co.uk/privacystatement/#6)**
@@ -85,6 +146,10 @@ If government funding is available for any of our courses, you need to answer so
 
 We, or our approved learning providers, may require additional information from you in order to support an application for funding. If you do not want to provide us with this information, we will not be able to offer you the course at the reduced price. 
 
+###  Learner File 
+
+When you start your learning your Learning Provider will create a Learner File to hold the documents which relate to your learning and evidence of proof of identity and funding eligibility. As you progress through your learning other documents, including some of your course work, may be held on this file which Ufi/ **learndirect** requires the Learning Provider to keep on its behalf. 
+
 ###  The information we collect when you access course materials 
 
 We collect information about how you use course materials to monitor your learning and improve our users' learning experience. 
@@ -114,6 +179,8 @@ You may also provide personal data through:
   * calls to our helplines; 
   * letters and email; 
   * customer feedback forms; 
+  * the **learndirect** “Community”; or 
+  * other learning or communications facility offered by us. 
 
 
 
@@ -139,13 +206,16 @@ You may also volunteer sensitive personal data to us or our approved learning pr
 
 ###  How we use the information we collect 
 
-We use your personal information: 
+We use your personal information and your Learner File: 
 
   * to answer your queries or complaints; 
   * to deliver our services, for example on-line tools to test your skills; 
+  * to provide the **learndirect** “Community” facility; 
   * to support your learning; 
   * to provide course materials; 
   * to carry out administration; 
+  * to improve the quality of services; 
+  * to support your application for government funding; 
   * for general statistics and research; 
   * for obtaining any relevant professional advice; 
   * as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights. 
@@ -154,9 +224,9 @@ We use your personal information:
 
 ###  Third parties and sponsors 
 
-To achieve the purposes set out in this privacy statement we may need to give your information to our service providers (including our approved learning providers), agents, professional advisors and auditors and to your tutor(s). When you enrol on a course, we will tell you which of our approved learning providers will be delivering and supporting your learning. Following enrolment via the website, all of our approved learning providers will have access to your name, date of birth, address, username, learner reference number and which **learndirect** courses you have enrolled on in the past as well as details relating to these **learndirect** courses to help us deliver our services to you. 
+To achieve the purposes set out in this privacy statement we may need to share your information and Learner File with our service providers (including our approved learning providers), agents, professional advisors and auditors and to your tutor(s). When you enrol on a course, we will tell you which of our approved learning providers will be delivering and supporting your learning. Following enrolment via the website, all of our approved learning providers will have access to your name, date of birth, address, username, learner reference number and which **learndirect** courses you have enrolled on in the past as well as details relating to these **learndirect** courses to help us deliver our services to you. 
 
-We may also give your information to third parties who may take over part or all of the **learndirect** business in the future, but only for the purposes outlined in this privacy statement. If your employer, trade organisation or other group is sponsoring you, we may give the personal information we have collected to your sponsor to monitor your learning. 
+We may also give your information to third parties who may take over part or all of the **learndirect** business in the future, but only for the purposes outlined in this privacy statement. If your employer, trade organisation or other organisation is sponsoring or supporting you, we may give the personal information we have collected to your sponsor to monitor your learning. 
 
 Communications between you and your tutor using any of the tools or functions we make available to you (including unopened messages sent via our messaging system) may be monitored by **learndirect** staff to check the quality of tutor support. **learndirect** staff and auditors may also access these communications when we want to investigate or audit learner funding arrangements. 
 
@@ -172,17 +242,17 @@ We, and our approved learning providers, will use your information to send you r
 
 If you enrol on a **learndirect** course but do not wish to receive this information, untick the relevant boxes on the ’contact permissions’ page (inviting us to contact you by post and for customer feedback purposes). If you do wish to receive information about **learndirect** developments and offers by telephone, email and/or SMS, please invite us to contact you by ticking the appropriate boxes. If at any time, you change your mind about receiving updates, you can change your preferences using "your details" on your learner home page. 
 
-If you are simply requesting a free information pack, you can invite us to send you updates by ticking the appropriate boxes on the "request more information" page. If you change your mind about us contacting you for this purpose, please ring us on **08000  101 901** or [ email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query). 
+If you are simply requesting a free information pack, you can invite us to send you updates by ticking the appropriate boxes on the "request more information" page. If you change your mind about us contacting you for this purpose, please ring us on **0800  101 901** or [ email us](mailto:enquiries@learndirect.net?Subject=Privacy%20Statement%20query). 
 
 We will never use your sensitive personal data for marketing purposes or to target you for customer feedback purposes without your express consent. 
 
 ###  Funding 
 
-We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Welsh Assembly Government](http://www.wales.gov.uk/) for learners who enrol in Welsh centres. If you are a learner between the ages of 16-19 years of age (or up to 25 years of age for learners with learning difficulties or disabilities), we are required by the LSC to notify Connexions when you leave, or intend to leave learning. We, or our approved learning providers, may also share it with the Office for Standards in Education, Children’s Services and Skills (Ofsted) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price. 
+We, and our approved learning providers, may use your personal data to process or to support any application made for funding associated with your learning. For these purposes we, or our approved learning providers, will share the information you supply with the [Learning and Skills Council (LSC)](http://www.lsc.gov.uk/) in England. The LSC may in turn share it with the European Social Fund, or other government agencies that may provide funding for your course, including the [Welsh Assembly Government](http://www.wales.gov.uk/) for learners who enrol in Welsh centres. We may use a third party service to verify your identity for funding eligibility. If you are a learner between the ages of 16-19 years of age (or up to 25 years of age for learners with learning difficulties or disabilities), we are required by the LSC to notify Connexions when you leave, or intend to leave learning. We, or our approved learning providers, may also share it with the Office for Standards in Education, Children’s Services and Skills (Ofsted) so that it can check our use of public monies. If you do not want us to use your personal data for these purposes, we will not be able to offer you the course at the reduced price. 
 
 At the point this information is collected you will be asked to indicate if you do not wish to be contacted by the LSC or its partners in respect of courses, surveys and research. Please read the [LSC Data Protection Statement](http://www.learndirect.co.uk/home/ilr/lscdpa/)
 
-We, or the government agency providing funding for your course, may use your personal data to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course. We may also contact you for the purposes of any such investigation. 
+We, or the government agency providing funding for your course, may use your personal data and Learner File to investigate a suspected misuse of public monies or other fraudulent activity by any person relating to your learning activity. In doing so, we, or the government agency providing funding for your course, may disclose your information to other government agencies (e.g. the [Department for Work and Pensions](http://www.dwp.gov.uk/)) to establish whether there has been any duplication of funding for your course. We may also contact you for the purposes of any such investigation. 
 
 ###  Managing Information Across Partners (MIAP) and the Unique Learner Number (ULN) 
 
@@ -232,7 +302,7 @@ Please look at the terms and conditions on this website for our policy on purgin
 
 ###  Keeping your personal data 
 
-We keep personal data : 
+We keep personal data and Learner Files: 
 
   * for as long as is necessary to fulfil the purposes we collected it for; 
   * as required by law; or 
@@ -286,4 +356,4 @@ Our website contains links to other websites. We are not responsible for the pri
 
 You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although will still only be used in accordance with this privacy statement. 
 
-**Last updated : 4th August 2008**
+**Last updated : 11th  March 2009**
