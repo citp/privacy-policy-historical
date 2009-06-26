@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2007-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071016165846id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626154809id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheng & Tsui
 
