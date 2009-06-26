@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011750id_/http%3A//www.killsometime.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626100530id_/http%3A//www.killsometime.com/privacy.asp) for the most accurate reproduction.*
 
 # KillSomeTime.com - Privacy Policy
 
@@ -18,42 +18,42 @@ Your use of the KillSomeTime.com website signifies your acceptance of this Priva
 
 Random Funny Pictures 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=744 "Dykes!")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=966 "Squirrel having a Drink")
 
-**Hits:** 64,134   |    **Rating:** (7.7) 
+**Hits:** 25,840   |    **Rating:** (9.7) 
 
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=375 "Buck Tooth Dogs")
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=246 "Rough Night")
 
-**Hits:** 467,256   |    **Rating:** (7.4) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=860 "Pumpkin Fatality")
-
-**Hits:** 10,412   |    **Rating:** (4.0) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=175 "Dont pass out next to a Dog Kennel")
-
-**Hits:** 292,544   |    **Rating:** (6.8) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=111 "Now thats a Beer GUT")
-
-**Hits:** 271,887   |    **Rating:** (5.3) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=202 "Redneck Tree House")
-
-**Hits:** 227,384   |    **Rating:** (6.0) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=783 "Can you find the Camel?")
-
-**Hits:** 84,635   |    **Rating:** (9.1) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=25 "Good Advertising for KY")
-
-**Hits:** 230,207   |    **Rating:** (6.6) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=817 "Camel Toe Olympics")
-
-**Hits:** 54,303   |    **Rating:** (9.3) 
+**Hits:** 408,987   |    **Rating:** (6.0) 
 
 [ ](http://www.killsometime.com/Pictures/Picture.asp?ID=78 "Now thats a Beer Belly")
 
-**Hits:** 263,832   |    **Rating:** (4.9) 
+**Hits:** 292,520   |    **Rating:** (4.9) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=414 "Batman to the Rescue")
+
+**Hits:** 602,891   |    **Rating:** (5.0) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=744 "Dykes!")
+
+**Hits:** 101,359   |    **Rating:** (7.5) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=11 "Homemade Air Bags")
+
+**Hits:** 317,185   |    **Rating:** (5.7) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=531 "Foot Finger")
+
+**Hits:** 149,364   |    **Rating:** (6.2) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=951 "Huge Sink Hole")
+
+**Hits:** 25,762   |    **Rating:** (7.3) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=758 "Balloon Porn")
+
+**Hits:** 97,670   |    **Rating:** (7.2) 
+
+[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=782 "Masturbating in the Showers")
+
+**Hits:** 109,892   |    **Rating:** (8.3) 
