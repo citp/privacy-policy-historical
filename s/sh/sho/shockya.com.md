@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218223735id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626114132id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Toxic Shock TV - Privacy Policy and Terms of Use
 
@@ -15,7 +15,8 @@ By providing any/all personal information to us, you understand and clearly cons
 
 **Cookies & Tracking**
 
-We use various ad systems to track our marketing material, these ads can and often contain cookies. Third parties companies may also use tracking technologies (counters, etc.) by or through our site. We have no responsibility or liability for any tracking data collection or other activities of such third parties. We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information. 
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please visit:  
+http://www.doubleclick.com/privacy/index.aspx.
 
 **Use of Information**
 
@@ -38,7 +39,11 @@ We will use information collected from you in the following ways:
 
 **Doubleclick.** This website may utilize certain services provided by DoubleClick, Inc. ("DoubleClick"). For further information concerning DoubleClick’s privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to http://www.doubleclick.com/us/about_doubleclick/privacy/
 
+**Google** , as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+Please visit http://www.google.com/privacy_ads.html for more info. 
+
 We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
 
   
-© 2007-2008 Toxic Shock TV, California. All rights reserved.
+© 2007-2009 Shockya.com, California. All rights reserved.
