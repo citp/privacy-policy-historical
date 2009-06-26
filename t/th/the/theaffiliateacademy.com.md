@@ -1,57 +1,100 @@
-> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217040621id_/http%3A//www.theaffiliateacademy.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D10%26Itemid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626212454id_/http%3A//theaffiliateacademy.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D22%26Itemid%3D17) for the most accurate reproduction.*
 
-# The Affiliate Academy - Privacy Policy
+# Privacy Policy
 
-Thank you for visiting The Affiliate Academy, Inc.'s ("The Affiliate Academy") personal data management and e-commerce Internet web site ("Site") located at the URL www.theaffiliateacademy.com. This Privacy Policy details certain policies implemented throughout The Affiliate Academy governing The Affiliate Academy's use of personally identifiable information provided to The Affiliate Academy via this Site.
+**BACKGROUND:   **This Policy applies as between you, the User of this and any web site you visit that is owned and operated by www.theaffiliateacademy.com This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
 
-**Privacy Policy Updates**
+ **1\. Definitions and Interpretation**  
+In this Policy the following terms shall have the following meanings: 
 
-Due to the Internet's rapidly evolving nature, The Affiliate Academy may need to update this Privacy Policy from time to time.  If so, The Affiliate Academy will post its updated Privacy Policy on our Site located at www.theaffiliateacademy.com so you are always aware of what personally identifiable information we may collect and how we may use this information.  The Affiliate Academy encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+"Account" means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
 
-**Information Collection and Use**
+"Cookie" means a small text file placed on your computer by www.theaffiliateacademy.com when you visit certain parts of our Web Sites. This allows us to identify recurring visitors and to analyze their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your information. Further details are contained in Clause 10 and Schedule 1 of this Policy;
 
-You can generally visit our Site without revealing any personally identifiable information about yourself.  However, in certain sections of this Site, to use certain services, we may require you to register for an account, or we may invite you to submit questions or comments or request information, participate in surveys, questionnaires or contests, subscribe to newsletters or participate in community forums.  Due to the nature of some of these activities, we may ask that you complete and submit an online form with personally identifiable information such as your name, username, email address, contact information and credit card information.  We may use your personally identifiable information to deliver certain services, products or information you have requested, verify your authority to enter certain password protected areas of the Site, send you notices for products and/or services that you have used or that may be of interest to you, and improve the content and general administration of the Site.  If you are a registered user and post to any of the Sites community forums, other registered users of this Site may view your username and may send you emails, but they will not be able to see your actual email address.  We may use your personally identifiable information to send you advertisements and other promotional information regarding our products and services or the products and services of our third party marketing partners and other communications related to the Site. 
+"Data" means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
 
-**Children's Privacy**
+"www.theaffiliateacademy.com" means www.theaffiliateacademy.com;
 
-The Affiliate Academy recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests.  No personally identifiable information is collected by The Affiliate Academy and The Affiliate Academy's services and Site are not intended for children under the age of 13.  The Affiliate Academy does not target its services or this Site to children under 13.  The Affiliate Academy does not knowingly collect personally identifiable information from children under the age of 13.
+"Service" means collectively any online facilities, tools, services or information that www.theaffiliateacademy.com makes available through the Web Site either now or in the future;
 
-**Cookies**
+"System" means any online communications infrastructure that www.theaffiliateacademy.com makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you.  Cookies must be enabled for you to use certain areas of the Site.
+"User" / "Users" means any third party that accesses the Web Site and is not employed by www.theaffiliateacademy.com and acting in the course of their employment; 
 
-Advertisements that appear on this Site are delivered to users by our advertising partners. Our advertising partners may download cookies to your computer. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. The Affiliate Academy does not have access to or control of the cookies that may be placed by the third party advertisers.
+and "Web Site" means the website that you are currently using and any sub-domains of this site and all sites owned by www.theaffiliateacademy.com unless expressly excluded by their own individual terms and conditions.
 
-**Aggregate Information**
+ **2\. Data Collected**  
+Without limitation, any of the following Data may be collected:  
+2.1 name;  
+2.2 date of birth;  
+2.3 gender;  
+2.4 job title;  
+2.5 profession;  
+2.6 contact information such as email addresses and telephone numbers;  
+2.7 demographic information such as post code, preferences and interests;  
+2.8 financial information such as credit / debit card numbers;  
+2.9 IP address (automatically collected);  
+2.10 web browser type and version (automatically collected);  
+2.11 operating system (automatically collected);  
+2.12 URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);   
+2.13 Cookie information (see clause 10 below).
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.  We may share this aggregate information with third parties to assist them in targeting advertisements to appropriate audiences.
+ **3\. Our Use of Data**  
+3.1 Any personal Data you submit will be retained by www.theaffiliateacademy.com for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 years.
 
-**Disclosure**
+3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.
 
-We may provide your personally identifiable information that we collect and the data generated by cookies to the vendors and service agencies that we may engage to assist us. For example, we may provide your personally identifiable information to an organization in order to complete a service (e.g., process your payment).  We will also disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority.  We will not sell your personally identifiable information to any other company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which The Affiliate Academy participates or to a purchaser of all or substantially all of The Affiliate Academy's assets to which this Site relates. 
+3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.
 
-**Links to Third Party Sites**
+3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
-The Site may provide links to other Web sites or resources over which The Affiliate Academy does not have control ("External Web Sites").  Such links do not constitute an endorsement by The Affiliate Academy of those External Web Sites.  You acknowledge that The Affiliate Academy is providing these links to you only as a convenience, and further agree that The Affiliate Academy is not responsible for the content of such External Web Sites.  Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+3.4.1 internal record keeping;
 
-**Security**
+3.4.2 improvement of our products / services;
 
-We may employ procedural and technological measures, consistent with industry practice.  Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction.  The Affiliate Academy may use encryption, secure socket layer, firewalls, internal restrictions, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+3.4.3 transmission by email of promotional materials that may be of interest to you;
 
- **Correction/Updating Personally Identifiable Information**
+3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customize or update the Web Site.
 
-The Affiliate Academy provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us.  If you wish to review or correct any information you have provided to us,
+ **4\. Third Party Web Sites and Services**  
+www.theaffiliateacademy.com may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that www.theaffiliateacademy.com requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
-  * you may access your account and review, correct and delete your personally identifiable information
-  * or you may contact us by email at: [ ](mail: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy39781 = 'privacy' + '@'; addy39781 = addy39781 + 'theaffiliateacademy' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy39781 + '\\'>' \); document.write\( addy39781 \); document.write\( '<\\/a>' \); //-->\\n </script><script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spam bots, you need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[privacy@theaffiliateacademy.com](mailto:privacy@theaffiliateacademy.com) .
+ **5\. Changes of Business Ownership and Control**  
+5.1 www.theaffiliateacademy.com may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
 
+5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
 
+**6\. Controlling Access to your Data**  
+6.1 Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
 
-This Privacy Policy is effective as of: september 1, 2008
+6.1.1 use of Data for direct marketing purposes; and
 
-#### Comments 
+6.1.2 sharing Data with third parties.
 
-[ ](https://web.archive.org/web/20081217040621id_/http%3A//www.theaffiliateacademy.com/index.php?option=com_jomcomment&task=rss&contentid=10&opt=com_content "Subscribe to this comment's feed")
+ **7\. Your Right to Withhold Information**  
+7.1 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
 
-  
+7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
 
+ **8\. Accessing your own Data**  
+8.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.
+
+8.2 You have the right to ask for a copy of your personal Data on payment of a administration fee.
+
+**9\. Security**  
+9.1 Data security is of great importance to www.theaffiliateacademy.com and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+
+**10\. Cookies**  
+10.1 www.theaffiliateacademy.com may set and access Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy.
+
+10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites. 
+
+10.3 You may delete Cookies, however you may loose any information that enables you to access the Web Site more quickly.
+
+10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+
+**11.** **Information Not Shared or Sold**  
+Anyny information submitted by you will not be shared, sold, reused in lists, or be  used for any other purpose than to complete a transaction or address a customer service concern.
+
+**12\. Changes to this Policy**  
+www.theaffiliateacademy.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations."Content" means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
