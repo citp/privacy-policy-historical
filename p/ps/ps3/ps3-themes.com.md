@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217062729id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626181521id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
 
 # PS3 Themes - #1 Site for PS3 Themes » Privacy Policy
 
