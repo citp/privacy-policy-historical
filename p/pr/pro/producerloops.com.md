@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910054122id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626180432id_/http%3A//producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statement - Producer Loops
 
-| 
+|  | 
 
 |   
 ---  
@@ -16,9 +16,13 @@ ProducerLoops is committed to protecting your privacy online. Our policy explain
   
 
 
-  * We collect email addresses for internal use only. 
-  * Registration: on some parts of the site we ask you to register, and if you do we ask for your name, email address, geographical address and other personal information. 
+  * We collect email addresses for internal use only. We also give you an option to join our email newsletters when you make a purchase. You can unsubscribe at any time.   
+
+  *  
+  * _Registration:_ on some parts of the sites we may ask you to register, and if you do we ask for your name, email address, geographical address and other personal information. 
+  *  
   * From time to time we will ask you for further information, for example if you make a purchase or enter a competition. 
+  *  
   * We use cookies. For an explanation, see the section on cookies below. 
 
 
@@ -37,20 +41,18 @@ We use the information to help us understand more about how our web site is used
 
 We do not sell your personal information to other companies or individuals.
 
-Some of our product data (the information you see) is managed by third parties, but they do not have access to your personal information or email address. 
+Some of our product data (the information you see) is managed by third parties, but they do not have access to your personal information or email address.   
 
-If we believe that your use of the site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.
 
-  
-  
+If we believe that your use of the site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.  
   
 ProducerLoops.com is Launched. Inspiration Sounds welcome you to their new website for producers looking to download a wide variety of Pro Audio resources, including Sample CDs, MIDI Files, Virtual Instruments, Plug-ins and much more.
 
-[Previous news](https://web.archive.org/web/20080910054122id_/http%3A//www.producerloops.com/news.php)
+[Previous news](https://web.archive.org/web/20090626180432id_/http%3A//producerloops.com/news.php)
 
 Download 300MB of Samples, Loops & Reason Refills for FREE when you sign up to our Weekly Newsletter:
 
-0845 094 1234
+0845 094 3077
 
   
   
