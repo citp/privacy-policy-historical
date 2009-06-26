@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043317id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626215125id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy of eHealthMe - drug interactions and side effects analysis for YOU
 
@@ -68,7 +68,7 @@ Except as set forth in this Privacy Policy or as specifically agreed to by you, 
 
 **Disclosure Re Linked Sites**
 
-For your convenience there are links to Third Party Web sites operated by companies that are not affiliated with the eHealthMe web site and that do not have contracts to provide content or services through the eHealthMe web site. These links may be found referenced within content, or placed beside the names or logos of sponsors. eHealthMe does not disclose your Personal Information to these Third Party Websites without obtaining your consent. eHealthMe does not endorse and is not responsible for the privacy practices of these sites and the personal information collected there is governed by these third parties' privacy practices. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other website to understand how that Third Party Web site collects and uses your Personally Identifiable Information 
+For your convenience there are links to Third Party Web sites operated by companies that are not affiliated with the eHealthMe web site and that do not have contracts to provide content or services through the eHealthMe web site. These links may be found referenced within content, or placed beside the names or logos of sponsors. eHealthMe does not disclose your Personal Information to these Third Party Websites without obtaining your consent. In addition, when you choose to purchase eHealthMe's paid services, you may be taken to PayPal to complete the transaction. eHealthMe does not endorse and is not responsible for the privacy practices of these sites and the personal information collected there is governed by these third parties' privacy practices. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other website to understand how that Third Party Web site collects and uses your Personally Identifiable Information 
 
 **_Part 5: How eHealthMe Handles Privacy and Security Internally_**
 
@@ -89,6 +89,8 @@ Despite eHealthMe's efforts to protect your Personally Identifiable Information 
 The ads appearing on this Web site are delivered to users by third party ad servers. We share Web site usage information about users with reputable third parties Google, Amazon, among others, for the purpose of targeting our Internet banner advertisements on this site.
 
 These third party ad servers use cookies and/or Web beacons on this site, which allow it to recognize a user's cookie when a user visits this site. The information that these third party ad servers collect and share through this technology is not personally identifiable. 
+
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **_Part 7: Changes to this Privacy Policy_**
 
@@ -132,4 +134,4 @@ If other pieces of information are linked to PII, they also become PII. For exam
 
 **web beacons (also often referenced as "clear GIFs", "web bugs", "1-by-1 GIFs", "Single-Pixel GIFs", "1 x 1 Pixels", or "clear Pixels"):** Tiny graphic image files, imbedded in a web page in GIF, jpeg or HTML format, typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the beacon is located, the type browser that is accessing the site and the ID number of any Cookies on your computer previously placed by that server. Web Beacons can also be used to place a Cookie on your computer.
 
-Last modified: March 31, 2008 
+Last modified: April 07, 2009 
