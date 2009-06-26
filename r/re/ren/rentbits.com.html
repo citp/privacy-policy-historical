@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rentbits.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216172212id_/http%3A//rentbits.com/rb/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentbits.com privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626021852id_/http%3A//rentbits.com/rb/page/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
  
@@ -8,9 +8,9 @@
  <title>Privacy Policy</title>
  <meta name="Description" content="">
  <meta name="Keywords" content="">
- <script type="text/javascript" src="/rb/common/main.js?v=11"></script>
- <script type="text/javascript" src="/rb/common/swfobject.js?v=11"></script>
- <link rel="stylesheet" type="text/css" href="/rb/common/main.css?v=11">
+ <script type="text/javascript" src="/rb/common/main.js;jsessionid=FCF379FDD37C30725733A9E649B1849A?v=11"></script>
+ <script type="text/javascript" src="/rb/common/swfobject.js;jsessionid=FCF379FDD37C30725733A9E649B1849A?v=11"></script>
+ <link rel="stylesheet" type="text/css" href="/rb/common/main.css;jsessionid=FCF379FDD37C30725733A9E649B1849A?v=11">
  <style>
 
 body {margin: 5px;}
@@ -23,9 +23,16 @@ A:visited{color:#307CD6; text-decoration:none;}
 A:hover{color:#307CD6; text-decoration:underline;}
 h2 {color:#307CD6; font-weight: normal; font-size: 200%; margin-top:10px;}
 h3 {color:#307cd6; font-weight: normal; font-size: 150%; margin-top:10px;}
+h4 {background: none;}
 .title {color: #f3781a; font-size: 14px;}
 
 .about_container {width: 940px; background: url(/img/cm/results/about_bg.jpg) repeat-y top left #fff;}
+
+.ratesTitle {text-align: left; padding-left: 10px; vertical-align: middle; position: relative; top: 10px; font-weight: normal; color: #111; font-size: 14px;}
+
+.ratesTitle2 {font-size: 13px; color: #444;}
+
+.ratesInfo {position: relative; left: 45%;}
 
 
 div.qsloc {border-right: 1px solid #000;}
@@ -34,6 +41,8 @@ div.header {min-width: 944px;}
 div.header A:link{color:#000;text-decoration:none; font-size: 12px;}
 div.header A:visited{color:#000; text-decoration:none; font-size: 12px;}
 div.header A:hover{color:#000; text-decoration:none; font-size: 12px;}
+
+.ratesspan {display: none;}
 
 .qstitle {text-align:right;}
 
@@ -97,7 +106,136 @@ div.qs table.main {margin-left: 6px;}
 
 
 
+#feedbackTab {
+
+color: #fff;
+position: fixed;
+top: 0;
+right: 30px;
+height: 30px;
+width: 114px;
+margin: 0;
+padding: 0;
+z-index: 1;
+background: url(/img/cm/results/feedback_button.gif) no-repeat top left;
+cursor: pointer;
+
+}
+
+* html #feedbackTab {
+
+position: absolute;
+top: 0;
+top:expression(eval(document.body.scrollTop));
+
+}
+
+#feedback {
+
+display: none; 
+position: absolute; 
+top: 380px; 
+height: 580px; 
+z-index: 3000; 
+background: url(/img/cm/results/feedback_bg.png) no-repeat top left; 
+width: 810px; 
+margin-left: -405px; left: 50%; 
+
+}
+
+#feedbackClose {
+
+width: 782px; 
+height: 28px; 
+text-align: right; 
+margin: 30px 0 40px 0;
+
+}
+
+.feedbackContainer {
+
+width: 740px;
+height: 446px;
+border: 1px solid #ccc;
+margin: 0px 0 0px 34px; 
+
+}
+
+
+#feedbackClose a:link, #feedbackClose a:visited {
+
+color: #0058C5;
+text-decoration: underline;
+
+}
+
+
+#feedbackClose a:hover {
+
+color: #666;
+text-decoration: none;
+
+}
+
+#feedbackBg {
+
+display: none; 
+position: fixed; 
+width: 100%; 
+height: 100%; 
+filter: alpha(opacity=60); 
+margin: 0; 
+padding: 0;
+background: #000; 
+cursor: pointer; 
+z-index: 2; 
+opacity: 0.6;
+top: 0;
+left: 0;
+right: 0;
+
+}
+
+#feedbackIframe {
+
+position: absolute; 
+display: none; 
+z-index: 0; 
+top: 0; 
+left: 0; 
+width: 99%; 
+height: 1000px;
+filter: alpha(opacity=0); 
+opacity: 0;
+
+}
+
+* html #feedbackBg {
+
+position: absolute;
+top:expression(eval(document.body.scrollTop));
+width: 101%
+
+}
+
 </style>
+
+
+<!--[if lt IE 7]>
+
+<style>
+
+#feedback {
+
+background: url(/img/cm/results/feedback_bg.gif) no-repeat top left; 
+
+}
+
+</style>
+
+<![endif]--> 
+
+
 </head>
 <body>
 
@@ -317,7 +455,13 @@ We sometimes offer you the ability to send e-mail to a friend or other third par
 
 <b>Website Use Information</b><br><br>
 
+
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site and the Web sites visited just before and just after our Web site.<br><br>
+
+
+* Google, as a third party vendor, uses cookies to serve ads on your site.<br>
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.<br><br>
 
 <b>What Are Cookies?</b><br><br>
 
@@ -382,8 +526,8 @@ If you have any questions regarding this Privacy Policy please contact us <a hre
 <div style="width: 980px; margin: 10px 0 20px 0;" class="footer">
 <table cellpadding="0" cellspacing="0" width="980">
     <tbody><tr>
-    	<td class="home_footer" style="text-align:center; font-size: 11px;"><a href="/rb/s/browse-rental-regions">Browse Metro Areas</a> | <a href="/rb/page/about-us.html">About Us</a>  |  <a href="/rb/page/submit-your-ads.html">Submit</a> | <a href="/rb/page/widgets.html">Free Tools</a>  |  <a href="/blog" target="_blank">Blog</a>  |  <a href="/rb/page/faq.html" target="_blank">FAQ</a>  |  <a href="/rb/page/contact-us.html">Contact Us</a></td></tr><tr><td class="home_footer" style="text-align:center; font-size: 11px; padding: 5px 0 0 0;">
-©2008 RentBits.com. All Rights Reserved. | <a href="/rb/page/terms-of-use.html">Terms of Use</a> | <a href="/rb/page/privacy-policy.html">Privacy Policy</a></td>
+    	<td class="home_footer" style="text-align:center; font-size: 11px;"><a href="/rb/s/browse-rental-regions">Browse Metro Areas</a> | <a href="/rb/t/rental-rates/">Rental Stats and Trends</a> | <a href="/rb/page/about-us.html">About Us</a>  |  <a href="/rb/page/advertise-with-us.html">Advertise With Us</a> | <a href="/rb/page/submit-your-ads.html">Submit</a> | <a href="/rb/page/widgets.html">Free Tools</a>  |  <a href="/blog" target="_blank">Blog</a>  |  <a href="/rb/page/faq.html" target="_blank">FAQ</a>  |  <a href="/rb/page/contact-us.html">Contact Us</a></td></tr><tr><td class="home_footer" style="text-align:center; font-size: 11px; padding: 5px 0 0 0;">
+©2009 RentBits.com. All Rights Reserved. | <a href="/rb/page/terms-of-use.html">Terms of Use</a> | <a href="/rb/page/privacy-policy.html">Privacy Policy</a></td>
     </tr>
 </tbody></table>
 </div>
@@ -401,7 +545,7 @@ pageTracker._trackPageview();
  
  <div style="padding-top: 24px;">
   
-  <div style="color: #fff;">Build 081104_0841</div>
+  <div style="color: #fff;">Build 090515_0918</div>
  </div>
 
 
