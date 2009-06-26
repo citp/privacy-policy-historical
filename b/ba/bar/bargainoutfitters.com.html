@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bargainoutfitters.com privacy policy that was archived on 2008-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080724105909id_/http%3A//www.bargainoutfitters.com/main/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bargainoutfitters.com privacy policy that was archived on 2009-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626233835id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Bargain Outfitters - Bargains, Discounts, Markdowns, Deals, on Boots, Clothing, Outdoor Gear at Bargain Outfitters
@@ -22,6 +22,7 @@
     <script src="/net/include/overlib.js" type="text/javascript" language="javascript"></script>
 
     <script language="javascript" type="text/javascript">
+    //<![CDATA[
         // Set field value from Query String
         function setSearchValuesFromQueryString(doc, queryStringKeyword, queryStringRefer) {
             var queryStringKeywordValue = null;
@@ -58,7 +59,6 @@
                         break; // text field found, exit for loop
                     }
                 }
-                //alert(buttonObject.id + ";button found=" + buttonObjectFound.toString());
 
                 if (textObjectFound) {
                     // populate search value in search header
@@ -76,7 +76,6 @@
             var qsEmailAddressVer = "&emailaddress_ver=" + emailAddress;
             
             url += qsEmailAddress + qsEmailAddressVer;
-            //alert(url);
             window.parent.location.href = url;
             
             return false;
@@ -115,10 +114,8 @@
             // process only the Enter key
             var browserName = whichBrowser();
             
-            //alert(event.keyCode);
             if (browserName == "Internet Explorer")
             {
-                //alert("Internet Explorer");
                 if (event.keyCode && event.keyCode == 13)
                 {
                     // find respective button
@@ -130,16 +127,6 @@
                     var buttonObject;
                     var buttonObjectFound = true;
                     buttonObject = callingObject.document.forms[0].elements[buttonUniqueId];
-
-//	                for (var i = 0; i < callingObject.document.forms[0].elements.length; i++) {
-//	                    var objectId = callingObject.document.forms[0].elements[i].id;
-//    		            
-//	                    if (objectId == buttonUniqueId) {
-//	                        buttonObject = callingObject.document.forms[0].elements[i];
-//	                        buttonObjectFound = true;
-//	                        break; // button found, exit for loop
-//	                    }
-//	                }
 
                     if (buttonObjectFound) {
                         // cancel the default submit
@@ -159,12 +146,6 @@
             }
         }
 
-        // trigger respective submit button when enter key down
-        //var msg = "";
-        //if (document.getElementById) {msg += "document.getElementById" + "\n";}
-        //if (document.all) {msg += "document.all" + "\n";}
-        //if (document.layers) {msg += "document.layers" + "\n";}
-        //alert(msg);
         function keyPressHandlerGeneric(callingObject, callingObjectId, buttonId, e) {
             // process only the Enter key; trigger respective submit button
             
@@ -178,7 +159,6 @@
 
             if (keycode == 13)
             {
-                //alert("Enter key pressed!");
                 // find respective submit button
                 var callingObjectUniqueId = callingObject.id;
                 var buttonUniqueId = callingObjectUniqueId.replace(callingObjectId, buttonId);
@@ -230,7 +210,6 @@
 		function clearSearchHeaderValue(oObject) {
 			sfield = oObject.value
 			sfield = sfield.replace(/^\s*|\s*$/g,"");
-			//alert(sfield);
 			
             if (oObject.id.indexOf("ui_k_kw") >= 0)
             {
@@ -269,57 +248,66 @@
         {
             return !(document.getElementById("__EVENTVALIDATION")==null);
         } 
+    //]]>
     </script>
 </head>
 <body onload="javascript:setSearchValuesFromQueryString(this.document, 'k', 'r')">
-    <form name="aspnetForm" method="post" action="/net/main/Privacy.aspx" id="aspnetForm" onsubmit="javascript:return ensureDotNetVariablesExist()">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEwNTg1OTMxOQ9kFgJmD2QWAgIDD2QWAgIDDw8WBB4FV2lkdGgbAAAAAAA4iEABAAAAHgRfIVNCAoACZBYGAgEPZBYEAgQPDxYCHgdWaXNpYmxlaGQWCAIBD2QWCGYPDxYCHgtOYXZpZ2F0ZVVybAUhaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vZBYCZg8PFgoeDUFsdGVybmF0ZVRleHQFbEJhcmdhaW4gT3V0Zml0dGVycy0gRGlzY291bnQgd29yayBib290cywgaHVudGluZyBib290cywgaGlraW5nIGJvb3RzLCBydW5uaW5nIHNob2VzLCBvdXRkb29yIGNsb3RoaW5nLCBtb3JlLh4GSGVpZ2h0GwAAAAAAQFNAAQAAAB8AGwAAAAAAAGRAAQAAAB4ISW1hZ2VVcmwFQmh0dHA6Ly9pbWFnZS5iYXJnYWlub3V0Zml0dGVycy5jb20vaW1hZ2Uvc2l0ZS9ib2ZfbG9nb19ub19ia2dkLmdpZh8BAoADZGQCAg8PFgIeBFRleHRlZGQCBA8PFgQfBwUoQ0FDSEVUSU1FW0xvZ29QQ1NdPTcvMjQvMjAwOCAxMjo0NDozMSBQTR8CaGRkAgYPFgIeBVZhbHVlBShDQUNIRVRJTUVbTG9nb1BDU109Ny8yNC8yMDA4IDEyOjQ0OjMxIFBNZAIDD2QWBgIFDw8WAh8HZWRkAgcPDxYEHwcFMkNBQ0hFVElNRVtTZWFyY2hIZWFkTGluZVBDU109Ny8yNC8yMDA4IDEyOjQ0OjMxIFBNHwJoZGQCCQ8WAh8IBTJDQUNIRVRJTUVbU2VhcmNoSGVhZExpbmVQQ1NdPTcvMjQvMjAwOCAxMjo0NDozMSBQTWQCBQ9kFgpmDw8WBB8HBTBDQUNIRVRJTUVbU2VhcmNoSGVhZGVyUENTXT03LzI0LzIwMDggMTI6NDQ6MzEgUE0fAmhkZAICDw8WAh8HZWRkAgQPDxYCHwJoZGQCBg9kFgJmD2QWBGYPZBYCAgMPD2QWBB4Hb25Gb2N1cwUjamF2YXNjcmlwdDpjbGVhclZhbHVlS2V5d29yZCh0aGlzKTseCm9uS2V5UHJlc3MFYmphdmFzY3JpcHQ6cmV0dXJuIGtleVByZXNzSGFuZGxlckdlbmVyaWModGhpcywgJ3VpX2JvZl9rX2t3JywgJ2J0bktleXdvcmRTZWFyY2hIZWFkZXJCT0YnLCBldmVudCk7ZAIBD2QWAgIFDw9kFgQfCQUlamF2YXNjcmlwdDpjbGVhclZhbHVlWW91ckVtYWlsKHRoaXMpOx8KBWlqYXZhc2NyaXB0OnJldHVybiBrZXlQcmVzc0hhbmRsZXJHZW5lcmljKHRoaXMsICd1aV9ib2ZfZW1haWxhZGRyZXNzJywgJ2J0bkVtYWlsQWRkcmVzc0hlYWRlckJPRicsIGV2ZW50KTtkAggPFgIfCAUwQ0FDSEVUSU1FW1NlYXJjaEhlYWRlclBDU109Ny8yNC8yMDA4IDEyOjQ0OjMxIFBNZAIJD2QWCmYPDxYCHwdlZGQCAg8PFgQfBwU1Q0FDSEVUSU1FW05hdkJ1dHRvbnNIb3Jpem9udGFsXT03LzI0LzIwMDggMTI6NDQ6MzEgUE0fAmhkZAIED2QWAmYPZBYSZg8PZBYCHgdvbkNsaWNrBTl3aW5kb3cubG9jYXRpb24uaHJlZj0naHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vJzsWAmYPDxYCHwMFIWh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2RkAgEPDxYCHwJoFgIfCwVQd2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2NsZWFyYW5jZS9jbGVhcmFuY2UuYXNwJzsWAmYPDxYCHwMFOGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2NsZWFyYW5jZS9jbGVhcmFuY2UuYXNwZGQCAg8PZBYCHwsFTHdpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9zZWN0aW9uL3NsLmFzcD9zPTE0JzsWAmYPDxYCHwMFNGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2wuYXNwP3M9MTRkZAIDDw9kFgIfCwVOd2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2wuYXNwP3M9MjczNyc7FgJmDw8WAh8DBTZodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9zZWN0aW9uL3NsLmFzcD9zPTI3MzdkZAIEDw9kFgIfCwVTd2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2VjdGlvbi5hc3A/cz0yMjgzJzsWAmYPDxYCHwMFO2h0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2VjdGlvbi5hc3A/cz0yMjgzZGQCBQ8PZBYCHwsFS3dpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9jbHViL2NsdWJfdG91ci5hc3AnOxYCZg8PFgIfAwUzaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vY2x1Yi9jbHViX3RvdXIuYXNwZGQCBg8PZBYCHwsFUndpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9vcmRlcnN0YXQvb3JkZXJzZWFyY2guYXNwJzsWAmYPDxYCHwMFOmh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL29yZGVyc3RhdC9vcmRlcnNlYXJjaC5hc3BkZAIHDw9kFgIfCwVOd2luZG93LmxvY2F0aW9uLmhyZWY9J2h0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlYXJjaC9hbnljYXRhbG9nLmFzcCc7FgJmDw8WAh8DBTZodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9zZWFyY2gvYW55Y2F0YWxvZy5hc3BkZAIIDw8WAh8CaBYCHwsFTHdpbmRvdy5sb2NhdGlvbi5ocmVmPSdodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9zZWN0aW9uL3NsLmFzcD9zPTI3JzsWAmYPDxYCHwMFNGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2wuYXNwP3M9MjdkZAIGDw8WAh8CaGRkAggPFgIfCAU1Q0FDSEVUSU1FW05hdkJ1dHRvbnNIb3Jpem9udGFsXT03LzI0LzIwMDggMTI6NDQ6MzEgUE1kAgYPDxYEHwAbAAAAAAA4iEABAAAAHwECgAJkFggCAQ9kFgZmDw8WAh8DBSFodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9kFgJmDw8WCh8EBWxCYXJnYWluIE91dGZpdHRlcnMtIERpc2NvdW50IHdvcmsgYm9vdHMsIGh1bnRpbmcgYm9vdHMsIGhpa2luZyBib290cywgcnVubmluZyBzaG9lcywgb3V0ZG9vciBjbG90aGluZywgbW9yZS4fBRsAAAAAAEBTQAEAAAAfABsAAAAAAABkQAEAAAAfBgVCaHR0cDovL2ltYWdlLmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9pbWFnZS9zaXRlL2JvZl9sb2dvX25vX2JrZ2QuZ2lmHwECgANkZAICDw8WAh8HZWRkAgQPDxYEHwcFKENBQ0hFVElNRVtMb2dvUENTXT03LzI0LzIwMDggMTI6NDQ6MzEgUE0fAmhkZAIDDw8WAh8GBUdodHRwOi8vaW1hZ2UuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2ltYWdlL3NpdGUvYm9mX2Jlc3RfYmFyZ2FpbnNfMzUwLmdpZmRkAgcPFCsAAg8WAh8GBT9odHRwOi8vaW1hZ2UuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2ltYWdlL3NpdGUvYm9mX25hdmJhcl92My5naWZkEBYFZgIBAgICAwIEFgUWDB4DVG9wAgIeBExlZnQCBB4GQm90dG9tAhkeBVJpZ2h0Aj4fBAVTSG9tZSAtIEh1Z2UgZGlzY291bnRzLCBncmVhdCBiYXJnYWlucywgbGltaXRlZCBxdWFudGl0aWVzLCBzYXRpc2ZhY3Rpb24gZ3VhcmFudGVlZCEfAwUhaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vFgwfDAICHw0CQx8OAhkfDwKlAR8EBV5PcmRlciBTdGF0dXMgLSBDaGVjayB0aGUgc3RhdHVzIG9mIHlvdXIgb3JkZXIgYW5kIGtub3cgd2hlbiB5b3VyIGJhcmdhaW5zIGFyZSBnb2luZyB0byBhcnJpdmUuHwMFOmh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL29yZGVyc3RhdC9PcmRlclNlYXJjaC5hc3AWDB8MAgIfDQKqAR8OAhkfDwKsAh8EBUFBbWF6aW5nIEJhcmdhaW5zIC0gVG9kYXkncyBmZWF0dXJlZCBiYXJnYWlucy4gVHJlbWVuZG91cyBzYXZpbmdzIR8DBTRodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9zZWN0aW9uL3NsLmFzcD9zPTE0FgwfDAICHw0CsQIfDgIZHw8ClwMfBAU7TmV3IEFycml2YWxzIC0gQnJhbmQgbmV3IGJhcmdhaW5zLCBqdXN0IGluLCBiYXJnYWluIHByaWNlcyEfAwU1aHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vc2VjdGlvbi9zbC5hc3A/cz0yODAWDB8MAgIfDQKcAx8OAhkfDwKqBB8EBV5MdWNreSBTaXplIEJhcmdhaW5zIC0gTGltaXRlZCBxdWFudGl0aWVzLCByb2NrIGJvdHRvbSBwcmljZXMsIG1lbidzICYgd29tZW4ncyBzaG9lcyAmIGNsb3RoaW5nHwMFNWh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL3NlY3Rpb24vc2wuYXNwP3M9MjgwFgUCAQIBAgECAQIBZAIJD2QWCGYPDxYEHwcFMENBQ0hFVElNRVtTZWFyY2hIZWFkZXJQQ1NdPTcvMjQvMjAwOCAxMjo0NDozMSBQTR8CaGRkAgIPDxYCHwdlZGQCBA8PFgIfAmhkZAIGD2QWAmYPZBYEZg9kFgQCAw8PZBYEHwkFI2phdmFzY3JpcHQ6Y2xlYXJWYWx1ZUtleXdvcmQodGhpcyk7HwoFYmphdmFzY3JpcHQ6cmV0dXJuIGtleVByZXNzSGFuZGxlckdlbmVyaWModGhpcywgJ3VpX2JvZl9rX2t3JywgJ2J0bktleXdvcmRTZWFyY2hIZWFkZXJCT0YnLCBldmVudCk7ZAIFDw8WAh4LUG9zdEJhY2tVcmwFf34vc2VhcmNoL1NlYXJjaFBvc3RCYWNrVXJsLmFzcHg/aWQ9YnRuS2V5d29yZFNlYXJjaEhlYWRlckJPRiZ1aWQ9Y3RsMDAkdWNQYWdlSGVhZGVyJHVjU2VhcmNoSGVhZGVyQk9GJGJ0bktleXdvcmRTZWFyY2hIZWFkZXJCT0ZkZAIBD2QWBAIFDw9kFgQfCQUlamF2YXNjcmlwdDpjbGVhclZhbHVlWW91ckVtYWlsKHRoaXMpOx8KBWlqYXZhc2NyaXB0OnJldHVybiBrZXlQcmVzc0hhbmRsZXJHZW5lcmljKHRoaXMsICd1aV9ib2ZfZW1haWxhZGRyZXNzJywgJ2J0bkVtYWlsQWRkcmVzc0hlYWRlckJPRicsIGV2ZW50KTtkAgcPDxYCHxAFfX4vc2VhcmNoL1NlYXJjaFBvc3RCYWNrVXJsLmFzcHg/aWQ9YnRuRW1haWxBZGRyZXNzSGVhZGVyQk9GJnVpZD1jdGwwMCR1Y1BhZ2VIZWFkZXIkdWNTZWFyY2hIZWFkZXJCT0YkYnRuRW1haWxBZGRyZXNzSGVhZGVyQk9GZGQCAw9kFgQCAw8PFgIfAmhkFgICSQ9kFgxmDw8WBB8HBS5DQUNIRVRJTUVbQ29udGFjdEZvb3Rlcl09Ny8yNC8yMDA4IDEyOjQ0OjMxIFBNHwJoZGQCAg8PFgIfB2VkZAIEDw8WAh8DBS5odHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9tYWluL2hlbHAuYXNwZGQCBg8PFgYfAwUsbWFpbHRvOmN1c3RvbWVyc2VydmljZUBiYXJnYWlub3V0Zml0dGVycy5jb20fBwUlY3VzdG9tZXJzZXJ2aWNlQGJhcmdhaW5vdXRmaXR0ZXJzLmNvbR4HVG9vbFRpcAUlY3VzdG9tZXJzZXJ2aWNlQGJhcmdhaW5vdXRmaXR0ZXJzLmNvbWRkAggPDxYCHwcFYFlvdXIgZS1tYWlsIGFkZHJlc3MgaXMgMTAwJSBzYWZlIGFuZCBzZWN1cmUuLi53ZSB3aWxsIG5ldmVyIHNlbGwsIHRyYWRlIG9yIHNoYXJlIGl0IHdpdGggYW55b25lLmRkAgoPDxYCHwcFDjEtODg4LTMyNC05NjM0ZGQCBQ9kFkgCAQ8WAh8HBRl3d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tZAIDDxYCHwcFGXd3dy5iYXJnYWlub3V0Zml0dGVycy5jb21kAgUPDxYCHwMFMGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL21haW4vbWFpbHVzLmFzcGRkAgcPFgIfBwUZd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbWQCCQ8WAh8HBSVjdXN0b21lcnNlcnZpY2VAYmFyZ2Fpbm91dGZpdHRlcnMuY29tZAILDxYCHwcFDjEtODg4LTMyNC05NjM0ZAINDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCDw8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAhEPFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAITDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCFQ8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAhcPDxYCHwMFOGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCGQ8PFgIfAwUwaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9tYWlsdXMuYXNwZGQCGw8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAh0PFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIfDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCIQ8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAiMPFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIlDw8WAh8DBThodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9lbWFpbC9zcGVjaWFsc19mb3JtLmFzcGRkAicPFgIfBwUOMS04ODgtMzI0LTk2MzRkAikPFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIrDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCLQ8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAi8PFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIxDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCMw8WAh8HBQ4xLTg4OC0zMjQtOTYzMWQCNQ8WAh8HBRJCYXJnYWluIE91dGZpdHRlcnNkAjcPDxYCHwMFMGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL21haW4vbWFpbHVzLmFzcGRkAjkPFgIfBwUOMS04ODgtMzI0LTk2MzRkAjsPFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAI9Dw8WAh8DBThodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9lbWFpbC9zcGVjaWFsc19mb3JtLmFzcGRkAj8PDxYCHwMFMGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL21haW4vbWFpbHVzLmFzcGRkAkEPDxYCHwMFMGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL21haW4vbWFpbHVzLmFzcGRkAkMPFgIfBwUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAJFDxYCHwcFEkJhcmdhaW4gT3V0Zml0dGVyc2QCRw9kFgxmDw8WBB8HBS5DQUNIRVRJTUVbQ29udGFjdEZvb3Rlcl09Ny8yNC8yMDA4IDEyOjQ0OjMxIFBNHwJoZGQCAg8PFgIfB2VkZAIEDw8WAh8DBS5odHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9tYWluL2hlbHAuYXNwZGQCBg8PFgYfAwUsbWFpbHRvOmN1c3RvbWVyc2VydmljZUBiYXJnYWlub3V0Zml0dGVycy5jb20fBwUlY3VzdG9tZXJzZXJ2aWNlQGJhcmdhaW5vdXRmaXR0ZXJzLmNvbR8RBSVjdXN0b21lcnNlcnZpY2VAYmFyZ2Fpbm91dGZpdHRlcnMuY29tZGQCCA8PFgIfBwVgWW91ciBlLW1haWwgYWRkcmVzcyBpcyAxMDAlIHNhZmUgYW5kIHNlY3VyZS4uLndlIHdpbGwgbmV2ZXIgc2VsbCwgdHJhZGUgb3Igc2hhcmUgaXQgd2l0aCBhbnlvbmUuZGQCCg8PFgIfBwUOMS04ODgtMzI0LTk2MzRkZAIFD2QWBgIDDw8WBh8AGwAAAAAAIIdAAQAAAB8BAoACHwJoZGQCBQ8PFgQfABsAAAAAADiIQAEAAAAfAQKAAmRkAgcPZBYOAgEPDxYCHwJoZGQCAw9kFgICAQ8PFgIfBwUOMS04ODgtMzI0LTk2MzFkZAIFDw8WAh8CaGQWAgIBDw8WAh8GBT1odHRwOi8vaW1hZ2UuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2ltYWdlL3NpdGUvZnVudG9icm93c2UuZ2lmZGQCBw8WAh8HBQNCT0ZkAgkPFgIfBwUhaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vZAILDxYCHwcFATVkAg0PFgIfBwUJU3BvcnRXZWI5ZGSsBRTx97tbcoIDeeLwD4I2rnoxWg==">
+    <center>
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" onsubmit="javascript:return ensureDotNetVariablesExist()">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEwNTg1OTMxOQ9kFgJmD2QWAgIDD2QWAgIFD2QWBgIBD2QWAgIEDw8WBB4FV2lkdGgbAAAAAAA4iEABAAAAHgRfIVNCAoACZBYGAgEPZBYEAgIPDxYCHgRUZXh0ZWRkAgQPDxYEHwIFJ0NBQ0hFVElNRVtMb2dvUENTXT02LzI2LzIwMDkgNjozODozNSBQTR4HVmlzaWJsZWhkZAIHDxQrAAJkEBYFZgIBAgICAwIEFgUWDB4DVG9wAgIeBExlZnQCBB4GQm90dG9tAhkeBVJpZ2h0Aj4eDUFsdGVybmF0ZVRleHQFU0hvbWUgLSBIdWdlIGRpc2NvdW50cywgZ3JlYXQgYmFyZ2FpbnMsIGxpbWl0ZWQgcXVhbnRpdGllcywgc2F0aXNmYWN0aW9uIGd1YXJhbnRlZWQhHgtOYXZpZ2F0ZVVybAUuaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbmV0L01haW4uYXNweBYMHwQCAh8FAkMfBgIZHwcCpQEfCAVeT3JkZXIgU3RhdHVzIC0gQ2hlY2sgdGhlIHN0YXR1cyBvZiB5b3VyIG9yZGVyIGFuZCBrbm93IHdoZW4geW91ciBiYXJnYWlucyBhcmUgZ29pbmcgdG8gYXJyaXZlLh8JBUVodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9uZXQvb3JkZXJzdGF0dXMvT3JkZXJEaXNwbGF5TmV3LmFzcHgWDB8EAgIfBQKqAR8GAhkfBwKsAh8IBUFBbWF6aW5nIEJhcmdhaW5zIC0gVG9kYXkncyBmZWF0dXJlZCBiYXJnYWlucy4gVHJlbWVuZG91cyBzYXZpbmdzIR8JBTpodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS8vbmV0L3NlY3Rpb24vc2wuYXNweD9zPTE0FgwfBAICHwUCsQIfBgIZHwcClwMfCAU7TmV3IEFycml2YWxzIC0gQnJhbmQgbmV3IGJhcmdhaW5zLCBqdXN0IGluLCBiYXJnYWluIHByaWNlcyEfCQU7aHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vL25ldC9zZWN0aW9uL3NsLmFzcHg/cz0yODAWDB8EAgIfBQKcAx8GAhkfBwKqBB8IBQtUb3AgU2VsbGVycx8JBTxodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS8vbmV0L3NlY3Rpb24vc2wuYXNweD9zPTI1MDkWBQIBAgECAQIBAgFkAgkPZBYIZg8PFgQfAgUvQ0FDSEVUSU1FW1NlYXJjaEhlYWRlclBDU109Ni8yNi8yMDA5IDY6Mzg6MzUgUE0fA2hkZAICDw8WAh8CZWRkAgQPDxYCHwNoZGQCBg9kFgJmD2QWBGYPZBYEAgMPD2QWBB4Hb25Gb2N1cwUjamF2YXNjcmlwdDpjbGVhclZhbHVlS2V5d29yZCh0aGlzKTseCm9uS2V5UHJlc3MFYmphdmFzY3JpcHQ6cmV0dXJuIGtleVByZXNzSGFuZGxlckdlbmVyaWModGhpcywgJ3VpX2JvZl9rX2t3JywgJ2J0bktleXdvcmRTZWFyY2hIZWFkZXJCT0YnLCBldmVudCk7ZAIFDw8WAh4LUG9zdEJhY2tVcmwFf34vc2VhcmNoL1NlYXJjaFBvc3RCYWNrVXJsLmFzcHg/aWQ9YnRuS2V5d29yZFNlYXJjaEhlYWRlckJPRiZ1aWQ9Y3RsMDAkdWNQYWdlSGVhZGVyJHVjU2VhcmNoSGVhZGVyQk9GJGJ0bktleXdvcmRTZWFyY2hIZWFkZXJCT0ZkZAIBD2QWBAIFDw9kFgQfCgUlamF2YXNjcmlwdDpjbGVhclZhbHVlWW91ckVtYWlsKHRoaXMpOx8LBWlqYXZhc2NyaXB0OnJldHVybiBrZXlQcmVzc0hhbmRsZXJHZW5lcmljKHRoaXMsICd1aV9ib2ZfZW1haWxhZGRyZXNzJywgJ2J0bkVtYWlsQWRkcmVzc0hlYWRlckJPRicsIGV2ZW50KTtkAgcPDxYCHwwFfX4vc2VhcmNoL1NlYXJjaFBvc3RCYWNrVXJsLmFzcHg/aWQ9YnRuRW1haWxBZGRyZXNzSGVhZGVyQk9GJnVpZD1jdGwwMCR1Y1BhZ2VIZWFkZXIkdWNTZWFyY2hIZWFkZXJCT0YkYnRuRW1haWxBZGRyZXNzSGVhZGVyQk9GZGQCAw9kFgQCAw8PFgIfA2hkFgICSQ9kFgxmDw8WBB8CBS1DQUNIRVRJTUVbQ29udGFjdEZvb3Rlcl09Ni8yNi8yMDA5IDY6Mzg6MzUgUE0fA2hkZAICDw8WAh8CZWRkAgQPDxYCHwkFLmh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL21haW4vaGVscC5hc3BkZAIGDw8WBh8JBSxtYWlsdG86Y3VzdG9tZXJzZXJ2aWNlQGJhcmdhaW5vdXRmaXR0ZXJzLmNvbR8CBSVjdXN0b21lcnNlcnZpY2VAYmFyZ2Fpbm91dGZpdHRlcnMuY29tHgdUb29sVGlwBSVjdXN0b21lcnNlcnZpY2VAYmFyZ2Fpbm91dGZpdHRlcnMuY29tZGQCCA8PFgIfAgVgWW91ciBlLW1haWwgYWRkcmVzcyBpcyAxMDAlIHNhZmUgYW5kIHNlY3VyZS4uLndlIHdpbGwgbmV2ZXIgc2VsbCwgdHJhZGUgb3Igc2hhcmUgaXQgd2l0aCBhbnlvbmUuZGQCCg8PFgIfAgUOMS04ODgtMzI0LTk2MzRkZAIFD2QWSAIBDxYCHwIFGXd3dy5iYXJnYWlub3V0Zml0dGVycy5jb21kAgMPFgIfAgUZd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbWQCBQ8PFgIfCQUwaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9tYWlsdXMuYXNwZGQCBw8WAh8CBRl3d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tZAIJDxYCHwIFJWN1c3RvbWVyc2VydmljZUBiYXJnYWlub3V0Zml0dGVycy5jb21kAgsPFgIfAgUOMS04ODgtMzI0LTk2MzRkAg0PFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIPDxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCEQ8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAhMPFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIVDxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCFw8PFgIfCQU4aHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vZW1haWwvc3BlY2lhbHNfZm9ybS5hc3BkZAIZDw8WAh8JBTBodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9tYWluL21haWx1cy5hc3BkZAIbDxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCHQ8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAh8PFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIhDxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCIw8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAiUPDxYCHwkFOGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCJw8WAh8CBQ4xLTg4OC0zMjQtOTYzNGQCKQ8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAisPFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAItDxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCLw8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAjEPFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAIzDxYCHwIFDjEtODg4LTMyNC05NjMxZAI1DxYCHwIFEkJhcmdhaW4gT3V0Zml0dGVyc2QCNw8PFgIfCQUwaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9tYWlsdXMuYXNwZGQCOQ8WAh8CBQ4xLTg4OC0zMjQtOTYzNGQCOw8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAj0PDxYCHwkFOGh0dHA6Ly93d3cuYmFyZ2Fpbm91dGZpdHRlcnMuY29tL2VtYWlsL3NwZWNpYWxzX2Zvcm0uYXNwZGQCPw8PFgIfCQUwaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9tYWlsdXMuYXNwZGQCQQ8PFgIfCQUwaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9tYWlsdXMuYXNwZGQCQw8WAh8CBRJCYXJnYWluIE91dGZpdHRlcnNkAkUPFgIfAgUSQmFyZ2FpbiBPdXRmaXR0ZXJzZAJHD2QWDGYPDxYEHwIFLUNBQ0hFVElNRVtDb250YWN0Rm9vdGVyXT02LzI2LzIwMDkgNjozODozNSBQTR8DaGRkAgIPDxYCHwJlZGQCBA8PFgIfCQUuaHR0cDovL3d3dy5iYXJnYWlub3V0Zml0dGVycy5jb20vbWFpbi9oZWxwLmFzcGRkAgYPDxYGHwkFLG1haWx0bzpjdXN0b21lcnNlcnZpY2VAYmFyZ2Fpbm91dGZpdHRlcnMuY29tHwIFJWN1c3RvbWVyc2VydmljZUBiYXJnYWlub3V0Zml0dGVycy5jb20fDQUlY3VzdG9tZXJzZXJ2aWNlQGJhcmdhaW5vdXRmaXR0ZXJzLmNvbWRkAggPDxYCHwIFYFlvdXIgZS1tYWlsIGFkZHJlc3MgaXMgMTAwJSBzYWZlIGFuZCBzZWN1cmUuLi53ZSB3aWxsIG5ldmVyIHNlbGwsIHRyYWRlIG9yIHNoYXJlIGl0IHdpdGggYW55b25lLmRkAgoPDxYCHwIFDjEtODg4LTMyNC05NjM0ZGQCBQ9kFgQCAw8PFgQfABsAAAAAADiIQAEAAAAfAQKAAmRkAgUPZBYQAgEPDxYCHwNoZGQCAw9kFgICAQ8PFgIfAgUOMS04ODgtMzI0LTk2MzFkZAIFDw8WAh8DaGQWAgIBDw8WAh4ISW1hZ2VVcmwFPWh0dHA6Ly9pbWFnZS5iYXJnYWlub3V0Zml0dGVycy5jb20vaW1hZ2Uvc2l0ZS9mdW50b2Jyb3dzZS5naWZkZAIHDxYCHwIFGihjKTIwMDkgQmFyZ2FpbiBPdXRmaXR0ZXJzZAIJDxYCHwIFA0JPRmQCCw8WAh8CBSFodHRwOi8vd3d3LmJhcmdhaW5vdXRmaXR0ZXJzLmNvbS9kAg0PFgIfAgUBNGQCDw8WAh8CBQlTcG9ydFdlYjhkZKFUuqQmduzLbTDkFaoBDghfrcUk">
 
-        <center>
-            <span id="ctl00_lblError" class="Error"><font color="Red"></font></span>
-            <div id="ctl00_pnlMain">
+
+<script src="/net/ScriptResource.axd?d=PSO_IHDUJTYGxNIMhrp_ZdkgUAYgo5wLCU5bSe97SVPSXHTmhSBQndJRUZH4ejpkE_nkg5sRjiMwM0Vk2RNdjnqFqctf0CvtIeWaIMV1GIc1&amp;t=633429045450937500" type="text/javascript"></script>
+        
+        <span id="ctl00_lblError" class="Error"><font color="Red"></font></span>
+        <div id="ctl00_pnlMain">
 	
-                <table id="site-header" border="0" cellpadding="2" cellspacing="0">
-                    <!-- Header section -->
-                    <tbody><tr>
-                        <td>
-                            <span id="ctl00_ucPageHeader_lblError" class="Error"><font color="Red"></font></span>
+            <table id="site-header" cellpadding="0" cellspacing="0" width="775px;">
+                <!-- Header section -->
+                <tbody><tr>
+                    <td align="left" width="100%">
+                        <span id="ctl00_ucPageHeader_lblError" class="Error"><font color="Red"></font></span>
 <span id="ctl00_ucPageHeader_lblCurrentTime"></span>
-
 <div id="ctl00_ucPageHeader_pnlPageHeaderBOF">
 		
-    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr>
-            <td style="width: 25%;" valign="top" rowspan="2">
-                <a id="ctl00_ucPageHeader_ucLogoBOF_hlLogo" href="http://www.bargainoutfitters.com/"><img id="ctl00_ucPageHeader_ucLogoBOF_imgLogo" src="http://image.bargainoutfitters.com/image/site/bof_logo_no_bkgd.gif" alt="Bargain Outfitters- Discount work boots, hunting boots, hiking boots, running shoes, outdoor clothing, more." height="77" width="160" border="0">
+            <td style="width: 20%;" valign="top" align="left">
+                <a id="ctl00_ucPageHeader_ucLogoBOF_hlLogo" href="/net/main.aspx"><img id="ctl00_ucPageHeader_ucLogoBOF_imgLogo" src="/net/site/images/newbof/bof_logo_no_bkgd.gif" alt="Bargain Outfitters- Discount work boots, hunting boots, hiking boots, running shoes, outdoor clothing, more." height="77" width="160" border="0">
     <br>
 </a>
 <span id="ctl00_ucPageHeader_ucLogoBOF_lblError" class="Error"><font color="Red"></font></span>
 
-<input type="hidden" name="ctl00$ucPageHeader$ucLogoBOF$hdnCachTime" id="ctl00_ucPageHeader_ucLogoBOF_hdnCachTime" value="CACHETIME[LogoPCS]=7/24/2008 12:44:31 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucLogoBOF$hdnCachTime" id="ctl00_ucPageHeader_ucLogoBOF_hdnCachTime" value="CACHETIME[LogoPCS]=6/26/2009 6:38:35 PM">
 
             </td>
-            <td style="width: 50%; text-align: center;" valign="top">
-                <img id="ctl00_ucPageHeader_imgBargainOutfitters" src="http://image.bargainoutfitters.com/image/site/bof_best_bargains_350.gif" alt="Bargain Outfitters- Discount work boots, hunting boots, hiking boots, running shoes, outdoor clothing, more." border="0" height="63" width="350">
-            </td>
-            <td style="width: 25%; text-align: right;" valign="top">
-                <div id="ctl00_ucPageHeader_ucCartHeaderBOF_pnlCart" align="center">
+            <td style="width: 80%; text-align: left;" valign="bottom">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                    <tbody><tr>
+                        <td style="text-align: center; width:65%; vertical-align:top;">
+                            <img id="ctl00_ucPageHeader_imgBargainOutfitters" src="/net/site/images/newbof/bof_best_bargains_350.gif" alt="Bargain Outfitters- Discount work boots, hunting boots, hiking boots, running shoes, outdoor clothing, more." border="0" height="63" width="350">
+                        </td>
+                        <td style="text-align: left; width:35%; vertical-align:top;">
+                            <div id="ctl00_ucPageHeader_ucCartHeaderBOF_pnlCart" align="center">
 			
-    <table cellpadding="2" cellspacing="0" border="0" class="cart-table"><tbody><tr><td align="center" style="white-space: nowrap;"><a href="http://www.bargainoutfitters.com/cart/cart_view.asp" style="text-decoration:none;font-weight:bold;">View Cart</a>&nbsp;<a href="http://www.bargainoutfitters.com/cart/cart_view.asp"><img align="absmiddle" src="http://image.bargainoutfitters.com/image/site/main/cart.gif" border="0" alt="View Your Shopping Cart"></a>&nbsp;<a href="http://www.bargainoutfitters.com/checkout/checkout_express.asp" style="text-decoration:none;font-weight:bold;">Check Out</a></td></tr><tr><td align="left"><b>0</b> items in your cart.</td></tr><tr><td align="left">Your total is $0.00</td></tr><tr class="cart_text"><td align="left"></td></tr><tr><td><input type="hidden" value="CACHETIME[CartHeaderPCS]=7/24/2008 12:59:09 PM"></td></tr></tbody></table>
+    <table cellpadding="2" cellspacing="0" border="0" class="cart-table"><tbody><tr><td align="center" style="white-space: nowrap;"><a href="http://www.bargainoutfitters.com/cart/cart_view.asp" style="text-decoration:none;font-weight:bold;">View Cart</a>&nbsp;<a href="http://www.bargainoutfitters.com/cart/cart_view.asp"><img align="absmiddle" src="/net/site/images/main/cart.gif" border="0" alt="View Your Shopping Cart"></a>&nbsp;<a href="http://www.bargainoutfitters.com/checkout/checkout_express.asp" style="text-decoration:none;font-weight:bold;">Check Out</a></td></tr><tr><td align="left"><b>0</b> items in your cart.</td></tr><tr><td align="left">Your total is $0.00</td></tr><tr class="cart_text"><td align="left"></td></tr><tr><td><input type="hidden" value="CACHETIME[CartHeaderPCS]=6/26/2009 6:38:35 PM"></td></tr></tbody></table>
 
 		</div>
 
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding-left: 5px; width:100%; text-align:left; vertical-align:bottom;">
+                            <img id="ctl00_ucPageHeader_imapNavBarBOF" src="/net/site/images/newbof/bof_navbar_v4.gif" usemap="#ImageMapctl00_ucPageHeader_imapNavBarBOF" border="0"><map name="ImageMapctl00_ucPageHeader_imapNavBarBOF" id="ImageMapctl00_ucPageHeader_imapNavBarBOF">
+			<area shape="rect" coords="4,2,62,25" href="http://www.bargainoutfitters.com/net/Main.aspx" title="Home - Huge discounts, great bargains, limited quantities, satisfaction guaranteed!" alt="Home - Huge discounts, great bargains, limited quantities, satisfaction guaranteed!"><area shape="rect" coords="67,2,165,25" href="http://www.bargainoutfitters.com/net/orderstatus/OrderDisplayNew.aspx" title="Order Status - Check the status of your order and know when your bargains are going to arrive." alt="Order Status - Check the status of your order and know when your bargains are going to arrive."><area shape="rect" coords="170,2,300,25" href="http://www.bargainoutfitters.com//net/section/sl.aspx?s=14" title="Amazing Bargains - Today's featured bargains. Tremendous savings!" alt="Amazing Bargains - Today's featured bargains. Tremendous savings!"><area shape="rect" coords="305,2,407,25" href="http://www.bargainoutfitters.com//net/section/sl.aspx?s=280" title="New Arrivals - Brand new bargains, just in, bargain prices!" alt="New Arrivals - Brand new bargains, just in, bargain prices!"><area shape="rect" coords="412,2,554,25" href="http://www.bargainoutfitters.com//net/section/sl.aspx?s=2509" title="Top Sellers" alt="Top Sellers">
+		</map>
+                        </td>
+                    </tr>
+                </tbody></table>
             </td>
         </tr>
         <tr>
-            <td align="right" colspan="2" valign="bottom">
-                <img id="ctl00_ucPageHeader_imapNavBarBOF" src="http://image.bargainoutfitters.com/image/site/bof_navbar_v3.gif" usemap="#ImageMapctl00_ucPageHeader_imapNavBarBOF" border="0"><map name="ImageMapctl00_ucPageHeader_imapNavBarBOF">
-			<area shape="rect" coords="4,2,62,25" href="http://www.bargainoutfitters.com/" title="Home - Huge discounts, great bargains, limited quantities, satisfaction guaranteed!" alt="Home - Huge discounts, great bargains, limited quantities, satisfaction guaranteed!"><area shape="rect" coords="67,2,165,25" href="http://www.bargainoutfitters.com/orderstat/OrderSearch.asp" title="Order Status - Check the status of your order and know when your bargains are going to arrive." alt="Order Status - Check the status of your order and know when your bargains are going to arrive."><area shape="rect" coords="170,2,300,25" href="http://www.bargainoutfitters.com/section/sl.asp?s=14" title="Amazing Bargains - Today's featured bargains. Tremendous savings!" alt="Amazing Bargains - Today's featured bargains. Tremendous savings!"><area shape="rect" coords="305,2,407,25" href="http://www.bargainoutfitters.com/section/sl.asp?s=280" title="New Arrivals - Brand new bargains, just in, bargain prices!" alt="New Arrivals - Brand new bargains, just in, bargain prices!"><area shape="rect" coords="412,2,554,25" href="http://www.bargainoutfitters.com/section/sl.asp?s=280" title="Lucky Size Bargains - Limited quantities, rock bottom prices, men's &amp; women's shoes &amp; clothing" alt="Lucky Size Bargains - Limited quantities, rock bottom prices, men's &amp; women's shoes &amp; clothing">
-		</map>
-            </td>
-        </tr>        
-        <tr>
-            <td align="center" colspan="3" valign="middle">
+            <td align="center" colspan="2" valign="middle" width="100%">
                 
 <span id="ctl00_ucPageHeader_ucSearchHeaderBOF_lblError" class="Error"><font color="Red"></font></span>
 
@@ -342,7 +330,7 @@
         </b></font></td>
 			</tr>
 		</tbody></table>
-<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeaderBOF$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeaderBOF_hdnCachTime" value="CACHETIME[SearchHeaderPCS]=7/24/2008 12:44:31 PM">
+<input type="hidden" name="ctl00$ucPageHeader$ucSearchHeaderBOF$hdnCachTime" id="ctl00_ucPageHeader_ucSearchHeaderBOF_hdnCachTime" value="CACHETIME[SearchHeaderPCS]=6/26/2009 6:38:35 PM">
 
             </td>
         </tr>     
@@ -350,14 +338,12 @@
 
 	</div>
 
-
-
-                        </td>
-                    </tr>
-                    <!-- Product Items section -->
-                    <tr>
-                        <td>
-                            
+                    </td>
+                </tr>
+                <!-- Product Items section -->
+                <tr>
+                    <td align="left" width="100%">
+                        
     <span id="ctl00_cphMain_lblError" class="Error"><font color="Red"></font></span>
     
     <div id="ctl00_cphMain_pnlPrivacyBOF">
@@ -524,12 +510,12 @@
     
 	</div>
 
-                        </td>
-                    </tr>
-                    <!-- Footer section -->
-                    <tr>
-                        <td align="center">
-                            
+                    </td>
+                </tr>
+                <!-- Footer section -->
+                <tr>
+                    <td align="center" width="100%">
+                        
 <!-- BEGIN FOOTER HERE -->
 <span id="ctl00_ucPageFooter_lblError" class="Error"><font color="Red"></font></span>
 
@@ -539,29 +525,39 @@
     <div style="text-align: center; font-family: Verdana,arial,helvetica; font-weight: bold; line-height: 1; width: 90%;">
         <a id="ctl00_ucPageFooter_hlHomeBOF" class="linksmall" href="/" target="_top">Home</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlaboutUsBOF" class="linksmall" href="/main/about.asp" target="_top">About Us</a>
+        <a id="ctl00_ucPageFooter_hlaboutUsBOF" class="linksmall" href="/net/main/About.aspx" target="_top">About Us</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlHowToOrderBOF" class="linksmall" href="/main/howto.asp" target="_top">How To Order</a>
+        <a id="ctl00_ucPageFooter_hlHowToOrderBOF" class="linksmall" href="/net/main/HowTo.aspx" target="_top">How To Order</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlPrivacyBOF" class="linksmall" href="/main/privacy.asp" target="_top">Privacy</a>
+        <a id="ctl00_ucPageFooter_hlPrivacyBOF" class="linksmall" href="/net/main/Privacy.aspx" target="_top">Privacy</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlContactBOF" class="linksmall" href="/main/mailus.asp" target="_top">Contact Us</a>
+        <a id="ctl00_ucPageFooter_hlContactBOF" class="linksmall" href="/net/main/MailUs.aspx" target="_top">Contact Us</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlOrderStatusBOF" class="linksmall" href="/orderstat/ordersearch.asp" target="_top">Order Status</a>
+        <a id="ctl00_ucPageFooter_hlOrderStatusBOF" class="linksmall" href="/net/OrderStatus/OrderSearchNew.aspx" target="_top">Order Status</a>
+        &nbsp;       
+        
+        <a id="ctl00_ucPageFooter_hlSubscribeBOF" class="linksmall" href="/net/email/SpecialsForm.aspx" target="_top">Subscribe</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlSubUnsubBOF" class="linksmall" href="/email/specials_form.asp" target="_top">Subscribe/Unsubscribe</a>
-        &nbsp;
-        <a id="ctl00_ucPageFooter_hlCustServBOF" class="linksmall" href="/main/howto.asp" target="_top">Customer Service</a>
+
+        <a id="ctl00_ucPageFooter_hlUnSubscribeBOF" class="linksmall" href="/net/email/Unsubscribe.aspx" target="_top">Unsubscribe</a>
+        &nbsp;             
+        
+        
+        <a id="ctl00_ucPageFooter_hlCustServBOF" class="linksmall" href="/net/main/HowTo.aspx" target="_top">Customer Service</a>
         <br>
-        <a id="ctl00_ucPageFooter_hlSizingInfoBOF" class="linksmall" href="/main/sizing.asp" target="_top">Sizing Information</a>
+        <a id="ctl00_ucPageFooter_hlSizingInfoBOF" class="linksmall" href="/net/main/Sizing.aspx" target="_top">Sizing Information</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlShopAllBOF" class="linksmall" href="/sitemap/department.asp" target="_top">Shop All Categories</a>
+
+        <a id="ctl00_ucPageFooter_hlSweepstakesBOF" class="linksmall" href="/net/sweeps/sssplash.aspx?@t=5" target="_top">Sweepstakes</a>
+        &nbsp;  
+
+        <a id="ctl00_ucPageFooter_hlShopAllBOF" class="linksmall" href="/net/sitemap/Department.aspx" target="_top">Shop All Categories</a>
         &nbsp;
         <a id="ctl00_ucPageFooter_hlShopBrandBOF" class="linksmall" href="/sitemap/category_brand.asp" target="_top">Shop By Brand</a>
         &nbsp;
         <a id="ctl00_ucPageFooter_hlShopSizeBOF" class="linksmall" href="/sitemap/subcat_sizes.asp" target="_top">Shop By Size</a>
         &nbsp;
-        <a id="ctl00_ucPageFooter_hlShippingHandlingBOF" class="linksmall" href="/main/shipping.asp" target="_top">Shipping/Handling</a>
+        <a id="ctl00_ucPageFooter_hlShippingHandlingBOF" class="linksmall" href="/net/main/Shipping.aspx" target="_top">Shipping/Handling</a>
     </div>
 
 	</div>
@@ -586,12 +582,18 @@
         <!-- Conditional Panel for fun-to-browse image if this is SMG. -->
         
     
+        <tr>
+            <td align="center" class="text-tiny" style="font-size: 6pt; font-family: verdana; font-weight: bold;">
+                (c)2009 Bargain Outfitters
+            </td>
+        </tr>
+    
     </tbody></table>
     <!-- END FOOTER -->
     <!--
 ************* SERVER INFO ****************
 *  BOF (http://www.bargainoutfitters.com/)
-*  Server: 5 (SportWeb9)           
+*  Server: 4 (SportWeb8)           
 *  WEBSITE IS UP                     
 ************* END SERVER INFO ************
 -->
@@ -599,16 +601,23 @@
 	</div>
 <input type="hidden" name="ctl00$ucPageFooter$hdnCachTime" id="ctl00_ucPageFooter_hdnCachTime">
 
-                        </td>
-                    </tr>
-                </tbody></table>
-            
+                    </td>
+                </tr>
+            </tbody></table>
+        
 </div>
-            
-        </center>
+        
     
 <input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="wP_OVQPjHLoCIPhrPNYHRPA2Rmh6vc6ZA9Ee1DHNGW41">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDwKBqMjlBwLW8p+dCwLQoeClDALfoeClDALZoeClDAKn/tufDAKixtSAAgLysseBAQLj5Kj2CALj5Oz2CAL647asBAKHzvDBAgKDmeXFBQLt5tvMBgL/3qOuAsa/lxBZXRF0jtftXuAVnlpXfzyo"></form>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDwKRgPvKCgLW8p+dCwLQoeClDALfoeClDALZoeClDAKn/tufDAKixtSAAgLysseBAQLj5Kj2CALj5Oz2CAL647asBAKHzvDBAgKDmeXFBQLt5tvMBgL/3qOuAlV8RPUv3m7GwmdQgu9yd1L5N6k8">
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    </center>
 
 
 </body></html>
