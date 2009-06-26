@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013844id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626051851id_/http%3A//www.mylaps.com/general/policy.jsp) for the most accurate reproduction.*
 
 # Privacy policy mylaps.com
 
