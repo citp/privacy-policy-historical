@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2008-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080120124523id_/http%3A//www.familylife.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091217id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_statement.htm) for the most accurate reproduction.*
 
-# About FamilyLife: Privacy Policy - FamilyLife - Strengthening families, marriages and relationships
+# Privacy statement - FamilyLife.com
 
-**FamilyLife.com Privacy Policy**
-
-This is the website of **FamilyLife** , a division of Campus Crusade for Christ. 
+This is the website of **FamilyLife** , a subsidiary of Campus Crusade for Christ. 
 
 Our postal address is:  
 **5800 Ranch Drive  
 Little Rock, AR 72222**
 
-We can be reached via e-mail at [http://www.familylife.com/about/contact.asp](mailto:http://www.familylife.com/about/contact.asp)  
+We can be reached via e-mail from our [Contact Us](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/) page  
 or you can reach us by telephone at 1-800-358-6329. 
 
 **SECURITY**   
@@ -37,7 +35,7 @@ For each visitor to our website, our Web server automatically recognizes only th
 
 This information we collect is used to improve the content of our website, used to notify consumers about updates to our website or to send e-mail or direct mail regarding special FamilyLife promotions, products or donation opportunities. 
 
-  * If you do not want to receive direct mail or e-mail from FamilyLife, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting us at [http://www.familylife.com/about/contact.asp](http://bubba.familylife.com/about/contact.asp). 
+  * If you do not want to receive direct mail or e-mail from FamilyLife, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 
 
@@ -49,12 +47,12 @@ If you make a donation on FamilyLife.com, your information will be shared with o
 
 Persons who supply FamilyLife with their telephone numbers online may receive telephone contact from us with information regarding new products and services, upcoming events or donation opportunities. 
 
-  * If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting us at <http://www.familylife.com/about/contact.asp>. 
+  * If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 
 
 **CHANGING INFORMATION** **  
-** Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, or communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting us at <http://www.familylife.com/about/contact.asp>. 
+** Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, or communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 **COOKIES** **  
 ** With respect to cookies: 
@@ -66,21 +64,21 @@ Persons who supply FamilyLife with their telephone numbers online may receive te
 
 
 **ADS  
-** With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+**With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 **FORUMS**   
 FamilyLife makes forums available to its users. FamilyLife is not responsible for the content of forums. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 **OPT-OUT**  
-If you do not want to receive e-mail from FamilyLife in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting us at [http://www.familylife.com/about/contact.asp](http://bubba.familylife.com/about/contact.asp). 
+If you do not want to receive e-mail from FamilyLife in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 **POLICY CHANGES**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. We will use for these new purposes only data collected from the time of the policy change forward. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address, or visiting us at <http://www.familylife.com/about/contact.asp>. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 **OTHER  
-** If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+**If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
 **LINKS TO OTHER SITES**  
 FamilyLife, a division of Campus Crusade for Christ, Inc., sometimes recommends, references, and/or provides links to various other parties or organizations (collectively, "third parties") and/or third party Web sites. Such recommendations, referrals, and links should not be seen as endorsement, approval or agreement with any/all information or resources offered by such third parties or at any of their Web sites that can be accessed through FamilyLife Web sites. FamilyLife is not in any way responsible or liable for the content, practices, services, or failures of any third parties or Web sites that may be linked to FamilyLife Web sites. When FamilyLife provides links or references to third parties and/or third party Web sites, no inference or assumption should be made and no representation should be inferred that FamilyLife endorses or controls such third parties and/or third party Web sites; nor should it infer or represent that any partnership, employment relationship, or joint venture exists between FamilyLife and such third parties and third party Web sites. FamilyLife's recommendations, references, and links do not represent in any way, either explicitly or by implication, that you have received the endorsement, sponsorship, or support of the ministry and/or Web sites of FamilyLife, including its respective employees, agents, directors, or executives.
