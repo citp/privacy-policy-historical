@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228062242id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626021543id_/http%3A//preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation
 
@@ -36,7 +36,7 @@ An Internet Protocol (IP) address is associated with the portal through which yo
 
 **Cookies**
 
-Our web sites also use "Cookies."  "Cookies" are small files sent from a Web server to your computer through your browser program that permit the computer to help customize your experience with our web sites. The National Trust uses cookies to measure visitation to the National Trust sites, including repeat visitors, and to perform certain functions such as order processing and registrations.  Cookies may be used to store some history about the parts of our web sites that you have visited to help you navigate our web site more easily or to alert you to related pages on our web sites that may interest you.  The National Trust does not use cookies to obtain information about other web sites that you may have visited.  For more information about cookies, visit [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+Our web sites also use "Cookies."  "Cookies" are small files sent from a Web server to your computer through your browser program that permit the computer to help customize your experience with our web sites. The National Trust uses cookies to measure visitation to the National Trust sites, including repeat visitors, and to perform certain functions such as order processing and registrations.  Cookies may be used to store some history about the parts of our web sites that you have visited to help you navigate our web site more easily or to alert you to related pages on our web sites that may interest you.  The National Trust does not use cookies to obtain information about other web sites that you may have visited.  For more information about cookies, visit <http://www.cookiecentral.com/>. 
 
 **Invite-A-Friend and e-Cards**
 
@@ -60,14 +60,15 @@ If you provide the National Trust with your e-mail address we will not share tha
 
 On a selective basis, Members may be selected to receive information via postal mail from other non-profit organizations, including state and local preservation organizations and occasionally for-profit organizations that we think may be of interest to you.  You have the right to opt-out of these mailings. 
 
-Links to Third-Party Web Sites -   We provide many links to third party web sites existing outside of the National Trust. Since we do not control the content or functionality of these web sites, we encourage you to review the privacy policies posted on these third-party web sites. Any link from [http://www.preservationnation.org/](https://web.archive.org/preview!www.preservationnation.org/) to such a third-party web site does not denote an affiliation with the web site or an endorsement of its viewpoint(s) or mission(s).
+Links to Third-Party Web Sites -   We provide many links to third party web sites existing outside of the National Trust. Since we do not control the content or functionality of these web sites, we encourage you to review the privacy policies posted on these third-party web sites. Any link from <http://www.preservationnation.org/> to such a third-party web site does not denote an affiliation with the web site or an endorsement of its viewpoint(s) or mission(s).
 
 Subsidiaries and National Trust Historic Sites  -  The National Trust has a number of subsidiaries and Historic Sites that offer a wide range of products and services.  Unless you opt-out, we may share your postal address with the following Subsidiaries and Historic Sites to inform you of the various product and service offerings in which you might be interested.  Subsidiaries and Historic Sites are subject to the same opt-out rights that apply to use of personally identifiable information by the National Trust.
 
-  * [National Trust Historic Sites](https://web.archive.org/preview!www.preservationnation.org/travel-and-sites/sites/)
+  * [National Trust Historic Sites](http://www.preservationnation.org/travel-and-sites/sites/)
   * [National Trust Community Investment Corporation (NTCIC)](http://www.ntcicfunds.com/)
   * National Trust CDFI (website in development) 
-  * [National Trust Insurance Services](http://www.nationaltrust-insurance.org/index2.html)  
+  * [National Trust Insurance Services](http://www.nationaltrust-insurance.org/index2.html)
+  * [Heritage Travel, Inc.](http://www.gowithapurpose.com/)  
 
 
 
@@ -94,7 +95,7 @@ back to top
 
 **Children's Privacy Policy**
 
-None of the web sites covered by this policy knowingly collect identifiable personal information from children under the age of 13.  The National Trust's website is not directed to, nor does it have knowledge of, visitors less than 13 years of age. We are committed to protecting children's privacy and we will monitor our website and its users to make sure that their privacy is protected. If we discover that a person under the age of 13 has provided us with any identifiable personal information, we will delete that information from our systems.  We are unable to reply to information requests from children under the age of 13, if so identified.  A parent or guardian must initiate the requests from children under the age of 13 on their behalf. If we begin marketing to children on-line and we are aware that those children are under the age of 13, the National Trust will take steps to fully comply with the Children's Advertising Review Unit (CARU) and the Children's Online Privacy Protection Act of 1998 (COPPA). To learn more about both of these programs see [http://www.caru.org](http://www.caru.org/) and [http://www.coppa.org](http://www.coppa.org/).
+None of the web sites covered by this policy knowingly collect identifiable personal information from children under the age of 13.  The National Trust's website is not directed to, nor does it have knowledge of, visitors less than 13 years of age. We are committed to protecting children's privacy and we will monitor our website and its users to make sure that their privacy is protected. If we discover that a person under the age of 13 has provided us with any identifiable personal information, we will delete that information from our systems.  We are unable to reply to information requests from children under the age of 13, if so identified.  A parent or guardian must initiate the requests from children under the age of 13 on their behalf. If we begin marketing to children on-line and we are aware that those children are under the age of 13, the National Trust will take steps to fully comply with the Children's Advertising Review Unit (CARU) and the Children's Online Privacy Protection Act of 1998 (COPPA). To learn more about both of these programs see <http://www.caru.org/> and <http://www.coppa.org/>.
 
 **Spam**
 
