@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218230238id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626235325id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
-February 2, 2007
+March 19, 2009
 
 Your privacy is important to Camfrog. Camfrog makes it a priority to respect your privacy and to protect your personal information.
 
@@ -16,7 +16,7 @@ When registering a Camfrog nickname users are asked to enter their email address
 
 ### Non-Identifiable Information
 
-Camfrog also collects Non-Identifiable information. For example our website may keep logs of visitors Internet Browser type, Operating System, IP address and other anonymous information. Camfrog client collects your IP address, Camfrog client software version, and operating system version.
+Camfrog also collects Non-Identifiable information. For example our website may keep logs of visitors Internet Browser type, Operating System, IP address and other anonymous information. Camfrog client collects your IP address, Camfrog client software version, and operating system version. Users should be aware that (1) to facilitate moderation of the room, Camfrog room owners have the transitory ability to see the IP addresses of users who join the room, and (2) both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
 
 ### Web Browser Cookies
 
@@ -57,13 +57,17 @@ Camfrog has a toolbar that is available for Internet Explorer and Firefox. Camfr
 
 You may uninstall Camfrog using the Windows Add/Remove programs function.
 
+### Advertising
+
+We sometimes use third-party advertising companies to serve ads when you visit our website and use our software. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
 ### Policy Privacy Updates
 
 Camfrog reserves the right to update the privacy policy from time to time. Any changes that are made will be posted to this web page. When the privacy policy is updated the date will be changed at the top.
 
 If you have any questions about our privacy policy feel free to contact us at the address below or email the address on our contact page.
 
-Camshare LLC  
-400 West 15th Street  
-Suite 710  
-Austin, Texas 78701 
+Camfrog  
+PO Box 42227  
+Austin, TX 78704  
+USA 
