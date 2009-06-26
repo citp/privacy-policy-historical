@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tutorial9.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153447id_/http%3A//www.tutorial9.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorial9.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626181456id_/http%3A//www.tutorial9.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tutorial9 - Tutorial Bliss.
+# Privacy Policy - Tutorial9
 
-### Tutorial9.net Privacy Policy
+## Tutorial9.net Privacy Policy
 
 The privacy of our visitors to Tutorial9.net is important to us.
 
@@ -22,4 +22,33 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ### Links
 
-This web site contains links to other sites. Please be aware that Tutorial9.net is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+This web site contains links to other sites. Please be aware that Tutorial9.net is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
+
+[](http://www.medialab.com/sitegrinder/?utm_source=tutorial9&utm_medium=banner300&utm_campaign=rejoice)
+
+[](http://xhtml.pixelcrayons.com/order-now.html "PSD to HTML | Pixel Crayons")
+
+#### Free Goodies. Delivered to You.
+
+Subscribe to Tutorial9, and we'll deliver you the newest freebies and tutorials for free.
+
+**Subscribe By Email**
+
+**Subscribe By RSS**
+
+  * [Tutorial9 Feed](http://www.tutorial9.net/feed/)
+  * [Advanced Options](http://www.tutorial9.net/subscription-options/)
+
+
+
+Write for Us
+
+#### Write for Tutorial9
+
+  * Do you want to get paid $150 for writing at Tutorial9?
+  * Are you a talented Photoshopper, Blogger, or Photographer?
+  * Want to help thousands of others by sharing your knowledge?
+
+
+
+If so, we're interested in you, and we'll pay you. Find out [how to write](http://www.tutorial9.net/get-paid-to-write/) for Tutorial9.
