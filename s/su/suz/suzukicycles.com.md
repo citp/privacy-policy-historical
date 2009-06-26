@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2008-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080916101643id_/http%3A//www.suzukicycles.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626051406id_/http%3A//www.suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
 
-# The Official Site of Suzuki® Motorcycles, Quadrunner ATVs and Scooters
+# Suzuki Cycles - Privacy
 
-American Suzuki Privacy and Use Policy
+## Privacy Policy
 
   * Limitation on Scope of Contents
   * No Representation or Warranty
@@ -18,6 +18,7 @@ American Suzuki Privacy and Use Policy
 
 
 
+  
 Suzuki understands your concern with privacy and the collection and use of your personal information while visiting or interacting with the Suzuki.com Website. This document describes the policy of American Suzuki Motor Corporation (hereafter "Suzuki") regarding information received about you during visits to the Suzuki Website. The amount and type of information which we receive depends on how you use the site. 
 
 This Online Privacy and Use Policy was last updated on 01/27/05. The prior update occurred 11/01/04. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to [privacy@suzuki.com](mailto:privacy@suzuki.com) with the words "requesting notification of privacy policy updates" in both the subject line and body of the email.
