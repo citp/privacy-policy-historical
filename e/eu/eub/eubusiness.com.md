@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216164934id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626024912id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement — EUbusiness.com - business, legal and economic news and information from the European Union
-
-EUbusiness.com Privacy Statement
 
   * [Information Collection and Use](http://www.eubusiness.com/privacy/privacy-statement#1)
   * [Registration](http://www.eubusiness.com/privacy/privacy-statement#2)
@@ -32,12 +30,11 @@ We request information from users on our order forms. Users have to provide cont
 A cookie is a small text file written to a user's hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Advertising**  
-EUbusiness runs advertising for a wide variety of organisations. These adverts are served by our partner, WebAds, as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include Vibrant Media. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
+EUbusiness runs advertising for a wide variety of organisations. We use third-party ad servers to serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this website in order to provide advertisements about goods and services of interest to you. Third-party ad servers include Google. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-[**WebAds Privacy Policy**](http://www.webads.co.uk/corporate/privacy)  
-[**Vibrant Media Privacy Policy**](http://www.vibrantmedia.com/site/privacy.html)
+[**WebAds Privacy Policy**](http://www.webads.co.uk/corporate/privacy) [**Google Advertising and Privacy**](http://www.google.com/privacy_ads.html)
 
- **Log Files**  
+**Log Files**  
 We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
 
 **Links**  
