@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160000id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjz.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111345id_/http%3A//wjz.com/privacy) for the most accurate reproduction.*
 
-# wjz.com - Privacy Policy
+# Privacy Policy - wjz.com
 
 **Effective Date** : September 8, 2008
 
