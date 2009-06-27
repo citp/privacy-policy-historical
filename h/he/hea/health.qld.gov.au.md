@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218125850id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627080917id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
 
 # Queensland Health Privacy and Confidentiality Statement
 
@@ -37,15 +37,15 @@ Although every effort will be made, Queensland Health does not guarantee to repl
 
 Queensland Health supports your right to see what personal information, including health information, is held about you.
 
-Access to your health information is usually provided simply through our Administrative Access to Health Records Policy. Requests for access to your health records must be in writing and should be directed to the office of the medical superintendent of the public hospital you have attended, or the manager of the community health service you have attended. Documentary evidence of identity should also be supplied with your request (for example, a certified copy of a driver’s licence or birth certificate). A [contact list of Queensland Health hospitals and facilities](https://web.archive.org/hospitals/facility_list.asp) is available on our website.
+Access to your health information is usually provided simply through our Administrative Access to Health Records Policy. Requests for access to your health records must be in writing and should be directed to the office of the medical superintendent of the public hospital you have attended, or the manager of the community health service you have attended. Documentary evidence of identity should also be supplied with your request (for example, a certified copy of a driver’s licence or birth certificate). A [contact list of Queensland Health hospitals and facilities](https://web.archive.org/healthservices/byFacility.asp) is available on our website.
 
 You also have the right to request access to information about you under Freedom of Information. If there is something in the information that is incorrect, or which you do not agree with, you can request that it be amended. 
 
-If you wish to make a freedom of information application you should send your application to the delegated decision-maker for the health service district where you have been treated. A list of [decision-makers](https://web.archive.org/publications/corporate/st_affairs03/appendix3.pdf) with their contact details is available on our website. 
+If you wish to make a freedom of information application you should send your application to the delegated decision-maker for the health service district where you have been treated. A list of [decision-makers](https://web.archive.org/foi/docs/foi_contact_officers.pdf) with their contact details is available on our website. 
 
 The Legal and Administrative Law Unit for Queensland Health is also available to provide advice to people seeking assistance in making applications. Phone queries should be directed to (07) 3234 1735, or the Unit can be contacted via email at: [FOI@health.qld.gov.au](mailto:FOI@health.qld.gov.au)
 
-Further information on freedom of information can be found in our [Statement of Affairs](https://web.archive.org/publications/corporate/st_affairs03/default.asp), or [Privacy Plan](https://web.archive.org/privacy/privacy_plan.asp).
+Further information on freedom of information can be found in our [Statement of Affairs](https://web.archive.org/publications/corporate/st_affairs/default.asp), or [Privacy Plan](https://web.archive.org/privacy/privacy_plan.asp).
 
 ### Where can I find out more information about Queensland Health’s privacy and security policies? 
 
