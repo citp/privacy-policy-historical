@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216232027id_/http%3A//www.target.com/gp/redirect.html%3F%255Fencoding%3DUTF8%26location%3Dhttp%253A%252F%252Fsites.target.com%252Fsite%252Fen%252Fspot%252Fpage.jsp%253Ftitle%253Dprivacy%25255Fpolicy%26token%3D4CEFD3F532718138FC74C8493BFFB0B3645CA358) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112320id_/http%3A//www.target.com/gp/redirect.html%3F%255Fencoding%3DUTF8%26location%3Dhttp%253A%252F%252Fsites.target.com%252Fsite%252Fen%252Fspot%252Fpage.jsp%253Ftitle%253Dprivacy%25255Fpolicy%26token%3D4CEFD3F532718138FC74C8493BFFB0B3645CA358) for the most accurate reproduction.*
 
 # Target : Privacy Policy
 
@@ -14,7 +14,7 @@ We may receive information about you from other sources. This may help improve t
 
 We receive and store certain types of information whenever you interact with our website. For example, we use "cookies" like many other websites. Through "cookies" we obtain information when your web browser accesses our website (see “What are ‘Cookies’ and how do we use them?” section below for details). There are utilities designed to help you visit websites anonymously. Although we cannot provide you with a personalized experience or certain services at our website if we cannot recognize you, we want you to be aware that these tools exist.
 
-We may also use cookies to manage Target banner advertisements displayed on other websites across the Internet.  For more information on how to manage cookies [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=privacy_policy_cookies).
+We may also use cookies to manage Target banner advertisements displayed on other websites across the Internet.  For more information on how to manage cookies [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=privacy_policy_cookies).
 
 **Does our website share information it receives?**
 
@@ -46,7 +46,7 @@ If some or all of the business assets of our website are sold or transferred, we
 
 **E–Mails**
 
-If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=email_unsubscribe). You may still receive select e-mails from us if you have requested them through one of our site services such as eNewsletters, Weekly Ad Reminders, [Gift Reminders](http://www.target.com/exec/obidos/flex-sign-in/ref=cm_gr_hp_sc/?opt=an&method=GET&page=help/ya-sign-in-secure.html&cont-page=reminders-signed-in-continue&response=reminders-display&method=GET), or Available to Order Notification. You can discontinue these e-mails by canceling your subscription to these services.
+If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=email_unsubscribe). You may still receive select e-mails from us if you have requested them through one of our site services such as eNewsletters, Weekly Ad Reminders, [Gift Reminders](http://www.target.com/exec/obidos/flex-sign-in/ref=cm_gr_hp_sc/?opt=an&method=GET&page=help/ya-sign-in-secure.html&cont-page=reminders-signed-in-continue&response=reminders-display&method=GET), or Available to Order Notification. You can discontinue these e-mails by canceling your subscription to these services.
 
 You may still receive e-mails from other members of the Target family if they received your e-mail address from other sources or as a result of their transactions or experiences with you.
 
@@ -54,11 +54,11 @@ You may still receive e-mails from other members of the Target family if they re
 
 We may share information with carefully selected vendors, business partners and other organizations that are not part of the Target family. These companies and organizations may use the information we share to provide special opportunities and offers to you.
 
-If you do not want us to share information you provide to our website with vendors, business partners and other organizations that are not part of the Target family, please [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=sharing_unsubscribe).
+If you do not want us to share information you provide to our website with vendors, business partners and other organizations that are not part of the Target family, please [click here](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=sharing_unsubscribe).
 
 **More Information**
 
-Please call 1–800–440–0680 or [contact us](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=legal_contact_us) if you have further questions about our e-mail unsubscribe process.
+Please call 1–800–440–0680 or [contact us](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=legal_contact_us) if you have further questions about our e-mail unsubscribe process.
 
 **What about links to and from other websites?**
 
@@ -76,7 +76,7 @@ In addition, other members of the Target family may obtain information independe
 
 **Prescription Refills**
 
-When you use our online prescription refill service, you provide us with your prescription number so that we can process your refill request. We understand the confidential nature of such information. Your prescription number is treated as protected information as described in the [Target Pharmacy Notice of Privacy Policy](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=pharmacy_privacy_policy). All other information you provide when you use our online prescription refill service is treated as otherwise described in this privacy policy.
+When you use our online prescription refill service, you provide us with your prescription number so that we can process your refill request. We understand the confidential nature of such information. Your prescription number is treated as protected information as described in the [Target Pharmacy Notice of Privacy Policy](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=pharmacy_privacy_policy). All other information you provide when you use our online prescription refill service is treated as otherwise described in this privacy policy.
 
 **Information for Pharmacy Guests in Texas**
 
@@ -99,7 +99,7 @@ Pharmacy operations since 1962
 
 **Children**
 
-We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child has provided our website with personally identifiable information, we ask that a parent or guardian call 1-800-440-0680 or [contact us](https://web.archive.org/site/en/spot/page.jsp;jsessionid=TN5YUTKZC2JPPLARAAV5X5Y?title=legal_contact_us) us and we will delete the information about the child from our files.
+We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child has provided our website with personally identifiable information, we ask that a parent or guardian call 1-800-440-0680 or [contact us](https://web.archive.org/site/en/spot/page.jsp;jsessionid=UV0ZQPALUQGVZLARAAV5YAA?title=legal_contact_us) us and we will delete the information about the child from our files.
 
 **Your Consent**
 
