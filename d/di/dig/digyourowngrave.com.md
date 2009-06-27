@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digyourowngrave.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170748id_/http%3A//www.littlegrey.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digyourowngrave.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205646id_/http%3A//www.littlegrey.net/privacy_policy) for the most accurate reproduction.*
 
 # The Littlegrey Network – Privacy Policy
 
@@ -19,6 +19,8 @@ If you feel any of your personal information is publicly posted in error, contac
 ### Third Party Advertising and Cookies
 
 The ads appearing on Littlegrey Network Websites are delivered to users by third party advertisers. These companies may use information about your visits to this and other Websites in order to provide advertisements on the Littlegrey Network sites and other sites about goods and services that may be of interest to you. These advertisers may use cookies on our sites to accomplish this. However, Littlegrey Media has no access to, or control over, these cookies once we have given permission for them to set cookies for advertising. This Privacy Policy covers the use of cookies by Littlegrey Media only, and does not cover the use of cookies by any advertisers.
+
+Google Adsense ads featured across the Littlegrey Network Websites make use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx). Google's use of the DART cookie enables it to serve ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ### Log Files
 
