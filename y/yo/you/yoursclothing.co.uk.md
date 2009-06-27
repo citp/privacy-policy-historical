@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065048id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104219id_/http%3A//www.yoursclothing.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 Yours Clothing are totally committed to protecting the privacy of our site visitors and customers. The Yours Clothing team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. arranging for a product to be sent to you.
 
