@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165616id_/http%3A//www.wsbt.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111043id_/http%3A//www.wsbt.com/inside/privacy) for the most accurate reproduction.*
 
 # WSBT South Bend - Your Local News Leader | WSBT Privacy Policy
 
