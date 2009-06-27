@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsiteindex.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216092141id_/http%3A//www.worldsiteindex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsiteindex.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627103910id_/http%3A//www.worldsiteindex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for World Site Index, a searchable directory of websites organised by subject
 
@@ -19,6 +19,12 @@ For an explanation, see the section on cookies below.
 **Use of cookies**
 
 Cookies are a unique identifier that is sent to your Internet browser. The Internet browser may then store the cookie on your hard drive. Cookies can be used to track a visitor to a website as the visitor navigates the website and to store information. They can inform the website what pages you visit, when you last visited and your preferences, which enable websites to provide you with a more personalised service. If a visitor requests a specific language is used, a cookie will be used to record this information so that the visitor does not need to specify his or her language preference for each web page that is delivered to the visitor's browser. You can set your browser to refuse cookies, or to warn you before accepting them. We may use cookies, but most parts of our site can be accessed even if your cookies are turned off.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to you based on visit to other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+
+
 
 **Uses of Information**
 
