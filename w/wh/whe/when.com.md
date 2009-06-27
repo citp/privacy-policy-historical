@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the when.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216152217id_/http%3A//www.when.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the when.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627102309id_/http%3A//www.when.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - when.com
 
