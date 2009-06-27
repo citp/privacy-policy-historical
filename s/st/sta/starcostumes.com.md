@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216070726id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627120211id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Halloween Costumes - Adult and Kids Costumes, Online Halloween Costume
+# Halloween Costumes – Buy Halloween Costumes, Masks, Props, Makeup for Adults, Teens & Kids Online
 
 [](http://www.starcostumes.com/categories/50-Percent-Off-SALE.aspx)
 
@@ -14,5 +14,5 @@ Star Design Costumes collects information for the purposes of contacting you reg
 Most orders placed before 4PM (EST) Monday-Friday will usually ship out the same day.
 
 **CORPORATE OFFICES:** 2708 W. Sylvania Avenue • Toledo, OH 43613 • 1-888-573-4594 • Fax 419 473-9650  
-10:00 AM - 6:00 PM Monday - Friday EST. Closed Saturday And Sunday.  
+10:00 AM - 6:00 PM Monday - Friday EST. Closed Saturday And Sunday.   
 
