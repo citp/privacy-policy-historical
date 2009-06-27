@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050352id_/http%3A//www.olanmills.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627092837id_/http%3A//www.olanmills.com/about-us/privacy.asp) for the most accurate reproduction.*
 
-# Olan Mills Portrait Studios - High-Quality Studio Portraits
+# Olan Mills Portrait Studios - Sharing the Love of Portraits
+
+## Privacy Policy
 
 This is the web site of **Olan Mills, Inc.**
 
-Our postal address is: 
-
-> **Olan Mills, Inc.  
->  P.O. Box 23456  
->  Chattanooga, TN 37422**
+Our postal address is:  
+**Olan Mills, Inc.  
+P.O. Box 23456  
+Chattanooga, TN 37422**
 
 For each visitor to our web page, our web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -51,6 +52,8 @@ All credit card information you provide stays with olanmills.com in encrypted fi
 We always use industry-standard encryption technologies when transferring and receiving customer data exchanged with our online store. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 However, Olan Mills cautions visitors to its websites that no network, including the Internet, is entirely secure. Accordingly, we cannot be responsible for loss, corruption or unauthorized acquisition of personal information provided to our websites, or for any damages resulting from such loss, corruption or unauthorized acquisition.
+
+****
 
 **Special Note for Parents**
 
