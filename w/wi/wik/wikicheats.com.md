@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikicheats.com privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622042518id_/http%3A//www.wikicheats.com/index.php/WikiCheats%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikicheats.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627171611id_/http%3A//www.wikicheats.com/index.php/WikiCheats%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiCheats:Privacy policy - WikiCheats
 
