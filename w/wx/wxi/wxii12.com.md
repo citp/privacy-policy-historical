@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020112id_/http%3A//www.wxii12.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627204623id_/http%3A//www.wxii12.com/privacy) for the most accurate reproduction.*
 
 # WXII12.com - Privacy
 
