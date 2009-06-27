@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215015634id_/http%3A//www.photonics.com/content/misc/2006/March/22/57264.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627053837id_/http%3A//www.photonics.com/Content/ReadArticle.aspx%3FArticleID%3D35715) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
+# Privacy Policy (photonics.com | Nov 2008 | Photonics.com)
 
 Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our Web sites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
 
@@ -92,8 +90,3 @@ Executive Vice President
 Laurin Publishing Co., Inc.  
 P.O. Box 4949  
 Pittsfield, MA 01202-4949 
-
-  
-
-
-[](https://web.archive.org/directoryHome.aspx)
