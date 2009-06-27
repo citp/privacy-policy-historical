@@ -1,7 +1,17 @@
-<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2008-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+  
+  
+  <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=web%2Cpost&amp;charset=utf-8&amp;services=facebook%2Cstumbleupon%2Cgoogle_bmarks%2Cslashdot%2Cdelicious%2Creddit%2Ctechnorati%2Cmixx%2Cyahoo_bmarks%2Cyahoo_myweb%2Cyahoo_buzz%2Cwindows_live%2Clinkedin&amp;style=default&amp;publisher=ca8b29c7&#10;-466d-4c03-8034-a5390ba56a00"></script>
+      
+    
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width = 900">
 
@@ -19,23 +29,26 @@
 
 
 
+  
+  
+    
+      
+      
+        <link href="/style/macworld.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="http://css.macworld.com/css/now.css" rel="stylesheet" type="text/css" media="screen">
+      
+    
+  
 
-<link href="/style/macworld.css" rel="stylesheet" type="text/css" media="screen">
 
 
-
-
-
-<link href="http://css.macworld.com/css/now.css" rel="stylesheet" type="text/css" media="screen">
-
-
-
-
-<script type="text/javascript" src="/scripts/jquery-1.2.1.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery-1.2.3.pack.js"></script>
 <script type="text/javascript" src="/scripts/jquery.taconite.js"></script>
 <script type="text/javascript" src="/scripts/flashobject.js"></script>
 <script type="text/javascript" src="/scripts/main.js"></script>
 <script type="text/javascript" src="/scripts/tablecloth.js"></script>
+
+
 
 <script type="text/javascript">
 <!--
@@ -227,11 +240,11 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
     <div id="linkContainer">
       	<ul>
 			
-			<li class="productLinks Mac"><a href="/products/mac.html">Mac</a></li>
+			<li id="Mac" class="productLinks Mac"><a href="/products/mac.html">Mac</a></li>
 			
-			<li class="productLinks iPod"><a href="/products/ipod.html">iPod</a></li>
+			<li id="iPod" class="productLinks iPod"><a href="/products/ipod.html">iPod</a></li>
 			
-			<li class="productLinks iPhone"><a href="/products/iphone.html">iPhone</a></li>
+			<li id="iPhone" class="productLinks iPhone"><a href="/products/iphone.html">iPhone</a></li>
 			
           <li class="productLinks"><a href="/products.html">More Products</a></li>
           <li class="sectionLinks"><a href="/news.html">News</a></li>
@@ -243,15 +256,63 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
       <div class="spacer"></div>
        </ul>
       </div>
+      
+       <div id="flyout" style="display:none;">
+    	<ul class="col">
+    		<li><a href="/appguide/index.html">iPhone Apps</a></li>
+    		<li><a href="/weblogs/iphonecentral.html">iPhone News &amp; Tips</a></li>
+			<li><a href="/product/iphone/accessories.html">iPhone Accessories</a></li>
+    	</ul>
+    </div> <!-- END flyout -->
+
+<script type="text/javascript"> 
+                var flyoutTimeout=undefined; 
+                $(document).ready(function(){ 
+                        $("#iPhone,#flyout").bind("mouseenter",function(){ 
+                                if(undefined!=flyoutTimeout) 
+                                        clearTimeout(flyoutTimeout); 
+                                flyoutTimeout=setTimeout("showReviewsFlyout()",200); 
+                        }); 
+                
+                
+                        $("#flyout,#iPhone").bind("mouseleave",function(){ 
+                                if(undefined!=flyoutTimeout) 
+                                        clearTimeout(flyoutTimeout); 
+                                flyoutTimeout=setTimeout("hideReviewsFlyout()",400); 
+                        }); 
+                }); 
+                
+                function hideReviewsFlyout(){ 
+                        $("#iPhone").removeClass("hover"); 
+                        $('#flyout').slideUp("fast"); 
+                } 
+                
+                function showReviewsFlyout(){ 
+                              $("#iPhone").addClass("hover"); 
+                                $('#flyout').slideDown(200);                 
+                } 
+                
+</script> 
     
     
-      <div id="hotTopics">
+       <div id="hotTopics">
         <ul>
-        	<li class="title">Topics:</li>
-			<li>&nbsp;•&nbsp; <a href="/topics/mac_os_x.html">Mac OS X</a></li><li>&nbsp;•&nbsp; <a href="/topics/entertainment_hdtv.html">Entertainment &amp; HDTV</a></li><li>&nbsp;•&nbsp; <a href="/topics/create.html">Create</a></li><li>&nbsp;•&nbsp; <a href="/topics/business_center.html">Business Center</a></li><li>&nbsp;•&nbsp; <a href="/topics/mobile_mac.html">Mobile Mac</a></li><li>&nbsp;•&nbsp; <a href="/topics/digital_photo.html">Digital Photo</a></li><li>&nbsp;•&nbsp; <a href="/topics/mac_it.html">Mac IT</a></li><li>&nbsp;•&nbsp; <a href="/topics/storage_backup.html">Storage &amp; Backup</a></li><li>&nbsp;•&nbsp; <a href="/topics/games.html">Games</a></li><li>&nbsp;•&nbsp; <a href="/topics/macworld_expo.html">Macworld Expo</a></li><li class="last">&nbsp;•&nbsp; <a href="/topics/security.html">Security</a></li>
+        	<li class="special"><strong>NEW</strong> <a href="/appguide/index.html">iPhone App Guide</a></li>
+        	
+			<li>&nbsp;•&nbsp; <a href="/topics/mac_os_x.html">Mac OS X</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/entertainment_and_hdtv.html">Entertainment &amp; HDTV</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/create.html">Create</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/business_center.html">Business Center</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/mobile_mac.html">Mobile Mac</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/digital_photo.html">Digital Photo</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/mac_it.html">Mac IT</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/storage_and_backup.html">Storage &amp; Backup</a></li>
+			<li>&nbsp;•&nbsp; <a href="/topics/games.html">Games</a></li>
+			<li class="last">&nbsp;•&nbsp; <a href="/topics/security.html">Security</a></li>
 	        <div class="spacer"></div>
 	   </ul>
       </div>
+
  
     <div class="spacer"></div>
   </div>
@@ -287,124 +348,134 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 		        <div id="leftColumn">
 		            
 		            <p>At Macworld, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information. Our policy is divided into three main sections: Section 1 describes how we collect and use data from users of Macworld.com, Macuser.com, and Macosxhints.com, which together are referred to in this policy as the "Macworld sites." Section 2 describes how we collect and use data from subscribers to the print and electronic editions of Macworld magazine. And because Macworld is owned by International Data Group (IDG) and is part of the IDG Publishing Network of technology publications, Section 3 presents the privacy policy for the IDG Publishing Network.</p>
-        <p>We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:</p>
-        <blockquote>Customer Service<br>
-        Mac Publishing LLC<br>
-        501 Second Street<br>
-        San Francisco, CA 94107<br>
-        e-mail: <a href="sitehelp@macworld.com">sitehelp@macworld.com</a></blockquote>
+<p>We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:</p>
+<blockquote>Customer Service<br>
+Mac Publishing LLC<br>
+501 Second Street<br>
+San Francisco, CA 94107<br>
+e-mail: <a href="sitehelp@macworld.com">sitehelp@macworld.com</a></blockquote>
 
-        <p>Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.</p>
+<p>Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.</p>
 
-		<a name="info"></a>
-        <h3>1. Macworld Online Privacy Policy</h3>
-        <p>Macworld collects data, including personally identifying information, from people who use the Macworld Web sites. This section of our privacy policy explains how we collect and use this data. Please note that Macworld subscriber data is maintained separately from data gathered from our online users. This means that users of the Macworld Web sites who also subscribe to Macworld magazine, in either print or electronic form, should read both this section and Section 2 (Macworld Subscriber Privacy Policy) in order to have a full understanding of our privacy practices.</p>
+<a name="info"></a>
+<h3>1. Macworld Online Privacy Policy</h3>
+<p>Macworld collects data, including personally identifying information, from people who use the Macworld Web sites. This section of our privacy policy explains how we collect and use this data. Please note that Macworld subscriber data is maintained separately from data gathered from our online users. This means that users of the Macworld Web sites who also subscribe to Macworld magazine, in either print or electronic form, should read both this section and Section 2 (Macworld Subscriber Privacy Policy) in order to have a full understanding of our privacy practices.</p>
 
-        <h4>Information we collect and how we use it</h4>
-        <p>When you visit the Macworld Web sites, Macworld collects several forms of usage data, including:</p>
-		<ul>
-        <li>Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.</li>
-        <li>Cookie data. When you visit the Macworld Web sites, Macworld or one of our IDG affiliates or third-party partners may send one or more "cookies"-small files containing a string of characters-to your computer to identify you as a unique user. If you have registered with Macworld, the information in your cookie is used to provide a more personalized experience on our sites, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the sites, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.</li>
-        <li>Traffic and advertising data. Other cookies are used to enable Macworld and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by Macworld do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the Macworld sites.</li>
-        <li>Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click <a href="http://www.doubleclick.com/privacy/index.aspx" target="_blank">here</a> to visit the DoubleClick website and <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a> to visit the website of the Network Advertising Initiative. In addition, some of the image ads that Google serves on our site come from third party advertising companies. Click <a href="http://adwords.google.com/support/bin/answer.py?answer=94230" target="_blank">here</a> to see Google's rules for advertising companies that participate in the program, and <a href="https://www.google.com/adsense/support/bin/answer.py?answer=94149&amp;ctx=sibling" target="_blank">here</a> to see a list of the advertising companies that are currently participating.</li>
-        </ul>
-        <p>Browsers or third-party software can allow you to block the use of cookies while you surf our sites. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the Macworld Web sites.</p>
-        <p>The aggregated information we collect is used for a number of purposes including the following:</p>
-		<ol>
-        <li>To improve the content and design of the Macworld Web sites.</li>
-        <li>To enable our audit bureau to verify our claims of traffic to the sites.</li>
-        <li>To help advertisers, potential advertisers or marketers assess the suitability of the sites for their ad campaigns.</li>
-        <li>To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.</li>
-        </ol>
-        <p>Many portions of the Macworld sites can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, Macworld does collect personally identifying information regarding our online users, including in the following ways:</p>
-		<ul>
-        <li>When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, buying a product, signing up for a newsletter, tutorial, or email or mobile alerts, or otherwise contacting us.</li>
-        <li>When you provide it to a company that powers a portion of our sites or provides a special feature, such as a contest registration or a white paper library, that appears on our site.</li>
-        <li>When you provide information about yourself or your company to Macworld in connection with a subscription order, or when you provide information to any other IDG Publishing Network affiliate, that information may be included in your Macworld user record, if one exists.</li>
-        <li>If you have previously registered with another IDG Publishing Network affiliate and you begin to fill out certain forms on the Macworld Web sites, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your Macworld user record.</li>
-        <li>If you have provided information to Macworld, from time to time we may enhance that information with other information that we collect from third-party sources.</li>
-		</ul>
-        <p>The personal information we collect may be linked to information regarding your use of the Macworld sites, such as which newsletters or alerts you subscribe to or which categories of white paper content you have downloaded. This combined data helps us recommend content to you and target our communications to topics that interest you. The personal information and related data may be used in a number of ways, including the following:</p>
-		<ul>
-        <li>To improve the content of the Macworld sites, including by allowing Macworld's editors to consult with readers.</li>
-        <li>To communicate with users about registration and other customer service issues.</li>
-        <li>To promote products and services of Macworld, our parent company IDG, and our sibling IDG companies, as described in more detail below.</li>
-        <li>To conduct research surveys on behalf of Macworld, IDG, and its subsidiaries and affiliates.</li>
-		</ul>
-        <h4>Information sharing</h4>
-        <p>Macworld may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:</p>
-		<ul>
-        <li>We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Macworld or our employees or customers.</li>
-        <li>We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.</li>
-        <li>If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. Macworld and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the sites operated by third parties normally include a "Powered by" logo naming the third party, or include links to the third party's privacy policy.</li>
-        <li>We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by Section 2 (Macworld Subscriber Privacy Policy).</li>
-        <li>As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.</li>
-        <li>We may share information with third parties for promotional purposes, as described below.</li>
-		</ul>
+<h4>Information we collect and how we use it</h4>
+<p>When you visit the Macworld Web sites, Macworld collects several forms of usage data, including:</p>
+<ul>
+<li>Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.</li>
+<li>Cookie data. When you visit the Macworld Web sites, Macworld or one of our IDG affiliates or third-party partners may send one or more "cookies"-small files containing a string of characters-to your computer to identify you as a unique user. If you have registered with Macworld, the information in your cookie is used to provide a more personalized experience on our sites, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the sites, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.</li>
+<li>Traffic and advertising data. Other cookies are used to enable Macworld and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by Macworld do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the Macworld sites.</li>
+<li>Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Macworld sites. These companies may place cookies, web beacons or similar technologies that allow them to collect and use anonymous information about your visits to the Macworld sites and other sites. For more information about their practices and your options regarding their collection and use of information, click <a href="http://www.doubleclick.com/privacy/index.aspx" target="_blank">here</a> to visit the DoubleClick website and <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a> to visit the website of the Network Advertising Initiative. In addition, some of the image ads that Google serves on our site come from third party advertising companies. Click <a href="http://adwords.google.com/support/bin/answer.py?answer=94230" target="_blank">here</a> to see Google's rules for advertising companies that participate in the program, and <a href="https://www.google.com/adsense/support/bin/answer.py?answer=94149&amp;ctx=sibling" target="_blank">here</a> to see a list of the advertising companies that are currently participating.</li>
+</ul>
 
-        <p>In addition, you should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. Macworld and its parent and affiliate companies are not responsible for any information that you provide in the above areas.</p>
+<p>Browsers or third-party software can allow you to block the use of cookies while you surf our sites. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the Macworld Web sites.</p>
+<p>The aggregated information we collect is used for a number of purposes including the following:</p>
 
-        <h4>Use of data for promotions, and choices for personal information</h4>
-        <p>When you provide your e-mail address to us, you agree to receive e-mail from Macworld, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
-        <p>You may have the opportunity to provide us with your mobile phone number, whether by responding to a form that asks for a mobile number or by using your phone to send us certain kinds of communications, such as a shortcode, SMS or other mobile message. We use your mobile phone number to provide the products and services you've specifically requested, such as content delivery to your phone, and for customer service regarding those products and services. We may use your mobile phone number to promote other products and services of Macworld and its sibling IDG companies if you have expressly consented to receive our promotions via your phone. Similarly, we may use your mobile phone number to promote products and services of carefully chosen third parties if you have expressly consented to receive third party promotions via your phone. Your preferences for receiving promotions via your mobile phone are separate from your preferences for receiving promotions via other means, and you can update your mobile phone preferences at any time simply by following the instructions included in the messages we send to your mobile phone. Please note that the privacy practices described in this paragraph apply only to mobile phone numbers provided to us in the ways described above. If you provide your mobile phone number in other contexts, such as by entering a mobile phone number in a form that asks for your home or business number, we will not be able to identify the number as a mobile number, and the practices described in this paragraph will not apply. Also, please be aware that many mobile phone companies recycle phone numbers, so if you have a new phone number it is possible that you might receive messages that the previous holder of the number had signed up for or consented to receive.</p>
-        <p>Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote Macworld and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for Macworld and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.</p>
-        <p>In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to <a href="sitehelp@macworld.com">sitehelp@macworld.com</a></p>
-        <p>If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.</p>
+<ol>
+<li>To improve the content and design of the Macworld Web sites.</li>
+<li>To enable our audit bureau to verify our claims of traffic to the sites.</li>
+<li>To help advertisers, potential advertisers or marketers assess the suitability of the sites for their ad campaigns.</li>
+<li>To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.</li>
+</ol>
 
-        <h3>2. Macworld Subscriber Privacy Policy</h3>
-        <p>Macworld collects personally identifying information and data from people who subscribe to Macworld magazine, whether in print or via an electronic edition. This section of our privacy policy explains how we collect and use subscriber information. Please note that Macworld subscriber data is maintained separately from data gathered from our online users. This means that subscribers who also use the Macworld Web sites should read both this section and Section 1 (Macworld Online Privacy Policy) in order to have a full understanding of our privacy practices.</p>
-        <h4>Information we collect and how we use it</h4>
+<p>Many portions of the Macworld sites can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, Macworld does collect personally identifying information regarding our online users, including in the following ways:</p>
+<ul>
+<li>When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, buying a product, signing up for a newsletter, tutorial, or email or mobile alerts, or otherwise contacting us.</li>
+<li>When you provide it to a company that powers a portion of our sites or provides a special feature, such as a contest registration or a white paper library, that appears on our site.</li>
+<li>When you provide information about yourself or your company to Macworld in connection with a subscription order, or when you provide information to any other IDG Publishing Network affiliate, that information may be included in your Macworld user record, if one exists.</li>
+<li>If you have previously registered with another IDG Publishing Network affiliate and you begin to fill out certain forms on the Macworld Web sites, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your Macworld user record.</li>
+<li>If you have provided information to Macworld, from time to time we may enhance that information with other information that we collect from third-party sources.</li>
+</ul>
+<p>The personal information we collect may be linked to information regarding your use of the Macworld sites, such as which newsletters or alerts you subscribe to or which categories of white paper content you have downloaded. This combined data helps us recommend content to you and target our communications to topics that interest you. The personal information and related data may be used in a number of ways, including the following:</p>
 
-        <p>We collect personally identifying information regarding subscribers in three main ways:</p>
-		<ul>
-        <li>When you provide it to us, such as by ordering a subscription, entering a contest, signing up for a newsletter or otherwise contacting us.</li>
-        <li>When you provide information about yourself or your company to the Macworld Web sites or when you register for any other IDG Publishing Network products, your information may be included in your Macworld subscriber record.</li>
-        <li>From time to time we may add other information that we collect from third-party sources to enhance the information that you provided to Macworld.</li>
-		</ul>
+<ul>
+<li>To improve the content of the Macworld sites, including by allowing Macworld's editors to consult with readers.</li>
+<li>To communicate with users about registration and other customer service issues.</li>
+<li>To promote products and services of Macworld, our parent company IDG, and our sibling IDG companies, as described in more detail below.</li>
+<li>To conduct research surveys on behalf of Macworld, IDG, and its subsidiaries and affiliates.</li>
+</ul>
 
-        <p>When you subscribe to Macworld, you must provide your postal address (for print subscribers) or e-mail address (for electronic edition subscribers), and you may choose to provide us with additional personal information, such as your telephone or fax number, and with demographic information, all of which becomes part of your subscription record. The data in your subscription record is used in a number of ways, including the following:</p>
-		<ul>
-        <li>To deliver your subscription.</li>
-        <li>To improve the content of Macworld, including by allowing Macworld's editors to consult with readers.</li>
-        <li>To notify subscribers about renewals and other customer service issues.</li>
-        <li>To help our audit bureau verify cumulative circulation and demographic statistics.</li>
-        <li>To conduct research surveys on behalf of Macworld, IDG, and its subsidiaries and affiliates.</li>
-		</ul>
+<h4>Information sharing</h4>
+<p>Macworld may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:</p>
 
-        <h4>Information sharing</h4>
-        <p>Macworld may share aggregated, nonpersonal information, such as total magazine circulation or circulation in a particular state or zip code, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. We may also share personal information in any of the following circumstances:</p>
-		<ul>
-        <li>We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Macworld or our employees or customers.</li>
-        <li>We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.</li>
-        <li>We may transfer personal information from your subscriber record to our online user database, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the online user database will be governed by Section 1 (Macworld Online Privacy Policy).</li>
-        <li>As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.</li>
-        <li>We may share information with third parties for promotional purposes, as described below.</li>
-		</ul>
-        <h4>Use of data for promotions, and choices for personal information</h4>
-        <p>Postal addresses will be used to promote Macworld and IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
-        <p>When you provide your e-mail address to us, you agree to receive promotional e-mail from Macworld, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
-        <p>Subscribers who do not want their personal information used for third-party promotions may write and ask to be removed from such promotion lists. Requests should be sent to:</p>
+<ul>
+<li>We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Macworld or our employees or customers.</li>
+<li>We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.</li>
+<li>If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. Macworld and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the sites operated by third parties normally include a "Powered by" logo naming the third party, or include links to the third party's privacy policy.</li>
+<li>We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by Section 2 (Macworld Subscriber Privacy Policy).</li>
+<li>As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.</li>
+<li>We may share information with third parties for promotional purposes, as described below.</li>
+</ul>
 
-        <blockquote>Macworld<br>
-        Attn: Subscriber Services<br>
-        P.O. Box 37571<br>
-        Boone, IA 50037-0571</blockquote>
+<p>In addition, you should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. Macworld and its parent and affiliate companies are not responsible for any information that you provide in the above areas.</p>
 
-        <p>If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.</p>
+<h4>Use of data for promotions, and choices for personal information</h4>
 
-        <h3>3. IDG Publishing Network Privacy Policy</h3>
-        <p>Macworld is part of the IDG Publishing Network, a group of Web sites for the IDG family of technology publications. The policy below governs the use of personally identifying information collected by the IDG Publishing Network from registered members of sites that are part of the IDG Publishing Network and from subscribers to IDG publications. For information on Macworld's privacy practices, please see Section 1 (Macworld Online Privacy Policy) and Section 2 (Macworld Subscriber Privacy Policy).</p>
+<p>When you provide your e-mail address to us, you agree to receive e-mail from Macworld, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
+<p>You may have the opportunity to provide us with your mobile phone number, whether by responding to a form that asks for a mobile number or by using your phone to send us certain kinds of communications, such as a shortcode, SMS or other mobile message. We use your mobile phone number to provide the products and services you've specifically requested, such as content delivery to your phone, and for customer service regarding those products and services. We may use your mobile phone number to promote other products and services of Macworld and its sibling IDG companies if you have expressly consented to receive our promotions via your phone. Similarly, we may use your mobile phone number to promote products and services of carefully chosen third parties if you have expressly consented to receive third party promotions via your phone. Your preferences for receiving promotions via your mobile phone are separate from your preferences for receiving promotions via other means, and you can update your mobile phone preferences at any time simply by following the instructions included in the messages we send to your mobile phone. Please note that the privacy practices described in this paragraph apply only to mobile phone numbers provided to us in the ways described above. If you provide your mobile phone number in other contexts, such as by entering a mobile phone number in a form that asks for your home or business number, we will not be able to identify the number as a mobile number, and the practices described in this paragraph will not apply. Also, please be aware that many mobile phone companies recycle phone numbers, so if you have a new phone number it is possible that you might receive messages that the previous holder of the number had signed up for or consented to receive.</p>
+<p>Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote Macworld and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for Macworld and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.</p>
+<p>In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to <a href="sitehelp@macworld.com">sitehelp@macworld.com</a></p>
+<p>If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.</p>
 
-        <h4>IDG Publishing Network Privacy Policy</h4>
-        <p>Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on <a href="http;//www.idg.com">www.idg.com</a>.</p>
-        <p>About the IDG Publishing Network</p>
-        <p>The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including Macworld, Macworld, Computerworld, InfoWorld, CIO, CSO, Darwin, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, maccentral.com, javaworld.com, playlistmag.com, cio.com, csoonline.com, computerworld.com, darwinmag.com, infoworld.com, and networkworld.com. A complete listing is available at www.idg.com.</p>
-        <p>To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time.</p>
-        <p>You can opt out of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site to which you provided the information, please refer to the site's privacy policy for the procedure to follow.</p>
-        <p>The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.</p>
-        <p>If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to <a href="mailto:IDGNetwork@idg.com">IDGNetwork@idg.com</a> or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.</p>
-        <p>Last updated: June 18, 2008.</p>
+<h3>2. Macworld Subscriber Privacy Policy</h3>
+<p>Macworld collects personally identifying information and data from people who subscribe to Macworld magazine, whether in print or via an electronic edition. This section of our privacy policy explains how we collect and use subscriber information. Please note that Macworld subscriber data is maintained separately from data gathered from our online users. This means that subscribers who also use the Macworld Web sites should read both this section and Section 1 (Macworld Online Privacy Policy) in order to have a full understanding of our privacy practices.</p>
+<h4>Information we collect and how we use it</h4>
 
+<p>We collect personally identifying information regarding subscribers in three main ways:</p>
+<ul>
+<li>When you provide it to us, such as by ordering a subscription, entering a contest, signing up for a newsletter or otherwise contacting us.</li>
+<li>When you provide information about yourself or your company to the Macworld Web sites or when you register for any other IDG Publishing Network products, your information may be included in your Macworld subscriber record.</li>
+<li>From time to time we may add other information that we collect from third-party sources to enhance the information that you provided to Macworld.</li>
+</ul>
+
+<p>When you subscribe to Macworld, you must provide your postal address (for print subscribers) or e-mail address (for electronic edition subscribers), and you may choose to provide us with additional personal information, such as your telephone or fax number, and with demographic information, all of which becomes part of your subscription record. The data in your subscription record is used in a number of ways, including the following:</p>
+<ul>
+<li>To deliver your subscription.</li>
+<li>To improve the content of Macworld, including by allowing Macworld's editors to consult with readers.</li>
+<li>To notify subscribers about renewals and other customer service issues.</li>
+<li>To help our audit bureau verify cumulative circulation and demographic statistics.</li>
+<li>To conduct research surveys on behalf of Macworld, IDG, and its subsidiaries and affiliates.</li>
+</ul>
+
+<h4>Information sharing</h4>
+<p>Macworld may share aggregated, nonpersonal information, such as total magazine circulation or circulation in a particular state or zip code, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. We may also share personal information in any of the following circumstances:</p>
+
+<ul>
+<li>We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Macworld or our employees or customers.</li>
+<li>We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.</li>
+<li>We may transfer personal information from your subscriber record to our online user database, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the online user database will be governed by Section 1 (Macworld Online Privacy Policy).</li>
+<li>As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.</li>
+<li>We may share information with third parties for promotional purposes, as described below.</li>
+</ul>
+
+<h4>Use of data for promotions, and choices for personal information</h4>
+<p>Postal addresses will be used to promote Macworld and IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
+<p>When you provide your e-mail address to us, you agree to receive promotional e-mail from Macworld, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.</p>
+<p>Subscribers who do not want their personal information used for third-party promotions may write and ask to be removed from such promotion lists. Requests should be sent to:</p>
+
+<blockquote>Macworld<br>
+Attn: Subscriber Services<br>
+P.O. Box 37571<br>
+Boone, IA 50037-0571</blockquote>
+
+<p>If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.</p>
+
+<h3>3. IDG Publishing Network Privacy Policy</h3>
+<p>Macworld is part of the IDG Publishing Network, a group of Web sites for the IDG family of technology publications. The policy below governs the use of personally identifying information collected by the IDG Publishing Network from registered members of sites that are part of the IDG Publishing Network and from subscribers to IDG publications. For information on Macworld's privacy practices, please see Section 1 (Macworld Online Privacy Policy) and Section 2 (Macworld Subscriber Privacy Policy).</p>
+
+<h4>IDG Publishing Network Privacy Policy</h4>
+<p>Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on <a href="http;//www.idg.com" target="_blank">www.idg.com</a>.</p>
+
+<h4>About the IDG Publishing Network</h4>
+<p>The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including PC World, Macworld, Computerworld, CIO, CSO, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, javaworld.com, cio.com, csoonline.com, computerworld.com, infoworld.com, and networkworld.com. A complete listing is available at <a href="http;//www.idg.com" target="_blank">www.idg.com</a>.</p>
+<p>To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time.</p>
+<p>You can opt out of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site to which you provided the information, please refer to the site's privacy policy for the procedure to follow.</p>
+<p>The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.</p>
+<p>If you have any questions or comments regarding the IDG Publishing Network
+or its use of information please send email to <a class="inline" href="mailto:postmasterhelp@idgcommunications.com">postmasterhelp@idgcommunications.com</a> or write to us at IDG Publishing Network, C/O Customer Service, TSG, IDG Communications, Inc., 5 Speen St., Framingham, MA 01701.</p>
+<p>Last updated: March 4, 2009.</p>
 		            <div class="spacer"></div>
 		        </div>
 		        <div id="rightColumn">
@@ -545,9 +616,9 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 
    <li>
        	
-	<div class="image 239"><a href="/article/137738/bestiphoneapps_news.html"><img src="http://images.macworld.com/images/features/graphics/137738-thumb_inform_original.jpg"></a></div>
+	<div class="image 232"><a href="/article/140287/cooliris.html"><img src="http://images.macworld.com/images/reviews/graphics/140287-cooliris_thumb_original.jpg"></a></div>
     
-    <a href="/article/137738/bestiphoneapps_news.html">Our Favorite iPhone Apps: Best information tools</a>
+    <a href="/article/140287/cooliris.html">Cooliris helps showcase photos and videos</a>
 	
 	
 	
@@ -558,9 +629,9 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 
    <li>
        	
-	<div class="image 101"><a href="/article/137733/osx_enterprise.html"><img src="http://images.macworld.com/images/news/graphics/132117-macpro_side287.jpg"></a></div>
+	<div class="image 215"><a href="/article/141423/iphone3gs_readers.html"><img src="http://images.macworld.com/images/news/graphics/141031-thumb_iphone3gs_original.jpg"></a></div>
     
-    <a href="/article/137733/osx_enterprise.html">Analysis: Judging enterprise Mac OS adoption</a>
+    <a href="/article/141423/iphone3gs_readers.html">Upgrading to iPhone 3GS: readers respond</a>
 	
 	
 	
@@ -571,9 +642,9 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 
    <li>
        	
-	<div class="image 201"><a href="/article/137734/psystar.html"><img src="http://images.macworld.com/images/shared/graphics/cms/macuser-legal.jpg"></a></div>
+	<div class="image 215"><a href="/article/141422/iphone3gs_upgrade.html"><img src="http://images.macworld.com/images/news/graphics/141143-thumb_iphone3gs_compass_original.jpg"></a></div>
     
-    <a href="/article/137734/psystar.html">Psystar: No conspiracy against Apple</a>
+    <a href="/article/141422/iphone3gs_upgrade.html">Why I'm not upgrading to an iPhone 3GS</a>
 	
 	
 	
@@ -619,7 +690,7 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
               <!--<li><a href="http://www.pcworld.com/newsletters/index.html">Newsletters</a></li>-->
               <li><a href="http://www.macworld.com/info/press.html">Press Releases</a></li>
               <li><a href="http://www.macworld.com/contact.html">Contact Us</a></li>
-              <li><a href="http://rss.macworld.com/macworld/feeds/main"><img src="http://images.pcworld.com/images/common/icon_xml.gif" alt="XML" class="imgIconXml"></a> <a href="http://rss.macworld.com/macworld/feeds/main">RSS Feeds</a></li>
+              <li><a href="http://www.macworld.com/feeds/index"><img src="http://images.pcworld.com/images/common/icon_xml.gif" alt="XML" class="imgIconXml"></a> <a href="http://www.macworld.com/feeds/index">RSS Feeds</a></li>
               <li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MCW">Magazine Customer Service</a></li>
               <li><a href="http://www.macworld.com/info/standards.html">Community Standards</a></li>
             </ul>
@@ -669,7 +740,7 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
             </select>
             </form>
             
-            <a href="http://www.pcworld.com/resource/copyright.html">© 1994-2008 Mac Publishing, LLC. Site design by Jason Brightman.</a>
+            <a href="http://www.macworld.com/info/copyright.html">© 1994-2009 Mac Publishing, LLC. Site design by Jason Brightman.</a>
       </div> <!-- END IDG -->
         
     </div> <!-- END footer -->
@@ -679,7 +750,7 @@ _qacct="p-25K88fxDSEn9Y";quantserve();</script>
 
 
 
-<!-- Page generated: Tue Dec 23 17:00:39 PST 2008 -->
+<!-- Page generated: Sat Jun 27 15:42:26 PDT 2009 -->
 
 
 
