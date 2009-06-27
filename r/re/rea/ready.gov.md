@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054734id_/http%3A//www.ready.gov/america/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627073514id_/http%3A//www.ready.gov/america/other/privacy.html) for the most accurate reproduction.*
 
 # Ready.gov: Privacy Policy
 
 Thanks for visiting the Ready.gov website and reviewing our privacy policy! Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
+<9> We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.
 
 ### Information Collected and Stored Automatically
 
