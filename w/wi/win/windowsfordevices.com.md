@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216053824id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212147id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Ziff Davis Enterprise - Where Tech Buyers Get Results
 
-**Ziff Davis Enterprise Privacy Policy**
+**ZIFF DAVIS ENTERPRISE PRIVACY POLICY**
 
 Ziff Davis Enterprise is committed to protecting your privacy. This policy describes the ways that personally identifiable and anonymous information about our online users, event registrants and print subscribers is gathered, our information sharing practices, and how online users and print subscribers may request changes to the way this information is shared.
 
-**Personally Identifiable Information We Collect**
+**_Personally Identifiable Information We Collect_**
 
 We collect personally identifiable information when you provide it to us, such as when you subscribe to our magazines (either directly with us or through another company such as a subscription agency), sign up for email newsletters, enter a contest, register for site membership, participate in surveys, or to otherwise communicate with us. Several of the services that we offer, including but not limited to file downloads, message boards, eSeminars and the Web Buyer's Guide require registration as a condition of use; when you register with one of our sites you are no longer anonymous. We may also receive information about you from other sources and add it to the information you have provided to us.
 
-**Information You Volunteer and How it Is Displayed to Others Online**
+**_Information You Volunteer and How it Is Displayed to Others Online_**
 
 Ziff Davis Enterprise is not responsible for the information you volunteer about yourself in the course of discussions in our forums, chat rooms, or other forms of publicly accessible interaction, or information that you choose to make public in your member profile. As a member, you can view, correct or change your publicly available information at any time via your member profile page. To view or change your profile, please follow the link for the site from which you registered:
 
@@ -49,26 +49,32 @@ Ziff Davis Enterprise is not responsible for the information you volunteer about
 
 Personally identifiable information you provide as a subscriber to the Microsoft Watch newsletter is not shared with anyone except on an aggregate, statistical basis, except for the purposes of fulfillment and email deployment.
 
-**What We Provide to Third Parties  
+**_What We Provide to Third Parties_**
+
+**  
 Statistical Reports and Analysis**
 
-Naturally, the aggregate statistics that describe our print and online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis Enterprise and its brands. The information we share under these circumstances does not contain behavioral or identifying information about any individual reader or user, unless the individual has given us permission to share that information.
+The aggregate statistics that describe our print and online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis Enterprise and its brands. The information we share under these circumstances does not contain behavioral or identifying information about any individual reader or user, unless the individual has given us permission to share that information.
 
 **Mailing Lists**
 
-We make email and postal lists of our customers available on a rental, i.e., temporary, defined, basis, to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't wish for us to share this information:
+We make e-mail and postal lists of our customers available on a rental (i.e., temporary, defined, basis) to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't want us to share this information:
 
   * If you are a subscriber to a Ziff Davis Enterprise magazine and would prefer that your contact information not be provided to third parties, please log in and change your preferences at:
-    * eWEEK: http://www.omeda.com/custsrv/ewk/
-    * Baseline: http://www.omeda.com/custsrv/bsl/
-    * CIO Insight: http://www.omeda.com/custsrv/ist/
-  
-Note: If you are a new subscriber, your information may not be immediately available ? please allow up to 4 weeks from placing your subscription order for processing. 
+
+
+    * eWEEK: [_http://www.omeda.com/custsrv/ewk/_](http://www.omeda.com/custsrv/ewk/)
+    * Baseline:[ _http://www.omeda.com/custsrv/bsl/_](http://www.omeda.com/custsrv/bsl/)
+    * CIO Insight:[ _http://www.omeda.com/custsrv/ist/_](http://www.omeda.com/custsrv/ist/)
+
+>  
+
+  * If you are a new subscriber, your information may not be immediately available.  Please allow up to 4 weeks from placing your subscription order for processing. 
   * If you are a registered user of our sites, you can change your preferences via the profile page links shown above.
-  * If you are a registered user of Ziff Davis eSeminars, please send email with your preference request to eSeminars@ziffdavisenterprise.com. Please see below for details on eSeminars's privacy policies. 
-  * If you've registered to attend a Ziff Davis Enterprise face-to-face event and prefer this information not be shared, please send email with your preference request to events@ziffdavisenterprise.com.
-  * If you are a registered user of the Ziff Davis Enterprise Web Buyer's Guide and prefer this information not be shared, please send email with your preference request to WebBuyersGuide@ziffdavisenterprise.com.
-  * If you are a registered member of the DeviceForge sites (including LinuxDevices.com, WindowsForDevices.com, DeviceForge.com) and prefer your information not be shared, please send email with your preference request to privacy@deviceforge.com
+  * If you are a registered user of Ziff Davis Enterprise eSeminars, please send email with your preference request to [_eSeminars@ziffdavisenterprise.com_](mailto:eseminars@ziffdavisenterprise.com). Please see below for details on eSeminars's privacy policies. 
+  * If you've registered to attend a Ziff Davis Enterprise face-to-face event and prefer this information not be shared, please send email with your preference request to [_events@ziffdavisenterprise.com_](mailto:events@ziffdavisenterprise.com).
+  * If you are a registered user of the Ziff Davis Enterprise Web Buyer's Guide and prefer this information not be shared, please send email with your preference request to [_WebBuyersGuide@ziffdavisenterprise.com_](mailto:webbuyersguide@ziffdavisenterprise.com).
+  * If you are a registered member of the DeviceForge sites (including LinuxDevices.com, WindowsForDevices.com, DeviceForge.com) and prefer your information not be shared, please send email with your preference request to [_privacy@deviceforge.com_](mailto:privacy@deviceforge.com)
 
 
 
@@ -90,11 +96,11 @@ As a Ziff Davis Enterprise customer you can also expect to receive relevant emai
 
 The mailing list(s) associated with Ziff Davis Enterprise properties may also be subject to transfer to another company in the event of a change of ownership. In this event, Ziff Davis Enterprise or the new owner of the affected properties will use commercially reasonable efforts to notify you and provide the opportunity to remove your name from the associated mailing list(s).
 
-**Anonymous Information We Collect**
+**_Anonymous Information We Collect_**
 
 **Cookies**
 
-As you probably know, cookies are small pieces of information that many Web sites store on your computer's hard drive when you visit them. They don't tell us who you are unless you've specifically given us personally identifiable information. Cookies stored on your hard drive by a Ziff Davis Enterprise site are not accessible to other sites.
+Cookies are small pieces of information that many Web sites store on your computer's hard drive when you visit them. They don't tell us who you are unless you've specifically given us personally identifiable information. Cookies stored on your hard drive by a Ziff Davis Enterprise site are not accessible to other sites.
 
 Like many other web sites, Ziff Davis Enterprise sites use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don't have to re-enter a user id and password when they wish to download a utility or post to a discussion. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. You need not have cookies turned on to visit our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis Enterprise web site, you must have cookies enabled to access any member related pages (i.e. Discussion Boards, Member Profile pages, Search for a Member).
 
@@ -116,21 +122,17 @@ Some of our advertisers use third-party companies to serve their advertisements 
 
 Ziff Davis Enterprise eSeminars produces and hosts sponsored webcasts and online trade shows for a variety of companies (Sponsors). All data collected during the registration for such events will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise eSeminars will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how eSeminar Sponsors use the information you provide, please contact the Sponsor directly.
 
-Ziff Davis Enterprise eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast provider, ON24, Inc. Your data is collected and retained by ON24 for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, ON24 uses cookie technology to identify you as a registered user of the eSeminars service.
-
-If you have any questions, please contact eSeminars@ziffdaviseenterprise.com.
+Ziff Davis Enterprise eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast provider, ON24, Inc. Your data is collected and retained by ON24 for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, ON24 uses cookie technology to identify you as a registered user of the eSeminars service.  If you have any questions, please contact [eSeminars@ziffdavisenterprise.com](mailto:eseminars@ziffdavisenterprise.com).
 
 **Ziff Davis Enterprise Events**
 
 Ziff Davis Enterprise Events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly. 
 
-If you have any questions, please contact events@ziffdavisenterprise.com.
+If you have any questions, please contact [events@ziffdavisenterprise.com](mailto:events@ziffdavisenterprise.com).
 
-**Ziff Davis Web Buyer's Guide**
+**Ziff Davis Enterprise Web Buyer's Guide**
 
-The Ziff Davis Web Buyer's Guide hosts sponsored product listings for a variety of companies (Sponsors). If you view one or more product listings supplied by a Web Buyer's Guide Sponsor, all data collected during Web Buyer's Guide registration and/or Ziff Davis Internet Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.
-
-If you have any questions, please contact WebBuyersGuide@ziffdavisenterprise.com.
+The Ziff Davis Enterprise Web Buyer's Guide hosts sponsored product and content listings for a variety of companies (Sponsors). If you view one or more product or content listings supplied by a Web Buyer's Guide Sponsor, all data collected during Web Buyer's Guide registration and/or Ziff Davis Enterprise Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Enterprise will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Enterprise uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.  If you have any questions, please contact[ WebBuyersGuide@ziffdavisenterprise.com](mailto:webbuyersguide@ziffdavisenterprise.com).
 
 **Contests and Sweepstakes**
 
@@ -140,40 +142,38 @@ Ziff Davis Enterprise publications and Web sites periodically conduct contests a
 
 When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Their use of your information is subject to their applicable privacy policies.
 
-**Changing Your Privacy Options**
+**_Changing Your Privacy Options_**
 
-**Update Your Registration Information**
+**Updating Your Registration Information**
 
 You can correct or change the information collected during site registration at any time at the profile page links shown above, or, for eSeminars and Events, by sending email to the addresses shown above. 
 
-**Update Your Newsletter Subscriptions**
+**Updating Your Newsletter Subscriptions**
 
 You can opt-in to newsletter mailing lists, or remove yourself at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. 
 
-**Update Your Print Subscription Information**
+**Updating Your Print Subscription Information**
 
 You can correct or change your print subscription information at: 
 
-  * eWEEK: http://www.omeda.com/custsrv/ewk/
-  * Baseline: http://www.omeda.com/custsrv/bsl/
-  * CIO Insight: http://www.omeda.com/custsrv/ist/
+  * eWEEK:[ _http://www.omeda.com/custsrv/ewk/_](http://www.omeda.com/custsrv/ewk/)
+  * Baseline: [_http://www.omeda.com/custsrv/bsl/_](http://www.omeda.com/custsrv/bsl/)
+  * CIO Insight:[ _http://www.omeda.com/custsrv/ist/_](http://www.omeda.com/custsrv/ist/)
 
 
 
-**Security**
+**_Security_**
 
 We use reasonable precautions to keep the personal information you disclose to our magazines and websites secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties. 
 
-**Children**
+**_Children_**
 
-Ziff Davis Enterprise web sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites.
+Ziff Davis Enterprise Web sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites.  If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
-
-**Changes to the Ziff Davis Privacy Policy**
+**_Changes to the Ziff Davis Enterprise Privacy Policy_**
 
 This Privacy Policy may be modified from time to time. Any modifications to our privacy policy will be reflected first on this page, so check back often. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy. 
 
-**Questions?**
+**_Questions?_**
 
-If you have any questions on our Privacy Policy, you can contact us at [site.feedback@ziffdavisenterprise.com](mailto:site.feedback@ziffdavisenterprise.com). 
+If you have any questions on our Privacy Policy, you can contact us at [site.feedback@ziffdavisenterprise.com](mailto:site.feedback@ziffdavisenterprise.com).
