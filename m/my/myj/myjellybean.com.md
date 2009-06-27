@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627213051id_/http%3A//www.myjellybean.com/corporate/privacy/privacy.htm) for the most accurate reproduction.*
 
 # MyJellybean | Corporate | Privacy Policy
 
@@ -34,9 +34,9 @@ Our message boards are monitored for compliance with the board rules by a team o
 
 Users should be aware that any posts and conversations on an Internet message board becomes public information. You should NOT disclose any personally identifiable information (such as your name, telephone number, address, school name, parent's workplace, and so on). Your username is the only identity you should have, and that is how people should know you on the Internet. 
 
-## Contests
+## Contests & Sweepstakes
 
-Myjellybean.com hosts regular contests in which we ask visitors for contact information (such as full name, e-mail and mailing address). This information is used strictly to contact entrants when necessary (such as informing them they have won) and to fulfill prizing. Contact information collected for contests is deleted once winners have been confirmed and prizes have been shipped. In cases where prizing is fulfilled by third-party companies (contest sponsors), we require them to delete contest winners' personal information after the prizes are sent. 
+Myjellybean.com hosts regular contests and sweepstakes in which we ask visitors for contact information (such as full name, e-mail and mailing address). This information is used strictly to contact entrants when necessary (such as informing them they have won) and to fulfill prizing. Contact information collected for contests is deleted once winners have been confirmed and prizes have been shipped. In cases where prizing is fulfilled by third-party companies (contest sponsors), we require them to delete contest winners' personal information after the prizes are sent. 
 
 ## E-Mail 
 
@@ -58,6 +58,10 @@ The ads appearing on Myjellybean.com are delivered to members by Womensforum.com
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
+## Terms Of Service
+
+In addition to reviewing this Agreement, please read our [Terms Of Service](http://www.myjellybean.com/corporate/tos/tos.htm), which governs the use of Myjellybean.com, including without limitation participation in its bulletin boards, forums, blogs, street team, and other features provided by Myjellybean Inc. Your use of the Website constitutes agreement to its terms and conditions as well.
+
 ## Contacting Us
 
 For media enquiries, please email: 
@@ -76,8 +80,8 @@ Canada
 
 Phone: (416) 466-9993
 
-[Contact Us](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/contact/contact.htm)
+[Contact Us](https://web.archive.org/web/20090627213051id_/http%3A//www.myjellybean.com/corporate/contact/contact.htm)
 
-[Advertise With Us](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/advertise/advertise.htm)
+[Advertise With Us](https://web.archive.org/web/20090627213051id_/http%3A//www.myjellybean.com/corporate/advertise/advertise.htm)
 
-[Terms Of Service](https://web.archive.org/web/20081217122447id_/http%3A//www.myjellybean.com/corporate/tos/tos.htm)
+[Terms Of Service](https://web.archive.org/web/20090627213051id_/http%3A//www.myjellybean.com/corporate/tos/tos.htm)
