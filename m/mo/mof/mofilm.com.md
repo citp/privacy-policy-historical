@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mofilm.com privacy policy that was archived on 2008-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081003091121id_/http%3A//www.mofilm.com/terms-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofilm.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627044834id_/http%3A//mofilm.com/terms-privacy.php) for the most accurate reproduction.*
 
-# Mofilm - The world's biggest Global Mobile Short Film Festival
+# MOFILM - Content Made For Mobile & Online
 
 **(Version 1 120908)**
 
-1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.mofilm.com (“Site”) and/or the services provided from it (“Services”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site. The Site, together with all its content is owned or controlled by Mofilm Ltd, a company registered in England and Wales with company number 6395308 and having its registered office at 3000 Aviator Way, Manchester M22 5TG.
+1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.mofilm.com (“Site”) and/or the services provided from it (“Services”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site. The Site, together with all its content is owned or controlled by Mofilm Ltd, a company registered in England and Wales with company number 6395308 and having its registered office at 20 Market Street, Altrincham, Cheshire WA14 1PF.
 
 2\. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK. 
 
