@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wheelsnext.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024157id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelsnext.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627204523id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wheels Rims Tires for Cars Trucks SUVs WheelsNext.com
 
-[Home](http://www.wheelsnext.com/default.cfm) | [ Customer Service](http://www.wheelsnext.com/content/customer_service.html) | [Track Orders](http://www.fedex.com/Tracking?cntry_code=us) | [About Us](http://www.wheelsnext.com/content/company.html) | [Blog](http://blog.wheelsnext.com/) | [Cart ](http://www.wheelsnext.com/default.cfm?action=dspCart)
+[Home](http://www.wheelsnext.com/default.cfm) | [Vehicles](http://www.wheelsnext.com/vehicles-cars-brands-makes-home-wheels.html) | [ Customer Service](http://www.wheelsnext.com/content/customer_service.html) | [Track Orders](http://www.fedex.com/Tracking?cntry_code=us) | [About Us](http://www.wheelsnext.com/content/company.html) | [Blog](http://blog.wheelsnext.com/) | [Cart ](http://www.wheelsnext.com/default.cfm?action=dspCart)
 
   *   * [Wheel + Tire Combos](http://www.wheelsnext.com/wheels-tires-packages.html "browse through our inventory of wheels and tires -	Wheelsnext.com your premier online store for rims, custom wheels and tires")
   * [Wheels](http://www.wheelsnext.com/wheels-rims.html "wheels, custom wheels, chrome wheels â€“ Wheelsnext.com your premier online store for custom wheels")
@@ -12,7 +12,7 @@
 
 
 
-Toll Free Experts: 1-866-937-6398 | Phone Hours (EST) M-TH: 9am - 10pm FRI: 9am - 9pm SAT: 10am - 7pm SUN: Noon - 7pm 
+Toll Free Experts: 1-866-937-6398 | Phone Hours (EST) MON-FRI: 9am - 9pm SAT: 10am - 6pm 
 
 ### Privacy Policy
 
