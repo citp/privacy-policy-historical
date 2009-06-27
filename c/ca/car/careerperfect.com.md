@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2008-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081002152755id_/http%3A//www.careerperfect.com/content/home-privacy-policy/%3Ftrk%3D1-20081001-48e45b16e3ea7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627172848id_/http%3A//www.careerperfect.com/content/home-privacy-policy) for the most accurate reproduction.*
 
 # CareerPerfect® - Privacy Policy
 
@@ -8,7 +8,7 @@ CareerPerfect.com is committed to protecting the privacy of our users. We want t
 
 ## The Following Reflects Our Commitment To You
 
-This notice applies to all information collected or submitted on the CareerPerfect.com, Monster.CareerPerfect.com, and MonsterRes.CareerPerfect.com websites.
+This notice applies to all information collected or submitted on the CareerPerfect.com, Monster.CareerPerfect.com, and MonsterRes.CareerPerfect.com Websites.
 
 ## Information About All CareerPerfect.com Visitors
 
@@ -38,7 +38,7 @@ When you purchase a career planning software program and take the included asses
 
 ## Online Order Security
 
-When you place an order online, your personal details and credit card information are scrambled using industry-standard SSL (Secure Sockets Layer) encryption technology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details and credit card information, SSL makes it very difficult for your information to be stolen or intercepted while being transferred. Our Credit Card transactions are maintained by a company called Authorize.net. All information sent to Authorize.net is encrypted, which will protect it against disclosure to third parties. When we receive your order, it is kept encrypted until they're ready to process it. For further information about Authorize.net's privacy and security practices, please [click here](http://www.authorize.net/).
+When you place an order online at CareerPerfect.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. To learn more about SSL and VeriSign (the company that provides our security certificate), [click here](http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html).
 
 ## Cookies
 
@@ -58,4 +58,4 @@ If we decide to change our privacy commitment for CareerPerfect.com, we will pos
 
 Thank you for using CareerPerfect.com. We'll keep working hard to earn your loyalty.
 
-Visit [Safe and Secure](https://web.archive.org/content/home-safe-and-secure/?trk=1-20081002-48e4e87b3511f) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
+Visit [Safe and Secure](https://web.archive.org/content/home-safe-and-secure/) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
