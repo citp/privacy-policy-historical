@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228063252id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apple.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627061015id_/http%3A//www.apple.com/legal/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
@@ -88,7 +88,7 @@ As we said, Apple takes protecting your privacy very seriously. To make sure you
 
 ## International users
 
-Apple abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/index.html). Note that personal information regarding individuals who reside in the EU is jointly controlled by Apple Sales International in Cork, Ireland, and by Apple UK Limited in Uxbridge, United Kingdom.
+Apple abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/doc_safeharbor_index.asp). Note that personal information regarding individuals who reside in the EU is jointly controlled by Apple Sales International in Cork, Ireland, and by Apple UK Limited in Uxbridge, United Kingdom.
 
 Apple’s website has links to the sites of other companies. Apple is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
