@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125227id_/http%3A//www.terraplana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627214046id_/http%3A//www.terraplana.com/privacy.php) for the most accurate reproduction.*
 
-# Terra Plana | Ethical Shoes | Fashion Footwear
+# 
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998. 
 
