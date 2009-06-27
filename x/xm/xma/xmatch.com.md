@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xmatch.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154955id_/http%3A//xmatch.com/go/page/privacy.html%3Fdcb%3Dxmatch) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmatch.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104216id_/http%3A//xmatch.com/go/page/privacy.html%3Fdcb%3Dxmatch) for the most accurate reproduction.*
 
-# Xmatch PRIVACY POLICY
+# Xmatch - Xmatch PRIVACY POLICY
 
 |   
 ---  
@@ -18,7 +18,7 @@ A Special Note About Children
 About Xmatch and Information We Collect   
 Our Use of Your Information   
 Our Disclosure of Your Information   
-Your use of Other Users' Information   
+Your Use of Other Users' Information   
 Control of Your Password   
 Reviewing and Changing Your Personally Identifiable Information   
 Third Party Collections of Information   
@@ -57,7 +57,7 @@ In order to maintain a healthy community, Xmatch cooperates with all law enforce
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
   
   
-**5\. Your use of Other Users' Information**  
+**5\. Your Use of Other Users' Information**  
 **You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. **Xmatch reserves the right to terminate those who misuse other user’s information or who otherwise violate the Xmatch Terms of Use.****  
   
 **6\. Control of Your Password**  
@@ -86,16 +86,11 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 Xmatch has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. Xmatch uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at Xmatch work hard to ensure your secure use of our services.  
   
 **10\. Update/Delete**  
-Xmatch Members have the following choices to modify or delete their information from our database:  
+Xmatch Members have the following choices to modify or delete their information from our database: 
 
-
-  * Send an email to [Customer Service](http://xmatch.com/p/help.cgi?dcb=xmatch&contact=1);  
-
-  * Log in with your password and modify/delete your profile;  
-
-  * Send a snail mail to Xmatch at 220 Humboldt Ct, Sunnyvale, CA 94089, USA  
-
-  * Call us at (610) 757-1920 
+  * Send an email to [Customer Service](http://xmatch.com/p/help.cgi?dcb=xmatch&contact=1)
+  * Log in with your password and modify/delete your profile
+  * Send a snail mail to Xmatch at 220 Humboldt Ct, Sunnyvale, CA 94089, United States
 
 Click [here](https://web.archive.org/cgi-bin/public/register.cgi) to join our [free](https://web.archive.org/cgi-bin/public/register.cgi), safe, and exciting community now.   
   
