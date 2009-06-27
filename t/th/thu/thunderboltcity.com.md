@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2008-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080412143528id_/http%3A//www.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thunderboltcity.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627130434id_/http%3A//www.thunderboltcity.com/s/help/privacy.php) for the most accurate reproduction.*
 
-# Thunderbolt City - Privacy Policy
+# Thunderbolt City Dating - Privacy Policy
 
 For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
 
