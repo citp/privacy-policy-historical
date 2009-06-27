@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230052158id_/http%3A//www.allmenus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmenus.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627075232id_/http%3A//www.allmenus.com/your-privacy-rights) for the most accurate reproduction.*
 
-# Allmenus Privacy Policy
+# Your Privacy Rights
 
-#### Campusfood.com and Allmenus.com Privacy Policy
+#### Privacy Policy
 
 _Effective September 1, 2008_
 
@@ -14,7 +14,7 @@ Please note that this notice does not apply to partners, advertisers, vendors or
 
 This Privacy Policy is incorporated by reference in our Web site's Terms of Use, which are binding on all site users. If you do not agree with this Privacy Policy, please do not participate in the site's features and services that require you to provide personal information. 
 
-#### Information Collection
+##### Information Collection
 
 We collect personal, demographic and ordering information provided by users when they register with and/or place orders on our Web sites. This information may include, among other things, names, addresses and other personally identifiable information, email addresses, mobile and other telephone numbers, instant messaging ("IM") addresses, age and date of birth, and product and restaurant preferences.
 
@@ -26,7 +26,7 @@ In addition, we store information such as page views, computer IP addresses and 
 
 Upon request, we provide Web site visitors with access to transaction information (e.g., dates on which customers made purchases or amounts and types of purchases) and contact information (e.g., name, address and phone number) we maintain about them.
 
-#### Information Sharing
+##### Information Sharing
 
 In order to process your food order, we must share the following information every time you place an order with a restaurant: your name, delivery address, food order and credit card information (if applicable). This information will be provided to the restaurant vendor from who you have ordered as well as any delivery service providers as necessary. We may also share with such vendors other information that you provide, including telephone numbers, email addresses, IM addresses and other information relating to your order.
 
@@ -46,21 +46,21 @@ We may also disclose your personal information to comply with legal obligations,
 
 In the event that Dotmenu or one or more of its Web sites or businesses is sold, merged into or otherwise transferred to or acquired by another entity, your information that we have collected may be transferred to and used by that other entity.
 
-#### Customer Communication
+##### Customer Communication
 
 Our customer service representatives may use your telephone numbers, e-mail addresses and IM addresses to notify you of the status of your order and for other purposes, such as quality assurance, product safety and customer service matters. 
 
 In addition, from time to time, we may use the information collected to send special offers on behalf of our Web sites and on behalf of third party partners or vendors (including restaurants), via email, postal mail, IM or other means. Third party partners and vendors may also send you offers of potential interest. 
 
-#### E-mail / Anti-Spam
+##### E-mail / Anti-Spam
 
 Although, as noted above, we may sometimes send offers by email on behalf restaurants or other third parties, and send you emails about our services, we do not currently purchase bulk e-mail addresses, use the services of bulk e-mail companies or share your email addresses with third parties for their own use. We may in the future decide that it is appropriate to distribute, sell or rent users' e-mail addresses to select third party partners; if we do so, we will revise this Policy accordingly.
 
-#### Third Party Online Advertising
+##### Third Party Online Advertising
 
 We use third-party advertising companies such as AlmondNet and others to serve advertisements when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you on this site and other sites and other interactive media and/or to keep track of your response to each advertisement. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [AlmondNet](http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx) or [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#### Cookies
+##### Cookies
 
 We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. Cookies are capable of storing many types of data and may be placed on your browser by us or by a third party. Cookies allow our users to order faster and more efficiently by storing information such as your location, order information and personal preferences, and by permitting you to avoid having to log in more than once during a Web site visit. We may also use and read cookies for other purposes, including to collect information on how our Web sites are used, to determine whether you have registered on or visited any of our Web sites or our partners' Web sites, to improve performance for our users, to measure the effectiveness of our advertising and links on other Web sites, and to provide you with information of potential interest to you. This may include using information about your use of our Web sites in conjunction with personally identifiable information that you have volunteered to us on one of our sites. Other technologies, such as image tags, may be used in conjunction with cookies. Image tags (also called clear GIFs or single-pixel GIFs) are small image files that may be located on pages of our Web sites, or with-in web-based emails that we may send, to track your usage and access to features on the Web sites. 
 
@@ -68,18 +68,16 @@ In addition, when you visit our Web sites, third party vendors and advertisers a
 
 Most web browsers are set up to accept cookies. You can, however, set your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies. In addition, cookies can be easily and safely deleted from your system. See you browser's help section for instructions.
 
-#### Security Information
+##### Security Information
 
 We always use industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our site. This information can only be translated once it's received by our secure servers. These secure servers help to protect against the loss, misuse or alteration of information that we have collected from you through our Web site.
 
-#### Questions or Comments
+##### Questions or Comments
 
-Under the law of certain states, including California Civil Code � 1798.83, you are entitled to obtain information from us about who your personal information has been shared with. In order to obtain this information, or for other questions or comments regarding our privacy policies, you may contact us at:
+Under the law of certain states, including California Civil Code Â§ 1798.83, you are entitled to obtain information from us about who your personal information has been shared with. In order to obtain this information, or for other questions or comments regarding our privacy policies, you may contact us at:
 
 Privacy  
 Dotmenu, Inc.  
 39 West 19th Street  
 7th Floor  
 New York, NY 10011
-
-fax: 800.886.6226
