@@ -1,434 +1,89 @@
-<!--The following is the downloaded HTML source of the sunlife.com privacy policy that was archived on 2008-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081004212809id_/http%3A//sunlife.com/worldwide/v/index.jsp%3Fvgnextoid%3D46cedb72d02c0110VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunlife.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627203947id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <link rel="stylesheet" type="text/css" href="/static/shared/Stylesheets/brand.css">
-    <link rel="stylesheet" type="text/css" href="/static/shared/Stylesheets/layout.css">
-    <link rel="stylesheet" type="text/css" href="/static/shared/Stylesheets/chnIdx.css">
-    <link rel="stylesheet" type="text/css" href="/static/worldwide/Stylesheets/worldwide_override.css">
-    <link rel="stylesheet" type="text/css" media="print" href="/static/worldwide/Stylesheets/pf.css">	
-    
-    
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 
 
 
 
 
-<!-- time: 14 ms -->
-<!-- sbdebug: <META NAME="Sponsor" CONTENT="META-SPONS-IT"/>
-<META NAME="Resource-type" CONTENT="META-RES-TYP-INDEXPG-INDEXPG"/>
-<META NAME="Delivery-method" CONTENT="META-DEL-MTHD-ONLINE"/>
-<META NAME="Last-modified-date" CONTENT="2007-12-07 09:58:37.0"/>
-<META http-equiv="content-language" content="en"/><title>Sun Life Financial - Privacy</title> -->
 
-<meta name="Sponsor" content="META-SPONS-IT">
-<meta name="Resource-type" content="META-RES-TYP-INDEXPG-INDEXPG">
-<meta name="Delivery-method" content="META-DEL-MTHD-ONLINE">
-<meta name="Last-modified-date" content="2007-12-07 09:58:37.0">
-<meta http-equiv="content-language" content="en"><title>Sun Life Financial - Privacy</title>
-    
-	
-<script language="Javascript" type="text/javascript">
-	<!--
-		function OkToSubmit(formName)
-		{
-			var err = "";
-			var f = document.forms[formName];
-		
-			if(trim(f.elements["ename"]) == "")
-				
-					err += "Enter Your Name.\n";
-				
-			if(trim(f.elements["efrom"]) == "")
-				
-					err += "Enter Your Email Address.\n";
-								
-			else
-			{
-				if(checkEmail(f.elements["efrom"].value))
-				
-					err += "Enter Your Email Address.\n";
-					
-			}
-						
-			if(trim(f.elements["emessage"]) == "")
-				
-					err += "Enter your Message.\n\n";
-					
-			if(err != "")
-				
-					alert("Please correct the following error(s): \n\n"+err);
-					
-			else
-				f.submit();
-		}
-	
-		function checkEmail(strVal)
-		{
-			var blnErr = false;
-	
-			if(strVal.length < 6)
-				blnErr = true;
-			else if(strVal.indexOf("@") == 0 || strVal.lastIndexOf("@") == strVal.length-1)
-				blnErr = true;
-			else if(strVal.indexOf(".") == 0 || strVal.lastIndexOf(".") == strVal.length-1)
-				blnErr = true;
-			else if(strVal.indexOf("@") < strVal.lastIndexOf("@"))
-				blnErr = true;
-			else if((strVal.indexOf(".") - strVal.indexOf("@")) == 1)
-				blnErr = true;
-			else if(strVal.indexOf("@") < strVal.lastIndexOf("@"))
-				blnErr = true;
-			else if(strVal.indexOf("@") < 0 || strVal.indexOf(".") < 0)
-				blnErr = true;
-			else if(strVal.indexOf(" ") > 0 || strVal.indexOf(" ") == 0)
-				blnErr = true;
-	
-			if(!blnErr)
-				blnErr = checkEmailChars(strVal);
-	
-			return blnErr;
-		}
-	
-		function checkEmailChars(strVal)
-		{
-			var x = 0;
-			var blnErr = false;
-	
-			for(x=0;x<=strVal.length - 1;x++)
-			{
-				if(strVal.charCodeAt(x) != 46 && strVal.charCodeAt(x) != 64 &&
-				   strVal.charCodeAt(x) < 65 && strVal.charCodeAt(x) > 90 &&
-				   strVal.charCodeAt(x) < 97 && strVal.charCodeAt(x) > 122)
-				{
-					blnErr = true;
-					return blnErr;
-				}
-			}
-	
-			if(!blnErr)
-				return false;
-			else
-				return true;
-		}
-	
-		function trim(strObj)
-		{
-			strObj.value = ""+strObj.value;
-			var x = 0;
-			var y = 0;
-			var intEnterPos1 = -1;
-			var intEnterPos2 = -1;
-			var intSpacePos1 = -1;
-			var intSpacePos2 = -1;
-			var intChar = 0;
-			var str = ""
-			var newStr = "";
-			var intLen = strObj.value.length-1;
-	
-			//Take space from begining of string
-			for(x=0;x<=intLen;x++)
-			{
-				if(strObj.value.charCodeAt(x) == 32 && intChar == 0)
-					intSpacePos1 = x;
-				else
-					intChar++;
-			}
-	
-			if(intSpacePos1 >= 0)
-			{
-				str = strObj.value.substr(intSpacePos1+1,intLen);
-				strObj.value = str;
-			}
-			else
-				str = strObj.value;
-	
-			intLen = str.length-1;
-			intChar = 0;
-	
-			//Take space from end of string
-			for(y=intLen;y>=0;y--)
-			{
-				if(str.charCodeAt(y) == 32 && intChar == 0)
-					intSpacePos2 = y;
-				else
-					intChar++;
-			}
-			if(intSpacePos2 > 0)
-			{
-				newStr = str.substr(0,intSpacePos2);
-				strObj.value = newStr;
-			}
-			else
-				newStr = strObj.value;
-				
-			return newStr;
-		}
-		
-	function checkselection(_link) {
-		var type = document.uhipform.uhiptype.options[document.uhipform.uhiptype.selectedIndex].value;
-		if (type == "") {
-			
-				alert("Please select either administrator or student/employee.");
-				
-		} else if (type == "admin") {
-			
-				window.location = "https://www.sunnet.sunlife.com/sponsor/login.cgi?domain=SPONSOR&context=INTERNET";	
-				
-		} else {
-			
-				window.open(_link, "UHIP", "menubars,scrollbars,status,toolbar,resizable");
-					
-		}
-	}	
-	
-	 function checkForm()
- 	{
-		var lang = 1;
-		var c_no = (document.contractForm.grpcontract.value);
-		 		if ((document.contractForm.grpcontract.value) == "")
-		 		{
-		 			
-		 				alert('Please enter Group Contract Number'); 
-		 			
-		 			return false;
-		 		} else {
-		 				if (! isNaN(c_no)) {
-		 					if (c_no.length <= 6){
-								if (c_no.charAt(0)== 0) {
-									if (c_no.charAt(1)== 0) {
-											c_no = c_no.substring(2,c_no.length);
-											document.contractForm.grpcontract.value = c_no;
-											return true;
-									}
-									c_no = c_no.substring(1,c_no.length);
-									document.contractForm.grpcontract.value = c_no;
-									return true;
-								}
-		 					} else {
-		 							
-			 							alert("The contract number you entered is incorrect. Please try again.");
-		 							
-		 							document.contractForm.grpcontract.value = "";
-									document.contractForm.grpcontract.focus();
-									return false;
-		 					}
-		 				} else {
-		 					
-		 						alert("The contract number you entered is incorrect. Please try again."); 
-		 					
-		 					document.contractForm.grpcontract.value = "";
-							document.contractForm.grpcontract.focus();
-							return false;
-		 				}
-		 		}		 		
-		document.contractForm.grpcontract.value = c_no;
-		document.contractForm.grpcontract.focus();
- 		return true;
-	}
-	
-	function forwardPage(form) {
-        var index = form.Portal.selectedIndex;
-        if (form.Portal.options[index].value != "0") {
-            location = form.Portal.options[index].value;
-        }
-    }
-	//-->
-</script>
-<script language="javascript" type="text/javascript">
-<!-- 
-	function isEmpty(s) { return ((s == null) || (s.length == 0)) } 
-	function frmAlert() { 
-		
-			lang = "english";
-		
-		if (lang == "english") alert("Please ensure that all mandatory fields have been completed."); else alert("Veuillez vous assurer que toutes les zones obligatoires sont remplies."); 
-	} 
-	function pnumAlert() { 
-		
-			lang = "english";
-		 
-		if (lang == "english") alert("Please enter a valid phone number, with area code."); else alert("Veuillez inscrire un numéro de téléphone valide, précédé de l'indicatif régional."); 
-	}
-	 
-	function removeSpaces(string) { var newString = ''; for (var i = 0; i < string.length; i++) { if (string.charAt(i) != ' ') newString += string.charAt(i); } return newString; } 
-	function removeBraces(string) { var newString = ''; for (var i = 0; i < string.length; i++) { if (string.charAt(i) != '(' && string.charAt(i) != ')') newString += string.charAt(i); } return newString; } 
-	function removeHyphen(string) { var newString = ''; for (var i = 0; i < string.length; i++) { if (string.charAt(i) != '-') newString += string.charAt(i); } return newString; } 
-	function go(form) { if (!(form.elements["contactInfo"].checked) && !(form.elements["advisorCall"].checked)) { frmAlert(); return false; } if (isEmpty(form.elements["Fname"].value)) { frmAlert(); form.elements["Fname"].focus(); return false; } if (isEmpty(form.elements["Lname"].value)) { frmAlert(); form.elements["Lname"].focus(); return false; } if (isEmpty(form.elements["Email"].value)) { frmAlert(); form.elements["Email"].focus(); return false; } if (isEmpty(form.elements["companyName"].value)) { frmAlert(); form.elements["companyName"].focus(); return false; } if (isEmpty(form.elements["businessType"].value)) { frmAlert(); form.elements["businessType"].focus(); return false; } if (isEmpty(form.elements["fullTimeEmployees"].value)) { frmAlert(); form.elements["fullTimeEmployees"].focus(); return false; } if (isEmpty(form.elements["phoneNum"].value)) { frmAlert(); form.elements["phoneNum"].focus(); return false; } if (isEmpty(form.elements["streetAddress"].value)) { frmAlert(); form.elements["streetAddress"].focus(); return false; } if (isEmpty(form.elements["City"].value)) { frmAlert(); form.elements["City"].focus(); return false; } if (isEmpty(form.elements["Province"].value)) { frmAlert(); form.elements["Province"].focus(); return false; } if (isEmpty(form.elements["Pcode"].value)) { frmAlert(); form.elements["Pcode"].focus(); return false; } if (isEmpty(form.elements["Comments"].value)) { frmAlert(); form.elements["Comments"].focus(); return false; } return true; } 
-//-->
-</script> 
-<script language="javascript" type="text/javascript">
-<!--
-	function isEmpty(s) { return ((s == null) || (s.length == 0)) }
-	
-	function go(form)
-	{
-		var errArray = new Array();	
-		if (isEmpty(form.elements["rs_name"].value)) { errArray[errArray.length] = "Company name"; }
-		if (isEmpty(form.elements["rs_contract"].value)) { errArray[errArray.length] = "Contract number"; }
-		if (isEmpty(form.elements["rs_bill"].value)) { errArray[errArray.length] = "Billing group"; }
-		if (isEmpty(form.elements["rs_addr"].value)) { errArray[errArray.length] = "Shipping address"; }
-		if (isEmpty(form.elements["rs_post"].value)) { errArray[errArray.length] = "Postal code"; }
-		if (isEmpty(form.elements["rs_attn"].value)) { errArray[errArray.length] = "Contact person"; }
-		if (isEmpty(form.elements["rs_tel"].value)) { errArray[errArray.length] = "Telephone number"; }
-		
-		if (errArray.length == 0) { 
-		return true; 
-		} else {
-			alert("Please supply the following information: "+errArray);
-			form.elements["rs_name"].focus();
-			return false;
-		}
-	}
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>Sun Life Financial - Privacy</title>
 
-	function initForm() {
-		document.forms[0].USER.value="";
-		document.forms[0].PASSWORD.value="";
-		if (document.forms[0].USER.disabled == false) {
-			document.forms[0].USER.focus();
-		}
-	}
-	function initFormSponsor() {
-		document.forms[1].USER.value="";
-		document.forms[1].PASSWORD.value="";
-		if (document.forms[1].USER.disabled == false) {
-			document.forms[1].USER.focus();
-		}
-	}	
-        function CheckClicks(lang) {
-                if( isSubmitted == true ) {
-                        if (lang=="f")
-                                alert('Veuillez patienter pendant que nous soumettons vos renseignements.');
-                        else
-                                alert('Please wait while we submit your information');
-                        return false;
-                } else {
 
-                        var idField;
-                        var id;
-                        var i;
-                        var IsSaveId=false;
-                        var idLen;
 
-                        idField=document.forms[0].USER;
-                        id=idField.value;
-                        idLen=id.length;
 
-                        for (i=0;i<idLen;i++) {
-                                if (id.charAt(i)=='*') {
-                                        id=id.replace('*','!');
-                                } else if(id.charAt(i)=='&') {
-                                        id=id.replace('&',' ');
-                                }
-                        }
-                        idField.value=id;
+		<!-- CSS, JS include - Start -->
+	<link rel="stylesheet" href="/static/global/styles/global.css" type="text/css" media="screen">
 
-                        isSubmitted = true;
-                        document.form_signon.submit();
-                        return true;
-                }
-        }
-	function open_win(url) {
-		window.open(url,'_blank','height=585,width=550,toolbar=0,menubar=0,location=0,resizable=1,scrollbars=1');
-	}
-//-->
-</script>
+	<!--[if lte IE 6]>
+	<link rel="stylesheet" href="/static/global/styles/quirks_lte6.css" type="text/css" media="screen" />
+	<![endif]-->
 
-		
+	<!--[if gt IE 6]>
+	<link rel="stylesheet" href="/static/global/styles/quirks_gt6.css" type="text/css" media="screen" />
+	<![endif]-->
+
+	<!-- Printer-friendly -->
+	<link rel="alternate stylesheet" href="/static/global/styles/print.css" type="text/css" media="print">
+
+	<!-- Mobile/handheld device-friendly -->
+	<link rel="stylesheet" href="/static/global/styles/mobile.css" type="text/css" media="handheld">
+
+	<!-- Text resizing -->
+	<link rel="stylesheet" href="/static/global/styles/resize/small.css" title="small" type="text/css" media="screen">
+	<link rel="alternate stylesheet" href="/static/global/styles/resize/medium.css" title="medium" type="text/css" media="screen" disabled="">
+	<link rel="alternate stylesheet" href="/static/global/styles/resize/large.css" title="large" type="text/css" media="screen" disabled="">
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="/static/global/scripts/styleswitcher.js"></script>
+	<script type="text/javascript" src="/static/global/scripts/jquery-1.2.6.pack.js"></script>
+	<script type="text/javascript" src="/static/global/scripts/swfobject.js"></script>
+	<script type="text/javascript" src="/static/global/scripts/global.js"></script>
+	
+	
+	<!-- CSS, JS include - End -->
+
+	
+
+<title>Sun Life Financial - Privacy</title>
+
+
+
 </head>
-
 <body>
-    <div id="rootContainer">
+	<div class="en" id="wrapper">
+		<a href="#content-body" id="skipper">Skip over navigation</a>
         <!-- banner -->
-        <div id="headerContainer">
-            <!-- start header_default -->
-
-<script language="javascript">
-function WindowDisclaimer(url) {
-	windowHandle = window.open(url,"popup","width=300,height=250,left=300,top=170");
-}
-</script>
+		<div id="header">
+            		<!-- start header_default -->
 
 
+	<!-- START:// SLF LOGO [SCREEN VERSION] -->
+	<h1 title="Sun Life Financial">
+	<a href="/global/v/index.jsp?vgnextoid=28828d3c88e3b110vgnprod10000d490d09fRCRD" alt="Sun Life Financial logo">Sun Life Financial</a>
+	</h1>
+	<!-- END:// SLF LOGO [SCREEN VERSION] -->
 
-<div id="headerBorder">
-
-    <div id="headerLeft">
-        <a href="//www.sunlife.com"><img src="/static/worldwide/Images Shared/HomePage/sa_e_logo_146w83.gif" alt="Sun Life Financial logo" id="logo"></a>
-    </div>
-
-    <div id="headerRight">
-
-        <div id="stockTicker">
-					
-					
-<!-- start stockTicker -->
-
-          
-
-<div id="stockTickerTop" class="stockTickerUpper">
-    SLF (NYSE) 33.81 -1.090
-</div>
-<div id="stockTickerBottom" class="stockTickerLower">
-    as of 10/3/2008 16:07 ET
-</div>
-
-<!-- end stockTicker -->
-
-
-
-  		<div id="stockDisclaimer">
-
-			<a href='javascript:WindowDisclaimer("/static/worldwide/Static_Files/stockDisclaimer.html")'>Stock disclaimer</a>	 
-		</div>
-
-        </div> 
-
-        <div id="stockTicker">
-					
-					
-
-<div id="stockTickerTop" class="stockTickerUpper">
-    SLF (TSX) 36.02 -1.480
-</div>
-<div id="stockTickerBottom" class="stockTickerLower">
-    as of 10/3/2008 16:23 ET
-</div>
-
-<!-- end stockTicker -->
-
-
-        </div>
-
-	  <div id="siteNameGraphic">
-            
-            	<img src="/static/worldwide/Images Shared/Header/sa_e_topnav_worldwide_104w_31.jpg" alt="Worldwide">
-            
-	  </div>
+	<!-- START:// CURRENT COUNTRY -->
+	<span id="current-country" title="Worldwide">
+		Worldwide"
+	</span>
+	<!-- END:// CURRENT COUNTRY -->
+	<!-- START:// TOOLBAR LINKS -->
+	<ul id="toolbar">
+	<li>
+	    <a class="" href="/global/v/index.jsp?vgnextoid=28828d3c88e3b110vgnprod10000d490d09fRCRD">Home</a> |
+	</li>
+	<li>
+	    <a href="/global/v/index.jsp?vgnextoid=ca0156e4674bc110VgnVCM1000009b80d09fRCRD&amp;vgnLocale=fr_CA">Français</a> |
+	</li>
 	
 	
-
-        
-
-
-        <div class="utilityHeader">
-            <img align="absbottom" src="/static/worldwide/Images Shared/HomePage/utility_hdr.gif" class="utilityHeaderGraphic" alt="">
-        </div>
-
-        <div class="utilityNav">
-            <div class="utilitySearch">
-                
-<form id="utilitySearchForm" name="utilitySearchForm" action="/worldwide/v/index.jsp"><input type="hidden" value="en_CA" name="vgnLocale"> <input type="hidden" name="vgnextoid" value="71d31fce64a40110vgnprod10000d490d09fRCRD"> <input type="hidden" value="1" name="st"> <input type="hidden" value="an" name="dt"> <input type="hidden" value="10" name="nh"> <input type="hidden" value="0" name="rf"> <input type="hidden" value="1" name="lk"> <input type="hidden" value="0" name="sc"> <input type="hidden" value="a" name="ql"> <input type="hidden" name="qt"> <input type="hidden" value="en" name="la"> <input type="hidden" name="env" value="PROD"> <input type="hidden" name="op0"> <input type="hidden" name="fl0"> <input type="hidden" value="p" name="ty0"> <input type="hidden" name="op1"> <input type="hidden" name="fl1"> <input type="hidden" value="w" name="ty1"> <input type="hidden" name="tx1"> <input type="hidden" name="op2"> <input type="hidden" name="fl2"> <input type="hidden" value="w" name="ty2"> <input type="hidden" name="tx2"> <input type="hidden" name="op3"> <input type="hidden" name="fl3"> <input type="hidden" value="w" name="ty3"> <input type="hidden" name="tx3"> <input type="hidden" name="op4"> <input type="hidden" name="fl4"> <input type="hidden" value="w" name="ty4"> <input type="hidden" name="tx4"> <input type="hidden" name="op5"> <input type="hidden" name="fl5"> <input type="hidden" value="w" name="ty5"> <input type="hidden" name="tx5"> <input type="hidden" name="op6"> <input type="hidden" name="fl6"> <input type="hidden" value="w" name="ty6"> <input type="hidden" name="tx6"> <input type="hidden" value="604800" name="inthe"> <input type="hidden" value="30" name="ady"> <input type="hidden" value="1" name="amo"> <input type="hidden" value="2006" name="ayr"> <input type="hidden" value="7" name="bdy"> <input type="hidden" value="2" name="bmo"> <input type="hidden" value="2006" name="byr">   <input class="btnSearch" type="image" alt="Search" src="/static/shared/Images/sa_e_btn_search_66w20.gif" value="Search" name="btnSearch"> <input class="txtSearch" name="tx0"> </form>
-
-
-            </div>
-            <div class="utilityList">
-                <ul class="navlist">
-	                <li>
-	                    <a href="/worldwide/v/index.jsp?vgnextoid=46cedb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnLocale=fr_CA&amp;chnpath=%2FPrivacy"><img src="/static/worldwide/Images Shared/UtilityBanner/sa_f_utloff_francais_46w18.gif" alt="Français" id="languageToggle" name="languageToggle" class="utilityListItem"></a>
-	                </li>
-	                
 
 
  
@@ -436,285 +91,374 @@ function WindowDisclaimer(url) {
 <!-- start headerUtilityBanner_override -->
 
 
-<li><div class="utilityDivider"></div><a href="/worldwide/v/index.jsp?vgnextoid=0896d2b88d030110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA"><img src="/static/worldwide/Images Shared/UtilityBanner/sa_e_utloff_smap_50w18.gif" alt="Site map" class="utilityListItem" id="img20Sitemap"></a></li><li><div class="utilityDivider"></div><a href="/worldwide/v/index.jsp?vgnextoid=be0b4a4f42b30110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA"><img src="/static/worldwide/Images Shared/UtilityBanner/sa_e_utloff_contact_61w18.gif" alt="Contact us" class="utilityListItem" id="img30Contactus"></a></li>
+<li><a href="/global/v/index.jsp?vgnextoid=7240aa5ed6a7b110vgnprod10000d490d09fRCRD">Site map</a></li>
 <!-- end headerUtilityBanner_override -->
 
-<!-- time: 20 ms -->
+<!-- time: 4 ms -->
 
-                </ul>
-            </div>
-            <div class="utilityLeft">
-                <img align="absbottom" src="/static/worldwide/Images Shared/HomePage/utility_lt.gif" class="utilityLeftGraphic" alt="">
-            </div>
-        </div>
+     </ul>
 
-    </div>
+	<!-- END:// TOOLBAR LINKS -->
+	<!-- START:// CHOOSE YOUR COUNTRY -->
+	<a class="hdr-graphic" href="#" id="choose-country" title="Choose your location">
+		Choose your location
+	</a>
+	<div>
 
-</div>
-
-
-        </div>
-
-        <!-- top nav -->
-        <div id="topNavContainer" class="topNavText">
-            
-
-
-
-
-
-
-
-<!-- start topNav_override -->
-
-
-<div class="topnav"><ul><li class="topnavlevel1on"><a class="Home" href="/worldwide/v/index.jsp?vgnextoid=ceea9243545b8010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=ceea9243545b8010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Home<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="About_us" href="/worldwide/v/index.jsp?vgnextoid=6ced5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=6ced5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">About us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Overview" href="/worldwide/v/index.jsp?vgnextoid=332d6efdd8c21110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=332d6efdd8c21110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Overview<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Brand" href="/worldwide/v/index.jsp?vgnextoid=ccfd5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=ccfd5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Brand<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Board_of_directors" href="/worldwide/v/index.jsp?vgnextoid=098fdb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=098fdb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Board of directors<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Code_of_business_conduct" href="/worldwide/v/index.jsp?vgnextoid=2f1e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=2f1e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Code of business conduct<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Corporate_donations" href="/worldwide/v/index.jsp?vgnextoid=b03e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=b03e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Corporate donations<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Corporate_publications" href="/worldwide/v/index.jsp?vgnextoid=2c8e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=2c8e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Corporate publications<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Executive_presentations" href="/worldwide/v/index.jsp?vgnextoid=bf61f8b114d38110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=bf61f8b114d38110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Executive presentations<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="History" href="/worldwide/v/index.jsp?vgnextoid=824e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=824e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">History<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="International_leadership" href="/worldwide/v/index.jsp?vgnextoid=945e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=945e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">International leadership<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="International_Operations" href="/worldwide/v/index.jsp?vgnextoid=3640db72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=3640db72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">International operations<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Mission,_vision_and_values" href="/worldwide/v/index.jsp?vgnextoid=597e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=597e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Mission, vision and values<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Policyholder_dividend_and_bonus_information" href="/worldwide/v/index.jsp?vgnextoid=df86ce752f311110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=df86ce752f311110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Policyholder dividend and bonus information<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Awards_and_recognition" href="/worldwide/v/index.jsp?vgnextoid=ecec260d896b3110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=ecec260d896b3110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Awards and recognition<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Careers" href="/worldwide/v/index.jsp?vgnextoid=46ce5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=46ce5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Careers<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Overview" href="/worldwide/v/index.jsp?vgnextoid=d4f9e0624d231110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=d4f9e0624d231110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Overview<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Media" href="/worldwide/v/index.jsp?vgnextoid=e66e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=e66e5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Media<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Overview" href="/worldwide/v/index.jsp?vgnextoid=7c1423eaf9321110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=7c1423eaf9321110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Overview<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Media_contacts" href="/worldwide/v/index.jsp?vgnextoid=c802341e53d49110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=c802341e53d49110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Media contacts<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Press_Releases" href="/worldwide/v/index.jsp?vgnextoid=4c1c6b46ee2a0110vgnprod10000d490d09fRCRD&amp;vgnextchannel=4c1c6b46ee2a0110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">News releases<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Statements_&amp;_Advisories" href="/worldwide/v/index.jsp?vgnextoid=f0c82cc5e4ae0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=f0c82cc5e4ae0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Statements &amp; advisories<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Media_kit" href="/worldwide/v/index.jsp?vgnextoid=9e6dba6a1e30b110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=9e6dba6a1e30b110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Media kit<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Investor_Relations" href="/worldwide/v/index.jsp?vgnextoid=caee5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=caee5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Investor Relations<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Overview" href="/worldwide/v/index.jsp?vgnextoid=7d4ce0624d231110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=7d4ce0624d231110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Overview<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Analyst_coverage" href="/worldwide/v/index.jsp?vgnextoid=c5b845969aa50110vgnprod10000d490d09fRCRD&amp;vgnextchannel=c5b845969aa50110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Analyst coverage<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Calendar_of_events" href="/worldwide/v/index.jsp?vgnextoid=3607ffa030250110vgnprod10000d490d09fRCRD&amp;vgnextchannel=3607ffa030250110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Calendar of events<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="E-mail_alerts" href="/worldwide/v/index.jsp?vgnextoid=56025be8abf50110vgnprod10000d490d09fRCRD&amp;vgnextchannel=56025be8abf50110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Email alerts<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Financial_publications" href="/worldwide/v/index.jsp?vgnextoid=2bfe5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=2bfe5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Financial publications<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Presentations_for_investors" href="/worldwide/v/index.jsp?vgnextoid=16a7cee8454f3110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=16a7cee8454f3110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Presentations for investors<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Quarterly_reports" href="/worldwide/v/index.jsp?vgnextoid=cb65299784ca3110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=cb65299784ca3110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Quarterly reports<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Ratings" href="/worldwide/v/index.jsp?vgnextoid=3c0f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=3c0f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Ratings<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Stock_chart" href="/worldwide/v/index.jsp?vgnextoid=97ec1fce64a40110vgnprod10000d490d09fRCRD&amp;vgnextchannel=97ec1fce64a40110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Stock chart<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Stock_history" href="/worldwide/v/index.jsp?vgnextoid=fdce1fce64a40110vgnprod10000d490d09fRCRD&amp;vgnextchannel=fdce1fce64a40110vgnprod10000d490d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Stock history<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Contact_Us" href="/worldwide/v/index.jsp?vgnextoid=9384da738bb16110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=9384da738bb16110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Contact us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Shareholder_Services" href="/worldwide/v/index.jsp?vgnextoid=e13f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=e13f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Shareholder Services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Overview" href="/worldwide/v/index.jsp?vgnextoid=aabe6709b0a01110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=aabe6709b0a01110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Overview<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Calendar_of_events" href="/worldwide/v/index.jsp?vgnextoid=8fdb9ba1af0e0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=8fdb9ba1af0e0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Calendar of events<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Financial_publications" href="/worldwide/v/index.jsp?vgnextoid=7dc7de324abd0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=7dc7de324abd0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Financial publications<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Shareholder_FAQs" href="/worldwide/v/index.jsp?vgnextoid=424f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=424f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Shareholder FAQs<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Shareholder_glossary" href="/worldwide/v/index.jsp?vgnextoid=535f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=535f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Shareholder glossary<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Shareholder_news" href="/worldwide/v/index.jsp?vgnextoid=a46f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=a46f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Shareholder news<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Shareholder_privacy_statement" href="/worldwide/v/index.jsp?vgnextoid=367f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=367f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Shareholder privacy statement<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Stock_information" href="/worldwide/v/index.jsp?vgnextoid=088f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=088f5a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Stock information<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Contact_us" href="/worldwide/v/index.jsp?vgnextoid=99992f7070f36110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=99992f7070f36110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Contact us<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel1off"><a class="Country_Product_Locator" href="/worldwide/v/index.jsp?vgnextoid=33b05a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextchannel=33b05a366ccb0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Country/Product Locator<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="topnavdropdownlist"><li class="topnavlevel2"><a class="Select_by_country" href="/worldwide/v/index.jsp?vgnextoid=4a1364c418321110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=4a1364c418321110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Select by country<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="topnavlevel2"><a class="Select_by_product" href="/worldwide/v/index.jsp?vgnextoid=c0a364c418321110VgnVCM1000002dd2d09fRCRD&amp;vgnextchannel=c0a364c418321110VgnVCM1000002dd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FHome" target="_self">Select by product<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div>
-<!-- end topNav_override -->
-<!-- time: 973 ms -->
-
-
-
-        </div>
-
-        <!-- BEGIN middle section -->
-        <div id="mainContentContainer" class="bodyText">
-
-            <!-- BEGIN banner background -->
-            <div id="bannerContainerID" class="bannerContainer">
-                
-
-
-
-
-
-
-
-
-<div id="bannerBkgd" class="bannerBkgd">
-    
-
-    <img alt="Header Yellow Background Image" src="/static/worldwide/Images Shared/Background/sa_u_hdr_yellowbg_773w43.gif">
-
-</div>
-
-<div id="bannerText" class="bannerText">
-    Privacy
-</div>
-
-<!-- banner_include time: 1 ms -->
-
-
-            </div>
-            <!-- END banner background -->
-
-            <!-- BEGIN body content -->
-            <div id="contentBodyContainer">
-                <!-- Left Navigation -->
+	<div id="choose-country-content">
+	
 	
 
-	             
+
+
+ 
+
+<!-- start paragraph_override -->
 
 
 
-<!-- time: 138 ms -->
+<p>Looking for information about Sun Life and our affiliated companies in your area. Select your country below to travel to a website for information specific to your region.</p>
 
-<div id="leftNavContainer2">
-<style type="text/css">
-		#bannerImage
-		{
-		    left:133px;
-		}
-		div > #bannerImage
-		{
-		    left:132px;
-		}
-</style>
+<table>
+<tbody><tr>
+<td>
+<dl class="col1">
+<dt><b>Bermuda</b></dt>
+
+<dd><a href="http://www.sunlife.bm/" target="_blank">www.sunlife.bm</a></dd>
+
+<dt><b>Canada</b></dt>
+
+<dd><a href="http://www.sunlife.ca/" target="_blank">www.sunlife.ca</a> <a href="http://www.mcleanbudden.com/" target="_blank">www.mcleanbudden.com</a></dd>
+
+<dt><b>China (in Simplified Chinese)</b></dt>
+
+<dd><a href="http://www.sunlife-everbright.com/" target="_blank">www.sunlife-everbright.com</a></dd>
+
+<dt><b>Hong Kong</b></dt>
+
+<dd><a href="http://www.sunlife.com.hk/" target="_blank">www.sunlife.com.hk</a></dd>
+
+<dt><b>India</b></dt>
+
+<dd><a href="http://www.birlasunlife.com/" target="_blank">www.birlasunlife.com</a></dd>
+</dl>
+</td>
+<td>
+<dl class="col2">
+<dt><b>Indonesia</b></dt>
+
+<dd><a href="http://www.sunlife.co.id/" target="_blank">www.sunlife.co.id</a></dd>
+
+<dt><b>Ireland</b></dt>
+
+<dd><a href="http://www.sunlife.ie/" target="_blank">www.sunlife.ie</a></dd>
+
+<dt><b>Philippines</b></dt>
+
+<dd><a href="http://www.sunlife.com.ph/" target="_blank">www.sunlife.com.ph</a></dd>
+
+<dt><b>United Kingdom</b></dt>
+
+<dd><a href="http://www.sunlifefinancialofcanada.co.uk/" target="_blank">www.sunlifefinancialofcanada.co.uk</a></dd>
+
+<dt><b>United States</b></dt>
+
+<dd><a href="http://www.sunlife-usa.com/" target="_blank">www.sunlife-usa.com</a> <a href="http://www.mfs.com/" target="_blank">www.mfs.com</a> <a href="http://www.suncapitaladvisers.com/" target="_blank">www.suncapitaladvisers.com</a></dd>
+</dl>
+</td>
+</tr>
+</tbody></table>
+
+<br>
+
+<!-- end paragraph_override -->
+<!-- time: 6 ms -->
+
+
+	</div>
+	</div>
+	<!-- END:// CHOOSE YOUR COUNTRY -->
+	<!-- START:// SITE SEARCH -->
+	<div id="site-search">
+		
+		
 
 
 
-	<style type="text/css">
-		#sideNav{
-			margin-top: 9px;
-		}
-		div > #sideNav{
-			margin-top: 8px;
-		}
-            #contentContainer, #announcementContainer{
-			width:732px;
-		}	
-		div > #contentContainer, div > #announcementContainer{
-			width:732px;
-		}
-		#bannerImage{
-			left:18px;
-		}
-		div > #bannerImage{
-			left:17px;
-		}
-	</style>
+ 
+
+<!-- start paragraph_override -->
 
 
 
-<!-- sideNav -->
+<form id="utilitySearchForm" name="utilitySearchForm" action="/global/v/index.jsp"><input value="en_CA" name="vgnLocale" type="hidden"><input value="dac96824c137b110vgnprod10000d490d09fRCRD" name="vgnextoid" type="hidden"><input value="1" name="st" type="hidden"><input value="an" name="dt" type="hidden"><input value="10" name="nh" type="hidden"><input value="0" name="rf" type="hidden"><input value="1" name="lk" type="hidden"><input value="0" name="sc" type="hidden"><input value="a" name="ql" type="hidden"><input name="qt" type="hidden"><input value="en" name="la" type="hidden"><input value="PROD" name="env" type="hidden"><input name="op0" type="hidden"><input name="fl0" type="hidden"><input value="p" name="ty0" type="hidden"><input name="op1" type="hidden"><input name="fl1" type="hidden"><input value="w" name="ty1" type="hidden"><input name="tx1" type="hidden"><input name="op2" type="hidden"><input name="fl2" type="hidden"><input value="w" name="ty2" type="hidden"><input name="tx2" type="hidden"><input name="op3" type="hidden"><input name="fl3" type="hidden"><input value="w" name="ty3" type="hidden"><input name="tx3" type="hidden"><input name="op4" type="hidden"><input name="fl4" type="hidden"><input value="w" name="ty4" type="hidden"><input name="tx4" type="hidden"><input name="op5" type="hidden"><input name="fl5" type="hidden"><input value="w" name="ty5" type="hidden"><input name="tx5" type="hidden"><input name="op6" type="hidden"><input name="fl6" type="hidden"><input value="w" name="ty6" type="hidden"><input name="tx6" type="hidden"><input value="604800" name="inthe" type="hidden"><input value="30" name="ady" type="hidden"><input value="1" name="amo" type="hidden"><input value="2006" name="ayr" type="hidden"><input value="7" name="bdy" type="hidden"><input value="2" name="bmo" type="hidden"><input value="2006" name="byr" type="hidden"><input name="tx0" class="text" type="text"><input type="image" class="submit" alt="Search" src="/static/global/images/buttons/btn_search_71w_22h_en.gif" name="btnSearch" value="Search" title="Search"></form>
 
+<!-- end paragraph_override -->
+<!-- time: 5 ms -->
 
-
-
-
-<!-- END sideNav -->
-
-
-
-</div>
-
+	</div>
+	<!-- END:// SITE SEARCH -->
+	<!-- START:// SLF LOGO [PRINT VERSION] -->
+	<!-- This will be updated later with the Print Functionality -->
+	<span class="logo">
 	
+	<a href="#"><img alt="Sun Life Financial" height="57" width="137" src="/static/global/images/logos/SLF_print_en.gif"></a>
+	
+	</span>
+	<!-- END:// SLF LOGO [PRINT VERSION] -->
+<!-- headerIncludeJSP_time: 134 ms -->
 
-                <!-- End of Left Navigation -->
-                <!-- contentContainer -->
-                <div id="contentContainer">
-                    <!-- BEGIN banner image -->
-                    <div id="bannerImage" class="bannerImage">
-                        
-
-
-
-
+        	</div>
+				<!-- START:// PRIMARY NAVIGATION -->
+		
 
 
-
-
+ 
+ 
 
 
 
-                    </div>
-                    <!-- END banner image -->
-                    <!-- BEGIN breadCrumb -->
-                    <div id="breadCrumbContainer" class="breadcrumb">
-			
-                        	
+<ul class="clearfix" id="primary">
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=e6738d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">About us<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=f860c2aad2a6b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Who we are</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=bc24c2aad2a6b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Our business</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=0703c2aad2a6b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Global presence</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=82f071e713f9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Leadership team</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=49446e73defdb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Our history</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=a56271e713f9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Corporate governance</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=c99471e713f9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Achievements</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=061671e713f9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Policies &amp; publications</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=8f838d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Products &amp; services<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=e56864b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Financial planning and advice</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=f4b864b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Life insurance</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=a78964b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Health, dental and disability insurance</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=63fa64b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Investments &amp; retirement savings</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=ac5b64b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Customer FAQ</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=7e938d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Investors<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=62cb89087d41f110VgnVCM100000abd2d09fRCRD&amp;vgnLocale=en_CA">Financial news</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=d075d4fc278bb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Events calendar</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=9b2af122fa4eb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Shareholder services</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=b31e6824c137b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Share performance</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=b54af122fa4eb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Ratings</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=f85af122fa4eb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Financial results &amp; reports</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=9c6af122fa4eb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Presentations for investors</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=908af122fa4eb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Analyst coverage</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=940721d61e4fe110VgnVCM100000abd2d09fRCRD&amp;vgnLocale=en_CA">Annual meetings</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=cda38d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">News &amp; insights<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=c05cc4673059b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">News</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=a50f2b6a1bc4c110VgnVCM1000009b80d09fRCRD&amp;vgnLocale=en_CA">Insights</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=efc764b00cf9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Media kit</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=fa7864e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Media contacts</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=7875d1f956bbb110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Subscribe</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=602064e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Browse by subject</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=b80b8f9ff881f110VgnVCM100000abd2d09fRCRD&amp;vgnLocale=en_CA">Unretirement Index</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=7db38d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Corporate responsibility<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=470964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">CEO message</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=9c3964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Our commitment</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=8499a7314e6db110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Donations &amp; sponsorships</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=d5a964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Philanthropy program guidelines</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=638964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Employee giving</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=f2c964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Sustainability</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=50f964e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Public Accountability Statement</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=de3d6638dbe02210VgnVCM100000abd2d09fRCRD&amp;vgnLocale=en_CA">Global programs</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li>
+	<a href="/global/v/index.jsp?vgnextoid=8dc38d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Careers<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="/global/v/index.jsp?vgnextoid=141a64e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Job postings</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=203a64e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Our commitment</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=0c4a64e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Our people</a></li>
+	<li><a href="/global/v/index.jsp?vgnextoid=596a64e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Why join us?</a></li>
+	<li class="last"><a href="/global/v/index.jsp?vgnextoid=c78a64e6cef9c110VgnVCM1000009c80d09fRCRD&amp;vgnLocale=en_CA">Career paths</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="last">
+	<a href="/global/v/index.jsp?vgnextoid=fdd38d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Contact us<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+
+<!-- topNav_time: 1383 ms -->
+
+
+				<!-- END:// PRIMARY NAVIGATION -->
+				<!-- START:// BREADCRUMB TRAIL -->
+		
+
+<div id="breadcrumb">
+
+	<ul class="clearfix">
+
+				<li><a href="/global/v/index.jsp?vgnextoid=28828d3c88e3b110vgnprod10000d490d09fRCRD&amp;vgnLocale=en_CA">Home</a>&gt;</li>
+
+			<li><a class="lit" href="#">Privacy</a></li>
+
+			</ul>
+<!-- time in breadcrumb changed: 52 ms -->
+
+      <ul id="resize">
+		 
+		 			
+
+		<li id="text-large" style="display: list-item;"><a href="#" title="Large">Large</a></li>
+		<li id="text-medium" style="display: list-item;"><a href="#" title="Medium">Medium</a></li>
+		<li id="text-small" style="display: list-item;"><a href="#" title="Small">Small</a></li>
+		<li id="print-page" style="display: list-item;"><a href="#" title="Print this Page">Print this Page</a></li>
+	</ul>
+</div>
+				<!-- END:// BREADCRUMB TRAIL -->
+		<div id="content" class="clearfix one-column-layout">
+
+			<div id="content-body">
+		
+			<div class="boxlayout">
+				
+				<h1>Privacy</h1>
+				
+				
 
 
 
 
+<p><a href="#1">Sun Life Financial's worldwide privacy commitment</a><br>
+<a href="#2">Cookies</a></p>
 
+<p><a name="#1" id="#1"><strong>Sun Life Financial's worldwide privacy commitment</strong></a></p>
 
-
-
-<!-- time: 82 ms -->
-
-<a href="/worldwide/v/index.jsp?vgnextoid=ceea9243545b8010vgnprod1000067c7d09fRCRD&amp;vgnextchannel=ceea9243545b8010vgnprod1000067c7d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA&amp;chnpath=%2FPrivacy" target="_self">Home</a>&gt;Privacy
-
-			
-                    </div>
-                    <!-- END breadCrumb -->
-                    <!-- ChannelIdx content -->
-                    
-
-                    
-<style type="text/css">							.linkGrpTitle					{						text-align:center;						color: #FFFFFF;						background-color:#5D3526;						padding-top:2px;						padding-bottom:2px;					}						</style>
-<div id="bodyText"></div>
-<div id="bodyText"><p><strong>Sun Life Financial's worldwide privacy commitment</strong></p>
-
-<p>At the&nbsp;<a href="/worldwide/v/index.jsp?vgnextoid=6a37de324abd0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">Sun Life Financial group of companies</a>, we are committed to protecting your personal information. As a customer, we can best serve you when we have a complete understanding of your financial needs and can offer you products and services tailored to meet them. Managing the information you provide to us as part of that process is at the root of our successful operations. We have a long history of protecting that information in a professional and appropriate manner.</p>
+<p>At the&nbsp;<a href="/global/v/index.jsp?vgnextoid=5e48d284bf80e110VgnVCM100000abd2d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">Sun Life Financial group of companies</a>, we are committed to protecting your personal information. As a customer, we can best serve you when we have a complete understanding of your financial needs and can offer you products and services tailored to meet them. Managing the information you provide to us as part of that process is at the root of our successful operations. We have a long history of protecting that information in a professional and appropriate manner.</p>
 
 <p>We are in the business of maintaining long-term relationships with our customers. We recognize that an important aspect of our relationship is having comprehensive knowledge of our customers and their needs, which is why we are committed to protecting the confidentiality of our customers' personal information. To that end, we are pleased to share with you the following principles which reflect our commitment to safeguarding our customers' personal information.</p>
 
-<ul style="MARGIN-TOP: 0in" type="disc">
-<li>We keep your personal information and the business you do with us in strict confidence.<br style="mso-special-character: line-break">
-<br>
-</li>
+<ul>
+<li>We keep your personal information and the business you do with us in strict confidence.</li>
 
-<li>We collect, use or disclose personal information from you only to provide you with financial and insurance products and services to help you meet your lifetime needs.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>We collect, use or disclose personal information from you only to provide you with financial and insurance products and services to help you meet your lifetime needs.</li>
 
-<li>We obtain personal information about you lawfully and fairly.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>We obtain personal information about you lawfully and fairly.</li>
 
-<li>We do not disclose personal information without your permission except in limited circumstances as permitted or required by law. But we may share personal information with agents or service providers in connection with providing, administering and servicing the products you purchase from us.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>We do not disclose personal information without your permission except in limited circumstances as permitted or required by law. But we may share personal information with agents or service providers in connection with providing, administering and servicing the products you purchase from us.</li>
 
-<li>We maintain appropriate procedures to ensure that personal information in our possession is accurate and, where necessary, kept up to date. You are entitled to seek a correction of your personal information if you believe that the information in our possession is not accurate.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>We maintain appropriate procedures to ensure that personal information in our possession is accurate and, where necessary, kept up to date. You are entitled to seek a correction of your personal information if you believe that the information in our possession is not accurate.</li>
 
-<li>You may access your personal information, subject to limited exceptions and conditions.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>You may access your personal information, subject to limited exceptions and conditions.</li>
 
-<li>Where we choose to have certain services, such as data processing, provided by third party providers, we do so in accordance with applicable law and take all reasonable precautions regarding the practices employed by the service provider to protect your personal information.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>Where we choose to have certain services, such as data processing, provided by third party providers, we do so in accordance with applicable law and take all reasonable precautions regarding the practices employed by the service provider to protect your personal information.</li>
 
-<li>We maintain appropriate technical and organizational safeguards to protect your personal information against loss, theft, unauthorized access, disclosure, copying, use or modification.<br style="mso-special-character: line-break">
-<br>
-</li>
+<li>We maintain appropriate technical and organizational safeguards to protect your personal information against loss, theft, unauthorized access, disclosure, copying, use or modification.</li>
 
-<li>We do not sell your personal information.<br>
-</li>
+<li>We do not sell your personal information.</li>
 </ul>
-
-<p></p>
 
 <p>Members of the Sun Life Financial group of companies may have adopted a Privacy Policy or a Privacy Code applicable to your jurisdiction or to the product or service in which you have an interest. In order to access the Privacy Policy or Privacy Code applicable to you, select one of the following links:</p>
 
-<ul style="MARGIN-TOP: 0in" type="disc">
-<li>
-<p><a href="http://www.sunlife.ca/">Canada</a><br style="mso-special-character: line-break">
-</p>
-</li>
+<ul>
+<li><a href="http://www.sunlife.ca/" target="_blank">Canada</a></li>
 
-<li><p><a href="http://www.sunlife-usa.com/" target="_self">USA</a><br style="mso-special-character: line-break"></p>
-</li>
+<li><a href="http://www.sunlife-usa.com/" target="_blank">USA</a></li>
 
-<p></p><li><a href="http://www.sunlife.com.hk/" target="_self">Hong Kong</a></li><p></p>
+<li><a href="http://www.sunlife.com.hk/" target="_blank">Hong Kong</a></li>
 </ul>
 
 <p align="right"><a href="#top">Back to top</a></p>
+
+<p><a name="#2" id="#2"><strong>Cookies</strong></a></p>
+
+<p><strong>What are cookies?</strong></p>
+
+<p>A cookie is a small file used by a Web server to store information in your browser's temporary memory or on your computer. Cookies cannot access other information or files from your computer. There are two types of cookies - a <strong>session cookie</strong> and a <strong>permanent cookie</strong>. A session cookie (sometimes referred to as a transient cookie) is erased when you close your Internet browser and leave our website. A "permanent cookie" is a file that remains on your computer when you close your Internet browser. Permanent cookies have expiry dates and will automatically be deleted from your computer after their expiry date or alternatively you can clear your stored cookies via your browser preferences on your computer. A permanent cookie can be read only by the website that created the cookie when you visit that site again. We use both session cookies and permanent cookies within our websites.</p>
+
+<p><strong>Why are cookies used?</strong></p>
+
+<p>Cookies are very common, with many organizations electing to use them to gather data regarding how visitors explore their websites - information such as how many new visitors there are, how many repeat visitors there are, how many sections or pages of the website a visitor explores and so forth. Organizations use the information gathered by cookies to modify their websites to improve their website's performance and functionality.</p>
+
+<p>Cookies have the ability to identify a visitor, if the visitor has used a website's login feature.With a permanent cookie your login ID would be stored in an encrypted format on your computer, so that the next time you visit the website you would be recognized when you sign in. This enables the website to recall your preferences and provide a more customized experience.</p>
+
+<p><strong>What are your options regarding cookies?</strong></p>
+
+<p>You have the ability to decide whether you want to accept all cookies, reject all cookies or simply be notified when a cookie will be created. To do this you need to alter your browser preferences. Since the procedure for altering preferences varies by browser&nbsp; you should check the 'Help' menu of your browser to learn how to alter your cookie preferences.</p>
+
+<p><strong>For more information</strong></p>
+
+<p>For more information, please contact Sun Life Financial's Privacy Officer in Canada at (416) 408-8850 or by email at <a href="mailto:privacyofficer@sunlife.com">privacyofficer@sunlife.com</a>.</p>
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+
+
+			</div>
+			</div>
+			<!-- START:// SECONDARY NAVIGATION -->
+			
+				
+		</div>				
+		<!-- START:// FOOTER -->
+	
+		<div id="footer">
+			<br>
+<div>
+
+
+
+
+
+ 
+
+<!-- start paragraph_override -->
+
+
+
+<p>© Sun Life Assurance Company of Canada. All rights reserved.&nbsp;<a href="/global/v/index.jsp?vgnextoid=b3a352eddfa4c110VgnVCM1000009b80d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">legal</a>&nbsp;|&nbsp;<a href="/global/v/index.jsp?vgnextoid=ca0156e4674bc110VgnVCM1000009b80d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA" alt="Link to sunlife.com privacy policy">privacy</a>&nbsp;|&nbsp;<a href="/global/v/index.jsp?vgnextoid=e3b356e4674bc110VgnVCM1000009b80d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA" alt="Link to sunlife.com security policy">security</a>&nbsp;</p>
+
+<!-- end paragraph_override -->
+<!-- time: 7 ms -->
+
 </div>
-<div id="linkLinksContainer"></div>
-
-                    <!-- END ChannelIdx content -->
-
-                
-            </div>
-            <!-- END body content -->
-        </div>
-        <!-- END middle section -->
-
-        <!-- BEGIN footer content -->
-        <div id="footerContainer" class="footerText">
-            <br>
 
 
-
-
-
-
-<!-- start footer_override -->
-
-© Sun Life Assurance Company of Canada. All rights reserved.&nbsp;<a href="/worldwide/v/index.jsp?vgnextoid=41bedb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">legal</a>&nbsp;|&nbsp;<a href="/worldwide/v/index.jsp?vgnextoid=46cedb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">privacy</a>&nbsp;|&nbsp;<a href="/worldwide/v/index.jsp?vgnextoid=8bdedb72d02c0110VgnVCM1000006c90d09fRCRD&amp;vgnextfmt=default&amp;vgnLocale=en_CA">security</a>&nbsp;
-
-
-<!-- end footer_override -->
-<!-- time: 18 ms -->
-<!-- sbdebug: &#169; Sun Life Assurance Company of Canada. All rights reserved.&#160;<a href="/worldwide/v/index.jsp?vgnextoid=41bedb72d02c0110VgnVCM1000006c90d09fRCRD&vgnextfmt=default&vgnLocale=en_CA">legal</a>&#160;|&#160;<a href="/worldwide/v/index.jsp?vgnextoid=46cedb72d02c0110VgnVCM1000006c90d09fRCRD&vgnextfmt=default&vgnLocale=en_CA">privacy</a>&#160;|&#160;<a href="/worldwide/v/index.jsp?vgnextoid=8bdedb72d02c0110VgnVCM1000006c90d09fRCRD&vgnextfmt=default&vgnLocale=en_CA">security</a>&#160;
- -->
-
-
-
-        </div>
-        <!-- END footer content -->
+		</div>
+		<!-- END:// FOOTER -->
 
     </div>
-    <br>
-    <br>
-    
 
 
 
-<!-- time: 682 ms -->
 
-</div></body></html>
+
+
+
+<!-- time: 1755 ms -->
+
+</body></html>
