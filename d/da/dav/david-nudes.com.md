@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the david-nudes.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121213800id_/http%3A//www.david-nudes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the david-nudes.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627082908id_/http%3A//www.david-nudes.com/privacy.php) for the most accurate reproduction.*
 
-# DAVID-NUDES.COM - the sophisticate nude - by David Weisenbarger
+# Privacy - HD Nudes | DAVID-NUDES.COM - the sophisticate nude - Learn Art Nude Photography - Exclusive Erotic and Fine Nude Art
 
 Privacy Policy
 
