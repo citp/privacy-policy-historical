@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225215926id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627020027id_/http%3A//www.acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACDSee Photo Software
 
