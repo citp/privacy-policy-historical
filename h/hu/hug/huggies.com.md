@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602193131id_/http%3A//www.huggies.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627202026id_/http%3A//huggies.com/Privacy_Generic.aspx) for the most accurate reproduction.*
 
-# HUGGIES Privacy Policy
+# HUGGIES® Baby Network-Country Selector
 
 This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
 
@@ -20,11 +20,15 @@ Children's privacy is of primary concern to us, and our Policy and practices ref
 
 Like many companies, we sometimes use "cookie" technology on our web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want. 
 
+We use the services of NetIQ/WebTrends to track the paths our customers take through our site. In doing so, we are better able to see where our customers go within our site and ensure our site is easy to navigate. If you have any questions concerning NetIQ/WebTrends, then you should refer to the [NetIQ/WebTrends Reporting Service Privacy Policy](http://ondemand.webtrends.com/privacypolicy.asp) to learn how they collect and use information, particularly the section of the Policy on Privacy Statement for Visitors to Sites Tracked by WebTrends on Demand. 
+
+We use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to the [DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+
 **Contact Us**
 
-If you have any questions about our Privacy Policy, you can contact us via [ e-mail](http://www.kimberly-clark.com/ask/huggies/index.asp?site=www.huggies.com) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [e-mail](https://www.kimberly-clark.com/ask/huggies/country.asp?site=www.huggies.com&ssl=) or phone us at 1-800-665-9773. For postal mail, please write to us at: 
 
-    Kimberly-Clark Corporation  
-    P.O. Box 2020   
-    Neenah, WI 54957-2020  
+Kimberly-Clark Corporation  
+P.O. Box 2020   
+Neenah, WI 54957-2020  
 
