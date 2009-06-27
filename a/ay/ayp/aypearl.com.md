@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216091819id_/http%3A//www.aypearl.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627083220id_/http%3A//www.aypearl.com/privacy.html) for the most accurate reproduction.*
 
-# Wholesale Jewelry
-
-## Help Center - Privacy 
+# Help Center - Privacy - Aypearl.com
 
 #### Privacy Policy
 
-At AYPearl.com, we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
+At [AYPearl.com](http://www.aypearl.com/), we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
 
 #### Quality , Selection and Value 
 
-As the leading jewelry manufacturer in China, We offer our customers outstanding service by bringing you the greatest selection of fine jewelry directly from our network without limits of sum and quantity. Unlike most online jewelers, we bypass the middlemen in the traditional distribution channels and pass on 75% savings to our customers .On our website, customers will get the widest selection of only the highest quality fine jewelry at low prices. We can deliver our products effectively to more than 220 countries and areas.
+As the leading jewelry manufacturer in China, we offer our customers outstanding service by offering you the widest selection of fine jewelry directly from our network with no limits of sum and quantity. Unlike most of the online jewelers, we bypass the middlemen in the traditional distribution channels and save 75% for our customers. On our website, customers will get the widest selection of the highest quality, finest jewelry at low prices. We can deliver our products efficiently to more than 220 countries and areas.
 
 #### Cookies
 
@@ -18,7 +16,7 @@ To avoid the loss of information due to computer virus and spy software, we use 
 
 #### Session
 
-Session is used to identify costumers and record the information of costumers' shopping cart. T Therefore, others can not get the costumers' information. Furthermore, session clears them automatically when customers log out. 
+Session is used to identify costumers and record the information of costumers' shopping cart. Therefore, others can not get the costumers' information. Furthermore, session clears them automatically when customers log out. 
 
 #### How Is The Information Used?
 
@@ -26,8 +24,8 @@ We may use your information in a number of ways, including the following: to ins
 
 #### Is The Information Shared?
 
-The information gathered is used only inside our company. We provide more services for our costumers with their information and strictly control our internal staff’s visits to costumers’ information to avert their loss.
+The information gathered is used only inside our company. We provide more services for our costumers with their information and strictly control our internal staff’s visits to costumers’ information to avoid loss of the info.
 
 #### Will the AYPearl.com privacy policy change?
 
-We may change or enhance our policy to improve our service to you. If we do change our policy, we will note those changes on our Web site. A message will be displayed on our home page for a period of time that a change has been made. We also may send an e-mail describing the changes. You are welcome to refer to this policy each time you are considering making a purchase.
+We may change or enhance our policy to improve our service. If we do change our policy, we will note all changes on our web site. A message will be displayed on our home page for a period of time showing that changes have been made. We also may send an e-mail describing the changes. You are welcome to refer to this policy every time you are considering making a purchase.
