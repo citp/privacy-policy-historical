@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casualsexgroup.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041105id_/http%3A//www.casualsexgroup.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualsexgroup.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627204415id_/http%3A//www.casualsexgroup.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Casual SexGroup
+# Casual Sex Group: Join Right Now for FREE. Search through thousands of LOCAL PROFILES on CasualSexGroup.com
 
 **Privacy Statement for SexDateNetwork**
 
