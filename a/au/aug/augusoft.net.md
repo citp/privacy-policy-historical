@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229120202id_/http%3A//augusoft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627135518id_/http%3A//augusoft.net/privacy.html) for the most accurate reproduction.*
 
 # Augusoft : Privacy Statement
 
 Privacy Statement 
 
-[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20081229120202id_/http%3A//augusoft.net/news_events/conferences_tours.html) [IT Tool Kit](https://web.archive.org/web/20081229120202id_/http%3A//information_request.html) | 
+[Free Webcast Demos](http://u.augusoft.net/index.cfm?fuseaction=1011&CategoryID=6&SubCategoryID=14) [Augusoft U](http://u.augusoft.net/) [Meet Us](https://web.archive.org/web/20090627135518id_/http%3A//augusoft.net/news_events/conferences_tours.html) [IT Tool Kit](https://web.archive.org/web/20090627135518id_/http%3A//information_request.html) | 
 
 Privacy Statement 
 
@@ -31,16 +31,16 @@ By sending us your contact information, you agree to be contacted by Augusoft re
 
 Customers can opt out of being contacted by us, or receiving product, service or general lifelong learning information from us at any time by sending an email to [unsubscribe@augusoft.net](mailto:unsubscribe@augusoft.net). 
 
-Further [legal information](https://web.archive.org/web/20081229120202id_/http%3A//augusoft.net/about/legal_information.html) is available on this site.
+Further [legal information](https://web.archive.org/web/20090627135518id_/http%3A//augusoft.net/about/legal_information.html) is available on this site.
 
 | 
 
 Success Stories
 
-**ed2go**  
- **Jerry Weissberg**  
+**Northside Independent School District**  
+ **Mary Mora**  
   
-Augusoft Lumens is the leading Lifelong Learning Management System with a truly integrated offering of online courses and program management.  
-  
+We have a successful program that our community loves, and we love what we are doing.  
+Read More >  
   
 ---|---|---
