@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011950id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm-volt.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628003131id_/http%3A//gm-volt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GM-VOLT : Chevy Volt Electric Car Site
 
@@ -13,7 +13,7 @@ We are not responsible for accuracy of any information posted in our comments or
 
 If you feel that this site is not following its stated information policy, you may contact us at the email address above.
 
-Popularity: 1%
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
   
 
