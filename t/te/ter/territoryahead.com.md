@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165616id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211608id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
 
 # Your Privacy Rights - Customer Service - The Territory Ahead
 
@@ -84,7 +84,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/jump.jsp?itemID=400&itemType=CATEGORY), or our information practices, please contact us by email or postal mail below:
 
 **Privacy Contact:**  
-Kenneth Stringer  
+David Giacomini  
 The Territory Ahead  
 419 State St.  
 Santa Barbara, CA 93101-2304  
