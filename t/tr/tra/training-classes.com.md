@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the training-classes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021927id_/http%3A//www.training-classes.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training-classes.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112217id_/http%3A//www.training-classes.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Training-Classes.com
 
@@ -6,7 +6,7 @@ This is a web site of **skillbox, inc.**.
 
 Our postal address is: **PO Box 99466, Emeryville, CA, 94608**.
 
-We can be reached via e-mail at , via our [support site](https://web.archive.org/web/20081216021927id_/http%3A//www.training-classes.com/contact_us.php) or you can reach us by telephone at 1-866-SKILLBOX.
+We can be reached via e-mail at , via our [support site](https://web.archive.org/web/20090627112217id_/http%3A//www.training-classes.com/contact_us.php) or you can reach us by telephone at 1-866-SKILLBOX.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -38,8 +38,8 @@ Consumers can access this information by e-mail us at the above address.
 
 Consumers can have this information corrected by sending us e-mail at the above address.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies go here: http://www.google.com/privacy_ads.html
 
-Google, as a third party vendor, uses cookies to serve ads on our sites. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our sites. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html.
 
-If you have any questions, suggestions or concerns, please [contact us here](https://web.archive.org/web/20081216021927id_/http%3A//www.training-classes.com/contact_us.php) or call 1-866-SKILLBOX.
+If you have any questions, suggestions or concerns, please [contact us here](https://web.archive.org/web/20090627112217id_/http%3A//www.training-classes.com/contact_us.php) or call 1-866-SKILLBOX.
