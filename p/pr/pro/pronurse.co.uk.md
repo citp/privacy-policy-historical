@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pronurse.co.uk privacy policy that was archived on 2008-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081028184032id_/http%3A//www.pronurse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronurse.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627204411id_/http%3A//www.pronurse.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy - ProNurse.co.uk
+# - ProNurse.co.uk
 
 **Your Privacy Rights**
 
