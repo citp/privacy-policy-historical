@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021712id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211619id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
-# UpToTen parents - Practical ideas, advice...
+# UpToTen.com Privacy policy
 
 UpToTen.com > Privacy policy  
      Personal information and the respect of privacy in cyberspace   
