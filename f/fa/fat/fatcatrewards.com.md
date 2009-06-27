@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fatcatrewards.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216024220id_/http%3A//www.fatcatrewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatcatrewards.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627035721id_/http%3A//www.fatcatrewards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FatCatRewards.com
 
-###### Fat Cat Rewards – Privacy Policy
+###### Fat Cat Rewards � Privacy Policy
 
 FatCatRewards.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at privacy@FatCatRewards.com.
 
