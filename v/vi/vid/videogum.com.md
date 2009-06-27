@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155117id_/http%3A//videogum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104246id_/http%3A//videogum.com/privacy.html) for the most accurate reproduction.*
 
 # Videogum: Privacy Policy
 
@@ -19,3 +19,43 @@ Legally, we're also required to remind you that just because we link to another 
 We might have to change this notice at some point, especially because it wasn't made by shaking a floor of lawyers over a stack of paper, but if we do, we'll notify newsletter subscribers (if it pertains to them) and show you what we changed.
 
 Get in touch at [privacy@stereogum.com](mailto:privacy@stereogum.com).
+
+[](http://videogum.com/archives/the-hunt-for-the-worst-movie-o/ "The Hunt For The Worst Movie Of All Time")
+
+After watching Death Sentence, a terrible movie starring Kevin Bacon as a father in search of vigilante justice directed by Saw's James Wan, Gabe embarked on The Hunt For The Worst Movie of All Time. This is his sad journey.
+
+### [The Hunt For The Worst Movie Of All Time: _Margot At The Wedding_](http://videogum.com/archives/the-hunt-for-the-worst-movie-of-all-time/the-hunt-for-the-worst-movie-o-61_075272.html "The Hunt For The Worst Movie Of All Time: Margot At The Wedding")
+
+Oh, white people. Will we ever tire of complaining about the aches and pains of our petty bourgeois existence? Boo hoo hoo, the line at the iPhone store was too long. Boo hoo hoo, the barista got the ratio of...
+
+[MORE »](http://videogum.com/archives/the-hunt-for-the-worst-movie-of-all-time/the-hunt-for-the-worst-movie-o-61_075272.html "continue reading 'The Hunt For The Worst Movie Of All Time: Margot At The Wedding'")
+
+[](http://videogum.com/archives/double-dog/ "Double Dog")
+
+Blogging about TV and movies isn't all fun and videogames. Every week, Lindsay or Gabe will be presented with a physical or mental challenge that tests their bravery,patience, and taste.
+
+### [Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt](http://videogum.com/archives/double-dog/double-dog-i-took-a-tv-locatio_068881.html "Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt")
+
+**The Challenge:** I had to go on a 3.5 hour bus tour of totally random TV and film locations in New York City. Alone, and wearing a specific ridiculous tshirt. And I had to find someone to take my picture...
+
+[MORE »](http://videogum.com/archives/double-dog/double-dog-i-took-a-tv-locatio_068881.html "continue reading 'Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt'")
+
+[](http://videogum.com/archives/the-videogum-movie-club/ "The Videogum Movie Club")
+
+Let's all go to the movies, and let's all see the same movie, and let's discuss it here.
+
+### [The Videogum Movie Club: _Year One_](http://videogum.com/archives/the-videogum-movie-club/videogum-movie-club-year-one_075242.html "The Videogum Movie Club: Year One")
+
+Did you see Year One, the Biblical-times movie starring Jack Black and Michael Cera, this weekend? If so, this is the place to talk about it. Especially because I don't know how it ends because I walked out of the...
+
+[MORE »](http://videogum.com/archives/the-videogum-movie-club/videogum-movie-club-year-one_075242.html "continue reading 'The Videogum Movie Club: Year One'")
+
+[](http://videogum.com/archives/you-can-make-it-up/ "You Can Make It Up")
+
+Gabe loves fan fiction. You Can Make It Up features his own personal alternate adventures starring some of our favorite characters.
+
+### [You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose](http://videogum.com/archives/you-can-make-it-up/you-can-make-it-up-a-little-bo_076252.html "You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose")
+
+The little boy asked his mother if she would take him downtown where they were filming a scene for Cameron Diaz's new movie, The Cougar Trap, and she told him that she would if he finished his homework, and wouldn't...
+
+[MORE »](http://videogum.com/archives/you-can-make-it-up/you-can-make-it-up-a-little-bo_076252.html "continue reading 'You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose'")
