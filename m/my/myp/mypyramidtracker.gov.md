@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypyramidtracker.gov privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012026id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypyramidtracker.gov privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105625id_/http%3A//www.usda.gov/wps/portal/%21ut/p/_s.7_0_A/7_0_1OB%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # FOIA Privacy Policy
 
@@ -85,7 +85,7 @@ The E-Government Act requires that agencies conduct privacy impact assessments f
 
 A PIA is an analysis of how information is handled: (i) to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy, (ii) to determine the risks and effects of collecting, maintaining and disseminating information in identifiable form in an electronic information system, and (iii) to examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks. 
 
-  * [Link to USDA electronic information systems Privacy Impact Assessments (PIA):](https://web.archive.org/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navid=PRIVACY_POLICY_ES)
+  * [Link to USDA electronic information systems Privacy Impact Assessments (PIA):](https://web.archive.org/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?contentidonly=true&contentid=Privacy_Impact_Assessment.xml)
 
   
   
