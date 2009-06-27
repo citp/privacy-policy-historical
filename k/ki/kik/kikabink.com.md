@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514012329id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627082443id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
 
 # Kikabink - Privacy Policy
 
-Last updated: 15 March 2008 
+[Home](http://www.kikabink.com/indexb.htm) > Privacy Policy
+
+Last updated: 13 March 2009
 
 **1\. Protecting your privacy**
 
@@ -108,6 +110,8 @@ Kikabink provides products and services via its various websites. When you visit
 We may use “cookies” on our websites to help remember your preferences, and assist us to improve your experience of our websites. A cookie is a small text file that our websites may place on your computer. These are an industry standard and most major websites use them.
 
 In some cases, cookies may collect and store personal information about you. Kikabink extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. You can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer.
+
+Third party advertisers or advertising networks may also use cookies to display advertisements on our site, based on your visit to our website and other websites on the Internet. In the case of advertising served by Google, you may opt out of the use of Google's DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Kikabink also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the Internet to uniquely identify them within the global Internet network. Kikabink collects and manages IP addresses as part of the service of providing Internet session management and for security purposes.
 
