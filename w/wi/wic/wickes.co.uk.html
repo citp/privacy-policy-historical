@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wickes.co.uk privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216051520id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wickes.co.uk privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627212834id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		
@@ -37,7 +37,6 @@
 <style type="text/css" media="all">
 @import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/styles.css";
 @import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/checkout.css";
-@import "http://www.wickes.co.uk/content/ebiz/wickes/resources/css/tabbs.css";
 </style>
 <link rel="stylesheet" href="http://www.wickes.co.uk/content/ebiz/wickes/resources/css/print.css" type="text/css" media="print">
 
@@ -51,75 +50,24 @@
 <script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/jquery.innerfade.js"></script>
  <!-- END ANIMATION SCRIPT -->
  
-<meta name="verify-v1" content="ZZff9uOas8/P85u6W2HZ+jDw2J1KglJeuH5ElyVfC/w=">
+ <!-- START CRITEO SCRIPT -->
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/criteo/criteo_ld.js"></script>
+<!-- END CRITEO SCRIPT -->
 
 <!-- Wickes: UAT Build 24 -->
-		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/materialsCalculator.js"></script>
-		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/general.js"></script>
-		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/dcs_tag.js"></script>
+		<script type="text/javascript" src="/venda-support/js/Venda.js"></script>
+<script type="text/javascript" src="/venda-support/js/Venda/Platform.js"></script>
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/materialsCalculator.js"></script>
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/general.js"></script>
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/dcs_tag.js"></script>
+<script type="text/javascript" src="/venda-support/js/external/cookiejar.js"></script>
+<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/Ebiz.js"></script>
 		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/sorttablescolumns.js"></script>
-		<script type="text/javascript">
-	var thisurls = location.href;
-	var thisbvdisplaycode = grabURL(thisurls, 'bvdisplaycode');
-	var thisbvproductid = grabURL(thisurls, 'bvproductid');
-	var thisbvcontenttype = grabURL(thisurls, 'bvcontenttype');
-	var thisbvauthenticateuser = grabURL(thisurls, 'bvauthenticateuser');
-	var thisbvpage = grabURL(thisurls, 'bvpage', 1);
-	
-	thisbvpage = thisbvpage.replace('&bvdisplaycode='+thisbvdisplaycode,'')
-	thisbvpage = thisbvpage.replace('&bvproductid='+thisbvproductid,'')
-	thisbvpage = thisbvpage.replace('&bvcontenttype='+thisbvcontenttype,'')
-	thisbvpage = thisbvpage.replace('&bvauthenticateuser='+thisbvauthenticateuser,'')
-	
-	addCookies('bvdisplaycode', thisbvdisplaycode);
-	addCookies('bvproductid', thisbvproductid);
-	addCookies('bvcontenttype', thisbvcontenttype);
-	addCookies('bvauthenticateuser', thisbvauthenticateuser);
-	addCookies('bvpage', thisbvpage);
-
-	var isloggedin = false;
-	var bvreviewerid = '';
-	
-	
-
-	if (String(thisbvauthenticateuser) == 'true') {
-		if (isloggedin == true) {
 		
-			var bvshare_key = '2sie93wt';
-			var bvcurdate = 'date=20081216';
-			var bvuserid = bvcurdate + bvreviewerid;
-		
-			var md5bvuserid = hex_md5(bvshare_key + bvuserid);	
-			var hexbvuserid = bin2hex(bvuserid);
-			
-			var encodeduserid = md5bvuserid + hexbvuserid;
 
-			// Ensure "__USERID__" is replaced with the 
-			// encoded user authentication string in the 
-			// bvpage parameter, then render the BVSubmissionFrame
-			// iframe using the new bvpage.
-			newbvpage = thisbvpage.replace(/__USERID__/g, encodeduserid);
-			
-		}
-		else {
-			// Redirect to login.
-			// After login, redirect back to the submission container 
-			// page with preserved URL parameters.
-			window.location = 'https://www.wickes.co.uk/bin/venda?ex=co_wizr-register&bsref=wickes&htxt=1T03%2FJLhuWzWKeoUYZPwTz1KnSszOF4vPoB1uJSN%2FvplRWVqRCNy9%2FKzbmf8Vc4ccSIsQOBMnLad%0AO%2BTWYxjI6g%3D%3D';
-		}
-	}
-	else {
-		// Render the BVSubmissionFrame iframe with bvpage 
-	// (no modifications are necessary).
-	}
-</script>
-
-
-
+<!--	LIVE Environment		-->
 <link type="text/css" rel="STYLESHEET" href="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoice.css">
-<link type="text/css" rel="STYLESHEET" href="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoiceUI.css">
 <script language="JavaScript" src="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoice.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://reviews.wickes.co.uk/static/9987-en_gb/bazaarvoiceUI.js" type="text/javascript"></script>
 <script type="text/javascript" language="javascript">
 <!--
      document.domain = "wickes.co.uk";
@@ -127,106 +75,47 @@
 //-->
 </script>
 
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+
+<script type="text/javascript" language="javascript">
+<!--
+function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, buyAgainPercentage, productID)
+{
+     if (totalReviewsCount > 0) {
+         document.getElementById("BVReviewsContainer").style.display = "block";
+         document.getElementById("BVSVPLinkContainer").style.display = "block";
+     }
+     // Other custom items leveraging these values.
+}
+//-->
+</script>
+
 
 	</head>
 	<body>
 		
 		<a href="#content" class="hide" accesskey="2">Skip to content</a>
 		<!-- start wrapper -->
+
 		<div id="wrapper">
-			<div id="wrapper_norhn">
+			<div id="wrapper2">
 				<!-- start header -->
 <div id="header">
-	<!-- <div class="header-col-one"><a href="http://www.wickes.co.uk/page/home"><img id="logo" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/logo.gif" alt="Wickes" title="Wickes" border="0"></a></div> -->
-
-	<div class="header-col-one">
-		
-		<a href="http://www.wickes.co.uk/page/home"><img id="Wickeslogo" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/logo.gif" alt="Wickes" border="0"></a>
-			
-	
-				
-
-	</div>	
-	
-	<div class="header-col-two-three-nw">
-		<div class="header-col-two">
-		
-			<div class="navbar"> 
-			<ul id="topnavbar">
-				<li><a title="Wickes Home" href="http://www.wickes.co.uk/page/home">Home</a> |</li>
-				<li><a href="http://www.wickes.co.uk/pcat/customservices" title="Wickes Customer Services">Customer Services</a> |</li>
-				<li><a href="http://www.wickes.co.uk/page/store" title="Wickes Store Locator">Store Locator</a> |</li>
-                <li><a href="http://www.wickes.co.uk/pcat/deliverydetails" title="Wickes Delivery Information">Delivery</a> |</li>
-				<li><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/telephone.gif" border="0" alt="Wickes Order by phone"><a class="telLink telephone" href="http://www.wickes.co.uk/pcat/telephone" title="Order by phone">Order by phone</a></li>
-			</ul>
-			</div>
-		
-			<form name="advsearchform" id="advsearchform" method="get" action="http://www.wickes.co.uk/bin/venda" onsubmit="advvalidateQuery(); isValidChar(); return false;">
-	<input type="hidden" name="ex" id="ex" value="co_wizr-xapian">
-	<input type="hidden" name="bsref" id="bsref" value="wickes">
-	<!-- Edit the include template 'searchFields' and 'advancedsearchFields' to ensure all the required fields are passed through --->
-	<!-- SEARCHFLD - LEAVE BLANK ( "") IF YOU WANT TO SEARCH ALL FIELDS -->
-<input type="hidden" name="searchfld" id="searchfld" value="">
-<!-- SEARCHINVT - HAVE A VALUE OF 1 IF YOU WANT TO SEARCH ALL INVENTORY (PRODUCTS)-->
-<input type="hidden" name="searchinvt" id="searchinvt" value="1">
-<!-- SEARCHLIKE - HAVE A VALUE OF 1 IF YOU WANT YOUR SEARCH TO BE TRUNCATED-->
-<input type="hidden" name="searchlike" id="searchlike" value="1">
-<!-- ITEMS PER PAGE - SPECIFY THE AMOUNT OF RESULTS PER PAGE IN THE VALUE-->
-<input type="hidden" name="itemsperpage" id="itemsperpage" value="10">
-<!-- THRESHOLD - A HIGHER VALUE WILL MAKE YOUR SEARCH RESULTS MORE RELEVANT (PERCENTAGE 0-100)-->
-<input type="hidden" name="threshold" id="threshold" value="50">
-
-	<input type="hidden" name="xptpl" id="template" value="wz_xapian_advanced">
-<!--SRCHOPT - SPECIFY ADDITIONAL FIELDS-->
-<input type="hidden" name="srchopt" id="srchopt" value="C,V,filtercat,producttype,sortprice">
-<!--CARRYFIELDS - ALLOWS VALUES FROM SRCHOPT TO BE REUSED ON RESULTS PAGE-->
-<input type="hidden" name="carryfields" id="carryfields" value="C,V,filtercat,producttype,sortprice,name_C,name_D">
-<!--FIELD C - ALLOWS REFINE BY CATEGORY-->
-<input type="hidden" name="C" id="C" value="">
-<!--ARG_DEFAULTTOP - SETS BOOLEAN OPERATOR-->
-<input type="hidden" name="ARG_DEFAULTOP" id="ARG_DEFAULTOP" value="AND">
-
-	<div class="navsearch">
-		<fieldset class="hd_search">
-			<legend class="hide">Advanced Search</legend>
-				 Products Search <span class="normal"></span> <input type="text" name="searchex" id="searchex" class="searchnavbox">
-				<input type="image" name="searchsubmit" id="searchsubmit" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/go.jpg" alt="Go" title="Go">
-		
-		</fieldset>
-	</div>	
-</form>
-
-<script language="javascript" type="text/javascript">
-	<!-- 
-	function advvalidateQuery() {
-		if (document.advsearchform.searchex.value == '') {
-			alert('Please enter a search query.');
-			document.advsearchform.searchex.focus();
-			return;
-		}
-		document.advsearchform.submit();	
-	}
-	
-	function isValidChar() {
-		var invalidstr = ">";
-		valid = true;
-		for (i=0; i < document.advsearchform.searchex.value.length; i++) {
-			if (invalidstr.indexOf(document.advsearchform.searchex.value.charAt(i)) != -1) {
-				alert ('Please enter a valid search query.');
-				valid = false;
-			}
-		}
-		return valid;
-	}
-	// -->
-</script>
-
-
-		</div>
-		
-		<div class="header-col-three-cart">
-			
+    <div id="headerWrapper">
+        <div class="logoWrapper">
+        
+            <a href="http://www.wickes.co.uk/page/home"><img id="Wickeslogo" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/wickes-logo.gif" alt="Wickes" border="0"></a>
+            	
+        
+            
+        </div>
+        <div class="phoneWrapper">
+            <br><br>
+            <div id="userLogIn">
+            
+            </div>
+        </div>
+        <div id="miniCardWrapper">
+            
 	
 
 
@@ -261,55 +150,152 @@
 	</p>
 	<p class="basketnw">
 	<a href="http://www.wickes.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=wickes&amp;log=22&amp;layout=yourbasket" class="vbnw">View basket</a> 
-</p>
+<!--  --> </p>
 	</div>
 	
 
 
 
-		</div>
-	</div>
-	<br class="clear-all"><!-- ns6 hack -->
+        </div>
+    </div>
+    <br class="clear-all">
+    <br class="clear-all"><!-- ns6 hack -->
 </div>
-<br class="clear-all"><!-- ns6 hack -->
 <!-- end header -->
-
-				<div id="bluenav">
-	<div class="navheader"><a href="http://www.wickes.co.uk/page/home" class="hd_log">Browse Categories</a></div>
-	<div class="blue-col-two-three">
-		<div class="navwelcome">
-			
-		</div>
-		
-		<div class="navaccount">
-		
-		 	
-				
-				
-				
-							<!-- logged out -->
-							<a href="https://www.wickes.co.uk/bin/venda?ex=co_wizr-register&amp;bsref=wickes" class="hd_log">Sign in / Register</a>
-				
-			
-			
-			
-			
-		 	
-			
-		</div>
-	</div>
-	<div class="clear-all"></div><!-- ns6 hack -->
+				<div id="bluenavWrapper">
+	<div class="blueNavLinksWrapper">
+    <ul id="blueNavLinks">
+        <li><a title="Wickes Home" href="http://www.wickes.co.uk/page/home">Home</a></li>
+        <li><a href="http://www.wickes.co.uk/pcat/doors" title="Wickes Doors">Doors</a></li>
+        <li><a href="http://www.wickes.co.uk/pcat/flooring" title="Wickes Flooring">Flooring</a></li>
+        <li><a href="http://www.wickes.co.uk/pcat/kitchens" title="Wickes Kitchens">Kitchens</a></li>
+       	<li><a href="http://www.wickes.co.uk/pcat/bathrooms" title="Wickes Bathrooms">Bathrooms</a></li>
+        <li style="border:0"><a href="http://www.wickes.co.uk/pcat/gardens" title="Wickes Gardens">Gardens</a></li>
+	</ul>
+    </div>
+    <div id="blueNavBestDeals">
+    	<a href="http://www.wickes.co.uk/pcat/bestDeals" title="Wickes Best Deals">Best Deals</a>
+    </div>
 </div>
+
+<div id="infoLinksWrapper">
+	<div>
+	<ul id="infoLinks">
+        <li><a href="http://www.wickes.co.uk/pcat/customservices" title="Wickes Customer Services">Customer Services</a> </li>
+        <li><a href="http://www.wickes.co.uk/Customer-Services/Delivery-Information/pcat/deliverydetails" title="Wickes Delivery Information">Delivery</a> </li>
+        <li><a href="http://www.wickes.co.uk/page/store" title="Wickes Store Locator">Store Locator</a> </li>
+        <li><a href="http://www.wickes.co.uk/pcat/helpadvice" title="Wickes Help &amp; Advice">Help &amp; Advice</a> </li>
+        <li><a href="http://www.wickes.co.uk/pcat/partners" title="Wickes Preferred Partners">Preferred Partners</a> </li>
+      </ul>
+	</div>
+    
+	<div id="searchWrapper">
+       <div class="searchBoxWrapper"><form name="advsearchform" id="advsearchform" method="get" action="http://www.wickes.co.uk/bin/venda" onsubmit="advvalidateQuery(); isValidChar(); return false;">
+	<input type="hidden" name="ex" id="ex" value="co_wizr-xapian">
+	<input type="hidden" name="bsref" id="bsref" value="wickes">
+	<!-- Edit the include template 'searchFields' and 'advancedsearchFields' to ensure all the required fields are passed through -->
+	<!-- SEARCHFLD - LEAVE BLANK ( "") IF YOU WANT TO SEARCH ALL FIELDS -->
+<input type="hidden" name="searchfld" id="searchfld" value="">
+<!-- SEARCHINVT - HAVE A VALUE OF 1 IF YOU WANT TO SEARCH ALL INVENTORY (PRODUCTS)-->
+<input type="hidden" name="searchinvt" id="searchinvt" value="1">
+<!-- SEARCHLIKE - HAVE A VALUE OF 1 IF YOU WANT YOUR SEARCH TO BE TRUNCATED-->
+<input type="hidden" name="searchlike" id="searchlike" value="1">
+<!-- ITEMS PER PAGE - SPECIFY THE AMOUNT OF RESULTS PER PAGE IN THE VALUE-->
+<input type="hidden" name="itemsperpage" id="itemsperpage" value="10">
+<!-- THRESHOLD - A HIGHER VALUE WILL MAKE YOUR SEARCH RESULTS MORE RELEVANT (PERCENTAGE 0-100)-->
+<input type="hidden" name="threshold" id="threshold" value="50">
+
+	<input type="hidden" name="xptpl" id="template" value="wz_xapian_advanced">
+<!--SRCHOPT - SPECIFY ADDITIONAL FIELDS-->
+<input type="hidden" name="srchopt" id="srchopt" value="C,V,filtercat,producttype,sortprice">
+<!--CARRYFIELDS - ALLOWS VALUES FROM SRCHOPT TO BE REUSED ON RESULTS PAGE-->
+<input type="hidden" name="carryfields" id="carryfields" value="C,V,filtercat,producttype,sortprice,name_C,name_D">
+<!--FIELD C - ALLOWS REFINE BY CATEGORY-->
+<input type="hidden" name="C" id="C" value="">
+<!--ARG_DEFAULTTOP - SETS BOOLEAN OPERATOR-->
+<input type="hidden" name="ARG_DEFAULTOP" id="ARG_DEFAULTOP" value="AND">
+
+	<div>
+		<fieldset class="hd_search">
+			<legend class="hide">Advanced Search</legend>
+				 Products Search <span class="normal"></span> <input type="text" name="searchex" id="searchex" class="searchnavbox">
+				<input type="image" name="searchsubmit" id="searchsubmit" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/go.jpg" alt="Go" title="Go">
+		
+		</fieldset>
+	</div>	
+</form>
+
+<script language="javascript" type="text/javascript">
+	<!-- 
+	function advvalidateQuery() {
+		searchnw=document.advsearchform.searchex.value;
+		if (searchnw == 'opening hours' || searchnw == 'opening hour') {
+		window.location = "http://www.wickes.co.uk/page/store"; 
+		return false;
+		}
+		if (searchnw == 'dulux paint' || searchnw == 'dulux paint pod' || searchnw == 'dulux') {
+		window.location = "http://www.wickes.co.uk/Shop/Paint+Decorating/icat/paintdecorating"; 
+		return false;
+		}	
+		if (searchnw == 'b q' || searchnw == 'homebase') {
+		window.location = "http://www.wickes.co.uk/pcat/bestDeals"; 
+		return false;
+		}		
+		if (searchnw == '') {
+			alert('Please enter a search query.');
+			document.advsearchform.searchex.focus();
+			return;
+		}
+		document.advsearchform.submit();	
+	}	
+	
+	function isValidChar() {
+		var invalidstr = ">";
+		valid = true;
+		for (i=0; i < document.advsearchform.searchex.value.length; i++) {
+			if (invalidstr.indexOf(document.advsearchform.searchex.value.charAt(i)) != -1) {
+				alert ('Please enter a valid search query.');
+				valid = false;
+			}
+		}
+		return valid;
+	}
+	// -->
+</script>
+</div>
+       <p><a href="http://www.wickes.co.uk/Customer-Services/Site-Map/pcat/sitemap" title="Wickes Site Map">Site Map</a> </p>
+       <p><a href="http://www.wickes.co.uk/page/quickshop?WT.ac=SP200001" title="Wickes Quick Shop">Quick Shop</a></p>
+
+        <div id="navaccountWrapper">	
+            
+                
+                
+                
+                            <!-- logged out -->
+                            <a href="https://www.wickes.co.uk/bin/venda?ex=co_wizr-register&amp;bsref=wickes" class="hd_log">Sign in / Register</a>
+                
+            
+            
+            
+            
+            
+        </div>
+	</div>
+</div>
+<div class="clear-all"></div>
+
 				<!-- start columns 2 and 3 -->
-				<div id="col-two-three">
-					<!-- start content -->
-					<a name="content" id="content"></a>
-					
+				<div style="width:760px">
+					<!-- start column 2 -->
+					<div id="col-two">
+						<!-- start content -->
+						<a name="content" id="content"></a>
+						
 
 
 	<style type="text/css">
 
-#secure {margin: 10px 0 15px 15px;padding:0; width:560px;}
+#secure {margin: 10px 0 15px 5px;padding:0; width:740px;}
 #secure h1 {padding:0 0 10px 0; margin:0; color:#e47e18; font-size:130%;}
 #secure h2 {padding:5px 0 3px 0; margin-bottom:5px; font-weight:bold; color:#e47e18; font-size:115%; }
 #secure p {padding:3px 0 3px 0}
@@ -320,6 +306,13 @@
 </style>
 
 <a name="top"></a>
+
+<div class="path">
+      <a href="http://www.wickes.co.uk/page/home" title="Wickes Home">Home</a>&nbsp;&gt;&nbsp;
+      <a href="http://www.wickes.co.uk/pcat/customservices" title="Wickes Customer Servcices">Customer Services</a>&nbsp;&gt;&nbsp;
+            <span>Privacy policy</span>
+</div>
+
 <div id="secure">
 
 <h1>Privacy policy</h1>
@@ -376,158 +369,11 @@
 </div>
 
 
-					<!-- end content -->
+						<!-- end content -->
+					</div>
+					<!-- end column 2 -->
 				</div>
 				<!-- end columns 2 and 3 -->
-				<!-- start column 1 -->
-				<div id="col-one">
-					<script type="text/javascript" language="JavaScript">
-function validateEmail() {
-var fldValue = document.emailsignup.usemail.value;
-if ((fldValue == '') || (fldValue == 'E-mail address here') || (fldValue.indexOf('@') < 0)){
-alert ("Please enter a valid e-mail address");
-document.emailsignup.usemail.focus();
-document.emailsignup.usemail.value='';
-}
-else {
-document.emailsignup.submit();
-}
-}
-</script>
-
-
-<div id="nav_blockv2">
-
-<ul>
-	
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Adhesives+Sealants/icat/adhesivesealant" id="navadhesivesealant" class="nav_v1" title="Adhesives &amp; Sealants">Adhesives &amp; Sealants</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Bathrooms/icat/bathroominst" id="navbathroominst" class="nav_v1" title="Bathrooms">Bathrooms</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Building-Materials/icat/buildmaterial" id="navbuildmaterial" class="nav_v1" title="Building Materials">Building Materials</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Doors+Windows/icat/doorswindows" id="navdoorswindows" class="nav_v1" title="Doors &amp; Windows">Doors &amp; Windows</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Electrical/icat/electrical" id="navelectrical" class="nav_v1" title="Electrical">Electrical</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Flooring/icat/flooring" id="navflooring" class="nav_v1" title="Flooring">Flooring</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Gardens+Landscaping/icat/gardens" id="navgardens" class="nav_v1" title="Gardens &amp; Landscaping">Gardens &amp; Landscaping</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Heating-Plumbing+Fires/icat/heatingplumbing" id="navheatingplumbing" class="nav_v1" title="Heating, Plumbing &amp; Fires">Heating, Plumbing &amp; Fires</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Insulation/icat/insulation" id="navinsulation" class="nav_v1" title="Insulation">Insulation</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Kitchens/icat/kitcheninst" id="navkitcheninst" class="nav_v1" title="Kitchens">Kitchens</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Lighting/icat/lighting" id="navlighting" class="nav_v1" title="Lighting">Lighting</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Nails-Screws+Fixings/icat/nailscrewfixing" id="navnailscrewfixing" class="nav_v1" title="Nails, Screws &amp; Fixings">Nails, Screws &amp; Fixings</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Paint+Decorating/icat/paintdecorating" id="navpaintdecorating" class="nav_v1" title="Paint &amp; Decorating">Paint &amp; Decorating</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Roofing+Guttering/icat/roofguttering" id="navroofguttering" class="nav_v1" title="Roofing &amp; Guttering">Roofing &amp; Guttering</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Tiles/icat/tiles" id="navtiles" class="nav_v1" title="Tiles">Tiles</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Timber/icat/timber" id="navtimber" class="nav_v1" title="Timber">Timber</a></div>
-		
-	</li>
-
-	<li>
-		<div><a href="http://www.wickes.co.uk/Shop/Tools-Ladders+Storage/icat/toolsstorage" id="navtoolsstorage" class="nav_v1" title="Tools, Ladders &amp; Storage">Tools, Ladders &amp; Storage</a></div>
-		
-	</li>
-
-</ul>
-</div>
-
-<div id="newsLetter">
-	<h1>Newsletter</h1>
-	<p class="newsText">Sign-up for regular updates on products, promotions &amp; offers.</p>
-    <form name="emailsignup" method="post" action="https://www.wickes.co.uk/bin/venda" onsubmit="validateEmail();return false;">
-        <input type="hidden" name="ex" value="tl_user-procmyform">
-        <input type="hidden" name="page" value="emailsignupthanks">
-        <input type="hidden" name="bsref" value="wickes">
-        <input type="hidden" name="log" value="">
-        <input type="hidden" name="emlonly" value="1">       
-        <fieldset class="emailsignup">
-			<label for="emailsignup"></label>
-			<input type="text" id="emailsignup" name="usemail" size="25" class="newsEmail" onclick="if (this.value=='E-mail address here'){this.value=''};" value="E-mail address here">
-			<input type="image" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/leftMenu/emailBtn.gif" alt="signup" name="submit" class="signemail">
-        </fieldset>
-   </form>
-</div> 
-
-
-<div id="website">
-	<div class="wwebsite">Other Wickes Websites</div>
-	<ul>
-		<li><div><a href="http://www.wickesbathrooms.co.uk" class="nav_promo" target="_blank" title="Bathrooms by Wickes">Bathrooms by Wickes</a></div></li>
-		<li><div><a href="http://www.wickeskitchens.co.uk" class="nav_promo" target="_blank" title="Kitchens by Wickes">Kitchens by Wickes</a></div></li>
-	</ul>
-</div>
-
-
-<div id="preferredPartners">
-	<a href="http://www.wickes.co.uk/pcat/partners"><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/leftMenu/preferredPartners.gif" alt="Wickes Preferred Partners" border="0"></a>
-</div>
-
-<div id="hotline">
-    <h1>Order by phone</h1>
-    <h3>7 days a week</h3>
-    <h2><img src="http://www.wickes.co.uk/content/ebiz/wickes/resources/images/wickes-phone.gif" border="0" alt="Order by phone"> 0845 279 9898</h2>
-    <p><a title="Order by phone 7 days a week" href="http://www.wickes.co.uk/pcat/telephone">More information &amp; opening hours</a></p>
-</div>
-				</div>
-				<!-- end column 1 -->
-				<!-- <div class="clear-all"></div> -->
 				<br class="clear-all"><!-- ns6 hack -->
 			</div>
 			
@@ -591,7 +437,7 @@ document.emailsignup.submit();
 
 <div class="copyright">
 	<div class="left" style="padding-top:11px;">
-	Copyright Wickes.co.uk 2008
+	© Copyright Wickes.co.uk 2009
 	</div>
 	
 	<div class="right" style="padding-bottom:5px;">
@@ -601,7 +447,9 @@ document.emailsignup.submit();
 	</div>
 
 </div>
+
 		</div>
+
 		<!-- end wrapper -->
 		<!-- if on a secure page use pull in the SSL JS -->
 
@@ -656,8 +504,11 @@ function dcsMultiTrack(metaquery){
 	    <!-- End WebTrends Tags -->
 		<!-- START OF SmartSource Data Collector NOSCRIPT TAG -->
 		<noscript>
-		<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsy7bqn6000008qtmkj8y4pz_4h3z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2"/></div>
+		<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsy7bqn6000008qtmkj8y4pz_4h3z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2"></div>
 		</noscript>
 		<!-- END OF SmartSource Data Collector NOSCRIPT TAG -->
+		<!-- Webtrends AD DIRECTOR start -->
+		<script type="text/javascript" src="http://www.wickes.co.uk/content/ebiz/wickes/resources/js/DSFPC.js"></script>
+		<!-- Webtrends AD DIRECTOR end -->  
 	
 </body></html>
