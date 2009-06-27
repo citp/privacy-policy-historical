@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054155id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpals.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627223715id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.*
 
-# InterPals Penpals : Privacy Policy
+# InterPals Penpals :: Privacy Policy
 
 This policy covers how interpals.net, ("interpals.net," "we," "us," or "our") treats personal information that it collects and receives on www.interpals.net. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
