@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2008-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081219191115id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627104601id_/http%3A//www.gohawaii.com/about_hawaii/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Hawaii's Official Tourism Site -- HVCB Privacy Policy</title>
+<title>Hawaii's Official Tourism Site -- Travel info for your Hawaii vacation</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" content="">
 
@@ -21,6 +21,342 @@
 <script language="javascript" type="text/javascript" src="http://www.gohawaii.com/js/myhawaii.js"></script>
 <script language="javascript" type="text/javascript" src="http://www.gohawaii.com/js/dmc.js"></script>
 <script language="javascript" type="text/javascript" src="/js/progressbar.js"></script>
+
+<script language="javascript" type="text/javascript">
+
+//javascript id: 0
+var base_href_js = "http://www.gohawaii.com"; var selected_cat = 0; var selected_location=0; var selected_subcategory=0;
+
+//javascript id: 1
+
+        function setNewOptions(select_id, options)
+        {
+	        if (options != null)
+	        {
+	            select = document.getElementById(select_id);
+	            if (select)
+	            {
+	                // clear current options
+	                select.options.length = 0;
+	                // load new options
+	                for(i=0; i<options.length; i++)
+	                {
+	                    option_text = options[i][0];
+	                    option_value = options[i][1];
+	                    select.options[i] = new Option(option_text, option_value, false);
+	                }
+	            }
+        	}
+        }
+        
+
+//javascript id: 2
+
+        function onWhatToDoIslandChange(select)
+        {
+        	// get the selected island
+	        island_id = select.options[select.selectedIndex].value;
+	        
+	        // get the category options for that island
+	        options = getCategoryOptionsWhatToDo(island_id);
+	        
+	        // update the select control with the new options
+	        setNewOptions('what_to_do_cat', options);
+        }
+        
+        function getCategoryOptionsWhatToDo(island_id)
+        {
+        	
+        		if (island_id == '0'){
+        			return [['All Categories (2215)', ''], ['Activities (395)', '525'], ['Dining (241)', '536'], ['Events (391)', '610'], ['Golf (43)', '562'], ['Services (242)', '566'], ['Shopping (128)', '574'], ['Transportation (46)', '581'], ['Travel Professionals (153)', '588'], ['Weddings & Honeymoons (116)', '592']];
+        		} else if (island_id == '44'){
+        			return [['All Categories (356)', ''], ['Activities (67)', '525'], ['Dining (28)', '536'], ['Events (57)', '610'], ['Golf (7)', '562'], ['Services (40)', '566'], ['Shopping (15)', '574'], ['Transportation (10)', '581'], ['Travel Professionals (5)', '588'], ['Weddings & Honeymoons (20)', '592']];
+        		} else if (island_id == '41'){
+        			return [['All Categories (934)', ''], ['Activities (129)', '525'], ['Dining (95)', '536'], ['Events (191)', '610'], ['Golf (13)', '562'], ['Services (155)', '566'], ['Shopping (65)', '574'], ['Transportation (21)', '581'], ['Travel Professionals (139)', '588'], ['Weddings & Honeymoons (45)', '592']];
+        		} else if (island_id == '42'){
+        			return [['All Categories (64)', ''], ['Activities (11)', '525'], ['Dining (3)', '536'], ['Events (6)', '610'], ['Services (2)', '566'], ['Shopping (3)', '574'], ['Transportation (6)', '581'], ['Travel Professionals (2)', '588'], ['Weddings & Honeymoons (1)', '592']];
+        		} else if (island_id == '43'){
+        			return [['All Categories (50)', ''], ['Activities (12)', '525'], ['Dining (10)', '536'], ['Events (12)', '610'], ['Services (3)', '566'], ['Shopping (4)', '574'], ['Transportation (5)', '581'], ['Travel Professionals (1)', '588'], ['Weddings & Honeymoons (2)', '592']];
+        		} else if (island_id == '38'){
+        			return [['All Categories (466)', ''], ['Activities (93)', '525'], ['Dining (65)', '536'], ['Events (45)', '610'], ['Golf (13)', '562'], ['Services (43)', '566'], ['Shopping (17)', '574'], ['Transportation (14)', '581'], ['Travel Professionals (11)', '588'], ['Weddings & Honeymoons (39)', '592']];
+        		} else if (island_id == '40'){
+        			return [['All Categories (462)', ''], ['Activities (110)', '525'], ['Dining (50)', '536'], ['Events (80)', '610'], ['Golf (9)', '562'], ['Services (36)', '566'], ['Shopping (30)', '574'], ['Transportation (10)', '581'], ['Travel Professionals (9)', '588'], ['Weddings & Honeymoons (9)', '592']];
+				}
+				return null;
+		
+        }
+        
+
+//javascript id: 3
+
+    	function onWhatToDoCategoryChange(select)
+    	{
+    		// get selected island
+    		island_select = document.getElementById('whattodo_location');
+    		island_id = island_select.options[island_select.selectedIndex].value;
+    		
+    		// get selected category
+    		category = select.options[select.selectedIndex].value;
+    		
+    		// get the subcategory options for this island/category combo
+    		options = getSubCategoryOptionsWhatToDo(category, island_id);
+    		
+    		// update the select control with the new options
+    		setNewOptions('search-multisearch-sub_categories_what_to_do', options);
+    	}
+    	
+    	function getSubCategoryOptionsWhatToDo (category, island_id)
+    	{
+    		
+        		if (island_id == '0'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (395)', ''], ['Activity Booking & Concierge Services (33)', '1154'], ['Attractions (47)', '526'], ['Culture and the Arts (41)', '527'], ['Directories & Guides (5)', '528'], ['Land Adventures (78)', '529'], ['Luaus (22)', '530'], ['Nightlife (33)', '531'], ['Plantations, Farms and Gardens (21)', '532'], ['Sky Adventures (17)', '533'], ['Wellness & Rejuvenation (44)', '534'], ['Water Adventures (101)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (241)', ''], ['American (76)', '537'], ['Bars & Lounges (11)', '538'], ['Carribbean (1)', '1223'], ['Chinese (2)', '539'], ['Coffee & Tea (1)', '1286'], ['Continental (24)', '540'], ['Dinner Show/Cruise (8)', '541'], ['Directories & Guides (2)', '542'], ['Euro-Asian (1)', '543'], ['French (1)', '544'], ['Hawaii Regional (46)', '545'], ['Hawaiian (5)', '546'], ['Health (3)', '547'], ['Ice Cream/Yogurt (1)', '548'], ['Italian (8)', '549'], ['Japanese (14)', '550'], ['Luaus (10)', '552'], ['Mexican (2)', '554'], ['Pacific Rim (7)', '555'], ['Pizza (1)', '556'], ['Seafood (14)', '557'], ['Steak (5)', '558']];
+	        		} else if (category == '610'){
+		        			return [['All Types (391)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (95)', '611'], ['Culinary Events (35)', '612'], ['Ethnic and Cultural (126)', '613'], ['Family Events (172)', '614'], ['Festivals and Parades (104)', '615'], ['Fundraisers and Benefits (76)', '616'], ['Hawaiiana (102)', '617'], ['Land Sports (56)', '618'], ['Lectures and Workshops (84)', '619'], ['Musicals and Concerts (99)', '620'], ['Nightlife (31)', '621'], ['Ocean Sports (35)', '622'], ['Performing Arts/Theater (96)', '623'], ['Special Events (130)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types (43)', ''], ['Directories and Guides (1)', '563'], ['Golf Courses (31)', '564'], ['Products and Services (11)', '565']];
+	        		} else if (category == '566'){
+		        			return [['All Types (242)', ''], ['Business and Financial Services (124)', '567'], ['Children and Families (6)', '568'], ['Educational Programs and Institutions (12)', '569'], ['Medical Services and Facilities (2)', '570'], ['Meetings/Convention Services (23)', '1220'], ['Photographers & Videographers (10)', '1157'], ['Real Estate (26)', '571'], ['Visitor Information and Guides (39)', '573']];
+	        		} else if (category == '574'){
+		        			return [['All Types (128)', ''], ['Directories and Guides (2)', '575'], ['Duty Free (5)', '576'], ['Hawaiian Products and Apparel (72)', '577'], ['Online Shopping (19)', '578'], ['Retail Stores, Shops and Boutiques (36)', '579'], ['Shopping Centers, Malls and Outlets (31)', '580']];
+	        		} else if (category == '581'){
+		        			return [['All Types (46)', ''], ['Airlines (14)', '582'], ['Buses and Shuttles (9)', '583'], ['Cars, Motorcycles and Mopeds (12)', '584'], ['Limousines and Taxis (8)', '585'], ['Ocean Transportation (2)', '586'], ['Transportation for Special Needs Travelers (1)', '587']];
+	        		} else if (category == '588'){
+		        			return [['All Types (153)', ''], ['Travel Agents and Internet Travel Services (114)', '590'], ['Vacation Packages and Tours (41)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (116)', ''], ['Caterers, Facilities and Venues (11)', '593'], ['Directories and Guides (6)', '594'], ['Florists and Formal Wear (6)', '595'], ['Photographers and Videographers (20)', '596'], ['Transportation and Limousines (2)', '597'], ['Wedding Services Providers and Officiants (77)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '44'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (67)', ''], ['Activity Booking & Concierge Services (9)', '1154'], ['Attractions (4)', '526'], ['Culture and the Arts (2)', '527'], ['Directories & Guides (1)', '528'], ['Land Adventures (20)', '529'], ['Luaus (4)', '530'], ['Nightlife (2)', '531'], ['Plantations, Farms and Gardens (2)', '532'], ['Sky Adventures (7)', '533'], ['Wellness & Rejuvenation (9)', '534'], ['Water Adventures (17)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (28)', ''], ['American (4)', '537'], ['Bars & Lounges (3)', '538'], ['Continental (5)', '540'], ['Directories & Guides (1)', '542'], ['Hawaii Regional (2)', '545'], ['Hawaiian (1)', '546'], ['Health (1)', '547'], ['Ice Cream/Yogurt (1)', '548'], ['Italian (2)', '549'], ['Japanese (1)', '550'], ['Luaus (2)', '552'], ['Pacific Rim (1)', '555'], ['Seafood (3)', '557'], ['Steak (1)', '558']];
+	        		} else if (category == '610'){
+		        			return [['All Types (57)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (7)', '611'], ['Culinary Events (7)', '612'], ['Ethnic and Cultural (40)', '613'], ['Family Events (48)', '614'], ['Festivals and Parades (39)', '615'], ['Fundraisers and Benefits (40)', '616'], ['Hawaiiana (37)', '617'], ['Land Sports (5)', '618'], ['Lectures and Workshops (36)', '619'], ['Musicals and Concerts (40)', '620'], ['Nightlife (2)', '621'], ['Performing Arts/Theater (35)', '623'], ['Special Events (33)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types (7)', ''], ['Golf Courses (6)', '564'], ['Products and Services (1)', '565']];
+	        		} else if (category == '566'){
+		        			return [['All Types (40)', ''], ['Business and Financial Services (15)', '567'], ['Meetings/Convention Services (8)', '1220'], ['Photographers & Videographers (1)', '1157'], ['Real Estate (7)', '571'], ['Visitor Information and Guides (10)', '573']];
+	        		} else if (category == '574'){
+		        			return [['All Types (15)', ''], ['Hawaiian Products and Apparel (8)', '577'], ['Online Shopping (3)', '578'], ['Retail Stores, Shops and Boutiques (2)', '579'], ['Shopping Centers, Malls and Outlets (7)', '580']];
+	        		} else if (category == '581'){
+		        			return [['All Types (10)', ''], ['Airlines (4)', '582'], ['Buses and Shuttles (1)', '583'], ['Cars, Motorcycles and Mopeds (3)', '584'], ['Limousines and Taxis (2)', '585']];
+	        		} else if (category == '588'){
+		        			return [['All Types (5)', ''], ['Travel Agents and Internet Travel Services (3)', '590'], ['Vacation Packages and Tours (3)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (20)', ''], ['Caterers, Facilities and Venues (2)', '593'], ['Directories and Guides (1)', '594'], ['Florists and Formal Wear (1)', '595'], ['Photographers and Videographers (4)', '596'], ['Transportation and Limousines (1)', '597'], ['Wedding Services Providers and Officiants (12)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '41'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (129)', ''], ['Activity Booking & Concierge Services (15)', '1154'], ['Attractions (27)', '526'], ['Culture and the Arts (24)', '527'], ['Directories & Guides (3)', '528'], ['Land Adventures (16)', '529'], ['Luaus (7)', '530'], ['Nightlife (13)', '531'], ['Plantations, Farms and Gardens (3)', '532'], ['Sky Adventures (7)', '533'], ['Wellness & Rejuvenation (9)', '534'], ['Water Adventures (30)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (95)', ''], ['American (27)', '537'], ['Bars & Lounges (4)', '538'], ['Carribbean (1)', '1223'], ['Chinese (2)', '539'], ['Continental (12)', '540'], ['Dinner Show/Cruise (6)', '541'], ['French (1)', '544'], ['Hawaii Regional (20)', '545'], ['Japanese (8)', '550'], ['Luaus (2)', '552'], ['Mexican (2)', '554'], ['Pacific Rim (2)', '555'], ['Seafood (5)', '557'], ['Steak (3)', '558']];
+	        		} else if (category == '610'){
+		        			return [['All Types (191)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (63)', '611'], ['Culinary Events (16)', '612'], ['Ethnic and Cultural (50)', '613'], ['Family Events (80)', '614'], ['Festivals and Parades (37)', '615'], ['Fundraisers and Benefits (24)', '616'], ['Hawaiiana (33)', '617'], ['Land Sports (16)', '618'], ['Lectures and Workshops (26)', '619'], ['Musicals and Concerts (21)', '620'], ['Nightlife (13)', '621'], ['Ocean Sports (24)', '622'], ['Performing Arts/Theater (30)', '623'], ['Special Events (60)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types (13)', ''], ['Golf Courses (7)', '564'], ['Products and Services (6)', '565']];
+	        		} else if (category == '566'){
+		        			return [['All Types (155)', ''], ['Business and Financial Services (93)', '567'], ['Children and Families (3)', '568'], ['Educational Programs and Institutions (8)', '569'], ['Medical Services and Facilities (1)', '570'], ['Meetings/Convention Services (17)', '1220'], ['Photographers & Videographers (4)', '1157'], ['Real Estate (7)', '571'], ['Visitor Information and Guides (21)', '573']];
+	        		} else if (category == '574'){
+		        			return [['All Types (65)', ''], ['Directories and Guides (1)', '575'], ['Duty Free (3)', '576'], ['Hawaiian Products and Apparel (38)', '577'], ['Online Shopping (10)', '578'], ['Retail Stores, Shops and Boutiques (14)', '579'], ['Shopping Centers, Malls and Outlets (16)', '580']];
+	        		} else if (category == '581'){
+		        			return [['All Types (21)', ''], ['Airlines (5)', '582'], ['Buses and Shuttles (6)', '583'], ['Cars, Motorcycles and Mopeds (5)', '584'], ['Limousines and Taxis (5)', '585']];
+	        		} else if (category == '588'){
+		        			return [['All Types (139)', ''], ['Travel Agents and Internet Travel Services (107)', '590'], ['Vacation Packages and Tours (34)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (45)', ''], ['Caterers, Facilities and Venues (4)', '593'], ['Directories and Guides (3)', '594'], ['Florists and Formal Wear (5)', '595'], ['Photographers and Videographers (7)', '596'], ['Transportation and Limousines (1)', '597'], ['Wedding Services Providers and Officiants (26)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '42'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (11)', ''], ['Activity Booking & Concierge Services (1)', '1154'], ['Culture and the Arts (1)', '527'], ['Land Adventures (2)', '529'], ['Plantations, Farms and Gardens (1)', '532'], ['Water Adventures (7)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (3)', ''], ['Bars & Lounges (2)', '538'], ['Pizza (1)', '556']];
+	        		} else if (category == '610'){
+		        			return [['All Types (6)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (2)', '611'], ['Ethnic and Cultural (1)', '613'], ['Family Events (2)', '614'], ['Festivals and Parades (2)', '615'], ['Hawaiiana (1)', '617'], ['Ocean Sports (3)', '622'], ['Performing Arts/Theater (1)', '623']];
+	        		} else if (category == '562'){
+		        			return [['All Types', '']];
+	        		} else if (category == '566'){
+		        			return [['All Types (2)', ''], ['Business and Financial Services (1)', '567'], ['Real Estate (1)', '571']];
+	        		} else if (category == '574'){
+		        			return [['All Types (3)', ''], ['Hawaiian Products and Apparel (2)', '577'], ['Online Shopping (1)', '578']];
+	        		} else if (category == '581'){
+		        			return [['All Types (6)', ''], ['Airlines (2)', '582'], ['Buses and Shuttles (1)', '583'], ['Cars, Motorcycles and Mopeds (1)', '584'], ['Limousines and Taxis (1)', '585'], ['Ocean Transportation (1)', '586']];
+	        		} else if (category == '588'){
+		        			return [['All Types (2)', ''], ['Travel Agents and Internet Travel Services (1)', '590'], ['Vacation Packages and Tours (1)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (1)', ''], ['Wedding Services Providers and Officiants (1)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '43'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (12)', ''], ['Culture and the Arts (1)', '527'], ['Nightlife (1)', '531'], ['Sky Adventures (1)', '533'], ['Wellness & Rejuvenation (4)', '534'], ['Water Adventures (5)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (10)', ''], ['American (6)', '537'], ['Bars & Lounges (1)', '538'], ['Coffee & Tea (1)', '1286'], ['Italian (2)', '549'], ['Pacific Rim (1)', '555']];
+	        		} else if (category == '610'){
+		        			return [['All Types (12)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (4)', '611'], ['Culinary Events (3)', '612'], ['Ethnic and Cultural (2)', '613'], ['Family Events (3)', '614'], ['Festivals and Parades (4)', '615'], ['Hawaiiana (1)', '617'], ['Land Sports (3)', '618'], ['Musicals and Concerts (2)', '620'], ['Performing Arts/Theater (1)', '623'], ['Special Events (3)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types', '']];
+	        		} else if (category == '566'){
+		        			return [['All Types (3)', ''], ['Real Estate (3)', '571']];
+	        		} else if (category == '574'){
+		        			return [['All Types (4)', ''], ['Hawaiian Products and Apparel (3)', '577'], ['Retail Stores, Shops and Boutiques (1)', '579']];
+	        		} else if (category == '581'){
+		        			return [['All Types (5)', ''], ['Airlines (2)', '582'], ['Cars, Motorcycles and Mopeds (2)', '584'], ['Ocean Transportation (1)', '586']];
+	        		} else if (category == '588'){
+		        			return [['All Types (1)', ''], ['Travel Agents and Internet Travel Services (1)', '590']];
+	        		} else if (category == '592'){
+		        			return [['All Types (2)', ''], ['Wedding Services Providers and Officiants (2)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '38'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (93)', ''], ['Activity Booking & Concierge Services (15)', '1154'], ['Attractions (15)', '526'], ['Culture and the Arts (5)', '527'], ['Directories & Guides (2)', '528'], ['Land Adventures (18)', '529'], ['Luaus (5)', '530'], ['Nightlife (7)', '531'], ['Plantations, Farms and Gardens (8)', '532'], ['Sky Adventures (4)', '533'], ['Wellness & Rejuvenation (11)', '534'], ['Water Adventures (24)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (65)', ''], ['American (23)', '537'], ['Continental (6)', '540'], ['Dinner Show/Cruise (3)', '541'], ['Directories & Guides (1)', '542'], ['Hawaii Regional (12)', '545'], ['Hawaiian (3)', '546'], ['Italian (3)', '549'], ['Japanese (4)', '550'], ['Luaus (3)', '552'], ['Pacific Rim (2)', '555'], ['Seafood (4)', '557'], ['Steak (1)', '558']];
+	        		} else if (category == '610'){
+		        			return [['All Types (45)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (5)', '611'], ['Culinary Events (4)', '612'], ['Ethnic and Cultural (19)', '613'], ['Family Events (15)', '614'], ['Festivals and Parades (11)', '615'], ['Fundraisers and Benefits (3)', '616'], ['Hawaiiana (19)', '617'], ['Land Sports (10)', '618'], ['Lectures and Workshops (3)', '619'], ['Musicals and Concerts (20)', '620'], ['Nightlife (16)', '621'], ['Ocean Sports (2)', '622'], ['Performing Arts/Theater (19)', '623'], ['Special Events (10)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types (13)', ''], ['Directories and Guides (1)', '563'], ['Golf Courses (9)', '564'], ['Products and Services (3)', '565']];
+	        		} else if (category == '566'){
+		        			return [['All Types (43)', ''], ['Business and Financial Services (13)', '567'], ['Children and Families (2)', '568'], ['Meetings/Convention Services (12)', '1220'], ['Photographers & Videographers (2)', '1157'], ['Real Estate (6)', '571'], ['Visitor Information and Guides (8)', '573']];
+	        		} else if (category == '574'){
+		        			return [['All Types (17)', ''], ['Directories and Guides (1)', '575'], ['Duty Free (1)', '576'], ['Hawaiian Products and Apparel (11)', '577'], ['Online Shopping (4)', '578'], ['Retail Stores, Shops and Boutiques (4)', '579'], ['Shopping Centers, Malls and Outlets (5)', '580']];
+	        		} else if (category == '581'){
+		        			return [['All Types (14)', ''], ['Airlines (4)', '582'], ['Buses and Shuttles (2)', '583'], ['Cars, Motorcycles and Mopeds (5)', '584'], ['Limousines and Taxis (1)', '585'], ['Ocean Transportation (1)', '586'], ['Transportation for Special Needs Travelers (1)', '587']];
+	        		} else if (category == '588'){
+		        			return [['All Types (11)', ''], ['Travel Agents and Internet Travel Services (7)', '590'], ['Vacation Packages and Tours (5)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (39)', ''], ['Caterers, Facilities and Venues (4)', '593'], ['Directories and Guides (1)', '594'], ['Photographers and Videographers (8)', '596'], ['Wedding Services Providers and Officiants (29)', '598']];
+					}
+					return null;
+			
+        		} else if (island_id == '40'){
+	        		if (category == ''){
+	        				return [['- Select a Category -', '']]
+	        		} else if (category == '525'){
+		        			return [['All Types (110)', ''], ['Activity Booking & Concierge Services (6)', '1154'], ['Attractions (8)', '526'], ['Culture and the Arts (8)', '527'], ['Directories & Guides (2)', '528'], ['Land Adventures (28)', '529'], ['Luaus (6)', '530'], ['Nightlife (10)', '531'], ['Plantations, Farms and Gardens (7)', '532'], ['Sky Adventures (6)', '533'], ['Wellness & Rejuvenation (11)', '534'], ['Water Adventures (28)', '535']];
+	        		} else if (category == '536'){
+		        			return [['All Types (50)', ''], ['American (19)', '537'], ['Bars & Lounges (1)', '538'], ['Continental (1)', '540'], ['Euro-Asian (1)', '543'], ['Hawaii Regional (13)', '545'], ['Hawaiian (1)', '546'], ['Health (2)', '547'], ['Italian (1)', '549'], ['Japanese (2)', '550'], ['Luaus (3)', '552'], ['Pacific Rim (1)', '555'], ['Seafood (4)', '557'], ['Steak (1)', '558']];
+	        		} else if (category == '610'){
+		        			return [['All Types (80)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (14)', '611'], ['Culinary Events (5)', '612'], ['Ethnic and Cultural (14)', '613'], ['Family Events (24)', '614'], ['Festivals and Parades (11)', '615'], ['Fundraisers and Benefits (9)', '616'], ['Hawaiiana (11)', '617'], ['Land Sports (22)', '618'], ['Lectures and Workshops (19)', '619'], ['Musicals and Concerts (16)', '620'], ['Ocean Sports (6)', '622'], ['Performing Arts/Theater (10)', '623'], ['Special Events (24)', '624']];
+	        		} else if (category == '562'){
+		        			return [['All Types (9)', ''], ['Golf Courses (8)', '564'], ['Products and Services (1)', '565']];
+	        		} else if (category == '566'){
+		        			return [['All Types (36)', ''], ['Business and Financial Services (8)', '567'], ['Children and Families (1)', '568'], ['Educational Programs and Institutions (4)', '569'], ['Medical Services and Facilities (1)', '570'], ['Meetings/Convention Services (9)', '1220'], ['Photographers & Videographers (3)', '1157'], ['Real Estate (2)', '571'], ['Visitor Information and Guides (8)', '573']];
+	        		} else if (category == '574'){
+		        			return [['All Types (30)', ''], ['Duty Free (1)', '576'], ['Hawaiian Products and Apparel (16)', '577'], ['Online Shopping (4)', '578'], ['Retail Stores, Shops and Boutiques (15)', '579'], ['Shopping Centers, Malls and Outlets (6)', '580']];
+	        		} else if (category == '581'){
+		        			return [['All Types (10)', ''], ['Airlines (5)', '582'], ['Buses and Shuttles (2)', '583'], ['Cars, Motorcycles and Mopeds (3)', '584']];
+	        		} else if (category == '588'){
+		        			return [['All Types (9)', ''], ['Travel Agents and Internet Travel Services (5)', '590'], ['Vacation Packages and Tours (4)', '591']];
+	        		} else if (category == '592'){
+		        			return [['All Types (9)', ''], ['Caterers, Facilities and Venues (2)', '593'], ['Directories and Guides (1)', '594'], ['Photographers and Videographers (2)', '596'], ['Wedding Services Providers and Officiants (6)', '598']];
+					}
+					return null;
+			
+				}
+				return null;
+		
+    	}
+    	
+
+//javascript id: 4
+
+        function onWhereToStayIslandChange(select)
+        {
+        	// get the selected island
+	        island_id = select.options[select.selectedIndex].value;
+	        
+	        // get the category options for that island
+	        options = getCategoryOptionsWhereToStay(island_id);
+	        
+	        // update the select control with the new options
+	        setNewOptions('where_to_stay_cat', options);
+        }
+        
+        function getCategoryOptionsWhereToStay(island_id)
+        {
+        	
+        		if (island_id == '0'){
+        			return [['All Accommodations (515)', ''], ['Bed & Breakfasts/Inn (75)', '600'], ['Camping & RVs (2)', '601'], ['Condominiums (182)', '602'], ['Directories & Guides (9)', '604'], ['Hostels (4)', '605'], ['Hotels & Resorts (126)', '606'], ['Reservations & Booking Services (89)', '1153'], ['Retreats and Camps (1)', '607'], ['Vacation Ownerships (4)', '608'], ['Vacation Rentals, Homes and Cottages (136)', '609']];
+        		} else if (island_id == '44'){
+        			return [['All Accommodations (114)', ''], ['Bed & Breakfasts/Inn (10)', '600'], ['Condominiums (48)', '602'], ['Directories & Guides (1)', '604'], ['Hotels & Resorts (14)', '606'], ['Reservations & Booking Services (23)', '1153'], ['Vacation Ownerships (1)', '608'], ['Vacation Rentals, Homes and Cottages (45)', '609']];
+        		} else if (island_id == '41'){
+        			return [['All Accommodations (102)', ''], ['Bed & Breakfasts/Inn (7)', '600'], ['Condominiums (17)', '602'], ['Directories & Guides (2)', '604'], ['Hostels (2)', '605'], ['Hotels & Resorts (54)', '606'], ['Reservations & Booking Services (25)', '1153'], ['Vacation Ownerships (2)', '608'], ['Vacation Rentals, Homes and Cottages (20)', '609']];
+        		} else if (island_id == '42'){
+        			return [['All Accommodations (34)', ''], ['Condominiums (28)', '602'], ['Hotels & Resorts (1)', '606'], ['Reservations & Booking Services (3)', '1153'], ['Vacation Ownerships (1)', '608'], ['Vacation Rentals, Homes and Cottages (3)', '609']];
+        		} else if (island_id == '43'){
+        			return [['All Accommodations (3)', ''], ['Hotels & Resorts (3)', '606']];
+        		} else if (island_id == '38'){
+        			return [['All Accommodations (149)', ''], ['Bed & Breakfasts/Inn (13)', '600'], ['Condominiums (78)', '602'], ['Directories & Guides (5)', '604'], ['Hostels (1)', '605'], ['Hotels & Resorts (27)', '606'], ['Reservations & Booking Services (33)', '1153'], ['Vacation Ownerships (1)', '608'], ['Vacation Rentals, Homes and Cottages (35)', '609']];
+        		} else if (island_id == '40'){
+        			return [['All Accommodations (130)', ''], ['Bed & Breakfasts/Inn (48)', '600'], ['Camping & RVs (2)', '601'], ['Condominiums (17)', '602'], ['Directories & Guides (1)', '604'], ['Hostels (1)', '605'], ['Hotels & Resorts (27)', '606'], ['Reservations & Booking Services (19)', '1153'], ['Retreats and Camps (1)', '607'], ['Vacation Ownerships (1)', '608'], ['Vacation Rentals, Homes and Cottages (40)', '609']];
+				}
+				return null;
+		
+        }
+        
+
+//javascript id: 5
+
+        function onEventIslandChange(select)
+        {
+        	// get the selected island
+	        island_id = select.options[select.selectedIndex].value;
+	        
+	        // get the category options for that island
+	        options = getCategoryOptionsEvents(island_id);
+	        
+	        // update the select control with the new options
+	        setNewOptions('events_cat', options);
+        }
+        
+        function getCategoryOptionsEvents(island_id)
+        {
+        	
+        		if (island_id == '0'){
+        			return [['All Categories (391)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (95)', '611'], ['Culinary Events (35)', '612'], ['Ethnic and Cultural (126)', '613'], ['Family Events (172)', '614'], ['Festivals and Parades (104)', '615'], ['Fundraisers and Benefits (76)', '616'], ['Hawaiiana (102)', '617'], ['Land Sports (56)', '618'], ['Lectures and Workshops (84)', '619'], ['Musicals and Concerts (99)', '620'], ['Nightlife (31)', '621'], ['Ocean Sports (35)', '622'], ['Performing Arts/Theater (96)', '623'], ['Special Events (130)', '624']];
+        		} else if (island_id == '44'){
+        			return [['All Categories (57)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (7)', '611'], ['Culinary Events (7)', '612'], ['Ethnic and Cultural (40)', '613'], ['Family Events (48)', '614'], ['Festivals and Parades (39)', '615'], ['Fundraisers and Benefits (40)', '616'], ['Hawaiiana (37)', '617'], ['Land Sports (5)', '618'], ['Lectures and Workshops (36)', '619'], ['Musicals and Concerts (40)', '620'], ['Nightlife (2)', '621'], ['Performing Arts/Theater (35)', '623'], ['Special Events (33)', '624']];
+        		} else if (island_id == '41'){
+        			return [['All Categories (191)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (63)', '611'], ['Culinary Events (16)', '612'], ['Ethnic and Cultural (50)', '613'], ['Family Events (80)', '614'], ['Festivals and Parades (37)', '615'], ['Fundraisers and Benefits (24)', '616'], ['Hawaiiana (33)', '617'], ['Land Sports (16)', '618'], ['Lectures and Workshops (26)', '619'], ['Musicals and Concerts (21)', '620'], ['Nightlife (13)', '621'], ['Ocean Sports (24)', '622'], ['Performing Arts/Theater (30)', '623'], ['Special Events (60)', '624']];
+        		} else if (island_id == '42'){
+        			return [['All Categories (6)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (2)', '611'], ['Ethnic and Cultural (1)', '613'], ['Family Events (2)', '614'], ['Festivals and Parades (2)', '615'], ['Hawaiiana (1)', '617'], ['Ocean Sports (3)', '622'], ['Performing Arts/Theater (1)', '623']];
+        		} else if (island_id == '43'){
+        			return [['All Categories (12)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (4)', '611'], ['Culinary Events (3)', '612'], ['Ethnic and Cultural (2)', '613'], ['Family Events (3)', '614'], ['Festivals and Parades (4)', '615'], ['Hawaiiana (1)', '617'], ['Land Sports (3)', '618'], ['Musicals and Concerts (2)', '620'], ['Performing Arts/Theater (1)', '623'], ['Special Events (3)', '624']];
+        		} else if (island_id == '38'){
+        			return [['All Categories (45)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (5)', '611'], ['Culinary Events (4)', '612'], ['Ethnic and Cultural (19)', '613'], ['Family Events (15)', '614'], ['Festivals and Parades (11)', '615'], ['Fundraisers and Benefits (3)', '616'], ['Hawaiiana (19)', '617'], ['Land Sports (10)', '618'], ['Lectures and Workshops (3)', '619'], ['Musicals and Concerts (20)', '620'], ['Nightlife (16)', '621'], ['Ocean Sports (2)', '622'], ['Performing Arts/Theater (19)', '623'], ['Special Events (10)', '624']];
+        		} else if (island_id == '40'){
+        			return [['All Categories (80)', ''], ['Craft Fairs, Art Exhibits and Plant Shows (14)', '611'], ['Culinary Events (5)', '612'], ['Ethnic and Cultural (14)', '613'], ['Family Events (24)', '614'], ['Festivals and Parades (11)', '615'], ['Fundraisers and Benefits (9)', '616'], ['Hawaiiana (11)', '617'], ['Land Sports (22)', '618'], ['Lectures and Workshops (19)', '619'], ['Musicals and Concerts (16)', '620'], ['Ocean Sports (6)', '622'], ['Performing Arts/Theater (10)', '623'], ['Special Events (24)', '624']];
+				}
+				return null;
+		
+        }
+        
+
+</script>
 
 
 <link rel="stylesheet" type="text/css" href="/shared-style/calendar-win2k-cold-1.css">
@@ -231,7 +567,7 @@ preload('images/nav/Big_Island_s.gif');
      <tr valign="top">
       <td valign="top" bgcolor="#FFFFFF"><a name="content"></a>
           <!-- BEGIN PAGE BODY -->
-                    <div style="margin: 20px 0pt 0pt 20px" id="content"> <h1>Privacy Policy&nbsp;</h1>   <p>In order to serve you better, it is necessary for HVCB to collect certain information. The type of information that HVCB collects depends on what you do when you visit our website.</p>     <p>&nbsp;</p>   <h2>A. Information That You Provide to Us<br>   </h2>   <p>In order for us to create your personalized "My Hawaii" website and/or to send you a vacation planner in response to your "Info Request", you will need to provide us with some personal information about yourself. The information that we collect includes: (1) your name; (2) your postal address; (3) your telephone number; (4) your e-mail address; (5) how you heard about our website; (6) how many times you have visited Hawaii; (7) when you plan to visit Hawaii next; (8) your reason for visiting Hawaii; (9) the islands you plan to visit; (10) the activities that interest you; (11) your age; (12) who will be traveling with you; (13) whether you have made reservations for your trip to Hawaii; and (14) whether you would like to receive destination updates and information about Hawaii via e-mail.</p>     <p>&nbsp;</p>   <h2>B. Information That We Collect Automatically</h2>   <p>We also collect certain types of information automatically whenever you access and use our website. Some of this information is stored in cookies (see the next section for a discussion of cookies). Examples of the information we collect automatically include: (1) the Internet protocol (IP) address of the computer you are using; (2) the browser software you are using; (3) your operating system; (4) the date and time you access our website; and (5) the Internet address of the website from which you linked directly to our website.</p>     <p>&nbsp;</p>   <h2>C. Cookies</h2>   <p>Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser for record-keeping purposes. We use cookies to store some information that enables us to improve your experience at our website in a number of ways. Cookies also help us to learn about how and when people use our website so that we can determine which parts of our website are popular and which need to be modified to be more useful. Although cookies do identify a website user's computer, cookies alone cannot personally identify a user.</p>     <p><br>   Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.</p>     <p><br>   You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Please note, however, that many parts of our website will not function properly if you do not allow cookies.</p>     <p>&nbsp;</p>   <h2>D. Collection of Personal Information from Children</h2>   <p>HVCB believes that it is extremely important to protect children's personal information. As such, HVCB does not collect any personal information that can be identified with anyone under the age of 16. In fact, as discussed in our Terms and Conditions of Use, no one under the age of 16 is allowed to use any features of this website that result in our actively collecting personal information, such as the personalized "My Hawaii" website feature.</p>     <p>&nbsp;</p>   <h2>III. What Does HVCB Do with the Information It Collects?</h2>   <p>The primary reason why we collect information from you is to provide you with the services that you request and to enhance your experience at our website. Services such as the personalized "My Hawaii" website and the free mailing of the Islands of Aloha vacation planner would be impossible without the personal information that you provide to us. We also use the information we collect to make sure that our website provides you with the resources you need and the level of quality you expect. For example, information about the sections of the website that people visit most frequently and least frequently helps us to decides which features website users find useful and which features need some changes.</p>     <p><br>   In addition to our internal use of the information we collect, your personal information is used to help make sure that you receive all the information you need to make your stay in Hawaii as pleasant as possible. One way we do this is by using your e-mail address to send you periodic updates about Hawaii. We also sometimes share your name and postal address with companies that we believe you might be interested in hearing from. These companies might contact you directly to let you know about special deals and unique opportunities that could make your vacation in Hawaii more enjoyable.</p>     <p><br>   While we believe that the more information you have about Hawaii the more likely you are to enjoy your visit, we also understand that you value your privacy. If you would prefer that HVCB not e-mail you any periodic updates about Hawaii and/or not share any personally identifiable information about you with any third party, all you need to do is tell us. Just e-mail us at info@hvcb.org or telephone us at 808.923.1811 and let us know about your preference.</p>     <p><br>   Please be advised, however, that we reserve the right to disclose any personal information about you without your prior consent if we have a good faith belief that such disclosure is necessary to: (1) conform to legal requirements or comply with valid legal process, such as a search warrant, subpoena, or court order; (2) protect our rights or property; (3) enforce the provisions of the Terms and Conditions of Use; or (4) prevent harm to you or others.</p>     <p><br>   Also, HVCB sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.</p>     <p>&nbsp;</p>   <h2>IV. What Kind of Security Does HVCB Use to Protect Your Privacy?</h2>   <p>We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorized intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.</p>     <p>&nbsp;</p>   <h2>V. What Do You Need to Do to Protect Your Personal Information?</h2>   <p>You have several options when deciding how you can best protect your personal information. One option is simply not to volunteer any personal information. This approach would prevent you from taking advantage of several of our website's most useful features, such as the personalized "My Hawaii" website.</p>     <p><br>   Another option is to configure your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. However many parts of our website will not function properly if you do not allow cookies.</p>     <p><br>   The Federal Trade Commission's website also offers useful information about how to protect your personal information while on the Internet.</p>     <p>&nbsp;</p>   <h2>VI. How Can You Find Out What Personal Information Is on Record?</h2>   <p>We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.923.1811 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.</p>     <p>&nbsp;</p>   <h2>VII. How Can You Correct the Personal Information on Record with Us?</h2>   <p>We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us by telephone at 808.923.1811.</p>     <p>&nbsp;</p>   <h2>VIII. How Can You Get Additional Information About HVCB's Privacy Policy?</h2>   <p>For additional information about our Privacy Policy, please e-mail us your question or request at info@hvcb.org. You can also contact us by telephone at 808.923.1811 or by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.</p>     <p>&nbsp;</p>   <h2>IX. What Can You Do About Violations of This Privacy Policy?</h2>   <p>If at any time you believe HVCB has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted by e-mail at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.</p>     <p>&nbsp;</p>   <h2>X. Amendments to HVCB's Privacy Policy</h2>   <p>From time to time, it may be necessary for HVCB to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.</p><p>&nbsp;</p><p align="right">Background pattern provided by BarkclothHawaii.com&nbsp;</p>   </div>
+                    <div style="margin: 20px 0pt 0pt 20px" id="content"> <h1>Privacy Policy</h1><p>&nbsp;</p> <p>The Hawaii Visitors &amp; Convention Bureau ("HVCB") knows that you value your privacy. That's why we want to make certain that you understand our policies and practices regarding your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy. <br> <br> <b><span style="font-family: Arial">I. Who Does This Privacy Policy Apply To?</span></b><br> This Privacy Policy applies to the conduct of HVCB, and those independent contractors who operate portions of this website on HVCB's behalf, as their conduct relates to this website. When we use the terms website or this website, we mean those webpages and website described and defined in the Terms and Conditions of Use. <br> <br> This Privacy Policy does not apply to the practices of companies that HVCB does not own or control, or to people that HVCB does not employ or manage. Third party websites that you connect to through this website are not under HVCB's control and are subject to their own privacy policies rather than this Privacy Policy. For more information about linking to third party websites through this website, please see the Terms and Conditions of Use. <br> <br> <b style="font-family: Arial">II. What Information Does HVCB Collect?</b><br> In order to serve you better, it is necessary for HVCB to collect certain information. The type of information that HVCB collects depends on what you do when you visit our website.</p><p>&nbsp;</p><h2>A. Information That You Provide to Us<br></h2><p>In order for us to create your personalized "My Hawaii" website and/or to send you a vacation planner in response to your "Info Request", you will need to provide us with some personal information about yourself. The information that we collect includes: (1) your name; (2) your postal address; (3) your telephone number; (4) your e-mail address; (5) how you heard about our website; (6) how many times you have visited Hawaii; (7) when you plan to visit Hawaii next; (8) your reason for visiting Hawaii; (9) the islands you plan to visit; (10) the activities that interest you; (11) your age; (12) who will be traveling with you; (13) whether you have made reservations for your trip to Hawaii; and (14) whether you would like to receive destination updates and information about Hawaii via e-mail.</p><h2>&nbsp;</h2><h2>B. Information That We Collect Automatically</h2><p>We also collect certain types of information automatically whenever you access and use our website. Some of this information is stored in cookies (see the next section for a discussion of cookies). Examples of the information we collect automatically include: (1) the Internet protocol (IP) address of the computer you are using; (2) the browser software you are using; (3) your operating system; (4) the date and time you access our website; and (5) the Internet address of the website from which you linked directly to our website.</p><h2>&nbsp;</h2><h2>C. Cookies</h2><p>Cookies are pieces of information that we transfer to your computer's hard drive through your Web browser for record-keeping purposes. We use cookies to store some information that enables us to improve your experience at our website in a number of ways. Cookies also help us to learn about how and when people use our website so that we can determine which parts of our website are popular and which need to be modified to be more useful. Although cookies do identify a website user's computer, cookies alone cannot personally identify a user.</p>  <p>Your Web browser only allows us to access the cookies we have already sent to your computer, not the cookies that other websites have sent. We do not and cannot use cookies to retrieve any information from your computer that we did not put there in the first place.</p><p>You can adjust your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. Please note, however, that many parts of our website will not function properly if you do not allow cookies.</p><h2>&nbsp;</h2><h2>D. Action Tags </h2><p>Action tags, which are also known as Web beacons or pixel tags, are small invisible images that are placed in certain areas of our website.&nbsp; When an action tag is triggered by someone using our website, that information is logged in an external vendor system and is linked to that user’s anonymous cookie ID.&nbsp; We use action tags to gather information about our website and to improve our website so that it can better meet your needs.</p>  <h2>&nbsp;</h2><h2>E. Collection of Personal Information from Children</h2><p>HVCB believes that it is extremely important to protect children's personal information. As such, HVCB does not collect any personal information that can be identified with anyone under the age of 16. In fact, as discussed in our Terms and Conditions of Use, no one under the age of 16 is allowed to use any features of this website that result in our actively collecting personal information, such as the personalized "My Hawaii" website feature.</p><h2>&nbsp;</h2><h2>III. What Does HVCB Do with the Information It Collects?</h2><p>The primary reason why we collect information from you is to provide you with the services that you request and to enhance your experience at our website. Services such as the personalized "My Hawaii" website and the free mailing of the Islands of Aloha vacation planner would be impossible without the personal information that you provide to us. We also use the information we collect to make sure that our website provides you with the resources you need and the level of quality you expect. For example, information about the sections of the website that people visit most frequently and least frequently helps us to decide which features website users find useful and which features need some changes.</p>  <p>In addition to our internal use of the information we collect, your personal information is used to help make sure that you receive all the information you need to make your stay in Hawaii as pleasant as possible. One way we do this is by using your e-mail address to send you periodic updates about Hawaii. We also sometimes share your name and postal address with companies that we believe you might be interested in hearing from. These companies might contact you directly to let you know about special deals and unique opportunities that could make your vacation in Hawaii more enjoyable.</p> <p>While we believe that the more information you have about Hawaii the more likely you are to enjoy your visit, we also understand that you value your privacy. If you would prefer that HVCB not e-mail you any periodic updates about Hawaii and/or not share any personally identifiable information about you with any third party, all you need to do is tell us. Just e-mail us at info@hvcb.org or telephone us at 808.923.1811 and let us know about your preference.</p><p>Please be advised, however, that we reserve the right to disclose any personal information about you without your prior consent if we have a good faith belief that such disclosure is necessary to: (1) conform to legal requirements or comply with valid legal process, such as a search warrant, subpoena, or court order; (2) protect our rights or property; (3) enforce the provisions of the Terms and Conditions of Use; or (4) prevent harm to you or others.</p><p>HVCB sometimes shares with third parties certain nonpersonal, summary information about the people who use our website. This information is not personally identifiable in any way and consists of facts such as the average numbers of visitors to our website per day and the most popular sections of our website.&nbsp; Also, as discussed in more detail above, information resulting from action tags being triggered is logged in an external vendor system and is linked to that user’s anonymous cookie ID.&nbsp; None of this information is personally identifiable information.&nbsp;</p><h2>&nbsp;</h2><h2>IV. What Kind of Security Does HVCB Use to Protect Your Privacy?</h2><p>We know that when you provide us with any type of information, you're trusting us to keep it safe from unauthorized intrusion. We take all reasonable steps, through the use of updated security software and protocols, to ensure that your personal information is safe.</p><h2>&nbsp;</h2><h2>V. What Do You Need to Do to Protect Your Personal Information?</h2><p>You have several options when deciding how you can best protect your personal information. One option is simply not to volunteer any personal information. This approach would prevent you from taking advantage of several of our website's most useful features, such as the personalized "My Hawaii" website.</p> <p>Another option is to configure your Web browser to refuse all new cookies, to notify you whenever you are about to receive a new cookie, or to disable cookies completely. However many parts of our website will not function properly if you do not allow cookies.</p><p>The Federal Trade Commission's website also offers useful information about how to protect your personal information while on the Internet.</p>     <h2>&nbsp;</h2><h2>VI. How Can You Find Out What Personal Information Is on Record?</h2><p>We believe that it's important for you to be able to find out what personal information you have provided to us through our website. If you have completed an on-line Personal Information Form, you can contact us by telephone at 808.923.1811 and ask us what information we have on record about you. If you haven't completed an on-line Personal Information Form, then we don't have any personally identifiable information about you.</p><h2>&nbsp;</h2><h2>VII. How Can You Correct the Personal Information on Record with Us?</h2><p>We know that you want the information we have on record about you to be as complete and accurate as possible. We feel the same way, since maintaining accurate information is essential to our efforts to give you the best possible experience when you visit our website. That's why we encourage you to correct any information that might be outdated or otherwise invalid. It's easy to make changes. Simply contact us by telephone at 808.923.1811</p><h2>&nbsp;</h2><h2>VIII. How Can You Get Additional Information About HVCB's Privacy Policy?</h2><p>For additional information about our Privacy Policy, please e-mail us your question or request at info@hvcb.org. You can also contact us by telephone at 808.923.1811 or by postal mail at 2270 Kalakaua Avenue, #801, Honolulu, Hawaii, USA 96815.</p><h2>&nbsp;</h2><h2>IX. What Can You Do About Violations of This Privacy Policy?</h2><p>If at any time you believe HVCB has not adhered to the principles set forth in this Privacy Policy, please notify us and we will make all commercially reasonable efforts to promptly correct the problem. We can be contacted by e-mail at info@hvcb.org, by telephone at 808.923.1811, and by postal mail at 2270 Kalakaua Avenue, #801, Honolulu,  Hawaii, USA 96815.</p><h2>&nbsp;</h2><h2>X. Amendments to HVCB's Privacy Policy</h2><p>From time to time, it may be necessary for HVCB to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.</p><p>&nbsp;</p><p>&nbsp;</p><p align="right">Background pattern provided by BarkclothHawaii.com&nbsp;</p>   </div>
           <!-- END PAGE BODY -->
       </td>
      </tr>
@@ -249,8 +585,9 @@ preload('images/nav/Big_Island_s.gif');
        
   
 
+
 <div id="search-multisearch_widget">
-<span id="cat_525" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_530" style="display:none;visibility:hidden" sub_name="Luaus" sub_id="530"></span><span id="subcat_531" style="display:none;visibility:hidden" sub_name="Nightlife" sub_id="531"></span><span id="subcat_532" style="display:none;visibility:hidden" sub_name="Plantations, Farms and Gardens" sub_id="532"></span><span id="subcat_533" style="display:none;visibility:hidden" sub_name="Sky Adventures" sub_id="533"></span><span id="subcat_535" style="display:none;visibility:hidden" sub_name="Water Adventures" sub_id="535"></span><span id="subcat_528" style="display:none;visibility:hidden" sub_name="Directories &amp; Guides" sub_id="528"></span><span id="subcat_1154" style="display:none;visibility:hidden" sub_name="Activity Booking &amp; Concierge Services" sub_id="1154"></span><span id="subcat_527" style="display:none;visibility:hidden" sub_name="Culture and the Arts" sub_id="527"></span><span id="subcat_534" style="display:none;visibility:hidden" sub_name="Wellness &amp; Rejuvenation" sub_id="534"></span><span id="subcat_526" style="display:none;visibility:hidden" sub_name="Attractions" sub_id="526"></span><span id="subcat_529" style="display:none;visibility:hidden" sub_name="Land Adventures" sub_id="529"></span></span><span id="cat_536" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_537" style="display:none;visibility:hidden" sub_name="American" sub_id="537"></span><span id="subcat_538" style="display:none;visibility:hidden" sub_name="Bars &amp; Lounges" sub_id="538"></span><span id="subcat_539" style="display:none;visibility:hidden" sub_name="Chinese" sub_id="539"></span><span id="subcat_540" style="display:none;visibility:hidden" sub_name="Continental" sub_id="540"></span><span id="subcat_541" style="display:none;visibility:hidden" sub_name="Dinner Show/Cruise" sub_id="541"></span><span id="subcat_543" style="display:none;visibility:hidden" sub_name="Euro-Asian" sub_id="543"></span><span id="subcat_544" style="display:none;visibility:hidden" sub_name="French" sub_id="544"></span><span id="subcat_545" style="display:none;visibility:hidden" sub_name="Hawaii Regional" sub_id="545"></span><span id="subcat_546" style="display:none;visibility:hidden" sub_name="Hawaiian" sub_id="546"></span><span id="subcat_547" style="display:none;visibility:hidden" sub_name="Health" sub_id="547"></span><span id="subcat_548" style="display:none;visibility:hidden" sub_name="Ice Cream/Yogurt" sub_id="548"></span><span id="subcat_549" style="display:none;visibility:hidden" sub_name="Italian" sub_id="549"></span><span id="subcat_550" style="display:none;visibility:hidden" sub_name="Japanese" sub_id="550"></span><span id="subcat_551" style="display:none;visibility:hidden" sub_name="Korean" sub_id="551"></span><span id="subcat_552" style="display:none;visibility:hidden" sub_name="Luaus" sub_id="552"></span><span id="subcat_553" style="display:none;visibility:hidden" sub_name="Mediterranean" sub_id="553"></span><span id="subcat_554" style="display:none;visibility:hidden" sub_name="Mexican" sub_id="554"></span><span id="subcat_555" style="display:none;visibility:hidden" sub_name="Pacific Rim" sub_id="555"></span><span id="subcat_556" style="display:none;visibility:hidden" sub_name="Pizza" sub_id="556"></span><span id="subcat_557" style="display:none;visibility:hidden" sub_name="Seafood" sub_id="557"></span><span id="subcat_558" style="display:none;visibility:hidden" sub_name="Steak" sub_id="558"></span><span id="subcat_559" style="display:none;visibility:hidden" sub_name="Thai" sub_id="559"></span><span id="subcat_560" style="display:none;visibility:hidden" sub_name="Vegetarian" sub_id="560"></span><span id="subcat_561" style="display:none;visibility:hidden" sub_name="Vietnamese" sub_id="561"></span><span id="subcat_542" style="display:none;visibility:hidden" sub_name="Directories &amp; Guides" sub_id="542"></span><span id="subcat_1223" style="display:none;visibility:hidden" sub_name="Carribbean" sub_id="1223"></span></span><span id="cat_610" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_611" style="display:none;visibility:hidden" sub_name="Craft Fairs, Art Exhibits and Plant Shows" sub_id="611"></span><span id="subcat_612" style="display:none;visibility:hidden" sub_name="Culinary Events" sub_id="612"></span><span id="subcat_613" style="display:none;visibility:hidden" sub_name="Ethnic and Cultural" sub_id="613"></span><span id="subcat_614" style="display:none;visibility:hidden" sub_name="Family Events" sub_id="614"></span><span id="subcat_615" style="display:none;visibility:hidden" sub_name="Festivals and Parades" sub_id="615"></span><span id="subcat_616" style="display:none;visibility:hidden" sub_name="Fundraisers and Benefits" sub_id="616"></span><span id="subcat_617" style="display:none;visibility:hidden" sub_name="Hawaiiana" sub_id="617"></span><span id="subcat_618" style="display:none;visibility:hidden" sub_name="Land Sports" sub_id="618"></span><span id="subcat_619" style="display:none;visibility:hidden" sub_name="Lectures and Workshops" sub_id="619"></span><span id="subcat_620" style="display:none;visibility:hidden" sub_name="Musicals and Concerts" sub_id="620"></span><span id="subcat_621" style="display:none;visibility:hidden" sub_name="Nightlife" sub_id="621"></span><span id="subcat_622" style="display:none;visibility:hidden" sub_name="Ocean Sports" sub_id="622"></span><span id="subcat_623" style="display:none;visibility:hidden" sub_name="Performing Arts/Theater" sub_id="623"></span><span id="subcat_624" style="display:none;visibility:hidden" sub_name="Special Events" sub_id="624"></span></span><span id="cat_562" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_563" style="display:none;visibility:hidden" sub_name="Directories and Guides" sub_id="563"></span><span id="subcat_565" style="display:none;visibility:hidden" sub_name="Products and Services" sub_id="565"></span><span id="subcat_564" style="display:none;visibility:hidden" sub_name="Golf Courses" sub_id="564"></span></span><span id="cat_566" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_567" style="display:none;visibility:hidden" sub_name="Business and Financial Services" sub_id="567"></span><span id="subcat_569" style="display:none;visibility:hidden" sub_name="Educational Programs and Institutions" sub_id="569"></span><span id="subcat_570" style="display:none;visibility:hidden" sub_name="Medical Services and Facilities" sub_id="570"></span><span id="subcat_571" style="display:none;visibility:hidden" sub_name="Real Estate" sub_id="571"></span><span id="subcat_572" style="display:none;visibility:hidden" sub_name="Special Needs Travel Services and Information" sub_id="572"></span><span id="subcat_573" style="display:none;visibility:hidden" sub_name="Visitor Information and Guides" sub_id="573"></span><span id="subcat_568" style="display:none;visibility:hidden" sub_name="Children and Families" sub_id="568"></span><span id="subcat_1157" style="display:none;visibility:hidden" sub_name="Photographers &amp; Videographers" sub_id="1157"></span><span id="subcat_1220" style="display:none;visibility:hidden" sub_name="Meetings/Convention Services" sub_id="1220"></span></span><span id="cat_574" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_577" style="display:none;visibility:hidden" sub_name="Hawaiian Products and Apparel" sub_id="577"></span><span id="subcat_578" style="display:none;visibility:hidden" sub_name="Online Shopping" sub_id="578"></span><span id="subcat_575" style="display:none;visibility:hidden" sub_name="Directories and Guides" sub_id="575"></span><span id="subcat_576" style="display:none;visibility:hidden" sub_name="Duty Free" sub_id="576"></span><span id="subcat_579" style="display:none;visibility:hidden" sub_name="Retail Stores, Shops and Boutiques" sub_id="579"></span><span id="subcat_580" style="display:none;visibility:hidden" sub_name="Shopping Centers, Malls and Outlets" sub_id="580"></span></span><span id="cat_581" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_583" style="display:none;visibility:hidden" sub_name="Buses and Shuttles" sub_id="583"></span><span id="subcat_586" style="display:none;visibility:hidden" sub_name="Ocean Transportation" sub_id="586"></span><span id="subcat_584" style="display:none;visibility:hidden" sub_name="Cars, Motorcycles and Mopeds" sub_id="584"></span><span id="subcat_585" style="display:none;visibility:hidden" sub_name="Limousines and Taxis" sub_id="585"></span><span id="subcat_587" style="display:none;visibility:hidden" sub_name="Transportation for Special Needs Travelers" sub_id="587"></span><span id="subcat_582" style="display:none;visibility:hidden" sub_name="Airlines" sub_id="582"></span></span><span id="cat_588" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_591" style="display:none;visibility:hidden" sub_name="Vacation Packages and Tours" sub_id="591"></span><span id="subcat_589" style="display:none;visibility:hidden" sub_name="Directories and Guides" sub_id="589"></span><span id="subcat_590" style="display:none;visibility:hidden" sub_name="Travel Agents and Internet Travel Services" sub_id="590"></span></span><span id="cat_592" style="display:none;"><span id="subcat_" style="display:none;visibility:hidden" sub_name="" sub_id=""></span><span id="subcat_593" style="display:none;visibility:hidden" sub_name="Caterers, Facilities and Venues" sub_id="593"></span><span id="subcat_594" style="display:none;visibility:hidden" sub_name="Directories and Guides" sub_id="594"></span><span id="subcat_595" style="display:none;visibility:hidden" sub_name="Florists and Formal Wear" sub_id="595"></span><span id="subcat_597" style="display:none;visibility:hidden" sub_name="Transportation and Limousines" sub_id="597"></span><span id="subcat_598" style="display:none;visibility:hidden" sub_name="Wedding Services Providers and Officiants" sub_id="598"></span><span id="subcat_596" style="display:none;visibility:hidden" sub_name="Photographers and Videographers" sub_id="596"></span></span>
+
 <table width="165" border="0" cellpadding="0" cellspacing="0" id="search-multisearch_table">
   <tbody><tr id="search-multisearch_table-top">
     <td valign="top">
@@ -268,7 +605,7 @@ preload('images/nav/Big_Island_s.gif');
           <form name="frm_multi_search_what_to_do" action="http://www.gohawaii.com/vacationsearch" method="GET" onsubmit="search_multisearch_submitForm(document.frm_multi_search_what_to_do)">
             <input type="hidden" name="types" value="listings,events">
             <input type="hidden" name="current_section" value="what_to_do">
-            
+
             <div id="search-multisearch_what_to_do">
             <table border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
@@ -280,8 +617,15 @@ preload('images/nav/Big_Island_s.gif');
                 <td>ISLAND</td>
               </tr>
               <tr class="field">
-                <td><select name="location" id="location">
-<option value="">All Islands</option>
+                <td><select name="location" id="whattodo_location" onchange="
+                    	current_cat = document.getElementById('what_to_do_cat').value;
+                    	current_subcat = document.getElementById('search-multisearch-sub_categories_what_to_do').value;
+                    	onWhatToDoIslandChange(this);
+                    	SetSelected('what_to_do_cat', current_cat);
+                    	onWhatToDoCategoryChange(document.getElementById('what_to_do_cat'));
+                    	SetSelected('search-multisearch-sub_categories_what_to_do', current_subcat);
+                    ">
+<option value="0">All Islands</option>
 <option value="44">Kauai</option>
 <option value="41">Oahu</option>
 <option value="42">Molokai</option>
@@ -289,27 +633,40 @@ preload('images/nav/Big_Island_s.gif');
 <option value="38">Maui</option>
 <option value="40">Hawaii's Big Island</option>
 </select>
-</td>
+
+                </td>
               </tr>
 
               <tr class="field">
-                <td>CATEGORY</td>
+                <td class="update_cat">CATEGORY</td>
               </tr>
               <tr class="field">
                 <td>
-                   <select name="category" onchange="buildSubCategoryList(this,'search-multisearch-sub_categories_what_to_do')">
-<option value=""></option>
-<option value="525">Activities</option>
-<option value="536">Dining</option>
-<option value="610">Events</option>
-<option value="562">Golf</option>
-<option value="566">Services</option>
-<option value="574">Shopping</option>
-<option value="581">Transportation</option>
-<option value="588">Travel Professionals</option>
-<option value="592">Weddings &amp; Honeymoons</option>
+                   <!--<select name="category"  onChange="buildSubCategoryList(this,'search-multisearch-sub_categories_what_to_do')">
+<option value="0" >Array</option>
+<option value="1" >Array</option>
+<option value="2" >Array</option>
+<option value="3" >Array</option>
+<option value="4" >Array</option>
+<option value="5" >Array</option>
+<option value="6" >Array</option>
+<option value="7" >Array</option>
+<option value="8" >Array</option>
+<option value="9" >Array</option>
 </select>
-
+-->
+                    <select name="category" id="what_to_do_cat" onchange="onWhatToDoCategoryChange(this);">
+                                            <option value="" selected="selected">All Categories (2215)</option>
+                                            <option value="525">Activities (395)</option>
+                                            <option value="536">Dining (241)</option>
+                                            <option value="610">Events (391)</option>
+                                            <option value="562">Golf (43)</option>
+                                            <option value="566">Services (242)</option>
+                                            <option value="574">Shopping (128)</option>
+                                            <option value="581">Transportation (46)</option>
+                                            <option value="588">Travel Professionals (153)</option>
+                                            <option value="592">Weddings &amp; Honeymoons (116)</option>
+                                        </select>
                  </td>
               </tr>
 
@@ -319,9 +676,8 @@ preload('images/nav/Big_Island_s.gif');
               <tr class="field">
                 <td>
                   <select name="subcategory" id="search-multisearch-sub_categories_what_to_do">
-<option value="">- Select a Category -</option>
-</select>
-
+                                            <option value="" selected="selected">- Select a Category - </option>
+                                      </select>
                 </td>
               </tr>
             <!--
@@ -331,7 +687,7 @@ preload('images/nav/Big_Island_s.gif');
                     KEYWORDS
                 </td>
               </tr>
-              
+
               <tr class="field">
                 <td><input type="text" name="q" value="optional" onfocus="if (this.value == 'optional') this.value = '';" onkeypress="return search_multisearch_keypress(this.form, event);" /></td>
               </tr>
@@ -346,7 +702,7 @@ preload('images/nav/Big_Island_s.gif');
           <form name="frm_multi_search_where_to_stay" action="http://www.gohawaii.com/vacationsearch" method="GET" onsubmit="search_multisearch_submitForm(document.frm_multi_search_where_to_stay)">
             <input type="hidden" name="types" value="accommodations">
             <input type="hidden" name="current_section" value="where_to_stay">
-            
+
             <div id="search-multisearch_where_to_stay" style="display: none">
             <table border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
@@ -358,8 +714,12 @@ preload('images/nav/Big_Island_s.gif');
                 <td>ISLAND</td>
               </tr>
               <tr class="field">
-                <td><select name="location" id="location">
-<option value="">All Islands</option>
+                <td><select name="location" id="wheretostay_location" onchange="
+                	current_cat = document.getElementById('where_to_stay_cat').value;
+                	onWhereToStayIslandChange(this);
+                	SetSelected('where_to_stay_cat', current_cat);
+                ">
+<option value="0">All Islands</option>
 <option value="44">Kauai</option>
 <option value="41">Oahu</option>
 <option value="42">Molokai</option>
@@ -371,24 +731,24 @@ preload('images/nav/Big_Island_s.gif');
               </tr>
 
               <tr class="field">
-                <td>CATEGORY</td>
+                <td class="update_cat">CATEGORY</td>
               </tr>
               <tr class="field">
                 <td>
-                   <select name="category">
-<option value="">All Accommodations</option>
-<option value="600">Bed &amp; Breakfasts/Inn</option>
-<option value="601">Camping &amp; RVs</option>
-<option value="602">Condominiums</option>
-<option value="603">Cruise Ships</option>
-<option value="604">Directories &amp; Guides</option>
-<option value="605">Hostels</option>
-<option value="606">Hotels &amp; Resorts</option>
-<option value="1153">Reservations &amp; Booking Services</option>
-<option value="607">Retreats and Camps</option>
-<option value="608">Vacation Ownerships</option>
-<option value="609">Vacation Rentals, Homes and Cottages</option>
-</select>
+                    <select name="category" id="where_to_stay_cat">
+                                            <option value="" selected="selected">All Accommodations (515)</option>
+                                            <option value="600">Bed &amp; Breakfasts/Inn (75)</option>
+                                            <option value="601">Camping &amp; RVs (2)</option>
+                                            <option value="602">Condominiums (182)</option>
+                                            <option value="604">Directories &amp; Guides (9)</option>
+                                            <option value="605">Hostels (4)</option>
+                                            <option value="606">Hotels &amp; Resorts (126)</option>
+                                            <option value="1153">Reservations &amp; Booking Services (89)</option>
+                                            <option value="607">Retreats and Camps (1)</option>
+                                            <option value="608">Vacation Ownerships (4)</option>
+                                            <option value="609">Vacation Rentals, Homes and Cottages (136)</option>
+                                        </select>
+
 
                  </td>
               </tr>
@@ -399,7 +759,7 @@ preload('images/nav/Big_Island_s.gif');
                     KEYWORDS
                 </td>
               </tr>
-              
+
               <tr class="field">
                 <td><input type="text" name="q" value="optional" onfocus="if (this.value == 'optional') this.value = '';" onkeypress="return search_multisearch_keypress(this.form, event);" /></td>
               </tr>
@@ -415,7 +775,7 @@ preload('images/nav/Big_Island_s.gif');
             <input type="hidden" name="types" value="events">
             <input type="hidden" name="sort" value="date">
             <input type="hidden" name="current_section" value="events">
-            
+
             <div id="search-multisearch_events" style="display: none">
             <table border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
@@ -427,8 +787,12 @@ preload('images/nav/Big_Island_s.gif');
                 <td>ISLAND</td>
               </tr>
               <tr class="field">
-                <td><select name="location" id="location">
-<option value="">All Islands</option>
+                <td><select name="location" id="events_location" onchange="  
+                	current_cat = document.getElementById('events_cat').value;
+                	onEventIslandChange(this);
+                	SetSelected('events_cat', current_cat);
+                ">
+<option value="0">All Islands</option>
 <option value="44">Kauai</option>
 <option value="41">Oahu</option>
 <option value="42">Molokai</option>
@@ -440,28 +804,46 @@ preload('images/nav/Big_Island_s.gif');
               </tr>
 
               <tr class="field">
-                <td>CATEGORY</td>
+                <td class="update_cat">CATEGORY</td>
               </tr>
               <tr class="field">
                 <td>
-                   <select name="category">
-<option value="">All Events</option>
-<option value="611">Craft Fairs, Art Exhibits and Plant Shows</option>
-<option value="612">Culinary Events</option>
-<option value="613">Ethnic and Cultural</option>
-<option value="614">Family Events</option>
-<option value="615">Festivals and Parades</option>
-<option value="616">Fundraisers and Benefits</option>
-<option value="617">Hawaiiana</option>
-<option value="618">Land Sports</option>
-<option value="619">Lectures and Workshops</option>
-<option value="620">Musicals and Concerts</option>
-<option value="621">Nightlife</option>
-<option value="622">Ocean Sports</option>
-<option value="623">Performing Arts/Theater</option>
-<option value="624">Special Events</option>
+                   <!--<select name="category" >
+<option value="0" >Array</option>
+<option value="1" >Array</option>
+<option value="2" >Array</option>
+<option value="3" >Array</option>
+<option value="4" >Array</option>
+<option value="5" >Array</option>
+<option value="6" >Array</option>
+<option value="7" >Array</option>
+<option value="8" >Array</option>
+<option value="9" >Array</option>
+<option value="10" >Array</option>
+<option value="11" >Array</option>
+<option value="12" >Array</option>
+<option value="13" >Array</option>
+<option value="14" >Array</option>
 </select>
-
+-->
+                    <select name="category" id="events_cat">
+                                            <option value="" selected="selected">All Categories (391)</option>
+                                            <option value="611">Craft Fairs, Art Exhibits and Plant Shows (95)</option>
+                                            <option value="612">Culinary Events (35)</option>
+                                            <option value="613">Ethnic and Cultural (126)</option>
+                                            <option value="614">Family Events (172)</option>
+                                            <option value="615">Festivals and Parades (104)</option>
+                                            <option value="616">Fundraisers and Benefits (76)</option>
+                                            <option value="617">Hawaiiana (102)</option>
+                                            <option value="618">Land Sports (56)</option>
+                                            <option value="619">Lectures and Workshops (84)</option>
+                                            <option value="620">Musicals and Concerts (99)</option>
+                                            <option value="621">Nightlife (31)</option>
+                                            <option value="622">Ocean Sports (35)</option>
+                                            <option value="623">Performing Arts/Theater (96)</option>
+                                            <option value="624">Special Events (130)</option>
+                    
+                    </select>
                  </td>
               </tr>
 
@@ -513,7 +895,7 @@ preload('images/nav/Big_Island_s.gif');
                     KEYWORDS
                 </td>
               </tr>
-             
+
               <tr class="field">
                 <td><input type="text" name="q" value="optional" onfocus="if (this.value == 'optional') this.value = '';" onkeypress="return search_multisearch_keypress(this.form, event);" /></td>
               </tr>
@@ -546,6 +928,7 @@ preload('images/nav/Big_Island_s.gif');
 </map>
 
 <script language="javascript">search_multisearch_selectTab('what_to_do');</script>
+
 </div>
 <!-- re-render to bust the cache -->
 <script language="JavaScript" type="text/javascript">
@@ -637,7 +1020,7 @@ preload('images/nav/Big_Island_s.gif');
 <div id="footer">
     <span id="lg"><a href="http://www.businessaloha.com/">MEETINGS &amp; CONVENTIONS</a> | <a href="http://hawaii.travelagentportal.net/login.aspx">TRAVEL TRADE</a> | <a href="http://www.hvcb.org/media/index.htm">MEDIA COMMUNICATIONS</a></span><br>
     <a href="http://www.gohawaii.com/about_hawaii/Privacy_Policy">PRIVACY POLICY</a> | <a href="http://www.gohawaii.com/about_hawaii/Terms_and_Conditions">TERMS &amp; CONDITIONS</a> | <a href="http://www.hvcb.org/">CORPORATE INFORMATION</a> | <a href="http://www.gohawaii.com/about_hawaii/Contact_Us">CONTACT US</a> | 1-800-GOHAWAII<br>
-    <strong>©2007 HAWAII VISITORS AND CONVENTION BUREAU</strong>
+    <strong>©2009 HAWAII VISITORS AND CONVENTION BUREAU</strong>
 </div>
 </div>
 
@@ -669,6 +1052,53 @@ preload('images/nav/Big_Island_s.gif');
 <script type="text/javascript">
   progressbar_default = createProgressBar(200, 15, 'white', 1, 'black', 'blue', 100, 5, 999, '', '1');
   </script>
+
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="about_hawaii: Hawaiis Official Tourism Site -- Travel info for your Hawaii vacation"
+s.server=""
+s.channel="about_hawaii"
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://ffhgohawaiidev.112.2O7.net/b/ss/ffhgohawaiidev/1/H.17--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5833010-1");
+pageTracker._trackPageview();
+</script>
+
 
 <!-- START OF SDC Advanced Tracking Code -->
 <!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
