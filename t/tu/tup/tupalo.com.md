@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217093345id_/http%3A//tupalo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105145id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Tupalo - Stuff In Your Neighborhood
 
@@ -80,4 +80,4 @@ By using Tupalo, you signify your agreement to the terms of this privacy policy 
 
 If you have any questions or concerns regarding this privacy policy you are welcome to contact us by emailing: [feedback@tupalo.com](mailto:%66%65%65%64%62%61%63%6b@%74%75%70%61%6c%6f.%63%6f%6d?subject=%5BTupalo%20Privacy%5D)
 
-#### Copyright © 2006-2008 Tupalo.com OG
+#### Copyright © 2006-2000 Tupalo.com
