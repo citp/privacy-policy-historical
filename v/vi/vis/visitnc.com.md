@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612151435id_/http%3A//www.visitnc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212751id_/http%3A//www.visitnc.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for VisitNC.com
-
-### Privacy Policy 
+# Explore North Carolina
 
 The North Carolina Division of Tourism, Film and Sports Development is committed to protecting your privacy on this Web site.
 
-We collect personal information from our visitors on a voluntary basis only. Personal information may include name, address, phone number, email address and other relevant data. We do not require this personal information to obtain access to most of our site. 
+We collect personal information from our visitors on a voluntary basis only. Personal information may include name, address, phone number, email address and other relevant data. We do not require this personal information to obtain access to most of our site.
 
 We do, however, require it in order to properly respond or to fulfill requests for the following:
 
-  * Brochures or other mailed information 
+  * Brochures or other mailed information
   * Email newsletters
-  * Sweepstakes entries 
+  * Sweepstakes entries
   * Saving personalized Trip Planner itineraries and folders
   * Sharing your opinions through surveys
   * Using Contact Us for correspondence
@@ -30,7 +28,7 @@ If you provided us with personal information through this web site, you have the
 
 ### What Information Do We Collect?
 
-Our web servers collect the domain names, but not the e-mail addresses, of visitors to our website. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, and other relevant statistics. 
+Our web servers collect the domain names, but not the e-mail addresses, of visitors to our website. This information is aggregated to measure number of visits, average time spent on the site, pages viewed, and other relevant statistics.
 
 We collect the following information:
 
@@ -55,14 +53,14 @@ If you want to control which cookies you accept, you can configure your browser 
 
 ### Disclaimer
 
-The North Carolina Division of Tourism, Film & Sports Development has compiled content and information contained in this site based on data provided by local tourism partners and business entities. While every effort is made to ensure the accuracy of this information, the North Carolina Division of Tourism, Film & Sports Development makes no representations, guarantees or warranties as to the accuracy, completeness or suitability of the information provided on this web site. All data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain the most current information before traveling. 
+The North Carolina Division of Tourism, Film & Sports Development has compiled content and information contained in this site based on data provided by local tourism partners and business entities. While every effort is made to ensure the accuracy of this information, the North Carolina Division of Tourism, Film & Sports Development makes no representations, guarantees or warranties as to the accuracy, completeness or suitability of the information provided on this web site. All data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain the most current information before traveling.
 
 The VisitNC.com website contains links to other sites and we attempt to only link to sites that share our high standards and respect for privacy. Links to third-party websites are provided as a convenience for our site visitors and do not constitute endorsement or control of their content.
 
 ### Copyright
 
-© 2007 + North Carolina Department of Commerce, Division of Tourism, Film and Sports Development.
+© 2009 North Carolina Department of Commerce, Division of Tourism, Film and Sports Development.
 
 ### Contact Information
 
-Additional questions or concerns about these policies should be directed to: [Contact Us at VisitNC.com](https://web.archive.org/contact_us.asp)
+Additional questions or concerns about these policies should be directed to the [contact page at VisitNC.com](https://web.archive.org/contactus)
