@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012000id_/http%3A//www.cars.com/go/about/privacy.jsp%3Faff%3Dnational) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627181019id_/http%3A//www.cars.com/go/about/privacy.jsp) for the most accurate reproduction.*
 
 # Cars.com: Privacy Statement
 
@@ -119,4 +119,4 @@ If you would like more information about the information collection practices of
 
 If you have any questions about this Privacy Statement, please email us at [feedback@cars.com](mailto:feedback@cars.com?subject=\[about\]%20Privacy%20Statement) or use our [online feedback form](https://web.archive.org/go/about/us.jsp?section=H&content=cont&aff=national).
 
-©2008 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
+©2009 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
