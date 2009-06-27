@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163919id_/http%3A//www.supercounters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110004id_/http%3A//www.supercounters.com/privacy.php) for the most accurate reproduction.*
 
 # SuperCounters - Fastest and most reliable free hit counter
 
