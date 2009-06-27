@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the vureel.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216035541id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vureel.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627113418id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>VuReel</title>
+<title>VuReel HD Videos</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="movies">
 <meta name="keywords" content="movies">
@@ -13,6 +13,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 newest videos" href="rss/new/">
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 most viewed videos" href="rss/views/">
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 most commented videos" href="rss/comments/">
+
 <!--!!!!!!!!!!!!!!!!!!!!!!!! LIBRARY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <script type="text/javascript">
 var baseurl = 'http://www.vureel.com/';
@@ -26,6 +27,22 @@ var imgurl = 'http://www.vureel.com/images';
 <script language="JavaScript" src="http://www.vureel.com/js/myjavascriptajax.js" type="text/javascript"></script>
 <script language="JavaScript" src="http://www.vureel.com/js/myjavascript.js" type="text/javascript"></script>
 
+<script language="javascript" type="text/javascript">
+function showusermenu() {
+document.getElementById('usermenu').style.display = 'block'
+}
+function hideusermenu() {
+document.getElementById('usermenu').style.display = 'none'
+}
+function showlogin() {
+document.getElementById('showlogin').style.display = 'block'
+}
+function hidelogin() {
+document.getElementById('showlogin').style.display = 'none'
+}
+
+</script> 
+
 <!--<link href="http://www.vureel.com/css/tpl_style.css" rel="stylesheet" type="text/css" />-->
 <link rel="stylesheet" type="text/css" href="http://v2.vureel.com/css/css.css">
 <link rel="stylesheet" type="text/css" href="http://v2.vureel.com/css/style.css">
@@ -37,52 +54,60 @@ var imgurl = 'http://www.vureel.com/images';
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 </head><body>
 <div id="topheader">
-
     <div id="userlinks">
     
     
         <a href="http://www.vureel.com/signup">Sign Up</a> | 
-    <a href="http://www.vureel.com/login">Login</a> | 
+    <a href="#" onclick="showlogin();">Login</a> | 
     <a href="http://www.vureel.com/help">Help</a>
-        </div>                                                                                
+        <div id="showlogin" style="position: absolute;display: none;border: 1px solid #333;top: 29px;right: 0px;width: 240px;background-color: #000; z-index: 2;">
+    <a href="#" onclick="hidelogin();">(X) Close</a>
+                <form id="loginForm" name="loginForm" method="post" action="http://www.vureel.com/login">
+                  <p>
+                    <label for="name">Username:</label>
+                    <br>
+                    <input type="text" name="username" size="22" tabindex="3" id="name" class="s6-input-box">
+                    <br>
+                    <label for="password">Password:</label>
+                    <br>
+                    <input name="password" type="password" class="s6-input-box" id="password" tabindex="4" size="22">
+                    <br>
+                    <a href="http://www.vureel.com/recoverpassword" title="Forgot!">Forgot your password?</a><br>
+                    <input type="hidden" name="action_login" value="Log In">
+                    <input type="submit" tabindex="5" class="s6-button" value="Log in">
+                  </p>
+                </form>
+    </div>
+    </div>                                                                                
        
-    <a href="http://www.vureel.com"><img src="http://creatr.cc/creatr/logo/VuReel.png?1221860801" alt="VuReel" id="title"></a>
+    <a href="http://www.vureel.com"><img src="http://static.vureel.com/images/toplogo.png" alt="VuReel" id="title"></a>
     <a href="http://www.vureel.com" class="m">Home</a>
     <a href="http://www.vureel.com/videos" class="m">Videos</a>
     <a href="http://www.vureel.com/categories" class="m">Channels</a>
     <a href="http://www.vureel.com/forum" class="m">Forum</a>
     <a href="http://www.vureel.com/upload" class="m yellow">Upload</a>
+     <a href="http://www.vureel.com/premium.php" class="m yellow"><img src="http://static.vureel.com/images/premium.png">Premium<img src="http://static.vureel.com/images/premium.png"></a>           
 </div>
 <div id="containersearch">
 <div id="search">
-  <form action="http://www.vureel.com/search/" method="get" name="searchForm" id="searchForm">
+  <form action="http://www.vureel.com/search/detailed" method="get" name="searchForm" id="searchForm">
     <p>
-      <input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="text">
+      <input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="s6-input-box">
       <select name="search_type" class="select_back_white" tabindex="2">
                 <option value="search_videos">Search Videos</option>
                         <option value="search_users">Search Users</option>
                         <option value="search_groups">Search Groups</option>
               </select>
-      <input type="image" src="http://www.vureel.com/images/search.gif" tabindex="3" class="button">
+      <input type="image" src="http://www.vureel.com/images/search.png" tabindex="3" border="no" class="button">
     </p>
   </form>
    <div id="clear"></div>
 </div>
 </div>
 <center>
+</center>
 
-<!-- BEGIN RICH-MEDIA Burst Direct CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad18271a.cgi/v=2.3S/sz=468x60A|728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad18271a.cgi/v=2.3S/sz=468x60A|728x90A/84149/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad18271a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad18271a.cgi/ns/v=2.3S/sz=468x60A|728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Direct CODE -->
-
-</center><table width="100%" height="300" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><div id="content">
+<table width="100%" height="300" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><div id="content">
 <h1>VuReel.com's Privacy Policy</h1>
 <p>This document outlines exactly what you are permitted and not permitted to do as an user of VuReel. Note that by visiting Vureel, you are an user of Vureel and these rules apply to you. Using this site simply means visiting it, or downloading it.</p>    
         <h2>Your Privacy is Important</h2>
@@ -131,20 +156,33 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad18271a.cgi/
                     <a href="http://www.vureel.com/advertise">Advertise</a> |
                     <a href="http://www.vureel.com/terms">Terms of Use</a> |
                     <a href="http://www.vureel.com/privacy">Privacy Policy</a> |
-                    <a href="http://www.vureel.com/rss"><img src="http://www.vureel.com/images/rss.gif" align="absmiddle" border="0"></a> | 2076 Online Visitors
+                    <a href="http://www.vureel.com/rss"><img src="http://www.vureel.com/images/rss.gif" align="absmiddle" border="0"></a> RSS Feeds
                 
                 <p>Copyright © 2006-2008 <a href="http://www.vureel.com">VuReel</a>. All rights reserved. 
-                Powered By <a href="http://www.NiteMedia.com">NiteMedia S.A.</a></p>   </div>
+                VuReel.Com - Managua, Nicaragua</p> <br>
+
+</div>
 <div id="hrm" style="display:none">
 <center><a href="http://whos.amung.us/show/5svwt2bq">
 <img src="http://whos.amung.us/widget/5svwt2bq.png" alt="website counter" width="81" height="29" border="0"></a></center>
-</div>
+</div>         
+
     </div>
+
+<script type="text/javascript" src="http://widgets.amung.us/pro.js"></script>
+<script type="text/javascript" id="wau_scr_546c8a26">
+    wau_add('o07i', '546c8a26')
+</script>
+<noscript>
+    <img src="http://whos.amung.us/piwidget/o07i/" />
+</noscript>
+<script type="text/javascript" src="http://widgets.amung.us/pro.js"></script>
+<script type="text/javascript" id="wau_scr_546c8a26">
+    wau_add('o07i', '546c8a26')
+</script>
+<noscript>
+    <img src="http://whos.amung.us/piwidget/o07i/" />
+</noscript> 
 </div>
-
-
-
-
-
 
 </body></html>
