@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askamum.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220053633id_/http%3A//www.askamum.co.uk/GLOBAL/Help/Privacy-policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askamum.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627210958id_/http%3A//www.askamum.co.uk/GLOBAL/Help/Privacy-policy/) for the most accurate reproduction.*
 
-# Privacy policy - Pregnancy & Birth and Mother & Baby | askamum - NOT FOR COMMERCIAL USE
+# Privacy policy - Pregnancy & Birth and Mother & Baby | askamum
 
 ****Privacy policy****
 
