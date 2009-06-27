@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021012id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627052228id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
 
 # MYFREEPAYSITE.COM - PRIVACY POLICY
 
@@ -60,6 +60,10 @@ We use only session ID cookies which make it easier for you to navigate our site
 If you reject cookies, you may still use our site, but you may have to re-enter your username and password more often and you may experience some other unexpected browsing inconveniences. 
 
 Advertisers or other companies do not have access to MyFreePaysite.com's cookies.
+
+**Third Party Cookies**
+
+The use of cookies by our partners, affiliates, tracking utility companies, service providers is not covered by our privacy statement.  We do not have access or control over these cookies. Our partners, affiliates, tracking utility companies, service providers use session ID cookies to make it easier for you to navigate our site.
 
 **Your Ability to Access, Edit and Delete Your Personal Information and E-mail Address**
 
