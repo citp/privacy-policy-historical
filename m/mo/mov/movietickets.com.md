@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015147id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627052626id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
 
 # MovieTickets.com. For the online purchase of movie tickets. Privacy Policy.
 
