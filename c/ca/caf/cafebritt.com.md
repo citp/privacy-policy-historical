@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914060528id_/http%3A//www.cafebritt.com/AboutUs/index.cfm%3Fview%3D5780%26LangID%3D1%26CFID%3D9167645%26CFTOKEN%3D74009933) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafebritt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627092514id_/http%3A//www.cafebritt.com/privacy-policy/index.cfm%3FLangID%3D1%26CFID%3D157519%26CFTOKEN%3D31115501) for the most accurate reproduction.*
 
-# Gourmet Coffee Beans Costa Rica Coffee - Cafe Britt
-
-|   | 
-
-Privacy policy
+# Privacy policy
 
 At Cafe Britt we are committed to respecting your privacy and recognizing your need for appropriate protection and management of personal information you share with us. We do not sell, trade, or rent your personal information to others. We use the information we collect to process orders and to provide a more personalized shopping experience. 
 
 **Collecting information**  
 You can visit us without telling us who you are or revealing any personal information about yourself. We may track the IP of people who visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
 
-There may be times (such as when you purchase or order a product, subscribe to a service, or participate in contests, sweepstakes or promotions, etc.) at which we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address and credit card information. We also maintain a record of your product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, we may not be able to process your order or provide the services required. Cookies  
-Our web site uses "cookies." A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size and analyze your visiting patterns, in order to enhance your shopping experience.
+There may be times (such as when you purchase or order a product, subscribe to a service, or participate in contests, sweepstakes or promotions, etc.) at which we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address and credit card information. We also maintain a record of your product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, we may not be able to process your order or provide the services required. 
 
- **Using information**  
-We use the personal information you provide for internal purposes only, to process and fulfill your order, to notify you of your order status, to fulfill or respond to your request, to inform you of new products, services and offers, to provide you with information about Cafe Britt, to shape our recommendations about coffee or related items that might be of interest to you, and to analyze trends and statistics that will help us develop the design and layout of the website that will make your shopping experience a convenient and useful one. 
+**Cookies**  
+Our web site uses "cookies." A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, advertise and communicate diverse Café Britt promotions throughout the Internet, learn about your interaction with our products and services, estimate our audience size and analyze your visiting patterns, in order to enhance your shopping experience. No Personally Identifiable Information about your visits to our Website is collected during this process. However, if you do not wish to share this anonymous information you can opt-out by disabling or not allowing cookies in your browser.
+
+**Using information**  
+We use the personal information you provide for internal purposes only, to process and fulfill your order, to notify you of your order status, to fulfill or respond to your request, to inform you of new products, services and offers, to provide you with information about Cafe Britt and advertise diverse Café Britt promotions through the internet, to shape our recommendations about coffee or related items that might be of interest to you, and to analyze trends and statistics that will help us develop the design and layout of the website that will make your shopping experience a convenient and useful one. 
 
  Persons who provide us with their telephone numbers will only be contacted regarding orders or general Customer Service Purposes.
 
