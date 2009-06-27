@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220000800id_/http%3A//www.lacartes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205057id_/http%3A//lacartes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ::..Welcome to LaCartes.com..::
 
-|  |  |   
----  
-   
-  
 **Privacy Policy**
 
 This online privacy policy tells you about the information LaCartes.com collects through our website(s), [www.LaCartes.com](http://www.lacartes.com/) (the "Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us
@@ -29,7 +25,7 @@ A Special Note About Children. Children are not eligible to use our service and 
 
 **General Information Collection and Use  
 **  
-LaCartes.com is the sole owner of the information collected on the Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy, without first obtaining your consent. Generally, we request this information when registering visitors to the Website, when visitors to the Website and/or registered users request a particular service, or when website visitors enter a sweepstakes or contest. This information collected is used to register the user for the selected service and to contact the user about such service (e.g. email address). Information required to be submitted to become a registered user includes name, gender, year of birth, email address and postcode. In addition to the foregoing, for purposes of allowing targeted marketing to such individuals, applicable restaurant owners are provided with access to the gender, age and partial postcode information for each review or suggestion for their restaurant once such item has been purchased. Certain of our clients have the ability to sign up to receive emails from LaCartes.com, however no such emails will be sent to a client unless such client has requested to receive it.
+LaCartes.com is the sole owner of the information collected on the Website. We will not sell, share or rent this information to others in ways different from what is disclosed in this policy, without first obtaining your consent. Generally, we request this information when registering visitors to the Website, when visitors to the Website and/or registered users request a particular service, or when website visitors enter a sweepstakes or contest. This information collected is used to register the user for the selected service and to contact the user about such service (e.g. email address). Certain of our clients have the ability to sign up to receive emails from LaCartes.com, however no such emails will be sent to a client unless such client has requested to receive it.
 
 Some of our services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us to provide these services to you, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
@@ -72,7 +68,7 @@ This Website may contain links to other websites. Please be aware that we are no
 **  
 From time-to-time our Website may request information from users via surveys (e.g. within the Survey section of the Website). Participation in these surveys, to the extent we run any, is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic information (such as zip code and age level). **Security  
 **  
-This Website takes numerous precautions to protect our users' information. When users submit sensitive information via the Website (e.g. [credit card information]), such information is protected both on- and offline. **[We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that our visitors' information is safe as it is sent over the Internet to our server. SSL works by using a private key to encrypt data that is transferred over the SSL connection]**. In addition, all of our users' sensitive information is restricted in our offices. While LaCartes.com employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot absolutely guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information.
+While LaCartes.com employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot absolutely guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information.
 
   
 **Correction/Updating Personal Information  
@@ -82,6 +78,4 @@ If your personally identifiable information changes at any time, please send us 
 Our users are given the opportunity to "opt-out" of receiving communications from LaCartes.com by sending us an email. **Notification of Changes  
 **  
 If we decide to change our privacy policy, we will post those changes under the appropriate link on the "home page" of our Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. The new terms shall be effective immediately upon being posted on the Website. It is the responsibility of each user to review the latest terms from time to time, and if any user does not agree with any updates to the privacy policy, such user should immediately cease use of the Website and any purchased services.  
-back to top  
-  
-  |  
+
