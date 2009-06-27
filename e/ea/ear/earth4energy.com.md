@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the earth4energy.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231004958id_/http%3A//www.earth4energy.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth4energy.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627080234id_/http%3A//www.earth4energy.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Earth4Energy.com - Create electricity at home - renewable energy. Make a windmill and solar power system
+# Earth4Energy Privacy Policy
 
-• This website does not gather any personal information from you what-so-ever. Your privacy is important to us and if you choose to contact us your name or email address will not be made public in any way. 
+**Privacy Policy for www.earth4energy.com**
 
-• I collect no further information on visitors to Earth4Energy.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@earth4energy.com. 
 
-• Cookies are used to record shopping cart information.
+At www.earth4energy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.earth4energy.com and how it is used. 
 
-• Payments are done using Clickbank - Clickbank is a trusted online retailer specializing in digitally delivered products. 
+**Log Files**  
+Like many other Web sites, www.earth4energy.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-• Any information such as your name and email will not be sold, exchanged, transferred or givin to any company or individual for any reason what so ever.
+**Cookies and Web Beacons**   
+www.earth4energy.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-• If you feel this website does not comply with ths above policy or if you have any questions you can contact me via: admin AT earth4energy DOT com.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Clickbank, . 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.earth4energy.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.earth4energy.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.earth4energy.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
