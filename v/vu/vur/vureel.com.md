@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035541id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627113418id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
 
-# VuReel
+# VuReel HD Videos
 
 This document outlines exactly what you are permitted and not permitted to do as an user of VuReel. Note that by visiting Vureel, you are an user of Vureel and these rules apply to you. Using this site simply means visiting it, or downloading it.
 
