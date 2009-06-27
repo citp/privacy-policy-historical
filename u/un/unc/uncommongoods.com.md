@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154447id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105049id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # UncommonGoods | Help
 
@@ -15,12 +15,12 @@
 **How is my privacy protected?**  
 [**How do I submit work for sale?**](https://web.archive.org/help/help.jsp?topic=submit_work)  
 [**How do I become an affiliate?**](https://web.archive.org/affiliates/affiliates.jsp)  
-[**How do I view a press kit?**](https://web.archive.org/about/press.jsp)  
 [**What is Better to Give?**](https://web.archive.org/about/better.jsp)  
 [**Is my personal information stored? How do I modify that information?**](https://web.archive.org/help/help.jsp?topic=modify)  
 [**What navigational information is collected and how is it used?**](https://web.archive.org/help/help.jsp?topic=collect)  
 [**Do you have any retail locations?**](https://web.archive.org/help/help.jsp?topic=store)  
 [**Uncommon Giveaway Rules**](https://web.archive.org/help/help.jsp?topic=giveaway)  
+[**Product Recall**](https://web.archive.org/help/help.jsp?topic=recall)  
   |  **Privacy protection**  
 UncommonGoods respects and is committed to protecting your privacy. This privacy protection section communicates how, when, and why we gather information about our customers and what we do with it. 
 
@@ -56,7 +56,7 @@ If you decide you no longer wish to receive communications from us, you can opt 
 At the bottom of every e-mail we send out is a line that reads: If you prefer not to receive e-mails from us, please e-mail us at [remove@uncommongoods.com.](mailto:remove@uncommongoods.com) Clicking on the link displays a mail form that has 'please remove' in the subject line. If you hit the send button, your name will be automatically removed from our e-mail list. 
   * **Calling customer service**
   
-If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 24 hours a day, 7 days a week. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
+If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 8 AM to 1 AM EST Mon-Fri and 9 AM to midnight EST Sat-Sun. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
   * **Sending a note to:**  
 UncommonGoods  
 Customer Service  
