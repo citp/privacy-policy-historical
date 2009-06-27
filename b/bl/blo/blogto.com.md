@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609020855id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627133414id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.*
 
 # blogTO | Privacy
 
@@ -8,7 +8,7 @@ blogTO will not give out your information to any third parties. Period.
 
 ### Otherwise, Read the blogTO Privacy Statement 
 
-This statement covers the site www.blogto.com (“blogTO”). Please read this statement carefully. Your use of blogTO indicates your agreement to abide by the Terms in effect. 
+This statement covers the site www.blogto.com (�blogTO�). Please read this statement carefully. Your use of blogTO indicates your agreement to abide by the Terms in effect. 
 
 ### Information Collection 
 
