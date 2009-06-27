@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsenseaddict.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227064453id_/http%3A//adsenseaddict.com/privacy-policy%23comment-319) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsenseaddict.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203200id_/http%3A//adsenseaddict.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adsense Addict
 
@@ -8,7 +8,7 @@ Log Files
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 Newsletter  
-If a user wishes to subscribe to our newsletter (powered by Zookoda), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
+If a user wishes to subscribe to our newsletter (powered by FeedBurner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
 Cookies  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
@@ -19,6 +19,10 @@ This Web site contains links to other sites. Please be aware that we are not res
 Advertisers  
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies.
 
+Google Adsense
+
+We use cookies on this website. We use Google, as a third party advertising company to serve ads when you visit our website. Google a DoubleClick DART cookie to serve ads to you based on visit to this sites and other sites on the Internet. If you would like more information about this practice and to know your choices about not having this information used by these Google, click here.
+
 Contact Information  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: adsenseaddict[at]yahoo[dot]com
 
@@ -28,4 +32,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
   
 If you're new here, you may want to subscribe to my [RSS feed](http://adsenseaddict.com/feed/). Thanks for visiting!
 
-[ ](http://www.moreinfo247.com/10401214/NOC)
+[](http://www.thewidgeteers.com/?VIP=3597)
