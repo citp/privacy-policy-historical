@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/privacy.html) for the most accurate reproduction.*
 
 # Macworld | Macworld
 
@@ -10,7 +10,7 @@ We reevaluate this policy on an ongoing basis, and we value your feedback. If yo
 >  Mac Publishing LLC  
 >  501 Second Street  
 >  San Francisco, CA 94107  
->  e-mail: [sitehelp@macworld.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
+>  e-mail: [sitehelp@macworld.com](https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
@@ -82,7 +82,7 @@ You may have the opportunity to provide us with your mobile phone number, whethe
 
 Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote Macworld and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for Macworld and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.
 
-In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to [sitehelp@macworld.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
+In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to [sitehelp@macworld.com](https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/sitehelp@macworld.com)
 
 If Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
 
@@ -143,11 +143,11 @@ Macworld is part of the IDG Publishing Network, a group of Web sites for the IDG
 
 #### IDG Publishing Network Privacy Policy
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20081224014805id_/http%3A//www.macworld.com/info/http;//www.idg.com).
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on [www.idg.com](https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/http;//www.idg.com).
 
-About the IDG Publishing Network
+#### About the IDG Publishing Network
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including Macworld, Macworld, Computerworld, InfoWorld, CIO, CSO, Darwin, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, maccentral.com, javaworld.com, playlistmag.com, cio.com, csoonline.com, computerworld.com, darwinmag.com, infoworld.com, and networkworld.com. A complete listing is available at www.idg.com.
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including PC World, Macworld, Computerworld, CIO, CSO, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, javaworld.com, cio.com, csoonline.com, computerworld.com, infoworld.com, and networkworld.com. A complete listing is available at [www.idg.com](https://web.archive.org/web/20090627224226id_/http%3A//www.macworld.com/info/http;//www.idg.com).
 
 To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time.
 
@@ -155,6 +155,6 @@ You can opt out of receiving further e-mail by clicking the appropriate links th
 
 The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
 
-If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to [IDGNetwork@idg.com](mailto:IDGNetwork@idg.com) or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at IDG Publishing Network, C/O Customer Service, TSG, IDG Communications, Inc., 5 Speen St., Framingham, MA 01701.
 
-Last updated: June 18, 2008.
+Last updated: March 4, 2009.
