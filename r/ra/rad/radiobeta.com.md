@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiobeta.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050127id_/http%3A//www.radiobeta.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiobeta.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627202346id_/http%3A//www.radiobeta.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
