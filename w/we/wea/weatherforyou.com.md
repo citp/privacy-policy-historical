@@ -1,141 +1,72 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218184850id_/http%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627035200id_/http%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
-## About Us
+**What information do we collect?**
 
-This is a privacy policy for Weather for You. Our homepage on the Web is located at [http://www.weatherforyou.com](http://www.weatherforyou.com/). The full text of our privacy policy is available on the Web at <http://www.weatherforyou.com/privacy.shtm>
+We collect information from you when you fill out a form. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    weatherforyou.com LLC
-    P.O. Box 2361
-    Grants Pass, OR 97528-0207 
-    USA
-    
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 541-787-7677. 
+ **What do we use your information for?**
 
-## Dispute Resolution and Privacy Seals
+Any of the information we collect from you may be used in one of the following ways: 
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  * **Dispute** : You can contact weatherforyou.com directly at the above address to resolve any disputes regarding the privacy policy. 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+ **Do we use cookies?**
 
+Yes.  Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-## Additional Information
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-This policy is valid for 1 day from the time that it is loaded by a client. 
+ **Do we disclose any information to outside parties?**
 
-## Data Collection
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately. 
+ **Third party links**
 
-* * *
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### Group "Basic information"
+ **California Online Privacy Protection Act Compliance**
 
-We collect the following information: 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+ **Childrens Online Privacy Protection Act Compliance**
 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not knowingly collect personally identifiable information from children under the age of 13 and believe that children should get their parents' or guardians' consent before giving out any personally identifiable information. 
 
+Our Web site may contain links to third party Web sites geared to children. The linked sites are not under the control of WeatherForYou.com. We are not responsible for the contents of any linked site or any link contained in a linked site, nor are we responsible for the privacy practices of the operators of those sites with respect to children. We strongly encourage parents and guardians to review the Privacy Policies of all linked sites. 
 
-This data will be used for the following purposes:
+**Online Privacy Policy Only**
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+ **Terms and Conditions**
 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.weatherforyou.com/termsandconditions.php>
 
-This data will be used by ourselves and our agents. 
+**Your Consent**
 
-The following explanation is provided for why this data is collected:
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+ **Changes to our Privacy Policy**
 
-* * *
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-### Group "Cookies"
+This policy was last modified on May 21, 2009
 
-At the user's option, we will collect the following data: 
+ **Contacting Us**
 
-  * HTTP cookies
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-
-
-This data will be used for the following purposes:
-
-  * Other purposes
-
-Enable visitors to set personal page options to customize information displayed by default
-
-The user must **opt-in** to this usage.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * Other (Enable visitors to set personal page options to customize information displayed by default) 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="NOI DSP COR CURa ADMa DEVa OTPi OUR IND COM NAV INT PRE"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`NOI` |  No identifiable information is collected, so no access is possible.   
-`DSP` |  The policy contains at least one dispute-resolution mechanism.   
-`COR` |  Violations of this policy will be corrected.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`OTPi` |  The data is used for other purposes, if the user selects it.   
-`OUR` |  The data is given to ourselves and our agents.   
-`IND` |  The data will be kept indefinitely.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`PRE` |  Preference information is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+WeatherForYou.com LLC  
+1867 Williams Hwy Suite 216  
+Grants Pass, OR 97527  
+USA  
+support@weatherforyou.com  
+541-244-2616
