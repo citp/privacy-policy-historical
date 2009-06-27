@@ -1,39 +1,63 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218155557id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627202532id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
-Last Updated: 2006.11.01  
+Last Updated: 2009.05.18  
 [to Japanese page](https://web.archive.org/jp/privacy/)
 
-FAST RETAILING CO., LTD. (the "Company") is acutely aware of the importance of personal information protection. We strive to protect the privacy of our customers through a strict adherence to all laws and regulations relating to the protection of personal information including "The Act on the Protection of Personal Information", and appropriate management of personal customer information.
+FAST RETAILING CO., LTD. (the Company) is acutely aware of the importance of personal information protection. We strive to protect the privacy of our customers through the appropriate management of personal customer information, and a strict adherence to "The Act on the Protection of Personal Information" and our own privacy policy. 
 
-  1. ### Definition of personal information
+  1. ### The definition of personal information
 
 Personal information is information that can be used to identify any one customer such as his/her name, address, telephone number, etc. This also includes information that can be used to distinguish a person by combining it with other information and matching it to an individual.
 
-  2. ### The acquisition and use of personal information
+  2. ### The acquisition of personal information
 
-Personal information acquired from customers with their consent is managed appropriately by the Company and is used only within the purpose of the usage such as responding to customer questions, and providing services from the Company.
+On asking customers to provide personal information, the Company will always inform the customer of the specific purpose for which any personal information is to be used and, in addition, will also inform the customer of any third party with which the personal information may also be shared. Personal information will only be acquired from the customer upon agreement and understanding of the above criteria. 
 
-  3. ### The management of personal information
+  3. ### The use of personal information
 
-The Company undertakes to manage appropriately all personal information gathered from customers. The Company strives to prevent any information leaks, loss or incorrect recording of content. The Company entrusts the handling and management of personal information acquired from customers to UNIQLO CO., LTD. Please [click here to view UNIQLO CO., LTD.'s privacy policy](http://www.uniqlo.com/jp/privacypolicy/).
+The Company uses customers’ personal information for the following purposes:  
+(1)    To respond to customer queries  
+(2)    To provide the Company’s products and services  
+(3)    To inform about details regarding products and services  
+(4)    To improve product development and other services  
+(5)    To share with third parties under the conditions outlined in item 4.  
+In the event that the Company is required to use personal information for any other purpose other than those listed above, the Company will first obtain the agreement of the customer before any such usage is sanctioned. 
 
-  4. ### Sharing with third parties
+  4. ### Sharing personal information with third parties
 
-The Company does sometimes share personal information with the Company's group companies, franchise stores and department stores if deemed necessary to achieve the required aims such as appropriate responses to customer enquiries and provision of the Company's services. If the Company does entrust personal information to a third party, the Company shall carefully select which third party that information is to be divulged to, and aim to prevent any leakage, loss or falsification of such information.
+With the exception of the two circumstances listed below, the Company will not disclose personal information to a third party without the customer’s consent.  
+(1)    If required by law  
+(2)    In case any part of operation dealing with personal information acquisition being  
+        sub-contracted to a third party (including group companies).  
+In any such instance, the Company would take extreme care in selecting the party to which information was to be provided or transferred, and would enter into a binding contract with such party regarding the appropriate handling of personal information. The Company would aim to prevent the leakage, loss or falsification of personal information and would commit to supervise or instruct the new party as deemed necessary.
 
-  5. ### The Company's group company education and management system
+  5. ### The management of personal information
 
-The Company 's commitment to comply with all the laws and regulation relating to the protection of personal information including the "Act on the Protection of the Personal Information" is shared not just by the Company but by the Company's group companies, franchise stores and department stores, etc. We conduct appropriate checks to ensure that these companies are handling and managing personal customer information correctly, and the Company directs these companies on the thorough protection of personal information.
+The Company undertakes to manage appropriately all personal information gathered from customers. The Company strives to prevent any information leakage, loss or incorrect recording of content. In its effort to prevent unlawful access, the leakage, loss or falsification of personal information, the Company undertakes to install a personal information management body to maintain and improve management systems and organization structure. The Company also undertakes to maintain an information security system to ensure the safety of personal information. 
 
-  6. ### Where to direct your questions
+  6. ### The Company’s group company education and management system
 
-Please send an email to the contact address for online questions on this Company's website.
+The Company has compiled and established guidelines regarding the handling of personal information and these guidelines are consistently implemented through personnel training.
 
-  7. ### The use of cookies
+  7. ### Customer enquiries regarding personal information
 
-The technology to record and manage the activities of visitors to a website onto computer (hard drive) is called Cookies. By using cookies, you can simplify the processes required for services that you use frequently.
+The Company will respond swiftly to customer requests regarding the disclosure, amendment or cessation of usage of personal information. However, the Company will insist on confirming the customer’s identity through appropriate means in order to prevent any leakage of information through an unauthorized demand for disclosure. 
+
+**Customer Enquiries Desk**  
+You can also contact us via email to the contact address for any questions on this Company's website.
+
+  8. ### Revisions
+
+The Company reserves the right to revise the above policy at any time without notice.
+
+  9. ### The use of cookies
+
+The technology to record and manage the activities of visitors to a website onto computer (hard drive) is called Cookies.  
+Some pages on the Company’s website use cookies in order to make it easier for customers to use the website. If the settings determining the use of cookies are changed on the browser to prevent cookie usage, then the customer may not be able to access some or all of the services such as online product purchases, etc. The Company does use cookies for independent investigation of customer website usage with the aim of improving the website itself. 
 
 
 
+
+[Top of page](https://web.archive.org/eng/privacy/#pagetop)
