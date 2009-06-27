@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226035850id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203538id_/http%3A//nitrc.org/include/privacy.php) for the most accurate reproduction.*
 
 # NITRC: Privacy
 
@@ -8,7 +8,7 @@ Of the information we learn about you from your visit to "nitrc.org," we store o
 
 When inquiries are emailed to us, we store the question and the email address information so that we can respond electronically. Unless otherwise required by statute, we do not identify publicly who sends questions or comments to our Web site. We will not obtain information that will allow us to personally identify you when you visit our site, unless you chose to provide such information to us. 
 
-## About "Cookies"
+#### About "Cookies"
 
 While visiting www.nitrc.org, you may occasionally encounter a Web page that employs "cookies." A cookie is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected. 
 
