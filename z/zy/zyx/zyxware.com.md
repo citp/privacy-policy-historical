@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zyxware.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218213410id_/http%3A//www.zyxware.com/articles/2008/04/08/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyxware.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627150748id_/http%3A//www.zyxware.com/articles/2008/04/08/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Zyxware Technologies
-
-[](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.zyxware.com%2Farticles%2F2008%2F04%2F08%2Four-privacy-policy&title=Our+Privacy+Policy)
 
 Privacy Policy for Zyxware.com
 
