@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the muslimvideo.com privacy policy that was archived on 2008-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081223112409id_/http%3A//www.muslimvideo.com/tv/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muslimvideo.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627104510id_/http%3A//www.muslimvideo.com/tv/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -12,7 +12,7 @@
 <meta name="revisit-after" content="1 day">
 <meta name="googlebot" content="index,follow,noarchive">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
-<meta name="robots" content="index,follow,noarchive">
+<meta name="robots" content="index,follow">
 <meta name="document-classification" content="Commercial">
 <meta name="document-rating" content="Safe for Kids">
 <meta name="document-distribution" content="Global">
@@ -93,8 +93,10 @@
         var menu6=new Array()
 		menu6[0]='<a href="http://www.muslimvideo.com/tv">Muslim Video</a>'
 		menu6[1]='<a href="http://www.muslimvideo.com/live/">Live TV</a>'
-		menu6[2]='<a href="http://www.muslimvideo.com/tv/quran.php">Quran Search</a>'
+		menu6[2]='<a href="http://www.muslimvideo.com/tv/quran.php">Quran Explorer</a>'
 		menu6[3]='<a href="http://www.muslimvideo.com/tv/mohammad.php">The Prophet</a>'
+		menu6[4]='<a href="http://games.muslimvideo.com">Games Section</a>'
+		
 		
 		
 
@@ -241,6 +243,8 @@
 
 	<link href="http://www.muslimvideo.com/tv/css/style.css" rel="stylesheet" type="text/css">
 	
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	
 
 <!-- Ajax box-->
 	<style type="text/css" media="all">@import "http://www.muslimvideo.com/tv/ajax-box/ajaxbox.css";</style>
@@ -268,28 +272,65 @@
 -->
 
 	</script>
+	
+	
+	
+		<!-- Start google translatiration -->
+	<script type="text/javascript">
+      // Load the Google Transliteration API
+      google.load("elements", "1", {
+          packages: "transliteration"
+      });
+      function onLoad() {
+        var options = {
+          sourceLanguage: 'en', // or google.elements.transliteration.LanguageCode.ENGLISH,
+          destinationLanguage: ['ar'], // or [google.elements.transliteration.LanguageCode.ARABIC],
+          shortcutKey: 'ctrl+g',
+          transliterationEnabled: false
+        };
+        // Create an instance on TransliterationControl with the required
+        // options.
+        var control =
+            new google.elements.transliteration.TransliterationControl(options);
+ 
+        // Enable transliteration in the textfields with the given ids.
+        var ids = ["transl1"];
+        control.makeTransliteratable(ids);
+ 
+        // Show the transliteration control which can be used to toggle between
+        // English and Arabic.
+        control.showControl('translControl');
+      }
+      google.setOnLoadCallback(onLoad);
+    </script>
+	
+	<!-- End google translatiration -->
+	
 
 
 
 
 
-<form name="headform" action="http://www.muslimvideo.com/tv/index.php" method="post">
 
+
+
+
+<center>
 
    
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 	<td align="center">
 		
-
-
 <div id="mv_shell">
-<div id="mv_head"><div><div>
+<div id="mv_head">
+   <div> 
+      <div>
 
 <table>
 	<tbody><tr>
 		<td id="mv_logo"><!-- logo -->
-			<a title="Muslim Video" href="http://muslimvideo.com"><img border="0" src="http://www.muslimvideo.com/tv/images/logo.jpg" alt="Muslim Video Logo"> </a>
+			<a title="Muslim Video" href="http://www.muslimvideo.com"><img border="0" src="http://www.muslimvideo.com/tv/images/logo.jpg" alt="Muslim Video Logo"> </a>
 		</td>
 		<td><!-- search -->
 			<table>
@@ -300,14 +341,14 @@
 						<a href="http://www.muslimvideo.com/">Home</a> | 
 						<a href="http://tv.muslimvideo.com/">  Videos </a> | 
 						<a href="http://live.muslimvideo.com/">Live TV</a> | 
-						<a href="http://www.muslimvideo.com/resume/">Resume</a> | 
+						<a href="http://www.muslimvideo.com/resume/">My Resume</a> | 
 						<a href="http://www.muslimvideo.com/classified.html">Classifieds</a> | 
-						<a href="http://www.muslimvideo.com/games/">Games</a> |
-						Free SMS |
+						<a href="http://games.muslimvideo.com/">Games</a> |
+						Mobile |
 						<a href="http://www.muslimvideo.com/top/">Top Sites</a> |
-						<a href="http://www.muslimvideo.com/tv/quran.php">Quran Search</a>    |  
+						<a href="http://www.muslimvideo.com/tv/quran.php">Quran Explorer</a>    |  
 						<a href="http://www.muslimvideo.com/tv/mohammad.php">The Prophet</a> |
-						 <a onclick="return showmore()">More &gt;&gt;</a>
+						<a onclick="return showmore()">More</a>
 						 </span>
 						
 					</td>
@@ -315,36 +356,14 @@
 				
 				<tr>
 					
-					<td align="center" width="465">
+					<td align="center" width="475">
 					
 					
-					
- <!-- <a title="Learn about Prophet Muhammad Peace Be Upon Him in many languages" href="http://www.muslimvideo.com/tv/mohammad.php"><img border="0" src="http://www.muslimvideo.com/tv/banners/prophet.gif"></a>
-                     <a title="Watch more than 70 Islamic Channels and Radio stations" href="http://live.muslimvideo.com"><img border="0" src="http://www.muslimvideo.com/tv/banners/live-tv.gif"></a> -->
- 						<!-- <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="342" height="118">
-                        <param name="movie" value="http://www.muslimvideo.com/tv/banners/eid-banner.swf" />
-                        <param name=quality value=high />
-						<param name="wmode" value="transparent"/>
-						<param name="bgcolor" value="#ffffff" />
-                        <embed src="http://www.muslimvideo.com/tv/banners/eid-banner.swf" wmode="transparent" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="342" height="118"></embed>
-                         </object> -->
-						 
-					<!-- <script type="text/javascript" src="http://www.muslimvideo.com/tv/js/swfobject.js"></script>
-						 <p align="center" id="player6"><a href="http://www.macromedia.com/go/getflashplayer">&nbsp;<img src="http://www.muslimvideo.com/tv/images/upgrade_flash_player.gif"><br>Get the Flash Player</a> to see this video.</p>
-						 <script type="text/javascript">
-	var s2 = new SWFObject("http://www.muslimvideo.com/tv/banners/eid-banner.swf","mymovie","300","85","1");
-	s2.addParam("allowfullscreen","true");
-	s2.addParam("wmode","transparent");
-	s2.addVariable("id","VideoPlayback");
-	s2.addVariable("playerId","gvuniqueid");
-	s2.addVariable("playerMode","normal");
-	s2.addVariable("salign","TL");
-	s2.addVariable("scale","noScale");
-	s2.write("player6");
-                              </script> -->	
+					<a href="http://games.muslimvideo.com" title="Free Online Games"><img src="http://games.muslimvideo.com/banners/game-banner.gif" alt="Free Islamic online Game" border="0"></a>
+ 	
 							  
 						
-										</td>
+					</td>
 										
 					<td width="150" align="right" valign="bottom" style="padding-right:5px ">
 						Navigate with:
@@ -356,7 +375,9 @@
 </tr>
 </tbody></table>
 
-</div></div></div>
+       </div>
+     </div>
+ </div>
 </div>
 		<!-- second part-->
 <table class="navbar_fill" align="center" cellpadding="0" cellspacing="0" width="918">
@@ -399,17 +420,17 @@
 </tr>
 
 </tbody></table>	
-<center>
 
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
 
   <tbody><tr>
 
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td><table width="900" border="0" cellspacing="0" cellpadding="0">
 
      <tbody><tr>
 
-        <td><table width="778" border="0" cellspacing="0" cellpadding="0">
+        <td><table width="900" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
 
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -425,26 +446,12 @@
                       <tbody><tr>
 
 
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-
+                        <td>
+						
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
-                          <td style="padding-top:15px " valign="top">
-						 
-
-                                 
-
-
-
-
-
-
-                                
-                                 <table cellspacing="0" cellpadding="0" border="0">
-
-
-
-   </table></td>
+                          <td style="padding-top:15px " valign="top"> <table cellspacing="0" cellpadding="0" border="0">
+						  </table></td>
                           </tr>
 
 
@@ -454,15 +461,6 @@
 
 
     </table>
-
-
-
-
-
-
-
-
-
 
 </td>
 
@@ -479,11 +477,6 @@
 </table>
 
 
-
-
-
-
-
 </td>
 
 
@@ -496,11 +489,8 @@
 
 
 
-<td align="center">
-
-
-
-<table width="750" border="0" cellspacing="1" cellpadding="0">
+<td align="center" width="900px">
+<table width="750px" border="0" cellspacing="1" cellpadding="0">
 
 
 
@@ -508,12 +498,12 @@
 
 
 
-<td width="118" height="26" background="http://www.muslimvideo.com/tv/images/home.jpg"> <span class="navigation_bold"><a href="http://www.muslimvideo.com/tv/index.php" onmouseover="return dropdownmenu(this, event, menu6, '100px')" onmouseout="delayhidemenu()">Home </a></span></td>
+<td width="118" height="26" background="http://www.muslimvideo.com/tv/images/home.jpg"> <span class="navigation_bold"><a href="http://www.muslimvideo.com/tv/index.php" onmouseover="return dropdownmenu(this, event, menu6, '120px')" onmouseout="delayhidemenu()">Home </a></span></td>
 
     <td width="4" height="26"></td>
 
 	
-    <td width="118" background="http://www.muslimvideo.com/tv/images/newvideo.jpg" class="navigation_bold"><a href="http://www.muslimvideo.com/tv/video.php?next=watch" onmouseover="return dropdownmenu(this, event, menu4, '140px')" onmouseout="delayhidemenu()">  Videos </a></td>
+<td width="118" background="http://www.muslimvideo.com/tv/images/newvideo.jpg" class="navigation_bold"><a href="http://www.muslimvideo.com/tv/video.php?next=watch" onmouseover="return dropdownmenu(this, event, menu4, '140px')" onmouseout="delayhidemenu()">  Videos </a></td>
 
  <td width="4" height="26"></td>
 
@@ -537,7 +527,8 @@
 
 
 
-</tbody></table></td>
+</tbody></table>
+</td>
 
 
 
@@ -545,7 +536,10 @@
 
 
 
-</tbody></table></td>
+</tbody></table>
+
+
+</td>
 
 
 
@@ -558,17 +552,7 @@
 
 
   </tr>
-
-
-
-              
-
-
-
-              
-
-
-
+ 
 
 
 
@@ -577,12 +561,12 @@
 
   <tbody><tr>
 
-<td width="780" colspan="3">
+<td width="900px" colspan="4">
 
        
 
-        <table cellspacing="0" cellpadding="0" border="0"><tbody>
-        <tr><td height="31" align="center" background="images/nv_1_bg.jpg" width="780"><span class="normal_blue"></span></td></tr>
+        <table align="center" cellspacing="0" cellpadding="0" border="0"><tbody>
+        <tr><td height="31" align="center" background="http://www.muslimvideo.com/tv/images/globalnav_690x24.jpg" width="900px"></td></tr>
         </tbody></table>
 </td>
 
@@ -684,7 +668,7 @@
 
         <tr>
 
-                <td height="25" align="center"><span class="deep_gray_ragular">Copyright © 2006-2008  <a href="http://www.muslimvideo.com">MuslimVideo.com</a>. All rights reserved. <br>
+                <td height="25" align="center"><span class="deep_gray_ragular">Copyright © 2006-2009  <a href="http://www.muslimvideo.com">MuslimVideo.com</a>. All rights reserved. <br>
                     Disclaimer: The contents on this website do not necessarily reflect the views of MuslimVideo.com 
 				<br>
 				    
@@ -743,4 +727,4 @@ urchinTracker();
 <!-- End of Google analytic Code -->
 
 
-</form></body></html>
+</body></html>
