@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223030052id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627120604id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
 
 # University of Denver -- Privacy Policy
 
@@ -58,7 +58,7 @@ All requests for release of or access to confidential information maintained in 
 ###  APPENDIX A 
 
 ###  UNIVERSITY OF DENVER   
-**STUDENT HEALTH and** **COUNSELING** **** **CENTER** **   
+**STUDENT HEALTH and** **COUNSELING** **CENTER** **   
 ****POLICY REGARDING CONFIDENTIALITY OF** **MEDICAL AND MENTAL HEALTH INFORMATION/RECORDS**
 
   1. Unless otherwise required by law, confidentiality of any and all medical and mental health information about Student Health and Counseling Center patients, active and inactive, must be maintained at all times, except when a request is made for release of that information by appropriately executed written consent of the patient. In urgent situations, witnessed and properly documented verbal consent may be appropriate. 
