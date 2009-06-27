@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228133349id_/http%3A//hylunia.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627061640id_/http%3A//www.hylunia.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # :: Hylunia :: privacy policy
 
