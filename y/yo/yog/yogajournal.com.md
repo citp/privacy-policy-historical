@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216050723id_/http%3A//yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogajournal.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627131408id_/http%3A//www.yogajournal.com/general_customer_service/cs_privacy) for the most accurate reproduction.*
 
 # Yoga Journal
 
@@ -16,7 +16,7 @@ To ensure the security of your data, including address information and credit ca
 
 While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. Our web site contains links, including e-commerce opportunities with affiliates, partners and associates, to other sites that are not maintained by us. If you visit these sites, please look for their privacy policy.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://www.google.com/privacy_ads.html>).
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
