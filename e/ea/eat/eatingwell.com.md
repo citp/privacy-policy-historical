@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095405id_/http%3A//www.eatingwell.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627180654id_/http%3A//www.eatingwell.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Eating Well
 
