@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218133205id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104036id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy policy at Typically Spanish
+
+[](http://www.typicallyspanish.com/) More than 1.54 million unique visits in 2008 - Source Google Analytics
+
+[ RSS ](http://www.typicallyspanish.com/rss.shtml)| Make us your Homepage | bookmark page | [mobile/PDA](http://www.typicallyspanish.mobi/) | Last Updated: Jun 27, 2009 - 9:24 AM | [Spain Forum](http://www.absolutespainforum.com/)
+
+OUR NEW REAL ESTATE PORTAL COMES ONLINE EARLY 2009   
+Real estate companies are invited to ask for details - urgent@typicallyspanish.com
+
+  
+  
+
+
+  
+Check out our latest car hire deals [HERE](http://www.typicallyspanish.com/carhire.shtml)
+
+  
+  
+  
+
+
+[](http://www.typicallyspanish.com/business/)
+
+[](http://affilate.mikkelsenmedia.dk/partnersystem/tilmeld.php?camID=1689&partnerID=1032&csize=6&aux_something=\[ID_PARTER\]&partner_userid=\[ID2_PARTER\] "Extrafilm.es  100 Copias Digitales para 7€!")
 
 ###  Typically Spanish Privacy Policy 
 
@@ -21,6 +44,10 @@ Our Site uses cookies to keep track of your classifieds and log ins. We also use
 ####  Advertisers 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+
+####  Google 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
 
 ####  Registration Forms 
 
