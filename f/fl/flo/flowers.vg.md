@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220215726id_/http%3A//www.flowers.vg/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowers.vg privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628014359id_/http%3A//www.flowers.vg/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -133,8 +133,15 @@ There are also many FREE software programs provided by some major search/interne
 
 If you have any concerns or questions about "FLOWER PICTURES" Privacy Policy email [webmaster@flowers.vg](mailto:webmaster@flowers.vg)
 
-"FLOWER PICTURES" WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE.   
+"FLOWER PICTURES" WORKS WITH A THIRD PARTIES THAT SERVES ADS TO THIS SITE.   
 
 
 "FLOWER PICTURES" displays ads for other websites,   
 Each advertiser has their own privacy policy. Please view their individual privacy policy, as it may differ from "FLOWER PICTURES".
+
+For ads displayed from Google, their policy is listed below  
+
+
+* Google, as a third party vendor, uses cookies to serve ads on our site. 
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
