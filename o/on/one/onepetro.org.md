@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014174854id_/http%3A//www.onepetro.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627225020id_/http%3A//www.onepetro.org/privacy_policy.htm) for the most accurate reproduction.*
 
-# OnePetro.org
+# OnePetro Privacy Policy
 
 At OnePetro we understand that privacy is important. This page outlines the types of personal information we receive and collect when you use OnePetro, as well as some of the steps we take to safeguard information. 
 
