@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201252id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627224537id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Content Writer.in, Freelance Web Content Writing, Copy Writing for Web Sites
 
@@ -34,5 +34,7 @@ This Privacy Policy may be modified at any time without any prior notice. Please
 Kindly make use of the services and information on the website at your own risk. 
 
 Contacting contentwriter.in   We welcome any questions or comments you have about contentwriter.in. Please direct them to [ contact@contentwriter.in](mailto:contact@contentwriter.in)
+
+Copyright © 2005 - 2009, contentwriter.in ,  [ contact@contentwriter.in](mailto:contact@contentwriter.in)
 
 |  
