@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costhelper.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007094502id_/http%3A//www.costhelper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costhelper.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627180801id_/http%3A//www.costhelper.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,13 @@ e)       CostHelper.com works with vendors, partners, advertisers, and oth
 
 **Cookies**
 
-CostHelper.com may set and access CostHelper.com cookies on your computer. 
+CostHelper.com may set and access cookies on your computer. 
 
 CostHelper.com reserves the right to let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to CostHelper.com's cookies. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf). 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **Your Email Address**
 
