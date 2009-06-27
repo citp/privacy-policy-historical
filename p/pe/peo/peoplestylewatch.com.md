@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplestylewatch.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218182757id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplestylewatch.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # People Style Watch Privacy Policy
 
@@ -9,19 +9,21 @@
 * The Information We Collect
 * How We Use the Information 
 * Collection of Information by Third-Party Sites and Sponsors
+* Privacy Options
 * Cookies
 * Our Commitment to Security
 * How You can Access or Correct Information
 * Special Note for Parents
+* Changes to this Notice
 * How to Contact Us
 | 
 
-[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/stylewatch?dnp_source=I)   
-[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/stylewatch?dnp_source=I)
+[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/stylewatch?dnp_source=E)   
+[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/stylewatch?dnp_source=E)
 
 |    
   
-This is the Privacy Policy for the United States of America. 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/stylewatch?dnp_source=E) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/stylewatch?dnp_source=E). 
 
 Thank you for visiting People Style Watch, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
 
@@ -62,11 +64,11 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?offline=yes&referring_url=&dnp_source=I). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?offline=yes&referring_url=&dnp_source=E). |    
   
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?online=yes&referring_url=&dnp_source=I). 
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?online=yes&referring_url=&dnp_source=E). 
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?online=yes&referring_url=&dnp_source=I). 
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch?online=yes&referring_url=&dnp_source=E). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -75,7 +77,7 @@ Time Inc. sites will not use or transfer personally identifiable information pro
 **Collection of Information by Third-Party Sites and Sponsors**  
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Inc. has no control over the third-party sponsors' use of this information. The Time Inc. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
+Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
 
 Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
 
@@ -94,7 +96,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. |    
   
 **How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://web.archive.org/web/20081218182757id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DI). 
+To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -106,7 +108,7 @@ The site you are visiting is one of the Time Inc. general audience sites. For mo
 **Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://web.archive.org/web/20081218182757id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DI) or at the following address:
+If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) or at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs  
@@ -116,4 +118,4 @@ Tampa, Florida 33612-6408
 <http://www.people.com/stylewatch>
 
 | back to top  
-|  This Privacy Notice was revised 1/18/2007.
+|  This Privacy Notice was revised 4/13/2009.
