@@ -1,14 +1,37 @@
-<!--The following is the downloaded HTML source of the japan-talk.com privacy policy that was archived on 2008-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226004217id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japan-talk.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627045028id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	    <title>Japan Talk - Privacy Policy</title> 
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	    <link rel="stylesheet" type="text/css" href="http://www.japan-talk.com/jt/uiSkin.css" media="screen">
-		<link rel="StyleSheet" href="http://www.japan-talk.com/jt/global.css" type="text/css" media="screen">
+<title>Japan Talk - Privacy Policy</title> 
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/jt/uiSkin.css" media="screen">
+<link rel="StyleSheet" href="/jt/global.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="http://www.japan-talk.com/images/jt/favicon.gif">
+<script type="text/javascript">
 
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
 
-<script>
+var memberMessage = readCookie("memberMessage");
+if(memberMessage == null) {
+    memberMessage = "";
+}
+else {
+    memberMessage = memberMessage.replace(/"/g, "");
+}
+
+var signOffMessage = readCookie("signOffMessage");
+if(signOffMessage != null) {
+    signOffMessage = signOffMessage.replace(/"/g, "");
+}
 
 function sf()
    {
@@ -48,39 +71,86 @@ window.mainbar={};
     h=!h}
     ;
     c.close=function(a){h&&c.tg(a)}})();
-
-   
 </script>
-
-
-
-
 </head>
-	<body>
-		<div id="outer">
-			<div id="header">
+<body>
 
-				<div id="logo">
-				    <input type="image" src="http://www.japan-talk.com/images/jt/logo12.gif" value="Japan Talk">
-				<h2 class="h2grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					Japan talk penpals and friends</h2>
-				</div>
+<table><tbody><tr><td style="width:675px;" valign="top">
+
+<div id="mainbar">
+<nobr>
+<span class="mainbar1">
+<a onclick="mainbar.nl(this)" href="/jt/friends.html">Friends</a> </span> 
+<span class="mainbar1"><a onclick="mainbar.nl(this)" href="/jt/guide">Japan Forums</a></span> 
+<span class="mainbar1">
+<a href="http://www.japan-talk.com/jt/show/topic/photo0/friend.html">Friend Photos</a></span> 
+<span class="mainbar3"><a onclick="this.blur();mainbar.tg(event);return !1" href="/jt/sitemap"><u>more</u> 
+<small>▼</small></a></span>
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/popular/tags">Tags</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/photo/map/world.html">Photos</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/AboutServlet">About</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/MembershipCountryServlet">Join</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/ShowInboxServlet?offset=0">My Messages</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/ContactUsSubjectServlet">Contact Us</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/sitemap/answers">Japan Answers</a></span> 
+
+
+<span class="mainbar2"><a href="/jt/sitemap/blog/japan.html">Blogs</a></span> 
+
+
+<span class="mainbar2"><a onclick="mainbar.nl(this)" href="/jt/SignOnServlet">Sign On</a></span> 
+
+
+<span class="mainbar2"><a href="/jt/sitemap">site map <small>&gt;</small></a></span> 
+ </nobr>
+</div>
+<div style="clear:both; margin:0; padding:0;"><!--- ---></div>
+<img src="http://www.japan-talk.com/images/jt/logo12.gif" alt="Japan Talk" style="margin:0px; padding: 0px;">
+<h2 class="s2h4"> &nbsp;&nbsp;&nbsp;travel and living guide::Japan talk penpals and friends</h2>
 
 
 
 
-
-<div style="text-align:right; padding-right:40px;">
-<a href="http://www.japan-talk.com/jt/SignOnServlet"><span class="h4blue">Sign On</span></a> 
-&nbsp;<img src="http://www.japan-talk.com/images/jt/diamond.gif" style="width:10px; height:10px;">&nbsp;
-<a href="http://www.japan-talk.com/jt/MembershipCountryServlet"><span class="h4blue">Join for free</span></a>
+</td>
+<td style="width:350px;" valign="top">
+<div id="redLink">
+<span class="h4grey">
+<script>
+if(signOffMessage == null) {
+document.write('<A HREF="/jt/SignOnServlet">');
+document.write('Sign On');
+document.write('</A> | ');
+document.write('<A HREF="/jt/MembershipCountryServlet">');
+document.write('Join for free');
+document.write('</A> ');
+}
+else {
+document.write(signOffMessage);
+}
+</script><a href="/jt/SignOnServlet">Sign On</a> | <a href="/jt/MembershipCountryServlet">Join for free</a> 
+</span>
 </div>
 <br>
+<span class="h2grey">
+<script type="text/javascript">document.write(memberMessage)</script>
+</span>
+<br>
 
-
-
-
-<div style="text-align:right; padding-right:40px;">
+<br>
+<span class="h4grey">Search Japan Talk 
 <form action="http://www.google.com/cse" id="cse-search-box">
   <div>
     <input type="hidden" name="cx" value="partner-pub-0273803752039757:86n3jdienw9">
@@ -91,80 +161,53 @@ window.mainbar={};
 </form>
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <br>
-</div>
 
+</span></td>
+</tr></tbody></table>
+<table>
+<tbody><tr>
 
+<td valign="top" width="350px">
 
-
-
-<div style="text-align: left;">
-<div id="mainbar">
-<nobr>
-
-<span class="mainbar1">
-<a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/find/friends0">Friends</a></span> 
-
-<span class="mainbar1"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/guide">Japan Forums</a></span> 
-
-<span class="mainbar1"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/popular/tags">Tags</a></span> 
-
-<span class="mainbar1">
-<a href="http://www.japan-talk.com/jt/show/topic/photo0/friend.html">Friend Photos</a></span> 
-
-
-
-
-<span class="mainbar3"><a onclick="this.blur();mainbar.tg(event);return !1" href="http://www.japan-talk.com/jt/site/map"><u>more</u> 
-<small>▼</small></a></span> 
-
-
-<span class="mainbar2"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/photo/map/world.html">Photos</a></span> 
-
-
-
-<span class="mainbar2"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/AboutServlet">About</a></span> 
-
-
-
-<span class="mainbar2"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/MembershipCountryServlet">Join</a></span> 
-
-
-
-<span class="mainbar2"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/ShowInboxServlet?offset=0">My Messages</a></span> 
-
-
-
-<span class="mainbar2"><a href="http://www.japan-talk.com/jt/ContactUsSubjectServlet">Contact Us</a></span> 
-
-
-
-<span class="mainbar2"><a onclick="mainbar.nl(this)" href="http://www.japan-talk.com/jt/sitemap/blog/japan.html">Blogs</a></span> 
-
-
-
-<span class="mainbar2"><a href="http://www.japan-talk.com/jt/SignOnServlet">Sign On</a></span> 
-
-
-
-<span class="mainbar2">
-<div></div></span>
-
-<span class="mainbar2"><a href="http://www.japan-talk.com/jt/site/map">site map <small>&gt;</small></a></span> 
-
-
-</nobr></div>
-</div>
-
-
+<a href="/jt/photo/7247/photosOfJapan.html"><img src="http://www.japan-talk.com/images/jt/NagoyaCastle1417112174303650023.jpeg" alt="Nagoya Castle" border="0" style="width:330px; height:250px;"></a>
 
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script type="text/javascript"><!--
 google_ad_client = "pub-0273803752039757";
-/* 728x15, created 8/23/08 */
-google_ad_slot = "2325885157";
-google_ad_width = 728;
-google_ad_height = 15;
+/* 336x280, created 6/7/09 */
+google_ad_slot = "6294735518";
+google_ad_width = 336;
+google_ad_height = 280;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
@@ -183,17 +226,6 @@ google_ad_height = 15;
 
 
 
-					
-
-			</div>
-			<div id="body-top"></div>
-			<div id="body-middle" class="clearfix">
-			
-				<!-- Main Column -->
-				<table><tbody><tr><td valign="top" width="575px">
-				<div id="main-col">
-				
-				<h1>Privacy Policy</h1><br>
 
 
 
@@ -204,6 +236,136 @@ google_ad_height = 15;
 
 
 
+<br>
+
+
+
+
+
+
+<div style="background-color:#F4F7F4; padding: 4px;">
+<span class="s2h1">Recent Photos</span>
+<br>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700912460465809754.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700912460465809753.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700912460465809752.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700912460465809751.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/dog-&#10;her-name1700912460465809750.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700912460406311650.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/choihb">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1701912460322083880.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/lokoxsiempre">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700312458663425341.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/lokoxsiempre">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700312458663425340.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618718544.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618718543.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618718542.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618056304.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618718541.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618056303.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618718540.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618056302.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618056291.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458618056290.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend79412458597790530.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/zushi99">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700112458140519091.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/zushi99">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1700112458140519090.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/ciddester">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/Old-photo-over1677112458114908670.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/fvnbab">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/left-best-friend1699712457684894920.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/kai157">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1699412457347530300.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/KeixKei29">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1699312457305622951.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/KeixKei29">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1699312457305622950.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/Fenix73">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1699012457122910980.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/zunaryuhaimeev">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1499112456996290811.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
+
+<a href="/jt/people/zunaryuhaimeev">
+<img src="http://www.japan-talk.com/images/jt/smallthumb/friend1499112456996290810.jpeg" style="width:50px; margin: 1px;" alt="">
+</a>
 
 
 
@@ -218,6 +380,433 @@ google_ad_height = 15;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+	 
+<div class="boxTop"><div class="boxBottom"><div class="boxLeft"><div class="boxRight"><div><div>
+<div class="boxCornerLeft"><div class="boxCornerRight">
+ 
+<ul id="new-side-nav">
+  <li><a href="/jt/MemberHomePageServlet">Home</a></li>
+  <li><a href="/jt/sitemap">Site Map</a></li> 
+
+ 
+
+	       <li><a href="http://www.japan-talk.com/jt/find/friends0">Japan Friends</a> </li>
+
+
+	       <li><a href="http://www.japan-talk.com/jt/guide">Japan Forums</a> </li>
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div></div></div></div>
+
+
+
+
+
+
+
+
+
+<br>
+<div style="background:#E0F8F7; width:350px; padding:3px;">
+<span class="h2grey">New Members</span><br><br>
+
+<table>
+
+<tbody><tr><td>
+<a href="/jt/people/natalee">
+<img src="http://www.japan-talk.com/images/jt/friend1700912460406311650.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/natalee">natalee</a><br>
+&nbsp;24 year old female in Israel 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/virtiose">
+<img src="http://www.japan-talk.com/images/jt/friend1549012299818631131.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/virtiose">virtiose</a><br>
+&nbsp;22 year old male in Turkey 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/lokoxsiempre">
+<img src="http://www.japan-talk.com/images/jt/friend1700312458663425340.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/lokoxsiempre">lokoxsiempre</a><br>
+&nbsp;97 year old male in Argentina 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/friend75604">
+<img src="http://www.japan-talk.com/images/jt/friend79412401925297730.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/friend75604">friend75604</a><br>
+&nbsp;25 year old female in United States 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/ZebraInk">
+<img src="http://www.japan-talk.com/images/jt/friend1696812454550778200.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/ZebraInk">ZebraInk</a><br>
+&nbsp;18 year old female in United States 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/zushi99">
+<img src="http://www.japan-talk.com/images/jt/friend1700112458140519090.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/zushi99">zushi99</a><br>
+&nbsp;40 year old male in Thailand 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/cupcake17">
+<img src="http://www.japan-talk.com/images/jt/friend1691812451114707960.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/cupcake17">cupcake17</a><br>
+&nbsp;18 year old female in United States 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/fvnbab">
+<img src="http://www.japan-talk.com/images/jt/left-best-friend1699712457684894920.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/fvnbab">fvnbab</a><br>
+&nbsp;18 year old female in United Kingdom 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/kai157">
+<img src="http://www.japan-talk.com/images/jt/friend1699412457347530300.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/kai157">kai157</a><br>
+&nbsp;15 year old male in United States 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/KeixKei29">
+<img src="http://www.japan-talk.com/images/jt/friend1699312457305622950.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/KeixKei29">KeixKei29</a><br>
+&nbsp;18 year old female in United States 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/Fenix73">
+<img src="http://www.japan-talk.com/images/jt/friend1699012457122910980.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/Fenix73">Fenix73</a><br>
+&nbsp;36 year old male in Italy 
+</span>
+</td></tr>
+
+<tr><td>
+<a href="/jt/people/Cheeps">
+<img src="http://www.japan-talk.com/images/jt/friend1430712184566195950.jpeg" alt="" border="0" style="width:76px;">
+</a>
+</td>
+<td valign="middle">
+<span class="h4dgrey">&nbsp;<a href="/jt/people/Cheeps">Cheeps</a><br>
+&nbsp;18 year old male in Russia 
+</span>
+</td></tr>
+
+</tbody></table>
+
+<div style="text-align: right; padding-right: 10px;">
+<span class="h4dgrey">
+<a href="/jt/friends.html">
+all members&nbsp;<img src="http://www.japan-talk.com/images/jt/blueright.gif" alt="-" style="width:12px; height:12px;">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+</div>
+</div>
+
+
+
+
+
+
+
+<br><div style="background:#EFEFFB; width:350px; padding:4px;">
+<div style="margin:5px;">
+<table><tbody><tr><td>
+<img src="http://www.japan-talk.com/images/jt/hot-red.gif" style="margin: 0px; ">
+</td>
+<td><span class="h1red">&nbsp;Questions</span></td>
+</tr></tbody></table></div>
+
+<table><tbody><tr><td>
+
+<a href="/jt/people/niseko"><img src="http://www.japan-talk.com/images/jt/smallthumb/snowboarderDannyKass1429112182492461780.jpeg" alt="" width="20px" style="margin-right:10px; margin-left:3px;"></a>
+
+</td>
+<td>
+<span class="h4grey">
+<a href="http://www.japan-talk.com/jt/show0/question48/languageExchange.html">Is it okay to drink alcohol during language exchange?
+</a>
+(4)
+</span></td></tr></tbody></table>
+<br>
+
+
+<div style="text-align: right; padding-right: 10px;">
+<span class="h4dgrey">
+<a href="/jt/sitemap/answers">
+all questions (129)&nbsp;<img src="http://www.japan-talk.com/images/jt/blueright.gif" alt="-" style="width:12px; height:12px;">
+</a>
+</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</td>
+<td style="width:15px">&nbsp;</td>
+<td style="width:650px;" valign="top">
+	
+<br>		
+<h1>Privacy Policy</h1><br>
 
 
 
@@ -250,49 +839,14 @@ google_ad_height = 15;
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-0273803752039757";
-/* 468x60, created 8/17/08 */
-google_ad_slot = "8325774795";
+/* 468x60, created 6/7/09 */
+google_ad_slot = "4741441355";
 google_ad_width = 468;
 google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -319,36 +873,10 @@ google_ad_height = 60;
 
 
 <!-- Main Content -->
-<div id="content">
-   
-
-
-
-                   
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-	
-
-	  
-	
 
 <br>
 
@@ -358,7 +886,7 @@ Japan Talk takes your privacy seriously. Please read the following to learn more
 
 
 <span class="h3dgrey"> 
-What This Privacy Policy Covers
+What This Privacy Policy Covers 
 </span> 
 <br><br>
 
@@ -512,68 +1040,6 @@ Effective Date: June 1, 2004
 
 
 
-</div>
-
-				</div>
-				<!-- End Main Column -->
-				</td>
-				<td width="30px">
-                &nbsp;   
-				</td>
-				<td valign="top" width="350px">
-
-                <div style="height:60px;"></div>   
-
-
-						<a href="http://www.japan-talk.com/jt/show/photo7247/photosOfJapan.html"><img src="http://www.japan-talk.com/images/jt/NagoyaCastle1417112174303650023.jpeg" alt="Nagoya Castle" border="0" style="width:350px; height:250px;"></a>
-						<br>
-
-<table>
-<tbody><tr>
-<td style="width:160px;" valign="top">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -584,560 +1050,8 @@ Effective Date: June 1, 2004
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-0273803752039757";
-/* 160x600, created 8/17/08 */
-google_ad_slot = "8149279222";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</td>
-<td style="width:190px;">
-
-<span class="s2h1">friend photos</span><br><br>
-
-<a href="http://www.japan-talk.com/jt/show/photo8847/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550912302002299602.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8846/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550912302002299601.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8845/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550912302002299600.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8844/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550412301248747720.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8843/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550212301000052610.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8842/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550212300999247661.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8841/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550212300999247660.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8840/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550212300995975092.jpeg" alt="" distant="" hopes",="" another="" art="" project."="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8836/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550212300950012630.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8835/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1550112300899042200.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8834/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1549912300730685990.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8833/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1549912300729173420.jpeg" alt="F THE WRLD" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8832/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1492412300630246702.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8831/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1492412300630246701.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8830/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1492412300630246700.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8829/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1492412300628562121.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8828/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1492412300628562120.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8827/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1549012299818631131.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8825/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/carFrance1548712299544039750.jpeg" alt="Me in the car in france" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8824/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1544612298909656161.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<br>
-<span class="h4normal">
-<a href="http://www.japan-talk.com/jt/show/topic/photo0/friend.html">more photos...</a></span>
-
-</td>
-</tr>
-</tbody></table>
-	 
- 
-<div class="boxTop"><div class="boxBottom"><div class="boxLeft"><div class="boxRight"><div><div>
-<div class="boxCornerLeft"><div class="boxCornerRight">
-
- 
-		<ul id="new-side-nav">
- 		      <li><a href="http://www.japan-talk.com/jt/MemberHomePageServlet">Home</a></li>
-		      <li><a href="http://www.japan-talk.com/jt/site/map">Site Map</a></li>                              
-						 
-
-
-
-  
-
-	       <li><a href="http://www.japan-talk.com/jt/find/friends0">Japan Friends</a> </li>
-
-
-	       <li><a href="http://www.japan-talk.com/jt/guide">Japan Forums</a> </li>
-
-
-                        </ul>      
-</div></div></div></div></div></div></div></div> <br><br>
-
-<table>
-<tbody><tr>
-<td style="width:160px;" valign="top">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-0273803752039757";
-/* 160x600, created 8/17/08 */
-google_ad_slot = "8149279222";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</td>
-<td style="width:190px;">
-
-<span class="s2h1">more friend photos</span><br><br>
-
-<a href="http://www.japan-talk.com/jt/show/photo8812/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/NotMe,Obviously.JustBeautifulPicture1546912297116140560.jpeg" alt="Not me, obviously. Just a beautiful picture of a rock formation I took." style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8811/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/miiBigBros....fakeBigBros1546512296435307902.jpeg" alt="Me and mii big bros....fake big bros" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8810/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/bf...uglyPic1546512296435307901.jpeg" alt="Me and my bf...ugly pic" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8809/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/thinkItsCalledYukata...IMightWrong..XD1546512296435307900.jpeg" alt="Me in a i think its called a yukata...I might be wrong..XD" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8808/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1546412296421562790.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8807/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/helloween081546312296042325810.jpeg" alt="me on helloween'08" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8806/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1538412295729822053.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8805/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1538412295729822052.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8804/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1538412295729822051.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8803/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1538412295729822050.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8802/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1546212295441793750.jpeg" alt="" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8801/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/sunsetHome1544612295367266640.jpeg" alt="sunset at home" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8800/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friends1545612294713485471.jpeg" alt="my friends" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8799/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1545612294713485470.jpeg" alt="it's my ;)" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8798/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/HowAbout1545512294644140330.jpeg" alt="How About This" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8797/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/HowBout1545512294640327700.jpeg" alt="How Bout This" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8796/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/HowBout1545512294639333010.jpeg" alt="How Bout This" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8795/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/friend1545212294469897364.jpeg" alt="yeah" style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8794/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/Park..1545212294469897363.jpeg" alt="Park.." style="width:50px; margin:1px;">
-
-</a>
-
-
-<a href="http://www.japan-talk.com/jt/show/photo8793/friend.html">
-<img src="http://www.japan-talk.com/images/jt/thumbnails/christmas20071545212294469897362.jpeg" alt="christmas 2007" style="width:50px; margin:1px;">
-
-</a>
-
-
-<br>
-<span class="h4normal">
-<a href="http://www.japan-talk.com/jt/show/topic/photo0/friend.html">more photos...</a></span>
-</td>
-</tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-				
-				<!-- End Sidebar Content -->
-             </td></tr></tbody></table>
-					
-
-			</div>
-		
-			<!-- Footer -->
-			<div id="footer">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-0273803752039757";
-/* 468x15, created 8/17/08 */
-google_ad_slot = "2736579751";
+/* 468x15, created 6/7/09 */
+google_ad_slot = "2901773638";
 google_ad_width = 468;
 google_ad_height = 15;
 //-->
@@ -1149,97 +1063,135 @@ google_ad_height = 15;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="http://www.japan-talk.com/jt/LinkRequestChooseTopicServlet">Submit URL</a>
+<a href="/jt/LinkRequestChooseTopicServlet">Submit URL</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/LinkToUsServlet">Link To Us</a>
+<a href="/jt/LinkToUsServlet">Link To Us</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/BusinessRegistrationCountryServlet">Register a Business</a>
+<a href="/jt/BusinessRegistrationCountryServlet">Register a Business</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/SiteFAQServlet">Site FAQ</a>
+<a href="/jt/SiteFAQServlet">Site FAQ</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/TermsOfServiceServlet">Terms Of Service</a>
+<a href="/jt/TermsOfServiceServlet">Terms Of Service</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/GuidelinesServlet">Guidelines</a>
+<a href="/jt/GuidelinesServlet">Guidelines</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/PrivacyServlet">Privacy</a>
+<a href="/jt/PrivacyServlet">Privacy</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/SpamServlet">SPAM</a>
+<a href="/jt/SpamServlet">SPAM</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-<a href="http://www.japan-talk.com/jt/ContactUsSubjectServlet">Contact</a>
+<a href="/jt/ContactUsSubjectServlet">Contact</a>
 <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 
-			</div>
-			
-		</div>
- 
-	
+
+<a href="http://japanese.japan-talk.com">
+Japan Talk in Japanese &nbsp;<img src="http://www.japan-talk.com/images/jt/japan.gif" style="width:20px;">
+</a>
+<span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+
+
+
+
+<br>
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0273803752039757";
+/* 728x15, created 6/1/09 */
+google_ad_slot = "0519393184";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<center>
+<span class="h8grey">All content on this page is <a href="http://www.japan-talk.com/jt/copyright" target="_blank">copyright © 2007 Japan Talk</a>.<br><a href="http://www.japan-talk.com/jt/copyright" target="_blank"><img src="http://www.japan-talk.com/images/jt/warn.gif"></a></span>
+</center>
+</td>
+</tr></tbody></table>
 
 </body></html>
