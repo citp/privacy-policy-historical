@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216063612id_/http%3A//www.trade-it.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211741id_/http%3A//www.trade-it.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Trade-It - Privacy & Policy
-
-##  Free ads on Trade-It in in All Categories from United Kingdom 
+# Privacy & Policy
 
 Trade-It is committed to protecting your right to privacy as a consumer of our online services.   
 It is our policy to respect the privacy of private communication and the information you provide to us will be held on Trade-It computers that are based in the UK. 
@@ -34,4 +32,4 @@ You can update or amend your contact details at any time by using your My Accoun
 **Changes to the Policy**   
 If we do change or amend our privacy policy we will notify users via the Trade-It website. The Privacy Policy will always be easily accessible online throughout all of the Trade-It services. 
 
-Advertisement copy shall be legal, decent, honest and truthful; shall comply with the British Code of Advertising Practice and all other Codes under the general supervision of the Advertising Standards Authority: and shall comply with the requirements of current legislation. 
+Advertisement copy shall be legal, decent, honest and truthful; shall comply with the British Code of Advertising Practice and all other Codes under the general supervision of the Advertising Standards Authority: and shall comply with the requirements of current legislation.
