@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219193352id_/http%3A//buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203925id_/http%3A//www.buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Buffini & Company
 
-|  |  [Company History](https://web.archive.org/about-buffini-and-company.aspx)  
+|  [Company History](https://web.archive.org/about-buffini-and-company.aspx)  
 ---  
 [Brian Buffini Bio](https://web.archive.org/brian-buffini-bio.aspx)  
 [Mission and Core Values](https://web.archive.org/buffini-mission-core-values.aspx)  
@@ -74,4 +74,6 @@ Buffini & Company may occasionally update this Privacy Statement. When we do, we
 
 CONTACT INFORMATION 
 
-If you have questions regarding this Privacy Statement, please send an [e-mail.](mailto:clientcare@buffiniandcompany.com)
+If you have questions regarding this Privacy Statement, please send an [e-mail.](mailto:clientcare@buffiniandcompany.com)  
+  
+© 2009 Buffini & Company. All Rights Reserved
