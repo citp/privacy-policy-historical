@@ -1,7 +1,25 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226004217id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627045028id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # Japan Talk - Privacy Policy
 
+[](https://web.archive.org/jt/photo/7247/photosOfJapan.html)
+
+Recent Photos   
+[ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/choihb) [ ](https://web.archive.org/jt/people/lokoxsiempre) [ ](https://web.archive.org/jt/people/lokoxsiempre) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/zushi99) [ ](https://web.archive.org/jt/people/zushi99) [ ](https://web.archive.org/jt/people/ciddester) [ ](https://web.archive.org/jt/people/fvnbab) [ ](https://web.archive.org/jt/people/kai157) [ ](https://web.archive.org/jt/people/KeixKei29) [ ](https://web.archive.org/jt/people/KeixKei29) [ ](https://web.archive.org/jt/people/Fenix73) [ ](https://web.archive.org/jt/people/zunaryuhaimeev) [ ](https://web.archive.org/jt/people/zunaryuhaimeev)
+
+  
+  
+
+
+|  |  Questions  
+---|---  
+  
+  
+
+
+  |    
+  
+  
 Japan Talk takes your privacy seriously. Please read the following to learn more about our privacy policy. What This Privacy Policy Covers 
 
 This policy covers how Japan Talk treats personal information that Japan Talk collects and receives, including information related to your past use of Japan Talk products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Japan Talk does not own or control, or to people that Japan Talk does not employ or manage. In addition, certain Japan Talk associated companies have their own privacy statements.  Information Collection and Use General 
@@ -33,3 +51,8 @@ Changes to this Privacy Policy
 Japan Talk may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Japan Talk account or by placing a prominent notice on our site. 
 
 Effective Date: June 1, 2004 
+
+[Submit URL](https://web.archive.org/jt/LinkRequestChooseTopicServlet)   |   [Link To Us](https://web.archive.org/jt/LinkToUsServlet)   |   [Register a Business](https://web.archive.org/jt/BusinessRegistrationCountryServlet)   |   [Site FAQ](https://web.archive.org/jt/SiteFAQServlet)   |   [Terms Of Service](https://web.archive.org/jt/TermsOfServiceServlet)   |   [Guidelines](https://web.archive.org/jt/GuidelinesServlet)   |   [Privacy](https://web.archive.org/jt/PrivacyServlet)   |   [SPAM](https://web.archive.org/jt/SpamServlet)   |   [Contact](https://web.archive.org/jt/ContactUsSubjectServlet)   |   [ Japan Talk in Japanese   ](http://japanese.japan-talk.com/)   |  
+
+All content on this page is [copyright © 2007 Japan Talk](http://www.japan-talk.com/jt/copyright).  
+[](http://www.japan-talk.com/jt/copyright)
