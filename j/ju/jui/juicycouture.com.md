@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224030215id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627091524id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
 
 # JuicyCouture | Security & Privacy
 
