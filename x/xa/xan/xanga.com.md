@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228182532id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627033235id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20081228182532id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
+[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20090627033235id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
 
-Effective: July 10, 2008
+Effective: April 21, 2009
 
 **XANGA PRIVACY POLICY**
 
@@ -290,6 +290,10 @@ Some third party advertisers may set and access their own cookies on your comput
 Most browsers come with the ability to restrict cookies from specific or unknown sources. Please review your browser’s documentation for more information.
 
 Any information that you provide to a third party advertiser will be subject to the privacy policy of that third party and not Xanga’s policy. Xanga is not responsible for the disclosure of any such information that you provide to any third party advertiser.
+
+**Third Party Advertisers - Google**
+
+Google is one of the third-party advertising companies we may use to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
 
 **Third Party Trackers and Scripts**
 
