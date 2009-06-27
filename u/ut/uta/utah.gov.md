@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228053756id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627064728id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Utah.gov
+# Linking to Utah.gov - Utah.gov
+
+## Privacy Policy Statement
 
 Version 3.1  
 May 25, 2007
@@ -13,7 +15,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20081228053756id_/http%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20090627064728id_/http%3A//www.utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
