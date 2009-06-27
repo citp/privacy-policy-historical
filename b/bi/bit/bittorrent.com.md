@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2008-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081113033354id_/http%3A//www.bittorrent.com/privacy%3Fcsrc%3Dsplash) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627165032id_/http%3A//www.bittorrent.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BitTorrent
+# Privacy Policy | BitTorrent
 
-BitTorrent.com, and the other websites and intellectual property and proprietary information associated therewith (the "Sites"), and the various services provided through the Sites (the "Services"), are owned and operated by BitTorrent, Inc., its affiliates and subsidiaries ("we" "us" or "BitTorrent"). BitTorrent is committed to respecting the privacy rights and concerns of all users of our Sites and Services (we refer to the Sites and Services collectively as the "BitTorrent Features"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy. 
+BitTorrent.com, and the other websites and intellectual property and proprietary information associated therewith (the "Sites"), and the various services provided through the Sites (the "Services"), are owned and operated by BitTorrent, Inc., its affiliates and subsidiaries ("we" "us" or "BitTorrent"). BitTorrent is committed to respecting the privacy rights and concerns of all users of our Sites and Services (we refer to the Sites and Services collectively as the "BitTorrent Features"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
 
 ### What information does BitTorrent collect and how does BitTorrent use it?
 
@@ -10,7 +10,7 @@ BitTorrent.com, and the other websites and intellectual property and proprietary
 
 The BitTorrent Client is the software on your machine that manages downloads using torrent files. It downloads files by grabbing pieces from other users, resulting in remarkably fast downloads. So your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
 
-**We do not track which files you download with the BitTorrent Client.** Merely using the BitTorrent Client does not cause a record of your download history to be kept by BitTorrent or BitTorrent on behalf of any third party. 
+**We do not track which files you download with the BitTorrent Client.** Merely using the BitTorrent Client does not cause a record of your download history to be kept by BitTorrent or BitTorrent on behalf of any third party.
 
   * #### Gathering and Use of Anonymous Information
 
@@ -80,9 +80,9 @@ By visiting the Site or using the Services, you consent to the collection and us
 If you have any questions about our privacy practices, please do not hesitate to contact:
     
     
-    BitTorrent, Inc.  
-    201 Mission St. Suite 900  
-    San Francisco, California 94105  
+    BitTorrent, Inc.
+    201 Mission St. Suite 900
+    San Francisco, California 94105
     
 
 ### Terms and Conditions.
