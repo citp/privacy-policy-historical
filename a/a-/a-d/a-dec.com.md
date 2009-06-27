@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227074625id_/http%3A//www.a-dec.com/html/LegalDisclaimers/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627031439id_/http%3A//www.a-dec.com/html/LegalDisclaimers/Privacy.asp) for the most accurate reproduction.*
 
 # A-dec Privacy Policy
 
