@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217175933id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105813id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
 
 # LIFamilies.com Privacy Policy
 
@@ -10,12 +10,12 @@ Bridal Planner Group can be contacted by mail at:
 
 Attention Legal Department  
 Bridal Planner Group, Inc.  
-646-13 Main Street  
-3rd Floor  
-Port Jefferson, NY 11777  
+3245 Route 112  
+Suite 5  
+Medford, NY 11763  
 United States of America
 
-by phone at (631) 331-5703 or
+by phone at (631) 320-3450 or
 
 by e-mail [_here_](https://web.archive.org/contact/).
 
@@ -29,7 +29,7 @@ When a visitor performs a search within Bridal Planner Group's website, Bridal P
 
 2\. Use of Personal Data Collected
 
-Personal data collected by Bridal Planner Group may be used by Bridal Planner Group for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of Bridal Planner Group's website. Aggregate data on visitors’ home servers may be used for internal purposes or provided to third parties such as advertisers. Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to Bridal Planner Group may be (i) added to Bridal Planner Group's databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or (ii) provided to reputable third parties who provide products and services which Bridal Planner Group believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor. NY City Wedding
+Personal data collected by Bridal Planner Group may be used by Bridal Planner Group for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of Bridal Planner Group's website. Aggregate data on visitors’ home servers may be used for internal purposes or provided to third parties such as advertisers. Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to Bridal Planner Group may be (i) added to Bridal Planner Group's databases and used for future calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online, or (ii) provided to reputable third parties who provide products and services which Bridal Planner Group believes that visitors may be interested in purchasing or obtaining, with prior notice to the visitor. 
 
 3\. Disclosure of Personal Data to Third Parties
 
@@ -41,7 +41,7 @@ Bridal Planner Group has implemented numerous security features to prevent the u
 
 5\. Opt-Out Right
 
-Visitors may opt out of having their personal information collected by Bridal Planner Group, used by Bridal Planner Group for secondary purposes, disclosed to third parties, or used by Bridal Planner Group or third parties to send promotional correspondences to the visitor, by contacting Bridal Planner Group via postal mail, e-mail, or telephone at the addresses above, or by checking the appropriate box. NY City Wedding
+Visitors may opt out of having their personal information collected by Bridal Planner Group, used by Bridal Planner Group for secondary purposes, disclosed to third parties, or used by Bridal Planner Group or third parties to send promotional correspondences to the visitor, by contacting Bridal Planner Group via postal mail, e-mail, or telephone at the addresses above, or by checking the appropriate box. 
 
 6\. Access to and Ability to Correct Personal Data
 
