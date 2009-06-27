@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the interpals.net privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217054155id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interpals.net privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627223715id_/http%3A//www.interpals.net/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>InterPals Penpals  : Privacy Policy</title>
+<title>InterPals Penpals  :: Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta http-equiv="charset" content="utf-8"> <link rel="shortcut icon" href="http://ipstatic.net/images/icons/env-blu-16.png" type="image/png"><base href="http://www.interpals.net/"> <link rel="stylesheet" type="text/css" href="http://css.ipstatic.net/css/styles.css"><script type="text/javascript" src="http://js.ipstatic.net/js/signin.js"></script></head>
+<meta http-equiv="charset" content="utf-8"> <link rel="shortcut icon" href="http://ipstatic.net/images/icons/env-blu-16.png" type="image/png"><base href="http://www.interpals.net/"> <link rel="stylesheet" type="text/css" href="http://css.ipstatic.net/css/3/uni/interpals.css"></head>
 <body><center><div id="topBar">
-<div id="topBarChild"><div id="topBarLinks" style="width: 250px;"><a href="/login.php">Sign in</a> | <a href="/import-ab.php">Invite Friends</a> | 
+<div id="topBarChild"><div id="topBarLinks" style="width: 250px;"><a href="/login.php">Sign in</a> | <a href="/invite.php">Invite Friends</a> | 
 <a href="/feedback.php">Feedback</a> | 
 <a href="/tips.php">Tips</a> | 
 <a href="/faq.php">Help</a>
@@ -22,7 +22,7 @@ addthis_pub    = 'interpals';
 <!-- AddThis Bookmark Button END -->
 </div></div></div><div id="logoAdBar"><div class="topLogo">
 <a href="http://www.interpals.net">
-<img src="http://ipstatic.net/images/logopenpals.png" width="175" height="63" style="margin-top: 17px;"></a></div><div class="topLB"><iframe id="1340374" name="1340374" src="http://www.interpals.net/show_ad.php?zone=ros_atf_lb&amp;cb=1340374" framespacing="0" frameborder="no" scrolling="no" width="728" height="90">&nbsp;
+<img src="http://ipstatic.net/images/logopenpals.png" width="175" height="63" style="margin-top: 17px;"></a></div><div class="topLB"><iframe id="6489494" name="6489494" src="http://www.interpals.net/show_ad.php?zone=ros_atf_lb&amp;cb=6489494" framespacing="0" frameborder="no" scrolling="no" width="728" height="90">&nbsp;
 </iframe>         </div>
 
 </div>
@@ -31,21 +31,23 @@ addthis_pub    = 'interpals';
 <a href="http://www.interpals.net">Welcome to InterPals!</a> 
 </div>
 <div class="rightWelcome">
-<div class="rwLink"><a href="signup.php"><img src="http://ipstatic.net/images/icons/edit-16.gif" width="16" height="16">Join (100% free)</a></div>
+<div class="rwLink"><a href="/signup.php"><img src="http://ipstatic.net/images/icons/edit-16.gif" width="16" height="16">Join (100% free)</a></div>
 </div>
-<div class="rwLink"><a href="javascript:showhide('signinBox');toggleSelectBox('signinBox');ge('login').focus();" id="signinTopLink">
+<div class="rwLink"><a href="/login.php" id="signinTopLink">
 <img src="http://ipstatic.net/images/icons/login-16.gif" width="16" height="16">Sign in</a> </div>
 
-<div id="signinBox" class="normalText" style="
+<div id="signinBox" class="normalText closeable" style="
     width: 400px;
     background: #fff;
     padding: 10px;
     border: #709BDB 10px solid;
     z-index: 2;
+position: absolute;
+    display: none;
 ">
 <form name="login" action="login.php" method="post">
 <input type="hidden" name="action" value="login">
-<a href="javascript: return false;" onclick="showhide('signinBox');toggleSelectBox('signinBox');" class="bracketLink" style="float: right;">[close window]</a>
+<div class="closer"></div>
 <h1><img src="http://ipstatic.net/images/icons/keys-22.gif" width="22" height="22">
 Sign in</h1>
 <div class="loginExplain">
@@ -67,45 +69,44 @@ If you have an account, please sign in
 <tr><td></td><td><input type="submit" value="Sign in"></td></tr>
 <tr><td></td><td>
     <div id="loginHelp">
-<a href="forgot.php">Forgot your username or password?</a>
+<a href="/forgot.php">Forgot your username or password?</a>
 </div>
 </td></tr>
 </tbody></table>
 <!-- -- #login table ---->
-</form></div><script type="text/javascript">
-//at_attach("signinTopLink", "signinBox", "click", "y-l", "pointer", 0);
-setSigninBoxPos("signinTopLink", "signinBox");
-</script></div>
+</form></div></div>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" id="bluebar_table">
 <tbody><tr>
 <td>
     <div id="top_nav">
-    <div><a href="/index.php" style="border-left: 0;" title="InterPals Penpals Home">
-<img src="http://ipstatic.net/images/icons/home-22-bg.gif" width="21" height="22" alt="Penpals"> home </a>
+    <div class="tn_cont"><a href="/index.php" style="border-left: 0;" title="InterPals Penpals Home">
+<div class="bb_cont" id="bb1"></div>
+home </a>
 <a href="/search.php" title="Search for pen pals">
-<img src="http://ipstatic.net/images/icons/mag-22-bg.gif" width="22" height="22">
+<div class="bb_cont" id="bb2"></div>
 search </a>
 <a href="/phpBB" title="Participate in the InterPals online community">
-<img src="http://ipstatic.net/images/icons/forums-22.gif" width="22" height="22">
+<div class="bb_cont" id="bb3"></div>
 forums </a>
 <a href="/online.php" title="See all penpals online">
-<img src="http://ipstatic.net/images/icons/online-users-22.gif" height="22" width="22"> online 
-<span style="font-weight: normal; font-size: 12px;">(1428)</span></a>
+<div class="bb_cont" id="bb4"></div>
+online 
+<span style="font-weight: normal; font-size: 12px;">(2380)</span></a>
 <a href="/language_exchange.php" title="Online language exchange">
-<img src="http://ipstatic.net/images/icons/langex-22-bg.gif" width="22" height="22"> 
+<div class="bb_cont" id="bb5"></div>
 language exchange </a>
 <a href="/chat.php" title="Chat with other penpals in the penpal chat room">
-<img src="http://ipstatic.net/images/icons/chat-22-bg.gif" width="22" height="22">
+<div class="bb_cont" id="bb6"></div>
 chat</a></div></div><div style="clear: both;"></div>
 </td></tr> </tbody></table>
 	<!-- end yellow bar --><div id="gradBgBox">
-<div id="mainContainer"><div id="wideRightBar"><div class="rbRectAd"><iframe id="2379206" name="2379206" src="http://www.interpals.net/show_ad.php?zone=ros_atf_lr&amp;cb=2379206" framespacing="0" frameborder="no" scrolling="no" width="336" height="280">&nbsp;
+<div id="mainContainer"><div id="wideRightBar"><div class="rbRectAd"><iframe id="5897404" name="5897404" src="http://www.interpals.net/show_ad.php?zone=ros_atf_lr&amp;cb=5897404" framespacing="0" frameborder="no" scrolling="no" width="336" height="280">&nbsp;
 </iframe></div>            <div style="overflow: auto;">	<!-- QuickSearch form -->
    <div style="text-align: left; color: #666; border: 1px solid #B2D6D6; 
        border-bottom: 0;" class="rbox_main">
     <h1 style="display: block; margin: 0; text-align: left;" class="yTitle">
-    <a href="javascript:expand('qsArr', 'qsSubBox', 'tq-arr-down', 'tq-arr-side');" style="color: #666;">
-    <div class="tq-arr" id="qsArr"></div>
+    <a href="javascript:expand('qsArr', 'qsSubBox', 'exp', 'cont');" style="color: #666;">
+    <div class="cont" id="qsArr"></div>
     <img src="http://ipstatic.net/images/icons/mag-16.png" width="16" height="16"> Quick Search 
     </a>
     </h1>
@@ -148,12 +149,11 @@ chat</a></div></div><div style="clear: both;"></div>
     <div class="qsLinks">
     <h2>Browse:</h2>
     <a href="dosearch.php?todo=search&amp;sort=signup+DESC">Newest penpals</a><br>
-    <a href="dosearch.php?todo=search&amp;sort=modified+DESC">Updated profiles</a><br>
+    <a href="dosearch.php?todo=search&amp;sort=modified+DESC">Newly updated</a><br>
     <a href="dosearch.php?todo=search&amp;online=1">Online penpals</a>
     </div>
 </div>
-</div> <div class="rUsers"> <div class="boxHead randUsers"><h1>Random penpals...</h1>
-        </div><div class="rUserBox"><div class="photo_prof"> <a href="/static2" title="View static2 from unknown country" class="male"><img src="http://th-2.ipstatic.net/thumbs/63x50/10015/s122_1225934791.jpg" height="50" width="42" class="thumb"></a><div class="user_info"><a href="/static2" class="male"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">static2</a></div></div><div class="photo_prof"> <a href="/ramon4ik" title="View ramon4ik from unknown country" class="female"><img src="http://th-2.ipstatic.net/thumbs/63x50/10005/r122_1221675421.jpg" height="50" width="38" class="thumb"></a><div class="user_info"><a href="/ramon4ik" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">ramon4ik</a></div></div><div class="photo_prof"> <a href="/comptech" title="View comptech from unknown country" class="female"><img src="http://th-0.ipstatic.net/thumbs/63x50/0/c121_1219446706.jpg" height="47" width="63" class="thumb"></a><div class="user_info"><a href="/comptech" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">comptech</a></div></div><div class="photo_prof"> <a href="/ElegantFlower" title="View ElegantFlower from unknown country" class="female"><img src="http://th-1.ipstatic.net/thumbs/63x50/10021/E120_1227588911.jpg" height="50" width="38" class="thumb"></a><div class="user_info"><a href="/ElegantFlower" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">ElegantFlower</a></div></div></div></div></div></div> <div style="width: 577px; overflow: auto;"><div class="topLinkAds"><iframe id="5222640" name="5222640" src="http://www.interpals.net/show_ad.php?zone=468-links&amp;cb=5222640" framespacing="0" frameborder="no" scrolling="no" width="468" height="15">&nbsp;
+</div> <div class="rUsers"> <div class="boxHead randUsers"><h1>Random penpals...</h1></div><div class="rUserBox"><a href="/cb_usersets.php?todo=rand" tgt="rUserData" class="uSetNextArr loadNext clickable usetNext"></a><div id="rUserData"><div class="photo_prof"> <a href="/Village" title="View Village from unknown country" class="female"><img src="http://th1.ipstatic.net/thumbs/63x50/10041/i54_1233284028.jpg" height="50" width="38" class="thumb"></a><div class="user_info"><a href="/Village" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">Village</a></div></div><div class="photo_prof"> <a href="/Gintarekn" title="View Gintarekn from unknown country" class="female"><img src="http://th1.ipstatic.net/thumbs/63x50/10038/u50_1246053714.jpg" height="50" width="39" class="thumb"></a><div class="user_info"><a href="/Gintarekn" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">Gintarekn</a></div></div><div class="photo_prof"> <a href="/olucha" title="View olucha from unknown country" class="female"><img src="http://th1.ipstatic.net/thumbs/63x50/10142/h71_1245329912.jpg" height="50" width="47" class="thumb"></a><div class="user_info"><a href="/olucha" class="female"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">olucha</a></div></div><div class="photo_prof"> <a href="/soundboy4u" title="View soundboy4u from unknown country" class="male"><img src="http://th0.ipstatic.net/thumbs/63x50/10040/f83_1232993969.jpg" height="50" width="53" class="thumb"></a><div class="user_info"><a href="/soundboy4u" class="male"><img src="http://ipstatic.net/images/online-9x9.png" width="9" height="9" class="status">soundboy4u</a></div></div></div></div></div></div></div> <div style="width: 577px; overflow: auto;"><div class="topLinkAds"><iframe id="1486615" name="1486615" src="http://www.interpals.net/show_ad.php?zone=468-links&amp;cb=1486615" framespacing="0" frameborder="no" scrolling="no" width="468" height="15">&nbsp;
 </iframe></div><div class="boxHead"><h1>Privacy Policy</h1></div>
 
 <div class="normalText">
@@ -391,9 +391,9 @@ this policy, and if you cannot satisfactorily resolve it through the use of
 those sites, products or services, you should complete a feedback form or
 you can write to us by email at <a href="mailto:privacy@interpals.net">privacy@interpals.net</a>.</p> 
 </div></div></div></div><div class="yellowFooter">
-<a href="about.php">About</a> | 
-<a href="advertising.php">Advertise</a> |
-<a href="donate.php">Donate</a> | 
+<a href="/about.php">About</a> | 
+<a href="/advertising.php">Advertise</a> |
+<a href="/donate.php">Donate</a> | 
 <a href="/privacy.php">Privacy Policy</a> | 
 <a href="/tos.php">Terms of Service</a> | 
 <a href="/disclaimer.php">Disclaimer</a> | 
@@ -402,13 +402,19 @@ you can write to us by email at <a href="mailto:privacy@interpals.net">privacy@i
 </div>
 </div><div style="width: 925px; color: #444; height: 20px;">
 <div style="float: left;">
-© 2008 InterPals.
+© 2009 InterPals.
 </div>
 <div style="float: right;">
-<span style="color: #444;">Page created in 0.010 seconds.</span>
+<span style="color: #444;">Page created in 0.007 seconds.</span>
 </div>
- <br><script type="text/javascript" src="http://js.ipstatic.net/js/common.js"></script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+ <br><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script><script type="text/javascript" src="http://css.ipstatic.net/js/1/uni/interpals.js"></script><script type="text/javascript">
+setSigninBoxPos("signinTopLink", "signinBox");
+</script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript"> _uacct = "UA-346213-1"; urchinTracker(); </script>
-<script src="http://js.ipstatic.net/js/userplane/functions.js" type="text/javascript" language="javascript"></script><script type="text/javascript" src="http://js.ipstatic.net/js/resolution.js"></script>
+<!--[if IE 6]>
+<script src="http://css.ipstatic.net/js/DD_belatedPNG.js"></script>
+<script>DD_belatedPNG.fix('.pngFix');</script>
+<![endif]-->
+
 
 </div></center></body></html>
