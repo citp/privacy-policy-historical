@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218211139id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627142517id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Sun
-
-| 
 
   * [Terms of Use](http://www.nysun.com/terms.php)
   * **Privacy Policy**
@@ -53,7 +51,7 @@ In order to ensure that the information we maintain is accurate, The New York Su
 
 **Protection for Children**
 
-This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at [epaper@nysun.com](mailto:epaper@nysun.com) or send us a letter marked "Privacy � Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.
+This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at [epaper@nysun.com](mailto:epaper@nysun.com) or send us a letter marked "Privacy – Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.
 
 **Privacy Precaution Warning**
 
@@ -77,49 +75,3 @@ In addition, our mailing address is:
 The New York Sun  
 105 Chambers Street, 2nd Fl  
 New York, NY 10007
-
-| 
-
-[**NEW YORK ›**](http://www.nysun.com/new-york/)
-
-[September 11 Health Bill Stalls; One Backer Blames City Hall](http://www.nysun.com/new-york/september-11-health-bill-stalls-one-backer-blames/86852/)
-
-[Low-Price Laptops Tested at City Schools](http://www.nysun.com/new-york/low-price-laptops-tested-at-city-schools/86861/)
-
-[New Policy Is Sought in Albany After Report on Silver's Travel](http://www.nysun.com/new-york/new-policy-is-sought-in-albany-after-report/86862/)
-
-[Bed Bug Boom Is a Boost To One Sector](http://www.nysun.com/new-york/bed-bug-boom-is-a-boost-to-one-sector/86850/)
-
-[Solons Busy Outside Office, New Income Report Shows](http://www.nysun.com/new-york/solons-busy-outside-office-new-income-report-shows/86854/)
-
-[Atlantic Yard Project Suffers a Setback](http://www.nysun.com/new-york/atlantic-yard-project-suffers-a-setback/86851/)
-
-[**NATIONAL ›**](http://www.nysun.com/national/)
-
-[Feingold Bill Would Limit Searches of Travelers' Laptops](http://www.nysun.com/national/feingold-bill-would-limit-searches-of-travelers/86838/)
-
-[Palin, McCain Decry 'Gotcha' Journalism](http://www.nysun.com/national/palin-mccain-decrty-gotcha-journalism/86834/)
-
-[Gates Calls for a Balanced Military](http://www.nysun.com/national/gates-calls-for-a-balanced-military/86808/)
-
-[Dispute Over Witness Disrupts Stevens Trial](http://www.nysun.com/national/dispute-over-witness-disrupts-stevens-trial/86818/)
-
-[Heart Patients Need Screening For Depression](http://www.nysun.com/national/heart-patients-need-screening-for-depression/86819/)
-
-[Little Progress Made in Effort To Restore Everglades](http://www.nysun.com/national/little-progress-made-in-effort-to-restore/86820/)
-
-[**ARTS+ ›**](http://www.nysun.com/arts/)
-
-[New York Film Festival Goes Around the World and Back](http://www.nysun.com/arts/around-the-world-and-back/86634/)
-
-[A British Artist Plumbs the Politics of Hunger](http://www.nysun.com/arts/a-british-artist-plumbs-the-politics-of-hunger/86653/)
-
-[Barbet Schroeder Can't Be Killed](http://www.nysun.com/arts/barbet-schroeder-cant-be-killed/86654/)
-
-['Choke': Hard To Swallow](http://www.nysun.com/arts/choke-hard-to-swallow/86642/)
-
-['Eagle Eye': Let It Go to Voicemail](http://www.nysun.com/arts/eagle-eye-let-it-go-to-voicemail/86639/)
-
-['The Lucky Ones': Nothing Salves the Soul Like a Road Trip](http://www.nysun.com/arts/the-lucky-ones-nothing-salves-the-soul-like/86644/)  
-  
----|---|---
