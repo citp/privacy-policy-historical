@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoxpro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoxpro.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/privacy.htm) for the most accurate reproduction.*
 
 # Online Privacy Policy | Brain Management Online Course | ZOXPro.com
 
@@ -48,5 +48,5 @@ ________________________________________
 
 © 2008 ZOXpro.com ,All rights reserved. 
 
-**[Home](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/index.htm) |[](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/terms-conditions.htm) [Terms & Disclaimers](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/terms-conditions.htm) | [Privacy](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/privacy.htm) | [Contact](https://web.archive.org/web/20081216034659id_/http%3A//zoxpro.com/contact.htm)**  
+**[Home](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/index.htm) |[](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/terms-conditions.htm) [Terms & Disclaimers](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/terms-conditions.htm) | [Privacy](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/privacy.htm) | [Contact](https://web.archive.org/web/20090627072610id_/http%3A//www.zoxpro.com/contact.htm)**  
 
