@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216152113id_/http%3A//www.rentalhomesplus.com/RHP/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627033554id_/http%3A//www.rentalhomesplus.com/RHP/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,258 +16,6 @@
 
 
 
-<!-- Omniture Control -->
-
-<script type="text/javascript">
-var strTOH = ""
-var strbdrms = ""
-var strPets = ""
-var strAptAmen = "" 
-var strComAmen = ""
-</script>
-
-<script src="http://media.rentalhomesplus.com/jscript/common/RHP_s_code.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-var tv="";
-var gp = "";
-if(tv!=""){
-	var AffiliateType = "";
-}else{
-	if(gp!=""){
-		var AffiliateType = "partner";
-	}else{
-		var AffiliateType = "national";
-	}
-}
-var pageCheck = "privacypolicy";
-var stateN ="";
-var cityN = "";
-<!-- Shared -->	
-var regionName = "";
-var areaName = "";
-var subareaName = "";
-    if(pageCheck == "avsummary"){
-
-            if(PropType)
-            {
-                var avSummary = "photosbz";
-            }else{
-                var avSummary = "photos";
-            }
-    
-        var pname = avSummary;
-    }else{
-        var pname ="privacypolicy";
-		
-    }
-var siteName	= "RHP";
-var siteType 	= "";
-var contentType	= AffiliateType;
-var affName		= "";
-var domain		= siteName;
-
-var siteSection = "";
-
-//The condition below determines if a site section is defined in one of the cases above.
-//If a page is not in one of the cases above then it will default to the function below which will grab the directory where the page resides.
-
-	if (siteSection == "")
-	{
-		var url = window.location.href;
-		var dir = url.split('/');
-		var url2 = dir[dir.length - 1]; //removes www.apartments.com or www.rentalhomesplus.com
-		var pn2 = location.pathname; //page name
-		var directoryListing = pn2.substring(0,pn2.lastIndexOf('/')); //site section
-
-		siteSection=directoryListing.split('/');
-		siteSection = siteSection [siteSection.length-1];
-		
-	if (siteSection == "managercenter")
-			{ pname = "managercenter";}
-	}
-	else
-	{
-		siteSection;
-	}
-	
-var affName	= ""; 
-var affChannel 	
-var affPageName
-	if (affName == "")
-	{
-		affName = "national";
-		affChannel = "national" + ":" + siteSection;
-		if (siteSection == "managercenter")
-		{
-			pname = "managercenter";
-			affPageName = "national"+":"+ pname
-		}
-		else
-		{
-		affPageName = "national"+":privacypolicy";
-		}
-	}
-	else
-	{
-		affChannel 	= affName + ":" + siteSection;
-				if (siteSection == "managercenter")
-		{
-			pname = "managercenter";
-			affPageName = affName+":"+ pname;
-		}
-		else
-		{
-		affPageName = affName+":privacypolicy";
-		}
-	}
-		
-var premCount = "-1";
-var clasCount = "-1";
-var frboCount = "-1";
-var totalCount = "-1";
-var products = "";
-var mapLinksBoo;	
-
- s_clven.prop44="0";
-
-	s_clven.pageName= pname;
-	s_clven.products = products;
-	s_clven.prop2="-1";
-	s_clven.prop6= siteSection;
-	if(mapLinksBoo == "0"){prop37 = "Basic";}else if(mapLinksBoo == "1"){prop37 = "Enhanced";}else{prop37 = "";}
-	s_clven.prop29 = "";
-	
-	//prop29 for rhp city pages. Will override results prop29 when pagename's version exists.
- 
-	if(s_clven.pageName == "citypage")
-	{
-	    if(prop37== "Basic")
-	    {
-	        s_clven.prop29 = "Basic"
-	    }else if(prop37 =="Enhanced")
-	    {
-	        s_clven.prop29 = "Enhanced"
-	    }else
-	    {
-	        s_clven.prop29 = "";
-	    }
-	    if(s_clven.eVar25!=""){s_clven.eVar25 = s_clven.prop29;}
-    }
-    
-	//if(s_clven.eVar2!=""){s_clven.eVar2 = "<--%=CMPval%>";} - Implement internal campaign later
-	
-	s_clven.prop36= affChannel;
-	s_clven.prop16= stateN;//search st
-	s_clven.prop17= cityN;//search city
-	
-	s_clven.prop20= "";//search zip
-	s_clven.prop5= contentType;
-	s_clven.prop14= affName;
-	s_clven.prop15= affPageName;
-	
-	s_clven.prop21= "http://www.rentalhomesplus.com/RHP/privacypolicy.aspx";
-	s_clven.prop22= domain;
-	s_clven.prop33= "";
-	s_clven.prop32= "" + "." + "";
-	s_clven.prop7= "";
-	s_clven.prop8= "";
-	s_clven.hier1 = domain + "+" + siteSection + "+" + "" + "+" + "" + "+" + pname;
-	
-	s_clven.events="";
-	s_clven.eVar17="";
-	
-	s_clven.eVar26=""; //Listing Type
-
-
-
-<!-- Amenities -->	
-
-	s_clven.prop26=strTOH;//Housing Types
-	s_clven.prop27=strbdrms;//Rooms
-	s_clven.prop34=strPets;//Pets
-	s_clven.prop28=strAptAmen;//Apt Amenities
-	s_clven.prop30=strComAmen;//Comm Amenities
-	s_clven.prop37=prop37;//City Page Tag [enhanced or basic for RHP]
-
-
-if(s_clven.getQueryParam('Rent_Maximum') || s_clven.getQueryParam('Rent_Minimum')){
-	s_clven.prop18=s_clven.getQueryParam('Rent_Maximum');//max price
-	s_clven.prop19=s_clven.getQueryParam('Rent_Minimum');//min price	
-	}
-	
-
-<!-- Extras -->
-		var strResults=""
-		if(premCount != -1){
-		var managed =-1;//manage search result
-			if (strResults != ""){
-				strResults = "Manage_"+managed+":"+strResults;
-				}
-			else{
-			strResults = "Manage_"+managed
-			}
-
-		}
-		if(clasCount != -1){
-		var newspapers =-1;//newspaper search result
-			if (strResults != ""){
-				strResults = "News_"+newspapers+":"+strResults;
-				}
-			else{
-				strResults = "News_"+newspapers
-			}
-
-
-		}
-		if(frboCount != -1){
-		var privSear =-1;//private search result
-			if (strResults != ""){
-				strResults = "Priv_"+privSear+":"+strResults;
-				}
-			else{
-				strResults = "Priv_"+privSear
-			}
-
-
-		}
-		
-
-		if(regionName!= ""){
-		var regionN = "";	
-		regionN = regionN.toLowerCase();
-		s_clven.prop23=regionN;//getregion value
-
-		}
-
-		if(stateN != ""){
-		var stateName = stateN;
-		stateName = stateName.toLowerCase();
-		s_clven.prop16=stateName;//get state value
-
-		}
-		if(areaName != ""){
-		var areaN = "";
-		areaN = areaN.toLowerCase();
-		s_clven.prop24=areaN;//get area value
-		
-		}
-		if( subareaName != ""){
-		var subName = "";
-		subName=subName.toLowerCase();
-		s_clven.prop25=subName;//get sub area value
-		}
-			
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s_clven.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://apartmentsprod.112.2O7.net/b/ss/apartmentsprod/1/H.16--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.16. -->		
-<!-- End Omniture Control -->
-
 <script type="text/javascript">
 if(document.omni){
 if(document.omni.state.value != ""){
@@ -282,24 +30,35 @@ if(document.omni.state.value != ""){
 
 
 
-<div id="rhpHeader-container">
 
+<div id="rhpHeader-container">
 	<div id="rhpHeader-navigation">
-	<div id="rhpHeader-logo"><a href="http://www.rentalhomesplus.com" class="rhpHeader-logo"><img src="http://media.rentalhomesplus.com/images/rhp/logo.jpg" border="0" width="195" height="65" alt="Rent Houses"></a></div>
+	<div id="rhpHeader-logo"><a href="http://www.rentalhomesplus.com" class="rhpHeader-logo"><img src="http://media.rentalhomesplus.com/images/rhp/logo.jpg" style="border: 0px;" width="195" height="65" alt="Rent Houses"></a></div>
 	<div id="rhpHeader-buttons"> 
     <div id="rhpHeader-tabs">
 			<div id="rhpHeader-buttonOne" class="rhpHeader-orangeTab"><div class="rhpHeader-tabRightOrange"><div class="rhpHeader-tabLeftOrange"><a href="http://www.rentalhomesplus.com/?lid=Srch_Tab" class="rhpHeader-tabLink">Search Rental Homes</a></div></div></div>
-			<div id="rhpHeader-buttonTwo" class="rhpHeader-greenTab"><div id="rhpHeader-tabRightGreen"><div id="rhpHeader-tabLeftGreen"><a href="http://www.rentalhomesplus.com/managercenter/?lid=Mgr_Center_Tab" class="rhpHeader-tabLink">Manager Center</a></div></div></div>
-				<div id="rhpHeader-buttonThree" class="rhpHeader-greenTab"><div class="rhpHeader-tabRightGreen"><div class="rhpHeader-tabLeftGreen"><a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus" class="rhpHeader-tabLink">Moving Center</a></div></div></div>
+			
+            <div id="rhpHeader-buttonTwo" class="rhpHeader-greenTab"><div id="rhpHeader-tabRightGreen"><div id="rhpHeader-tabLeftGreen"><a href="http://www.rentalhomesplus.com/managercenter/?lid=Mgr_Center_Tab" class="rhpHeader-tabLink">Manager Center</a></div></div></div>
+            
+	 <div id="rhpHeader-buttonThree" class="rhpHeader-greenTab"><div class="rhpHeader-tabRightGreen"><div class="rhpHeader-tabLeftGreen"><a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus" class="rhpHeader-tabLink">Moving Center</a></div></div><div>
+  
 
-		</div>
+  
+
+ 
+ 
+ 
+</div>
+</div>
+</div>
+
 	</div>
 	</div>
 	<div class="clear"></div>
 
 <div id="rhpHeader-tagline"><div id="rhpHeader-taglineText"><h1>Find Homes for Rent, Townhouses, Condos and Duplexes. Thousands of Housing Rental listings!</h1></div>
 
-<iframe id="728_ifr" src="http://acc.apartments.com/hserver/acc_random=3485773711/aamsz=728x90/pos=leaderboard/SITE=RENTALHOMES/AREA=/PG=rhp_privacypolicy/AM=/BEDS=/HTYPE=/AFF=/pageid=210233" width="728" height="90" target="_blank" marginwidth="0" marginheight="0" frameborder="0" noresize="" scrolling="no"></iframe>
+<iframe id="728_ifr" src="http://acc.apartments.com/hserver/acc_random=9006604218/aamsz=728x90/pos=leaderboard/SITE=RENTALHOMES/AREA=/PG=rhp_privacypolicy/AM=/BEDS=/HTYPE=/AFF=/pageid=994271" width="728" height="90" target="_blank" marginwidth="0" marginheight="0" frameborder="0" noresize="" scrolling="no"></iframe>
 
 </div>
 </div> <div class="clear"></div>
@@ -375,20 +134,20 @@ function openViewRHP()
 </div>    
 <div class="leftnav-listContent">
 <ul>
-			<li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;FindRoommate&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000013fa0000000000000000/?&amp;partner=rentalhomesplus">Find a Roommate</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;MovingQuotes&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000013fb0000000000000000/?&amp;partner=rentalhomesplus">Moving Quotes</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;RentTruck&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000013fc0000000000000000/?&amp;partner=rentalhomesplus">Rent a Truck</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;PackingSupplies&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000013fd0000000000000000/?&amp;partner=rentalhomesplus">Packing Supplies</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;YouPackWeMove&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=00001ddc0000000000000000/?&amp;partner=rentalhomesplus">You Pack, We Move</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;ConnectUtilities&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000016080000000000000000/?&amp;partner=rentalhomesplus" target="_blank">Connect Utilities</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;ConnectCable&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000004600000000000000000/?&amp;partner=rentalhomesplus">Connect Cable</a></span></li> 
-			<li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;ConnectPhone&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000003310000000000000000/?&amp;partner=rentalhomesplus">Connect Phone</a></span></li> 
-			<li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;ConnectInternet&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=0000239e0000000000000000/?&amp;partner=rentalhomesplus">Connect Internet</a></span></li> 
-			<li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;AutoInsurance&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000021030000000000000000/?&amp;partner=rentalhomesplus">Auto Insurance</a></span></li> 
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;RentersInsurance&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000021040000000000000000/?&amp;partner=rentalhomesplus">Renters Insurance</a></span></li><br>
+			<li>- <span><a onclick="_OMNLink('17',this,'MediaSales','FindRoommate','34');" href="http://acc.apartments.com/adclick/CID=000013fa0000000000000000/?&amp;partner=rentalhomesplus" target="_blank">Find a Roommate</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','MovingQuotes','34');" href="http://acc.apartments.com/adclick/CID=000013fb0000000000000000/?&amp;partner=rentalhomesplus">Moving Quotes</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','RentTruck','34');" href="http://acc.apartments.com/adclick/CID=000013fc0000000000000000/?&amp;partner=rentalhomesplus">Rent a Truck</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','PackingSupplies','34');" href="http://acc.apartments.com/adclick/CID=000013fd0000000000000000/?&amp;partner=rentalhomesplus">Packing Supplies</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','YouPackWeMove','34');" href="http://acc.apartments.com/adclick/CID=00001ddc0000000000000000/?&amp;partner=rentalhomesplus">You Pack, We Move</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','ConnectUtilities','34');" href="http://acc.apartments.com/adclick/CID=000016080000000000000000/?&amp;partner=rentalhomesplus" target="_blank">Connect Utilities</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','ConnectCable','34');" href="http://acc.apartments.com/adclick/CID=000004600000000000000000/?&amp;partner=rentalhomesplus">Connect Cable</a></span></li> 
+			<li>- <span><a onclick="_OMNLink('17',this,'MediaSales','ConnectPhone','34');" href="http://acc.apartments.com/adclick/CID=000003310000000000000000/?&amp;partner=rentalhomesplus">Connect Phone</a></span></li> 
+			<li>- <span><a onclick="_OMNLink('17',this,'MediaSales','ConnectInternet','34');" href="http://acc.apartments.com/adclick/CID=0000239e0000000000000000/?&amp;partner=rentalhomesplus">Connect Internet</a></span></li> 
+			<li>- <span><a onclick="_OMNLink('17',this,'MediaSales','AutoInsurance','34');" href="http://acc.apartments.com/adclick/CID=000021030000000000000000/?&amp;partner=rentalhomesplus">Auto Insurance Quote</a></span></li> 
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','RentersInsurance','34');" href="http://acc.apartments.com/adclick/CID=000021040000000000000000/?&amp;partner=rentalhomesplus">Renters Insurance</a></span></li><br>
             <li><strong>Credit Resources</strong></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;FreeCreditScore&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000014040000000000000000/?&amp;partner=rentalhomesplus" target="_blank">FREE Credit Score</a></span></li>
-            <li>- <span><a onclick="_OMNLink(&quot;17&quot;,this,&quot;MediaSales&quot;,&quot;FreeChecking&quot;,&quot;34&quot;);" href="http://acc.apartments.com/adclick/CID=000014050000000000000000/?&amp;partner=rentalhomesplus">Free Checking</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','FreeCreditScore','34');" href="http://acc.apartments.com/adclick/CID=000014040000000000000000/?&amp;partner=rentalhomesplus" target="_blank">FREE Credit Score</a></span></li>
+            <li>- <span><a onclick="_OMNLink('17',this,'MediaSales','FreeChecking','34');" href="http://acc.apartments.com/adclick/CID=000014050000000000000000/?&amp;partner=rentalhomesplus">Free Checking</a></span></li>
 </ul>
 </div>
 </div>
@@ -410,6 +169,8 @@ function openViewRHP()
             <li>- <span><a href="/RentersResources/makingyourhomecomfortable.aspx">Making Your Home Comfortable</a></span></li>
             <li>- <span><a href="/RentersResources/questionstoaskwhenyourent.aspx">Questions to Ask When <br>You Rent</a></span></li>
             <li>- <span><a href="/RentersResources/renterrights.aspx">Renters' Rights</a></span></li>
+            <li>- <span><a href="/RentersResources/renterrights.aspx">Renters' Rights</a></span></li>
+            <li>- <span><a href="http://www.apartmenthomeliving.com/" title="Apartment Living Guide " target="_blank">Apartment Living Guide</a></span></li>
             <li>- <span><a href="/RentersResources/default.aspx">More...</a></span></li>
 </ul>
 <div class="clear"></div>
@@ -515,27 +276,28 @@ function openViewRHP()
 <div>
 <p class="bottom-text">RentalHomesPlus.com lets you search thousands of homes for rent FREE! This site doesn?t just list houses for rent. We have property listings of all shapes and sizes, including condos, townhomes and duplexes.  RentalHomesPlus.com connects people to thousands of rental properties everyday. Landlords, rental property managers and real estate agents across the U.S. are taking advantage of our <a href="/managercenter/?lid=Mgr_Center_Tab">Manager Center</a> services to help us bring you the highest quality rental home listings. Thanks for visiting RentalHomesPlus.com.</p>
 	  
-    <p><a href="/RHP/aboutus.aspx">About Us</a> | <a href="https://hostedjobs.openhire.com/epostings/jobs/submit.cfm?version=1&amp;company_id=15937">Careers</a> | <a href="/RHP/sitemap.aspx">Sitemap</a> | <a href="/managercenter/?lid=Mgr_Center_Tab">Manager Center</a> | <a href="/managercenter/?lid=Mgr_Center_Tab">Post a Listing</a> | <a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a> | <a href="/RHP/contactus.aspx">Contact Us</a> | <a href="/RHP/links.aspx">Links</a></p>
+    <p><a href="/RHP/aboutus.aspx" rel="nofollow">About Us</a> | <a href="https://hostedjobs.openhire.com/epostings/jobs/submit.cfm?version=1&amp;company_id=15937">Careers</a> | <a href="/RHP/sitemap.aspx">Sitemap</a> | <a href="/managercenter/?lid=Mgr_Center_Tab">Manager Center</a> | <a href="/managercenter/?lid=Mgr_Center_Tab">Post a Listing</a> | <a href="http://www.movingcenter.com/mc.dll?page=home&amp;partner=rentalhomesplus">Moving Center</a> | <a href="/RHP/contactus.aspx">Contact Us</a> | <a href="/RHP/links.aspx">Links</a></p>
 	  
-    <p><a href="/RHP/fraud_awareness_tips.aspx"><span class="fraudlink">Consumer Alert: Avoiding Scams and Fraud</span></a></p>
+    <p><a href="/RHP/fraud_awareness_tips.aspx"><span class="fraudlink" rel="nofollow">Consumer Alert: Avoiding Scams and Fraud</span></a></p>
  
 <p><span class="partners">Visit our partners:&nbsp;
 				  	<a href="http://www.apartments.com/" target="_blank">Apartments.com</a>&nbsp;|&nbsp;
 				  	<a href="http://www.cars.com/" target="_blank">Cars.com</a>&nbsp;&nbsp;|&nbsp;
-				  	<a href="http://www.homescape.com/" target="_blank">Real Estate</a>&nbsp;|&nbsp; 
+                    <strong><a href="http://www.apartmenthomeliving.com" target="_blank">Apartment Home Living</a></strong>&nbsp;|&nbsp;
+                    <a href="http://www.homefinder.com" target="_blank">Homes for Sale</a>&nbsp;|&nbsp;
+				  	<a href="http://www.homegain.com/" target="_blank">Find a Realtor</a>&nbsp;|&nbsp; 
 				  	<a href="http://www.careerbuilder.com/" target="_blank">CareerBuilder.com</a>&nbsp;|&nbsp;
 				  	<a href="http://www.shoplocal.com/" target="_blank">ShopLocal.com</a>&nbsp;|&nbsp;
-				  	<a href="http://www.homegain.com/" target="_blank">Find a Realtor</a>&nbsp;|&nbsp;
 				  	<a href="http://www.newcars.com/" target="_blank">NewCars.com</a>&nbsp;</span>
 				</p>
     
-  <p>By using this site, you agree to our <a href="/RHP/termsofservice.aspx">terms of service</a><br>
+  <p>By using this site, you agree to our <a href="/RHP/termsofservice.aspx" rel="nofollow">terms of service</a><br>
                   <script language="javascript" type="text/javascript">
                 var d = new Date();
                 var curr_year = d.getFullYear();
                 document.write(curr_year);
                 </script>2020 
-                Classified Ventures, LLC | <a href="/RHP/privacypolicy.aspx">Privacy Statement</a> | <a href="/RHP/equalhousingopportunity.aspx">Equal Housing Opportunity</a></p>
+                Classified Ventures, LLC | <a href="/RHP/privacypolicy.aspx" rel="nofollow">Privacy Statement</a> | <a href="/RHP/equalhousingopportunity.aspx" rel="nofollow">Equal Housing Opportunity</a></p>
 
 </div>
 </div>
@@ -587,7 +349,7 @@ if(document.getElementById("homebox2")){document.getElementById("homebox2").src 
 function loadPrintBroAd(){
 var tag=""+ adserver +"hserver/acc_random="+random+"/aamsz=printbrochure/pos=leaderboard/"+target+"/pageid="+pageid+"";
 var tagj=""+ adserver +"jserver/acc_random="+random+"/aamsz=printbrochure/pos=leaderboard/"+target+"/pageid="+pageid+"";
-if(page=="printfriend" && document.getElementById("728_printf")){document.getElementById("728_printf").src = tag;}
+if((page=="printfriend" || page=="partner_printfriend") && document.getElementById("728_printf")){document.getElementById("728_printf").src = tag;}
 }
 
 //load leaderboard 728X90
@@ -607,9 +369,10 @@ if(document.getElementById("120_ifr")){document.getElementById("120_ifr").src = 
 //Loads right skyscraper 160X600
 function loadRightRailAd(){
 var tag=""+ adserver +"hserver/acc_random="+random+"/aamsz=160x600/pos=skyscraper/"+target+"/pageid="+pageid+"";
+var tagbtf=""+ adserver +"hserver/acc_random="+random+"/aamsz=160x600_BTF/pos=skyscraper/"+target+"/pageid="+pageid+"";
 var tagj=""+ adserver +"jserver/acc_random="+random+"/aamsz=160x600/pos=skyscraper/"+target+"/pageid="+pageid+"";
 if(document.getElementById("160_ifr")){document.getElementById("160_ifr").src = tag;}
-
+if(document.getElementById("160btf_ifr")){document.getElementById("160btf_ifr").src = tagbtf;}
 }
 
 //Loads bottom ads
@@ -642,6 +405,19 @@ var tagj=""+ adserver +"jserver/acc_random="+random+"/aamsz=resultstxt/"+target+
 if(document.getElementById("scrollframe")){document.getElementById("scrollframe").src = tag;}
 }
 
+//Loads 120X60 State Farm ad on the location page
+function loadMapLogoAd(){
+var tag=""+ adserver +"hserver/acc_random="+random+"/aamsz=120x60/pos=maplogo/"+target+"/pageid="+pageid+"";
+if(document.getElementById("maplogo_ifr")){document.getElementById("maplogo_ifr").src = tag;}
+}
+
+//Loads 120X60 State ad on the all the property detail pages (MC section)
+function loadSFLogoPropDetailAd(){
+var tag=""+ adserver +"hserver/acc_random="+random+"/aamsz=120x60/pos=propdetail/"+target+"/pageid="+pageid+"";
+if(document.getElementById("sflogo_propdetail_ifr")){document.getElementById("sflogo_propdetail_ifr").src = tag;}
+}
+
+
 function renderFCL(divName, aambTag)
 {
 	
@@ -662,6 +438,8 @@ if (!(page=="region" || page=="area" || page=="community" || page=="rent" )){loa
 if ((screen.width>870)){loadRightRailAd();}
 loadBottomAds();
 loadPrintBroAd();
+if(page=="location" || "locationbz"){loadMapLogoAd();}
+if(page=="summary" || page=="summarybz" || page=="summaryclad" || page=="location" || "locationbz" || page=="avsummary" || page=="cvcommunity" || page=="friendemail"){loadSFLogoPropDetailAd();}
 }
 
 // Refresh all ads
@@ -674,6 +452,7 @@ loadAds();
 //Here we go!
 loadAds();
 </script>
+
 <!-- Start Kampyle Css -->
 <link rel="stylesheet" type="text/css" media="screen" href="/css/k_button.css">
 <!-- End Kampyle Css -->
@@ -694,6 +473,344 @@ qacct:"p-75NI4qUjOz16c"
 <img src="http://pixel.quantserve.com/pixel/p-75NI4qUjOz16c.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+
+
+
+<script type="text/javascript">
+function newAffiliateCookie(name,value) {
+  document.cookie = name+"="+value; 
+}
+
+function readAffiliateCookie(name) {
+  var nameSG = name + "=";
+  var ca = document.cookie.split(';');
+ for(var i=0; i<ca.length; i++) {
+   var c = ca[i];
+   while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameSG) == 0) return c.substring(nameSG.length,c.length); }
+  return null; }
+
+
+</script>
+
+
+<script type="text/javascript">
+var strTOH = "";
+var strbdrms = "";
+var strPets = "";
+var strAptAmen = "";
+var strComAmen = "";
+</script>
+
+<script src="http://media.rentalhomesplus.com/jscript/common/RHP_s_code.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var tv="";
+var gp = "";
+if(tv!="")
+{
+	var AffiliateType = "";
+}
+else
+{
+	if(gp!=""){
+		var AffiliateType = "partner";
+	}
+	else
+	{
+		var AffiliateType = "national";
+	}
+}
+var pageCheck = "privacypolicy";
+var stateN ="";
+var cityN = "";
+<!-- Shared -->	
+var regionName = "";
+var areaName = "";
+var subareaName = "";
+var PropType = "";
+var siteName	= "RHP";
+    if(pageCheck == "avsummary")
+	{
+            if(PropType == "3" || siteName == "RHP")
+            {
+                var avSummary = "photosbz";
+            }
+			else
+			{
+                var avSummary = "photos";
+            }
+    
+        var pname = avSummary;
+    }
+	else
+	{
+        var pname ="privacypolicy";
+    }
+	
+
+var siteType 	= "";
+var contentType	= AffiliateType;
+var affName		= "";
+var domain		= siteName;
+var siteSection = "";
+</script>
+
+
+
+
+
+<script type="text/javascript">
+var hasvidVar =  "none";
+</script>
+     
+ <script type="text/javascript">
+ 
+ 
+//The condition below determines if a site section is defined in one of the cases above.
+//If a page is not in one of the cases above then it will default to the function below which will grab the directory where the page resides.
+
+	if (siteSection == "")
+	{
+		var url = window.location.href;
+		var dir = url.split('/');
+		var url2 = dir[dir.length - 1]; //removes www.apartments.com or www.rentalhomesplus.com
+		var pn2 = location.pathname; //page name
+		var directoryListing = pn2.substring(0,pn2.lastIndexOf('/')); //site section
+
+		siteSection=directoryListing.split('/');
+		siteSection = siteSection [siteSection.length-1];
+		
+	if (siteSection == "managercenter")
+	{
+		pname = "managercenter";
+	}
+	}
+	else
+	{
+		siteSection;
+	}
+	
+var affName	= ""; 
+var affChannel ;
+var affPageName;
+	if (affName == "")
+	{
+		affName = "national";
+		affChannel = "national" + ":" + siteSection;
+		if (siteSection == "managercenter")
+		{
+			pname = "managercenter";
+			affPageName = "national"+":"+ pname;
+		}
+		else
+		{
+		 affPageName = "national"+":privacypolicy";
+		}
+	}
+	else
+	{
+		affChannel 	= affName + ":" + siteSection;
+		if (siteSection == "managercenter")
+		{
+			pname = "managercenter";
+			affPageName = affName+":"+ pname;
+		}
+		else
+		{
+			affPageName = affName+":privacypolicy";
+		}
+	}
+		
+var premCount = "-1";
+var clasCount = "-1";
+var frboCount = "-1";
+var totalCount = "-1";
+var products = "";
+var mapLinksBoo;	
+ 
+ if (readAffiliateCookie("affid")==null){
+ 		newAffiliateCookie("affid", affName);
+
+	}
+ 		s_clven.eVar49 =(readAffiliateCookie("affid"));
+ s_clven.prop44="0";
+
+	s_clven.pageName= pname;
+	s_clven.products = products;
+	s_clven.prop2="-1";
+	s_clven.prop6= siteSection;
+	if(mapLinksBoo == "0")
+	{
+		prop37 = "Basic";
+	}
+	else if(mapLinksBoo == "1")
+	{
+		prop37 = "Enhanced";
+	}
+	else
+	{
+		prop37 = "";
+	}
+	s_clven.prop29 = "";
+	
+	//prop29 for rhp city pages. Will override results prop29 when pagename's version exists.
+ 
+	if(s_clven.pageName == "citypage")
+	{
+	    if(prop37== "Basic")
+	    {
+	        s_clven.prop29 = "Basic";
+	    }
+		else if(prop37 =="Enhanced")
+	    {
+	        s_clven.prop29 = "Enhanced";
+	    }
+		else
+	    {
+	        s_clven.prop29 = "";
+	    }
+	    if(s_clven.eVar25!="")
+		{
+			s_clven.eVar25 = s_clven.prop29;
+			
+		}
+    }
+    
+	//if(s_clven.eVar2!=""){s_clven.eVar2 = "<--%=CMPval%>";} - Implement internal campaign later
+	s_clven.prop9= hasvidVar;
+	s_clven.prop36= affChannel;
+	s_clven.prop16= stateN;//search st
+	s_clven.prop17= cityN;//search city
+	
+	s_clven.prop20= "";//search zip
+	s_clven.prop5= contentType;
+	s_clven.prop14= affName;
+	s_clven.prop15= affPageName;
+	
+	s_clven.prop21= "http://www.rentalhomesplus.com/RHP/privacypolicy.aspx";
+	s_clven.prop22= domain;
+	s_clven.prop33= "";
+	s_clven.prop32= "" + "." + "";
+	s_clven.prop7= "";
+	s_clven.prop8= "";
+	s_clven.hier1 = domain + "+" + siteSection + "+" + "" + "+" + "" + "+" + pname;
+	
+	s_clven.events="";
+	s_clven.eVar17="";
+	
+	s_clven.eVar26=""; //Listing Type
+
+
+
+<!-- Amenities -->	
+
+	s_clven.prop26=strTOH;//Housing Types
+	s_clven.prop27=strbdrms;//Rooms
+	s_clven.prop34=strPets;//Pets
+	s_clven.prop28=strAptAmen;//Apt Amenities
+	s_clven.prop30=strComAmen;//Comm Amenities
+	s_clven.prop37=prop37;//City Page Tag [enhanced or basic for RHP]
+
+
+if(s_clven.getQueryParam('Rent_Maximum') || s_clven.getQueryParam('Rent_Minimum'))
+{
+	s_clven.prop18=s_clven.getQueryParam('Rent_Maximum');//max price
+	s_clven.prop19=s_clven.getQueryParam('Rent_Minimum');//min price	
+}
+	
+
+<!-- Extras -->
+		var strResults="";
+		if(premCount != -1)
+		{
+			var managed =-1;//manage search result
+			if (strResults != "")
+			{
+				strResults = "Manage_"+managed+":"+strResults;
+			}
+			else
+			{
+				strResults = "Manage_"+managed;
+			}
+
+		}
+		if(clasCount != -1)
+		{
+			var newspapers =-1;//newspaper search result
+			if (strResults != "")
+			{
+				strResults = "News_"+newspapers+":"+strResults;
+			}
+			else
+			{
+				strResults = "News_"+newspapers;
+			}
+
+
+		}
+		if(frboCount != -1)
+		{
+			var privSear =-1;//private search result
+			if (strResults != "")
+			{
+				strResults = "Priv_"+privSear+":"+strResults;
+			}
+			else
+			{
+				strResults = "Priv_"+privSear;
+			}
+
+
+		}
+		
+		
+		
+
+		if(regionName!= "")
+		{
+			var regionN = "";	
+			regionN = regionN.toLowerCase();
+			s_clven.prop23=regionN;//getregion value
+		}
+
+		if(stateN != "")
+		{
+		var stateName = stateN;
+		stateName = stateName.toLowerCase();
+		s_clven.prop16=stateName;//get state value
+		}
+		
+		if(areaName != "")
+		{
+			var areaN = "";
+			areaN = areaN.toLowerCase();
+			s_clven.prop24=areaN;//get area value
+		}
+		if( subareaName != "")
+		{
+		var subName = "";
+		subName=subName.toLowerCase();
+		s_clven.prop25=subName;//get sub area value
+		}
+
+
+ 
+
+//Code that grabs the CD value from a google referring url
+ 
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_clven.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://apartmentsprod.112.2O7.net/b/ss/apartmentsprod/1/H.16--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.16. -->		
+
+
+ 
 </div>
 
 
