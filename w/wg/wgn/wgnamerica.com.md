@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wgnamerica.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920070304id_/http%3A//www.wgnamerica.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgnamerica.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627224939id_/http%3A//www.wgnamerica.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy : WGN America : TV You Can't Ignore
+# WGN America - Privacy Policy
 
 **Last Updated: May, 2006**
 
@@ -16,7 +16,7 @@ Like most Web sites, WGNAMERICA.com also collects information automatically and 
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WGNAMERICA.com to communicate with you regarding our [Terms of Service](https://web.archive.org/web/20080920070304id_/http%3A//www.wgnamerica.com/termsofservice.html) and privacy policy, products and services offered by WGNAMERICA.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on WGNAMERICA.com to communicate with you regarding our [Terms of Service](https://web.archive.org/web/20090627224939id_/http%3A//www.wgnamerica.com/pages/termsofservice.html) and privacy policy, products and services offered by WGNAMERICA.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by WGNAMERICA.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -58,5 +58,3 @@ WGNAMERICA.com reserves the right to change this policy at any time. Please chec
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of WGNAMERICA.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. WGNAMERICA.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
-
-Copyright © 2008, WGN AMERICA
