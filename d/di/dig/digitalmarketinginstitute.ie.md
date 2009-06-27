@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219155655id_/http%3A//www.digitalmarketinginstitute.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627150748id_/http%3A//www.digitalmarketinginstitute.ie/the-digital-marketing-institute-privacy-policy) for the most accurate reproduction.*
 
-# » The Digital Marketing Institute - Privacy Policy
+# online marketing | digital marketing course | google analytics training |
 
 We understand that many companies and individuals have information of a sensitive nature pertaining to them or their clients and thus we take great care to ensure the highest possible levels of privacy.  
 To this end below are the details of our “Privacy Policy” which outlines our procedures on the collection and use of Client information. 
