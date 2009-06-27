@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzdash.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218155014id_/http%3A//www.buzzdash.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzdash.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627140834id_/http%3A//www.buzzdash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BuzzDash
 
