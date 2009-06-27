@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100057id_/http%3A//www.conferencealerts.com/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferencealerts.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627201112id_/http%3A//www.conferencealerts.com/priv.htm) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ Conference Alerts values your privacy and we have taken every precaution to ensu
 
 1.4. Tracking information regarding which parts of our site you visit.
 
-1.5. We participate in the Google Adsense program, and as part of this program, cookies and/or web beacons may be used to collect data in the ad serving process.
+1.5. We participate in the Google Adsense program, and as part of this program, cookies and/or web beacons are used to collect data in the ad serving process. Google's use of the DART cookie enables it to serve interest-based ads to users based on their visit to our site and other sites on the Internet. 
 
 **2\. What we do with information collected**
 
@@ -34,4 +34,4 @@ As a general rule we will not disclose personal profile information to third par
 
 3.3. If you were specifically informed that this would happen before providing us with personal information.
 
-3.4 We allow the Google Adsense program to use cookies and/or web beacons in the ad serving process.
+3.4 We allow the Google Adsense program to use cookies and/or web beacons in the ad serving process. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
