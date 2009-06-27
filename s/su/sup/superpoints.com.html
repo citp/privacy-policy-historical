@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the superpoints.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217085629id_/http%3A//www.superpoints.com/super_points/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superpoints.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627020813id_/http%3A//superpoints.com/super_points/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="keywords" content="rewards, points programs, points, reward programs, airline miles, sweepstakes, games, casual games, freebies, prizes, free prizes, superpoints, luckysearch, reward ladder, reward shopping, cash back, free">
 	<meta name="description" content="The SuperPoints Network rewards users for doing the things they do online every day - searching, sharing, and shopping. SuperPoints can be redeemed for valuable rewards, including gift cards, electronics, and even cars!">
 
   <title>SuperPoints Network</title>
-  <link href="/stylesheets/super_points/base.css?1229116170" media="screen" rel="stylesheet" type="text/css">
+	
+  		<link href="http://www.superpoints.com/stylesheets/super_points/base.css?1245952135" media="screen" rel="stylesheet" type="text/css">
+		
   
 	<link rel="shortcut icon" href="/sp_symbol.gif">
-	<script src="/javascripts/moo.js?1229116170" type="text/javascript"></script>
-	<script src="/javascripts/stu.js?1229116170" type="text/javascript"></script>
-	<script src="/javascripts/fixpng.js?1229116170" type="text/javascript"></script>
+	<script src="http://www.superpoints.com/javascripts/moo.js?1245952135" type="text/javascript"></script>
+	<script src="http://www.superpoints.com/javascripts/stu.js?1245952135" type="text/javascript"></script>
+	<script src="http://www.superpoints.com/javascripts/fixpng.js?1245952135" type="text/javascript"></script>
 	
 	<!--[if lt IE 7]>
 	<script defer type="text/javascript" src="/fixpng2.js"></script>
@@ -21,13 +23,191 @@
 		
 </head>
 <body>
-  <div id="wrapper">
-  <div id="shadow">
-    <!--<img id="toplogo" src="super_points/top_logo.jpg" alt="" />-->
-    	<div id="ttop">
-	<img alt="Top_logo" id="toplogo" src="/images/super_points/top_logo.jpg?1229116170">
-	<div id="gma"> <a href="http://abcnews.go.com/Video/playerIndex?id=6035614" target="_blank"><img alt="Gma" src="/images/super_points/gma.jpg?1229116170"></a> </div>
+
+  
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[
+         window.addEvent('domready', function() {
+           FB_RequireFeatures(["XFBML"], function() {
+             FB.Facebook.init('17fc5d07b7e65c780f969a3123f18758','/xd_receiver.html');
+           });
+         });
+
+//]]>
+</script>
+
+	<div style="position:relative">
+		<div style="position:absolute; top:0px; left:0px; width:100%;">
+			  <div id="wrapper">
+			  <div id="shadow">
+			    <!--<img id="toplogo" src="super_points/top_logo.jpg" alt="" />-->
+			    	<link href="/stylesheets/rendered/blue_bar.css?13" media="screen" rel="Stylesheet" type="text/css">
+<link href="/stylesheets/rendered/super_points/account.css?13" media="screen" rel="Stylesheet" type="text/css">
+
+<script type="text/javascript">
+	function button_on(button) {
+		all_buttons_off();
+		
+		$(button+"_off").hide();
+		$(button+"_on").show();
+	}
+	
+	function all_buttons_off() {
+		$$('.blue_bar_on_button').each(function(x){
+			x.hide();
+		})
+		$$('.blue_bar_off_button').each(function(x){
+			x.show();
+		})
+	}
+	
+	function highlight(item) {
+		unhighlight_all();
+		item.setStyle("background", "#A4DEF4");
+		item.getElement('a').setStyle("color", "white");
+		return false;
+	}
+	
+	function highlight_text(div) {
+		all_buttons_off();
+		div.setProperty('class', 'blue_bar_text_on');
+		if(div.getProperty('id') == 'sp_points') {
+			$('sp_off').hide();
+			$('sp_on').show();
+		}
+	}
+	
+	function unhighlight_all() {
+		$$('.blue_bar_on_item').each(function(x) {
+			x.setStyle("background", "white");
+			x.getElement('a').setStyle("color", "#336699");
+		})
+	}
+	
+	function unhighlight_text(div) {
+		unhighlight_all();
+		div.setProperty('class', 'blue_bar_text');
+		if(div.getProperty('id') == 'sp_points') {
+			$('sp_on').hide();
+			$('sp_off').show();
+		}
+	}
+	
+	function clear_prompt(inp) {
+		if(inp.getValue() == "LuckySearch and win!") {
+			inp.value = '';
+			inp.setStyle('color', 'black');
+			inp.setStyle('font-style', 'normal');
+		}
+	}
+	
+	function reshow_prompt(inp) {
+		if(inp.getValue() == '') {
+			inp.value = 'LuckySearch and win!';
+			inp.setStyle('color', '#C1C1C1');
+			inp.setStyle('font-style', 'italic');
+		}
+	}
+	
+</script>
+
+<div class="blue_bar">
+	<div id="blue_bar_sp_logo"> 
+		<a href="http://www.superpoints.com/"><img alt="Blue_bar_sp_logo" src="http://www.superpoints.com/images/reward_ladder/blue_bar_sp_logo.jpg?1245952135"></a> 
+	</div>
+	
+	<div id="blue_bar_home" style="width:54px">
+		<div id="blue_bar_home_off" class="blue_bar_off_button blue_bar_text">
+			<a href="http://super_points.superpoints.com/account" onmouseover="button_on('blue_bar_home'); return false;">Home</a>
+		</div>
+		<div id="blue_bar_home_on" class="blue_bar_on_button" style="display:none; position:relative">
+			<div class="blue_bar_on_label blue_bar_text_on" style="width:54px">
+				<a href="http://www.superpoints.com/account">Home</a>
+			</div>
+			
+			<div class="blue_bar_on_menu">
+				<div class="blue_bar_on_item">
+					<a href="http://www.superpoints.com/">SuperPoints Network</a>
+				</div>
+				<div class="blue_bar_on_item">
+					<a href="http://rewardladder.superpoints.com/">Reward Ladder</a>
+				</div>
+				<div class="blue_bar_on_item">
+					<a href="http://rewardshopping.superpoints.com/">RewardShopping</a>
+				</div>
+				<div class="blue_bar_on_item">
+					<a href="http://luckysearch.superpoints.com/">LuckySearch</a>
+				</div>
+				<!--
+				<div class="blue_bar_on_item">
+					<a href="http://www.superpoints.com/causes">Causes / Fundraising</a>
+				</div>
+			-->
+			</div>
+		</div>
+	</div>
+	
+		
+	<div id="blue_bar_rc" class="blue_bar_text" onmouseover="highlight_text($(&quot;blue_bar_rc&quot;)); return false;" onmouseout="unhighlight_text($(&quot;blue_bar_rc&quot;)); return false;">
+		
+			<a href="http://www.superpoints.com/redeem">Rewards Catalog</a>
+			</div>
+	
+	
+	
+		<div style="width:448px;"> &nbsp; </div>
+		
+	
+		
+		
+		
+	<div id="blue_bar_logout" class="blue_bar_text" onmouseover="highlight_text($(&quot;blue_bar_logout&quot;)); return false;" onmouseout="unhighlight_text($(&quot;blue_bar_logout&quot;)); return false;">
+		
+			<a href="#" onclick="$('sign_in_dialog').fadeIn(1000);">Sign In</a>
+			</div>
+	
+	<div id="blue_bar_search">
+		<form action="http://luckysearch.superpoints.com/search" method="get">
+			<div id="searcher">
+				<input id="q" name="q" onblur="reshow_prompt($('q')); return false;" onfocus="all_buttons_off(); clear_prompt($('q')); return false;" type="text" value="LuckySearch and win!">
+			</div>
+			<div id="searcher_submit">
+				<input src="http://www.superpoints.com/images/reward_ladder/search_btn_2.jpg?1245952135" type="image">
+			</div>
+			<div style="clear:both"> </div>
+		</form>
+	</div>
 </div>
+
+<script type="text/javascript">
+	
+	function bind_events() {		
+		// Handle mouse-over highlighting for sub-links
+		$$('.blue_bar_on_item').each(function(x) {
+			x.addEvent('mouseenter', function(){ highlight(x); return false; });
+			x.addEvent('mouseleave', function(){ unhighlight_all(); return false; });
+		})
+		
+		// Handle menu hiding
+		$$('.blue_bar_on_menu').each(function(x) {
+			x.addEvent('mouseleave', function(){ all_buttons_off(); return false; });
+		})
+		
+		return false;
+	}
+	
+	bind_events();
+	
+</script>
+
+
+<div style="clear:both">&nbsp;</div>
+
+
+	<div id="page_header">
+	  	<a href="/"><img alt="Superpoints_banner" id="superpoints_banner" src="http://www.superpoints.com/images/super_points/superpoints_banner.jpg?1245952135"></a>
+	</div>
 
 
 <div id="content">
@@ -133,46 +313,111 @@
 	</p>
 </div>
 
-  </div><!-- end div shadow -->
-  <div id="bottom">
-  <p>
-  <span id="bottomnav">
-	
-		<a href="/super_points/sign_in">Sign In</a> &nbsp;|&nbsp;
-	    <a href="/super_points/faq">FAQ</a> &nbsp;|&nbsp;
-    <a href="/super_points/how_it_works">About Us</a> &nbsp;|&nbsp;
-    <a href="/super_points/tos">Terms of Service</a> &nbsp;|&nbsp;
-    <a href="/super_points/privacy">Privacy Policy</a> &nbsp;|&nbsp;
-    <a href="/super_points/contact_us">Contact Us</a>
-	  </span> 
-  © 2008 by Westlake Products, Inc.
-  </p>
-</div><!-- end div bottom -->
-
-<div id="footer_bottom">
-	<div id="footer_bottom_left">
-		<div id="sp_logo">
-			<a href="http://www.superpoints.com/super_points"><img alt="Sp_logo" class="fixPNG" src="/images/reward_ladder/sp_logo.png?1229116170"></a>
-		</div>
-		<div id="footer_separator"> &nbsp; </div>
-		<div id="footer_logos">
-			<div id="footer_logos_content">
-				<a href="http://www.luckysearch.com/lucky_search">LuckySearch</a> &nbsp;&nbsp;
-				<a href="http://www.rewardshopping.com/shopping">RewardShopping</a> &nbsp;&nbsp;
-				<a href="http://www.rewardladder.com/reward_ladder">Reward Ladder</a>
-			</div>
-		</div>
+			  </div><!-- end div shadow -->
+			
+			  
+			  	<div id="footer">
+    <div class="float_left" id="facebook_pill">
+		<a href="http://apps.facebook.com/rewardladder"><img alt="Facebook_pill" src="http://www.superpoints.com/images/super_points/facebook_pill.jpg?1245952135"></a>
+    </div>
+	<div class="float_left" id="footer_links">
+		 <a href="http://www.superpoints.com/"><img alt="Sp_logo" class="fixPNG mid_align" src="http://www.superpoints.com/images/reward_ladder/sp_logo.png?1245952135"></a>
+		<span id="footer_separator"> &nbsp; </span>
+		<a href="http://luckysearch.superpoints.com/">LuckySearch</a> &nbsp;&nbsp;
+		<a href="http://rewardshopping.superpoints.com/">RewardShopping</a> &nbsp;&nbsp;
+		<a href="http://rewardladder.superpoints.com/">Reward Ladder</a>
 	</div>
 
-	<div id="bbb">
-		<a href="http://www.bbb.org"><img alt="Bbb_grey" src="/images/super_points/bbb_grey.jpg?1229116170"></a>
+	<div class="float_left" id="bbb_pill">
+		<a href="http://www.bbb.org"><img alt="Bbb_pill" src="http://www.superpoints.com/images/super_points/bbb_pill.jpg?1245952135"></a>
 	</div>
-	
 	<div style="clear:both"></div>
 </div>
+	
+<div style="clear:both"></div>
+<div id="bottom_links">
+  <p>
+	
+		
+			<a href="#" onclick="$('sign_in_dialog').fadeIn(1000); return false;">Sign In</a> &nbsp;|&nbsp;
+			    <a href="/super_points/how_it_works">About Us</a> &nbsp;|&nbsp;
+	    <a href="/super_points/contact_us">Contact</a> &nbsp;|&nbsp;
+	    <a href="/super_points/tos">Terms of Service</a> &nbsp;|&nbsp;
+	    <a href="/super_points/privacy">Privacy Policy</a> 
+	  </p>
+</div><!-- end div bottom -->
+	
+  		<p id="copyright"> © 2007-2009 by Westlake Products, Inc.</p>	
+	
 
 
-  </div><!-- end div wrapper -->
+			  
+			  </div><!-- end div wrapper -->
+		</div>	
+		<style>
+
+	.sign_in_dialog						{ position:relative; top:100px; width:100%; color:#333; font-size:12px; }
+	.sign_in_dialog_close				{ width:617px; text-align:right; padding-top:41px; }
+	.sign_in_dialog_content				{ width:656px; height:465px; margin:0 auto; background: url(/images/super_points/sign_in_dialog_bg_ds.png); position:relative; z-index:10; }
+	.sign_in_dialog_content a			{ color:#3366CC; text-decoration:none; }
+	.sign_in_dialog_hdr					{ width:100%; text-align:center; padding-top:60px; font-size:28px; color:#3366CC; font-weight:bold; }
+	.sign_in_dialog_left 				{ float:left; width:300px; padding:36px 0px 20px 50px; line-height:18px; }
+	.sign_in_dialog_right 				{ float:left; width:225px; padding:50px 0px 0px 20px; font-size:14px; font-weight:bold; line-height:30px; }
+	.sign_in_dialog_right a 			{ color:#3366CC; text-decoration:underline; }
+	
+	.sign_in_dialog_left input 			{ border:1px solid #BBBBBB; width:260px; height:15px; font-size:12px; padding:2px 0px 0px 2px; }
+
+	.sign_in_dialog_bottom				{ width:555px; margin-left:50px; border-top:1px solid #BBB; font-size:12px; }
+	.sign_in_dialog_bottom_left 		{ float:left; width:365px; padding-top:15px; padding-left:10px; }
+	.sign_in_dialog_bottom_right 		{ float:left; width:120px; padding-top:10px; }
+</style>
+
+<div class="sign_in_dialog" id="sign_in_dialog" style="display:none">
+	<form action="http://www.superpoints.com/user/login?reload_page=true" method="post">
+	<div class="sign_in_dialog_content">
+		<div class="sign_in_dialog_close"> 
+			<a href="#" onclick="$('sign_in_dialog').fadeOut(1000); return false;"><img alt="X_close" src="http://www.superpoints.com/images/super_points/x_close.jpg?1245952135" style="border:0px"></a>
+		</div>
+		<div class="sign_in_dialog_hdr"> Sign in to the SuperPoints Network! </div>
+	
+	
+			<div style="width:100%;">
+				<div class="sign_in_dialog_left">
+					<b>Email Address</b> <br>
+					<input id="user_primary_email" name="user[primary_email]" size="30" style="margin-bottom:5px" tab_index="1" type="text"> <br>
+					<b>Password</b> <br>
+					<input id="user_password" name="user[password]" size="30" tab_index="2" type="password"> <br>
+				</div>
+			
+				<div class="sign_in_dialog_right">
+					Don't have an account? <br>
+					<a href="/landing/rlnv1">Join SuperPoints Now!</a>
+				</div>
+			
+				<div style="clear:both"> </div>			
+			</div>
+			
+			<div style="padding:0px 0px 15px 50px;">	
+				<input checked="checked" id="keep_signed_in" name="keep_signed_in" type="checkbox" value="1"> <b>Remember my email and password for automatic login.</b> <br>
+				<input src="http://www.superpoints.com/images/super_points/sign_in_button.jpg?1245952135" style="padding-bottom:5px" type="image"> <br>
+				<a href="http://www.superpoints.com/super_points/forgot_password">Forgot your password?</a>
+			</div>
+		
+			<div class="sign_in_dialog_bottom">
+				<div class="sign_in_dialog_bottom_left">
+					OR you can sign in to SuperPoints using your Facebook account:
+				</div>
+				<div class="sign_in_dialog_bottom_right">
+					<fb:login-button background="white" length="long" onlogin="location.reload(true)" size="medium"></fb:login-button>
+				</div>
+				<div style="clear:both"></div>
+			</div>	
+		</div>
+	</form></div>	
+	
+	
+</div>
+	
 
 	<script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
