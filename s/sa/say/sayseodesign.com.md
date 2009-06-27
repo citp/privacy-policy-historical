@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayseodesign.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217103312id_/http%3A//sayseodesign.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayseodesign.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112155id_/http%3A//sayseodesign.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Commitment To Your Privacy
 
