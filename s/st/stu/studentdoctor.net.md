@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154617id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111211id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement : Student Doctor Network
+# Student Doctor Network | Privacy Statement
 
 [](http://www.truste.org/ivalidate.php?url=www.studentdoctor.net&sealid=101)
 
 **Privacy Statement**
 
-**Last Updated 1/24/2007**
+**Last Updated 4/08/2009**
 
 Coastal Research Group is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.studentdoctor.net. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -79,6 +79,10 @@ We do not share your individual profile with other third parties. However, we ma
 
 We share aggregated demographic information about our user base with our advertisers. This information does not identify individual users. This includes, but is not limited to, age, gender, education status. We do not link aggregate user data with personally identifiable information.
 
+**Sharing of Information with SDN Partners or Affiliates**
+
+You have the option to opt-in to receive email from SDN partners or affiliates.  If you choose this option, we may share your email address with those organizations.  We will put in place reasonable restrictions to maintain proper use of your personal information by such providers.
+
 **Personally identifiable information**
 
 We DO NOT Share Personally Identifiable Information with Third Parties who are not agents or service providers.
@@ -119,10 +123,7 @@ To learn more about Google’s use of clear gifs, please go to [www.google.com](
 
 **Third Party Advertisers**
 
-Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. We do not share Web site usage information about users with Google.
-
-Google may use cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site. The information that Google collects and shares through this technology is not personally identifiable.  
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please click here: [www.google.com](http://www.google.com/).
+Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner.  Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **L** **inks to Other Sites**
 
