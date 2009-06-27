@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the thissideup.co.za privacy policy that was archived on 2008-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081228133650id_/http%3A//thissideup.co.za/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thissideup.co.za privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627230538id_/http%3A//www.thissideup.co.za/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Privacy Policy : </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="Children's Beds Mattresses Pine Furniture - Cape Town Only Lounge suites Metal - Bunk beds Funky Beanbags Budget Foam mattress Sleeper Couches Baby Room Tempur Pillows Mattress Protectors ,beds,mattresses,base sets Privacy Policy">
-<meta name="description" content=" : Privacy Policy - Children's Beds Mattresses Pine Furniture - Cape Town Only Lounge suites Metal - Bunk beds Funky Beanbags Budget Foam mattress Sleeper Couches Baby Room Tempur Pillows Mattress Protectors ,beds,mattresses,base sets">
+<meta name="keywords" content="Kids Bedroom Furniture Beds - Mattresses Pine Furniture - Cape Town Only Lounge Suites Metal - Bunk beds Funky Beanbags Budget Foam mattress Sleeper Couches Baby Cots &amp; Compactums Tempur Pillows Mattress Protectors Wooden Furniture Kids Bedroom Accessories ,beds,mattresses,base sets, bed, mattress Privacy Policy">
+<meta name="description" content=" : Privacy Policy - Kids Bedroom Furniture Beds - Mattresses Pine Furniture - Cape Town Only Lounge Suites Metal - Bunk beds Funky Beanbags Budget Foam mattress Sleeper Couches Baby Cots &amp; Compactums Tempur Pillows Mattress Protectors Wooden Furniture Kids Bedroom Accessories ,beds,mattresses,base sets, bed, mattress">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="author" content="This Side Up">
 <meta name="generator" content="shopping cart by this side up">
@@ -18,14 +18,98 @@
 <link rel="stylesheet" type="text/css" href="includes/templates/thissideup/css/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="includes/templates/thissideup/css/stylesheet_css_buttons.css">
 <link rel="stylesheet" type="text/css" href="includes/templates/thissideup/css/stylesheet_hoverbox3.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/thissideup/css/stylesheet_short_description.css">
 <link rel="stylesheet" type="text/css" href="includes/templates/thissideup/css/stylesheet_smartbg.css">
 <link rel="stylesheet" type="text/css" media="print" href="includes/templates/thissideup/css/print_stylesheet.css">
 <script type="text/javascript" src="includes/templates/thissideup/jscript/jscript_imagehover.js"></script>
 <!-- AddToBookmarks.com CSS - Place this in the head of your page -->
-			<style type="text/css">
-				@import "addto/addto.css";
-			</style>
-			<!-- End AddToBookmarks.com CSS -->
+         <style type="text/css">
+            @import "addto/addto.css";
+         </style>
+         <!-- End AddToBookmarks.com CSS -->
+<style style="text/css">
+
+.lcdstyle{ /*Example CSS to create LCD countdown look*/
+background-color:#ffffff;
+color:red;
+font: bold 12px MS Sans Serif;
+padding: 3px;
+}
+
+.lcdstyle sup{ /*Example CSS to create LCD countdown look*/
+font-size: 80%
+}
+
+</style>
+
+<script type="text/javascript">
+
+var currenttime = 'June 28, 2009 01:05:36' //PHP method of getting server date
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+var serverdate=new Date(currenttime)
+
+function padlength(what){
+var output=(what.toString().length==1)? "0"+what : what
+return output
+}
+
+function displaytime1(){
+serverdate.setSeconds(serverdate.getSeconds()+1)
+var datestring=montharray[serverdate.getMonth()]+" "+padlength(serverdate.getDate())+", "+serverdate.getFullYear()
+var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds())
+ cursertime = datestring+" "+timestring
+
+}
+
+window.onload=function(){
+setInterval("displaytime1()", 1000)
+}
+
+function startTime(did,displaytime,currdate)
+{
+var datestring=montharray[serverdate.getMonth()]+" "+padlength(serverdate.getDate())+", "+serverdate.getFullYear()
+var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds())
+ cursertime = datestring+" "+timestring
+
+//alert(cursertime);
+   //cursertime = displaytime1();
+ today=new Date(cursertime);
+targetdate=new Date(displaytime);
+timediff=(targetdate-today)/1000
+//timediff="dd";
+ var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+displaystring=dayfield+" days "+hourfield+" : "+minutefield+" :"+secondfield;
+
+minutefield=checkTime(minutefield);
+secondfield=checkTime(secondfield);
+
+//alert(ss);
+if(dayfield != 0){
+document.getElementById(did).value=dayfield+" days  "+hourfield+" : "+minutefield+" : "+secondfield;
+} else {
+document.getElementById(did).value=hourfield+" : "+minutefield+" : "+secondfield;
+}
+//document.getElementById('countdowncont').innerHTML=dayfield+"days "+hourfield+":"+minutefield+":"+secondfield;
+fun = 'startTime("'+did+'","'+displaytime+'")';
+//alert(fun);
+t=setTimeout(fun,500);
+}
+
+function checkTime(i)
+{
+if (i<10)
+  {
+  i="0" + i;
+  }
+return i;
+}
+</script>
 </head>
 
 
@@ -35,8 +119,6 @@
 
 
 
-
-  <div class="messageStackError larger"><img src="includes/templates/template_default/images/icons/error.gif" alt="Error" title=" Error " width="20" height="20">  NOTICE: Dear Customers: We are away until 12/01/09. We wish you a very happy and safe festive season, and all of the best for the new year!</div>
 
 
 <!--Smart Backgrounds-->
@@ -56,10 +138,10 @@
 
       <table width="100%" height="21px" cellpadding="1" cellspacing="0" border="0">
       <tbody><tr>
-      <td width="65%" style="padding-left:9px; font-size:11px">I am a very satisfied customer. My order was fulfilled promptly and I...&nbsp;<span><strong><a href="http://www.thissideup.co.za/store/index.php?main_page=testimonials_manager&amp;testimonials_id=14" class="static_customer_comments">read more</a></strong></span>
+      <td width="65%" style="padding-left:9px; font-size:11px">I received great service, thank you very much. From your easy-to-use...&nbsp;<span><strong><a href="http://www.thissideup.co.za/store/testimonials_manager/testimonials_id/44" class="static_customer_comments">read more</a></strong></span>
 </td>
       <td valign="top">
-      <font size="1">Newsletter </font><form name="subscribe" action="https://www.thissideup.co.za/store/index.php?main_page=subscribe" method="post"><input type="hidden" name="act" value="subscribe"><input type="hidden" name="main_page" value="subscribe"><input type="text" name="email" size="6" class="newsletterinput" maxlength="32" style="width: 100px" value="Enter email address" onfocus="if (this.value == 'Enter email address') this.value = '';" onblur="if (this.value == '') this.value = 'Enter email address';">&nbsp;<input type="image" src="includes/templates/thissideup/buttons/english/button_subscribe.gif" alt="Subscribe" title=" Subscribe "></form>     </td>
+      <font size="1">Newsletter </font><form name="subscribe" action="https://www.thissideup.co.za/store/subscribe" method="post"><input type="hidden" name="act" value="subscribe"><input type="hidden" name="main_page" value="subscribe"><input type="text" name="email" size="6" class="newsletterinput" maxlength="32" style="width: 100px" value="Enter email address" onfocus="if (this.value == 'Enter email address') this.value = '';" onblur="if (this.value == '') this.value = 'Enter email address';">&nbsp;<input type="image" src="includes/templates/thissideup/buttons/english/button_subscribe.gif" alt="Subscribe" title=" Subscribe "></form>     </td>
       <td valign="top">
       
 
@@ -81,32 +163,25 @@
 <div class="leftBoxContainer" id="categories" style="width: 200px">
 <h3 class="leftBoxHeading" id="categoriesHeading">Products</h3>
 <div id="categoriesContent" class="sideBoxContent">
-<a class="category-top" href="http://www.thissideup.co.za/store/lounge-suites-c-118.html">Lounge suites</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/sleeper-couches-c-143.html">Sleeper Couches</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/mattresses-c-103.html"><span class="category-subs-parent">Mattresses</span></a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/restonic-c-103_151.html">&nbsp;&nbsp;-&nbsp;Restonic</a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/rest-assured-c-103_104.html">&nbsp;&nbsp;-&nbsp;Rest Assured</a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/cloud-nine-c-103_109.html">&nbsp;&nbsp;-&nbsp;Cloud Nine</a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/genessi-c-103_133.html">&nbsp;&nbsp;-&nbsp;Genessi</a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/tempur-c-103_130.html">&nbsp;&nbsp;-&nbsp;Tempur</a><br>
-<a class="category-products" href="http://www.thissideup.co.za/store/suite-night-c-103_144.html">&nbsp;&nbsp;-&nbsp;Suite Night</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/mattress-protectors-c-155.html">Mattress Protectors</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/tempur-pillows-c-153.html">Tempur Pillows</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/childrens-beds-c-68.html">Children's Beds</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/baby-room-c-152.html">Baby Room</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/metal-bunk-beds-c-131.html">Metal - Bunk beds</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/pine-furniture-cape-town-only-c-111.html">Pine Furniture - Cape Town Only</a><br>
-<a class="category-top" href="http://www.thissideup.co.za/store/funky-beanbags-c-132.html">Funky Beanbags</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/beds-mattresses-c-103"><span class="category-subs-parent">Beds - Mattresses</span></a><br>
+<a class="category-products" href="http://www.thissideup.co.za/store/beds-mattresses-restonic-c-103_151">&nbsp;&nbsp;-&nbsp;Restonic</a><br>
+<a class="category-products" href="http://www.thissideup.co.za/store/beds-mattresses-cloud-nine-c-103_109">&nbsp;&nbsp;-&nbsp;Cloud Nine</a><br>
+<a class="category-products" href="http://www.thissideup.co.za/store/beds-mattresses-genessi-c-103_133">&nbsp;&nbsp;-&nbsp;Genessi</a><br>
+<a class="category-products" href="http://www.thissideup.co.za/store/beds-mattresses-rest-assured-c-103_104">&nbsp;&nbsp;-&nbsp;Rest Assured</a><br>
+<a class="category-products" href="http://www.thissideup.co.za/store/beds-mattresses-tempur-c-103_130">&nbsp;&nbsp;-&nbsp;Tempur</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/mattress-protectors-c-155">Mattress Protectors</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/tempur-pillows-c-153">Tempur Pillows</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/lounge-suites-c-118">Lounge Suites</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/sleeper-couches-c-143">Sleeper Couches</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/kids-bedroom-furniture-c-68">Kids Bedroom Furniture</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/kids-bedroom-accessories-c-160">Kids Bedroom Accessories</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/baby-cots-compactums-c-152">Baby Cots &amp; Compactums</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/metal-bunk-beds-c-131">Metal - Bunk beds</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/pine-furniture-cape-town-only-c-111">Pine Furniture - Cape Town Only</a><br>
+<a class="category-top" href="http://www.thissideup.co.za/store/funky-beanbags-c-132">Funky Beanbags</a><br>
 </div><div class="leftBoxFooter" id="categoriesFooter"></div>
 </div>
 <!--// eof: categories //-->
-
-<!--// bof: livehelp //-->
-<div class="leftBoxContainer" id="livehelp" style="width: 200px">
-<h3 class="leftBoxHeading" id="livehelpHeading">Live Help</h3>
-<div class="centeredContent" style="margin-top: 10px; margin-bottom: 10px;"><script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script><a href="skype:qualityfurniture?chat"><img src="http://mystatus.skype.com/smallclassic/qualityfurniture" style="border: none;" width="114" height="20" alt="SKYPE"></a><br><br></div><div class="leftBoxFooter" id="livehelpFooter"></div>
-</div>
-<!--// eof: livehelp //-->
 
 <!--// bof: googleadsense //-->
 <div class="leftBoxContainer" id="googleadsense" style="width: 200px">
@@ -135,14 +210,18 @@ google_color_url = "FE6E17";
 </div></td>
    
    
-   <td valign="top" class="maincontentpane">
+   <td valign="top" class="maincontentpane"><span style="float:right; margin-right:3px; margin-top:4px"><a href="javascript:void(window.open('https://www.thissideup.co.za/livesupport/livezilla.php','','width=600,height=550,left=0,top=0,resizable=yes,menubar=no,location=yes,status=yes,scrollbars=yes'))"><img src="https://www.thissideup.co.za/livesupport/image.php?id=03" width="95" height="15" border="0"></a><noscript><div><a href="https://www.thissideup.co.za/livesupport/livezilla.php" target="_blank">Start Live Help Chat</a></div></noscript><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="https://www.thissideup.co.za/livesupport/server.php?request=track&amp;output=jscript&amp;nse=0.5167255063958838"></script></div><script language="JavaScript" type="text/javascript">
+<!--
+var script = document.createElement("script");script.type="text/javascript";var src = "https://www.thissideup.co.za/livesupport/server.php?request=track&output=jscript&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);
+// -->
+</script></span>
 <!--bof-navigation display-->
 <div id="navMainWrapper">
 <div id="navMain">
     <ul>
     <li><a href="http://www.thissideup.co.za/store/">Home</a></li>
    <li><a href="index.php?main_page=contact_us">Contact us</a></li>    
-    <li><a href="https://www.thissideup.co.za/store/index.php?main_page=login">Log In</a></li>
+    <li><a href="https://www.thissideup.co.za/store/login">Log In</a></li>
 
 </ul>
 </div>
@@ -157,7 +236,7 @@ google_color_url = "FE6E17";
 <div id="privacyDefaultMainContent" class="content">
 <p>At This Side Up.co.za , your privacy is our priority. <br>We are committed to protecting your privacy at all times, in all situations.<br>The information we collect about you when you become a customer is used to process your orders and to provide a more personalized experience on our site.<br><br></p><div class="content_title">Securing your Personal Information</div>Your interation with our site where any personal information such as your contact details, addresses, name etc including alterations you make to them&nbsp;and also any other&nbsp;information that is sensitive in nature, such as&nbsp;any orders you have placed&nbsp;is protected by the use of the latest&nbsp;SSL Technology. (Secure Socket Layers). We have secured our pages with this technology to ensure that your interactions through the use of our site are protected.<br><br><a class="static" href="http://www.thawte.com">Thawte</a> is a leading global Certification Authority. Their SSL and code signing digital certificates are used globally to secure servers, provide data encryption, authenticate users, protect privacy and assure online identifies through stringent authentication and verification processes<br><br><div class="content_title">How do we use the information we collect?</div>When you become a This Side Up.co.za customer, we ask you to fill out a form that requests your name, address, contact numbers and email address as well as some demographic information such as gender and date of birth. This Side Up.co.za will NOT share data with trusted partners to help us perform statistical analysis. Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment.<br>Your demographic information (gender, date of birth, id number etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.<br><br><div class="content_title">Refer a friend</div>If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a onetime email inviting him or her to visit the site. This Side Up.co.za does not store this information and uses it for the sole purpose of sending this onetime email.<br><br><div class="content_title">Our Use of Log Files</div>When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.<br><br><div class="content_title">Site Security</div>All This Side Up.co.za employees take your personal information very seriously. All employees must learn and obey our security policies. Access to member personal information is limited to key management personnel and our member services department.<br>The information is ID and password protected and our Web security is reviewed on a monthly basis. We have also installed and implied our site with a 128 bit encryption SSL.<br><br><div class="content_title">Correcting - Updating Your Personal Information</div>After becoming a This Side Up.co.za subscriber you may correct/update your personal information by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. <br>The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'My Account' section, or the 'Contact Us' section.<br><br><div class="content_title">Links To Other Sites</div>This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the This Side Up.co.za site and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.<br><br><div class="content_title">Communication</div>From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers.<br>In addition, you will receive communication from us.... * if you contact us for a particular reason, * to receive your orders, or * we need to contact you for administrative purposes such as winning a contest. Administrative emails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from This Side Up.co.za.<br><br><div class="content_title">Legal Disclaimer</div>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a goodfaith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site<br><br><div class="content_title">Supplementation</div>We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our members receive the order and to lower costs associated with our programs. <br><br><div class="content_title">Our Use of Cookies</div>Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter our site.<br>The ability to select samples on our site is not cookie driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. <br>If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your username and password.<br><br><div class="content_title">Your Feedback is Always Welcome</div>We welcome any comments or questions you may have about privacy policy. <br>Please feel welcome to <a class="static" href="index.php?main_page=contact_us">contact</a> us.<p class="lastupdated">Last updated - 11/11/2008</p></div>
 
-<div class="buttonRow back"><a href="http://www.thissideup.co.za/store/"><img src="includes/templates/thissideup/buttons/english/button_back.gif" alt="Back" title=" Back " width="82" height="19"></a></div>
+<div class="buttonRow back"><a href="http://www.thissideup.co.za/store"><img src="includes/templates/thissideup/buttons/english/button_back.gif" alt="Back" title=" Back " width="82" height="19"></a></div>
 </div>
       </div>
    </td>
@@ -246,9 +325,8 @@ var AddTitle = escape(document.title);	// same here, this could be set dymaicall
       <td><a href="index.php?main_page=page&amp;id=15"><img src="./images/visa.jpg" width="73" height="46" border="0" alt="Read about Verified by Visa"></a></td>
       <td><table width="10" border="0" cellspacing="0" align="center">
  <tbody><tr>
-  <td>
-   <script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script>
-  </td>
+  <td><img src="images/secure_thawte.jpg" height="45px" width="66px" border="0" alt="secure shopping">
+   </td>
  </tr>
 </tbody></table>
 </td>
@@ -257,8 +335,8 @@ var AddTitle = escape(document.title);	// same here, this could be set dymaicall
 <table border="0" width="100%" cellpadding="0px" cellspacing="0px" style="margin-top:3px">
 <tbody><tr>
 <td valign="top">
-
-<div id="siteinfoLegal" class="legalCopyright">Prices include VAT. Delivery costs as generated through use of this site indicate costs to hub areas and their immediate surrounds. Site supports deliveries to Jhb, Durban, Pretoria, Bloemfontein, East London, Port Elizabeth, Cape Town, George, Knysna... Should you live outside these areas we will contact you and inform you of the additional delivery cost, if any. Prices, products and technical specifications are subject to change without notice. e&amp;oe. <a class="static_netmechanic" href="index.php?main_page=page&amp;id=17">Copyright © 2007/2008</a> <a class="static_netmechanic" href="http://www.thissideup.co.za">Ecommerce Direct</a> 2007/036606/23 All rights reserved - Website by <a class="static_netmechanic" target="blank" href="http://www.netmechanic.co.za">Netmechanic</a></div> 
+<div id="siteinfoLegal" class="legalCopyright"><a href="http://www.oneshop.co.za/store/this-side-up.html" border="0"><img src="images/award_oneshop.gif" alt="Online Shopping - buy at safe internet stores" style="float:left; margin-right:5px"></a>
+<strong><u>Prices include VAT</u></strong>. Delivery costs as generated through use of this site indicate costs to hub areas and their immediate surrounds. Site supports deliveries to Jhb, Durban, Pretoria, Bloemfontein, East London, Port Elizabeth, Cape Town, George, Knysna... Should you live outside these areas we will contact you and inform you of the additional delivery cost, if any. Prices, products and technical specifications are subject to change without notice. e&amp;oe. <br><a class="static_netmechanic" href="index.php?main_page=page&amp;id=17">Copyright © 2007-2009</a> <a class="static_netmechanic" href="http://www.thissideup.co.za">Ecommerce Direct</a> 2007/036606/23 All rights reserved </div> 
 </td></tr></tbody></table>
 </div>
 
@@ -282,6 +360,15 @@ var AddTitle = escape(document.title);	// same here, this could be set dymaicall
 </td>
 </tr>
 </tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1351337-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 <!--bof- parse time display -->
