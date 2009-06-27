@@ -1,19 +1,7 @@
-> *The following text is extracted and transformed from the blogthings.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406172410id_/http%3A//www.blogthings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogthings.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110023id_/http%3A//www.blogthings.com/privacy) for the most accurate reproduction.*
 
-# Blogthings - Cool Stuff To Put In Your Blog
+# Blogthings - Blogthings Privacy Policy
 
-## We Respect Your Privacy - 100%
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click the following links for more information: [Google Advertising Privacy Policy](http://www.google.com/privacy_ads.html) and [Commission Junction Privacy Policy](https://se.cj.com/privacy.html).
 
-Privacy Policy 
-
-Blogthings respects your privacy. 
-
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Blogthings. 
-
-External Sites. 
-
-Blogthings is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
-
-Cookies 
-
-A "cookie" is a small data text file that is placed in your browser and allows Blogthings to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Blogthings does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds. 
+We also use [Google Analytics](http://www.google.com/analytics/) and [Quantcast](http://quantcast.com/) to collect web traffic data about our users. Please check the following links for their respective privacy and/or user policies: [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html) and [Quantcast Privacy Policy](http://www.quantcast.com/docs/display/legal/Privacy+Policy).
