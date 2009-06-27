@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218031154id_/http%3A//www.citypaper.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627042430id_/http%3A//www.citypaper.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Philadelphia City Paper :: Philadelphia Arts, Restaurants, Music, Movies, Jobs, Classifieds, Blogs
+
+[](http://www.addthis.com/bookmark.php?v=250)
+
+PRIVACY POLICY
 
 To help you understand how information submitted via survey, e-newsletter sign-up form and all other information that may be captured when using our website, citypaper.net offers this Privacy Policy. Use of citypaper.net website, and disclosure to us of your personal information is optional and voluntary. By visiting citypaper.net, you are accepting and agreeing to the practices described in this policy.
 
