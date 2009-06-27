@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2008-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080923190348id_/http%3A//www.customerservicejobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627021526id_/http%3A//www.customerservicejobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Customer Service & Customer SupportJobs & Resumes, Find Career Resources - CustomerServiceJobs.com
 
@@ -32,11 +32,13 @@ Additionally, information may be passed on to a third party in the event of a tr
 
 In order to serve you better and more efficiently, we may also share anonymous aggregated information (relevant to the job search) about users with our partners and other third parties relevant to the job search.
 
-We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
+We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe from any or all publications at any time. 
 
 We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
 In some cases our software and web site are utilized by our partners in a business alliance via their web community. In these cases, the information collected on our site is available to both companies. 
+
+You should be aware that any personal information (such as email address or resumes), which you voluntarily display or distribute on our network and on the Internet can be collected and used by others, no different than posting this information in a newspaper. This may result in your receiving unsolicited messages from third parties for which Beyond.com is not responsible and has no ability to affect. 
 
 Back to top
 
@@ -60,6 +62,14 @@ Back to top
 
 * * *
 
+### Cached Information
+
+There may be instances where information you have submitted to Beyond.com is temporarily cached or stored by another site, such as Google.com, even after such information has been removed from the Beyond.com site. These sites are maintained by third parties not controlled by Beyond.com. Accordingly, Beyond.com expressly disclaims any responsibility for the cached information displayed by these third party web sites. 
+
+Back to top
+
+* * *
+
 ### Log Files
 
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
@@ -70,7 +80,7 @@ Back to top
 
 ### Links
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites and that this policy does not apply to the practices of companies that we do not own or to people that we do not employ or manage. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+This web site contains links to other sites. You may have arrived at this website by clicking on a link from a Beyond.com affiliate or other affiliate. If so, you should be aware that Beyond.com may share your information with that affiliate and the affiliate may use the information in accordance with its privacy policy instead of ours. 
 
 Back to top
 
@@ -114,7 +124,7 @@ Back to top
 
 * * *
 
-Rev. August 2008
+Rev. October 2008
 
 * * *
 
