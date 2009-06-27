@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218091244id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627103650id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| [](http://www.the12volt.com/) |   
----|---  
 |   
   | Mobile Electronics Basics  
 ---  
@@ -137,10 +135,13 @@ Cookies
 ---  
 the12volt.com uses software tags called "cookies" to save information for our users when completing forms and/or logging into our forums. The information we collect with cookies is not sold, rented or shared with any outside parties under any circumstances. 
 
-Third party advertisers may be placing and reading cookies on your browser, or web beacons to collect information, in the course of displaying ads on this site. For your options on handling cookies, please see your browser's help file.   
+Third party advertisers may be placing and reading cookies on your browser, or web beacons to collect information, in the course of displaying ads on this site. For your options on handling cookies, please see your browser's help file. 
+
+**Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):**  
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
   
   
 |    
-|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20081218091244id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
+|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20090627103650id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
 ---  
-Thursday, December 18, 2008 | • | Copyright © 1999-2008 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
+Saturday, June 27, 2009 | • | Copyright © 1999-2009 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
