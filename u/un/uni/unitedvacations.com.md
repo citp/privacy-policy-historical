@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216085851id_/http%3A//www.unitedvacations.com/includes/reader.asp%3Fsection%3DHOME%26xmlFile%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedvacations.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212250id_/http%3A//www.unitedvacations.com/includes/reader.asp%3Fsection%3DHOME%26xmlFile%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - United Vacations - Protecting the Privacy of Our Customers
 
 **Introduction**  
 At United Vacations, we believe that it is extremely important to protect the privacy of our customers. We are providing this privacy policy to help you better understand the ways in which your personal information is gathered and used on the www.unitedvacations.com website.
 
-United Vacations is operated by The Mark Travel Corporation. The Mark Travel Corporation and its affiliated technology and marketing agencies, and travel agency distributors, gather, store, and process the information from the United Vacations website. They help United Vacations use customer information to create and distribute products, specials, promotions, and website features for our customers. _Except as indicated in this Privacy Policy, The Mark Travel Corporation, and their affiliated technology and marketing agencies, and travel agency distributors (hereafter "United Vacations") will not sell or share your personally identifiable information with any third party company or agency without your permission._ If you have any comments or questions regarding this privacy statement, please contact United Vacations via our online [Customer service](https://web.archive.org/web/20081216085851id_/http%3A//www.unitedvacations.com/support/customer.asp).
+United Vacations is operated by The Mark Travel Corporation. The Mark Travel Corporation and its affiliated technology and marketing agencies, and travel agency distributors, gather, store, and process the information from the United Vacations website. They help United Vacations use customer information to create and distribute products, specials, promotions, and website features for our customers. _Except as indicated in this Privacy Policy, The Mark Travel Corporation, and their affiliated technology and marketing agencies, and travel agency distributors (hereafter "United Vacations") will not sell or share your personally identifiable information with any third party company or agency without your permission._ If you have any comments or questions regarding this privacy statement, please contact United Vacations via our online [Customer service](https://web.archive.org/web/20090627212250id_/http%3A//www.unitedvacations.com/support/customer.asp).
 
                                                                    Back To Top 
 
@@ -40,7 +40,9 @@ Back To Top
 
   
 **How Your Information Is Used**  
-When you sign up for the United Vacations email guestbook, you have the choice of receiving or not receiving emails. If you choose to receive emails, United Vacations will send you regular emails promoting vacation travel, specials, sales and other information. You may unsubscribe from the email specials list at any time by accessing the unsubscribe link at the bottom of the email or by visiting the guestbook sign up page and entering your email address in the [unsubscribe box](https://www.secure02.com/UnitedVacations/unsub_trigger.asp)..
+When you sign up for the United Vacations email guestbook, you have the choice of receiving or not receiving emails. If you choose to receive emails, United Vacations will send you regular emails promoting vacation travel, specials, sales and other information. You may unsubscribe from the email specials list at any time by accessing the unsubscribe link at the bottom of the email or by visiting the guestbook sign up page and entering your email address in the [unsubscribe box](http://www.secure02.com/UnitedVacations/consumer_unsub.asp). 
+
+You may also update your profile information at any time when you log in to [My Account](http://res.unitedvacations.com/account/retrievelogin.aspx?ctl=a).
 
 When you sign up for the United Vacations email guestbook or book a vacation online, we collect and share your personal information such as your name, address, phone numbers, and email address, with UAL Corporation, United Air Lines, Inc. and UAL Loyalty Services, Inc. This information is used to process and complete your online order, to ensure that you receive applicable mileage credit for online travel purchases for participating flights and so that United or its partners, affiliates or companies may contact you (by phone, email or regular mail) about services or products that may be of interest to you. United's privacy policy, which may be viewed at [united.com](http://www.united.com/), shall apply to all personal information collected by The Mark Travel Corporation on unitedvacations.com and submitted to UAL Corporation, United Air Lines, Inc. and UAL Loyalty Services, Inc.
 
@@ -108,6 +110,6 @@ Back To Top
 
   
 **How to Contact United Vacations**  
-If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](https://web.archive.org/web/20081216085851id_/http%3A//www.unitedvacations.com/support/customer.asp).
+If you have any questions or comments regarding the United Vacations privacy policy, please contact United Vacations via online [Customer Service](https://web.archive.org/web/20090627212250id_/http%3A//www.unitedvacations.com/support/customer.asp).
 
 Back To Top 
