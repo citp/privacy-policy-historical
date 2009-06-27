@@ -1,13 +1,17 @@
-<!--The following is the downloaded HTML source of the fourseasons.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216011916id_/http%3A//www.fourseasons.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fourseasons.com privacy policy that was archived on 2009-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627090558id_/http%3A//www.fourseasons.com/privacy.html) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset= UTF-8">
 	
 		<title>Four Seasons Hotels and Resorts</title>
 	 
-	<link rel="stylesheet" href="/css/four_seasons.css" type="text/css">
-	<script language="JavaScript" src="/js/four_seasons.js" type="text/javascript"></script>
+		<!-- Added link tag for the "Feed" button in IE 7  -->
+		<link rel="alternate" type="application/rss+xml" title="All Four Seasons Updates" href="/rss/all.xml">
+	 
+		<link rel="stylesheet" href="/css/four_seasons.css" type="text/css">
+		<script language="JavaScript" src="/js/four_seasons.js" type="text/javascript"></script>
+	
 	</head>
 	<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 		<a name="top"></a>
@@ -39,7 +43,8 @@
 					</td>
 					<!-- Header right-side navigation -->
 					<td width="200" valign="top" class="header">
-						 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+						 
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		
 		<tbody><tr><td colspan="2"><img src="/space.gif" width="20" height="15"></td></tr>
 		 
@@ -509,13 +514,14 @@
 						<tr><!-- Footer links -->
 							<td class="footerLinks">
 								 <a href="/about_us/">About Four Seasons</a>
-		 | <a href="/employment/">Employment</a>
-		 | <a href="/press_room.html">Press Room</a>
-		 | <a style="background-image:url('/images/iconRSSsmall.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 12px; margin: 0 !important;" href="/rss/?_s_icmp=rssft001">RSS</a>
-		<br><a href="/site_map.html">Site Map</a>
-		 | <a href="/legal.html">Legal Notice</a>
-		 | <a href="#">Privacy Policy</a>
-		
+			 | <a href="/careers/">Careers</a>
+			 | <a href="http://press.fourseasons.com/">Press Room</a>
+			 | <a style="background-image:url('/images/iconRSSsmall.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 12px; margin: 0 !important;" href="/rss/?_s_icmp=rssft001">RSS</a>
+		 | <a style="background-image:url('/images/twitter_icon.gif'); background-position: 0px 2px !important; background-repeat: no-repeat; padding-left: 10px; margin: 0 !important;" href="/twitter/">Twitter</a>
+			<br><a href="/site_map.html">Site Map</a>
+			 | <a href="/legal.html">Legal Notice</a>
+			 | <a href="#">Privacy Policy</a>
+			
 							</td>
 						</tr>
 						 
@@ -526,7 +532,7 @@
 						<tr>
 							<!-- Disclaimer copy -->
 							<td class="disclaimer">
-								 Page last updated: December 15, 2008<br>
+								 Page last updated: May 14, 2009<br>
 								Four Seasons Hotels and Resorts, 1165 Leslie Street, Toronto, Ontario M3C 2K8, Canada
 							</td>
 						</tr>
@@ -558,11 +564,11 @@
 	var acronym_value_array = null;
 
 	 
-			var DOCUMENTGROUP='Privacy policy';
- var DOCUMENTNAME='Privacy policy';
-var _s_cf04='General';
-var _s_cf05='en';
-var _s_cf20='www.fourseasons.com';
+			var DOCUMENTGROUP="Privacy policy";
+ var DOCUMENTNAME="Privacy policy";
+var _s_cf04="General";
+var _s_cf05="en";
+var _s_cf20="www.fourseasons.com";
 
 </script>
 <!-- End of Customization Code -->
@@ -579,6 +585,20 @@ function pdf_down(downurl){
             tracking_object.download(downurl);
 
 }
+
+<!-- start UPDATE: 04.09.09 ROI customization code -->
+// need to grab what's in _s_cf02 because ROI functions erase it after it uses it
+
+var aNum02 = "";
+
+function ROItrackEmailLink(aNum) {
+  var tracking_object = createITT();
+	tracking_object.ACTION = aNum;
+	eval("var _s_cf"+aNum+" = '"+aNum02+"'");
+  tracking_object.submit_action();
+  //alert(aNum);
+}
+<!-- end UPDATE: 04.09.09 ROI customization code -->
 
 </script>
 
