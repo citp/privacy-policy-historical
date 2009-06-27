@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swankmag.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216155028id_/http%3A//www.swankmag.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swankmag.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627223710id_/http%3A//www.swankmag.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
