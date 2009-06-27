@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502151147id_/http%3A//irishexaminer.com/irishexaminer/pages/flat.aspx-qqqincludename%3Dprivacypolicy-qqqg%3Dhome-qqqm%3Dprivacypolicy-qqqa%3Dgeneral-qqqx%3D1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112448id_/http%3A//www.irishexaminer.com/privacypolicy) for the most accurate reproduction.*
 
-# Irish Examiner | Irish News | News from Ireland
+# PRIVACYPOLICY | Irish Examiner
 
 |  **  
 Privacy Policy** Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
@@ -100,4 +100,5 @@ TCM,
 Cork, Ireland.  
 [ webmaster@examiner.ie](mailto:webmaster@examiner.ie)
 
-| 
+|   
+---|---|---
