@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2007-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071224032927id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627102521id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # UK Business Directory - B2B Marketplace, Company Directory, Trade Leads and Product Catalogs - www.TradeHolding.net
 
@@ -23,7 +23,8 @@ Any Publishing Information that you use on www.TradeHolding.net and TradeHolding
 If you submit any information to www.TradeHolding.net and TradeHolding.com B2B Network to be published on our B2B Network through the publishing forms you are deemed to have given consent to the publication of such information.
 
 **COOKIES**  
-www.TradeHolding.net and TradeHolding.com B2B Network uses cookies only to maintain your information as you move throughout this site and facilitate your member activities. A cookie is a small piece of information used to identify an individual when the person is accessing a site. At no time is any personal information stored in a cookie, nor is any tracking information made available to other sites for any reason. Cookies are used only for the intended purpose and scope of www.TradeHolding.net and TradeHolding.com B2B Network.
+www.TradeHolding.net and TradeHolding.com B2B Network uses cookies only to maintain your information as you move throughout this site and facilitate your member activities. A cookie is a small piece of information used to identify an individual when the person is accessing a site. Cookies are used only for the intended purpose and scope of www.TradeHolding.net and TradeHolding.com B2B Network.  
+Cookies and the tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to this site, and understanding how visitors use this site. Cookies can also help customize this site for visitors. If you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. This site or the advertisers on this site may use cookies and/or web beacons to collect data in the ad serving process.
 
 **INFORMATION DISCLOSURE**  
 www.TradeHolding.net and TradeHolding.com B2B Network does not disclose the collected information (except the Publishing Information) to any third parties, unless acting under the belief that such action is necessary to:  
