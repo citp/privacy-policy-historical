@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011154id_/http%3A//www.onrpg.com/MMO/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627061654id_/http%3A//www.onrpg.com/MMO/privacy-policy) for the most accurate reproduction.*
 
 # Free MMORPG Online Games & Free MMO RPG Directory - Onrpg.com
 
