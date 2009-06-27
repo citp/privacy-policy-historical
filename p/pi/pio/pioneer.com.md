@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913010327id_/http%3A//www.pioneer.com/web/site/portal/menuitem.7873149927cacb28bc0c0a03d10093a0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627021307id_/http%3A//pioneer.com/web/site/portal/menuitem.7873149927cacb28bc0c0a03d10093a0) for the most accurate reproduction.*
 
 # Privacy | Pioneer Hi-Bred International, Inc.
 
