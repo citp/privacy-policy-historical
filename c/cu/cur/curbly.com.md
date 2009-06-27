@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152147id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curbly.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627143112id_/http%3A//www.curbly.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -32,6 +32,12 @@ The Curbly Website may include chatrooms, bulletin boards, product reviews, or o
 ### Our Collection of Your Data
 
 In addition to the personal information you supply, we collect certain information to evaluate how visitors, guests, and members use the Curbly Website. We collect data to make our service work better for you in the following ways: to improve the design of the Curbly Website, to provide personalization on the Curbly Website, and to evaluate the performance of our marketing programs. The technologies we use to gather this non-personal information may include IP addresses, cookies, clear gifs, and browser detection.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Advertising and Privacy â€“ Google Privacy Center").
+
+
 
 ### How we use information 
 
