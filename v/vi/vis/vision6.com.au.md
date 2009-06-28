@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073511id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628095039id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy — Vision 6 — SMS and Email Marketing Software
 
@@ -12,7 +12,7 @@ As part of the Member registration process, we collect personal information and 
 
 If you do not wish to have your personal information used in this manner or for any other specific purpose, apart from necessary information required to use the Member Services, you can e-mail us accordingly.
 
-We utilise cookies which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. Acookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
+We utilise cookies which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
 
 We will not sell or otherwise provide your personal information to a third party (unless compelled by law), or make any other use of your personal information, for any purpose which is not incidental to your use of this web site. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.
 
