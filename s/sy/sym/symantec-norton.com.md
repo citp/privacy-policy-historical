@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219145239id_/http%3A//www.symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629001929id_/http%3A//symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Norton Products by Symantec | Privacy Policy
 
@@ -11,11 +11,11 @@ Our privacy policy adheres to the US Safe Harbor privacy principles of Notice, C
 
 To that extent, we are the sole owners of all information collected on this site. Information is collected in order to deliver your requested services. 
 
-_Anonymous Access_
+**_Anonymous Access_**
 
 You can access our website home page and browse our site without disclosing your personal data. We do not share any names or email addresses collected during any registration process on this web site with third parties. We do not share, sell, rent, exchange, or give any contact information to anyone. 
 
-_Use of Cookies_
+**_Use of Cookies_**
 
 Symantec-Norton.com does not use cookies, however all Symantec online stores do. Since you will be redirected to the store corresponding to your country in order to make your purchase, there are a few things you need to know about cookies. 
 
@@ -23,7 +23,7 @@ Cookies are small text files containing a string of characters. They are placed 
 
 Most browsers are initially set up to accept cookies, but you can reset yours to refuse all cookies or to indicate when a cookie is being sent to your computer. Safeguards are in place to ensure that the information contained in a cookie is not disclosed or shared for any other purpose than improving your visit of a particular website.
 
-_Choice_
+**_Choice_**
 
 We do not ask for your credit card information on our site. However, it will be required on the Symantec online store to which you will be redirected for your purchase. Rest assured that this information will be encrypted on Symantec’s secure servers.
 
@@ -31,7 +31,7 @@ We collect personal data you volunteer on our site in order to better meet your 
 
 Additionally, when you send an email or other communication to our offices, we may retain these communications in order to process your inquiries, respond to your requests and improve our services. We will not share any information contained in these communications with other companies.
 
-_Ongoing Relevancy_
+**_Ongoing Relevancy_**
 
 We regularly review our policies and procedures to ensure we remain current with changing laws and evolving public expectations.
 
