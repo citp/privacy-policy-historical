@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-archive.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160328id_/http%3A//www.tech-archive.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-archive.net privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628111820id_/http%3A//www.tech-archive.net/privacy) for the most accurate reproduction.*
 
 # Tech-Archive.net: Privacy Policy
 
@@ -24,6 +24,14 @@ IP Address: An Internet Protocol (IP) address is unique string of numbers that i
 
 ### Third Party Advertising
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages.
+To try and bring you offers that are of interest to you, we have relationships with other companies like TribalFusion, 24/7 Real Media and Google that we allow to place ads on our Web pages.
 
-As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information (not including your name, address, email address or telephone number). For further information, please click here:
+
+<http://www.google.com/privacy_ads.html>  
+<http://www.tribalfusion.com/TribalFusion/privacy.html>  
+<http://www.247realmedia.com/privacy.html>
+
+### Contact
+
+If you have any questions about this policy feel free to contact us: [privacy@der-keiler.de](mailto:privacy@der-keiler.de)
