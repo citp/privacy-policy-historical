@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033318id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082542id_/http%3A//www.uow.edu.au//about/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About the University @ UOW
 
@@ -15,7 +15,7 @@ The University is committed to ensure that your privacy is protected. UOW and it
 
 This page provides a summary of the 
 
-[UOW Privacy Policy ](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow038289.pdf)is not intended to be a detailed description of the Policy. You may also like to view the 
+[UOW Privacy Policy ](http://www.uow.edu.au/about/privacy/UOW038289.html)is not intended to be a detailed description of the Policy. You may also like to view the 
 
 [UOW Privacy Management Plan ](http://www.uow.edu.au/content/groups/public/@web/@fin/@lcu/documents/doc/uow038290.pdf)for further information.
 
