@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013052id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628184335id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -161,7 +161,7 @@ Opera 9.2
   * You may also check the box underneath that says "Delete new cookies when exiting Opera" 
   * Click OK 
 
-Addtionally, this version of Opera allows you to set different settings for different sites. If you want to set a custom setting for Letstalk that will not override settings that you currently have for other sites: 
+Additionally, this version of Opera allows you to set different settings for different sites. If you want to set a custom setting for Letstalk that will not override settings that you currently have for other sites: 
   * Under header "Cookie settings can be adapted to each site" -> Manage Cookies 
   * Click on "Add..." button -> General tab. In the "Site" filed, type "http://www.letstalk.com". Click on Cookies tab 
   * Select radio button "Accept only cookies from the site I visit" 
