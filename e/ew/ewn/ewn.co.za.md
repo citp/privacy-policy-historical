@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ewn.co.za privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219140930id_/http%3A//www.ewn.co.za/contentpage.aspx%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewn.co.za privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628223144id_/http%3A//www.ewn.co.za/contentprog.aspx%3Fid%3D2) for the most accurate reproduction.*
 
 # Eyewitness News: In Touch, In Tune and Independent
 
   * AT A GLANCE >
-  * ZAR/AUD : 6.6603
-  * ZAR/EUR : 13.5753
-  * ZAR/GBP : 14.5475
-  * ZAR/JPY : 0.1087
-  * ZAR/USD : 9.7311
+  * ZAR/AUD : 6.3772
+  * ZAR/EUR : 11.1295
+  * ZAR/GBP : 13.0890
+  * ZAR/JPY : 0.0831
+  * ZAR/USD : 7.9205
 
 
 
