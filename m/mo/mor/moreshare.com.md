@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the moreshare.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509131516id_/http%3A//softwarepricing.com/security-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreshare.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628035401id_/http%3A//www.softwarepricing.com/security-policy.cfm) for the most accurate reproduction.*
 
-# Online Store
+# Data Privacy Policy
 
 **About This Page**   
-This is a privacy policy for softwarepricing.com (the "Site"), which is published by Marketshare, Inc. 
+This is a privacy policy for softwarepricing.com (the "Site"), which is published by SoftwarePricingPartners, Inc. 
 
 **Data We Collect**
 
@@ -53,7 +53,7 @@ We may provide links to third-party Web sites as a service to our users. Please 
 **_Accessing, Change, and/or Deleting Information_**  
 You may access, correct, update, and/or delete any personally-identifiable information that you have submitted to the Site. You may also unsubscribe from mailing lists or any registrations on the Site. If you want to be removed from our company database, please let us know and we will do so promptly. Just send an e-mail to unsubscribe@softwarepricing.com.
 
-If you wish to mail us such a request, send it to Marketshare, Inc., 35 Main Street, Wayland, MA 01778..
+If you wish to mail us such a request, send it to SoftwarePricingPartners, Inc., 35 Main Street, Wayland, MA 01778..
 
 _**Consent**_  
 By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. This Privacy Policy was last updated on 1 September 2004.
