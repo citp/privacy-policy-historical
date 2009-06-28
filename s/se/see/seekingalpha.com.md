@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160628id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingalpha.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628130040id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy - Seeking Alpha
+# Privacy -- Seeking Alpha
 
 Thank you for visiting [http://seekingalpha.com](http://seekingalpha.com/) (together with all other websites operated by Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at this Web Site. This Privacy Policy forms part of the Terms of Use.
 
