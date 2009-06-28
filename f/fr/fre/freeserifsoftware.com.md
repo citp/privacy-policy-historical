@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050541id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeserifsoftware.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628171919id_/http%3A//www.freeserifsoftware.com/info/privacy.asp) for the most accurate reproduction.*
 
 # FreeSerifSoftware.com - Privacy Statement
 
-Last Updated: February 1st 2005 
+Last Updated: 18th May 2009 
 
 **FreeSerifSoftware.com** knows how much you care about the way your personal information is used. We are committed to protecting the integrity and confidentiality of your information and appreciate the trust you place in us. We have drawn up this privacy policy to inform you how we collect and use your information in a careful, sensible manner in compliance with the Data Protection Act 1998. By visiting **FreeSerifSoftware.com** , you are consenting to the procedures outlined in this statement.
 
->  
+  
 
 
 ## Who Controls The Personal Information Collected? 
@@ -59,6 +59,10 @@ It is also a tool we can use to aggregate usage statistics about the site. This 
 If you choose to delete FreeSerifSoftware.com cookies or do not have your browser set to accept cookies from FreeSerifSoftware.com, you will still be able to view the site, however you will not experience a personalized visit nor will you be able to benefit from other personalized site offerings.
 
 For further information about cookies please click here.
+
+Google, as a third party vendor, uses cookies to serve ads on the Serif site, Google’s use of the DART cookie enables it to serve ads to you based on your visit to the Serif site and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ## How Can You Gain Access To Your Personal Information? 
 
