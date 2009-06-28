@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2007-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071208021722id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628105409id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
 # The Democratic Party
+
+## Democratic National Committee Privacy Policy
 
 **At the Democratic National Committee (DNC), we are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.**
 
