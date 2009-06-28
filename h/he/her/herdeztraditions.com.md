@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herdeztraditions.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119155108id_/http%3A//www.herdeztraditions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdeztraditions.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628101611id_/http%3A//www.herdeztraditions.com/privacy.aspx) for the most accurate reproduction.*
 
-# HERDEZ® Salsa
+# Herdez® Traditions
 
 **Welcome**  
 This Web site is owned and operated by Hormel Foods Corporation ("Hormel," "we," "us," and "our"). Your privacy is important to us. This Privacy Policy explains how Hormel protects your privacy when you visit this Web site and the other Hormel Web sites that display this Privacy Policy (our "Site(s)"). This Privacy Policy describes what types of information we gather and track when you use our Sites, how this information is used and with whom it is shared. If you have any questions about this Privacy Policy, please send us an email at [cresponse@hormel.com](mailto:cresponse@hormel.com) or write to us at Hormel Foods Corporation, 1 Hormel Place, Austin, MN 55912 
