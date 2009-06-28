@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216082447id_/http%3A//www.valuedopinions.com.au/index.php%3Fid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628081915id_/http%3A//www.valuedopinions.com.au/index.php%3Fid%3D12) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Who are we?**
 
-Research Now Pty Ltd ACN 114 897 531 ABN 12 114 897 531(Research Now and 'we') is a wholly owned subsidiary of Research Now PLC, a company incorporated in the United Kingdom. Other related companies of Research Now include The Mobile Panel Limited and The Mobile Channel Limited (both UK entities), and companies in Greece (Research Now Technology Hellas EPE), Germany (Research Now GmbH), France (Research Now SARL) and the US (Research Now Inc). 
+Research Now Pty Ltd ACN 114 897 531 ABN 12 114 897 531(Research Now and 'we') is a wholly owned subsidiary of Research Now PLC, a company incorporated in the United Kingdom. Other related companies of Research Now include The Mobile Panel Limited and The Mobile Channel Limited (both UK entities), and companies in Greece (Research Now Technology Hellas EPE), Germany (Research Now GmbH), France (Research Now SARL),   
+Research Now Inc (a Canadian Company), Research Now Pte. Ltd. (A Singaporian Company) and the US (Research Now Inc). 
 
 **What do we do?**
 
@@ -95,7 +96,7 @@ If you have any queries relating to this Privacy Statement, please feel free to 
 
 Valued Opinions      
 P.O. Box A492       
-Sudney South 1235       
+Sydney South 1235       
 Australia 
 
 **Changes to our Privacy Statement**
