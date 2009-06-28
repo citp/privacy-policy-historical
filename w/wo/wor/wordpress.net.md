@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpress.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218070048id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpress.net privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082049id_/http%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # WordPress › About » Privacy Policy
 
