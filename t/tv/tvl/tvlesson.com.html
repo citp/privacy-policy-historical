@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the tvlesson.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216063736id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvlesson.com privacy policy that was archived on 2009-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628081856id_/http%3A//www.tvlesson.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<html xmlns="http://www.w3.org/1999/xhtml">--><!-- end of Added new by samier sompura--><head>
+
+<!-- Added new by samier sompura--> 
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 
 <title>How to Videos on TVLesson | Instructions, Tutorials </title>
 <meta name="keywords" content="how to, how to videos, expert advice, instructional videos, online videos, tips, tutorials, how to instructions, tvlesson, how do I, how to manual."><link rel="shortcut icon" href="http://www.tvlesson.com/images/tvlesson.ico">
@@ -12,6 +15,8 @@ Sharing lessons on line can be a very powerful tool. Lesson content covers every
 <link rel="stylesheet" href="http://www.tvlesson.com/css/box.css" media="all">
 <link href="http://www.tvlesson.com/img/text.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.tvlesson.com/css/js_color_picker_v2.css">
+<link rel="stylesheet" href="http://www.tvlesson.com/css/my_information.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.tvlesson.com/css/my_account.css" type="text/css" media="all">
 
 <script src="http://www.tvlesson.com/removedjavascript/jquery-1.2.6.pack.js" language="javascript" type="text/javascript"></script>
 
@@ -27,12 +32,14 @@ Sharing lessons on line can be a very powerful tool. Lesson content covers every
 <script language="JavaScript" src="http://www.tvlesson.com/js/myjavascript.js"></script>
 <script type="text/javascript">
 </script>
+<link rel="stylesheet" href="http://www.tvlesson.com/css/newstyle.css" media="all">
 </head>
 <body class="scrollLock" onload="MM_preloadImages('http://www.tvlesson.com/img/m_home_down.gif','http://www.tvlesson.com/img/m_lesson_up.gif','http://www.tvlesson.com/img/m_categories_up.gif','http://www.tvlesson.com/img/today2_down.gif','http://www.tvlesson.com/img/today3_up.gif','http://www.tvlesson.com/img/today4_up.gif')" onkeypress="keyPressHandler(event)">
 
 <!--[if IE]>
 <style type="text/css">
-  @import url(/img/ie.css)</style>
+  @import "/img/ie.css";
+</style>
 <![endif]-->
 <style type="text/css">
 #fixme {
@@ -103,7 +110,7 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
    </tr>
 	<tr>
 	<td style="color:#777777; font-size:15px;">
-    User Name <input name="action_login" type="hidden" id="text" value="login"> <input name="postUrl" type="hidden" id="postUrl" value="login">
+    User Name<input name="action_login" type="hidden" id="text" value="login"> <input name="postUrl" type="hidden" id="postUrl" value="login">
      </td>
    </tr>
    <tr>
@@ -118,12 +125,13 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
    </tr>
    <tr>
    	<td>
+	 <input type="hidden" name="nextpageurl" value="">
      <input name="password" type="password" id="password" value="" style="width:98%">
     </td>
    </tr>
    <tr>
    	<td> 
-     <input name="submit" type="submit" id="submit" value="  Login">
+     <input name="submit" type="image" src="http://www.tvlesson.com/images/login.jpg" id="submit" value="  Login">
     </td>
    </tr>
    </tbody></table>
@@ -156,7 +164,7 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
 	Password
      </td>
 	<td style="color:#777777; font-size:15px;">
-	Confirm Password
+	Confirm Password 
      </td>
    </tr>
 	<tr>
@@ -174,7 +182,7 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
 	</tr>
 	<tr>
 	<td colspan="2">
-	<input name="Submit" type="submit" id="submit" value="  Register Now  ">&nbsp;<input name="cancel" type="button" id="cancel" value="  Cancel  " onclick="hideAjaxLogin();">
+	<input type="image" src="http://www.tvlesson.com/images/register_now.jpg" name="Submit" id="submit" value="  Register Now  ">&nbsp;<input name="cancel" type="image" src="http://www.tvlesson.com/images/cancel.jpg" id="cancel" value="  Cancel  " onclick="hideAjaxLogin(); return false;">
      </td>
    </tr>
    </tbody></table> 
@@ -193,90 +201,350 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
                 <img src="http://www.tvlesson.com/img/logo.gif"></a></td>
                 <td width="647" align="right" valign="top"><table width="500" border="0" cellspacing="0" cellpadding="0" align="right">
                   <tbody><tr>
-                    <td height="50" align="right"><font face="Arial" id="ajaxTopLinks">
-		  <a href="javascript:void(0);" onclick="showAjaxLogin();"><strong>Sign Up</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	  <a href="javascript:void(0);" onclick="showAjaxLogin();">Log In</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	  <a href="http://www.tvlesson.com/help.php">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://tvlesson.blogspot.com">Blog</a>&nbsp;&nbsp;
-		<div style="margin: auto; height: 200px; background-image: url(http://www.tvlesson.loc/img/logoutback.png); position: absolute; top: 20px; color: rgb(255, 255, 255); text-align: center; z-index: 100; width: 100%; left: 0pt; background-position: center center; background-repeat: no-repeat; font-size: 36px; line-height:50px; padding-top:40px; display:none" id="logoutPannel">Thankyou for visiting <br> TVLesson<br>See you Soon</div></font><div style="margin: auto; height: 200px; background-image: url(http://www.tvlesson.com/img/logoutback.png); position: absolute; top: 20px; color: rgb(255, 255, 255); text-align: center; z-index: 100; width: 100%; left: 0pt; background-position: center center; background-repeat: no-repeat; font-size: 36px; line-height:50px; padding-top:40px; display:none" id="logoutPannel">Thankyou for visiting <br> TVLesson<br>See you Soon</div></td>
+					<td height="50" align="right" valign="middle">
+						<table cellpadding="0" cellspacing="0" height="50"><tbody><tr><td id="fontdivMyAccount" valign="middle">
+</td>
+<td valign="middle">
+<font face="Arial" id="ajaxTopLinks">
+
+		  	
+	  <a href="javascript:void(0);" style=" color:#003E80;font-size:11px;font-family:Arial,sans-serif; font-style:normal; font-variant:normal; font-weight:normal" onclick="showAjaxLogin();" onmouseout="showchangecolor(this);" onmouseover="hidechangecolor(this);"><strong>Sign Up</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	  <a href="javascript:void(0);" style=" color:#003E80;font-size:11px;font-family:Arial,sans-serif; font-style:normal; font-variant:normal; font-weight:normal" onclick="showAjaxLogin();" onmouseout="showchangecolor(this);" onmouseover="hidechangecolor(this);">Log In</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	  	  <a href="http://www.tvlesson.com/help.php" style=" color:#003E80;font-size:11px;font-family:Arial,sans-serif; font-style:normal; font-variant:normal; font-weight:normal" onmouseout="showchangecolor(this);" onmouseover="hidechangecolor(this);">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://tvlesson.blogspot.com" style=" color:#003E80;font-size:11px;font-family:Arial,sans-serif; font-style:normal; font-variant:normal; font-weight:normal" onmouseout="showchangecolor(this);" onmouseover="hidechangecolor(this);">Blog</a>&nbsp;&nbsp;
+<!-- Added new by samier sompura  --> 	
+  <!--<fb:login-button></fb:login-button>	
+	<script type="text/javascript">  FB.init("77a03429e96ccc3010ad136b7f847752","xd_receiver.htm"); </script> -->
+	<fb:login-button style="padding-right:10px;" onlogin="setTVLessonSession();"></fb:login-button>
+		    	
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+     <script type="text/javascript">
+       FB.init("77a03429e96ccc3010ad136b7f847752", "xd_receiver.php");
+     </script>
+     <script src="facebookphplib/fbconnect.js" type="text/javascript"></script><script type="text/javascript">window.onload = function() { facebook_onload(false); };</script>
+
+	
+<!--  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+     <script type="text/javascript">
+       FB.init("77a03429e96ccc3010ad136b7f847752", "xd_receiver.php");
+     </script>
+     <script src="facebookphplib/fbconnect.js" type="text/javascript"></script><script type="text/javascript">window.onload = function() { facebook_onload(false); };</script> end of Added new by samier sompura	--> 	
+		<div style="margin: auto; height: 200px; background-image: url(http://www.tvlesson.loc/img/logoutback.png); position: absolute; top: 20px; color: rgb(255, 255, 255); text-align: center; z-index: 100; width: 100%; left: 0pt; background-position: center center; background-repeat: no-repeat; font-size: 36px; line-height:50px; padding-top:40px; display:none" id="logoutPannel">Thankyou for visiting <br> TVLesson<br>See you Soon</div>
+</font>
+<div style="margin: auto; height: 200px; background-image: url(http://www.tvlesson.com/img/logoutback.png); position: absolute; top: 20px; color: rgb(255, 255, 255); text-align: center; z-index: 100; width: 100%; left: 0pt; background-position: center center; background-repeat: no-repeat; font-size: 36px; line-height:50px; padding-top:40px; display:none" id="logoutPannel">Thankyou for visiting <br> TVLesson<br>See you Soon</div>	
+<font id="fontusernameimage">
+</font>
+</td>
+</tr></tbody></table>
+
+<form name="facebookloginform" id="facebookloginform" action="http://www.tvlesson.com/facebooklogin.php" method="post">
+	<input type="hidden" name="submitflag" id="submitflag" value="false">
+	<input type="hidden" name="pageurl" id="pageurl" value="">
+	<input type="hidden" name="proxied_email" id="proxied_email" value="">	 
+	<input type="hidden" name="first_name" id="first_name" value="">	 
+	<input type="hidden" name="last_name" id="last_name" value="">	 
+	<input type="hidden" name="birthday" id="birthday" value="">	 
+	<input type="hidden" name="sex" id="sex">	 
+	<input type="hidden" name="about_me" id="about_me">
+	
+	
+	<input type="hidden" name="fbuserid" id="fbuserid" value="">
+	<input type="hidden" name="fbusername" id="fbusername" value="">
+	<input type="hidden" name="fbuseremail" id="fbuseremail" value="">
+	<input type="hidden" name="logintype" id="logintype" value="facebook">
+</form>
+
+<script>
+function setTVLessonSession()
+{
+
+	var fbusername;
+	var fbuserid;
+	var arrayfreind=FB.Connect.get_loggedInUser();
+	fbuserid=arrayfreind;
+	var myarray= new Array();
+	var flag=false;
+	myarray[0]="name";
+	myarray[1]="birthday";	
+	myarray[2]="proxied_email"; 
+	myarray[3]="email_hashes";
+	myarray[4]="first_name";
+	myarray[5]="last_name";
+	myarray[6]="birthday";
+	myarray[7]="sex";
+	myarray[8]="about_me";
+	document.getElementById('fbuserid').value=fbuserid;
+
+	FB.Facebook.apiClient.users_getInfo(arrayfreind,myarray,function(result, ex) {
+          //Do something with result
+				//fbusername=result[0].name;
+				//alert(result[0].proxied_email);
+				document.getElementById('proxied_email').value=result[0].proxied_email;
+				document.getElementById('fbusername').value=result[0].name;
+				document.getElementById('first_name').value=result[0].first_name;
+				document.getElementById('last_name').value=result[0].last_name;
+				document.getElementById('sex').value=result[0].sex;
+				document.getElementById('birthday').value=result[0].birthday;
+				document.getElementById('about_me').value=result[0].about_me;
+				document.getElementById('submitflag').value="true"
+          });
+		  
+document.getElementById('pageurl').value=window.location.href;
+
+
+document.getElementById('facebookloginform').submit();
+}
+</script>
+					</td>
                   </tr>
                   <tr>
-                    <td align="right">
-					<form action="http://www.tvlesson.com/search.php" id="cse-search-box" method="post">
-					  <div>
-						  <table width="520" height="32" border="0" cellspacing="0" cellpadding="0" id="text_box">
-							<tbody><tr>
-								<td width="417" style="padding-left:13px" align="left" valign="middle">
-								<input type="text" name="q" id="text_field" value="Search Lessons" onfocus="if (this.value == 'Search Lessons') this.value = '';" onblur="if (this.value == '') this.value = 'Search Lessons';" size="20">
-								</td>
-								<td width="103" align="left" valign="middle">
-								<input type="image" src="http://www.tvlesson.com/images/search.jpg" name="sa" value=" "></td>
-							</tr>
-							</tbody></table>
-<!--						<input name="cx" value="008967763971998804524:ljsbgsyuzfa" type="hidden">
-						<input name="cof" value="FORID:11" type="hidden">
-						<input  name="q" id="text_field" size="25" type="text" value="">
-						<input name="sa" value=" " type="image" src="http://www.tvlesson.com/images/search.jpg" />
-						<input name="sa" value="  " style="border: 0px none ; background-image: url(http://www.tvlesson.com/img/search.gif); width: 53px; height: 17px;" type="submit">
--->					  </div>
-				<!-- 20-08-2008 from here eliminited the script of displaying google background image -->
-			 	<!-- 	<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script> </td> -->
-				<!--         upto here -->	  
-				</form>
-				</td>
-                  </tr>
+					  <td align="left" valign="top" style="padding-top:7px"><table width="550" border="0" cellspacing="0" cellpadding="0">
+						  <tbody><tr>
+							<td width="156" align="left" valign="top" style="padding-top:6px">
+							<form action="http://www.tvlesson.com/searchd2503.php" id="cse-search-box" method="get" onsubmit="return searchValidate();return false;">
+							  <select name="channellist" id="channellist" class="listmenu">
+							  <option value="AllVideos">Search All Lessons</option>
+							  <option value="Members">Search All Members</option>								
+							  <option value="">----------------------------------------</option>
+								
+																	<option value="37">Arts &amp; Hobbies</option>
+																	<option value="28">Beauty &amp; Fashion</option>
+																	<option value="16">Business &amp; Money</option>
+																	<option value="30">Cars &amp; Motorcycles</option>
+																	<option value="4">College &amp; Higher Learning</option>
+																	<option value="6">Computers &amp; Software</option>
+																	<option value="29">Dating &amp; Relationships</option>
+																	<option value="27">Family &amp; Parenting</option>
+																	<option value="10">Food &amp; Drink</option>
+																	<option value="12">Health &amp; Diet</option>
+																	<option value="18">High School </option>
+																	<option value="34">Home &amp; Garden</option>
+																	<option value="19">Language Lessons</option>
+																	<option value="26">Legal Lessons</option>
+																	<option value="33">Martial Arts</option>
+																	<option value="5">Music Lessons</option>
+																	<option value="13">Other Lessons</option>
+																	<option value="35">Politics &amp; Issues</option>
+																	<option value="32">Programming</option>
+																	<option value="11">Real Estate</option>
+																	<option value="17">SEO Lessons</option>
+																	<option value="9">Sports &amp; Fitness</option>
+																	<option value="31">Video Games</option>
+															  </select>
+							</form></td>
+							<td width="394" align="left" valign="top" class="box_back"><table width="394" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								  <td style="padding-left:7px" align="left"><input type="text" class="text_box" id="text_field" name="s" onblur="searchonblur(this)" onfocus="searchonfocus(this)" value="I want to learn..."></td>
+								  <td><img src="http://www.tvlesson.com/images/newstyleimages/search_top_but.jpg" onclick="return searchValidate();return false;"></td>
+								</tr>
+							  </tbody></table>
+							  
+							</td>
+						  </tr>
+						</tbody></table></td>
+					</tr>
                 </tbody></table></td>
               </tr>
             </tbody></table></td>
           </tr>
+		  <tr>
+					<td align="left" valign="top">
+					  <div id="searchmaindiv" style="height:0;overflow:hidden;vertical-align:top">
+						<table width="941" align="center" cellpadding="0" cellspacing="0">
+							<tbody><tr> 
+							<td align="left" valign="top" width="13"><img src="http://www.tvlesson.com/images/newstyleimages/left_top_corner.jpg"></td>
+							<!-- search panel heading-->
+							<td align="center" valign="top" width="915" class="box_top_back">
+							<table width="915" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+							<td width="306" align="left" valign="top" class="heading">Recent Search Topics</td>
+							<td width="314" align="left" valign="top" class="heading">My Search History</td>
+							<td width="293" align="left" valign="top" class="heading">Hot Search Topics</td>
+							</tr>
+							</tbody></table>
+							</td>
+							<td align="left" valign="top" width="13"><img src="http://www.tvlesson.com/images/newstyleimages/right_top_corner.jpg"></td>
+							</tr>
+							<tr><td colspan="3" align="left" valign="top" class="three_list_container">
+							<table width="941" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+							<td align="left" valign="top" width="313" style="padding-bottom:10px; border-right:1px solid #999999">
+							<div class="three_list" style="margin-left:33px">
+							<ul>
+														<li><a href="http://www.tvlesson.com/search/AllVideos/spread">spread (66)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/tank">tank (34)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/text">text (95)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/hack facebook">hack facebook (74)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/yoga">yoga (136)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/star">star (75)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/buy gaming laptop">buy gaming laptop (391)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/hors">hors (8)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/wireless printing">wireless printing (56)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/tappen">tappen (0)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/maxwells">maxwells (1)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/digital photography iso light s">digital photography iso light s (518)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/gohan">gohan (3)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/antiques">antiques (27)</a></li>
+							 							<li><a href="http://www.tvlesson.com/search/AllVideos/assistant">assistant (10)</a></li>
+							 							</ul>
+							</div>
+							</td>
+							<td align="left" valign="top" width="313" style="padding-bottom:10px; border-right:1px solid #999999">
+							<div class="three_list" style="margin-left:26px">
+							<ul>
+														  							  							</ul>
+							</div>
+							</td>
+							<td align="left" valign="top" width="315">
+							<div class="three_list" style="margin-left:26px">
+							<ul>
+														<li><a href="http://www.tvlesson.com/search/AllVideos/beauty tips">beauty tips (364)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/adobe photoshop">adobe photoshop (390)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/english">english (477)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/esl">esl (30)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/dota tutorial ">dota tutorial  (11894)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/diet">diet (253)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/healthy food">healthy food (1329)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/dating">dating (150)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/hack facebook">hack facebook (74)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/hack">hack (54)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/japanese">japanese (205)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/business startup">business startup (567)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/tape shin splints">tape shin splints (38)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/master lock combination recovery ">master lock combination recovery  (10612)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/korean food">korean food (1079)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/writing lessons">writing lessons (320)</a></li>
+							
+														<li><a href="http://www.tvlesson.com/search/AllVideos/irs rebate ">irs rebate  (10320)</a></li>
+							
+														</ul>
+							</div>
+							</td>
+							</tr>
+							</tbody></table>
+							</td></tr>
+							
+							<tr>
+								<td align="left" height="12" valign="top" colspan="3" class="box_bottom_back">
+								<img src="http://www.tvlesson.com/images/newstyleimages/left_bottom_but.jpg" align="left">
+								<img src="http://www.tvlesson.com/images/newstyleimages/right_bottom_but.jpg" align="right">
+								</td>
+							</tr>
+							
+						</tbody></table>
+					  </div>
+					</td>
+				  </tr>
           <tr>
             <td><table width="938" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="2"><img src="http://www.tvlesson.com/img/top_menu_left.gif" width="2" height="60"></td>
                 <td valign="top" background="http://www.tvlesson.com/img/top_menu_bg.gif"><table width="934" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
-                    <td align="left"><div id="headnav" style="z-index:5">
-<ul><li><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','http://www.tvlesson.com/img/m_home_down.gif',1)"><img src="http://www.tvlesson.com/img/m_home_up.gif" name="Image7" width="184" height="30" border="0" id="Image7"></a></li><li id="howtoul"><a href="http://www.tvlesson.com/howto" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('Image8','','http://www.tvlesson.com/img/m_lesson_up.gif',1);"><img src="http://www.tvlesson.com/img/m_lesson_down.gif" name="Image8" width="184" height="30" border="0" id="Image8"></a><div id="full-episodes-nav"><div id="navupimg"></div><div id="navclose" onclick="closenav()"></div>
-<div id="navcontent" style="z-index:10">
-				<ul>					<li><a href="http://www.tvlesson.com/28_beauty--fashion.html">Beauty &amp; Fashion</a></li>
-										<li><a href="http://www.tvlesson.com/16_business--money.html">Business &amp; Money</a></li>
-										<li><a href="http://www.tvlesson.com/30_cars--motorcycles.html">Cars &amp; Motorcycles</a></li>
-										<li><a href="http://www.tvlesson.com/4_college--higher-learning.html">College &amp; Higher Learning</a></li>
-										<li><a href="http://www.tvlesson.com/6_computers--softwares.html">Computers &amp; Softwares</a></li>
-										<li><a href="http://www.tvlesson.com/29_dating--relationships.html">Dating &amp; Relationships</a></li>
-										<li><a href="http://www.tvlesson.com/27_family--parenting.html">Family &amp; Parenting</a></li>
-										<li><a href="http://www.tvlesson.com/10_food--drink.html">Food &amp; Drink</a></li>
-									</ul>
-				<ul>					<li><a href="http://www.tvlesson.com/12_health--diet.html">Health &amp; Diet</a></li>
-										<li><a href="http://www.tvlesson.com/18_high-school-.html">High School </a></li>
-										<li><a href="http://www.tvlesson.com/34_home--garden.html">Home &amp; Garden</a></li>
-										<li><a href="http://www.tvlesson.com/19_language-lessons.html">Language Lessons</a></li>
-										<li><a href="http://www.tvlesson.com/26_legal-lessons.html">Legal Lessons</a></li>
-										<li><a href="http://www.tvlesson.com/33_martial-arts.html">Martial Arts</a></li>
-										<li><a href="http://www.tvlesson.com/5_music-lessons.html">Music Lessons</a></li>
-										<li><a href="http://www.tvlesson.com/13_other-lessons.html">Other Lessons</a></li>
-									</ul>
-				<ul>					<li><a href="http://www.tvlesson.com/35_politics--issues.html">Politics &amp; Issues</a></li>
-										<li><a href="http://www.tvlesson.com/32_programming.html">Programming</a></li>
-										<li><a href="http://www.tvlesson.com/11_real-estates.html">Real Estates</a></li>
-										<li><a href="http://www.tvlesson.com/17_seo-lessons.html">SEO Lessons</a></li>
-										<li><a href="http://www.tvlesson.com/9_sports--fitness.html">Sports &amp; Fitness</a></li>
-										<li><a href="http://www.tvlesson.com/31_video-games.html">Video Games</a></li>
-									</ul>
-				</div></div></li><li><a href="http://www.tvlesson.com/community.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.tvlesson.com/img/m_categories_up.gif',1)"><img src="http://www.tvlesson.com/img/m_categories_down.gif" name="Image9" width="184" height="30" border="0" id="Image9"></a></li><li style="float:right;" id="uploadul"><a href="http://www.tvlesson.com/uploadnew.php"><img src="http://www.tvlesson.com/img/upload.gif" width="126" height="30" border="0"></a><div class="dropnav"><div class="navupimg" style="background-position:120px 0; width:233px"></div><div class="navclose" onclick="closenav()"></div>
-<div class="navcontent">
-				<ul style="margin:0 0 0 10px">					<li><a href="/upload.php">Upload&nbsp;Video</a></li>
-										</ul>
-				<ul>					<li><a href="/uploadlesson.php">Upload&nbsp;Article</a></li>
-</ul>
-				</div></div></li></ul></div></td>
+                    <td align="left"><script language="javascript" type="text/javascript">
+
+	var kwicks= {};
+	var leftPage = {};
+	var rightPage= {};
+	var CurrentPage= {};
+	var urls= {};
+	var fx= {};
+	var fxPaging= {};
+	var kwicksPaging ={};
+	var pageno ={};
+	var totalpages = {}
+	szNormal = 640; szSmall  = 0; szFull   = 640;
+
+</script>
+
+<div id="headnav" style="z-index:5">
+  <ul>
+    <li><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','http://www.tvlesson.com/img/m_home_down.gif',1)"><img src="http://www.tvlesson.com/img/m_home_up.gif" name="Image7" width="184" height="30" border="0" id="Image7"></a></li>
+    <li id="howtoul"><a href="http://www.tvlesson.com/howto" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('Image8','','http://www.tvlesson.com/img/m_lesson_up.gif',1);"><img src="http://www.tvlesson.com/img/m_lesson_down.gif" name="Image8" width="184" height="30" border="0" id="Image8"></a>
+      <div id="full-episodes-nav">
+        <div id="navupimg"></div>
+        <div id="navclose" onclick="closenav()"></div>
+        <div id="navcontent" style="z-index:10">
+          <ul>
+                        <li><a href="http://www.tvlesson.com/37_arts--hobbies.html">Arts &amp; Hobbies</a></li>
+                        <li><a href="http://www.tvlesson.com/28_beauty--fashion.html">Beauty &amp; Fashion</a></li>
+                        <li><a href="http://www.tvlesson.com/16_business--money.html">Business &amp; Money</a></li>
+                        <li><a href="http://www.tvlesson.com/30_cars--motorcycles.html">Cars &amp; Motorcycles</a></li>
+                        <li><a href="http://www.tvlesson.com/4_college--higher-learning.html">College &amp; Higher Learning</a></li>
+                        <li><a href="http://www.tvlesson.com/6_computers--software.html">Computers &amp; Software</a></li>
+                        <li><a href="http://www.tvlesson.com/29_dating--relationships.html">Dating &amp; Relationships</a></li>
+                        <li><a href="http://www.tvlesson.com/27_family--parenting.html">Family &amp; Parenting</a></li>
+                      </ul>
+          <ul>
+                        <li><a href="http://www.tvlesson.com/10_food--drink.html">Food &amp; Drink</a></li>
+                        <li><a href="http://www.tvlesson.com/12_health--diet.html">Health &amp; Diet</a></li>
+                        <li><a href="http://www.tvlesson.com/18_high-school-.html">High School </a></li>
+                        <li><a href="http://www.tvlesson.com/34_home--garden.html">Home &amp; Garden</a></li>
+                        <li><a href="http://www.tvlesson.com/19_language-lessons.html">Language Lessons</a></li>
+                        <li><a href="http://www.tvlesson.com/26_legal-lessons.html">Legal Lessons</a></li>
+                        <li><a href="http://www.tvlesson.com/33_martial-arts.html">Martial Arts</a></li>
+                        <li><a href="http://www.tvlesson.com/5_music-lessons.html">Music Lessons</a></li>
+                      </ul>
+          <ul>
+                        <li><a href="http://www.tvlesson.com/13_other-lessons.html">Other Lessons</a></li>
+                        <li><a href="http://www.tvlesson.com/35_politics--issues.html">Politics &amp; Issues</a></li>
+                        <li><a href="http://www.tvlesson.com/32_programming.html">Programming</a></li>
+                        <li><a href="http://www.tvlesson.com/11_real-estate.html">Real Estate</a></li>
+                        <li><a href="http://www.tvlesson.com/17_seo-lessons.html">SEO Lessons</a></li>
+                        <li><a href="http://www.tvlesson.com/9_sports--fitness.html">Sports &amp; Fitness</a></li>
+                        <li><a href="http://www.tvlesson.com/31_video-games.html">Video Games</a></li>
+                      </ul>
+        </div>
+      </div>
+    </li>
+    <li><a href="http://www.tvlesson.com/community.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.tvlesson.com/img/m_categories_up.gif',1)"><img src="http://www.tvlesson.com/img/m_categories_down.gif" name="Image9" width="184" height="30" border="0" id="Image9"></a></li>
+    <li style="float:right;" id="uploadul"><a href="http://www.tvlesson.com/uploadnew.php"><img src="http://www.tvlesson.com/img/upload.gif" width="126" height="30" border="0"></a>
+      <div class="dropnav">
+        <div class="navupimg" style="background-position:120px 0; width:233px"></div>
+        <div class="navclose" onclick="closenav()"></div>
+        <div class="navcontent">
+          <ul style="margin:0 0 0 10px">
+		<li><a href="http://www.tvlesson.com/upload.php">Upload&nbsp;Video</a></li>
+          </ul>
+          <ul>
+            <li><a href="http://www.tvlesson.com/uploadlesson.php">Upload&nbsp;Article</a></li>
+          </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+</td>
                   </tr>
                   <tr>
                     <td height="30" align="left">
 					<table width="600" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
                      <!-- <td width="105">&nbsp;</td>-->
-                        <td align="left" id="subNav"><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.tvlesson.com/my_video.php">My Videos</a><img src="http://www.tvlesson.com/img/menu_line.gif" width="28" height="30" align="absmiddle"><a href="http://www.tvlesson.com/my_favour.php">My Favorites</a><img src="http://www.tvlesson.com/img/menu_line.gif" width="28" height="30" align="absmiddle"><a href="http://www.tvlesson.com/mygroup.php">My Groups</a><img src="http://www.tvlesson.com/img/menu_line.gif" width="28" height="30" align="absmiddle"><a href="http://www.tvlesson.com/my_profile.php">My Profile</a></font></td>
+                        <td align="left" id="subNav">
+						<font face="Arial">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						 <a href="http://www.tvlesson.com/my_video.php">My Videos</a>
+						 <img src="http://www.tvlesson.com/img/menu_line.gif" width="28" height="30" align="absmiddle">
+						 <a href="http://www.tvlesson.com/my_favour.php">My Favorites</a>
+						 <img src="http://www.tvlesson.com/img/menu_line.gif" width="28" height="30" align="absmiddle">
+						 <a href="http://www.tvlesson.com/mygroup.php">My Groups</a>
+						 </font></td>
                       </tr>
                     </tbody></table>
 					</td>
@@ -291,7 +559,64 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
       </tr>
     </tbody></table></td>
   </tr>  
-</tbody></table><table width="1003" border="0" cellspacing="0" cellpadding="0" align="center">
+</tbody></table>
+<script language="JavaScript" src="http://www.tvlesson.com/javascript/headercollapseexpand.js"></script>
+
+<script>
+var usersessionid='dmjfptbdb6ea478i5pip3nk9a7';
+var http;
+function loginusersessionid()
+{
+
+		var url="http://www.tvlesson.com/loginusersessionidajax.php?sessionid="+usersessionid;
+		
+		if(window.ActiveXObject)
+		{
+			http = new ActiveXObject("Microsoft.XMLHTTP");
+			http.open("GET",url,true);
+			http.onreadystatechange=function (){
+													if(http.readyState==4)
+													{
+													
+														//alert(http.responseText);
+														var xmlObject=http.responseXML;
+														var status=xmlObject.getElementsByTagName('status');
+
+														if(status[0].firstChild.data=='logout')
+														{
+															alert('You have been signed out because you signed in on a different computer or device.');
+															window.location='http://www.tvlesson.com/login.php';
+														}
+													}
+												};				
+			http.send(null);
+		}
+		else
+		{
+			http=new XMLHttpRequest();
+			http.open("GET",url,true);
+			http.onreadystatechange=function (){
+													if(http.readyState==4)
+													{
+														//alert(http.responseText);
+														var xmlObject=http.responseXML;
+														var status=xmlObject.getElementsByTagName('status');
+														if(status[0].firstChild.data=='logout')
+														{
+															alert('You have been signed out because you signed in on a different computer or device.');
+															window.location='http://www.tvlesson.com/login.php';
+														}
+													}
+												};			
+			http.send(null);
+		}
+
+
+}
+
+//loginusersessionid();
+</script>
+<table width="1003" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
     <td width="22" valign="top"><img src="img/body_bg_left.gif" width="22" height="663"></td>
     <td width="961" align="center" valign="top"><table width="938" border="0" cellspacing="0" cellpadding="0">
@@ -531,9 +856,12 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
                   <td align="left" width="157"><span style="font-weight: 700">
                   <font face="Arial" size="2" color="#808080">Categories</font></span></td>
                   <td align="left" width="156">&nbsp;</td>
-                  <td align="left" width="151"><span style="font-weight: 700;"> <font color="#808080" size="2" face="Arial">Your Account</font></span></td>
-                  <td align="left" width="163"><font style="font-size: 10pt; font-weight: 700;" color="#808080" face="Arial"> About Us</font></td>
-                  <td align="left" width="157"><span style="font-weight: 700;"><font color="#808080" size="2" face="Arial">Blog</font></span></td>
+                  <td align="left" width="163"><span style="font-weight: 700">
+                  <font face="Arial" size="2" color="#808080">TVLesson</font></span></td>
+                  <td align="left" width="157"><span style="font-weight: 700;"><font color="#808080" size="2" face="Arial">
+                  Site</font></span></td>
+                  <td align="left" width="151"><span style="font-weight: 700;"> <font color="#808080" size="2" face="Arial">
+                  Your Account</font></span></td>
                   <td align="left" width="137"><font style="font-size: 10pt; font-weight: 700;" color="#808080" face="Arial"> Subscribe</font></td>
                 </tr>
                 <tr>
@@ -619,51 +947,74 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
                   <a href="http://www.tvlesson.com/31_video-games.html">
                   <font color="#6699FF"><span style="font-size: 9pt">Video Games
                   </span></font></a></font></td>
-                  <td valign="top" width="151">
-                  <p align="left"><font style="font-size: 9pt;" color="#6699ff" face="Arial"><a href="http://www.tvlesson.com/my_video.php"><font color="#6699ff">My 
-                    Videos</font></a><br>
-                        </font><font style="font-size: 9pt;" color="#6699ff" face="Arial"><a href="http://www.tvlesson.com/my_lessons.php"><font color="#6699ff">
-                        My Articles</font></a><br>
-                        <a href="http://www.tvlesson.com/my_profile.php"><font color="#6699ff">My Profile</font></a><br>
-                        <font color="#6699ff"><a href="http://www.tvlesson.com/mygroup.php"><font color="#6699ff">My Groups</font></a><br>
-                        </font><a href="http://www.tvlesson.com/upload.php"><font color="#6699ff">Upload 
-                        Lessons</font></a></font></p>
-                  <p align="left">&nbsp;</p>
-                        <p align="left" dir="ltr"><span style="font-weight: 700">
-                        <font face="Arial" size="2" color="#808080">TVL Help</font></span><font style="font-size: 10pt; font-weight: 700;" color="#808080" face="Arial"><br></font>
-                        <a href="http://www.tvlesson.com/article2.php">
-                        <font face="Arial" style="font-size: 9pt" color="#6699FF">
-                        Articles</font></a><font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
-                        <a href="http://www.tvlesson.com/scout1.php">
-                        <font color="#6699FF">SmartSccout</font></a><br>
-                    <a href="http://www.tvlesson.com/help.php">
-                    <font color="#6699FF">Frequent Questions<br></font></a></font><font style="font-size: 9pt;" color="#6699ff" face="Arial">
-                    <a href="http://www.tvlesson.com/contest2008.php">
-                    <font color="#6699FF">Win Prizes<br></font></a></font></p></td>
                   <td valign="top" width="163">
                   <p align="left"><a href="http://www.tvlesson.com/about.php">
-                  <font face="Arial" style="font-size: 9pt" color="#6699FF">How 
-                  TVL Works</font></a><font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
-                        <a href="http://www.tvlesson.com/dev.php"><font color="#6699ff">Advertise</font></a><br>
-                        <a href="http://www.tvlesson.com/contact.php"><font color="#6699ff">Contact</font></a> <br>
-                    <a href="http://www.tvlesson.com/privacy.php"><font color="#6699ff">Privacy Policy</font></a><br>
-                    <a href="http://www.tvlesson.com/copyright.php"><font color="#6699ff">Terms 
-                      of Use</font></a><br>
-                    <a href="http://www.tvlesson.com/rssls.php"><font color="#6699ff">RSS Syndication</font></a><br>
+                  <font face="Arial" style="font-size: 9pt" color="#6699FF">
+                  About Us</font></a><font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
+                        <a href="http://www.tvlesson.com/dev.php"><font color="#6699ff">
+                        Advertise</font></a><br>
+                        <a href="http://www.tvlesson.com/contact.php"><font color="#6699ff">
+                        Contact</font></a> <br>
+                    <a href="http://www.tvlesson.com/privacy.php"><font color="#6699ff">
+                    Privacy Policy</font></a><br>
+                    <a href="http://www.tvlesson.com/copyright.php"><font color="#6699ff">
+                    Terms of Use</font></a><br>
+                    <a href="http://www.tvlesson.com/rssls.php"><font color="#6699ff">
+                    RSS Syndication</font></a></font></p><p align="left">&nbsp;</p><p align="left">
+<font style="font-size: 9pt;" color="#808080" face="Arial">
+<span style="font-weight: 700">Join Our Community</span></font><font style="font-size: 9pt;" color="#6699ff" face="Arial"><a href="http://www.tvlesson.com/download/toolbar.php"><br></a>
+<a href="http://www.facebook.com/group.php?gid=44816262519">
+                    <img border="0" src="http://www.tvlesson.com/images/facebook1.gif" width="75" height="26"></a><a href="http://www.twitter.com/tvlesson"><br></a>
+                    <a href="http://twitter.com/TVLesson"><img border="0" src="http://www.tvlesson.com/images/twitter.gif" width="80" height="30"></a><a href="http://www.twitter.com/tvlesson"><br></a>
+<a href="http://tvlesson.blogspot.com"><img border="0" src="http://www.tvlesson.com/images/blogspot.jpg" width="30" height="30"></a></font></p><p align="left"><font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
                   </font></p></td>
                   <td valign="top" width="157" align="left">
-                  <p align="left"><font style="font-size: 9pt;" color="#6699ff" face="Arial"><a href="http://tvlesson.blogspot.com"><font color="#6699ff">Weekly Blog</font></a></font></p>
                   <p align="left">
-                  <font color="#6699ff" style="font-size: 9pt" face="Arial"><b><br>
-                    </b></font>
-                    <img border="0" src="http://www.tvlesson.com/index/blog.jpg" width="135" height="63"></p></td>
+<a href="http://tvlesson.com/howto/videos/"><font face="Arial" style="font-size: 9pt" color="#6699FF">Videos<br></font></a>
+                        <a href="http://tvlesson.com/howto/playlists/">
+                        <font face="Arial" style="font-size: 9pt" color="#6699FF">
+                        Playlists<br></font></a>
+                        <a href="http://www.tvlesson.com/howto/articles/">
+                        <font face="Arial" style="font-size: 9pt" color="#6699FF">
+                        Articles<br></font></a><font style="font-size: 9pt;" color="#6699ff" face="Arial">
+                    <a href="http://www.tvlesson.com/help.php">
+                    <font color="#6699FF">Frequent Questions<br>&nbsp;</font></a></font></p><p align="left">
+<font color="#808080" face="Arial" size="2"><span style="font-weight: 700">
+Downloads</span></font><font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
+                        <a href="http://www.tvlesson.com/download/toolbar.php">
+                        <img border="0" src="http://www.tvlesson.com/download/add.jpg" width="19" height="19"></a>
+                        <a href="http://www.tvlesson.com/download/toolbar.php">
+                        <font color="#6699FF">Toolbar</font></a></font></p><p align="left">
+&nbsp;</p><p align="left">
+&nbsp;</p><p align="left">
+<font style="font-size: 9pt;" color="#6699ff" face="Arial"><br>
+                    &nbsp;</font></p></td>
+                  <td valign="top" width="151">
+                  <p align="left"><font style="font-size: 9pt;" color="#6699ff" face="Arial"><a href="http://www.tvlesson.com/my_video.php"><font color="#6699ff">
+                  My Videos</font></a><br>
+                        <a href="http://www.tvlesson.com/my_lessons.php"><font color="#6699ff">
+                        My Articles</font></a><br>
+                        <a href="http://www.tvlesson.com/my_profile.php"><font color="#6699ff">
+                        My Profile</font></a><br>
+                        <font color="#6699ff"><a href="http://www.tvlesson.com/mygroup.php"><font color="#6699ff">
+                        My Groups</font></a><br>
+                        </font><a href="http://www.tvlesson.com/upload.php"><font color="#6699ff">
+                        Upload Lessons</font></a></font></p>
+                  <p align="left">&nbsp;</p>
+                        <p align="left" dir="ltr"><font style="font-size: 9pt;" color="#6699ff" face="Arial">
+                    <a href="http://www.tvlesson.com/help.php">
+                    <font color="#6699FF"><br></font></a>
+                    <a href="http://www.tvlesson.com/contest2008.php">
+                    <font color="#6699FF"><br></font></a></font></p></td>
                   <td valign="top" width="137" align="left"> <font style="font-size: 10pt;" color="#808080" face="Arial">
                   To sign-up for our<br>
                     newsletter, <br>
                     please</font><font style="font-size: 10pt;" color="#6699ff" face="Arial"> </font> <font color="#6699ff" face="Arial"> <a href="http://www.tvlesson.com/signup.php"> <font style="font-size: 9pt;" color="#6699ff">
                     create an <br>
-                      account.</font></a></font><p>
-                    <img border="0" src="http://www.tvlesson.com/index/comment.jpg" width="135" height="132"></p></td>
+                      account.</font></a></font><p align="center">
+&nbsp;</p><p>
+                    &nbsp;</p><p>
+                    &nbsp;</p></td>
                 </tr>
               </tbody>
             </table></td>
@@ -677,15 +1028,16 @@ top: expression( ( -document.body.clientHeight  + ( document.documentElement.cli
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-09vG7UT5KNoNA";quantserve();</script><noscript>
-<a href="http://www.quantcast.com/p-09vG7UT5KNoNA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-09vG7UT5KNoNA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+                  <a href="http://www.quantcast.com/p-09vG7UT5KNoNA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-09vG7UT5KNoNA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 <!-- End Quantcast tag -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-942677-3");
 pageTracker._trackPageview();
-</script>
+makelogin();
+                  </script>
 
 </body></html>
