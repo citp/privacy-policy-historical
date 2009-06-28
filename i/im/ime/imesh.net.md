@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imesh.net privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229040733id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imesh.net privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628155139id_/http%3A//www.imesh.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # iMesh - Over 15,000,000 Music downloads and MP3's - 100% legal
 
