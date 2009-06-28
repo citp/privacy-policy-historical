@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026052654id_/http%3A//www.bachpan.com/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628150659id_/http%3A//www.bachpan.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Indian Baby Names, Hindu Baby Names, Hindu God Goddess Names
 
