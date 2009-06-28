@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216041421id_/http%3A//www.liberal.org.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628140851id_/http%3A//liberal.org.au/privacy.php) for the most accurate reproduction.*
 
 # Online privacy. Liberal Party of Australia.
 
 Online privacy 
 
-All personal information collected by The Liberal Party of Australia is protected by the Privacy Act 1988 (Commonwealth of Australia). Any and all information collected at this website - including application form content and email addresses - will be kept strictly confidential and will not be sold, re-used, rented, loaned or otherwise disclosed to a third party, except where prior written permission is obtained from the individual who supplied the information and to whom the information refers. 
+All personal information collected by The Liberal Party of Australia (including the Federal Liberal Parliamentary team hereafter) is protected by the Privacy Act 1988 (Commonwealth of Australia). Any and all information collected at this website - including application form content and email addresses - will be kept strictly confidential and will not be sold, re-used, rented, loaned or otherwise disclosed to a third party, except where prior written permission is obtained from the individual who supplied the information and to whom the information refers. 
 
 No attempt will be made to identify users of their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
