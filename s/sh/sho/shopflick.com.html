@@ -1,0 +1,1706 @@
+<!--The following is the downloaded HTML source of the shopflick.com privacy policy that was archived on 2009-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628164505id_/http%3A//www.shopflick.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+                <!-- HTTP 1.1 -->
+        <meta http-equiv="Cache-Control" content="no-store">
+        <!-- HTTP 1.0 -->
+        <meta http-equiv="Pragma" content="no-cache">
+        <!-- Prevents caching at the Proxy Server -->
+        <meta http-equiv="Expires" content="0">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+        
+        <link rel="icon" href="/shopflick/images/favicon.ico;jsessionid=3EE206B4C0071BBE65C58F8ED661DBE0">
+
+        <title>Shopflick | Privacy Policy</title>
+		<link href="/php/minify.php?files=css/shopflick.css,css/style.css,css/header.css,css/thumbnail.css,css/vertical-menu.css,css/navigation-bar.css,css/horizontal-menu.css,css/modalbox.css,css/dialog/default.css,css/dialog/alphacube.css,css/dialog/alert.css,css/widgets.css" rel="stylesheet" type="text/css">		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Set Up Analytics -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3464252-1");
+
+pageTracker._initData();
+	
+var sfPageTracked = false;
+var sfAnalyticsDebug = sfGetAnalyticsDebug();
+
+var sfPageQualifier = null;
+function sfHrefPv(qualifier) {
+	if(sfPageQualifier != null) {
+		sfPageView('/usage/clicktracking/'+sfPageQualifier+'/'+qualifier);
+	} else {
+		sfPageView('/usage/clicktracking/'+qualifier);
+	}
+	return true;
+}
+
+	function sfPageView(url) {
+		if(pageTracker) {
+			sfPageTracked = true;
+			sfLogAnalyticsCall(url);
+			if(url) {
+				pageTracker._trackPageview(url);
+			} else {
+				pageTracker._trackPageview();
+			}
+		} else {
+			document.getElementById('copyright').title += '; analytics: pageTracker is null';
+			scroll(0,25);
+		}
+	}
+	
+	function sfLogAnalyticsCall(url) {
+		if(sfAnalyticsDebug) {
+			alert('tracking page view: ' + url);
+			if(url) {
+				document.getElementById('copyright').title += '; page = ' + url;
+			} else {
+				document.getElementById('copyright').title += '; default = '+location.href;
+			}
+		}
+	}
+	
+	function sfGetAnalyticsDebug() {
+		var cName = 'sfAnalyticsDebug';
+		if (document.cookie.length>0) {
+			c_start=document.cookie.indexOf(cName + '=');
+			if (c_start!=-1) { 
+			    c_start=c_start + cName.length+1; 
+			    c_end=document.cookie.indexOf(";",c_start);
+			    if (c_end==-1) c_end=document.cookie.length;
+			    return unescape(document.cookie.substring(c_start,c_end))==="true";
+			}
+		}
+		return false;
+	}
+	
+	function trackGeneralPageView() {
+		if(pageTracker) {
+			// only track here if not tracked previously in the page
+			if(!sfPageTracked) {
+				sfPageView();
+			}
+			
+		} else {
+			document.getElementById('copyright').title += '; analytics: pageTracker is null';
+			scroll(0,25);
+		}
+	}
+</script>
+
+<!-- End Set Up Analytics -->
+
+
+        <script type="text/javascript" src="/php/minify.php?files=scripts/lib/prototype.js,scripts/lib/scriptaculous.js,scripts/dialog/window.js,scripts/global.js,scripts/common.js,scripts/lib/effects.js,/scripts/modalbox.js,scripts/dialog/window_effects.js,scripts/hover.js,scripts/hover-expand.js,scripts/thumbs.js,scripts/adminLists.js"></script>    
+        
+        
+    </head>
+		<body>
+                 
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="modal-login" style="display:none;">
+    <div id="login-content">
+        <form method="post" id="lightboxloginform" name="lightboxloginform" action="/shopflick/shopflick_security_check;jsessionid=3EE206B4C0071BBE65C58F8ED661DBE0" class="displayform" onsubmit="lightBoxModalLogin(); return false;">
+            <div class="hr-login">
+                <span class="header2" style="float:left; line-height:43px; padding-left:5px;">Log In</span>
+                <span style="float:right; line-height:43px; padding-right:5px;"><a href="/join">Not a member? <b>Sign up here</b></a>.</span>
+            </div>
+            <div class="hr-login">
+                <div class="formlabel-login">
+                    <span class="tools-strong">
+                        Username or Email Address
+                    </span>
+                </div>
+                <div id="inputfields-login" class="inputfields-login">
+                    <input type="text" class="inputfield" name="j_username" id="m_username" maxlength="200" value="" tabindex="1">
+                </div>
+            </div>
+            <div class="hr-login-white">
+                <div class="formlabel-login">
+                    <span class="tools-strong">
+                        Password
+                        <br><a href="/login?forgotpassword=true" style="font-size:10px;">Lost password? Click here.</a>
+                    </span>
+                </div>
+                <div id="inputfields-login" class="inputfields-login">
+                    <input type="password" class="inputfield" name="j_password" id="m_password" maxlength="12" tabindex="2">
+                </div>
+            </div>
+			<div class="hr-login-white-rememberme">
+                <div id="inputfields-rememberme" class="inputfields-rememberme">
+                    <input type="checkbox" class="checkbox" name="rememberMe" maxlength="12">
+                    <span class="tools-strong">Remember Me</span>
+                </div>
+            </div>
+            <div id="modalloginresponse" style="display:none;" class="error-message-small" align="absmiddle"></div>
+            <span style="display:none;" id="modalloginaction">
+            	<img src="images/loader.gif" width="16" height="16" align="absmiddle">
+                <span style="color:#000"> Logging In ...</span>
+            </span>
+            <input class="invisible" type="submit">
+        </form>
+    </div>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+	var loginSuccessAction = "";
+	function setLoginSuccessAction(successAction) {
+		loginSuccessAction = successAction;
+	}
+
+	function showLoginLightBox(successAction) {
+		var loc = window.location + "";
+		if (loc.indexOf("/login") >=0) {
+			location.reload(true);
+			return;
+		}
+		setLoginSuccessAction(successAction);
+		Dialog.confirm($('modal-login').innerHTML, {className:"alert", height: 270, width:400,
+										  okLabel: "Login", cancelLabel: "Cancel", buttonClass: "alert_login",
+										  onOk:lightBoxModalLogin, zIndex: 100, onFocus:setUserNameFocus });
+	}
+	
+	function setUserNameFocus(){
+		if(document.getElementById('m_username')){
+			window.setTimeout("document.getElementById('m_username').focus()", 200);
+		}
+	}
+
+	function lightBoxModalLogin() {
+		$('modalloginaction').style.display= 'block';
+		$('modalloginresponse').style.display= 'none';
+		var pars = Form.serialize('lightboxloginform')+ '&ajax=true';
+		var myAjax = new Ajax.Request( "/shopflick/shopflick_security_check;jsessionid=3EE206B4C0071BBE65C58F8ED661DBE0", {method: 'post', parameters: pars, onLoading: showModalLoginLoad, onComplete: showLightBoxmodalloginresponse} );
+	}
+
+	function showLightBoxmodalloginresponse(originalRequest) {
+		var msg = originalRequest.responseText;
+		if (msg.indexOf("$success$") > -1) {
+			Dialog.closeInfo();
+			if (loginSuccessAction == 'header-login') {
+				location.reload(true);
+				return;
+			}
+			else if (typeof loginSuccess!="undefined") {
+				loginSuccess(loginSuccessAction);
+			}
+			else {
+				refreshHeader();
+			}
+		} else {
+			$('modalloginresponse').innerHTML = "We could not find your login information.<br/>Please try again or join now to become a member.";
+			$('modalloginresponse').style.display= 'block';
+			$('modalloginaction').style.display= 'none';
+		}
+	}
+
+	function showModalLoginLoad() {
+	}
+
+	/**
+	 * This function is used to replace the header of the page with logged-in user details.
+	 */
+	function refreshHeader(){
+		var url = "/refreshHeader.html?";
+		var pars = "action=replaceHeader";
+		var method = 'get';
+		var myAjax = new Ajax.Request(url, {method: method, parameters: pars, onLoading: showModalLoginLoad, onComplete: replaceHeaderResponse} );
+	}
+
+	function replaceHeaderResponse(originalRequest){
+		var response = originalRequest.responseText;
+		$('header').innerHTML = "";
+		$('header').innerHTML = response;
+		isLoggedIn = true;
+		updateHeaderData();
+	}
+</script>
+<div id="container">
+	
+        <div id="cs-banner">
+            <img src="/images/spacer.gif" width="91" height="81" usemap="#cs-banner">
+            <map name="cs-banner">
+                <area href="javascript:showFeedbackWindow();" onclick="return sfHrefPv('homepage/cs-banner');" alt="How can we help?" title="How can we help?" shape="poly" coords="38,0,91,0,0,80,0,34">
+            </map>
+        </div>
+    
+    
+    <div id="header">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a id="logo" href="/" onclick="return sfHrefPv('headerLogo');" title="Shopflick: Discover, Watch &amp; Buy the Unique">Shopflick: Discover, Watch &amp; Buy the Unique</a>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	var loc = window.location + "";
+	if (loc.indexOf("?logout=true") >= 0) {
+		var newLoc = loc.substring(0, loc.indexOf("?logout=true"));
+		window.location = newLoc;
+	} else if (loc.indexOf("&logout=true") >= 0) {
+		var newLoc = loc.substring(0, loc.indexOf("&logout=true"));
+		window.location = newLoc;
+	}
+</script>
+
+
+<form id="logoutfrm" name="logoutfrm" action="/logout">
+<input type="hidden" id="logout_redirect_url" name="logout_redirect_url">
+</form>
+
+<!--[if lte IE 7]>
+    <style type="text/css">
+    	ul#left-nav ul.left-nav-sub ul.left-nav-sub { margin-top:2px; margin-left:14px; }
+            ul#left-nav ul.left-nav-sub ul.left-nav-sub a { position:relative; top:-4px; left:-8px; }    
+            
+		/* videoPage.css */
+        	#addToCart { display:block; margin-top:-2px; }
+    </style>
+<![endif]-->
+
+<!--[if lte IE 6]>
+    <style type="text/css">
+        /* PNG FIX */
+            #cs-banner { background:url(/images/home/cs-banner.gif) no-repeat; }
+            .sale-banner { background:url(/images/sale-banner.gif) no-repeat; }
+            .thumb_play { background:url(/images/icons/thumb_play.gif) no-repeat; }
+            #videocontainer-cover { background:url(/images/listing/videocontainer-cover.png) no-repeat; }
+            
+        #main-nav ul.nav a { float:left; }
+        #main-nav div.subnav { clear:both; top:22px; }
+            #main-nav div.subnav ul { margin-top:-1px; }
+        
+        ul.nav.bars li { border-right:1px solid #787878; border-left:0px; padding-left:0; margin-right:8px; }
+        ul.nav.double-arrow li { padding-left:0; margin-right:4px; }
+        ul.nav.imgs li { padding-left:0; margin-right:4px; }
+            
+        .btn_search { display:inline; }
+        
+        .btn-h12, .btn-h18, .btn-h25, .btn-h38, .btn-h57 { margin-right:5px; margin-left:0; }
+        
+        #main-nav ul.nav { position:absolute; }
+            #main-nav div.subnav ul { background:#fff url(images/home/line_dotted-h.gif); padding-top:1px; }
+            
+        #footer-separator { margin-bottom:10px; }
+        #copyright { width:685px; }
+        
+        #user-navigation { position:relative; }
+        
+        /* videoPage.css */
+            #products-thumbnails { padding-left:12px; }
+                #products-thumbnails .group-imgs { padding:2px 0 0 2px; }
+                
+        /* privateSale.css */
+            .sps-color { position:relative; }
+        	.sps-color .soldout-x { background:url(/images/shows/private-sale/sps-color_soldout.gif); }
+        	.sps-color .soldout-banner { position:absolute; background:url(/images/shows/private-sale/tooltip_soldout.gif); }
+            
+        /* privateSaleHome.css */
+        	.percent-off { background:url(images/shows/private-sale/home/percent-off.gif); }
+            .play-overlay { background:url(images/shows/private-sale/home/play-overlay.gif); }
+            .active.jcarousel-prev, .active.jcarousel-next { background-position:bottom left !important; border:none !important; }
+            .hover-message { position:absolute; }
+                .hover-message img { background:url(images/shows/hover-arrow.gif); }
+    </style>
+    
+<![endif]-->
+
+	<div id="user-navigation">
+		<ul class="nav bars">
+			
+			
+				<li><a id="noOfCartEntries" href="javascript:sfHrefPv('utilities/cart');showCartLightBox();" title="Your Shopping Cart">
+					
+						
+						
+							Cart
+						
+					
+				</a></li>
+				<li><a href="javascript:sfHrefPv('utilities/feedback');showFeedbackWindow()" title="Tell us what you think of Shopflick">Feedback</a></li>
+				<li><a class="b" href="/join" onclick="return sfHrefPv('utilities/join');" title="Join">Join</a></li>
+				<li><a onclick="sfHrefPv('utilities/login');showLoginLightBox('header-login'); return false;" href="/login" title="Log In">Log In</a></li>
+				<li><a href="/learningcenter" onclick="return sfHrefPv('utilities/help');" title="I have questions!">FAQ</a></li>
+			
+		</ul>
+		
+	</div>
+	<div id="search">
+		<form id="searchGlobalForm" name="searchGlobalForm" method="get" action="/search" onsubmit="return performOrSubmit();">
+			<select id="searchTaxonomyInput" name="searchTaxonomyInput" class="search-select">
+				<option value="">All Shopflick Categories »</option>
+				
+					<option value="18">
+						Clothing »
+					</option>
+				
+					<option value="21">
+						Beauty »
+					</option>
+				
+					<option value="20">
+						Shoes &amp; Handbags »
+					</option>
+				
+					<option value="22">
+						Men »
+					</option>
+				
+					<option value="23">
+						Home &amp; Art »
+					</option>
+				
+					<option value="24">
+						More »
+					</option>
+				
+					<option value="19">
+						Jewelry »
+					</option>
+				
+			</select>
+			<input id="searchTextInput" class="inputsearch" name="searchTextInput" type="text" value="">
+		</form>
+		<span><a id="search-btn" class="btn-h18 btn_text" href="" onclick="if(performOrSubmit()){document.getElementById('searchGlobalForm').submit(); return false;} else {return false;}" title="Search Submit">Search</a></span>
+	</div>
+	</div>
+	<div id="top-nav">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="main-nav">
+	<ul class="nav">
+		
+		
+			
+				
+				
+				<li id="leftNav_0" class="  main-nav_first" style="">
+					<a onclick="return sfHrefPv('topNav/Womens-Clothing');" href="/search?navId=219" title="Women's Clothing">Women's Clothing</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+								
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Coats-&amp;-Jackets');" href="/search?navId=224" title="Coats &amp; Jackets">Coats &amp; Jackets</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Dresses');" href="/search?navId=221" title="Dresses">Dresses</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Jeans');" href="/search?navId=225" title="Jeans">Jeans</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Lingerie-&amp;-Sleepwear');" href="/search?navId=223" title="Lingerie &amp; Sleepwear">Lingerie &amp; Sleepwear</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Pants-&amp;-Leggings');" href="/search?navId=228" title="Pants &amp; Leggings">Pants &amp; Leggings</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Skirts-&amp;-Shorts');" href="/search?navId=227" title="Skirts &amp; Shorts">Skirts &amp; Shorts</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Swimwear');" href="/search?navId=308" title="Swimwear">Swimwear</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Sweaters-&amp;-Hoodies');" href="/search?navId=226" title="Sweaters &amp; Hoodies">Sweaters &amp; Hoodies</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Womens-Clothing/Tops-&amp;-Shirts');" href="/search?navId=222" title="Tops &amp; Shirts">Tops &amp; Shirts</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Womens-Clothing/SALE');" href="/search?saleFilter=enabled&amp;navId=219" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="leftNav_1" class="  " style="">
+					<a onclick="return sfHrefPv('topNav/Shoes-&amp;-Handbags');" href="/search?navId=229" title="Shoes &amp; Handbags">Shoes &amp; Handbags</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Shoes-&amp;-Handbags/Shoes');" href="/search?navId=230" title="Shoes">Shoes</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Shoes-&amp;-Handbags/Handbags');" href="/search?navId=231" title="Handbags">Handbags</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Shoes-&amp;-Handbags/SALE');" href="/search?saleFilter=enabled&amp;navId=229" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="leftNav_2" class="  " style="">
+					<a onclick="return sfHrefPv('topNav/Accessories');" href="/search?navId=330" title="Accessories">Accessories</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Accessories/Belts');" href="/search?navId=331" title="Belts">Belts</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Accessories/Hats');" href="/search?navId=333" title="Hats">Hats</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Accessories/Scarves-&amp;-Gloves');" href="/search?navId=334" title="Scarves &amp; Gloves">Scarves &amp; Gloves</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Accessories/Sunglasses');" href="/search?navId=332" title="Sunglasses">Sunglasses</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Accessories/Tights-&amp;-Socks');" href="/search?navId=335" title="Tights &amp; Socks">Tights &amp; Socks</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Accessories/SALE');" href="/search?navId=330&amp;saleFilter=enabled" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="leftNav_3" class="  " style="">
+					<a onclick="return sfHrefPv('topNav/Jewelry');" href="/search?navId=266" title="Jewelry">Jewelry</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Jewelry/Bracelets');" href="/search?navId=267" title="Bracelets">Bracelets</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Jewelry/Earrings');" href="/search?navId=268" title="Earrings">Earrings</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Jewelry/Necklaces');" href="/search?navId=269" title="Necklaces">Necklaces</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Jewelry/Pendants');" href="/search?navId=270" title="Pendants">Pendants</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Jewelry/Rings');" href="/search?navId=271" title="Rings">Rings</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Jewelry/SALE');" href="/search?saleFilter=enabled&amp;navId=266" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="leftNav_4" class="  " style="">
+					<a onclick="return sfHrefPv('topNav/Home-&amp;-Art');" href="/search?navId=247" title="Home &amp; Art">Home &amp; Art</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Home-&amp;-Art/Art');" href="/search?navId=250" title="Art">Art</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Home-&amp;-Art/Home');" href="/search?navId=249" title="Home">Home</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Home-&amp;-Art/SALE');" href="/search?navId=247&amp;saleFilter=enabled" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="leftNav_5" class="  " style="">
+					<a onclick="return sfHrefPv('topNav/Men');" href="/search?navId=237" title="Men">Men</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Accessories');" href="/search?navId=245" title="Accessories">Accessories</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Coats-&amp;-Jackets');" href="/search?navId=243" title="Coats &amp; Jackets">Coats &amp; Jackets</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Denim');" href="/search?navId=241" title="Denim">Denim</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Pants-&amp;-Shorts');" href="/search?navId=242" title="Pants &amp; Shorts">Pants &amp; Shorts</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Shirts');" href="/search?navId=240" title="Shirts">Shirts</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Shoes');" href="/search?navId=246" title="Shoes">Shoes</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/Sweaters-&amp;-Hoodies');" href="/search?navId=244" title="Sweaters &amp; Hoodies">Sweaters &amp; Hoodies</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Men/T-Shirts-&amp;-Polos');" href="/search?navId=239" title="T-Shirts &amp; Polos">T-Shirts &amp; Polos</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a style="font-weight:bold; color:#E00000 !important;" onclick="return sfHrefPv('topNav/Men/SALE');" href="/search?saleFilter=enabled&amp;navId=237" title="SALE">SALE</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+		
+			
+				
+				
+				<li id="leftNav_7" class="  " style="">
+					<a style="color:#e00000;" onclick="return sfHrefPv('topNav/SALE');" href="http://www.shopflick.com/search?saleFilter=enabled" title="SALE">SALE</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Accessories');" href="/search?navId=330&amp;saleFilter=enabled" title="Accessories">Accessories</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Clothing');" href="/search?saleFilter=enabled&amp;navId=219" title="Clothing">Clothing</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Home-&amp;-Art');" href="/search?navId=247&amp;saleFilter=enabled" title="Home &amp; Art">Home &amp; Art</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Jewelry');" href="/search?saleFilter=enabled&amp;navId=266" title="Jewelry">Jewelry</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Men');" href="/search?saleFilter=enabled&amp;navId=237" title="Men">Men</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/SALE/Shoes-&amp;-Handbags');" href="/search?saleFilter=enabled&amp;navId=229" title="Shoes &amp; Handbags">Shoes &amp; Handbags</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+
+		
+			
+		
+			
+				
+				
+				<li id="rightNav_1" class="  floatR " style="">
+					<a style="color:#003366;" onclick="return sfHrefPv('topNav/Designers');" href="/themes/All-Stores" title="Designers">Designers</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+								
+									
+								
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Designers/All-Stores');" href="/themes/All-Stores" title="All Stores">All Stores</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Designers/Most-Popular');" href="/themes/Featured-Designers" title="Most Popular">Most Popular</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Designers/Top-9-of-09');" href="/themes/Top-9-For-2009" title="Top 9 of 09">Top 9 of 09</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="rightNav_2" class="  floatR " style="">
+					<a style="color:#003366;" onclick="return sfHrefPv('topNav/--Video--');" href="#" title="  Video  ">  Video  </a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Hall-of-Style:-The-Celebrity-Dress-for-Less');" href="http://www.shopflick.com/shows/Hall-of-Style/The-Celebrity-Dress-for-Less" title="Hall of Style: The Celebrity Dress for Less">Hall of Style: The Celebrity Dress for Less</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Hall-of-Style:-Go-Green');" href="http://www.shopflick.com/shows/Hall-of-Style/Go-Green" title="Hall of Style: Go Green">Hall of Style: Go Green</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Hall-of-Style:-Top-Bag-Picks');" href="/shows/Hall-of-Style/In-The-Bag" title="Hall of Style: Top Bag Picks">Hall of Style: Top Bag Picks</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Hall-of-Style:-Kardashian-Sisters-Picks');" href="/shows/Hall-of-Style/Kardashian-Picks" title="Hall of Style: Kardashian Sisters' Picks">Hall of Style: Kardashian Sisters' Picks</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Hall-of-Style:-Hot-High-Heels');" href="/shows/Hall-of-Style/Heels" title="Hall of Style: Hot High Heels">Hall of Style: Hot High Heels</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Stylish-&amp;-Smart:-Clothing,-Jewelry,-Home');" href="/themes/Stylish-and-Smart" title="Stylish &amp; Smart: Clothing, Jewelry, Home">Stylish &amp; Smart: Clothing, Jewelry, Home</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Kitchen-Couture:-Olive-Oil');" href="/shows/Kitchen-Couture/The-Green-Goddess-Get-Your-Drizzle-On" title="Kitchen Couture: Olive Oil">Kitchen Couture: Olive Oil</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Kitchen-Couture:-Chocolate');" href="/shows/Kitchen-Couture/KooKoo-For-Cocoa" title="Kitchen Couture: Chocolate">Kitchen Couture: Chocolate</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Trends-&amp;-Truths:-Tight-Spot');" href="/themes/Trends-and-Truths" title="Trends &amp; Truths: Tight Spot">Trends &amp; Truths: Tight Spot</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Rethink:-Raquel-Allegra');" href="/stores/SFTV-Rethink/Wear-and-Tear" title="Rethink: Raquel Allegra">Rethink: Raquel Allegra</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Rethink:-Uhuru');" href="/stores/SFTV-Rethink/Old-World-New-World" title="Rethink: Uhuru">Rethink: Uhuru</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Rethink:-Narwhal');" href="/stores/SFTV-Rethink/Polyester-Proclamation" title="Rethink: Narwhal">Rethink: Narwhal</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/--Video--/Rethink:-Violet-Valen');" href="/stores/SFTV-Rethink/Teddy-Bear-Traffic" title="Rethink: Violet Valen">Rethink: Violet Valen</a>
+										</li>
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+			
+				
+				
+				<li id="rightNav_3" class="  floatR " style="">
+					<a style="color:#003366;" onclick="return sfHrefPv('topNav/Look-Book');" href="#" title="Look Book">Look Book</a>
+					
+						<div class="subnav">
+							<ul>
+								
+								
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Top-5-Looks-for-Spring');" href="http://www.shopflick.com/themes/Top-5-Looks-For-Spring" title="Top 5 Looks for Spring">Top 5 Looks for Spring</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Eco-Friendly-Designers');" href="/themes/Green-Minded" title="Eco-Friendly Designers">Eco-Friendly Designers</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Stylish-&amp;-Smart-Under-$40');" href="http://www.shopflick.com/themes/Stylish-And-Smart" title="Stylish &amp; Smart Under $40">Stylish &amp; Smart Under $40</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Mothers-Day-Gift-Guide');" href="/themes/Mothers-Day-Gift-Guide" title="Mother's Day Gift Guide">Mother's Day Gift Guide</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/LA-Fashion-Week-Designers');" href="/themes/BOXeight" title="LA Fashion Week Designers">LA Fashion Week Designers</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/New-Arrivals');" href="/themes/New-Arrivals" title="New Arrivals">New Arrivals</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/So-Popular:-Celeb-Style');" href="/themes/So-Popular" title="So Popular: Celeb Style">So Popular: Celeb Style</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Unique-Chic');" href="/themes/unique-chic" title="Unique Chic">Unique Chic</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/10-Easy-Wardrobe-Updates');" href="/themes/Ten-Easy-Wardrobe-Updates" title="10 Easy Wardrobe Updates">10 Easy Wardrobe Updates</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Go-To-Tops');" href="/themes/The-Go-To-Top" title="Go-To Tops">Go-To Tops</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Our-Fav-Necklaces-Under-$50');" href="/themes/Our-Fav-Necklaces" title="Our Fav Necklaces Under $50">Our Fav Necklaces Under $50</a>
+										</li>
+									
+								
+									
+										
+										
+										<li class="">
+											<a onclick="return sfHrefPv('topNav/Look-Book/Hot-High-Heels');" href="/themes/Classic-Heels" title="Hot High Heels">Hot High Heels</a>
+										</li>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+							</ul>
+						</div>
+					
+				</li>
+			
+		
+	</ul>
+</div>
+<script type="text/javascript">
+	handleMainNav = function handleMainNav() {
+		//alert('handleMainNav');
+		var mainNavList=document.getElementById('main-nav').getElementsByTagName('li');
+		
+		jQuery('#main-nav a').click(function(){this.blur();}) // prevents dashed-border appearing on click
+		
+		for(var x=0; x < mainNavList.length; x++){
+			if(mainNavList[x].id){
+				var subNav=mainNavList[x].getElementsByTagName('div')[0];
+				
+				if(subNav){
+					if(subNav.scrollWidth < mainNavList[x].scrollWidth){
+						subNav.style.width = mainNavList[x].scrollWidth-2 + "px";
+					} else {
+						subNav.style.width = subNav.scrollWidth-1 + "px";
+					}
+					subNav.style.display="none";
+					subNav.style.visibility="visible";
+				}
+				
+				mainNavList[x].onmouseover = function(){
+					this.className="main-nav_hover "+this.className;
+				}
+				
+				mainNavList[x].onmouseout = function(){
+					if(this.className.substring(0,4) == "main" ){
+						this.className=this.className.substring(14);
+					}
+				}
+			}
+		}
+	}
+</script>
+<script>
+	handleMainNav();
+</script>
+	</div>
+    <div id="body">
+            
+                
+
+                
+				
+				<div id="breadcrumb" class="metadata"><a href="/">Shopflick</a> / Learning Center</div>
+				
+				<div>
+      				<div class="pagetitle_reskin2"><h6>Support</h6></div>
+			    </div>
+				<div id="leftmenu-box">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="vertmenu-learning-center">
+
+<ul>
+		<li><a href="/learningcenter" tabindex="1">Learning Center</a></li>
+	
+			<li><a href="/learningcenter/support/dispute" tabindex="2">Transaction Disputes</a></li>
+	
+
+	
+			<li><a href="/learningcenter/support" tabindex="3">Contact Shopflick</a></li>
+	
+
+	
+			<li><a href="/terms-of-service" tabindex="5">User Agreement</a></li>
+	
+
+	
+			<li class="vertmenu2">
+				<a href="/privacy-policy" tabindex="6"><span class="blacktext">Privacy Policy</span> </a>
+			</li>
+	
+	
+			<li><a href="/privacy-policy/copyright" tabindex="7">Copyright Property Policy</a></li>
+	
+	
+			<li><a href="/privacy-policy/community" tabindex="8">Community Rules</a></li>
+	
+</ul>
+</div>
+
+			    </div>
+				<div id="rightside-box">
+               		<div class="storeprofile-underline_reskin2">
+        <div class="titlelable">
+          <h3>Shopflick Privacy Policy</h3>
+        </div>
+      </div>
+      <br>
+      <div>
+        <p>This policy tells you about how we use and protect your  personal information. </p>
+        <p>&nbsp;</p>
+        <strong>Scope        </strong>
+        <p>&nbsp;</p>
+        <p>This Privacy Policy describes how Shopflick, Inc. and its  subsidiaries (collectively, “Shopflick“) &nbsp;handle your personal information. It applies  generally to the Shopflick.com website and other related websites and programs,  including the Shopflick Store Player (collectively, the “Service“). </p>
+        <p>&nbsp;</p>
+        <p>Subject to the requirements of applicable law, we strive to  provide a consistent set of privacy practices throughout the global Shopflick  trading community. By accepting the Privacy Policy and the User Agreement during  the registration process, you expressly consent to our collection, storage, use  and disclosure of your personal information as described in this Privacy  Policy. This Privacy Policy is effective upon acceptance for new users and is  otherwise effective on February  25, 2008. </p>
+        <p>This policy does not apply to the practices of companies  that Shopflick does not own or control, or to individuals that Shopflick does  not employ or manage.</p>
+        <p>&nbsp; </p>
+        <p><strong>Collection </strong>        </p>
+        <p>&nbsp;</p>
+        <p>You can browse Shopflick without telling us who you are or  revealing any personal information about yourself. Once you give us your  personal information, you are not anonymous to us. If you choose to provide us  with personal information, you consent to the transfer and storage of that  information on our servers located in the United States, and our use and  disclosure of that information in accordance with this Privacy Policy. </p>
+        <p>&nbsp;</p>
+        <p>We receive and store any information you enter through the  Service or provide to us in any other way.&nbsp;  We may collect and store the following personal information: </p>
+        <p>&nbsp;</p>
+        <ul>
+          <li>email  address, physical contact information, and (depending on the service used)  sometimes financial information, such as credit card or bank account numbers;</li>
+          <li>            transactional  information based on your activities on the sites (such as, buying, selling,  item and content you generate or that relates to your account); </li>
+          <li>            shipping,  billing and other information you provide to purchase or ship an item; </li>
+          <li>            community  discussions, chats, dispute resolution, correspondence through our  sites,&nbsp;and correspondence sent to us;<br>
+            other  information from your interaction with our sites, services, content and  advertising, including computer and connection information, statistics on page  views, traffic to and from the sites, ad data, IP address and standard web log  information; </li>
+          <li>information  from other companies, such as demographic and traffic data;</li>
+          <li>            other  supplemental information from third parties (for example, if you incur a debt  to Shopflick, we will generally conduct a credit check by obtaining additional  information about you from a credit bureau, as permitted by law; or if the  information you provide cannot be verified, we may ask you to send us additional  information, such as your driver license, credit card statement, or a recent  utility bill or other information confirming your address, or to answer  additional questions online to help verify your information). </li>
+          <li>            information  related to your personal profile, including video profiles, pictures,  favorites, collections and avatars; and information  related to buyer and seller feedback, both provided by you and about you.</li>
+        </ul>
+        <p><strong>Marketing        </strong>        </p>
+        <p>&nbsp;</p>
+        <p>Shopflick may rent  or sell your personal information to third party marketing partners (“Partners“)  who may use it to send you information and offers about products and services that  may be of interest to you.&nbsp; If you do not  want us to share your information with our Partners, please e-mail us at <a href="mailto:marketingoptout@shopflick.com">marketingoptout@shopflick.com</a>.</p>
+        <p>&nbsp;</p>
+        <p>Generally, the Service automatically collects usage  information, such as the numbers and frequency of visitors to our site and its  components, similar to TV ratings that indicate how many people watched a  particular show. We may combine your information with information we collect  from other companies and use it to improve and personalize our services,  content and advertising. We may also share demographic information with  business partners, such as “12% of men under 30 who looked at product X  purchased it,“ and the like. &nbsp;Shopflick only  uses this data in aggregate form, that is, as a statistical measure, and not in  a manner that would identify you personally. This type of aggregate data  enables us to figure out how often users use parts of the Service so that we  can make it appealing to as many users as possible. As part of this use of  information, we may provide aggregate information to our partners about how our  users, collectively, use our site. We share this type of statistical data so  that our partners also understand how often people use their services and the  Service, so that they, too, may provide you with an optimal online experience.  Again, Shopflick never discloses aggregate information to a partner in a manner  that would identify you personally. &nbsp;</p>
+        <p>&nbsp;</p>
+        <p>If you don't wish to receive marketing communications from  us or participate in our ad-customization programs, simply indicate your  preference when you sign-in to your My Shopflick homepage, or by following the  directions provided in an email or from a link on the advertisement. </p>
+        <p>&nbsp;</p>
+        <strong>Service-related Announcements        </strong>
+        <p>&nbsp;<br>
+          We will send you a welcome/confirmation email when you sign  up for our services. Receipt of this email is required for using our services.</p>
+        <p>&nbsp;</p>
+        <p>We will send you strictly service-related announcements on  rare occasions when it is necessary to do so. For instance, if our service is  temporarily suspended for maintenance, we might send you an email. </p>
+        <p>&nbsp;</p>
+        <p>Generally, you may not opt-out of these communications,  which are not promotional in nature. If you do not wish to receive them, you  have the option of deactivating your account by emailing <a href="mailto:support@Shopflick.com">support@Shopflick.com</a>  from the email address you signed up with.&nbsp; </p>
+        <p>&nbsp;</p>
+        <p><strong>Discussion Forums        </strong></p>
+        <p>&nbsp;</p>
+        <p>If you use a discussion forum on this site, you should be  aware that any personally identifiable information you submit there can be  read, collected, or used by other users of these forums, and could be used to  send you unsolicited messages. We are not responsible for any personally  identifiable information you choose to submit in any forums.</p>
+        <p>&nbsp;</p>
+        <strong>Use        </strong>
+        <p>&nbsp;</p>
+        <p>Our primary purpose in  collecting personal information is to provide you with a safe, smooth,  efficient, and customized experience. You agree that we may use your personal  information to: </p>
+        <ul><li>provide  the services and customer support you request; </li>
+          <li>resolve  disputes, collect fees, and troubleshoot problems; </li>
+          <li>prevent  potentially prohibited or illegal activities, and enforce our User Agreement; </li>
+          <li>customize,  measure and improve our services, content and advertising; </li>
+          <li>tell  you about targeted marketing, service updates, and promotional offers based on  your communication preferences; </li>
+          <li>and compare  information for accuracy, and verify it with third parties.</li>
+        </ul>
+        <strong>Our Disclosure of Your Information        </strong>
+        <p>&nbsp;</p>
+        <p>We may disclose personal information to respond to legal  requirements, enforce our User Agreement or other agreements or policies,  respond to claims that a listing or other content violates the rights of  others, or when we believe in our sole discretion that disclosure is necessary  to comply with the law or to protect the rights, property, or safety of  Shopflick, our employees, or users, or others. </p>
+        <p>&nbsp;</p>
+        <p><strong>We may also share your personal information with: </strong></p>
+        <ul>
+          <li>Current  and future members of our corporate family to help detect and prevent  potentially illegal acts and provide joint content and services (for example,  registration, transactions and customer support). Our corporate affiliates will  send marketing communications only to users who request these services. </li>
+          <li>Service  providers, vendors and other agents under contract who help with our business  operations (such as fraud investigations, bill collection, affiliate and  rewards programs and co-branded credit cards) or whom we otherwise employ to  perform tasks on our behalf and need to share information with in order to  provide products or services to you. &nbsp;Unless  we tell you differently, Shopflick’s agents do not have any right to use  personal information we share with them beyond what is necessary to assist us.</li>
+          <li>Our  Partners (unless you tell us not to, as explained in the “Marketing“ section of  this Privacy Policy). <br>
+            Other  third parties to whom you explicitly ask us to send your information (or about  whom you are otherwise explicitly notified and consent to when using a specific  service). </li>
+          <li>Law  enforcement or other governmental officials, in response to a verified request  relating to a criminal investigation or alleged illegal activity. In such  events, we will disclose any information relevant to the investigation, such as  name, city, state, zip code, telephone number, email address, User ID history,  IP address, fraud complaints, and bidding and listing history.</li>
+          <li>Certain  intellectual-property rights holders under confidentiality agreement, when we  at our sole discretion believe disclosure is necessary or appropriate in  connection with an investigation relating to fraud, intellectual property  infringement, piracy, or other unlawful activity.</li>
+          <li>Other  business entities, should we plan to merge with, be acquired by, sell assets to  or buy assets from that business entity.&nbsp;  In these types of transactions, user information is typically one of the  business assets that is transferred.&nbsp;  Moreover, if Shopflick, or substantially all of its assets were  acquired, or in the unlikely event that Shopflick goes out of business or  enters bankruptcy, user information would be one of the assets that is  transferred or acquired by a third party.&nbsp;  You acknowledge that such transfers may occur.&nbsp; Should such a combination occur, we will  require that the new combined entity follow this privacy policy with respect to  your personal information. If your personal information will be used contrary  to this policy, you will receive prior notice.</li>
+          <li>Other  businesses with whom we may become affiliated and work closely.&nbsp; In certain situations, these businesses may  operate stores through the Service or sell items to you through the Service. &nbsp;In other situations, Shopflick may provide  services, or sell products jointly with affiliated businesses. You can easily  recognize when an affiliated business is associated with your transaction, and  we will share user information that is related to such transactions with that  affiliated business. </li>
+          <li>Other  users of the Service, since user profile information including users’ name,  email address, and other information you enter (”User Submissions“) may be  displayed to other users to facilitate user interaction through the Service.  Email addresses are used to add new User Submissions to user profiles and to  communicate through User Submissions. Users’ email addresses may be directly  revealed to other users when necessary to facilitate transactions through the  Service.</li>
+        </ul>
+        <p>Without limiting the above, in an effort to respect your  privacy and our ability to keep the community free from bad actors, we will not  otherwise disclose your personal information to law enforcement, other  government officials, or other third parties without a subpoena, court order or  substantially similar legal procedure, except when we believe in good faith  that the disclosure of information is necessary to prevent imminent physical  harm or financial loss or to report suspected illegal activity.</p>
+        <p>Except as set forth above, you will be notified when your  personal information may be shared with third parties, and you will be able to  prevent the sharing of this information.&nbsp; </p>
+        <p>&nbsp;</p>
+        <strong>Activity Associated with Usernames        </strong>
+        <p>&nbsp;</p>
+        <p>Your username is displayed throughout Shopflick and is  therefore available to the public. All of your activity on our sites is  traceable to your username. Other people can see your items purchased in the  past, items for sale, feedback, favorites, collections, ratings and associated  comments, and so on. Notices are sent to other community members regarding  suspicious activity and policy violations on our sites and refer to username and  specific items. Therefore, if you associate your name with your username, the  people to whom you have revealed your name will be able to personally identify  your Shopflick activities. </p>
+        <p>&nbsp;</p>
+        <strong>Using Information from Shopflick        </strong>
+        <p>&nbsp;</p>
+        <p>Shopflick may require you to share personal and financial  information in order to complete transactions. We encourage you to disclose  your privacy practices and respect the privacy of other users. We cannot  guarantee the privacy or security of your information and therefore we  encourage you to evaluate the privacy and security policies of your trading  partner before entering into a transaction and choosing to share your  information. To help protect your privacy, we try to limit access to other  users' contact, shipping and financial information, but when users are involved  in a transaction, they may have access to each other's name, username, email  address and other contact and shipping information. In all cases, you must give  other users a chance to remove themselves from your database and a chance to  review the information you have collected about them.</p>
+        <p>You agree to use information from other users only for:</p>
+        <ul>
+          <li>purposes  related to bona fide Shopflick transactions.&nbsp;  You agree never to use other users’ information to send unsolicited  commercial messages; </li>
+          <li>using  services offered through Shopflick (e.g. escrow, insurance, shipping and fraud  complaints), or</li>
+          <li>other  purposes that a user expressly chooses. </li>
+        </ul>
+        <strong>Cookies </strong>
+        <p>&nbsp;</p>
+        <p>We use "cookies" (small files placed on your hard  drive) on certain of our pages to help analyze our web page flow; customize our  services, content and advertising; measure promotional effectiveness, and  promote trust and safety.</p>
+        <p>&nbsp;</p>
+        <p>A few important things you  should know about cookies are that: </p>
+        <ul>
+          <li>We offer certain features that are available  only&nbsp;through the use of cookies. </li>
+          <li>We  use cookies to help identify you and maintain your signed-in status. </li>
+          <li>You  are always free to decline our cookies if your browser permits, although doing  so may interfere with your use of some of our sites or some features of the  Service. </li>
+          <li>You  may encounter cookies from third parties on certain pages of the sites that we  do not control. (For example, if you view a web page created by another user,  there may be a cookie placed by that web page, or ads appearing on the Service  may be delivered to users by our advertising partners, who may set cookies.) &nbsp;&nbsp;This Privacy Policy covers the use of cookies  by Shopflick and does not cover the use of cookies by any third parties or  advertisers.</li>
+        </ul>
+        <p><strong>No Spam, Spyware or Spoofing        </strong></p>
+        <p>&nbsp;</p>
+        <p>We and our users do not tolerate spam. Make sure to set your  Shopflick notification preferences so we communicate to you as you prefer. You agree  not to add other Shopflick users, even those who have purchased items from you,  to your mailing list (email or physical mail) without their express consent. To  report Shopflick-related spam or spoof emails to Shopflick, please forward the  email to <a href="mailto:spam@Shopflick.com">spam@Shopflick.com</a>. You may not use our communication tools to send  spam or otherwise send content that would violate our User Agreement. We  automatically scan and may manually filter messages to check for spam, viruses,  phishing attacks and other malicious activity or illegal or prohibited content,  but we do not permanently store messages sent through these tools. If you send  an email to an email address that is not registered in our community, we do not  permanently store that email or use that email address for any marketing purpose.  We do not rent or sell these email addresses. </p>
+        <p>&nbsp;</p>
+        <strong>Account Protection        </strong>
+        <p>&nbsp;</p>
+        <p>Your password is the key to your account. You need to ensure  that there is no unauthorized access to your account and personal information  by selecting and protecting your password appropriately and limiting access to  your computer and browser by signing off after you have finished accessing your  account. &nbsp;Use unique numbers, letters and  special characters for your password, and do not disclose your password to  anyone. If you do share your password or your personal information with others,  remember that you are responsible for all actions taken in the name of your  account. If you lose control of your password, you may lose substantial control  over your personal information and may be subject to legally binding actions  taken on your behalf. Therefore, if your password has been compromised for any  reason, you should immediately notify Shopflick and change your password. </p>
+        <p>&nbsp;</p>
+        <strong>Accessing, Reviewing and Changing Your Personal  Information        </strong>
+        <p>&nbsp;</p>
+        <p>You can  see, review and change most of your personal information by signing on to My Shopflick,  including account information, transaction history, user profile, User  Submissions and content you have posted or uploaded, password, e-mail address  and user preferences. &nbsp;This list will change as the Service changes. </p>
+        <p><br>
+          Generally, we will not manually modify your personal  information because it is very difficult to verify your identity remotely. You  must promptly update your personal information if it changes or is inaccurate.  Once you make a public posting, you may not be able to change or remove it.  Upon your request, we will close your account and remove your personal  information from view as soon as reasonably possible, based on your account  activity and in accordance with applicable law. We do retain personal  information from closed accounts to comply with law, prevent fraud, collect any  fees owed, resolve disputes, troubleshoot problems, assist with any  investigations, enforce our User Agreement, and take other actions otherwise  permitted by law.</p>
+        <p>&nbsp;</p>
+        <strong>Security        </strong>
+        <p>&nbsp;<br>
+          Your information is stored on our servers located in the United States. We treat  data as an asset that must be protected and use lots of tools (encryption,  passwords, physical security, etc.) to protect your personal information  against unauthorized access and disclosure. However, as you probably know,  third parties may unlawfully intercept or access transmissions or private  communications, and other users may abuse or misuse your personal information  that they collect from the site. Unauthorized entry or use, hardware or  software failure, and other factors may also compromise the security of user  information at any time. Therefore, although we work very hard to protect your  privacy, we do not promise, and you should not expect, that your personal  information or private communications will always remain private. </p>
+        <p>&nbsp;</p>
+        <p><strong>Third Parties        </strong></p>
+        <p>&nbsp;</p>
+        <p>Portions of Shopflick may contain links to other third party  websites that you may access.&nbsp; Except as  otherwise expressly included in this Privacy Policy, this document addresses  only the use and disclosure of information we collect from you through the  Service. If you disclose your information to others, whether they are buyers or  sellers on our sites or other sites throughout the internet, different rules  may apply to their use or disclosure of the information you disclose to them. Shopflick  does not control the privacy policies of third parties, and you are subject to  the privacy policies of those third parties where applicable. We encourage you  to ask questions before you disclose your personal information to others. </p>
+        <p>&nbsp;</p>
+        <p><strong>Your Other Choices</strong></p>
+        <p><br>
+          As stated previously, you can always opt not  to disclose information, even though it may be needed to take advantage of  certain Shopflick features. </p>
+        <p><br>
+          You are able to add or update certain personal  information, such as the information listed in the Accessing, Reviewing  and Changing Your Personal Information section  above. When you update information, however, we often maintain a copy of the  unrevised information in our records. </p>
+        <p><br>
+          You may request deletion of your Shopflick  account by sending an e-mail to our webmaster at<a href="mailto:itsnotyouitsme@shopflick.com"> itsnotyouitsme@shopflick.com</a>.&nbsp; Please note that some information may remain  in our records after deletion of your account. </p>
+        <p><br>
+          Shopflick may use a  user’s e-mail address to send updates, a newsletter or news regarding the Service  or Shopflick services. Please note that if you do not want to receive legal  notices from us, such as this Privacy Policy, those legal notices will still  govern your use of the Service, and you are responsible for reviewing such  legal notices for changes. </p>
+        <p>&nbsp;</p>
+        <p><strong>Young Children        </strong></p>
+        <p>&nbsp;</p>
+        <p>We do not knowingly collect any personal information from  children under the age of 13. To best protect your child's privacy, we suggest  that you carefully supervise your child's access to the Internet and our  website. For more information on how to protect your child's privacy, you can  visit the Federal Trade Commission's Kidzprivacy page, accessible via  www.ftc.gov. </p>
+        <p>&nbsp;</p>
+        <strong>General        </strong>
+        <p>&nbsp;</p>
+        <p>We may amend this Privacy Policy at any time by posting the  amended terms on this site. &nbsp;All amended  terms automatically take effect 30 days after they are initially posted on the  Site. &nbsp;Use of information we collect now  is subject to the Privacy Policy in effect at the time such information is used.&nbsp; </p>
+        <p>&nbsp;</p>
+        <p><strong>Questions  or Concerns</strong></p>
+        <p>&nbsp;</p>
+        <p>If you have any questions or conerns regarding privacy,  please send us a detailed message at <a href="mailto:privacy@shopflick.com">privacy@shopflick.com</a>.&nbsp; If your questions are not answered online,  you may write to us at: Shopflick, Inc., 10500 W. Pico, Los Angeles, CA 90064.</p>
+        <p>&nbsp;</p>
+      </div>
+                </div>
+                <script type="text/javascript" src="/php/minify.php?files=scripts/shell.js"></script>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	function setCookie(cookieName, cookieValue, path, maxAgeSeconds) {
+		var cookieStr = cookieName+"=" + escape(cookieValue) + ";path=" + path;
+		
+		if (maxAgeSeconds != null) {
+	 		var today = new Date();
+	 		var expire = new Date();
+	 		expire.setTime(today.getTime() + (maxAgeSeconds * 1000));
+	 		
+	 		cookieStr += ";expires=" + expire.toGMTString();
+	 	}
+	 	
+ 		document.cookie = cookieStr;
+	}
+</script>
+
+
+	
+	
+
+
+
+
+<!-- Begin User Dashboard : needs to be inside header-wide for the correct positioning -->
+    <div id="header-myaccount-hover" class="userDashboard-hover" onmouseover="onMouseInHandler('header-myaccount',-54 ,16);" onmouseout="onMouseOutHandler('header-myaccount');" style="display: none;">
+</div>
+<script type="text/javascript">
+	hideObject("header-myaccount-hover");
+
+	function getUserDashboardWidget() {
+		var url = "/widgets/userDashboard";
+		new Ajax.Updater('',  url, { method:'post', onComplete: applyHoverUserDashboardWidget });
+		//new Ajax.Updater('',  url, { method:'post', onComplete: showUserDashboardWidget });
+	  }
+
+	function showUserDashboardWidget(res) {
+		//if there is any error, there hide the box.
+		if(res.status != 200 || (res.responseText == null) || (res.responseText == '')) {
+		    //alert('error;' + res.status +';'+ res.responseText.substring(1,500));
+			return;
+		}
+		//alert('response text is ' + res.responseText);
+		showObject('header-myaccount-hover');
+		$('header-myaccount-hover').innerHTML = res.responseText;
+	}
+
+	function applyHoverUserDashboardWidget(res) {
+		//if there is any error, there hide the box.
+		if(res.status != 200 || (res.responseText == null) || (res.responseText == '')) {
+		    //alert('error;' + res.status +';'+ res.responseText.substring(1,500));
+			return;
+		}
+		//alert('response text is ' + res.responseText);
+		$('header-myaccount-hover').innerHTML = res.responseText;
+		showObject('header-myaccount-hover');
+	}
+	getUserDashboardWidget();
+
+	function editSellerSellectedListing(comboBox){
+	    var listingId = comboBox.options[comboBox.selectedIndex].value;
+		if(listingId != "" && listingId > 0){
+			var url = "editListingView.html?action=showStepFour&mode=edit&listingId=" + listingId;
+			window.location = url;
+		}
+	}
+
+	function showListing(comboBox){
+	    var listingUrl = comboBox.options[comboBox.selectedIndex].value;
+		if(listingUrl != ""){
+			window.location = listingUrl;
+		}
+	}
+
+
+</script>
+<!-- End User Dashboard -->
+
+</div>
+<div id="footer">
+    <div id="footer-separator"></div>
+
+    <div id="footer-links">
+        <ul class="nav bars">
+            <li><a href="/learningcenter/support">Contact Us</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/press">Press</a></li>
+            <li><a href="/learningcenter/basics">FAQ</a></li>
+            <li><a href="/shows/Hall-of-Style">Shopflick TV</a></li>
+            <li><a href="http://blog.shopflick.com/">Style Scouts Blog</a></li>
+        </ul>
+        <ul class="nav double-arrow">
+            <li>Join Shopflick as a:</li>
+            <li><a href="/sell">Seller »</a></li>
+            <li><a href="/trendspotter">Trendspotter »</a></li>
+            <li><a href="http://www.shopflickfilm.com">Filmmaker »</a></li>
+            <li><a href="/affiliates">Affiliate »</a></li>
+        </ul>
+        <ul class="nav imgs">
+            <li>Add us as a friend:</li>
+            <li><a target="_blank" href="http://www.myspace.com/shopflick" title="MySpace"><img src="images/icons/icon_myspace.gif" width="16" height="17"></a></li>
+            <li><a target="_blank" href="http://www.facebook.com/pages/shopflick/36960312735" title="Facebook"><img src="images/icons/icon_facebook.gif" width="16" height="17"></a></li>
+            <li><a target="_blank" href="http://www.thisnext.com/by/shopflick/" title="This Next"><img src="images/icons/icon_thisnext.gif" width="17" height="17"></a></li>
+            <li><a target="_blank" href="http://www.stylehive.com/person/shopflick" title="Stylehive"><img src="images/icons/icon_stylehive.gif" width="13" height="17"></a></li>
+            <li><a target="_blank" href="http://www.kaboodle.com/store/shopflick.com" title="Kaboodle"><img src="images/icons/icon_kaboodle.gif" width="13" height="17"></a></li>
+            <li><a target="_blank" href="http://www.youtube.com/user/shopflick1" title="Youtube"><img src="images/icons/icon_youtube.gif" width="43" height="17"></a></li>
+            <li><a target="_blank" href="http://www.twitter.com/shopflick" title="Twitter"><img src="images/icons/icon_twitter.gif" width="13" height="17"></a></li>
+        </ul>
+    </div>
+
+    
+        <script type="text/javascript">
+			function newsletterFocus(input){
+				if(input.value == 'Enter your email'){
+					input.className='newsletter_signup-box_on';
+					input.value='';
+				}
+			}
+
+			function newsletterBlur(input){
+				if(input.value == ''){
+					input.className='';
+					input.value='Enter your email';
+				}
+			}
+			function subscribeNewsLetter() {
+				var email = document.getElementById("newsletter_signup-box").value;
+				if (isValidEmail(email)) {
+					new Ajax.Request('/newsLetterSubscribe.html?action=subscribe&source=footer&header=true&email='+ email, { method:'post', onComplete: showSubscribe});
+				} else {
+					document.getElementById("newsletter_error").style.display = "block";
+				}
+			}
+			function showSubscribe() {
+				setBrowserCookie('NEWSLETTER_SIGNEDUP', 'true', '/', 31104000);
+				
+				document.getElementById("newsletter_form").style.display = "none";
+				document.getElementById("newsletter_signup").className = "newsletter_confirm";
+				document.getElementById("newsletter_error").style.display = "none";
+			}
+		</script>
+		<div id="newsletter_error" style="display:none">Please enter a valid email.</div>
+		<div id="newsletter_signup">
+			<form id="newsletter_form" onsubmit="subscribeNewsLetter(); return false;">
+				<input id="newsletter_signup-box" class="newsletter_signup-box" name="newsletter_signup-box" type="text" value="Enter your email" onblur="newsletterBlur(this)" onfocus="newsletterFocus(this)">
+				<a id="newsletter_signup-btn" class="btn-h12 btn_blue-arrow_right" href="" onclick="subscribeNewsLetter();return false;" title="Fashion and Sales News Signup Submit">Click to Subscribe</a>
+			</form>
+		</div>
+    
+
+    <div id="media-links">
+        <ul class="nav bars">
+            <li><a href="http://blog.shopflick.com/">Read the Style Scouts Blog</a></li>
+            <li><a href="/shows/Hall-of-Style">Watch Shopflick TV</a></li>
+        </ul>
+    </div>
+    <div id="copyright" title="; analytics: pageTracker is null">
+        <ul class="nav bars">
+            <li>© 2008-2009 Shopflick. All Rights Reserved</li>
+            <li><a href="/terms-of-service" title="User Agreement">User Agreement</a></li>
+            <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+        </ul>
+    </div>
+    <script type="text/javascript">
+	trackGeneralPageView();
+</script>
+
+
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+	_qoptions={
+		qacct:"p-2dP4sutcHQEVA"
+		};
+	var qsJsHost = (("https:" == document.location.protocol) ?
+	"https://secure." : "http://edge.");
+	document.write(unescape("%3Cscript src='" + qsJsHost + "quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://secure.quantserve.com/quant.js" type="text/javascript"></script>
+
+
+
+</body></html>
