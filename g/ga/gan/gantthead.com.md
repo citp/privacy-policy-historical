@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220185752id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628180841id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -119,13 +119,14 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-**["Selecting the Right Requirements Management Tool – Or Maybe None Whatsoever"](http://www.gantthead.com/redirect/clickCount.cfm?ID=245032)** – Get your **free copy** of this independent report by Forrester Research, compliments of MKS. 
+**Difficult for competitors to equal. EMA reviews **[IBM Rational's new quality& requirements management offerings](http://www.ibm.com/services/forms/preLogin.do?source=swg-ema&S_TACT=105AGY85&S_CMP=gtq2qwp)**.** The verdict,"For companies seeking to improve ROI delivered by software projects,we believe Rational's value proposition is difficult to match." 
 
-**Since incomplete, inaccurate, and misunderstood requirements are a major source of project failures, identifying the "right" requirements for initiatives has become a high-stakes activity.** **[Learn about IBM Rational Requirements Definition and Management solutions and best practices.](http://www.gantthead.com/redirect/clickCount.cfm?ID=246093)**
+**Microsoft Project Conference 2000**  
+Exclusively disclosing the powerful capabilities included in Microsoft Project 2010 and Microsoft Enterprise Project Management (EPM) Solutions while providing real world guidance on how Microsoft Project 2007 and Microsoft EPM Solutions are helping customers today with project and portfolio management **to save money, enhance efficiency and prepare for future growth**. **[Register Today!](http://www.gantthead.com/redirect/clickCount.cfm?ID=249749)**
 
-**Coming Soon: _New Editions_ of Four PMI Standards. Pre-order Yours Now!** Special combo offer: Pre-order one standard, get a second standard 40% off! Start meeting your standards for better project performance. Order today at **[PMI.org/MyStandards](http://www.gantthead.com/redirect/clickCount.cfm?ID=246241)**
+**Use WorkLenz PPM to Manage Agile Software Development**  
+We invite you to download Métier’s latest white paper, **[_Agile Software Development with WorkLenz_](http://www.gantthead.com/redirect/clickCount.cfm?ID=250008)** , to learn how you can use WorkLenz to manage agile within your organization. 
 
-**There is a balance between monitoring and blocking web use in the workplace.** IT Managers need to determine the best way to deal with employee internet access while keeping the overall good of the business a priority. **[Download this whitepaper](http://www.gantthead.com/redirect/clickCount.cfm?ID=246371)** to help make an informed decision about your own web monitoring requirements 
-
-**PPM WEBCAST: How Misys PLC Improved Global Resource Management — Hosted by CA**  
-Join us for this live webcast as Misys PLC discusses how they improved global visibility into their projects and portfolios while streamlining the allocation of resources across the enterprise using CA Clarity™ PPM. This interactive webcast will include a live Q&A session. **[Register now.](http://www.gantthead.com/redirect/clickCount.cfm?ID=246295)**
+"When angry, count to four; when very angry, swear."  
+---  
+\- Mark Twain
