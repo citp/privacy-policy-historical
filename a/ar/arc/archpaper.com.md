@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219052104id_/http%3A//www.archpaper.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628163315id_/http%3A//archpaper.com/privacy.asp) for the most accurate reproduction.*
 
 # The Architect's Newspaper - Privacy Policy
 
