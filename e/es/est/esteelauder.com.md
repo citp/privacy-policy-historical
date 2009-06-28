@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035930id_/http%3A//www.esteelauder.com/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628162542id_/http%3A//www.esteelauder.com/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
-# Estée Lauder Official Site: Customer Service Privacy
+# Customer Service Privacy — Estée Lauder Official Site
 
-We at Estée Lauder Online respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/customer_service/terms.tmpl).
+We at Estée Lauder Online respect your privacy and value the relationship we have with you. Your visit to this website   
+is subject to this Privacy Policy and our [Terms and Conditions](https://web.archive.org/customer_service/terms.tmpl).
 
 This Privacy Policy describes the types of personal information we collect at the Estée Lauder website, currently located at [www.esteelauder.com](http://www.esteelauder.com/) (the "Site"), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
 
@@ -26,13 +27,13 @@ If you would prefer that we not collect any personal information from you, pleas
 
   *   
 
-  * **USE OF PERSONAL INFORMATION BY ESTÉE LAUDER ONLINE**
+  *  **USE OF PERSONAL INFORMATION BY ESTÉE LAUDER ONLINE**
   *   
 
 
 
 
-      * **MARKETING EMAILS**
+      *  **MARKETING EMAILS**
 
 If you so elect, the information you provide may be used by Estée Lauder Online to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information, cosmetics tips or promotions (" _ **Emails**_ "). If you do elect to receive them and later decide that you would no longer like to receive these Emails, see the "Your Choices" Section. You may receive the benefit of hearing from Estée Lauder online via mail or phone even if you have not elected to receive emails. If you do not wish to receive these communications, see the "Your Choices" Section.
 
@@ -41,7 +42,7 @@ If you so elect, the information you provide may be used by Estée Lauder Online
 
 
 
-      * **COMMUNICATIONS TO SERVE YOU**
+      *  **COMMUNICATIONS TO SERVE YOU**
 
 If you have elected to provide us with your contact information, we may provide you with service related announcements by any means, including email, concerning the Site or contact you regarding your customer service requests or questions or your order. For example, all registered users will receive a welcoming Email to confirm their registration. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that Estée Lauder Online offers its customers.
 
@@ -59,13 +60,13 @@ We may use your personal information to provide you with customized service and 
 
       *           *   
 
-          * **SPECIAL EVENTS, QUESTIONNAIRES AND SURVEYS**
+          *  **SPECIAL EVENTS, QUESTIONNAIRES AND SURVEYS**
 
 On occasion, Estée Lauder Online may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.
 
           *   
 
-          * **EMPLOYMENT**
+          *  **EMPLOYMENT**
 
 If you provide personal information to us with respect to employment, such as your resume, we will treat such personal information as confidential and use it only to consider you for current and future employment opportunities and to contact you with respect to employment with us or our affiliates. An "Affiliate" is a person or entity that directly or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, our company. We will retain your recruiting information for further recruitment opportunities that may arise, unless you tell us that you no longer wish for us to retain your information.
 
@@ -116,7 +117,7 @@ We are continuously working to make your experience on our Site better. To this 
 
 We will not provide your personal information to third parties for their use in marketing their products or services to you without your consent, except as described in the " _ **Business Transfers**_ " Section. In addition, we do not sell or otherwise disclose personal information about our Site visitors except as described here.
 
-  * **ESTÉE LAUDER COMPANIES**
+  *  **ESTÉE LAUDER COMPANIES**
 
 We may share your personal information with our Affiliates that distribute and market Estée Lauder products (the "Estée Lauder Companies"). Estée Lauder Companies may use this information in accordance with this Privacy Policy. If you prefer that we not share your personal information with Estée Lauder Companies, please do not provide it to us. We are unable to offer the benefits of Estée Lauder Online to anyone who does not consent to the sharing of their personal information with Estée Lauder Companies.
 
@@ -132,7 +133,7 @@ We may retain other companies and individuals to perform functions on our behalf
 
   *  **BUSINESS TRANSFERS**
 
-As we continue to develop our business, we might sell certain of our assets. In such transactions, user information, including personal information, generally is one of the transferred business assets, and by submitting your personal information on the Site you agree that your data may be transferred to such parties in these circumstances. You may choose not to have your information transferred as a business asset bycontacting us as described in the " _ **Your Choices**_ " Section.
+As we continue to develop our business, we might sell certain of our assets. In such transactions, user information, including personal information, generally is one of the transferred business assets, and by submitting your personal information on the Site you agree that your data may be transferred to such parties in these circumstances. You may choose not to have your information transferred as a business asset by contacting us as described in the " _ **Your Choices**_ " Section.
 
   *   
 
@@ -189,7 +190,7 @@ If you would like to update your contact information, you may do so by [clicking
 
   *  **OPT-OUT AND MANAGING YOUR PREFERENCES**
 
-You may choose whether or not you would like to receive Email from us. You may change your preferences with respect to Email at any time by clicking the "unsubscribe" link at the bottom of each Email you receive from us, or emailing us at [el-tech@esteelauder.com](mailto:el-tech@esteelauder.com). You may also choose not to receive mail or phone communications by emailing us at [el-tech@esteelauder.com](mailto:el-tech@esteelauder.com) and specifying that this is your preference.
+You may choose whether or not you would like to receive email from us. You may change your preferences with respect to email at any time by clicking the "unsubscribe" link at the bottom of every email you receive from us or by [clicking here](https://web.archive.org/account/signin.tmpl) to update your preferences in the My Account section. You may also choose not to receive mail or phone communications by emailing us at [el-tech@esteelauder.com](mailto:el-tech@esteelauder.com) and specifying that this is your preference.
 
   * In addition if you would like to change your other preferences, e.g, with respect to the transfer of data as described in the " _ **Business Transfers**_ " Section, please contact us at [el-tech@esteelauder.com](mailto:el-tech@esteelauder.com).
 
