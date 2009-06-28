@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the limkokwing.net privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218124942id_/http%3A//www.limkokwing.net/website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the limkokwing.net privacy policy that was archived on 2009-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628164559id_/http%3A//www.limkokwing.net/website/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -13,15 +13,17 @@
 
 <!-- END rss -->
 
-<link rel="shortcut icon" href="/graphics/luct_ico.ico">
+<link rel="shortcut icon" href="/graphics/favicon.ico">
+
+<link rel="search" type="application/opensearchdescription+xml" title="Limkokwing" href="http://www.limkokwing.net/search/opensearch_description/">
 
 <link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_reset_grid.v.1223968245" media="screen, projection, print">
-<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master.v.1228602254" media="screen, projection, print">
-<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_content.v.1228214261" media="screen, projection, print">
+<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master.v.1241794690" media="screen, projection, print">
+<link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_content.v.1240844331" media="screen, projection, print">
 <link rel="stylesheet" type="text/css" href="http://www.limkokwing.net/?css=styles/master_print.v.1227871177" media="print">
 
-<!--[if lt IE 8]><link href="http://www.limkokwing.net/?css=styles/iefix.v.1226397764" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 
+<!--[if lt IE 8]><link href="http://www.limkokwing.net/?css=styles/iefix.v.1242741019" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/prototype/"></script>
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/common/"></script>
@@ -29,6 +31,7 @@
 <script type="text/javascript" src="/js/lightbox/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="/js/lightbox/lightbox.js"></script>
 <script type="text/javascript" src="http://www.limkokwing.net/javascripts/livepipe/"></script>
+<script type="text/javascript" src="http://www.limkokwing.net/javascripts/tooltips/"></script>
 
 
 <script type="text/javascript">
@@ -37,6 +40,7 @@
 document.observe('dom:loaded',function(){
 
 ieHover('global_nv'); // Hover function for IE
+resetSearch(); //reset Reset Search weblog id to courses
 clearKeywords('keywords'); // Clear search keywords textbox when clicked
 
  // Convert all ul with class .tabs into tabs
@@ -77,7 +81,7 @@ Event.observe(document, 'click', hide_search);
 <form id="quick_search" name="quick_search" method="post" action="http://www.limkokwing.net/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="8d15308215f473d7db0d930ce4ce7ade7c7b2d8e">
+<input type="hidden" name="XID" value="50c5c800c4002ccf4cf98b2ada28054c08efa58f">
 <input type="hidden" name="RP" value="search&amp;#47;results">
 <input type="hidden" name="NRP" value="">
 <input type="hidden" name="RES" value="20">
@@ -94,11 +98,17 @@ Event.observe(document, 'click', hide_search);
 </div><!-- END SEARCH BG -->
 <div class="search_btn">
 <ul class="menulist">
-<li><a id="search_dropdown">All Categories</a>
+<li><a id="search_dropdown">Courses</a>
 <ul id="search_options" style="display:none;">
-<li><a title="All Categories" rel="">All Categories</a></li>
 <li><a title="Courses" rel="courses">Courses</a></li>
-<li><a title="News &amp; Events" rel="media_news">News &amp; Events</a></li>
+<li><a title="Events" rel="media_events">Events</a></li>
+<li><a title="News" rel="media_news">News</a></li>
+<li><a title="Videos" rel="media_videos">Videos</a></li>
+<li><a title="Student Galleries" rel="showcases_gallery">Student Galleries</a></li>
+<li><a title="Profiles" rel="industry_profiles|showcases_leaders">Profiles</a></li>
+<li><a title="Music" rel="media_music">Music</a></li>
+<li><a title="Publications" rel="media_publications">Publications</a></li>
+<li><a title="Everything" rel="">Everything</a></li>
 </ul></li>
 </ul>
 </div><!-- END SEARCH BTN -->
@@ -117,7 +127,8 @@ Event.observe(document, 'click', hide_search);
 </li>
 <li class="go/about"><a href="http://www.limkokwing.net/go/about/">About Us</a>
 <ul>
-<li><a href="http://www.limkokwing.net/president/">The President</a></li>
+<li><a href="http://www.limkokwing.net/president/">The Founder &amp; President</a></li>
+<li><a href="http://www.limkokwing.net/university_guidance/">University Guidance</a></li>
 <li><a href="http://www.limkokwing.net/university/">The Global University</a></li>
 <li><a href="http://www.limkokwing.net/globalclassroom/">The Global Classroom</a></li>
 <li><a href="http://www.limkokwing.net/alliance/">The Global Alliance</a></li>
@@ -125,6 +136,8 @@ Event.observe(document, 'click', hide_search);
 </ul></li>
 <li class="campuses"><a href="http://www.limkokwing.net/campuses/">Campuses</a>
 <ul>
+<li><a href="http://www.limkokwing.net/bali/">Bali</a></li>
+<li><a href="http://www.limkokwing.net/borneo/">Borneo</a></li>
 <li><a href="http://www.limkokwing.net/botswana/">Botswana</a></li>
 <li><a href="http://www.limkokwing.net/cambodia/">Cambodia</a></li>
 <li><a href="http://www.limkokwing.net/lesotho/">Lesotho</a></li>
@@ -137,14 +150,14 @@ Event.observe(document, 'click', hide_search);
 <li><a href="http://www.limkokwing.net/prospective/intake/">Intake Dates</a></li>
 <li><a href="http://www.limkokwing.net/prospective/procedures/">Application Procedures</a></li>
 <li><a href="http://www.limkokwing.net/prospective/downloads/">Forms &amp; Brochures Download</a></li>
-<li><a href="http://www.limkokwing.net/prospective/online_registration/">Online Registration</a></li>
+<li><a href="http://www.limkokwing.net/prospective/registration/">Online Registration</a></li>
 </ul></li>
 <li class="go/student_portal"><a href="http://www.limkokwing.net/go/student_portal/">Current Students</a>
 </li>
 <li class="media"><a href="http://www.limkokwing.net/media/">Media Centre</a>
 <ul>
 <li><a href="http://www.limkokwing.net/media/news/">News</a></li>
-<li><a href="http://www.limkokwing.net/media/events/">Upcoming Events</a></li>
+<li><a href="http://www.limkokwing.net/media/events/">Events</a></li>
 <li><a href="http://www.limkokwing.net/media/pictures/">Pictures</a></li>
 <li><a href="http://www.limkokwing.net/media/videos/">Videos</a></li>
 <li><a href="http://www.limkokwing.net/media/music/">Music</a></li>
@@ -152,13 +165,13 @@ Event.observe(document, 'click', hide_search);
 </ul></li>
 <li class="showcases"><a href="http://www.limkokwing.net/showcases/">Showcases</a>
 <ul>
-<li><a href="http://www.limkokwing.net/showcases/gallery/">Student Galleries</a></li>
+<li><a href="http://www.limkokwing.net/showcases/gallery/">International Student Galleries</a></li>
 <li><a href="http://www.limkokwing.net/showcases/awards/">Student Awards</a></li>
-<li><a href="http://www.limkokwing.net/showcases/industry/">Industry &amp; Alumni Profiles</a></li>
 <li><a href="http://www.limkokwing.net/showcases/leaders/">Leaders</a></li>
 </ul></li>
 <li class="industry"><a href="http://www.limkokwing.net/industry/">Industry</a>
 <ul>
+<li><a href="http://www.limkokwing.net/industry/profiles/">Industry &amp; Alumni Profiles</a></li>
 <li><a href="http://www.limkokwing.net/industry/endorsement/">Industry Endorsement</a></li>
 <li><a href="http://www.limkokwing.net/industry/partners/">Industry Partners</a></li>
 </ul></li>
@@ -228,29 +241,43 @@ Event.observe(document, 'click', hide_search);
 
 <div class="upcoming_events">
 <p class="more"><a href="http://www.limkokwing.net/media/events/">All events</a></p>
-<h3>Upcoming Events</h3>
+<h3>Events</h3>
 <div class="highlights">
-<a href="http://www.limkokwing.net/media/events/track_field_competition/" title="Track &amp; Field Competition"><img src="/graphics/events/thumbnails/masiswa_competition.jpg" class="" height="125" width="125" alt="Track &amp; Field Competition"></a><a href="http://www.limkokwing.net/media/events/holiday_dance_workshop/" title="Holiday Dance Workshop"><img src="/graphics/events/thumbnails/dance_workshop.gif" class=" last" height="125" width="125" alt="Holiday Dance Workshop"></a></div>
+<a href="http://www.limkokwing.net/media/events/graduating_class_of_2009/" title="Graduating Class of 2009"><img src="/graphics/events/thumbnails/graduation.jpg" class="" height="125" width="125" alt="Graduating Class of 2009"></a><a href="http://www.limkokwing.net/media/events/nokia_widget_wizard_contest_2009/" title="Nokia Widget Wizard Contest 2009"><img src="/graphics/events/thumbnails/nokia_widget.jpg" class=" last" height="125" width="125" alt="Nokia Widget Wizard Contest 2009"></a></div>
 </div>
 
-<div class="footer_list">
 
 
-<h3>Comment &amp; Win</h3>
-<a href="http://www.limkokwing.net/contest/">
-<img width="271" height="125" src="/graphics/footer_comment_banner_result.jpg" class="comment_win" alt="Comment &amp; Win">
-</a>
+<div class="student_galleries">
+<h3>International Student Galleries</h3>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/0cd6edf2313a8cbd9645dc05fc2c34a3.jpg\'<br/><strong>Architecture 3D Rendering</strong><p>Architecture</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/architecture_3d_rendering1/"><img src="/graphics/showcases/gallery/medium/cache/0cd6edf2313a8cbd9645dc05fc2c34a3-63x60.jpg" width="63" height="60" alt="Architecture 3D Rendering"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/ae385a14c4000d9bbd71fe1830b64a6e.jpg\'<br/><strong>Nestle Chocolate Ice Cream</strong><p>Packaging Design</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/nestle_chocolate_ice_cream/"><img src="/graphics/showcases/gallery/medium/cache/ae385a14c4000d9bbd71fe1830b64a6e-63x60.jpg" width="63" height="60" alt="Nestle Chocolate Ice Cream"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/47939971596c337a4b2c3521976e557b.jpg\'<br/><strong>Pencil Colouring</strong><p>Illustrations</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/pencil_colouring1/"><img src="/graphics/showcases/gallery/medium/cache/47939971596c337a4b2c3521976e557b-63x60.jpg" width="63" height="60" alt="Pencil Colouring"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/387a99ad3f685badbb2239061f8c9b2e.jpg\'<br/><strong>Architecture Modeling</strong><p>Architecture</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/architecture_modeling5/" class="last"><img src="/graphics/showcases/gallery/medium/cache/387a99ad3f685badbb2239061f8c9b2e-63x60.jpg" width="63" height="60" alt="Architecture Modeling"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/9f5e2f2fb3c9e7fdc2061047897e2302.jpg\'<br/><strong>Fashion inspired by Victoria Beckham</strong><p>Lifestyle Design </p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/fashion_inspired_by_victoria_backham/"><img src="/graphics/showcases/gallery/medium/cache/9f5e2f2fb3c9e7fdc2061047897e2302-63x60.jpg" width="63" height="60" alt="Fashion inspired by Victoria Beckham"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/7ca50d9589c618e20d835660766c2a5b.jpg\'<br/><strong>HBO Channel Ident</strong><p>Motion Graphics</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/hbo_channel_ident/"><img src="/graphics/showcases/gallery/medium/cache/7ca50d9589c618e20d835660766c2a5b-63x60.jpg" width="63" height="60" alt="HBO Channel Ident"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/5ec4f1401567ddd8a4372d37edc7b996.jpg\'<br/><strong>Typography</strong><p>Graphic Design</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/typography/"><img src="/graphics/showcases/gallery/medium/cache/5ec4f1401567ddd8a4372d37edc7b996-63x60.jpg" width="63" height="60" alt="Typography"></a>
+
+<a onmouseover="tooltip.show('<img src=\'http://www.limkokwing.net//graphics/showcases/gallery/medium/178854ed95d5b1a00549234f70e00d30.jpg\'<br/><strong>Sema Kenya</strong><p>Interactive Media</p>');" onmouseout="tooltip.hide();" href="http://www.limkokwing.net/showcases/gallery/sema_kenya/" class="last"><img src="/graphics/showcases/gallery/medium/cache/178854ed95d5b1a00549234f70e00d30-63x60.jpg" width="63" height="60" alt="Sema Kenya"></a>
+
 </div>
 
 <div class="footer_list last">
 <h3>Top Viewed Pages</h3>
 <ul>
-<li><a href="/go/highlights/official_opening_of_limkokwing_lesotho/">Official Opening of Limkokwing Lesotho</a></li>
-<li><a href="/media/videos/official_opening_of_limkokwing_lesotho/">Official Opening of Limkokwing Lesotho</a></li>
-<li><a href="/media/videos/felda_graduation_2008_malaysia/">Felda Graduation 2008 (Malaysia)</a></li>
-<li><a href="/media/videos/cambodia_orientation_week/">Cambodia Orientation Week</a></li>
+<li><a href="/prospective/finder/foundation_in_design/">Foundation in Design</a></li>
+<li><a href="/prospective/procedures/application_procedures_for_limkokwing_malaysia/">Application Procedures for Limkokwing Malaysia</a></li>
 <li><a href="/malaysia/life/malaysia_university_ambassadors/">University Ambassadors</a></li>
-<li class="last"><a href="/showcases/awards/older_awards/">Older Awards</a></li>
+<li><a href="/media/videos/felda_graduation_2008_malaysia/">Felda Graduation 2008 (Malaysia)</a></li>
+<li><a href="/go/highlights/official_opening_of_limkokwing_lesotho/">Official Opening of Limkokwing Lesotho</a></li>
+<li class="last"><a href="/media/videos/official_opening_of_limkokwing_lesotho/">Official Opening of Limkokwing Lesotho</a></li>
 </ul>
 </div>
 
@@ -279,9 +306,17 @@ Event.observe(document, 'click', hide_search);
 <li class="last"><a href="http://www.limkokwing.net/website/feedback/" accesskey="9">Feedback</a></li>
 </ul>
 
-<div class="logos"><img width="50" height="30" title="The Association of Business Executives" alt="The Association of Business Executives" src="/graphics/footer/abe_logo_white.gif"><img width="35" height="30" title="International Society of Business Administrators" alt="International Society of Business Administrators" src="/graphics/footer/isba_logo_white.gif"><img width="51" height="30" title="MSC Malaysia Status" alt="MSC Malaysia Status" src="/graphics/footer/msc_logo_white.gif"><img width="38" height="30" title="MSC Malaysia Asia Pacific ICT Awards" alt="MSC Malaysia Asia Pacific ICT Awards" src="/graphics/footer/apicta_logo_white.gif"></div>
+<div class="logo">
+<!--<img width="50" height="30" title="The Association of Business Executives" alt="The Association of Business Executives" src="/graphics/footer/abe_logo.gif"/><img width="35" height="30" title="International Society of Business Administrators" alt="International Society of Business Administrators" src="/graphics/footer/isba_logo.gif"/><img width="51" height="30" title="MSC Malaysia Status" alt="MSC Malaysia Status" src="/graphics/footer/msc_logo.gif"/><img width="38" height="30" title="MSC Malaysia Asia Pacific ICT Awards" alt="MSC Malaysia Asia Pacific ICT Awards" src="/graphics/footer/apicta_logo.gif" class="last"/>-->
+<ul>
+<li class="isba" title="International Society of Business Administrators">International Society of Business Administrators</li>
+<li class="msc" title="MSC Malaysia Status">MSC Malaysia Status</li>
+<li class="apicta" title="MSC Malaysia Asia Pacific ICT Awards">MSC Malaysia Asia Pacific ICT Awards</li>
+<li class="mqa" title="Malaysian Qualifications Agency">Malaysian Qualifications Agency</li>
+</ul>
+</div>
 
-<p class="copyright">Copyright © 2008 Limkokwing University of Creative Technology. All Right Reserved.<br>
+<p class="copyright">Copyright © 2009 Limkokwing University of Creative Technology. All Right Reserved.<br>
 Designed &amp; maintained by World Wide Web Domination, Centre for Content Creation.</p>
 
 </div>
@@ -291,7 +326,7 @@ Designed &amp; maintained by World Wide Web Domination, Centre for Content Creat
 </div>
 
 <script type="text/javascript">
-var so = new SWFObject("/graphics/flash/snow.swf", "flash_background", "400px", "100%", "7", "#336699");
+var so = new SWFObject("/graphics/flash/wings_bird_new.swf", "flash_background", "1600", "550", "7", "#000");
 so.addParam("quality", "high");
 so.addParam("salign", "t");
 so.addParam("wmode", "transparent");
@@ -306,9 +341,10 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-1882497-14");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 
 
 
