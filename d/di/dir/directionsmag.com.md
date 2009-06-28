@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204143117id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628194247id_/http%3A//www.directionsmedia.net/privacy.statement) for the most accurate reproduction.*
 
 # Privacy Statement - Directions Media
 
 ---  
   
-Directions Media respects the privacy of every individual who visits our Web sites. This Privacy Statement outlines the information we collect via our various Web sites and how we use that information.
+**Introduction**
 
-### Personally Identifiable Information
+Directions Media respects each individual’s right to personal privacy. We will collect and use information through our website only in the ways disclosed in this statement. This statement applies to information collected at all Directions Media properties including this site [Directions Media](http://www.directionsmedia.net/), [Directions Magazine](http://www.directionsmag.com/), [All Points Blog](http://www.allpointsblog.com/), [LBS360.NET](http://www.lbs360.net/), [Directions Magazine francais](http://francais.directionsmag.com/), [Location Intelligence](http://www.locationintelligence.net/) and [Rocket City Geospatial](http://www.rocketcitygeospatial.com/) and other sites that may be added to the family of sites from time to time.
 
-Directions Media collects personally identifiable information such as your name, address, telephone number, or E-mail address **only** if you provide that information to us voluntarily such as survey information and/or site registrations. 
+**Part I. Information Collection**
 
-The voluntary information we collect is used for internal review and to notify visitors about updates to our Web site. Even though we may share aggregate data with our readers and advertisers, **we will not share individual information with others.** We also run contests on our site in which we ask visitors for contact information (like their e-mail address) for notification of winners. 
+Directions Media collects information through our website at several points. We collect no personally identifiable information from visitors unless they provide such information to us voluntarily.
 
-We use E-mail links located on various pages to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your comments may be shared with third parties only for the purpose of getting answers to your questions. 
+We may collect personally identifiable information such as your name, address, telephone number, or E-mail address if you provide that information to us via a survey and/or site registration and/or subscription. We may share aggregate data with our readers and advertisers.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+We offer E-mail links and comment forms on various pages to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your comments may be shared with third parties only for the purpose of getting answers to your questions.
 
-Otherwise, Directions Media generally will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law; (2) protect and defend the rights or property of Directions Media. 
+We collect the following general data that is not personally identifiable information: domain, browser type, Internet connections type, operating system and the pages you visit. We use this information to improve the websites. We may share the aggregated information from all subscribers with our advertisers. 
 
-### Information Collected Automatically
+We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Directions Media to track usage patterns and deliver customized content to users. Our cookies have an expiration time. Our cookies do not collect personally identifiable information. 
 
-We automatically log information such as your domain name (ex. _mindspring.com_ ), the type if Internet browser you use, the operating system you use. We also may log what pages are viewed. This information is used **only** for internal review to help us improve the content of our magazine. The information is not shared with any other company or used by Directions Media to contact clients.
+**Part II. Information Usage**
 
-### Cookies
+We use information that you provide to contact you with newsletters, updates, surveys, prizewinners and products and service advertisements related to the geospatial technology. We do not share your contact information with anyone except when required by law or to protect and defend the rights or property of Directions Media; marketing materials from vendors are sent on their behalf by Directions Media. 
 
-Some of our Web sites store some information on your computer in the form of a "cookie." A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file contains information such as a user ID that the site uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. These are used to store information you provide to prevent you from having to enter that same information repeatedly, to keep track of who posted uploads in case there are problems, to deter multiple votes on issues from the same person, and to help us collect minimal information to maintain and improve our site.
+We offer links to other websites. Please note: When you click on links to other websites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
+Our website offers comment areas. Please be advised that information posted in these venues becomes public knowledge. 
 
-### Links to Other Web sites
+If our policy on information collection or uses changes, it will be noted in this document.
 
-The Directions Media site offers links to hundreds of GIS-related Web sites. Directions Media assumes no responsibility for the information practices of these sites, and these links do not imply affiliation or endorsement of the linked sites.
+**Part III. Access to Information**
 
-### Removing Your Information from Our Databases
+Users may access their own personal information, contact us about inaccuracies or delete their information from our database by contacting us at <http://www.directionsmedia.net/newsletters.subscription/> or [webmaster@directionsmag.com](mailto:webmaster@directionsmag.com). 
 
-If you do not wish to receive E-mail notifications about Directions Media, please unsubscribe here <http://www.directionsmedia.net/newsletters.subscription/>. Or you can contacts us directly by specifying that you do not want to receive these notifications at [webmaster@directionsmag.com](mailto:webmaster@directionsmag.com). We will use reasonable efforts to delete this information from our existing files. 
+Directions Media does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [website@directionsmag.com](mailto:website@directionsmag.com). We will use reasonable efforts to delete the child's information from our existing files.
 
-Directions Media does not intentionally collect personally identifiable information such as name, address, telephone number, or E-mail address from children. However, users of any age can download our free software, participate in surveys or wish lists which require a name and E-mail address.
+**Part IV. Problem Resolution**
 
-If a child has provided us with personally identifiable information and the parent or guardian of that child would like that information deleted from our records, the parent or guardian should contact us at [website@directionsmag.com](mailto:website@directionsmag.com). We will use reasonable efforts to delete the child's information from our existing files.
+If problems arise, users may contact Directions Media at the addresses above. We are committed to resolving disputes.
