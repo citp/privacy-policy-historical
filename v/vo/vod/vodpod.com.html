@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vodpod.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012648id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodpod.com privacy policy that was archived on 2009-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628173453id_/http%3A//vodpod.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Vodpod: Privacy</title>
@@ -8,31 +8,29 @@
 
 <link rel="search" type="application/opensearchdescription+xml" href="http://vodpod.com/opensearch.xml" title="Video Search (Vodpod)">
 
-  <script src="http://assetscdn.vodpod.com/javascripts/prototype.js?r7678" type="text/javascript"></script>
+  <script src="http://assetscdn.vodpod.com/javascripts/prototype.js?r9198" type="text/javascript"></script>
+  <script src="http://assetscdn.vodpod.com/javascripts/effects.js?r9198" type="text/javascript"></script>
   
-  <script src="http://assetscdn.vodpod.com/javascripts/effects.js?r7678" type="text/javascript"></script>
-  
-  
-  <script src="http://assetscdn.vodpod.com/javascripts/application.js?r7678" type="text/javascript"></script>
-  
+    
+  <script src="http://assetscdn.vodpod.com/javascripts/application.js?r9198" type="text/javascript"></script>
 
 
 
 
+<link href="http://assetscdn.vodpod.com/stylesheets/common.css?r9198" media="all" rel="stylesheet" type="text/css">
 
-<link href="http://assetscdn.vodpod.com/stylesheets/common.css?r7678" media="all" rel="stylesheet" type="text/css">
-
-<link href="http://assetscdn.vodpod.com/stylesheets/help.css?r7678" media="all" rel="stylesheet" type="text/css">
+<link href="http://assetscdn.vodpod.com/stylesheets/help.css?r9198" media="all" rel="stylesheet" type="text/css">
 
 
 
 <link rel="icon" type="image/gif" href="http://assetscdn.vodpod.com/favicon.ico">
     <!--[if lte IE 7]>
-    <link href="/stylesheets/ie.css" media="screen" rel="Stylesheet" type="text/css" />
+    <link href="http://assetscdn.vodpod.com/stylesheets/ie.css" media="screen" rel="Stylesheet" type="text/css" />
     <![endif]-->
     <!--[if lte IE 6]>
-    <link href="/stylesheets/ie6.css" media="screen" rel="Stylesheet" type="text/css" />
+    <link href="http://assetscdn.vodpod.com/stylesheets/ie6.css" media="screen" rel="Stylesheet" type="text/css" />
     <![endif]-->
+    <link rel="shortcut icon" href="http://assetscdn.vodpod.com/favicon.ico">
     <!-- google webmaster tools -->
     <meta name="verify-v1" content="IWqHVGmXQeOZnkDtdXd1+uPbV9F5evtM5ns+yxnLL8s=">
   </head>
@@ -76,78 +74,202 @@ function clearInput(inputField) {
 }
 </script>
 
+  
+
 <div id="account_bar">
-  <a href="http://vodpod.com/" id="header_img" title="Vodpod Home"></a>
-  <div id="header_links">
-    <span>Browse:</span>
-    
-      <a href="http://vodpod.com/explore">Popular</a>
-    
-    
-      <a href="http://vodpod.com/politics">News</a>
-    
-    
-      <a href="http://vodpod.com/comedy">Comedy</a>
-    
+  <a href="http://vodpod.com/" alt="Vodpod" id="header_img" title="Vodpod Home">&nbsp;</a>
+  <div class="tagline">
+    Show the world your favorite videos.
   </div>
-  <div id="search">
-    <form action="http://vodpod.com/search/browse?site=vodpod" method="get" onsubmit="validateSearch()">
-      <div>
-        <input id="text_box" name="q" onclick="clearInput(this)" type="text">
-        <input style="background:url(http://s3.amazonaws.com/vodpod.com/images/loginheader_search_button.png?r7678) no-repeat;width:32px;height:29px;cursor:pointer;border:0px;margin-left:1px;float:left" type="submit" value="">
-      </div>
-      
-      
-    </form>
-  </div>
-  <div id="search_label" class="highlight_green">SEARCH</div>
-  <!--div style="position:absolute;top:17px;right:390px;font-size:1.1em;text-transform:uppercase;font-weight:bold">
-    <img alt="" src="http://s3.amazonaws.com/vodpod.com/images/new_btn.gif?r7678" style="vertical-align:bottom;margin-right:5px" /><a href="http://vodpod.com/politics">Newswire</a>
-  </div-->
-  <div style="font-size:1.1em;text-transform:uppercase;">
+  
+  <div id="user_links">
     
-    
-      <script>
-        var global_current_user = null;
-      </script>
+      <a href="http://vodpod.com/site/register?direct=true" class="add_video">Add a Video</a>
+      <a href="http://vodpod.com/site/login?direct=true" class="sign_in">Sign In</a>
+      <a href="http://vodpod.com/site/register?direct=true" class="sign_up"><b>Sign Up Now</b></a>
     
   </div>
   <div style="clear:both;"></div>
   
-  
-  <div class="tagline">
-    Show the world your favorite videos.  
+      
+  <div id="header_links">
+    <div class="category" id="category_popular">
+      <span class="clearfix">
+        <a href="/explore" class="parent">Popular</a>
+        <a class="arrow" href="#" onclick="openCategoryMenu('category_popular'); return false;">&nbsp;</a>
+      </span>
+
+      <div class="subcats">
+        <a href="/explore">most collected</a>
+        <a href="/explore/recent/most_watched">most watched</a>
+        <a href="/explore/recent/most_discussed">most discussed</a>
+        <a href="/explore/right_now">live</a>
+      </div>
+    </div>
+    
+    
+    <div class="category" id="category_1">
+      <span class="clearfix">
+        <a href="http://vodpod.com/music" class="parent">Music</a>
+        <a class="arrow" href="#" onclick="openCategoryMenu('category_1'); return false;">&nbsp;</a>
+        <div style="clear:both;"></div>
+      </span>
+      
+      
+      <div class="subcats">
+        
+        <a href="http://vodpod.com/music/pop">Pop</a>
+        
+        <a href="http://vodpod.com/music/hip-hop">Hip-Hop</a>
+        
+        <a href="http://vodpod.com/music/indie+rock">Indie Rock</a>
+        
+        <a href="http://vodpod.com/music/rock">Rock</a>
+        
+        <a href="http://vodpod.com/music/electronic">Electronic</a>
+        
+        <a href="http://vodpod.com/music/country">Country</a>
+        
+        <a href="http://vodpod.com/music/latin">Latin</a>
+        
+        <a href="http://vodpod.com/music/world+music">World Music</a>
+        
+        <a href="http://vodpod.com/music/classical">Classical</a>
+        
+      </div>
+      
+    </div>
+    
+    <div class="category" id="category_8">
+      <span class="clearfix">
+        <a href="http://vodpod.com/funny" class="parent">Funny</a>
+        <a class="arrow" href="#" onclick="openCategoryMenu('category_8'); return false;">&nbsp;</a>
+        <div style="clear:both;"></div>
+      </span>
+      
+      
+      <div class="subcats">
+        
+        <a href="http://vodpod.com/funny/the+daily+show">The Daily Show</a>
+        
+        <a href="http://vodpod.com/funny/snl">SNL</a>
+        
+        <a href="http://vodpod.com/funny/late+night">Late Night</a>
+        
+        <a href="http://vodpod.com/funny/television">Television</a>
+        
+        <a href="http://vodpod.com/funny/british">British</a>
+        
+        <a href="http://vodpod.com/funny/standup">Standup</a>
+        
+      </div>
+      
+    </div>
+    
+    <div class="category" id="category_5">
+      <span class="clearfix">
+        <a href="http://vodpod.com/politics" class="parent">Politics</a>
+        
+        <div style="clear:both;"></div>
+      </span>
+      
+      
+    </div>
+    
+    <div class="category" id="category_3">
+      <span class="clearfix">
+        <a href="http://vodpod.com/sports" class="parent">Sports</a>
+        <a class="arrow" href="#" onclick="openCategoryMenu('category_3'); return false;">&nbsp;</a>
+        <div style="clear:both;"></div>
+      </span>
+      
+      
+      <div class="subcats">
+        
+        <a href="http://vodpod.com/sports/soccer">Soccer</a>
+        
+        <a href="http://vodpod.com/sports/us+football">US Football</a>
+        
+        <a href="http://vodpod.com/sports/baseball">Baseball</a>
+        
+        <a href="http://vodpod.com/sports/basketball">Basketball</a>
+        
+        <a href="http://vodpod.com/sports/tennis">Tennis</a>
+        
+        <a href="http://vodpod.com/sports/hockey">Hockey</a>
+        
+        <a href="http://vodpod.com/sports/poker">Poker</a>
+        
+      </div>
+      
+    </div>
+    
+    <div class="category" id="category_6">
+      <span class="clearfix">
+        <a href="http://vodpod.com/anime" class="parent">Anime</a>
+        
+        <div style="clear:both;"></div>
+      </span>
+      
+      
+    </div>
+    
   </div>
-  
-  
-  <ul id="account_nav">
     
-    <li style="padding-left:6px;">
-      <a href="http://vodpod.com/site/login?direct=true">Sign In</a>
-    </li>    
-    <li class="right_border">
-      <a href="http://vodpod.com/site/register?direct=true"><b>Sign Up Now</b></a>
-      &nbsp;|
-    </li>
-    
-  </ul>
-</div><!-- close account_bar -->
+  <form action="http://vodpod.com/search/browse?site=vodpod" id="search" method="get" onsubmit="validateSearch()">
+    <input id="text_box" name="q" onclick="clearInput(this)" type="text">
+    <input class="search_button" name="commit" type="submit" value="search">
+  </form>
+  <div style="clear:both;"></div>
+</div>
 <!-- google_ad_section_end -->
+
+<script type="text/javascript">
+var active_category_menu = null;
+
+function openCategoryMenu(id) {
+  var menu = $(id);
+  
+  // If clicking same menu, close it and return
+  if (menu == active_category_menu) {
+    closeCategoryMenu();
+    return;
+  } else {
+    // Close existing category menu
+    closeCategoryMenu();
+  }
+  
+  // Store active menu
+  active_category_menu = menu;
+  
+  
+  $(menu.select('.parent')[0].parentNode).addClassName('expanded');
+  menu.select('.subcats')[0].style.display='block';
+}
+
+function closeCategoryMenu(ev) {
+  if (active_category_menu) {
+    $(active_category_menu.select('.parent')[0].parentNode).removeClassName('expanded');
+    active_category_menu.select('.subcats')[0].style.display='none';
+    
+    active_category_menu = null;
+  }
+}
+
+Event.observe(document.body, 'click', function(ev) {
+  ev = ev || window.event;
+  var target = ev.target;
+  
+  if (target.className != 'arrow')
+    closeCategoryMenu();
+}.bindAsEventListener(this));
+</script>
+
+<!-- end logger silence -->
+
         </div>
-        
-        <div class="generic_header" style="background:url(/images/explore_bg.gif) repeat-y;">
-          <div style="float:left">
-            
-            
-            <a href="http://vodpod.com/site/privacy">Privacy Policy</a>
-            
-            
-          </div>
-        </div>
-        
 
         
-
 
 <div id="wrapper" style="width:900px">
 
@@ -208,8 +330,7 @@ for the on-going operation of one of our services. <br>
   use of their cookies is subject to their own privacy policies, not this one. 
   Advertisers or other entities do not have access to Vodpod's cookies. </li></ul><h3><font size="2"><strong>Information Sharing and Disclosure</strong></font></h3>
 <ul><li>Any personal information or video
-content that you voluntarily disclose online (on Pods and Pod message
-boards, in
+content that you voluntarily disclose online (on collections, in
 reviews and discusion areas, and within your public
 profile page, etc.) becomes
 publicly available and can be collected and used by others. Your
@@ -230,7 +351,7 @@ data, cookies, IP addresses, browser type, clickstream data, etc.) to
 improve the quality and design of the Vodpod Sites and to create new
 features, functionality, and services by storing, tracking,
 and analyzing user preferences and trends.</li><li>
-When you post a comment or message, upload video, start a Pod, or
+When you post a comment or message, upload video, start a collection, or
 engage in other public activities on the Vodpod service, your Vodpod ID
 or alias that you are posting under is visible to other users. </li><li>If you post personal information online that is accessible to the public, 
   you may receive unsolicited messages from other parties in return.Vodpod does 
@@ -324,51 +445,52 @@ before implementing such revisions with respect to such information.</p>
 </div>
   
 
-        <!-- google_ad_section_start(weight=ignore) -->
+        
 
-
-
-
-
-
-
-
-
-
-<div id="footer">
-  <div id="copyright">©2006 Remixation, Inc.  All Rights Reserved</div>
-  <div style="float:right;">
+<!-- google_ad_section_start(weight=ignore) -->
+<div id="footer" class="clearfix">
+  <ul class="first">
+    <h3>About Us</h3>
+    <li><a href="http://blog.vodpod.com">Blog</a></li>
+    <li><a href="http://geekblog.vodpod.com">Geek Blog</a></li>
+    <li><a href="http://twitter.com/vodpod">Vodpod on Twitter</a></li>
+    <li><a href="http://vodpod.com/jobs" style="font-weight:bold;">Jobs</a></li>
+  </ul>
   
-    <a href="http://vodpod.com/site/privacy">Privacy</a> | <a href="http://vodpod.com/account/blog_badges">Widgets</a> | <a href="http://vodpod.com/button">Tools</a> | <a href="http://vodpod.com/vodspot">Vodspot</a> | <a href="http://vodpod.com/site/widgets_tools">API</a> | <a href="http://blog.vodpod.com/?p=78">Jobs</a> | <a href="http://blog.vodpod.com">Blog</a> | <a href="http://vodpod.com/site/help">Help</a>   
+  <ul>
+    <h3>Features</h3>
+    <li><a href="/features/publishing">Publishing</a></li>
+    <li><a href="/features/collecting">Collecting</a></li>
+    <li><a href="/features/discovery">Discovery</a></li>
+    <li><a href="/widgets">Widgets</a></li>
+    <li><a href="/site/api">API</a></li>
+  </ul>
   
+  <ul>
+    <h3>Support</h3>
+    <li><a href="http://vodpod.com/forums">Forums</a></li>
+    <li><a href="/help">Help</a></li>
+    <li><a href="/button">Vodpod Button</a></li>
+  </ul>
+
+  <ul>
+    <h3>Legal</h3>
+    <li><a href="http://vodpod.com/privacy">Privacy</a></li>
+    <li><a href="http://vodpod.com/dmca">Copyright</a></li>
+    <li><a href="http://vodpod.com/community">Community Guidelines</a></li>
+  </ul>
+  
+  <div class="logo">
+    <a href="http://vodpod.com"><img alt="" class="transparent" src="http://assetscdn.vodpod.com/images/vodpod_logo_bw_trans.png?r9198" style="width:115px;height:27px;"></a>
+    Copyright © 2009 Remixation, Inc.
+    <br>
+    All Rights Reserved
   </div>
-  <div style="clear:both;"></div>
-  
-  <div class="categories">
-    Watch videos: 
-    <a href="http://vodpod.com/tag/funny">Funny</a>
-  
-    <a href="http://vodpod.com/category/anime">Anime</a>
-  
-    <a href="http://vodpod.com/category/entertainment">Entertainment</a>
-  
-    <a href="http://vodpod.com/category/music">Music</a>
-  
-    <a href="http://vodpod.com/category/politics">Politics</a>
-  
-    <a href="http://vodpod.com/category/scitech">SciTech</a>
-  
-    <a href="http://vodpod.com/category/sports">Sports</a>
-  
-    <a href="http://vodpod.com/category/viral">Viral</a>
-  
-  </div>
-  <div style="clear:both;"></div>
+  <div style="clear:both"></div>
 </div>
-
-
-
 <!-- google_ad_section_end -->
+
+
 
 
       </div>
