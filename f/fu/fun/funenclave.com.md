@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216102331id_/http%3A//www.funenclave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funenclave.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628134342id_/http%3A//www.funenclave.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FunEnclave
 
@@ -70,7 +70,7 @@ All of the above are " _opt in_ " and you can at any time choose not to receive 
 
 **Data Quality/Access**  
 This site gives users the option of changing and modifying information previously provided. To change options,   
-[please visit this URL.](http://www.funenclave.com/usercp.php)
+[please visit this URL.](http://www.funenclave.com/my-settings/)
 
 **  
 Your Consent to this Policy**  
