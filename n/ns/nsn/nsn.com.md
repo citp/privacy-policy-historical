@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121025109id_/http%3A//www.nsn.com/global/AboutUs/Service/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628172231id_/http%3A//www.nokiasiemensnetworks.com/global/AboutUs/Service/Privacy-Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Nokia Siemens Networks
 
 This Privacy Policy of "www.nokiasiemensnetworks.com" has been posted and is effective as of November 17, 2008. At Nokia Siemens Networks your privacy is important and we are committed to protecting your personal data. As used in this Privacy Policy (this " **Policy** "), the term " **personal data** " means data such as: your name, mailing address, e-mail address, internet service provider, telephone number, or other personal information that may be supplied by you or collected about you according to applicable local legislation. We hope that this Policy helps you understand what kind of personal data, if any, we collect at this site and how we handle and use any such personal data after collection.
 
