@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216025150id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628143937id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | iHaveNet.com
-
-**This statement discloses the privacy practices of iHaveNet.com**
+# Privacy Statement & Policy for iHaveNet.com
 
 Welcome to iHaveNet.com (owned and produced by promiQue.com, LLC). iHaveNet.com is offered by promiQue.com, LLC through www.ihavenet.com and is made available subject to this Privacy Policy. By using this site, you agree, without limitation or qualification, to be bound by this Privacy Policy. 
 
