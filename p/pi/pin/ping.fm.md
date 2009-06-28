@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225012123id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628191716id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
 
 # Ping.fm / Privacy Policy
 
-[](https://web.archive.org/)
-
-##  Privacy Policy 
-
-
-
+##  [](https://web.archive.org/) > Privacy Policy 
 
 **First and foremost:**
 
@@ -71,5 +66,4 @@ We want you to enjoy your use of Ping.fm's service. If you have any questions, o
 
 Last updated: 02.28.2008 
 
-Copyright © 2008 Ping.fm, Inc. Powered by [PMUpload](http://www.pmupload.com/) \- Media hosting provided by [Evolution Studios](http://ping.fm/evolve/)  
-Trademarks and tradenames used herein are the property of their respective holders.
+Copyright © 2009 Ping.fm, Inc. - Trademarks and tradenames used herein are the property of their respective holders.
