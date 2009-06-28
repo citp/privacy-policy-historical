@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218083203id_/http%3A//www.dailygrommet.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628091302id_/http%3A//www.dailygrommet.com/pages/privacy) for the most accurate reproduction.*
 
-# Daily Grommet
+# Privacy Policy - Daily Grommet
 
 _Date of Policy: October 15, 2008_
 
