@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelibrary.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216021703id_/http%3A//www.freelibrary.org/policies/flppp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelibrary.org privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628102359id_/http%3A//www.freelibrary.org/policies/flppp.htm) for the most accurate reproduction.*
 
 # FLP - Privacy Statement
 
