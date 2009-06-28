@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216060134id_/http%3A//www.vegetariantimes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628084957id_/http%3A//www.vegetariantimes.com/privacy_policy) for the most accurate reproduction.*
 
 # Vegetarian Times - Great Food, Good Health, Smart Living
 
