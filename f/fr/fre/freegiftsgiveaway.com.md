@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegiftsgiveaway.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221033506id_/http%3A//www.freegiftsgiveaway.com/free_gifts_giveaways_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegiftsgiveaway.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628191132id_/http%3A//www.freegiftsgiveaway.com/free_gifts_giveaways_privacy_policy.htm) for the most accurate reproduction.*
 
 # FREE GIFTS GIVEAWAYS PRIVACY POLICY
 
@@ -72,4 +72,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 FreeGiftsGiveaway.com is controlled, operated and administered entirely within Pennsylvania. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-Copyright © 2008 AECNU Internet & Computers - Free Gifts Giveaway All Rights Reserved.
+Copyright © 2008-2009 AECNU Internet & Computers - Free Gifts Giveaway All Rights Reserved.
