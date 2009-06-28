@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoflexer.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217041649id_/http%3A//fotoflexer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoflexer.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628093105id_/http%3A//fotoflexer.com/privacy.php) for the most accurate reproduction.*
 
 # FotoFlexer - Privacy Policy
 
@@ -82,3 +82,5 @@ California Civil Code Section 1798.83 permits customers who are California resid
 #### CONTACTING US
 
 If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with Arbor Labs, please contact us at: [info@fotoflexer.com](mailto:info@fotoflexer.com).
+
+﻿ 
