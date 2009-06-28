@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the trustmymechanic.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221071931id_/http%3A//www.trustmymechanic.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustmymechanic.com privacy policy that was archived on 2009-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628090244id_/http%3A//www.trustmymechanic.com/privacy.html) for the most accurate reproduction.-->
 
 <html><!--  Created with the CoffeeCup HTML Editor  --><!--        http://www.coffeecup.com/         --><!--     Brewed on 11/27/2002 8:38:21 PM      --><head>
   <title>Privacy Statement</title>
   <meta name="Microsoft Border" content="tb">
 <link rel="stylesheet" type="text/css" href="/style_index.css">
 </head>
-<body text="#000000" link="#006699" vlink="#003366" alink="#CCCCCC" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center">
+<body text="#000000" link="#006699" vlink="#003366" alink="#CCCCCC" topmargin="0" marginwidth="0" marginheight="0"><div align="center">
 	<table border="0" width="750" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td width="15" height="30" background="/_borders/top_left_radius_blue.gif" style="background-repeat:no-repeat"></td>
@@ -16,108 +15,94 @@
 		</tr>
 		<tr>
 			<td width="15" height="80" bgcolor="#000099">&nbsp;</td>
-			<td height="80" align="center" bgcolor="">
-			<!-- ###### Start INS Form ###### -->
+			<td height="80" align="center" bgcolor="#000099">
+			<script language="JavaScript">
+var zipcode="00000";
+var insured="t";
+var csource="-redir";
 
-  <script language="javascript" type="text/javascript">
+function openINSWindow(url){
+        window.open(url, '');
+        }
 
-            var url = "http://waypointllc.info/clicksrv.php"; // The server-side script
+function shred(){
+	window.location = "http://www.trustmymechanic.com/static/results.php" + "?var1=trustmymechanic" + csource + "&zipcode=" + zipcode;
+	}
 
-            var siteid = 1;
+function insurance(src){
+	openINSWindow('https://www.comparisonmarket.com/quotes/auto.aspx?useprefill=true&CustomerSource=trustmymechanic-' + src + '&cp=1153&zip=' + zipcode + '&insured=' + insured);
+	return(true);
+	}
 
-            var affid = 1;
+function getCheckedValue(radioObj) {
+	if(!radioObj)
+		return "";
+	var radioLength = radioObj.length;
+	if(radioLength == undefined)
+		if(radioObj.checked)
+			return radioObj.value;
+		else
+			return "";
+	for(var i = 0; i < radioLength; i++) {
+		if(radioObj[i].checked) {
+			return radioObj[i].value;
+		}
+	}
+	return "";
+}
 
- 
+function upzip(z){ zipcode=z; }
+function upinsured(z){ insured=getCheckedValue(z); }
+</script>
 
-                        function rand ( n ){
+<style>
+#hcont{
+	width:550px;
+	height:114px;
+	}
+#hleft{
+	width:146px;
+	height:114px;
+	background-image:url(/static/tmm-head-left.jpg);
+	background-repeat:no-repeat;
+	float:left;
+	}
+#hright{
+	width:404px;
+	height:114px;
+	background-image:url(/static/tmm-head-right.png);
+	background-repeat:no-repeat;
+	float:left;
+	}
+#dzip,#cins,#sub{
+	margin:10px;
+	float:left;
+	}
+		
+</style>
+<div id="hcont">
+<div id="hleft"></div>
+<div id="hright">
 
-                                    var num;
+<form onsubmit="return insurance('header')" action="javascript:shred();" method="post" id="cmfamily" name="cmfamily">
+<div style="padding-top:50px">
+<div id="cins">
+<strong>Currently Insured?</strong><br><input type="radio" onchange="upinsured(this);" name="insured" value="Y">Yes&nbsp;&nbsp;<input name="insured" type="radio" onchange="upinsured(this);" value="N">No
+</div>
+<div id="dzip">
+<span class="style7"><span class="style12"><strong>Zip Code</strong></span>:</span><br>
+<input style="background-color:#F7D9D9" id="zip" onchange="upzip(this.value);" name="zip" type="text" size="8">
+</div>
+<div id="sub" style="padding-top:8px;"><input name="submit" type="image" src="/static/go.gif" alt="" align="top" border="0"></div>
 
-                                    num = Math.floor ( Math.random ( ) * n + 1 );
+</div>
+</form>
 
-                                    if (typeof(num) == "number")       return num;
 
-                                    else return 0;
+</div>
+<div style="clear:both"></div>
+</div>
 
-                                    }
-
-            
-
-                        function randnum ( n ) {
-
-                                    var o=""; var i; var t;
-
-                                    for (i=0; i<n; i++) o += String(rand(9));                              
-
-                                    return o;
-
-                                    }
-
- 
-
-            function sendafd() {
-
-              var zipValue = document.getElementById("zip").value;
-
-              url = url + "?sid=" + siteid + "&affid=" + affid + "&fdata=" + escape(zipValue) + "&vref=" + self.location + "&cmsid=" + escape(randnum(25));
-
-              document.getElementById('clickimg').src = url;
-
-            }
-
- 
-
-  </script>
-
- 
-
-  <form action="https://www.comparisonmarket.com/quotes/auto.aspx" onsubmit="sendafd();" method="get" name="Form1" target="_blank">
-
-  <input name="cp" type="hidden" value="1153">
-
-    <table class="bordert" align="center" background="/banners/top-banner_files/banner2.jpg" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="90" width="700">
-
-      <tbody><tr>
-
-        <td width="358" height="60" rowspan="2" valign="bottom"><table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-          <tbody>
-
-            <tr>
-
-              <td colspan="3" align="center" valign="middle">&nbsp;</td>
-
-            </tr>
-
-            <tr>
-
-              <td align="center" valign="bottom" width="30%">
-
-                <font face="Arial, Helvetica, sans-serif"><strong><span class="style5">Your Zip Code</span></strong><font size="2"><strong><font color="#FFFFFF">: </font></strong></font></font></td>
-
-              <td width="28%" align="center" valign="top"><br>
-
-                <input style="background-color: rgb(255, 255, 160);" id="zip" name="zip" size="10" type="text"></td>
-
-              <td valign="bottom" width="42%"><input name="image" type="image" src="/banners/top-banner_files/button2.gif" alt="cheapest auto insurance" align="top" width="130" height="33" border="0"></td>
-
-            </tr>
-
-          </tbody>
-
-        </table></td>
-
-        <td>&nbsp;</td>
-
-      </tr>
-
-  </tbody></table>
-
-  <img id="clickimg" height="1" width="1" border="0" src="http://waypointllc.info/hit.php?sid=1">
-
-  </form>
-
-			
 			
 			</td>
 			<td width="15" height="80" bgcolor="#000099">&nbsp;</td>    
