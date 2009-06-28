@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216141538id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082150id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sea Fishing and Sea Angling Online
 
@@ -21,3 +21,9 @@ You may notify World Sea Fishing of any updates, amendments and corrections to p
 World Sea Fishing reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
 Our web site uses third party advert servers (such as DoubleClick, ValueClick, Google) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
+
