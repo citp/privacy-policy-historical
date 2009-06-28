@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020107id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628074207id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
@@ -8,20 +8,22 @@
 |    
 |   
 ---  
-|  **Featured Items**  
+|  **[Featured Items](http://www.starbucksstore.com/GiftIdeas/)**  
+>  [Starbucks VIA™ ](http://www.starbucksstore.com/products/shprodli.asp?SkuList=193576,193569,193765,193758,193772&cpnum=SBLEARNMORE)  
 >  [Starbucks Gift Ideas](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Gift)  
->  [Holiday/Seasonal](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&MaterialNo=8102)  
->  [Kona Coffee](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Starbucks+Kona+Coffees)  
->  [Syrups](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Syrup) **Starbucks Card**  
+>  [Seasonal](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&MaterialNo=8102)  
+>  [Syrups](http://www.starbucksstore.com/products/shprodli.asp?Keywords=Syrup) **[Starbucks Card](http://www.starbucksstore.com/StarbucksCard/)**  
 >  [Purchase](http://www.starbucksstore.com/products/starbuckscard.asp)  
->  [Reload](http://www.starbucksstore.com/shopping/sc_reload.asp) **Subscription**  
+>  [Reload](http://www.starbucksstore.com/shopping/sc_reload.asp) **[Subscription](http://www.starbucksstore.com/StarbucksAtHome/)**  
 >  [Create](http://www.starbucksstore.com/StarbucksAtHome/shprodreorder.asp?cr=jna)  
->  [Modify](http://www.starbucksstore.com/athome/) **Equipment**  
+>  [Modify](http://www.starbucksstore.com/athome/) **[Equipment](http://www.starbucksstore.com/equipment.asp)**  
 >  [Brewing Equipment](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0036)  
->  [Serveware](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0035) **Starbucks Coffees**  
+>  [Drinkware](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0035) **[Entertainment](http://www.starbucksstore.com/entertainment/)**  
+>  [See All Music](http://www.starbucksstore.com/Entertainment) **[Starbucks Coffees](http://www.starbucksstore.com/products/coffee.asp)**  
 >  [Starbucks® Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8101)  
 >  [Starbucks® Decaf](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)  
-    [Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)
+    [Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)  
+>  [Starbucks VIA™ ](http://www.starbucksstore.com/products/shprodli.asp?SkuList=193576,193569,193765,193758,193772&cpnum=SBLEARNMORE)
 
 >  
 
@@ -37,7 +39,8 @@
 >  [Whole Bean](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8101)  
 >  [Pods](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8103)  
 >  [Filter Packs](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=0411)  
->  [Portion Packs](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=1014) **Tazo Teas**  
+>  [Portion Packs](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=1014)  
+>  [Instant](http://www.starbucksstore.com/products/shprodli.asp?SkuList=193576,193569,193765,193772&cpnum=SBVIAPO) **[Tazo Teas](http://www.starbucksstore.com/products/tazotea.asp)**  
 >  [Black Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0174)  
 >  [Green Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0176)  
 >  [White Teas](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&SubClassNo=0973)  
@@ -52,7 +55,7 @@
 >  [Caffeine Free](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0027&StyleNo=0728) |   
 |  |   
 |   
-**About StarbucksStore**  
+**[About StarbucksStore](http://www.starbucksstore.com/products/shabotus.asp)**  
 >  [Newsletters](http://www.starbucksstore.com/extras/newsletters.asp)  
 >  [Shipping](http://www.starbucksstore.com/guestassist/ga_faq_shipop.asp) |   
   
