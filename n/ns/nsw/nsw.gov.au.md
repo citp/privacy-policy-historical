@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218095119id_/http%3A//www.nsw.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628231410id_/http%3A//www.nsw.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - NSW Government Portal
 
