@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visual-paradigm.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015741id_/http%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visual-paradigm.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082206id_/http%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement of Visual Paradigm
 
