@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221033203id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628115254id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
-"Transforming Words  
-into Dollars"
+Better Books  
+Painless Publishing
 
 ### Check out what readers  
 say about our writing...
 
-#408" I just want to say that I have found this one of the newsletters that I really look forward to and read everytime that it comes, no putting it in the read later file. I have recommended it to some of my less computer literate friends as a good shortcut/tip reference. Thanks for your time. I know it must be hard to fit it all in."\- D.G.
+#351"Great article! Thanks."\- S.B.
+
+[](http://www.selfpublishersonlineconference.com/)
+
+[Visit SPOC  
+Live Long & Publish!](http://www.selfpublishersonlineconference.com/)
 
 | 
 
@@ -73,7 +78,7 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20081221033203id_/http%3A//www.logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20090628115254id_/http%3A//logicalexpressions.com/contact.asp)
 
 | 
 
