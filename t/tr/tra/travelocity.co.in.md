@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelocity.co.in privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044223id_/http%3A//www.travelocity.co.in/site/help/corporate/privacy_policy.html%3Fskin%3Denin.travelocity.co.in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.co.in privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082032id_/http%3A//www.travelocity.co.in/site/help/corporate/privacy_policy.html%3Fskin%3Denin.travelocity.co.in) for the most accurate reproduction.*
 
 # Travelocity India: Airfares, hotels, activities, cruises and more
 
