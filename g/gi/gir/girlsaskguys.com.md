@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216035856id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628143143id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Girls Ask Guys Privacy Policy
 
 * * *
 
-Last Updated: October 1, 2007
+Last Updated: May 5, 2009
 
  **INTRODUCTION**
 
@@ -72,4 +72,4 @@ GirlsAskGuys may contain links to other websites. While we monitor these links c
 
  **PART VII. THIRD PARTY ADVERTISEMENT**
 
-Some advertisements on GirlsAskGuys are sometimes delivered directly to users by third party advertisers. These advertisers automatically receive your IP address and may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. By doing this the advertising network recognizes your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. Third party advertisers have no access to your contact information stored on GirlsAskGuys. This privacy policy covers the use of cookies by GirlsAskGuys and does not cover the use of cookies or other tracking technologies by any of its advertisers.
+Some advertisements on GirlsAskGuys are sometimes delivered directly to users by third party advertisers. These advertisers automatically receive your IP address and may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content by collecting information (not personally identifiable information such as your name, address, email address, or telephone number) about your visits. By doing this the advertising network recognizes your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. Third party advertisers have no access to your contact information stored on GirlsAskGuys. This privacy policy covers the use of cookies by GirlsAskGuys and does not cover the use of cookies or other tracking technologies by any of its advertisers. To block third-party cookies, please refer to your internet browser's help section. For more information and a full list of third-party advertising companies please [contact us](https://web.archive.org/contact.html).
