@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219060558id_/http%3A//www.money-zine.com/About/Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628170511id_/http%3A//www.money-zine.com/About/Information/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,6 +39,8 @@ Money-Zine.com uses only reputable third party agencies to present or serve the 
 To enhance your experience with Money-Zine.com, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information.
 
 Money-zine.com uses third-party advertisements to help support the website.  Advertisers (such as Google's Adsense program) may use technology such as cookies and web beacons when they advertise. This can send to these advertisers information including your IP address, ISP, the browser you're using, and in some cases whether you have Flash installed. This information is generally used for geotargeting purposes - for example, showing New York insurance advertisements to someone in New York.  They can also be used to show certain ads based on the pattern of websites you may have visited in the past.
+
+When this website is publishing advertisements from Google, those advertisements may use the DoubleClick DART cookie.  The DART cookie enables Google to serve ads based on user visits to Money-zine.com as well as other websites participating in Google's advertising program.  Users may opt out of the DART cookie by visiting the Google ad and [content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Money-Zine.com uses cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), or save your password in password-protected areas.
 
