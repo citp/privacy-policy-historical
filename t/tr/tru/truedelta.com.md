@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216100239id_/http%3A//truedelta.com/privacy.php%3Fsession_code%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628090851id_/http%3A//www.truedelta.com/privacy.php%3Fsession_code%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ TrueDelta takes your privacy very seriously.
 
 Panel members supply an email address in order to take part in the research. This email address will never be provided to a third party (aside from email management services TrueDelta might use to send and receive email) without your express consent with regard to a specific offer. We hate spam as much as anyone, and will never provide mailing lists to third parties.
 
-Panel members also provide information about themselves and their vehicles, both via the standard forms and, in some cases, personal email. All such information becomes the property of TrueDelta. That said, none of this information will ever be published or otherwise publicly released in a form that it can be connected to the individual member or vehicle.
+Panel members also provide information about themselves and their vehicles, both via the standard forms and, in some cases, personal email. All such information becomes the property of TrueDelta. That said, none of this information (names, license plates, addresses, etc.) will ever be published or otherwise publicly released in a form that it can be connected to the individual member or vehicle.
 
 For example, while responses to the fuel economy and repair history surveys are posted directly to the site, the posted results include no way to identify the specific vehicle they pertain to or the person who provided the data.
 
