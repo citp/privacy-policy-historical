@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216205713id_/http%3A//www.bharatstudent.com/help/help_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatstudent.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628150555id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.*
 
-# Indian Friends Online Community | Social Network India | Indian Student
+# BharatStudent Help
 
 **About bharatstudent.com**  
 Bharatstudent.com is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. Bharat student members can view each others' profiles, communicate with old friends and meet new friends, create or join any gangs, share photos, videos, post comments and send messages. To enrich our members' experience, we request and display some personal information to other visitors and members, which allows our users to identify each other and expand their network. Bharat student members can change their profile information at any time. 
