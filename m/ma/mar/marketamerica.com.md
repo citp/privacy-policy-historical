@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216112317id_/http%3A//www.marketamerica.com/corporate/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketamerica.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628223822id_/http%3A//www.marketamerica.com/corporate/index.cfm%3Faction%3Dservices.wpPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Market America
 
 |   
-  
+---  
+| 
+
+Shop All Departments
+
+|   |  |  [ myList ](https://www.marketamerica.com/CORPORATE/index.cfm?action=main.authWUserML&hdnSrc=ML&target=ml "myList") |   |   
+---|---|---|---|---|---  
+|   |   
+| 
+
 |  | privacypolicy  
 ---|---  
    
@@ -114,6 +123,4 @@ By using Market America facilities and continuing to order products and services
 **Contact Us**
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at [privacy@marketamerica.com](mailto:privacy@marketamerica.com).  
-   
-  
-  | 
+ 
