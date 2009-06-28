@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purseblog.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219115147id_/http%3A//www.purseblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purseblog.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628155353id_/http%3A//www.purseblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Purse Blog
 
