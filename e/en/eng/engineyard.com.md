@@ -1,65 +1,53 @@
-> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511204217id_/http%3A//www.engineyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628090316id_/http%3A//www.engineyard.com/legal/privacy) for the most accurate reproduction.*
 
-# Engine Yard: Fully-Managed Ruby & Rails Hosting and Deployment | Privacy
+# Managed Rails Hosting, Rails Deployment from Engine Yard
 
-Engine Yard, Inc. has created this Privacy Statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the sites.
+This Privacy Statement sets forth Engine Yard’s information gathering and dissemination practices regarding personal information collected by Engine Yard directly from individuals ("you") in connection with the website located at [www.engineyard.com](http://www.engineyard.com/) and related URLs ("Website").
 
-## What We Collect and Where
+## What We Collect
 
-Our sites use several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information:
+Engine Yard may collect various types of personal information from you in connection with the Website. Such data may include identifying information and contact information (names, titles, addresses, phone and fax numbers, and email addresses), financial and payment information, information about products and services ordered or provided, IP addresses, and other transaction-related data.
 
-  * Visitors’ contact information (like e-mail addresses)
-  * Unique identifiers (like customer numbers)
-  * Financial information (like account or credit card numbers)
-  * IP addresses
-
-
-
-## How Secure is the Information We Collect?
-
-Engine Yard makes every effort to follow industry standard security measures to prevent the loss, misuse and alteration of the information under our control. All financial information is encrypted during transmission, and our company databases are accessible only to internal employees.
-
-## What Do We Use This Information For?
+## How We Use Collected Information
 
 ### Contact Information
 
-We use your contact information to send you information about our company and to get in touch with you when necessary. We also use the information we collect to improve the content of our Web site. Our site allows you to opt out of receiving communications from us. You will be given this choice at the points where we request your information. If you do not wish to receive future marketing mailings, please send e-mail to info@engineyard.com. For other ways to contact us, please see our web page.
+We may use personal information collected in connection with the Website to contact you regarding products or services you have ordered or are receiving, to send you information about Engine Yard or its partners, to provide services to you, and for other purposes related to our business. You may choose to opt out of receiving communications from us. You will be given this choice at the points on the Website where we request your information. If you do not wish to receive future marketing mailings, please send an e-mail to [privacy@engineyard.com](mailto:privacy@engineyard.com).
 
 ### Financial Information
 
-We may ask you to enter your credit card or account information in Engine Yard to enable us to debit your account when you purchase services from us. All information you will be asked to enter is protected using SSL (Secure Sockets Layer) encryption to prevent it from being intercepted by anyone else as it is transferred over the Internet. We collect this information on a transaction-by-transaction basis and will never authorize the release of this information to anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes.
+We may ask you to provide your credit card or other financial account information to enable us to charge your account when you purchase services from us. All information you will be asked to provide is protected during transmission using SSL (Secure Sockets Layer) encryption to prevent it from being intercepted as it is transferred over the Internet. We provide this information only to third parties involved in processing payments for the services we provide and as otherwise provided in this Privacy Statement.
 
-### IP addresses
+### IP Addresses
 
-We use your unique network address (IP address) to help diagnose problems with our servers, and to administer our Web site.
+We use your unique network address, or IP address, to help diagnose problems with our servers and to administer the Website.
 
 ### Cookies
 
-We may use cookies to keep track of your actions and purchases on www.engineyard.com. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only and will never authorize the release of this information to anyone outside Engine Yard.
+We may use cookies to keep track of your activities on the Website. We also use them to recognize return visitors and to track our promotions.
 
-### Linked Sites
+## Disclosure Of Collected Information
 
-This site contains links to external websites. Engine Yard is not responsible for the privacy practices or the content of these websites.
+Engine Yard may disclose to third parties information we collect from you in connection with the Website (i) as necessary to provide services requested by you, (ii) as necessary to process payments, (iii) to our subcontractors, service providers and other agents in connection with the provision of services to you (provided such subcontractors and service providers are under a duty to maintain the confidentiality of such information), and (iv) in connection with requests from law enforcement officials, government agencies, or otherwise as required in connection with legal proceedings. In addition, we may transfer information we collect from you to a third party in connection with a merger or sale of our business or assets, in which case the resulting entity or transferee will be permitted to obtain and use such information subject to the terms of this Privacy Statement.
 
-## Disclosure Of Customer Information And Communications
+## Contact
 
-Engine Yard will not otherwise disclose its customers’ personal and account information unless Engine Yard has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Engine Yard, Engine Yard’s customers, or others, or where Engine Yard has a good faith belief that the law requires such disclosure.
+If you would like to contact Engine Yard regarding the use of your personal information collected in connection with the Website, the types of third parties to whom we disclose such information, ways to limit the use and disclosure of such personal information, or to access, correct, amend, or delete your personal information collected in connection with the Website that is stored on our systems, please send an email to [privacy@engineyard.com](mailto:privacy@engineyard.com) with your request.
 
-Engine Yard also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Engine Yard stores or transmits for its customers. The circumstances under which Engine Yard will disclose such electronic customer communications are when:
+## EU Safe Harbor Compliance
 
-  1. It is necessary in order to provide service to the customer;
-  2. It is necessary to protect the legitimate interests of engine yard and its customers;
-  3. It is required to cooperate with interception orders, warrants, or other legal process that engine yard determines in its sole discretion to be valid and enforceable; and
-  4. It is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by engine yard and appear to pertain to the commission of a crime.
+As part of our commitment to protecting your privacy, Engine Yard has elected to adhere to the Safe Harbor Principles of the United States Department of Commerce with respect to personal data collected by Engine Yard directly from residents of the European Union. By certifying this election with the Department of Commerce, Engine Yard has declared that it intends to provide privacy protection with respect to such personal data in accordance with the Safe Harbor Principles. Additional information about the Safe Harbor Principles and the Directive on Data Protection can be obtained at <http://www.export.gov/safeharbor/>.
 
+For information regarding Engine Yard’s processing of personal data that is stored on Engine Yard’s servers at the direction of Engine Yard’s customers and their end users located in the European Union (and that is not collected by Engine Yard directly from individuals via the Website), please see the Engine Yard EU Safe Harbor Privacy Policy located at [http://www.engineyard.com/legal/eusafeharborprivacypolicy](https://web.archive.org/legal/eusafeharborprivacypolicy).
 
+## Linked Sites
 
-Engine Yard disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Engine Yard will, however, review, delete or block access to communications that may harm Engine Yard, its customers or third parties. The grounds on which Engine Yard may take such action include, but are not limited to, actual or potential violations of Engine Yard’s Acceptable Use Policy.
+The Website contains links to external websites. Engine Yard is not responsible for the privacy practices or the content of such third party websites.
 
-We do not share your data with others except as necessary to process payments, provide services, or in response to court-issued subpoenas or search warrants. In order to protect our legal interests, in the event of a subpoena or search warrant, Engine Yard may voluntarily provide to all legal authorities any and all information requested, with or without contacting you.
+## Security
 
-Customer information may be available as a consequence of the specific services ordered. For example, domain name registration requires that customer information be made available through a central registry as well as a public WHOIS server. Contracting for other services may require that customer data be shared with a service provider in order to provide the service.
+Engine Yard implements industry-standard security measures designed to prevent the loss, misuse, unauthorized access, disclosure, destruction or alteration of the personal information we collect via the Website.
 
-## Questions
+## Updates
 
-Please contact us with any questions regarding the Privacy Policy by calling 1-866-518-YARD or email at [info@engineyard.com](mailto:info@engineyard.com).
+Engine Yard may update this Privacy Statement from time to time to reflect changes in its services and customer feedback, and such changes shall become effective promptly after they are posted. Engine Yard encourages you to periodically review this Privacy Statement to be informed of any changes. This Privacy Statement was last updated on December 2, 2008.
