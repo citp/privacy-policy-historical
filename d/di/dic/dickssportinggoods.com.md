@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053602id_/http%3A//dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628151927id_/http%3A//dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Dick's Sporting Goods
 
@@ -6,16 +6,16 @@ Below are the respective privacy policies for the store area and the SportSpace 
 
 **_PRIVACY POLICY FOR THE STORE AREA_**
 
-_Updated February 2004_
+_Updated January 2009_
 
-GSI Commerce Solutions, Inc. has created this privacy policy to inform you of the information gathering and dissemination practices for the store area of this Web site (the "Web Store"). GSI Commerce Solutions, which operates the Web Store, wants to demonstrate our commitment to your privacy, by notifying you of:
+Dick's Sporting Goods, Inc. ("DSG") has created this privacy policy to inform you of the information gathering and dissemination practices for the store area of this Web site (the "Web Store"). DSG wants to demonstrate our commitment to your privacy, by notifying you of:
 
   1. What personally identifiable information of yours is collected through the Web Store;
   2. The organization collecting the information;
   3. How the information is used;
   4. With whom the information may be shared;
   5. What choices are available to you regarding collection, use and distribution of the information;
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solution's control; and
+  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under DSG's control; and
   7. How you can correct any inaccuracies in the information.
 
 
@@ -64,12 +64,12 @@ We have established several relationships with third parties vendors to best ser
 
     
 
-  1. **Retailer:** GSI Commerce Solutions operates the Web Store pursuant to agreements with Dick's Sporting Goods, Inc. ("Dick's Sporting Goods"). Pursuant to such agreements, Dick's Sporting Goods is entitled to access and use the information collected through the Web Store to the same extent and in the same manner as GSI Commerce Solutions. Additionally, Dick's Sporting Goods may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. Dick's Sporting Goods has agreed to abide by this privacy policy and the same restrictions and limitations applicable to GSI Commerce Solutions hereunder. 
+  1. **Web Store Operation:** GSI Commerce Solutions, Inc. ("GSI") operates the Web Store pursuant to agreements with DSG. Pursuant to such agreements, GSI is authorized to use personal information collected through the Web Store in connection with the services they are engaged to perform. 
   2. **Affiliates:** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the Web Store from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the Web Store but is restricted to only use such information in connection with its administration of the affiliate programs. 
-  3. **Order Fulfillment:** Certain vendors of ours may provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
+  3. **Order Fulfillment and Customer Service:** GSI and certain other vendors of ours may provide customer order fulfillment and shipping services, as well as customer service, on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders which are processed through such vendors, and to provide customer service. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
   4. **Credit Card Processing:** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
-  5. **Marketing and Promotions:** From time to time, we may engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  6. **Additional Third Party Relationships:** From time to time, GSI Commerce Solutions may engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. 
+  5. **Marketing and Promotions:** From time to time, we may engage GSI or certain other third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
+  6. **Additional Third Party Relationships:** From time to time, DSG may engage other third parties to assist in providing marketing, order processing, fulfillment and shipping services, as well as customer service. In addition, GSI or DSG may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. Also, you permit us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. And, we may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
 
 
@@ -89,7 +89,7 @@ If you have any questions regarding your privacy or any of our policies, please 
 
 **_PRIVACY POLICY FOR THE SPORTSPACE COMMUNITY AREA_**
 
-_Effective March 2008_
+_Effective January 2009_
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SPORTSPACE COMMUNITY AREA OF THIS WEB SITE.**
 
@@ -126,6 +126,8 @@ DSG may contact Users about promotional offers in its land-based stores. In addi
 From time to time, DSG may engage certain third parties to assist in providing marketing and promotional offers to our Users. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services including but not limited to in-store events, activities, sponsorships, promotions and programs. Additionally, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. We have established several relationships with third parties vendors to best serve our customers. 
 
 In addition, from time to time DSG may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the SportSpace Web Site from their sites. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information but is restricted to only use such information in connection with its administration of the affiliate programs.
+
+Also, you permit us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. And, we may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
 **Security Policy**
 
