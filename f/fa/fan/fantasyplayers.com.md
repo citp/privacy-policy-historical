@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220011649id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyplayers.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628154755id_/http%3A//www.fantasyplayers.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
