@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228214713id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628134315id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
 
 # Geeks.com
 
@@ -37,7 +37,7 @@ Geeks.com is committed to protecting the privacy of our Visitors and Customers. 
 
 **Purpose**
 
-Geeks.com believes that our online [Visitors](https://web.archive.org/web/20081228214713id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20081228214713id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.
+Geeks.com believes that our online [Visitors](https://web.archive.org/web/20090628134315id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20090628134315id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups:
 
@@ -46,7 +46,7 @@ Many entities have examined the issue of privacy and developed guidelines for es
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20081228214713id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
+[**The Glossary of Terms**](https://web.archive.org/web/20090628134315id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
 
 _Privacy Guidelines:_
 
@@ -55,7 +55,7 @@ Navigational Data/Tracking.
   
 Information Sharing/Disclosure. | We do not share navigational data with outside companies, except with those with whom we have contracted to analyze and safeguard the data on our behalf.  
 ---|---  
-| To offer our products and services in the best way possible, Geeks,com contracts with third party service partners. These partners provide us with data collection, storage, analysis and reporting services and are restricted from using your information in any way other than to help us make our site and services more useful to you and our other visitors. If you would like to opt-out of having your personal information collected by the company with whom we have contracted, please [click here](https://web.archive.org/web/20081228214713id_/http%3A//www.geeks.com/opt_out.asp).  
+| To offer our products and services in the best way possible, Geeks,com contracts with third party service partners. These partners provide us with data collection, storage, analysis and reporting services and are restricted from using your information in any way other than to help us make our site and services more useful to you and our other visitors. If you would like to opt-out of having your personal information collected by the company with whom we have contracted, please [click here](https://web.archive.org/web/20090628134315id_/http%3A//www.geeks.com/opt_out.asp).  
 | We do not disclose individual names or customer contact information (such as telephone numbers, email address, or various personal identification numbers), to any third party without your prior consent, except as required by law, or as needed to fulfill an order or deliver a product that a customer has ordered.
 
 Service partners will abide by Geeks.com's privacy policies.
@@ -76,7 +76,7 @@ Choice.
 We give you choices about how we use your personal information.  
 The objective of the choice principle is to allow customers to opt-out of future marketing offers.   
 Safeguarding Personal Information.  
-The objective of the safeguarding personal information principle is to assure you that we actively protect your privacy using a variety of security and controls. We use secure technology, privacy protection controls and restrictions on employee access in order to safeguard your personal information.   
+The objective of the safeguarding personal information principle is to take reasonable steps to protect your privacy using a variety of security procedures and controls. We use specialized technology, privacy protection controls and restrictions on employee access in an effort to safeguard your personal information.   
 Notice.  
 We will keep you informed, clearly and prominently on this page, about what we do with your personal information, and we will advise you here if we change our policy. The objective of the notice principle is to ensure that you are aware of and understand how we protect your privacy.   
 If you have questions or concerns about our privacy policy, or to report a suspected violation of our privacy policy, you may contact us by the following means:
