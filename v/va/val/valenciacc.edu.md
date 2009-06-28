@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627202252id_/http%3A//www.valenciacc.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628074054id_/http%3A//www.valenciacc.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
 
-# Who We Are - Privacy Statement - Valencia Community College
+# Who We Are - Vision, Values & Mission - Valencia Community College
 
-* **Online Privacy Statement** The policy of Valencia Community College is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
+  | 
+
+[Who We Are
+
+](https://web.archive.org/aboutus/whoweare/)
+
+### Privacy Statement 
+
+> **Valencia Community College  
+>  Information Technology Resource Policies   
+>  [6Hx28:04-38]  
+>  Implementing Procedures for Online Privacy, Access and Security  
+>  [04-38.04]**  
+> 
+
+**Online Privacy Statement** The policy of Valencia Community College is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
 There are four types of information that this site may collect during your visit: network traffic logs, web visit logs, cookies, and information voluntarily provided by you. 
 
@@ -20,6 +35,8 @@ In the course of using this web site, you may choose to provide us with informat
 
 Valencia Community College web sites and subsites may provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the college's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Valencia Community College web site by noting the URL of the destination site. 
 
-If you have questions, please contact the Vice President for Policy and General Counsel via email [policy@valencia.cc.fl.us](mailto:policy@valencia.cc.fl.us?Subject=Regarding%20Privacy%20Statement) or telephone (407) 582-3433. 
+If you have questions, please contact the Vice President for Policy and General Counsel via email [policy@valenciacc.edu](mailto:policy@valenciacc.edu?Subject=Regarding%20Privacy%20Statement) or telephone (407) 582-3433. 
 
 Online Privacy, Access and Security [04-38.04] Revision: February 26, 2002
+
+TOP
