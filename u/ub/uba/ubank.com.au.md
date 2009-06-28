@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubank.com.au privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228124243id_/http%3A//www.ubank.com.au/legal/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubank.com.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628024500id_/http%3A//www.ubank.com.au/legal/privacy.xhtml) for the most accurate reproduction.*
 
 # Privacy policy - UBank - A good place for money. Backed by NAB
 
