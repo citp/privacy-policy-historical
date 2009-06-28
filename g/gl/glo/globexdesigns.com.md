@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the globexdesigns.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201081040id_/http%3A//www.globexdesigns.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globexdesigns.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628184254id_/http%3A//www.globexdesigns.com/privacy.php) for the most accurate reproduction.*
 
 # Globex Designs Inc. - Privacy Policy
 
-## Privacy Policy
+## Globex Designs Privacy Policy
 
-### Globex Designs Privacy Policy
+Last Modified: June 5, 2009
 
-Last Modified: July 21, 2008
+### General
 
 Privacy is very important on the Internet and at Globex Designs we take all measures to ensure all our visitors' privacy is optimized. This policy applies to all pages located on the Globex Designs website.
 
@@ -23,3 +23,11 @@ Log information - When you browse the site, our servers automatically record inf
 Email communication - When you send in an inquery to our staff, we retain all email communication sent in order to respond to your requests in an efficient manner.
 
 We never provide any of this gathered information to our affiliates, partners or any other third party website without clearly informing you of such actions.
+
+### Google Redesigned
+
+The Google Redesigned Firefox extension changes the look and feel of popular Google™ services.
+
+The extension has no access to any data on any of your Google services. The only information the extension will check for is your current extension version and the versions of the extension styles (eg. Gmail Redesigned). This is certified by Mozilla Add-ons editors who verify all Firefox extensions for security and stability.
+
+The Google Redesigned code is available freely under the GPL OpenSource license.
