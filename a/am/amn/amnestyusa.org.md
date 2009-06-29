@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918193026id_/http%3A//www.amnestyusa.org/privacy-policy/page.do%3Fid%3D1031006%26n1%3D2%26n2%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629060745id_/http%3A//www.amnestyusa.org/privacy-policy/page.do%3Fid%3D1031006) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International USA
 
@@ -54,5 +54,4 @@ This site contains hypertext links to other sites. Amnesty International USA is 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, your confidential use of this site cannot be guaranteed by Amnesty International USA. Amnesty International USA shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality in respect to your use of this site or any information you transmitted to this site.
 
   
-|  |  |  |    
-| 
+|  |  |  |  | 
