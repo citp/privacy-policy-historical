@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023948id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181249id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy - University of the Sunshine Coast, Queensland, Australia
+# Privacy
 
 ## Main Content
 
