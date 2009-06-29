@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050544id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181454id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -98,6 +98,9 @@ Specialty Information Searches!**
 
   
 **Sponsored Links**
+
+[**Make Money From Home** Follow my blog on how to start making money at home. ](http://money--from--home.blogspot.com/)[**Beer Brewing Kit Reviews**](http://beerbrewingkits.blogspot.com/)  
+Beer Brewing Kit Reviews, Homebrewing Information and more!
 
 [**Facts and Info 4U**](http://www.factsandinfo4u.com/)  
 Gardening, landscaping, foods and drink, games, home improvements, metals, and more!
