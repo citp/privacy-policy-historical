@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesgalore.info privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226101018id_/http%3A//www.articlesgalore.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesgalore.info privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629105559id_/http%3A//www.articlesgalore.info/privacy.php) for the most accurate reproduction.*
 
 # Article Directory ArticlesGalore.Info
 
