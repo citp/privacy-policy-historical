@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quoteshound.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219113958id_/http%3A//www.quoteshound.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoteshound.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629173123id_/http%3A//www.quoteshound.com/privacy/index.php) for the most accurate reproduction.*
 
 # QuotesHound :: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This privacy statement discloses the privacy practices for QuotesHound.com.
 
-### WHO WE ARE AND WHAT WE DO 
+### WHO WE ARE AND WHAT WE DO
 
 QuotesHound.com ("Company " or "we" or "our" or "QuotesHound"), owns and operates the website located at www.quoteshound.com, (the "Site"). Through the Site, Company operates a prospective customer data base (the "Service"), by which it compiles, sorts and sells contact information to businesses on behalf of individual consumers who have shown an interest in applying for a business' products or services and has affirmatively asked to be contacted by a representative of a product or service business. Company utilizes third party vendors, third party affiliates, and a variety of media advertisements to promote the Site to consumers interested in completing an online contact request at our Site or to supplement our database by purchasing their database of consumers who have completed applications on websites other than Company's and have affirmatively requested receipt of information about product or service offerings similar to those offered on Company's Site.
 
@@ -16,28 +16,23 @@ We recognize the importance of protecting your personal information. We collect 
 
 We want consumers to feel comfortable using the Site and participating in the Service, so we have created this Privacy Policy to let you know what information we may collect from you on the Site and through the Service and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site and participating in the Service, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or participate in the Service.
 
-### MINORS
+### CHILDREN'S PRIVACY
 
-QuotesHound does not knowingly collect personally identifiable information from children under 13 years of age.
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our Terms and Conditions for more information.
 
-###  GENERAL INFORMATION COLLECTION AND USE
+### GENERAL INFORMATION COLLECTION AND USE
 
 QuotesHound collects information through the Site from our prospective and existing customers at several different points on our web site. We use contact information to send information about our company and to service existing accounts. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Contact and Financial information that is collected is used for verifying your name, address and other information. Information about your computer hardware and software is automatically collected by QuotesHound and may be shared in aggregate with third parties whose services are used for traffic analysis purposes. This information includes: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by QuotesHound to maintain and improve the quality of the service and to generate statistics regarding use of the QuotesHound site.
 
-###  CHOICE/OPT-OUT
+### CHOICE/OPT-OUT
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
-
-  * You can send e-mail to optout@quoteshound.com
-  * You can send mail to the following postal address: QuotesHound.com, 16192 Coastal Hwy., Lewes, DE, 19958.
-
-
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: You can send e-mail to optout@quoteshound.com
 
 Please note that participation in certain activities on our web site may be limited if personally identifiable information is not submitted for the user. E-mail addresses and phone numbers received in an opt-out request will be added to our internal Do-Not-Contact registry within ten (10) Business days following receipt.
 
-###  COOKIES
+### COOKIES
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site however without cookies the user may not have access to certain features on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. To do this we use a tracking utility service offered by Google Analytics. All cookies served on the domain, both session and persistent are tied to the Personally Identifiable Information you provide.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site however without cookies the user may not have access to certain features on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. All cookies served on the domain, both session and persistent are tied to the Personally Identifiable Information you provide.
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies once set on our site.
 
@@ -81,10 +76,10 @@ If at any point we decide to use personally identifiable information in a manner
 
 ###  SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS
 
-Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address: California Privacy Request, ATTN: QuotesHound.com, 16192 Coastal Hwy., Lewes, DE, 19958. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at privacy@quoteshound.com. This request may be made no more than once per calendar year.
 
 ### QUESTIONS
 
-Any questions that you may have regarding this Privacy Policy should be directed to privacy@quoteshound.com. Or you may mail them to QuotesHound.com, 16192 Coastal Hwy., Lewes, DE, 19958.
+Any questions that you may have regarding this Privacy Policy should be directed to privacy@quoteshound.com.
 
-This Privacy Policy was last updated on June 17th, 2007
+This Privacy Policy was last updated on April 30th, 2009
