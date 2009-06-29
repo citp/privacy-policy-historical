@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217184732id_/http%3A//www.doctorswithoutborders.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629030851id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.*
 
 # Doctors Without Borders | Privacy Policy
 
@@ -16,7 +16,7 @@ Doctors Without Borders employs companies to assist us with such functions as ho
 
 ## Other Information
 
-Through our sites or otherwise, you may decide to submit personally identifiable information (such as your name, postal address and email address) for purposes other than donating (such as receiving an email newsletter or further information as to a particular topic). We collect and store this information and use it for the purposes for which you submitted it. In addition, we may use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze website usage, and improve our websiteâ€™s content, layout, and services. We do not share this information with any third parties except those that assist us with certain functions, as described above. 
+Through our sites or otherwise, you may decide to submit personally identifiable information (such as your name, postal address and email address) for purposes other than donating (such as receiving an email newsletter or further information as to a particular topic). We collect and store this information and use it for the purposes for which you submitted it. In addition, we may use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze website usage, and improve our website's content, layout, and services. We do not share this information with any third parties except those that assist us with certain functions, as described above. 
 
 ## Employment
 
@@ -40,7 +40,7 @@ Additionally, if you have come into the site from one of our newsletters or from
 
 ## Cookies 
 
-Cookies are small text files that a site transfers to a site visitor's hard disk or browser for added functionality, or for tracking site usage. Doctors Without Borders uses cookies in a limited capacity. Doctors Without Bordersâ€™ cookies "expire" at the end of your user session. Our cookies do not capture or store any personally identifying information about you, or any data about your past usage of our site. We use information captured by cookies only for blind statistical analysis, and to tailor our communications with the public. 
+Cookies are small text files that a site transfers to a site visitor's hard disk or browser for added functionality, or for tracking site usage. Doctors Without Borders uses cookies in a limited capacity. Doctors Without Borders' cookies "expire" at the end of your user session. Our cookies do not capture or store any personally identifying information about you, or any data about your past usage of our site. We use information captured by cookies only for blind statistical analysis, and to tailor our communications with the public. 
 
 ## External Links 
 
@@ -50,7 +50,7 @@ Please be aware that Doctors Without Borders is not responsible for the privacy 
 
 ## Note to Parents and Children 
 
-Doctors Without Borders welcomes children to learn more about our organization and about the humanitarian and medical issues presented on the Doctors Without Borders sites, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Childrenâ€™s Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at [webmaster@doctorswithoutborders.org](mailto:webmaster@doctorswithoutborders.org). 
+Doctors Without Borders welcomes children to learn more about our organization and about the humanitarian and medical issues presented on the Doctors Without Borders sites, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this site or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at [webmaster@doctorswithoutborders.org](mailto:webmaster@doctorswithoutborders.org). 
 
 ## Updating Your Information
 
@@ -71,5 +71,3 @@ You agree that your use of this Privacy Policy and any disputes relating thereto
 This Privacy Policy was last updated on August 3, 2007. DOCTORS WITHOUT BORDERS®, MEDECINS SANS FRONTIERES® and other marks used on this website are trademarks of Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. or its affiliates and may not be used without permission.
 
 | 
-
-[](https://web.archive.org/publications/reports/topten/)
