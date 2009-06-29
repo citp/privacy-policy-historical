@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222175926id_/http%3A//www.xtra.ca/public/national/staticontent/142.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtra.ca privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629173938id_/http%3A//www.xtra.ca/public/national/staticontent/142.aspx) for the most accurate reproduction.*
 
 # Xtra.ca - Canada's source for gay and lesbian news
 
