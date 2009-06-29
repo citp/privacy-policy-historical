@@ -1,28 +1,21 @@
-<!--The following is the downloaded HTML source of the editorsweblog.org privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218220744id_/http%3A//www.editorsweblog.org/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the editorsweblog.org privacy policy that was archived on 2009-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629052059id_/http%3A//www.editorsweblog.org/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="generator" content="Movable Type 4.1">
+    <meta name="generator" content="Movable Type Pro 4.23-en">
     
   <!--  <link rel="stylesheet" href="http://www.editorsweblog.org/styles.css" type="text/css" />-->
-
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.editorsweblog.org/atom.xml">
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.editorsweblog.org/rss.xml">
 
 
     <title>
 
         
-    editorsweblog: Privacy Policy
+    Editors Weblog: Privacy Policy
         
 
     </title>
 
-
-    
-    <link rel="start" href="http://www.editorsweblog.org/" title="Home">
-    
 
 
 
@@ -31,13 +24,11 @@
     <script type="text/javascript" src="http://www.editorsweblog.org/mt.js"></script>
 
 
-    
 
-
-<style type="text/css" media="all">@import "http://www.editorsweblog.org//layout/css/positionning.css";@import "http://www.editorsweblog.org//layout/css/navigation.css";@import "http://www.editorsweblog.org//layout/css/modules.css";</style>
+<style type="text/css" media="all">@import "http://www.editorsweblog.org/layout/css/screen.css";</style>
 		
 <!--[if lte IE 7]><style type="text/css" media="all">@import "/layout/css/ie.css";</style><![endif]-->
-<style type="text/css" media="print">@import "http://www.editorsweblog.org//layout/css/print.css";</style>
+<style type="text/css" media="print">@import "http://www.editorsweblog.org/layout/css/print.css";</style>
 
 	
 	
@@ -46,57 +37,153 @@
 <script type="text/javascript" src="http://www.editorsweblog.org/mt-static/plugins/JSUtils/functions.js"></script>
 <script type="text/javascript" src="http://www.editorsweblog.org/mt-static/plugins/JSUtils/countries.js"></script>
 -->
+
+<!-- Javascript needed for top-extranav menu -->
+<script type="text/javascript">
+sfHover = function() {
+	var sfEls = document.getElementById("top-extranav-ul").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>
+
+
+<!-- Javascript needed for slideshow -->
+<script src="http://www.editorsweblog.org/layout/lib/jquery.js" type="text/javascript"></script>
+<script src="http://www.editorsweblog.org/layout/lib/jquery.timers.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+  $(document).ready(function(){
+  $(".bloc").eq(0).show(); // affiche le 1er bloc
+  $("#links a").eq(0).addClass("highlight"); // highlight le 1er lien
+  var inc = 1;
+  
+// boucle
+  $("#slideshow").everyTime('5s','controlled', function(i)
+  {
+    $(".bloc").hide();
+    $(".bloc").eq(inc).show(); // affiche l'element num inc
+
+    $("#links a").removeClass("highlight");
+    $("#links a").eq(inc).addClass("highlight"); // highlight le lien num inc
+
+    if($(".bloc").eq(inc).length == 0) // aucun element
+    {
+      // relance la boucle à partir de l'élément 0
+      $(".bloc").hide();
+      $(".bloc").eq(0).show();
+      $("#links a").eq(0).addClass("highlight");
+      inc = 1;
+    }
+    else  {
+      inc++;
+    }
+  });
+// pour chaque lien
+  $("#links a").each(function (i)
+  {
+    // fonction au onclick
+    $(this).click(function() {
+        $("#slideshow").stopTime(); // stop la boucle
+        $(".bloc").hide();
+        $(".bloc").eq(i).show(); // affiche l'element i correspondant au i eme lien (autant de liens que de blocs)
+        $("#links a").removeClass("highlight")
+        $(this).addClass("highlight");
+      });
+    });
+  });
+  </script>
+  
+
+	<!--[if lte IE 6]>
+
+	<script defer type="text/javascript" src="http://www.lknews.fr/wp-content/themes/gazette/images/pngfix.js"></script>
+
+	<![endif]-->
+
+
+
+
+
 </head>
 <body class="mt-archive-listing mt-page-archive layout-wtt" onload="individualArchivesOnLoad(commenter_name)">
 
 <div id="containerTop" class="container">
-	<div id="banner728x90"><!-- LEADER BOARD --><a href="http://www.trends-in-newsrooms.org"><img src="http://www.editorsweblog.org/pub/728-90.gif"></a></div>
-	<div id="header" class="clearfix">
-		<h3 id="logo"><a href="http://www.editorsweblog.org/" title="Back to Editors weblog's HomePage"><img src="/layout/img/logo_full.gif" alt="The Editor"><span class="w">Weblog</span></a></h3>
-		<h5 id="baseline"><span><a href="http://www.wan-press.org/wef/articles.php?id=2" title="World Editors Forum">A publication of the World Editors Forum</a></span></h5>
-
-		<div id="formWrapper" class="clearfix">
-			<!-- // Search Form//-->
-
-
-<form id="searchForm" action="http://www.editorsweblog.org/special.php" method="get" class="form left"><fieldset><legend><span>Search</span></legend> 
-<!--<form id="searchForm" action="http://www.editorsweblog.org/mt/mt-search.cgi" method="get" class="form left"><fieldset><legend><span>Search</span></legend>-->
-			<input type="hidden" name="IncludeBlogs" value="1">
-<input type="hidden" name="order" value="date">
-			<div class="inline-fields"><input type="text" name="query" class="text-field" id="query" value=""><input class="submit-field" value="OK" name="" id="" type="submit"></div></fieldset></form>
-			<!-- // Newsletter Form//-->
-			<!--
-				OUVERTURE DE FORM POUR SERVEUR SUR PORT 80	
-			-->
-			
-			<form id="newsletterForm" action="http://www.editorsweblog.org/special.php" method="post" class="form right">
-			<input type="hidden" id="nl_step" name="nl_step" value="0">
-			<input type="hidden" id="blog_id" name="blog_id" value="1">
-			<input type="hidden" id="redirect_url" name="redirect_url" value="http://www.editorsweblog.org/">
-			<fieldset><legend><span>Newsletter</span></legend><div class="inline-fields"><input type="text" name="email" class="text-field" id="email" value="Enter your email adress" onfocus="if(this.value=='Enter your email adress'){this.value=''}" onblur="if(this.value==''){this.value='Enter your email adress'}"><input class="submit-field" value="OK" name="submit" id="" type="submit"></div></fieldset></form>
-
-		</div>
-		<div id="feedlink"><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">RSS FEED
-
-	</a></div><!--//end #header //--><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">
-</a></div><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">
-</a><div id="topNavig"><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">
-	</a><div class="content clearfix"><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">
-		</a><ul class="inline clearfix fleft"><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml">
-			</a><li><a title="Subscribe to this blog's feed" href="http://www.editorsweblog.org/rss.xml"></a><a title="About us" href="http://www.editorsweblog.org/about-us.html">About us</a></li>
-			<li><a title="Contact us" href="http://www.editorsweblog.org/contact-us.html">Contact us</a></li>
-			<li><a title="Advertise" class="last" href="http://www.editorsweblog.org/advertise.html">Advertise</a></li>
-                        
-		</ul>
-		
-		<ul class="inline clearfix fright">
-			<li class="last">September 26.2008</li>
-		</ul>
-	</div>
+  <div id="top-extranav" class="clearfix">
+<!-- navigation to external webistes -->
+    <ul class="clearfix fright" id="top-extranav-ul">
+      <li class="li-level1 ul-inside"><div class="extra1"><div class="extra2"><a href="#" class="list">World Association of Newspapers News</a></div></div>
+        <ul id="top-extranav-ul-1">
+          <li class="li-level2"><a href="http://www.wan-press.org/rubrique.php3?id_rubrique=138">World Association of Newspapers</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/rubrique.php3?id_rubrique=4">WAN Events</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/rubrique.php3?id_rubrique=147">WAN Reports</a></li>
+          <li class="li-level2"><a href="http://worldeditorsforum.org">World Editors Forum</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/rubrique1.html">Press Freedom</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/nie/home.php">Young Readers Programme</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/rubrique20.html">Shaping the Future of the Newspaper</a></li>
+        </ul>
+      </li>
+      <li class="li-level1"><div class="extra1"><div class="extra2"><a href="http://www.sfnblog.com/" title="Shaping the Future of the Newspaper blog">SFN Blog</a></div></div></li>
+      <li class="li-level1"><div class="extra1"><div class="extra2"><a href="http://www.arabpressnetwork.org/">Arab Media</a></div></div></li>
+      <li class="li-level1"><div class="extra1"><div class="extra2"><a href="http://www.rap21.org/">African Media</a></div></div></li>
+      <li class="li-level1"><div class="extra1"><div class="extra2"><a href="#" class="list">World Editors Forum</a></div></div>
+        <ul id="top-extranav-ul-2">
+          <li class="li-level2"><a href="http://www.wan-press.org/wef/articles.php?id=2">WEF Homepage</a></li>
+          <li class="li-level2"><a href="http://www.wanindia2009.com/articles.asp?ID=114">Annual WEF Conference</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/wef/studytours.php">Study Tours</a></li>
+          <li class="li-level2"><a href="http://www.editorsweblog.org/webinars.html">WEF Webinars</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/econsulting/programme.php">E-consulting for editors</a></li>
+          <li class="li-level2"><a href="http://www.trends-in-newsrooms.org/home.php">Trends in Newsrooms Report</a></li>
+          <li class="li-level2"><a href="http://www.wan-press.org/wef/articles.php?id=26">The Newsroom Barometer</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div id="top-title" class="clearfix">
+<!-- title and ad -->
+    <div id="header" class="clearfix">
+      <h3 id="logo"><a href="http://www.editorsweblog.org/" title="Back to Editors weblog's HomePage"><img src="/layout/img6a/logo.gif" alt="The Editor Weblog"></a></h3>
+    </div>
+    <div id="banner728x90"><!-- LEADER BOARD -->
+<a href="http://www.protecmedia.com/" target="_blank"><img src="http://www.editorsweblog.org/pub/protecmedia728x90.jpg"></a>
 </div>
-<div id="containerMiddle" class="container">
-	<div id="wrapper">
-		<div id="content">
+  </div>
+  <div id="top-navigation" class="clearfix">
+<!-- navigation to blog content -->
+    <div class="content clearfix">
+
+
+
+      <ul id="top-navigation-left" class="clearfix fleft">
+        <li class="li-all first"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/">All news</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/rss.xml" id="icon-bigfeed">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-analysis"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=Analysis&amp;offset=0">Analysis</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/analysis.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-print"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=Newspaper&amp;offset=0">Print Journalism</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/newspaper.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-multimedia"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=Multimedia&amp;offset=0">Multimedia</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/multimedia.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-editorial"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=Newsrooms%20and%20Journalism&amp;offset=0">Editorial Direction</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/newsrooms-and-journalism.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-web20"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=Web%202.0&amp;offset=0">Web 2.0</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/web-20.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-events"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/special.php?cat_archives=World%20Newspaper%20Congress&amp;offset=0">Events</a></div><div class="li-content-rss"><a href="http://www.editorsweblog.org/world-newspaper-congress.xml">feed</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-archives"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/full_archives.html">Archives</a></div></div></div><div class="li-right"></div></li>
+        <li class="li-sources last"><div class="li-left"></div><div class="li-content"><div class="li-content-inner"><div class="li-content-link"><a href="http://www.editorsweblog.org/full_blogrolls.html">Sources</a></div></div></div><div class="li-right"></div></li>
+      </ul>
+      <ul id="top-navigation-right" "class="inline clearfix fright">
+        <li class="first jobs"><a title="Jobs" href="http://www.editorsweblog.org/jobs.html">Jobs</a></li>
+        <li><a title="Advertise" href="http://www.editorsweblog.org/advertise.html">Advertise</a></li>
+        <li><a title="About us" href="http://www.editorsweblog.org/about-us.html">About us</a></li>
+        <li class="last"><a title="Contact us" href="http://www.editorsweblog.org/contact-us.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div> <!-- END top-navigation -->
+</div> <!-- END containerTop -->
+<div id="containerMiddle" class="container clearfix">
+  <div id="wrapper">
+    <div id="content">
 
 <div id="page-6327" class="page-asset asset page_content">
     <div class="asset-header">
@@ -248,454 +335,315 @@ sites, or your dealings with these Web sites, you can contact: <o:p></o:p></span
 
 
 
+</div>
+  </div>
+
+<div id="navigCol" class="col">
+  <div id="navigCol-content">
 
 
-		</div>
-	</div>
+<!-- subnavbox -->
+    <div id="subnav-box" class="clearfix">
+      <div id="search-box">
+        <!-- // Search Form//-->
+        <form id="searchForm" action="http://www.editorsweblog.org/special.php" method="get">
+          <input type="hidden" name="IncludeBlogs" value="1">
+          <input type="hidden" name="order" value="date">
+          <div class="inline-fields"><input type="text" name="query" class="text-field" id="query" value="Search" onclick="this.value=''"><input class="submit-field" value="OK" name="" id="" type="submit"></div>
+        </form>
+      </div>
 
-        <div id="navigCol" class="col">
-<!--
-		SQUARE 200*200
--->
-
-	<div id="banner200x200">
-		<a href="http://www.wanindia2009.com/articles.asp?ID=114"><img src="http://www.editorsweblog.org/pub/banner_weblog_india.gif" width="200"></a>
-	</div>
-<!-- 
-		WORLD ASSOCIATION OF NEWSPAPERS
--->
-
-	<div id="sticker-worldAssoc" class="sticker">
-		<h3><span>WORLD ASSOCIATION OF NEWSPAPERS</span></h3>
-                  <ul><li><a href="http://www.wan-press.org" title="WAN Homepage">WAN Homepage</a></li>
-<li><a href="http://www.wan-press.org/wef/articles.php?id=2" title="World Editors Forum"> World Editors Forum</a></li>
-<li><a href="http://www.wangoteborg2008.com/en/Conference/EditorsForum/" title="World Newspaper Congress">World Newspaper Congress</a></li>
-<li><a href="http://www.sfnblog.com/" title="Shaping the Future of the Newspaper">Shaping the Future of the Newspaper</a></li>
-<li><a href="http://www.trends-in-newsrooms.org" title="Trends in Newsrooms">Trends in Newsrooms</a></li>
-</ul>
-	</div>
-
-
-<!--
-		Tags CLOUD
--->
-
-	<div id="sticker-tagCloud" class="sticker">
-	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=advertising" rel="tag">advertising</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Associated Press" rel="tag">Associated Press</a> <span class="hide">|</span>
-   	
-		<a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=circulation" rel="tag">circulation</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=citizen journalism" rel="tag">citizen journalism</a> <span class="hide">|</span>
-   	
-		<a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=editorial quality" rel="tag">editorial quality</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=ethics" rel="tag">ethics</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Europe" rel="tag">Europe</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=free newspapers" rel="tag">free newspapers</a> <span class="hide">|</span>
-   	
-		<a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=Google" rel="tag">Google</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=integration" rel="tag">integration</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=multimedia" rel="tag">multimedia</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=new york times" rel="tag">new york times</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=newsroom management" rel="tag">newsroom management</a> <span class="hide">|</span>
-   	
-		<a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=press freedom" rel="tag">press freedom</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=readership" rel="tag">readership</a> <span class="hide">|</span>
-   	
-		<a class="tags level1" href="http://www.editorsweblog.org/special.php?tag=redesign" rel="tag">redesign</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=social networks" rel="tag">social networks</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=user-generated content" rel="tag">user-generated content</a> <span class="hide">|</span>
-   	
-		<a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=video" rel="tag">video</a> <span class="hide">|</span>
-   	
-		<a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Washington Post" rel="tag">Washington Post</a> <span class="hide">|</span>
-   	
-	<p class="readmorelink"><a href="http://www.editorsweblog.org//full_tags.html" title="More tags">More tags</a></p>
-	</div>
-
-
-<!-- 
-		CATEGORIES
--->
-
-	
-	<div id="sticker-categories" class="sticker">
-		<h3 class="single"><span>CATEGORIES</span></h3>
-		<ul>
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/analysis.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="Analysis Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=Analysis&amp;offset=0">Analysis</a>
-				</li>
-	        
-		
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/multimedia.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="Multimedia Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=Multimedia&amp;offset=0">Multimedia</a>
-				</li>
-	        
-		
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/newspaper.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="Newspaper Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=Newspaper&amp;offset=0">Newspaper</a>
-				</li>
-	        
-		
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/newsrooms-and-journalism.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="Newsrooms and Journalism Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=Newsrooms and Journalism&amp;offset=0">Newsrooms and Journalism</a>
-				</li>
-	        
-		
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/web-20.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="Web 2.0 Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=Web 2.0&amp;offset=0">Web 2.0</a>
-				</li>
-	        
-		
-        
-    
-       
-			
-				<li class="widget-list-item">
-				<a href="http://www.editorsweblog.org/world-newspaper-congress.xml">
-					<img src="http://www.editorsweblog.org//layout/img/feed.gif" alt="World Newspaper Congress Category RSS feed">
-				</a>
-				<a href="http://www.editorsweblog.org/special.php?cat_archives=World Newspaper Congress&amp;offset=0">World Newspaper Congress</a>
-				</li>
-	        
-		
-        
-        </ul>
+      <div id="newsletter-box">
+        <div class="title">Subscribe to the Editors Weblog Newsletter</div>
+        <!-- // Newsletter Form//-->
+        <!-- OUVERTURE DE FORM POUR SERVEUR SUR PORT 80 -->
+        <form id="newsletterForm" action="http://www.editorsweblog.org/special.php" method="post">
+        <input type="hidden" id="nl_step" name="nl_step" value="0">
+        <input type="hidden" id="blog_id" name="blog_id" value="1">
+        <input type="hidden" id="redirect_url" name="redirect_url" value="http://www.editorsweblog.org/">
+        <input type="text" name="email" class="text-field" id="email" value="Enter your email adress" onfocus="if(this.value=='Enter your email adress'){this.value=''}" onblur="if(this.value==''){this.value='Enter your email adress'}"><input class="submit-field" value="OK" name="submit" id="" type="submit"></form>
+      </div>
     </div>
-   
-				
-
-<!--
-		MONTHLY ARCHIVES
--->
-
-    
-        
-			
-			<div id="sticker-archives" class="sticker">
-				<h3 class="single"><span>MONTHLY ARCHIVES</span></h3>
-				<ul>
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/12/">December 2008 <!-- (160) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/11/">November 2008 <!-- (244) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/10/">October 2008 <!-- (226) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/09/">September 2008 <!-- (207) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/08/">August 2008 <!-- (174) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/07/">July 2008 <!-- (233) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/06/">June 2008 <!-- (224) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/05/">May 2008 <!-- (157) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/04/">April 2008 <!-- (184) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/03/">March 2008 <!-- (199) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/02/">February 2008 <!-- (156) --></a></li>
-			
-            
-        
-			
-			
-			<li class="widget-list-item"><a href="http://www.editorsweblog.org/2008/01/">January 2008 <!-- (156) --></a></li>
-			
-            
-	            </ul>
-				<p class="readmorelink"><a href="http://www.editorsweblog.org//full_archives.html" title="More Archives">More archives</a></p>
-				</div>
-            
-        
-    
+<!-- END subnavbox -->
 
 
+<!-- banner250x250 test -->
+      <div id="banner250x250" class="ad-block">
+        <div class="ad-block-inner">
+<a href="http://www.editorsweblog.org/webinars.html" target="_blank"><img src="http://www.editorsweblog.org/pub/June-series-ad.gif"></a>
 
-<!--
-		BLOGROLL
--->
+        </div>
+      </div>
 
-	<div id="sticker-sources" class="sticker">
-		<h3 class="single"><span>SOURCES</span></h3>
-		<ul>
-		
-	        <li><a href="http://www.themediamanager.com/" rel="external">The Media Manager</a></li>
-		
-	        <li><a href="http://www.journerdism.com/" rel="external">Journerdism</a></li>
-		
-	        <li><a href="http://www.ojr.org/" rel="external">Online Journalism Review</a></li>
-		
-	        <li><a href="http://www.latimes.com" rel="external">Los Angeles Times</a></li>
-		
-	        <li><a href="http://www.tarifmedia.com/" rel="external">tarifmedia.com</a></li>
-		
-	        <li><a href="http://www.poynter.org/column.asp?id=31" rel="external">Poynter Online: E-Media Tidbits  </a></li>
-		
-	        <li><a href="http://www.mediabistro.com/" rel="external">MediaBistro.com</a></li>
-		
-	        <li><a href="http://www.ifra.com/website/website.nsf/html/CONT_PUB_EXECNEWS?OpenDocument&amp;PBNLEN&amp;" rel="external">IFRA Executive News Service</a></li>
-		
-	        <li><a href="http://www.iwantmedia.com/" rel="external">I Want Media</a></li>
-		
-	        <li><a href="http://www.paidcontent.org/" rel="external">paidContent.org</a></li>
-		
-	        <li><a href="http://www.ijnet.org/" rel="external">IJnet</a></li>
-		
-	        <li><a href="http://www.followthemedia.com/" rel="external">followthemedia.com</a></li>
-		
-	        <li><a href="http://www.brandrepublic.com/" rel="external">BrandRepublic.com</a></li>
-		
-	        <li><a href="http://www.wan-press.org/rubrique281.html" rel="external">SFN Publicitas Promotion Network</a></li>
-		
-	        <li><a href="http://www.digitalmediaasia.com/default.asp" rel="external">Digital Media Asia</a></li>
-		
-	        <li><a href="http://www.monitor.bbc.co.uk/wmreports.shtml" rel="external">BBC Monitoring</a></li>
-		
-	        <li><a href="http://www.biz-community.com/Articles/196/90.html" rel="external">BizCommunity</a></li>
-		
-	        <li><a href="http://www.asiamedia.ucla.edu/" rel="external">AsiaMedia</a></li>
-		
-	        <li><a href="http://www.bloomberg.com/index.html?Intro=intro3" rel="external">Bloomberg</a></li>
-		
-	        <li><a href="http://www.theaustralian.news.com.au/index/0,,7582,00.html" rel="external">The Australian – Media</a></li>
-		
-		</ul>
-		<p class="readmorelink"><a href="http://www.editorsweblog.org//full_blogrolls.html" title="More Sources">more sources</a></p>
-	</div>
+<!-- Twitter feed -->
+           <div class="sticker">
+        <div class="title"><h3><span>Editors Weblog Twitter Feed</span></h3></div>
+        <div class="content">
 
-
+<div id="twitter_div">
+<h2 style="display: none;">Twitter Updates</h2>
+<ul id="twitter_update_list"></ul>
+<a href="http://twitter.com/NewspaperWorld" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+</div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/NewspaperWorld.json?callback=twitterCallback2&amp;count=5"></script>
 
 </div>
+<!-- last headlines -->
+      <div id="sticker-lastposts" class="sticker">
+        <div class="title"><h3><span>Latest News</span></h3></div>
+        <div class="content">
+          <ul>
 
-        <div id="extraCol" class="col">
-	<div class="content">
+            <li><a href="http://www.editorsweblog.org/newspaper/2009/06/wan_ifra_merge_into_single_world-wide_ne.php" title="WAN, IFRA 'Merge' Into Single World-Wide News Publishing Organisation">WAN, IFRA 'Merge' Into Single World-Wide News Publishing Organisation</a></li>
 
-<!--
-	JOBTHREAD
---><!--
-	<div id="sticker-Jobs" class="sticker">
-        <h3 class="single"><span>JOBS Classifieds adds</span></h3>
-				<ul>
-                                <li><a href="#" title="Home">Home Home Home Home Home Home </a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="About">About</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="Gallery">Gallery</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="Contact">Contact</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="Home">Home Home Home Home Home Home </a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="About">About</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="Gallery">Gallery</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-					<li><a href="#" title="Contact">Contact</a><br/>
-				 <span class="description">JWT<br/>				 New York, NY - Oct 26, 2007</span></li>
-				</ul>
-				<p class="morejobs clearfix"><a class="fleft" href="#" title="More headlines">POST A JOB</a><a class="fright" href="#" title="More headlines">More jobs</a></p>
-			</div>
--->
-<!--
-		banner250x250
--->
-			
-			<div id="banner250x250">
-				
-				<a href="http://www.nstein.com/en/index.php?promo=editorsweblog"><img src="http://www.editorsweblog.org/pub/Nstein250.gif"></a>
-			</div>
-<!--
-		ADS BLOCK
--->		
-			
-			<div id="bannerWrapper" class="clearfix">
-				<div class="fleft">
-					<!--
-					SKYCRAPPER
-					-->	
-					<center><a href="http://www.wan-press.org/rubrique147.html"><img src="/pub/banner160bookstore08.gif" width="120"></a></center>
-					<!--
-					2  125x125
-					-->
-					
-					<img src="/pub/whitespace.jpg" width="125">
-					
-					<img src="/pub/whitespace.jpg" width="125">
-					
-				</div>
-				<div class="fright">
-					<!--
-					7  125x125
-					-->
-					
-					<a href="http://www.simi.dk/leaders/"><img src="/pub/banner200leaders.gif" width="125"></a>
-					
-					<a href="http://www.rap21.org/rubrique163.html"><img src="http://www.editorsweblog.org/pub/rap21_weblog.jpg" width="125"></a>
-					
-					<a href="http://www.arabpressnetwork.org/"><img src="http://www.editorsweblog.org/pub/logo_apn.jpg" width="125"></a>
-					
-					<a href="http://www.wanindia2009.com/articles.asp?ID=114"><img src="http://www.editorsweblog.org/pub/banner_weblog_india.gif" width="125"></a>
-					
-					<a href="http://www.wan-press.org/wef/articles.php?id=68"><img src="/pub/banner200wef.gif" width="125"></a>
-					
+            <li><a href="http://www.editorsweblog.org/newspaper/2009/06/us_the_media_audit_report_ranks_newspape.php" title="US: <b>The Media Audit</b> report ranks newspapers and websites by reach">US: <b>The Media Audit</b> report ranks newspapers and websites by reach</a></li>
 
-				</div>				
-			</div>
+            <li><a href="http://www.editorsweblog.org/web_20/2009/06/microsoft_ceo_traditional_media_will_nev.php" title="<b>Microsoft</b> CEO: traditional media will never completely recover"><b>Microsoft</b> CEO: traditional media will never completely recover</a></li>
+
+            <li><a href="http://www.editorsweblog.org/multimedia/2009/06/dow_jones_and_sbih_formalise_joint_ventu.php" title=" <b>Dow Jones</b> and <b>SBIH</b> formalise joint venture for a Japanese language news site "> <b>Dow Jones</b> and <b>SBIH</b> formalise joint venture for a Japanese language news site </a></li>
+
+            <li><a href="http://www.editorsweblog.org/newsrooms_and_journalism/2009/06/outsidein_for_publishers_hyperlocal_aggr.php" title="<b>Outside.in for Publishers</b>: hyperlocal aggregating website seeks publishers"><b>Outside.in for Publishers</b>: hyperlocal aggregating website seeks publishers</a></li>
+
+          </ul>
+          <p class="readmorelink"><a href="http://www.editorsweblog.org/" title="More Headlines">More News</a></p>
+        </div>
+      </div>
+
+<!-- ADS BLOCK -->		
+      <div id="bannerWrapper" class="clearfix ad-block">
+        <div class="ad-block-inner">
+	  <div class="fleft">
+<!-- SKYCRAPPER -->	
+<center><a href="http://www.wan-press.org/rubrique147.html" target="_blank"><img src="/pub/banner160bookstore08.gif" width="120"></a></center>
+<!-- 2  125x125 -->
+
+<a href="http://www.blogs.com" target="_blank"><img src="http://www.editorsweblog.org/best%20of%20the%20blogs.jpg" width="125"></a>
+
+<img src="/pub/whitespace.jpg" width="125">
+
+          </div>
+          <div class="fright">
+<!-- 7  125x125 -->
+
+<a href="/golinks.php?link=www.nytsyn.com" target="_blank"><img src="http://www.editorsweblog.org/pub/NYT-Syndicate-button-ad.jpg" width="125"></a>
+
+<a href="http://www.simi.dk/Industries/MediaAndNewspaper/Leaders" target="_blank"><img src="/pub/banner200leaders.gif" width="125"></a>
+
+<a href="http://www.rap21.org/rubrique163.html"><img src="http://www.editorsweblog.org/pub/rap21_weblog.jpg" width="125"></a>
+
+<a href="http://www.wan-press.org/nie/home.php" target="_blank"><img src="http://www.editorsweblog.org/pub/World-Young-Readers-Prize-deadline.jpg" width="125"></a>
+
+<a href="http://www.arabpressnetwork.org/" target="_blank"><img src="http://www.editorsweblog.org/pub/logo_apn.jpg" width="125"></a>
+
+<a href="http://www.junioroom.cz/en/index.html" target="_blank"><img src="http://www.editorsweblog.org/pub/junioroom-ad.jpg" width="125"></a>
+
+<a href="http://www.wan-press.org/wef/articles.php?id=68" target="_blank"><img src="/pub/banner200wef.gif" width="125"></a>
+
+          </div>
+        </div>				
+      </div>
+<!-- SQUARE 200*200 -->
+      <div id="banner200x200" class="ad-block">
+        <div class="ad-block-inner">
+<a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank"><img src="http://www.editorsweblog.org/pub/SFN%20US%20study%20tour%2006-09.jpg" <="" a="">
+        </a></div><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank">
+      </a></div><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank">
+
+<!-- last analysis -->
+      </a><div id="sticker-lastposts" class="sticker"><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank">
+        <div class="title"><h3><span>Analysis</span></h3></div>
+        </a><div class="content"><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank">
+          </a><ul><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank">
+
+            </a><li><a href="http://www.wan-press.org/ustour2009/programme.php" target="_blank"></a><a href="http://www.editorsweblog.org/analysis/2009/06/iran_when_journalists_cant_be_heard_how.php" title="Iran: When journalists can't be heard, how successful can citizen journalism be at providing back-up?">Iran: When journalists can't be heard, how successful can citizen journalism be at providing back-up?</a></li>
+
+            <li><a href="http://www.editorsweblog.org/analysis/2009/06/search_engine_optimisation.php" title="<b>Search engine optimisation:</b> teaching journalists to write for the web"><b>Search engine optimisation:</b> teaching journalists to write for the web</a></li>
+
+            <li><a href="http://www.editorsweblog.org/analysis/2009/06/trueslant_giving_a_voice_to_journalists.php" title="<b>True/Slant:</b> giving a voice to journalists, readers and advertisers"><b>True/Slant:</b> giving a voice to journalists, readers and advertisers</a></li>
+
+            <li><a href="http://www.editorsweblog.org/analysis/2009/06/iphone_3gs_advantages_for_newspapers_adv.php" title="<b>iPhone 3GS:</b> advantages for newspapers, advertisers, and citizen journalists"><b>iPhone 3GS:</b> advantages for newspapers, advertisers, and citizen journalists</a></li>
+
+            <li><a href="http://www.editorsweblog.org/analysis/2009/06/charging_online_readers_not_if_but_how.php" title="Charging online readers: not if, but how?">Charging online readers: not if, but how?</a></li>
+
+          </ul>
+          <p class="readmorelink"><a href="http://www.editorsweblog.org/special.php?cat_archives=Analysis&amp;offset=0" title="More Analysis">More Analysis</a></p>
+        </div>
+      </div>
+
+<!-- WORLD ASSOCIATION OF NEWSPAPERS -->
+      <div id="sticker-worldAssoc" class="sticker">
+        <div class="title"><h3><span>Shaping the Future of the Newspaper Blog</span></h3></div>
+        <div class="content">
+          <ul>
+
+            <li><a href="http://www.sfnblog.com/launches_and_closures/2009/06/wan_ifra_merge_into_single_worldwide_new.php" title="WAN, IFRA merge into single worldwide news publishing organisation">WAN, IFRA merge into single worldwide news publishing organisation</a></li>
+
+            <li><a href="http://www.sfnblog.com/circulation_and_readership/2009/06/online-only_article_outrages_readers.php" title="Online-only article angers print subscribers">Online-only article angers print subscribers</a></li>
+
+            <li><a href="http://www.sfnblog.com/circulation_and_readership/2009/06/usa_today_qforma_collaborate_on_doctor_d.php" title="USA Today, Qforma collaborate on doctor database">USA Today, Qforma collaborate on doctor database</a></li>
+
+            <li><a href="http://www.sfnblog.com/financials/2009/06/asian_media_mogul_sees_bumpy_future_for.php" title="Asian Media mogul sees bumpy future for newspaper industry">Asian Media mogul sees bumpy future for newspaper industry</a></li>
+
+            <li><a href="http://www.sfnblog.com/circulation_and_readership/2009/06/dutch_free_daily_launches_regional_editi.php" title="Dutch free daily launches regional editions">Dutch free daily launches regional editions</a></li>
+
+          </ul>
+        </div>
+      </div>
+
+ <!-- Tags CLOUD -->
+      <div id="sticker-tagCloud" class="sticker">
+        <div class="content">
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=advertising" rel="tag">advertising</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Associated Press" rel="tag">Associated Press</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=BBC" rel="tag">BBC</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=business models" rel="tag">business models</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=circulation" rel="tag">circulation</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=citizen journalism" rel="tag">citizen journalism</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=cutbacks" rel="tag">cutbacks</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=e-paper" rel="tag">e-paper</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=editorial direction" rel="tag">editorial direction</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=editorial quality" rel="tag">editorial quality</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=ethics" rel="tag">ethics</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=Europe" rel="tag">Europe</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=Facebook" rel="tag">Facebook</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=Financial Times" rel="tag">Financial Times</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=free newspapers" rel="tag">free newspapers</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=Google" rel="tag">Google</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Guardian" rel="tag">Guardian</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=hyperlocal" rel="tag">hyperlocal</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=innovation" rel="tag">innovation</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=integration" rel="tag">integration</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=investigative journalism" rel="tag">investigative journalism</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=job cuts" rel="tag">job cuts</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=launch" rel="tag">launch</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=mobile technology" rel="tag">mobile technology</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=multimedia" rel="tag">multimedia</a> <span class="hide">|</span>
+
+          <a class="tags level1" href="http://www.editorsweblog.org/special.php?tag=New York Times" rel="tag">New York Times</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=newsroom management" rel="tag">newsroom management</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=online-only" rel="tag">online-only</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=paid online content" rel="tag">paid online content</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=press freedom" rel="tag">press freedom</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=readership" rel="tag">readership</a> <span class="hide">|</span>
+
+          <a class="tags level2" href="http://www.editorsweblog.org/special.php?tag=redesign" rel="tag">redesign</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=social networks" rel="tag">social networks</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=staff changes" rel="tag">staff changes</a> <span class="hide">|</span>
+
+          <a class="tags level4" href="http://www.editorsweblog.org/special.php?tag=Tribune" rel="tag">Tribune</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Twitter" rel="tag">Twitter</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=user-generated content" rel="tag">user-generated content</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=video" rel="tag">video</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Wall Street Journal" rel="tag">Wall Street Journal</a> <span class="hide">|</span>
+
+          <a class="tags level3" href="http://www.editorsweblog.org/special.php?tag=Washington Post" rel="tag">Washington Post</a> <span class="hide">|</span>
+
+          <p class="readmorelink"><a href="http://www.editorsweblog.org//full_tags.html" title="More tags">More tags</a></p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- END sidebar -->
 
 
+  <div id="footer" class="clearfix">
+    <div id="footerLinks">
+      <ul class="inline clearfix">
+        <li><a title="About us" href="/about-us.html">About us</a></li>
+        <li><a title="Contact us" href="/contact-us.html">Contact us</a></li>
+        <li><a id="activities menu" title="World Newspaper Congress" href="/advertise.html">Advertise</a></li>
+        <li><a title="SFN Blog" href="http://www.sfnblog.com" rel="external">SFN Blog</a></li>
+        <li><a title="World Editors Forum" href="http://www.wan-press.org/wef/articles.php?id=2" rel="external">World Editors Forum</a></li>
+        <li><a title="World Association of Newspapers" href="http://www.wan-press.org" rel="external">World Association of Newspapers</a></li>
+        <li class="last"><a title="World Newspaper Congress" href="http://www.wanindia2009.com/home.asp" rel="external">World Newspaper Congress</a></li>
+      </ul>
+    </div>
 
-	</div>
+    <div id="showmenu" style="display:none;">
+      <ul class="clearfix">
+        <li><a title="Annual Report" href="http://www.trends-in-newsrooms.org/" rel="external">Annual Report</a></li>
+        <li><a title="Annual Survey" href="http://www.wan-press.org/wef/articles.php?id=26" rel="external">Annual Survey</a></li>
+        <li><a title="Study Tours" href="http://www.wan-press.org/wef/studytours.php" rel="external">Study Tours</a></li>
+        <li><a title="Master Classes" href="http://www.wan-press.org/wef/masterclasses.php" rel="external">Master Classes </a></li>
+        <li><a title="Partnership Program" href="http://www.wan-press.org/wef/partners.php" rel="external">Partnership Program</a></li>
+      </ul>
+      <p><a class="closelink" href="#">Close</a></p>
+    </div>
+
+    <div id="legalLinks">
+      <ul class="inline clearfix">
+        <li class="first"><span>© World Editors Forum. All rights reserved</span></li>
+        <li class="fright last"><a title="Privacy Policy" href="/privacypolicy.html">Privacy Policy</a></li>
+        <li class="fright"><a title="Terms of Use" href="/termsofuse.html">Terms of Use</a></li>
+      </ul>
+    </div>
+  </div><!-- END #footer -->
 </div>
 
 
 
-	<!--//end #extraCol//-->
-	<div id="footer">
-		<div id="footerLinks">
-			<ul class="inline clearfix">
-				 <li><a title="About us" href="/about-us.html">About us</a></li>
-				 <li><a title="Contact us" href="/contact-us.html">Contact us</a></li>
-				 <li><a id="activities menu" title="World Newspaper Congress" href="/advertise.html">Advertise</a></li>
-				 <li><a title="SFN Blog" href="http://www.sfnblog.com" rel="external">SFN Blog</a></li>
-				 <li><a title="World Editors Forum" href="http://www.wan-press.org/wef/articles.php?id=2" rel="external">World Editors Forum</a></li>
-				 <li><a title="World Association of Newspapers" href="http://www.wan-press.org" rel="external">World Association of Newspapers</a></li>
-				 <li class="last"><a title="World Newspaper Congress" href="http://www.wangoteborg2008.com/en/Conference/EditorsForum/" rel="external">World Newspaper Congress</a><a href="http://www.laurent-aronica.lu"><img src="/layout/img/pixel.gif" alt="creation de site freelance web"></a></li>
-			</ul>
-		</div>
-		
-		<div id="showmenu" style="display:none;">
-			<ul class="clearfix">
-				 <li><a title="Annual Report" href="http://www.trends-in-newsrooms.org/" rel="external">Annual Report</a></li>
-				 <li><a title="Annual Survey" href="http://www.wan-press.org/wef/articles.php?id=26" rel="external">Annual Survey</a></li>
-				 <li><a title="Study Tours" href="http://www.wan-press.org/wef/studytours.php" rel="external">Study Tours</a></li>
-				 <li><a title="Master Classes" href="http://www.wan-press.org/wef/masterclasses.php" rel="external">Master Classes </a></li>
-				 <li><a title="Partnership Program" href="http://www.wan-press.org/wef/partners.php" rel="external">Partnership Program</a></li>
-			</ul>
-			<p><a class="closelink" href="#">Close</a></p>
-		</div>
 
-		<div id="legalLinks">
-			<ul class="inline clearfix">
-				 <li class="first"><span>© World Editors Forum. All rights reserved</span></li>
-				 <li class="fright last"><a title="Privacy Policy" href="/privacypolicy.html">Privacy Policy</a></li>
-				 <li class="fright"><a title="Terms of Use" href="/termsofuse.html">Terms of Use</a></li>
-			</ul>
-		</div>
-	</div>
-	<!--//end #footer//-->
-</div>
-<script language="JavaScript1.1">
+<script type="text/javascript">
 <!--
-hsh = new Date();
-hsd = document;
-hsr = hsd.referrer.replace(/[<>]/g, '');
-hsi = '<img width="39" height="25" alt=""  border=0 ';
-hsi += 'src="http://logv24.xiti.com/hit.xiti?s=147215';
-hsi += '&p=';
-hsi += '&hl=' + hsh.getHours() + 'x' + hsh.getMinutes() + 'x' + hsh.getSeconds();
+Xt_param = 's=350727&s2=&di=&p=';
+if (window.xtparam!=null){Xt_param+=xtparam;}
+try {Xt_r = top.document.referrer;}
+catch(e) {Xt_r = document.referrer; }
+Xt_h = new Date();
+Xt_i = '<img width="1" height="1" alt=""
+src="http://logi7.xiti.com/hit.xiti?'+Xt_param;
+Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
 if(parseFloat(navigator.appVersion)>=4)
-{Xiti_s=screen;hsi += '&r=' + Xiti_s.width + 'x' + Xiti_s.height + 'x' + Xiti_s.pixelDepth + 'x' + Xiti_s.colorDepth;}
-hsd.writeln(hsi + '&ref=' + hsr.replace(/&/g, '$') + '" title="Mesurez votre audience">');
-
- -->
-
-</script><img width="39" height="25" alt="" border="0" src="http://logv24.xiti.com/hit.xiti?s=147215&amp;p=&amp;hl=23x21x9&amp;r=800x600x24x24&amp;ref=" title="Mesurez votre audience">
-
+{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+
+Xt_s.colorDepth;}
+document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'"
+');
+//-->
+</script>
 <noscript>
-Mesure d'audience ROI frequentation par <img width="39" height="25" border=0 src="http://logv24.xiti.com/hit.xiti?s=147215&p=&" title="Mesurez votre audience" alt="" />
-</noscript> 
-
+<img width="1" height="1" alt=""
+src="http://logi7.xiti.com/hit.xiti?s=350727&amp;s2=&amp;p=&amp;di=">
+</noscript>
 
 <!-- Start of StatCounter Code -->
 <script type="text/javascript">
@@ -718,5 +666,4 @@ urchinTracker();
 <!-- End of Google Analytics -->
 
 
-
-</div></body></html>
+</body></html>
