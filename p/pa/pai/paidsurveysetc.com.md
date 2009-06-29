@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217054652id_/http%3A//www.paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629230646id_/http%3A//www.paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome To Paidsurveys
 
@@ -93,5 +93,5 @@ Last updated:
 
 April 07, 2008 
 
-Copyright © 2003- 2020 InternetMarketingLawProducts.com  for **Cyber Junky, Inc.**  
+Copyright © 2003- 2020 InternetMarketingLawProducts.com  
 
