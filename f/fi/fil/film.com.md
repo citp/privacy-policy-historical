@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021650id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629191159id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., and Affiliated Entities Privacy Policy
 
@@ -68,7 +68,7 @@ E-MAIL FROM REALNETWORKS
 Registering for a product or service allows you to tell us how or whether you want RealNetworks to communicate with you. Generally, we send e-mail to you about our products, content and special offers. Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails. During registration, you may opt out of receiving RealNetworks marketing e-mails and/or newsletters for the relevant product or service. Additionally, your online RealNetworks account, accessed through the "My Account" link on [www.real.com](http://www.real.com/), and through other links provided in emails and on RealNetworks Web pages, enables you to select whether you wish to receive newsletters, marketing and promotional emails, special offers and the like from various RealNetworks' business lines. However, we may continue to send you e-mail about products or services you have previously purchased (such as an available upgrade that you are entitled to receive), your account status or other information concerning functions, features and status of your RealNetworks products and services, or to inform you about critical technical service issues relating to a RealNetworks product or service.
 
 HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION  
-To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealTime, RealArcade, Rhapsody or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
+To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealArcade, Rhapsody or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
 You may also review and update your account on the web at [www.real.com](http://www.real.com/) or [www.rhapsody.com](http://www.rhapsody.com/), by selecting "My Account," and logging in using your name and password. 
 
