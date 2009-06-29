@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mybuilder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160525id_/http%3A//www.mybuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuilder.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629035823id_/http%3A//www.mybuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # MyBuilder Privacy Policy
 
 ## Privacy Policy and Data Protection
 
-At MyBuilder (The Buildersite Ltd), we recognise and respect the importance of protecting the privacy of visitors to our website 'www.mybuilder.com'. 
+At MyBuilder Limited, we recognise and respect the importance of protecting the privacy of visitors to our website 'www.mybuilder.com'.
 
 ### Data Protection and Personal Information
 
 We need to collect certain personal details when you register or post a job with us, in order to facilitate the services available through our website. These may include your name, address, telephone number, email address and other basic information, and in the case of trade registrations, we will also collect relevant business details, as well as references names and contact phone numbers. 
 
-All this information will be held by MyBuilder (The Buildersite Ltd) using the appropriate safeguards to ensure the highest possible levels of security, integrity and privacy. 
+All this information will be held by MyBuilder using the appropriate safeguards to ensure the highest possible levels of security, integrity and privacy. 
 
 By registering your details on the website, you consent to us contacting you via email, telephone or post, with relevant information pertaining to the services on our website. We will not share, trade or sell your information to any company or parties not directly associated with its proper use within the website. 
 
@@ -22,7 +22,7 @@ We reserve the right to collect technical data about the type of browser softwar
 
 We may also place a 'cookie' on your hard drive to make help us identify you when you return to the site so that your preferences can be stored and will only be used for these purposes. You can remove 'cookies' from your computer at any time, and choose to disable 'cookies' in your internet browser settings. 
 
-### Exchange of contact details
+### \- Contact details
 
 Contact details are exchanged only if both parties want them to be. If a Trade Professional has expressed interest in a job, a User can click a link on the job summary page to get their details. If a quote is accepted, contact details will automatically be exchanged. We do not publicly display any contact details or other sensitive information on our site. All communication takes place securely through the "My Jobs" section of the site. 
 
