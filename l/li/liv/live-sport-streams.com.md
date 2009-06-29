@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-sport-streams.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218150908id_/http%3A//www.live-sport-streams.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-sport-streams.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629161917id_/http%3A//live-sport-streams.com/privacy.php) for the most accurate reproduction.*
 
 # Watch Live Sports Streams Online | NHL, NBA, NBL, NHL, Football
 
