@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012215id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629222045id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -47,4 +47,4 @@ If you enjoy the free information available on this site, you're sure to appreci
 
 **Note:** You can easily unsubscribe at any time with no hassle -- just click the cancellation link at the bottom of any issue. Your email address will be kept confidential and won't be shared. If you use spam-blocker on your email account, be sure to add the email address _pdinewsletter at stevepavlina.com_ to your whitelist, so the newsletter is allowed through. 
 
-Copyright © 2008 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
+Copyright © 2009 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
