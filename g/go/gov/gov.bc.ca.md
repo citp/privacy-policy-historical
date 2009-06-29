@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221172658id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629025755id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Province of British Columbia
 
-## Privacy Statement 
+## Privacy Statement
 
 **Introduction**
 
-The Government of British Columbia is committed to protecting the privacy of people whose personal information is held by government through responsible information management practices. Any personal information provided to the Government of B.C. is collected, used and disclosed in accordance with the [Freedom of Information and Protection of Privacy Act](http://www.qp.gov.bc.ca/statreg/stat/F/96165_01.htm) or other applicable legislation.
+The Government of British Columbia is committed to protecting the privacy of people whose personal information is held by government through responsible information management practices. Any personal information provided to the Government of B.C. is collected, used and disclosed in accordance with the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00) or other applicable legislation.
 
 **What is Personal Information?**
 
@@ -33,11 +33,11 @@ Information collected automatically is used for purposes such as assessing syste
 
 **Information Collected Directly From You**
 
-Personal information collected, used, disclosed and retained by a B.C.government website is done so under the authority of the [Freedom of Information and Protection of Privacy Act](http://www.qp.gov.bc.ca/statreg/stat/F/96165_01.htm) or other relevant legislation. Personal information will only be used by authorized staff to fulfill the purpose for which it was originally collected, or for a use consistent with that purpose unless you expressly consent otherwise. We do not disclose your information to other public bodies or individuals except as authorized by the FOIPP Act.
+Personal information collected, used, disclosed and retained by a B.C.government website is done so under the authority of the [Freedom of Information and Protection of Privacy Act](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00) or other relevant legislation. Personal information will only be used by authorized staff to fulfill the purpose for which it was originally collected, or for a use consistent with that purpose unless you expressly consent otherwise. We do not disclose your information to other public bodies or individuals except as authorized by the FOIPP Act.
 
 The B.C. Government does not collect personal information about you unless you voluntarily provide it to use specific online services. However, if you choose not to provide the information required for online services you may still be able to access government services by traditional methods such as personal contact, fax or mail. Your decision not to participate in electronic service delivery activities will not impair your ability to browse the web site, read or download any information provided on the site.
 
-If you believe that your personal information is being used for a purpose other than what was intended please direct your inquiries to the following [contacts](http://www.cio.gov.bc.ca/services/privacy/Public_Sector/contacts/default.asp).
+If you believe that your personal information is being used for a purpose other than what was intended please direct your inquiries to the following [contacts](http://www.cio.gov.bc.ca/services/privacy/Public_Sector/contacts/dmip_list.asp).
 
 **What safeguards are in place?**
 
@@ -49,7 +49,7 @@ The length of retention will vary in relation to the nature of the service. If t
 
 **How can I access and correct information I submit to a web site?**
 
-You can review any personal information collected about you by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Corporate Privacy and Information Access Branch may be contacted for general information.
+You can review any personal information collected about you by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Knowledge and Information Services Branch may be contacted for general information.
 
 **Links to other sites**
 
@@ -63,6 +63,6 @@ The Government of B.C. does not use persistent cookies (which may store personal
 
 **Who to contact for more information about this privacy policy.**
 
-Any questions regarding this privacy policy, or for general information regarding the FOIPP Act, can be directed to the [Corporate Privacy and Information Access Branch](http://www.mser.gov.bc.ca/foi_pop/contacts/CPIA.htm).
+Any questions regarding this privacy policy, or for general information regarding the FOIPP Act, can be directed to the [Knowledge and Information Services](http://www.cio.gov.bc.ca/services/privacy/Public_Sector/contacts/privacy_legislation.asp).
 
-If you have a complaint or concern about your personal information, please contact the [ministry or other government body](http://www.mser.gov.bc.ca/foi_pop/contacts/DMIP_List.htm). If your complaint is not resolved to your satisfaction the FOIPP Act provides a mechanism for independent review by contacting the [Information and Privacy Commissioner](http://www.oipcbc.org/).
+If you have a complaint or concern about your personal information, please contact the [ministry or other government body](http://www.cio.gov.bc.ca/services/privacy/Public_Sector/contacts/dmip_list.asp). If your complaint is not resolved to your satisfaction the FOIPP Act provides a mechanism for independent review by contacting the [Information and Privacy Commissioner](http://www.oipcbc.org/).
