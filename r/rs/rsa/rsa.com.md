@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221140637id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629030126id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
 
 # Web Site Privacy Policy and Consent to Use of Data RSA.COM
 
