@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219223450id_/http%3A//www.expresspros.com/us/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629112936id_/http%3A//www.expresspros.com/us/company/privacy.aspx) for the most accurate reproduction.*
 
 # Express Employment Professionals
 
@@ -55,6 +55,6 @@ Express Services Inc.
 Oklahoma City, OK 73162  
 Phone: 1-405-840-5000  
 Fax: 1-405-717-5516  
-[Email the Webmaster](https://web.archive.org/web/20081219223450id_/http%3A//www.expresspros.com/us/contact.aspx)
+[Email the Webmaster](https://web.archive.org/web/20090629112936id_/http%3A//www.expresspros.com/us/contact.aspx)
 
 We will address your concern and attempt to resolve any problem.
