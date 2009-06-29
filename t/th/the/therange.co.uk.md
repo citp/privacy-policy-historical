@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165210id_/http%3A//www.therange.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629040521id_/http%3A//www.therange.co.uk/page/privacy) for the most accurate reproduction.*
 
 # The Range
 
@@ -13,7 +13,7 @@ Cookies
 
 The Range ("we", "us", "our") takes protecting customer ("you", "yours") privacy very seriously. Our Privacy Policy is designed to explain our practices in data processing and the way in which your data is or can be used.
 
-If you have any queries concerning any aspect of your personal information on our site or any queries surrounding our data processing of information then please contact us at [customerservice@therange.co.uk](mailto:customerservice@therange.co.uk)
+If you have any queries concerning any aspect of your personal information on our site or any queries surrounding our data processing of information then please contact us at [webcustomerservice@therange.co.uk](mailto:webcustomerservice@therange.co.uk) or visit the [Customer Service Site](http://www.therangecustomerservices.co.uk/)
 
 ### Collection and Storage of Information
 
@@ -30,7 +30,7 @@ The following information may be stored or collated by us:-
   * Postage, billing and other information you provide to purchase or post an item.
   
 
-  * Dispute resolution, corrospondence through the site, corrospondence sent to us and feedback.
+  * Dispute resolution, correspondence through the site, correspondence sent to us and feedback.
   
 
   * Computer sign-on data, statistics on page views, information and statistics on advertising data, IP address, browser information and standard web log information.
@@ -97,7 +97,7 @@ We may use information to:-
 
 
 
-If you do not wish to recieve marketing communications from us, we ask that you ammend your Change of Communication section on the My Accounts page. Please note that you cannot opt out of receiving administative information that you need to know in order for us to provide you with our services.
+If you do not wish to recieve marketing communications from us, we ask that you amend your Change of Communication section on the My Accounts page. Please note that you cannot opt out of receiving administrative information that you need to know in order for us to provide you with our services.
 
 Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
 
