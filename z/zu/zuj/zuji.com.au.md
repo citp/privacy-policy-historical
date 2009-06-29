@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216033853id_/http%3A//www.zuji.com.au/site/help/corporate/privacy_policy.html%3Fskin%3Denau.zuji.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181416id_/http%3A//www.zuji.com.au/site/help/corporate/privacy_policy.html%3Fskin%3Denau.zuji.com.au) for the most accurate reproduction.*
 
 # ZUJI Australia: Your Online Travel Guru
 
