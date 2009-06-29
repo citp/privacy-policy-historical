@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2008-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081005152523id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629065129id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.*
 
-# ListMyWebsite.Net - A Free Web Directory for Web Masters and Business Owners
-
-Privacy Notice
+# Privacy Policy of Listmywebsite.net
 
 **ListMyWebsite.Net Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
@@ -19,5 +17,3 @@ This policy may be revised over time as new features are added to the website. W
 **For questions, feedback or suggestions, please contact us at[ http://www.listmywebsite.net/contact.asp](http://www.listmywebsite.net/contact.asp).**
 
 Updated on 07.11.2007
-
-Copyright © 2007 [ ListMyWebsite.Net](http://www.listmywebsite.net/ "ListMyWebsite.Net - A Free Web Directory"). All rights reserved.
