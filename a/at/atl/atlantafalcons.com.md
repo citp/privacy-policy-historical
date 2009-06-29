@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055617id_/http%3A//www.atlantafalcons.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantafalcons.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629170400id_/http%3A//www.atlantafalcons.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Atlanta Falcons | About | Privacy Policy
 
