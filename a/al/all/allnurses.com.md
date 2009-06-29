@@ -1,24 +1,27 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010004737id_/http%3A//allnurses.com/forums/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630012746id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
-# Nursing
+# allnurses: A Nursing Community for Nurses
 
-## COMMITMENT TO YOUR PRIVACY 
+## Privacy Policy
+
+Because NURSING gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
+## Commitment To Your Privacy
 
 This site is owned and operated by ALLNURSES.COM, INC.. Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    ALLNURSES.COM, INC. 
-    PO BOX 241434 APPLE VALLEY, MN 55124
 
-Or, you may contact us by [email](http://allnurses.com/forums/sendmessage.php) or via Private Message.
+ALLNURSES.COM, INC.   
+17587 GLASGOW AVE. SUITE #22 LAKEVILLE, MN 55044 USA 
 
-**Additional Information** : [Terms of Service](http://allnurses.com/forums/info.php?do=terms "Terms of Service")
+Or, you may contact us by [email](http://allnurses.com/sendmessage.php) or via Private Message.
 
-## INFORMATION THIS SITE GATHERS AND TRACKS 
+**Additional Information** : [Terms of Service](http://allnurses.com/index.php?do=terms "Terms of Service")
+
+## Information This Site Gathers And Tracks
 
 NURSING gathers two types of information about users: 
 
@@ -36,7 +39,7 @@ We offer the following free services, which require some type of voluntary submi
 
 We will offer a free electronic newsletter to users. NURSING gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration. 
 
-2\. Message boards/forums 
+2\. Message boards
 
 Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. 
 
@@ -68,7 +71,7 @@ We may place a text file called a "cookie" in the browser files of your computer
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. 
 
-## USE OF INFORMATION
+## Use Of Information
 
 NURSING uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
@@ -78,15 +81,15 @@ When we use tracking information to determine which areas of our sites users lik
 
 NURSING creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
-## SHARING OF THE INFORMATION
+## Sharing Of The Information
 
 NURSING uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
-## SECURITY 
+## Security
 
 NURSING operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
 
-## OPT-OUT POLICY
+## Opt-out Policy
 
 We give users options wherever necessary and practical. Such choices include: 
 
@@ -94,7 +97,7 @@ Opting not to register to receive our electronic newsletters.
 
 Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
-## YOUR CONSENT
+## Your Consent
 
 By using this site, you consent to the collection and use of this information by NURSING. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
@@ -148,7 +151,7 @@ This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected: 
 
-## COOKIES
+## Cookies
 
 Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
 
@@ -159,4 +162,10 @@ Our site makes use of cookies. Cookies are used for the following purposes:
   1. User targeting 
   2. Research and development 
 
+
+
+We also use third-party advertising companies which makes use of cookies. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx).
+
+  
+  
 
