@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611064233id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181439id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# - Privacy Policy
 
 This website is owned and operated by Reed Business Information Limited   
 [Reed Business Information Limited ('RBI')](http://www.travelweekly.co.uk/StaticPages/AboutUs.html)
@@ -53,7 +53,4 @@ We reserve the right to remove from our database CVs or profiles which include a
 We may use aggregated data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. 
 
 If you create a personalised account on any of our websites it will be protected by your password and may only be accessed by you.   It does not form part of our database available for searching or access by our customers. You can delete your account at any time.  
-
-
-  
 
