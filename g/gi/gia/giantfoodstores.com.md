@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151500id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/About/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629143322id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/Company/privacypolicy.cfm) for the most accurate reproduction.*
 
-# GIANT Privacy Policy
-
-### Privacy Policy 
+# GIANT® Food Stores
 
 GIANT® Food Stores, (GIANT) believes in protecting the confidentiality of customer information in accordance with our customers' wishes and applicable laws. Our reason for collecting customer information is to help us deliver greater value and improve the shopping experience of our customers. The GIANT BonusCard is our primary means of collecting such information which helps us to target benefits and services to our customers. This may include advising our customers about products, services and other opportunities. 
 
@@ -29,8 +27,6 @@ To help better understand and serve the needs of our customers, we collect Custo
   * Information recorded as a result of your interaction with any company in our corporate family related by common ownership, such as Ahold USA, Inc. and its other supermarket companies; and 
   * Information provided to us by other companies. 
 
-
-
 **How is Customer Identifiable Information used?**
 
 GIANT will not disclose to any company, person or agency Customer Identifiable Information such as customer names, home or e-mail addresses, or phone numbers, except as described below. 
@@ -42,7 +38,7 @@ GIANT may transfer Customer Identifiable Information in connection with the sale
 
 **How can I prevent my Customer Identifiable Information from being disclosed?**
 
-You have the right at any time to direct us not to disclose Customer Identifiable Information about you, or to change your preference in this regard, or to change Customer Identifiable Information that you have provided to us, by [**_contacting us_**](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm) at our website, or by calling GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268). If you direct us not to disclose such information about you, you will not be eligible for any card-based promotions that require individual data, such as continuity programs which require Customer Identifiable Information, sweepstakes, etc, but you will still be entitled to receive other benefits from the use of your GIANT BonusCard. 
+You have the right at any time to direct us not to disclose Customer Identifiable Information about you, or to change your preference in this regard, or to change Customer Identifiable Information that you have provided to us, by [**_contacting us_**](https://web.archive.org/shareddev/GIANT_comments/consumer_commentcard.cfm) at our website, or by calling GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268). If you direct us not to disclose such information about you, you will not be eligible for any card-based promotions that require individual data, such as continuity programs which require Customer Identifiable Information, sweepstakes, etc, but you will still be entitled to receive other benefits from the use of your GIANT BonusCard. 
 
 **What measures have been designed to safeguard Customer Identifiable Information?**
 
@@ -50,14 +46,13 @@ Protecting Customer Identifiable Information is an important priority for GIANT.
 
 **What happens when I visit GIANT’s website?**
 
-  
-When you connect to a GIANT website our computers do not collect Customer Identifiable Information about you unless you submit that information to us through our website during your visit. We track usage of our website and record the preferences of visitors to our website, but we do not record any Customer Identifiable Information about you through these processes.   
+When you connect to a GIANT website our computers do not collect Customer Identifiable Information about you unless you submit that information to us through our website during your visit. We track usage of our website and record the preferences of visitors to our website, but we do not record any Customer Identifiable Information about you through these processes. 
+
 The GIANT website provides links to advertisers and other providers of products and services that may be of interest to you. If you choose to visit us via the Internet or interact with the businesses linked to our website, GIANT is not responsible for that transmission or for the use of information by the linked entities. 
 
 **Will the Privacy Policy change?**
 
-GIANT may modify this Privacy Policy from time to time. Our current Privacy Policy can be viewed on our website at http://www.giantfoodstores.com/About/privacypolicy.cfm.   
-If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268),or ** _[contact us ](http://www.giantfoodstores.com/shareddev/GIANT_comments/consumer_commentcard.cfm)_**through our website.
+GIANT may modify this Privacy Policy from time to time. If you have any questions regarding this Privacy Policy or wish to change your personal Customer Information preferences, please contact GIANT Consumer Relations, toll-free at 1-888-81-GIANT (1-888-814-4268),or ** _[contact us ](https://web.archive.org/shareddev/GIANT_comments/consumer_commentcard.cfm)_**through our website.
 
   
 This Privacy Policy was last revised on March 7, 2008
