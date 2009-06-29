@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zuora.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216015832id_/http%3A//zuora.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zuora.com privacy policy that was archived on 2009-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629114759id_/http%3A//www.zuora.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,23 +9,85 @@
 	<title>On-Demand Subscription Management - Zuora Privacy Statement</title>
 	<link href="css/basic.css" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.cookie.js"></script>
+	<script src="js/jquery.getUrlParam.js"></script>
+	<script src="js/jquery.refer.js"></script>
 </head>
 <body>
 <!-- topbar layer begin -->
 <div id="topbar100"><dl id="topbar">
-		<dt id="logo" class="inline_for_ie6"><a href="index.html" title="zuora">zuora</a></dt>
+	<dt id="logo" class="inline_for_ie6"><a href="index.html" title="zuora">zuora</a></dt>
   	<dd id="topnav" class="inline_for_ie6">
-		<ul>
-			<li id="menu8"><a href="https://www.zuora.com/apps/login.do" title="Login">Login</a></li>
-		  <li id="menu7"><a href="news/index.html" title="News &amp; Press">News &amp; Press</a></li>
-		  <li id="menu6"><a href="http://blog.zuora.com" title="Z-Blog">Z-Blog</a></li>
-			<li id="menu5"><a href="company/zuora-careers.html" title="Careers">Careers</a></li>
-			<li id="menu4"><a href="customers/index.html" title="Customers">Customers</a></li>
-			<li id="menu31"><a href="products/index.html" title="Products">Products</a></li>
-		  <li id="menu2"><a href="company/index.html" title="About Zuora">About Zuora</a></li>
-		  <li id="menu1"><a href="index.html" title="Home">Home</a></li>
-	  </ul>
-	</dd>
+	<ul>
+		<li id="menu8"> <a title="Login" href="https://www.zuora.com/apps/login.do">Login</a> </li>
+		<li id="menu7">
+			<a title="News &amp; Press" href="news/index.html">News &amp; Press</a>
+			<!-- dropmenu begin -->
+			<div class="dropmenu" style="display: none;">
+				<div class="menu_top"></div>
+				<ul>
+					<li> <a title="Recent Press" href="news/index.html">Recent Press</a> </li>
+					<li> <a title="Press Releases" href="news/zuora-press-releases.html">Press Releases</a> </li>
+					<li> <a title="News Archives" href="news/zuora-news-archives.html">News Archives</a> </li>
+					<li> <a title="Media Kit" href="news/zuora-media-kit.html">Media Kit</a> </li>
+				</ul>
+				<div class="menu_bottom"></div>
+			</div>
+			<!-- dropmenu end -->
+		</li>
+		<li id="menu6"> <a title="Z-Blog" href="http://blog.zuora.com">Z-Blog</a> </li>
+		<li id="menu5"> <a title="Careers" href="company/zuora-careers.html">Careers</a> </li>
+		<li id="menu4"> <a title="Customers" href="customers/index.html">Customers</a> </li>
+		<li id="menu31">
+			<a title="Products" href="products/index.html">Products</a>
+			<!-- dropmenu begin -->
+			<div class="dropmenu" style="display: none;">
+				<div class="menu_top"></div>
+				<ul>
+					<li> <a title="Products Overview" href="products/index.html">Products Overview</a> </li>
+					<li> <a title="Z-Billing 2.0" href="products/zbilling/index.html">Z-Billing 2.0</a> </li>
+					<li> <a title="Z-Payments" href="products/zpayments/index.html">Z-Payments</a> </li>
+					<li> <a title="Z-Force" href="products/zforce/index.html">Z-Force</a> </li>
+					<li> <a title="Z-Commerce Platform" href="products/zcommerce/index.html">Z-Commerce Platform</a> </li>
+					<li> <a title="Z-Services" href="products/zuora-services.html">Z-Services</a> </li>
+					<li> <a title="Why Zuora Is Different" href="products/the-zuora-difference.html">Why Zuora Is Different</a> </li>
+					<li> <a title="Top 10 Signs You Need a Billing System" href="products/top-10-signs-you-need-a-billing-system.html">Top 10 Signs You Need a Billing System</a> </li>
+					<li> <a title="10 Common Recurring Payment Headaches" href="products/10-common-recurring-payment-headaches.html">10 Common Recurring Payment Headaches</a> </li>
+				</ul>
+				<div class="menu_bottom"></div>
+			</div>
+			<!-- dropmenu end -->
+		</li>
+		<li id="menu2">
+			<a title="About Zuora" href="company/index.html">About Zuora</a>
+			<!-- dropmenu begin -->
+			<div class="dropmenu" style="display: none;">
+				<div class="menu_top"></div>
+				<ul>
+					<li> <a title="Company Overview" href="company/index.html">Company Overview</a> </li>
+					<li> <a title="Management Team" href="company/zuora-management-team.html">Management Team</a> </li>
+					<li> <a title="Advisors and Board" href="company/zuora-advisors-and-board.html">Advisors and Board</a> </li>
+					<li> <a title="Subscription Management Glossary of Terms" href="company/subscription-management-glossary.html">Subscription Management Glossary of Terms</a> </li>
+					<li> <a title="Awards" href="company/zuora-awards.html">Awards</a> </li>
+				</ul>
+				<div class="menu_bottom"></div>
+			</div>
+			<!-- dropmenu end -->
+		</li>
+		<li id="menu1"> <a title="Home" href="index.html">Home</a> </li>
+	</ul>
+</dd>
+	<script type="text/javascript" src="js/TopbarDropmenu_static.js"></script>
+	<script type="text/javascript">
+		TopbarDropmenu_static('#topnav','li','.dropmenu');
+	</script>
+	<!--<script type="text/javascript" src="js/TopbarDropmenu.js"></script>
+		<script type="text/javascript">
+		
+			TopbarDropment('#topnav','li','http://127.0.0.1/zuorawebsite/xml/topnav_data.xml');
+		
+		</script>-->
 </dl></div>
 <!-- topbar layer end -->
 
@@ -36,10 +98,10 @@
 			<img src="images/privacy_policy.gif" alt="privacy policy">
 		</div>
 		<div class="call_pages">
-			(650)641-3777
+			(650) 641-3777
 		</div>
 		<div class="middle_title_right change_txt_home2">
-			THE ON-DEMAND LEADER FOR SUBSCRIPTION BUSINESSES
+			THE LEADER IN SUBSCRIPTION BILLING &amp; PAYMENT SOLUTIONS
 		</div>
 	</div>
 	<div id="middle" class="auto_height">
@@ -115,31 +177,37 @@
 			<div class="right_txt_box5 auto_height border_01">
 				<dl>
 					<dt class="font04 dt_style_01">
-						ZUORA IS THE ON-DEMAND LEADER FOR SUBSCRIPTION BUSINESSES
+						ZUORA IS THE LEADER IN SUBSCRIPTION BILLING &amp; PAYMENT SOLUTIONS
 					</dt>
 					<dd>
 						<table style="margin:10px auto; width:100%;">
 							<tbody><tr>
-								<td class="td_style_17 font05 padding_left_15" style="width:22%;">
-									<a href="zbilling-datasheet.html" title="Z-Billing Datasheet">
-										<img src="images/icon_20.gif" alt="Z-Billing Datasheet">
-										<span>Z-Billing<br>Datasheet</span>
+								<td class="td_style_17 font05 padding_left_15" style="width:20%;">
+									<a href="http://info.zuora.com/Z-Billing2-0Download.html" title="Z-Billing 2.0 Datasheet">
+										<img src="images/icon_20.gif" alt="Z-Billing 2.0 Datasheet">
+										<span>Z-Billing 2.0<br>Datasheet</span>
 									</a>
 								</td>
-								<td class="td_style_17 font05" style="width:21%;">
-									<a href="zpayments-datasheet.html" title="Z-Payments Datasheet">
+								<td class="td_style_17 font05" style="width:19%;">
+									<a href="http://info.zuora.com/Z-PaymentsDownload.html" title="Z-Payments Datasheet">
 										<img src="images/icon_20.gif" alt="Z-Payments Datasheet">
 										<span>Z-Payments<br> Datasheet</span>
 									</a>
 								</td>
-								<td class="td_style_17 font05" style="width:30%;">
-									<a href="top-ten-signs2.html" title="Top 10 Signs You Need a Billing System">
-										<img src="images/icon_21.gif" alt="Top 10 Signs You Need a Billing System">
-										<span style="line-height:14px;">Top 10 Signs You Need<br>a Billing System</span>
+								<td class="td_style_17 font05" style="width:19%;">
+									<a href="http://info.zuora.com/Z-CommerceDownload.html" title="Z-Commerce Datasheet">
+										<img src="images/icon_20.gif" alt="Z-Commerce Datasheet">
+										<span>Z-Commerce<br>Datasheet</span>
 									</a>
 								</td>
-								<td class="td_style_17 font05" style="width:26%;">
-									<a href="beagle-research-whitepaper2.html" title="Beagle Research Whitepaper">
+								<td class="td_style_17 font05" style="width:20%;">
+									<a href="http://info.zuora.com/Top10SignsDownload.html" title="Top 10 Signs You Need a Billing System">
+										<img src="images/icon_21.gif" alt="Top 10 Signs You Need a Billing System">
+										<span style="line-height:14px;">Top 10 Signs<br>You Need a<br>Billing System</span>
+									</a>
+								</td>
+								<td class="td_style_17 font05" style="width:22%;">
+									<a href="http://info.zuora.com/BeagleResearchWhitepaperDownload.html" title="Beagle Research Whitepaper">
 										<img src="images/icon_25.gif" alt="Beagle Research Whitepaper">
 										<span>Beagle Research Whitepaper</span>
 									</a>
@@ -161,25 +229,25 @@
 			<div class="left_img_box1" id="left_careers">
 				<a href="company/zuora-careers.html" title="careers">careers</a> </div>
 			<div class="left_img_box1" id="left_contact_us">
-				<a href="contact-us.html" title="contact us">contact us</a>	</div>
+				<a href="http://info.zuora.com/WebsiteContactUs.html" title="contact us">contact us</a>	</div>
 			<div class="left_img_box2">
 				<img src="images/button_left_tien_tzuo.gif" alt="Oracle led the data revolution and salesforce.com led the on-demand revolution. Maybe we can lead the next revolution.">
 			</div>
 	  <div class="left_img_box2"><img src="images/button_left_zuora_blog.gif" alt="zuora blog">
                 <div style="width:200px; margin:0 auto;">
    					<div class="padding_bottom_10">
-						<p class="font04">November 16 2008</p>
-						<p class="font11"><a href="http://blog.zuora.com/zblog/2008/11/heres-an-interesting-article-on-vivendi-that-i-read-this-weekend-from-the-wall-street-journal-wsjcom-is-a-paid-subscriptio.html" title="Vivendi's Subscription Model">Vivendi's Subscription Model</a></p>
+						<p class="font04">June 22 2009</p>
+						<p class="font11"><a href="http://blog.zuora.com/zblog/2009/06/flexible-packaging-and-pricing-puts-me-in-the-mood-to-shop.html" title="Flexible Packaging and Pricing Puts Me in the Mood to Shop">Flexible Packaging and Pricing Puts Me in the Mood to Shop</a></p>
 					</div>
 				
    					<div class="padding_bottom_10">
-						<p class="font04">November 4 2008</p>
-						<p class="font11"><a href="http://blog.zuora.com/zblog/2008/11/reflections-on-dreamforces-past-and-present.html" title="Reflections on Dreamforces Past and Present">Reflections on Dreamforces Past and Present</a></p>
+						<p class="font04">June 11 2009</p>
+						<p class="font11"><a href="http://blog.zuora.com/zblog/2009/06/adopting-cloud-computing-to-green-your-enterprise.html" title="Adopting Cloud Computing to Green Your Enterprise">Adopting Cloud Computing to Green Your Enterprise</a></p>
 					</div>
 				
    					<div class="padding_bottom_10">
-						<p class="font04">November 3 2008</p>
-						<p class="font11"><a href="http://blog.zuora.com/zblog/2008/11/zuora-at-dreamforce.html" title="Zuora at Dreamforce">Zuora at Dreamforce</a></p>
+						<p class="font04">June 04 2009</p>
+						<p class="font11"><a href="http://blog.zuora.com/zblog/2009/06/what-subscription-services-would-you-pay-for.html" title="What subscription services would you pay for?">What subscription services would you pay for?</a></p>
 					</div>
 					
 					<p class="td_style_11 font03 margin_bottom_15"><a href="http://blog.zuora.com/" title="View more">View more</a></p>
@@ -201,21 +269,17 @@
 				<li><a href="news/index.html" title="News &amp; Press">News &amp; Press</a></li>
 				<li><a href="privacy.html" title="Privacy">Privacy</a></li>
 				<li><a href="company/zuora-careers.html" title="Careers">Careers</a></li>
-				<li><a href="contact-us.html" title="Contact Us">Contact Us</a></li>
+				<li><a href="http://info.zuora.com/WebsiteContactUs.html" title="Contact Us">Contact Us</a></li>
 			</ul>
 		</div>
 		
 		<div id="footer_copyright" class="font04">
-			Copyright © 2008, Zuora Inc. 
+			Copyright © 2008-2009, Zuora Inc. 
             All Rights Reserved. Various trademarks held by their respective owners.
 		</div>
 	</div>
 	<div id="footer_search" class="font06">
-		<form method="post" action="http://oi.vresp.com?fid=7fd123755c" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;">
-			<div style="float:left">Stay Informed&nbsp;&nbsp;</div>
-			<div style="float:left;"><input type="text" name="email_address" onfocus="this.value='';" class="bottom_text_input" value="email address"></div>
-			<div id="bottom_search"><input type="submit" value="" class="c1" onmouseover="this.className='c2';" onmouseout="this.className='c1';"></div>
-		</form>
+
 	</div>
 </div>
 <!-- footer layer end -->
@@ -227,9 +291,10 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-3706971-1");
-pageTracker._initData();
 pageTracker._trackPageview();
+} catch(err) {} 
 </script>
 
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
