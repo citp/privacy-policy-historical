@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - 13 card Rummy, Indian Card games,Online Indian Rummy Game
 
+|  |   |   
+---|---|---  
   |  |  |  |   
 ---|---  
-| [Home](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/index.html) |   | [About Rummy](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/aboutgame.html) |   | [Downloads](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/downloads.html) |   | [Instant Prizes ](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/AcePrizesPage.jsp) |   | [My Account ](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/myaccount.html) |   | [Contact Us ](https://web.archive.org/web/20081217174412id_/http%3A//www.ace2three.com/contact.html)  
+| [Home](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/index.html) |   | [About Rummy](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/aboutgame.html) |   | [Downloads](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/downloads.html) |   | [Redeem ](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/redeemLogin.jsp) |   | [My Account ](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/myAccount.jsp) |   | [Contact Us ](https://web.archive.org/web/20090629053802id_/http%3A//www.ace2three.com/contact.html)  
 ---|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
