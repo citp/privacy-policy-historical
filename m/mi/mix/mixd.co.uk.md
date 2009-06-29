@@ -1,49 +1,65 @@
-> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514220407id_/http%3A//www.mixd.co.uk/misc/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixd.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629163833id_/http%3A//www.mixd.co.uk/privacy) for the most accurate reproduction.*
 
-# Mixd™ - Creative Agency
+# Privacy Policy | Creative Design Agency | Mixd
 
-Solution driven creativity
+## This privacy policy sets out how Mixd uses and protects any information that you give Mixd when you use this website.
 
-## Mixd consistently provides a creative, professional and timely design service.
+Mixd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-* * *
+Mixd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2009.
 
-### Privacy policy 
+### What we collect
 
-This web page describes Mixd's privacy policy guidelines regarding the collection and use of personal or corporate information that you provide to us.
+We may collect the following information:
 
-This privacy policy was last updated on September 29th 2004. Mixd may modify the provisions of this privacy policy from time to time. The new provisions will be effective as soon as they are posted. Please check this page periodically to ensure that you are aware of any change.
+  * Name and job title.
+  * Contact information including email address.
+  * Demographic information such as postcode, preferences and interests.
+  * Other information relevant to customer surveys and/or offers.
 
-**Types of information we gather and how we use it**  
-Mixd collects information from users of its web site, potential clients, prospective employees, and alliance relationships to name a few, including the information you provide to us by submitting information to us through use of the site.
 
-Mixd may keep track of this information and the information that you provide to us when you visit the site for our internal review, business development, research, marketing, and we store this information for the minimal amount of time necessary. We may also use this information to solicit e-mail for business development, research, marketing or promotional purposes or press inquiries. It is our practice to provide you with an opportunity to opt in for e-mail communications and remove yourself from this distribution list by sending us an e-mail to remove. We store this information in our database and do not plan to share it with third parties, except as described in this policy. If we ever need to share this information with other third parties, we will notify you. At any time you can remove your name and related information from our database, and we will provide you a choice to opt-out if you don't want your information used for any purpose or a particular purpose. You can review and update your information by contacting us at [privacy@mixd.co.uk](mailto:privacy@mixd.co.uk)
 
-**Cookies**  
-We use 'Cookies' in order to personalize your visit to our web site and enhance the experience by gaining a better understanding of your particular interests and customizing our pages for you. A cookie is a message given to a web browser by a web server and which is then stored by the browser in a text file. Each time the browser requests a page from the server this message is sent back which enables the user to be identified. We may use the information provided by cookies to analyze trends, administer the site, or for research and marketing purposes to help us better serve our clients. No information which personally identifies you will be collected through the cookies. You can set your browser to notify you before you receive a cookie so you have the chance to accept it and can set your browser to turn off cookies. No personally identifying information from you will be collected as part of these cookies.
+### What we do with the information we gather
 
-**Links**  
-The Mixd web site contains links to partners, clients, and other sites of interest to our users. Mixd does not control the privacy practices of these other sites. You should make sure that you know when you have left our web site and, if the web site you visit collects personal information, that you have read that site's privacy policy.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Security**  
-Mixd protects your personal information with several security measures. In addition to normal precautions such as physical security and firewalls, we have strict internal security policies.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customise the website according to your interests.
 
-**Children under 13**  
-If you are under 13, please do not use this site.
 
-**Information sharing and disclosure**  
-Mixd does not provide information about you, except as set forth herein:
 
-We may provide the information collected as stated herein to our business partners, which are under nondisclosure agreements with us not to disclose the information to anyone else, in order to assist us in growing our business with respect to similar products and services. If you do not want your information shared in this manner you will have a chance to opt out prior to collection.
+### Security
 
-We will provide the information collected in the event we are required to provide such information by a court, administrative or governmental order or subpoena or other legal process.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-If we believe it is necessary to share your information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, violations of Mixd's terms of use or as otherwise required by law we will provide the information collected.
+### How we use cookies
 
-In the event of a corporate reorganization, either by an operation of law, merger or purchase of assets, your information may be subject to a different privacy policy which we will make available on our web site.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-**Privacy complaints**  
-If you have any questions regarding this policy, believe that Mixd has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please e-mail us at [privacy@mixd.co.uk](https://web.archive.org/web/20080514220407id_/http%3A//www.mixd.co.uk/misc/mailto@privacy@mixd.co.uk)
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-**General**  
-These are our current privacy policy guidelines that can be modified at any time by Mixd. This is not a contract.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways: 
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@mixd.co.uk](mailto:info@mixd.co.uk)
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Mixd, 7 Alexandra Road, Harrogate, North Yorkshire HG1 5JS.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or [email](mailto:info@mixd.co.uk) us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
