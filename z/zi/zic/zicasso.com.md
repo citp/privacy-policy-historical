@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the zicasso.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914064956id_/http%3A//www.zicasso.com/page/zicasso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zicasso.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629071002id_/http%3A//www.zicasso.com/page/zicasso-privacy-policy) for the most accurate reproduction.*
 
 # Zicasso : Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.zicasso.com&sealid=101)
-
 This Privacy Policy was last updated: February 26, 2007
-
-Zicasso, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.zicasso.com](http://www.zicasso.com/ "www.zicasso.com"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Yuchun Ku at [yuchun@zicasso.com](mailto:yuchun@zicasso.com) or phone # (415)305-6058. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Thank you for visiting Zicasso, Inc.’s (“Zicasso”) Internet web site (“Site”) located at the URL zicasso.com. This Privacy Policy details certain policies implemented throughout Zicasso governing Zicasso’s use of personally identifiable information about users of our Site and users of our services on this Site (“Services”).
 
@@ -73,17 +67,7 @@ We may employ procedural and technological measures that are reasonably designed
 
 ## Updating, Correcting and Deleting Personally Identifiable Information
 
-Zicasso provides you with the ability to review, correct and update your personally identifiable information that you provide to us by accessing and modifying this information on your profile page or by submitting a request to us by phone, e-mail or mail to: 
-
-**By e-mail:** [help@zicasso.com](mailto:help@zicasso.com)
-
-**By mail:**
-
-554 Anza Street  
-Mountain View, California 94041  
-United States 
-
-**By phone:** 415-305-6058
+Zicasso provides you with the ability to review, correct and update your personally identifiable information that you provide to us by accessing and modifying this information on your profile page or by submitting a request to us by e-mail to: [help@zicasso.com](mailto:help@zicasso.com).
 
 If you have any questions regarding this Privacy Policy please contact us at the email address set forth above.
 
