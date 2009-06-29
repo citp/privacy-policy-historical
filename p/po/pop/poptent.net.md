@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptent.net privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014322id_/http%3A//www.xlntads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptent.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629175750id_/http%3A//www.xlntads.com/privacy) for the most accurate reproduction.*
 
 # XLNTads - Connecting Brands and Creators
 
