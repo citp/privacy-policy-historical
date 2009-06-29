@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218174710id_/http%3A//www.sunherald.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629032406id_/http%3A//www.sunherald.com/privacy_policy) for the most accurate reproduction.*
 
 # SunHerald.com Privacy Policy
 
+|   
+---|---  
+  
 Effective Date: March 4, 2007.
 
 SunHerald.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by SunHerald.com and does not apply to information obtained or used by the Sun Herald or its affiliates through other means.
