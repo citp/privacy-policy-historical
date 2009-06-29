@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228052816id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629201847id_/http%3A//www.medicalnewstoday.com/index.php%3Fpage%3Dprivacypolicy%26title%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,10 +9,14 @@ Medical News Today will respect the confidentiality of the information relating 
 In order for Medical News Today to count visitor numbers, a unique "cookie" may be placed on your browser. We also track IP addresses for the purposes of attaining demographic data. This data is used by us for statistical purposes and for content geo-targeting only. 
 
 **Third Party Advertising**   
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [see the privacy policy at MaxOnline.com](http://www.maxonline.com/privacy_policy/index.php "External Site Link - opens in new window"). 
+We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+If you would like more information about this practice and to know your choices about not having this information used by Google, please [see the privacy policy at Google.com.](http://www.google.co.uk/intl/en/privacy.html "External Site Link - opens in new window - Google")
 
 **Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+
+Google, as a third party vendor, uses cookies to serve ads on the Medical News Today Web site. Google uses the DART cookie to enable it to serve ads to the user based on the users visit to the Medical News Today Web site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "External Site Link - opens in new window - Google").
 
   
 
