@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219200931id_/http%3A//www.crescendonetworks.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crescendonetworks.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629182145id_/http%3A//www.crescendonetworks.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Crescendo Networks | Privacy
 
@@ -93,4 +93,4 @@ Of course, the Internet is made up of a large number of international connection
 
 **Questions**
 
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [marketing@crescendonetworks.com](mailto:marketing@crescendonetworks.com)
+If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [marketing@crescendonetworks.com](mailto:marketing@crescendonetworks.com).
