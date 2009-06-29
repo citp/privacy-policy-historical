@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165103id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629165506id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Thingamajob protects your privacy, learn more about our hiring policy.
 
@@ -40,7 +40,7 @@ Cookies are small files that your web browser places on your computer's hard dri
 
 ## Questions
 
-If at any time, you have any questions or concerns about the Thingamajob site or our policy, please feel free to contact us using our online help form.
+If at any time, you have any questions or concerns about the Thingamajob site or our policy, please feel free to contact us at [webmaster@thingamajob.com](mailto:webmaster@thingamajob.com).
 
 Thank you for using Thingamajob. **We value your privacy!**
 
