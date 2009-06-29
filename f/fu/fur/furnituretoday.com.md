@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043114id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629040151id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Furniture Today
 
@@ -8,7 +8,7 @@ Our site visitors' privacy and trust are important to us. We provide this notice
 
 This Privacy Policy describes the policies of Reed Business Information (" ** _RBI_** " or " ** _we_** "), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [Furniture Today](http://www.furnituretoday.com/ "Furniture Today") web site (this "Site").
+  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [Furniture Today](https://web.archive.org/common/jumplink.php?target=http%3A//www.furnituretoday.com "Furniture Today") web site (this "Site").
   * Information obtained through e-mail communications with you related to the Site.
 
 
@@ -27,7 +27,7 @@ The information we collect may include information from which you may be persona
 
 When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection](https://web.archive.org/info/automatic_data_collection.php "automatic data collection") technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](http://www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit [http://www.networkadvertising.org/optout_nonppii.asp](https://web.archive.org/common/jumplink.php?target=http%3A//www.networkadvertising.org/optout_nonppii.asp "www.networkadvertising.org/optout_nonppii.asp"). You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](https://web.archive.org/common/jumplink.php?target=http%3A//www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
 
 * * *
 
@@ -89,5 +89,3 @@ Reed Business Information
 360 Park Avenue South  
 New York, NY 10010-1710  
 Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager")
-
-. 
