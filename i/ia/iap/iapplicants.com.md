@@ -1,7 +1,58 @@
-> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224075040id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapplicants.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/privacy.htm) for the most accurate reproduction.*
 
 # iApplicants™ Applicant Tracking System – Privacy Policy
 
+|  |   
+More Applicants:  
+---  
+[Company Website Visitors](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/companywebsitevisitors.htm)  
+[Feed to FREE Job Boards](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/jobmatch.htm)  
+[Search Engine Optimization](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/searchengineoptimization.htm)  
+[Pay-Per-Click Job Marketing](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/payperclickjobmarketing.htm)  
+[Email Job Blasting & RSS](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
+  
+Careers Website:  
+[Careers Website Design](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/careerswebsite.htm)  
+[Automated Job Alerts](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/emailjobmarketingandrss.htm)  
+[Manage Job Listings](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/jobmanagement.htm)  
+[Employment Applications](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/customapp.htm)  
+[Career Site Traffic Analytics](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
+[Why Buy a .JOBS Domain](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/dotjobsdomains.htm)  
+[.JOBS Domains Solution](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/dotjobsdomainsolution.htm)  
+  
+Application Process:  
+[Custom Application](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/customapp.htm)  
+[Job Specific Questions](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/jobquestions.htm)  
+[Manage Applicant Flow](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/application.htm)  
+  
+Applicant Screening:  
+[Qualification Screening](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/minimumqualificationscreening.htm)  
+[Initial Interview Questions](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/interviewquestionsguide.htm)  
+[Behavioral Interview Questions](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/behavioralinterviewquestions.htm)  
+[Manage Applicant Flow](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/application.htm)  
+[Employment Screening](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
+  
+Reporting & Tracking:  
+[Track Recruiting Sources](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/recruitingsources.htm)  
+[EEO Compliance Reports](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/eeoccompliance.htm)  
+[Affirmative Action Log](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/affirmativeactionplantracking.htm)  
+[Career Site Visitor Tracking](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/careersitetrafficanalytics.htm)  
+  
+Partners & Integrations:  
+[Hiring Assessments](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/assessments.htm)  
+[Background Checks](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/preemploymentbackgroundchecks.htm)  
+[HRIS](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/HRISHumanResourcesSystem.htm)  
+[Payroll Software](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/payrollsoftwareservices.htm)  
+[Employer Tax Credits](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/employertaxcreditprocessing.htm)  
+  
+Corporate Information:  
+[About iApplicants™](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/about.htm)  
+[Contact iApplicants™](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/contact.htm)  
+[Request Information](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/contactus.php)  
+[iApplicants™ Resellers](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/resellers.htm)  
+[Referral Partners](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/partners.htm)  
+[Applicant Tracking Blog](http://www.iapplicant.com/)  
+[Home](http://www.iapplicants.com/)  
 iApplicants™ is committed to privacy of personal information gathered during the application process and stored by the iApplicants™ Applicant Tracking System. It is our policy to respect applicant’s privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy policy, please direct your questions to privacy@iapplicants.com. 
 
 iApplicants™ seeks to follow privacy practices adhering to the Safe Harbor standards.
@@ -45,3 +96,17 @@ All applicant information is restricted by administrative login to the iApplican
 The access and use of applicant information by our individual clients’ employees who have an administrative login is controlled and regulated by the individual clients. It is up to each of our individual clients to manage who has access to the administrative logins and to ensure that their own employees are kept up-to-date on security and privacy practices. 
 
 For any questions regarding iApplicants™ security or privacy policy, please email us at privacy@iapplicants.com or call 888-633-9269. 
+
+|  |   
+---  
+  
+"I have found tremendous value with the iApplicants™ system. The system shortens the hiring process dramatically and saves us valuable time and resources."   
+_**David - Managing Partner**_
+
+"I would recommend using the iApplicants™ System to anyone who wants to make things easier for themselves."  
+ _ **Jennie - HR Director**_
+
+"We would be hard pressed to find anything but positives regarding iApplicants™! We look forward to continued use of the system, and cannot imagine returning to paper-based applications."   
+_**Kevin - General Manager**_  
+  
+[](https://web.archive.org/web/20090630012047id_/http%3A//www.iapplicants.com/applicanttrackingbenefits.php)
