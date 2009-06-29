@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217051112id_/http%3A//www.swaminarayan.org/contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baps.org privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715123241id_/http%3A//www.swaminarayan.org/contact/privacypolicy.htm) for the most accurate reproduction.*
 
 # www.swaminarayan.org - Privacy Policy
 
