@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the barcamp.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012658id_/http%3A//pbwiki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcamp.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629032616id_/http%3A//pbworks.com/content/privacypolicy%3Futm_campaign%3Dwiki-link) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Non-binding English Summary
 
-  * If you mark your wiki private, we'll keep it private.
+  * If you mark your workspace private, we'll keep it private.
   * We don't share personally identifiable information with others.
   * We hate spammers, too. We'll try not to bug you with email.
 
 
 
-We at PBwiki, Inc. have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of July 13, 2005.
+We at PBworks have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of July 13, 2005.
 
 ### Information You Choose to Submit
 
@@ -18,7 +18,7 @@ You can visit our website without telling us who you are or revealing any person
 
 ### Your Intellectual Property Rights
 
-PBwiki does not claim any ownership in any of the content, including any text, data, information, images, photographs, music, sound, video, or other material, that you upload, transmit or store in your pbwiki account.
+PBworks does not claim any ownership in any of the content, including any text, data, information, images, photographs, music, sound, video, or other material, that you upload, transmit or store in your PBworks account.
 
 ### Information We Automatically Collect
 
@@ -40,11 +40,11 @@ Your use of areas of our website that are intended for interaction with other us
 
 ### Choice/Opt-Out
 
-We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by sending us an email to privacy (at) pbwiki (D0T) com (please send your request from the email address associated with your account). Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party with which we shared your Personal Data prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to our website (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers as necessary to provide service.
+We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by sending us an email to privacy (at) pbworks (D0T) com (please send your request from the email address associated with your account). Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party with which we shared your Personal Data prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to our website (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers as necessary to provide service.
 
 ### Accessing, Correcting, and Deleting Your Personal Data
 
-If you would like to modify or delete from our database any Personal Data you previously submitted to us, please let us know by accessing and updating your profile on our site or by sending us an email to privacy (at) pbwiki (D0T) com. (please send your request from the email address associated with your account and clearly state what Personal Data you would like modified or deleted). Please note that sometimes these requests may take up to ten business days to process, that any Personal Data that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
+If you would like to modify or delete from our database any Personal Data you previously submitted to us, please let us know by accessing and updating your profile on our site or by sending us an email to privacy (at) pbworks (D0T) com. (please send your request from the email address associated with your account and clearly state what Personal Data you would like modified or deleted). Please note that sometimes these requests may take up to ten business days to process, that any Personal Data that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
 
 ### Security
 
@@ -60,4 +60,4 @@ We may update this privacy policy from time to time. If under any such update we
 
 ### Questions
 
-If you have any questions about this privacy policy, please feel free to contact us by email at privacy (at) pbwiki (D0T) com.
+If you have any questions about this privacy policy, please feel free to contact us by email at privacy (at) pbworks (D0T) com.
