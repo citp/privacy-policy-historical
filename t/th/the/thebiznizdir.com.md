@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016010252id_/http%3A//www.thebiznizdir.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629221401id_/http%3A//thebiznizdir.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - thebiznizdir.com
-
----  
-  
-[](http://buildit.sitesell.com/build_it.html)
 
 | 
 
@@ -29,7 +25,4 @@ When you use thebiznizdir.com, information that your browser sends whenever you 
   
 Cookies and Web Beacons:   
 Thebiznizdir.com does not set or use cookies to track your activity however third parties(eg. Google) may be placing and reading cookies on your browser, or using web beacons to collect information. Information collected are used for the purpose of serving advertisement on this website.   
-   
-  
-© Copyright 2008 The Biz Niz Dir. All rights reserved.  
  
