@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2008-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080529060852id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-passport-service-guide.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629182001id_/http%3A//www.us-passport-service-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - US Passport Service Guide
 
@@ -9,7 +9,7 @@ Our postal address is
 Recife, Pe 52011-010  
 Brazil**
 
-We can be reached via e-mail at william(at)us-passport-service-guide or you can reach us by telephone at 55-81-3222-8901  
+We can be reached via e-mail at [william@us-passport-service-guide.com](mailto:william@us-passport-service-guide.com) or you can reach us by telephone at 55-81-3222-8901  
 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -20,65 +20,8 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We use cookies to record user-specific information on what pages users access or visit.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
-## U.S. Passport and Travel Visa Information
-
-[**Passport Services**](http://www.us-passport-service-guide.com/us-passport-services.html)  
-Ranking and reviews of online travel document expeditors. 
-
-[**24 Hour Passport**](http://www.us-passport-service-guide.com/24-hour-passport.html)  
-Find out what true 24 hour passport processing is. 
-
-[**Fast Passport**](http://www.us-passport-service-guide.com/fast-passport.html)  
-Where and how to get your passport quickly. 
-
-[**Passport Information**](http://www.us-passport-service-guide.com/us-passport-information.html)  
-General passport information. 
-
-[**Passport Processing**](http://www.us-passport-service-guide.com/united-states-passport.html)  
-Start here if you are unsure about which type of passport you need. 
-
-[**New Passport**](http://www.us-passport-service-guide.com/obtain-a-us-passport.html)  
-How to obtain a new U.S. passport. 
-
-[**Passport Renewal**](http://www.us-passport-service-guide.com/us-passport-renewals.html)  
-Go here if you need information about renewing your passport. 
-
-[**Child Passport**](http://www.us-passport-service-guide.com/child-passport.html)  
-Concise information about applying for a passport for a minor. 
-
-[**Lost Passport**](http://www.us-passport-service-guide.com/lost-passport.html)  
-Find out how to replace your lost or stolen passport. 
-
-[**Add Pages to Passport**](http://www.us-passport-service-guide.com/add-pages-to-passport.html)  
-Find out how to easily add pages to your passport. 
-
-[**Passport Name Change**](http://www.us-passport-service-guide.com/passport-name-change.html)  
-Find out how to apply for a passport name change. 
-
-[**Passport Agency**](http://www.us-passport-service-guide.com/passport-agency.html)  
-Discover what the U.S. Passport Agency does and where to locate one. 
-
-[**Passport Office**](http://www.us-passport-service-guide.com/passport-office.html)  
-What a passport office does and where to locate one. 
-
-[**Passport Photo Information**](http://www.us-passport-service-guide.com/passport-photo.html)  
-Find out what the passport photo requirements are and get answers to frequently asked questions. 
-
-[**Foreign Entry Requirements**](http://www.us-passport-service-guide.com/foreign-entry-requirement.html)  
-A list of common documents required for entry into a foreign country. 
-
-[**Passport Services in San Francisco**](http://www.us-passport-service-guide.com/passport-services-in-san-francisco.html)  
-Discover the three main types of passport services found in San Francisco. 
-
-[**Travel Visa Information**](http://www.us-passport-service-guide.com/travel-visa.html)  
-General travel visa information and requirements for popular destinations. 
-
-Top
-
-End of main content.
-
-**Keywords:** passport service, passport expediting, expedite passport
+U.S. Passport Top
