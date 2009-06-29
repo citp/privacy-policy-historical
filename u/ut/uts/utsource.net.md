@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220003342id_/http%3A//www.utsource.net/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629100119id_/http%3A//www.utsource.net/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
-
-## Why not choose utsource?
 
 **UTSOURCE** protect our visitors' and customers' information, and do not disclose it to third parties.   
   
