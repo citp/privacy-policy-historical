@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressloft.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219165433id_/http%3A//www.pressloft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressloft.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629223705id_/http%3A//www.pressloft.com/privacy.php) for the most accurate reproduction.*
 
 # Press loft (formerly Image Loft) the Online Press Office for PRs and Journalists
 
