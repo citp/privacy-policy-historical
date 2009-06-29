@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artquotes.net privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228152804id_/http%3A//www.artquotes.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artquotes.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629174403id_/http%3A//www.artquotes.net/privacy.htm) for the most accurate reproduction.*
 
 # Art Quotes Privacy Policy
 
@@ -7,7 +7,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the ArtQuotes.net website. On some pages you can make requests, and register to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20081228152804id_/http%3A//www.artquotes.net/subscribe.htm)**. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the ArtQuotes.net website. On some pages you can make requests, and register to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20090629174403id_/http%3A//www.artquotes.net/subscribe.htm)**. The types of personal information collected at these pages are: 
 
 Name  
 Email address   
@@ -16,21 +16,23 @@ IP
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself when subscribing to our **[Art Inspiration Newsletter](https://web.archive.org/web/20081228152804id_/http%3A//www.artquotes.net/subscribe.htm)** or requesting information only to fulfill your request. We do not share this information with outside parties. 
+We use the information you provide about yourself when subscribing to our **[Art Inspiration Newsletter](https://web.archive.org/web/20090629174403id_/http%3A//www.artquotes.net/subscribe.htm)** or requesting information only to fulfill your request. We do not share this information with outside parties. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20081228152804id_/http%3A//www.artquotes.net/subscribe.htm)** as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the subscription form. 
+You can register with our website if you would like to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20090629174403id_/http%3A//www.artquotes.net/subscribe.htm)** as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the subscription form. 
 
 If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
+We use third-party advertising companies like Google Adsense to serve ads when you visit ArtQuotes.net. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 **Unsubscribing/ Opt-out Newsletter**
 
-If you no longer wish to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20081228152804id_/http%3A//www.artquotes.net/subscribe.htm)** and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at..
+If you no longer wish to receive our **[Art Inspiration Newsletter](https://web.archive.org/web/20090629174403id_/http%3A//www.artquotes.net/subscribe.htm)** and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at..
 
 **Our Commitment To Data Security**
 
