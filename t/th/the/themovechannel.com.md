@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220022109id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629032235id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
 
 # TheMoveChannel.com | Privacy Policy | Website Data Usage
 
@@ -37,6 +37,17 @@ In addition to the cookies we send to your computer some of our advertisers and 
 We will process your Data in the way indicated in this Privacy Policy. Over time the way we process your Data may change. We will let you know about changes that may not be obvious to you by publishing them in the Privacy Policy. By using the Site website you agree to any change we tell you about unless, within 60 days of that notice, you write and tell us not to handle your information in the new way.
 
 Your Data may be used by us to contact you in writing, by telephone or by e-mail to offer you information, advertisements, products and services that we believe may be of interest to you. You can opt out of receiving any such contract at any time by amending your Data. We will not supply your personal details to any other person or organisation unless expressly authorised by yourself.
+
+We may also sell your data (or otherwise pass it on) to selected third parties who may use it to contact you by post, telephone, email, SMS or other reasonable method in relation to offers they feel might interest you, whether or not we enter into an agreement with you. In addition, we may disclose your personal information to a third party:
+
+  * \- In the event we sell or buy any business or assets (in which case we may disclose your personal data to the prospective seller or buyer of such a business or assets)
+
+  * \- If our business or substantially all of its assets are acquired by a third party (in which case personal data held about customers will be one of the transferred assets)
+
+  * \- If we have a duty to disclose your personal data in order to comply with a legal request, or in order to enforce any of our terms and conditions
+
+
+
 
 ### Amending your Data
 
