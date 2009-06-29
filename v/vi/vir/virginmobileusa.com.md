@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217024456id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629053936id_/http%3A//web.virginmobileusa.com/about/privacy) for the most accurate reproduction.*
 
 # Virgin Mobile: Privacy Policy
 
@@ -104,7 +104,7 @@ In addition, such personally identifiable information may be stored on servers l
 Virgin Mobile may, from time to time, make changes to this policy based on your comments and our need to accurately reflect our legal obligations and our data collection and disclosure practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website(s). By continuing to use our websites and services, you agree to be bound by the latest version of this policy, which may be viewed anytime by clicking on the "Privacy Policy" link at the foot of the Virgin Mobile website and our other websites or by calling 1-888-322-1122.
 
 **Want To Know More?**  
-For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20081217024456id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
+For questions or concerns about Virgin Mobile or [www.virginmobileusa.com](http://www.virginmobileusa.com/), please contact customer care at [ourteam@virginmobileusa.com](https://web.archive.org/web/20090629053936id_/http%3A//web.virginmobileusa.com/about/ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122 with any questions. Calls to Virgin Mobile At Your Service may be monitored for quality assurance.
 
 For privacy-related questions about Sugar Mama: send email to [sugarmamaprivacy@ultramercial.com](mailto:sugarmamaprivacy@ultramercial.com). 
 
