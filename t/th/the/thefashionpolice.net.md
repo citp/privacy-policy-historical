@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035356id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629111222id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - From The Fashion Police
 
@@ -20,3 +20,9 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 If you choose to leave a comment on TheFashionPolice.net your name, email address and URL will be collected and stored on our server. We may use your email address to respond to your comments, but will never sell, rent, share, trade or give away any of your personal information. We will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, The Fashion Police may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy.
 
 You should be aware that when you voluntarily disclose personally identifiable information (e.g  e-mail address) via comments on TheFashionPolice.net, that information can be collected and used by third parties and may result in unsolicited messages from other posters or third parties.
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
+
