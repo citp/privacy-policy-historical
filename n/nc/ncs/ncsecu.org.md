@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044337id_/http%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # State Employees' Credit Union - Privacy Policy
 
@@ -28,9 +28,9 @@ Member information is kept secure and confidential through physical, electronic,
 
 ## Other Related Links:
 
-  * [How You Can Protect Yourself](https://web.archive.org/web/20081217044337id_/http%3A//www.ncsecu.org/Security/HowYouCanProtectYou.html)
-  * [Legal](https://web.archive.org/web/20081217044337id_/http%3A//www.ncsecu.org/Home/Legal.html)
-  * [Locator](https://web.archive.org/web/20081217044337id_/http%3A//www.ncsecu.org/Locator/Locator.html)
-  * [Call Center](https://web.archive.org/web/20081217044337id_/http%3A//www.ncsecu.org/Home/ContactUs.html#phone)
+  * [How You Can Protect Yourself](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Security/HowYouCanProtectYou.html)
+  * [Legal](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/Legal.html)
+  * [Locator](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Locator/Locator.html)
+  * [Call Center](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/ContactUs.html#phone)
 
 
