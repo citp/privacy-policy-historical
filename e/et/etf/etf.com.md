@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etf.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224220530id_/http%3A//etf.com/index.php%3Fpage_id%3D1986) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etf.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629171319id_/http%3A//etf.com/etf-privacy-policy) for the most accurate reproduction.*
 
 # ETF.com - information about ETFs, exchange-traded funds
 
