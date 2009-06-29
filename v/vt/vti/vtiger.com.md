@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012356id_/http%3A//vtiger.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D65%26Itemid%3D147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629100331id_/http%3A//vtiger.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D65%26Itemid%3D147) for the most accurate reproduction.*
 
 # vtiger Open Source CRM - vtiger Privacy Policy
 
