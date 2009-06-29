@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219021716id_/http%3A//www.labpixies.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labpixies.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629034034id_/http%3A//www.labpixies.com/site/privacy_policy) for the most accurate reproduction.*
 
 # LabPixies - Privacy Policy
 
@@ -36,6 +36,9 @@ We may offer interactive polls to users so they can easily share their opinions 
 **5\. Surveys**  
 LabPixies may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
+**Information Gathered By Third Parties**   
+LabPixies enables "interested-base advertising" on its website, thus allowing Google, as a third party vendor, to serve ads which might be of better interest to you. We allow Google to collect non-personally identifiable information each time you enter our website. The term "non-personally identifiable information" refers to anonymous information that can not be linked to a specific user (in example, the certain webpages you have visited within our website). Such information is being gathered by Google through the use of third-party cookies, as shall be explained in details below. You can easily Opt-Out yourself, and prevent the gathering of information by Google, simply by following the guidelines which appear at the address [http://www.google.com/privacy_ads.html], under the title: "How do I opt out of interest based advertising?".
+
 **Children**   
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
@@ -48,6 +51,9 @@ LabPixies sometimes tracks and catalogs the search terms that users enter in our
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself may contain Personal Information to enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. LabPixies uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies for all services and pages to function correctly and to participate actively in message boards, forums, polling and surveys.
+
+**Third-Party Cookies**  
+Third-Party Cookies are "cookies" which are used by Google for the gathering of non- personally identifiable information (as defined above). This kind of cookie is updated each time you visit our website and also when you visit other websites that uses similar cookies associated with Google. If you feel inconvenient with Google's Third-Party Cookies or the gathering of information by Google, you can easily Opt-Out yourself through the use of the following [link](http://www.google.com/ads/preferences/view?sig=ACi0TCjZZo6P2CAPMJgGKFtM3a1JWQ3qslm4M9YUdtObv_flgr-Cpnirp-GClmOPep4SPPKKoKe41JP5Ch-q_RpyJLdNbHn3RGKxE1x_rl7DhT_SD31tqyoXCpAt4inxssxyL_bGo49rcoNgZZR6-vs2XFfD-PGZTg&hl=en).
 
 **USE OF INFORMATION**
 
@@ -78,4 +84,4 @@ We give users options wherever necessary and practical. Such choices include:
 
 **YOUR CONSENT**
 
-By using this site, you consent to the collection and use of this information by LabPixies. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using this site, you consent to the collection and use of this information by LabPixies and any third party stated herein. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
