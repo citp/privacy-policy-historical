@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218084958id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629035720id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Appenzeller Daily Bell
+# The Daily Bell
 
 Privacy Policy
 
@@ -16,100 +16,27 @@ We will not sell your personal information to anyone, though it is possible a la
 
 **Security:** We limit access to personal information about you to those employees whom we determine need access to that information to provide products and services to you. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted over the Internet.
 
-Please email us regarding any questions or comments regarding this Privacy Policy. Appenzeller Business Press AG reserves the right to modify this Privacy Policy.
-
-| Latest Daily Bells
-
-#### Issue 165 • December 17, 2008
+Appenzeller Business Press AG reserves the right to modify this Privacy Policy.
 
   
 
 
-#### Issue 164 • December 16, 2008
+| 
 
+**Guarding Your Privacy
+
+ _The Story of the  
+Appenzell Bear_
+
+**
+
+The symbol of the black bear comes from a 500-year-old Appenzell tradition which upholds the values of power, courage, might and virility. It is no wonder the upright bear with flashing red claws is central to the Appenzell flag and coat of arms. 
+
+It represents the contrarian who stands alone, if necessary, to protect what is his and defend his rights as an individual. 
+
+It also reflects our reverence for personal responsibility and free-market principles. And in keeping with those principles, we accept the duty to protect your personal information. 
+
+Sincerely,  
   
-
-
-#### Issue 163 • December 15, 2008
-
-  
-
-
-#### Issue 162 • December 12, 2008
-
-  
-
-
-#### Issue 161 • December 11, 2008
-
-  
-
-
-#### Issue 160 • December 10, 2008
-
-[](http://www.thedailybell.com/subscribe)
-
-What Readers Think
-
-My Highest Recommendation!
-
-"With the Appenzell Daily Bell I’m getting insight into social and political trends that affect my investments. I look forward to seeing the Appenzell Daily Bell in my emailbox every morning! The 'bear' gets my highest recommendation!" 
-
-#### —Seth G., NY, NY, USA
-
-  
-
-
-* * *
-
-Logical Free Market
-
-"Leave it to the Swiss to publish a daily news analysis that’s true to free market principles. You guys are a breath of fresh air!" 
-
-#### —Willem F., Buenos Aires, Argentina
-
-  
-
-
-* * *
-
-I'm Telling Everybody!
-
-"I want you to know that I read every word every day of the Appenzell Daily Bell…and then I send it off to everyone I know. Your free market Analysis section is my favorite part of every news story. You've made me think and you've stirred up the rugged individualist inside me. Thanks for the empowerment." 
-
-#### —Scott L., West Vancouver, BC, Canada
-
-  
-
-
-* * *
-
-Keeps Me Informed
-
-"I love the two main articles you choose. And I'm surprised by how many major events your analysis covers that I don't see in the U.S. press."
-
-#### —Pat G., Phoenix, AZ, USA
-
-  
-
-
-* * *
-
-My Favorite Newsletter
-
-"You guys are great. I am not sure who referred me to the Daily Bell but, whoever it was, I owe them a great debt. Your information is truly a breath of fresh air in an oft confusing and propaganda driven age of media disinformation. It has really helped me to make clear and profitable investment decisions."
-
-#### —Peter K., Zurich, Switzerland
-
-  
-
-
-* * *
-
-Supreme Content and Analysis
-
-"Bravo! Love your analysis. Content is never boring and always pertinent. A most prescient perspective fitting for any tea-time chat."
-
-#### —Harrison P., London, England
-
-[](http://www.thedailybell.com/subscribe)
+Albert Kessler,  
+Chairman, ARBP 
