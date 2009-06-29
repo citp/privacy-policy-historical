@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222081614id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629043736id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
 
-# eKstreme.com's Privacy Policy - eKstreme.com
+# eKstreme.com’s Privacy Policy - eKstreme.com
 
 Although eKstreme.com is a personal site, I do collect some information about the visitors. This page describes what exactly gets collected, why, and how it is stored. I am not a lawyer, so I will not give you a legal document, but will give you a simple explanation.
 
