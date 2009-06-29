@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the mininova.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106183645id_/http%3A//www.mininova.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mininova.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630000918id_/http%3A//www.mininova.org/privacy) for the most accurate reproduction.*
 
-# Mininova.com - Torrent Downloads
+# Privacy policy - Mininova
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The Information We Collect: First Name, Last Name, Address, Zip/Postal, City, State, Country, Email, membership typeThis notice applies to all information collected or submitted on ultimatemoviedownload website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+  * [FAQ](https://web.archive.org/faq "Frequently Asked Questions")
+  * [Privacy policy](https://web.archive.org/privacy "The Mininova privacy policy")
+  * [Copyright policy](https://web.archive.org/copyright "The Mininova copyright policy")
+  * [Statistics](https://web.archive.org/statistics "Mininova statistics")
+  * [Contact](https://web.archive.org/contact "Contact Mininova")
 
-Name:   
-Address:   
-Email address:   
-Phone number: 
 
-**The Way We Use Information:**
 
-All information is stored in a secure database. 
+Mininova takes your privacy seriously. We do not collect any personal information about you. This page describes how we treat your personal information. Please read the following carefully.
 
-**Our Commitment To Data Security:**
+## Privacy protection
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To protect the privacy of our visitors, we do not log IP addresses or hostnames of our visitors. However, we may log some IP addresses for administrational purposes. Please keep in mind that all torrent submissions are anonymous, no login is required for uploading.
 
-**How You Can Access Or Correct Your Information:**
+## Cookies
 
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Mininova may write and read so-called [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to store the preferences, search keywords or login information of users.
 
-**How To Contact Us:**
+## Information sharing and disclosure
 
-Should you have other questions or concerns about these privacy policies, please send us an email at our [support center](https://web.archive.org/web/20061106183645id_/http%3A//www.mininova.com/support.php).
+Mininova may provide business partners with non-personal information related to search terms and/or downloads. We do not sell, rent or otherwise share your personal information with any third parties except in the limited circumstances described in this privacy policy, or if we are forced to do so by law.
+
+## Changes
+
+Mininova may update this privacy policy at any time. We will notify you about significant changes of this policy by placing a prominent notice on our [blog](http://blog.mininova.org/).
