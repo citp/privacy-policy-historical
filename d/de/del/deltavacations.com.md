@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltavacations.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912163005id_/http%3A//www.deltavacations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltavacations.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629041009id_/http%3A//www.deltavacations.com/about/privacy.php) for the most accurate reproduction.*
 
 # Delta Vacations - Privacy Policy
 
@@ -10,10 +10,10 @@
 Protecting your privacy is important to us. We hope the following statement will help you understand how Delta Vacations, operated by Travel Impressions, collects, uses and safeguards the personal information you provide to us on our website.
 
 **I. Security**  
-When you send confidential data to us on an Delta Vacations, operated by Travel Impressions, website, we require that a "secure session" first be established using Secure Socket Layer (SSL), or Secure Electronic Transaction (SET) protocol when that is fully available. For further information about SSL, SET and the safety and confidentiality of personal data transmissions over the Internet, please read our [Security Q&A](https://web.archive.org/web/20080912163005id_/http%3A//www.deltavacations.com/security.php).
+When you send confidential data to us on an Delta Vacations, operated by Travel Impressions, website, we require that a "secure session" first be established using Secure Socket Layer (SSL), or Secure Electronic Transaction (SET) protocol when that is fully available. For further information about SSL, SET and the safety and confidentiality of personal data transmissions over the Internet, please read our [Security Q&A](https://web.archive.org/web/20090629041009id_/http%3A//www.deltavacations.com/about/security.php).
 
 **II. Information Collection**  
-When you browse any Travel Impressions website, you do so anonymously. Personal information -- including your E-mail address -- is not collected. Some of our websites, however, may request that you voluntarily supply us with personal information, including your E-mail address for purposes such as correspondence, or participating in online surveys. Like many other commercial websites, the Delta Vacations, operated by Travel Impressions, website may utilize a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20080912163005id_/http%3A//www.deltavacations.com/cookies.php) for more information.
+When you browse any Travel Impressions website, you do so anonymously. Personal information -- including your E-mail address -- is not collected. Some of our websites, however, may request that you voluntarily supply us with personal information, including your E-mail address for purposes such as correspondence, or participating in online surveys. Like many other commercial websites, the Delta Vacations, operated by Travel Impressions, website may utilize a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/web/20090629041009id_/http%3A//www.deltavacations.com/about/cookies.php) for more information.
 
 **III. Information Use**  
 If you provide us with your E-mail address, or have done so in the past, we may upon occasion send you E-mail offers. We may use information you have given us only for the purpose of sending you advertising information pertaining to Delta Vacations, operated by Travel Impressions.
