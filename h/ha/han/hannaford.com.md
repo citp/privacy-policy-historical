@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannaford.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217131203id_/http%3A//www.hannaford.com/Contents/Common/PrivacyStatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaford.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629081252id_/http%3A//www.hannaford.com/Contents/Common/PrivacyStatement.shtml) for the most accurate reproduction.*
 
 # Privacy and Information Security Notice - Hannaford Supermarkets
 
@@ -54,7 +54,7 @@ Online Privacy Policy
 
 **How to Change or Delete Your Information**
 
-  * If you have submitted personally identifiable information through our website and would like to change or delete that information, please email us at . [**consumerinfo@hannaford.com**](mailto:consumerinfo@hannaford.com?subject=Consumer%20Information%20Message%20&body=Please%20do%20not%20alter%20the%20subject%20line%20in%20order%20for%20your%20message%20to%20pass%20our%20spam%20detector.)In your email, please tell us which page or form on the website you used to submit your information. You can always let us know if you don’t want to receive e-mail from us.
+  * If you have submitted personally identifiable information through our website and would like to change or delete that information, please use our _Contact Us form_. Please make sure to mention which pages, forms, or Hannaford sites you used to submit your information. You can always let us know if you do not want to receive e-mail from us.
 
 
 
