@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eyemasters.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023172302id_/http%3A//www.eyemasters.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyemasters.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629152227id_/http%3A//www.eyemasters.com/privacypolicy) for the most accurate reproduction.*
 
 # EyeMasters - Privacy Policy
 
 _(Updated October 16, 2007)_
 
-Online Privacy Policy  | [HIPAA](https://web.archive.org/web/20080723210041/http://www.eyemasters.com/privacypolicy/hipaa.php "HIPAA")
+Online Privacy Policy  | [HIPAA](https://web.archive.org/privacypolicy/hipaa.php "HIPAA")
 
 At Eye Care Centers of America, Inc., we value and protect our customers' privacy. This Online Privacy Policy describes the types of information we collect from users of our websites ("Users") and explains what we do with that information. As used herein, "Users" includes you, and refers to any individual who visits our websites or provides any personal information via our websites, through registration or otherwise.
 
@@ -56,7 +56,7 @@ Our Websites contains links to other websites that are not owned or controlled b
 
 ## Updates to this Online Privacy Policy
 
-This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20080723210041/http://www.eyemasters.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
+This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20090629152227id_/http://www.eyemasters.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
 
 From time to time, we may update this Online Privacy Policy. Notification of any such updates which contain any material changes will be posted on the homepage of our Websites. Users are encouraged to check our Websites periodically for any material changes to this Online Privacy Policy.
 
@@ -81,5 +81,4 @@ marktgprivacydept@ecca.com
 
 You may also request to be removed from any of our email lists using any of these methods, or by clicking on an unsubscribe link where provided on our emails and following the related instructions.
 
-[](https://web.archive.org/web/20080723210041/http://www.adobe.com/products/acrobat/readstep.html) The documents below require Adobe® Acrobat® Reader™  
-[Click here](https://web.archive.org/web/20080723210041/http://www.adobe.com/products/acrobat/readstep.html) to download.
+[](http://www.adobe.com/products/acrobat/readstep.html) Note: To view the PDF documents, you will need Acrobat Reader from Adobe. [Download Acrobat Read now](http://www.adobe.com/products/acrobat/readstep.html "Download Acrobat Read now.").
