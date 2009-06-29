@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219120147id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUSA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629064252id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa) for the most accurate reproduction.*
 
-# WatkinsOnline | Privacy Statement
+# Watkins Official Home-Based Business Web Site | Privacy Statement
 
 #### Watkins Incorporated Privacy Statement
 
