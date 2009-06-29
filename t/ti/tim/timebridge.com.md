@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026141332id_/http%3A//timebridge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629033222id_/http%3A//www.timebridge.com/privacy.php) for the most accurate reproduction.*
 
-# TimeBridge
+# Free Calendar Software & Scheduling Tool | TimeBridge - Privacy Policy
 
 Last Updated: August 14, 2007 
 
@@ -8,7 +8,7 @@ We here at TimeBridge Inc. (“TimeBridge”) know it is important that you unde
 
 If you have any questions or comments about our practices or this Privacy Policy please contact us at [privacy@timebridge.com](mailto:privacy@timebridge.com)
 
-  * This Privacy Policy applies only to the Services and is incorporated into the [TimeBridge Terms of Service Agreement](https://web.archive.org/web/20071026141332id_/http%3A//timebridge.com/terms.php). 
+  * This Privacy Policy applies only to the Services and is incorporated into the [TimeBridge Terms of Service Agreement](https://web.archive.org/web/20090629033222id_/http%3A//www.timebridge.com/terms.php). 
   * We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new Privacy Policy on the Site. Please consult the Site regularly for changes. Unless otherwise defined in this policy, terms used in this Privacy Policy have the meanings provided in the TimeBridge Terms of Service Agreement. 
   * By using our Services you are consenting to TimeBridge processing your information as described in this Privacy Policy now and as amended by us. These uses include the collection, storage and deletion, disclosure and transfer of your information to and from the United States to provide you with the Services you have requested. 
 
