@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012636id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629031242id_/http%3A//www.adready.com/meta/privacy) for the most accurate reproduction.*
 
 # AdReady | Privacy Policy
 
@@ -25,6 +25,39 @@ If you communicate with us through e-mail, regular mail, or the phone, or choose
 ## Non-Personal Information Collection and Use
 
 Like most websites, though, we automatically receive and record certain information through the use of various technologies like "cookies," "web beacons," and "pixel tags." Our clients may use the same technologies on their sites on our behalf. We use this information to generate reports for ourselves and our clients, observe trends and site traffic, administer and improve our customer's campaigns and ads, administer our sites and improve their usability, and to gain a better understanding of your interests. This information may include, by way of example, the URL from which you just came, the URL to which you next go, your computer browser information, operating system, IP address, and other information about how you use our site. 
+
+## Blocking Non-Personal Information Collection
+
+Browsers and third-party software can allow you to block the use of cookies which may be applied by multiple parties while you browse web sites. Blocking cookies, or otherwise limiting the placement of cookies, will prevent you from being able to participate or experience various services and features which require access to the information provided by the cookies. 
+
+Included below are instructions for blocking third party cookies in some of the most common browsers. If your browser or version is not listed here, or you wish to treat cookies in some other way, please refer to your browser's help menu or printed manual for instructions. 
+
+### Microsoft Internet Explorer 6.0 or higher
+
+>   1. Menu: Tools-Internet Options
+>   2. Select Tab: Privacy
+>   3. Click Button: Advanced (just below center of the page)
+>   4. Check Box: "Override Automatic Cookie Handling"
+>   5. Click Radio Button corresponding to "Block" Third party cookies
+> 
+
+
+### Firefox by Mozilla
+
+>   1. Menu: Tools > Options
+>   2. Click the Privacy panel and then click on the Cookies label.
+>   3. Check Box: "for the originating Web site only"
+> 
+
+
+### Netscape Navigator
+
+>   1. Menu: Edit > Preferences
+>   2. Select Category: Advanced
+>   3. Find section: Cookies
+>   4. Select "Accept only cookies that get sent back to the originating server."
+> 
+
 
 ## Our Affiliates, Vendors and Service Providers
 
