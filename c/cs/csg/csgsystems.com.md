@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220205758id_/http%3A//csgsystems.com/CSG_Content.aspx%3FL1%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629184450id_/http%3A//www.csgsystems.com/CSG_Content.aspx%3FL1%3D14) for the most accurate reproduction.*
 
 # Privacy Policy | CSG Systems
 
