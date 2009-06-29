@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201023id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629040028id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Stock Market Quotes Business News Financial News investor news investors - Privacy
 
@@ -52,5 +52,3 @@ Our Site may offer links to other websites, which may have information policies 
 ###### Privacy questions
 
 If you have any questions regarding our privacy policy, please contact us at info@proactiveinvestor.com. You may also view your personal information at any time by logging in to your account page.
-
-You need the Flash Player version 8.0.0.0 or higher and a JavaScript enabled browser to view this content 
