@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218073159id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630040718id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Privacy | Clarks Shoes | Powered by Zappos
 
@@ -113,4 +113,4 @@ If Zappos.com changes or updates this Privacy Policy, we will post changes and u
 
 
 Effective July 24, 2006  
-Privacy Policy copyright © 2007 Zappos.com, Inc.
+Privacy Policy copyright © 2007-2009 Zappos.com, Inc.
