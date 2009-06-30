@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alaplaya.net privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612070651id_/http%3A//en.alaplaya.eu/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaplaya.net privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630040502id_/http%3A//en.alaplaya.net/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - alaplaya - alaplaya.eu
+# Privacy Policy - alaplaya - alaplaya.net
 
-**BURDA interactive communities (BURDA:ic) Privacy Policy**
+**Burda:ic GmbH Privacy Policy**
 
 We are deeply concerned with the protection of personal data. We would like you to know when we are saving which data and how we use them. As a company of civil law, we are subject to the Federal Data Protection Act (BDSG) and the Treaty for Telemedia (TMG) of the Federal Republic of Germany. We took technical and organisational measures to ensure that the regulations on data protection are followed by us, as well as external service providers who are working for us.
 
