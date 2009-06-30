@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the cwanswers.com privacy policy that was archived on 2008-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080911180345id_/http%3A//www.cwanswers.com/8921/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwanswers.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630025838id_/http%3A//www.cwanswers.com/8921/privacy_policy) for the most accurate reproduction.*
 
-# privacy policy - CWAnswers
+# Privacy Policy - CWAnswers
 
   
 Entry added by [ tom125](https://web.archive.org/doku.php?do=showuser&user=tom125)
 
 **tom125 also edited:**
 
-  * [privacy poli...](https://web.archive.org/8921/privacy_policy)
-  * [cwanswers](https://web.archive.org/8921/cwanswers)
-  * [elvis](https://web.archive.org/8921/elvis)
-  * [how-to](https://web.archive.org/8921/how-to)
-  * [incubus the ...](https://web.archive.org/8921/incubus_the_band)
 
 
 
