@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045038id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630092048id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # hippoJaw - Privacy Policy
 
@@ -64,6 +64,8 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+We will not utilise any customer tracking data collected for personal or business gain. Specifically, we will never use Adwords tracking data to influence or create/amend our own PPC campaigns.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Scoritz Limited, The Old Post House, Heath Road, Weybridge, Surrey, KT13 8TS UK.
 
