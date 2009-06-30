@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224114112id_/http%3A//www2.fi.edu/shared/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.edu privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630125316id_/http%3A//www2.fi.edu/shared/privacy.php) for the most accurate reproduction.*
 
 # The Franklin Institute
 
@@ -15,6 +15,8 @@ Users should be aware that the Institute contracts with several third-party vend
 The Franklin Institute provides visitors with an opportunity to make a contribution to our organization through an online donation page. When a visitor to the Institute website chooses to make an online donation to the Institute, they are linked to a website served by Blackbaud, Inc. Visitors to the Blackbaud website are subject to [**Blackbaud's policies**](https://dnbweb1.blackbaud.com/OPXREPHIL/Privacy.asp?cguid=424E6D5F%2DF432%2D4E5D%2D8594%2DEDB9FD38104A&sid=B8C444FC%2D2994%2D4338%2D81A4%2DA0F83A75C981) and should refer to Blackbaud's policies for the details of that policy. 
 
 The information that you supply during any of the above transaction processes is used to fulfill your order and will also be used to track and analyze transaction trends. 
+
+While visiting our Resources for Science Learning section, you may notice that we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **The Franklin Institute does not offer refunds on donations or ticket purchases to any Institute fundraising event.**
 
