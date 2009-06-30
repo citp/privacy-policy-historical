@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219095833id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630024532id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Oh My Crafts, Inc. - Privacy Policy
 
 |  |   
+---  
 ---  
 | | |   
 ---|---|---  
@@ -32,32 +33,29 @@ Oh My Crafts's approach to responsible information handling is founded on the ba
 
 |   
 | |   
-|   
----  
+    |   
 ---  
 | | |   
 ---|---|---  
 | 
 
-Sign up for our mailing lists to receive more information in the future. 
+Email Address:
 
-Email Address: Daily Specials  
+Daily Specials  
 Weekly Newsletter  
 OMC Cruise 2009
 
 |   
 | |   
----  
   
-**NOTE:** If you would like   
-to pay with PayPal,   
-please select
+[ ](http://www.ohmycrafts.blogspot.com/)
 
-**CHECK-OUT NOW**
+ [ ](http://twitter.com/ohmycrafts)
 
-and then select Paypal when
+[ ](http://www.facebook.com/pages/Lindon-UT/Oh-My-Crafts/31250764811?ref=ts)  
+[ ](http://www.facebook.com/pages/Lindon-UT/Oh-My-Crafts/31250764811?ref=ts)
 
-asked for payment method.  
+[ ](http://www.youtube.com/user/ohmycrafts)
 
+[ ](http://www.youtube.com/user/ohmycrafts)  
 
-[ ](http://www.addthis.com/bookmark.php)
