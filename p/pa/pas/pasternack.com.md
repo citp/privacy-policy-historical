@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pasternack.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517084114id_/http%3A//www.pasternack.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasternack.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630020311id_/http%3A//www.pasternack.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Pasternack Enterprises
 
@@ -50,6 +50,6 @@ Pasternack Enterprises grants you a limited license to access and make personal 
 You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of www.pasternack.com so long as the link does not portray Pasternack Enterprises, our products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any Pasternack Enterprises logo or other proprietary graphic or trademark as part of the link without express written permission. 
 
 **Copyright and Trademark Information**  
-The site and the content within the site are the property of Pasternack Enterprises Inc. and are protected by United States copyright laws and international treaty provisions. The compilation, organization and display of the content as well as all software and inventions used on and in connection with this Site are the exclusive property of Pasternack Enterprises Inc. These materials may not be copied or redistributed for any purposes without prior written permission from Pasternack Enterprises. Copyright© 1999-2005© by Pasternack Enterprises Inc., PO Box 16759 IRVINE , CA 92623 . All rights reserved. 
+The site and the content within the site are the property of Pasternack Enterprises Inc. and are protected by United States copyright laws and international treaty provisions. The compilation, organization and display of the content as well as all software and inventions used on and in connection with this Site are the exclusive property of Pasternack Enterprises Inc. These materials may not be copied or redistributed for any purposes without prior written permission from Pasternack Enterprises. Copyright© 1999-2009© by Pasternack Enterprises Inc., PO Box 16759 IRVINE , CA 92623 . All rights reserved. 
 
 Pasternack® and PE™ are registered trademarks of Pasternack Enterprises Inc. All other registered and / or unregistered trademarks displayed on this site constitute the intellectual property of their respective holders. 
