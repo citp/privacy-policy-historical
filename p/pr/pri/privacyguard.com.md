@@ -1,100 +1,56 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219115436id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fPrivacyPolicies%26SID%3DE1185422869549DB54371ce78c8bfa9d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630084942id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
 
 # PrivacyGuard
 
----  
-| 
+Privacy Policy
 
-|    
----  
-|   | [About Us](https://web.archive.org/Content.aspx?content=CustomerService%2fAboutUs&SID=E78705E9640C47A91802fd2927d082e0)  
----|---  
-  | [Contact Us](https://web.archive.org/Content.aspx?content=CustomerService%2fContactUs&SID=E78705E9640C47A91802fd2927d082e0)  
-  | [Frequently Asked Questions](https://web.archive.org/Content.aspx?content=CustomerService%2fFaqs&SID=E78705E9640C47A91802fd2927d082e0)  
-  | [Privacy Policies](https://web.archive.org/Content.aspx?content=CustomerService%2fPrivacyPolicies&SID=E78705E9640C47A91802fd2927d082e0)  
-  | [Terms and Conditions](https://web.archive.org/Content.aspx?content=CustomerService%2fTermsConditions&SID=E78705E9640C47A91802fd2927d082e0)  
-  | [Copyright Information](https://web.archive.org/Content.aspx?content=CustomerService%2fCopyright&SID=E78705E9640C47A91802fd2927d082e0)  
-  | [Fair Credit Reporting Act](https://web.archive.org/Content.aspx?content=CustomerService%2fFcraPolicy&SID=E78705E9640C47A91802fd2927d082e0)  
-|  |  [ Use of Financial Information Privacy Policy ](https://web.archive.org/Content.aspx?SID=E78705E9640C47A91802fd2927d082e0&content=CustomerService%2fFinInfoPolicy)
+ **[Online Privacy Policy](https://web.archive.org/Content.aspx?content=CustomerService%2fprivacy)**
 
-Online Privacy Policy 
+[**Privacy Policy FAQ's**](https://web.archive.org/Content.aspx?content=CustomerService%2fFinInfoFaqs)
 
-|   
----|---  
- Who We Are  
-  
-Trilegiant Corporation has created this privacy policy statement in order to demonstrate our firm commitment to our visitors' and customers' privacy. The following discloses our information gathering, use and dissemination practices for PrivacyGuard.com, and other Trilegiant Corporation related Web sites. Effective Date: This privacy policy was last updated on 01/06/05 and is subject to change at any time.
+**OUR OBJECTIVE**  
+Your Personal Information is important to our business and vital in serving your needs. We are committed to the responsible collection, management, disclosure, safekeeping, and use of such information. This Privacy Policy guides us in achieving that commitment and applies to all of our members and other customers in the United States. In order to remind you of our commitment, we will send you a copy of our Privacy Policy at least annually following our initial notice. 
 
-Trilegiant Corporation  
-100 Connecticut Ave  
-Norwalk, CT 06850  
-1-877-202-8828  
-Customer service e-mail: [service@privacyguard.com](mailto:service@privacyguard.com)  
-  
-   
- Security  
-  
-Securing your personal and non-personal information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we can not guarantee that communications between you and Trilegiant Corporation, and Trilegiant Corporation and you, will be free from unauthorized access by third parties, such as hackers. Only those Trilegiant Corporation employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies may be subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
+**PERSONAL INFORMATION COVERED BY POLICY**  
+By "Personal Information," we mean information we possess about you that identifies you personally and is not otherwise available to the public. This information may include general information (such as your name, address, phone number, birth date and Social Security number), transaction information (such as your service usage and products purchased through us) and financial information (such as income). 
 
-PrivacyGuard utilizes Standard SSL encryption on pages where secure information is transmitted over the Internet. We also use Verisign as our Certificate of Authority. If you would like more information on PrivacyGuard Verisign Certificate, click on the seal below.  
-  
-|  [ ](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.PRIVACYGUARD.COM&lang=en "Protected By VeriSign") | [](http://www3.cybertrust.com/cert_info/certified.shtml?CERTID=070506J800 "This link opens information in a pop-up window")  
----|---  
-In addition to employing these high-security measures, PrivacyGuard has undergone a rigorous certification process for Cybertrust Corporation's Web Certification program. This process examined in great detail every aspect of our security precautions, and included an on-site inspection of our facility for physical security and policy, plus a remote assessment of our potential vulnerabilities to web-based attacks. Cybertrust's certification is a continuous process, repeated and renewed annually, so that you know PrivacyGuard security measures are top notch and effective.  
-   
- Personal and Non-Personal Information  
-  
-When visiting the PrivacyGuard Web site (the "PrivacyGuard Web site") and other Trilegiant Corporation related sites (collectively with the PrivacyGuard Web site, the "Trilegiant Corporation Web sites"), in order to authenticate your identity and access your credit report from credit bureau databases, register to use certain services, respond to a survey or update your information you may be asked to provide certain personally identifiable information about yourself, such as your name, e-mail address, physical address, telephone number, date of birth, mother's maiden name, Social Security number or credit card number. The personal information that we request is to ensure that you are the only person that can access your credit report and other personal information. You may review and revise any personal information we have about you by sending a request to [service@privacyguard.com](mailto:service@privacyguard.com) or calling at 1-877-202-8828.
+**COLLECTION OF PERSONAL INFORMATION**  
+We may obtain your Personal Information from you or from third parties. We may collect such information from applications or other forms submitted by you, from your transactions with us, our affiliates or other parties, or from other sources. 
 
-We use personal information provided on registration forms to fulfill requests for credit reports and requests for other personal information and to contact you when necessary, such as when your request cannot be processed. Trilegiant Corporation may also use this information to notify consumers about new products or services and special promotions offered by Trilegiant Corporation or any of its affiliates. If you do not want to receive future promotional information from Trilegiant Corporation or any of its affiliates, you may let us know by going to [ https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=E78705E9640C47A91802fd2927d082e0) and entering your email address. Please allow up to 10 days for your email to be removed. From time to time, unless we are restricted by applicable contract, we may also share your Personal Information with trustworthy unaffiliated third parties, who offer products or services that we feel may be of interest to you. We value your privacy. If you would prefer not to receive marketing emails from PrivacyGuard in the future, go to [https://www.privacyguard.com/global/scripts/secure/EmailOptsUsers.asp](https://www.privacyguard.com/secure/EmailOptsUsers.aspx?SID=E78705E9640C47A91802fd2927d082e0) and enter your email address.  
-Please allow up to 10 days for your email to be removed.
+**OUR USE OF PERSONAL INFORMATION**  
+We use Personal Information to help us serve our members and other customers and to conduct our business. We use such information to perform business functions, such as servicing our members and other customers, paying claims and benefit amounts, advising our members and other customers of our existing products and services, and developing new products and services. 
 
-We may share Personal Information relating to your transactions or experience with us, with our affiliates, such as the other membership services operated by Trilegiant Corporation and its affiliates (including those existing currently or in the future).
+**SHARING OF PERSONAL INFORMATION WITH AFFILIATES**  
+We may provide Personal Information relating to your transactions with us or our experience with you to our affiliates (including those existing currently or in the future). Beginning October 1, 2008, we will not share any Personal Information with our affiliates for purposes of marketing their products and services unless we are otherwise permitted to do so by law. 
 
-We may also request non-personally identifiable information, such as annual income, buying preferences, or your age, also known as demographic and profile data, though this information is optional. We may use this data to improve and enhance your experience on the Trilegiant Corporation Web sites. For example, we may use certain preferences you provide to tailor your  
-experience at our site, such as showing you content and sending you notices concerning merchandise and services that may interest you. We may also share this information with others, such as advertisers interested in advertising on the Trilegiant Corporation Web sites, in aggregate, anonymous form, which means that the shared information will not contain nor be linked to any  
-personally identifiable information about you or any other person. 
+**SHARING OF PERSONAL INFORMATION WITH UNAFFILIATED PARTIES**  
+We may also share Personal Information with (x) unaffiliated third parties, including marketing partners, printers, billing agents, insurance companies, administrators and service providers, that assist us in performing our business functions and marketing our products, and as otherwise permitted or required by law, and (y) unaffiliated financial institutions under joint marketing agreements with us; in any such case, we will require such third parties to maintain the confidentiality of Personal Information disclosed to them. 
 
-**Your California Privacy Rights**  
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at [CARequests@trilegiant.com](mailto:CARequests@trilegiant.com) or write us at: Attn: Dept. SB-27, Trilegiant Corporation, 40 Oakview Dr., Trumbull, CT 06611-4724, with a reference to California Disclosure Information.
+We may also share Personal Information with certain other unaffiliated third parties, including non-financial service providers (such as retailers, airlines, and publishers), so that they may offer you products or services that we believe may be of interest to you. You have the opportunity to direct that your Personal Information not be disclosed to these third parties by completing and returning the form presented below.
 
-We will respond to such written requests within 30 days of following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.   
-  
-   
- Cookies  
-"Cookies" are pieces of information that may be placed on your computer by a Web site for the purpose of facilitating and enhancing your communication and interaction with that Web site. Almost all Web sites use cookies for these purposes. 
+**MAINTAINING THE SECURITY OF YOUR INFORMATION**  
+We have implemented security procedures which use reasonable measures to ensure the security, confidentiality, and integrity of Personal Information in our possession and guard against unauthorized access or use. We maintain physical, electronic, and procedural safeguards that comply with federal standards to safeguard Personal Information. We grant access to Personal Information only to those employees who need to use it in performing their job related duties and as otherwise set forth herein. Employees who violate our security procedures will be subject to disciplinary action, which may include termination. 
 
-We may use cookies (a) to customize your visit to the PrivacyGuard Web site, (b) to deliver content consistent with your stated interests and the manner in which you browse and/or buy on our site, (c) to save your password (if you have registered with us) so you don't have to re-enter it each time you visit our site, and (d) for other purposes to make your visit more convenient. 
+**TREATMENT OF INFORMATION OF FORMER MEMBERS AND CUSTOMERS**  
+We will continue to follow our Privacy Policy for your Personal Information even when you are no longer a member or other customer of our business. 
 
-At times, some of our advertisers or their ad serving and tracking providers may set cookies when you select their ad banner and some of our content providers or partners may also set cookies when you visit those portions of our site over which they have control. We do not receive the data collected by those cookies. In addition, we reserve the right to supplement the cookie data which we collect from you with information collected by cookies set by third parties in order to understand how you use the Internet and what products are of interest to you. The information that we receive from these third parties is only aggregate, non-personally identifiable information. 
+**CHANGES TO OUR PRIVACY POLICY**  
+This Privacy Policy supersedes all privacy policies and other similar standards previously issued by us. This Privacy Policy is subject to updates and other changes from time to time. In the event of any such changes, we will notify all of our members and other customers of such changes in the manner and to the extent required by law. 
 
-You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your Web browser preferences, in which case you may still use our site, but it may interfere with some of its functionality. PrivacyGuard does not use cookies to retrieve information from your computer for purposes that are unrelated to the PrivacyGuard Web site or your interaction with the PrivacyGuard Web site.  
-  
-   
- Internet Protocol (IP) Address  
-We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also be used to help identify you for the duration of a session and to gather broad demographic information. Your IP address will never be linked to any personally identifiable information unless you are in the process of making a purchase, in which case the link between this information will terminate upon your final purchase.   
-   
- Clickstream  
-As you use the Internet, a trail of electronic information is left at each Web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a Web site's server. Clickstream data can tell us the type of computer and browsing software you use, the address of the Web site from which you linked to the PrivacyGuard Web site, and, in some instances, your e-mail address. We may use clickstream data to determine how much time visitors spend on each page of our site, how visitors navigate throughout the site and how we may tailor our Web pages to better meet the needs of visitors. This information will only be used to improve the Trilegiant Corporation Web sites. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personal information.  
-   
- Consent to Processing   
-By providing any personal information to the PrivacyGuard Web site, you fully understand and unambiguously consent to the collection and processing of such information in the United States.   
-   
- Other Sites   
-The Trilegiant Corporation Web sites may contain links to other sites. Other sites may also reference or link to the Trilegiant Corporation Web sites. Trilegiant Corporation is not responsible for the privacy practices or the content of such other sites. 
+**SPECIAL NOTICE FOR VERMONT RESIDENTS**  
+If you are a resident of Vermont, we will not share your Personal Information with unaffiliated third parties except as permitted by law. We may share your name, contact information, and information about your transactions with us and our experience with you with unaffiliated financial institutions with which we have joint marketing agreements. We may also share your Personal Information with your consent. 
 
-**Special Notice For California Residents**  
-If you have a California mailing address, we will not share your Personal Information with unaffiliated third parties that are not financial institutions (other than as required or permitted by California and federal law).  
-In addition, you may request that we not share your Personal Information with unaffiliated financial institutions with which we have joint marketing agreements or with our affiliates, except as required or permitted by California and federal law.  
-If you do not want us to share your Personal Information with such parties, please print this page, check box below and follow the directions. Alternatively, you may make this request by e-mail by sending this information to [glbpolicy@trilegiant.com](mailto:glbpolicy@trilegiant.com). 
+**METHODS FOR OPTING OUT OF SHARING PERSONAL INFORMATION**  
+If you do not want us to share your Personal Information with unaffiliated third parties (other than those disclosures required or permitted by law), please check the box below and print your name and address in the space provided. Alternatively, you may make this request by e-mail by sending this information to: glbpolicy@trilegiant.com. If you have opted out previously, you do not need to opt out again. Also, your opt-out will apply to all membership services of Trilegiant Corporation in which you enroll using the same name and address that you use to opt out. 
 
-Please don't share my Personal Information with unaffiliated financial institutions with which you have joint marketing agreements or with your affiliates (other than those disclosures required or permitted by California and federal law). 
+**SPECIAL NOTICE FOR CALIFORNIA RESIDENTS**  
+If you have a California mailing address, we will not share your Personal Information with unaffiliated third parties that are not financial institutions (other than as required or permitted by California or federal law). In addition, you may request that we not share your Personal Information with unaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law. If you do not want us to share your Personal Information with such parties, please check the box below and enter your name, address, and member number in the space provided. Alternatively, you may make this request by e-mail by sending this information to: [glbpolicy@trilegiant.com](mailto:glbpolicy@trilegiant.com.)
 
-If you checked a box, please print your name and address in the space below and send it to us at Trilegiant Corporation, P.O. Box 111100, Trumbull, CT 06611-8100. We ask that you mail your request in a stamped envelope that does not include any other correspondence. Once your request has been received and processed, it will remain in effect until you request a change. 
+If you have checked any of the boxes above, please print your name, address, and member number in the space below and send it to us at **Trilegiant Corporation, P.O. Box 40383, Nashville,TN 37204-0383**.We ask that you mail your request in a stamped envelope that does not include any other correspondence. Once your request has been received and processed, it will remain in effect until you request a change.
 
-PRIVACY POLICY FORM 
+PRIVACY POLICY FORM
 
-| Name  
+Name  
 ---  
 Address 1(PO Box/Rural Route is ok) | Apt/Unit  
 |   
@@ -102,10 +58,4 @@ City | State | Zip Code
 |  |   
 Membership Number  
   
-To ensure your request is processed, please make sure to include all information with your submission.   
-  
-   
- Your Acceptance of this Policy   
-By using this site, you signify your assent to our Privacy Policy. If you do not agree to this policy, please do not use the PrivacyGuard Web site. This Privacy Policy supersedes all privacy policies and other similar standards previously issued by us. Since the privacy standards set forth herein are subject to updates and other changes from time to time, please note that this Privacy Policy is subject to change at any time. In the event of any such changes, we will notify all of our members and other customers of such changes in the manner to the extent required by law. Your continued use of our site following the posting of changes to these terms means you accept these changes.  
-Return to Top  
- 
+Please allow 30 days from our receipt of your request for processing. To ensure your request is processed, please make sure to include all information with your submission.
