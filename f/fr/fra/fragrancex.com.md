@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancex.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011643id_/http%3A//www.fragrancex.com/customerservice/ordering1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancex.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630045447id_/http%3A//www.fragrancex.com/customerservice/ordering1.html) for the most accurate reproduction.*
 
 # FragranceX.com - Order Information
 
@@ -55,9 +55,4 @@ Transfer of Personal Information outside the EEA. We process Personal Informatio
    
 Shop with confidence, we offer a 30 day money back guarantee.  
    
-| 
-
-  
-
-
-| 
+|  | 
