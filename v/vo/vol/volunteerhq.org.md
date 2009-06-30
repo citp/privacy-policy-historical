@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160434id_/http%3A//volunteerhq.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630103629id_/http%3A//www.volunteerhq.org/privacypolicy.html) for the most accurate reproduction.*
 
-# International Volunteer HQ
+# Privacy Policy | International Volunteer HQ
+
+You are here: [Home](https://web.archive.org/) › Privacy Policy
 
 International Volunteer HQ (IVHQ) collects personal information on its registration form and through email to enhance the quality of its programs. This information is collected solely for internal use within IVHQ and its partner organizations. Your email and other details will be passed onto other volunteers in the same intake as you, so you can make contact before you arrive in the host country. If you would prefer that this did not occur, please inform us. We take your privacy seriously and do all we can to protect it. IVHQ promises to keep all information about our clients totally private. We do not sell your emails or other personal information onto other online companies. This means that information about your education, career, exam results, hobbies, phone numbers, email addresses, postal addresses, and interests will be kept totally confidential.
 
