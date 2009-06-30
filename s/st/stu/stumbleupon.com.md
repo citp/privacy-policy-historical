@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2007-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071112045740id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630140559id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
 
-# StumbleUpon » Privacy Policy
+# Privacy Policy
 
-StumbleUpon, Inc. (" **StumbleUpon** ", " **us** " or " **we** ") respects the privacy of the visitors to the Website, the home page of which is located at http://www.stumbleupon.com.
+StumbleUpon, Inc. (" **StumbleUpon** ", " **us** " or " **we** ") respects the privacy of the visitors to the Website, the home page of which is located at [http://www.stumbleupon.com](http://www.stumbleupon.com/).
 
-This privacy policy (the " **Privacy Policy** ") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the StumbleUpon toolbar (the " **Toolbar** "). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service for the StumbleUpon Services (http://www.stumbleupon.com/terms.html) (" **Terms** **of** **Service** ") and any StumbleUpon Toolbar License Agreement (http://www.stumbleupon.com/terms.html).
+This privacy policy (the " **Privacy Policy** ") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Services and/or the StumbleUpon toolbar (the " **Toolbar** "). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Terms of Service for the StumbleUpon Services (<http://www.stumbleupon.com/terms.html>) (" **Terms** **of** **Service** ") and any StumbleUpon Toolbar License Agreement (<http://www.stumbleupon.com/terms.html>).
 
 " **Personal Information** " is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
@@ -14,7 +14,7 @@ We collect and use Personal Information and Anonymous Information as described i
 
 **_User Consent_**
 
-By submitting Personal Information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at http://www.stumbleupon.com/terms.html.
+By submitting Personal Information through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and you agree to the StumbleUpon Terms of Service located at <http://www.stumbleupon.com/terms.html>.
 
 **Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
 
@@ -37,13 +37,13 @@ The StumbleUpon Profile that you create when you sign up for our StumbleUpon Ser
 
 As you navigate our Website or use the StumbleUpon Services, certain information may also be collected passively, including your Internet protocol address, browser type, operating system, time of day, general physical location, and browser language. StumbleUpon uses this information only in aggregate to determine the composition of our userbase, and the load on our servers, so that we can serve you better.  StumbleUpon will use geographic information regarding your location to display your general location (e.g., city and state).  You may choose to display a different location by editing this information in your Member Profile.  This information is associated with a user identifier for the purpose of improving your stumble experience, for example to recommend websites that correspond to your profile and interests, including the websites of our advertisers. 
 
-If you are using or logged into the StumbleUpon Services, or are â€˜stumblingâ€™ with the Toolbar (or StumbleVideo), the Toolbar (or StumbleVideo) will transmit to StumbleUponâ€™s servers information regarding which pages you view when you visit another member's profile page, click 'stumble', or watch a video through the StumbleUpon Services. 
+If you are using or logged into the StumbleUpon Services, or are 'stumbling' with the Toolbar (or StumbleVideo), the Toolbar (or StumbleVideo) will transmit to StumbleUpon's servers information regarding which pages you view when you visit another member's profile page, click 'stumble', or watch a video through the StumbleUpon Services. 
 
 Periodically, the Toolbar contacts our servers to see if you are running the most current version of the Toolbar. If necessary, we will automatically provide you with the latest update to the Toolbar (Internet Explorer version only). 
 
 An " **Internet protocol address** " or " **IP Address** " is a number that is automatically assigned to your computer when you use the Internet.  In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session.  We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
 
-" **Cookies** " are small pieces of information that a website sends to your computerâ€™s hard drive while you are viewing a website.  Cookies can identify you as a unique user of the Website.  Upon your first use of the Toolbar, StumbleUpon sends a Cookie to your computer.  We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website.  Persistent Cookies can be removed by following Internet browser help file directions.  If you choose to disable Cookies, some areas of the Website may not work properly.
+" **Cookies** " are small pieces of information that a website sends to your computer's hard drive while you are viewing a website.  Cookies can identify you as a unique user of the Website.  Upon your first use of the Toolbar, StumbleUpon sends a Cookie to your computer.  We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website.  Persistent Cookies can be removed by following Internet browser help file directions.  If you choose to disable Cookies, some areas of the Website may not work properly.
 
 StumbleUpon uses Cookies to store your preferences. StumbleUpon will not disclose its Cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.  Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that the Toolbar may not function properly and you may not be able to utilize all of the functionality of the Services if you refuse cookies.  We may use information collected about you to deliver to you websites, advertisements, or other content we think may be of interest to you.
 
