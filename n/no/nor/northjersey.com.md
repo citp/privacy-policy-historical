@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northjersey.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231020636id_/http%3A//www.northjersey.com/aboutus/12562291.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northjersey.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630022329id_/http%3A//www.northjersey.com/aboutus/12562291.html) for the most accurate reproduction.*
 
-# NorthJersey.com: providing local news, sports and classifieds for Northern New Jersey!
+# North Jersey Local News, Sports, Classifieds, Jobs, Better Living - NorthJersey.com
 
 This policy applies only to information collected by **NorthJersey.com** online, as specified below, and does not govern or apply to information collected or used by North Jersey Media Group or its affiliates through other means. This policy does not cover any of **NorthJersey.com's** vendors or contractors, including advertisers. **NorthJersey.com** is not responsible for the content or the privacy policies of websites to which it may link. This policy may be modified, amended, or rescinded at any time without prior notice.
 
