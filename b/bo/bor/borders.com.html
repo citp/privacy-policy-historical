@@ -1,1608 +1,670 @@
-<!--The following is the downloaded HTML source of the borders.com privacy policy that was archived on 2008-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080626072528id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the borders.com privacy policy that was archived on 2009-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090630094424id_/http%3A//www.borders.com/online/store/CustomerServiceView_privacypolicy) for the most accurate reproduction.-->
 
-<html><head><title>Amazon.com:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Privacy Policy - Borders - Books, Music and Movies</title>
+	<meta name="description" content="Buy books, DVDs, and music CDs online for less, right here at Borders.com!">
+	<meta name="Keyword" content="books, movies, music, dvds, cds, dvd movies, buy movies, music cds, buy books, buy music, buy dvds, buy books online, buy music online, buy cds">
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="/online/N470542786/bundles/common.css">
+<link rel="stylesheet" type="text/css" media="print" href="/online/506770040/bundles/print.css">
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/online/N376359411/bundles/ie.css"></link>
+<![endif]-->
+
+	
+<script language="javascript" type="text/javascript">
+	var s_account='brdrsbordersstorescomprod';
+</script>
+
+<script type="text/javascript" src="/online/N1839627405/js/base.js"></script>
 
 
-Help&nbsp;&gt;&nbsp;Privacy &amp; Security&nbsp;&gt;&nbsp;Privacy Notice</title>
+    <script type="text/javascript" defer="defer">
 
-
-<style type="text/css">
-
-/*////////////////////////////////////////*/
-/*           FLEXI BOX STYLES             */
+		/*
+		this variable (wishlistCountMini) is used to evaluate if maximum number of
+		wishlist items has been reached on the client side
+		used in: MiniShipCartDisplay.jsp and wishlist.js 
+		*/
+		var wishlistCountMini = 0;
+		
+		function clearText(obj){
+			obj.value = "";
+		}
+		
+		function Set_Cookie( name, value, expires, path, domain, secure ) 
+		{
+		/* set time, it's in milliseconds */
+		var today = new Date();
+		today.setTime( today.getTime() );
+		
+		/*
+		if the expires variable is set, make the correct 
+		expires time, the current script below will set 
+		it for x number of days, to make it for hours, 
+		delete * 24, for minutes, delete * 60 * 24
+		*/
+		if ( expires )
+		{
+		expires = expires * 1000 * 60 * 60 * 24;
+		}
+		var expires_date = new Date( today.getTime() + (expires) );
+		
+		document.cookie = name + "=" +escape( value ) +
+		( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+		( ( path ) ? ";path=" + path : "" ) + 
+		( ( domain ) ? ";domain=" + domain : "" ) +
+		( ( secure ) ? ";secure" : "" );
+		}
+		
+		function Get_Cookie( name ) {
+			
+		var start = document.cookie.indexOf( name + "=" );
+		var len = start + name.length + 1;
+		if ( ( !start ) &&
+		( name != document.cookie.substring( 0, name.length ) ) )
+		{
+		return null;
+		}
+		if ( start == -1 ) return null;
+		var end = document.cookie.indexOf( ";", len );
+		if ( end == -1 ) end = document.cookie.length;
+		return unescape( document.cookie.substring( len, end ) );
+		}
+		
+		/* copied over from the former globalNavigation.jsp */
+		function storeCurrentURL()
+		{
+			var continueBrowsingURL = window.location;
+			createCookie('borders.oldBrowsingURL',continueBrowsingURL,1);
+		}
+	</script>		
+</head>
  
-.cs-wrapper {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: small;
-        }
-  /* Top Right */ 
-.cs-flexi-top {
-        background: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-box._V47082172_.gif) no-repeat 100% 0;
-        margin:0 0 0 10px;
-        height:8px;
-        }
- /* Top Left */ 
-.cs-flexi-top div {
-        background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-box._V47082172_.gif) no-repeat 0 0;
-        height: 8px;
-        width: 10px;
-        position:relative;
-        left: -10px;
-        }
- /* Bottom Right */ 
-.cs-flexi-bottom {
-        background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-box._V47082172_.gif) no-repeat 100% 100%;
-        margin: 0 0 0 10px;
-        height: 10px;
-        }
- /* Bottom Left */ 
-.cs-flexi-bottom div {
-        background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-box._V47082172_.gif) no-repeat 0 100%;
-        height: 10px;
-        width: 10px;
-        position:relative;
-        left: -10px;
-        }
- /* Left Border */ 
-.cs-flexi-l {
-        background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-border._V47060183_.gif) repeat-y 0 0;
-                padding: 0 0 0 1px;
-        }
- /* Right Border */ 
-.cs-flexi-r {
-        background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/flexi-border._V47060183_.gif) repeat-y 100% 0;
-        padding: 0 1px 0 0;
-        }
- /* flexi top with blue gradient */
-/*top right*/ 
-.cs-flexi-top-g-blue {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/background/flexi-box-g-blue._V47060710_.gif) no-repeat 100% 0;
-	margin:0 0 0 10px;
-	height:8px;
+  
+ <body id="no_sub_Nav">
+
+
+<div id="skip_points_page" class="skip_points">
+  
+  <a href="#content_menu">Skip to content menu</a> <a href="#content">Skip to content</a>
+  
+  <a href="#search">Skip to search</a> <a href="#signin">Skip to sign in</a> 
+</div>
+
+
+
+
+<script defer="defer">
+	function fixIE6flicker(fix) {
+		try {
+			document.execCommand("BackgroundImageCache", false, fix);
+		} catch(err) { }
 	}
- /*top left*/	 
-.cs-flexi-top-g-blue div {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/background/flexi-box-g-blue._V47060710_.gif) no-repeat 0 0;
-	height:8px;
-	width: 10px;
-	left: -10px;
-	position:relative;
-	overflow:hidden;
-	}
- /*gradient fill for heading expansion*/	 
-.cs-flexi-gradient-blue {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/background/blue-gradient._V47082045_.gif) repeat-x 0 0;
-	margin:0 0 0 0;
-	padding:0 0 3px 0;
-	display:inline;
-	border-bottom: 1px solid #999;
-	}
+	addLoadEvent(function() {fixIE6flicker(true)});
+	addLoadEvent(function() {loadUserName()});
+	addLoadEvent(function() {updateMiniCart()});
+</script>
+
+
+
+<div id="bg_container" style="background:transparent url(/wps/wcm/myconnect/35c6bb004871929cae01efdac159f99f/Borders_tile.jpg?MOD=AJPERES) repeat-x scroll 0% 0%;"> 
+<div id="container">
+	<div id="main">
+		<div id="content_section">
+	        <div id="content_wrapper">
+	     		<!--[if !IE]> START: page_header <![endif]-->
+<!--[if !IE]> START: page_header <![endif]-->
+<div id="page_header" class="no_sub_Nav">
+
+			<div id="nav_utility" style="height: 26px;">            <map id="lifestylemap" name="lifestylemap">                        <area id="lifeStyleLink" shape="rect" coords="0,0,190,26" alt="Free Shipping" href="/online/store/CustomerServiceView_shipping#free">                      <area id="lifeStyleLink2" shape="rect" coords="193,1,497,26" alt="Pre-order The Lost Symbol" href="/online/store/TitleDetail?sku=0385504225">            </map>            <img usemap="#lifestylemap" src="/wps/wcm/myconnect/63e87d804963ad3db33cf332c3e32c02/lifestyle_btn_danbrown.gif?MOD=AJPERES"> </div><script type="text/javascript">var kioskURL="/online/store/CustomerServiceView_shipping#free";var kioskURL2="/online/store/TitleDetail?sku=0385504225";var cookieVal=document.cookie;if (cookieVal.indexOf("kiosk=Y")>-1) {            var anchorObj=document.getElementById("lifeStyleLink");            anchorObj.setAttribute('href',kioskURL);            var anchorObj2=document.getElementById("lifeStyleLink2");            anchorObj2.setAttribute('href',kioskURL2);};</script>			            <div id="logo" style="background:transparent url(/wps/wcm/myconnect/35c6bb004871929cae02efdac159f99f/borderslogo27.gif?MOD=AJPERES) no-repeat scroll 0% 0%;">              <h1><a href="http://web.archive.org/online/store/Home" id="BordersLogoA"><b>Borders Stores</b></a></h1>            </div>           		<!-- START: Search Module -->
  
-/* END OF FLEXI BOX STYLES */
+ <form method="get" id="bordersearch" action="http://www.borders.com/online/store/SearchResults" style="border:1px;" onsubmit="return validateTerm();">
+ <div class="search">
+ 	<a name="search" title="Search Here"></a>
+                  <h1>
+                    <label for="Search">search</label>
+                  </h1>
+                      
+							<input name="keyword" id="keywordId" onfocus="this.select();clearErrMsg();" maxlength="64">
+						 
+                      <select name="type" id="selectType">
+					       <option value="0">All Media</option>
+					       <option value="1">Books</option>
+					       <option value="4">&nbsp;&nbsp;-&nbsp;Title</option>
+					       <option value="5">&nbsp;&nbsp;-&nbsp;Author</option>
+					       <option value="6">&nbsp;&nbsp;-&nbsp;ISBN</option>
+					       <option value="7">&nbsp;&nbsp;-&nbsp;Used</option>
+					       <option value="2">Music</option>
+					       <option value="8">&nbsp;&nbsp;-&nbsp;Title</option>
+					       <option value="9">&nbsp;&nbsp;-&nbsp;Artist</option>
+					       <option value="10">&nbsp;&nbsp;-&nbsp;Song</option>
+					       <option value="11">&nbsp;&nbsp;-&nbsp;UPC</option>
+					       <option value="12">&nbsp;&nbsp;-&nbsp;Used</option>
+					       <option value="13">Classical Music</option>
+					       <option value="14">&nbsp;&nbsp;-&nbsp;Composer</option>
+					       <option value="15">&nbsp;&nbsp;-&nbsp;Conductor</option>
+					       <option value="16">&nbsp;&nbsp;-&nbsp;Work</option>
+					       <option value="17">&nbsp;&nbsp;-&nbsp;Catalog Number</option>
+					       <option value="3">DVDs</option>
+					       <option value="18">&nbsp;&nbsp;-&nbsp;Title</option>
+					       <option value="19">&nbsp;&nbsp;-&nbsp;Director</option>
+					       <option value="20">&nbsp;&nbsp;-&nbsp;Actor</option>
+					       <option value="21">&nbsp;&nbsp;-&nbsp;UPC</option>
+					       <option value="22">&nbsp;&nbsp;-&nbsp;Used</option>
+      				 </select>
+                       <span class="go"><a href="javascript:evalSearchField();"><b>go</b></a></span>
+					   <p><span class="redsearchmsg" id="searchmsgerror" style="display:none;color: #debe81;">Please enter a search term</span>&nbsp;&nbsp;<a href="http://www.borders.com/online/store/AdvancedSearch?type=0">advanced search</a></p>
+                     </div>  
+  			<input type="hidden" name="simple" value="1" id="simple">
+   </form>
+   
+   <form method="get" id="bordersearchnew" action="http://www.borders.com/online/store/SearchResults" style="border:1px;" onsubmit="return validateTerm();">
+     <input type="hidden" id="newsearchid">
+     <input type="hidden" id="newSearchType"> 
+	 <input type="hidden" id="fromHeaderId" name="fromHeader">                          
+   </form>
+                     
+ <script type="text/javascript">
+ 	
+			var type = 0;
+			var advanced = false;
+			
 
-/*  Caret images */
-
-.cs-caret-list {
-        background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/icons/cs-caret._V47082060_.gif);
-                background-position:1.1em 1px;
-                background-repeat:no-repeat;
-                font-size:.98em;
-                margin:0 0 0 0;
-                padding:0 .5em .25em 2.1em;
-                line-height:1.2em;
-        }
-.cs-double-caret-list {
-        background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/icons/cs-double-caret._V47060605_.gif);
-        background-position:1.1em 2px;
-        background-repeat:no-repeat;
-        font-size:.98em;
-        margin:0 0 0 0;
-        padding:0 .5em .25em 2.1em;
-        line-height:1.2em;
-        font-style:italic;
-        font-weight:bold;
-    }
-
-.cs-list-item {
-	font-size:.85em;
-	margin:0 0 0 0;
-	padding:0 .5em .25em 3.2em;
-	line-height:1.4em;
-	background-image: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/icons/cs-caret._V47082060_.gif);
-	background-repeat: no-repeat;
-	background-position: 2.35em .3em;
-        }
-		
-		
-.cs-list-item a, .cs-list-item a:link, .cs-list-item a:visited{
-	text-decoration:none;
-	color:#069;
-        }
-		
-.cs-list-item a:hover, .cs-list-item a:active, .cs-list-item a:focus{ 
-		text-decoration:underline;
-        color: #CC6600;
-}
-
-/*  end Carets */
-
-/* Tabs */
-
-#cs-tabs li {
-      float:left;
-      background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-left-both._V43328773_.gif) no-repeat left top;
-      margin:1px 0 0 0;
-      padding:0 0 0 9px;
-      }
-#cs-tabs a {
-      float:left;
-      display:block;
-      background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-right-both._V43334027_.gif) no-repeat right top;
-      padding:5px 15px 4px 6px;
-      text-decoration:none;
-      font-weight:bold;
-      color:#333;
-      }
-
-
-/* end Tabs *?
-
-/* New PhoneTab Styles */
-.cs-check {
-        background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/icons/cs-check._V18246285_.gif);
-                background-position:1.1em 1px;
-                background-repeat:no-repeat;
-                font-size:1em;
-                margin:.5em 0 0 0;
-                padding:0 .5em .25em 2.1em;
-                line-height:1.2em;
-        }
-.cs-caret-check {
-        background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/icons/cs-caret._V47082060_.gif);
-                background-position:1.1em 1px;
-                background-repeat:no-repeat;
-                font-size:1em;
-                margin:.5em 0 0 0;
-                padding:0 .5em .25em 2.1em;
-                line-height:1.2em;
+	try{
+		if(!advanced){
+			if(type ==2){
+				document.getElementById("selectType").selectedIndex = 6;
+			}else if(type==3){
+				document.getElementById("selectType").selectedIndex = 17;
+			}else{
+				document.getElementById("selectType").selectedIndex = type;
+			}
+		}else{
+			document.getElementById("selectType").selectedIndex = type;
+		}
 	}
-
-.cs-box-top {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-bkg._V6158745_.gif) no-repeat 100% 0;
-	margin:0 0 0 22px;
-	height:22px;
-	}
-	
-
-.cs-box-top div {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-bkg._V6158745_.gif) no-repeat 0 0;
-	height: 24px;
-	width: 22px;
-	position:relative;
-	left: -22px;
-	}
-	
-
-.cs-box-bottom {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-bkg._V6158745_.gif) no-repeat 100% 100%;
-	margin: 0 0 0 22px;
-	height: 24px;
-	}
-	
-
-.cs-box-bottom div {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-bkg._V6158745_.gif) no-repeat 0 100%;
-	height: 24px;
-	width: 22px;
-	position:relative;
-	left: -22px;	
-	}
-	
-
-.cs-box-l {
-	padding: 0 0 0 22px;
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-left._V6158745_.gif) repeat-y 0 0;
-	}				
-	
-.cs-box-r {
-	padding: 0 22px 0 0;
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-right._V6158744_.gif) repeat-y 100% 0;	
-	}
-
-.cs-box-top-alert {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-bkg._V4628125_.gif) no-repeat 100% 0;
-	margin:0 0 0 22px;
-	height:22px;
-	}
-	
-
-.cs-box-top-alert div {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-bkg._V4628125_.gif) no-repeat 0 0;
-	height: 24px;
-	width: 22px;
-	position:relative;
-	left: -22px;
-	}
-	
-
-.cs-box-bottom-alert {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-bkg._V4628125_.gif) no-repeat 100% 100%;
-	margin: 0 0 0 22px;
-	height: 24px;
-	}
-	
-
-.cs-box-bottom-alert div {
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-bkg._V4628125_.gif) no-repeat 0 100%;
-	height: 24px;
-	width: 22px;
-	position:relative;
-	left: -22px;	
-	}
-	
-
-.cs-box-l-alert {
-	padding: 0 0 0 22px;
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-left._V4628125_.gif) repeat-y 0 0;
-	}				
-	
-
-.cs-box-r-alert {
-	padding: 0 22px 0 0;
-	background:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-soft-alert-right._V4628124_.gif) repeat-y 100% 0;	
-	} 
-
-
-.cs-alert-display {
-	background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-exclaim._V4628124_.gif);
-	background-repeat:no-repeat;
-}
-.cs-contact-display {
-	background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/ai/cs-chow._V1711036_.gif);
-	background-repeat:no-repeat;
-}
-
-#contactHistoryWrapper .cs-alert-box {
-	background-color:#ffd;
-	font-size:.86em;
-	line-height:1.5em;
-	padding:.5em 1em .5em 0;
-}
-</style>
-  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/layout-1._V20425044_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/help/help-search-2._V30887847_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/browser-hacks-1._V20423107_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/cs-content-11._V256205331_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/cs-wrapper-1._V20423132_.css" media="screen">  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/help/css/help/help-content-3._V13806411_.css" media="screen">
-<style type="text/css">
-.csBottomNavLinks {font-family: verdana,arial,helvetica,sans-serif; font-size: 13px; padding-top: 5px; padding-bottom: 5px;}
-.csBottomNavLinks table {font-family: verdana,arial,helvetica,sans-serif; font-size: 13px;}
-</style></head><body><!-- JSF Bootstrap N/A -->
-
-
-
-  
-  
-  <!-- HCVSPKMMC -->
-
-
-
-
-
-
-
-
-  
-  
-  <!-- Tilu -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript"><!--
-  function shiftImage(){}
---></script>
-
-  <link href="http://z-ecx.images-amazon.com/images/G/01/nav2/gamma/navbarCSS/navbarCSS-navbar-12186._V256884938_.css" type="text/css" rel="stylesheet">
-
-<style type="text/css"><!--
-
-
-#navbar .tiny,
-.navShopAllPopLevel .tiny,
-.navShopAllPopNonRootLevel .tiny
-{
-  font-size: x-small;
-}
-
-#navListButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navListButtonStates-sm._V995414_.gif);
-}
-
-.navListButtonPanel a:hover, .navListButtonPanel a:focus, .navListButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navListButtonStates-sm._V995414_.gif) 0 -38px no-repeat;
-}
-
-#navListNonJSButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navListNonJSButtonStates-sm._V512115_.gif);
-}
-
-.navListNonJSButtonPanel a:hover, .navListNonJSButtonPanel a:focus, .navListNonJSButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navListNonJSButtonStates-sm._V512115_.gif) 0 -38px no-repeat;
-}
-
-#navbar .navCrossshopGoldbox
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopGoldbox._V1615196_.gif);
-}
-
-#navbar .navCrossshopOpen .navCrossshopGoldbox
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopGoldboxOpen._V1833050_.gif);
-}
-
-#navSAGatewayButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesGw._V1615199_.gif);
-}
-
-#navSAGatewayButtonNoSubnav
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNoSubnavNonJS._V521911_.gif);
-}
-
-.navSAGatewayButtonPanel a:hover, .navSAGatewayButtonPanel a:focus, .navSAGatewayButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesGw._V1615199_.gif) 0 -38px no-repeat;
-}
-
-.navSAGatewayButtonNoSubnavPanel a:hover, .navSAGatewayButtonNoSubnavPanel a:focus, .navSAGatewayButtonNoSubnavPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNoSubnavNonJS._V521911_.gif) 0 -38px no-repeat;
-}
-
-.navSAButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNew._V1615198_.gif);
-}
-
-.navSAButtonNoSubnav
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNoSubnav._V1615198_.gif);
-}
-
-.navSAButtonPanel a:hover, .navSAButtonPanel a:focus, .navSAButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNew._V1615198_.gif) 0 -38px no-repeat;
-}
-
-.navSAButtonNoSubnavPanel a:hover, .navSAButtonNoSubnavPanel a:focus, .navSAButtonNoSubnavPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navShopAllButtonStatesNoSubnav._V1615198_.gif) 0 -38px no-repeat;
-}
-
-.navExpandedChildLITop
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesTop._V1972163_.gif) 0px 0px no-repeat;
-}
-
-.navExpandedChildLITopInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesTop._V1972163_.gif) -180px 0 no-repeat;
-}
-
-.navExpandedChildLIMiddle
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesMiddle._V1972162_.gif) 0px 0px no-repeat;
-}
-
-.navExpandedChildLIMiddleInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesMiddle._V1972162_.gif)  -180px 0 no-repeat;
-}
-
-.navExpandedChildLIBottom
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesBottom._V16359844_.gif) 0px 0px no-repeat;
-}
-
-.navExpandedChildLIBottomInactive
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuStatesBottom._V16359844_.gif) -180px 0 no-repeat;
-}
-
-.navSAExpandedNonJSBottomBorder
-{
-  background:url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSaMenuNonJSbottom._V1972189_.gif);
-}
-
-#navbar .navSearchBar
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSearchBkg._V1615192_.gif);
-}
-
-#navbar .navSearchLeft
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSearch._V1615193_.gif);
-}
-
-#navGoButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navGoButtonStates._V1615192_.gif);
-}
-
-#navGoButton input:hover, #navGoButton input:focus, #navGoButton input:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navGoButtonStates._V1615192_.gif) 0 -38px no-repeat;
-}
-
-#navCartEmptyButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartEmptyButtonStates-sm._V998674_.gif);
-}
-
-.navCartEmptyButtonPanel a:hover, .navCartEmptyButtonPanel a:focus, .navCartEmptyButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartEmptyButtonStates-sm._V998674_.gif) 0 -38px no-repeat;
-}
-
-#navCartFullButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCart100ButtonStates-sm._V990718_.gif);
-}
-
-.navCartFullButtonPanel a:hover, .navCartFullButtonPanel a:focus, .navCartFullButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCart100ButtonStates-sm._V990718_.gif) 0 -38px no-repeat;
-}
-
-#navCartErrorButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartErrorButtonStates-sm._V998674_.gif);
-}
-
-.navCartErrorButtonPanel a:hover, .navCartErrorButtonPanel a:focus, .navCartErrorButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartErrorButtonStates-sm._V998674_.gif) 0 -38px no-repeat;
-}
-
-#navCartNonJSButton
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartNonJSButtonStates-sm._V1615190_.gif);
-}
-
-.navCartNonJSButtonPanel a:hover, .navCartNonJSButtonPanel a:focus, .navCartNonJSButtonPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartNonJSButtonStates-sm._V1615190_.gif) 0 -38px no-repeat;
-}
-
-#navCartL
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartButtonLStates-sm._V1615194_.gif);
-}
-
-.navCartCPanel
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartButtonCStates._V1615189_.gif);
-}
-
-#navCartR1
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartButtonR1DigitStates-sm._V995875_.gif);
-}
-
-#navCartR2
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartButtonR2DigitStates-sm._V990712_.gif);
-}
-
-#navCartFlyItemPriceBarL
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartItemPriceBarL._V1833049_.gif) no-repeat scroll center left;
-}
-
-#navCartFlyItemPriceBarM
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartItemPriceBarM._V1833048_.gif) repeat-x;
-}
-
-#navCartFlyItemPriceBarR
-{
-  background: #f3f2e4 url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCartItemPriceBarR._V1833048_.gif) no-repeat scroll center right;
-}
-
-#navAmazonLogo
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navAmazonLogoPrime._V1833376_.gif);
-}
-
-#navbar .navAmazonLogoPanel a:hover, #navbar .navAmazonLogoPanel a:focus, #navbar .navAmazonLogoPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navAmazonLogoPrime._V1833376_.gif) 0 -48px no-repeat;
-}
-
-#navAmazonPrimeLogo
-{
-  background: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navAmazonLogoPrime._V1833376_.gif)  0px -96px;
-}
-
-#navbar .navAmazonPrimeLogoPanel a:hover, #navbar .navAmazonPrimeLogoPanel a:focus, #navbar .navAmazonPrimeLogoPanel a:active
-{
-  background: transparent url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navAmazonLogoPrime._V1833376_.gif) 0 -144px no-repeat;
-}
-
-#navbar .navCrossshopFirstTab .navCrossshopTabLeft
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopLeftEndCapW._V16401584_.gif);
-}
-
-#navbar .navCrossshopFirstTab .navCrossshopOpen .navCrossshopTabLeft
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopLeftEndCapOpenW._V1833050_.gif);
-}
-
-#navbar .navCrossshopOpen .navCrossshopTabLeft
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopLeftEndCapOpenX._V1833045_.gif);
-}
-
-#navbar .navCrossshopOpen .navCrossshopTabMid
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopTopOpen._V1833044_.gif);
-}
-
-#navbar .navCrossshopOpen .navCrossshopTabRight
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopRightEndCapOpenNoArrow._V1833044_.gif);
-}
-
-#navbar .navCrossshopBtn
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopArrowButton._V1615196_.gif);
-}
-
-#navbar .navCrossshopOpen .navCrossshopBtn
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopArrowButtonOpen._V467555_.gif);
-}
-
-#navbar #navCrossshopRowRightEndCap
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCrossshopRightEndCap._V1615170_.gif);
-}
-
-#navCategoryBtn
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navCategoryButtonStates2._V1972188_.gif);
-}
-
-#navSubnav .navSubnavMid
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSubnavDivider._V1972191_.gif);
-}
-
-#navSubnav .navSubnavRight
-{
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/images/orangeBlue/navSubnavRightSide._V1972191_.gif);
-}
---></style>
-
-
-
-
-
-<div id="navbar">
-
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-
-<tbody><tr><td width="100%">
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-    <td rowspan="2" align="left" width="180" valign="bottom"><ul id="navAmazonLogo">
-     <li class="navAmazonLogoPanel"><a href="/gp/homepage.html"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="175" alt="amazon.com" height="48" border="0"></a></li>
-</ul></td>
-    <td width="100%" align="left" height="26">
-      <table width="100%" id="welcomeRowTable" height="26" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-        <td align="left" valign="bottom" class="navGreetingBkg" nowrap="" height="26"><div id="navidWelcomeMsg" style="padding-bottom:3px;padding-left:12px" width="100%">
-      <span class="navGreeting">Hello.</span>
-      <span class="navMessage">Sign in to get <a href="/gp/yourstore?ie=UTF8&amp;signIn=1">personalized recommendations</a>. New customer? <a href="/gp/flex/sign-out.html?ie=UTF8&amp;path=%2Fgp%2Fyourstore&amp;signIn=1&amp;useRedirectOnSuccess=1&amp;action=sign-out">Start here</a>.</span>
-</div></td>
-      <td align="left">&nbsp;</td>
-        <td id="navSwmSlot" align="right" valign="center" height="26"><style type="text/css">
-  #navSwmDWPop,
-  #navSwmDWPop th,
-  #navSwmDWPop td,
-  #navSwmDWPop div,
-  #navSwmDWPop li,
-  #navSwmDWPop span,
-  #navSwmDWPop a,
-  #navSwmDWPop a:link,
-  #navSwmDWPop a:visited,
-  #navSwmDWPop a:active,
-  #navSwmDWPop a:hover,
-  #navSwmDWPop em,
-  #navSwmDWPop i,
-  #navSwmDWPop strong,
-  #navSwmDWPop b,
+	catch(e){}
+	function validateTerm(){
+	var term = document.getElementById("keywordId").value;
+		if( term != null && term != "" ){
+			evalSearchField();
+			return false;
+			}
+		else{
+			return false;
+			}
+		}
+function evalSearchField(){
+	 var textVal = document.getElementById('keywordId').value ;
+	 var evalVal = escape("");
+  if(textVal == "" || textVal=="What are you looking for?"){
+  document.getElementById("searchmsgerror").style.display="";
+ }else{ 
+  var selectCombo = document.getElementById("selectType");
+  if((selectCombo.value == 0)||(selectCombo.value == 1)||(selectCombo.value == 2)||(selectCombo.value == 3))
   {
-    font-family:Arial,sans-serif;text-decoration:none;
-  }
-  #navSwmMainHeading {
-    font-family: Arial,sans-serif; font-size: 11.5px; font-weight: bold;
-    color: #0A88E5;
-    white-space: nowrap;
-    text-decoration: none;
-  }
-  
-  #navSwmPopMainHeading {
-    font-family: Arial,sans-serif; font-size: 11.5px; font-weight: bold;
-    color: #0A88E5;
-    white-space: nowrap;
-    text-decoration: none;
-  }
-
-  a:active#navSwmMainHeading,
-  a:hover#navSwmMainHeading,
-  a:focus#navSwmMainHeading {
-    color: #D12727;
-    text-decoration: underline;
-    font-family: Arial,sans-serif; font-size: 11.5px; font-weight: bold;
-  }
-
-  a:hover#navSwmPopMainHeading,
-  a:focus#navSwmPopMainHeading,
-  a:active#navSwmPopMainHeading {
-    color: #D12727;
-    text-decoration: underline;
-    font-family: Arial,sans-serif; font-size: 11.5px; font-weight: bold;
-  }
-
-
-  #navSwmSubHeading {
-    font-family: Arial,sans-serif; font-size: 10.5px; font-weight: bold;
-    color: #E47911;
-    white-space: nowrap;
-    text-decoration: none;
-  }
-  
-  #navSwmPopSubHeading {
-    font-family: Arial,sans-serif; font-size: 10.5px; font-weight: bold;
-    color: #E47911;
-    white-space: nowrap;
-    text-decoration: none;
-  }
-  
-  a:active#navSwmSubHeading,
-  a:hover#navSwmSubHeading,
-  a:focus#navSwmSubHeading {
-    color: #E47911;
-    text-decoration: underline;
-    font-family: Arial,sans-serif; font-size: 10.5px; font-weight: bold;
-  }
-
-  a:hover#navSwmPopSubHeading,
-  a:focus#navSwmPopSubHeading,
-  a:active#navSwmPopSubHeading {
-    color: #E47911;
-    text-decoration: underline;
-    font-family: Arial,sans-serif; font-size: 10.5px; font-weight: bold;
-  }
- 
-
-  #navSwmMainHdgDiv {
-    padding-bottom: 0px;
-  }
-  
-  #navSwmMainHdgDiv a,
-  #navSwmMainHdgDiv a:link,
-  #navSwmMainHdgDiv a:visited {
-    font-family: Arial,sans-serif; font-size: 11.5px; font-weight: bold;
-  }
-
-  #navSwmSubHdgDiv {
-    padding-bottom: 0px;
-  } 
-
-  #navSwmSubHdgDiv a,
-  #navSwmSubHdgDiv a:link,
-  #navSwmSubHdgDiv a:visited {
-    font-family: Arial,sans-serif; font-size: 10.5px; font-weight: bold;
-  }
-  #navSwmDWPop {
-    margin-top: -4px;
-  }
-  #navSwmDWPopHdgDiv {
-    margin-top: 1px;
-  }
- 
-</style>
-
-<table id="navSwmSkedPop" border="0" cellspacing="0" cellpadding="0" height="100%" width="100%">
-  <tbody><tr>
-    <td align="right" valign="center">
-      <div id="navSwmMainHdgDiv">
-          <a id="navSwmMainHeading" href="/gp/subs/primeclub/signup/main.html/">
-            Get FREE Two-Day Shipping Now
-          </a>
-      </div>
-    </td>
-    <td align="left" valign="center" width="25" rowspan="1"><div id="navSwmFlyoutTrigger" style="display:none; height:13px; width:13px; margin:2px 3px 3px 3px;">
-      <a name="navSwmSkedPop|he|navSwmSkedPop_content"><img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/kindle/navKindleArrowButton._V11334784_.gif" width="13" alt="" height="13" border="0"></a></div>
-    </td>
-  </tr>
-</tbody></table></td>
-    </tr>
-   </tbody></table>
-  </td>
-</tr>
-
-<tr>
-<td width="100%" colspan="2" id="navidCrossshop" height="22" align="left" valign="top">
-  <table width="100%" height="22" valign="top" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr id="navCrossshopRow">
-        <td class="navCrossshopFirstTab" height="22"><table id="navCSYourAmazonHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/yourstore/home" style="vertical-align:baseline; padding-top:2 "><img class="" id="navCSYourAmazonHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" style="vertical-align:-5;">Your Amazon.com</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSTodaysDealsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/goldbox" style="vertical-align:baseline; padding-top:2 "><img class="navCrossshopGoldbox" id="navCSTodaysDealsHotspot_icon" height="19" width="21" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" style="vertical-align:-5;">Today's Deals</a>
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSFindGiftsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/gift-central" style="vertical-align:baseline; padding-top:2 "><img class="" id="navCSFindGiftsHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" style="vertical-align:-5;">Gifts &amp; Wish Lists</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-        <td height="22"><table id="navCSGiftCardsHotspot_tab" valign="top" align="left" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td class="navCrossshopTabLeft" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="1" alt="" id="" class="navCrossshopTabCap" height="1" border="0">
-    </td>
-    <td class="navCrossshopTabMid" height="100%">
-      <a href="/gp/product/B00067L6TQ" style="vertical-align:baseline; padding-top:2 "><img class="" id="navCSGiftCardsHotspot_icon" height="19" width="1" border="0" alt="" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" style="vertical-align:-5;">Gift Cards</a>
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="5" alt="" id="" class="" height="1" border="0">
-    </td>
-  <td class="navCrossshopTabRight" height="100%">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="4" alt="" id="" class="" height="1" border="0">
-  </td>
-  </tr>
-</tbody></table></td>
-      <td width="100%" height="22">&nbsp;</td>
-      <td height="22"><table valign="center" align="right" height="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td id="navHelpLinks" height="100%">
-      <a href="/gp/css/homepage.html">Your Account</a>
-      &nbsp;|&nbsp;
-      <a href="/exec/obidos/tg/browse/-/508510">Help</a>
-    </td>
-  </tr>
-</tbody></table></td>
-      <td id="navCrossshopRowRightEndCap" height="22"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="6" alt="" height="1" border="0"></td>
-    </tr>
-  </tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td></tr>
-
-
-<tr><td width="100%">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr class="navShopSearch" align="left" width="100%">
-  <td width="180"><ul id="navSAGatewayButton">
-        <li id="navSASwapPanel" class="navSAGatewayButtonPanel"><a href="/gp/site-directory"><h1><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="180" alt="Shop All Departments" height="38" border="0"></h1></a></li>
-     </ul></td>
-  <td align="left" width="100%" nowrap=""></td>
-  <td align="right" nowrap="">
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-        <td><div id="cartPop_NonJS_tab" style="">
-
-  <ul id="navCartNonJSButton">
-    <li id="navCartNonJSSwapPanel" class="navCartNonJSButtonPanel"><a href="/gp/cart/view.html"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="107" alt="Cart" height="38" border="0"></a></li>
-  </ul>
-</div></td>
-        <td><div id="listsPop_NonJS_tab" style="">
-  <ul id="navListNonJSButton">
-    <li id="navListNonJSSwapPanel" class="navListNonJSButtonPanel"><a href="/gp/lists/homepage.html"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V42752373_.gif" width="100" alt="Your Lists" height="38" border="0"></a></li>
-  </ul>
-</div></td>
-      <td>&nbsp;</td>
-   </tr></tbody></table>
-  </td>
-</tr>
-</tbody></table>
-</td></tr>
-
-
-
-</tbody></table>
-
-
-
-</div>
-
-  
-
-
-
-
-
-
-
-
-
-<!--Pilu -->
-
-
-
-
-<!--CMMKPSVCH -->
-
-
-<div id="cs-wrapper">
- <div class="cs-head-wrapper">
-  <div class="cs-breadcrumb-node">
-
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510">Help</a>&nbsp;&gt;&nbsp;<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=551434">Privacy &amp; Security</a>&nbsp;&gt;&nbsp;<span class="breadcrumb">Privacy Notice</span></div>
-
-  <div class="cs-logout-node">
-    &nbsp;
-  </div>
- </div>
-
-<br clear="all">
-	<div id="cs-container-col">
-		<div id="cs-wrap-3col" style="width: 78%">
-			<div id="cs-browse-col" style="width: 29%">
-
-
-
-
-
-
-
-
-<div class="cs-flexi-top-g-blue"><div></div></div>
-
-	<div class="cs-flexi-l">
-		<div class="cs-flexi-r">
-<div class="cs-small">
-
-<div class="cs-flexi-gradient-blue"><div class="cs-flexi-head">
-Help Topics</div></div>
-
-
-<div class="cs-orange-head">Search</div>
-<div class="cs-first-head-flexi" style="width: 95%;padding-top:0">
-<form name="search-help" method="post" action="/gp/help/customer/display.html">
-
-
-<div class="cs-input-short">
-<span class="cs-input-left">
-<input type="text" id="helpsearch" name="keywords" value="">
-</span>
-
-<span class="cs-input-left-right">
-<input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-go._V47060898_.gif" width="21" align="absbottom" height="21" border="0">
-</span>
-</div>
-
-
-<input type="hidden" name="nodeId" value="468496">
-<input type="hidden" name="search" value="true">
-</form>
-</div>
-
-
-
-
-
-
-<div class="cs-orange-head">Privacy &amp; Security</div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496">Privacy Notice</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=10412241">Safety and Security Tips</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=4060771">Our Efforts to Stop Spoofing</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508092">Your Amazon.com Bill of Rights</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=537868">A-to-z Guarantee Protection</a></div><div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=15835501">Identifying Phishing or Spoofed E-mails</a></div><div class="cs-divider-dashed less-vertical-space"></div><div class="cs-first-head-flexi">Shipping &amp; Delivery</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468636">U.S. Shipping Rates and Times</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=596184">International Shipping</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13819211">Amazon Prime</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3510241">Guaranteed Accelerated Delivery</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=527692">FREE Super Saver Shipping</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468634">Shipping Restrictions</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3043211">Calculating Delivery Dates</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468530">Tracking Packages</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468522">Where's My Stuff?</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=578084">Amazon and the Environment</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468520">More...</a></div>
-<div class="cs-orange-head">Digital Downloads Help</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200143320">Amazon MP3 Music Downloads</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200127470">Amazon Kindle<br>Wireless Reading Device</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=3757">Amazon Unbox Video</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200205010">Amazon Software Downloads</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=515724">More...</a></div>
-<div class="cs-orange-head">Privacy &amp; Security</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=537868">A-to-Z Guarantee Protection</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=15835501">Identifying Phishing E-Mails</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=10412241">Safety &amp; Security Tips</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=518224">Credit Card Security</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468496">Privacy Notice</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=551434">More...</a></div>
-<div class="cs-orange-head">Returns &amp; Replacements </div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=15015711">Return Policy</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=901926">Refunds</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=15015731">Gift Returns</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=557204">Exchanging a Broken or Incorrect Item</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=901924">Packing and Sending Your Return</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=12277491">Returns to Amazon Merchants</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=901888">More...</a></div>
-<div class="cs-orange-head">Ordering</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=524700">New Customers</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=537794">Amazon Merchants</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468480">1-Click Ordering</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=565166">Product Recalls</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468516">Warranties</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468466">More...</a></div>
-<div class="cs-orange-head">Payment, Pricing &amp; Promotions</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=513058">Payment Methods We Accept</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200138510">Gift Cards</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468518">Rebates</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=565778">Promotional Offers</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=513058">More...</a></div>
-<div class="cs-orange-head">Viewing and Changing Orders</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=557204">Problem with an Order?</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468548">Changing Address or Payment for an Order</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468544">Canceling Orders</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468546">Combining Orders</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=595034">More...</a></div>
-<div class="cs-orange-head">Gifts, Gift Cards &amp; Gift Registries</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=759346">Sending Gifts</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=897204">Wish Lists</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=524172">Baby Registry</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200138510">Gift Cards</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=525378">More...</a></div>
-<div class="cs-orange-head">Updating Account Information</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468536">Using Your Account</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468548">Updating Payment Information</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=565782">Adding or Deleting Addresses</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468538">Changing E-Mail Address or Password</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468552">Updating Subscriptions</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468536">More...</a></div>
-<div class="cs-orange-head">Amazon.com Shopping Experience</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=468594">Our Site Features</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200128600">Your Media Library</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200202840">RSS Feeds</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13316081">Recommendations</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=16465201">More...</a></div>
-<div class="cs-orange-head">Selling at Amazon.com</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161232">Introduction to Selling<br></a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161272">Policies and Agreements<br></a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1161232">More...</a></div>
-<div class="cs-orange-head">Publisher &amp; Vendor Guides</div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=14061761">List and Sell Books</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=15015751">List and Sell DVDs</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=13685731">On-Demand Publishing</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=14061711">More...</a></div>
-<div class="cs-orange-head">Business Opportunities</div>
-<div class="cs-caret-list nav"><a href="http://advantage.amazon.com/gp/vendor/public/join/">Advantage</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=508504">Associates</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=1086640">Web Services</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=16465291">Mechanical Turk</a></div>
-<div class="cs-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=200217340">WebStore by Amazon</a></div>
-<div class="cs-double-caret-list nav"><a href="/gp/help/customer/display.html?nodeId=16465271">More...</a></div>
-		</div>
-</div>
-	</div>
-<div class="cs-flexi-bottom"><div></div></div>
-
-
-			</div>
-			<div id="cs-content-col" style="width: 68%">
-                           <div class="cs-help-content-wrapper">
-<span class="small"><b class="sans"><font color="#cc6600">Amazon.com Privacy Notice</font></b><br>
-<p><b>Last updated: August 29, 2007.</b> To see what has changed, <a href="/gp/browse.html/?node=16015091">click here</a>.</p>
-<p>Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <b>By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.</b> </p>
-<p></p>
-<ul>
-<li><a href="#gather">What Personal Information About Customers Does Amazon.com Gather?</a> 
-</li><li><a href="#cookies">What About Cookies?</a> 
-</li><li><a href="#share">Does Amazon.com Share the Information It Receives?</a> 
-</li><li><a href="#secure">How Secure Is Information About Me?</a> 
-</li><li><a href="#third_party">What About Third-Party Advertisers and Links to Other Websites?</a> 
-</li><li><a href="#access">Which Information Can I Access?</a> 
-</li><li><a href="#choices">What Choices Do I Have?</a> 
-</li><li><a href="#children">Are Children Allowed to Use Amazon.com?</a> 
-</li><li><a href="#harbor">Does Amazon.com Participate in the Safe Harbor Program?</a> 
-</li><li><a href="#conditions">Conditions of Use, Notices, and Revisions</a> 
-</li><li><a href="#examples">Examples of Information Collected</a></li></ul><a name="gather"></a><b class="sans"><font color="#cc6600">What Personal Information About Customers Does Amazon.com Gather?</font></b><br>
-<p>The information we learn from customers helps us personalize and continually improve your shopping experience at Amazon.com. Here are the types of information we gather. </p>
-<ul>
-<li><b>Information You Give Us:</b> We receive and store any information you enter on our Web site or give us in any other way. <a href="#examples">Click here</a> to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-</li><li><b>Automatic Information:</b> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com. <a href="#examples">Click here</a> to see examples of the information we receive.&nbsp; 
-</li><li><b>E-mail Communications:</b> To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your <a href="/gp/gss/ccp/">Customer Communication Preferences</a>. 
-</li><li><b>Information from Other Sources:</b> We might receive information about you from other sources and add it to our account information. <a href="#examples">Click here</a> to see examples of the information we receive. </li></ul><a name="cookies"></a><b class="sans"><font color="#cc6600">What About Cookies?</font></b><br>
-<p></p>
-<ul>
-<li>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as <a href="/gp/browse.html/?node=468480">1-Click</a> purchasing, <a href="/gp/yourstore/nr/">New for You</a>, personalized <a href="http://www.amazon.com/exec/obidos/tg/browse/-/542032/">Amazon Honor System</a> greetings, and storage of items in your Shopping Cart between visits. 
-</li><li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. </li></ul><a name="share"></a><b class="sans"><font color="#cc6600">Does Amazon.com Share the Information It Receives?</font></b><br>
-<p>Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. </p>
-<ul>
-<li><b>Affiliated Businesses We Do Not Control:</b> We work closely with our affiliated businesses. In some cases, such as Marketplace and Auctions sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. <a href="#examples">Click here</a> for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-</li><li><b>Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-</li><li><b>Promotional Offers:</b> Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your <a href="/gp/gss/ccp/">Customer Communication Preferences</a>. 
-</li><li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-</li><li><b>Protection of Amazon.com and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our <a href="/gp/browse.html/?node=508088">Conditions of Use</a> and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-</li><li><b>With Your Consent:</b> Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. </li></ul><a name="secure"></a><b class="sans"><font color="#cc6600">How Secure Is Information About Me?</font></b><br>
-<p></p>
-<ul>
-<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-</li><li>We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-</li><li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. <a href="/gp/browse.html/?node=515722">Click here</a> for more information on how to sign off.</li></ul><a name="third_party"></a>
-<p></p><b class="sans"><font color="#cc6600">What About Third-Party Advertisers and Links to Other Websites?</font></b><br>
-<p>Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. <a href="#examples">Click here</a> for some examples as well as information on how to contact these companies to learn more or opt-out of their information collection practices. </p>
-<p>These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. </p>
-<p>Amazon.com also displays targeted advertising based on personal information about users. Although Amazon.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the northwestern United States who like classical music).</p><a name="access"></a>
-<p></p><b class="sans"><font color="#cc6600">Which Information Can I Access?</font></b><br>
-<p>Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. <a href="#examples">Click here</a> to see some examples, the list of which will change as our Web site evolves. </p><a name="choices"></a><b class="sans"><font color="#cc6600">What Choices Do I Have?</font></b><br>
-<p></p>
-<ul>
-<li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as <a href="/gp/pdp/">your Profile</a>, <a href="/gp/registry/wishlist-homepage.html/">Wish Lists</a>, <a href="/gp/customer-reviews/top-reviewers.html">Customer Reviews</a>, and <a href="/gp/browse.html/?node=13819211">Amazon Prime</a>. 
-</li><li>You can add or update certain information on pages such as those listed in the "<a href="#access">Which Information Can I Access?</a>" section above. When you update information, we usually keep a copy of the prior version for our records. 
-</li><li>If you do not want to receive e-mail or other mail from us, please adjust your <a href="/gp/gss/ccp/">Customer Communication Preferences</a>. (If you do not want to receive <a href="/gp/browse.html/?node=508088">Conditions of Use</a> and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-</li><li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. </li></ul>
-<p></p><a name="children"></a><b class="sans"><font color="#cc6600">Are Children Allowed to Use Amazon.com?</font></b><br>
-<p>Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. </p><a name="harbor"></a><b class="sans"><font color="#cc6600">Does Amazon.com Participate in the Safe Harbor Program?</font></b><br>
-<p>Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the <a href="http://www.export.gov/safeharbor/">U.S. Department of Commerce's Safe Harbor</a> Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com.</p><a name="conditions"></a><b class="sans"><font color="#cc6600">Conditions of Use, Notices, and Revisions</font></b><br>
-<p>If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our <a href="/gp/browse.html/?node=508088">Conditions of Use</a>, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please <a href="/gp/help/contact-us/features-and-services.html/">contact us</a> with a thorough description, and we will try to resolve it. </p>
-<p>Our business changes constantly, and our Privacy Notice and the <a href="/gp/browse.html/?node=508088">Conditions of Use</a> will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. </p>
-<p>Related Practices and Information </p>
-<ul>
-<li><a href="/gp/browse.html/?node=508088">Conditions of Use</a> 
-</li><li><a href="/gp/help/customer/display.html?nodeId=14279661">Web-based Discussion Service</a> 
-</li><li><a href="/gp/browse.html/?node=1161302">Amazon.com Marketplace and Auctions Participation Agreement</a> 
-</li><li><a href="/gp/browse.html/?node=537776">Marketplace and Auctions Account and Community Guide</a> 
-</li><li><a href="/gp/browse.html/?node=508510">Help department</a> 
-</li><li><a href="/gp/pdp/profile/edit/recent-purchases/">Recent Purchases</a> 
-</li><li><a href="/gp/browse.html/?node=14279631">Your Profile Guidelines</a></li></ul>
-<p></p><a name="examples"></a><b class="sans"><font color="#cc6600">Examples of Information Collected</font></b><br>
-<p><b>Information You Give Us</b> </p>
-<p>You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; make an Auction bid or purchase; provide information in <a href="/gp/css/homepage.html/">Your Account</a> (and you might have more than one if you have used more than one e-mail address when shopping with us) or <a href="/gp/pdp/profile/">Your Profile</a>; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile <a href="/gp/registry/wishlist-homepage.html/">Wish Lists</a> or other gift registries; provide employer information when opening a corporate account; participate in <a href="/gp/help/customer/display.html?nodeId=14279661">Discussion Boards</a> or other community features; provide and rate <a href="/gp/customer-reviews/top-reviewers.html">Reviews</a>; specify a <a href="/gp/specialoccasions/alternative/">Special Occasion Reminder</a>; share information with <a href="/gp/browse.html/?node=468600">Amazon Friends</a>; and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in <a href="/gp/browse.html/?node=468482">1-Click</a> settings; e-mail addresses of <a href="/gp/browse.html/?node=468600">Amazon Friends</a> and other people; content of reviews and e-mails to us; personal description and photograph in <a href="/gp/pdp/profile/">Your Profile</a>; and financial information, including Social Security and driver's license numbers. </p>
-<p><b>Automatic Information</b></p>
-<p>Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and timezone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as <a href="/gp/purchase-circles/">Purchase Circles</a> and <a href="http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/main/">Top Sellers</a>; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; your Auction history; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.</p>
-<p><b>Information from Other Sources</b></p>
-<p>Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services (such as Target.com, BombayCompany.com, and DVF.com); search term and search result information from some searches conducted through the Web search features offered by our subsidiaries, Alexa Internet and A9.com; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.</p>
-<p><b>Third-Party Advertisers and Links to Other Websites</b></p>
-<p>Examples of third-party advertisers and advertising companies that you can link to from the Amazon.com website or that serve advertising content directly to your browser on certain Amazon.com pages include <a href="http://www.doubleclick.com/">Doubleclick</a>. You can find out more about its information collection and use practices, including how to opt out of cookies and other collection techniques that is uses, by clicking on the above link to its website.</p>
-<p><b>Information You Can Access</b></p>
-<p>Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, New for You, Special Occasion Reminders, Weekly Movie Showtimes, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Auctions and Marketplace seller accounts; and your Profile (including your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Amazon Friends). </p>
-<p><b>Co-branded and Joint Offerings</b></p>
-<p>Examples of businesses with which we offer joint or co-branded products and other offerings include Target, CD Now, Verizon Wireless, Sprint, T-Mobile, Cingular, Shutterfly, Office Depot, J&amp;R, PetSmart, Godiva, FTD, Avon, Bombay Company, Macy's, PacSun, Eddie Bauer and Northern Tool + Equipment.</p></span>
-                           </div>
-			</div>
-                     <div class="cs-clear"></div>
-		</div>
-
-		<div id="cs-widgets-col" style="width: 21%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<style>
-.cs-required select,
-.cs-required input,
-.cs-required text,
-.cs-required password,
-.cs-required textarea,
-.cs-required cs-alert {
-        background-color:#ffd;
-        }
-
-
-.cs-sign-in {
-//	padding:0 0 0 .3em;
-	font-size:1em;
-	margin:0 1em 0 2em;
-	}
-
-.cs-clear {
-	clear:both;
-	}
-
-</style>
-
-
-<div class="cs-flexi-top-g-blue">
-<div></div>
-</div>
-
-<div class="cs-flexi-l">
-	<div class="cs-flexi-r">
-
-		<div class="cs-small">
-		  <div class="cs-flexi-gradient-blue">
-            <div class="cs-flexi-head">Self-Service Tools</div>
-          </div>
-		
-          <div style="margin-bottom:5px"></div>
     
-    <div style="margin-top:10px"></div>
-    <div class="cs-list" style="color:#006699">Most Popular</div>
-    <div style="margin-bottom:5px"></div>
-
-    <div class="cs-caret-list"><a href="https://www.amazon.com/gp/css/history/view.html">Track or Manage Purchases</a></div>
-    <div class="cs-caret-list"><a href="/gp/css/account/cards/view.html">Manage payment options</a></div>
-    <div class="cs-caret-list"><a href="/gp/css/returns/homepage.html">Return items</a></div>
-    <div class="cs-caret-list"><a href="/gp/css/account/info/view.html">Change Name, Email, or Password</a></div>
-    <div class="cs-caret-list"><a href="/gp/css/account/address/view.html">Manage address book</a></div>
-
-<div style="margin-top:10px"></div>
-
-<div class="cs-divider"><div></div></div>
-
-<div style="margin-top:10px"></div>
-
-<div class="cs-list">
-<a href="javascript:toggleContents('profile', 'profile_expanded', 'profileCarrot', 'expand');" id="profile">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif" id="profileCarrot">Account Profile</a>
-</div>
-
-    <div id="profile_expanded" style="display:none">
-
-	  <div class="cs-list-item"><a href="/gp/css/account/info/view.html">Change Name, Email, or Password</a></div>
-	  <div class="cs-list-item"><a href="/gp/subs/primeclub/account/homepage.html">Manage Prime membership</a></div>
-	  <div class="cs-list-item"><a href="/gp/gss/ccp">Update e-mail communication preferences</a></div>
-	  <div class="cs-list-item"><a href="/gp/ens/your-account/alerts/home">Amazon Alerts E-mails</a></div>
-	  <div class="cs-list-item"><a href="/gp/specialoccasions/alternative">Special Occasion Reminders</a></div>
-
-    </div>
-
-<div class="cs-list">
-<a href="javascript:toggleContents('ordering', 'ordering_expanded', 'orderingCarrot', 'expand');" id="ordering">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif" id="orderingCarrot">Ordering Settings</a>
-</div>
-
-  <div id="ordering_expanded" style="display:none">
-
-	  <div class="cs-list-item"><a href="/gp/css/account/address/view.html">Update 1-click settings</a></div>
-	  <div class="cs-list-item"><a href="/gp/subscribe-and-save/manager/viewsubscriptions">Subscribe &amp; Save settings</a></div>
-
-
-  </div>
-
-<div class="cs-list">
-<a href="javascript:toggleContents('lists', 'lists_expanded', 'listsCarrot', 'expand');" id="lists">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif" id="listsCarrot">Lists</a>
-</div>
-
-  <div id="lists_expanded" style="display:none">
-
-	  <div class="cs-list-item"><a href="/gp/rsl/shoppinglist/yourshoppinglist">Shopping List</a></div>
-	  <div class="cs-list-item"><a href="/gp/registry/wishlist">Wish List</a></div>
-	  <div class="cs-list-item"><a href="/gp/baby/homepage">Baby Registry</a></div>
-	  <div class="cs-list-item"><a href="/gp/wedding/homepage">Wedding Registry</a></div>
-
-
-  </div>
-
-<div class="cs-list">
-<a href="javascript:toggleContents('content', 'content_expanded', 'contentCarrot', 'expand');" id="content">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif" id="contentCarrot">Your Content</a>
-</div>
-
-  <div id="content_expanded" style="display:none">
-
-	  <div class="cs-list-item"><a href="/gp/ays">Your Media Library</a></div>
-	  <div class="cs-list-item"><a href="/gp/history">Your Browsing History</a></div>
-	  <div class="cs-list-item"><a href="/gp/yourstore/home">Recommended for You</a></div>
-	  <div class="cs-list-item"><a href="/gp/yourstore/iyr">Improve Your Recommendations</a></div>
-
-  </div>
-
-
-<script>
-    if ( document.getElementById('profile') ) {
-        document.getElementById('profile').href = "javascript:toggleContents('profile', 'profile_expanded', 'profileCarrot', 'expand');";
+    document.getElementById('bordersearch').submit(); 
+  }
+  else
+  {
+   if((selectCombo.value == 4)||(selectCombo.value == 5) ||(selectCombo.value == 6)){
+   var newsearch = document.getElementById("newsearchid");
+	       if(selectCombo.value == 4){
+	       newsearch.name = "title";
+	       }
+	       else if(selectCombo.value == 5){
+	       newsearch.name = "contrib";
+	       }
+	       else if(selectCombo.value == 6){
+	       newsearch.name = "sku";
+	       }
+	   newsearch.value = textVal;
+	   var newSearchType = document.getElementById("newSearchType");   
+	   newSearchType.name = "type";
+	   newSearchType.value="1";
     }
+   if((selectCombo.value == 8)||(selectCombo.value == 9)||(selectCombo.value == 10)||(selectCombo.value == 11)
+   
+      ||(selectCombo.value == 13)||(selectCombo.value == 14)||(selectCombo.value == 15)||(selectCombo.value == 16)||(selectCombo.value == 17)){
 
-    if ( document.getElementById('ordering') ) {
-        document.getElementById('ordering').href = "javascript:toggleContents('ordering', 'ordering_expanded', 'orderingCarrot', 'expand');";
+           var newsearch = document.getElementById("newsearchid");
+           if(selectCombo.value == 8){
+	           newsearch.name = "title";
+	       }
+	       else if(selectCombo.value == 9){
+	           newsearch.name = "contrib";
+	       }
+	       else if(selectCombo.value == 10){
+	       newsearch.name = "song";
+	       }
+	       else if(selectCombo.value == 11){
+	       newsearch.name = "sku";
+	       }
+	       else if(selectCombo.value == 14){
+	       newsearch.name = "comp";
+	       }
+	       else if(selectCombo.value == 15){
+	       newsearch.name = "cond";
+	       }
+	       else if(selectCombo.value == 16){
+	       newsearch.name = "work";
+	       }
+	       else if(selectCombo.value == 17){
+	       newsearch.name = "catno";
+	       }else if(selectCombo.value == 13){
+	       newsearch.name = "music_search";
+	       }
+	       
+	   newsearch.value   = textVal;
+	   var newSearchType = document.getElementById("newSearchType");   
+	   newSearchType.name = "type";
+	   newSearchType.value="2";
+   }
+    if((selectCombo.value == 18)||(selectCombo.value == 19) ||(selectCombo.value == 20) ||( selectCombo.value == 21)){
+          var newsearch = document.getElementById("newsearchid");
+	       if(selectCombo.value == 18){
+	       newsearch.name = "title";
+	       }
+	       else if(selectCombo.value == 19){
+	       newsearch.name = "contrib";
+	       }
+	       else if(selectCombo.value == 20){
+	       newsearch.name = "actor";
+	       }
+	       else if(selectCombo.value == 21){
+	         newsearch.name = "sku";
+	       }
+   	   newsearch.value = textVal;
+	   var newSearchType = document.getElementById("newSearchType");   
+	   newSearchType.name = "type";
+	   newSearchType.value="3";
+     }
+    if(selectCombo.value == 7){
+             document.location.href='http://usedmarketplace.borders.com/booksearch?wquery='+textVal
+      }
+      else if(selectCombo.value == 12){
+        document.location.href='http://usedmarketplace.borders.com/musicsearch?wquery='+textVal
+      }
+      else if (selectCombo.value == 22){
+        document.location.href='http://usedmarketplace.borders.com/moviesearch?wquery='+textVal
+      }
+     else{     	
+     	var newSearchType = document.getElementById("fromHeaderId");
+     	newSearchType.value=selectCombo.selectedIndex;
+        document.getElementById('bordersearchnew').submit(); 
+      }  
     }
+  }
+  
+}
+function clearErrMsg(){
+document.getElementById("searchmsgerror").style.display="none";
+}
+</script>                    
+ <!--[if !IE]> START: sign_in <![endif]-->
+<div class="sign_in">
+	<a name="signin" title="Sign in Here"></a>
 
-    if ( document.getElementById('lists') ) {
-        document.getElementById('lists').href = "javascript:toggleContents('lists', 'lists_expanded', 'listsCarrot', 'expand');";
-    }
-
-    if ( document.getElementById('content') ) {
-        document.getElementById('content').href = "javascript:toggleContents('content', 'content_expanded', 'contentCarrot', 'expand');";
-    }
-
-</script>
-
-
-<div class="cs-list">
-<a href="javascript:swapEm('expand');" id="signInLink">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif" id="carrot">Sign In</a>
-</div>
-
-<div class="cs-clear"></div>
-
-    <div id="login_expanded" class="cs-sign-in" style="display:none">
-    <form method="POST" action="https://www.amazon.com/gp/flex/sign-in/help-select.html">
-    <input type="hidden" name="useRedirectOnSuccess" value="1">
-    <input type="hidden" name="path" value="/gp/help/customer/display.html">
-    <input type="hidden" name="nodeID" value="468496">
-    <input type="hidden" name="action" value="sign-in">
-    <input type="hidden" name="protocol" value="https">
-
-      <div style="font-size:.8em">
-      E-mail Address
-      </div>
-
-      <div class="">
-      <input type="text" name="email">
-      </div>
-
-      <div style="font-size:.8em">
-      Password
-      </div>
-
-      <div class="">
-      <span class="cs-input-left">
-      <input name="password" type="password">
-      </span>
-
-      <span class="cs-input-left-right">
-      <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-go._V47060898_.gif" width="21" align="absbottom" alt="Sign In" name="Go" height="21" border="0">
-      </span>
-      </div>
-
-    </form>
-    </div>
+<!--[if !IE]>Added by wipro starts here  <![endif]--> 
+	
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
 
 
-<script type="text/javascript">
-    if ( document.getElementById('signInLink') ) {
-        document.getElementById('signInLink').href = "javascript:swapEm('expand');";
-    }
-</script>
 
-<div style="margin-top:10px"></div>
 
-<div class="cs-divider"><div></div></div>
 
-<div style="margin-top:10px"></div>
-
-<div class="cs-widget-text">
-Get Express customer service or contact us by e-mail or phone.
-</div>
-<div style="margin-top:10px"></div>
-
-<div class="cs-widget-text">
-<div id="displayLink">
-<a href="https://www.amazon.com/gp/help/browse-form-dispatch/dispatch.html?ie=UTF8&amp;nodeId=468496"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/buttons/cs-customer-service-btn._V9999663_.gif" width="104" alt="contact us" height="22" border="0"></a>
-</div>
-</div>
-
-		</div>							
+	<div><h1>Welcome<span id="welcomeCache"></span>!</h1></div>
+	<div class="sign_in_links" id="linksCache">
+	
 	</div>
-</div>
 
-<div class="cs-flexi-bottom"><div></div></div>
+	
 
-<script type="text/javascript">
-var collapseImg = new Image;
-collapseImg.src = 'http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot_up._V32535435_.gif';
+	
+	
+<script type="text/javascript" defer="defer">
 
-var expandImg =  new Image;
-expandImg.src = 'http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V47081519_.gif';
+ 	var signInUrl = "https://www.borders.com/online/store/LogonForm";
+ 	var signOutUrl = "LogoffRedirectView?URL=http%3a%2f%2fwww.borders.com%2fonline%2fstore%2fHome";
+ 	var notUserUrl = "LogoffRedirectView?URL=https%3a%2f%2fwww.borders.com%2fonline%2fstore%2fLogonForm";
+ 	
+ 	var signInText = 'Sign in';
+  	var signOutText = 'Sign out';
+   	var notUserText = 'not';
+   	var welcomeText = 'Welcome ';
 
-function swapEm (type) {  
-    if (type == 'collapse') {
-     	document.getElementById('signInLink').href = "javascript:swapEm('expand');";
-     	document.getElementById('login_expanded').style.display = 'none'; 
-        document.getElementById("carrot").src =  expandImg.src;	
-        if ( document.getElementById('loginError') ) 
-            document.getElementById('loginError').style.display = 'none';
-    } else {
-        document.getElementById('signInLink').href = "javascript:swapEm('collapse');";
-     	document.getElementById('login_expanded').style.display = 'block'; 
-        document.getElementById("carrot").src =  collapseImg.src;
-        if ( document.getElementById('loginError') ) 
-            document.getElementById('loginError').style.display = 'block';	
-    }
+function loadUserName(){
+	var commandName = "CustomerServiceView";
+	
+			function deleteCookies(){
+			var cookieName="borders_deleteWCCookies";
+			var clearCookies= readCookie(cookieName);
+			if( clearCookies && clearCookies != "" && clearCookies=='true'){
+				deleteWCCookies();
+				eraseCookie(cookieName);
+				eraseCookie(cookie_firstName);
+				eraseCookie(cookie_loggedIn);
+				eraseCookie(cookie_userId);
+				eraseCookie(cookie_email);
+				eraseCookie(cookie_encodedUserId);
+				eraseCookie(cookie_miniCart);
+			}
+		  }	
+	
+	
+		
+	 if( !isUserGeneric() ){
+		var userFirstName = readCookie(cookie_firstName);
+		if( ajx_loggedIn && ajx_loggedIn != "" && ajx_userFirstName && ajx_userFirstName != "" ){
+			updateWelcomeMsg(ajx_userFirstName);
+		}
+		 else if ('G' != 'G'){
+
+			var url = "ajax/userInfo.jsp";
+			var myAjax = new Ajax.Request(url, 
+				{	 
+					onSuccess: getUserInfoFromResponse, 
+					onComplete: function(){updateWelcomeMsg(ajx_userFirstName);}
+				});
+		}
+		else if(userFirstName && userFirstName != "" ){
+			updateWelcomeMsg(userFirstName);
+		}	
+		else {
+			updateWelcomeMsg('');
+		}
+	}
+	else{
+		$("linksCache").innerHTML = '<ul><li class="first"><a href="https://www.borders.com/online/store/LogonForm" onclick="javascript:createRegisterRefererCookie(window.location)">' + signInText +'</a></li></ul>';
+	}
+	
+	
+	deleteCookies();
+} 	 	
+function updateWelcomeMsg(userName){
+ 	if( userName!="" && userName!=null){			
+ 		$("welcomeCache").innerHTML = "&nbsp;" + userName;
+	 	$("linksCache").innerHTML = '<ul><li class="first"><a href="LogoffRedirectView?URL=http%3a%2f%2fwww.borders.com%2fonline%2fstore%2fHome">'+signOutText+'</a></li><li><a href="LogoffRedirectView?URL=https%3a%2f%2fwww.borders.com%2fonline%2fstore%2fLogonForm">'+notUserText+'&nbsp;'+userName+'?</a></li></ul>';
+ 	}
+ 	else{
+		$("linksCache").innerHTML = '<ul><li class="first"><a href="https://www.borders.com/online/store/LogonForm" onclick="javascript:createRegisterRefererCookie(window.location)">' + signInText +'</a></li></ul>';
+	}
 }
 
-function toggleContents(linkID, divID, carrotID, type) {  
-    if (type == 'collapse') {
-     	document.getElementById(linkID).href = "javascript:toggleContents('" + linkID + "', '" + divID + "', '" + carrotID + "', 'expand');";
-        document.getElementById(divID).style.display = "none";
-        document.getElementById(carrotID).src =  expandImg.src;	
-    } else {
-    	document.getElementById(linkID).href = "javascript:toggleContents('" + linkID + "', '" + divID + "', '" + carrotID + "', 'collapse');";
-        document.getElementById(divID).style.display = "block";
-        document.getElementById(carrotID).src =  collapseImg.src;
-    }
-}
 
-</script>
-<br>
-
-
-<div class="cs-flexi-top-g-blue"><div></div></div>
-<div class="cs-flexi-l">
-	<div class="cs-flexi-r">
-		<div class="cs-small cs-digi-widget">
-			<div class="cs-flexi-gradient-blue">
-				<div class="cs-flexi-head">
-Digital Downloads Help
-				</div>
-			</div>
-			<div style="margin-bottom:5px;margin-top:7px;"></div>
-        	        <div class="cs-flexi-head"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200143320"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/cs-mp3._V13806727_.gif" width="170" height="26" border="0"></a></div>
-				<div class="cs-divider"></div>
-	                <div class="cs-flexi-head"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=3757"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/cs-unbox._V13806726_.gif" width="170" height="26" border="0"></a></div>
-				<div class="cs-divider"></div>
-                	<div class="cs-flexi-head"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200127470"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/cs/help/customer/cs-kindle._V13806721_.gif" width="170" height="26" border="0"></a></div>
-		</div>							
-
-	</div>
-</div>
-<div class="cs-flexi-bottom"><div></div></div>
-<br>
-
-
-
-
-<div class="cs-flexi-top-g-blue"><div></div></div>
-<div class="cs-flexi-l">
-	<div class="cs-flexi-r">
-
-		<div class="cs-small">
-		<div class="cs-flexi-gradient-blue"><div class="cs-flexi-head">Did this info help?</div></div>
-<div style="margin-bottom:5px"></div>
-<div class="cs-caret-list">
-		<a href="/gp/help/hmd/hmd-yes.html?ie=UTF8&amp;nodeId=468496">Yes, I found the information I needed</a>
-		<br>
-</div>
-<div class="cs-caret-list">
-		<a href="/gp/help/hmd/hmd-no.html?ie=UTF8&amp;nodeId=468496">No, I wasn't able to find the information I needed</a>
-</div>
-
-                </div>
-
-	</div>
-</div>
-<div class="cs-flexi-bottom"><div></div></div>
-
-
-
-
-		</div>
-                <div class="cs-clear"></div>
-	</div>
-</div>
-
-<br clear="all"><br clear="all">
-
-
-<div class="csBottomNavLinks">
-<br>
-
-
-
-<style type="text/css">
-.wonderbar-list {
-    margin: 0px;
-    padding: 0pt 0pt 0pt 11pt;
-}
-.wonderbar-list-header {
-  margin: 0px;
-  font-size: 100%;
-}
-</style>
-
-
-<form method="GET" action="/s">
-<table border="0" width="100%" cellpadding="1" cellspacing="0" bgcolor="#999999">
-<tbody><tr><td>
-<table border="0" width="100%" bgcolor="#ffffff" cellspacing="0" cellpadding="5">
-<tbody><tr valign="top">
-<td width="33%">
-<h4 class="wonderbar-list-header">Where's My Stuff?</h4>
-<ul class="wonderbar-list">
-<li>Track your <a href="https://www.amazon.com/gp/css/history/view.html?ie=UTF8&amp;is-secure=true&amp;orderFilter=wheres-my-stuff">recent orders</a>.</li>
-<li>View or change your orders in <a href="/gp/css/homepage.html">Your Account</a>.</li>
+</script><!--[if !IE]>Added by wipro ends here  <![endif]--> <!--[if !IE]> START: account_quick_links <![endif]-->
+<div class="header_quick_links">
+<ul>
+	<li class="first"><a id="MyAccountID" onclick="eraseCookie('borders.registerReferer');" href="LogonForm"><b>Your Account</b></a></li>
+	<li><a id="OrderStatusID" onclick="createCookie('borders.registerReferer','LogonForm?page=orderstatus&amp;allOrders=b',1);" href="LogonForm?page=orderstatus&amp;allOrders=b"><b>Order Status</b></a></li>
+	<li><a id="CustomerServiceID" href="javascript:void(0)" class="on"><b>Customer Care</b></a></li>
 </ul>
-</td>
-
-<td width="33%">
-<h4 class="wonderbar-list-header">Shipping &amp; Returns</h4>
-<ul class="wonderbar-list">
+</div>
+<!--[if !IE]> END: account_quick_links <![endif]--></flow:fileref></flow:fileref></flow:fileref></div>
+<!--[if !IE]> END: sign_in <![endif]-->
 
 
-<li>See our <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468520">shipping rates &amp; policies</a>.</li>
-
-
-
-<li><a href="/gp/css/returns/homepage.html">Return</a> an item (here's our <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=901888">Returns Policy</a>).</li></ul>
-</td>
-
-
+<div id="shopping_cart">
+<ul>
+	<li class="sc1"><a id="ShoppingCartID" onclick="storeCurrentURL()" href="http://www.borders.com/online/store/OrderCalculate?updatePrices=1&amp;errorViewName=GenericPageView&amp;calculationUsageId=-1&amp;calculationUsageId=-7&amp;orderItemId*=&amp;quantity*=&amp;URL=OrderItemDisplay"><b>Shopping Cart</b></a></li>
+		
+	
+<flow:fileref id="vfileColor" fileid="vfile.color">
+<flow:fileref id="StyleDir" fileid="StyleDir">
+<flow:fileref id="vfileStylesheet" fileid="vfile.stylesheet">
 
 
 
-
-<td width="33%">
-<h4 class="wonderbar-list-header">Need Help?</h4>
-<ul class="wonderbar-list">
-<li>Forgot your password? <a href="https://www.amazon.com/gp/css/account/forgot-password/email.html">Click here</a>.</li>
-<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=518226">Redeem</a> or <a href="/gp/product/B00067L6TQ">buy</a> a gift certificate/card.</li>
+	<li id="cart_count" class="sc2">
+		<div id="cart">
+		</div>
+	</li>
 
 
+<script type="text/javascript" defer="defer">
+	var single_item = 'item.';
+	var multi_item = 'items.';
+	var empty_item = '0 items';
+	
 
-
-<li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510">Visit our Help department</a>.</li></ul>
-</td></tr>
-</tbody></table>
-</td></tr>
-<tr><td>
-
-<!-- Search Box --->
-<table border="0" width="100%" bgcolor="#eeeecc" cellspacing="0" cellpadding="5"><tbody><tr><td align="center">
-
-<b>Search</b>
-
-
-
-
-
-<select name="url" title="Search in"><option value="index=blended">Amazon.com</option><option value="index=stripbooks:relevance-above">Books</option><option value="index=music">Popular Music</option><option value="index=digital-music">MP3 Downloads</option><option value="index=classical">Classical Music</option><option value="index=dvd">DVD</option><option value="index=amazontv&amp;platform=gurupa">Video Downloads</option><option value="index=vhs">VHS</option><option value="index=apparel-index&amp;platform=gurupa">Apparel</option><option value="index=grocery">Grocery</option><option value="index=toys-and-games">Toys</option><option value="index=baby-products">Baby</option><option value="index=pc-hardware">Computers</option><option value="index=videogames">Video Games</option><option value="index=electronics">Electronics</option><option value="index=photo">Camera &amp; Photo</option><option value="index=software">Software</option><option value="index=tools">Tools &amp; Hardware</option><option value="index=office-products">Office Products</option><option value="index=magazines">Magazines</option><option value="index=sporting-index&amp;platform=gurupa">Sports &amp; Outdoors</option><option value="index=garden">Outdoor Living</option><option value="index=kitchen">Kitchen</option><option value="index=beauty-index&amp;platform=gurupa">Beauty</option><option value="index=gourmet-index&amp;platform=gurupa">Gourmet Food</option><option value="index=mi-index&amp;platform=gurupa">Musical Instruments</option><option value="index=hpc-index&amp;platform=gurupa">Health/Personal Care</option><option value="index=pet-supplies&amp;store-name=kitchen&amp;search-type=ss">Pet Supplies</option><option value="index=stripbooks:relevance-above&amp;field-browse=27">Travel</option><option value="index=wireless-phones">Cell Phones &amp; Service</option><option value="index=outlet">Outlet</option><option value="index=misc">Everything Else</option><option value="index=automotive-index&amp;platform=gurupa">Automotive</option><option value="index=industrial-index&amp;platform=gurupa">Industrial &amp; Scientific</option><option value="index=digital-text&amp;platform=gurupa">Digital Text</option><option value="index=jewelry-index&amp;platform=gurupa">Jewelry</option><option value="search-alias=watches">Watches</option></select>
-<input type="text" name="field-keywords" size="15" title="Search for">&nbsp;&nbsp;
-
-
-
-<input type="image" src="http://g-ecx.images-amazon.com/images/G/01/photo/go_button_photo._V47071273_.gif" width="21" alt="Go" align="absmiddle" name="Go" height="21" border="0"></td></tr></tbody></table>
-</td></tr>
-</tbody></table>
-</form>
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-<style type="text/css">
-<!--
-
-.bottomNavLinks
+function updateMiniCart()
 {
-  font-family: verdana,arial,helvetica,sans-serif;
-  font-size: 13px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+	var rows = 0;
+	var subtotal = 0;
+	var shopVal = readCookie('miniCartInfo');
+		
+	if( !isUserGeneric() && shopVal){
+		var shopCartVal = shopVal.split(":");
+		rows = shopCartVal[0];
+		subtotal = shopCartVal[1];
+	}
+	else{
+		eraseCookie("miniCartInfo");
+	}
+	if(rows==1)
+	{
+		$('cart').innerHTML= rows + ' '+ single_item + ' ' + subtotal;
+	}
+	else if(rows>1)
+	{
+		$('cart').innerHTML= rows + ' '+ multi_item + ' ' + subtotal;	
+	}	
+	else
+	{
+		$('cart').innerHTML= empty_item ;
+	}	
 }
--->
-</style>
 
-<table width="100%" align="center" border="0"><tbody><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+</script>		
+		
+	<li class="sc3"><a id="WishListId" onclick="createCookie('borders.registerReferer','Wishlist',1);" href="Wishlist"><b>Wish List</b></a></li>
+	<li class="sc4"><a id="StoreLocatorId" href="http://www.borders.com/online/store/LocatorView"><b>Store Locator</b></a></li>
+</flow:fileref></flow:fileref></flow:fileref></ul>
+</div>
 
+			<style type="text/css">#page_header #nav_main ul li a {background:transparent url(/wps/wcm/myconnect/6377f48049644242b484f432c3e32c02/nav_main.gif?MOD=AJPERES) no-repeat scroll 0%;text-decoration:none;}</style><div id="nav_main"><ul><li class="nm1"><a href="http://web.archive.org/online/store/Home" id="homeTab"><b>home</b></a></li><li class="nm2"><a href="http://web.archive.org/online/store/Landing?type=1&amp;nav=5185&amp;kids=false" id="booksTab"><b>books</b></a></li><li class="nm3"><a href="http://web.archive.org/online/store/Landing?type=2&amp;nav=5186&amp;kids=false" id="musicTab"><b>music</b></a></li><li class="nm4"><a href="http://web.archive.org/online/store/Landing?type=3&amp;nav=5187&amp;kids=false" id="dvdTab"><b>dvds &amp; tv</b></a></li><li class="nm5"><a href="http://web.archive.org/online/store/Landing?type=1&amp;nav=5185+10640&amp;kids=true" id="kidsTab"><b>kids' stuff</b></a></li><li class="nm6"><a href="http://www.bordersmedia.com/" id="bordersMediaTab"><b>borders media</b></a></li><li class="nm7"><a href="http://web.archive.org/online/store/BRLandingView" id="rewardsTab"><b>borders rewards</b></a></li><li class="nm8"><a href="http://www.bordersrewardsperks.com" id="perksTab"><b>borders perks</b></a></li><li class="nm9"><a href="http://web.archive.org/online/store/BGIView_giftcards" id="giftcardsTab"><b>gift cards</b></a></li></ul></div><script type="text/javascript">/* prefixes all relative path anchor links with the server domain */prefixServer="http://"+document.domain;var allAnchors = document.getElementsByTagName("a");for(var i =0; i < allAnchors.length; i++){hrefStr=allAnchors[i].getAttribute('href',2);if (hrefStr!=null)	if (hrefStr.charAt(0) =="/") {		allAnchors[i].setAttribute('href',prefixServer + hrefStr)	}}</script>		
 
+<script type="text/javascript" defer="defer">
+					
+                     var pageName="CustomerServiceID";
+					 var linkActive = "0";
+					if(pageName!=""){
+					document.getElementById(pageName).className="on";
+					if(linkActive!=""){
+					  if(linkActive=="0"){
+					 document.getElementById(pageName).href="javascript:void(0)";
+					 }
+					 else{
+					  document.getElementById(pageName).className="subon";
+						 }
+					 }
+					if ("CustomerServiceID" =="homeTab") {
+						document.getElementById("BordersLogoA").href="javascript:void(0)";
+						document.getElementById("BordersLogoA").style.cursor="default";
+						}
+					}
+					
+		      </script> 
+		   </div>
+<!--[if !IE]> END: page_header <![endif]-->
 
-<tbody><tr align="center"><td colspan="2"><img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V28232323_.gif" width="126" alt="amazon.com" height="24" border="0">
+						<div class="content_container">
+				        	
+							<div class="container_wrapper left" id="container_wrapper">   	   
+								<a name="content"></a> 
+								<a name="page_content" title="Skip to page content"></a>
+								
+									<div id="nav_left" class="content_holder_1" style="height:100%;">
+													<div class="navigation_browse">				<ul><li class="liHeader">&nbsp;</li><li class="liSubHeader"><ul><li><a href="/online/store/CustomerServiceView_termsofuse">Terms and Conditions</a></li><li><a href="/online/store/CustomerServiceView_customerservicelanding">Customer Care Home</a><br><br></li><li><a href="javascript:history.go(-1)" onmouseover="self.status=document.referrer;return true">Back to Previous Page</a></li></ul></li></ul>			</div>		
+					             	</div>
+								
+<script type="text/javascript" src="/online/913480251/js/triggerParams.js"></script>
+<!-- START: ContactCustomerCareService.jsp --><!--  <div class="title_banner"><h1 class="customer_care"><b>customer care</b></h1></div> -->
+  	
+  	
+	
+	<script type="text/javascript">
+		titleStr = "Privacy Policy - Borders - Books, Music and Movies";
+		var re= /<\S[^>]*>/g;
+        titleStr = titleStr.replace(re,"");
+        document.title = titleStr;
+	</script>
+	
+		
+    	<div class="content_holder_234">
+						<div class="title_banner">				<h1 class="customer_care" style="background: url(/wps/wcm/myconnect/31a70f00478b6fa88edfae5dd82d9e14/customercare3.jpg?MOD=AJPERES) left top no-repeat;height: 84px;">					<b>customer care</b>				</h1>			</div>		<div class="mn_frm_area_short">					<h1 style="TEXT-TRANSFORM: none !important">privacy policy</h1>					<p>Last Modified May 27, 2008.</p><p>Borders, Inc., Borders Direct, LLC and Walden Book Company, Inc., are subsidiaries of Borders Group, Inc.  Borders, Inc., Borders Direct, LLC, Walden Book Company, Inc., and their affiliated companies (collectively, "Borders", "We", or "Us") believe that your personal information—including your purchase history, phone number(s), email and residential addresses, and credit card data—belongs to you. We collect this type of information to serve you better when you provide it to us, but we do not rent or sell your information to third parties. From time to time, we may ask if you are interested in receiving information from third parties whose services or information we think would be of value to you. In those instances, we will only disclose your email address or other personal information to third parties <b>if you expressly consent to such disclosure.</b></p><p>This privacy policy applies when you make a purchase at any Borders, Borders Outlet, Borders Express, Waldenbooks, or Brentano's store; when you visit the "Websites" (including but not limited to <a href="http://www.borders.com">www.borders.com</a>, <a href="http://www.bordersmedia.com">www.bordersmedia.com</a> and <a href="http://www.bordersrewardsperks.com">www.bordersrewardsperks.com</a>); when you access and use any Borders Website on any in-store computer kiosk (the "kiosks"); when you add items to an online shopping cart; when you subscribe to any of our email programs or mobile content delivery programs; when you sign up for Borders Rewards and Borders Rewards Perks; or when you email content from the kiosk or any Borders Websites. </p><p><b>Your California Privacy Rights</b></p><p>The following only applies to California residents who have an established business relationship with Borders.</p><p>If we collect your name or other personal information from you (whether online or offline), and you have given us permission to share your personal information by clicking on the appropriate box or button on the Websites or by any other means we may provide, we may occasionally make that personal information available to our parent or other affiliated companies, or to other third parties who have products or services that we believe will be of interest to you, for their direct marketing purposes. If you later decide that you do not want us to share your personal information with these companies for their direct marketing purposes, please click here <a href="/online/store/CustomerServiceView_optout">www.borders.com/optout</a>. Your opt-out request will be processed within thirty (30) days of the date on which we receive it. For more information on how your personal information is collected, used and shared, please read the remainder of this Privacy Policy.</p><p><b>Our Collection Of Information</b></p><p><b>Information Collected Directly From You</b><br>You can visit the Websites, and can use the kiosks, without entering any personal information. However, in order to access certain information or to take advantage of special programs (such as Borders Rewards, Borders Rewards Perks, and Borders Rewards Perks Plus) or promotional offers, services or features that may be contained on the Websites or on the kiosks, or to purchase any products or services (including, but not limited to, gift cards, and placement of items into an online shopping cart), we may require you to provide certain personal information. For example, we will collect certain personal information if you choose to join our Borders Rewards and/or Borders Rewards Perks programs, if you subscribe to any of our email or mobile content delivery programs, if you participate in creating and sharing wish list information, or if you choose to write and/or rate reviews of various products.</p><p>Our primary goal in collecting personal information—including your first name, last name, purchase history, phone number(s), valid email and residential address (zip code), and credit card data—is to provide you with a smooth, efficient, customized shopping experience. When we collect your personal information, you are sharing it with Borders, Inc., Borders Direct, LLC, Walden Book Company, Inc., and our affiliate, subsidiary, and parent entities as mentioned above and third parties as further described herein. </p><p>In certain instances, other demographic data may be collected. Borders uses this information to provide benefits and/or services associated with its various programs, including but not limited to Borders Rewards and Borders Rewards Perks.Borders may also receive on its Websites and/or kiosks user-generated content, which may include personal information, including but not limited to, user-created book, music and movie reviews, and user-created wish lists. This user-generated content may be collected by Borders and posted on Borders' Websites and/or kiosks. Further information regarding user-generated content is available in the Borders Terms of Use located at <a href="/online/store/CustomerServiceView_termsofuse">www.borders.com/termsofuse</a>.</p><p><b>Information Collected Automatically</b><br>We may collect information about your visit to the Websites and/or the kiosks, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within the Websites. We may also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol address, your browser type and capabilities and language, your operating system, the date and time you access the Websites, and the website from which you linked to our Websites. From time to time, we may use this information to optimize third-party offers of products and/or services through programs like Borders Rewards Perks.</p><p>Additionally, Borders and/or our service providers may collect your click-stream data and other preference information. We do this to improve the design and vendor selection of the Websites. Click-stream data represents a page-by-page history of your website usage. Your preference data includes reminder, search, and other information-related information that you submit to the site.</p><p><b>Our Use Of Information</b></p><p>If you provide us with personal information, we may retain and use that information for several purposes. For example, we may use your personal information in order to provide transactional and/or commercial information and services via email, direct mail, or via other methods of delivery, such as via mobile content delivery programs. If you have given us permission and have not opted-out, we also may share your personal information with third parties who can offer you products and/or services that we believe may be of interest to you. In addition, we may use your personal information to ensure compliance with Borders policies and applicable law. </p><p>In order to offer you a more consistent experience in your interactions with Borders, information collected via the Websites and/or kiosks may be combined with information we collect by other means. We may also use your personal information to improve the Websites, to optimize third-party offers of products and/or services through programs like Borders Rewards Perks, or to make the Websites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Websites to your particular preference or interests. </p><p>If you have chosen to receive communications by email from us but later wish to opt-out of receiving such communications from us at any time, simply follow the instructions for doing so included in the emails. </p><p>If you would like to opt-out of receiving any program-related and other direct mail from us, please send a written request to:</p><p>Borders<br>Attn: Customer Care <br>P.O. Box 7002<br>LaVergne, TN 37086</p><p>We reserve the right to send you certain communications relating to the Websites, the kiosks, the Borders Rewards and/or Borders Rewards Perks programs, or any of our email subscription or mobile content delivery programs, such as service announcements or similar administrative or transactional messages, without offering you the opportunity to opt-out of receiving them.</p><p><b>Aggregate Information</b></p><p>From time to time, we and our service providers may collect general, non-personal, statistical information about the use of the Websites and/or kiosks, such as how many visitors visit a specific page on the Websites and/or kiosks, how long they stay on that page, and which hyperlinks, if any, they click on. We and our service providers collect this information through the use of technologies such as "cookies", which are discussed in greater detail in this Privacy Policy, and those described in the "Information Collected Automatically" section above. We and our service providers collect this information in order to determine which areas of the Websites and/or kiosks are most popular and to enhance the Websites and/or kiosks for visitors. We and our service providers may also group this information into aggregate visitor data in order to describe the use of the Websites and/or kiosks to our existing or potential business partners or other third parties, or in response to a government request. From time to time, we and our service providers may use this information to optimize third-party offers of products and/or services through programs like Borders Rewards Perks.</p><p>Borders and our service providers may share aggregated demographic and preference data with other service providers or third parties to enable the provision of targeted information and/or discounts on products and services to members. This information represents a generic overview of our users' collective viewing habits and allows vendors participating in Borders' programs, such as Borders Rewards Perks, to modify their discounts based on user traffic.</p><p><b>Our Use Of Cookies; Third Party Cookies; Web Beacons</b></p><p>Cookies are small files that websites save to your hard disk or to your browser's memory. We may use them to track the number of times you have visited the Websites and/or kiosks, to track the number of visitors to the Websites and/or kiosks, to determine and analyze visitors' use of the Websites, to store information that you provide such as your preferences, and to store technical information useful for your interactions with the Websites and/or kiosks. </p><p>The Websites and kiosks use both session ID cookies and persistent cookies. Session cookies are used to make it easier for you to navigate the site(s). A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies are set to store an encrypted link to your account information, so you don't have to enter it more than once. Persistent cookies also enable Borders to track and target the interests of users to enhance the experience on the site(s).</p><p>Most Internet browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your computer. If you choose to decline cookies, you may not be able to fully experience the features of the Websites. </p><p>You may occasionally get cookies from our business partners (e.g., advertisers, tracking utilities) or other third parties with links on the Websites. Borders has no control or access to these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. For the sake of clarity, this Privacy Policy covers the use of cookies by Borders' Websites and private label sub-domains delivered by Borders only and does not cover the use of cookies by any advertisers. </p><p>Our Websites and/or kiosks also may contain electronic images known as web beacons—sometimes called single-pixel gifs—that allow us to count the number of users who have visited those pages. We may include web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon.</p><p><b>When You Subscribe To Borders Email Programs</b></p><p>You can choose to receive email from us by signing up in store, on our Websites via program preferences pages, and on any in-store kiosk. When you sign up for email, we will send you information about our affiliated companies based on the preferences you have set. The emails we send will include special offers, promotions, updates on services offered, invitations to join other promotional programs, and notification of upcoming author events. To ensure that we are providing materials of interest to you, we may monitor whether you opened a particular email and whether you have clicked on the images and/or links therein.</p><p>Our HTML-based email messages include an invisible coded sensor that is activated when the email message is opened. This sensor communicates the date and time the message was opened and, more importantly, whether your computer is capable of receiving HTML-based email. You will receive a functioning sensor only if your computer is enabled to accept HTML email.</p><p>You may unsubscribe at any time from our email programs by clicking on the unsubscribe link at the bottom of any email message. All unsubscribe requests will be honored within ten (10) days. At any time, users may opt-out of Borders correspondence by sending an email to <a href="mailto:ccare@borders.com">ccare@borders.com</a> or by visiting <a href="/online/store/CustomerServiceView_optout">www.borders.com/optout</a>. Users may also access their personal information, including email address, to make edits in the "Your Account" summary page of the particular Borders program website. </p><p>Users may choose to receive Borders Rewards and/or Borders Rewards Perks correspondence, including email reminders of specific vendor offers and Borders Rewards Perks newsletters. The "Your Account" summary page on Borders' Websites displays the correspondence you have elected to receive, and provides the option to unsubscribe from future Borders program related emails. </p><p><b>Disclosure Of Your Personal Information</b></p><p>Except as described in this Privacy Policy, personal information you provide to Borders through the Websites, the kiosks, the Borders Rewards or Borders Rewards Perks programs, or any of our email subscription or mobile content delivery programs, will not be shared outside of Borders and its service providers without your permission. </p><p><i>Disclosure regarding service providers.</i> Borders contracts with other companies to provide services on our behalf, such as hosting the Websites, kiosks and product review pages, sending out information or promotional offers that may be of interest to you (e.g., via email, direct mail, or on mobile devices), and analyzing the Websites and kiosks. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose. </p><p><i>Disclosure regarding other third parties.</i> In some cases, if we have your permission and you have not opted-out, we may make your personal information available to third parties who have products or services that we believe will be of interest to you. If you later decide that you do not want us to share your personal information with these companies please click here <a href="/online/store/CustomerServiceView_optout">www.borders.com/optout</a>. </p><p><i>Disclosures in connection with acquisitions or divestitures.</i> Circumstances may arise where for strategic or other business reasons Borders decides to sell, buy, merge or otherwise reorganize its own or other businesses. Such a transaction may involve the disclosure of personal and other information to prospective or actual purchasers, or receiving it from sellers. It is Borders' practice to seek appropriate protection for information in these types of transactions. In the event that Borders or all of its assets are acquired in such a transaction, customer information would be one of the transferred assets.</p><p><i>Disclosure for other reasons.</i> Borders reserves the right to disclose your personally information, including email address, as required by law and when it is believed that disclosure is necessary to protect Borders' rights and/or comply with a judicial proceeding, court order, or legal process served on the site(s), or in urgent circumstances to protect the personal safety of any individual. Further, when you RSVP for in-store retail events, limited information may be provided to participating merchants in the form of the guest list for admittance into the private event. This information is limited to your first name and last name, and if you will be bringing a guest. This information will not be used for any purposes outside of the particular event. </p><p><b>Security</b> </p><p>The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. The personal information we collect is stored within databases that we control directly or through our service providers. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Of course, any information you post to any message board, discussion group, or other public posting area on our Websites and/or kiosks is available to anyone with Internet access.</p><p>If you create an account on the Websites and/or kiosks, and if you join the Borders Rewards and/or Borders Rewards Perks programs, you may be asked to choose a password for your account, in which case your online account information shall be protected by your password. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.</p><p><b>Links To Other Sites</b></p><p>The Borders Websites and the kiosks contain links to other third-party websites. Please be aware that Borders is not responsible for the privacy practices of other websites. If you submit any personal information to a third-party website or transact a purchase after clicking on a link from Borders' Websites, you are not submitting that information to Borders and Borders has no control over the collection and/or disclosure of that submitted information. We encourage our users to be aware when they leave our site and to familiarize themselves with the privacy statements of every website that collects personally information.</p><p><b>Service Providers </b></p><p>The Websites, kiosks, and Borders programs therein, use other third parties to process credit card transactions on the Websites. When you sign up for programs such as Borders Rewards, Borders Rewards Perks, and Borders Rewards Perks Plus, Borders and our service providers may collect and/or share first name, last name, credit card information and billing address as necessary for the third party to provide that service. No other information is shared with third parties for this purpose. These third parties are prohibited from using your personal information, including email address, for any other purpose. </p><p><b>Third-Party Vendors' Privacy </b></p><p>Borders Rewards Perks (<a href="http://www.bordersrewardsperks.com">www.bordersrewardsperks.com</a>) is a portal that enables users to purchase discounted products on the websites of participating vendors. Each vendor maintains its own privacy policy that you should be familiar with before you submit your personal information. <i>Our privacy policy is not applicable on any of the vendor sites.</i> Therefore, it is important for a potential buyer to familiarize himself with the privacy policies of each vendor.</p><p><b>Children's Privacy </b></p><p>We do not seek or knowingly collect any personal information about children under 13 years of age. If we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database.</p><p><b>In Summary </b></p><p>Borders is committed to protecting your privacy. Borders does not sell, trade, give away, or rent personal or company information, including email address, to any outside parties in ways other than disclosed in this Privacy Policy. Borders uses the information collected on the site to make shopping and promotional activities possible and to enhance your overall experience with Borders.</p><p><b>Governing Law; Visitors Residing Outside The United States</b></p><p>This Privacy Policy and the privacy practices of Borders will be subject exclusively to the laws of the State of Michigan within the United States of America, without regard to its conflict of law principles. Borders makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Websites and/or kiosks and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Websites and/or kiosks, you consent to the transfer and use of your information outside your country. Without limiting the foregoing, by providing any personally information to Borders, all Website and/or kiosk visitors, including, without limitation, Website and/or kiosk visitors in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America.</p><p><b>Updates to this Policy </b></p><p>We reserve the right to update our Privacy Policy from time to time. When we do, we will post a notice on the Websites for a reasonable period of time after such changes are made that this Privacy Policy has been updated and we will revise the "Last Modified" date at the top of this Privacy Policy. We encourage you to check this page periodically for any updates. Your continued use of the Websites following the posting of updates to this Privacy Policy will mean you accept those updates.</p><p><b>Contact Us</b></p><p>Any questions you may have regarding our Privacy Policy should be directed via email to <a href="mailto:ccare@borders.com">ccare@borders.com</a>, or via telephone at 800.770.7811. You can also write us at:</p><p>Borders<br>Attn: Customer Care <br>P.O. Box 7002<br>LaVergne, TN 37086 </p><p><br><br></p><p><b><a href="javascript:history.go(-1)" onmouseover="self.status=document.referrer;return true">Back to Previous Page</a></b></p>					<div class="content_holder_234">				<div class="content_wrapper">					<p></p>				</div>			</div>		 
+		</div>
+  	
+	
+	<br><br>
 
-<a href="/">Amazon.com Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<a href="/gp/site-directory/ref=gw_m_b_as">Directory of All Stores</a></td></tr>
-</tbody></table></td></tr><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr align="center"><td colspan="2">
-International Sites:&nbsp;
-<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.amazon.ca%3Fsite%3Damazon%26tag%3Dintl-usfooter-cahome-21&amp;token=AD297DDA0F9D6C887976CD08894B02DB57139A39">Canada</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.amazon.co.uk%3Fsite%3Damazon%26tag%3Dintl-usfooter-ukhome-21&amp;token=EDA85A835C0C35E68FBAFD33CEB75576E7B44F1F">United Kingdom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.amazon.de%3Fsite%3Damazon%26tag%3Dintl-usfooter-dehome-21&amp;token=EBC7637E551C69E801C6B030EF8B5ED613A56E92">Germany</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.amazon.co.jp%3Fsite%3Damazon%26tag%3Dintl-usfooter-jphome-22&amp;token=0AE1DFACC954F91986074504F57C1362C85FB6E8">Japan</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.amazon.fr%3Fsite%3Damazon%26tag%3Dintl-usfooter-frhome&amp;token=EE1EA6AB57493F5C3DA46E2CE0BE07638B8F6F3F">France</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fwww.joyo.com%3Fsource%3Damazon-usfooter&amp;token=0C8F02DAE64B5895BDA317DE0E4110D9A77AA9A2">China</a>
-</td></tr>
-</tbody></table></td></tr><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-
-
-<tbody><tr align="center"><td colspan="2">
-
-
-
-
-
-
-
-
-
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/cart/view.html">View Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/css/homepage.html">Your Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Money-home-page/b?ie=UTF8&amp;node=3309511">Sell Items</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/sign-in.html?ie=UTF8&amp;path=%2Fexec%2Fobidos%2Fone-click-main&amp;useRedirectOnSuccess=1&amp;opt=a">1-Click Settings</a></td></tr>
-</tbody></table></td></tr><tr><td><table class="bottomNavLinks" align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr align="center"><td colspan="2">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fp%3Dirol-irhome%26c%3D97664&amp;token=C5CA27E570ABF6606B802CA4294B56184805E5A0">Investor Relations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?%5Fencoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fp%3Dirol-mediaHome%26c%3D176060&amp;token=C5CA27E570ABF6606B802CA4294B56184805E5A0">Press Release</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Careers-University-Recruiting/b?ie=UTF8&amp;node=203348011">Careers at Amazon</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?location=http://associates.amazon.com/gp/associates/join&amp;token=CA33846610D84A7D03A14FC01A4C9307C6AE8023">Join Associates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/gp/redirect.html?location=http://advantage.amazon.com/gp/vendor/public/join&amp;token=77E3769AB3A5B6CF611699E150DC33010761CE12">Join Advantage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://zme.amazon.com/exec/varzea/subst/fx/home.html/ref=gw_bt_hs">Join Honor System</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Advertising/b?ie=UTF8&amp;node=276241011">Advertise With Us</a>
-</td></tr>
-</tbody></table></td></tr></tbody></table>
-
-
-
-<center class="tiny">
-
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a>
-|
-<a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496">Privacy Notice</a>
-© 1996-2008, Amazon.com, Inc. or its affiliates
-</center>
-
-
-<!-- whfh-pQHS1+/X2UN9241ru4ZbA/86iwZBCqkC rid-1JYDDGZBQ2P1WHTRQ2DP -->
-
+<!-- END: ContactCustomerCareService.jsp -->															          
+							</div>   
+						</div>
+							
+	        				       	  
+			<div class="content_container">
+				<div class="container_wrapper">
+					<div class="content_holder_1234">
+				      	
+                 <div id="footer">
+                	<div id="footer_wrapper">                        
+                        <div id="footer_1">
+                        	<h2><strong>Connect with us</strong></h2>
+                            <ul class="list_1">		                      	
+                                <li>- <a id="CustomerServiceID" class="on">Customer Care</a></li>                          	
+		                      	<li>- <a href="BGIView_aboutus">About Us</a></li>
+		                      	<li>- <a href="BGIView_careers">Careers</a></li></ul>
+                            <ul class="list_2">               
+								<li class="f1">- <a href="PartnerSiteInvestorsView">Investor Relations</a></li>
+                                <li>- <a href="PartnerSiteMediaRelationsView">Media Relations</a></li>
+                            </ul>
+                            <ul class="list_2">                  
+								<li class="f1">- <a href="http://www.borders.com/online/store/GroupSavingsServicesView_gssoverview">Business &amp; &nbsp;&nbsp;Educator Services</a></li>
+                                <li>- <a href="BGIView_affiliateprogram">Affiliate Program</a></li>
+                            </ul>
+                        </div>
+                        <div id="footer_3">
+	                        <h2>Borders Email</h2>
+                            <p>Book, music, DVD news—and great savings—delivered to your inbox. <a href="Email?catalogId=10001">Subscribe Now</a> </p>
+                        </div>
+                        <div id="footer_4">
+                        	<h2><strong>Borders.com Accepts:</strong></h2>
+                        	<span class="ba_logos">
+                        		<img src="/wcsstore/ConsumerDirectStorefrontAssetStore//images/content/credit_cards_accepts.jpg" width="259" height="36" border="0" alt="Credit Cards" title="Borders.com accepts Borders Gift Cards, Visa, MC, DISC, AMEX, and Bill Me Later">
+	                        </span>
+                       </div>
+                    </div>
+ 					<div class="footer_util">
+                    	<div class="copy">
+        					<p>© 2009, Borders, Inc. All rights reserved.</p>
+      					</div>
+                        <div class="footer_util_links">
+                        	<ul>
+                            	<li class="no_bullet"><a href="BGIView_sitemap">Site Map</a></li>
+                                <li class="bullet">•</li>
+                                <li><a href="CustomerServiceView_shipping">Shipping Policies</a></li>
+                                <li class="bullet">•</li>
+                                <li><a href="CustomerServiceView_privacypolicy">Privacy Policy</a></li>
+                                <li class="bullet">•</li>
+                                <li><a href="CustomerServiceView_termsofuse">Terms &amp; Conditions</a></li>
+                            </ul>
+                            <br>
+                        </div>
+                    </div>
+                    
+                    <div class="footer_util2">
+					    <div class="copy2">
+					        <p>Online prices may differ from in-store prices.</p>
+					    </div>
+					    <div class="footer_util_links2">
+					        <ul>
+					            <li class="bullet">•</li><li><a href="CustomerServiceView_firsttimevisitors#pricing">Pricing Policy</a></li>
+					        </ul> 
+					    </div>
+					</div>
+                    
+                </div>         
+                
+              
+                <!-- END: Footer -->	 
+					</div>
+				</div>
+			</div>				       	
+	   	</div>
+	</div>
 </div>
 
 
-</body></html>
+<div id="print">
+	<h2><img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/content/logo_print.gif" alt="Borders logo" border="0"></h2>
+	<p>
+	Online &nbsp;&nbsp;&nbsp;
+	Jun 30, 2009 05:41:41</p>
+</div>
+
+
+ 	<div id="content_end">
+		
+	</div>
+
+  
+ </div>
+  
+ 
+</div>
+ 
+<script defer="defer">
+
+	var commandName = "CustomerServiceView";
+	var docTitle = document.title;
+	/*alert("commandName " + commandName); */
+	var pageTitleLocal=commandName; /*if there is not doc title*/
+	
+	if(docTitle.length > 0)
+	{
+		var idx1 = docTitle.indexOf("- Borders");
+		pageTitleLocal=docTitle.substring(0,idx1);
+	}
+	
+
+	if(pageTitleLocal != "Page Not Found Error")
+	{
+	 	s.pageName=pageTitleLocal;
+	 	s.pageName=s.pageName.replace(/\u2019/g,"'");
+	 	s.pageName=s.pageName.replace(/:/g," ");
+		s.pageName=s.pageName.replace(/;/g," ");
+		var channel = "CustomerServiceView";
+		
+		if(channel.length > 0)
+		{
+			s.channel=channel;
+		}
+		else /*set command name*/
+		{
+			s.channel=commandName;
+		}
+ 		/*alert("pagetitle not error");*/
+ 	}
+ 	else 
+ 	{
+		s.pageType="errorPage";
+		/*alert("pagetitle error");*/
+ 	}
+
+ 	s.server="www.borders.com";
+	
+ 	var s_code=s.t();if(s_code)document.write(s_code);
+</script>
+
+
+
+
+
+
+</div></body></html>
