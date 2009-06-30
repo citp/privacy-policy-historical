@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisd.net privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224050436id_/http%3A//www.sisd.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisd.net privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630233105id_/http%3A//www.sisd.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D190) for the most accurate reproduction.*
 
 # Socorro Independent School District
 
