@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035808id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630131402id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
-# Email Search & People Finder Powered by Intelius
+# People Search Using Business Listings | Intelius
 
 Effective May 01, 2006 
 
