@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085559id_/http%3A//www.westfield.com./uscentres/site/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630094904id_/http%3A//westfield.com/uscentres/site/yourprivacy) for the most accurate reproduction.*
 
 # Westfield - Your Privacy
 
