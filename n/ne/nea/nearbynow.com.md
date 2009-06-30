@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nearbynow.com privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914010444id_/http%3A//www.nearbynow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearbynow.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630095157id_/http%3A//www.nearbynow.com/info/privacy.html) for the most accurate reproduction.*
 
-# NearbyNow: Back to School Entry Form
+# NearbyNow: Privacy Policy
 
 ## 
 
@@ -84,5 +84,7 @@ If you have additional questions, please contact us any time. Or write to us at:
 
 Privacy Matters  
 c/o NearbyNow, Inc.  
-4410 El Camino Real, Suite 104  
-Los Altos, CA 94022 (USA)
+1975 W. El Camino Real Suite 101  
+Mountain View, CA 94040 (USA)
+
+App Version:1.0 | IP:10.20.0.200 | Port:56363 | Build: 22011 | Page Loading Time: 28ms 
