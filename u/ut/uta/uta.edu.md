@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914045651id_/http%3A//www.uta.edu/oit/policy/cs/web/internet_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630120531id_/http%3A//www.uta.edu/oit/policies/Internet-privacy.php) for the most accurate reproduction.*
 
-# OIT - Internet Privacy Policy
+# Internet Privacy Policy - UT Arlington Office of Information Technology
+
+## Internet Privacy Policy
 
 You may be entitled to know what information UT Arlington collects concerning you. You may review and have UT Arlington correct this information according to procedures set forth in UT System UTS 139. The law is found in sections 552.021, 552.023 and 559.004 of the Texas Government Code.
 
-The University of Texas at Arlington, 701 South Nedderman Drive, Arlington, TX, 76019, USA, makes the following statement in regards to information gathering and dissemination practices for its web site: [http://www.uta.edu](http://www.uta.edu/). 
+The University of Texas at Arlington, 701 South Nedderman Drive, Arlington, TX, 76019, USA, makes the following statement in regards to information gathering and dissemination practices for its web site: [http://www.uta.edu](http://www.uta.edu/).
 
 **Platform for Privacy Preferences - P3P**
 
@@ -14,7 +16,7 @@ This information is also available in computer-readable format which complies wi
 
 Server logs - Server logs are studied for two reasons:
 
-  * Improving server performance 
+  * Improving server performance
   * Improving site design
 
 
@@ -31,4 +33,4 @@ This site contains links to other sites. University of Texas at Arlington is not
 
 **Contacting the Authors**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [ webmaster@uta.edu](mailto:webmaster@uta.edu).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@uta.edu](mailto:webmaster@uta.edu).
