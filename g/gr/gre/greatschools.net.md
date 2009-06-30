@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2008-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081030083054id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630061925id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
 
 # GreatSchools.net Privacy Statement
 
@@ -46,7 +46,7 @@ From time to time, GreatSchools may email our newsletter subscribers a request t
 
 #### Choice/Opt Out
 
-Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/cgi-bin/newsletters/state=TX) on the site. 
+Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/cgi-bin/newsletters/state=CA) on the site. 
 
 #### User Surveys
 
@@ -90,9 +90,9 @@ GreatSchools allows advertising by third parties. GreatSchools does not control 
 
 GreatSchools may offer contests, sweepstakes, and promotions that are sponsored by third-party advertisers or sponsors. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. GreatSchools does not control the third parties' use of information. 
 
-GreatSchools may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). We do not have access to these cookies or any information that they contain. The GreatSchools privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
+GreatSchools may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). We do not have access to these cookies or any information that they contain. The GreatSchools privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
-GreatSchools is currently contracted with TACODA, Inc., a third party, to track and analyze anonymous usage and browsing patterns of our users in order to deliver advertisements that are most likely to be of interest to you. TACODA utilizes certain technologies to deliver advertisements and marketing messages to you and to collect anonymous information about your visit to our Web site, including your IP address and information from cookies it places on your computer. All data collected by TACODA on behalf of our Web sites is owned by GreatSchools. For more information about TACODA'S privacy policy, including how to opt out, go to [www.tacoda.com/privacy_policy.html](http://www.tacoda.com/privacy_policy.html). 
+We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 #### A Notice About External Links
 
