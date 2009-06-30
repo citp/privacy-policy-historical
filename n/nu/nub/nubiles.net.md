@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529205040id_/http%3A//nubiles.net/privacypolicy.html%3FPHPSESSID%3D20923723822418c6463ccd635a7e809b2313295c7d15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubiles.net privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630074132id_/http%3A//www.nubiles.net/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
 I. General 
 
 A. The operative parties referred to in this policy are COMPANY and you, the user of these sites.  
-1\. XFC, Inc., is the publisher and operator of the following websites:
+1\. International Content B.V., is the publisher and operator of the following websites:
 
 • nubiles.net,  
 • lauraloveskatrina.com,   
@@ -16,7 +16,7 @@ A. The operative parties referred to in this policy are COMPANY and you, the use
 • springbreakfuckadventures.com, and   
 • lauraloveskatrina.com.
 
-Hereinafter XFC, Inc., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to XFC, Inc., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
+Hereinafter International Content B.V., shall be referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to International Content B.V., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITES” or “SITES” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy. 
 
 2\. You, the User – As the user of these sites, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the sites shall be referred to in applicable second-person pronouns.
 
@@ -40,7 +40,7 @@ Active Collection – we collect information from you when you complete registra
 
 V. How we use your information
 
-The primary use for your information is to provide you with services you have requested and/or paid for. We do not provide your information to any third parties, additionally, we do not use your information for statistical purposes. We do intend to and reserve the right to use any and all of your information in order to contact existing users and previous users. Such uses may include e-mails to prior customers inviting them to return to the site and to re-establish a business relationship with us. We will also use your information to e-mail customers for help with support issues, including anticipating support issues that existing customers or past customers my encounter. We will have an opt out or a “do not contact” process. You may contact us at support@xfusioncash.com in order to opt out of any and all e-mail communications with you. We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. 
+The primary use for your information is to provide you with services you have requested and/or paid for. We do not provide your information to any third parties, additionally, we do not use your information for statistical purposes. We do intend to and reserve the right to use any and all of your information in order to contact existing users and previous users. Such uses may include e-mails to prior customers inviting them to return to the site and to re-establish a business relationship with us. We will also use your information to e-mail customers for help with support issues, including anticipating support issues that existing customers or past customers my encounter. We will have an opt out or a “do not contact” process. You may contact us at support@nubiles.net in order to opt out of any and all e-mail communications with you. We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. 
 
   
 VI. Special Cases. 
@@ -63,7 +63,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
 VII. Transmittals from Us
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting support@xfusioncash.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting support@nubiles.net or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
 
 If you provide your information to us, use the Sites, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
 
@@ -82,11 +82,11 @@ We take measures, including data encryption, to protect the transmission of all 
   
 X. How to Access or Modify Your Information. 
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at privacy@support@xfusioncash.com.
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at support@nubiles.net.
 
 XI. Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at support@xfusioncash.com.
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at support@nubiles.net.
 
   
 \- End –  
