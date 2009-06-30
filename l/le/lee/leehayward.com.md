@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leehayward.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912160836id_/http%3A//www.leehayward.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leehayward.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630062422id_/http%3A//www.leehayward.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # LeeHayward.com Privacy Policy
 
