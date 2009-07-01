@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531012300id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701135247id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
 
 # Properties & Real Estate in India - India Property Portal
 
