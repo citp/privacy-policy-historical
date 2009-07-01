@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055644id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete.org privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701041502id_/http%3A//www.concrete.org/GENERAL/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # ACI Privacy Policy
 
