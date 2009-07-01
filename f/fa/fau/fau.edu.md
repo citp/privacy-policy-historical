@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531214415id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701211542id_/http%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
 
 # Florida Atlantic University - Privacy Policy
 
   | 
+
+Internet Privacy Policy
 
 Thank you for visiting the Florida Atlantic University website. Our policy is to collect no personal information about you when you visit our website unless you choose to make such information available to us.
 
@@ -14,6 +16,8 @@ Please be advised that under Florida law, e-mail addresses are public records. 
 
 If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [fauweb@fau.edu](mailto:fauweb@fau.edu) or you can reach us by telephone at 561-297-3999.  
 
+
+FAU Web Legal Notice
 
 Florida Atlantic University provides computing resources for authorized academic, administrative and research purposes. Unauthorized use of computing resources and/or facilities may result in loss of computing privileges, disciplinary action, or prosecution.
 
