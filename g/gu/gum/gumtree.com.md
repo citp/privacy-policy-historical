@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212063541id_/http%3A//www.gumtree.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701095701id_/http%3A//www.gumtree.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Gumtree.com: UK's No. 1 in classifieds - jobs, property, cars and more
 
 ## Gumtree Privacy Policy
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. You can find the old Privacy Policy [here](https://web.archive.org/privacy_policy_2008.html). 
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, Registered Number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. You can find the old Privacy Policy [here](https://web.archive.org/privacy_policy_2008.html). 
 
 ## Collection
 
