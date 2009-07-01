@@ -1,176 +1,849 @@
-<!--The following is the downloaded HTML source of the quikr.com privacy policy that was archived on 2008-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080911132735id_/http%3A//www.quikr.com/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quikr.com privacy policy that was archived on 2009-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090701104224id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript">
+var prevShowDivId;
+//to close the popup
+function MM_showHideLayers() { //v9.0
+
+	var i,p,v,obj,args=MM_showHideLayers.arguments;
+	var prevShowDivObj;
+	for (i=0; i<(args.length-2); i+=3)
+	with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) {
+		v=args[i+2];
+		if (obj.style) {
+			obj=obj.style; v=(v=="show")?"visible":(v=="hide")?"hidden":v;
+		}
+		prevShowDivObj = getElementById(prevShowDivId);
+		if (v == "visible" && prevShowDivObj != null) {
+			prevShowDivObj.style.visibility = "hidden";
+		}
+		obj.visibility=v;
+		if (v == "visible") {
+			prevShowDivId = args[0];
+		}
+	}
+
+}
+
+function HideContent(d) {
+	if(d.length < 1) { return; }
+	document.getElementById(d).style.display = "none";
+	document.getElementById('trans').style.display="none";
+
+}
+
+//to open popup
+function ShowContent(d,link_id,mGlobalId,mTab) {
+	var mIndex=link_id.split("_");
+	document.getElementById('mTab').value=mTab;
+
+	document.getElementById('mGlobalId').value=mGlobalId;
+	if(d.length < 1) { return; }
+	var dd = document.getElementById(d);
+	var link_obj=document.getElementById(link_id);
+	var mMetaName=document.getElementById("mMeta_"+mIndex[1]).value;
+
+	document.getElementById('mMetaName').value=mMetaName;
+	if(dd.style.display=="none"){
+		document.getElementById('trans').style.display="";
+		dd.style.display="";
+
+	}
+	else{
+		dd.style.display="none";
+		document.getElementById('trans').style.display="none";
+	}
+
+}
+
+//for search
+//for search
+function mSubmitSearch(){
+
+	mKey=document.searchIndexForm.query.value;
+	if(mKey == "Enter your search term here"){
+		mKey="";
+	}
+	mCatDomain=document.getElementById('categoryId').value;
+
+	if(mCatDomain==0){
+		alert("Please Select City");
+		return false;
+	}else {
+		mKey=mKey.replace(/[^a-zA-Z 0-9]+/g,'');
+		mFullDomain=mCatDomain.split("-");
+		mCatId=mFullDomain[0];
+		mDomain=mFullDomain[1];
+
+		mRedirectUrl='http://'+mDomain+'/page/search.php?query='+mKey;
+		parent.document.location=mRedirectUrl;
+	}
+}
+
+
+function mSubmitCatSearch(formId){
+	
+	mCatDomain=document.getElementById('categoryId').value;
+	if(mCatDomain==0){
+		alert("Please Select City");
+		return false;
+	}
+	mKey=document.forms[formId].query.value;
+	if(mKey=="Enter your search term here"){
+		mKey="";
+		document.forms[formId].query.value=mKey;
+	}
+ 
+	document.forms[formId].submit();
+
+}
+
+//to submit the index page after selecting category with city
+// TODO: Is it necessary to specify the domain portion of the url? http://"+mCity+"."+dName+".com/f- ...? Please check.
+function submitIndex(mCity,dName){
+
+	var mGId;
+	var mMetaCat;
+	var mTab;
+
+	mGId=document.getElementById('mGlobalId').value;
+	mMetaCat=document.getElementById('mMetaName').value;
+	mTab=document.getElementById('mTab').value;
+
+	MGIdSplit=mGId.split("_");
+	mGlobalID=MGIdSplit[0];
+	mSubCatName=MGIdSplit[1];
+	//dName="quikr";
+
+	if(mTab=='undefined'){
+
+		if(mSubCatName!=null)
+		{
+			window.location="http://"+mCity+"."+dName+".com/f-"+mMetaCat+"-"+mSubCatName+"-W0QQGlobalCatIdZ"+mGlobalID;
+		}
+		else
+		{
+			window.location="http://"+mCity+"."+dName+".com/f-"+mMetaCat+"-W0QQGlobalCatIdZ"+mGlobalID;
+		}
+
+	}else{
+
+		window.location="http://"+mCity+"."+dName+".com/"+mTab;
+
+	}
+
+}
+//To opne sms popup
+
+function ShowSMSPopUp(d,u) {
+
+	if(d.length < 1) { return; }
+	ajaxUrl="?"+u;
+    //alert(ajaxUrl);
+    makeRequest(ajaxUrl,ResponseHandler,"errors","POST");
+    
+	var dd = document.getElementById(d);
+	//alert(dd.style.display);
+	if(dd.style.display=="none"){
+
+		dd.style.display=""; //disabled
+		document.getElementById('trans').style.display="";
+	}
+	else{
+
+		dd.style.display="none";
+		document.getElementById('trans').style.display="none";
+	}	
+	    displayLeadForm();
+
+}
+function ResponseHandler(resobj)
+{
+}
+function displayLeadForm(){ 
+	url='/qleads/?aj=1&sms_popup=1';
+	new Ajax.Updater('smsPopContent',url,{
+		evalScripts: true
+	});
+	
+	/*new Ajax.Request(url, { 
+			  method: 'get',			 
+			  onSuccess: function(xml){
+				$('smsPopContent').show();
+			  	$('smsPopContent').innerHTML=xml.responseText;	
+			  }
+	});	*/
+}
+
+function SmsPopUpHide()
+{
+	
+	document.getElementById('smsPopContent').style.display="none";
+	document.getElementById('trans').style.display="none";
+	document.getElementById('thax').style.display="none";
+	document.getElementById('post').style.visibility ="";
+	
+	document.getElementById('leadMsg').value = '';
+	document.getElementById('leadName').value = '';
+	document.getElementById('leadMobile').value = '';
+	document.getElementById('leadEmail').value = '';
+	document.getElementById('leadCategory').value = '0';
+	document.getElementById('leadLocality').value = '';
+	document.getElementById('errMsg').style.visibility = 'hidden';
+	document.getElementById('remLen').value = '85';
+	document.getElementById('submitLink').innerHTML="<a onClick='javascript:leadLandDataPost(document.leaddataform);' style='cursor:pointer'><img src='http://www.quikr.com/images/submit.gif'></a>";
+	
+}
+function textCounter(field, countfield, maxlimit) {
+	if (field.value.length > maxlimit) // if too long...trim it!
+	{
+		field.value = field.value.substring(0, maxlimit);
+	}
+	// otherwise, update 'characters left' counter
+	else
+	{
+		countfield.value = maxlimit - field.value.length;
+	}
+}
+function getLeadAttribute(gcat,divName)
+{
+	var randomnumber=Math.floor(Math.random()*11)
+	if(divName == 'leadAttributeDiv1'){
+		var url = "/qleads/?g="+gcat+"&rn="+randomnumber+"&aj=1&newLead=1";
+	}else{
+    	var url = "/qleads/?g="+gcat+"&rn="+randomnumber+"&aj=1";
+	}
+    new Ajax.Request(url, {
+		 method: 'get',			  
+		 onSuccess: function(xml){
+		 	var str=xml.responseText;
+		 	var response=str.split('|||');
+		 	if(divName == 'leadAttributeDiv1'){
+		 		$('leadAttributeDiv1').innerHTML=response[0];			
+		 	}else{
+		 		$('leadAttributeDiv').innerHTML=response[0];			
+				$('requireDesptn').innerHTML=response[1];
+		 	}
+		 }
+	});	
+       
+}
+
+function leadLandDataPost(datafrm)
+{	
+    $('submitLink').innerHTML="<b style='color:#0094D4'>Please wait........<b>";
+    var url = "/util/LeadDataProcess.php?aj=1";
+	
+    new Ajax.Request(url, {
+			  method: 'post',
+			  parameters:$(datafrm).serialize(true),
+			  onSuccess: function(xml){
+				leadDataSubmitResponseHandler(xml.responseText);
+			  }
+			});
+}
+
+</script>
+
+<title>Quikr.com - Free Local Classifieds. Find, Buy, Sell Cars, Property, Apartments, Furniture, Pet Dogs, Mobile phones. Search for SME and freelance jobs in key Indian cities &amp; post free ads on Quikr.com for used mobiles, bikes, carpool, laptops, ipods, TV's and other household goods</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy
+<meta http-equiv="Content-Language" content="en-US">
+<meta name="verify-v1" content="B4+06pfZSy175uIuS3HYJI9VOiellqDtn86ISgRY77U=">
+<meta name="description" content="Quikr.com - Helps you Buy, Sell Used cars, Apartments for rent, search for Property for sale and buy Furniture. Search for Jobs, a Carpool for work and even Matrimonials online. Only at Quikr.com - The Free Classifieds website in India.">
+<meta name="keywords" content="paying guest, free classifieds, apartments for rent, rent apartments, buy furniture, catering services, classifieds India, find paying guest, free classifieds ads, buy used mobile, buy apartment, free advertisements, local classifieds, matrimony, sell apartment">
+<link href="http://static.quikr.com/css/quikr1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://static.quikr.com/js/prototype.js?v=$1"> </script>
+<script type="text/javascript" src="http://static.quikr.com/js/kijiji.js"></script>
+<script type="text/javascript" src="http://static.quikr.com/js/allyahoo_autocomplete.js"></script>
+<script type="text/javascript" src="http://static.quikr.com/js/ieActiveFlash.js"></script>
 
-</title>
-<link rel="stylesheet" href="/cg_css/yi_base.css" type="text/css"><link rel="stylesheet" href="/cg_css/yi_html.css" type="text/css"><script src="http://static.quikr.com/cg_js/utils.js?v=$1" type="text/javascript"></script><script type="text/javascript" src="http://static.quikr.com/js/prototype.js?v=$1"></script><script type="text/javascript" src="http://static.quikr.com/js/additional.js?v=$1"></script><script type="text/javascript" src="http://static.quikr.com/js/kijiji.js?v=$1"></script>
+<script language="JavaScript" src="http://static.quikr.com/cg_js/ajaxlib.js" type="text/javascript"></script> 
+<script language="JavaScript" src="http://static.quikr.com/js/leaddata.js" type="text/javascript"></script>
 
-<style type="text/css">
-<!--
-	#h_qiehuan #qiehuanbox{margin-left:-138px;position:absolute;border:1px solid #FFA800;background:#fff;padding:10px;width:330px;z-index:100;top:79x;}		
-	#h_qiehuan a{text-decoration:none;}
-	#qiehuanbox li{float:left; width:auto; margin-right: 6px;}
-	#h_qiehuan{margin-left:175px;*margin-left:0px;margin-top:-7px;position:absolute;z-index:110;}
-	#h_qiehuan .ai{color:#0099CC}
-	#qiehuanbox p{height:15px;display:block;width:100px;overflow:hidden;position:absolute; margin-top:-21px;margin-left:110px;}
-	#home3Button{margin:10px 0;border:1px solid #FFDF70;background:#FFEDAE url(http://static.quikr.com/cg_img/home_r_bg4.gif) repeat-x left top;clear:both;}
-	#home3Button td{height:30px; text-align:center; background:url(http://static.quikr.com/cg_img/home_r_bg5.gif) no-repeat center top ;width:110px;}
-	#home3Button a{ font-size:14px;text-decoration:none; }
-	
-	#hotHomeNav{clear:both;text-align:center; background:#5FA325; padding-top:1px;}
-	#hotHomeNav div{ border-top:1px solid #AAD97D;padding:2px 0 0 0; color:#fff;}	
-	#hotHomeNav p a{ color:#fff;text-decoration:none;}
-	#hotHomeNav p{width:900px; margin:0 auto;}	
-	#hotHomeNav p strong{ color:#000;background:url(http://static.quikr.com/cg_img/home_hot.gif) no-repeat left center;padding-left:45px;font-weight: normal;}
-	#hotHomeNav p em{display:block;height:5px;width:48px;*width:51px;background:#5FA325;overflow:hidden;position:absolute; margin:-5px 0 0 311px}
-	
-	#myAddPanel{ padding-left:25px; background: url(http://static.quikr.com/images/shoucang.gif) no-repeat 5px center;}
 
-	/*tab*/
-	.tab li{display:inline;}
-	.tab a{background:url(http://static.quikr.com/images/css/kijiji_bg1.gif) no-repeat;}		
-	.tab a:link,.tab a:visited{float:left;background-position:left -134px;text-decoration:none;margin-left:0px;}	
-	.tab a:link span,.tab a:visited span{display:block;background:url(http://static.quikr.com/images/css/kijiji_bg1.gif) no-repeat right -134px;font-size:14px;padding:2px 8px;color:#000}		
-	.tab a:hover,.tab a:active{background-position:left -210px;}	
-	.tab a:hover span,.tab a:active span{background-position:right -210px;}	
-	.tab .on a:link,.tab .on a:visited{background-position:left -309px;}
-	.tab .on a span,.tab .on a:link span,.tab .on a:visited span{background:url(http://static.quikr.com/images/css/kijiji_bg1.gif) no-repeat right -309px;color:#FFF;font-weight:bold}
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+
+<script>
+function textCounterNew(field, countfield, maxlimit) {
 	
--->
-</style>
-</head>
-<body>
-<div id="wrapper">
-  <div id="header">
-    <div id="logo"><a href="http://www.quikr.com"><img src="http://static.quikr.com/help/cg_img/logo.gif" alt="Quikr" title="Quikr" style="display: block;"></a></div>
-    <div class="l">
-      <h2></h2>
+	if (field.value.length > maxlimit) // if too long...trim it!
+	{
+		field.value = field.value.substring(0, maxlimit);
+	}
+	// otherwise, update 'characters left' counter
+	else
+	{
+		countfield.value = maxlimit - field.value.length;
+	}
+	
+}
+
+function clickBlank(fldName,fieldVal,match){
+	if(match == '1'){
+		
+		if(fldName.value == 'Name')
+			document.getElementById('dec').style.display = 'block';
+			
+		//onblur="if(this.value=='')this.value='Name'" onfocus="if(this.value=='Name')this.value=''"	
+	}
+	if(fldName.value == fieldVal){
+		
+		fldName.value = "";
+		
+	}
+}
+String.prototype.trim = function() {
+    return this.replace(/(^\s*)|(\s*$)/g, "");
+}
+
+function showLead(){
+	if(document.getElementById('form_based')){
+		document.getElementById('form_based').style.display = 'block';
+		document.getElementById('dec').style.display = 'none';
+		
+	}
+	else {
+		document.getElementById('form_based1').style.display = 'block';
+		
+	}	
+	document.getElementById('thax1').style.display = 'none';
+	document.getElementById('submitNewLink').innerHTML="<a onClick='javascript:leadDataPostNew(document.leadCitydatform);' style='cursor:pointer'><img src='http://www.quikr.com/images/sms_lead_250509_3.gif'></a>";
+}
+</script>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+
+
+</head><body class="index_body"><div id="city_pop1" align="center">
+<div id="index1" style="display:none;">
+<div id="city_pop" style="text-align:left">
+	<div id="header" class="popup_header">Please select a City to proceed</div>
+    <div style="float:left;width:3%">
+      <div align="right">
+      	<a onclick="HideContent('index1');" style="cursor:pointer;cursor:hand;">
+      	<img src="/images/index_close.gif" width="16" height="16"></a></div>
     </div>
-    <div id="denglu"><script type="text/javascript">loginStatus();</script>
-    <span id="myAddPanel"><a href="#" onclick="myAddPanel('Quikr Index','http://www.quikr.com','Quikr Index')">Add to My Favorite</a></span>
-    </div>
-    <div class="c"></div>
-   <div id="nav" style="width:480px; margin:-27px 0 0 0;position:relative; left:330px;">
-        <ul class="tab">
-          <li><a href="http://delhi.quikr.com/"><span>Home</span></a></li>
-          <li><a href="http://delhi.quikr.com/fabu"><span>Post Free Ad</span></a></li>
-          <li><a href="http://delhi.quikr.com/wo"><span>My Quikr</span></a></li>
-          <li><a href="http://forum.quikr.com"><span>Discussion Forum</span></a></li>
-          <li><a href="http://delhi.quikr.com/help"><span>Help</span></a></li>
-        </ul>
-    </div>
-    <div class="c"></div>
+    <input type="hidden" name="mGlobalId" id="mGlobalId">
+    <input type="hidden" name="mMetaName" id="mMetaName">
+	<input type="hidden" name="mTab" id="mTab">
+   
+    
+    
+    <div class="popup_city">
+			<a onclick="submitIndex('Ahmedabad','quikr')" style="cursor:pointer;cursor:hand;">Ahmedabad</a><br>
+			<a onclick="submitIndex('Bangalore','quikr')" style="cursor:pointer;cursor:hand;">Bangalore</a><br>
+			<a onclick="submitIndex('Chandigarh','quikr')" style="cursor:pointer;cursor:hand;">Chandigarh</a><br>
+			<a onclick="submitIndex('Chennai','quikr')" style="cursor:pointer;cursor:hand;">Chennai</a><br>
+</div><div class="popup_city">			<a onclick="submitIndex('Coimbatore','quikr')" style="cursor:pointer;cursor:hand;">Coimbatore</a><br>
+			<a onclick="submitIndex('Delhi','quikr')" style="cursor:pointer;cursor:hand;">Delhi</a><br>
+			<a onclick="submitIndex('Hyderabad','quikr')" style="cursor:pointer;cursor:hand;">Hyderabad</a><br>
+			<a onclick="submitIndex('Kochi','quikr')" style="cursor:pointer;cursor:hand;">Kochi</a><br>
+</div><div class="popup_city">			<a onclick="submitIndex('Kolkata','quikr')" style="cursor:pointer;cursor:hand;">Kolkata</a><br>
+			<a onclick="submitIndex('Mumbai','quikr')" style="cursor:pointer;cursor:hand;">Mumbai</a><br>
+			<a onclick="submitIndex('Mysore','quikr')" style="cursor:pointer;cursor:hand;">Mysore</a><br>
+			<a onclick="submitIndex('Pune','quikr')" style="cursor:pointer;cursor:hand;">Pune</a><br>
+</div><div class="popup_city">			<a onclick="submitIndex('Indore','quikr')" style="cursor:pointer;cursor:hand;">Indore</a><br>
+			<a onclick="submitIndex('Gurgaon','quikr')" style="cursor:pointer;cursor:hand;">Gurgaon</a><br>
+			<a onclick="submitIndex('Jaipur','quikr')" style="cursor:pointer;cursor:hand;">Jaipur</a><br>
+			<a onclick="submitIndex('Lucknow','quikr')" style="cursor:pointer;cursor:hand;">Lucknow</a><br>
+</div><div class="popup_city">			<a onclick="submitIndex('Nagpur','quikr')" style="cursor:pointer;cursor:hand;">Nagpur</a><br>
+			<a onclick="submitIndex('Surat','quikr')" style="cursor:pointer;cursor:hand;">Surat</a><br>
+  	</div>
+</div>
+</div>
+</div>
+
+
+ <script type="text/javascript">
+ function mOpenCity(){
+
+ 	if(document.getElementById('mCityBlock').style.display=="none")
+ 	document.getElementById('mCityBlock').style.display="";
+ 	else
+ 	document.getElementById('mCityBlock').style.display="none";
+
+
+ }
+ </script>
+
+
+
+<div id="bands"></div>
+<div id="trans" style="display:none;"></div>
+<div class="new">
+
+
+<div id="site_header">
+<div id="logo_quikr"><a href="http://www.quikr.com" target="_parent"><img src="http://static.quikr.com/images/logo.gif" alt="www.quikr.com"></a></div>
+<div id="nav_table">
+<table>
+<tbody><tr><script type="text/javascript">loginStatus('quikr'); </script>
+
+</tr>
+<tr>
+<td width="153" rowspan="2" align="center" valign="top" style="line-height:28px">
+	<h2>&nbsp;</h2> 
+ <a style="cursor:pointer;cursor:hand;" onclick="MM_showHideLayers('greentop','','show')"><img src="http://www.quikr.com/images/select_city.gif"></a> <br>
+   
+  
+    
+
+
+<div id="greentop">
+	<div id="green_dhtml">
+		<div id="green_dhtml_content1">
+			<ul>
+			
+				<li><a href="http://Ahmedabad.quikr.com" style="cursor:pointer;cursor:hand;">Ahmedabad</a></li>
+			
+				<li><a href="http://Bangalore.quikr.com" style="cursor:pointer;cursor:hand;">Bangalore</a></li>
+			
+				<li><a href="http://Chandigarh.quikr.com" style="cursor:pointer;cursor:hand;">Chandigarh</a></li>
+			
+				<li><a href="http://Chennai.quikr.com" style="cursor:pointer;cursor:hand;">Chennai</a></li>
+			
+				<li><a href="http://Coimbatore.quikr.com" style="cursor:pointer;cursor:hand;">Coimbatore</a></li>
+			
+				<li><a href="http://Delhi.quikr.com" style="cursor:pointer;cursor:hand;">Delhi</a></li>
+			
+				<li><a href="http://Hyderabad.quikr.com" style="cursor:pointer;cursor:hand;">Hyderabad</a></li>
+			
+				<li><a href="http://Kochi.quikr.com" style="cursor:pointer;cursor:hand;">Kochi</a></li>
+			
+				<li><a href="http://Kolkata.quikr.com" style="cursor:pointer;cursor:hand;">Kolkata</a></li>
+			
+				<li><a href="http://Mumbai.quikr.com" style="cursor:pointer;cursor:hand;">Mumbai</a></li>
+			
+				<li><a href="http://Mysore.quikr.com" style="cursor:pointer;cursor:hand;">Mysore</a></li>
+			
+				<li><a href="http://Pune.quikr.com" style="cursor:pointer;cursor:hand;">Pune</a></li>
+			
+				<li><a href="http://Indore.quikr.com" style="cursor:pointer;cursor:hand;">Indore</a></li>
+			
+				<li><a href="http://Gurgaon.quikr.com" style="cursor:pointer;cursor:hand;">Gurgaon</a></li>
+			
+				<li><a href="http://Jaipur.quikr.com" style="cursor:pointer;cursor:hand;">Jaipur</a></li>
+			
+				<li><a href="http://Lucknow.quikr.com" style="cursor:pointer;cursor:hand;">Lucknow</a></li>
+			
+				<li><a href="http://Nagpur.quikr.com" style="cursor:pointer;cursor:hand;">Nagpur</a></li>
+			
+				<li><a href="http://Surat.quikr.com" style="cursor:pointer;cursor:hand;">Surat</a></li>
+<li style="font-size:14px;font-weight:bold;padding-top:5px"><a href="http://www.quikr.com/index.php" style="cursor:pointer;cursor:hand;" target="_parent">Home</a></li>			</ul>
+			<div class="green_close">
+				<a style="cursor:pointer;cursor:hand;" title="Close"><img src="http://www.quikr.com/images/close.gif" alt="Close" border="0" onclick="MM_showHideLayers('greentop','','hide')"></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</td><td>&nbsp;</td>
+
+<td><div class="free_bubble_other"><img src="http://static.quikr.com/images/post_ad_free.gif"></div>
+<div id="nav" style="padding-left:34px">
+	<ul class="tab">
+		<li><a rel="nofollow" href="http://www.quikr.com/" target="_parent"><span>Home</span></a></li>
+	<li><a rel="nofollow" href="http://www.quikr.com/PostAd" target="_parent"><span>Post Ad</span></a></li>
+		<li><a rel="nofollow" target="_parent" href="http://www.quikr.com/Register"><span>Register</span></a></li>
+		<li><a rel="nofollow" href="http://www.quikr.com/MyQuikr" target="_parent"><span>My Quikr</span></a></li>
+
+	<li><a rel="nofollow" href="http://forum.quikr.com" target="_parent"><span>Discussions</span></a></li>
+
+	<li><a rel="nofollow" href="http://www.quikr.com/help/" target="_parent"><span>Help</span></a></li>
+	</ul>
+</div></td>
+<td valign="top">&nbsp;</td>
+<td width="70" rowspan="2" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="header_left"></td>
+<td class="header_middle">
+<input type="hidden" name="mGlobalId" id="mGlobalId" value="">
+<input type="hidden" name="strcategoryname" id="strcategoryname" value="">
+<input type="hidden" name="strsubcategoryname" id="strsubcategoryname" value="">
+<input type="hidden" name="adId" id="adId" value="">
+
+<form id="searchFormIndex" name="searchFormIndex" method="get" action="http://www.quikr.com" onsubmit="mSubmitCatSearch('searchFormIndex');return false">
+<input type="hidden" name="searchsubmit" value="true">
+<input name="query" type="text" class="height_test search_term" id="query" value="Enter your search term here" onblur="if(this.value=='')this.value='Enter your search term here'" onfocus="if(this.value=='Enter your search term here')this.value=''">
+<select class="height_test search_drop" name="categoryId" id="categoryId">
+<option value="0">Select City</option>
+<option value="1" selected="">All Cities</option>
+<option value="22">Ahmedabad</option><option value="23">Bangalore</option><option value="24">Chandigarh</option><option value="25">Chennai</option><option value="26">Coimbatore</option><option value="27">Delhi</option><option value="28">Hyderabad</option><option value="29">Kochi</option><option value="30">Kolkata</option><option value="31">Mumbai</option><option value="32">Mysore</option><option value="33">Pune</option><option value="142222">Indore</option><option value="132222">Gurgaon</option><option value="152222">Jaipur</option><option value="162222">Lucknow</option><option value="172222">Nagpur</option><option value="182222">Surat</option></select>
+<img style="cursor:pointer;" src="http://www.quikr.com/images/index_submit.gif" width="80" height="27" align="absmiddle" class="search_button" onclick="mSubmitCatSearch('searchFormIndex');">
+</form>
+
+ 
+<!--input name="textfield" type="text" class="height_test search_term" id="textfield" value="Enter your search term here">
+<select class="height_test search_drop" name="categoryId" id="categoryId">
+<option value="22">Select Category</option>
+</select>
+<img src="images/index_submit.gif" width="80" height="27" align="absmiddle" class="search_button"><br /-->
+
+
+
+<div class="search_help">eg. dining table, laptops, paying guest</div></td>
+<td class="header_right"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div id="mask"></div><div id="wrapper">
+
+<script type="text/javascript"> 
+var catName = document.getElementById('strcategoryname').value;    //You will need to modify your code to capture the category //name in this variable
+var subcatName = document.getElementById('strsubcategoryname').value;  //You will need to modify your code to capture the //subcategory name in this variable
+var adid = document.getElementById('adId').value;
+var searchterm = document.getElementById('query').value;
+if (searchterm == 'Enter your search term here') {
+	searchterm = '';
+}
+ </script>
+ <script type="text/javascript">
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+ </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+ <script type="text/javascript">
+ var pageTracker = _gat._getTracker("UA-5568615-1");
+ pageTracker._setDomainName(".quikr.com");
+ pageTracker._initData();
+ //alert('header GA');
+ var strUrl ="";
+
+if (catName!="" && subcatName!="" ) // if subcategory is known capture this and the metacategory
+ {
+ 	strUrl = catName + "/" + subcatName + "?catname="+catName + "&subcatname="+ subcatName;
+ 	 	if(adid!="") {
+		strUrl =  strUrl + "&viewad=" + adid;
+	}
+ }
+ else if (catName!="" && subcatName=="" ) // if only metacategory know capture it
+ {
+ 	strUrl = catName + "?catname="+catName;
+ 	 	if(adid!="") {
+		strUrl =  strUrl + "&viewad=" + adid;
+	}
+ }
+ else // otherwise we would just append the keyword IF it is was a search submit.
+ {
+ 	strUrl = '';
+ 	 	if(adid!="") {
+		strUrl =  strUrl + "&viewad=" + adid;
+	}
+ }
+ pageTracker._trackPageview(strUrl);
+</script>
+<div id="smsPopContent" style="display:none;">
+
+</div>
+ <script type="text/javascript" src="../cg_js/data.js"></script>
+
+
+<div id="content">
+<div id="main_mykijiji">
+<div id="left_mykijiji">
+  <div class="my_l_k">
+    <h1><span>Quikr Information</span></h1>
+    <ul>
+      <li><a href="/html/about.php">About Us</a></li>
+      <li><a href="/html/contact.php">Contact Us</a></li>
+      <li><a href="/html/policies.php">Listing Policy</a></li>
+      <li class="my_xz">Privacy Policy</li>
+      <li><a href="/html/termsandconditions.php">Terms of Use</a></li>
+      <li><a href="/html/jobs.php">Careers</a></li>
+    </ul>
   </div>
-  <div id="search"></div>
-  <!--menu end --><!-- end search  -->
-
-  <div id="main_mykijiji">
-
-    <div id="left_mykijiji">
-
-      <div class="my_l_k">
-
-        <h1><span>Quikr Information</span></h1>
-
-        <ul>
-
-          <li><a href="/html/about.html">About Us</a></li>
-
-          <li><a href="/html/contact.html">Contact Us</a></li>
-
-          <li><a href="/html/policies.html">Listing Policy</a></li>
-
-          <li class="my_xz">Privacy Policy</li>
-
-          <li><a href="/html/termsandconditions.html">Terms of Use</a></li>
-
-          <li><a href="/html/jobs.html">Careers</a></li>
-
-        </ul>
-
-      </div>
-
-    </div>
-
-    <!-- left_mykijiji end -->
-
-    <div id="right_mykijiji">
-
-      <h1>Privacy Policy
-
-</h1>
-
-    <p>
-
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Quikr website ("Quikr") work and to keep it safe (details below). In formal terms, Quikr India Private Limited, acting itself and through its subsidiaries, is the "data controller" of your personal information. This policy is effective 16/11/2005 
+</div>
+<!-- left_mykijiji end -->
+<div id="right_mykijiji">
+  <h1>Privacy Policy</h1>
+<p>This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Quikr website ("Quikr") work and to keep it safe (details below). In formal terms, Quikr India Private Limited, acting itself and through its subsidiaries, is the "data controller" of your personal information. This policy is effective 16/11/2005 
 <br><br>
 <b>Collection.</b> Information posted on Quikr is obviously publicly available. Our servers are located in Mumbai, India. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information: 
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;•  email address, physical contact information, and (depending on the service used) sometimes financial information;
+<br>•  email address, physical contact information, and (depending on the service used) sometimes financial information;
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;•  computer sign-on data, statistics on page views, traffic to and from Quikr and Ad data (all through cookies – you can take steps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to disable the cookies on your browser although this is likely to affect your ability to use the site);
+<br>
+•  computer sign-on data, statistics on page views, traffic to and from Quikr and Ad data (all through cookies – you can take steps&nbsp;to disable the cookies on your browser although this is likely to affect your ability to use the site);
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;•  other information, including users IP address and standard web log information.<br><br>
+<br>
+•  other information, including users IP address and standard web log information.<br>
+<br>
 
 <b>Use.</b> We use users' personal information to: <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     provide our services; <br>
+•     provide our services; <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     resolve disputes, collect fees, and troubleshoot problems; <br>
+•     resolve disputes, collect fees, and troubleshoot problems; <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     encourage safe trading and enforce our policies; <br>
+•     encourage safe trading and enforce our policies; <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     customize users' experience, measure interest in our services, and inform users about services and updates; <br>
+•     customize users' experience, measure interest in our services, and inform users about services and updates; <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     communicate marketing and promotional offers to you; <br>
+•     communicate marketing and promotional offers to you; <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     Do other things for users as described when we collect the information. <br><br>
+•     Do other things for users as described when we collect the information. <br><br>
 
- 
+
 
 <b>Disclosure. </b>We don't sell or rent users' personal information to third parties for their marketing purposes without user's explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with:<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     Corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;market only to users who ask them to). <br>
+•     Corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will&nbsp;market only to users who ask them to). <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;•     Service providers who help with our business operations. <br><br>
+•     Service providers who help with our business operations. <br>
+<br>
 
- 
+
 
 <b>Using Information from Quikr. </b>You may use personal information gathered from Quikr only to follow up with another user about a specific posting, not to send spam/ phising or collect personal information from someone who hasn't agreed to that.<br><br>
 
- 
 
-<b>Access, Modification, and Deletion. </b>You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at <a href="mailto:privacy@quikr.com">privacy@quikr.com</a> to review any personal information we store that is not available on Quikr. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.<br><br>
 
- 
+<b>Access, Modification, and Deletion. </b>You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at <a href="mailto:privacy@quikr.com"><img width="104" height="15" border="0" align="absmiddle" src="http://img.quikr.com/quikr/privacy_quikr.gif"></a> to review any personal information we store that is not available on Quikr. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.<br><br>
+
+
 
 <b>Security. </b>We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.<br><br>
 
- 
 
-<b>General. </b>We may update, upgrade, modify (partially &amp;/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a href="mailto:privacy@quikr.com">privacy@quikr.com</a>.<br><br>
 
- 
-
+<b>General. </b>We may update, upgrade, modify (partially &amp;/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a href="mailto:privacy@quikr.com"><img width="104" height="15" border="0" align="absmiddle" src="http://img.quikr.com/quikr/privacy_quikr.gif"></a>.<br><br>
 </p>
+</div>
+<!--right_mykijiji end -->
+<div class="c">
+</div>
 
-    </div>
+</div>
+<div id="footer" style="clear:both">
+<a href="http://www.quikr.com/html/about.php" target="_parent">About Us</a> | <a href="http://www.quikr.com/html/contact.php" target="_parent">Contact Us</a> | <a href="http://www.quikr.com/html/policies.php" target="_parent">Listing Policy</a> | <a href="http://www.quikr.com/html/termsandconditions.php" target="_parent">Terms of Use</a> | <a href="http://www.quikr.com/html/privacy.php" target="_parent">Privacy Policy</a> | <a href="http://www.quikr.com/html/jobs.php" target="_parent">Careers</a>   | <a href="http://www.quikr.com/successStories/" target="_parent">Success Stories</a>
+<div class="quikr_info">Copyright © 2008 - 2009 Quikr India Private Limited</div></div>
+</div>
+</div>
+</div>
 
-    <!--right_mykijiji end -->
+<div id="bands"></div>
 
-    <div class="c"></div>
 
-  </div>
 
-  </div><div id="footer"><a href="http://www.quikr.com/html/about.html">About Us</a> | <a href="http://www.quikr.com/html/contact.html">Contact Us</a> | <a href="http://www.quikr.com/html/policies.html">Policy</a> | <a href="http://www.quikr.com/html/termsandconditions.html">Terms of Use</a> | <a href="http://www.quikr.com/html/privacy.html">Privacy Policy</a> |  <a href="http://www.quikr.com/html/jobs.html">Careers</a> <br>
-		  Copyright © 2008 Quikr India Private Limited<script language="JavaScript" src=" http://www.quikr.com/webtrends_sdc.js" type="text/javascript"></script><noscript><IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC=" http://sdc.quikr.com:81/dcs5w0txb10000wocrvqy1nqm_6n1p/njs.gif?dcsuri=/nojavascript&WT.js=No "></noscript><script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5568615-1");
-pageTracker._trackPageview();
-</script></div></body></html>
+<script> 
+  var domainName = "quikr"
+  
+  var globalUrl='';
+  
+  function makeCallForAjaxCityResult() {	 
+    /*     var txt = document.AjaxFilterForm.citySelectBox.selectedIndex;
+           var cityID = document.AjaxFilterForm.citySelectBox.options[txt].value;
+           //window.location.href = "http://"+cityName+".quikr.com";
+          
+    */
+    
+    /*  
+     if(keyword != '') {
+  	     window.location = "http://"+cityName+".quikr.com/search/"+keyword+"-"+cityName+"/c"+cityID+"?ss=true";
+     } else {
+  	     window.location = "http://"+cityName+".quikr.com/search/c"+cityID+"?ss=true";
+     }
+     */
+     var txt = document.AjaxFilterForm.citySelectBox.selectedIndex;
+     var cityName = document.AjaxFilterForm.citySelectBox.options[txt].value;
+     var cityId = document.AjaxFilterForm.citySelectBox.options[txt].id;
+     
+    
+     var keyword = document.AjaxFilterForm.keywordTxt.value;
+                      //http://mumbai.quikr.com/search/paying-all/paying/c31?ss=true
+     window.location = "http://"+cityName+"."+domainName+".com/search/"+keyword+"-all/"+keyword+"/c"+cityId+"?ss=true";
+     //alert("http://"+cityName+".quikr.com/search/"+keyword+"-all/"+keyword+"/c31?ss=true");
+  }
+  
+  function makeCallForAjaxCategoryResult() { 
+  	  //subCategorySelectBox" disabled 
+  	  
+  	// document.AjaxFilterForm.subCategorySelectBox.disabled = false;
+  	
+  	 
+     var txt = document.AjaxFilterForm.categorySelectBox.selectedIndex;
+     var CategoryName = document.AjaxFilterForm.categorySelectBox.options[txt].value;
+     var CategoryId = document.AjaxFilterForm.categorySelectBox.options[txt].id;
+     var keyword = document.AjaxFilterForm.keywordTxt.value;
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+            //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location = "http://"+cityName+"."+domainName+".com/search/"+keyword+"-"+CategoryName+"/"+keyword+"/c"+CategoryId+"?ss=true";
+     //new Ajax.Updater('divForAjaxRequest', url);
+  }
+ 
+
+  function makeCallForAjaxResult(url) { 
+	//document.getElementById('page_loader').style.display='block
+	//var url = "http://mumbai.quikr.com/search/b/c1071?ss=true&aj=1";
+	new Ajax.Updater('divForAjaxRequest', url);
+  }
+
+  
+  function makeCallForAjaxSubCategoryResult() { 
+     var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+     var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+     var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+     var keyword = document.AjaxFilterForm.keywordTxt.value;
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+            //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location = "http://"+cityName+"."+domainName+".com/search/"+keyword+"-"+subCategoryName+"/"+keyword+"/c"+subCategoryID+"?ss=true";
+     //new Ajax.Updater('divForAjaxRequest', url);
+  
+  }
+  
+  function makeCallForAjaxGlobalCategoryResult() { 
+  	 var txt = document.AjaxFilterForm.categorySelectBox.selectedIndex;
+     var CategoryName = document.AjaxFilterForm.categorySelectBox.options[txt].value;
+     var CategoryId = document.AjaxFilterForm.categorySelectBox.options[txt].id;
+     var keyword = document.AjaxFilterForm.keywordTxt.value;
+     //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location =  "http://www."+domainName+".com/search/"+keyword+"-"+CategoryName+"/"+keyword+"/g"+CategoryId+"?ss=true";
+    
+     //new Ajax.Updater('divForAjaxRequest', url);
+  }
+  
+   function makeCallForAjaxGlobaSubCategoryResult() { 
+     var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+     var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+     var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+     var keyword = document.AjaxFilterForm.keywordTxt.value;
+    
+            //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location = "http://www."+domainName+".com/search/"+keyword+"-"+subCategoryName+"/"+keyword+"/g"+subCategoryID+"?ss=true";
+   
+     //new Ajax.Updater('divForAjaxRequest', url);
+  
+  }
+  
+  
+  function makeCallForAjaxCityBrowse() {
+  	
+  	 var txt = document.AjaxFilterForm.citySelectBox.selectedIndex;
+     var cityName = document.AjaxFilterForm.citySelectBox.options[txt].value;
+     var cityId = document.AjaxFilterForm.citySelectBox.options[txt].id;
+     
+    
+     //  var keyword = document.AjaxFilterForm.keywordTxt.value;
+     //  http://mumbai.quikr.com/search/paying-all/paying/c31?ss=true
+     window.location = "http://"+cityName+".quikr.com/browse/All/c"+cityId;
+  	                 //   http://mumbai.quikr.com/browse/All/c31
+  }
+  
+  function makeCallForAjaxCategoryBrowse() { 
+     var txt = document.AjaxFilterForm.categorySelectBox.selectedIndex;
+     var CategoryName = document.AjaxFilterForm.categorySelectBox.options[txt].value;
+     var CategoryId = document.AjaxFilterForm.categorySelectBox.options[txt].id;
+
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+
+     window.location = "http://"+cityName+"."+domainName+".com/browse/"+CategoryName+"/c"+CategoryId;
+
+     //new Ajax.Updater('divForAjaxRequest', url);
+  }
+  
+  function makeCallForAjaxSubCategoryBrowse() { 
+  	
+     var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+     var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+     var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+     // alert(subCategoryID);
+     //var keyword = document.AjaxFilterForm.keywordTxt.value;
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+            //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location =  "http://"+cityName+"."+domainName+".com/browse/"+subCategoryName+"/c"+subCategoryID;
+
+     //new Ajax.Updater('divForAjaxRequest', url);
+  }
+  
+  
+  
+  function makeCallForAjaxGlobalCategoryBrowse() {  
+     var txt = document.AjaxFilterForm.categorySelectBox.selectedIndex;
+     var CategoryName = document.AjaxFilterForm.categorySelectBox.options[txt].value;
+     var CategoryId = document.AjaxFilterForm.categorySelectBox.options[txt].id;
+
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+
+     window.location =  "http://"+cityName+"."+domainName+".com/browse/"+CategoryName+"/g"+CategoryId;
+     
+    // new Ajax.Updater('divForAjaxRequest', url);
+  } 
+  
+  function makeCallForAjaxGlobalSubCategoryBrowse() { 
+       var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+     var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+     var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+     // alert(subCategoryID);
+     //var keyword = document.AjaxFilterForm.keywordTxt.value;
+     var cityName = document.AjaxFilterForm.cityNameTxt.value;
+            //http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+     window.location = "http://"+cityName+"."+domainName+".com/browse/"+subCategoryName+"/g"+subCategoryID;
+     //new Ajax.Updater('divForAjaxRequest', url);
+  }
+  //alert(globalUrl);
+  
+  
+  function makeCallForAjaxSubCategoryBrowseAdTypeFilter(eventObjet) { 
+  	var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+  	var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+  	var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+  	// alert(subCategoryID);
+  	//var keyword = document.AjaxFilterForm.keywordTxt.value;
+  	var cityName = document.AjaxFilterForm.cityNameTxt.value;
+  	//http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+  	window.location = "http://"+cityName+"."+domainName+".com/browse/"+subCategoryName+"/c"+subCategoryID+"?Ad_Type="+eventObjet.value+"&categoryId="+subCategoryID;
+  	
+    //new Ajax.Updater('divForAjaxRequest', url);
+  } 
+  
+  function makeCallForAjaxGlobalSubCategoryBrowseAdTypeFilter(eventObjet) {
+  	  	var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+  	var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+  	var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+  	// alert(subCategoryID);
+  	//var keyword = document.AjaxFilterForm.keywordTxt.value;
+  	var cityName = document.AjaxFilterForm.cityNameTxt.value;
+  	//http://mumbai.quikr.com/search/paying-real%20estate/paying/c1071?ss=true
+  	window.location =  "http://"+cityName+"."+domainName+".com/browse/"+subCategoryName+"/g"+subCategoryID+"?Ad_Type="+eventObjet.value+"&categoryId="+subCategoryID;
+  	
+   // new Ajax.Updater('divForAjaxRequest', url);
+  	
+  }
+
+    function makeGlobalSubCategorySearchAdTypeFilter(eventObjet) { 
+    	var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+    	var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+    	var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+    	var keyword = document.AjaxFilterForm.keywordTxt.value;
+
+    	window.location =  "http://www."+domainName+".com/search/"+keyword+"-"+subCategoryName+"/"+keyword+"/g"+subCategoryID+"?ss=true&Ad_Type="+eventObjet.value+"&categoryId="+subCategoryID;
+    	
+    	//new Ajax.Updater('divForAjaxRequest', url);
+  } 
+  
+  
+  
+  function makeSubCategorySearchAdTypeFilter(eventObjet) {
+
+  	var txt = document.AjaxFilterForm.subCategorySelectBox.selectedIndex;
+  	var subCategoryName = document.AjaxFilterForm.subCategorySelectBox.options[txt].value;
+  	var subCategoryID = document.AjaxFilterForm.subCategorySelectBox.options[txt].id;
+  	var keyword = document.AjaxFilterForm.keywordTxt.value;
+	var cityName = document.AjaxFilterForm.cityNameTxt.value;
+   
+	window.location =  "http://"+cityName+"."+domainName+".com/search/"+subCategoryName+"/c"+subCategoryID+"?Ad_Type="+eventObjet.value+"&categoryId="+subCategoryID;
+    //new Ajax.Updater('divForAjaxRequest', url);
+  }
+  
+
+  
+</script>
+ 
+
+
+
+
+
+</body></html>
