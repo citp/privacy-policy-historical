@@ -1,77 +1,40 @@
-> *The following text is extracted and transformed from the panoramio.com privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramio.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701093831id_/http%3A//www.panoramio.com/privacy) for the most accurate reproduction.*
 
-# Google Privacy Center: Privacy Policy
+# Panoramio - Privacy Notice
 
-[Home](https://web.archive.org/)
+Last updated: 09/09/2008
 
-[About Google](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/about.html)
+The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use Panoramio. In addition, the following describes our privacy practices that are specific to Panoramio.
 
- **Privacy  Highlights**
+  1. **Personal information**
+    * You need a [Panoramio Account](https://web.archive.org/signup) ("Account") to upload photos to Panoramio. Google asks for some personal information when you create a Panoramio Account, including your email address and a password, which is used to protect your account from unauthorized access. You may also be asked to create a unique Panoramio username.
+    * You may view photos posted on Panoramio by other users without registering for an account.
+    * When you use Panoramio, Google's servers automatically record certain information about your use. Similar to other web services, Google records information such as account activity (including storage usage and number of log-ins), data displayed or clicked on (including UI links); and other [log information](http://www.google.com/privacy_faq.html#serverlogs) (including browser type, IP-address, date and time of access, cookie ID, and referrer URL).
+  2. **Uses**
 
-[Privacy Policy](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacypolicy.html)
+Google stores, maintains and processes your photos and account information in order to provide the Panoramio service to you and to operate and improve our services. Google may store your photos on a server hosted by a third party provider, however no user-identifiable information (beyond the image itself) is shared by Google with the third party provider. Beyond the storage of these photos, the third party provider is not authorized to use your photos in any way.
 
-[Privacy FAQ](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacy_faq.html)
+  3. **Information sharing and onward transfer**
+    * Users who view your photos homepage will see information about you including your photos, and your username. 
+    * If other users add you to their Favorites, those users will see a notification when you upload new photos to Panoramio. 
+    * Users may be able to see your photos through searches on Panoramio, Google, and through third party services that access publicly available information on the web. 
+    * Users may comment on your photos; these comments can be seen by anyone who visits your photos homepage
+    * We do not sell, rent or otherwise share your personal information with any third parties except in the limited circumstances described in the [Google Privacy Policy](http://www.google.com/privacypolicy.html), such as when we believe we are required to do so by law. 
+    * Google may review the content of a photos homepage if a user complaint is received , or if we have reason to believe that the account is used in violation of the [Panoramio Terms of Service](http://www.panoramio.com/terms).
+  4. **Your choices**
+    * You may change your username, and other Account information and settings by clicking the "Settings" link in the top right hand corner of a Panoramio webpage after you sign-in.
+    * You may also change your preferences for sharing, and licensing your photos by clicking the "Settings" link. If you choose "All rights reserved" no one can make copies or use your photos without your explicit permission. If you choose "Some rights reserved" you keep the copyright to your photos, but you allow some uses of your photos without your explicit permission.
+  5. **More information**
 
-[Terms of Service](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/terms_of_service.html)
+Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/).
 
-More privacy info:  
-• [3D Warehouse](http://www.google.com/intl/en/sketchup/3dwh/privacy.html)  
-• [Desktop](http://desktop.google.com/privacypolicy.html)  
-• [Docs](http://www.google.com/google-d-s/privacy.html)  
-• [Gmail](http://gmail.google.com/gmail/help/privacy.html)  
-• [GOOG-411](http://labs.google.com/goog411/)  
-• [Groups](http://groups-beta.google.com/googlegroups/privacy.html)  
-• [Maps](http://maps.google.com/help/privacy_maps.html)  
-• [Mobile](http://mobile.google.com/privacy.html)  
-• [Orkut](http://www.orkut.com/privacy.aspx)  
-• [iGoogle](http://www.google.com/help/privacy_fusionph.html)  
-• [Personalized Search](http://www.google.com/searchhistory/privacy.html)  
-• [Store](http://www.googlestore.com/privacy.asp)   
-• [Talk](http://www.google.com/talk/privacy.html)  
-• [Test Ad Server](http://www.google.com/ads/gcc_privacy.html)  
-• [Toolbar for IE](http://www.google.com/support/toolbar/?quick=privacy)  
-• [Toolbar for Firefox](http://www.google.com/support/toolbar/?quick=privacy&v=2.0f)  
-• [Video Player](http://video.google.com/support/bin/answer.py?answer=32170&topic=1490)  
-• [Web Accelerator](http://webaccelerator.google.com/privacy.html)
+Further information about Panoramio is available [here](http://www.panoramio.com/help/).
 
-|  |   | 
+For more information about our privacy practices, go to the [full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please contact us any time. Or write to us at:
 
-**Google Privacy Policy Highlights**
+    * Privacy Matters   
+c/o Google Inc.   
+1600 Amphitheatre Parkway   
+Mountain View CA 94043 (USA)
 
-October 14, 2005
 
-At Google we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use Google's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
-
-**Scope**
-
-This notice offers highlights of the full [Google Privacy Policy](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacypolicy.html), which describes in detail the privacy practices that apply to Google's products, services and websites worldwide (collectively, Google's "services"). You can also get more information about the privacy practices for specific Google services in the navigation bar to the left of this notice. 
-
-**Personal information and other data we collect**
-
-  * Google collects [personal information](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacy_faq.html#personalinfo) when you register for a Google service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Google services or third parties to provide a better user experience, including customizing content for you. 
-  * Google uses [cookies](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacy_faq.html#cookie) and other technologies to enhance your online experience and to learn about how you use Google services in order to improve the quality of our services. 
-  * Google's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
-  * [Read more](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacypolicy.html#information) in the full privacy policy. 
-
-**Uses**
-
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  * We may also use personal information for auditing, research and analysis to operate and improve Google technologies and services. 
-  * We may share [aggregated non-personal information](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacy_faq.html#aggregatedinfo) with third parties outside of Google. 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  * Google processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. 
-  * [Read more](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacypolicy.html#information) in the full privacy policy. 
-
-**Your choices**
-
-  * We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
-  * [Read more](https://web.archive.org/web/20071228142412id_/http%3A//www.google.com/intl/en/privacypolicy.html#infochoices) in the full privacy policy. 
-
-**More information**
-
-For information about specific Google services, please check the relevant privacy notice in the navigation bar to the left, or check out the [Google Help](http://www.google.com/support) page. Google is a member of the EU/US Safe Harbor Program. 
-
-For more information about our privacy practices, go to the full privacy policy. If you have additional questions regarding your privacy and Google, please contact us [here](http://www.google.com/support/bin/request.py?contact_type=privacy). Please note that we will not respond to inquiries not related to Google's Privacy Policy. 
