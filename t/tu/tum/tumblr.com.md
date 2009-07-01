@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014330id_/http%3A//tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblr.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701100808id_/http%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tumblr
 
@@ -45,6 +45,10 @@ If we ever send you information by e-mail concerning new products, services or i
 ## Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Tumblr uses cookies to help Tumblr identify and track visitors, their usage of the Tumblr Website, and their Website access preferences. Tumblr visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Tumblr Website, with the drawback that certain features of Tumblr’s Website may not function properly without the aid of cookies. 
+
+## Address Book Data
+
+Any external address book data (email contacts, etc.) that a user voluntarily gives Tumblr access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed. 
 
 ## Privacy Policy Changes
 
