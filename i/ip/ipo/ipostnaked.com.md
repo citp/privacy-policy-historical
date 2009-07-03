@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipostnaked.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617043702id_/http%3A//www.ipostnaked.com/user/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipostnaked.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703072532id_/http%3A//www.ipostnaked.com/user/main/privacy.php) for the most accurate reproduction.*
 
 # IPostNaked.com - Amateur Nude Photos & Sex Videos Daily – Always FREE !!!
 
