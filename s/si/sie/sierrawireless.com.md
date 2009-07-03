@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531144254id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703070601id_/http%3A//www.sierrawireless.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Sierra Wireless Inc. (sierrawireless.com) - Privacy
 
@@ -26,7 +26,7 @@
   
 **Online Store**
 
-[](https://web.archive.org/eStore)
+[](https://www.sierrawireless.com/eStore)
 
 | 
 
