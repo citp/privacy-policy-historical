@@ -1,60 +1,52 @@
-> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602013152id_/http%3A//www.adsmarket.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703051129id_/http%3A//www.adsmarket.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# AdsMarket.com | Privacy Policy
+# Adsmarket - Private Policy
 
-AdsMarket is dedicated to protect your privacy. This statement explains our privacy practices for our site www.AdsMarket.com. We feel it is important that visitors are fully knowledgeable about the use of their personal information. By using our website and/or purchasing our product, you expressly consent to the terms of this policy.
+Adsmarket (the **"Company"** or **"We"** ) is committed to protect the privacy of users who access its Website (the "Site"). This Privacy Policy Statement (the **"Privacy Policy"** ) explains the types of information We gather and what We do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
 
-### Personal Information
+**1\. Collecting Personally Identifiable Information**  
+**"Personally Identifiable Information"** means any information obtained through your use of the Site which might reasonably be used to specifically identify you and may include, among other, your name, title, company, address, email. To the extent Personally Identifiable Information has been collected from you, you acknowledge such collection is done on a voluntary basis to enable the Company to provide you efficient access to features, functions, promotions, products and services.
 
-AdsMarket allows you to visit the website without revealing any personal information. Your visit to this website is anonymous. We will only collect your contact information (first name, last name, billing address, phone number, email address and any other relevant information provided by you) as well as financial information (account or credit card numbers), with your permission and for the sole purpose of processing orders.
+In addition, We collect information from you for the purpose of opening an account, billing payment and payment instruments from you for products and services you order or purchase from the Company.
 
-The information you provide on our site will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AdsMarket's commitment to protecting your privacy and data. AdsMarket may provide your personal information if necessary, in AdsMarket's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AdsMarket or others.
+**2\. Non-Personal Information**  
+We automatically collect non-personal information such as IP addresses during your access and use of the Site to help diagnose problems with our server, and to identify ways of making our Site better. This information is not linked to anything personal.
 
-### Web Form Information
+**3\. Use of Digital Identifiers**  
+A digital identifier is information that a Site puts on your hard disk so that it can remember something about you at a later time (More technically, it is information for future use that is stored by the server on the client side of a client/server communication, such as "cookies".) We automatically use 'digital identifiers' for tracking transactions, identification, security and the user characteristics as set forth herein. No Personally Identifiable Information is collected by use of digital identifier and We use the information collected through such digital identifier to analyze trends, administer the Site, track movements on the Site and gather aggregate demographic information about visitors so we can continually improve the Site.
 
-When you submit information to AdsMarket to make a payment or open an account, we may collect personally identifiable information from you that may include your name, address, email address, credit card number. We do not knowingly collect personal information from persons under the age of eighteen. 
+**4\. Security**  
+We employ industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We maintain an internal security policy with respect to the confidentiality of your data, allowing access only to those employees or third parties who have a need to know such information. 
 
-### Web Site Usage Information
+While Company has taken measures to protect your information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, We cannot guarantee the absolute security or confidentiality of information transmitted to the Site and you hereby acknowledge and assume the risks relating to any such communication.
 
-We automatically collect IP addresses and Web site usage information from you when you access any of our online services. This information helps us evaluate how our visitors and subscribers use and navigate our Web sites on an aggregate basis, including but not limited to the number and frequency of visitors and subscribers to each web page, and the length of their visits. 
+**5\. Information Sharing**  
+We may use the collected Personally Identifiable Information and non-personal information for any legally permissible purpose in our sole discretion, including but not limited to those detailed below:
 
-### Email Newsletter and Opt-Out
-
-When submitting your e-mail address to AdsMarket, your e-mail address will automatically be added to our E-Newsletter Subscriber List, which we use to send out special offers or updates that may be of interest to you. AdsMarket will not sell, rent, or lease your personal information to non-partner entities. Users may choose not to participate in our mailing program, however. If you no longer wish to receive AdsMarket communications, you may "unsubscribe" from our mailing program at any time by clicking the auto-unsubscribe link in our emails. Our database will then be updated and no further email will be sent to the email address.
-
-### Cookies
-
-Cookies are identifiers that a website can send to your browser to keep on your computer in order to facilitate your next visit to the site. The use of cookies is an industry standard, and many websites use them. AdsMarket does not use cookies that persist on your hard-drive. We do use dynamic, non-intrusive session cookies, which reside in your browser's memory only for the duration of your user session, to assist in the ordering and purchasing process. AdsMarket also uses data collected through session cookies for the purpose of identifying the source of traffic (which ad or link you used to reach us), and general patterns of activity on our site. No personally identifiable information is stored in this cookie. AdsMarket uses this data to better understand what services and support is valuable to our customers, and how we can continue to provide the best online experience possible to our users.
-
-### How We Use Information Collected
-
-We may use information in the following ways: 
-
-  * To enhance existing features or develop new features, products and services. 
-  * To provide Advertisers and other third parties with aggregate information about our user base and usage patterns. 
-  * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
-  * For the purposes you specifically provided the information including, for example, enabling us to process, validate and verify purchases. 
-  * To register you as a client and establish an account for you. 
-  * To send you email notifications about our new or existing AdsMarket products and services, special offers, or to otherwise contact you. 
+  * We may share information We collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information. 
+  * We may share your information with various third party vendors that are not part of the Company. 
+  * When you participate in an in our Programs, we will transfer the information you submitted on the form to the applicable advertisers with whom we cooperate. 
+  * We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. 
+  * We may use third party service providers to enhance our database with additional elements of our services. 
 
 
 
-Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of AdsMarket.
+**6\. Third Party Links**  
+The Site may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example, to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so. 
+**7\. Permitted Disclosures**  
+Other than as described in this Privacy Policy or as otherwise specifically communicated to you by Company, Company does not provide information supplied by users to any third parties, except where law, court order, or governmental authority requires or based upon the good faith belief that disclosure is necessary including, without limitation, to protect the rights of Company when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or causing harm to third parties.
 
-### Security
+**8\. Revision**  
+Company may alter, update or otherwise change this Privacy Policy at any time to reflect material changes in the way Company uses your information. Any such changes will be posted on this page. You should periodically check this Privacy Policy to review the current terms and guidelines applicable to your use. Your continued use of the Site following the posting of such changes will indicate your full acceptance of those changes.
 
-The personally identifiable information we collect about you is stored in limited access servers. We maintain safeguards to protect the security of these servers and your personally identifiable information. We retain personally identifiable information only as long as necessary to complete a purchase, thwart fraud, provide customer service, or maintain your account with us. 
+**9\. Updating Your Personal Information**  
+At any time, you can access and correct your personal information and privacy preferences on “my account” in your dash board in the Company's system or by sending an e-mail to [advertiserservices@adsmarket.com](mailto:advertiserservices@adsmarket.com) or [publisherservices@adsmarket.com.](mailto:publisherservices@adsmarket.com)  
+To the extent permissible under the applicable law, you hereby acknowledge and consent to the Company occasionally sending you various e-mail messages and updates. If you would prefer not to receive such messages you may opt out by following the instructions within the e-mail message or by contacting us.
 
-### Policy Modifications
+Notwithstanding the foregoing, you acknowledge that for as a long as you a party to any Performance Base Program of the Company (the "Program") you will continue to receive by email certain automatic reports from the Company's system relating to each applicable Program. Such reports shall be governed by the applicable AdsMarket Publisher Service Agreement to which you are a party and shall not be deemed as email messages and updates as detailed above.
 
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. 
+**10\. Contact Us**  
+If you have questions about this Privacy Policy, please send an e-mail to [info@adsmarket.com.](mailto:info@adsmarket.com) If you believe that we have not complied with this Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write to Company at the following address:
 
-### Acceptance of this Privacy Policy
-
-By using the website or any services provided through the website, you expressly consent to the use and disclosure of information as described in this Privacy Policy. AdsMarket may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on this website. Your continued use of AdsMarket Software or acceptance of our e-mails following the posting of changes to these terms will indicate your acceptance of these changes.
-
-### Support
-
-AdsMarket provides email support for users who purchase the software at our Helpdesk. If you have any questions or concerns about this Privacy Policy or our information handling practices, please contact us through the Helpdesk. We will do our best to respond to your inquiry as soon as possible.
+YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES). 
