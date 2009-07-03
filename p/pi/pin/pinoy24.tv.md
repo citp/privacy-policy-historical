@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoy24.tv privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423174645id_/http%3A//www.pinoy24.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoy24.tv privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703072037id_/http%3A//www.pinoy24.tv/privacy) for the most accurate reproduction.*
 
 # Pinoy TV - Pinoy24.TV
 
