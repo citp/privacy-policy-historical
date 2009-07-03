@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615193345id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703083454id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  **Monday, June 15, 2009**  
+|  **Friday, July 3, 2009**  
 ---  
 |  |  |   
 ---|---|---  
@@ -191,8 +191,20 @@ or ProxyWay   [On-line Help](http://www.proxyway.com/www/support.html)
 |  |   
 |  |   
 ---  
-|  • Can my ISP monitor my online activities if I am using ProxyWay?
+|  • How can I turn on/turn off proxy settings in Mozilla 1.7?
 
-Because ISPs handle huge volumes of web traffic all the time, they are limited in monitoring logs. They don't have the computational resources to read and analyze the text of every web site you visit. But they can, however, keep a log of the websites you visit. When you're using ProxyWay and surfing through proxies you only connect to a proxy server. All websites you visit go through this proxy, so to your ISP it looks like you only visit one web site. But if the ISP really wanted to watch you and they agree to waste time, resources and money for analysing all your traffic, they could tap your Internet connection and actually read everything that goes back and forth. Since the data sent to proxies is not encrypted, someone who listens to the line could see what sites you're visiting. But if you visit HTTPS web sites, all information between you and a target web site is encrypted.   
+To turn on proxy settings:  
+1\. Select Edit => Preferences.  
+2\. Select the Advanced to open sub-menu.  
+3\. Select the Proxies item.  
+4\. In fields "Address" and "port" type proxy IP and proxy port.  
+5\. Click OK
+
+To turn off proxy settings:  
+1\. Select Edit => Preferences.  
+2\. Select the Advanced to open sub-menu.  
+3\. Select the Proxies item.  
+4\. Select the Direct Connection to the Internet.  
+5\. Click OK   
   
 |  | 
