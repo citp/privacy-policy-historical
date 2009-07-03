@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oleole.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618181539id_/http%3A//www.oleole.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oleole.com privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703051904id_/http%3A//www.oleole.com/privacy) for the most accurate reproduction.*
 
 # OleOle Privacy Policy
 
