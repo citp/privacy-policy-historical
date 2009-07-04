@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncoverinfo.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206205601id_/http%3A//www.uncoverinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncoverinfo.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704123857id_/http%3A//www.uncoverinfo.com/privacy) for the most accurate reproduction.*
 
 # UncoverInfo.com - Privacy
 
