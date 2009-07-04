@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071447id_/http%3A//www.hostdepartment.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704160421id_/http%3A//www.hostdepartment.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting, Reseller Hosting, Domain Name - Host Department
 
