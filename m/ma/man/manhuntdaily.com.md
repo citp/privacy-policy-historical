@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhuntdaily.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516003549id_/http%3A//www.manhunt.net/mhelp_en_v2/source/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhuntdaily.com privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704230957id_/http%3A//www.manhunt.net/mhelp_en_v2/source/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
