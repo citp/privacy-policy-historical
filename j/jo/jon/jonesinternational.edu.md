@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the jonesinternational.edu privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525194655id_/http%3A//www.jonesinternational.edu/about/faq/policy_highlights.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesinternational.edu privacy policy that was archived on 2009-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090704024823id_/http%3A//www.jonesinternational.edu/about/faq/online-privacy-policy-highlights) for the most accurate reproduction.*
 
-# Jones International University | Online Privacy Policy Highlights
+# Online Privacy Policy Highlights | Jones International University
 
 ### Scope 
 
-This notice provides highlights of the full [JIU Online Privacy Policy](https://web.archive.org/about/faq/privacy_policy.php). This notice and the full Online Privacy Policy apply to JIU websites that display this notice (our “Sites”). 
+This notice provides highlights of the full [JIU Online Privacy Policy](https://web.archive.org/about/faq/online-privacy-policy). This notice and the full Online Privacy Policy apply to JIU websites that display this notice (our “Sites”). 
+
+### Scope 
+
+This notice provides highlights of the full [JIU Online Privacy Policy](https://web.archive.org/about/faq/online-privacy-policy). This notice and the full Online Privacy Policy apply to JIU websites that display this notice (our “Sites”). 
 
 **IMPORTANT:** This notice and the full Online Privacy Policy do not apply to personal information about current and former JIU students collected on the password-protected areas of our Sites. If you are a current or former JIU student, please review our Student Privacy Policy to learn how we protect your personal information. 
 
@@ -16,7 +20,7 @@ This notice provides highlights of the full [JIU Online Privacy Policy](https://
 
 
 
-[Click here for more information](https://web.archive.org/about/faq/privacy_policy.php)
+[Click here for more information](https://web.archive.org/about/faq/online-privacy-policy)
 
 ### How We Use and Share Your Personal Information 
 
@@ -34,26 +38,26 @@ This notice provides highlights of the full [JIU Online Privacy Policy](https://
 
 
 
-[Click here for more information](https://web.archive.org/about/faq/privacy_policy.php)
+[Click here for more information](https://web.archive.org/about/faq/online-privacy-policy)
 
 ### Your Choices 
 
 We respect your right to make choices about the ways we collect, use, and disclose your personal information. The full Online Privacy Policy describes some of your choices. In most cases, however, we will ask you to indicate your choices at the time and on the page where you provide your personal information. 
 
-[Click here for more information](https://web.archive.org/about/faq/privacy_policy.php)
+[Click here for more information](https://web.archive.org/about/faq/online-privacy-policy)
 
 ### Important Information 
 
-  * To learn how our Online Privacy Policy may be amended, [click here](https://web.archive.org/about/faq/privacy_policy.php). 
+  * To learn how our Online Privacy Policy may be amended, [click here](https://web.archive.org/about/faq/online-privacy-policy). 
   * JIU and its affiliates are U.S. corporations headquartered in the United States. Our websites and databases are maintained on servers in the U.S. 
 
 
 
-[Click here for more information](https://web.archive.org/about/faq/privacy_policy.php)
+[Click here for more information](https://web.archive.org/about/faq/online-privacy-policy)
 
 ### How to Contact Us 
 
-To contact us click here or write us at 
+To contact us visit our [contact form](https://web.archive.org/contact) or write us at 
 
 Jones International University®   
 Attention: Privacy Officer   
