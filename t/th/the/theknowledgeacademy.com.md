@@ -1,0 +1,56 @@
+> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705085841id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
+
+# Privacy Statement
+
+The Knowledge Academy - Empowering the advancement of knowledge 
+
+  * [Home](https://web.archive.org/)
+  * [About Us](https://web.archive.org/about)
+  * [Courses](https://web.archive.org/courses)
+  * [Training Calendar](https://web.archive.org/training-calendar)
+  * [Training Locations](https://web.archive.org/training-locations)
+  * [Trainers](https://web.archive.org/bespoke)
+  * [Onsite](https://web.archive.org/careers)
+  * [Consultancy](https://web.archive.org/categories)
+  * [Contact Us](https://web.archive.org/contact-us)
+  * [Terms](https://web.archive.org/terms)
+  * [Careers](https://web.archive.org/careers-2)
+
+
+
+The Knowledge Academy is committed to protecting your privacy.
+
+##  **Personal Data:**
+
+Through this website we may collect personal information from our visitors for example, through our booking/enquiry forms and newsletter registrations.   
+This personal information may include; names, numbers and addresses. This information is used to provide our services, answer queries, deal with bookings and for sales and marketing purposes.  
+We provides users the opportunity to opt-out of receiving our communications.  
+This site gives users the following options to discontinue receiving future communications by any of the following means: 
+
+  * Send an [email](mailto:info@theknowledgeacademy.com) to our client services team indicating your request to be removed from our records.
+  * In writing to: The Knowledge Academy Ltd, Orchard Lea, Drift Road, Winkfield, Windsor, Berkshire SL4 4AD 
+  * You can call us on this telephone number: 01344 290 198 
+
+
+
+## **Cookies:**
+
+Cookies are a common Internet technology that assign a unique identification to your computer and store the detail on only your computer's hard drive via a facility in your Web browser. Cookies are used on this site. They are used to keep track of the information you have given us during your visits to the site. The cookie stored on your computer is simply a numeric identifier that we use to identify you as you move around the site and so you can retrieve information you have previously sent to our server. Most browsers allow you to turn off cookies. If you do this please look at the help menu on your browser. However, switching off cookies may restrict your use of this Website.    
+
+
+##  **Other website Links:**
+
+We have no control over the content of other sites, nor the usage of information they gather. We recommend that you always review the privacy policies at any third party sites you visit; they may not follow the same policies as us. 
+
+## **Rights:**
+
+You have a right to access all the personal data held about you. To obtain a copy of the personal information held about you.
+
+  * Send an [email](mailto:info@theknowledgeacademy.com) to our client services team 
+  * In writing to: The Knowledge Academy Ltd, Orchard Lea, Drift Road, Winkfield, Windsor, Berkshire SL4 4AD 
+  * You can call us on this telephone number: 01344 290 198 
+
+  
+
+
+[](https://web.archive.org/web/20090705085841id_/http%3A//www.theknowledgeacademy.com/training-calendar)
