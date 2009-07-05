@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flickpeek.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226191418id_/http%3A//www.flickpeek.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flickpeek.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705090053id_/http%3A//www.flickpeek.com/privacy.html) for the most accurate reproduction.*
 
-# FlickPeek Privacy Policy
+# Privacy Policy - Flickpeek
 
 At FlickPeek we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by AdcoDesign or its subsidiaries or affiliated companies (collectively, FlickPeek's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
