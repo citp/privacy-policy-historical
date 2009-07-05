@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinggames.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531190419id_/http%3A//www.cookinggames.org/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinggames.org privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705091421id_/http%3A//www.cookinggames.org/page/1.html) for the most accurate reproduction.*
 
 # Cooking Games - Play free online Cooking Games and Games for Girls - Privacy Policy
 
