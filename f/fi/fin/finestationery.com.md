@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191754id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705080635id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
 
 # Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards &amp; more
 
