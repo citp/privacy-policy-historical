@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616133134id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705122934id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.*
 
 # ZillR :: Privacy Policy
 
