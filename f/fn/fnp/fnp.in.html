@@ -1,0 +1,489 @@
+<!--The following is the downloaded HTML source of the fnp.in privacy policy that was archived on 2009-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090705091432id_/http%3A//www.fnp.in/fnp/faces/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.-->
+
+<html><head><title>Ferns N Petals</title>
+	<link href="../tiles/templates/media/css/FnP/FnP.css" rel="stylesheet" type="text/css">
+	<script src="http://www.fnp.in/media/js/OctaShop/octashopJS.js" type="text/javascript"></script>
+	<script language="JavaScript">
+		function validateFields(){
+			var order = document.forms['myForm'].elements['myForm:orderNum'];
+			var name = document.forms['myForm'].elements['myForm:name'];
+			var email= document.forms['myForm'].elements['myForm:email'];
+			var phone = document.forms['myForm'].elements['myForm:phone'];
+			var feedBack= document.forms['myForm'].elements['myForm:feedback'];
+			
+			if(order.value!=''){
+				var reg=/^([0-9])+$/;
+				if(!reg.test(order.value)){
+					alert("Please Enter Valid Order Number");
+					name.focus();
+					return false;
+				}
+			}
+			if(!alphaCharWithoutSpace(name.value)){
+				alert("Please Enter Valid Name");
+				name.focus();
+				return false;
+			}
+			if(!checkEmail(email.value)){
+				alert("Please Enter Valid Email");
+				email.focus();
+				return false;
+			}
+			if(!numericCharWithoutSpace(phone.value)){
+				alert("Please Enter Valid Phone");
+				phone.focus();
+				return false;
+			}
+			if(feedBack.value==''){
+				alert("Please Enter Valid Feedback");
+				feedBack.focus();
+				return false;
+			}
+			return true;
+    	}
+	
+	</script>
+
+</head><body>
+<div class="WrapperLayout">
+<div id="HeaderTop"></div>
+<div id="Body">
+<div id="BodyContent">
+	<form id="myForm" name="myForm" method="post" action="/fnp/faces/jsp/PrivacyPolicy.jsp" enctype="application/x-www-form-urlencoded">
+	
+
+
+<title>OctaShop-Shopping</title>
+<link href="http://www.fnp.in/media/css/OctaShop/Octashop_style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/media/js/FNP/mm_menu.js"></script>
+<script language="javascript" type="text/javascript">mmLoadMenus();</script>
+
+<!-- Header Start -->
+<div id="templateConten">
+<div id="logo" class="logo"><img src="/media/images/FNP/logo.gif" border="0" width="215" height="83" onclick="JavaScript:location.href='/fnp/faces/jsp/index.jsp';"></div>
+<div id="Search" class="Search">
+<span class="alignRight nowrap"></span>
+</div>
+<div id="Headlink" class="Headlink">
+<div class="clear_both">
+
+
+
+
+
+<span class="topLink">
+
+			<span id="sign_in_out">
+				
+					
+					
+						<span id="welcomeGuest" class="nowrap PurpleNormalText">Welcome User</span> |
+						
+						
+								<a href="#" title="Sign In" onclick="getLoginForm('/fnp/faces/tiles/components/loginForm.jsp');" class="PurpleNormalText">Sign In</a>|   
+						
+						
+						<a href="/fnp/faces/jsp/userRegistration.jsp" title="New User" class="PurpleNormalText">New User</a>
+					
+				
+			</span>
+			<br>
+			<span id="shop_cart_count">
+				 <a class="GeryNormalLink" href="/fnp/faces/jsp/shoppingCart.jsp" title="Shopping Cart">Shopping 		
+					Cart(0)</a>
+			</span>
+			| <a href="/fnp/faces/jsp/newSearchOrder.jsp" title="Track Order" class="GeryNormalLink">Track Your Order</a>
+			| <a href="/fnp/faces/jsp/myAccount.jsp" title="My Account" class="GeryNormalLink">My Account</a> 
+</span>	
+
+<script language="JavaScript">
+		<!--
+		function getLoginForm(pageUrl){
+				try{
+					var myAjax = new Ajax.Updater('login',pageUrl ,{onSuccess:showLoginForm});
+				}catch(err){alert(err.message);}
+			}
+			function showLoginForm(transport){
+				try{
+					divShowHide('login','showit');
+				}catch(err){alert(err.message);}
+				
+			}
+			function isValidForm(){
+				if($('loginId').value == ''){
+					alert('Please enter UserId.');
+					$('loginId').focus();
+					return false;
+				}
+				else if($('password').value == ''){
+					alert('Please enter password.');
+					$('password').focus();
+					return false;
+				}else{return true};
+
+			}
+			function loginSubmit(){
+				if(isValidForm()){
+				$('loginForm').request({
+				  onComplete: function(transport){ $('login').innerHTML = transport.responseText ;},
+				  onFailure:function(){alert('Oops Error.');}
+				  //onSuccess: updateShoppingCart
+				});
+				}
+			}
+			function updateShoppingCart(){
+				
+				var updatableDiv = null;
+				var url = null;
+				
+				if($('shoppingCartItemsDiv') != null){
+					updatableDiv = 'shoppingCartItemsDiv';
+					url = "../faces/tiles/components/checkout/shoppingCartItemsComponent.jsp";
+				}
+				if($('minishoppingcart')!= null){
+					updatableDiv = 'minishoppingcart';
+					url = "/fnp/faces/tiles/components/product/miniShoppingCart.jsp";
+				}
+				if(updatableDiv != null)
+				{
+					try{ 
+					var params = {'invoke:action':'ShoppingCartActionBean.shoppingCartItemsComponent_init'};
+					var myAjax = new Ajax.Updater(updatableDiv, 
+									url, 
+									{
+										method: 'GET', 
+										parameters: params,
+										onFailure:handleFail
+									});
+					}catch(err){alert(err.message);}
+				}
+			}
+			function handleFail(){
+				alert('Oops!! Error.');
+			}
+			function hideLoginForm (pageUrl,loginId,quanty){
+				try{
+					if((loginId != null && loginId != 'undefined' && loginId != 'null' ) && loginId.length > 1){
+					$('sign_in_out').innerHTML = '<span  id="welcomeGuest" class="nowrap PurpleNormalText">Welcome '+loginId+' | <a href="'+pageUrl+'">Sign Out</a></span>';
+					
+					$('shop_cart_count').innerHTML = '<a href="../faces/jsp/shoppingCart.jsp" title="Shopping Cart" class="GeryNormalLink">Shopping Cart('+quanty+')</a>';
+
+					if($('_isLogged') != null && $('_isLogged').innerHTML == 'false')
+							$('_isLogged').innerHTML="true";	
+
+					updateShoppingCart();
+					}
+				}catch(err){alert(err.message);}
+				divShowHide('login','hideit');
+			}
+		//-->
+</script>
+</div>
+<div class="clear_both"><div>&nbsp;</div>
+<span class="alignRight paddingTop10px nowrap">
+<a href="../jsp/franchise.jsp" class="PurpleNormalLink">Franchisee</a> | <a href="../jsp/fnpFeedback.jsp" class="PurpleNormalLink">Feedback</a> | <a href="javascript:void(0);" onclick="divShowitHideit('CustomerSupportDiv','show');" class="PurpleNormalLink">Customer Support</a></span>
+</div>
+
+<div id="login"></div>
+
+</div><div id="CustomerSupportDiv" class="CustomerSupportDiv">
+<div class="right fullWidth" align="right"><img onclick="divShowitHideit('CustomerSupportDiv','hide');" class="link" src="/media/images/FNP/cclose.gif" vspace="2" hspace="2"></div>
+<div class="fullWidth" style="padding:15px;">
+<table width="80%" border="0" cellspacing="4" cellpadding="4">
+<tbody><tr>
+<td colspan="2" class="PurpleBoldText">Online support available on :</td>
+</tr>
+<tr>
+<td align="center"><img src="/media/images/FNP/icon_phone.gif"></td>
+<td><span class="GeryBoldText">Helpline Number</span><br><span class="PurpleNormalText">011-2680 2680</span></td>
+</tr>
+<tr>
+<td align="center"><img src="/media/images/FNP/icon_phone.gif"></td>
+<td><span class="GeryBoldText">Helpline Number International</span> <br>
+  <span class="PurpleNormalText">USA: +1 (714) 2424120, UK: +44 (203) 3183818</span></td>
+</tr>
+<tr>
+<td align="center"><img src="/media/images/FNP/icon_ymsger.gif"></td>
+<td><span class="GeryBoldText">Chat using Yahoo</span><br><span class="PurpleNormalText">user: help_fnp</span></td>
+</tr>
+<tr>
+<td align="center"><img src="/media/images/FNP/icon_mnsmsger.gif"></td>
+<td><span class="GeryBoldText">Chat using Msn</span><br><span class="PurpleNormalText">User: helpfnp</span></td>
+</tr>
+<tr>
+<td align="center"><img src="/media/images/FNP/icon_gtalkmsger.gif"></td>
+<td><span class="GeryBoldText">Chat using Gtalk</span><br><span class="PurpleNormalText">User: helpfnp</span></td>
+</tr>
+<tr>
+<td colspan="2" class="GeryNormalText">Between: 9am to 12 Midnight (IST) - Mon-Sat 9am to 9pm (IST) - on Sunday</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div id="catemenu" class="catemenu">
+<!-- catemenu Table start -->
+<span class="catemenuTable">
+<span class="pmenu" id="MothersDay" onmouseover="this.className='pmenu';MM_showMenu(window.homeMothersDay,-1,29,null,'MothersDay');" onmouseout="this.className='pmenu';MM_startTimeout();">Friendship Day</span>
+
+<span class="ymenu" id="Flowers" onmouseover="this.className='ymenu';MM_showMenu(window.homeFlowers,-2,29,null,'Flowers');" onmouseout="this.className='ymenu';MM_startTimeout();">Raksha Bandhan</span>
+
+<span class="catemenu" id="DeliverToday" onmouseover="this.className='activeMenu';MM_showMenu(window.homeDeliverToday,-1,29,null,'DeliverToday');" onmouseout="this.className='catemenu';MM_startTimeout();">Deliver Today</span>
+
+<span class="catemenu" id="Occasions" onmouseover="this.className='activeMenu';MM_showMenu(window.homeOccasions,-2,29,null,'Occasions');" onmouseout="this.className='catemenu';MM_startTimeout();">Occasions</span>
+
+<span class="catemenu" id="Collections" onmouseover="this.className='activeMenu';MM_showMenu(window.homeCollections,-2,29,null,'Collections');" onmouseout="this.className='catemenu';MM_startTimeout();">Collections</span>
+
+<span class="catemenu" id="Gifts" onmouseover="this.className='activeMenu';MM_showMenu(window.homeGifts,-2,29,null,'Gifts');" onmouseout="this.className='catemenu';MM_startTimeout();">Gifts</span>
+
+<span class="catemenu" id="SpecialOffers" onmouseover="this.className='activeMenu';MM_showMenu(window.homeSpecialoffers,-2,29,null,'SpecialOffers');" onmouseout="this.className='rmenu';MM_startTimeout();">Special Offers</span></span>
+
+<!-- menu Table end -->
+</div>
+</div>
+<div id="templateConten"></div>
+
+<div id="loading" style="display:none">Loading...
+<div style="background-color: white; position: absolute; top: 0px; right: 0px; width: 5px; height: 5px; cursor:pointer;" onclick="$('loading').hide()"></div>
+</div>
+
+	
+		
+	<div class="alignL fullWidth bredcrum"><a href="../tiles/catalogue.jsp?catalogueID=2">FNP</a> &gt;&gt; Privacy Policy</div>		
+	<div class="oreangeBg width965px left blackBoldText alignL">&nbsp;&nbsp;Privacy Policy</div>
+	<div class="greenBg left width965px">
+		<div class="fullWidth"><table cellpadding="0" id="wrapper" cellspacing="0" border="0" width="100%">			
+			<tbody><tr>
+				<td valign="top">
+				<table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" class="mainloginTable">
+	<tbody><tr>
+	<td valign="top">
+<table width="100%" cellpadding="2" cellspacing="2" border="0">
+	<tbody><tr>
+	<td><div align="justify">
+                    <p class="margin"> Ferns 'N' Petals&nbsp; is the sole owner 
+                      of the information collected on <b>www.fnp.in</b>. This 
+                      privacy statement applies only to information collected 
+                      by this Web site. <br>
+                      <br>
+<font class="heading"><b>Communications from the Site</b></font>
+<br><br>
+<font class="heading"><b>Special Offers and Updates</b></font>
+<br><br>
+We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications.&nbsp;<br>
+
+</p></div>
+      <div align="justify"><p class="margin">
+<font class="heading"><b>Press Releases and Newsletters</b></font>
+<br><br>
+If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. Out of respect for your privacy, please contact us if you subsequently wish to be removed from this mailing list.
+<br><br>
+<font class="heading"><b>Service-related Announcements</b></font>
+<br><br>
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email advising you of this.
+<br><br>
+
+<font class="heading"><b>Legal Disclaimer</b></font>
+<br><br>
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+<br><br>
+If you no longer wish to receive our press releases, newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:query@fnp.in">query@fnp.in</a>
+<br><br>
+<font class="heading"><b>Log Files</b></font>
+<br><br>
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and
+click stream data. 
+<br><br>
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+<br><br>
+We do not link this automatically collected data to personally identifiable information.
+<br><br>
+<font class="heading"><b>Cookies</b></font>
+<br><br>
+We do not use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes.
+<br><br>
+<font class="heading"><b>Clear Gifs (Web Beacons/Web Bugs)</b></font>
+<br><br>
+We do not use clear gifs (I.e. Web Beacons/Web Bugs) in our HTML-based emails.
+<br><br>
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users and to let companies know which emails recipients have opened, allowing them to gauge the effectiveness of certain communications and the effectiveness of their on-line marketing campaigns. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+<br><br>
+<font class="heading"><b>Links to Other Sites</b></font>
+<br><br>
+This privacy statement applies only to information collected by this Web site. This Web site contains links to other sites that are not owned or controlled by
+Ferns n Petals.. Please be aware that we, Ferns N Petals, are not responsible for the privacy practices of such other sites.
+<br><br>
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site you access to review their privacy practices.
+<br><br>
+<font class="heading"><b>Access to Personally Identifiable Information</b></font>
+<br><br>
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at <a href="mailto:query@fnp.in">query@fnp.in</a> or by contacting us by telephone or postal mail at the contact information listed below.
+<br><br>
+<font class="heading"><b>Security</b></font>
+<br><br>
+The security of your personal information is important to us. We do not use any encryption on our forms, as we do not collect credit card numbers, social security numbers or any other sensitive information that can be used in identity theft.
+<br><br>
+<font class="heading"><b>Business Transitions</b></font>
+<br><br>
+In the event Ferns N Petals&nbsp; goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+<br><br>
+<font class="heading"><b>Changes in this Privacy Statement</b></font>
+<br><br>
+If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+<br><br>
+We reserve the right to modify this privacy statement at any time, so please review it periodically. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+<br><br>
+
+</p></div>
+		</td>
+	</tr>
+</tbody></table>
+	</td>
+	</tr>
+</tbody></table>
+
+				</td>
+			</tr>
+		</tbody></table></div></div>
+				
+
+
+
+
+<div id="templateConten">
+<div id="footerLink" align="center" class="GeryNormalText">
+<a href="/fnp/faces/jsp/index.jsp" class="lightGeryNormalLink">Home</a> | <a href="/fnp/faces/jsp/AboutUs.jsp" class="lightGeryNormalLink">About Us</a> | <a href="/fnp/faces/jsp/buy-flowers-online.jsp" class="lightGeryNormalLink">Team FNP</a> | <a href="/fnp/faces/jsp/PrivacyPolicy.jsp" class="lightGeryNormalLink">Privacy Policy</a> | <a href="/fnp/faces/jsp/TermsnCondition.jsp" class="lightGeryNormalLink">Terms n Conditions</a> | <a href="javascript:bookmarksite('|| FNP flowers anywhere anytime ||','http://www.fnp.in');" class="lightGeryNormalLink">Bookmark Us</a> | <a href="/fnp/faces/jsp/ContactUs.jsp" class="lightGeryNormalLink">Contact us</a> | <a href="/fnp/faces/jsp/FAQs.jsp" class="lightGeryNormalLink">FAQ's Member Benefits</a> | <a href="../jsp/franchise.jsp" class="lightGeryNormalLink">Franchise</a> <br> <a href="/fnp/faces/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1174" class="lightGeryNormalLink">Corporate Gifts</a> | <a href="/fnp/faces/jsp/retailStores.jsp" class="lightGeryNormalLink">Retail Stores</a> | <a href="/fnp/faces/jsp/joinFnPAffiliateProgram.jsp" class="lightGeryNormalLink">Join Fnp's Affiliate Program</a> | <a href="/fnp/faces/jsp/fnpNewsRoom.jsp" class="lightGeryNormalLink">News Room</a> | <a href="/fnp/faces/jsp/shippingdisclaimer.jsp" class="lightGeryNormalLink">Shipping Disclaimer</a> | <a href="/fnp/category/y/--clI~2-cI~1207-/SiteMap.html" class="lightGeryNormalLink">Site Map</a> | <a href="/fnp/faces/jsp/offers.jsp" class="lightGeryNormalLink">Offers</a></div>
+<div id="footerCategoryLink" class="towpadding">
+<a href="/fnp/category/y/--clI~2-cI~1205-/Flowers-to-Ahmedabad.html" class="GeryNormalLink">Flowers to Ahmedabad</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1199-/Flowers-to-Bangalore.html" class="GeryNormalLink">Flowers to Bangalore</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1333-/Flowers-to-Bhubaneshwar.html" class="GeryNormalLink">Flowers to Bhubaneshwar</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1334-/Flowers-to-Cochin.html" class="GeryNormalLink">Flowers to Cochin</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1204-/Flowers-to-Chandigarh.html" class="GeryNormalLink">Flowers to Chandigarh</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1335-/Flowers-to-Faridabad.html" class="GeryNormalLink">Flowers to Faridabad</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1194-/Flowers-to-Delhi.html" class="GeryNormalLink">Flowers to Delhi</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1335-/Flowers-to-Dehradun.html" class="GeryNormalLink">Flowers to Dehradun</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1202-/Flowers-to-Gurgaon.html" class="GeryNormalLink">Flowers to Gurgaon</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1337-/Flowers-to-Ghaziabad.html" class="GeryNormalLink">Flowers to Ghaziabad</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1198-/Flowers-to-Hyderabad.html" class="GeryNormalLink">Flowers to Hyderabad</a><br>
+
+
+</div>
+<div id="footerCategoryLink" class="towpadding">
+<a href="/fnp/category/y/--clI~2-cI~1206-/Flowers-to-Kanpur.html" class="GeryNormalLink">Flowers to Kanpur</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1203-/Flowers-to-Lucknow.html" class="GeryNormalLink">Flowers to Lucknow</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1201-/Flowers-to-Ludhiana.html" class="GeryNormalLink">Flowers to Ludhiana</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1192-/Flowers-to-Mumbai.html" class="GeryNormalLink">Flowers to Mumbai</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1197-/Flowers-to-Pune.html" class="GeryNormalLink">Flowers to Pune</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1200-/Gifts-to-Chennai.html" class="GeryNormalLink">Gifts to Chennai</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1193-/Gifts-to-Mumbai.html" class="GeryNormalLink">Gifts to Mumbai</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1195-/Send-Flowers-to-Kolkata.html" class="GeryNormalLink">Send Flowers to Kolkata</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1280-/Flowers-to-Jaipur.html" class="GeryNormalLink">Flowers to Jaipur</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1196-/Send-Flowers-to-Noida.html" class="GeryNormalLink">Send Flowers to Noida</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1281-/Flowers-to-Indore.html" class="GeryNormalLink">Flowers to Indore</a><br>
+
+</div>
+<div id="footerCategoryLink" class="towpadding">
+<a href="/fnp/category/y/--clI~2-cI~1282-/Flowers-to-Nagpur.html" class="GeryNormalLink">Flowers to Nagpur</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1338-/Flowers-to-Navi-Mumbai.html" class="GeryNormalLink">Flowers to Navi Mumbai</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1283-/Flowers-to-Baroda.html" class="GeryNormalLink">Flowers to Baroda</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1341-/Flowers-to-Trivandrum.html" class="GeryNormalLink">Flowers to Trivandrum</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1284-/Flowers-to-Bhopal.html" class="GeryNormalLink">Flowers to Bhopal</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1285-/Flowers-to-Surat.html" class="GeryNormalLink">Flowers to Surat</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1339-/Flowers-to-Secunderabad.html" class="GeryNormalLink">Flowers to Secunderabad</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1340-/Flowers-to-Thane.html" class="GeryNormalLink">Flowers to Thane</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1342-/Flowers-to-Patna.html" class="GeryNormalLink">Flowers to Patna</a><br>
+<a href="/fnp/category/y/--clI~4-cI~1112-/USA.html" class="GeryNormalLink">Flowers to USA</a><br>
+<a href="/fnp/category/y/--clI~4-cI~1111-/UK.html" class="GeryNormalLink">Flowers to UK</a><br>
+
+</div>
+<div id="footerCategoryLink" class="towpadding">
+<a href="/fnp/faces/tiles/catalogue.jsp?catalogueID=3" class="GeryNormalLink">Same Day Flower Delivery</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1124" class="GeryNormalLink">Order Flowers Online</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1014&amp;parentCategoryID=1101" class="GeryNormalLink">Send Cheap Flowers Online</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1022&amp;parentCategoryID=1004" class="GeryNormalLink">Wedding Flowers Online</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1019&amp;parentCategoryID=1001" class="GeryNormalLink">Cakes to India</a><br><a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1001" class="GeryNormalLink">Online Flower Gift</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1123&amp;parentCategoryID=1001" class="GeryNormalLink">Send Fresh Flowers Online</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1023&amp;parentCategoryID=1004" class="GeryNormalLink">Birthday Flower Delivery</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1021&amp;parentCategoryID=1001" class="GeryNormalLink">Roses to India</a><br>
+<a href="/fnp/category/y/--clI~5-cI~1089-/Midnight-Delivery.html" class="GeryNormalLink">Midnight Flowers</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1013" class="GeryNormalLink">Buy Sweet Online</a><br>
+
+
+</div>
+<div id="footerCategoryLink" class="towpadding">
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1076&amp;parentCategoryID=1019" class="GeryNormalLink">Chocolate Gift Basket Online</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1020&amp;parentCategoryID=1001" class="GeryNormalLink">Send Flower Bouquet</a><br>
+<a href="/fnp/category/y/--clI~4-cI~1110-/UAE.html" class="GeryNormalLink">Send Flowers to Dubai</a><br>
+
+<a href="/fnp/category/y/--clI~4-cI~1095-/Australia.html" class="GeryNormalLink">Send Flowers to Australia</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1344-/Florist.html" class="GeryNormalLink">Florist</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1345-/Flower-delivery.html" class="GeryNormalLink">Flower Delivery</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1346-/Local-Flower-delivery.html" class="GeryNormalLink">Local Flower Delivery</a><br>
+<a href="/fnp/category/y/--clI~2-cI~1121-/Friendship-Gifts.html" class="GeryNormalLink">Friendship Gifts</a><br>
+
+<a href="/fnp/faces/jsp/wedding.jsp" class="GeryNormalLink">Wedding Decor Arrangments</a><br>
+<a href="/fnp/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=1013" class="GeryNormalLink">Buy Sweet Online</a><br>
+<a href="http://220.226.188.29/merchant/faces/merchant/merchantLogin.jsp" class="GeryNormalLink">Merchant Login</a><br>
+</div>
+</div>
+<div id="FooterCopyright">
+<span class="GeryNormalText">
+Copyright @ <script language="JavaScript">var d=new Date();yr=d.getFullYear();if (yr)document.write(yr);</script>2020  Ferns 'N' Petals | Best viewed in "1024 x 768" resolution</span></div>
+</form></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5956906-1");
+pageTracker._trackPageview();
+</script>
+</div>
+
+<map name="CatalogueMap">
+<area shape="rect" coords="23,13,122,33" href="/fnp/category/y/--clI~3-cI~1087-/Same-Day-Delivery.html" alt="Deliver Today">
+<area shape="rect" coords="163,13,294,33" href="/fnp/category/y/--clI~5-cI~1089-/Midnight-Delivery.html" alt="Mid Night Delivery">
+<area shape="rect" coords="341,13,481,33" href="/fnp/category/y/--clI~6-cI~1188-/Arrangements.html" alt="Fixed Time Delivery">
+<area shape="rect" coords="544,13,748,33" href="/fnp/category/y/--clI~95-cI~1189-/Arrangements.html" alt="Remote Locations and Cities">
+<area shape="rect" coords="808,13,955,33" href="/fnp/category/y/--clI~4-cI~1095-/Australia.html" alt="International Delivery">
+</map>
+
+<link rel="stylesheet" href="/media/js/OctaShop/zapatecCalendar/themes/Tsicalender.css">
+<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/zapatec.js"></script>
+<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/calendar.js"></script>
+<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/calendar-en.js"></script>
+<script type="text/javascript" src="/media/js/OctaShop/zapatecCalendar/ZapatecCalendarApi.js"></script>
+<script type="text/javascript" src="/media/js/OctaShop/prototype.js"></script>
+<script src="/media/js/OctaShop/octaShop.js"></script>
+<script type="text/javascript" src="/media/js/OctaShop/validator.js"></script>
+<script language="javascript" src="/media/js/OctaShop/page/search.js"></script>
+<script type="text/javascript" src="/media/js/FNP/common.js"></script>
+
+<script language="JavaScript">
+<!--
+// register event listeners on the Ajax requests to show/hide the processing indicator
+Ajax.Responders.register({
+onCreate: function() {
+if (Ajax.activeRequestCount === 1) {
+$('loading').show();
+}
+},
+onComplete: function() {
+if (Ajax.activeRequestCount === 0) {
+$('loading').hide();
+}
+}
+});
+createZapatecCalender('pcaShippingDate',true);
+//-->
+</script>
+
+			
+	<input type="hidden" name="jsf_tree_64" value="H4sIAAAAAAAAAK2Qv0oDQRDGx8MoiihqYSsopLt7gJSBmIRTwX8gV4Rxs7nbcLe77s1p0tjZ+wA+geQJfAI7W1/C1to5LpoUChY2w37DN/P7ZifvUMsdHBgX+2hRJNLPxgMUMmdpUyWQlNH+mZPylFwhqHDyEDXG0u3Pmk2TWaOlptblzttj9+PVg8UIVnoiUWnfcR+6UciIoEIEU0Qwhwj+imiEsNETX6qZYp4TbIVDvMEgRR0H7Fc6ZtvazNbpX8MdeBEs90oy8ch2NDdzfDWUghojW7hp1P/4jcbzpP6yef/w5AGMLAAs5GUMKMpaY+1V2hLUyywjv2J9x/bPO0eY8TVNowmVlo5gPRmo0MRKtyX2pbPTFWVdJVgaGEPcJdj7eWNCWeq3ubSMy9ifjcsH+3d/S3Ch5O0Jb7X2E3dnx1ktAgAA"><input type="hidden" name="jsf_state_64" value="H4sIAAAAAAAAAIWSQWsTQRTHXzZJN9YgaQvRi+DVy0bEWw+2TQxZ2NDSVBA9pK+7k82Gzcw4+zbZ9VD04N2LglDxC3i39CYePCkoePEzqGf1ojtbTYRafDDDzOPN+73/f/fFFyjHClbuOCOcoBUi963NvRFzafXRu1vPa9Hl0ABIJAAU47uwDzpKs5MpjyNSUMsbxBSEliNcDNn+t6XdgyvfPxtQsqEyxGjoCo85YLoi5qRSguUc2tDQRo9UwP1VByr6GqPPNKOclU9QBcgpvybyZxYEQGAwrlMmwWJnp+v0N9Z7dpOg3hhFsrGlggm66ZYIAze1soyecGU+4bpSmDpBRMmDDxefvsFnRSjYUIqCeyzXWpiW9D7TOdden2snWBinbaHGko7VJ9YAXRZZOqerahl0aQ7tZBZ0UZbNT69e13ffF8Fow2Io0GujS0LZcIaGikVDEXqJvL6WQ6rTSrbXsmUQXP0bMmV7KKV1026KsRSccdpB32pvbndvbPebHdtp9e1W7+QEPUZHrYePnxy+vFbUX3Za1YDfuAyyMBCCmCI4NxwEjvAD3mHoMZUQVAdCucz2bO6xZNY5/2c2hAgZ8reX1P2PBz++GlC4DeUJhnHmZyGRp0SkXTqrubnfxj/8NvXhwp/a5RO2QN78tIfn//cwSX4BAurWGgIDAAA="><input type="hidden" name="jsf_viewid" value="/jsp/PrivacyPolicy.jsp"><input type="hidden" name="myForm_SUBMIT" value="1">
+</div>
+
+<div id="FooterBootom"></div>
+
+	
+	
+</body></html>
