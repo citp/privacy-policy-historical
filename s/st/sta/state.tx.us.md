@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106212324id_/http%3A//www.texasonline.com/portal/tol/en/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705211946id_/http%3A//www.texasonline.com/portal/tol/en/policies%23privacy) for the most accurate reproduction.*
 
 # TexasOnline Accessibility & Site Policies
 
