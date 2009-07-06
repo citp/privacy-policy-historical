@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052246id_/http%3A//face-pic.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face-pic.com privacy policy that was archived on 2009-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090706083209id_/http%3A//www.face-pic.com/pages/privacy.php) for the most accurate reproduction.*
 
 # face-pic.com - Privacy Policy
 
-[Help](https://web.archive.org/web/20090617052246id_/http%3A//face-pic.com/pages/help.php) > Privacy & Opt-In Policy
+[Help](https://web.archive.org/web/20090706083209id_/http%3A//www.face-pic.com/pages/help.php) > Privacy & Opt-In Policy
 
   
 To register with face-pic.com, you are required to read the following Privacy & Opt-In Policy . 
