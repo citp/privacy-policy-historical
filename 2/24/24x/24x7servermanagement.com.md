@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24x7servermanagement.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417203150id_/http%3A//24x7servermanagement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24x7servermanagement.com privacy policy that was archived on 2009-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090707205230id_/http%3A//www.24x7servermanagement.com/privacy.php) for the most accurate reproduction.*
 
 # 24x7 | Privacy Policy
 
@@ -63,6 +63,6 @@ Complex server configurations
   |    
   | 
 
-[Read More ](https://web.archive.org/web/20090417203150id_/http%3A//24x7servermanagement.com/services.php)  
+[Read More ](https://web.archive.org/web/20090707205230id_/http%3A//www.24x7servermanagement.com/services.php)  
   
  
