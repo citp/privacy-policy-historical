@@ -1,66 +1,56 @@
-> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193524id_/http%3A//www.coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2009-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090707094424id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Cool Running :: Privacy Policy
+# Privacy Policy - The Active Network
 
-Cool Sports, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.coolrunning.com. 
+Active recognizes that privacy is important. This Privacy Policy applies to all of the websites and products owned and/or operated by The Active Network, Inc. and its subsidiary and affiliated companies (collectively “Active”) unless expressly noted otherwise. The majority of Active’s websites are intended for a general audience and this policy describes our general use of information. For Active’s websites that may be used by a younger audience, more specific policies applicable to children under the age of 13 will be located on each such site.
 
-Information Automatically Logged  
-We use your IP address to help diagnose problems with our server, to administer our Web site, and to gather broad demographic information (for example, to understand the geographic location of our visitors in the aggregate). 
+**Collection and Use of Information**
 
-Cookies  
-Our site uses "cookies" (small files stored on your computer's hard drive) to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+Some of Active’s websites permit users, subject further to Active’s online terms of use, to register for events or programs, request information, enter contests, vote in polls or otherwise express opinions or submit comments. As part of such use, you may be asked to register for a free ID and password and to provide certain personally identifying information such as name, address, phone number, email address, birth date, ZIP code, gender, personal interests and credit card information for transactions. Active uses your information to perform transactions, deliver services or information you have requested, and offer you products and services from Active and our trusted partners, programs or services that we believe may be of interest to you. Active also uses your information to contact you when necessary for customer service purposes. We may combine your information that we have with information we obtain from business partners or third parties to provide you with a better product or Active experience. Active may use information relating to your visit or use of our websites, or information you provide to us, for market research purposes in order to continually improve the product and services that Active delivers to you.
 
-Registration Forms  
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+If you choose to submit content for publication we may publish your screen name and other information as provided by you or to personalize your user experience. If you register for a competitive event, your name, event entry identification, and interim and final event time results may be made publicly available on any Active website. 
 
-Contact information from the registration forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary, and to share with other companies who may want to contact our customers. Users may opt-out of receiving future mailings from Cool Sports, Inc., or our partners; see the choice/opt-out section below. 
+Active receives and records information on our server logs from your browser, including your IP address, Active cookies (small pieces of information stored by your browser), and the page(s) you request. Active uses this information to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+When Active does share your information with our subsidiaries, affiliated companies and trusted businesses or persons, we require that these parties agree to process such information based on our direction and in compliance with appropriate confidentiality and security measures. 
 
-Surveys  
-Our occasional online surveys may track visitors' answers to their unique user names. These surveys are used to collect demographic and profile data (like age, gender, and income level) to be shared with advertisers on an aggregate basis. No individual information is ever given out to a third party without your permission. We link users' answers to their unique user names only so that we may automatically fill out the survey with their last answers should the users visit the survey page a second time. 
+Active also displays targeted advertisements based on personal information. Third party advertisers (including ad-serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. However, Active does not provide any personal information to the advertiser when you interact with or view a targeted advertisement.
 
-External Links  
-This site contains links to other sites. Cool Sports, Inc is not responsible for the privacy practices or the content of such Web sites. 
+Except as otherwise described in this Privacy Policy, it is Active's policy not to distribute to third parties any personally identifying information about you without your consent (usually communicated through either an “opt-out” or “opt-in” notification or mechanism). Upon obtaining your consent, Active may provide access to or otherwise disclose your personally identifying information to third parties. However, we may aggregate certain personally identifying information - meaning that the information from many Active users is grouped together in a way that does not disclose the personal information of any particular user – without your consent. 
 
-Our Partner Sites  
-The Cool Running site also includes links to sites owned by our commerce partners. These sites are not covered by our privacy policy. We do not share any user information with these sites. Any information provided to our partners, including ordering information, is governed by the privacy policy of the partner sites. 
+You may choose not to submit certain personal information while on our websites, in such instances Active may not be able to provide you with certain services.
 
-Likewise, any exchange of information that takes place during race registration conducted from the Cool Running race calendar is governed by the privacy policy of the relevant race registration firm. 
+If you are using our services to register for an event, program or to purchase a third party product, Active shares the personal information you provide to applicable third party(ies) to fulfill your request. Each such party operates independently from Active and maintains its own privacy and security policy. Active bears no responsibility from the activities of any such third party to whom Active provides information to process your request and you should contact those third parties directly regarding your preferences for the use of your personal information.
 
-Public Forums  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**Legal Disclosures**
 
-Security  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All membership files are in secure directories, and all information is backed up on daily basis. 
+Active may release your personal information to third parties: (a) in order to comply with a valid legal requirement such as in compliance with any law, regulation, search warrant subpoena or court order; or (b) in special cases, when we believe it is necessary to share information in order to investigate, prevent or take action regarding any illegal or unauthorized activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of our Terms of Use. 
 
-Children's Guidelines  
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
+**Information Security**
 
-Our terms of use requires that users be 13 years of age to register. As a result, our policy is that we do not collect any personal information about children. Also as a result of our terms of use, children may not have access to unmonitored chat rooms, message boards, e-mail accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent. We do not, however, have the ability to prevent a child from registering in violation of our terms of use. 
+Active has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information, including the use of secure socket layer (SSL) and encryption methods. We regularly evaluate our data collection, storage and processing practices and security to guard against unauthorized access to our systems. You can help to protect your information by safeguarding your Active password and using caution and discretion when posting information on public areas of the sites. 
 
-We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
+Although Active uses commercially reasonable efforts to safeguard your information, transmissions made by means of the Internet cannot be fully secure in all instances and we cannot guarantee that personally identifiable information that we collect will never be disclosed in a manner that is not consistent with this Privacy Policy.
 
-We will NOT provide any links to Web sites that are unsuitable for children. 
+More information on Active’s security can be found at: <http://www.activenetwork.com/security.htm>.
 
-Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving promotional or marketing information from us as well as our partners. 
+**Unsubscribe**
 
-  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department
-  * You can send mail to the following postal address: Cool Running, PO Box 3242, Nashua, NH 03061
-  * To remove yourself from the Cool Running Relay mailing list, send an e-mail to [requests@coolrunning.com](mailto:requests@coolrunning.com) with the words "unsubscribe relay" (no quotes) in the BODY of the e-mail message.
+If addition, if at anytime, you no longer want us to send you any regular communications, you may “opt-out” of such future communications, clicking on the “unsubscribe” link at the bottom of the newsletter or email. To “opt-out” of products, programs, services, or offers from our trusted partners, please contact [privacy@activenetwork.com](mailto:privacy@activenetwork.com). 
 
+**Contact Us**
 
+Active regularly reviews its practices regarding personally identifiable information and this Privacy Policy. If you have any questions, comments or concerns, please contact us at:
 
-Data Quality/Access  
-This site gives users the following options for changing and modifying information previously provided: 
+Attn: Privacy Officer  
+The Active Network, Inc.  
+10182 Telesis Court  
+San Diego, CA 92121
 
-  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department 
-  * You can edit your profile by logging into your account on [this page.](http://www.active.com/page/coolrunning/login?referrerUrl=http://www.active.com/home.htm)
-  * You can send mail to the following postal address:  
-Cool Running, PO Box 3242, Nashua, NH 03061 
+[](mailto:privacy@activenetwork.com)[privacy@activenetwork.com](mailto:privacy@activenetwork.com) ****
 
+**Changes**
 
+Active may transfer the personal information collected under this Privacy Policy to a third party in the event of a transfer of ownership such as a merger, acquisition or any form of sale of the majority of the assets of Active. 
 
-Contacting Us  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact [feedback@coolrunning.com](mailto:feedback@coolrunning.com)
+Active reserves the right to modify or supplement this privacy policy at anytime without any prior notice to you. If we make any changes, we will update the Active websites and this Privacy Policy to include such change. Please regularly review this Privacy Policy to keep up to date with any changes that may affect your use of the Active Websites. Your continued use of the Active websites once the revised privacy policy has been posted on the websites affirms your agreement to such changes.
