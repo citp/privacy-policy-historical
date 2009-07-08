@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerreviewnetwork.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502004853id_/http%3A//www.consumerreviewnetwork.com/leads/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerreviewnetwork.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708140340id_/http%3A//www.consumerreviewnetwork.com/leads/privacy.php) for the most accurate reproduction.*
 
 # ConsumerReviewNetwork.com
 
