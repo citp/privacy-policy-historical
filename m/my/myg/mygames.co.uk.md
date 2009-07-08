@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mygames.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218120642id_/http%3A//www.mygames.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygames.co.uk privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708125809id_/http%3A//www.mygames.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Online Games on MyGames.co.uk
+# Free Online Games on MyGames.co.uk
 
-**Privacy Policy**
-
-This privacy policy (hereinafter the “Privacy Policy”) is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities hereinafter collectively referred to as the “Website”). SPIL GAMES B.V. (hereinafter referred to as “SPIL”) with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates’ or reputable third parties’ services for the processing of personal data collected on or through the Website.
+This privacy policy (hereinafter the “Privacy Policy”) is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities hereinafter collectively referred to as the “Website”). SPIL GAMES BV (hereinafter referred to as “SPIL”) with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, is the responsible party as referred to in the Dutch Personal Data Protection Act ( _Wet bescherming persoonsgegevens_ ). SPIL may use affiliates’ or reputable third parties’ services for the processing of personal data collected on or through the Website.
 
 **1\. General data of visitors of the Website**
 
@@ -13,22 +11,22 @@ When you visit the Website, our servers automatically save your computer’s IP 
 
 **2\. Cookies and web beacons**
 
-**2.1**. SPIL may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to   
-**(a)** operate and improve offerings through the Website;   
-**(b)** help authenticate you when you are on the Website;   
-**(c)** remember your preferences and registration information, as the case may be;   
-**(d)** present and help measure and research the effectiveness of SPIL’s offerings, advertisements, and e-mail communications and;   
-**(e)** customize the content and advertisements provided to you through the Website.  
+**2.1**. SPIL may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to  
+**(1)** operate and improve offerings through the Website;  
+**(2)** help authenticate you when you are on the Website;  
+**(3)** remember your preferences and registration information, as the case may be;  
+**(4)** present and help measure and research the effectiveness of SPIL’s offerings, advertisements, and e-mail communications; and  
+**(5)** customize the content and advertisements provided to you through the Website.  
 **2.2.** SPIL may also use ad network providers, to help present advertisements on the Website. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience. SPIL offers some services in connection with other web sites. Personal information that you provide to those sites may be sent to SPIL in order to deliver the service. SPIL processes such information in accordance with this Privacy Policy.  
 **2.3.** SPIL may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network providers, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.  
-**2.4.** Most browsers are initially set to accept cookies, but you can (re-)set your browser to refuse all cookies or indicate when a cookie is being sent. However, some features and services may not function properly if the cookies are disabled.  
+**2.4.** Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or indicate when a cookie is being sent. However, some features and services may not function properly if the cookies are disabled.  
 
 
 **3\. Email addresses**
 
 **3.1**. We only collect those email addresses that were provided to us directly by the addressee or when it is beyond doubt that the addresses were provided to or on behalf of us.  
-**3.2**. Email addresses will only be used for the purposes for which the email addresses were provided and for those promotion-, service- and other purposes that you expressly approved of.  
-**3.2**. Without your approval we shall not use your email address for commercial purposes.  
+**3.2**. Email addresses will only be used for the purposes for which the email addresses were provided and for those promotional, service and other purposes that you expressly approved of.  
+**3.3**. Without your approval we shall not use your email address for commercial purposes.  
 
 
 **4\. Combination of personal data**
