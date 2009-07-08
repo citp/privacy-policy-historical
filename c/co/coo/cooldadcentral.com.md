@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooldadcentral.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504024740id_/http%3A//www.cooldadcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooldadcentral.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708220747id_/http%3A//www.cooldadcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Cool Dad Central» Cool Dad Central
 
