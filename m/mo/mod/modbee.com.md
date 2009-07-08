@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604122248id_/http%3A//www.modbee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708035719id_/http%3A//www.modbee.com/privacy) for the most accurate reproduction.*
 
 # The Modesto Bee | Privacy Policy
 
