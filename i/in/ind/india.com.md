@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617183230id_/http%3A//www.india.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708063326id_/http%3A//www.india.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | India.com
 
