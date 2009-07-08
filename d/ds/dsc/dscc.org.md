@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421075842id_/http%3A//www.dscc.org/content%3Fcontent_item_KEY%3D1443) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708144946id_/http%3A//dscc.org/content%3Fcontent_item_KEY%3D1443) for the most accurate reproduction.*
 
 # DSCC: Democratic Senatorial Campaign Committee
 
