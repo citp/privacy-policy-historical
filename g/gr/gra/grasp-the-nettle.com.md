@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grasp-the-nettle.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607102257id_/http%3A//www.grasp-the-nettle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasp-the-nettle.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708023046id_/http%3A//grasp-the-nettle.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
