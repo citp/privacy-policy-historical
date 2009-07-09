@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185044id_/http%3A//outdoorchannel.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709060628id_/http%3A//www.outdoorchannel.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
