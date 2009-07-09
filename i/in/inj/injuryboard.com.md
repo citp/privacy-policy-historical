@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the injuryboard.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081044id_/http%3A//www.injuryboard.com/legal.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the injuryboard.com privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709070550id_/http%3A//www.injuryboard.com/legal.aspx%23privacy) for the most accurate reproduction.*
 
 # Injuryboard.com Privacy Policy, Disclaimer, and Terms of Use
 
