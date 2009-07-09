@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224175148id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710012653id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[](http://www.fantasticfiction.co.uk/)
-
-  
-
-
-## Privacy Statement for Fantastic Fiction
-
-  
-
 
 **Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Fantastic Fiction](http://www.fantasticfiction.co.uk/)
 
@@ -20,7 +10,7 @@ We use a session cookie to record which pages you look at. This enables us to co
 
 Advertisers
 
-We use Google to display ads on our site. These ads may contain cookies which are collected by Google, and we do not have access to this information. 
+We use Google to display ads on our site. These ads may contain cookies which are collected by Google, and we do not have access to this information. Google may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, click [here](http://www.google.com/privacy_ads.html). 
 
 Personal Information
 
@@ -42,6 +32,3 @@ Abebooks
 Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@fantasticfiction.co.uk](mailto:webmaster@fantasticfiction.co.uk)
-
-  
-
