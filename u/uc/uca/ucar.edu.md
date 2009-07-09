@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172346id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NCAR|UCAR|UOP Privacy Policy
 
-[Terms of Use](https://web.archive.org/web/20090617172346id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml) | [Copyright/Disclaimer](https://web.archive.org/web/20090617172346id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml#copyright)
+[Terms of Use](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml) | [Copyright/Disclaimer](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml#copyright)
 
 **UCAR GENERAL PRIVACY POLICY**
 
@@ -42,5 +42,5 @@ UCAR
 PO Box 3000  
 Boulder, CO 80307   
   
-This document can be found at https://web.archive.org/web/20090617172346id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml   
+This document can be found at https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml   
 Subscribe to our News Feeds at www.ucar.edu/news/rss
