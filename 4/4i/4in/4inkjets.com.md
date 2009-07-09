@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530002920id_/http%3A//www.4inkjets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710011615id_/http%3A//www.4inkjets.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4inkjets
 
@@ -47,6 +47,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **Updates and Changes to Privacy Polciy** Although most changes are likely to be minor, 4inkjets.com reserves the right, at any time and without notice, to add to, update, change or modify this privacy policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the website. Each time you use the website, the then-current version of this privacy policy will apply. Accordingly, each time you use the website you should check the date of this privacy policy (which appears at the end) and review any changes since the last time you used the website. Unless 4inkjets.com obtains your express consent, any revised privacy policy will apply only to information collected after the effective date of such revised privacy policy, and not to information collected under any earlier privacy policy.
 
 **How To Contact Us** Should you have other questions or concerns about these privacy policies, please call us at [888-321-2552] or send us an [email](mailto:email@4inkjets.com). 
-
-  
-Effective January 24, 2008
