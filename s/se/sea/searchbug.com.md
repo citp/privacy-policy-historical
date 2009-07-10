@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616085730id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710052653id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
 
 # SearchBug Privacy Policy
 
