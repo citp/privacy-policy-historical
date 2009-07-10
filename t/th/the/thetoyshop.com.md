@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428001650id_/http%3A//www.thetoyshop.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710034753id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
 # The Toy Shop
 
-**thetoyshop.com** is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom.
+**TheToyShop.com** is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom.
 
-**thetoyshop.com** is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
+**TheToyShop.com** is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
 
 When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent unauthorised access.
 
