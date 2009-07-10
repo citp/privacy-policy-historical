@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504021605id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710192743id_/http%3A//www.adamevetoys.com/t-faq.aspx) for the most accurate reproduction.*
 
 # Frequently Asked Questions
 
