@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184206id_/http%3A//www.crystalgraphics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711121929id_/http%3A//www.crystalgraphics.com/privacy.asp) for the most accurate reproduction.*
 
 # CrystalGraphics - Energize your presentations, Videos and Web sites!
 
