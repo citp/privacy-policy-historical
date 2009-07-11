@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propakistani.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510234904id_/http%3A//www.propakistani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propakistani.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711185805id_/http%3A//www.propakistani.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProPakistani
 
