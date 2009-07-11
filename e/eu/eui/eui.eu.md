@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eui.eu privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503151008id_/http%3A//www.eui.eu/About/DataProtection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eui.eu privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711164910id_/http%3A//www.eui.eu/About/DataProtection) for the most accurate reproduction.*
 
 # 
 
