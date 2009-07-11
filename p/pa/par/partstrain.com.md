@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partstrain.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529093943id_/http%3A//www.partstrain.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstrain.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711145321id_/http%3A//www.partstrain.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Page
+# Auto Parts Train - Privacy Policy
 
 **PartsTrain.com** recognizes the importance of maintaining your privacy. We value our relationship with you and we appreciate the trust you show in providing information to us. Explaining how we collect, use and protect customer information is, therefore, of utmost importance to us. **By visiting PartsTrain.com, you are accepting the practices described in this Privacy Notice.**
 
