@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkey.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220140717id_/http%3A//www.flipkey.com/Pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkey.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711095452id_/http%3A//www.flipkey.com/Pages/privacy_policy) for the most accurate reproduction.*
 
 # FlipKey Privacy Policy
 
