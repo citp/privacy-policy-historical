@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307103138id_/http%3A//www.joc.com/node/409499) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711105611id_/http%3A//www.joc.com/privacy) for the most accurate reproduction.*
 
 # Privacy + Terms | Journal of Commerce
 
