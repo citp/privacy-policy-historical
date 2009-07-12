@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4rx.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415211307id_/http%3A//www.4rx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4rx.com privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712025255id_/http%3A//www.4rx.com/privacy.html) for the most accurate reproduction.*
 
 # 4RX.com: Online Pharmacy - Privacy Policy
 
 | 
 
-[ ](https://www.securitymetrics.com/site_certificate.adp?s=72.20.52.134&i=122320)
+[ ](https://www.securitymetrics.com/site_certificate.adp?s=174.142.47.58&i=122320)
 
 |   | 
 
