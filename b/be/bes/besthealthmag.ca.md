@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219143905id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712142650id_/http%3A//www.besthealthmag.ca/privacy) for the most accurate reproduction.*
 
-# Privacy | Best Health - Live Better. Feel Great.
-
-* * *
-
-  * [Share on Facebook](http://www.facebook.com/sharer.php?u=http://www.besthealthmag.ca/privacy "Share on Facebook")
-  * [Digg This](http://digg.com/submit?phase=2&url=http://www.besthealthmag.ca/privacy&title=Privacy+%7C+Best+Health "Digg This")
-  * [Save on del.icio.us](http://del.icio.us/post?v=4&noui&jump=close&tags=&url=http://www.besthealthmag.ca/privacy&title=Privacy+%7C+Best+Health "Save on del.icio.us")
-
-
+# Privacy | Best Health
 
 Unless otherwise indicated, the policies below are applicable to www.readersdigest.ca, www.ourcanada.ca and www.besthealthmag.ca, all of which are operated by The Reader's Digest Association (Canada) ULC. 
 
@@ -67,15 +59,3 @@ Server logs capture certain non-personally identifying data, such as the time an
 **Acceptance of Privacy Policy Terms and Conditions**
 
 By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree with this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of our web sites following the posting of any changes to these terms shall mean that you have accepted those changes. 
-
-[ ](https://secure.readersdigest.ca/eng/best_health_gift_subs.php?partner=homepage_bh_gift)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
