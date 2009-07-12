@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesheetmusic.com privacy policy that was archived on 2007-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070216064412id_/http%3A//www.onlinesheetmusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesheetmusic.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713005624id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
 
 # Download Digital Sheet Music 24/7 | FreeHandMusic.com
 
@@ -92,4 +92,4 @@ By using the FreeHandMusic website, you signify your assent to the FreeHandMusic
 
 Contact information
 
-If you have any questions about FreeHandMusic's privacy policy, please send an e-mail to the FreeHandMusic legal department at [ http://www.FreeHandMusic.com/Feedback.aspx](http://www.freehandmusic.com/Feedback.aspx).
+If you have any questions about FreeHandMusic's privacy policy, please send an e-mail to the FreeHandMusic legal department at [ http://www.FreeHandMusic.com/Feedback.aspx](https://web.archive.org/web/20090713005624id_/http%3A//www.freehandmusic.com/Feedback.aspx).
