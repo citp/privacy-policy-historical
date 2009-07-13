@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptupload.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507020011id_/http%3A//gptupload.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptupload.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713032138id_/http%3A//www.gptupload.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # GPTupload.com - the image upload that pays !!! » More Information » Privacy Policy
 
