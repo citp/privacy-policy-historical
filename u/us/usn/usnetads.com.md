@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627130721id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713042839id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # US Free Classifieds at USNetAds.com - Privacy Policy
 
