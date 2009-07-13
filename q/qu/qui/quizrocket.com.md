@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizrocket.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609032609id_/http%3A//www.quizrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizrocket.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713075816id_/http%3A//www.quizrocket.com/privacy) for the most accurate reproduction.*
 
 # Fun Personality Quizzes and Fun Tests Online - Quiz Rocket!
 
