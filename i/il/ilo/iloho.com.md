@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iloho.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloho.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/privacy) for the most accurate reproduction.*
 
-# Travel news, flight reviews, social networking, photo sharing, trip ideas and more ｜ iloho.com
+# iloho.com | Privacy Policy
 
 * iloho takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the iloho website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -18,9 +18,11 @@ This policy does not apply to the practices of companies that iloho does not own
 
 Information Collection and Use
 
-General
+  
 
-* iloho collects personally identifying information when you register for an iloho account, when you use certain iloho products or services, when you sign-up for the iloho newsletter and when you enter promotions or competitions.
+* **General**
+
+iloho collects personally identifying information when you register for an iloho account, when you use certain iloho products or services, when you sign-up for the iloho newsletter and when you enter promotions or competitions.
 
 iloho uses this information for the following general purposes: to improve your online experience, to improve our services, to contact you, to conduct research, to administer the website and to provide anonymous reporting for internal and external clients.
 
@@ -28,7 +30,7 @@ When you register with iloho, we ask for your name, email address, date of birth
 
   1. Registration: In order for you to use Iloho services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address.
 
-Email: From time to time, iloho may send you email notifications regarding news from iloho or changes in service. iloho will never ask for your password nor ask you to divulge personal information via email. Users will be given the option to opt out of email communication. If you do not receive this option, you may always opt out by contacting [service@iloho.com](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/service@iloho.com).
+Email: From time to time, iloho may send you email notifications regarding news from iloho or changes in service. iloho will never ask for your password nor ask you to divulge personal information via email. Users will be given the option to opt out of email communication. If you do not receive this option, you may always opt out by contacting [newsletter@iloho.com](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/newsletter@iloho.com).
 
 
 
@@ -101,9 +103,9 @@ Your Account Information and Preferences
 
 * iloho gives you the ability access and edit your personal information on the website at any time. Once you have logged into your account visit your profile setting page located at http://iloho.com/users/<usersname>/profile
 
-You may request deletion of your iloho account by emailing [support@iloho.com](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/support@iloho.com) and confirming your choice to terminate the account.
+You may request deletion of your iloho account by emailing [support@iloho.com](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/support@iloho.com) and confirming your choice to terminate the account.
 
-iloho may send out e-mails with news, products, offers, surveys or promotions. You may also receive notification e-mails from iloho, which inform you of actions (e.g. friend requests, group activity) that have been performed on the site. If you do not want to receive e-mail from us, please email [support@iloho.com](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/support@iloho.com). Please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices from us.
+iloho may send out e-mails with news, products, offers, surveys or promotions. You may also receive notification e-mails from iloho, which inform you of actions (e.g. friend requests, group activity) that have been performed on the site. If you do not want to receive e-mail from us, please email [support@iloho.com](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/support@iloho.com). Please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices from us.
 
 * * *
 
@@ -115,7 +117,7 @@ You should exercise caution if you choose to disclose personally identifiable in
 
 You are solely responsible for any personally identifiable information that you disclose and disseminate on publicly accessible areas.
 
-If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please refer your query to [support@iloho.com](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/support@iloho.com).
+If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please refer your query to [support@iloho.com](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/support@iloho.com).
 
 * * *
 
@@ -135,6 +137,6 @@ Changes to this Privacy Policy
 
 Questions or Suggestions
 
-* If you have questions or suggestions please email [support@iloho.com](https://web.archive.org/web/20081217125212id_/http%3A//www.iloho.com/support@iloho.com).
+* If you have questions or suggestions please email [support@iloho.com](https://web.archive.org/web/20090714015001id_/http%3A//www.iloho.com/support@iloho.com).
 
 * * *
