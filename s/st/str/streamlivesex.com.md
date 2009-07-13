@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamlivesex.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170350id_/http%3A//www.streamlivesex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamlivesex.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713031543id_/http%3A//www.streamlivesex.com/privacy-policy) for the most accurate reproduction.*
 
 # StreamLiveSex – Live Private Chat With Amateurs - Privacy Policy
 
