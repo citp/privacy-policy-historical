@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claimid.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602050503id_/http%3A//claimid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claimid.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714161028id_/http%3A//claimid.com/privacy) for the most accurate reproduction.*
 
 # claimID.com/privacy - Manage your online identity
 
@@ -36,7 +36,7 @@ ClaimID.com believes that you control your identity information. While our servi
 
   6. **Problem Resolution**
 
-If problems arise, users may contact claimID.com by emailing [privacy@claimid.com](mailto:privacy@claimid.com).
+If problems arise, users may contact claimID.com by emailing [support@claimid.com](mailto:support@claimid.com).
 
 
 
