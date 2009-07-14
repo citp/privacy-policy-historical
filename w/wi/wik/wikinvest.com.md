@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikinvest.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503132408id_/http%3A//www.wikinvest.com/site/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinvest.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714161115id_/http%3A//www.wikinvest.com/site/Privacy_Policy) for the most accurate reproduction.*
 
 # Site:Privacy Policy
 
