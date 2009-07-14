@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212212id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2009-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090714142704id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hot Hits
 
