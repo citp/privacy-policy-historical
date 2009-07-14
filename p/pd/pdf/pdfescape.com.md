@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142730id_/http%3A//www.ctdeveloping.com/ctdeveloping/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715003141id_/http%3A//www.ctdeveloping.com/ctdeveloping/pp.asp) for the most accurate reproduction.*
 
 # Privacy - CTdeveloping.com
 
