@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617044713id_/http%3A//www.afterellen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715110029id_/http%3A//www.afterellen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | AfterEllen.com
 
