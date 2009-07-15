@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613061301id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716014444id_/http%3A//www.carbonite.com/privacy) for the most accurate reproduction.*
 
 # Full Data Backup Services: Desktop, Email Backup
 
