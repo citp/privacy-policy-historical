@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyheli.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504033139id_/http%3A//www.readyheli.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyheli.com privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716194445id_/http%3A//www.readyheli.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # ReadyHeli.com - Fast Shipping, Excellent Service, Huge Inventory...See For Yourself!
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090504033139id_/http%3A//www.readyheli.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090716194445id_/http%3A//www.readyheli.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
