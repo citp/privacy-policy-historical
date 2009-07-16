@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218121359id_/http%3A//www.cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # CB Richard Ellis Thailand
 
-| [](https://web.archive.org/web/20081218121359id_/http%3A//www.cbre.co.th/en/index.asp) |   
+| [](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/index.asp) |   
 ---|---  
 | 
 
@@ -16,7 +16,7 @@
 ---|---  
 This is the privacy policy (“Privacy Policy”), effective as of June 1, 2008, for the Web site available at [http://www.cbre.co.th](http://www.cbre.co.th/) made available by CB Richard Ellis (Thailand) Co., Ltd., the legal owner of the Site and its affiliated companies (“CB Richard Ellis (Thailand) Co., Ltd.”, “we”, “us” or “our”).This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site.Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20081218121359id_/http%3A//www.cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20090716195628id_/http%3A//www.cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
 
 We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. As we update and diversify our products and services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page.
 
