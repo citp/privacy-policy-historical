@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyguyx.net privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430180819id_/http%3A//www.familyguyx.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyguyx.net privacy policy that was archived on 2009-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090716181233id_/http%3A//www.familyguyx.net/privacy_policy) for the most accurate reproduction.*
 
 # Family Guy X | Watch, Discuss & Rate on Family Guy Episodes!
 
