@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617201744id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717012406id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,6 +14,11 @@ Passwords are issued on a per person basis and may be used only by the individua
 
 Licensees are responsible for maintaining the security of any passwords issued by Tessitura to their employees and agree to promptly notify Tessitura in the event of a misappropriation or unauthorized disclosure of a password to a third party.
 
+## Email Subscription Management  
+
+
+As a member of Tessitura Network, you will automatically be signed up to receive Tessitura Network business and education email communications.  If you choose to opt out of these lists, you may do so at any time by managing the “Subscriptions” area on this website’s logged in My Account page, or from the “unsubscribe” mechanism at the bottom of all Tessitura Network email.
+
 ## Confidentiality
 
 You agree not to distribute or share any information made available to you on the website except and solely to the extent reasonably necessary to operate your business in the ordinary course and consistent with any terms to which the information is expressly made subject where posted, any other agreements, such as licenses for the Tessitura Software or as restricted by applicable confidentiality agreements.  You further agree not to use, rent, or sell for marketing or other commercial purposes any data obtained from this website including user addresses, and any user web postings including comments or statements.
@@ -26,9 +31,7 @@ An Internet protocol (“IP”) address is a numeric code, for example, “152.1
 
 Cookies (and similar files such as single pixel GIFs, web beacons or tags) are small computer files written to your computer when you visit websites.  You have the option of setting your browser to refuse Cookies although this may diminish your ability to utilize the website.
 
-Tessitura uses Cookies to collect anonymous, non-personal information to make your use of the website easier and allow Tessitura to track website usage.  For example, when you check the 
-
-“Remember my Email” checkbox at Login, a  Cookie will remember your email address. 
+Tessitura uses Cookies to collect anonymous, non-personal information to make your use of the website easier and allow Tessitura to track website usage.  For example, when you check the “Remember my Email” checkbox at Login, a  Cookie will remember your email address. 
 
 ## Links to Other Websites
 
