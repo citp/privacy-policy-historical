@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022347id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717061337id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eClassifieds 4U
 
@@ -23,14 +23,6 @@ This privacy policy describes how we handle your personal information. We collec
   * customize users’ experience, measure interest in our services, and inform users about services and updates;
   * communicate marketing and promotional offers to you;
   * do other things for users as described when we collect the information.
-
-
-
-Advertisement Cookies
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
