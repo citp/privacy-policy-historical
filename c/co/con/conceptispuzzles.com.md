@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194349id_/http%3A//conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717110518id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
 
 # Privacy
 
-[ ](https://web.archive.org/web/20090617194349id_/http%3A//conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=picture/184)
+[ ](https://web.archive.org/web/20090717110518id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=picture/184)
 
 Last update: Monday, September 22, 2008
 
@@ -20,7 +20,7 @@ When serving millions of Internet pages every month webmasters must have some wa
 
 ## Sharing statistics with the community
 
-Some of the above statistical information as well as information provided in the Member profile form and user reviews submitted to the My weekly review contest may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20090617194349id_/http%3A//conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
+Some of the above statistical information as well as information provided in the Member profile form and user reviews submitted to the My weekly review contest may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20090717110518id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
 
 ## Cookies
 
