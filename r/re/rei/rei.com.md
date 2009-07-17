@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227095329id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717202908id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.*
 
 # REI Privacy Policy
 
@@ -138,7 +138,7 @@ REI is a member co-operative, but you do not have to be an REI member to shop at
 
 ## Third Party Relationships and Your Privacy
 
-REI has arranged with WeddingChannel.com ("WC") to provide REI customers with the ability to aggregate wedding or commitment ceremony registries with multiple retailers. If you participate in REI's Gift Registry program for purposes of a wedding or commitment ceremony, you may "opt-in" to WC. If you do, REI will share information about you with WC and that information will become subject to WC's privacy policy. Accordingly, you should review WC's policy before opting in (see [http://wedding.weddingchannel.com/help/privacy_policy.asp](http://wedding.weddingchannel.com/help/privacy_policy.asp) ). Also see [http://www.rei.com/help/registry/index.html#wc_guests](https://web.archive.org/web/20090227095329id_/http%3A//www.rei.com/help/registry/index.html#wc_guests) for more information.
+REI has arranged with WeddingChannel.com ("WC") to provide REI customers with the ability to aggregate wedding or commitment ceremony registries with multiple retailers. If you participate in REI's Gift Registry program for purposes of a wedding or commitment ceremony, you may "opt-in" to WC. If you do, REI will share information about you with WC and that information will become subject to WC's privacy policy. Accordingly, you should review WC's policy before opting in (see [http://wedding.weddingchannel.com/help/privacy_policy.asp](http://wedding.weddingchannel.com/help/privacy_policy.asp) ). Also see [http://www.rei.com/help/registry/index.html#wc_guests](https://web.archive.org/web/20090717202908id_/http%3A//www.rei.com/help/registry/index.html#wc_guests) for more information.
 
 REI has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") to facilitate customer reviews of products sold by REI. When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies. Accordingly, you should review them prior to submitting any product review (see [http://www.buzzillions.com/public/legal/index_en_US.html](http://www.buzzillions.com/public/legal/index_en_US.html) ). The reviews you submit may be posted on both PR's site and our site.
 
