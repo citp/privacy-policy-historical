@@ -1,32 +1,9 @@
-> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2007-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070716042934id_/http%3A//bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgpaymail.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718000706id_/http%3A//www.bgpaymail.com/pages/privacy.php) for the most accurate reproduction.*
 
-# BGPayMail - Your Affordable Email Advertising Company
+# BGPayMail.com
 
-  
-
-
-  * [**FastPay**](http://www.fastpayclick.com/?refer=202)
-  * [**Light a Candle**](http://www.gratefulness.org/candles/enter.cfm?l=eng)
-  * [**Send me walking, Please!**](http://www.the3day.org/tampabay07/simplyjen329)
-  * [**NEMOCLICKS**](http://www.nemoclicks.com/index.php?ref=halexzo)
-  * [**Findaholic-of course**](http://www.portalspot.com/portal/findaholic.php?username=dcwike)
-  * [**Test Your IP**](http://www.lagado.com/proxy-test)
-  * [**1 Cent PTC**](http://www.1centptc.info/index.php?ref=halexzo)
-  * [**Revenue Pilot**](https://secure.revenuepilot.com/jsp/home.jsp?id=28124)
-  * [**Yokoda's Poems**](http://www.cafepress.com/yokoda)
-  * [**Bux Click**](http://www.buxclick.com/index.php?ref=sorceress98)
-  * [**Ad Buddy**](http://adbuddy.net/?rb=sorceress98)
-
-
-
-Total Affiliates: **10,590**  
-Total Payouts: **48,723.47**  
-Mails in queue: **2**  
-Banners in rotation: **81**  
-
-
-* [**PLEASE DO VISIT US at Ptr-Police**](http://www.ptr-police.com/)
-Track your visitors & display your online visitors  | 
+  |  |   
+| 
 
   
 **BGPayMail Respects Your Privacy** **Information Collected**  
@@ -39,4 +16,8 @@ BGPayMail, in the future, may make chat rooms, forums, message boards, and/or ne
 BGPayMail has security measures in place to protect the loss, misuse and alteration of the information under our control. **Children's Guidelines:**  
 We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable off-line contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. **Choice/Opt-Out:**  
 BGPayMail provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. BGPayMail gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also Contact Us and request your membership to be canceled at anytime. **Correct/Update:**  
-BGPayMail gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with BGPayMail, you can Contact Us. 
+BGPayMail gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with BGPayMail, you can Contact Us.   
+  
+---  
+[Help](https://web.archive.org/pages/help.php) | [Terms](https://web.archive.org/pages/terms.php) | [Privacy | ](https://web.archive.org/pages/privacy.php)[Contact us ](https://web.archive.org/pages/contact.php)  
+2002-2009 - BGPayMail.com
