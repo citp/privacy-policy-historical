@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514024411id_/http%3A//tickets.nationalexpresseastcoast.com/nxec/en/purchase/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717021930id_/http%3A//tickets.nationalexpresseastcoast.com/nxec/en/purchase/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
