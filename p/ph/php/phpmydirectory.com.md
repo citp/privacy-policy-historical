@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2006-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061214054059id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718111556id_/http%3A//www.phpmydirectory.com/privacy.html) for the most accurate reproduction.*
 
-# phpMyDirectory.com - PHP/mySQL Business Directory Script - Privacy Policy
+# phpMyDirectory - Web Portal, Business Directory, Classifieds, Link Indexing
 
-  phpMyDirectory.com website is strongly committed to protecting the privacy of its visitors and customers. Our policy is to keep the personal information we receive from our sites completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
+**Accomplish Technology, LLC** has created this privacy statement in order to demonstrate our commitment to privacy.
 
-  By accessing or using phpMyDirectory.com web site, you agree to the terms of phpMyDirectory.com website Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. phpMyDirectory.com website reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
+#### General Statement of Principles
 
-  When you engage in certain activities on this site, such as registering test listing or purchasing the software, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide personal information, such as your first and last name, mailing address (including zip code), e-mail address, telephone numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+As described in detail below, any information gathered at this web site is strictly for our use and is not shared with any other entity, public or private, for any reason. We will not sell or distribute freely any lists or other data obtained. We also do not purchase any data from other entities.
 
-  phpMyDirectory.com website collects your information in order to record and support your participation in the activities you select. If you electronically purchase the software, for example, the information is used to register your license and rights, to provide technical support, upgrade discounts, and other benefits that may be made available to registered users. The information that you provide is also used as part of our effort to keep you informed about product upgrades, special offers, and other products and services offered by phpMyDirectory.com website.
+#### Statistical Data
 
-  The personal information that you provide in connection with purchasing our software is classified as Registration Information and is stored on the 3rd party e-commerce payment services provider SWREG.ORG. Registration Information is protected. Your Registration Information resides on a secure server that only selected phpMyDirectory.com personnel have access to via password. SWREG encrypts your personal information.
+Our servers and website track IP addresses and other statistical information to help with site maintenance and improvements. This data is viewed and analyzed to diagnose errors and to improve marketing and user site experience. This information is not used for any other purpose.
 
-  Under NO circumstances will phpMyDirectory.com website or any of its subsidiaries release your personal information to any third party without order from the court or law enforcement agency.
+#### Personal Information Collected
+
+With the exception of credit card information, we store the information submitted with your order to allow us to track consulting issues or refer to a previous order to help provide customer service.
+
+#### Information Correction or Removal
+
+If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail at support@phpmydirectory.com with the details of your request.
