@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204738id_/http%3A//www.worldsofdiscovery.com/worldsofdiscovery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4adventure.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718025709id_/http%3A//www.worldsofdiscovery.com/worldsofdiscovery/privacy.html) for the most accurate reproduction.*
 
 # Worlds of Discovery - Seaworld, Busch Gardens and More
 
