@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615164039id_/http%3A//www.motorola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mot.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718113839id_/http%3A//www.motorola.com/content.jsp%3FglobalObjectId%3D3) for the most accurate reproduction.*
 
 # Motorola Privacy Practices
 
