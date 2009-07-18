@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071826id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718060920id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for StudentUniverse.com
 
