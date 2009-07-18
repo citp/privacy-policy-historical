@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2008-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081025132648id_/http%3A//www.paylution.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylution.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718204516id_/http%3A//www.paylution.com/privacy.htm) for the most accurate reproduction.*
 
 # Paylution prepaid debit card product and service privacy policy
 
@@ -113,10 +113,10 @@ Please contact our Privacy Officer to discuss any privacy issues or concerns you
 By Mail:**  
 Privacy Officer  
 hyperWALLET Systems Inc.  
-1200-736 Granville St.  
-Vancouver, BC V6Z 1G3
+Suite 1200, 736 Granville St.  
+Vancouver, BC V6Z 1G3 
 
- **By E-mail:**  
+**By E-mail:**  
 [privacyofficer@paylution.com](mailto:privacyofficer@paylution.com)
 
 Should you not be able to accept PAYlution's conclusion of your complaint, or at any time in the complaint process, you may also write to the relevant provincial Privacy Commissioner, or if applicable, the Privacy Commissioner of Canada. We have a separate Privacy Policy For Employees, which contains certain additional provisions. 
