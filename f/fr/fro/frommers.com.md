@@ -1,8 +1,42 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504043801id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719154713id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
 
-|  |  | 
+|   
+---  
+| [About Frommer's](https://web.archive.org/about/index.html) |   
+|  |   
+|  | [Partnerships](https://web.archive.org/about/about_partner.html) |   
+|  |  | [Advertise with Us](http://frommers.biz/b2_advertising_and_sponsorships.php) |   
+|  |  | [Content Licensing & Premium Services](http://frommers.biz/) |   
+|  |  | [Affiliate Program](https://web.archive.org/about/affiliate_program.html) |   
+|  |  | [Link to Us](https://web.archive.org/about/link_to_us.html) |   
+|  |  | [Custom Guidebooks](http://frommers.biz/a2_custom_content.php) |   
+|  |   
+|  | [Jobs](https://web.archive.org/about/about_jobs.html) |   
+|  |   
+|  | [Editorial Policy](https://web.archive.org/about/about_editorial.html) |   
+|  |   
+|  | [Privacy Policy](https://web.archive.org/about/about_privacy.html) |   
+|  |   
+|  | [Booking Partner Policy](https://web.archive.org/about/about_bookingpartner.html) |   
+|  |   
+|  | [Travel Guides](https://web.archive.org/about/about_travel_guides.html) |   
+|  |  | [Frequently Asked Questions](https://web.archive.org/about/about_faq_guides.html) |   
+|  |  | [Frommer's Series](https://web.archive.org/about/about_frommer_series.html) |   
+|  |  | [Other Series](https://web.archive.org/about/about_other_series.html) |   
+|  |   
+|  | [Frommer's Complete Catalog](http://viewer.zmags.com/publication/57ce90a9) |   
+|  |   
+|  | [Press Center](https://web.archive.org/about/about_press_center.html) |   
+|  |   
+|  | [Legal & Copyright Notices](https://web.archive.org/about/copyright.html) |   
+|  |   
+|  | [Terms of Service](https://web.archive.org/about/terms_of_service.html) |   
+|  |   
+|  | [Disclaimer](https://web.archive.org/about/about_disclaimer.html) |   
+|  |   
+|  | 
 
 ## Privacy Policy
 
@@ -24,4 +58,6 @@ You should be aware that identifiable personal information--such as your name or
 
 Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this website will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](http://www.wiley.com/WileyCDA/Section/id-301456.html) page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either select the [Contact Us](http://www.wiley.com/WileyCDA/Section/id-301456.html) page as set forth above, or make in a written request to John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030-5774. If you wish to modify your shopping account, you can do it directly in the [My Account](http://www.wiley.com/marketbasket.cgi?viewaccount) section. 
 
-|  | 
+| 
+
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;861575051368968000?)
