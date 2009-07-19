@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2009-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090124114312id_/http%3A//www.rockettheme.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettheme.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720015636id_/http%3A//www.rockettheme.com/legal/privacy.php) for the most accurate reproduction.*
 
-# RocketTheme - Terms of Service
+# RocketTheme - Privacy Statement
 
 [](javascript:window.print\(\);)
 
@@ -95,11 +95,13 @@ When you click on a link on this Web Site that takes you to a web site operated 
 
 ## Dispute Resolution
 
-Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement.  For complaints that cannot be resolved, please use the BBBOnLine Privacy Program’s dispute resolution process as described below.
+Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement.  For complaints that cannot be resolved, please use the BBB Accredited Business Program’s dispute resolution process as described below.
 
-## BBBOnLine Privacy Program
+## BBB Accredited Business
 
-Your privacy is important to us.  By participating in the Council of Better Business Bureau’s BBBOnLine Privacy Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at www.bbbonline.org.
+[](http://www.bbb.org/denver/business-reviews/60980-00/rockettheme-llc-90102844)
+
+Your privacy is important to us.  By being an accredited member of the Better Business Bureau’s Accreditation Program we have made a commitment to meet the program’s strict requirements regarding how we treat your information and have it verified by BBBOnLine.  Further information about this program is available at www.bbbonline.org.
 
 All BBBOnLine Privacy Program participants are required to work with the program's dispute resolution process.  The Privacy Program will only accept complaints regarding the misuse of personally identifiable information by a website operator.  For more information about the Privacy Program dispute resolution process visit www.bbbonline.org/privacy/dr.asp.
 
