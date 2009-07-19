@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216004333id_/http%3A//www.todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719101203id_/http%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
 
 # Todoist Privacy Policy
 
