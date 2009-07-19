@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222028id_/http%3A//www.anime-sub.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719174605id_/http%3A//www.anime-sub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Anime Subs Online
 
@@ -27,10 +27,6 @@ Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: admin@anime-sub.com.
 
-**
-* [Report Dead Link](http://forum.anime-sub.com/index.php?board=5.0 "Report")
-**
-
-Posted in [_ZZUncategorized](http://www.anime-sub.com/category/uncategorized "View all posts in _ZZUncategorized") | 1 Comment
-
 **Every your review comment will help our site and others very much.Thanks for your time :))**
+
+### Leave a Comment Below 
