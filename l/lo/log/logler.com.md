@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618111610id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2009-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090721004034id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Downloads at Logler.com
 
