@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604130005id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountofficeitems.com privacy policy that was archived on 2009-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090721041326id_/http%3A//www.discountofficeitems.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Office Items - Privacy Policy
 
@@ -36,7 +36,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20090604130005id_/http%3A//www.discountofficeitems.com/contact_us.php) via our contact page.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20090721041326id_/http%3A//www.discountofficeitems.com/contact_us.php) via our contact page.
 
 ## Secure Shopping
 
@@ -44,7 +44,7 @@ We want you to be safe and secure when ordering online. Therefore strong precaut
 
 We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site. Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software. SSL encrypts all of your personal information, including your credit card number, your name, and your address, so that the information cannot be read as it travels over the Internet. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
-If at any point you do not feel comfortable ordering on the web or simply need more product information please call one of our helpful customer service representatives or simply [send us an email](https://web.archive.org/web/20090604130005id_/http%3A//www.discountofficeitems.com/contact_us.php).
+If at any point you do not feel comfortable ordering on the web or simply need more product information please call one of our helpful customer service representatives or simply [send us an email](https://web.archive.org/web/20090721041326id_/http%3A//www.discountofficeitems.com/contact_us.php).
 
 ## Email Privacy
 
