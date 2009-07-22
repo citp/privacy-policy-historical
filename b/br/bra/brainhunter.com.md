@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainhunter.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503162607id_/http%3A//www.brainhunter.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainhunter.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722123630id_/http%3A//www.brainhunter.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Brainhunter :: Privacy
 
