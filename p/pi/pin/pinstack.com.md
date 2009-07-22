@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060800id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722024757id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
 
 # PinStack.com
 
