@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621080608id_/http%3A//www.nsfwftw.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722153315id_/http%3A//www.nsfwftw.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NSFWFTW.COM - Not Safe for Work Teen Webcam Adult Porn Videos
 
