@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theonlineticketshop.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605054330id_/http%3A//www.theonlineticketshop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlineticketshop.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724014112id_/http%3A//www.theonlineticketshop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # The Online Ticket Shop: Privacy Policy.
 
-**Welcome to the Privacy Policy for TheOnlineTicketShop.com ("Privacy Policy").** The services available at [http://www.TheOnlineTicketshop.com](http://www.theonlineticketshop.com/)?are provided by **TheOnlineTicketExchange.COM LIMITED** ("TheOnlineTicketExchange", "we", "us" or "our"), company number 6492553 whose registered office is at 85-87 Borough High Street, London, SE1 1NH United Kingdom. 
+**Welcome to the Privacy Policy for TheOnlineTicketShop.com ("Privacy Policy").** The services available at [http://www.TheOnlineTicketshop.com](http://www.theonlineticketshop.com/)?are provided by **TheOnlineTicketExchange.COM LIMITED** ("TheOnlineTicketExchange", "we", "us" or "our"), company number 6492553 
 
 Your privacy is very important to us. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have additional questions about TheOnlineTIcketShop.com's general privacy principles, please either read the pages at our Privacy Central section available or contact [ inforeq@theonlineticketshop.com](mailto:inforeq@theonlineticketshop.com). 
 
