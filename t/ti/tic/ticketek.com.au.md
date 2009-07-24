@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketek.com.au privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217180025id_/http%3A//premier.ticketek.com.au/Content/buyers/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketek.com.au privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724033547id_/http%3A//premier.ticketek.com.au/Content/buyers/privacy.aspx) for the most accurate reproduction.*
 
 # Ticketek Australia
 
