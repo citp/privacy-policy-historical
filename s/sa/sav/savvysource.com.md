@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savvysource.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235328id_/http%3A//www.savvysource.com/savvy/jsp/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvysource.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724083423id_/http%3A//www.savvysource.com/savvy/jsp/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy: The Savvy Source for parents
 
