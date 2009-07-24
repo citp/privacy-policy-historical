@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417115801id_/http%3A//www.midcocomm.com/resourcecenter/index.cfm/83/Customer-Service/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724093532id_/http%3A//www.midcocomm.com/resourcecenter/index.cfm/83/Customer-Service/Privacy-Statement) for the most accurate reproduction.*
 
 # Resource Center
 
