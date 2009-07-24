@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608014347id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724032844id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
 
-# Boiler Guide
+# Privacy | Boiler Guide
 
 This site is independently operated by Holmes Media (UK) Limited, a UK company registered under the Data Protection Act 1998 No. Z1315922. Our contact details are as follows, however, should you have any reason to get in touch about this site or service please use our [contact form](http://www.boilerguide.co.uk/contact/)
 
