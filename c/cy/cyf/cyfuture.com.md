@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429112234id_/http%3A//www.cyfuture.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724032017id_/http%3A//www.cyfuture.com/privacy.htm) for the most accurate reproduction.*
 
 # Cyber Futuristics India Pvt. Ltd.
 
@@ -10,7 +10,7 @@
   
 [](http://www.go4customer.com/)
 
-[](https://web.archive.org/web/20090429112234id_/http%3A//www.cyfuture.com/support.htm) **PRIVACY POLICY**
+[](https://web.archive.org/web/20090724032017id_/http%3A//www.cyfuture.com/support.htm) **PRIVACY POLICY**
 
   
 
@@ -86,6 +86,6 @@ We release account and other personal information when we believe release is app
 
 This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes
 
-[](https://web.archive.org/web/20090429112234id_/http%3A//www.cyfuture.com/support.htm)
+[](https://web.archive.org/web/20090724032017id_/http%3A//www.cyfuture.com/support.htm)
 
 | 
