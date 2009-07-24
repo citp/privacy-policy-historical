@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guifx.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624152429id_/http%3A//www.guifx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guifx.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724084351id_/http%3A//www.guifx.com/privacy-policy) for the most accurate reproduction.*
 
 # Guifx:
 
