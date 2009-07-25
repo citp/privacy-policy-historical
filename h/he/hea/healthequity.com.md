@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430083448id_/http%3A//wpublic.healthequity.com/About-HealthEquity/Privacy-Policy/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726010538id_/http%3A//www.healthequity.com/About-HealthEquity/Privacy-Policy/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
