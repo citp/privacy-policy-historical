@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleindex.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620111740id_/http%3A//www.articleindex.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleindex.net privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725113049id_/http%3A//www.articleindex.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - free articles directory - your global articles directory index
 
