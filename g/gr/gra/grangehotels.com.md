@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114404id_/http%3A//grangehotels.com/Web-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725120121id_/http%3A//www.grangehotels.com/Web-Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# Privacy policy of Grange Hotels website, a collection of private luxury hotels in central London.
 
   * You authorise us to use, store or otherwise process any personal information, including but not limited to your name and address, which personally identifies you ("Personal Information") to enable us, our affiliates, our partners, successors (including the purchaser of the whole or part of our business), associates, sub-contractors or other third parties (together our "Partner Companies") to provide services and products which are available through the Website. 
 
