@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153255id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725131016id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
 
 # Test Questions and Answers - Privacy Policy
 
