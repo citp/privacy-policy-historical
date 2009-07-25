@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbestedu.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322183922id_/http%3A//www.urbestedu.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbestedu.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725055844id_/http%3A//www.urbestedu.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
