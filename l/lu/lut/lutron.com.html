@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lutron.com privacy policy that was archived on 2009-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427050302id_/http%3A//www.lutron.com/lutron/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lutron.com privacy policy that was archived on 2009-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090726160304id_/http%3A//lutron.com/lutron/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Lutron Electronics, Inc.</title> 
@@ -13,66 +13,56 @@
 			<tbody><tr>
 				<td width="755">
 <script language="JavaScript" src="/common/js/js_utilities.js"></script>
+<script type="text/javascript" src="/js/Jquery.js"></script>
 <script language="javascript">
-			if (document.images)	{	Preload_image_10 = new Image();	Preload_image_10.src = "/common/images/right_shadow.gif"; Preload_image_11 = new Image();	Preload_image_11.src = "/common/images/bottom_shadow.gif";}
-		function Link(form)
-		{
-			var sample=form.lstContinent.selectedIndex
-			document.location.href=(form.lstContinent.options[sample].value);	
-		}
-</script>
-<script language="javascript">
-	<!--
-	function valForm20()
+<!--
+	$(document).ready(function()
 	{
-		if(form2.QueryText.value=='') 
-		{
-			alert('You must enter search criteria.\nPlease try again.');
-			form2.QueryText.focus();
-			return false;
-		} 
-		else
-		{
-		    window.location='http://www.lutron.com/lutronsitesearch/';
-		}     
-		return true;
+
+    $(".defaultText").focus(function(srcc)
+    {
+        if ($(this).val() == $(this)[0].title)
+        {
+            $(this).removeClass("defaultTextActive");
+            $(this).val("");
+        }
+    });
+    
+    $(".defaultText").blur(function()
+    {
+        if ($(this).val() == "")
+        {
+            $(this).addClass("defaultTextActive");
+            $(this).val($(this)[0].title);
+        }
+    });
+    
+    $(".defaultText").blur();        
+});
+function valForm20(f) {
+		  if (f.Q.value == 'New improved search') {
+            alert('Please enter search term.');
+            f.Q.focus();
+            return false;
+        }
+        else {
+            window.location = '/Lutron_Search/Result.aspx?q=' + f.Q.value;
+        }
+        return true;
+if (document.images)	{	
+	Preload_image_10 = new Image();	
+	Preload_image_10.src = "/common/images/right_shadow.gif"; 
+	Preload_image_11 = new Image();	
+	Preload_image_11.src = "/common/images/bottom_shadow.gif";
+	}
 		
-	} 
-	function valForm1()
-	{
-		if(form1.query.value=='Site Search')
-		{
-			alert('You cannot search for [Site Search].\nPlease try again.');
-			form1.query.focus();
-			return false;
-		}
-		if(form1.query.value=='')
-		{
-			alert('You must enter search criteria.\nPlease try again.');
-			form1.query.focus();
-			return false;
-		}
-		return true;
-	}
-	
-	function valForm()
-	{
-		if(form.query.value=='Part-number Search')
-		{
-			alert('You cannot search for [Part-number Search].\nPlease try again.');
-			form.query.focus();
-			return false;
-		}
-		if(form.query.value=='')
-		{
-			alert('You must enter search criteria.\nPlease try again.');
-			form.query.focus();
-			return false;
-		}
-		return true;
-	}
-	//-->
-			</script>
+    }
+//-->
+</script>
+<style media="screen" type="text/css">
+    .defaultText { width: 150px; }
+    .defaultTextActive { color: #a1a1a1; }
+</style>
 <!--Begin outer table-->
 <table width="755" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -87,7 +77,8 @@
 								</tr>
 								<tr>
 									<td><img height="1" src="http://www.lutron.com/Lutron.Common.UI/common/images/pixspc.gif" width="7">&nbsp;<img src="http://www.lutron.com/Lutron.Common.UI/common/images/flags/northamerican_flags/unitedstates.gif">
-										<select id="lstContinent" name="lstContinent" onchange="Link(this.form)">
+										<select id="lstContinent" name="lstContinent" onchange="var sample=form.lstContinent.selectedIndex
+	;document.location.href=(form.lstContinent.options[sample].value);	">
 											<option value="/europe">Europe</option>
 											<option value="/default.asp" selected="">United States</option>
 											<option value="/asia">Asia</option>
@@ -99,20 +90,6 @@
 							
 					</form></td>
 					<td width="145">&nbsp;</td>
-					<!--<td width="110" valign="top"><br>
-						<table border="0" cellSpacing="0" cellPadding="0">
-							<tr>
-								<td align="left" valign="top">
-									<IMG height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
-										&nbsp;Site Search</a><br>
-									<IMG height="8" src="/common/images/pixspc.gif" width="1" border="0"> <a href="/technical_info/" class="headerlink">
-										&nbsp;Part-number Search</a>
-								</td>
-							</tr>
-						</table>
-						</form>
-					</td>
-					<td width="20">&nbsp;</td>-->
 					<td width="110" valign="top"><br>
 						<table border="0" cellspacing="0" cellpadding="0" align="left">
 							<tbody><tr>
@@ -156,23 +133,11 @@
 							</tr>
 						</tbody></table>
 					</td>
-					<td width="280" valign="top"><br><form action="http://www.lutron.com/lutronsitesearch/" method="get" target="_self" id="Form2" name="form2" onsubmit="return valForm20();">
-						<table border="0" cellspacing="0" cellpadding="0" id="Table2">
-							<tbody><tr>
-								<td align="top" valign="bottom" nowrap="">
-									
-										<!--<div id="searchPosition"><div id="lutronInput">--><input type="hidden" name="IW_DATABASE" value="lutron web pages" id="Hidden2"> <input type="text" id="QueryText" name="IW_FIELD_WEB_STYLE" value="" size="17"><!--</div>--><!--</div>-->
-										<!--<div id="searchButtonPosition">--><!--<input type="submit" name="submit2" value="Search" ID="Submit2">-->
-										
-									
-									
-															
-														
-								</td>
-								<td>&nbsp;&nbsp;<input type="image" src="/common/images/searchbutton.gif" name="submit2" value="Search" id="Submit2"><!--</div>--></td>
-							</tr>
-						</tbody></table></form>
-						<!--</form>-->
+					<td width="280" valign="top"><br>
+					<form id="form2" onsubmit="return valForm20(this);" name="form2" target="_self" method="get" action="/Lutron_Search/result.aspx">
+					<input class="defaultText" title="New improved search" type="text" id="Q" name="Q">
+					<input type="image" id="btnSearch" src="/Lutron_Search/images/btn_go.png" alt="Go" name="btnSearch">
+					</form>
 					</td>
 					<td width="20">&nbsp;</td>
 				</tr>
@@ -275,12 +240,13 @@
 		var strCopyright = "&copy;" + theYear + " Lutron Electronics Co., Inc.";
 		//-->
 		</script>
+		
 		<table width="755" border="0" cellspacing="0" cellpadding="0" bgcolor="#4c5054" height="17">
 			<tbody><tr>
 				<td width="10" bgcolor="#4c5054"><img src="/common/images/pixspc.gif" width="8" height="8"></td>
 				<td align="left" bgcolor="#4c5054"><a href="/lutron/internationalsites.asp" class="footerlink">Lutron WorldWide</a></td>	
 				<td width="5" bgcolor="#4c5054"><img src="http://www.lutron.com/common/images/pixspc.gif" width="8" height="8"></td>
-				<td align="left" bgcolor="#4c5054"><a href="/tracking.asp?navURL=sef001" class="footerlinkGreen">Save Energy</a></td>
+				<td align="left" bgcolor="#4c5054"><div style="float: left; display: block;"><a href="/tracking.asp?navURL=sef001" class="footerlinkGreen">Save Energy</a></div><a href="/tracking.asp?navURL=sef001" class="footerlinkGreen"><img style="display: block; vertical-align: middle;" src="/common/images/leaf.gif" border="0"></a></td>
 				<td width="5" bgcolor="#4c5054"><img src="/common/images/pixspc.gif" width="8" height="8"></td>
 				<td align="left" bgcolor="#4c5054"><a href="https://dims.lutron.com/dims/AuthFiles/login.asp" class="footerlink">&nbsp;DIMS Login</a> <font color="#cccccc">|</font> <a href="/lutronemaps" class="footerlink" target="_blank">eMAPS Login</a></td>				
 				<td align="left" class="footer" bgcolor="#4c5054">
@@ -295,7 +261,20 @@
 				<td align="right" bgcolor="#4c5054"><a href="/lutron/glossary.asp" class="footerlink">Glossary</a></td>		
 				<td width="10" bgcolor="#4c5054"><img src="/common/images/pixspc.gif" width="8" height="8"></td>		
 			</tr>
-		</tbody></table></td>
+		</tbody></table>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("UA-8476134-1");
+				pageTracker._setDomainName("none");
+				pageTracker._setAllowLinker(true);
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script></td>
 				<td background="/common/images/right_shadow.gif">&nbsp;</td>
 			</tr>
 			<tr>
