@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428135924id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726135927id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WorkSessions - Privacy Policy
 
@@ -10,12 +10,12 @@
   
 Apply now to download new and exclusive songs.   
   
-## [**Record Labels**](http://www.worksessions.com/record_labels/)
+## [**Record Labels**](http://www.worksessions.com/record_labels.cgi)
 
   
 Upload songs and instantly achieve worldwide airplay.   
   
-## [**Charts**](http://www.worksessions.com/charts.html)
+## [**Charts**](http://www.worksessions.com/songs/)
 
   
 View the top ten promoted songs updated in realtime.   
