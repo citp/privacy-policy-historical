@@ -1,18 +1,25 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318115005id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726123152id_/http%3A//www.simtel.net/privacy.php) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
+| [](https://web.archive.org/) |  |  [ ](https://web.archive.org/software/Security-System-Network-Internet/Privacy-Eraser-Pro/65909.html) |  [**Privacy Eraser Pro**](https://web.archive.org/software/Security-System-Network-Internet/Privacy-Eraser-Pro/65909.html)  
+Privacy Eraser Pro is an Internet Eraser that protects your Internet privacy by cleaning up all the tracks of Internet and computer activities. Privacy Eraser Pro supports popular web browsers such as Internet Explorer, Mozilla Firefox, AOL, Netscape, Opera and MSN Explorer. Privacy Eraser Pro supports free plug-ins to extend cleaning features, you can easily erase the tracks left by any applications and make your own plug-ins. We currently offer more than 250 FREE plug-ins which supports the most popular programs such as ACDSee, Acrobat, Microsoft Office, KaZaA, Real Player, Media Player and many others. Privacy Eraser Pro supports Microsoft Windows FAT/FAT32/NTFS file systems, completely implements and exceeds the US Department of Defense DOD 5220.22-M and NSA clearing and sanitizing standard, to gives you confidence that once erased with Privacy Eraser Pro your file data is gone forever and can not be recovered.  
+---|---  
+**$39.95** [](https://web.archive.org/buy/Security-System-Network-Internet/Privacy-Eraser-Pro/65909.html)[](https://web.archive.org/trial/Security-System-Network-Internet/Privacy-Eraser-Pro/65909.html)  
+  
+  
+  
 Hot Spots
 
 HOT DOWNLOADS
 
 ADVERTISEMENT
 
-[](http://www.supportspace.com/support/marketing.s2?page=simtel.htm&aiu=dr&pc=simtel)
+[](http://deals.simtel.net/cd56745)
 
 | 
 
-[home](https://web.archive.org/ "Simtel: Free Download of Computer Software, Games, Tools and Utilities - Freeware, Shareware, Demos and Trial Versions") › Free downloads of the best computer software freeware and shareware 
+[home](https://web.archive.org/ "Simtel: Free Download of Computer Software, Games, Tools and Utilities - Freeware, Shareware, Demos and Trial Versions") > Free downloads of the best computer software freeware and shareware 
 
 Digital River, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. Simtel.Net holds the privacy of each individual as a high priority. The following discloses our information gathering and dissemination practices for this Web site: http://www.simtel.net 
 
@@ -38,6 +45,4 @@ Simtel.Net
 Digital River Inc.  
 9625 West 76th Street, Suite 150  
 Eden Prairie, MN 55344 **Simtel** is a registered trademark of [Digital River, Inc.](http://www.digitalriver.com/)   
-**Simtel.Net** is a service mark of [Digital River, Inc.](http://www.digitalriver.com/)   
-[](http://leader.linkexchange.com/X1690765/clicklogo)  
-
+**Simtel.Net** is a service mark of [Digital River, Inc.](http://www.digitalriver.com/)
