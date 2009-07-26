@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richdadeducationseminars.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327144545id_/http%3A//richdadeducationseminars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadeducationseminars.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726034759id_/http%3A//www.richdadeducationseminars.com/index.cfm/ac/privacy) for the most accurate reproduction.*
 
-# Rich Dad's Education: Atlanta, GA
+# Rich Dad's Education
 
 PRIVACY STATEMENT
 
@@ -15,4 +15,8 @@ This Privacy Notice is meant to inform you how Rich Dad Education safeguards you
 Security Notice   
 Rich Dad Education is committed to safeguarding the private information of our students and customers. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-[](https://web.archive.org/register.html)
+[](https://web.archive.org/index.cfm/ac/register)
+
+Robert Kiyosaki will not attend this event.
+
+*Results from programs are based on individual effort and other factors. *Students sharing their stories have taken some or all of the following advanced trainings: Rich U, Asset Protection, Wholesale Buying and Creative Financing. Our curriculum is avocational in nature and is intended for the purpose of the accumulation of wealth by, and the personal enrichment, development, and enjoyment of, our students. Additional products and services will be offered for sale. The Rich Dad® and Learn to be Rich™ word mark and logos are owned by CASHFLOW Technologies, Inc. and any use of such marks by Rich Dad Education, LLC is under license. 
