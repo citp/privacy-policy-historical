@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616210739id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726074031id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Sonicbids Connects Bands & Music Promoters- Book Gigs and Bands at Sonicbids
+# Get a Gig. Book a Band. - Sonicbids
 
 Sonicbids Corporation ("Sonicbids") has created this web site to provide an online platform for artists, promoters and other music professionals. 
 
