@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430002540id_/http%3A//www.yanmar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726034650id_/http%3A//www.yanmar.com/privacy.asp) for the most accurate reproduction.*
 
 # Yanmar America Corporation - Privacy Policy
 
@@ -60,5 +60,5 @@ Please contact us at Inquiries if you believe that this site is in breach of its
  
 
 [YANMAR HOMEPAGE](https://web.archive.org/)  
-[About Yanmar](https://web.archive.org/about/) | [Customer Service](https://web.archive.org/customer/) | [Dealer Locator](https://web.archive.org/locator/) | [Portal Section](https://web.archive.org/portal/) | [Latest News](https://web.archive.org/news/) | [Contact Yanmar](https://web.archive.org/contact/)  
+[About Yanmar](https://web.archive.org/about/) | [Customer Service](https://web.archive.org/customer/) | [Dealer Locator](https://web.archive.org/locator/) | [Portal Section](http://yanmar.amssupport.net/) | [Latest News](https://web.archive.org/news/) | [Contact Yanmar](https://web.archive.org/contact/)  
 [Industrial](https://web.archive.org/industrial/) | [Construction](https://web.archive.org/construction/) | [Parts](https://web.archive.org/parts/) | [Service & Warranty](https://web.archive.org/warranty/) | [Tractor](https://web.archive.org/tractor/) | [Marine](http://www.yanmarmarine.com/) | [Sitemap](https://web.archive.org/sitemap/)
