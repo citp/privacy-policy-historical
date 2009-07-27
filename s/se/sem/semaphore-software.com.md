@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the semaphore-software.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507182753id_/http%3A//www.semaphore-software.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semaphore-software.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727053054id_/http%3A//www.semaphore-software.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Software Development Outsourcing, Offshore Software Development, software development services, web site design
+
+[Home](https://web.archive.org/web/20090727053054id_/http%3A//www.semaphore-software.com/index.htm "Home") Privacy Policy
 
 Semaphore respects the privacy of the visitors to its web site www.semaphore-software.com. In certain areas of the site such as contact form, RFP, feedback etc. We have asked you to provide your personal information to give you a response or provide more details about us. You may choose to give the personal information, like your name, address, e-mail id and other information as required. However if you choose not to be contacted at a future date and do not want us to use the information provided, we will respect your decision and will not contact you. 
 
