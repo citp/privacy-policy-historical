@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401222422id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727194832id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
 
 # E46 Fanatics: 3-Series, BMW Forums, BMW Modifications, E46 BMW
 
