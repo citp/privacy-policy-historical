@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the buzz7.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421085350id_/http%3A//buzz7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz7.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727210106id_/http%3A//buzz7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buzz 7
 
   * Tuesday, March 17, 2009, 22:54
-  * 129 views
+  * 556 views
 
 
 
