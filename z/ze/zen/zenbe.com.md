@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228104933id_/http%3A//www.zenbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727081717id_/http%3A//www.zenbe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenbe
 
@@ -10,7 +10,7 @@
 
 We at Zenbe have clear objectives regarding privacy and have created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs the Site [www.zenbe.com](https://web.archive.org/).
 
-There is little data on the internet that is more private or sensitive than your email. Your Zenbe data, whether created or received by you, is yours and yours alone, and will only be collected, used, and shared as outlined in this Privacy Policy.
+There is little data on the internet that is more private or sensitive than your email. Your Zenbe data, whether created or received by you, is yours and yours alone, and will only becollected, used, and shared as outlined in this Privacy Policy.
 
 We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address.
 
@@ -18,93 +18,65 @@ Zenbe is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, org
 
 If you have questions or concerns regarding this statement, you should first contact Zenbe at [privacy@zenbe.com](mailto:privacy@zenbe.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
- 
-
 ### Information we collect and how we use it:
 
-**Cookies** \- Cookies are small files sent to your computer. A cookie does not collect personal information about you. If you select the "remember me" option when you login, Zenbe uses a persistent cookie to remember your computer and help you login faster from that computer.  If you change your mind, you can remove persistent cookies by following your web browsers directions. Zenbe also uses session cookies to manage your connection while you are logged in, which are temporary and will be eliminated after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of Zenbe may not function properly if the ability to accept cookies is disabled. None of the information within these cookies is tied to your personal information.
+**Cookies** \- Cookies are small files sent to your computer. A cookie does not collect personal information about you. If you select the "remember me" option when you login, Zenbe uses a persistent cookie to remember your computer and help you login faster from that computer. If you change your mind, you can remove persistent cookies by following your web browsers directions. Zenbe also uses session cookies to manage your connection while you are logged in, which are temporary and will be eliminated after you close your browser.You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of Zenbe may not function properly if the ability to accept cookies is disabled. None of the information within these cookies is tied to your personal information.
 
 We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. These third parties may use cookies to help track visitor behavior. These cookies will not be used to associate individual website visitors to any Personal Information.
 
-**Linked accounts**  \- Zenbe is intended to make it easier for you to manage your multiple email account and agendas/ calendars information.  When you provide Zenbe with user name and password information to these other accounts, Zenbe will keep that information in an industry standard secure format. Zenbe will use the login information you provide to import your data from those accounts. If you use a function labeled "Subscribe" to subscribe to our blog RSS feed, then Zenbe will automatically update that information, until you unsubscribe or change your user name and password on that account. If you use a function labeled "Import" to add contacts to your Zenbe account from your other email accounts, Zenbe will only collect the information once to import your email messages from the Sites you select as well as import your address books at your request.  Importing the address book consists of our collecting thir d party personal information from you such as your contacts names, and email addresses from the Site we import your contacts from. When you manually add a contact to your address book on Zenbe, we also provide you the capacity to enter your contacts birthday on top of their name, email address and physical address. None of this information is required by Zenbe and you provide it at your own discretion to be saved on your Zenbe account. None of this information is used for any promotional purposes by Zenbe nor is it shared with any third parties for their promotional purposes or otherwise. We use the third party personal information you submit on our Site to service your account at your request such as in processing a request sent from your account to send out an email to a contact through your Zenbe account or to manage your contacts and email information in one central location.
+**Linked accounts** \- Zenbe is intended to make it easier for you to manage your multiple email account and agendas/ calendars information. When youprovide Zenbe with user name and password information to these other accounts, Zenbe will keep that information in an industry standard secure format. Zenbe will use the login information you provide to import your data from those accounts. If you use a function labeled "Subscribe" to subscribe to our blog RSS feed, then Zenbe will automatically update that information, until you unsubscribe or change your user name and password on that account. If you use a function labeled "Import" to add contacts to your Zenbe account from your other email accounts, Zenbe will only collect the information once to import your email messages from the Sites you select as well as import your address books at your request. Importing the address book consists of our collecting thir d party personal information from you such as your contacts names, and email addresses from the Site we import your contacts from. When you manually add a contact to your address book on Zenbe, we also provide you the capacity to enter your contacts birthday on top of their name, email address and physical address. None of this information is required by Zenbe and you provide it at your own discretion to be saved on your Zenbe account. None of this information is used for any promotional purposes by Zenbe nor is it shared with any third parties for their promotional purposes or otherwise. We use the third party personal information you submit on our Site to service your account at your request such as in processing a request sent from your account to send out an email to a contact through your Zenbe account or to manage your contacts and email information in one central location.
 
-**Registration**  – When you select to register an account on our Site, we request you provide information, such as your name, email address, user name, password, and zip code to register your account. Zenbe uses this information to provide services to you, and it is not shared with any third parties for their promotional purposes.
+**Registration** – When you select to register an account on our Site, we request you provide information, such as your name, email address, user name, password, and zip code to register your account. Zenbe uses this information to provide services to you, and it is not shared with any third parties for their promotional purposes.
 
-**From your web browser**  – When you use Zenbe, we record and maintain a log of requests sent by your browser to our web servers. This information includes information such as the URL that was used to view our website, your PC’s Internet Protocol address, and the time of the request.   We may use different types of technologies to collect this information, such as log files and GIFs.  This aggregate, non-Personal Information we collect is used to improve the quality of our services --  for example, by diagnosing service or technology problems, or assessing and maintaining security.  We may also conduct research on information we collect to determine user demographics, interests, and behavior. None of this collected information contains personal information.
+**From your web browser** – When you use Zenbe, we record and maintain a log of requests sent by your browser to our web servers. This information includes information such as the URL that was used to view our website, your PC’s Internet Protocol address, and the time of the request. We may use different types of technologies to collect this information, such as log files and GIFs.This aggregate, non-Personal Information we collect is used to improve the quality of our services --for example, by diagnosing service or technology problems, or assessing and maintaining security.We may also conduct research on information we collect to determine user demographics, interests, and behavior. None of this collected information contains personal information.
 
 ### Information Sharing
 
 Zenbe will not rent or sell your information to third parties for their promotional purposes. Zenbe may share your Personal Information with entities outside of Zenbe in the following limited circumstances:
 
- 
-
 If we have your consent. We would require opt-in consent for the sharing of any sensitive personal information. As we have no current or planned needs for this Zenbe does not have any opt-in consent at this time and no information is being shared as a result.
 
 To our subsidiaries, affiliated companies or other trusted businesses or persons acting as a service provider on behalf of Zenbe.
 
-If we have a good faith belief that  disclosure of  the information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request such as in complying with a formal request in a civil action, court order, subpoena or judicial proceeding, (b) enforce our Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Zenbe, its users or the public as required or permitted by law.
+If we have a good faith belief that disclosure of the information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request such as in complying with a formal request in a civil action, court order, subpoena or judicial proceeding, (b) enforce our Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Zenbe, its users or the public as required or permitted by law.
 
 In the event of the sale, acquisition or merger of some or all of Zenbe’s assets, your personal information would likely be a part of the transferred assets. In the event of such an occurrence, we shall notify you via email what your available options are with regards to how your information is to be used henceforth.
 
- 
+We may share aggregate, anonymous, non-personal information with interested third parties in order to help them understand usage of the Zenbe service. We may also provide your non-Personal Information to contractors so that they can perform services for us such as assisting us in improving our Site. Such information does not identify you individually, nor could it ever be used singly or in aggregate to identify you.
 
-We may share aggregate, anonymous, non-personal information with interested third parties in order to help them understand usage of the Zenbe service.  We may also provide your non-Personal Information to contractors so that they can perform services for us such as assisting us in improving our Site. Such information does not identify you individually, nor could it ever be used singly or in aggregate to identify you.
-
- 
-
-Zenbe provides links to third-party websites.  Our Privacy Policy does not apply to, and we cannot control the activities of, third-party websites.  You should consult the privacy policy of any other website you visit from links on the Zenbe service.
+Zenbe provides links to third-party websites. Our Privacy Policy does not apply to, and we cannot control the activities of, third-party websites. You should consult the privacy policy of any other website you visit from links on the Zenbe service.
 
 ### How We Protect Your Information
 
- 
-
 Zenbe has security measures in place to help protect against the loss, misuse, and alteration of the personal information and Data under our control. This Site uses industry standard measures to protect the security of your information. This is not a guarantee that your information may not be accessed or disclosed by a breach of our systems as no form of security is ever 100% secure. We take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
- 
 
 ### Your Choices About Your Information
 
- 
-
-You may choose not to submit Personal Information through Zenbe, in which case Zenbe may not be able to provide certain services to you. You may update or correct your account information and preferences at any time by logging in to your account. You can review and correct the information about you that Zenbe keeps on file by contacting us directly at  [privacy@zenbe.com](mailto:privacy@zenbe.com) .
-
- 
+You may choose not to submit Personal Information through Zenbe, in which case Zenbe may not be able to provide certain services to you. You may update or correct your account information and preferences at any time by logging in to your account.You can review and correct the information about you that Zenbe keeps on file by contacting us directly at [privacy@zenbe.com](mailto:privacy@zenbe.com) .
 
 ### Children's Privacy
 
 Zenbe does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Zenbe. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@zenbe.com](mailto:privacy@zenbe.com) .
 
- 
-
 ### Changes to Our Privacy Policy
 
- 
-
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  You are bound by changes to the Privacy Policy when you use the site after those changes have been posted.  In the event of a material change to our Site or information practices, we shall notify you via email and a prominent notice on our Site.
-
- 
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site after those changes have been posted. In the event of a material change to our Site or information practices, we shall notify you via email and a prominent notice on our Site.
 
 ### Opt-Out Policy
 
 Zenbe reserves the right to send customers certain communications related to servicing your account on our Site, such as service announcements and administrative messages that are considered part of your account, without offering you the opportunity to opt-out of receiving them as they’re not promotional in nature.
 
-You can opt-out of news and announcements when you sign up for Zenbe, or using the unsubscribe link at the bottom of any email we send you. If  you change your mind about receiving promotional information from us after registering to receive it, please send us a request specifying your new choice at [privacy@Zenbe.com](mailto:privacy@Zenbe.com) and we shall honor your request or by selecting the “Unsubscribe” link in each email we send.
-
- 
+You can opt-out of news and announcements when you sign up for Zenbe, or using the unsubscribe link at the bottom of any email we send you. If you change your mind about receiving promotional information from us after registering to receive it, please send us a request specifying your new choice at [privacy@zenbe.com](mailto:privacy@zenbe.com) and we shall honor your request or by selecting the "Unsubscribe" link in each email we send.
 
 ### Data Storage
 
-Zenbe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Zenbe. Zenbe owns the code, databases, and all rights to the Zenbe application and all information on Zenbe.com is governed by this Privacy Statement.  You retain all rights to your data. These third parties are not allowed to use your personal information for any promotional purposes.
-
- 
+Zenbe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Zenbe. Zenbe owns the code, databases, and all rights to the Zenbe application and all information on Zenbe.com is governed by this Privacy Statement. You retain all rights to your data. These third parties are not allowed to use your personal information for any promotional purposes.
 
 ### Blog Disclosure
 
 If you use a bulletin board, Forum or blog, on this website, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Information that you choose to submit in these forums.
 
 We use a third party agent to host the blog on our Site. 
-
- 
 
 ### Testimonials
 
@@ -118,11 +90,7 @@ When you select to invite your friends to Zenbe or to share pages with them, we 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us by email at [privacy@zenbe.com](mailto:privacy@zenbe.com).
 
- 
-
-or by mail at:
-
- 
+Or by mail at:
 
 Zenbe  
 156A Reade Street  
