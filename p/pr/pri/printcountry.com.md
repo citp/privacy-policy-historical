@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193814id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727062904id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Printer Ink Cartridges from PrintCountry
 
