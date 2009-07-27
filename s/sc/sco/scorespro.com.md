@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214002303id_/http%3A//www.scorespro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727213257id_/http%3A//www.scorespro.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Score service (powered by ScoresPro.com) - Privacy Policy
 
@@ -22,7 +22,7 @@ If this does occur, ScoresPro.com will under no circumstances use such personal 
 The personal data collected by us on you will be evaluated periodically to determine whether we should continue to hold it. You will be notified from time to time through our mailings of the continued use of your personal data and be given the opportunity to notify us if you do not wish to continue to receive mailings. 
   * Personal Information - Use of
 We will only use the personal information you provide to us only for communicating with you or notifying you of information relating to our and services. 
-  * [Score Mail Service](https://web.archive.org/web/20090214002303id_/http%3A//www.scorespro.com/scoremail.htm)
+  * [Score Mail Service](https://web.archive.org/web/20090727213257id_/http%3A//www.scorespro.com/scoremail.htm)
 When you subscribe to ScoresPro.com Score Mail Service you accept that:   
 a. We are going to use your Email address to send you letters  
 providing you the daily Scores & Results.   
