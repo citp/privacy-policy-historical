@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612185801id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727213256id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Massage M4M Privacy Policy
+
+Effective Date: 07/24/09
 
 We take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -45,7 +47,7 @@ _Children_
   
 
 
-  * MassageM4M displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, men ages 18-24 from a particular geographic area.
+  * MassageM4M displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteriaâ€”for example, men ages 18-24 from a particular geographic area.
 
 
   * MassageM4M does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
@@ -92,7 +94,7 @@ _General_
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20090612185801id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
+  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20090727213256id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
 
 MassageM4M Inc.  
 Customer Care - Privacy Policy Issues  
