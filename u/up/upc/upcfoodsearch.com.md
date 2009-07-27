@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515112814id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727192435id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - UPC Food Search
 
@@ -19,3 +19,6 @@ We also use third party advertisements on UPC Food Search.com to support our sit
 UPC Food Search has many links to web sites that are not affiliated with us, and we cannot take responsibility for any content or policies of third-party web sites. 
 
 If you have any questions, please feel free to contact us via our [Contact Us Page](http://www.upcfoodsearch.com/contact.php)
+
+  
+
