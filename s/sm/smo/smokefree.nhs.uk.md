@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220213935id_/http%3A//smokefree.nhs.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokefree.nhs.uk privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727083212id_/http%3A//smokefree.nhs.uk/privacy-statement) for the most accurate reproduction.*
 
 # Stop smoking start living - Privacy statement
 
@@ -6,6 +6,8 @@
   2. Privacy Statement
 
 
+
+[](http://www.addthis.com/bookmark.php?v=20)
 
 This page explains how the Department of Health uses any information you give to us, and the way we protect your privacy. Protecting the privacy and personal data of the visitors to our site is of the utmost importance to us.
 
