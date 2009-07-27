@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mo.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214045923id_/http%3A//www.mo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727173125id_/http%3A//www.mo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MO.com
 
