@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignaffairs.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516194617id_/http%3A//www.foreignaffairs.com/about-us/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignaffairs.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727161058id_/http%3A//www.foreignaffairs.com/about-us/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foreign Affairs
 
