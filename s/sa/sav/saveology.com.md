@@ -1,64 +1,77 @@
-> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418085059id_/http%3A//corporate.saveology.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727214556id_/http%3A//corporate.saveology.com/privacy.aspx) for the most accurate reproduction.*
 
 # Saveology.com™ makes it simple™
 
   
 
 
-**Saveology.com Privacy Policy**  
-Saveology.com is the one-stop destination for Americans of all walks of life to make use of our convenient tools and free information provided to lower the cost of living, save time and improve the overall quality of life. Practical tools provided by Saveology.com include a utility switching concierge, bill lowering service and an unbiased comparison shopping engine. It is the most user-friendly online marketplace with an unlimited supply of free information and resources. It is the one destination with unlimited possibilities.
+**1\. General**  
+This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that Saveology.com  (“Saveology”, “we,” “our” or “us”) may gather about or collect from you in connection with your use of this site (this “Site”).  It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
 
-Saveology.com can be contacted at:
+The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6.
 
-**Phone:  
-** 954-967-9600   
-Mon-Fri: 9am - 6pm EST
+**2\. Children**  
+This Site is not intended for children under 18 years of age.  We do not knowingly collect personal information from children under 18.  ****
 
-**Mail:**  
-Saveology.com  
-3303 W. Commercial Blvd.  
-Fort Lauderdale, FL 33309
+**3\. Gathering, Use and Disclosure of Non-Personally-Identifying Information  
+**We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you.  “ **Non–Personally–Identifying Information** ” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity.  “ **Personally–Identifying Information** ,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-By visiting, using and submitting information to www.Saveology.com, you are accepting the practices described in this Privacy Policy. Saveology.com recognizes your right to know how your information is collected and shared, so Saveology.com created this Privacy Policy in order to demonstrate our firm commitment to disclose our current policies regarding your privacy and the use of your personally identifiable information. In addition, we take further measures to prevent unauthorized interception of your personally identifiable information, as outlined in this Privacy Policy. This Privacy Policy is for this website only and does not apply to the personal information provided to us for any other services our visitors choose to accept from related companies of Saveology.com or those companies not owned or controlled by Saveology.com.
+**_A. Gathering Non-Personally-Identifying Information_**  
+**_(i)  Web Browsers_**  
+Like most site operators, we gather from you Non-Personally-Identifying Information of the sort that web browsers, depending on their settings, may make available.  That information includes your Internet Protocol (“ **IP** ”) address, operating system and browser type, and the locations of the web pages that you view right before arriving at, while navigating and immediately after leaving this Site. ****
 
-**(1) Security**  
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. However, in the unlikely event that an unauthorized third party compromises Saveology.com's security system, Saveology.com is not responsible for any occurrences or damages directly or indirectly caused by an unauthorized third party ability to view, use or disseminate your submissions or transmissions to www.Saveology.com, or your personally identifiable information.
+**_(ii) Web Cookies_**  
+A “ **Web Cookie** ” is a string of information that a site stores on your computer, and that your browser provides to this Site each time you submit a query to this site.  We use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experiences with this Site to help us understand how this Site is being used. 
 
-**(2) Visitor Information**  
-We collect only the domain name, but not the email address of non-subscribing visitors to our website; the email addresses of those who communicate with us via email; aggregate information on what pages consumers access or visit; user- specific information on what pages consumers access or visit; all necessary information submitted by a customer during the ordering process; and information volunteered by the consumer, such as survey information, personal information and/or site registrations. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to use. Any email address information volunteered by visitors of any Saveology.com, Elephant Group, Inc., their partner web properties, or, obtained from affiliated sources for the purpose of receiving email communications from Saveology.com, are governed by the Saveology.com
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-The information we collect is used to improve the content of our website and to customize the content and/or layout of our pages for each individual visitor. In the event of a national emergency or other similarly urgent situation, Saveology.com reserves the right to fully cooperate with the requests of government authorities and agencies and disclose to those entities all website user information and databases collected, compiled and/or maintained by Saveology.com. We will also share information when necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
+**_(iii) Web Beacons_**  
+A “ **Web Beacon** ” is an object that is embedded in a web page.  It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication.  We may occasionally place Web Beacons on pages of this Site.
 
-**(3) Cookies**  
-Like many other Internet websites, Saveology.com utilizes "cookies" to automatically track and store anonymous preferential information about you as you use and navigate www.Saveology.com. Registered users of this site may utilize advanced tracking features using cookies to enable site-specific features required by our shopping cart technologies. "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored on your hard drive by your web browser. Cookies track your personal preferences and activities, but in no way contain or refer to any personally- identifiable information. Information collected from users by Saveology.com's cookies includes, but is not limited to: (i) type of web browser; (ii) IP addresses; (iii) type of computer used; and (iv) home server domain names.
+You may not decline Web Beacons.  However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.    
+**_  
+B. Use of Non-Personally-Identifying Information_**  
+We analyze Non–Personally–Identifying Information gathered from you to help us better understand how this Site is being used.  By identifying patterns and trends in usage, we are able to better design this Site to improve your experiences, both in terms of content and ease of use.  We link information gathered using Web Cookies and Web Beacons to Personally-Identifying Information. ****
 
-Saveology.com's use of cookies allows Saveology.com to aggregate certain information about its users. The aggregated information helps Saveology.com to serve you better by compiling user preferences and statistical data to improve the offerings and features of www.Saveology.com. Saveology.com may use the aggregated information to - among other things: (i) develop products; (ii) improve content; (iii) track and report advertising click- throughs; and (iv) customize website layouts. Saveology.com may also share, loan, rent, or sell this aggregated information to its affiliates and third parties, but keep in mind that the aggregated information contains absolutely no personally identifiable information.
+_**C. Disclosure of Non-Personally-Identifying Information**_  
+From time to time, we may also release the Non–Personally–Identifying Information gathered from you in the aggregate, such as by publishing a report on trends in the usage of this Site.
 
-If you do not want www.Saveology.com's cookies to be inserted into your hard drive, you can disable your hard drive's ability to accept and receive cookies through your web browser. However, keep in mind that if you disable your hard drive's ability to accept and receive cookies, you may not be able to fully utilize all of the features of www.Saveology.com.
+**4\. Collection, Use and Disclosure of Personally–Identifying Information**  
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity.  We will only collect Personally-Identifying Information that you knowingly submit to us.  We will not disclose Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except as set forth below:
 
-**(4) Clickstream Data**  
-We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for website and system administration including: research and development, user analysis and business decision-making.
+**_A. Registration and Other Information Provided to Us_**  
+When you register with this Site, you may be asked to disclose Personally–Identifying Information.  You may also choose to submit Personally-Identifying Information to us when you send us an email.  ****
 
-**(5) Links to Other Internet Websites on www.Saveology.com**  
-www.Saveology.com may contain links to other Internet websites. This Privacy Policy applies solely to www.Saveology.com. Saveology.com makes no representations or warranties about, nor is it responsible for, the Privacy Practices of other Internet websites. When you enter a linked Internet website, Saveology.com encourages you to read the Privacy Policy of that linked website, as its Privacy Policy may differ substantially from that of this Privacy Policy.
+**_B._ _Surveys_**  
+From time to time, we may also ask you to participate in surveys designed to help us improve this Site.  Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
 
-**(6) Privacy Policy Updates**  
-Saveology.com developed this Privacy Policy as a manifestation of our firm commitment to disclose our current privacy and confidentiality policies to you. However, the Internet is rapidly evolving. With this in mind, Saveology.com reserves the right to amend this Privacy Policy at any time in its sole discretion and without notice.
+**_C.  Other Disclosures_**  
+Notwithstanding any other provision in this Privacy Policy, we will disclose Personally-Identifying Information in the following limited circumstances:  
+**_  
+(i) Employees and Third Party Processors_**  
+We will disclose Personally–Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally–Identifying Information on our behalf or participate with us in the provision or operation of this Site. 
 
-Any information we collect from you is subject only to our most current Privacy Policy. You are advised and encouraged to visit www.Saveology.com on a regular basis to review our most current Privacy Policy, and review any changes that may have been made. Unless you elect to opt-out of our Privacy Policy, you agree to be bound by our most current Privacy Policy, including any changes that have been made since you originally provided Saveology.com with information.
+                                **_(ii) By Law, to Protect Rights and to Comply with Our Policies_**  
+We disclose Personally–Identifying Information if:  (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.  
+_**  
+(**_ ** _iii) Business Transfers; Bankruptcy_**  
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of our assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it.  Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
 
-If at any time you wish to opt-out of this Privacy Policy, please contact Saveology.com either at the postal address listed at the beginning of this Privacy Policy.[](mailto:info@Saveology.com)
+**_(iv) Marketing_**  
+We may contact you **by email or telephone** about products and services that we think may be of interest to you.  If you wish to opt out of receiving marketing emails from us, please follow the instructions at the bottom of each email.  ** **
 
-**(7) Minors**  
-Children under the age of 18 are not eligible to use our services or transmit any personal information to us. Minors may only use this service in conjunction with a parent or guardian.
+**_D. Security_**  
+We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof.  Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security.
 
-**(8) Your Questions, Comments & Complaints**  
-Saveology.com encourages you to provide us with feedback regarding this Privacy Policy. If you have questions, comments or concerns regarding this Privacy Policy.[](mailto:info@Saveology.com)
+_**E. Contests, Giveaways and other Promotions**_  
+From time to time, we may offer Site users the opportunity to participate in contests, giveaways and other promotions.  Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy.   You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion.  You will not be required to participate in any promotion.
 
-**(9) Governing Law; Arbitration**  
-This Privacy Policy is governed and construed in accordance with the internal laws of the state of Florida, without regard for principles or conflicts of laws. Any civil action, claim, dispute or proceeding arising out of, or relating to, this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Broward County, Florida. You and Saveology.com shall select the arbitrator, and if you and Saveology.com are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator.
+**5\. Collection and Use of Information by Third Parties Not Covered By This Agreement**  
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves.  We do not control third-party sites that may be accessible through this Site.  Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them.  Before visiting a third party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to, in your discretion, protect their privacy. 
 
-Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and Saveology.com, and both of your respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or Saveology.com be entitled to punitive, special, indirect, or consequential damages, and both you and Saveology.com hereby waive your rights to any punitive, special, indirect, or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
+**6\. Privacy Policy Changes**  
+Because of changes in technology and the growth and development of our business or for other reasons, we may need to modify this Privacy Policy from time to time.   We will alert you by email if this policy is revised (if you have given us your email address) and will post a copy of the new policy with its effective date on this Site.  It is therefore important that you register with this Site and notify us if you change email addresses.  If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes. 
 
-**(10) Miscellaneous**  
-If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy. The headings contained in this Privacy Policy are for convenience or reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy. All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by Saveology.com from time to time, shall survive your opting out of this Privacy Policy and the termination of this Privacy Policy. This Privacy Policy represents the entire understanding and agreement between you and Saveology.com regarding the subject matter of this Privacy Policy, and supersedes all other previous agreements, understandings and/or representations regarding the same. 
+Unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after the time it takes effect, and not to information collected under any earlier Privacy Policy. 
+
+This policy is effective as of and was last updated on March 5, 2009.
