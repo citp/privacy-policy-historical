@@ -1,82 +1,284 @@
-> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228193324id_/http%3A//walmartstores.com/7735.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartstores.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727202001id_/http%3A//walmartstores.com/9243.aspx) for the most accurate reproduction.*
 
-# Wal-Mart Stores, Inc. - Security & Privacy
+# Wal-Mart Stores, Inc. - Walmart Privacy Policy
 
-### Wal-Mart Stores, Inc. Privacy Policy for Customers and Members
+Effective August 23, 2009
 
-One of Wal-Mart's Three Core Basic Beliefs is "Respect for the Individual."  
-Accordingly, we (Wal-Mart Stores, Inc. and our Affiliates -- Sam's Club, Walmart.com, Samsclub.com, and any other companies in which we have a majority ownership interest) will collect and use personal information of customers and members only as follows:
+### Scope:
 
-### Our purpose in collecting personal information.
+This policy applies to Wal-Mart operations, both in stores and online, in the United States and Puerto Rico. Examples include Walmart Supercenters, Neighborhood Markets and Walmart.com.
 
-Personal information means information about you which is, or can be, tied to you as an individual.
+### Information We Collect:
 
-We collect personal information to:
+We collect your information from the following sources:
 
-  * deliver the products and services you want;
-  * administer our businesses;
-  * develop and communicate special offers;
-  * provide customer service; and
-  * respond to legal process (such as subpoenas and warrants).
+  * Information you give us, such as during transactions, customer service, surveys, and online registrations.
+  * Information from other sources, such as consumer reporting agencies, and
+  * Information automatically collected when you visit our websites, such as via cookies, and in stores, e.g. via video cameras.
 
 
 
-### What information we collect and how we collect it.
+Read more about Information We Collect >
 
-The information we collect may include:
+### How We Use and/or Share Your Information:
 
-  * contact information, identification numbers, account numbers, product preferences, and other information you provide when you do business with us, either online, in our stores, or at our membership warehouse clubs, or sign up for certain services, such as a gift registry or personalized website account;
-  * technical information (such as your Internet Protocol address, your computer's operating system and browser type, and the address of a referring website, if any, and the path you take through our web pages) when you visit our websites; and
-  * financial and health care information provided by you and third parties (such as credit bureaus, health care providers, insurers, etc.) in connection with your transactions.
-
-
-
-When you visit our websites, we may place a "cookie," a small computer file, on your computer to help us recognize and serve you better when you return. You may delete this cookie from your computer. You may also set your Internet browser to reject cookies, however, doing so may limit the functionality of our websites.
-
-At some stores and clubs we may record your presence on security monitors for safety and security purposes.
-
-### How we use personal information.
-
-We do not sell or rent personal information to others.
-
-We do not use cookies to track movements on websites other than our own.
-
-We do not disclose personal information to non-Affiliates except in the following situations:
-
-  * when you request or give us permission to do so;
-  * when we use service providers and contractors (such as credit card issuers, check cashing bureaus, or data processors, mailing and fulfillment houses, customer service or research companies, etc.) for limited purposes to assist us in completing our transactions with you, maintaining or conducting our business, or doing customer research;
-  * when appropriate to prevent harm or injury (such as for product recalls, preventing fraud, or handling claims or other liabilities), or to comply with valid legal process and applicable laws.
-  * When we authorize select third parties to contact you, so that you may be considered about offers for goods and services that may be offered or endorsed by Wal-Mart, including Wal-Mart credit cards and debit cards.
+  * Walmart does not sell or rent your personal information to third parties.
+  * Walmart uses your information to provide products and services and to support core business functions. These uses include fulfillment, internal business processes, marketing, authentication and fraud prevention, and public safety and legal functions.
+  * We may combine all the information we collect. We may share your information with our corporate affiliates like Sam’s Club (except for information you provide to purchase financial products).
+  * We may share your personal information with third parties under the following limited circumstances: 
+    * with service providers or suppliers that help with our business operations
+    * with the financial institution who jointly offers a Walmart credit card
+    * when necessary to protect the safety, property, or other rights of Walmart, its affiliates, customers, or associates, or when we believe in good faith that the law requires it.
 
 
 
-We may share information with Affiliates for these same reasons and also to let you know about special offers, new products and services, Rollbacks, and other great values, unless such sharing is prohibited by law. We may share with Affiliates and non-Affiliates statistical information that does not identify you individually.
+Read more about How We Use and/or Share Your Information >
 
-### We take reasonable steps to protect your personal information.
+### Your Choices:
 
-Personal information that we maintain is subject to physical, administrative, and technical controls. When we do have to collect your most sensitive personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only. 
+  * We want to communicate with you in ways you want to hear from us. Examples include email newsletters, special offers, and new product announcements. We use the following standards for marketing communications:
+  * We will not contact you via phone or text message without your express consent (opt in),
+  * We will not share your information with third parties for marketing purposes, without your express consent (opt in),
+  * We use an opt-out standard for all other communications. This means we will conduct the activity unless you tell us not to.
+  * We participate in an ad network for some advertising on the site. This means that you may see advertising tailored to how you browse websites in the network. Learn more about the ad network, including how to opt-out.
+  * You can provide us your marketing preferences by visiting the [Privacy Preference Center](http://walmart.com/privacypreferences?adid=1500000000000006858130) or by us below. The Preference Center allows you to update or change your preferences for marketing materials at any time.
 
-### Health care and international data.
-
-  * Health care information: In addition to the policies discussed above, we have more detailed information about how we handle your health care information in our Notices of Health Care Information Privacy Practices. Wal-Mart has a separate Health Insurance Portability and Accountability Act (HIPAA) Privacy Policy that is available by contacting the addresses listed below.
-  * International customers and members: If you provided information to us from a country other than the United States, your information may be transmitted to, and processed by us or our service providers in the United States or other countries other than your own. If you provided information from a country that grants specific additional privacy rights, contact us at the addresses listed below to exercise your rights.
 
 
+Read more about Your Choices>
 
-### Modifications to our privacy policies.
+### How to Contact Us:
 
-We reserve the right to change our privacy policies at any time, except as may be prohibited by law. We will post revisions online and in locations in our stores and clubs that we consider appropriate.
+You may contact us as described in the Contact Us section below.
 
-### Contact us for more information about our privacy policies.
+## Privacy Policy
 
-If you have questions about our privacy policies, contact us at [privacy@wal-mart.com](mailto:privacy@wal-mart.com)   
-or   
-Wal-Mart Stores, Inc.,   
-Attention: Privacy Office  
-702 S.W. 8th Street  
-Bentonville, AR 72716-0505.
+Walmart recognizes the importance of information privacy. We believe that privacy is more than an issue of compliance – it is one of trust. We strive to manage your personal information in accordance with our basic belief of respect for the individual. This policy describes:
 
-Revised Effective October 1, 2008.
+  * How and why we collect your personal information.
+  * How your information is used and protected.
+  * When and with whom we share your information.
+  * The choices you can make about how we collect, use, and share your information.
+
+
+
+We do not sell or rent your personal information to third parties. If you have any questions about our privacy policy, please contact us as described in the section entitled “Contact Us” below.
+
+### Notice and Scope of Our Privacy Practices
+
+Walmart provides customers with clear, prominent, and easily accessible information about its privacy practices. This policy applies to Walmart operations, both in stores and online, in the United States and Puerto Rico. Examples include Walmart, Supercenters, Neighborhood Markets, and Walmart.com. Sam’s Club has its own privacy policy for its members. Read more about the [Sam’s Club Privacy Policy](http://samsclub.com/privacy?pid=WalmartStores).
+
+### Our Pledge of Accountability
+
+Walmart expects our associates and business partners to manage your personal information properly and maintain your trust. We are accountable for complying with this policy and take reasonable and timely steps to ensure compliance.
+
+### Information We Collect
+
+We collect personal information about you to deliver the products and services you request and to help improve your shopping experience. We do this using lawful and fair methods. We strive to limit the amount of personal information collected to support the intended purpose of the collection.
+
+#### Information You Give Us
+
+We collect personal information from you in a variety of ways when you interact with Walmart, both in stores and online. Some examples are when you:
+
+  * Create an account on one of our websites;
+  * Make an online or in-store purchase from us;
+  * Use a gift registry;
+  * Request check cashing, apply for credit, or purchase certain financial products;
+  * Conduct a transaction where we collect information required by law (such as the sale of pseudoephedrine);
+  * Request customer service or contact us;
+  * Submit a Walmart related story or testimonial;
+  * Participate in a contest, sweepstake, promotion, or survey; or
+  * Otherwise submit personal information to us.
+
+
+
+Personal information is information that identifies you specifically. The personal information we collect may include contact and payment information like your name, email and physical addresses, phone numbers, and credit and debit card numbers. When you ask us to ship an order, we may collect information you provide us such as the name, address, and phone number of recipients. We may collect your Social Security Number where required for certain transactions, such as to purchase firearms, or to help provide credit or other financial products and services.
+
+#### Information from Other Sources
+
+We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies, affiliates, or other service providers if you apply for credit or purchase certain financial products.
+
+#### Automated Information Collection
+
+We receive and store certain types of information when you interact with our websites, emails, and online advertising. Our purpose is to allow the websites to work correctly, to evaluate use of the website, and to support website analytics and marketing campaigns. Some examples include:
+
+  * We may collect technical information such as your internet protocol address, your computer’s operating system and browser type, the address of a referring website, if any, and the path you take through our web pages.
+  * We use “cookies” to recognize you as you use or return to our sites. This is done so that we can provide a continuous and more personalized shopping experience for you. A cookie is a small text file that a website or email may save to your browser and store on your hard drive.
+  * We may also use web beacons. Beacons allow us to know if a certain page was visited, an email was opened, or if ad banners on our website and other sites were effective.
+
+
+
+We operate cameras in stores for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.
+
+### How We Use Your Information
+
+Walmart uses your information to provide requested products and services and to support core business functions. These include fulfillment, internal business processes, marketing, authentication and fraud prevention, and public safety and legal functions. Some examples include:
+
+  * To fulfill your requests for products and services and communicate with you about those requests;
+  * To register and service your account;
+  * To administer surveys, sweepstakes, contests, and promotions;
+  * To provide customer service and alert you to product information, including recalls;
+  * To help us improve and customize our service offerings, websites, and advertising;
+  * To send you information about our products, services and promotions;
+  * To protect the security or integrity of our websites and our business; and
+  * With regard to credit qualification and applications.
+
+
+
+To accomplish these purposes, we may combine personal and non-personal information we collect online with offline information, including information from third parties. We may also share your information within our family of corporate affiliates, including Sam’s Club, to accomplish these and our affiliates’ purposes. However, we do not share with affiliates information that you provide to purchase a financial product or service like check cashing, money orders, money transfers, or bill pay.
+
+#### How We Share Your Information Outside Walmart
+
+Walmart does not sell or rent your personal information to third parties. We may share your personal information, whether you are a current or former customer, only under the following limited circumstances.
+
+#### Service Providers
+
+We may share information about you with service providers or suppliers that help with our business operations. Examples are shipping vendors, billing and refund vendors, credit card processors, and companies that help us improve our product and service offerings and our websites. We require these service providers and suppliers to keep the information secure. We also prohibit them from using your information for any purposes other than those requested by us.
+
+#### Credit Applications
+
+If you apply for a Walmart credit card, such as a co-branded or private label card, we may share your information with the financial institution(s) that we partner with to offer the credit card. Our partner may only use the information you give to us to provide the credit card. Similarly, if you qualify for a credit account and are not offered credit by Walmart, we may share your information with our partner so that they may extend the offer of credit as required by law.
+
+#### Legal Requirements and Protection of Our Company and Others
+
+We may share your information in other special circumstances. These include situations when we believe in good faith that the law requires it or that the sharing is necessary to protect the safety, property, or other rights of Walmart, our customers, our associates, or any other person. Examples include protecting the health or safety of customers, or addressing crimes committed on Walmart property. Data from in-store security cameras may also be provided to law enforcement upon written request.
+
+#### Marketing Purposes
+
+Based only on your express consent, we may share information with carefully selected vendors who may offer you products and services of interest. You may opt-in to this sharing under the “Your Choices” section below.
+
+#### Aggregate Information
+
+We may share aggregate and statistical data that does not identify you personally. We may do this for research and marketing purposes, for instance to describe our services to prospective partners or advertisers, and for other lawful purposes.
+
+#### Business Transfers
+
+In the unlikely event that Walmart or substantially all of its assets are acquired by an unrelated third party, your personal information may be one of the transferred assets.
+
+### Your Choices
+
+#### Marketing Preferences
+
+We want to communicate with you in ways you want to hear from us. Examples are newsletters, special offers, and new product announcements. We use the following standards for marketing communications:
+
+  * We use an opt-in standard for phone and text messages. We also use an opt-in standard for sharing information with third parties for marketing purposes. Opt-in means we will only conduct the activity with your express consent.
+  * We use an opt-out standard for all other communications. Opt-out means we will conduct the activity unless you tell us not to.
+
+
+
+You can provide us your marketing preferences by visiting the [Privacy Preference Center](http://walmart.com/privacypreferences?adid=1500000000000006858130). The Preference Center allows you to update or change your preferences about receiving marketing materials at any time.
+
+Or you may contact us as described in the Contact Us section below.
+
+If you contact us by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt-out of mail, include your mailing address.
+
+Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests. You can also change your mind about your marketing preferences. To do so, you can visit the Privacy Preference Center or contact us at one of the above addresses.
+
+Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for customer service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds.
+
+#### Credit offerings
+
+The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1-888-567-8688 or by going to www.optoutprescreen.com.
+
+#### Online Operations and Advertising
+
+You may exercise choices related to our online operations and advertising. For instance, you can choose to browse our websites without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our websites, but will not be able to complete a purchase or take advantage of certain website features.
+
+To learn more about cookies, including how to refuse cookies on your computer, follow these links:
+
+  * [ Microsoft Internet Explorer](http://www.microsoft.com/info/cookies.htm)
+  * [Mozilla Firefox](http://www.mozilla.org/support/firefox/options#privacy)
+  * [Apple Safari](http://www.apple.com/support/safari/)
+  * [All About Cookies](http://www.allaboutcookies.org/cookies/)
+
+
+
+You may also opt-out of certain online advertising. Walmart.com participates in an ad network for some of the advertising found on the site. The ad network allows us to display advertisements that are tailored to your browsing interests on our websites and other sites. It also allows us to avoid sending you duplicate ads and to control the frequency of the ads you see. Walmart uses one or more partners to participate in the ad network. The partners use cookies, web beacons, or similar technologies to display these advertisements. We do not permit our ad serving partners to collect personal information about you on our websites. Rather, we provide them non-personal information about you such as browsing information like types of pages viewed and categories of interests. Our partners may use this information, as well as information they have collected when you are on other sites within their network, to help select which ads to display. We or our partners only retain ad network data for legitimate business purposes. Learn more about ad network business practices and the [privacy policies of our partners](http://www.walmart.com/cservice/contextual_help_popup.gsp?modId=971879&adid=1500000000000006858130). The information includes how to opt-out of participating in ad networks in this manner.
+
+###  How to Access and Update Your Information
+
+Walmart takes reasonable steps to keep your personal information accurate and complete, so we can treat your information properly and effectively under this policy. You can access or update your information, including contact or account information, in the following ways:
+
+  * If you have created an account on one of our websites, log into your account. Once you do, you will be able to enter and update your own contact information and payment information, as well as contact information for recipients you have designated.
+  * Contact us at the email or postal address listed in the “Contact Us” section of this policy. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide you the information requested if reasonably available, or will describe the types of information we typically collect. We will make changes you request or will provide an explanation of what actions we will be able to take with regard to the request.
+  * If you need help accessing your information related to a financial product offered by a Walmart partner, we will assist you with that request if you contact us via the “Contact Us” section below.
+  * If you need assistance with your Optical or Pharmacy information, please visit the Pharmacy or Optical section below for instructions on accessing these records.
+
+
+
+### How We Secure Your Information
+
+Securing your information is a company priority. Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information. When we do have to collect your most private personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only.
+
+#### Online Protections
+
+Your account information is protected by the password you use to access your online account. Please keep this password confidential. We also use a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL (and most are), your account information will be protected during transport across the Internet. Walmart.com has also obtained a digital certificate from Verisign, Inc., a leading provider of Internet trust services. When you enter a secure portion of a website, which is any page containing any of your account information, an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying website security information will appear. This certificate indicates that your personal information is transmitted in encrypted form to a Walmart.com web server, not to some unknown or unauthorized server.
+
+#### Hard Copy and Electronic Storage Protections
+
+Personal information that is maintained in our offices or stores is subject to physical, administrative, and technical controls as well. Hard copies of private information are maintained in locked locations or cabinets with similar restrictions for electronic storage of private information. When disposed of, the information is shredded, destroyed, erased, or otherwise made unreadable.
+
+### Privacy Protections for Specific Types of Information
+
+#### Pharmacy and Optical Departments
+
+When you use our Pharmacies or Vision Centers, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential. This includes complying with federal law (the Health Insurance Portability & Accountability Act or HIPAA) and applicable state laws. Our Notice of Privacy Practices describes how we protect your information maintained by our Pharmacies and Vision Centers, and how you can access your records. A copy of the Notice of Privacy Practices is available online by visiting [Pharmacy](http://www.walmart.com/catalog/catalog.gsp?cat=538447&fromPageCatId=538446&catNavId=538446&adid=1500000000000006858130) or [Vision Center](http://www.walmart.com/catalog/catalog.gsp?cat=538450&fromPageCatId=538446&catNavId=538446&adid=1500000000000006858130). A copy of the Notice is also provided to you by the Pharmacy or Vision Center at the first time of service, or can be requested at any time at your local Walmart.
+
+#### Financial Products and Services
+
+As you use Walmart financial products and services, the privacy of your personal information is protected under the federal Gramm-Leach-Bliley Act (GLB) and applicable state laws. Your personal information is protected whether you are a current or former customer. These financial products and services include money orders, money transfers, credit card offerings, bill payment, and check cashing.
+
+Walmart provides you check cashing services directly. This privacy policy describes how we collect, use, disclose, and protect your information related to this service.
+
+For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Below is the list of our financial services partners, along with a link to their privacy policies:
+
+  * [ Credit Cards offered through GE Money Bank](https://www.onlinecreditcenter2.com/walmartstorecard/csgen2w2/WFWprivacy.htm)
+  * [Money Transfers, Money Orders, and Express Bill Pay offered through MoneyGram](http://www.moneygram.com/MGICorp/Legal/PrivacyPolicy/index.htm)
+  * [Money Card offered through Green Dot and GE Money](https://www.walmartmoneycard.com/AcctMgmt/Controls/Walmart/Support/CardholderAgreement.aspx?siteid=walmart)
+  * [ Bill Payment offered through CheckFreePay](http://www.checkfreecorp.fiserv.com/cda/corp/L5.jsp?layoutId=47549&contentId=345&menuId=47545)
+
+
+
+We also protect the credit or debit card information we collect during transactions. We comply with industry requirements known as the Payment Card Industry Data Security Standards (PCI Standards). These standards require safeguards for handling and securing customer information. These include using secure networks; encryption or other protection of cardholder data; physical and technical access controls; monitors and tests of security systems; and information security policies.
+
+### Privacy of Children Online
+
+We are committed to protecting children’s online privacy. In order to protect children’s personal information, and to meet the standards of the Children’s Online Privacy Protection Act (COPPA), we do not knowingly collect personally identifiable information from children under the age of 13 on Walmart websites without prior parental consent.
+
+Walmart.com is a general audience website not geared towards children. In several areas of Walmart.com, such as when customers contact us via email, create a Walmart.com account, or sign up for e-mail newsletters and alerts, we ask for birth year information. We ask for this to help us ensure that children do not provide us personal information on the site. Please contact us at the email or postal address provided in the “Contact Us” section of this policy if you believe we may have collected information from your child and we will work to delete it.
+
+### International
+
+As a global company, Walmart has separate privacy policies for its international offices. When you give us personal information on a website or in a store, the information may be sent to servers outside of the country where you provided the information. Walmart takes steps to ensure that your information is treated securely and in accordance with this privacy policy or any privacy policy that applies to a Walmart international site or store where you provided your information.
+
+### Changes to the Walmart Privacy Policy
+
+Please check our privacy policy periodically for changes. We will also notify you of significant updates and will post the date it was last updated at the bottom of the privacy policy.
+
+### Contact Us
+
+Please feel free to contact us with any questions or comments about this policy or about how your information is handled. You can contact us via the addresses below:
+
+Privacy Office contact us form
+
+**Mail:**  
+Walmart Corporate  
+Privacy Office, MS #505  
+508 SW 8th Street  
+Bentonville, AR 72716-0505
+
+### Your California Privacy Rights
+
+Our privacy policy describes how we share information for marketing purposes. The policy and rights apply to all customers, including California residents:
+
+  * We share information with others outside of Walmart only if we have your express consent (opt-in). See How We Share Your Information Outside Walmart.
+  * We also share information with other businesses within our corporate family, such as Sam’s Club. See How We Use Your Information .
+
+
+
+Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
+
+Effective: August 23, 2009
 
 |  | 
 
