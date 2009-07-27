@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waka.me privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501093557id_/http%3A//waka.me/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waka.me privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727063019id_/http%3A//waka.me/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - waka.me
 
