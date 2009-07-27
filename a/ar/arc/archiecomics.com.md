@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207055937id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
 
 # Archie Comics Privacy Policy
 
@@ -36,7 +36,7 @@ Archie does not solicit personally identifiable information from children. The C
 
 **Ability to Update or Delete Information.**
 
-** Parents or Legal Guardians are welcome to request deletion of any information we may have on their child. [(Click Here) ](https://web.archive.org/web/20090207055937id_/http%3A//www.archiecomics.com/talkback.html)
+** Parents or Legal Guardians are welcome to request deletion of any information we may have on their child. [(Click Here) ](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/talkback.html)
 
 ** Please note that information about a child may remain in back-up storage for some period of time after a request for deletion of that child's account. This may be the case even though no information about that account remains in our active user databases.
 
@@ -62,5 +62,5 @@ If you have questions or concerns about this privacy policy, you can contact us 
 325 Fayette Ave.  
 Mamaroneck, New York 10543  
 Fax: 914-381-2335  
-[ Talkback](https://web.archive.org/web/20090207055937id_/http%3A//www.archiecomics.com/talkback.html)  
+[ Talkback](https://web.archive.org/web/20090727082325id_/http%3A//www.archiecomics.com/talkback.html)  
 
