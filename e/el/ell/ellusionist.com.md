@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427163737id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727182838id_/http%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy and Security | Ellusionist
 
 We value your privacy, and promise never to sell or rent your email address or personal information for your lifetime.
 
