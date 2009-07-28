@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153955id_/http%3A//www.myfantasyleague.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728164833id_/http%3A//www.myfantasyleague.com/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football League Management from MyFantasyLeague.com
 
@@ -60,4 +60,4 @@ How You Can Correct Your Information:
 How To Contact Us:
 
 **  
-| Should you have other questions or concerns about these privacy policies, please fill our our [support form](http://football.myfantasyleague.com/2008/support?SHOWFORM=1).
+| Should you have other questions or concerns about these privacy policies, please fill out our [support form](http://football.myfantasyleague.com/2009/support?SHOWFORM=1).
