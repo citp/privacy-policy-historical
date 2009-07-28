@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202162136id_/http%3A//mmos.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728074512id_/http%3A//mmos.com/about/privacy) for the most accurate reproduction.*
 
 # Connecting Gamers | MMOS
-
-### Privacy Policy
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit MMOS.com, and how we safeguard your information. We will never sell your personal information to third parties without your solicitation. 
 
@@ -21,6 +19,6 @@ We also use third party advertisements on MMOS.com to support the costs of maint
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can greatly affect how you are able to interact with our site as well as most other websites. This could include the inability to login to our website for longer than a single browser session. 
 
-If you have any questions relating to our privacy practices please don't hesitate to [contact support](https://web.archive.org/support/). 
+If you have any questions relating to our privacy practices please don't hesitate to [contact support](mailto:support@mmos.com). 
 
 **_Last Modified April 17th, 2007_**
