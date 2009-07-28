@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627071023id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728103327id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
 
 # International Coach Federation
 
@@ -68,9 +68,9 @@ Phone: 888-423-3131, 859-219-3580
 Fax: 888-329-2423, 859-226-4411  
 [icfheadquarters@coachfederation.org](mailto:icfheadquarters@coachfederation.org)
 
-Call for Board Nominations 
+Upcoming Deadlines for ICF Awards
 
-Nominations for the 2010 global ICF Board may be made through July 2. Open positions include 5 at-large director seats and president-elect. Hear from ICF Past President Diane Brennan, MBA, MCC, and learn about the ICF election process and the role of the Nominating Committee in the ICF Leadership section of the ICF Web site. 
+The ICF offers several awards each year to honor individual members, chapters, and organizations that have demonstrated a remarkable commitment to advancing the art, science and practice of professional coaching. Applications for the 2009 ICF International Prism Award are due August 14. ICF Chapter Award applications are due August 21. ... 
 
 ######    
 Advertisement
