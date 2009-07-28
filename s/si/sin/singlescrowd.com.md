@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226223220id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728102621id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,9 @@ If you use the Services or if you contact us with an enquiry we will collect inf
 
 **Use of Information**
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). t may also be processed by our staff in the UK, staff who operate outside the EEA who work for us or by those who provide support services to us . Such staff maybe engaged in, among other things, the processing of your membership details and the processing of your payment details. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+You accept that the information collected by us may be used for the purpose of promoting other dating / adult community websites.
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by our staff in the UK, staff who operate outside the EEA who work for us or by those who provide support services to us . Such staff maybe engaged in, among other things, the processing of your membership details and the processing of your payment details. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
 We may also share your information with third parties where necessary to provide Services to you. We may pass aggregate information on the usage of our Website to third parties but this will not include information that can be used to identify you. 
 
