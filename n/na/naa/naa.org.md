@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171912id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728165044id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Newspaper Association of America: Advancing Newspaper Media for the 21st Century
 
