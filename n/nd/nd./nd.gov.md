@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nd.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624215528id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nd.gov privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729231806id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
 
 # nd.gov: Official Portal for North Dakota State Government
 
@@ -26,4 +26,4 @@ The information collected on this site is retained in accordance with the Record
 
 ## Contact Information:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20090624215528id_/http%3A//www.nd.gov/contactus.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20090729231806id_/http%3A//www.nd.gov/contactus.htm).
