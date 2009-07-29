@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripoff-review.org privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223185148id_/http%3A//www.ripoff-review.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoff-review.org privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729101043id_/http%3A//ripoff-review.org/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
 Last Updated: Feb 15th 2008
 
-[Home](https://web.archive.org/web/20090223185148id_/http%3A//www.ripoff-review.org/index.htm)
+[Home](https://web.archive.org/web/20090729101043id_/http%3A//ripoff-review.org/index.htm)
 
 Ripoff-Review.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
