@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ppcclassroom.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228161306id_/http%3A//www.ppcclassroom.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcclassroom.com privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729135135id_/http%3A//www.ppcclassroom.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy PPC Classroom Launch
+# PPC Classroom 2.0 Launch
 
 Thank you for visiting Affiliate Classroom's ("Affiliate Classroom") personal data management and e-commerce Internet web site ("Site") located at the URL www.affiliateclassroom.com. This Privacy Policy details certain policies implemented throughout Affiliate Classroom governing Affiliate Classroom's use of personally identifiable information provided to Affiliate Classroom via this Site.
 
