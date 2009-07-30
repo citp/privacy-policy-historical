@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the howtocleanstuff.net privacy policy that was archived on 2009-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090603233206id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the howtocleanstuff.net privacy policy that was archived on 2009-07-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090730023258id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -60,7 +60,7 @@ function multi_rating_vote(block) {
     var set_id = el[1];
     var values = jQuery("#gdsr_multi_" + post_id + "_" + set_id).val();
     gdsrWait("gdsr_mur_text_" + post_id + "_" + set_id, "gdsr_mur_loader_" + post_id + "_" + set_id);
-    jQuery.getJSON('http://www.howtocleanstuff.net/wp-content/plugins/gd-star-rating/ajax.php', {_ajax_nonce: '8d61dff5f0', vote_id: post_id, vote_set: set_id, vote_value: values, vote_type: 'm' }, function(json) {
+    jQuery.getJSON('http://www.howtocleanstuff.net/wp-content/plugins/gd-star-rating/ajax.php', {_ajax_nonce: '3a102a7640', vote_id: post_id, vote_set: set_id, vote_value: values, vote_type: 'm' }, function(json) {
         jQuery("#gdsr_mur_block_" + post_id + "_" + set_id + " .gdsr_multis_as").remove();
         jQuery("#gdsr_mur_block_" + post_id + "_" + set_id + " .gdcurrent").remove();
         jQuery("#gdsr_mur_block_" + post_id + "_" + set_id + " input").remove();
@@ -76,7 +76,7 @@ jQuery(document).ready(function() {
     jQuery(".gdsr_rating_as > a").click(function() {
         var el = jQuery(this).attr("id").split("X");
         gdsrWait(el[5], el[6]);
-        jQuery.getJSON('http://www.howtocleanstuff.net/wp-content/plugins/gd-star-rating/ajax.php', {_ajax_nonce: '8d61dff5f0', vote_id: el[1], vote_value: el[2], vote_type: el[4] }, function(json) {
+        jQuery.getJSON('http://www.howtocleanstuff.net/wp-content/plugins/gd-star-rating/ajax.php', {_ajax_nonce: '3a102a7640', vote_id: el[1], vote_value: el[2], vote_type: el[4] }, function(json) {
             gdsrWait(el[6], el[5]);
             if (json.status == 'ok') {
                 jQuery("#gdr_stars_" + el[1]).html("");
@@ -491,7 +491,7 @@ or by telephone at +1 210-748-7543</p>
 				</div>
 				<div class="donation_box_bottom">
 					<h4>Raised So Far:</h4>
-					<p class="raised_amount">$499.00</p>
+					<p class="raised_amount">$542.50</p>
 				</div>
 					<div style="clear:both;"></div>
 			</div>
@@ -501,7 +501,7 @@ or by telephone at +1 210-748-7543</p>
 <h2 class="widgettitle">Feeds:</h2>
 
 <div>
-<div class="subscribe_services" id="subscribe_me_2d43ba62eedf0b2ac5b7d7ce21dd1182"><div class="subscribe_service local_feed"><a href="http://www.howtocleanstuff.net/category/guides/feed/rss" style="background: url(http://www.howtocleanstuff.net/wp-content/plugins/sem-subscribe-me/img/rss.png) center left no-repeat; padding: 5px 0px 5px 28px;">Cleaning Guides RSS</a></div>
+<div class="subscribe_services" id="subscribe_me_3e674e3bfa5d4e26badeb87dd96abc9a"><div class="subscribe_service local_feed"><a href="http://www.howtocleanstuff.net/category/guides/feed/rss" style="background: url(http://www.howtocleanstuff.net/wp-content/plugins/sem-subscribe-me/img/rss.png) center left no-repeat; padding: 5px 0px 5px 28px;">Cleaning Guides RSS</a></div>
 <div class="split_section"><div class="subscribe_service"><a href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fwww.howtocleanstuff.net%2Fcategory%2Fguides%2Ffeed%2Frss" rel="nofollow"><img src="http://www.howtocleanstuff.net/wp-content/plugins/sem-subscribe-me/img/addgoogle.gif" alt="Subscribe to Google"></a></div>
 <div class="subscribe_service"><a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http%3A%2F%2Fwww.howtocleanstuff.net%2Fcategory%2Fguides%2Ffeed%2Frss&amp;ru=http%3A%2F%2Fwww.howtocleanstuff.net%2F" rel="nofollow"><img src="http://www.howtocleanstuff.net/wp-content/plugins/sem-subscribe-me/img/addmymsn.gif" alt="Subscribe to MyMSN"></a></div>
 <div class="subscribe_service"><a href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fwww.howtocleanstuff.net%2Fcategory%2Fguides%2Ffeed%2Frss" rel="nofollow"><img src="http://www.howtocleanstuff.net/wp-content/plugins/sem-subscribe-me/img/addmyyahoo.gif" alt="Subscribe to MyYahoo!"></a></div>
