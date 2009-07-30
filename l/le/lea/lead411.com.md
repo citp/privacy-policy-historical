@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509085134id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730195318id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411 Privacy Policy
 
@@ -55,7 +55,7 @@ Lead411 reserves the right to change or update this Privacy Policy, or any other
 
 **Third Party Cookies**
 
-We use Manticore Technology hosted software to provide us with data collection, email, and reporting information regarding our customers' activities on our site. When you visit our website, Manticore may set cookies on our behalf and may receive information about your browsing activity. Additionally, using the Manticore service, we may store personally identifying information that you have provided to us, such as your name and email address. Manticore Technology will not sell or make available any of your personal information to a third party, or use it themselves to market products and services not related to this website. For more information about Manticore Technology software, consumer privacy, and how to opt-out of tracking, please visit http://www.ManticoreTechnology.com/ConsumerPrivacy.asp. 
+We may use advertising networks to help present advertisements on our sites. These advertising networks use cookies to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks. 
 
 |   
 ---|---|---  
