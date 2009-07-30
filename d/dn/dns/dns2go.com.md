@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605210045id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730182658id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
-# VisNetic Mail Server, Mail Flow, WinRoute Firewall, DNS2Go - Deerfield.com privacy statement from Deerfield.com
+# IceWarp Mail Server, Mail Flow, 3CX, WinRoute Firewall, DNS2Go - Deerfield.com privacy statement from Deerfield.com
 
 Deerfield.com is firmly committed to protecting the privacy of its customers and those who sample Deerfield.com products. Deerfield.com is the sole owner of the information collected on this site. We will not share, sell, or otherwise distribute the financial or personal information of our customers or those who otherwise provide personal information to sample our products, to any other organizations in any way other than what is disclosed in this document. 
 
