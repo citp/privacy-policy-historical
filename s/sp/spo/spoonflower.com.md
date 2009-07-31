@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616083426id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2009-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090731124539id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
 
 # Spoonflower: Privacy Policy
 
