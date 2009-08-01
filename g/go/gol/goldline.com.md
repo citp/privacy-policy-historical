@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420034208id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801101033id_/http%3A//www.goldline.com/about-goldline/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - About Goldline - Goldline International
 
@@ -23,15 +23,14 @@ Serving Rare Coin and Precious Metals Investors Since 1960
   * [Terms of Use](https://web.archive.org/about-goldline/terms-of-use.html)
 
 [](https://web.archive.org/precious-metals/email-newsletter.html)  
+  
 [](https://web.archive.org/about-goldline/press/fred-thompson-goldline-international.html)   
   
+
+
 [](https://web.archive.org/buy-gold/ira-investment.html)
 
-[](https://web.archive.org/precious-metals/articles/gold-confiscation-order.html)
-
-[](https://web.archive.org/about-goldline/goldline-careers.html)
-
-|  |   
+[](https://web.archive.org/buy-gold/coin-grading.html) |  |   
 ---  
   
   1. **Safeguarding Your Privacy**  
@@ -68,7 +67,12 @@ Loading Prices...
 Prices are indications only. Call Goldline for most current spot prices. Click _[here](https://web.archive.org/about-goldline/spot-price-help.html)_ for more information.  
   
   
-**Glenn Beck explains why he buys gold coins from Goldline.**   
+  
+
+
+[](https://web.archive.org/buy-gold/faq.html)
+
+  
   
   
 [](https://web.archive.org/market-news/radio-show.html)
@@ -83,11 +87,7 @@ The American Advisor with Joe Battaglia, a daily talk show focusing on conservat
 Goldline's success, growth, and experience have allowed us to acquire other outstanding precious metals firms including Deak International Goldline (US) Ltd. from Thomas Cook; Gold and Silver Emporium (asset purchase); and Dreyfus Precious Metals, Inc.
 
   
-[](https://web.archive.org/about-goldline/corporate-info.html) [](https://web.archive.org/precious-metals/testimonial.html)
-
-[](https://web.archive.org/buy-gold/coin-grading.html)
-
-   
+[](https://web.archive.org/about-goldline/corporate-info.html) [](https://web.archive.org/precious-metals/testimonial.html) [](https://web.archive.org/precious-metals/articles/gold-confiscation-order.html) [](https://web.archive.org/about-goldline/goldline-careers.html)    
 |   
 |   
 |  |   
