@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525095618id_/http%3A//pennhealth.com/health/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennhealth.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/privacy.html) for the most accurate reproduction.*
 
 # University of Pennsylvania Health System - Philadelphia PA
 
-The University of Pennsylvania Health System values your privacy and the confidentiality of the information you choose to share with us. We want you to use our web sites without being concerned that others will have access to your confidential information. This statement pertains only to our web sites; UPHS patients should also review our [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20090525095618id_/http%3A//pennhealth.com/health/npp.html).
+The University of Pennsylvania Health System values your privacy and the confidentiality of the information you choose to share with us. We want you to use our web sites without being concerned that others will have access to your confidential information. This statement pertains only to our web sites; UPHS patients should also review our [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/npp.html).
 
 In almost all cases, you can use our web sites without sharing any personal information about yourself. The only information we learn about you is the information you voluntarily provide us.
 
-If you have any questions about financial transactions performed on our web sites, please view our [refund policy](https://web.archive.org/web/20090525095618id_/http%3A//pennhealth.com/health/refund.html).
+If you have any questions about financial transactions performed on our web sites, please view our [refund policy](https://web.archive.org/web/20090801072014id_/http%3A//pennhealth.com/health/refund.html).
 
 Please take a few minutes to read our complete policy. This policy may change from time to time. Please review it periodically. 
 
