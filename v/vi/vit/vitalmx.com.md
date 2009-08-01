@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215010707id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801130509id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vital MX
 
-VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalSkate.com, and VitalMX.com are part of the Vital Media Network group of sites and services.
+VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalMTB.com, and VitalMX.com are part of the Vital Media Network group of sites and services.
 
-Vital Media Network is committed to protecting the privacy of our customers’ personal information. This statement applies with respect to the information that we collect from Vital Media Network sites, located at VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalSkate.com, and VitalMX.com, as well as our affiliate sites. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+Vital Media Network is committed to protecting the privacy of our customers’ personal information. This statement applies with respect to the information that we collect from Vital Media Network sites, located at VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalMTB.com, and VitalMX.com, as well as our affiliate sites. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
-You must be at least 13 years old to use VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalSkate.com, and VitalMX.com. If you are between 13 and 17 years old, you should obtain permission from your parents or guardian before using any Vital Media Network site.
+You must be at least 13 years old to use VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalMTB.com, and VitalMX.com. If you are between 13 and 17 years old, you should obtain permission from your parents or guardian before using any Vital Media Network site.
 
 I. INFORMATION COLLECTED
     
@@ -67,4 +67,4 @@ Or
 
 Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 265-3090 
 
-Updated: July 21, 2006
+Updated: July 29, 2009
