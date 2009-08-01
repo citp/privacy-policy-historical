@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506170729id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801142725id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
@@ -36,4 +36,7 @@ Cookies can be activated via the help function of most Web browsers. For detaile
 **The zooplus guarantee**  
 All zooplus products are covered by a 2-year warranty.
 
-[ ](https://web.archive.org/myzooplus "my zooplus")
+quantity: |  0   
+---|---  
+Shipping : |  0.00 EUR   
+value: |  0.00 EUR 
