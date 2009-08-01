@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipclinic.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624130154id_/http%3A//www.clipclinic.com/default/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipclinic.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801231244id_/http%3A//www.clipclinic.com/default/default/privacy) for the most accurate reproduction.*
 
 # ClipClinic.com - Privacy Policy
 
