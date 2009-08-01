@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627120242id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801153524id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
