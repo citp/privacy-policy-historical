@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506074459id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802202017id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,10 @@ TechMixer respect our reader and visitor privacy. However, we do collect and pre
   * The blogging platform used by TechMixer is WordPress which stores a small amount of information in users computer when he or she comments. This is of very small size and no way is a malware or script which hacks a computer for information.
   * You are free to read and utilize the resource available here but not allowed to copy the content.
   * We allow **third-party advertising companies** to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+**NOTE:** ** ** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
 
 Posted on 24. Jul, 2008 by [km](http://www.techmixer.com/author/admin/ "Posts by km") in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
