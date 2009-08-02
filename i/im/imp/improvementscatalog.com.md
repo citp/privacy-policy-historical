@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418074600id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802062334id_/http%3A//www.improvementscatalog.com/category/customer-service/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Improvements Catalog
 
