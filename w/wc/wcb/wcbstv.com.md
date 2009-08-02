@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcbstv.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614110811id_/http%3A//wcbstv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcbstv.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802123221id_/http%3A//wcbstv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - wcbstv.com
 
