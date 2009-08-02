@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071557id_/http%3A//www.elluminate.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802130456id_/http%3A//elluminate.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # elearning Privacy Policy | Elluminate Inc.
 
