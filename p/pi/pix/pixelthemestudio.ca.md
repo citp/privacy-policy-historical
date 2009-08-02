@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the pixelthemestudio.ca privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626075500id_/http%3A//www.pixelthemestudio.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelthemestudio.ca privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802094559id_/http%3A//www.pixelthemestudio.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Tuesday, 12 May 2009 07:29   
-  
 On the Pixel Theme Studio website, you will be asked to provide an email address when registering for an account but this is only for the purpose of registration.
 
   * If you use the support forums you can choose whether to allow other forum members to contact you by email or private messaging and the type of personal information that is available using your user profile. You can also opt to subscribe to specific forums or threads which means your email address will be used to send information when new posts are made. All email from the forum site includes a link that allows you to opt out from continued subscription to that thread or forum. Forum administrators may use your email address to contact you if necessary.
@@ -12,7 +10,7 @@ Your IP address may be used to identify duplicate user accounts (which are forbi
 
 Cookies are used to store visitors' preferences and record past activity at a site in order to provide better service when visitors return to our site, such as indicating which threads you have read. You may modify your information and preferences by editing your user profile.
 
-  * If you  register and download any themes or templates, you agree to any separate terms of service that allows us to contact you in reference to your registered account.
+  * If you register and download any themes or templates, you agree to any separate terms of service that allows us to contact you in reference to your registered account.
 
   * If you register as a user or member of the Pixel Theme Club, your IP address may be used to identify possible abuse of the reviewing and rating system.
 
@@ -41,6 +39,4 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 ## Questions or comments
 
-If you have questions or comments about this privacy policy or if you feel that this site is not following its stated information policy please contact us.  
-  
-Last Updated on Wednesday, 17 June 2009 09:02 
+If you have questions or comments about this privacy policy or if you feel that this site is not following its stated information policy please contact us.
