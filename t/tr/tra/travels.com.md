@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travels.com privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319135601id_/http%3A//www.travels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travels.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802070719id_/http%3A//www.travels.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Travels .com
+# Privacy Policy | Travels.com
 
 **Effective Date: April 21, 2008**
 
