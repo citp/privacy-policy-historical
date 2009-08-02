@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eximbankindia.in privacy policy that was archived on 2009-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090226224858id_/http%3A//www.eximbankindia.in/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eximbankindia.in privacy policy that was archived on 2009-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090802135217id_/http%3A//eximbankindia.in/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Finance &amp; Services : Export Services</title>
@@ -241,7 +241,7 @@ document.onclick=hidemenu
 var image="";
 var banners=0;
 function cycle() {
-  if (++banners >11) banners=1;
+  if (++banners >8) banners=1;
     loadbanners();
     document.banner1.src = image;
     window.setTimeout('cycle();',2000);
@@ -251,42 +251,69 @@ function loadbanners() {
       {
       image="images/tds.jpg";
       }
- if (banners==2)
-      {
-      image="images/wiki.jpg";
-      }
-   if (banners==3)
+
+   if (banners==2)
       {
       image="images/5.gif";
       }
-   if (banners==4)
+   if (banners==3)
       {
-      image="images/tds.jpg";
+      image="images/gtfp.jpg";
       }
-  if (banners==5)
+  if (banners==4)
      {
       image="images/6.gif";
      }
- if (banners==6)
-     {
-      image="images/wiki.jpg";
-     }
-if (banners==7)
+if (banners==5)
     {
       image="images/tds.jpg";
     }
-if (banners==8)
+if (banners==6)
    {
      image="images/gnex.jpg";
    }
-if (banners==9)
+if (banners==7)
    {
-    images="images/4.gif";
+    images="images/gtfp.jpg";
    }
-if (banners==10)
-   {
-    images="images/wiki.jpg";
-   }
+
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+var link = "scheme.asp"
+function urlswitch() {
+if (banners==1)
+{
+link = "scheme.asp";
+}
+if (banners==2)
+{
+link = "rotate.asp";
+}
+if (banners==3)
+{
+link = "lc-g.asp";
+}
+if (banners==4)
+{
+link = "rotate.asp";
+}
+if (banners==5)
+{
+link = "scheme.asp";
+}
+if (banners==6)
+{
+link = "rotate.asp";
+}
+if (banners==7)
+{
+link = "lc-g.asp";
+}
+
+return link;
 }
 //-->
 </script>
