@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ied.edu.hk privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026152129id_/http%3A//www.ied.edu.hk/p_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ied.edu.hk privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802144953id_/http%3A//www.ied.edu.hk/p_policy/index.html) for the most accurate reproduction.*
 
 # The Hong Kong Institute of Education - Privacy Policy
 
