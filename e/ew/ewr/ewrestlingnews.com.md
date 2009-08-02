@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193646id_/http%3A//www.ewrestlingnews.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802091425id_/http%3A//www.ewrestlingnews.com/privacy.shtml) for the most accurate reproduction.*
 
 # Wrestling News & Headlines - eWrestlingNews.com - Latest Wrestling, UFC, MMA News
 
