@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelking.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303092310id_/http%3A//www.channelking.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelking.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802095527id_/http%3A//www.channelking.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Internet TV - Channel King
 
