@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wcbstv.com privacy policy that was archived on 2009-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614110811id_/http%3A//wcbstv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wcbstv.com privacy policy that was archived on 2009-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090802123221id_/http%3A//wcbstv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta http-equiv="expires" content="-1"><meta http-equiv="pragma" content="no-cache"><title>
 	Privacy Policy - wcbstv.com
@@ -64,9 +64,9 @@
     hbx.cp = "null"; //LEGACY CAMPAIGN
 
     //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+
+    
 </script>
-<script type="text/javascript" language="javascript1.1" src="http://llnw.static.cbslocal.com/Themes/CBS/_resources/js/hbx.js"></script>
-<script type="text/javascript" src="http://llnw.static.cbslocal.com/Themes/CBS/_resources/js/hbxadditions.js"></script>
 <script type="text/javascript" language="javascript">    if (navigator.appName != 'Netscape' && parseInt(navigator.appVersion) == 4) document.write("<\!" + "--")</script><noscript>
 <img src="http://ehg-viacom.hitbox.com/HG?hc=we09&amp;cd=1&amp;hv=6&amp;ce=u&amp;hb=DM53070389SR78EN3;DM5307034LFA78EN3;DM5507269ICE78EN3&amp;n=Privacy+Policy&amp;vcon=/noscript;/wcbstv.com/noscript;/wcbstv.com/noscript&amp;seg=&amp;cmp=&amp;gp=&amp;fnl=&amp;pec=&amp;dcmp=&amp;ra=&amp;gn=&amp;cv=&amp;ld=&amp;la=&amp;c1=&amp;c2=&amp;c3=&amp;c4=" border="0" width="1" height="1" />
 </noscript><!--//-->
@@ -75,7 +75,45 @@
     
          
     <script type="text/javascript" src="http://llnw.static.cbslocal.com/Themes/CBS/_resources/js/cbs.js"></script>
-    <script type="text/javascript" src="http://llnw.static.cbslocal.com/Themes/CBS/_resources/js/jquery.js"></script>
+    
+    
+    
+    
+    
+    <script type="text/javascript" language="javascript">
+        pagers = {};
+
+        function InitPagingControl(obj) {
+
+            if (!pagers[obj.ContainerID])
+                pagers[obj.ContainerID] = {};
+
+            pagers[obj.ContainerID] = obj;
+
+        }
+
+
+        function pageControl(containerID, pageNumber) {
+            if (!pagers[containerID])
+                alert("error: can't find pager");
+            else {
+                pagers[containerID].CurrentPageNumber = pageNumber;
+
+                jQuery.post('http://wcbstv.com/services/PagingHandler.ashx?sid=1463',
+                pagers[containerID],
+                function(data, textstatus) {
+                    if (textstatus == "success") {
+                        var jData = jQuery(data);
+                        if (jData.length > 0) {
+                            var htmlData = jData[jData.length - 1];
+                            jQuery("#" + containerID).html(htmlData);
+                        }
+                    }
+                });
+            }
+        }
+    
+    </script>
     
     
     
@@ -94,7 +132,7 @@
 
 
 <script src="http://llnw.static.cbslocal.com/Themes/CBS/WCBS/js/menu_data_prod.js" type="text/javascript"></script>
-      
+          
     
 
 
@@ -240,42 +278,40 @@
                 <div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModuleZone_11" class="cbstv_top_one_column">
                 <div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_660753_divLinkset" class="cbstv_linkset_none">
       
-</div><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_558632_divAd" class="cbstv_module_nowrap">
-    
-    <div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_558632" class="cbstv_adpreview_pop"></div>
-    <script type="text/javascript">
-        dcAd('cbs.wcbs', 'privacy', 'leaderboard', 'pg=privacy;l1=community;l2=station_information;loc=top;', false);
-    </script></div> </div>
+</div><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_558632_divAd" class="cbstv_module_nowrap cbstv_leaderboard cbstv_module_hideonpopup"><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_558632" class="cbstv_adpreview_pop"></div><script type="text/javascript">dcAd('cbs.wcbs', 'privacy', 'leaderboard', 'pg=privacy;l1=community;l2=station_information;loc=top;', false);</script></div> </div>
                 
                 
 
+<!-- root element for scrollable -->
+
+
+<a class="prev" id="cbstv_prev" style="display:none;"></a>
+<div class="navi" id="cbstv_navi" style="display:none;"></div>
+<a class="next" id="cbstv_next" style="display:none;"></a>
+
+<!-- javascript coding -->
 <script type="text/javascript">
-   $(document).ready(function() {
-        $(function() {
-            var rotateSeconds = 8;
-            var selectedThisTab = 0;
-            var numberTabs = 0-1;
-            
-            if (numberTabs > 1) {
-                if (rotateSeconds > 0) {
-                    $('#ctl00_ctl00_ContentModulesPlaceHolder_cntAlert_divTabbedAlerts').tabs(
-                        { fx: { opacity: 'toggle'} }
-                        ).tabs('rotate', rotateSeconds * 1000);
-                }
-                else {
-                    $('#ctl00_ctl00_ContentModulesPlaceHolder_cntAlert_divTabbedAlerts').tabs({ fx: { opacity: 'toggle'} })
-                }
-                $("#ctl00_ctl00_ContentModulesPlaceHolder_cntAlert_divTabbedAlerts").tabs('select', selectedThisTab);
-            }
-            
-            $("#ctl00_ctl00_ContentModulesPlaceHolder_cntAlert_divTabbedAlerts #tabsul").hide();
+    // execute your scripts when DOM is ready. this is a good habit
+    $(function() {
+    $(document).ready(function() {
+            // initialize scrollable
+        $("#ctl00_ctl00_ContentModulesPlaceHolder_cntAlert_divTabbedAlerts").scrollable({
+                size: 1,
+                items: '#thumbs',
+                loop: 'true',
+                interval: 8000,
+                clickable: false
+            });
         });
+        if (0 > 2)
+        {
+            $("#cbstv_prev").show();
+            $("#cbstv_navi").show();
+            $("#cbstv_next").show();
+            $("#cbstv_prev").css('margin-left', 222-((0-1)*5));
+        }
     });
 </script>
-
-
-
-
 		        
                 <div id="ctl00_ctl00_ContentModulesPlaceHolder_PageHeaderPanel">
 	
@@ -358,12 +394,7 @@
     
     // ]]>
     </script>
-</div><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_31359_divAd" class="cbstv_module_wrap_pad cbstv_boxad_wrapper">
-    
-    <div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_31359" class="cbstv_adpreview_pop"></div>
-    <script type="text/javascript">
-        dcAd('cbs.wcbs', 'privacy', 'messaging', 'pg=privacy;l1=community;l2=station_information;', false);
-    </script></div> </div>
+</div><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_31359_divAd" class="cbstv_module_wrap_pad cbstv_boxad_wrapper"><div id="ctl00_ctl00_ContentModulesPlaceHolder_ContentModule_31359" class="cbstv_adpreview_pop"></div><script type="text/javascript">dcAd('cbs.wcbs', 'privacy', 'messaging', 'pg=privacy;l1=community;l2=station_information;', false);</script></div> </div>
                 </div>
                     
                 
@@ -392,5 +423,6 @@
     <script type="text/javascript">_qoptions = { tags: "CBS Local Television Sites.CBS Stations,WCBS,New York" }; _qacct="p-51jhoCdjGFIVU";quantserve();</script>
     <noscript><a href="http://www.quantcast.com/p-51jhoCdjGFIVU" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-51jhoCdjGFIVU.gif?tags=CBS%20Local%20Television%20Sites.CBS%20Stations,WCBS,New%20York" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
      
+
 
 </body></html>
