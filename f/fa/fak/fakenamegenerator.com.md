@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429113135id_/http%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802045243id_/http%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
 
-# Fake Name Generator - Get a Random Name
+# Privacy Policy - Fake Name Generator
 
 ## Privacy Policy
 
@@ -22,4 +22,4 @@ No. The only information we will ever sell or release to third-parties is random
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie at anytime by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie at anytime by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
