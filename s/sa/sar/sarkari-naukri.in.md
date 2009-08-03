@@ -1,0 +1,26 @@
+> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803133526id_/http%3A//sarkari-naukri.in/privacy-policy.htm) for the most accurate reproduction.*
+
+# 
+
+Disclaimer Policy ,Copyright Policy and Terms of usage of this site 
+
+Privacy Policy  
+We at SarkarJobs recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and the blog , and how we safeguard your information. We use third party advertisements such as Google Adsense and Adbrite to get Financial Support. These programs match the content with the advertisements and present them on the site so that any publisher may receive the " portion of advertising amount" based upon clicks or impressions to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. However You don't need to worry as this is generally used for geo targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). This is used by almost all sites on which advertisements are shown. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs . However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+To know more about Adsense [ know more about adsense](https://www.google.com/adsense/support/bin/answer.py?answer=9712&topic=13488)
+
+To know more about Adbrite[ know more about adbrite](http://www.adbrite.com/mb/landing_both.php?spid=111529&afb=120x60-1-blue)
+
+For SarkarJobs.com : Site admin ,Shruthi ( Author & Publisher)   
+* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative, or NAI, which suggests the following language for data collection of non-personally identifying information: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+
+Copyright & Disclaimer Policy of this Site 
+
+The sarkarjobs.com /posts/content presented in this site has been collected from various Government/PSU sector companies,different newspapers and each job has the Resource/Credit mentioned below clearly indicating the origin of Job. So please visit also the Gazette/Employment news/organisation/firm's Press relese/website before applying for any job. No other website can claim it as their original own work other than the actual employer company who are inviting the candidates and giving jobs. As the jobs are for general public. Any employer who feels that the services of Sarkarjobs are incorrect, please inform us immediately.   
+The contents of this notification news are informatory in nature. Candidates are advised to refer to the notice published in Employment News/Gazette/Respective organization's press news.We do not take any responsibility for any errors/omissions going inadvertenly.The aim of this website [sarkarjobs.com](http://sarkarjobs.com/) is to provide quality and timely information related to the jobs and careers, however we does not take responsibility for all the content with respect to authenticity and timeliness. The jobs mentioned are not patent to anyone or anyother website. We have very clearly mentioned the Credits. 
+
+Get all information on PSC Jobs here- [ PSCBulletin.com
+
+Get all information on UPSC Jobs here- 
+
+](http://www.pscbulletin.com/)[ UPSCBulletin.com](http://www.upscbulletin.com/)
