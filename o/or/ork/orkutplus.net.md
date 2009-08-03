@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305154404id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803111109id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
 
-# Orkut Plus! » Privacy Policy
-
- 
+# Privacy Policy » Orkut Plus!
 
 We respect your privacy and are committed to safeguarding your privacy while you are online at [Orkut Plus!](http://orkutplus.net/) ([orkutplus.net](http://orkutplus.net/)) .
 
@@ -21,11 +19,15 @@ If you [subscribe](http://www.orkutplus.net/subscribe) to our posts via e-mail (
 
 A cookie is a piece of data stored on the user’s computer tied to information about the user. This site uses cookies for tracking visitors’ activity. Some of our advertisers use cookies on our site. However, we have no access to or control over these cookies, once we have given permission to them to set cookies for advertising.
 
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 **Links**
 
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of those websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Advertisers**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 We allow and use outside ad companies to display ads on this site. These ads may contain cookies and are collected by the ad companies, and we do not have access to these information. We work with the following ad companies: [Google Adsense](http://www.google.com/intl/en-GB/privacypolicy.html), [Kontera](http://www.kontera.com/kontera-privacy-policy) and [Chitika](http://chitika.com/privacy_policy.php). Please check their websites for respective privacy policies.
 
@@ -44,9 +46,3 @@ You are strictly advised to read our [disclaimer](http://www.orkutplus.net/discl
 **Contact**
 
 If you have any questions or suggestions regarding our privacy policy, please use this [contact form](http://www.orkutplus.net/contact).
-
- 
-
-All Comments are Moderated in accordance with our [Comments Policy](http://www.orkutplus.net/comments-policy). Please be relevant, explain your problem properly. We love to help. 
-
-**Note** \- If your comment is not related to this post, please use our [Orkut Help and Support Forums](http://www.orkutplus.net/forum/).
