@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627085626id_/http%3A//www.accuquilt.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803042003id_/http%3A//www.accuquilt.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # GO! and Studio fabric cutters, quilting cutting system | AccuQuilt
 
-[home](https://web.archive.org/web/20090627085626id_/http%3A//www.accuquilt.com/homepage.asp) > [help center](https://web.archive.org/web/20090627085626id_/http%3A//www.accuquilt.com/helpCenter.asp) > [**privacy policy**](https://web.archive.org/web/20090627085626id_/http%3A//www.accuquilt.com/privacyPolicy.asp)
+[home](https://web.archive.org/web/20090803042003id_/http%3A//www.accuquilt.com/homepage.asp) > [help center](https://web.archive.org/web/20090803042003id_/http%3A//www.accuquilt.com/helpCenter.asp) > [**privacy policy**](https://web.archive.org/web/20090803042003id_/http%3A//www.accuquilt.com/privacyPolicy.asp)
 
 This Privacy Statement discloses the privacy practices for the entire Web site. Questions regarding this statement should be directed to AccuQuilt support services by [e-mail](mailto:info@accuquilt.com) or by mail to 1035 E. Dodge Street, Fremont, NE 68025.
 
@@ -12,11 +12,11 @@ This Privacy Statement discloses the privacy practices for the entire Web site. 
 
 
 
-**AccuQuilt's Privacy Philosophy**
+AccuQuilt's Privacy Philosophy
 
 Your privacy on the Internet is important to us. Because we gather certain types of information about AccuQuilt users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
 
-**Information that AccuQuilt Gathers**
+Information that AccuQuilt Gathers
 
 AccuQuilt gathers two types of information about users: 
 
@@ -31,9 +31,9 @@ AccuQuilt gathers two types of information about users:
 
 Aggregated tracking information helps us to determine which areas of our site users like and don't like based on traffic to those areas. AccuQuilt does not track what you read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-**How AccuQuilt Uses Information**
+How AccuQuilt Uses Information
 
-AccuQuilt uses any personal information that's voluntarily given by you in order to enhance your experience, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users. AccuQuilt also uses information that you voluntarily provide in order to send electronic updates and to let you participate in polls and message boards.
+AccuQuilt uses any personal information that's voluntarily given by you in order to enhance your experience, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users.
 
 AccuQuilt will not disclose any information that personally identifies you to parties other than AccuQuilt and its parent company without your consent. There are exceptions: 
 
@@ -42,14 +42,14 @@ AccuQuilt will not disclose any information that personally identifies you to pa
 
 
 
-**Contests and Sweepstakes**
+Contests and Sweepstakes
 
 AccuQuilt occasionally offers contests and sweepstakes in which we request certain personal information on a voluntary basis. These contests and sweepstakes are conducted in full accordance with United States federal and state laws.
 
-**Search Terms**
+Search Terms
 
 As a measure of user interest, we track search terms that are entered into our site. We create aggregate reports on user demographics and traffic patterns to improve shopping and user experiences.
 
-**Cookies and Tracking**
+Cookies and Tracking
 
 A cookie is a small data file that Web sites commonly write to your hard drive when you visit them. A cookie file contains information that can identify you anonymously in order to track traffic patterns on our site. The data is encrypted for your added security. AccuQuilt uses cookies as a way to measure activity on the site in order to continually improve your experience.
