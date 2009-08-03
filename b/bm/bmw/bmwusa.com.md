@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209045545id_/http%3A//bmwusa.com/Standard/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803144752id_/http%3A//www.bmwusa.com/Standard/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Overview - BMW - BMW North America
 
