@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501090641id_/http%3A//www.trysensa.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trysensa.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803162741id_/http%3A//www.trysensa.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Natural Weight Loss System - Try Sensa.com
 
