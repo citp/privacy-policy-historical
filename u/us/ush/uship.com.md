@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328125538id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uship.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803142416id_/http%3A//www.uship.com/privacy.aspx) for the most accurate reproduction.*
 
 # uShip - The Online Shipping and Moving Marketplace - Privacy Policy
 
@@ -100,7 +100,7 @@ If you use a bulletin board on the Site, you should be aware that any personally
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information, including your email address, changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member Account page or by emailing our Customer Support at [service@uShip.com](mailto:service@uShip.com).
+If your personally identifiable information, including your email address, changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member Account page or by contacting our Customer Support at [uShip Member Support](http://www.uship.com/support/).
 
 ## Security
 
@@ -120,7 +120,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy and email practices, please contact us at: [service@uShip.com](mailto:service@uShip.com). 
+If you have any questions or suggestions regarding our privacy policy and email practices, please contact us at: [uShip Member Support](http://www.uship.com/support/). 
 
 uShip, Inc.  
 3601 S. Congress Avenue  
