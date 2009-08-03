@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622063415id_/http%3A//www.rollercoaster.ie/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoaster.ie privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803104552id_/http%3A//www.rollercoaster.ie/misc/privacy.asp) for the most accurate reproduction.*
 
 # Advice & support on being pregnant, pregnancy, baby, Childcare and parenting in Ireland - RollerCoaster.ie
 
