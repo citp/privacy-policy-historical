@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotteobserver.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122223143id_/http%3A//www.charlotteobserver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotteobserver.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803072449id_/http%3A//www.charlotteobserver.com/privacy_policy) for the most accurate reproduction.*
 
 # None
 
