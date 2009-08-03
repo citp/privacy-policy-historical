@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601125156id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803071327id_/http%3A//pdaphonehome.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PDAPhoneHome.com - Privacy Policy
 
-|  **» June 2009**  
+|  **» August 2009**  
 ---  
 S | M | T | W | T | F | S  
-31|  1  |  2  |  3  |  4  |  5  |  6   
-7  |  8  |  9  |  10  |  11  |  12  |  13   
-14  |  15  |  16  |  17  |  18  |  19  |  20   
-21  |  22  |  23  |  24  |  25  |  26  |  27   
-28  |  29  |  30  | 1| 2| 3| 4  
+26| 27| 28| 29| 30| 31|  1   
+2  |  3  |  4  |  5  |  6  |  7  |  8   
+9  |  10  |  11  |  12  |  13  |  14  |  15   
+16  |  17  |  18  |  19  |  20  |  21  |  22   
+23  |  24  |  25  |  26  |  27  |  28  |  29   
+30  |  31  | 1| 2| 3| 4| 5  
   
 **» Advertiser**  
 ---  
   
 |   
   
-**»[Online Users: 513](http://pdaphonehome.com/forums/online.php)**  
+**»[Online Users: 517](http://pdaphonehome.com/forums/online.php)**  
 ---  
-12 members and 501 guests  
-[alanb](http://pdaphonehome.com/forums/members/alanb.html), [ccx33911](http://pdaphonehome.com/forums/members/ccx33911.html), [dfkimbro](http://pdaphonehome.com/forums/members/dfkimbro.html), [Fannatick](http://pdaphonehome.com/forums/members/fannatick.html), [gigastorm](http://pdaphonehome.com/forums/members/gigastorm.html), [Heratiki](http://pdaphonehome.com/forums/members/heratiki.html), [k4955](http://pdaphonehome.com/forums/members/k4955.html), [marioval](http://pdaphonehome.com/forums/members/marioval.html), [pbajr](http://pdaphonehome.com/forums/members/pbajr.html), [rearviewmirror](http://pdaphonehome.com/forums/members/rearviewmirror.html), [TheNog](http://pdaphonehome.com/forums/members/thenog.html), [xrtfan](http://pdaphonehome.com/forums/members/xrtfan.html)  
+10 members and 507 guests  
+[Insourous](http://pdaphonehome.com/forums/members/insourous.html), [jglasco80](http://pdaphonehome.com/forums/members/jglasco80.html), [luxuryvacation](http://pdaphonehome.com/forums/members/luxuryvacation.html), [mknollman](http://pdaphonehome.com/forums/members/mknollman.html), [nkoom](http://pdaphonehome.com/forums/members/nkoom.html), [sbdan](http://pdaphonehome.com/forums/members/sbdan.html), [theubergeek](http://pdaphonehome.com/forums/members/theubergeek.html), [tmsnana](http://pdaphonehome.com/forums/members/tmsnana.html), [TommyKaira](http://pdaphonehome.com/forums/members/tommykaira.html), [V-Dub](http://pdaphonehome.com/forums/members/v-dub.html)  
 Most users ever online was 2605, 03-10-2008 at 03:24 PM.  
   
 |  **» Privacy Policy**  
