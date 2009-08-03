@@ -1,0 +1,312 @@
+<!--The following is the downloaded HTML source of the tonzr.com privacy policy that was archived on 2009-08-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090803114947id_/http%3A//www.tonzr.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<!-- Special thanks to jQuery... I hated javascript before jQuery came along. -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Tonzr - Privacy Policy</title>
+	<link rel="stylesheet" type="text/css" href="/files/screen.css?004" media="screen">
+	<link rel="shortcut icon" type="image/ico" href="http://www.tonzr.com/favicon.png">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/files/scripts/sound.js"></script>
+	<script type="text/javascript" src="/files/scripts/jquery.maskedinput-1.2.2.min.js"></script>
+<script type="text/javascript">
+
+(function($) {
+	var map=new Array();
+	$.Watermark = {
+		ShowAll:function(){
+			for (var i=0;i<map.length;i++){
+				if(map[i].obj.val()==""){
+					map[i].obj.val(map[i].text);					
+					map[i].obj.css("color",map[i].WatermarkColor);
+				}else{
+				    map[i].obj.css("color",map[i].DefaultColor);
+				}
+			}
+		},
+		HideAll:function(){
+			for (var i=0;i<map.length;i++){
+				if(map[i].obj.val()==map[i].text)
+					map[i].obj.val("");					
+			}
+		}
+	}
+	
+	$.fn.Watermark = function(text,color) {
+		if(!color)
+			color="#aaa";
+		return this.each(
+			function(){		
+				var input=$(this);
+				var defaultColor=input.css("color");
+				map[map.length]={text:text,obj:input,DefaultColor:defaultColor,WatermarkColor:color};
+				function clearMessage(){
+					if(input.val()==text)
+						input.val("");
+					input.css("color",defaultColor);
+				}
+
+				function insertMessage(){
+					if(input.val().length==0 || input.val()==text){
+						input.val(text);
+						input.css("color",color);	
+					}else
+						input.css("color",defaultColor);				
+				}
+
+				input.focus(clearMessage);
+				input.blur(insertMessage);								
+				input.change(insertMessage);
+				
+				insertMessage();
+			}
+		);
+	};
+})(jQuery);
+
+jQuery.preloadImages = function()
+{
+    for(var i = 0; i<arguments.length; i++)
+    {
+        jQuery("<img>").attr("src", arguments[i]);
+    }
+}
+
+	$("document").ready(function(){
+
+		$("#field").Watermark("Type song OR artist name here");
+		
+		
+		$.preloadImages("/files/images/ajax.gif",
+                "/files/images/row-bg.gif",
+                "/files/images/audio-sample.gif",
+                "/files/images/audio-sample-hover.gif",
+                "/files/images/loading.gif",
+                "/files/images/loading-hover.gif",
+                "/files/images/equalizer.gif",
+                "/files/images/equalizer-hover.gif");
+
+
+		$(".number").mask("(999) 999-9999");
+		
+		$("form.send-form").submit(function(){
+			$(this).addClass('hidden');
+			$(this).prev().removeClass('hidden');
+			$(this).prev().html('<div align="center"><img src="/files/images/ajax.gif" align="absmiddle" /> Hold on while we contact the ringtone fairy.</div>');
+			$form = $(this).attr('id');
+
+			
+			$.post("/ajax/send-tone", { 
+					ringtoneID: $(this).find('.ringtoneID').val(),
+					phoneNumber: $(this).find('.number').val(),
+					downloadMethod: $(this).find('.method').val(),
+					filename: $(this).find('.filename').val()
+			},
+					  function(data){
+				if(data.error){
+					$('#'+$form).prev().addClass('hidden');
+					$('#'+$form+' .error-message').html(data.message);
+					$('#'+$form).removeClass('hidden');
+				} else {
+				   $('#'+$form).prev().html(data.message);
+				}
+					  }, "json");
+
+
+			$method = $(this).find(".method").val();
+			$number = $(this).find(".number").val()
+			return false;
+		});
+		        
+		/**
+		 * Search Results
+		 */
+
+		$(".result").hover(function () {
+			$(this).addClass("result-hover");
+		},function () {
+			$(this).removeClass("result-hover");
+		});
+
+
+		$(".track-title").click(function(){
+			$(".result").removeClass("current");
+			$(".form").slideUp("normal");
+			if ($(this).parent().parent().next().is(":hidden")) {
+		       $(this).parent().parent().next().slideDown("normal");
+		       $(this).parent().parent().toggleClass("current");
+			}
+	    });
+
+
+		
+	});
+
+	soundManager.url = '/files/sound_flash9.swf';
+	soundManager.flashVersion = 9;
+	
+	soundManager.onload = function() {
+		$(".audio-sample").click(function(){
+			if($(this).hasClass("playing") == true && $(this).hasClass("loading") == false){
+				$(this).removeClass("playing");
+				stopSounds(); 
+			} else if ($(this).hasClass("loading") == true) {
+
+
+
+			} else {
+				$(".audio-sample").removeClass("playing");
+				$(this).addClass("playing");
+				$(this).addClass("loading");
+				preview($(this).attr("rel"));
+			}
+		});
+	}
+	
+	stopSounds = function(){
+		soundManager.destroySound('mySound');
+		$(".audio-sample").removeClass("playing");
+	}
+	
+	function preview(url){
+		//console.log(url);
+		soundManager.destroySound('mySound');
+		soundManager.createSound({
+			id: 'mySound',
+			url: url,
+			autoLoad: true,
+			stream: true,
+			autoPlay: true,
+			onfinish: stopSounds,
+			onbufferchange: function(){ 
+				if(this.isBuffering == false){
+					$('.audio-sample').removeClass('loading');
+				}
+			}
+		});
+	}
+</script>
+</head>
+<body>
+	<ul class="access">
+		<li><a href="#content">Skip to content</a></li>
+		<li><a href="#results">Skip to results</a></li>
+	</ul>
+	<ul id="menu">
+		<li><a href="/"><span>Home</span></a></li>
+		<li><a href="/about.php"><span>About</span></a></li>
+		<li><a href="/labs.php"><span>Labs</span></a></li>
+		<li><a href="/faq.php"><span>FAQ</span></a></li>
+		<li><a href="/advertise.php"><span>Advertise</span> <sup>NEW!</sup></a></li>
+	</ul>
+	
+	<div id="header-contain">
+		<div id="header">
+			<h1 class="access">Tonzr - Endless MP3 ringtones.</h1>
+			<div id="beta"><p class="access">(Currently in beta)</p></div>
+			<div id="search">
+				<div style="width: 468px; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; padding-bottom: 2px; height: 15px; background-color: #2E3033;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9094114229790592";
+/* Tonzr Header Ad 468x15, created 12/5/08 */
+google_ad_slot = "0895451202";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>				
+				<form id="search-form" method="get" name="search" action="/">
+										<label for="q" class="access">Ringtone: </label><input autocomplete="off" type="text" name="q" id="field">
+					<input type="submit" value="Find Ringtones!" id="button">
+				</form>
+				
+			</div> <!-- /search -->
+		</div> <!-- /header -->
+	</div> <!-- /header-contain -->
+
+
+	<div id="content-contain">
+		<div id="content">
+			
+							<div class="column-left">
+						
+				<h3>Tonzr's Stance on Privacy</h3>
+
+<p><i>Last updated April 2nd, 2009.</i></p>
+
+<p>We understand that you are placing great trust in Tonzr when entering your cell phone number on our site. 
+It is currently Tonzr's stance to keep all of our visitors personal information safe and private. This means that 
+as it stands, Tonzr will not provide anyone's cell phone number to our advertisers (or any other third party)
+ in any way, shape, or form.
+</p>
+
+
+<p>Additionally, Tonzr uses Google as a third-party advertising company to serve ads when you visit our website. 
+Google may use information (<strong>not including</strong> your name, address, email address, 
+or telephone number) about your visits to this and other websites in order to provide advertisements 
+about goods and services of interest to you. If you would like more information about this practice 
+and to know your choices about not having this information used by Google, 
+<a href="http://www.google.com/privacy_ads.html" style="text-decoration: underline;">click here</a>.</p>
+
+<p>Of course, like every other site on the internet; although unlikely to happen, we reserve 
+the right to change our stance on user privacy at any time. Any changes will be reflected on this page.</p>				
+							</div>
+						
+			
+							        <div class="column-right">
+        	<h3>Like Tonzr?</h3>
+            <p align="center">
+            <a href="http://twitter.com/tonzr" style="border: none;" target="_blank"><img src="/files/images/twitter.png"></a>
+            </p>
+            <p>
+            	<a href="http://twitter.com/tonzr" target="_blank" class="bookmark">
+            	<img src="/files/images/twitter-icon.png" alt=""> Follow us on Twitter!</a>
+                <a href="http://www.myspace.com/tonzrringtones" class="bookmark">
+            	<img src="/files/images/myspace.png" alt=""> Be our friend on MySpace!</a>
+                <a href="http://www.facebook.com/pages/Tonzrcom/106657145547" class="bookmark">
+            	<img src="http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif" alt=""> Be our fan on Facebook!</a>
+                <a href="http://digg.com/music/Tonzr_Free_Ringtones" class="bookmark">
+            	<img src="/files/images/bookmark-digg.gif" alt=""> Digg it!</a>
+                <a href="http://www.stumbleupon.com/submit?url=http://www.tonzr.com/" class="bookmark">
+            	<img src="/files/images/bookmark-su.gif" alt=""> StumbleUpon</a>
+            </p>
+        </div>						
+			
+			<div class="clear" style="height: 15px;"> </div>
+			
+			<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9094114229790592";
+/* Tonzr */
+google_ad_slot = "5356625063";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>			<br>
+			
+		</div> <!-- /content -->
+	</div> <!-- /content-contain -->
+
+	<div id="footer">
+        <p>© 2009 Tonzr.com - <a href="/privacy-policy.php" style="text-decoration: underline;">Your Privacy</a></p>
+        <p>Disclaimer: The downloads available from Tonzr are for personal use (mobile phones) only.</p><p>Please do not copy, modify, distribute or sell the whole or parts of these files without permission of the creator.</p>
+            </div>
+    
+    <!-- Google Analytics rocks. -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-8180782-1");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+
+<div id="sm2-container" class="movieContainer" style="position: absolute; width: 1px; height: 1px; top: -999px; left: -999px;"><embed name="sm2movie" id="sm2movie" src="./soundmanager2.swf" width="100%" height="100%" quality="high" allowscriptaccess="always" bgcolor="#ffffff" pluginspage="https://web.archive.org/web/20100102003836/http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode=""></div></body></html>
