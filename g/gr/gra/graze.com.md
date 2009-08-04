@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221050232id_/http%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804080717id_/http%3A//www.graze.com/help/privacy) for the most accurate reproduction.*
 
 # graze - privacy policy
 
@@ -6,7 +6,7 @@
 
 Please read this Privacy Policy carefully as the terms may have changed since your last visit to this website. By using this website and/or registering with Nature Delivered Ltd, you are accepting and consenting to the practices described in this Privacy Policy. 
 
-Your privacy and security is important to us. . We know that providing personal information is an act of trust and we take that trust seriously. Nature Delivered Ltd will not disclose any of your personal information, including your email address, to any third party without your consent, unless you give us specific consent to act otherwise. Our Privacy Policy describes the ways we capture your personal information and governs how we will deal with it. We aim to ensure that any personal information we obtain and use about you will always be held, used and transmitted in compliance with all applicable data protection rules. If you have questions or concerns about our Privacy Policy, please contact us. 
+Your privacy and security is important to us. We know that providing personal information is an act of trust and we take that trust seriously. Nature Delivered Ltd will not disclose any of your personal information, including your email address, to any third party without your consent, unless you give us specific consent to act otherwise. Our Privacy Policy describes the ways we capture your personal information and governs how we will deal with it. We aim to ensure that any personal information we obtain and use about you will always be held, used and transmitted in compliance with all applicable data protection rules. If you have questions or concerns about our Privacy Policy, please contact us. 
 
 The website may contain links to third parties' websites. Nature Delivered Ltd assumes no responsibility for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those websites. 
 
