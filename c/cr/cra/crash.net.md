@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525200948id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
-[**F1**](https://web.archive.org/web/20090525200948id_/http%3A//www.crash.net/f1) »  [Sir Stirling Moss](https://web.archive.org/web/20090525200948id_/http%3A//www.crash.net/Formula+One/blogs/55069/1/sir_stirling_moss.html) : [2009 so far](https://web.archive.org/web/20090525200948id_/http%3A//www.crash.net/Formula+One/Blog/147184/1/55069/2009_so_far.html) [[6]](https://web.archive.org/web/20090525200948id_/http%3A//www.crash.net/Formula+One/comments/147184/1/a/2009_so_far.html)
+[**MOTOGP**](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/motogp) »  [Smith column](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/MotoGP/blogs/54/1/smith_column.html) : [Highs and lows at Donington Park.](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/MotoGP/Blog/150488/1/54/highs_and_lows_at_donington_park.html) [[13]](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/motogp/comments/150488/1/a/highs_and_lows_at_donington_park.html)
 
-Sir Stirling Moss looks back at the 2009 Formula One season so far as the paddock prepares for this weekend's 'blue riband' event on the streets of Monte Carlo 
+In his latest column for Crash.net, Bradley Smith reflects on the highs and lows of last weekend's British Grand Prix at Donington Park... 
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
 
