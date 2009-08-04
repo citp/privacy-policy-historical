@@ -1,56 +1,106 @@
-> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 1999-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804080216id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# Customer Service FAQs
+# Privacy Policy at CircuitCity.com
 
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/Default.htm)  
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/ccity/store-specials.htm)  
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/products.htm)  
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/help/support.htm)  
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/ccity/locator/index.html)  
-[](https://web.archive.org/web/19981202054858id_/http%3A//www.circuitcity.com/ccity/jobs/jobshome.html)  
-|   
-| 
+TV & HOME ENTERTAINMENT
 
-* * *
+MP3 & PORTABLE ELECTRONICS
 
-**Our On-line Privacy Policy**
+COMPUTERS   
+& OFFICE
 
-Many customers and parents are concerned about their on-line privacy and how information they or their children might provide will be used. Circuit City believes you have a right to know how information you choose to provide will be used. 
+PC   
+COMPONENTS
 
-Circuit City collects no personal information from our on-line visitors. If you respond to a survey or send us an E-mail, we keep no permanent records and only use the information you give us in aggregate or to respond to a request you have made.  
+CAMERAS  
+& CAMCORDERS
 
-Thank you for choosing Circuit City, America's leading specialty electronics retailer! 
+VIDEO  
+GAMING
 
-Visit Your [Nearest Circuit City®](https://web.archive.org/ccity/locator/index.html)
+|  | 
 
-© 1996 - 1998 Circuit City® Stores, Inc.   
-If you have experienced any technical difficulties with this Website, please contact the [Webtech](https://web.archive.org/answeb/webtech_email.asp). 
+CircuitCity.com Privacy Policy (Updated 5/20/2009)
 
-|   
----|---|---|---
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/Default.htm)  
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/ccity/store-specials.htm)  
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/products.htm)  
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/help/support.htm)  
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/ccity/locator/index.html)  
-[](https://web.archive.org/web/19990422070333id_/http%3A//www.circuitcity.com/ccity/jobs/jobshome.html)  
-|   
-| 
+By visiting the CircuitCity.com website or any other websites operated by CircuitCity.com, Inc. or its affiliates (collectively, the “Site”), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
 
-* * *
+CircuitCity.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the honesty and sensitivity you would expect of the Circuit City brand.. 
 
-**Our On-line Privacy Policy**
+1\. Personal Information Collected By CircuitCity.com
 
-Many customers and parents are concerned about their on-line privacy and how information they or their children might provide will be used. Circuit City believes you have a right to know how information you choose to provide will be used. 
+CircuitCity.com uses information that we collect from our visitors and customers to personalize and improve your visit and shopping experience at the Site. We gather the following types of information:
 
-Circuit City collects no personal information from our on-line visitors. If you respond to a survey or send us an E-mail, we keep no permanent records and only use the information you give us in aggregate or to respond to a request you have made.  
+**Information You Give to Us:**   
+We Collect Personal Information that is provided by Site users. “Personal Information” includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our “email a friend” feature. 
 
-Thank you for choosing Circuit City, America's leading specialty electronics retailer! 
+**Web Beacons:**   
+We (or service providers on our behalf) may collect information from visits to the Site through the use of “Web Beacons.” Web Beacons are web page elements which may employ cookie technology that enable us to record data about visits to or transactions made on the Site. This information is sometimes known as “clickstream data.” We may use this data to analyze trends and statistics to improve your online experience or our customer service. No Personal Information is collected through the use of Web Beacons on the Site. 
 
-Visit Your [Nearest Circuit City®](https://web.archive.org/ccity/locator/index.html)
+**Cookies:**   
+Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you. 
 
-© 1996 - 1998 Circuit City® Stores, Inc.   
-If you have experienced any technical difficulties with this Website, please contact the [Webtech](https://web.archive.org/answeb/webtech_email.asp). 
+**Orders:** If you place an order through the Site, you will be required to provide contact, billing, and payment information. 
 
-|   
----|---|---|---
+**Email Newsletter Subscriptions:**   
+Upon placing an order through the Site, you will automatically begin receiving the CircuitCity.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from CircuitCity.com. 
+
+**Sweepstakes Entrants:**  
+From time to time, we may run sweepstakes. If you enter sweepstakes sponsored by us, we employ a double opt-in subscription program. Upon registration, a confirmation email will be sent to the email address you provide to us in connection with your entry which will include instructions, or a link to instructions, for completing the subscription process. You will not be entered until you click through the link in the email we send to you or otherwise follow the instructions contained therein. In order to make our sweepstakes more relevant to you, our servers may receive a confirmation when you open an email message from us. 
+
+2\. Use of Information Collected By Us
+
+We use this information in an effort to improve your experience on the Site, to provide services to you and to communicate with you about information that you request. We may also use this information to help us target specific offers to you, to help us develop and improve our Site, and to tailor our Site to your interests. 
+
+3\. Sharing of Information with Third Parties 
+
+We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Notice.   
+**  
+Service Providers:**  
+We may employ other companies or individuals to provide certain services to or on behalf of us such as analyzing customer lists and data, or performing marketing or consulting services. These third parties (“Service Providers”) will only have access to the information needed to perform these limited functions on our behalf and are required to provide your Personal Information with at least the same level of protection and security as we use on the Site. Such Service Providers are prohibited from using your Personal Information for any purpose other than that for which such party was engaged by us and/or as stated in this Privacy Notice. Any Service Providers that use data received from us may only do so in accordance with this Privacy Notice. 
+
+**Credit Card Companies:**   
+If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing. 
+
+**Fraud Prevention:**  
+We use a third party service provider, Ethoca, Inc., to assist us with preventing and monitoring fraudulent activity on the Site. When you make a purchase on the Site, we may send your Personal Information to Ethoca in order to receive a credit assessment based on such information. Ethoca may also store and use this information in order to expand its fraud prevention database, which may be accessible by other retailers that are part of Ethoca’s anti-fraud network. Ethoca has agreed (i) not to use your Personal Information for any reason except as described in this Privacy Notice, (ii) to maintain the confidentiality of your Personal Information, and (iii) to provide your Personal Information with at least the same level of protection and security as provided on the Site. If you would like more information concerning Ethoca’s privacy practices, go to www.ethoca.com. In the event that your purchase is denied based on a risk assessment provided to us by Ethoca, you may contact us at [ethoca@help.CircuitCity.com](mailto:ethoca@help.CircuitCity.com) to dispute the information contained in such risk assessment. 
+
+**Third Party Marketing Partners:**  
+We will never share any personally identifiable information which you have given us with any third party marketers. Aggregate Information: We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience. 
+
+**Shippers:**  
+If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX, the United States Postal Service, and trucking companies to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.   
+**  
+Third Party Transaction-Level Data:**  
+If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is one indication that the third party website may be able to see your activity on the Site.   
+**  
+Links to Third Party Site:**  
+The Site contains certain links to third party websites, such as our vendors. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
+
+**Law Enforcement and Protection of Users:**  
+To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law. 
+
+4\. Affiliate Programs
+
+We maintain relationships with third party affiliate websites. Although we do not and cannot control the activities of the third parties that operate such websites, we will cease doing business with any affiliate that engages in abusive practices, including, for example, spam, trademark infringement, predatory means of attracting visitors, or unlawful activities. To report abuse by an affiliate, please contact our Affiliate Manager via email at affiliates@CircuitCity.com. 
+
+5\. Children and Privacy
+
+The Site is a general audience website and is not directed to children under the age of 13. We will never knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide us with personally identifiable information of any kind whatsoever. If we become aware that a user is under the age of 13 and has submitted Personal Information without verifiable parental consent, we will remove his or her personally identifiable information from our files. We understand that children may not fully understand all of the provisions of this Privacy Notice or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the websites they visit. CircuitCity.com does not knowingly sell products to persons under the age of 18. If you are under the age of 18, you are required seek the consent of your parent or guardian to purchase products from the Site. 
+
+6\. Security
+
+We employ 128-bit encryption technology in all areas of the Site which require you to provide your personal or account information, including those areas related to online ordering, order status, catalog request and contest forms. The Site utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology to allow for the encryption of potentially sensitive Personal Information, such as your name, address and credit card number. 
+
+You should recognize, however, that no computer system is fully secure and that there are inherent risks associated with Internet transactions. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support. 
+
+7\. Corrections/Information Removal/Opt-Out
+
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [privacy@CircuitCity.com](mailto:privacy@CircuitCity.com). In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@CircuitCity.com, sending a letter to: CircuitCity.com Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. 
+
+8\. Contact Information
+
+If you have any questions or concerns about this Privacy Notice, please e-mail us at [privacy@CircuitCity.com](mailto:privacy@CircuitCity.com) or send a letter to: CircuitCity.com Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144 
+
+9\. Business Transfer
+
+CircuitCity.com, Inc. is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that CircuitCity.com, Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any personal information and basic customer information owned or under the control of CircuitCity.com, Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and other basic customer information we have collected from users of the Site. However, no personal financial information, including credit card information, social security numbers or dates of birth, will ever be part of the information transferred any any such business transfer. 
