@@ -1,9 +1,124 @@
-<!--The following is the downloaded HTML source of the seductiontuition.com privacy policy that was archived on 2007-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071122003226id_/http%3A//www.seductiontuition.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seductiontuition.com privacy policy that was archived on 2009-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090804151839id_/http%3A//www.seductiontuition.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><!-- DW6 --><head>
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><!-- DW6 --><head> 
+<!-- IPO CODE: DROPIN START -->
+<script language="javascript" src="http://www.seductiontuition.com/scripts/DropPopOver.js"></script><script language="javascript">
+var ie=document.all
+var dom = document.getElementById
+var ns4 = document.layers
+var bouncelimit = 32
+var direction = "up"
+var poplayer
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+scroll_top=(ie)? document.body.scrollTop : window.pageYOffset
+mkoverlaydrop(); sl = 0; shadeinoverlay();
+poplayer = document.getElementById("dropin").cloneNode(true);
+poplayer.style.top = (ie)? document.body.clientHeight : scroll_top + 800
+poplayer.style.visibility=(dom||ie)? "visible" : "show"
+document.body.appendChild(poplayer);
+dropstart = setInterval("dropin()", 50)
+}
+function dropin(){
+scroll_top=(ie)? document.body.scrollTop : window.pageYOffset
+if (parseInt(poplayer.style.top)>20+scroll_top)
+poplayer.style.top = parseInt(poplayer.style.top) - 40
+else{
+clearInterval (dropstart)
+bouncestart = setInterval("bouncein()", 50)
+}
+}
+function bouncein(){
+poplayer.style.top = parseInt(poplayer.style.top) - bouncelimit
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit = bouncelimit * -1
+if (bouncelimit==0){
+clearInterval (bouncestart)
+}
+}
+function dismissbox(){
+try {if (document.getElementById('dropframe')) {frames['dropframe'].location.href = 'about:blank';}} catch(e) {}
+if (window.bouncestart) clearInterval(bouncestart)
+sl = 10; shadeoutoverlay();
+poplayer.style.visibility = "hidden"
+}
+function cookiecheck(){
+var currentvalue; 
+var uservalue =1;
+var popoverdelay = 2000;
+if(getcookie('popover') > 0){
+currentvalue = getcookie('popover');
+if(currentvalue == (uservalue+1))
+{
+}
+else
+{
+currentvalue = parseInt(currentvalue) + 1;
+setcookie('popover', currentvalue ,364);
+setTimeout('initbox()', popoverdelay);
+}
+}
+else
+{
+setcookie('popover',2,364);
+setTimeout('initbox()', popoverdelay);
+}
+}
+var no=50
+var dropinoverlay;
+function mkoverlaydrop() {
+dropinoverlay = document.createElement('DIV');
+dropinoverlay.style.position = 'absolute';
+dropinoverlay.style.left = '0px';
+dropinoverlay.style.top = '0px';
+var w = (document.body.scrollWidth>document.body.clientWidth)? document.body.scrollWidth : document.body.clientWidth;
+var h = (document.body.scrollHeight>document.body.clientHeight)? document.body.scrollHeight : document.body.clientHeight;
+w = w + 50;
+h = h + 50;
+dropinoverlay.style.width = w;
+dropinoverlay.style.height = h;
+dropinoverlay.innerHTML = "<table width = " + w + " height = " + h + "> </table>"
+dropinoverlay.style.backgroundColor = "#0F0F0F"
+dropinoverlay.above = poplayer;
+document.body.appendChild(dropinoverlay);
+dropinoverlay.style.opacity = 0;
+dropinoverlay.style.filter = 'alpha(opacity=' + 0 + ')';
+}
+var sl = 0;
+var tm = 14;
+function shadeinoverlay() {
+dropinoverlay.style.opacity = ((no/100) / 10) * sl;
+dropinoverlay.style.filter = 'alpha(opacity=' + (no / 10) * sl + ')';
+sl+=1;
+if (sl<=10)  setTimeout('shadeinoverlay()',tm); }
+function shadeoutoverlay() {
+dropinoverlay.style.opacity = (no/100) / 10 * sl;
+dropinoverlay.style.filter = 'alpha(opacity=' + no / 10 * sl + ')';
+sl-=1;
+if (sl>=0)  {setTimeout('shadeoutoverlay()',tm); }
+else {dropinoverlay.style.visibility = "hidden";
+poplayer.style.visibility = "hidden";
+} }
+function StickyAd()
+{
+if (bouncelimit==0)
+{
+poplayer.style.left = ((ie)? document.body.scrollLeft : window.pageXOffset)+400
+poplayer.style.top = ((ie)? document.body.scrollTop : window.pageYOffset)+20
+}
+}
+</script>
+<!-- IPO CODE: DROPIN END -->
+<!-- IPO CODE: ONLOAD START -->
+<script> function IPOLoad() {cookiecheck();window.onscroll=StickyAd;
+}</script><!-- IPO CODE: ONLOAD END -->
+ 
+ 
 <!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
-<script type="text/javascript" src="scripts/simpletreemenu.js">
+<script type="text/javascript" src="http://www.seductiontuition.com/scripts/simpletreemenu.js">
 /***********************************************
 * Simple Tree Menu- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
@@ -12,62 +127,74 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Privacy Policy Seduction Dating PUA Pick Up Artists</title>
-<!-- InstanceEndEditable -->
-<link rel="stylesheet" type="text/css" href="css/simpletree.css">
-<link rel="alternate" type="application/rss+xml" title="Art of Seduction Pick Up Artists PUA Advice From Seduction Tuition" href="http://www.seductiontuition.com/rss/seductiontuitionlatestarticles.xml">
-<link rel="stylesheet" href="css/main.css" type="text/css">
+<!-- InstanceEndEditable --> 
+<link rel="stylesheet" type="text/css" href="http://www.seductiontuition.com/css/simpletree.css">
+<link rel="alternate" type="application/rss+xml" title="Art of Seduction Pick Up Artists PUA Advice From Seduction Tuition" href="http://feeds.feedburner.com/seductiontuition/articles">
+<link rel="stylesheet" href="http://www.seductiontuition.com/css/main.css" type="text/css">
 <meta name="Abstract" content="Art of seduction by pick up artists pua to get women, attract women, seduce women, pick up women, get girls.">
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="icon" href="favicon.ico">
+<link rel="shortcut icon" href="http://www.seductiontuition.com/favicon.ico">
+<link rel="icon" href="http://www.seductiontuition.com/favicon.ico">
 <!-- InstanceBeginEditable name="head" -->
 <meta name="Keywords" content="privacy, policy, seduction, dating, pick up artists, pua">
 <meta name="Description" content="privacy policy for seduction tuition, the dating and seduction website by pick up artists pua">
 <!-- InstanceEndEditable -->
-</head>
-<body>
-<script type="text/javascript" src="http://media.trafficregenerator.com/js/londonlair/affiliatechain1/trafficregenerator.js"></script>
-<div id="masthead"><!-- InstanceBeginEditable name="Top Right Image" -->
-  <div id="mastheadAdvert"><!-- #BeginLibraryItem "/Library/AdserverHorizontalBanner.lbi" -->
-    <a href="http://www.seductiontuition.com/adserver/adclick.php?bannerid=28&amp;zoneid=1&amp;source=&amp;dest=http%3A%2F%2Fwww.seductiontuition.com%2Fgiuseppe-notte%2Fproblems-with-women+" target="_blank" onmouseover="self.status='http://www.seductiontuition.com/giuseppe-notte/problems-with-women '; return true;" onmouseout="self.status='';return true;"><img src="http://www.seductiontuition.com/banners/banner21.gif" width="468" height="60" alt="Problems With Women" title="Problems With Women" border="0"></a><div id="beacon_28" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=28&amp;clientid=10&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=753a11181181448d466037c123796ddb" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>  <!-- #EndLibraryItem --></div>
-  <!-- InstanceEndEditable -->
-  <div id="siteName">Art of Seduction</div>
+<!--BEGIN TOP MESSAGE-->
+<script type="text/javascript" language="javascript" src="scripts/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" language="javascript" src="scripts/topmessage.js"></script>
+<!--END TOP MESSAGE-->
+</head> 
+<body onload="IPOLoad();">
+<div id="message_box"><img id="close_message" style="float:right;cursor:pointer" src="http://www.seductiontuition.com/images/topmessage/12-em-cross.png"><a href="http://www.seductiontuition.com/thundercat/free-approach-course" rel="nofollow" target="_blank">Four Word Pick Up Line That Works On Beautiful Women 97% Of The Time</a> <span style="font-size:xx-small"> -Regardless of Looks, Age or Bank Account</span></div><div id="beacon_233" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=233&amp;clientid=144&amp;zoneid=35&amp;source=&amp;block=0&amp;capping=2&amp;cb=55cfc8aab13540e3ab4ce62d69d81e5e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>   <div id="dropin" style="position: absolute; visibility: hidden;
+left: 400;
+top: 20;  
+width: 486;
+height: 545;
+border: 3px solid #8080C0;
+background-color: #FFFFFF"><br>
+  <div align="right">
+  <span class="boldRedText">Important: This Popup Will Only Appear Once!</span><font face="Tahoma" size="2"><a href="javascript:void(0);" onclick="dismissbox();return false"><strong> [Close] [X]</strong></a></font>&nbsp;
+ </div>
+<iframe id="dropframe" src="http://puatraining.com/optin.html" width="97%" height="545" frameborder="0" scrolling="no"></iframe></div><!-- IPO CODE: DROPIN END --> 
+<div id="masthead"><div id="mastheadAdvert">
+	<div class="subscribe"><h3 class="highlight">Latest Articles Delivered To You: </h3><table border="1">
+  <tbody><tr>
+   <td> <strong>by Email:</strong>  <form style="text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1409042', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+  <input type="text" style="width:140px" name="email"><input type="hidden" value="http://feeds.feedburner.com/~e?ffid=1409042" name="url"><input type="hidden" value="Seduction Tuition" name="title"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"></form></td>
+  <td><a href="http://feeds2.feedburner.com/seductiontuition/articles" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.seductiontuition.com/images/feedburner/feed-icon32x32.png" alt="" style="border:0"></a><strong><a href="http://feeds2.feedburner.com/seductiontuition/articles" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"> by RSS Feed</a></strong><p></p></td>
+  </tr>
+</tbody></table>
+</div>
+<div align="center">
+  
+</div>
+<div id="siteName">Seduction Tuition . Com </div>
   <div id="siteSlogan">How To Attract, Seduce, &amp; Pick Up Women By Pick Up Artists PUAs</div>
-<div id="globalNav">
-<p><strong><a href="http://www.seductiontuition.com/"> Seduction </a>|<a rel="nofollow" href="http://www.seductiontuition.com/about-us.html"> About Us </a>|<a rel="nofollow" href="http://www.seductiontuition.com/live-pick-up" target="_blank">  Live Pickup Videos </a>|<a rel="nofollow" href="http://www.seductiontuition.com/live-audio-pickup" target="_blank">  Live Audio Pickups </a>|<a href="http://www.seductiontuition.com/latest-seduction-articles/"> Latest Seduction Articles </a><br>
-Q &amp; A Articles: <a href="http://www.seductiontuition.com/david-deangelo/double-your-dating-mailbag.html">Double Your Dating </a>|<a href="http://www.seductiontuition.com/swinggcat/real-world-seduction-mailbag.html"> Real World Seduction </a>|<a href="http://www.seductiontuition.com/david-shade/masterful-lover-mailbag.html"> Masterful Lover </a></strong></p>
-</div> 
-<a href="http://www.seductiontuition.com/adserver/adclick.php?bannerid=116&amp;zoneid=17&amp;source=&amp;dest=http%3A%2F%2Fwww.seductiontuition.com%2Fmagic-tricks" target="_blank"></a><p align="center"><a href="http://www.seductiontuition.com/adserver/adclick.php?bannerid=116&amp;zoneid=17&amp;source=&amp;dest=http%3A%2F%2Fwww.seductiontuition.com%2Fmagic-tricks" target="_blank">
-</a><a href="http://www.seductiontuition.com/magic-tricks" target="_blank">
-<img src="http://www.seductiontuition.com/images/magictricks/magictricks72890.jpg" alt="Magic and ESP"></a>
-</p><div id="beacon_116" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=116&amp;clientid=81&amp;zoneid=17&amp;source=&amp;block=0&amp;capping=0&amp;cb=e69378ec13f17a869a5dbec209664d92" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>  <!-- InstanceBeginEditable name="Page Name And Authur" -->
+  <div align="center">
+    </div> 
+  <div id="globalNav">
+<p align="center" class="horizontalnav"><a href="http://www.seductiontuition.com/"> Seduction </a>|<a href="http://www.seductiontuition.com/beginners-guide-to-seduction.html"> Guide To Seduction </a>|<a href="http://www.seductiontuition.com/online-dating.html"> Meet Women Online </a>|<a href="http://www.seductiontuition.com/juggler/wayne-elise-interview.html"> Free Juggler Techniques PDF </a><br><a href="http://www.seductiontuition.com/pick-up-artist-pua-training-bootcamp-usa/"> PUA Bootcamp </a>|<a href="http://www.seductiontuition.com/latest-seduction-articles/"> Latest Seduction Articles </a> |<a href="http://www.seductiontuition.com/seduction-pua-methods.html"> Seduction Methods </a><br>
+Top Rated Advisors: <a href="http://www.seductiontuition.com/david-deangelo/"> David DeAngelo </a>|<a href="http://www.seductiontuition.com/swinggcat/"> Swinggcat </a>|<a href="http://www.seductiontuition.com/thundercat/"> Thundercat </a>|<a href="http://www.seductiontuition.com/vin-dicarlo/"> Vin DiCarlo </a>|<a href="http://www.seductiontuition.com/david-shade/"> David Shade </a>|<a href="http://www.seductiontuition.com/mystery/"> Mystery </a></p>
+<p align="center">
+<a href="http://www.seductiontuition.com/magic-tricks" target="_blank">
+<img src="http://www.seductiontuition.com/images/pumaskills/magic-tricks-leader-board.jpg" alt="Magic Tricks For DHV"></a>
+</p><div id="beacon_240" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=240&amp;clientid=147&amp;zoneid=17&amp;source=&amp;block=432000&amp;capping=2&amp;cb=9d380a486a1261934eb9b35194d58ddb" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><!-- InstanceBeginEditable name="Page Name And Authur" -->
      <h1 id="pageName">Privacy Policy </h1>
   <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Bread Crumb" -->
      <div id="breadCrumb"><!-- #BeginLibraryItem "/Library/seductiontuition.lbi" --><a href="http://www.seductiontuition.com/">Seduction</a> / <!-- #EndLibraryItem --></div>
      <!-- InstanceEndEditable --></div>
 	 <div id="navRightBar">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><a rel="nofollow" href="http://www.addthis.com/feed.php?pub=nightvision&amp;h1=http%3A%2F%2Fseductiontuition.com%2Frss%2Fseductiontuitionlatestarticles.xml&amp;t1=" target="_blank" title="Subscribe using any feed reader!"><img src="images/addthis/button0-fd.gif" alt="rss feed subscribe" width="83" height="16" border="0"></a></td>
-    <td>
-<!-- AddThis Bookmark Button BEGIN -->
-<script type="text/javascript">
-  addthis_url    = location.href;   
-  addthis_title  = document.title;  
-  addthis_pub    = 'nightvision';     
-</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
-<!-- AddThis Bookmark Button END -->
-</td>
-  </tr>
-</tbody></table>
-<a rel="nofollow" href="http://www.seductiontuition.com/live-pick-up" target="_blank"><img src="http://www.seductiontuition.com/images/gambler/free-seduction-tips.jpg" alt="Watch Live Pickup Videos!" width="200" height="30" border="0"></a>
-
-    
+	<div id="advert">
+  <div align="center"><a href="http://www.seductiontuition.com/attraction-quiz" target="_blank" rel="nofollow"><img src="http://www.seductiontuition.com/images/swinggcat/attractionquiz.gif" alt="How Great Are You With Women.  Take The Quiz!" width="240" height="240" border="0"></a> </div>
+	 </div>	 
 <!-- InstanceBeginEditable name="Right Bar" -->
   <div id="advert">
     <div align="center"><!-- #BeginLibraryItem "/Library/AdserverVerticalRight.lbi" -->
-      <a href="http://www.seductiontuition.com/adserver/adclick.php?bannerid=51&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fwww.seductiontuition.com%2Fderek-vitalio%2Fblissnosis+" target="_blank" onmouseover="self.status='http://www.seductiontuition.com/derek-vitalio/blissnosis'; return true;" onmouseout="self.status='';return true;"><img src="http://www.seductiontuition.com/banners/thumb_blissnosis_program.jpg" width="144" height="190" alt="Give Women Incredible Pleasure" title="Give Women Incredible Pleasure" border="0"></a><div id="beacon_51" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=51&amp;clientid=24&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=0f6bd0b8e12de29cf4cf6b746f4872c4" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>    <!-- #EndLibraryItem --></div>
+      <a href="http://www.seductiontuition.com/adserver/adclick.php?bannerid=43&amp;zoneid=2&amp;source=&amp;dest=http%3A%2F%2Fwww.seductiontuition.com%2Fdavid-deangelo%2Fkiss-test" target="_blank" onmouseover="self.status='http://www.seductiontuition.com/david-deangelo/kiss-test'; return true;" onmouseout="self.status='';return true;"><img src="http://www.seductiontuition.com/banners/367.gif" width="160" height="600" alt="Kiss Test" title="Kiss Test" border="0"></a><div id="beacon_43" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.seductiontuition.com/adserver/adlog.php?bannerid=43&amp;clientid=20&amp;zoneid=2&amp;source=&amp;block=0&amp;capping=0&amp;cb=54a3a6a18777629f0d7ebe48d9492c59" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>    <!-- #EndLibraryItem --></div>
   </div>
   <!-- InstanceEndEditable -->
+  <!-- InstanceBeginEditable name="keys" -->
+  <ul id="treemenu2" class="treeview"><li>Search Queries To Page<ul><li><strong>how to get laid in an hour or less</strong> (1)</li><li>Total:1</li><script type="text/javascript"> ddtreemenu.createTree('treemenu2', false, 1) </script></ul></li></ul> 
+<!-- InstanceEndEditable -->
 </div>
 	 <!-- google_ad_section_start -->
 <!-- InstanceBeginEditable name="Contents" -->
@@ -108,207 +235,114 @@ Q &amp; A Articles: <a href="http://www.seductiontuition.com/david-deangelo/doub
 <!-- InstanceEndEditable -->
 <!--end content --><!-- google_ad_section_end -->
 	<div id="navBar">
-	<div id="newsletter">
-<form method="post" action="http://www.aweber.com/scripts/addlead.pl" target="_new">
-<input type="hidden" name="meta_web_form_id" value="847084765">
-<input type="hidden" name="meta_split_id" value="">
-<input type="hidden" name="unit" value="londonlair">
-<input type="hidden" name="redirect" value="http://www.aweber.com/form/thankyou_vo.html">
-<input type="hidden" name="meta_redirect_onlist" value="">
-<input type="hidden" name="meta_adtracking" value="">
-<input type="hidden" name="meta_message" value="1">
-<input type="hidden" name="meta_required" value="from">
-<input type="hidden" name="meta_forward_vars" value="0">
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><h2 class="highlight">Free Newsletter</h2></td>
-  </tr>
-  <tr>
-    <td><strong>Access hidden areas of  site and up to date material (we value privacy)</strong>.</td>
-  </tr>
-  <tr>
-    <td> <strong>Name:</strong>
-      <input type="text" name="name" value="" size="20"></td>
-  </tr>
-  <tr>
-    <td><strong>Email:</strong>
-      <input type="text" name="from" value="" size="20"></td>
-  </tr>
-  <tr>
-    <td><input type="submit" name="submit" value="Submit"></td>
-  </tr>
-</tbody></table>
-</form>
-	</div>
-<ul id="treemenu1" class="treeview">
-	<li><strong><a rel="nofollow" target="_blank" href="http://www.seductiontuition.com/live-pick-up">Watch Live PickUp Videos</a></strong></li>
-	<li><strong><a rel="nofollow" target="_blank" href="http://www.seductiontuition.com/live-audio-pickup">Listen To Live PickUp Analysis</a></strong></li>
-	<li class="submenu"><strong><a rel="nofollow" href="http://www.seductiontuition.com/pick-up-artists.html">Pick Up Artists</a>  (PUA)</strong>
-		<ul rel="closed">
-			<li><a href="http://www.seductiontuition.com/asian-playboy/">Asian Playboy</a></li>
-			<li><a href="http://www.seductiontuition.com/badboy/">Badboy</a></li>
-			<li><a href="http://www.seductiontuition.com/carlos-xuma/">Carlos Xuma</a></li>
-			<li><a href="http://www.seductiontuition.com/cortez/">Cortez</a></li>
-			<li><a href="http://www.seductiontuition.com/david-deangelo/">David DeAngelo</a></li>
-			<li><a href="http://www.seductiontuition.com/david-m/">David M</a></li>
-			<li><a href="http://www.seductiontuition.com/david-shade/">David Shade</a></li>
-			<li><a href="http://www.seductiontuition.com/derek-vitalio/">Derek Vitalio</a></li>
-			<li><a href="http://www.seductiontuition.com/dimitri/">Dimitri</a></li>
-			<li><a href="http://www.seductiontuition.com/giuseppe-notte/">Giuseppe Notte</a></li>
-			<li><a href="http://www.seductiontuition.com/gunwitch/">Gunwitch</a></li>
-			<li><a href="http://www.seductiontuition.com/harmless/">Harmless</a></li> 
-	    	<li><a href="http://www.seductiontuition.com/herbal/">Herbal</a></li>
-			<li><a href="http://www.seductiontuition.com/hitori/">Hitori</a></li>
-			<li><a href="http://www.seductiontuition.com/ijjjji/">ijjjji</a></li>
-	  		<li><a href="http://www.seductiontuition.com/IN10SE/">IN10SE</a></li>
-			<li><a href="http://www.seductiontuition.com/jlaix/">Jlaix</a></li>
-			<li><a href="http://www.seductiontuition.com/john-alexander/">John Alexander</a></li>
-			<li><a href="http://www.seductiontuition.com/juggler/">Wayne Elise</a></li>
-			<li><a href="http://www.seductiontuition.com/mad-dash/">Mad Dash</a></li>
-			<li><a href="http://www.seductiontuition.com/magnus/">Magnus</a></li>
-			<li><a href="http://www.seductiontuition.com/maniac-high/">Maniac High</a></li>
-			<li><a href="http://www.seductiontuition.com/mav/">Mav</a></li>
-			<li><a href="http://www.seductiontuition.com/mystery/">Mystery</a></li>
-			<li><a href="http://www.seductiontuition.com/nightvision/">NightVision</a></li>
-			<li><a href="http://www.seductiontuition.com/neil-strauss/">Neil Strauss</a></li>
-	  		<li><a href="http://www.seductiontuition.com/organic/">Organic</a></li>
-			<li><a href="http://www.seductiontuition.com/papa/">Papa</a></li>
-			<li><a href="http://www.seductiontuition.com/razorjack/">Razorjack</a></li>
-	  		<li><a href="http://www.seductiontuition.com/robert-greene/">Robert Greene</a></li>
-	  		<li><a href="http://www.seductiontuition.com/ross-jeffries/">Ross Jeffries</a></li>
-			<li><a href="http://www.seductiontuition.com/sean-newman/">Sean Newman</a></li>
-			<li><a href="http://www.seductiontuition.com/sinn/">Sinn</a></li>
-			<li><a href="http://www.seductiontuition.com/swinggcat/">Swinggcat</a></li>
-			<li><a href="http://www.seductiontuition.com/thundercat/">Joseph Matthews</a></li>
-			<li><a href="http://www.seductiontuition.com/toecutter/">Toecutter</a></li>
-			<li><a href="http://www.seductiontuition.com/twentysix/">Twentysix</a></li>
-			<li><a href="http://www.seductiontuition.com/tyler-durden/">Tyler Durden</a></li>
-			<li><a href="http://www.seductiontuition.com/unknown/">Unknown</a></li>
-			<li><a href="http://www.seductiontuition.com/wilder/">Wilder</a></li>
-			<li><a href="http://www.seductiontuition.com/woodhaven/">Woodhaven</a></li>
-		</ul>
-	</li>
-	<li class="submenu" style="background-image: url(&quot;http://www.seductiontuition.com/images/treemenu/open.gif&quot;);"><strong><a rel="nofollow" href="http://www.seductiontuition.com/inner-game.html">Inner Game</a></strong>
-	<ul rel="open" style="display: block;">
-		<li><a href="http://www.seductiontuition.com/women-psychology.html">Women Psychology</a> 
-		</li>
-		<li><a href="http://www.seductiontuition.com/fear-anxiety.html">Fear &amp; Anxiety</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/mindsets-beliefs-attitudes.html">Mindsets Beliefs &amp; Attitudes</a> 
-		</li>
-		<li><a href="http://www.seductiontuition.com/identity.html">Identity &amp; Character</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/concepts-perspectives.html">Concepts &amp; Perspectives</a>
-	</li>
+	 	<ul id="treemenu1" class="treeview"><li><strong><a class="parentCategory" href="http://www.seductiontuition.com/inner-game.html">Inner Game</a></strong>
+	<ul rel="open">
+		<li><a href="http://www.seductiontuition.com/women-psychology.html">Women Psychology</a>		</li>
+		<li><a href="http://www.seductiontuition.com/fear-anxiety.html">Fear &amp; Anxiety</a>		</li>
+		<li><a href="http://www.seductiontuition.com/mindsets-beliefs-attitudes.html">Mindsets Beliefs &amp; Attitudes</a>		</li>
+		<li><a href="http://www.seductiontuition.com/identity.html">Identity &amp; Character</a>		</li>
+		<li><a href="http://www.seductiontuition.com/concepts-perspectives.html">Concepts &amp; Perspectives</a>	</li>
 </ul>
 </li>
-<li class="submenu" style="background-image: url(&quot;http://www.seductiontuition.com/images/treemenu/open.gif&quot;);"><strong><a rel="nofollow" href="http://www.seductiontuition.com/seduction-concepts.html">Outer Game</a></strong>
-	<ul rel="open" style="display: block;">
-		<li><a href="http://www.seductiontuition.com/body-language-flirting.html">Body Language &amp; Flirting</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/approaching-women.html">Approaching</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/attraction-building.html">Building Attraction</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/comfort-building.html">Building Comfort</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/escalation.html">Escalation</a>
-		</li>
-		<li class="submenu"><a href="http://www.seductiontuition.com/closing-concepts.html">Closing</a>
-		<ul rel="closed">
-			<li><a href="http://www.seductiontuition.com/lmr.html">Last Minute Resistance</a>
-			</li>		
+<li><strong><a class="parentCategory" href="http://www.seductiontuition.com/seduction-concepts.html">Outer Game</a></strong>
+	<ul rel="open">
+		<li><a href="http://www.seductiontuition.com/body-language-flirting.html">Body Language &amp; Flirting</a>		</li>
+		<li><a href="http://www.seductiontuition.com/approaching-women.html">Approaching</a>		</li>
+		<li><a href="http://www.seductiontuition.com/attraction-building.html">Building Attraction</a>		</li>
+		<li><a href="http://www.seductiontuition.com/comfort-building.html">Building Comfort</a>		</li>
+		<li><a href="http://www.seductiontuition.com/escalation.html">Escalation</a>		</li>
+		<li><a href="http://www.seductiontuition.com/closing-concepts.html">Closing</a>
+		<ul>
+			<li><a href="http://www.seductiontuition.com/last-minute-resistance-lmr.html">Last Minute Resistance</a>			</li>		
 		</ul>
 		</li>
-		<li><a href="http://www.seductiontuition.com/winging.html">Winging</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/dating.html">Dating</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/relationship.html">Relationship</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/better-lover.html">Better Lover</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/style-adjustments.html">Style And Adjustments</a>
-		</li>
+		<li><a href="http://www.seductiontuition.com/winging.html">Winging</a>		</li>
+		<li><a href="http://www.seductiontuition.com/dating.html">Dating</a>		</li>
+		<li><a href="http://www.seductiontuition.com/relationship.html">Relationship</a>		</li>
+		<li><a href="http://www.seductiontuition.com/better-lover.html">Better Lover</a>		</li>
+		<li><a href="http://www.seductiontuition.com/style-adjustments.html">Style And Adjustments</a>		</li>
 	  </ul>
   </li>
-  <li class="submenu" style="background-image: url(&quot;http://www.seductiontuition.com/images/treemenu/open.gif&quot;);"><strong><a rel="nofollow" href="http://www.seductiontuition.com/seduction-routines.html">PUA Routines</a></strong>
-	  <ul rel="open" style="display: block;">
-			<li><a href="http://www.seductiontuition.com/openers.html">Openers</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/story-telling.html">Story Telling</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/attraction-routines.html">Attraction</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/comfort-routines.html">Comfort</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/dealing-with-obstacles.html">Dealing With Obstacles</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/closing-routines.html">Closing</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/gimmicks-games-tests.html">Gimmicks, Games And Tests</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/transitioning-structure.html">Transitioning &amp; Structure</a>
-		</li>
+  <li><strong><a class="parentCategory" href="http://www.seductiontuition.com/seduction-pua-routines.html">PUA Routines</a></strong>
+	  <ul rel="open"> 
+	  	<li><a href="http://www.seductiontuition.com/transitioning-structure.html">Transitioning &amp; Structure</a>		</li>
+		<li><a href="http://www.seductiontuition.com/canned-pua-openers.html">Openers</a>		</li>
+		<li><a href="http://www.seductiontuition.com/story-telling.html">Story Telling</a>		</li>
+		<li><a href="http://www.seductiontuition.com/attraction-routines.html">Attraction</a>		</li>
+		<li><a href="http://www.seductiontuition.com/comfort-routines.html">Comfort</a>		</li>
+		<li><a href="http://www.seductiontuition.com/dealing-with-obstacles.html">Dealing With Obstacles</a>		</li>
+		<li><a href="http://www.seductiontuition.com/closing-routines.html">Closing</a>		</li>
+		<li><a href="http://www.seductiontuition.com/gimmicks-games-tests.html">Gimmicks, Games And Tests</a>		</li>
 	  </ul>
   </li>
-  <li class="submenu" style="background-image: url(&quot;http://www.seductiontuition.com/images/treemenu/open.gif&quot;);"><strong><a rel="nofollow" href="http://www.seductiontuition.com/seduction-settings.html">Seduction Settings</a></strong>
-	  <ul rel="open" style="display: block;">
-		<li><a href="http://www.seductiontuition.com/night-game.html">Night Game</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/day-game.html">Day Game</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/phone-game.html">Phone Game</a>
-		</li>
-		<li><a href="http://www.seductiontuition.com/online-dating.html">Online Dating</a>
-		</li>
-		<li><a rel="nofollow" href="http://www.seductiontuition.com/speed-dating.html">Speed Dating</a>
-		</li>
-		<li><a rel="nofollow" href="http://www.seductiontuition.com/types-of-women.html">Types Of Women</a>
-		</li>
-		<li><a rel="nofollow" href="http://www.seductiontuition.com/special-occasions.html">Special Occasions</a>
-		</li>
+  <li><strong><a class="parentCategory" href="http://www.seductiontuition.com/seduction-settings.html">Seduction Settings</a></strong>
+	  <ul rel="open">
+		<li><a href="http://www.seductiontuition.com/night-game.html">Night Game</a>		</li>
+		<li><a href="http://www.seductiontuition.com/day-game.html">Day Game</a>		</li>
+		<li><a href="http://www.seductiontuition.com/phone-game.html">Phone Game</a>		</li>
+		<li><a href="http://www.seductiontuition.com/online-dating.html">Online Dating</a>		</li>
+		<li><a href="http://www.seductiontuition.com/types-of-women.html">Types Of Women</a>		</li>
+		<li><a href="http://www.seductiontuition.com/special-occasions.html">Special Occasions</a>		</li>
 	  </ul>
   </li>
-    <li><a rel="nofollow" href="http://www.seductiontuition.com/david-deangelo/double-your-dating-mailbag.html"><strong>DYD Mail Bag</strong></a></li>
-	<li><a rel="nofollow" href="http://www.seductiontuition.com/swinggcat/real-world-seduction-mailbag.html"><strong>Swinggcat Mail Bag</strong></a></li>
-    <li><a rel="nofollow" href="http://www.seductiontuition.com/david-shade/masterful-lover-mailbag.html"><strong>Shades Mail Bag</strong></a></li>
-  <li><a href="http://www.seductiontuition.com/field-reports/index.html"><strong>Field Reports</strong></a></li>
-	 <li><a href="http://www.seductiontuition.com/lay-reports/"><strong>Lay Reports</strong></a>
-    </li>
-  <li><a href="http://www.seductiontuition.com/blogs/"><strong>Blog Roll</strong></a>
-    </li>
+   <li><strong><a class="parentCategory" href="http://www.seductiontuition.com/pickupartist-pua-fitness-health-workout.html">PUA Fitness Health</a></strong></li>
+  <li><strong><a class="parentCategory" href="http://www.seductiontuition.com/pick-up-artists.html">Pick Up Artists</a></strong>
+		<ul>
+      <li><a href="http://www.seductiontuition.com/badboy/">Badboy</a></li>
+	  <li><a href="http://www.seductiontuition.com/brad-p/">Brad P</a></li>
+      <li><a href="http://www.seductiontuition.com/carlos-xuma/">Carlos Xuma</a></li>
+      <li><a href="http://www.seductiontuition.com/cortez/">Cortez</a></li>
+	  <li><a href="http://www.seductiontuition.com/dahunter/">Dahunter</a></li>
+      <li><a href="http://www.seductiontuition.com/david-m/">David M</a></li>
+	  <li><a href="http://www.seductiontuition.com/david-wygant/">David Wygant</a></li>
+      <li><a href="http://www.seductiontuition.com/derek-vitalio/">Derek Vitalio</a></li>
+      <li><a href="http://www.seductiontuition.com/derek-lamont/">Derek Lamont</a></li>
+      <li><a href="http://www.seductiontuition.com/giuseppe-notte/">Giuseppe Notte</a></li>
+      <li><a href="http://www.seductiontuition.com/gunwitch/">Gunwitch</a></li>
+      <li><a href="http://www.seductiontuition.com/harmless/">Harmless</a></li>
+	  <li><a href="http://www.seductiontuition.com/IN10SE/">IN10SE</a></li>
+      <li><a href="http://www.seductiontuition.com/jlaix/">Jlaix</a></li>
+	   <li><a href="http://www.seductiontuition.com/john-alexander/">John Alexander</a></li>
+	   <li><a href="http://www.seductiontuition.com/john-barban/">John Barban</a></li>
+      <li><a href="http://www.seductiontuition.com/maniac-high/">Maniac High</a></li>
+	  <li><a href="http://www.seductiontuition.com/magnus/">Magnus</a></li>
+	   <li><a href="http://www.seductiontuition.com/mad-dash/">Maddash</a></li>
+	   <li><a href="http://www.seductiontuition.com/michael-w/">Michael W</a></li>
+      <li><a href="http://www.seductiontuition.com/neil-strauss/">Neil Strauss</a></li>
+      <li><a href="http://www.seductiontuition.com/organic/">Organic</a></li>
+	  <li><a href="http://www.seductiontuition.com/razorjack/">Razorjack</a></li>
+	  <li><a href="http://www.seductiontuition.com/richard-la-ruina/">Richard La Ruina</a></li>
+      <li><a href="http://www.seductiontuition.com/robert-greene/">Robert Greene</a></li>
+	   <li><a href="http://www.seductiontuition.com/rokker/">Rokker</a></li>
+      <li><a href="http://www.seductiontuition.com/ross-jeffries/">Ross Jeffries</a></li>
+	  <li><a href="http://www.seductiontuition.com/nick-savoy/">Savoy</a></li>
+      <li><a href="http://www.seductiontuition.com/sean-newman/">Sean Newman</a></li>
+      <li><a href="http://www.seductiontuition.com/sebastian-drake/">Sebastian Drake</a></li>
+	  <li><a href="http://www.seductiontuition.com/sinn/">Sinn</a></li>
+	  <li><a href="http://www.seductiontuition.com/tenmagnet/">Tenmagnet</a></li>
+      <li><a href="http://www.seductiontuition.com/toecutter/">Toecutter</a></li>
+      <li><a href="http://www.seductiontuition.com/tyler-durden/">Tyler Durden</a></li>
+      <li><a href="http://www.seductiontuition.com/unknown/">Unknown</a></li>
+	  <li><a href="http://www.seductiontuition.com/juggler/">Wayne Elise</a></li>
+	  <li><a href="http://www.seductiontuition.com/wilder/">Wilder</a></li>
+		</ul>
+	</li> 
+	<li><a href="http://www.seductiontuition.com/field-reports/index.html"><strong>Field Reports</strong></a></li>
+	 <li><a href="http://www.seductiontuition.com/lay-reports/"><strong>Lay Reports</strong></a>    </li>
+  	<li><a href="http://www.seductiontuition.com/david-deangelo/double-your-dating-mailbag.html"><strong>Double Your Dating</strong></a></li>
+	<li><a href="http://www.seductiontuition.com/david-shade/masterful-lover-mailbag.html"><strong>Masterful Lover</strong></a></li>
+	  <li><a href="http://www.seductiontuition.com/blogs/"><strong>Blog Roll</strong></a>    </li>
+
 <script type="text/javascript"> ddtreemenu.createTree("treemenu1", true, 1) </script>
 </ul>
- 
 </div>
 <!--end navBar div -->
-
 <!-- InstanceBeginEditable name="Footer" -->
 <div id="siteInfo">
-  <div align="right"><!-- #BeginLibraryItem "/Library/Footer.lbi" -->
-<a href="http://www.seductiontuition.com/"> Get Women </a>: <a rel="nofollow" href="http://www.seductiontuition.com/disclaimer.html"> Disclaimer </a>|<a rel="nofollow" href="http://www.seductiontuition.com/privacy-policy.html"> Privacy Policy </a>|<a rel="nofollow" href="http://www.seductiontuition.com/resources/"> Resources</a>|<a rel="nofollow" href="recommend" target="_blank">Email This Site To Friend</a>|<a rel="nofollow" href="http://www.seductiontuition.com/contact-us.html"> Contact Us </a> <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/streamlinenet.lbi" -->
-<!-- ADDFREESTATS.COM AUTOCODE V4.0 -->
-<script type="text/javascript">
-<!--
-var AFS_Account="00817741";
-var AFS_Tracker="auto";
-var AFS_Server="www8";
-var AFS_Page="DetectName";
-var AFS_Url="DetectUrl";
-// -->
-</script>
-<script type="text/javascript" src="http://www8.addfreestats.com/cgi-bin/afstrack.cgi?usr=00817741">
-</script>
-<noscript>
-<a href="http://www.addfreestats.com" >
-<img src="http://www8.addfreestats.com/cgi-bin/connect.cgi?usr=00817741Pauto" border="0" title="AddFreeStats.com Free Web Stats!" /></a>
-</noscript>
-<!-- ENDADDFREESTATS.COM AUTOCODE V4.0  -->
-<!-- #EndLibraryItem --></div>
+  <div align="right"><!-- #BeginLibraryItem "/Library/Footer.lbi" --><a rel="nofollow" href="http://www.seductiontuition.com/disclaimer.html"> Disclaimer </a>|<a rel="nofollow" href="http://www.seductiontuition.com/privacy-policy.html"> Privacy Policy </a>|<a href="http://www.seductiontuition.com/resources/"> Resources </a>|<a rel="nofollow" href="http://www.seductiontuition.com/affiliates"> Affiliates </a>|<a rel="nofollow" href="http://www.seductiontuition.com/contact-us.html"> Contact Us </a>| <a rel="nofollow" href="http://www.seductiontuition.com/about-us.html"> About Us </a><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/streamlinenet.lbi" --><!-- #EndLibraryItem --></div>
 </div>
 <!-- InstanceEndEditable -->
-<p align="center" class="siteCopyRight"><strong>© SeductionTuition.com 2007 - PickUp Artists PUA Art of Seduction Advice. How To Attract Seduce &amp; Pick Up Women. Learn From Dating Guru's As Featured in Neil Strauss Book "The Game" Such As David DeAngelo, Tyler Durden, Mystery,  Style and Wayne Elise aka Juggler!</strong></p>
+<p align="center" class="siteCopyRight"><strong>© Seduction Tuition 2007 - Pick Up Artists <a href="http://www.puadiscover.com/" target="_blank">PUA</a> Art of Seduction Advice. How To Attract Seduce &amp; Pick Up Women. Learn From Dating Guru's As Featured in <a href="http://www.seductiontuition.com/neil-strauss/the-game.html">Neil Strauss</a> Book "The Game" Such As <a href="http://www.seductiontuition.com/david-deangelo/david-deangelo-profile.html">David DeAngelo</a>, Tyler Durden, Mystery,  Style and Wayne Elise aka Juggler!</strong></p>
 <div id="googleSearch">
 	<!-- SiteSearch Google -->
 <form method="get" action="http://www.seductiontuition.com/search.html" target="_top">
@@ -329,7 +363,7 @@ var AFS_Url="DetectUrl";
 <input type="hidden" name="flav" value="0000">
 <input type="hidden" name="sig" value="FDo3efxaQdqJ5ulU">
 <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:00659C;LC:00659C;T:000000;GFNT:00659C;GIMP:00659C;FORID:11">
-<input type="hidden" name="hl" value="en">
+<input type="hidden" name="hl" value="en"> 
 </form>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -337,9 +371,15 @@ var AFS_Url="DetectUrl";
 _uacct = "UA-1468577-1";
 urchinTracker();
 </script>
-<!-- NON-TOP BANNER EXCHANGE romance-net.com code begin -->
-<div class="datingBanner"><br><iframe src="http://www.romance-net.com/exchng/banner.php?n=7995&amp;size=2" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe><br></div>
-<!-- NON-TOP BANNER EXCHANGE romance-net.com code end -->
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3364679; 
+var sc_invisible=1; 
+var sc_partition=37; 
+var sc_security="dd1843ac"; 
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><img class="statcounter" src="http://c38.statcounter.com/3364679/0/dd1843ac/1/" alt="website tracker" /></div></noscript>
+<!-- End of StatCounter Code -->
 
 <!-- InstanceEnd -->
-</div></body></html>
+</div></div></div></body></html>
