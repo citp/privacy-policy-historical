@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604043412id_/http%3A//www.verian.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804142707id_/http%3A//www.verian.com/Privacy.htm) for the most accurate reproduction.*
 
 # Verian Technologies - Purchasing & Invoice Automation Solutions
 
