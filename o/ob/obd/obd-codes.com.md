@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214183555id_/http%3A//obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804121231id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # OBD-Codes.com Privacy Policy
 
@@ -44,6 +44,9 @@ If you're paranoid about Web cookies, [beacons](http://www.allaboutcookies.org/f
 
 We aren't responsible for information that may be gathered by ad networks, affiliates, or advertisers when you complete surveys or fill out order forms. Nor are we responsible for any of the "cookies" that our advertising networks and partners may place in your "temporary Internet files" directory to keep track (for example) of whether you've previously seen an ad or whether we're entitled to a commission on your purchase.
 
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
   * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/support/) or by mail at:  
 OBD-Codes.com  
 P.O. Box 2032  
@@ -58,8 +61,8 @@ Canada
 
 
 
-Privacy Policy last updated March 4,2008.
+Privacy Policy last updated March 25,2009.
 
 [Tell-a-friend](https://web.archive.org/tell-a-friend.php) \- [About Us](https://web.archive.org/about.php) \- [Contact Us](https://web.archive.org/contactus.php) \- [Links](https://web.archive.org/links.php)   
-Note: All information on this site is copyright © 2004-2008 OBD-Codes.com  
+Note: All information on this site is copyright © 2004-2009 OBD-Codes.com  
 The information contained on this site is presented as information only. We are not responsible for any actions you take on your vehicle. If you have any doubt as to repairs on your vehicle, please contact a qualified technician. If we used information from another source in creating an article, we have given credit where credit is due.
