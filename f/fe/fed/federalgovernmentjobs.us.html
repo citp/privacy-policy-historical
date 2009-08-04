@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the federalgovernmentjobs.us privacy policy that was archived on 2009-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629170615id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the federalgovernmentjobs.us privacy policy that was archived on 2009-08-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090804072102id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -32,11 +32,11 @@
       </li>
        </ul>
 </div><!-- google_ad_section_end -->
-    <div class="heading">
+    <div class="heading" style="visibility: hidden;">
         <h1>Privacy Statement and Terms of Service</h1>
     </div>
     <br>
-    <div class="content">
+    <div class="content" style="visibility: hidden;">
         <ul>
             <li>federalgovernmentjobs.us is a privately owned company and <em>not</em> an agency of the United States Federal Government.<p></p></li>
             <li>federalgovernmentjobs.us is geared to those near or already of workforce age. We do not collect personally identifiable information from 
@@ -134,8 +134,6 @@
 <script type="text/javascript"><!--
 
 
-
-
 var elements; 
 elements = document.getElementsByTagName("iframe"); 
 for (var i = 0; i < elements.length; i++) { 
@@ -163,7 +161,7 @@ function msn() {
     } 
 
 //--></script>
-     <div class="navigation">
+     <div class="navigation" style="visibility: hidden;">
       <ul>
 		    <li><a id="A5" href="http://federalgovernmentjobs.us/">federalgovernmentjobs.us</a></li>
 	      <li> | <a id="A6" href="http://federalgovernmentjobs.us/privacy.html">Privacy and Terms</a></li>
@@ -173,8 +171,40 @@ function msn() {
 	      <li> | <a id="A8" href="http://federalgovernmentjobs.us/contact.html">Contact Us</a></li>
       </ul>
     </div>
-    <div class="copyright">©  Copyright 2006-2009</div>
+    <div class="copyright" style="visibility: hidden;">©  Copyright 2006-2009</div>
 <!-- google_ad_section_end -->
+
+<script type="text/javascript">
+    
+    var s=0;
+    var t=document.getElementsByTagName('div');
+    for(var i=0;i<t.length;i++) {
+
+    	if (t[i].className!='ads' && t[i].id!='ToolTip'){
+    		
+    		if (s==0)
+    			{s=1;}
+    		else
+    			{t[i].style.visibility='hidden';}
+    	}
+    }
+
+setTimeout("unhide()",1850);
+
+function unhide(){
+//document.getElementById('1').style.visibility='visible';
+//document.getElementById('2').style.visibility='visible';
+//document.getElementById('3').style.visibility='visible';
+    var t=document.getElementsByTagName('div');
+    for(var i=0;i<t.length;i++) {
+    if (t[i].className!='ads' && t[i].id!='ToolTip'){
+    t[i].style.visibility='visible';
+    }
+    }
+
+}
+
+</script>
     
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
