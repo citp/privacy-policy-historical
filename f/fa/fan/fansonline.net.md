@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430042205id_/http%3A//www.fansonline.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806010259id_/http%3A//fansonline.net/pp.php) for the most accurate reproduction.*
 
 # FansOnline Privacy Policy
 
@@ -42,7 +42,7 @@ When does this Privacy Policy not apply?
 
 This Privacy Policy only applies to the collection of data by us and the use of that data by us. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. They may have their own privacy policies and/or terms and conditions of use.
 
-**Disclaimer:** FansOnline.net accept no legal responsibilty and cannot be held accountable for the content and accuracy of postings on any of the networks message boards.
+ **Disclaimer:** FansOnline.net accept no legal responsibilty and cannot be held accountable for the content and accuracy of postings on any of the networks message boards.
 
 How do we protect your information?
 
