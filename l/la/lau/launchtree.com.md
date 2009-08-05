@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413202218id_/http%3A//launchtree.lurnindia.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchtree.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805054321id_/http%3A//course.launchtree.com/privacypolicy) for the most accurate reproduction.*
 
-# Home : LaunchTree | About LaunchTree
+# Privacy Policy : Launch Tree | Earn an extra 456% with just a few tweaks to your next offer
 
 Thank you for visiting Lurn, Inc.'s ("Lurn, Inc.") personal data management and e-commerce Internet web site ("Site") located at the URL http://launchtree.com. This Privacy Policy details certain policies implemented throughout Lurn, Inc. governing Lurn, Inc.'s use of personally identifiable information provided to Lurn, Inc. via this Site.
 
