@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227050908id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805201613id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
 
 # Natively Academy – Professional Language Learning Software
 
