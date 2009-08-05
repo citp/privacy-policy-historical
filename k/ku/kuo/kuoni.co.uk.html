@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kuoni.co.uk privacy policy that was archived on 2009-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090218233545id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kuoni.co.uk privacy policy that was archived on 2009-08-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090805054354id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -193,7 +193,7 @@
 </div>
 	<iframe src="javascript:'';" id="ecos_iframe" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><iframe src="javascript:'';" id="ecos_iframe2" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title=""></iframe><div id="ecos_surveylayer" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px; visibility: hidden;" title="Visitor Survey (dynamically generated)"></div><script language="Javascript" type="text/javascript">
 <!--
-/*** eCustomerOpinions survey code v5.0.5 ****/
+/*** eCustomerOpinions survey code v5.0.6 ****/
 /* Copyright (c) 2008 eDigitalResearch Ltd   */
 /* Please refer to our Terms & Conditions    */
 /* for conditions of use.                    */
@@ -212,7 +212,7 @@ var ecos_test = 0;
 var ecos_sid = 641101677;
 var ecos_host = 'ecustomeropinions.com';
 var ecos_vault = '_';
-var ecos_ver = '505';
+var ecos_ver = '506';
 var ecos_nc = '';
 var ecos_go = 0;
 var ecos_pu = 0;
@@ -229,7 +229,7 @@ if (parseInt(navigator.appVersion.charAt(0)) >= 4)
 	brok = true;
 
 
-function buildurl(destpage) {
+function ecos_buildurl(destpage) {
 	var ecos_url = ecos_host + '/survey/' + destpage + '.php?sid=' + ecos_sid;
 
 	ecos_url = ((document.location.protocol == 'https:') ? 'https://' : 'http://') + ecos_url;
@@ -266,8 +266,9 @@ function buildurl(destpage) {
 	ecos_url += '&url=' + escape(myvar2.substring(0,100));
 	ecos_url += '&referrer=' + escape(document.referrer.substring(0,100));
 	
+	ecos_nukecookie('ecos'); // kill any no-path ver
 	var ck;
-	if (ck = getcookie('ecos'))
+	if (ck = ecos_getcookie('ecos'))
 		ecos_url += '&ecos_cookie=' + ck;
 	
 	if (navigator.userAgent.indexOf("Safari") >= 0)
@@ -283,7 +284,7 @@ function ecos_popup_popup() {
 	if ((ua.indexOf('NT 5.1') > 0) && (ua.indexOf(' SV1') > 0))
 		return false;
 
-	var sw = window.open(buildurl('survey'), 'surveywin', 'location=0,toolbar=no,width=' + ecos_survey_size_x + ',height=' + ecos_survey_size_y + ',directories=no,status=no,scrollbars=yes,resizable=yes');
+	var sw = window.open(ecos_buildurl('survey'), 'surveywin', 'location=0,toolbar=no,width=' + ecos_survey_size_x + ',height=' + ecos_survey_size_y + ',directories=no,status=no,scrollbars=yes,resizable=yes');
 
 	if ((ecos_pu) && (sw))
 		sw.blur();
@@ -296,7 +297,7 @@ function ecos_popup_layer() {
 	if (!document.getElementById)
 		return false;
 
-	var url = buildurl('layer') + '&inlayer=1';
+	var url = ecos_buildurl('layer') + '&inlayer=1';
 	var t = '<SCR' + 'IPT LANGUAGE="Javascript" SRC="' + url + '"></SCR' + 'IPT>';
 
 	var b, a = document.getElementById("ecos_iframe2");
@@ -321,7 +322,7 @@ function ecos_layer_run() {
 	eval(ecos_jscode);
 }
 
-function getcookie(name)
+function ecos_getcookie(name)
 {
 	var cks = document.cookie.split(';');
 	for (var i = 0; i < cks.length; i++)
@@ -333,6 +334,17 @@ function getcookie(name)
 	return '';
 }
 
+function ecos_nukecookie(name, path)
+{
+	var ck = name + '=x';
+	var dt = new Date();
+	dt.setTime(dt.getTime() - 3600);
+	if (path) ck += '; path=' + escape(path);
+	ck += '; expires=' + dt.toGMTString();
+	return (document.cookie = ck);
+}
+
+
 function ecos_layer_gono() {
 	document.getElementById('ecos_surveylayer').style.visibility = 'hidden';
 };
@@ -340,7 +352,7 @@ function ecos_layer_gono() {
 
 function ecos_layer_gosurveysize() {
 	ecos_layer_gono();
-	var full_survey_url = buildurl('survey') + '&doneperm=1';
+	var full_survey_url = ecos_buildurl('survey') + '&doneperm=1';
 	sw = window.open(full_survey_url, 'surveywin',
 		'location=0,toolbar=no,width=' + ecos_survey_size_x + ',height=' + ecos_survey_size_y + ',directories=no,status=no,scrollbars=yes,resizable=yes');
 	if ((ecos_pu) && (sw))
@@ -397,7 +409,7 @@ function ecos_i() {
 	var dt = new Date();
 	if (ecos_nc != '' && cookie_firstparty)
 	{
-		var ck = getcookie('ecos');
+		var ck = ecos_getcookie('ecos');
 		if (ck == '')
 			ck = escape(ecos_nc);
 		else
@@ -425,7 +437,7 @@ function ecos_load() {
 		return;
 	};
 
-	var t = '<SCR' + 'IPT LANGUAGE="Javascript" SRC="' + buildurl('i') + '"></SCR' + 'IPT>';
+	var t = '<SCR' + 'IPT LANGUAGE="Javascript" SRC="' + ecos_buildurl('i') + '"></SCR' + 'IPT>';
 	if (a.contentDocument)
 		b = a.contentDocument;
 	else if (a.contentWindow)
@@ -439,14 +451,14 @@ function ecos_load() {
 	};
 };
 
-var ecos_allow = getcookie('ecos_allow');
+var ecos_allow = ecos_getcookie('ecos_allow');
 if (document.location.toString().match('ECOS_SHOW_SURVEY')) {
 	ecos_allow = 'y';
 } else {
 	if (ecos_allow.length < 1) {
 		if (ecos_proportion < 1.0) {
 			ecos_allow = (Math.random() < ecos_proportion) ? 'y' : 'n';
-			document.cookie = 'ecos_allow=' + ecos_allow;
+			document.cookie = 'ecos_allow=' + ecos_allow + ';path=/';
 		} else {
 			ecos_allow = 'y';
 		}
@@ -457,66 +469,41 @@ if ((document.getElementById) && (window.frames)) {
 	ecos_load();
 } else {
 	ecos_img = new Image;
-	ecos_img.src = buildurl('i') + '&nosup=1';
+	ecos_img.src = ecos_buildurl('i') + '&nosup=1';
 }}
 
 
 // -->
 </script><noscript><img src="https://ecustomeropinions.com/survey/img.php?sid=641101677&amp;nojs=1" border="0" width="1" height="1" alt="" /><a href="https://ecustomeropinions.com/survey/noscript.php?sid=641101677&amp;nojs=1" rel="nofollow">We would like your feedback, please fill in our survey</a></noscript>
 
-<div id="footer" class="clear">
-    
-    	<div class="logos">
-        
-        		<img src="/images/home/logos-abtaatol.gif" width="116" height="53" alt="ABTA / ATOL logos" border="0" usemap="#Map">
+<div id="footernew" class="clear">
+	<div id="footerlinks">
+    	<table>
+        	<tbody><tr><td width="10%" class="le">i-travel</td><td width="80%"><div align="left">Read the most recent <a href="http://i-travel.kuoni.co.uk/" target="_blank" title="Travel articles and news">travel articles</a> from Kuoni i-travel:<small> <a href="http://i-travel.kuoni.co.uk/features/top_10_celebrity_hotels.html">Top ten celebrity hotels</a></small></div></td>
+            <td rowspan="4"><img src="/images/abta.gif" border="0" usemap="#Map">
 <map name="Map" id="Map">
-  <area shape="poly" coords="8,4,8,45,56,44,56,4" href="http://www.caa.co.uk/default.aspx?catid=27" target="_blank" alt="ATOL 0132">
-<area shape="poly" coords="64,3,64,47,104,47,104,3" href="http://www.abta.com/home" target="_blank" alt="ABTA">
-</map>
-        
-  </div>
-    
-    	<div class="clear">
-            <div class="label">
-                
-                <p>© Kuoni 2008</p>
-                
-            </div>
-        
-            <div class="links">
-                           
-                <ul class="clear">
+  <area shape="poly" coords="8,4,8,45,108,44,110,4" href="http://www.caa.co.uk/default.aspx?catid=27" target="_blank" alt="ATOL 0132">
+<area shape="poly" coords="9,48,9,90,106,91,106,47" href="http://www.abta.com/home" target="_blank" alt="ABTA">
+</map></td></tr>
+                    	<tr><td class="le">© Kuoni 2009</td><td> <ul class="clear">
                  <li><a href="/information/about_kuoni/companies.html" title="Read about Kuoni companies" class="first">Read about Kuoni companies</a></li>
 				<li><a href="/employment/" title="Vacancies">Vacancies</a></li>
                 <li><a href="/specialist_agents/" title="Find your nearest Kuoni Specialist Agent">Find your nearest Kuoni Specialist Agent</a></li>
-				<li><a href="http://i-travel.kuoni.co.uk" title="Kuoni i-travel" target="_blank">i-travel</a></li>
+				<li><a href="http://i-travel.kuoni.co.uk" title="Kuoni i-travel">i-travel</a></li>
 				<li><a href="/videos/" title="View our destination videos">Kuoni videos</a></li>
                 </ul>
                 
                 <ul class="clear">
                 <li><a href="/information/travel_extras/" title="Travel extras" class="first">Travel extras</a></li>
-				<li><a href="/concierge/" title="Kuoni concierge">Kuoni Concierge</a></li>
                 <li><a href="/information/about_kuoni/help.html" title="Help">Help</a></li>
                 <li><a href="/information/site-map.xml" title="Site map">Sitemap</a></li>
                 <li><a href="/information/about_kuoni/" title="About us">About us</a></li>
                 <li><a href="/information/about_kuoni/awards.html" title="Our awards">Our awards</a></li>
                 <li><a href="/information/about_kuoni/privacy.html" title="Privacy policy">Privacy policy</a></li>
                 <li><a rel="nofollow" href="http://agents.kuoni.co.uk" title="Travel agents login">Travel agents login</a></li>
-                </ul>
-                
-            </div> 
-    	</div>
-        
-        <div class="clear">
-            <div class="label">
-                
-                <p>Quicklinks</p>
-                
-            </div>
-        
-            <div class="links">
-    
-                <ul>
+                </ul></td><td></td></tr>
+                <tr>
+                <td class="le">Quicklinks</td><td><ul>
                 <li><a href="/holiday/Africa_and_Indian_Ocean/Maldives/" title="Maldives holidays" class="first">Maldives holidays</a></li>
                 <li><a href="/holiday/Far_East/Thailand/" title="Thailand holidays">Thailand holidays</a></li>
                 <li><a href="/holiday/North_Africa_and_Middle_East/Egypt/" title="Egypt holidays">Egypt holidays</a></li>
@@ -535,27 +522,24 @@ if ((document.getElementById) && (window.frames)) {
 				<li><a href="/tour/" title="Escorted tours">Escorted tours</a></li>
                 </ul>
                 
-            </div>
-        </div> 
-        <div class="clear" style="margin-top:8px;">
-            <div class="label">
+         
 
-                <p>Feeds <img src="/images/rss/03.png" alt="RSS Feed" width="12" height="12" longdesc="http://i-travel.kuoni.co.uk/rss.xml" style="border:none;"></p>
-
-            </div>
-
-            <div class="links">
-
-                <ul class="clear">
+				<ul style="clear:both; margin-top:-10px;">
+                <li><a href="/information/hotel_directory.html" class="first" title="Hotels by country">Hotels by country</a></li></ul></td><td></td></tr>
+                
+                <tr>
+                
+                <td class="le" id="feeds">Feeds <img src="/images/rss/03.png" alt="RSS Feed" width="12" height="12" longdesc="http://i-travel.kuoni.co.uk/rss.xml" style="border:none;"></td>
+                <td> <ul class="clear" id="feeds2">
                 <li><a href="http://uk.sitestat.com/kuonigroup/kuoni-uk/s?hp_i-travel_rss&amp;ns_campaign=information_rss&amp;ns_channel=rss&amp;ns_source=information&amp;ns_fee=0&amp;ns_type=clickin&amp;ns_url=http://i-travel.kuoni.co.uk/rss.xml" title="Travel articles rss feed" class="first">Travel articles</a></li>
                 <li><a href="http://uk.sitestat.com/kuonigroup/kuoni-uk/s?hp_news_rss&amp;ns_campaign=information_rss&amp;ns_channel=rss&amp;ns_source=information&amp;ns_fee=0&amp;ns_type=clickin&amp;ns_url=http://www.kuoni.co.uk/information/news/rss.xml" title="News and press releases feed">News and press releases</a></li>
 
-                </ul>
+                </ul></td><td></td></tr>
+        </tbody></table>
+</div>
 
-            </div>
-        </div>
-    
-    </div>
+
+</div>
  
 	
 	<script src="/javascript/sifr-load.js" type="text/javascript"></script>
