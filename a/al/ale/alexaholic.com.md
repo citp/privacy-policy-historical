@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218065516id_/http%3A//www.alexa.com/site/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexaholic.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805152646id_/http%3A//www.alexaholic.com/help/privacy) for the most accurate reproduction.*
 
-# Alexa Web Search - Privacy Policy
+# Help
 
 ## 
 
 Alexa Internet Privacy Policy
 
- **Updated 17 March 2003**  
+ **Updated 16 July 2009**  
+  To see what has changed, [click here](https://web.archive.org/help/changed).  
  
 
-Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/site/help/terms), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
+Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/help/terms), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
 
 ALEXA'S TOOLBAR SERVICE COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE DATA YOU ENTER IN ONLINE FORMS AND SEARCH FIELDS, AND, WITH VERSIONS 5.0 AND HIGHER, THE PRODUCTS YOU PURCHASE ONLINE WHILE USING THE TOOLBAR SERVICE. ALTHOUGH ALEXA DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY ALEXA USER, SOME INFORMATION COLLECTED BY THE TOOLBAR SERVICE IS PERSONALLY IDENTIFIABLE. ALEXA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE AND SHOPPING HABITS.
 
@@ -98,7 +99,15 @@ We employ other companies and individuals to perform functions on our behalf, su
 
 In the event that Alexa or substantially all of its assets are sold or acquired, all information collected by Alexa would be transferred to the acquiring party. In any such transfer, however, such information would remain subject to any applicable terms and conditions, including the terms of this Privacy Policy and any amendment thereto.
 
- ** _How is your information protected?_**
+**_Third-Party Advertising and Ad Companies_**
+
+We work with third-party websites, advertisers, and Internet advertising companies working on their behalf, including Amazon (collectively, "Ad Companies"). These Ad Companies may send (or "serve") advertisements directly to your browser, from our website, our toolbar, and from other websites. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. The information practices of these Ad Companies are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. 
+
+When we work with Ad Companies, we sometimes use information gathered by the Toolbar, or other information about you, to help Ad Companies personalize their ads. Unless otherwise allowed in the Alexa Privacy Policy, we do not provide any personally identifiable customer information to these Ad Companies. Although we do not provide any personal information to Ad Companies, they may assume that users who interact with or click on a personalized advertisement meet their criteria to personalize the ad. 
+
+If you do not want us to use information we gather about you to allow non-affiliated Ad Companies to personalize ads they display to you, [click here](https://web.archive.org/settings/optout) to make this choice. Please remember that your choice will apply only to the browser you are using. If you delete all cookies from your computer, or you use a different browser, you will need to choose again.
+
+**_How is your information protected?_**
 
 Alexa uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and Alexa therefore cannot guarantee complete security.
 
@@ -120,11 +129,11 @@ You acknowledge and agree that Alexa is not responsible for any content, adverti
 
  ** _How to Change Your Information_**
 
-You can inform us of a change in the e-mail address or demographic information you provide us by [contacting us](https://web.archive.org/site/company/contact). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
+You can inform us of a change in the e-mail address or demographic information you provide us by [contacting us](https://web.archive.org/contact/support). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
 
-If you do not want to receive Alexa newsletters, offers, and product and service information, simply [contact us](https://web.archive.org/site/company/contact) and be sure to _include the e-mail address_ where such information is being sent, and state that you no longer want to receive Alexa information and updates.
+If you do not want to receive Alexa newsletters, offers, and product and service information, simply [contact us](https://web.archive.org/contact/support) and be sure to _include the e-mail address_ where such information is being sent, and state that you no longer want to receive Alexa information and updates.
 
-To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](http://www.alexa.com/data/details/editor?type=contact), or [contact us](https://web.archive.org/site/company/contact). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
+To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](https://web.archive.org/edit/contact), or [contact us](https://web.archive.org/contact/support). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
 
  ** _Glossary of Terms_**
 
