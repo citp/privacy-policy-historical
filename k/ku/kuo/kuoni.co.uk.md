@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218233545id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805054354id_/http%3A//www.kuoni.co.uk/information/about_kuoni/privacy.html) for the most accurate reproduction.*
 
 # About Kuoni Travel - privacy policy statement
 
