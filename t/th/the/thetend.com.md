@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416025130id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetend.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805061904id_/http%3A//www.thetend.com/privacy.php) for the most accurate reproduction.*
 
 # Amateur video
 
@@ -6,7 +6,7 @@
   
 [Chinese nice fuck ](http://www.thetend.com/sp/vid/181/chinese-nice-fuck.php)
 
-(51990 views)
+(265791 views)
 
 | 
 
@@ -14,7 +14,7 @@
 
 [taiwanese couple caught by hidden cam ](http://www.thetend.com/sp/vid/179/taiwanese-couple-caught-by-hidden-cam.php)
 
-(29596 views)
+(112684 views)
 
 | 
 
@@ -22,7 +22,7 @@
 
 [Chinese whore in Japan ](http://www.thetend.com/sp/vid/178/chinese-whore-in-japan.php)
 
-(119626 views)
+(285395 views)
 
 | 
 
@@ -30,7 +30,7 @@
 
 [Asian Sex Scandal ](http://www.thetend.com/sp/vid/177/asian-sex-scandal.php)
 
-(97498 views)
+(201548 views)
 
 | 
 
@@ -38,13 +38,13 @@
 
 [Hotels are expensive, so they fuck in parking lot ](http://www.thetend.com/sp/vid/176/hotels-are-expensive,-so-they-fuck-in-parking-lot-.php)
 
-(14576 views)  
+(87063 views)  
   
 [](http://www.thetend.com/sp/vid/175/chinese-play-mahjong-sex-.php)
 
 [Chinese Play Mahjong Sex ](http://www.thetend.com/sp/vid/175/chinese-play-mahjong-sex-.php)
 
-(66697 views)
+(126609 views)
 
 | 
 
@@ -52,7 +52,7 @@
 
 [Chinese student fucked by bf and film ](http://www.thetend.com/sp/vid/174/chinese-student-fucked-by-bf-and-film.php)
 
-(142704 views)
+(231643 views)
 
 | 
 
@@ -60,7 +60,7 @@
 
 [Mainland girl get fucked ](http://www.thetend.com/sp/vid/173/mainland-girl-get-fucked.php)
 
-(113832 views)
+(171140 views)
 
 | 
 
@@ -68,7 +68,7 @@
 
 [Chinese student fuck in hotel ](http://www.thetend.com/sp/vid/172/chinese-student-fuck-in-hotel.php)
 
-(114544 views)
+(192870 views)
 
 | 
 
@@ -76,13 +76,13 @@
 
 [Asian Beauty enjoying a cock at home ](http://www.thetend.com/sp/vid/171/asian-beauty-enjoying-a-cock-at-home.php)
 
-(110402 views)  
+(195547 views)  
   
 [](http://www.thetend.com/sp/vid/169/cute-asian-teen-bitch.php)
 
 [Cute asian teen bitch ](http://www.thetend.com/sp/vid/169/cute-asian-teen-bitch.php)
 
-(181088 views)
+(325462 views)
 
 | 
 
@@ -90,7 +90,7 @@
 
 [Asian students amateur group sex ](http://www.thetend.com/sp/vid/168/asian-students-amateur-group-sex.php)
 
-(117328 views)
+(168396 views)
 
 | 
 
@@ -98,7 +98,7 @@
 
 [Chinese girl get fucked ](http://www.thetend.com/sp/vid/164/chinese-girl-get-fucked.php)
 
-(86285 views)
+(132258 views)
 
 | 
 
@@ -106,7 +106,7 @@
 
 [Two Chinese whores licking together ](http://www.thetend.com/sp/vid/161/two-chinese-whores-licking-together.php)
 
-(64418 views)
+(98310 views)
 
 | 
 
@@ -114,13 +114,13 @@
 
 [Chinese homemade sex ](http://www.thetend.com/sp/vid/160/chinese-homemade-sex.php)
 
-(73860 views)  
+(112920 views)  
   
 [](http://www.thetend.com/sp/vid/159/chinese-student-fuck-in-hotel.php)
 
 [Chinese student fuck in hotel ](http://www.thetend.com/sp/vid/159/chinese-student-fuck-in-hotel.php)
 
-(107427 views)
+(169768 views)
 
 | 
 
@@ -128,7 +128,7 @@
 
 [Nice asian girl with big boob get fucked ](http://www.thetend.com/sp/vid/158/nice-asian-girl-with-big-boob-get-fucked.php)
 
-(138550 views)
+(221583 views)
 
 | 
 
@@ -136,7 +136,7 @@
 
 [Chinese couple homemade ](http://www.thetend.com/sp/vid/156/chinese-couple-homemade.php)
 
-(62154 views)
+(100261 views)
 
 | 
 
@@ -144,7 +144,7 @@
 
 [Taiwanese girl masturbate at home ](http://www.thetend.com/sp/vid/155/taiwanese-girl-masturbate-at-home.php)
 
-(183839 views)
+(285161 views)
 
 | 
 
@@ -152,13 +152,13 @@
 
 [Asian couple amateur fuck ](http://www.thetend.com/sp/vid/154/asian-couple-amateur-fuck.php)
 
-(60487 views)  
+(100552 views)  
   
 [](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
 
 [Boundet Amateur Girl fucked hard ](http://www.thetend.com/sp/vid/149/boundet-amateur-girl-fucked-hard.php)
 
-(76633 views)
+(89514 views)
 
 | 
 
@@ -166,7 +166,7 @@
 
 [China couple fuck on web ](http://www.thetend.com/sp/vid/143/china-couple-fuck-on-web-.php)
 
-(21908 views)
+(33521 views)
 
 | 
 
@@ -174,7 +174,7 @@
 
 [Short haired brunette girl fucked in the bushes ](http://www.thetend.com/sp/vid/137/short-haired-brunette-girl-fucked-in-the-bushes-.php)
 
-(90723 views)
+(109281 views)
 
 | 
 
@@ -182,7 +182,7 @@
 
 [Hot girl fucked outdoor right next to the Eiffel Tower ](http://www.thetend.com/sp/vid/125/hot-girl-fucked-outdoor-right-next-to-the-eiffel-tower-.php)
 
-(33374 views)
+(42135 views)
 
 | 
 
@@ -190,13 +190,13 @@
 
 [Cute japanese playing with her dildo ](http://www.thetend.com/sp/vid/124/cute-japanese-playing-with-her-dildo.php)
 
-(40897 views)  
+(51633 views)  
   
 [](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
 
 [Asian woman sucks and gets fucked! ](http://www.thetend.com/sp/vid/123/asian-woman-sucks-and-gets-fucked!.php)
 
-(82751 views)
+(102913 views)
 
 | 
 
@@ -204,7 +204,7 @@
 
 [Thin brunette girl gets fucked hard from behind by a stranger ](http://www.thetend.com/sp/vid/122/thin-brunette-girl-gets-fucked-hard-from-behind-by-a-stranger-.php)
 
-(97941 views)
+(124957 views)
 
 | 
 
@@ -212,7 +212,7 @@
 
 [Creampie thai Teen Bitch ](http://www.thetend.com/sp/vid/112/creampie-thai-teen-bitch.php)
 
-(52597 views)
+(71175 views)
 
 | 
 
@@ -220,7 +220,7 @@
 
 [Asian chick in action ](http://www.thetend.com/sp/vid/109/asian-chick-in-action.php)
 
-(86866 views)
+(105393 views)
 
 | 
 
@@ -228,7 +228,7 @@
 
 [Asian cute girl want to have sex first time ](http://www.thetend.com/sp/vid/94/asian-cute-girl-want-to-have-sex-first-time.php)
 
-(148308 views)  
+(191731 views)  
   
 This document details important information regarding the use and disclosure of User Data collected on TheTend.com 
 
