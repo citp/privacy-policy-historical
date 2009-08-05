@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2008-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080727004618id_/http%3A//www.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805031610id_/http%3A//www.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Corsair :: Privacy Policy
 
-##  Effective Date: May 10, 2007
+####  Effective Date: May 10, 2007
 
 Corsair is committed to protecting the privacy of consumers visiting our website and purchasing our products. Corsair wishes to maintain a safe and secure environment for all users of our online products and services. We pay close attention to how information about our visitors is used and shared, and we use that information carefully and sensibly. Please read the following Privacy Policy to understand what personal information is collected and how your personal information is used. **By using and/or visiting Corsair's website, you accept and agree to this Privacy Policy, as governed by the laws of the State of California.** If you do not agree to this Privacy Policy, then do not use Corsair’s website.
 
-##  Information Gathered by Corsair
+####  Information Gathered by Corsair
 
 Corsair collects personal information from its users to help us learn about end-users and potential end-users of our products so that we can better tailor product features, performance and support, and offer additional information and opportunities.
 
@@ -14,7 +14,7 @@ We collect information you enter on our website, such as when you search for pro
 
 We may also gather certain information automatically whenever you interact with our website. Like many websites, we may use "cookies" (alphanumeric files transferred to your computer hard drive that enable our computers to recognize your computer) that allow us to obtain certain types of information when your web browser accesses our website. Information collected may include the Internet Protocol address used to connect you to the Internet, computer information such as browser type and operating system, the Uniform Resource Locators (URL) to, through, and from our website, date and time of your visit, products and information you viewed or searched for, phone numbers used to call us, and confirmation of when you open e-mail from us.
 
-##  Use of Information
+####  Use of Information
 
 We use the information that you provide to improve our products, respond to your requests, deliver product information, and make you aware of special offers.
 
@@ -24,6 +24,6 @@ Corsair may sell or buy assets from or to other companies. Customer information 
 
 We may release information on customers and visitors to our website when we believe release is appropriate to comply with laws, to enforce or apply our terms of use or terms of agreements we have entered into, or to protect our rights and property.
 
-##  Changes to Privacy Policy
+####  Changes to Privacy Policy
 
 Corsair reserves the right to change this Privacy Policy. Any changes in the policy will be posted directly on the Corsair website at http://www.corsair.com/privacy_policy.aspx. In the event of a material change in Corsair’s data collection and handling practices, Corsair will inform those users who have provided an e-mail address via e-mail and will post a prominent notice on the website for 30 days.
