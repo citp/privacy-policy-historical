@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504184728id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805183915id_/http%3A//flights.monarch.co.uk/cnt/policy/index.asp) for the most accurate reproduction.*
 
 # Monarch Airlines | Privacy Policy
 
@@ -42,7 +42,7 @@ Please note: although, as a group, we and our Sister Companies are in the busine
 
 ### How you can opt-out from receiving further marketing communications
 
-At any time, you can tell us that you do not want us to use your details for the purposes of marketing, by opting-out of future communications. If you have previously registered with us, you can opt-out by changing your email preferences within your account online by [clicking here.](https://web.archive.org/skylights/cgi-bin/skylights.cgi?module=MP&selected=subscribe&language=EN) Within your account you can choose to opt-out of only certain types of marketing communication or all. Alternatively if you do not have an online account and password, you can opt-out from all future communications by clicking[ here ](http://www.flymonarchemails.com/unsubscribe_me/index.php)or by writing to us at.
+At any time, you can tell us that you do not want us to use your details for the purposes of marketing, by opting-out of future communications. If you have previously registered with us, you can opt-out by changing your email preferences within your account online by [clicking here.](http://bookflights.monarch.co.uk/MemberBookingManager.aspx) Within your account you can choose to opt-out of only certain types of marketing communication or all. Alternatively if you do not have an online account and password, you can opt-out from all future communications by clicking[ here ](http://www.flymonarchemails.com/unsubscribe_me/index.php)or by writing to us at.
 
 Data Protection, Marketing Department, Monarch Airlines Limited, Prospect House, Prospect Way, London Luton Airport, Luton, Beds, LU2 9NU. 
 
