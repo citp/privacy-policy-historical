@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221135936id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805034423id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!
 
@@ -60,7 +60,7 @@ This website may contain links to third party websites. We provide these links f
 
     1. ### About Cookies and Third Party Technology.
 
-A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed. US Government Information Bulletin (I-034) contains a good description of cookie technology at: <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
+A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed.
 
 In addition to cookie technology, InboxDollars® and our Advertisers use additional third party technology and tracking tools to record offers and activities completed by you, friends referred by you, and to communicate information about you, such as demographic information (e.g., age, gender), in order to target offers and advertisements to specific groups as requested by Advertisers. Cookies and other tracking technology is collectively referred to as “Cookies and Recording Tools.”
 
