@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogyintime.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609210139id_/http%3A//genealogyintime.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogyintime.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805091759id_/http%3A//www.genealogyintime.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenealogyInTime.com
 
