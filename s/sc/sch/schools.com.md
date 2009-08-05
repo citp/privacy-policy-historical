@@ -1,52 +1,88 @@
-> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064528id_/http%3A//www.schools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805074113id_/http%3A//www.schools.com/privacy-policy.html) for the most accurate reproduction.*
 
-# TABS Privacy Policy
+# Privacy Policy (Schools.com)
 
-The Association of Boarding Schools (TABS) is committed to providing appropriate protection for personal information that is collected from visitors to our website.  This Online Privacy Statement describes our general principles for the collection and use of personal information at www.schools.com.
+We at QuinStreet and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
-**Information We Collect and Use  
-**In general, our website only collects personal information when visitors submit it to us, such as by completing a request for information form.  If you provide us with information, we will use the information to fulfill your request.  We may also use the information internally, such as to conduct follow-up research from individuals who have requested information about our member schools. 
+QuinStreet has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
 
-  * **Parents and Students  
-**We take children’s privacy and security very seriously.  Prospective boarding school students and their parents can request information from our member boarding schools by completing an Information Request Form.  This Form collects contact information (name, address, phone number) of parents as well as the prospective student’s name, current school, grade and areas of special interest.   If you complete an Information Request Form for a particular school, we will send the personal information on the Form to the designated school so that the school can provide admissions forms and other information directly to you. Families requesting our published directory can do so by calling TABS directly or by using the Directory Request Form online. Contact information is stored briefly for directory mailings only. Once directories are sent, contact information is deleted.  
-  
+Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit QuinStreet's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-  * **School Professionals, Educators and TABS Members  
-**Professional educators and TABS members may use our website to register for conferences, purchase publications, access other resources we offer.  Additionally, TABS members may use our website to submit information for the TABS Directory.   If you provide personal information to us, we will use the information to fulfill your particular request and for other related business purposes.  We may also use your information to send you additional information about TABS events and resources. If you provide us with credit card or other financial information so that we can process payment for a conference or other event, we will only use that information to process your payment for the particular event that you are attending. Credit card numbers are not stored.  
-  
+If you choose to provide us with your Personal Information on the Web, we may transfer that Information within QuinStreet to third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-  * **IP Addresses  
-**Our website also collects and uses IP addresses for website traffic pattern analysis, and to otherwise help administer our web site.   We do not tie IP addresses or other traffic analysis information to any personal information about you.  
-  
+QuinStreet strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, QuinStreet intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 
-  * **Cookies  
-**Cookies are small bits of text that are placed on your computer’s hard drive.  We currently use cookies for member login and profile updating purposes only.   These cookies are not used to obtain any personal information, and your use of our site will not be effected if you disable the cookie function on your browser.  
-  
-
-  * **Cookie Sessions**  
-A session cookie is stored only in the computer's memory and is never written to the hard drive.  Session cookies are deleted from the computer when the browser is shut down. Schools.com uses session cookies to provide features such as our Request for Information form used for obtaining information from selected schools.  For example, once a Request for Information form is submitted, a cookie session is stored in the computer’s memory so that contact information may be saved, thus eliminating the need to re-enter form information should the user wish to send requests to other schools. (A browser set to accept no cookies will disable this feature.)
+  
 
 
+## Cookies and Other Tracking Technologies
+
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. To protect your privacy, we have adopted the following principles:
+
+  * Notice
+  * Choice
+  * Security
+  * Access/Accuracy
 
 
-**Information We Share  
-**For parents and prospective students, we share personally-identifiable information with member schools only as requested by the individual who completes the Information Request Form.  If you request information from a particular school, we will provide your information to that school so it can respond to your request.  That school may provide you with other information as well, in accordance with its own policies.   
 
-For professional educators and TABS members, we will provide information to others as needed to provide the services requested.  For example, if you register for a conference, we will process your payment and otherwise use and share your information as needed to provide the conference services.  If you submit personal information for the TABS member directory, it will be included in the directory and provided all recipients of the directory.  
+Where QuinStreet collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of QuinStreet or those working on QuinStreet's behalf. QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Sometimes the purpose statement for our web pages are set forth in privacy policies specifically set forth or linked to from that page.
 
-In all case, however, we will share information whenever we think it reasonably necessary for law enforcement or as otherwise permitted by law, to protect our organization, our members, or members of the community.  We may also share information with third parties who perform services on our behalf, provided that these third parties agree to keep the information confidential.
+  
 
-**Security  
-**While no website can guarantee security, we have reasonable security measures in place to help prevent the loss, misuse and alteration of the information under our control.   For example, we use standard Verisign encryption to protect credit card numbers where this information is collected. 
 
-**Access  
-**If you are a TABS member, you may access your school’s profile and directory listing at any time and make changes or updates clicking on the “For Schools” heading above and clicking the [School Updater](https://web.archive.org/web/20050404064528id_/http%3A//www.schools.com/membership/login_a.html) found in the Members Only section. We rely on our members to keep their profiles current, so we encourage you to update your listing at least annually. 
+## Choice
 
-**Choice**  
-We only provide information to website visitors if you request it from us.  If you are a professional educator or member school, you may receive other materials from us.  If you do not wish to receive information, please let us know and we will remove you from our mailing list. 
+You may choose whether or not to provide Personal Information to QuinStreet. The notice we intend to provide where QuinStreet collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of QuinStreet's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
-**Links to Other Websites**  
-Our website may contains links to other websites maintained by our member schools and other companies that are not affiliates of ours.  We are not responsible for the privacy practices or the content of such websites, and we encourage you to use caution when visiting these sites.  In particular, we recommend that you view the privacy notice posted on each such site to confirm that the site’s policies are acceptable to you.
+If you chose to have a relationship with QuinStreet, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
-**Questions?**  
-If you have any questions about our Privacy Statement or our polices with respect to personal information, please email us at the following address:  [tabs@schools.com](mailto:tabs@schools.com)
+  
+
+
+## Security
+
+Wherever your Personal Information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+
+  
+
+
+## Access/Accuracy
+
+To the extent that you do provide us with Personal Information, QuinStreet wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+
+  
+
+
+## Third Party Services
+
+Third parties may provide certain services available on QuinStreet.com or its affiliate sites on QuinStreet's behalf. QuinStreet may provide information, including Personal Information, that QuinStreet collects on the Web to third-party service providers and our clients to help us deliver programs, products, information, and services. QuinStreet will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on QuinStreet's behalf.
+
+QuinStreet does not intend to transfer Personal Information without your consent to third parties who are not bound to act on QuinStreet's behalf unless such transfer is legally required. Similarly, it is against QuinStreet's policy to sell Personal Information collected online without consent.
+
+  
+
+
+## Children's Privacy
+
+QuinStreet.com and its affiliate sites are not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+
+  
+
+
+## Commitment
+
+Protecting your privacy online is an evolving area, and QuinStreet's Web sites are constantly evolving to meet these demands.
+
+If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@quinstreet.com](mailto:mailto:privacy@quinstreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+
+  
+
+
+## Your Consent
+
+By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to QuinStreet's processing of Personal Information for the purposes given above as well as those explained where QuinStreet collects Personal Information on the Web. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
