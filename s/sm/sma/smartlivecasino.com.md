@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503035720id_/http%3A//www.smartlivecasino.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806050714id_/http%3A//www.smartlivecasino.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Smart Live Casino | Security and Privacy
 
@@ -21,7 +21,7 @@ Your personal information is used for:
 
 
 
-The Smart Gaming Group will own your personal details but please note that the Gambling Commission of the United Kingdom will also have access to your account information. However, this information will only be used within the rules and guidelines that govern this site.
+The Smart Gaming Group will own your personal details but please note that the Gambling Commission and Lotteries and Gaming Authority will also have access to your account information. However, this information will only be used within the rules and guidelines that govern this site.
 
 ### 2) Information Sharing
 
@@ -29,7 +29,7 @@ To ensure that we protect ourselves from the risk of fraud, money laundering and
 
 The third party is called URU, and is owned by the GB Group. A link to URU can be found at the bottom of our website. This is an industry standard process adopted to validate your account silently.
 
-Personal details collected about you when you visit this site may also be shared with the following: reputable marketing partners selected by us, any company that the Smart Gaming Group may sell all or part of its business to, any competent legal, regulatory or law enforcement authority including the Gambling Commission. In this case, you will not be told of this disclosure or the reasons why and you will waive any and all rights that you may have in connection with such disclosure. 
+Personal details collected about you when you visit this site may also be shared with the following: reputable marketing partners selected by us, any company that the Smart Gaming Group may sell all or part of its business to, any competent legal, regulatory or law enforcement authority including the Gambling Commission and Lotteries and Gaming Authority. In this case, you will not be told of this disclosure or the reasons why and you will waive any and all rights that you may have in connection with such disclosure. 
 
 All sensitive player details are protected in accordance with the Data Protection Act 1998. In addition to this, we consult the EU privacy laws and the OECD guidelines regularly to ensure the protection of player's privacy and data flow.
 
@@ -40,12 +40,6 @@ Upon registration you will be asked for a response to the following statement:
 > "I would like to receive Smart Live Casino Promotions and Newsletters via post/email/sms." 
 
 If you do not want promotional information or details of further offers, please ensure sure you un-check this box.
-
-You will also be asked:
-
-> "I would like to take part in Live Studio Competitions"
-
-Again, if you do not wish to be contacted in relation to any competitions which will occur live on air, please ensure that this box remains un-checked. 
 
 ### 4) Updating your details
 
