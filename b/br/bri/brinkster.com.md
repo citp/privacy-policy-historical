@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202212342id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806064525id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
 
 # Learn About Brinkster Communications Corporation
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
 Effective Date of July 9th, 2004 
 
