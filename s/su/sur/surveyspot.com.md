@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204081054id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806052716id_/http%3A//www.surveyspot.com/privacy.shtml) for the most accurate reproduction.*
 
 # .:: SurveySpot.com ::.
 
@@ -8,97 +8,91 @@
 
 **Your privacy is important**
 
-**Survey Sampling International SurveySpot Privacy Policy**  
-Survey Sampling International, LLC (SSI) respects the privacy of every SurveySpot panel member. This Privacy Policy outlines the information SSI will collect and how we will use that information. This Statement will also tell you how you can verify the accuracy of your Personal Information (defined below) submitted to SSI and how you can request that we delete or update your Personal Information. 
+**1\. Generally.**  
+This Member and Non-Member Privacy Policy (this " **Privacy Policy** ") applies to all panel members of Survey Sampling International, LLC's (" **SSI"** ) panels, including without limitation SurveySpot Research Panel (" **SurveySpot** "), OpinionWorld Research Panel (" **OpinionWorld** "), any sub-panel(s) of SurveySpot and OpinionWorld, and any other panel(s) created, maintained, and/or operated by SSI and/or its affiliates, subsidiaries and/or divisions (collectively referred to herein as " **SSI** "), and to non-panel members participating in a survey(s) offered, provided, hosted, or administered by SSI. SSI strives to conform its privacy practices, policies and/or procedures with any and all applicable international, country specific, Federal, state and/or local laws, codes, regulations, and requirements (collectively " **Laws** "); and the industry codes, standards and regulations of various market and opinion research professional associations and/or organizations, including without limitation the ICC/ESOMAR International Code on Market and Social Research and the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations (" **CASRO** "), with whom SSI is a member (collectively the " **Codes** "). 
 
-We've developed this privacy statement from industry guidelines and standards, and local, national, and international laws and requirements. All privacy practices and methods described in this statement apply only insofar as permitted by the applicable standards, laws and requirements. The SurveySpot research panel was created by SSI, partners with researchers since 1977. SSI is committed to respecting and protecting your privacy. SSI routinely reviews its privacy and security practices and continually enhances them to protect your privacy. 
+SSI is committed to protecting the security and integrity of all Personal Information (as defined herein) collected by, or disclosed to, SSI. SSI will not use any Personal Information for direct marketing or advertising purposes and membership as a panel member and/or participation in any survey(s) are completely voluntary. This Privacy Policy identifies the Personal Information that SSI collects; how such Personal Information will be used and protected; and your rights. 
 
-**The information we gather**  
-Individuals can join our growing database of survey respondents by registering at our SurveySpot.com website. During the registration process, we gather personal information (name, address, age, etc.). After registration, we ask panel members to provide us with additional information (such as details of hobbies, interests and product ownership). We do this so we can send panel members surveys that best correspond with their interests. 
+**2\. Types of Personal Information Collected.**  
+Individuals may join SSI's growing databases of survey respondents by registering with any of SSI's panels at each panel's website. The term " **Personal Information** " includes, without limitation, an individuals' first and last name, residential address, email address, telephone number, age, gender, and date of birth. SSI collects Personal Information about panel members during the registration process and collects demographic information, including, without limitation information regarding employment status, hobbies, interests and product ownership (" **Demographic Information** ") after the registration process. SSI collects Personal Information and Demographic Information about non-panel members both before and during the non-panel member's participation in a survey(s). 
 
-Members may also be recruited on our behalf by third party websites, who may forward personal information to us, all with the member's prior consent. 
+In the United States, SSI collects and maintains social security numbers of panel members for tax purposes in connection with incentive fulfillment. Social security numbers are protected as Personal Information in accordance with this Privacy Policy and are collected, maintained, used, and disclosed in accordance with applicable Laws. 
 
-**How we use your information**  
-We use your e-mail address to send you invitations to participate in surveys and to contact you with messages regarding panel information. We use your postal address to mail any survey-related rewards, prizes and incentives or to assign you to demographic and geographic groups as required by research projects. 
+SSI may collect the internet protocol address (the " **IP Address** ") that is publicly available on your computer. The IP Address is not collected for the purpose of tracking or monitoring your activity on the Internet. In non-United States jurisdictions an IP Address may be classified as personal information or personal data under applicable Laws; therefore, to the extent that SSI collects IP Addresses, SSI will collect, use, maintain, secure and/or disclose IP Addresses in accordance with applicable Laws. 
 
-SSI supports the rights of our members by limiting the use of their information for legitimate marketing research purposes and is active in supporting the following organizations created to uphold ethical survey research. (This support includes making every effort to conform to the organizations' ethical standards.): 
+Individuals may be recruited on behalf of SSI by SSI's partners. The recruitment may occur through websites maintained by SSI's partners. The Personal Information collected by SSI's partners in connection with the recruitment process will be transferred to SSI only if the recruited individuals provide written consent to such transfer. SSI is neither responsible nor liable for the privacy and business practices and procedures of any of SSI's partners. 
 
-  * Marketing Research Association ([MRA](http://www.mra-net.org/)). 
-  * American Marketing Association ([AMA](http://www.ama.org/)). 
-  * American Association for Public Opinion Research ([AAPOR](http://www.aapor.org/)). 
-  * Council of American Survey Research Organizations ([CASRO](http://www.casro.org/)). 
-  * Advertising Research Foundation ([ARF](http://www.thearf.org/)).
+**3\. Uses of Personal Information.**  
+Generally, SSI uses Personal Information for the purpose of contacting and communicating with individuals in connection with their panel membership and/or their participation in a survey(s), and SSI uses Personal Information and Demographic Information to tailor survey invitations to individuals. In addition to the permitted uses of Personal Information as set forth in Section 2, above, SSI collects email addresses to enable SSI to send email invitations to individuals for participation in upcoming surveys; and SSI requests Demographic Information including, without limitation, age, gender, date of birth, employment status, hobbies, interests and product ownership, to match individuals with appropriate surveys. 
 
+**4\. Onward Transfer and Data Sharing of Personal Information**  
+Generally, SSI will only share data and/or information with its clients in an aggregated form or format, which does not permit the client to identify individual respondents. SSI limits the use of Personal Information only for legitimate market research purposes and in accordance with applicable Laws and Codes. 
 
+Personal Information is never transferred, disclosed or otherwise shared with any third party or third parties without the prior written consent of the data subject, except as follows: 
 
-SSI also strives to conform to U.S. EU Safe Harbor Framework which is administered by the U.S. Department of Commerce regarding data protection in the European Union; the FTCs Children's Online Privacy Protection Act (COPPA), the CAN-SPAM Act, and other privacy regulations and guidelines in the US and other countries. 
+  * In the event that SSI is required to disclose Personal Information pursuant to any applicable Laws and/or Codes or as required by a valid court or governmental order or subpoena. 
+  * In order to protect the safety of an individual or to protect SSI's rights and/or property. 
+  * In the event that an individual signs up for more than one panel or sub-panels owned and/or operated by SSI; in which case, the panels will disclose, transfer and share the data subjects' Personal Information among the various panels and/or sub-panels with whom the data subject has registered. 
+  * SSI may disclose or share Personal Information to authorized and approved agents, consultants, vendors and/or subcontractors of SSI and/or of SSI's clients (individually a " **Subcontractor** " and collectively the " **Subcontractors** ") in connection with a Subcontractor's performance of services for SSI and/or SSI's clients. Prior to performing services, SSI requires Subcontractors to agree in writing to protect and maintain the security and integrity of the Personal Information disclosed by SSI and to use the Personal Information only in accordance with the specific purpose for which such Personal Information was disclosed by SSI. 
+  * SSI may transfer Personal Information in the event of a merger or an acquisition or a sale of any or all of SSI's business assets. In the event of a merger or an acquisition or a sale of any or all of SSI's business assets, which includes the transfer of Personal Information, SSI will require the surviving entity in the case of a merger, or the acquiring entity in the case of an acquisition or sale, to agree in writing to protect and maintain the security and integrity of the transferred Personal Information in accordance with this Privacy Policy. 
+  * As otherwise permitted pursuant to this Privacy Policy. 
 
-Your information is used solely for research purposes. We will never try to sell you anything; we are only interested in your opinions. When you complete a survey, your responses are analyzed in aggregate with all other respondents' information and reported not individually, but only in the aggregate. Our research clients will never receive personally identifiable information about our panel members, nor will they be able to identify panel members, without your express permission. 
+**5\. Data Security.**  
+SSI is committed to protecting the security and integrity of Personal Information. SSI maintains commercially reasonable technical, administrative and physical safeguards to protect and secure Personal Information from unauthorized disclosure to, and/or use and/or access by, a third party or third parties. 
 
-We will never share your e-mail address or personally identifiable information with anyone except an approved agent or sub-contractor we may engage for activities like reward fulfillment and data verification. All agents or sub-contractors must sign a confidentiality or "chain of trust" agreement. 
+SSI's internal databases that contain Personal Information are password protected and SSI limits access to such databases to only those SSI employees and/or agents with a "need-to-know" such Personal Information. Additionally, SSI's employees and/or agents are bound by, and agree to comply with, confidentiality obligations and requirements. In the event that an SSI employee violates his or her confidentiality obligations and restrictions, the employee will be subject to disciplinary action, up to and including termination of employment. In the event that an agent of SSI violates its confidentiality obligations and restrictions, SSI may terminate the relationship between SSI and the agent. SSI reviews, monitors, and evaluates its internal privacy protection system on a regular basis. Personal Information collected regarding panel and non-panel members is stored in secured data centers. 
 
-We may disclose your personal information to a third party when required to do so by law, or to protect someone's safety, or our rights or property. 
+SSI uses its best efforts to comply with the United States European Union (" **EU** ") Safe Harbor Framework, which is administered by the United States Department of Commerce regarding transfers of data from the EU to the United States (" **Safe Harbor Principles** "). 
 
-As a panel member, you may be shown confidential information as part of the surveys you take. In order to protect the integrity and confidentiality of our clients' research, it is a condition of membership that you agree not to reveal any information contained in surveys, and do not copy or distribute any graphics or other content from the surveys. 
+**6\. Cookies.**  
+SSI uses cookies to provide a better experience for individuals participating in surveys. SSI limits the use of cookies for quality control and validation purposes. Cookies are used temporarily during the time individuals are actively completing a survey or filling out the registration forms and SSI does not store or retain information collected by a cookie. Respondents always have the option to disable cookies while registering or completing a survey without affecting their participation in the survey. Except as otherwise set forth herein, no Personal Information is collected or transmitted via these cookies. SSI may invite individuals to take part in a survey(s) where a client requires the use or placement of cookies in order for survey participants to take part in a particular survey opportunity. These cookies will never be used or placed without the individual's informed knowledge and consent. 
 
-**Updating your information**  
-We encourage you to update your panelist information. To help you do this, we set up member accounts for all members. These can only be accessed via a password which you establish. You can update your information in the following ways: 
+**7\. Digital Fingerprinting.**  
+In general, digital fingerprinting technologies assign a unique identifier or "Machine-ID" to a user's computer to identify and track the computer. SSI will not use digital fingerprinting technology (the " **Technology** ") to collect Personal Information, or track the online activities, of the user of a computer; and will not disrupt or interfere with the use or control of a computer or alter, modify or change the settings or functionality of a computer. SSI will use the Technology to assist SSI's clients in ensuring the integrity of survey results. The Technology will analyze publicly available information and data obtained from the computer's web browser and from other publicly available data points, including without limitation the technical settings of the computer, the characteristics of the computer, and the computer's IP Address, to create a unique identifier assigned to the computer. The unique identifier will be an alpha-numeric id. After creating the unique identifier, SSI does not retain the information analyzed by the Technology to create the unique identifier. In furtherance of SSI's efforts to assist its clients in protecting and ensuring the integrity of survey results, SSI (a) may link or associate your unique identifier to you and any of your Personal Information; (b) may share your unique identifier with SSI's clients and with other sample or panel providers; and (c) may receive or obtain a unique identifier linked to you from a third party, including without limitation a sample or panel provider or a client of SSI. Any unique identifier(s) received or obtained by SSI and linked to a specific individual will be protected in accordance with this Privacy Policy. 
 
-  * Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
-  * Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions
-  * Phone at 1.203.567.7200, please ask for Susan Evans 
-  * Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA
+SSI shall use commercially reasonable efforts to ensure that the Technology is safe, secure and do not cause undue privacy or data security risks. 
 
+SSI shall use and distribute the Technology in a professional and ethical manner and in accordance with (a) SSI's privacy policy, (b) any statements and/or disclosures made by SSI to respondents, and (c) applicable Laws and Codes. 
 
+In the event that SSI discovers or learns of any unethical conduct in connection with the use of the Technology, or that the Technology is being used in a manner that is inconsistent with the statements and/or disclosures made by SSI to respondents or in violation of applicable Laws and Codes, SSI will take immediate action to prohibit such unethical conduct and to ensure the proper administration of the Technology. 
 
-**Children's privacy protection**  
-SSI believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. 
+**8\. Children's Privacy Protection.**  
+SSI strongly believes that it is important to protect the online privacy of children and SSI encourages parents or guardians to spend time online with their children to participate and monitor their Internet activities. Accordingly, SSI complies with applicable Laws and Codes pertaining to the protection of Children's privacy, including without limitation the United States Children's Online Privacy Protection Act of 1998, the European Union Data Directive (95/46/EC), to the extent applicable, and all applicable international and country specific laws. 
 
-SSI complies with all applicable national and international children's privacy regulations. 
+For online research conducted within the United States, with children thirteen (13) years of age or younger, SSI obtains the prior consent of the parents/guardians, prior to commencing with such online research. 
 
-We comply with the Children's Online Privacy Protection Act of 1998. We do not permit children who are under 18 years of age to become SSI panel members. We do not collect any personal information from children under 18 years of age. As part of the registration process for new panel members, we may collect from the new panel member the names of each individual in the panel members' household, which may include the names of children who are under 18 years of age. Occasionally we may send a survey to a panel member who is a parent or guardian of a child under the age of 18 that asks that panel member to have his or her child who is under 18 answer the survey. We take reasonable steps to ensure parental consent to such procedure by sending the survey to the parent or guardian's password-protected e-mail address. The information collected in response to such surveys is not combined with identifying information about the child. In every case such survey does not collect personally identifiable information about the child. 
+For online research conducted outside of the United States, SSI complies with all applicable international and country specific laws regarding obtaining consent from parents/guardians for a child's participation in such online research. 
 
-If a panel member has provided us with personal information about a child in the panel member's household who is under the age of 18, a parent or guardian of that child may contact us at the email address or mailing address listed at the bottom of this Privacy Policy if he or she would like this information deleted from our records. We will take all commercially reasonable efforts to delete the child's information from our databases. 
+Parents or guardians are encouraged to contact SSI to discuss the Personal Information collected from their child or children and the rights set forth in Section 10 of this Privacy Policy, shall apply to the parents/guardians of any child registered as a panel member or participating in a survey(s). 
 
-**Links**  
-When taking a survey, you may have the opportunity to link to other websites. We are not responsible for the privacy policies of those sites. We recommend that you carefully read the privacy policies of each site you visit. 
+**9\. Links.**  
+From time-to-time SSI may provide panelists and/or respondents with the ability to voluntarily link or connect to websites maintained and/or operated by third parties (" **Third Party Websites** "). SSI does not endorse the Third Party Websites or any products or services advertised, offered and/or sold by, through or in connection with the Third Party Websites. The Third Party Websites have not been, and will not be, reviewed by SSI. SSI is neither responsible for the privacy practices, policies and/or procedures of the operators of the Third Party Websites nor the content contained on or in the Third Party Websites. SSI does not make any representations and/or warranties concerning the Third Party Websites; the business and/or privacy practices of any third party or third parties operating or owning the Third Party Websites and/or the products and/or services offered by or through the Third Party Websites. 
 
-**Use of Cookies**  
-Like many other websites, we use cookies to provide a better experience for our members. We limit their use for quality control and validation. Cookies are used temporarily during the time you are actively completing a survey or filling out the registration forms and we do not store or retain your cookie information in any way. You always have the option to disable cookies while registering or completing a survey without affecting your participation. No personally identifiable information is transmitted via these cookies. 
+**10\. Rights Pertaining to Personal Information.**  
+A. Access to Personal Information; Updating Personal Information. 
 
-Additionally, we may invite you to take part in surveys where a third-party client requires placement of cookies in order to take part in a particular survey opportunity. Such cookies will never be placed without your knowledge and without explaining to you their purpose. You will always have a choice to decline the placement of such a cookie. 
+Individuals may access their Personal Information in order to review, correct, or delete any Personal Information by: 
 
-**Data Security**  
-SSI takes the security of your information seriously. Access to your personal information is restricted and limited to select SSI staff members, and access is subject to a strict password policy. SSI employees receive training in data privacy and protection. 
+    * Accessing their individual membership account and following the instructions contained therein; 
+    * Sending an email request to the appropriate member services team for the appropriate SSI panel 
 
-We will never ask you for information such as credit card or social security numbers, although we are required by law to request your social security number when sending you a check for very large cash prizes. 
+B. Opting-Out of Panel. 
 
-SSI has security measures in place to prevent the loss, misuse, and alteration of the information under our control. 
+If a panel member desires to end his or her membership with an SSI panel, such panel member may terminate his or her membership by (a) following the instructions set forth in their membership account, or (b) sending an email request to the appropriate member services team for the appropriate SSI panel. Upon resignation of panel membership, SSI will deactivate the applicable membership account and the individual will not receive any further survey invitations; although the individual may continue to receive some previously prepared survey invitations for a few days following the termination of membership. SSI apologizes for any inconvenience. SSI will retain the Personal Information of a terminating member for an indefinite period of time; however, SSI will continue to protect such Personal Information in accordance with this Privacy Policy. 
 
-All website members are required to use their e-mail address and a password when updating their contact information, or when accessing "members only" sections of our websites. If you forget your password, you can send a message to our secure system to retrieve it. We take all commercially reasonable efforts to deploy technology and internal processes to protect the information our members release to us. 
+**11\. Enforcement.**  
+SSI is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and Personal Information. SSI's commitment to privacy is demonstrated and documented by our internal Privacy Compliance Officer, by our adherence to the applicable Laws and Codes, and by our compliance with the Safe Harbor Principles. Any complaints or concerns about this Privacy Policy should be sent via regular mail, postage prepaid, addressed to: 
 
-All surveys are screened by SSI staff before sending you an invitation to ensure they are proper and appropriate for their intended audiences. 
-
-**Opting-out of our panels**  
-If you choose to end your membership in our panels, you may automatically resign by clicking on [this link](https://web.archive.org/svy/71). Your panelist membership record will be deactivated and you will no longer receive invitations from us, although you may continue to receive some previously prepared invitations for a few days. We apologize for any such inconvenience. Our current privacy protection terms will continue to protect your data even after your resignation. 
-
-**Transfer of information**  
-SSI reserves the right to transfer personally identifiable information to a buyer in connection with a sale of stock or assets, merger, or any other change of control transaction. Any acquirer would be required to honor our privacy policy. 
-
-**Contacting us**  
-Please contact us at [Member Services](https://web.archive.org/svy/survey/ContactMemberServices.jsp) with any questions. We respond to most e-mail inquiries by the end of the following business day. You can also contact us in the following ways: 
-
-  1. Send an e-mail request to [our members' services team](https://web.archive.org/svy/survey/ContactMemberServices.jsp)
-  2. Visit [your member account](https://web.archive.org/panelist/PanelistManager) on our web site, and follow the instructions 
-  3. Phone at 1.203.567.7200, please ask for Susan Evans 
-Postal mail to Attn: Susan Evans, Survey Sampling International, Six Research Drive, Shelton, CT 06484 USA 
-
-
-**Changes to this policy**  
-Panelists will be notified of any changes to our privacy policy via e-mail or via our e-mailed membership newsletter. 
-
-**Privacy Contact**  
-Peter Milla  
+Tracy Vollaro  
+General Counsel  
 Survey Sampling International, LLC  
-Six Research Drive  
-Shelton, CT 06484 USA 
+International Place  
+6 Research Drive  
+Shelton, Connecticut 06484   
+
+
+**12\. AGREEMENT.**  
+By agreeing to participate in SSI's research services or to become a SSI panel member, you signify your acceptance of the terms and conditions of this Privacy Policy, including the General Website Privacy Policy located on SSI's homepage. SSI hereby reserves the right to make changes to this Privacy Policy, from time to time, and SSI will post such changes on the website for you to review on a regular basis. Your continued participation in SSI's research services, or continued membership as a panel member, after SSI revises this Privacy Policy constitutes your acceptance of this Privacy Policy, as amended. 
+
+
+
