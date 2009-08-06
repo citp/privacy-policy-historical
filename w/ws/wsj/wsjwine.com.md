@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604085342id_/http%3A//www.wsjwine.com/customer_policies.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807013304id_/http%3A//www.wsjwine.com/customer_policies.aspx%23privacy) for the most accurate reproduction.*
 
 # WSJ Wine - Customer Policies
 
 ## Policies
 
-You'll find our Shipping, Returns and Privacy Statement policies described here. For more information, please contact us by phone toll-free at 1-877-WSJ-WINE (1-877-975-9463) or via [e-mail](https://web.archive.org/web/20090604085342id_/http%3A//www.wsjwine.com/contact_us.aspx).
+You'll find our Shipping, Returns and Privacy Statement policies described here. For more information, please contact us by phone toll-free at 1-877-WSJ-WINE (1-877-975-9463) or via [e-mail](https://web.archive.org/web/20090807013304id_/http%3A//www.wsjwine.com/contact_us.aspx).
 
 ### Shipping Policy
 
