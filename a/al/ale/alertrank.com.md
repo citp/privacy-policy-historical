@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertrank.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510101754id_/http%3A//www.alertrank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertrank.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807011249id_/http%3A//www.alertrank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: AlertRank, The Smarter Way to Use Google Alerts to Monitor, Measure and Analyze Blog Buzz
 
