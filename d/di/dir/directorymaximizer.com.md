@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204062120id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806084411id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Maximizer E-Services Pvt. Ltd. Privacy Policy
 
@@ -6,8 +6,6 @@
 Privacy Policy   
 Maximizer E-Services Pvt. Ltd.   
 [http://www.directorymaximizer.com](http://www.directorymaximizer.com/)
-
-Effective from 22nd of February 2008 to 21st of February 2009. 
 
 * * *
 
@@ -29,10 +27,9 @@ Our Internet address is located at [http://www.directorymaximizer.com](http://ww
 **Maximizer E-Services Pvt. Ltd.  
 38/5 Coles Rd, 2nd Floor, Frazer Town   
 Bangalore 560005   
-Karnataka India **
+Karnataka India**
 
-You may contact us by e-mail at [admin@directorymaximizer.com](mailto:admin@directorymaximizer.com)   
-You may contact us by phone on +91-9886523078 
+You may contact us by e-mail at contact [ at ] directorymaximizer.com
 
 
 
@@ -72,7 +69,7 @@ We collect identifiable information for the following reasons:
     * Contacting Visitors for Marketing of Services or Products 
     * Historical Preservation 
   
-The details collected are only used for the purpose of rendering the services signed up for. 
+The details collected are only used for the purpose of rendering the services signed up for. E-mails will be sent to registered users only relating to the services the site renders and no promotional/advertorial e-mails shall be sent representing any third party. 
 
 * * *
 
