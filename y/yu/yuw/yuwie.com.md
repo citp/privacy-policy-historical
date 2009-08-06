@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuwie.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220235253id_/http%3A//ww1.yuwie.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuwie.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806070502id_/http%3A//www.yuwie.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # Yuwie | Privacy
 
