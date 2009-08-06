@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yuwie.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220235253id_/http%3A//ww1.yuwie.com/policy/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yuwie.com privacy policy that was archived on 2009-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090806070502id_/http%3A//www.yuwie.com/policy/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Yuwie | Privacy</title>
@@ -9,7 +9,14 @@
 <link rel="icon" href="http://www.yuwie.com/favicon.ico" type="image/x-icon"> 
 <link rel="shortcut icon" href="http://www.yuwie.com/favicon.ico" type="image/x-icon">
 <meta http-equiv="imagetoolbar" content="no">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/cometchat/css/cometchat.css"> 
+<script type="text/javascript" src="/cometchat/js/jquery.js"></script>
+<script type="text/javascript" src="/cometchat/js/cometchat.js"></script>
+
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
 <script>
 function geturl(url){
 window.location.href = url;
@@ -52,67 +59,226 @@ z-index: 100;
 
 </style>
 <script language="JavaScript" src="/help/afm.aspx"></script>
-</head>
-<body>
+<style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border:1px solid #dcdcdc;
+border-bottom-width: 0;
+font:normal 11px arial;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #dcdcdc;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: white;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- � Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="http://ww1.yuwie.com/blog/blogs.asp">BLOGS</a>'
+menu1[1]='<a href="http://ww1.yuwie.com/clubs/">CLUBS</a>'
+menu1[2]='<a href="http://ww1.yuwie.com/games/">GAMES</a>'
+menu1[3]='<a href="http://ww1.yuwie.com/layouts/">LAYOUTS</a>'
+menu1[4]='<a href="http://ww1.yuwie.com/videos/">VIDEOS</a>'
+menu1[5]='<a href="http://ww1.yuwie.com/radio/">YUWIE RADIO</a>'
+
+//Contents for menu 2, and so on
+var menu2=new Array()
+menu2[0]='<a href="/blog/blogs.asp">BLOGS</a>'
+
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='#f5f5f5'  //menu bgcolor
+var disappeardelay=150  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#f5f5f5" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+if (top.location != location) {
+    top.location.href = document.location.href ;
+  }
+-->
+</script>
+
+
+
 <center>
 <table width="760" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td class="logo" align="center">
-   <table width="100%" cellspacing="0" cellpadding="0" class="menu">
+<td align="center">
+   <table width="100%" cellspacing="0" cellpadding="0">
 	 <tbody><tr>
-	 <td align="right" nowrap=""><img src="/images/spacer.gif" height="34" width="1"><br>
-	 <a href="http://www.yuwie.com">HOME</a> | 
-<a href="http://www.yuwie.com/shop.asp">SHOP</a> | 
-<a href="http://www.yuwie.com/signup.asp">SIGN UP</a> | <a href="https://www.yuwie.com/login.asp">LOG IN</a> | 
-<a href="http://www.yuwie.com/videos/">VIDEOS</a> | 
-<a href="http://www.yuwie.com/clubs/">CLUBS</a> | 
-<a href="http://www.yuwie.com/blog/blogs.asp">BLOGS</a> | 
-<a href="http://www.yuwie.com/layouts/">LAYOUTS</a> |        
-<a href="http://www.yuwie.com/browse/">BROWSE</a> |
-<a href="http://www.yuwie.com/members/referrals/invite.asp"><b>INVITE</b></a> | 
-<a href="http://www.yuwie.com/search/">SEARCH</a> |  
-<a href="http://www.yuwie.com/help/help.asp">HELP</a>
+	 <td><a href="/"><img src="/images/weblogo.png" border="0"></a></td>
+	 <td style="text-align:right;" class="menuright" nowrap="" width="100%" valign="bottom">
+	 <a href="http://ww1.yuwie.com">HOME</a> | 
+<a href="http://yuwie.ourtoolbar.com/">TOOLBAR</a> | 
+<a href="http://ww1.yuwie.com/shop.asp">SHOP</a> | 
+<a href="http://ww1.yuwie.com/signup.asp">SIGN UP</a> | <a href="http://ww1.yuwie.com/login.asp">LOG IN</a> | 
+<a href="" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()"><b>CONTENT</b></a><img src="/images/downarrow.gif" style="margin-bottom:2px;margin-left:1px;"> |
+<a href="http://ww1.yuwie.com/browse/">BROWSE</a> |
+<a href="http://ww1.yuwie.com/members/referrals/invite.asp"><b>INVITE</b></a> | 
+<a href="http://ww1.yuwie.com/search/">SEARCH</a> |  
+<a href="http://ww1.yuwie.com/help/help.asp">HELP</a>
 
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
-	 <img src="/images/spacer.gif" height="28" width="1"></td>
+	 <img src="/images/spacer.gif" height="29" width="1"></td>
 	 </tr>
 	 </tbody></table>
 </td>
 </tr>
 <tr>
-<td bgcolor="white" style="border-left:2px solid #000000; border-right: 2px solid #000000" align="center">
+<td bgcolor="white" style="border-left:2px solid #000000; border-right: 2px solid #000000; text-align: center">
 
 <div class="adclasslb" style="margin-top:3px; margin-bottom:3px;">
-<!-- PubMatic ad tag (Javascript) : Top Leaderboard 728x90 | http://www.yuwie.com | 728 x 90 leaderboard -->
-<script type="text/javascript">
-var pubId=8241;
-var siteId=8242;
-var kadId=10953;
-var kadwidth=728;
-var kadheight=90;
-var kadtype=1;
-</script>
-<script type="text/javascript" src="http://ads.pubmatic.com/AdServer/js/showad.js">
- </script>
- 
-<!--<script type='text/javascript'><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=7306");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]></script><noscript><a href='http://d1.openx.org/ck.php?n=a69c3644&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=7306&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a69c3644' border='0' alt='' /></a></noscript>
--->
+<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,468x60";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Yuwie/ROS/tags.js"></script>
 </div>
 
 </td>
@@ -224,15 +390,17 @@ var kadtype=1;
 <table width="780">
 <tbody><tr>
 <td align="center"><span class="white">
-<a href="http://www.yuwie.com" class="white"><b>HOME</b></a> |
-<a href="http://www.yuwie.com/policy/privacy.asp" class="white"><b>PRIVACY POLICY</b></a> |
-<a href="http://www.yuwie.com/policy/tos.asp" class="white"><b>TERMS OF SERVICE</b></a> |
-<a href="http://www.yuwie.com/report.asp?p=/policy/privacy.asp?" class="white"><b>REPORT CONTENT</b></a> |    
-<a href="http://www.yuwie.com/help/help.asp">CONTACT YUWIE</a> | 
-<a href="http://www.yuwie.com/spam.asp">SPAM</a>
+<a href="http://ww1.yuwie.com" class="white"><b>HOME</b></a> |
+<a href="http://ww1.yuwie.com/policy/privacy.asp" class="white"><b>PRIVACY POLICY</b></a> |
+<a href="http://ww1.yuwie.com/policy/tos.asp" class="white"><b>TERMS OF SERVICE</b></a> |
+<a href="http://ww1.yuwie.com/report.asp?p=/policy/privacy.asp?" class="white"><b>REPORT CONTENT</b></a> |    
+<a href="http://ww1.yuwie.com/help/help.asp">CONTACT YUWIE</a> | 
+<a href="http://ww1.yuwie.com/spam.asp">SPAM</a>
 </span>								 
 <br>
-<span class="white">©2007-2008 Yuwie.com</span></td>
+<span class="white">©2007-2009 Yuwie.com</span>
+
+</td>
 </tr>
 </tbody></table>
 </center>
@@ -244,4 +412,4 @@ urchinTracker();
 </script>
 
 
-</body></html>
+<div id="cometchat_base" style="width: 1335px;"><span id="cometchat_optionsbutton" class="cometchat_tab cometchat_optionsimages"></span><span id="cometchat_userstab" class="cometchat_tab"><span id="cometchat_userstab_icon"></span><span id="cometchat_userstab_text" style="float:left">Initializing...</span></span><div id="cometchat_trayicon_0" class="cometchat_trayicon"><img src="/cometchat/images/icons/home.png"></div><div id="cometchat_trayicon_1" class="cometchat_trayicon"><img src="/cometchat/images/icons/radio.png"></div><div id="cometchat_trayicon_2" class="cometchat_trayicon"><img src="/cometchat/images/icons/invite.png"></div><div id="cometchat_chatbox_right" class="cometchat_chatbox_right_last cometchat_chatbox_lr"><span class="cometchat_tabtext">0</span><span class="cometchat_tabalertlr" style="top: -5px; display: none;">0</span></div><div id="cometchat_chatboxes" style="width: 0px;"><div id="cometchat_chatboxes_wide" style=""></div></div><div id="cometchat_chatbox_left" class="cometchat_chatbox_left_last cometchat_chatbox_lr"><span class="cometchat_tabtext">0</span><span class="cometchat_tabalertlr" style="top: -5px; display: none;">0</span></div></div><div id="cometchatflashcontent"></div><div id="cometchat_optionsbutton_popup" class="cometchat_tabpopup" style="display: none; left: 1127px; bottom: 24px;"><div class="cometchat_userstabtitle">Yuwie Chat Options</div><div class="cometchat_tabsubtitle">Type your status and hit the enter key!</div><div class="cometchat_tabcontent" style="background-image: url(/cometchat/images/tabbottomoptions.gif);padding:5px;padding-bottom:10px;"><strong>My Status</strong><br><textarea class="cometchat_statustextarea"></textarea><span style="float:left" class="cometchat_user_available"></span><span class="cometchat_optionsstatus available">Available</span><span class="cometchat_optionsstatus2 cometchat_user_busy"></span><span class="cometchat_optionsstatus busy">Busy</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus invisible">Invisible</span><br clear="all"><div style="border-top:1px solid #eeeeee;margin-top:10px;padding-top:4px;"><span><input type="checkbox" id="cometchat_soundnotifications" style="vertical-align: -2px;">Disable sound notifications</span></div><div style="border-top:1px solid #eeeeee;padding-top:10px;margin-top:4px;"><span><strong>Add Friend</strong><br><br><a href="/browse/">Add more friends</a></span></div></div></div><div id="cometchat_userstab_popup" class="cometchat_tabpopup" style="display: none; left: 1127px; bottom: 24px;"><div class="cometchat_userstabtitle">Who's Online</div><div class="cometchat_tabsubtitle"><a class="cometchat_gooffline">Go Offline</a></div><div class="cometchat_tabcontent" style="background-image: url(/cometchat/images/tabbottomwhosonline.gif);height:200px;padding-top:5px;padding-bottom:5px;"><div class="cometchat_userscontent"><div class="cometchat_userslist_available"></div><div class="cometchat_userslist_busy"></div><div class="cometchat_userslist_away"></div><div class="cometchat_userslist_offline"></div></div></div></div></body></html>
