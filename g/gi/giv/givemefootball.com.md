@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141530id_/http%3A//www.givemefootball.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807081737id_/http%3A//www.givemefootball.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Give Me Football
 
