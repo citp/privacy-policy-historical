@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allproducts.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140509id_/http%3A//www.allproducts.com/aboutus_PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allproducts.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807064025id_/http%3A//www.allproducts.com/aboutus_PrivacyPolicy.html) for the most accurate reproduction.*
 
 # allproduct.com - The World's Best Products Directory for Volume Buyers
 
