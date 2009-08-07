@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423103837id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807035417id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # MND: Your Daily Dose of Counter-Theory
 
@@ -10,7 +10,7 @@ NOTICE: [Click here](http://onguardonline.gov/) for practical tips from the fede
 
 MND collects personal information when you register with our site. MND may combine information about you that we have with information we obtain from business partners or other companies.
 
-MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+MND does not rent or sell personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to trusted partners who work on behalf of or with MND . These companies may use your personal information to help communicate with you about matters we think may interest you.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
@@ -19,7 +19,7 @@ MND does not rent or sell personal information about you with other people or no
 
 
 
-Notably, MND uses third-party advertising companies to serve ads on our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For example, Google's AdSense uses the DART cookie which enables it to serve ads based on a browser's past Internet usage.
+Notably, MND uses third-party advertising companies to serve ads on our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For example, Google’s AdSense uses the DART cookie which enables it to serve ads based on a browser’s past Internet usage.
 
 Users may voluntarily opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -35,4 +35,4 @@ If you have questions or concerns regarding this statement, contact editor(at)Me
 
 [Trackback](http://mensnewsdaily.com/privacy-policy/trackback/ "Trackback url \(right click and copy\) for Privacy Policy")
 
-Posted in: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") | 65 views 
+Posted in: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") | 79 views 
