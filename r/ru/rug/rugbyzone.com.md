@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyzone.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045931id_/http%3A//www.rugbyzone.com/content.aspx%3Fid%3D17403%26view%3Dfull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyzone.com privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808172654id_/http%3A//www.rugbyzone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RugbyZone
 
