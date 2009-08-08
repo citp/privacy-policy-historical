@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517091927id_/http%3A//www.indiavideo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808083538id_/http%3A//www.indiavideo.org/privacy-policy/index.php) for the most accurate reproduction.*
 
-# Privacy Policy : India Video
-
-**Privacy Policy**
-
-**Definitions**
+# Privacy Policy
 
 **Website :** The term website refers to the site www.keralavideos.com, collectively, including all content available through the domain name www.keralavideos.com
 
