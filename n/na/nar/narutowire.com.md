@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605220805id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808024115id_/http%3A//www.narutowire.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NarutoWire.com
 
@@ -44,11 +44,11 @@ Special Note for Parents
 
 Modification and Deletion of Personally Identifiable Information (Opt-Out) 
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: contact@narutowire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+  In order to delete the personally identifiable information you submitted, notify us, to the following email address: support@narutowire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 Modification 
 
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: contact@narutowire.com. Please note that deletion of your personally identifiable information from NarutoWire.com's database will not prevent NarutoWire.com from using gathered anonymous information. 
+  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support@narutowire.com. Please note that deletion of your personally identifiable information from NarutoWire.com's database will not prevent NarutoWire.com from using gathered anonymous information. 
 
 Third Parties' Practices 
 
