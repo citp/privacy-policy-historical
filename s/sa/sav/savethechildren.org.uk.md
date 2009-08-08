@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043105id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808163022id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
 
 # Save the Children UK Privacy policy
 
