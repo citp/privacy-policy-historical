@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626062548id_/http%3A//www.actfind.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808152940id_/http%3A//www.actfind.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
