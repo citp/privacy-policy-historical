@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617173446id_/http%3A//www.piac.com.pk/PIA_PolicynTerms/pia-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808064315id_/http%3A//www.piac.com.pk/PIA_PolicynTerms/pia-Policy.asp) for the most accurate reproduction.*
 
 # PIA - Privacy Policy
 
