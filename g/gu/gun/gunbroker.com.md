@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609133033id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809074059id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
@@ -58,7 +58,7 @@ Contacting Us
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following address.  
   
 Privacy Issues  
-GB Investments, Inc.  
+GunBroker.com, LLC  
 PO Box 19137  
 Atlanta, GA 31126
 
