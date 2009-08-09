@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workjobs.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621113008id_/http%3A//workjobs.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workjobs.net privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809055816id_/http%3A//www.workjobs.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Work Jobs | Local jobs that work
 
