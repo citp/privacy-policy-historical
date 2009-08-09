@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyulmc.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627184803id_/http%3A//www.nyulmc.org/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyulmc.org privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809053411id_/http%3A//www.med.nyu.edu/about/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | NYU Langone Medical Center | New York, NY
 
