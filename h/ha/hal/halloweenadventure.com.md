@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172941id_/http%3A//www.halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809061051id_/http%3A//www.halloweenadventure.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security And Privacy
 
