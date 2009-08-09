@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hideyouripaddress.net privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604212448id_/http%3A//www.hideyouripaddress.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideyouripaddress.net privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809094814id_/http%3A//www.hideyouripaddress.net/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -21,3 +21,11 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [ webmaster](mailto:info@hideyouripaddress.net)
+
+**Google Ads**
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
