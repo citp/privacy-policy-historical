@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122224800id_/http%3A//www.abnamro.com/en/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809134435id_/http%3A//www.abnamro.com/disclaimer/privacy.cfm) for the most accurate reproduction.*
 
 # ABN AMRO - Privacy Statement
 
@@ -9,16 +9,6 @@ When you visit this web site ABN AMRO may collect personal data about you, eithe
 **Purposes of Processing**
 
 ABN AMRO collects and processes information about customers and visitors to its web site to conduct its business, to inform and make available products and services that may be of interest to you and for the development of web statistics. The information you provide will be used to contact you when necessary, e.g. to notify you about functionality changes to the web site and to offer services that you may find helpful (provided you have not opted out to receive such services). 
-
-ATTENTION: 
-
-Check whether these purposes are applicable to your processing activities or whether other purposes should be added. 
-
-The ways in which ABN AMRO collects and uses personal data, through this web site and otherwise, are specifically regulated by the [ insert name of local privacy code of conduct that is applicable, if any, and if possible, add link]. 
-
-ATTENTION: 
-
-Check whether local legislation or processing activities require the above paragraph, if not delete this paragraph 
 
 **Sensitive Data**
 
@@ -31,10 +21,6 @@ ABN AMRO may collect and analyse information in connection with the use of his w
 **Third Party Sites**
 
 Please note that this Privacy Statement does not extend to third party sites linked to this web site. 
-
-How to Effect Your Rights; How to Contact ABN AMRO 
-
-If you do not wish to receive any marketing messages from ABN AMRO, you can contact us via [ insert you local address/phone number/e-mailaddress via which requests will be processed]. If you have any questions about this Privacy Statement, our data processing activities or your dealings with this web site, you can contact us via [ insert you local address/phone number/e-mailaddress via which requests will be processed]. 
 
 **Amendments**
 
