@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519000800id_/http%3A//www.americarx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809054928id_/http%3A//www.americarx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AmericaRx.com : Your Privacy respected. SSL secured, confidential data storage and committed to protect your personal information.
 
@@ -110,8 +110,7 @@ Your privacy and credit card security is utmost important to us. The personal in
 However If you direct, we will release prescription or other customer information to your authorized representative, the prescribing or other authorized practitioner caring for you, or such other person as you may direct. At the direction of the patient and to the extent specifically authorized by law, we will release such information to other persons, including Third Parties and insurance plans.  
   
 **Third-Party Sharing Information** **  
-Fetch Back**  
-We work with Fetch Back to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy policy, [clickhere](http://www.fetchback.com/optout.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please [clickhere](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives Opt-Out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).  
+**  
   
   
 From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing information about their members who visit our Web store (for example, to earn points for purchases made on our site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.  
