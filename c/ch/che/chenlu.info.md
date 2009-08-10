@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chenlu.info privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208010246id_/http%3A//chenlu.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chenlu.info privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811001014id_/http%3A//chenlu.info/privacy.php) for the most accurate reproduction.*
 
-# ChenLu - Secure, Fast, and Free anonymous web surfing service. Unblock websites for you now!
+# Chen Lu - Fast and Free, Unblock Websites for You Now!
 
 ## Privacy Policy
 
@@ -24,4 +24,4 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-[](http://vivifyu.com/)
+[](http://vivifyu.com/)  
