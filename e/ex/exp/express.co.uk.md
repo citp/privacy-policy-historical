@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182711id_/http%3A//express.co.uk/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810203503id_/http%3A//www.express.co.uk/show/privacy) for the most accurate reproduction.*
 
-# Daily Express | Privacy Policy | Breaking news, sport and showbiz from the World's Greatest Newspaper - updated 24/7
+# Scottish Daily Express | Privacy Policy | Breaking news, sport and showbiz from the World's Greatest Newspaper - updated 24/7
 
 Express Newspapers is committed to your right to Privacy and will only use your data as set in our privacy policy below. Please read this information carefully. By using the Site you agree to us collecting and using your personal information with the details below. 
 
