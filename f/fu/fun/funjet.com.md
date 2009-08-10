@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174700id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811003118id_/http%3A//www.funjet.com/cs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Funjet Vacations - Customer Information Privacy Protection
 
