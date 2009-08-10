@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiemoviesonline.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501083815id_/http%3A//www.indiemoviesonline.com/node/235) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemoviesonline.com privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810214102id_/http%3A//www.indiemoviesonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Indie Movies Online : Watch Independent Films for Free
+# Privacy policy | Free Movies: Watch movies online legally
 
 **Privacy Policy**
 
@@ -120,7 +120,7 @@ Emails sent to [privacy@Indiemoviesonline.com](mailto:privacy@Indiemoviesonline.
 
 If you choose to use our referral service to tell a friend about our site we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. IMO stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [privacy@indiemoviesonlin.com](mailto:privacy@indiemoviesonlin.com) to request that we remove this information from our database.
+Your friend may contact us at [privacy@indiemoviesonline.com](mailto:privacy@indiemoviesonlin.com) to request that we remove this information from our database.
 
 The IMO Services may be linked to websites operated by other companies. Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us. IMO is not responsible for the privacy practices of other websites operated by third parties that are linked to any of the Sites. Once you have left the IMO Site by clicking on a link, you should check the privacy policy of the other website to determine how it handles any personally identifiable information they collect from you.
 
