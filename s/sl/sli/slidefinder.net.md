@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2009-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090109212946id_/http%3A//slidefinder.net/open/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidefinder.net privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810184429id_/http%3A//www.slidefinder.net/misc/privacy) for the most accurate reproduction.*
 
-# Privacy policy
-
-## Privacy Notice
+# Privacy policy - SlideFinder
 
 ### Our Commitment To Privacy
 
@@ -10,21 +8,21 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### The Information We Collect
 
-SlideFinder does not currently collect any Personally Identifiable information from it's users. If this changes we will post the new information here.
+SlideFinder does not currently collect any Personally Identifiable information from it's users. If this changes we will post the new information here. 
 
 ### The Way We Use Information
 
-One category of information is collected at the Site: Anonymous. Anonymous Information is information that cannot be tied to an identifiable customer. An example is download statistics for different products. 
+One category of information is collected at the Site: Anonymous. Anonymous Information is information that cannot be tied to an identifiable customer. An example is download statistics for different files. 
 
 Anonymous Information: IP-addresses can be logged in order to survey our customers' geographic area. This information can be used to target specific markets or to help us better design the Site for our customers' needs. Personally Identifiable Information is stored in our customer database and is solely used in order to respond to your inquiries and link a license to a person or company. We do not share this information with outside parties except to the extent necessary to complete an order. 
 
 ### Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +46-8-501 64 079 or use the contact page. 
+Should you have other questions or concerns about these privacy policies, please call us at +46-8-501 64 079 or use the [contact](https://web.archive.org/misc/contactus) page. 
 
 ### Use of Cookies
 
