@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624161028id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810084559id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
