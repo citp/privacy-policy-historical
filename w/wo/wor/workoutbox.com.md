@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workoutbox.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520081643id_/http%3A//www.workoutbox.com/home/ctl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workoutbox.com privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811032823id_/http%3A//www.workoutbox.com/home/ctl/privacy) for the most accurate reproduction.*
 
 # WorkoutBOX | The Best Workout and Exercise Routines
 
