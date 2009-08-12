@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpdedicated.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421000618id_/http%3A//www.midphase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpdedicated.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812234316id_/http%3A//mpdedicated.com/privacy.php) for the most accurate reproduction.*
 
 # midPhase Web Hosting - Budget Web Hosting and Dedicated Server Hosting
 
