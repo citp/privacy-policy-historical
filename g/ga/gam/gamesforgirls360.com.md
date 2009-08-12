@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforgirls360.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612150212id_/http%3A//www.gamesforgirls360.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgirls360.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812105335id_/http%3A//www.gamesforgirls360.com/page/1.html) for the most accurate reproduction.*
 
 # Games for Girls- Play Free Online Girl Games and Games for Girls - Privacy Policy
 
