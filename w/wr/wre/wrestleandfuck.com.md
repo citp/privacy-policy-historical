@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228190515id_/http%3A//www.wrestleandfuck.com/index2.php%3Fact%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleandfuck.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812071542id_/http%3A//www.wrestleandfuck.com/index2.php%3Fact%3Dpp) for the most accurate reproduction.*
 
 # WRESTLEANDFUCK.COM
 
