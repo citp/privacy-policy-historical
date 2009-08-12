@@ -1,0 +1,200 @@
+<!--The following is the downloaded HTML source of the lmgtfy.com privacy policy that was archived on 2009-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090812050048id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta content="text/html;charset=UTF-8" http-equiv="content-type">
+    <meta content="LMGTFY Privacy Policy" name="description">
+    <meta content="google, search, funny, comedy" name="keywords">
+    <meta content="mailto+http:sha1:359d8b83150288115fa3d70bc929b599ede7fdd4" name="microid">
+    <link href="favicon.ico" rel="icon" type="image/x-icon">
+    <link href="lmgtfy.xml" rel="search" title="LMGTFY" type="application/opensearchdescription+xml">
+    <title>Let me google that for you</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+    <script src="bundle.js?1249914330" type="text/javascript">    </script>
+    <style rel="text/css">
+      * { font-family: arial,sans-serif; }
+      
+      body { background-color: #fff; color: #333; }
+      
+      #logo { margin-top: -1em; position: relative; top: 2em; }
+      
+      .logo { font-size: 1.5em; color: #444; }
+      
+      input.text { font-size: 1em; }
+      
+      #fake_mouse { position: absolute; top: 100px; left: 100px; }
+      
+      #instructions { margin-top: 40px; font-size: 1.1em; color: #999; width: 350; height: 84px; background: transparent url(images/instructions_bg.png) no-repeat top center; }
+      #instructions div { line-height: 84px; }
+      
+      #link_placeholder { height: 90px; }
+      
+      #link { position: absolute; display: none; padding-bottom: 28px; }
+      
+      input.link { width: 312px; font-size: 1.2em; text-align: center; border: 1px solid #c2c9ff; color: #555; background-color: #f4fbff; cursor: pointer; }
+      
+      #footer { margin-top: 40px; color: #999; border-top: solid 1px #ddd; padding-top: 0.5em; text-align: center; }
+      #footer a { color: #999; text-decoration: none; padding: 0 1em; }
+      #footer a:hover { text-decoration: underline; }
+      
+      #about { margin-top: 0.5em; color: #666; text-align: center; }
+      
+      #language { margin-top: 1em; color: #666; text-align: center; background: #fff url(/images/worldwide.png) no-repeat center; }
+      #language select { width: 200px; opacity: 0; }
+      
+      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #bbb; background-color: #fff; }
+      
+      #link_buttons, #link_message { position: absolute; display: none; }
+      
+      a.link_button { display: block; float: left; width: 60px; height: 20px; margin: 0 2px; padding: 5px 0; background: transparent url(images/link_button.png) no-repeat center center; color: #fff; line-height: 20px; text-align: center; font-size: 0.8em; text-decoration: none; }
+      a.link_button:hover { background-image: url(images/link_button_hover.png); }
+      
+      #link_message { z-index: 99; width: 332px; height: 32px; background: url(images/link_message.png); color: #fff; line-height: 32px; text-align: center; font-size: 1em; }
+      
+      #sponsor { display: none; margin: 0 auto; text-align: center; font-size: 0.9em; }
+      #sponsor a { display: block; margin: 0 auto; width: 225px; text-decoration: none; }
+      #sponsor a img { padding-bottom: 5px; width: 120px; height: 90px; border: 0; }
+      #sponsor p { margin-top: 0; text-align: center; color: #444; }
+      #sponsor em { font-weight: bold; font-style: normal; background-color: #ff9; }
+      * { font-family: georgia,serif; letter-spacing: 0.01em; }
+      
+      em { background-color: #ff6; font-weight: bold; font-style: normal; }
+      
+      body { background-color: #fff; color: #111; }
+      
+      h1 { color: #fff; background-color: #237EC5; margin: 0px; padding: 0.5em; text-align: center; }
+      
+      h2 { font-size: 2em; text-align: center; font-weight: normal; margin-bottom: 0.3em; }
+      
+      #subtext { color: #666; text-align: center; font-size: 1.3em; margin-bottom: 2em; }
+      
+      #ad_location { text-align: center; font-size: 1.2em; }
+      #ad_location #locations { margin: auto; width: 530px; }
+      #ad_location #locations:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+      #ad_location #locations * a { color: #111; text-decoration: none; }
+      #ad_location #locations * a:hover { text-decoration: underline; }
+      #ad_location #locations #location_1 { float: left; width: 200px; }
+      #ad_location #locations #location_2 { float: right; width: 200px; }
+      
+      #nuggets { width: 700px; height: 22em; margin: auto; margin-top: 3em; }
+      #nuggets:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+      #nuggets .left_column { float: left; width: 335px; }
+      #nuggets .right_column { float: right; width: 335px; }
+      #nuggets .nugget { width: 335px; height: 10em; }
+      #nuggets .nugget h3 { margin: 0em 0em 0.5em 0em; }
+      #nuggets .nugget p { margin: 0em 0em 1.5em 0em; }
+      #nuggets .nugget.email_ad_button { text-align: center; background: url(/images/email_ads_button.png) no-repeat top left; }
+      #nuggets .nugget.email_ad_button h3 { color: #fff; font-size: 1em; padding: 1em 3em; line-height: 1.4em; font-weight: normal; }
+      #nuggets .nugget.email_ad_button a { display: block; position: relative; top: -15px; left: 53px; width: 229px; height: 44px; }
+      
+      #program_details { width: 700px; margin: auto; }
+      #program_details h2 { text-align: left; }
+      
+      #copyright { margin-top: 40px; padding: 0.25em; text-align: center; font-size: 0.75em; color: #999; background-color: #fff; }
+      a { color: #000; }
+    </style>
+  </head>
+  <body>
+    <h1>LMGTFY Privacy Policy</h1>
+    <div id="program_details">
+      <p>This is the web site of LMGTFY, LLC.</p>
+      <p>For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.</p>
+      <p>We collect aggregate information on what pages consumers access or visit.</p>
+      <p>The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.</p>
+      <p>With respect to cookies: We do not set any cookies.</p>
+      <p>
+        With respect to Third party cookies: We use AlmondNet to collect non-personally
+        identifiable information when you visit our Web page. AlmondNet may use
+        information (not including your name, address, email address or telephone
+        number) about your visits to our Web page in order to provide advertisements
+        on our Web page, other web sites and other forms of media about goods and
+        services that may be of interest to you. If you would like more information
+        about this practice and to know your choices about not having this information
+        used by AlmondNet, please
+        <a href="http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx">click here.</a>
+      </p>
+      <p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
+      <p>Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.</p>
+    </div>
+    <div id="footer">
+      <a class="about" href="#" name="about" rel="localize[about]">About</a>
+      <a href="privacy.html" rel="localize[privacy]">Privacy</a>
+      <a href="http://twitter.com/lmgtfy">@LMGTFY</a>
+      <a href="http://live.lmgtfy.com" rel="localize[live]">Live Stream</a>
+      <a href="mailto:%73%74%61%66%66@%6c%6d%67%74%66%79.%63%6f%6d?body=Jim%20and%20Ryan%20are%20awesome%21&amp;subject=I%20love%20LMGTFY%21" rel="localize[contact]">Contact</a>
+      <a href="advertise.html" rel="localize[advertise]">Advertise for $199</a>
+    </div>
+    <div id="about" style="display: none">
+      <p rel="localize[pitch]">This is for all those people that find it more convenient to bother you with their question rather than google it for themselves.</p>
+      <p rel="localize[credit]">Created by @coderifous and @rmm5t.</p>
+      <p rel="localize[genesis]">Inspired during a lunch conversation with @coderifous, @tmassing, @rmm5t, @EricStratton, and @methodvon.</p>
+      <p rel="localize[translated_by]"></p>
+      <p rel="localize[disclaimer]">Not associated with Google™ in any way.</p>
+    </div>
+    <div id="language">
+      <select>
+        <option value="">LMGTFY Worldwide</option>
+        <option value="ar">Arabic</option>
+        <option value="bs">Bosnian</option>
+        <option value="bg">Bulgarian</option>
+        <option value="ca">Catalan</option>
+        <option value="zh">Chinese</option>
+        <option value="zh-HK">Chinese (Hong Kong)</option>
+        <option value="zh-TW">Chinese (Taiwan)</option>
+        <option value="hr">Croatian</option>
+        <option value="cs">Czech</option>
+        <option value="da">Danish</option>
+        <option value="nl">Dutch</option>
+        <option value="en">English</option>
+        <option value="eo">Esperanto</option>
+        <option value="fi">Finnish</option>
+        <option value="fr">French</option>
+        <option value="de">German</option>
+        <option value="el">Greek</option>
+        <option value="he">Hebrew</option>
+        <option value="hi">Hindi</option>
+        <option value="hu">Hungarian</option>
+        <option value="it">Italian</option>
+        <option value="klingon">Klingon</option>
+        <option value="ko">Korean</option>
+        <option value="lv">Latvian</option>
+        <option value="lt">Lithuanian</option>
+        <option value="mk">Macedonian</option>
+        <option value="ms">Malay</option>
+        <option value="mn">Mongolian</option>
+        <option value="no">Norwegian</option>
+        <option value="pl">Polish</option>
+        <option value="pt">Portuguese</option>
+        <option value="pt-BR">Portuguese (Brazil)</option>
+        <option value="ro">Romanian</option>
+        <option value="ru">Russian</option>
+        <option value="rs">Serbian</option>
+        <option value="sk">Slovak</option>
+        <option value="sl">Slovene</option>
+        <option value="es">Spanish</option>
+        <option value="sv">Swedish</option>
+        <option value="tl">Tagalog</option>
+        <option value="th">Thai</option>
+        <option value="tr">Turkish</option>
+        <option value="uk">Ukrainian</option>
+        <option value="ur">Urdu</option>
+      </select>
+    </div>
+    <div id="copyright">
+      © LMGTFY, 2009
+      |
+      <span rel="localize[google_owns_google]">GOOGLE is a trademark of Google Inc.</span>
+    </div>
+    <img id="fake_mouse" src="images/mouse_arrow.png" style="display: none">
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-6370983-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+  
+
+</body></html>
