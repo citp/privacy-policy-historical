@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220165515id_/http%3A//www.ashampoo.com/frontend/homepage/php/privacypolicy.php%3Fsession_langid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813003622id_/http%3A//www.ashampoo.com/frontend/homepage/php/privacypolicy.php%3Fsession_langid%3D2) for the most accurate reproduction.*
 
 # Ashampoo® - We Make Software!
 
