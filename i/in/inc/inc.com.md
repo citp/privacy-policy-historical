@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228012000id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812135000id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement, - Inc. Article
 
@@ -56,6 +56,22 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/about/contact_us.html).
+
+### Web Beacons:
+
+We allow ad networks, to serve advertisements to Inc.com users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Inc.com may "target" some ads to user that fit a certain general profile -- for example, "product managers in Texas." We do NOT use personally identifiable information to target ads. 
+
+ 
+
+To deliver these ads properly, we may include a file, called a web beacon, from these ad networks within pages served by Inc.com so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites. 
+
+ 
+
+Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. 
+
+ 
+
+These web beacons may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. You will never see additional ads as a result of being an Inc.com user. 
 
 [](http://trax.inc.com/k/w/sub/subbox/cover)
 
