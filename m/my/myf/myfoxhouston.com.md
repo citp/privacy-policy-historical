@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxhouston.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610151232id_/http%3A//www.myfoxhouston.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxhouston.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812101011id_/http%3A//www.myfoxhouston.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyFoxHouston.com | FOX 26
 
