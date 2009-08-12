@@ -1,54 +1,13 @@
-<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2009-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090310042237id_/http%3A//www.jobthread.com/jt/home/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2009-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090812143301id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="page"><head>
 		<base href="http://www.jobthread.com/">
 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 					<link rel="stylesheet" href="partners/jobthread/css/shared.css" type="text/css">
 			<link rel="stylesheet" href="partners/jobthread/css/main.css" type="text/css">
-
-			<style type="text/css">
-				
-
-/**********
- * Global *
- **********/
-
-html {
-	background-image: url('partners/jobthread/images/home/background.gif');
-}
-
-/*********
- * Input *
- *********/
-
-.input_button {
-	background-image: url('partners/jobthread/images/button_background.gif');
-}
-
-.input_button_highlight {
-	background-image: url('partners/jobthread/images/button_highlight_background.gif');
-}
-
-.input_button_negative {
-	background-image: url('partners/jobthread/images/button_negative_background.gif');
-}
-
-/****************
- * Welcome page *
- ****************/
-
-td.common-header {
-	background-image: url('partners/jobthread/images/home/header_background.gif');
-}
-
-div.normal-block div.normal-block-inner-menu {
-	background-image: url('partners/jobthread/images/home/menu_background.gif');
-}
-
-			</style>
 		
 					<link rel="icon" type="image/vnd.microsoft.icon" href="partners/jobthread/images/favicon.ico">
 			<link rel="SHORTCUT ICON" href="partners/jobthread/images/favicon.ico">
@@ -58,7 +17,7 @@ div.normal-block div.normal-block-inner-menu {
 		<script type="text/javascript" src="js/jquery/jquery.corner.js"></script>
 		<script type="text/javascript" src="js/jquery/jquery.local.js"></script>
 
-									<title>JobThread - Privacy/Legal</title>
+									<title>JobThread | Privacy Policy</title>
 					
 					<script type="text/javascript">
 			
@@ -107,26 +66,105 @@ div.normal-block div.normal-block-inner-menu {
 		</script>
 
 		
+			<!--[if lte IE 6]>
+		<script type="text/javascript">
+		
+			$("img#common-header-logo").ready(function(){
+				$("img#common-header-logo").attr('src', '/partners/jobthread/images/logo_fallback.png');
+			});
+		
+		</script>
+
+		<style type="text/css">
+		
+			table#common-header-center-inner td#common-header-center-inner-right div#common-header-account {
+				background-image: none;
+			}
+
+			table#common-header-center-inner td#common-header-center-inner-center td.common-header-nav-active {
+				background-image: none;
+				background-color: #ff7802;
+			}
+
+			table#common-header-center-inner td#common-header-center-inner-center td.common-header-nav-inactive {
+				background-image: none;
+				background-color: #ffa80b;
+			}
+
+			#subnav li {
+				width: 110px;
+				white-space: nowrap;
+			}
+		
+		</style>
+	<![endif]-->
+
+		
 			</head>
 
 	<body id="page">
-		<script type="text/javascript">
+	
+	<script type="text/javascript">
 
 	addReady(function(){
-		$("div.normal-block").corner();
-		$("div.offset-block").corner();
 		$("div.block2:not(.block2-square)").corner();
 		$("div.block2-inner").corner();
-		$("div.step-active-block-inner").corner();
-		$("div.normal-block-inner-menu").corner();
 
-		$("div.home-alt-box").each(function(){
-			coords = getCoords('page-container');
+		$("div.block3").corner();
+		$("div.block3-inner").corner();
 
-			left = (coords.x + $("div#page-container").width()) - $(this).width() - 77;
+		$("table.content-block:first:not(table.content-block-exclude-first)").addClass("content-block-first");
+		$("table.content-block:last").addClass("content-block-last");
 
-			$(this).css('left', left);
-			$(this).css('display', 'block');
+		$("div.context-help-icon > img").hover(function(){
+			box = $(this).parent().siblings("div.context-help");
+
+			image_offset = $(this).offset();
+
+			box.css('left', image_offset.left - box.width());
+			box.css('top', image_offset.top + $(this).height() + 10);
+
+			box.show();
+		}, function(){
+			$(this).parent().siblings("div.context-help").hide();
+		});
+
+		$("a.no-keep-focus").focus(function(){
+			$(this).blur();
+		});
+		$("input.input_button_highlight").focus(function(){
+			$(this).blur();
+		});
+		$("input.input_button_highlight_forward").focus(function(){
+			$(this).blur();
+		});
+		$("input.input_button_highlight_action").focus(function(){
+			$(this).blur();
+		});
+
+		$("a.void").click(function(){
+			return false;
+		});
+
+		$.fn.hoverClass = function(class_name) {
+			return this.each(function(){
+				$(this).hover(function(){
+					$(this).addClass(class_name);
+				}, function(){
+					$(this).removeClass(class_name);
+				});
+			});
+		};    
+
+		$(document).ready(function(){
+			$("#subnav li").hover(function(){
+				$("ul", this).show();
+			}, function(){
+			});
+
+			if (document.all) {
+				$("#subnav li").hoverClass("subnav-hover");
+			}
 		});
 
 		$("a.pop-link").toggle(function(){
@@ -145,23 +183,10 @@ div.normal-block div.normal-block-inner-menu {
 			$("div#" + box_id).hide('normal');
 		});
 
-		$("a.popup-info-close-link").click(function(){
-			$(this).parent("div.popup-info-box").hide();
+		$("a.page-top-link").click(function(){
+			goToTopOfPage();
 
 			return false;
-		});
-
-		$("a.popup-info-link").click(function(){
-			element_id = $(this).attr("href").replace(/^#/, '');
-
-			$("#" + element_id).vCenter();
-			$("#" + element_id).show();
-
-			return false;
-		});
-
-		$("div.popup-info-box").click(function(){
-			$(this).hide();
 		});
 	});
 
@@ -169,35 +194,107 @@ div.normal-block div.normal-block-inner-menu {
 
 	<table id="common-header" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td class="common-header" style="width:205px;padding-left:7px;">
-			<a href="http://www.jobthread.com/?show_home=1" rel="nofollow">
-				<img src="partners/jobthread/images/home/logo_line.gif" class="tabled"></a>
-		</td>
-		<td class="common-header" style="vertical-align:top;text-align:right;">
-			<table id="common-header-nav" cellpadding="0" cellspacing="0" border="0">
+		<td id="common-header-top" colspan="3">
+			<table id="common-header-center-inner" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-				<td id="common-header-nav-top">
-					<div style="margin-top:10px;">
-													<a href="http://www.jobthread.com/jt/users/login.php" rel="nofollow">Sign In</a>
-											</div>
+				<td id="common-header-center-inner-left">
+					<a href="http://www.jobthread.com/?show_home=1" rel="nofollow">
+						<img id="common-header-logo" src="partners/jobthread/images/logo.png" class="tabled"></a>
 				</td>
-			</tr>
-			<tr>
-				<td id="common-header-nav-bottom">
-									</td>
+				<td id="common-header-center-inner-center">
+					<table id="common-header-center-inner-center-all" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td id="common-header-center-inner-center-all-top">
+							<a href="contact?ref=feedback&amp;topic=feedback" target="_blank">
+								<img id="feedback" src="partners/jobthread/images/general/feedback.gif">
+							</a>
+
+							<div id="common-header-nq">
+							</div>
+						</td>
+					</tr>
+					<tr>
+																			
+						<td id="common-header-center-inner-center-all-bottom">
+							<table id="common-header-nav" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td class="common-header-nav common-header-nav-inactive">
+									<a href="/" class="no-keep-focus">Employers</a>
+								</td>
+								<td class="common-header-nav-spacer">
+								</td>
+								<td class="common-header-nav common-header-nav-inactive">
+									<a href="publishers" class="no-keep-focus">Publishers</a>
+								</td>
+							</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+				<td id="common-header-center-inner-right">
+					<div id="common-header-account" class="common-header-account-logged-out">
+						
+													<a href="http://www.jobthread.com/jt/users/login.php" rel="nofollow">Sign in</a>
+						
+						&nbsp;
+						|
+						&nbsp;
+
+						<a href="help">Get Help</a>
+					</div>
+
+					<div id="common-header-request-callback">
+						<a href="callback">Request a Callback							<img src="partners/jobthread/images/general/request_callback.gif">
+						</a>
+					</div>
+				</td>
 			</tr>
 			</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td id="common-header-subnav-left" class="common-header-subnav ">
+		</td>
+		<td id="common-header-subnav-center" class="common-header-subnav ">
+					</td>
+		<td id="common-header-subnav-right" class="common-header-subnav ">
+		</td>
+	</tr>
 	</tbody></table>
 
-<div id="page-container">
+	<table id="common-middle" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td id="common-middle-left">
+			&nbsp;
+		</td>
+		<td id="common-middle-center">
+			<div id="common-middle-center-box">
+				<div id="page-container">
+					
 
 
-<div class="heading3" style="margin-bottom:20px;">
-	Our Privacy Policy
-</div>
+	<div class="breadcrumbs">
+		<a href="/?show_home=1">JobThread Home</a>
 
+		<span class="breadcrumbs-separator">
+			»
+		</span>
+
+		
+			Privacy Policy
+	</div>
+
+<table class="page-header" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+		<td class="page-header-header">
+	<div class="page-header-header">
+				Our Privacy Policy
+	
+	</div>
+</td>
+</tr>
+</tbody></table>
 <div class="heading5" style="margin-bottom:7px;">
 	The simple version
 </div>
@@ -213,11 +310,7 @@ div.normal-block div.normal-block-inner-menu {
 
 <div style="margin-bottom:20px;">
 	If you have questions or comments about this privacy
-	policy, please email us at:
-</div>
-
-<div style="margin-bottom:20px;">
-	<a href="mailto:privacy@jobthread.com">privacy@jobthread.com</a>
+	policy, please <a href="contact">contact us</a>.
 </div>
 
 <div class="heading3" style="margin-bottom:25px;">
@@ -312,7 +405,7 @@ div.normal-block div.normal-block-inner-menu {
 
 <div style="margin-bottom:20px;">
 	If problems arise, users may contact JobThread, Inc. via
-	email at <a href="mailto:help@jobthread.com">help@jobthread.com</a>.
+	our <a href="contact">Contact Us</a> page.
 </div>
 
 <div class="heading5" style="margin-bottom:7px;">
@@ -334,37 +427,55 @@ div.normal-block div.normal-block-inner-menu {
 
 <div style="margin-bottom:20px;">
 	If you have questions or comments about this privacy
-	policy, please email us at:
+	policy, please <a href="contact">contact us</a>.
 </div>
 
-<div style="margin-bottom:20px;">
-	<a href="mailto:privacy@jobthread.com">privacy@jobthread.com</a>
-</div>
-
-</div>
-
-<br>
-
-	<div class="footer">
-		<a href="http://www.jobthread.com/">Home</a>
-		|
-		<a href="http://www.jobthread.com/jt/home/about_us.php" rel="nofollow">About Us</a>
-		|
-		<a href="http://jobthread.jobthread.com/" rel="nofollow">Careers</a>
-		|
-		<a href="http://www.jobthread.com/jt/home/privacy.php" rel="nofollow">Privacy</a>
-		|
-		<a href="http://www.jobthread.com/jt/home/terms_of_service.php" rel="nofollow">Terms of Service</a>
-		|
-		<a href="http://www.jobthread.com/jt/home/contact_us.php" rel="nofollow">Contact Us</a>
-		|
-		<a href="http://www.jobthread.com/job-board-software" rel="nofollow">Job Board Software</a>
-
-		<div style="padding-top:10px;">
-			© 2005-2009 JobThread, Inc.  
-			All rights reserved.		</div>
 
 			</div>
+		</div>
+
+		<div id="common-middle-center-footer">
+		</div>
+
+					<div class="footer">
+				<a href="http://www.jobthread.com/">Home</a>
+				&nbsp;
+				|
+				&nbsp;
+
+				<a href="http://www.jobthread.com/about" rel="nofollow">About Us</a>
+				&nbsp;
+				|
+				&nbsp;
+
+				<a href="http://www.jobthread.com/contact" rel="nofollow">Contact Us</a>
+				&nbsp;
+				|
+				&nbsp;
+
+				<a href="http://www.jobthread.com/terms" rel="nofollow">Terms of Service</a>
+				&nbsp;
+				|
+				&nbsp;
+
+				<a href="http://www.jobthread.com/privacy" rel="nofollow">Privacy</a>
+				&nbsp;
+				|
+				&nbsp;
+
+				<a href="http://www.jobthread.com/help" rel="nofollow">Help Center</a>
+
+				<div style="padding-top:10px;">
+					© 2005-2009 JobThread, Inc.  
+					All Rights Reserved.				</div>
+
+							</div>
+			</td>
+	<td id="common-middle-right">
+		&nbsp;
+	</td>
+</tr>
+</tbody></table>
 
 
 <script type="text/javascript">
