@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506194846id_/http%3A//www.export.gov/about/exp_000875.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812224112id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
 # 
 
