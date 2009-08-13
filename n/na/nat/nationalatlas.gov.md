@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507182929id_/http%3A//nationalatlas.gov/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813055629id_/http%3A//nationalatlas.gov/policies.html) for the most accurate reproduction.*
 
 # Web Policies
 
   |  |    
-  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the U.S. Geological Survey (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20090507182929id_/http%3A//nationalatlas.gov/partners.html) in government and industry. The following statements and disclaimers apply to the National Atlas. |   
+  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the U.S. Geological Survey (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20090813055629id_/http%3A//nationalatlas.gov/partners.html) in government and industry. The following statements and disclaimers apply to the National Atlas. |   
 | 
 
 ## National Atlas Web Policies  
@@ -212,7 +212,7 @@ back to top
 |    
   | 
 
-If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20090507182929id_/http%3A//nationalatlas.gov/contactus.html):
+If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20090813055629id_/http%3A//nationalatlas.gov/contactus.html):
 
 **E-Mail:**   [atlasmail@usgs.gov](mailto:atlasmail@usgs.gov) (Please include your return E-mail address in the body of your message.)
 
@@ -225,4 +225,4 @@ Reston, VA 20192 USA
 back to top
 
 |    
-|  | [](https://web.archive.org/web/20090507182929id_/http%3A//nationalatlas.gov/mldhiddenlinks.html)
+|  | [](https://web.archive.org/web/20090813055629id_/http%3A//nationalatlas.gov/mldhiddenlinks.html)
