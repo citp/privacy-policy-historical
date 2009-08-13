@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191002id_/http%3A//www.nationalnotary.org/common/content/nnaPrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813211359id_/http%3A//www.nationalnotary.org/common/content/nnaPrivacy.cfm) for the most accurate reproduction.*
 
 # NationalNotary.org - Privacy Statement
 
