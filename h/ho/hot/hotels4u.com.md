@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels4u.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615220123id_/http%3A//www.hotels4u.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels4u.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813165726id_/http%3A//www.hotels4u.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
