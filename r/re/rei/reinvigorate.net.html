@@ -1,0 +1,218 @@
+<!--The following is the downloaded HTML source of the reinvigorate.net privacy policy that was archived on 2009-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090813115222id_/http%3A//www.reinvigorate.net/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Privacy : Reinvigorate</title>
+
+<link rel="stylesheet" type="text/css" href="_css/reset.css">
+<link rel="stylesheet" type="text/css" href="_css/global.css">
+
+<!--[if lte IE 6]>
+<style type="text/css">
+  #home #bg {
+    background: url(_images/bg-composite-ie6.jpg) no-repeat center top;
+  }
+  #bg2 {
+    background: none;
+  }
+</style>
+<![endif]-->
+
+</head>
+<body id="legal">
+
+  <div id="bg">
+  <div id="bg2">
+<!-- begin page content -->
+    <div id="page">
+      <div id="header">
+        <h1><a href="/">reinvigorate</a></h1>
+        <ul id="nav">
+          <li class="formdrop"><a href="#">Beta Registration</a>
+            <ul id="regform">
+              <li>
+                <span class="dropbg"> &nbsp;</span>
+                <form action="">
+                  <fieldset>
+                    <label for="email">Enter your email address</label>
+                    <input type="text" id="email" value="">
+                    <span class="error" style="display:none;">↑ Invalid email!</span>
+                    <input id="register_btn" type="submit" class="formsubmit" value="Register">
+                  </fieldset>
+                  <p>We periodically invite new groups of people into the beta. This helps us mitigate any unexpected server load while we fine tune and tweak our systems. <a href="http://report.reinvigorate.net/registration">Already have an invite?</a></p>
+                <div class="loading" style="display:none;"><span>Sending Registration...</span></div>
+                </form>
+                <div id="formcomplete" style="display:none;">
+                  <p>
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li><a class="active" href="http://report.reinvigorate.net/">Login</a></li>
+        </ul>
+      </div>
+      <div id="content">
+<h2>Privacy Policy</h2>
+<p>We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. Reinvigorate automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.</p>
+
+<h3>Cookies</h3>
+<p>A cookie is a small amount of data that is sent to your browser from our servers and stored on your computer's hard drive. We use cookies to access information when you sign in, store your preferences, and to keep you logged in. You can configure your browser to accept or reject these cookies.</p>
+
+<h3>Information Sharing</h3>
+<p>We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our <a href="/terms.html">Terms of Service</a> or is appropriate to comply with the law, to protect our or our users' rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.</p>
+
+<h3>Information Security</h3>
+<p>We restrict access to personal information to Reinvigorate employees, contractors and agents who need to know that information in order to operate, develop or improve our service. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+
+<h3>Changes</h3>
+<p>Reinvigorate will notify customers by email about any significant changes in this policy.</p>
+
+<h3>Privacy Questions / Feedback</h3>
+<p>If you have questions or concerns about Reinvigorate's Privacy Policy please contact us at <a href="mailto:support@reinvigorate.net">support@reinvigorate.net</a></p>
+
+      </div>
+      
+      <div id="footer">
+        <p class="copyright">Copyright © 2009, Reinvigorate. All Rights Reserved.</p>
+        <ul class="legal">
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+        </ul>
+		<a class="mt_venture_link" href="http://www.mt-ventures.com/"><em>A (mt) Media Temple Venture Company</em></a>
+      </div>
+    </div>
+<!-- end page content -->
+  </div>
+  </div>
+
+<script type="text/javascript" src="_js/jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="_js/global.js"></script>
+
+<script type="text/javascript">
+
+	// jQuery stuff for mini reg form.
+	$(document).ready(function() {
+    //make vars
+    var regdrop = $('#nav li.formdrop ul')
+    var reglink = $('#nav li.formdrop a')
+    var dropbg  = $('#nav li.formdrop span.dropbg')
+    var regform = $('#nav li.formdrop form')
+    var loader  = $('#nav li.formdrop div.loading')
+    var confirm = $('#nav li.formdrop #formcomplete')
+    
+    var duration = 200 //animation length
+    
+    //hide stuff
+    regdrop.hide();
+    regform.hide();
+    dropbg.hide();
+    
+    function showRegform() {
+      reglink.addClass('hover');
+      regdrop.fadeIn(duration);
+      dropbg.slideDown(duration);
+      if (!confirm.is(':visible'))
+        regform.slideDown(duration);
+    };
+    
+    function hideRegform() {
+      reglink.removeClass('hover');
+      regdrop.fadeOut(duration);
+      dropbg.slideUp(duration);
+      regform.slideUp(duration);
+    };
+    
+    reglink.click(function() {
+      if (regdrop.is(':visible')) {
+        hideRegform();
+      } else {
+        showRegform();
+      }
+    });
+    
+    $('a.reglink').click(function() {
+      if (regdrop.is(':visible')) {
+        hideRegform();
+      } else {
+        showRegform();
+      }
+    });
+    
+    var reglabel = $('#email').siblings('label').html();
+    $('#email').siblings('label').hide();
+    $('#email').val(reglabel);
+    $('#email').click(function(){
+      if ($(this).val() == reglabel) {
+        $(this).val('');
+      }
+    });
+    $('#email').blur(function() {
+      if ($(this).val() == '') {
+        $(this).val(reglabel);
+      }
+    });
+	
+	$("#register_btn").click(function ()
+	{
+		$(".loading").fadeIn("fast");
+		$.getJSON("beta_reg2.php?email=" + escape($('#email').val()),
+		function(data)
+		{
+			$("#formcomplete p").html(data["message"]);
+			
+			$('#formcomplete p a').click(function()
+			{
+				if (data["reason"] == "dup" || data["reason"] == "invalid")
+				{
+					$("#formcomplete").fadeOut("fast", function()
+					{
+						$("#regform form").fadeIn("fast");
+					});
+					return;
+				}
+
+				hideRegform();
+			});
+			
+			
+			$("#regform form").fadeOut("fast", function()
+			{
+				$("#formcomplete").fadeIn("fast");
+				$(".loading").fadeOut("fast");
+			});
+		});
+		return false; // cancel submit request because we're using json
+	});
+	
+	
+	//end doc ready
+	});
+</script>
+
+
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+
+re_("a4Fg6hI6Js0S3");
+// ]]>
+</script>
+	
+<script type="text/javascript" src="http://demo.reinvigorate.net/re_/re_.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+with (reinvigorate)
+{
+	host = "demo.reinvigorate.net";
+	track("asdfasdfasdf");
+}
+// ]]>
+</script>
+
+
+
+
+</body></html>
