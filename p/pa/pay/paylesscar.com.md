@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308084544id_/http%3A//www.paylesscarrental.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813162142id_/http%3A//www.paylesscar.com/privacy.asp) for the most accurate reproduction.*
 
-# Discount Rental Cars: Payless Car Rental
+# Payless Car Rental - Privacy
 
-**PLEASE NOTE:** This privacy policy pertains to PaylessCarRental.com and any sub-directory below it. **
+**PLEASE NOTE:** This privacy policy pertains to PaylessCar.com and any sub-directory below it. **
 
 INTRODUCTION
 
