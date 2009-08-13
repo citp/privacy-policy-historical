@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626063005id_/http%3A//freepressindex.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressindex.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813135434id_/http%3A//freepressindex.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Free Online Press Release Distribution |
 
