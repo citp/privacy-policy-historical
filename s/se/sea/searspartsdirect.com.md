@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searspartsdirect.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629102254id_/http%3A//www.searspartsdirect.com/partsdirect/privacyPolicy.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searspartsdirect.com privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814065503id_/http%3A//www.searspartsdirect.com/partsdirect/privacyPolicy.pd) for the most accurate reproduction.*
 
 # Privacy Policy | SearsPartsDirect.com
 
