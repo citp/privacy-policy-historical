@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bissell.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416050700id_/http%3A//www.bissell.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bissell.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815113121id_/http%3A//www.bissell.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # www.BISSELL.com - Privacy Policy
 
