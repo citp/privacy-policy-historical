@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605141942id_/http%3A//www.affilit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815132621id_/http%3A//www.affilit.com/privacy.html) for the most accurate reproduction.*
 
 # Affilit.com
 
