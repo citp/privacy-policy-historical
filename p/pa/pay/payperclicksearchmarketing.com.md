@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payperclicksearchmarketing.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521202920id_/http%3A//www.payperclicksearchmarketing.com/MakeMoneyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperclicksearchmarketing.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815102628id_/http%3A//www.payperclicksearchmarketing.com/MakeMoneyPrivacy.htm) for the most accurate reproduction.*
 
 # Normal paragraph text
 
