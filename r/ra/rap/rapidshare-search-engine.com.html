@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rapidshare-search-engine.com privacy policy that was archived on 2008-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080828135507id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidshare-search-engine.com privacy policy that was archived on 2009-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090815052504id_/http%3A//rapidshare-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 		<meta name="verify-v1" content="7+cZxq5yyrgrQbePBGwCpS39kA7ZQn8AlFkhOXcjrdQ=">
@@ -12,285 +12,26 @@
 		<meta name="DC.Subject" content="rapidshare,premium,search,find,rapishare,rapisdhare,files,download">
 		<meta name="DC.Title" content="Rapidshare-search-engine.com">
 		<title>Rapidshare-search-engine.com - Find files on rapidshare</title>
-		<link rel="stylesheet" type="text/css" href="style_new.css" media="all" title="Blue Paper">
-		<link rel="alternate stylesheet" type="text/css" href="style_new2.css" media="all" title="Original">
+		<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="style_new2.css" media="all" title="Original Fixed">
+		<link rel="alternate stylesheet" type="text/css" href="style_new4.css" media="all" title="Blue Paper Fixed">
+		<link rel="alternate stylesheet" type="text/css" href="style_new3.css" media="all" title="Blue Paper Wide">
+		<link rel="alternate stylesheet" type="text/css" href="style_new.css" media="all" title="Blue Paper Fixed Alt">
+		<link rel="alternate stylesheet" type="text/css" href="style_new4b.css" media="all" title="Dark Paper Fixed">
+		<script type="text/javascript" src="main.js"></script>
 		<script language="JavaScript" type="text/JavaScript">
 		<!--
 			/* All code Copyright (c) 2007-2008 Mario Ljubicic, unless noted otherwise. Please don't steal the code. */
-			
-			var counter=0;var canStop=0;var canStop2=0;var animInterval=null;var msgInterval=null;var actionStr='';var totsmsg=5;var aBack=0;var rStep=0;
-			function searchPluginSupported() { if (window.external && ("AddSearchProvider" in window.external)) return true; else return false; }
-			function chkEmail() {
-				var uemail=document.getElementById('uemail');
-				if (uemail.value.length<1) { alert('Please enter a valid email address!'); return false; }
-				else if (!uemail.value.match(/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/)) { alert('Please enter a valid email address!'); return false; } else return true;
-			}
-			function goAnim(msgNum) {
-				canStop=0;canStop2=0;
-				clearInterval(animInterval);
-				animInterval=setInterval('startAnim(8,10)',50);
-				for (tm=1;tm<=totsmsg;tm++) document.getElementById('sys_'+tm).style.visibility='hidden';
-				document.getElementById('sys_msg2').style.visibility='hidden';
-				document.getElementById('sys_msg1').style.visibility='hidden';
-				document.getElementById('sys_'+msgNum).style.visibility='visible';
-				//msgInterval=setInterval('flashMsg('+msgNum+')',1000);
-			}
-			function flashMsg(msgNum) {
-				var msgEl=document.getElementById('sys_'+msgNum);
-				if (msgEl.style.visibility=='visible') msgEl.style.visibility='hidden';else msgEl.style.visibility='visible';
-			}
-			function startAnim(r,stp) {
-				var el=document.getElementById('anim');
-				rStep+=(2*Math.PI)/stp;rStep%=2*Math.PI;
-				if (!canStop2) {
-					if (aBack) { if (canStop) counter=(counter+1)%10;else counter=(counter+9)%10; }
-					else { if (canStop) counter=(counter+9)%10;else counter=(counter+1)%10; }
-					el.src=document.getElementById('anim_'+counter).src;
-				}
-				el.style.top=(42+(Math.sin(rStep)*r))+'px';el.style.left=((60-r)+(Math.cos(rStep)*r))+'px';
-				if (canStop && (counter==0)) canStop2=1;if (canStop2 && (rStep==0)) clearInterval(animInterval);
-			}
-			function stopAnim() {
-				aBack=0;canStop=1;
-				//clearInterval(animInterval);
-				//clearInterval(msgInterval);
-				for (tm=1;tm<=totsmsg;tm++) document.getElementById('sys_'+tm).style.visibility='hidden';
-				document.getElementById('sys_msg1').style.visibility='visible';
-			}
-			function printError(errstr) { document.getElementById('results').innerHTML='<div class="error">'+errstr+'</div>'; }
-			function checkEnter(e) {
-				// onkeypress="return checkEnter(event)"
-				var characterCode;
-				if (e && e.which) characterCode=e.which;
-				else { e=window.event;characterCode=e.keyCode; }
-				if (characterCode==13) { getRes();return false;	}
-			}
-			// URLEncode function
-			// Copyright Albion Research Ltd. 2002
-			// http://www.albionresearch.com/
-			function URLEncode(str)
-			{
-				var SAFECHARS = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz" +
-								"-_.!~*'()";					// RFC2396 Mark characters
-				var HEX="0123456789ABCDEF";var plaintext=str;var encoded="";
-				for (var i=0;i<plaintext.length;i++) {
-					var ch=plaintext.charAt(i);
-				    if (ch==" ") {
-					    encoded +="+";				// x-www-urlencoded, rather than %20
-					} else if (SAFECHARS.indexOf(ch) != -1) {
-					    encoded +=ch;
-					} else {
-					    var charCode=ch.charCodeAt(0);
-						if (charCode>255) {
-							/*
-						    alert( "Unicode Character '" 
-			                        + ch 
-			                        + "' cannot be encoded using standard URL encoding.\n" +
-							          "(URL encoding only supports 8-bit characters.)\n" +
-									  "A space (+) will be substituted." );
-							*/
-							encoded +="+";
-						} else {
-							encoded +="%";
-							encoded +=HEX.charAt((charCode >> 4) & 0xF);
-							encoded +=HEX.charAt(charCode & 0xF);
-						}
-					}
-				}
-				return encoded;
-			}
-	  		function doReport(strRepId) {
-				if (confirm('Are you sure that you want to report this link as broken, or mislabeled/inappropriate ?')) {
-					goAnim(3);
-					if(window.XMLHttpRequest) req=new XMLHttpRequest();
-					else if (window.ActiveXObject) {
-						try { req = new ActiveXObject("Msxml2.XMLHTTP"); }
-						catch (e) {
-							try { req = new ActiveXObject("Microsoft.XMLHTTP");	}
-							catch (e) {}
-						}
-					}
-					req.onreadystatechange = function()	{
-						if(req.readyState==4) {
-							if(req.status==200) {
-								document.getElementById('r_'+strRepId).style.visibility='hidden';
-								var tmpArr=new Array();var i;
-								tmpArr=req.responseText.split(',');
-								for (i=0;i<tmpArr.length;i++) {
-									if (document.getElementById('r_'+tmpArr[i]))
-										document.getElementById('r_'+tmpArr[i]).style.visibility='hidden';
-								}
-								stopAnim();
-							}
-							else {
-								printError(req.status+': '+req.statusText);stopAnim();
-								//alert("Error: returned status code " + req.status + " " + req.statusText);
-							}
-						}
-					};
-					var tmpurl='http://rapidshare-search-engine.com/report.php?id='+strRepId;
-					req.open("GET",tmpurl,true);req.setRequestHeader("Content-Type","application/x-www-form-urlencoded");req.send(null);
-				}
-			}
-	  		function getRes(strStart) {
-				goAnim(5);
-				if(window.XMLHttpRequest) req=new XMLHttpRequest();
-				else if (window.ActiveXObject) {
-					try { req=new ActiveXObject("Msxml2.XMLHTTP"); } 
-					catch (e) {
-						try { req=new ActiveXObject("Microsoft.XMLHTTP"); }
-						catch (e) {}
-					}
-				}
-				req.onreadystatechange=function() { 
-					if(req.readyState==4) {
-						if(req.status==200)	{
-							var myRes=document.getElementById('results');
-							myRes.innerHTML=req.responseText;
-							document.getElementById('start').value='0';
-							//var t=setTimeout("uRefg()",150);
-						}	
-						else {
-							printError(req.status+': '+req.statusText);
-							//alert("Error: returned status code " + req.status + " " + req.statusText);
-						}
-						stopAnim();
-					} 
-				}; 
-				var strSType=document.getElementById('s_type').value;
-				var strS=document.getElementById('s').value;var strWhat=0;
-				if (document.getElementById('what_1').checked == true) strWhat=1;
-				var tmpurl='http://rapidshare-search-engine.com/res.php?ua=1&s_type='+strSType+'&what='+strWhat+'&s='+URLEncode(strS)+'&start='+strStart+'&rval='+Math.round(2147483647*Math.random());
-				req.open("GET",tmpurl,true);req.setRequestHeader("Content-Type","application/x-www-form-urlencoded");req.send(null);
-			}
-			var obj = {
-				init : function() {
-					obj.tf = document.getElementById('sform');obj.sval = document.getElementById('s');
-				},
-				doSrch : function(strQS,strStart) {
-					if (obj.sval.value.length > 0) {
-						obj.s =document.createElement('script');
-						obj.s.type ='text/javascript';
-						obj.s.charset ='utf-8';
-						obj.s.src ='http://search.yahooapis.com/WebSearchService/V1/webSearch?appid=I4NQrNfV34F6HiriOwtIg_pBzQiN3cxWpBdIrgASWAe6TIP64lj1YfZDPFefsGy.U35S2h4-&output=json&callback=obj.srchDone&query='+strQS+'&start='+(((strStart-1)*10)+1);
-						document.getElementsByTagName('head')[0].appendChild(obj.s);
-					}
-					else {
-						stopAnim();alert('Forgot something ?');
-					}
-					return false;
-				},
-				srchDone : function(z) {
-					var u;var t;var s;var du;var ca;var cs;
-					var uj=document.createElement("input");
-					uj.type ="hidden";uj.name ="uj";uj.value ="1";obj.tf.appendChild(uj);
-					var rf=document.createElement("input");
-					rf.type ="hidden";rf.name ="first";rf.value =z.ResultSet.firstResultPosition;obj.tf.appendChild(rf);
-					var rr=document.createElement("input");
-					rr.type ="hidden";rr.name ="returned";rr.value =z.ResultSet.totalResultsReturned;obj.tf.appendChild(rr);
-					var rt=document.createElement("input");
-					rt.type ="hidden";rt.name ="total";rt.value =z.ResultSet.totalResultsAvailable;obj.tf.appendChild(rt);
-					for (var i=0;i<z.ResultSet.Result.length;i++) {
-						u=z.ResultSet.Result[i].Url;
-						t=z.ResultSet.Result[i].Title;
-						s=z.ResultSet.Result[i].Summary;
-						du=z.ResultSet.Result[i].DisplayUrl;
-						ca='';cs='';
-						if (z.ResultSet.Result[i].Cache) {
-							ca=z.ResultSet.Result[i].Cache['Url'];
-							cs=z.ResultSet.Result[i].Cache['Size'];
-						}
-						var uu=document.createElement("input");
-						uu.type ="hidden";uu.name ="surl[]";uu.value =u;obj.tf.appendChild(uu);
-						var tt=document.createElement("input");
-						tt.type ="hidden";tt.name ="stitle[]";tt.value =t;obj.tf.appendChild(tt);
-						var ss=document.createElement("input");
-						ss.type ="hidden";ss.name ="ssum[]";ss.value =s;obj.tf.appendChild(ss);
-						var duu=document.createElement("input");
-						duu.type ="hidden";duu.name ="sdurl[]";duu.value =du;obj.tf.appendChild(duu);
-						var caa=document.createElement("input");
-						caa.type ="hidden";caa.name ="scache[]";caa.value =ca;obj.tf.appendChild(caa);
-						var csa=document.createElement("input");
-						csa.type ="hidden";csa.name ="scachesize[]";csa.value =cs;obj.tf.appendChild(csa);
-					}
-					stopAnim();
-					document.sform.method="POST";
-					//document.sform.action='http://rapidshare-search-engine.com/index.php';
-					document.sform.action=actionStr;
-					obj.tf.submit();
-				}
-			};
-			function subForm() {
-				var strStart=document.getElementById('start').value;
-				if (document.getElementById('use_ajax').checked == true)
-					getRes(strStart);
-				else {
-					var strWhat=0;
-					if (document.getElementById('what_1').checked == true) strWhat=1;
-					var strSType=document.getElementById('s_type').value;
-					var strS=document.getElementById('s').value;
-					if (strWhat == 0) {
-						goAnim(5);
-						var strQS;
-						strQS=strS;
-						if (strSType==0) strQS +=' +"rapidshare.com/files"';
-						else if (strSType==1) strQS +=' +"rapidshare.de/files"';
-						else strQS +=' +("rapidshare.com/files" OR "rapidshare.de/files")';
-						actionStr='index-s_submit=Search&sformval=1&s_type='+strSType+'&what='+strWhat+'&s='+URLEncode(URLEncode(strS))+'&start='+strStart+'.html';
-						if (strStart<1) strStart=1;
-						obj.doSrch(strQS,strStart);
-					}
-					else {
-						//return true;
-						actionStr='index-s_submit=Search&sformval=1&s_type='+strSType+'&what='+strWhat+'&s='+URLEncode(URLEncode(strS))+'&start='+strStart+'.html';
-						document.sform.method="POST";
-						document.sform.action=actionStr;
-						document.getElementById('sform').submit();
-					}
-				}
-				return false;
-			}
-		//-->
+			var counter=0;var canStop=0;var canStop2=0;var animInterval=null;var msgInterval=null;var actionStr='';var totsmsg=5;var aBack=0;var rStep=0; var isWebAx=0; var sty_changed=0; var sty_cur='Original Fixed';
+					//-->
 		</script>
-		<!--[if lt IE 7]>
-		<script language="JavaScript">
-		function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6., found on the web
-		{
-		   var arVersion=navigator.appVersion.split("MSIE")
-		   var version=parseFloat(arVersion[1])
-		   if ((version >= 5.5) && (document.body.filters)) 
-		   {
-		      for(var i=0;i<document.images.length;i++)
-		      {
-		         var img=document.images[i]
-		         var imgName=img.src.toUpperCase()
-		         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
-		         {
-		            var imgID = (img.id) ? "id='"+img.id+"' " : ""
-		            var imgClass = (img.className) ? "class='"+img.className+"' " : ""
-		            var imgTitle = (img.title) ? "title='"+img.title+"' " : "title='"+img.alt+"' "
-		            var imgStyle = "display:inline-block;"+img.style.cssText 
-		            if (img.align == "left") imgStyle="float:left;"+imgStyle
-		            if (img.align == "right") imgStyle="float:right;"+imgStyle
-		            if (img.parentElement.href) imgStyle="cursor:hand;"+imgStyle
-		            var strNewHTML = "<span "+imgID+imgClass+imgTitle
-		            +" style=\""+"width:"+img.width+"px; height:"+img.height+"px;"+imgStyle+";"
-		            +"filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
-		            +"(src=\'"+img.src+"\', sizingMethod='scale');\"></span>" 
-		            img.outerHTML=strNewHTML
-		            i=i-1
-		         }
-		      }
-		   }    
-		}
-		window.attachEvent("onload",correctPNG);
-		</script>
-		<![endif]-->
-	</head>
-	<body onload="obj.init();">
-				<div id="wrapper">
-			<div id="top_ad0">
-				<div style="position: absolute; left: 5px; top: 4px">
+			</head>
+	<body onload="obj.init(); readStyleCookie(); "><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+				<script type="text/javascript" src="wz_tooltip.js"></script>
+		<script type="text/javascript" src="tip_balloon.js"></script>
+		<div id="wrapper">
+			<div align="center" id="twrapper"><div id="top_ad0" align="left">
+								<div id="bookms" style="position: absolute; left: 5px; top: 4px">
 					<a href="http://del.icio.us/post?url=http%3A%2F%2Frapidshare-search-engine.com&amp;title=Rapidshare-Search-Engine" title="Bookmark this site"><img border="0" src="/images/delicious.png" alt="Bookmark this site"></a>
 					<a href="http://digg.com/submit?phase=3&amp;url=http%3A%2F%2Frapidshare-search-engine.com&amp;title=Rapdishare-Search-Engine" title="Digg this site"><img border="0" src="/images/digg.png" alt="Digg this site"></a>
 					<a href="http://www.furl.net/store?s=f&amp;to=0&amp;u=http://rapidshare-search-engine.com"><img border="0" src="/images/furl.gif" alt=""></a>
@@ -303,79 +44,98 @@
 					<a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http://rapidshare-search-engine.com"><img border="0" src="/images/google.png" alt=""></a>
 					<a href="http://www.facebook.com/sharer.php?u=http://rapidshare-search-engine.com"><img border="0" src="/images/facebook.gif" alt=""></a>
 				</div>
-				<img id="sys_msg0" border="0" src="images/sys_msg.png" alt="">
+								<img id="sys_msg0" border="0" src="images/sys_msg.png" alt="">
 				<img id="sys_msg1" class="sys_msg" border="0" src="images/sys_done.png" alt="" style="visibility: hidden">
-				<img id="sys_msg2" class="sys_msg" border="0" src="images/sys_welcome.png" alt="" style="visibility: hidden">
+				<img id="sys_msg2" class="sys_msg" border="0" src="images/sys_welcome.png" alt="">
 				<img id="sys_1" class="sys_msg" border="0" src="images/sys_check.png" alt="" style="visibility: hidden">
 				<img id="sys_2" class="sys_msg" border="0" src="images/sys_get.png" alt="" style="visibility: hidden">
 				<img id="sys_3" class="sys_msg" border="0" src="images/sys_report.png" alt="" style="visibility: hidden">
 				<img id="sys_4" class="sys_msg" border="0" src="images/sys_res.png" alt="" style="visibility: hidden">
 				<img id="sys_5" class="sys_msg" border="0" src="images/sys_search.png" alt="" style="visibility: hidden">
-										<div style="position: absolute; right: 5px; top: 4px">
+																<div id="addth_n" style="position: absolute; right: 5px; top: 4px">
 							<!-- AddThis Bookmark Button BEGIN -->
-							<script type="text/javascript">
+							<script type="text/javascript"><!--
 							  addthis_url    = location.href;   
 							  addthis_title  = document.title;  
 							  addthis_pub    = 'm3gadeth';     
-							</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+							//--></script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
 							<!-- AddThis Bookmark Button END -->
 						</div>
-								</div>
+														</div></div>
 		<div id="main">
-			<div id="h_anim">
-				<img id="anim" class="anim" border="0" src="images/rot1_new.png" alt="">
-				<img id="anim_0" class="anim" border="0" src="images/rot1_new.png" alt="" style="visibility: hidden">
-				<img id="anim_1" class="anim" border="0" src="images/rot2_new.png" alt="" style="visibility: hidden">
-				<img id="anim_2" class="anim" border="0" src="images/rot3_new.png" alt="" style="visibility: hidden">
-				<img id="anim_3" class="anim" border="0" src="images/rot4_new.png" alt="" style="visibility: hidden">
-				<img id="anim_4" class="anim" border="0" src="images/rot5_new.png" alt="" style="visibility: hidden">
-				<img id="anim_5" class="anim" border="0" src="images/rot6_new.png" alt="" style="visibility: hidden">
-				<img id="anim_6" class="anim" border="0" src="images/rot7_new.png" alt="" style="visibility: hidden">
-				<img id="anim_7" class="anim" border="0" src="images/rot8_new.png" alt="" style="visibility: hidden">
-				<img id="anim_8" class="anim" border="0" src="images/rot9_new.png" alt="" style="visibility: hidden">
-				<img id="anim_9" class="anim" border="0" src="images/rot10_new.png" alt="" style="visibility: hidden">
-			</div>
+						<div id="h_anim">
+									<img id="anim" class="anim" src="images/rot1_new.png" alt="" style="visibility: visible">
+					<img id="anim_0" class="anim" src="images/rot1_new.png" alt="">
+					<img id="anim_1" class="anim" src="images/rot2_new.png" alt="">
+					<img id="anim_2" class="anim" src="images/rot3_new.png" alt="">
+					<img id="anim_3" class="anim" src="images/rot4_new.png" alt="">
+					<img id="anim_4" class="anim" src="images/rot5_new.png" alt="">
+					<img id="anim_5" class="anim" src="images/rot6_new.png" alt="">
+					<img id="anim_6" class="anim" src="images/rot7_new.png" alt="">
+					<img id="anim_7" class="anim" src="images/rot8_new.png" alt="">
+					<img id="anim_8" class="anim" src="images/rot9_new.png" alt="">
+					<img id="anim_9" class="anim" src="images/rot10_new.png" alt="">
+							</div>
+			<div id="h_anim0"></div>
+			<script type="text/javascript"><!--
+				var IE6 = false /*@cc_on || @_jscript_version < 5.7 @*/;
+				if (IE6)
+					document.getElementById('h_anim').style.background = 'transparent';
+			//--></script>
 			<div id="search_div" align="left">
 				<form action="http://rapidshare-search-engine.com/index.php" method="get" onsubmit="return subForm()" id="sform" name="sform">
 					<input type="hidden" name="start" id="start" value="0">
 					<input type="hidden" name="sformval" value="1">
-					<input type="hidden" name="rval" value="708341591">
-					<input id="s" name="s" title="You can use wildcards (*) and include operators (+,-)" type="text" size="30" maxlength="200">&nbsp;
-					<select id="s_type" name="s_type">
-						<option value="0" selected="selected">Rapidshare.com</option>
-						<option value="1">Rapidshare.de</option>
+					<input type="hidden" name="rval" value="1064332651">
+					<input style="width: 216px" onkeydown="doRoll(event)" id="s" name="s" title="" type="text" size="30" maxlength="200">&nbsp;
+					<select id="s_type" name="s_type" style="display: none; width: 125px; margin-right: 4px">
+						<option value="0">Rapidshare.com</option>
+						<option value="1" selected="selected">Rapidshare.de</option>
 						<option value="2">Both</option>
-					</select>&nbsp;&nbsp;
-					<input type="submit" name="s_submit" value="Search"><br>
-					<input type="radio" id="what_0" name="what" value="0" style="margin-left: 0px"><label for="what_0">the web</label> &nbsp;&nbsp;
-					<input type="radio" id="what_1" name="what" value="1" checked="checked"><label for="what_1">our database</label> &nbsp;&nbsp;
-					<div style="display: inline; padding-left: 1px" title="fetch results dynamically, no page reload"><input type="checkbox" class="cbox2" name="use_ajax" id="use_ajax" value="1" title="fetch results dynamically, no page reload"><label for="use_ajax">use ajax</label></div>
+					</select>
+					<input id="srch_button" type="submit" name="s_submit" value="Search"><br>
+					<div id="adv_text" class="adv_text" onclick="this.style.display='none';document.getElementById('advanced').style.display='';document.getElementById('s_type').style.display=''">Advanced</div>
+					<div id="advanced" style="display: none">
+						<div class="adv_text_c" style="float: left" onclick="document.getElementById('advanced').style.display='none';document.getElementById('adv_text').style.display='';document.getElementById('s_type').style.display='none'">Simple</div>
+						<input type="radio" id="what_0" name="what" value="0" style="margin-left: 0px"><label for="what_0">the web</label> &nbsp;&nbsp;
+						<input type="radio" id="what_1" name="what" value="1" checked="checked"><label for="what_1">our database</label> &nbsp;&nbsp;
+						<div style="display: inline; padding-left: 1px" title="fetch results dynamically, no page reload"><input type="checkbox" class="cbox2" name="use_ajax" id="use_ajax" value="1" title="fetch results dynamically, no page reload"><label for="use_ajax">use ajax</label></div>
+					</div>
 				</form>
-			</div>
-			<div id="rsetools"><a href="https://addons.mozilla.org/en-US/firefox/addon/7195" target="_blank" title="Get our firefox plugin to make your rapidshare life easier! Click here for details">Install RSE Tools (firefox)</a></div>
+				<div id="rsetools"><a href="https://addons.mozilla.org/en-US/firefox/addon/7195" target="_blank" title="Get our firefox plugin to make your rapidshare life easier! Click here for details">Install RSE Tools (firefox)</a></div>
+			<div id="srch_plugin"><a href="#" onclick="window.external.AddSearchProvider('http://rapidshare-search-engine.com/rse.xml');return false;">Install search plugin web</a> / <a href="#" onclick="window.external.AddSearchProvider('http://rapidshare-search-engine.com/rsedb.xml');return false;">db</a></div></div>
 			<div id="navigation">
 				<div style="position: relative; left: 0px; top: 0px">
-					<div style="float: left; width: 64px; left: 0px; margin-left: 0px; text-align: center; padding-top: 6px; font-size: 11px"> &nbsp;v2.99</div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-news.html" title="Site news">News</a></div></div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-check.html" title="Check rapidshare links">Link Checker</a></div></div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-addlinks.html" title="Add rapidshare links to our database">Add links</a></div></div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-articles.html" title="Check out our useful tips/tricks!">Tips &amp; tricks</a></div></div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-contact.html" title="Contact us">Contact</a></div></div>
-					<div class="nav_item"><div onclick="document.location.href=this.childNodes[0].href"><a href="/">Home</a></div></div>
-					<div class="nav_blank"></div>
-				</div>
-			</div>
-					<div id="srch_plugin"><a href="#" onclick="window.external.AddSearchProvider('http://rapidshare-search-engine.com/rse.xml');return false;">Install search plugin</a></div></div>
-		<div id="results">
-			<noscript>Sorry, you must have a javascript enabled browser to use this site!</noscript>
-							<div id="top_ad" style="padding-left: 0px; padding-top: 0px">
-										<div align="center">
-						<a style="font-size: 12px" href="http://www.FriendlyDuck.com/AF_TA/rel/index.cfm?RST=UNXCOM&amp;TAD=402206" target="_blank">High-speed unlimited downloads? Click here</a>
+					<div class="ver rdonly"> &nbsp;v3.8</div>
+					<div class="nav_item" onmouseover="chAPic(1)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-news.html" title="Site news">News</a></div></div>
+					<div class="nav_item" onmouseover="chAPic(2)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-check.html" title="Check rapidshare links">Link Checker</a></div></div>
+					<div class="nav_item" onmouseover="chAPic(3)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-addlinks.html" title="Add rapidshare links to our database">Add links</a></div></div>
+					<div class="nav_item" onmouseover="chAPic(4)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-articles.html" title="Check out our useful tips/tricks!">Tips &amp; tricks</a></div></div>
+					<div class="nav_item" onmouseover="chAPic(5)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="index-cmd-contact.html" title="Contact us">Contact</a></div></div>
+					<div class="nav_item" onmouseover="chAPic(6)" onmouseout="resAPic()"><div onclick="document.location.href=this.childNodes[0].href"><a href="/">Home</a></div></div>
+					<div class="nav_sel rdonly"><span id="nav_sel_title">Style &nbsp;·</span>
+						<select id="sel_style" onchange="setActiveStyleSheet(this.options[this.selectedIndex].value); sty_changed=1;">
+							<option value="Original Fixed" selected="selected">Original Fixed</option>
+							<option value="Blue Paper Fixed">Blue Paper Fixed</option>
+							<option value="Blue Paper Wide">Blue Paper Wide</option>
+							<option value="Blue Paper Fixed Alt">Blue Paper Fixed Alt</option>
+							<option value="Dark Paper Fixed">Dark Paper Fixed</option>
+						</select>
 					</div>
 				</div>
-							<h2 align="center" style="margin-top: 8px">Privacy policy</h2>
-				<br>
-				<div style="padding-left: 10px; padding-right: 10px; font-size: 11px">
+			</div>
+		</div>
+		<div align="center" id="rwrapper"><div id="results" align="left">
+			<noscript>Sorry, you must have a javascript enabled browser to use this site!</noscript>
+				<div id="top_ad" style="padding-left: 0px; padding-top: 0px">
+										<div align="center">
+						<a style="font-size: 12px" href="http://www.FriendlyDuck.com/AF_TA/rel/index.cfm?RST=UNXCOM&amp;TAD=402206" target="_blank">High-speed unlimited downloads? Click here</a>
+						<div id="AF_TA" style="position:absolute; width:2px; height:2px; z-index:-387; left: 0px; top: 0px; visibility: visible;"><img src="http://www.FriendlyDuck.com/AF_TA/ViewCounter/index.cfm?TAD=402206&amp;bIsAffiliate=0" width="2" height="2" border="0"></div>
+					</div>
+				</div>
+<h2 align="center" style="margin-top: 8px">Privacy policy</h2>
+<br>
+<div style="padding-left: 10px; padding-right: 10px; font-size: 11px">
 &nbsp;&nbsp;&nbsp;Rapidshare-search-engine.com committed to user privacy and our policy below describes our principles in maintaining user trust and confidence
  and protecting your personal information.<br><br>
 • Information Collection and Use<br><br>
@@ -392,16 +152,17 @@ at any time you can unsubscribe from our services in which case the email addres
 &nbsp;&nbsp;&nbsp;We adhere to valid legal processes and may provide information as
  required by law to protect and defend the rights of our company, and in certain instances, to protect the personal safety of users and the
  public.
-				</div>
-				<br><br>
-									</div>
+</div>
+<br><br>
+
+		</div></div>
 	<br>
 			<div align="center" id="footer">
-									<br>
-				<div>© rapidshare-search-engine.com, 2007-2008<br>
+				<br>
+				<div>© rapidshare-search-engine.com, 2007-2009<br>
 				<a href="index-cmd-privacy.html">Privacy Policy</a> | <a href="index-cmd-terms.html">Terms of Use</a> | <a href="index-cmd-contact.html" title="Send us your comments, suggestions, bug reports...">Contact</a>
 				</div>
-				<br><br>
+				<br>
 <div id="eXTReMe"><a href="http://extremetracking.com/open?login=m3gad3th">
 <img src="http://t1.extreme-dm.com/i.gif" style="border: 0;" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
 <script type="text/javascript"><!--
@@ -423,21 +184,22 @@ src="http://e1.extreme-dm.com/s10.g?login=m3gad3th&amp;j=n&amp;jv=n" />
 		if (searchPluginSupported()) {
 			var pdiv = document.createElement("div");
 			pdiv.id = 'srch_plugin';
-			pdiv.innerHTML = '<a href="#" onclick="window.external.AddSearchProvider(\'http://rapidshare-search-engine.com/rse.xml\');return false;">Install search plugin</a>';
-			document.getElementById('main').appendChild(pdiv);
+			pdiv.innerHTML = '<a href="#" onclick="window.external.AddSearchProvider(\'http://rapidshare-search-engine.com/rse.xml\');return false;">Install search plugin web</a> / <a href="#" onclick="window.external.AddSearchProvider(\'http://rapidshare-search-engine.com/rsedb.xml\');return false;">db</a>';
+			document.getElementById('search_div').appendChild(pdiv);
 		    //document.write('<div id="srch_plugin"><a href="#" onclick="window.external.AddSearchProvider(\'http://rapidshare-search-engine.com/rse.xml\');return false;">Install search plugin</a></div>');
 		}
-		--></script>
+		//--></script>
 
-		<script type="text/javascript">
+		<script type="text/javascript"><!--
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		if (gaJsHost.length < 4) gaJsHost = "http://www.";
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
+		//--></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript"><!--
 		var pageTracker = _gat._getTracker("UA-4393235-1");
 		pageTracker._initData();
 		pageTracker._trackPageview();
-		</script>
+		//--></script>
 	</div>
 	
 
