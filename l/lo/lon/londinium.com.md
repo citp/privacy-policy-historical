@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londinium.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628012659id_/http%3A//www.londinium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londinium.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815151712id_/http%3A//www.londinium.com/privacy) for the most accurate reproduction.*
 
 # London Business Directory
 
