@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2008-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080919154537id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2009-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090815101049id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - Eventful</title>
-
-<script type="text/javascript" src="/js/unit/ek/privacy.js?744"></script>
-<link rel="stylesheet" type="text/css" href="/css/unit/ek/privacy.css?744">
+<script type="text/javascript" src="/js/unit/ek/privacy.js?398"></script>
+<link rel="stylesheet" type="text/css" href="/css/unit/ek/privacy.css?19">
 
     <!--[if lte IE 7]>
       <link rel="stylesheet" href="/css/universal/ie.css" type="text/css" />
@@ -13,25 +12,33 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" href="/images/skin/favicon.png">
+<link rel="search" type="application/opensearchdescription+xml" title="Eventful" href="/opensearch.xml">
 
 
 <script type="text/javascript">
 if (typeof window.Eventful != "object") window.Eventful = {};
 Eventful.Session = {};
 Eventful.Session.userType = "session";
+Eventful.Session.userRole = "";
 Eventful.Session.userName = "";
 Eventful.Session.Prefs = {};
 
 
+
+
+
+
 Eventful.Session.CWL = {
   location_type: "metro_id",
-  location_id: "6",
-  meta_name: "San Francisco",
-  pretty_name: "San Francisco metro area"
+  location_id: "26",
+  meta_name: "Orlando",
+  pretty_name: "Orlando metro area"
 }
-Eventful.Session.Tests = {"exit_survey":{"exit_survey":"0"},"pdp_09032008":{"split":"a"}}
-</script>
 
+
+
+Eventful.Session.Tests = {"exit_survey":"0"};
+</script>
 
 </head>
 <body>
@@ -47,223 +54,199 @@ Eventful.Session.Tests = {"exit_survey":{"exit_survey":"0"},"pdp_09032008":{"spl
       advantage of our hand-crafted interface.</p>
   </div>
 </noscript>
-<div id="header" class="">
+<div id="header" class=" noResultLinks arial">
   <div id="header-logo-location-advert">
-    <div id="header-logo-location" class="logo-location">
+    
+    <div id="header-logo-location" class="logo-location ">
       <a href="/" id="header-logo" class="logo no_hover">&nbsp;</a>
+      <script type="text/javascript">
+Eventful.oLocation = new Eventful.Location();
+</script>
+
+<div id="header-location-change">
+  <span id="location" title="Orlando metro area">Orlando metro area</span>
+  <div id="change-location" class="header-location-arrow"></div>
+</div>
+
+<div id="popover-change-location" class="arial hidden logged-out ">
+  <div class="popbd">
+    <div class="section top">
+      <h4>
+        <span class="logged-in">Pick a saved location</span>
+        <span class="logged-out">Pick a recent location</span>
+        <span class="guessed">
+          <span class="logged-in">Or pick a saved location</span>
+          <span class="logged-out">Or pick a recent location</span>
+        </span>
+      </h4>
+      <ul id="locations-list">
+        <li class="loading">
+          <span class="link-arrow">
+            loading your locations...
+            <span class="progress"></span>
+          </span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="section last bottom">
+      <h4>
+        <span class="logged-in">Or add a new location</span>
+        <span class="logged-out">Or pick a new location</span>
+        <span class="guessed">Pick a new location</span>
+      </h4>
+      
+      <form id="location-form">
+        <div class="field-container">
+          <label for="inp-location-search" class="">
+  </label>
+<div id="type-ahead-location-search" class="type-ahead">
+  <p class="progress"></p>
+  <ul id="list-selected-location-search"></ul>
+  <label for="inp-location-search" class="">
+      <input type="text" name="location-search" id="inp-location-search" value="" tabindex="1" alt="Search here" class="inactive-text" autocomplete="off"><span class="alert-error"></span></label>
+</div> <!-- end type-ahead -->
+<div id="popover-location-search" class="hidden popover type-ahead-popover">
+  <div class="popbd">
+    <p class="empty">Sorry, no results found.</p>
+    <ul id="list-results-location-search"></ul>
+    
+    <!-- put some pagination controls here -->
+  </div>
+  <!--[if lte IE 6.5]>
+    <iframe class="popover-layer"></iframe>
+  <![endif]-->
+</div> <!-- end type-ahead-popover -->
+
+<p id="description-location-search" class="diminished hidden type-ahead-description">
+  
+</p>
+          <button tabindex="2" type="submit" id="location-submit">Go</button>
+        </div>
+        <p id="location-help">
+          <strong>Zip code</strong> or <strong>city, state</strong> or <strong>city, country</strong>
+        </p>
+        <div class="progress"></div>
+      </form> <!-- end location-form -->
+      
+      <p class="link-arrow hidden geolocate">
+        <span class="fakelink">Use my current location</span>
+      </p>
+      
+      <p id="location-manage" class="link-arrow">
+        <a class="logged-in" href="/preferences/location" rel="nofollow">Manage your locations</a>
+        <a class="logged-out" href="/signin" rel="nofollow">Sign in to manage your locations</a>
+        <span class="guessed">     
+          <a class="logged-in" href="/preferences/location" rel="nofollow">Manage your locations</a>
+          <a class="logged-out" href="/signin" rel="nofollow">Sign in to manage your locations</a>
+        </span>
+      </p>
+    </div>
+  </div>
+</div> <!-- end popover-change-location -->
     </div>
     
     <div id="header-advert">
       <div id="rev-gen-10067" class="rev-gen wide-advert footer-advert ad-size-728x90 header-advert">
     
-    <iframe id="rev-gen-iframe-10067" width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://placecast.net/lbc/content?ns=EVENTFUL&amp;tmpl=10067&amp;rt=html&amp;cache=85522"></iframe>
+    
+    <iframe id="rev-gen-iframe-10067" width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://t.locpub.com/lbc/content?ns=EVENTFUL&amp;tmpl=10067&amp;lat=28.5381&amp;lng=-81.3794&amp;rt=html&amp;cache=60847"></iframe>
+    
   </div>
     </div>
     
     <div class="cleaner"></div>
   </div>
-  <!-- NAV start -->
-
-
+  
+  
+  <div id="nav-search">
+    <!-- NAV start -->
 <div id="nav">
-  <div class="nav-left"></div>
   <ul id="nav-tabs">
-    <li id="nav-events" class="nav-first"><a href="/sanfrancisco"><strong>Events</strong></a></li>
-    <li id="nav-venues"><a href="/sanfrancisco/venues"><strong>Venues</strong></a></li>
-    <li id="nav-performers"><a href="/sanfrancisco/performers"><strong>Performers</strong></a></li>
-    <li id="nav-demands"><a href="/demand"><strong>Demands</strong></a></li>
-    <li id="nav-community"><a href="/community"><strong>Community</strong></a></li>
-    <li id="nav-my" class="nav-last"><a href="/my"><strong>My Eventful</strong></a></li>
-  </ul>
-  <div id="nav-create">
-    <a id="nav-create-click" class="autoclose-click no_hover" href="#"><span>Add stuff</span></a>
-    <div id="nav-popover" class="popover hidden autoclose">
-      <div class="popbd">
-        <ul>
-           
-          <li><a href="/events/new" rel="nofollow">Event</a></li><li><a href="/venues/new" rel="nofollow">Venue</a></li><li><a href="/performers/new" rel="nofollow">Performer</a></li><li><a href="/demand/new" rel="nofollow">Demand</a></li><li><a href="/groups/new" rel="nofollow">Group</a></li><li><a href="/calendars/new" rel="nofollow">Calendar</a></li></ul>
-      </div>
-    </div>
-  </div>
-  <div class="nav-right"></div>
+    <li id="nav-home" class="nav-first"><a href="/" rel="nofollow"><span>Home</span></a></li>
+    <li id="nav-events"><a href="/orlando/events" rel="nofollow"><span>Find events</span></a></li>
+    <li id="nav-demands"><a href="/demand"><span>Demand events</span></a></li>
+    <li id="nav-community"><a href="/community" rel="nofollow"><span>Community</span></a></li>
+    <li id="nav-signup" class="nav-last"><a href="/join" rel="nofollow"><span><span class="green-arrow"></span>Sign up!</span></a></li>
+    
+  </ul><div class="nav-tl"></div><div class="nav-tr"></div>
 </div>
 <!-- NAV end -->
-  <script type="text/javascript">
+    <div id="search">
+      <script type="text/javascript">
 Eventful.oSearch = new Eventful.Search();
 </script>
 
-<!-- Search start -->
-<div id="search">
-  <form id="search-form-action" action="/search" method="get">
-    
-    
-    <input type="hidden" name="location_type" id="inp-location-type" value="metro_id">
-    <input type="hidden" name="location_id" id="inp-location-id" value="6">
-    <input type="hidden" name="location" id="inp-location" value="San Francisco metro area">
-    <fieldset class="search-query">
-      <input id="q" name="q" type="text" size="31" class="text autoclose-click inactive-text" value="" alt="Enter your search text here">
-      <div id="search-popover" class="popover hidden autoclose">
-        <div class="pophd">
-          Search for…
-        </div>
-        <div class="popbd">
-          <div id="search-areas">
-            <ul id="search-areas-list" class="">
-              <li id="search-areas-events" class="search-area"><input id="search-events" alt="e.g. festivals; art show" class="radio" type="radio" value="events" name="area"><label for="search-events">Events</label></li>
-              <li id="search-areas-venues" class="search-area"><input id="search-venues" alt="e.g. bar; Madison Square" class="radio" type="radio" value="venues" name="area"><label for="search-venues">Venues</label></li>
-              <li id="search-areas-performers" class="search-area"><input id="search-performers" alt="e.g. Rolling Stones; Jay-Z" class="radio" type="radio" value="performers" name="area"><label for="search-performers">Performers</label></li>
-              <li id="search-areas-demands" class="search-area"><input id="search-demands" alt="e.g. Rolling Stones; Jay-Z" class="radio" type="radio" value="demands" name="area"><label for="search-demands">Demands</label></li>
-              <li id="search-areas-groups" class="search-area"><input id="search-groups" alt="e.g. Web 2.0; music" class="radio" type="radio" value="groups" name="area"><label for="search-groups">Groups</label></li>
-              <li id="search-areas-users" class="search-area"><input id="search-users" alt="e.g. tallwilly; disco" class="radio" type="radio" value="users" name="area"><label for="search-users">Users</label></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </fieldset>
-    <fieldset class="search-submit">
-      <button id="btn-search-submit" class="shiny-positive-small-tall" type="submit">Search</button>
-    </fieldset>
-  </form>
-  <div class="cleaner"></div>
-</div>
-<!-- Search end -->
+<form id="search-form-action" action="/search" method="get">
+  
+  
+  <input type="hidden" name="location_type" id="inp-location-type" value="metro_id">
+  <input type="hidden" name="location_id" id="inp-location-id" value="26">
+  <input type="hidden" name="location" id="inp-location" value="Orlando metro area">
+  <input type="hidden" name="area" id="inp-area">
+  <div class="magnify"></div><fieldset class="search-query"><input id="q" name="q" type="text" size="31" class="text autoclose-click inactive-text" value="" autocomplete="off" alt="Enter your search text here"></fieldset>
+  <fieldset class="search-submit"><button id="btn-search-submit" class="shiny-positive-small-tall" type="submit"><span>Search</span></button></fieldset>
+</form>
+<div class="cleaner"></div>
+
+<div id="search-popover" class="hidden arial">
+  <div class="pophd">
+    Search for…
+  </div>
+  <div class="popbd">
+    <div id="search-areas">
+      <ul id="search-areas-list" class="">
+        <li id="search-areas-events" class="search-area"><input id="search-events" class="radio" type="radio" value="events" name="search-area"><label for="search-events">Events</label></li>
+        <li id="search-areas-venues" class="search-area"><input id="search-venues" class="radio" type="radio" value="venues" name="search-area"><label for="search-venues">Venues</label></li>
+        <li id="search-areas-performers" class="search-area"><input id="search-performers" class="radio" type="radio" value="performers" name="search-area"><label for="search-performers">Performers</label></li>
+        <li id="search-areas-demands" class="search-area"><input id="search-demands" class="radio" type="radio" value="demands" name="search-area"><label for="search-demands">Demands</label></li>
+        <li id="search-areas-groups" class="search-area"><input id="search-groups" class="radio" type="radio" value="groups" name="search-area"><label for="search-groups">Groups</label></li>
+        <li id="search-areas-users" class="search-area"><input id="search-users" class="radio" type="radio" value="users" name="search-area"><label for="search-users">Users</label></li>
+      </ul>
+    </div>
+  </div>
+</div> <!-- end search-popover -->
+      <div class="search-tr"></div>
+    </div> <!-- end search -->
+    <!-- <div class="cleaner border"></div> -->
+  </div>
+  
   <!-- USER-LOGIN-STATUS start -->
 <div id="user-panel" class="logged-out">
-<div class="user-panel-left-corner"></div>
-
-  <span id="user-panel-signin-block" class="autoclose-click"><img src="/images/site/chrome/img_user_panel_arrow.png" alt="arrow">
-  You're not signed in.</span>
-  <a href="/signin?goto=%2Fprivacy" id="user-panel-signin" class="autoclose-click" rel="nofollow">Sign in</a>
-  or <a href="/join?goto=%2Fprivacy" id="user-panel-join" rel="nofollow">Join now</a>
-  <div id="user-panel-popover" class="popover hidden autoclose">
-    <div class="popbd">
-      <form action="/signin" method="post">
-        
-        <input type="hidden" name="goto" value="/privacy">
-        
-        <div>
-          <ul>
-            <li class="user-panel-username">
-              <label for="username">Username</label>
-              <input id="username" name="username" type="text" size="20" class="text" tabindex="1">
-            </li>
-            <li class="user-panel-password">
-              <label for="password">Password</label>
-              <input id="password" name="password" type="password" size="20" class="text" tabindex="2">
-              <a href="/forgot?" id="user-panel-forgot" tabindex="5">Forgot your password?</a>
-            </li>            
-          </ul>
-        </div>
-        <div class="buttons">
-          <button id="btn-user-panel-signin" type="submit" class="shiny-positive-small-tall">Sign in</button>
-          <button id="btn-user-panel-cancel" type="button" class="shiny-negative-small-tall">Cancel</button>
-        </div>
-      </form>
-    </div>
-    <!--[if lte IE 7]><iframe class="popover-layer"></iframe><![endif]-->
+  
+  <div id="user-panel-promote">
+    <a href="/advertise/learn" title="Promote your events!"><span></span>Promote your event!</a>
+  </div>
+  
+  <ul>      <li class="add-event"><a href="/events/new" rel="nofollow"><span></span>Add event</a></li><li class="shopping-cart"><a href="/advertise/learn" rel="nofollow"><span></span>Shopping cart</a></li><li class="sign-in last"><a href="/signin?goto=%2Fprivacy%3F" id="user-panel-signin" rel="nofollow">Sign in</a></li>  </ul>
+  
+  <div id="user-panel-popover" class="signin-pane hidden arial">
+    <form action="/signin" method="post">
+      
+      <input type="hidden" name="goto" value="/privacy?">
+      
+      <div class="field-container">
+        <label for="inp-user-panel-username" class="">
+      <span class="field-name">Username</span>
+      <input type="text" name="username" id="inp-user-panel-username" value="" tabindex="3"></label>
+      </div>
+      <div class="field-container">
+        <label for="inp-user-panel-password" class="">
+      <span class="field-name">Password</span>
+      <input type="password" name="password" id="inp-user-panel-password" tabindex="4"></label>
+        <a href="/forgot?" id="user-panel-forgot" tabindex="5" rel="nofollow">Forgot your password?</a>
+      </div>            
+      <div class="buttons">
+        <button tabindex="6" id="btn-user-panel-signin" type="submit" class=""><span>Sign in</span>&nbsp;</button>
+        <span id="btn-user-panel-cancel" class="fakelink">Cancel</span>
+      </div>
+    </form>
   </div> <!-- end user-panel-popover -->
-
+  
 </div>
 <!-- USER-LOGIN-STATUS end -->
-  <script type="text/javascript">
-Eventful.oLocation = new Eventful.Location();
-</script>
-<div id="header-location-change" class="autoclose-click fakelink">
-  <div class="header-location-left-corner"></div>
-  <span id="location" class="autoclose-click fakelink no_hover" title="San Francisco metro area">San Francisco metro area</span>
-  <div id="location-change-container" class="logged-out ">
-    <div id="location-change" class="autoclose-click fakelink">
-      <span class="autoclose-click">Change</span>
-    </div>
-  <div id="location-popover" class="popover hidden autoclose">
-    <div class="popbd">
-      <div class="section top">
-        <h4>
-          <span class="logged-in">Pick a saved location</span>
-          <span class="logged-out">Pick a recent location</span>
-          <span class="guessed">
-            <span class="logged-in">Or pick a saved location</span>
-            <span class="logged-out">Or pick a recent location</span>
-          </span>
-        </h4>
-        <ul id="locations-list">
-          <li class="loading"><div class="progress"></div>loading your locations...</li>
-        </ul>
-      </div>
-
-      <div class="section last bottom">
-        <h4>
-          <span class="logged-in">Or add a new location</span>
-          <span class="logged-out">Or pick a new location</span>
-          <span class="guessed">Pick a new location</span>
-        </h4>
-        
-        <div id="location-form">
-          <div class="alert-error"></div>
-          <div class="form-error"><strong>Location not found.</strong> Try something else</div>
-          <input id="location-search" type="text">
-          <input id="location-submit" type="image" src="http://static.eventful.com/store/skin/buttons/btn_go_small_28x20.gif" alt="Go">
-          <div class="progress"></div>
-          <p id="location-help"><strong>Zip code</strong> or <strong>city, state</strong> or <strong>city, country</strong></p>
-        </div> <!-- end location-form -->
-      
-        <div id="location-suggestions" class="hidden">
-          <h4>Did you mean...</h4>
-            <ul id="suggestions-list"></ul>
-            <input id="suggestion-submit" type="image" src="http://static.eventful.com/store/skin/buttons/btn_select_small_47x20.gif" alt="Select">
-            <div class="progress"></div>
-        </div> <!-- end location-suggestions -->
-        
-        <p id="location-manage" class="link-arrow">
-          <a class="logged-in" href="/preferences/location">Manage your locations</a>
-          <a class="logged-out" href="/signin" rel="nofollow">Sign in to manage your locations</a>
-          <span class="guessed">     
-            <a class="logged-in" href="/preferences/location">Manage your locations</a>
-            <a class="logged-out" href="/signin" rel="nofollow">Sign in to manage your locations</a>
-          </span>
-        </p>
-      </div>
-    </div>
-    <!--[if lte IE 7]><iframe class="popover-layer"></iframe><![endif]-->
-  </div> <!-- end location-popover -->
-</div> <!-- end location-change-container -->
-</div>
-<div id="panel-location-changed" class="hidden white auxiliary">
-  <div class="hd">Your location is being changed to</div>
-  <div id="body-change-friend" class="bd">
-    <p class="pretty_name"></p>
-    <p>You can always access <span class="meta_name"></span>&nbsp;Events at</p>
-    <p class="copy"><input class="token_loc_display" value="" readonly="readonly"><button id="btn-location-changed-copy" class="shiny-positive-small-tall" type="button">Copy</button></p>
-  </div> <!-- end of bd -->
-  <div class="ft">
-    <button id="btn-location-changed-close" class="shiny-negative-small-tall" type="button">Close</button>
-  </div>
-</div>
+  
 </div><!-- HEADER end -->
-
-<div id="panel-exit-survey" class="hidden white">
-  <div class="hd">Eventful — website survey</div>
-  <div class="bd init">
-    <div class="state-init hidden">
-      <p>Hello! We want to make Eventful even easier for you to use, and would appreciate your feedback to help us to this.</p>
-      <p>Would you help us by taking a <em>four-question survey</em> when you leave today?</p>
-      <div class="buttons">
-        <button class="accept shiny-positive-medium-jumbo">Yes, I will help</button>
-        <button class="reject shiny-negative-medium-jumbo">No, not now</button>
-        <span class="plea diminished">(it takes less than one minute)</span>
-      </div>
-    </div>
-    <div class="state-purpose hidden">
-      <form>
-        <p>What is the purpose of your visit to the website today?</p>
-        <p><textarea name="purpose"></textarea></p>
-        <div class="buttons">
-          <button type="submit" class="shiny-positive-large-jumbo">Save and finish survey later</button>
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
 
 
 <!-- Normal Header Stop -->
@@ -336,7 +319,7 @@ Eventful.oLocation = new Eventful.Location();
 
               <h2>Links to Third Party Sites</h2>
 
-              <p>This privacy policy applies only to the privacy of users of Eventfulâs Site and Services. By using Eventfulâs Site and Services you agree to the terms of this privacy policy. If you move from Eventfulâs Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.</p>
+              <p>This privacy policy applies only to the privacy of users of Eventful’s Site and Services. By using Eventful’s Site and Services you agree to the terms of this privacy policy. If you move from Eventful’s Site to external web sites owned or operated by other entities or individuals, you should check the privacy policies of those external web sites carefully. The terms by which the owners or operators of those external web sites manage your Personally Identifiable Information obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.</p>
 
               <h2>Definitions</h2>
 
@@ -357,102 +340,70 @@ Eventful.oLocation = new Eventful.Location();
       <!-- Normal Footer Start --> 
   <div id="footer" class="">
     
-    <div class="footer-row">
-      <ul>
-        <li class="first"><a href="/"><strong>Home</strong></a></li><li><a href="/join" rel="nofollow"><strong>Join Eventful</strong></a></li>
+    
+    <div class="footer-row more-features">
+      <strong>TOP CATEGORIES WORLDWIDE</strong> <span class="light">//</span>
+      <ul><li class="first"><a href="/concerts">Concerts</a></li><li><a href="/festivals">Festivals</a></li><li><a href="/kids-events">Kids Events</a></li><li><a href="/nightlife-singles-events">Nightlife &amp; Singles Events</a></li><li><a href="/wine-tasting-events">Wine Tasting Events</a></li>
       </ul>
     </div>
+    
     <div class="footer-row more-features">
       <strong>FEATURES</strong> <span class="light">//</span>
-      <ul><li class="first"><a href="/my" rel="nofollow">My Eventful</a></li><li><a href="/my/performers/import">Artist tracker</a></li><li><a href="/iphone">iPhone app</a></li><li><a href="/politics">Eventful Politics</a></li><li><a href="/r/http://www.myspace.com/mytopartistsapp" rel="nofollow">MySpace My Top Artists app</a></li><li><a href="/performerdashboard">Performer Dashboard</a></li><li><a href="/performers/setup" rel="nofollow">Performer setup</a></li>
+      <ul><li class="first"><a href="/my" rel="nofollow">My Eventful</a></li><li><a href="/tracker" rel="nofollow">Artist Tracker</a></li><li><a href="/iphone" rel="nofollow">iPhone App</a></li><li><a href="/r/http://www.myspace.com/mytopartistsapp" rel="nofollow">MySpace My Top Artists App</a></li><li><a href="/performerdashboard" rel="nofollow">Performer Dashboard</a></li><li><a href="/performers/setup" rel="nofollow">Performer Setup</a></li>
+      </ul>
+    </div>
+    <div class="footer-row">
+      <strong>ADD STUFF</strong> <span class="light">//</span>
+      <ul><li class="first"><a href="/events/new" rel="nofollow">Add Event</a></li><li><a href="/venues/new" rel="nofollow">Add Venue</a></li><li><a href="/performers/new" rel="nofollow">Add Performer Profile</a></li>
       </ul>
     </div>
     <div class="footer-row more-features">
-      <strong>MORE</strong> <span class="light">//</span>
-      <ul><li class="first"><a href="http://about.eventful.com/">About</a></li><li><a href="http://blog.eventful.com/" rel="nofollow">Blog</a></li><li><a href="/faq">FAQ</a></li><li><a href="/advertise" rel="nofollow">Advertise</a></li><li><a href="/licensing">Data Licensing</a></li><li><a href="/jobs" rel="nofollow">Jobs</a></li><li><a href="http://api.eventful.com/">Developer API</a></li><li><a href="/privacy" rel="nofollow">Privacy policy</a></li><li><a href="/terms" rel="nofollow">Terms of service</a></li><li><a href="/feedback" rel="nofollow">Feedback</a></li>
+      <strong>OTHER</strong> <span class="light">//</span>
+      <ul><li class="first"><a href="http://about.eventful.com/" rel="nofollow">About</a></li><li><a href="http://blog.eventful.com/" rel="nofollow">Blog</a></li><li><a href="/faq" rel="nofollow">FAQ</a></li><li><a href="/advertise" rel="nofollow">Advertise</a></li><li><a href="/licensing" rel="nofollow">Data Licensing</a></li><li><a href="/jobs" rel="nofollow">Jobs</a></li><li><a href="http://api.eventful.com/" rel="nofollow">Developer API</a></li><li><a href="/privacy" rel="nofollow">Privacy Policy</a></li><li><a href="/terms" rel="nofollow">Terms of Service</a></li><li><a href="/feedback" rel="nofollow">Contact Us</a></li>
       </ul>
     </div>
-    
     <div class="cleaner"></div>
-    <div class="footer-tabs">
-      <ul>
-        <li><strong>EVENTS</strong> <span class="light">//</span></li>
-        <li><a href="/sanfrancisco" rel="nofollow">Events main</a></li>
-        <li><a href="/events/new" rel="nofollow">Add event</a></li>
-        <li><a href="/sanfrancisco/events/categories/clubs_associations" rel="nofollow">Clubs</a></li>
-        <li><a href="/sanfrancisco/events/categories/family_fun_kids" rel="nofollow">Family</a></li>
-        <li><a href="/sanfrancisco/events/categories/festivals_parades" rel="nofollow">Festivals</a></li>
-        <li><a href="/sanfrancisco/events/categories/learning_education" rel="nofollow">Learning</a></li>
-        <li><a href="/sanfrancisco/events/categories/music" rel="nofollow">Music</a></li>
-        <li><a href="/sanfrancisco/events/categories/performing_arts" rel="nofollow">Performing arts</a></li>
-        <li><a href="/sanfrancisco/events/categories/singles_social" rel="nofollow">Social</a></li>
-        <li><a href="/sanfrancisco/events/categories/sports" rel="nofollow">Sports</a></li>
-      </ul>
-      <ul>
-        <li><strong>DEMANDS</strong> <span class="light">//</span></li>
-        <li><a href="/demand">Demands main</a></li>
-        <li><a href="/demand/new" rel="nofollow">Start a new demand</a></li>
-        <li><a href="/demand/learn">What is Demand?</a></li>
-        <li><a href="/charts">Top 50 chart</a></li>
-        <li><a href="/demand/categories/business">Business</a></li>
-        <li><a href="/demand/categories/comedy">Comedy</a></li>
-        <li><a href="/demand/categories/film">Film</a></li>
-        <li><a href="/demand/categories/literary">Literary</a></li>
-        <li><a href="/demand/categories/music">Music</a> </li>
-        <li><a href="/demand/categories/politics">Politics</a></li>
-        <li><a href="/demand/categories/science">Science</a> </li>
-        <li><a href="/demand/categories/sports">Sports</a></li>
-      </ul>
-      <ul>
-        <li><strong>COMMUNITY</strong> <span class="light">//</span></li>
-        <li><a href="/community" rel="nofollow">Community main</a></li>
-        <li><a href="/my/friends/lookup/email/" rel="nofollow">Invite friends</a></li>
-        <li><a href="/groups/all" rel="nofollow">Browse groups</a></li>
-        <li><a href="/calendars?q=&amp;sort_order=Calendar=" rel="nofollow">Browse calendars</a></li>
-      </ul>
-      <ul>
-        <li><strong>PERFORMERS</strong> <span class="light">//</span></li>
-        <li><a href="/sanfrancisco/performers" rel="nofollow">Performers main</a></li>
-        <li><a href="/performers/new" rel="nofollow">Add performer</a></li>
-        <li><a href="/performers/setup" rel="nofollow">Performer Sign-up</a></li>
-        <li><a href="/sanfrancisco/performers/categories/business" rel="nofollow">Business</a></li>
-        <li><a href="/sanfrancisco/performers/categories/comedy" rel="nofollow">Comedy</a></li>
-        <li><a href="/sanfrancisco/performers/categories/film" rel="nofollow">Film</a></li>
-        <li><a href="/sanfrancisco/performers/categories/literary" rel="nofollow">Literary</a></li>
-        <li><a href="/sanfrancisco/performers/categories/music" rel="nofollow">Music</a></li>
-        <li><a href="/sanfrancisco/performers/categories/politics" rel="nofollow">Politics</a></li>
-        <li><a href="/sanfrancisco/performers/categories/science" rel="nofollow">Science</a></li>
-        <li><a href="/sanfrancisco/performers/categories/sports" rel="nofollow">Sports</a></li>
-      </ul>
-      <ul>
-        <li><strong>VENUES</strong> <span class="light">//</span></li>
-        <li><a href="/sanfrancisco/venues" rel="nofollow">Venues main</a></li>
-        <li><a href="/venues/new" rel="nofollow">Add venues</a></li>
-        <li><a href="/sanfrancisco/venues/categories/bars_clubs" rel="nofollow">Bars &amp; Clubs</a></li>
-        <li><a href="/sanfrancisco/venues/categories/colleges_universities" rel="nofollow">Colleges and Universities</a></li>
-        <li><a href="/sanfrancisco/venues/categories/museums_galleries" rel="nofollow">Museums and Galleries</a></li>
-        <li><a href="/sanfrancisco/venues/categories/parks_attractions" rel="nofollow">Parks and Attractions</a></li>
-        <li><a href="/sanfrancisco/venues/categories/theaters" rel="nofollow">Theaters</a></li>
-      </ul>
-      <div class="cleaner"></div>
-    </div>
     
   </div>
-  <div id="footer-copyright">© Copyright 2004-2008 Eventful, Inc. All rights reserved. Patent pending.</div>
+  <div id="footer-copyright">© Copyright 2004-2009 Eventful, Inc. All rights reserved. Patent pending.</div>
   <!-- Stats Footer Start --> 
 
 
 <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-609804-1");
-pageTracker._initData();
 pageTracker._trackPageview(document.location.pathname+document.location.search.toLowerCase());
 
 </script>
 
 
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-8fNblsCvZ37Og"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-8fNblsCvZ37Og.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
 <!-- Stats Footer Stop -->
-  
+
+
+<!-- Start: Netflix Promo -->
+<script type="text/javascript" charset="utf-8">
+$(function(){
+  try {
+    Eventful.NetflixOpener();
+  } catch (e) {}
+});
+</script>
+<!-- End: Netflix Promo -->
 <!-- Normal Footer Stop -->
     </div> <!-- end inner-container -->    
   </div><!-- end outer-container -->
