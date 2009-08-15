@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616210421id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815191951id_/http%3A//www.partrequest.com/privacy) for the most accurate reproduction.*
 
 # Used Auto Parts Online
 
-PartRequest.com is committed to helping you find quality used auto parts online while ensuring the protection of your privacy. 
+PartRequest.com is committed to helping you find quality used auto parts online while ensuring the protection of your privacy.
 
 In order to submit a used auto parts request to our network of salvage yards, junk yards and other used auto parts vendors, you are required to provide us with your email address and some other personal information, including your name and the city, state and zip or postal code where the part will be shipped if it is purchased from one of our vendors. You are not required to provide us with a phone number and your are not required to provide us with a street address.
 
