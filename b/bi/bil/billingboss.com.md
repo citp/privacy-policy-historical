@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2009-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090117114451id_/http%3A//www.billingboss.com/files/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billingboss.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815194021id_/http%3A//www.billingboss.com/files/privacy_statement.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
