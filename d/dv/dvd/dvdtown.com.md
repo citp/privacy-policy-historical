@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtown.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182504id_/http%3A//www.dvdtown.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtown.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816212432id_/http%3A//www.dvdtown.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - DVDTOWN.com
 
