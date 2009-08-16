@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417144923id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicedealers.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816213642id_/http%3A//www.invoicedealers.com/IDCPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy | Invoice Dealers Autos
 
-[Home](https://web.archive.org/web/20090417144923id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
+[Home](https://web.archive.org/web/20090816213642id_/http%3A//www.invoicedealers.com/Default.asp)     Privacy Policy 
 
 As Web users ourselves, we understand the importance of online privacy. And we are committed to respecting yours. 
 
