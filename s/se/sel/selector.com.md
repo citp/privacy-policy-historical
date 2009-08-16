@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063753id_/http%3A//www.selector.com/general/legal_notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816213037id_/http%3A//www.selector.com/general/legal_notices/privacy) for the most accurate reproduction.*
 
 # Selector.com - Legal Notices
 
