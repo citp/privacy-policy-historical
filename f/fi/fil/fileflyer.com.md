@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileflyer.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514235834id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflyer.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817233450id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
 
 # SpeedBit Privacy Policy
 
