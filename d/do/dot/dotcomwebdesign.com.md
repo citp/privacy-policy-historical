@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417181813id_/http%3A//www.dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817232232id_/http%3A//www.dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
 
 # Dotcomwebdesign.com - Web Design Sydney Australia - Free Website Templates, Quality, Affordable & Cheap Webdesign - Privacy Policy
+
+Dotcomwebdesign is a provider of free website templates only and as such we  accept no responsibility for any content placed on of any of the websites that have chosen to use our templates.
 
 If you require more information or maybe you have some questions about our privacy policy, please do feel free to contact us by email at [privacy@dotcomwebdesign.com](mailto:privacy@dotcomwebdesign.com)
 
