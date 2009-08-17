@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the friendseat.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618122105id_/http%3A//friendseat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friendseat.com privacy policy that was archived on 2009-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090817215613id_/http%3A//friendseat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -216,1057 +216,314 @@ function close_openwindow()
 <hr>
 <!-- / END ACCESSIBILITY NAVIGATION -->
 <div id="container">
-	<div id="header_new">
-
-<div class="wrapper">	
-	<div style="height:75px;">
-	<div id="logo">Friendseat</div>
-	
-	<div id="search_bar">
-		
-		
-		<div class="tab">
-		<div id="unselect_custom_header" style="display:none">
-		<a href="javascript:;" onclick="header_search_change('search_custom')">Search</a>
-		</div>
-		
-		<div id="select_custom_header" style="display:">
-		<a href="javascript:;" class="select">Search</a>
-		</div>
-		<a>|</a>
-		<div id="unselect_places_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_places')">Restaurant</a>
-		</div>
-		
-		<div id="select_places_header" style="display:none">
-		<a href="javascript:;" class="select">Restaurant</a>
-		</div>
-		
-		<a>|</a>
-		<div id="unselect_recipes_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_recipes')">recipes</a>
-		</div>
-		<div id="select_recipes_header" style="display:none">
-		<a href="javascript:;" class="select">recipes</a>
-		</div>
-		
-		
-		<a>|</a>
-		<div id="unselect_videos_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_videos')">videos</a>
-		</div>
-		<div id="select_videos_header" style="display:none">
-		<a href="javascript:;" class="select">videos</a>
-		</div>
-		
-		<a>|</a>
-		<div id="unselect_blogs_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_blogs')">blogs</a>
-		</div>
-		<div id="select_blogs_header" style="display:none">
-		<a href="javascript:;" class="select">blogs</a>
-		</div>
-		
-		
-		<a>|</a>
-		<div id="unselect_talk_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_talk')">talk</a>
-		</div>
-		<div id="select_talk_header" style="display:none">
-		<a href="javascript:;" class="select">talk</a>
-		</div>
-		
-		<a>| </a>
-		<div id="unselect_user_header" style="display:">
-		<a href="javascript:;" onclick="header_search_change('search_user')">Local </a>
-		</div>
-		<div id="select_user_header" style="display:none">
-		<a href="javascript:;" class="select">Local</a>
-		</div>
-		
-		</div>
-
-
-		<div class="search_field">
-		
-		<div id="search_custom" style="display:">
-		<form action="http://friendseat.com/gsearch.php" id="cse-search-box">
-	  
-		<input type="hidden" name="cx" value="012427730313171871893:zvdotf9ebma">
-		<input type="hidden" name="cof" value="FORID:11">
-		<input type="hidden" name="ie" value="UTF-8">
-		<span><input type="text" class="txt" name="q" size="80.5"></span>
-		<!--<input type="submit" name="sa" value="Search" /> -->
-		<span><input name="imageField" type="image" src="images/btn_go.gif" align="middle"> </span>
-	 
-	</form>
-		  </div>
-		
-		<div id="search_places" style="display:none">
-		  <form name="frmSearch" action="" method="post" onsubmit="return search_box_check();">
- 		   <span><input name="txtName" type="text" class="txt" value="Search For(e.g. Sushi)" onclick="this.value='';" size="35"></span>
-            <span style="padding-top:5px">in</span>
-            <span><input name="txtLocation" type="text" class="txt" value=" Seattle, WA " onclick="this.value='';" size="35"></span>
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-			<input type="hidden" name="search_upon">
-		  </form>
-		  </div>
-		  
-		  
-		  	<div id="search_recipes" style="display:none">
-		  <form name="frmRecipeSearch" action="" method="post" onsubmit="return recipe_search_box_check()">
- 		   <span>
-		   <input name="txtRecipe" type="text" class="txt" value="Search For(e.g. Sushi)" onclick="this.value='';" size="80.5">
-		   </span>
-           
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-		  </form>
-		  </div>
-		  
-		  
-		  <div id="search_videos" style="display:none">
-		 <form name="frmsearch_video" action="" method="post" onsubmit="return search_video_title_header()">
- 		   <span><input name="vtitle" type="text" class="txt" value="Search For(e.g. Videos)" onclick="this.value='';" size="80.5"></span>
-          
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-			 
-		  </form>
-		  </div>
-		  
-		  
-		  <div id="search_blogs" style="display:none">
-		 <form name="frmsearch_blog" action="" onsubmit="return search_blog_name_blog()">
- 		   <span><input name="txtsearch_blog" type="text" class="txt" value="Search For(e.g. blogs)" onclick="this.value='';" size="80.5"></span>
-           
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-		  </form>
-		  </div>
-		  
-		  
-		  
-		   <div id="search_talk" style="display:none">
-		 <form name="frmForumSearch_top" action="foodietalk_search.php" method="post" onsubmit="return Check_Search_top()">
- 		   <span><input name="txtForumSearch_top" type="text" class="txt" value="Search For(e.g. talk)" onclick="this.value='';" size="80.5"></span>
-           
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-		  </form>
-		  </div>
-		  
-		  
-		  <div id="search_user" style="display:none">
-		 <!--<form name="frmSeachuser1" action="search/reviewer" method="post" onsubmit="return Check_Search()">
- 		   <span><input name="txtBrowseFor" type="text" class="txt" value="Search For(e.g. user)" onclick="this.value='';"  size="80.5"  /></span>
-           
-		    <span> <input  type="submit"  value="" name="btnSubmit" style="background:url(images/btn_go.gif) no-repeat 0 0; width:66px; height:37px; border:0; cursor:pointer"/>   </span>
-		  </form>-->
-		  
-		  <form name="frmSearch_local" action="" method="post" onsubmit="return search_box_check_local();">
- 		   <span><input name="txtName_local" type="text" class="txt" value="Search For(e.g. Sushi)" onclick="this.value='';" size="35"></span>
-            <span style="padding-top:5px">in</span>
-            <span><input name="txtLocation_local" type="text" class="txt" value="Near(Address)" onclick="this.value='';" size="35"></span>
-		    <span> <input name="imageField" type="image" src="images/btn_go.gif" align="middle">   </span>
-			<input type="hidden" name="search_upon_local">
-		  </form>
-		  
-		  </div>
-		  
-	    </div>
-	</div>
-	</div>
-	
-	<div id="main_menu_div" onmouseout="main_menu('')"> 
-	<ul id="menus">
-	
-
-		<li onclick="showmenu('menu-1')" onmouseout="hidemenu('menu-1')"><a href="http://friendseat.com/" class="m1">Home</a>
-		<div id="home_sub">
-		<ul class="submenu" id="menu-1" style="left:7px font-size:11px">
-		<li><b><a href="http://friendseat.com/places/New-York_NY">New York</a></b> | <a href="http://friendseat.com/places/Los-Angeles_ca">Los Angeles</a> | <a href="http://friendseat.com/places/Dallas_TX">Dallas</a> | <a href="http://friendseat.com/places/Chicago_IL">Chicago</a> | <a href="http://friendseat.com/places/San-Francisco_ca">San Francisco</a> | <a href="http://friendseat.com/places/Washington_dc">Washington</a> | <a href="http://friendseat.com/places/Houston_TX">Houston</a> | <a href="http://friendseat.com/places/Philadelphia_PA" onclick="table._drillDown(7); return false;">Philadelphia</a></li>
-		</ul>
-		</div>
-	</li>
-			<li onclick="showmenu('menu-2')" onmouseout="hidemenu('menu-2')"><a href="http://friendseat.com/search" class="m2">Community</a>
-		<div id="community_sub">
-		<ul class="submenu" id="menu-2" style="left:-60px">
-		<li><a href="http://friendseat.com/talk">Talk</a></li>
-		<li><a href="search">Find Members</a></li>
-		<!--<li><a href="javascript:;">Submit a Post</a></li> -->
-		</ul>
-		</div>
-	</li>
-		
-		<li onmouseover="onclick('menu-3')" onmouseout="hidemenu('menu-3')"><a href="places" class="m3">Places</a>
-		<div id="places_sub" style="display:">
-		<ul class="submenu" id="menu-3" style="left:-172px">
-		<li><a href="http://friendseat.com/places">Seattle, WA</a></li>
-
-		<li><a href="http://friendseat.com/places">Other Cities</a></li>
-		</ul>
-		</div>
-	</li>
-		
-				<li onmouseover="onclick('menu-4')" onmouseout="hidemenu('menu-4')"><a href="http://friendseat.com/recipes" class="m4">Recipes</a>
-				<div id="recipes_sub" style="display:">
-				<ul class="submenu" id="menu-4" style="left:-250px">
-				<li><a href="javascript:OpenDhtmlPopup('recipes/upload','mssHolder','login');">Submit a recipe</a></li>
-				<li><a href="http://friendseat.com/recipe_search/all&amp;order_seq=Recent">Recent</a> </li>
-				<li><a href="http://friendseat.com/recipe_search/all&amp;order_seq=MPopular">Best of </a></li> 
-				<li><a href="http://friendseat.com/recipe_search/all&amp;order_seq=ABC">Random</a></li>
+	<div class="header-1-top">
+		<div class="wrapper" id="allCityDiv" style="display:;">
+			<div class="cities">
+				<ul>
+					<li><a href="http://friendseat.com/atlanta">Atlanta</a></li>
+					<li><a href="http://friendseat.com/austin">Austin</a></li>
+					<li><a href="http://friendseat.com/berkeley">Berkeley</a></li>
+					<li><a href="http://friendseat.com/boston">Boston</a></li>
+					<li><a href="http://friendseat.com/brooklyn">Brooklyn</a></li>
 				</ul>
-				</div>
-			</li>
-	
-
-	<li onmouseover="onclick('menu-5')" onmouseout="hidemenu('menu-5')"><a href="http://friendseat.com/blog" class="m5">Blogs</a>
-		<div id="blog_sub" style="display:">
-		<ul class="submenu" id="menu-5" style="left:-339px">
-		<li><a href="javascript:OpenDhtmlPopup('blog_home.php?','login');" rel="nofollow">Submit a Blog</a></li>
-		<li><a href="http://friendseat.com/blog/recent">Recent</a></li>
-
-		</ul>
+				<ul>
+					<li><a href="http://friendseat.com/chicago">Chicago</a></li>
+					<li><a href="http://friendseat.com/dallas">Dallas</a></li>
+					<li><a href="http://friendseat.com/denver">Denver</a></li>
+					<li><a href="http://friendseat.com/detroit">Detroit</a></li>
+					<li><a href="http://friendseat.com/honolulu">Honolulu</a></li>
+				</ul>
+				<ul>    
+					<li><a href="http://friendseat.com/houston">Houston</a></li>
+					<li><a href="http://friendseat.com/lasvegas">Las Vegas</a></li>
+					<li><a href="http://friendseat.com/london">London</a></li>
+					<li><a href="http://friendseat.com/losangeles">Los Angeles</a></li>
+					<li><a href="http://friendseat.com/miami">Miami</a></li>    
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/minneapolis">Minneapolis</a></li>
+					<li><a href="http://friendseat.com/oakland">Oakland</a></li>
+					<li><a href="http://friendseat.com/paloalto">Palo Alto</a></li>
+					<li><a href="http://friendseat.com/philadelphia">Philadelphia</a></li>
+					<li><a href="http://friendseat.com/phoenix">Phoenix</a></li>
+				</ul>
+				<ul>    
+					<li><a href="http://friendseat.com/portland">Portland</a></li>
+					<li><a href="http://friendseat.com/sacramento">Sacramento</a></li>
+					<li><a href="http://friendseat.com/saintlouis">Saint Louis</a></li>
+					<li><a href="http://friendseat.com/sandiego">San Diego</a></li>
+					<li><a href="http://friendseat.com/sanfrancisco">San Francisco</a></li>
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/seattle">Seattle</a></li>
+					<li><a href="http://friendseat.com/toronto">Toronto</a></li>
+					<li><a href="http://friendseat.com/vancouver">Vancouver</a></li>
+					<li><a href="http://friendseat.com/washington">Washington, DC</a></li>
+					<li><b><a href="http://friendseat.com/places">More Cities &gt;&gt;</a></b></li>
+				</ul>
+			</div>
+			<h2 style="padding:22px 0 0 25px;">Are you Looking for <u><a href="http://friendseat.com/newyork">FriendsEat New York?</a></u></h2>
+			<div class="clear"></div>
 		</div>
-	</li>
-		
-		<li onmouseover="onclick('menu-6')" onmouseout="hidemenu('menu-6')"><a href="http://friendseat.com/videos" class="m6">Videos</a>
-		<div id="videos_sub" style="display:">
-		<ul class="submenu" id="menu-6" style="left:-410px">
-		<li><a href="javascript:;" onclick="javascript:OpenDhtmlPopup('videos/upload1','flvideo1');">Submit a video</a> </li>
-		 <li><a href="http://friendseat.com/videos/recent">Recent</a> </li>
-		 <li><a href="http://friendseat.com/videos/top_rated">Best of </a></li> 
-		 <li><a href="http://friendseat.com/videos/random">Random</a></li>
-		</ul>
+		<div class="wrapper" id="fewCityDiv" style="display:;">
+			<div class="cities" style="padding:5px 0">
+				<ul>
+					<li><a href="http://friendseat.com/newyork">New York</a></li>
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/losangeles">Los Angeles</a></li>
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/dallas">Dallas</a></li>
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/chicago">Chicago</a></li>
+				</ul>
+				<ul>
+					<li><a href="http://friendseat.com/sanfrancisco">San Francisco</a></li>
+				</ul>
+				<ul>
+					<li><b><a href="javascript:void(0);" onclick="return showAllCities();">More Cities &gt;&gt;</a></b></li>
+				</ul>
+			</div>
+			<h2 style="padding:0px 0 0px 25px; margin:0; font-weight:normal">FriendsEAT <a href="http://friendseat.com/"></a></h2>
+			<div class="clear"></div>
 		</div>
-	</li>
-		
-	<li><a href="http://ask.friendseat.com" class="m8">Ask</a></li>
-	</ul>
-	</div>
-	
-	
-	<div id="signin">
-	<div id="signin_on_of" style="display:">
-	  <form name="frm_header" action="logged_user.php?mode=login" method="post" onsubmit="return login_check()">
-	  	Sign-in | <a href="http://friendseat.com/user_signup.php">Register</a><br>
-        <input name="uname" id="uname" type="text" class="txt" value="" size="20" tabindex="1">&nbsp;
-        <input name="upass" id="upass" type="password" class="txt" value="" size="20" tabindex="2">
-		<input name="Login" type="image" value="Login" src="images/icon_tick_login.gif" align="top" alt="Login" tabindex="3">
-		<span style="display:block; padding:17px 0 0 2px; font-size:11px"><a href="javascript:;" onclick="lost_password();">Forgot Password</a></span>
-	  </form>
-	  
-	  </div>
+</div>
+
+<div class="header-1"><div class="wrapper">
+	<div id="logo"><a href="http://friendseat.com/">FriendsEat</a></div>
+    <div class="login-nav"><span style="float:left; padding:4px 8px 0 0"><a href="login.php">login</a> | <a href="http://friendseat.com/signup">signup</a> | </span><span style="float:left"><a href="http://friendseat.com/signup"><img src="images/Connect_facebook.png" alt="Connect with facebook"></a></span></div>
+
+    <!-- DIV FOR NORMAL OPERATION -->
+    <div class="search-box" id="normal_form" style="display:block;">
+    <form name="frmSearch" id="frmSearch" action="" method="post" onsubmit="return search_box_check();">
+    <div class="textfield">
+    <ul id="search-nav">
+    <li id="searchSelect"><a href="javascript:void(0);" onclick="javacript:showdiv_searchType('searchType', 'searchSelect')"><span id="searchTypeShow">Restaurants</span> <img src="images/search_arrow_down.gif" alt="search"></a>
+    	<div class="sub-search-nav" id="searchType" style="display:none">
+        <h5 style="color:#111; margin-left:5px">Search</h5>
+        <ul>
+        <li class="current" id="SearchType1"><a href="javascript:void(0);" onclick="select_search_type('SearchType1', 'Restaurants')">Restaurants</a></li>
+        <li id="SearchType2"><a href="javascript:void(0);" onclick="select_search_type('SearchType2', 'Recipes')">Recipes</a></li>
+        <li id="SearchType3"><a href="javascript:void(0);" onclick="select_search_type('SearchType3', 'Blogs')">Blogs</a></li>
+        <li id="SearchType4"><a href="javascript:void(0);" onclick="select_search_type('SearchType4', 'People')">People</a></li>
+        <li id="SearchType5"><a href="javascript:void(0);" onclick="select_search_type('SearchType5', 'Q &amp; A')">Q &amp; A</a></li>
+        <li id="SearchType6"><a href="javascript:void(0);" onclick="select_search_type('SearchType6', 'Local')">Local</a></li>
+        </ul>
+        </div>
+    </li>
+    </ul>
+    <input name="txtSearch" id="txtSearch" type="text" class="text" value="Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes" onfocus="javacript:textbox_change('txtSearch')"> 
+	<!-- HIDDENBOX FOR SEARCH-->
+	<input name="txtLocation" id="txtLocation" type="hidden" value="">
+	<input name="txtBrowseFor" id="txtBrowseFor" type="hidden">
+	<input name="txtForumSearch_top" id="txtForumSearch_top" type="hidden">
+	<input name="btnSubmit" id="btnSubmit" type="hidden">
     </div>
-	
-	
-	
-	
+    <input type="image" name="search" id="search" src="images/btn_search_go.jpg" align="search" class="btn">
+
+    </form>  
+    </div>
+   <!--END OF DIV FOR NORMAL OPERATION-->
+   <!-- DIV FOR GOOGLE CUSTOM SEARCH IN ASK-->
+    <div class="search-box" id="custom_search_form" style="display:none;">
+    <form action="http://www.google.com/cse" name="frmCustom" id="cse-search-box" onsubmit="return custom_search_box_check();">
+    <div class="textfield">
+    <ul id="search-nav">
+    <li id="searchSelect_custom"><a href="javascript:void(0);" onclick="javacript:showdiv_searchType('searchType_custom', 'searchSelect_custom')"><span>Q &amp; A</span> <img src="images/search_arrow_down.gif" alt="search"></a>
+    	<div class="sub-search-nav" id="searchType_custom" style="display:none">
+        <h5 style="color:#111; margin-left:5px">Search</h5>
+        <ul>
+        <li id="SearchType1"><a href="javascript:void(0);" onclick="select_search_type('SearchType1', 'Restaurants')">Restaurants</a></li>
+        <li id="SearchType2"><a href="javascript:void(0);" onclick="select_search_type('SearchType2', 'Recipes')">Recipes</a></li>
+        <li id="SearchType3"><a href="javascript:void(0);" onclick="select_search_type('SearchType3', 'Blogs')">Blogs</a></li>
+        <li id="SearchType4"><a href="javascript:void(0);" onclick="select_search_type('SearchType4', 'People')">People</a></li>
+        <li class="current" id="SearchType5"><a href="javascript:void(0);" onclick="select_search_type('SearchType5', 'Q &amp; A')">Q &amp; A</a></li>
+        <li id="SearchType6"><a href="javascript:void(0);" onclick="select_search_type('SearchType6', 'Local')">Local</a></li>
+        </ul>
+        </div>
+    </li>
+    </ul>
+    <input name="q" id="q" type="text" class="text" value="Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes" onfocus="javacript:textbox_change('q')"> 
+	<!-- HIDDENBOX FOR CUSTOM SEARCH-->
+	<input type="hidden" name="cx" value="partner-pub-7679642630441456:oy838w-nmxc">
+	<input type="hidden" name="ie" value="ISO-8859-1">
+    </div>
+    <input type="image" name="sa" value="Search" src="images/btn_search_go.jpg" class="btn">
+
+    </form>  
+    </div>	
+   <!--END OF DIV FOR GOOGLE CUSTOM SEARCH IN ASK  -->	
+</div></div>
+
+<div id="navigation">
+	<ul>
+	   <li><a href="http://friendseat.com/">home</a></li>	    
+	    <li><a href="http://friendseat.com//restaurants">restaurants</a></li>
+	    <li><a href="http://friendseat.com/recipes">recipes</a></li>
+	    <li><a href="http://friendseat.com/search">foodies</a></li>
+	    <li><a href="http://ask.friendseat.com/">ask</a></li>
+	    <li style="border:0"><a href="http://friendseat.com/blog">blogs</a></li>
+	    <!--li style="border:0"><a href="javascript:void(0);">brands</a></li-->
+    </ul>
 </div>
 
 
 
-</div>
+<!--link rel="stylesheet" type="text/css" href="stylesheet/screen.css" /-->
+<link rel="stylesheet" type="text/css" href="stylesheet/screen_new.css">
+<link rel="stylesheet" type="text/css" href="stylesheet/header_new.css">
 
-
-
-<script type="text/javascript" language="javascript">
-
-<!--
-function main_menu(main_val)
-{
-	if(main_val=="home")
+<script type="text/javascript">
+	function showAllCities()
 	{
-		document.getElementById('home_sub').style.display = "";
+		//alert("Test purpose");
+		document.getElementById('fewCityDiv').style.display = 'none';
+		document.getElementById('allCityDiv').style.display = 'block';
 	}
-	if(main_val=="search")
+	//######SEARCH TYPE BOX ON/OFF##########
+	function showdiv_searchType(pValue, pSelect)
 	{
-		document.getElementById('community_sub').style.display = "";
-	}
-	if(main_val=="places")
-	{
-		document.getElementById('places_sub').style.display = "";
-	}
-	if(main_val=="recipes")
-	{
-		document.getElementById('recipes_sub').style.display = "";
-	}
-	if(main_val=="blog")
-	{
-		document.getElementById('blog_sub').style.display = "";
-	}
-	if(main_val=="videos")
-	{
-		document.getElementById('videos_sub').style.display = "";
-	}
-}
-function showmenu(elmnt)
-{
-	document.getElementById(elmnt).style.visibility="visible";
-	
-
-	//alert(elmnt);
-	if(elmnt=='menu-1')
-	{
-		document.getElementById('home_sub').style.display = "";
-		document.getElementById('community_sub').style.display = "none";
-		document.getElementById('places_sub').style.display = "none";
-		document.getElementById('recipes_sub').style.display = "none";
-		document.getElementById('blog_sub').style.display = "none";
-		document.getElementById('videos_sub').style.display = "none";
-	}
-	
-	if(elmnt=='menu-2')
-	{
-		document.getElementById('home_sub').style.display = "none";
-		document.getElementById('community_sub').style.display = "";
-		document.getElementById('places_sub').style.display = "none";
-		document.getElementById('recipes_sub').style.display = "none";
-		document.getElementById('blog_sub').style.display = "none";
-		document.getElementById('videos_sub').style.display = "none";
-	}
-	
-	if(elmnt=='menu-3')
-	{
-		document.getElementById('home_sub').style.display = "none";
-		document.getElementById('community_sub').style.display = "none";
-		document.getElementById('places_sub').style.display = "";
-		document.getElementById('recipes_sub').style.display = "none";
-		document.getElementById('blog_sub').style.display = "none";
-		document.getElementById('videos_sub').style.display = "none";
-	}
-	if(elmnt=='menu-4')
-	{
-		document.getElementById('home_sub').style.display = "none";
-		document.getElementById('community_sub').style.display = "none";
-		document.getElementById('places_sub').style.display = "none";
-		document.getElementById('recipes_sub').style.display = "";
-		document.getElementById('blog_sub').style.display = "none";
-		document.getElementById('videos_sub').style.display = "none";
-	}
-	if(elmnt=='menu-5')
-	{
-		document.getElementById('home_sub').style.display = "none";
-		document.getElementById('community_sub').style.display = "none";
-		document.getElementById('places_sub').style.display = "none";
-		document.getElementById('recipes_sub').style.display = "none";
-		document.getElementById('blog_sub').style.display = "";
-		document.getElementById('videos_sub').style.display = "none";
-	}
-	if(elmnt=='menu-6')
-	{
-		document.getElementById('home_sub').style.display = "none";
-		document.getElementById('community_sub').style.display = "none";
-		document.getElementById('places_sub').style.display = "none";
-		document.getElementById('recipes_sub').style.display = "none";
-		document.getElementById('blog_sub').style.display = "none";
-		document.getElementById('videos_sub').style.display = "";
-	}
-}
-function hidemenu(elmnt)
-{
-document.getElementById(elmnt).style.visibility="hidden";
-}
-
-function open_select_div(subheader)
-{
-
-	
-	document.getElementById(subheader).style.display = "";
-}
-function close_sub_div(subheader)
-{
-	if(subheader=='community')
+		if(document.getElementById(pValue).style.display == 'none')
+		{			
+			document.getElementById(pValue).style.display = 'block';
+			document.getElementById(pSelect).className  = 'select';		
+		}		
+		else
 		{
-			document.getElementById('home_sub').style.display = "none";
+			document.getElementById(pValue).style.display = 'none';
+			document.getElementById(pSelect).className  = '';
+		}
+	}
+	//########CHNAGE SEARCH BOX COLOUR#############
+	function textbox_change(txtBox){
+		document.getElementById(txtBox).value= '';
+		document.getElementById(txtBox).className  = 'text1';
+	}
+	//######SEARCH TYPE SELECTION##########
+	function select_search_type(strType,strValue)
+	{
+		if(strType == 'SearchType5')
+		{		
+			document.getElementById('normal_form').style.display = 'none';
+			document.getElementById('custom_search_form').style.display = 'block';	
 			
-		}
-}
-function close_subheader(subheader)
-{
-	
-		//THIS VARIBALE ARE DECLARE RESPECTIVE ALL THE PAGES (header_default_div_val)
-		if(subheader=='home')
-		{
-			//alert(subheader);
-			document.getElementById('home_sub').style.display = "none";
-		}
-		if(subheader=='community')
-		{
-			document.getElementById('community_sub').style.display = "none";
+			document.getElementById('searchType_custom').style.display = 'none';
+			document.getElementById('searchSelect_custom').className  = '';
+
+			document.getElementById('q').value = document.getElementById('txtSearch').value
 			
+			if(document.getElementById('q').value != "Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes") { 
+				document.getElementById('q').className  = 'text1';
+			}
 		}
-		if(subheader=='community')
+		else
 		{
-			document.getElementById('community_sub').style.display = "none";
+			document.getElementById('custom_search_form').style.display = 'none';
+			document.getElementById('normal_form').style.display = 'block';
+
+			document.getElementById('txtSearch').value = document.getElementById('q').value
+			if(document.getElementById('txtSearch').value != "Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes") { 
+				document.getElementById('txtSearch').className  = 'text1';
+			}
+
+			var strGenType = "SearchType";
+			for(var i=1; i<7; i++){
+				var strSearchType = strGenType + i;	
+				document.getElementById(strSearchType).className  = '';
+			}	
+			document.getElementById(strType).className  = 'current';
+			document.getElementById('searchTypeShow').innerHTML = strValue;
+			document.getElementById('searchType').style.display = 'none';
+			document.getElementById('searchSelect').className  = '';
 		}
-		if(subheader=='places')
-		{
-			document.getElementById('places_sub').style.display = "none";
-		}
-		if(subheader=='recipes')
-		{
-			document.getElementById('recipes_sub').style.display = "none";
-		}
-		if(subheader=='blogs')
-		{
-			document.getElementById('blogs_sub').style.display = "none";
-		}
-		if(subheader=='videos')
-		{
-			document.getElementById('videos_sub').style.display = "none";
-		}
-}
-
-
-
-
-
-
-
-function header_search_change(search_header)
-{
-	//alert(search_header);
-	if(search_header=="search_custom")
+	}	
+	//######SEARCH CLICK VALIDATION AND URL SPECIFICATION#########
+	function search_box_check()
 	{
-	
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "none";
-		
-		document.getElementById("search_custom").style.display = "";
-		document.getElementById("unselect_custom_header").style.display = "none";
-		document.getElementById("select_custom_header").style.display = "";
-		
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-	}
-	
-	if(search_header=="search_places")
-	{
-	
-		document.getElementById("search_places").style.display = "";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "none";
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		
-		document.getElementById("unselect_places_header").style.display = "none";
-		document.getElementById("select_places_header").style.display = "";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-	}
-	if(search_header=="search_recipes")
-	{
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "none";
-		
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "none";
-		document.getElementById("select_recipes_header").style.display = "";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-
-	}
-	if(search_header=="search_videos")
-	{
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "none";
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "none";
-		document.getElementById("select_videos_header").style.display = "";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-
-	}
-	if(search_header=="search_blogs")
-	{
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "none";
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "none";
-		document.getElementById("select_blogs_header").style.display = "";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-	}
-	
-	if(search_header=="search_talk")
-	{
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "";
-		document.getElementById("search_user").style.display = "none";
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "none";
-		document.getElementById("select_talk_header").style.display = "";
-		
-		document.getElementById("unselect_user_header").style.display = "";
-		document.getElementById("select_user_header").style.display = "none";
-	}
-	
-	if(search_header=="search_user")
-	{
-		document.getElementById("search_places").style.display = "none";
-		document.getElementById("search_recipes").style.display = "none";
-		document.getElementById("search_videos").style.display = "none";
-		document.getElementById("search_blogs").style.display = "none";
-		document.getElementById("search_talk").style.display = "none";
-		document.getElementById("search_user").style.display = "";
-		
-		document.getElementById("search_custom").style.display = "none";
-		document.getElementById("unselect_custom_header").style.display = "";
-		document.getElementById("select_custom_header").style.display = "none";
-		
-		document.getElementById("unselect_places_header").style.display = "";
-		document.getElementById("select_places_header").style.display = "none";
-		
-		document.getElementById("unselect_recipes_header").style.display = "";
-		document.getElementById("select_recipes_header").style.display = "none";
-		
-		document.getElementById("unselect_videos_header").style.display = "";
-		document.getElementById("select_videos_header").style.display = "none";
-		
-		document.getElementById("unselect_blogs_header").style.display = "";
-		document.getElementById("select_blogs_header").style.display = "none";
-		
-		document.getElementById("unselect_talk_header").style.display = "";
-		document.getElementById("select_talk_header").style.display = "none";
-		
-		document.getElementById("unselect_user_header").style.display = "none";
-		document.getElementById("select_user_header").style.display = "";
-	}
-
-}
-
-function show_subheader(subheader)
-{
-	//alert(subheader);
-	//THIS VARIBALE ARE DECLARE RESPECTIVE ALL THE PAGES (header_default_div_val)
-	document.getElementById(header_default_div_val).style.display = "none";
-	if(subheader == "home")
-	{
-		document.getElementById("sub_home").style.display = "";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "none";
-		
-		
-		document.getElementById("select_places").style.display = "none";
-		document.getElementById("select_search").style.display = "none";
-		
-	}
-	if(subheader == "community")
-	{
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "none";
-		
-		
-		document.getElementById("select_places").style.display = "none";
-		
-	}
-	
-	if(subheader == "places")
-	{
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "none";	
-		
-		document.getElementById("select_search").style.display = "none";
-	}
-	if(subheader == "recipes")
-	{
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "none";	
-		
-		
-		document.getElementById("select_places").style.display = "none";
-		document.getElementById("select_search").style.display = "none";
-	}
-	if(subheader == "blogs")
-	{
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "";
-		document.getElementById("sub_videos").style.display = "none";	
-		
-		
-		document.getElementById("select_places").style.display = "none";
-		document.getElementById("select_search").style.display = "none";
-	}
-	if(subheader == "videos")
-	{
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "";
-		
-		document.getElementById("select_places").style.display = "none";
-		document.getElementById("select_search").style.display = "none";	
-	}
-}
-
-/*function close_subheader(subheader)
-{
-		//alert(subheader);
-		//THIS VARIBALE ARE DECLARE RESPECTIVE ALL THE PAGES (header_default_div_val)
-		document.getElementById(header_default_div_val).style.display = "";
-		
-		document.getElementById("sub_home").style.display = "none";
-		document.getElementById("sub_community").style.display = "none";
-		document.getElementById("sub_places").style.display = "none";
-		document.getElementById("sub_recipes").style.display = "none";
-		document.getElementById("sub_blogs").style.display = "none";
-		document.getElementById("sub_videos").style.display = "none";
-}*/
-	
-
-function trim(s) 
-{
-  while (s.substring(0,1) == ' ') 
-  {
-    s = s.substring(1,s.length);
-  }
-  while (s.substring(s.length-1,s.length) == ' ') 
-  {
-    s = s.substring(0,s.length-1);
-  }
-    return s;
- }
-
-
-function login_check()
-{
-	if(document.frm_header.uname.value == "")
-	{
-		alert("please enter your login ID");
-		document.frm_header.uname.focus();
-		return false;
-	}
-	else if(document.frm_header.upass.value == "")
-	{
-		alert("please enter your password");
-		document.frm_header.upass.focus();
-		return false;
-	}
- }
-
-function search_box_check()
-{
-	function removeSpaces(str) {
-	re = /\$|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-	plus = /\$|,|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-          // remove special characters like "$" and "," etc...
-          var actualValue= str.replace(re, "-");
-		  var actualValue= actualValue.replace(plus, "+");
-		  return actualValue=(actualValue.replace (/\s+/g, '-'))
-	}
-	
-	function ltrim(stringToTrim) {
-	return stringToTrim.replace(/^\s+/,"");
-	}
-	
-	function rtrim(stringToTrim) {
-	return stringToTrim.replace(/\s+$/,"");
-	}
-	if((document.frmSearch.txtName.value == "" || document.frmSearch.txtName.value == "Search For(e.g. Sushi)" ) && (document.frmSearch.txtLocation.value == "" || document.frmSearch.txtLocation.value == "Near(Address)"))
-	{
-		alert("please enter your searching criteria");
-		document.frmSearch.txtName.focus();
-		return false;
-	}
-	
-	
-	if((document.frmSearch.txtName.value == "" || document.frmSearch.txtName.value == "Search For(e.g. Sushi)" ) && (document.frmSearch.txtLocation.value == "" || document.frmSearch.txtLocation.value == "Near(Address)"))
-	{
-		alert("please enter your searching criteria");
-		document.frmSearch.txtName.focus();
-		return false;
-	}
-  	else{
-	
-		document.frmSearch.search_upon.value="restaurants";
-		
-		var v_txtName=document.frmSearch.txtName.value;
-		var v_txtLocation=document.frmSearch.txtLocation.value;
-		if(v_txtName=="Search For(e.g. Sushi)")
-		{
-			v_txtName='';
-		}
-		if(v_txtLocation=="Near(Address)")
-		{
-			v_txtLocation='';
+		if((document.frmSearch.txtSearch.value == "") || (document.frmSearch.txtSearch.value == "Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes")) { 
+			alert("please enter your searching criteria");
+			document.frmSearch.txtSearch.focus();
+			return false;
+		} else {
+			var v_txtSearch=removeSpaces(trim(ltrim(rtrim(document.frmSearch.txtSearch.value))));	
+			//var v_txtLocation=removeSpaces(trim(ltrim(rtrim(document.frmSearch.txtLocation.value))));	
+			var v_txtLocation=trim(ltrim(rtrim(document.frmSearch.txtLocation.value)));		
+			if(document.getElementById('searchTypeShow').innerHTML == 'Restaurants'){
+				document.frmSearch.action='search/'+v_txtSearch+'_restaurants_in_'+v_txtLocation;
+				//document.frmSearch.action='search/'+v_txtSearch+'_restaurants_in_ny';
+			} else if(document.getElementById('searchTypeShow').innerHTML == 'Recipes'){			
+				document.frmSearch.action='recipe_search/'+v_txtSearch;
+			} else if(document.getElementById('searchTypeShow').innerHTML == 'Blogs'){
+				document.frmSearch.action="blog/search/"+v_txtSearch;
+			} else if(document.getElementById('searchTypeShow').innerHTML == 'People'){			
+				document.frmSearch.txtBrowseFor.value = v_txtSearch;
+				document.frmSearch.btnSubmit.value = v_txtSearch;				
+				document.frmSearch.action="search/reviewer";
+			} /*else if(document.getElementById('searchTypeShow').innerHTML == 'Q &amp; A'){			
+				document.frmSearch.txtForumSearch_top.value = v_txtSearch;
+				document.frmSearch.action="foodietalk_search.php";
+			}*/ else if(document.getElementById('searchTypeShow').innerHTML == 'Local'){			
+				document.frmSearch.action='l/'+v_txtSearch+'_'+v_txtLocation;
+				//document.frmSearch.action='l/'+v_txtSearch+'_ny';
+			}
 		}
 		
-		
-		if(v_txtLocation=='')
-		{
-			document.frmSearch.action='search/'+removeSpaces(ltrim(rtrim(v_txtName)))+'_restaurants';
-		}
-		if(v_txtName=='')
-		{
-			document.frmSearch.action='search/restaurants_in_'+removeSpaces(ltrim(rtrim(v_txtLocation)));
-		}
-		if(v_txtName!='' && v_txtLocation!='')
-		{
-		document.frmSearch.action='search/'+removeSpaces(ltrim(rtrim(v_txtName)))+'_restaurants_in_'+removeSpaces(ltrim(rtrim(v_txtLocation)));
-		}
-		document.frmSearch.submit();
-	
-	}
-}
-
-function search_box_check_local()
-{
-	function removeSpaces(str) {
-	re = /\$|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-	plus = /\$|,|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-          // remove special characters like "$" and "," etc...
-          var actualValue= str.replace(re, "-");
-		  var actualValue= actualValue.replace(plus, "+");
-		  return actualValue=(actualValue.replace (/\s+/g, '-'))
 	}
 	
-	
-	function ltrim(stringToTrim) {
-	return stringToTrim.replace(/^\s+/,"");
-	}
-	
-	function rtrim(stringToTrim) {
-	return stringToTrim.replace(/\s+$/,"");
-	}
-	if((document.frmSearch_local.txtName_local.value == "" || document.frmSearch_local.txtName_local.value == "Search For(e.g. Sushi)" ) && (document.frmSearch_local.txtLocation_local.value == "" || document.frmSearch_local.txtLocation_local.value == "Near(Address)"))
-	{
-		alert("please enter your searching criteria");
-		document.frmSearch_local.txtName_local.focus();
-		return false;
-	}
-	
-	if(document.frmSearch_local.txtLocation_local.value == "" || document.frmSearch_local.txtLocation_local.value == "Near(Address)" ) 
-	{
-		alert("Please enter a location");
-		document.frmSearch_local.txtLocation_local.focus();
-		return false;
-	}
-	
-	if((document.frmSearch_local.txtName_local.value == "" || document.frmSearch_local.txtName_local.value == "Search For(e.g. Sushi)" ) && (document.frmSearch_local.txtLocation_local.value == "" || document.frmSearch_local.txtLocation_local.value == "Near(Address)"))
-	{
-		alert("please enter your searching criteria");
-		document.frmSearch_local.txtName_local.focus();
-		return false;
-	}
-  	else{
-	
-		document.frmSearch_local.search_upon_local.value="restaurants";
-		
-		var v_txtName=document.frmSearch_local.txtName_local.value;
-		var v_txtLocation=document.frmSearch_local.txtLocation_local.value;
-		if(v_txtName=="Search For(e.g. Sushi)")
-		{
-			v_txtName='';
-		}
-		if(v_txtLocation=="Near(Address)")
-		{
-			v_txtLocation='';
-		}
-		
-		//alert(v_txtName);
-		if(v_txtLocation=='')
-		{
-			document.frmSearch_local.action='l/'+removeSpaces(ltrim(rtrim(v_txtName)))+'_restaurants';
-		}
-		if(v_txtName=='')
-		{
-			document.frmSearch_local.action='l/local-business_'+removeSpaces(ltrim(rtrim(v_txtLocation)));
-		}
-		if(v_txtName!='' && v_txtLocation!='')
-		{
-		document.frmSearch_local.action='l/'+removeSpaces(ltrim(rtrim(v_txtName)))+'_'+removeSpaces(ltrim(rtrim(v_txtLocation)));
-		}
-		document.frmSearch_local.submit();
-	
-	}
-}
-
-function recipe_search_box_check()
-{
-	function removeSpaces(str) {
-	re = /\$|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-	plus = /\$|,|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
-          // remove special characters like "$" and "," etc...
-          var actualValue= str.replace(re, "-");
-		  var actualValue= actualValue.replace(plus, "+");
-		  return actualValue=(actualValue.replace (/\s+/g, '-'))
-	}
-	
-	if(document.frmRecipeSearch.txtRecipe.value == "" || document.frmRecipeSearch.txtRecipe.value == "Search For(e.g. Sushi)")
-	{
-		alert("please enter your searching criteria");
-		document.frmRecipeSearch.txtRecipe.focus();
-		return false;
-	}
-	else
-	{
-		document.frmRecipeSearch.action='recipe_search/'+removeSpaces(document.frmRecipeSearch.txtRecipe.value)
-		document.frmRecipeSearch.submit();
-	}
-}
-
-function showdiv(showValue,hideValue)
-{
-	document.getElementById(showValue).style.display = 'block';
-	document.getElementById(hideValue).style.display = 'none';
-}
-
-
-
-function search_video_title_header()
-{
-	
-	var search_val=trim(document.frmsearch_video.vtitle.value);
-	if(search_val=='' || document.frmsearch_video.vtitle.value=="Search For(e.g. Videos)")
-    {
-		alert('Please enter a video title to search');
-		document.frmsearch_video.vtitle.value='';
-        document.frmsearch_video.vtitle.focus();
-        return false;
-    }
-    else
+	//#######CHECK VALIDATION FOR CUSTOM SEARCH#############
+	function custom_search_box_check()
 	{	
-	   document.frmsearch_video.action="videos/search/title/"+search_val;
-	   document.frmsearch_video.method="post";
-       document.frmsearch_video.submit();
-	   return true;
-    }
-}
-
-
-function search_blog_name_blog()
-{
-	var search_val=document.frmsearch_blog.txtsearch_blog.value;
-	
-	if(search_val=='' || document.frmsearch_blog.txtsearch_blog.value=="Search For(e.g. blogs)")
-    {
-		alert('Please enter a blog title to search');
-		//document.frmsearch_video.vtitle_header.value='';
-        document.frmsearch_blog.txtsearch_blog.focus();
-        return false;
-    }
-    else
-	{
-		document.frmsearch_blog.action="blog/search/"+search_val;
-		document.frmsearch_blog.method="post";
-		document.frmsearch_blog.submit();
-		return true;
+		if((document.frmCustom.q.value == "") || (document.frmCustom.q.value == "Search for Restaurants, Recipes, Blogs, ?, Brands, i.e. Sushi Restaurants or Chicken Recipes")) { 
+			alert("please enter your searching criteria");
+			document.frmCustom.q.focus();
+			return false;
+		} 
+	}
+	//#####GENERAL FUNCTIONS#######
+	function removeSpaces(str) {
+		re = /\$|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
+		plus = /\$|,|@|#|~|`|\%|\*|\^|\&|\(|\)|\+|\=|\[|\-|\_|\]|\[|\}|\{|\;|\:|\'|\"|\<|\>|\?|\||\\|\!|\$|\./g;
+			  // remove special characters like "$" and "," etc...
+			  var actualValue= str.replace(re, "-");
+			  var actualValue= actualValue.replace(plus, "+");
+			  return actualValue=(actualValue.replace (/\s+/g, '-'))
 	}
 
-}
-/* FOR TALK SEARCH*/
-function Check_Search_top()
-{
-	if(document.frmForumSearch_top.txtForumSearch_top.value == "" || document.frmForumSearch_top.txtForumSearch_top.value=="Search For(e.g. talk)")
-	{
-		alert("Please enter your search criteria");
-		document.frmForumSearch_top.txtForumSearch_top.focus();
-		return false;
-	}
-}
-
-/* FOR USER SEARCH*/
-function Check_Search()
-{
-//alert('Hi');
-	if(document.frmSeachuser1.txtBrowseFor.value == "" || document.frmSeachuser1.txtBrowseFor.value=="Search For(e.g. user)")
-	{
-		alert("Please enter your search criteria");
-		document.frmSeachuser1.txtBrowseFor.focus();
-		return false;
+	function ltrim(stringToTrim) {
+		return stringToTrim.replace(/^\s+/,"");
 	}
 	
-}
-
-
-
-function showdiv_sign(pValue,millisec)
-{
-	if(document.getElementById(pValue).style.display == 'none')
-	{
-		document.getElementById(pValue).style.display = 'block';
-		 opacity(pValue, 0, 100, millisec);
-	}		
-	else
-	{
-		document.getElementById(pValue).style.display = 'none';
-		opacity(pValue, 100, 0, millisec);  
-		
+	function rtrim(stringToTrim) {
+		return stringToTrim.replace(/\s+$/,"");
 	}
-	
-}
+
+	function trim(s) 
+	{
+	  while (s.substring(0,1) == ' ') 
+	  {
+		s = s.substring(1,s.length);
+	  }
+	  while (s.substring(s.length-1,s.length) == ' ') 
+	  {
+		s = s.substring(0,s.length-1);
+	  }
+		return s;
+	 }
+	function goto_signup() 
+	{
+		document.location.href='signup';
+	}
+</script>	
+
+
+<!-- CHANGE SEARCH TYPE ACCORDING TO PAGES-->
 
 
 
-function opacity(id, opacStart, opacEnd, millisec) {
-    //speed for each frame
-    var speed = Math.round(millisec / 100);
-    var timer = 0;
 
-    //determine the direction for the blending, if start and end are the same nothing happens
-    if(opacStart > opacEnd) {
-        for(i = opacStart; i >= opacEnd; i=i-1) {
-            setTimeout("changeOpac(" + i + ",'" + id + "')",(timer * speed));
-            timer++;
-        }
-    } else if(opacStart < opacEnd) {
-        for(i = opacStart; i <= opacEnd; i++)
-            {
-            setTimeout("changeOpac(" + i + ",'" + id + "')",(timer * speed));
-            timer++;
-        }
-    }
-}
 
-//change the opacity for different browsers
-function changeOpac(opacity, id) {
-    var object = document.getElementById(id).style;
-    object.opacity = (opacity / 100);
-    object.MozOpacity = (opacity / 100);
-    object.KhtmlOpacity = (opacity / 100);
-    object.filter = "alpha(opacity=" + opacity + ")";
-}
- //-->
-</script>
   <!-- / END HEADER -->
   <div id="content">
     <div id="middle_content">
@@ -1409,6 +666,24 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 
    <div id="footer1">
+       <div class="wrapper"><div class="adbox">
+<literal>
+<!-- Begin Adify tag for "728x90" Ad Space (728x90) ID #962907 -->
+<script type="text/javascript">
+	sr_adspace_id = 962907;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=962907">
+</script>
+<!-- End Adify tag for "728x90" Ad Space (728x90) ID #962907 -->
+
+
+</literal>
+</div>
+	 </div>
     <div class="wrapper">
 	 </div>
        <p></p>
@@ -1479,7 +754,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 	<li><a href="http://friendseat.com/badge">Link to FriendsEAT</a></li>
 	<li><a href="http://friendseat.com/sitemap.php">Sitemap</a></li>
-	<li><a href="http://blog.friendseat.com/tags">Blog</a></li>
+	<li><a href="http://blog.friendseat.com">Blog</a></li>
 	<li><a href="http://friendseat.com/terms" target="_blank">Terms of Use</a></li>
 <li><a href="http://friendseat.com/privacy" target="_blank">Privacy Policy </a></li>
 	 
