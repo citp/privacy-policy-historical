@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendseat.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618122105id_/http%3A//friendseat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendseat.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817215613id_/http%3A//friendseat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
