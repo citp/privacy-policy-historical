@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045204id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817150623id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -23,12 +23,12 @@ Involvement of parents: In accordance with the provisions of the Children's Onli
 How to get in touch with Houghton Mifflin: The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Company.
 
 Division: Corporate  
-Name: Rick Blake  
-Title: Senior Vice President, Communications and Government Relations  
-Address: 6277 Sea Harbor Drive  
-Orlando, FL 32887  
-Telephone Number: 773-360-7106  
-E-mail Address: [ richard.blake@harcourt.com](mailto:richard.blake@harcourt.com)
+Name: Josef Blumenfeld  
+Title: Vice President, Communications  
+Address: 222 Berkeley Street  
+Boston, MA 02116-3764  
+Telephone Number: 617-351-5280  
+E-mail Address: [ josef.blumenfeld@hmhpub.com](mailto:josef.blumenfeld@hmhpub.com)
 
 Division: School  
 Name: Richard Lena  
