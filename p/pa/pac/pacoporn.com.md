@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacoporn.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190129id_/http%3A//www.pacoporn.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacoporn.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817135852id_/http%3A//www.pacoporn.com/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Pacoporn.com
 
