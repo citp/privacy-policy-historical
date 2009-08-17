@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052905id_/http%3A//www.headphone.com/headroom/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphone.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818001926id_/http%3A//www.headphone.com/headroom/policies/privacy) for the most accurate reproduction.*
 
 # Privacy - HeadRoom: Stereo Headphones, Amps & DACs, Wireless, Noise Canceling, Ear Canal, Earbud, Audio Cables & Accessories
 
