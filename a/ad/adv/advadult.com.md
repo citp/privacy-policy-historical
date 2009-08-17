@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advadult.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629103732id_/http%3A//www.sexyadv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advadult.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817133234id_/http%3A//www.sexyadv.com/privacy.php) for the most accurate reproduction.*
 
 # SexyADV
 
