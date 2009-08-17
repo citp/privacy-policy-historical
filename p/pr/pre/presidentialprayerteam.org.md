@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612040214id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818003333id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.asp) for the most accurate reproduction.*
 
 # The Presidential Prayer Team:
 
