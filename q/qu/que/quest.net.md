@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.net privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418003607id_/http%3A//www.quest.net/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.net privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818185730id_/http%3A//www.quest.net/privacy_policy/en) for the most accurate reproduction.*
 
 # QuestNet | Network Marketing - Privacy Policy
 
