@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081130id_/http%3A//www.insidetech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818161011id_/http%3A//www.insidetech.com/privacy) for the most accurate reproduction.*
 
 # InsideTech.com :
 
