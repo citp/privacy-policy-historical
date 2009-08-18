@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070446id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendars.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818171134id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.*
 
-# Item Detail
+# What is your Privacy Policy?
 
 We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. 
 
@@ -28,6 +28,6 @@ If you forget your password, we will first verify your identity and then email y
   
 If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.
 
-**To remove your name** from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in [your account](http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=281).
+**To remove your name** from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in [your account](http://www.calendars.com/user/login.jsp).
 
-Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our [Customer Service](http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167) team.
+Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our [Customer Service](http://www.fuzeqna.com/calendars/consumer/question.asp?catid=36) team.
